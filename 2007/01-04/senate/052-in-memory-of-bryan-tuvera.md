@@ -1,0 +1,50 @@
+---
+granule: CREC-2007-01-04-pt1-PgS30-2
+date: 2007-01-04
+edition: CREC
+section: SENATE
+page: S30
+citation: 153 Cong. Rec. S30
+---
+
+# IN MEMORY OF BRYAN TUVERA
+
+**Speaking:** Boxer, Barbara (B000711) [D-CA]
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+                       IN MEMORY OF BRYAN TUVERA
+
+● Mrs. BOXER. Mr. President, it is with a heavy heart that I ask 
+my colleagues to join me today in honoring the memory of a courageous 
+man, Police Officer Bryan Tuvera. Officer Tuvera was a member of the 
+San Francisco Police Department who died in the line of duty on 
+December 23, 2006. He was 28 years old.
+  Officer Tuvera was a 4\1/2\-year veteran of the San Francisco Police 
+Department. He served with distinction and received numerous 
+commendations during his tenure. He was shot and killed during the 
+pursuit of an escaped convict. He died on the tenth anniversary of his 
+beloved father's death, who had worked as a police dispatcher with the 
+San Francisco Police Department.
+  Before joining the San Francisco Police Department on July 1, 2002, 
+Officer Tuvera received his degree in criminal justice from San 
+Francisco State University. He is a 1996 graduate of South San 
+Francisco High School.
+  Officer Tuvera was married to his wife Salina Tuvera 2 months ago. 
+They had been preparing for their first Christmas together. He is 
+remembered by friends and colleagues as a dedicated and professional 
+police officer and a good friend who loved his job and was always a 
+``class act.''
+  Bryan Tuvera risked his life every day to make San Francisco safer. 
+We will always be grateful for Officer Tuvera's heroic service 
+protecting his community.
+  Bryan Tuvera is survived by his wife and fellow police officer, 
+Salina Tuvera; his mother Sandy; his sister Tracee; and his 
+grandparents Shirley and Stanley Scovill.●
+
+                          ____________________
+```

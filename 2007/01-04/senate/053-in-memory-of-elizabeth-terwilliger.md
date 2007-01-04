@@ -1,0 +1,79 @@
+---
+granule: CREC-2007-01-04-pt1-PgS30-3
+date: 2007-01-04
+edition: CREC
+section: SENATE
+page: S30
+citation: 153 Cong. Rec. S30
+---
+
+# IN MEMORY OF ELIZABETH TERWILLIGER
+
+**Speaking:** Boxer, Barbara (B000711) [D-CA]
+
+```
+                   IN MEMORY OF ELIZABETH TERWILLIGER
+
+● Mrs. BOXER. Mr. President, it is with a heavy heart that I ask 
+my colleagues to join me today in honoring the memory of an 
+extraordinary Californian, Elizabeth Terwilliger.
+  To the Marin County community, Elizabeth Terwilliger was a renowned 
+naturalist and educator, beloved by schoolchildren and adults, who 
+leaves an amazing environmental legacy. She died on November 27, 2006 
+at the age of 97. She is survived by her daughter Lynn, her son John, 
+and several grandchildren.
+  Elizabeth Cooper was born in Hawaii in 1909. She moved to the 
+mainland to pursue a master's degree in nutrition from Columbia 
+University in New York and then attended Stanford nursing school. While 
+at Stanford, she met her husband, Dr. Calvin Terwilliger. After World 
+War II, the couple settled in Mill Valley, California where they raised 
+two children.
+  Elizabeth took her children on nature walks throughout Marin County. 
+Soon, she was leading nature walks for local Girl Scout and Boy Scout 
+troops. Her unique hands-on style and storytelling ability became known 
+throughout the community and soon she began leading field trips for 
+area schools and environmental organizations. Leading such trips 5 days 
+a week became her life's work.
+  For the 50 years that followed, every child growing up in Marin 
+County knew Mrs. Terwilliger. She was a famous and beloved educator who 
+traveled across the county in her familiar van filled with life-like 
+animal models to teach school children about nature. Upon sight of her 
+characteristic floppy straw hat, children would come running and follow 
+her through the woods with excitement and adoration. They would soak up 
+her stories and bring them home to teach their parents.
+  Those who knew Mrs. Terwilliger well recount her mesmerizing 
+personality, her passion for nature and wildlife, and her openhearted 
+way with children and adults alike.
+  In 1984, President Ronald Reagan honored Mrs. Terwilliger as an 
+outstanding volunteer. While accepting the award at the White House, 
+she shared one of her famous stories about ``Mr. Vulture,'' and had 
+President Reagan holding his arms over his head in the ``V'' position, 
+representing a vulture in flight.
+  In addition to leading nature education programs, Mrs. Terwilliger 
+was an advocate for environmental conservation and open space. She 
+campaigned for a monarch butterfly preserve, bicycle paths, wetlands 
+and open space preservation. She received numerous awards and has two 
+preserves named after her: Terwilliger Marsh in Mill Valley and 
+Terwilliger Butterfly Grove at Muir Beach.
+  She inspired Joan Linn Bekins to create the Elizabeth Terwilliger 
+Nature Education Foundation, which later became known as WildCare. 
+Using educational programs developed by Mrs. Terwilliger, the center 
+provides nature programs for over 40,000 Bay Area schoolchildren each 
+year. The center also treats thousands of wildlife each year, 
+rehabilitating them and returning them to their natural environment.
+  Mrs. Terwilliger often said, ``while you're learning, you're 
+living.'' Her life's passion was to teach people how to embrace and 
+love nature. She was a local treasure and a wonderful, inspiring woman.
+  I knew Mrs. Terwilliger and respected and admired her greatly. She 
+will be deeply missed.
+  For those of us who were fortunate to know her, we take comfort in 
+knowing that schoolchildren will continue to learn from Mrs. 
+Terwilliger's unique
+
+[[Page S31]]
+
+educational style at WildCare. Her vision, her passion and her spirit 
+will remain in the countless lives she touched.●
+
+                          ____________________
+```
