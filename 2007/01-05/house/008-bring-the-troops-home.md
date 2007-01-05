@@ -1,0 +1,36 @@
+---
+granule: CRECB-2007-pt1-Pg275-2
+date: 2007-01-05
+edition: CRECB
+section: HOUSE
+page: 275
+---
+
+# BRING THE TROOPS HOME
+
+```
+                         BRING THE TROOPS HOME
+
+  (Mr. KUCINICH asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. KUCINICH. Madam Speaker, Congress as a coequal branch of 
+government must be prepared to act to bring our troops home from Iraq. 
+Congress must have an exit plan and take steps to implement it. 
+President Bush has every intention of keeping the troops in Iraq 
+through the end of his term. However, the money is there to bring the 
+troops home now. If Congress appropriates more money for Iraq, the war 
+will escalate and more troops and innocent civilians will die. The 
+American people voted for a new direction. That direction is out of 
+Iraq. Let us rescue our troops. Let us rescue a domestic agenda. Let us 
+reverse policies which have created chaos, massive civilian casualties 
+and destruction in Iraq. Let us reunite the community of nations in the 
+cause of stabilizing Iraq.
+  The U.S. cannot do this as occupiers or as agents of contracting and 
+oil interests. We can do this only once we have stated our intention to 
+end the occupation. Next week I will be presenting to this Congress a 
+workable plan which can enable our Nation to bring the troops home, 
+assure an international peacekeeping force and begin to close this 
+perilous chapter in our Nation's history.
+
+                          ____________________
+```
