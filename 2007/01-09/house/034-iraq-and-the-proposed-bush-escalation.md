@@ -1,0 +1,70 @@
+---
+granule: CRECB-2007-pt1-Pg602-5
+date: 2007-01-09
+edition: CRECB
+section: HOUSE
+page: 602
+---
+
+# IRAQ AND THE PROPOSED BUSH ESCALATION
+
+```
+                 IRAQ AND THE PROPOSED BUSH ESCALATION
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentlewoman from California (Ms. Woolsey) is recognized for 5 minutes.
+  Ms. WOOLSEY. Mr. Speaker, first of all, congratulations for being up 
+in that chair.
+  I rise today to unwaveringly support the Speaker of the House, who 
+has said that she opposes any escalation of the occupation of Iraq, 
+that she opposes sending more combat troops into a situation in Iraq 
+that is so, so messy.
+  The Speaker represents an overwhelming majority viewpoint among the 
+American people. Indeed, Mr. Speaker, she is Speaker today because the 
+American people overwhelmingly
+
+[[Page 603]]
+
+rejected the Bush occupation policy, a policy that has already claimed 
+over 3,000 American lives, cost us hundreds of billions of dollars, 
+ignited a bloody civil war, and diminished our national security.
+  But President Bush is stubbornly and desperately clinging onto an 
+ideological vision that has been completely discredited. He is not 
+listening to the new Congress. He is not listening to the American 
+people. He is not listening to the Iraq Study Group. He is not even 
+listening to his military commanders, who have advised against an 
+escalation.
+  Even the most hawkish observer imaginable, Oliver North, has come out 
+against an escalation in a recent column entitled: ``More Troops Equals 
+More Targets.''
+  This occupation takes a more disastrous turn with each passing week, 
+but the Bush administration not only is sticking to its failed policy; 
+it is investing even more in that policy.
+  Our military presence, from the very beginning, hasn't brought peace 
+and freedom to Iraq. It has been a catalyst for greater violence and 
+disorder. It hasn't defeated the insurgency. It has been what has 
+motivated the insurgency. It hasn't solved problems in Iraq. It has 
+exacerbated them.
+  So what is the White House's solution? Send more troops and put more 
+Americans in harm's way, even though the American presence destabilized 
+Iraq in the first place. Escalation defies common sense, Mr. Speaker. 
+It is completely incomprehensible. The President of the United States 
+has a unique take on an old proverb. He believes that if you find 
+yourself in a hole, the solution is to keep on digging.
+  Here in Congress, however, we want to stop digging. On Friday, the 
+Congressional Progressive Caucus and the Out of Iraq Caucus will co-
+host a forum featuring former Senator George McGovern and Mideast 
+expert Dr. William Polk. They will be discussing their plan for ending 
+the occupation, as outlined in their recent book, ``Out of Iraq: A 
+Practical Plan For Withdrawal Now.''
+  We will also be joined by leaders from the military, and from 
+diplomatic and intelligence communities, who will offer their expertise 
+and input in a dialogue with Senator McGovern and Dr. Polk.
+  It is time for a 180-degree turn in the U.S. policy toward Iraq. It 
+is time for the Congress to act out the mandate it received from the 
+American people in November. It is time to get down to business and 
+figure out how to extricate ourselves from Iraq, end the occupation and 
+bring our troops home.
+
+                          ____________________
+```

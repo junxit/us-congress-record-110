@@ -1,0 +1,410 @@
+---
+granule: CRECB-2007-pt1-Pg422-3
+date: 2007-01-09
+edition: CRECB
+section: SENATE
+page: 422
+---
+
+# IMPACT OF THE WAR IN IRAQ
+
+```
+                       IMPACT OF THE WAR IN IRAQ
+
+  Mr. DORGAN. Mr. President, this morning and in the days leading up to 
+today, we have seen and heard a great deal of discussion, particularly 
+by the media, describing the issue of the President's speech tomorrow 
+evening and all of the discussion in the political system as a 
+political tug of war about Iraq. It is not that. This is not a 
+political tug of war. It is a serious moment for this country to try to 
+evaluate what to do about something that overlays almost everything 
+else we are considering these days; that is, the current war in Iraq. 
+What do we do about what is happening there? It is about the lives of 
+our soldiers. It is about our country's future. It is about how to make 
+change in Iraq, how to create the kind of change that will give us the 
+opportunity to do the right thing.
+  I intend to listen carefully to what the President says in his speech 
+to the nation tomorrow night. I am not going to prejudge what he says, 
+but let me suggest what I think the President has to answer for us, for 
+me, for the American people.
+  There is considerable discussion about the fact that the President 
+will likely call for a surge or an increase in American troops going to 
+Iraq. There is also discussion that perhaps he will call for additional 
+funds that would be sent to Iraq for reconstruction or other things 
+Americans would contribute.
+  One point the President will have to explain is the testimony that 
+was given less than 2 months ago before the Senate by General Abizaid, 
+the top military commander in Iraq. I am talking about the top military 
+commander of American troops in Iraq. Here is what General Abizaid said 
+in November, less than 2 months ago. He said:
+
+       I met with every divisional commander, General Casey, the 
+     corps commander, General Dempsey. We all talked together. And 
+     I said, ``In your professional opinion, if we were to bring 
+     in more American troops now, does that add considerably to 
+     our ability to achieve success in Iraq?'' And they all said 
+     no. The reason is because we want the Iraqis to do more. It 
+     is easy for the Iraqis to rely upon us to do this work. I 
+     believe that more American forces prevent the Iraqis from 
+     doing more, from taking more responsibility for their own 
+     future.
+
+  This is testimony before a congressional committee of the top U.S. 
+military commander in Iraq saying he has asked all of his top 
+commanders, if we were to bring in more American troops now, does it 
+add considerably to our ability to achieve success in Iraq. He said:
+
+       They all said no.
+
+  That is something I believe has to be reconciled. Has that changed? 
+Has something changed in 2 months?
+  With respect to the amount of money that is sent to the country of 
+Iraq, I observe this: This country has spent hundreds of billions of 
+dollars on the Iraq
+
+[[Page 423]]
+
+war. Between Iraq and Afghanistan, we are now approaching $400 billion. 
+We appropriated separately roughly a $20 billion pot of money for 
+reconstruction in Iraq. That is in addition to the reconstruction which 
+has been done by American soldiers. That $20-plus billion was pushed 
+out the door--a massive amount of money--in a short time.
+  I held a good number of hearings as chairman of the Democratic Policy 
+Committee on that issue: contracting in Iraq. I think it is the most 
+significant amount of waste, fraud, and abuse this country has ever 
+seen. Let me show one poster that describes a part of it, which was 
+shown at our hearing and we discussed this:
+
+       A $243 million program led by the United States Army Corps 
+     of Engineers to build 150 health care clinics in Iraq has, in 
+     some cases, produced little more than empty shells of 
+     crumbling concrete and shattered bricks cemented together 
+     into uneven walls.
+
+  A company called the Parsons Corporation got this money. They were to 
+rehabilitate, I believe, 142 health clinics in the country of Iraq. 
+Twenty were done, and the rest didn't happen at all. The money was 
+spent. All the money is gone. The American taxpayers found that all 
+their money was gone, but the fact is that the health clinics were not 
+rehabilitated.
+  There was a doctor, a physician from Iraq, who testified. He said: I 
+went to the Health Minister of the new Government of Iraq. I said: I 
+want to see these health clinics that were supposed to have been 
+rehabilitated for which some $200 million was appropriated by the U.S. 
+taxpayers, by the U.S. Government. I want to see these health clinics.
+  He said the Health Minister of the new Government of Iraq said: You 
+don't understand, they don't exist. They are imaginary clinics.
+  Well, our money is gone. This is an example of the waste, fraud, and 
+abuse in contracting.
+  The Halliburton corporation, Custer Battles corporation--it is 
+unbelievable--the stories. This photo shows some American officials 
+with $100 bills wrapped in Saran Wrap the size of a big brick. This 
+fellow testified at a hearing I held, this man in the white shirt. He 
+said: Look, we told contractors in Iraq: Bring a bag, we pay cash. He 
+said it was like the Wild West: Bring a sack, we pay cash.
+  This $2 million in $100 dollar bills wrapped in Saran Wrap actually 
+went to Custer Battles corporation. Custer Battles corporation got over 
+$100 million in contracts. Among other things, it is alleged they took 
+forklift trucks from the Baghdad Airport, took them over to a 
+warehouse, repainted them, and then sold them to the Coalition 
+Provisional Authority, which was us. It is a criminal action at this 
+point.
+  My point is this: Whatever we do in Iraq, I want to be effective. We 
+owe it to the troops, we owe it to the men and women who wear America's 
+uniform.
+  At this point, we have America's troops in the middle of a civil war. 
+Yes, most of this is sectarian violence. We see the reports. January 7: 
+30 dead in Baghdad, bodies hang from lampposts. The Government said 
+Saturday that 72 bodies were recovered around the city, most showing 
+signs of torture. We see these day after day after day. Our heart 
+breaks for the innocent victims of this war. The question for us now 
+is, Should American troops be in the middle of that civil war? Should 
+we send additional troops to that circumstance? If so, for what 
+purpose? And if so, why do we do it less than 2 months after General 
+Abizaid said the commanders do not believe additional troops will be 
+effective?
+  We have done what is called a surge in Baghdad starting last July. I 
+believe it was somewhere around 15,000 additional troops were sent to 
+Baghdad. The fact is, the violence increased, more soldiers died.
+  I am going to listen to President Bush's speech. This ought not and I 
+hope will not and should not be political. It is about all of us, 
+Republicans and Democrats, the President and the Congress working 
+together to find a way for the right solution for this country to 
+support our soldiers, make the right judgments for them, make the right 
+judgments for our country's long-term interests.
+  Yes, we have a fight against terrorism that we must wage, and we must 
+do it aggressively, but most of what is going on in Iraq at this point 
+is sectarian violence, and it is, in fact, a civil war. The question 
+is, What do we do now?
+  It seems to me that if we are going to keep American troops in Iraq 
+for any length of time, we ought to consider partitioning so at least 
+we separate the combatants and the sectarian violence. It only seems to 
+me, in a civil war, that works. But I will listen intently tomorrow 
+with my colleagues to hear what the President's new plan is. I hope we 
+can work together in a way that begins to do what is in the best 
+interest of this country. I am very skeptical about this issue of 
+deciding that we are going to surge additional troops into Iraq, even 
+as the top military commanders in Iraq say that should not be done.
+  I mentioned Iraq first because it overwhelms most of the other agenda 
+here, but there are so many other issues with which we must deal. Let's 
+deal with Iraq and get that right, support our troops, do what is 
+necessary, do what is best for our country. Let's work together, 
+Republicans and Democrats, let's work together, the President and the 
+Congress, and find the right solution and do what is right for our 
+future. Then let's turn to other issues.
+  How about energy? It is interesting, we are held hostage by foreign 
+oil. Over 60 percent of the oil that runs the American economy comes 
+from off our shores. When we talk about energy independence, we need 
+energy independence, and I support fossil fuels. We are going to use 
+oil, coal, and natural gas. We always have and we always will, and I 
+support that. But let me say this: In 1916, this Congress put in place 
+tax incentives for the production of oil, long-term, robust, permanent 
+tax incentives to incentivize the additional production of oil.
+  Think how different it is with what we have done with renewable 
+energy. We decided about 20 years ago to give some tax incentives to 
+incentivize renewable energy development, but they were temporary, 
+short term. The production tax credit for the production of wind and 
+other renewable energy has been extended five times because it has been 
+short term. It has been allowed to expire three times. That is not a 
+commitment to this country. This is not a commitment to renewable 
+energy. This is not a commitment to energy independence. The fact is, 
+we are just babystepping our away along in all these areas. We didn't 
+do that with oil. We made a robust, long-term commitment in 1916, and 
+it remains today, that said: Let's produce. How about doing the same 
+thing for renewable energy? Yes, the biofuels, but also wind energy and 
+hydrogen fuel cells and all the other ways that can make us more secure 
+from an energy standpoint. Let's stop babystepping. Let's have a 10-
+year plan. We cannot do this with a 1-year plan or a 2-year plan. We 
+need to deal with that issue.
+  We need to deal with the issue of health care costs. I wanted to, but 
+I don't have the time this morning, to respond to my colleague from 
+Iowa who twice has come to the floor to talk about why our Government 
+shouldn't be allowed to negotiate drug prices in the Medicare Program. 
+It is preposterous that we have a provision in law that prevents the 
+Federal Government from negotiating lower drug prices, especially 
+because our consumers in this country pay the highest prices for 
+prescription drugs in the world, and that is unfair. I relish that 
+debate, and I wait for that debate.
+  Jobs and trade--the fact is, we have lots of issues we need to sink 
+our teeth into. I am going to come back and speak about many of these 
+issues at great length. First, we have to deal with this situation in 
+Iraq. That is very important. That is about the lives of men and women 
+who wear America's uniform. But it is more than that as well. It is 
+about what we are doing around the world. It is about, yes, our lives 
+and our treasure, and we need to get that right.
+  I mentioned when I started that I think the press, if one listens to 
+all the
+
+[[Page 424]]
+
+ programs, tend to portray this as a political tug of war. It is deadly 
+serious, much more serious than a political tug of war. It is about 
+trying to get this right for our country's future.
+  I hope that in the coming several weeks, we can come to a conclusion 
+about this very important issue--yes, the war in Iraq, the larger war 
+on terrorism, deal with some of these issues, such as homeland 
+security--and then move on to begin to address the issues I just talked 
+about as well; that is, the issue of energy security, health care 
+costs, jobs, trade, and a series of issues that are important for this 
+country's future.
+  Mr. President, I yield the floor.
+  The PRESIDING OFFICER (Mr. Sanders). The Senator from New Jersey.
+  Mr. LAUTENBERG. Mr. President, I ask unanimous consent that I be 
+given 10 minutes to speak as in morning business.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. LAUTENBERG. Mr. President, this morning I rise to discuss the 
+terrible situation we see in Iraq. While home in New Jersey over these 
+last few days, I was often approached by constituents on the street and 
+there was one topic that would come into the conversation almost 
+immediately, when people said: Senator, when are we going to get our 
+troops out of the crossfire in Iraq?
+  It is a great question, but the answer is certainly not clear.
+  Our constituents back home understand that President Bush has totally 
+mishandled the diplomatic and strategic parts of the Iraq mission and 
+our troops are the ones who are caught in the middle--caught in the 
+middle of an ethnic civil war between Sunnis and Shiites. From my home 
+State of New Jersey, we have already lost 74 people in Iraq; nationwide 
+the total is quite clear--over 3,000 have lost their lives, and there 
+are over 23,000 wounded with injuries that could disable them for the 
+rest of their lives.
+  To make matters worse, a disproportionate amount of the burden of 
+this conflict has fallen to Guard and Reserve troops. In fact, in early 
+2005, the National Guard and the Reserves made up nearly half of the 
+fighting force in Iraq, people who were to be called up when 
+emergencies arose. The Reserves were not there primarily to be a 
+replacement for long-term combat duty. This administration decided 
+early on that their agenda for the military was to shrink the size of 
+our Active Forces. We all heard that. ``We will get it down to being 
+lean and mean, and increase reliance on contractors for support.'' If 
+it were not so tragic, it would be a joke.
+  Now we see, in practice, the Bush long-term military plan has been a 
+disaster. We do not have enough active troops. We are relying way too 
+much on the Guard and Reserve. And contractors such as Halliburton have 
+been wasting taxpayer dollars right and left.
+  The proof of this waste was a fine, levied against Halliburton, of 
+$60 million at one time for overcharges for the care and feeding of our 
+troops. We continue to hear of irresponsible behavior of contractors 
+serving our needs in Iraq. Mismanagement of all forms has been a 
+hallmark of Defense Department supervision.
+  At every turn, this President has made terrible judgments. Tomorrow 
+we are going to hear another decision by President Bush. Why should the 
+American people trust him to understand what he is getting us into? We 
+heard the President say, ``Bring 'em on,'' one of the most disingenuous 
+statements ever made by a President. I served in Europe during World 
+War II, and I can tell you that we never wanted to hear a Commander in 
+Chief taunting the enemy from the comforts of the White House. Asking 
+more of the enemy to show their faces? We didn't want to see them at 
+all.
+  We saw the President's foolish display of bravado on the Aircraft 
+Carrier Abraham Lincoln when he declared, ``Mission accomplished.'' 
+What a careless statement the President of the United States made that 
+day, over 3\1/2\ years ago. Mission accomplished? That meant the job 
+was finished, as far as most people were concerned. But it was not 
+through.
+  While the President was performing in 2003, leaders were warning of a 
+military crisis. General Shinseki, Army Chief of Staff, told a Senate 
+Armed Services Committee that we would need to keep a large force in 
+Iraq even after a war to curb ethnic tensions and provide humanitarian 
+aid. General Shinseki, distinguished military leader, said we needed 
+several hundred thousand troops there. His assessment was harshly 
+dismissed quickly by the President and by Secretary Rumsfeld. The 
+General's reality-based opinion got in the way of their ideologically 
+based mission of a smaller Active-Duty Force.
+  In the aftermath of the initial invasion, President Bush has made the 
+wrong move almost every time. Now we have walked so deep into the swamp 
+in Iraq that just adding more guns is not going to work. This so-called 
+surge is another bad idea--slogans, such as ``cut and run'' have to be 
+matched against the reality of ``stay and die.''
+  President Bush likes to say: I do what the generals tell me to. But 
+now we know that is not the case. The generals have been extremely 
+candid about their view of the surge idea. They think it is wrong. Now 
+we are hearing that the President intends to give another $1 billion to 
+Iraqi reconstruction projects. We want to fund every cent that our 
+troops need for their safety, for their return, for their health care, 
+for their well-being, but sending more money down the rat hole is not 
+going to do it. It is being diverted from programs at home, such as 
+education, stem cell research, health care for all our people, to name 
+a few, and the taxpayers of New Jersey do not want their money used to 
+build another civilian project in Iraq that is going to get blown up 
+the next day. Before we look to spend more money on civil projects in 
+Iraq, let's get the diplomatic situation straightened out.
+  The American people want to see us leave Iraq with some hope for 
+stability in our absence. That will require President Bush to use all 
+of the diplomatic tools at his disposal to force a dramatic change of 
+course for the Iraqi Government. The current Government in Iraq has to 
+take real steps to disarm the Shiite militias and show the Sunnis that 
+they will actually be empowered in the Iraqi Government. If we do not 
+do that, we could send a million troops to Iraq tomorrow, but it would 
+not make a difference. If the Sunnis feel the Iraqi Government has 
+nothing to offer and Prime Minister al-Maliki doesn't stop the Shiite 
+militias, the bloodbath will continue.
+  I hope the leaks about the President's plan are wrong and that he 
+will announce tomorrow a better course, a course that will allow us to 
+exit Iraq but with real hope of a more stable society left behind.
+  I conclude that with the history of planning for this war and the 
+statements coming from the White House and the leadership of the 
+Defense Department I ask: How can we trust their judgment with a new 
+plan to put more people in harm's way without some idea of when this 
+will end? It is not a good idea and we ought to get a better 
+explanation from the President and the Defense Department as to what 
+might the outcome be if their plan succeeds.
+  I yield the floor.
+  Mr. BYRD. Mr. President, the Oxford English Dictionary defines the 
+word ``surge''--s-u-r-g-e--as ``a sudden large temporary increase.'' 
+Note in particular the word ``temporary.'' President Bush's rumored new 
+strategy on Iraq--a surge of U.S. troops intended to quell the violence 
+in Baghdad--is both wrongheaded and headed for failure.
+  As outlined, the surge envisions clearing all violent factions out of 
+Baghdad in an effort which is to be led by Iraqi security forces. 
+Apparently, U.S. forces will provide indiscriminate firepower in 
+another attempt to establish democracy by brute force. This does not 
+seem to me to be the way to win hearts and minds in Iraq.
+  I oppose any surge in Iraq. Only days ago, just days ago, we passed 
+the grim milestone of 3,000 American dead in Iraq. There are few firm 
+numbers on Iraqi lives lost, but estimates are in the tens of 
+thousands. I am reminded of
+
+[[Page 425]]
+
+one definition of ``insanity'': making the same mistake over and over 
+while continuing to expect a different result. We have surged before. 
+Still the violence in Iraq worsens.
+  We are close to the beginning of the fifth year--the fifth year--of a 
+war which should never have been started by an administration that fed 
+the Congress and the public false information. This is an 
+administration which has learned nothing--nothing, zilch--nothing more 
+about the country of Iraq than it knew before it launched an unprovoked 
+U.S. attack.
+  Our stated purpose for continuing to occupy Iraq is to help the Iraqi 
+people build a stable democracy. But the difficulty of that task should 
+have been clear before we invaded. It was clear to me. Iraq is a 
+country that was only held together by a brutal strongman, Saddam 
+Hussein. And without the strongman to force cohesion, it is a country 
+with deep ethnic and religious divisions and no central loyalties. 
+There is no tradition of constitutions or equal rights, no unifying 
+common beliefs about individual freedoms or governing with the consent 
+of the governed--none of that commonality of thought that reinforces 
+governing principles in the society at large.
+  The al-Maliki Government would never survive on its own outside the 
+Green Zone in Baghdad, and indeed the point of a surge is to secure 
+only the capital. But what then? After accelerating the violence, even 
+if we are able to lock down Baghdad, what will transpire to keep the 
+insurgency from regrouping elsewhere, possibly fed by Iran or by Syria? 
+How will we then establish the legitimacy of a shaky Iraqi Government?
+  In my view, we may be about to make a critical mistake by moving in 
+exactly the wrong direction in Iraq. Instead of a surge, we ought to be 
+looking at a way to begin orderly troop reduction. The folly of the 
+surge idea is apparent. The insurrection in Iraq is a civil war. The 
+conflict is among warring factions battling for some measure of control 
+over the others. U.S. involvement on one side simply further energizes 
+all the other sides. This surge will only energize them, further 
+provoking a likely countersurge of violence. If it is a true surge--in 
+other words, temporary--the insurrection factions will only work harder 
+to maim and kill our troops and claim victory if we reduce forces. So, 
+in fact, there will probably be no surge but, rather, a permanent 
+escalation of the U.S. presence, which is simply being sold to the 
+American public as a surge. Once again, we get obfuscation and spin 
+from a White House that seems incapable of careful thought and 
+analysis.
+  Any plan to increase troops in President Bush's new strategy is 
+simply a plan to intensify violence, put more American troops in harm's 
+way, risk the lives of more innocent Iraqis, engender more hatred of 
+U.S. forces, and embroil U.S. forces deeper in a civil war.
+  I would like to see a clear defining--a clear defining--of our 
+immediate challenges in Iraq; a realistic discussion about short-term 
+achievable goals; an admission that we cannot remain in Iraq for much 
+longer because the American public will not tolerate it; and benchmarks 
+for beginning an orderly withdrawal conditioned on actions by the Iraqi 
+Government.
+  So, Mr. President, the al-Maliki Government has been duly elected by 
+the people of Iraq. It is time we let them take charge. Let them, Mr. 
+President. Let them take charge. As long as we prop them up and inflame 
+hatred, they will never have the legitimacy they need to make the 
+political decisions that may ultimately save Iraq. In short, it is time 
+to take the training wheels off the bike. Do you know what that means? 
+It is time to take the training wheels off the bike.
+  Our blundering--and it is nothing less--our blundering has inflamed 
+and destabilized a critical region of the world, and yet we continue to 
+single-mindedly pursue the half-baked goal of forcing democracy on a 
+country which is now embroiled in a civil war. Our blinders keep us 
+from seeing the regional problems which are bubbling and which soon may 
+boil. The real damage to the United States is not only the loss of life 
+and the billions of dollars expended, it is also the diminution of our 
+credibility around the world as a country with the will and the vision 
+to lead effectively.
+  Serious diplomacy is clearly in order on the matters of Lebanon, the 
+Israel-Palestinian conflict, and on Iran. Multinational talks were part 
+of the Iraq Study Group's recommendations, but diplomacy usually ends 
+up at the bottom of the administration's option list, and that is where 
+it has landed again.
+  If the ``shoot first'' crowd in the White House continues to stick 
+its chin out and believe that bullets and bombast will carry the day, 
+soon--very soon--our ability to mediate the morass of difficulties in 
+the Mideast and elsewhere may be permanently damaged. Pariahs do not 
+usually carry much weight at negotiating tables. If the lesson in Iraq 
+teaches anything, it is that military might has very great limitations. 
+But then that is a lesson we should have learned many years ago from 
+Vietnam--many years ago from Vietnam.
+
+                          ____________________
+```
