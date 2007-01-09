@@ -1,0 +1,37 @@
+---
+granule: CREC-2007-01-09-pt1-PgH128-2
+date: 2007-01-09
+edition: CREC
+section: HOUSE
+page: H128
+citation: 153 Cong. Rec. H128
+---
+
+# SUPPORT H.R. 1
+
+**Speaking:** Kagen, Steve (K000365) [D-WI]
+
+**Measures:** H.R. 1
+
+```
+                             SUPPORT H.R. 1
+
+  (Mr. KAGEN asked and was given permission to address the House for 1 
+minute.)
+  Mr. KAGEN. Mr. Speaker, we must begin to think differently in America 
+and join hands across the aisle. Our Nation must become secure now, not 
+next week; and that is why I rise in support of H.R. 1.
+  As other Members have, I ask the current administration to present 
+this Congress with a comprehensive plan for Iraq, a plan that makes 
+sense, a plan based on the realities on the ground in Iraq and in the 
+region, for all of us have the same goal: to build a better and more 
+secure Nation.
+  By working together, we will accomplish our shared mission, first, by 
+implementing the recommendations of the 9/11 Commission; secondly, by 
+securing our borders; and, finally, by protecting our Nation from 
+threats from nuclear warfare.
+  Please join me in supporting H.R. 1 as we begin to work together to 
+build a better Nation and a more secure Nation for everyone.
+
+                          ____________________
+```

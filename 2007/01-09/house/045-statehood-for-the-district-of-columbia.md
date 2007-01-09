@@ -1,0 +1,85 @@
+---
+granule: CREC-2007-01-09-pt1-PgH231-2
+date: 2007-01-09
+edition: CREC
+section: HOUSE
+page: H231
+citation: 153 Cong. Rec. H231
+---
+
+# STATEHOOD FOR THE DISTRICT OF COLUMBIA
+
+**Speaking:** Norton, Eleanor Holmes (N000147) [D-DC]
+
+```
+                 STATEHOOD FOR THE DISTRICT OF COLUMBIA
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentlewoman from the District of Columbia (Ms. Norton) is recognized 
+for 5 minutes.
+  Ms. NORTON. Mr. Speaker, I come to the House to inform the House that 
+I have today filed a bill to give full voting rights in this House to 
+the people of the District of Columbia, who are second per capita in 
+the Federal income tax they pay to support this government, this House 
+and this Senate, and who have fought and died in every war since the 
+creation of a Republic, including the outrageous war where we now 
+serve.
+  I come in gratitude that the House is now governed by my own party, 
+which for decades has supported not only what my bill today would 
+afford, a vote in the House, but a vote in both Houses, and I come to 
+thank my own caucus for that support. But I also come in some 
+frustration and with
+
+[[Page H232]]
+
+some impatience. I come in frustration that I am still a second-class 
+citizen in my own House.
+  Until I can represent the people of the District of Columbia as a 
+full American citizen, this frustration and impatience will continue.
+  I had hoped to be able to vote on the bills we all ran on that are 
+now before the House. I came to speak today, but once again, when the 
+vote came, I could not vote. I couldn't vote because I was not even 
+allowed the vote in the Committee of the Whole that I won when the 
+Democrats were last in power.
+  My people in the District have chastised me for even trying to get 
+the Committee of the Whole vote. They perhaps recognize that it is a 
+hubris that I wished at least to vote in this House as we convened, and 
+they are perhaps right. They tell me, we are not in any way interested 
+in another second-class vote, Eleanor. It is time for first-class 
+rights for the people of the District of Columbia.
+  So I accept their chastisement and pledge to them that I will not 
+rest, now that Democrats are in power, until Democrats do as they have 
+always said, that they sought power to do, to give votes to the people 
+of the District of Columbia.
+  I have tried everything, I have tried statehood, I have tried 
+Committee of the Whole. It is time to try the real thing, Mr. Speaker, 
+when there are 650,000 people who pay their taxes and have met every 
+obligation, and are not recognized as citizens in their own House and 
+send somebody to the House that is not even recognized to vote on this 
+House, not even in the Committee of the Whole.
+  I come to express their frustration, to say I am leaving all that 
+behind. I have introduced the bill they want. I accept their 
+chastisement. We want our votes. We want it in the 110th Congress, and 
+we want it now. I speak for them as a woman who knows what it means to 
+be a second-class citizen, and who, once she left the District went to 
+law school, said, I shall never again be a second-class citizen. Yes, I 
+grew up in segregated schools in this town, in segregated Washington. 
+That is what it meant to be a second-class citizen. Now to be a second-
+class civics citizen, after 200 years, has become too much to bear.
+  So I have introduced a bill to make it absolutely clear, as my people 
+have said I must do today, that there is boiling determination among 
+the people of the District of Columbia to get this vote. Not in 
+January. We have respected the right of the Congress to come forward 
+with the bills that are of great importance to the country, but those 
+of us who believe that the vote is basic, is basic to Democrats, is 
+basic to America, I believe we should move on after January and finally 
+keep the promise that at least Democrats have made to the House and 
+that I commend Republicans for getting us very close to in the 109th 
+Congress.
+  This is the 110th, Mr. Speaker. This is the moment of truth. This is 
+the moment when the Democrats have not only the opportunity, but the 
+obligation to give a vote in the 110th Congress to the people of the 
+District of Columbia.
+
+                          ____________________
+```

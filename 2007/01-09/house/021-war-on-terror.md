@@ -1,0 +1,43 @@
+---
+granule: CREC-2007-01-09-pt1-PgH128-3
+date: 2007-01-09
+edition: CREC
+section: HOUSE
+page: H128
+citation: 153 Cong. Rec. H128
+---
+
+# WAR ON TERROR
+
+**Speaking:** Blackburn, Marsha (B001243) [R-TN]
+
+```
+                             WAR ON TERROR
+
+  (Mrs. BLACKBURN asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Mrs. BLACKBURN. Mr. Speaker, I do want to speak for just a moment 
+about the war on terror and our efforts in Iraq. It is clear that we 
+have come to a very important time in this effort. The President is 
+going to speak about his strategy tomorrow night.
+  You know, I have been asked many times over the last few weeks, and 
+certainly on Sunday when I was at Fort Campbell, if I would support a 
+surge in the troops. I think that we have to remember that it is 
+important that we listen to the men and women and the commanders in the 
+field as we have this discussion.
+  We have to look at the situation: what does it take to defuse it, to 
+stand up the Iraqis and make it easier to relinquish control to the 
+Iraqis for their country.
+  It is exactly this sort of opportunity and these situations that 
+really animate the work and the leadership of Lieutenant General David 
+Petraeus, the American commander who has been there for a year with the 
+101st, who was back for a year training the Iraqi troops in Baghdad, 
+and now will return again. He has been called the military's warrior 
+scholar and has drawn deeply on his dual background to create a 
+leadership style that is respectful of military tradition and is 
+innovative. We support General Petraeus.
+  We look forward to his work there and his leadership style as we work 
+to continue to defeat the terrorists and win the war on terror.
+
+                          ____________________
+```
