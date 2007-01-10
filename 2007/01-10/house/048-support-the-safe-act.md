@@ -1,0 +1,69 @@
+---
+granule: CRECB-2007-pt1-Pg802-2
+date: 2007-01-10
+edition: CRECB
+section: HOUSE
+page: 802
+---
+
+# SUPPORT THE SAFE ACT
+
+```
+                          SUPPORT THE SAFE ACT
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentlewoman from New York (Mrs. McCarthy) is recognized for 5 minutes.
+  Mrs. McCARTHY of New York. Mr. Speaker, earlier this week, 
+unfortunately, violence has struck our schools again. Unfortunately, 
+this has been an increasing trend. In the past several years, we have 
+seen countless incidents across the Nation.
+  School violence is not limited to urban areas. Acts of bullying and 
+other violent crimes occur in schools across the Nation on a daily 
+basis. We must do something to stop this growing trend.
+  Our current reporting system on school violence is severely flawed. 
+Under current law, school violence stats are collected through surveys 
+and self-reported data. This data is not the most current data 
+available and does not provide an accurate view of the situation.
+  The FBI has developed a system of reporting that is both 
+comprehensive and up to date. This system is referred to as the NI-BERS 
+System. It collects the data, details of crime incidents, and is a much 
+greater tool to prevent school violence. Accurate data is valuable to 
+addressing this issue. It allows our school administrators to see the 
+true impact of school safety programs and it provides the basis for 
+need-based school funding.
+  In response to these issues, I have introduced the Safe Schools 
+Against Violence in Education Act. My bill, referred to as the SAFE 
+Act, moves reporting data from surveys to real crime stats in the NI-
+BERS System. This move will allow schools to accurately address school 
+safety issues.
+  It will also ensure that funding is allotted to the schools that need 
+it the most. Our schools do not have the resources that they need to 
+combat school violence. President Bush has constantly cut funding for 
+the Safe and Drug Free Schools Program. These cuts have left our 
+already-overburdened schools without the money needed to stop school 
+violence.
+  The SAFE Act will restore funding for our schools through a need-
+based grant program. Schools that do not have a safe climate will 
+receive grants from the Department of Education. That money will be 
+used to update school safety programs to curb the needless acts of 
+violence and make our schools safer for our children. If we are serious 
+about school safety, we must not only implement new reporting measures 
+but must fully fund our schools.
+  The SAFE Act is endorsed by the National Parent and Teachers 
+Association, the American Federation of Teachers and the National 
+School Safety and Security Services.
+  Congress has sat and watched as schools across the country have 
+attempted to deal with school violence with insufficient data and 
+little to no funding. We tried to correct this in Leave No Child 
+Behind. So as we reauthorize Leave No Child Behind this year, I am 
+hoping we will be able to implement a better program. We have an 
+opportunity to change the way we handle school violence in this country 
+and truly make our schools safe.
+  We see and hear every day about the violence, when our children are 
+in school and do not feel safe, and I have talked to so many teenagers 
+and middle school students that say that many times they do not feel 
+safe in school. We can do something, but we need a better way of 
+reporting it.
+
+                          ____________________
+```

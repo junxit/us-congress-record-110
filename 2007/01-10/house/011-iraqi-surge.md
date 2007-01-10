@@ -1,0 +1,36 @@
+---
+granule: CRECB-2007-pt1-Pg742-2
+date: 2007-01-10
+edition: CRECB
+section: HOUSE
+page: 742
+---
+
+# IRAQI SURGE
+
+```
+                              IRAQI SURGE
+
+  (Mr. INSLEE asked and was given permission to address the House for 1 
+minute.)
+  Mr. INSLEE. Mr. Speaker, we need a surge of congressional action to 
+stop George Bush's disastrous policy in Iraq. The country needs and is 
+desperate for a change in policy in Iraq, and tonight President George 
+Bush will continue his policy of failure, of giving us just more of the 
+same.
+  It is clear that we need to insist on a political solution in Iraq 
+rather than to insist on Americans continuing to pour billions of 
+dollars and thousands of lives into this political chaos in Iraq. The 
+President has refused to listen to the bipartisan panel calling for a 
+change in Iraq. He has refused to listen to the American people. But he 
+cannot refuse to listen to a Congress that fulfills its obligation 
+under the Constitution to exercise the power of the purse to stop this 
+misguided escalation.
+  The U.S. House should vote in clear and no uncertain terms to fund 
+the troops that are there and to cut off funding for any escalation. It 
+is our constitutional obligation. It is a commonsense policy to insist 
+on Iraqis standing up. That is the direction and the change we need in 
+this country.
+
+                          ____________________
+```

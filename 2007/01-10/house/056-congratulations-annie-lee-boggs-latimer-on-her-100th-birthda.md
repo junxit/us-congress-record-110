@@ -1,0 +1,47 @@
+---
+granule: CRECB-2007-pt1-Pg807-2
+date: 2007-01-10
+edition: CRECB
+section: HOUSE
+page: 807
+---
+
+# CONGRATULATIONS ANNIE LEE BOGGS LATIMER ON HER 100TH BIRTHDAY
+
+```
+     CONGRATULATIONS ANNIE LEE BOGGS LATIMER ON HER 100TH BIRTHDAY
+
+  (Mr. PRICE of Georgia asked and was given permission to address the 
+House for 1 minute.)
+  Mr. PRICE of Georgia. Mr. Speaker, Annie Lee Boggs Latimer was born 
+in Milton County, now a portion of Fulton County in north Georgia on 
+January 10, 1907, to Elizabeth and Ben Boggs 100 years ago today. She 
+grew up on a farm on Boggs Road with eight siblings, Glenn, Mary, 
+Frank, Frances, Walter A., Nettie, Ruth and Dorothy, off what is now I-
+85 in Gwinnett County, Georgia.
+  She attended Duluth High School, Young Harris College and the 
+University of Georgia and went on to become a beloved teacher in 
+Gwinnett and Cobb counties for over 30 years. On June 12, 1937, she 
+married William B. Latimer, and for over 50 years, they lived in what 
+all knew as the ``Rock House'' in Duluth, Georgia. Anne and Bill were 
+married for a wonderful 61 years until his passing in 1998.
+  She is the proud mother of Ben W. Latimer and the mother-in-law of 
+Rachel H. Latimer. She is an inspiration for her two grandsons and 
+their wives, Bill and Lynn and Mike and Laura, and adored by her five 
+great grandchildren Brian, Sara, Claire, Gabrielle and Andrew. She is 
+known affectionately by her family as ``Mama Anne'' and by her friends 
+at church as ``Miss Anne.''
+  She has imparted wisdom and positive values to all the many students 
+who were in her classes and benefitted from her teaching. Mama Anne is 
+a guiding light for all her family and always brings love, direction, 
+caring and support.
+  Mr. Speaker, I know the U.S. House of Representatives joins me in 
+sending our very best on the occasion of her 100th birthday to Anne B. 
+Latimer and recognizing her life as a role model to all for achieving 
+independence, longevity and success, by living the American dream of 
+spirituality, community, hard work, and accomplishment.
+  I am very privileged, Mr. Speaker, to have had the opportunity to 
+recognize one of America's greatest citizens.
+
+                          ____________________
+```
