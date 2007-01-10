@@ -1,0 +1,35 @@
+---
+granule: CREC-2007-01-10-pt1-PgH255-6
+date: 2007-01-10
+edition: CREC
+section: HOUSE
+page: H255
+citation: 153 Cong. Rec. H255
+---
+
+# IRAQI SURGE
+
+**Speaking:** Moran, James P. (M000933) [D-VA]
+
+```
+                              IRAQI SURGE
+
+  (Mr. MORAN of Virginia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. MORAN of Virginia. Mr. Speaker, the President's proposal that he 
+will announce tonight to increase rather than decrease the number of 
+troops in Iraq defies the reality on the ground and the advice of our 
+wisest military commanders. This decision will only serve to put more 
+forces in the crossfire of a growing civil war. If there ever was a 
+justifiable mission to depose a ruthless dictator, that mission has 
+been accomplished. The Congress never authorized this military 
+occupation. It is irresponsible and, in fact, immoral to allow more 
+innocent American lives to be lost in vain.
+  Iraq is an artificial nation that was created by Winston Churchill 
+and Gertrude Bell in 1922 to promote their concept of British 
+imperialism. The reality is that this was never a winnable war for the 
+United States of America nor in my view is it a sustainable civil 
+society, and adding more troops is not going to change that reality.
+
+                          ____________________
+```
