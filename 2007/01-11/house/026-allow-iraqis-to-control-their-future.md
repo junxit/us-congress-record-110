@@ -1,0 +1,41 @@
+---
+granule: CREC-2007-01-11-pt1-PgH348-6
+date: 2007-01-11
+edition: CREC
+section: HOUSE
+page: H348
+citation: 153 Cong. Rec. H348
+---
+
+# ALLOW IRAQIS TO CONTROL THEIR FUTURE
+
+**Speaking:** Kagen, Steve (K000365) [D-WI]
+
+```
+                  ALLOW IRAQIS TO CONTROL THEIR FUTURE
+
+  (Mr. KAGEN asked and was given permission to address the House for 1 
+minute.)
+  Mr. KAGEN. Mr. Speaker, we must begin to think differently in 
+America, because the path we are on now is morally unacceptable. More 
+than 3,000 brave Americans have perished in Iraq and more than 650,000 
+Iraqi civilians are dead. President Bush's newest war proposal is not a 
+complete and comprehensive plan, and more importantly, it is not based 
+on realities on the ground and in the region.
+  The President believes that 20,000 additional U.S. troops will change 
+the outcome in Iraq. He was wrong to invade Iraq, and he is wrong now. 
+Instead of decreasing the violence, last night's proposal will increase 
+the risks to everyone in Iraq and the surrounding region, and it will 
+not bring an end to the Iraqi civil war. Clearly it was bad judgment to 
+have invaded Iraq. It will be even worse judgment to remain.
+
+[[Page H349]]
+
+  Simply put, we do not belong in Iraq, and we are still headed in the 
+wrong direction. We all support our troops, but we must not support the 
+administration's policy of more of the same poor judgment. We must 
+begin to withdraw our forces and allow the Iraqis to take control of 
+their own future.
+
+                          ____________________
+```
