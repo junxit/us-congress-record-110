@@ -1,0 +1,36 @@
+---
+granule: CRECB-2007-pt1-Pg931-3
+date: 2007-01-11
+edition: CRECB
+section: HOUSE
+page: 931
+---
+
+# DEMOCRATS NEED TO LAY OUT IRAQ PLAN
+
+```
+                  DEMOCRATS NEED TO LAY OUT IRAQ PLAN
+
+  (Mr. KINGSTON asked and was given permission to address the House for 
+1 minute.)
+  Mr. KINGSTON. Mr. Speaker, you know, it is time for the Democrat 
+Party to lay out its plan for Iraq. I understand the echo chamber of 
+liberalism is going to be teeing off on the President all week long. I 
+understand that, because that is what has been going on for 6 months 
+and, indeed, in some circles for a year.
+  There are 65 Members, in fact, of the Get Out of Iraq Now Caucus, and 
+I actually have a lot of respect for them because they have a vision, 
+they have a plan. The plan is: get out of Iraq.
+  Now there is no answer to the question: What happens then? What 
+happens then when you have an American defeat internationally in the 
+Middle East, when you turn over the third largest oil producing nation 
+in the world to a terrorist state? What happens to the people over 
+there who are pro-America or pro-democracy? They don't answer that 
+question, and I understand that.
+  But for the other Democrats who are so enthusiastically piling on the 
+President right now, and certainly I want to say as a Republican it has 
+not been going well and we do need a new change in direction, but I 
+would say to the majority party, put your plan on the table.
+
+                          ____________________
+```
