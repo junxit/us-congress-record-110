@@ -1,0 +1,68 @@
+---
+granule: CREC-2007-01-12-pt1-PgH491-4
+date: 2007-01-12
+edition: CREC
+section: HOUSE
+page: H491
+citation: 153 Cong. Rec. H491
+---
+
+# TRIBUTE IN MEMORY OF DARRELL NORMAN FOR HIS HONORABLE SERVICE TO THE HOUSE
+
+**Speaking:** Norton, Eleanor Holmes (N000147) [D-DC]
+
+```
+ TRIBUTE IN MEMORY OF DARRELL NORMAN FOR HIS HONORABLE SERVICE TO THE 
+                                 HOUSE
+
+  (Ms. NORTON asked and was given permission to address the House for 1 
+minute.)
+  Ms. NORTON. Mr. Speaker, yesterday the House lost one of its own. It 
+is with great sadness and heavy heart that I rise today to honor the 
+memory of Darrell Norman and his service to the House of 
+Representatives.
+  Mr. Norman collapsed on these premises and died yesterday. Darrell 
+Norman lived in the District of Columbia and served the institution 
+with distinction and excellence as a senior technical support 
+representative for more than 20 years. His colleagues tell us that they 
+will miss his infectious smile and spirit. His daughter, Monea, 
+actually interned in my office for part of 2004.
+  Kindhearted, professional, and dedicated are words used by Darrell's 
+colleagues to describe him. He is known throughout the House as a 
+person you can rely on to do whatever it takes to get the job done. He 
+has earned the reputation as a person with calm demeanor, steady work 
+ethic, and respect for everyone.
+  Darrell's kindheartedness and drive to serve others was reflected in 
+his work and set a tone for collegial comradery with customers and 
+colleagues.
+
+[[Page H492]]
+
+  His service to the House is respected by the Members, chairmen, 
+officers, and staff that have benefited from his unwavering disposition 
+and willingness to serve in any role needed.
+  Darrell was always willing to volunteer his time to assist others. 
+His participation on the House emergency preparedness and response 
+teams as a critical staff member was above and beyond his daily 
+responsibilities.
+  Energy and enthusiasm were his trademark characteristics and earned 
+him recognition as a ``CAO All Star'' for his ``can do'' attitude and 
+living his philosophy to never say no. You could always count on 
+Darrell.
+  Admired by the people who knew him and appreciated by those he 
+served, Darrell was an exceptional role model. He received the CAO 
+award for distinguished service in acknowledgement of his consistent 
+and selfless service to the U.S. House of Representatives.
+  Keeping the House an important part of his life did not eclipse 
+Darrell's pride in his children. His eyes would light up and his chest 
+expanded every time he spoke of his daughter and son. Darrell is 
+survived by his mother, Mary Norman, his younger sister Dorita Norman 
+Smith, his younger brother Jeffrey Norman, his daughter Monea Hendricks 
+and his son Darrell Norman, Jr.
+  It is a privilege to pay respects to a man who lived the spirit of 
+unconditional service. On behalf of the entire House community, we 
+extend our condolences to Darrell's family, friends and colleagues in 
+mourning the loss of a special man.
+
+                          ____________________
+```
