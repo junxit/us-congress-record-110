@@ -1,0 +1,1001 @@
+---
+granule: CREC-2007-01-17-pt1-PgH642
+date: 2007-01-17
+edition: CREC
+section: HOUSE
+page: H642
+citation: 153 Cong. Rec. H642
+---
+
+# THE OFFICIAL TRUTH SQUAD
+
+**Speaking:** Price, Tom (P000591) [R-GA], Davis, David (D000606) [R-TN], Blackburn, Marsha (B001243) [R-TN], Foxx, Virginia (F000450) [R-NC]
+
+**Measures:** H.R. 6
+
+```
+                        THE OFFICIAL TRUTH SQUAD
+
+  The SPEAKER pro tempore. The gentleman from Georgia (Mr. Price) is 
+recognized for 60 minutes.
+  Mr. PRICE of Georgia. Mr. Speaker, I want to thank the leadership for 
+allowing me to host this hour this evening, an hour once again of the 
+Official Truth Squad. The Official Truth Squad is a group of 
+individuals who got together almost 2 years ago now, and we are 
+somewhat frustrated and concerned about the level of not just rancor 
+here in Congress, but the level of disinformation and the kind of 
+information that was often being put forward in support of certain 
+legislation that, in fact, well, Mr. Speaker, just wasn't true.
+  So what we did is to get together, primarily, a group of freshmen 
+from the last Congress and put in place this Official Truth Squad. Our 
+goal, our purpose, is to raise the level of the rhetoric, to be a 
+little more positive than is usually the case here in Washington, and 
+to use facts. To use facts. We have a number of favorite quotes, but 
+one we like to use frequently is one from former United States Senator 
+Daniel Patrick Moynihan, who kind of crystallized what is a real 
+concern here in Washington, because everybody throws around their own 
+opinions. But his quote was, ``Everyone is entitled to their own 
+opinion but not their own facts.''
+  We think that it is extremely helpful when we are talking about 
+issues to talk about facts, because if we are not using facts to base 
+the decisions we make here in Washington, if we are not using facts to 
+reach the conclusions, then it is very likely that we will not reach 
+the right conclusion.
+  I have said before, Mr. Speaker, that in my former life I was a 
+physician, and I knew if I didn't use facts and I didn't make the right 
+diagnosis, it was virtually impossible to formulate the right treatment 
+plan and then have the patient get well. So we can look at that as an 
+analogy for what we are trying to do for our Nation, which is to make 
+the right diagnosis, to formulate the right proposals and plans and 
+policies and put them in place so that the patient that is our Nation 
+survives and thrives and does well.
+  Mr. Speaker, I am pleased to be able to have the opportunity once 
+again tonight to host an hour of the Official Truth Squad; and I will 
+be joined by a number of colleagues, and we will address two or three 
+issues this evening. We are going to start by talking about what many 
+people have discussed around the Nation, and it has kind of captured 
+the attention of many in the media, Mr. Speaker, and that is this issue 
+of the 100-hour agenda that the majority party, the Democrats, have.
+  It is curious to look at that for a variety of reasons, but we will 
+look specifically at the amount of time and kind of what they have been 
+doing with that 100 hours.
+  Secondly, we will talk about the issue of student loans. It is a bill 
+we had here in Congress today, and we are trying to have facts back up 
+policy as it relates to how best to provide appropriate loans for 
+students who are trying to reach that American dream all across this 
+Nation.
+  Thirdly, we are going to talk a little about energy policy, something 
+that I would suggest, Mr. Speaker, needs a lot of facts brought to the 
+table.
+  The common theme that I think people will appreciate if they are 
+truly interested in looking objectively at these three issues, and so 
+many others here in Congress, the common theme about these three issues 
+tonight, I would suggest, Mr. Speaker, is broken promises. Broken 
+promises.
+  In fact, when you look at these issues independently, I think you 
+will be able to see as we go through them the broken promises that have 
+occurred just in these first 2 weeks in Congress.
+  And why is it important, Mr. Speaker, for promises to be kept? Well, 
+you know, we hear all the time from the other side that people voted 
+last November for a change. And they did vote for a change; there is no 
+doubt about it. There were a lot of things we in the majority could 
+have done better. But people across this Nation based their votes upon 
+information that they had. They based their votes upon what they were 
+being told and what they were being promised by the other side. So if 
+those promises aren't kept, then that is important.
+  It is important for a variety of reasons. One is that the policies 
+that were promoted and were espoused as being the be-all and end-all 
+for our Nation aren't being carried out by the majority party. But as 
+important as that is, Mr. Speaker, maybe even more important is the 
+fact that when people go to the polls and they vote, and they rely on 
+what Members of Congress who are ultimately successful have told them 
+they were going to do, and then those things aren't done, all that 
+does, Mr. Speaker, is breed a cynicism and a disgust with our form of 
+government and our Representatives, and makes it so that it is 
+extremely difficult to move forward in a positive direction for our 
+Nation.
+  I want to talk a little bit about the 100-hour clock, and then we 
+will have some others, I know, who will be interested in speaking about 
+that. There has been a lot of talk about this 100 hours, this wonderful 
+100 hours in which the Democrat majority was going to get all these 
+grand things done. And it was promised, it was promised, this 100 
+hours.
+  Now, what we have seen over this period of time is that that 100 
+hours has changed. Initially, the first 100 hours was going to be, to 
+quote the Speaker on October 6, 2006, she said, ``In the first 100 
+hours the House meets after Democrats win control,'' and then she went 
+on to describe what they were going to do. The first 100 hours the 
+House meets after Democrats take control.
+  Then it soon morphed into, well, it will be the first 100 legislative 
+hours. On December 1, after the election, when they began looking at 
+what they were going to do and how they were going to make it happen, 
+they said, on December 1, 2006, ``In our first 100 legislative hours in 
+office we have a bipartisan and an achievable plan.''
+  Mr. Speaker, as you well know, that kind of went by the wayside as 
+well. And when we called them on it, we said what 100 hours is it, the 
+new majority leader, Mr. Hoyer from Maryland, put it best when he kind 
+of talked about, well, we will try to do it in 100 hours. Maybe we will 
+get it done, maybe we won't. But then he said, ``It all depends on how 
+you are counting 100 hours.''
+  And he is right. He is right. It all depends on how you are counting 
+the 100 hours. If you have the desire to deceive the American people 
+and turn the clock on and off whenever you want to, then you get to 
+about 33 hours, which is what the Democrat clock tells us they have 
+taken.
+  This is our third week, Mr. Speaker, our third week here. So what 
+does that mean? It means that we are working about 10 hours a week. 
+About 10 hours a week. I think the American people are working a whole 
+lot more than 10 hours a week. A reasonable amount of time, given that 
+we have been sworn in for about 14 days, 2 full weeks, a reasonable 
+amount of time may be 80. And that is about the sense of how many hours 
+we have in fact been in session.
+  As of 7 p.m. tonight, Mr. Speaker, we will have been in session 81 
+hours and 53 minutes. So that is a reasonable estimate. But the total, 
+if you really keep track of 100 hours, the total time as of noon today 
+was 336 hours. As of noon today, 336 hours.
+  Now, people may say, well, that doesn't make a whole lot of 
+difference what the time is. But, Mr. Speaker, it does, because the 
+promises were made and the promises have been broken. Again, as Mr. 
+Hoyer says, it all depends on how you're counting 100 hours. Kind of 
+reminds me of the quote about the definition of ``is,'' doesn't it, Mr. 
+Speaker?
+  We are so pleased to have many members of our conference who want to 
+take part in the Official Truth Squad, and tonight we have a new friend 
+to me and to our conference, Congressman David Davis, the gentleman 
+from Tennessee, who is a freshman. This is his first term in Congress.
+  He began a small business, a very successful individual back in 
+Tennessee, and he has great perception on the processes of legislation 
+because he, like I, served 8 years in his State legislature. So I am 
+very, very pleased to welcome Congressman Davis to the
+
+[[Page H643]]
+
+floor this evening to share a few words with us about the first 100 
+hours, the first couple of weeks, and his experiences.
+  I welcome you and would be glad to yield.
+  Mr. DAVID DAVIS of Tennessee. Mr. Speaker, I thank the gentleman, and 
+here we are in our third week of 100 hours, and that is not east 
+Tennessee math. I represent the beautiful area of northeast Tennessee 
+and the 1st Congressional District and am very honored to do so.
+  One thing I recall when we went through the elections last year, 
+being a freshman legislator here in Washington, I remember the talk 
+about we need change, and I think the American people actually voted 
+for change, Mr. Speaker. But I am not so sure the American people are 
+going to be happy with the change that is taking place here on the 
+Hill.
+  One of the things that has happened as we have moved forward in this 
+first 100 hours, one of the very first things that we did under the new 
+Democrat majority is, we took a vote to not require recorded votes in 
+the Rules Committee. Now, remember, back in the elections during the 
+talk of change, this was going to be the most open Congress that had 
+ever been known on Capitol Hill. Well, when you go into a committee and 
+you take a vote and that vote is not open and recorded for the people 
+back home, you are not opening up sunshine, you are actually pulling 
+the blinds down on government.
+  I don't think that is exactly what the American people wanted to do. 
+I don't think that is the change the American people wanted.
+  I was known as a Tennessee legislator that actually worked to open up 
+government in Tennessee. When I went there, I found out in Nashville, 
+Tennessee, that they were doing the very same thing. They were going 
+into committees and subcommittees and people were taking votes, and you 
+could go to the speaker of the house and say, Mr. Speaker, I am with 
+you; don't worry about that, I will vote with you on that issue. And 
+then you could go back home and say, don't worry about me, I am with 
+you on that issue, and you would be telling two completely different 
+stories.
+  Well, after 8 years of working in Tennessee, we finally changed that. 
+And so I was looking forward to coming to Washington where we were 
+going to have the most open Congress that had ever been known on 
+Capitol Hill. Well, here I come, and the first week of the 100 hours, 3 
+weeks ago, I find one of the first things the majority party did was to 
+actually stop recording votes. That is not the change the American 
+people wanted, Mr. Speaker.
+  On another issue, Mr. Speaker, when the Republicans had the majority, 
+if they wanted to raise taxes, if there was a need to balance the 
+budget with taxes, it took a super majority to raise those taxes. It 
+took three-fifths of the Members of this august body to raise those 
+taxes.
+  Well, the American people voted for change. Not sure they got the 
+change they wanted, though, because one of the very first things that 
+took place here on Capitol Hill was, they lowered that super majority 
+to raise your taxes down to a simple majority. So now taxes can be 
+raised without one Republican vote.
+  I don't think they would have done that if that was not something 
+they are looking at as a possibility in the future. I am not sure that 
+is the change the American people voted for. I think they ought to be 
+concerned. I think it can lead to bigger government, and it is going to 
+lead to a bigger bureaucracy. We are seeing that in some of the votes.
+  Not sure that is the change the American people voted for.
+  One of the votes we voted for the second week of the 100 hours was to 
+threaten life.
+
+                              {time}  1900
+
+  What a tragedy when you don't protect the life of the unborn. We were 
+talking about stem cells. And I am a big supporter of actually using 
+adult stem cells. There is new research that has come out that says you 
+can use amniotic fluid. And if you look at the science, the science 
+tells you that there are about 72 diseases that have been treated with 
+adult stem cells. There is zero diseases that have been treated with 
+the embryonic. And that debate was not really about can you do it or 
+can't you do it. It has already been legal. And I can tell you, being a 
+businessperson, if there had been a lot of scientific possibilities for 
+that there would be some business somewhere that would have invested 
+capital, risked that capital because there is a potential for success 
+in the future.
+  Well, under the Democrat control, under the majority control, 
+unfortunately, they decided to pass the piece of legislation to allow 
+embryos to be destroyed; in other words, allow life to be destroyed. I 
+am not sure that is the change the American people wanted, Mr. Speaker.
+  Then, again, in the second week of the first 100 hours, a bill 
+actually passed here on the floor to allow our national security to be 
+controlled by the United Nations.
+  Now, living in the mountains of East Tennessee, I don't know many 
+east Tennesseeans that would want the U.N. to be in charge of our 
+security. We are a sovereign Nation, and I honestly believe Americans 
+across the Nation are just like most east Tennesseeans, we don't feel 
+like we have to go ask the U.N. if we can protect ourselves. I can't 
+think of anything that is more important than a government that is 
+willing to protect its citizens. That is our number one responsibility 
+is the security of our citizens. So putting us under the auspices of 
+the U.N. is, I don't think, the change the American people wanted.
+  Then there is going to be a bill coming up tomorrow on energy taxes, 
+and there is a lot of talk about big oil and what are we going to do 
+with this issue. And we are giving special interest. Well, the reality 
+is the special interest that I want to protect is the person that turns 
+on his light switch back in east Tennessee tonight, or has to turn 
+their heat on because it has gotten colder outside, or the family back 
+in east Tennessee that is having to stop and fill up their automobile 
+with gas tonight. That is the special interest that I want to protect. 
+And raising taxes during this 100 hours is not the change that the 
+American people wanted, Mr. Speaker. That is not what I hear from east 
+Tennessee, and that is not what I hear from Americans.
+  Big government simply isn't the answer all the time. Oftentimes, I 
+find, as I talk to the good commonsense folks back in east Tennessee, 
+is sometimes the government is the problem. And bigger government leads 
+to bigger bureaucracy. I think the way we solve these problems is not 
+look to big government, but look back to our families, back across 
+America. Families can make good decisions for their children and for 
+their grandchildren. Then look to the States. States have a good handle 
+on what is going on back across the United States and look to local 
+governments. Look to businesses. Big government's not always the 
+answer. I don't think that is a change that the American people wanted, 
+Mr. Speaker.
+  Mr. PRICE of Georgia. Mr. Speaker, I thank the gentleman for 
+participating this evening, and I appreciate your perspective. You have 
+come with a wealth of knowledge and information, especially in the 
+health care issues, but also your legislative experience. And I think 
+you are right. I think that the American people did indeed vote for 
+change. And you outlined a number of the issues that I suspect, had the 
+other side run, during the campaign, on those issues, that the vast 
+majority of the American people, Mr. Speaker, would have said well, 
+that is not what I mean.
+  To not reveal to the American people what kind of votes are occurring 
+in committee? That is not democracy in action. Doing away with the 
+super majority. We know why they did away with the super majority don't 
+we now, because they are about to raise taxes tomorrow, and they 
+couldn't have done it if it required a super majority.
+  To have the United Nations have some significant control over 
+portions of U.S. foreign policy, that is not the kind of change that 
+the people were interested in.
+  And you used one of my favorite lines, and that is that the special 
+interests that you have are the constituents that you represent. And it 
+is so true, that when people in this Chamber talk about special 
+interests, the fact of the matter is the only special interests we 
+ought to be concerned about are the constituents that we represent.
+
+[[Page H644]]
+
+  And so I can't thank you enough for your participation tonight and 
+the wisdom that you bring and the truth. We don't call it the Official 
+Truth Squad for nothing. And you spoke words of truth and good fact and 
+we appreciate that.
+  I want to move on, Mr. Speaker, to a couple of other issues. But 
+before I do present a specific issue, I want to highlight some comments 
+and a quote that come from our Speaker, from the new Speaker, that she 
+made during her address to the first session of this Congress. And I 
+think it is important for the American people to be reminded the 
+difference between word and deed. People can say a lot of things. But 
+the actions are what speak louder than words. And these are the words 
+that she used on that first day. ``Let us join together in the first 
+100 hours,'' there it is again, ``to make this Congress the most honest 
+and open in history. This openness requires respect for every voice in 
+Congress. As Thomas Jefferson said, every difference of opinion is not 
+a difference of principle. My colleague elected me to be Speaker of the 
+House, the entire House, respectful of the vision of our founders, the 
+expectations of our people and the great challenges we face. We have an 
+obligation to reach beyond partisanship and to serve all Americans.''
+  Well, Mr. Speaker, those are wonderful words. Would that they were 
+true. Would that they were true.
+  And so that brings us to the issue of student loans, the issue that 
+was on the agenda for the House to deal with today. And I am sorry to 
+say, Mr. Speaker, that what we have here is just one of a repeated 
+series of broken promises. This is another broken promise by this 
+majority party.
+  What did they promise? The promise was, this is a quote from their 
+own publication. ``Our new direction plan will slash interest rates on 
+college loans in half to 3.4 percent for students and to 4.25 percent 
+for parents.''
+  What is the reality? Well, the reality, Mr. Speaker, is that instead 
+of cutting rates in half across the board, the Democrats, what they did 
+was phase in a decrease in rates over a 5-year period of time, and only 
+for subsidized loans going to undergraduate students, not the statement 
+that was given, not the promise that was given to the American people.
+  And Mr. Speaker, remember when promises are made and promises are 
+broken, it does a disservice to all of America and it creates a 
+distrust in our institution. But more importantly, this whole issue of 
+decreasing student loan interest rates, once the fixed rate for this 
+one category, just one category, reaches 3.4 percent, which occurs in 
+July of 2011, it doesn't get there until July of 2011, but once it gets 
+there it is only in effect for 6 months. The fixed rate returns to its 
+original rate on January 2, 2012. Mr. Speaker, that is a broken 
+promise. That is a broken promise if I ever saw one. And what it means 
+is that the American people decrease their trust. They loose their 
+trust in their leadership. And certainly that is what is happening 
+right now across this Nation as this Nation sees the broken promises 
+that are being piled up one after another.
+
+  I am pleased to be joined by another good friend and colleague, a 
+member of the Official Truth Squad coming to the floor and assisting in 
+bringing truth and facts and information to the American people, 
+Congresswoman Marsha Blackburn from Tennessee, who has again had a 
+wealth of experience here in Congress, but also wonderful experience 
+back home, and looks out for those special interests that she has, and 
+that is her constituents at home. I welcome you this evening and yield 
+to you and look forward to your comments.
+  Mrs. BLACKBURN. Mr. Speaker, I thank the gentleman from Georgia, and 
+I want to thank the gentleman from Tennessee who previously spoke. He 
+was in the State House when I was in the State Senate there, and he has 
+been such a leader on the issue of government accountability and 
+government reform and openness. And the comments he made are so very, 
+very true. And he truly does have a sense of disappointment with the 
+way the Democrat majority has chosen to circumvent the rules process, 
+circumvent the committee process, not record the vote and go under a 
+shield of darkness rather than having sunlight and exposure in recorded 
+votes. And he represents his constituents so very well, and I am 
+delighted that he has joined us in this body. And I thank the gentleman 
+from Georgia for his diligence in the Truth Squad and in continuing to 
+bring truth to the floor and to talk about the issues that are before 
+us. He is talking about the student loan bill that came before us 
+today, and I tell you what. Listening to some of this today, I think 
+the gentleman would agree with me, you had to wonder every once in a 
+while what you were listening to and where they were getting this 
+information, saying that it was going to save approximately $4,400 over 
+the life of every loan, talking about how it was going to make college 
+more accessible. And it was such a head scratcher because it doesn't do 
+anything for students who are trying to get into college. It doesn't do 
+something for the here and now. It is for the later on, after people 
+have graduated from college.
+  And you know, another thing that I found to be so very interesting 
+was the way there was no talk about things that the Republican majority 
+had taken action on, conservative ideas, things that we had heard 
+repeatedly from our constituents that they wanted to see happen. And I 
+would like to highlight just a few of the steps that were taken by the 
+Republican majority. You can go back to 1996.
+  Mr. PRICE of Georgia. Will the gentlelady yield for just a moment?
+  Mrs. BLACKBURN. I will yield.
+  Mr. PRICE of Georgia. I appreciate that because I think it is 
+important to highlight that. But I think that what you said, I don't 
+want folks to miss the fact that, and I was stunned when I learned this 
+with the bill that came to the floor today, and I suspect you were as 
+well, and that is that the bill that was on the floor today by the 
+Democrat majority will not assist a single undergraduate student in 
+this Nation. Not one. Isn't that the truth? And I yield back.
+  Mrs. BLACKBURN. And the gentleman is correct in that. This is for 
+ones who have graduated and then you are earning an income and then you 
+start to pay a loan back.
+  Now, the Republican philosophy, the conservative philosophy on this 
+is, let's get more people into the classroom. Let's help people afford 
+that. Let's allow deductions for families so that they have the 
+opportunity to work hand in glove with their children to make a better 
+education possible. You can go back to 1996 when the section 529 plans 
+came in. Save for college. You, the wage earner, the taxpayer, the mom, 
+the dad, take the responsibility for this and tackle it as a family. 
+That is part of the American dream, working together to realize that 
+dream.
+  And Mr. Speaker, I tell you what. That is something that is 
+proactive. That is something that gives the power to the individual, 
+not taking it away and saying hey, we are going to cloister it away in 
+Washington, D.C. and you want to go to college, come talk to us. We 
+don't believe in that.
+  Then you can look at the Taxpayer Relief Act of 1997, two tax credits 
+in that. HOPE Scholarship, Lifetime Learning, reinstatement of the 
+above-the-line deduction for interest on student loans, an exclusion 
+for earnings accruing to education IRAs. They were later changed to be 
+the Coverdell Education Savings Accounts. There again, not giving power 
+to the government and control to the education process over the 
+government, but giving it to moms and dads and families and students so 
+that they can make those.
+  Well, we can look at the Deficit Reduction Act in 2005. The Smart 
+Grants of up to $4,000 annually for students majoring in math, science, 
+engineering or a foreign language critical to this great Nation's 
+security. Smart Grants. It effectively doubled the Pell Grant for many 
+students. It increased subsidized student loan borrowing caps for 
+freshmen and sophomores, there again, steps that give you, the 
+individual, the power and the control.
+  We can look at current student aid. We have seen such an increase in 
+student aid over the past decade. To see the amounts that those have 
+increased is just amazing. Our higher ed funding in total has 
+increased.
+
+                              {time}  1915
+
+  To the gentleman from Georgia, you know, as we have stood here today 
+and
+
+[[Page H645]]
+
+listened to all the myths, and listened to the information that is 
+erroneous, it has been very disappointing. I would just like to commend 
+to our constituents who are watching tonight that they may want to go 
+to the Education and Labor site, our ranking member, Buck McKeon's 
+site, and look at some of the information there that the 
+republicans.edlabor.house.gov have on there, what is the truth with the 
+legislation that we have passed today, so that they can have a better 
+understanding of it.
+  I had talked with a constituent who had thought that they were going 
+to see enormous savings from this. They had misunderstood the rhetoric 
+that they were hearing on the floor today and thought that they were 
+going to be saving about $4,400 a year, not $4,400 over the life of a 
+loan, which is incorrect, but that it would be even less than that, and 
+for the average student it is more like $400.
+  So the gentleman is correct in the assessment that he is making. I 
+appreciate that he is breaking down the interest rate chart so that our 
+constituents do have clarity on the situation that is before us.
+  Mr. PRICE of Georgia. I thank the gentlelady for participating 
+tonight and for bringing wisdom and truth to us in this Chamber.
+  I think the part of the challenge that we have is, this really is a 
+difference in philosophy. It is about who ought to be in control. You 
+highlighted that extremely well, talking about the importance of what 
+we on the Republican side believe, and that is that students and 
+parents ought to have the resources in order to make decisions, not 
+government making decisions.
+  What we have seen in this very short 100 hours, depending on how you 
+run the clock in these first couple of weeks, what we have seen is a 
+clear example of the government controlling all aspects of our life 
+from student loans to prescription medication to all sorts of things, 
+wage and price controls.
+  This chart here is the exact chart that determines the definitions 
+that were provided in the legislation that was on the floor tonight or 
+today for student interest rates.
+  Right now, as you know, Mr. Speaker, they are at 6.8 percent, and 
+that was fixed appropriately, our side did that last time, in order to 
+make certain that we had more students eligible for student loans.
+  What happens over the ensuing 5 years with the bill that was passed 
+today by the Democrats? You can see that next year the rate goes down 
+to 6.12 percent, then down to 5.44 percent and on down until you get to 
+3.40 percent. But again that is only for 6 months. What happens after 
+that 6 months? What happens on January 1, 2012? Goes right back up to 
+6.80.
+  So the frustration and the disconnect that people hear at home when 
+they think that they have been told something that would occur, but in 
+fact, that is not what is going to occur at all, in fact, they have 
+been sold a bill of goods. It is another broken promise.
+  I think it is very destructive to all of us, all of us on both sides 
+of the aisle, when people aren't able to trust what the Members are 
+telling them in terms of what they would do would they be given the 
+opportunity to lead.
+  We are joined again this evening by another dear friend, 
+Congresswoman Virginia Foxx from North Carolina, who is a stalwart on 
+the Official Truth Squad, and she brings such wonderful wisdom. In this 
+instance, she probably has more knowledge about this than virtually 
+anybody else, that is because she was a college president back in North 
+Carolina.
+  I welcome you and thank you for your participation tonight. I look 
+forward to your comments.
+  Ms. FOXX. Thank you, Congressman Price, and thanks for always being 
+so prepared with the Official Truth Squad and having the charts out 
+there that show people the facts. Before I got here, I hope you said 
+your famous line, people are entitled to their opinion, but the facts 
+are the facts and we cannot change those. That is important.
+  Again, I think what we have here is a sham, and perpetuation of 
+untruths by the Democrats to the American people; and frankly, having 
+served 10 years in the State legislature, in the State senate, we were 
+not allowed to say things that were untrue. We got called down by the 
+presiding officer. So when I first came here and heard Democrats doing 
+that, I was stunned, and as you know, pushed to get the Truth Squad 
+going so that we could get the facts out there.
+  But I appreciate your comments about my experience. Let me say that I 
+do know a lot about this subject, both from my own personal experience 
+as a student and my experience as a university administrator and 
+college president.
+  I grew up about as poor as anybody you will ever meet. So did my 
+husband. It took me 7 years to get my undergraduate degree, but I 
+graduated from college without a single penny of debt. We have heard 
+all these sad stories about all these people graduating from college 
+with debt. But, you know, it doesn't have to be that way. People choose 
+to borrow money to go to college. They can work, and they can apply for 
+scholarships. They can do the kinds of things I did. I got absolutely 
+no help from home. I financed my entire education and graduated after 7 
+years without a penny of debt, so it can be done.
+  Students have lots of choices where to go to school. We have 
+community colleges that are very inexpensive that do wonderful jobs, 
+all the way up to very expensive schools in this country. People have 
+that opportunity.
+  After I graduated, after I earned my doctorate, I was a university 
+administrator, and I knew a lot about financial aid because that was 
+part of my job. Then I became a community college president. So I do 
+know this subject very well.
+  Again, I am appalled at this. I said on the debate about stem cell 
+research that we are so misleading the public, thinking that if we do 
+embryonic stem cell research, we are suddenly going to cure all the 
+diseases in this country.
+  I think the Democrats are being very cynical again in trying to 
+perpetuate to the American people that if this bill, this bill did pass 
+the House today, by passing this bill in the Congress, what we would do 
+would be to make college education affordable and accessible. It will 
+do not one thing to increase access for any single person going to 
+college. It will not make a college education more affordable.
+  I heard you and my colleague from Tennessee talking about how it is 
+not going to help a single college student. It only cuts down the cost 
+of interest that people have to pay back after they get out of school, 
+and, as you pointed out, it exists for a mere 6 months. What an 
+absolute travesty to try to perpetuate on the American people.
+  We need to get the truth about this bill out. I know that there is an 
+80 percent approval rate for this topic. Certainly the American people 
+want colleges and a university education to be more affordable. 
+However, what we are doing in the Federal Government is, we are 
+actually driving up the cost of going to college. We are driving it up 
+by putting all of this Federal money out there.
+  You know when the Federal dollars are out there, people will go after 
+it, and the colleges and universities raise their tuition rates every 
+time we increase the amount of money that is available to go to 
+college. Then they scream and yell that they don't have enough money.
+  That is what we are doing. By doing this kind of a thing, we are 
+doing the opposite of what the Democrats say they want to do.
+  If they were honest about what they wanted to do, if they wanted to 
+help truly needy students, which I worked with my entire career in 
+higher education, low-income students, first-generation college 
+students, then they would put the money into the Pell Grants or into 
+work-study. Studies show that people who work 15 hours a week while 
+they are in college do much better than students who don't. So that is 
+the kind of thing that we should be doing.
+  This is another broken promise. The Democrats want to say it is a 
+fulfilled promise. But even this only produces one-tenth of what they 
+promised to do in the campaign, 10 percent return on their promises. We 
+need to figure out a nice ditty to go with that, 10 percent return, 10 
+percent of the 100 percent promise is what the Democrats are producing 
+here, and it is bad.
+  What I think the Democrats really want to do is turn us into a 
+socialistic country where the government controls everything. They want 
+to put the
+
+[[Page H646]]
+
+government in control. What I think they want to do is drive the 
+private sector out of this area. We do have a direct government loan, 
+but most of the loans are being done through the private sector.
+  You know, I don't know a single thing in this country that the 
+government does better than the private sector. There is nothing more 
+efficient. But what would happen is, by tinkering with these rates, 
+even making things very insecure, you are going to drive the private 
+sector out. Because they do business plans; they don't have a well to 
+go to, like the American people, to draw up that money just by adding 
+taxes that the American people cannot resist. What they want to do, I 
+think, is really put the government in control of financial aid and of 
+loans. That would be a terrible, terrible mistake. We don't need to be 
+doing that.
+  So I think it is important that we come here every week, every night, 
+every day, and tell the American people what the truth is about these 
+programs that the Democrats are pushing.
+  I want to point out one other thing that I am not sure has been 
+pointed out today. I am quoting from a fact sheet that was given to us 
+by staff of the Education Committee. In a shocking display of 
+hypocrisy, Democrat leaders are paying for their $6 billion-plus plan 
+with some of the same lender subsidy cuts crafted by congressional 
+Republicans in the 109th Congress. Ironically, House Democrats voted 
+against many of these cuts the last time they were proposed, calling it 
+part of the now discredited rate on student aid.
+  Now, what they do, they brought in, in almost every case the bills 
+they brought in had been bills that we had last time. They voted 
+against them, they now bring them in. This is not something that we did 
+last time; we didn't say this. We did do a lot to decrease the rate of 
+spending for loans, but we added money for the loans, but decreased 
+what students would have to pay for the loans. We did do that.
+  Furthermore, in 2002, Representative George Miller, who is now 
+chairman of the committee, praised what the Republicans had done by 
+fixing the 6.8 percent rate that began last year. He says, in addition 
+to extending lender subsidies, it cuts interest rates to students 
+fixing the rate at 6.8 percent beginning in 2006 and will save the 
+average student about $400. Too often in Congress the needs of the 
+average people come last in line.
+  My colleagues, meaning Republicans, should be commended for assuring 
+that this legislation meets the needs of students and their families. 
+My goodness, he has got amnesia about what he said just a short time 
+ago about what the Republicans were doing. But this suits their needs. 
+They can get out and make campaign promises and then come in here, 
+fulfill 10 percent of what they promised to do, and then try to fool 
+the American people.
+  Republicans have done a great deal to help students who are 
+struggling to get an education, and we will continue to do that. But we 
+are not going to be duplicitous about it. We have been very 
+straightforward about it.
+  I want to thank you again for leading the Official Truth Squad 
+tonight and helping us get the word out to the American people.
+  We are not going to let them get by with telling their open truths. 
+We are going to bring the facts here every time and make sure that the 
+American people hear, as Paul Harvey says, ``the rest of the story.''
+  Mr. PRICE of Georgia. I thank you so much for your wonderful words of 
+wisdom and sharing your personal story. It really is extremely helpful 
+and pertinent and apt.
+  You call this a travesty. It really is a travesty, because what has 
+happened is that the hopes and dreams of so many Americans have been 
+raised by the rhetoric that we have heard from the other side. In fact, 
+if you look at this again, and you see over a 5-year period of time, 
+the rate decreases for a mere 6 months to 3.4 percent and then shoots 
+right back up to 6.8 percent.
+  It really isn't fulfilling a promise; as my good friend from North 
+Carolina said, it is breaking a promise. I think that the American 
+people are paying attention, and over a period of time, this will just 
+add up to their frustration about this kind of hypocrisy and this kind 
+of leadership.
+  My good friends on the other side of the aisle, for the past 2 years 
+or so, have been talking about what they call ``third-party 
+validators'' to make it so that they can cite individuals that are 
+saying that what they are contending is the case.
+  We have got some third-party validators on this. I have before me a 
+couple of quotes from some articles written in some very prominent 
+newspapers yesterday and today. The first is from today's Wall Street 
+Journal. This is about these student loans. It says, quote, ``The 
+ostensible goal is to make college more affordable, but such a move 
+could well wind up having the opposite effect.'' This bill, that is, 
+could wind up having the opposite effect.
+  Further, in the absence of all of this subsidization, colleges would 
+have to be more cautious about raising tuition because their customers 
+would be affected more directly.
+
+                              {time}  1930
+
+  The biggest winners from this latest subsidy will be the relatively 
+well off professors and administrators who run higher education. 
+``Ultimately increasing the government's role is a recipe for making 
+college less affordable.''
+  Then from the Christian Science Monitor yesterday, from a gentleman 
+who is quoted here, Mark Kantrowitz, the publisher of financialaid.org 
+for students. He says, ``It's a great sound bite, cutting rates in 
+half, but it is an incredibly expensive proposal with very little 
+student aid benefit.'' ``Very little student aid benefit.'' ``Congress 
+would be better off spending the money on something else, like 
+increasing the Pell Grant,'' which isn't increased with this bill, 
+offered to the neediest students as aid that graduates don't need to 
+pay back,'' Kantrowitz said.
+  Mr. Speaker, really it is just another broken promise, and it is 
+truly, truly a shame to have this be one of the hallmarks of these 
+first ``six for six,'' these proposals that come forward. And virtually 
+every one of them doesn't live up to the promise that was made.
+  Would the promises that were made be the proposals that I would bring 
+to the floor? Well, not likely, Mr. Speaker. But I do believe that it 
+is important that promises that are made for our constituents be 
+promises that are kept when you are in control, in power, in Congress. 
+Otherwise, we do a discredit and disservice to our entire electoral 
+system.
+  How are the American people supposed to be able to decide for whom 
+they should vote, if regardless of what an individual says it is not 
+what they do? I believe in an individual's word, and I believe it is 
+important that individuals make honest comments when they are running 
+for office. In fact, that is not what we have seen to date, Mr. 
+Speaker, and that is very, very troubling, to me and to many of my 
+constituents and many folks around the Nation.
+  I want to switch gears a little bit now, Mr. Speaker, to the issue 
+that will be on the floor tomorrow in the United States House of 
+Representatives. It will be H.R. 6, a bill that has to do with energy 
+policy, national energy policy.
+  The upshot of the bill is this: Mr. Speaker, as we talked about 
+before, it will be the first time that the Democrats have very directly 
+raised taxes on the American people. It took them 14 days to decide 
+that they were going to do it, not a long time. But who are they going 
+to raise taxes on?
+  Well, the Democrat energy plan that will be introduced tomorrow, and 
+I will have some information on it, will be a tax increase on American 
+oil companies. Yup, they are going to tax American oil companies 
+because there is a lot of sentiment and anger out there about energy 
+prices. But what happens to foreign oil companies? Not a thing. Not a 
+thing, Mr. Speaker.
+  Mr. Speaker, you talk about a travesty. That is a travesty. This bill 
+tomorrow will drive up our dependence on foreign oil.
+  Again, I want to go to some third-party validators. An article in the 
+Wall Street Journal yesterday talked about this bill and said if you 
+increase the cost of domestic oil production by $10 billion, you are 
+ensuring that U.S. imports of OPEC oil will rise and domestic 
+production will fall.
+  Mr. Speaker, I think it ought to be a goal and my constituents back 
+in the Sixth District in Georgia believe that
+
+[[Page H647]]
+
+we ought to be utilizing American resources for Americans, having 
+American energy for Americans. There is a three-pronged way to do that: 
+Conversation, utilizing resources and alternative fuel. What we are 
+doing is increasing the amount of foreign oil being used. It doesn't 
+make any sense at all. It doesn't make any sense at all.
+  The Wall Street Journal article goes on to say the House energy bill 
+is nearly a carbon copy of California's Proposition 87. That 2006 
+ballot initiative would have taxed California's home-produced oil in 
+order to subsidize green technology alternatives.
+  California is a fairly liberal State, the home State of our Speaker. 
+Maybe that is where they got this idea. California is a fairly liberal 
+State, but even those voters understood that Proposition 87 would have 
+damaged the State's home oil and gas industry, increased foreign oil 
+consumption and raised the energy bills for State residents, and it was 
+clobbered at the polls.
+  This is a quote from the Wall Street Journal. ``The House will plow 
+ahead anyway, but let's hope the Senate has more wisdom.''
+  I include a copy of that article for the Record, Mr. Speaker.
+
+             [From the Wall Street Journal, Jan. 16, 2007]
+
+                      The OPEC Energy Security Act
+
+       House Democrats have finally released the details of their 
+     ``Energy Security Bill,'' which will be voted on this week, 
+     and they must be cursing their rotten luck. Just when they 
+     want to stick it to Big Oil for alleged price gouging, oil 
+     and home heating costs are plunging. Never mind; this was a 
+     campaign theme amid $3 gasoline, and a detail like $2 gas 
+     isn't about to stop Democrats now.
+       This bill is said to promote America's energy independence, 
+     but the biggest winner may be OPEC. This is a lengthy, 
+     complicated bill, but the central idea is simple: Raise taxes 
+     on domestic oil producers and then spend the money to 
+     subsidize ethanol, solar energy, windmills (so long as 
+     they're not on Cape Cod), and so on. But if you increase the 
+     cost of domestic oil production by $10 billion, you are 
+     ensuring that U.S. imports of OPEC oil will rise and domestic 
+     production will fall.
+       The bill also includes a ``Strategic Energy Efficiency and 
+     Renewables Reserve'' fund for alternative fuels. That sounds 
+     a lot like the Carter-era Synthetic Fuels Corporation--one of 
+     the more notorious Washington boondoggles of all time, having 
+     spent $2.1 billion of tax dollars on alternative fuels before 
+     declaring bankruptcy. Today there is no under-investment by 
+     the private sector in alternative energy. The research firm 
+     New Energy Finance has found that between 2004 and 2006 
+     investment in alternative energy doubled to $63 billion. 
+     Venture capital funding of green-energy technologies has 
+     quadrupled since 1998.
+       The Democrats also insist that the big five oil companies 
+     have received sweetheart deals from the government that have 
+     ripped off taxpayers. So let's take a closer look. The most 
+     controversial issue involves $6 billion in royalty payments 
+     that oil companies are said to owe the government for oil 
+     pumped from federal waters. The facts suggest otherwise.
+       These were leases for drilling rights in the Gulf of Mexico 
+     signed between oil companies and the Clinton Administration's 
+     Interior Department in 1998-99. At that time the world oil 
+     price had fallen to as low as $10 a barrel and the contracts 
+     were signed without a requirement of royalty payments if the 
+     price of oil rose above $35 a barrel.
+       Interior's Inspector General investigated and found that 
+     this standard royalty clause was omitted not because of any 
+     conspiracy by big oil, but rather because of bureaucratic 
+     bungling in the Clinton Administration. The same report found 
+     that a year after these contracts were signed Chevron and 
+     other oil companies alerted Interior to the absence of 
+     royalty fees, and that Interior replied that the contracts 
+     should go forward nonetheless.
+       The companies have since invested billions of dollars in 
+     the Gulf on the basis of those lease agreements, and only 
+     when the price of oil surged to $70 a barrel did anyone start 
+     expressing outrage that Big Oil was ``cheating'' taxpayers 
+     out of royalties. Some oil companies have voluntarily offered 
+     to renegotiate these contracts. The Democrats are now 
+     demanding that all these firms do so--even though the 
+     government signed binding contracts.
+       The Democratic bill strong-arms oil companies into 
+     renegotiating the contracts or pay a $9 per barrel royalty 
+     fee from these leases. If the companies refuse, they lose 
+     their rights to bid for any future leases on federal 
+     property. So at the same time that the U.S. is trying to 
+     persuade Venezuela and other nations to honor property 
+     rights, Congress does its own Hugo Chavez imitation.
+       Are American taxpayers worse off because of these leasing 
+     agreements? Hardly. It's fortunate these contracts were 
+     issued when oil prices were so low, because the oil 
+     discovered from those leases will do precisely what the 
+     Democratic energy bill will not: reduce U.S. dependence on 
+     foreign oil. One of the largest oil deposits in the Gulf was 
+     recently discovered as a result of these leases.
+       Democrats also want to raise about $5 to $6 billion by 
+     snatching away alleged tax breaks for Big Oil in the 
+     Republicans' 2005 energy bill. Sorry, that isn't true either. 
+     The Congressional Research Service reports that the net 
+     impact of the 2005 energy bill was to raise taxes on the oil 
+     and gas industry by $300 million. Nor does it make sense to 
+     repeal a domestic oil company's eligibility for a 2004 tax 
+     cut that reduced the effective corporate income tax rate to 
+     32% from 35% on U.S. manufacturers. This tax cut increases 
+     the competitiveness of U.S. manufacturers that are now 
+     penalized by a U.S. corporate tax rate that is among the 
+     highest in the industrialized world. Our objection is that 
+     every U.S. company should pay the same, lower rate.
+       The House energy bill is nearly a carbon copy (if we can 
+     still use the word ``carbon'' in polite company) of 
+     California's Proposition 87. That 2006 ballot initiative 
+     would have taxed California's home-produced oil in order to 
+     subsidize ``green technology'' alternatives. California is a 
+     fairly liberal state, but even those voters understood that 
+     Prop 87 would have damaged the state's home oil and gas 
+     industry, increased foreign oil consumption, and raised the 
+     energy bills of state residents. It was clobbered at the 
+     polls. The House will plow ahead anyway, but let's hope the 
+     Senate has more wisdom.
+
+  Mr. PRICE of Georgia. Mr. Speaker, I want to also refer to some good 
+work done by the Heritage Foundation. The Heritage Foundation is a 
+group of individuals who talks about responsibility, talks about making 
+certain that individuals have opportunities to succeed in our Nation, 
+and they came out with a memo to Speaker Pelosi citing this bill that 
+is coming on the floor tomorrow, H.R. 6, saying that it risks making 
+energy more expensive.
+  There are a number of quotes I would like to refer to, Mr. Speaker. 
+First, it says, ``The public has responded with anger to recent high 
+energy prices,'' and that certainly is true as I go home and hear what 
+folks are concerned about, especially when gas was up around $3 a 
+gallon people were very concerned, and understandably so, and home 
+heating oil and all the like increasing, and that puts many individuals 
+in significant trouble.
+  It goes on to say, ``Doing something about energy prices is 
+understandably high on the agenda.'' No doubt about it. 
+``Unfortunately, the wrong approach to meeting Americans' energy needs 
+is H.R. 6. H.R. 6 will at best do nothing to reduce gasoline prices, 
+and could actually increase them over the long term.''
+  They go on to describe very clearly the consequences of what this 
+will do, increasing taxes on the American oil companies, which will 
+drive America to be more dependent on foreign oil.
+  Mr. Speaker, that doesn't make any sense. When I go home and explain 
+things like that to my constituents back in Georgia, they say, well, 
+why in Earth would you do something foolish like that? And all I can 
+tell them is, well, it appears to be that the other side thinks that 
+hollow rhetoric is what the American people want, that they aren't 
+interested in real substance.
+  This Heritage Foundation memo goes on to say, ``The underlying 
+assumptions that the domestic oil and gas sector is currently 
+undertaxed may have been popular campaign rhetoric, but it is not 
+supported by the evidence. Total income taxes paid by this sector 
+reached a record $71 billion in 2005, the last year for which there is 
+data available. This is up from $48 billion in 2004 and $32 billion in 
+2003.''
+  So, Mr. Speaker, what we see is that as revenues increase to oil 
+companies, taxes increase, the amount that they pay in taxes increases 
+as well.
+  What happens with H.R. 6? ``Most importantly, H.R. 6 will cause harm 
+in the long run by discouraging investment in new domestic drilling for 
+oil and gas.''
+  If you tax something, you get less of it. That is an economic 
+principle that my friends on the other side of the aisle seem not to 
+appreciate. If you tax something, you get less of it.
+  ``America's demand for energy is growing, along with its economy.''
+  Again, that is the three-prong approach needed for energy: 
+Conservation, utilizing responsibly American resources, and then 
+alternative fuel.
+  But I think it is important, as this memo goes on to state, that we 
+learn from history. The bottom line is that H.R. 6 will raise taxes and 
+will reduce domestic supplies of oil and gas, it will increase imports 
+to fill that void, and it will ultimately increase prices for consumers 
+at the pump and for energy supplies.
+  How do we know that? Well, this is the lesson of the infamous 
+windfall
+
+[[Page H648]]
+
+profit tax on oil firms that was imposed under the Carter 
+administration in 1980. It was repealed ultimately under the Reagan 
+administration in 1988. But, Mr. Speaker, people around the Nation who 
+knew what was happening at that time will recognize, and this will kind 
+of ring a bell, it will remind them of what happened in 1980.
+  This goes on to say, ``In 1980, anger at Big Oil,'' and a lot of 
+people were mad at Big Oil over high prices, ``led to this punitive 
+tax, the windfall profit tax. But America learned the hard way that 
+this approach does not benefit the American people. According to the 
+Congressional Research Service, the windfall profits tax reduced 
+domestic oil production between 3 and 6 percent.''
+  Mr. Speaker, let me say that again. This tax, similar to the one that 
+the House is about to vote on tomorrow, reduced domestic oil production 
+between 3 and 6 percent. It increased oil imports between 8 and 16 
+percent. This made the U.S. more dependent upon imported oil. We ought 
+to take pains to avoid repeating that energy policy blunder.
+  This goes on to say, ``The best thing that can be said for the 
+proposed tax changes and royalty relief provisions in H.R. 6 is that 
+they might not be large enough to seriously reduce domestic energy 
+production, in which case they would not cause much harm. But even so, 
+they set a bad precedent, and if repeated in subsequent bills, could do 
+as much damage as the infamous windfall profits tax.''
+  So if the past is any guide to the future, most of the money in H.R. 
+6 will be wasted. On the other hand, these tax revenues, if left in the 
+hands of the energy companies themselves, will be reinvested. And how 
+do we know that? Well, in 2005, the energy industry reinvested $131 
+billion, $131 billion, an amount that at that time actually exceeded 
+and was higher than their net income of $119 billion for the year.
+  So what is the better way? Well, as this memo goes on to describe, 
+Mr. Speaker, ``The better way, the real answer to high energy prices, 
+is not to tinker with tax and royalty rates on existing domestic energy 
+supplies, but it is to expand those supplies so that more oil and gas 
+become available. Recent Department of Interior studies conducted 
+pursuant to the 2005 energy bill confirm that the United States has 
+substantial oil and natural gas deposits.'' Without a doubt. ``These 
+studies also show that much of these offshore and onshore resources are 
+off limits due to legal and regulatory constraints.''
+  This next sentence, Mr. Speaker, kind of caught my eye. ``In fact, 
+America remains the only nation on Earth,'' the only nation on Earth, 
+``that has restricted access to a substantial portion of its domestic 
+energy potential.''
+  We are the only nation on Earth that does this. And why we think that 
+there is no connection between that and us being more reliant on 
+foreign oil today than we ever have been is beyond me. It doesn't make 
+any sense. Again, Mr. Speaker, my constituents back home don't think it 
+makes any sense either.
+  In the early seventies, when we all waited in those gas lines and 
+pounded our fist on the dashboard and said never again, we will never 
+be this reliant on foreign oil again, and all of us who can remember 
+that vividly know that sense of emotion and know that sense of 
+frustration as the gas shortages in the early seventies occurred.
+  But the dirty little secret, Mr. Speaker, is at that time we were 
+about 25 percent reliant on foreign oil. Now we are about 60 percent 
+reliant on foreign oil. And if the Democrat majority has its way, we 
+will be even more reliant on foreign oil, because what we are doing is 
+punishing American companies who assist us in trying to have a greater 
+production of American resources.
+  This article goes on to say, ``Reducing the restrictions on domestic 
+exploration and drilling, not rewriting the Tax Code or revising 
+royalty agreements,'' as in the bill to be dealt with tomorrow, ``will 
+allow for greater supplies and lower prices in the years ahead, and by 
+expanding the resource base it would lead to far greater increases in 
+tax and royalty revenues than H.R. 6 ever could.''
+  So if my good friends on the other side of the aisle are truly 
+interested in having more money, more taxes to spend as they see fit, 
+to increase the power of government, they would be well advised to 
+allow for increasing production, which would increase the ability for 
+them to receive greater tax revenue. This should be the main focus of 
+any genuinely pro-consumer energy policy; that is to not tinker with 
+the tax policy and the royalty policy.
+  Again, a good energy policy, a quality energy policy, is one that we 
+dealt with last year in Congress, Mr. Speaker. It was primarily three-
+pronged. One, it dealt with conservation. This bill tomorrow doesn't do 
+significantly anything with conservation. And it encourages Americans 
+to do all they can to conserve, because certainly all of us can do more 
+to make certain we are not utilizing resources that are so, so 
+precious.
+
+                              {time}  1945
+
+  Second is to make certain that we utilize American resources 
+responsibly. Again, Mr. Speaker, as I said before, America remains the 
+only nation on Earth that has restricted access to a substantial 
+portion of its domestic energy potential.
+  Finally, the solution in the long run and the long term is, indeed, 
+alternative fuel, and we worked diligently to try to make certain that 
+we had resources that would be put forward for hydrogen fuel cells and 
+encouraging inventiveness on the part of the American entrepreneur, 
+because I know, as I suspect you do, Mr. Speaker, that when the 
+American entrepreneur puts his or her mind to it, there is nothing that 
+they are not able to do.
+  So tonight, Mr. Speaker, I am pleased to have had this opportunity to 
+come before the House and to share with this House and with you, Mr. 
+Speaker, and with the American people three issues: the issue of 
+process here in the United States House of Representatives, the 100-
+hour clock; the issue of student loans, the interest on student loans; 
+and the issue of energy policy.
+  I mentioned at the beginning, Mr. Speaker, that the common thread 
+between those three issues tonight, that the majority party has brought 
+to us, are really broken promises. It made multiple promises on the 
+campaign trail, and it truly is a shame that promises kept on the 
+campaign trail do not appear to be promises that will be kept in their 
+majority in Congress.
+  I would suggest to you, Mr. Speaker, that the American people are 
+understanding this. When I go home, I hear people's frustration about a 
+lack of leadership, the broken promises that have occurred even in this 
+short 2 weeks in Congress.
+  Mr. Speaker, we are a wonderful and great Nation, and it is an 
+incredible privilege to represent my constituents in this House, this 
+House of Representatives. I know that the challenges that we face as a 
+Nation are not Democrat challenges and they are not Republican 
+challenges. They are American challenges, and when we work together, we 
+come up with the best solutions.
+  So I would encourage the Speaker to reread her words of the comments 
+she made to this Chamber, to this United States House of 
+Representatives on that very first day. I look forward to the day when 
+we do, in fact, have the most open and honest Congress. Sadly, Mr. 
+Speaker, we have not reached that day yet.
+
+                          ____________________
+```
