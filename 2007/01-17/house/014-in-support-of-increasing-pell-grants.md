@@ -1,0 +1,36 @@
+---
+granule: CRECB-2007-pt1-Pg1447-4
+date: 2007-01-17
+edition: CRECB
+section: HOUSE
+page: 1447
+---
+
+# IN SUPPORT OF INCREASING PELL GRANTS
+
+```
+                  IN SUPPORT OF INCREASING PELL GRANTS
+
+  (Mrs. CAPITO asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Mrs. CAPITO. Mr. Speaker, I rise today in support of increasing Pell 
+Grants, which we have done over the past 12 years, contrary to what we 
+heard earlier. This action would have the greatest impact on helping 
+lower-income students afford a college education.
+  Later today, the House will consider legislation that is intended to 
+increase college access by temporarily reducing subsidized student loan 
+interest rates, a helpful measure. But I suggest to my colleagues that 
+an average 18-year-old student will not base whether they can go to 
+college on whether their percentage of interest rate is 6.8 today or 
+6.14 for the 2007 year. What would make a difference is the amount of 
+aid, either grants or loans, that is immediately available to help them 
+afford school. To make college accessible, we should focus on what we 
+can do now for students, not when they graduate.
+  Regardless of how you feel today, we need to work together on a 
+bipartisan basis to increase Pell Grants to ensure that they are 
+sufficient to help students to afford a higher education. This would be 
+a very effective way to help students from low- and middle-income 
+families afford college.
+
+                          ____________________
+```
