@@ -1,0 +1,99 @@
+---
+granule: CREC-2007-01-18-pt1-PgH733-2
+date: 2007-01-18
+edition: CREC
+section: HOUSE
+page: H733
+citation: 153 Cong. Rec. H733
+---
+
+# ENERGY SECURITY
+
+**Speaking:** Schiff, Adam B. (S001150) [D-CA]
+
+```
+                              {time}  1845
+                            ENERGY SECURITY
+
+  (Mr. SCHIFF asked and was given permission to address the House for 1 
+minute.)
+  Mr. SCHIFF. Madam Speaker, in these opening weeks of the 110th 
+Congress, the Democratic majority in the House has succeeded in passing 
+a package of bills that is designed to secure America. We passed a bill 
+to improve our Nation's ability to prevent another 9/11 style attack on 
+our country. We have made life a little more secure for millions in the 
+United States who toil at the minimum wage, and millions of young 
+people who leave college with a degree and a mountain of debt. We have 
+secured the ability of America's medical researchers to explore and 
+exploit the life-saving potential of stem cells. We have committed this 
+government to safeguarding our economic security by ending years of 
+fiscal irresponsibility. And today, we have begun what may be the most 
+important project of all, to ensure America's energy security by ending 
+our dependence on foreign oil and developing clean, green renewable 
+sources of energy.
+  Ensuring our energy security will require more than just the 
+protection of American oil supplies from terrorists in hostile nations. 
+It will also mean we find homegrown fuel sources that reduce our 
+dependence on foreign oil.
+  It will mean that we pare down our energy consumption and promote 
+efficiency. It will mean that we transition to renewable energy sources 
+that ensure a clean, dependable energy supply for years to come.
+  There are those who say that it would cost too much to shift our 
+infrastructure over to new energy sources. They say that the market has 
+decided that coal and oil are the cheapest energy, and that switching 
+to renewable energy would harm our economy.
+  This is shortsighted, false, and, ultimately, dangerous because much 
+of the true cost of oil and coal don't appear on the gas pump or on our 
+electric bills. Extracting coal and oil harms the environment and 
+burning fossil fuels produces pollution that clogs our cities and 
+greenhouse gases that warm our atmosphere. Tens of thousands of 
+Americans get lung cancer and other respiratory diseases from power 
+plant air pollution and this, too, is part of the true cost of 
+``cheap'' energy. These expenses are paid by the American people just 
+as surely as they pay their electric bills.
+  But to find the true cost of a barrel of oil, we must look further, 
+to a foreign policy beholden to oil and gas, and that price is too 
+steep.
+  Today the House passed a bill that will roll back tax breaks for oil 
+and gas companies and reform the royalty relief system that has cost 
+American taxpayers billions of dollars. The $13 billion dollars saved 
+by this overdue reform will be placed in a strategic reserve to be 
+spent on programs to accelerate the adoption of renewable energy and 
+alternative fuels, promote energy efficiency, and step up research on 
+advanced energy technologies. Initiatives like these are the only way 
+to permanently reduce our dependence on foreign oil, and this bill is a 
+good first step on the road to true energy security.
+  European and Asian competitors are already developing technologies 
+that will reduce fuel consumption and lower emissions of greenhouse 
+gases. Rather than American entrepreneurs, it is our competitors who 
+are prospering from these developments. By marshaling America's great 
+strengths, our inventiveness, our technological prowess, and our 
+entrepreneurial spirit, we can better secure our Nation, save our 
+environment, and become the world leader in this cutting-edge industry.
+  We must encourage the development of flexible-fuel and hybrid 
+vehicles. These vehicles can be built with today's technology and will 
+enable a smooth transition from gasoline to biofuels.
+  We must raise the corporate average fuel economy standards.
+  We must invest in research and development of new energy 
+technologies, like wind power, cheap solar cells, plug-in hybrid cars, 
+and cellulosic ethanol. The new energy economy will be dominated by 
+rapid innovation, and the scientific investment we make now will be 
+paid back with interest by the technologies it creates.
+  We must encourage employers to offer mass-transit benefits so that 
+employees can commute without their cars, and support mass transit 
+systems around the country.
+  We must pass global warming legislation to reduce our output of 
+carbon dioxide and other greenhouse gases. Many of America's most 
+successful companies have realized that something must be done to 
+contain global warming and they are now pushing Congress to lead.
+  We know what must be done to end our dangerous addiction to oil. All 
+we need now is the will to do it.
+  Madam Speaker, we have lost so much time since 9/11, time that could 
+have been so profitably used to reduce our dependence on foreign oil. 
+But it is not too late to abruptly and constructively change course. 
+The American people are ready for a clean energy economy, and the bill 
+we passed today will begin to put our country on that new road to 
+energy independence and a more secure future.
+
+                          ____________________
+```
