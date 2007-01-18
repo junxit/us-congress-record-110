@@ -1,0 +1,43 @@
+---
+granule: CRECB-2007-pt2-Pg1698-2
+date: 2007-01-18
+edition: CRECB
+section: SENATE
+page: 1698
+---
+
+# ADDITIONAL STATEMENTS
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+                     TRIBUTE TO LaMESA MARKS-JOHNS
+
+● Mr. BUNNING. Madam President, today I pay tribute to LaMesa 
+Marks-Johns of Louisville, KY, for being recognized as one of America's 
+top educators in the 2006 Milken Family Foundation National Educator 
+Awards.
+  The annual Milken Family Foundation National Educator Award was 
+established in 1985, and recipients consist of a network of teachers, 
+principals, and specialists who serve as experts for policymakers 
+seeking to improve the quality of teachers and public education. Award 
+recipients assist in developing comprehensive strategies and policies 
+to ensure that every child receives the highest quality educational 
+experience possible.
+  Ms. Marks-Johns, a teacher at Shacklette Elementary School, has been 
+recognized by the Milken Family Foundation for her continuing efforts 
+to provide educational experiences in the classroom. She inspires her 
+students to achieve academically and contribute to the community. Ms. 
+Marks-Johns sets an example of leadership for both colleagues and 
+students alike.
+  I now ask my fellow colleagues to join me in thanking Ms. Marks-Johns 
+for her dedication and commitment to education. In order for our 
+society to continue to advance in the right direction, we must have 
+teachers like LaMesa Marks-Johns in our schools, in our communities, 
+and in our lives. She is Kentucky at its finest.●
+
+                          ____________________
+```
