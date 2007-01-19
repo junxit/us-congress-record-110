@@ -1,0 +1,54 @@
+---
+granule: CRECB-2007-pt2-Pg1757
+date: 2007-01-19
+edition: CRECB
+section: HOUSE
+page: 1757
+---
+
+# THE AMERICAN PEOPLE TOOK BACK THEIR GOVERNMENT
+
+```
+             THE AMERICAN PEOPLE TOOK BACK THEIR GOVERNMENT
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from Minnesota (Mr. Ellison) is recognized for 5 minutes.
+  Mr. ELLISON. Mr. Speaker, today I rise to lend my voice with all of 
+the people who voted for a change for America, but especially to lend 
+my voice with my fellow new Congressmen, the freshmen. I rise because I 
+believe that we were sent here to pursue an agenda for America, to set 
+our country on a new course, a new course which put the public good at 
+the center of our efforts, a new course which said that politics must 
+be in service to the average citizen.
+  This past November, the winds of change took on a gale force in 
+American politics. American people took back their government. They 
+sent a loud and clear message that the government was here for them, by 
+them and of them. No more, no big contracts. No more legislation 
+written behind closed doors by and for the special interests, no more 
+whittling away the constitutional rights that we were fighting, and no 
+more bridges built to nowhere. No more rubber-stamp administration.
+  We are going to have an active and engaged Congress that really 
+believes in the principle of oversight, and no more escalating an oil 
+war that we believe is sacrificing innocent young Americans for no 
+legitimate purpose. The American people voted in record numbers and 
+demanded that their voices be heard. They wanted their government to 
+respond to their needs, and their needs are not the needs of the big 
+oil companies, the big pharmaceutical companies or the Halliburtons of 
+this world.
+  American people want a new politics of inclusion, of generosity. The 
+American people want a new politics which says everybody counts and 
+everybody matters. The Democrats heard them.
+  In record time, 100 hours, we made history by passing a people's 
+agenda. Yes, within 100 hours, minimum-wage workers were able to say 
+that they were getting a raise; within 100 hours, lifesaving research, 
+so that people could have a real chance at a cure for their loved ones 
+and themselves. Within 100 hours, real implementation of the 9/11 
+Commission recommendations, and within the 100 hours we made a real 
+statement about education being affordable for all Americans.
+  I am proud to be a Member of this new class of freshmen, proud to be 
+a Member of these folks who came here to make a change to put the 
+public interest first. The public interest is a very good idea, and I 
+am very proud to say that I have been a part of it.
+
+                          ____________________
+```
