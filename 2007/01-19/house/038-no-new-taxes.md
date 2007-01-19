@@ -1,0 +1,101 @@
+---
+granule: CREC-2007-01-19-pt1-PgH773-8
+date: 2007-01-19
+edition: CREC
+section: HOUSE
+page: H773
+citation: 153 Cong. Rec. H773
+---
+
+# NO NEW TAXES
+
+**Speaking:** Pence, Mike (P000587) [R-IN]
+
+```
+                              NO NEW TAXES
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from Indiana (Mr. Pence) is recognized for 5 minutes.
+  Mr. PENCE. Mr. Speaker, I rise today to speak about an issue that is 
+not so much on our agenda in these first 100 hours, but I believe it 
+will encompass much of our focus during the course of the 110th 
+Congress. It has to do with the how and why that we will achieve 
+fundamental entitlement reform.
+  President Bush and many leaders in the new majority in the House and 
+Senate have spoken of the priority of reforming Social Security and 
+dealing with the extraordinary unfunded obligations of our mandates in 
+future years. The President, to his credit, 2 years ago raised the 
+prospect of fundamental Social Security reform. But the American people 
+rejected the President's call.
+  And I rise today to speak about what I believe the parameters of that 
+debate should be from the perspective of a conservative in the minority 
+who believes in the principles of limited government.
+  Mr. Speaker, I believe that the American people did not reject the 
+Social Security reform or the personal retirement accounts that the 
+President advanced. I think they rejected the entire debate and how it 
+unfolded. I think they rejected the notion that the predominant goal of 
+Social Security reform was to make the numbers add up or, in the 
+language of the wonks, to achieve solvency in Social Security. Such a 
+yardstick expresses no opinion on how to fix an increasingly bankrupt 
+system, and I believe that as a result it invariably blesses benefit 
+cuts or tax increases as a result.
+  And while President Bush has spoken to his opposition to tax 
+increases, Treasury Secretary Hank Paulson has repeatedly said, in 
+conversations with Members of the House and Senate, that ``everything 
+is on the table,'' raising the specter of the possibility of raising 
+taxes to achieve Social Security reform. And even the President's own 
+Press Secretary, when asked directly whether the White House was ruling 
+out a tax increase to achieve Social Security reform with this newly 
+minted
+
+[[Page H774]]
+
+Democrat majority in Congress, the Press Secretary said, ``No, I'm 
+not.''
+  I believe, Mr. Speaker, this is all code for a willingness within the 
+Bush administration to consider raising taxes in exchange for achieving 
+Social Security reform. Such a tax increase would likely come from 
+lifting or eliminating the cap on the amount of salary and wages 
+subject to the payroll tax. The current income that is subject to the 
+payroll tax is $94,200.
+  But raising payroll taxes, I would offer, would prove devastating to 
+working Americans, small businesses and the economy as a whole and, 
+worse, if we eliminated the cap on income subject to payroll taxes for 
+Social Security, would only add a brief 7 years to Social Security's 
+financial solvency.
+  According to the Heritage Foundation, eliminating the cap will 
+increase taxes by $484 billion over the first 5 years. This 12.4 
+percentage point marginal tax rate increase would hit middle income 
+families struggling to make ends meet, pay for college and save for 
+retirement, and much of the increase would be borne by the 3 million 
+small business owners who pay both the employer and employee portion of 
+the tax hike. These entrepreneurs are the driving force of our economy, 
+Mr. Speaker. And as a result, a tax increase of this nature would 
+result in a 2 to 3 percent reduction in economic growth, causing 
+massive layoffs across the country. And, again, eliminating the cap on 
+income subjected to Social Security payroll tax would only extend the 
+life of Social Security for 7 years.
+  Now, there are many, even on my side of the aisle, that are flirting 
+with the notion of raising taxes. But, Mr. Speaker, we have been down 
+this road before. It was 1990, when I was a candidate for Congress, 
+when another President Bush teamed up with a Democrat majority in 
+Congress and headed to Andrews Air Force Base all in the name of 
+entitlement reform and deficit reduction, brought the American people 
+the promise of reform in the future, and the largest tax increase in 
+American history.
+  We must not go down the road of compromise again. I think the 
+administration needs to be clear that any Social Security compromise 
+must reject tax increases of any kind. That means no increase in the 
+payroll tax rate and no change in the cap apart from the current 
+indexing that happens under the law.
+  I would say, respectfully, to my colleagues and to the President of 
+the United States, we should say to our good friends in the new 
+majority, ``Read our lips. No new taxes.''
+  It is imperative that we bring reforms like personal savings accounts 
+to this new deal program. I think it is imperative that we make the new 
+deal a better deal for younger Americans, but raising taxes on small 
+business owners and family farmers in the manner of lifting the cap or 
+raising the rate is an idea whose time should never come.
+
+                          ____________________
+```
