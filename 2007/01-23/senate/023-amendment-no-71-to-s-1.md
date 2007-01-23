@@ -1,0 +1,61 @@
+---
+granule: CREC-2007-01-23-pt1-PgS905
+date: 2007-01-23
+edition: CREC
+section: SENATE
+page: S905
+citation: 153 Cong. Rec. S905
+---
+
+# AMENDMENT NO. 71 TO S. 1
+
+**Speaking:** Nelson, Ben (N000180) [D-NE], Lieberman, Joseph I. (L000304) [ID-CT]
+
+**Measures:** S. 1
+
+```
+                        AMENDMENT NO. 71 TO S. 1
+
+  Mr. NELSON of Nebraska. Mr. President, as I have mentioned before, 
+last year Washington was rocked by the Abramoff scandal and other 
+misdeeds. I am pleased that Congress has shown it is taking seriously 
+its responsibility to the American people by revisiting and tightening 
+the rules and laws that govern Members of the Senate. Many have said 
+that S.1, which overwhelmingly passed out of the Senate last week, 
+includes the most sweeping ethics reform measures since Watergate.
+  There is one point that I discussed and pushed forward during last 
+year's debate that I believe needs to again be part of what we are 
+doing now. Last year I offered a sense-of-the-Senate amendment to make 
+many of the reforms we have considered throughout this ethics debate 
+apply to all branches of Government. I am pleased that this sense of 
+the Senate was accepted and is included in the underlying bill.
+  During the debate last week, I filed an amendment, No. 71, which 
+builds upon the principle behind this sense of the Senate--that the 
+standards employed in this bill should be the minimum standards that 
+guide the other branches of Government. I thought this was a good 
+amendment--in fact, a necessary amendment--that ought to be accepted 
+into this bill. Unfortunately, that did not happen. I have spoken with 
+some of my colleagues and understand that though there is general 
+support for the principle that ethics standards in the executive branch 
+should be as stringent as those made applicable by this bill, some of 
+my colleagues believe the provisions of this amendment warrant further 
+evaluation. Though I am disappointed this amendment will not be 
+included on this bill, I respect and appreciate the importance and 
+value of committee evaluation and will look forward to working on this 
+issue as that committee process proceeds.
+  Mr. LIEBERMAN. I would like to thank my friend and colleague from 
+Nebraska for bringing this amendment and important issue forward. The 
+Senate Committee on Homeland Security and Governmental Affairs has 
+jurisdiction over these issues which impact the executive branch. As 
+chairman of that committee, I can appreciate that this amendment 
+warrants more thorough evaluation and deliberation. Later this year, 
+the committee will consider the reauthorization of the Office of 
+Government Ethics--the executive branch's ethics arm. I look forward to 
+working with my friend from Nebraska on the issue throughout the year 
+and as we consider this reauthorization and other matters.
+  Mr. NELSON of Nebraska. I thank my good friend from Connecticut. I 
+appreciate his thoughtfulness in this debate, and I look forward to 
+discussing it further as his committee proceeds this year.
+
+                          ____________________
+```

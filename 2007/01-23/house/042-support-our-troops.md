@@ -1,0 +1,41 @@
+---
+granule: CREC-2007-01-23-pt1-PgH846-4
+date: 2007-01-23
+edition: CREC
+section: HOUSE
+page: H846
+citation: 153 Cong. Rec. H846
+---
+
+# SUPPORT OUR TROOPS
+
+**Speaking:** Kingston, Jack (K000220) [R-GA]
+
+```
+                           SUPPORT OUR TROOPS
+
+  (Mr. KINGSTON asked and was given permission to address the House for 
+1 minute.)
+  Mr. KINGSTON. Madam Speaker, I wanted to speak today about the debate 
+on the war. And I have the honor of representing Fort Stewart, home of 
+the Third Infantry Division, which is located in Hinesville and 
+Savannah, Georgia.
+  This month the Third Infantry will start its third deployment to 
+Iraq. And as they go over there, certainly they know what is going on 
+in Washington in terms of the debate. But I think it is real important 
+that we don't send a signal to our men and women in harm's way that 
+what they are doing is irrelevant, that we can't win, and that because 
+Bush might be a President whose policies aren't perfect that we need to 
+withdraw.
+  In fact, I think what we should do is reaffirm on a bipartisan basis 
+that we support the troops. We want to get them all the up-armored 
+vehicles that they need, the Cougars, for example, blue tracking, the 
+advanced night vision goggles. We should say on a bipartisan basis, we 
+want to give them absolutely all the military hardware that they need 
+to win the war. And then, in a separate debate, have the discussion of 
+what an alternative is, where is the plan of the Bush critics and what 
+is the price of pulling out. And I think we need to make that 
+statement. And I am glad Sam Johnson is moving in that direction.
+
+                          ____________________
+```
