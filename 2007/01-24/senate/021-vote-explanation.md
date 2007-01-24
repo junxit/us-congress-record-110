@@ -1,0 +1,49 @@
+---
+granule: CREC-2007-01-24-pt1-PgS1049
+date: 2007-01-24
+edition: CREC
+section: SENATE
+page: S1049
+citation: 153 Cong. Rec. S1049
+---
+
+# VOTE EXPLANATION
+
+**Speaking:** Brownback, Sam (B000953) [R-KS]
+
+**Measures:** S. 1
+
+```
+                            VOTE EXPLANATION
+
+  Mr. BROWNBACK. Mr. President, I regret that I was unable to vote the 
+evening of January 18 on a very significant amendment offered by my 
+colleague from Utah. During consideration of S. 1 last week, I was 
+concerned with section 220 of the bill, which would have severely 
+undermined the ability of Americans to be informed about what is 
+happening here in the Capitol and, thereby, to petition the Congress 
+with their thoughts. I applaud Senator Bennett for offering his 
+amendment to strike these so-called grassroots lobbying provisions from 
+the ethics reform bill, and I thank Senate Republican Leader McConnell 
+and Senator Bennett for their leadership in ensuring this amendment's 
+success. I ask that the Record reflect that, had I been here, I would 
+have voted in favor of Senator Bennett's amendment No. 20 last Thursday 
+night.
+  Additionally, I applaud the Senate's careful consideration and 
+passage of S. 1, the Legislative Transparency and Accountability Act. 
+Although I was unable to attend the vote on final passage of S. 1, I 
+support the bill and hope that a conference to resolve differences 
+between the House and Senate passed bills is convened soon. Scandals 
+involving lobbyists and members of Congress from both sides of the 
+aisle have shaken the American public's confidence in Congress's 
+ability to do business objectively and judiciously. Although S. 1 fails 
+to address transparency for so-called 527 organizations and fails to 
+provide the President the authority to veto wasteful pork projects, 
+passage of this bill is an important step toward broadening 
+transparency in the legislative process, and I look forward to sending 
+a balanced bill to the President's desk. I ask that the Record reflect 
+that, had I been here, I would have voted for the bill, just as I voted 
+for a similar ethics reform bill on March 29, 2006.
+
+                          ____________________
+```

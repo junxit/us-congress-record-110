@@ -1,0 +1,2236 @@
+---
+granule: CREC-2007-01-24-pt1-PgH903-2
+date: 2007-01-24
+edition: CREC
+section: HOUSE
+page: H903
+citation: 153 Cong. Rec. H903
+---
+
+# PERMITTING DELEGATES AND THE RESIDENT COMMISSIONER TO CAST VOTES IN THE COMMITTEE OF THE WHOLE
+
+**Speaking:** Hastings, Alcee L. (H000324) [D-FL], McHenry, Patrick T. (M001156) [R-NC], Jordan, Jim (J000289) [R-OH], Dreier, David (D000492) [R-CA], Conyers, John, Jr. (C000714) [D-MI], Sessions, Pete (S000250) [R-TX], Velazquez, Nydia M. (V000081) [D-NY], Young, Don (Y000033) [R-AK], Kilpatrick, Carolyn C. (K000180) [D-MI], Westmoreland, Lynn A. (W000796) [R-GA], Norton, Eleanor Holmes (N000147) [D-DC], Christensen, Donna M. (C000380) [D-VI], Hastings, Doc (H000329) [R-WA], Garrett, Scott (G000548) [R-NJ], Faleomavaega, Eni F. H. (F000010) [D-AS], Davis, Tom (D000136) [R-VA], Fortuno, Luis G. (F000452) [R-PR], Boehner, John A. (B000589) [R-OH], Bordallo, Madeleine Z. (B001245) [D-GU], Brown-Waite, Ginny (B001247) [R-FL], Honda, Michael M. (H001034) [D-CA], Hoyer, Steny H. (H000874) [D-MD], Fattah, Chaka (F000043) [D-PA], Brady, Kevin (B000755) [R-TX]
+
+**Measures:** H.Res. 78, H.R. 78, H.Res. 86, H.R. 328
+
+```
+PERMITTING DELEGATES AND THE RESIDENT COMMISSIONER TO CAST VOTES IN THE 
+                         COMMITTEE OF THE WHOLE
+
+  Mr. HASTINGS of Florida. Madam Speaker, pursuant to House Resolution 
+86, I call up the resolution (H. Res. 78) amending the Rules of the 
+House of Representatives to permit Delegates and the Resident 
+Commissioner to the Congress to cast votes in the Committee of the 
+Whole House on the state of the Union, and ask for its immediate 
+consideration.
+  The Clerk read the title of the resolution.
+  Mr. McHENRY. Madam Speaker, I demand the question of consideration.
+  The SPEAKER pro tempore (Mrs. Tauscher). The gentleman from North 
+Carolina demands the question of consideration. The question is: Will 
+the House consider the resolution?
+  The question was taken; and the Speaker pro tempore announced that 
+the ayes appeared to have it.
+
+
+                             Recorded Vote
+
+  Mr. McHENRY. Madam Speaker, I demand a recorded vote.
+  A recorded vote was ordered.
+  The vote was taken by electronic device, and there were--ayes 224, 
+noes 186, not voting 24, as follows:
+
+                             [Roll No. 56]
+
+                               AYES--224
+
+     Ackerman
+     Allen
+     Altmire
+     Andrews
+     Arcuri
+     Baca
+     Baird
+     Baldwin
+     Barrow
+     Bean
+     Becerra
+     Berkley
+     Berman
+     Berry
+     Bishop (GA)
+     Bishop (NY)
+     Blumenauer
+     Boren
+     Boswell
+     Boyd (FL)
+     Brady (PA)
+     Braley (IA)
+     Brown, Corrine
+     Butterfield
+     Capps
+     Capuano
+     Cardoza
+     Carnahan
+     Carney
+     Castor
+     Chandler
+     Clarke
+     Clay
+     Cleaver
+     Clyburn
+     Cohen
+     Conyers
+     Cooper
+     Costa
+     Costello
+     Courtney
+     Cramer
+     Crowley
+     Cuellar
+     Cummings
+     Davis (AL)
+     Davis (CA)
+     Davis (IL)
+     Davis, Lincoln
+     DeFazio
+     DeGette
+     Delahunt
+     DeLauro
+     Dicks
+     Dingell
+     Doggett
+     Donnelly
+     Doyle
+     Edwards
+     Ellison
+     Ellsworth
+     Emanuel
+     Engel
+     Eshoo
+     Etheridge
+     Farr
+     Filner
+     Giffords
+     Gillibrand
+     Gonzalez
+     Gordon
+     Green, Al
+     Green, Gene
+     Grijalva
+     Gutierrez
+     Hall (NY)
+     Hare
+     Harman
+     Hastings (FL)
+     Herseth
+     Higgins
+     Hill
+     Hinchey
+     Hinojosa
+     Hirono
+     Hodes
+     Holden
+     Holt
+     Honda
+     Hooley
+     Hoyer
+     Inslee
+     Israel
+     Jackson (IL)
+     Jackson-Lee (TX)
+     Jefferson
+     Johnson (GA)
+     Jones (OH)
+     Kagen
+     Kanjorski
+     Kaptur
+     Kennedy
+     Kildee
+     Kilpatrick
+     Kind
+     Klein (FL)
+     Kucinich
+     Lampson
+     Langevin
+     Lantos
+     Larsen (WA)
+     Larson (CT)
+     Lee
+     Levin
+     Lewis (GA)
+     Lipinski
+     Loebsack
+     Lofgren, Zoe
+     Lowey
+     Lynch
+     Mahoney (FL)
+     Maloney (NY)
+     Markey
+     Marshall
+     Matheson
+     Matsui
+     McCarthy (NY)
+     McCollum (MN)
+     McDermott
+     McGovern
+     McIntyre
+     McNerney
+     McNulty
+     Meehan
+     Meek (FL)
+     Meeks (NY)
+     Melancon
+     Michaud
+     Millender-McDonald
+     Miller (NC)
+     Miller, George
+     Mitchell
+     Mollohan
+     Moore (KS)
+     Moore (WI)
+     Moran (VA)
+     Murphy (CT)
+     Murphy, Patrick
+     Murtha
+     Nadler
+     Napolitano
+     Neal (MA)
+     Oberstar
+     Obey
+     Olver
+     Ortiz
+     Pallone
+
+[[Page H904]]
+
+
+     Pascrell
+     Pastor
+     Payne
+     Perlmutter
+     Peterson (MN)
+     Pomeroy
+     Price (NC)
+     Rahall
+     Rangel
+     Reyes
+     Rodriguez
+     Ross
+     Rothman
+     Roybal-Allard
+     Ruppersberger
+     Rush
+     Ryan (OH)
+     Salazar
+     Sanchez, Linda T.
+     Sanchez, Loretta
+     Sarbanes
+     Schakowsky
+     Schiff
+     Schwartz
+     Scott (GA)
+     Scott (VA)
+     Serrano
+     Sestak
+     Shea-Porter
+     Sherman
+     Shuler
+     Sires
+     Skelton
+     Slaughter
+     Smith (WA)
+     Snyder
+     Solis
+     Space
+     Spratt
+     Stark
+     Stupak
+     Sutton
+     Tanner
+     Tauscher
+     Thompson (CA)
+     Thompson (MS)
+     Tierney
+     Towns
+     Udall (CO)
+     Udall (NM)
+     Van Hollen
+     Velazquez
+     Visclosky
+     Walz (MN)
+     Wasserman Schultz
+     Waters
+     Watson
+     Watt
+     Waxman
+     Weiner
+     Welch (VT)
+     Wexler
+     Wilson (OH)
+     Woolsey
+     Wu
+     Wynn
+     Yarmuth
+
+                               NOES--186
+
+     Aderholt
+     Akin
+     Alexander
+     Bachmann
+     Bachus
+     Baker
+     Barrett (SC)
+     Bartlett (MD)
+     Barton (TX)
+     Biggert
+     Bilbray
+     Bilirakis
+     Bishop (UT)
+     Blackburn
+     Blunt
+     Boehner
+     Bonner
+     Bono
+     Boozman
+     Boustany
+     Brady (TX)
+     Brown (SC)
+     Brown-Waite, Ginny
+     Buchanan
+     Burgess
+     Burton (IN)
+     Calvert
+     Camp (MI)
+     Campbell (CA)
+     Cannon
+     Cantor
+     Capito
+     Carter
+     Castle
+     Chabot
+     Coble
+     Cole (OK)
+     Conaway
+     Crenshaw
+     Culberson
+     Davis (KY)
+     Davis, David
+     Davis, Tom
+     Deal (GA)
+     Dent
+     Diaz-Balart, L.
+     Diaz-Balart, M.
+     Doolittle
+     Drake
+     Dreier
+     Duncan
+     Ehlers
+     Emerson
+     English (PA)
+     Fallin
+     Feeney
+     Ferguson
+     Flake
+     Forbes
+     Fortenberry
+     Fossella
+     Foxx
+     Franks (AZ)
+     Frelinghuysen
+     Gallegly
+     Garrett (NJ)
+     Gerlach
+     Gilchrest
+     Gillmor
+     Gingrey
+     Gohmert
+     Goode
+     Goodlatte
+     Granger
+     Graves
+     Hall (TX)
+     Hastert
+     Hastings (WA)
+     Hayes
+     Heller
+     Hensarling
+     Herger
+     Hobson
+     Hoekstra
+     Hulshof
+     Hunter
+     Inglis (SC)
+     Issa
+     Johnson, Sam
+     Jones (NC)
+     Keller
+     King (IA)
+     King (NY)
+     Kingston
+     Kirk
+     Kline (MN)
+     Knollenberg
+     LaHood
+     Lamborn
+     Latham
+     Lewis (CA)
+     Lewis (KY)
+     Linder
+     LoBiondo
+     Lungren, Daniel E.
+     Mack
+     Manzullo
+     Marchant
+     McCarthy (CA)
+     McCaul (TX)
+     McCotter
+     McCrery
+     McHenry
+     McHugh
+     McKeon
+     McMorris Rodgers
+     Mica
+     Miller (FL)
+     Miller (MI)
+     Miller, Gary
+     Moran (KS)
+     Murphy, Tim
+     Myrick
+     Neugebauer
+     Nunes
+     Paul
+     Pearce
+     Pence
+     Petri
+     Pitts
+     Platts
+     Poe
+     Porter
+     Price (GA)
+     Pryce (OH)
+     Putnam
+     Ramstad
+     Regula
+     Rehberg
+     Reichert
+     Renzi
+     Reynolds
+     Rogers (AL)
+     Rogers (KY)
+     Rohrabacher
+     Ros-Lehtinen
+     Roskam
+     Royce
+     Ryan (WI)
+     Sali
+     Saxton
+     Schmidt
+     Sensenbrenner
+     Sessions
+     Shadegg
+     Shays
+     Shimkus
+     Shuster
+     Simpson
+     Smith (NE)
+     Smith (NJ)
+     Smith (TX)
+     Souder
+     Stearns
+     Sullivan
+     Taylor
+     Terry
+     Thornberry
+     Tiahrt
+     Tiberi
+     Turner
+     Upton
+     Walberg
+     Walden (OR)
+     Walsh (NY)
+     Wamp
+     Weldon (FL)
+     Weller
+     Westmoreland
+     Whitfield
+     Wicker
+     Wilson (NM)
+     Wilson (SC)
+     Wolf
+     Young (AK)
+     Young (FL)
+
+                             NOT VOTING--24
+
+     Abercrombie
+     Boucher
+     Boyda (KS)
+     Buyer
+     Carson
+     Cubin
+     Davis, Jo Ann
+     Everett
+     Fattah
+     Frank (MA)
+     Jindal
+     Johnson (IL)
+     Johnson, E. B.
+     Jordan
+     Kuhl (NY)
+     LaTourette
+     Lucas
+     Musgrave
+     Norwood
+     Peterson (PA)
+     Pickering
+     Radanovich
+     Rogers (MI)
+     Tancredo
+
+                              {time}  1329
+
+  Ms. LINDA T. SANCHEZ of California changed her vote from ``no'' to 
+``aye.''
+  So the question of consideration was decided in the affirmative.
+  The result of the vote was announced as above recorded.
+  A motion to reconsider was laid on the table.
+  Stated against:
+  Mr. JORDAN of Ohio. Madam Speaker, I was absent from the House floor 
+during today's rollcall vote on considering House Resolution 78.
+  Had I been present, I would have voted ``no.''
+  The SPEAKER pro tempore. The Clerk will re-report the title.
+  The Clerk read the title of the resolution.
+  The SPEAKER pro tempore. Pursuant to House Resolution 86, the 
+resolution is considered read.
+  The text of the resolution is as follows:
+
+                               H. Res. 78
+
+       Resolved,
+
+     SECTION 1. VOTING BY DELEGATES AND RESIDENT COMMISSIONER IN 
+                   COMMITTEE OF THE WHOLE.
+
+       (a) Permitting Votes To Be Cast.--Clause 3(a) of rule III 
+     of the Rules of the House of Representatives is amended to 
+     read as follows:
+       ``3. (a) In a Committee of the Whole House on the state of 
+     the Union, each Delegate and the Resident Commissioner shall 
+     possess the same powers and privileges as Members of the 
+     House. Each Delegate and the Resident Commissioner shall be 
+     elected to serve on standing committees in the same manner as 
+     Members of the House and shall possess in such committees the 
+     same powers and privileges as the other members of the 
+     committee.''.
+       (b) Appointment of Chair.--The first sentence of clause 1 
+     of rule XVIII of the Rules of the House of Representatives is 
+     amended by striking ``a Chairman'' and inserting ``a Member, 
+     Delegate, or the Resident Commissioner as Chairman''.
+       (c) Repeating of Certain Votes.--Clause 6 of rule XVIII of 
+     the Rules of the House of Representatives is amended by 
+     adding at the end the following new paragraph:
+       ``(h) Whenever a recorded vote on any question has been 
+     decided by a margin within which the votes cast by the 
+     Delegates and the Resident Commissioner have been decisive, 
+     the Committee of the Whole shall rise and the Speaker shall 
+     put such question de novo without intervening motion. Upon 
+     the announcement of the vote on that question, the Committee 
+     of the Whole shall resume its sitting without intervening 
+     motion.''.
+
+  The SPEAKER pro tempore. After 1 hour of debate on the resolution, it 
+shall be in order to consider the amendment printed in House Report 
+110-3, if offered by the gentleman from Illinois (Mr. Kirk), or his 
+designee, which shall be considered read, and shall be debatable for 20 
+minutes, equally divided and controlled by the proponent and an 
+opponent.
+  The gentleman from Florida (Mr. Hastings) and the gentleman from 
+California (Mr. Dreier) each will control 30 minutes of debate on the 
+resolution.
+  The Chair recognizes the gentleman from Florida.
+  Mr. HASTINGS of Florida. Madam Speaker, I yield myself such time as I 
+may consume.
+  Madam Speaker, I am very proud to be bringing this bill to the House 
+floor today. This minor change in House rules represents a major step 
+forward for the nearly 5 million Americans whose voice is not currently 
+represented on the floor of this House. That is right, Madam Speaker, 5 
+million Americans go unrepresented on the floor of the people's House.
+  This is one of the few things we can do for the American body politic 
+that is not only the right thing to do, it is easy to do as well.
+  One of the most simple, yet eloquent and powerful statements in 
+support of what we will do today was made by one of our former 
+colleagues several years ago. Ben Blaz served in this House for 8 years 
+as the delegate from Guam in the mid-1980s and early 1990s.
+
+                              {time}  1330
+
+  Delegate Blaz is a man of unquestioned patriotism and uncommon valor. 
+He retired from the Marine Corps with the rank of brigadier general, 
+and during his time in the corps he was awarded the Legion of Merit, a 
+Bronze Star with Combat V and the Vietnam Cross of Gallantry.
+  I give you a little background on the former Delegate so that our 
+colleagues can have some context when I tell you what General Blaz had 
+to say at one time on this House floor. What the general said about his 
+status in the House and the faith of his fellow Guamanians was this: 
+``We are equal in war, but not in peace.''
+  So it is today, Madam Speaker. Over the past several months, and as 
+recently as this week, in the deserts of Iraq and Afghanistan, young 
+Americans from Guam, American Samoa, Puerto Rico, the Virgin Islands 
+and Washington, D.C. have fought and died in defense of their country 
+and in service to the Nation they love. In the helicopter that crashed 
+last week, two from the Virgin Islands were on that helicopter and lost 
+their lives.
+  And yet our colleagues, Mr. Fortuno from Puerto Rico, Dr. Christensen 
+from the Virgin Islands, Mr. Faleomavaega from American Samoa, Ms. 
+Bordallo from Guam and Ms. Norton, from Washington, D.C., have no right 
+to cast a vote and be a voice for their constituents and our fellow 
+Americans out on the battlefield.
+  But, you know, Madam Speaker, I may be overstating the importance of 
+this modest rules change. It is, after all, more symbolism than 
+substance. Yes, our colleagues who I just mentioned will finally be 
+able to cast a vote on the House floor, but, and this should be the 
+clincher for my Republican friends who generally prefer to see 
+democracy squelched in the people's House, if a vote cast by a Delegate 
+or the Resident Commissioner or by them collectively amounts to the 
+deciding votes on a question before the
+
+[[Page H905]]
+
+House, then the vote is retaken without permitting them to participate.
+  So who could possibly be opposed to giving our colleagues, arguably 
+some of the most gifted and thoughtful legislators in this Chamber, the 
+right to cast a nondecisive vote on the House floor? I mean, that 
+really should be done.
+  Let me close for now by doing something I don't often do here, and 
+that is to quote the current President of the United States. Last 
+night, Madam Speaker, standing where you are, not 25 feet from where I 
+stand today, the distinguished President of the United States, 
+President Bush, said, ``This is a decent and honorable country.''
+  What we are trying to do on the House floor today, colleagues, is the 
+decent and honorable thing to do.
+  Madam Speaker, I reserve the balance of my time.
+  Mr. DREIER. Madam Speaker, I yield myself such time as I may consume.
+  (Mr. DREIER asked and was given permission to revise and extend his 
+remarks.)
+  Mr. DREIER. Madam Speaker, I rise today in strong opposition to House 
+Resolution 78, which will allow the Delegates and the Resident 
+Commissioner to vote on the House floor.
+  My colleagues who support this measure will talk about how the vote 
+granted under this change in the House rules is merely symbolic and the 
+votes cast don't count. But, Madam Speaker, that analysis says that the 
+value of a vote is worth little more than its ability to be used in a 
+press release or a letter to a constituent. I value my vote. I consider 
+it to be an extraordinary honor to serve here, and I believe that the 
+Delegates and the Resident Commissioners should and would desire to 
+value their votes as well.
+  Those who advocate granting the right in the Committee of the Whole 
+have apparently forgotten the full name of that committee. Madam 
+Speaker, we are in the House right now, but when we are in the 
+Committee of the Whole, it is called the Committee of the Whole House 
+on the state of the Union. I underscore the word ``Union.'' We need to 
+remember that.
+  The Union is made up of the several States, and only Representatives 
+from those States may vote here on the House floor. That is what the 
+U.S. Constitution says.
+  Yes, the Committee of the Whole finds its roots in the British 
+Parliament, but the modern House of Representatives and the 17th 
+century British Parliament used the Committee of the Whole for two 
+vastly different purposes.
+  We use the Committee of the Whole House on the state of the Union for 
+the purpose of allowing the House of Representatives to expedite the 
+amendment process and to allow for a more free-flowing debate. We do 
+not, and I underscore this, Madam Speaker, we do not use it to say that 
+we are no longer the House of Representatives, and therefore allow us 
+to close deliberations to emissaries of the Queen. That is not what 
+going into the Committee of the Whole House on the state of the Union 
+is about.
+  Madam Speaker, my colleagues from the territories and the District of 
+Columbia feel disenfranchised, and I understand why. They enjoy many of 
+the benefits granted to the citizens of the several States. However, 
+with the exception of the District of Columbia, their representatives 
+are different. For instance, some pay income taxes differently; some 
+not at all. Some are subject to the recently increased minimum wage; 
+others are not subjected to the recently increased minimum wage.
+  This change in the House rules is an end run around the United States 
+Constitution. The court said so when it upheld the rule. Because the 
+Constitution limits who can wield legislative power, in order to pass 
+muster the rule had to make it appear that Delegates and Resident 
+Commissioners had none.
+  It is the ultimate in illusions, Madam Speaker. When your vote 
+counts, it doesn't count; and when it doesn't count, it counts. I will 
+say that again. When your vote counts, it doesn't count; and when it 
+doesn't count, it counts. That is really what we are doing here.
+  But we all know that Member voting behavior is far more subtle than 
+my colleagues have led on. A recent academic study of voting patterns 
+in the 103rd Congress showed that while the Delegate voting rule was in 
+place, there was a drastic increase in the number of votes retaken in 
+the House. While there were only three automatic revotes pursuant to 
+the Delegate voting rule, there were a total of 75 votes taken in the 
+Committee of the Whole that were retaken in the House of 
+Representatives.
+  Madam Speaker, on those revotes, the study shows there was an average 
+of 31 switches per vote, and that out of the 435 Members, 403 switched 
+their vote at least once, and that there was an average of 3.9 switches 
+per Member. While the Democrats will argue that the Delegate voting 
+rule had no effect on the switching, there is no doubt that the rule 
+change drastically increased the number of revotes here in the House of 
+Representatives.
+  Madam Speaker, if we want to grant the Delegates the right to vote, 
+we have, I clearly believe, two options: Either they need to start the 
+path towards statehood, or we need to change the United States 
+Constitution. I know full well, Madam Speaker, that both of them are 
+long, difficult paths, but they are clearly preferable to this parlor 
+trick of a rule.
+  Madam Speaker, I reserve the balance of my time.
+  Mr. HASTINGS of Florida. Madam Speaker, I am very pleased at this 
+time to yield 4 minutes to my good friend, the gentleman from Michigan 
+(Mr. Conyers), the distinguished Chair of the Judiciary Committee.
+  (Mr. CONYERS asked and was given permission to revise and extend his 
+remarks.)
+  Mr. CONYERS. Madam Speaker, I want to thank the distinguished member 
+of the Rules Committee, and I rise, Madam Speaker, in some shock about 
+the strong opposition to this rule and the underlying bill.
+  I had never thought that I would hear a reason to deny a Member of 
+the House of Representatives a vote because of convenience, because of 
+the number of revotes that have occurred and whether or not the 
+switched votes that took place were because of whether Delegates were 
+voting or not. This is an incredible kind of an argument.
+  Today I commend the House leadership for bringing to the floor a 
+small attempt to give our Delegates a voice in the House. This rule 
+allows Congress to be more inclusive and integrated as it pertains to 
+our Delegates.
+  Significantly, the rule brings the Congresswoman from the District of 
+Columbia, Eleanor Holmes Norton, closer to a House vote for the 
+District, a vote that was almost realized through bipartisan efforts in 
+the 109th Congress.
+  By giving our Delegates a vote in the Committee of the Whole, we 
+provide these representatives with the opportunity to greater serve 
+their constituents. I wonder what the rest of the citizens of this 
+country would think would be wrong with such an opportunity for these 
+citizens to have a voting Representative, as our citizens do?
+  Delegates will now have a record that reflects their positions on the 
+measures that come before the House, but ultimately Delegates will be 
+more involved with the work of the Congress, which would, at least in 
+small part, become their Congress.
+  In recognizing our Delegates, Mr. Faleomavaega, Ms. Bordallo, Mrs. 
+Christensen, Mr. Fortuno and Eleanor Holmes Norton, I point out that 
+their contributions have been much like that of other representatives. 
+Our Delegates already serve and vote on committee business, they serve 
+in caucus and leadership positions, and they diligently represent the 
+interests of their constituents. It is an honor to work alongside these 
+Members. Why shouldn't we help them in this long, arduous struggle 
+toward full membership in the House?
+  For the Delegate from the District of Columbia, I believe that a vote 
+in the Committee of the Whole is a step toward achieving a vote in the 
+House. It is not the final step. Our work to bring democracy to the 
+Nation's Capital will continue after today's, what I hope will be a 
+success.
+  For over 200 years, the District residents have been disenfranchised 
+while assuming the responsibilities of United States citizenship. Like 
+both State and territory residents, District residents serve in the 
+Armed Forces and are currently represented in Iraq, Afghanistan and 
+other countries in the world. Like
+
+[[Page H906]]
+
+State residents, but unlike territory residents, citizens of the 
+District pay Federal taxes and vote in Presidential elections.
+  However, the District is alone in that it is denied voting 
+representation in the very entity that controls all aspects of the 
+city's legislative, executive, and judicial functions--the Congress. No 
+other entity--State or territory--lacks this much autonomy.
+  I will continue to support Congresswoman Norton in her efforts to 
+secure a vote for the District. I pledge to work towards such a vote in 
+the coming weeks. This Congress is capable of a sound, bipartisan 
+response and in fact proved as much last Congress. Let us now address 
+the unfinished business of the 109th Congress and the unfinished 
+business of our democracy.
+  Mr. DREIER. Madam Speaker, I yield myself such time as I may consume.
+  Madam Speaker, the distinguished chairman of the Judiciary Committee 
+knows I have the highest regard for him. I was simply quoting an 
+academic study underscoring the fact that we very much need to have a 
+greater opportunity for deliberation on this issue, rather than moving 
+without any hearings whatsoever.
+  Madam Speaker, I yield 3 minutes to a very hardworking member of the 
+Rules Committee, the gentleman from Texas (Mr. Sessions).
+  Mr. SESSIONS. Madam Speaker, we are here today to consider the 
+Democrat leadership's proposed change to the current House practices to 
+provide Delegates from U.S. territories with representation without 
+taxation.
+  The Democrat leadership, in a political effort to pad votes, is 
+willing to trample on the Constitution by allowing these Delegates to 
+cast votes on amendments that could affect taxpayers across the United 
+States of America without requiring that these residents pay taxes into 
+the United States Treasury. According to a 2000 census, American Samoa 
+had 60,000 residents, about one-tenth the size of an average 
+congressional district. This too undermines the fundamental 
+constitutional provision and principle of one man, one vote.
+  I encourage all of my colleagues to oppose this bad policy and 
+political effort by the Democrat leadership and majority to extend 
+representation without taxation to nontaxpayers and to dilute the votes 
+of the American taxpayers in the United States House of 
+Representatives.
+
+                              {time}  1345
+
+  Mr. HASTINGS of Florida. I would merely urge the gentleman to 
+recognize that Puerto Rico has 4 million citizens, and I don't know 
+what planet he is living on, but everybody in the District of Columbia 
+pays taxes. And I don't understand this continuing argument. I am 
+curious to know what would happen if Dallas, Texas, didn't have the 
+right to vote in the House.
+  I would also remind the gentleman that the United States District 
+Court of Appeals for the District of Columbia has already ruled that 
+this matter is not unconstitutional.
+  Madam Speaker, I yield 3 minutes to the distinguished gentlewoman 
+from New York (Ms. Velazquez), my good friend and classmate who is the 
+Chair of the Small Business Committee.
+  Ms. VELAZQUEZ. Madam Speaker, I come before this House of 
+Representatives, and I would like to speak not only on behalf of the 4 
+million American citizens who live in Puerto Rico, but also on behalf 
+of the seven American Puerto Ricans who lost their lives in Iraq 
+fighting to protect our Nation.
+  Today I rise to remove the muzzle from the mouths in support of the 
+close to 5 million U.S. citizens' voices that are represented by the 
+Delegates of the U.S. Virgin Islands, Guam, American Samoa and the 
+Resident Commissioner of the Commonwealth of Puerto Rico. I say voices 
+because that is all their representatives in Congress are allowed to 
+utter at the well of this House of Representatives. It is time to allow 
+them to also act on behalf of their constituents in this Chamber by 
+allowing them to vote in the Committee of the Whole House.
+  Right now these Members are allowed to fully participate, not only 
+debate, but also vote at the committees on which they serve with 
+distinction. The change proposed is very measured. It simply allows our 
+respected friends and colleagues to vote in an additional committee, 
+the Committee of the Whole House.
+  Why are my colleagues from the other side of the aisle so unwilling 
+to allow them in this committee? They do not seem to mind them in the 
+other committees. Madam Speaker, my Republican colleagues have even 
+placed the Republican Resident Commissioner of Puerto Rico in several 
+committees, including Foreign Affairs.
+  My colleagues on the other side of the aisle claim that this rule may 
+have constitutional problems. The reality is that the courts don't 
+agree with this. I will tell my colleagues on the other side of the 
+aisle, you cannot pick and choose which court decisions you agree with 
+or you like. That is not how democracy works.
+  But as you all know, the Committee of the Whole House does not vote 
+on final passage of legislation. It carries out similar work as the 
+standing committees.
+  The only thing this new rule does allow is for our Delegates and 
+Resident Commissioner colleagues to vote in a committee. The difference 
+for their constituents is that this committee is not located in a small 
+room, but meets here in this Chamber for all to watch.
+  Today's debate is about whether this House believes it is right to 
+give these Members the opportunity to express their positions and 
+values through the act of voting out in the open. Openness is a strong 
+democratic value that all of us should support.
+  I want to emphasize this. These men and women are Members of this 
+House. Let us help them express the voices of their U.S. citizen 
+constituents by allowing them to vote in this committee as well.
+  Mr. DREIER. Madam Speaker, at this time I am happy to yield 2 minutes 
+to the distinguished ranking member of the Committee on Resources, the 
+gentleman from Fort Yukon, Alaska (Mr. Young).
+  (Mr. YOUNG of Alaska asked and was given permission to revise and 
+extend his remarks.)
+  Mr. YOUNG of Alaska. Madam Speaker, I rise to thank my distinguished 
+colleague from Maryland, the majority leader, for introducing this 
+resolution, but I am forced to oppose it.
+  The voting rights we are considering today are so limited in scope 
+that they are merely symbolic, which has been said. Under the 
+gentleman's resolution, the Delegates and Resident Commissioner will 
+never be able to cast a vote to determine the final outcome of a vote, 
+because if it were to be decisive, there would be an automatic revote 
+on which they could not participate. As odd as it may seem, when it 
+doesn't count, it counts. And when it counts, it doesn't count, as my 
+good friend from California said.
+  Madam Speaker, this proposal falls far short from what we should be 
+doing to address the way our Nation currently deals with its insular 
+areas, and that is why I am unable to support this legislation. As 
+chairman of the Resources Committee in the mid- to late 1990s, we led 
+an effort, we, this side, not that side, led an effort that would have 
+specifically addressed the question of political status of the 4 
+million American citizens that reside in Puerto Rico. That bill did 
+pass this House by one vote, but the Senate failed to act on it.
+  In the last Congress, my good friend and colleague from Puerto Rico, 
+the ranking member of the Insular Affairs Subcommittee, Resident 
+Commissioner Luis Fortuno, revived this effort after 5 years of 
+inaction. He introduced a bipartisan legislation that was followed with 
+the recommendations set forth by the White House Task Force on Puerto 
+Rico's Status Report to Congress.
+  Puerto Rico has been a U.S. territory with an unresolved political 
+status since our Nation acquired the island in 1898. Puerto Ricans have 
+been citizens and have honorably served in our Nation's Armed Forces 
+since 1917. Close to 60 of them have already paid the ultimate 
+sacrifice in our Nation's war against terror in Iraq and Afghanistan.
+  These 4 million U.S. citizens deserve more than just symbolism. They 
+deserve a permanent resolution to the question of their political 
+status.
+  Madam Speaker, I say respectfully, it is time we act honorably and 
+give them the right to vote as a State.
+  Mr. HASTINGS of Florida. Madam Speaker, I am very pleased to yield 2
+
+[[Page H907]]
+
+minutes to the distinguished chairwoman of the Congressional Black 
+Caucus and my good friend from Michigan (Ms. Kilpatrick).
+  Ms. KILPATRICK. Madam Speaker, I rise in support of the resolution. 
+The Delegates vote in committees. They are assigned the task. They 
+spend the hours, and they deserve the vote in the full House. There is 
+no reason, except for an act in 1995 that caused them to lose that 
+right to vote in committees, Committee of the Whole, and here this 
+resolution talks about voting in the Committee of the Whole.
+  We need their vote. They are citizens of our country. They work, they 
+pay taxes, they fight our wars. There is no reason that they would not 
+be allowed, not just the Committee of the Whole, as was mentioned just 
+earlier, they also need that final vote on legislation. When you fight 
+wars, and we are in some now, and some of their people are fighting, 
+they ought to be represented and have a voice in this Congress.
+  At the same time, and I don't want anybody to mistake, the District 
+of Columbia, who has over 700,000 residents, more than some of our 
+States who have two Senators and a Congressperson, not being allowed 
+the right to vote? Something is very wrong with that in this country 
+where we live. And I believe that this is the first step to regain what 
+they lost earlier, but it is certainly not, I hope, the final step.
+  It is important as we go forward and as we acknowledge Congresswoman, 
+as I call her, Delegate Eleanor Holmes Norton, my good friend, 
+Congresswoman Donna Christensen and the Representatives from Puerto 
+Rico and Guam and Samoa Islands, that they fight our wars, they pay 
+taxes in D.C., and they serve in our Congress. So I rise to support it, 
+and Members of the Congressional Black Caucus take a unanimous position 
+that we support this legislation. We ask for its immediate passage, and 
+we come back and give D.C. statehood that they have earned and should 
+have.
+  Citizens from Guam, American Samoa, the U.S. Virgin Islands, Puerto 
+Rico and Washington, D.C. have paid taxes and have protected the 
+Constitution of this country in our military. Some of our colleagues 
+who have been fortunate enough to serve Americans in this august body 
+have protected it as Members of Congress. It is now time for us to 
+protect the rights of those citizens to at least be able to vote in the 
+Committee of the Whole. It is a first step toward equity, equality and 
+egalitarianism for so many people who have given so much but have 
+received so little with regard to having a voting representative in the 
+United States Congress.
+  Right here, in Washington, D.C., citizens were not allowed to even 
+vote for President until the adoption of the 23rd Amendment to the 
+Constitution in 1961, but which actually occurred in 1964. Right here, 
+in Washington, D.C., citizens were not even allowed to vote for their 
+own Mayor or local form of government until 1974. Right here, in 
+Washington, D.C., as I face the setting sun, thousands of white 
+tombstones, honoring some of the souls of individuals from Guam, 
+American Samoa, the U.S. Virgin Islands, Puerto Rico and Washington, 
+D.C. face us as immortals. These citizens, about six miles away from 
+where I stand at Arlington National Cemetery, have paid the highest 
+price for freedom any individual will ever pay. These citizens--hard-
+working, women and men, some of whom have served and are still serving 
+our country in Afghanistan and Iraq--two centuries and thirty-one years 
+since the Declaration of Independence, do not have the right to full 
+representation in Congress. I applaud my colleagues for beginning the 
+process that, I hope, will ultimately allow the citizens from Guam, 
+American Samoa, the U.S. Virgin Islands, Puerto Rico and Washington, 
+D.C. full voting representation in Congress. This is but a small step, 
+but it is a step in the right direction. It is right, it is just, and 
+it is time.
+  Mr. DREIER. Madam Speaker, at this time I am very happy to yield 2\1/
+2\ minutes to my very hardworking friend from Grantville, Georgia (Mr. 
+Westmoreland).
+  Mr. WESTMORELAND. Madam Speaker, legislation to allow Delegate voting 
+should have appeared on the 100-hour agenda because it would fit snugly 
+under the agenda's general theme of symbolism over substance.
+  In fact, to bolster their case, the bill's advocates insist that 
+Delegates' votes will be meaningless. But it is not meaningless. We 
+have a written Constitution that clearly outlines who receives a vote 
+in Congress. The principle is as clear as it is simple. The Members 
+will be chosen every second year by the people of the several States. 
+The Constitution doesn't provide exemptions to those rules in cases 
+where it feels good, it is seemingly irrelevant or is politically 
+expedient.
+  Residents of U.S. territories reap the benefits of the world's 
+biggest economy; they are protected by the greatest military in the 
+world, and they have coveted access to the 50 States. Yet territories, 
+by definition, are not States. This status comes with pros and cons. On 
+the one hand, they maintain a greater deal of autonomy, independent 
+identity and self-determination. On the other hand, territories don't 
+get the same representation in Congress as States do. This is a prime 
+example having your cake and eating it, too.
+  There are many reasons to oppose this legislation. For one, it makes 
+no sense in the people's House where representation is determined by 
+population for Puerto Rico's 4 million to get the same vote as American 
+Samoa of 57,000. It makes no sense to give Delegates a vote that 
+doesn't count if it counts. And it makes no sense to pretend that this 
+effort is anything but political opportunism.
+  But those aren't the most important reasons for opposing this bill. 
+The most important reason is that it plays fast and loose with the 
+constitutional limitations on who can vote on the floor of this House. 
+We are not members of a backyard club making up rules on who gets to 
+vote as we go along.
+  When we took this job, we swore to uphold the Constitution, and that 
+is what I am doing by opposing this legislation today. If supporters of 
+this bill think it is important to give Delegates a vote on the House 
+floor, I urge them to draft a constitutional amendment, not a 
+constitutional runaround.
+  I ask and I say to the majority's argument with us, it is not with 
+us, it is with the Founding Fathers and the writers of the 
+Constitution.
+  I ask my colleagues, and especially those from the great sovereign 
+State of Georgia, to oppose this legislation.
+  Mr. HASTINGS of Florida. Madam Speaker, I am very pleased to yield to 
+a continuing champion of this subject for 3\3/4\ minutes, the 
+distinguished gentlewoman from the District of Columbia, most deserving 
+of statehood, Ms. Norton.
+  Ms. NORTON. Madam Speaker, I thank the gentleman for yielding and for 
+his gracious introduction and work on this debate.
+  The other side really doth protest too much. Most Delegate votes, of 
+course, don't carry the day, so a revote is not necessary.
+  If the vote doesn't count, if the vote is only symbolic, then it 
+certainly has not been worth 2 hours of votes to adjourn, as if the 
+world was coming to an end. It certainly has not been worth the insults 
+to the Delegates. It certainly has not been worth the disgrace to the 
+House of Representatives to have Members of this venerable House come 
+down and take to the floor to argue against the right to vote that has 
+been upheld by the Federal courts of the United States. It certainly 
+isn't worth besmirching your name in that way, and besmirching ours 
+because that debate has occurred here.
+  The matter before us is no longer subject to debate in a political 
+body in our political system because that matter has gone the full way 
+in our system. And the courts in our system, my friends, have the last 
+word in our system on matters of constitutional right. You have got to 
+understand that.
+
+                              {time}  1400
+
+  Using regular order, Mr. Speaker, right after my freshman year I 
+wrote a memo arguing for the Committee of the whole vote. The Democrats 
+didn't handle this matter lightly. Nobody in 200 years had argued that 
+Delegates should have a vote on the House floor; they sent the memo to 
+outside counsel, then they subjected it to debate in the Rules. The 
+first day of the 103rd Congress the Republicans argued strongly against 
+the matter. And then they did something very unusual, they took the 
+House to court and lost in the district court and the court of appeals. 
+This is a system of laws in which we work.
+  They had two more times to debate in the courts, in the trial court 
+and in the court of appeals. They finally had their way politically. 
+They had their way, notwithstanding what the Federal courts had found, 
+and they yanked the
+
+[[Page H908]]
+
+authority, court-approved authority of Delegates to vote out of the 
+rules the moment they came to power, showing no respect for the 
+Delegates, and an insult to the Democrats who had tried to maximize 
+participation in the people's House.
+  I was thrilled and grateful to get that vote then, I welcome the vote 
+now, but it is very hard to be grateful to the House or anybody else 
+for a vote you are entitled to. A vote that offers so little for 
+Americans who have given so much should be hard even for the other side 
+to resist.
+  The test for the 110th Congress is not the Delegate vote, however. 
+The test is the District of Columbia House voting rights bill, where we 
+left off at the Judiciary Committee.
+  I want to thank Representative Tom Davis and the cosponsors of that 
+bill. I want to thank the Democrats. I can't go anywhere in my own 
+caucus that they don't say, when are we going to get to vote on your 
+full House bill?
+  The Democrats have devoted decades of energy to full voting rights. I 
+ask that the House bring forward H.R. 328 so that the House can vote on 
+a full House vote for the District of Columbia.
+  Mr. DREIER. Madam Speaker, I am going to ask unanimous consent to 
+yield the management of the time to my colleague from Pasco, Washington 
+(Mr. Hastings).
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from California?
+  There was no objection.
+  Mr. DREIER. Madam Speaker, as I do that, I would like to yield 2 
+minutes to the gentleman from Cherryville, North Carolina (Mr. 
+McHenry), a hardworking Member.
+  Mr. McHENRY. I thank my colleague.
+  Madam Speaker, today the House Democrats continue their abuse of 
+power. They are pushing forward a measure to allow the territory 
+Delegates, nonvoting Members of Congress traditionally, actually, not 
+Members of Congress on a technical basis because they don't represent 
+States, their constituents don't pay Federal income taxes, they are 
+going to allow these individuals to cast votes and even preside when 
+the Chamber meets. So let's have a quick Q&A on this; let's talk 
+questions and answers here.
+  Why would the Democrats do this? Because 80 percent of the territory 
+Delegates are, hold for an answer here, they are Democrats. They want 
+to cushion their numbers. Why is this an abuse of power? Well, there is 
+this little thing we Americans call the Constitution. It says, ``The 
+House shall be comprised of Members chosen by the people of the several 
+States,'' not territories, not mayors of cities allowed to vote on this 
+House floor, not any individual, but ``comprised of Members chosen by 
+the people of the several States,'' not non-State territories. But 
+plainly the Democrats are cushioning their numbers and abusing their 
+power.
+  The Democrats' power grab is a continuation of the abusive policies 
+and actions they have taken since day one in this institution. Since 
+day one they have shut down all debate. Since day one they have shut 
+down the committee process. They held open a vote to change the outcome 
+because they were losing on the vote. They ran through the Speaker's 
+special interest project affectionately known as TunaGate, and all 
+without fulfilling their pledge of working a 5-day week. In fact, in 3 
+weeks we only worked 40 hours in this House. That is a new Democrat 
+majority, that is a continuation of the abuse of power.
+  What we have to do today is vote down this legislation that is, 
+first, unconstitutional, and second, an abuse of power by the Democrat 
+majority.
+  I urge my colleagues to vote ``no'' on this measure.
+  Mr. HASTINGS of Florida. Madam Speaker, I yield 3 minutes to the 
+distinguished woman from the Virgin Islands, my good friend, Dr. 
+Christensen.
+  Mrs. CHRISTENSEN. Thank you for yielding, Mr. Hastings.
+  Madam Speaker, I rise as a representative of the people of the U.S. 
+Virgin Islands, proud Americans who willingly and gladly serve this 
+country in every way, including the ultimate sacrifice, as I have said 
+on two occasions on this floor this morning, and who only seek the 
+fullest representation possible under the Constitution of the United 
+States, and that is purely and simply what H.R. 78 does. I thank the 
+Democratic leadership, Mr. Hastings, and my colleagues for their 
+support.
+  Just as it did in 1992, the rule granting Delegates the right to vote 
+in the Committee of the Whole includes a mechanism which provided for 
+an automatic revote in the full House of any of the amendments which 
+passed or failed by a margin that included the votes of the Delegates. 
+That rule and procedure was tested in Federal court and was upheld as 
+constitutional.
+  While this is less than perfect, as is often said, we must not let 
+the perfect be the enemy of the good, or, I add, the enemy of what is 
+the right thing to do.
+  Listening to the strong objections from the other side on the basis 
+of unconstitutionality, taxation, and others which are not relevant to 
+the discussion, I have to wonder if these same objections would be 
+raised by my Republican colleagues, an issue that is clearly one of 
+participation and inclusion, if there were four Republican Delegates 
+and one Democratic Delegate.
+  The one Resident Commissioner and four Delegates in the House of 
+Representatives are the sole congressional representatives of over 4.5 
+million Americans. It is apparently lost to my friends on the other 
+side of the aisle that these Americans have no representation 
+whatsoever in the U.S. Senate in addition to their Delegates being 
+unable to vote in the House of Representatives on legislation that has 
+great and enduring impact on the lives of those we represent.
+  During the historic debate in 2002 on the resolution authorizing the 
+use of military force against Iraq, for example, although I spoke on 
+the record, I was not able to vote ``yea'' or ``nay'' on behalf of my 
+constituents, many of whom I knew would soon be called upon to serve 
+and die for their country.
+  Madam Speaker, my fellow Delegates and Resident Commissioner have 
+worked closely with all of you at the committee level, some of us have 
+chaired subcommittees or will be doing so in the near future. It is 
+therefore fitting and proper that we be given the right to vote in the 
+Committee of the Whole once again. It worked well in the 103rd 
+Congress; it does not violate the Constitution.
+  We should be given this greater degree of participation in the 
+forumlation of the laws that affect the lives of the people who send us 
+here to represent them. And then once we have passed this, we must go 
+on from here to give the residents of the District of Columbia full 
+voting rights in this body as they deserve.
+  I ask my colleagues to respect your fellow Americans in the District 
+and the territories. Do justice to your colleagues; let's get a 
+unanimous vote for democracy. Vote ``yes'' on H. Res. 78.
+  Mr. HASTINGS of Washington. Madam Speaker, I am pleased to yield 2\1/
+2\ minutes to the gentleman from New Jersey (Mr. Garrett).
+  Mr. GARRETT of New Jersey. Madam Speaker, I rise, too, in strong 
+opposition to this resolution which violates the Constitution and the 
+fundamental intent of the Framers of the Constitution as well, and it 
+does so in four ways.
+  First, it would allow Delegates to vote, even though our Founding 
+Fathers intended that this legislative body represent the people of the 
+States. The Constitution, Article I, section 2, clause 1, states, ``The 
+House of Representatives shall be composed of Members chosen by the 
+people of the several States.'' By definition, Delegates do not 
+represent States.
+  Secondly, this resolution violates the principle of one person, one 
+vote.
+  The average congressional district represents approximately 650,000 
+people, but three of these areas have populations of less than 160,000 
+people, and American Samoa has residents of less than 57,000 people.
+  The Supreme Court has already spoken on this. In 1964, the decision 
+of Wesberry v. Sanders, the Supreme Court said, ``To say a vote is 
+worth more in one district than in another would run not only counter 
+to our fundamental ideas of a democrat government, but it would also 
+cast aside the principles of the House of Representatives elected by 
+the people. That was a principle tenaciously fought for and established 
+at the Constitutional Convention.''
+  Thirdly, the qualifications for these Delegates are not the same as 
+all the
+
+[[Page H909]]
+
+other Members of the House. Neither Puerto Rico, American Samoa nor the 
+District of Columbia requires that their Delegates be a citizen of the 
+United States for 7 years, as all other Members have to be.
+  Fourthly, the Constitution requires that all Members be elected and 
+``chosen every second year.'' Puerto Rico Delegates, however, hold 4-
+year terms.
+  Finally, Madam Speaker, it was a former Democrat Speaker of the House 
+who said, ``It is very clear that a constitutional amendment would be 
+required to give Delegates a vote in the Committee of the Whole or in 
+the House.'' H. Res. 78 does not do this.
+  H. Res. 78 obviously is not a constitutional amendment; it is, 
+instead, an attempt to resurrect a shameful move done back in the 103rd 
+Congress, back in 1993.
+  I do not support, nor should the Members of this side of the aisle 
+nor any Members of this Congress, an assault on the Constitution of the 
+United States nor an assault on the people of this country as well.
+  Vote ``no'' on this resolution.
+  Mr. HASTINGS of Florida. Madam Speaker, before yielding, I would just 
+like for my distinguished colleague to reference two cases, Michaels v. 
+Anderson, and the action of the United States District Court.
+  And since you are so worried about the constitutionality, I would 
+just urge that you read those two cases; it may add clarity.
+  Mr. GARRETT of New Jersey. Would the gentleman yield?
+  Mr. HASTINGS of Florida. I wish I had the time.
+  Madam Speaker, as a matter of fact, with your permission, how much 
+time do we have?
+  The SPEAKER pro tempore. For the majority, 8\1/2\ minutes before 
+yielding, and 14\1/2\ minutes for the minority.
+  Mr. HASTINGS of Florida. Perhaps you can get some time from your 
+side.
+  With that in mind, I had the good fortune, Madam Speaker, of 
+traveling on two different occasions to American Samoa. I never met 
+people that were more inclined to be patriots than the people of 
+American Samoa. I had the good fortune of traveling there on each of 
+those occasions with the gentleman now that I yield 4\1/2\ minutes to, 
+my very good friend from American Samoa (Mr. Faleomavega).
+  (Mr. FALEOMAVAEGA asked and was given permission to revise and extend 
+his remarks.)
+  Mr. FALEOMAVAEGA. Madam Speaker, I have had a sleepless night in 
+pondering and wondering how this day's debate is going to turn out, and 
+it is most unfortunate that this issue has become divisive among our 
+colleagues this day.
+  Much has been said about America's insular territories and the 
+District of Columbia. In fact, this is probably the first time in years 
+that we have ever given this much attention to the privileges and 
+rights of the five congressional Delegates, the privileges and rights 
+of those of us who represent some 5 million fellow Americans that are 
+part and parcel of this great Nation.
+  Some have said that the insular areas don't pay Federal income taxes, 
+and therefore why are we allowing our congressional Delegates to vote 
+in the Committee of the Whole. In the first place, it is 
+constitutional; we have been through that test already 13 years ago.
+  The question of taxation without representation also comes to mind. 
+And I submit to my friends on the other side of the aisle, it seems 
+that at some period, at least in my humble opinion, at some period of 
+time, if the Congress ever works its will to have the insular areas to 
+pay Federal income taxes, that should we not also be allowed the right 
+to vote?
+  How ironic that here under the shadow of our Nation's Capitol some 
+600,000 U.S. citizens pay Federal income taxes. And my distinguished 
+colleague representing the District of Columbia for how many years has 
+pled this case, no representation without taxation, but she pays taxes. 
+So how ironic is it that we are talking about representation and 
+taxation, and yet right under the shadows of our Nation's Capitol 
+600,000 U.S. citizens are denied their due representation by my 
+distinguished friend and colleague from the District of Columbia in the 
+process. Where is the equity and fairness in the process, Madam 
+Speaker?
+  Much has been said about the population as a factor in this debate. 
+And it seems that my friends on the other side have, almost to the 
+point of making a mockery of the fact that I happen to have 70,000 
+residents of my district that I represent, I make no apologies for the 
+fact that I represent some 70,000 residents of the United States 
+territory of American Samoa. I make no apologies for the fact that nine 
+of my soldiers have died fighting for our country's interest in that 
+terrible conflict in Iraq, and about 40 or more wounded. I daresay, I 
+wonder if any of my colleagues have a constituency of 70,000 whose 
+soldiers, eight of them I have had to personally escort their remains 
+to my district, which is about only a 16-hour flight from here.
+
+                              {time}  1415
+
+  I make no apologies for the fact that I am here because this body 
+passed a law some 26 years ago to allow my little territory 
+representation. So if my colleagues on the other side want to introduce 
+a bill to get rid of Delegate representation in this body, then do so. 
+But don't come here and make these, almost an embarrassment, to suggest 
+that my little constituency is less important to the fact that there 
+are 36 million Californians living in California. Is it any different 
+than the 500,000 living in Wyoming, another half million living in 
+Vermont, or other States of our great Nation? So let's not use 
+population as a factor to suggest that because I only have 70,000 
+residents and some 130,000 living throughout the United States, that 
+because of that reason we should not be here.
+  I submit, Madam Speaker, I am saddened that this has gotten to the 
+point where we are caught in the crossfire, and here the congressional 
+Delegates are caught in between the political movements that are going 
+on.
+  I respectfully request and ask my colleagues on both sides of the 
+aisle to pass this proposed resolution.
+  Madam Speaker. I rise today in support of H. Res. 78, amending the 
+Rules of the House of Representatives to permit Delegates and the 
+Resident Commissioner to the Congress to cast votes in the Committee of 
+the Whole House on the state of the Union. I thank my good friend and 
+colleague the gentleman from Maryland--the distinguished Majority 
+Leader for his initiative and leadership by introducing this resolution 
+now before us for consideration.
+  This is not the first time this proposed rule has been debated and 
+adopted. In 1993, the 103rd Congress amended the House Rules in the 
+exact manner we are discussing today. From 1993 to 1995, the House of 
+Representatives voted to allow the Congressional delegates of the 
+different territories to vote in the Committee of the Whole, with the 
+caveat that if the outcome of the vote was within the margin of the 
+number of Delegates voting, the Committee would rise and the House 
+would revote the question without the participation of the Delegates. 
+In 1995, the new Republican majority eliminated these provisions from 
+the House Rules and our Congressional delegates no longer voted in the 
+Committee of the Whole.
+  In the lawsuit filed by our Republican colleagues challenging these 
+Rules in 1993, the federal district court determined that the Rules 
+changes were constitutional. As the district court held, the 
+determining factor that rendered these proposed rules constitutional 
+was the revote provision that was included. In the view of the court, 
+this provision essentially made the vote meaningless as an exercise of 
+legislative power--a power that is reserved by the Constitution to the 
+Representatives of the States. This judgment was later affirmed by the 
+U.S. Court of Appeals for the DC Circuit.
+  Given that this amendment to the House Rules was adjudged to be 
+constitutional only because it provided what was characterized as a 
+meaningless vote, why are we discussing this legislation? I submit that 
+we are here because although the privilege extended by this change in 
+the Rules is meaningless as an exercise of legislative power, it is 
+vitally important because it provides a forum for our representatives 
+from Puerto Rico, DC, American Samoa, Guam, and the U.S. Virgin Islands 
+to participate in the democratic process.
+  As the Majority Leader explained on the floor of the House last 
+Friday when asked the purpose of this legislation, and he said and I 
+quote, ``the purpose is to honor democracy.'' Each of us has been 
+elected by our home districts to represent their interests in the U.S. 
+House of Representatives. Because we do not represent states we do not 
+vote on legislation, but we do advocate on behalf of our constituencies 
+nonetheless. The Rules changes contemplated here today represent a 
+symbolic extension of our ability as Congressional delegates to 
+advocate, to educate, and to inform
+
+[[Page H910]]
+
+our colleagues in the House of Representatives as they vote on 
+legislation that impacts the lives of some 5 million of our fellow 
+Americans who live in the District of Columbia, the Commonwealth of 
+Puerto Rico, Guam, the U.S. Virgin Islands, American Samoa, and the 
+Commonwealth of the Northern Mariana Islands.
+  If our goal here in Congress is to produce the best possible 
+legislation, would it not benefit us to consider and debate in the 
+Committee of the Whole the potential impact of legislation on all 
+Americans, including those 5 million Americans residing in the 
+territories? For example, given the strategic importance of Guam in the 
+Pacific and the billions of dollars the United States spends on our 
+military presence in Guam, wouldn't legislation pertaining to Guam 
+benefit from the perspective of Guam's representative? Also, given that 
+the Resident Commissioner represents nearly 4 million Americans, 
+shouldn't his perspective on initiatives that impact the people of 
+Puerto Rico at least be considered as Congress deliberates on such 
+issues?
+  Another obvious benefit of this legislation would be that the votes 
+taken in the Committee of the Whole would establish a voting record for 
+our constituents to inform them of our positions on issues that affect 
+the lives of all of our people. While we make every effort to ensure 
+that those we represent here in Congress are familiar with our position 
+on current issues, a recorded vote would provide evidence of our 
+commitment to their issues of concern.
+  Recently, concerns have been expressed that, in my opinion, only 
+distract from the fundamental issue of honoring democracy by agreeing 
+to these Rules changes. First, this is not an issue of party 
+affiliation. We are here from both parties. Second, this is not an 
+issue of patriotism. We are all Americans--just as in your districts, 
+our soldiers from the territories sacrifice their lives and limbs to 
+protect our freedoms. Third, this is not an issue of population size. 
+Our populations range from 70,000 to over 3.4 million. We are each here 
+to represent the interest of our respective areas--territories, 
+district, and commonwealth.
+  The Rules changes being considered to allow Delegates and the 
+Resident Commissioner are important not because they would provide the 
+territorial representatives a symbolic vote, but because they would 
+enhance our opportunities to participate in the democratic process.
+  These changes have been judicially affirmed as clearly 
+constitutional. The passage of these rules gives Congress the potential 
+to enhance legislation produced in the House. H. Res. 78 would allow us 
+as Delegates and Resident Commissioner to better represent our 
+constituents by providing a voting record through which they could 
+evaluate our positions on national legislation.
+  I strongly support this legislation and I urge my colleagues to 
+support H. Res. 78, and allow the Delegates and the Resident 
+Commissioner a vote in the Committee of the Whole on the State of the 
+Union.
+  Mr. HASTINGS of Washington. Madam Speaker, I am pleased to yield 3 
+minutes to the gentleman from Virginia (Mr. Tom Davis).
+  Mr. TOM DAVIS of Virginia. Madam Speaker, I rise today in opposition 
+to House Resolution 78. This is an uncomfortable decision for me since 
+for many years I have tried to convince the Republican-controlled Rules 
+Committee to grant my friend, the Representative from the District of 
+Columbia, a vote in the Committee of the Whole.
+  In the beginning I did so because the right to vote in the Committee 
+of the Whole, which has little meaning in practice, carried important 
+symbolic meaning to people who had no representation at all.
+  Over the past 4 years, I have embarked on a journey to give D.C. a 
+real vote in the House of Representatives. Working with Congresswoman 
+Norton and numerous legal scholars and many colleagues on my side from 
+across the ideological spectrum, we have crafted a bill that was 
+politically neutral, gave real rights to the District of Columbia, and 
+solved Utah's special problem created in the last census to boot.
+  The Speaker of the House has been a cosponsor of my legislation. The 
+majority whip says he expects the bill to be brought up quickly this 
+session. It is clear that if our bill, the D.C. FAIR Act, were brought 
+to the floor today, it would pass with solid support from both parties.
+  Today's resolution muddies the waters. It fails to recognize the 
+fundamental difference between the District of Columbia and the 
+territories. It ignores the carefully constructed bipartisan compromise 
+we reached in the D.C. FAIR Act. It amounts, as The Washington Post 
+opined today, to little more than ``dithering.''
+  I hope this vote, which grants illusory voting rights to Delegates, 
+is designed to expose the strong support that exists for full D.C. 
+voting rights. But pardon me if I appear cynical.
+  To the cynic in me, this resolution smacks of obfuscation. What the 
+majority is doing today threatens to delay action on the real injustice 
+that has plagued the District for more than two centuries. I am looking 
+for assurances that this is not the case.
+  Admittedly, we could have avoided this awkward grouping of 
+governmental apples and oranges if the Republican leadership had 
+brought the bill to the floor at the end of last year. The bill was 
+ready. It is ready now, too. It is time for the new majority to not 
+just talk the talk.
+  What is proposed today in H. Res. 78 is not a politically neutral 
+solution. It adds four Democrat votes and one Republican. 
+Traditionally, when we have added votes in the House, we have done so 
+in a politically neutral manner. Worse, this resolution mixes the 
+interests of the District of Columbia, the Federal district, the 
+capital of the free world, whose residents pay Federal income taxes, 
+with those of the territories.
+  This mushy thinking is what has led to nearly 200 years of no 
+representation for District residents. H. Res. 78 distracts attention 
+and saps energy from the movement we have created behind D.C. voting 
+rights. It is confusing and allows Members to check a box that in 
+reality is not being checked.
+  Still it is tempting to support this, if only to get more Members of 
+Congress acclimated to voting to expand representation for District 
+residents. But this is a sham, and I am not going to be part of it. I 
+can't condone grandstanding and symbolism when real reform is so easily 
+within our grasp.
+  Mr. HASTINGS of Florida. Madam Speaker, I heard someone say the vote 
+counts, and it doesn't count. But every time I see the scroll 
+indicating that another American soldier has died, that is a count that 
+adds up, and that count is firm. The people of, the residents of Puerto 
+Rico and the Delegates lose the lives of their soldiers in that count 
+along with those of us from the respective States.
+  Mr. HASTINGS of Washington. Madam Speaker, I am pleased to yield 3 
+minutes to the gentleman from Puerto Rico (Mr. Fortuno).
+
+
+ =========================== NOTE =========================== 
+
+  
+  January 24, 2007--On Page H910 the following appeared: Madam 
+Speaker, I am pleased to yield 3 minutes to the gentleman from 
+Puerto Rico (Mr. Fortuno).
+  
+  The online version should be corrected to read: Mr. HASTINGS of 
+Washington. Madam Speaker, I am pleased to yield 3 minutes to the 
+gentleman from Puerto Rico (Mr. Fortuno).
+
+
+ ========================= END NOTE ========================= 
+
+  (Mr. FORTUNO asked and was given permission to revise and extend his 
+remarks.)
+  Mr. FORTUNO. Madam Speaker, I am the only Republican afforded a vote 
+under H. Res. 78, and I want to thank the gentleman from Maryland (Mr. 
+Hoyer) for introducing this bill. Having said that, I also want to 
+thank the gentleman from Alaska, Resources Committee Ranking Member Don 
+Young, for bringing this issue to the appropriate perspective.
+  What the House really needs to do for the almost 4 million citizens 
+that I represent before the Senate, the executive branch, as well as 
+the House, is to authorize a process of self-determination for Puerto 
+Rico.
+  Puerto Rico has been a U.S. territory since 1898, and we still to 
+this day remain disenfranchised. Puerto Rican Americans have been 
+citizens since 1917, and we have served with distinction and valor in 
+our Armed Forces and have defended our Nation in every battlefield 
+around the world. I will say that 18,000 served in World War I. Over 
+65,000 served in World War II, and I must say, the oldest surviving 
+veteran of that war was my constituent, Mr. Emiliano Mercado, who died 
+today of natural causes at the tender age of 115 years.
+  More than 48,000 Puerto Rican Americans served in Vietnam; 430 of 
+them were killed and 3,000 were wounded. Close to 2,600 Puerto Rican 
+National Guard volunteers and U.S. Army Reserve soldiers mobilized for 
+Desert Storm.
+  So far, I have lost 56 constituents in the global war on terror. I 
+regularly visit our soldiers at Walter Reed Army Medical Center. Every 
+time I visit with our soldiers, our true American heroes, I cannot help 
+myself but think that none of them have been able to elect their 
+Commander in Chief, only because they reside in a territory. If they 
+were to reside in one of the States, and they could because we are U.S. 
+citizens, they would have been able to vote
+
+[[Page H911]]
+
+for the Commander in Chief. This is morally wrong in the 21st century.
+  We are about to commemorate the 90th anniversary of Congress granting 
+U.S. citizenship to the people of Puerto Rico, yet we still cannot vote 
+for our President, nor vote in this Chamber, nor vote on legislation 
+that affects us.
+  Congress has an unfinished agenda with Puerto Rico. The 4 million 
+citizens that live in Puerto Rico should finally be given the 
+opportunity to make an educated, fair and democratic choice regarding 
+their final status preference.
+  After 108 years of territorial status and 90 years of being U.S. 
+citizens, we are tired of waiting. The people of Puerto Rico deserve 
+better, and we have earned our right to be heard.
+  I urge my colleagues to vote in favor of this resolution, but I bring 
+it back to the bottom line, and the bottom line is that we have 
+unfinished business with Puerto Rico as well as the U.S. territories.
+  Mr. HASTINGS of Washington. Madam Speaker, I yield such time as he 
+may consume to the gentleman from Ohio (Mr. Boehner), the distinguished 
+minority leader.
+  Mr. BOEHNER. Madam Speaker, let me thank my colleague from Washington 
+for yielding.
+  I remind my colleagues that when the session started, as every 
+session has started, we raise our right hands and we swear to uphold 
+and defend the Constitution of the United States. That is our solemn 
+obligation.
+  The Constitution outlines who has the right to vote here in the 
+House. It clearly spells out that the Members from the States have the 
+right to vote. Over the years as Delegates came to this House, they 
+were granted the privilege of voting in the committee. That is not 
+something spelled out in the Constitution.
+  I could describe what is going on here today is an outrageous grab of 
+power by the new majority; a breach of the trust of the Members here. 
+That is if it weren't such a silly idea.
+  To say to the Delegates that you can vote as long as it doesn't 
+count, but if your vote counts, we are going to revote it, I think that 
+diminishes the stature of the House, diminishes the stature of the 
+Delegates, quite frankly, to say that they have a vote, but only if it 
+doesn't count, because if it counts, there is an automatic revote under 
+this rule that is outlined today.
+  I think it does demean the House. I think it undermines our 
+responsibility to the American people. And I think that this should not 
+be on the floor today.
+  The process by which this bill came to the floor, no committee 
+hearings, a short Rules Committee hearing. We heard earlier today about 
+the problems with the rule and how it was crafted. And here we are 
+having this debate once again.
+  I was here in 1993 when this issue was brought to the House the first 
+time. The debate was probably more rancorous then than it is today.
+  But it saddens me that there was no discussion about this with the 
+minority. There was no advance notice of it until last Friday when the 
+majority leader outlined the schedule for this week. So here we are, no 
+opportunity to have a real conversation between the majority and the 
+minority party about doing this.
+  Over the course of the last 3 weeks, and actually before that, going 
+into December, I have done everything I can to reach out to the Speaker 
+and the majority leader to try to work here in this House in a 
+bipartisan way on the issues the American people care about. And it 
+seems, though, over the last 3 weeks that more we reach out and offer 
+our hand of bipartisanship, it is slapped away.
+  It happened last night up in the Rules Committee on the rule that 
+brought this to the floor, and I am saddened by it. We have an 
+opportunity to work together. We have an opportunity to do what the 
+American people expect of us. But if we are going to do it together, we 
+need to live up to our promises, and we need to live up to our 
+commitments.
+  I don't think that what we are doing on the floor today helps that 
+process at all. And so while it would be easy for me to describe this 
+as a power grab, I could if I thought this meant something, but it 
+means nothing. This is symbolism at its best. And in the process of 
+creating symbolism for a few, I think we diminish our roles as serious 
+legislators here on behalf of the American people.
+  Mr. HASTINGS of Washington. Madam Speaker, I yield back the balance 
+of my time.
+  Mr. HASTINGS of Florida. Madam Speaker, I yield myself 30 seconds 
+merely to respond to the distinguished minority leader that we offered 
+in the Rules Committee a motion that they denied, and that was to have 
+an opportunity to have a substitute. An amendment was made in order if 
+the gentleman had chosen to make that amendment, and he chose not to.
+  But I say to those who argue that there is symbolism involved here 
+that indeed there is. But death is more than symbolism. Death is real, 
+and the persons who die that come from the 5 million persons that these 
+Delegates and the Resident Commissioner represent are real people. They 
+and their families need this symbolism.
+  Madam Speaker, I am very pleased to yield the balance of our time to 
+the distinguished gentlewoman from Guam (Ms. Bordallo), my good friend.
+
+                              {time}  1430
+
+  Ms. BORDALLO. Madam Speaker, I rise in full support of House 
+Resolution 78, which would grant a measure of symbolic participation 
+for the Delegates in the Committee of the Whole.
+  Our chairman referred to General Blaz earlier. He was a distinguished 
+Delegate representing Guam, and he was a member of the Republican 
+Party. But the participation is neither Democrat nor Republican here; 
+it is American.
+  Let me say a few words about my district, the island of Guam. Some 
+would point out that Guam's population is small, with only about 
+160,000 residents. I would point out that Guam has lost seven soldiers 
+in the Iraq war, far more per capita than most communities other than 
+maybe American Samoa. If our Nation had the same percentage of deaths 
+in the Iraq war as Guam, the death toll would be more than three times 
+the current toll. In other words, when it comes to joining the military 
+and dying for our country, Americans from our island have more than 
+contributed our share.
+  Some would say that Guam does not deserve this new level of 
+participation. I would respond that you have not met the people of Guam 
+who survived a brutal enemy occupation during World War II. You have 
+not heard their stories of loyalty to our Nation. You have not learned 
+of their confinement in concentration camps, of their being beaten and 
+beheaded. You have not seen and felt their patriotism.
+  Our ability to participate in the Committee of the Whole would make 
+these sacrifices all the more meaningful for us as Americans. It means, 
+Madam Speaker, that my colleagues will recognize us for who we are, 
+members, members of the American family.
+  Some would say that the test for our participation is our level of 
+taxation. I say that you surely misunderstand the promise of America 
+and the meaning of democracy. Democracy is founded on voting and 
+participation. Would you teach this lesson to the Iraqis? Have we 
+become this cynical as Americans that even symbolic participation is 
+tested by the taxes that we pay? Is the greatest test the willingness 
+to defend the Nation or the 1040s? Is the greatest sacrifice that made 
+by our troops and their families or that made by our tax accountants?
+  If you would deny your fellow Americans, the people of Guam, this 
+small bit of symbolic participation, the greater loss is our Nation's 
+loss of its promise to the world of a democracy that is inclusive and 
+that values all of its citizens. The loss is the ideal of American 
+democracy, however imperfect. The loss is the recognition of a cynical 
+Congress that wants to know how much taxes you have paid, not how much 
+sacrifice that you have made for this great land. The loss, ladies and 
+gentlemen, is not Guam or the territories or the District of Columbia. 
+It is the Nation's.
+  Mr. HASTINGS of Florida. Madam Speaker, do we have any time remaining 
+at all?
+  The SPEAKER pro tempore. The gentleman from Florida has 15 seconds 
+remaining.
+  Mr. HASTINGS of Florida. In that 15 seconds, I would ask my friends, 
+the
+
+[[Page H912]]
+
+Delegates, if they would just stand and have America know something, 
+that I am getting ready to cast a vote for them. They cannot cast a 
+vote for themselves. How long does it take for 5 million people to be 
+represented in this body?
+  I thank my colleagues.
+  Ms. GINNY BROWN-WAITE of Florida. Madam Speaker, I rise today in 
+opposition to H. Res. 78.
+  This bill reverses the last 12 years of precedent and returns our 
+House Rules to a questionable practice of delegates voting in the 
+Committee of the Whole.
+  Our Constitution clearly states that Members of Congress should be 
+chosen by residents of States.
+  As much as we appreciate the contribution of our great territories 
+and the District of Columbia, they are not States.
+  If the other side would like to change that, they are welcome to 
+propose a constitutional amendment.
+  Instead, this bill makes an end run around the Constitution by 
+granting Delegates this privilege.
+  Opponents are arguing that the courts approved this practice as long 
+as the House re-votes on an issue if the Delegates make a difference in 
+the outcome.
+  We are taking time away that we could be spending on more important 
+issues by forcing a superfluous voting exercise on every closely 
+divided issue.
+  This was a bad idea in 1992. A Chicago Tribune article at the time 
+said: ``This change would subvert the Constitution to give the 
+territorial delegates the power to vote, but guarantee that any time 
+their votes really count, they won't be counted.''
+  And this is a bad idea today. Today's Washington Times editorial 
+said: ``Despite Democratic protestations to the contrary. it's hard to 
+see this rule change as anything other than an attempt to add four more 
+votes to their majority.''
+  Frankly, we are creating a rule today that will waste our time and 
+waste the American people's time.
+  Mr. HONDA. Madam Speaker, as chair of the Congressional Asian Pacific 
+American Caucus, I strongly support H. Res. 78, a resolution that would 
+restore the privileges of the House Delegates representing the District 
+of Columbia, the U.S. Virgin Islands, Guam, and American Samoa, as well 
+as the Resident Commissioner of Puerto Rico, to cast a vote in the 
+Committee of the Whole.
+  For the past 12 years, Delegates and the Resident Commissioner have 
+been deprived of the ability to sufficiently represent the voices of 
+their constituents. The time is long overdue to restore this privilege.
+  Of great significance to the Asian Pacific Islander community, the 
+resolution would give greater voice to the approximate 170,000 U.S. 
+citizens in Guam, and the approximate 60,000 U.S. nationals in American 
+Samoa.
+  Permitting the Delegates and the Resident Commissioner to vote in the 
+Committee of the Whole improves the legislative process and increases 
+the degree to which the House of Representatives accurately reflects 
+needs of American citizens and nationals. In this regard, every 
+American benefits with a truer democracy.
+  On behalf of CAPAC, I urge my colleagues to pass this measure.
+  Mr. HOYER. Madam Speaker, I am proud to be joined by House Democratic 
+Whip Clyburn, House Democratic Caucus Chair Emanuel, Vice Chair Larson, 
+and of course the distinguished chairwoman of the Rules Committee in 
+sponsoring House Resolution 78.
+  This measure will restore voting rights in the Committee of the Whole 
+for the four House Delegates and Resident Commissioner of Puerto Rico.
+  In fact, this measure is identical in substance to the rule that 
+operated successfully--and constitutionally--from 1993 to 1995.
+  The purpose of this resolution is simple:
+  To honor democracy in every corner of the United States of America;
+  To provide that all people who are subject to the laws and 
+jurisdiction of the United States have a voice in their national 
+legislature; and
+  To give to the elected representatives of the District of Columbia, 
+the U.S. Virgin Islands, Guam, and American Samoa and Puerto Rico--
+constituent parts of this country--the ability to register their views 
+and take a stance on issues that are considered in the most important 
+and representative committee of the house: the Committee of the Whole 
+House on the State of the Union.
+  During the 103rd Congress, House Delegates, as well as the Resident 
+Commissioner, were granted the privilege to cast a vote in the 
+Committee of the Whole, a body comprised of all House Members whose 
+function is to expedite consideration of bills and amendments on the 
+House floor while ensuring that debate is fair to both sides of the 
+aisle.
+  This right is a logical extension of the Delegates' right to serve on 
+and vote in the House committees--a right, I must stress, that was 
+granted in the 1970s and to which no Member of this body whom I know 
+has ever objected.
+  The measure that we will vote on today is identical to the rule that 
+existed in the 103rd Congress, which the U.S. Court of Appeals for the 
+District of Columbia held in 1994 was constitutional.
+  To ensure that the provision complies with article I of the United 
+States Constitution, in the event that a matter before the Committee of 
+the Whole is decided by the margin of the Delegates' votes, the measure 
+provides for an automatic re-vote in the full House, where Delegates 
+and the Resident Commissioner may not participate.
+  Now, I want to address some of the misinformation that has been 
+directed at this measure by opponents whose desire to defeat this 
+resolution is more intense than their fealty to the facts.
+  I have heard opponents contend that this measure confers 
+``representation without taxation.''
+  That is false.
+  The residents who will benefit from this measure do indeed pay taxes 
+in the form of Medicare and Social Security.
+  At a time when the President's own economic advisors predict that 
+these two programs will go bust if changes are not made in the next few 
+years, I for one believe residents of the five territories should have 
+a voice in shaping a bipartisan consensus that shores up the financial 
+health of these vital programs.
+  I have heard opponents contend that the average congressional 
+district is 630,000 and that American Samoa, with a population of 
+roughly 70,000 is too small to deserve even a symbolic vote.
+  However, opponents making this argument omit the inconvenient case of 
+Puerto Rico, whose population of almost 4 million would entitle it to 
+as many as six seats if it had full representation.
+  They also omit Wyoming, whose population of only 515,000 puts it well 
+below the average congressional district.
+  I have heard opponents contend that the five votes will slow down the 
+legislative process and distort outcomes.
+  According to a 1994 article in the Congressional Quarterly Almanac, 
+``Of the 404 times that delegates were eligible to vote during the 
+103rd Congress, only three times--all in 1994--did their vote prove 
+decisive, triggering an automatic revote.'' Twice the outcome was 
+reversed, proving that the rule worked.
+  My friends, I would submit to each and every one of you that 
+something magical happens when 435 Representatives from the 50 States 
+come to this floor to vote on behalf of their constituents.
+  Simply put, the genius of deliberative democracy achieves its fullest 
+expression.
+  We hear each other out on issues of the day.
+  We get to know one another as something more than Members.
+  We come to understand the needs and aspirations of one another's 
+districts, whatever our political leanings.
+  And through this process of personal interaction, we enact laws that, 
+when we are at our best, make our country better.
+  By granting a limited but important vote to five of our colleagues, 
+we will be honoring the deliberative democratic process.
+  In doing so, we will improve the legislative process and the degree 
+to which the House of Representatives accurately reflects the views of 
+the 300 million Americans who are subject to laws it passes.
+  In that sense, every American, as well as our democratic system of 
+government as a whole, stands to benefit from House Resolution 78.
+  I urge my colleagues to support it.
+  Mr. HASTINGS of Florida. Madam Speaker, I yield back the balance of 
+my time.
+  The SPEAKER pro tempore. Pursuant to House Resolution 86, the 
+previous question is ordered on the resolution.
+
+
+ =========================== NOTE =========================== 
+
+  
+  January 24, 2007--On Page H912 the following appeared: ...to 
+House Resolution 78, the previous
+  
+  The online verson should be corrected to read: ...to House 
+Resolution 86, the previous
+
+
+ ========================= END NOTE ========================= 
+
+  The question is on the resolution.
+  The question was taken; and the Speaker pro tempore announced that 
+the noes appeared to have it.
+  Mr. HASTINGS of Florida. Madam Speaker, I object to the vote on the 
+ground that a quorum is not present and make the point of order that a 
+quorum is not present.
+  The SPEAKER pro tempore. Evidently a quorum is not present.
+  The Sergeant at Arms will notify absent Members.
+  The vote was taken by electronic device, and there were--yeas 226, 
+nays 191, not voting 18, as follows:
+
+                             [Roll No. 57]
+
+                               YEAS--226
+
+     Abercrombie
+     Ackerman
+     Allen
+     Altmire
+     Andrews
+     Arcuri
+     Baca
+     Baird
+     Baldwin
+     Barrow
+     Bean
+     Becerra
+     Berkley
+     Berman
+     Berry
+
+[[Page H913]]
+
+
+     Bishop (GA)
+     Bishop (NY)
+     Blumenauer
+     Boren
+     Boswell
+     Boyd (FL)
+     Boyda (KS)
+     Brady (PA)
+     Braley (IA)
+     Brown, Corrine
+     Burton (IN)
+     Butterfield
+     Capps
+     Capuano
+     Cardoza
+     Carnahan
+     Carney
+     Chandler
+     Clarke
+     Clay
+     Cleaver
+     Clyburn
+     Cohen
+     Conyers
+     Cooper
+     Costello
+     Courtney
+     Cramer
+     Crowley
+     Cuellar
+     Cummings
+     Davis (AL)
+     Davis (CA)
+     Davis (IL)
+     Davis, Lincoln
+     DeFazio
+     DeGette
+     Delahunt
+     DeLauro
+     Dicks
+     Dingell
+     Doggett
+     Donnelly
+     Doyle
+     Edwards
+     Ellison
+     Ellsworth
+     Emanuel
+     Engel
+     Eshoo
+     Etheridge
+     Farr
+     Filner
+     Giffords
+     Gillibrand
+     Gonzalez
+     Gordon
+     Green, Al
+     Green, Gene
+     Grijalva
+     Gutierrez
+     Hall (NY)
+     Hare
+     Harman
+     Hastings (FL)
+     Herseth
+     Higgins
+     Hill
+     Hinchey
+     Hinojosa
+     Hirono
+     Hodes
+     Holden
+     Holt
+     Honda
+     Hooley
+     Hoyer
+     Inslee
+     Israel
+     Jackson (IL)
+     Jackson-Lee (TX)
+     Jefferson
+     Johnson (GA)
+     Johnson, E. B.
+     Jones (OH)
+     Kagen
+     Kanjorski
+     Kaptur
+     Kennedy
+     Kildee
+     Kilpatrick
+     Kind
+     Klein (FL)
+     Kucinich
+     Lampson
+     Langevin
+     Lantos
+     Larsen (WA)
+     Larson (CT)
+     Lee
+     Levin
+     Lewis (GA)
+     Lipinski
+     Loebsack
+     Lofgren, Zoe
+     Lowey
+     Lynch
+     Mahoney (FL)
+     Maloney (NY)
+     Markey
+     Marshall
+     Matheson
+     Matsui
+     McCarthy (NY)
+     McCollum (MN)
+     McDermott
+     McGovern
+     McIntyre
+     McNerney
+     McNulty
+     Meehan
+     Meek (FL)
+     Meeks (NY)
+     Melancon
+     Michaud
+     Millender-McDonald
+     Miller (NC)
+     Miller, George
+     Mitchell
+     Mollohan
+     Moore (KS)
+     Moore (WI)
+     Moran (VA)
+     Murphy (CT)
+     Murphy, Patrick
+     Murtha
+     Nadler
+     Napolitano
+     Neal (MA)
+     Oberstar
+     Obey
+     Olver
+     Ortiz
+     Pallone
+     Pascrell
+     Pastor
+     Payne
+     Pelosi
+     Perlmutter
+     Peterson (MN)
+     Pomeroy
+     Price (NC)
+     Rahall
+     Rangel
+     Reyes
+     Rodriguez
+     Ross
+     Rothman
+     Roybal-Allard
+     Ruppersberger
+     Rush
+     Ryan (OH)
+     Sanchez, Linda T.
+     Sanchez, Loretta
+     Sarbanes
+     Schakowsky
+     Schiff
+     Schwartz
+     Scott (GA)
+     Scott (VA)
+     Serrano
+     Sestak
+     Shea-Porter
+     Sherman
+     Shuler
+     Sires
+     Skelton
+     Slaughter
+     Smith (WA)
+     Snyder
+     Solis
+     Space
+     Spratt
+     Stark
+     Stupak
+     Sutton
+     Tanner
+     Tauscher
+     Thompson (CA)
+     Thompson (MS)
+     Tierney
+     Towns
+     Udall (CO)
+     Udall (NM)
+     Van Hollen
+     Velazquez
+     Visclosky
+     Walz (MN)
+     Wasserman Schultz
+     Waters
+     Watson
+     Watt
+     Waxman
+     Weiner
+     Welch (VT)
+     Wexler
+     Wilson (OH)
+     Woolsey
+     Wu
+     Wynn
+     Yarmuth
+
+                               NAYS--191
+
+     Aderholt
+     Akin
+     Alexander
+     Bachmann
+     Bachus
+     Baker
+     Barrett (SC)
+     Bartlett (MD)
+     Barton (TX)
+     Biggert
+     Bilbray
+     Bilirakis
+     Bishop (UT)
+     Blackburn
+     Blunt
+     Boehner
+     Bonner
+     Bono
+     Boozman
+     Boustany
+     Brown (SC)
+     Brown-Waite, Ginny
+     Buchanan
+     Burgess
+     Calvert
+     Camp (MI)
+     Campbell (CA)
+     Cannon
+     Cantor
+     Capito
+     Carter
+     Castle
+     Chabot
+     Coble
+     Cole (OK)
+     Conaway
+     Crenshaw
+     Culberson
+     Davis (KY)
+     Davis, David
+     Davis, Jo Ann
+     Davis, Tom
+     Deal (GA)
+     Dent
+     Diaz-Balart, L.
+     Diaz-Balart, M.
+     Doolittle
+     Drake
+     Dreier
+     Duncan
+     Ehlers
+     Emerson
+     English (PA)
+     Fallin
+     Feeney
+     Ferguson
+     Flake
+     Forbes
+     Fortenberry
+     Fossella
+     Foxx
+     Franks (AZ)
+     Frelinghuysen
+     Gallegly
+     Garrett (NJ)
+     Gerlach
+     Gilchrest
+     Gillmor
+     Gingrey
+     Gohmert
+     Goode
+     Goodlatte
+     Granger
+     Graves
+     Hall (TX)
+     Hastert
+     Hastings (WA)
+     Hayes
+     Heller
+     Hensarling
+     Hobson
+     Hoekstra
+     Hulshof
+     Hunter
+     Inglis (SC)
+     Issa
+     Johnson, Sam
+     Jones (NC)
+     Jordan
+     Keller
+     King (IA)
+     King (NY)
+     Kingston
+     Kirk
+     Kline (MN)
+     Knollenberg
+     Kuhl (NY)
+     LaHood
+     Lamborn
+     Latham
+     LaTourette
+     Lewis (CA)
+     Lewis (KY)
+     Linder
+     LoBiondo
+     Lungren, Daniel E.
+     Mack
+     Manzullo
+     Marchant
+     McCarthy (CA)
+     McCaul (TX)
+     McCotter
+     McCrery
+     McHenry
+     McHugh
+     McKeon
+     McMorris Rodgers
+     Mica
+     Miller (FL)
+     Miller (MI)
+     Miller, Gary
+     Moran (KS)
+     Murphy, Tim
+     Musgrave
+     Myrick
+     Neugebauer
+     Nunes
+     Paul
+     Pearce
+     Pence
+     Peterson (PA)
+     Petri
+     Pitts
+     Platts
+     Poe
+     Porter
+     Price (GA)
+     Pryce (OH)
+     Putnam
+     Ramstad
+     Regula
+     Rehberg
+     Reichert
+     Renzi
+     Reynolds
+     Rogers (AL)
+     Rogers (KY)
+     Rogers (MI)
+     Rohrabacher
+     Ros-Lehtinen
+     Roskam
+     Royce
+     Ryan (WI)
+     Sali
+     Saxton
+     Schmidt
+     Sensenbrenner
+     Sessions
+     Shadegg
+     Shays
+     Shimkus
+     Shuster
+     Simpson
+     Smith (NE)
+     Smith (NJ)
+     Smith (TX)
+     Souder
+     Stearns
+     Sullivan
+     Tancredo
+     Taylor
+     Terry
+     Thornberry
+     Tiahrt
+     Tiberi
+     Turner
+     Upton
+     Walberg
+     Walden (OR)
+     Walsh (NY)
+     Wamp
+     Weldon (FL)
+     Weller
+     Westmoreland
+     Whitfield
+     Wicker
+     Wilson (NM)
+     Wilson (SC)
+     Wolf
+     Young (AK)
+     Young (FL)
+
+                             NOT VOTING--18
+
+     Boucher
+     Brady (TX)
+     Buyer
+     Carson
+     Castor
+     Costa
+     Cubin
+     Everett
+     Fattah
+     Frank (MA)
+     Herger
+     Jindal
+     Johnson (IL)
+     Lucas
+     Norwood
+     Pickering
+     Radanovich
+     Salazar
+
+                              {time}  1507
+
+  Mr. CLEAVER changed his vote from ``nay'' to ``yea.''
+  So the resolution was agreed to.
+  The result of the vote was announced as above recorded.
+  A motion to reconsider was laid on the table.
+  Stated for:
+  Mr. FATTAH. Madam Speaker, had I been present for the vote on H. Res. 
+78, I would have voted ``yea.''
+  Stated against:
+  Mr. BRADY of Texas. Madam Speaker, on rollcall No. 57 on H. Res. 78, 
+I am not recorded because I was absent due to illness. Had I been 
+present, I would have voted ``nay.''
+
+                          ____________________
+```

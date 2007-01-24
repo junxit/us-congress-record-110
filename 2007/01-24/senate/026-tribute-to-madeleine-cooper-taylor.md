@@ -1,0 +1,54 @@
+---
+granule: CREC-2007-01-24-pt1-PgS1054-2
+date: 2007-01-24
+edition: CREC
+section: SENATE
+page: S1054
+citation: 153 Cong. Rec. S1054
+---
+
+# TRIBUTE TO MADELEINE COOPER TAYLOR
+
+**Speaking:** Biden, Joseph R., Jr. (B000444) [D-DE]
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+                   TRIBUTE TO MADELEINE COOPER TAYLOR
+
+● Mr. BIDEN. Mr. President, today I wish to publicly 
+congratulate Ms. Madeleine Cooper Taylor on her recent appointment as a 
+member of the city council of Memphis, TN. Last Tuesday, she was 
+appointed unanimously by the council to serve the remaining term of 
+council member TaJuan Stout Mitchell.
+  Ms. Taylor has worked as a program coordinator for the Memphis branch 
+of the NAACP since 1991 and is a lifelong Memphian.
+  Now, I am not normally in the habit of coming to the Senate floor to 
+congratulate a new city council member, especially one who is not from 
+my home State of Delaware. But this is no normal circumstance. 
+Madeleine Cooper Taylor is the mother of Reagan Taylor, an attorney and 
+presidential management fellow whom I have been fortunate enough to 
+have on my staff for the past 6 months.
+  During her rotation on my Judiciary Committee staff, Reagan has made 
+an invaluable contribution to legal and drug policy for our country. 
+Thanks to her efforts, we have succeeded in reauthorizing the Office of 
+National Drug Control Policy, and our fight against the scourge of 
+methamphetamine has been bolstered. And even though she is scheduled to 
+rotate out of my office at the end of this month, as we speak she is 
+hard at work improving security for our State and local courts and 
+better utilizing DNA as a powerful tool in solving horrendous crimes.
+  While Reagan tirelessly works to make our communities safer through 
+her efforts on the Subcommittee on Crime and Drugs, Councilwoman Taylor 
+stated in one of her first public statements after her appointment that 
+she is concerned about crime in her community. As the old saying goes, 
+the apple does not fall far from the tree.
+  It has been my pleasure to have Reagan Taylor on my staff over these 
+past months, and it is my distinct honor to congratulate Madeleine 
+Cooper Taylor on her new public office. I wish them both the best of 
+luck in their future endeavors.●
+
+                          ____________________
+```
