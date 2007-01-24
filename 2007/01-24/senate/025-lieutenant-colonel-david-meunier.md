@@ -1,0 +1,34 @@
+---
+granule: CRECB-2007-pt2-Pg2238-2
+date: 2007-01-24
+edition: CRECB
+section: SENATE
+page: 2238
+---
+
+# LIEUTENANT COLONEL DAVID MEUNIER
+
+```
+                    LIEUTENANT COLONEL DAVID MEUNIER
+
+● Mr. HAGEL. Mr. President, I rise to honor David Russell 
+Meunier of Bellevue, NE.
+  David Russell Meunier was born in Peshtigo, WI, on December 13, 1940, 
+and passed away on November 22, 2006, in Rochester, MN. Lieutenant 
+Colonel Meunier served his country as an officer in the Strategic Air 
+Command of the U.S. Air Force. He was a highly decorated officer and 
+veteran of the Vietnam war. At Offutt Air Force Base in Bellevue, 
+Lieutenant Colonel Meunier served as a battle staff intelligence chief. 
+He retired from the Air Force on January 23, 1989.
+  Lieutenant Colonel Meunier leaves behind his wife Constance Bennet 
+Muenier; sisters Patricia Jeske, Diane Hazlewood, and her husband 
+Thomas; brothers, Gary and his wife Sally, and Paul and his wife 
+Patricia. Our thoughts and prayers are with all of them at this 
+difficult time. America is proud of Lieutenant Colonel Meunier and 
+mourns his loss.
+  For his service, bravery, and commitment to our country, I ask my 
+colleagues to join me and all Americans in honoring LTC David Russell 
+Meunier.●
+
+                          ____________________
+```

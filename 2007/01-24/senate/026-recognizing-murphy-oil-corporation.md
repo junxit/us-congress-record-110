@@ -1,0 +1,52 @@
+---
+granule: CRECB-2007-pt2-Pg2238-3
+date: 2007-01-24
+edition: CRECB
+section: SENATE
+page: 2238
+---
+
+# RECOGNIZING MURPHY OIL CORPORATION
+
+```
+                   RECOGNIZING MURPHY OIL CORPORATION
+
+● Mr. PRYOR. Mr. President, it is with great pleasure that I 
+commend an outstanding Arkansas company for a truly amazing gift. 
+Murphy Oil Corporation, an El Dorado, AR, based company, has always 
+been a national leader in philanthropy by providing substantial 
+donations for many very worthwhile causes, especially education. Murphy 
+Oil's recent announcement to establish the El Dorado Promise may be one 
+of the most significant and groundbreaking gifts of any business to any 
+group of people in recent years.
+  El Dorado Promise is an extraordinary scholarship program. The 
+Promise will provide the opportunity for every graduate of El Dorado 
+High School to pursue higher education by granting a scholarship to 
+these students to be used at community colleges or public universities 
+around the country. This scholarship will cover tuition and other 
+expenses for many of these students for up to 5 years. The leadership 
+at Murphy Oil has shown that they truly understand that in order to 
+adequately prepare for the future we must make significant investments 
+in the children of today. This gift represents that significant 
+investment.
+  I would like to congratulate the students, families, teachers, and 
+community of El Dorado, AR. This is a wonderful gift that you truly 
+deserve, and I am excited for the tremendous prospects it will create 
+for you.
+  I also want to take this opportunity to commend the actions of 
+Claiborne Deming, president and CEO of Murphy Oil. A great business 
+leader known for his strong support of education, Mr. Deming has served 
+on the Arkansas Board of Education, helped found the Arkansans for 
+Education Reform Foundation, is president of the El Dorado Education 
+Foundation, and continues to be a strong catalyst for investment in 
+education. I have no doubt he was instrumental in providing these 
+students and families the ability to fulfill their ambitions.
+  Finally, I would like to personally thank Murphy Oil Corporation, Mr. 
+Claiborne Deming, and members of the Murphy family for their unwavering 
+support of El Dorado, the State of Arkansas, and the education system. 
+There is no doubt the gift of the El Dorado Promise will better many 
+lives and shape the future of Arkansas and the country in a brighter 
+way.●
+
+                          ____________________
+```
