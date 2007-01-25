@@ -1,0 +1,12091 @@
+---
+granule: CRECB-2007-pt2-issue-2007-01-25
+date: 2007-01-25
+edition: CRECB
+section: ISSUE
+page: 2333
+---
+
+# Congressional Record (Bound Edition), Volume 153 for January 25, 2007
+
+```
+[[Page 2333]]
+
+
+                   SENATE--Thursday, January 25, 2007
+
+  The Senate met at 9:30 a.m. and was called to order by the Honorable 
+Bob Casey, Jr., a Senator from the State of Pennsylvania.
+                                 ______
+                                 
+
+                                 prayer
+
+  The Chaplain, Dr. Barry C. Black, offered the following prayer:
+  Let us pray.
+  Eternal Lord God, in whose life we find our life, today hold our 
+Senators within Your providential hand. Guide them when they feel 
+perplexed and strengthen them to meet every challenge. Infuse them with 
+courage and keep them close to You.
+  As they seek to represent You, fill them with Your peace. Do for them 
+what they cannot accomplish in their own strength. Give them a new 
+delight for matters of drudgery, a new patience with difficult people, 
+and a new zest for unfinished details. Let Your spirit rule in their 
+lives.
+  We pray in Your sacred Name. Amen.
+
+                          ____________________
+
+
+
+                          PLEDGE OF ALLEGIANCE
+
+  The Honorable Bob Casey, Jr., led the Pledge of Allegiance, as 
+follows:
+
+       I pledge allegiance to the Flag of the United States of 
+     America, and to the Republic for which it stands, one nation 
+     under God, indivisible, with liberty and justice for all.
+
+                          ____________________
+
+
+
+              APPOINTMENT OF ACTING PRESIDENT PRO TEMPORE
+
+  The PRESIDING OFFICER. The clerk will please read a communication to 
+the Senate from the President pro tempore (Mr. Byrd).
+  The legislative clerk read the following letter:
+
+                                                      U.S. Senate,
+
+
+                                        President pro tempore,
+
+                                 Washington, DC, January 25, 2007.
+     To the Senate:
+       Under the provisions of rule I, paragraph 3, of the 
+     Standing Rules of the Senate, I hereby appoint the Honorable 
+     Bob Casey, Jr., a Senator from the State of Pennsylvania, to 
+     perform the duties of the Chair.
+                                                   Robert C. Byrd,
+                                            President pro tempore.
+
+  Mr. CASEY thereupon assumed the chair as Acting President pro 
+tempore.
+
+                          ____________________
+
+
+
+                   RECOGNITION OF THE MAJORITY LEADER
+
+  The ACTING PRESIDENT pro tempore. The majority leader is recognized.
+
+                          ____________________
+
+
+
+                                SCHEDULE
+
+  Mr. REID. Mr. President, we will return to the consideration of H.R. 
+2 this morning. Last night, we entered into an agreement that there be 
+a vote in relation to amendment No. 158, and that vote will occur 
+around 10:30 this morning. Last night, we worked on a number of 
+amendments. We are anxious to meet with the Republican staff this 
+morning. We are ready to vote on the DeMint amendment dealing with 
+minimum wage, the Sessions amendment dealing with immigration, the 
+Ensign amendment dealing with health savings accounts, the Smith 
+amendment dealing with education, the Bunning amendment dealing with 
+Social Security, and the Kyl amendment dealing with expensing. We hope 
+to get votes on these and other amendments as the day progresses. If we 
+can get other votes keyed up, it could be a late night.
+  We are going to vote tomorrow on the confirmation of General 
+Petraeus, who will be the new commander in Iraq. The Foreign Relations 
+Committee reported that out yesterday. It may have been the Armed 
+Services Committee. I think it was. One of the committees reported it 
+out. There is a lot of activity. It is in the Senate, and we will take 
+care of that tomorrow. We are trying to line up a judge vote in the 
+morning, also. Then I am going to be discussing with the distinguished 
+Republican leader as to what we will do at the end of the week and get 
+keyed up for next week.
+
+                          ____________________
+
+
+
+                  RECOGNITION OF THE REPUBLICAN LEADER
+
+  The ACTING PRESIDENT pro tempore. The Republican leader is 
+recognized.
+
+                          ____________________
+
+
+
+                           PROGRESS ON H.R. 2
+
+  Mr. McCONNELL. Mr. President, let me echo the remarks of my friend, 
+the majority leader. We will vote on the DeMint amendment 1 hour from 
+now. I am pleased to hear that we will be moving forward on a number of 
+amendments to be offered on this side of the aisle.
+  There are 17 pending amendments to the substitute and more than 80 
+additional amendments filed at the desk. We need to start disposing of 
+them in an expedited fashion if we are to move on to passage of the 
+bill next week. I look forward to working with the majority leader 
+toward that end.
+
+                          ____________________
+
+
+
+                       RESERVATION OF LEADER TIME
+
+  The ACTING PRESIDENT pro tempore. Under the previous order, the 
+leadership time is reserved.
+
+                          ____________________
+
+
+
+                     FAIR MINIMUM WAGE ACT OF 2007
+
+  The ACTING PRESIDENT pro tempore. Under the previous order, the 
+Senate will resume consideration of H.R. 2, which the clerk will 
+report.
+  The legislative clerk read as follows:
+
+       A bill (H.R. 2) to amend the Fair Labor Standards Act of 
+     1938 to provide for an increase in the Federal minimum wage.
+  Pending:
+
+       Reid (for Baucus) amendment No. 100, in the nature of a 
+     substitute.
+       McConnell (for Gregg) amendment No. 101 (to amendment No. 
+     100), to provide Congress a second look at wasteful spending 
+     by establishing enhanced rescission authority under fast-
+     track procedures.
+       Kyl amendment No. 115 (to amendment No. 100), to extend 
+     through December 31, 2008, the depreciation treatment of 
+     leasehold, restaurant, and retail space improvements.
+       Bunning amendment No. 119 (to amendment No. 100), to amend 
+     the Internal Revenue Code of 1986 to repeal the 1993 income 
+     tax increase on Social Security benefits.
+       Enzi (for Ensign/Inhofe) amendment No. 152 (to amendment 
+     No. 100), to reduce document fraud, prevent identity theft, 
+     and preserve the integrity of the Social Security system.
+       Enzi (for Ensign) amendment No. 153 (to amendment No. 100), 
+     to preserve and protect Social Security benefits of American 
+     workers, including those making minimum wage, and to help 
+     ensure greater Congressional oversight of the Social Security 
+     system by requiring that both Houses of Congress approve a 
+     totalization agreement before the agreement, giving foreign 
+     workers Social Security benefits, can go into effect.
+       Enzi (for Ensign) amendment No. 154 (to amendment No. 100), 
+     to improve access to affordable health care.
+       Smith amendment No. 113 (to amendment No. 100), to make 
+     permanent certain education-related tax incentives.
+       Vitter/Voinovich amendment No. 110 (to amendment No. 100), 
+     to amend title 44 of the United States Code, to provide for 
+     the suspension of fines under certain circumstances for 
+     first-time paperwork violations by small business concerns.
+       DeMint amendment No. 155 (to amendment No. 100), to amend 
+     the Public Health Service Act to provide for cooperative 
+     governing of individual health insurance coverage offered in 
+     interstate commerce, and to amend the Internal Revenue Code 
+     of 1986 regarding the disposition of unused health benefits 
+     in cafeteria plans and flexible spending arrangements and the 
+     use of health savings accounts for the payment of health 
+     insurance premiums for high deductible health plans purchased 
+     in the individual market.
+       DeMint amendment No. 156 (to amendment No. 100), to amend 
+     the Internal Revenue Code of 1986 regarding the disposition 
+     of unused health benefits in cafeteria plans and flexible 
+     spending arrangements.
+       DeMint amendment No. 157 (to amendment No. 100), to 
+     increase the Federal minimum wage by an amount that is based 
+     on applicable State minimum wages.
+       DeMint amendment No. 158 (to the language proposed to be 
+     stricken by amendment
+
+[[Page 2334]]
+
+     No. 100), to increase the Federal minimum wage by an amount 
+     that is based on applicable State minimum wages.
+       DeMint amendment No. 159 (to amendment No. 100), to protect 
+     individuals from having their money involuntarily collected 
+     and used for lobbying by a labor organization.
+       DeMint amendment No. 160 (to amendment No. 100), to amend 
+     the Internal Revenue Code of 1986 to allow certain small 
+     businesses to defer payment of tax.
+       DeMint amendment No. 161 (to amendment No. 100), to 
+     prohibit the use of flexible schedules by Federal employees 
+     unless such flexible schedule benefits are made available to 
+     private sector employees not later than 1 year after the date 
+     of enactment of the Fair Minimum Wage Act of 2007.
+       DeMint amendment No. 162 (to amendment No. 100), to amend 
+     the Fair Labor Standards Act of 1938 regarding the minimum 
+     wage.
+       Kennedy (for Kerry) amendment No. 128 (to amendment No. 
+     100), to direct the Administrator of the Small Business 
+     Administration to establish a pilot program to provide 
+     regulatory compliance assistance to small business concerns.
+
+
+                           Amendment No. 158
+
+  The ACTING PRESIDENT pro tempore. Under the previous order, there 
+will be a 1-hour time limit for debate prior to a vote in relation to 
+amendment No. 158, with the time equally divided between the Senator 
+from Massachusetts, Mr. Kennedy, and the Senator from South Carolina, 
+Mr. DeMint.
+  Who yields time?
+  Mr. KENNEDY. Mr. President, I suggest the absence of a quorum and ask 
+unanimous consent that the time be charged equally to both sides.
+  The ACTING PRESIDENT pro tempore. Without objection, it is so 
+ordered.
+  The clerk will call the roll.
+  The legislative clerk proceeded to call the roll.
+  Mr. DeMINT. Mr. President, I ask unanimous consent that the order for 
+the quorum call be rescinded.
+  The ACTING PRESIDENT pro tempore. Without objection, it is so 
+ordered.
+  Mr. ENZI. Mr. President, I yield to the Senator from South Carolina 
+such time as he might consume.
+  The ACTING PRESIDENT pro tempore. The Senator from South Carolina 
+controls the time.
+  Mr. DeMINT. I thank the Chair.
+  Well, here we are again. A couple of weeks ago, we were here in the 
+Senate Chamber talking about the need to have full disclosure of 
+earmarks--pet projects that are added into bills, only to find that the 
+underlying bill only disclosed about 5 percent of all the earmarks. 
+After a lot of procedural maneuvering and give-and-take, fortunately, 
+Republicans and Democrats came together and realized that if we are 
+going to do this--tell the American people we are going to disclose 
+earmarks--then we should do it, and we should do it for all earmarks, 
+and we should be open and honest about what we do. Fortunately, we 
+fixed that problem. But here we are again today.
+  Now we are talking about raising the minimum wage for American 
+workers. We have had passionate pleas, which are warranted. There are 
+too many people in this country who don't make a livable wage. We, as 
+Senators, Congressmen, and as Americans, should do everything we can to 
+help people earn a livable wage and better.
+  There have been a lot of passionate speeches on the floor about, What 
+do we do with a single mom with two kids working at the minimum wage? 
+How can they possibly get by? It is true. It is very true. But as we 
+look at this minimum wage bill and as we look out on America and 
+promise to give every minimum wage worker a raise, we find that, if you 
+really look at the bill, less than half of the workers who are working 
+at the minimum wage will receive a $2.10 increase. Many will receive 
+nothing at all. So the amendment I have introduced is one that would 
+give 100 percent of Americans working at the minimum wage a raise 
+because that is, in effect, what we are promising as we debate on the 
+floor. This amendment is called minimum fairness for workers. That is 
+what it is all about. The idea is that every American working at 
+minimum wage will receive a $2.10 increase as we have promised.
+  It is important to realize that America is very diverse and 
+different. States have very different costs of living. As we look 
+across the country, there are many States that have a much higher than 
+average cost of living, and some have a much lower cost of living. 
+Actually, more than half of the States in this country--29--have passed 
+a minimum wage that is higher than the $5.15 national Federal minimum 
+wage.
+  We see, if you look at Massachusetts, for instance--the State of 
+Senator Kennedy, who has been a great defender of the minimum wage and 
+the average worker, which I commend him on--it is one of the higher 
+cost of living States in this country. They have raised their minimum 
+wage to $7.50. I think we would all agree that a single mom with two 
+children living in Boston, MA, making $7.50 an hour is not making a 
+livable wage. The fact is, that same family living in South Carolina 
+and making $5.15 an hour is doing better than those who are making 
+$7.50 in Massachusetts because of the cost of living. Many of the 
+Southern States have a lower average cost of living--cost of an 
+apartment, cost of food, and cost of transportation and taxes; it is 
+much lower. So many States across the country have looked at their cost 
+of living and have raised their minimum wage higher than the national 
+average because of that cost of living.
+  As we look at raising the national minimum wage again--and we know it 
+has been years since we have done that--we need to realize that the 
+cost of living across this country is different. I commend States such 
+as Massachusetts that have recognized that and passed a minimum wage 
+that is higher than the national average. But it is not fair and it is 
+not honest for us to have a national minimum wage debate and leave more 
+than half of the minimum wage workers out of this whole promise of a 
+wage increase. It is important for us to look across the country and 
+see what this minimum wage bill will do if we don't adopt the amendment 
+I am talking about. All of the States here on the chart in blue are 
+States where the minimum wage workers will receive less than a one-
+dime--10 cents--increase if we pass this bill. Most of them will 
+receive nothing at all--after all of the promises. These are some of 
+the highest cost of living States in the country.
+  My distinguished colleague from Massachusetts talked about the 
+importance of raising the minimum wage. I know he would agree that 
+someone making $7.50 an hour in Boston, MA, is not making a livable 
+wage. If we are going to promise to help these people, the people 
+working in Massachusetts deserve a raise as much as the people working 
+in South Carolina. But under this bill, the minimum wage worker in 
+Massachusetts will receive no increase; Vermont will receive no 
+increase; Connecticut, Rhode Island, Washington State, Oregon, and 
+California will receive no increase at all. Illinois will receive a 
+dime. Yet with all this big national debate and hoopla, which has 
+become symbolic of trying to help low-income Americans make more money, 
+we know as a body that only a fraction of 1 percent of Americans 
+working at the minimum wage will get it.
+  Yet we are trying to tell them this bill is going to raise their 
+standard of living, and we know that less than half of the minimum wage 
+workers in this country are going to receive a $2.10 increase. This 
+amendment is about 100 percent, just as we did 100 percent of earmarks. 
+We got together, we realized the underlying bill didn't work, and we 
+did the right thing.
+  I think there are much better ways to help people earn a livable wage 
+than mandating that they get an increase. But if we are going to do it, 
+let's do it right and let's be fair to all Americans. If we promise an 
+increase for minimum wage workers, let's give every American working at 
+the minimum wage a $2.10 increase so that a person working in 
+Massachusetts with a higher cost of living would get a raise, just as 
+in Louisiana or Alabama or South Carolina. Every minimum wage worker 
+across this land would have a $2.10 increase.
+  I don't think that is too much to ask. If the Senate is going to 
+spend 2 weeks talking about it, if we are going to have these 
+impassioned pleas to help minimum wage workers, how can we leave half 
+of minimum wage workers out of this whole process and pretend to be 
+helping everyone? It doesn't
+
+[[Page 2335]]
+
+make sense. This is about 100 percent. It is about fairness. It is 
+about looking at these cameras in this Chamber and telling people the 
+truth.
+  If we are going to pass a minimum wage, if we think we are doing the 
+right thing by mandating that we raise the minimum wage above where it 
+is across this land, then let's have it apply to 50 States, 100 percent 
+of our workers. That is the only fair and honest way.
+  Again, I commend the States that have had the good judgment and the 
+wisdom to recognize that their cost of living is higher, but if we 
+don't include them here, then we have done an injustice to their 
+workers.
+  I encourage all of my colleagues to look at this amendment. This is 
+not a trick. It is clear and simple. Every minimum wage worker in 
+America will get a $2.10 increase if we adopt this amendment and then 
+pass this final bill.
+  I will make a commitment to the Senator from Massachusetts and to 
+others here that while I have not supported this idea of mandating a 
+minimum wage as the best way to improve and increase salaries, if we 
+are fair, if we adopt this amendment, I will vote for the final bill 
+for raising the minimum wage because it will be fair to all Americans, 
+and I will encourage my colleagues who have not supported it in the 
+past to be together as a Senate.
+  Let's not come out and make an impassioned plea to raise the minimum 
+wage in one State but not another. That doesn't make sense, and it is 
+not fair and it is not open. It is about 100 percent, and I encourage 
+100 percent of my colleagues to look at this amendment, do the right 
+thing, and include every minimum wage worker.
+  I yield back my time to the Senator from Wyoming.
+  The ACTING PRESIDENT pro tempore. Who yields time?
+  The Senator from Massachusetts.
+  Mr. KENNEDY. Mr. President, I yield myself such time as I might use.
+  This is the fourth day that the Senate is addressing an issue of 
+enormous importance to those on the lower end of the economic ladder--
+an increase in the minimum wage from $5.15 to $7.25. It is not a 
+complicated issue. Everybody in this body knows what the issues are. 
+Usually, we have great debates about complicated issues in the United 
+States of America. Soon we will be debating varied policies with regard 
+to Iraq, as we should. But this issue is a simple issue. It is an issue 
+of simple justice. It is as old as many of us in this body. Minimum 
+wage was advanced more than 70 years ago. We have increased it now nine 
+times over recent years, and yet Republicans want to continue to delay, 
+delay, delay, delay, delay, delay, delay; oppose, oppose, oppose.
+  There was opposition yesterday in insisting that we get cloture in 
+the Senate on an increase in the minimum wage, requiring that we get 60 
+votes before we can vote up or down on a simple, easy issue and 
+question of fundamental fairness to workers in this country.
+  We are glad to have debates, but the message ought to go out to the 
+American people exactly what is going on here on day 5 in the Senate on 
+the issue of minimum wage. And we continue to have, as the minority 
+leader said, scores--40, 50, more amendments, 90 amendments--on the 
+issue of the increase in the minimum wage--90 amendments. Make no 
+mistake about it, America, who is holding up the increase in the 
+minimum wage.
+  Eight times the Senate has increased its own salary, increased the 
+salary of the good Senator from South Carolina $32,000 in the last 10 
+years--$32,000. And if we have had 1 hour of debate on that issue--1 
+hour of debate on that issue, 1 hour of debate on that issue--I would 
+be surprised. This is the fifth day our Republican friends who, as 
+Members on the Democratic side, have enjoyed a $32,000 increase in 
+their pay have 90 amendments to try and scuttle an increase in the 
+minimum wage for low-income workers--trying to scuttle, to sink the 
+increase.
+  These workers understand it. Workers across this country understand 
+it. Working families understand it. Middle-income people understand it. 
+All Americans understand it. This is one of those basic and fundamental 
+issues people understand because it is an issue of fairness.
+  I don't impugn the motives of my friend from South Carolina, but he 
+has opposed the minimum wage on every single occasion he has addressed 
+it--every single occasion. We have the record here as to how the good 
+Senator has voted every time on the issue of an increase in the minimum 
+wage: going back to the House of Representatives in 2002, 2005, and 
+over here on seven different occasions he has voted against the 
+increase in the minimum wage. So the idea that he wants to provide 
+$2.10 more to every worker in States that have raised--under the age-
+old law of the minimum wage--their minimum wage because of the failure 
+of the Senate to do it has a sort of hollow ring to it. It has sort of 
+a hollow ring to it since he has opposed an increase in the minimum 
+wage on each and every occasion we have considered it. We have to take 
+a look at exactly what is being done.
+  I assure my friend from South Carolina that the workers in my State 
+understand the battle they have had to increase the minimum wage. And I 
+daresay, in the various States across the country that have increased 
+their minimum wage, they have understood that, too. The legislators 
+have gone out and worked, and workers understand what they have done. 
+They have understood what they have done. They have understood that the 
+minimum wage is a basic standard which is supposed to be the lowest 
+living wage. It is supposed to be the lowest living wage. Historically, 
+it is supposed to be half of what the average wage is in the country. 
+That goes back to the time beginning of the minimum wage and the record 
+shows that all the way up to probably the 1980s, and then it has 
+dropped precipitously, half of what it was.
+  Going back to the 1930s, the minimum wage was designed to be a floor. 
+If States want to add something to it, they can, but it ought to be a 
+floor for all workers in this country. One of the principal reasons it 
+was passed at that time is because the Members of this body, the House 
+of Representatives, and the President of the United States saw what was 
+happening in different parts of the country where States were lowering 
+their wages to try and attract industries and companies in a rush to 
+the bottom, with the exploitation of worker after worker, family after 
+family, in a rush to the bottom. So the national decision was taken, in 
+terms of fairness and as a moral issue, that workers who were going to 
+work hard were going to receive a minimum wage.
+  One of the age-old values in our country, in society, is that work 
+ought to pay. We hear that stated around here with great ease and 
+frequency, and that is what we are trying to do with a minimum wage 
+increase. We are trying to make work pay, pay people who are doing some 
+of the most difficult work in America, and demonstrate a respect for 
+that work, give them pay because they are doing hard, difficult work, 
+but we respect our fellow Americans and respect their efforts.
+  This is not the law of the jungle. The economy of the United States 
+of America isn't survival of the fittest. Some would like to have it 
+that way. Some who oppose the minimum wage would like to have it that 
+way, but it isn't that way, thank God, in the United States of America. 
+It is in the jungle, but not with regard to a democracy and a free 
+economy.
+  Let me state specifically what this proposal does. The good Senator 
+yesterday voted to permit any State to effectively opt out of any kind 
+of minimum wage. So that would have fundamentally destroyed any kind of 
+uniformity across the country.
+  His proposal is, in the wake of the Senate and Congress over 10 years 
+under Republican leadership refusing to increase the minimum wage, the 
+States in their own good judgments have done so, and now he says let's 
+add on $2.10 to do that. It does seem to me appealing in a certain 
+respect, because I believe the minimum wage is not a livable wage in 
+many parts of the country. We have seen these livable wage campaigns 
+that are taking place in
+
+[[Page 2336]]
+
+Baltimore, Los Angeles--many cities around the country--my own city of 
+Boston, and they have raised it in a particular region, and it has had 
+great success.
+  But that isn't the issue. This particular amendment of the Senator 
+would basically do what was attempted yesterday, but do it in a 
+different way. Yesterday was to effectively end the minimum wage by 
+letting any State opt out. Today the swing of the pendulum has gone the 
+other way. The amendment says we are going to add additional funds on 
+to any State. Every State over these past years has noted the failure 
+of the Senate as a result of Republican leadership because we have had 
+a majority read back the records of the votes in the Senate. We had a 
+majority in the Senate with good Republican support to raise the 
+minimum wage, but we couldn't get to the 60 votes, and our Republican 
+leadership wouldn't let us. So the States moved ahead. Now that the 
+States have moved ahead, the Senator wants to say: Oh, you have moved 
+ahead because you made a judgment about the respect for your own 
+workers, and we are going to add on to it to try to disrupt the minimum 
+wage.
+  I hope this amendment will not be accepted, and I hope we will be 
+able to move along and make further progress on this issue.
+  I reserve the remainder of my time.
+  The ACTING PRESIDENT pro tempore. Who yields time?
+  Mr. ENZI. Mr. President, could I ask what the time situation is?
+  The ACTING PRESIDENT pro tempore. The Senator from South Carolina has 
+18 minutes 40 seconds. The Senator from Massachusetts has 17 minutes 35 
+seconds.
+  Mr. ENZI. Mr. President, I ask to have the Senator from South 
+Carolina yield me 8 minutes.
+  Mr. DeMINT. Yes.
+  The ACTING PRESIDENT pro tempore. The Senator from Wyoming is 
+recognized.
+  Mr. ENZI. I need to address a few of the things that were said. ``We 
+are on the fifth day of this debate.'' Yes, we are. ``It's a simple 
+bill.'' No, it is not a simple bill. It is simple in the one proposal 
+that is out there, but it has a lot of interlocking implications. We 
+had some debate yesterday, separate from an amendment on tip credits. 
+We talked about work opportunity tax credits. We talked about earned-
+income tax credits. All of those tie in with the minimum wage, so it 
+has a lot of implications.
+  It has a lot of implications for small businesses, too. I showed some 
+quotes from a lady who would lose hours, another from someone who would 
+lose their job. They were all in situations where they can't afford to 
+do that. There have been charts showing that on the aggregate it helps 
+the whole economy to raise the minimum wage. But on an individual basis 
+it affects people individually. Small business employees understand. 
+They are really connected to their business. They know how much the 
+employer is making. They know what the markup is on things. And they 
+know whether their job is in danger or not, so there is that concern.
+  But I want to clear up something. There has not been an argument 
+against raising the minimum wage. The argument has been for doing 
+something to help counter the impact on small business. We have been 
+acting in a bipartisan way on some things; we can act in a bipartisan 
+way on this. I contend that as soon as there is some assurance to the 
+minority that there will be some tax offsets for the small businesses, 
+this process will speed up dramatically. But until there is that 
+assurance we will be using our opportunities, the process, to make sure 
+we can take care of small business at the same time and not put them 
+out of business.
+  There has been some cooperation, at least through the press. I would 
+mention that Senator Reid said:
+
+       If it takes adding small-business tax cuts to have a 
+     minimum wage tax increase, we're going to do that. Maybe we 
+     can get 60 votes to invoke cloture on a straight minimum 
+     wage. I'm not sure we want to do that. . . . A one-party town 
+     doesn't work. We have a majority of 51-49. We're going to 
+     accomplish the possible; that's what we're going to do.
+
+  That was on January 5 at a press conference. I have some other quotes 
+from him, too, but Senator Baucus said:
+
+       Small business is the engine that drives our economy and 
+     creates jobs on Main Street. That's why I'm proud we are 
+     getting them some tax relief from Uncle Sam. . . . It's high 
+     time our workers get a raise. At the same time we are going 
+     to give a boost to small business.
+
+  That was a January 17 press release.
+  Senator Kerry:
+
+       I support the majority of the provisions of the Small 
+     Business and Work Opportunity Act of 2007. I would have 
+     preferred that this package moved separately rather than in 
+     tandem with a minimum wage bill. However, the reality is we 
+     need a tax package in order to advance minimum wage 
+     legislation.
+
+  That is from a January 2007 committee report, Small Business and Work 
+Opportunity Act of 2007.
+  I have a whole lot of quotes from the other side of the aisle that 
+have encouraged me that we can do both things--raise the minimum wage 
+and have some offsets for small business.
+  I have talked to the Senator from Massachusetts about this before. I 
+understand his desire to have just the minimum wage increase and his 
+concern that any other discussion takes away from that. I suggested 
+that it wouldn't take away from it if it were a whole package to begin 
+with; that it would be a minimum wage increase and our concerns about 
+having some tax breaks for the small businesses would overcome that. 
+But we have not gone that route yet.
+  The debate we had yesterday, the cloture vote we had yesterday, would 
+have excluded the possibility of doing the tax breaks. I have to tell 
+you, to get those tax breaks to offset the impact on small business has 
+a long road to go because the House didn't pass any of those. In fact, 
+the House has made some very detrimental comments about it. There is a 
+process over here that enforces the rights of the minority and can 
+provide some protection for the small businesses, the mom-and-pops out 
+there trying to make enough living for their own families and provide 
+for some workers that we can take care of at the same time. But it is 
+going to take some showing that there is some dual concern, both for 
+the employee and for the mom-and-pop businesses, before we move along 
+much faster.
+  That is what the debate is about. It is not about whether to raise 
+the minimum wage. The minimum wage will be raised. I hope there are a 
+whole lot of other things that will be done in the process, too, 
+because we need to move these people to more skilled jobs, and we need 
+to get a Workforce Investment Act through, too, and I would have liked 
+to see this be part of this same bill, too, so we could increase the 
+skills of the employees and get them into better jobs. We don't want to 
+just remove the bottom rung of the ladder and have them have to make a 
+bigger step to get a job to begin with. We want them to have better 
+jobs. Better jobs do not hit the inflationary core quite as much.
+  I want to be sure people understand we are not talking about whether 
+to do a minimum wage, we are talking about whether to do a minimum wage 
+increase and offset some of the impact for small businesses.
+  I yield the floor and reserve the remainder of the time.
+  The PRESIDING OFFICER (Ms. Klobuchar). The Senator from South 
+Carolina is recognized.
+  Mr. DeMINT. Madam President, this is a good debate and I think it is 
+an important debate. I appreciate the points of Senator Kennedy. Many 
+of them I agree with, but it is my hope that those same points will 
+apply to the many States, such as Massachusetts and Washington State 
+and California and many other States so that those people working at 
+the minimum wage in those States will receive a minimum wage, too.
+  I appreciate the fact that he has recognized that States such as 
+Massachusetts did respond to the higher cost of living that their 
+workers face by passing their own minimum wage. I think if we look 
+across the country we will see that, again, 29 States have taken that 
+action because it does cost more
+
+[[Page 2337]]
+
+to live there. He points out that in the past I have not supported the 
+increase in the minimum wage. It is not completely true, but many times 
+I have not supported it because it has not been fair. It does not apply 
+to all American workers.
+  As the Senator from Wyoming just pointed out, if these bills that 
+mandate wage increases do not include some provisions that help small 
+businesses stay profitable, then they cannot hire these minimum wage 
+workers. Many times they are teenagers. Many times they are trainees. 
+We want to encourage every small business in this country to bring in 
+as many workers as it can to train them and develop them because all 
+the statistics tell us that folks who start at the minimum wage are 
+generally only making it a few months before they prove that they can 
+do the work and move on. It is a way to get a lot of people into the 
+workforce.
+  I think it is important to point out, as the Senator said I never 
+supported a minimum wage, that I did, in fact, last year. The Family 
+Prosperity Act was a package, a compromise package that raised the 
+minimum wage just as we are talking about now, although it did not do 
+it for every American. It eliminated the death tax, which adversely 
+affects so many small businesses in the event of the death of an owner, 
+whether it is a farm or small business. Many low-wage workers lose 
+their jobs in the process of those businesses or farms closing. We 
+packaged those together so we could do both: we could help the worker, 
+but we could also make sure these small businesses continue to survive 
+so they can hire those workers. There were other tax provisions in the 
+Family Prosperity Act, but it was a good bill.
+  This bill was not blocked by Republicans. It was proposed by 
+Republicans and blocked by Democrats. It was a sad time when we saw in 
+order to score political points that we turned our backs on workers in 
+order to avoid giving small businesses the provision on the death tax 
+that would allow families to continue to operate businesses.
+  I would like to summarize my amendment so it is not misrepresented. 
+It is not a trick. We are talking on the floor of the Senate about 
+giving minimum wage workers a raise of $2.10. States have already 
+passed minimum wage laws, and some of them are different. In most cases 
+it is because of the higher cost of living.
+  If we come in and raise the minimum wage from $5.15 to $7.25 in a 
+number of States, South Carolina and Massachusetts will have 
+essentially the same minimum wage--maybe a quarter difference. But a 
+minimum wage worker living in Boston, MA, faces tremendously higher 
+costs than a minimum wage worker who lives and works in Greenville, SC. 
+If we are going to be fair, and if we are going to make all these 
+speeches on the floor of the Senate that we are going to help minimum 
+wage workers, it does not make sense to leave out over half of the 
+minimum wage workers in this country and go home and pretend that we 
+have done something good.
+  I have told the Senator that while I have opposed the strategies of 
+wage mandates in the past, that if we are fair, if this bill includes 
+100 percent of minimum wage workers, I will not only support it, the 
+final bill, I will encourage my colleagues to support it because it is 
+the right thing to do. I believe if we were all speaking openly and 
+honestly, we could say that even $7.50 an hour in Boston, MA, is not a 
+liveable wage. If you took that up to $9.60, hopefully, we are getting 
+at the point where people can survive. But $9.60 in Boston, MA, is no 
+more money than $7.25 in South Carolina.
+  Let's be fair to workers. Let's use what has already been started by 
+the States, and that is recognizing cost of living to help every 
+American worker.
+  Again, this is just about simple fairness, as the Senator from 
+Massachusetts has said. If we are going to promise an increase of $2.10 
+to minimum wage workers, let's do it for 100 percent of the workers in 
+every State of our Union. Let's give them that increase today.
+  I encourage my colleagues to not look at the past. If we can support 
+fairness together, let's all vote together to give every American 
+minimum wage worker a $2.10 increase. That is my amendment. I encourage 
+my colleagues to support it.
+  I yield and reserve the remainder of my time.
+  The PRESIDING OFFICER. The Senator from Massachusetts is recognized.
+  Mr. KENNEDY. Madam President, I thank the good Senator for his 
+concern about the workers in Massachusetts. In Boston we have a living 
+wage of $11.95. We made that judgment in Boston, and it is working very 
+well.
+  I take note, in this American Chamber of Commerce Researchers 
+Association publication, that South Carolina ranks 18th in terms of the 
+cost of living. There are 17 other States that have a lower cost of 
+living. But South Carolina is 18th in this list. It is not at the 
+lowest; it is 18th.
+  The fact is, it is not greatly out of sync. It is close to the 
+average across the country. But let's get back to the effect of the 
+Senator's amendment.
+  In Arizona, in this last election, there were 756,144 people who 
+voted for an increase in the minimum wage to $6.75. That vote would be 
+overturned, effectively, by the Senator from South Carolina. In 
+Colorado, 725,700 turned out for a $6.85 minimum wage. The citizens of 
+Colorado--their votes would be overturned. In Missouri, 1,583,340 
+million voted for $6.50. That vote would be overturned. Montana, $6.15, 
+283,258 turned out. Nevada, 394,058 turned out, $6.15 an hour. Ohio, 
+$6.85, 2,080,648 turned out. Those are 5,823,148 in six different 
+States. That is in regard to the initial referendum. All of that would 
+be overturned by the Senator from South Carolina.
+  So I come back to the basic concept, and that is that we have 
+established some minimum standards. There are a lot of objections to 
+those minimum health standards, so workers are not going to be--since 
+we passed OSHA in 1970, we have cut in half the number of workers who 
+have been killed in the workplace. We have cut that in half. About 60 
+percent less workers have been killed. There are other kinds of 
+illnesses that have come up with changes in our economy, but a decision 
+in judgment was made that we are not going to have the exploitation of 
+workers. We are going to have safe workplaces. We don't permit the 
+exploitation of children in our factories. We think they ought to be in 
+schools. Some economists think: Oh, let's have children in there. Let's 
+work those children and see what the market does. Let's let those 
+workers go in and work in those dangerous places. If the market, if it 
+is going to be that disruptive in terms of the employer, let's go ahead 
+and do that.
+  Well, we had decided at another time that we were not going to permit 
+the exploitation of children or women in the workplace, and we were 
+also going to insist on health and safety regulations and we were going 
+to establish a basic floor, a basic floor, a minimum. It is not high 
+enough even at $7.25, I don't believe myself, but that is the judgment 
+that has been basically made by the Congress, by our side, the 
+Democrats, and by a handful of Republicans, and we wish to see that 
+raised. We wish to see that raised.
+  I suppose you could take the good Senator's argument and logic and 
+say: Well, we have increased our salaries $32,000, and they have a 
+different cost of living, so maybe South Carolina ought to get less, if 
+we want to follow that logic. We say: No, we are one country with one 
+history and one destiny, and we are going--obviously, Members of 
+Congress and Members of the Senate are going to be treated as they 
+should be, and that is fairly, for the work they do.
+  We say workers ought to be treated fairly for the work they do. 
+Minimum standard. This amendment does injustice to that.
+  I would mention there is obviously a disparity in the cost of living. 
+I have mentioned what the Energy Information Administration says a 
+worker across the country pays, on average, for gasoline, and that is 
+$2.17 a gallon. In South Carolina, it is $2.13 a gallon. It is 3 cents 
+more in my State of Massachusetts. I was going to get the basic
+
+[[Page 2338]]
+
+indicators. Health care, the average cost for a family is going to be 
+$11,000. Try and do that on $5.15 an hour--$11,000. It is probably a 
+little more, closer to $12,000 in Massachusetts--but $11,000 for a 
+family of four. Try and do that on $5.15. We have the housing charts up 
+here. I would think that even $5.15 or $7.25 an hour for people who 
+work hard in South Carolina, they are going to have a tight belt strap 
+in providing for their children, providing for their food, and 
+providing for their general well-being.
+  But this does a major alteration and change to a very fundamental 
+concept to what the minimum wage is all about, and I hope the Senator's 
+amendment will not be successful and that our colleagues will vote no.
+  Madam President, how much time remains?
+  The PRESIDING OFFICER. There is 11 minutes 10 seconds for the Senator 
+from Massachusetts.
+  Mr. KENNEDY. We have 11 minutes 10 seconds. Well, I suggest the 
+absence of a quorum.
+  The PRESIDING OFFICER. Does the Senator withhold the quorum call?
+  Mr. KENNEDY. Yes, I withhold.
+  The PRESIDING OFFICER. The Senator from South Carolina is recognized.
+  Mr. DeMINT. How much time do I have?
+  The PRESIDING OFFICER. There is 7 minutes 6 seconds.
+  Mr. DeMINT. Thank you.
+  Again, I thank the Senator for his good debate. I appreciate this 
+opportunity. I think if we listen to what each other is saying--I 
+appreciate the Senator's concern for South Carolina workers and I hope 
+he appreciates my concern for Massachusetts. As Senator Kennedy has 
+said, you set the livable wage in Massachusetts at over $11, so $7.50 
+an hour for the minimum wage is certainly not acceptable. I do not 
+think anyone would argue that that is enough, and we need to do better. 
+I would hope no Member of the Senate would be concerned that a worker 
+mandating over $7.50 is a problem, and particularly in high cost of 
+living States.
+  There are a number of things that have been said we need to think 
+about because we put up that my amendment would cause States which have 
+already passed their minimum wage to have to pay more. In fact, this 
+underlying bill is going to do that to many States. There are many 
+States in this country which have passed their own minimum wage that is 
+over $5.15 but is under the current mandate in this bill. So when we 
+pass it, we are going to override the legislatures and the people in 
+many States. That is part of this whole argument.
+  Now, in this day and time, with the varying costs of living across 
+this country and 29 States already passing their own minimum wage, does 
+it continue to make sense for us to establish a one-size-fits-all 
+minimum wage for this whole country? I think not. But I do think if we 
+are going to stand on the floor of the Senate and argue on behalf of 
+the American worker, the minimum wage worker in this country, and 
+promise to raise that minimum wage, then we should do it fairly and 
+equitably across this country.
+  Again, I encourage my colleagues to realize what this bill does is 
+override States. That is the whole idea of the Federal minimum wage, to 
+say we do not believe States will do the right thing, so we are going 
+to. But if we are going to do the right thing, let's make it 100 
+percent. Let's not make another false promise to the American people. 
+If we are going to raise the minimum wage $2.10, let's do it across the 
+entire country.
+  So again, I appeal to my colleagues. If we are going to do it, let's 
+do it right, let's do it fairly, and let's meet this promise to every 
+American minimum wage worker.
+  Madam President, I yield the floor, and I suggest the absence of a 
+quorum.
+  The PRESIDING OFFICER. Without objection, it is so ordered. The clerk 
+will call the roll.
+  The bill clerk proceeded to call the roll.
+  Mr. KENNEDY. Madam President, I ask unanimous consent that the order 
+for the quorum call be rescinded.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. KENNEDY. Madam President, how much time do I have left?
+  The PRESIDING OFFICER. The Senator has 11 minutes 3 seconds.
+  Mr. KENNEDY. Madam President, I think we had notified Members we 
+would try and vote at half past, and I will certainly follow that 
+guidance. I would say, as we wind up this debate on this particular 
+amendment, the underlying legislation provides for an increase in the 
+minimum wage from $5.15 to $7.25. It is well understood by all of the 
+Members. We are taking a good deal of time for those who differ with 
+that as a concept. We have had those who have opposed it, who tried to 
+circumvent it, to come up with ways to avoid it, and we are glad to 
+deal with those issues. But nonetheless, this is an amendment now by my 
+friend from South Carolina that would effectively undermine a very 
+important concept that has been the basis of the minimum wage for over 
+70 years and that is to establish a basic floor across this country, a 
+basic floor for minimum wage, permitting States to raise--if they want 
+to increase their wages, they can do that. If cities want to increase 
+their wages, they can do that, such as my city of Boston, such as the 
+District of Columbia, such as Baltimore, and such as other cities have 
+done, and they have had very remarkable success in terms of the 
+reduction of absenteeism, the continuation of workers remaining in 
+employment, increasing productivity, and the rest. But that is a 
+different issue for a different time.
+  The Senator from South Carolina's amendment, in effect, says we will 
+take this $2.10, which will be the value of the increase in the minimum 
+wage, and add that to every State across the country. That is an 
+entirely different concept. I, myself, find that certain parts of this 
+are attractive to think that we do need to raise the minimum wage 
+beyond the $7.25, but that is not the debate today. That is not the 
+debate. That is not the issue. The basic issue is whether we are going 
+to violate the very fundamental understanding we have, with regard to 
+this issue at this time in this body now, and that is that we are going 
+to pass a floor in this country applicable to all the States and raise 
+it from $5.15 an hour to $7.25. That is the issue. The amendment of the 
+Senator from South Carolina, however well-intentioned, does serious 
+injury, disruption, and violence to that very basic and fundamental 
+concept. I hope it will not be accepted in the Senate.
+  We are approaching the time of 10:30, and we are very hopeful we will 
+have a vote in relation to the amendment of the Senator from South 
+Carolina in the next couple of moments.
+  Madam President, I am prepared to yield back my time.
+  Mr. DeMINT. I yield back my time.
+  The PRESIDING OFFICER. All time is yielded back.
+  Mr. KENNEDY. I raise a point of order that the pending amendment 
+violates section 425 of the Congressional Budget Act of 1974.
+  Mr. DeMINT. Madam President, I move to waive the applicable section 
+of the Budget Act.
+  Mr. KENNEDY. I ask the yeas and nays.
+  The PRESIDING OFFICER. Is there a sufficient second?
+  There is a sufficient second.
+  The question is on agreeing to the motion.
+  The clerk will call the roll.
+  The bill clerk called the roll.
+  Mr. DURBIN. I announce that the Senator from Washington (Ms. 
+Cantwell), the Senator from Hawaii (Mr. Inouye), and the Senator from 
+South Dakota (Mr. Johnson) are necessarily absent.
+  Mr. LOTT. The following Senators were necessarily absent: the Senator 
+from Missouri (Mr. Bond), the Senator from Alaska (Mr. Stevens), and 
+the Senator from Wyoming (Mr. Thomas).
+  The PRESIDING OFFICER. Are there any other Senators in the Chamber 
+desiring to vote?
+  The yeas and nays resulted--yeas 18, nays 76, as follows:
+
+[[Page 2339]]
+
+
+
+                      [Rollcall Vote No. 25 Leg.]
+
+                                YEAS--18
+
+     Allard
+     Bennett
+     Coburn
+     Cochran
+     Cornyn
+     Craig
+     Crapo
+     DeMint
+     Domenici
+     Ensign
+     Enzi
+     Graham
+     Hatch
+     Inhofe
+     Lott
+     McConnell
+     Roberts
+     Sessions
+
+                                NAYS--76
+
+     Akaka
+     Alexander
+     Baucus
+     Bayh
+     Biden
+     Bingaman
+     Boxer
+     Brown
+     Brownback
+     Bunning
+     Burr
+     Byrd
+     Cardin
+     Carper
+     Casey
+     Chambliss
+     Clinton
+     Coleman
+     Collins
+     Conrad
+     Corker
+     Dodd
+     Dole
+     Dorgan
+     Durbin
+     Feingold
+     Feinstein
+     Grassley
+     Gregg
+     Hagel
+     Harkin
+     Hutchison
+     Isakson
+     Kennedy
+     Kerry
+     Klobuchar
+     Kohl
+     Kyl
+     Landrieu
+     Lautenberg
+     Leahy
+     Levin
+     Lieberman
+     Lincoln
+     Lugar
+     Martinez
+     McCain
+     McCaskill
+     Menendez
+     Mikulski
+     Murkowski
+     Murray
+     Nelson (FL)
+     Nelson (NE)
+     Obama
+     Pryor
+     Reed
+     Reid
+     Rockefeller
+     Salazar
+     Sanders
+     Schumer
+     Shelby
+     Smith
+     Snowe
+     Specter
+     Stabenow
+     Sununu
+     Tester
+     Thune
+     Vitter
+     Voinovich
+     Warner
+     Webb
+     Whitehouse
+     Wyden
+
+                             NOT VOTING--6
+
+     Bond
+     Cantwell
+     Inouye
+     Johnson
+     Stevens
+     Thomas
+  The PRESIDING OFFICER. On this vote, the yeas are 18, the nays are 
+76. Three-fifths of the Senators duly chosen and sworn not having voted 
+in the affirmative, the motion is rejected. The point of order is 
+sustained, and the amendment falls.
+  The Senator from Massachusetts.
+  Mr. KENNEDY. Madam President, we have a good deal of business to do. 
+Since some of these issues relate to the Finance Committee, we are 
+working out with Senator Baucus and Senator Grassley their proposal and 
+schedule. There are several important amendments they are addressing 
+and working out. We expect to have action on those, if not in the very 
+late morning, in the early afternoon.
+  We had an amendment by Senator Sessions that we were looking forward 
+hopefully to at this time.
+  The PRESIDING OFFICER. The Senator from Wyoming.
+  Mr. ENZI. Madam President, I wish to compliment both sides on working 
+on amendments. We have not had any shortage of amendments being 
+offered. In fact, we have a whole bunch of people who would like to 
+offer amendments that have already been filed. So it is not the usual 
+problem of trying to get people to come down and offer amendments; it 
+is a problem of being able to get some agreements so we can have votes 
+on those amendments.
+  Both sides are working diligently to try to get it set up so we can 
+have a whole series of votes yet today and move along substantially on 
+this legislation. Of course, what we are kind of waiting for is to get 
+some assurance that there will be a small business tax package to 
+offset the impact of this before we get some progress.
+  But I yield the floor and suggest the absence of a quorum.
+  Mr. MARTINEZ addressed the Chair.
+  The PRESIDING OFFICER. Does the Senator withhold his suggestion of an 
+absence of a quorum?
+  Mr. ENZI. Yes.
+  The PRESIDING OFFICER. The Senator from Florida is recognized.
+
+
+                 Amendment No. 105 to Amendment No. 100
+
+  Mr. MARTINEZ. Madam President, I ask unanimous consent that the 
+pending amendment be set aside and I call up amendment No. 105 and ask 
+for its immediate consideration. I ask that if it does not run afoul of 
+what the bill managers were attempting to do at this time.
+  The PRESIDING OFFICER. Is there objection?
+  Without objection, it is so ordered.
+  The clerk will report.
+  The legislative clerk read as follows:
+
+       The Senator from Florida [Mr. Martinez] proposes an 
+     amendment numbered 105 to amendment No. 100.
+
+  Mr. MARTINEZ. Madam President, I ask unanimous consent that reading 
+of the amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+
+  (Purpose: To clarify the house parent exemption to certain wage and 
+                           hour requirements)
+
+       At the appropriate place, insert the following:
+
+     SEC. __. HOUSE PARENT EXCEPTION.
+
+       Section 13(b)(24) of the Fair Labor Standards Act of 1938 
+     (29 U.S.C. 212(b)(24)) is amended--
+       (1) in the matter preceding subparagraph (A), by striking 
+     ``and his spouse''; and
+       (2) in the matter following subparagraph (B)--
+       (A) by striking ``and his spouse reside'' and inserting 
+     ``resides'';
+       (B) by striking ``receive'' and inserting ``receives''; and
+       (C) by striking ``are together'' and inserting ``is''.
+
+  Mr. MARTINEZ. Madam President, I simply wished to call up this 
+amendment. I think it is a rather important amendment and is of great 
+interest to me personally. It is offered in order to assist charitable 
+organizations that look after children who are in need of foster care. 
+It is an attempt to not allow a raise in the minimum wage to work 
+against the opportunity for single individuals to continue to work with 
+these young children in ways that are helpful to them.
+  I have been urged to move this amendment by a number of not-for-
+profit groups in Florida that care for children, groups such as the 
+Children's Home Society. I think it is a rather important amendment, 
+and I look forward to its consideration as we go forward.
+  Madam President, I yield the floor and suggest the absence of a 
+quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The legislative clerk proceeded to call the roll.
+  Mr. CORNYN. Mr. President, I ask unanimous consent that the order for 
+the quorum call be rescinded.
+  The PRESIDING OFFICER (Mr. Brown). Without objection, it is so 
+ordered.
+  Mr. CORNYN. Mr. President, I rise to express my appreciation for my 
+colleagues' efforts to do what, in their view, would help promote a 
+better quality of life for the people of this great country. We are 
+here to debate specifically a proposal to increase the minimum wage, 
+but, in my view, we should aspire to more than a minimum wage for the 
+workers across this country. Instead, we should work to provide the 
+training and educational opportunities that will allow individuals 
+across this great Nation to enter the workforce at perhaps minimum wage 
+but, more importantly, to then move up the economic ladder.
+  When we put ourselves in the position of Government rather than the 
+market dictating wages, we will most certainly see some unintended 
+effects of less opportunity for some of the very American workers whom 
+we are attempting to help.
+  Let's put this proposal in perspective. Research reveals that the 
+negative effects of raising the minimum wage would, in fact, fall most 
+heavily on the shoulders of the most vulnerable workers. Let me say 
+that again. Research shows that the effects of raising the minimum 
+wage--that is, of the Federal Government rather than the market 
+dictating the wages at which employers must pay workers--that the 
+burden would actually fall most heavily on the most vulnerable workers.
+  When employers are forced to raise their costs in order to comply 
+with a government mandate, they are most likely going to reduce the 
+hours their workers can work or perhaps even lay people off in order to 
+meet their bottom line. Of course, they will also choose, if costs go 
+up because government has increased the wages which an employer must 
+pay, to retain their most skilled and experienced and productive 
+employees, not the less skilled or lower wage earners. That is 
+important because teenagers and those who are working on a part-time 
+basis or who are just entering the workforce are the ones who 
+predominantly receive the minimum wage under the status quo.
+  So why in the world would government decide to put people out of 
+work, presumably the very people whom this amendment is designed to 
+help? We need to ask ourselves that question and come up with a better 
+answer than I have heard so far.
+  I saw a cartoon, which was really not funny, distributed a couple of 
+days ago where an employer is talking to an employee. He says: I have 
+good news and
+
+[[Page 2340]]
+
+bad news. The good news is that the minimum wage has been increased, so 
+you are going to get a pay raise. The bad news is you are fired.
+  The point of the cartoon is--as I said, it is really not funny--that 
+if fixed costs of employers go up, something has to give. And where 
+that give actually impacts the workers is going to be, I am afraid, on 
+the most vulnerable workers, the less educated, the less trained, and 
+unfortunately, more often, on minorities and women, the very groups the 
+advocates of this bill have said they want to help.
+  Consider this statistic: Of the 75.6 million Americans who are paid 
+by the hour, 1.9 million workers earn wages at or below the minimum 
+wage. In other words, that is 2.5 percent of all hourly paid workers. 
+So the debate we are having this week--and, presumably, will carry over 
+to next week--will affect 2.5 percent of all hourly paid workers. The 
+largest share of minimum wage earners include teenagers and young 
+adults who have only entered the workforce. Based on the most recent 
+data available, approximately one-fourth of minimum wage earners are 
+teenagers between the ages of 16 and 19, and about one-half are between 
+the ages of 16 and 24.
+  Over the past few weeks, in anticipation of this debate, there have 
+been a number of articles in national and State publications addressing 
+this topic. Many of them have been very thoughtful and informative. One 
+article that demonstrates the complexity of this issue, that there is 
+actually more than meets the eye on this topic, was published by the 
+Valley Morning Star in Brownsville, TX, a story about Belinda 
+Campirano. Ms. Campirano, along with her sister, is an owner of Media 
+Luna, a small restaurant in Brownsville, TX. Ms. Campirano has only one 
+employee, whom she pays $6 an hour. And while she understands, from the 
+standpoint of simple human compassion, the difficulty of getting by on 
+$5.15 an hour, she also realizes that a government-mandated wage 
+increase would put a significant dent into her operating budget, 
+literally in her ability to keep the doors open and keep this 
+individual, her single employee, on the payroll.
+  There was also another great series of articles in the Washington 
+Post, one on January 10 entitled ``Life at $7.25 an Hour, As House 
+Prepares to Vote on Minimum Wage Increase, Issue is Complex for Those 
+Who Earn or Pay That Amount.'' That article does an excellent job of 
+cutting through the rhetoric and exposing the reality of what it is we 
+are debating.
+  I ask unanimous consent that both articles be printed in the Record 
+following my remarks.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  (See exhibits 1 and 2.)
+  Mr. CORNYN. I appreciate the numerous ways in which many of our 
+colleagues have worked to improve this bill; significantly, the 
+bipartisan work of the Finance Committee, Senators Grassley and Baucus, 
+certainly the good work of the minority manager of the bill, Senator 
+Enzi, and numerous others to try to improve it, to try to ameliorate 
+some of the unintended consequences of government-mandated wages. I 
+support the small business package which is part of what we are 
+attempting to do to provide a better bill, one that rounds out the 
+provisions of the bill and one that actually produces intended effects, 
+which are not to hurt small businesses, the primary engine of our 
+economy.
+  The fact is, small businesses employ about 70 percent of the workers 
+in America today. Why would this body do anything that would actually 
+put more people out of work? Well, the provisions of the legislation 
+that came out of the Finance Committee, as modest as they are, 
+represent a real attempt to try to round out and improve the bill in 
+order to reduce the unintended impact, which would be to put people out 
+of work, and to provide some regulatory and tax relief for small 
+businesses, the employers that employ 70 percent of the people in the 
+American workforce.
+  Small business expensing allows mom-and-pop shops and entrepreneurs 
+to reinvest in their businesses and grow and, in so growing, hire more 
+people and create jobs, not just in my State of Texas but across the 
+country. It will help locally owned businesses and other small 
+enterprises make much needed improvements in their infrastructure, 
+which will help them compete and improve their productivity. I have 
+concerns, however, that while the minimum wage increase in this 
+legislation is permanent, the regulatory and tax relief that is part of 
+the package is only temporary and not permanent as well. Nevertheless, 
+these fixes are necessary.
+  But don't take it from me. Take it from people like Jonathan Meller 
+who e-mailed me recently. Mr. Meller is the owner of Papa Murphy's 
+pizza restaurant in Burleson, TX. He talked about the economics of a 
+wage increase and what it would mean for his small business. Like a 
+majority of employees slated to earn the minimum wage, Mr. Meller's 
+employees are, true to the statistic I mentioned a moment ago, under 20 
+years of age. Like many business owners, Mr. Meller operates in a free 
+market. He believes in free enterprise. He believes in competition. 
+Frankly, he doesn't appreciate the fact that government sticks its big 
+finger right in the middle of his business and mandates that he pay 
+wages that are above the market. Any government-mandated wage hike will 
+have a dramatic impact on how he is able to do business and on the 
+number of employees he is able to hire.
+  Then there is William Goodman, the owner of Scooters in El Paso. Mr. 
+Goodman has only one employee. If the minimum wage is raised, where 
+does that leave him? Mr. Goodman says he will have no employees, if the 
+government, rather than the market, forces him to increase the wages he 
+pays his one employee. He says--and I take him as his word--he will not 
+be able to absorb the additional cost that would go along with this 
+legislation.
+  My point is this: Raising the minimum wage and the taxes that come 
+with it will similarly leave many employees without jobs. We need to 
+think long and hard before we choose to impose this sort of regulation 
+on small businesses. In the end, my hope is that we can come together 
+with a sensible package that will enjoy bipartisan support; that will, 
+according to the intentions of the authors, increase the minimum wage 
+but also soften the blow on small business and thus protect the jobs of 
+many workers who might otherwise be laid off.
+  The important point, though, that this legislation misses is that the 
+best way to increase the quality of life for workers in America is not 
+just to raise the minimum wage. That puts a patch or a Band-Aid on what 
+is a much more serious and larger problem. Education and workforce 
+training are the best ways to increase the quality of life for 
+America's workers instead of a wage increase that could hurt small 
+businesses and consumers and, indeed, some of the very employees we are 
+trying to help.
+  We all understand--it is a given--that every American should receive 
+a good-quality education. We must continue to pursue policies to ensure 
+that this is not merely a dream but a reality. No one, though, should 
+end their education just when they receive a diploma or degree. Indeed, 
+the world has become so complex, competition has become so globalized, 
+that we need to think of education as a lifelong learning experience. 
+In that vein, I emphasize the importance of providing workers with the 
+kinds of skills and talent and training they need, not only to earn the 
+minimum wage but to earn good living wages much higher than the minimum 
+wage and the important role our universities, community colleges, trade 
+schools, and workforce development centers play in providing the 
+training and education necessary for thousands and thousands of people 
+across this great country to improve their standard of living and to 
+achieve their dreams.
+  I strongly believe that joint workforce-education projects are 
+critical to our efforts as our economy continues its upswing and as 
+competition increases on a global scale. It is imperative that we focus 
+our efforts not only
+
+[[Page 2341]]
+
+on setting a wage that may be out of sync with market forces but 
+literally on liberating people to achieve their dreams by giving them 
+the skills necessary to earn higher wages which will allow them to 
+enjoy the American dream. It is imperative that we do everything we can 
+to provide this training through our colleges and universities, working 
+with the private sector to try to develop programs relevant to the 
+local economy and, hence, jobs that are available in the local economy, 
+and thus increase our competitiveness.
+  This is not just a temporary or passing interest of mine. I have 
+traveled across my State, as have many of my colleagues, to community 
+colleges and have seen some of the effective partnerships that 
+community colleges have entered into with local employers. Frankly, 
+employers are wanting for lack of trained employees to fill job 
+vacancies at much higher than the minimum wage. One stands out in my 
+mind--a young woman I met at the Bell Helicopter plant in Amarillo, TX, 
+by the name of Jeanette Hudson Gibbs. The reason I remember Ms. Gibbs 
+is because she works on the assembly line for the V-22 tilt rotor at 
+Bell Helicopter at their Amarillo plant. This is a young Hispanic 
+woman, a single mother with a special needs child, who, before she went 
+to work at Bell Helicopter on the assembly line for the V-22 tilt 
+rotor, was a prison guard, a single mom. You can imagine the concerns 
+her family had, not just about the fact that she was earning much lower 
+wages but, in fact, the dangers associated with that job. Thanks to the 
+great partnership Bell Helicopter had entered into with Amarillo 
+Community College, Ms. Gibbs is now earning $16 an hour, and that was 
+the last time I heard from her. It could be she is even doing better 
+now because of the job skills she acquired through this partnership 
+between Bell Helicopter and Amarillo Community College. This is a great 
+success story of which I am proud. I know she must be proud of her 
+accomplishments. And it is exactly the sort of emphasis we ought to be 
+placing through legislation we pass on the floor.
+  I worry that by looking at mandating minimum wages rather than 
+focusing on workforce development and the kind of job training that is 
+going to be able to produce more people like her, somehow we have not 
+set our sights high enough.
+  Last April, I hosted an event back in my home of Austin, TX. It is 
+something we call the Texas Workforce Summit. This was a gathering of 
+community college leaders from all across the State. The purpose of 
+that was to learn more about Federal grant opportunities and to learn 
+more about the successes of partnerships such as the one I just 
+mentioned between Amarillo Community College and Bell Helicopter. 
+Because of this initiative, Del Mar College in Corpus Christi applied 
+for and received a grant of nearly $2 million to improve employment 
+opportunities for technical employees in the aerospace industry. This 
+is an even better story because Del Mar College has the same kind of 
+workforce training partnership that I described a moment ago in 
+Amarillo but this time in Corpus Christi. This is a workforce 
+development program which Del Mar has entered into at the Corpus 
+Christi Depot. The Corpus Christi Depot, for those who don't know, is 
+the place where the military refurbishes and refits the military 
+helicopters that are damaged through use in the conflicts in 
+Afghanistan and Iraq. We have a wonderful training program there 
+through the same kind of partnership I mentioned a moment ago, which is 
+creating a better way of life and a better opportunity for many workers 
+there--and also, in a patriotic fashion, supporting our effort in the 
+global war on terror.
+  As you can tell, I have been a long advocate of these initiatives. I 
+have taken the opportunity to visit these community colleges all across 
+my State, in cities such as Austin, Houston, Pasadena, Laredo, 
+Beaumont, Sherman, El Paso, Lubbock, and Victoria, to highlight the 
+very thing I am talking about here on the floor of the Senate today. So 
+I hope that as we move forward, we will not forget about the great 
+promises community colleges hold in terms of workforce training and 
+look to maybe setting our sights a little bit higher than we have been 
+last week and this week in talking about minimum wage, when we ought to 
+talk about how we can prepare people to earn much higher wages and, 
+frankly, wages and jobs that go wanting for lack of a trained 
+workforce.
+  Just this last week, the National Journal highlighted community 
+colleges as a true American success story. They have offered 
+occupational skills training for decades and will continue to lead the 
+effort to stimulate industry and job growth. This article says:
+
+       Bridging the gaps between high schools and four-year 
+     institutions and between employers and workers, two-year 
+     community colleges will help determine how America fares in 
+     the global economic competition.
+
+  So I say it again, Mr. President: We should aspire to much more for 
+the workforce in America, for the American worker, than just the 
+minimum wage. Education and workforce training are the way forward to 
+both increase the quality of life for more workers and provide a way 
+for them to achieve their dreams.
+  Mr. President, I yield the floor.
+
+                               Exhibit 1
+
+                           Raising Questions
+
+
+       many employers unsure about possible rise in minimum wage
+
+                          (By Matt Whittaker)
+
+       Brownsville.--Restaurant owner Belinda Campirano is torn 
+     when asked to weigh in on what Congress should do about 
+     raising the minimum wage to $7.25 an hour from $5.15, where 
+     it has been for a decade.
+       She has only one $6-an-hour employee at Media Luna, the 
+     Brownsville eatery I she and her sister own. Still, a 
+     mandated wage increase would put a dent in her budget, she 
+     said.
+       But she empathizes with those supporting their families on 
+     service industry wages. Her employee, who has a child and is 
+     married to a waitress, sometimes works an extra job at 
+     another restaurant to help make ends meet.
+       ``I'm kind of sitting on the fence on it,'' Campirano said 
+     of the minimum wage. ``I do believe we need to up it, but it 
+     is going to impact small businesses. As an employer, it would 
+     be tough for me if I had more employees.''
+       Of 5.5 million hourly workers in Texas, 176,000 earned at 
+     or below $5.15 an hour in 2005, according to Labor Department 
+     data. The liberal Economic Policy Institute, a Washington, 
+     D.C., think tank in favor of increasing the nation's base 
+     pay, estimates 863,000 Texas workers would be directly 
+     affected by a federal minimum wage increase to $7.25 an hour.
+       More workers would be affected in the Rio Grande Valley 
+     than in other parts of the country because the area has lower 
+     wages, said Jose A. Pagan, a labor economist at the 
+     University of Texas-Pan American in Edinburg. In the second 
+     quarter of 2006, Cameron County had the lowest average weekly 
+     wages in the nation, at $484. Hidalgo County followed at $494 
+     a week.
+       On Jan. 10, the U.S. House passed a measure that would 
+     increase the minimum wage to $7.25 in three stages over more 
+     than two years. Passage of a companion bill introduced in the 
+     Senate could hinge on tax breaks for businesses.
+       The bill is expected to be brought up in the Senate this 
+     week, and U.S. Sens. Kay Bailey Hutchison and John Cornyn, 
+     both Texas Republicans, support an increase if it is coupled 
+     with tax help for small businesses.
+       Proponents of the increase say it is a long overdue raise 
+     for U.S. workers. A memorandum from the Economic Policy 
+     Institute said business owners have received tax cuts since 
+     1997 (when the last minimum wage increase took effect), 
+     ``while minimum wage workers have been kept waiting at the 
+     back of the line.''
+       Opponents of a minimum wage increase say it would hurt 
+     small businesses and the working poor alike and increase 
+     unemployment.
+       ``It's a bad thing for any area,'' said Jill Jenkins, chief 
+     economist at the conservative Employment Policies Institute, 
+     a Washington, D.C., think tank that opposes a minimum wage 
+     increase.
+
+
+                         EVERY LITTLE BIT HELPS
+
+       Jenkins says only a fraction of the benefits of such a 
+     boost would go to the working poor. And if they earned more, 
+     some could lose benefits like the earned income tax credit, 
+     food stamps and housing.
+       In extreme cases, some people could be worse off earning 
+     $7.25 an hour than earning $5.15 an hour and getting the tax 
+     credit, she said.
+       ``It does cause job losses,'' Jenkins said. ``The 
+     unemployment rates will go up.''
+       That's because some firms will not hire as many workers as 
+     labor costs go up, said Pagan, the UTPA labor economist. 
+     Higher wages will attract more people to look for jobs, also 
+     contributing to higher unemployment rates.
+       Raising the minimum wage could, in theory, make 
+     undocumented workers more attractive hires for employers 
+     looking to save
+
+[[Page 2342]]
+
+     on labor costs, Pagan said. But many illegal workers already 
+     are in formal sectors, getting paid the same as everyone 
+     else.
+       Some politicians and business owners are not strenuously 
+     opposing a minimum wage increase, he said; salaries for most 
+     workers already are higher than $5.15 an hour because it has 
+     been so long since the last national raise.
+       ``The impact of all of this is fairly minimal,'' Pagan 
+     said. ``It's mostly symbolic or political more than anything 
+     else.''
+       Past increases in the minimum wage affected more workers, 
+     he said.
+       The last time the minimum wage went up, some businesses 
+     feared it would hurt, said Dalia Rodriguez, director for 
+     corporate communications at Edinburg-based WorkFORCE 
+     Solutions, which is funded by the state's employer and labor 
+     agency.
+       ``There was some effect but not what we thought it was 
+     going to be,'' she said.
+       Nationally, there are some concerns about labor costs from 
+     the small business community, said Sofia Hernandez, chief 
+     executive of the Southwest Community Investment Corp., which 
+     oversees the Small Business Administration-funded Women's 
+     Business Center in McAllen. But she hasn't heard of any such 
+     fears locally.
+       ``It's important to the economy to have people earning 
+     more, but I know on the business side it's a cost,'' she 
+     said. ``So you have to balance those two issues.''
+       As far as students at the University of Texas-Brownsville/
+     Texas Southmost College who are paying for an education with 
+     minimum wage work-study jobs are concerned, Congress should 
+     raise the Nation's base pay.
+       One, Ilianna Garza, a 19-year-old freshman biology student, 
+     has been working 20 hours a week at the university's news and 
+     information department since October. She earns $5.15 an hour 
+     and says a raise would help her pay for books, gas and 
+     clothes and save for the next semester.
+       ``Every little bit helps, especially when you have to put 
+     yourself through school,'' she said.
+       At Media Luna restaurant in Brownsville, Campirano 
+     contemplates how a higher Federal minimum wage would affect 
+     her business and sole employee. Depending on whether tax 
+     breaks are included in the proposed wage increase bill, 
+     paying her worker more might mean taking money from her 
+     advertising budget or upping the cost of a sandwich 20 cents.
+       ``You don't want to raise prices because that's going to 
+     deter people from coming to your establishment, but it's got 
+     to come from somewhere,'' she said.
+       On the other hand, ``There's no way anyone can live on 
+     $5.15.''
+                                  ____
+
+
+                               Exhibit 2
+
+               [From the Washington Post, Jan. 10, 2007]
+
+                         Life at $7.25 an Hour
+
+
+ As House Prepares to Vote on Minimum-Wage Increase, Issue Is Complex 
+                for Those Who Earn, or Pay, That Amount
+
+                           (By David Finkel)
+
+       Atchison, Kan.--It was payday. Money, at last. Twenty-two-
+     year-old Robert Iles wanted to celebrate. ``Tonight, 
+     chimichangas!'' he announced.
+       He was on his way out of the store where his full-time job 
+     pays him $7.25 an hour--the rate that is likely to become the 
+     nation's new minimum wage. Life at $7.25: This is the life of 
+     Robert Iles, and with $70 in a wallet that had been empty 
+     that morning, he headed to a grocery store where for $4.98 he 
+     bought not only 10 chimichangas but two burritos as well.
+       From there he stopped at a convenience store, where for 
+     $16.70 he filled the gas tank of the car he purchased when he 
+     got his raise to $7.25; then he went to another grocery 
+     store, where he got a $21.78 money order to pay down some 
+     bills, including $8,000 in medical bills from the day he 
+     accidentally sliced open several fingers with a knife while 
+     trying to cut a tomato; and then he headed toward the family 
+     trailer 19 miles away, where his parents were waiting for 
+     dinner.
+       Today in Washington, the House is scheduled to vote on 
+     whether to increase the federal minimum wage from $5.15 to 
+     $7.25. Passage is expected, with Senate approval soon to 
+     follow, and if President Bush signs the resulting bill into 
+     law, as he indicated he would, the U.S. minimum wage would 
+     rise for the first time since 1997, ending a debate about 
+     whether such a raise would be good or bad for the economy.
+       But even if the matter is settled in Congress, it isn't 
+     settled at all in Atchison, and Robert Iles's drive home is 
+     proof. Every stop he made on his ride home revealed a 
+     different facet of how complicated the minimum wage can be in 
+     the parts of America where, instead of a debatable issue, it 
+     is a way of life.
+       At the store where Iles works, for instance, the owner 
+     thinks the minimum wage should be increased as a moral issue 
+     but worries about which employees' hours he will have to cut 
+     to compensate.
+       At the store where he bought the chimichangas, the cashier 
+     who makes $6.25 worries that a raise will force her out of 
+     her subsidized apartment and onto the street.
+       At the convenience store where he bought gas, the owner 
+     worries that he will have to either raise prices, angering 
+     his customers, or make less money, ``and why would I want to 
+     make less money?''
+       At the store where he got the money order, the worries are 
+     about Wal-Mart, which not only supports an increase but also 
+     built a Supercenter on the edge of town that has been sucking 
+     up customers since it opened three years ago.
+       As for Iles--who keeps $70 out of every paycheck to cover 
+     two weeks' worth of food and gas and in a matter of minutes 
+     was already down to $26.54--his worry was as basic as how 
+     fast to drive home.
+       Drive too fast and he'd be wasting gas. But his family was 
+     waiting. And his chimichangas, best cooked frozen, were 
+     starting to thaw.
+
+
+                        The Meaning of a Dollar
+
+       The debate about the minimum wage usually comes down to 
+     jobs. If Congress approves the increase, it will result in 
+     raises for an estimated 13 million Americans, or about 9 
+     percent of the total workforce. That's a percentage that most 
+     economists agree would cause a modest increase in national 
+     unemployment. In Kansas, however, ``it would have a fairly 
+     significant impact,'' said Beth Martino, a spokeswoman for 
+     the state Department of Labor. According to one independent 
+     analysis, 16 percent of the workforce, or 237,000 workers, 
+     would be affected--and that doesn't include the 20,000 whose 
+     wages aren't governed by the federal Fair Labor Standards Act 
+     and earn the state minimum wage of $2.65. That rate, the 
+     lowest in the nation and unchanged since 1988, hints at the 
+     prevailing wisdom in Kansas about the minimum wage, which is 
+     that the only way low-wage earners will make more is through 
+     congressional action.
+       This holds true from Topeka, where the powerful Kansas 
+     Chamber of Commerce has long opposed any raise, to rural 
+     Mulvane, home of Republican state legislator Ted Powers, who 
+     says his futile effort three years ago to raise the state 
+     minimum wage resulted in his being branded a ``dirty dog,'' 
+     to Atchison, a working-class city of 11,000 where the stores 
+     that depend on low-wage workers include one called ``Wow Only 
+     $1.00!'' This is the store where Robert Iles has worked for 
+     five years.
+       ``Robert, would you help me a second?'' Jack Bower, the 
+     owner, called to Iles soon after opening, as the line at the 
+     cash register grew. A onetime Wal-Mart vice president, Bower 
+     moved back to Atchison several years ago to teach and ended 
+     up buying the old J.C. Penney store, and now runs a business 
+     where the meaning of a dollar is displayed on shelf after 
+     shelf. The jar of Peter Piper's Hot Dog Relish? That's what a 
+     dollar is worth. The Wolfgang Puck Odor Eliminator that a 
+     customer was looking at as she said to a friend, ``I just 
+     don't know how I'm ever going to make it. My ex-husband's not 
+     paying his child support''? That's a dollar, too, as is the 
+     home pregnancy test, the most shoplifted item in the store.
+       ``This is not a wealthy community,'' Bower explained. ``The 
+     thing is, a lot of people depend on this store.''
+       Robert Iles has his own version of a dollar's meaning, 
+     learned last February when Bower took him aside and said he 
+     would be getting a pay raise to $7.25. ``Okay,'' Iles 
+     remembers replying, wanting to seem businesslike. ``But 
+     inside I was doing the cha-cha-cha,'' he said. ``It was like 
+     going from lower class to lower middle class.''
+       Soon after, he bought his car, a used 2005 Dodge Neon, and 
+     just about every workday since then he has spent his lunch 
+     break in the driver's seat, eating a bologna sandwich with 
+     the engine off to save gas, even in winter. An hour later, he 
+     was back behind the cash register, telling customers ``Thank 
+     you and have a nice day'' again and again.
+       And meanwhile, Jack Bower wondered whose hours he will cut 
+     if he has to give his employees a raise.
+       It's not that he's against raising the minimum wage--``I 
+     don't think $5.15 is adequate,'' he said, adding that $7.25 
+     seems fair--but his profit margin is thin, and wages are his 
+     biggest controllable expense. So if wages go up, he said, 
+     hours will have to come down, and the question will become: 
+     Whose?
+       Will it be Neil Simpson, 66, who works six hours a day as a 
+     stockman, and then five more hours somewhere else cleaning 
+     floors, and takes care of a wife who is blind and arthritic?
+       Will it be Susan Irons, 57, who was infected with hepatitis 
+     C from a blood transfusion, is on a waiting list for a liver 
+     transplant and needs more hours rather than fewer?
+       Will it be Christina Lux, who is 22 years old and 13 weeks 
+     pregnant?
+       Will it be Iles?
+       ``Attention, all shoppers,'' he said into the microphone. 
+     ``We will be closing in 10 minutes. Please begin making your 
+     final selections.'' Ten minutes later, he was clocked out and 
+     back in his Neon. ``My brand-new car,'' he called it proudly, 
+     and he explained how he was able to afford it on $7.25 an 
+     hour: a no-money-down loan for which he will pay $313.13 a 
+     month until 2012.
+
+
+                      small business ``at bottom''
+
+       Seven dollars and twenty-five cents an hour equals $15,080 
+     per year, and out of that comes $313 for the car loan and 
+     $100 for car insurance, lies said, going over his monthly 
+     bills. An additional $90 for the 1995 car with 135,000 miles 
+     on it that he is buying from a
+
+[[Page 2343]]
+
+     friend for his mother, $150 for the family phone bills, $35 
+     on his credit card, $100 for gas, $100 toward the mortgage on 
+     the trailer. ``That's about it. Oh yeah, $20 in doctors'' 
+     bills,'' he said, and totaled it up on fingers scarred by 
+     surgical stitches. Nine hundred and eight dollars. ``I bring 
+     home 900 a month,'' he said. ``So I very rarely have any 
+     money for myself.''
+       He parked in front of a store called Always Low Prices, 
+     which has the cheapest chimichangas in town.
+       Once it was a full-service grocery store with 28 employees. 
+     Then came word that Wal-Mart was looking for land for a 
+     Supercenter, and now it has become a bare-bones operation 
+     where the starting pay for its few employees is $5.50, and 
+     the manager wonders how the store will survive if wages 
+     increase.
+       ``We're at the bottom. If the minimum wage went up, I don't 
+     know how we would make the cuts to cover it,'' Michelle Henry 
+     said. The lone salaried employee, she works 80 hours a week 
+     to make up for the lack of workers. ``I have mixed 
+     feelings,'' she continued. ``I know that people can't afford 
+     to live on $5.15 an hour. But on the business side, small 
+     businesses can't afford to pay it.''
+       At the register, meanwhile, Shannon Wilk, 33, who makes 
+     $6.25 an hour, said that of course she would like to earn 
+     more money. It would help her. It would help her 18-month-old 
+     daughter. ``It would be good,'' she said, ``but also, for me, 
+     I live in income-based housing, and if I get a raise, my rent 
+     would go up, and I would lose my assistance.'' Even the 
+     tiniest raise would affect her, she said, and with nowhere to 
+     go, the last thing she can afford is a raise to $7.25.
+       In such an equation, the fact that she was working in 
+     Kansas was to her benefit. Atchison sits on the Kansas-
+     Missouri border, and if Wilk worked a few hundred yards to 
+     the east, she would already be in jeopardy: In November, 
+     Missouri voters supported a ballot initiative increasing the 
+     state's minimum wage to $6.50, with an annual adjustment for 
+     inflation. Five other states had similar votes, with similar 
+     results, bringing to 29 the number that now require an hourly 
+     wage above the federal minimum. In the District the minimum 
+     is $7, in Maryland it's $6.15, and in Virginia it's $5.15.
+       Such is the arbitrariness of state-by-state minimum wage 
+     laws that Wilk feels lucky to be in Kansas making $6.25 an 
+     hour while inside at the first grocery store across the 
+     Missouri state line, the cashier was ecstatic that she was in 
+     a place where her pay was going from $6.20 to $6.50, 
+     explaining, ``That's 30 cents more I ain't got.''
+       Iles handed over a $10 bill for his 10 chimichangas and two 
+     burritos. He stuffed the change deep in his pocket, and 
+     headed next to a convenience store owned by a man named Bill 
+     Murphy, who said that if he had the chance to talk to new 
+     House Speaker Nancy Pelosi, he would ask one question. 
+     ``Where does she think the money will come from? And that is 
+     the question,'' he said. ``My wages are going to go up 10 
+     percent''
+       Unlike Jack Bower, who would compensate by cutting hours, 
+     Murphy said that in his two convenience stores there are no 
+     hours to cut. ``I'm going to have to raise my prices,'' he 
+     said--not only because his workers who make less than the new 
+     minimum wage would get raises but also because those who earn 
+     more would insist on raises as well. Employees at $7.25 will 
+     want $8.25. Those at $8.25 will want $9.25.
+       Economists classify such workers as the ones who would be 
+     indirectly affected by a minimum-wage increase. Of the 
+     estimated 13 million workers expected to get raises, 7.4 
+     million are in that category. ``You've created this 
+     entitlement,'' Murphy said he would tell Pelosi.
+       And yet he will pay it, he said, and compensate with price 
+     increases, which he worries will be inflationary, even though 
+     most economists say that won't happen. He will raise prices, 
+     he continued, because the only other option would be to earn 
+     less money, which he doesn't want to do because he owes $1.5 
+     million on his businesses and wouldn't want to default
+       ``Now that might be a stretch in some people's minds, from 
+     giving a guy a raise to not being able to pay the bank, but 
+     that's the path I'm talking about,'' he said. Against such a 
+     dire backdrop, Iles put $17 worth of gas in his car.
+       ``That'll be $16.70,'' the clerk said to him, and instead 
+     of correcting this, Iles gladly took the change.
+       Thirty cents, suddenly got.
+
+
+                          The Wal-Mart Factor
+
+       Iles drove past the Atchison Inn, where starting pay is 
+     $5.15, past Movie Gallery, where it's also $5.15, and stopped 
+     in front of Country Mart, the fanciest grocery store in town, 
+     where high school students start at $5.15 and, according to 
+     owner Dennis Garrett, ``some of them aren't worth that.''
+       A few days earlier, Garrett had gotten a letter from a 
+     lobbying consortium called the Coalition for Job 
+     Opportunities, urging him to write Congress to protest the 
+     minimum-wage increase. It came in the form of a letter 
+     already written, to which he merely had to add his 
+     congressman's name and send it off to Washington.
+       ``We are very concerned,'' the letter began, and it was 
+     signed by 25 organizations.
+       The most conspicuous signature, though, was the one that 
+     wasn't there, that of Wal-Mart, the nation's largest private 
+     employer, with 1.3 million workers. Wal-Mart won't say how 
+     many of those workers earn less than what the new minimum 
+     wage would be, but if the Atchison store is an example, 
+     starting pay is $6 an hour.
+       Nonetheless, in October 2005, Wal-Mart chief executive H. 
+     Lee Scott Jr. said in a speech that the ``U.S. minimum wage 
+     of $5.15 an hour has not been raised in nearly a decade, and 
+     we believe it is out of date with the times.'' He went on to 
+     say, ``Our customers simply don't have the money to buy basic 
+     necessities between paychecks.''
+       When it comes to Wal-Mart, however, just about any 
+     announcement that affects public policy is greeted with 
+     suspicion, and that has been the case with the minimum wage. 
+     Some have said that Wal-Mart, in need of good publicity, is 
+     supporting an increase for public relations reasons; others 
+     have declared it an attempt to drive small, independently 
+     owned stores out of business.
+       These suspicions exist in Atchison as well. As in many 
+     small communities, Wal-Mart defines local retail, and just as 
+     Always Low Prices had to retool itself, Country Mart was 
+     significantly affected by Wal-Mart's new food-stocked 
+     Supercenter several miles away.
+       What is Wal-Mart up to? What are its true motives? Like 
+     many others, Dennis Garrett wonders. He imagines public 
+     relations is part of it, but he didn't want to speculate on 
+     whether this was an attempt to put him out of business, 
+     except to say that raising some wages wouldn't do that. He'd 
+     reduce some hours, he said. He'd manage.
+       Yes, Atchison businesses would be hurt initially, but in 
+     the long run, if unemployment increases, those hurt the most 
+     would be the very ones Wal-Mart insists would be helped--the 
+     customers, especially the younger ones, ``the people who 
+     don't advance their education and need a job between the ages 
+     of 16 and 21, 22, 23.''
+       In other words, many of the workers in Atchison, one of 
+     whom was now at Garrett's service counter buying a money 
+     order so he could pay bills. Even though Iles has a checking 
+     account, this is the method he prefers because if he were to 
+     pay by check, and the check were to bounce because of 
+     insufficient funds, the penalty would be devastating. A $25 
+     fee would require more than three hours of work.
+       And where would those hours come from?
+       ``It's Tough for Me''
+       So go the calculations of a $7.25 worker, now headed home.
+       ``It's an old trailer,'' he explained earlier in the day.
+       The heat doesn't work, he said, and the water heater works 
+     sporadically.
+       One of the bedroom ceilings is caving in. He sleeps in the 
+     other bedroom, and his parents sleep in the living room 
+     because his father, who has diabetes and had to have several 
+     inches of one of his feet amputated, can't really get around.
+       Also, his father has leukemia. And is legally blind. And 
+     his mother, who once made $6.50 an hour as an aide at a 
+     nursing home, quit to take care of her husband.
+       ``We're pretty much living off my money,'' Iles said, and 
+     in he went to cook them dinner, bring payday to an end and, 
+     the next morning, start the cycle again.
+       Life at $7.25. Should that be the minimum wage?
+       ``Yes,'' Iles said.
+       Even if it hurts job opportunities for people like him, as 
+     Dennis Garrett had suggested?
+       ``Yes.''
+       Or causes price increases, as Bill Murphy had suggested?
+       ``Yes.''
+       Or damages businesses such as Always Low Prices?
+       ``I mean, it's tough for me, and I'm already making $7.25 
+     an hour.''
+       Or causes Jack Bower to reduce hours for one of his 
+     employees? Perhaps for Iles himself?
+       ``It's just so hard for people. I mean, it's hard,'' Iles 
+     said, and then he went to work.
+       ``I think it'll be bad today,'' one of the workers 
+     suggested as the line at the Wow Only $1.00! cash register 
+     began to form.
+       ``Well, it depends on your perspective,'' Iles said.
+
+  The PRESIDING OFFICER. The Senator from Michigan is recognized.
+  Ms. STABENOW. Mr. President, I ask unanimous consent that Senator 
+Dorgan be recognized to speak for up to 15 minutes, to be followed by 
+Senator Martinez for up to 5 minutes, and then the Senate resume 
+consideration of the Ensign amendment No. 154; that the time for those 
+statements last until 12:20, to be equally divided and controlled by 
+Senators Ensign and Stabenow; that at 12:20, the Senate proceed to vote 
+in relation to the Ensign amendment; provided further that no second-
+degree amendment be in order prior to the vote.
+  The PRESIDING OFFICER. Is there objection?
+  Without objection, it is ordered.
+  The Senator from North Dakota is recognized.
+
+[[Page 2344]]
+
+
+  Mr. DORGAN. Mr. President, I have been listening to my colleagues on 
+this issue of the minimum wage and thinking about a time 70-some years 
+ago that I read about when there was an initiative on the floor of the 
+Congress dealing with the Fair Labor Standards Act.
+  The Fair Labor Standards Act, which President Franklin Delano 
+Roosevelt wanted, was considered radical. They said it was going to 
+injure business and there would be trouble in this country. That 
+provision said, on behalf of America's workers, that employers ought to 
+keep time records, ought to pay overtime for over a certain number of 
+hours--the kinds of things you would expect. But once again, the sky 
+was going to fall if this sort of thing was embraced. We have heard 
+this every time we have had something on the floor of the Senate.
+  My colleagues have talked about initiatives that are important. I 
+think many of these initiatives are important. What about the 
+initiative to help the people at the bottom rung of the economic 
+ladder? It has been almost 10 years since the minimum wage has been 
+increased. Yet it is unbelievable how difficult it is to pull it 
+through this Chamber. The price for pulling it through the Chamber is 
+to add additional tax breaks.
+  There was a time when in this Chamber we considered tax breaks, 
+saying to the biggest corporations in America that moved many of their 
+jobs overseas: We want to give you the right--the only people in the 
+country--to pay an income tax of 5\1/4\ percent. It will cost us $104 
+billion in lost revenue to our Treasury, in my calculation. That went 
+through like greased lightning. Did you hear anybody say: If we are 
+going to give a $104 billion tax break to the biggest companies, maybe 
+we ought to help the people at the bottom of the economic ladder. Oh, 
+no, nobody wanted to leverage that because nobody cared about that.
+  As I have described before, it is like the lyrics of the Bob Willis 
+and the Texas Playboys song; it is the same thing that plays out in 
+every situation. The lyrics are, ``The little bee sucks the blossom and 
+the big bee gets the honey.'' In this case, the big guy gets the money. 
+It is always the case in these debates.
+  What about a maximum wage? We hear about a minimum wage, and the 
+people at the bottom who have not had a raise for 10 years.
+  This notion that I have heard all week, which is that this is impacts 
+just a bunch of teenagers, is just not true. This is not a bunch of 
+teenagers. Well over 70 percent of the workers who will benefit from 
+the minimum wage are adults; 60 percent are women; 6.4 million children 
+will benefit because their parents are working for the minimum wage. 
+For a third of them, that is their sole family income. So it is just 
+not true to come to the floor and banter around and say it is just a 
+bunch of teenagers working.
+  But if we are so concerned about the people at the bottom getting too 
+much, let me make this point to you: Wages and salaries, which is the 
+compensation given to workers in this country, are at their lowest 
+levels as a percentage of GDP since they started keeping score in 1947. 
+They are the lowest since they started keeping score. Now, why is that 
+the case? There is plenty of income in this country, but it is going to 
+others.
+  I mentioned the maximum wage. Is there a maximum wage? Did anybody 
+rush to the Senate floor to express concern when we read in the paper 
+one morning that the head of Exxon got a $400 million buyout, or $400 
+million in benefits, as he left his job? That is $150,000 a day in 
+income. What is the minimum wage these days? It is about $40 a day. 
+There is a lot of concern about that on the floor of the Senate. Maybe 
+it will go to $50 a day for the folks at the bottom of the ladder in 
+this economy of ours. Does anybody come over here and say: You know 
+what, when I read that somebody gets $150,000 a day, I am concerned. 
+No, it is just quiet; you can hear a pin drop in the Chamber about the 
+issue of the maximum wages. It is unbelievable.
+  The other day, $180 million was given to a person who was leaving a 
+company because the company was displeased with his performance. I 
+could spend a couple of hours here talking about those kinds of 
+payouts. Nobody is talking about a maximum wage. I am not here talking 
+about a maximum wage. Why so much concern about a minimum wage for the 
+folks who work at the bottom in this country?
+  I support expensing for small business investments in equipment and 
+machinery, but why is this bill being held hostage for that sort of 
+thing? I voted for that in other circumstances and will again. Why is 
+it so hard to pull a minimum wage through this Chamber? It is really 
+pretty bizarre.
+  You know, I have watched people work in circumstances that are very 
+difficult. We have a lot of people who work two and three jobs and work 
+very hard. One day, I talked to a woman who was an unbelievable success 
+story. She was working for very little money at the bottom of the 
+ladder, cleaning toilets and the hallways of a very small college--a 
+single mother with four kids, working right at the bottom. She thought: 
+You know, somehow, some day, I want to graduate from this college. I 
+was there when she did. I was a speaker at the commencement. She was 42 
+years old and had four kids. She was wearing a cap and a gown and a 
+smile, and she did it because we cared enough for Pell grants and the 
+kinds of things that can give someone hope.
+  The fact is that people who work at the bottom of the economic ladder 
+for minimum wage have been lost and forgotten, particularly here. They 
+are the people who make the beds in the hotels in which we sleep. They 
+are the people who serve the food at the fast food places we frequent. 
+They are people who work hard. They want an opportunity and a chance. 
+After 10 years, this bill isn't a major policy change; this is an 
+obligation this Congress has had for years, which it has ignored. Now 
+we bring it to the floor of the Senate, and we are told that the price 
+for this is additional tax breaks. The only way you will help somebody 
+at the bottom after 10 years is to give additional tax breaks.
+  Go back and look at the tax breaks that have been given. I just 
+mentioned one, by the way--a 5\1/4\ percent income tax rate. There is 
+no one listening to this debate who is paying 5\1/4\ percent. Everyone 
+is paying more than that. But the biggest corporations in America got 
+to pay 5\1/4\ percent on income they earned overseas in plants where 
+often they sent American jobs. They get to pay 5\1/4\ percent on income 
+they earn there. That is the break they get. Nobody else gets that. 
+That went through here very easily. Nobody is going to hold that 
+hostage; my gosh, that benefits the folks at the top.
+  Let me make one other point that I think is important. The very 
+people who are opposed to a minimum wage--George Will says the minimum 
+wage ought to be zero, by the way. That is all right for him because he 
+is not earning the minimum wage. But the very people in this Chamber 
+who are opposed to a minimum wage, if you go back and check the votes, 
+are the ones who have voted for a tax incentive or tax break for the 
+companies that ship their jobs overseas.
+  That is easy to track, by the way, because we have had four votes on 
+that--to shut down that pernicious, unbelievable tax break. We say to a 
+company: Shut your manufacturing plant down, fire your workers, move 
+your production to China, and we will give you a big fat tax break. We 
+have tried to get rid of that four times, and four times we have 
+failed.
+  The same colleagues who are so concerned about helping people at the 
+bottom with a very reasonable adjustment in the minimum wage after 10 
+years are the very same people who said: We want to continue a tax 
+break to ship American jobs overseas.
+  I am just telling you that everybody has a right to their opinion, 
+and I will respect it. But I certainly have a right to say I believe it 
+is wrong. I believe it is bad policy for this country. This economic 
+engine works best when everybody works. There is no social program in 
+this country as important as a good job that pays well. We all 
+understand that. We also understand there are a
+
+[[Page 2345]]
+
+lot of jobs in this country with substantial downward pressure on 
+income because of this so-called globalization by which the largest 
+enterprises can go find the lowest paid workers anywhere in the world 
+and move their jobs, putting downward pressure on American workers' 
+income. We know what is happening in the workplace.
+  Let me end as I started, by saying that salaries and wages, which is 
+the income workers in this country get, are at their lowest percentage 
+of our economy since they started keeping score in 1947. It doesn't 
+take a rocket scientist to interpret that. If the interpretation of 
+that doesn't persuade one that we have an obligation to do something 
+for the people working at the bottom of the economic ladder for the 
+minimum wage, then I don't know what would persuade them.
+  Finally, this is not about teenagers. No matter how often you say it, 
+that does not make it true.
+  This is not about teenagers. Over 70 percent of the people on the 
+minimum wage are adults, many of them with children, 60 percent of them 
+women, a third of them working as their only job and their only income 
+for their family. Those are the facts.
+  There is one other fact that is certain. There is no one in this 
+Chamber--no one in this Chamber--who puts on a dark suit in the morning 
+and goes to work for a minimum wage. No one in this Chamber understands 
+the requirement to work for a minimum wage at two or three jobs to try 
+to keep your family going. But there are a lot of people in this 
+country who do understand, and they wake up every morning hoping and 
+praying that somehow they will get a fair break and get a fair wage.
+  Productivity is going up in this country, and we are blessed by that. 
+But the income for workers who have become more productive has lagged 
+way behind. And I wonder why. I guess we know the answer. This country 
+is a better country if we understand that the share of wealth and the 
+share of income in this country ought to go to those who deserve it. 
+And if American workers are much, much, much more productive--and they 
+have been--then they also deserve a fair share of this country's 
+income. That has always been the case.
+  In the last century, the kinds of things we have done to make this a 
+better place in which to work--safe workplace, child labor, minimum 
+wage, the right to organize, and a range of issues--have strengthened 
+this country and made this a better country.
+  This legislation that we are considering today is also legislation 
+that will strengthen this country and do the right thing.
+  Mr. President, I yield the floor.
+  The PRESIDING OFFICER. The Senator from Florida is recognized for 5 
+minutes.
+
+
+                           Amendment No. 105
+
+  Mr. MARTINEZ. Mr. President, the amendment that I called up earlier, 
+amendment No. 105, is one that touches on a little different issue. I 
+had hoped there would be a bipartisan consensus base. It involves 
+children and youth in our foster care system. Inconsistencies in our 
+Federal wage laws, coupled with increases in the minimum wage, are 
+financially crippling nonprofit organizations and institutions that 
+make up a necessary part of our communities' support systems for the 
+most vulnerable in our society--the children.
+  More than 500,000 children are in America's foster care system at any 
+given time because their own families are in crisis or unable to 
+provide for their essential well-being--most because they have been 
+subject to abuse and neglect. Thankfully, most are able to be placed 
+with individual caring families. But for children without a suitable or 
+available foster family, they are placed in one of the many group homes 
+associated with our foster care system.
+  Many of these group homes are specially tailored with the specific 
+needs of foster care children, offering unique programs and onsite 
+education to help heal the emotional scarring they have experienced.
+  These homes--often run by private, nonprofit organizations--are 
+dedicated to providing residential care and treatment for the so-called 
+orphans of the living, and they have long been a vital part of the 
+social service networks in America's communities.
+  An essential component of the foster care network is the presence of 
+caring parents in a family-like situation. And as in traditional 
+parenting, the house parents of group foster homes seek to provide the 
+same love, care, and supervision of a traditional family for the five 
+to eight children who reside with them.
+  House parents volunteer to permanently reside at a group home in 
+order to create a family-like environment for those without a true 
+sense of home, one that offers a structured atmosphere where these most 
+vulnerable youth can heal, grow, and become productive members of 
+society.
+  Foster care alumni studies show us that it is the consistent and 
+lifelong connection of caring foster parents that plays the biggest 
+role in helping foster children transition into society.
+  However, our current laws are working against this cause, forcing 
+group homes to move away from what they know is best for the children 
+and preventing them from providing the most consistent care. These 
+youth so desperately need the stability that a family-like situation 
+can provide, and that is what my amendment seeks to address.
+  Traditionally, in addition to a modest, fixed salary, house parents 
+have received food, lodging, insurance, and transportation free of 
+charge. In 1974, Congress recognized and confirmed the unique role 
+house parents serve when it passed the Hershey exemption. This amended 
+the Fair Labor Standards Act to preserve the appropriate method of 
+compensation for house parents and allowed the lodging and food 
+provided them to be considered when determining an appropriate salary 
+for married house parents serving with their spouse at nonprofit 
+educational institutions.
+  Through this exemption, Congress supplied a way for these vital 
+social services to continue to be provided by nonprofit organizations 
+in a way that is cost-effective and at the same time appropriate and 
+meaningful to both the children and the house parents.
+  However, since the addition of this exemption, the demographics of 
+America and of America's foster children have changed. Research now 
+shows that due to the negative experiences some youth have faced, they 
+may find a better environment for growth and healing in having a single 
+house parent of the same sex. Our labor standards for these group homes 
+have not kept pace with the ever-changing needs of these children.
+  Because the Hershey exemption was only extended to married couples, 
+group homes are now forced to choose between what is cheaper and what 
+is best for the children. Unfortunately, the financial realities of the 
+situation place these facilities in a compromising situation.
+  You see, when a group home employs a single house parent for a home, 
+they are required to pay them as an hourly employee, whereas married 
+house parents serving together are allowed to be paid as salaried 
+employees.
+  As a result, it costs a facility in Florida more than $74,000 
+annually at the current minimum wage rate to provide a full-time single 
+house parent using the traditional live-in model.
+  In response, most facilities have resorted to teams of house parents 
+who work in 8-to-12-hour shifts just to avoid the additional cost of 
+overtime pay. Yet even this team model is pricey and means tough 
+coordination and inconsistencies in care for these children. It also 
+destroys the family-like arrangement of the home.
+  If the minimum wage bill, to which I am offering this amendment, 
+passes, it would cost facilities across the United States in excess of 
+$84,000 annually to house and employ a single, full-time house parent 
+in a foster care or educational group home. However, if it were a 
+married couple serving in the same environment, it would only require 
+minimum wage guidelines be met.
+  Can you see, Mr. President, how this inconsistency in our labor laws 
+is, and will continue to be, crippling for the private, nonprofit 
+facilities?
+
+[[Page 2346]]
+
+  In order to enable group homes to provide the most appropriate and 
+consistent care for foster and emotionally scarred youth, my amendment 
+will extend the Hershey exemption to single house parents, allowing 
+them to be treated as salaried employees when free lodge and board are 
+provided.
+  Voting in favor of my amendment will enable private, nonprofit group 
+homes to continue providing these vital services for our communities 
+with a stronger atmosphere of love and growth for the children.
+  Voting against this amendment--that is, allowing it not to be 
+adopted--will mean that the already heavy financial burden for these 
+facilities will continue to grow. Homes will be forced to close or have 
+to scale back on the number of children they can help.
+  To vote against this amendment--or to not allow it to be adopted--is 
+to turn children out on the street at a time when they need us most.
+  As a loving parent and grandparent, I want what is best for my 
+children. I want to make sure they have whatever they need to overcome 
+all the obstacles life may throw at them. And I also know what it means 
+to be a foster child.
+  Mr. President, I ask unanimous consent for 1 additional minute in 
+which to conclude my remarks.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. MARTINEZ. Mr. President, I conclude with this. I had the 
+experience in life of being a child in foster care for 4 years. I was 
+fortunate to have had two different loving families that cared for me. 
+During that time, I also had the benefit of two parents working to help 
+me. I have maintained, until their deaths, relationships with three of 
+these four loving foster parents, and one of them today struggles for 
+life in a hospital in Tampa, FL, Eileen Young. I pray for her speedy 
+recovery.
+  However, these people made a difference in my life at a time when it 
+mattered. I hope we are not going to deny today those children who need 
+that care of a foster environment to have their lives complicated by 
+what the unintended effect of the minimum wage will be.
+  I urge the adoption of amendment No. 105 so we can continue this type 
+of loving foster care relationship for the children of Florida and 
+throughout the United States who so desperately need it.
+  I yield the floor.
+  The PRESIDING OFFICER. The Senator's time has expired. The Senator 
+from Michigan.
+
+
+                           Amendment No. 154
+
+  Ms. STABENOW. Mr. President, not seeing the sponsor of the Ensign 
+amendment in the Chamber, I will proceed to speak on his amendment. I 
+am sure he will be coming to the floor at some point, but I wish to 
+proceed at this point to speak about this amendment because I have 
+great concern about the approach put forward in the Ensign amendment.
+  My colleague from North Dakota spoke a few moments ago about the 
+challenge we face as it relates to a global economy and whether in 
+America we are going to have an American strategy for everyone to do 
+well, to keep our middle class, to keep opportunity for people who want 
+to work hard to move into the middle class.
+  This amendment, I believe, falls into that broad category of where 
+are we going to create opportunity; how are we going to make sure 
+everybody has the opportunity to have health care as part of that great 
+American dream.
+  What I see happening overall is a strategy that has been put in place 
+right now that certainly I do not support and I believe the majority of 
+people in the majority in the Senate do not support. This basically 
+creates a race to the bottom saying to workers: If you only work for 
+less, pay more in health care, and lose your pension, we can be 
+successful. We all know that is a losing strategy because there is 
+always going to be somebody in another country who can work for less, 
+who will work for less.
+  What we want to do is trade in a global economy, create an 
+opportunity for other countries to move up to our standard of living--
+fair trade, addressing health care in a way that moves it off business 
+but creates health care for everyone, investing in education, 
+innovation, and opportunity and that great American engine.
+  I say that as a backdrop because, unfortunately, this amendment on 
+HSAs, health savings accounts, moves us in the opposite direction. 
+Senator Ensign's proposal would spend an additional $8 billion on 
+health savings accounts. There is no good evidence that HSAs are 
+successful at expanding coverage or controlling costs. In fact, many 
+believe that HSAs may do the opposite. They make health care coverage 
+less affordable for those who really need it, encouraging healthy 
+people to leave comprehensive health care and go to these kinds of 
+high-deductible plans.
+  This amendment would permit individually purchased high-deductible 
+policies to be financed with HSA funds, encouraging more healthy people 
+to move to high-deductible policies in the individual market. What does 
+that mean?
+  We know that HSAs have deductibles of at least $1,000 for an 
+individual and $2,000 for a family. We also know that someone who has a 
+sick child, a disabled child, someone who has high health indicators, 
+health risks, somebody who is a baby boomer or older may not be able 
+choose to have a high-risk policy because they know they are going to 
+need their health insurance, they are going to need comprehensive 
+health care.
+  So who chooses an HSA? Someone younger, healthy, or wealthier where 
+they can get a better deductible and the $1,000 out of pocket doesn't 
+matter to them. I find it ironic that we would be putting such a 
+proposal on a minimum wage bill.
+  We certainly know that minimum wage workers are not those who can 
+take the risk of a health savings account and have the confidence that 
+they will have up to $1,000 to put into their health care before their 
+coverage kicks in.
+  In fact, we know from GAO that for those earning under $30,000 a 
+year, about 16 percent of tax filers have a health savings account 
+contribution, but for those earning $75,000 or above, that is 51 
+percent of the filings.
+  Even in that category, though, we also know, according to the 
+Commonwealth Fund, that over 40 percent of people with a $1,000 
+deductible reported that even though they had a medical problem, they 
+didn't see a doctor. They didn't fill a needed prescription or they 
+skipped a recommended test or followup visit because they didn't want 
+to have to pay directly the full amount for that under this deductible. 
+What happens in that circumstance we all know. Someone waits until they 
+get really sick, so health care costs go up because people didn't get 
+the care they need--the prevention, the tests, and so on.
+  Mr. President, I ask when I am within 5 minutes of the time for the 
+majority side that the Chair indicate that to me.
+  The PRESIDING OFFICER. The Chair will so notify the Senator from 
+Michigan.
+  Ms. STABENOW. We are in a situation now where we have to decide, are 
+we going to continue health insurance for what it should be, which is 
+pooling the risk? The whole idea of insurance is to pool the risk. We 
+want healthy, younger individuals, we want my son and daughter who are 
+healthier and younger, to buy into the same plan that I am buying into, 
+that the Presiding Officer is buying into, that others who are older 
+are buying into, so that we pool that risk. We may not need that health 
+care as frequently as our mom and dad or aunt and uncle or your 
+neighbor or colleague who has a health problem, but their ability to 
+get health coverage is kept at a reasonable cost because the risk is 
+pooled. That is what health insurance is all about.
+  That is what auto insurance is all about. We don't have auto 
+insurance where we have a pool only for people we know are going to 
+have an accident and those over here whom we know are not. We pool the 
+risk. This particular amendment expands a concept, a proposal that 
+breaks that apart. It basically encourages people who can afford
+
+[[Page 2347]]
+
+it, or who are going to gamble because they are very healthy, that they 
+are not going to need any kind of health care this coming year. They 
+get a tax benefit. They get to write off a premium for a high-
+deductible plan as long as it is in the individual market. But someone, 
+in fact, who is likely to be sick or does have children or does have 
+more risk factors or more need to see the doctor doesn't get the same 
+benefit.
+  That makes absolutely no sense to me. Certainly, when we look at how 
+we, as America, move forward on health care, that moves in the opposite 
+direction from where we need to go, of pooling the risk. We need to be 
+pooling it even further. We need to be creating large pools so we are 
+pooling the risk and lowering the cost, not doing what this talks 
+about.
+  I appreciate the great pressure we all feel right now to address 
+health care, as we should, as we must. I believe it is the single 
+driving factor for our businesses. I know in the State of Michigan, 
+with many people working in manufacturing, and those people very 
+concerned about the global economy and how we are going to compete, the 
+question of health care and how we fund health insurance becomes a 
+competitiveness issue. It is costing us jobs, the way we structure the 
+funding of health care. We also know we pay more because of the way we 
+fund it.
+  Every single time somebody with a high-deductible policy, somebody 
+who knows they have a $1,000 deductible, decides they are getting a 
+little bit sick, if they don't believe they have the money or want to 
+spend the money to go through their insurance plan they are going to go 
+to the emergency room when they are sick. Who pays when that happens? 
+We all pay. The hospital treats them and then they turn around and 
+raise the rates on everybody with insurance. That is how we get a $20 
+aspirin. That is how we get all these costs that are shifted onto 
+everyone else.
+  When the Commonwealth Fund says over 40 percent of the people with 
+these kinds of policies don't get their medical problems addressed or 
+skip a doctor or a prescription or recommended test, that means we are 
+talking about individuals who are more likely to be very ill, more 
+likely to walk into that emergency room, more likely to have their 
+costs shifted onto everyone else.
+  I urge my colleagues not to proceed with this kind of proposal. I 
+thank the chairman of the Finance Committee for his willingness to 
+seriously address the issues of health care. We intend, in the Finance 
+Committee, to have a series of hearings. Our chairman, who is a very 
+thoughtful, thorough individual, I know will be looking at a wide 
+variety of proposals. We need the opportunity to do that. My opposition 
+to this proposal does not mean that I don't believe health care is at 
+the top of the list on priorities. I do. But we need the opportunity to 
+look at all of the ramifications because what we have seen to date is 
+that this kind of proposal moves us in exactly the opposite direction.
+  We know a number of things that we can do that would take $8 billion 
+and add health insurance for people. We have colleagues--Senator Durbin 
+and Senator Lincoln--who have offered a proposal for national pooling 
+of small businesses to be able to buy into systems nationally to be 
+able to lower costs. Other colleagues have proposals as well. We know 
+we are going to have proposals to extend children's health care before 
+us very shortly. Again, I commend our chairman for his commitment to 
+the issue of expanding children's health care to all children. That is 
+an important way for us to be able to spend $8 billion and be able to 
+provide health care to more children, more families, and to lower 
+costs--not raise costs.
+  Senator Snowe and I are working on a proposal, with our distinguished 
+friend from Wyoming as well, on health IT. We know we can dramatically 
+save costs and put money back into the provision of health insurance 
+paying for health care by using health information technology. I think 
+a more productive way to spend $8 billion at this point would be to 
+provide tax incentives for our physicians and other private sector 
+providers to be able to help them purchase hardware and software, to be 
+able to do ``e-prescribing,'' to be able to use technology and have all 
+the benefits both from a quality standpoint and saving lives as well as 
+saving dollars.
+  At this point I would simply say that I believe very strongly that 
+HSAs are the wrong direction in which to go fundamentally. They do not 
+expand who receives health insurance, they do not lower costs, and I 
+believe very strongly that there are other ways to use $8 billion. The 
+Finance Committee, I have every confidence, is going to look at a wide 
+variety of opportunities, including expanding health insurance for 
+children.
+  Mr. DURBIN. Will the Senator yield for a question?
+  Ms. STABENOW. I am happy to.
+  Mr. DURBIN. Most of the analyses of health benefit accounts say they 
+primarily benefit people who are healthy and wealthy, and it seems to 
+me the challenge for health insurance in America is for those in the 
+lower income categories, and particularly those who may be vulnerable 
+from a health situation. It seems putting more money into a plan that 
+helps people who are doing fairly well in comparison to others is not 
+the right investment at this moment.
+  I wonder if the Senator from Michigan agrees with that.
+  Ms. STABENOW. I absolutely agree with our distinguished assistant 
+majority leader. Let me say I indicated a moment ago that he has a 
+better proposal himself, and Senator Lincoln. We know for the majority 
+of people who are not insured, 80 percent of those who are uninsured 
+work for small businesses. I am very excited about the approach that 
+the Senator has proposed in terms of a national pool and a tax credit 
+to help fund it. I think we all are very committed to expanding health 
+care coverage and to doing it the right way.
+  Mr. DURBIN. If the Senator from Michigan will yield on that point, 
+Senator Lincoln and I and many others have introduced a bill to help 
+small businesses buy the same kind of health insurance that is 
+available to Members of Congress. If it is good enough for us, it is 
+good enough for America. Some 250 private insurance companies across 
+America sell insurance to Federal employees and to Members of Congress. 
+What we want to do is make that insurance available to small 
+businesses. The $8 billion in this bill could be used to help small 
+businesses pay for the health insurance premiums of lower income 
+employees. Instead of focusing on the healthy and wealthy, we would be 
+focusing on businesses that want to do the right thing and need a 
+helping hand from the Tax Code.
+  I ask the Senator from Michigan, if we are going to invest money to 
+try to deal with 48 million uninsured and underinsured Americans, 
+wouldn't it be better to expand opportunities for small business than 
+to focus on those among us who are already pretty well off?
+  Ms. STABENOW. I thank my friend. I couldn't agree more. I think he 
+very eloquently stated what is in front of us. We have 8 billion 
+precious dollars in the middle of a deficit, and we have to be very 
+strategic about where we put our dollars. The proposal for small 
+business pooling is similar to what we receive. I think that is the 
+least we can do for small business, particularly when we know that 80 
+percent of the people who do not have health insurance are in small 
+businesses.
+  I thank my colleague. I know colleagues on both sides of the aisle 
+want very much to address this issue of health care. It is a question 
+of how we do it.
+  The PRESIDING OFFICER. The Senator from Michigan has 5 minutes 
+remaining.
+  Ms. STABENOW. I ask in closing at the moment that we, at a minimum, 
+withhold on this amendment; that we not proceed on this particular 
+proposal to allow us on the Finance Committee to look at all of the 
+options, to look at the facts, to look at what actually expands 
+coverage, what actually lowers costs, and do this together. This is 
+something we need to do on a bipartisan basis, and I hope we will do 
+this
+
+[[Page 2348]]
+
+in a very positive way so that when we are spending $8 billion, we know 
+we are getting every single penny of value out of that for people who 
+desperately need health care today.
+  The PRESIDING OFFICER. The Senator from Wyoming is recognized.
+  Mr. ENZI. Can I inquire as to the time remaining? I was under a 
+little different impression on the time to vote, I guess.
+  The PRESIDING OFFICER. The Senator from Wyoming has 21 minutes. The 
+Senator from Michigan has 4 minutes 20 seconds. The Senator from 
+Wyoming is recognized.
+  Mr. ENZI. I had hoped that the discussions that are happening on 
+health care would continue to happen and that they would not be a focus 
+of this particular bill. But, again, until we get some assurance that 
+there is going to be a tax package that provides for some of the impact 
+for small business, we will be discussing a variety of topics. I can 
+tell by the amendments that have been put in.
+  I need to do some clarification on this particular amendment. While I 
+encourage people to keep working across the aisle on a whole variety of 
+proposals, this particular amendment deals with helping to pay premiums 
+for high-deductible plans in the individual market, not in the group 
+market. This is in the individual market. I think everybody who works 
+with health care pretty much agrees that one of the difficulties we 
+have with health care is that primarily the premiums are paid for by 
+companies that get a huge tax deduction for doing that. When the 
+premiums are paid for that way, the insurance is paid for that way, 
+there isn't nearly as much responsibility on the part of the individual 
+to see that they are getting the best care at the lowest cost. It has 
+allowed the system to blossom and grow.
+  But this particular amendment deals with the individual nongroup 
+market. At the present time, while we allow companies to deduct 
+anything they put in for premiums, we don't allow individuals to do 
+that. We do allow individuals to buy health savings accounts. That 
+means they pay a premium for a high deductible, which helps to bring 
+down that premium and puts people in a market that they could not have 
+been in before. But the part that they get the deduction on is the part 
+that covers the deductible, the high deductible. They can put that in a 
+savings account, and they can actually roll that over from year to year 
+if they don't have to use the deductible on it. But nobody helps them 
+with the tax on their premium.
+  For most people it is the premium that is the biggest cost. For 
+individuals it is the premium that is the biggest cost. If they work 
+for a company that provides insurance, they don't have that cost. But 
+if they are an individual, they get taxed on the money they pay to pay 
+their premium.
+  What this amendment is suggesting is that we need to level the field 
+a little bit, and while they are paying a smaller premium on a high 
+deductible and allowed to deduct the portion that would be the 
+deductible, if they put that in a savings account, allowing them to 
+take part of that savings account and pay it for the premium so that 
+their premium would also be deductible.
+  I don't know where the $8 billion comes from. There is not a formal 
+score on this, but there is a 2006 informal opinion from the Treasury 
+staff. It indicates that the cost is probably going to be about $50 
+million over 5 years, which is pretty modest compared even to the cost 
+of other proposals for HSA expansion. The intent and effect would be to 
+make this HSA high-deductible option more easily available and 
+affordable outside of the employment context.
+  We have to admit, if it is an individual buying the policy, it is the 
+most portable there is in the United States. We also talked about the 
+need for portability. When someone loses their job there are some ways 
+they can still get insurance, but that runs out. But if you have a 
+health savings account, that is completely portable. It goes with you. 
+The whole works goes with you.
+  There are some small businesses that have been taking advantage of 
+this and paying the premium for their employees and then paying a 
+portion of the deductible that goes into a savings account. They found 
+that this is the only mechanism by which they could afford insurance 
+for their employees. So we are not even talking about those folks 
+because this is about ones in the individual market, which limits it 
+considerably.
+  Everyone recognizes the difficulties with health care costs and 
+obtaining health care coverage in the United States, and real solutions 
+to this growing problem has to allow individuals and families to make 
+decisions based on their unique health care needs too. We can't just 
+limit health care to those who work for particularly big corporations 
+who, also, are having problems being able to fund the insurance they 
+are buying for their people. The cost is dramatically escalating in the 
+health care area. I think it is the No. 1 concern of people across the 
+United States.
+  We have a lot of proposals that will help to bring down or at least 
+stabilize those costs. I appreciate the help we have had from people on 
+both sides of the aisle in coming up with those proposals. A lot of 
+times we have agreed on principle and now we are trying to get down to 
+details and the detail is always the tough part, but I think we can 
+make some progress.
+  I am for choices. I am for individuals and families having more 
+options for obtaining health care insurance. I think more options help 
+to bring down the cost; it is a competition factor. For that reason, I 
+support Senator Ensign's amendment to provide more choices to allow 
+individuals and families who work--not the ones working for companies 
+where the company is getting a tax deduction to buy their insurance. 
+This is for the individuals and families so they will have additional 
+options for obtaining health care coverage, especially when the 
+employer does not provide adequate options for health insurance. 
+Senator Ensign's amendment does that. It provides more choices by 
+allowing individuals without employer-based health coverage to use 
+funds from their health savings to pay for their high-deductible health 
+plan premiums. Right now they only get to use the money they have in 
+savings to take care of deductibles. We would like for them to be able 
+to take care of some of the premiums, too, which takes some of the 
+pressure off that end, and since most people in the country already get 
+that benefit through their company, which gets the tax deduction, we 
+thought it would be nice if individuals had that too.
+  I think this is a modest proposal, with an estimated score of $50 
+million over 5 years. There will not be a lot of people who will take 
+advantage of it, but there will be some people who will take advantage 
+of it, and it will provide additional options for individuals and 
+families without employer-based health coverage.
+  Mr. President, I yield the floor.
+  The PRESIDING OFFICER (Mr. Obama). The Senator from Massachusetts is 
+recognized.
+  Mr. KENNEDY. Mr. President, I am wondering whether my friend from 
+Michigan would yield me the last 4 minutes.
+  Ms. STABENOW. I am happy to yield the balance of the time to the 
+Senator from Massachusetts, the chairman of the committee.
+  Mr. KENNEDY. Mr. President, this amendment does nothing to help 
+working families, especially those earning the minimum wage. It is a 
+travesty that we are debating more tax breaks for the wealthy who use 
+health savings accounts as another way to shelter their income when we 
+should be talking about a long overdue pay increase for working 
+families.
+  The real-world impact of this amendment is one more tax break that 
+makes health savings accounts, already the most tax-preferred accounts 
+in history, even more alluring to those who are healthy and wealthy. It 
+seems my colleagues on the other side of the aisle have yet to run out 
+of more sweeteners for wealthy health savings account holders.
+  We shouldn't spend another dime on health savings accounts. At the 
+same time, there is no money--no money--
+
+[[Page 2349]]
+
+for health care for children of those who are poor or frail, there is 
+no limit to the money they want to spend for new tax breaks for the 
+wealthy.
+  Health savings accounts don't work for working families. A minimum 
+wage worker who works 40 hours a week, 52 weeks of the year, makes 
+$10,712. The deductible for a high-deductible family plan can be as 
+much as $11,000--more than the worker makes in a year. And that is just 
+the deductible, that doesn't even include the premiums.
+  These accounts are no solution for working families who are uninsured 
+or underinsured. A recent survey by the Commonwealth Fund found that 
+compared with those with traditional comprehensive insurance, families 
+using high-deductible health plans with health savings accounts were 
+less than half as likely to have been uninsured before being covered by 
+their current plan. Instead, those opening health savings accounts are 
+more likely to be healthy and wealthy and switching to a health savings 
+account to take advantage of tax breaks. Do we understand? Do we 
+understand the growth in the health savings are for people who are 
+already insured? This doesn't do anything for workers, let alone 
+minimum wage workers. Why does the increase in the minimum wage have to 
+be--have to carry the burden of providing a tax break for the 
+wealthiest individuals in this country? Why don't we put this on some 
+other program? Why is it the hardest working Americans at the lowest 
+end of the economic ladder have to be out there and to have a sweetener 
+for the wealthiest individuals? Why is it, Mr. President? That is what 
+this amendment is all about.
+  The GAO found the average income of those using health savings 
+accounts was $133,000--three times that of all tax filers. That is the 
+average income of use. We are trying to get an increase in the minimum 
+wage from $5.15 to $7.25, and our friends on the other side want to 
+have a tax break for those whose average income is $133,000. We know 
+our Republican friends are opposed to an increase in the minimum wage. 
+Isn't a vote against it enough? Do you have such disdain for hard-
+working Americans who are earning the minimum wage that you have to 
+file these kinds of amendments? Put it on your tax extenders. That is 
+what the health savings accounts were on before. Put it on that. Why 
+take it out on hard-working Americans who are at the lower end of the 
+economic ladder?
+  These plans don't work for working families because the high out-of-
+pocket costs associated with the high-deductible plan leaves these 
+families at great financial risk. It's no wonder that over half of all 
+bankruptcies in America are caused by patients unable to pay their 
+medical bills.
+  Of those who go bankrupt due to medical expenses, 75 percent had 
+health insurance but found it didn't cover the care they needed when 
+they got sick. Health savings accounts contribute to this, with those 
+who are in high-deductible health plans with the accounts twice as 
+likely to spend 5 percent or more of their income on medical costs and 
+twice as likely to delay or avoid needed health care as those with 
+traditional health plans.
+  The large majority of low- and moderate-income working families who 
+are given no choice but a high-deductible plan can't afford to fund a 
+health savings account. And many employers don't contribute to their 
+employee's accounts, and if they do, the contributions are well below 
+the funds needed to meet the high deductible.
+  While more than half of those with incomes above $50,000 contribute 
+$1,000 or more annually to their accounts, more than two-thirds of 
+those with lower incomes contribute less than $1,000, and more than 
+one-quarter are unable to contribute any money to their account.
+  Even if they manage to come up with money to put into their account, 
+those with lower incomes are disadvantaged because of the 
+regressiveness of the tax code. A family of four earning $20,000 who 
+manages to scrape together $1,000 gets no tax advantage for their 
+contribution, while a family earning $120,000 gets a $3l0 tax 
+reduction.
+  The inequity only increases with higher contributions. In the 
+unlikely event that a family earning $20,000 was able to contribute 
+$5,450, last year's maximum contribution, would still get no tax 
+advantage for their contribution, while a family earning $120,000 would 
+receive a tax break of $1,667.
+  It's no surprise that a study late last year by the Government 
+Accountability Office found that health savings accounts were being 
+disproportionately used by those with high incomes. The GAO found that 
+the average income of those using health savings accounts was $133,000, 
+almost three times that of all tax filers. And account holders in a 
+health savings account focus group acknowledged that many were using 
+their health savings accounts to shelter income.
+  Finally, the GAO noted that:
+
+       When individuals are given a choice between HSA-eligible 
+     and traditional plans . . . HSA-eligible plans may attract 
+     healthier individuals who use less health care or, as we 
+     found, higher-income individuals with the means to pay higher 
+     deductibles and the desire to accrue tax-free savings.
+
+  The adverse selection that would result will raise premiums for 
+working families in traditional plans, increasing the likelihood they 
+will join the ranks of the uninsured.
+  I urge my colleagues to vote against this amendment. Promoting health 
+savings accounts is bad health policy, it is bad tax policy, and it 
+does nothing to help low- and moderate-income working families.
+  Mr. President, I yield the floor.
+  Mr. ENZI. Mr. President, I yield the remainder of the time to the 
+Senator from Nevada.
+  Mr. ENSIGN. Mr. President, we are debating about whether to raise the 
+Federal minimum wage in our country. I think that people on both sides 
+of the aisle have agreed that it is time to raise the minimum wage in 
+this country. But health care is an important issue, and ensuring that 
+health care is more affordable, available, and accessible affects a lot 
+more people in the United States than does the minimum wage. So at the 
+same time we are helping some in our society, shouldn't we be looking 
+at ways to help many more Americans obtain health care that is 
+accessible, affordable, and available?
+  Our health care system does not work to keep costs down and quality 
+up because the people who actually receive health care services are not 
+responsible for paying for the services. The vast majority of people 
+receive health care through their employer and have low-deductible 
+policies. This provides no incentive to shop for better prices or high 
+quality of care. If there was such an incentive, most people would shop 
+for better prices and better quality. However, many people are covered 
+by a health insurance plan where they are told where to go and which 
+doctor to see. These individuals do not shop for quality or for price. 
+Market forces can improve both the quality of medicine and the cost of 
+medicine in the United States. Health savings accounts are an example 
+of one instrument that can bring the idea of market forces into the 
+health care field.
+  I can use several examples to illustrate how insurance can provide 
+the wrong incentives for people, ultimately driving up costs and 
+utilization. Try to imagine if your homeowners policy was similar to 
+what our health care policies are today. In other words, try to imagine 
+if your homeowners insurance covered items beyond the structure of your 
+home if it was damaged and destroyed. For example, what if your 
+homeowners policy covered painting the trim on your house or doing the 
+yard maintenance. If that were the case, what would happen? Well, all 
+of us would paint the trim on our houses a lot more often. And, all of 
+us would probably have landscapers instead of doing the yard work 
+ourselves. As a result, the cost of all of our homeowners insurance 
+would skyrocket.
+  We have seen the cost of health insurance skyrocket for the last 
+several decades. As the cost of health care increases every year, 
+faster than inflation, more and more Americans are becoming uninsured. 
+So, in order to try to drive down the cost of health insurance, health 
+savings accounts were created. These accounts allow individuals with a 
+high deductible health insurance plan to set aside money, tax-free,
+
+[[Page 2350]]
+
+up to a set limit, to use for routine medical expenses. Health savings 
+accounts allow individuals to shop for quality and for price.
+  With the health care system we have today, employers, who pay most of 
+the costs, indicated that something had to be done about the high cost 
+of health care. As a result, health maintenance organizations were 
+created. HMOs were supposed to help manage care, but became more about 
+managing costs. HMOs are not viewed positively by most of the American 
+people. Individuals who are enrolled in HMOs often don't have a lot of 
+choice when it comes to picking a doctor. These individuals also do not 
+get to spend a lot of time with their doctor because their doctors are 
+paid on what is called a capitated rate. This means that doctors are 
+paid a certain amount of dollars per patient.
+  The more patients these doctors can move through their offices, the 
+better off they do. As a result, the doctor-patient relationship has 
+been hurt.
+  Health savings accounts allow you to walk into the doctor's office 
+with your own money, so you will want your doctor to spend appropriate 
+time with you. Health savings accounts do something else fairly 
+wonderful. Since 30 to 35 percent of our health care costs today are 
+spent in the bureaucracy of paying the bills, every single doctor's 
+office has to hire people to collect the bills. With a health savings 
+account, you are paying for your care at the time of your visit. As a 
+result, you are not spending all of your money in an HMO, where there 
+are layers of administration when it comes to billing. Health savings 
+accounts go a long way toward eliminating a lot of the bill collecting 
+that is conducted, and the money that is saved can go into providing 
+better quality of health care in the United States.
+  My amendment is simple. It would make health savings accounts more 
+attractive. It would make it easier for people to get health care 
+coverage by allowing people to use their pre-tax Health Savings Account 
+dollars to pay for health premiums. I believe my amendment will 
+encourage more people to adopt health savings accounts.
+  Now that Federal employees are eligible for health savings accounts, 
+my family and I signed up for our own health savings accounts. We 
+actually had some health care issues with our children this last month. 
+So my wife has been spending a lot of time talking with doctors. I told 
+her to negotiate for prices and talk about quality and all of the 
+various things that shoppers do in the marketplace. When market forces 
+are brought in--whether it is with regard to cars, airplanes, or 
+computers--costs not only go down, but quality goes up.
+  I have introduced this amendment today to urge more health savings 
+accounts, so there are more market forces brought into our current 
+health care system. My amendment will make health care more affordable 
+and more accessible. It may also reduce the number of uninsured.
+  If we can bring the cost of health care down, more people will be 
+able to afford health insurance. A lot of healthy young people say: 
+Health insurance is expensive. I can use that money to do other things. 
+I am probably not going to get sick.
+  If we can bring down the cost of health care, a lot of the young 
+people who are currently choosing not to enroll in a health plan can be 
+brought into the health insurance market. What does this mean for the 
+rest of us? It means that risk will be spread out among healthier 
+people, which brings the cost of health insurance down for everyone 
+else in the system. Health insurance is all about spreading out risk. 
+What does that do? It makes health insurance even more affordable. It 
+brings in more people who are healthier and younger into the health 
+insurance market.
+  Of those 40-plus million people who are identified as not having 
+health insurance coverage today, a lot of them are young, healthy 
+people. The more of these people we can get into the health care 
+system, the more affordable health care is going to be for everyone 
+else. It can have a magical spiraling effect that can make health care 
+more accessible, more affordable, and more available to the citizens of 
+the United States.
+  Mr. President, this amendment is the right thing to do for America. 
+If Members care about getting better quality health care to more people 
+in the United States, vote for my amendment to expand health savings 
+accounts today.
+  How much time remains on both sides?
+  The PRESIDING OFFICER. Four minutes remain.
+  Mr. ENSIGN. Just on my side?
+  The PRESIDING OFFICER. On the Senator's side.
+  Mr. ENSIGN. I yield back the remainder of my time.
+  The PRESIDING OFFICER. The Senator from Michigan has 13 seconds.
+  Ms. STABENOW. Mr. President, I will take 13 seconds to say, 
+unfortunately, evidence shows exactly the opposite of what my friend is 
+saying. Any person who chooses on their own to buy insurance not 
+through an HSA will not get the same benefit.
+  If you have a child who is sick, if you are older, if you have health 
+issues, this issue does not address, unfortunately, the issues my 
+colleague has been talking about.
+  Mr. President, I raise a point of order the pending amendment 
+violates section 505(a) of House Concurrent Resolution 95, the 
+concurrent resolution on the budget for fiscal year 2004.
+  Mr. ENSIGN. I move to waive all points of order that lie against the 
+amendment, and I ask for the yeas and nays.
+  The PRESIDING OFFICER. Is there a sufficient second?
+  There is a sufficient second.
+  The question is on agreeing to the motion. The clerk will call the 
+roll.
+  The bill clerk called the roll.
+  Mr. DURBIN. I announce that the Senator from Hawaii (Mr. Inouye) and 
+the Senator from South Dakota (Mr. Johnson) are necessarily absent.
+  Mr. LOTT. The following Senators were necessarily absent: the Senator 
+from Missouri (Mr. Bond), the Senator from Alaska (Mr. Stevens), and 
+the Senator from Wyoming (Mr. Thomas).
+  The PRESIDING OFFICER. Are there any other Senators in the Chamber 
+desiring to vote?
+  The yeas and nays resulted--yeas 47, nays 48, as follows:
+
+                      [Rollcall Vote No. 26 Leg.]
+
+                                YEAS--47
+
+     Alexander
+     Allard
+     Bennett
+     Brownback
+     Bunning
+     Burr
+     Chambliss
+     Coburn
+     Cochran
+     Coleman
+     Collins
+     Corker
+     Cornyn
+     Craig
+     Crapo
+     DeMint
+     Dole
+     Domenici
+     Ensign
+     Enzi
+     Graham
+     Grassley
+     Gregg
+     Hagel
+     Hatch
+     Hutchison
+     Inhofe
+     Isakson
+     Kyl
+     Lott
+     Lugar
+     Martinez
+     McCain
+     McConnell
+     Murkowski
+     Nelson (NE)
+     Roberts
+     Sessions
+     Shelby
+     Smith
+     Snowe
+     Specter
+     Sununu
+     Thune
+     Vitter
+     Voinovich
+     Warner
+
+                                NAYS--48
+
+     Akaka
+     Baucus
+     Bayh
+     Biden
+     Bingaman
+     Boxer
+     Brown
+     Byrd
+     Cantwell
+     Cardin
+     Carper
+     Casey
+     Clinton
+     Conrad
+     Dodd
+     Dorgan
+     Durbin
+     Feingold
+     Feinstein
+     Harkin
+     Kennedy
+     Kerry
+     Klobuchar
+     Kohl
+     Landrieu
+     Lautenberg
+     Leahy
+     Levin
+     Lieberman
+     Lincoln
+     McCaskill
+     Menendez
+     Mikulski
+     Murray
+     Nelson (FL)
+     Obama
+     Pryor
+     Reed
+     Reid
+     Rockefeller
+     Salazar
+     Sanders
+     Schumer
+     Stabenow
+     Tester
+     Webb
+     Whitehouse
+     Wyden
+
+                             NOT VOTING--5
+
+     Bond
+     Inouye
+     Johnson
+     Stevens
+     Thomas
+  The PRESIDING OFFICER. On this vote, the yeas are 47, the nays are 
+48. Three-fifths of the Senators duly chosen and sworn not having voted 
+in the affirmative, the motion is rejected. The point of order is 
+sustained, and the amendment falls.
+  The Senator from Montana.
+  Mr. BAUCUS. Mr. President, I ask unanimous consent that the pending 
+amendments be temporarily laid aside and that Senator Kyl be recognized 
+to offer an amendment.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The Senator from Arizona.
+  Mr. KYL. Mr. President, I thank the chairman of the committee.
+
+[[Page 2351]]
+
+  I say to the Senator, do I understand there is a Member on his side 
+who would like to give some brief remarks?
+  Mr. BAUCUS. Mr. President, I say to my good friend from Arizona, 
+there is always a Member on our side who would like to give some brief 
+remarks. I ask, when might the Senator be ready to offer his amendment?
+  Mr. KYL. We are ready to offer the amendment. I thought what I could 
+do is get it pending, and then if someone wants to make some remarks.
+  Mr. BAUCUS. Mr. President, I asked unanimous consent that the pending 
+amendments be laid aside so Senator Kyl can offer his amendment.
+  Mr. KYL. Mr. President, as soon as the staff brings it to me, I will 
+send it to the desk.
+  There is an amendment I sent to the desk earlier, and I will briefly 
+describe it. It simply extends the provisions in the Finance Committee 
+bill that provide tax assistance to small business in terms of 
+expensing, depreciation, leasehold improvements, and so on, from the 
+period of March 31 of next year through the end of next year. So it 
+extends those provisions an additional 9 months. That legislation is 
+pending at the desk.
+
+
+                 Amendment No. 205 to Amendment No. 100
+
+  Mr. President, at this time, I send to the desk the legislation which 
+adds to that the element that provides for the pay-for or the tax 
+provisions that will ensure this is revenue neutral. So I send this 
+amendment to the desk.
+  The PRESIDING OFFICER. The clerk will report.
+  The bill clerk read as follows:
+
+       The Senator from Arizona [Mr. Kyl] proposes an amendment 
+     numbered 205 to amendment No. 100.
+
+  Mr. KYL. Mr. President, I ask unanimous consent that reading of the 
+amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+
+    (Purpose: To extend through December 31, 2008, the depreciation 
+treatment of leasehold, restaurant, and retail space improvements, and 
+                          for other purposes)
+
+       On page 4, line 21, strike ``April 1, 2008'' and insert 
+     ``January 1, 2009''.
+       On page 6, lines 5 and 6, strike ``April 1, 2008'' and 
+     insert ``January 1, 2009''.
+       On page 99, after line 19, add the following:
+
+     SEC. ___. TERMINATION OF EXCLUSION FOR QUALIFIED TUITION 
+                   REDUCTION.
+
+       (a) In General.--Section 117(d) is amended by redesignating 
+     the last paragraph as paragraph (4) and by adding after 
+     paragraph (4) the following new paragraph:
+       ``(5) Termination.--This subsection shall not apply to 
+     taxable years beginning after December 31, 2006.''.
+       (b) Effective Date.--The amendments made by this section 
+     shall apply to taxable years beginning after December 31, 
+     2006.
+
+  Mr. KYL. Mr. President, I can further describe the amendment, and we 
+can discuss it, debate it, when the chairman is ready to do that or 
+there is no one who intends to speak. I hope we can get this amendment 
+voted on as soon as possible today.
+  The PRESIDING OFFICER. The Senator from Montana.
+  Mr. BAUCUS. Mr. President, for the interest of moving this along the 
+rest of the day, there are two Senators who wish to speak, and it is my 
+hope after they speak we can get some other amendments up and start 
+voting.
+  Mr. President, I ask unanimous consent that the Senator from Ohio, 
+Mr. Brown, be allowed to speak for 10 minutes, and following Senator 
+Brown, that the Senator from Vermont, Mr. Sanders, be allowed to speak 
+for 10 minutes.
+  The PRESIDING OFFICER. Is there objection?
+  The Chair hears none, and it is so ordered.
+  The Senator from Ohio.
+  Mr. BROWN. Mr. President, I grew up in Mansfield, OH, a small, blue-
+collar city in the middle of America, a town of famous names--junior 
+highs named after U.S. Secretary of State John Sherman and the 
+legendary Johnny Appleseed; factories called Westinghouse and Tappan 
+Stove and Fisher Body. Like many of our country's greatest cities and 
+our Nation's most comfortable small towns, Mansfield has a Park Avenue 
+and a Main Street, a Central Park and a town square, a Carnegie Library 
+and a corner drugstore.
+  In those days, people who worked hard, who paid their taxes, who 
+played by the rules just about always had something to show for it. 
+Almost everyone--virtually almost everyone--in my hometown believed 
+that their children would enjoy a better life than they did. The more 
+productive they were--insurance salesmen and factory worker, clerk and 
+farmer--the better off they would be. The harder they worked, the more 
+opportunity for their children. The middle class and all that it meant 
+was much closer to them and for them than a distant aspiration.
+  One-third of this body, 32 of my colleagues, came off the campaign 
+trail victorious last November. Ten of us joined the Senate earlier 
+this month. We are here for a reason. We are here because for too long 
+Government betrayed the middle class.
+  In recent years, Ohioans have watched the drug companies write the 
+Medicare law, the oil industry dictate our Nation's energy policy, the 
+insurance companies shape our health care. And perhaps worst of all, 
+many of our largest corporations, untethered to any community, have 
+forced through a willing and compliant Congress job-killing trade 
+agreements which outsource our jobs, divide our families, and hurt our 
+communities.
+  We are here because Ohioans and people across our land understand the 
+words of Pope John Paul II:
+
+       We judge any economic system by what it does for and to 
+     ordinary people and by how it permits all to participate in 
+     it. The economy should serve the people, not the other way 
+     around.
+
+  We are here because we have heard from people who have worked hard 
+and played by the rules all their lives, yet have so little to show for 
+it. I met a man at the free clinic in Youngstown who had all but given 
+up because of his diabetes. He came to the free clinic, his blue eyes 
+tearing up, because his daughter insisted, he told me, that she simply 
+wanted him to live. The number of free clinics in Ohio--a rich State in 
+a rich country, a State known for some of the best medical facilities 
+in the world--has doubled in the last decade. In rural Appalachia, the 
+small community of Lottridge in Athens County is suffering from such 
+staggering job loss that the local food bank now serves more than 200 
+local families. And to maintain their sense of community pride and 
+togetherness, the food bank workers put up curtains and decorations to 
+resemble a general store, not a place of charity.
+  A worker in Jackson, locked out of his factory because the company 
+refused to negotiate with the union and now without health care, told 
+me his doctor advised him he needed heart surgery. ``I take aspirin 
+every day instead,'' he said, hoping his heart lasts longer than the 
+lockout.
+  A woman in Cincinnati suffering from hypertension, high blood 
+pressure, and diabetes told me, with fear in her voice, that she was 
+about to fall in the doughnut hole in the new Medicare prescription 
+drug law. She needs help, but she was hiding it from her family. ``I'm 
+so ashamed,'' she sobbed, as if it were her fault.
+  Last fall, my wife Connie was waiting in line at the local drugstore 
+in the affluent community of Shaker Heights. The woman in front of her 
+was, for all intents and purposes, negotiating prices with the 
+pharmacist to save money. ``What if I cut my pill in half and then take 
+it twice a day,'' she asked. The very understanding pharmacist told her 
+the doctor wants her to take her full medication twice a day. ``But 
+isn't it better, since I can't afford this, to take half a pill twice a 
+day than the whole pill just once?'' she asked. My wife asked the 
+pharmacist: How often does this happen? ``Every day,'' the pharmacist 
+shrugged, ``Every day, all day long.''
+  At one time, our Government looked out for its people. I wear on my 
+lapel a pin depicting a canary in a birdcage. A mine worker, 100 years 
+ago, used to take a canary down in the mines. The mine worker had no 
+government that cared enough to help him and no union strong enough to 
+help him. He was on his own. In those days, a child born in this 
+country had a life expectancy of about 46 or 47 years. Today we live
+
+[[Page 2352]]
+
+three decades longer because of what this Government has done. People 
+of faith, people in their union halls, advocates for children and for 
+women and for the poor have pushed this Government to pass clean air 
+and safe drinking water laws, to pass Medicare and Medicaid and 
+workers' compensation and mine safety laws to protect the elderly and 
+the disabled and women and children. Today it seems to be a different 
+story.
+  Will and Ariel Durant, who probably have documented a wider sweep of 
+history than any writers of the 20th century, warned us:
+
+       No society has survived without a middle class.
+
+  Something is profoundly wrong with our economy. The CEO of a major 
+retail company recently was awarded a $210 million severance package 
+after the company's stock value dropped. Yet our Nation's working 
+families, Ohio's middle-class families, often cannot afford to send 
+their sons and daughters to school. The Nation's wealthiest 1 percent 
+control as much wealth as 90 percent of the rest of us combined, yet 47 
+million of us do not have health insurance. That class difference is a 
+threat to our democratic system. A minimum wage worker earns less than 
+$11,000 a year, yet some CEOs in our country make more than $11,000 an 
+hour.
+  Today we consider legislation to raise the minimum wage from $5.15 to 
+$7.25 an hour. In the last decade, our Government has failed to raise 
+the minimum wage but given ourselves six pay increases. Those who plan 
+to vote against the minimum wage in this Chamber, those who for 10 
+years have blocked a minimum wage increase in the House of 
+Representatives and in this body, are saying to the single mother 
+working as a chambermaid in a Cleveland hotel, to a farm worker outside 
+Toledo, to a janitor in Zanesville, those who plan to vote against the 
+minimum wage are telling those minimum wage workers that they don't 
+deserve a fraction of what we get, not even a fraction.
+  There have been failures, to be sure, in this institution. And there 
+have been great moments.
+  Today, I am joined on the floor of the Senate by Senator Byrd of West 
+Virginia. Three weeks ago, I stood next to him as I was sworn in for my 
+first term and he was sworn in for his ninth term. More than 4 years 
+ago, in October of 2002, Senator Byrd stood in this Chamber and spoke 
+with prophetic wisdom about the pending war with Iraq. He instructed 
+and taught millions of Americans, and he, with Senator Kennedy, 
+inspired and emboldened many of us in the House of Representatives. I 
+was a House Member then. More than 130 of us voted against that war. He 
+warned us then that authorizing war in Iraq was ``both blind and 
+improvident.''
+  ``We are rushing into war,'' he said, ``without fully discussing why, 
+without thoroughly considering the consequences, or without making any 
+attempt to explore what steps we might take to avert conflict.''
+  I thank the senior Senator from my neighboring State of West 
+Virginia.
+  The 110th Congress brings with it the breath of bipartisanship too 
+long absent from our discourse. Democrats and Republicans alike are 
+already working toward rebuilding our Nation's middle class. Earlier 
+this week, I stood with Senator Dorgan of North Dakota and Senator 
+Graham of South Carolina as we called for a new direction in our trade 
+policy. I look forward to more of the same. Our Government needs to 
+stand up for the middle class. We know why our constituents sent us 
+here. We need to get to work. Raising the minimum wage is a very 
+important first step.
+  We must also work to create an alternative energy industry that not 
+only fosters development of renewable fuels but also creates solid 
+middle-class jobs and new businesses. We must invest in education at 
+all levels. We must provide for our veterans. We must lower the cost of 
+prescription drugs and make health care more affordable. And we must 
+finally bring our troops home from Iraq.
+  There is much work to do in this Congress. The people of this Nation 
+have placed great trust in our ability to transcend partisanship. We 
+cannot, we must not violate that trust.
+  I thank the Chair.
+  The PRESIDING OFFICER. The Senator from West Virginia.
+  Mr. BYRD. Mr. President, we cannot, we must not violate that trust.
+  This is my 49th year in the U.S. Senate. When I came here 49 years 
+ago, there was no sound system in the Senate--none. And so when a 
+Senator spoke, especially if he was giving his maiden speech, the word 
+got around that a Senator was going to make his maiden speech. Senators 
+came to the floor. The speeches, as I say, were not televised. There 
+was no audio. A Senator spoke from his desk, and he spoke out. He spoke 
+out. He spoke without an audio system. But other Senators would come 
+up. They would come closer to the Senator who was speaking. They would 
+gather around. I can remember when I made my maiden speech in the 
+Senate. It was a long time ago.
+  It has been my privilege today to sit at my desk here and listen to 
+the distinguished Senator who comes from my neighboring State just 
+across the great Ohio River. It has been my privilege to listen to him. 
+He spoke well. Senators are at their offices, most of them. A lot of 
+them heard this speech. They were not here to hear it, but I was here. 
+I wish to commend the Senator on his maiden speech. It was a good 
+speech. I like the way he spoke. I like the way he spoke from his 
+heart. That speech will be in the Record for 1,000 years. I compliment 
+the Senator. I am proud to be here in his audience today. I want him to 
+continue to take the floor and speak his mind, speak for his people and 
+to the people all across this country. I thank him for his speech. It 
+was well done. The content was splendid. It meant much to him, and it 
+meant much to me as I sat here. I thank him. May God continue to bless 
+him in his work here.
+  I yield the floor.
+  The PRESIDING OFFICER. The Senator from Massachusetts.
+  Mr. KENNEDY. Mr. President, I join my friend from West Virginia in 
+commending Mr. Brown, the Senator from Ohio, for his speech today.
+  When I first arrived here--the Senator from West Virginia probably 
+remembers--freshman Senators were rarely expected to speak. If you 
+spoke within the first 2 years, people thought you were coming along a 
+little more rapidly than others might expect. That tradition has long 
+passed. We can understand why.
+  Today in the Senate, working families and the middle class have a new 
+champion. His name is Sherrod Brown, and he comes from Ohio. He has 
+spoken eloquently and movingly and compellingly about the challenges 
+facing citizens in the small towns and big cities of his State. He 
+could be speaking for the middle class and working families in New 
+Bedford, Fall River, Lowell, Lawrence, Springfield or Worcester or 
+other places around the State of Massachusetts.
+  Mr. BYRD. Yes.
+  Mr. KENNEDY. When he summons us to the great challenge in foreign 
+policy, the war in Iraq, he speaks what is in the hearts, the souls, 
+and the minds of all Americans.
+  Mr. BYRD. Yes. And the quicker we begin that debate and the quicker 
+we begin to bring the change and alteration in policy, as he has spoken 
+to on other occasions, the better it is going to be not only for those 
+extraordinary, brave service men and women who have been fighting 
+bravely and gallantly for over 4 years in Iraq, but we will begin to 
+restore the prestige and influence of this country and the State he 
+represents and loves. I thank the Senator for an excellent statement.
+  The PRESIDING OFFICER (Mr. Brown). The Senator from New Hampshire is 
+recognized.
+  Mr. GREGG. Mr. President, it is my understanding that the Senator 
+from Vermont will be recognized for 10 minutes. Is the Senator from 
+Missouri seeking time?
+  Mrs. McCASKILL. I am.
+  Mr. GREGG. I would also like to be recognized, as would the Senator 
+from Arizona. I believe the Senator from West Virginia still has time. 
+I wonder
+
+[[Page 2353]]
+
+if we can organize an order so we know when we are going to speak. The 
+Senator from Vermont is going to speak----
+  The PRESIDING OFFICER. Under the previous order, the Senator from 
+Vermont will speak for 10 minutes.
+  Mr. GREGG. Mr. President, I ask unanimous consent that at the 
+completion of the statement of the Senator from Vermont, I be 
+recognized for 10 minutes, the Senator from Missouri for 10 minutes, 
+and the Senator from Arizona be recognized for 10 minutes.
+  The PRESIDING OFFICER. The Senator from Montana is recognized.
+  Mr. BAUCUS. Mr. President, I ask what the Senators are going to speak 
+on.
+  Mr. SANDERS. I have an amendment dealing with poverty in America.
+  Mr. GREGG. I have an amendment dealing with employee option time.
+  Mr. BAUCUS. The Senator from Arizona wants to speak on the amendment?
+  Mr. KYL. Yes.
+  Mr. BAUCUS. And the Senator from Missouri?
+  Mrs. McCASKILL. I have been asked to speak on the President's health 
+care plan today.
+  Mr. BAUCUS. For how long?
+  Mrs. McCASKILL. Less than 10 minutes.
+  Mr. BAUCUS. So the understanding is that the Senator from Vermont 
+will speak for 10 minutes, the Senator from New Hampshire for 10, the 
+Senator from Missouri for less than 10, and then Mr. Kyl for 10 
+minutes.
+  I ask unanimous consent that the order of speakers be as just stated.
+  The PRESIDING OFFICER. Is there objection?
+  Mr. BYRD. Reserving the right to object, and I will not object, we 
+have a rule which provides that a Senator who wishes to speak should 
+address the Presiding Officer and that the Senator first seeking to 
+speak shall be recognized. We have rules around here.
+  I don't much like this idea of having people stand in line to speak, 
+and when some Senator comes to the floor and seeks recognition, he or 
+she finds that somebody else already has consent to speak, and then 
+someone else, and then someone else.
+  I will not object at this moment to this batting order, this lineup 
+of speakers. I think the rules provide that if a Senator wants to 
+speak, he or she shall stand and ask for recognition. That is the way 
+to do it. So I will not object to this lineup of speakers which puts at 
+a disadvantage a Senator who has not been here to listen to this lineup 
+and who wants to come to the floor and speak--comes to the floor and 
+seeks recognition and finds that somebody else has already gotten 
+unanimous consent to speak. Let's do it right. I will not object today, 
+but let's not have this lining up of speakers. Let Senators come to the 
+floor and seek recognition and get recognition. That is what the rules 
+say. I will not object.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. BAUCUS. Mr. President, I will speak for just a minute. I very 
+much appreciate the remarks of our very good friend from West Virginia. 
+He is right. He is always right, especially on matters of procedure. It 
+is my thought that we will have no more than four. In honor of the 
+Senator's points, I deeply appreciate that sentiment. We won't go 
+beyond the four. In an attempt to try to move the bill forward, we are 
+trying to get floor speakers and, hopefully, get the amendments up so 
+that there is enough opportunity to offer their amendments and we can 
+vote on the amendments. But the Senator's basic point is absolutely 
+correct.
+  Mr. BYRD. Will the Senator yield?
+  Mr. BAUCUS. Yes.
+  Mr. BYRD. Mr. President, I thank the Senator. Senator Baucus, who is 
+the chairman and who is managing this bill--am I correct?
+  Mr. BAUCUS. At this point.
+  Mr. BYRD. He is a fine Senator. I take off my hat to him and thank 
+him for what he has said.
+  The PRESIDING OFFICER. The Senator from Vermont is recognized.
+
+
+                 Amendment No. 201 to Amendment No. 100
+
+  Mr. SANDERS. Mr. President, I ask unanimous consent that the pending 
+amendment be set aside and that it be in order for me to call up 
+amendment No. 201, and once the amendment is reported by number, I be 
+recognized under the order and, at the conclusion of my statement, the 
+amendment be set aside.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The clerk will report.
+  The bill clerk read as follows:
+
+       The Senator from Vermont [Mr. Sanders] proposes an 
+     amendment numbered 201.
+
+  Mr. SANDERS. Mr. President, I ask unanimous consent that reading of 
+the amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+
+    (Purpose: To express the sense of the Senate concerning poverty)
+
+       At the appropriate place insert the following:
+
+     SEC. __. SENSE OF THE SENATE CONCERNING POVERTY.
+
+       (a) Findings.--The Senate finds that--
+       (1) the United States has the highest rate of poverty and 
+     the highest rate of childhood poverty among 17 major 
+     countries in the Organization for Economic Cooperation and 
+     Development including Germany, France, Italy, the United 
+     Kingdom, Canada, Australia, Austria, Belgium, Denmark, 
+     Finland, Ireland, the Netherlands, Norway, Spain, Sweden, and 
+     Switzerland;
+       (2) 36,950,000 Americans are living in poverty, an increase 
+     of 5,400,000 since 2000;
+       (3) 12,896,000 children in the United States under the age 
+     of 18 lived in poverty in 2005, and the number of children 
+     living in extreme poverty rose by 87,000 from 2004 through 
+     2005;
+       (4) in 2005, an estimated 33 percent of the homeless 
+     population were children and an estimated 1,350,000 children 
+     will experience homelessness in a year;
+       (5) the number of uninsured Americans rose to 46,577,000 in 
+     2005, 1,272,000 more than in the previous year, and the 
+     number of Americans without health insurance has risen for 4 
+     consecutive years;
+       (6) the Department of Agriculture has found that, in 2005, 
+     35,100,000 people lived in households experiencing food 
+     insecurity, meaning that they did not have adequate access to 
+     enough food to meet basic dietary needs to all times due to a 
+     lack of financial resources;
+       (7) households with children experience food insecurity at 
+     more than double the rate for households without children;
+       (8) The United States has the largest gap between the rich 
+     and the poor of any major industrialized country;
+       (9) the wealthiest 400 Americans saw their combined net 
+     worth increase by $120,000,000,000 from 2004 to 2005;
+       (10) the richest 400 Americans have a combined net worth of 
+     $1,250,000,000,000 equaling the annual income of over 45 
+     percent of the entire world's population or 2,500,000,000 
+     people;
+       (11) of the world's 793 billionaires, over 400 are 
+     Americans;
+       (12) in 1989, we only had 66 billionaires in this country; 
+     and
+       (13) on January 20, 2001, President Bush stated ``In the 
+     quiet of American conscience, we know that deep, persistent 
+     poverty is unworthy of our nation's promise. Where there is 
+     suffering, there is duty. Americans in need are not 
+     strangers, they are citizens, not problems, but priorities. 
+     And all of us are diminished when any are hopeless. And I can 
+     pledge our nation to a goal: When we see that wounded 
+     traveler on the road to Jericho, we will not pass to the 
+     other side.''.
+       (b) Sense of the Senate.--It is the sense of the Senate 
+     that--
+       (1) the United States has a moral obligation to improve the 
+     lives of the 36,950,000 Americans living in poverty and the 
+     15,928,000 of those who live in extreme poverty;
+       (2) the United States has a moral obligation to reduce the 
+     enormous gap between the rich and the poor; and
+       (3) the President should immediately present to Congress a 
+     comprehensive plan to eradicate child poverty and reduce the 
+     gap between the rich and the poor by 2017.
+
+  Mr. SANDERS. Mr. President, let me begin by congratulating Senator 
+Kennedy for his strong leadership on the need to raise the minimum 
+wage--a minimum wage that has not been raised for 10 years.
+  Let me also congratulate my colleague from Ohio, the current 
+Presiding Officer, for his fine remarks, which I certainly concur with.
+  The United States of America is the richest country in the history of 
+the world. Unfortunately, despite our great wealth, nearly 13 percent 
+of our citizens are living in poverty, and we have today the highest 
+rate of childhood poverty of any major country in the industrialized 
+world. In my opinion, we have a moral responsibility to end childhood 
+poverty in America.
+
+[[Page 2354]]
+
+  Therefore, the amendment I am offering today simply expresses the 
+sense of the Senate that, No. 1, we have a moral obligation to improve 
+the lives of nearly 37 million Americans living in poverty, including 
+nearly 13 million children; No. 2, we have to address the reality that 
+in the United States today we have, by far, the most unfair 
+distribution of wealth and income of any major industrialized country, 
+and that we have a moral obligation to reduce that growing gap between 
+the rich and the poor; No. 3, and most important, this amendment calls 
+upon the President to submit a plan to Congress which eradicates 
+childhood poverty over the next decade and reduces the growing gap 
+between the rich and the poor.
+  As a nation, we are often very proud of our accomplishments. How 
+often do we hear people say, ``U.S.A., No. 1''? I share that sentiment. 
+Certainly, in so many areas our country is leading and has led the rest 
+of the world, and we are all very proud of that.
+  Unfortunately, in terms of childhood poverty, within the 
+industrialized world, we are also No. 1. We are No. 1 in having the 
+highest rate of childhood poverty among any major country in the world, 
+and that is not a No. 1 of which we should be proud.
+  According to the U.S. Census Bureau, the childhood poverty rate in 
+the United States today is nearly 18 percent. According to data from 
+the Luxembourg Income Study Group, the childhood poverty rate in the 
+United States is even higher, almost 22 percent.
+  Well, let's take a look at what childhood poverty rates are in other 
+major countries, in many of the countries that we compete against 
+economically. In Germany, the childhood poverty rate is 9 percent. In 
+France, it is 7.9 percent. In Austria, it is 6.7 percent. In Sweden, it 
+is 4.2 percent. In Norway, it is 3.4 percent. In Finland, the childhood 
+poverty rate is only 2.8 percent--2.8 percent in Finland, over 18 
+percent in the United States of America. There is something wrong with 
+that equation.
+  Have other countries succeeded when they put their minds to reducing 
+childhood poverty rates? The answer is yes.
+  In 1999, the British Government--our good friends in the United 
+Kingdom--made a commitment to address childhood poverty. Six years 
+later, child poverty in the United Kingdom had been cut by 20 percent. 
+Similar progress, as I understand it, has been made in Ireland.
+  Unfortunately, at the same time that Britain was taking important 
+steps to reduce childhood poverty, in the United States childhood 
+poverty increased by about 12 percent. The situation is bad, and we are 
+moving in the wrong direction.
+  When we hear our fellow Senators come to the floor and say the United 
+States is the greatest country on Earth, I share that sentiment. But I 
+do not share the sentiment that the greatest country on Earth should 
+have, by far, the highest rate of childhood poverty in the 
+industrialized world, and that rate is growing higher and higher. We 
+have to address that issue. We cannot sweep it under the carpet.
+  While we continue to have the highest rate of childhood poverty, and 
+while over 5 million more Americans have slipped into poverty since 
+George W. Bush has been President, there is another issue that this 
+Senate has to address, and that is the growing oligarchic nature of our 
+society. It is not talked about too much, but I think we should place 
+it on the table.
+  Today, the wealthiest 1 percent of Americans own more wealth than the 
+bottom 90 percent, and the CEOs of our largest corporations now earn 
+over 800 times what a minimum wage worker earns. Today in America the 
+wealthiest 13,000 families who constitute one one-hundredth of 1 
+percent of the population receive almost as much income as the bottom 
+20 million American families in the United States; one one-hundredth of 
+1 percent receive almost as much income as the bottom 20 million 
+American families. That, in my view, is not what America is supposed to 
+be.
+  Mr. BYRD. Here here.
+  Mr. SANDERS. Mr. President, working with the President of the United 
+States, working in a bipartisan manner, we have to come up with ideas, 
+place them on the table, and end the disgrace of having the highest 
+rate of childhood poverty in the industrialized world. Other countries 
+are making progress; we can do the same.
+  Mr. BYRD. Yes, Mr. President.
+  Mr. SANDERS. Mr. President, at the same time, we have to reverse this 
+trend by which fewer and fewer people own more and more wealth, while 
+more and more people have less; while poverty increases and while the 
+middle class shrinks.
+  The true greatness of a country does not lie in the number of 
+millionaires and billionaires that it has; rather, a great nation is 
+one in which justice, equality, and dignity prevail.
+  I close with a quote that none other than President George W. Bush 
+made on January 20, 2001. I quote from President Bush:
+
+       In the quiet of American conscience, we know that deep, 
+     persistent poverty is unworthy of our Nation's promise. Where 
+     there is suffering, there is duty. Americans in need are not 
+     strangers, they are citizens, not problems, but priorities. 
+     And all of us are diminished when any are hopeless. And I can 
+     pledge our Nation to a goal: When we see that wounded 
+     traveler on the road to Jericho, we will not pass to the 
+     other side.
+
+  George W. Bush.
+  The President was right to make that pledge, but since he made that 
+statement, we all know that over 5 million more Americans have slipped 
+into poverty, including over 1 million children.
+  Let us turn that pledge to reality. We can begin to do that by 
+raising the minimum wage, and we can begin to do that by coming up with 
+a plan, with a program, with legislation which eliminates childhood 
+poverty in America and lowers the gap between the rich and the poor.
+  I thank the Chair.
+  Mr. BYRD. Amen. Yes.
+  The PRESIDING OFFICER. Under the previous order, the Senator from New 
+Hampshire is recognized for 10 minutes.
+
+
+                 Amendment No. 203 to Amendment No. 100
+
+       (Purpose: To enable employees to use employee option time)
+
+  Mr. GREGG. Mr. President, I rise to offer an amendment to this 
+legislation which is extraordinarily relevant to the legislation. It is 
+called the employee option time amendment. It basically gives people 
+who work, especially working mothers, the opportunity to adjust their 
+work schedule so they can do things they need to do for their family by 
+allowing them to move the work schedule around so that if they have an 
+issue where one of their children may have to go in the hospital or 
+needs attention or a child has a soccer tournament or maybe there is a 
+recital or maybe there is a family event they want to go to, a wedding, 
+or they want to take a 3-day weekend to enjoy some event, such as a 
+NASCAR race or something they need to get to, this amendment allows 
+that working mother and that working family, or any worker for that 
+matter, the opportunity to have that chance.
+  In the past, it has been called flextime. We changed the title of it 
+primarily because we changed the language to make it absolutely clear 
+that this opportunity to move your work hours around is totally at the 
+discretion of the employee, that the employer cannot force the employee 
+to do this, the employer cannot require the employee to do this but, 
+rather, the employee has the option of choosing to do this in a manner 
+which they think is appropriate to their lifestyle.
+  This is not a radical idea. It is not some conservative idea. It is 
+just a basic idea of giving fairness and options to working people but 
+people who are working a 40-hour week, especially to working single 
+parents or parents generally.
+  It is so unradical and so reasonable that Federal employees--Federal 
+employees--have actually had this right to move their schedule around 
+since 1978. But every time we have tried to give it to the rest of the 
+folks who work in this country, it has been blocked. It has been 
+blocked because some people felt it was inappropriate from a collective 
+bargaining standpoint or they felt it would affect overtime or they 
+felt the employee would
+
+[[Page 2355]]
+
+be at a disadvantage relative to the employer.
+  What we have done in this amendment is make it clear that none of 
+those things could happen. This doesn't affect collective bargaining 
+agreements. Overtime cannot be affected. If a person works more hours 
+in a period, if a person exceeds the hours they are allowed to work 
+without getting overtime, overtime must be paid.
+  As I said earlier, the decision as to whether an employee pursues 
+this course of action, of choosing to move their hours around, is left 
+with the employee.
+  The way it works technically is like this. This is the way it works 
+at the Federal level with Federal employees, and this is the way it 
+would work in this amendment when it is applied to the general 
+population, especially people working 40-hour weeks.
+  If you as a working mother, for example, know you have an event 
+coming up for which you are going to need to take time off, for 
+example, as I said earlier, such as your child has to go into the 
+hospital for an operation--hopefully not, but if that is the case--or 
+there is a big event in your family life, such as a recital or major 
+athletic event, you want to know there are going to be 3 days you need 
+for a wedding or for something that is significant, you can adjust your 
+schedule so that one week you work up to 50 hours and in the next week 
+you only have to work 30 hours or anything in between. You can work 45 
+hours in one week and 35 hours in the following week, whatever works 
+relative to your schedule and your time.
+  One can see the advantage of this, especially for people who have 
+families and so much going on in their life that they do need to have 
+more flexibility in their capacity to structure their hours.
+  Today they can't do that. Today an employee simply can't do that 
+unless they are a Federal employee. If they are a Federal employee, 
+they can do that.
+  This amendment, which we have taken up before in a different form, 
+accomplishes the goal of giving parents especially, but all working 
+people who work a 40-hour week, more capacity to make that schedule fit 
+their lifestyle rather than having an arbitrary 40-hour work week 
+schedule.
+  The changes, as I have mentioned, which we made in this amendment so 
+that it addresses the concerns which have been expressed on this floor 
+before when we brought forth this idea--and this idea received a 
+majority at least once--are, as I mentioned, to make it very clear, 
+voluntary.
+  On page 2 of the amendment, it states no employee may be required to 
+participate in such a plan.
+  On page 3 (2)(ii) states that the program may be carried out only if 
+the agreement was entered into knowingly and voluntarily by such 
+employee and was not a condition of employment.
+  On page 4, it states in subsection (b) that if such an employee has 
+affirmed in writing, in a written statement that is made, kept, and 
+preserved, that the employee has voluntarily chosen to participate in 
+the program.
+  There are significant penalties in this bill for an employer who 
+violates that voluntary aspect of an employee making a choice to go 
+forward. So we have addressed that concern.
+  As I mentioned earlier, we make it very clear that in no way does 
+this abrogate the obligation to pay overtime if somebody exceeds the 80 
+hours in that 2-week period. So if you work 81 hours, you get overtime, 
+just as you would if you were under the usual agreement of 40 hours a 
+week.
+  In addition, it makes it very clear this in no way abrogates any 
+collective bargaining agreements. Most of the resistance of this 
+amendment has come from the leadership of organized labor which, for 
+some reason I don't understand, quite honestly, views this as some sort 
+of a threat or potential threat to the collective bargaining process. 
+It is not. We make it clear it is not.
+  This is simply an attempt to put all Americans on the same footing as 
+all Federal employees by giving them flextime. We call it employee 
+option time to make it absolutely clear it is the employee who has the 
+choice.
+  The amendment in the past was linked also--and this is another reason 
+it was resisted--to something called comptime. Comptime is something 
+more controversial, I admit to that. Comptime is not in this amendment. 
+Comptime isn't going to be offered as an amendment, I don't believe.
+  Rather, we are sticking purely with what has traditionally been known 
+as flextime and what has been given to Federal employees for over 20 
+years, almost 30 years.
+  It is a very reasoned approach. When one thinks about it, yes, the 
+minimum wage is going to help some people, but as a practical matter, 
+this idea of giving people more capacity to manage their schedule is 
+going to have a much greater impact on the quality of life of people 
+than raising the minimum wage. Literally millions of people are going 
+to have this authority and find it will increase their quality of life.
+  Most of the people who will receive this new opportunity to adjust 
+their schedule to fit what their family needs are not making minimum 
+wage. They may be wage earners and they may be hourly paid, but they 
+are certainly not making minimum wage. So this is going to benefit 
+literally millions of people beyond the minimum wage earners, and it is 
+especially, as I mentioned, going to benefit those people who have 
+families, and especially benefit those people who are single parents 
+trying to raise families and being in the workplace at the same time, 
+which is one of the most difficult things anybody does in our country. 
+This gives them more flexibility to manage their schedule so they can 
+do things that are important to their families.
+  It is a reasonable amendment. It is so reasonable, as I have 
+mentioned, that the Federal employees have accepted it. It has been 
+accepted by the Federal employees.
+  I ask that the amendment be called up.
+  The PRESIDING OFFICER. Without objection, the pending amendment is 
+set aside.
+  The clerk will report the amendment.
+  The legislative clerk read as follows:
+
+       The Senator from New Hampshire [Mr. Gregg], for himself, 
+     Mr. Enzi, Mr. Sununu, and Mr. Isakson, proposes an amendment 
+     numbered 203 to amendment No. 100.
+
+  Mr. GREGG. Mr. President, I ask unanimous consent that the reading of 
+the amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  (The amendment is printed in today's Record under ``Text of 
+Amendments.'')
+  Mr. GREGG. Mr. President, I ask unanimous consent that Senator 
+Alexander be added as cosponsor to the amendment.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. ENZI. Mr. President, the flexible time proposals we are debating 
+today could have a monumental impact on the lives of thousands of 
+working men, women and families in America. There are some fortunate 
+Americans, including most State and Federal workers, who already have 
+the right to flexible time scheduling. In fact, according to a national 
+study, some 43 percent of all U.S. workers have this right, and they 
+love to use it. Seventy-nine percent of the women who have to use it, 
+and 68 percent of the men who have to use it, Study on the Changing 
+Workforce, Families and Work Institute)
+  But the majority of Americans do not have access to flexible time 
+scheduling, and they deserve it, too. It could help the 67 percent of 
+Americans who say they don't have enough time with their children and 
+the 63 percent of Americans who say they don't have enough time with 
+their spouses. At the very least, it would remove one of the barriers 
+for achieving a work-life balance.
+  So who are the people who are prohibited access to this type of 
+benefit? Well, it isn't any Member of this Senate. Salaried employees 
+are not penalized for flexible work arrangements. Employers don't have 
+to increase pay for these employees if they work more in one week and 
+less in another. It isn't government employees, either. Flexible work 
+arrangements have been available in the Federal Government for almost 
+three decades.
+
+[[Page 2356]]
+
+  In fact, this program has been so successful with government 
+employees that in 1994 President Clinton issued an Executive order 
+extending it to parts of the Federal Government that had not yet had 
+the benefits of the program. President Clinton then stated, the ``Broad 
+use of flexible arrangements to enable Federal employees to better 
+balance their work and family responsibilities can increase employee 
+effectiveness and job satisfaction while decreasing turnover rates and 
+absenteeism.
+  I couldn't agree more, but now we need to go further and extend this 
+privilege to private sector workers. It is long past time to give 
+employees the choice--the same choice as Federal workers. There is no 
+reason that government employees need greater flexibility in meeting 
+and balancing the demands of work and family than private sector 
+employees.
+  There are two proposals under consideration today. Senator Gregg has 
+offered an employee option time amendment. This would give employees 
+the option of ``flexing'' their schedules over a 2-week period. 
+Basically, hourly employees who wish to could voluntarily have their 
+work hours calculated on a biweekly rather than a weekly basis. This 
+way a working mother could work 50 hours in one week and 30 hours in 
+the next week, while her husband worked an opposite schedule and their 
+children enjoyed an extra 10 hours a week with a parent. If such an 
+arrangement were made and agreed to by both the employee and the 
+employer, the employee would still be entitled to overtime for any 
+hours beyond that agreement. For example, if an employee was asked to 
+work 32 hours in a week that was scheduled to be a 30-hour week, the 
+employee would be paid overtime for the additional 2 hours.
+  I have to emphasize again, because I know my friends on the other 
+side of the aisle don't always understand this, that the flexible time 
+arrangement is entirely voluntary. In fact, the Gregg amendment 
+requires written consent from the employee, and only employees with at 
+least a year's tenure would be eligible. No employee could be pressured 
+to enter into one of these agreements. Such coercion is specifically 
+prohibited and punishable with monetary penalties.
+  The second amendment which has been offered to this bill is a little 
+different approach. Senator DeMint's amendment addresses the disparity 
+between government and private employees that has existed since 1978. 
+It essentially says government employees cannot exercise this benefit 
+until private employees have the same right. I hope we will pass the 
+Gregg amendment today and the DeMint will not be necessary. There is no 
+reason this shouldn't be the case.
+  There is a long history of support for flextime on both sides of the 
+aisle. I hope my friends won't mind if I remind them of a little of 
+this history. Although Democrats may now be attacking flextime 
+proposals and calling it a ``wage cut'', some seem to be forgetting 
+that flextime is not a new issue but one with a long, bipartisan 
+history.
+  In the early 1980s Senator Stevens led the effort to secure Federal 
+worker access to compensatory time off and flextime. In 1985 former 
+Senator Nickles shepherded a bill through the Senate that extended 
+these positive benefits to State and local employees.
+  These Senators did not foist an unpopular program onto unsuspecting 
+workers over the objections of Democrats. Both of those laws passed the 
+Senate with overwhelming, bipartisan support. Senator Kennedy voted to 
+ensure that Federal employees would have access to flextime to have the 
+scheduling options necessary to balance work and family life.
+  Senator Kennedy, along with 11 other Democrats, cosponsored the 
+Nickles bill to extend flextime and comp time to State and local 
+employees. Flextime was not a pay cut for State and local workers when 
+Senator Kennedy and other Democrats endorsed it in 1982 and 1985. And 
+it is not a pay cut for private sector employees now.
+  We are coming together--Republicans and Democrats--to raise the 
+minimum wage in this bill, and to do it with fairness for the employers 
+who will be subject to this mandate. Let us also come together to give 
+fairness to the employees who have been left out in the cold for 28 
+years. Let's give private employees the same right to arrange flexible 
+work schedules as government employees. I urge my colleagues to support 
+the Gregg amendment and, if it becomes necessary, the DeMint amendment.
+  Mr. GREGG. I yield back my time.
+  The PRESIDING OFFICER. Under the previous order, the Senator from 
+Missouri is recognized for 10 minutes.
+
+
+                              Health Care
+
+  Mrs. McCASKILL. Mr. President, I rise today to address a national 
+crisis--health care. Over the past 6 years, the number of uninsured in 
+this country has increased by 6 million people. Premiums have increased 
+by 87 percent, compared to a 20-percent increase in wages. Our most 
+vulnerable are being cut from the health care rolls. More and more are 
+in fear that their existing coverage is inadequate and it would 
+probably leave them bankrupt if, God forbid, someone in their family 
+fell seriously ill or was injured. In other words, we are in pretty bad 
+shape when it comes to health care in this country.
+  Needless to say, I was pleased President Bush finally acknowledged 
+our worsening health care crisis during his State of the Union Address 
+on Tuesday. While I was pleased with the acknowledgment, I was sorely 
+disappointed with the plan he laid out.
+  In a nutshell, the President's plan would essentially further the tax 
+burden on the middle class, hurt employees and the businesses of those 
+who offer benefits, siphon funding from community-based health centers, 
+and still leave 44 million Americans out in the cold when it comes to 
+health care coverage.
+  On Tuesday, he presented this plan to the country. Today he is 
+visiting my State, the great State of Missouri, to peddle his program, 
+attempting to sell it to the heartland.
+  Although we will be a polite audience, the show-me State got its name 
+for a reason. In Missouri, our Medicaid rolls were slashed as a result 
+of budget decisions made on the State level, leaving nearly 100,000 
+additional Missourians without any health care coverage. Also in 
+Missouri, over 25,000 children have lost their health care because of 
+cuts to our children's insurance program. In Missouri, we now have over 
+600,000 citizens who have no health care coverage at all.
+  Initially I had high hopes that the President might offer a plan that 
+would help the millions of Americans just like these Missourians who do 
+not have any health care. I was certainly looking for the President to 
+show me something a little different on Tuesday. I had hoped he might 
+look to the successful reforms occurring in other States, such as those 
+in Massachusetts and Vermont that expand access to care through risk 
+pooling or the optimistic proposals that have been presented in 
+California and Pennsylvania, to enhance State programs by creating 
+similar pooling mechanisms. These plans focus on ways to make health 
+care more affordable for every participant and increase accessibility 
+for those who are uninsured or underinsured, which is often just as 
+risky. These plans utilize options such as insurance risk pooling so 
+that large groups of people can use their numbers as leverage to bring 
+down the rates for everyone and protect those with existing conditions. 
+As many of us who have family members suffering from high blood 
+pressure, asthma, or even migraines know, these individuals may make 
+their health care plan more susceptible to higher premiums or denials 
+for coverage altogether.
+  Under the President's plan, folks can't work together for better 
+rates or protect higher risk patients from denial. They are left to 
+fend for themselves. Providers will take the low-risk participants, 
+like skimming the cream off the top, and the rest are on their own as 
+individuals in a very difficult insurance market.
+  To make matters worse, if an individual currently has a high premium 
+because of a family member's health condition, because they are older 
+or because they have simply just opted for the most comprehensive 
+coverage, the
+
+[[Page 2357]]
+
+President's plan would only allow for a certain deduction, leaving them 
+to foot the bill for a new tax increase. Let me say that again--a new 
+tax increase that is not covered.
+  Let me make this very simple and very clear. The President's plan for 
+health care embraces a tax increase for 30 million Americans. He will 
+raise taxes on 30 million Americans while only adding 3 million 
+Americans to the health care rolls. This is not a good bargain for the 
+American people. It does nothing for the working poor. This plan is 
+based on the idea of income tax deductibility. Obviously, if you are 
+working poor, your income tax deductions are not meaningful to you. You 
+don't have mortgage deductions. You don't have other deductions. You 
+don't have the kind of income for which those deductions are even 
+helpful. So this plan will increase taxes on 30 million Americans and 
+will do nothing for the working poor who are uninsured in such large 
+numbers.
+  We may know that the President wants to tax our health care for the 
+first time, but he is masking that by telling the American people, like 
+those in Missouri today, that he is offering a tax deduction. This tax 
+deduction, of course, will end up favoring the most wealthy, while 
+those at the bottom or the middle will not benefit as much. For 
+example, a tax deduction of $15,000 as proposed in the President's plan 
+would be worth over $5,000 for a family taxed at the higher bracket of 
+35 percent, the high-income earners of America, but for those in the 
+10-percent tax bracket, the poorer Americans, that deduction would only 
+be worth $1,500.
+  Furthermore, employers who offer comprehensive health care would be 
+encouraged to shift the responsibility to their employees. Even for 
+employers who offer an increase in wages to compensate for the change, 
+the individual market plans are more likely to cost more, be less 
+comprehensive, and provide a greater risk of high premiums or denial of 
+coverage for those who have existing conditions.
+  What may seem like a bargain today would not be a bargain in 10 
+years. In fact, all you have to do is look at the numbers in the 
+President's plan. It will cost our Treasury money in the beginning, but 
+it is estimated that 10 years from now there will be no cost. All you 
+have to do is look at that to realize that this is not a plan which 
+over the long run will bring stability to our health care system, 
+accessibility to our health care system, or bring down health care 
+costs.
+  As you can tell, I do not agree with forcing the middle class to 
+shoulder another tax hike. With a minimum wage that has not increased 
+in over a decade, these are the same people who are trying to afford to 
+send their kids to college with ever-spiraling tuition costs, to fill 
+their cars with gas and put food on the table. Wall Street might be 
+seeing a boost in the economy, but these folks on Main Street have not 
+seen it, and they need a break.
+  That is where I come down on this plan. Instead of asking the middle 
+class to bear another cost to their pocketbooks, we ought to look at 
+those big tax breaks to America's most wealthy. Let's look at these 
+different options. Let's use the President's plan as an opportunity to 
+have a discussion about the severity of the problems in the system and 
+what we need to do to make it better. Let's ask the tough questions and 
+examine what is out there. Let's look at why is it that the United 
+States spends 16 percent of our income on health care but other wealthy 
+countries do not spend more than 11 percent; why is it that we spend 34 
+percent of our health care dollars on administrative costs while other 
+countries are only spending 19 percent; and why is it that American 
+health insurance companies are insuring 4 percent fewer people in 
+America between 2001 and 2005, yet they have added 32 percent more 
+people to their payroll. Think about that for a minute. The health 
+insurance companies are insuring 4 percent fewer people in their health 
+insurance plans between 2001 and 2005, but in that same time they added 
+32 percent more people to their payroll. What are these additional 
+people doing if they are insuring fewer people? Could it be that they 
+are hiring more people to help them figure out ways to avoid paying 
+health insurance claims? Let's find out why an American automotive 
+giant passes on $1,500 in health care costs per car, while the Japanese 
+automaker Toyota only passes on $110.
+  Bottom line: Families are hurt by health care costs. The vulnerable 
+are at risk due to high health care costs, and businesses are 
+struggling. Health care in this country has turned into a giant game of 
+pass the buck. I, for one, can say that I thank President Bush for 
+bringing our worst domestic nightmare out of the dark. But as my 
+predecessor liked to say, the buck needs to stop right here.
+  I look forward to the many hours of debate we will need to have take 
+place in order to get this right, and we cannot stop until we get 
+there. The American people deserve this. In the meantime, I say to 
+President Bush in Missouri, you need to show us more than this.
+  I yield the remainder of my time.
+  The PRESIDING OFFICER (Mr. Salazar.) The Senator from Arizona.
+  Mr. KYL. Mr. President, I direct a question to the chairman of the 
+Finance Committee. Did he need to do some intervening business before I 
+speak?
+  Mr. BAUCUS. Yes. I thank the Senator from Arizona.
+  The PRESIDING OFFICER. The Senator Montana.
+
+
+                 Amendment No. 206 to Amendment No. 100
+
+  Mr. BAUCUS. I ask unanimous consent that the pending amendment be 
+temporarily set aside and I be allowed to call up my amendment, No. 
+206.
+  The PRESIDING OFFICER. Without objection, it is so ordered. The clerk 
+will report.
+  The legislative clerk read as follows:
+
+       The Senator from Montana [Mr. Baucus] proposes an amendment 
+     numbered 206.
+
+  Mr. BAUCUS. I ask unanimous consent that the reading of the amendment 
+be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+
+(Purpose: To express the sense of the Senate that Congress should make 
+permanent the tax incentives to make education more affordable and more 
+accessible for American families and eliminate wasteful spending, such 
+as spending on unnecessary tax loopholes, in order to fully offset the 
+      cost of such incentives and avoid forcing taxpayers to pay 
+           substantially more interest to foreign creditors)
+
+       At the appropriate place insert the following:
+
+     SEC. __. SENSE OF THE SENATE REGARDING PERMANENT TAX 
+                   INCENTIVES TO MAKE EDUCATION MORE AFFORDABLE 
+                   AND MORE ACCESSIBLE FOR AMERICAN FAMILIES.
+
+       It is the sense of the Senate that Congress should make 
+     permanent the tax incentives to make education more 
+     affordable and more accessible for American families and 
+     eliminate wasteful spending, such as spending on unnecessary 
+     tax loopholes, in order to fully offset the cost of such 
+     incentives and avoid forcing taxpayers to pay substantially 
+     more interest to foreign creditors.
+
+                           Amendment No. 205
+
+  The PRESIDING OFFICER. The Senator from Arizona.
+  Mr. KYL. It is my understanding that under a previous order, I have 
+10 minutes to speak. I will speak on the amendment that until just a 
+moment ago was pending, amendment No. 205, which is my amendment to 
+this minimum wage bill to extend provisions of the Finance Committee 
+bill from March 31 of next year through the end of next year.
+  The committee decided in its wisdom--and I note that it was a 
+unanimous vote out of the committee, a bipartisan vote--that there were 
+certain small business tax provisions that should be extended to help 
+small business pay for the minimum wage increase we would be mandating 
+by this bill. Most of the jobs are small business jobs that would be 
+affected by the minimum wage. In fact, about 60 percent of those jobs 
+are in the restaurant industry.
+  As a result, the Finance Committee took several provisions of 
+existing law and created a couple of new provisions that enable these 
+small businesses to write off their leasehold improvements or their 
+owner improvements either in a shorter period of time than they had 
+been previously allowed under the code
+
+[[Page 2358]]
+
+or, in the case of new improvements, a 15-year period which would be 
+consistent for all these entities, whether they be restaurants or 
+leasehold improvements or other new construction. This makes sense 
+under the Tax Code since one needs to conform a new building that is 
+built with leasehold improvements. If you are talking about a 
+restaurant, for example, what you build in terms of new counters or new 
+kitchen facilities is going to be the same for both. The writeoff 
+period should be the same, a consistent 15-year period in this case. 
+Certainly the Presiding Officer can appreciate the need to be able to 
+make improvements to a restaurant kind of facility and be able to write 
+those improvements off in a meaningful time under the Tax Code.
+  This was not a matter of debate. The members of the Finance Committee 
+agreed unanimously that this was good policy. But the policy was only 
+extended through the end of March of next year. The reason was that the 
+committee was committed to offsetting the cost--that is to say the loss 
+of revenue to the Treasury--with some other way of raising revenue to 
+equal that revenue which was lost. The so-called pay-for requirement, 
+requiring members of the committee to find a way to pay for the tax 
+loss, inhibited my amendment which would have extended these provisions 
+for an additional 9 months through the end of the year.
+  We now have found ways to pay for this additional extension and to 
+simplify it. What my amendment does is to take these same provisions 
+that are in the Finance Committee bill and extend them, not just 
+through the end of March of next year but through the end of December 
+next year. That obviously allows businesses to be able to plan better, 
+and if they can plan better, they can help to add to their facilities, 
+create new facilities, create new jobs. And, of course, what we ought 
+to be doing to enable small businesses to pay a minimum wage increase 
+is to be creating more business, more jobs earning more income so they 
+can afford to pay this minimum wage.
+  Another reason I offered the amendment was that there is an imbalance 
+in the Finance Committee product. One provision out of the Finance 
+Committee actually was extended for a period of 5 years. This is the 
+work opportunity tax credit. This is mostly--in fact, one witness said 
+about 95 percent of the value of this work opportunity tax credit is 
+enjoyed by big businesses because they can afford to hire the lawyers 
+and accountants to figure out how to comply with the provision. So this 
+work opportunity tax credit--the value of that is mostly something that 
+is enjoyed by the bigger businesses. That provision was extended 5 
+years.
+  All of these provisions to help the small businesses were only 
+extended through March of next year. We believed that was very much out 
+of balance. My amendment doesn't impact this 5-year extension of the 
+work opportunity tax credit, but what it does do is at least it brings 
+these other tax benefits up to the end of next year rather than just 
+the end of March of next year. So we make it slightly more beneficial 
+for small businesses and therefore somewhat improve their ability to 
+pay for the minimum wage increase.
+  I would argue that something like we have done here, that is, a 
+temporary extension of a tax benefit, should not have to be ``paid 
+for'' with a permanent change in tax policy. That makes no sense. But 
+the chairman of the committee ruled my amendment would have been out of 
+order without such a so-called pay-for, so I withdrew the amendment in 
+committee and now have reoffered it with a pay-for. It is change in 
+permanent tax policy.
+  At this moment, my staff is meeting with the staff of the committee 
+chairman and ranking member on the committee to see if there is some 
+way we can agree to pay for this modest extension with tax policy on 
+which we can all agree and not have to have a debate about. If we can 
+do that, obviously that would be my preference, and perhaps we can have 
+a vote that can be accommodated here very quickly. If staff is not able 
+to agree on what that pay-for is and we have to go forward with the one 
+I offered, we certainly want to do that. We want to have that vote as 
+soon as possible this afternoon. I will briefly describe what it is. 
+There may be some slight error in the way I describe it because I will, 
+instead of reading it, explain it the way I understand it.
+  Currently, the Tax Code would allow a discrimination between certain 
+kinds of--different people receiving free tuition at a university, for 
+example. If you work for a company and that company says: We will send 
+your child to school free, we will pick up the tuition, you have to pay 
+the tax on that benefit, it is a taxable benefit to you. Let's say the 
+tuition cost is $10,000, and your company gives you the $10,000 to pay 
+for your child, though you have to pay the taxes on that. But if you 
+are a university professor and your child wants to go to school, in 
+many cases, the school waives the tuition for your child. Right now, 
+you don't have to pay the tax on that. That is clearly discriminatory. 
+The Joint Tax Committee has recommended in a report that deals with the 
+so-called tax gap several provisions or loopholes that need to be 
+closed. This is one of those so that the Tax Code would treat everybody 
+the same. If you have tuition waived at a school, for example, it 
+doesn't matter whether you are the principal of the school, a teacher, 
+or you are an employee of another corporation that is paying for it; in 
+any event, the tax treatment is the same: You would be taxed on that 
+particular benefit. That is a fairer treatment than the current code. 
+As I say, it was recommended by the Joint Tax Committee as part of this 
+tax gap series of recommendations to enable the Internal Revenue 
+Service to collect taxes fairly and try to ensure that when the code is 
+administered, it treats all taxpayers the same.
+  As I said, if there is a concern about that and the majority would 
+like to work with us to try to find a different way to offset the cost 
+of our modest provision, we would be delighted to work with them. I 
+appreciate the willingness of the chairman of the committee to do 
+exactly that.
+  So if I could summarize, in my own words, all my amendment does is to 
+take the provisions of the Finance Committee bill that passed out of 
+the committee unanimously, that extends for small businesses certain 
+tax benefits through the end of March of next year and extend those 
+through the end of next year, December 31 of next year. That is the 
+sole effect of the amendment. I think it is something we can all agree 
+is good policy and would help to pay for the minimum wage increase we 
+are imposing on the small businesses of our country.
+  The Congressional Budget Office estimated that the minimum wage 
+increase would impose $4 billion in new costs on the private sector in 
+2009 and $5.7 billion in 2010, with the increased costs extending at 
+roughly $5 billion each year. Small businesses would incur the bulk of 
+these costs, with restaurants subject to 60 percent of those costs.
+  Therefore, it is responsible to combine the minimum wage increase 
+with tax provisions that will help these small businesses weather the 
+financial blow of the increase. That's why I am introducing my 
+amendment to extend three tax incentives that are designed to encourage 
+business investment and job creation in areas where the impact of the 
+minimum wage increase will be felt most.
+  There are three provisions. The first amends current law and is a 15-
+year recovery period for leasehold improvements and restaurant 
+renovations. The second, new provision, is a 15-year recovery period 
+for new restaurant construction. The third, also new, is a 15-year 
+recovery period for retail improvements
+  The base bill extends current law by 3 months, through the first 
+quarter of 2008. My amendment extends the time-period during which 
+renovations to leaseholds or restaurants must be completed through the 
+end of 2008 will enable more businesses to plan renovations that will 
+help them improve and expand their business operations.
+  Regarding my provision on restaurant construction, there is no policy 
+justification for providing a 39-year
+
+[[Page 2359]]
+
+depreciation recovery period for new construction, but giving 
+renovations the 15-year treatment. The floor, walls, or restrooms 
+installed in a new building are the same quality as full-scale 
+renovations and will suffer the same wear and tear. Further, 
+convenience stores--a direct competitor of quick service restaurants--
+are allowed to use a 15-year depreciation schedule for all construction 
+this treatment is permanent law for convenience stores. Ideally, all of 
+the accelerated depreciation provisions we are considering should be 
+permanent too. By allowing restaurateurs to deduct the cost of 
+renovations and new construction on a shorter schedule, many more 
+restaurant owners will be in a position to grow their businesses and 
+continue to create more jobs. By definition, encouraging more new 
+restaurants to be built means more new restaurant jobs. This is 
+important, because the restaurant industry is uniquely impacted by a 
+minimum wage increase. Of the nearly 2 million workers earning the 
+minimum wage, 60 percent work in the food service industry. Further, 
+the last time Congress increased the minimum wage, 146,000 jobs were 
+cut from restaurant industry payrolls, according to the industry.
+  Regarding the provision on retail improvements, The Small Business 
+and work Opportunity Act of 2007 provides 15-year recovery period for 
+improvements made to owner-occupied retail spaces, thus putting these 
+establishments on the same footing as the leasehold improvements 
+through the first quarter of 2008. The Kyl amendment would extend it 
+through the end of 2008. Again, extending this treatment through 2008 
+makes it more likely businesses can take advantage of the incentive.
+  Some have asked questions about the offset for these provisions. 
+Although I don't believe we need an offset, this one does the 
+following: It eliminates the present--law exclusion from gross income 
+and wages--meaning income and payroll taxes for qualified tuition 
+reductions under section 117(d) of the Tax Code. The proposal would be 
+effective for taxable years beginning after December 31, 2006.
+  I don't question whether a university or prep school wants to provide 
+free tuition as an employment perk for a professor or chancellor. But 
+it makes little sense that the rest of the taxpayers in this country 
+have to subsidize that free tuition. Senators must clearly understand, 
+if a small business wanted to give its employees' children free tuition 
+at the local college, amounts over $5,000 would be a taxable benefit. 
+And that is the right tax policy. To allow a college to provide the 
+same benefit and have it competely tax-free is unfair. And again, this 
+amendment does not eliminate the free tuition benefit.
+  Finally, let me reiterate that if we are going to increase the 
+minimum wage, it must be combined with responsible tax relief to ensure 
+that we maintain our strong and growing economy. Mr. President, the 
+scale of this tax relief does not represent what we should be passing 
+today. This is a modest proposal, and I urge my colleagues to approve 
+it.
+
+
+                 Amendment No. 207 to Amendment No. 100
+
+  Mr. BAUCUS. Mr. President, I ask unanimous consent that the pending 
+amendment be temporarily set aside and that I be allowed to call up my 
+amendment No. 207.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The clerk will report.
+  The legislative clerk read as follows:
+
+       The Senator from Montana [Mr. Baucus] proposes an amendment 
+     numbered 207 to amendment No. 100.
+
+  Mr. BAUCUS. Mr. President, I ask unanimous consent that the reading 
+of the amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+
+
+                           Amendment No. 207
+
+   (Purpose: To express the sense of the Senate that Congress should 
+repeal the 1993 tax increase on Social Security benefits and eliminate 
+ wasteful spending, such as spending on unnecessary tax loopholes, in 
+    order to fully offset the cost of such repeal and avoid forcing 
+   taxpayers to pay substantially more interest to foreign creditors)
+
+       At the appropriate place insert the following:
+
+     SEC. __. SENSE OF THE SENATE REGARDING REPEAL OF 1993 INCOME 
+                   TAX INCREASE ON SOCIAL SECURITY BENEFITS.
+
+       It is the sense of the Senate that Congress should repeal 
+     the 1993 tax increase on Social Security benefits and 
+     eliminate wasteful spending, such as spending on unnecessary 
+     tax loopholes, in order to fully offset the cost of such 
+     repeal and avoid forcing taxpayers to pay substantially more 
+     interest to foreign creditors.
+
+  Mr. BAUCUS. Mr. President, I ask unanimous consent that the time 
+until 2:05 p.m. today be for the debate on the Baucus amendment No. 207 
+and the Bunning amendment No. 119 and that the time run concurrently on 
+both amendments, with the time equally divided and controlled between 
+Senators Baucus and Bunning; that at 2:05 p.m., the Senate proceed to 
+vote in relation to the Baucus amendment, to be followed by a vote in 
+relation to the Bunning amendment; with 2 minutes of debate equally 
+divided between the votes; with no second-degree amendment in order to 
+either amendment prior to the vote.
+  The PRESIDING OFFICER. Is there objection?
+  Without objection, it is so ordered.
+  Mr. BAUCUS. Mr. President, I urge my colleagues to support my 
+amendment No. 207 which was just reported. This is essentially a 
+substitute amendment to the Bunning amendment No. 119.
+  My amendment is quite simple. It says that Congress should repeal the 
+1993 tax on Social Security benefits and eliminate wasteful spending 
+such as spending on unnecessary tax loopholes--and I might say there 
+are many of those--in order to fully offset the cost of such repeal. My 
+alternative also explains that if we do not fully offset the cost of 
+repeal, we will be paying substantially, among other things, more 
+interest to foreign creditors because we will be not paying for it, 
+essentially--and so increasing the deficit, essentially.
+  This amendment of mine, the alternative, I think is the better 
+amendment. Why? Because we have to be concerned about fiscal 
+discipline. Unlike the underlying small business tax package reported 
+out by the Finance Committee, the Bunning amendment is not paid for. 
+Indeed, to repeal this provision now, as Senator Bunning proposes, 
+would drain over $200 billion from the Treasury over the next 10 years.
+  Furthermore, the Bunning amendment would eliminate a dedicated source 
+of revenue for Medicare. As my colleagues on the other side of the 
+aisle know, we recently set up a trigger to warn us when 45 percent of 
+Medicare funding comes from general revenues and, of course, the 
+Bunning amendment would move us closer to that trigger point.
+  The dedicated funding source that would be eliminated by the Bunning 
+amendment helps pay for hospitals, nursing care, home care services for 
+the elderly, all paid for by Medicare. I think a drastic reduction in 
+that funding source, that is $200 billion worth, would impair the 
+Federal Government's ability to pay for hospital and nursing home care 
+under Medicare.
+  Furthermore, a loss of revenue such as that in the Bunning amendment 
+will make it even more difficult for us because it fails to address 
+long-term solvency and, in fact, makes long-term solvency of Social 
+Security more in peril, not less. Such a change as Senator Bunning 
+proposes is not paid for and would do great harm to both Social 
+Security and to Medicare.
+  I strongly urge my colleagues to think carefully. There is an option 
+to vote for the Baucus amendment and an option to vote on the Bunning 
+amendment. The first vote would be on the Baucus amendment. The Baucus 
+amendment is more in the nature of a sense of the Senate, and I think 
+it is the better course because, clearly, if we are to reduce the taxes 
+Senator Bunning proposes in his amendment, we have to do it 
+thoughtfully and not in a way that is not paid for, in a way that 
+threatens and imperils not only the deficit but also Medicare and 
+Social Security.
+
+[[Page 2360]]
+
+  Mr. President, I see my colleague on the floor now, and I yield the 
+floor so my colleague can speak.
+  The PRESIDING OFFICER. The Senator from Kentucky is recognized.
+
+
+                           Amendment No. 119
+
+  Mr. BUNNING. Mr. President, we will be voting on two amendments 
+shortly, both dealing with the 1993 tax placed on Social Security 
+benefits. First, let me point out I am pleased the other side 
+apparently agrees with me that these taxes need to be repealed. 
+However, only one amendment which we will be voting on today actually 
+does that, and that is my amendment.
+  My amendment, the Bunning amendment, would actually repeal the unfair 
+tax on senior citizens and provide relief. The amendment proposed by my 
+good friend, Senator Baucus, would not actually do anything. It is 
+simply a sense of the Senate.
+  This issue is fairly simple. When the Social Security program was 
+created, benefits were not taxed at all. However, since then, Congress 
+twice has added taxes on these benefits for supposedly wealthy seniors. 
+In 1993, a tax was placed on 85 percent of seniors' Social Security 
+benefits if their income was above $34,000, if they were single, or 
+$44,000 for a couple. Those are wealthy seniors. These numbers aren't 
+indexed to inflation. So what has happened is more and more senior 
+citizens are affected by them each year.
+  My amendment is fairly simple. It repeals the tax starting in 2008. 
+Seniors would not have to pay this additional tax. The amendment for 
+the other side is the type of thing known in the real world as a cover-
+your-backside amendment. It does not give America's senior citizens a 
+tax cut. All it does is provide political cover. It is a sense of the 
+Senate which says that Congress should repeal the 1993 tax. We all know 
+that a sense of the Senate amendment doesn't really mean anything. It 
+cannot be enacted into law. Congress never has to consider the issue 
+again. But our seniors will still be paying this tax.
+  My amendment actually repeals the 35-percent increase that was put on 
+seniors in 1993. I think this issue is important enough to act on 
+immediately. My amendment would do that. If my amendment were to become 
+law, the seniors would see the tax decrease on January 1, 2008. It will 
+happen instead of playing political games. The sense of the Senate 
+amendment basically thumbs its nose at American seniors. If it passes, 
+we are saying that although we agree the 1993 tax should be repealed, 
+we aren't going to do anything about it. A vote for the Bunning 
+amendment is a vote for a tax decrease on America's working seniors, on 
+January 1, 2008; that is the date, no ifs, ands or buts about it.
+  As for paying for the amendment, the amendment is paid for. It is 
+paid for exactly like a lot of other things we pay for in this body: 
+out of general fund dollars. We fund the Medicare Part A system 
+generally out of general fund dollars. Our good friend from Montana has 
+suggested there is a trigger mechanism, when we get close to a certain 
+figure, on paying for Medicare Part A out of general fund dollars, and 
+that is true. But the fact is, over a 10-year period, at about $20 
+billion a year, our senior citizens will have relief from this 
+unbelievable 35 percent increase on seniors that we put on them in 
+1993. I think it is about time we stop fooling with it and actually do 
+the job and repeal the tax of 1993. I would like to see that done 
+today.
+  Mr. BAUCUS. Mr. President, how much time remains on my side?
+  The PRESIDING OFFICER. There is 5\1/2\ minutes.
+  Mr. BAUCUS. I yield the remainder of our time to the Senator from 
+Maryland, Mr. Cardin.
+  The PRESIDING OFFICER. The Senator from Maryland is recognized.
+  Mr. CARDIN. Mr. President, let me take us back to 1993 because I had 
+the opportunity, in 1993, to serve with Senator Bunning in the other 
+body, and we were both on the Ways and Means Committee in which this 
+legislation originally was considered.
+  The tax on Social Security was increased for two reasons. It was done 
+because we wanted to be fiscally responsible and have adequate revenues 
+to pay our bills. But it was done for a second reason, and that is to 
+shore up the Social Security and Medicare trust funds so there would be 
+adequate money in the funds to pay for benefits. We wanted to be 
+responsible. But there was another reason as well. There was another 
+rationale as to why the tax was increased to that rate, and that is to 
+make it more comparable to the tax treatment of private pensions, as to 
+the amount of money the individual has already paid taxes on and that 
+which the individual has not paid taxes on. So there was rationale for 
+what was done in 1993. I wish to make sure that is clear in the record.
+  But the reason I oppose my friend's amendment, Senator Bunning's 
+amendment, is for three basic reasons. First, this amendment will add 
+$200 billion more to our national debt if it were passed. It would 
+increase our deficit by that amount of money, and all of us are 
+interested in balancing the Federal budget and moving toward balancing 
+it, not making the gap wider. We talk about fiscal responsibility, we 
+talk about pay-go, we talk about other rules. Well, let's start with 
+the amendments we are considering.
+  The second reason is I think we have to be concerned about taking our 
+general funds and putting them into the Medicare trust fund. I think 
+that is an issue we should be very concerned about. For the sake of our 
+Medicare system, Medicare Part A is financed through our payroll tax 
+and through the tax on the extra 35 percent. That is dedicated funding 
+sources our seniors can depend upon to be there for their Medicare 
+system. The Bunning amendment takes some of that money out and says: We 
+will use our general funds to pay for it. I say to my colleagues, 
+seniors are going to be a lot safer by knowing we have a dedicated 
+revenue source that goes into Medicare rather than relying on the 
+transfer of funds into the Medicare system.
+  So for the sake of our seniors and the Medicare system and for fiscal 
+responsibility, we should defeat the Bunning amendment. All of us want 
+to provide sensible tax policies for our constituents, but let's do it 
+in an orderly way.
+  This is interesting: I didn't think I would ever say this, but in the 
+Constitution, tax bills are supposed to originate in the other body, 
+and we are not following that order today by considering a tax issue on 
+the minimum wage bill. We would have been better off to keep this bill 
+limited to the minimum wage and consider tax issues when we 
+legitimately have that issue before this body.
+  I urge my colleagues to reject the Bunning amendment.
+  Mr. President, I yield the floor.
+  Mr. BUNNING. How much time do I have?
+  The PRESIDING OFFICER. The Senator has 3 minutes 40 seconds.
+  Mr. BUNNING. First of all, as my good colleague with whom I spent 12 
+years, 8 of which were spent on the Ways and Means Committee--as my 
+colleague knows, the House always has the opportunity to blue-slip the 
+bill if they do not like it because it has tax provisions added that 
+originated in the Senate. They have a chance to blue-slip if they don't 
+like the provisions. So we will send it to the House and see what they 
+do with it. So that argument is not sound basically.
+  If we want to balance the Federal budget, I suggest we not do it on 
+the backs of our senior citizens. That is what my good colleague from 
+Maryland is asking Members to do. I am asking that our seniors, our 
+most vulnerable people in society, those who are so wealthy at $33,000 
+worth of income, who have to pay and get their Medicare furnished to 
+them by the Federal Government, I ask that they not be asked to burden 
+another 35 percent increase, which they have been asked to do since 
+1993. I don't think it is fair to ask our senior citizens to carry that 
+burden when the younger Americans, who pay the bulk of our taxes, are 
+those who should be asked to pay the burden.
+  One thing I want to make sure Members understand when they vote on 
+this amendment is, never in the history of this tax has one penny of it 
+ever gone into the Social Security system--not one penny--since 1993. 
+It has all been dedicated to Medicare Part A. It has
+
+[[Page 2361]]
+
+only been dedicated to Medicare Part A because it was sinking. Then we 
+raised the cap to allow uncapped provisions to fund Medicare Part A 
+since 1993. So where we capped Social Security benefits at a certain 
+level, Medicare Part A and Medicare taxes have been uncapped. If you 
+make $5 million a year, you pay a portion of that in a tax to the 
+Medicare system.
+  Let's be honest. My amendment is the only real amendment that repeals 
+the 1993 tax on the Social Security benefits that senior citizens 
+receive each month, at the end of the month or the first of the month. 
+This is the only time we will get a chance to vote on this issue. Maybe 
+we will get another tax bill before the Senate this year. I guarantee 
+if this goes down, we will revisit this again in a later bill; it is 
+that important.
+  Our seniors are struggling to pay their bills, as is everyone else in 
+America. A tax reduction for them, 35 percent on their Social Security 
+benefits--if they saved any money, we are going to penalize them if 
+they have saved a little bit for retirement. That makes no sense at all 
+when we encourage savings every day. Now we are going to penalize them 
+with their Social Security benefits because they have an income of 
+$34,000 or $44,000?
+  I ask for the yeas and nays.
+  The PRESIDING OFFICER. Is there a sufficient second?
+  There is a sufficient second.
+  The yeas and nays were ordered.
+
+
+                       Vote on Amendment No. 207
+
+  Mr. ENZI. I ask for the yeas and nays.
+  The PRESIDING OFFICER. Is there a sufficient second?
+  There is a sufficient second.
+  The question is on agreeing to the amendment.
+  The clerk will call the roll.
+  The bill clerk called the roll.
+  Mr. DURBIN. I announce that the Senator from Connecticut (Mr. Dodd), 
+the Senator from Hawaii (Mr. Inouye), and the Senator from South Dakota 
+(Mr. Johnson) are necessarily absent.
+  Mr. LOTT. The following Senators were necessarily absent: the Senator 
+from Missouri (Mr. Bond), the Senator from Oklahoma (Mr. Coburn), the 
+Senator from Alaska (Mr. Stevens), and the Senator from Wyoming (Mr. 
+Thomas).
+  The PRESIDING OFFICER. Are there any other Senators in the Chamber 
+desiring to vote?
+  The result was announced--yeas 93, nays 0, as follows:
+
+                      [Rollcall Vote No. 27 Leg.]
+
+                                YEAS--93
+
+     Akaka
+     Alexander
+     Allard
+     Baucus
+     Bayh
+     Bennett
+     Biden
+     Bingaman
+     Boxer
+     Brown
+     Brownback
+     Bunning
+     Burr
+     Byrd
+     Cantwell
+     Cardin
+     Carper
+     Casey
+     Chambliss
+     Clinton
+     Cochran
+     Coleman
+     Collins
+     Conrad
+     Corker
+     Cornyn
+     Craig
+     Crapo
+     DeMint
+     Dole
+     Domenici
+     Dorgan
+     Durbin
+     Ensign
+     Enzi
+     Feingold
+     Feinstein
+     Graham
+     Grassley
+     Gregg
+     Hagel
+     Harkin
+     Hatch
+     Hutchison
+     Inhofe
+     Isakson
+     Kennedy
+     Kerry
+     Klobuchar
+     Kohl
+     Kyl
+     Landrieu
+     Lautenberg
+     Leahy
+     Levin
+     Lieberman
+     Lincoln
+     Lott
+     Lugar
+     Martinez
+     McCain
+     McCaskill
+     McConnell
+     Menendez
+     Mikulski
+     Murkowski
+     Murray
+     Nelson (FL)
+     Nelson (NE)
+     Obama
+     Pryor
+     Reed
+     Reid
+     Roberts
+     Rockefeller
+     Salazar
+     Sanders
+     Schumer
+     Sessions
+     Shelby
+     Smith
+     Snowe
+     Specter
+     Stabenow
+     Sununu
+     Tester
+     Thune
+     Vitter
+     Voinovich
+     Warner
+     Webb
+     Whitehouse
+     Wyden
+
+                             NOT VOTING--7
+
+     Bond
+     Coburn
+     Dodd
+     Inouye
+     Johnson
+     Stevens
+     Thomas
+  Mr. LEAHY. I move to reconsider the vote and I move to lay that 
+motion on the table.
+  The motion to lay on the table was agreed to.
+  The PRESIDING OFFICER. The Senator from Montana.
+
+
+                           Amendment No. 119
+
+  Mr. BAUCUS. Mr. President, might I inquire, what is the regular 
+order?
+  The PRESIDING OFFICER. Two minutes of debate equally divided on the 
+Bunning amendment.
+  The Senator from Kentucky is recognized.
+  Mr. BUNNING. Well, Mr. President, we just passed a sense-of-the-
+Senate amendment that does nothing to reduce the tax on our senior 
+citizens. Our good friends always say they want to only tax 
+millionaires, but it always ends up the same way, with higher taxes on 
+millions--millions of workers, millions of families, millions of small 
+businesspeople, and now, here again, millions of our senior citizens.
+  If you actually want to reduce the tax, you must vote for the Bunning 
+amendment because that is the only amendment that actually removes the 
+35-percent increase we put on our senior citizens in 1993. So I urge a 
+``yes'' vote on the Bunning amendment.
+  The PRESIDING OFFICER (Mr. Nelson of Nebraska). The Senator from 
+Montana.
+  Mr. BAUCUS. Mr. President, I oppose the Bunning amendment. It is a 
+perfect example of why we do things in committee; namely, here we are 
+on the Senate floor. This is an amendment that raises the budget 
+deficit by $200 billion. It has never been discussed. We haven't taken 
+it up in the Finance Committee. That is not a good way to legislate.
+  Second, it has the adverse consequence of increasing the deficit by 
+$200 billion. That is not a good thing to do, with all the 
+ramifications that an increase of $200 billion in the deficit will 
+have. I strongly oppose the amendment.
+  Remember, the way to work legislation, generally, is through 
+committees, as much as we possibly can. That way we will get a better 
+product. My goal in the Finance Committee is to work as a committee. If 
+we work as a committee, we are more likely to get better legislation 
+rather than ad hoc legislation out here on the floor of the Senate.
+  I urge opposition to the amendment.
+  Mr. President, I raise a point of order that the pending amendment 
+violates section 505(a) of H. Con. Res. 95, the concurrent resolution 
+on the budget for fiscal year 2004.
+  Mr. BUNNING. Mr. President, I move to waive the applicable provisions 
+of the Budget Act and ask for the yeas and nays.
+  The PRESIDING OFFICER. Is there a sufficient second?
+  There is a sufficient second.
+  The question is on agreeing to the motion. The clerk will call the 
+roll.
+  The bill clerk called the roll.
+  Mr. DURBIN. I announce that the Senator from Connecticut (Mr. Dodd), 
+the Senator from Hawaii (Mr. Inouye), and the Senator from South Dakota 
+(Mr. Johnson) are necessarily absent.
+  Mr. LOTT. The following Senators were necessarily absent: the Senator 
+from Missouri (Mr. Bond), the Senator from Oklahoma (Mr. Coburn), the 
+Senator from Alaska (Mr. Stevens), and the Senator from Wyoming (Mr. 
+Thomas).
+  The PRESIDING OFFICER. Are there any other Senators in the Chamber 
+desiring to vote?
+  The yeas and nays resulted--yeas 42, nays 51, as follows:
+
+                      [Rollcall Vote No. 28 Leg.]
+
+                                YEAS--42
+
+     Allard
+     Bennett
+     Brownback
+     Bunning
+     Burr
+     Chambliss
+     Cochran
+     Coleman
+     Collins
+     Cornyn
+     Craig
+     Crapo
+     DeMint
+     Dole
+     Domenici
+     Ensign
+     Enzi
+     Graham
+     Grassley
+     Gregg
+     Hagel
+     Hatch
+     Hutchison
+     Inhofe
+     Isakson
+     Kyl
+     Lott
+     Lugar
+     Martinez
+     McCain
+     McConnell
+     Murkowski
+     Nelson (NE)
+     Roberts
+     Sessions
+     Shelby
+     Smith
+     Specter
+     Sununu
+     Thune
+     Vitter
+     Warner
+
+                                NAYS--51
+
+     Akaka
+     Alexander
+     Baucus
+     Bayh
+     Biden
+     Bingaman
+     Boxer
+     Brown
+     Byrd
+     Cantwell
+     Cardin
+     Carper
+     Casey
+     Clinton
+     Conrad
+     Corker
+     Dorgan
+     Durbin
+     Feingold
+     Feinstein
+     Harkin
+     Kennedy
+     Kerry
+     Klobuchar
+     Kohl
+     Landrieu
+     Lautenberg
+     Leahy
+     Levin
+     Lieberman
+     Lincoln
+     McCaskill
+     Menendez
+     Mikulski
+     Murray
+     Nelson (FL)
+     Obama
+     Pryor
+     Reed
+     Reid
+     Rockefeller
+     Salazar
+     Sanders
+     Schumer
+     Snowe
+     Stabenow
+     Tester
+     Voinovich
+     Webb
+     Whitehouse
+     Wyden
+
+                             NOT VOTING--7
+
+     Bond
+     Coburn
+     Dodd
+     Inouye
+     Johnson
+     Stevens
+     Thomas
+  The PRESIDING OFFICER. On this vote, the yeas are 42, the nays are 
+51.
+
+[[Page 2362]]
+
+Three-fifths of the Senators duly chosen and sworn not having voted in 
+the affirmative, the motion is rejected. The point of order is 
+sustained and the amendment falls.
+  Mr. ENZI. Mr. President, quickly, for the benefit of my fellow 
+Senators, we are trying to get as much done as possible. I appreciate 
+the cooperation we have had. Usually the problem managers have is 
+getting people to offer amendments. We have many amendments that have 
+been offered. We need to get votes on them. Some are: Senator Smith's 
+on education tax incentives, which I think we will have in a moment; 
+Vitter's on paperwork violations; Kyl's on extended depreciation 
+provisions; Sessions' on Federal contract torts; Burr's on more 
+flextime; DeMint's on involuntary donation collections, and an 
+amendment regarding American Samoa. A lot of them are ready to go. If 
+we lock in limited debate time and get votes, it will be helpful. I 
+hope we move forward on that.
+  I yield the floor.
+  The PRESIDING OFFICER. The Senator from North Dakota is recognized.
+  Mr. DORGAN. Mr. President, I have been listening to this debate. I am 
+curious and somewhat disappointed that we have not been able to move to 
+a conclusion. This is, after all, a vote on the minimum wage. It has 
+been nearly 10 long years since the minimum wage has been increased, 
+and my hope is that we have a number of amendments, debate, and be able 
+to move this legislation forward. It now seems obvious to me this is 
+not a priority for some.
+  In 1916, a man named James Fyler died of lead poisoning. That is a 
+different way of saying he was shot 54 times. He was shot 54 times 
+because he believed people who went underground in this country to mine 
+for coal should be paid a fair wage and work in a safe workplace. He 
+lost his life for that. We fought for a century for the rights of 
+workers in this country--for the right to organize, to work in a safe 
+workplace, for child labor laws--a whole series of things that have 
+made life better for workers. Some are at the bottom rung of the 
+economic ladder.
+  Some in this Chamber have said those are just teenagers. That is not 
+true. Some teenagers certainly do work at the minimum wage. But well 
+over 70 percent of those working at minimum wage are adults; 60 percent 
+of them are women, and for one-third of them, it is the sole income for 
+their families. Many are working two and three jobs trying to make ends 
+meet. They make the beds in the hotels and motels. They work at the 
+counter of the convenience store when you stop to get gas, or get some 
+candy or something at the convenience store. They are the people we see 
+every day. They are working at the minimum wage that has been the same 
+for 10 long years.
+  I said this morning that it is puzzling to me how quickly and easily 
+legislation moves through this Chamber when it supports the big 
+interests. If it is a $104 billion benefit to allow big companies to 
+repatriate income they have made abroad by, in many cases, moving their 
+jobs abroad and being able to bring their income back and pay a 5\1/4\ 
+percent income rate--yes, this Congress did that. We said bring that 
+income back and you get to pay a 5\1/4\ percent income tax rate. How 
+many Americans would like to pay 5\1/4\ percent on their income taxes? 
+Nobody gets to do that. Some of the biggest enterprises in this 
+country--names everybody would recognize--were told by this Congress a 
+couple years ago that you can bring all that money back and pay 5\1/4\ 
+percent income taxes. Yes, you moved your jobs overseas and decided to 
+get rid of your American workers, close your American plants, and hire 
+foreign workers; but when you bring your income back, we will tax you 
+at just 5\1/4\ percent.
+  What a deal, bargain basement tax rates. That went through the 
+Congress like greased lightning. Do you think anybody was blocking 
+that? Well, Fritz Hollings, who used to sit back here, was trying to, 
+and I was. The fact is it moved through here as quick as anything you 
+have ever seen because it represented the big interests. Now all of a 
+sudden people who work at the minimum wage have their issue on the 
+floor of the Senate. Is the hallway clogged with people demanding a 
+vote on the minimum wage out there? Is anybody in the hallway in the 
+front of this building representing people who work on the minimum 
+wage? No, I am afraid not. Is this Congress moving as quickly on behalf 
+of the little guy as it is for the big guy? I am afraid that is not the 
+case.
+  I mentioned this morning the lyrics in Bob Wills' and the Texas 
+Playboys' song some 70 years ago. It plays out all the time, yes, here 
+in the Chamber of the Senate: ``The little guy picks the cotton and the 
+big guy gets the money; the little bee sucks the blossom and the big 
+bee gets the honey.''
+  One wonders whether on this issue, as simple as it is, if maybe we 
+can get to a vote, for Members of the Senate to stand up and answer the 
+question: Whose side are you on? Maybe we can get enough to stand up to 
+say I am on the side of the people who are working for a living, 
+working hard, working two and three jobs at minimum wage, without an 
+adjustment to that minimum wage in nearly 10 years, during which time 
+the value of the purchasing power of that minimum wage has dramatically 
+eroded. One wonders whether we can get a majority of the Senate, or 60 
+Senators, to stand up and say let's do this. It could not be done that 
+way, so it was brought to the floor with tax breaks for business.
+  Look, I am a big supporter of big business. They represent an engine 
+of opportunity for this country and create jobs. I support businesses. 
+Almost all of the things in this bill, such as expensing--I have been 
+involved, as have other colleagues, in trying to provide more expensing 
+opportunities for businesses. I have voted for that many times, and 
+will again. But it doesn't belong on this bill. As a price, apparently, 
+for bringing this bill to the floor, it has to have tax breaks for 
+businesses. Even with that, we cannot get it passed; even with that, we 
+are sitting here day after day waiting to see whether the Senate will 
+decide to increase the minimum wage for those folks working at the 
+bottom of the economic ladder.
+  Well, Mr. President, it is an interesting thing to watch--this 
+process of legislating. Everybody talks about watching sausage being 
+made and watching legislative processes in work, and I understand it is 
+difficult, not easy. I understand these issues are, in many cases, 
+controversial. But this ought to be the first baby step in the 
+direction of fairness for these workers. We, after all, live in a time 
+now of what is called the ``global economy,'' where there is downward 
+pressure on income for American workers.
+  Former Vice Chairman of the Federal Reserve Board Alan Blinder said, 
+with respect to the pressure on American workers, that there are 42 
+million to 56 million American jobs that are tradeable and, therefore, 
+outsourceable. We have lost 3 million jobs to overseas factories, where 
+you can hire somebody for 33 cents an hour, and he said there are 42 
+million to 56 million more. This is not somebody who is radical. This 
+is a former vice chairman of the Federal Reserve Board. He said not all 
+of those jobs will leave our country, but those that remain will have 
+downward pressure on income because they are competing with people in 
+China, Sri Lanka, and Bangladesh, who work for 30 cents or 40 cents an 
+hour.
+  There are 250 million workers who are kids age 5 to 14. Our workers 
+are told to compete with that. You cannot. There is downward pressure 
+on income of people in this country.
+  This bill deals with one part of that--the workers at the bottom of 
+the economic ladder, those who get up in the morning and are trying to 
+get their kids ready for school, and trying to figure out how to put 
+gas in the tank of the car to drive to work; and they work 8 hours and 
+they earn a little over $40. I said this morning, what about a maximum 
+wage? We have trouble getting a minimum wage through the Congress. 
+George Will, that columnist who writes in the Washington Post, says the 
+minimum wage ought to be zero. Of course, it never would affect him, so 
+it is easy for him to write that it ought to be zero. He would like to 
+take us back, I assume, just as we had great debate when the Fair Labor 
+Standards Act
+
+[[Page 2363]]
+
+was created and people said that is socialism, but it was standing up 
+for workers, requiring employers to keep track of hours of work, 
+overtime, and provide basic protections for workers. So some people 
+think the minimum wage ought to be zero.
+  Well, what about a maximum wage? I am not suggesting there ought to 
+be a maximum wage, but has anybody come to the floor to express outrage 
+when you read that the CEO leaving Exxon Corporation was making 
+$150,000 a day? Yes, that is right--a wage or income of a CEO of a 
+corporation was $150,000 a day. Think of that. Did anybody come and 
+complain about that? No, we just have columnists and colleagues 
+complaining about somebody who might earn a few bucks an hour. Sixty 
+percent of them are women, as I said, with children; 6 million children 
+live in families supported by the minimum wage. So the question, I 
+guess, that I ask at the moment is not whether we support small 
+business--I certainly do, and I will in the rest of this Congress 
+support the kinds of things that will be helpful to small businesses, 
+which are engines of growth and opportunity. That is not the question. 
+The question is, are we going to increase the minimum wage at this 
+point? It appears there is this unbelievable snail's pace in the 
+Senate. Glaciers move faster than this Chamber sometimes. Nobody ever 
+accused the Senate of speeding, but this is something quite different. 
+I am hoping that very soon--I know the folks who have been managing 
+this bill join this hope--we can decide we have had enough amendments 
+about things that have nothing to do with anything about the workers at 
+the bottom of the ladder. And maybe we can get a vote to say as a 
+Chamber, as the House has done without extraneous matters attached to 
+it, that we stand for workers who have been working at the bottom of 
+the economic ladder and have not had an adjustment in 10 years; that we 
+stand for them and believe it is important to have this adjustment. We 
+believe it will be good for our country. I hope that happens sooner 
+rather than later.
+  I yield the floor.
+  The PRESIDING OFFICER. The Senator from Maine.
+
+
+                           Amendment No. 113
+
+  Ms. COLLINS. Mr. President, I ask for the regular order with respect 
+to amendment No. 113.
+  The PRESIDING OFFICER. That amendment is pending.
+
+
+                 Amendment No. 204 to Amendment No. 113
+
+  Ms. COLLINS. Mr. President, on behalf of Senator Warner, Senator 
+Smith, and myself, I call up a second-degree amendment, amendment No. 
+204, which is at the desk.
+  The PRESIDING OFFICER. The clerk will report the amendment.
+  The bill clerk read as follows:
+
+       The Senator from Maine [Ms. Collins], for herself and Mr. 
+     Warner, proposes an amendment numbered 204 to amendment No. 
+     113.
+
+  Ms. COLLINS. Mr. President, I ask unanimous consent that the reading 
+of the amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+
+  (Purpose: To amend the Internal Revenue Code of 1986 to permanently 
+extend and increase the above-the-line deduction for teacher classroom 
+supplies and to expand such deduction to include qualified professional 
+                         development expenses)
+
+       On page 2 of the amendment, strike lines 1 through 7, and 
+     insert the following:
+       (b) Expansion of Above-the-Line Deduction for Certain 
+     Expenses of Elementary and Secondary School Teachers.--
+       (1) In general.--Subparagraph (D) of section 62(a)(2) 
+     (relating to certain trade and business deductions of 
+     employees) is amended to read as follows:
+       ``(D) Certain expenses of elementary and secondary school 
+     teachers.--The deductions allowed by section 162 which 
+     consist of expenses, not in excess of $400, paid or incurred 
+     by an eligible educator--
+       ``(i) by reason of the participation of the educator in 
+     professional development courses related to the curriculum 
+     and academic subjects in which the educator provides 
+     instruction or to the students for which the educator 
+     provides instruction, and
+       ``(ii) in connection with books, supplies (other than 
+     nonathletic supplies for courses of instruction in health or 
+     physical education), computer equipment (including related 
+     software and services) and other equipment, and supplementary 
+     materials used by the eligible educator in the classroom.''.
+       (2) Effective date.--The amendment made by this subsection 
+     shall apply to taxable years beginning after December 31, 
+     2006.
+
+  Ms. COLLINS. Mr. President, the second-degree amendment that Senators 
+Warner, Smith, and I are offering increases a deduction for 
+schoolteachers and other educators that is in current law. Our 
+amendment would increase this deduction to $400 and make it permanent. 
+This tax deduction is available to schoolteachers and other educators 
+who incur out-of-pocket expenses in order to purchase classroom 
+supplies for their students. It would also allow this above-the-line 
+tax deduction for expenses related to professional development.
+  This amendment builds on a $250 tax deduction in current law that 
+Senator Warner and I authored in 2001. It became law that year as part 
+of the tax relief package. The tax relief provided by that act to 
+schoolteachers and other educators was later extended through the end 
+of this year, but we need to act to extend it further, and I suggest 
+there is no reason we shouldn't just go ahead and make it permanent. 
+Teachers who buy classroom supplies in order to improve the educational 
+experience for their students deserve more than just our gratitude. 
+They deserve this modest tax incentive to thank them for their hard 
+work.
+  So often, teachers in my State and throughout the country spend their 
+own money to improve the classroom experience of their students. Many 
+of us are familiar with the survey of the National Education 
+Association that found that teachers spend on average $443 a year on 
+classroom supplies. Other surveys show they are spending even more than 
+that. In fact, the National School Supply and Equipment Association has 
+found that educators spend an average of $826 to supplement classroom 
+supplies, plus $926 for instructional materials on top of that--in 
+other words, a total of $1,700 out of their own pockets.
+  In most States, including mine, teachers are very modestly paid for 
+their jobs, and I think it is so impressive that despite challenging 
+jobs and modest salaries, teachers are willing to dig deep into their 
+own pockets to enrich the classroom experience because they care so 
+deeply for their students. Indeed, I have spoken with dozens of 
+teachers in Maine who tell me they routinely spend far in excess of the 
+$250 deduction limit that is in current law. I have made a practice of 
+visiting schools all over Maine. In fact, I have visited more than 160 
+schools in my State. At virtually every school I visit, I find teachers 
+who are spending their own money to benefit their students. Year after 
+year, these teachers spend hundreds of dollars on books, bulletin 
+boards, computer software, construction paper, stamps, ink pads--
+everything one can think of. Let me just give a couple of examples. For 
+example, Anita Hopkins and Kathi Toothaker, who are elementary school 
+teachers in Augusta, ME, purchased books for their students to have a 
+classroom library, as well as workbooks and sight cards. They also 
+purchased special prizes for positive reinforcement for their students. 
+Mrs. Hopkins estimates that she spends between $800 and $1,000 of her 
+own money on extra materials to make learning more fun and to create a 
+stimulating classroom environment.
+  I have proposed that we also expand the uses for this tax deduction. 
+We should make it available for teachers who incur expenses for 
+professional development. We hear a lot of discussion when the 
+provisions of No Child Left Behind are debated about the need for 
+highly qualified teachers. One of the best ways for teachers to improve 
+their qualifications is through professional development. Yet in towns 
+in my State--and I suspect throughout the country--school budgets are 
+often very tight and money for professional development is either very 
+small or nonexistent. So what I think we should do is to allow this tax 
+deduction to also apply when a teacher takes a course or attends a 
+workshop and has to pay for it out of his or her own pocket.
+  In my view, it is the students who are the ultimate beneficiaries 
+when teachers receive professional development to
+
+[[Page 2364]]
+
+sharpen their skills or to teach them a new approach to presenting 
+material to their students. Studies consistently have shown that other 
+than involved parents, the single greatest determinant of classroom 
+success is the presence of a well-qualified teacher, and educators 
+themselves understand just how important professional development is to 
+their ability to make a positive impact in the classroom.
+  The teacher tax relief we have made available since 2001 is certainly 
+a positive step, and I was very proud, along with Senator Warner, to 
+have authored that law. This amendment would increase that deduction 
+from $250 to $400, reflecting more accurately what teachers really do 
+spend, and it would also make it permanent.
+  The National Education Association, the NEA, has endorsed this 
+amendment. I ask unanimous consent that a copy of the NEA's letter be 
+printed in the Record at the conclusion of my statement.
+  The PRESIDING OFFICER (Ms. Klobuchar). Without objection, it is so 
+ordered.
+  (See exhibit 1.)
+  Ms. COLLINS. Madam President, this amendment is a small but 
+appropriate means of recognizing the many sacrifices our teachers make 
+every day to benefit the children of America.
+  I thank the Senator from Oregon for working with me on this 
+amendment. It is my understanding that it is acceptable to him. It 
+builds on the many positive provisions he has in his amendment. He is a 
+cosponsor of the amendment. He has been a real leader on educational 
+issues.
+  Shortly, I am going to ask that the amendment be adopted.
+
+                               Exhibit 1
+
+
+                               National Education Association,
+
+                                 Washington, DC, January 24, 2007.
+     Senator Susan Collins,
+     Senator John Warner,
+     U.S. Senate,
+     Washington, DC.
+       Dear Senators Collins and Warner: On behalf of the National 
+     Education Association's (NEA) 3.2 million members, we would 
+     like to express our strong support for your legislation that 
+     would increase, expand, and make permanent the tax deduction 
+     for educators' out-of-pocket classroom supply expenses. We 
+     thank you for your continued leadership and advocacy on this 
+     important issue.
+       As you know, the educator tax deduction helps recognize the 
+     financial sacrifices made by teachers and paraprofessionals, 
+     who often reach into their own pockets to purchase classroom 
+     supplies such as books, pencils, paper, and art supplies. 
+     Studies show that teachers are spending more of their own 
+     funds each year to supply their classrooms, including 
+     purchasing essential items such as pencils, glue, scissors, 
+     and facial tissues. For example, NEA's 2003 report Status of 
+     the American Public School Teacher, 2000-2001 found that 
+     teachers spent an average of $443 a year on classroom 
+     supplies. More recently, the National School Supply and 
+     Equipment Association found that in 2005-2006, educators 
+     spent out of their own pockets an average of $826.00 for 
+     supplies and an additional $926 for instructional materials, 
+     for a total of $1,752.
+       By increasing the current deduction and making it 
+     permanent, your legislation will make a real difference for 
+     many educators, who often must sacrifice other personal needs 
+     in order to pay for classroom supplies.
+       NEA also strongly supports your proposal to extend the tax 
+     deduction to cover out-of-pocket professional development 
+     expenses. Teacher quality is the single most critical factor 
+     in maximizing student achievement. Ongoing professional 
+     development is essential to ensure that educators stay up-to-
+     date on the skills and knowledge necessary to prepare 
+     students for the challenges of the 21st century. Your bill 
+     will make a critical difference in helping educators access 
+     quality training.
+       We thank you again for your work on this important 
+     legislation and look forward to continuing to work with you 
+     to support our nation's educators.
+           Sincerely,
+     Diane Shust,
+       Director of Government Relations.
+     Randall Moody,
+       Manager of Federal Policy and Politics.
+
+  Mr. WARNER. Mr. President, I rise today in support, once again, of 
+America's teachers by joining with Senator Collins in introducing an 
+amendment regarding the Teacher Tax Relief Act.
+  Senator Collins and I have worked closely for some time now in 
+support of legislation to provide our teachers with tax relief in 
+recognition of the many out-of-pocket expenses they incur as part of 
+their profession. In the 107th Congress, we were successful in 
+providing much needed tax relief for our Nations teachers with passage 
+of H.R. 3090, the Job Creation and Worker Assistance Act of 2002.
+  This legislation, which was signed into law by President Bush, 
+included the Collins/Warner Teacher Tax Relief Act of 2001 provisions 
+that provided a $250 above the line deduction for educators who incur 
+out-of-pocket expenses for supplies they bring into the classroom to 
+better the education of their students. These important provisions 
+provided almost half a billion dollars worth of tax relief to teachers 
+all across America in 2002 and 2003.
+  In the 108th Congress, we were able to successfully extend the 
+provisions of the Teacher Tax Relief Act for 2004 and 2005. In the 
+109th Congress we were able to successfully extend the provisions for 
+2006 and 2007.
+  While these provisions will provide substantial relief to America's 
+teachers, our work is not yet complete.
+  It is now estimated that the average teacher spends $826 out of their 
+own pocket each year on classroom materials--materials such as pens, 
+pencils and books. First-year teachers spend even more.
+  Why do they do this? Simply because school budgets are not adequate 
+to meet the costs of education. Our teachers dip into their own pocket 
+to better the education of America's youth.
+  Moreover, in addition to spending substantial money on classroom 
+supplies, many teachers spend even more money out of their own pocket 
+on professional development. Such expenses include tuition, fees, 
+books, and supplies associated with courses that help our teachers 
+become even better instructors.
+  The fact is that these out-of-pocket costs place lasting financial 
+burdens on our teachers. This is one reason our teachers are leaving 
+the profession. Little wonder that our country is in the midst of a 
+teacher shortage.
+  Without a doubt the Teacher Tax Relief Act of 2001 took a step 
+forward in helping to alleviate the Nation's teaching shortage by 
+providing a $250 above the line deduction for classroom expenses.
+  However, it is clear that our teachers are spending much more than 
+$250 a year out of their own pocket to better the education of our 
+children. Accordingly, Senator Collins and I have joined together to 
+take another step forward by introducing this amendment.
+  This amendment will build upon current law in three ways. The 
+amendment will:
+  (1) Increase the above-the-line deduction, as President Bush has 
+called for, from $250 allowed under current law to $400;
+  (2) Allow educators to include professional development costs within 
+that $400 deduction. Under current law, up to $250 is deductible but 
+only for classroom expenses; and
+  (3) Make the teacher tax relief provisions in the law permanent. 
+Current law sunsets the Collins/Warner provisions after 2007.
+  I will ask to have printed in the Record at the end of my statement a 
+letter from the National Education Association endorsing the Collins-
+Warner amendment, and also a letter from the Virginia Education 
+Association endorsing the Collins-Warner amendment.
+  Mr. President, our teachers have made a personal commitment to 
+educate the next generation and to strengthen America. And, in my view, 
+the Federal Government should recognize the many sacrifices our 
+teachers make in their career.
+  This teacher tax relief amendment is another step forward in 
+providing our educators with the recognition they deserve.
+  Mr. President, I ask unanimous consent that the aforementioned 
+materials be printed in the Record.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+                               National Education Association,
+
+                                 Washington, DC, January 24, 2007.
+     U.S. Senate,
+     Washington, DC.
+       Dear Senator: On behalf of the National Education 
+     Association's (NEA) 3.2 million
+
+[[Page 2365]]
+
+     members, we urge your support for an amendment to be offered 
+     by Senators Collins (R-ME) and Warner (R-VA) to the minimum 
+     wage bill that would make permanent the tax deduction for 
+     educators' out-of-pocket classroom supply expenses. Votes 
+     associated with this issue may be included in the NEA 
+     Legislative Report Card for the 110th Congress.
+       The educator tax deduction helps recognize the financial 
+     sacrifices made by teachers and paraprofessionals, who often 
+     reach into their own pockets to purchase classroom supplies. 
+     Studies show that teachers are spending more of their own 
+     funds each year to supply their classrooms, including 
+     purchasing essential items such as pencils, glue, scissors, 
+     and facial tissues. For example, the National School Supply 
+     and Equipment Association found that in 2005-2006, educators 
+     spent out of their own pockets an average of $826.00 for 
+     supplies and an additional $926 for instructional materials, 
+     for a total of $1,752.
+       The current deduction was extended at the end of 2006, but 
+     will expire again at the end of this year absent additional 
+     congressional action. Making the deduction permanent will 
+     acknowledge the sacrifices made by those who have dedicated 
+     their lives to educating our children and will alleviate the 
+     uncertainty they face as they wait each year to see if the 
+     deduction will be extended.
+       We urge your support for this important amendment.
+           Sincerely,
+     Diane Shust,
+       Director of Government Relations;
+     Randall Moody,
+       Manager of Federal Policy and Politics.
+                                  ____
+
+
+
+                               Virginia Education Association,
+
+                             Richmond, Virginia, January 25, 2007.
+     Hon. John William Warner,
+     U.S. Senate,
+     Washington, DC.
+       Dear Senator Warner: On behalf of the Virginia Education 
+     Association's (VEA) 62,000 members. I thank you for offering 
+     an amendment to the minimum wage bill that would make 
+     permanent the tax deduction for educators' out-of-pocket 
+     classroom supply expenses.
+       In Virginia we are fighting to improve the salaries of 
+     teachers and other education support professionals to bring 
+     them to the national average, so it iswonderfuI that you 
+     recognize the financial sacrifices they make when purchasing 
+     classroom supplies such as pencils, glue, scissors, and 
+     facial tissues. The National School Supply and Equipment 
+     Association found that in 2005-2006, educators spent out of 
+     their own pockets an average of $826.00 for supplies and an 
+     additional $926 for instructional materials, for a total of 
+     $1,752.
+       Your amendment acknowledges these sacrifices made by those 
+     who have dedicated their lives to educating our children.
+           Sincerely,
+
+                                                Princess Moss,
+
+                                                        President,
+                                   Virginia Education Association.
+
+  The PRESIDING OFFICER. The Senator from Oregon is recognized.
+  Mr. SMITH. Madam President, I thank Senator Collins. Her amendment is 
+important. She has been working on this issue since 2001. It does have 
+a very real impact. I certainly support her adding it to my amendment. 
+It is an important contribution to education, specifically to those who 
+are educators.
+  I will make a few remarks, but I do wish to point out that my friend 
+from North Dakota was talking about the repatriation bill that he said 
+was not for little folks, I suppose, or however he termed it. That bill 
+that was passed, by my last count, has resulted in repatriations of 
+$290 billion. These dollars have benefitted our economy and created new 
+jobs.
+  One of the reasons we have such low unemployment in this country 
+today is because of that bill. It affects regular folks, working folks, 
+and, yes, it does involve multinational companies, but these are 
+American companies which do business all over the world. Some of them 
+are in my State, like Nike. Some may even be from North Dakota.
+  What we do relative to the Tax Code has real consequences. People 
+respond to incentives. What that bill represents is truly $290 billion 
+can either come back into our economy or it is $290 billion that will 
+never come back into this economy. I am proud of that legislation 
+because it has helped working people.
+  If the Senator wanted something that will help those--let's term it 
+``those of average income''--those working Americans who would like a 
+break under the Tax Code, we did that in the Bush tax cuts, and I am 
+trying today, with this amendment, with Senator Collins' help, to 
+extend these tax cuts as they relate to education. It is hard to see 
+how anybody could be against it, and I don't suppose there are many in 
+this Chamber who truly are. Some will question the timing of bringing 
+it up now but, frankly, I have learned in 10 years around this place 
+that if you want something to move, you better hook it on to any train 
+that is moving.
+  Yes, I want to vote to raise the minimum wage, but I also want to put 
+on provisions to help the folks we are trying to help, without hurting 
+small employers, but people who are on minimum wage, particularly moms 
+and dads who are trying to save for education.
+  There are three provisions, in addition to the fourth Senator Collins 
+added to this bill, that I want to highlight. First is the deduction 
+for qualified tuition and related expenses.
+  Americans can currently deduct up to $4,000 for higher education 
+expenses, depending on their income level. In 2004, over 4.5 million 
+American students and families benefited from this deduction, including 
+almost 65,000 Oregonians, of which I am proud. I am glad we cut this 
+tax. I am glad this deduction is in there. But it is about to expire. 
+So the sooner we extend it, make it permanent, as this amendment 
+proposes to do, the better off American families will be for planning. 
+We are not talking about the rich here; we are talking about folks who 
+are trying to make education more affordable, more accessible, and 
+these are the tools of the Tax Code that enable us to do it.
+  The second provision addresses the exclusion for employer-provided 
+educational assistance. This tax benefit allows employees to exclude 
+from their gross income up to $5,250 a year of educational assistance 
+provided by their employers. We are not talking about employers; we are 
+talking about the employees who get to exclude it from their gross 
+income. This helps the very people we are also trying to help with an 
+increase in the minimum wage. It is a very popular employee benefit.
+  Third, this amendment proposes to extend certain enhancements to the 
+Coverdell education savings account. This is an important tool for 
+Americans who want to save for future education expenses. Paul 
+Coverdell was a beloved colleague of ours. I miss him. He was 
+passionate on education. I am proud his name is attached to these 
+savings accounts.
+  The 2001 Tax Act made a number of reforms to enhance these Coverdell 
+accounts. For example, it increased the annual contribution limit to 
+$2,000 from $500 and expanded the definition of ``qualified expenses'' 
+to include elementary and secondary schools. However, like the 
+exclusion for employer-provided educational assistance, these 
+enhancements expire soon. This amendment would make these improvements 
+permanent.
+  Education tax breaks are extremely important to all Americans but 
+particularly working Americans. In fact, I think we would be hard 
+pressed to find a student, parent, or teacher who does not support 
+these provisions.
+  I urge my colleagues to strengthen the education system of America 
+and make these provisions permanent. That is the whole point of this 
+amendment. If we do not succeed, I look forward to working with my 
+chairman on the Finance Committee on another vehicle to make this 
+happen. I know of his good will. I appreciate him and look forward to 
+working with him on the committee on which we both sit to make sure, if 
+this does not happen now, that it will happen soon. We are talking 
+about real people and, with this amendment, real dollars that will make 
+a real difference.
+  I yield the floor.
+  The PRESIDING OFFICER. The Senator from Maine is recognized.
+
+
+                           Amendment No. 204
+
+  Ms. COLLINS. Madam President, I ask unanimous consent that the 
+second-degree amendment, No. 204, be agreed to.
+  The PRESIDING OFFICER. Is there further debate on the amendment? If 
+not, the question is on agreeing to the amendment.
+  The amendment (No. 204) was agreed to.
+  The PRESIDING OFFICER. The Senator from Montana is recognized.
+
+[[Page 2366]]
+
+
+  Mr. BAUCUS. Madam President, I ask unanimous consent there be 40 
+minutes of debate to run concurrently on the Baucus amendment No. 206 
+and the Smith amendment No. 113, the time controlled as follows: 30 
+minutes under the control of Senator Baucus or his designee, 10 minutes 
+under the control of Senator Smith; that no further second-degree 
+amendment be in order to either amendment; that there be 2 minutes of 
+debate equally divided between the votes; that upon the use or yielding 
+back of the time, the Senate vote in relation to the Baucus amendment 
+to be followed by a vote in relation to the Smith amendment, as 
+amended.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. BAUCUS. Madam President, I will speak for a few minutes. Clearly 
+education is one of our country's highest priorities. I don't think 
+there is anybody in this body or in the other body on the other side of 
+this Capitol who will disagree with that statement. It is certainly one 
+of the most important, if not the most important. The pending Smith 
+amendment, however, is not the right way to address this issue.
+  First, the Senator did not offer his amendment in the committee of 
+jurisdiction. There have not been hearings on this amendment. The 
+committee has not had a chance to work on the amendment, and it shows. 
+First, the amendment is not paid for. It would increase the deficit by 
+$35 billion over 10 years. No. 2, it leaves in place overly complex tax 
+provisions. It needs simplification. We clearly need to consolidate the 
+myriad different education credits and deductions with which the people 
+in the country are faced and have an almost impossible time trying to 
+figure out. This amendment does not do the job.
+  It also includes controversial provisions such as the Coverdell tax 
+cuts for K-12 education, provisions I personally favor but I know many 
+Members of this body have deep public policy concerns with. We need to 
+focus on education. As chairman of the Committee on Finance, I pledge 
+that this committee will work aggressively to develop a comprehensive 
+education package that includes simplification of all the myriad 
+current tax provisions and hopefully will be much more effective--do 
+what it is supposed to do--and will also address the various needs of 
+various people in our society, especially low-income people who have a 
+hard time getting to college or getting into a voc-ed school, a 
+community college, a tribal community college, or whatnot.
+  We in America are in sixth place in a competitive index in the world 
+and most of that is due to a lower standing in higher education, 
+clearly behind Nordic countries and Singapore. To compete in a global 
+economy, we need to focus to improve our educational system. It is my 
+goal, if I have anything to do with it, in 3 or 4 or 5 years it will be 
+known in the world that it is in America where the action is, it is in 
+America where they are starting to get it right, they are starting to 
+address and to figure out ways to make sure their kids--and a little 
+older kids--are very well educated; where we Americans are so proud of 
+what we are doing and other countries will recognize what we are doing.
+  It will take work to get there, but that should be the goal, and I am 
+doing what I can to help us get there. We know about the increase in 
+college tuition and all the problems that is causing. My State of 
+Montana has an especially difficult time. More than two-thirds of the 
+students in my State receive grant aid. Frankly, that is a nationwide 
+figure. In my State it is even higher; it is 80 percent. We need 
+education assistance. Mr. President, 14,000 individuals from my State 
+claim more than $35 million in tuition fee deductions; nationwide, more 
+than 4.5 million people together claimed about $10 billion in tuition 
+fee deductions. Again, simplify, target them, make it work so we are 
+doing what we should be doing.
+  Let me talk for a few minutes about how complicated these education 
+provisions are. First, we have the HOPE scholarships and the Lifetime 
+Learning credits.
+  I might say to my colleagues, there are nine other types of tax 
+benefits for education. Here they all are. I am sure everybody knows 
+all about these and I am sure everybody understands them completely. 
+First, the student loan interest deduction; next, tax-free treatment of 
+canceled student loans; tax-free student loan repayment assistance; 
+Coverdell education savings accounts featuring tax-free earnings; 
+qualified tuition programs which also feature tax-free earnings; 
+penalty-free early distributions from any type of retirement account 
+arrangement for education costs; allowing families to cash in savings 
+bonds for education costs without having to pay tax on the interest on 
+those; tax-free educational benefits for employers; business deductions 
+for work-related education. We have over 11 that I can count, and I 
+don't think anybody knows them, not one person--maybe one person. Not 
+very many people. If we have a hard time in this body understanding 
+those, think of the poor students. Think of the families. Think of the 
+people trying to make some sense out of all this.
+  To some degree, voters in November were saying to us in Washington 
+and around the country: People in Washington aren't listening to us. We 
+have problems. They are not listening to us. Congress is a bit 
+dysfunctional. What are they doing about education? We all know the 
+need. What are they doing?
+  My goal in the committee, working very closely with Senator Kennedy 
+of the HELP Committee, is, together with their authorizing legislation 
+and our tax legislation, to get the ball rolling so we are focusing on 
+education. It is so important to me.
+  We also, I might say, need to focus on the neediest. Current tax 
+credits and deductions don't help the neediest. They don't have any 
+income to pay income tax on. It is not targeted, all these lifetime 
+scholarships and HOPE scholarships, and so forth. We had a great 
+hearing in the Committee on Finance. Maybe while we consolidate and 
+simplify--a very strong recommendation, I might say, by all those who 
+appeared before us, is combined Pell grants. So many students get their 
+aid through Pell grants. That is certainly true in community colleges, 
+it is true in tribal colleges. Those are lower income students. It is 
+Pell grants that they need and we need to boost Pell grant levels even 
+higher.
+  Also, working with Pell grants, make a simplified tax credit--maybe 
+refundable. Lower income people need the money upfront. It doesn't make 
+any difference to have it later on, a year later when they are figuring 
+out tax returns. It has to be upfront. That is another recommendation 
+given by a very impressive, persuasive witness before our committee a 
+short time ago.
+  We also need to think about covering not only tuition but also other 
+education expenses. What about books, room and board, and so forth? The 
+current major provisions cover tuition, tuition only. I think it is 
+true that some of this has to be increased. Which ones, that is the 
+question.
+  Frankly, as we are talking about helping teachers with greater 
+deductions, my view is: Find a way to give teachers greater pay. That 
+is the real solution here, rather than saying you have to get a 
+deduction so you can help pay for your students' expenses. We need to 
+get teachers better pay. Even though we don't have primary 
+jurisdiction, we are certainly creative around here. We can figure out 
+a way here in the Congress to help States pay better salaries to 
+teachers so we get even better people teaching school than we have now. 
+We have good teachers, but we need to also make sure they have the pay 
+they need.
+  The underlying minimum wage bill is paid for. This amendment is not 
+paid for. The underlying total small business package is $8.3 billion 
+and we pay for it. This is a $35 billion package, four or five times 
+that, but it is not paid for. It was not discussed in committee. 
+Slapdash here on the floor. That is not the way to do legislation. As I 
+said many times, and I keep saying it because I believe it, in the 
+Committee on Finance we are going to work as a committee because that 
+is the best way to legislate. That means working with Democrats and 
+with Republicans in a give and take to get a
+
+[[Page 2367]]
+
+committee product. I pledge to my colleagues we are going to work 
+mightily to get a very good education product from our committee in 
+conjunction with the Senator from Massachusetts, Mr. Kennedy, so the 
+right hand knows what the left hand is doing.
+  I do believe the whole is greater than the sum of the parts. With the 
+two of us working together in cooperation from both sides of the 
+aisle--and Senator Enzi, I am quite certain, has the same views--we are 
+going to do something about education here. I fully believe that will 
+happen.
+  Now I yield 10 minutes to the senior Senator from Arkansas.
+  The PRESIDING OFFICER. The Senator from Arkansas is recognized.
+  Mrs. LINCOLN. Madam President, I thank my colleague from Montana and 
+certainly my colleagues from Maine and from Oregon for their very 
+intense interest on this very important issue. I come to the floor 
+today to discuss and visit about what I also think is an enormously 
+important priority for us here in the Senate, and that is education. I 
+want to voice my support for action during the 110th Congress. I come 
+to the floor not only as a Senator from the great State of Arkansas, 
+but also as a mother. I come to the floor with twin boys in the fifth 
+grade, having completed a fifth grade chemistry test this week along 
+with a chemistry experiment, a unit test on ancient Egypt, and all the 
+while talking with our students and teachers, and realizing all of the 
+many challenges they face in making sure our children get the kind of 
+education they need to be an active and productive part of the 21st 
+century.
+  I see what not just our teachers are up against but our families as 
+well, and noticing as my husband left, not only on top of the question 
+of what's for dinner and did you pick up my cleaning, but also he 
+asked: Did you take part of that Christmas bonus and put it into the 
+children's college account? I know that working families all across 
+this country, much like mine and yours and others here, are realizing 
+the critical role that education plays, not just in our families but in 
+the success of this great country, and what it means to all of the 
+different issues we face.
+  Promoting education is an essential element of many of the efforts to 
+prepare our workforce to meet the demands of today's increasingly 
+competitive global marketplace. But it is also the key that will unlock 
+the doors to solving so many of our challenges. Making sure our 
+children are equipped with the knowledge and the skill and the tools is 
+going to make the difference between whether we do reduce our 
+dependence on foreign oil and move to renewable fuels. It is the key to 
+whether we are able to move forward in so many different scientific 
+arenas and, looking at health care, are able to provide the kind of 
+health care we need in this country, the expertise and the research 
+that is necessary there--all of these challenges we face hinge on the 
+job we do on education.
+  I have no doubt in my mind that Chairman Baucus, along with Senator 
+Grassley, working together in the Finance Committee, have every 
+intention of making sure we do our level best in this session of 
+Congress to address these issues through the incentives the Tax Code 
+can provide us to encourage and reinforce our education system--both 
+for our families as well as our educators--to do the right thing on 
+behalf of our children and our country.
+  I look forward to working with them.
+  I have enjoyed the opportunity to work with my colleagues, with 
+Chairman Baucus and Senator Grassley and my friend from Oregon, Senator 
+Smith, and Senator Collins, who have long histories of passion on this 
+issue. We look for ways to use the Tax Code as a tool to help more of 
+our children have that opportunity to receive quality education. Last 
+Congress, we together introduced the Educational Opportunity Act of 
+2006 so that existing education tax incentives are a more viable tool 
+for our students and their families and educators, particularly in our 
+rural communities. Already this year, as Chairman Baucus mentioned, the 
+Finance Committee has had some very productive hearings, good 
+conversations about what is important, what works, what doesn't; how do 
+we get it out there to the people who need it the most in order to make 
+sure the people of this country have the opportunity to give back to 
+this great land. So I commend Senator Smith and Senator Collins on 
+their efforts, and I wish to continue the dedication on this issue in 
+working with them.
+  Unfortunately, I agree with Senator Baucus: This is not the place to 
+do this. We have many things to achieve in this 110th Congress, and the 
+only way we will achieve them is if we take our time and make sure we, 
+step-by-step, make the necessary moves that need to be made to 
+accomplish all we have to do. I ran in the other day with a grocery 
+sack that I had overfilled in an attempt to hurry and get to where I 
+needed to be to do one more thing and it broke and everything went 
+everywhere. It was awful, an awful experience because I knew it was my 
+own fault. I had rushed and tried to put too much into one sack so that 
+everything else fell apart.
+  Under the wise leadership of Chairman Baucus, we have worked hard to 
+make sure we craft a proposal on small business tax relief that will be 
+productive, that will be the one step in this direction we need to take 
+in a way that will be productive, but it won't overload, so that we 
+don't get anything accomplished.
+  So I plead with my colleagues. Looking at what Chairman Baucus and 
+Ranking Member Grassley have done, with significant input and 
+consideration by the entire Finance Committee, they have put together a 
+very good package of small business tax relief to supplement the 
+minimum wage, which we all agree is extremely overdue. The comments of 
+my colleague from North Dakota couldn't have been more appropriate; the 
+fact that we are trying now, having not been able to move a simple 
+minimum wage, to do what we can do and to do it in a practical and 
+moderate way.
+  The package is a balanced one. It includes provisions that are 
+supported on both sides of the aisle, such as small business expensing, 
+the Work Opportunity Tax Credit, and the S corporation reforms.
+  The package is a responsible one. Compared to tax packages we have 
+considered in the recent past, this one is much smaller, with a price 
+tag of $8 billion, and not to mention it is completely paid for. When 
+we take things one step at a time, we can act responsibly in paying for 
+them. There is one thing we hear from our constituents, and that is: 
+Please, please recognize the debt you are creating in this country has 
+as much of an impact on our children as educating them does because 
+they are going to be the ones left holding the bag.
+  Finally, the package is targeted. When we began putting it together, 
+there were a lot of us on the committee who had priorities we wanted to 
+address. Senator Snowe and I care deeply about doing something on small 
+business health care, as does Senator Stabenow, who has mentioned it 
+many times as well. Senator Bingaman filed an amendment to expand the 
+HOPE scholarship credit. Of course, there were many others. We all have 
+our priorities, and we are all eager to address them. But if we take 
+our time, if we move step-by-step and do it correctly, we will get to 
+all of those issues. Under the leadership of Senator Baucus, he has 
+pledged to us to work diligently in the Finance Committee to be able to 
+address these issues.
+  In response, we were asked, having come to the chairman about all of 
+these issues, not to jump the gun but to focus on the bill at hand and 
+to provide the committee and the larger body the opportunity to take a 
+more thorough look in regular order, so that we can reach consensus and 
+make progress on those important issues, as we have with the small 
+business tax relief.
+  In the coming year, I know the HELP Committee will be extremely busy 
+as they focus on the reauthorizing of No Child Left Behind. As they 
+work on improving and extending our education policy from their end, I 
+know that we on the Finance Committee will be doing the same with our 
+tax policy. Chairman Baucus, through the Chair, I would like to have 
+his reassurance--
+
+[[Page 2368]]
+
+which I don't need, but I want the rest of the body to know--if he 
+could clarify for us that, yes, the Finance Committee will, indeed, be 
+taking up all of these many issues, but certainly these education 
+issues that rest heavily on many of our minds, and that it is his 
+intention to move on an education tax package, along with such other 
+reauthorizations. I know the chairman has given me his word, and I know 
+he wants to encourage others as well.
+  Mr. BAUCUS. Madam President, I ask unanimous consent that the Senator 
+from Arkansas and I be allowed to have a dialog without Senators losing 
+the right to the floor.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. BAUCUS. I would say to my good friend from Arkansas that I very 
+much want to reassure her. She is such a tremendous member of our 
+committee and such an able Senator from her State, and I know her State 
+is very proud of her. But the answer is definitely totally 100 percent 
+yes. Education is one of my passions. It is so important. It means so 
+much to me, and I know it does for all of us. I love going to schools 
+and seeing the teaching in schools. It is one of the best parts of this 
+job.
+  I also wish to make sure that our kids and grandkids have the same 
+quality of life, the same standard of living that we have been able to 
+enjoy, and that means, given the global competition we face from other 
+countries such as China and India, and so forth, we need the best, and 
+we are going to have the best.
+  So I say to my good friend, in the Committee on Finance, Senator 
+Grassley and I are a very close team on the committee and we are going 
+to move aggressively on ways to boost the availability and to help 
+people get the very best education, in conjunction with Senator Kennedy 
+and Senator Enzi, when No Child Left Behind is brought up, and other 
+authorizing legislation on education comes up, so that we can do 
+something that makes us all on both sides of the aisle proud to address 
+education.
+  Mrs. LINCOLN. Madam President, reclaiming my time, I thank the 
+chairman for that because I do think it is important. I have every 
+confidence the chairman will do that. I know he will. He has told me 
+that and he has told many others. I wanted the rest of the Senators to 
+know he truly has a commitment, in terms of recognizing that we on the 
+Finance Committee have a unique opportunity to help provide America's 
+working families with the incentives they need and the tools they need 
+to invest in their children. I know he believes in that passionately, 
+and I am so pleased he will be working with us on that, and I know he 
+will. It is obviously an extremely important issue to our friend, the 
+Senator from Oregon, and to the Senator from Maine. It is important to 
+me as a parent, as an Arkansan, and I think it is important to every 
+one of our constituents that we are desperately trying to ensure that 
+their children are given the tools to succeed in life.
+  My mother used to always say that if you want to do something nice 
+for me, do something wonderful for my children. That is what we are 
+here to say today. So after all, there should be no higher priority 
+than providing our children the opportunity to succeed, and I look 
+forward to working with the Finance Committee to do that.
+  I thank the Chair.
+  The PRESIDING OFFICER. Who yields time?
+  Mr. BAUCUS. Madam President, could I ask the time allotment on both 
+sides?
+  The PRESIDING OFFICER. The Senator has 8 minutes 30 seconds, and the 
+Senator from Wyoming has 10 minutes.
+  Mr. BAUCUS. I don't see the Senator from Oregon on the floor. I don't 
+know if other Senators wish to speak on the pending amendment. I don't 
+see other Senators on the floor. I would ask my good friend for a 
+little bit of assistance in this matter.
+  Mr. ENZI. It is my understanding they do not wish to speak. I would 
+like to reserve the time until I hear some of the other comments. I 
+have nothing to say at the moment.
+  Mr. BAUCUS. Madam President, we have two votes coming up shortly, and 
+I would like to speak to a couple of points on my amendment. 
+Essentially, my amendment is a sense of the Senate that we will, and 
+must, work under the provisions we have been discussing in the last few 
+minutes. It says we believe the taxpayers play such an important role 
+making education more affordable, and it also says we should pay for 
+it. That is something I must say, and I will say, as my good friend 
+from Minnesota as well as other Senators have said, that there are a 
+lot of ways to find the so-called pay-fors we should find, the so-
+called pay-fors, in closing tax loopholes. There is a lot of 
+constructive talk--in fact, I initiated a lot of it--about the tax gap, 
+about $350 billion of income taxes owed to the Government--owed but not 
+collected--$350 billion every year owed but not collected--without 
+raising any taxes, without passing any legislation that increases 
+taxes. That is $350 billion that should be collected, and we are not 
+collecting it. I am not saying we could get it all, but I am saying we 
+should get a lot of it. Part of that is payroll taxes that is not 
+collected. The estimates are $50 billion, $60 billion in payroll taxes 
+that are not being collected. Well, adding $30 billion, $40 billion a 
+year to the Social Security trust fund wouldn't hurt. Adding a few 
+billion dollars to the hospital insurance Part A trust fund wouldn't 
+hurt. We have to work hard to find that.
+  My point is we can find the so-called pay-fors when we do the things 
+we need to do. So this is not some big pipe dream: Sure, we are going 
+to talk about this stuff. I am saying we are going to enact the kinds 
+of provisions we are talking about. It could be up to $35 billion, 
+which is the amount contained in this amendment but which is not paid 
+for. As I mentioned, it is under the alternative amendment, that is the 
+amendment offered by the Senator from Oregon, which doesn't address the 
+complexity, it doesn't address a lot of real problems.
+  I said, perhaps a bit unfairly, it is a slapdash amendment on the 
+floor, but it is true it is an amendment of first impression. This is 
+the first we have seen it. It never came up in the committee. I am 
+trying, in a small way in this Congress, to try to anticipate subjects 
+that are going to come up on the floor, anticipate major amendments 
+that are going to come up on the floor, in the committee of 
+jurisdiction, the Committee on Finance, and have hearings on them. 
+Let's get experts to come and tell us about them so we can modify them 
+and make them work, rather than seeing them for the first time on the 
+floor and wondering what in the heck this is and what it is all about.
+  So I would urge my colleagues to support the sense of the Senate 
+amendment which I am offering. I think it is the right way to get at 
+the problem. As I have said many times, I pledge to my colleagues that 
+we on the Finance Committee are going to dig into this. We are going to 
+find ways to make sure we have the best education tax provisions we can 
+possibly get. Therefore, I urge a positive vote on my amendment. After 
+that, I encourage Senators to vote against the Smith amendment. He 
+means well, he is a good guy, but there is a time and place for 
+everything. This is not the time and place for the Smith amendment. 
+There will be a time and place later on this year for those subjects 
+and the able Senator from Oregon is a member of the committee and I 
+know we are going to hear from him on his amendments and he will be 
+right. These provisions we can address and will address.
+  So I am prepared to yield back my time. I know the Senator from 
+Massachusetts was seeking time to speak, but apparently he no longer 
+is.
+  Mr. ENZI. Madam President, before the Senator yields back his time, I 
+need to say that Senator Smith is on his way to the floor to make a 
+couple more comments.
+  Mr. BAUCUS. Madam President, I suggest the absence of a quorum, to be 
+charged equally to both sides.
+  The PRESIDING OFFICER. Without objection, the clerk will call the 
+roll.
+  The legislative clerk proceeded to call the roll.
+  Mr. SMITH. Madam President, I ask unanimous consent that the order 
+for the quorum call be rescinded.
+
+[[Page 2369]]
+
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. SMITH. Madam President, I think everything that could be said and 
+should be said has been said. I ask for the yeas and nays if they have 
+not already been asked for.
+  The PRESIDING OFFICER. The yeas and nays have not been requested.
+  Mr. SMITH. I request the yeas and nays on the Smith amendment.
+  The PRESIDING OFFICER. Is there a sufficient second?
+  There is a sufficient second.
+  The yeas and nays were ordered.
+
+
+                           Amendment No. 206
+
+  Mr. BAUCUS. Madam President, I ask for the yeas and nays on the 
+Baucus amendment.
+  The PRESIDING OFFICER. Is there a sufficient second?
+  There is a sufficient second.
+  The yeas and nays were ordered.
+  Mr. BAUCUS. I am prepared to yield back the remainder of my time.
+  Mr. SMITH. Madam President, we yield back the remainder of our time.
+  Mr. BAUCUS. I yield back the remainder of our time.
+  The PRESIDING OFFICER. All time is yielded back. The question is on 
+agreeing to amendment No. 206.
+  The yeas and nays have been ordered.
+  The clerk will call the roll.
+  The legislative clerk called the roll.
+  Mr. DURBIN. I announce that the Senator from Delaware (Mr. Biden), 
+the Senator from Connecticut (Mr. Dodd), the Senator from Hawaii (Mr. 
+Inouye), the Senator from South Dakota (Mr. Johnson), the Senator from 
+New Jersey (Mr. Menendez), and the Senator from New York (Mr. Schumer) 
+are necessarily absent.
+  I further announce that, if present and voting, the Senator from 
+Delaware (Mr. Biden), the Senator from Connecticut (Mr. Dodd), and the 
+Senator from New Jersey (Mr. Menendez) would each vote ``yea.''
+  Mr. LOTT. The following Senators were necessarily absent: The Senator 
+from Missouri (Mr. Bond), the Senator from Oklahoma (Mr. Coburn), the 
+Senator from Alaska (Mr. Stevens), and the Senator from Wyoming (Mr. 
+Thomas).
+  The PRESIDING OFFICER. Are there any other Senators in the Chamber 
+desiring to vote?
+  The result was announced--yeas 90, nays 0, as follows:
+
+                      [Rollcall Vote No. 29 Leg.]
+
+                                YEAS--90
+
+     Akaka
+     Alexander
+     Allard
+     Baucus
+     Bayh
+     Bennett
+     Bingaman
+     Boxer
+     Brown
+     Brownback
+     Bunning
+     Burr
+     Byrd
+     Cantwell
+     Cardin
+     Carper
+     Casey
+     Chambliss
+     Clinton
+     Cochran
+     Coleman
+     Collins
+     Conrad
+     Corker
+     Cornyn
+     Craig
+     Crapo
+     DeMint
+     Dole
+     Domenici
+     Dorgan
+     Durbin
+     Ensign
+     Enzi
+     Feingold
+     Feinstein
+     Graham
+     Grassley
+     Gregg
+     Hagel
+     Harkin
+     Hatch
+     Hutchison
+     Inhofe
+     Isakson
+     Kennedy
+     Kerry
+     Klobuchar
+     Kohl
+     Kyl
+     Landrieu
+     Lautenberg
+     Leahy
+     Levin
+     Lieberman
+     Lincoln
+     Lott
+     Lugar
+     Martinez
+     McCain
+     McCaskill
+     McConnell
+     Mikulski
+     Murkowski
+     Murray
+     Nelson (FL)
+     Nelson (NE)
+     Obama
+     Pryor
+     Reed
+     Reid
+     Roberts
+     Rockefeller
+     Salazar
+     Sanders
+     Sessions
+     Shelby
+     Smith
+     Snowe
+     Specter
+     Stabenow
+     Sununu
+     Tester
+     Thune
+     Vitter
+     Voinovich
+     Warner
+     Webb
+     Whitehouse
+     Wyden
+
+                             NOT VOTING--10
+
+     Biden
+     Bond
+     Coburn
+     Dodd
+     Inouye
+     Johnson
+     Menendez
+     Schumer
+     Stevens
+     Thomas
+  The amendment (No. 206) was agreed to.
+
+
+                     Amendment No. 113, as Amended
+
+  The PRESIDING OFFICER. Under the previous order, there will now be 2 
+minutes of debate equally divided on the amendment of the Senator from 
+Oregon, No. 113, as amended.
+  Who yields time?
+  The Senator from Oregon is recognized.
+  Mr. SMITH. Madam President and colleagues, we have just voted for a 
+sense of the Senate unanimously to do what the next amendment says we 
+should do. And we should do it today. My mother used to always say: 
+Son, never put off until tomorrow what you can do today.
+  I say we should do today the following things with this next vote: 
+make permanent the deduction for qualified tuition expenses; make 
+permanent the employee exclusion from gross income of employer-provided 
+education assistance; make permanent the enhancements to the Coverdell 
+education savings accounts.
+  Do it today. That helps working folks and families struggling to pay 
+for education. Let's not put off until later what we can do right now. 
+I urge an ``aye'' vote.
+  I yield back the remainder of my time.
+  Mr. KENNEDY. Madam President, while I appreciate my colleague from 
+Oregon and his commitment to education, this is not an omnibus tax 
+bill; it is long overdue legislation to increase the minimum wage. It 
+is not an opportunity for Members to present their tax cut wish list. 
+It is Congress's opportunity to finally right the wrong of denying 
+millions of hard working minimum wage workers a raise for 10 years.
+  Unfortunately, our Republican colleagues filed more than 25 
+amendments proposing new or expanded tax cuts. Many of them would cost 
+billions of dollars. None of them are paid for.
+  This amendment would extend several tax benefits for education that I 
+strongly support, but it should be paid for. It would cost $35 billion 
+over the next decade. That cost should be offset by the elimination of 
+unjustified corporate tax loopholes that are currently draining the 
+Treasury.
+  I also can not support his amendment because it seeks to make 
+permanent tax benefits that I believe represent misplaced priorities. 
+The amendment would extend the Coverdell education savings account 
+provision, which provides benefits to families with children in private 
+elementary and secondary schools, while doing nothing to improve our 
+Nation's public school system.
+  And this amendment does nothing for working families who do not have 
+enough assets and savings to participate in the Coverdell scheme.
+  As the nonpartisan Congressional Research Service notes:
+
+     the main outcome of extending the [Coverdell accounts] to pay 
+     for K-12 education expenses may be to slightly subsidize 
+     higher income families who might have sent their children to 
+     private school anyway.
+
+  While Coverdell accounts might help richer families send their 
+children to private school, it does nothing to address what parents are 
+calling for to improve public schools.
+  The Coverdell bill does not: put qualified teachers in the classroom; 
+reduce class sizes; modernize or repair school buildings; provide 
+additional afterschool opportunities; or hold schools accountable for 
+improved student achievement.
+  At a time when we are asking our schools to do more under the No 
+Child Left Behind, while failing to live up to our funding commitments, 
+we should not divert billions of tax dollars to support private 
+schools. This year over half of the school districts in America will 
+see their title I funding cut. Funding for the No Child Left Behind Act 
+has fallen over $55 billion short of the amount promised 5 years ago.
+  We are over $8 billion under the amount promised to ensure equal 
+education opportunities to disabled students just 2 years ago when we 
+reauthorized the Individuals with Disabilities Education Act.
+  Reversing these shortfalls should be our priority in this Congress, 
+not making permanent a tax benefit that promotes private schools over 
+public schools.
+  I do strongly support the extension of the deduction for qualified 
+tuition and related expenses for higher education, which is set to 
+expire at the end of 2007. This deduction allows middle-income 
+Americans to take a deduction for higher education expenses of up to 
+$4,000. The IRS estimates that nearly 4.7 million students and families 
+in the U.S. took advantage of the deduction in 2004.
+  I look forward to working on this proposal as we move forward with 
+the debate on college affordability and higher education in the coming 
+weeks.
+
+[[Page 2370]]
+
+  We must prioritize making college more affordable.
+  The cost of college has more than tripled in the last 20 years. Each 
+year, 400,000 students who are qualified to attend a 4-year college 
+find themselves shut out because of cost factors.
+  As a result, students and families are pinching pennies more than 
+ever to pay for higher education and more students and families are 
+taking out loans to finance higher education.
+  We must provide them relief with a comprehensive strategy that starts 
+with a substantial increase in the Pell grant. As the cost of even 
+public college tuition and fees has climbed by an unacceptable 46 
+percent since 2001, the maximum Pell grant has not increased even a 
+penny. This Congress should quickly act to remedy this.
+  We also should reform the student loan programs and use the savings 
+to increase student aid. Senator Smith has joined me in introducing the 
+STAR Act, which provides incentives for schools to participate in the 
+cheaper federal student loan program and uses savings to increase need-
+based aid generating over $13 billion over 10 years in need-based aid 
+at no additional cost.
+  Finally, Congress should make college loan payments more affordable 
+by reducing interest rates and capping monthly loan payments.
+  I plan to address these issues in our committee very soon and I would 
+welcome Senator Smith's contributions to that legislation and that 
+debate.
+  I also look forward to working with him, Senator Baucus and other 
+members of the Finance Committee as they develop a responsible tax 
+package that helps middle class and low-income families afford to send 
+their children to college.
+  The PRESIDING OFFICER (Mr. Tester). The Senator from Montana.
+  Mr. BAUCUS. Mr. President, I appreciate the admonition and good 
+counsel of my good friend from Oregon. My mother used to say: If you 
+can do it, do it now. My mother used to also say: If you are going to 
+do it now, do it right the first time. This is not doing it right the 
+first time.
+  We rejected, about an hour ago, a similar amendment; that is, an 
+amendment that was not offered in committee. I do not mean to be 
+pejorative, but it is sort of a slapdash amendment, thought up, not 
+considered in committee.
+  This amendment is just too complex. It causes a big increase in the 
+budget deficit. It is not paid for. I have a whole list of reasons why 
+we should not adopt this amendment. Essentially, we will get to these 
+issues in committee, and that will be the right time and place to deal 
+with these issues.
+  Mr. President, I raise a point of order that the pending amendment 
+violates section 505(a) of H. Con. Res. 95, the concurrent resolution 
+on the budget for fiscal year 2004.
+  The PRESIDING OFFICER. The Senator from Oregon.
+  Mr. SMITH. Mr. President, I move to waive the applicable portion of 
+the Budget Act and urge an ``aye'' vote.
+  Mr. BAUCUS. Mr. President, I ask for the yeas and nays.
+  The PRESIDING OFFICER. Is there a sufficient second?
+  There is a sufficient second.
+  The question is on agreeing to the motion.
+  The clerk will call the roll.
+  The bill clerk called the roll.
+  Mr. DURBIN. I announce that the Senator from Hawaii (Mr. Inouye), the 
+Senator from South Dakota (Mr. Johnson), and the Senator from New York 
+(Mr. Schumer) are necessarily absent.
+  Mr. LOTT. The following Senators are necessarily absent: the Senator 
+from Missouri (Mr. Bond), the Senator from Oklahoma (Mr. Coburn), the 
+Senator from Alaska (Mr. Stevens), and the Senator from Wyoming (Mr. 
+Thomas).
+  The PRESIDING OFFICER. Are there any other Senators in the Chamber 
+desiring to vote?
+  The yeas and nays resulted--yeas 43, nays 50, as follows:
+
+                      [Rollcall Vote No. 30 Leg.]
+
+                                YEAS--43
+
+     Alexander
+     Allard
+     Bennett
+     Brownback
+     Bunning
+     Burr
+     Chambliss
+     Cochran
+     Coleman
+     Collins
+     Corker
+     Cornyn
+     Craig
+     Crapo
+     DeMint
+     Dole
+     Domenici
+     Ensign
+     Enzi
+     Graham
+     Grassley
+     Gregg
+     Hagel
+     Hatch
+     Hutchison
+     Inhofe
+     Isakson
+     Kyl
+     Lott
+     Lugar
+     Martinez
+     McCain
+     McConnell
+     Murkowski
+     Nelson (NE)
+     Roberts
+     Sessions
+     Shelby
+     Smith
+     Sununu
+     Thune
+     Vitter
+     Warner
+
+                                NAYS--50
+
+     Akaka
+     Baucus
+     Bayh
+     Biden
+     Bingaman
+     Boxer
+     Brown
+     Byrd
+     Cantwell
+     Cardin
+     Carper
+     Casey
+     Clinton
+     Conrad
+     Dodd
+     Dorgan
+     Durbin
+     Feingold
+     Feinstein
+     Harkin
+     Kennedy
+     Kerry
+     Klobuchar
+     Kohl
+     Landrieu
+     Lautenberg
+     Leahy
+     Levin
+     Lieberman
+     Lincoln
+     McCaskill
+     Menendez
+     Mikulski
+     Murray
+     Nelson (FL)
+     Obama
+     Pryor
+     Reed
+     Reid
+     Rockefeller
+     Salazar
+     Sanders
+     Snowe
+     Specter
+     Stabenow
+     Tester
+     Voinovich
+     Webb
+     Whitehouse
+     Wyden
+
+                             NOT VOTING--7
+
+     Bond
+     Coburn
+     Inouye
+     Johnson
+     Schumer
+     Stevens
+     Thomas
+  The PRESIDING OFFICER. On this vote, the yeas are 43, the nays are 
+50. Three-fifths of the Senators duly chosen and sworn not having voted 
+in the affirmative, the motion is rejected. The point of order is 
+sustained, and the amendment falls.
+  The PRESIDING OFFICER. The Senator from Alabama is recognized.
+  Mr. SESSIONS. Mr. President, I think we had an agreement to speak. I 
+ask unanimous consent, if the floor managers agree, to commence my time 
+at 4:45. A number of Senators have amendments they want to offer during 
+that period of time between now and 4:45.
+  The PRESIDING OFFICER. Is there objection?
+  Mr. KENNEDY. Mr. President, reserving the right to object, I 
+understand we are working out a time agreement. I would like to try to 
+see what the time is. I have heard we then want to vote--some have said 
+we are going to vote at 5:15. I don't understand what the time 
+agreement is. I want to cooperate, and will, with the Senator. If we 
+can withhold for a minute or two so that we can get the time agreement, 
+if others want to speak, I certainly won't object to it. I understand 
+we had an agreement, but I am not sure of the particulars yet and what 
+it all means.
+  Mr. SESSIONS. I understood that an agreement had been reached to vote 
+at 5:15. We had agreed to 30 minutes equally divided. I left a few 
+minutes for some others who want to speak. That was my suggestion.
+  Mr. KENNEDY. Mr. President, I see other Senators. If they want to 
+introduce amendments for a minute or two until we get this straightened 
+out, if that is their purpose, that is fine. I have no objection to 
+that while we are trying to work this through.
+  The PRESIDING OFFICER. Does the Senator from Alabama withdraw his 
+request?
+  Mr. SESSIONS. I will.
+  Mr. ENZI. Mr. President, I ask the chairman that the 10 minutes be 
+divided between Senators Burr, Chambliss, and Allard.
+  Mr. ALLARD. If the Senator from Wyoming will yield, I need more than 
+a few minutes. I need probably about 7 minutes. Maybe if I can get 7 
+minutes after the vote, that would be all right.
+  Mr. ENZI. So the unanimous consent request is to divide the 10 
+minutes, or the time until 4:45, between Senators Burr and Chambliss, 
+and after the vote, 7 minutes for Senator Allard.
+  Mr. SESSIONS. If the Senator will yield for a question, can we add 
+that I be allowed up to 15 minutes before the vote at 5:15, or 
+thereabouts?
+  Mr. KENNEDY. Mr. President, I have tried to be accommodating, and I 
+have heard that people want to vote at 5:15 and 5:30. I want to make 
+sure that we are going to get a fair share of the time. I will have to 
+object until we have an agreement. I think we are going to get the 
+agreement. What has been outlined on the floor is not what the 
+agreement is going to say. If we have an agreement in terms of time, I 
+think we ought to follow that. If there is going to be objection, that 
+is fine. I will be around here. They told me there were Members who 
+wanted to vote by 5:30 because of traveling. I want to accommodate 
+that, and I want to make
+
+[[Page 2371]]
+
+sure we divide the time between now and 5:30.
+  Mr. SESSIONS. Mr. President, I understand Senator Kennedy's concern. 
+All I am asking for is 10, 15 minutes before we vote.
+  Mr. KENNEDY. Mr. President, whenever we are going to vote, I ask 
+unanimous consent that the Senator from Alabama have 15 minutes prior 
+to that time. We will try to work out the time before that with the 
+floor staff. But we have that locked in.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The Senator from North Carolina is recognized.
+  Mr. BURR. Mr. President, I ask unanimous consent to set the pending 
+amendment aside.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+
+                 Amendment No. 195 to Amendment No. 100
+
+  Mr. BURR. Mr. President, I call up amendment No. 195.
+  The PRESIDING OFFICER. The clerk will report.
+  The legislative clerk read as follows:
+
+       The Senator from North Carolina [Mr. Burr], for himself, 
+     Mr. DeMint and Mr. Coburn, proposes an amendment numbered 
+     195.
+
+  Mr. BURR. Mr. President, I ask unanimous consent that reading of the 
+amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+
+ (Purpose: To provide for an exemption to a minimum wage increase for 
+  certain employers who contribute to their employees health benefit 
+                               expenses)
+
+       At the end of section 102, add the following:
+       (c) Exception in the Case of Provision of Health 
+     Benefits.--Notwithstanding the amendment made by subsection 
+     (a), an employer to which such amendment applies shall have 
+     the option to--
+       (1) increase the minimum wage paid to employees as required 
+     under such amendment; or
+       (2) provide such employees with health care benefits that 
+     are equal (in terms of the monetary amount expended by the 
+     employer for such benefits) to the monetary amount by which 
+     the minimum wage is to be increased pursuant to such 
+     amendment.
+
+  Mr. BURR. Mr. President, let me take this opportunity to commend my 
+colleagues, Senator Kennedy and Senator Enzi. There is no question that 
+we need to do something on minimum wage. What I am trying to do is 
+realize that, as we do this, we do it in the wisest way we possibly 
+can.
+  My simple amendment is very brief. It allows employers, with the 
+increase we are making in minimum wage, to supply that equal dollar 
+amount in health care benefits. Think about that. It would be the 
+option of the employer to invest the $2.10 in the health care benefits 
+of his or her employee. Some will probably suggest that is not enough.
+  If you look at the national average today for 100 percent of an 
+individual's premium, the national average, based on the Kaiser 
+Foundation, is $4,248. Well, based upon the amount we are proposing to 
+raise the minimum wage, that leaves $120 to spare after we have paid 
+100 percent of that individual's health care. Stretch it a little bit 
+further and apply it to a family, and that $4,368 that we are going to 
+increase their wages by would provide almost 50 percent of the premium 
+of a family plan.
+  You know, we talk about extending health care to all Americans, about 
+the need to provide the resources for people to have affordable and 
+accessible health care. Well, here is a way to do it. Let's allow those 
+employers to have a benefit package that they extend to minimum wage 
+workers for the first time so those who are most at risk might have the 
+opportunity to be supplied health care by their employer, negotiated at 
+the group rate.
+  Some might think that all Americans don't have a dog in this fight. I 
+say they do. For every American we can put under the umbrella of 
+coverage, we have reduced the cost shift in health care to where 
+insurance premiums for the average person today will not continue to go 
+up at the rate it is today. My hope is that even if it is incremental, 
+we can bring more Americans under the umbrella of coverage.
+  It is my hope that my colleagues will see the great benefit we are 
+talking about now, money designated to increase the wages of 
+individuals, and we will at least allow employers the option to give 
+them that benefit in health care. I think it is a very reasonable 
+amendment. I urge my colleagues to support it.
+  I yield the floor.
+  The PRESIDING OFFICER. The Senator from Georgia is recognized.
+  Mr. CHAMBLISS. Mr. President, I ask unanimous consent that the 
+pending amendment be set aside.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+
+                 Amendment No. 118 to Amendment No. 100
+
+  Mr. CHAMBLISS. Mr. President, I call up amendment No. 118.
+  The PRESIDING OFFICER. The clerk will report.
+  The bill clerk read as follows:
+
+       The Senator from Georgia [Mr. Chambliss] for himself, Mr. 
+     Isakson, Mr. Burr and Mrs. Dole, proposes an amendment 
+     numbered 118.
+
+  Mr. CHAMBLISS. Mr. President, I ask unanimous consent that reading of 
+the amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+
+   (Purpose: To provide minimum wage rates for agricultural workers)
+
+       At the appropriate place, insert the following new section:
+
+     SEC. __. WAGES FOR AGRICULTURAL WORKERS.
+
+       Section (6)(a)(5) of the Fair Labor Standards Act of 1938 
+     (29 U.S.C. 206(a)(5)) is amended to read as follows:
+       ``(5) if such employee is employed in agriculture, or is 
+     employed to provide agriculture labor or services pursuant to 
+     section 218 of the Immigration and Nationality Act (8 U.S.C. 
+     1188), not less than the greater of--
+       ``(A) the minimum wage rate in effect under paragraph (1) 
+     after December 31, 1977; or
+       ``(B) the prevailing wage established by the Occupational 
+     Employment Statistics program, or other wage survey, 
+     conducted by the Bureau of Labor Statistics in the county of 
+     intended employment, for entry level workers who are employed 
+     in agriculture in the area of work to be performed.''.
+
+  Mr. CHAMBLISS. Mr. President, I am pleased to have the support of 
+Senator Burr and Senator Isakson on this amendment.
+  I ask unanimous consent that Senator Dole be added as a cosponsor of 
+my amendment.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. CHAMBLISS. Mr. President, this amendment is an attempt to remedy 
+a wage issue that is a tremendous burden for some of our Nation's 
+agricultural employers. There are about 1 million agricultural workers 
+in the country today, and roughly half of them are illegal workers.
+  As we expand the Border Patrol's presence on the border and the 
+efforts of our men and women on the Border Patrol become more 
+successful, farmers and ranchers who have historically relied on an 
+illegal workforce have started to feel the squeeze, and they should. A 
+labor shortage has resulted in a number of areas. This labor shortage 
+occurs because agriculture is a traditional gateway of illegal 
+immigration into the United States.
+  Many illegal immigrants come to the United States, work for a while 
+on a farm, and, as they integrate into our society, they find different 
+jobs, such as those in hospitality or construction. Therefore, the 
+illegal agricultural workforce has continuously relied upon new workers 
+crossing the border illegally and starting out on the farm.
+  As a result of these events, a number of Senators and advocacy groups 
+have argued for a greater urgency in immigration reform in the 
+agricultural sector.
+  I have spoken with farmers and ranchers all across America advocating 
+immigration reform, and I always ask them: Do you use the H-2A program? 
+This is the legal temporary worker program in law today that allows for 
+an unlimited number of temporary agricultural workers to come to the 
+United States and work and then return to their home country and return 
+again and again as needed.
+  The primary response to my question is, they don't use the existing 
+program, that it is too costly, and it is too bureaucratic. There are 
+several other issues they have with the H-2A program that I attempted 
+to remedy in the context of the immigration debate last year, and I 
+will continue to work
+
+[[Page 2372]]
+
+on those efforts when the Senate takes up the issue of immigration 
+reform this Congress.
+  However, the largest prohibitive cost of using the H-2A program is 
+its mandated artificially inflated wages. If we are truly looking for 
+ways to make sure our agricultural workforce is legal, then addressing 
+this and obtaining legal agricultural workers is something that should 
+be fixed on this legislation.
+  If the Senate passes this amendment, we will see an immediate 
+increase in the number of legal workers on our Nation's farms and fewer 
+crop losses resulting from the lack of labor. The high cost of the H-2A 
+program increases every year, and it will increase even more with the 
+passage of the minimum wage legislation we are considering today.
+  Agricultural employers who utilize the legal program are mandated to 
+pay the adverse effect wage rate to all their workers, in addition to 
+providing free housing, paying all visa and consular fees, and paying 
+for the transportation and meal costs of those workers traveling to 
+their farms.
+  Historically, approval for an employer to use nonimmigrant temporary 
+workers was predicated on the following conditions being met: First, no 
+U.S. workers were available to fill the specific job, and, second, that 
+wages for that occupation would not be depressed by the hiring of 
+foreign workers.
+  The imposition of a prevailing wage requirement as determined by the 
+U.S. Department of Labor approved surveys in each State for specific 
+occupations generally filled by temporary nonimmigrant workers would 
+ensure three things:
+  First, that available U.S. workers would not be discouraged from 
+applying for a job because it paid lower than usual local wages; 
+second, all workers, both foreign and domestic, would be paid a wage 
+that was competitive in the local area, thus avoiding depressing wages 
+for that occupation; and third, that the use of foreign workers would 
+not be more financially attractive to employers than employing U.S. 
+workers.
+  Prevailing wages are determined by the U.S. Department of Labor 
+through its State partners, using a methodology that is designed to 
+capture a fair wage that reflects the local standards peculiar to a 
+particular occupation.
+  At the present time, prevailing wages are required for H-1B, H-2B, 
+and permanent work-related visas. However, employers of H-2A workers, 
+temporary nonimmigrant agricultural workers, are required to pay a 
+different wage rate called the adverse effect wage rate. Unlike 
+prevailing wages which are established for a local area for specific 
+jobs and determined by the level of experience, skill, and education 
+which those jobs require, the adverse effect wage rate is an average of 
+all wages, including incentive pay, bonuses, and seniority, for all 
+farm jobs in a multi-State region.
+  Additionally, the adverse effect wage rate is not determined by the 
+U.S. Department of Labor, the agency charged with determining wages for 
+all other industries and occupations. Rather, the U.S. Department of 
+Labor has chosen to use a survey conducted by the U.S. Department of 
+Agriculture. Officials in the U.S. Department of Agriculture's National 
+Agricultural Statistics Service readily admit that the wage survey used 
+for the adverse effect wage rate was never designed to set specific 
+wages, only to describe them in general. Therefore, the National 
+Agricultural Statistics Service's survey creates an artificial, multi-
+State wage floor, one that significantly increases annually, regardless 
+of the economy, the agricultural market and competitive factors within 
+a product line or local area.
+  For instance, while the minimum wage remained constant for entry-
+level jobs for the 10-year period starting in 1997 until today, the 
+average adverse effect wage rate has increased 40 percent over that 
+same period. As the National Council of Agricultural Employers noted in 
+an alert to their membership:
+
+       The increase in the Federal minimum wage is likely to 
+     result in a larger than normal increase in the adverse effect 
+     wage rate for several years after the new minimum wage 
+     becomes effective as the upward adjustment in the wage rates 
+     works its way through the agricultural industry.
+
+  This is because the adverse effect wage rate is set at the average 
+field and livestock worker hourly earnings, and upward adjustment in 
+wages at the lower end of the agricultural wage distribution resulting 
+in the increase from the minimum wage will, of course, raise the 
+average hourly earnings for agricultural workers, generally.
+  Furthermore, the lower wage jobs that disappear as a result of the 
+increase in the minimum wage will no longer be part of the average, 
+forcing the adverse effect wage rate up even higher. Increased wages in 
+agriculture will only hasten the movement of agricultural production to 
+foreign soils.
+  Maybe the reason we have upward of 500,000 illegal foreign workers in 
+agriculture today is because of the prohibitively high cost of using 
+the legal H-2A program or maybe it is because we don't pay Americans 
+who work on our farms and ranches enough.
+  While we guarantee a minimum of the adverse effect wage rate to 
+temporary foreign workers, U.S. workers in agriculture are guaranteed 
+only a minimum wage. So in my home State of Georgia, a temporary H-2A 
+worker today is guaranteed $8.37 an hour, while an American worker is 
+guaranteed only $5.15 an hour.
+  My amendment is very simple, and it attempts to remedy the two 
+possible causes of the lack of legal workers on our Nation's farms and 
+ranches. This amendment changes the Fair Labor Standards Act to ensure 
+that all farm workers, regardless of whether they are temporary foreign 
+workers or U.S. citizens, be paid a prevailing wage. Adoption of this 
+amendment will attract more legal workers to agricultural employment by 
+allowing more farmers to access the Legal Temporary Worker Program and 
+by guaranteeing U.S. workers higher wages on our Nation's farms.
+  Prevailing wages reflect geographic location, occupation, and skill 
+level. The use of prevailing wages will improve competition within the 
+United States without negatively affecting workers and will keep 
+agricultural jobs at home.
+  Mr. President, I yield the floor.
+  The PRESIDING OFFICER. The Senator from Massachusetts.
+
+
+                 Amendment No. 167 to Amendment No. 118
+
+  (Purpose: To improve agricultural job opportunities, benefits, and 
+               security for aliens in the United States)
+
+  Mr. KENNEDY. Mr. President, on behalf of Senator Feinstein, I call up 
+amendment No. 167, a second-degree amendment to amendment No. 118.
+  The PRESIDING OFFICER. The clerk will report the amendment.
+  The bill clerk read as follows:
+
+       The Senator from Massachusetts [Mr. Kennedy], for Mrs. 
+     Feinstein, for herself and Mr. Craig, proposes an amendment 
+     numbered 167 to amendment No. 118.
+
+  Mr. KENNEDY. Mr. President, I ask unanimous consent that the reading 
+of the amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  (The amendment is printed in today's Record under ``Text of 
+Amendments.'')
+  Mr. KENNEDY. Mr. President, I ask unanimous consent that the time 
+between 4:50 p.m. and 5:40 p.m. be equally divided and controlled by 
+Senators Kennedy and Sessions for debate with respect to the Sessions 
+amendment No. 148, with no second-degree amendment in order prior to 
+the vote at 5:40 p.m., and that the Senate proceed to vote in relation 
+to the amendment.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. KENNEDY. Mr. President, the time is divided. Does the Senator 
+from Alabama want to make a brief opening comment; otherwise, I will 
+speak.
+  Mr. SESSIONS. Mr. President, I would be pleased to make opening 
+comments. I guess the time of 5:40 p.m. was selected by the leadership 
+or something.
+  Mr. KENNEDY. Or something.
+  Mr. SESSIONS. One of my goals was to hurry up so we could vote at 
+5:15 p.m. Now they decided they wanted to vote at 5:40. It is not my 
+fault, I say to my colleagues. I did reduce the time.
+
+[[Page 2373]]
+
+  The PRESIDING OFFICER. Will the Senator call up his amendment.
+
+
+                 Amendment No. 148 to Amendment No. 100
+
+  Mr. SESSIONS. Mr. President, I ask unanimous consent that the pending 
+amendment be set aside and that amendment No. 148 be called up.
+  The PRESIDING OFFICER. Without objection, it is so ordered. The clerk 
+will report the amendment.
+  The bill clerk read as follows:
+
+       The Senator from Alabama [Mr. Sessions], for himself, Mr. 
+     Inhofe, and Mr. Grassley, proposes an amendment numbered 148 
+     to amendment No. 100.
+
+  Mr. SESSIONS. Mr. President, I ask unanimous consent that the reading 
+of the amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+
+   (Purpose: To prohibit employers who unlawfully employ aliens from 
+                    receiving government contracts)
+
+       At the appropriate place, insert the following:
+
+     SEC. __. RESPONSIBLE GOVERNMENT CONTRACTOR REQUIREMENTS.
+
+       Section 274A(e) of the Immigration and Nationality Act (8 
+     U.S.C. 1324a(e)) is amended by adding at the end the 
+     following new paragraph:
+       ``(10) Prohibition on award of government contracts, 
+     grants, and agreements.--
+       ``(A) Employers with no contracts, grants, or agreements.--
+       ``(i) In general.--Subject to clause (iii) and subparagraph 
+     (C), if an employer who does not hold a Federal contract, 
+     grant, or cooperative agreement is determined to have 
+     violated this section, the employer shall be debarred from 
+     the receipt of a Federal contract, grant, or cooperative 
+     agreement for a period of 7 years.
+       ``(ii) Placement on excluded list.--The Secretary of 
+     Homeland Security or the Attorney General shall advise the 
+     Administrator of General Services of the debarment of an 
+     employer under clause (i) and the Administrator of General 
+     Services shall list the employer on the List of Parties 
+     Excluded from Federal Procurement and Nonprocurement Programs 
+     for a period of 7 years.
+       ``(iii) Waiver.--
+
+       ``(I) Authority.--The Administrator of General Services, in 
+     consultation with the Secretary of Homeland Security and the 
+     Attorney General, may waive operation of clause (i) or may 
+     limit the duration or scope of a debarment under clause (i) 
+     if such waiver or limitation is necessary to national defense 
+     or in the interest of national security.
+       ``(II) Notification to congress.--If the Administrator 
+     grants a waiver or limitation described in subclause (I), the 
+     Administrator shall submit to each member of the Committee on 
+     the Judiciary of the Senate and of the Committee on the 
+     Judiciary of the House of Representatives immediate notice of 
+     such waiver or limitation.
+       ``(III) Prohibition on judicial review.--The decision of 
+     whether to debar or take alternative action under this clause 
+     shall not be judicially reviewed.
+
+       ``(B) Employers with contracts, grants, or agreements.--
+       ``(i) In general.--Subject to clause (iii) and subclause 
+     (C), an employer who holds a Federal contract, grant, or 
+     cooperative agreement and is determined to have violated this 
+     section shall be debarred from the receipt of new Federal 
+     contracts, grants, or cooperative agreements for a period of 
+     10 years.
+       ``(ii) Notice to agencies.--Prior to debarring the employer 
+     under clause (i), the Secretary of Homeland Security, in 
+     cooperation with the Administrator of General Services, shall 
+     advise any agency or department holding a contract, grant, or 
+     cooperative agreement with the employer of the Government's 
+     intention to debar the employer from the receipt of new 
+     Federal contracts, grants, or cooperative agreements for a 
+     period of 10 years.
+       ``(iii) Waiver.--
+
+       ``(I) Authority.--After consideration of the views of any 
+     agency or department that holds a contract, grant, or 
+     cooperative agreement with the employer, the Administrator of 
+     General Services, in consultation with the Secretary of 
+     Homeland Security and the Attorney General, may waive 
+     operation of clause (i) or may limit the duration or scope of 
+     the debarment under clause (i) if such waiver or limitation 
+     is necessary to the national defense or in the interest of 
+     national security.
+       ``(II) Notification to congress.--If the Administrator 
+     grants a waiver or limitation described in subclause (I), the 
+     Administrator shall submit to each member of the Committee on 
+     the Judiciary of the Senate and of the Committee on the 
+     Judiciary of the House of Representatives immediate notice of 
+     such waiver or limitation.
+       ``(III) Prohibition on judicial review.--The decision of 
+     whether to debar or take alternate action under this clause 
+     shall not be judicially reviewed.
+
+       ``(C) Exemption from penalty for employers participating in 
+     the basic pilot program.--In the case of imposition on an 
+     employer of a debarment from the receipt of a Federal 
+     contract, grant, or cooperative agreement under subparagraph 
+     (A) or (B), that penalty shall be waived if the employer 
+     establishes that the employer was voluntarily participating 
+     in the basic pilot program under section 403(a) of the 
+     Illegal Immigration Reform and Immigrant Responsibility Act 
+     of 1996 (8 U.S.C. 1324a note) at the time of the violations 
+     of this section that resulted in the debarment.''.
+
+  Mr. SESSIONS. Mr. President, the whole purpose of the Minimum Wage 
+Act is to increase the wages of working Americans, particularly low-
+skilled workers who are paid minimum wage-level salaries and who are 
+having a difficult time. That is a noble goal because I don't think 
+their salaries have gone up as much as we would like.
+  One of the reasons, as I discussed earlier and will discuss again 
+before this debate concludes, that those salaries have lagged behind is 
+because of a large influx of illegal immigrant labor. That is 
+indisputable, and it has not been discussed much. People apparently 
+don't want to talk about it. We are going to talk about it.
+  We, also, have with regard to Government employees and Government 
+contractors, a significant loophole we ought to fix that involves 
+national security, as well as competition for American workers, and 
+that is the purpose of this amendment No. 148, which I note has been 
+cosponsored by Senator Grassley and Senator Coburn.
+  This amendment would focus only on contractors who do work for the 
+Federal Government. Unfortunately, I have not been able to get an 
+agreement to have a vote on raising the penalties for other businesses 
+in America from $250 as a fine for hiring illegals as I would have on 
+amendment No. 142. That has been objected to by the Democratic 
+leadership. I think we ought to vote on that amendment. It is a bigger 
+issue, but at this point, we will be able to proceed to a vote on 
+amendment No. 148.
+  Employment verification is the responsibility of an employer when 
+someone is hired. It exists in paper form and was mandated in 1986 as 
+part of that 1986 amnesty, in which 3 million people were legalized. We 
+promised not to allow this kind of problem to happen again, and we set 
+up a system that was supposed to work to verify the citizenship of 
+people or their legality when they came to work.
+  Employers under the 1986 act must identify work authorization 
+documents from each new person they hire, fill out form I-9 with an 
+attestation and retain the I-9s in case the Department of Homeland 
+Security wishes to look at them. That is what they are required to do.
+  Unfortunately, anything that looks good they often accept and some of 
+them argue they have to accept. They don't look behind these documents, 
+and there is no real verification. Many are totally bogus and 
+fraudulent. Thousands and tens of thousands of documents are submitted 
+with Social Security numbers that are all zeros. I think it was 50,000 
+Social Security numbers in this country that were all zeros. How bogus 
+is that?
+  So an alternative to the paper I-9 system that has not been working, 
+an Electronic Employment Verification System, was created in a pilot. 
+It is used voluntarily by about 13,000 employers throughout this 
+country to verify work authorization when hiring new employees.
+  The amendment before us today would prohibit contractors for the 
+Government that get caught hiring illegal aliens from obtaining a new 
+Government contract for up to 7 years or 10 years, depending on whether 
+they currently have a contract with the Government.
+  We voted for this concept in the immigration bill previously, but a 
+waiver from this debarment from contract work--and that is a 
+substantial penalty for some of these companies--would be available for 
+national defense and national security purposes.
+  Contractors, in addition, would be protected from this debarment, 
+this ban, if they are using the EEVS system, or the Basic Pilot Program 
+to verify the legality of the employers. It is used by the Senate, it 
+is used by the House, it is used by every Government
+
+[[Page 2374]]
+
+agency, and it is used by 13,000 businesses throughout this country.
+  All one has to do, basically, is your administrative officer or 
+appropriate staff person goes online and checks the Social Security 
+number or documents of the employee to verify their legality, and if 
+they come up legal, they are able to hire them. The same would be true 
+for these contractors who do contract work for the Federal Government. 
+If they don't do that and they hire people who are illegal, then they 
+could suffer the consequences. It would require them to do that. I 
+think it only makes good sense.
+  Most economists do not dispute the contention that illegal work by 
+illegal workers lowers the overall wage rate for particular industries, 
+especially unskilled workers. Since the minimum wage is intended to 
+raise the wage levels of these mostly unskilled workers, it is 
+appropriate for us to consider the wages of Americans if contractors 
+can easily obtain illegal labor from illegal immigrants and there would 
+be fewer Americans hired to these jobs, and it would depress the wages, 
+I submit, in reality and in theory.
+  Mr. President, I ask that I be notified when 9 minutes is up.
+  Many scholars and policymakers, including the U.S. Chamber of 
+Commerce, Department of Homeland Security, the Heritage Foundation, on 
+either side of the debate have advocated for some form of advanced 
+mandatory employment verification system as one of the main tools 
+necessary to prevent another surge of illegal immigration and to 
+protect employers from liability, or being held accountable, for 
+inadvertently hiring illegal workers. There have been a lot of problems 
+with that, I will admit it. It is time for us to give clear direction 
+to the employers and a clear system that will work. This amendment 
+takes the first step. We encourage but not require the contractors to 
+use an EEVS system, by providing them with protection from any 
+liability if they use it.
+  If anyone should be following the system, any businesses should be, 
+it ought to be businesses doing work for the U.S. taxpayers, spending 
+money that belongs to the U.S. taxpayers.
+  Large numbers of illegal workers are being hired in America today. We 
+know that. The vast majority of businesses carefully follow the law, 
+but many of them, unfortunately, do not. Some are even contractors who 
+are working on sensitive Government contracts.
+  Let me tell you, we have a problem. I will share some information 
+about it. It impacts jobs, the economy, and our national security.
+  The Associated Press reported last Friday, January 19, that nearly 40 
+illegal immigrants hired by contractors working on 3 military bases in 
+Georgia, Virginia, and Nevada, were arrested last week by the ICE 
+Agency, the immigration enforcement group. Twenty-four of the illegal 
+immigrant workers were arrested while trying to enter Fort Benning, GA, 
+to do construction at the military base. According to the ICE, the 
+illegal immigrants worked for different subcontractors.
+  My 9 minutes is up. I will try to finish in a couple of minutes, a 
+very few minutes.
+  The PRESIDING OFFICER. The Senator has 14 minutes remaining.
+  Mr. SESSIONS. According to ICE, the illegal immigrants work for 
+different subcontractors who are not facing any charges from the 
+Government. Unfortunately, that is not a new problem. In October of 
+2005, seven illegal aliens were arrested for working at the U.S. Air 
+Force base in Idaho. They were employed by a subcontractor.
+  Also, last October, 2006, three illegal workers were working at Fort 
+Bragg and they were arrested.
+  In 2005 alone, ICE arrested 6 illegal aliens working at Homestead Air 
+Reserve Base in Florida, 48 illegal aliens working at the Seymour 
+Johnson Air Force Base in North Carolina, 9 illegal aliens performing 
+contract work at a facility that refits Navy aircraft in North 
+Carolina, 18 working for a San Diego company that performed maintenance 
+on U.S. Navy vessels.
+  According to an Empire Journal article, a huge problem is that 
+employers can participate in a voluntary program to verify employee 
+work eligibility, but they suffer no penalty for failing to check the 
+validity of the Social Security numbers.
+  The article concluded:
+
+       A weak law allows the employer to see the document and if 
+     the document looks genuine to the employer, the employer 
+     cannot be held responsible for hiring the illegal immigrant.
+
+  It is astounding how widespread this problem is. In a report by ICE 
+in 2005, a company contracted by the Navy to paint ships was found to 
+employ 86 illegals who had security passes giving them access to the 
+entire Navy base in San Diego.
+  In 2004, 41 suspected illegal aliens were apprehended while working 
+for a Department of Defense contractor that was providing Boeing with 
+anti-missile systems and radar--top security type equipment.
+  Also, in 2004, seven foreign nationals were arrested for working 
+illegally at the Fort Polk Joint Readiness Training Center in 
+Louisiana. They were ``role players'' in combat exercises to prepare 
+soldiers for combat in Iraq.
+  In one alarming incident, the Nuclear Regulatory Commission was 
+caught allowing illegal aliens to obtain bogus documentation by using 
+fake Social Security numbers to work as contract painters in nuclear 
+facilities.
+  Representative Edward Markey, a Democrat from Massachusetts, stated:
+
+       Commission regulations are supposed to ensure that 
+     individuals who are able to access nuclear facilities are 
+     subject to appropriate background and security checks but 
+     they clearly did not work in this case.
+
+  This amendment would fix key weaknesses in the employer verification 
+system, provide a defense to companies that follow the rules and act in 
+good faith, and debar companies that violate the rule.
+  We will not tolerate that, with taxpayers' money on taxpayers' 
+contracts.
+  We want to help people in this country get higher wages. I have 
+talked about that for some time. We need to consider and take the 
+advice, I believe, of Dr. Barry Chiswick, head of the Department of 
+Economics at the University of Illinois in Chicago, when he testified 
+before the Senate committee last spring. He said:
+
+       The large increase in low-skilled immigration . . . has had 
+     the effect of decreasing the wages and employment 
+     opportunities of low-skilled workers who are currently 
+     residing in the United States.
+       Over the past two decades . . . [t]he real earnings of low-
+     skilled workers has either stagnated or decreased somewhat.
+
+  This is Dr. Chiswick. He goes on to say:
+
+       We . . . need to . . . provide greater assistance to low-
+     skilled Americans in their quest for better jobs and higher 
+     wages. [O]ne of the ways we can help them in this regard is 
+     by reducing the very substantial competition they are facing 
+     from this very large and uncontrolled low-skilled immigration 
+     that is the result of both our legal immigration system and 
+     the absence of enforcement of immigration law.
+
+  Professor Harry Holzer, Associate Dean and Professor of Public Policy 
+at Georgetown, said this before the Judiciary Committee last spring. He 
+believes American workers do want jobs currently held by illegal 
+laborers and he believes that absent illegal immigrant competition, 
+employers would raise wages and improve working conditions to attract 
+American workers.
+  Absolutely that will happen. This is what the Associate Dean and 
+Professor of Public Policy in Georgetown said:
+
+       I believe that when immigrants are illegal, they do more to 
+     undercut the wages of native born workers because the playing 
+     field isn't level and the employers don't have to pay them 
+     market wages . . . [T]here are jobs in industries like 
+     construction I think are more appealing to native-born 
+     workers and many native-born low-income men might be 
+     interested in more of those jobs. . . . Absent the 
+     immigrants, the employer might need to raise those wages and 
+     improve those conditions of work to entice native-born 
+     workers into those jobs.
+
+  As we consider this, let's also consider the relevance of unfair 
+competition to low-skilled workers. Let's let their wages go up in this 
+time of unprecedented prosperity and GDP growth and profits. Let's let 
+the workers' salaries go up. One way to do that is eliminate this 
+competition from large numbers of illegal workers.
+  I yield the floor and reserve the remainder of my time.
+
+[[Page 2375]]
+
+  The PRESIDING OFFICER. The Senator from Massachusetts.
+  Mr. KENNEDY. Mr. President, how much time do I have?
+  The PRESIDING OFFICER. The Senator has 24 minutes.
+  Mr. KENNEDY. Mr. President, I ask the Chair to let me know when there 
+is 5 minutes remaining.
+  The PRESIDING OFFICER. The Chair will do so.
+  Mr. KENNEDY. Mr. President, it is now 10 after 5 on the fifth day 
+that the Senate has been considering raising the minimum wage from 
+$5.15 to $7.25 over a 2-year period. We have not, as we have heard in 
+the course of this debate, raised it in the last 10 years. This is just 
+going to restore the purchasing power of those on the lower rungs of 
+the economic ladder to what it was 10 years ago. It won't even give 
+them an increase, simply restore the purchasing power.
+  Five days we have been debating a rather simple concept that everyone 
+in this institution knows and has voted on a number of times--whether 
+it is over here in the Senate or in the House of Representatives. For 
+10 years, Republican leadership has refused to let us get a vote on 
+increasing the minimum wage. Let's have no mistake about it--10 years, 
+the Republican leadership has basically refused to let us get it, even 
+though a majority of the Members in this body, a handful of those 
+Republican Members, have favored an increase in the minimum wage. But 
+we have been unable to get to the numbers sufficient to break the 
+effective filibuster and deny us the opportunity to vote.
+  These individuals, individuals who have been receiving the minimum 
+wage, and their families and their allies and their supporters and the 
+workers of this country, the trade union movement, the AFL/CIO, the 
+church groups, those who represent the great faiths of this country and 
+others, particularly Democrats and some conscientious Republicans, have 
+said this is wrong and we will try to do something about it. They have, 
+over the period of time, raised the initiatives in some States. In six 
+different States where this issue was on the ballot, they indicated 
+they wanted the increase in the minimum wage. States have raised the 
+minimum wage. But we have still not had this institution, the Senate, 
+go on record and say to working families in this country that they 
+ought to get a raise.
+  Mr. President, $276 billion in tax breaks for corporations, $36 
+billion in tax breaks for small businesses, increase in productivity of 
+29 percent over the last 10 years, but do you think there is any 
+increase in the minimum wage? No. Five days on the floor of the Senate 
+we have considered immigration issues, as we have now. We have 
+considered Social Security issues. We have considered health issues. We 
+are considering education issues. We are considering additional kinds 
+of tax breaks for wealthy corporations. But do we hear from the other 
+side a willingness, as this side is willing at this moment, at 12 after 
+5 today, on Thursday? I speak for all of our Democratic Members and say 
+we are prepared to vote now, now, in 10 minutes, 15 minutes on this 
+issue.
+  But no, as we have been for the last five days--no, no, we have other 
+amendments, Senator. We have other amendments to offer.
+  We have now had amendments that have been worth over $200 billion. We 
+have had amendments on education of $35 billion. We have had health 
+savings amendments that will benefit those of average income of 
+$133,000 costing $8 billion. We have had those kinds of amendments and 
+we are looking at the Kyl amendment at $3 billion, but we still cannot 
+get $2.10 over 2 years.
+  What is the price, we ask the other side? What is the price you want 
+from these working men and women? What cost? How much more do we have 
+to give to the private sector and to business? How many billion dollars 
+more are you asking, are you requiring? When does the greed stop, we 
+ask the other side. That is the question and that is the issue, make no 
+mistake about it. They have on the Republican side 70 more amendments--
+70 more amendments. We have none. We are prepared to vote now. Seventy 
+more amendments. Oh, yes. We want an increase in the minimum wage, we 
+want this, we want that, but silence over there, or let's have some 
+other kinds of amendments that have virtually nothing to do with this. 
+Do you have such disdain for hard-working Americans that you want to 
+pile all your amendments on this? Why don't you just hold your 
+amendments for other pieces of legislation? Why this volume of 
+amendments on just the issue to try to raise the minimum wage? What is 
+it about it that drives you Republicans crazy? What is it? Something. 
+Something. Are you going to require us to have a cloture vote next 
+week? I can see it already: Amendments that have already been filed 
+that are going to be related in case we do get cloture to delay this 
+even further.
+  What is the price workers have to pay to get an increase? What is it 
+about working men and women that you find so offensive that you won't 
+permit even a vote, denying the Senate of the United States the 
+opportunity to express ourselves? We don't want to hear any more from 
+that side for the rest of this session about permitting or not 
+permitting votes in here when you are denying on the most simple 
+concept: an increase in the minimum wage. We don't want to hear any 
+more about that. This is filibuster by delay and amendments. I have 
+been around here long enough to know it when I see it and smell it. 
+That is what it looks like, that is what it is, make no mistake about 
+it. Make no mistake about it. And it just puzzles me. It really does.
+  I don't know why it is so offensive to the other side. It certainly 
+isn't the economic issues. We haven't heard those debated. We brought 
+up the various charts about what has happened in States which have 
+raised the minimum wage and how they have done better economically than 
+States that have not raised it. We have shown where small businesses 
+have done better in States where they have raised the minimum wage. We 
+have also shown what has happened when we have an increase in the 
+minimum wage.
+  We show the increased poverty. There is a long story in the New York 
+Times today:
+
+       Childhood Poverty Is Found To Portend High Adult Costs. 
+     Children who grow up poor cost the economy $500 billion a 
+     year because they are less productive, earn less money, 
+     commit more crimes, have more health-related expenses, 
+     according to a study released on Wednesday.
+
+  The study goes on. Here it is in the newspaper today, just what we 
+have been talking about--the United States with the highest poverty 
+rate for children of any industrial nation in the world.
+  What has happened? The British raise their minimum wage, and they get 
+two million children out of poverty. The Irish go to $10.80 an hour and 
+reduce the poverty for children by 40 percent. You raise the minimum 
+wage, and you get children out of poverty. Oh, no, no. ``Child Poverty 
+Is Found To Portend High Adult Costs.'' What more information do we 
+have to provide to the other side? What more do we have to do? What 
+more do we have to do?
+  Well, hopefully the American people are going to understand about who 
+is delaying, who is opposing, who is using every kind of parliamentary 
+tactic known to every possible Parliamentarian to delay action on the 
+increase in the minimum wage. It lies right at the feet of the 
+Republican leadership--right at the feet of the Republican leadership. 
+Make no mistake about it. Make no mistake about it. An amendment here, 
+an amendment there, an amendment on Social Security, an amendment on 
+immigration, and the chortling and the laughing as they go on about 
+their business. Well, for those millions of Americans who are headed 
+home tonight, after having worked long and hard, to face their children 
+and hoping that at least, after the House of Representatives voted, 
+with 80 Republicans who voted for an increase in the minimum wage, 
+certainly the Senate of the United States isn't going to fail us, what 
+do we tell them after 5 days? And $200 billion dollars more in tax cuts 
+here, $35 billion more in tax
+
+[[Page 2376]]
+
+cuts there, $8 billion more in tax cuts for HSAs. How many more 
+billions of dollars do we have to give you, Mr. Republican? How many 
+more dollars do we have to give you to get an increase in the minimum 
+wage? It is shocking. It is disgraceful. But hopefully working families 
+across this country are going to see it for what it is.
+  We have an amendment that I will just say a word about at this time, 
+but before I do, how much time do I have remaining?
+  The PRESIDING OFFICER (Mr. Whitehouse). The Senator has 12 minutes 40 
+seconds remaining.
+  Mr. KENNEDY. I would ask that the Chair tell me when I have 3 
+minutes.
+
+
+                                Iraq War
+
+  I want to take the time--since I have been listening patiently here, 
+our colleagues are going to listen to me read a rather dramatic article 
+in the New York Times today, page A-10:
+
+       In the battle for Baghdad, Haifa Street has changed hands 
+     so often that it has taken on the feel of a no man's land, 
+     the deadly space between opposing trenches. On Wednesday, as 
+     American and Iraqi troops poured in, the street showed why it 
+     is such a sensitive gauge of an urban conflict marked by 
+     front lines that melt into confusion, enemies with no clear 
+     identity and allies who disappear or do not show up at all.
+       In a miniature version of the troop increase that the 
+     United States hopes will secure the city, American soldiers 
+     and armored vehicles raced onto Haifa Street before dawn to 
+     dislodge Sunni insurgents and Shiite militias who have been 
+     battling for a stretch of ragged slums and mostly abandoned 
+     high rises. But as the sun rose, many of the Iraqi Army units 
+     who were supposed to do the actual searches of the buildings 
+     did not arrive on time, forcing the Americans to start the 
+     job on their own.
+       When the Iraqi units finally did show up, it was with the 
+     air of a class outing, cheering and laughing as the Americans 
+     blew locks off doors with shotguns. As the morning wore on 
+     and the troops came under fire from all directions, another 
+     apparent flaw in this strategy became clear as empty 
+     apartments became lairs for gunmen who flitted from window to 
+     window and killed at least one American soldier, with a shot 
+     to the head.
+       Whether the gunfire was coming from Sunni or Shiite 
+     insurgents or militia fighters or some of the Iraqi soldiers 
+     who had disappeared into the Gotham-like cityscape, no one 
+     could say.
+       ``Who the hell is shooting at us?'' shouted Sgt. First 
+     Class Marc Biletski, whose platoon was jammed into a small 
+     room off an alley that was being swept by a sniper's bullets. 
+     ``Who's shooting at us? Do we know who they are?''
+       Just before the platoon tossed smoke bombs and sprinted 
+     through the alley to a more secure position, Sergeant 
+     Biletski had a moment to reflect on this spot, which the 
+     United States has now fought to regain from a mysterious 
+     enemy at least three times in the past two years.
+       ``This place is a failure,'' Sergeant Biletski said. 
+     ``Every time we come here, we have to come back.''
+       He paused, then said, ``Well, maybe not a total failure,'' 
+     since American troops have smashed opposition on Haifa Street 
+     each time they have come in.
+       With that, Sergeant Biletski ran through the billowing 
+     yellow smoke and took up a new position.
+       The Haifa Street operation, involving Bradley Fighting 
+     Vehicles as well as the highly mobile Stryker vehicles, is 
+     likely to cause plenty of reflection by the commanders in 
+     charge of the Baghdad buildup of more than 20,000 troops. 
+     Just how those extra troops will be used is not yet known, 
+     but it is likely to mirror at least broadly the Haifa Street 
+     strategy of working with Iraqi forces to take on unruly 
+     groups from both sides of the Sunni-Shiite sectarian divide.
+       The commander of the operation, Lt. Col. Avanulas Smiley of 
+     the Third Stryker Brigade Combat Team, Second Infantry 
+     Division, said his forces were not interested in whether 
+     opposition came from bullets fired by Sunnis or by Shiites. 
+     He conceded that the cost of letting the Iraqi forces learn 
+     on the job was to add to the risk involved in the operation.
+       ``This was an Iraqi-led effort and with that come 
+     challenges and risks,'' Colonel Smiley said. ``It can be 
+     organized chaos.''
+       The American units in the operation began moving up Haifa 
+     Street from the south by 2 a.m. on Wednesday. A platoon of B 
+     Company in the Stryker Brigade secured the roof of a high 
+     rise, where an Eminen poster was stuck on the wall of what 
+     appeared to be an Iraqi teenager's room on the top floor. But 
+     in a pattern that would be repeated again and again in a 
+     series of buildings, there was no one in the apartment.
+       Many of the Iraqi units that showed up late never seemed to 
+     take the task seriously, searching haphazardly, breaking 
+     dishes and rifling through personal CD collections in the 
+     apartments. Eventually the Americans realized that the Iraqis 
+     were searching no more than half of the apartments; at one 
+     point the Iraqis completely disappeared, leaving the American 
+     unit working with them flabbergasted.
+       ``Where did they go?'' yelled Sgt. Jeri A. Gillett. Another 
+     soldier suggested, ``I say we just let them go and we do this 
+     ourselves.''
+       Then the gunfire began. It would come from high rises 
+     across the street, from behind trash piles and sandbags in 
+     alleys and from so many other directions that the soldiers 
+     began to worry that the Iraqi soldiers were firing at them. 
+     Mortars started dropping from across the Tigris River, to the 
+     east, in the direction of a Shiite slum.
+       The only thing that was clear was that no one knew who the 
+     enemy was. ``The thing is, we wear uniforms--they don't,'' 
+     said Specialist Terry Wilson.
+       At one point the Americans were forced to jog alongside the 
+     Strykers on Haifa Street, sheltering themselves as best they 
+     could from the gunfire. The Americans finally found the 
+     Iraqis and ended up accompanying them into an extremely 
+     dangerous and exposed warren of low-slung hovels behind the 
+     high rises as gunfire rained down.
+       American officers tried to persuade the Iraqi soldiers to 
+     leave the slum area for better cover, but the Iraqis refused 
+     to risk crossing a lane that was being raked by machine-gun 
+     fire. ``It's their show,'' said Lt. David Stroud, adding that 
+     the Americans have orders to defer to the Iraqis in cases 
+     like this.
+       In this surreal setting, about 20 American soldiers were 
+     forced at one point to pull themselves one by one up a canted 
+     tin roof by a dangling rubber hose and then shimmy along a 
+     ledge to another hut. The soldiers were stunned when a small 
+     child suddenly walked out of a darkened doorway and an old 
+     man started wheezing and crying somewhere inside.
+       Ultimately the group made it back to the high rises and 
+     escaped the sniper in the alley by throwing out the smoke 
+     bombs and sprinting to safety. Even though two Iraqis were 
+     struck by gunfire, many of the rest could not stop shouting 
+     and guffawing with amusement as they ran through the smoke.
+       One Iraqi soldier in the alley pointed his rifle at an 
+     American reporter and pulled the trigger. There was only a 
+     click: the weapon had no ammunition. The soldier laughed at 
+     his joke.
+
+  Mr. President, how much time do I have remaining?
+  The PRESIDING OFFICER. The Senator from Massachusetts has 5 minutes 
+50 seconds remaining.
+  Mr. KENNEDY. Mr. President, this report in the New York Times is the 
+reason our people are becoming angrier by the day as the war rages on. 
+They expect Congress to be an effective restraint on the President and 
+his misuse of the war power. Opposition to the escalation of the Iraq 
+war is becoming louder. How much clearer does the opposition have to be 
+before the President finally listens and responds to the voices of the 
+American people, the generals, and a bipartisan majority of Congress?
+  General Abizaid doesn't support this escalation. He told the Senate 
+Armed Services Committee:
+
+       More American forces prevent the Iraqis from doing more, 
+     from taking more responsibility for their own future.
+
+  GEN James Conway, Commandant of the Marine Corps, doesn't support it. 
+He said:
+
+       We do not believe just adding numbers for the sake of 
+     adding numbers--just thickening the mix--is necessarily the 
+     way to go.
+
+  Secretary Powell said that he is not ``persuaded that another surge 
+of troops in Baghdad for the purpose of suppressing this communitarian 
+violence, this civil war, will work.''
+  GEN Barry McCaffrey, former Vice Chief of Staff of the U.S. Army, 
+thinks it won't work. He said:
+
+       Putting another 20,000 to 30,000 troops, particularly in 
+     urban combat in a city of 7 million Arabs of Baghdad, is a 
+     fool's errand. It is sticking your finger in the water. When 
+     you pull your finger out, its presence will not have made a 
+     difference.
+
+  General Hoar, former head of CENTCOM, told the Senate Foreign 
+Relations Committee last week:
+
+       The addition of 21,000 troops is too little and too late. 
+     This is still not enough to quell the violence, and without 
+     major changes in the command and control of forces within 
+     Baghdad, the current set-up for shared control is 
+     unsatisfactory.
+
+  Passage of the bipartisan resolution approved yesterday by the 
+Foreign Relations Committee is an important statement about the need 
+for a different course in Iraq, and I will support it. But we cannot 
+stop there, especially if the President continues to unilaterally 
+impose his failing policy on an America that has already rejected it.
+
+[[Page 2377]]
+
+Congress has a constitutional duty to stop the President from sending 
+more of our sons and daughters into this civil war. That is why I have 
+introduced legislation that would require the President to get the 
+authority he needs from Congress before moving forward with a further 
+escalation in Iraq, and I intend to seek a vote on it.
+  This is a debate about what is best for our troops and our national 
+security. Our forces have served with great valor. They have done 
+everything they have been asked to do. They have served in Iraq for 
+longer than 4 years, longer than World War II. They have done 
+everything they have been asked to do. They have won every battle they 
+have been in, and they have served with great courage and great valor. 
+We owe them. We owe their bravery, their courage, their dedication, and 
+their commitment to the United States of America a better and fairer 
+policy that will bring them safely home.
+  The PRESIDING OFFICER. The Senator has 3 minutes remaining.
+  Mr. KENNEDY. Mr. President, on the matter directly before the Senate, 
+the Sessions amendment, the amendment bars employers from receiving 
+Government contracts if they have violated the immigration laws that 
+prohibit the hiring of illegal workers. There is no judicial review, 
+but the Attorney General can waive the prohibition or limit the scope 
+if it is necessary to the national defense or in the interests of 
+national security. An exemption from the penalty is provided to 
+employers participating in the basic pilot program, the current 
+employer verification system.
+  This amendment bars employers from receiving Government contracts if 
+they violate the immigration laws that prohibit the hiring of illegal 
+workers. I am surprised that is not already the law. We certainly 
+should bar them from receiving lucrative Government contracts and, 
+therefore, I will support this amendment.
+  I do have concerns, however, about continuing to pass piecemeal 
+enforcement-only measures without enacting a comprehensive reform 
+program, and I would express reservations about others.
+  We will have the opportunity in the Senate Judiciary Committee, of 
+which I happen to be the chairman of the immigration subcommittee at 
+this time, to consider the immigration bill. We welcome the full 
+opportunity to debate and discuss those issues in the subcommittee, the 
+full committee, and in the Senate. I will support this amendment and 
+withhold the remainder of my time.
+  The PRESIDING OFFICER. Who yields time?
+  The Senator from Alabama.
+  Mr. SESSIONS. How much time remains on this side?
+  The PRESIDING OFFICER. The Senator has 7 minutes 15 seconds.
+  Mr. SESSIONS. Mr. President, we want higher wages for American 
+workers. This is important. I would like to see them receive $15, $20, 
+$30 an hour, not $7 an hour. I would like to create economic forces to 
+work so the average worker can benefit from that without some sort of 
+Government wage control. I have voted for minimum wage increases.
+  We are going to move this bill forward, as I understand it, with a 
+package of relief provisions for small businesses, and it will be 
+passed. But we are not through yet with some relevant, important 
+amendments. Is that what my colleagues object to? They certainly did 
+not object to it when the Republicans were moving bills through the 
+Senate last year or the year before. Senator Kennedy can file a stack 
+of amendments 2 feet thick if he desires. There is nothing wrong with 
+offering some amendments, and we will move forward.
+  I will say a couple of things about it. We had amendments in the 
+Senate almost every year in recent years--3, 4, 5 years--that would 
+have raised the minimum wage and would have provided relief for small 
+business. But the Democratic leadership, to make a political point, 
+preferred not to have that and blocked that provision, voting only for 
+their pure increase of the minimum wage.
+  So we are at this standoff that I think is particularly silly in 
+light of the fact now that the bill we are about to pass, and I suggest 
+will pass, is going to have the same small business relief provisions 
+in it that could have been passed last time, last year, or before.
+  I don't appreciate the suggestion that we are here to protect 
+corrupt, greedy, business people. My amendment targets greedy 
+contractors, contractors who go out with Federal taxpayer money, hire 
+people here illegally instead of hiring Americans to do work for the 
+U.S. taxpayers. Let's crack down on them. I am glad the Senator 
+supports that. However, I am disappointed that his leadership opposed a 
+far more significant amendment that would have raised the minuscule 
+$250 fine on big, greedy businesses that hire illegal workers. Why 
+would they object to that when, in hiring those numbers by the tens or 
+hundreds of thousands, we pull down the wages of American citizens? Why 
+would we do that? Who is greedy now? What is wrong with creating a 
+lawful system? Why don't we take care of our American workers?
+  Just in the last week there was an article on the front page of the 
+Wall Street Journal about a chicken plant in Georgia. They raided that 
+plant and nearly three-fourths of the workers disappeared. Some were 
+arrested for being there illegally. The company went out and ran ads in 
+the paper to say they were having new wage increases at the chicken 
+plant. They were paying more than $1 an hour more. They sent buses to 
+nearby towns to see if people wanted free rides to work. They provided 
+dormitories for those who wanted to stay in the dormitory. They went 
+through unemployment agencies in Georgia. They have already hired 200 
+workers, mostly African-American citizens, for those jobs. Another 200 
+applications were pending. Don't tell me that if we have a lawful 
+system of immigration it won't improve significantly the wages of 
+American workers.
+  I suggest my colleague from Massachusetts introduce himself to 
+Professor Borjas at Harvard who has written a book on it. He says it 
+has brought down the wages of low-income workers by as much as 8 
+percent, which is $100 per month, or $1,200 per year.
+  I submit these amendments are not irrelevant to our discussion. I 
+note that small businesses do not all get rich. I met the nicest young 
+man who opened a restaurant in Mobile, AL. He was working 90-hour weeks 
+for months. He didn't know whether he was going to make it. He was not 
+making a minimum wage, not in the weeks he started his business. He 
+turned it around. Now he works 70-hour weeks and his business seems to 
+be doing well. I hope he makes a lot of money. But he has some 
+legitimate concerns for those small businesses to help him be 
+successful. If he failed, a lot of people would not have had jobs.
+  We are coming to the conclusion of the time in which we will vote. 
+This is a good amendment. We ought not have corporations or businesses 
+getting Government contracts and going out and hiring people who are 
+illegal to make an extra buck. It is not right. We have a system in 
+place that should be in place for every business in America. It is a 
+system that we in the Senate follow, the House of Representatives 
+follows, and every Government agency in America follows. But you can 
+hire somebody; you go online and you verify their employment legality. 
+It works very well. If the employer does that, they will not be subject 
+to penalty under this act.
+  We need to take some real steps in that regard. I believe we can do 
+so. We will need to do more of it if we want to protect our workers. 
+One way not to protect the salaries of workers would be to pass the 
+bill that was before the Senate that came out of the Senate Judiciary 
+Committee last year, the Kennedy-McCain bill, that would have added as 
+many as five times the number of people into this country legally as 
+currently are allowed. As it finally left the Senate, it would have 
+increased by three times the number of people legally in this country. 
+That would have a devastating impact on low-income workers in America. 
+We cannot assimilate that many people that rapidly.
+  When we talk about comprehensive reform, let's talk about that. Let's 
+see
+
+[[Page 2378]]
+
+if we can't do it. Let's do it in a way that protects the livelihoods 
+of the least in our Government.
+  I yield the floor.
+  The PRESIDING OFFICER. The Senator from Massachusetts.
+  Mr. KENNEDY. Mr. President, I ask unanimous consent following the 
+vote with respect to Sessions amendment No. 148, the Senate resume 
+consideration of Kyl amendment No. 205; there be 10 minutes equally 
+divided between Senator Kyl and Senator Baucus prior to a vote in 
+relation to the amendment, with no second-degree amendment in order 
+prior to the vote.
+  Mr. ALLARD. Mr. President, reserving the right to object, I have an 
+amendment I have been waiting for some time to try and bring up. I have 
+a commitment from 6 o'clock to about 6:45.
+  My inquiry is, do the managers of this amendment plan on being around 
+here later this evening so I can have an opportunity to offer that 
+amendment or can I have an opportunity Friday when we come in to bring 
+up my amendment?
+  Mr. KENNEDY. It is my understanding we are going to be on this bill 
+as far as the eye can see. That is part of my problem on it.
+  Is the Senator's amendment at the desk?
+  Mr. ALLARD. It is at the desk. I am willing to do it tomorrow morning 
+if I could just get some time set aside.
+  Mr. KENNEDY. I have this request at this particular time. We would be 
+glad to look at the amendment. I am not familiar with the amendment 
+right now. There are a number of others who have asked to be heard. I 
+have been here all day, as well. We are trying to process these 
+amendments. We have other amendments, but we will do the best we can. I 
+plan on being around tomorrow. I don't know if we will be on this bill. 
+We are having the debate on General Patraeus tomorrow. I plan to be 
+here Monday. I plan to be here Tuesday.
+  Mr. ALLARD. As long as I have an opportunity to bring up my 
+amendment, I would like that opportunity at some point.
+  Mr. KENNEDY. The Senator can call it up after the vote. There is no 
+problem. Whether we will dispose of it is a different issue.
+  Mr. ALLARD. With the hope that we could at least get it in the queue?
+  Mr. KENNEDY. Certainly.
+  Mr. ALLARD. That would be fine.
+  The PRESIDING OFFICER. Is there objection to the unanimous consent 
+request of the Senator from Massachusetts?
+  Without objection, it is so ordered.
+  Mr. KENNEDY. Mr. President, the hour has arrived and I ask for the 
+yeas and nays.
+  The PRESIDING OFFICER. Is there a sufficient second?
+  There is a sufficient second.
+  The question is on agreeing to the amendment.
+  The clerk will call the roll.
+  The legislative clerk called the roll.
+  Mr. DURBIN. I announce that the Senator from Hawaii (Mr. Inouye), the 
+Senator from South Dakota (Mr. Johnson), and the Senator from New York 
+(Mr. Schumer) are necessarily absent.
+  Mr. LOTT. The following Senators were necessarily absent: the Senator 
+from Oklahoma (Mr. Coburn), the Senator from Alaska (Mr. Stevens), and 
+the Senator from Wyoming (Mr. Thomas).
+  The PRESIDING OFFICER. Are there any other Senators in the Chamber 
+desiring to vote?
+  The result was announced--yeas 94, nays 0, as follows:
+
+                      [Rollcall Vote No. 31 Leg.]
+
+                                YEAS--94
+
+     Akaka
+     Alexander
+     Allard
+     Baucus
+     Bayh
+     Bennett
+     Biden
+     Bingaman
+     Bond
+     Boxer
+     Brown
+     Brownback
+     Bunning
+     Burr
+     Byrd
+     Cantwell
+     Cardin
+     Carper
+     Casey
+     Chambliss
+     Clinton
+     Cochran
+     Coleman
+     Collins
+     Conrad
+     Corker
+     Cornyn
+     Craig
+     Crapo
+     DeMint
+     Dodd
+     Dole
+     Domenici
+     Dorgan
+     Durbin
+     Ensign
+     Enzi
+     Feingold
+     Feinstein
+     Graham
+     Grassley
+     Gregg
+     Hagel
+     Harkin
+     Hatch
+     Hutchison
+     Inhofe
+     Isakson
+     Kennedy
+     Kerry
+     Klobuchar
+     Kohl
+     Kyl
+     Landrieu
+     Lautenberg
+     Leahy
+     Levin
+     Lieberman
+     Lincoln
+     Lott
+     Lugar
+     Martinez
+     McCain
+     McCaskill
+     McConnell
+     Menendez
+     Mikulski
+     Murkowski
+     Murray
+     Nelson (FL)
+     Nelson (NE)
+     Obama
+     Pryor
+     Reed
+     Reid
+     Roberts
+     Rockefeller
+     Salazar
+     Sanders
+     Sessions
+     Shelby
+     Smith
+     Snowe
+     Specter
+     Stabenow
+     Sununu
+     Tester
+     Thune
+     Vitter
+     Voinovich
+     Warner
+     Webb
+     Whitehouse
+     Wyden
+
+                             NOT VOTING--6
+
+     Coburn
+     Inouye
+     Johnson
+     Schumer
+     Stevens
+     Thomas
+  The amendment (No. 148) was agreed to.
+
+
+                           Amendment No. 205
+
+  The PRESIDING OFFICER. There are now 10 minutes equally divided prior 
+to a vote in relation to the Kyl amendment No. 205. Who yields time?
+  The Senator from Arizona.
+  Mr. KYL. Mr. President, in 10 minutes we will have a vote on an 
+amendment which I offered earlier that merely extends the small 
+business Tax Code provisions that came out of the Finance Committee, 
+which were adopted unanimously, from March 31 of next year through 
+December 31. Everybody recognized that if we could afford to do it, we 
+wanted to extend them as long as we could, but the funds were there 
+simply to extend it through March 31. No small business can plan on 
+that short of a timeframe. So I think everybody would agree it is good 
+policy.
+  In the committee, we agreed it was important to extend these 
+benefits. These are primarily the writeoff periods for small business 
+leasehold improvements, restaurants, and so on. Restaurants are about 
+60 percent of the people who will be receiving the benefits of the 
+minimum wage increase and, therefore, these tax benefits clearly are 
+important to them.
+  It is totally paid for. I hope my colleagues will be willing to 
+extend these provisions from March 31 of next year through December 31 
+of next year.
+  I reserve the remainder of my time and yield to Senator Grassley.
+  The PRESIDING OFFICER (Mr. Nelson of Florida). The Senator from Iowa.
+  Mr. GRASSLEY. Mr. President, I am committed to the core package that 
+we have a bipartisan agreement for, but within the committee we have 
+had an understanding that if there is an add-on and if it is revenue 
+neutral, they would be considered. So we are improving this package, 
+the small business portions of it that nobody has any dispute ought to 
+be done. There is some dispute over the offset. I wish to concentrate 
+on that offset. It is fully offset. It comes from a proposal that comes 
+from the Joint Committee on Taxation, not from the Republican side or 
+the Democratic side but a nonpartisan side, that there is an inequity 
+in provisions for payment. For instance, if you work for Principal 
+Financial in Des Moines and they pay for your college, it is going to 
+be taxed, but if you work for a university and you send your kids to 
+college, it is tax free. So Joint Tax sees that as an inequity. We use 
+that as a good offset. It is a good offset. I believe Senator Kyl has 
+worked hard to develop an amendment that will make the small business 
+depreciation much better and more meaningful. I hope Members will 
+support Senator Kyl.
+  The PRESIDING OFFICER. Who yields time?
+  The Senator from Montana.
+  Mr. BAUCUS. Mr. President, I have the highest regard for the Senator 
+from Arizona, as well as my very good friend from Iowa, Senator 
+Grassley. They neglected to tell you about the pay-for. First of all, 
+this amendment is moving in the right direction to extend the leasehold 
+improvement. However, in the committee, we tried to get a balanced 
+package that also extends provisions for WOTC and other provisions to 
+get it balanced. This amendment addresses one side of the equation. It 
+is not balanced because it doesn't extend for the other side of the 
+equation, which is the work opportunity tax credit. The primary problem 
+I have with this amendment is the pay-for.
+  Essentially this amendment, offered by the Senator from Arizona, 
+prevents, to a large degree, parents trying to get a good education for 
+their kids. These
+
+[[Page 2379]]
+
+are parents who work for various educational institutions. It could be 
+kindergarten, high school. It could be a college. Under current law, a 
+lot of people--janitors, cafeteria workers--take a cut in pay to work 
+for institutions, knowing they will get a break in their tuition. This 
+amendment takes that away. This amendment takes away a tax break for 
+that person who has been working 8, 10, 15 years at an institution, 
+knowing that his or her child, who may be a junior or sophomore in 
+college, is there to get a good education. This amendment takes that 
+incentive away. It cuts people off midstream. Again, these are not the 
+children of professors. They tend to be the children of people who 
+work, the plumbers who work at college, universities, and so forth.
+  This applies to all private education. It could be parochial, 
+nonparochial. We all know examples of parents who sacrifice to get 
+their kids through school. This amendment takes away that break that 
+those parents are now getting.
+  It is not a good thing. Earlier today, we were talking about ways to 
+expand tax credits and incentives for people so they can get an 
+education. This amendment takes away incentives for people to get a 
+good education. It is the wrong amendment. The pay-for is not correct. 
+We should, therefore, not agree to the amendment. At the appropriate 
+time, I will move to table.
+  The PRESIDING OFFICER. The Senator from Arizona.
+  Mr. KYL. Mr. President, please understand that one of the things my 
+friend from Montana said is not correct. We are not taking away the 
+$5,000 benefit that exists for everybody who provides for tuition to be 
+tax free. That remains. We are not touching that. All we are saying is 
+that it ought to be the same for the son or daughter of a college 
+professor as the son or daughter of the manager of the pizza shop. The 
+only one who gets the tuition tax break that is tax free is the son or 
+daughter of the college professor. But if you work for a small business 
+and your boss decides to send your child to school, pay the tuition for 
+that child, you could still get that tuition, but you have to pay the 
+tax consequences of that; that is a taxable benefit. There should be no 
+differentiation between working for a small business or a big business, 
+for that matter, or being the son or daughter of a college professor.
+  That is what the bipartisan Joint Tax Committee said. This is totally 
+unfair. It is part of the closing of the tax gap because of the 
+unfairness between one small group of our society and everybody else. 
+All this does is equalize the tax treatment of the employer providing 
+the tuition free for the student. That pays for what everyone 
+recognizes is a very important extension of the small business 
+provisions of the Finance Committee from March 31 of next year through 
+December 31 of next year.
+  I urge Members to vote against the motion to table the amendment.
+  Mr. KENNEDY. Mr. President, this is not an omnibus tax bill, it is 
+long overdue legislation to increase the minimum wage. It is not an 
+opportunity for Members to present their tax cut wish list. It is 
+Congress' opportunity to finally right the wrong of denying millions of 
+hard working minimum wage workers a raise for 10 years.
+  Since the minimum wage was last increased 10 years ago, Congress has 
+passed $276 billion dollars in corporate tax breaks. In addition, 
+Congress has cut taxes for individuals by more than a trillion dollars, 
+with most of the benefits going to the wealthiest taxpayers.
+  Unfortunately, for some of our Republican colleagues, there never are 
+enough tax breaks for the wealthy. They have filed more than twenty 
+five amendments proposing new or expanded tax cuts. Many of them would 
+cost billions of dollars.
+  The Republicans are attempting to hold the minimum wage increase 
+hostage to their insatiable desire for more and larger tax cuts. It is 
+a shameless strategy.
+  The Kyl amendment seeks to extend the period of time when businesses 
+can receive accelerated depreciation for leasehold restaurant and 
+retail space improvements. The original amendment contained no offset. 
+It would have cost $3 billion dollars.
+  After being told by Democratic leaders that we would oppose any tax 
+breaks that weren't paid for, Senator Kyl changed his amendment to 
+include an offset.
+  The problem is that the tax benefit he proposes to eliminate is much 
+more worthy than the tax break he is seeking to create. He is proposing 
+to eliminate a long-standing tax provision that allows employees of 
+educational institutions to receive free tuition for their children. He 
+wants to tax that free tuition. This would be a huge tax increase for 
+hundreds of thousands of families with very modest incomes. They are 
+teachers, food service workers, and maintenance personnel at colleges 
+and schools across America. Many of them have worked for years in jobs 
+with lower wages than they could have earned elsewhere in order to 
+receive these educational opportunities for their children. Right now 
+more than 150,000 students are attending college because of these 
+benefits.
+  More than one-fifth of all graduate students in our country receive 
+employer benefits from the schools they attend, including tuition 
+reduction. Senator Kyl's amendment would make it more difficult for 
+these students to remain in school as well.
+  To change existing law and suddenly make that free tuition taxable 
+will mean that many of these people can not afford to take advantage of 
+the free tuition. That would be grossly unfair. It would be eliminating 
+a very legitimate pro-education tax benefit to fund yet another 
+business tax break for the same wealthy interests that have already 
+received so much.
+  At a time when our Nation's competitiveness and the global economy 
+depends on our ability to continue producing high skilled workers, 
+making it more difficult for students to obtain an education just 
+doesn't make sense.
+  Senator Kyl's amendment would have an ironic result. It would mean 
+that thousands of men and women, who toil at the most difficult jobs at 
+our nation's colleges, will have no hope of seeing their children walk 
+through those college gates themselves.
+  The PRESIDING OFFICER. The Senator from Montana.
+  Mr. BAUCUS. Mr. President, how much time remains?
+  The PRESIDING OFFICER. The Senator from Montana has 1 minute 49 
+seconds. The Senator from Arizona has 4 seconds.
+  Mr. KYL. I yield back the remainder of my time.
+  Mr. BAUCUS. I will be brief.
+  The argument by the Senator from Arizona is not apt. It is a false 
+analogy. Why? Because we are talking in the main about parents who 
+currently are working, who are currently relying upon the current tax 
+provisions. We are not talking about those who may or may not be 
+considering going to that institution. We are talking about those 
+currently working there. This will be taken away from them. Some of 
+these people are working hard. They are taking a big cut in pay to work 
+at an educational institution so their kids get educated. We are 
+saying: take it away. You have been working there.
+  We are leaving that family high and dry. I think it is the wrong 
+thing to do.
+  There is a proper time to deal with these provisions. This is not the 
+time. It is a bad amendment anyway. Let's figure out ways to give 
+benefits for kids to go to school, not to take them away.
+  I yield back my time, move to table the amendment, and ask for the 
+yeas and nays.
+  The PRESIDING OFFICER. Is there a sufficient second?
+  There appears to be a sufficient second.
+  The question is on agreeing to the motion. The clerk will call the 
+roll.
+  The bill clerk called the roll.
+  Mr. LOTT. The following Senators were necessarily absent: the Senator 
+from Colorado (Mr. Allard), the Senator from Oklahoma (Mr. Coburn), the 
+Senator from Alaska (Mr. Stevens), and the Senator from Wyoming (Mr. 
+Thomas).
+  Mr. DURBIN. I announce that the Senator from California (Mrs. Boxer),
+
+[[Page 2380]]
+
+The Senator from Hawaii (Mr. Inouye), the Senator from South Dakota 
+(Mr. Johnson), and the Senator from New York (Mr. Schumer) are 
+necessarily absent.
+  The PRESIDING OFFICER. Are there any other Senators in the Chamber 
+desiring to vote?
+  The result was announced--yeas 50, nays 42, as follows:
+
+                      [Rollcall Vote No. 32 Leg.]
+
+                                YEAS--50
+
+     Akaka
+     Alexander
+     Baucus
+     Bayh
+     Biden
+     Bingaman
+     Brown
+     Byrd
+     Cantwell
+     Cardin
+     Carper
+     Casey
+     Clinton
+     Collins
+     Conrad
+     Dodd
+     Dorgan
+     Durbin
+     Feingold
+     Feinstein
+     Harkin
+     Kennedy
+     Kerry
+     Klobuchar
+     Kohl
+     Landrieu
+     Lautenberg
+     Leahy
+     Levin
+     Lieberman
+     Lincoln
+     McCaskill
+     Menendez
+     Mikulski
+     Murray
+     Nelson (FL)
+     Nelson (NE)
+     Obama
+     Pryor
+     Reed
+     Reid
+     Rockefeller
+     Salazar
+     Sanders
+     Snowe
+     Stabenow
+     Tester
+     Webb
+     Whitehouse
+     Wyden
+
+                                NAYS--42
+
+     Bennett
+     Bond
+     Brownback
+     Bunning
+     Burr
+     Chambliss
+     Cochran
+     Coleman
+     Corker
+     Cornyn
+     Craig
+     Crapo
+     DeMint
+     Dole
+     Domenici
+     Ensign
+     Enzi
+     Graham
+     Grassley
+     Gregg
+     Hagel
+     Hatch
+     Hutchison
+     Inhofe
+     Isakson
+     Kyl
+     Lott
+     Lugar
+     Martinez
+     McCain
+     McConnell
+     Murkowski
+     Roberts
+     Sessions
+     Shelby
+     Smith
+     Specter
+     Sununu
+     Thune
+     Vitter
+     Voinovich
+     Warner
+
+                             NOT VOTING--8
+
+     Allard
+     Boxer
+     Coburn
+     Inouye
+     Johnson
+     Schumer
+     Stevens
+     Thomas
+  The motion was agreed to.
+  Mr. BAUCUS. I move to reconsider the vote.
+  Mr. GRASSLEY. I move to lay that motion on the table.
+  The motion to lay on the table was agreed to.
+  The PRESIDING OFFICER. The Senator from Wyoming.
+
+
+                 Amendment No. 169 to Amendment No. 100
+
+  Mr. ENZI. Mr. President, I ask unanimous consent that the pending 
+amendment be set aside, and I call up amendment No. 169.
+  The PRESIDING OFFICER. Without objection, it is so ordered. The clerk 
+will report the amendment.
+  The legislative clerk read as follows:
+
+       The Senator from Wyoming [Mr. Enzi], for Mr. Allard, 
+     proposes an amendment numbered 169 to amendment No. 100.
+
+  Mr. ENZI. Mr. President, I ask unanimous consent that the reading of 
+the amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+
+ (Purpose: To prevent identity theft by allowing the sharing of social 
+  security data among government agencies for immigration enforcement 
+                               purposes)
+
+       At the end, add the following new section:
+
+     SEC. __. SHARING OF SOCIAL SECURITY DATA FOR IMMIGRATION 
+                   ENFORCEMENT PURPOSES.
+
+       (a) Social Security Account Numbers.--Section 264(f) of the 
+     Immigration and Nationality Act (8 U.S.C. 1304(f)) is amended 
+     to read as follows:
+       ``(f) Notwithstanding any other provision of law (including 
+     section 6103 of the Internal Revenue Code of 1986), the 
+     Secretary of Homeland Security, the Secretary of Labor, and 
+     the Attorney General are authorized to require any individual 
+     to provide his or her own social security account number for 
+     purposes of inclusion in any record of the individual 
+     maintained by either such Secretary or the Attorney General, 
+     or of inclusion in any application, document, or form 
+     provided under or required by the immigration laws.''.
+       (b) Exchange of Information.--Section 290(c) of the 
+     Immigration and Nationality Act (8 U.S.C. 1360(c)) is amended 
+     by striking paragraph (2) and inserting the following new 
+     paragraphs:
+       ``(2)(A) Notwithstanding any other provision of law 
+     (including section 6103 of the Internal Revenue Code of 1986) 
+     if earnings are reported on or after January 1, 1997, to the 
+     Social Security Administration on a social security account 
+     number issued to an alien not authorized to work in the 
+     United States, the Commissioner of Social Security shall 
+     provide the Secretary of Homeland Security with information 
+     regarding the name, date of birth, and address of the alien, 
+     the name and address of the person reporting the earnings, 
+     and the amount of the earnings.
+       ``(B) The information described in subparagraph (A) shall 
+     be provided in an electronic form agreed upon by the 
+     Commissioner and the Secretary.
+       ``(3)(A) Notwithstanding any other provision of law 
+     (including section 6103 of the Internal Revenue Code of 
+     1986), if a social security account number was used with 
+     multiple names, the Commissioner of Social Security shall 
+     provide the Secretary of Homeland Security with information 
+     regarding the name, date of birth, and address of each 
+     individual who used that social security account number, and 
+     the name and address of the person reporting the earnings for 
+     an individual who used that social security account number.
+       ``(B) The information described in subparagraph (A) shall 
+     be provided in an electronic form agreed upon by the 
+     Commissioner and the Secretary for the sole purpose of 
+     enforcing the immigration laws.
+       ``(C) The Secretary, in consultation with the Commissioner, 
+     may limit or modify the requirements of this paragraph, as 
+     appropriate, to identify the cases posing the highest 
+     possibility of fraudulent use of social security account 
+     numbers related to violation of the immigration laws.
+       ``(4)(A) Notwithstanding any other provision of law 
+     (including section 6103 of the Internal Revenue Code of 
+     1986), if more than one person reports earnings for an 
+     individual during a single tax year, the Commissioner of 
+     Social Security shall provide the Secretary of Homeland 
+     Security information regarding the name, date of birth, and 
+     address of the individual, and the name and address of the 
+     each person reporting earnings for that individual.
+       ``(B) The information described in subparagraph (A) shall 
+     be provided in an electronic form agreed upon by the 
+     Commissioner and the Secretary for the sole purpose of 
+     enforcing the immigration laws.
+       ``(C) The Secretary, in consultation with the Commissioner, 
+     may limit or modify the requirements of this paragraph, as 
+     appropriate, to identify the cases posing the highest 
+     possibility of fraudulent use of social security account 
+     numbers related to violation of the immigration laws.
+       ``(5)(A) The Commissioner of Social Security shall perform, 
+     at the request to the Secretary of Homeland Security, any 
+     search or manipulation of records held by the Commissioner if 
+     the Secretary certifies that the purpose of the search or 
+     manipulation is to obtain information that is likely to 
+     assist in identifying individuals (and their employers) who 
+     are using false names or social security numbers, who are 
+     sharing a single valid name and social security number among 
+     multiple individuals, who are using the social security 
+     number of a person who is deceased, too young to work, or not 
+     authorized to work, or who are otherwise engaged in a 
+     violation of the immigration laws. The Commissioner shall 
+     provide the results of such search or manipulation to the 
+     Secretary, notwithstanding any other provision law (including 
+     section 6103 of the Internal Revenue Code of 1986).
+       ``(B) The Secretary shall transfer to the Commissioner the 
+     funds necessary to cover the costs directly incurred by the 
+     Commissioner in carrying out each search or manipulation 
+     requested by the Secretary under subparagraph (A).''.
+       (c) False Claims of Citizenship by Nationals of the United 
+     States.--Section 212(a)(6)(C)(ii)(I) of the Immigration and 
+     Nationality Act (8 U.S.C. 1182(a)(6)(C)(ii)(I)) is amended by 
+     inserting ``or national'' after ``citizen''.
+
+  Mr. ALLARD. Mr. President, I have introduced a couple of amendments. 
+The reason I have done so is because I think we need to take this 
+opportunity to address more than just minimum wage.
+  My good friend from Massachusetts talked a lot about the working men 
+and women of this country, but minimum wage does not address all the 
+working men and women in this country. We need to broaden this 
+legislation so we talk about those who are in business for themselves, 
+the small businesspeople. Many times the working men and women of this 
+country, when they start their business, which I have had a wonderful 
+opportunity to do, have to save their money because they have to count 
+on not making much money their first 2 or 3 years, if they make any at 
+all. Then, after 3 years, maybe, if you do a good job and hit the 
+market right, your business will survive. However, a lot of small 
+businesspeople fail. So we need to understand, when we talk about the 
+working American men and women of this country, we need to make sure we 
+have legislation that is all inclusive. We need to keep all of them in 
+mind when we work on this particular legislation. That is why so many 
+of us believe this legislation needs to deal with more than just 
+minimum wage. It needs to deal with some regulatory and tax relief for 
+small businesspeople because they are working men and women in this 
+country, also.
+  I also rise today to ask the Members of the Senate to support my 
+amendment, No. 169 to the pending minimum wage bill. It cuts at the 
+heart of a
+
+[[Page 2381]]
+
+rampant problem in this country; that is, identity theft. A resolution 
+of this problem has the potential to help small business. On Monday, a 
+bipartisan group of Senators and I met with Secretary Chertoff on this 
+issue. Secretary Chertoff explained that, under current law, Government 
+agencies are prevented from sharing information with one another that, 
+if shared, could expose cases of identity theft.
+  My amendment tears down the wall that prevents the sharing of 
+existing information among Government agencies. It permits the 
+Commissioner of Social Security to share information with the Secretary 
+of Homeland Security, where such information is likely to assist in 
+discovering identity theft, Social Security number misuse or violations 
+of immigration law. This is going to help small businesses such as 
+construction businesses, farmers, ranchers, drywall businesses, 
+horticulture and landscape companies and many more.
+  Specifically, this amendment requires the Commissioner to inform the 
+Secretary of Homeland Security, upon discovery of a Social Security 
+account number being used with multiple names, or where an individual 
+has more than one person reporting earnings for him or her during a 
+single tax year. It seems logical that we would already be doing this, 
+but we are not.
+  In the meantime, identity theft is plaguing innocent victims all 
+across the country. We were reminded of the pervasiveness of this 
+problem by the recent raids by Immigration and Customs Enforcement of 
+six Swift and Company meat-packing plants across the country on 
+December 12, 2006. In total, agents apprehended 1,282 illegal alien 
+workers on administrative immigration violations. Of these, 65 have 
+also been charged with criminal violations related to identity theft or 
+other violations.
+  Unfortunately, for the victims--that is the victims of identity 
+theft--by the time the identity theft is discovered, the damage has 
+already been done. Colorado is ranked fifth in the Nation for identity 
+theft, and the citizens of my State of Colorado are no stranger to 
+identity theft.
+  For instance, an 84-year-old Grand Junction woman was deemed 
+ineligible for Federal housing assistance because her Social Security 
+number was being used at a variety of jobs in Denver, making her income 
+too high to qualify because all these individuals had been using her 
+I.D. number and it was coming in to Social Security, and when they 
+checked on her income, it was recorded much higher than what she was 
+receiving. If this had been discovered earlier, before she had applied 
+for her housing grants, there would have been fewer victims.
+  Another example is a 10-year-old child in Douglas County who had his 
+identity stolen. His Social Security number was being used at 17 
+different jobs. Now, if this had been discovered earlier, again, we 
+would have had fewer victims.
+  Others get stuck with big tax bills for wages they never earned. 
+Clearly, theft is an issue that affects people of all ages and walks of 
+life, particularly those working for minimum wage who may struggle to 
+pay the cost of getting their identity back after it has been stolen. 
+Again, if these cases could have been discovered earlier, then there 
+would have been fewer victims.
+  Yet when the Social Security Administration has reason to believe 
+that a Social Security number is being used fraudulently, they are 
+prevented from sharing it with the Department of Homeland Security. 
+Withholding this information effectively enables thieves to continue to 
+perpetrate the crime of identity theft against innocent victims.
+  Pilot programs such as what was being used at Swift and Company are 
+managed through the Department of Homeland Security. What they say to 
+the employer is: We will help you verify that the employee's social 
+security number is legitimate and it matches the name provided. 
+However, Secretary Chertoff explained the limitations of the program. 
+He said, if two people are using the same Social Security number at the 
+same time, he can't get the information to recognize it. So when a 
+number comes in to his agency when he is working with these pilot 
+programs, all he can assure is that the name goes with the Social 
+Security number. But he can't get the information out of the Social 
+Security Administration as to whether two people are using the same 
+number.
+  In some cases, as in the child I mentioned, the same social security 
+number is being used in as many as 17 different jobs at once. We have 
+had thousands of cases in Colorado where this has happened, where the 
+victim didn't realize that somebody else was using their Social 
+Security number until they were contacted by the Internal Revenue 
+Service and told that they weren't reporting all their income, and they 
+discovered that somebody else was using it at their place of 
+employment.
+  So by simply sharing this information, cases of identity theft could 
+be discovered much sooner. Victims of identity theft deserve to have 
+this information acted on, and my amendment enables this.
+  We have a choice. We can side with the victims or side with the 
+thieves. I urge my colleagues to take the side of the victims and enact 
+this commonsense reform.
+  Mr. President, I ask unanimous consent to insert for the Record an 
+article in the Rocky Mountain News entitled ``Owens Wants Action on ID 
+Theft.''
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+              [From the Rocky Mountain News, July 6, 2006]
+
+                     Owens Wants Action on ID Theft
+
+                           (By David Montero)
+
+       Gov. Bill Owens called upon the legislature Wednesday to 
+     require employers to be more diligent when verifying the 
+     validity of Social Security numbers of those they hire.
+       On the eve of the legislature's special session to address 
+     illegal immigration, Owens rattled off a list of identity-
+     theft transgressions in Colorado and said the current $50 
+     fine levied against businesses who submit false Social 
+     Security numbers isn't enough of a deterrent.
+       ``We're going to seek additional penalty from the 
+     legislature so that we can actually make this more than a 
+     cost of doing business,'' he said.
+       It costs the state more than $50 to levy the fine and 
+     prosecute the businesses submitting invalid Social Security 
+     numbers, he said.
+       Standing next to Rick Grice, executive director of the 
+     Colorado Department of Labor and Employment, Owens said that 
+     the numbers related to identity theft in the state are 
+     startling.
+       According to Grice's statistics, one Social Security number 
+     alone was reported by 57 different employers. Another Social 
+     Security number was found to be on the rolls of 50 different 
+     businesses.
+       During the first quarter of 2006, 368 Social Security 
+     numbers were filed more than six times by 2,828 employers, 
+     according to data combed over by Grice's department. Some 
+     numbers were obviously phony.
+       ``The false numbers jumped off the pages of the reports by 
+     showing such numbers as 333-33-3333 and 444-4--well, you get 
+     the picture,'' Grice said.
+       Grice said he didn't know what kind of fine would be useful 
+     as a deterrent to employers submitting false Social Security 
+     numbers to the Labor Department, but that he suspects any new 
+     penalty would begin with a warning to the employer to check 
+     all workers' identification.
+       According to data provided by the governor's office, 
+     Colorado ranked fifth in the nation in identity-theft cases 
+     per 100,000 people.
+       Owens provided examples of identity theft victims--
+     including an 84-year-old woman in Grand Junction who was 
+     deemed ineligible for federal housing assistance because her 
+     Social Security number was being used in Denver at a variety 
+     of jobs, making her income too high to qualify for the 
+     housing.
+       He also said a 10-year-old boy in Douglas County had his 
+     Social Security number used at 17 different jobs.
+       Owens, who recently signed legislation criminalizing 
+     identity theft and authorizing the formation of the Identity 
+     Theft Commission, suggested that employers use a federal 
+     basic pilot program run by the Social Security Administration 
+     and the Immigration and Naturalization Service, saying it is 
+     a ``good first step,'' despite some flaws in the system.
+       Donnah Moody, vice president of government affairs at the 
+     Colorado Association of Commerce and Industry, said that the 
+     pilot program--designed for employers to verify the legality 
+     of Social Security numbers--isn't ready yet.
+
+  Mr. ENZI. I yield the floor.
+
+
+                            VOTE EXPLANATION
+
+  Ms. CANTWELL. Mr. President, I was unfortunately delayed from voting
+
+[[Page 2382]]
+
+on the DeMint amendment No. 158--rollcall vote No. 25. For the record, 
+I would have voted no on the motion to waive the Budget Act.
+  The PRESIDING OFFICER. The Senator from Illinois.
+
+                          ____________________
+
+
+
+                            MORNING BUSINESS
+
+  Mr. DURBIN. Mr. President, I ask unanimous consent that there now be 
+a period for the transaction of morning business, with Senators 
+permitted to speak for up to 10 minutes each.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+
+
+
+                     REMARKS OF THE VICE PRESIDENT
+
+  Mr. DURBIN. Mr. President, there was an interview between Wolf 
+Blitzer and the President of the United States that was aired this 
+morning on the news. Some of the statements that were made by the Vice 
+President are very difficult to understand. When he was asked about 
+Iraq, Vice President Cheney said:
+
+       Bottom line is that we've had enormous successes and we 
+     will continue to have enormous successes.
+
+  It is interesting that the Vice President would make this statement 
+barely a week after the President of the United States announced that 
+we are facing a slow failure in Iraq. The President sees a slow 
+failure; the Vice President sees enormous successes.
+  This is not the first time the Vice President has made statements 
+which defy reality. We can all recall the statements made by him and 
+many others in the administration suggesting the presence of weapons of 
+mass destruction, nuclear weapons, suggesting a connection somehow 
+between Saddam Hussein and the tragedy of 9/11. It turns out that in 
+each and every instance the Vice President was wrong.
+  We can also remember that in June of 2005 when we were facing one of 
+the bloodiest, deadliest periods in Iraq, Vice President Cheney said:
+
+       The level of activity that we see today from a military 
+     standpoint, I think, will clearly decline. I think they're in 
+     their last throes, if you will, of the insurgency.
+
+  Another quote from the Vice President which was not in touch with the 
+reality of the war in Iraq.
+  We have had that from the beginning. Whether it was the Vice 
+President's suggestion--this comes from March 16, 2003:
+
+       Now, I think things have gotten so bad inside Iraq, from 
+     the standpoint of the Iraqi people, my belief is we will, in 
+     fact, be greeted as liberators.
+
+  I will concede the Vice President later admitted he was wrong in 
+making that statement.
+  The point I am making is this: If the current Secretary of Defense 
+concedes to our Armed Services Committee that we are not winning this 
+war, if the Baker-Hamilton bipartisan study group comes forward and 
+says the situation is grave and deteriorating, if the President says 
+our continued course of action is a slow failure, one has to wonder 
+where the Vice President is receiving his information.
+  Earlier this morning, I said that he was delusional when it came to 
+this issue. To be delusional is to be out of touch with reality. And I 
+believe the Vice President has been out of touch with reality when he 
+makes comments such as that.
+  At the least, the American people expect an honest answer about the 
+situation in Iraq. I think what the President has said about a slow 
+failure is an honest appraisal. I think what the Secretary of Defense, 
+Mr. Gates, said about not winning this war is an honest appraisal. I 
+think the findings of the Baker-Hamilton bipartisan study group that 
+the situation is grave and deteriorating is an honest appraisal of 
+reality.
+  This much I will say: The real success in Iraq, if we can point to 
+it, is the fact that our brave men and women in uniform have done such 
+a remarkable job. They have faced extraordinary responsibilities and 
+assignments. They came to Iraq, invaded it, deposed that dictator, 
+found him in a hole in the ground and brought him to trial, and gave 
+the Iraqi people a chance for free elections and a chance to write 
+their own Constitution. Those successes which did occur were the result 
+of great determination by our troops in uniform and many brave Iraqis 
+who stepped forward and risked their lives to move their nation 
+forward.
+  But we all know the situation today. As of this morning, we have lost 
+3,057 American soldiers. We know that over 23,000 have returned from 
+Iraq with injuries, almost 7,000 with serious injuries--amputations, 
+blindness, serious burns, traumatic brain injury. Those are the 
+realities of what we face.
+  We also know that the situation on the ground in Iraq is very 
+difficult for most people to understand. When the Prime Minister of 
+Iraq, Mr. Maliki, says to the President: We don't need additional 
+troops, and the President says we are sending them anyway, when the 
+generals in the field say that if America continues to send troops, the 
+Iraqis won't accept the responsibility of defending their country and 
+the administration says we are going to send troops anyway, I think 
+that is evidence that this administration's policy is not connected to 
+the reality of what is on the ground in Iraq. And certainly for the 
+Vice President to characterize that sad and tragic situation in Iraq 
+today as an enormous success is not in touch with the reality of what 
+our soldiers face and our country faces.
+  Mr. President, I yield the floor and suggest the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The bill clerk proceeded to call the roll.
+  Mr. NELSON of Florida. Madam President, I ask unanimous consent that 
+the order for the quorum call be rescinded.
+  The PRESIDING OFFICER (Mrs. Lincoln). Without objection, it is so 
+ordered.
+
+                          ____________________
+
+
+
+                 TRIBUTE TO SENATOR GEORGE A. SMATHERS
+
+  Mr. NELSON of Florida. Madam President, on Monday I have the great 
+privilege of delivering the eulogy at the funeral for Senator George 
+Smathers in whose office I had the privilege, as a college student, of 
+interning. As I greet each of our interns in our Senate offices as they 
+rotate, I always tell them the story of being an intern, how it had a 
+profound influence on my life because that summer, interning for 
+Senator Smathers, I met his son Bruce. Bruce and I then became college 
+roommates. After law school and the military, Bruce introduced me to my 
+wife, and I returned the favor and introduced Bruce to his wife. And 
+his son, little Bruce, is my godson. So over the years, I have had the 
+privilege of having my life intersecting with the Smathers family, so 
+much so that when I came to the Senate, I requested that I have the 
+desk of George Smathers.
+  It is with that background that, indeed, it is a great honor for me 
+that the family has asked me to deliver the eulogy. It will be a great 
+privilege for me, next Monday, to recall the great life and times of 
+this great American and great Floridian. I will just mention a couple 
+of things in his career. I will elaborate at greater length and will 
+introduce that eulogy into the Record of the Senate after I have given 
+it.
+  I wish to mention that was a Senate which had giants with whom all of 
+us in my generation grew up--Symington of Missouri and Johnson of Texas 
+and Dirksen of Illinois and Mansfield of Montana and, from my State, 
+Smathers and Holland.
+  Johnson really relied on Smathers--so much so that when there was a 
+vacancy as the assistant majority leader, he asked Smathers to fill in 
+temporarily. And when Senator Johnson, the majority leader, ended up 
+having his heart attack and was out of work for 7 months, George 
+Smathers stood in as the acting majority leader. Upon Senator Johnson's 
+return, he asked Senator Smathers to be his permanent assistant 
+majority leader. LBJ was not someone who was accustomed to having 
+someone tell him no, but his friend from Florida told him that he 
+should not do it.
+
+[[Page 2383]]
+
+  I will just mention one other fact. George Smathers, as a young 
+Congressman, met Fidel Castro in 1948. Fidel Castro told him that he 
+was going to take over Cuba. That was 11 years before Castro ousted the 
+hated dictator Batista. Smathers was always leery of Fidel Castro, and 
+he often warned people, before Castro took over and, in fact, after 
+Castro was in. When so many in the world thought he got rid of the 
+hated dictator Batista, Smathers said: Watch out, he is going to 
+consolidate power and he is going to become a problem. He was 
+prophetic. That is exactly what happened.
+  That was the kind of leadership we had. It is the passing of an era. 
+America has lost one of her great leaders, and Florida has lost one of 
+its great sons. It is my privilege to bring these remarks to the 
+Senate.
+  I yield the floor, and I suggest the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The bill clerk proceeded to call the roll.
+  Mr. NELSON of Florida. Mr. President, I ask unanimous consent that 
+the order for the quorum call be rescinded.
+  The PRESIDING OFFICER (Mr. Sanders). Without objection, it is so 
+ordered.
+
+                          ____________________
+
+
+
+                          IRAQ WAR RESOLUTIONS
+
+  Mr. NELSON of Florida. Mr. President, for a week now we have had this 
+speculation, the rumors, and then finally the deliberations in front of 
+the Senate Foreign Relations Committee of a resolution disapproving the 
+President's increase of the forces by 21,000 in Iraq. A resolution was 
+passed out on a vote of something like 12 to 9 yesterday. It was 
+bipartisan in the passing, but it was basically a partisan vote. Save 
+for one member of the minority on the Senate Foreign Relations 
+Committee, all of the minority voted against the resolution. But almost 
+to a person, all of the members of the Senate Foreign Relations 
+Committee, both sides of the aisle, had expressed their 
+dissatisfaction, individually in their statements in front of the 
+committee, with the President's intention to increase the number of 
+troops, which is already underway, as we know, as we have been reading 
+the commentary in the press.
+  So we have that resolution. Then we have a resolution introduced by 
+Senator Warner. This Senator from Florida looks at these two 
+resolutions, and they are almost identical. So this Senator is one of 
+several Senators who has cosponsored both resolutions. This Senator is 
+one of several Senators who has been trying to bring the two together 
+to be folded into one, since it basically, in substance, is the same 
+thing in both of them. Yet for one reason or another, that has not been 
+accomplished.
+  Therefore, next week, we expect both of those resolutions to come in 
+front of the Senate. At this moment, it looks as if it will be the 
+Senate Foreign Relations Committee product that will then be amendable 
+and I suppose with a substitute amendment. Then we go through all the 
+amendatory process. Now, that may be the way the Senate will work its 
+will, but it is not necessarily the way it could be done the easiest, 
+if we could have great minds come together in a bipartisan way on two 
+resolutions that virtually say the same thing.
+  I bring this up simply to say we get so wound around the axle and so 
+worked up over the particular number of troops when, in fact, looking 
+at the underlying conditions in the Middle East and in Iraq, where 
+there is so much at stake for our country: The oil and gas in that 
+region, the east-west trade routes that go through the area, all of the 
+international capital investment that is in that region of the world, 
+and all of the capital that is produced that flows out of that part of 
+the world--all of that instability in the region, brought about as a 
+result of instability in Iraq, is going to have a major global impact.
+  The former commander, the former combatant commander of the U.S. 
+Central Command, General Tony Zinni, a now retired 4-star Marine 
+general who served as the head of Central Command back under the 
+Clinton administration, has written extensively on this, and he points 
+out that there is a complexity we have unleashed by going into Iraq 
+that is not only the Sunni-Shiite conflict but also the Arab-Persian 
+conflict. General Zinni, in his upfront, blunt-talking way says:
+
+       There are three options in Iraq: Fix it, contain it, or 
+     leave it.
+
+  And he doesn't feel, and this Senator doesn't feel, that we can take 
+the third option of picking up and leaving it because of the enormous 
+consequences. And if we can't fix it, we have to contain it, but then 
+you are going to have to own that containment and have a containment 
+strategy executed by the United States because the region can't do it 
+for itself. And containment, according to General Zinni, is very messy 
+and is probably much tougher in the long run.
+  So perhaps as we discuss next week these two resolutions over the 
+issue of 21,000 troops, let's remember that in the long run, for us to 
+be successful in stabilizing Iraq, we have to look to additional issues 
+that have to be solved, such as the economics there, the diplomacy, the 
+security--a lot of what the Iraq Study Commission has come forward with 
+in their plan. And let's also understand that as we talk about what we 
+want to do to stabilize Iraq in getting the Iraqi security forces able 
+to provide their own security, that getting them provided with guns and 
+other equipment isn't going to provide the security that you need 
+because, the Iraqi security forces need civil affairs and psychological 
+operations and counterintelligence and intelligence forces. They are 
+going to have to have civil affairs moving in behind their military 
+operations in order to paint buildings and create infrastructure so 
+there will be something positive left behind.
+  Remember, the doctrine under Secretary Rumsfeld was ``clear, hold, 
+and build.'' The problem was, they cleared an area, but they never held 
+it. They never got around to the point of building. General Petraeus 
+said yesterday in our committee we were going to go in and clear, hold, 
+and then we have to be able to build. Whether we talk about 21,000 
+troops or not, you cannot build in the midst of sectarian violence of 
+Shia, Sunnis, and the overall Arab-Persian conflict. Until we address 
+these issues, at the end of the day, Iraq is not going to be 
+stabilized. In a destabilized society, a priority has to be in 
+rebuilding institutions in social, economic, and political areas.
+  One of the things the United States may consider increasing its 
+emphasis on, since we have so many agencies of government there all 
+doing their own thing, is an interagency coordinating mechanism to help 
+bring everything together so, indeed, ``clear, hold, and build'' has an 
+opportunity to be executed and then, hopefully, an opportunity to 
+succeed.
+  I wanted to offer some additional ideas, a lot of which have been 
+inspired by General Zinni, someone who understands how to operate in 
+that part of the world as we debate next week the resolutions over 
+whether we would indicate our approval of the President's plan. Maybe 
+when we debate that, we can debate the deficiencies of not only what 
+has been done in the past but what we have to do in the future in order 
+to give that country an opportunity to stabilize.
+  I hope it is not too late. I must say, this Senator feels at times it 
+is too late, particularly with these almost 1,500 years of sectarian 
+violence that occurred after the death of Mohammed in the 600s A.D., 
+that it was the rebellion started by his son-in-law that ultimately led 
+to the Shiite sect which was born out of rebellion and wanting to get 
+revenge. We have seen that play out over centuries and centuries. 
+Again, we are seeing it play out now in Iraq. But we must be optimists 
+and we must try, for the stakes are exceptionally high.
+
+                          ____________________
+
+
+
+             COMMITTEE ON THE JUDICIARY RULES OF PROCEDURE
+
+  Mr. LEAHY. Mr. President, today the Judiciary Committee held its 
+first business meeting of the year. I can now report to the Senate that 
+we have organized our subcommittees, including our
+
+[[Page 2384]]
+
+creation of a new subcommittee on Human Rights, named our subcommittee 
+chairs and ranking members, adopted our committee rules and adopted our 
+funding resolution. I thank our ranking member, Senator Specter, and 
+all members of the committee for their cooperation.
+  We were delayed a few weeks by the failure of the Senate to pass 
+organizing resolutions on January 4, when this session first began. The 
+Republican caucus had meetings over several days after we were in 
+session before finally agreeing on January 12 to S. Res. 27 and S. Res. 
+28, the resolutions assigning Members to Senate committees.
+  The Judiciary Committee has traditionally met on Thursday. 
+Regrettably, the delay in Senate organization meant that I could not 
+notice or convene a meeting of the committee the morning of January 11, 
+as I had hoped. We devoted the intervening Thursday to our oversight 
+hearing with the Attorney General. January 18 was the date the Attorney 
+General selected as most convenient for him, and we accommodated him in 
+that scheduling.
+  Today, I can report to the Senate, in accordance with Senate Rule 
+26.3, that the Judiciary Committee has, again, designated Thursday 
+mornings as our regular meeting days for the transaction of business. 
+The Judiciary Committee has also reported the authorization resolution 
+required by Senate Rule 26.9. In addition, the Judiciary Committee 
+adopted its rules. In accordance with Senate Rule 26.2, I ask that a 
+copy of the rules of the Senate Judiciary Committee be printed in the 
+Record.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+                           Rules of Procedure
+
+            UNITED STATES SENATE COMMITTEE ON THE JUDICIARY
+
+
+                      I. MEETINGS OF THE COMMITTEE
+
+       1. Meetings of the Committee may be called by the Chairman 
+     as he may deem necessary on three days' notice of the date, 
+     time, place and subject matter of the meeting, or in the 
+     alternative with the consent of the Ranking Minority Member, 
+     or pursuant to the provision of the Standing Rules of the 
+     Senate, as amended.
+       2. Unless a different date and time are set by the Chairman 
+     pursuant to (1) of this section, Committee meetings shall be 
+     held beginning at 9:30 a.m. on Thursdays the Senate is in 
+     session, which shall be the regular meeting day for the 
+     transaction of business.
+       3. At the request of any Member, or by action of the 
+     Chairman, a bill, matter, or nomination on the agenda of the 
+     Committee may be held over until the next meeting of the 
+     Committee or for one week, whichever occurs later.
+
+
+                     II. HEARINGS OF THE COMMITTEE
+
+       1. The Committee shall provide a public announcement of the 
+     date, time, place and subject matter of any hearing to be 
+     conducted by the Committee or any Subcommittee at least seven 
+     calendar days prior to the commencement of that hearing, 
+     unless the Chairman with the consent of the Ranking Minority 
+     Member determines that good cause exists to begin such 
+     hearing at an earlier date. Witnesses shall provide a written 
+     statement of their testimony and curriculum vitae to the 
+     Committee at least 24 hours preceding the hearing in as many 
+     copies as the Chairman of the Committee or Subcommittee 
+     prescribes.
+       2. In the event 14 calendar days' notice of a hearing has 
+     been made, witnesses appearing before the Committee, 
+     including any witness representing a Government agency, must 
+     file with the Committee at least 48 hours preceding 
+     appearance written statements of their testimony and 
+     curriculum vitae in as many copies as the Chairman of the 
+     Committee or Subcommittee prescribes.
+       3. In the event a witness fails timely to file the written 
+     statement in accordance with this rule, the Chairman may 
+     permit the witness to testify, or deny the witness the 
+     privilege of testifying before the Committee, or permit the 
+     witness to testify in response to questions from Senators 
+     without the benefit of giving an opening statement.
+
+
+                              III. QUORUMS
+
+       1. Six Members of the Committee, actually present, shall 
+     constitute a quorum for the purpose of discussing business. 
+     Eight Members of the Committee, including at least two 
+     Members of the minority, shall constitute a quorum for the 
+     purpose of transacting business. No bill, matter, or 
+     nomination shall be ordered reported from the Committee, 
+     however, unless a majority of the Committee is actually 
+     present at the time such action is taken and a majority of 
+     those present support the action taken.
+       2. For the purpose of taking sworn testimony, a quorum of 
+     the Committee and each Subcommittee thereof, now or hereafter 
+     appointed, shall consist of one Senator.
+
+
+                    IV. BRINGING A MATTER TO A VOTE
+
+       The Chairman shall entertain a non-debatable motion to 
+     bring a matter before the Committee to a vote. If there is 
+     objection to bringing the matter to a vote without further 
+     debate, a roll call vote of the Committee shall be taken, and 
+     debate shall be terminated if the motion to bring the matter 
+     to a vote without further debate passes with ten votes in the 
+     affirmative, one of which must be cast by the minority.
+
+
+                             V. AMENDMENTS
+
+       1. Provided at least seven calendar days' notice of the 
+     agenda is given, and the text of the proposed bill or 
+     resolution has been made available at least seven calendar 
+     days in advance, it shall not be in order for the Committee 
+     to consider any amendment in the first degree proposed to any 
+     measure under consideration by the Committee unless such 
+     amendment has been delivered to the office of the Committee 
+     and circulated via e-mail to each of the offices by at least 
+     5:00 PM the day prior to the scheduled start of the meeting.
+       2. It shall be in order, without prior notice, for a Member 
+     to offer a motion to strike a single section of any bill, 
+     resolution, or amendment under consideration.
+       3. The time limit imposed on the filing of amendments shall 
+     apply to no more than three bills identified by the Chairman 
+     and included on the Committee's legislative agenda.
+       4. This section of the rule may be waived by agreement of 
+     the Chairman and the Ranking Minority Member.
+
+
+                            VI. PROXY VOTING
+
+       When a recorded vote is taken in the Committee on any bill, 
+     resolution, amendment, or any other question, a quorum being 
+     present, Members who are unable to attend the meeting may 
+     submit their votes by proxy, in writing or by telephone, or 
+     through personal instructions. A proxy must be specific with 
+     respect to the matters it addresses.
+
+
+                           VII. SUBCOMMITTEES
+
+       1. Any Member of the Committee may sit with any 
+     Subcommittee during its hearings or any other meeting, but 
+     shall not have the authority to vote on any matter before the 
+     Subcommittee unless a Member of such Subcommittee.
+       2. Subcommittees shall be considered de novo whenever there 
+     is a change in the Subcommittee chairmanship and seniority on 
+     the particular Subcommittee shall not necessarily apply.
+       3. Except for matters retained at the full Committee, 
+     matters shall be referred to the appropriate Subcommittee or 
+     Subcommittees by the Chairman, except as agreed by a majority 
+     vote of the Committee or by the agreement of the Chairman and 
+     the Ranking Minority Member.
+       4. Provided all Members of the Subcommittee consent, a bill 
+     or other matter may be polled out of the Subcommittee. In 
+     order to be polled out of a Subcommittee, a majority of the 
+     Members of the Subcommittee who vote must vote in favor of 
+     reporting the bill or matter to the Committee.
+
+
+                         VIII. ATTENDANCE RULES
+
+       1. Official attendance at all Committee business meetings 
+     of the Committee shall be kept by the Committee Clerk. 
+     Official attendance at all Subcommittee business meetings 
+     shall be kept by the Subcommittee Clerk.
+       2. Official attendance at all hearings shall be kept, 
+     provided that Senators are notified by the Committee Chairman 
+     and Ranking Minority Member, in the case of Committee 
+     hearings, and by the Subcommittee Chairman and Ranking 
+     Minority Member, in the case of Subcommittee hearings, 48 
+     hours in advance of the hearing that attendance will be 
+     taken; otherwise, no attendance will be taken. Attendance at 
+     all hearings is encouraged.
+
+                          ____________________
+
+
+
+                       HONORING OUR ARMED FORCES
+
+
+                    FIRST LIEUTENANT JACOB N. FRITZ
+
+  Mr. HAGEL. Mr. President, I rise to express my sympathy over the loss 
+of U.S. Army 1LT Jacob N. Fritz of Nebraska. Lieutenant Fritz died from 
+wounds sustained in an ambush in Karbala, Iraq, on January 20. He was 
+25 years old.
+  Lieutenant Fritz was raised on his family's farm near Verdon, NE. 
+From a young age, Lieutenant Fritz knew he wanted to be a leader. After 
+graduating from Dawson-Verdon High School in 2000, he followed through 
+on this goal. I had the honor of nominating Lieutenant Fritz to the 
+U.S. Military Academy at West Point and he graduated from the Academy 
+in 2005. His brother, Daniel Fritz, 22, followed in his footsteps and 
+is currently in his third year at West Point.
+  Lieutenant Fritz was leading a unit of more than 30 soldiers in Iraq 
+since October. Lieutenant Fritz described his mission as a liaison 
+between Iraqi police and the U.S. Army. He said the
+
+[[Page 2385]]
+
+work was challenging but rewarding. Thousands of brave Americans like 
+Lieutenant Fritz are currently serving in Iraq. We are proud of 
+Lieutenant Fritz's service to our country.
+  In addition to his brother, Lieutenant Fritz is survived by his 
+parents Lyle and Noala and his younger brother Ethan.
+  I ask my colleagues to join me and all Americans in honoring 1LT 
+Jacob Fritz.
+
+                          ____________________
+
+
+
+                             ETHICS REFORM
+
+  Mr. LEVIN. Mr. President, I rise today to speak on the lobbying and 
+ethics reform bill that the Senate has passed.
+  In the early 1990s, I along with several colleagues, including 
+Senator William Cohen, embarked on a journey to enact meaningful 
+lobbying and ethics reform. While we had been assured by colleagues 
+that this was a monumental and perhaps impossible undertaking, we 
+nonetheless forged ahead. Decade after decade, Congress had tried to 
+close loopholes that had existed for almost 50 years, which kept 
+lobbying activities in the dark.
+  In 1995, we finally succeeded in passing the Lobbying Disclosure Act. 
+Our bill, for the first time, opened up the world of lobbying, and the 
+billions spent in it, to the light of day. That act required paid 
+professional lobbyists to register and disclose whom they represent, 
+how much they are paid, and the issues on which they are lobbying.
+  As much as we knew that the Lobbying Disclosure Act was a real step 
+forward, we knew that like all procedural reforms, it too would 
+eventually need updating. Inevitably, lawyers and lobbyists would find 
+loopholes and create new methods to dance around the law's intent.
+  We have seen this dance prominently over the past few years. From 
+super-lobbyist Jack Abramoff's attempts to peddle influence, to 
+Congressman Duke Cunningham's abuse of the appropriations process, it 
+is obvious that the time to close these loopholes has come.
+  The bill that the Senate just passed brings much needed reforms, many 
+of which I sought in the original Lobbying Disclosure Act over a decade 
+ago. It goes after not only the real problems that have arisen over the 
+past few years, but as the perception of corruption that is sometimes 
+the effect of too little disclosure and rules which are too weak.
+  One of the most important reforms in S. 1 is a strict curb on gifts 
+by lobbyists to Members of Congress. These are perks that have no place 
+in Government. The new rules in this bill will eliminate these gifts.
+  I am also pleased at the final outcome of the strong earmark reform 
+provisions in this bill. Too many earmarks are added in the dead of 
+night or buried in conference reports so dense that the average 
+American has no idea where their tax dollars are going. The language 
+can also be ambiguous to the point where we don't even know who is the 
+intended beneficiary. This bill will require full and open disclosure 
+of earmarks, which I hope will help to ensure the quality of the 
+projects which are funded.
+  Strong travel restrictions are also an essential component of this 
+bill. The new rules will ensure that Members traveling on corporate 
+jets would have to reimburse at the charter rate, not as is now the 
+case merely at the level of a first class commercial ticket.
+  While I applaud passage of these strong reforms, I believe we needed 
+to go even further. One of the most important provisions in this bill 
+is one that I worked on with Senator Lieberman, which would have 
+finally closed the major loophole that exists under current law that 
+allows lobbyists to conceal millions of dollars worth of expenditures 
+spent in stimulating ``grassroots'' lobbying efforts, or what has been 
+described as ``astroturf'' lobbying.
+  Ten years ago, when we enacted the Lobbying Disclosure Act, it 
+required paid lobbyists to disclose the amounts that they spend to try 
+to influence Congress and the executive branch. However, under the LDA, 
+lobbyists are not required to disclose how much they spend in efforts 
+to persuade others to help them make their case. In the mid-1990s, the 
+Wall Street Journal estimated that major lobbying firms spent almost 
+half a billion dollars every year for this purpose. The amounts have 
+undoubtedly grown substantially since then. Yet these amounts still go 
+undisclosed on the lobbying disclosure forms filed by those firms. The 
+disclosure provision in S. 1 was intended to close this loophole and 
+require paid lobbyists to disclose all of their expenditures, instead 
+of just some of them.
+  This provision would have had no impact at all on citizens who 
+contact their Government, regardless whether they decide to make those 
+contacts on their own initiative or at the suggestion of others. It 
+would have had no impact on religious organizations, unions, 
+universities or other employers who suggest that their own members or 
+employees contact the Government. It was aimed at paid lobbyists who 
+spend large sums of money to persuade others to contact the Government 
+in support of a lobbying campaign that they are conducting on behalf of 
+a client. These paid lobbyists would have been required to disclose how 
+much they are spending on such efforts. This disclosure, like lobbying 
+disclosure in general, would have helped inform the public of pressures 
+being brought to bear on their representatives by paid interests.
+  Even though identical language was passed by Congress last year when 
+we considered a lobbying reform bill, it was stripped from the final 
+version of this legislation. I nonetheless look forward to examining 
+this issue in the future and hope to work with Chairman Lieberman in 
+the Homeland Security and Government Affairs Committee this year to 
+look for solutions to this loophole.
+  I was pleased, however, that a provision I authored last year to 
+require reporting by foreign lobbyists was included in the final passed 
+bill. Foreign lobbyists file their disclosures under the Foreign Agents 
+Registry Act. The forms are difficult to find and almost as hard to 
+understand. My provision will require a publicly accessible, electronic 
+database containing FARA disclosures in the same format that will be in 
+place for registrants under the Lobbying Disclosure Act.
+  A number of scandals over the past few years have shown us that 
+ethics and lobbying reform are vital. While this bill was not perfect, 
+I believe it will go a long way to clean up corruption in Washington. 
+This bipartisan effort in the Senate proves that we are up to the task 
+of addressing corruption and perceived corruption in Congress. I am 
+hopeful that the House will soon consider its own lobbying reform 
+legislation and that we will have strong provisions signed into law.
+  But signing this legislation into law cannot be the end of our 
+efforts. The 12 years since the passage of the Lobbying Disclosure Act 
+have shown the lengths to which some will go to find loopholes in the 
+law to circumvent the reforms and undermine the safeguards that we have 
+enacted. We must remain vigilant to protect the integrity of the 
+legislative process in the coming years and be prepared, if necessary, 
+to revisit the issue with future legislation.
+
+                          ____________________
+
+
+
+                         COMBATING GUN VIOLENCE
+
+  Mr. LEVIN. Mr. President, one effort that must not be overlooked in 
+our fight to combat gun violence, is the work of local law enforcement 
+agencies. Detroit's Joshua Project is but one example of the successful 
+work law enforcement agencies are doing all across the country. The 
+Joshua Project began in 2004 as a collaborative effort between multiple 
+law enforcement agencies, to curb gun violence in Detroit's 
+Southwestern 3rd Precinct.
+  The Joshua Project, modeled after programs in several other cities 
+including Boston, Minneapolis, and Indianapolis, institutes a zero 
+tolerance policy when a gang member commits any type of gun violence. 
+Any gang member's use of a gun results in strict and sustained law 
+enforcement attention for everyone in the gang. The project also seeks 
+to deter gun violence by increased monitoring of probationers and 
+parolees through the use of unscheduled home visits and mandatory call-
+in
+
+[[Page 2386]]
+
+meetings. So far over 2,000 former offenders have been called in and 
+nearly 3,000 home checks have been conducted. These measures give law 
+enforcement officials the opportunity to proactively intervene in a 
+high-risk offender's life before another crime is committed.
+  The implementation of the program relies on an innovative partnership 
+between the Detroit Police Department, the Attorney General's Office 
+and Michigan Department of Corrections, along with the assistance of 
+the State courts. Community involvement also plays a critical role in 
+offering both ideas and solutions within the Joshua Project. Community 
+organizations provide assistance, support and counseling to offenders.
+  Within the first 17 months after the Joshua Project was implemented, 
+shootings in Detroit's 3rd precinct decreased almost 33 percent and gun 
+related homicides dropped nearly 40 percent. As a result of this 
+success, Detroit Mayor Kwame Kilpatrick, Attorney General Mike Cox, and 
+Governor Jennifer Granholm announced this past summer that the Joshua 
+Project would be expanded to Detroit's 2nd precinct.
+  Mayor Kilpatrick said of this expansion:
+
+       We are most successful in our fight against crime when we 
+     maximize the strengths of our law enforcement partners 
+     throughout the country and state. Our partnership with the 
+     Attorney General has reduced gun violence and has saved lives 
+     in southwest Detroit. By expanding this program, we hope to 
+     build upon our current successes and make the neighborhoods 
+     of the second precinct as safe, if not safer, than we have in 
+     the third precinct.
+
+  I would like to take this opportunity to thank all State and local 
+law enforcement officials for their continued service and vital 
+contributions in ensuring the safety of our communities. I am hopeful 
+the 110th Congress will support their efforts by taking up and passing 
+sensible gun safety legislation.
+
+                          ____________________
+
+
+
+                   TRIBUTE TO WILLIAM ``BILL'' WOOLF
+
+  Ms. MURKOWSKI. Mr. President, I rise today to bid farewell to one of 
+the longest tenured members of my Senate staff, Mr. William ``Bill'' 
+Woolf. Bill will retire from U.S. Senate employment at the end of 
+January, after 20 years of exceptional service to the citizens of this 
+country and to the residents of the State of Alaska.
+  Bill was born in Washington State and studied at Washington State 
+University and the University of Alaska in Juneau. Growing up in the 
+country, he developed an early and lasting love of the outdoors--
+boating, fishing, and hunting--even before moving to the Last Frontier 
+in 1974.
+  He has served as my legislative assistant for fisheries, science, and 
+transportation issues since I entered the Senate in 2002. Prior to 
+that, he worked for the ``other Senator Murkowski'' for 15 years. While 
+I love to catch and eat Alaska salmon, halibut, crab, and pollock, Bill 
+truly knows not only the biology but also the economic intricacies of 
+both sport and commercial fishing and game management issues. Over the 
+years, he has become an expert in wildlife and fishery biology and 
+management, dedicating himself to protecting and expanding fish and 
+game stocks not just in Alaska but nationwide.
+  Bill moves easily among scientists, government officials, fishermen, 
+and business. He has gained a reputation as a dedicated and 
+knowledgeable advocate for sound, scientific fishery and wildlife 
+management and quality resource development.
+  He has worked tirelessly to help perfect and protect the regional 
+fishery management process, encompassed in the Magnuson-Stevens 
+Fisheries Conservation and Management Act. Despite never serving with a 
+member of the Commerce Committee, Bill has been influential in many of 
+the fisheries laws passed by this body, dealing with subjects as 
+diverse as reflagging of foreign processing ships, banning the use of 
+large-scale driftnets on the high seas, improving safety and quality 
+inspection techniques for fish products, allowing fishermen greater 
+control over secondary market pricing, providing for country of origin 
+seafood labeling, and encouraging action to allow ``organic'' labeling.
+  He also worked with the State Department and others to implement 
+international agreements on fisheries in the central Bering Sea and the 
+Sea of Okhotsk, protection of salmon in the North Pacific, successful 
+negotiations with Canada of the Pacific Salmon Treaty, and many others. 
+He is particularly proud of having drafted, presented, and worked with 
+the staff of U.N. Ambassador Madeleine Albright to achieve U.N. General 
+Assembly approval for the very first international resolution to 
+control bycatch and waste in fisheries worldwide.
+  Bill, however, has not focused solely on fisheries. Over the years, 
+his range of issues has cut across many lines, involved many 
+disciplines, and a wide range of science, transportation, and other 
+issues for the Alaska congressional delegation. Among his 
+accomplishments were writing the first comprehensive law to control 
+wastewater discharges from cruise ships in Alaska, advising the U.S. 
+Arctic Research Commission, representing Alaska's interests in staff 
+negotiations on the Water Resources Development Act, and working long 
+hours and weekends to ensure that the Highway Reauthorization passed by 
+the 109th Congress would help bring Alaska's road system into the 21st 
+century. He also helped organize and staffed a Senate Coast Guard 
+Caucus for several years.
+  After the 2005 hurricanes devastated the gulf coast, he was the key 
+influence behind the successful formation of the Alaska Fishing 
+Industry Relief Mission. This nonprofit corporation moved important 
+equipment all the way from Alaska to Louisiana and Mississippi--
+including both a 60-ton capacity boat lift and a 30-ton per day ice 
+making machine, both were critically needed to get the gulf coast 
+fishing industry back in play. The formation of the caucus and mission 
+are a lasting testament to Bill's good judgment, hard work, and 
+dedication to intelligently build this Nation's ports and harbors 
+infrastructure and to care for those who depend on them.
+  I also want to mention that Bill started his career as a broadcaster, 
+general manager, news director, correspondent and producer for radio 
+and television stations in Alaska, Washington, and Oregon. He also 
+served a stint as a Senate press secretary and communications' director 
+for the chairman of the Intelligence Committee during the first Persian 
+Gulf war. He understands how important it is for Congress to 
+communicate its policies to the citizens of America and fully explain 
+why we take the actions that we do.
+  While I am sorry to lose one of my staff leaders, I am happy that he 
+will be able to more fully enjoy some of his other interests: 
+woodworking, motorcycling, fishing, hunting, his collection of Alaskan 
+and Asian art, and his beloved German shepherd dogs.
+  I will miss Bill's hard work, vast knowledge, good humor, and sound 
+judgment. It has been a pleasure to have him on my staff. I wish him 
+and his wife Karen the very best and know that Alaskans will benefit 
+for decades to come from his efforts to protect and enhance this Nation 
+natural and biological resources and the environment.
+
+                          ____________________
+
+
+
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+                    ACCOMPLISHMENTS OF TADD FUJIKAWA
+
+● Mr. AKAKA. Mr. President, I wish to give praise and 
+congratulations to Tadd Fujikawa, a 16-year-old sophomore from Moanalua 
+High School, who on Friday, January 12, made golf history for the State 
+of Hawaii. By shooting a 4-under-par 66 during the second round of the 
+Sony Open at the Waialae Country Club, Tadd became the youngest player 
+in 50 years to make the cut at a PGA tour event.
+  Tadd demonstrated amazing skill and focus on the course. Despite 
+standing just five feet, one inch tall, his 285-yard drives and 
+accurate iron play propelled him up the tournament leaderboard. In the 
+end, he tied for 20th place, besting some of the world's premier 
+golfers.
+  Tadd's drive and competitive spirit may be a result of his early 
+struggles as a premature baby. At birth, Tadd
+
+[[Page 2387]]
+
+weighed less than two pounds and was given a 50 percent chance of 
+survival. He didn't just survive, he flourished. Last year, at age 15, 
+he became one of the youngest players ever to compete in golf's 
+national championship, the U.S. Open. Also impressive are Tadd's 
+exploits in the sport of judo, where he has won four junior national 
+titles.
+  I offer my most sincere congratulations, to Tadd Fujikawa, for his 
+exceptional performance in the Sony Open. May he take away from this 
+experience the confidence to do great things, as he has already shown 
+the potential to achieve them. I wish Tadd the best in all that he 
+chooses to undertake in the future.●
+
+                          ____________________
+
+
+
+                   EXECUTIVE AND OTHER COMMUNICATIONS
+
+  The following communications were laid before the Senate, together 
+with accompanying papers, reports, and documents, and were referred as 
+indicated:
+
+       EC-445. A communication from the Executive Director, 
+     Commodity Futures Trading Commission, transmitting, pursuant 
+     to law, the report of a rule entitled ``Limitations on 
+     Withdrawals of Equity Capital'' (RIN3038-AC27) received on 
+     January 24, 2007; to the Committee on Agriculture, Nutrition, 
+     and Forestry.
+       EC-446. A communication from the Secretary of the Treasury, 
+     transmitting, pursuant to law, a six-month periodic report on 
+     the national emergency with respect to Cote d'Ivoire that was 
+     declared in Executive Order 13396 of February 7, 2006; to the 
+     Committee on Banking, Housing, and Urban Affairs.
+       EC-447. A communication from the Secretary of the Treasury, 
+     transmitting, pursuant to law, a six-month periodic report on 
+     the national emergency with respect to Liberia that was 
+     declared in Executive Order 13348 of July 22, 2004; to the 
+     Committee on Banking, Housing, and Urban Affairs.
+       EC-448. A communication from the Under Secretary and 
+     Director, United States Patent and Trademark Office, 
+     Department of Commerce, transmitting, pursuant to law, the 
+     report of a rule entitled ``Changes to Facilitate Electronic 
+     Filing of Patent Correspondence'' (RIN0651-AB92) received on 
+     January 24, 2007; to the Committee on Commerce, Science, and 
+     Transportation.
+       EC-449. A communication from the Chief of the Publications 
+     and Regulations Branch, Internal Revenue Service, Department 
+     of the Treasury, transmitting, pursuant to law, the report of 
+     a rule entitled ``Application of Section 357(c)(1) to 
+     Reorganizations'' (Rev. Rul. 2007-8) received on January 23, 
+     2007; to the Committee on Finance.
+       EC-450. A communication from the Chief of the Publications 
+     and Regulations Branch, Internal Revenue Service, Department 
+     of the Treasury, transmitting, pursuant to law, the report of 
+     a rule entitled ``Section 1397E--Allocation of National 
+     Limitation for Qualified Zone Academy Bonds for Years 2006 
+     and 2007'' (Rev. Proc. 2007-18) received on January 23, 2007; 
+     to the Committee on Finance.
+       EC-451. A communication from the Chief of the Publications 
+     and Regulations Branch, Internal Revenue Service, Department 
+     of the Treasury, transmitting, pursuant to law, the report of 
+     a rule entitled ``Applicable Federal Rates--February 2007'' 
+     (Rev. Rul. 2007-9) received on January 23, 2007; to the 
+     Committee on Finance.
+       EC-452. A communication from the Chief of the Publications 
+     and Regulations Branch, Internal Revenue Service, Department 
+     of the Treasury, transmitting, pursuant to law, the report of 
+     a rule entitled ``CPI Adjustment for Section 1274A for 2007'' 
+     (Rev. Rul. 2007-4) received on January 23, 2007; to the 
+     Committee on Finance.
+       EC-453. A communication from the Regulations Coordinator, 
+     Health Resources and Services Administration, Department of 
+     Health and Human Services, transmitting, pursuant to law, the 
+     report of a rule entitled ``Healthy Tomorrows Partnership for 
+     Children Program'' (RIN0906-AA70) received on January 24, 
+     2007; to the Committee on Health, Education, Labor, and 
+     Pensions.
+       EC-454. A communication from the Chairman, Council of the 
+     District of Columbia, transmitting, pursuant to law, a report 
+     on D.C. Act 16-629 , ``Protection from Discriminatory 
+     Eviction for Victims of Domestic Violence Amendment Act of 
+     2006'' received on January 24, 2007; to the Committee on 
+     Homeland Security and Governmental Affairs.
+       EC-455. A communication from the Chairman, Council of the 
+     District of Columbia, transmitting, pursuant to law, a report 
+     on D.C. Act 16-628, ``Jury Trial Improvements Act of 2006'' 
+     received on January 24, 2007; to the Committee on Homeland 
+     Security and Governmental Affairs.
+       EC-456. A communication from the Chairman, Council of the 
+     District of Columbia, transmitting, pursuant to law, a report 
+     on D.C. Act 16-627, ``Commercial Exception Clarification Act 
+     of 2006'' received on January 24, 2007; to the Committee on 
+     Homeland Security and Governmental Affairs.
+       EC-457. A communication from the Chairman, Council of the 
+     District of Columbia, transmitting, pursuant to law, a report 
+     on D.C. Act 16-630, ``Mandatory Juvenile Public Safety 
+     Notification Act of 2006'' received on January 24, 2007; to 
+     the Committee on Homeland Security and Governmental Affairs.
+       EC-458. A communication from the Chairman, Council of the 
+     District of Columbia, transmitting, pursuant to law, a report 
+     on D.C. Act 16-631, ``Criminal Record Sealing Act of 2006'' 
+     received on January 24, 2007; to the Committee on Homeland 
+     Security and Governmental Affairs.
+       EC-459. A communication from the Chairman, Council of the 
+     District of Columbia, transmitting, pursuant to law, a report 
+     on D.C. Act 16-632, ``Inclusionary Zoning Implementation 
+     Amendment Act of 2006'' received on January 24, 2007; to the 
+     Committee on Homeland Security and Governmental Affairs.
+       EC-460. A communication from the Chairman, Council of the 
+     District of Columbia, transmitting, pursuant to law, a report 
+     on D.C. Act 16-634, ``Closing of Public Alleys in Squares 
+     798, 799, and 824 (S.O. 04-12081) and Dedication and 
+     Designation of 2nd Place, S.E., 3rd Place, S.E., L Street, 
+     S.E., (S.O. 04-12080), Act of 2006'' received on January 24, 
+     2007; to the Committee on Homeland Security and Governmental 
+     Affairs.
+       EC-461. A communication from the Chairman, Council of the 
+     District of Columbia, transmitting, pursuant to law, a report 
+     on D.C. Act 16-626, ``Property Interest Amendment Act of 
+     2006'' received on January 24, 2007; to the Committee on 
+     Homeland Security and Governmental Affairs.
+       EC-462. A communication from the Chairman, Council of the 
+     District of Columbia, transmitting, pursuant to law, a report 
+     on D.C. Act 16-622, ``Longtime Resident Business Definition 
+     Amendment Act of 2006'' received on January 24, 2007; to the 
+     Committee on Homeland Security and Governmental Affairs.
+       EC-463. A communication from the Chairman, Council of the 
+     District of Columbia, transmitting, pursuant to law, a report 
+     on D.C. Act 16-625, ``Placement of Students with Disabilities 
+     in Nonpublic Schools Amendment Act of 2006'' received on 
+     January 24, 2007; to the Committee on Homeland Security and 
+     Governmental Affairs.
+       EC-464. A communication from the Chairman, Council of the 
+     District of Columbia, transmitting, pursuant to law, a report 
+     on D.C. Act 16-633, ``Interest on Rental Security Deposits 
+     Amendment Act of 2006'' received on January 24, 2007; to the 
+     Committee on Homeland Security and Governmental Affairs.
+       EC-465. A communication from the Chairman, Council of the 
+     District of Columbia, transmitting, pursuant to law, a report 
+     on D.C. Act 16-624, ``Public Charter School Assets and 
+     Facilities Preservation Amendment Act of 2006'' received on 
+     January 24, 2007; to the Committee on Homeland Security and 
+     Governmental Affairs.
+       EC-466. A communication from the Chairman, Council of the 
+     District of Columbia, transmitting, pursuant to law, a report 
+     on D.C. Act 16-623, ``Rate of Pay for the Position of 
+     Inspector General for the Office of the Inspector General 
+     Amendment Act of 2006'' received on January 24, 2007; to the 
+     Committee on Homeland Security and Governmental Affairs.
+       EC-467. A communication from the Chairman, Council of the 
+     District of Columbia, transmitting, pursuant to law, a report 
+     on D.C. Act 16-620, ``Developmental Disabilities Services 
+     Management Reform Amendment Act of 2006'' received on January 
+     24, 2007; to the Committee on Homeland Security and 
+     Governmental Affairs.
+       EC-468. A communication from the Chairman, Council of the 
+     District of Columbia, transmitting, pursuant to law, a report 
+     on D.C. Act 16-618, ``Homeland Security, Risk Reduction, and 
+     Preparedness Amendment Act of 2006'' received on January 24, 
+     2007; to the Committee on Homeland Security and Governmental 
+     Affairs.
+       EC-469. A communication from the Chairman, Council of the 
+     District of Columbia, transmitting, pursuant to law, a report 
+     on D.C. Act 16-619, ``Medical Malpractice Amendment Act of 
+     2006'' received on January 24, 2007; to the Committee on 
+     Homeland Security and Governmental Affairs.
+       EC-470. A communication from the Chairman, Council of the 
+     District of Columbia, transmitting, pursuant to law, a report 
+     on D.C. Act 16-638, ``Closing of Portions of a Public Alley 
+     System on the West Side of Square 701, S.O. 06-3392, Act of 
+     2006'' received on January 24, 2007; to the Committee on 
+     Homeland Security and Governmental Affairs.
+       EC-471. A communication from the Chairman, Council of the 
+     District of Columbia, transmitting, pursuant to law, a report 
+     on D.C. Act 16-635, ``Workforce Housing Production Program 
+     Approval Act of 2006'' received on January 24, 2007; to the 
+     Committee on Homeland Security and Governmental Affairs.
+       EC-472. A communication from the Chairman, Council of the 
+     District of Columbia, transmitting, pursuant to law, a report 
+     on D.C. Act 16-621, ``Childhood Lead Screening Amendment Act 
+     of 2006'' received on January 24, 2007; to the Committee on 
+     Homeland Security and Governmental Affairs.
+       EC-473. A communication from the Chairman, Council of the 
+     District of Columbia,
+
+[[Page 2388]]
+
+     transmitting, pursuant to law, a report on D.C. Act 16-641, 
+     ``Walter E. Washington Convention Center Designation Act of 
+     2006'' received on January 24, 2007; to the Committee on 
+     Homeland Security and Governmental Affairs.
+       EC-474. A communication from the Chairman, Council of the 
+     District of Columbia, transmitting, pursuant to law, a report 
+     on D.C. Act 16-644, ``Special Purpose Financial Captive 
+     Authorization Amendment Act of 2006'' received on January 24, 
+     2007; to the Committee on Homeland Security and Governmental 
+     Affairs.
+       EC-475. A communication from the Chairman, Council of the 
+     District of Columbia, transmitting, pursuant to law, a report 
+     on D.C. Act 16-640, ``Closing of a Public Alley in Square 
+     739, the Closure of Streets, the Opening and Widening of 
+     Streets, and the Dedication of Land for Street Purposes (S.O. 
+     06-221), Act of 2006'' received on January 24, 2007; to the 
+     Committee on Homeland Security and Governmental Affairs.
+       EC-476. A communication from the Chairman, Council of the 
+     District of Columbia, transmitting, pursuant to law, a report 
+     on D.C. Act 16-639, ``Closing of Portions of a Public Alley 
+     System in Square 700, S.O. 06-3582, Act of 2006'' received on 
+     January 24, 2007; to the Committee on Homeland Security and 
+     Governmental Affairs.
+       EC-477. A communication from the Chairman, Council of the 
+     District of Columbia, transmitting, pursuant to law, a report 
+     on D.C. Act 16-636, ``Department of Motor Vehicles Service 
+     and Safety Amendment Act of 2006'' received on January 24, 
+     2007; to the Committee on Homeland Security and Governmental 
+     Affairs.
+       EC-478. A communication from the Chairman, Council of the 
+     District of Columbia, transmitting, pursuant to law, a report 
+     on D.C. Act 16-649, ``Film DC Economic Incentive Act of 
+     2006'' received on January 24, 2007; to the Committee on 
+     Homeland Security and Governmental Affairs.
+       EC-479. A communication from the Chairman, Council of the 
+     District of Columbia, transmitting, pursuant to law, a report 
+     on D.C. Act 16-645, ``Captive Insurance Company Amendment Act 
+     of 2006'' received on January 24, 2007; to the Committee on 
+     Homeland Security and Governmental Affairs.
+       EC-480. A communication from the Chairman, Council of the 
+     District of Columbia, transmitting, pursuant to law, a report 
+     on D.C. Act 16-652, ``Anti-Deficiency Act Revision Act of 
+     2006'' received on January 24, 2007; to the Committee on 
+     Homeland Security and Governmental Affairs.
+       EC-481. A communication from the Chairman, Council of the 
+     District of Columbia, transmitting, pursuant to law, a report 
+     on D.C. Act 16-651, ``Domestic Partnerships Joint Filing Act 
+     of 2006'' received on January 24, 2007; to the Committee on 
+     Homeland Security and Governmental Affairs.
+       EC-482. A communication from the Chairman, Council of the 
+     District of Columbia, transmitting, pursuant to law, a report 
+     on D.C. Act 16-653, ``Second Technical Amendments Act of 
+     2006'' received on January 24, 2007; to the Committee on 
+     Homeland Security and Governmental Affairs.
+       EC-483. A communication from the Chairman, Council of the 
+     District of Columbia, transmitting, pursuant to law, a report 
+     on D.C. Act 16-655, ``Shelter Monitoring and Emergency 
+     Assistance Amendment Act of 2006'' received on January 24, 
+     2007; to the Committee on Homeland Security and Governmental 
+     Affairs.
+       EC-484. A communication from the Chairman, Council of the 
+     District of Columbia, transmitting, pursuant to law, a report 
+     on D.C. Act 16-654, ``Mayor and Council Compensation 
+     Adjustment and Compensation Advisory Commission Establishment 
+     Amendment Act of 2006'' received on January 24, 2007; to the 
+     Committee on Homeland Security and Governmental Affairs.
+       EC-485. A communication from the Chairman, Council of the 
+     District of Columbia, transmitting, pursuant to law, a report 
+     on D.C. Act 16-646, ``National Capital Revitalization 
+     Corporation Asset Transfer Clarification Amendment Act of 
+     2006'' received on January 24, 2007; to the Committee on 
+     Homeland Security and Governmental Affairs.
+       EC-486. A communication from the Chairman, Council of the 
+     District of Columbia, transmitting, pursuant to law, a report 
+     on D.C. Act 16-643, ``Rebuttable Presumption to Detain 
+     Robbery and Handgun Violation Suspects Act of 2006'' received 
+     on January 24, 2007; to the Committee on Homeland Security 
+     and Governmental Affairs.
+       EC-487. A communication from the Chairman, Council of the 
+     District of Columbia, transmitting, pursuant to law, a report 
+     on D.C. Act 16-642, ``Use of Closed Circuit Television to 
+     Combat Crime Amendment Act of 2006'' received on January 24, 
+     2007; to the Committee on Homeland Security and Governmental 
+     Affairs.
+       EC-488. A communication from the Chairman, Council of the 
+     District of Columbia, transmitting, pursuant to law, a report 
+     on D.C. Act 16-650, ``Closing of a Public Alley in Square 
+     375, S.O. 06-656, Act of 2006'' received on January 24, 2007; 
+     to the Committee on Homeland Security and Governmental 
+     Affairs.
+       EC-489. A communication from the Chairman, Council of the 
+     District of Columbia, transmitting, pursuant to law, a report 
+     on D.C. Act 16-648, ``Closing of a Portion of a Public Alley 
+     in Square 85, S.O. 06-8859, Act of 2006'' received on January 
+     24, 2007; to the Committee on Homeland Security and 
+     Governmental Affairs.
+       EC-490. A communication from the Chairman, Council of the 
+     District of Columbia, transmitting, pursuant to law, a report 
+     on D.C. Act 16-647, ``Community Access to Health Care 
+     Amendment Act of 2006'' received on January 24, 2007; to the 
+     Committee on Homeland Security and Governmental Affairs.
+
+                          ____________________
+
+
+
+                         REPORTS OF COMMITTEES
+
+  The following reports of committees were submitted:
+
+       By Mr. LEAHY, from the Committee on the Judiciary, without 
+     amendment and with a preamble:
+       S. Res. 21. A resolution recognizing the uncommon valor of 
+     Wesley Autrey of New York, New York.
+       S. Res. 24. A resolution designating January 2007 as 
+     ``National Stalking Awareness Month''.
+       S. Res. 29. A resolution expressing the sense of the Senate 
+     regarding Martin Luther King, Jr. Day and the many lessons 
+     still to be learned from Dr. King's example of nonviolence, 
+     courage, compassion, dignity, and public service.
+       By Mr. DORGAN, from the Committee on Indian Affairs, 
+     without amendment:
+       S. Res. 40. An original resolution authorizing expenditures 
+     by the Senate Committee on Indian Affairs.
+       By Mr. LEAHY, from the Committee on the Judiciary, without 
+     amendment:
+       S. Res. 42. An original resolution authorizing expenditures 
+     by the Committee on the Judiciary.
+
+                          ____________________
+
+
+
+              INTRODUCTION OF BILLS AND JOINT RESOLUTIONS
+
+  The following bills and joint resolutions were introduced, read the 
+first and second times by unanimous consent, and referred as indicated:
+
+           By Mr. WYDEN:
+       S. 387. A bill to prohibit the sale by the Department of 
+     Defense of parts for F-14 fighter aircraft; to the Committee 
+     on Armed Services.
+           By Mr. THUNE (for himself, Mr. Nelson of Nebraska, Mr. 
+             Sununu, Mr. Inhofe, Mr. Coburn, Mr. Burr, Mr. 
+             Martinez, Mr. Crapo, Mr. Baucus, Mr. Cornyn, Mrs. 
+             Dole, Mr. Craig, and Mr. Lott):
+       S. 388. A bill to amend title 18, United States Code, to 
+     provide a national standard in accordance with which 
+     nonresidents of a State may carry concealed firearms in the 
+     State; to the Committee on the Judiciary .
+           By Mr. DOMENICI (for himself, Mr. Kyl, Mrs. Hutchison, 
+             and Mr. Cornyn):
+       S. 389. A bill to increase the number of Federal 
+     judgeships, in accordance with recommendations by the 
+     Judicial Conference, in districts that have an 
+     extraordinarily high immigration caseload; to the Committee 
+     on the Judiciary.
+           By Mr. BENNETT (for himself and Mr. Hatch):
+       S. 390. A bill to direct the exchange of certain land in 
+     Grand, San Juan, and Uintah Counties, Utah, and for other 
+     purposes; to the Committee on Energy and Natural Resources.
+           By Mr. MENENDEZ (for himself and Mr. Lautenberg):
+       S. 391. A bill to amend the Outer Continental Shelf Lands 
+     Act to permanently prohibit the conduct of offshore drilling 
+     on the outer Continental Shelf in the Mid-Atlantic and North 
+     Atlantic planning areas; to the Committee on Energy and 
+     Natural Resources.
+           By Mr. BIDEN:
+       S. 392. A bill to ensure payment of United States 
+     assessments for United Nations peacekeeping operations for 
+     the 2005 through 2008 time period; to the Committee on 
+     Foreign Relations.
+           By Mr. HARKIN:
+       S. 393. A bill to transfer unspent funds for grants by the 
+     Office of Community Oriented Policing Services, the Office of 
+     Justice Programs, and the Office on Violence Against Women to 
+     the Edward Byrne Memorial Justice Assistance Grant Program; 
+     to the Committee on the Judiciary.
+           By Mr. AKAKA (for himself, Mr. Stevens, Mr. Levin, Ms. 
+             Collins, Mr. Lautenberg, Mr. Kerry, Mrs. Boxer, Mrs. 
+             Feinstein, and Mr. Menendez):
+       S. 394. A bill to amend the Humane Methods of Livestock 
+     Slaughter Act of 1958 to ensure the humane slaughter of 
+     nonambulatory livestock, and for other purposes; to the 
+     Committee on Agriculture, Nutrition, and Forestry.
+           By Mr. SCHUMER:
+       S. 395. A bill to require States and Indian tribes to 
+     designate specific highway routes over which hazardous 
+     materials may be transported; to the Committee on Commerce, 
+     Science, and Transportation.
+           By Mr. DORGAN (for himself, Mr. Levin, and Mr. 
+             Feingold):
+       S. 396. A bill to amend the Internal Revenue Code of 1986 
+     to treat controlled foreign corporations in tax havens as 
+     domestic corporations; to the Committee on Finance.
+
+[[Page 2389]]
+
+
+           By Mr. MARTINEZ (for himself, Mr. Coburn, Mr. Coleman, 
+             Mr. Cornyn, Mr. Inhofe, and Mr. Sessions):
+       S. 397. A bill to amend the Internal Revenue Code of 1986 
+     to allow individuals a refundable credit against income tax 
+     for the purchase of private health insurance, and for other 
+     purposes; to the Committee on Finance.
+           By Mr. DORGAN (for himself, Mr. McCain, Mr. Inouye, Mr. 
+             Thomas, and Mr. Domenici):
+       S. 398. A bill to amend the Indian Child Protection and 
+     Family Violence Prevention Act to identify and remove 
+     barriers to reducing child abuse, to provide for examinations 
+     of certain children, and for other purposes; to the Committee 
+     on Indian Affairs.
+           By Mr. BUNNING (for himself and Ms. Mikulski):
+       S. 399. A bill to amend title XIX of the Social Security 
+     Act to include podiatrists as physicians for purposes of 
+     covering physicians services under the Medicaid program; to 
+     the Committee on Finance.
+           By Mr. SUNUNU (for himself, Mr. Gregg, and Mrs. 
+             Clinton):
+       S. 400. A bill to amend the Employee Retirement Income 
+     Security Act of 1974 and the Internal Revenue Code of 1986 to 
+     ensure that dependent students who take a medically necessary 
+     leave of absence do not lose health insurance coverage, and 
+     for other purposes; to the Committee on Health, Education, 
+     Labor, and Pensions.
+           By Mr. ROCKEFELLER (for himself, Ms. Snowe, Mr. 
+             Kennedy, Ms. Collins, Mr. Menendez, Mr. Reed, Ms. 
+             Mikulski, Mr. Durbin, Mr. Obama, Mr. Feingold, Mr. 
+             Kerry, Mr. Lautenberg, Mr. Whitehouse, Mr. Harkin, 
+             Mr. Cardin, Ms. Klobuchar, Mrs. McCaskill, and Mr. 
+             Kohl):
+       S. 401. A bill to amend title XXI of the Social Security 
+     Act to eliminate funding shortfalls for the State Children's 
+     Health Insurance Program (SCHIP) for fiscal year 2007; to the 
+     Committee on Finance.
+           By Mrs. LINCOLN (for herself, Mr. Smith, Mr. Lott, Mr. 
+             Cornyn, Mr. Pryor, Mrs. Hutchison, Mrs. Murray, Mrs. 
+             Dole, Ms. Cantwell, Mr. Burr, Mr. Shelby, Mr. 
+             Cochran, Mr. Vitter, and Ms. Landrieu):
+       S. 402. A bill to amend the Internal Revenue Code of 1986 
+     to allow a deduction for qualified timber gains; to the 
+     Committee on Finance.
+
+                          ____________________
+
+
+
+            SUBMISSION OF CONCURRENT AND SENATE RESOLUTIONS
+
+  The following concurrent resolutions and Senate resolutions were 
+read, and referred (or acted upon), as indicated:
+
+           By Mr. DORGAN:
+       S. Res. 40. An original resolution authorizing expenditures 
+     by the Senate Committee on Indian Affairs; from the Committee 
+     on Indian Affairs; to the Committee on Rules and 
+     Administration.
+           By Mr. BROWN (for himself and Mr. Voinovich):
+       S. Res. 41. A resolution honoring the life and recognizing 
+     the accomplishments of Tom Mooney, president of the Ohio 
+     Federation of Teachers; to the Committee on the Judiciary.
+           By Mr. LEAHY:
+       S. Res. 42. An original resolution authorizing expenditures 
+     by the Committee on the Judiciary; from the Committee on the 
+     Judiciary; to the Committee on Rules and Administration.
+           By Mr. SPECTER (for himself and Mr. Casey):
+       S. Res. 43. A resolution honoring the important 
+     contribution to the Nation of the Academy of Music in 
+     Philadelphia, Pennsylvania, on its 150th Anniversary; 
+     considered and agreed to.
+           By Mr. HAGEL (for himself and Mr. Nelson of Nebraska):
+       S. Res. 44. A resolution commending the University of 
+     Nebraska-Lincoln women's volleyball team for winning the 
+     National Collegiate Athletic Association Division I Women's 
+     Volleyball Championship; to the Committee on the Judiciary.
+
+                          ____________________
+
+
+
+                         ADDITIONAL COSPONSORS
+
+
+                                 S. 122
+
+  At the request of Mr. Baucus, the name of the Senator from Washington 
+(Mrs. Murray) was added as a cosponsor of S. 122, a bill to amend the 
+Trade Act of 1974 to extend benefits to service sector workers and 
+firms, enhance certain trade adjustment assistance authorities, and for 
+other purposes.
+
+
+                                 S. 214
+
+  At the request of Mrs. Feinstein, the name of the Senator from 
+Minnesota (Ms. Klobuchar) was added as a cosponsor of S. 214, a bill to 
+amend chapter 35 of title 28, United States Code, to preserve the 
+independence of United States attorneys.
+
+
+                                 S. 259
+
+  At the request of Mr. Akaka, the name of the Senator from Connecticut 
+(Mr. Dodd) was added as a cosponsor of S. 259, a bill to authorize the 
+establishment of the Henry Kuualoha Giugni Kupuna Memorial Archives at 
+the University of Hawaii.
+
+
+                                 S. 343
+
+  At the request of Mr. Voinovich, the name of the Senator from 
+Connecticut (Mr. Lieberman) was added as a cosponsor of S. 343, a bill 
+to extend the District of Columbia College Access Act of 1999.
+
+
+                                 S. 358
+
+  At the request of Ms. Snowe, the name of the Senator from Washington 
+(Ms. Cantwell) was added as a cosponsor of S. 358, a bill to prohibit 
+discrimination on the basis of genetic information with respect to 
+health insurance and employment.
+
+
+                                 S. 360
+
+  At the request of Mr. Bingaman, the names of the Senator from Vermont 
+(Mr. Sanders) and the Senator from Washington (Mrs. Murray) were added 
+as cosponsors of S. 360, a bill to amend the Internal Revenue Code of 
+1986 to expand expenses which qualify for the Hope Scholarship Credit 
+and to make the Hope Scholarship Credit and the Lifetime Learning 
+Credit refundable.
+
+
+                                 S. 380
+
+  At the request of Mr. Wyden, the name of the Senator from Alaska (Ms. 
+Murkowski) was added as a cosponsor of S. 380, a bill to reauthorize 
+the Secure Rural Schools and Community Self-Determination Act of 2000, 
+and for other purposes.
+
+
+                             S. CON. RES. 2
+
+  At the request of Mr. Biden, the names of the Senator from Washington 
+(Ms. Cantwell) and the Senator from Missouri (Mrs. McCaskill) were 
+added as cosponsors of S. Con. Res. 2, a concurrent resolution 
+expressing the bipartisan resolution on Iraq.
+
+
+                               S. RES. 29
+
+  At the request of Mr. Kyl, his name was added as a cosponsor of S. 
+Res. 29, a resolution expressing the sense of the Senate regarding 
+Martin Luther King, Jr. Day and the many lessons still to be learned 
+from Dr. King's example of nonviolence, courage, compassion, dignity, 
+and public service.
+  At the request of Ms. Stabenow, the name of the Senator from Texas 
+(Mr. Cornyn) was added as a cosponsor of S. Res. 29, supra.
+
+
+                           AMENDMENT NO. 117
+
+  At the request of Mr. Chambliss, the name of the Senator from North 
+Carolina (Mrs. Dole) was added as a cosponsor of amendment No. 117 
+intended to be proposed to H.R. 2, a bill to amend the Fair Labor 
+Standards Act of 1938 to provide for an increase in the Federal minimum 
+wage.
+
+
+                           AMENDMENT NO. 118
+
+  At the request of Mr. Chambliss, the name of the Senator from North 
+Carolina (Mrs. Dole) was added as a cosponsor of amendment No. 118 
+proposed to H.R. 2, a bill to amend the Fair Labor Standards Act of 
+1938 to provide for an increase in the Federal minimum wage.
+
+                          ____________________
+
+
+
+          STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS
+
+      By Mr. WYDEN:
+  S. 387. A bill to prohibit the sale by the Department of Defense of 
+parts for F-14 fighter aircraft; to the Committee on Armed Services.
+  Mr. WYDEN. Mr. President, I rise today to bring to light an important 
+issue which threatens our national security and begs the attention of 
+Congress. The legislation I propose today seeks to end the Iranian 
+government's acquisition of sensitive military equipment by blocking 
+the Pentagon's sale of F-14 fighter jet parts.
+  It is the sensitive job of the Department of Defense to demilitarize 
+and auction off surplus military equipment. However, recent 
+investigations and reports have uncovered a frightening trend regarding 
+the sale of F-14 ``Tomcat'' aircraft parts. U.S. customs agents have 
+discovered F-14 parts being illegally shipped to Iran by brokers who 
+bought F-14 surplus equipment from Department of Defense auctions.
+  Other than the United States, Iran is the only Nation to fly the F-
+14. The U.S. allowed Iran to buy 79 F-14s before its revolution in 
+1979. Fortunately, most of Iran's F-14s are currently grounded for lack 
+of parts.
+
+[[Page 2390]]
+
+  We know that Iran is pursuing a nuclear weapons capability. We know 
+that the Department of State has identified Iran as the most active 
+state sponsor of terrorism. We know that the sale of spare parts for F-
+14s could make it more difficult to confront the nuclear weapons 
+capability of Iran. And yet F-14 parts are still being sold by the DoD.
+  Iran's F-14s, especially with the parts to get more of them airborne, 
+greatly strengthen its ground war potential, harming our national and 
+global security. Our country should be doing everything possible to 
+deny the brutal regime in Tehran access to spare parts for their F-14 
+fleet.
+  The Department of Defense will tell you that it is already taking 
+action to control the sale of F-14 parts. A few times a year they 
+change the restriction on the sale of F-14 parts. But history has shown 
+us that these rules are not enough. The Department has been caught 
+still selling F-14 parts, even when its rules forbid it. It has sold F-
+14 parts to companies that have turned out to be fronts for the 
+Iranians. More recently, the DoD sold sensitive technology, including 
+classified F-14 parts to undercover GAO investigators.
+  My intention with this bill is to make it crystal clear to the 
+Department of Defense that it may not sell any F-14 parts to anyone for 
+any reason. There should be no chance for the parts to make their way 
+to the Iranians.
+  Additionally, my bill would prohibit the export of any F-14 parts 
+that have already been sold. This prevents the parts from ending up in 
+Iran through even the most roundabout route.
+  I am not trying to reform the entire military surplus sales process. 
+I am confident that the Armed Services Committee will continue its 
+investigations and propose some much needed changes. My bill would 
+simply fix a very specific, but very important, problem: the sale of F-
+14 components that end up in the hands of Iran.
+  I urge the members of the Senate to support this bill.
+  I ask unanimous consent that the text of the bill be printed in the 
+Record.
+  There being no objection, the text of the bill was ordered to be 
+printed in the Record, as follows:
+
+                                 S. 387
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Stop Arming Iran Act''.
+
+     SEC. 2. PROHIBITION ON SALE BY DEPARTMENT OF DEFENSE OF PARTS 
+                   FOR F-14 FIGHTER AIRCRAFT.
+
+       (a) Findings.--Congress makes the following findings:
+       (1) The Department of Defense is responsible for 
+     demilitarizing and auctioning off sensitive surplus United 
+     States military equipment.
+       (2) F-14 ``Tomcat'' fighter aircraft have recently been 
+     retired, and their parts are being made available by auction 
+     in large quantities.
+       (3) Iran is the only country, besides the United States, 
+     flying F-14 fighter aircraft and is purchasing surplus parts 
+     for such aircraft from brokers.
+       (4) The Government Accountability Office has, as a result 
+     of undercover investigative work, declared the acquisition of 
+     the surplus United States military equipment, including parts 
+     for F-14 fighter aircraft, to be disturbingly effortless.
+       (5) Upon the seizure of such sensitive surplus military 
+     equipment being sold to Iran, United States customs agents 
+     have discovered these same items, having been resold by the 
+     Department of Defense, being brokered illegally to Iran 
+     again.
+       (6) Iran is pursuing a nuclear weapons capability, and the 
+     Department of State has identified Iran as the most active 
+     state sponsor of terrorism.
+       (7) Iran continues to provide funding, safe haven, 
+     training, and weapons to known terrorist groups, including 
+     Hizballah, HAMAS, the Palestine Islamic Jihad, and the 
+     Popular Front for the Liberation of Palestine.
+       (8) The sale of spare parts for F-14 fighter aircraft could 
+     make it more difficult to confront the nuclear weapons 
+     capability of Iran and would strengthen the ground war 
+     capability of Iran. To prevent these threats to regional and 
+     global security, the sale of spare parts for F-14 fighter 
+     aircraft should be prohibited.
+       (b) Prohibition on Sale by Department of Defense.--
+       (1) In general.--Notwithstanding any other provision of law 
+     and except as provided in paragraph (2), the Department of 
+     Defense may not sell (whether directly or indirectly) any 
+     parts for F-14 fighter aircraft, whether through the Defense 
+     Reutilization and Marketing Service or through another agency 
+     or element of the Department.
+       (2) Exception.--Paragraph (1) shall not apply with respect 
+     to the sale of parts for F-14 fighter aircraft to a museum or 
+     similar organization located in the United States that is 
+     involved in the preservation of F-14 fighter aircraft for 
+     historical purposes.
+       (c) Prohibition on Export License.--No license for the 
+     export of parts for F-14 fighter aircraft to a non-United 
+     States person or entity may be issued by the United States 
+     Government.
+                                 ______
+                                 
+      By Mr. DOMENICI (for himself, Mr. Kyl, Mrs. Hutchison, and Mr. 
+        Cornyn):
+  S. 389. A bill to increase the number of Federal judgeships, in 
+accordance with recommendations by the Judicial Conference, in 
+districts that have an extraordinarily high immigration caseload; to 
+the Committee on the Judiciary.
+  Mr. DOMENICIl. Mr. President, I rise today to introduce legislation 
+that authorizes the Federal judgeships recommended by the 2005 Judicial 
+Conference for our U.S. District Courts that are overloaded with 
+immigration cases.
+  It is imperative to equip our Federal agencies with the assets they 
+need to secure our borders and enforce our immigration laws, including 
+courts which must adjudicate criminal immigration cases that appear on 
+their dockets. This includes our U.S. District Courts, which must try 
+repeat immigration law violators who are charged with a felony in U.S. 
+District Court.
+  The legislation I am introducing today creates eleven new Federal 
+judgeships recommended by the Judicial Conference for the four U.S. 
+Districts in which more than 50 percent of their criminal cases are 
+immigration cases. Each of these Districts shares a border Mexico.
+  In fiscal year 2004, the Western District of Texas had 5,599 criminal 
+case filings, 3,688 of those cases, or 65 percent, dealt with 
+immigration. The District Court of Arizona had 4,007 criminal filings, 
+of which 2,404 cases, that's 59 percent, were immigration filings. The 
+Southern District of California had 2,206 immigration filings, 64 
+percent of the 3,400 total criminal filings. Lastly, the District of 
+New Mexico had 2,497 criminal filings, 60 percent, or 1,502 cases, were 
+immigration cases.
+  Based on these caseloads, we should already be giving these Districts 
+new judgeships. But to increase border security and immigration 
+enforcement efforts, as we have over the past few years, without 
+equipping these courts to handle the even larger immigration caseloads 
+that they are expected to face would amount to willful negligence.
+  The New Mexico District Chief Judge, Martha Vazquez, wrote me a 
+letter in May of 2006 about the situation her District faces. Judge 
+Vazquez wrote: ``As it is, the burden on Article III Judges in this 
+District is considerable. This District ranks first among all districts 
+in criminal filings per judgeship: 405 criminal filings compared to the 
+national average of 87. As in all federal districts along the southwest 
+border, the majority of cases filed in this District relate to 
+immigration offenses under United States Code, Title 8 and drug 
+offenses arising under Title 21. Immigration and drug cases account for 
+eighty-five percent of the caseload in the District of New Mexico. . . 
+. In fiscal year 1997, there were 240 immigration felony filings in the 
+District of New Mexico. By fiscal year 2005, the number of immigration 
+felony filings increased to 1,826, which is an increase of 661 
+percent.''
+  The Albuquerque Tribune has also documented the burden on our 
+Southwest border District Courts. An April 17, 2006 article entitled 
+``Judges See Ripple Effect of Policy on Immigration,'' stated: ``U.S. 
+District Chief Judge Martha Vazquez of Santa Fe oversees a court that 
+faces a rising caseload from illegal border crossings and related 
+crime. And help from Washington is by no means certain. . . . From 
+Sept. 30, 1999 to Sept. 30, 2004 (the end of the fiscal year), the 
+caseload in the New Mexico federal district court increased 57.5 
+percent, from 2,804 to 4,416. In the 2004 fiscal year alone,
+
+[[Page 2391]]
+
+2,126 felony cases were heard, almost half of all cases in the entire 
+10th Circuit, which includes Colorado, Kansas, Oklahoma, Utah and 
+Wyoming. Most typical immigration cases go before an immigration judge, 
+and the subjects are deported. But people deported once and caught 
+crossing illegally again can be charged with a felony. And that brings 
+the defendant into federal district court. Those are the cases driving 
+up New Mexico's caseload . . . Some days as many as 90 defendants crowd 
+the courtroom in Las Cruces. . . . The same problems are afflicting 
+federal border courts in Arizona, California, and Texas.''
+  Similar problems were documented in the May 23, 2006 Reuters article 
+``Bush Border Patrol Plan to Pressure Courts'' which said: ``President 
+George W. Bush's plan to send thousands of National Guard troops to the 
+U.S.-Mexico border could spark a surge in immigration cases and U.S. 
+courts are ill prepared to handle them. . . . Even without the stepped-
+up security at the border, federal courts in southern California, 
+Arizona, New Mexico and Texas have been overburdened. Carelli [a 
+spokesman for U.S. federal courts] said those five judicial districts, 
+out of 94 nationwide, account for 34 percent of all criminal cases 
+moving through U.S. courts. . . . Most immigrants caught crossing 
+illegally are ordered out of the country without prosecution. But that 
+still leaves a growing pile of cases involving illegals who are being 
+prosecuted after being caught multiple times or those accused of other 
+crimes. Nationwide, each U.S. judge handles an average of 87 cases a 
+year. But along the southern border, even before Bush's plan moves 
+forward, the average is around 300 per judge, Carelli said.''
+  Lastly, I recently heard first-hand about this problem from a Federal 
+judge in New Mexico. He told me that he travels almost 200 miles to 
+hear cases in Southern New Mexico. Many of the situations he sees 
+involve mass arraignments because there are so many defendants in the 
+system. He is not alone in this arrangement; other Federal judges drive 
+almost 300 miles to hear cases in the Southern part of my home State. 
+This is a dire situation that must be addressed.
+  The United States Congress must address the overwhelming immigration 
+caseload our southwestern border U.S. District Courts face. The bill I 
+am introducing today does that by authorizing the nine permanent and 
+two temporary judgeships recommended by the 2005 Judicial Conference 
+for the four U.S. Districts in which the immigration caseloads total 
+more than 50 percent of those Districts' total criminal caseload.
+  I ask unanimous consent that-the text of the bill be printed in the 
+Record.
+  There being no objection, the text of the bill was ordered to be 
+printed in the Record, as follows:
+
+                                 S. 389
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. ADDITIONAL DISTRICT COURT JUDGESHIPS.
+
+       The President shall appoint, by and with the advice and 
+     consent of the Senate, such additional district court judges 
+     as are necessary to carry out the 2005 recommendations of the 
+     Judicial Conference for district courts in which the criminal 
+     immigration filings represented more than 50 percent of all 
+     criminal filings for the 12-month period ending September 30, 
+     2004.
+                                 ______
+                                 
+      By Mr. BENNETT (for himself and Mr. Hatch):
+  S. 390. A bill to direct the exchange of certain land in Grand, San 
+Juan, and Uintah Counties, Utah, and for other purposes; to the 
+Committee on Energy and Natural Resources.
+  Mr. BENNETT. Mr. President, I am pleased to be able to reintroduce 
+the Utah Recreational Land Exchange Act of 2007, together with my 
+colleague Senator Hatch. This legislation will ensure the protection of 
+critical lands along the Colorado River corridor in southeastern Utah 
+and will help provide important funding for Utah's school children.
+  In Utah, we treasure our children's education. A key component of our 
+education system is the 3.5 million acres of school trust lands 
+scattered throughout the State. Upon Utah's admission to the Union in 
+1896, these lands were dedicated to support public education. Revenue 
+from the trust lands, whether from grazing, forestry, surface leasing, 
+or mineral development, is placed in the State School Fund. This fund 
+is a permanent, income-producing endowment created by Congress to fund 
+Utah's public education. Unfortunately, the majority of these lands are 
+surrounded by public lands, making responsible management very 
+difficult. It is critical to both the State of Utah and the Bureau of 
+Land Management that we consolidate their respective lands to ensure 
+that both public agencies are permitted to fulfill their mandates.
+  The legislation we are introducing today is yet another chapter in 
+our State's long history of consolidating these State lands for the 
+financial well-being of our education system. These efforts allow the 
+Federal land management agencies to consolidate public lands in 
+environmentally-sensitive areas that can then be reasonably managed. We 
+see this exchange as a win-win solution for the State of Utah and its 
+school children, as well as the Department of the Interior, the 
+caretaker of our public lands.
+  In 1998, Congress passed the first major Utah school trust land 
+exchange which consolidated hundreds of thousands of acres. Again in 
+2000, Congress enacted an exchange consolidating another 100,000 acres. 
+I was proud to play a role in those efforts, and the bill we are 
+introducing today is yet another step in the long journey toward 
+fulfilling the promise Congress made to Utah's school children in 1896.
+  Utah's School and Institutional Trust Lands Administration manages 
+some of the most spectacular lands in America, located along the 
+Colorado River in southeastern Utah. This legislation will ensure that 
+places like Westwater Canyon of the Colorado River, the world famous 
+Kokopelli and Slickrock biking trails, some of the largest natural rock 
+arches in the United States, wilderness study areas, and viewsheds for 
+Arches National Park will be traded into Federal ownership and for the 
+benefit of future generations. At the same time, the school children of 
+Utah will receive mineral and development lands that are not 
+environmentally-sensitive, and where responsible development makes 
+sense. This will be an equal value exchange, with approximately 40,000 
+acres exchanged on both sides, giving taxpayers and the school children 
+of Utah a fair deal. Moreover, the legislation establishes a common-
+sense valuation process for resources that are often either overlooked 
+or overvalued because of their highly-speculative nature.
+  This legislation represents a truly collaborative process that has 
+included local governments, the State, the recreation and environmental 
+communities, and other interested parties. We also worked closely with 
+the Department of the Interior on proper valuation in the appraisal of 
+the lands. In a hearing held before the Senate Energy and Natural 
+Resources Committee on May 24, 2006, the Department of the Interior 
+expressed their support for the bill and said that this land exchange 
+will resolve management issues, improve public access, and facilitate 
+greater resource protection. We look forward to working with the 
+appropriate committees toward a successful resolution of this proposed 
+exchange during this Congress.
+  I ask my colleagues to support our effort to fund the education of 
+our children in Utah and to protect some of this nation's truly great 
+land. I urge support of the Utah Recreational Land Exchange Act of 
+2007.
+                                 ______
+                                 
+      By Mr. BIDEN:
+  S. 392. A bill to ensure payment of United States assessments for 
+United Nations peacekeeping operations for the 2005 through 2008 time 
+period; to the Committee on Foreign Relations.
+  Mr. BIDEN. Mr. President, today I introduce legislation to ensure 
+that the United States does not fall further into debt at the United 
+Nations, and to pay the debt that we have accrued since January 1, 
+2006.
+
+[[Page 2392]]
+
+  For over a year, we have not been paying our full contribution to the 
+U.N. for its peacekeeping operations--for missions in places like 
+Lebanon, Haiti, the Democratic Republic of Congo, and Kosovo--that 
+advance our national interests and spread the burden of keeping the 
+peace among other nations. We are approximately $80 million in debt, 
+and the number grows every month as new bills come in for peacekeeping 
+operations.
+  Here is why.
+  In 1994, Congress passed a law limiting U.S. payments for U.N. 
+peacekeeping at 25 percent after fiscal year 1995. The United Nations 
+continued to bill the United States at 31 percent. As a result, a debt 
+accrued--that is, the gap between the 25 percent allowed under U.S. 
+law, and the 31 percent we were charged by the U.N.
+  In 1999, when Congress approved the ``Helms-Biden'' law, it 
+authorized the repayment of U.S. arrears to the U.N. conditioned on 
+certain reforms in the U.N. system. One of those reforms was a 
+negotiated reduction of the U.S. peacekeeping rate down to 25 percent. 
+Through negotiations in 2000, U.S. Ambassador Holbrooke succeeded in 
+reducing the U.S. assessments for peacekeeping to just over 27 percent.
+  In 2001, Congress amended the Helms-Biden law to allow the arrears 
+payments to be provided to the U.N., even though Ambassador Holbrooke 
+had not reached the target of 25 percent. But the original 1994 law 
+limiting our payments to 25 percent was never repealed.
+  In the past few years, Congress has amended the 1994 law on a 
+temporary basis by raising the 25 percent limitation to conform it to 
+the rate negotiated by Ambassador Holbrooke, but the most recent 
+temporary change in law expired on December 31, 2005.
+  Therefore, the law today is this: the United States may not pay more 
+than 25 percent for peacekeeping, even though the United Nations 
+assesses the United States at a higher rate.
+  Mr. President this is a problem. At a time when our government 
+continues to seek important reforms at the United Nations, it is a 
+mistake for us to continue to fall short on our dues. Rather than 
+encourage reform, it may give other countries an excuse to avoid it. 
+How can we, in good faith, fail to pay our bills while at the same time 
+push the U.N. to get its financial house in order?
+  More important, U.N. peacekeeping operations advance America's 
+national security. If the U.N. didn't do them, we might have to do so. 
+The U.N. `blue helmets' are literally on the front lines in conflicts 
+that are the worst of the worst: protecting civilians, monitoring 
+cease-fires, clearing mine fields, and disarming combatants. Right now, 
+the United States continues to seek support at the U.N. for a robust 
+mission in Darfur. We have voted time and again in the Security 
+Council, and rightfully so, to support these critical missions.
+  Through U.N. peacekeeping, the U.S. contributes to international 
+peace and stability where we have critical foreign policy interests, 
+while sharing the human, political and financial costs with other 
+nations. We should not shortchange these operations.
+                                 ______
+                                 
+      By Mr. HARKIN:
+  S. 393. A bill to transfer unspent funds for grants by the Office of 
+Community Oriented Policing Services, the Office of Justice Programs, 
+and the Office on Violence Against Women to the Edward Byrne Memorial 
+Justice Assistance Grant Program; to the Committee on the Judiciary.
+  Mr. HARKIN. Mr. President, I rise today to introduce legislation to 
+restore critical funding to one of our Nation's most effective drug 
+enforcement tools, the Edward Byrne Memorial Justice Assistance Grant 
+Program. My bill, the Emergency Local Law Enforcement Byrne Assistance 
+Act of 2007, will bring a desperately needed infusion of cash into this 
+critical local law enforcement assistance program.
+  The Byrne grant program provides funding for local drug task forces 
+all over the country. These local drug task forces are critical to 
+creating regional cooperation and to fighting the manufacture, 
+distribution, and use of methamphetamine.
+  A survey by the Iowa Office of Drug Control Policy found that in 
+fiscal year 2004 Byrne JAG dollars funded 4,316 police officers and 
+prosecutors working on 764 drug enforcement task forces. The study also 
+found that Byrne JAG funding led to 221,000 arrests in 45 states, the 
+seizure of 5.5 million grams of methamphetamine, and the breakup of 
+almost 9,000 methamphetamine labs.
+  Yet the program has suffered draconian cuts over the past 4 years. 
+Between 2003 and 2006 the President and the Attorney General have 
+refused to provide a single dollar for Byrne local law enforcement 
+funding. As a result, funding for the Byrne program has been slashed by 
+almost 60 percent from $1 billion dollars in 2003 to just $416 million 
+in 2006.
+  I hear on a weekly basis from Sheriffs and other law enforcement 
+officials in Iowa how hard these cuts are hitting them. Over the past 
+year, Iowa has had to absorb a 42 percent cut in Byrne funding. That 
+translates to less law enforcement officers and less regional 
+cooperation in finding and stopping that meth that continues to flood 
+the State of Iowa. I recently heard from Story County Sheriff Paul 
+Fitzgerald that his agency alone will lose two drug task force agents 
+this year, a statistic that is being repeated in almost every county 
+across my State.
+  The anecdotal evidence from Iowa law enforcement is clearly reflected 
+at the national level. The Federal Bureau of Investigation Uniform 
+Crime Reports recently found that violent crime in the United States 
+increased 2.5 percent in 2005, and an additional 3.7 percent in the 
+first half of 2006, the largest increase in 15 years! The increase was 
+much more severe in the meth plagued Midwest with violent crime up 5.7 
+percent in 2005.
+  You don't need a side by side chart to understand the connection 
+between drastic reductions in federal funding for local law enforcement 
+and rising crime rates!
+  At the same time, a recent report by the Department of Justice 
+Inspector General found that the Department of Justice has not been 
+doing a particularly effective job of administering the grants within 
+its jurisdiction. The Inspector General found that just over $170 
+million expired grant funding is sitting at DOJ. Some of this funding 
+is for grants that expired as long as five years ago!
+  My bill simply takes this unused money and puts it into the Byrne 
+grant program. Specifically, the legislation transfers all balances on 
+COPS and Office of Justice Program grants that have been expired for 
+more than 90 days and all Office of Violence Against Women grants that 
+have been expired for more than 2 years, to the Byrne JAG program for 
+fiscal year 2007. These expired grant funds are currently sitting in 
+DOJ coffers and cannot legally be used by the grantee, and the funds 
+would ultimately revert to the treasury. My bill instead puts the money 
+to good use in offsetting some of the most drastic consequences of cuts 
+to the Byrne program.
+  While reallocating these amounts to Byrne JAG will make only a dent 
+in the massive budget cuts of recent years, the Emergency Local Law 
+Enforcement Byrne Assistance Act of 2007 is an important first step and 
+sends an immediate message to line officers overwhelmed by the 
+unstoppable flow of meth into our States that we are going to help.
+  I am hopeful that in this new Congress the President and the Congress 
+will more adequately fund crucial law enforcement programs like Byrne 
+JAG. In the meantime, I urge my colleagues to join me in demonstrating 
+a commitment to local law enforcement and to our continuing fight 
+against methamphetamine by coming together to quickly pass the 
+Emergency Local Law Enforcement Byrne Assistance Act of 2007.
+  I ask unanimous consent that the text of the bill be printed in the 
+Record.
+  There being no objection, the text of the bill was ordered to be 
+printed in the Record, as follows:
+
+                                 S. 393
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+[[Page 2393]]
+
+
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Emergency Local Law 
+     Enforcement Byrne Assistance Act of 2007''.
+
+     SEC. 2. FINDINGS.
+
+       Congress finds the following:
+       (1) A report by the Inspector General of the Department of 
+     Justice documents that the Office of Justice Programs, the 
+     Office of Community Oriented Policing Services, and the 
+     Office on Violence Against Women of the Department of Justice 
+     have failed to close out and deobligate over $160,000,000 in 
+     expired grant funds and that these funds have not been 
+     redirected to other programs or returned to the Treasury.
+       (2) Between fiscal year 2003 and fiscal year 2006, funding 
+     for the formula grant program of the Edward Byrne Memorial 
+     Justice Assistance Grant Program under subpart 1 of part E of 
+     the Omnibus Crime Control and Safe Streets Act of 1968 (42 
+     U.S.C. 3750 et seq.) has been reduced by over 50 percent, 
+     from $900,000,000 to $416,000,000.
+       (3) According to the Federal Bureau of Investigation 
+     Uniform Crime Reports, violent crime in the United States 
+     increased 2.5 percent in 2005, and an additional 3.7 percent 
+     in the first half of 2006. In the Midwest, which continues to 
+     struggle with a methamphetamine epidemic, violent crime 
+     increased 5.7 percent between 2004 and 2005.
+
+     SEC. 3. UNSPENT GRANTS.
+
+       (a) In General.--All amounts described in subsection (b) 
+     shall be transferred for use for grants under the formula 
+     grant program of the Edward Byrne Memorial Justice Assistance 
+     Grant Program under subpart 1 of part E of the Omnibus Crime 
+     Control and Safe Streets Act of 1968 (42 U.S.C. 3750 et 
+     seq.), to remain available until expended.
+       (b) Amounts Covered.--The amounts described in this 
+     subsection are any unexpended amounts for--
+       (1) any covered grant administered by the Office of 
+     Community Oriented Policing Services;
+       (2) any covered grant administered by the Office of Justice 
+     Programs; and
+       (3) any covered grant administered by the Office on 
+     Violence Against Women for which the grant expired not less 
+     than 2 years before the date of enactment of this Act.
+       (c) Definition.--In this section, the term ``covered 
+     grant'' means a grant--
+       (1) that has expired but has not been closed out; or
+       (2)(A) that has expired and been closed out; and
+       (B) the remaining funds of which have not been deobligated.
+                                 ______
+                                 
+      By Mr. AKAKA (for himself, Mr. Stevens, Mr. Levin, Ms. Collins, 
+        Mr. Lautenberg, Mr. Kerry, Mrs. Boxer, Mrs. Feinstein, and Mr. 
+        Menendez):
+  S. 394. A bill to amend the Humane Methods of Livestock Slaughter Act 
+of 1958 to ensure the humane slaughter of nonambulatory livestock, and 
+for other purposes; to the Committee on Agriculture, Nutrition, and 
+Forestry.
+  Mr. AKAKA. Mr. President, I rise today, along with my colleagues, 
+Senators Ted Stevens, R-AK, Carl Levin, D-MI, Susan Collins, R-ME, 
+Frank Lautenberg, D-NJ, John Kerry, D-MA, Barbara Boxer, D-CA, Dianne 
+Feinstein, D-CA, and Robert Menendez, D-NJ to introduce the Downed 
+Animal and Food Safety Protection Act of 2007, legislation intended to 
+protect people from the unnecessary spread of disease. This bill, which 
+has bipartisan support, would prohibit the use of nonambulatory animals 
+for human consumption.
+  Nonambulatory animals, also known as downed animals, are livestock 
+such as cattle, sheep, swine, goats, horses, mules, or other equines 
+that are too sick to stand or walk unassisted. Many of these animals 
+are dying from infectious diseases and present a significant pathway 
+for the spread of disease.
+  The safety of our Nation's food supply is of the utmost importance. 
+With the presence of bovine spongiform encephalopathy, BSE, also known 
+as mad-cow disease, and other strains of transmissible spongiform 
+encephalopathies, TSE, which are related animal diseases found not only 
+in nearby countries but also in the United States, it is important that 
+we take all measures necessary to ensure that our food is safe.
+  Currently, before slaughter, the United States Department of 
+Agriculture's, USDA, Food Safety Inspection Service, FSIS, diverts 
+downer livestock only if they exhibit clinical signs associated with 
+BSE. Routinely, BSE is not correctly distinguished from many other 
+diseases and conditions that show similar symptoms. The ante-mortem 
+inspection that is currently used in the United States is very similar 
+to the inspection process in Europe, which has proved to be inadequate 
+for detecting BSE. Consequently, if BSE were present in a U.S. downed 
+animal, it could currently be offered for slaughter. If the animal 
+showed no clinical signs of the disease, the animal would then pass an 
+ante-mortem inspection, making the diseased animal available for human 
+consumption. The BSE agent could then cross-contaminate the normally 
+safe muscle tissue during slaughter and processing. The disposal of 
+downer livestock would ensure that the BSE agent would not be recycled 
+to contaminate otherwise safe meat.
+  There are other TSE diseases already known to us such as scrapie that 
+affects sheep and goats, chronic wasting disease in deer and elk, and 
+classic Creutzfeldt-Jakob Disease in humans, all of which are present 
+in the United States. Because our knowledge of such diseases is 
+limited, the inclusion of horses, mules, swine, and other equine in 
+this act are a necessary precaution. This precautionary measure is 
+needed in order to ensure that the human population is not affected by 
+diseased livestock. The Food and Drug Administration, FDA, has already 
+created regulations that prevent imports of all live cattle and other 
+ruminants and certain ruminant products from countries where BSE is 
+known to exist. In 1997, the FDA placed a prohibition on the use of all 
+mammalian protein, with a few exceptions, in animal feed given to 
+cattle and other ruminants. These regulations are a good start in 
+protecting us from the possible spread of BSE, however, they do not go 
+far enough, because they still allow the processing of downer cattle.
+  According to a study performed by the Harvard School of the Public 
+Health in conjunction with the USDA and surveillance data from European 
+countries, downer cattle are at high risk for BSE. According to the 
+Harvard Study, the removal of nonambulatory cattle from the population 
+intended for slaughter would reduce the probability of spreading BSE by 
+82 percent. The USDA and the FDA have acknowledged that downed animals 
+serve as a potential pathway for the spread of BSE. While both have 
+entertained the idea of prohibiting the rendering of downed cattle, 
+they have taken no formal action. It is imperative that we, Congress, 
+ensure that downer livestock does not enter our food chain, and the 
+best way to accomplish this task is to codify the prohibition of downer 
+livestock from entering our food supply.
+  The Downed Animal Protection Act fills a gap in the current USDA and 
+FDA regulations. The bill calls for the humane euthanization of 
+nonambulatory livestock, both for interstate and foreign commerce. The 
+euthanization of nonambulatory livestock would remove this high risk 
+population from the portion of livestock reserved for our consumption. 
+Due to the presence of other TSE diseases found throughout other 
+species of livestock, all animals that fit under the definition of 
+livestock will be included in this bill.
+  The benefits of my bill are numerous, for both the public and the 
+industry. On the face of it, the bill will prevent needless suffering 
+by humanely euthanizing nonambulatory animals. The removal of downed 
+animals from our products will insure that they are safer and of better 
+quality. The reduction in the likelihood of disease would result in 
+safer working conditions for persons handling livestock. This added 
+protection against disease would help the flow of livestock and 
+livestock products in interstate and foreign commerce, making commerce 
+in livestock more easily attainable.
+  Some individuals fear that this bill would place an excessive 
+financial burden on the livestock industry. I want to remind my 
+colleagues that one single downed cow in Canada diagnosed with BSE in 
+2003 shut down the world's third largest beef exporter. It is estimated 
+that the Canadian beef industry lost more than $1 billion when more 
+than 30 countries banned Canadian cattle and beef upon the discovery of 
+BSE. As the Canadian cattle industry continues to recover from its 
+economic loss, it is prudent for the United States to be proactive in 
+preventing BSE and other animal diseases from entering our food chain.
+
+[[Page 2394]]
+
+  Today, the USDA has increased its efforts to test approximately ten 
+percent of downed cattle per year for BSE. However, it is my 
+understanding that the USDA is looking to revisit this issue. I do not 
+believe that now is the time to lower our defenses. We must protect our 
+livestock industry and human health from diseases such as BSE. This 
+bill reduces the threat of passing diseases from downed livestock to 
+our food supply. It ensures downed animals will not be used for human 
+consumption. It also requires higher standards for food safety and 
+protects the human population from diseases and the livestock industry 
+from economic distress.
+  American consumers should be able to rely on the Federal Government 
+to ensure that meat and meat by-products are safe for human 
+consumption. I urge my colleagues to support this important bill. I ask 
+unanimous consent that the text of the measure be printed in the 
+Record.
+  There being no objection, the text of the bill was ordered to be 
+printed in the Record, as follows:
+
+                                 S. 394
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Downed Animal and Food 
+     Safety Protection Act of 2007''.
+
+     SEC. 2. FINDING AND DECLARATION OF POLICY.
+
+       (a) Finding.--Congress finds that the humane euthanization 
+     of nonambulatory livestock in interstate and foreign 
+     commerce--
+       (1) prevents needless suffering;
+       (2) results in safer and better working conditions for 
+     persons handling livestock;
+       (3) brings about improvement of products and reduces the 
+     likelihood of the spread of diseases that have a great and 
+     deleterious impact on interstate and foreign commerce in 
+     livestock; and
+       (4) produces other benefits for producers, processors, and 
+     consumers that tend to expedite an orderly flow of livestock 
+     and livestock products in interstate foreign commerce.
+       (b) Declaration of Policy.--It is the policy of the United 
+     States that all nonambulatory livestock in interstate and 
+     foreign commerce shall be immediately and humanely euthanized 
+     when such livestock become nonambulatory.
+
+     SEC. 3. UNLAWFUL SLAUGHTER PRACTICES INVOLVING NONAMBULATORY 
+                   LIVESTOCK.
+
+       (a) In General.--Public Law 85-765 (commonly known as the 
+     ``Humane Methods of Slaughter Act of 1958'') (7 U.S.C. 1901 
+     et seq.) is amended by inserting after section 2 (7 U.S.C. 
+     1902) the following:
+
+     ``SEC. 3. NONAMBULATORY LIVESTOCK.
+
+       ``(a) Definitions.--In this section:
+       ``(1) Covered entity.--The term `covered entity' means--
+       ``(A) a stockyard;
+       ``(B) a market agency;
+       ``(C) a dealer;
+       ``(D) a packer;
+       ``(E) a slaughter facility; or
+       ``(F) an establishment.
+       ``(2) Establishment.--The term `establishment' means an 
+     establishment that is covered by the Federal Meat Inspection 
+     Act (21 U.S.C. 601 et seq.).
+       ``(3) Humanely euthanize.--The term `humanely euthanize' 
+     means to immediately render an animal unconscious by 
+     mechanical, chemical, or other means, with this state 
+     remaining until the death of the animal.
+       ``(4) Nonambulatory livestock.--The term `nonambulatory 
+     livestock' means any cattle, sheep, swine, goats, or horses, 
+     mules, or other equines, that will not stand and walk 
+     unassisted.
+       ``(5) Secretary.--The term `Secretary' means the Secretary 
+     of Agriculture.
+       ``(b) Humane Treatment, Handling, and Disposition.--The 
+     Secretary shall promulgate regulations to provide for the 
+     humane treatment, handling, and disposition of all 
+     nonambulatory livestock by covered entities, including a 
+     requirement that nonambulatory livestock be humanely 
+     euthanized.
+       ``(c) Humane Euthanasia.--
+       ``(1) In general.--Subject to paragraph (2), when an animal 
+     becomes nonambulatory, a covered entity shall immediately 
+     humanely euthanize the nonambulatory livestock.
+       ``(2) Disease testing.--Paragraph (1) shall not limit the 
+     ability of the Secretary to test nonambulatory livestock for 
+     a disease, such as Bovine Spongiform Encephalopathy.
+       ``(d) Movement.--
+       ``(1) In general.--A covered entity shall not move 
+     nonambulatory livestock while the nonambulatory livestock are 
+     conscious.
+       ``(2) Unconsciousness.--In the case of any nonambulatory 
+     livestock that are moved, the covered entity shall ensure 
+     that the nonambulatory livestock remain unconscious until 
+     death.
+       ``(e) Inspections.--
+       ``(1) In general.--It shall be unlawful for an inspector at 
+     an establishment to pass through inspection any nonambulatory 
+     livestock or carcass (including parts of a carcass) of 
+     nonambulatory livestock.
+       ``(2) Labeling.--An inspector or other employee of an 
+     establishment shall label, mark, stamp, or tag as `inspected 
+     and condemned' any material described in paragraph (1).''.
+       (b) Effective Date.--
+       (1) In general.--Except as provided in paragraph (2), the 
+     amendment made by subsection (a) takes effect on the date 
+     that is 1 year after the date of enactment of this Act.
+       (2) Regulations.--Not later than 1 year after the date of 
+     enactment of this Act, the Secretary of Agriculture shall 
+     promulgate final regulations to implement the amendment made 
+     by subsection (a).
+                                 ______
+                                 
+      By Mr. DORGAN (for himself, Mr. Levin, and Mr. Feingold):
+  S. 396. A bill to amend the Internal Revenue Code of 1986 to treat 
+controlled foreign corporations in tax havens as domestic corporations; 
+to the Committee on Finance.
+  Mr. DORGAN. Mr. President, today I'm joined by Senators Carl Levin of 
+Michigan and Russell Feingold of Wisconsin in re-introducing 
+legislation that we believe will help the Internal Revenue Service 
+(IRS) combat offshore tax haven abuses and ensure that U.S. 
+multinational companies pay the U.S. taxes that they rightfully owe.
+  Every year, tens of millions of taxpayers work through piles of 
+complicated IRS instructions and complex forms to prepare and file 
+their tax returns to fulfill their taxpaying responsibility. Some tax 
+experts have estimated that taxpayers spend over $100 billion and more 
+than 6 billion hours trying to comply with their Federal tax 
+obligation.
+  That's why every American has a right to be angry when they hear 
+repeated press accounts of corporate taxpayers that are shirking their 
+tax obligations by actively shifting their profits to foreign tax 
+havens or using other inappropriate tax avoidance techniques. The bill 
+that we are re-introducing today is a simple and straightforward way to 
+try to tackle the offshore tax haven problem. It is virtually identical 
+to our bill in the 109th Congress, S. 779, but we have granted 
+potentially impacted companies an extra year to comply with its 
+provisions.
+  We have known for many years that some very profitable U.S. 
+multinational businesses are using offshore tax havens to avoid paying 
+their fair share of U.S. taxes. But in the face of these reports, the 
+Congress and the administration have shown little interest in stopping 
+this hemorrhaging of tax revenues. In fact, a growing body of evidence 
+suggests that the tax haven problem is getting much worse and may be 
+costing the U.S. Treasury tens of billions of dollars every year.
+  Although the Congress did pass legislation a few years ago, which I 
+supported, that addresses a narrow problem of a couple dozen corporate 
+expatriates that reincorporated overseas, that legislation did nothing 
+to deal with the problem of U.S. companies that are setting up tax 
+haven subsidiaries offshore to avoid their taxpaying responsibilities 
+in this country.
+  Around the time of the debate on corporate inversions, a New York 
+Times article got it right when it suggested that ``instead of moving 
+headquarters offshore, many companies are simply placing patents on 
+drugs, ownership of corporate logos, techniques for manufacturing 
+processes and other intangible assets in tax havens . . . The companies 
+then charge their subsidiaries in higher-tax locales, including the 
+U.S., for the use of these intellectual properties. This allows the 
+companies to take profits in these havens and pay far less in taxes.''
+  How pervasive is the tax haven subsidiary problem? A couple of years 
+ago, the Government Accountability Office (GAO), the investigative arm 
+of Congress, issued a report that Senator Levin and I requested that 
+gives some insight to the potential magnitude of this tax avoidance 
+activity.
+  The GAO found that 59 out of the 100 largest publicly-traded Federal 
+contractors in 2001--with tens of billions of dollars of Federal 
+contracts in 2001-- had established hundreds of subsidiaries located in 
+offshore tax havens. According to the GAO, Exxon-Mobil Corporation, the 
+21st largest publicly traded Federal contractor in 2001, has some 11 
+tax-haven subsidiaries in the
+
+[[Page 2395]]
+
+Bahamas. The same report revealed that the Halliburton Company has 17 
+tax-haven subsidiaries, including 13 in the Cayman Islands, a country 
+that has never imposed a corporate income tax, as well as 2 in 
+Liechtenstein and 2 in Panama. And the now infamous Enron Corporation 
+had 1,300 different foreign entities, including some 441 located in the 
+Cayman Islands.
+  But the poster child for offshore tax haven abuses, in my opinion, is 
+a five-story building located in the Cayman Islands that thousands of 
+companies call home. According to a very good investigative report 
+published by David Evans with Bloomberg News in the summer of 2004, 
+there is a building named the Ugland House in Grand Cayman that is used 
+as the address of 12,748 companies.
+  In fact, nearly half of the money U.S. companies earned overseas is 
+accounted for in tax havens like the Cayman Islands. A former Joint 
+Committee on Taxation economist released a study that looked at the 
+amount of profits that U.S. companies are shifting to offshore tax 
+havens. He found that U.S. multinational companies had moved hundreds 
+of billions of dollars in profits to tax havens for years 1999-2002, 
+the latest years for which IRS data was available.
+  The legislation we are re-introducing today would help put a stop to 
+these tax avoidance schemes. Specifically, our legislation denies tax 
+benefits, namely tax deferral, to U.S. multinational companies that set 
+up controlled foreign corporations in tax haven countries. This tracks 
+the same general approach in legislation passed by the Congress and 
+enacted into law that was designed to curb the problem of corporate 
+inversions. Our bill builds upon the good work of Senators Baucus and 
+Grassley and other members of the Senate Finance Committee by extending 
+similar tax policy changes to cover the case of U.S. companies and 
+their tax haven subsidiaries.
+  Specifically, our legislation would treat U.S. controlled foreign 
+subsidiaries that are set up in tax haven countries--but are not 
+engaged in a real and active business--as domestic companies for U.S. 
+tax purposes. In other words, we would simply treat these companies as 
+if they never left the United States, which is essentially the case in 
+these tax avoidance motivated transactions. The bill's list of specific 
+tax haven countries subjected to the new rule is based upon the 
+previous work by the Organization for Economic Cooperation and 
+Development. However, our legislation does give the Secretary of the 
+Treasury the ability to add or remove a foreign country from this list 
+in appropriate cases. We also give businesses plenty of time, two 
+additional years through December 31, 2008, to restructure their tax 
+haven operations if they so choose.
+  As mentioned, our legislation effectively ends the deferral tax 
+benefit for U.S. companies that shift income to offshore inactive tax 
+haven subsidiaries. This means, for example, that any efforts by a U.S. 
+company to move profits to the subsidiary through transfer pricing 
+schemes will not work because the income earned by the subsidiary would 
+still be immediately taxable by the United States. Likewise, any 
+efforts to move otherwise active income earned by a U.S. company in a 
+high-tax foreign country to a tax haven would cause the income to be 
+immediately taxable by the United States. Under this bill, companies 
+that try to move intangible assets--and the income they produce--to tax 
+havens would be unsuccessful because that income would still be 
+immediately taxable by the United States. The Joint Tax Committee says 
+our legislation that will help close this tax shelter game will prevent 
+these companies from draining some $15 billion in revenues from the 
+U.S. Treasury over the next decade.
+  Let me be very clear about one thing. This legislation will not 
+adversely impact U.S. companies with controlled foreign subsidiaries 
+that are located in tax havens and doing legitimate and substantial 
+business. The legislation expressly exempts a U.S.-controlled foreign 
+subsidiary from its tax rule changes when all of its income is derived 
+from the active conduct of a trade or business within a listed tax 
+haven country.
+  In 2002, then-IRS Commissioner Charles Rossotti told Congress that 
+``nothing undermines confidence in the tax system more than the 
+impression that the average honest taxpayer has to pay his or her taxes 
+while more wealthy or unscrupulous taxpayers are allowed to get away 
+with not paying.'' He is absolutely right. It's grossly unfair to ask 
+our Main Street businesses to operate at a competitive disadvantage to 
+large multinational businesses simply because our tax authorities are 
+unable to grapple with the growing offshore tax avoidance problem. It 
+is also outrageous that tens of millions of working families who pay 
+their taxes on time every year are shouldering the tax burden of large 
+profitable U.S. multinational companies that use tax haven 
+subsidiaries.
+  In conclusion, it is my hope that the White House and Congress in a 
+new spirit of bipartisanship will help in our effort to get this needed 
+tax law change enacted into law. I urge my colleagues to support this 
+effort by cosponsoring this legislation.
+                                 ______
+                                 
+      By Mr. DORGAN (for himself, Mr. McCain, Mr. Inouye, Mr. Thomas, 
+        and Mr. Domenici):
+  S. 398. Abill to amend the Indian Child Protection and Family 
+Violence Prevention Act to identify and remove barriers to reducing 
+child abuse, to provide for examinations of certain children, and for 
+other purposes; to the Committee on Indian Affairs.
+  Mr. DORGAN. Mr. President, today I am pleased to introduce with 
+Senator McCain and other senators the Indian Child Protection and 
+Family, Violence Prevention Act Amendments of 2007. The bill we 
+introduce today is virtually identical to legislation which the Senate 
+adopted last year to amend and reauthorize the Indian Child Protection 
+and Family Violence Prevention Act of 1990. The primary goals of that 
+Act were to reduce the incidence of child abuse, and mandate the 
+reporting and tracking of child abuse in Indian Country.
+  The Indian Child Protection and Family Violence Prevention Act 
+Amendments would authorize a study to identify impediments to the 
+reduction of child abuse in Indian Country, as well as require data 
+collection and annual reporting to Congress concerning child abuse in 
+Indian Country; provide additional safeguards for the privacy of 
+information about a child by local law enforcement and child protective 
+services; provide for more involvement by the FBI and the Attorney 
+General in documenting incidents of child abuse on Indian reservations; 
+and authorize the Indian Health Service to use telemedicine in 
+connection with examinations of abused Indian children. The bill would 
+also authorize background investigations for employees and volunteers 
+who work with Indian children, amend the Major Crimes Act to 
+criminalize acts of child abuse and neglect in Indian Country, and 
+authorize several treatment programs for Indian children who have been 
+victimized.
+  I particularly appreciate that this reauthorization legislation 
+addresses a related issue about which I have deep concern--the epidemic 
+of youth suicide in many reservation communities. Indian Country has 
+higher rates of youth suicide, as well as of child abuse, than other 
+American population groups. Often, children who attempt suicide have 
+been abused by a family or community member. This bill would authorize 
+professionals trained in behavioral health, including suicide 
+prevention and treatment, to be included on the staff of regional 
+Indian Child Resource and Family Services Centers authorized under the 
+Act.
+  I am hopeful that the Senate will act quickly this session to 
+authorize the additional protections for Native American children that 
+would be provided by the Indian Child Protection and Family Violence 
+Prevention Act Amendments of 2007. I ask unanimous consent that the 
+text of the bill be printed in the Record.
+  There being no objection, the text of the bill was ordered to be 
+printed in the Record, as follows:
+
+[[Page 2396]]
+
+
+
+                                 S. 398
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Indian Child Protection and 
+     Family Violence Prevention Act Amendments of 2007''.
+
+     SEC. 2. FINDINGS AND PURPOSE.
+
+       Section 402 of the Indian Child Protection and Family 
+     Violence Prevention Act (25 U.S.C. 3201) is amended--
+       (1) in subsection (a)--
+       (A) in paragraph (1)--
+       (i) by redesignating subparagraphs (E) and (F) as 
+     subparagraphs (F) and (G), respectively; and
+       (ii) by inserting after subparagraph (D) the following:
+       ``(E) the Federal Government and certain State governments 
+     are responsible for investigating and prosecuting certain 
+     felony crimes, including child abuse, in Indian country, 
+     pursuant to chapter 53 of title 18, United States Code;''; 
+     and
+       (B) in paragraph (2)--
+       (i) in the matter preceding subparagraph (A), by striking 
+     ``two'' and inserting ``the'';
+       (ii) in subparagraph (A), by striking ``and'' at the end;
+       (iii) in subparagraph (B), by striking the period at the 
+     end and inserting ``; and''; and
+       (iv) by adding at the end the following:
+       ``(C) identify and remove any impediment to the immediate 
+     investigation of incidents of child abuse in Indian 
+     country.''; and
+       (2) in subsection (b)--
+       (A) by striking paragraph (3) and inserting the following:
+       ``(3) provide for a background investigation for any 
+     employee or volunteer who has access to children;''; and
+       (B) in paragraph (6), by striking ``Area Office'' and 
+     inserting ``Regional Office''.
+
+     SEC. 3. DEFINITIONS.
+
+       Section 403 of the Indian Child Protection and Family 
+     Violence Prevention Act (25 U.S.C. 3202) is amended--
+       (1) by redesignating paragraphs (6) through (18) as 
+     paragraphs (7) through (19), respectively;
+       (2) by inserting after paragraph (5) the following:
+       ``(6) `final conviction' means the final judgment on a 
+     verdict or finding of guilty, a plea of guilty, or a plea of 
+     nolo contendere, but does not include a final judgment that 
+     has been expunged by pardon, reversed, set aside, or 
+     otherwise rendered void;'';
+       (3) in paragraph (13) (as redesignated by paragraph (1)), 
+     by striking ``that agency'' and all that follows through 
+     ``Indian tribe'' and inserting ``the Federal, State, or 
+     tribal agency'';
+       (4) in paragraph (14) (as redesignated by paragraph (1)), 
+     by inserting ``(including a tribal law enforcement agency 
+     operating pursuant to a grant, contract, or compact under the 
+     Indian Self-Determination and Education Assistance Act (25 
+     U.S.C. 450 et seq.))'' after ``State law enforcement 
+     agency'';
+       (5) in paragraph (18) (as redesignated by paragraph (1)), 
+     by striking ``and'' at the end;
+       (6) in paragraph (19) (as redesignated by paragraph (1)), 
+     by striking the period at the end and inserting ``; and''; 
+     and
+       (7) by adding at the end the following:
+       ``(20) `telemedicine' means a telecommunications link to an 
+     end user through the use of eligible equipment that 
+     electronically links health professionals or patients and 
+     health professionals at separate sites in order to exchange 
+     health care information in audio, video, graphic, or other 
+     format for the purpose of providing improved health care 
+     diagnosis and treatment.''.
+
+     SEC. 4. REPORTING PROCEDURES.
+
+       Section 404 of the Indian Child Protection and Family 
+     Violence Prevention Act (25 U.S.C. 3203) is amended--
+       (1) in subsection (c)--
+       (A) in paragraph (1), by striking ``(1) Within'' and 
+     inserting the following:
+       ``(1) In general.--Not later than''; and
+       (B) in paragraph (2)--
+       (i) by striking ``(2)(A) Any'' and inserting the following:
+       ``(2) Investigation of reports.--
+       ``(A) In general.--Any'';
+       (ii) in subparagraph (B)--
+
+       (I) by striking ``(B) Upon'' and inserting the following:
+
+       ``(B) Final written report.--On''; and
+
+       (II) by inserting ``including any Federal, State, or tribal 
+     final conviction, and provide to the Federal Bureau of 
+     Investigation a copy of the report'' before the period at the 
+     end; and
+
+       (iii) by adding at the end the following:
+       ``(C) Maintenance of final reports.--The Federal Bureau of 
+     Investigation shall maintain a record of each written report 
+     submitted under this subsection or subsection (b) in a manner 
+     in which the report is accessible to--
+       ``(i) a local law enforcement agency that requires the 
+     information to carry out an official duty; and
+       ``(ii) any agency requesting the information under section 
+     408.
+       ``(D) Report to congress.--Not later than 1 year after the 
+     date of enactment of this subsection, and annually 
+     thereafter, the Director of the Federal Bureau of 
+     Investigation, in coordination with the Secretary and the 
+     Attorney General, shall submit to the Committees on Indian 
+     Affairs and the Judiciary of the Senate and the Committees on 
+     Natural Resources and the Judiciary of the House of 
+     Representatives a report on child abuse in Indian country 
+     during the preceding year.
+       ``(E) Collection of data.--Not less frequently than once 
+     each year, the Secretary, in consultation with the Secretary 
+     of Health and Human Services, the Attorney General, the 
+     Director of the Federal Bureau of Investigation, and any 
+     Indian tribe, shall--
+       ``(i) collect any information concerning child abuse in 
+     Indian country (including reports under subsection (b)), 
+     including information relating to, during the preceding 
+     calendar year--
+
+       ``(I) the number of criminal and civil child abuse 
+     allegations and investigations in Indian country;
+       ``(II) the number of child abuse prosecutions referred, 
+     declined, or deferred in Indian country;
+       ``(III) the number of child victims who are the subject of 
+     reports of child abuse in Indian country;
+       ``(IV) sentencing patterns of individuals convicted of 
+     child abuse in Indian country; and
+       ``(V) rates of recidivism with respect to child abuse in 
+     Indian country; and
+
+       ``(ii) to the maximum extent practicable, reduce the 
+     duplication of information collection under clause (i).''; 
+     and
+       (2) by adding at the end the following:
+       ``(e) Confidentiality of Children.--No local law 
+     enforcement agency or local child protective services agency 
+     shall disclose the name of, or information concerning, the 
+     child to anyone other than--
+       ``(1) a person who, by reason of the participation of the 
+     person in the treatment of the child or the investigation or 
+     adjudication of the allegation, needs to know the information 
+     in the performance of the duties of the individual; or
+       ``(2) an officer of any other Federal, State, or tribal 
+     agency that requires the information to carry out the duties 
+     of the officer under section 406.
+       ``(f) Report.--Not later than 1 year after the date of 
+     enactment of this subsection, and annually thereafter, the 
+     Secretary shall submit to the Committees on Indian Affairs 
+     and the Judiciary of the Senate and the Committees on Natural 
+     Resources and the Judiciary of the House of Representatives a 
+     report on child abuse in Indian country during the preceding 
+     year.
+       ``(g) Authorization of Appropriations.--There are 
+     authorized to be appropriated such sums as are necessary to 
+     carry out this section for each of fiscal years 2008 through 
+     2012.''.
+
+     SEC. 5. REMOVAL OF IMPEDIMENTS TO REDUCING CHILD ABUSE.
+
+       Section 405 of the Indian Child Protection and Family 
+     Violence Prevention Act (25 U.S.C. 3204) is amended to read 
+     as follows:
+
+     ``SEC. 405. REMOVAL OF IMPEDIMENTS TO REDUCING CHILD ABUSE.
+
+       ``(a) Study.--The Secretary, in consultation with the 
+     Attorney General and the Service, shall conduct a study under 
+     which the Secretary shall identify any impediment to the 
+     reduction of child abuse in Indian country and on Indian 
+     reservations.
+       ``(b) Inclusions.--The study under subsection (a) shall 
+     include a description of--
+       ``(1) any impediment, or recent progress made with respect 
+     to removing impediments, to reporting child abuse in Indian 
+     country;
+       ``(2) any impediment, or recent progress made with respect 
+     to removing impediments, to Federal, State, and tribal 
+     investigations and prosecutions of allegations of child abuse 
+     in Indian country; and
+       ``(3) any impediment, or recent progress made with respect 
+     to removing impediments, to the treatment of child abuse in 
+     Indian country.
+       ``(c) Report.--Not later than 18 months after the date of 
+     enactment of the Indian Child Protection and Family Violence 
+     Prevention Act Amendments of 2007, the Secretary shall submit 
+     to the Committees on Indian Affairs and the Judiciary of the 
+     Senate, and the Committees on Natural Resources and the 
+     Judiciary of the House of Representatives, a report 
+     describing--
+       ``(1) the findings of the study under this section; and
+       ``(2) recommendations for legislative actions, if any, to 
+     reduce instances of child abuse in Indian country.''.
+
+     SEC. 6. CONFIDENTIALITY.
+
+       Section 406 of the Indian Child Protection and Family 
+     Violence Prevention Act (25 U.S.C. 3205) is amended to read 
+     as follows:
+
+     ``SEC. 406. CONFIDENTIALITY.
+
+       ``(a) In General.--Notwithstanding any other provision of 
+     law, any Federal, State, or tribal government agency that 
+     treats or investigates incidents of child abuse may provide 
+     information and records to an officer of any other Federal, 
+     State, or tribal government agency that requires the 
+     information to carry out the duties of the officer, in 
+     accordance with section 552a of title 5, United States Code, 
+     section 361 of the Public Health Service Act (42 U.S.C. 264), 
+     the Family Educational Rights and Privacy Act of 1974 (20 
+     U.S.C. 1232g), part C of title XI of the Social Security Act 
+     (42 U.S.C. 1320d et seq.), and other applicable Federal law.
+
+[[Page 2397]]
+
+       ``(b) Treatment of Indian Tribes.--For purposes of this 
+     section, an Indian tribal government shall be considered to 
+     be an entity of the Federal Government.''.
+
+     SEC. 7. WAIVER OF PARENTAL CONSENT.
+
+       Section 407 of the Indian Child Protection and Family 
+     Violence Prevention Act (25 U.S.C. 3206) is amended--
+       (1) in subsection (a), by inserting ``and forensic'' after 
+     ``psychological''; and
+       (2) by striking subsection (c) and inserting the following:
+       ``(c) Protection of Child.--Any examination or interview of 
+     a child who may have been the subject of child abuse shall--
+       ``(1) be conducted under such circumstances and using such 
+     safeguards as are necessary to minimize additional trauma to 
+     the child;
+       ``(2) avoid, to the maximum extent practicable, subjecting 
+     the child to multiple interviewers during the examination and 
+     interview processes; and
+       ``(3) as time permits, be conducted using advice from, or 
+     under the guidance of--
+       ``(A) a local multidisciplinary team established under 
+     section 411; or
+       ``(B) if a local multidisciplinary team is not established 
+     under section 411, a multidisciplinary team established under 
+     section 410.''.
+
+     SEC. 8. CHARACTER INVESTIGATIONS.
+
+       Section 408 of the Indian Child Protection and Family 
+     Violence Prevention Act (25 U.S.C. 3207) is amended--
+       (1) in subsection (a)--
+       (A) in paragraph (1)--
+       (i) by inserting ``, including any voluntary positions,'' 
+     after ``authorized positions''; and
+       (ii) by striking the comma at the end and inserting a 
+     semicolon; and
+       (B) in paragraph (2)--
+       (i) by inserting ``(including in a volunteer capacity)'' 
+     after ``considered for employment''; and
+       (ii) by striking ``, and'' and inserting ``; and'';
+       (2) in subsection (b), by striking ``guilty to'' and all 
+     that follows and inserting the following: ``guilty to, any 
+     felony offense under Federal, State, or tribal law, or 2 or 
+     more misdemeanor offenses under Federal, State, or tribal 
+     law, involving--
+       ``(1) a crime of violence;
+       ``(2) sexual assault;
+       ``(3) child abuse;
+       ``(4) molestation;
+       ``(5) child sexual exploitation;
+       ``(6) sexual contact;
+       ``(7) child neglect;
+       ``(8) prostitution; or
+       ``(9) another offense against a child.''; and
+       (3) by adding at the end the following:
+       ``(d) Effect on Child Placement.--An Indian tribe that 
+     submits a written statement to the applicable State official 
+     documenting that the Indian tribe has conducted a background 
+     investigation under this section for the placement of an 
+     Indian child in a tribally-licensed or tribally-approved 
+     foster care or adoptive home, or for another out-of-home 
+     placement, shall be considered to have satisfied the 
+     background investigation requirements of any Federal or State 
+     law requiring such an investigation.''.
+
+     SEC. 9. INDIAN CHILD ABUSE TREATMENT GRANT PROGRAM.
+
+       Section 409 of the Indian Child Protection and Family 
+     Violence Prevention Act (25 U.S.C. 3208) is amended by 
+     striking subsection (e) and inserting the following:
+       ``(e) Authorization of Appropriations.--There are 
+     authorized to be appropriated such sums as are necessary to 
+     carry out this section for each of fiscal years 2008 through 
+     2012.''.
+
+     SEC. 10. INDIAN CHILD RESOURCE AND FAMILY SERVICES CENTERS.
+
+       Section 410 of the Indian Child Protection and Family 
+     Violence Prevention Act (25 U.S.C. 3209) is amended--
+       (1) in subsection (a), by striking ``area office'' and 
+     inserting ``Regional Office'';
+       (2) in subsection (b), by striking ``The Secretary'' and 
+     all that follows through ``Human Services'' and inserting 
+     ``The Secretary, the Secretary of Health and Human Services, 
+     and the Attorney General'';
+       (3) in subsection (d)--
+       (A) in paragraph (4), by inserting ``, State,'' after 
+     ``Federal''; and
+       (B) in paragraph (5), by striking ``agency office'' and 
+     inserting ``Regional Office'';
+       (4) in subsection (e)--
+       (A) in paragraph (2), by striking the comma at the end and 
+     inserting a semicolon;
+       (B) by striking paragraph (3) and inserting the following:
+       ``(3) adolescent mental and behavioral health (including 
+     suicide prevention and treatment);'';
+       (C) in paragraph (4), by striking the period at the end and 
+     inserting ``and sexual assault;''; and
+       (D) by adding at the end the following:
+       ``(5) criminal prosecution; and
+       ``(6) medicine.'';
+       (5) in subsection (f)--
+       (A) in the first sentence, by striking ``The Secretary'' 
+     and all that follows through ``Human Services'' and inserting 
+     the following:
+       ``(1) Establishment.--The Secretary, in consultation with 
+     the Service and the Attorney General'';
+       (B) in the second sentence--
+       (i) by striking ``Each'' and inserting the following
+       ``(2) Membership.--Each''; and
+       (ii) by striking ``shall consist of 7 members'' and 
+     inserting ``shall be'';
+       (C) in the third sentence, by striking ``Members'' and 
+     inserting the following:
+       ``(3) Compensation.--Members''; and
+       (D) in the fourth sentence, by striking ``The advisory'' 
+     and inserting the following:
+       ``(4) Duties.--Each advisory'';
+       (6) in subsection (g)--
+       (A) by striking ``(g)'' and all that follows through 
+     ``Indian Child Resource'' and inserting the following:
+       ``(g) Application of Indian Self-Determination and 
+     Education Assistance Act to Centers.--
+       ``(1) In general.--Indian Child Resource'';
+       (B) in the first sentence, by striking ``Act'' and 
+     inserting ``and Education Assistance Act (25 U.S.C. 450 et 
+     seq.)'';
+       (C) by striking the second sentence and inserting the 
+     following:
+       ``(2) Certain regional offices.--
+       ``(A) In general.--Except as provided in subparagraph (B), 
+     if a Center is located in a Regional Office of the Bureau 
+     that serves more than 1 Indian tribe, an application to enter 
+     into a grant, contract, or compact under the Indian Self-
+     Determination and Education Assistance Act (25 U.S.C. 450 et 
+     seq.) to operate the Center shall contain a consent form 
+     signed by an official of each Indian tribe to be served under 
+     the grant, contract, or compact.
+       ``(B) Alaska region.--Notwithstanding subparagraph (A), for 
+     Centers located in the Alaska Region, an application to enter 
+     into a grant, contract, or compact described in that 
+     subparagraph shall contain a consent form signed by an 
+     official of each Indian tribe or tribal consortium that is a 
+     member of a grant, contract, or compact relating to an Indian 
+     child protection and family violence prevention program under 
+     the Indian Self-Determination and Education Assistance Act 
+     (25 U.S.C. 450 et seq.).''; and
+       (D) in the third sentence, by striking ``This section'' and 
+     inserting the following:
+       ``(3) Effect of section.--This section''; and
+       (7) by striking subsection (h) and inserting the following:
+       ``(h) Authorization of Appropriations.--There are 
+     authorized to be appropriated such sums as are necessary to 
+     carry out this section for each of fiscal years 2008 through 
+     2012.''.
+
+     SEC. 11. USE OF TELEMEDICINE.
+
+       The Indian Child Protection and Family Violence Prevention 
+     Act (25 U.S.C. 3201 et seq.) is amended by adding at the end 
+     the following:
+
+     ``SEC. 412. USE OF TELEMEDICINE.
+
+       ``(a) Definition of Medical or Behavioral Health 
+     Professional.--In this section, the term `medical or 
+     behavioral health professional' means an employee or 
+     volunteer of an organization that provides a service as part 
+     of a comprehensive service program that combines--
+       ``(1) substance abuse (including abuse of alcohol, drugs, 
+     inhalants, and tobacco) prevention and treatment; and
+       ``(2) mental health treatment.
+       ``(b) Contracts and Agreements.--The Service is authorized 
+     to enter into any contract or agreement for the use of 
+     telemedicine with a public or private university or facility, 
+     including a medical university or facility, or any private 
+     medical or behavioral health professional, with experience 
+     relating to pediatrics, including the diagnosis and treatment 
+     of child abuse, to assist the Service with respect to--
+       ``(1) the diagnosis and treatment of child abuse; or
+       ``(2) methods of training Service personnel in diagnosing 
+     and treating child abuse.
+       ``(c) Administration.--In carrying out subsection (b), the 
+     Service shall, to the maximum extent practicable--
+       ``(1) use existing telemedicine infrastructure; and
+       ``(2) give priority to Service units and medical facilities 
+     operated pursuant to grants, contracts, or compacts under the 
+     Indian Self-Determination and Education Assistance Act (25 
+     U.S.C. 450 et seq.) that are located in, or providing service 
+     to, remote areas of Indian country.
+       ``(d) Information and Consultation.--On receipt of a 
+     request, for purposes of this section, the Service may 
+     provide to public and private universities and facilities, 
+     including medical universities and facilities, and medical or 
+     behavioral health professionals described in subsection (b) 
+     any information or consultation on the treatment of Indian 
+     children who have, or may have, been subject to abuse or 
+     neglect.
+       ``(e) Authorization of Appropriations.--There are 
+     authorized to be appropriated such sums as are necessary to 
+     carry out this section for each of fiscal years 2008 through 
+     2012.''.
+
+     SEC. 12. CONFORMING AMENDMENTS.
+
+       (a) Offenses Committed Within Indian Country.--Section 
+     1153(a) of title 18, United States Code, is amended by 
+     inserting ``felony child abuse, felony child neglect,'' after 
+     ``robbery,''.
+       (b) Reporting of Child Abuse.--Section 1169 of title 18, 
+     United States Code, is amended--
+
+[[Page 2398]]
+
+       (1) in subsection (a)(1)--
+       (A) in subparagraph (B), by inserting ``or volunteering 
+     for'' after ``employed by'';
+       (B) in subparagraph (D)--
+       (i) by inserting ``or volunteer'' after ``child day care 
+     worker''; and
+       (ii) by striking ``worker in a group home'' and inserting 
+     ``worker or volunteer in a group home'';
+       (C) in subparagraph (E), by striking ``or psychological 
+     assistant,'' and inserting ``psychological or psychiatric 
+     assistant, or person employed in the mental or behavioral 
+     health profession;'';
+       (D) in subparagraph (F), by striking ``child'' and 
+     inserting ``individual'';
+       (E) by striking subparagraph (G), and inserting the 
+     following:
+       ``(G) foster parent; or''; and
+       (F) in subparagraph (H), by striking ``law enforcement 
+     officer, probation officer'' and inserting ``law enforcement 
+     personnel, probation officer, criminal prosecutor''; and
+       (2) in subsection (c), by striking paragraphs (3) and (4) 
+     and inserting the following:
+       ``(3) `local child protective services agency' has the 
+     meaning given the term in section 403 of the Indian Child 
+     Protection and Family Violence Prevention Act (25 U.S.C. 
+     3202); and
+       ``(4) `local law enforcement agency' has the meaning given 
+     the term in section 403 of that Act.''.
+                                 ______
+                                 
+      By Mr. BUNNING (for himself and Ms. Mikulski):
+  S. 399. A bill to amend title XIX of the Social Security Act to 
+include podiatrists as physicians for purposes of covering physicians 
+services under the Medicaid program; to the Committee on Finance.
+  Mr. BUNNING. Mr. President, I rise today to reintroduce an important 
+bill that will ensure that Medicaid beneficiaries in all states have 
+access to the services of top-quality podiatric physicians. Senator 
+Mikulski from Maryland is joining me in the effort again this year, and 
+I appreciate her dedication to this issue.
+  Having healthy feet and ankles are critical to keeping individuals 
+mobile, productive and in good long-term health. This is particularly 
+true for individuals with diabetes.
+  According to the Centers for Disease Control and Prevention, CDC, 
+almost 21 million Americans have diabetes, which amounts to about 7 
+percent of the total population. Diabetes is the sixth leading cause of 
+death in this country. In 2005, 1.5 million Americans were diagnosed 
+with diabetes.
+  If not managed properly, diabetes can cause several severe health 
+problems, including eye disease or blindness, kidney disease and heart 
+disease. Too often, diabetes can lead to foot complications, including 
+foot ulcers and even amputations. In fact, the CDC estimates that 
+82,000 people undergo an amputation of a leg, foot or toe each year 
+because of complications with diabetes.
+  Proper care of the feet could prevent many of these amputations.
+  The bill we are introducing today recognizes the important role 
+podiatrists can play identifying and correcting foot problems among 
+diabetics. The bill amends Medicaid's definition of ``physicians'' to 
+include podiatric physicians. This will ensure that Medicaid 
+beneficiaries have access to foot care from those most qualified to 
+provide it.
+  Under Medicaid, podiatry is considered an optional benefit. However, 
+just because it is optional, doesn't mean that podiatric services are 
+not needed, or that beneficiaries will not seek out other providers to 
+perform these services. Instead, Medicaid beneficiaries will have to 
+receive foot care from other providers who may not be as well trained 
+as a podiatrist in treating lower extremities.
+  Also, it is important to note that podiatrists are considered 
+physicians under the Medicare program, which allows seniors and 
+disabled individuals to receive appropriate care.
+  I urge my colleagues to give careful consideration to this important 
+bill. It will help many Medicaid beneficiaries across the country have 
+access to podiatrists that they need.
+  Finally, I thank the Senator from Maryland for helping me reintroduce 
+this legislation today. I hope that by working together we can see this 
+important change made.
+  Ms. MIKULSKI. Mr. President, I rise to join Senator Bunning to 
+introduce this important bill to make sure that Medicaid patients have 
+access to care provided by podiatrists.
+  This bill ensures that Medicaid patients across the country can get 
+services provided by podiatrists. This is a simple, common sense bill. 
+This legislation includes podiatric physicians in Medicaid's definition 
+of physician. This means that the services of podiatrists will be 
+covered by Medicaid, just like they are in Medicare. Podiatrists are 
+considered physicians under Medicare. They should be under Medicaid. 
+Medicaid covers necessary foot and ankle care services. Medicaid should 
+allow podiatrists who are trained specifically in foot and ankle care 
+to provide these services and be reimbursed for them.
+  The services of podiatrists are considered optional under Medicaid. 
+Currently, most State Medicaid programs, including Maryland, recognize 
+and reimburse podiatrists for providing foot and ankle care to their 
+beneficiaries. However, during times of tight budget States may choose 
+to cut back on these optional services. There are now 7 States where 
+access to a podiatrist is limited or nearly impossible for someone who 
+receives Medicaid. Even though podiatrist services are considered 
+optional, Medicaid patients need foot and ankle care. If podiatrists do 
+not provide the care, patients will see providers who may not be as 
+well trained in the care of the lower extremities as podiatrists. I 
+want to make sure the over 750,000 Medicaid patients in Maryland 
+continue to have access to the services provided by over 400 
+podiatrists in Maryland.
+  Podiatrists receive special training on the foot, ankle, and lower 
+leg. They play an important role in the recognition of systemic 
+diseases like diabetes, and in the recognition and treatment of 
+peripheral neuropathy, a frequent cause of diabetic foot wounds that 
+can often lead to preventable lower extremity amputations. Nearly 21 
+million Americans are now living with diabetes, a 14 percent increase 
+from the 18 million in 2003. Another 41 million have pre-diabetes, the 
+condition that indicates an increased risk for developing both type 2 
+diabetes and cardiovascular disease. Both the CDC and the American 
+Diabetes Association recommend that podiatric physicians be part of the 
+care term for people with diabetes.
+  Ensuring Medicaid patient access to podiatrists will save Medicaid 
+funds in the long term. According to the American Podiatric Medical 
+Association, 75 percent of Americans will experience some type of foot 
+health problem during their lives. Foot disease is the most common 
+complication of diabetes leading to hospitalization. About 82,000 
+people have diabetes-related leg, foot, or toe amputations each year. 
+Foot care programs with regular examinations and patient education 
+could prevent up to 85 percent of these amputations. This alone could 
+have saved $1.3 billion in savings for Medicare and $386 million in 
+savings for Medicaid. Podiatrists are important providers of this care.
+  This bill will make sure that Medicaid patients across the country 
+have access to care provided by podiatrists. It has the support of the 
+American Podiatric Medical Association and gained broad bi-partisan 
+support in both the House and Senate last Congress. 29 Senators co-
+sponsored S. 440, including nearly half the members of the Finance 
+Committee. The House companion bill, HR 699 had 210 co-cosponsors, 
+including 68 percent of the committee with primary jurisdiction, Energy 
+and Commerce. I urge my colleagues to cosponsor this important 
+legislation.
+                                 ______
+                                 
+      By Mr. SUNUNU (for himself, Mr. Gregg, and Mrs. Clinton):
+  S. 400. A bill to amend the Employee Retirement Income Security Act 
+of 1974 and the Internal Revenue Code of 1986 to ensure that dependent 
+students who take a medically necessary leave of absence do not lose 
+health insurance coverage, and for other purposes; to the Committee on 
+Health, Education, Labor, and Pensions.
+  Mr. SUNUNU. Mr. President, I rise today on behalf of Senator Gregg 
+and Senator Clinton to introduce Michelle's Law. This bill mirrors the 
+law the State of New Hampshire passed in June 2006. Michelle Morse was 
+a 20-
+
+[[Page 2399]]
+
+year-old resident of Manchester, NH, and a full-time student at 
+Plymouth State University when diagnosed with colon cancer in December 
+2003. Michelle's doctors wanted her to take a medical leave of absence 
+to undergo surgery and chemotherapy, but if she dropped out of school 
+she would no longer be covered as a dependent under her mother's plan 
+because she would no longer be enrolled as a full-time student. The 
+family had the option to obtain COBRA coverage but the Morses estimated 
+the increase in monthly premiums would have been too costly. Michelle's 
+family decided she would remain in school full time, maintain coverage, 
+and maintain her lifestyle as much as she could. So along with her 
+homework and books, Michelle would attend class carrying a portable 
+chemotherapy pump attached to her hip. She refused to let cancer and 
+the aggressive chemotherapy treatment slow her down during the next 2 
+years, even while student teaching at Bakersville Elementary School in 
+Manchester, and graduated from Plymouth State in May 2005. However, 
+Michelle bravely lost her battle with cancer in November 2005.
+  Michelle's predicament prompted her mother AnnMarie to take this 
+woeful Catch-22 they experienced to the New Hampshire State 
+Legislature. New Hampshire responded by passing Michelle's Law in June 
+2006, allowing full-time students covered under State-regulated health 
+plans a 1-year medical leave of absence while maintaining their 
+dependency status. The bill we introduce today affords the same medical 
+leave of absence to full-time students covered under health plans 
+governed by the Employee Retirement Income Security Act of 1974--ERISA. 
+Michelle's Law would allow full-time students and their families to 
+focus solely on treating an illness as opposed to concurrently being a 
+full-time patient and full-time student. While this bill creates an 
+additional mandate for ERISA plans, this provision would apply to less 
+than 1 percent of all college-aged students. Yet without this modest 
+change, the costs and hardships may be enormous. Also, this bill does 
+not trespass on any state's right to govern and regulate its own health 
+insurance business.
+  I thank AnnMarie Morse for her tireless efforts in making sure 
+another student does not get caught between a medical leave of absence 
+rock and a hard place of insurance regulations. I also thank Senators 
+Gregg and Clinton for joining me today and I hope my colleagues in the 
+Senate join us with their support and pass Michelle's Law.
+
+                          ____________________
+
+
+
+                         SUBMITTED RESOLUTIONS
+
+                                 ______
+                                 
+
+SENATE RESOLUTION 40--AUTHORIZING EXPENDITURES BY THE SENATE COMMITTEE 
+                           ON INDIAN AFFAIRS
+
+  Mr. DORGAN submitted the following resolution; from the Committee on 
+Indian Affairs; which was referred to the Committee on Rules and 
+Administration:
+
+                               S. Res. 40
+
+       Resolved, That, in carrying out its powers, duties and 
+     functions under the Standing Rules of the Senate, in 
+     accordance with its jurisdiction under rule XXV of such 
+     rules, including holding hearings, and making investigations 
+     as authorized by paragraphs 1 and 8 of rule XXVI of the 
+     Standing Rules of the Senate, the Committee on Indian Affairs 
+     is authorized from March 1, 2007, through September 30, 2007; 
+     October 1, 2007, through September 30, 2008; and October 1, 
+     2008, through February 28, 2009, in its discretion (1) to 
+     make expenditures from the contingent fund of the Senate, (2) 
+     to employ personnel, and (3) with the prior consent of the 
+     Government department or agency concerned and the Committee 
+     on Rules and Administration, to use on a reimbursable or non-
+     reimbursable basis the services of personnel of any such 
+     department or agency.
+       Sec. 2. (a) The expenses of the committee for the period 
+     March 1, 2007, through September 30, 2007, under this 
+     resolution shall not exceed $ 1,183,262.00, of which amount 
+     (1) not to exceed $20,000 may be expended for the procurement 
+     of the services of individual consultants, or organizations 
+     thereof (as authorized by section 202(i) of the Legislative 
+     Reorganization Act of 1946, as amended), and (2) not to 
+     exceed $20,000 may be expended for the training of 
+     professional staff of such committee (under procedures 
+     specified by section 202(j) of the Legislative Reorganization 
+     Act of 1946).
+       (b) For the period October 1, 2007, through September 30, 
+     2008, expenses of the committee under this resolution shall 
+     not exceed $ 2,071,712.00, of which amount (1) not to exceed 
+     $20,000 may be expended for the procurement of the services 
+     of individual consultants, or organizations thereof (as 
+     authorized by section 202(i) of the Legislative 
+     Reorganization Act of 1946, as amended), and (2) not to 
+     exceed $20,000 may be expended for the training of 
+     professional staff of such committee (under procedures 
+     specified by section 202(j) of the Legislative Reorganization 
+     Act of 1946).
+       (c) For the period October 1, 2008, through February 28, 
+     2009, expenses of the committee under this resolution shall 
+     not exceed $879,131.00, of which amount (1) not to exceed 
+     $20,000 may be expended for the procurement of the services 
+     of individual consultants, or organizations thereof (as 
+     authorized by section 202(i) of the Legislative 
+     Reorganization Act of 1946, as amended), and (2) not to 
+     exceed $20,000 may be expended for the training of 
+     professional staff of such committee (under procedures 
+     specified by section 202(j) of the Legislative Reorganization 
+     Act of 1946).
+       Sec. 3. The committee shall report its findings, together 
+     with such recommendations for legislation as it deems 
+     advisable, to the Senate at the earliest practicable date, 
+     but not later than February 28, 2009.
+       Sec. 4. Expenses of the committee under this resolution 
+     shall be paid from the contingent fund of the Senate upon 
+     vouchers approved by the Chairman of the committee, except 
+     that vouchers shall not be required (1) for the disbursement 
+     of the salaries of employees paid at an annual rate, or (2) 
+     for the payment of telecommunications provided by the Office 
+     of the Sergeant at Arms and Doorkeeper, United States Senate, 
+     or (3) for the payment of stationery supplies purchased 
+     through the Keeper of the Stationery, United States Senate, 
+     or (4) for payments to the Postmaster, United States Senate, 
+     or (5) for the payment of metered charges on copying 
+     equipment provided by the Office of the Sergeant at Arms and 
+     Doorkeeper, United States Senate, or (6) for the payment of 
+     Senate Recording and Photographic Services, or (7) for 
+     payment of franked and mass mail costs by the Sergeant at 
+     Arms and Doorkeeper, United States Senate.
+       Sec. 5. There are authorized such sums as may be necessary 
+     for agency contributions related to the compensation of 
+     employees of the committee from March 1, 2007, through 
+     September 30, 2007; October 1, 2007, through September 30, 
+     2008; and October 1, 2008, through February 28, 2009, to be 
+     paid from the Appropriations account for ``Expenses of 
+     Inquiries and Investigations''.
+
+                          ____________________
+
+
+
+      SENATE RESOLUTION 41--HONORING THE LIFE AND RECOGNIZING THE 
+  ACCOMPLISHMENTS OF TOM MOONEY, PRESIDENT OF THE OHIO FEDERATION OF 
+                                TEACHERS
+
+  Mr. BROWN submitted the following resolution; which was referred to 
+the Committee on the Judiciary:
+
+                               S. Res. 41
+
+       Whereas Tom Mooney graduated from Antioch College in Yellow 
+     Springs, Ohio, before becoming a high school government 
+     teacher in Cincinnati in 1974;
+       Whereas Mr. Mooney became a passionate advocate for 
+     teachers and public education;
+       Whereas Mr. Mooney served as the president of the 
+     Cincinnati Federation of Teachers, as the vice president of 
+     the American Federation of Teachers, and on the American 
+     Federation of Teachers's executive council;
+       Whereas during his 21 years as president of the Cincinnati 
+     Federation of Teachers, Mr. Mooney worked to establish a 
+     teacher evaluation system;
+       Whereas, in 2000, Mr. Mooney was elected to lead the Ohio 
+     Federation of Teachers;
+       Whereas Mr. Mooney led the Ohio Federation of Teachers, 
+     which represents more than 20,000 members, including public 
+     education employees, higher education faculty and support 
+     staff, and other public employees, for 6 years;
+       Whereas during his tenure as president of the Ohio 
+     Federation of Teachers, Mr. Mooney endeavored to strengthen 
+     the teaching profession and to improve the working 
+     environment for all school employees, while also encouraging 
+     parental involvement to ensure a high-quality public 
+     education for all children;
+       Whereas Mr. Mooney was a tireless advocate for Ohio's 
+     public education system and opposed efforts to privatize 
+     educational services for limited numbers of children because 
+     these attempts at privatization came at the expense of the 
+     vast majority of students who attend public schools in the 
+     State;
+       Whereas, on December 3, 2006, Ohio and the Nation felt a 
+     great loss with the sudden death of Mr. Mooney; and
+
+[[Page 2400]]
+
+       Whereas Mr. Mooney will be remembered as a fearless union 
+     leader and for his true dedication to improving the quality 
+     of public education: Now, therefore, be it
+       Resolved, That the Senate honors the life and recognizes 
+     the achievements of Tom Mooney, who exemplified dedication 
+     to, and true advocacy for, children and public education, 
+     while also gaining a deserved reputation as an articulate and 
+     forceful labor union activist.
+
+  Mr. BROWN. Mr. President, I am honored to recognize the life and 
+accomplishments of Tom Mooney, the former president of the Ohio 
+Federation of Teachers. Tom graduated from Antioch College in Yellow 
+Springs, OH, then devoted himself to ensuring a quality education for 
+the children of Ohio.
+  In his distinguished tenure as an educator and administrator, Tom 
+served in a number of capacities. He started in 1974 as a high school 
+government teacher. Later Tom would serve as president of the 
+Cincinnati Federation of Teachers, as vice president of the American 
+Federation of Teachers and finally as the president of the Ohio 
+Federation of Teachers, a post he held for six years until his passing.
+  Tom Mooney was a passionate advocate for teachers and public 
+education. He worked tirelessly. He encouraged parental involvement in 
+the education of their children and vehemently opposed efforts to 
+privatize educational services, as he believed it would be detrimental 
+to the vast majority of Ohio's public school students.
+  Tom exemplified dedication to--and true advocacy for--children and 
+public education. I am honored to offer this resolution and pay tribute 
+to a great Ohioan and a great American.
+
+                          ____________________
+
+
+
+SENATE RESOLUTION 42--AUTHORIZING EXPENDITURES BY THE COMMITTEE ON THE 
+                               JUDICIARY
+
+  Mr. LEAHY submitted the following resolution; from the Committee on 
+the Judiciary; which was referred to the Committee on Rules and 
+Administration:
+
+                               S. Res. 42
+
+       Resolved, That, in carrying out its powers, duties, and 
+     functions under the Standing Rules of the Senate, in 
+     accordance with its jurisdiction under rule XXV of such 
+     rules, including holding hearings, reporting such hearings, 
+     and making investigations as authorized by paragraphs 1 and 8 
+     of rule XXVI of the Standing Rules of the Senate, the 
+     Committee on the Judiciary is authorized from March 1, 2007, 
+     through September 30, 2007; October 1, 2007, through 
+     September 30, 2008; and October 1, 2008, through February 28, 
+     2009, in its discretion (1) to make expenditures from the 
+     contingent fund of the Senate, (2) to employ personnel, and 
+     (3) with the prior consent of the Government department or 
+     agency concerned and the Committee on Rules and 
+     Administration, to use on a reimbursable or non-reimbursable 
+     basis the services of personnel of any such department or 
+     agency.
+       Sec. 2. (a) The expenses of the committee for the period of 
+     March 1, 2007, through September 30, 2007, under this 
+     resolution shall not exceed $5,220,177, of which amount (1) 
+     not to exceed $200,000 may be expended for the procurement of 
+     the services of individual consultants, or organizations 
+     thereof (as authorized by section 202(i) of the Legislative 
+     Reorganization Act of 1946, as amended), and (2) not to 
+     exceed $20,000 may be expended for the training of the 
+     professional staff of such committee (Under procedures 
+     specified by section 202(j) of the Legislative Reorganization 
+     Act of 1946).
+       (b) for the period October 1, 2007, through September 30, 
+     2008, expenses of the committee under this resolution shall 
+     not exceed $9,150,340, of which amount (1) not to exceed 
+     $200,000 may be expended for the procurement of the services 
+     of individual consultants, or organizations thereof (as 
+     authorized by section 202(i) of the Legislative 
+     Reorganization Act of 1946, as amended), and (2) not to 
+     exceed $20,000 may be expended for the training of the 
+     professional staff of such committee (under procedures 
+     specified by section 2020) of the Legislative Reorganization 
+     Act of 1946).
+       (c) For the period October 1, 2008, through February 28, 
+     2009, expenses of the committee under this resolution shall 
+     not exceed $3,886,766, of which amount (1) not to exceed 
+     $200,000 may be expended for the procurement of the services 
+     of individual consultants, or organizations thereof (as 
+     authorized by section 202(i) of the Legislative 
+     Reorganization Act of 1946, as amended), and (2) not to 
+     exceed $20,000 may be expended for the training of the 
+     professional staff of such committee (under procedures 
+     specified by section 202(j) of the Legislative Reorganization 
+     Act of 1946).
+       Sec. 3. The Committee shall report its findings, together 
+     with such recommendations for legislation as it deems 
+     advisable, to the Senate at the earliest practicable date, 
+     but not later than February 28, 2007, respectively.
+       Sec. 4. Expenses of the committee under this resolution 
+     shall be paid from the contingent fund of the Senate upon 
+     vouchers approved by the chairman of the committee except 
+     that vouchers shall not be required (1) for the disbursement 
+     of salaries of employees paid at an annual rate, or (2) for 
+     the payment of telecommunications provided by the Office of 
+     the Sergeant at Arms and Doorkeeper, United States Senate, or 
+     (3) for the payment of stationery supplies purchased through 
+     the Keeper of the Stationery, United States Senate, or (4) 
+     for payments to the Postmaster, United States Senate, or (5) 
+     for the payment of metered charges on copying equipment 
+     provided by the Office of the Sergeant at Arms and 
+     Doorkeeper, United States Senate, or (6) for the payment of 
+     Senate Recording and Photographic Services, or (7) for 
+     payment of franked and mass mail costs by the Sergeant at 
+     Arms and Doorkeeper, United States Senate.
+       Sec. 5. There are authorized such sums as may be necessary 
+     for agency contributions related to the compensation of 
+     employees of the committee from March 1, 2007, through 
+     September 30, 2007, October 1, 2007 through September 30, 
+     2008; and October 1, 2008 through February 28, 2009, to be 
+     paid from the Appropriations account for ``Expenses of 
+     Inquiries and Investigations.''
+
+                          ____________________
+
+
+
+SENATE RESOLUTION 43--HONORING THE IMPORTANT CONTRIBUTION TO THE NATION 
+  OF THE ACADEMY OF MUSIC IN PHILADELPHIA, PENNSYLVANIA, ON ITS 150TH 
+                              ANNIVERSARY
+
+  Mr. SPECTER (for himself and Mr. Casey) submitted the following 
+resolution; which was considered and agreed to:
+
+                               S. Res. 43
+
+       Whereas the Academy of Music opened in 1857 in 
+     Philadelphia, Pennsylvania and quickly became the most 
+     prestigious opera house in the United States;
+       Whereas the Academy of Music is the oldest grand opera 
+     house in the United States that is still used for its 
+     original purpose;
+       Whereas, in 1963, the Academy of Music was designated a 
+     National Historic Landmark;
+       Whereas, over the years, the Academy of Music served not 
+     only as a venue for the performing arts community, but has 
+     also hosted many graduation ceremonies, along with several 
+     Presidential conventions and other important public events;
+       Whereas the Academy of Music served as the Philadelphia 
+     Orchestra's main concert hall for more than a century, and 
+     the Orchestra purchased the Academy in 1957 and performs each 
+     year for the Academy's anniversary;
+       Whereas the Academy of Music has had a host of legendary 
+     artists grace its stage, from the disciplines of classical to 
+     popular music, dance, and drama, including Maria Callas, Joan 
+     Sutherland, Marian Anderson, Frank Sinatra, George Gershwin, 
+     Duke Ellington, Anna Pavlova, Ruth St. Denis, Ted Shawn, and 
+     Margot Fonteyn;
+       Whereas the Academy of Music has also hosted several 
+     sporting events, was turned into an indoor skating rink in 
+     1866, had a wooden floor installed over the parquet level in 
+     1889 to create space for an indoor football game between the 
+     University of Pennsylvania and the Riverton Club of 
+     Princeton, and had a wooden floor installed again in 1892 for 
+     the University of Pennsylvania for a track meet; and
+       Whereas the Academy of Music has also been a part of other 
+     historical and cultural events, such as a demonstration of 
+     the telephone by Alexander Graham Bell in 1877, the first 
+     ever concert in stereophonic sound in 1933 performed by 
+     Leopold Stokowski and the Philadelphia Orchestra, the filming 
+     of ``One Hundred Gentlemen and a Girl'' in 1937, and the 
+     recording of the soundtrack of the Disney classic 
+     ``Fantasia'' by the Philadelphia Orchestra in 1939: Now, 
+     therefore, be it
+       Resolved, That the Senate--
+       (1) congratulates the Academy of Music in Philadelphia, 
+     Pennsylvania, on its 150th anniversary;
+       (2) honors the important contributions of the Academy of 
+     Music to the Nation; and
+       (3) directs the Secretary of the Senate to transmit a copy 
+     of this resolution to the Academy of Music.
+
+[[Page 2401]]
+
+
+
+                          ____________________
+
+
+
+  SENATE RESOLUTION 44--COMMENDING THE UNIVERSITY OF NEBRASKA-LINCOLN 
+ WOMEN'S VOLLEYBALL TEAM FOR WINNING THE NATIONAL COLLEGIATE ATHLETIC 
+         ASSOCIATION DIVISION I WOMEN'S VOLLEYBALL CHAMPIONSHIP
+
+  Mr. HAGEL (for himself and Mr. Nelson of Nebraska) submitted the 
+following resolution; which was referred to the Committee on the 
+Judiciary:
+
+                               S. Res. 44
+
+       Whereas the University of Nebraska-Lincoln women's 
+     volleyball team (referred to in this preamble as the 
+     ``Huskers'') won the 2006 National Collegiate Athletic 
+     Association (NCAA) Division I Women's Volleyball National 
+     Championship at the Qwest Center in Omaha, Nebraska, on 
+     December 16, 2006;
+       Whereas Husker junior Sarah Pavan was chosen as the 
+     Nation's top collegiate female volleyball player, winning the 
+     2006-07 Honda Sports Award for volleyball;
+       Whereas Sarah Pavan was named the ESPN Magazine Academic 
+     All-American of the Year, becoming the University of 
+     Nebraska's 234th Academic All-American and the university's 
+     29th Academic All-American in volleyball;
+       Whereas the University of Nebraska leads the Nation in the 
+     number of players named Academic All-Americans;
+       Whereas the Huskers completed the 2006 season with a record 
+     of 33-1;
+       Whereas Husker head coach John Cook has led the team to 3 
+     national championships;
+       Whereas the Huskers made their sixth appearance in the NCAA 
+     finals;
+       Whereas the 2006 Huskers are only the third team in the 
+     history of the NCAA to lead the American Volleyball Coaches 
+     Association poll for an entire season;
+       Whereas the entire Husker volleyball team should be 
+     commended for its determination, work ethic, attitude, and 
+     heart;
+       Whereas the University of Nebraska is building an 
+     impressive legacy of excellence in its volleyball program; 
+     and
+       Whereas the University of Nebraska volleyball players have 
+     brought great honor to themselves, their families, their 
+     university, and the State of Nebraska: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) commends the University of Nebraska-Lincoln women's 
+     volleyball team for winning the 2006 National Collegiate 
+     Athletic Association Division I Women's Volleyball National 
+     Championship; and
+       (2) recognizes the achievements of the players, coaches, 
+     students, and staff whose hard work and dedication made 
+     winning the Championship possible.
+
+                          ____________________
+
+
+
+                   AMENDMENTS SUBMITTED AND PROPOSED
+
+       SA 200. Mr. SANDERS submitted an amendment intended to be 
+     proposed to amendment SA 100 proposed by Mr. Reid (for Mr. 
+     Baucus) to the bill H.R. 2, to amend the Fair Labor Standards 
+     Act of 1938 to provide for an increase in the Federal minimum 
+     wage; which was ordered to lie on the table.
+       SA 201. Mr. SANDERS submitted an amendment intended to be 
+     proposed to amendment SA 100 proposed by Mr. Reid (for Mr. 
+     Baucus) to the bill H.R. 2, supra.
+       SA 202. Ms. COLLINS (for herself and Mr. Warner) submitted 
+     an amendment intended to be proposed by her to the bill H.R. 
+     2, supra; which was ordered to lie on the table.
+       SA 203. Mr. GREGG (for himself, Mr. Enzi, Mr. Sununu, Mr. 
+     Isakson, and Mr. Alexander) submitted an amendment intended 
+     to be proposed to amendment SA 100 proposed by Mr. Reid (for 
+     Mr. Baucus) to the bill H.R. 2, supra.
+       SA 204. Ms. COLLINS (for herself and Mr. Warner) submitted 
+     an amendment intended to be proposed to amendment SA 113 
+     proposed by Mr. Smith to the amendment SA 100 proposed by Mr. 
+     Reid (for Mr. Baucus) to the bill H.R. 2, supra.
+       SA 205. Mr. KYL proposed an amendment to amendment SA 100 
+     proposed by Mr. Reid (for Mr. Baucus) to the bill H.R. 2, 
+     supra.
+       SA 206. Mr. BAUCUS submitted an amendment intended to be 
+     proposed to amendment SA 100 proposed by Mr. Reid (for Mr. 
+     Baucus) to the bill H.R. 2, supra.
+       SA 207. Mr. BAUCUS proposed an amendment to amendment SA 
+     100 proposed by Mr. Reid (for Mr. Baucus) to the bill H.R. 2, 
+     supra.
+       SA 208. Mr. NELSON, of Nebraska submitted an amendment 
+     intended to be proposed to amendment SA 100 proposed by Mr. 
+     Reid (for Mr. Baucus) to the bill H.R. 2, supra; which was 
+     ordered to lie on the table.
+
+                          ____________________
+
+
+
+                           TEXT OF AMENDMENTS
+
+  SA 200. Mr. SANDERS submitted an amendment intended to be proposed to 
+amendment SA 100 proposed by Mr. Reid (for Mr. Baucus) to the bill H.R. 
+2, to amend the Fair Labor Standards Act of 1938 to provide for an 
+increase in the Federal minimum wage; which was ordered to lie on the 
+table; as follows:
+
+       At the appropriate place insert the following:
+
+     SEC. __. SENSE OF THE SENATE CONCERNING EXPANDING THE MIDDLE 
+                   CLASS.
+
+       (a) Findings.--The Senate finds that--
+       (1) the United States has the most unequal distribution of 
+     wealth and income of any major country in the industrialized 
+     world;
+       (2) over the next 4 calendar years, the cost of the 2001 
+     and 2003 Federal tax cuts for the top 1 percent of households 
+     will total nearly $350,000,000,000;
+       (3) if the Federal tax cuts enacted in 2001 and 2003 are 
+     made permanent, households with annual incomes of more than 
+     $1,000,000 comprising the top 3/10ths of 1 percent of the 
+     population would receive approximately $648,000,000,000 in 
+     tax cuts over the next decade;
+       (4) the wealthiest 400 Americans saw their combined net 
+     worth increase by $120,000,000,000 from 2004 to 2005 and do 
+     not need a tax break;
+       (5) households with incomes exceeding $1,000,000 received 
+     an average tax break of $118,000 in 2006, households in the 
+     middle-fifth of the income spectrum received tax cuts 
+     averaging $740, and the bottom fifth of households received 
+     tax cuts averaging $20;
+       (6) the increased costs of a college education, child care, 
+     health care, and housing are creating enormous burdens on the 
+     middle class and working families; and
+       (7) no veteran in this country should be forced onto a 
+     waiting list to receive health care from the Department of 
+     Veterans Affairs.
+       (b) Sense of the Senate.--It is the sense of the Senate 
+     that--
+       (1) Congress and the President should work together to 
+     roll-back all of the Federal tax breaks enacted since 2001 
+     that go to households with annual incomes exceeding 
+     $1,000,000; and
+       (2) Congress and the President should work together to use 
+     the revenue gained from this action to increase investments 
+     for the needs of our veterans, affordable housing, health 
+     care, Pell Grants, child care, and Head Start.
+                                 ______
+                                 
+  SA 201. Mr. SANDERS submitted an amendment intended to be proposed to 
+amendment SA 100 proposed by Mr. Reid (for Mr. Baucus) to the bill H.R. 
+2, to amend the Fair Labor Standards Act of 1938 to provide for an 
+increase in the Federal minimum wage; as follows:
+
+       At the appropriate place insert the following:
+
+     SEC. __. SENSE OF THE SENATE CONCERNING POVERTY.
+
+       (a) Findings.--The Senate finds that--
+       (1) the United States has the highest rate of poverty and 
+     the highest rate of childhood poverty among 17 major 
+     countries in the Organization for Economic Cooperation and 
+     Development including Germany, France, Italy, the United 
+     Kingdom, Canada, Australia, Austria, Belgium, Denmark, 
+     Finland, Ireland, the Netherlands, Norway, Spain, Sweden, and 
+     Switzerland;
+       (2) 36,950,000 Americans are living in poverty, an increase 
+     of 5,400,000 since 2000;
+       (3) 12,896,000 children in the United States under the age 
+     of 18 lived in poverty in 2005, and the number of children 
+     living in extreme poverty rose by 87,000 from 2004 through 
+     2005;
+       (4) in 2005, an estimated 33 percent of the homeless 
+     population were children and an estimated 1,350,000 children 
+     will experience homelessness in a year;
+       (5) the number of uninsured Americans rose to 46,577,000 in 
+     2005, 1,272,000 more than in the previous year, and the 
+     number of Americans without health insurance has risen for 4 
+     consecutive years;
+       (6) the Department of Agriculture has found that, in 2005, 
+     35,100,000 people lived in households experiencing food 
+     insecurity, meaning that they did not have adequate access to 
+     enough food to meet basic dietary needs to all times due to a 
+     lack of financial resources;
+       (7) households with children experience food insecurity at 
+     more than double the rate for households without children;
+       (8) The United States has the largest gap between the rich 
+     and the poor of any major industrialized country;
+       (9) the wealthiest 400 Americans saw their combined net 
+     worth increase by $120,000,000,000 from 2004 to 2005;
+       (10) the richest 400 Americans have a combined net worth of 
+     $1,250,000,000,000 equaling the annual income of over 45 
+     percent of the entire world's population or 2,500,000,000 
+     people;
+       (11) of the world's 793 billionaires, over 400 are 
+     Americans;
+       (12) in 1989, we only had 66 billionaires in this country; 
+     and
+       (13) on January 20, 2001, President Bush stated `In the 
+     quiet of American conscience, we know that deep, persistent 
+     poverty is unworthy of our nation``s promise. Where there is 
+     suffering, there is duty. Americans in need are not 
+     strangers, they are citizens, not problems, but priorities. 
+     And all of us are diminished when any are hopeless. And I can 
+     pledge our nation to a goal: When we see that wounded 
+     traveler on the road to Jericho, we will not pass to the 
+     other side.''.
+       (b) Sense of the Senate.--It is the sense of the Senate 
+     that--
+
+[[Page 2402]]
+
+       (1) the United States has a moral obligation to improve the 
+     lives of the 36,950,000 Americans living in poverty and the 
+     15,928,000 of those who live in extreme poverty;
+       (2) the United States has a moral obligation to reduce the 
+     enormous gap between the rich and the poor; and
+       (3) the President should immediately present to Congress a 
+     comprehensive plan to eradicate child poverty and reduce the 
+     gap between the rich and the poor by 2017.
+                                 ______
+                                 
+  SA 202. Ms. COLLINS (for herself and Mr. Warner) submitted an 
+amendment intended to be proposed by her to the bill H.R. 2, to amend 
+the Fair Labor Standards Act of 1938 to provide for an increase in the 
+Federal minimum wage; which was ordered to lie on the table; as 
+follows:
+
+       At the appropriate place insert the following:
+
+     SEC. ___. PERMANENT EXTENSION OF ABOVE-THE-LINE DEDUCTION FOR 
+                   CERTAIN EXPENSES OF ELEMENTARY AND SECONDARY 
+                   SCHOOL TEACHERS.
+
+       Subparagraph (D) of section 62(a)(2) of the Internal 
+     Revenue Code of 1986 is amended by striking ``In the case of 
+     taxable years beginning during 2002, 2003, 2004, 2005, 2006, 
+     or 2007, the deductions'' and inserting ``The deductions''.
+                                 ______
+                                 
+  SA 203. Mr. GREGG (for himself, Mr. Enzi, Mr. Sununu, Mr. Isakson, 
+and Mr. Alexander) submitted an amendment intended to be proposed to 
+amendment SA 100 proposed by Mr. Reid (for Mr. Baucus) to the bill H.R. 
+2, to amend the Fair Labor Standards Act of 1938 to provide for an 
+increase in the Federal minimum wage; as follows:
+
+       At the appropriate place, insert the following:
+
+     SEC. __. EMPLOYEE OPTION TIME.
+
+       (a) Biweekly Work Programs.--
+       (1) In general.--The Fair Labor Standards Act of 1938 is 
+     amended by inserting after section 13 (29 U.S.C. 213) the 
+     following:
+
+     ``SEC. 13A. BIWEEKLY WORK PROGRAMS.
+
+       ``(a) Voluntary Participation.--
+       ``(1) Option of employee.--Except as provided in paragraph 
+     (2), no employee may be required to participate in a program 
+     described in this section. Participation in a program 
+     described in this section may not be a condition of 
+     employment.
+       ``(2) Collective bargaining agreement.--In a case in which 
+     a valid collective bargaining agreement exists between an 
+     employer and the labor organization that has been certified 
+     or recognized as the representative of the employees of the 
+     employer under applicable law, an employee may only be 
+     required to participate in such a program in accordance with 
+     the agreement.
+       ``(b) Biweekly Work Programs.--
+       ``(1) In general.--Notwithstanding section 7, an employer 
+     may establish biweekly work programs that--
+       ``(A) allow the use of a biweekly work schedule--
+       ``(i) that consists of a basic work requirement of not more 
+     than 80 hours, over a 2-week period; and
+       ``(ii) in which more than 40 hours of the work requirement 
+     may occur in a week of the period, except that no more than 
+     10 hours may be shifted between the 2 weeks involved; and
+       ``(B) provides that an employee participating in the 
+     program is compensated for overtime hours in accordance with 
+     paragraph (4).
+       ``(2) Conditions.--An employer may carry out a biweekly 
+     work program described in paragraph (1) for employees only 
+     pursuant to the following:
+       ``(A) Agreement.--The program may be carried out only in 
+     accordance with--
+       ``(i) applicable provisions of a collective bargaining 
+     agreement between the employer and the labor organization 
+     that has been certified or recognized as the representative 
+     of the employees under applicable law; or
+       ``(ii) in the case of an employee who is not represented by 
+     a labor organization described in clause (i), a written 
+     agreement arrived at between the employer and employee before 
+     the performance of the work involved if the agreement was 
+     entered into knowingly and voluntarily by such employee and 
+     was not a condition of employment.
+       ``(B) Statement of voluntary participation.--The program 
+     shall apply to an employee described in subparagraph (A)(ii) 
+     if such employee has affirmed, in a written statement that is 
+     made, kept, and preserved in accordance with section 11(c), 
+     that the employee has voluntarily chosen to participate in 
+     the program.
+       ``(C) Minimum service.--No employee may participate, or 
+     agree to participate, in the program unless the employee has 
+     been employed for at least 12 months by the employer, and for 
+     at least 1,250 hours of service with the employer during the 
+     previous 12-month period.
+       ``(3) Compensation for hours in schedule.--Notwithstanding 
+     section 7, in the case of an employee participating in such a 
+     biweekly work program, the employee shall be compensated for 
+     each hour in such a biweekly work schedule at a rate not less 
+     than the regular rate at which the employee is employed.
+       ``(4) Overtime compensation provision.--An employee 
+     participating in such a biweekly work program shall be 
+     compensated for each overtime hour at a rate not less than 
+     one and one-half times the regular rate at which the employee 
+     is employed, in accordance with section 7(a)(1).
+       ``(5) Discontinuance of program or withdrawal.--
+       ``(A) Discontinuance of program.--An employer that has 
+     established a biweekly work program under paragraph (1) may 
+     discontinue the program for employees described in paragraph 
+     (2)(A)(ii) after providing 30 days' written notice to the 
+     employees who are subject to an agreement described in 
+     paragraph (2)(A)(ii).
+       ``(B) Withdrawal.--An employee may withdraw an agreement 
+     described in paragraph (2)(A)(ii) at the end of any 2-week 
+     period described in paragraph (1)(A)(i), by submitting a 
+     written notice of withdrawal to the employer of the employee.
+       ``(c) Prohibition of Coercion.--
+       ``(1) In general.--An employer shall not directly or 
+     indirectly intimidate, threaten, or coerce, or attempt to 
+     intimidate, threaten, or coerce, any employee for the purpose 
+     of interfering with the rights of the employee under this 
+     section to elect or not to elect to work a biweekly work 
+     schedule.
+       ``(2) Definition.--In paragraph (1), the term `intimidate, 
+     threaten, or coerce' includes promising to confer or 
+     conferring any benefit (such as appointment, promotion, or 
+     compensation) or effecting or threatening to effect any 
+     reprisal (such as deprivation of appointment, promotion, or 
+     compensation).
+       ``(d) Definitions.--In this section:
+       ``(1) Basic work requirement.--The term `basic work 
+     requirement' means the number of hours, excluding overtime 
+     hours, that an employee is required to work or is required to 
+     account for by leave or otherwise.
+       ``(2) Collective bargaining.--The term `collective 
+     bargaining' means the performance of the mutual obligation of 
+     the representative of an employer and the labor organization 
+     that has been certified or recognized as the representative 
+     of the employees of the employer under applicable law to meet 
+     at reasonable times and to consult and bargain in a good-
+     faith effort to reach agreement with respect to the 
+     conditions of employment affecting such employees and to 
+     execute, if requested by either party, a written document 
+     incorporating any collective bargaining agreement reached, 
+     but the obligation referred to in this paragraph shall not 
+     compel either party to agree to a proposal or to make a 
+     concession.
+       ``(3) Collective bargaining agreement.--The term 
+     `collective bargaining agreement' means an agreement entered 
+     into as a result of collective bargaining.
+       ``(4) Employee.--The term `employee' means an individual--
+       ``(A) who is an employee (as defined in section 3);
+       ``(B) who is not an employee of a public agency; and
+       ``(C) to whom section 7(a) applies.
+       ``(5) Employer.--The term `employer' does not include a 
+     public agency.
+       ``(6) Overtime hours.--The term `overtime hours' when used 
+     with respect to biweekly work programs under subsection (b), 
+     means all hours worked in excess of the biweekly work 
+     schedule involved, in excess of the allotted 50 hours a week, 
+     or in excess of the allotted 80 hours in the 2-week period 
+     involved, that are requested in advance by an employer.
+       ``(7) Regular rate.--The term `regular rate' has the 
+     meaning given the term in section 7(e).''.
+       (2) Remedies.--
+       (A) Prohibitions.--Section 15(a)(3) of the Fair Labor 
+     Standards Act of 1938 (29 U.S.C. 215(a)(3)) is amended--
+       (i) by inserting ``(A)'' after ``(3)'';
+       (ii) by adding ``or'' after the semicolon; and
+       (iii) by adding at the end the following:
+       ``(B) to violate any of the provisions of section 13A;''.
+       (B) Remedies and sanctions.--Section 16 of the Fair Labor 
+     Standards Act of 1938 (29 U.S.C. 216) is amended--
+       (i) in subsection (c)--
+
+       (I) in the first sentence--
+
+       (aa) by inserting after ``7 of this Act'' the following: 
+     ``, or of the appropriate legal or monetary equitable relief 
+     owing to any employee or employees under section 13A''; and
+       (bb) by striking ``wages or unpaid overtime compensation 
+     and'' and inserting ``wages, unpaid overtime compensation, or 
+     legal or monetary equitable relief, as appropriate, and'';
+
+       (II) in the second sentence, by striking ``wages or 
+     overtime compensation and'' and inserting ``wages, unpaid 
+     overtime compensation, or legal or monetary equitable relief, 
+     as appropriate, and''; and
+       (III) in the third sentence--
+
+       (aa) by inserting after ``first sentence of such 
+     subsection'' the following: ``, or the second sentence of 
+     such subsection in the event of a violation of section 
+     13A,''; and
+       (bb) by striking ``wages or unpaid overtime compensation 
+     under sections 6 and 7 or'' and inserting ``wages, unpaid 
+     overtime compensation, or legal or monetary equitable relief, 
+     as appropriate, or''; and
+       (ii) in subsection (e)--
+
+[[Page 2403]]
+
+       (I) in the second sentence, by striking ``section 6 or 7'' 
+     and inserting ``section 6, 7, or 13A''; and
+       (II) in the fourth sentence, in paragraph (3), by striking 
+     ``15(a)(4) or'' and inserting ``15(a)(4), a violation of 
+     section 15(a)(3)(B), or''.
+
+       (3) Notice to employees.--Not later than 30 days after the 
+     date of enactment of this section, the Secretary of Labor 
+     shall revise the materials the Secretary provides, under 
+     regulations contained in section 516.4 of title 29, Code of 
+     Federal Regulations, to employers for purposes of a notice 
+     explaining the Fair Labor Standards Act of 1938 (29 U.S.C. 
+     201 et seq.) to employees so that the notice reflects the 
+     amendments made to the Act by this section.
+       (b) Congressional Coverage.--Section 203 of the 
+     Congressional Accountability Act of 1995 (2 U.S.C. 1313) is 
+     amended--
+       (1) in subsection (a)--
+       (A) in paragraph (1), by striking ``and section 12(c)'' and 
+     inserting ``section 12(c), and section 13A''; and
+       (B) by striking paragraph (3);
+       (2) in subsection (b)--
+       (A) by striking ``The remedy'' and inserting the following:
+       ``(1) In general.--Except as provided in paragraph (2), the 
+     remedy''; and
+       (B) by adding at the end the following:
+       ``(2) Biweekly work programs and flexible credit hours 
+     programs.--The remedy for a violation of subsection (a) 
+     relating to the requirements of section 13A of the Fair Labor 
+     Standards Act of 1938 shall be such remedy as would be 
+     appropriate if awarded under sections 16 and 17 of such Act 
+     (29 U.S.C. 216, 217) for such a violation.''; and
+       (3) in subsection (c), by striking paragraph (4).
+       (c) Termination.--The authority provided by this section 
+     and the amendments made by this section terminates 5 years 
+     after the date of enactment of this section.
+                                 ______
+                                 
+  SA 204. Ms. COLLINS (for herself and Mr. Warner) submitted an 
+amendment intended to be proposed to amendment SA 113 proposed by Mr. 
+Smith to the amendment SA 100 proposed by Mr. Reid (for Mr. Baucus) to 
+the bill H.R. 2, to amend the Fair Labor Standards Act of 1938 to 
+provide for an increase in the Federal minimum wage; as follows:
+
+       On page 2 of the amendment, strike lines 1 through 7, and 
+     insert the following:
+       (b) Expansion of Above-the-Line Deduction for Certain 
+     Expenses of Elementary and Secondary School Teachers.--
+       (1) In general.--Subparagraph (D) of section 62(a)(2) 
+     (relating to certain trade and business deductions of 
+     employees) is amended to read as follows:
+       ``(D) Certain expenses of elementary and secondary school 
+     teachers.--The deductions allowed by section 162 which 
+     consist of expenses, not in excess of $400, paid or incurred 
+     by an eligible educator--
+       ``(i) by reason of the participation of the educator in 
+     professional development courses related to the curriculum 
+     and academic subjects in which the educator provides 
+     instruction or to the students for which the educator 
+     provides instruction, and
+       ``(ii) in connection with books, supplies (other than 
+     nonathletic supplies for courses of instruction in health or 
+     physical education), computer equipment (including related 
+     software and services) and other equipment, and supplementary 
+     materials used by the eligible educator in the classroom.''.
+       (2) Effective date.--The amendment made by this subsection 
+     shall apply to taxable years beginning after December 31, 
+     2006.
+                                 ______
+                                 
+  SA 205. Mr. KYL proposed an amendment to amendment SA 100 proposed by 
+Mr. Reid (for Mr. Baucus) to the bill H.R. 2, to amend the Fair Labor 
+Standards Act of 1938 to provide for an increase in the Federal minimum 
+wage; as follows:
+
+       On page 4, line 21, strike ``April 1, 2008'' and insert 
+     ``January 1, 2009''.
+       On page 6, lines 5 and 6, strike ``April 1, 2008'' and 
+     insert ``January 1, 2009''.
+       On page 99, after line 19, add the following:
+
+     SEC. ___. TERMINATION OF EXCLUSION FOR QUALIFIED TUITION 
+                   REDUCTION.
+
+       (a) In General.--Section 117(d) is amended by redesignating 
+     the last paragraph as paragraph (4) and by adding after 
+     paragraph (4) the following new paragraph:
+       ``(5) Termination.--This subsection shall not apply to 
+     taxable years beginning after December 31, 2006.''.
+       (b) Effective Date.--The amendments made by this section 
+     shall apply to taxable years beginning after December 31, 
+     2006.
+                                 ______
+                                 
+  SA 206. Mr. BAUCUS submitted an amendment intended to be proposed to 
+amendment SA 100 proposed by Mr. Reid (for Mr. Baucus) to the bill H.R. 
+2, to amend the Fair Labor Standards Act of 1938 to provide for an 
+increase in the Federal minimum wage; as follows:
+
+       At the appropriate place insert the following:
+
+     SEC. __. SENSE OF THE SENATE REGARDING PERMANENT TAX 
+                   INCENTIVES TO MAKE EDUCATION MORE AFFORDABLE 
+                   AND MORE ACCESSIBLE FOR AMERICAN FAMILIES.
+
+       It is the sense of the Senate that Congress should make 
+     permanent the tax incentives to make education more 
+     affordable and more accessible for American families and 
+     eliminate wasteful spending, such as spending on unnecessary 
+     tax loopholes, in order to fully offset the cost of such 
+     incentives and avoid forcing taxpayers to pay substantially 
+     more interest to foreign creditors.
+                                 ______
+                                 
+  SA 207. Mr. BAUCUS proposed an amendment to amendment SA 100 proposed 
+by Mr. Reid (for Mr. Baucus) to the bill H.R. 2, to amend the Fair 
+Labor Standards Act of 1938 to provide for an increase in the Federal 
+minimum wage; as follows:
+
+       At the appropriate place insert the following:
+
+     SEC. __. SENSE OF THE SENATE REGARDING REPEAL OF 1993 INCOME 
+                   TAX INCREASE ON SOCIAL SECURITY BENEFITS.
+
+       It is the sense of the Senate that Congress should repeal 
+     the 1993 tax increase on Social Security benefits and 
+     eliminate wasteful spending, such as spending on unnecessary 
+     tax loopholes, in order to fully offset the cost of such 
+     repeal and avoid forcing taxpayers to pay substantially more 
+     interest to foreign creditors.
+
+                                 ______
+                                 
+  SA 208. Mr. NELSON of Nebraska submitted an amendment intended to be 
+proposed to amendment SA 100 proposed by Mr. Reid (for Mr. Baucus) to 
+the bill H.R. 2, to amend the Fair Labor Standards Act of 1938 to 
+provide for an increase in the Federal minimum wage; which was ordered 
+to lie on the table; as follows:
+
+       At the appropriate place insert the following:
+
+     SEC. ___. DISABILITY PREFERENCE PROGRAM FOR TAX COLLECTION 
+                   CONTRACTS.
+
+       (a) In General.--Section 6306 (relating to qualified tax 
+     collection contracts) is amended--
+       (1) by striking ``Nothing'' in subsection (a) and inserting 
+     ``Except as provided in subsection (c), nothing'',
+       (2) by redesignating subsections (c), (d), (e), and (f) as 
+     subsections (d), (e), (f), and (g), respectively, and
+       (3) by inserting after subsection (b) the following new 
+     subsection:
+       ``(c) Disability Preference Program for Tax Collection 
+     Contracts.--
+       ``(1) In general.--The Secretary shall provide a qualifying 
+     disability preference to any program under which any 
+     qualified tax collection contract is awarded on or after the 
+     effective date of this subsection and shall ensure compliance 
+     with the requirements of paragraph (3).
+       ``(2) Qualifying disability preference.--
+       ``(A) In general.--For purposes of this subsection, the 
+     term `qualifying disability preference' means a preference 
+     pursuant to which at least 10 percent (in both number and 
+     aggregate dollar amount) of the accounts covered by qualified 
+     tax collection contracts are awarded to persons satisfying 
+     the following criteria:
+       ``(i) Such person employs within the United States at least 
+     50 severely disabled individuals.
+       ``(ii) Such person shall agree as an enforceable condition 
+     of its bid for a qualified tax collection contract that 
+     within 90 days after the date such contract is awarded, not 
+     less than 35 percent of the employees of such person employed 
+     in connection with providing services under such contract 
+     shall--
+
+       ``(I) be hired after the date such contract is awarded, and
+       ``(II) be severely disabled individuals.
+
+       ``(B) Determination of satisfaction of criteria.--Within 60 
+     days after the end of the period specified in subparagraph 
+     (A)(ii), the Secretary shall determine whether such person 
+     has met the 35 percent requirement specified in such 
+     subparagraph, and if such requirement has not been met, shall 
+     terminate the contract for nonperformance. For purposes of 
+     determining whether such 35 percent requirement has been 
+     satisfied, severely disabled individuals providing services 
+     under such contract shall not include any severely disabled 
+     individuals who were counted toward satisfaction of the 50-
+     employee requirement specified in subparagraph (A)(i), unless 
+     such person replaced such individuals by hiring additional 
+     severely disabled individuals who do not perform services 
+     under such contract.
+       ``(3) Program-wide employment of severely disabled 
+     individuals.--Not less than 15 percent of all individuals 
+     hired by all persons to whom tax collection contracts are 
+     issued by the Secretary under this section, to perform work 
+     under such tax collection contracts, shall qualify as 
+     severely disabled individuals.
+       ``(4) Severely disabled individual.--For purposes of this 
+     subsection, the term `severely disabled individual' means any 
+     one of the following:
+       ``(A) Any veteran of the United States Armed Forces with--
+
+[[Page 2404]]
+
+       ``(i) a disability determined by the Secretary of Veterans 
+     Affairs to be service-connected, or
+       ``(ii) a disability deemed by statute to be service-
+     connected.
+       ``(B) Any individual who is a disabled beneficiary (as 
+     defined in section 1148(k)(2) of the Social Security Act (42 
+     U.S.C. 1320b-19(k)(2)) or who would be considered to be such 
+     a disabled beneficiary but for having income or assets in 
+     excess of the income or asset eligibility limits established 
+     under title II or XVI of the Social Security Act, 
+     respectively.''.
+       (b) Report by Government Accountability Office.--
+       (1) In general.--The Comptroller General of the United 
+     States shall conduct a study of the effectiveness and 
+     efficiency of the use of private contractors for Internal 
+     Revenue Service debt collection. The study required by this 
+     paragraph shall be completed in time to be taken into account 
+     by Congress before any new contracting is carried out under 
+     section 6306 of the Internal Revenue Code of 1986 in years 
+     following 2008.
+       (2) Study of comparable efforts.--As part of the study 
+     required under paragraph (1), the Comptroller General shall--
+       (A) make every effort to determine the relative 
+     effectiveness and efficiency of debt collection contracting 
+     by Federal staff compared to private contractors, using a 
+     cost calculation for both Federal staff and private 
+     contractors which includes all benefits and overhead costs,
+       (B) compare the cost effectiveness of the contracting 
+     approach of the Department of the Treasury to that of the 
+     Department of Education's Office of Student Financial 
+     Assistance, and
+       (C) survey State tax debt collection experiences for 
+     lessons that may be applicable to the Internal Revenue 
+     Service collection efforts.
+       (c) Effective Date.--The amendments made by this section 
+     shall apply to any tax collection contract awarded on or 
+     after the date of the enactment of ths Act.
+
+                          ____________________
+
+
+
+                      NOTICES OF HEARINGS/MEETINGS
+
+
+               Committee on Energy and Natural Resources
+
+  Mr. BINGAMAN. Mr. President, I would like to announce for the 
+information of the Senate and the public that an oversight hearing has 
+been scheduled before the Committee on Energy and Natural Resources.
+  The hearing will be held on Thursday, February 1, 2007, at 9:30 a.m. 
+in room SD-G50 of the Dirksen Senate Office Building.
+  The purpose of this hearing is to examine accelerated biofuels 
+diversity, focusing on how home-grown, biologically derived fuels can 
+blend into the Nation's transportation fuel mix.
+  Because of the limited time available for the hearing, witnesses may 
+testify by invitation only. However, those wishing to submit written 
+testimony for the hearing record should send two copies of their 
+testimony to the Committee on Energy and Natural Resources, United 
+States Senate, Washington, DC 20510-6150.
+  For further information, please contact Tara Billingsley at (202) 
+224-4756 or David Marks at (202) 224-8046.
+
+                          ____________________
+
+
+
+                    AUTHORITY FOR COMMITTEES TO MEET
+
+
+                      committee on armed services
+
+  Ms. STABENOW. Mr. President, I ask unanimous consent that the 
+Committee on Armed Services be authorized to meet during the session of 
+the Senate on Thursday, January 25, 2007, at 9:30 a.m., in open session 
+to receive testimony on the current situation in Iraq on the 
+Administration's recently announced strategy for continued United 
+States assistance to the Iraqi Government and for an increased United 
+States mlitary presence in Iraq.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+
+            committee on banking, housing, and urban affairs
+
+  Ms. STABENOW. Mr. President, I ask unanimous consent that the 
+Committee on Banking, Housing, and Urban Affairs be authorized to meet 
+during the session of the Senate on January 25, 2007, at 9:30 a.m., to 
+vote on committee organizational matters for the 110th Congress; 
+immediately following the executive session the committee will meet to 
+conduct a hearing on ``Examining the Billing, Marketing, and Disclosure 
+Practices of the Credit Card Industry, and Their Impact on Consumers.''
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+
+               Committee on Energy and Natural Resources
+
+  Ms. STABENOW. Mr. President, I ask unanimous consent that the 
+Committee on Energy and Natural Resources be authorized to hold a 
+hearing during the session of the Senate on Thursday, January 25, 2007, 
+at 9:30 a.m. in room SD-366 of the Dirksen Senate Office Building.
+  The purpose of the hearing is to receive testimony on oil and gas 
+resources on the Outer Continental Shelf and areas available for 
+leasing in the Gulf of Mexico.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+
+                     Committee on Foreign Relations
+
+  Ms. STABENOW. Mr. President, I ask unanimous consent that the 
+Committee on Foreign Relations be authorized to meet during the session 
+of the Senate on Thursday, January 25, 2007, at 9:15 a.m. to hold a 
+hearing on Iraq.
+  The PRESIDING OFFICER. Without objection. it is so ordered.
+
+
+                     Committee on Foreign Relations
+
+  Ms. STABENOW. Mr. President, I ask unanimous consent that the 
+Committee on Foreign Relations be authorized to meet during the session 
+of the Senate on Thursday, January 25, 2007, at 2:30 p.m. to hold a 
+hearing on Iraq.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+
+                      Committee on Indian Affairs
+
+  Ms. STABENOW. Mr. President, I would like to announce that the 
+Committee on Indian Affairs will meet on Thursday, January 25, 2007, at 
+9:30 a.m. in room 485 of the Russell Senate Office Building to conduct 
+a business meeting to consider changes to the committee rules and a 
+funding resolution for the committee budget for the 110th Congress.
+  Those wishing additional information may contact the Indian Affairs 
+Committee at 224-2251.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+
+                       Committee on the Judiciary
+
+  Ms. STABENOW. Mr. President, I ask unanimous consent that the 
+Committee on the Judiciary be authorized to meet to conduct a markup on 
+Thursday, January 25, 2007, at 10 a.m. in Dirksen room 226.
+
+                                 Agenda
+
+     I. Committee Organization
+
+  Committee Rules for the 110th Congress; Subcommittees for the 110th 
+Congress; Funding Resolution for the 110th Congress.
+
+     II. Nominations
+
+  Lisa Godbey Wood to be U.S. District Judge for the Southern District 
+of Georgia; Philip S. Gutierrez to be U.S. District Judge for the 
+Central District of California; Valerie L. Baker to be U.S. District 
+Judge for the Central District of California; Lawrence Joseph O'Neill 
+to be U.S. District Judge for the Eastern District of California; and 
+Gregory Kent Frizzell to be U.S. District Judge for the Northern 
+District of Oklahoma.
+
+     III. Bills
+
+  S. 188, To Revise the Short Title of the Voting Rights Act 
+Reauthorization and Amendments Act of 2006, Salazar.
+  S. 214, To Amend Chapter 35 of Title 28, To Preserve the Independence 
+of U.S. Attorneys, Feinstein.
+
+     IV. Resolutions
+
+  S. Res. 21, Recognizing the Uncommon Valor of Wesley Autry, Clinton, 
+Schumer.
+  S. Res. 24, Designating January as ``National Stalking Awareness 
+Month'', Biden.
+  S. Res. 29, Expressing the Sense of the Senate Regarding Martin 
+Luther King, Jr. Day, Stabenow, Leahy, Kennedy, Biden, Kohl, Feinstein, 
+Feingold, Schumer, Durbin, Cardin, Whitehouse, Specter.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+
+                    Select Committee on Intelligence
+
+  Ms. STABENOW. Mr. President, I ask unanimous consent that the Select 
+Committee on Intelligence be authorized to meet during the session of 
+the Senate on January 25, 2007, at 2:30 p.m. to hold a hearing.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+[[Page 2405]]
+
+
+
+
+    Subcommittee on Oversight of Government Management, the Federal 
+                Workforce, and the District of Columbia
+
+  Ms. STABENOW. Mr. President, I ask unanimous consent that the 
+Subcommittee on Oversight of Government Management, the Federal 
+Workforce and the District of Columbia be authorized to meet on 
+Thursday, January 25, 2007, at 2:30 p.m. for a hearing entitled, ``Lost 
+in Translation: A Review of the Federal Government's Efforts to Develop 
+a Foreign Language Strategy.''
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+
+
+
+  HONORING THE 150TH ANNIVERSARY OF THE PHILADELPHIA ACADEMY OF MUSIC
+
+  Mr. NELSON of Florida. Mr. President, I ask unanimous consent that 
+the Senate now proceed to the consideration of S. Res. 43 which was 
+submitted earlier today.
+  The PRESIDING OFFICER (Mr. Sanders). The clerk will report the 
+resolution by title.
+  The legislative clerk read as follows:
+
+       A resolution (S. Res. 43) honoring the important 
+     contributions to the Nation of the Academy of Music in 
+     Philadelphia, Pennsylvania, on its 150th anniversary.
+
+  There being no objection, the Senate proceeded to consider the 
+resolution.
+  Mr. SPECTER. Mr. President, I have sought recognition to support 
+legislation with my distinguished colleague, Senator Casey, that will 
+honor the 150th Anniversary of the Academy of Music of Philadelphia, 
+PA.
+  The Academy of Music has served as a venue for the performing arts, 
+ceremonial events, Presidential conventions and historical occasions 
+since its opening in 1857. The Academy is the oldest grand opera house 
+in the United States still used for its original purpose, and was 
+designated as a National Historic Landmark in 1963.
+  The Academy served as the main concert hall for the Philadelphia 
+Orchestra for more than a century. The Orchestra purchased the Academy 
+in 1957, and continues to perform there each year for the Academy's 
+anniversary. Additionally, a host of legendary artists including Maria 
+Callas, Joan Sutherland, George Gershwin, Anna Pavlova, Igor Stravinsky 
+and Luciano Pavarotti have performed at this important venue.
+  The Academy of Music has also been the site of several significant 
+and historic cultural events. Alexander Graham Bell conducted a 
+demonstration of the telephone in 1877, Leopold Stokowski and the 
+Philadelphia Orchestra performed the first ever concert in stereophonic 
+sound there in 1933, and in 1939, the Philadelphia Orchestra recorded 
+the soundtrack to Walt Disney's classic film, Fantasia, at the Academy.
+  The Academy's history extends further than the opulent interior of 
+the main hall and the magnificent performances that have graced its 
+stage. An elegant restaurant was constructed in the basement in 1857 
+for opera-goers and arts patrons. During World War II, the restaurant 
+was converted into a canteen that hosted 2.5 million service men and 
+women between the years of 1942 and 1945 who enjoyed performances by 
+Abbott and Costello, Duke Ellington, Lynn Fontanne and Frank Sinatra.
+  The Academy of Music continues to be the Philadelphia area's primary 
+venue for the performing arts, hosting major Broadway productions, 
+operatic performances and traveling dance and theater companies. It is 
+with great pleasure that Senator Casey and I present this resolution 
+honoring the Academy of Music's 150th Anniversary, and pay homage to an 
+institution that has played a significant role in Philadelphia's 
+vibrant arts community. I ask my colleagues to join me in recognizing 
+the Academy of Music.
+  Mr. NELSON of Florida. Mr. President, I ask unanimous consent the 
+resolution be agreed to, the preamble be agreed to, and the motion to 
+reconsider be laid upon the table.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The resolution (S. Res. 43) was agreed to.
+  The preamble was agreed to.
+  The resolution, with its preamble, reads as follows:
+
+                               S. Res. 43
+
+       Whereas the Academy of Music opened in 1857 in 
+     Philadelphia, Pennsylvania and quickly became the most 
+     prestigious opera house in the United States;
+       Whereas the Academy of Music is the oldest grand opera 
+     house in the United States that is still used for its 
+     original purpose;
+       Whereas, in 1963, the Academy of Music was designated a 
+     National Historic Landmark;
+       Whereas, over the years, the Academy of Music served not 
+     only as a venue for the performing arts community, but has 
+     also hosted many graduation ceremonies, along with several 
+     Presidential conventions and other important public events;
+       Whereas the Academy of Music served as the Philadelphia 
+     Orchestra's main concert hall for more than a century, and 
+     the Orchestra purchased the Academy in 1957 and performs each 
+     year for the Academy's anniversary;
+       Whereas the Academy of Music has had a host of legendary 
+     artists grace its stage, from the disciplines of classical to 
+     popular music, dance, and drama, including Maria Callas, Joan 
+     Sutherland, Marian Anderson, Frank Sinatra, George Gershwin, 
+     Duke Ellington, Anna Pavlova, Ruth St. Denis, Ted Shawn, and 
+     Margot Fonteyn;
+       Whereas the Academy of Music has also hosted several 
+     sporting events, was turned into an indoor skating rink in 
+     1866, had a wooden floor installed over the parquet level in 
+     1889 to create space for an indoor football game between the 
+     University of Pennsylvania and the Riverton Club of 
+     Princeton, and had a wooden floor installed again in 1892 for 
+     the University of Pennsylvania for a track meet; and
+       Whereas the Academy of Music has also been a part of other 
+     historical and cultural events, such as a demonstration of 
+     the telephone by Alexander Graham Bell in 1877, the first 
+     ever concert in stereophonic sound in 1933 performed by 
+     Leopold Stokowski and the Philadelphia Orchestra, the filming 
+     of ``One Hundred Gentlemen and a Girl'' in 1937, and the 
+     recording of the soundtrack of the Disney classic 
+     ``Fantasia'' by the Philadelphia Orchestra in 1939: Now, 
+     therefore, be it
+       Resolved, That the Senate--
+       (1) congratulates the Academy of Music in Philadelphia, 
+     Pennsylvania, on its 150th anniversary;
+       (2) honors the important contributions of the Academy of 
+     Music to the Nation; and
+       (3) directs the Secretary of the Senate to transmit a copy 
+     of this resolution to the Academy of Music.
+
+                          ____________________
+
+
+
+      EXTENDING PROVISIONS OF THOMAS EDISON COMMEMORATIVE COIN ACT
+
+  Mr. NELSON of Florida. Mr. President, I ask unanimous consent the 
+Banking Committee be discharged from further consideration of H.R. 188, 
+and that the Senate then proceed to its consideration.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The clerk will report the bill by title.
+  The legislative clerk read as follows:
+
+       A bill (H.R. 188) to provide a new effective date for the 
+     applicability of certain provisions of law to Public Law 105-
+     331.
+
+  There being no objection, the Senate proceeded to consider the bill.
+  Mr. NELSON of Florida. Mr. President, I ask unanimous consent the 
+bill be read the third time, passed, and the motion to reconsider be 
+laid upon the table, without intervening action or debate.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The bill (H.R. 188) was ordered to a third reading, was read the 
+third time, and passed.
+
+                          ____________________
+
+
+
+                  ORDERS FOR FRIDAY, JANUARY 26, 2007
+
+  Mr. NELSON of Florida. Mr. President, I ask unanimous consent that 
+when the Senate completes its business today, it stand adjourned until 
+9 a.m., Friday, January 26; that on Friday, following the prayer and 
+pledge, the Journal of proceedings be approved to date, the morning 
+hour be deemed expired, the time for the two leaders be reserved for 
+their use later in the day, and the Senate then proceed to executive 
+session to consider Executive Calendar No. 1, the nomination of LTG 
+David H. Petraeus; that there be 45 minutes for debate on the 
+nomination, with the time equally divided and controlled between 
+Senator Levin and the Republican leader or his designee; that upon the 
+use or yielding back of time, without further intervening action, the 
+Senate proceed to vote on the confirmation of the nomination; that upon
+
+[[Page 2406]]
+
+the conclusion of the vote, the motion to reconsider be laid upon the 
+table, the President be immediately notified of the Senate's action, 
+and the Senate then return to legislative session and resume 
+consideration of H.R. 2, the minimum wage legislation.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+
+
+
+                   ADJOURNMENT UNTIL 9 A.M. TOMORROW
+
+  Mr. NELSON of Florida. Mr. President, if there is no further business 
+to come before the Senate today, I now ask unanimous consent that the 
+Senate stand adjourned under the previous order.
+  There being no objection, the Senate, at 7:22 p.m., adjourned until 
+Friday, January 26, 2007, at 9 a.m.
+```
