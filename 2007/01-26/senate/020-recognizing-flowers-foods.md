@@ -1,0 +1,61 @@
+---
+granule: CREC-2007-01-26-pt1-PgS1236-2
+date: 2007-01-26
+edition: CREC
+section: SENATE
+page: S1236
+citation: 153 Cong. Rec. S1236
+---
+
+# RECOGNIZING FLOWERS FOODS
+
+**Speaking:** Chambliss, Saxby (C000286) [R-GA]
+
+```
+                       RECOGNIZING FLOWERS FOODS
+
+● Mr. CHAMBLISS. Mr. President, today I wish to honor the recent 
+accomplishments of a successful business that is headquartered and was 
+founded in my home State of Georgia, Flowers Foods. Flowers Foods is a 
+leader in the baking industry with fresh products distributed 
+throughout the Southeast, Southwest, and Mid-Atlantic States. Flowers 
+Foods frozen products can be found nationwide.
+  Forbes magazine recently named Flowers Foods to its prestigious list 
+of the 400 Best Big Companies in America. In addition Flowers Foods was 
+also named the best-managed food company among the list of 400 Best Big 
+Companies. It should also be noted that this is the third time that 
+Flowers Foods has been named to Forbes' prestigious list.
+  In creating the most recent list, Forbes reviewed the financial 
+metrics, Wall Street forecast, corporate governance ratings and other 
+public information of over 1,000 of the largest publicly traded 
+companies in America. Once Forbes narrows this list down to 400 then 
+they select a best-managed company from each of the 26 industry areas 
+that are represented in the Best Big Companies list. The selection of 
+the best-managed company for each represented industry is based on 
+financial performance, leadership, innovation and execution.
+  Flowers Foods has continued to be on the cutting edge of bakery 
+products and technology since William Howard and Joseph Hampton Flowers 
+opened Flowers Baking Company in Fitzgerald, Georgia in 1933. When the 
+company first opened in 1933 they had the capacity to produce 30,000 
+loaves of bread each day. In 1999, Flowers Foods became the first 
+wholesale baker to offer a sugar-free bread and they later became the 
+first commercial baker to introduce a low-carb bread selection.
+  Through the years Flowers Foods has produced and marketed a variety 
+of fresh and frozen bakery foods under name brands such as Nature's 
+Own, Cobblestone Mill, Sunbeam Bread, ButterKrust, Whitewheat, Bunny 
+Bread, BlueBird, Mrs. Freshley's, European Bakers, Mi Casa and 
+Tesoritos. It is no wonder that they are a market leader with this 
+varied mix of brands and products that ensures that there is something 
+tasty for everyone.
+  Not only has Flowers Foods product line grown since its founding in 
+1933 but their expansive operation has also grown. Their operations now 
+include thirty-six bakeries that stretch from the Southwest to the Mid-
+Atlantic regions. These efficient and technologically advanced bakeries 
+allow Flowers Foods to supply retailers throughout a large portion of 
+the United States with a constant supply of fresh products.
+  I am extremely proud of the recognition that Flowers Foods has 
+received from Forbes magazine. I thank my colleagues for giving me the 
+opportunity to recognize Flowers Foods.●
+
+                          ____________________
+```
