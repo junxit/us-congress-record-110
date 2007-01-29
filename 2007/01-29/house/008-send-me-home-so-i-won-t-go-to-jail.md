@@ -1,0 +1,43 @@
+---
+granule: CREC-2007-01-29-pt1-PgH947-7
+date: 2007-01-29
+edition: CREC
+section: HOUSE
+page: H947
+citation: 153 Cong. Rec. H947
+---
+
+# SEND ME HOME SO I WON'T GO TO JAIL
+
+**Speaking:** Poe, Ted (P000592) [R-TX]
+
+```
+                   SEND ME HOME SO I WON'T GO TO JAIL
+
+  (Mr. POE asked and was given permission to address the House for 1 
+minute.)
+  Mr. POE. Mr. Speaker, crimes by illegals continue to plague American 
+cities.
+
+[[Page H948]]
+
+  Jose Vallejo is another illegal charged with a vicious crime, this 
+time rape of a 4-year-old in Illinois. The judge in that case set a 
+$150,000 bond, and the defendant actually made the bond; but ICE 
+arrested the individual and took him to an immigration judge for 
+deportation. Vallejo begged the immigration judge to deport him so he 
+wouldn't have to be tried in Illinois for the State charge. The judge, 
+unaware of the rape charges, agreed and ordered Vallejo immediately 
+deported back to Mexico. But before Vallejo could pull off this 
+legalized jail break from Illinois, he was rearrested to stand charges 
+on the rape case.
+  Federal authorities should not order illegals like Vallejo deported 
+until they have been tried and served prison time for their crimes in 
+State criminal courts; then they should be deported, otherwise more 
+illegals will agree to be deported before their criminal trials and try 
+to fraudulently avoid U.S. justice and the consequences of their crimes 
+by hiding in their own homeland.
+  And that's just the way it is.
+
+                          ____________________
+```
