@@ -1,0 +1,39 @@
+---
+granule: CRECB-2007-pt2-Pg2515-7
+date: 2007-01-29
+edition: CRECB
+section: HOUSE
+page: 2515
+---
+
+# PROTESTING IS ACT OF PATRIOTISM
+
+```
+                    PROTESTING IS ACT OF PATRIOTISM
+
+  (Mr. COHEN asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. COHEN. Mr. Speaker, this weekend tens or hundreds of thousands of 
+Americans came to Washington to protest the war. It was reminiscent of 
+Vietnam, as so much of this war is reminiscent of Vietnam.
+  What these people did was an act of patriotism and courage, 
+exercising their first amendment rights and expressing their opinion 
+that the policy of this administration and this country is wrong. As 
+they protested, and throughout the weekend, American soldiers lost 
+their lives. It is unfortunate that it seems that the calls of the 
+people are not being heeded.
+  It is particularly distressing, Mr. Speaker, to hear one of the 
+Cabinet members suggest that people who disagree with the 
+administration are lending aid and solace to the enemy. That is wrong. 
+The first amendment is about free speech. The demonstrations, the 
+protests that happened this week were
+
+[[Page 2516]]
+
+correct. Samuel Johnson said: ``The last refuge to which a scoundrel 
+clings is patriotism.'' I think we saw people try to find patriotism to 
+be the refuge rather than response to protests and analytical 
+discussions of the policies in Iraq.
+
+                          ____________________
+```

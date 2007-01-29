@@ -1,0 +1,77 @@
+---
+granule: CRECB-2007-pt2-Pg2520
+date: 2007-01-29
+edition: CRECB
+section: HOUSE
+page: 2520
+---
+
+# FIREARM TRACING DATA
+
+```
+                          FIREARM TRACING DATA
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentlewoman from New York (Mrs. McCarthy) is recognized for 5 minutes.
+  Mrs. McCARTHY of New York. Mr. Speaker, for the last several weeks 
+you have heard me talk about gun violence in this country, and I happen 
+to think there are solutions where we can reduce gun violence.
+  I would like to talk about firearm tracing data. Firearm tracing data 
+gives law enforcement agencies the ability to retrieve useful data on 
+guns used in crimes. Tracing data will let our police departments 
+locate the gun dealers who sell guns used in crimes. Without this 
+tracing data, local law enforcement will not be able to pursue civil 
+action on suppliers that have been implicated in crimes without asking 
+the ATF's permission first.
+  It is important that we use tracing data to single out the bad gun 
+owners. One percent of gun owners sell 50 percent of the guns used in 
+crime in this country. That is a staggering number. We can crack down 
+on that 1 percent. We can make our streets and cities safer. The 
+collection of tracing data does not prevent anyone from purchasing a 
+gun. It simply gives law enforcement the tools that they need to solve 
+crimes.
+  As you can see by this chart, 91 percent of Americans believe that 
+tracing data should be used in some form to help crimes, 91 percent. 
+Why aren't we doing a better job on helping our police officers do 
+their job?
+  Last week, New York Mayor Bloomberg teamed up with Boston Mayor 
+Menino on this very issue. Together they have formed a bipartisan 
+coalition of more than 120 mayors from across the country. The group 
+has many mayors from the urban as well as the rural areas. These mayors 
+understand the need for tracing data. They understand that Congress has 
+done little to help gun violence and stop gun violence in this country.
+  They are tired of sitting back as their cities lose more and more 
+citizens to gun violence. By the way, they are also tired of seeing the 
+health care costs on those victims that do survive. This is something 
+that we should be dealing with. It is a health care crisis in this 
+country.
+  Last week, they held their annual conference here in Washington. They 
+spoke with Members from both sides of the aisle. This is not a Democrat 
+or a Republican issue. It is not a pro-gun or anti-gun issue. It is a 
+pro-law enforcement issue with common sense, and it is supported by an 
+overwhelming majority of Americans.
+  We must do everything in our power to keep guns out of the hands of 
+those that don't deserve to have a gun. That is why I introduced the 
+NICS Improvement Act. This bill will simply strengthen the States. 
+Right now when the NICS system doesn't have the information in it, how 
+can it basically report out who should not be able to buy a gun?
+  My NICS bill will be giving the States the money to bring their 
+computers up to speed, so that way when someone is adjudicated in 
+court, whether it is on a felony or on domestic violence, someone who 
+should not be able to get a gun shouldn't be able to get approved 
+through the approved NICS system. This is common sense.
+  Again, this is a pro-safety issue. It doesn't affect anyone who wants 
+to buy a gun, but it makes this country safer from gun violence.
+  I know it is a very political issue. Everyone is always saying that 
+you are trying to take away my gun. I have never done that. What I am 
+trying to do is save lives; and I am trying to save, certainly, people 
+from being harmed. Our mayors across this great country understand 
+that.
+  We can do a better job. Congress needs to start listening to the 
+American people. These statistics show that gun owners, by the way, 
+approve overwhelmingly of being able to trace these guns. We should be 
+able to do it. We can do a better job. Americans should have a safer 
+country.
+
+                          ____________________
+```
