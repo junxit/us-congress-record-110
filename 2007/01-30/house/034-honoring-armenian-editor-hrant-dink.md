@@ -1,0 +1,36 @@
+---
+granule: CRECB-2007-pt2-Pg2626
+date: 2007-01-30
+edition: CRECB
+section: HOUSE
+page: 2626
+---
+
+# HONORING ARMENIAN EDITOR HRANT DINK
+
+```
+                  HONORING ARMENIAN EDITOR HRANT DINK
+
+  (Mr. COSTA asked and was given permission to address the House for 1 
+minute.)
+  Mr. COSTA. Madam Speaker, I rise today to mourn the loss of the 
+Armenian Turkish newspaper editor, Hrant Dink. On January 19, the 
+legacy of the Armenian genocide continued. Hrant Dink, who was tried 
+and convicted of ``insulting Turkishness'' by recognizing the Armenian 
+genocide, unfortunately, was shot dead over a week ago.
+  Dink was a voice for freedom of the press, for democracy and for 
+Armenian genocide recognition. Between 1915 and 1923, the Ottoman 
+Empire led a genocide on its Armenian population, killing over 1.5 
+million people. Over 90 years later, the Turkish Government still 
+refuses to acknowledge it occurred.
+  I told the Turkish foreign minister last year that to move forward 
+with democratic reform, Turkey must first comes to grips with its past, 
+just as our country had during the civil rights movement. Yesterday, I 
+sent a letter to President Bush urging the withdrawal of the nomination 
+of Richard Hoagland to be Ambassador to Armenia. Given the 
+assassination of Dink, we cannot have an ambassador who refuses to 
+acknowledge the Armenian genocide happened. It would send the wrong 
+message.
+
+                          ____________________
+```

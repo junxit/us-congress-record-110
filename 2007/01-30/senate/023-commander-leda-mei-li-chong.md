@@ -1,0 +1,48 @@
+---
+granule: CRECB-2007-pt2-Pg2586
+date: 2007-01-30
+edition: CRECB
+section: SENATE
+page: 2586
+---
+
+# COMMANDER LEDA MEI LI CHONG
+
+```
+                      COMMANDER LEDA MEI LI CHONG
+
+● Mr. INOUYE. Mr. President, I am pleased to congratulate 
+Commander Leda Mei Li Chong upon the completion of her career of 
+service in the U.S. Navy. Throughout her 20-year military career, 
+Commander Chong served with distinction and dedication.
+  As the first member in her family to serve in the military, Commander 
+Chong received her commission from the United States Navy in 1987. She 
+went on to teach math, chemistry, materials, and radiological controls 
+at the Naval Nuclear Power School in Orlando, FL. From there, Commander 
+Chong served in various technical positions always providing vital 
+operational and training support to the naval fleet. Highlights include 
+having been the Department of Defense military satellite communications 
+liaison to the U.S. Coast Guard where she provided expert technical and 
+policy guidance on ultra high frequency satellite capabilities. She was 
+also deputy J6 to the commander, Iceland Defense Force where she 
+provided critical command, control, and communications in support of 
+NATO defense. Commander Chong volunteered as a White House social aide 
+where she provided support to the President of the United States during 
+important State events. Her most recent assignments were as a Navy 
+congressional liaison to the Senate and House Armed Services Committees 
+as well as to the Senate and House Defense Appropriations 
+subcommittees. As a congressional liaison, her straightforward approach 
+and complete grasp of all facets concerning C4ISR, information 
+technology, and space programs have been of great benefit to my staff, 
+the U.S. Congress and our national security. Commander Chong ensured 
+that the U.S. congress had the information necessary to determine how 
+to best equip, maintain and support the U.S. Navy.
+  Her family and her fellow shipmates can be proud of her distinguished 
+service. Her parents Paul and Su and her husband Kevin have given her 
+strong support during her naval career. As she departs the Pentagon to 
+start her second career, I call upon my colleagues to wish Commander 
+Chong and her family every success, and the traditional Navy ``fair 
+winds and following seas.''●
+
+                          ____________________
+```

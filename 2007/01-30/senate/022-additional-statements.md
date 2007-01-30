@@ -1,0 +1,59 @@
+---
+granule: CRECB-2007-pt2-Pg2585-2
+date: 2007-01-30
+edition: CRECB
+section: SENATE
+page: 2585
+---
+
+# ADDITIONAL STATEMENTS
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+                   AWARDS FOR OUTSTANDING ACHIEVEMENT
+
+● Mr. THUNE. Mr. President, today I recognize Rodney Kraft, Eric 
+Anderson, Nick Hodgin, and Cecilia Cedeno, all of whom received the 
+Founder's Award for Outstanding Achievement from the Black Hills 
+Workshop in Rapid City, SD. This is a prestigious award that reflects 
+the recipients' hard work and dedication to achieving independent 
+living. It also reflects the valuable role they have played in giving 
+back to their local community.
+  Rodney Kraft has worked as a clerk at Ellsworth Air Force Base's 
+supply store for the past 10 years. He is a dependable worker who is 
+well liked by
+
+[[Page 2586]]
+
+his fellow staff members and customers. Rodney also has a vast 
+knowledge of computers which makes him an excellent resource for his 
+coworkers.
+  Eric Anderson is a food service attendant at Ellsworth Air Force 
+Base's Bandit Inn. He has been an excellent addition to their staff and 
+has been rewarded for his hard work by receiving the Employee of the 
+Month and Employee of the Quarter awards. He has recently completed his 
+first degree brown belt in jujitsu and hopes to someday earn his black 
+belt.
+  Nick Hodgin is an enthusiastic member of the janitorial team at 
+Ellsworth AFB. In the past year, Nick has been promoted from a being a 
+member of a supervised crew to working independently. Nick also loves 
+working on diesel engines and is currently preparing to take the 
+entrance exam for Western Dakota Technical Institute. In his spare 
+time, he volunteers with the Black Hills Humane Society.
+  Cecelia Cedeno has recently retired from her work as a dishwasher at 
+the Corn Exchange Restaurant in Rapid City, SD. As a dishwasher, 
+Cecelia was praised by her employer for her strong work ethic and her 
+kindness to the other staff members. Since her retirement, she has been 
+spending part of the year visiting family in Arizona and the rest of 
+her time enjoying her time in Rapid City.
+  It gives me great pleasure to rise with Rodney Kraft, Eric Anderson, 
+Nick Hodgin, and Cecilia Cedeno to congratulate them on receiving these 
+well-earned awards and wish them continued success in the years to 
+come.●
+
+                          ____________________
+```
