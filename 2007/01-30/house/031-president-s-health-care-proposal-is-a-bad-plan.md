@@ -1,0 +1,42 @@
+---
+granule: CREC-2007-01-30-pt1-PgH994-3
+date: 2007-01-30
+edition: CREC
+section: HOUSE
+page: H994
+citation: 153 Cong. Rec. H994
+---
+
+# PRESIDENT'S HEALTH CARE PROPOSAL IS A BAD PLAN
+
+**Speaking:** Cohen, Steve (C001068) [D-TN]
+
+```
+             PRESIDENT'S HEALTH CARE PROPOSAL IS A BAD PLAN
+
+  (Mr. COHEN asked and was given permission to address the House for 1 
+minute.)
+  Mr. COHEN. Madam Speaker, in the President's State of the Union 
+address last week, he made proposals for what is essentially a tax 
+increase on more than 30 million Americans. That's right, if Congress 
+were to pass the President's health care plan, more than 30 million 
+Americans, many of whom are middle-class workers who have fought hard 
+to negotiate comprehensive health care plans with their employers, 
+would be taxed by the Federal Government. Good health insurance, for 
+those lucky enough to have it, would be jeopardized as many Americans 
+would be pushed into the individual insurance market where insurers can 
+refuse coverage to workers based on their health.
+  That brings me to the least of these, those without insurance, a 
+number which will grow under the President's plan. The Regional Medical 
+Center at Memphis, the Med, a hospital that provides a disproportionate 
+amount of service to the poor, could lose as much as $30 million a 
+year. Tennessee could see Federal revenue to support hospitals, nursing 
+homes and other health providers by as much as $300 million, and that 
+would be an increase of taxes at the local level.
+  The Med plays a critical role in delivering health care to the poor. 
+Losing the specialty services of the Med would leave serious gaps in 
+our health care system that serves the entire region around Memphis, 
+including Mississippi and Arkansas.
+
+                          ____________________
+```

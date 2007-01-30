@@ -1,0 +1,39 @@
+---
+granule: CREC-2007-01-30-pt1-PgH993-5
+date: 2007-01-30
+edition: CREC
+section: HOUSE
+page: H993
+citation: 153 Cong. Rec. H993
+---
+
+# MIDDLE-CLASS TAX INCREASE IS THE WRONG APPROACH
+
+**Speaking:** Sires, Albio (S001165) [D-NJ]
+
+```
+            MIDDLE-CLASS TAX INCREASE IS THE WRONG APPROACH
+
+  (Mr. SIRES asked and was given permission to address the House for 1 
+minute.)
+  Mr. SIRES. Madam Speaker, Health and Human Services Secretary Mike 
+Leavitt is about to begin a 100-day public relations effort to build 
+support for the President's health care proposal. Democrats here in 
+Washington in Congress want to work towards reducing the number of 
+uninsured. Unfortunately, the tax deduction proposal will do very 
+little to assist the 47 million Americans who are now living without 
+health insurance.
+  The President touts his plan as a way to give low-income uninsured 
+Americans more money in their pockets to help them buy their own health 
+insurance. It sounds good, but the President ignores two facts.
+  First, the President's plan does not provide enough of a benefit for 
+low-income Americans. A tax deduction is of little value to low-income 
+workers, who in many cases will receive little more than $1,200 a year 
+back from the Federal Government. That might sound like a lot, but 
+health insurance costs the average family almost $11,000 a year. This 
+small deduction will continue to make health care out of reach.
+  Madam Speaker, unfortunately, the President's proposal is not the 
+right approach.
+
+                          ____________________
+```
