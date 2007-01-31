@@ -1,0 +1,43 @@
+---
+granule: CRECB-2007-pt2-Pg2857
+date: 2007-01-31
+edition: CRECB
+section: SENATE
+page: 2857
+---
+
+# SAINT PHOTIOS NATIONAL SHRINE
+
+```
+                     SAINT PHOTIOS NATIONAL SHRINE
+
+● Mr. MARTINEZ. Mr. President, today I honor the 25th 
+anniversary of the Saint Photios National Shrine, the only Greek 
+Orthodox National Shrine in the country, located in Saint Augustine, 
+FL.
+  As early as 1768 and under the leadership of Dr. Andrew Turnbull, 
+Greek immigrants traveled to America to seek a better life in Florida. 
+Many of these early Greek Americans migrated to Saint Augustine, where, 
+over time, a strong Greek community has formed. Greek immigrants found 
+refuge there as many gathered for solace, fellowship, and worship at 
+the historic Averos House built in 1749 on Saint George Street. The 
+Averos House was purchased by the Greek Orthodox Archdiocese in 1965, 
+and in 1982, was opened as a National Greek Orthodox Shrine named after 
+Saint Photios the Great, Patriarch of Constantinople.
+  The Saint Photios Greek Orthodox National Shrine gives honor to the 
+memory of the first colony of Greeks in the Americas and the succeeding 
+generations of Greek immigrants; it now serves as a connection and 
+pilgrimage point for Greek Americans and the Greek Orthodox Church in 
+America. It also serves to preserve, enhance, and promote the ethnic 
+and cultural traditions of Greek heritage and the teachings of the 
+Greek Orthodox Church in America.
+  The Shrine continues to be faithful in maintaining and perpetuating 
+the Greek Orthodox faith and Hellenic Heritage through its programs and 
+activities to all who pass through its historic doors.
+  Mr. President, February 4, 2007, will mark the 25th anniversary of 
+the Saint Photios Greek Orthodox National Shrine, and I ask my 
+colleagues to join me in honoring the purposeful commitment and 
+achievements of this religious and historical institution.●
+
+                          ____________________
+```
