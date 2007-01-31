@@ -1,0 +1,44 @@
+---
+granule: CREC-2007-01-31-pt1-PgH1121-2
+date: 2007-01-31
+edition: CREC
+section: HOUSE
+page: H1121
+citation: 153 Cong. Rec. H1121
+---
+
+# HONORING COLONEL BRIAN D. ALLGOOD
+
+**Speaking:** Lamborn, Doug (L000564) [R-CO]
+
+```
+                   HONORING COLONEL BRIAN D. ALLGOOD
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from Colorado (Mr. Lamborn) is recognized for 5 minutes.
+  Mr. LAMBORN. Mr. Speaker, I rise today to honor the life of Colonel 
+Brian D. Allgood, who passed away on January 27, 2007, in Baghdad, 
+Iraq, in support of Operation Iraqi Freedom. Colonel Allgood died of 
+injuries sustained when his helicopter crashed. Brian's wife and son 
+reside in Heidelberg, Germany, and his parents, Gerald and Cleo 
+Allgood, reside in Colorado Springs, Colorado.
+  Colonel Allgood graduated from West Point in 1982 and from the 
+University of Oklahoma Medical Center in 1986. After completing his 
+residency, Colonel Allgood continued his military career as a doctor in 
+the Army. He was not only a doctor but was a first-class soldier who 
+parachuted into Panama as a battalion surgeon in the 75th Ranger 
+Regiment during Operation Just Cause in 1989. After rising through the 
+ranks, Brian became a full colonel in 2002 and served in top medical 
+commands in Korea and Germany before becoming the command surgeon of 
+Multi-National Forces Iraq.
+  Colonel Allgood comes from a strong military family and followed in 
+the footsteps of his father, who was a Army doctor and a Vietnam War 
+veteran.
+  Colonel Allgood was a remarkable soldier, an exceptional doctor and a 
+devoted husband and father who served in the Army to keep this Nation 
+free and sacrificed his life for our safety and security.
+  I thank Colonel Brian D. Allgood for his service to our country, and 
+I offer my deepest condolences to his family.
+
+                          ____________________
+```
