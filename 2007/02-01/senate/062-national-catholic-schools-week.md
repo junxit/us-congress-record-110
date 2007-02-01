@@ -1,0 +1,45 @@
+---
+granule: CREC-2007-02-01-pt1-PgS1513-4
+date: 2007-02-01
+edition: CREC
+section: SENATE
+page: S1513
+citation: 153 Cong. Rec. S1513
+---
+
+# NATIONAL CATHOLIC SCHOOLS WEEK
+
+**Speaking:** Reid, Harry (R000146) [D-NV]
+
+```
+                     NATIONAL CATHOLIC SCHOOLS WEEK
+
+  Mr. REID. Mr. President, I rise today to recognize the contribution 
+of the Roman Catholic school system in the United States. From January 
+28 through February 2 of this year, communities across our Nation 
+celebrated National Catholic Schools Week. This year's theme of 
+``Catholic Schools: the Good News in Education'' emphasizes the 
+balanced and diverse educational perspective offered by Catholic 
+education.
+  With more than 8,000 elementary and secondary schools across our 
+Nation, Catholic education is an important part of educational 
+communities across our country. My home State of Nevada is no 
+exception. We have more than 16 Catholic schools that serve over 5,000
+
+[[Page S1514]]
+
+students. These schools play an important role in their communities, 
+teaching service and character to their students in the Catholic 
+tradition.
+  This tradition is what encourages many parents to sacrifice to pay 
+for a Catholic education. As many students, parents, and teachers will 
+tell you, a Catholic education provides balance to students not only in 
+their educational experience, but also in their spiritual life. The 
+values taught in Catholic schools are important for developing engaged 
+and informed members of the community.
+  Catholic education has played a needed role in our educational system 
+for more than a century. I am confident that Nevada and our Nation will 
+be well served by Catholic schools for many years to come.
+
+                          ____________________
+```

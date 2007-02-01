@@ -1,0 +1,56 @@
+---
+granule: CREC-2007-02-01-pt1-PgS1519-3
+date: 2007-02-01
+edition: CREC
+section: SENATE
+page: S1519
+citation: 153 Cong. Rec. S1519
+---
+
+# TRIBUTE TO 2006 KENTUCKY DERBY WINNER BARBARO
+
+**Speaking:** Bunning, Jim (B001066) [R-KY]
+
+```
+             TRIBUTE TO 2006 KENTUCKY DERBY WINNER BARBARO
+
+● Mr. BUNNING. Mr. President, today I wish to pay tribute to the 
+life of Barbaro, the 2006 Kentucky Derby Champion. He was an 
+inspirational survivor and was beloved by the State of Kentucky. 
+Barbaro's motivational rise to the top of horse racing history and 
+relentless fight for his life against all odds, serves as a shining 
+example of strength and courage to us all.
+  Barbaro first entered this world on April 29, 2003, when he was 
+foaled in Nicholasville, KY, at Springmint Farm. He is the son of the 
+great champion racehorse Dynaformer and was destined to be a champion 
+from the beginning.
+  Barbaro was always a favorite of the crowd, but it was his 
+performance at the Kentucky Derby, May 6, 2006, that would make him a 
+legend. He ended up winning the Derby with a lead of seven lengths, 
+which was the largest margin of victory since 1946. Because of this 
+spectacular race, many people believed Barbaro was destined for 
+greatness in the horse racing industry and favored him to go on to win 
+the Triple Crown of Thoroughbred Racing.
+  Later that same year, Barbaro ran the Preakness Stakes on May 20, 
+2006, as the crowd favorite. After an initial false start through the 
+starting gate and signs of distress early on in the race, it was clear 
+that Barbaro had sustained a severe injury. Laboratory tests showed 
+that he had fractured three bones in and around his ankle and right 
+hind leg. This resulted in immediate surgery and many subsequent
+
+[[Page S1520]]
+
+surgeries. A last effort was made by doctors to save Barbaro, but their 
+continued efforts proved to be unsuccessful and caused his current 
+ailments to spread farther through his body. Although he kept fighting 
+to recover, it was clear to everyone that he was in monumental pain. On 
+January 29, 2007, Barbaro's owners decided that his pain was too much 
+to handle and he was laid to rest.
+  Barbaro had a unique, motivational quality that made him the object 
+of care and affection from the public in a way that few animals before 
+him have ever experienced. He will be terribly missed but never 
+forgotten. Barbaro was a champion, a fighter, and a true inspiration to 
+the entire State of Kentucky.●
+
+                          ____________________
+```
