@@ -1,0 +1,41 @@
+---
+granule: CRECB-2007-pt2-Pg2925-4
+date: 2007-02-01
+edition: CRECB
+section: SENATE
+page: 2925
+---
+
+# NOMINATIONS AND IRAQ
+
+```
+                          NOMINATIONS AND IRAQ
+
+  Mr. McCONNELL. Mr. President, I also wish to thank the majority 
+leader for his remarks about circuit court judges. We all know the 
+confirmation of circuit court judges became unnecessarily, it seems to 
+me and I think seems to him, contentious at various times in recent 
+years. I think we are off to a good start this year.
+  Each of the last three Presidents ended his term with the U.S. Senate 
+in the hands of the opposition party. Each of these last three 
+Presidents received an average of 17 circuit court judicial 
+confirmations during those last 2 years even though the Senate was in 
+the hands of the opposition party.
+  As Senator Reid has indicated, the President has not forwarded 
+several nominations that were contentious in the last session, and I 
+thank the majority leader for his indication that we will move forward 
+with Randy Smith, who is the nominee for the Ninth Circuit, before the 
+Lincoln recess. That is an indication of good faith on his part, which 
+is greatly appreciated by me and others on our side.
+  With regard to Iraq, as the majority leader indicated, we continue to 
+be in discussions about how to craft that debate. We certainly agree 
+the debate will occur next week, and we are trying to reach a consent 
+agreement that would allow us to have several different options that 
+would reflect the sentiment of most Members of the Senate about the 
+current situation in Iraq and the decision to go forward and try to 
+quiet the capital city of Baghdad. So those discussions will continue 
+throughout the day.
+  With that, Mr. President, I yield the floor.
+
+                          ____________________
+```

@@ -1,0 +1,75 @@
+---
+granule: CRECB-2007-pt2-Pg2973
+date: 2007-02-01
+edition: CRECB
+section: SENATE
+page: 2973
+---
+
+# IN RECOGNITION OF AMERICAN HEART MONTH
+
+```
+                 IN RECOGNITION OF AMERICAN HEART MONTH
+
+  Mr. DORGAN. Mr. President, today marks the start of American Heart 
+Month. I note the occasion not as a reminder to my colleagues to 
+purchase flowers or chocolates for their loved ones for Valentine's Day 
+but as a reminder that we need to redouble our efforts to fight heart 
+disease, stroke, and other cardiovascular diseases.
+  More than 80 million Americans--about 1 in 3 adults--are living with 
+some form of cardiovascular disease. Heart disease remains the leading 
+cause of death in America and stroke is the No. 3 killer. These 
+devastating diseases have touched the lives of nearly every family in 
+America.
+  Heart disease, stroke, and other cardiovascular diseases will cost 
+our Nation more than $430 billion in 2007, including more than $284 
+billion in direct medical costs.
+  While it is true that we are making some progress, we can't win the 
+fight against heart disease, stroke, and other cardiovascular diseases 
+without the support of Congress and the administration. Next week, the 
+President will send Congress a budget proposal for fiscal year 2008. 
+The budget is more than just a lengthy document--it is a statement of 
+our Nation's priorities. I believe investing in cardiovascular 
+research, prevention, and treatment programs should be one of our 
+highest priorities.
+  I was disappointed by the budget the President proposed last year. 
+The administration's proposal would have scaled back funding for heart 
+disease and stroke research at the National Institutes of Health, NIH, 
+prevention programs at the Centers for Disease Control and Prevention, 
+CDC, and a program that helps rural communities purchase lifesaving 
+medical equipment.
+  The administration's fiscal year 2007 budget would have cut funding 
+for the National Heart, Lung and Blood Institute by $21 million and the 
+National Institute of Neurological Disorders and Stroke by $11 million. 
+I am grateful that Congress rejected this proposal. Our investment in 
+the NIH holds enormous promise to turn the tide against so many 
+devastating diseases, including heart disease and stroke.
+  The President also proposed scaling back funding for the heart 
+disease and stroke prevention program at the CDC. This program helps 
+States design and implement plans to prevent cardiovascular disease 
+before it occurs. Despite the fact that heart disease is the No. 1 
+cause of death in the country and stroke is the No. 3 killer, the CDC 
+does not have enough funding to implement this important program in all 
+States. The CDC provides funding for 19 States to develop plans and 
+another 14 States to implement the plans.
+  Finally, the administration tried to eliminate funding for a program 
+that helps rural communities purchase automated external 
+defibrillators, AEDs. AEDs are small, laptop-size devices that help 
+restore normal heart function after cardiac arrest. AEDs save lives, 
+especially when placed in areas where large numbers of people 
+congregate and in rural communities where emergency medical personnel 
+are not readily available. I believe Congress should continue to 
+provide grants to help communities purchase these lifesaving devices.
+  I hope that the President does not send Congress another budget that 
+proposes Draconian cuts in funding for heart disease and stroke 
+research, prevention, and treatment programs. Failing to make these 
+investments will have real consequences. It is projected that, if we 
+don't act today, deaths from heart disease alone will increase by 
+nearly 130 percent by 2050.
+  I encourage my colleagues to take a few minutes during February to 
+recognize American Heart Month and to join me in starting a national 
+dialogue about making the fight against cardiovascular disease a 
+priority.
+
+                          ____________________
+```

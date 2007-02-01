@@ -1,0 +1,36 @@
+---
+granule: CRECB-2007-pt2-Pg3000-2
+date: 2007-02-01
+edition: CRECB
+section: SENATE
+page: 3000
+---
+
+# HONORING PERCY LAVON JULIAN
+
+```
+                      HONORING PERCY LAVON JULIAN
+
+  Mr. REID. Mr. President, I ask unanimous consent that the Senate 
+proceed to the immediate consideration of H. Con. Res. 34, at the desk 
+and just received from the House.
+  The PRESIDING OFFICER. The clerk will report the concurrent 
+resolution by title.
+  The assistant legislative clerk read as follows:
+
+       A concurrent resolution (H. Con. Res. 34) to honor the life 
+     of Percy Lavon Julian, a pioneer in the field of organic 
+     chemistry research and development and the first and only 
+     African American chemist to be inducted into the National 
+     Academy of Sciences.
+
+  There being no objection, the Senate proceeded to consider the 
+concurrent resolution.
+  Mr. REID. I ask unanimous consent that the concurrent resolution be 
+agreed to, the motion to reconsider be laid upon the table, without any 
+intervening action or debate.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The concurrent resolution (H. Con. Res. 34) was agreed to.
+
+                          ____________________
+```
