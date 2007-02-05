@@ -1,0 +1,89 @@
+---
+granule: CREC-2007-02-05-pt1-PgS1577-2
+date: 2007-02-05
+edition: CREC
+section: SENATE
+page: S1577
+citation: 153 Cong. Rec. S1577
+---
+
+# Introductory Statement on S. 489
+
+**Speaking:** Warner, John (W000154) [R-VA]
+
+**Measures:** S. 489
+
+```
+      By Mr. WARNER:
+  S. 489. A bill to improve efficiency in the Federal Government 
+through the use of green buildings, and for other purposes; to the 
+Committee on Environment and Public Works.
+  Mr. WARNER. Mr. President. I rise to introduce the Green Buildings 
+Act of 2007. This bill is intended to continue the hard work of our 
+former colleague
+
+[[Page S1578]]
+
+from Vermont, Senator Jim Jeffords, and would place an emphasis on 
+energy efficient and healthy building environments.
+  In the opening weeks of this 110th Congress we have seen a 
+significant focus on the future energy security and environmental 
+health of our Nation and indeed the world. Much attention has been paid 
+to the issue of global climate change and it is my firm belief that not 
+only are the energy and environmental challenges that we face today 
+varied, but that our solutions must be multi-faceted. In order to meet 
+the rising demands of a growing world population and its expanding 
+economies, we need to address the way we create energy, conserve 
+energy, and preserve the environment.
+  Green Buildings are structures that are designed and built with 
+energy-efficient and renewable materials to conserve energy and 
+environmental resources. These buildings last longer, use less energy, 
+and promote a healthier environment for those who may work or live in 
+them. Green buildings have reduced electricity, heating, and cooling 
+requirements; use less water; and may even use renewable sources of 
+water and electricity. Recent volatility in energy costs and 
+constraints on the electricity grid in much of the U.S. have led 
+developers to explore the potential economic benefits of these 
+efficient buildings as well. It is my belief that green buildings will 
+become a significant contributor to America's energy conservation 
+efforts and that is why I am introducing this bill today.
+  The proposal I offer today is one small step in the right direction 
+and draws upon a bill approved by the Environment and Public Works 
+Committee in 2006. The federal government is already setting an example 
+in energy efficiency under the leadership of the White House and 
+Department of Energy. This bill will take the next step and create an 
+office within the General Services Administration (GSA) to oversee 
+green building initiatives within the Federal Government and provide 
+support for information to State and local governments as well as the 
+private sector. With almost 9,000 buildings and 340 million square feet 
+of space, the GSA has the experience and expertise to manage this 
+effort for the Federal Government. The Office of Green Buildings at the 
+GSA will be advised by a Green Buildings Council to be comprised of 
+Federal, State, local, and private sector participants to establish 
+guidelines and create resources for public and private builders across 
+the country. It is my hope that the use of green buildings in the 
+Federal real estate portfolio will contribute to increased health of 
+the public, productivity of work, and conservation of energy.
+  While some portions of the private sector have caught on to the many 
+benefits of green or ``sustainable design,'' this bill's establishment 
+of grants through the Environmental Protection Agency's (EPA) to assist 
+school systems in their school construction efforts will bring these 
+benefits to the places our children spend so much of their time and the 
+facilities that consume a significant amount of energy in our 
+communities. In addition to grants to school systems, the bill would 
+create an indoor air quality program for Federal buildings, encourage 
+incentives for Federal agencies, and authorize research and 
+demonstration projects in each of the four climatic regions of the 
+United States. The bill is modest in scope, authorizing $50 million 
+over 5 years to begin this most important effort in the Federal 
+Government.
+  I know many of you share in my desire to advance our Nation's 
+conservation agenda. Indeed, many have supported the efforts of our 
+recently retired colleague from Vermont and have your own ideas. I look 
+forward to working with my colleagues in the Senate and on the 
+Environment and Public Works Committee as we move this proposal 
+forward. Green Buildings will be a significant part of our country's 
+energy and environmental future and this bill will help us in that 
+effort.
+                                 ______
+```

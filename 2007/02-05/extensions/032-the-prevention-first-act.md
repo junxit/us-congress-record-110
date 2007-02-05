@@ -1,0 +1,159 @@
+---
+granule: CREC-2007-02-05-pt1-PgE259-3
+date: 2007-02-05
+edition: CREC
+section: EXTENSIONS
+page: E259
+citation: 153 Cong. Rec. E259
+---
+
+# THE PREVENTION FIRST ACT
+
+**Speaking:** Slaughter, Louise McIntosh (S000480) [D-NY]
+
+```
+                        THE PREVENTION FIRST ACT
+
+                                 ______
+                                 
+
+                     HON. LOUISE McINTOSH SLAUGHTER
+
+                              of new york
+
+                    in the house of representatives
+
+                        Monday, February 5, 2007
+
+  Ms. SLAUGHTER. Madam Speaker, today, I am again proud to introduce 
+the Prevention First Act. By emphasizing prevention first, my bill will 
+help protect women's reproductive health, reduce unintended 
+pregnancies, decrease the spread of STDs, and give women the tools they 
+need to make the best decisions possible for themselves. The Prevention 
+First Act will help to achieve these goals by providing comprehensive 
+access to all forms of contraception and sex education.
+  Throughout the years, conservative leaders have sought to limit 
+women's rights and freedoms by imposing stricter penalties on doctors 
+who help women faced with an unintended pregnancy. At the same time, 
+these leaders have done very little to ensure that millions of 
+unintended pregnancies and sexually transmitted diseases (STDs) are 
+prevented in the first place. If they are opposed to abortion, if they 
+support women's health, and if they believe that the right to choose 
+when to start a family should apply to all women, no matter their 
+economic or social situation, then they should be in favor of this 
+bill.
+  It has been more than 40 years since the Supreme Court said women had 
+the right to access contraception. This decision was revolutionary, for 
+the first time allowing women to choose when to become pregnant and how 
+many children to have. Access to contraception greatly enhanced women's 
+equality in American Society.
+  It also helps to ameliorate economic disparities among women. The 
+social and economic realities surrounding contraception could not be 
+starker. Many poor and low-income women cannot afford to purchase 
+contraceptive services and supplies on their own. About 1 in 5 women of 
+reproductive age were uninsured in 2003, and that proportion has 
+increased by 10% since 2001. Half of all women who are sexually active, 
+but do not want to get pregnant, need publicly funded services to help 
+them access public health programs like Medicaid and Title X, the 
+national family planning program. These programs provide high-quality 
+family planning services and other preventive health care, such as pap 
+smears, to underinsured or uninsured individuals who may otherwise lack 
+access to health care and alternative options for birth control. What's 
+more, each year, publicly funded family planning services help women to 
+prevent an estimated one million unplanned pregnancies and 630,000 
+abortions. Despite the obvious benefits they bring, these programs are 
+currently struggling to meet the growing demand for subsidized family 
+planning services without corresponding increases in funding. The 
+Prevention First Act authorizes funding for Title X clinics and 
+strengthens states' coverage of Medicaid family planning services.
+
+  Contraception is, of course, more than a means of fighting economic 
+inequalities. It also provides a way to save scarce public health 
+dollars. For every $1 spent on providing family planning services, an 
+estimated $3.80 is saved in Medicaid expenditures for pregnancy-related 
+and newborn care.
+  And what's more, improved access to emergency contraception (EC) has 
+been proven to significantly reduce the staggering rates of unintended 
+pregnancy and, as a result, abortion. EC prevents pregnancy after 
+unprotected sex or a contraceptive failure. The Alan Guttmacher 
+Institute estimates that increased use of EC accounted for up to 43 
+percent of the total decline in abortion rates between 1994 and 2000. 
+In addition, EC is often the only contraceptive option for the 300,000 
+women who are reported to be raped each year. Unfortunately, even with 
+the recent FDA decision to allow EC to be sold over-the-counter to 
+women 18 years of age and over, many women do not know about EC and 
+many still face insurmountable barriers in accessing this important 
+product. The Prevention First Act mandates that the Secretary of Health 
+and Human Services implement an education campaign about EC and 
+requires that hospitals receiving federal funds provide victims of 
+sexual assault with information and access to EC.
+  Despite the fact that contraceptives have a proven track record of 
+enhancing the health of women and children, preventing unintended 
+pregnancy, and reducing the need for abortion, far too many insurance 
+policies do not cover them. While most employment-related insurance 
+policies in the United States cover prescription drugs in general, many 
+do not include equitable coverage for prescription contraceptive drugs 
+and devices. Although 21 states now have laws in place requiring 
+insurers to provide contraceptive coverage if they cover other 
+prescription drugs, 29 states still have no corresponding law on the 
+books. Out of pocket expenses for contraception can be costly. Women of 
+reproductive age currently spend 68 percent more in out-of-pocket 
+health care costs than men, much of which is due to reproductive 
+health-related supplies and services.
+
+[[Page E260]]
+
+  The Prevention First Act requires that private health plans to cover 
+FDA-approved prescription contraceptives and related medical services.
+  Madam Speaker, it is critical in any discussion of reproductive 
+rights to devote time to teenagers, who face the consequences of so 
+many of these issues more acutely than other age groups. Teens face 
+additional barriers regarding access to services and information. Sixty 
+percent of teens have sex before graduating high school. Those who 
+receive comprehensive sexuality education that includes discussion of 
+contraception as well as abstinence are more likely than those who 
+receive abstinence-only messages to delay sex, to have fewer partners, 
+and to use contraceptives when they do become sexually active. Efforts 
+by conservatives to restrict access to family planning services and 
+promote abstinence-only education programs--which are prohibited from 
+discussing the benefits of contraception--actually jeopardize 
+adolescent health and run counter to the views of many mainstream 
+medical groups.
+  Nearly 50 percent of new cases of STDs occur among people ages 15 to 
+24, even though this age bracket makes up just a quarter of the 
+sexually active population. Clearly, teens have the most to lose when 
+faced with an unintended pregnancy or an STD infection.
+  Moreover, 1 in 3 girls becomes pregnant before the age of 20, and 80 
+percent of these pregnancies are unintended. Teen mothers are less 
+likely to complete high school. Children of teenage mothers have lower 
+birth weights, are more likely to perform poorly in school, and are at 
+greater risk of abuse and neglect. Improving access to contraceptive 
+services and information does not cause non-sexually active teens to 
+start having sex. Instead, teens need information to help them both 
+postpone sexual activity and to protect themselves if they do become 
+sexually active. A November 2006 study of declining pregnancy rates 
+among teens concluded that the reduction in teen pregnancy between 1995 
+and 2002 is primarily the result of increased use of contraceptives.
+  The Prevention First Act provides funding to public and private 
+entities to establish or expand their teenage pregnancy prevention 
+programs. This bill also provides for comprehensive, medically accurate 
+sex education programs that teach young people about abstinence, 
+health, and contraceptives. Moreover, this bill requires federally 
+funded programs that provide information on the use of contraceptives 
+to ensure that the information is medically accurate and includes 
+health benefits and failure rates.
+  Madam Speaker, virtually everyone can agree that reducing unintended 
+pregnancies, lowering STD infection rates, and promoting the health of 
+all women and their children, regardless of their economic or social 
+situation, are important public health goals. It should come as no 
+surprise that the Centers for Disease Control and Prevention included 
+family planning in their published list of the ``Ten Great Public 
+Health Achievements in the 20th Century.'' My bill, the Prevention 
+First Act, will improve access to family planning services for women in 
+need throughout America, and will go a long way toward fulfilling the 
+promise of this important public health achievement.
+  Madam Speaker, I urge every Member to stand with the women of our 
+country and to support this important bill.
+
+                          ____________________
+```
