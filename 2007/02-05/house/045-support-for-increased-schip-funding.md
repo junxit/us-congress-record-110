@@ -1,0 +1,54 @@
+---
+granule: CRECB-2007-pt3-Pg3084
+date: 2007-02-05
+edition: CRECB
+section: HOUSE
+page: 3084
+---
+
+# SUPPORT FOR INCREASED SCHIP FUNDING
+
+```
+                  SUPPORT FOR INCREASED SCHIP FUNDING
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from Georgia (Mr. Johnson) is recognized for 5 minutes.
+  Mr. JOHNSON of Georgia. Madam Speaker, today I rise to call upon this 
+Congress to assist States facing overwhelming shortfalls in funding 
+their State health insurance programs.
+  In 1997, Congress created the SCHIP programs to help States provide 
+health care coverage to the growing number of uninsured children 
+throughout the United States. Ten years later, more than 6 million 
+children have been enrolled in this program. They are going for annual 
+check-ups to the doctor, and they are getting their prescription 
+medications that they need. And they are also receiving care when they 
+are extremely sick.
+  Unfortunately, Madam Speaker, this program's success is threatened by 
+inadequate funding, and hundreds of thousands of these children stand 
+to lose this health care coverage they have grown to rely upon.
+  Federal funding has failed to keep up with the program's expanding 
+enrollment. An inefficient allocation of these funds means some States 
+are sitting on more than $1 billion of SCHIP funding, while 14 States, 
+including my own State of Georgia, face severe shortfalls on the order 
+of hundreds of millions of dollars.
+  This inadequate funding has forced some States to consider stopping 
+all SCHIP medical services. Without help from the Congress, Congress 
+will be unable to continue to provide health care for the 300,000 
+children enrolled in its Peachcare SCHIP program. Without increased 
+Federal funding, these children will no longer receive their 
+immunizations. They will no longer get their teeth cleaned, or their 
+eyesight checked. And worse still, they will not be able to afford 
+emergency room care in the event of a tragedy.
+  Madam Speaker, terminating coverage for these children would lead 
+this country further away from decreasing the number of uninsured 
+children in the United States. Congress must act expediently to 
+allocate Federal funding to those States facing SCHIP shortfalls. It 
+must reauthorize the program to ensure that all six million enrolled 
+children continue to receive health care.
+  It must increase Federal funding so that more uninsured children can 
+be enrolled in this program and get the health care that they deserve. 
+I look forward to working with my colleagues from Georgia and other 
+affected States to rectify this increasingly dire situation.
+
+                          ____________________
+```
