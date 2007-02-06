@@ -1,0 +1,46 @@
+---
+granule: CREC-2007-02-06-pt1-PgH1217-3
+date: 2007-02-06
+edition: CREC
+section: HOUSE
+page: H1217
+citation: 153 Cong. Rec. H1217
+---
+
+# GO RED FOR WOMEN DAY AND THE AMERICAN HEART ASSOCIATION
+
+**Speaking:** Capito, Shelley Moore (C001047) [R-WV]
+
+```
+        GO RED FOR WOMEN DAY AND THE AMERICAN HEART ASSOCIATION
+
+  (Mrs. CAPITO asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Mrs. CAPITO. Mr. Speaker, I rise today to recognize February as 
+National Heart Month. Heart disease is the number one killer of women 
+in America, taking the lives of nearly half a million women a year. 
+That is one per minute.
+  It claims the lives of more women than the next five causes of death. 
+In my home State of West Virginia, heart disease kills 12 women per 
+day. That is 31 percent of all female deaths between the years of 1999 
+to 2003.
+  On February 2, people from across the Nation participated in Go Red 
+for Women Day to support the fight against heart disease. Go Red for 
+Women is the American Heart Association's nationwide movement that 
+celebrates the energy, passion and power we have as women to band 
+together and fight this disease.
+  Too few people realize the threat associated with heart disease. The 
+good news is that heart disease can largely be prevented. By learning 
+all of the serious health threats such as high blood pressure, high 
+cholesterol, diabetes, obesity, we can work to reduce our risks.
+  Go Red for Women is an innovative way to raise awareness of heart 
+disease, and 64 percent of women who died of coronary heart disease had 
+no symptoms. We have to take action for our hearts. By joining together 
+across America, we can help support ongoing research and education 
+about women and heart disease. When we wear our red, it reminds us of 
+our responsibility.
+  I urge my colleagues to join together in celebrating National Heart 
+Health Month.
+
+                          ____________________
+```

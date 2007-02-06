@@ -1,0 +1,38 @@
+---
+granule: CREC-2007-02-06-pt1-PgH1217-5
+date: 2007-02-06
+edition: CREC
+section: HOUSE
+page: H1217
+citation: 153 Cong. Rec. H1217
+---
+
+# LENAWEE COUNTY, ONE OF THE 100 BEST COMMUNITIES FOR YOUNG PEOPLE
+
+**Speaking:** Walberg, Tim (W000798) [R-MI]
+
+```
+    LENAWEE COUNTY, ONE OF THE 100 BEST COMMUNITIES FOR YOUNG PEOPLE
+
+  (Mr. WALBERG asked and was given permission to address the House for 
+1 minute.)
+  Mr. WALBERG. Mr. Speaker, I come before the House today to draw 
+attention to an honor recently received by my home community back in 
+Lenawee County, Michigan. America's Promise--The Alliance for Youth, a 
+foundation formed in 1997 to help children and youth from all 
+socioeconomic sectors in the United States, recently named Lenawee 
+County one of the 100 best communities for young people as part of its 
+10-year anniversary celebration.
+  The criteria for winning included strong community support of 
+children and youth, possessing valuable resources for children and 
+youth, youth and child outcomes, overall progress within communities, 
+and innovations in the areas of policy, practice, and resources.
+  Communities in 38 States received this award and Lenawee County is 
+one of the five communities in the Great Lakes State to be named a 
+winner. This recognition is a tribute to all of the police officers, 
+local officials, firefighters, outstanding teachers, community leaders 
+and civil servants that make Lenawee County and south-central Michigan 
+a great place to live.
+
+                          ____________________
+```

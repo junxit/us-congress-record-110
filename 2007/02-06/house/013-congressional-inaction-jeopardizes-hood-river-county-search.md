@@ -1,0 +1,45 @@
+---
+granule: CREC-2007-02-06-pt1-PgH1215
+date: 2007-02-06
+edition: CREC
+section: HOUSE
+page: H1215
+citation: 153 Cong. Rec. H1215
+---
+
+# CONGRESSIONAL INACTION JEOPARDIZES HOOD RIVER COUNTY SEARCH AND RESCUE
+
+**Speaking:** Walden, Greg (W000791) [R-OR]
+
+**Measures:** H.R. 17
+
+```
+ CONGRESSIONAL INACTION JEOPARDIZES HOOD RIVER COUNTY SEARCH AND RESCUE
+
+  (Mr. WALDEN of Oregon asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. WALDEN of Oregon. Mr. Speaker, the failure of Congress to 
+reauthorize the Secure Rural Schools and Community Self-Determination 
+Act amounts to a breach of faith to the almost 600 forested counties 
+across America and 4,400 school districts.
+  Hood River County, Oregon, is my home and hosts two of Oregon's 
+icons: Mount Hood and the powerful Columbia River, both attractions for 
+outdoor recreation and the dangers that come with it. Surely you 
+remember the December search for the mountain climbers lost on Mount 
+Hood? This event unfolded just miles from my home.
+  The county paid for this rescue and recovery effort entirely with 
+county payment funds. This included the airplanes, snowcats and 
+equipment for volunteers, radios and medical supplies.
+  County Sheriff Joe Vampler says, ``We will do search and rescue on 
+Federal lands and waterways no matter what but the Nation must share 
+this cost.''
+  County payments also fund many other vital services like the County 
+Health Department's vaccination program for children.
+  County Commission Chair Ron Rivers says, ``The loss of these funds 
+will have a significant impact on all services, including those 
+provided to protect our most vulnerable citizens.''
+  Congress must keep the Federal Government's word to timbered 
+communities and pass H.R. 17. Time is running out.
+
+                          ____________________
+```

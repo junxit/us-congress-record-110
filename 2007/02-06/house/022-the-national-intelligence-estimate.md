@@ -1,0 +1,39 @@
+---
+granule: CREC-2007-02-06-pt1-PgH1216-4
+date: 2007-02-06
+edition: CREC
+section: HOUSE
+page: H1216
+citation: 153 Cong. Rec. H1216
+---
+
+# THE NATIONAL INTELLIGENCE ESTIMATE
+
+**Speaking:** Hare, Phil (H001040) [D-IL]
+
+```
+                   THE NATIONAL INTELLIGENCE ESTIMATE
+
+  (Mr. HARE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. HARE. Mr. Speaker, no one can deny that the situation on the 
+ground in Iraq is grave and rapidly deteriorating and therefore 
+deserves the immediate and undivided attention of this Congress.
+  Last week, the National Intelligence Estimate released a pessimistic 
+outlook on the future of Operation Iraqi Freedom. The NIE offers no 
+hope that under the likeliest of scenarios the level of violence in 
+Iraq will be significantly reduced between the next 12 to 18 months.
+  Additionally, the Iraq Study Group has identified the increase of 
+sectarian violence in Iraq as a principal challenge to stability in the 
+Middle East. In light of the current situation, a military approach is 
+no longer a viable solution to stabilizing Iraq. Our success in Iraq is 
+dependent upon a forward change in direction, which involves input of 
+Iraq's neighbors and the entire international community.
+  Through political and diplomatic engagement we have a serious chance 
+of reducing sectarian tensions, bringing our troops home, and 
+ultimately declaring victory in Iraq. I urge my colleagues in both 
+Houses to put aside partisan differences and honestly debate our 
+strategy in Iraq.
+
+                          ____________________
+```
