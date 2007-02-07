@@ -1,0 +1,106 @@
+---
+granule: CREC-2007-02-07-pt1-PgH1345-2
+date: 2007-02-07
+edition: CREC
+section: HOUSE
+page: H1345
+citation: 153 Cong. Rec. H1345
+---
+
+# Text of House Amendment 1
+
+**Speaking:** Rogers, Mike J. (R000572) [R-MI]
+
+**Measures:** H.R. 547
+
+```
+H.R. 547
+
+                   Offered By: Mr. Rogers of Michigan
+
+       Amendment No. 1: Redesignate section 6 as section 7 and 
+     insert after section 5 the following:
+
+     SEC. 6. ENERGY SECURITY FUND AND ALTERNATIVE FUEL GRANT 
+                   PROGRAM.
+
+       (a) Establishment of Fund.--
+       (1) In general.--There is established in the Treasury a 
+     fund, to be known as the ``Energy Security Fund'' (referred 
+     to in this section as the ``Fund''), consisting of--
+       (A) amounts transferred to the Fund under paragraph (2); 
+     and
+       (B) amounts credited to the Fund under paragraph (3)(C).
+       (2) Transfers to fund.--For fiscal year 2008 and each 
+     fiscal year thereafter, the Secretary of the Treasury, 
+     subject to the availability of appropriations, shall transfer 
+     to the Fund an amount determined by the Secretary of the 
+     Treasury to be equal to 50 percent of the total amount 
+     deposited in the general fund of the Treasury during the 
+     preceding fiscal year from fines, penalties, and other funds 
+     obtained through enforcement actions conducted pursuant to 
+     section 32912 of title 49, United States Code (including 
+     funds obtained under consent decrees).
+       (3) Investment of amounts.--
+       (A) In general.--The Secretary of the Treasury shall invest 
+     in interest-bearing obligations of the United States such 
+     portion of the Fund as is not, in the judgment of the 
+     Secretary of the Treasury, required to meet current 
+     withdrawals.
+       (B) Sale of obligations.--Any obligation acquired by the 
+     Fund may be sold by the Secretary of the Treasury at the 
+     market price.
+       (C) Credits to fund.--The interest on, and the proceeds 
+     from the sale or redemption of, any obligations held in the 
+     Fund shall be credited to, and form a part of, the Fund in 
+     accordance with section 9602 of the Internal Revenue Code of 
+     1986.
+       (4) Use of amounts in fund.--Amounts in the Fund shall be 
+     made available to the Secretary of Energy, subject to the 
+     availability of appropriations, to carry out the grant 
+     program under subsection (b).
+       (b) Alternative Fuels Grant Program.--
+       (1) In general.--Not later than 90 days after the date of 
+     enactment of this Act, the Secretary of Energy, acting 
+     through the Clean Cities Program of the Department of Energy, 
+     shall establish and carry out a program under which the 
+     Secretary shall provide grants to expand the availability to 
+     consumers of alternative fuels (as defined in section 
+     32901(a) of title 49, United States Code).
+       (2) Eligibility.--
+       (A) In general.--Except as provided in subparagraph (B), 
+     any entity that is eligible to receive assistance under the 
+     Clean Cities Program shall be eligible to receive a grant 
+     under this subsection.
+       (B) Exceptions.--
+       (i) Certain oil companies.--A large, vertically-integrated 
+     oil company shall not be eligible to receive a grant under 
+     this subsection.
+       (ii) Prohibition of dual benefits.--An entity that receives 
+     any other Federal funds for the construction or expansion of 
+     alternative refueling infrastructure shall not be eligible to 
+     receive a grant under this subsection for the construction or 
+     expansion of the same alternative refueling infrastructure.
+       (C) Ensuring compliance.--Not later than 30 days after the 
+     date of enactment of this Act, the Secretary of Energy shall 
+     promulgate regulations to ensure that, before receiving a 
+     grant under this subsection, an eligible entity meets 
+     applicable standards relating to the installation, 
+     construction, and expansion of infrastructure necessary to 
+     increase the availability to consumers of alternative fuels 
+     (as defined in section 32901(a) of title 49, United States 
+     Code).
+       (3) Maximum amount.--
+       (A) Grants.--The amount of a grant provided under this 
+     subsection shall not exceed $30,000.
+       (B) Amount per station.--An eligible entity shall receive 
+     not more than $90,000 under this subsection for any station 
+     of the eligible entity during a fiscal year.
+       (4) Use of funds.--
+       (A) In general.--A grant provided under this subsection 
+     shall be used for the construction or expansion of 
+     alternative fueling infrastructure.
+       (B) Administrative expenses.--Not more than 3 percent of 
+     the amount of a grant provided under this subsection shall be 
+     used for administrative expenses.
+```
