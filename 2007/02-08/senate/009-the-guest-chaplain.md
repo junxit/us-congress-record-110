@@ -1,0 +1,51 @@
+---
+granule: CREC-2007-02-08-pt1-PgS1731-8
+date: 2007-02-08
+edition: CREC
+section: SENATE
+page: S1731
+citation: 153 Cong. Rec. S1731
+---
+
+# THE GUEST CHAPLAIN
+
+**Speaking:** Isakson, Johnny (I000055) [R-GA]
+
+```
+                           THE GUEST CHAPLAIN
+
+  Mr. ISAKSON. Mr. President, I pause for a moment to pay tribute and 
+welcome Rev. Henry Holley, our Chaplain of the day. It is a special 
+occasion for me because this is personal. I have known Henry Holley for 
+30 years, his beautiful wife Betty and his daughter Debbie, who are 
+with us today. I have known him in many ways. I would like the Senate 
+to know, first of all, that this is a U.S. marine. For 22 years, he 
+served the United States of America in the Marine Corps and retired in 
+1966, upon which time he joined the Billy Graham organization and for 
+the last 40 years has traveled 12 million miles to countries around the 
+world. He leads now the Graham evangelical organization throughout the 
+Pacific rim. His reach is so important that it is countless millions of 
+people. One evening in
+
+[[Page S1732]]
+
+1990, in Hong Kong, Dr. Henry Holley and Dr. Graham preached the Gospel 
+to more than 100,000 people in Asia.
+  But he has a special reach. He has a reach around the corner and 
+around the world. Just about any Tuesday, Wednesday or Thursday in 
+Marietta, GA, at the Caribou Coffeehouse, which has been renamed the 
+Caribou Cathedral, Henry holds court with countless individuals in our 
+community, celebrating the joy of our life and the belief of his faith. 
+And this Friday or Saturday he takes off again on his third trip, third 
+trip to Korea and to China--this year. He will travel, before this year 
+is out, probably a quarter of a million miles to countries around the 
+world. He probably knows more leaders of business and politics, of 
+Government and of religion than any single individual in the United 
+States of America.
+
+  It is an honor and a privilege for me to introduce him to the Senate, 
+but it is a greater privilege to know him as a friend, a pastor, and a 
+mentor.
+
+                          ____________________
+```

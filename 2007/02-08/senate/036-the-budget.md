@@ -1,0 +1,71 @@
+---
+granule: CREC-2007-02-08-pt1-PgS1771
+date: 2007-02-08
+edition: CREC
+section: SENATE
+page: S1771
+citation: 153 Cong. Rec. S1771
+---
+
+# THE BUDGET
+
+**Speaking:** Alexander, Lamar (A000360) [R-TN]
+
+```
+                               THE BUDGET
+
+  Mr. ALEXANDER. Mr. President, no Member of the Senate has more 
+experience in various levels of government than the Senator from Ohio, 
+Senator Voinovich, who just spoke. He was a commissioner, a mayor, a 
+lieutenant Governor, a Governor, and a Senator. Since he has come here, 
+no Senator has spent more time on the drudgery--some Senators would 
+say--of understanding the operations of government, how the budget 
+decisions we make affect different parts of the Federal Government, 
+different parts of society, the State and local governments, and how 
+the civil service system works, how employees are fairly treated. I 
+salute the Senator for his work.
+  I think we ought to hear him carefully when he reminds us of one of 
+the most obvious solutions to that problem, the 2-year budget. That 
+idea has broad support in this Chamber, and it is a very simple idea. 
+It says we will make our budget every 2 years. If we have to make 
+adjustments in the odd year, we can do that. We already do that from 
+time to time, but then in the intervening year, we would have plenty of 
+time to look over our programs, make sure they work, and perhaps repeal 
+some of them and add some better ones and check the stacks of 
+regulations. If you look at all of the regulations that small colleges 
+in Ohio and Tennessee have to wade through every year, that stack is 
+very high. I brought them down on the floor one time. Surely, we can 
+get rid of those. On both sides of the aisle we would like to do that. 
+Our process doesn't appear that way. As our Republican whip sometimes 
+says, process is often substance in the Senate, and a 2-year budget 
+would be a force for orderliness, a force for review of programs; it 
+would cause us to repeal and change and revise laws.
+  We have plenty of forces for adding laws or spending more money. We 
+need forces for review and repeal. The people around America who elect 
+us and depend upon us to provide the funds we provide in an orderly 
+flow could then make their plans and spend the money more wisely. The 
+example the Senator from Ohio gave is a good one, about the Nuclear 
+Regulatory Commission. On this floor, what do we hear more often than 
+anything else now? We hear let's stop the dependence upon foreign oil 
+or at least let's reduce it, and let's deal with global warming.
+  How do we do that? There are lots of different ways to try to do 
+that, but in a country such as ours that produces and uses 25 percent 
+of all of the energy in the world, we don't have many ways to produce 
+large amounts of carbon-free energy; 70 percent of our carbon-free 
+energy comes from nuclear power in the United States. So when we slow 
+down the processing applications for new nuclear power plants--a 
+process we invented, which our Navy used without incident since the 
+1950s, a process
+
+[[Page S1772]]
+
+which France uses to produce 80 percent of its power--so when we slow 
+ourselves down, we are delaying urgent action on global warming and on 
+dealing with our dependence upon foreign oil.
+  That was a very good example the Senator used. I salute his interest 
+and his call for a biennial budget, a 2-year budget, and his focus on 
+the practical problems our failure to deal with appropriations bills on 
+time cause, and it can be shared all around the room.
+
+                          ____________________
+```

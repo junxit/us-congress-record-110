@@ -1,0 +1,43 @@
+---
+granule: CREC-2007-02-08-pt1-PgS1776-2
+date: 2007-02-08
+edition: CREC
+section: SENATE
+page: S1776
+citation: 153 Cong. Rec. S1776
+---
+
+# HONORING OUR ARMED FORCES
+
+**Speaking:** Hagel, Chuck (H001028) [R-NE]
+
+```
+                       HONORING OUR ARMED FORCES
+
+
+                         sergeant randy matheny
+
+  Mr. HAGEL. Mr. President, I rise to express my sympathy over the loss 
+of United States Army National Guard SGT Randy Matheny of Nebraska. 
+Sergeant Matheny was killed in Baghdad when an improvised explosive 
+device detonated next to the vehicle he was in. He was 20 years old.
+  Sergeant Matheny was part of a close-knit family in McCook, NE. A 
+2004 graduate of McCook High School, Sergeant Matheny is remembered as 
+a quiet but likable young man who enjoyed learning about auto 
+technology and computers.
+  Following in the footsteps of two older siblings, he joined the Army 
+in March, 2005 as a heavy-vehicle driver. His sister, Karen, is 
+currently serving her second tour with the Army National Guard in Iraq. 
+His brother, Paul, is a private first class in the regular Army. 
+Sergeant Matheny had been serving in Iraq with the 1074th 
+Transportation Company since early fall. We're proud of Sergeant 
+Matheny's service to our country as well as the service of thousands of 
+brave Americans who are currently serving in Iraq.
+  In addition to his brother and sister, Sergeant Matheny is survived 
+by his father Gary Matheny; his mother Jan Collins, and her husband 
+Duane Collins; and stepsisters Kori Collins and Laci Ingels.
+  I ask my colleagues to join me and all Americans in honoring Sergeant 
+Randy Matheny.
+
+                          ____________________
+```

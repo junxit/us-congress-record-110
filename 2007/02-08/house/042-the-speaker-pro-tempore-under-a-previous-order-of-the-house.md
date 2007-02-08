@@ -1,0 +1,20 @@
+---
+granule: CREC-2007-02-08-pt1-PgH1401-2
+date: 2007-02-08
+edition: CREC
+section: HOUSE
+page: H1401
+citation: 153 Cong. Rec. H1401
+---
+
+# The SPEAKER pro tempore. Under a previous order of the House, the gentleman from California (Mr. George Miller) is recognized for 5 minutes.
+
+```
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from California (Mr. George Miller) is recognized for 5 
+minutes.
+  (Mr. GEORGE MILLER addressed the House. His remarks will appear 
+hereafter in the Extensions of Remarks.)
+
+                          ____________________
+```

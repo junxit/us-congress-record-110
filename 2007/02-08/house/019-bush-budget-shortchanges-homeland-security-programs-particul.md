@@ -1,0 +1,43 @@
+---
+granule: CREC-2007-02-08-pt1-PgH1349-2
+date: 2007-02-08
+edition: CREC
+section: HOUSE
+page: H1349
+citation: 153 Cong. Rec. H1349
+---
+
+# BUSH BUDGET SHORTCHANGES HOMELAND SECURITY PROGRAMS--PARTICULARLY FIRST RESPONDERS
+
+**Speaking:** Wilson, Charles A. (W000801) [D-OH]
+
+```
+                              {time}  1015
+BUSH BUDGET SHORTCHANGES HOMELAND SECURITY PROGRAMS--PARTICULARLY FIRST 
+                               RESPONDERS
+
+  (Mr. WILSON of Ohio asked and was given permission to address the 
+House for 1 minute.)
+  Mr. WILSON of Ohio. Mr. Speaker, on Monday, President Bush sent 
+Congress a budget for 2008 for the fiscal year that continues the 
+misguided priorities of this administration. Last November, the 
+American people rejected the status quo, saying that we can do better. 
+It is time for a change, it is a time for a change in direction.
+  Unfortunately, the President's budget is more of the same. His budget 
+for the Department of Homeland Security is only 1 percent more than it 
+was in 2007. This is a modest increase for a department that is charged 
+with such a critical mission and has yet to meet the goals of 
+protecting our country.
+  Particularly disappointing is the President's request for programs to 
+support first responders. The President has reduced the preparedness 
+and training by 33 percent. The firefighters' grants would be reduced 
+by 55 percent. State and local law enforcement grants would also 
+undergo cuts, depriving our communities of critical support when they 
+need it most after 9/11.
+  Mr. Speaker, House Democrats are serious about ensuring that our 
+local police departments and our firefighters have the equipment they 
+need to better protect our communities. The President's budget must be 
+rejected.
+
+                          ____________________
+```

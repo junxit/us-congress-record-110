@@ -1,0 +1,22 @@
+---
+granule: CREC-2007-02-08-pt1-PgS1809-6
+date: 2007-02-08
+edition: CREC
+section: SENATE
+page: S1809
+citation: 153 Cong. Rec. S1809
+---
+
+# Text of Senate Amendment 240
+
+**Speaking:** Reid, Harry (R000146) [D-NV]
+
+```
+  SA 240. Mr. REID proposed an amendment to amendment SA 239 proposed 
+by Mr. Reid to the joint resolution H.J. Res. 20, making further 
+continuing appropriations for the fiscal year 2007, and for other 
+purposes; as follows:
+
+       In the amendment strike 5 and insert 4.
+                                 ______
+```
