@@ -1,0 +1,34 @@
+---
+granule: CRECB-2007-pt3-Pg3708-3
+date: 2007-02-12
+edition: CRECB
+section: HOUSE
+page: 3708
+---
+
+# PROCESS IN THE HOUSE OF REPRESENTATIVES
+
+```
+                PROCESS IN THE HOUSE OF REPRESENTATIVES
+
+  (Mr. ISSA asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. ISSA. Mr. Speaker, it is not good to talk process in the House of 
+Representatives. I keep hearing that. But when the process that you are 
+talking about is the execution of our right in a democratic society to 
+speak and make a difference, then it is necessary to speak on process.
+  Mr. Speaker, this week we will spend 4 days on the Iraq resolution. I 
+say ``the'' Iraq resolution because it has already been crafted by 
+Speaker Pelosi; it already is a final product. The only thing left to 
+do is in fact to vote on it because we will not be allowed to amend it; 
+the rule will be a closed rule. Democracy and speech and debate will 
+not in fact change anything. The final vote will be exactly at the end 
+of the week where it was at the beginning. That is wrong. Republicans 
+never did that when we held the Speaker's gavel. Democrats should not 
+do that as they hold the Speaker's gavel.
+  The right to amend and the right to debate that leads to a better 
+bill is a right of this democracy, and this body has been reduced by 
+the taking of that right.
+
+                          ____________________
+```
