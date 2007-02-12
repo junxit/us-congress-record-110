@@ -1,0 +1,483 @@
+---
+granule: CREC-2007-02-12-pt1-PgH1448
+date: 2007-02-12
+edition: CREC
+section: HOUSE
+page: H1448
+citation: 153 Cong. Rec. H1448
+---
+
+# HONORING AND PRAISING THE NAACP ON THE OCCASION OF ITS 98TH ANNIVERSARY
+
+**Measures:** H.Con.Res. 44
+
+```
+HONORING AND PRAISING THE NAACP ON THE OCCASION OF ITS 98TH ANNIVERSARY
+
+  The SPEAKER pro tempore. The pending business is the question of 
+suspending the rules and agreeing to the concurrent resolution, H. Con. 
+Res. 44.
+  The Clerk read the title of the concurrent resolution.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from California (Mr. Berman) that the House suspend the rules 
+and agree to the concurrent resolution, H. Con. Res. 44, on which the 
+yeas and nays are ordered.
+  This will be a 5-minute vote.
+  The vote was taken by electronic device, and there were--yeas 410, 
+nays 0, not voting 24, as follows:
+
+                             [Roll No. 94]
+
+                               YEAS--410
+
+     Abercrombie
+     Ackerman
+     Aderholt
+     Akin
+     Alexander
+     Allen
+     Altmire
+     Andrews
+     Arcuri
+     Baca
+     Bachmann
+     Bachus
+     Baird
+     Baker
+     Baldwin
+     Barrett (SC)
+     Barrow
+     Bartlett (MD)
+     Barton (TX)
+     Bean
+     Becerra
+     Berkley
+     Berman
+     Berry
+     Biggert
+     Bilbray
+     Bilirakis
+     Bishop (GA)
+     Bishop (NY)
+     Bishop (UT)
+     Blackburn
+     Blumenauer
+     Blunt
+     Boehner
+     Bonner
+     Bono
+     Boozman
+     Boren
+     Boswell
+     Boucher
+     Boustany
+     Boyd (FL)
+     Boyda (KS)
+     Brady (PA)
+     Brady (TX)
+     Braley (IA)
+     Brown (SC)
+     Brown, Corrine
+     Brown-Waite, Ginny
+     Buchanan
+     Burgess
+     Burton (IN)
+     Butterfield
+     Buyer
+     Calvert
+     Camp (MI)
+     Campbell (CA)
+     Cannon
+     Cantor
+     Capito
+     Capps
+     Capuano
+     Cardoza
+     Carnahan
+     Carney
+     Carson
+     Carter
+     Castle
+     Castor
+     Chabot
+     Chandler
+     Clarke
+     Clay
+     Cleaver
+     Clyburn
+     Coble
+     Cohen
+     Cole (OK)
+     Conaway
+     Conyers
+     Cooper
+     Costa
+     Costello
+     Courtney
+     Crenshaw
+     Crowley
+     Cubin
+     Cuellar
+     Culberson
+     Cummings
+     Davis (AL)
+     Davis (CA)
+     Davis (IL)
+     Davis (KY)
+     Davis, Lincoln
+     Davis, Tom
+     Deal (GA)
+     DeFazio
+     DeGette
+     Delahunt
+     DeLauro
+     Dent
+     Diaz-Balart, L.
+     Diaz-Balart, M.
+     Dicks
+     Dingell
+     Doggett
+     Donnelly
+     Doyle
+     Drake
+     Dreier
+     Duncan
+     Ehlers
+     Ellsworth
+     Emanuel
+     Emerson
+     Engel
+     English (PA)
+     Eshoo
+     Etheridge
+     Everett
+     Fallin
+     Farr
+     Fattah
+     Feeney
+     Filner
+     Flake
+     Forbes
+     Fortenberry
+     Fossella
+     Foxx
+     Frank (MA)
+     Franks (AZ)
+     Frelinghuysen
+     Gallegly
+     Garrett (NJ)
+     Gerlach
+     Giffords
+     Gilchrest
+     Gillibrand
+     Gillmor
+     Gingrey
+     Gohmert
+     Gonzalez
+     Goode
+     Goodlatte
+     Gordon
+     Granger
+     Graves
+     Green, Al
+     Green, Gene
+     Grijalva
+     Hall (NY)
+     Hall (TX)
+     Hare
+     Harman
+     Hastings (FL)
+     Hastings (WA)
+     Hayes
+     Heller
+     Hensarling
+     Herseth
+     Higgins
+     Hill
+     Hinojosa
+     Hirono
+     Hobson
+     Hodes
+     Holden
+     Holt
+     Honda
+     Hooley
+     Hoyer
+     Hulshof
+     Hunter
+     Inglis (SC)
+     Inslee
+     Israel
+     Issa
+     Jackson (IL)
+     Jackson-Lee (TX)
+     Jefferson
+     Jindal
+     Johnson (GA)
+     Johnson, Sam
+     Jones (NC)
+     Jones (OH)
+     Jordan
+     Kanjorski
+     Kaptur
+     Keller
+     Kennedy
+     Kildee
+     Kilpatrick
+     Kind
+     King (IA)
+     King (NY)
+     Kingston
+     Kirk
+     Klein (FL)
+     Kline (MN)
+     Knollenberg
+     Kucinich
+     Kuhl (NY)
+     LaHood
+     Lamborn
+     Lampson
+     Langevin
+     Lantos
+     Larsen (WA)
+     Larson (CT)
+     Latham
+     LaTourette
+     Lee
+     Levin
+     Lewis (CA)
+     Lewis (GA)
+     Lewis (KY)
+     Linder
+     Lipinski
+     LoBiondo
+     Loebsack
+     Lofgren, Zoe
+     Lowey
+     Lucas
+     Lungren, Daniel E.
+     Lynch
+     Mack
+     Mahoney (FL)
+     Maloney (NY)
+     Manzullo
+     Marchant
+     Markey
+     Marshall
+     Matheson
+     Matsui
+     McCarthy (CA)
+     McCarthy (NY)
+     McCaul (TX)
+     McCollum (MN)
+     McCotter
+     McCrery
+     McDermott
+     McGovern
+     McHenry
+     McHugh
+     McIntyre
+     McMorris Rodgers
+     McNerney
+     McNulty
+     Meehan
+     Meek (FL)
+     Melancon
+     Mica
+     Michaud
+     Millender-McDonald
+     Miller (FL)
+     Miller (MI)
+     Miller (NC)
+     Miller, Gary
+     Miller, George
+     Mitchell
+     Mollohan
+     Moore (KS)
+     Moore (WI)
+     Moran (KS)
+     Moran (VA)
+     Murphy (CT)
+     Murphy, Patrick
+     Murphy, Tim
+     Musgrave
+     Myrick
+     Nadler
+     Napolitano
+     Neugebauer
+     Nunes
+     Oberstar
+     Obey
+     Olver
+     Ortiz
+     Pallone
+     Pascrell
+     Pastor
+     Paul
+     Payne
+     Pearce
+     Pence
+     Perlmutter
+     Peterson (MN)
+     Petri
+     Pickering
+     Pitts
+     Platts
+     Poe
+     Pomeroy
+     Porter
+     Price (GA)
+     Price (NC)
+     Pryce (OH)
+     Putnam
+     Radanovich
+     Rahall
+     Ramstad
+     Rangel
+     Regula
+     Rehberg
+     Reichert
+     Renzi
+     Reyes
+     Reynolds
+     Rodriguez
+     Rogers (AL)
+     Rogers (KY)
+     Rogers (MI)
+     Rohrabacher
+     Ros-Lehtinen
+     Roskam
+     Ross
+     Rothman
+     Roybal-Allard
+     Royce
+     Ruppersberger
+     Ryan (OH)
+     Ryan (WI)
+     Salazar
+     Sali
+     Sanchez, Linda T.
+     Sanchez, Loretta
+     Sarbanes
+     Saxton
+     Schakowsky
+     Schiff
+     Schmidt
+     Schwartz
+     Scott (VA)
+     Sensenbrenner
+     Serrano
+     Sessions
+     Sestak
+     Shadegg
+     Shays
+     Shea-Porter
+     Sherman
+     Shuler
+     Shuster
+     Simpson
+     Sires
+     Skelton
+     Slaughter
+     Smith (NE)
+     Smith (NJ)
+     Smith (TX)
+     Smith (WA)
+     Snyder
+     Solis
+     Souder
+     Space
+     Spratt
+     Stark
+     Stearns
+
+[[Page H1449]]
+
+
+     Stupak
+     Sullivan
+     Sutton
+     Tancredo
+     Tanner
+     Tauscher
+     Taylor
+     Terry
+     Thompson (CA)
+     Thompson (MS)
+     Thornberry
+     Tiahrt
+     Tiberi
+     Tierney
+     Towns
+     Turner
+     Udall (CO)
+     Udall (NM)
+     Upton
+     Van Hollen
+     Velazquez
+     Visclosky
+     Walberg
+     Walden (OR)
+     Walsh (NY)
+     Walz (MN)
+     Wamp
+     Wasserman Schultz
+     Waters
+     Watson
+     Watt
+     Waxman
+     Weiner
+     Welch (VT)
+     Weldon (FL)
+     Weller
+     Westmoreland
+     Wexler
+     Whitfield
+     Wicker
+     Wilson (NM)
+     Wilson (OH)
+     Wilson (SC)
+     Wolf
+     Woolsey
+     Wu
+     Wynn
+     Yarmuth
+     Young (AK)
+     Young (FL)
+
+                             NOT VOTING--24
+
+     Cramer
+     Davis, David
+     Davis, Jo Ann
+     Doolittle
+     Edwards
+     Ellison
+     Ferguson
+     Gutierrez
+     Hastert
+     Herger
+     Hinchey
+     Hoekstra
+     Johnson (IL)
+     Johnson, E. B.
+     Kagen
+     McKeon
+     Meeks (NY)
+     Murtha
+     Neal (MA)
+     Norwood
+     Peterson (PA)
+     Rush
+     Scott (GA)
+     Shimkus
+
+                              {time}  1905
+
+  So (two-thirds being in the affirmative) the rules were suspended and 
+the concurrent resolution was agreed to.
+  The result of the vote was announced as above recorded.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```
