@@ -1,0 +1,41 @@
+---
+granule: CREC-2007-02-13-pt1-PgH1477-6
+date: 2007-02-13
+edition: CREC
+section: HOUSE
+page: H1477
+citation: 153 Cong. Rec. H1477
+---
+
+# IRAQ RESOLUTION SUPPORTS OUR TROOPS BY OPPOSING THE PRESIDENT'S TROOP ESCALATION
+
+**Speaking:** Walz, Timothy J. (W000799) [D-MN]
+
+```
+ IRAQ RESOLUTION SUPPORTS OUR TROOPS BY OPPOSING THE PRESIDENT'S TROOP 
+                               ESCALATION
+
+  (Mr. WALZ of Minnesota asked and was given permission to address the 
+House for 1 minute.)
+  Mr. WALZ of Minnesota. Madam Speaker, this week the House will have 
+an opportunity to truly support our troops by having a substantial 
+debate here on the House floor about the President's latest proposal 
+for a troop escalation in Iraq. Some of my Republican colleagues will 
+say that such a debate undermines our troops' efforts in Iraq. Nothing 
+could be further from the truth.
+  How can this Congress stand on the sidelines when the President has 
+been told by his generals, by an independent commission created by the 
+old Republican Congress, by the American people, and by both Democrats 
+and Republicans in the new Congress that this plan will not work? How 
+can this Congress stand on the sidelines while our troops continue to 
+serve as referees in a situation that even our own intelligence 
+agencies say is worse than a civil war?
+  Madam Speaker, the resolution we will begin to debate today has the 
+well-being of our troops first. First and foremost, we support them. We 
+support them by saying enough is enough with the bad planning. The 
+President should not send more troops to Iraq for the simple reason 
+that it will not make any difference on a deteriorating situation on 
+the ground.
+
+                          ____________________
+```
