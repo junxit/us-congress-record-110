@@ -1,0 +1,41 @@
+---
+granule: CRECB-2007-pt3-Pg3842-2
+date: 2007-02-13
+edition: CRECB
+section: HOUSE
+page: 3842
+---
+
+# PERSONAL EXPLANATION
+
+```
+                          PERSONAL EXPLANATION
+
+  Mr. JOHNSON of Illinois. Mr. Speaker, unfortunately I was unable to 
+cast my votes on the following rollcall votes on February 13, 2007. Had 
+I been present to vote, I would have voted as follows:
+  On rollcall No. 95--On the Motion to Suspend the Rules and pass H. 
+Res. 122, Recognizing the significance of the 65th anniversary of the 
+signing of Executive Order 9066 by President Franklin D. Roosevelt and 
+supporting the goals of the Japanese American, German American, and 
+Italian American communities in a National Day of Remembrance, I would 
+have voted ``aye.''
+  On rollcall No. 96--On Ordering the Previous Question on H. Res. 157, 
+the Rule providing for consideration of H. Con. Res. 63, disapproving 
+of the decision of the President announced on January 10, 2007, to 
+deploy more than 20,000 additional United States combat troops to Iraq, 
+I would have voted ``nay.''
+  On rollcall No. 97--On Agreeing to H. Res. 157, the Rule providing 
+for consideration of H. Con. Res. 63, disapproving of the decision of 
+the President announced on January 10, 2007, to deploy more than 20,000 
+additional United States combat troops to Iraq, I would have voted 
+``nay.''
+  On rollcall No. 98--On the Motion to Suspend the Rules and pass H.R. 
+437, naming a
+
+[[Page 3843]]
+
+post office after Lino Perez, Jr., I would have voted ``aye.''
+
+                          ____________________
+```
