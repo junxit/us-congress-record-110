@@ -1,0 +1,38 @@
+---
+granule: CRECB-2007-pt3-Pg3989
+date: 2007-02-14
+edition: CRECB
+section: HOUSE
+page: 3989
+---
+
+# NONBINDING RESOLUTION IS NOT THE WAY TO GO
+
+```
+               NONBINDING RESOLUTION IS NOT THE WAY TO GO
+
+  (Mrs. BLACKBURN asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Mrs. BLACKBURN. Mr. Speaker, the war in Iraq is the front line in the 
+war on terror. We know this because the terrorists tell us it is so. In 
+poll after poll, the American people tell us they fully believe that 
+what happens on the front line in Iraq affects their security every 
+single day.
+  You know, the Democrats have every right to disagree with the 
+President's plan, but a nonbinding resolution is not the way to go. It 
+sends a message of no confidence and no support to our troops in the 
+field, weakening their morale while encouraging and emboldening the 
+enemy.
+  Our men and women in harm's way are fighting the insurgents and they 
+are fighting the battle of ideas every day, not only in Iraq but in 30 
+different countries around this globe. They know that what we have to 
+do is continue to win in that battle, and they don't have time to fight 
+the war of public opinion in this country, which is what some of my 
+colleagues in this House would seek to have them do.
+  The Democrats have no alternative plan; they have no way forward. I 
+welcome a responsible debate on this war, but let's make sure that we 
+keep the focus on encouraging our troops, freedom, prosperity and 
+ideas, and that we not encourage those who seek to do us harm.
+
+                          ____________________
+```

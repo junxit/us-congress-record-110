@@ -1,0 +1,1423 @@
+---
+granule: CRECB-2007-pt3-Pg4037
+date: 2007-02-14
+edition: CRECB
+section: HOUSE
+page: 4037
+---
+
+# EXPRESSING SORROW OF THE HOUSE AT THE DEATH OF THE HONORABLE CHARLIE NORWOOD, MEMBER OF CONGRESS FROM THE STATE OF GEORGIA
+
+```
+ EXPRESSING SORROW OF THE HOUSE AT THE DEATH OF THE HONORABLE CHARLIE 
+         NORWOOD, MEMBER OF CONGRESS FROM THE STATE OF GEORGIA
+
+  Mr. DEAL of Georgia. Mr. Speaker, I offer a privileged resolution (H. 
+Res. 159) and ask for its immediate consideration.
+  The Clerk read the resolution, as follows:
+
+                              H. Res. 159
+
+       Resolved, That the House has heard with profound sorrow of 
+     the death of the Honorable Charlie Norwood, a Representative 
+     from the State of Georgia.
+       Resolved, That a committee of such Members of the House as 
+     the Speaker may designate, together with such Members of the 
+     Senate as may be joined, be appointed to attend the funeral.
+       Resolved, That the Sergeant-at-Arms of the House be 
+     authorized and directed to take such steps as may be 
+     necessary for carrying out the provisions of these 
+     resolutions and that the necessary expenses in connection 
+     therewith be paid out of applicable accounts of the House.
+       Resolved, That the Clerk communicate these resolutions to 
+     the Senate and transmit a copy thereof to the family of the 
+     deceased.
+       Resolved, That when the House adjourns today, it adjourn as 
+     a further mark of respect to the memory of the deceased.
+
+  The SPEAKER pro tempore. The gentleman from Georgia (Mr. Deal) is 
+recognized for 1 hour.
+  Mr. DEAL of Georgia. Mr. Speaker, I yield 30 minutes of time to the 
+gentleman from Georgia (Mr. Lewis) and thank him for arranging for this 
+resolution to be heard at this time today.
+  Mr. Speaker, I yield myself 2 minutes.
+  Mr. Speaker, as we all know, we lost a true champion in the House of 
+Representatives on yesterday: Charles Norwood from Georgia. Charlie, as 
+he was known by most of us here, was truly a friend across party lines 
+and across State lines. He was a true patriot. He served in the dental 
+services in the U.S. Army in the combat zone of Vietnam.
+  He returned to a private dental practice in Georgia, and then in the 
+election cycle of 1994 was elected to this House of Representatives. He 
+came with a passion for many things. Health care was at the very top of 
+his list. Education was very shortly thereafter. And he worked on both 
+of those issues with all of his heart.
+  He inspired many people in this House because he was indeed 
+passionate about everything that he did. If he was your friend, you 
+knew he was your friend. If you were on the opposite side of an issue 
+from him, he let you know that as well, but he was still your friend.
+  All of us watched as we observed what had been diagnosed in 1998 as 
+an incurable disease. And following that diagnosis, he underwent lung 
+transplant surgery. That was a process that most of us probably would 
+have had great difficulty undergoing. But Charlie did it with courage. 
+He rebounded with the same kind of determination and willingness to go 
+forward in spite of the inconveniences that that brought to him.
+  We saw him with his oxygen tank, and we saw him on his little scooter 
+as he rode around the Capitol on his way over here and back and forth 
+to votes. Throughout it all, he maintained his good humor, he 
+maintained his zest for life. Charlie Norwood is someone who will truly 
+be missed.
+
+                              {time}  1640
+
+  Mr. LEWIS of Georgia. Mr. Speaker, I want to thank Mr. Deal and 
+members of the delegation for bringing this resolution before us as a 
+tribute to our fallen colleague, Mr. Norwood.
+  More than anything else, Congressman Norwood was a warrior. He fought 
+for his beliefs with passion and conviction, and he fought for the 
+people of his district and for the people of Georgia who loved him.
+  He was awarded two Bronze Stars for his bravery on behalf of our 
+Nation during the Vietnam war, and he fought courageously for patient 
+rights right here on the floor of the House of Representatives.
+  In fact, his last official act was to reintroduce the Patients' Bill 
+of Rights on Monday, a bill he coauthored with John Dingell. Charlie 
+Norwood, this good man, this son of Georgia, fought a good fight. He 
+was a warrior to the end.
+  The thoughts and prayers of all of the Members of Congress, and 
+especially the members of the Georgia delegation, are with his wife 
+Gloria and his two sons, Charles and Carlton, their family and his many 
+grandchildren. I hope they will find comfort in knowing that 
+Congressman Charlie Norwood made a lasting contribution not just to the 
+State of Georgia, but to the Nation and to all of us as Members of this 
+body. We are more than lucky, we are very blessed to have known him as 
+a friend and as a colleague. He will be deeply missed.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. DEAL of Georgia. Mr. Speaker, I would yield 3 minutes to our 
+Georgia colleague (Mr. Gingrey).
+  Mr. GINGREY. Mr. Speaker, Charlie Norwood was a very successful 
+dentist in my hometown of Augusta, Georgia. I didn't know Charlie at 
+that time because I had long since moved away.
+  But as a practicing physician in Marietta, Georgia, as an OB/GYN, 
+several years ago I went to the annual meeting of the Georgia OB/GYN 
+Society to hear Dr. Charlie Norwood talk about the Patients' Bill of 
+Rights. Physicians across Georgia and across this country were 
+concerned with managed care and HMOs and liability and that sort of 
+thing.
+  And, Mr. Speaker, when I heard Dr. Norwood speak to my colleagues, 
+physicians about this issue, and them, in turn, including myself, give 
+him a standing ovation, I want to tell you, Mr. Speaker, and I never 
+did tell Charlie this, but that was an inspiration to me to want to 
+some day have the opportunity, and thank God that I did, to follow in 
+that walk that he walked.
+  What a great Member of this body and what a fierce competitor and a 
+fair competitor, Mr. Speaker. As my colleague on the other side of the 
+aisle, the distinguished John Lewis, knows well, Charlie would fight 
+for something he believed in but in a very respectful way. And he 
+thought about others before himself.
+  An example, Mr. Speaker, is that just in this last election cycle, 
+when Charlie was suffering so much, as Representative Deal has just 
+mentioned, he didn't think about himself. He won his reelection with 67 
+percent of the vote. And it wasn't that he couldn't campaign because of 
+his illness. He was working all that time for another colleague in a 
+very competitive district. He was essentially running that other 
+campaign. That is the kind of guy Charlie Norwood was, and the kind of 
+fellow that we will all remember here on both sides of the aisle in 
+this great House of Representatives.
+  He was a friend, he was a colleague. He was a fighter. He was a 
+fighter for patients' rights. He was a fighter for
+
+[[Page 4038]]
+
+students, as his work on the Education and Workforce Committee, the 
+Energy and Commerce Committee, he is somebody that we can all emulate.
+  And I just want to say to his wife Gloria, to his two sons, Carlton 
+and Charles, Jr., and to the four grandchildren and to the Norwood 
+family, we are praying for you. We want to uplift you. We will be with 
+you tomorrow, but we know, as you do, that Charlie is in heaven right 
+now, and God has accepted him in open arms and saying, well done, my 
+good and faithful servant.
+  Mr. LEWIS of Georgia. Mr. Speaker, I yield 2 minutes to the gentleman 
+from Georgia (Mr. Scott).
+  Mr. SCOTT of Georgia. Mr. Speaker, to my distinguished colleagues 
+from Georgia and other Members of Congress who are here, this is indeed 
+a sad occasion.
+  Charlie Norwood led an extraordinary life. He was a combat veteran. 
+He was a dentist. He pulled himself up by his own bootstraps, truly a 
+son of the South, a son of Georgia.
+  He is a person that cared about all of the people of Georgia. Let me 
+give you an example, if I may. I remember when I was serving in the 
+Georgia legislature as a State senator, and we needed some help for the 
+Morehouse School of Medicine's National Primary Care Center. The person 
+that led the fight up here to secure the Federal dollars for the 
+Morehouse School of Medicine's Primary National Care Center was Charlie 
+Norwood. And we thank him for that.
+  Mr. Speaker, as I think of Charlie Norwood, and I think of so many of 
+the great debates and the battles that we have had up here that we have 
+shared, I am reminded of a great conversation that took place between 
+two great men, Abraham Lincoln and Robert E. Lee. It was at a time when 
+this Nation was going through its great Civil War and how to fix that. 
+That conversation went like this. Robert E. Lee said, it is not 
+incumbent upon us to complete the task. And Abraham Lincoln said, nor 
+are we free to desist from doing all we possibly can.
+  That was the essence of Charlie Norwood. We might not have to 
+complete this task, to make America a better place, but neither are we 
+free to desist from doing all we possibly can.
+  Charlie, we appreciate you. You fought the good fight. You stayed the 
+course. And for you, God has put up an extraordinary crown of 
+righteousness. We thank you, and we thank God for passing our way.
+  Mr. DEAL of Georgia. Mr. Speaker, I am pleased to yield 3 minutes to 
+my colleague from Georgia (Mr. Price).
+  Mr. PRICE of Georgia. Mr. Speaker, America, the State of Georgia and 
+this House of Representatives have lost a great public servant, an 
+uncommon leader, and a proud patriot.
+  I am profoundly saddened by the passing of Congressman Charlie 
+Norwood, a gentleman who selflessly served the people of Georgia and 
+this House for more than 12 years.
+  Charlie spent his entire life helping others as a soldier, as a 
+dentist, as a legislator. He served valiantly in the defense of our 
+Nation in the Medical Battalion of the 173rd Airborne Brigade in 
+Vietnam. He returned home to serve his community in Augusta as a 
+dentist. And for 12 years, he was a faithful servant to the people of 
+Georgia in his district as a Member of Congress.
+  In Congress he was a passionate supporter of our military and of our 
+veterans. He was a tireless advocate for patients and patient centered 
+health reform. And he never forgot for whom he was to work in 
+Washington, his constituents.
+  Congressman Norwood was a dear friend to me. His friendship and his 
+perspective and his guidance in this House are things that I will 
+always cherish. Anyone who knew Charlie knew that he was as tough as 
+they come and he always stood up for what he believed in. Rarely, 
+rarely in any walk of life are we privileged to come to know someone 
+who stood for his principles as strongly as Charlie Norwood. His legacy 
+in the House of Representatives will be one of integrity, one of vigor, 
+and one of loyalty.
+  Congressman Norwood's devotion to this body and to our country will 
+be sorely missed, but his legacy will never be forgotten. And I shall 
+never forget that wry smile and that twinkle in his eye. What a hero.
+  Mr. Speaker, I join my colleagues in expressing our deepest 
+sympathies to Charlie's wife Gloria, his family and his friends.
+
+                              {time}  1650
+
+  And while we mourn the loss of this great patriot, we celebrate his 
+lifetime of noble and heroic service and we thank God for giving us the 
+gift of the life of Charlie Norwood.
+  Mr. LEWIS of Georgia. Mr. Speaker, I am pleased to yield 2\1/2\ 
+minutes to the gentlewoman from California (Mrs. Capps).
+  Mrs. CAPPS. Mr. Speaker, I want to thank all of the fine colleagues 
+that we have who are from Georgia for giving each and every one of us a 
+chance to speak. I am not from Georgia, and I know he was your favorite 
+son, but I do want to give this as my chance to honor this very 
+distinguished Member of Congress, Charlie Norwood.
+  I rise, Mr. Speaker, today with a heavy heart but also real 
+admiration for the life of this dear colleague of ours, Charlie 
+Norwood. And my heart as well as all of our hearts go out to his family 
+members, to his community, and to all of the people whose life he has 
+touched.
+  I had the privilege of serving on the Energy and Commerce Committee 
+with Charlie for several years and had the opportunity to work with him 
+on initiatives in the Health Subcommittee. And though he and I come 
+from vastly different places on the ideological spectrum, we were often 
+able to see eye to eye on health policy as two health professionals 
+serving in Congress.
+  I was proud to work with him in co-chairing the School Health and 
+Safety Caucus, where we used the opportunity to spotlight ways in which 
+we could improve the health of children through school-based 
+initiatives. I was also honored to work with him on legislation to 
+promote children's dental health.
+  I think we can all agree that Charlie will be remembered as reliably 
+conservative, but also as an independent thinker. His leadership on 
+establishing a Patients' Bill of Rights was exemplary of his 
+willingness to go out on a limb for something in which he truly 
+believed. He introduced that bill shortly before I came to Congress, 
+and the momentum for passage of the Patients' Bill of Rights was one of 
+the main reasons that I was eager to serve on this Health Subcommittee, 
+which he belonged to.
+  I admired his characteristic patient-centered approach to health care 
+policy. It wasn't popular with some of our colleagues, and the 
+President flat-out warned that his bill would be vetoed. But Charlie 
+continued forward and was looking forward to an opportunity to finally 
+pass the Patients' Bill of Rights in its original form in this, the 
+110th Congress.
+  So I want to take this opportunity to express again my condolences to 
+the Norwood family and to thank them all for the tremendous years, 12 
+years, of service that they allowed their Charlie to serve with us all 
+in Congress. And I thank my colleagues again.
+  Mr. DEAL of Georgia. Mr. Speaker, I am pleased to yield 3 minutes to 
+another Georgia colleague (Mr. Linder).
+  Mr. LINDER. Mr. Speaker, I thank my friend for yielding his time.
+  I met Charlie Norwood over 30 years ago. We were both young dentists 
+in Georgia. He was the president of the Georgia Dental Association, and 
+I was a young, newly elected dentist in the Georgia legislature. And 
+his enthusiasm blew me away. Irrespective of what he was talking about, 
+he only had two gears: neutral and full speed ahead. And his enthusiasm 
+would capture you. And the bulldoggedness, the way he would put his 
+teeth on an issue and fight for it without ever backing up was 
+astonishing to me. Charlie did not have a coy bone in his body. From 
+the day you met Charlie, you knew what he stood for on whatever the 
+issue was.
+  Respectfully, he and I differed on the Patients' Bill of Rights. We 
+spent many hours talking about it. He was adamant that I was wrong and 
+he was right. But at no point did he ever raise
+
+[[Page 4039]]
+
+his voice or show any disrespect for a position that I had taken that 
+was different from his.
+  Charlie loved this institution. He loved the give-and-take of it. He 
+loved the formality of it. We talked one day if he ever had any notion 
+of running for the Senate, and he said he would never survive there. He 
+would never survive not getting something done every day.
+  He treated this institution that he loved with great dignity. When he 
+fought his fights, you knew he was going to fight fair. And for 30-plus 
+years when I have been able to visit with him or know him on this issue 
+or that, I always walked away from each encounter saying what a nice 
+man, what a nice man.
+  For Gloria and the family, you are in our prayers. A psalmist has 
+written that the Lord is close to the broken-hearted, and those who are 
+crushed in spirit He saves.
+  May God give you peace.
+  Mr. LEWIS of Georgia. Mr. Speaker, I am pleased to yield 2 minutes to 
+the gentleman from Georgia (Mr. Barrow).
+  Mr. BARROW. Mr. Speaker, I thank the gentleman for yielding.
+  I rise this afternoon to remember one of our fellow delegation 
+members, the Honorable Charlie Norwood. I know that many Members of 
+this body served with Charlie much longer than I did, but unlike them, 
+I think I may be the only Member here with the distinction of once 
+actually having been represented by Charlie as one of his constituents.
+  Charlie Norwood was an accomplished and a tireless legislator who had 
+stands on issues that ran the political spectrum. And while I may not 
+have agreed with him on every issue, I always admired his spirit, and I 
+say that as a former constituent and as a colleague.
+  As anyone who knew him will tell you, Charlie cared deeply for the 
+State of Georgia and for the people he represented in Congress for over 
+12 years.
+  In this Chamber and among this delegation, there is no question that 
+Charlie Norwood will be missed and his absence will be long felt here 
+in Washington and back home in Georgia.
+  My prayers remain with Congressman Norwood's wife, Gloria, and with 
+their entire family.
+  Mr. DEAL of Georgia. Mr. Speaker I am pleased to yield 1 minute to 
+the minority leader (Mr. Boehner).
+  Mr. BOEHNER. Mr. Speaker, I thank my colleague from Georgia for 
+yielding.
+  And I come to remember my good friend and our good friend, Charlie 
+Norwood.
+  I met Charlie in October of 1994 when he was a candidate for Congress 
+for the first time and had dinner with him one night before we went off 
+on a 16-city tour. I didn't think it would ever end. But at dinner that 
+night, I looked at Charlie and I asked, Why are you running for 
+Congress?
+  And he said, That OSHA, that OSHA, they did this to me and did this 
+to me.
+  And for every day that Charlie Norwood served in this Congress, he 
+was all over OSHA, to have rules and regulations that met the straight-
+face test.
+  I was the chairman of the Education and the Workforce Committee, and 
+Charlie was one of my subcommittee Chairs for the 5 years that I was 
+the chairman. Clearly the most difficult member I have ever had to try 
+to manage. And whether it was the Patients' Bill of Rights, whether it 
+was OSHA, or a host of other issues, when Charlie got that bone in his 
+mouth, you could not get it out of his mouth. He was the most dogged, 
+persistent Member I have ever worked with. As a matter of fact, I might 
+even say he might be the most dogged persistent person that I have ever 
+met with because when Charlie picked up a cause, he was never going to 
+leave it alone until he accomplished his goal.
+  And I am sure that Charlie is watching over us today, wondering why 
+the Patients' Bill of Rights isn't law. Mr. Linder just talked about 
+it. Charlie fought about this on more occasions than you can ever 
+imagine, as did John and a lot of other Members. But Charlie truly 
+believed in that piece of legislation. He put his heart and soul into 
+it.
+  We are going to miss Charlie around here. We are going to miss that 
+dogged persistence that he brought to this floor every day and in the 
+committee rooms every day.
+  But to Gloria and his family, our prayers are with you.
+  And, Charlie, may your soul rest in peace.
+  Mr. LEWIS of Georgia. Mr. Speaker, I am pleased to yield 2 minutes to 
+the gentleman from Georgia (Mr. Johnson).
+  Mr. JOHNSON of Georgia. Mr. Speaker, today I rise to honor Charlie 
+Norwood, a great servant of the people of Georgia.
+  By now you have all heard about his life, so I won't spend much time 
+on his extensive biography. But I do want to bring attention to what he 
+would have wanted us to focus on above and beyond his legislative 
+accomplishments, and that is his family.
+
+                              {time}  1700
+
+  I did not get an opportunity to get to know Charlie, but I do know 
+enough about him to understand what was most important to him. He was a 
+man of high character and values, and so his family was very important. 
+So I would like to mention and send my deepest condolences to Charlie's 
+beautiful wife, Gloria, and his two sons, Charles and Carlton, who 
+enabled him and made it possible for him to serve so honorably, 
+particularly at times when clearly he must have not been feeling well. 
+But he still persisted with his duties and responsibilities as a 
+Congressman.
+  It takes a lot to just walk these Halls from the office to the 
+Capitol and back again, and he walked as long as he could, and then he 
+started taking his wheelchair. So the man had a spirit to prevail over 
+whatever obstacles might have befallen him. That is a spirit that each 
+one of us can learn from and live by and do the best that we can, like 
+he did.
+  So in addition to just being a great human being, there were a number 
+of legislative accomplishments. I will not go over those either, but I 
+will say as a member of the Armed Services Committee, that I want to 
+bring attention to his military service. He was awarded the Combat 
+Military Badge and two Bronze Stars for his service in Vietnam. While I 
+did not always or often agree with him on the issues, by all accounts 
+he served his State and his district well.
+  Georgia and this Nation have lost a great man, and I am honored to 
+have this opportunity to recognize his contributions today.
+  Mr. DEAL of Georgia. Mr. Speaker, I am privileged to yield 3 minutes 
+to our colleague, the gentleman from Georgia (Mr. Westmoreland).
+  Mr. WESTMORELAND. Mr. Speaker, I thank my colleague from Georgia for 
+yielding me time.
+  Mr. Speaker, Charlie Norwood was a friend of mine, he was a friend of 
+all Georgians, and he was a friend of every freedom loving person in 
+this world, because he fought hard for you.
+  He was one of the original Republican revolutionaries that was 
+elected in 1994, and he never really lost that spirit, that 
+conservative fever. He agreed with Jefferson that the government that 
+governs least, governs best, and he fought for 12 years in this House 
+to make sure that regulations on business and individuals' lives were 
+at a minimum. In fact, sometimes he called the government's reach into 
+our lives oppressive.
+  Once Charlie was quoted in the Atlanta Journal and Constitution, as 
+saying, ``If I want to put bad wiring in my house and burn my family 
+down, that is my problem, not the government's.''
+  That was typical of Charlie. He was a witty warrior. When he joined 
+me in the Voting Rights Act, trying to modernize section 5, the renewal 
+of the Voting Rights Act, I had come up with two amendments. One of 
+them had to do with putting the whole country under it, going through 
+the same scrutiny.
+  I met with Charlie and Charlie said, ``Lynn, I want the modernization 
+amendment to be the Norwood amendment.'' I said, ``That's fine, 
+Charlie, but why?'' He said, ``Because I can do a
+
+[[Page 4040]]
+
+better job than you can.'' That is the way he felt, and that is exactly 
+the way he was.
+  That is just one example of why I called Charlie my ``foxhole 
+buddy.'' When Charlie Norwood said he was with you, he was with you 
+until the bitter end. You had his word that he would have your back, 
+and his word was his bond.
+  His loyalty and love of country defined him throughout his life. The 
+Valdosta High School football star went on to become a dentist who took 
+his skills to the front lines of Vietnam, where he served his fellow 
+soldiers and his Nation with valor. He served in Vietnam for a year and 
+obtained the rank of captain and won two Bronze Stars.
+  For the next four decades, Charlie and his loving wife Gloria made 
+their home Augusta, where they raised two children, Carlton and 
+Charles, and he served his community with a smile on his face when he 
+talked about his grandchildren.
+  So the thoughts and prayers of all Georgians go out to the Norwood 
+family tonight, to let that family know that we are appreciative of the 
+time that they allowed Charlie to come up here and to serve with us, to 
+bring joy to our hearts and thoughts to our minds of what we could do 
+to make this country a better place to live in.
+  The one thing that I want to close with is this, Mr. Speaker: In all 
+of the discussions that I got into with Charlie Norwood about 
+legislation he constantly said, ``Lynn, we have got to do what's 
+right.'' That was his motto, to do what was right, and he did. It was 
+an honor to call him friend.
+  Mr. LEWIS of Georgia. Mr. Speaker, I am pleased to yield 3 minutes to 
+the gentleman from Georgia (Mr. Bishop).
+  Mr. BISHOP of Georgia. Mr. Speaker, I thank the gentleman for 
+yielding.
+  Mr. Speaker, it is my honor to stand this afternoon to give some 
+remarks about our colleague and dear friend, Charlie Norwood.
+  Shakespeare wrote that all the world is a stage and all the men and 
+women merely players. Each has his entrance and his exit. One man in 
+his time may play many parts.
+  So it was with Charlie. Charlie was a son, a son to Charlie Norwood, 
+Sr., and Lola. He was a husband to Gloria. He was a father to Charlie 
+and Carlton and a grandfather. And he was a cousin to two very, very 
+wonderful ladies down in Valdosta who said that they often prayed for 
+Cousin Charlie, because they just couldn't understand how he became a 
+Republican.
+  Charlie was a student. Charlie got his bachelor's. He studied 
+dentistry. He was a soldier. He served his country. He was in Vietnam. 
+But Charlie was a public servant. Charlie believed in serving 
+leadership, and he lived it.
+  Charlie really was great, because measured by the standards of Jesus, 
+that he who is great among you shall be your servant, and he who is 
+greatest shall be servant unto all, Charlie measured up.
+  Charlie was a fighter. Charlie fought hard for any principle in which 
+he believed. He didn't give up, as you heard, on the Patients' Bill of 
+Rights. He was a fierce competitor. I often didn't agree with him, but 
+I had to admire his tenacity, because he was a fighter. And all the way 
+to the end, Charlie fought. He fought for life.
+  We are all blessed, really blessed, to have known Charlie. And Gloria 
+was devoted to Charlie. She took leave from her duties as a member of 
+the Congressional Club to attend to Charlie, to give Charlie her best 
+efforts in his last days.
+  But Charlie served well. He really embodied God's minute. I have only 
+just a minute, only 60 seconds in it; forced upon me, can't refuse it; 
+didn't seek it, didn't choose, did it; I must suffer if I lose it, give 
+account if I abuse it; just a tiny little minute, but eternity is in 
+it.
+  Thank you, Charlie. You used your minute well.
+  Mr. DEAL of Georgia. Mr. Speaker, I am pleased to yield 2 minutes to 
+the gentleman from South Carolina (Mr. Wilson).
+  Mr. WILSON of South Carolina. Thank you, Congressman Deal, for 
+coordinating this tribute to a patriot.
+  Mr. Speaker, I rise today in tribute and remembrance of my dear 
+friend and our colleague Charlie Norwood. Upon my election 5 years ago, 
+two of the first people to offer guidance to me were Charlie and Gloria 
+Norwood. As a Member of Congress from an adjoining district, I learned 
+firsthand of Charlie's dedication to the public and his love of 
+America. Gloria has been a model First Lady for the district, 
+enthusiastically assisting Charlie in his life of public service.
+  Charlie was a committed health care practitioner, a loving family man 
+and a passionate public servant. He spent his entire life fighting for 
+the people of his beloved Georgia.
+  True to his character, Charlie fought to the end, despite 
+debilitating health conditions. He was always in good spirits, even 
+though we knew he was exerting extraordinary efforts to fully represent 
+his constituents. He reminded me so much of my predecessor, the late 
+Congressman Floyd Spence, a fellow courageous lung transplant 
+recipient.
+  I had the pleasure of serving with Charlie on the Education and 
+Workforce Committee. I am honored to, this year, be the Republican 
+ranking member on the Workforce Protection Subcommittee, which Charlie 
+ably chaired for three terms.
+  In Congress, Charlie was an ardent advocate for health care reform 
+and patients' rights. He was a good friend and strong supporter of the 
+employees of the Savannah River Nuclear Laboratory. I was proud to work 
+closely with him in our efforts to create a MOX facility for the 
+transformation of plutonium waste at the Savannah River site.
+
+                              {time}  1710
+
+  Charlie is survived by his wife Gloria; his two sons, Charles and 
+Carlton; and four grandchildren. Roxanne and I join with his colleagues 
+in mourning his passing and send our prayers to his family, staff and 
+constituents. May God bless the Norwood family at this time, and may 
+they know that he made a significant and positive difference for 
+America.
+  Mr. LEWIS of Georgia. Mr. Speaker, it is my pleasure to yield 1 
+minute to the Speaker of the House of Representatives, the young lady 
+from California, Speaker  Nancy Pelosi.
+  Ms. PELOSI. Mr. Speaker, I thank the gentleman for yielding and 
+having this Special Order to honor the life and service of our 
+colleague Congressman Norwood.
+  It is with great sadness that we received the news first of his 
+illness and then of his passing. We had hoped to have an occasion such 
+as this before he died so he could hear the praise of his colleagues on 
+the floor. I know that many conveyed their good wishes to him 
+personally.
+  He left us in a very dignified way. He decided that he would be, as 
+he lived, surrounded by his family at home so that he could die in 
+peace.
+  Congressman Norwood, as we all know, as our minority leader 
+mentioned, he had his own particular style, plain spoken, very 
+eloquent, and he was a passionate public servant. He served our country 
+and his own community in Vietnam in service to our country and in the 
+Congress of the United States.
+  Again, in this Congress he did his best to serve his constituents, 
+his conscience, and his country.
+  Again, he faced the end of his life and his sickness with great 
+bravery and dignity.
+  Our thoughts and prayers, I have conveyed to his wife Gloria, but I 
+say again on this floor that our thoughts and prayers are with Gloria 
+and his two sons, Charles and Carlton, and his four grandchildren. I 
+know that I can speak for all Members of Congress when we convey our 
+sympathy to them. I hope that it is a comfort to them that so many 
+people mourn their loss and are praying for them at this sad time.
+  Mr. DEAL of Georgia. Mr. Speaker, I am pleased to yield 3 minutes to 
+the gentleman from Texas (Mr. Barton).
+  Mr. BARTON of Texas. Mr. Speaker, I want to read a part of a letter. 
+It is dated February 8, 2007. It is to myself. It is from Congressman 
+Norwood. It is the last official correspondence that I received from 
+him. It says:
+
+[[Page 4041]]
+
+  ``Dear Joe.
+  ``When you receive this letter, you will know of my return to Georgia 
+after my decision to forego further medical treatment in the 
+Washington, D.C., area for my ongoing battle with non-small-cell 
+cancer. Needless to say, I hope things turn out for the best.
+  ``I expect to be unavailable for my duties for the foreseeable 
+future. I do, however, expect my staff to continue working on several 
+issues, even if I can't be there in person.
+  ``I will have my staff working on the Living Organ Kidney Donation 
+Clarification Act (H.R. 710). This bipartisan, bicameral bill addresses 
+the issue of paired transplantation, which is a way to solve the 
+dilemma faced by people who want to become living organ donors for a 
+family member or friend, but are unable to do so because they are 
+biologically incompatible. In the process of kidney-paired donor 
+transplants, a pair consisting of a kidney transplant candidate and an 
+incompatible living donor is matched with another such incompatible 
+pair to enable two transplants that otherwise would not occur. This 
+bill is widely supported, has no known opposition, doesn't cost a dime, 
+will save Medicare money, and will save thousands of lives. I urge you 
+to work with Mr. Inslee, Chairman Dingell, and my staff to move this 
+important bill forward.''
+  I have checked with Chairman Dingell. He has assured me that he is 
+prepared to move the bill if it is as he says it is. Knowing Charlie, 
+always telling the truth, it is. So hopefully, very soon on the floor 
+of this body, we will have the Charlie Norwood Living Organ Kidney 
+Donation Clarification Act.
+  There are so many stories, but I want to tell one Norwood story. 
+Charlie asked me and now my wife, then my girlfriend, Terri, to go down 
+to the Masters Golf Tournament. I am not golfer and so I discouraged 
+him from asking me. He said you may not like it but Terri will.
+  So we got to go down to the tournament, and on the first day we went 
+to the tournament, Charlie was telling me how plugged in he was with 
+all the folks at the Masters and how many people he knew and really he 
+was really a major figure out there.
+  So we pulled up to the driveway to go up to the main clubhouse that 
+you have seen on TV, and the guard at the gate said, May I help you? He 
+said, I am Congressman Norwood, and I have got Congressman Barton of 
+Texas, and we want to go up to the clubhouse. The guard said, Well, 
+Congressman, you are not on the list. He said, I am not on the list? 
+And the guard said, No, Congressman, you are not. So I started giving 
+Charlie a hard time from the backseat.
+  I said, Charlie, I thought you were a big player around here; you 
+cannot even get up to the clubhouse. So Norwood started giving me a 
+hard time, and I started hoorahing the guard, and he said, Wait a 
+minute; he said you are a Congressman from Texas? And I said, Yes, sir. 
+He said, Congressman Norwood, you park right up there by the clubhouse.
+  So, for that one day, Charlie Norwood had a better parking spot than 
+Tiger Woods or Arnold Palmer or any of the members of the Masters golf 
+course.
+  He is in heaven now and my guess is he has got the best parking spot 
+in heaven, too. God bless you, Charlie Norwood, and God bless you, 
+Gloria, and God bless all your family members. You will dearly, dearly 
+be missed.
+  Mr. LEWIS of Georgia. Mr. Speaker, I am pleased to yield 2 minutes to 
+the gentleman from Texas (Mr. Gene Green).
+  Mr. GENE GREEN of Texas. Mr. Speaker, I thank my colleague from 
+Georgia.
+  I rise in support of the resolution and to pay tribute to my friend 
+and fellow member of the Energy and Commerce Committee, Dr. Charlie 
+Norwood.
+  Charlie came to Congress after my first term as part of the class of 
+1994, and it seems a year did not go by that we did not serve on a 
+committee together.
+  I honorably served with him at first on the Education and Workforce 
+Committee and then later on the Energy and Commerce Committee.
+  Charlie and I shared a passion for health care issues, and I 
+particularly enjoyed our work together on the Health Subcommittee.
+  A dentist by training, Charlie was devoted to improving the health 
+care system, not only for providers like himself but also for the 
+patients that rely on our health care system to keep them well.
+  The phrase Patients' Bill of Rights would not have been coined if 
+Charlie and our chairman, John Dingell, had not teamed up to give 
+patients an ability to fight back against the HMOs that too often make 
+health care decisions based on the bottom line, rather than a 
+physician's recommendation.
+  I note Charlie's last legislative act before leaving Washington and 
+returning to Georgia was to reintroduce the Patients' Bill of Rights in 
+this Congress as H.R. 979.
+  There is no doubt in my mind that this legislation will be Charlie's 
+legacy and will honor him and his work in this esteemed Chamber by 
+finally making his vision of patients' rights a reality.
+  Last July 4 recess, Charlie and I joined two other members of the 
+Health Subcommittee as we visited the impressive trauma facilities 
+utilized by our brave military doctors to treat our wounded service 
+personnel in Balad and Baghdad, Iraq and Kabul, Afghanistan.
+  I knew there was a good reason Charlie and I got along, despite being 
+different parties, but I also realized that trip that Charlie and I 
+shared a lot of interests, and one of them in firearms. I met few 
+people with more enthusiasm for firearms than Charlie Norwood.
+  In fact, I will mention that how he cared about people, and Chairman 
+Deal understands that, he presented a book to those of us who went. It 
+has a picture of Charlie Norwood with a .50-caliber machine gun in a 
+helicopter we were flying in, but Charlie was not really happy because 
+he was not sitting behind that .50-caliber machine gun.
+  Charlie was a good doctor and honorable Member of Congress and a 
+great friend. He always thought of others, and I will always remember 
+him for his friendship for these years. Our thoughts are with his 
+family, and his wife Gloria has become a good friend of my wife Helen 
+through the Congressional Spouses, and I will miss Charlie, and we all 
+will. We honor his memory and his contributions to our country.
+
+                              {time}  1720
+
+  Mr. DEAL of Georgia. Mr. Speaker, I am pleased to yield 2 minutes to 
+the gentleman from South Carolina (Mr. Barrett).
+  Mr. BARRETT of South Carolina. Mr. Speaker, I too stand in favor of 
+the resolution for my friend Charlie Norwood.
+  When I first started running in 2002, Charlie was one of the first 
+guys to grab me by the hand, introduce me to people, and be my friend. 
+I remember my first day in Congress Charlie coming up to me and said, 
+``Boy, you just hang with me, I will take good care of you.'' And he 
+did.
+  He always told me that the Augusta side of Georgia was mine and the 
+North Augusta side of South Carolina was his; that no river or border 
+could keep us apart. And it was true. And the things he did for me, the 
+things he did for South Carolina, for Georgia, for this Nation will 
+always be remembered.
+  Charlie Norwood was a good friend of mine, and we will be sad and we 
+will cry, but in heaven they are screaming, ``We love you, Charlie.'' 
+God bless you.
+  Mr. LEWIS of Georgia. Mr. Speaker, I am pleased to yield 2\1/2\ 
+minutes to the gentleman from Georgia (Mr. Marshall).
+  Mr. MARSHALL. Mr. Speaker, I didn't know Charlie well; I only met 
+Charlie once before I came to Congress and then had a few occasions to 
+work with him in Congress. I certainly knew his reputation. He was a 
+great advocate for veterans and a great advocate for patients' rights 
+and, on some subjects, willing to buck his leadership in order to 
+advance the cause of patients' rights, and it was something I 
+appreciated a great deal.
+  As Charlie grew sicker, from time to time I would seek him out on the 
+floor and ask him how he was doing. He was
+
+[[Page 4042]]
+
+always upbeat about it, he was always positive about it. He was never 
+down and sad. He would be very frank about what he was able to do and 
+where he was and what his challenges were, but he was always positive 
+about his circumstances. His circumstance was awful, as everybody 
+knows. He fought this disease for years and gradually grew worse, and 
+we were all worried about him.
+  So one of the things I did just trying to get to know Charlie a 
+little better is I went to his Web site and looked up a little bit 
+about him, and was struck by the description that I found of his 
+military service in Vietnam. And I thought I would like to just read 
+that; and many people who are watching this won't have an opportunity 
+to hear this about Charlie, though everybody knows, I think, that he 
+served in the military.
+  But specifically during his tour in Vietnam, Charlie Norwood 
+participated in experimental military dental practices that became 
+standard procedure for the Armed Forces after the war. He was one of 
+the first participants in the Army outreach program to deliver dentists 
+to forward fire bases in lieu of transferring patients to rear 
+treatment areas. I am not sure if the rest of the dentists and the 
+doctors appreciated that very much; it meant that you were going into 
+harm's way a little bit more than they otherwise would.
+  Norwood also provided some of the first field-based dental treatment 
+of military guard dogs, and assisted in nondental trauma care in Mobile 
+Army Surgical Hospitals, MASH, units. In recognition of his service 
+under combat conditions, he was awarded the Combat Medical Badge and 
+two Bronze Stars. After Vietnam, he was assigned to the Dental Corps at 
+Fort Gordon, Georgia, where he served until his discharge in 1969. 
+Norwood was awarded the Association of the Army's Cocklin Award in 
+1998, and was inducted into the Association's Audie Murphy Society in 
+1999. He remained a lifelong member of the American Legion, the 
+Veterans of Foreign Wars, and Military Order of the World Wars.
+  Charlie's family should be very proud of Charlie Norwood. As Charlie 
+Norwood was slowly struggling with the disease that took his life, he 
+had to look back on his life and realize that he helped an awful lot of 
+people in a very positive way. We will miss him.
+  Mr. DEAL of Georgia. I am pleased to yield 2 minutes to the gentleman 
+from Washington (Mr. Hastings).
+  Mr. HASTINGS of Washington. I thank the gentleman for yielding.
+  Mr. Speaker, today I mourningly lost not only a colleague but a very 
+close friend. We all know that Charlie's unwavering dedication to his 
+constituents and to our Nation inspired us who had the privilege of 
+serving with him. He was known and was well-documented as a principled 
+lawmaker who was absolutely committed to his values and to his work in 
+this people's House. He was never afraid to stand up for his 
+convictions.
+  But, Mr. Speaker, I would like to speak on a personal note, because 
+Charlie and I were elected in 1994, and I see several of my colleagues 
+here that are going to speak after me. My wife Claire and his wife 
+Gloria became friends during the orientation. And while my wife doesn't 
+come back here as often as Gloria was here with Charlie, whenever she 
+came back we always made it a point as often as we could to get 
+together with the Norwoods and have dinner. Charlie loved to try a lot 
+of different venues: He was a steak man, and we ate steak. He liked 
+Italian food, and we found several Italian places that we ate. He took 
+me to a Korean restaurant. He liked Korean food after being in Asia. 
+And we had great conversations. We talked about the patients' bill of 
+rights; we disagreed. We talked about OSHA; we agreed. And so he and 
+Gloria became good friends of Claire and me, and he even hosted my 
+brother and I down at the Master's one year. My older brother and 
+Charlie shared the same birth date, so they had a bond right off the 
+bat.
+  If there is one legacy I think that Charlie will leave with all of 
+us, it is the bulldoggedness and the determination with which he 
+pursued legislation. But if there is one other legacy that will be 
+left, it is the way he displayed the courage to fight this disease that 
+he had. And I truly think, Mr. Speaker, that any lesser man would not 
+have lasted as long as he did with the disease that he had.
+  Charlie will be very, very much missed, and our prayers go out to 
+Gloria and the family.
+  Mr. LEWIS of Georgia. Mr. Speaker, may I inquire how much time do we 
+have left.
+  The SPEAKER pro tempore (Mr. Frank of Massachusetts). The gentleman 
+from Georgia has 12\1/2\ minutes, and the other gentleman from Georgia 
+has 8 minutes.
+  Mr. LEWIS of Georgia. Mr. Speaker, I reserve the balance of my time.
+  Mr. DEAL of Georgia. I thank the Speaker. And I would ask the 
+gentleman, we have numerous speakers, if there is a possibility of 
+yielding time at some point, we would request it.
+  Mr. LEWIS of Georgia. I would be pleased to do so.
+  Mr. DEAL of Georgia. I thank the gentleman.
+  At this point I would yield 1 minute to the gentleman from Missouri 
+(Mr. Blunt).
+  Mr. BLUNT. I thank all of my colleagues for the comments they have 
+made today. The job of the whip in the House is supposed to be the job 
+of organizing the Members, and many people think it is the job of 
+convincing Members they should do something they don't really want to 
+do. I will tell you that the Member that it would have been the most 
+impossible to convince to do anything he didn't want to do was Charlie 
+Norwood. He was here to do what he thought was the right thing to do. 
+It wasn't always what I thought was the right thing, but it was what he 
+thought was the right thing and he was going to do it. The toughness, 
+the courage, the determination of Charlie Norwood was extraordinary 
+among an extraordinary group of people. Just this struggle that we have 
+witnessed with Charlie's health, a struggle that he faced 
+uncomplainingly as he sat day after day over in that corner recovering 
+from massive surgery, but, as Chairman Barton showed in the letter he 
+got in recent days, never giving up on the job he was doing for the 
+people he served.
+  The people that sent him here should be proud, the people who worked 
+with him should be proud. The people of the United States would be 
+proud if they knew the great and tireless job that Charlie Norwood did 
+for them every day. And I am honored to have had a chance to serve with 
+him and call him my friend.
+  Mr. DEAL of Georgia. Mr. Speaker, I am pleased to yield 2 minutes to 
+the gentleman from North Carolina (Mr. Coble).
+  Mr. COBLE. Mr. Speaker, thank you, sir.
+  I represent Pinehurst, North Carolina, the golf capital of America. 
+And when I would say that, Charlie took great umbrage, he being from 
+Augusta.
+  On one occasion, Charlie overheard someone ask me to describe my 
+district. I replied, ``I represent High Point, the furniture capital of 
+the world; I represent one of the finest zoos in the country near 
+Asheboro.'' And knowing that Charlie was listening, I said very 
+condescendingly, ``And, of course, the golf capital of America in 
+Pinehurst.''
+  Charlie jumped up from his chair, this is the sanitized version. He 
+said, ``Now, you son of a gun,'' he said, ``I will let you have the 
+furniture and zoo, but you ain't taking golf.''
+  I told that story, Mr. Speaker, to the Southern Pines North Carolina 
+Rotary Club, and within one week that story was personally delivered to 
+Doc Norwood. And Charlie said to me, ``Howard, don't ever talk about 
+anybody. It will come back to bite you.''
+  Charlie Norwood, as has been said many times on this floor today, one 
+great guy, one great Congressman who will be sorely missed.
+  Charlie, I won't even say Pinehurst is the greatest golf capital of 
+the world at least for a day or two in remembrance of you.
+  And condolences to Gloria and the entire Norwood family.
+
+[[Page 4043]]
+
+
+
+                              {time}  1730
+
+  Mr. DEAL of Georgia. Mr. Speaker, I am pleased to yield 2 minutes to 
+the gentleman from Texas (Mr. Gohmert).
+  Mr. GOHMERT. Mr. Speaker, it was truly an honor to know Charlie 
+Norwood; I admired and respected him. And shortly after I got here to 
+this body I was told by another Member from Georgia, he was sitting by 
+Charlie when I was up speaking and he said, Who is that guy? I like 
+him. Well, the feeling was more than mutual.
+  Charlie Norwood, what was not to like? His dogged determination, some 
+would say he was stubborn as a mule. But I think Charlie might more 
+elegantly say he was persistent until it almost ceased to be a virtue. 
+But with Charlie, it was a virtue.
+  Now, some gave him bad press, along with some others of us that 
+worked together on the Voting Rights Act. Some falsely claimed that 
+Charlie and others of us were trying to restrict the usage of the 
+Voting Rights Act when a clear indication, everything Charlie did, 
+everything we worked on, everything we talked about behind the scenes 
+was, by golly, the Voting Rights Act has done good for the places it 
+has been applied. It needs to be applied in every district in America 
+until racial disparity has disappeared.
+  And although we lost on the floor temporarily, I do believe there is 
+Scripture to support people in heaven to know what is going on here on 
+Earth. They rejoice over one soul's salvation, they know that it isn't 
+over yet. As a matter of equal protection, I think we eventually will 
+get it extended to every district where there is racial disparity.
+  To Gloria, to the Norwood family, all we can say through the Speaker 
+is, thank you for sharing this wonderful gift with us. And to God on 
+high, thank you for sharing this gift with this House of 
+Representatives.
+  Mr. DEAL of Georgia. Mr. Speaker, I am pleased to yield 1 minute to 
+the gentlelady from North Carolina (Mrs. Myrick).
+  Mrs. MYRICK. I thank the gentleman for yielding.
+  Mr. Speaker, as you have heard some of my other colleagues say, there 
+were a group of us who came in in 1995 together with Charlie and got to 
+know him very well and consider him a dear friend.
+  You have heard all the words, ``perseverance'' and ``doggedness'' and 
+``determination'' and ``stubborn'' and all those other things that 
+describe Charlie, but there are also some other words that describe 
+Charlie, and that was ``loyal'' and ``friend,'' because he was a friend 
+to all.
+  Gloria and Charlie and I became very good friends early on. You could 
+always count on him. There was never any question, if you needed 
+Charlie, he was there if he believed in what you were doing; if he 
+didn't, he would always forthrightly tell you.
+  He also displayed that big word ``courage,'' because we saw what he 
+went through as he spent his last 3 years here, and he was always doing 
+his job for his people. The other thing about Charlie was integrity. I 
+think you have to look long and far to find someone who had more 
+integrity than Charlie Norwood; if he gave you his word, he gave you 
+his word.
+  All of our blessings go to Gloria and his family.
+  Mr. DEAL of Georgia. Mr. Speaker, I am pleased to yield 1 minute to 
+the gentleman from Arizona (Mr. Shadegg).
+  Mr. SHADEGG. I thank the gentleman for yielding.
+  Mr. Speaker, I rise to mourn the loss of my friend, Charlie Norwood, 
+and to pay tribute to him and his record, and to extend my sympathies 
+to his wife and his family.
+  Charlie Norwood was an extraordinary human, an extraordinary soldier 
+and an extraordinary United States Congressman, and the Nation is 
+better for his service.
+  You have heard it said here, over and over and over again, that he 
+was passionate, that he was a fighter for the cause, whether that was 
+in Vietnam, whether that was in his chosen field, dentistry, or whether 
+that was here in the United States Congress.
+  I worked closely with Charlie on the Patients' Bill of Rights. I 
+believed deeply, as Charlie did, that individual human beings, 
+patients, were being injured by the practices of managed care companies 
+around the country, and that we needed to do something about that. 
+Charlie injected himself in that fight with the kind of passion that 
+Charlie brought to every fight. And I worked shoulder to shoulder with 
+Charlie in that fight, and Dr. Tom Coburn, and learned what a great 
+individual and what an inspiring principled human being he was.
+  But the best thing about Charlie was the twinkle in his eye. When 
+Charlie got into a fight, he would literally light up, and light the 
+room with a twinkle of being able to press forward with his fight and 
+his belief and his passion.
+  We will all miss him. I consider it a privilege to have known him.
+  Mr. DEAL of Georgia. Mr. Speaker, I am pleased to yield 1 minute to 
+the gentleman from Mississippi (Mr. Wicker).
+  Mr. WICKER. I thank the gentleman for yielding.
+  Mr. Speaker, Charlie Norwood and I were elected together in 1994, as 
+were the two previous speakers. And we were part of that history-
+making, majority-making 73-Member class who came to office in 1995.
+  It didn't take us long to realize that Charlie Norwood was one of the 
+wisest and steadiest and most dependable Members of that class. He was 
+a conservative, and never wavered from that philosophy. He was 
+trustworthy, as Mrs. Myrick said.
+  He was a competitor. When Charlie Norwood waged battle on this floor 
+on your side, you knew you had a capable comrade at arms. And if he was 
+on the other side, when it was over, you knew you had been in a fight. 
+I remember at the end of the debate on the Patients' Bill of Rights, 
+right along the rail back here, Charlie Norwood and Tom Coburn 
+embracing after the debate like athletes after a great contest.
+  Whatever he did, Charlie Norwood did it cheerfully, and that is one 
+of the main things I will remember about Charlie. He was a patriot in 
+every sense of the word. He was a credit to this House of 
+Representatives. I am proud to have called him my colleague and my 
+friend.
+  Mr. LEWIS of Georgia. Mr. Speaker, how much time does the gentleman 
+from Georgia (Mr. Deal) have?
+  The SPEAKER pro tempore. The gentleman has 30 seconds remaining.
+  Mr. LEWIS of Georgia. Mr. Speaker, I am pleased to yield 6 minutes to 
+my colleague from Georgia, and I ask unanimous consent to let the 
+gentleman from Georgia in turn control that 6 minutes and yield to 
+other Members.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Georgia?
+  There was no objection.
+  The SPEAKER pro tempore. The gentleman from Georgia (Mr. Deal) now 
+has 6\1/2\ minutes.
+  Mr. DEAL of Georgia. I thank the gentleman for his courtesy.
+  I am pleased to yield 1 minute to the gentleman from Kentucky (Mr. 
+Whitfield).
+  Mr. WHITFIELD. Mr. Speaker, all of us join in wishing our condolences 
+to Charlie's wife Gloria and his entire family.
+  Those of us who were elected in 1994 and had the opportunity to know 
+Charlie, to work with Charlie, and for me personally I had the 
+opportunity to sit next to him on the Energy and Commerce Committee for 
+about 8 years, Charlie was many things. He was a soldier in Vietnam, he 
+was a businessman, he was a dentist, he was a great United States 
+Congressman. He also was a Sunday school teacher at Trinity on the Hill 
+Methodist Church in Augusta, Georgia. And I know that that church meant 
+a lot to him because he is asking for donations to that church as a 
+memorial.
+  Recently I attended a church service in a Methodist church in 
+Kentucky, and the title of the sermon was ``You Can't Make a Success of 
+Life Without Making a Gift of It.'' And when I think of Charlie 
+Norwood, that is really what I think about: He made a gift of his life. 
+We will miss him. He has made a tremendous impact on all of us. We wish 
+his family the very best.
+
+[[Page 4044]]
+
+
+  Mr. DEAL of Georgia. Mr. Speaker, I am pleased to yield 1 minute to 
+the gentleman from Texas (Mr. Carter).
+  Mr. CARTER. I thank you for yielding.
+  Mr. Speaker, I rise to speak about my friend, Charlie Norwood. I have 
+prepared remarks, but I would really like to just relate like others 
+have.
+  The first time I ran into Charlie I was a new freshman in this body. 
+He sat behind me. And when you are brand new here, you are listening 
+and you are trying to figure out what is going on. And when Charlie 
+Norwood opened his mouth, he was saying things sometimes that others 
+were not, and stood his ground to those things, even though they might 
+be in conflict with both the other side and his party, both. Charlie 
+had a way of standing up for his principles.
+  I also want to talk about Gloria, because Gloria took my wife under 
+her wing and was kind to her. And I can tell you for this last year and 
+a half, literally every week that I have served in this Congress, my 
+wife has asked about Charlie's health because she fell in love with 
+Gloria Norwood.
+  Everyone in this House sends out their hearts to Gloria at the loss 
+of her beloved husband. We were proud to serve with him. He was a great 
+American.
+  Today I rise to honor my friend and colleague Mr. Charlie Norwood 
+from Northeastern Georgia who passed away yesterday morning. As a man 
+of strong character and unwavering convictions, his passing is surely a 
+saddening loss to the American people.
+  Charlie Norwood served as a brave soldier during Vietnam as part of 
+the Army Dental Corps in the 173rd Airborne Brigade. He was honored for 
+his courageous service with the Combat Medical Badge and two Bronze 
+Stars.
+  Elected to Congress in 1994, Charlie was the first Republican to 
+represent his Northeastern Georgia district since Reconstruction. 
+During his time in Congress he was known for his endless fight for the 
+patients' bill of rights and his fight for stricter immigration 
+policies.
+  Charlie bravely battled cancer and lung disease, and in his final 
+days he returned to Augusta to be with his family. The Norwood family 
+will be in my thoughts and prayers. Please join me, Mr. Speaker, in 
+expressing our deep appreciation for the lifetime of service by Charlie 
+Norwood and extending our sympathies to his wife, Gloria Wilkinson 
+Norwood, and their family.
+  Mr. DEAL of Georgia. Mr. Speaker, I am pleased to yield 1 minute to 
+one of our colleagues from Iowa (Mr. King).
+
+                              {time}  1740
+
+  Mr. KING of Iowa. I thank the gentleman for yielding.
+  Mr. Speaker, I rise to speak in profound sorrow and gratitude for the 
+life of Charlie Norwood. I believe I had known Charlie long before I 
+came here to meet him in person. I got to know him through C-SPAN and 
+through the media. When I met him personally, he had matched up 
+identically with the person that I saw through the television screen. 
+Charlie had that light within him, as John Shadegg said.
+  I look back at a time when Charlie was not feeling well. He came here 
+whenever it was physically possible for him to do that, and I remember 
+a day when he looked poor, but when he spoke in that microphone right 
+there, that light came back on again and the real Charlie Norwood again 
+blessed this Chamber with his presence.
+  America will always be grateful. Gloria, Marilyn and I want you to 
+know that you and your family are in our prayers. We will always look 
+over to this place on this floor where Charlie always sat and recognize 
+that as Charlie's seat in the people's Chamber.
+  Mr. DEAL of Georgia. Mr. Speaker, I am pleased to yield 1 minute to 
+the gentleman from Indiana (Mr. Buyer).
+  Mr. BUYER. Mr. Speaker, I rise to express deep sorrow at the passing 
+of our friend and colleague, Charlie Norwood. While most of us hope to 
+make a difference in this world, Charlie Norwood certainly did that. He 
+also made a difference in the lives of those who were fortunate enough 
+to have known him.
+  Charlie was steadfast and did what he thought was right. He was an 
+immovable object in the defense of principle, and when met with 
+irresistible force, it wasn't likely that Charlie was the one who was 
+moved.
+  During the development of the Medicare prescription drug benefit, I 
+worked closely with Charlie and several of my colleagues to see if 
+there was an alternative plan and how we were going to work this out. 
+Charlie's contributions were insightful, they were valuable, and added 
+considerably to the worth of our final product. During that process, he 
+was constantly mindful of two things, and that was the need to help 
+seniors who had no drug coverage and the need to be wise stewards for 
+taxpayers.
+  Coming to Congress with a medical background, Charlie provided a 
+point of view that enhanced any debate he entered. While witnesses 
+before him, at the Health Subcommittee may have cringed at times under 
+his questioning, the responses that were drawn out always added an 
+important dimension to our debates.
+  Charlie will be sorely missed: in Congress, in the Health 
+Subcommittee, but more importantly in all our lives. I give my deepest 
+sympathies to his wife, Gloria, his sons Charles and Carlton, and his 
+constituents.
+  Mr. DEAL of Georgia. Mr. Speaker, I am pleased to yield 1 minute to 
+the gentleman from Iowa (Mr. Latham).
+  Mr. LATHAM. I thank the gentleman for yielding, and I thank the 
+Speaker for this chance to say just a few words about my dear friend 
+and classmate, Charlie Norwood.
+  To Gloria, to the family, we extend our most sincere, deepest 
+condolences. Kathy and I will keep you in our prayers.
+  I just want to tell one short story about Charlie. When we came into 
+Congress together back in 1994 and we had the Contract With America, 
+the first 100 days, one of the very first votes that we had was H.R. 1. 
+That was an amendment to the Constitution to balance the budget. I was 
+standing right back here at the voting machine beside Charlie Norwood. 
+I voted ``yes.'' Charlie put his card in, he voted ``yes,'' and he 
+turned to me and says, You know what. That's what I ran on. I can go 
+home now. I've done my job. I've kept my promise.
+  That's what Charlie Norwood was all about. I just want to say, 
+Charlie, you're home now, the Augusta, the Georgia that you love, and 
+our thoughts and prayers will always be with you and the great honor 
+that you have given all of us here to serve with you in this great 
+body.
+  Mr. DEAL of Georgia. I would say to my colleague, Mr. Lewis, I am 
+prepared to close if you would like to.
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Georgia (Mr. Lewis).
+  Mr. LEWIS of Georgia. Mr. Speaker, Charlie Norwood, the man from 
+Georgia, not just a citizen of Georgia, not just a citizen of the 
+American South, but a citizen of the world, a man who fought the good 
+fight, who kept the faith. He was a good and decent man, and we will 
+never ever forget his lasting contribution.
+  We pray for his family, for the people of his congressional district, 
+and we pray for his soul.
+  Mr. Speaker, I yield back the balance of my time.
+  Mr. DEAL of Georgia. Mr. Speaker, in closing, I want to thank my 
+colleague, Mr. Lewis, for his graciousness, for his assistance in 
+bringing this resolution to the floor, and to express my appreciation 
+to all of our colleagues who have spoken here today. Their eloquence, I 
+hope, conveys to Gloria and to the family the esteem with which we held 
+Charlie Norwood. Truly the gentleman from Georgia and the blue 
+searsucker suit is going to really be missed here, but his legacy will 
+live on.
+  It is the responsibility of each of us to make sure that we have the 
+same degree of commitment and passion as Charlie Norwood did. He set a 
+great example we will all endeavor to follow.
+  Mr. JONES of North Carolina. Mr. Speaker, I rise today in sadness to 
+note the recent passing of a dear friend and colleague, Charlie 
+Norwood. I want to extend to his wife Gloria and her sons, and their 
+family, my deepest sympathy for their loss.
+  I know how much Charlie loved his wife Gloria and his family.?
+  I join my colleagues today on the floor of the House to honor his 
+service in the House of Representatives, and to honor his memory.
+
+[[Page 4045]]
+
+  Charlie and I came to Washington with the class of 1994. We were 
+elected to Congress in the same year and we came with the class that 
+was going to change the way Washington operates.
+  In the seven terms that I have served with Charlie, I gained a 
+lasting friendship and respect for Charlie.
+  Charlie certainly made an impact on the House of Representatives. He 
+always fought for the causes for which he believed, and many times we 
+were on the same side.
+  In the last year of his service, as he was battling illness, he 
+always had a smile for me when I would speak to him. And I know that he 
+had a smile for anyone that came to say hello.
+  As a man of faith, I know that Charlie is in heaven. But for those of 
+us who had the privilege to know him, we will miss him until we meet 
+again.
+  He was an outstanding Congressman, and he will be missed.
+  Mr. STEARNS. Mr. Speaker, it is with sorrow, yet fondness, that I 
+speak on the passing of our colleague and friend, Charlie Norwood. 
+While in Congress, his dedication to Georgians, to patient advocacy, to 
+business ownership and property rights, and to veterans are legendary.
+  Prior to his service in the House of Representatives, Charlie served 
+his country as a Captain in the U.S. Army Dental Corps in Vietnam, and 
+he contributed to his community as a dentist, business owner, and 
+active worshipper in his Methodist Church.
+  I first learned about Charlie in 1994 when he was running for his 
+Georgia district. Struck by his pluckiness and quiet steadfast 
+determination even then, I decided to campaign for him in his district-
+to-be, and met his wife Gloria. And when he was elected, he immediately 
+became a player in health care legislation, not waiting for reaching 
+the echelons of seniority to make real contributions.
+  Through all his trials, Charlie Norwood had a sparkle, an ingenuity 
+how to get things accomplished. His passion would at times translate 
+into defiance at another Member. In particular, I recall such a moment 
+at the Energy & Commerce markup on July 27, 2006 of H.R. 4157, the 
+Better Health Information System Act of 2006, or ``Health IT'' bill. 
+Another Member, Representative Markey, was offering some language that 
+would have the effect of governing relations between health care 
+providers and their patients. Well, Charlie took great exception to 
+this, and rather angrily erupted to Representative Markey that his 
+profession has engaged in the highest ethical standards of patient 
+privacy since the inception of dentistry, and therefore ``I don't need 
+you to legislate my professional ethics.''
+  In the past couple of years, Charlie would ride in his scooter to the 
+Energy & Commerce Committee on which we served together, and to the 
+Floor, for debate and hearings and votes. And notwithstanding his 
+ailing health, I was always touched by his continued friendly, high 
+spirits. Charlie, I am honored to have known you. Rest in peace.
+  Mr. COSTELLO. Mr. Speaker, I rise in support of this resolution 
+honoring the life of our friend and a great member of this body, 
+Charlie Norwood, who passed away after an 8-year battle with a chronic 
+lung disease, and then lung cancer.
+  Elected in 1994, Charlie was a passionate public servant who will be 
+remembered for his dedication to health care issues and his commitment 
+to patients' rights. A dentist by training, he had the unique 
+perspective of understanding how health policy impacted him as a 
+practitioner as well as his patients. His experiences were a driving 
+force in his passionate advocacy for a patients' bill of rights, and he 
+helped lead the effort to pass that legislation.
+  Charlie also served his country in the Army for 3 years, and was a 
+veteran of the Vietnam war. I had the privilege of getting to know 
+Charlie when our offices were next door to each other in the Rayburn 
+building and enjoyed our friendly visits and candid conversations. He 
+instantly gained my respect as a hard-working and eager gentleman 
+willing to work across party lines in search of compromIse.
+  Mr. Speaker, while Charlie's presence will be missed, his valiant 
+spirit will live on and I am grateful for the opportunity to have 
+served with him in this Chamber. I send my condolences and best wishes 
+to his family, and join my colleagues in supporting this resolution.
+  Mr. CANTOR. Mr. Speaker, I am deeply saddened at the loss of a great 
+American. Charlie Norwood was an honored member of this House of 
+Representatives and will be deeply missed. His work for patient and 
+individual rights showed his intense compassion for the American 
+people.
+  Congressman Norwood was someone who lived the American dream. He went 
+to college, became a dentist, fought for his country in Vietnam, and 
+was a loving husband, father and grandfather. He served his district, 
+state and country with distinction in the United States Congress.
+  Charlie worked to leave the world a better place than it was given to 
+him, and I can say that, because of his service to our country and work 
+for health care issues, he did just that.
+  Congressman Charlie Norwood was taken from this earth too soon. My 
+wife Diana and I extend our deepest sympathy to Gloria and the entire 
+Norwood family in this difficult time.
+  Mr. RADANOVICH. Mr. Speaker, I rise with a heavy heart today to 
+remember a friend, and colleague--Representative Charlie Norwood of 
+Georgia, who passed away yesterday, at his home in Augusta, Georgia.
+  Charlie and I came into Congress as part of the ``Republican 
+Revolution'' in 1994. We shared a common vision with the rest of our 
+classmates of what the Federal Government should be and how it should 
+act. Charlie worked diligently to attain this vision while serving his 
+constituents.
+  During this sorrowful time my thoughts and prayers go out to his 
+family, friends, staff and loved ones. It was an honor serving with 
+Charlie, and he will be sorely missed.
+  Ms. JACKSON-LEE of Texas. Mr. Speaker, I rise to pay tribute to a 
+great American and a member of this House. Charles Norwood was a 
+veteran, dentist, small business owner, and Member of Congress from 
+Georgia.
+  Congressman Norwood, who died on Wednesday, February 14, 2007, was a 
+respected member of this body and respected by all who knew him. His 
+presence will be greatly missed and we all mourn his loss and extend 
+our sincerest condolences to his family and friends.
+  Charles Norwood was born July 27, 1941 in Valdosta, Georgia. 
+``Charlie'' as he was known, attended school in Valdosta throughout his 
+first year of high school when his family moved to Tennessee, where he 
+graduated in 1959 from Baylor Military High School in Chattanooga. He 
+received his B.A. from Georgia Southern University in 1964 and a 
+Doctorate in Dental Surgery from Georgetown University Dental School in 
+1967 where he was elected President of the Dental School Student Body 
+during his senior year.
+  After completing dental school, Charlie Norwood enlisted in the 
+United States Army, and was commissioned a Captain in the U.S. Army 
+Dental Corps from 1967 to 1969. He was first assigned to the Army 
+Dental Corps at Sandia Army Base in Albuquerque, New Mexico. In 1968, 
+he was transferred to the Medical Battalion of the 173rd Airborne 
+Brigade in Vietnam.
+  While in the Dental Corps, Charlie pioneered dental practices that 
+became standard procedure after the Vietnam War. In addition to 
+assisting the soldiers, he also provided some of the first field-based 
+dental treatment of military guard dogs. For his distinguished service 
+to our Nation, Charlie received the Combat Medical Badge and two Bronze 
+Stars. He was discharged in 1969 after which, he entered the private 
+practice of dentistry in Augusta, Georgia. For many years, ``Doc 
+Norwood'' provided great service to all his patients.
+  In 1994, Charlie Norwood was elected to represent the Tenth 
+Congressional District of Georgia in the historic 104th Congress. We 
+were classmates because that same year I was elected to represent the 
+citizens of the Eighteenth Congressional District of Texas. Charlie 
+represented his district so well that he was reelected by his 
+constituents six times and always by substantial margins.
+  In Congress, Charlie Norwood was a strong proponent for health care 
+reform. He introduced legislation calling for a Patient's Bill of 
+Rights. He also championed more and better health care for veterans. In 
+addition to his work in health care reform, Norwood introduced 
+legislation and worked on various other public-policy issues.
+  Throughout his congressional career, Charlie Norwood served on the 
+Energy and Commerce Committee and the Education and Workforce 
+Committee. He was Vice Chairman of the Subcommittee on Health from 2001 
+to 2004 and a member of the Energy and Power Subcommittee from 1997 to 
+2000.
+  Mr. Speaker, a dear colleague has fallen but he will not be 
+forgotten. We are all saddened by our loss but we are happy to have 
+served with him. Our prayers and condolences are with his family and 
+loved ones. Charlie Norwood--Vietnam Veteran, dentist, small business 
+owner, and Member of Congress--was a good representative, a good 
+legislator, and a good man. He will be missed.
+  Mr. MILLER of Florida. Mr. Speaker, on behalf of the United States 
+Congress, it is with great sadness that I rise today to recognize the 
+passing of my esteemed colleague and
+
+[[Page 4046]]
+
+friend, the Honorable Charles Whitlow Norwood, Jr. of Georgia's Tenth 
+Congressional District.
+  Yesterday, we lost an inspiring public servant to complications from 
+his eight year battle with idiopathic pulmonary fibrosis. All who knew 
+him and worked with him recognized and appreciated his hard work. 
+Throughout his seven terms in Congress, Charlie served on the Education 
+and the Workforce Committee as Chairman of the Subcommittee on 
+Workforce Protections. He also served on the Committee on Energy and 
+Commerce, which included two terms as Vice-Chairman of the Subcommittee 
+on Health. Fueled by a sincere interest in helping others, his 
+colleagues knew he was not working for himself but for the people.
+  Charlie is well-known for introducing the first comprehensive managed 
+health care reform legislation to Congress in 1995. He truly left his 
+mark in legislation with reforms on patient's rights, education, 
+private property rights, telecommunications, and environmental 
+regulations.
+  Charlie was dedicated to public service throughout his entire life, 
+not only as a Member of Congress, but also as a dentist, a Vietnam 
+Veteran, a small businessman, and a man of great faith. He and wife 
+were active in their local United Methodist Church, as well as, members 
+of the Augusta Opera Society and Augusta Symphony Guild. In every 
+aspect of his life, he was recognized with countless awards and honors 
+which illustrate how his contributions to his community were limitless.
+  We have not lost a colleague--we have lost a good friend.
+  The Honorable Charlie Norwood is survived by his wife Gloria, sons 
+Charles and Carlton Norwood, and four grandchildren, all of Augusta. We 
+will continue to hear of his service well into the future as Charlie's 
+legacy will, without a doubt, live on.
+  Mr. Speaker, on behalf of the United States Congress, I am proud to 
+honor the life of the Honorable Charles Whitlow Norwood, Jr. and his 
+living legacy.
+  Mr. SENSENBRENNER. Mr. Speaker, it is with deep sadness that I mourn 
+the loss of my friend and colleague, Congressman Charlie Norwood. 
+Charlie was a tenacious fighter in Congress who would not back down 
+from his beliefs. More important than his work in the House of 
+Representatives, he was a dedicated husband, loving father of two sons 
+and a grandfather of four.
+  Charlie served his country proudly in Vietnam and was a decorated 
+veteran. Upon his return to the states, he practiced dentistry and 
+helped countless Georgians. In 1994, he brought his compassion and 
+conservative values to Washington. I soon learned that Charlie Norwood 
+was a man of impressive character and conviction, with a Southern charm 
+and heart of gold.
+  Charlie Norwood was a fervent believer in tackling the problem of 
+illegal immigration, and I enjoyed working with him to pass immigration 
+reform. Charlie made a valuable contribution to the House's immigration 
+bill in the 109th Congress by including parts of his CLEAR Act in the 
+legislation. I shared his belief that we should direct local law 
+enforcement to help us apprehend the illegal immigrants in this country 
+who are criminals.
+  Charlie courageously battled cancer for a number of years, and he was 
+an inspiration to many, including his colleagues on both sides of the 
+aisle. I am pleased that I had the opportunity to work with Charlie, 
+and my wife Cheryl and I extend our deepest sympathies to Gloria 
+Norwood and their entire family.
+  Mr. SESSIONS. Mr. Speaker, I rise today to join my fellow colleagues 
+in mourning the passing of Congressman Charlie Norwood. My friend and 
+the honorable representative for the people of the Ninth District of 
+Georgia passed away on Tuesday after his long battle with lung disease 
+and cancer. This Chamber, and the State of Georgia has lost a friend 
+and one of our most capable and dedicated Members. Even before Charlie 
+came to Congress in the election of 1994, he was a courageous 
+individual and public servant. The former Army dentist was a decorated 
+officer serving in Vietnam, having been awarded the Combat Medical 
+Badge and two Bronze Stars for his service.
+  Words cannot fully express the sorrow that is felt by those who have 
+known and loved Charlie. My heart goes out to Charlie's wife, Gloria, 
+their two sons, Charles and Carlton, and their four grandchildren. I 
+also will be keeping Charlie's staff in my thoughts and prayers, as I 
+had the pleasure of working with Dr. Norwood on a variety of issues, 
+and his staff was always a delight to work with. I can only imagine how 
+tough it is for them, and all of Charlie's family and friends right now 
+during this difficult time. I will be keeping Charlie's memory in my 
+thoughts and prayers. He was always a dear friend of mine, someone who 
+I looked to for his opinion and judgment.
+  Charlie is now leaving us for a better place, but he leaves behind a 
+lasting legacy, and shoes that can never be filled. We have lost a hero 
+and a champion, God bless.
+  Mr. BROWN of South Carolina. Mr. Speaker, I join my colleagues in 
+mourning the passing of Charlie Norwood. As a Member of Congress from 
+the neighboring state of South Carolina, I was fortunate enough to 
+serve with Charlie and see firsthand his dedication to public service. 
+Coming to Congress with a medical background, Charlie championed issues 
+regarding a patients' bill of rights which was designed to give people 
+better access to healthcare. As a decorated Vietnam Veteran, Charlie 
+was a fighter. He fought for 12 years as a member of Congress on behalf 
+of his constituents. I worked with Charlie on a number of issues 
+including education, military, and veterans' issues. As Subcommittee 
+Chairman of Health on the Veterans' Affairs Committee, I had the 
+pleasure of participating in a Town Hall meeting with the veterans from 
+his district.
+  Diagnosed with cancer in 2006, Charlie continued to serve the people 
+of Georgia bravely and honorably in the House of Representatives 
+despite his ill health. He fought to the end, and in his final days, he 
+returned home to be with his family.
+  Charlie will be sorely missed, but his legacy will never be 
+forgotten. My thoughts and prayers are with his wife Gloria and his two 
+children during this sad time.
+  Mr. BONNER. Mr. Speaker, it is with great sadness that I rise today 
+to honor the memory of former Georgia Congressman Charlie Norwood and 
+his lifetime of dedication to the people of Georgia and the United 
+States. I was deeply saddened to learn our colleague passed away 
+earlier this week. We have not only lost a wonderful friend, but an 
+individual who during his lifetime made countless contributions toward 
+the betterment of our Nation.
+  Charlie, a native of Valdosta, Georgia, began his career of service 
+by volunteering for the U.S. Army, serving as captain in the Dental 
+Corps. He served in Vietnam, where he distinguished himself under 
+combat conditions, and he was awarded the Combat Medical Badge and two 
+Bronze Stars. Immediately after his discharge, Charlie opened his 
+dental practice in Augusta. He was highly involved in many professional 
+organizations, serving as president of both the Eastern District Dental 
+Society and the Georgia Dental Association.
+  In 1994, Charlie was elected to represent the 10th District of 
+Georgia in the United States House of Representatives. Throughout his 
+six terms, Charlie was a champion of patients' rights, introducing his 
+Patient's Bill of Rights. He also fought for health care reform for 
+military retirees and veterans. Charlie also served with distinction as 
+a member of the Energy and Commerce Committee and the Education and the 
+Workforce Committee.
+  We are privileged to have known and worked with such a passionate and 
+loyal individual. Charlie will be greatly missed and always remembered. 
+Madam Speaker, I ask my colleagues to join me in remembering a 
+dedicated statesman. Dr. Norwood will be deeply missed by his family--
+his wife, Gloria Wilkinson Norwood, and his sons, Charles Norwood and 
+Carlton Norwood--as well as the countless friends he leaves behind. Our 
+thoughts and prayers are with them all at this difficult time.
+  Mr. BURGESS. Mr. Speaker, this week our country lost a fine American 
+with the death of Congressman Charlie Norwood. Congressmen Norwood was 
+a tireless advocate for his district and the State of Georgia and an 
+icon in the field of health care. His dogged determination to improve 
+life for the average family and improving health care in this country 
+for the patient that confronted overwhelming bureaucracy, increasing 
+costs, and diminishing access was a hallmark of this great man's career 
+of public service.
+  Before I was elected to Congress and during one trip to Washington I 
+met with my Chamber of Commerce as a private physician, I was asked 
+which Member of Congress I would most like to meet. I responded that I 
+would most like to meet with Charlie Norwood. To my surprise, they were 
+able to set up a meeting for me with Congressman Norwood. Now at the 
+time, I was a constituent of Majority Leader Dick Armey who represented 
+the 26th District before he retired and I succeeded him here in the 
+House of Representatives. At that time, the Majority Leader was 
+basically playing traffic cop to one of Charlie's many bold health care 
+initiatives. Unfortunately, when Congressman Norwood figured out I 
+wasn't visiting him as an emissary of Congressman Armey he listened to 
+my gushing praise and then quickly exited the meeting graciously. It 
+was 6 years later that I would have the chance to meet again with 
+Congressman Norwood, this time as a freshman member of the U.S. House 
+of Representatives. The
+
+[[Page 4047]]
+
+first question he asked me then was, ``are you with me or against me,'' 
+then referring to his long battle for the Patient's Bill of Rights.
+  Well, I've been with Charlie ever since. During my early tenure in 
+office, he was a gracious mentor and even more so when I joined him as 
+member of the Energy and Commerce Committee during the 109th Congress. 
+Charlie's strong defense of medical providers and patients, his tough 
+stances on border security and national security, defined a man 
+dedicated to his country. Even during his failing health, Congressman 
+Norwood was as persistent as he ever was.
+  My thoughts and prayers are with Gloria and his family. America lost 
+a great man. I lost a friend and a mentor. Charlie, we won't forget 
+you.
+  Mrs. BLACKBURN. Mr. Speaker, it is with deep sorrow that I rise to 
+remember the life of Charlie Norwood. I know Charlie had an impact on 
+everyone that he came into contact with and we are all grieving the 
+loss.
+  I had the privilege of serving with Charlie on the Energy and 
+Commerce Committee. Charlie loved a robust discussion of the issues. He 
+loved the ability to debate an idea and he loved espousing his 
+conservative beliefs. When his microphone went on in committee, you 
+could see the gleam in his eye as he readied for a hearty exchange. His 
+love of engaging the issues was appreciated by all his colleagues on 
+the Energy and Commerce Committee.
+  Charlie was a man of deep conviction and integrity. He will be deeply 
+missed, not only by this body but also by his constituents and his 
+family.
+  Mr. Speaker, I ask my colleagues to join me in celebrating the life 
+and accomplishments of Congressman Charlie Norwood.
+  Mr. DEAL of Georgia. Mr. Speaker, I yield back the balance of my 
+time.
+  The SPEAKER pro tempore. All time has expired.
+  Without objection, the previous question is ordered on the 
+resolution.
+  There was no objection.
+  The SPEAKER pro tempore. The question is on the resolution.
+  The resolution was agreed to.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```
