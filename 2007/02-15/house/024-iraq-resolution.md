@@ -1,0 +1,41 @@
+---
+granule: CREC-2007-02-15-pt1-PgH1674-2
+date: 2007-02-15
+edition: CREC
+section: HOUSE
+page: H1674
+citation: 153 Cong. Rec. H1674
+---
+
+# IRAQ RESOLUTION
+
+**Speaking:** Clarke, Yvette D. (C001067) [D-NY]
+
+**Measures:** H.Con.Res. 63
+
+```
+                            IRAQ RESOLUTION
+
+  (Ms. CLARKE asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. CLARKE. Mr. Speaker, I rise today because I am very supportive of 
+our troops around the globe and in particular those who are in harm's 
+way in Iraq. I wholeheartedly support H. Con. Res. 63.
+  Mr. Speaker, in the President's January 29, 2002, State of the Union 
+address, in regards to protecting America, responding to terrorist 
+threats and capturing Osama bin Laden, he said, this is a regime that 
+agreed to international inspections, then kicked out our inspectors. 
+This is a regime that has something to hide from the civilized world.
+  States like these and their terrorist allies constitute an axis of 
+evil, arming to threaten the peace of the world. By seeking weapons of 
+mass destruction, these regimes pose a grave and growing danger. They 
+could provide these arms to terrorists, giving them the means to match 
+their hatred.
+  Secretary Rice, after being named Secretary to succeed Colin Powell, 
+warned 6 months before the invasion in Iraq that Saddam Hussein could 
+deploy a nuclear weapon, saying that the administration did not want a 
+smoking gun. We want to know as New Yorkers, when will we find Osama 
+bin Laden
+
+                          ____________________
+```

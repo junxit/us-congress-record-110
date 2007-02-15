@@ -1,0 +1,281 @@
+---
+granule: CREC-2007-02-15-pt1-PgS2003
+date: 2007-02-15
+edition: CREC
+section: SENATE
+page: S2003
+citation: 153 Cong. Rec. S2003
+---
+
+# REAL ID CARD
+
+**Speaking:** Alexander, Lamar (A000360) [R-TN]
+
+```
+                              REAL ID CARD
+
+  Mr. ALEXANDER. Mr. President, if the Chair would please let me know 
+when I have a minute left.
+  Mr. President, when we come back from the recess we are going to turn 
+our attention to the 9/11 Commission recommendations which have been 
+enacted by the House. I want to discuss an issue I hope will come up 
+when we discuss the 9/11 Commission recommendations and that has to do 
+with the so-called REAL ID card, the de facto national ID card.
+  This is a law that was enacted in early 2005. It was House-passed 
+legislation that would require States to turn more than 190 million 
+driver's licenses into de facto national identification cards, with 
+State taxpayers paying most of the costs. I am not very much of a 
+prognosticator. My predictions have never been all that accurate, but 
+at the time of that passage, I objected to it.
+  The first thing wrong with the REAL ID law was that the House stuck 
+the law into an appropriations bill that supported our troops in Iraq 
+and sent it over to the Senate. None of us wanted to slow down support 
+for our troops in Iraq while we debated ID cards, so it was stuck in 
+there and we passed it. But the second and larger problem with what the 
+House did 2 years ago, and which we agreed to and it became law, is 
+that States not only got to create the ID cards, but they will likely 
+end up paying the bill. I said to my colleagues, and at that time we 
+had a Republican Congress: This is one more of the unfunded Federal 
+mandates we Republicans promised to end.
+  Well, now we have moved ahead about 2 years, and I believe I have
+
+[[Page S2004]]
+
+turned out to be right about that. Just last month, the Maine 
+Legislature became the first State to approve a resolution urging 
+Congress to overturn the Real ID Act before it takes effect on the 
+States in May of 2008. Only 4 of the 186 Maine lawmakers voted no. In 
+the following other States there are bills, according to USA Today, 
+that are considering asking us to overturn the law: Hawaii, Georgia, 
+Massachusetts, New Mexico, Oklahoma, Vermont, and Washington.
+  One reason they are asking us to overturn it is that according to the 
+National Governors Association, implementing the law will cost more 
+than $11 billion over 5 years. We have provided $40 million of the $11 
+billion. That is an enormous unfunded Federal mandate.
+  The Presiding Officer is a former State official. I don't know if he 
+had these same feelings when he was in his State of Colorado, but 
+nothing used to make me madder when I was Governor of Tennessee than 
+for some group of Congressmen to come up with a big idea, turn it into 
+law, hold a big press conference, take credit for it, and send the bill 
+to the States to pay for it. Then that same Congressman would usually 
+be back home making a Lincoln Day speech, bragging about local control.
+  I am afraid that is what we have with REAL ID. It sounds pretty good 
+maybe to say: Oh, we have a war against terrorism, and we have illegal 
+immigration and other immigration issues. We need some sort of 
+identification card that will make it possible to do a better job of 
+fighting terrorists and impose the rule of law on our border. That 
+sounds good, but there is a right way to do it and a wrong way to do 
+it.
+
+  Here is what we should have done and what I hope we will do. I hope 
+the week after next, when Senator Collins of Maine comes to the Senate, 
+which I hope she will, and offers an amendment that will, in effect, 
+set up a thoughtful process for, first, delaying the implementation of 
+this bill and, second, give us a chance to consider all of its 
+ramifications, I hope we will adopt that as part of the 9/11 Commission 
+Report. In other words, give the idea of a national identification card 
+the kind of thoughtful attention it deserves in the Senate.
+  No. 1, we should do it because it is a huge break with our tradition 
+of liberty in this country. We do not have to look very far around the 
+world--South Africa is the first place to look--to see the abuse a 
+national identification card can cause. In South Africa, it was used to 
+classify people according to race. Everybody had to have one. Everybody 
+had to carry it around.
+  In this age of technology in a country that values liberty above 
+everything else, there are a lot of questions about whether we should 
+have a national ID card. Those ought to be explored in the Senate. We 
+ought not push one through in a bill no one wants to vote against 
+because it is primarily about supporting troops.
+  When I was Governor of Tennessee, I twice vetoed the photo driver's 
+license which we all now carry around in our pockets. I did that, 
+first, because I thought it was an infringement upon civil liberties; 
+and, second, I did it because I thought what would happen was we would 
+have lines around the block of people waiting to get their photo ID 
+card--and that still happens sometimes--but I was gradually overruled 
+by the State legislature and we got an ID card.
+  What helped getting overruled was when I showed up at the White House 
+once to see the President at the National Governor's Conference and 
+they asked to see my photo ID. I said: I don't have one. They asked: 
+Why not? I said: Because I vetoed it. And I had to be vouched for by 
+the Governor of Georgia. The push for this was law enforcement saying 
+it would help with check cashing and other identification.
+
+       While as a liberty-loving country, we say we do not want a 
+     national ID card, at the same time, we have allowed a de 
+     facto national ID card. That is a State driver's license. We 
+     have over 190 million of these. We all know the de facto 
+     driver's license ID cards are very ineffective. They are 
+     easily duplicated, they are often stolen, and we go around 
+     not just using them to prove we can drive, but we use them to 
+     get on airplanes, we use them to cash checks, and we use them 
+     to get a passport. They are not an effective ID card.
+
+  I have reluctantly come to my conclusion. Despite the fact I vetoed 
+those early ID cards, on September 11, one way our world has changed is 
+we do need a national ID card. Maybe our discussion in committees would 
+show we do not want one but that we want authorized two or three forms 
+of identification cards which meet certain standards which can be used 
+for different ways.
+  For example, there could be a travel card that one could use to get 
+on an airplane. If you had that travel card that allowed you to get on 
+the airplane, you might use it for other purposes, as we have come to 
+use the driver's licenses in that way or we might use the passport. 
+About a quarter of Americans have passports, 68 million Americans. That 
+is one form of an ID card though not as common as 196 million driver's 
+licenses. There is also the Social Security card. My initial instinct 
+is that a Social Security card that had the proper technology attached 
+to it would be the wisest, the most effective, and most useful ID card 
+because most of the immigration problems we have are related to work, 
+either as a student or as a worker. It would be natural to have an ID 
+card, to have a Social Security card such as the card we carry around 
+in our pockets that also serves as a de facto national ID card.
+  There was a case of the Swift Company, which was using, under our 
+antiquated immigration laws, the basic pilot program, which is what we 
+say to businesses to use if we want them to do everything they can to 
+make sure they are only hiring people legally in the United States. 
+Swift and other companies do that. Even if they do that, they cannot be 
+assured that the people they are hiring are legally here because many 
+of the Social Security numbers have been stolen, as it turns out, and 
+it is against our laws to inquire too far into someone who applies for 
+a job and presents evidence they are a citizen. Our laws say you cannot 
+ask more questions to second-guess that.
+  We have some work to do. All of us who think about the immigration 
+issue--which is what brought all this up, along with the September 11 
+disaster--we think of the immigration issue and we think of the need 
+for employer verification. For employers in this country to verify that 
+people they hire are legally here, we are going to have to supply those 
+employers, in some way, with the ability to ask for a good 
+identification card. Perhaps it is the Social Security card, perhaps it 
+is a travel card, perhaps it is a passport, perhaps it is a bank card, 
+maybe there are two or three of those. That might be a way to avoid 
+having a single card and could diminish the concern about civil 
+liberties. Or maybe the needed ID is the driver's license, but I doubt 
+it is the driver's license.
+  Certainly, we should not expect the men and women in the Tennessee 
+Department of Public Safety who are in charge of issuing a few million 
+driver's licenses, to be turned into CIA agents whose job it is to 
+catch terrorists. I don't think they are expected to do that. They are 
+not prepared to do that.
+
+  What we will be requiring is the citizens of the various States to 
+show up to get their driver's license or a renewal with different forms 
+of identification, some of which they may not have. It will be a very 
+expensive process and a big mess. My first impression is that the State 
+driver's license system is not the best place to look if we want to 
+create an identification card.
+  Here is my suggestion. My suggestion is we pay close attention to the 
+Senator from Maine, Susan Collins, when we come back after the recess. 
+She has a thoughtful recommendation to the Senate which suggests, over 
+the next couple of years, we have time to look at this issue of whether 
+we need a national identification card and what kind of identification 
+card we might need. I hope the hearings would be held this year in the 
+Homeland Security and Governmental Affairs Committee and the Judiciary 
+Committee or whatever the appropriate committees might be, and then we 
+might deal with this issue in the immigration bill which I hope we pass 
+this year.
+  We need a comprehensive immigration bill. That bill needs to have an 
+employer verification system. I don't see how we can have an employer 
+verification system without a good form of identification card. I hope 
+we will deal with this in the way the Senate normally deals with 
+issues; that is, through its committees, considering all
+
+[[Page S2005]]
+
+of the options. In the meantime, we have the Real ID law in place with 
+the estimate that it may cost up to $11 billion, a huge unfunded 
+mandate. We have States saying we are going to opt out of that program. 
+If they do, that means the citizens of Maine or Montana or some other 
+State will not be allowed to fly on airplanes, for example, because 
+they will not be from a State that has an approved ID card. That will 
+create a lot more confusion and a lot more angry constituents.
+  I am here today to wave a yellow flag, to remind Members of the Real 
+ID issue. It may not be part of the 9/11 Commission recommendation when 
+they come to the floor, but it is relevant and certainly germane. I 
+hope the Senator from Maine will provoke a discussion of it, and we 
+will move to delay its implementation until we can think this through 
+and do it right.
+  I ask unanimous consent to have printed in the Record an article I 
+wrote for the Washington Post on Wednesday, March 30, 2005, about the 
+Real ID and my views.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+               [From the Washington Post, Mar. 30, 2005]
+
+                Much as I Hate It, We Need a National ID
+
+                          (By Lamar Alexander)
+
+       The House recently passed legislation requiring states to 
+     turn 190 million driver's licenses into national ID cards, 
+     with state taxpayers paying most of the cost.
+       The first thing wrong here is that the House stuck the ID 
+     card proposal on the appropriations bill that supports troops 
+     in Iraq and sent it over to the Senate. We should not slow 
+     down money for our troops while we debate ID cards.
+       The second problem is that states not only get to create 
+     these ID cards, they'll likely end up paying the bill. This 
+     is one more of the unfunded federal mandates that we 
+     Republicans promised to stop.
+       Supporters argue that this is no mandate because states 
+     have a choice. True, states may refuse to conform to the 
+     proposed federal standards and issue licenses to whomever 
+     they choose, including illegal immigrants--but if they do, 
+     that state's licenses will not be accepted for ``federal 
+     purposes,'' such as boarding an airplane. Some choice. What 
+     governor will deny his or her citizens the identification 
+     they need to travel by air and cash Social Security checks, 
+     or for ``other federal purposes?''
+       Of course, the ID card may still backfire on Congress. Some 
+     feisty governor may say, ``Who are these people in Washington 
+     telling us what to do with our drivers' licenses and making 
+     us pay for them, too? California will use its licenses for 
+     certifying drivers, and Congress can create its own ID card 
+     for people who want to fly and do other federally regulated 
+     things--and if they do not, I will put on the Internet the 
+     home telephone numbers of all the congressmen.''
+       If just one state refused to do the federal government's ID 
+     work, Congress would be forced to create what it claims to 
+     oppose--a federal ID card for citizens of that state.
+       Finally, if we must have a better ID card for some federal 
+     purposes, then there are better ideas than turning state 
+     driver's license examiners into CIA agents. Congress might 
+     create an airline traveler's card. Or there could be an 
+     expanded use of U.S. passports. Since a motive here is to 
+     discourage illegal immigration, probably the most logical 
+     idea is to upgrade the Social Security card, which directly 
+     relates to the reason most immigrants come to the United 
+     States: to work.
+       I have fought government ID cards as long and as hard as 
+     anyone. In 1983, when I was governor of Tennessee, our 
+     legislature voted to put photographs on driver's licenses. 
+     Merchants and policemen wanted a state ID card to discourage 
+     check fraud and teenage drinking. I vetoed this photo 
+     driver's license bill twice because I believed driver's 
+     licenses should be about driving and that state ID cards 
+     infringed on civil liberties.
+       That same year, on a visit to the White House, when a guard 
+     asked for my photo ID, I said, ``We don't have them in 
+     Tennessee. I vetoed them.'' The guard said, ``You can't get 
+     in without one.'' The governor of Georgia, who had his photo 
+     ID driver's license, vouched for me. I was admitted to the 
+     White House, the legislature at home overrode my veto and I 
+     gave up my fight against a state ID card.
+       For years state driver's licenses have served as de facto 
+     national ID cards. They have been unreliable. All but one of 
+     the Sept. 11 terrorists had a valid driver's license. Even 
+     today, when I board an airplane, security officials look at 
+     the front of my driver's license, which expired in 2000, and 
+     rarely turn it over to verify that it has been extended until 
+     2005.
+       I still detest the idea of a government ID card. South 
+     Africa's experience is a grim reminder of how such documents 
+     can be abused. But I'm afraid this is one of the ways Sept. 
+     11 has changed our lives. Instead of pretending we are not 
+     creating national ID cards when we obviously are, Congress 
+     should carefully create an effective federal document that 
+     helps prevent terrorism--with as much respect for privacy as 
+     possible.
+
+                          ____________________
+```

@@ -1,0 +1,64 @@
+---
+granule: CREC-2007-02-15-pt1-PgS1985-2
+date: 2007-02-15
+edition: CREC
+section: SENATE
+page: S1985
+citation: 153 Cong. Rec. S1985
+---
+
+# ISSUE OF FAIRNESS
+
+**Speaking:** McConnell, Mitch (M000355) [R-KY], Specter, Arlen (S000709) [R-PA], Reid, Harry (R000146) [D-NV], Hagel, Chuck (H001028) [R-NE]
+
+```
+                           ISSUE OF FAIRNESS
+
+  Mr. McCONNELL. Mr. President, using some of my leader time, let me 
+respond briefly to my good friend, the majority leader.
+  The Senate Republicans are fully prepared to have a debate on the 
+Iraq war. We were prepared to have a debate on the Iraq war last week. 
+We anticipated it. The issue is whether the Senate will operate like 
+the House. It will not.
+  In the House, they have one Iraq resolution. The minority gets no 
+voice at all, up or down, on one proposal. As my good friend, the 
+majority leader, and certainly the majority whip said repeatedly over 
+the years, the Senate is not the House. Senate Republicans are anxious 
+to have the Iraq debate. We are not trying to avoid it in any way, 
+whatever. But there will be, at the very least, a proposal that a 
+majority of Senate Republicans support in the queue to be considered so 
+that we will have an alternative.
+  Now, the majority leader and I have had a number of discussions about 
+this issue over the week. I am still hopeful we can work this out and 
+have a process for going forward that is fair to Senate Republicans. 
+However, I am very confident that Senate Republicans will insist on 
+having at least one alternative favored by a majority of our Members. 
+Again, I am not anticipating that we will end up in the same position 
+we were last week. The majority leader and I are continuing to talk 
+about it.
+  But fundamental fairness is essential on the most important issue 
+confronting the country.
+  I yield the floor.
+  The ACTING PRESIDENT pro tempore. The Senator from Pennsylvania.
+  Mr. SPECTER. Mr. President, we have two votes scheduled at 10:30. We 
+were supposed to have 15 minutes reserved for Senator Leahy and myself, 
+and I know Senator Hagel is in the Senate and wants a little time.
+  With the majority leader in attendance, I wonder if we might adjust 
+the timing so we can talk about these judges at least for a few 
+minutes?
+  Mr. REID. I say to my friend, the question is an excellent question. 
+We have, as the Senator knows, a funeral taking place today for Dr. 
+Norwood. We changed the vote around from 11 o'clock until 10:30 today 
+so a large contingent of Senators and House Members can attend the 
+funeral. If we do not start the votes at 10:30, they will not be able 
+to attend.
+  Mr. SPECTER. I accept that. May I use the last 4 minutes to speak?
+  I will yield to the Senator from Nebraska for a minute.
+  Mr. HAGEL. I appreciate that.
+
+[[Page S1986]]
+
+
+
+                          ____________________
+```
