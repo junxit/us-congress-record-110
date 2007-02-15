@@ -1,0 +1,36 @@
+---
+granule: CRECB-2007-pt3-Pg4243
+date: 2007-02-15
+edition: CRECB
+section: HOUSE
+page: 4243
+---
+
+# THE RESOLUTION OF RETREAT
+
+```
+                       THE RESOLUTION OF RETREAT
+
+  (Mr. POE asked and was given permission to address the House for 1 
+minute.)
+  Mr. POE. Mr. Speaker, the band continues to play today while Congress 
+argues the ``Resolution of Retreat'' from Iraq.
+  This illness of defeatism is spreading. Self-proclaimed military 
+experts are saying the war cannot be won, even with more troops. Wars 
+have always had homegrown critics and doomsayers, even in the military. 
+Those in and out of the military who say we cannot win should never be 
+placed in a position to allow us to lose. Those critics are thorns in 
+the battlefield of hope.
+  This resolution, this policy of ``No More Troops for the Troops'' 
+leaves our volunteers in Iraq in a precarious, vulnerable situation. 
+Since no help is coming to their aid, what shall our troops now in Iraq 
+do with less manpower? Fight a containment war? Fight not to lose? Or 
+win? Not fight? Retreat to the hills?
+  This resolution is good news to the terrorists, bad news for the 
+troops. We should find the moral will to finish our mission in Iraq and 
+protect American interests with whatever number of troops is necessary. 
+Duty requires such, and safety and honor demand it.
+  And that's just the way it is.
+
+                          ____________________
+```
