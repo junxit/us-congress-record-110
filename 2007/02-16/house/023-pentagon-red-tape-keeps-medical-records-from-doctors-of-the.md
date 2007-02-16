@@ -1,0 +1,111 @@
+---
+granule: CRECB-2007-pt3-Pg4526-8
+date: 2007-02-16
+edition: CRECB
+section: HOUSE
+page: 4526
+---
+
+# PENTAGON RED TAPE KEEPS MEDICAL RECORDS FROM DOCTORS OF THE WOUNDED
+
+```
+  PENTAGON RED TAPE KEEPS MEDICAL RECORDS FROM DOCTORS OF THE WOUNDED
+
+  (Mr. McDERMOTT asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. McDERMOTT. Mr. Speaker, today a story appeared in the Washington 
+Post entitled ``Pentagon Red Tape Keeps Medical Records From Doctors of 
+the Wounded.''
+  The Defense Department is refusing to give the records of people 
+wounded in Iraq and Afghanistan to physicians who are taking care of 
+them in the Veterans Department. It is absolutely unbelievable that 
+there could be that kind of bureaucratic snafu.
+  Now the Defense Department says, We don't have the authority to give 
+the records on the wounded that are leaving us and going to the 
+Veterans Department.
+  Absolute bureaucratic nonsense. I have introduced H.R. 1128 with Mr. 
+Filner, which gives that authority to the Defense Department. I hope 
+that other Members will sign this bill, and that we will pass it by 
+unanimous consent when we return to the House after the Presidents' Day 
+break.
+  In the next week, there are going to be people who are injured and 
+transferred to the veterans hospitals who can't get their records 
+transferred. How can a doctor take care of somebody if they don't know 
+what happened to them on the battlefield? This is the kind of thing we 
+have to stop if we support the troops.
+
+               [From the Washington Post, Feb. 16, 2007]
+
+  Pentagon Red Tape Keeps Medical Records From Doctors of the Wounded
+
+                             (By Al Kamen)
+
+       Department of Veterans Affairs doctors are furious over a 
+     recent decision by the Pentagon to block their access to 
+     medical information needed to treat severely injured troops 
+     arriving at VA hospitals from Iraq and Afghanistan.
+       The VA physicians handle troops with serious brain injuries 
+     and other major health problems. They rely on digital medical 
+     records that track the care given wounded troops from the 
+     moment of their arrival at a field hospital through their 
+     evacuation to the United States.
+       About 30 VA doctors in four trauma centers around the 
+     country have treated about 200 severely wounded soldiers and 
+     Marines. The docs had been receiving the complete digital 
+     records from the Pentagon until the end of January, using the 
+     Pentagon's Joint Patient Tracking Application.
+       But on Jan. 25, when Shane McNamee, a physician in the 
+     Richmond VA Medical Center, tried to get the full records, he 
+     couldn't. He sent an urgent e-mail to VA chief liaison 
+     officer Edward Huycke.
+       ``My JPTA account has been disabled within last few days,'' 
+     McNamee wrote. ``I called the hotline and was told that all 
+     VA accounts have been locked. Could not get a good answer 
+     why. Anyhow--I have 4 [Iraq/Afghanistan] service members to 
+     arrive within the next 2 days. This information is terribly 
+     important,'' the doctor wrote.
+       Thirty-four minutes later Huycke e-mailed back: ``Ok, 
+     Shane. Will get on it. Not sure what's up.''
+       An hour or so later, a senior VA official forwarded 
+     McNamee's e-mail to Lt. Col. David Parramore at the Pentagon, 
+     saying that McNamee ``needs his access back to JPTA to 
+     provide the best possible treatment for soldiers injured in 
+     [Iraq/Afghanistan] arriving there in a few days. Can you 
+     help?''
+       Tommy Morris, director of Deployment Health Systems, 
+     responded the next morning to Parramore's inquiry, after 
+     contacting Ellen Embry, deputy assistant secretary of defense 
+     for force health protection. ``I spoke with Embry and no 
+     agreements, no data sharing via access to JPTA.''
+       The access cutoff came after Morris, in a Jan. 23 e-mail, 
+     instructed a colleague: ``If the VA currently has access I 
+     need a list of persons and I need their accounts shut off 
+     ASAP. It is illegal for them to have access without data use 
+     agreements and access controls in place by federal 
+     regulations and public law.''
+       There have been meetings between VA and Pentagon officials. 
+     The Pentagon declined to comment yesterday. VA officials 
+     apparently thought it might have been resolved Monday. But an 
+     e-mail Monday from Morris to a co-worker said: ``The 
+     leadership has not authorized the VA accounts to be turned 
+     back on, in case someone approaches you about this.''
+
+[[Page 4527]]
+
+       Last week, Sens. Daniel K. Akaka (D-Hawaii) and Larry E. 
+     Craig (Idaho)--the chairman and ranking Republican on the 
+     Veterans' Affairs Committee--wrote David S.C. Chu, 
+     undersecretary of defense for personnel, of their ``deep 
+     concern'' about VA trauma center doctors not having access to 
+     complete records.
+       ``For those servicemembers suffering from a traumatic brain 
+     injury,'' they wrote, ``VA's access to in-theater imaging is 
+     an important and valuable tool for tracking their patient's 
+     progress since being wounded or injured.'' They suggested the 
+     VA doctor be given temporary access to JPTA while the data-
+     sharing questions are worked out.
+       They're still awaiting an appropriate response. McNamee is 
+     still waiting for the records.
+
+                          ____________________
+```
