@@ -1,0 +1,427 @@
+---
+granule: CRECB-2007-pt4-Pg4695-4
+date: 2007-02-27
+edition: CRECB
+section: HOUSE
+page: 4695
+---
+
+# SUPPORTING THE GOALS AND IDEALS OF A NATIONAL MEDAL OF HONOR DAY
+
+```
+    SUPPORTING THE GOALS AND IDEALS OF A NATIONAL MEDAL OF HONOR DAY
+
+  Mr. SKELTON. Mr. Speaker, I move to suspend the rules and agree to 
+the concurrent resolution (H. Con. Res. 47) supporting the goals and 
+ideals of a National Medal of Honor Day to celebrate and honor the 
+recipients of the Medal of Honor.
+  The Clerk read as follows:
+
+                            H. Con. Res. 47
+
+       Whereas the Medal of Honor is the highest award that can be 
+     bestowed to a member of the Armed Forces for valor in action 
+     against an enemy force;
+       Whereas the Medal of Honor is awarded by the President, in 
+     the name of the Congress, to members of the Armed Forces who 
+     have distinguished themselves conspicuously by gallantry and 
+     intrepidity at the risk of their lives above and beyond the 
+     call of duty;
+       Whereas the United States will forever be in debt to the 
+     recipients of the Medal of Honor for their bravery and 
+     sacrifice in times of war or other armed conflict;
+       Whereas the Medal of Honor was first awarded on March 25, 
+     1863, during the Civil War;
+       Whereas, of the millions of men and women who have served 
+     in the Armed Forces in war, military operations, or other 
+     armed conflicts, only 3,443 members have thus far been 
+     awarded the Medal of Honor;
+       Whereas 111 Medal of Honor recipients are still living as 
+     of January 1, 2007;
+       Whereas it is appropriate to commemorate and honor the 
+     recipients of the Medal of Honor and to recognize their 
+     bravery and sacrifice for the United States;
+       Whereas the designation of a National Medal of Honor Day 
+     would raise the awareness of the American people regarding 
+     the significance and meaning of the Medal of Honor and help 
+     focus the efforts of national, State, and local organizations 
+     striving to foster public appreciation and recognition of 
+     Medal of Honor recipients; and
+       Whereas March 25 would be an appropriate date to observe 
+     National Medal of Honor Day: Now, therefore, be it
+       Resolved by the House of Representatives (the Senate 
+     concurring),  That Congress--
+       (1) recognizes the heroism and sacrifice of Medal of Honor 
+     recipients for the United States;
+       (2) recognizes the educational opportunity that a National 
+     Medal of Honor Day would present to the American public; and
+       (3) supports the goals and ideals of a National Medal of 
+     Honor Day to celebrate and honor the contributions of Medal 
+     of Honor recipients.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentleman from 
+Missouri (Mr. Skelton) and the gentleman from North Carolina (Mr. 
+Jones) each will control 20 minutes.
+  The Chair recognizes the gentleman from Missouri.
+
+
+                             general leave
+
+  Mr. SKELTON. Mr. Speaker, I ask unanimous consent that all Members 
+may have 5 legislative days to revise and extend their remarks and 
+include extraneous material on the resolution now under consideration.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Missouri?
+  There was no objection.
+  Mr. SKELTON. Mr. Speaker, I yield myself as much time as I may 
+consume.
+  Today I rise in support of House Concurrent Resolution 47, which I 
+introduced to recognize the extraordinary heroism and sacrifice of the 
+Nation's Medal of Honor recipients and to increase America's awareness 
+of the significance and meaning of the Medal of Honor among our 
+American citizens.
+  I want to thank my colleague on the House Armed Services Committee, 
+the gentleman from North Carolina (Mr. Jones) for being here in support 
+of this issue this afternoon.
+  The Congressional Medal of Honor is our Nation's highest military 
+award for valor in action against an enemy that can be bestowed on any 
+member of the Armed Forces.
+  Since the medal was created in 1861, more than 3,400 individuals who 
+have served our Nation in uniform have been awarded the Medal of Honor.
+  The first medal was established by the United States Navy to 
+recognize sailors and marines who distinguish themselves in war. 
+President Abraham Lincoln signed Public Resolution 82 into law, and 
+thus the first medal of valor was created. The Army shortly followed in 
+1862 by establishing a Medal of Honor to recognize commissioned 
+officers and privates who distinguished themselves by their gallantry 
+in action. The Medal of Honor became a permanent decoration in 1863. 
+The first award was given to Army Assistant Surgeon Bernard J.D. Irwin 
+for his bravery in rescuing 60 soldiers at Apache Pass, Arizona, in 
+1861.
+  It is very interesting, Mr. Speaker, that a Medal of Honor was 
+awarded a
+
+[[Page 4696]]
+
+Union soldier years after the 1861 Battle of Lexington, Missouri, my 
+hometown, for his gallantry in helping to retake the Anderson House, 
+which was the hospital at the time of that battle, September 18, 19 and 
+20, 1861. His name was Palmer.
+  The current conflict in Iraq sadly has posthumously added two heroic 
+and courageous individuals to the rolls, Sergeant First Class Paul 
+Smith of the United States Army, and Corporal Jason Dunham of the 
+United States Marines. These two individuals continue to epitomize the 
+recipients of the Medal of Honor, whose uncommon valor and 
+extraordinary bravery are standard characteristics.
+
+                              {time}  1415
+
+  It is interesting to note also, Mr. Speaker, that in the history of 
+the medal, 19 men received a second award. 14 of them received two 
+separate medals for separate actions, and one was awarded to a woman. 
+Of the more than 3,400 medals awarded, 266 of those were awarded for 
+action during World War II, and 154 were awarded for action during the 
+Vietnam conflict. Today there are only 111 living recipients of the 
+Medal of Honor. America is rapidly losing its greatest and true heroes.
+  It is also important to note that when Missouri's President, Harry 
+Truman, awarded the Medal of Honor to a soldier at the end of the 
+Second World War, he said he would rather have this medal than being 
+president.
+  The resolution before the House seeks to recognize the heroism and 
+sacrifice of the Nation's Medal of Honor recipients, and to urge the 
+establishment of a National Medal of Honor Day to ensure that all 
+Americans continue to celebrate and to honor the contributions and 
+ideals that the Medal of Honor recipients exemplify.
+  Mr. Speaker, I urge the support of this resolution.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. JONES of North Carolina. Mr. Speaker, I yield myself as much time 
+as I may consume.
+  Mr. Speaker, I want to thank Chairman Skelton for giving me this 
+great privilege of honoring these fine Americans.
+  Today we join together in support of H. Con. Res. 47, as the United 
+States House of Representatives, to honor what is arguably the most 
+select group of Americans to ever wear the uniform of this great 
+Nation.
+  The Medal of Honor is this Nation's highest award bestowed on a 
+member of the United States Armed Services who distinguishes himself or 
+herself conspicuously by gallantry and intrepidity at the risk of his 
+life above and beyond the call of duty while engaged in an action 
+against an enemy of the United States.
+  The Medal of Honor confers special privileges on its recipients, both 
+by tradition and by law.
+  By tradition, all other soldiers, sailors, marines and airmen, even 
+higher ranking officers up to the President of the United States, 
+initiate the salute of the Medal of Honor and its recipient.
+  Mr. Speaker, I would like to discuss briefly the history of the Medal 
+of Honor. The first award of the Medal of Honor was made March 25 of 
+1863 to Private Jacob Parrott and five others. Since then, there have 
+been 3,463 Medals of Honor awarded for 3,456 separate acts of heroism 
+performed by 3,443 individuals, including nine unknowns.
+  Today there are 112 living recipients of the Medal of Honor, out of a 
+population of more than 301 million Americans. Forty-six percent of the 
+living earned their medals more than 50 years ago while serving in 
+World War II, 36, or Korea, 15. There are 61 living who performed 
+actions in Vietnam. The youngest recipient is Gordon R. Roberts, age 
+56. He was born June 14, 1950. He was 19 years old when he earned this 
+high honor.
+  Mr. Speaker, at this time, I would like to yield to Dr. Burgess, the 
+gentleman from Texas, for 4 minutes.
+  Mr. BURGESS. Mr. Speaker, I thank the gentleman for yielding, and I 
+thank the chairman, the gentleman from Missouri, for bringing this 
+concurrent resolution to the floor.
+  This is a resolution that honors the bravest of the brave, the men 
+and women who have gone above and beyond the call of duty, who have 
+risked their lives in fighting for our Nation, indeed, fighting for our 
+basic freedom.
+  Today's resolution pays homage to the basic principles of our 
+military, duty, honor, country. The Medal of Honor recognizes and is 
+emblematic of great courage, selflessness and sacrifice.
+  It is with great pride that I stand here on the floor of Congress 
+today, as Congress is recognizing these extraordinary members of our 
+Armed Services by establishing March 25 as the National Medal of Honor 
+Day. This national day of observance and remembrance is long overdue, 
+and I urge my colleagues to vote in favor of this resolution, to vote 
+in favor of our Armed Forces.
+  While a National Medal of Honor Day is a wonderful way to honor these 
+great citizens, I would be remiss if I did not also mention another 
+great endeavor that seeks to honor Medal of Honor recipients. The city 
+of Gainesville, Texas established the Medal of Honor Host City Program 
+in 2001 with this simple mission statement: It shall be the privilege 
+and the responsibility of the city of Gainesville, Texas, to welcome 
+our Nation's Medal of Honor recipients at every available opportunity. 
+The Local Veterans of Foreign Wars, post number 1922, along with the 
+community volunteers and community members, welcome all Medal of Honor 
+recipients with open arms and provides a stipend to cover lodging, food 
+and fuel expenses during their visit.
+  The recipients are invited to attend schools, clubs and local 
+organizations, thereby imparting their own views of patriotism and duty 
+throughout the community. It is truly a remarkable program, and the 
+true beauty of it is that other cities can establish their own Medal of 
+Honor Host City program to further honor and recognize those heroic 
+recipients.
+  Mr. Speaker, to take a line from the Gainesville, Texas mission 
+statement, I feel that it is Congress's privilege and Congress's 
+responsibility to honor the Medal of Honor recipients at every 
+opportunity. With this resolution, and with programs like the Medal of 
+Honor Host City Program, we take a step in fulfilling that most noble 
+and honorable of all missions.
+  Mr. JONES of North Carolina. Mr. Speaker, I yield myself as much time 
+as I may consume.
+  Mr. Speaker, since I have been in Congress, America has presented 
+this award on behalf of an extremely grateful Nation a total of 22 
+times, 13 of which were presented posthumously.
+  Some recent heroes include Tibor ``Ted'' Rubin for actions in Korea, 
+between 1950 and 1953. He received the award on September 23, 2005.
+  Before that, the medal was awarded posthumously to the family of SFC 
+Paul R. Smith on April 4 of 2005. For his actions in Iraq in 2003, 
+bravely holding the enemy at bay so that the wounded could be safely 
+carried out.
+  Before that, the Medal of Honor was awarded posthumously to Army MSG 
+Gary I. Gordon and SFC Randall D. Shughart for action in Somalia in 
+1993.
+  Most recently, Cpl Jason Dunham, U.S. Marine Corps, was posthumously 
+recognized with the Medal of Honor on Thursday, January 11, 2007 for 
+sacrificing his life for his fellow Marines. Corporal Dunham bravely 
+fought hand-to-hand with the enemy and selflessly hurled himself on a 
+live grenade to protect fellow Marines.
+  Just yesterday, President Bush awarded LTC Bruce P. Crandall the 
+Medal of Honor in a White House ceremony. It was just this morning when 
+several members of the DAV, Disabled American Veterans from my 
+district, stated very simply, after meeting Colonel Crandall, and they 
+said this was his comment when they said congratulations; thank you for 
+what you did for our Nation. His comment was this, he just did what his 
+country asked him to do. He was a volunteer.
+  Throughout the history, there have been 19 double recipients who have 
+twice received this high honor.
+  Mr. Speaker, as this resolution so clearly states, the designation of 
+a National Medal of Honor Day will raise the awareness of the American 
+people regarding the significance and the meaning of the Medal of 
+Honor, and
+
+[[Page 4697]]
+
+help focus the effort on our national, State and local organizations 
+striving to foster public appreciation and recognition of Medal of 
+Honor recipients.
+  Mr. Speaker, the Medal of Honor has touched the lives, directly or 
+indirectly, of millions of Americans, but there are many more firsts or 
+lone recipients of this award. For example:
+  Douglas Munro was the only Coast Guard recipient. He was awarded the 
+Medal of Honor for his actions at Point Cruz, Guadalcanal, on September 
+27 of 1942.
+  Mary Walker was the only woman awarded the Congressional Medal of 
+Honor at Bull Run on July 21 of 1861.
+  Today, Mr. Speaker, there are four Medal of Honor recipients 
+currently living in the State of North Carolina. Throughout its 
+history, there have been 19 Medal of Honor recipients from my great 
+state of North Carolina.
+  Before I close, I would like to take just a couple of minutes, Mr. 
+Speaker. There are many who have won this award, Medal of Honor, who 
+are the heroes of this great Nation. One I would like to bring to mind 
+is a friend of mine whose name is Walter Joseph Marm, Jr.
+  I will not read the entire citation. I just want to read part of it 
+before I close.
+  Joe Marm, First Lieutenant, Army Company A, First Battalion, 7th 
+Cavalry, 1st Cavalry Division (Airmobile). Place: Vicinity of la Drang 
+Valley, Republic of Vietnam, 14 November 1965. Entered service at 
+Pittsburgh, Pennsylvania. Born 20 November 1941.
+  And I want to read just two or three paragraphs from the citation, 
+Mr. Speaker, as he received the Medal of Honor.
+  Realizing that his platoon could not hold very long, and seeing four 
+enemy soldiers moving into his position, he moved quickly under heavy 
+fire and annihilated all four.
+  Quickly, disregarding the intense fire directed at him and his 
+platoon, he charged 30 meters across open ground and hurled grenades 
+into the enemy position, killing some of the eight insurgents manning 
+it.
+  Although severely wounded, when his grenades were expended, armed 
+with only a rifle, he continued the momentum of his assault on the 
+position and killed the remainder of the enemy.
+  Lieutenant Marm's selfless action reduced the fire on his platoon, 
+broke the enemy assault, and rallied his unit to continue toward the 
+accomplishments of this mission.
+  Lieutenant Marm's gallantry on the battlefield and his extraordinary 
+risk of his life are in the highest traditions of U.S. Army and reflect 
+great credit upon himself and the Armed Forces of this country.
+  With that, I thank the gentleman from Missouri (Mr. Skelton) for this 
+privilege to be part of this debate.
+  Mr. Speaker, I yield back the balance of my time.
+  Mr. SKELTON. Mr. Speaker, I am pleased that we are able to bring this 
+resolution to the floor. It is highly important that we recognize those 
+very special individuals who received the Medal of Honor and will bear 
+the recognition throughout their lives, as well as their family 
+receiving recognition should they be awarded posthumously.
+  Ms. JACKSON-LEE of Texas. Mr. Speaker, I rise in support of H. Con. 
+Res. 47, supporting the goals and ideals of a National Medal of Honor 
+Day to celebrate and honor the recipients of the Medal of Honor. The 
+Medal of Honor is the highest award that can be bestowed on a member of 
+the Armed Fores for his or her valiant acts of bravery while engaged in 
+combat against an enemy of the United States.
+  The Medal of Honor is awarded by the President, in the name of the 
+Congress, to members of the Armed Forces who have distinguished 
+themselves conspicuously by gallantry and intrepidity and risked their 
+lives above and beyond the call of duty. The first Medal of Honor was 
+awarded on March 25, 1863 during our country's Civil War to PVT Jacob 
+Parrott during the American Civil War for his role in Andrews Raid. He 
+was the first of only 3,443 members in war, military operations and 
+other armed conflicts of our Armed Forces who have received this great 
+honor.
+  There are 111 Medal of Honor recipients still living and serving our 
+country in their own capacity and I, as well as the entire Nation, will 
+forever be indebted to all recipients of this award for their valor 
+during armed conflict.
+  It is appropriate and necessary to commemorate and honor the 
+recipients of the Medal of Honor and to recognize their valiant 
+sacrifices for our country. That is why I support the designation of a 
+National Medal of Honor Day which would heighten the understanding and 
+appreciation of the American people regarding the significance and 
+meaning of the Medal of Honor.
+  It is essential that our Nation celebrate and salute those members of 
+the Armed Forces who have risked their lives to ensure our safety and 
+the safety of our country. Designating this day will also help to focus 
+the efforts of national, State, and local organizations striving to 
+foster public appreciation and recognition of Medal of Honor 
+recipients.
+  I sincerely appreciate the sacrifices the members of our Armed Forces 
+make each and every day on behalf of our country. I support the 
+designation of March 25 as National Medal of Honor Day in honor of all 
+those members of the Armed Forces who performed valiant acts of bravery 
+during combat against an enemy of the United States.
+  Mr. BUYER. Mr. Speaker, I rise in support of H. Con. Res. 47--a 
+resolution establishing a national day of remembrance, reflection, and 
+celebration for those citizens who so valiantly defended our Nation and 
+protected their fellow servicemembers through extraordinary feats of 
+courage and achievement--recipients of the Congressional Medal of 
+Honor.
+  I extend a thank you to my colleagues from the House Armed Services 
+Committee for leading the effort to commemorate the recipients of our 
+Nation's highest military honor. As a Nation, we can never forget the 
+sacrifices these men and women have made to keep America free.
+  The first Medal of Honor was awarded on March 25, 1864. As we 
+approach this anniversary, let us reflect on the lives and deeds of 
+those brave soldiers, sailors, airmen and Marines who have received 
+this honor throughout our Nation's history.
+  In 1782, General George Washington started the tradition of 
+recognizing the valiant actions of American soldiers by establishing 
+what became known as the Badge of Military Merit. Washington presented 
+a heart of purple cloth to three of his soldiers in August of that 
+year, an act that was largely lost in history as the Revolutionary War 
+came to a close. This honor was the predecessor to what we now know as 
+the Purple Heart.
+  Though the Badge of Military Merit faded into the past, the idea of 
+awarding a decoration to recognize the gallant efforts of our soldiers 
+never died. In 1847, not long after the outbreak of the Mexican-
+American War, a ``certificate of merit'' was established to recognize 
+troops who distinguished themselves in battle. No medal accompanied the 
+certificate and the award was again discontinued at the end of that 
+conflict.
+  During the Civil War another proposal arose to establish a medal, but 
+the idea was rejected by then General-In-Chief of the Army Winifield 
+Scott. The Navy, however, adopted this concept, and in December 1861, 
+President Abraham Lincoln signed legislation that established a Navy 
+medal for valor. Not to be outdone by their friendly rival, the Army 
+quickly followed suit with their own resolution to establish a similar 
+award, signed into law in July 1862.
+  In 1863, Congress established the Medal of Honor as a permanent means 
+to recognize our Nation's most gallant warriors. Since then, it has 
+been awarded to almost 3,400 of our Nation's bravest citizens.
+  Today, the number of living Medal of Honor recipients is at its 
+lowest point in history--there remain only 111 as of February 1. This 
+resolution is a lasting tribute to those 111 men and women, the 
+recipients who are no longer with us, and to those to come in the 
+future who stood up and answered the call to protect and defend this 
+land.
+  Mr. REYES. Mr. Speaker, I rise in support of H. Con. Res. 47, 
+observing National Medal of Honor Day and honoring the sacrifices of 
+Medal of Honor recipients and their contributions to our Nation. March 
+25th is an appropriate day to recognize these individuals, since the 
+first Medal of Honor was awarded on March 25, 1863.
+  This resolution not only salutes the bravery of Medal of Honor 
+recipients, but also gives the American public the opportunity to learn 
+about the history of this prestigious military distinction and the 
+uncommon acts of courage that made recipients real-life heros.
+  Previous honorees include several EI Pasoans. Staff Sergeant Ambrosio 
+Guillen was posthumously awarded the Medal of Honor for going above and 
+beyond the call of duty during the Korean War. Sergeant Guillen 
+sacrificed his life in order to thwart an enemy attack, saving the 
+lives of the men in his platoon. He was laid to rest at Fort Bliss 
+National Cemetery.
+
+[[Page 4698]]
+
+  Colonel Joseph C. Rodriguez was also awarded the Medal of Honor for 
+his courageous actions in the Korean War. While facing a barrage of 
+hostile fire and improbable odds, Colonel Rodriguez secured a strategic 
+stronghold by killing 15 enemy soldiers occupying well-fortified 
+positions. He later moved to EI Paso following his retirement from the 
+Army and served as Facilities Director at the University of Texas at EI 
+Paso for over 10 years.
+  Most recently, on April 4, 2005, Army Sergeant First Class Paul Ray 
+Smith was posthumously awarded the Medal of Honor for his 
+``extraordinary heroism and uncommon valor'' while repelling an enemy 
+attack on a prisoner of war holding area during Operation Iraqi 
+Freedom. Sergeant Smith quickly organized two Army platoons to defend 
+their position. In the face of enemy fire, Smith manned a .50 caliber 
+machine gun mounted on a damaged armored vehicle. Although exposed to 
+enemy gunfire, Sergeant Smith maintained his position. His heroism 
+resulted in the death of over 50 enemy soldiers before Sergeant Smith 
+was mortally wounded during this courageous act.
+  As a Vietnam veteran, I recognize the importance of honoring these 
+selfless acts of courage. In order to preserve their legacy and costly 
+sacrifices, I proudly stand in support of our Medal of Honor 
+recipients.
+  Mr. SKELTON. Mr. Speaker, I yield back the balance of my time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from Missouri (Mr. Skelton) that the House suspend the rules 
+and agree to the concurrent resolution, H. Con. Res. 47.
+  The question was taken.
+  The SPEAKER pro tempore. In the opinion of the Chair, two-thirds 
+being in the affirmative, the ayes have it.
+  Mr. SKELTON. Mr. Speaker, on that I demand the yeas and nays.
+  The yeas and nays were ordered.
+  The SPEAKER pro tempore. Pursuant to clause 8 of rule XX and the 
+Chair's prior announcement, further proceedings on this question will 
+be postponed.
+
+                          ____________________
+```
