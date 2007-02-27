@@ -1,0 +1,63 @@
+---
+granule: CREC-2007-02-27-pt1-PgH1942-2
+date: 2007-02-27
+edition: CREC
+section: HOUSE
+page: H1942
+citation: 153 Cong. Rec. H1942
+---
+
+# HONORING THE LIFE AND SERVICE OF THE HONORABLE GENE SNYDER
+
+**Speaking:** Yarmuth, John A. (Y000062) [D-KY]
+
+```
+       HONORING THE LIFE AND SERVICE OF THE HONORABLE GENE SNYDER
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from Kentucky (Mr. Yarmuth) is recognized for 5 minutes.
+  Mr. YARMUTH. Mr. Speaker, like my colleague from Kentucky, I rise to 
+honor former Congressman Gene Snyder. Because we find ourselves both as 
+a Congress and a country working to dig ourselves out of a divisive 
+partisan trench, which in recent years has been characterized by petty 
+attacks and contentiousness, my constituents may be surprised to know 
+that I counted Gene Snyder as a friend.
+  Gene, who was always more interested in the public than publicity, 
+told me a story about a persistent reporter who badgered him about a 
+meeting he wanted to cover. Gene didn't want the reporter at the 
+meeting and refused to disclose the location. So when Gene spotted the 
+reporter in his rearview mirror tailing him to the meeting, Gene said 
+to heck with it. He told his aide to head for the mountains, and led 
+the reporter on a 100-mile wild goose chase through Virginia.
+  Now, as a former member of the news media, I won't applaud that 
+tactic, but I admire the competitive spirit it exemplified. In any 
+event, that was the last time that reporter tried to get the best of 
+Gene.
+  Although Gene and I enjoyed each other's company, you would be hard-
+pressed to find more than a handful of issues upon which the honorable 
+Gene Snyder and I agreed in the political arena. But political issues 
+are only one part of this job, the other being serving one's 
+constituents.
+  As far apart as we sat on the ideological spectrum, Gene Snyder's 
+model of constituent service is one I aspire to closely emulate. In his 
+three decades of service, Congressman Snyder set the example of how to 
+serve a district. He set the bar, and he set it high.
+  When Gene held my seat, we in Louisville knew that we had a 
+representative with an open door and an open ear for all of us. If it 
+concerned our community, no matter, big or small, was unworthy of his 
+attention. He welcomed us warmly, shared a laugh, and left us with a 
+feeling that something would soon be done to address anything from a 
+clerical glitch to the need for a new highway. Inevitably, and 
+remarkably, for an age when distrust of a power-hungry government 
+dominated, the issue would be handled effectively and expediently.
+  As I now work to institute my own open door policy, I am consistently 
+cognizant that I follow the example set by a predecessor and a friend, 
+Gene Snyder. I look to him has a fervent believer that democracy stems 
+not from politicians, but from the citizens we represent, and I 
+endeavor to capture that spirit as he did.
+  Gene Snyder was my representative, he was my friend, and he will be 
+greatly missed. I hope my colleagues will join me in honoring his life 
+and service to his constituents.
+
+                          ____________________
+```

@@ -1,0 +1,41 @@
+---
+granule: CREC-2007-02-27-pt1-PgS-FrontMatter-9
+date: 2007-02-27
+edition: CREC
+section: SENATE
+page: S2237
+citation: 153 Cong. Rec. S2237
+---
+
+# CONGRESSIONAL RECORD
+
+```
+                          CONGRESSIONAL RECORD
+
+                         United States of America
+American eagle (seal)
+
+
+       PROCEEDINGS AND DEBATES OF THE 110th CONGRESS, FIRST SESSION
+-------------------------------------------------------------------------
+
+
+
+
+
+
+
+-------------------------------------------------------------------------
+
+This ``bullet'' symbol identifies statements or insertions which are not
+ spoken by the Member of the Senate on the floor.
+
+--------------------------------------------------------------------------
+
+
+
+(seal) recycle
+Printed on recycled paper.
+
+Vol. 153         WASHINGTON, TUESDAY, FEBRUARY 27, 2007          No. 33
+```

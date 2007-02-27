@@ -1,0 +1,61 @@
+---
+granule: CREC-2007-02-27-pt1-PgS2266-2
+date: 2007-02-27
+edition: CREC
+section: SENATE
+page: S2266
+citation: 153 Cong. Rec. S2266
+---
+
+# NATIONAL EYE DONOR MONTH
+
+**Speaking:** Brown, Sherrod (B000944) [D-OH]
+
+```
+                        NATIONAL EYE DONOR MONTH
+
+  Mr. BROWN. Mr. President, March is National Eye Donor Month, an 
+opportunity to celebrate the gift of sight, to honor past donors and 
+their families, and to raise public awareness regarding the importance 
+of eye donation. We in the Senate can help ensure a sufficient supply 
+of precious corneas by educating the public about the importance of eye 
+donation and encouraging more Americans to become organ donors.
+  Last year, more than 46,000 Americans had their lives renewed and 
+reinvigorated through the miracle of corneal transplantation. This 
+surgical procedure gives those people who have lost, or are losing, 
+their vision the life-changing gift of restored sight.
+  For more than 30 years, Teresa Walton, an Ohio resident, lived 
+without depth perception and with the stigma of an altered appearance, 
+because a viral infection stole the vision in her left eye. At the age 
+of 15, while most other children were enjoying high school sports and 
+anxiously awaiting the day they could earn their driver's license, 
+Teresa was unable to recognize when someone approached her from the 
+left, nor could she easily navigate a set of stairs.
+  Finally, in her forties, Teresa decided it was time for a transplant. 
+Because of the transplant she received in Springfield, OH, the vision 
+in Teresa's left eye was restored. With the return of her depth 
+perception, Teresa can now easily light the candles on her three 
+daughters' birthday cakes. She is no longer self-conscious about the 
+appearance of her left eye. And as a teacher, she can now recognize 
+when one of her students is standing next to her.
+  Through the tireless efforts of the eye banks located throughout the 
+country, and the coordinated efforts of the Eye Bank Association of 
+America, Teresa Walton and thousands upon thousands of Americans like 
+her have rediscovered the many joys full vision affords.
+  The power of cornea transplantation is evident in Teresa's story, but 
+it is
+
+[[Page S2267]]
+
+only possible if concerned Americans register as an organ donor and, 
+subsequently, inform their family members and loved ones of their 
+intention to donate.
+  That is why, as National Eye Donation Month approaches, I encourage 
+my colleagues to work with their local eye banks, and the Eye Bank 
+Association of America, to promote eye donation and provide more 
+people, like Teresa Walton, with the miracle cornea transplantation 
+provides. There is no gift more meaningful, or more profoundly 
+important, than the gift of sight.
+
+                          ____________________
+```
