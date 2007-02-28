@@ -1,0 +1,30 @@
+---
+granule: CRECB-2007-pt4-Pg4793-9
+date: 2007-02-28
+edition: CRECB
+section: HOUSE
+page: 4793
+---
+
+# ADMINISTRATION WANTS TO TALK TO IRAN WHILE PLANNING WAR
+
+```
+        ADMINISTRATION WANTS TO TALK TO IRAN WHILE PLANNING WAR
+
+  Mr. KUCINICH. Mr. Speaker, the administration now says it wants to 
+talk to Iran. At the same time it is making plans to attack Iran. By 
+saying it wants to talk to Iran and Syria, the administration appears 
+to be reversing course after spending 2 months pumping the media full 
+of anonymously sourced articles reporting to link Iran to the Iraq war.
+  Now it says it wants to talk. Making it appear that it wants to avoid 
+another war. Right. Think about it. Aircraft carriers to the region, 
+mine sweepers to the Persian Gulf, arming neighboring countries with 
+Patriot missiles, ordering an increase in a Strategic Petroleum 
+Reserve, anticipating an oil embargo. When this administration puts the 
+guns on the table and says let's talk, chances are it is going to shoot 
+first and ask questions later, just like in Iraq.
+  Wake up, Congress. This administration is planning an attack on Iran 
+with or without the permission of this House.
+
+                          ____________________
+```
