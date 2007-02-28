@@ -1,0 +1,59 @@
+---
+granule: CREC-2007-02-28-pt1-PgS2353
+date: 2007-02-28
+edition: CREC
+section: SENATE
+page: S2353
+citation: 153 Cong. Rec. S2353
+---
+
+# 2007 WE THE PEOPLE NATIONAL FINALS
+
+**Speaking:** Smith, Gordon H. (S001142) [R-OR]
+
+```
+                   2007 WE THE PEOPLE NATIONAL FINALS
+
+● Mr. SMITH. Mr. President, today I wish to recognize the more 
+than 1,200 students from across the country who will visit Washington, 
+DC, to take part in the national finals of We the People: The Citizen 
+and the Constitution, the most extensive educational program in the 
+country developed to educate young people about the U.S. Constitution 
+and Bill of Rights.
+  I am proud to announce that the State of Oregon will be represented 
+by Grant High School from Portland at this prestigious national event. 
+These outstanding students, through their knowledge of the U.S. 
+Constitution, won their statewide competition and earned the chance to 
+come to our Nation's Capital and compete at the national level.
+  While in Washington, the students will participate in a 3-day 
+academic competition that simulates a congressional hearing in which 
+they ``testify'' before a panel of judges. Students demonstrate their 
+knowledge and understanding of constitutional principles as they 
+evaluate, take, and defend positions on relevant historical and 
+contemporary issues. With many reports and surveys indicating the lack 
+of civic knowledge and civic participation I am pleased to support such 
+a superb program that is producing an enlightened and engaged 
+citizenry.
+  Mr. President, the names of these outstanding students from Grant 
+High School are:
+  Phoebe Anderson-Dana, Alex Barbour, Rachael Bortin, Rachael Bosworth, 
+Andrew Carlson, Alma Chapa, Daniel Cruse, Casey Daline, Camille 
+Faulkner, Rebecca Fischer, Laura Harris, Tiffany Harrison, Kristin 
+Ivie, Mark Johnston, Madeline Jones, Jennifer Kemp, Sally Larkins, 
+Sarah Lazzeroni, Julia Liedel, Benjamin MacCormack-Gelles, Edward 
+Maisha, Zachary Mayer, Eamon McMahon, Asumi Ohgushi, Phung Phan, 
+Stephanie Phoutrides, Hugh Runyun, Riley Scheid, Emily Schorr, Cassidy 
+Slaughter-Mason, Annie Soga, Jack Stephens, Annabelle Thomas, Annika 
+Tohlen, and Kathleen Ward.
+  I also commend the teacher of the class, Mr. Geoff Henderson, who is 
+responsible for preparing these young constitutional experts for the 
+national finals. Also worthy of special recognition is Ms. Marilyn 
+Cover, the State coordinator, and Ms. Diane Thelen-Sager, the district 
+coordinator, who are among those responsible for implementing the We 
+the People program in my State.
+  This group of students from Grant High School has brought pride to 
+the State of Oregon, and I ask my colleagues to join me in 
+congratulating them for their exceptional achievement.●
+
+                          ____________________
+```

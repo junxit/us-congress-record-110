@@ -1,0 +1,40 @@
+---
+granule: CREC-2007-02-28-pt1-PgH1980-4
+date: 2007-02-28
+edition: CREC
+section: HOUSE
+page: H1980
+citation: 153 Cong. Rec. H1980
+---
+
+# BUSH ADMINISTRATION'S SPIN ON BRITISH TROOP WITHDRAWAL NOT HELPFUL FOR THE FUTURE
+
+**Speaking:** Hare, Phil (H001040) [D-IL]
+
+```
+BUSH ADMINISTRATION'S SPIN ON BRITISH TROOP WITHDRAWAL NOT HELPFUL FOR 
+                               THE FUTURE
+
+  (Mr. HARE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. HARE. Mr. Speaker, last week British Prime Minister Tony Blair 
+announced that he plans to withdraw 1,600 British troops this summer. 
+The administration's response, this is good news, because it shows that 
+some good things are happening in Iraq. Nice spin. But one has to 
+wonder why our closest ally in this war is pulling out troops at the 
+very same time this administration wants to send 21,500 additional U.S. 
+soldiers into Iraq.
+  The British say they are withdrawing their troops because the Shiite-
+dominated southern region is relatively calm. That is, indeed, good 
+news. But if the British really believed, as this President does, that 
+expanding number of troops in Baghdad would lead to the same results 
+there, wouldn't they choose to move these troops into Baghdad rather 
+than pull them out completely?
+  No matter how the Bush administration tries to spin it, the British 
+withdrawal is not good news for the administration's troop escalation 
+plan. Why should we be sending thousands more of our troops to Iraq 
+when Britain and other coalition members are pulling out? It is time 
+the administration stops spinning and instead answers these questions.
+
+                          ____________________
+```

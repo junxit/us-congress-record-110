@@ -1,0 +1,54 @@
+---
+granule: CREC-2007-02-28-pt1-PgE422-2
+date: 2007-02-28
+edition: CREC
+section: EXTENSIONS
+page: E422
+citation: 153 Cong. Rec. E422
+---
+
+# IN HONOR OF CAPTAIN TODD M. SIEBERT
+
+**Speaking:** Altmire, Jason (A000362) [D-PA]
+
+```
+                  IN HONOR OF CAPTAIN TODD M. SIEBERT
+
+                                 ______
+                                 
+
+                           HON. JASON ALTMIRE
+
+                            of pennsylvania
+
+                    in the house of representatives
+
+                      Wednesday, February 28, 2007
+
+  Mr. ALTMIRE. Madam Speaker, I rise today to honor Captain Todd M. 
+Siebert, a Marine who was killed while on active duty in Iraq on 
+February 16, 2007. As a member of the 3rd Battalion of the 6th Marines, 
+he was on patrol in Al Anbar Province when his armored military vehicle 
+was hit with an unidentified explosive device. A veteran of 
+Afghanistan, he had served only six weeks in Iraq and was expecting his 
+35th birthday next month.
+  Captain Siebert was born and raised in Franklin Park, Pennsylvania 
+and graduated from North Allegheny High School. He joined the Junior 
+Reserve Officer Training Corps program while in high school and 
+enlisted in the Army soon after he graduated. He later joined the 
+Marines and received his commission from the Marine Corps in 1999 when 
+he graduated from Penn State University with a degree in criminal 
+justice.
+  Captain Seibert was awarded the Purple Heart, the Navy and Marine 
+Corps Commendation Medal, the Navy and Marine Corps Achievement Medal, 
+and numerous other military awards for his service to our country. He 
+will be remembered for his bravery and dedication.
+  On behalf of my family, the Fourth Congressional District of 
+Pennsylvania, and the U.S. House of Representatives, I extend our 
+heartfelt sympathy and eternal gratitude to Captain Siebert's family. 
+Our thoughts and prayers are with his wife, Darcy, two young children, 
+Alicia and Nicholas, as well as two sisters, a brother, and his 
+parents, Thomas and Dorothy Siebert.
+
+                          ____________________
+```
