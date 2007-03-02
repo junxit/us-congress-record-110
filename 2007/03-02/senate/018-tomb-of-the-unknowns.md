@@ -1,0 +1,49 @@
+---
+granule: CREC-2007-03-02-pt1-PgS2558-2
+date: 2007-03-02
+edition: CREC
+section: SENATE
+page: S2558
+citation: 153 Cong. Rec. S2558
+---
+
+# TOMB OF THE UNKNOWNS
+
+**Speaking:** Akaka, Daniel K. (A000069) [D-HI]
+
+```
+                          TOMB OF THE UNKNOWNS
+
+  Mr. AKAKA. Mr. President, this Sunday, March 4, will mark the 86th 
+anniversary of the enactment of a measure which established the Tomb of 
+the Unknowns, honoring those members of the U.S. Armed Forces who fell 
+in battle but who were not able to be identified, those ``known but to 
+God.''
+  By its very nature, war takes life. Parents lose children, children 
+lose parents, and with each passing this country loses a son or 
+daughter that makes this Nation what it is, great. No funeral or 
+ceremony can stop the pain that cuts deep into the families of 
+servicemembers who have been killed in action. But for the families of 
+servicemembers missing in action, the cutting pain of loss remains an 
+open wound.
+  At the end of the First World War, this country asked itself 
+questions related to those American soldiers who were unknown or 
+missing in action. Where would those families come to pray, to grieve? 
+Where would the rest of us go to ponder how it is we should honor them?
+  Eighty-six years ago, Members of Congress, standing in the Capitol 
+where we stand today, sought to respond to those questions. Eighty-six 
+years later, the Tomb of the Unknowns stands honored and guarded. Since 
+1937, Tomb Guards of the 3rd U.S. Infantry have safeguarded those 
+buried in the tomb, every minute of every day, never failing. They 
+epitomize our Nation's commitment to honor all of America's unknown and 
+missing soldiers.
+  On this occasion, choosing to reflect on the Tomb of the Unknowns and 
+what it means would be of value to us all. We should think of the the 
+families of the missing, the spirits of the unknown soldiers, and of 
+the Tomb Guards, who honor them. For myself, I extend heartfelt 
+feelings my prayers for the families, my deepest gratitude to those 
+unknown soldiers, honored by us all, though ``known but to God,''and my 
+respect to those entrusted to guard the tomb.
+
+                          ____________________
+```
