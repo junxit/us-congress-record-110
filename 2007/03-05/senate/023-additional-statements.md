@@ -1,0 +1,45 @@
+---
+granule: CRECB-2007-pt4-Pg5294-3
+date: 2007-03-05
+edition: CRECB
+section: SENATE
+page: 5294
+---
+
+# ADDITIONAL STATEMENTS
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+        CONGRATULATING HAWAII'S NATIONAL CHEERLEADING CHAMPIONS
+
+● Mr. AKAKA. Mr. President, I wish to congratulate the 
+Kamehameha Varsity Cheer Team which won the National High School 
+Cheerleading Championship at Walt Disney World in Orlando, FL, on 
+February 9 to 11, 2007. The Kamehameha squad received top marks from 
+the competition's judges, garnering a total of 713 points, thereby 
+capturing the Small Varsity Division title.
+  The Warriors advanced to the national championship by winning 1 of 58 
+regional competitions held across the country and was 1 of 6 teams to 
+advance directly to the finals. At the national competition, Kamehameha 
+faced off against 55 rival squads. In the final round of competition, 
+the young women of Kamehameha demonstrated amazing skill and 
+athleticism acquired over many months of rigorous training.
+  The Kamehameha Varsity Cheer Team includes captains Corinne Chun, 
+Jasmine Merseberg, Kendra Uson, and Keeny Won; and members Erika 
+Castro, Kelli Ann Uehara, Cristina Lei Luke, Kanani Kekuawela, Savannah 
+Wolfe, Kacie Kamaka`ala, Ashley Murakami, Robbi Bulatao, and Chelsea 
+Bega. The team is led by cohead coaches Melissa Beimes and Dolly Wong, 
+along with varsity coaches Giselle Ann-Kim and Shannon Cosma, all 
+Kamehameha School alumnae.
+  I congratulate the Kamehameha Varsity Cheer Team on their 
+accomplishment, and I wish all of them the best in their future 
+endeavors. I extend the same congratulations to all members and coaches 
+who participated in this year's National High School Cheerleading 
+Championship on a job well done.●
+
+                          ____________________
+```

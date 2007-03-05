@@ -1,0 +1,25 @@
+---
+granule: CRECB-2007-pt4-Pg5350-3
+date: 2007-03-05
+edition: CRECB
+section: SENATE
+page: 5350
+---
+
+# CONFIRMATION
+
+```
+                              CONFIRMATION
+
+  Executive nomination confirmed by the Senate Monday, March 5, 2007:
+
+
+                       DEPARTMENT OF THE INTERIOR
+
+       CARL JOSEPH ARTMAN, OF COLORADO, TO BE AN ASSISTANT 
+     SECRETARY OF THE INTERIOR.
+
+       THE ABOVE NOMINATION WAS APPROVED SUBJECT TO THE NOMINEE'S 
+     COMMITMENT TO RESPOND TO REQUESTS TO APPEAR AND TESTIFY 
+     BEFORE ANY DULY CONSTITUTED COMMITTEE OF THE SENATE.
+```
