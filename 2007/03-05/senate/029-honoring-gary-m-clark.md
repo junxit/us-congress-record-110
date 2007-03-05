@@ -1,0 +1,39 @@
+---
+granule: CREC-2007-03-05-pt1-PgS2597
+date: 2007-03-05
+edition: CREC
+section: SENATE
+page: S2597
+citation: 153 Cong. Rec. S2597
+---
+
+# HONORING GARY M. CLARK
+
+**Speaking:** Burr, Richard (B001135) [R-NC]
+
+```
+                         HONORING GARY M. CLARK
+
+● Mr. BURR. Mr. President, I wish to take this opportunity to 
+honor the life of Caldwell County Sheriff Gary M. Clark, who died from 
+cancer on February 2 at the age of 47. Sheriff Clark was an outstanding 
+and dedicated public servant whose influence, knowledge, and 
+achievements were widely known and highly regarded.
+  Sheriff Clark served the citizens of Caldwell County with honor and 
+distinction for 27 years. He began his law enforcement career with the 
+Lenoir Police Department, where he served for 22 years. He was first 
+elected sheriff of Caldwell County in 2002 and reelected to a second 
+term in November 2007.
+  Sheriff Clark loved serving the citizens of Caldwell County and 
+dedicated his life to law enforcement. Additionally, he loved his 
+family and was a dedicated husband and father. He was also a man of 
+great faith.
+  Sheriff Clark is survived by his wife Kim Clark; two daughters, Megan 
+Elaine Clark, 14, and Staci Michelle Clark, 11; his parents Stanley and 
+Norma Clark; and a brother, Alan Clark.
+  I know my colleagues in the Senate join me in honoring the life of 
+Sheriff Gary M. Clark and in offering condolences to his family, 
+friends, and colleagues.●
+
+                          ____________________
+```

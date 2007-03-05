@@ -1,0 +1,70 @@
+---
+granule: CREC-2007-03-05-pt1-PgE461-2
+date: 2007-03-05
+edition: CREC
+section: EXTENSIONS
+page: E461
+citation: 153 Cong. Rec. E461
+---
+
+# SUPPORTING THE GOALS AND IDEALS OF A NATIONAL MEDAL OF HONOR DAY
+
+**Speaking:** Reyes, Silvestre (R000170) [D-TX]
+
+**Measures:** H.Con.Res. 47
+
+```
+    SUPPORTING THE GOALS AND IDEALS OF A NATIONAL MEDAL OF HONOR DAY
+
+                                 ______
+                                 
+
+                               speech of
+
+                          HON. SILVESTRE REYES
+
+                                of texas
+
+                    in the house of representatives
+
+                       Tuesday, February 27, 2007
+
+  Mr. REYES. Mr. Speaker, I rise in support of H. Con. Res. 47, 
+observing National Medal of Honor Day and honoring the sacrifices of 
+Medal of Honor recipients and their contributions to our Nation. March 
+25th is an appropriate day to recognize these individuals, since the 
+first Medal of Honor was awarded on March 25, 1863.
+  This resolution not only salutes the bravery of Medal of Honor 
+recipients, but also gives the American public the opportunity to learn 
+about the history of this prestigious military distinction and the 
+uncommon acts of courage that made recipients real-life heros.
+  Previous honorees include several EI Pasoans. Staff Sergeant Ambrosio 
+Guillen was posthumously awarded the Medal of Honor for going above and 
+beyond the call of duty during the Korean War. Sergeant Guillen 
+sacrificed his life in order to thwart an enemy attack, saving the 
+lives of the men in his platoon. He was laid to rest at Fort Bliss 
+National Cemetery.
+  Colonel Joseph C. Rodriguez was also awarded the Medal of Honor for 
+his courageous actions in the Korean War. While facing a barrage of 
+hostile fire and improbable odds, Colonel Rodriguez secured a strategic 
+stronghold by killing 15 enemy soldiers occupying well-fortified 
+positions. He later moved to EI Paso following his retirement from the 
+Army and served as Facilities Director at the University of Texas at EI 
+Paso for over 10 years.
+  Most recently, on April 4, 2005, Army Sergeant First Class Paul Ray 
+Smith was posthumously awarded the Medal of Honor for his 
+``extraordinary heroism and uncommon valor'' while repelling an enemy 
+attack on a prisoner of war holding area during Operation Iraqi 
+Freedom. Sergeant Smith quickly organized two Army platoons to defend 
+their position. In the face of enemy fire, Smith manned a .50 caliber 
+machine gun mounted on a damaged armored vehicle. Although exposed to 
+enemy gunfire, Sergeant Smith maintained his position. His heroism 
+resulted in the death of over 50 enemy soldiers before Sergeant Smith 
+was mortally wounded during this courageous act.
+  As a Vietnam veteran, I recognize the importance of honoring these 
+selfless acts of courage. In order to preserve their legacy and costly 
+sacrifices, I proudly stand in support of our Medal of Honor 
+recipients.
+
+                          ____________________
+```

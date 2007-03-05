@@ -1,0 +1,44 @@
+---
+granule: CREC-2007-03-05-pt1-PgS2593-2
+date: 2007-03-05
+edition: CREC
+section: SENATE
+page: S2593
+citation: 153 Cong. Rec. S2593
+---
+
+# TRIBUTE TO HAL ROTHMAN
+
+**Speaking:** Reid, Harry (R000146) [D-NV]
+
+```
+                         TRIBUTE TO HAL ROTHMAN
+
+  Mr. REID. Mr. President, it is with great sadness that I rise to 
+share the passing of a real Nevadan, Dr. Hal Rothman. After a struggle 
+with Lou Gehrig's disease, Hal passed away on February 25, 2007. He was 
+a loving husband to Lauralee, a father to Talia and Brent, and a friend 
+to many who were privileged to know him, including me.
+  Hal's professional life and community involvement were remarkable. 
+Hal was a history professor at UNLV, a Las Vegas Sun columnist, and a 
+respected author on Western and environmental history. Whenever anyone 
+needed a quick quote or quip about Las Vegas, they often called Hal. 
+From syndicated news shows to historians, Hal was often seen as the go-
+to-man for anything related to the city.
+  Hal's love of Las Vegas was clearly apparent last October when he was 
+honored as the Chin's Humanitarian of the Year by the southern Nevada 
+chapter of the Muscular Dystrophy Association. In his prepared remarks 
+Hal wrote:
+
+       I have sought to explain our wacky city and State to an 
+     often skeptical and sometimes incredulous national and 
+     international audience. Las Vegas not only became our home 
+     but also a city I love with all my heart.
+
+  Hal was an outstanding ambassador for Las Vegas and to a larger 
+extent Nevada. He was our front man. He was our image. He was our voice 
+to the world. Nevada has lost one of its favorite sons, and Hal will be 
+forever remembered as a tireless advocate for Las Vegas.
+
+                          ____________________
+```
