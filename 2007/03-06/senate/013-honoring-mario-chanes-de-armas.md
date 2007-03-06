@@ -1,0 +1,67 @@
+---
+granule: CREC-2007-03-06-pt1-PgS2651
+date: 2007-03-06
+edition: CREC
+section: SENATE
+page: S2651
+citation: 153 Cong. Rec. S2651
+---
+
+# HONORING MARIO CHANES DE ARMAS
+
+**Speaking:** Martinez, Mel (M001162) [R-FL]
+
+```
+                     HONORING MARIO CHANES DE ARMAS
+
+  Mr. MARTINEZ. Mr. President, I rise today to pay tribute to a Cuban 
+patriot--Mario Chanes de Armas.
+  When we speak of individuals who have spent their lives fighting for 
+the fundamental right of people to live in freedom, we often think of 
+individuals like Nelson Mandela and Natan Sharansky.
+  However, today I want to share with you the story of Mario Chanez de 
+Armas. He spent 30 years as a prisoner of conscience in Castro's gulag. 
+He was the longest serving political prisoner the world has known--30 
+years imprisoned for his political views.
+  Sadly, Mr. Chanes died last week at the age of 80 before his one true 
+dream could be fulfilled--freedom for the people of Cuba.
+  I want to extend my condolences to the members of his family and his 
+many friends.
+  He was a man of great conviction and held a true love for humanity. 
+Mario Chanes was a freedom fighter in the truest sense of the words. 
+Originally a labor leader, Chanes de Armas demonstrated leadership and 
+charisma and was an early ally of the then perceived ``reformer'' Fidel 
+Castro. They had worked together for democracy and against the Batista 
+dictatorship. He and Castro shared a cell in Batista's prison until 
+they were both released.
+  Shortly after the Castro take over Mario began to see the true nature 
+of the individual that was his former cell mate. He realized that 
+Castro did not care about civil liberties and human rights or democracy 
+as he once claimed but rather Castro became what he remains today--
+irrational, a devoted communist, and an enemy of freedom, a brutal 
+dictator. For pointing out the danger Castro posed to Cubans, Chanes de 
+Armas was jailed as a counter-revolutionary.
+  He served for 30 years in deplorable conditions.
+  Human Rights Watch reports that Cuban political prisoners spend 
+months in isolation cells, sometimes without light or ventilation. They 
+are often provided no beds--no mattresses. Their rations of food and 
+water are barely enough to sustain life. Sanitation and medical 
+conditions are so bad that inmates often leave prison with serious 
+ailments--if they are allowed to leave at all.
+  Chanes de Armas suffered these conditions. For his continued 
+resistance against the dictatorship, he was put in tapiadas, steel 
+isolation cells, and gavetas, ``drawers'' so narrow that he only had 
+room to stand. And for what? For refusing to change his political 
+beliefs and for rejecting communism. They never broke his spirit in 
+spite of all the punishment.
+  Mr. President, Today I want us to take a moment to remember Mario 
+Chanes de Armas--to honor him, his legacy, our continued battle for 
+freedom and the ideals in which he believed and tried so hard to bring 
+to Cuba--liberty, democracy, human rights, rules of law. His dream 
+lives on and his legacy lights the way.
+  Mr. President, I yield the floor.
+  The ACTING PRESIDENT pro tempore. The Senator from Ohio is 
+recognized.
+
+                          ____________________
+```

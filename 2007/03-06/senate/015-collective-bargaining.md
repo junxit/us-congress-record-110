@@ -1,0 +1,43 @@
+---
+granule: CREC-2007-03-06-pt1-PgS2652
+date: 2007-03-06
+edition: CREC
+section: SENATE
+page: S2652
+citation: 153 Cong. Rec. S2652
+---
+
+# COLLECTIVE BARGAINING
+
+**Speaking:** Burr, Richard (B001135) [R-NC]
+
+**Measures:** S. 765
+
+```
+                         COLLECTIVE BARGAINING
+
+  Mr. BURR. Mr. President, I take the floor today to speak on two 
+subjects and very briefly to address my colleague from Ohio. Mr. 
+President, I wish to make an important point about why these collective 
+bargaining provisions are, in fact, harmful to the United States of 
+America and to the American people. It is a pretty simple point.
+  Terrorists don't have collective bargaining agreements. I will say 
+that again. Terrorists don't have collective bargaining agreements. 
+Terrorists don't go on strike. Terrorists don't call their unions to 
+negotiate before they attack. They are always plotting and, because of 
+this, we must be always working vigilantly to protect our homeland.
+  Today we are debating how quickly we are going to respond to threats 
+from terrorists who are eager to strike us, and some in this body are 
+suggesting that we should give the ability of the people who are on the 
+front lines to collectively bargain. It is absurd. It is absolutely 
+absurd. But I assure my colleagues, if this collective bargaining 
+language stays in, we risk doing exactly that--accepting something 
+absurd.
+  (The remarks of Mr. Burr pertaining to the introduction of S. 765 are 
+printed in today's Record under ``Statements on Introduced Bills and 
+Joint Resolutions.'')
+  Mr. BURR. Mr. President, I yield the floor.
+  The ACTING PRESIDENT pro tempore. The Senator from Florida.
+
+                          ____________________
+```

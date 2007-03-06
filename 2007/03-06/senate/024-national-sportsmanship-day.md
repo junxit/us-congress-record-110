@@ -1,0 +1,48 @@
+---
+granule: CREC-2007-03-06-pt1-PgS2690-2
+date: 2007-03-06
+edition: CREC
+section: SENATE
+page: S2690
+citation: 153 Cong. Rec. S2690
+---
+
+# NATIONAL SPORTSMANSHIP DAY
+
+**Speaking:** Reed, Jack (R000122) [D-RI]
+
+```
+                       NATIONAL SPORTSMANSHIP DAY
+
+  Mr. REED. Mr. President, I would like to acknowledge that today, 
+March 6th, 2007, we celebrate the 17th annual National Sportsmanship 
+Day. Created by the Institute for International Sport at the University 
+of Rhode Island in 1991, this initiative seeks to promote and develop 
+the highest ideals of sportsmanship and fair play among not only 
+America's youth but also the international community. Over its 17 
+years, more than 13,500 schools and 80 million individuals across all 
+50 States and many countries around the world have participated in 
+National Sportsmanship Day activities. On this day, in elementary 
+schools, middle schools, high schools, and colleges, students, 
+teachers, coaches, and parents will discuss issues regarding 
+sportsmanship and fair play.
+  This year, National Sportsmanship Day will focus on the themes 
+``Don't Punch Back, Play Harder'' and ``Defeat Gamesmanship.'' These 
+themes will prompt participants to explore the practical values of 
+``competitive self-restraint'' and playing within the intended spirit 
+of the rules. It is important for both our society and our culture that 
+we instill these values in our youth. Additionally, the celebration 
+will include the 14th annual USA Today National Sportsmanship Day Essay 
+Contest.
+  I am pleased to say that Rhode Island is home to the Institute for 
+International Sport and National Sportsmanship Day. For 17 years, the 
+institute and this initiative have enhanced the nature and health of 
+competition among our Nation's youth. The efforts of Senator Claiborne 
+Pell and his able staff member Barry Sklar, Senator John Chafee, 
+founder Dan Doyle, and many others have contributed to the success of 
+this endeavor. I know that this year's National Sportsmanship Day 
+celebration will continue to promote fair play and in so doing ensure a 
+sound foundation of sportsmanship for today and for the future.
+
+                          ____________________
+```
