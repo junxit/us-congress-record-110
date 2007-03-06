@@ -1,0 +1,470 @@
+---
+granule: CRECB-2007-pt4-Pg5444-2
+date: 2007-03-06
+edition: CRECB
+section: HOUSE
+page: 5444
+---
+
+# RECOGNIZING THE CONTRIBUTIONS OF THE NEGRO BASEBALL LEAGUES AND THEIR PLAYERS
+
+```
+ RECOGNIZING THE CONTRIBUTIONS OF THE NEGRO BASEBALL LEAGUES AND THEIR 
+                                PLAYERS
+
+  Ms. WATSON. Mr. Speaker, I move to suspend the rules and agree to the 
+resolution (H. Res. 162) recognizing the contributions of the Negro 
+Baseball Leagues and their players, as amended.
+  The Clerk read as follows:
+
+                              H. Res. 162
+
+       Whereas even though African Americans were excluded from 
+     playing in the major leagues of their time with their white 
+     counterparts, the desire of many African Americans to play 
+     baseball could not be repressed;
+       Whereas Major League Baseball did not fully integrate its 
+     leagues until July 1959;
+       Whereas African Americans began organizing their own 
+     professional baseball teams in 1885;
+       Whereas the skills and abilities of Negro League players 
+     eventually made Major League Baseball realize the need to 
+     integrate the sport;
+       Whereas six separate baseball leagues, known collectively 
+     as the ``Negro Baseball Leagues'', were organized by African 
+     Americans between 1920 and 1960;
+
+[[Page 5445]]
+
+       Whereas the Negro Baseball Leagues included exceptionally 
+     talented players who played the game at its highest level;
+       Whereas on May 20, 1920, the Negro National League, the 
+     first successful Negro League, played its first game;
+       Whereas Andrew ``Rube'' Foster, on February 13, 1920, at 
+     the Paseo YMCA in Kansas City, Missouri, founded the Negro 
+     National League and also managed and played for the Chicago 
+     American Giants, and later was inducted into the Baseball 
+     Hall of Fame;
+       Whereas Leroy ``Satchel'' Paige, who began his long career 
+     in the Negro Leagues and did not make his Major League debut 
+     until the age of 42, is considered one of the greatest 
+     pitchers the game has ever seen, and during his long career 
+     thrilled millions of baseball fans with his skill and 
+     legendary showboating, and was later inducted into the 
+     Baseball Hall of Fame;
+       Whereas Josh Gibson, who was the greatest slugger of the 
+     Negro Leagues, tragically died months before the integration 
+     of baseball, and was later inducted into the Baseball Hall of 
+     Fame;
+       Whereas Jackie Robinson, whose career began with the Kansas 
+     City Monarchs of the Negro American League, became the first 
+     African American to play in the Major Leagues in April 1947, 
+     was named Major League Baseball Rookie of the Year in 1947, 
+     subsequently led the Brooklyn Dodgers to 6 National League 
+     pennants and a World Series championship, and was later 
+     inducted into the Baseball Hall of Fame;
+       Whereas Larry Doby, whose career began with the Newark 
+     Eagles of the Negro National League, became the first African 
+     American to play in the American League in July 1947, was an 
+     All-Star 9 times in the Negro Leagues and Major League 
+     Baseball, and was later inducted into the Baseball Hall of 
+     Fame;
+       Whereas John Jordan ``Buck'' O'Neil was a player and 
+     manager of the Kansas City Monarchs of the Negro American 
+     League, became the first African American coach in the Major 
+     Leagues with the Chicago Cubs in 1962, served on the Veterans 
+     Committee of the National Baseball Hall of Fame, chaired the 
+     Negro Leagues Baseball Museum Board of Directors, and worked 
+     tirelessly to promote the history of the Negro Leagues;
+       Whereas the talents of such players as James Thomas ``Cool 
+     Papa'' Bell and Oscar Charleston earned them recognition in 
+     the Baseball Hall of Fame as well as the Sporting News List 
+     of Baseball's Greatest Players, but were all denied admission 
+     to the Major Leagues due to the color of their skin;
+       Whereas Minnie Minoso played in the Negro Leagues for 
+     several years before being allowed to play in the Major 
+     League and was denied admission to the Hall of Fame, because 
+     during his prime years, he was a victim of racial 
+     discrimination;
+       Whereas Autozone Park in Memphis, Tennessee, has been 
+     designated to host on March 31, 2007, the inaugural Civil 
+     Rights Game between World Series champions, the St. Louis 
+     Cardinals and the Cleveland Indians in commemoration of the 
+     Civil Rights Movement; and
+       Whereas by achieving success on the baseball field, African 
+     American baseball players helped break down color barriers 
+     and integrate African Americans into all aspects of society 
+     in the United States: Now, therefore, be it
+       Resolved, That the House of Representatives--
+       (1) recognizes the teams and players of the Negro Baseball 
+     Leagues for their achievements, dedication, sacrifices, and 
+     contributions to both baseball and our Nation; and
+       (2) requests that the President issue a proclamation 
+     recognizing ``Negro Leaguers Recognition Day''.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentlewoman from 
+California (Ms. Watson) and the gentlewoman from North Carolina (Ms. 
+Foxx) each will control 20 minutes.
+  The Chair recognizes the gentlewoman from California.
+
+
+                             General Leave
+
+  Ms. WATSON. Mr. Speaker, I ask unanimous consent that all Members may 
+have 5 legislative days to revise and extend their remarks.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentlewoman from California?
+  There was no objection.
+  Ms. WATSON. Mr. Speaker, in 1872, Bud Fowler became the first African 
+American to enter organized baseball. At the time, Sporting Life 
+magazine called him ``one of the best general players in the country. 
+If he had had a white face,'' they said, ``he would be playing with the 
+best of them.'' There were only a handful of black players during that 
+time.
+  By the end of the 1800s, the door to organized baseball was slammed 
+shut to African Americans, and as a result, in 1920, Andrew ``Rube'' 
+Foster managed a Negro baseball team and organized seven other team 
+owners to join him to form the Negro National Baseball League. Mr. 
+Foster is known by many people to be the father of the Negro Baseball 
+League.
+  For his efforts and contributions to baseball, he was inducted into 
+the National Baseball Hall of Fame in Cooperstown, New York. Since 
+1920, many teams were formed to expand the Negro Baseball Leagues. He 
+produced many extraordinary players like Satchel Paige, ``Cool Papa'' 
+Bell, ``Double-Duty'' Radcliffe, ``Groundhog'' Thompson and many 
+others.
+  Presently, there are 278 members of the National Baseball Hall of 
+Fame, 18 whom had played in the Negro League. These greats include 
+Willie Mays and Jackie Robinson, who first played in the Negro Leagues 
+and then entered Major League Baseball.
+  Indeed, the players in the Negro Leagues were of such high caliber 
+that many of them later moved to other major leagues and enjoyed better 
+statistics playing there than they did in the Negro Leagues.
+  The opening of the doors of the major leagues to Negro League players 
+often is attributed to Branch Rickey, who made a bold decision to sign 
+Jackie Robinson to play for the Brooklyn Dodgers in 1947. 
+Unfortunately, many owners of Negro baseball teams could not compete in 
+the recruitment and financial compensation for African American 
+players, which later caused many African American teams to fold in the 
+early 1960s.
+  Some people shake their heads and say that the Negro Leagues' players 
+came along too early. I think ``Cool Papa'' Bell had it right when he 
+said ``they opened the door, just too late.''
+  But then it is never too late to right what has been a wrong, to 
+create equal opportunity and to open the doors for the Luke Easters, 
+the Minnie Minosos, the Kirby Picketts, the Barry Bondses, the Frank 
+Thomases, and countless others who have thrilled and delighted us with 
+their skills.
+  The achievement and success of African American baseball players on 
+the baseball field have helped break down color barriers and integrate 
+African Americans into all aspects of society.
+
+                              {time}  1515
+
+  This bill recognizes the teams and the players of the Negro Baseball 
+Leagues for their achievements, their sacrifices, their dedication, and 
+their contributions to baseball and the Nation. I commend the gentleman 
+from Tennessee (Mr. Cohen) for introducing the bill, and I urge its 
+swift passage.
+  Mr. Speaker, I reserve the balance of my time.
+  Ms. FOXX. Mr. Speaker, I yield myself as much time as I may consume.
+  Mr. Speaker, I rise today in support of H. Res. 162, which honors the 
+Negro Baseball League.
+  Those of us who love baseball relish the comparisons between players 
+of different eras that our rich statistical records permit. Nobody who 
+witnessed Hank Aaron, a Negro League alum, break Babe Ruth's home 
+record can deny the impact that feat had on the game and on society.
+  The shame of racism, which afflicts our country even today, prevents 
+us from properly assessing the place in the game of Negro League 
+players. We know that some of the greatest players ever to pick up a 
+bat and ball toiled in those leagues. But who was better, Josh Gibson 
+or Johnny Bench? Satchel Paige or Cy Young? Cool Papa Bell or Mickey 
+Mantle? How would the Pittsburgh Crawfords, who had six Hall of Famers, 
+stack up against the 1927 Yankees, the best team of baseball's all-
+white era?
+  Baseball today is one of America's most perfect meritocracies. If you 
+can throw 92-mile-per-hour strikes or hit them consistently, there is a 
+place in the game for you.
+  It wasn't until 1890, when team owners began to see the potential of 
+their product, that black players began to disappear from white teams. 
+And then it wasn't until the mid 1940s when Branch Rickey of the 
+Dodgers decided he would rather beat the Yankees than honor the 
+unspoken agreement to keep black players out of the game that black 
+players returned.
+  Today we understand as a Nation that talent comes in all shapes, 
+sizes, and colors. Baseball taught us that.
+
+[[Page 5446]]
+
+Negro League players taught baseball that. For that, Mr. Speaker, we 
+are eternally grateful.
+  I urge all my colleagues to join me in supporting H. Res. 162.
+  Mr. Speaker, I reserve the balance of my time.
+  Ms. WATSON. Mr. Speaker, I ask that the Representative from 
+Tennessee, Representative Steve Cohen, have as much time as he might 
+consume
+  Mr. COHEN. Mr. Speaker, I rise in support of H. Res. 162, which 
+recognizes the contributions of Negro Baseball Leagues.
+  The Negro Baseball Leagues are part of our history when segregation 
+was the rule, segregation was the law. It is an unfortunate, most 
+unfortunate part of America's history, part of a blemish on the soul of 
+America, part of the blemish on the Constitution, on our laws, and the 
+basis of the founding of the country.
+  No Nation has a more distinguished, honorable, and respected 
+foundation conceived in life, liberty, and the pursuit of happiness, 
+and equal justice for all. But in so many institutions it wasn't true, 
+it wasn't real, until about the 1960s. The work of a great Democratic 
+Congress and President Johnson and others, Republicans as well in a 
+bipartisan move, overcame and repealed Jim Crow laws and passed 
+amendments and laws that allowed people to use public facilities and to 
+have integration in this country and to give everybody the American 
+Dream, which had been denied for over 200 years in this country.
+  The baseball leagues that were reserved for Negroes were an example 
+of that. There were great players who didn't have the opportunity to 
+perform and achieve until integration. Branch Rickey of the Dodgers 
+brought Jackie Robinson up in the 1940s, and there were great players 
+that didn't have that opportunity.
+  I want to tell you one story about one particular baseball player who 
+is in this resolution. He is in this resolution because he deserves to 
+be in any resolution about baseball, about discrimination, and about 
+kindness, Minnie Minoso. Minnie Minoso was a Cuban, African Cuban, who 
+came to this country. I guess he would be an African American.
+  Minnie Minoso started his career in the Negro League, and didn't get 
+to the Major Leagues until he was about 28 or 29 years of age. He had a 
+great career. He led the American League in triples and doubles and 
+stolen bases, one time in RBIs, received three or four Golden Glove 
+awards, named to the All-Star games many, many times, and had 
+statistics with home runs and batting average at nearly .300 for his 
+career that should have qualified him for the Hall of Fame. But he 
+hasn't gotten into the Hall of Fame, and he is not going to get in the 
+Hall of Fame because he wasn't allowed to start in Major League 
+Baseball until he was 28 or 29 because of discrimination.
+  Well, in 1955, at a spring training game in Memphis, Tennessee, at 
+Russwood Park, I went to a ball game in Memphis. I had had polio the 
+previous year, and I attended the game with my White Sox cap and White 
+Sox T-shirt, on crutches. A player came up to me and offered me a 
+baseball; I was down by the railing trying to get them. The player was 
+named Tom Poholsky, who was white. And I thanked him, but he told me, 
+You shouldn't thank me. You should thank that player over there, number 
+9, Minoso. Minoso gave Poholsky the ball and wanted me to have it. But 
+because of segregation in this country, Minnie Minoso, one of 60 
+players, they hadn't cut the rosters yet for spring training, was the 
+only player who had the kindness in his heart to see somebody who was a 
+ball fan who couldn't play at the time because he was on crutches. But 
+in a segregated South, he couldn't give me that ball. He couldn't have 
+a decent act of kindness because of segregation.
+  Well, I got the ball, and I went down with my dad and we got to know 
+Minnie Minoso, and it started a friendship that has continued to this 
+day. Minnie Minoso was a class act, a wonderful human being who goes 
+beyond baseball, the most popular player ever to wear a White Sox 
+uniform, and a person who has given his life to baseball. But because 
+of the denial of segregation, not allowing him to play in the Major 
+Leagues until he was 28 or 29, he will not get the respect he is due, 
+just like other players in the Negro Leagues didn't. So many of them 
+who were great players, who would have led the majors in stolen bases, 
+in doubles, in triples, in home runs, in RBIs, or average, as shown 
+over the years by great players like Maury Wills and Bob Gibson and so 
+many other great players who got the opportunity to play and show they 
+could perform.
+  This year in Memphis on March 31, the major leagues are having a 
+civil rights game. The last exhibition game of the season will be in 
+Memphis at Auto Zone Park; it will be the Cleveland Indians and the St. 
+Louis Cardinals play. There will be a special luncheon the day before 
+the game where the widows of Roberto Clemente and Buck O'Neal will be 
+honored, as well as Spike Lee, for contributions that baseball and 
+civil rights have given to the growth of this country.
+  It is somewhat ironic in a way that we now see what baseball did to 
+help integrate our country. And this resolution, which is part of the 
+process of showing what this country has gone through, is about a time 
+when we had segregation. Baseball helped integrate society. It helped 
+get little young white kids to appreciate black players and see simple 
+acts of kindness and see the absurdity of segregation. It gave me the 
+opportunity in 1961 in Memphis to go to the Lorraine Hotel, then an 
+all-Negro institution, and see a hero and other players like Walter 
+Bond and Dick Powell staying in the segregated black hotel when the 
+Caucasian players were at the Peabody, and see how ridiculous is this 
+that my hero, an All-Star, a Golden Glove award winner, has to stay at 
+the Lorraine Hotel which was not up to standards.
+  Baseball has come a long way. The Negro Leagues did a lot to give 
+entertainment to Negroes and Caucasians who went to those games, and 
+gave players an opportunity to play. And it is unfortunate they had to 
+exist, but they did. They gave these players a great opportunity, from 
+Josh Gibson, the great catcher, Satchel Paige, Buck O'Neal, and so many 
+others who are enshrined in the Hall of Fame in Kansas City where there 
+is a Negro League Baseball museum. But they also gave this country the 
+opportunity to look at segregation for what it was, stupid, ignorant, 
+retarded, and gave a process by which we overcame.
+  Sports have been a great vehicle to overcome discrimination and 
+prejudice, and it was done in baseball, through heroic works by Branch 
+Rickey, heroic at the time of Jackie Robinson who took all kinds of 
+taunts. Now there is a Hall of Fame and there are players in there of 
+both races, and you get there by talent. And that needs to happen all 
+throughout this society and all throughout this country.
+  I was pleased to bring this resolution because of my experience with 
+Minnie Minoso, my love of baseball, and the fact that baseball gave me 
+an exposure to the horrors of segregation and what it did to my hero 
+and a man who was kind to me through the years, Minnie Minoso. But 
+there were so many others. I went to games at Martin Stadium in 
+Memphis, which is the home of the Memphis Red Sox, and it was all Negro 
+players. They were great players. They didn't get an opportunity to 
+show their skills. They later did.
+  I urge all my colleagues to support House Res. 162, recognizing the 
+contributions of the Negro Baseball League, but at the same time 
+reflect on how sad it was that there had to be a Negro Baseball League, 
+and to reflect upon the need to make amends, not just to African 
+Americans who were enslaved by this country's laws and limited and 
+punished and enslaved by Jim Crow laws, but at the same time to think 
+about the greatness of our country and mend a fault and a tear in our 
+Constitution and our soul and civic justice, and put it together and 
+apologize for slavery and Jim Crow, and make our country more whole and 
+do the right thing. When you are wrong, you apologize. When you do 
+evil, you do apologize, and you move forward. They
+
+[[Page 5447]]
+
+are different bills, and I hate to mix them, but they are all part of 
+the same story.
+  America needs to move forward, and progress has been made. We need to 
+appreciate the past, but see where we were and move forward. And I am 
+honored to be with the other sponsors of this bill, I think there are 
+hundreds of them, and recognize the contributions of the Negro Baseball 
+League and the story that baseball has played, and ask everybody in 
+America to pay attention on March 31 to the final exhibition game of 
+the season which will be televised on ESPN, a civil rights game that 
+will highlight the civil rights heroes through sports, where Julian 
+Bond will speak at a luncheon at the Peabody Hotel and tell a story of 
+integration and success through sports that came too late in this 
+country's history.
+  Ms. FOXX. Mr. Speaker, I now yield 2 minutes to my distinguished 
+colleague from the State of Virginia (Mr. Tom Davis).
+  Mr. TOM DAVIS of Virginia. Mr. Speaker, I hadn't intended to come 
+over and speak on this, but the gentleman from Tennessee's eloquence 
+moved me to also add my support for this resolution. I supported it 
+through the committee process. But to also recognize the contributions 
+of the players, the Josh Gibsons, the Buck O'Neals who, because of the 
+bars of segregation at the time, were never allowed to participate in 
+what we now know as the Major Leagues.
+  But this resolution speaks to the fact that their contributions, that 
+their activities and their records are also an important part of 
+American history and of baseball history, and they should be remembered 
+for their contributions. And that is what this resolution does. In 
+their own ways, they are not only great players, great all-stars, great 
+performers, and great athletes, but they also were pioneers. And I am 
+proud to be here to support the gentleman's resolution.
+  Ms. WATSON. Mr. Speaker, I reserve the balance of my time
+  Ms. JACKSON-LEE of Texas. Mr. Speaker, I rise in support of H. Res. 
+162, which recognizes the contributions of the Negro Baseball Leagues 
+and their players for their achievements, dedications and sacrifices to 
+baseball and the Nation.
+  African Americans began to play baseball in the late 1800s on 
+military teams, college teams, and company teams. They eventually found 
+their way to professional teams with white players. Moses Fleetwood 
+Walker and Bud Fowler were among the first to participate. However, 
+racism and ``Jim Crow'' laws would force them from these teams by 1900. 
+Thus, black players formed their own units, ``barnstorming'' around the 
+country to play anyone who would challenge them.
+  In 1920, an organized league structure was formed under the guidance 
+of Andrew ``Rube'' Foster--a former player, manager, and owner for the 
+Chicago American Giants. In a meeting held at the Paseo YMCA in Kansas 
+City, MO, Foster and a few other Midwestern team owners joined to form 
+the Negro National League. Soon, rival leagues formed in Eastern and 
+Southern states, bringing the thrills and innovative play of black 
+baseball to major urban centers and rural countrysides in the U.S., 
+Canada, and Latin America. The Leagues maintained a high level of 
+professional skill and became centerpieces for economic development in 
+many black communities.
+  In 1945, Major League Baseball's Brooklyn Dodgers recruited Jackie 
+Robinson from the Kansas City Monarchs. Robinson now becomes the first 
+African American in the modern era to play on a Major League roster. 
+While this historic event was a key moment in baseball and civil rights 
+history, it prompted the decline of the Negro Leagues. The best black 
+players were now recruited for the Major Leagues, and black fans 
+followed. The last Negro Leagues teams folded in the early 1960s, but 
+their legacy lives on through the surviving players and the Negro 
+Leagues Baseball Museum.
+  The Negro Leagues Baseball Museum is extremely significant because it 
+represents many of the outstanding contributions that blacks made to 
+the game of baseball notwithstanding their initial exclusion from the 
+professional baseball league here in this country. The museum was 
+designated America's National Negro Leagues Baseball Museum when the 
+House passed a resolution. The museum, in the 18th and Vine Historic 
+Jazz District, was founded in 1990 to commemorate an era when many of 
+baseball's top players could not perform on the game's biggest stage, 
+the major leagues, but instead made their own history. The museum draws 
+about 60,000 visitors a year who can view evidence of the great 
+contributions made to America's favorite pastime.
+  The legacy of the Negro Baseball Leagues also lives on through the 
+multitude of great black and Latino players who have contributed 
+greatly to the game of baseball. The contributions of the Negro 
+Baseball League players certainly paved the way for baseball giants 
+such as Jackie Robinson, Hank Aaron, Willie Mays, Roberto Clemente, and 
+Barry Bonds. Hank Aaron is the Major League Baseball homerun record-
+holder because of the significant role the Negro Baseball Leagues 
+played in the black community. The Negro Baseball League is not only a 
+great contribution to the black community but also to the Nation and 
+the world.
+  Mr. Speaker, I strongly urge my colleagues to support H. Res. 162 to 
+recognize the contributions of the Negro Baseball Leagues and their 
+players for their achievements, dedication and sacrifices to baseball 
+and the Nation.
+  Mr. RANGEL. Mr. Speaker, I rise today in support of H. Res. 162, 
+recognizing the contributions of the Negro Baseball Leagues and their 
+players for their achievements, dedication and sacrifices to baseball 
+and the Nation.
+  During the late 1800s, despite numerous attempts, viable, 
+professional leagues, with players of color, had difficulty growing 
+into large professional enterprises. The Negro Baseball League grew out 
+of both necessity, as segregation prevented players of color from 
+participating in organized leagues, such as the National Association of 
+Base Ball Players, which banned black athletes, and a love for the game 
+of baseball. During these times, although few black players played 
+alongside white players most were subjected to regional prejudices and 
+bans preventing black players from playing, lodging or eating in 
+segregated establishments.
+  In the years following the American Civil War and the Reconstruction 
+era, black baseball emerged as a viable and exciting enterprise in the 
+East and Mid-Atlantic states. One of the first baseball games between 
+two all-black teams was held in September 1860 in Hoboken, New Jersey. 
+In the years that followed, black teams played one another when they 
+could, through informal networks. In the early 1880s there were some 
+200 all-black independent teams that played one another throughout the 
+country. It would take the collaboration of three men: John W. ``Bud'' 
+Fowler, one of the first known professional black baseball players; 
+Moses ``Fleetwood'' Walker and Frank Grant to organize these teams in 
+what became known as the Negro League.
+  The first all-black professional team was formed in 1885, when the 
+Babylon Black Panthers was sponsored by a white businessman from 
+Trenton, New Jersey. Renamed the Cuban Giants, the team, along with 10 
+others, formed the first Negro League, called the southern League of 
+Base Ballists. The league was a commercial success and by the end of 
+World War I black baseball had become the premier entertainment 
+attraction for urban black populations. In 1920, under the leadership 
+of Andrew ``Rube'' Foster, owner of the Chicago American Giants, the 
+disparate black leagues of the National Negro League was formed.
+  Throughout the history of the Negro League players filled stands, 
+electrified fans and performed athletic feats that were previously 
+unimaginable. The skills, spirit and dedication of players not only 
+contributed to the viability of all-black teams but also helped 
+integrate the sport of baseball. Players like Jackie Robinson, the 
+first black player to play in the major league, Larry Doby, Leroy 
+``Satchel'' Paige and so many others found their start in the Negro 
+League and without the Negro League baseball might not be the 
+consummate American sport it is today.
+  Ms. FOXX. Mr. Speaker, I too want to commend Mr. Cohen for his 
+eloquence, for introducing this resolution; and I urge all Members to 
+support the passage of H. Res. 162, and I yield back the balance of my 
+time.
+  Ms. WATSON. Mr. Speaker, I yield back the balance of my time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentlewoman from California (Ms. Watson) that the House suspend the 
+rules and agree to the resolution, H. Res. 162, as amended.
+  The question was taken; and (two-thirds being in the affirmative) the 
+rules were suspended and the resolution, as amended, was agreed to.
+  A motion to reconsider was laid on the table.
+
+[[Page 5448]]
+
+
+
+                          ____________________
+```

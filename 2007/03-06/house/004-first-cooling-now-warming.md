@@ -1,0 +1,99 @@
+---
+granule: CRECB-2007-pt4-Pg5409-5
+date: 2007-03-06
+edition: CRECB
+section: HOUSE
+page: 5409
+---
+
+# FIRST COOLING, NOW WARMING
+
+```
+                       FIRST COOLING, NOW WARMING
+
+  The SPEAKER pro tempore. Pursuant to the order of the House of 
+January 4, 2007, the gentleman from Florida (Mr. Stearns) is recognized 
+during morning hour debates for 5 minutes.
+  Mr. STEARNS. Thank you, Madam Speaker.
+  My colleagues, here is a quote from a Newsweek article: ``There are 
+ominous signs that the Earth's weather patterns have begun to change 
+dramatically, and that these changes may portend a drastic decline in 
+food production, with serious political implications for about every 
+nation on Earth. The drop in food output could begin quite soon, 
+perhaps only 10 years from now.''
+  My colleagues, Newsweek published this dire warning in its April 28, 
+1975 issue, years before global warming began getting the headlines it 
+does today.
+  Did Newsweek accurately forecast the coming of global warming more 
+than 30 years ago? No. The article entitled ``The Cooling World'' 
+warned that the Earth's climate seemed to be cooling to the point that 
+populations around the world are in imminent danger because of the 
+coming ice age.
+  Newsweek was not the only publication to warn about the supposed 
+threat of global cooling during the 1970s. In an article entitled 
+``Another Ice Age?'' the June 24, 1974 issue of Time reported: ``When 
+meteorologists take an average temperature around the globe, they find 
+that the atmosphere has been growing gradually cooler for the past 
+three decades.'' And Time's article did not predict a break in this 
+decade-long cooling trend.
+  The article continued to warn that ``telltale signs were everywhere, 
+from the unexpected persistence and thickness of packed ice in the 
+waters around Iceland to the southward migration of warm-loving 
+creatures like the armadillo from the Midwest.''
+  Fortune magazine also gave warning. A February 1974 article entitled 
+``Ominous Changes in the World's Weather'' claimed that ``there is a 
+fair agreement among researchers that the earth is now heading very 
+slowly into another major ice age, such as the one that brought the 
+glaciers deep into North
+
+[[Page 5410]]
+
+America before it retreated some 10,000 years ago.''
+  This article also pointed to the supposedly unusual weather patterns 
+of the day as indication of much worse weather to come: 
+``Climatologists now blame those recurring droughts and floods on a 
+global cooling trend. It could bring massive tragedies for mankind.''
+  These days, of course, we no longer hear much, if anything, about the 
+possibility of runaway global cooling triggering another ice age. 
+Instead, we hear a lot about the threat of catastrophic global warming. 
+Now, what happened? Well, the temperature trend changed. After dropping 
+for about 35 years, the temperature started to rise in the mid 
+seventies, although the global temperature now is only slightly higher 
+than it was in the 1940s when the cooling trend began.
+  Over the centuries and millennia, the weather has changed, at times 
+radically. During the 10th century, the Vikings established prosperous 
+colonies in Greenland, having named the island for its lush pastures. 
+By the early 15th century, however, these were wiped out by cold and 
+hunger, and now four-fifths of Greenland lies buried under hundreds of 
+feet of ice cap. No one blamed human activity for this climate shift or 
+the ice age.
+  But in the seventies, some experts argued that human impact on the 
+environment had grown to the point where their atmospheric pollutants 
+were contributing significantly to global cooling, just as some experts 
+argue that CO<INF>2</INF> and other greenhouse gas emissions are 
+causing global warming today.
+  Climatologists suggested that dust and other particles released into 
+the atmosphere as a result of farming and the burning of fossil fuels 
+were blocking more and more sunlight from reaching and heating the 
+surface of the Earth. They projected that man's potential to pollute 
+would increase six- to eightfold over the next 50 years. And as Reid 
+Bryson stated in Fortune in February 1974, ``It is something that, if 
+it continues, will affect the whole human occupation of the Earth, like 
+a billion people starving.''
+  Another of the concerned scientists was Dr. Stephen Schneider, the 
+co-author of the Science report, who in the seventies was worried about 
+the threat of global cooling. Now at Stanford University, Dr. Schneider 
+not only sees things differently but is considered one of the leading 
+experts now sounding the alarm about global warming. In a recent MSNBC 
+report, Dr. Schneider argued that today's warming trend ``has been 
+induced by humans using the atmosphere as a free place to dump our 
+tailpipe waste.'' However, not everyone sounded the alarm about global 
+cooling in the seventies, just like not everyone is sounding the alarm 
+about global warming today.
+  Madam Speaker, the fact that so many experts were wrong about global 
+cooling in the seventies does not necessarily mean that they are wrong 
+about global warming today, but it does at least show that experts are 
+sometimes incredibly, incredibly wrong.
+
+                          ____________________
+```
