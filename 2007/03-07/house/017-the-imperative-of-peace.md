@@ -1,0 +1,39 @@
+---
+granule: CREC-2007-03-07-pt1-PgH2248-6
+date: 2007-03-07
+edition: CREC
+section: HOUSE
+page: H2248
+citation: 153 Cong. Rec. H2248
+---
+
+# THE IMPERATIVE OF PEACE
+
+**Speaking:** Kucinich, Dennis J. (K000336) [D-OH]
+
+```
+                        THE IMPERATIVE OF PEACE
+
+  (Mr. KUCINICH asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. KUCINICH. Mr. Speaker, a few minutes ago we heard King Abdullah 
+of Jordan declare the imperative of peace between the Israelis and the 
+Palestinians as central to assuring peace not only in the Middle East 
+but throughout the world.
+  Speaking not only of Israelis and Palestinians but of Lebanese and 
+Iraqis and of people all over the world, King Abdullah said, ``Let them 
+have a life of peace.''
+  Indeed, it is our responsibility as leaders of the United States to 
+respond to such an eloquent call by creating a restart of the peace 
+process, which brings security, justice and peace to both Palestinians 
+and Israelis.
+  When our brothers and sisters are killing each other, it is for us to 
+use the power of compassion and love so that all may survive and 
+prosper in security and peace.
+  This is a good moment for us to make a restart. This is a good moment 
+for us to create a new context. This is a good moment for us to join 
+with King Abdullah in speaking of people in the Middle East and 
+throughout the world and saying, ``Let them have a life of peace.''
+
+                          ____________________
+```
