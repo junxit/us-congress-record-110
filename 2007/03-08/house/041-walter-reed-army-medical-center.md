@@ -1,0 +1,75 @@
+---
+granule: CREC-2007-03-08-pt1-PgH2334-3
+date: 2007-03-08
+edition: CREC
+section: HOUSE
+page: H2334
+citation: 153 Cong. Rec. H2334
+---
+
+# WALTER REED ARMY MEDICAL CENTER
+
+**Speaking:** Hodes, Paul W. (H001043) [D-NH]
+
+```
+                    WALTER REED ARMY MEDICAL CENTER
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from New Hampshire (Mr. Hodes) is recognized for 5 minutes.
+  Mr. HODES. Mr. Speaker, as a member of the House Oversight and Reform 
+Committee, we recently traveled to Walter Reed Army Hospital, where, as 
+a panel, we heard graphic testimony from numbers of witnesses. 
+Witnesses included Staff Sergeant Shannon, who testified, wearing an 
+eye patch, suffering from a traumatic brain injury, about the kind of 
+treatment he had received at Walter Reed Army hospital.
+  The testimony was striking. He told us, Mr. Speaker, that after a few 
+days of inpatient treatment, he was transferred into a limbo of 
+outpatient treatment in which he couldn't find his way around the 
+grounds and didn't have help for that; in which the assistance he 
+needed wasn't there. And he is still in that limbo.
+  We heard graphic testimony from Mrs. McLoed, whose husband had 
+suffered a traumatic brain injury and who also hasn't received 
+treatment as an outpatient at Walter Reed of the kind that we would 
+expect.
+  And we heard from Specialist Duncan, also testified with an eye patch 
+on, that he had been living in intolerable living conditions in what is 
+now the infamous building 18 at Walter Reed Army Hospital.
+  The testimony was gut wrenching. Nobody who was in the room could 
+have not been affected at hearing how our soldiers, our brave troops 
+who had been injured in combat and come home, to be sent to intolerable 
+living conditions, with mold, peeling wallpaper, cockroaches and rats 
+in their living quarters, and no way to work through a system that was 
+a Byzantine bureaucracy, seemingly designed to deny care, instead of 
+provide care for those who both need it and deserve it most.
+  It was with a heavy heart that I heard the testimony of the generals 
+who were in charge of this system. The Surgeon General, General Kiley, 
+who said that it wasn't his job to inspect the barracks at building 18; 
+he had people to do that.
+
+[[Page H2335]]
+
+  And the gentleman next to him, General Weitman, whose command 
+recently was relieved, the person he essentially pointed to, the man 
+who had been there for 6 months. But General Kiley had been there from 
+2002 to 2004. He was the fellow in charge of the whole operation.
+  General Weitman had been preceded by General Farmer. These conditions 
+were known. And, in fact, General Kiley had been told on numerous 
+occasions of the graphic problems with the system he was overseeing, 
+and nothing had happened.
+  It is now time to fix these problems, Mr. Speaker. It is time for 
+this Congress to hold the system accountable. It is time for the Armed 
+Forces medical system to step up with the kind of accountability and 
+oversight and fix that our soldiers deserve.
+  I look forward to participating in the fix of that system as a member 
+of the House Oversight and Reform Committee. I look forward to hearing 
+from the generals how they are going to fix things for our soldiers. 
+Our soldiers need it. They deserve it.
+  And especially at a time when the President proposes to send more 
+troops to Iraq, I ask the question, how can he do it at a time when the 
+medical system of the Armed Services is incapable of handling the 
+inevitable casualties that will result?
+  There is a disconnect, Mr. Speaker, and it is time that we change 
+that.
+
+                          ____________________
+```

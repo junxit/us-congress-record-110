@@ -1,0 +1,56 @@
+---
+granule: CREC-2007-03-08-pt1-PgS2890
+date: 2007-03-08
+edition: CREC
+section: SENATE
+page: S2890
+citation: 153 Cong. Rec. S2890
+---
+
+# TRIBUTE TO DR. SUSAN LINDQUIST
+
+**Speaking:** Reid, Harry (R000146) [D-NV]
+
+```
+                     TRIBUTE TO DR. SUSAN LINDQUIST
+
+  Mr. REID. Mr. President, it is with great pleasure that I recognize 
+Dr. Susan Lindquist for her cutting-edge work in the field of medical 
+research. Dr. Lindquist's research today has the potential to lead to 
+future cures for some of the most devastating illnesses we face. Her 
+work has attracted national recognition, and next month Dr. Lindquist 
+will be honored as Desert Research Institute Medal Recipient in Nevada. 
+I would also like to thank the Desert Research Institute for their 
+continued commitment in recognizing the best and brightest in our 
+scientific and engineering communities.
+  Dr. Lindquist has a diverse background of experience in the medical 
+field. She is a member and former director of the Whitehead Institute. 
+She is also a professor of biology at the Massachusetts Institute of 
+Technology, as well as the Albert D. Lasker Professor of Medical 
+Sciences at the University of Chicago. Dr. Lindquist has been 
+acknowledged by several institutes, including being elected into the 
+prestigious Academy of Arts and Sciences in 1997.
+  Her life work in the medical field is nothing short of extraordinary. 
+Potential cures for Parkinson's disease, Alzheimer's, and many 
+neurodegenerative diseases lie in the most fundamental building blocks 
+of the human body--our proteins. Lindquist and her colleagues have made 
+it their professional mission to understand how long strands of 
+proteins fold to create intricate shapes or misfold and clump together. 
+In her work, Dr. Lindquist found that when proteins misfold, they can 
+contribute to cystic fibrosis, Alzheimer's, and even mad cow disease. 
+Dr. Lindquist and her team have studied this exciting line of research 
+so that we can better understand these diseases and hopefully develop 
+new treatments.
+  Dr. Lindquist's work has led to stunning medical breakthroughs in 
+medicine, biology, and bioengineering. But the true impact of her work 
+is felt by mankind. Today millions of Americans across Nevada and our 
+Nation who suffer from neurodegenerative diseases have hope. Cures for 
+some of the most debilitating diseases are on the horizon as a result 
+of Dr. Lindquist's work.
+  Again, it is with great pride that I recognize Dr. Susan Lindquist 
+before the Senate. She is a deserving recipient of the Nevada Medal for 
+her extraordinary work. I look forward to her continued accomplishments 
+in this important field.
+
+                          ____________________
+```

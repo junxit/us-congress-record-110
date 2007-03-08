@@ -1,0 +1,60 @@
+---
+granule: CREC-2007-03-08-pt1-PgS2853-6
+date: 2007-03-08
+edition: CREC
+section: SENATE
+page: S2853
+citation: 153 Cong. Rec. S2853
+---
+
+# SCHEDULE
+
+**Speaking:** Reid, Harry (R000146) [D-NV]
+
+**Measures:** S. 4
+
+```
+                                SCHEDULE
+
+  Mr. REID. Mr. President, this morning, the Senate will be in a period 
+of morning business for 1 hour, with the time divided between both 
+sides, the Republicans having the first half and the majority the 
+second half. Following that period of time, the Senate will resume 
+consideration of the 9/11 legislation, S. 4.
+  Last night, the Republican leader and I had a discussion about the 
+legislation, the importance of completing it and how we do so. The 
+Republican leader modified a pending amendment in order to include the 
+provisions of three other amendments which were pending, and then filed 
+cloture on that amendment. Before adjourning last night, I filed 
+cloture on both the substitute amendment and the bill. So tomorrow 
+morning, Friday, we will have a cloture vote on the Republican 
+amendment. And, of course, if cloture is not invoked, then there is an 
+immediate cloture vote on the substitute. So Members could be here 
+Friday well beyond the noon hour.
+  Just to remind Members, since cloture has been filed on the 
+substitute and the bill, they have until 1 p.m. today to file any 
+additional germane first-degree amendments. At this point, 
+approximately 110 amendments have already been filed.
+  Right now, 40 amendments are currently pending. That includes, of 
+course, the substitute amendment. I am advised that from a preliminary 
+review by the Parliamentarians of these pending amendments, only eight 
+of them are germane. I have the list of amendments here. It is a long 
+list, as we indicated, of some 100-plus amendments. Out of those, there 
+are eight that are germane. There may be a couple more that are 
+arguably germane. But that is where we are. We will instruct the two 
+managers to see if they, today, can move through the germane 
+amendments. That would speed things up postcloture tomorrow.
+  We are still attempting to resolve other issues on this most 
+important bill. It is a bill that deals, as we know, with the 
+recommendations of the 9/11 Commission. It has been 2\1/2\ years since 
+they completed their work. The House has already done theirs. We are 
+going to do our very best to follow suit. I feel
+
+[[Page S2854]]
+
+comfortable we will be able to complete something before we leave here 
+this Friday or Saturday or, if good fortune smiles on us, we can work 
+out something tonight.
+
+                          ____________________
+```
