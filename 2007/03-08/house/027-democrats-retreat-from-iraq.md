@@ -1,0 +1,42 @@
+---
+granule: CRECB-2007-pt4-Pg5812-4
+date: 2007-03-08
+edition: CRECB
+section: HOUSE
+page: 5812
+---
+
+# DEMOCRATS RETREAT FROM IRAQ
+
+```
+                      DEMOCRATS RETREAT FROM IRAQ
+
+  (Mr. PENCE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. PENCE. Mr. Speaker, after waiting for months, the new Democrat 
+majority has introduced their plan for Iraq today, and it can be summed 
+up with one phrase, fully funded withdrawal.
+
+[[Page 5813]]
+
+  Seeking to micromanage the war, the Democrats have come up with a 
+plan that attaches strings to troop funding in order to seek American 
+withdrawal from Iraq by 2008. This Democrat plan for a fully funded 
+withdrawal could also be described as a well-equipped retreat. A fully 
+funded withdrawal might well be added to that classic list of American 
+oxymorons that includes plastic glass and jumbo shrimp.
+  Since their election pledge to ``fix the war,'' it has taken our 
+friends on the other side of the aisle 4 months to come up with a 
+strategy in Iraq. But even though their proposal does include funding 
+for our soldiers in the field and our veterans here at home, their 
+latest poll-tested approach for fighting the war in Iraq can best be 
+described as cut and run.
+  For all the Democrats' furtive back-room efforts and tortured 
+explanations, it is not nearly as complex as they describe. In fact, 
+their strategy could be described by George Orwell: ``The quickest way 
+to end the war is to lose it.''
+  We don't need a fully funded withdrawal. We need to fully fund 
+victory for freedom in Iraq.
+
+                          ____________________
+```

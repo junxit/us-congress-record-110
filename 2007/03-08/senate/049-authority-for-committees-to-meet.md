@@ -1,0 +1,147 @@
+---
+granule: CRECB-2007-pt4-Pg5929
+date: 2007-03-08
+edition: CRECB
+section: SENATE
+page: 5929
+---
+
+# AUTHORITY FOR COMMITTEES TO MEET
+
+```
+                    AUTHORITY FOR COMMITTEES TO MEET
+
+
+                      committee on armed services
+
+  Mr. LIEBERMAN. Mr. President, I ask unanimous consent that the 
+Committee on Armed Services be authorized to meet during the session of 
+the Senate on March 8, 2007, at 9:30 a.m., in open session to consider 
+the following nominations: ADM. Timothy J. Keating, USN, for 
+reappointment to the grade of Admiral and to be Commander, U.S. Pacific 
+Command; LT. GEN. Victor E. Renuart, Jr., USAF, for appointment to be 
+General and Commander, U.S. Northern Command/Commander, North American 
+Aerospace Defense Command; and LT. GEN. Robert L. Van Antwerp, USA, for 
+reappointment to the grade of Lieutenant General and to be Chief of 
+Engineers/Commanding General, U.S. Army Corps of Engineers.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+
+           Committee on commerce, science, and transportation
+
+  Mr. LIEBERMAN. Mr. President, I ask unanimous consent that the 
+Committee on Commerce, Science, and Transportation be authorized to 
+hold a hearing during the session of the Senate on Thursday, March 8, 
+2007, at 9:30 a.m., in room 253 of the Russell Senate Office Building. 
+The purpose of the hearing is to review the Administration's proposal 
+to reauthorize the Federal Aviation Administration.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+
+                          committee on finance
+
+  Mr. LIEBERMAN. Mr. President, I ask unanimous consent that the 
+Committee on Finance be authorized to meet during the session on 
+Thursday, March 8, 2007, at 10 a.m., in 215 Dirksen Senate Office 
+Building, to hear testimony on ``Perspectives on the 2007 Trade 
+Agenda.''
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+
+                     committee on foreign relations
+
+  Mr. LIEBERMAN. Mr. President, I ask unanimous consent that the 
+Committee on Foreign Relations be authorized to hold a hearing on 
+Afghanistan on Thursday, March 8, 2007, at 9:30 a.m., in Dirksen 419.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+
+          committee on health, education, labor, and pensions
+
+  Mr. LIEBERMAN. Mr. President, I ask unanimous consent that the 
+Committee on Health, Education, Labor, and Pensions be authorized to 
+hold a hearing during the session of the Senate on Thursday, March 8, 
+2007, at 10 a.m. in SD-430.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+
+                      Committee on Indian Affairs
+
+  Mr. LIEBERMAN. Mr. President, I ask unanimous consent that the 
+Committee on Indian Affairs be authorized to meet on Thursday, March 8, 
+2007, at 9:30 a.m. in room 485 of the Russell Senate Office Building to 
+conduct a hearing on the Indian Health Care Improvement Act Amendments 
+of 2007 which I intend to introduce in the near future. Those wishing 
+additional information may contact the Indian Affairs Committee at 224-
+2251.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+
+                       Committee on the Judiciary
+
+  Mr. LIEBERMAN. Mr. President, I ask unanimous consent that the 
+Committee on the Judiciary be authorized to meet to conduct a markup on 
+Thursday, March 8, 2007, at 10 a.m. in Dirksen room 226.
+
+                                 Agenda
+
+  I. Nominations: Thomas M. Hardiman to be United States Circuit Judge 
+for the Third Circuit; Vanessa Lynne Bryant to be U.S. District Judge 
+for the District of Connecticut.
+  II. Committee Authorization: Authorization of Subpoenas to Former 
+U.S. Attorneys.
+  III. Bills: S. 236, The Federal Agency Data Mining Reporting Act of 
+2007, Feingold, Sununu; S. 261, Animal Fighting Prohibition Enforcement 
+Act of 2007, Cantwell, Specter, Durbin, Kyl, Feinstein, Feingold, Kohl; 
+S. 376, Law Enforcement Officers Safety Act of 2007, Leahy, Specter, 
+Kyl, Cornyn, Grassley, Sessions; S. 231, A bill to authorize the Edward 
+Byrne Memorial Justice Assistance Grant Program, Feinstein, Cornyn, 
+Kohl, Durbin, Biden, Grassley; S. 368, COPS Improvements Act of 2007, 
+Biden, Leahy, Kohl, Feinstein, Schumer, Durbin, Specter; S. 627, Safe 
+Babies Act, Harkin, Specter; S. 655, The American National Red Cross 
+Governance Modernization Act of 2007, Grassley, Kennedy, Feingold.
+  IV. Resolutions: S. Res. 88, Honoring the achievements of Deval 
+Patrick, Kerry, Kennedy; S. Con. Res. 14, Commemorating the 85th 
+anniversary of the American Hellenic Educational Progressive 
+Association, Snowe.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+
+            Committee on Small Business and Entrepreneurship
+
+  Mr. LIEBERMAN. Mr. President, I ask unanimous consent that the 
+Committee on Small Business and Entrepreneurship be authorized to meet 
+during the session of the Senate for a hearing entitled ``Small 
+Business Solutions for Combating Climate Change,'' on Thursday, March 
+8, 2007, beginning at 10 a.m. in room 428A of the Russell Senate Office 
+Building.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. LIEBERMAN. Mr. President, I ask unanimous consent that the 
+Committee on Veterans' Affairs be authorized to meet during the session 
+of the Senate on Thursday, March 8, 2007, at 9:30 a.m. in room 106 of 
+the Dirksen Senate Office Building, to hear the legislative 
+presentation of the Paralyzed Veterans of America, the Jewish War 
+Veterans, the Vietnam Veterans of America, the Blind Veterans 
+Association, and the Non Commissioned Officers Association.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+
+                        Joint Economic Committee
+
+  Mr. LIEBERMAN. Mr. President, I ask unanimous consent that the Joint 
+Economic Committee be authorized to conduct a hearing in room 562 of 
+the Dirksen Senate Office Building, Thursday, March 8, 2007, from 9:30 
+a.m. to 12:30 p.m.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+
+                    Select Committee on Intelligence
+
+  Mr. LIEBERMAN. Mr. President, I ask unanimous consent that the Select 
+Committee on Intelligence be authorized to meet during the session of 
+the Senate on March 8, 2007, at 2:30 p.m. to hold a business meeting 
+and hearing.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```

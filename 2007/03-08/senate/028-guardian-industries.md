@@ -1,0 +1,47 @@
+---
+granule: CRECB-2007-pt4-Pg5868
+date: 2007-03-08
+edition: CRECB
+section: SENATE
+page: 5868
+---
+
+# GUARDIAN INDUSTRIES
+
+```
+                          GUARDIAN INDUSTRIES
+
+  Mr. LEVIN. Mr. President, I want to recognize Guardian Industries, 
+which is celebrating its 75th anniversary this year. Guardian has been 
+a leader in the glass, building, and automotive parts manufacturing 
+industries and an important contributor to Michigan's economy for many 
+years.
+  Guardian Industries was established in 1932 as Guardian Glass 
+Company. What began as a small windshield fabrication business in 
+Detroit, MI, grew to become a large-scale operation with the opening of 
+its first float glass assembly plant in 1970. Since then, Guardian has 
+built or acquired numerous fabrication plants throughout the world and 
+diversified its business through the purchase and development of new 
+technologies and methods of production.
+  Over the years, Guardian Industries has steadily grown to become one 
+of the world's chief manufacturers of float glass and fabricated glass 
+products and the world's largest producer of mirrors. Guardian has also 
+become a major player in the building materials and distribution 
+business and a leading supplier of exterior products to the automotive 
+industry.
+  During its 75 years of existence, Guardian Industries has made a 
+significant contribution to Michigan's economy. With a global workforce 
+of over 19,000 employees, including about 1,000 in southeast Michigan, 
+Guardian has demonstrated its commitment to making Michigan's economy a 
+leader in manufacturing and technological development. Guardian 
+Industries also plays an important role in community improvement 
+throughout southeastern Michigan. Through its awarding of scholarships 
+to local students pursuing advanced degrees and its financial support 
+of the Detroit Symphony Orchestra, Guardian has shown a commitment to 
+strengthening the fiber of community in Michigan.
+  I know my colleagues join me in commending the tremendous effort and 
+hard work of the many employees of Guardian Industries over the years 
+and wish them many more years of success and growth.
+
+                          ____________________
+```

@@ -1,0 +1,36 @@
+---
+granule: CRECB-2007-pt4-Pg5787-4
+date: 2007-03-08
+edition: CRECB
+section: HOUSE
+page: 5787
+---
+
+# CELEBRATING THE LIFE OF ARMY SERGEANT PHILLIP McNEILL
+
+```
+         CELEBRATING THE LIFE OF ARMY SERGEANT PHILLIP McNEILL
+
+  (Mr. DAVIS of Kentucky asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. DAVIS of Kentucky. Mr. Speaker, today I rise to honor the legacy 
+of a brave young man who lost his life serving in Iraq. Sergeant 
+Phillip McNeill, who grew up in Owingsville, Kentucky, was killed in 
+Iraq on January 20, 2007. Sergeant McNeill was serving with the 3rd 
+Battalion, 509th Parachute Infantry Regiment, based in Fort Richardson, 
+Alaska, when his Humvee was struck by an IED, bringing his bright young 
+life to a tragic end.
+  Sergeant McNeill came from a family steeped in American military 
+tradition. His military service was inspired by the brave men in his 
+family who had served before him. His family described his dedication 
+to his mission, saying that he ``believed in the cause and that he was 
+a soldier who wanted to be over there.'' This was Sergeant McNeill's 
+second tour in Iraq.
+  As we celebrate the spirit of this great soldier, my thoughts and 
+prayers are with Sergeant Phillip McNeill's family and friends. We are 
+humbled by Sergeant McNeill's dedication, and we are forever indebted 
+to him for making the ultimate sacrifice for our Nation and for our 
+freedom.
+
+                          ____________________
+```
