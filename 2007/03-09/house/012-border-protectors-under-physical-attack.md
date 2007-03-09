@@ -1,0 +1,37 @@
+---
+granule: CRECB-2007-pt4-Pg5984-2
+date: 2007-03-09
+edition: CRECB
+section: HOUSE
+page: 5984
+---
+
+# BORDER PROTECTORS UNDER PHYSICAL ATTACK
+
+```
+                BORDER PROTECTORS UNDER PHYSICAL ATTACK
+
+  (Mr. POE asked and was given permission to address the House for 1 
+minute.)
+  Mr. POE. Madam Speaker, more news from the second front: the border 
+war with Mexico continues.
+  According to Reuters and NewsMax, illegals and drug cartels are 
+increasing the tax on U.S. border protectors by the use of rocks, 
+firearms, and even Molotov cocktails. Here is what Webb County, Texas 
+Sheriff Rick Flores in Laredo says: ``The attacks against us are 
+becoming more brazen. Drug cartels are telling their people to go down 
+fighting and do whatever is necessary to get those drugs through.'' He 
+says, ``Mexicans fire weapons from across the border at our law 
+enforcement agents.'' In Arizona, illegals injure border agents by 
+pelting them with large rocks and Molotov cocktails almost on a daily 
+basis, according to one border agent.
+  And where are the two governments? Well, it seems Mexico could care 
+less what happens to American border agents since it encourages illegal 
+entry, and our own U.S. Government takes the side of drug smugglers and 
+illegals if border protectors allegedly use force to stop this 
+invasion. Meanwhile, some in Washington fiddle the silly song of 
+tolerance, amnesty and ignorance.
+  And that's just the way it is.
+
+                          ____________________
+```
