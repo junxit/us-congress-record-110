@@ -1,0 +1,46 @@
+---
+granule: CREC-2007-03-09-pt1-PgH2379-3
+date: 2007-03-09
+edition: CREC
+section: HOUSE
+page: H2379
+citation: 153 Cong. Rec. H2379
+---
+
+# TRIBUTE TO THE LATE SPECIALIST BLAKE HARRIS
+
+**Speaking:** Salazar, John T. (S001158) [D-CO]
+
+```
+              TRIBUTE TO THE LATE SPECIALIST BLAKE HARRIS
+
+  (Mr. SALAZAR asked and was given permission to address the House for 
+1 minute.)
+  Mr. SALAZAR. Madam Speaker, yesterday we resumed reading the names of 
+our servicemembers on this House floor that have paid the ultimate 
+sacrifice in this war. To date, 3,188 American servicemembers have lost 
+their lives in Iraq and Afghanistan. And I am greatly saddened today to 
+add the name of Specialist Blake Harris to that list of the fallen 
+soldiers.
+  Specialist Harris was assigned to Headquarters and Headquarters 
+Company, 1st Battalion, 12th Cavalry Regiment, 1st Cavalry Division, 
+Fort Hood, Texas.
+  Specialist Harris died on Monday, March 5, in Baqubah, Iraq, of 
+injuries sustained when an improvised explosive device detonated near 
+his patrol.
+  Blake Harris was born and raised in Pueblo, Colorado. He was a 2002 
+graduate of Pueblo South High School.
+  In Pueblo, Blake leaves behind a loving wife, Joanna; a 2-year-old 
+son, Jonah; and his mother, Deborah Harris. He is also survived by his 
+father, John Harris of Denver.
+  Madam Speaker, I extend my heartfelt sympathy and condolences to his 
+family and friends who have suffered this loss, and I pray for their 
+comfort and strength in their time of greatest need.
+  Specialist Harris was a proud and courageous soldier whose story must 
+never be forgotten. Blake Harris was 22 years old.
+  Madam Speaker, I submit this recognition to the United States House 
+of Representatives in honor of his sacrifice so that the memory of 
+Blake Harris may live on forever.
+
+                          ____________________
+```
