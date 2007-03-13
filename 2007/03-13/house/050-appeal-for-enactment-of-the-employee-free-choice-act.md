@@ -1,0 +1,86 @@
+---
+granule: CRECB-2007-pt5-Pg6159
+date: 2007-03-13
+edition: CRECB
+section: HOUSE
+page: 6159
+---
+
+# APPEAL FOR ENACTMENT OF THE EMPLOYEE FREE CHOICE ACT
+
+```
+          APPEAL FOR ENACTMENT OF THE EMPLOYEE FREE CHOICE ACT
+
+  The SPEAKER pro tempore (Mrs. Tauscher). Under a previous order of 
+the House, the gentleman from Maine (Mr. Allen) is recognized for 5 
+minutes.
+  Mr. ALLEN. Madam Speaker, I rise to express my continued support for 
+the Employee Free Choice Act, a bill which the House passed 2 weeks ago 
+which I hope the Senate will soon consider.
+  I was proud to support House passage of the Employee Free Choice Act 
+because I believe that the current law places undue burdens on workers 
+who are trying to exercise their rights to organize.
+  Under the current law, workers are often subject to intimidation, and 
+employers receive a slap on the hand for illegal activities. One study 
+recently conducted by the University of Illinois found that 30 percent 
+of employers fire pro-union workers, 49 percent threaten to close a 
+work site, and 51 percent coerce employees with bribes or favoritism.
+  Because of these acts, many workers are afraid to vote for a union 
+against the wishes of their employer, even in private.
+  If those statistics are not compelling enough, I urge my colleagues 
+to consider the fact that the United States is the only industrialized 
+Nation to have a union avoidance industry of any size. This industry, 
+on which corporations spend hundreds of millions of dollars a year, 
+exists solely to help businesses resist unionization efforts and 
+undermine union strength.
+  The Employee Free Choice Act would close the legal and illegal 
+avenues to intimidation that some employers use, thereby strengthening 
+employees' ability to choose.
+  It would discourage the firing of employees by increasing fines and 
+penalties during the election process. It would guarantee that first 
+contract negotiations don't drag out for years by requiring mediation 
+and arbitration to end delays.
+  The Employee Free Choice Act would allow the use of card check 
+procedures, in which a majority of workers, not just a majority of 
+voters, sign cards authorizing a union.
+  Why is it so important to ensure access to unions? Inequality is 
+rising in our country. Two years ago, Alan Greenspan said: ``A free 
+market society is ill served by an economy in which the rewards are 
+distributed in a way which too many of our population do not feel is 
+appropriate.''
+  Whether or not you agree that increasing inequality in our country is 
+tied to declining union membership, one thing is clear: unionized 
+workers have better rates of health care coverage, better wages, and 
+are five times more likely to have a pension.
+  Access to health care, better wages, secure pension: these are the 
+things the House is trying to give back to the middle class in America. 
+Making our economy work for everyone is a complicated, ongoing process. 
+The Employee Free Choice Act is one important step we can take toward 
+accomplishing that goal.
+  In many American workplaces, the process of forming a union is 
+contentious. Yet, though they may differ over issues like wages, health 
+care and pensions, employees, supervisors, and company owners are all 
+striving for the same goal, to make their company work and for 
+competitiveness in a global economy.
+  Finding a middle ground on questions of compensation, training and 
+health care boosts American productivity, innovation, and 
+competitiveness. When employers control the outcome, we not only cheat 
+workers; we cheat our economic future.
+  As we approach 2020, our income distribution is trending toward that 
+of 1920. Americans don't want to be left to the market-based whims of 
+health savings accounts, privatized Social Security, or personal job 
+retraining accounts. They want a government that ensures that 
+individuals can provide for themselves and their families.
+  Senator Wagner wrote the National Labor Relations Act in 1934 to 
+ensure that workers would have an unambiguous, unmitigated right to 
+representation in the workplace. He said then that ``the denial or 
+observance of this right means the difference between despotism and 
+democracy.''
+  It is unfortunate that the Employee Free Choice Act faces obstacles 
+in the Senate, but it is time to give Americans a fair shot at 
+organizing again. Everyone deserves protection under the law.
+  I urge my colleagues in the Senate to support the Employee Free 
+Choice Act.
+
+                          ____________________
+```

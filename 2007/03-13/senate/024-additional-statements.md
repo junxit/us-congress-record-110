@@ -1,0 +1,63 @@
+---
+granule: CRECB-2007-pt5-Pg6233-2
+date: 2007-03-13
+edition: CRECB
+section: SENATE
+page: 6233
+---
+
+# ADDITIONAL STATEMENTS
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+                       IN MEMORY OF ERNEST GALLO
+
+● Mrs. BOXER. Mr. President, today, I ask my colleagues to join 
+me in honoring the memory of the late Ernest Gallo, a true American 
+success story who came from a humble beginning to head the world's 
+largest winemaking company. Mr. Gallo passed away in the peaceful 
+company of his family and loved ones at his home in Modesto, California 
+on March 6, 2007. He was 97 years old.
+  The first son of Joseph and Susie Gallo, immigrants who hailed from 
+Italy's renowned winemaking region of Piedmont, Ernest Gallo was born 
+in Jackson, in the Sierra Nevada foothills region of California. Ernest 
+and his younger brothers, Julio and Joe, gained important insight into 
+the winemaking business by working alongside their father in the family 
+vineyard. As a precocious and driven 17-year-old boy, Ernest sold a 
+railcar full of family grapes during a trip to Chicago for $17,000, a 
+considerable sum of money during those days. From that
+
+[[Page 6234]]
+
+point forward, it was apparent that Ernest was a gifted and determined 
+entrepreneur who was destined for great success in the winemaking 
+business.
+  After his parents unexpectedly passed away, Ernest accepted the 
+mantle of the head of the business and the family at the age of 24 and 
+founded E. and J. Gallo Winery in 1933 using a $5,000 loan from 
+Ernest's mother-in-law and his brother Julio's entire savings of less 
+than $1,000. Throughout his stewardship of the winery that would become 
+one of the world's most prolific and recognized winemaking companies, 
+Ernest consistently demonstrated an unparalleled ability to produce 
+affordable, popular, and high quality products.
+  A wine connoisseur in the truest sense of the word, Ernest was a 
+perfectionist who left his imprint on nearly every aspect of the 
+winemaking process; from overseeing production, to devising brilliant 
+marketing plans, to regularly traveling across the country to make sure 
+that wine displays were properly presented in markets. Simply put, 
+Ernest was a consummate winemaker who was absolutely dedicated to 
+honing and perfecting his craft.
+  Ernest Gallo has left behind a legacy of success and the well-
+deserved recognition as one of the leading figures of American 
+winemaking. This son of California's Central Valley will be greatly 
+missed.
+  Ernest Gallo was preceded in death by his beloved wife of 62 years, 
+Amelia, and son, David. He is survived by his son, Joseph, and four 
+grandchildren.●
+
+                          ____________________
+```

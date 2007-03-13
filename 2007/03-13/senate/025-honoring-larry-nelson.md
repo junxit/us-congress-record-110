@@ -1,0 +1,43 @@
+---
+granule: CRECB-2007-pt5-Pg6234
+date: 2007-03-13
+edition: CRECB
+section: SENATE
+page: 6234
+---
+
+# HONORING LARRY NELSON
+
+```
+                         HONORING LARRY NELSON
+
+● Mr. ISAKSON. Mr. President, today I wish to honor in the 
+Record of the Senate the induction of my friend and a wonderful 
+Georgian, Larry Nelson of Marietta, to the World Golf Hall of Fame.
+  Larry was born on September 10, 1947, in Ft. Payne, AL, and was 
+raised in Acworth, GA. Growing up, he preferred baseball and 
+basketball. It wasn't until after he returned from military service in 
+Vietnam that he actually swung a golf club. The first time he played he 
+broke 100. Within 9 months of taking up the game in earnest, Larry 
+broke 70.
+  In 1973, Larry successfully went through the PGA Tour Qualifying 
+School, and his breakthrough came in 1979 when he won twice on the tour 
+and finished second on the money list. In 1981, Larry won the PGA 
+Championship at the Atlantic Athletic Club by four strokes over Fuzzy 
+Zoeller. In 1983, he won his second major, the U.S. Open, at one of the 
+toughest championship courses in the world, Oakmont Country Club just 
+outside of Pittsburgh. And in 1987, Larry repeated his victory in the 
+PGA Championship with a playoff victory over Lanny Wadkins at PGA 
+National Golf Club in Palm Beach Gardens, FL. In addition, he played on 
+the U.S. Ryder Cup team in 1979, 1981, and 1987.
+  I have known Larry for almost 40 years. In fact, I sold him a house 
+when he was first starting out. It is also a huge point of pride that I 
+am a member of the Atlanta Country Club where Larry Nelson plays today. 
+However, Larry is more than a terrific golfer. He is also a wonderful 
+husband and father as well as a devout Christian.
+  It gives me a great deal of pleasure and it is a privilege to 
+recognize on the floor of the U.S. Senate the contributions of my 
+friend Larry Nelson. He is an inspiration to us all.●
+
+                          ____________________
+```
