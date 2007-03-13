@@ -1,0 +1,39 @@
+---
+granule: CREC-2007-03-13-pt1-PgH2442-4
+date: 2007-03-13
+edition: CREC
+section: HOUSE
+page: H2442
+citation: 153 Cong. Rec. H2442
+---
+
+# LET'S END THE WAR IN IRAQ
+
+**Speaking:** Kucinich, Dennis J. (K000336) [D-OH]
+
+**Measures:** H.R. 1234
+
+```
+                       LET'S END THE WAR IN IRAQ
+
+  (Mr. KUCINICH asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. KUCINICH. A very simple proposition is facing this House; do we 
+keep the war in Iraq going or do we end it? Do we use the money to 
+bring the troops home or do we use the money to keep them in Iraq?
+  The lives of our troops are on the line. The war cannot be won 
+militarily. Why do we stay? Why do we tell our troops to keep fighting? 
+Who is going to explain to the families of the troops the consequences 
+of Congress' decision? And why isn't our Democratic Party taking the 
+leadership to immediately end the war? We can do it. We don't have to 
+give the administration another $120 billion to keep the war going. We 
+don't have to let more troops die and have more civilian casualties.
+  My bill, H.R. 1234, provides a path to bringing our troops home, 
+ending the occupation, closing our bases and stops the occupation of 
+Iraq. We do not have to keep funding this war. The money is in the 
+pipeline to bring the troops home. Let's end the war, bring the troops 
+home, and bring in international peacekeepers to stabilize Iraq. We can 
+do it once we end the occupation.
+
+                          ____________________
+```

@@ -1,0 +1,38 @@
+---
+granule: CREC-2007-03-13-pt1-PgH2442-5
+date: 2007-03-13
+edition: CREC
+section: HOUSE
+page: H2442
+citation: 153 Cong. Rec. H2442
+---
+
+# CHILD KILLER
+
+**Speaking:** Poe, Ted (P000592) [R-TX]
+
+```
+                              CHILD KILLER
+
+  (Mr. POE asked and was given permission to address the House for 1 
+minute.)
+  Mr. POE. Mr. Speaker, today is judgment day. A quiet voice is crying 
+from the grave for justice; it is the voice of a 9-year-old girl named 
+Jessica Lunsford.
+  Jessica was kidnapped in the middle of the night from her home by a 
+professional child molester; his name is John Couey. The criminal 
+abused Jessica for several days and then buried her alive in his 
+backyard. When found, Jessica had poked her tiny fingers through the 
+plastic bag seeking air. Last week, a jury convicted the child killer 
+of capital murder and the punishment hearing begins today in Florida. 
+The State is seeking the death penalty.
+  Mr. Speaker, evil doesn't get much worse than stealing, abusing and 
+murdering little girls. Society cannot allow this type of conduct to 
+occur. Society can only eliminate it. The punishment assessed on this 
+criminal will set a price for this dastardly act. Hopefully the good 
+people of Florida will, by their verdict, say to all child killers, 
+leave our children alone or face an early meeting with your maker.
+  And that's just the way it is.
+
+                          ____________________
+```
