@@ -1,0 +1,41 @@
+---
+granule: CRECB-2007-pt5-Pg6436-6
+date: 2007-03-15
+edition: CRECB
+section: HOUSE
+page: 6436
+---
+
+# AMERICAN TAXPAYER BILL OF RIGHTS--IMAGINE THIS SOLUTION
+
+```
+        AMERICAN TAXPAYER BILL OF RIGHTS--IMAGINE THIS SOLUTION
+
+  (Mr. PRICE of Georgia asked and was given permission to address the 
+House for 1 minute.)
+  Mr. PRICE of Georgia. Madam Speaker, there is a common misconception 
+in Washington that simply talking about a problem is as good as solving 
+it. However, we know that actions speak louder than words. In 34 of the 
+last 38 years, the Federal Government hasn't balanced its own 
+checkbook.
+  It's time Washington stop looking for ways to afford bigger 
+government. Yesterday, the Republican Study Committee introduced the 
+Taxpayer Bill of Rights to restore budget accountability to 
+Washington's checkbook, and
+
+[[Page 6437]]
+
+it couldn't come at a better time. It is imperative that we prioritize 
+America's financial responsibilities and reform the way Washington 
+spends hard-earned taxpayer money. We can't expect different results if 
+we keep on doing the same thing.
+  This is all about accountability, about reducing wasteful Washington 
+spending, about balancing the budget, about fundamental tax reform, and 
+about adapting programs to America's changing demographics.
+  Madam Speaker, the Taxpayer Bill of Rights isn't merely a slogan, 
+it's a solution, a way we should all be thinking. Imagine this positive 
+change to the way Washington spends hard-earned taxpayer money. Just 
+imagine.
+
+                          ____________________
+```
