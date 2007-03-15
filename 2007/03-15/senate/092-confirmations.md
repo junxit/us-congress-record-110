@@ -1,0 +1,27 @@
+---
+granule: CREC-2007-03-15-pt1-PgS3237-6
+date: 2007-03-15
+edition: CREC
+section: SENATE
+page: S3237
+citation: 153 Cong. Rec. S3237
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate Thursday, March 15, 
+2007:
+
+
+                             THE JUDICIARY
+
+       JOHN PRESTON BAILEY, OF WEST VIRGINIA, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE NORTHERN DISTRICT OF WEST VIRGINIA.
+       OTIS D. WRIGHT II, OF CALIFORNIA, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE CENTRAL DISTRICT OF CALIFORNIA.
+       THOMAS M. HARDIMAN, OF PENNSYLVANIA, TO BE UNITED STATES 
+     CIRCUIT JUDGE FOR THE THIRD CIRCUIT.
+```

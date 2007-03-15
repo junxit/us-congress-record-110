@@ -1,0 +1,51 @@
+---
+granule: CREC-2007-03-15-pt1-PgS3195-2
+date: 2007-03-15
+edition: CREC
+section: SENATE
+page: S3195
+citation: 153 Cong. Rec. S3195
+---
+
+# RECOGNIZING MAUI ECONOMIC OPPORTUNITY, INC.
+
+**Speaking:** Akaka, Daniel K. (A000069) [D-HI]
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+              RECOGNIZING MAUI ECONOMIC OPPORTUNITY, INC.
+
+● Mr. AKAKA. Mr. President, I offer my congratulations to Maui 
+Economic Opportunity, Inc. for 42 years of outstanding community 
+service. A private, non-profit organization dedicated to helping 
+individuals and families in need, MEO was chartered as a community 
+action agency on March 22, 1965, by Federal mandate under the Economic 
+Opportunity Act of 1964.
+  For more than four decades, MEO has served the people of Maui, 
+Moloka'i and Lana'i through a number of poverty fighting initiatives. 
+By providing employment training and placement, business education for 
+low income entrepreneurs, and micro-enterprise loans, MEO has helped 
+countless citizens get back on the path to financial independence.
+  Moreover, MEO has helped citizens lead fuller, richer lives by 
+providing housekeeping for seniors, allowing them to remain in their 
+homes, and providing specialized transportation for seniors, persons 
+with disabilities and children to doctor's offices, grocery stores, and 
+schools. In addition, they have helped former inmates reintegrate and 
+become productive members of the community.
+  The hard work and dedication of Maui Economic Opportunity's staff and 
+volunteers have earned national recognition by receiving the 
+prestigious Excellence in Community Action award from the Community 
+Action Partnership. To this I would like to
+
+[[Page S3196]]
+
+add my sincere appreciation for the tireless efforts of these men and 
+women for their continued advocacy on behalf of those in need of a 
+helping hand.●
+
+                          ____________________
+```

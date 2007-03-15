@@ -1,0 +1,44 @@
+---
+granule: CREC-2007-03-15-pt1-PgH2573-9
+date: 2007-03-15
+edition: CREC
+section: HOUSE
+page: H2573
+citation: 153 Cong. Rec. H2573
+---
+
+# IRAN
+
+**Speaking:** Kucinich, Dennis J. (K000336) [D-OH]
+
+```
+                                  IRAN
+
+  (Mr. KUCINICH asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. KUCINICH. This House cannot avoid its constitutionally authorized 
+responsibility to restrain the abuse of executive power. The 
+administration has been preparing for an aggressive war against Iran. 
+There is no solid, direct evidence that Iran has the intention of 
+attacking the United States or its allies. The U.S. is a signatory to 
+the U.N. Charter, a constituent treaty among the nations of the world. 
+Article II, section 4, of the U.N. charter states, ``All members shall 
+refrain in their international relations from the threat or use of 
+force against the territorial integrity or political independence of 
+any state.'' Even the threat of a war of aggression is illegal. Article 
+VI of the U.S. Constitution makes such treaties the supreme law of the 
+land. This administration has openly threatened aggression against Iran 
+in violation of the U.S. Constitution and the U.N. Charter.
+  This week, the House Appropriations Committee removed language from 
+the Iraq war funding bill requiring the administration under Article I, 
+section 8, clause 11 of the Constitution to seek permission before it 
+launched an attack against Iran. Since war with Iran is an option of 
+this administration and such war is patently illegal, then
+
+[[Page H2574]]
+
+impeachment may well be the only remedy which remains to stop a war of 
+aggression against Iran.
+
+                          ____________________
+```
