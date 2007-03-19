@@ -1,0 +1,52 @@
+---
+granule: CREC-2007-03-19-pt1-PgH2641-6
+date: 2007-03-19
+edition: CREC
+section: HOUSE
+page: H2641
+citation: 153 Cong. Rec. H2641
+---
+
+# HEARING REQUESTED ON RAMOS AND COMPEAN PROSECUTION
+
+**Speaking:** Jones, Walter B., Jr. (J000255) [R-NC]
+
+```
+           HEARING REQUESTED ON RAMOS AND COMPEAN PROSECUTION
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from North Carolina (Mr. Jones) is recognized for 5 minutes.
+  Mr. JONES of North Carolina. Mr. Speaker, today I had the pleasure of 
+meeting with Congressman John Conyers, chairman of the Judiciary 
+Committee. I shared with him information from myself and other Members 
+of Congress who are requesting a hearing on the case of Border Patrol 
+Agents Ramos and Compean.
+  Many of us in Congress are concerned about the Federal prosecutor in 
+this case and his decision to bring criminal charges against these 
+agents. Agents Ramos and Compean were convicted last spring for 
+shooting a Mexican drug smuggler who brought 743 pounds of marijuana 
+across our border into Texas.
+  These agents never should have been sent to prison, yet today is 
+their 62nd day behind bars. There are legitimate legal questions about 
+how this prosecution was initiated, and how the U.S. Attorney's Office 
+proceeded in this case. Members of Congress and the American people 
+want to know why the Federal prosecutor is on the wrong side in this 
+case.
+  To prosecute the agents, the U.S. Attorney's Office granted immunity 
+to a known drug smuggler. He is not an American citizen, he is a 
+criminal. Drug enforcement reports have confirmed that the Mexican drug 
+smuggler brought a second load of marijuana, 752 pounds, into the 
+United States after he was granted immunity to testify against our 
+border agents, but this information was kept from the jury and the 
+public.
+  Mr. Speaker, I am certain that Chairman Conyers will review the 
+information that I and other Members of Congress have brought to his 
+attention concerning the prosecution of these two heroes.
+  Before closing, I ask the President to use his authority and pardon 
+these two Hispanic Americans who were doing their job to protect the 
+American people; and, more importantly, I call on the President to 
+listen to the American people and to the thousands of citizens who have 
+asked for a pardon for these two men.
+
+                          ____________________
+```
