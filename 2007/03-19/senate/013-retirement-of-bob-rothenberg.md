@@ -1,0 +1,48 @@
+---
+granule: CRECB-2007-pt5-Pg6627
+date: 2007-03-19
+edition: CRECB
+section: SENATE
+page: 6627
+---
+
+# RETIREMENT OF BOB ROTHENBERG
+
+```
+                      RETIREMENT OF BOB ROTHENBERG
+
+● Mr. HARKIN. Mr. President, today we recognize a distinguished 
+executive at the Social Security Administration, Bob Rothenberg. Bob is 
+an Associate Commissioner and Director of the Social Security Budget 
+Office. He is a dedicated public servant who has served his country at 
+the Social Security Administration for nearly 37 years.
+  A native of New York, Bob began his career in the local Social 
+Security Office in Brooklyn. In 1973 he moved to the Budget Office at 
+Social Security Headquarters in Baltimore. Bob's intellect and resolve 
+were quickly recognized and he rose to the position of Budget 
+Director--a position he has held for nearly 20 years. During Bob's long 
+and distinguished career with the agency he has received many awards, 
+of special note, the Presidential Rank and Meritorious Executive 
+Awards.
+  For many years I have had the privilege of relying on Bob's 
+outstanding work on the Social Security Administration's budget. He has 
+always been resourceful, insightful, and forthcoming.
+  Bob will retire from the Social Security Administration on March 31, 
+2007. He will be sorely missed by his fellow colleagues and his 
+congressional contacts on the Hill. He will leave behind the numerous 
+individuals he has mentored and encouraged over the years and who, 
+because of his guidance, are now prepared to carry on his work.
+  It is important that we in Congress recognize the many men and women 
+who devote their working lives to improve the lives of others. Career 
+civil servants often do their work in quiet anonymity behind the scenes 
+providing vital service to the American people. They are rarely 
+recognized for their important contribution. Bob Rothenberg is one of 
+those people. His record of leadership at the Social Security 
+Administration and his commitment to providing the American people with 
+effective and compassionate service is a record of which he can be 
+justly proud.
+  I wish Bob all the best in his retirement from Federal service and 
+thank him for his many years of dedicated service.●
+
+                          ____________________
+```
