@@ -1,0 +1,39 @@
+---
+granule: CREC-2007-03-20-pt1-PgH2675-3
+date: 2007-03-20
+edition: CREC
+section: HOUSE
+page: H2675
+citation: 153 Cong. Rec. H2675
+---
+
+# SUPPORTING OUR TROOPS WHEN THEY COME HOME
+
+**Speaking:** Filner, Bob (F000116) [D-CA]
+
+```
+               SUPPORTING OUR TROOPS WHEN THEY COME HOME
+
+  (Mr. FILNER asked and was given permission to address the House for 1 
+minute.)
+  Mr. FILNER. The verdict is in, my colleagues. Both the Defense 
+Department's health services for returning troops and the Veterans 
+Administration are strained to the limit; they are almost to the 
+breaking point. For as much money that we give them, we have not 
+prepared for the influx of the troops from Iraq and Afghanistan. The 
+evidence is clear.
+  What was happening at Walter Reed that was outlined in the Washington 
+Post has, in fact, educated the whole Nation. We have had cover stories 
+in the news magazines on how veterans are falling through the cracks. 
+There was an incredible documentary on ABC News by Bob Woodruff and how 
+his brain injury was treated and how fellow vets had their brain 
+injuries treated. And yesterday on CNN we had a story on how Iraqi 
+troops returning were homeless already.
+  We simply have got to meet this test as a Nation. The Democrats are 
+trying to do that. We put an additional $3.6 billion into the 
+continuing resolution to fund this year to help our troops. And in the 
+supplemental we have $3.5 billion for our Nation's troops. It is time 
+to support our troops when they come home
+
+                          ____________________
+```
