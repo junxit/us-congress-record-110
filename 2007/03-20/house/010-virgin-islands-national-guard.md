@@ -1,0 +1,44 @@
+---
+granule: CRECB-2007-pt5-Pg6715-7
+date: 2007-03-20
+edition: CRECB
+section: HOUSE
+page: 6715
+---
+
+# VIRGIN ISLANDS NATIONAL GUARD
+
+```
+                     VIRGIN ISLANDS NATIONAL GUARD
+
+  (Mrs. CHRISTENSEN asked and was given permission to address the House 
+for 1 minute.)
+  Mrs. CHRISTENSEN. Madam Speaker, next month the Virgin Islands 
+National Guard is scheduled to deploy another 100 soldiers to Iraq. 
+Already over 400 have served several tours of duty; of that 100 to be 
+deployed, 36 are women.
+  We in the Virgin Islands have lost a total of seven soldiers, five 
+Virgin Islanders, and two whose families moved there. Having just lost 
+two of our finest, the first VI National Guard to be killed in Iraq, 
+that April deployment will be a very difficult one not just for the 
+families, but for the entire community. I want to be able to go with a 
+message of hope.
+  This week we will be debating the U.S. Troop Readiness, Veterans' 
+Health and Iraq Accountability Act. This bill sets a reasonable 
+timeline for troop withdrawal, ensures funding needed to ensure that 
+our troops are trained, protected and equipped while in Iraq and 
+Afghanistan, and that they are properly cared for when they return.
+  Colleagues, this is an important bill; our country needs us to pass 
+it. I want that when the April deployment ceremony comes about, I can 
+meet my VI National Guard knowing that they will not be there for more 
+than one tour, that they will have what they need to
+
+[[Page 6716]]
+
+get the job done, that they will come home in a time certain, and that 
+all the services they need will be there for them when they return. 
+That is a message that will make all the difference in the world to 
+them and their families.
+
+                          ____________________
+```
