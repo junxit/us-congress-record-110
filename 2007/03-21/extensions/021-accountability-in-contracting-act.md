@@ -1,0 +1,88 @@
+---
+granule: CREC-2007-03-21-pt1-PgE598-3
+date: 2007-03-21
+edition: CREC
+section: EXTENSIONS
+page: E598
+citation: 153 Cong. Rec. E598
+---
+
+# ACCOUNTABILITY IN CONTRACTING ACT
+
+**Speaking:** Jackson Lee, Sheila (J000032) [D-TX]
+
+**Measures:** H.R. 1362
+
+```
+                   ACCOUNTABILITY IN CONTRACTING ACT
+
+                                 ______
+                                 
+
+                               speech of
+
+                        HON. SHEILA JACKSON-LEE
+
+                                of texas
+
+                    in the house of representatives
+
+                        Thursday, March 15, 2007
+
+       The House in Committee of the Whole House on the State of 
+     the Union had under consideration the bill (H.R. 1362) to 
+     reform acquisition practices of the Federal Government:
+
+  Ms. JACKSON-LEE of Texas. Mr. Chairman, I rise today in strong 
+support of H.R. 1362, which makes several changes to federal 
+acquisition laws to increase transparency and accountability in federal 
+contracting.
+  Specifically, the bill requires agencies to limit the use of certain 
+types of abuse-prone contracts, and to promote integrity in the 
+acquisition workforce. The bill limits the length of certain 
+noncompetitive contracts and requires large federal agencies to develop 
+plans to minimize the use of noncompetitive contracts and cost-
+reimbursement type contracts. In addition the bill requires the public 
+disclosure of justification and approval documents required for 
+noncompetitive contracts and requires reports to Congress on certain 
+contract audits. Finally, the bill contains a number of provisions 
+which would improve the acquisition workforce.
+  The Bush administration has justified the award of lucrative no-bid 
+contracts claiming exigent circumstances. The spending on no-bid 
+contracts has more than doubled under the Bush Administration. The time 
+has come again for us to continue in the tradition of restoring 
+accountability back into Congress. This legislation builds on the 
+progress we have made to return to the basic principles of fiscal 
+responsibility and restore Congress's role as a check on the Executive 
+Branch.
+  Transparency and integrity is needed in order for accountability to 
+be restored in the
+
+[[Page E599]]
+
+federal contracting process so that taxpayers' money can be protected 
+from waste, fraud, and abuse. The effect of this legislation would 
+change federal acquisition law to require agencies to limit the use of 
+emergency no-bid contracts and to increase transparency and 
+accountability in federal contracting in an effort to protect the 
+taxpayers' money.
+  An estimated $10 billion in Iraq reconstruction spending has already 
+been wasted and the waste will continue until legislation such as H.R. 
+1362 makes it a requirement for agencies to limit the use of these 
+abuse-prone contracts. Congress has held multiple hearings over the 
+abuse that has occurred regarding such waste in federal contracting and 
+now we must act. Waste and fraud occurred not only with Iraq 
+reconstruction contracts but also in connection with Hurricane Katrina 
+recovery efforts.
+  Reports of government contractors defrauding the Coalition 
+Provisional Authority of tens of millions of dollars in Iraq 
+reconstruction funds have surfaced and this Administration has done 
+little to try to recover the money. It is time to clean up fraud in 
+Iraq and elsewhere.
+  I wholeheartedly support H.R. 1362 to change our current federal 
+acquisition laws to require agencies to limit the use of abuse- prone 
+contracts. I applaud this beneficial legislation and urge my colleagues 
+to join me in supporting H.R. 1362.
+
+                          ____________________
+```

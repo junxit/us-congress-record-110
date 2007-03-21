@@ -1,0 +1,44 @@
+---
+granule: CREC-2007-03-21-pt1-PgH2751-6
+date: 2007-03-21
+edition: CREC
+section: HOUSE
+page: H2751
+citation: 153 Cong. Rec. H2751
+---
+
+# EQUIPMENT FOR OUR MILITARY
+
+**Speaking:** Boyda, Nancy E. (B001258) [D-KS]
+
+```
+                       EQUIPMENT FOR OUR MILITARY
+
+  (Mrs. BOYDA of Kansas asked and was given permission to address the 
+House for 1 minute.)
+  Mrs. BOYDA of Kansas. Madam Speaker, thanks to the long contributions 
+of our soldiers and our veterans, America has amassed the most powerful 
+military in the history of mankind. It is so powerful that we almost 
+cannot imagine, we can almost imagine its resources are infinite, but 
+they are not.
+  They are limited, and due to the ever-expanding, ever-deteriorating 
+war in Iraq, they are stretched dangerously thin. Our soldiers and our 
+families, they will never complain, and that is why we must speak for 
+them. We must ask, no, we must demand, that they have the equipment, 
+the training and the support that they need to succeed, and today they 
+do not.
+  Since the Iraq war began in 2003, the Army has lost nearly 2,000 
+wheeled vehicles and more than 100 armored vehicles. Almost half of the 
+U.S. Army's
+
+[[Page H2752]]
+
+entire supply of ground equipment is now deployed in the Middle East. 
+The constant demands of combat and the treacherous terrain are wearing 
+out equipment at up to nine times the usual rate.
+  America's military is overburdened, and now our Nation must seriously 
+discuss how to best deploy our depleted forces against the dangers of 
+our day.
+
+                          ____________________
+```

@@ -1,0 +1,27 @@
+---
+granule: CREC-2007-03-21-pt1-PgS3545-6
+date: 2007-03-21
+edition: CREC
+section: SENATE
+page: S3545
+citation: 153 Cong. Rec. S3545
+---
+
+# CONFIRMATION
+
+```
+                              CONFIRMATION
+
+  Executive nomination confirmed by the Senate Wednesday, March 21, 
+2007:
+
+
+                Department of Health and Human Services
+
+       W. CRAIG VANDERWAGEN, OF MARYLAND, TO BE ASSISTANT 
+     SECRETARY FOR PREPAREDNESS AND RESPONSE, DEPARTMENT OF HEALTH 
+     AND HUMAN SERVICES.
+       THE ABOVE NOMINATION WAS APPROVED SUBJECT TO THE NOMINEE'S 
+     COMMITMENT TO RESPOND TO REQUESTS TO APPEAR AND TESTIFY 
+     BEFORE ANY DULY CONSTITUTED COMMITTEE OF THE SENATE.
+```
