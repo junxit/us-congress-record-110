@@ -1,0 +1,43 @@
+---
+granule: CREC-2007-03-22-pt1-PgH2825-2
+date: 2007-03-22
+edition: CREC
+section: HOUSE
+page: H2825
+citation: 153 Cong. Rec. H2825
+---
+
+# NO MILITARY SOLUTION TO IRAQ WAR
+
+**Speaking:** Pallone, Frank (P000034) [D-NJ]
+
+```
+                    NO MILITARY SOLUTION TO IRAQ WAR
+
+  (Mr. PALLONE asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. PALLONE. Mr. Speaker, this week the House will have a chance to 
+move the Iraq war in a new direction: one that holds the Iraqi 
+Government accountable for meeting benchmarks that they have already 
+promised they could make.
+  In contrast, the President's only answer is an open-ended commitment 
+to what even his own Pentagon now admits is a civil war. Military 
+leaders across the board have already told the President that there is 
+no military solution to the war, and yet he continues with the status 
+quo.
+  Lieutenant General Peter Chiarelli said in December: ``The proper 
+political pieces must be in place in order for any of the military, 
+economic or social initiatives to take hold and flourish.''
+  Lieutenant General Raymond Odierno said: ``It is clear you cannot 
+solve this problem militarily.''
+  And just last month, Major General Paul Eaton said: ``Time and again, 
+they have shown a tendency to focus almost exclusively on military 
+solutions to problems without leveraging the full economic, political 
+and diplomatic solutions to problems.''
+  These military leaders are correct. Iraqis must step forward and make 
+critical political reforms if they really want to begin to stem the 
+violence. But unlike the President, Democrats will finally demand some 
+accountability from the Iraqi Government this week.
+
+                          ____________________
+```
