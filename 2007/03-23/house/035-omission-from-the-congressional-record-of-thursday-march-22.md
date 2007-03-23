@@ -1,0 +1,16 @@
+---
+granule: CRECB-2007-pt5-Pg7473
+date: 2007-03-23
+edition: CRECB
+section: HOUSE
+page: 7473
+---
+
+# OMISSION FROM THE CONGRESSIONAL RECORD OF THURSDAY, MARCH 22, 2007 AT PAGE 7411
+
+```
+ OMISSION FROM THE CONGRESSIONAL RECORD OF THURSDAY, MARCH 22, 2007 AT 
+PAGE 7411
+
+                          ____________________
+```
