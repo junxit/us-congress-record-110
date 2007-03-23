@@ -1,0 +1,17 @@
+---
+granule: CREC-2007-03-23-pt1-PgH3015
+date: 2007-03-23
+edition: CREC
+section: HOUSE
+page: H3015
+citation: 153 Cong. Rec. H3015
+---
+
+# OMISSION FROM THE CONGRESSIONAL RECORD OF THURSDAY, MARCH 22, 2007 AT PAGE H2954
+
+```
+ OMISSION FROM THE CONGRESSIONAL RECORD OF THURSDAY, MARCH 22, 2007 AT 
+PAGE H2954
+
+                          ____________________
+```
