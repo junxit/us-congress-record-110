@@ -1,0 +1,300 @@
+---
+granule: CRECB-2007-pt6-Pg7636-2
+date: 2007-03-26
+edition: CRECB
+section: HOUSE
+page: 7636
+---
+
+# SUPPORTING THE GOALS AND IDEALS OF PROFESSIONAL SOCIAL WORK MONTH AND WORLD SOCIAL WORK DAY
+
+```
+ SUPPORTING THE GOALS AND IDEALS OF PROFESSIONAL SOCIAL WORK MONTH AND 
+                         WORLD SOCIAL WORK DAY
+
+  Ms. SHEA-PORTER. Mr. Speaker, I move to suspend the rules and agree 
+to the resolution (H. Res. 266) supporting the goals and ideals of 
+Professional Social Work Month and World Social Work Day.
+  The Clerk read the title of the resolution.
+  The text of the resolution is as follows:
+
+                              H. Res. 266
+
+       Whereas social workers have the demonstrated education and 
+     experience to guide individuals, families, and communities 
+     through complex issues and choices;
+       Whereas social workers connect individuals, families, and 
+     communities to available resources;
+       Whereas social workers are dedicated to improving the 
+     society in which we live;
+       Whereas social workers are positive and compassionate 
+     professionals;
+       Whereas social workers stand up for others to make sure 
+     everyone has access to the same basic rights, protections, 
+     and opportunities;
+       Whereas social workers have been the driving force behind 
+     important social movements in the United States and abroad; 
+     and
+       Whereas Professional Social Work Month, and World Social 
+     Work Day, which is March 27, 2007, will build awareness of 
+     the role of professional social workers and their commitment 
+     and dedication to individuals, families, and communities 
+     everywhere though service delivery, research, education, and 
+     legislative advocacy: Now, therefore, be it
+       Resolved, That the House of Representatives--
+       (1) supports the goals and ideals of Professional Social 
+     Work Month and World Social Work Day;
+       (2) acknowledges the diligent efforts of individuals and 
+     groups who promote the importance of social work and who are 
+     observing Professional Social Work Month and World Social 
+     Work Day;
+       (3) encourages the American people to engage in appropriate 
+     ceremonies and activities to further promote awareness of the 
+     life-changing role of social workers;
+       (4) recognizes with gratitude the contributions of the 
+     millions of caring individuals who have chosen to serve their 
+     communities through social work; and
+       (5) encourages young people to seek out educational and 
+     professional opportunities to become social workers.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentlewoman from 
+New Hampshire (Ms. Shea-Porter) and the gentleman from Tennessee (Mr. 
+David Davis) each will control 20 minutes.
+  The Chair recognizes the gentlewoman from New Hampshire.
+
+
+                             General Leave
+
+  Ms. SHEA-PORTER. Mr. Speaker, I request 5 legislative days during 
+which Members may insert material relevant to House Resolution 266 into 
+the Record.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentlewoman from New Hampshire?
+  There was no objection.
+  Ms. SHEA-PORTER. Mr. Speaker, I yield myself such time as I may 
+consume.
+  Mr. Speaker, I am pleased to rise today to offer House Resolution 
+266, which honors the dedication and compassion of professional social 
+workers. Our highest calling as humans is to provide service to others, 
+especially those less fortunate than ourselves.
+
+[[Page 7637]]
+
+  At the turn of the 20th century, thousands of people lived in despair 
+and poverty, and it was the early progressive moment in which the 
+social work movement was born, providing food, clothing, health care 
+and education to the less fortunate.
+  Social workers had a role in civil rights and in women's freedom. 
+Today, social workers continue this fight to ensure that vulnerable 
+families have the support and the health care that they need.
+  Social workers are everywhere in our society, caring for all of us. 
+They help people in all stages of life, from children to the elderly, 
+and in all situations, from adoption to hospice care. You can find 
+social workers in hospitals, police departments, mental health clinics, 
+military facilities and corporations.
+  Professional social workers are the Nation's largest providers of 
+mental health care services. They provide more mental health services 
+than psychologists, psychiatrists and psychiatric nurses combined.
+  More than 600,000 people in the United States hold social work 
+degrees. The Veterans Administration employs more than 4,400 social 
+workers to assist veterans and their families with individual and 
+family counseling, client education, end-of-life planning, substance 
+abuse treatment, crisis intervention and other services.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. DAVID DAVIS of Tennessee. Mr. Speaker, I rise in support of House 
+Resolution 266. This resolution would recognize the important work of 
+our Nation's social workers and support the goals and ideals of 
+Professional Social Worker Month and World Social Worker Day.
+  Social work is a profession for those with a strong desire to help 
+improve people's lives and play a valuable role in the Nation's health 
+care system. Social workers help people function the best way they can 
+in their environment, deal with their relationships, and solve personal 
+and family problems.
+  Social workers often see clients who face life-threatening disease or 
+social problems such as inadequate housing, unemployment, a serious 
+illness, a disability, or substance abuse. Social workers also assist 
+families that have serious domestic conflicts, sometimes involving a 
+child or spousal abuse.
+  For example, child, family and school social workers provide social 
+services and assistance to improve the social and psychological 
+functioning of children and their families and to maximize the family 
+well-being and academic functioning of children. They assist single 
+parents, arrange adoption, or help find foster homes for neglected, 
+abandoned or abused children.
+  In schools, they address problems such as teenage misbehavior and 
+truancy and advise teachers on how they can cope with problem students. 
+Social workers also specialize in services for senior citizens, running 
+support groups for family caregivers or for the adult children of aging 
+parents, advising elderly people or family members about choices in 
+areas such as housing, transportation, and long-term care and 
+coordination and monitoring of these services.
+  Through employee assistance programs, they may help workers cope with 
+job-related pressures or with personal problems that affect the quality 
+of their work.
+  Medical and public health social workers provide persons, families, 
+and vulnerable populations with psychosocial support needed to cope 
+with chronic, acute and terminal illnesses such as Alzheimer's disease 
+and cancer. They also assess and treat individuals with mental illness 
+or substance abuse, including abuse of alcohol, tobacco and other 
+drugs. They also may help plan for supportive services to ease 
+patients' return into the community.
+  In my State of Tennessee, we have a long tradition of recognizing the 
+vital role of social workers. In 2005, the Tennessee legislature, of 
+which I was honored to serve as a member for many years, passed 
+important legislation which required social workers to have received a 
+B.S. or master's degree in social work from an accredited school, 
+received a doctorate or Ph.D. in social work, or have a specialized 
+certificate or license from the State.
+  As a society, we have come to trust that the people using a certain 
+title have completed specific training to prepare them for their work 
+in assisting the public. Thanks to this legislation, Tennessee now 
+ensures that positions requiring the skills and training of 
+professional social workers are filled with fully qualified 
+professionals.
+  In addition, the East Tennessee State University Department of Social 
+Work has a long and proud history of preparing the majority of social 
+workers in the region that I represent. In addition to providing high-
+quality education to future social workers, the Department hosts a 
+Social Work Career Day where students, community agencies and 
+practitioners come together and share educational experience and 
+information on a career in social work. Students and faculty are also 
+involved in a number of community based interdisciplinary learning and 
+service activities.
+  According to the United States Department of Labor, the need for 
+additional social workers is expected to increase faster than the 
+average of all other occupations through the year 2014 due to the 
+rapidly growing elderly population which is expected to create greater 
+demand for health and social careers. The growth in social work is 
+expected to occur most rapidly in home health care services, assisted 
+living and senior living communities and the school setting. In 
+addition, there is expected to be a significant need for those social 
+workers specializing in substance abuse.
+  Nearly 50 percent of the United States population, age 15 to 54, 
+report having at least one psychiatric disorder. Both severe and 
+persistent mental disorders, including addictions, have profound 
+consequences for individuals, their families and society, affecting 
+their ability to learn, to grow into healthy adults and to nurture 
+children, to work and secure housing and to engage in other routines of 
+living. Recognizing the prevalence of mental disorders and the cost 
+they exact on our society, social workers provide more than 40 percent 
+of all mental health services available to Americans, making them an 
+integral part of our Nation's health care delivery system.
+  So we stand here to recognize the importance of our Nation's social 
+workers and support the Professional Social Work Month and World Social 
+Work Day. We also stand to encourage more young adults to seek out 
+educational and professional opportunities as social workers where they 
+can play a positive impact on changing people's lives.
+  Mr. Speaker, I urge my colleagues to join me in highlighting the 
+contributions of social workers and to support House Resolution 266.
+  Mr. Speaker, I reserve the balance of my time.
+
+                              {time}  1500
+
+  Ms. SHEA-PORTER. Today we thank all those who have toiled in the 
+fields of our community, including my maternal grandmother, who left 
+the comfort of her home each day at the turn of the century and went to 
+the Lower East Side to help immigrants. And we praise all of those who 
+reach out to others every day in their community.
+  Social workers' service makes our communities stronger. March is 
+National Professional Work Month, and Tuesday, March 27 is World Social 
+Work Day. I honor their service and thank them for caring for all of us 
+each day.
+  Mr. Speaker, I yield back the balance of my time.
+  Ms. LEE. Mr. Speaker, I'd like to thank my colleague Congressman Ciro 
+Rodriguez for arranging this time on the floor for us to celebrate 
+World Social Work Day and to acknowledge the contributions of social 
+workers to the well-being of our society.
+  I'm proud to say that I'm a social worker and that my predecessor, 
+former Congressman and now mayor of Oakland, Ron Dellums, was also a 
+social worker. I believe our records, interests and efforts here in 
+Congress and outside reflect the influence of our social work 
+background. This education has helped me to form my principles and has 
+helped me to fight injustice and inequality, not just here in the U.S. 
+but also abroad.
+
+[[Page 7638]]
+
+  Social workers make a difference in people's lives everyday and at 
+all levels. They're in the streets working one-on-one with the 
+homeless. They're in the hospitals and clinics helping people through 
+their health crises. They're in the schools making our kids safe, 
+adjusted, and prepared to take on the world. They're advocating for the 
+rights of our country's most vulnerable citizens--our children, the 
+elderly, the mentally ill, the poor, and others in our society that may 
+not have a strong voice. They're fighting for social justice and human 
+rights internationally and they're creating policies and programs here 
+in the halls of both the Congress and the Senate that address the needs 
+of our society.
+  The hallmark trait of a social worker is their ability to empathize--
+their ability and willingness to put themselves in someone else's 
+place. This is not always an easy thing to do. Many times social 
+workers encounter people who are in extreme states of crisis. Times 
+when their lives are feeling out of control. It's no easy feat to step 
+into someone else's nightmare and help them find the strength to cope, 
+to problem-solve, and to move forward. But this is what social workers 
+do on a daily basis.
+  Nonetheless, there are also times that are incredibly heartening and 
+rewarding--times that renew your faith in humanity. They are the times 
+when you see the first trusting smile on the face of a child that came 
+from the chaos of an abusive home and you feel that connection. They 
+are the times when you're able to help a family--homeless and 
+devastated by the ravages of a massive natural disaster. They are times 
+when the grassroots movement you've been working with is able to 
+achieve its goal. They're the times when you're able to help a young 
+man who seemed like he was starting down the path to a life of crime to 
+find a better road and to make better decisions.
+  One of the ways that I think I've best used my social work education 
+has been in the work I have done here in Congress. As a social worker, 
+I am concerned about the many things that ail our community as a whole. 
+That is why I have made the fight against AIDS a priority--not just 
+domestically, but also abroad. We need to stop crimes against humanity, 
+like the genocide that continues to ravage the Darfur region. I also 
+believe we need to fully fund No Child Left Behind. Our education 
+system is failing--No Child Left Behind is failing our children, our 
+teachers, our parents, and our community as a whole.
+  Recognizing the importance that social workers bring to our schools, 
+I'd also like to take this opportunity to thank my colleagues who have 
+cosponsored H.R. 171, the Student Support Act. I hope more of my 
+colleagues will consider supporting this legislation, which helps 
+ensure that our schools have the necessary amount of mental health 
+professionals at their schools, including school social workers, school 
+psychologists, counselors and psychiatrists. Almost all States fall 
+below the recommended guidelines by the American Counseling Association 
+of 1 counselor for every 250 students. My own State of California has 
+966 students for every one counselor. So I hope my colleagues can 
+cosponsor this important act, and maybe we can see this legislation 
+make some progress here in the House.
+  Social workers don't just make an impact on our students--social 
+workers give back to our society by helping to make better citizens of 
+us all. They strive to help their clients become the best that they can 
+be, to improve their communities and to confront the injustices that 
+they see. They foster a new way of looking at the world around you--one 
+where you see promise and possibility. Social workers help us to 
+realize a world where mediation, coalition building and effective 
+communication are used to find peaceful solutions instead of military 
+posturing.
+  I'd like to close by saying, I'm grateful to be part of a profession 
+that is devoted to service to our people and that is so necessary to 
+our society's well-being. I know that many of my dedicated colleagues 
+work quietly in the field and that their contributions are not always 
+given the attention they deserve, so I'm very pleased to be able to 
+celebrate this day and to publicly acknowledge their contributions.
+  Thank you again, Congressman Ciro Rodriguez for organizing this 
+special order, and also thank you to all of my colleagues who were able 
+to participate tonight.
+  Mr. DAVID DAVIS of Tennessee. Mr. Speaker, I yield back the balance 
+of my time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentlewoman from New Hampshire (Ms. Shea-Porter) that the House suspend 
+the rules and agree to the resolution, H. Res. 266.
+  The question was taken.
+  The SPEAKER pro tempore. In the opinion of the Chair, two-thirds 
+being in the affirmative, the ayes have it.
+  Ms. SHEA-PORTER. Mr. Speaker, on that I demand the yeas and nays.
+  The yeas and nays were ordered.
+  The SPEAKER pro tempore. Pursuant to clause 8 of rule XX and the 
+Chair's prior announcement, further proceedings on this question will 
+be postponed.
+
+                          ____________________
+```

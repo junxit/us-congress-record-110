@@ -1,0 +1,1028 @@
+---
+granule: CRECB-2007-pt6-Pg7640-3
+date: 2007-03-26
+edition: CRECB
+section: HOUSE
+page: 7640
+---
+
+# ANIMAL FIGHTING PROHIBITION ENFORCEMENT ACT OF 2007
+
+```
+          ANIMAL FIGHTING PROHIBITION ENFORCEMENT ACT OF 2007
+
+  Mr. SCOTT of Virginia. Mr. Speaker, I move to suspend the rules and 
+pass the bill (H.R. 137) to amend title 18, United States Code, to 
+strengthen prohibitions against animal fighting, and for other 
+purposes, as amended.
+  The Clerk read the title of the bill.
+  The text of the bill is as follows:
+
+                                H.R. 137
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Animal Fighting Prohibition 
+     Enforcement Act of 2007''.
+
+     SEC. 2. ENFORCEMENT OF ANIMAL FIGHTING PROHIBITIONS.
+
+       (a) In General.--Chapter 3 of title 18, United States Code, 
+     is amended by adding at the end the following:
+
+     ``Sec. 49. Enforcement of animal fighting prohibitions
+
+       ``Whoever violates subsection (a), (b), (c), or (e) of 
+     section 26 of the Animal Welfare Act shall be fined under 
+     this title, imprisoned for not more than 3 years, or both, 
+     for each violation.''.
+       (b) Clerical Amendment.--The table of contents for such 
+     chapter is amended by inserting after the item relating to 
+     section 48 the following:
+
+``49. Enforcement of animal fighting prohibitions.''.
+
+     SEC. 3. AMENDMENTS TO THE ANIMAL WELFARE ACT.
+
+       Section 26 of the Animal Welfare Act (7 U.S.C. 2156) is 
+     amended--
+       (1) in subsection (c), by striking ``interstate 
+     instrumentality'' and inserting ``instrumentality of 
+     interstate commerce for commercial speech'';
+       (2) in subsection (d), by striking ``such subsections'' and 
+     inserting ``such subsection'';
+       (3) by striking subsection (e) and inserting the following:
+       ``(e) It shall be unlawful for any person to knowingly 
+     sell, buy, transport, or deliver in interstate or foreign 
+     commerce a knife, a gaff, or any other sharp instrument 
+     attached, or designed or intended to be attached, to the leg 
+     of a bird for use in an animal fighting venture.'';
+       (4) in subsection (g)--
+       (A) in paragraph (1), by striking ``or animals, such as 
+     waterfowl, bird, raccoon, or fox hunting''; and
+       (B) by striking paragraph (3) and inserting the following:
+       ``(3) the term `instrumentality of interstate commerce' 
+     means any written, wire, radio, television or other form of 
+     communication in, or using a facility of, interstate 
+     commerce;''; and
+       (5) by adding at the end the following new subsection:
+       ``(i) The criminal penalties for violations of subsection 
+     (a), (b), (c), or (e) are provided in section 49 of title 18, 
+     United States Code.''.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentleman from 
+Virginia (Mr. Scott) and the gentleman from North Carolina (Mr. Coble) 
+each will control 20 minutes.
+  The Chair recognizes the gentleman from Virginia.
+
+
+                             General Leave
+
+  Mr. SCOTT of Virginia. Mr. Speaker, I ask unanimous consent that all 
+Members have 5 legislative days to revise and extend their remarks and 
+include extraneous material on the bill under consideration.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Virginia?
+  There was no objection.
+  Mr. SCOTT of Virginia. Mr. Speaker, I yield myself such time as I may 
+consume.
+  Mr. Speaker, H.R. 137 is a bipartisan effort by the Judiciary 
+Committee, led by the gentleman from California (Mr. Gallegly) as the 
+chief sponsor and the gentleman from Oregon (Mr. Blumenauer) as the 
+lead Democratic sponsor. Both have worked long and hard on this issue. 
+I would also like to express my appreciation to Chairman Conyers, 
+Ranking Member Smith, and Subcommittee Ranking Member Forbes for their 
+leadership and support in moving this matter forward, and also the 
+former chairman of the committee, Mr. Coble, who is with us today.
+  The Animal Fighting Prohibition Enforcement Act of 2007 addresses the 
+growing problem of staged animal fighting in this country. It increases 
+the penalties under the current Federal law for transporting animals in 
+interstate commerce for the purpose of fighting and for interstate and 
+foreign commerce in knives and gaffs designed for use in cockfighting.
+  Specifically, H.R. 137 makes violations of the law a felony 
+punishable by up to 3 years in prison. Currently, these offenses are 
+limited to misdemeanor treatment with the possibility of a fine and up 
+to 1 year of imprisonment. Most States make all staged animal fighting 
+illegal. Just one State currently allows cockfighting to occur legally.
+  The transport of game birds for the purpose of animal fighting and 
+the implements of cockfighting are already prohibited by Federal law, 
+though the current law only allows, as I have indicated, the 
+misdemeanor treatment. In 1976 Congress amended title 7, U.S. Code, 
+section 2156, the Animal Welfare Act, to make it illegal to knowingly 
+sell, buy, transport, deliver, or receive a dog or other animal in 
+interstate or foreign commerce for the purposes of participation in an 
+animal fighting venture or knowingly sponsoring or exhibiting an animal 
+in a fighting venture if any animal in the venture was moved in 
+interstate or foreign commerce. Amendments to the Animal Welfare Act 
+contained a loophole, however, that allowed shipments of birds across 
+State lines for fighting purposes if the destination State allowed 
+cockfighting.
+  While Congress did amend section 26 of the Animal Welfare Act to 
+close this loophole in 2002, the penalty section and other provisions 
+of the act have not been updated since their original enactment in 
+1976. This bill is designed to address those shortfalls to more 
+effectively cover modern problems associated with animal fighting 
+ventures.
+  As I have already mentioned, the legislation increases current 
+penalties to provide a meaningful deterrent. One of the primary reasons 
+for enacting the increased penalties under title 18 is the reluctance 
+of U.S. Attorneys to pursue animal fighting cases under the current 
+misdemeanor provisions because they view the penalties as ineffective 
+against an animal fighting industry, which has continued unabated 
+nationwide.
+  H.R. 137 further makes it a felony to transport cockfighting 
+implements in interstate or foreign commerce. These implements take the 
+form of razor-sharp knives, known as slashers; or gaffs, instruments 
+shaped in the form of curved ice picks that are attached to birds' legs 
+for fighting. Proponents of these implements within the game fowl 
+community apparently contend that they inflict cleaner wounds upon the 
+birds which are then quicker and easier to heal.
+  Since penalties against animal fighting were codified in 1976, 
+Federal authorities have pursued less than half a dozen animal fighting 
+cases, despite the fact that the USDA has received numerous tips from 
+informants and requests to assist with State and local prosecutions.
+  In addition, despite the fact that all 50 States have banned dog 
+fighting and all but one State has banned cockfighting, the animal 
+fighting industry continues to thrive within the United States. 
+Numerous nationally circulated animal fighting magazines advertise 
+fighting animals, and paid lobbyists continue to advocate for animal 
+fighters' interests. Thankfully, H.R. 137 will seek to bring an end to 
+these practices.
+  Finally, Mr. Speaker, this bill affects matters within the 
+jurisdiction of the
+
+[[Page 7641]]
+
+Committee on Agriculture and the Judiciary Committee. Both committees 
+have worked closely together to ensure that all matters are dealt with 
+appropriately. We appreciate their assistance in bringing this bill 
+expeditiously to the floor, and I will insert into the Congressional 
+Record at this point an exchange of letters between Chairman Peterson 
+of the Agriculture Committee and Chairman Conyers of Judiciary.
+                                    U.S. House of Representatives,
+
+
+                                   Committee on the Judiciary,
+
+                                    Washington, DC, March 8, 2007.
+     Hon. Collin C. Peterson,
+     Chairman, Committee on Agriculture,
+     Washington, DC.
+       Dear Mr. Chairman: Thank you for your recent letter 
+     regarding the Agriculture Committee's jurisdictional interest 
+     in H.R. 137, the ``Animal Fighting Prohibition Enforcement 
+     Act of 2007,'' which the Committee on the Judiciary reported 
+     by voice vote. As ordered reported, the bill establishes 
+     criminal penalties for violations of Federal prohibitions on 
+     animal fighting.
+       I appreciate your willingness to discharge the bill from 
+     further consideration by your Committee, in order to expedite 
+     its floor consideration. I understand and agree that this is 
+     without prejudice to your Committee's jurisdictional 
+     interests in this or similar legislation in the future. In 
+     the event a House-Senate conference on this or similar 
+     legislation is convened, I would support your request for an 
+     appropriate number of conferees.
+       I will include a copy of your letter and this response as 
+     part of the Congressional Record during consideration of the 
+     legislation on the House floor. Thank you for your 
+     cooperation as we work towards enactment of H.R. 137.
+           Sincerely,
+                                                John Conyers, Jr.,
+     Chairman.
+                                  ____
+
+                                    U.S. House of Representatives,
+
+
+                                     Committee on Agriculture,
+
+                                    Washington, DC, March 8, 2007.
+     Hon. John Conyers,
+     Chairman, Committee on the Judiciary,
+     Washington, DC.
+       Dear Mr. Chairman: Thank you for your recent letter 
+     regarding Judiciary Committee action on H.R. 137, a bill to 
+     establish criminal penalties for violations of Federal 
+     prohibitions on animal fighting.
+       In the interest of expediting the consideration of H.R. 
+     137, I agree to the discharge of the bill from further 
+     consideration by the Committee on Agriculture. I do so with 
+     the understanding that the Committee on Agriculture does not 
+     waive any future jurisdictional claim over this or similar 
+     matters. In the event a conference with the Senate is 
+     requested on this bill, the Committee on Agriculture reserves 
+     the right to seek appointment of conferees.
+       Thank you for your cooperation in this matter.
+           Sincerely,
+                                               Collin C. Peterson,
+                                                         Chairman.
+
+  With that, Mr. Speaker, I urge my colleagues to support the 
+legislation.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. COBLE. Mr. Speaker, I yield myself such time as I may consume.
+  Mr. Speaker, H.R. 137, the Animal Fighting Prohibition Enforcement 
+Act of 2007, creates Federal felony penalties for animal fighting. The 
+distinguished gentleman from California (Mr. Gallegly) is the lead 
+sponsor of this bill with over 300 cosponsors from both sides of the 
+aisle.
+  The Animal Fighting Prohibition Enforcement Act increases criminal 
+penalties for illegal dog fighting and cockfighting. The act, 
+furthermore, imposes penalties for the interstate promotion of animal 
+fighting and the interstate transportation of animals for use in an 
+animal fighting venture.
+  All 50 States, Mr. Speaker, prohibit dog fighting, and 48 States 
+prohibit cockfighting. Louisiana and New Mexico, the two States that 
+do, in fact, allow cockfighting, may take up legislation to ban the 
+practice as early as this year.
+  According to the Humane Society, animal fighting, particularly 
+cockfighting, has become an interstate venture with small syndicates of 
+cockfighters moving across the country staging these different fights. 
+Animal fighting is also linked oftentimes with other criminal conduct 
+such as drug trafficking, illegal firearms sales, and gang activity.
+  By raising this offense from a misdemeanor to a felony, we are more 
+likely to deter illegal animal fighting and increase the likelihood 
+that Federal prosecutors will pursue these cases.
+  I urge my colleagues to support this bipartisan legislation.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. SCOTT of Virginia. Mr. Speaker, I yield such time as he may 
+consume to the gentleman from Michigan (Mr. Conyers), chairman of the 
+Judiciary Committee.
+  Mr. CONYERS. Mr. Speaker, to subcommittee Chairman Bobby Scott we owe 
+a debt of gratitude, as well as to subcommittee Ranking Member Coble 
+and, of course, the author of this bill, Elton Gallegly, who through 
+the years has persevered to make us finally come to this day. I guess 
+we should also thank about 303 Members of the House of Representatives 
+that have stuck with us and supported this legislation all this time. 
+My congratulations to all of you. I never thought that a measure that 
+was not considered as grave and large as some of the issues that come 
+before the House Judiciary Committee would meet with so much 
+encouragement and support to get us to this day. I congratulate the 
+House of Representatives and the leadership on both sides.
+  I join, of course, in this measure and would like to make this point: 
+this legislation includes a special provision clarifying the fact that 
+it only supersedes State law in the case of a direct or irreconcilable 
+conflict. The Humane Society is with us. The American Veterinary 
+Medical Association is with us. The National Association of Sheriffs is 
+with us, and hundreds and hundreds of local law enforcement agencies in 
+every State of the Union have all come out in support of this basic, 
+commonsense, long overdue legislation.
+  I thank those who have worked so tirelessly across the years to bring 
+us to this day where this bill has now come before the floor.
+  I'm pleased to join the growing list of supporters, including the 30 
+or so Members of the Judiciary Committee, that have decided to lend 
+their support to this measure.
+  For far too long, the sponsors of abusive animal fighting events 
+(including cockfight and dog fight promoters) have been permitted to 
+freely engage in such activities without any real fear of prosecution. 
+Fortunately, the bill before us seeks to change that.
+  First, the legislation provides up to the three years in jail for 
+people who transport animals in interstate commerce with the purpose of 
+participating in an animal fighting venture. Current law only treats 
+such offenses as a mere misdemeanor. However, research has shown us 
+that simple misdemeanor criminal penalties don't provide enough of a 
+meaningful deterrent, especially when thousands of dollars are wagered 
+on a single dog or cock fight.
+  Second, the legislation makes it unlawful to sell or ship instruments 
+in interstate commerce that are designed to be attached to the leg of a 
+bird for use in an animal fighting venture. Razor sharp knives, 
+commonly known as ``slashers'', are oftentimes attached to the legs of 
+a bird to make cockfights even more violent. This provision would 
+prohibit such activity, and subject any violators to a term of 
+imprisonment of up to three years in jail.
+  Finally, the legislation includes a special provision clarifying that 
+this measure only supersedes state law in the case of a direct or 
+irreconcilable conflict.
+  The Humane Society, the American Veterinary Medical Association, the 
+National Sheriffs Association, and nearly 400 local law enforcement 
+agencies covering all 50 states have all come out in support of this 
+legislation.
+  I strongly urge my colleagues to lend their support to this 
+bipartisan, commonsense measure as well.
+  Mr. COBLE. Mr. Speaker, I now yield 3 minutes to the distinguished 
+gentleman from California (Mr. Gallegly), member of the House Judiciary 
+Committee and original sponsor of this legislation.
+  Mr. GALLEGLY. Mr. Speaker, I thank the gentleman for yielding.
+  As you know, along with my good friend Earl Blumenauer and Roscoe 
+Bartlett, we have been trying to federally criminalize this brutal, 
+inhumane practice of animal fighting for the past several Congresses.
+  When Congress enacted legislation to tighten Federal animal fighting 
+laws, we left in place weak penalties that have proven ineffective and 
+allowed the barbaric practice to thrive, in spite of bans in virtually 
+every State. Misdemeanor penalties simply don't provide a meaningful 
+deterrent. Animal fighters consider misdemeanor penalties as a ``slap 
+on the wrist'' or merely the ``cost of doing business.''
+
+[[Page 7642]]
+
+  State and local law enforcement officials are increasingly concerned 
+about animal fighting not only because of the animal cruelty involved 
+but because of the other crimes that often go hand in hand with animal 
+fighting, including illegal gambling, drug trafficking, and acts of 
+human violence. In the last 6 months, virtually every reported arrest 
+in an animal fight has also led to additional arrests for at least one 
+of these criminal activities.
+  Cockfighting has also spread diseases that jeopardize poultry and 
+even public health. California experienced this firsthand when 
+cockfighters spread exotic Newcastle disease in 2002 and 2003. That 
+outbreak cost U.S. taxpayers nearly $200 million to eradicate, and the 
+cost to the U.S. poultry industry was in the millions. Cockfighting has 
+been identified as the major contributor to the spread of avian flu 
+throughout Thailand and other parts of Asia, where the strain 
+originated.
+  I want to express my sincere thanks to you, Earl Blumenauer, and to 
+Roscoe Bartlett for their work on this legislation. I also commend and 
+thank my good friend and neighbor Mr. John Conyers, the chairman of the 
+committee; Lamar Smith, the ranking member; Bobby Scott, the chairman 
+of the subcommittee; and Randy Forbes, the ranking member, for 
+recognizing the importance of this issue and moving H.R. 137 through 
+the Judiciary Committee so quickly.
+
+                              {time}  1715
+
+  Also I want to recognize Collin Peterson on the Ag Committee for his 
+assistance.
+  Finally, more important than all, is recognizing the 303-plus Members 
+that have co-sponsored this legislation. It is hard to believe that we 
+have that many people agreeing on something like this when it is not 
+often that we have that many people in the House agreeing on what day 
+of the week it is. So I want to thank all of them for their support.
+  Mr. Speaker, I ask my colleagues to join with all of us in passing 
+this legislation when we bring it to a vote here in a couple of 
+minutes.
+  Mr. SCOTT of Virginia. Mr. Speaker, I yield 3 minutes to the 
+gentleman from Oregon (Mr. Blumenauer), the lead Democratic sponsor of 
+this measure.
+  Mr. BLUMENAUER. Mr. Speaker, I appreciate Mr. Scott's courtesy in 
+permitting me to speak and the leadership in taking what is seemingly a 
+simple and innocuous bill and bringing it to the floor of the House. I 
+appreciate working with my friend, Elton Gallegly. This has been a long 
+haul, lots of ups and downs, but today we reach an important milestone.
+  This is my fifth year of working on this issue. We were exposed to it 
+during the last farm bill. We found that this got caught up in back-
+room machinations that really just defy description.
+  You have already heard about the despicable cruelty. You have heard 
+about the association with illegal activity, gambling, violence, drugs 
+and firearms trade. Louisiana is now poised to become the last State to 
+make it illegal, making it illegal in every State in the Union.
+  Why then is this even an issue? Well, it is an underground and 
+pervasive activity. It is in fact active across the country.
+  I just heard from one of our floor staff as we walked in today that 
+he saw accounts from small town newspapers in Alabama the last 2 weeks 
+in articles there. In Portland, Oregon, in recent months we have had 
+officers break into a meth and coke den where there were 43 live 
+chickens and all the equipment, as well as illegal weapons and large 
+amounts of cash. In another high-profile case in my community, a 
+professional basketball player was involved with illegal fighting of 
+his pit bull.
+  This is something that has been an area, frankly, where Congress has 
+shamefully been complicit. We have ignored the fact that inadequate 
+penalties, as has been said by the chairman of the committee, by my 
+friend from California, which have just been the ``cost of doing 
+business,'' We have looked the other way.
+  This is an important vote today. I am confident with over 300 co-
+sponsors it will pass, and it will pass overwhelmingly. But the battle 
+is not done. Never underestimate the power of the apologists, the 
+allies and the enablers of this vicious and cruel, I won't even call it 
+a ``sport,'' it is a vicious practice.
+  I am hopeful that we will move forward with not just voting today, 
+but make sure that it passes the other body, and it is not subjected, 
+as it has been time and time again over the last 5 years, to some other 
+devious action.
+  Do not sell short the people who are apologists for this sport. Join 
+with us not just with your vote but to make sure that we get this 
+legislation enacted and then enforced around the country.
+  Mr. COBLE. Mr. Speaker, I reserve the balance of my time.
+  Mr. SCOTT of Virginia. Mr. Speaker, I yield 2\1/2\ minutes to the 
+gentlelady from California, Ms. Sanchez.
+  Ms. LINDA T. SANCHEZ of California. Mr. Speaker, I rise today in 
+proud support of H.R. 137, the Animal Fighting Prohibition Enforcement 
+Act of 2007, because it is time for the Federal Government to up the 
+ante in its efforts to curb this cruel and gruesome abuse of animals.
+  The current misdemeanor penalties in Federal law have not been 
+effective. They are considered a cost of doing business by the animal 
+fighting industry, which continues to operate across the country.
+  This bill addresses the growing problem of animal fighting by 
+amending Federal law to prohibit moving animals through interstate 
+commerce for the purpose of fighting.
+  Do we want to make a Federal case out of this? Yes, we do. Those who 
+profit from animal fighting often drug dogs and roosters to make them 
+hyper-aggressive and to keep fighting even after suffering severe 
+injuries. The animals are in a closed pit from which they cannot 
+escape. Often, they die during the fight. This is a gruesome and 
+inhumane practice. The American people agree. Dog fighting is illegal 
+in 50 States and cockfighting is illegal in most.
+  Current law is simply not strong enough. Animal fighting often leads 
+to additional criminal behavior. It is associated with illegal 
+gambling, narcotics trafficking, public corruption, gang activity, and 
+violent behavior toward people.
+  The National Sheriffs' Association supports the legislation, and more 
+than 400 individual sheriffs and police departments in every State in 
+the country have endorsed it. They recognize that animal fighting often 
+involves movement of animals across interstate and foreign borders, and 
+they can't do the job on their own. They need the Federal Government to 
+do its part to curb this dangerous activity.
+  I am proud to be a part of this bipartisan effort to curb this 
+appalling treatment of animals. I urge my colleagues to join me in 
+voting yes on H.R. 137.
+  Mr. COBLE. Mr. Speaker, I continue to reserve the balance of my time.
+  Mr. SCOTT of Virginia. Mr. Speaker, I yield 3 minutes to the 
+gentleman from Tennessee (Mr. Cohen).
+  Mr. COHEN. Mr. Speaker, I want to thank the gentleman from Virginia 
+for this time.
+  This is my first year in the Congress. In my 24 years in the State 
+senate, I was the leading spokesperson for animal welfare legislation, 
+and I took great pride in that. So I am particularly appreciative of 
+standing up on this bill.
+  I incorporate by reference all the things that have been said about 
+the harmful effects of this practice, and they are well known. I think 
+that the spread of avian flu and all the other pertinent conduct is to 
+be prohibited.
+  But the main thing is, dogs are our best friends. Harry Truman said, 
+if you want a friend in Washington, get a dog. So far, I haven't been 
+here 90 days, I have made lots of friends. I haven't needed a dog yet, 
+but I have thought about the day. I saw a Congressman come in the other 
+day, Congressman Whitfield from Kentucky, he had his dog with him. He 
+has been here more years than me.
+  Dogs are our friends. We all have dogs that we feel that are part of 
+our families. We shouldn't treat any of God's creatures the way that 
+people
+
+[[Page 7643]]
+
+treat dogs and cocks; and I guess if I was from Kentucky, Congressman 
+Yarmuth, I could speak more fondly about chickens, because the Colonel 
+and KFC have done a lot for his district.
+  But my particular interest is dogs, and we should treat them well. 
+They are our friends. You can go back in TV lore, Lassie and Asta, and 
+you think about Snoopy. To teach them to fight, to require them to 
+fight, to watch them die is just not what God intended and not what we 
+should encourage and condone.
+  Children shouldn't be exposed to this, and sometimes they are. This 
+type of conduct leads to other types of harmful conduct and violence 
+against women, violence against seniors. People who enjoy this type of 
+violence and watching it are more often than not going to be the most 
+likely people to pick on others who are unable to take care of 
+themselves.
+  I am very proud to be a cosponsor of H.R. 137. I look forward to its 
+passage and the day that we don't have people who get some type of 
+great enjoyment out of watching dogs, cocks or any other of God's 
+creatures fight to the death and find pleasure and enjoyment in it and 
+teach their children by that association that violence is something 
+good, when it isn't.
+  Mr. COBLE. Mr. Speaker, I am advised the distinguished gentleman from 
+Virginia would like me to yield 3 minutes to the distinguished 
+gentleman from Virginia (Mr. Moran) which I am pleased to do.
+  Mr. MORAN of Virginia. Mr. Speaker, I thank both my friend from North 
+Carolina and my friend from Virginia, as well as the chairman of the 
+Judiciary Committee, for bringing this forward, as well as those who 
+have spoken on behalf of this bill.
+  This is not just a nuisance industry. This is a malicious industry 
+that represents a very, very serious public health threat. We are very 
+much concerned that the interstate or international transport, 
+especially of birds used for cockfighting, could spread an influenza 
+outbreak. The World Health Organization has reported at least nine 
+confirmed human cases of avian flu in Thailand and Vietnam that they 
+expect is related directly to cockfighting activity.
+  The American Veterinary Medical Association, the poultry industry, 
+all the animal protection associations, of course, but the National 
+Sheriffs' Association as well has urged us to pass this bill.
+  Yes, there are 50 different State bills against dog fighting, 49 
+against cockfighting, but many of them are different. And the fact is 
+there is a great deal of interstate commerce that takes place, so you 
+need a Federal law banning this, because it is so closely associated, 
+and this is what the National Sheriffs' Association tells us, so 
+closely associated to illegal gambling, trafficking of narcotics, 
+public corruption, dangerous gang activity. There are so many reasons 
+why we should ban this practice.
+  As has been said, it is cruel, and it is inhumane. They drug these 
+animals so that they are hyper-aggressive, so that they will continue 
+fighting until they kill or are killed. That is not right. It is not 
+moral. But even beyond the cruel and inhumane aspect of this practice, 
+it represents a very dangerous public health threat, as well as a 
+source of a great deal of other illegal criminal activity.
+  This House would be well-served to listen to the more than 300 
+Members who have cosponsored this legislation and pass it today.
+  Mr. SCOTT of Virginia. Mr. Speaker, I yield 1 minute to the 
+gentlewoman from Texas (Ms. Jackson-Lee).
+  Ms. JACKSON-LEE of Texas. Mr. Speaker, let me thank the author of the 
+bill and certainly the chairman of the Subcommittee on Crime, the 
+chairman of the full committee and ranking members as well.
+  I rise to enthusiastically support H.R. 137 and announce that it is 
+impacting so many different communities that it is imperative that 
+there be a Federal prohibition on transporting animals interstate. 
+There is a question of disease, there is a question of violence, and 
+certainly with the increasing numbers of dangerous animals that attack 
+human beings, fighting animals certainly pose a severe threat to the 
+community.
+  This is a good bill. I am delighted to be a co-sponsor. The good news 
+is that we are getting it through the House today. This bill has been 
+around since the last session. I congratulate all of the authors. It is 
+time now to spell relief by passing this bill and protecting the lives 
+of our children and saving the lives of those who would be endangered 
+by cockfighting and other dangerous activities with animals.
+  Mr. Speaker, I rise in strong support of H.R. 137, the ``Animal 
+Fighting Prohibition Enforcement Act of 2007.'' I was a co-sponsor of 
+this legislation when it was considered in the 109th Congress and a 
+strong supporter and co-sponsor when the bill was re-introduced in this 
+Congress.
+  Mr. Speaker, H.R. 137 establishes felony-level jail time (up to 3 
+years) for violators of the Federal animal fighting law. The bill 
+amends Title 18 of the U.S. Code to strengthen the maximum jail time 
+from the 1-year misdemeanor level in current law. The bill also 
+prohibits interstate and foreign commerce in cockfighting weapons.
+
+
+  1. DOGFIGHTING AND COCKFIGHTING ARE INHUMANE AND BARBARIC ACTIVITIES
+
+  In a typical fight, animals are drugged to heighten their aggression 
+and forced to keep fighting even after injuries such as pierced lungs 
+and gouged eyes--all for the amusement and illegal wagering of handlers 
+and spectators. Dogfighting and cockfighting are also associated with 
+other criminal conduct, such as drug traffic, illegal firearms use, and 
+violence toward people. Children are often present at these spectacles. 
+Some dogfighters steal pets to use as bait for training their dogs; 
+some allow trained fighting dogs to roam neighborhoods and endanger the 
+public.
+
+
+                     2. FELONY PENALTIES ARE NEEDED
+
+  Misdemeanor penalties don't provide a meaningful deterrent; they're 
+considered a ``slap on the wrist'' or a ``cost of doing business.'' And 
+prosecutors are reluctant to pursue animal fighting cases carrying only 
+a misdemeanor penalty. Since the Federal animal fighting law was first 
+enacted in 1976, authorities have pursued only a handful of cases, 
+despite receiving innumerable informant tips about illegal interstate 
+activity and requests to assist with state and local busts and 
+prosecutions.
+
+
+ 3. THE ANIMAL FIGHTING PROHIBITION ENFORCEMENT ACT BRINGS FEDERAL LAW 
+                        IN LINE WITH STATE LAWS
+
+  When the Federal animal fighting law was enacted in 1976, only one 
+state had felony penalties for animal fighting. Today, dogfighting is a 
+felony in 48 states, and cockfighting is a felony in 33 states. State 
+laws commonly authorize jail time of 3 to 5 years or more for animal 
+fighting.
+
+
+4. OTHER RECENT FEDERAL ANIMAL PROTECTION LAWS THAT AMENDED TITLE 18 OF 
+                  THE U.S. CODE HAVE FELONY PENALTIES
+
+  In 1999, Congress authorized imprisonment of up to 5 years for 
+interstate commerce in videos depicting animal cruelty, including 
+animal fighting (P.L. 106-152), and mandatory jail time of up to 10 
+years for willfully harming or killing a federal police dog or horse 
+(P.L. 106-254).
+
+
+5. THERE IS NO REASON TO ALLOW INTERSTATE AND FOREIGN COMMERCE IN SHARP 
+             IMPLEMENTS DESIGNED EXCLUSIVELY FOR COCKFIGHTS
+
+  Razor-sharp knives known as ``slashers'' and ice pick-like gaffs are 
+attached to the legs of birds to make cockfights more violent. These 
+weapons, used only in cockfights, are sold through cockfighting 
+magazines and through the Internet.
+
+
+   6. THE ANIMAL FIGHTING INDUSTRY CONTINUES TO THRIVE ACROSS THE U.S
+
+  All 50 states ban dogfighting, 48 states ban cockfighting, and there 
+has been a dramatic increase in the number of animal fighting raids by 
+state and local authorities. Yet numerous nationally circulated animal 
+fighting magazines still promote these cruel practices and advertise 
+fighting animals and the accoutrements of animal fighting. There are 
+also several active websites for animal fighting enthusiasts, and paid 
+lobbyists advocating animal fighters' interests.
+
+
+ 7. COCKFIGHTERS HAVE SPREAD DISEASES AND POSE A CONTINUING THREAT TO 
+                       FARMERS AND PUBLIC HEALTH
+
+  As former Agriculture Secretary Ann Veneman wrote in a May 2004 
+letter indicating the Bush Administration's endorsement of the animal 
+fighting felony legislation:
+
+       ``[cockfighting has] been implicated in the introduction 
+     and spread of exotic Newcastle disease in California in 2002-
+     2003, which cost U.S. taxpayers nearly $200 million to 
+     eradicate, and cost the U.S. poultry industry many millions 
+     more in lost export markets. . . . We believe that tougher 
+     penalties
+
+[[Page 7644]]
+
+     and prosecution will help to deter illegal movement of birds 
+     as well as the inhumane practice of cockfighting itself.''
+
+  According to government officials, interstate and international 
+transport of fighting birds posed the greatest risk of transmission, 
+since cockfighters move their birds often and participants from as many 
+as a dozen states gather at illegal fighting derbies.
+  Cockfighting also has been implicated in the deaths of at least 9 
+people in Asia who were reportedly exposed through cockfighting 
+activity to bird flu. The National Chicken Council, which represents 95 
+percent of U.S. poultry producers/processors, has called on Congress to 
+enact the animal fighting felony legislation, noting ``we are concerned 
+that the nationwide traffic in game birds creates a continuing hazard 
+for the dissemination of animal diseases.'' We can't afford not to act. 
+The economic consequences of an avian influenza outbreak are 
+staggering--with U.S. losses estimated at between $185 and $618 billion 
+(Congressional Budget Office) and worldwide losses projected from $1.5 
+to $2 trillion (The World Bank).
+
+
+           8. H.R. 137 ENJOYS OVERWHELMING BIPARTISAN SUPPORT
+
+  H.R. 137 currently has more than 300 sponsors. More than 400 local 
+and state law enforcement agencies covering every state in the country 
+have endorsed this legislation, along with animal welfare, poultry 
+industry, and other organizations. Enacting this animal fighting 
+legislation is long overdue.
+  Mr. Speaker, I urge my colleagues to support H.R. 137.
+  Mr. COBLE. Mr. Speaker, I yield back the balance of my time.
+  Mr. SCOTT of Virginia. Mr. Speaker, I urge my colleagues to support 
+this legislation. It is bipartisan legislation. We have listened to all 
+of the people who have worked long and hard on this legislation. I hope 
+it will be the pleasure of the House to pass the bill.
+  Mr. BLUMENAUER. Mr. Speaker, I support the Animal Fighting 
+Prohibition Act, which would raise the penalty for violators of the 
+federal animal welfare law, from a class 1 misdemeanor to a felony. In 
+an industry where thousands of dollars change hands with each fight, 
+misdemeanor fines and charges are simply considered ``the costs of 
+doing business''. This bill would close this loophole and keep 
+criminals from traveling to states with weaker penalties to conduct 
+their business.
+  Animal fights are not only despicable for their cruelty to animals, 
+but they are commonly associated with illegal gambling, drug traffic, 
+firearms trades, and numerous other illicit activities. Recently in 
+Oregon, officers found meth, cocaine, $10,000 in cash, along with 43 
+live chickens, cockfighting equipment including metal spurs and gaffs 
+in a Portland man's home. Drugs are often the impetus for the discovery 
+of gamecocks and illegal weapons. In another high profile Oregon case, 
+a former Portland Trailblazer pled guilty to animal abuse for fighting 
+his pit bull. Officials found her bloody, scarred, and covered in tar 
+which is used by fighters as a cheap antiseptic to fresh wounds.
+  But animal fighting doesn't just pose a threat to the people and 
+animals who engage in them, it has enormous costs to the United States 
+health and economy. Cockfighting has been implicated in the 
+introduction and spread of exotic Newcastle disease in California in 
+2002-2003, which cost the U.S. taxpayers nearly $200 million to 
+eradicate. The disease spread further to large scale egg farms in 
+Arizona, Nevada, New Mexico, and Texas; costing the U.S. poultry 
+industry many millions of dollars in lost export markets. Cockfighting 
+has also been implicated in the deaths of at least 9 people in Asia who 
+contracted avian flu after exposure to fighting birds. If avian flu 
+were to reach the shores of America, the economic and human 
+consequences would be staggering.
+  This bill has widespread support across the country, including 303 
+cosponsors in the House and 35 cosponsors in the Senate. HR 137 is 
+endorsed by the Humane Society of the United States, the National 
+Chicken Council which represents 95 percent of the Nation's poultry 
+producers, the American Veterinary Medical Association, the National 
+Sheriff's Association, and more than 400 local law enforcement 
+agencies. Currently there is only one bastion left for cock fighters; 
+the State of Louisiana. Although gamers have attempted to use tribal 
+lands as exemptions from state and federal laws, a federal jury 
+recently convicted four men for their participation in a cockfight, and 
+70 others entered guilty pleas. It is my understanding that the 
+increase in penalties contained within this bill would be equally 
+applicable to animal fights held on tribal lands or Indian 
+Reservations.
+  It is far past time that Congress give our law enforcement agencies 
+the tools they need to end this barbaric and consequential practice.
+  Mr. SHAYS. Mr. Speaker, I rise in support of H.R. 137, the Animal 
+Fighting Prohibition Enforcement Act, of which I am also a cosponsor. 
+The way a society treats its animals speaks to the core values and 
+priorities of its citizens. I am committed to animal welfare because I 
+believe humankind has an obligation to all animals.
+  Currently, it is a misdemeanor to sell, buy, or transport an animal 
+to be used in a fight.
+  This legislation would make the crime a felony and increase the 
+imprisonment penalty from 1 year to 3 years. The legislation also makes 
+it unlawful to ship in interstate commerce a knife, gaff, or other 
+sharp instrument used in cockfighting, and makes it a felony to use the 
+postal service to promote an animal fight.
+  Dog fighting is banned in 50 states and cockfighting is banned in all 
+but two, so I believe the Federal government is simply codifying a 
+value that our States governments have already individually expressed.
+  Animal fighting is a cruel pastime where, in a typical fight, animals 
+are drugged to heighten their aggression and forced to keep fighting, 
+even after injuries, for the amusement and illegal wagering of handlers 
+and spectators. We must put an end to this form of entertainment, which 
+results in the brutal treatment of animals.
+  As a co-chair of the Congressional Friends of Animals Caucus, I will 
+continue to work on a bipartisan basis to help protect animals at the 
+Federal level.
+  Mr. BARTLETT of Maryland. Mr. Speaker, with my colleagues Mr. 
+Gallegly and Mr. Blumenauer, I have introduced H.R. 137 to establish 
+felony-level jail time of up to 3 years for those who violate the law 
+against animal fighting. H.R. 137 would amend current law to toughen 
+the maximum jail time from a one-year misdemeanor.
+  The penalties in the existing federal animal fighting statute are too 
+weak. The upgraded penalty better aligns federal law with state law. 
+Almost all states have established felony-level penalties for illegal 
+animal fighting activities. State laws commonly authorize jail time of 
+3 to 5 years or more for animal fighting.
+  George Bernard Shaw once stated, ``The worst sin toward our fellow 
+creatures is not to hate them, but to be indifferent to them, that's 
+the essence of inhumanity.'' We should not be indifferent to the 
+reprehensible underground organized crime of animal fighting, which is 
+not only cruel but poses threats to public health and safety.
+  The Humane Society of the U.S. estimates that there are at least 
+40,000 dogfighters in America. Cockfighting has been tied to the spread 
+of bird flu. Animal fighting spawns a number of other criminal 
+activities, such as illegal gambling and using and selling drugs. Even 
+more disturbing is the conclusion by many experts that acts of cruelty 
+against animals are precursors to violence against humans. The felony-
+level penalties against animal fighting in H.R. 137 are necessary, and 
+I urge my colleagues to support the bill.
+  Mr. FARR. Mr. Speaker, I rise today in strong support of H.R. 137, 
+the Animal Fighting Prohibition Enforcement Act of 2007.
+  As many of my colleagues know, I have had a lifelong love and 
+compassion for animals of all kinds. That is why I am simply shocked 
+that it is not already illegal to take animals across state lines for 
+the purpose of fighting. This is an inhumane and cruel practice that 
+must not be allowed to continue. Another reason why this practice must 
+be outlawed is because animal fighting spreads disease and poses an 
+enormous public health risk. At a time when avian flu is at the 
+forefront of this county's health-related worries, it should be of the 
+utmost concern to people that animal fighting is occurring all across 
+the country. It makes one wonder, what kind of person could enjoy a 
+``sport'' like this?
+  In the forty-eight states where animal fighting is already outlawed, 
+illegal gambling goes hand-in-hand with this gruesome activity. H.R. 
+137, the Animal Fighting Prohibition Enforcement Act of 2007, makes it 
+a felony to knowingly sponsor or exhibit an animal or to use interstate 
+commerce for the purposes of fighting. This bill would impose a prison 
+sentence of up to 3 years.
+  I have supported this legislation since 2003. I am pleased that this 
+legislation has overwhelming bipartisan support, with 303 cosponsors. 
+Obviously we need stronger laws on this because this practice still 
+continues.
+  Mr. Speaker, I urge my colleagues to pass H.R. 137, the Animal 
+Fighting Prohibition Enforcement Act of 2007.
+  Mr. KUCINICH. Mr. Speaker, I rise today in support of H.R. 137, the 
+Animal Fighting Prohibition Enforcement Act of 2007. It is hard to 
+believe that an act as horrendous and brutal as animal fighting still 
+takes place today.
+  H.R. 137 would make engaging in animal fighting a felony. This 
+legislation will ensure
+
+[[Page 7645]]
+
+that those who choose to fight animals illegally will be met with the 
+appropriate penalty when they disregard the law.
+  Despite the fact that the vast majority of states have banned this 
+atrocious and deplorable act, animal fighting continues to plague our 
+communities. Animals such as dogs and chickens are fought to the death 
+in the name of sport. This is unhealthy, violent behavior on the part 
+of humans and is inhumane and merciless to the animals.
+  I commend both local and state officials for stepping up raids on 
+animal fighting rings. Now it is time for this body of Congress to do 
+our part by making these offenses a felony under Federal law. I urge my 
+colleagues to join me and vote in favor of the Animal Fighting 
+Prohibition Enforcement Act, H.R. 137.
+  Mrs. MALONEY of New York. Mr. Speaker, I rise today in strong support 
+of H.R. 137, the Animal Fighting Prohibition Enforcement Act of 2007. I 
+want to thank my colleagues Representative Gallegly and Representative 
+Blumenauer for their hard work on this issue.
+  This important legislation will make it illegal to transport an 
+animal across State or international borders for the purpose of 
+fighting, prohibits use of the mail system to promote animal fighting, 
+and criminalizes interstate buying, selling, or transportation of 
+knives or gaffs used for animal fighting.
+  Animal fighting is a deplorable activity with a purely negative 
+impact on society. In cockfights, when two birds fight with blades or 
+gaffs attached to their feet, at least one, and sometimes both of the 
+birds are killed. Dogs who are made to fight often sustain severe 
+injuries such as deep wounds and broken bones. Subsequent to fights, 
+many dogs die of blood loss, exhaustion, or shock. Fighting animals are 
+usually subject to inhumane living conditions intended to make them 
+more aggressive, sometimes denied adequate nutrition, and made to 
+exercise until they are physically exhausted.
+  In addition to the inexcusable harm inflicted on the animals, the 
+fights also have negative effects on humans. Illegal gambling and drug 
+trafficking are often closely tied to animal fighting operations. Also, 
+animals bred to fight are abnormally aggressive, and pose a danger to 
+the communities they live in if they were to get loose.
+  I applaud the passage of this bill, which will end an inhumane 
+practice that is an embarrassment to our country. I am proud that this 
+democratic majority has made animal welfare a priority in the 110th 
+Congress.
+  Mr. GALLEGLY. Mr. Speaker, as you know, I, along with Mr. Blumenauer 
+and Mr. Bartlett, have been trying to federally criminalize the brutal, 
+inhumane practice of animal fighting for the past several Congresses.
+  A few years ago, Congress enacted legislation to tighten Federal laws 
+with regard to animal fighting; however, this law created some 
+loopholes that allowed the barbaric practices of animal fighting to 
+thrive nationwide, in spite of bans in virtually every State. We left 
+in place weak penalties that have proven ineffective. Misdemeanor 
+penalties simply don't provide a meaningful deterrent. We've heard from 
+U.S. Attorneys that they are reluctant to pursue animal fighting cases 
+with just a misdemeanor penalty. Those involved in animal fighting 
+ventures consider misdemeanor penalties a ``slap on the wrist'' or 
+merely a ``cost of doing business.''
+  In recent years, we've seen a marked rise in the frequency of animal 
+fighting busts in communities across the country. Local police and 
+sheriffs are increasingly concerned about animal fighting, not only 
+because of the animal cruelty involved, but also because of the other 
+crimes that often go hand-in-hand, including illegal gambling, drug 
+trafficking, and acts of human violence. In the last 6 months, every 
+reported bust of an animal fight also led to additional arrests for at 
+least one of these criminal activities.
+  Furthermore, there is an inherent danger for the children of animal 
+fighters to be close to these animals. Children are often brought to 
+these gruesome spectacles. Some dog fighters steal pets to use as bait 
+for training their dogs; some allow trained fighting dogs to roam 
+neighborhoods and endanger the public.
+  There is the additional concern that cockfighters spread diseases 
+that jeopardize poultry flocks and even public health. We in California 
+experienced this first-hand, when cockfighters spread exotic Newcastle 
+disease, which was so devastating to many of our poultry producers in 
+2002 and 2003. That outbreak cost U.S. taxpayers nearly $200 million to 
+eradicate, and cost the U.S. poultry industry many millions more in 
+lost export markets.
+  Cockfighting has been identified as the major contributor of the 
+spread of avian flu throughout Thailand and other parts of Asia, where 
+the strain originated. At least nine people who contracted avian flu 
+and died from it reportedly contracted it from fighting birds. Among 
+those who are reported to have died from avian influenza as a result of 
+exposure through cockfighting, include 4-year-old, 6-year-old, and 18-
+year-old boys in Thailand and a 6-year-old girl in Vietnam. 
+Fortunately, bird flu has not yet jumped the species barrier in this 
+country, but we ought to do all we can to minimize the risk.
+  Opponents of H.R. 137 have said this bill should be blocked because 
+it will drive them underground, increasing the public health risks. 
+That's a ludicrous argument. They're already underground (it's illegal 
+in 49 States and various localities in the remaining State, Louisiana). 
+They're coaching each other, as documented in chat rooms and other 
+communications that have been intercepted, to hide their birds to avoid 
+detection in the event of an outbreak. We're not talking about stellar 
+citizens who are planning to contact health officials to ``do their 
+part'' in stemming a pandemic. We'll be much better off cracking down 
+on illegal cockfighting than allowing this high-risk industry to 
+continue thriving and hoping they'll work with the government 
+cooperatively to stem the threat of disease.
+  We need to help State and local law enforcement officials who have 
+requested this strengthening of Federal laws to rid animal fighting 
+from communities that do not want it. This legislation makes violations 
+of federal animal fighting law a felony punishable by up to 3 years in 
+prison, makes it a felony to transport an animal across State or 
+international borders for the purpose of animal fighting, and prohibits 
+the interstate and foreign commerce in knives and gaffs designed for 
+use in cockfighting.
+  This bill simply promotes meaningful enforcement of current Federal 
+law that bars interstate and foreign movement of animals for fighting 
+purposes, including both dog fighting and cockfighting, by upgrading 
+current misdemeanor penalties to a felony level. The bill is explicitly 
+limited to interstate and foreign commerce, so it protects States' 
+rights in the 2 States where cockfighting is allowed, yet further 
+protects States' rights in the other 48 States where weak Federal law 
+compromises the ability to keep animal fighting outside their borders.
+  I also wanted to clarify for the Record that subsection (c) of 
+section 26 of the Animal Welfare Act, which is about interstate 
+instrumentalities and commercial speech, prohibits the websites and the 
+magazines where fighting animals are advertised for sale. These 
+publications are commercial speech, and also clearly promote animal 
+fighting. They advertise fighting animals and weapons for sale in 
+interstate commerce. For example, over the last 12 months, there have 
+been over 1,600 pages worth of advertisements for illegal interstate 
+commercial transactions in the two main cockfighting magazines.
+  Subsection (d) is meant to limit subsection (c) with respect to the 
+magazines and other commercial speech promoting cockfights in States 
+where that is legal. It acts as a limitation upon subsection (c), but, 
+as under current law, only if the effect of that promotion is limited 
+to cockfights in the one State where cockfighting is still legal. So as 
+a practical matter, (d) does not limit enforcement of (c) against the 
+cockfighting magazines and website advertisements, because these 
+materials promote animal fights in every State--they are sent to or 
+read by buyers in many States, who buy the fighting animals and 
+implements and then use them in animal fights in States where 
+cockfighting is illegal.
+  Finally, I also want to say that these provisions in current law, 
+which are mirrored in H.R. 137, pose no problem in terms of the First 
+Amendment. Animal fighting magazines and websites aren't protected by 
+the First Amendment. The Supreme Court has been clear on this score--
+there is no First Amendment protection for commercial speech where the 
+underlying commercial transaction is lawfully prohibited, as is the 
+case here. Subsection (c) is clearly constitutional. It is narrowly 
+tailored with this in mind. First Amendment consideration is built 
+right into the language. It only prohibits ``commercial speech''--like 
+the cockfighting magazines with all of their advertisements for 
+contraband. These animal fighting magazines are not political speech, 
+they are basically just catalogs, with hundreds of advertisements per 
+issue for illegal transactions. The sellers are just soliciting the 
+buyers to commit criminal acts. They can't cloak it in the First 
+Amendment just by throwing a little bit of non-commercial speech in 
+there either, and the Supreme Court has been clear on that as well.
+
+  This is the perfect example of a bipartisan bill. The bill I 
+cosponsored in the last Congress, the Animal Fighting Prohibition Act 
+of 2006, had 324 cosponsors and was passed through the Senate by 
+unanimous consent. Mr. Blumenauer, Mr. Bartlett, and I rounded up 300 
+Democrat and Republican co-sponsors in just a few weeks.
+
+[[Page 7646]]
+
+  I want to express my sincere thanks to Mr. Blumenauer and Mr. 
+Bartlett for their work on this legislation. We have all been working 
+on this legislation for quite some time. I also want to commend Mr. 
+Conyers, Mr. Smith, Mr. Scott, and Mr. Forbes for recognizing the 
+importance of this issue and thank them for moving H.R. 137 through the 
+Judiciary Committee so quickly. I also want to thank Mr. Peterson of 
+the Agriculture Committee for his assistance on this matter. Finally, I 
+want to thank my 300+ colleagues who cosponsored H.R. 137. Without your 
+help, we would not have been able to show the amount of support this 
+Congress has for ending this deplorable practice and all of the 
+destructive behavior associated with it.
+
+  Mr. KING of Iowa. Mr. Speaker, on February 7, 2007, the House 
+Committee of the Judiciary passed by voice vote H.R. 137, the Animal 
+Fighting Prohibition Enforcement Act of 2007. This is a bad piece of 
+legislation that will greatly devalue human life in the eyes of the 
+law.
+  H.R. 137 would make it a federal felony to transport a chicken across 
+state lines for the purpose of exhibiting it in a fight. Currently, 49 
+states have laws on the books to address this issue. To add a federal 
+law would add another layer of bureaucracy to an already complicated 
+legal code.
+  I believe that human life is diminished by our making it a felony to 
+transport animals for fighting, without first making it a felony to 
+take a minor girl across a state line for an abortion. It is a strong 
+conviction of mine to fight for the sanctity of life.
+  While I believe that it is important that we act humanely in our 
+treatment of animals, I do not believe that we should put their welfare 
+ahead of unborn babies or minor girls. I call upon the Humane Society 
+to work for humanity to humanity first.
+  Until we provide a higher standard of protection for human life, I 
+will oppose making interstate transportation of animals for purposes of 
+animal fighting a felony. In the U.S., we are faced with the alarming 
+practice of people taking a minor girl across state lines for an 
+abortion to avoid their own state's laws that require the minor's 
+parents to be notified. Federal legislation, CIANA, the Child 
+Interstate Abortion Notification Act, would only make this abhorrent 
+activity, which exploits a young woman and kills her child, a 
+misdemeanor. Though this legislation has not yet become law, it is a 
+step forward in the right direction. Many who I know opposed CIANA in 
+the past will vote today for the misdemeanor in current law, 
+transporting a chicken, to become a felony, thereby placing animal 
+welfare over that of a young girl and her unborn baby.
+  I believe that we should not place more value on animal life than we 
+do on human life. It makes no sense that killing a person is a 
+misdemeanor offense while transporting animals to a fight is a felony, 
+punishable by three years in a federal penitentiary.
+  Mr. Speaker, while on the topic of valuing human life, I would like 
+to talk briefly about bio-medical research, which is opposed by animal 
+rights activists. I would like to mention that there is bio-medical 
+research being done demonstrating, through transgenics, that the immune 
+system from a baboon, or a human for that matter, can be spliced into 
+the DNA of a hog to grow a heart a baboon can use.
+  The heart was then harvested from the hog and transplanted to a 
+baboon. The baboon lived another 6 months with a heart that was grown 
+in a pig. This is longer then the first human heart transplant patient.
+  But what has been proven now is that humans can transplant through 
+transgenics the human immune system into a hog. In doing so, and we are 
+only 3 years, maybe 4 years away from being able to custom build the 
+human organ. rejection genetics into a pig.
+  We will be able to very soon custom raise human organs in hogs. Today 
+we are already transplanting out of hogs and into humans anterior 
+cruciate ligaments and heart valves.
+  We can raise in hogs 28 different organs. Not just hearts, but lungs, 
+esophagus, stomach, bladder, but other important organs as well, 
+kidneys, pancreas, liver, even skin for bum patients; name your organ. 
+Except for the brain.
+  The reason for bringing up these pigs is that it further illustrates 
+how the animal rights community, through legislation such as H.R. 137, 
+seeks to pass their agenda for animals on the rest of America. They 
+oppose using animals for lifesaving research like I just mentioned.
+  My home state of Iowa is an agricultural state. We understand the 
+importance of animal husbandry and good stewardship of our animals. 
+However, we also understand that animals are less important than 
+humans. Animal rights activists seek to place heifers and hogs on the 
+same level as people. I disagree.
+  I strongly oppose this legislation because animals should not be 
+elevated above humans. Mr. Speaker, I would urge my colleagues to 
+oppose this legislation.
+  Mr. SCOTT of Virginia Mr. Speaker, I yield back the balance of my 
+time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from Virginia (Mr. Scott) that the House suspend the rules 
+and pass the bill, H.R. 137, as amended.
+  The question was taken.
+  The SPEAKER pro tempore. In the opinion of the Chair, two-thirds 
+being in the affirmative, the ayes have it.
+  Mr. WESTMORELAND. Mr. Speaker, on that, I demand the yeas and nays.
+  The yeas and nays were ordered.
+  The SPEAKER pro tempore. Pursuant to clause 8 of rule XX and the 
+Chair's prior announcement, further proceedings on this question will 
+be postponed.
+
+                          ____________________
+```
