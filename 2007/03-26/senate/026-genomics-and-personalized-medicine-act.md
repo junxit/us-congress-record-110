@@ -1,0 +1,73 @@
+---
+granule: CREC-2007-03-26-pt1-PgS3748-3
+date: 2007-03-26
+edition: CREC
+section: SENATE
+page: S3748
+citation: 153 Cong. Rec. S3748
+---
+
+# GENOMICS AND PERSONALIZED MEDICINE ACT
+
+**Speaking:** Burr, Richard (B001135) [R-NC]
+
+**Measures:** S. 976
+
+```
+                 GENOMICS AND PERSONALIZED MEDICINE ACT
+
+  Mr. BURR. Mr. President, I rise today to express my support for S. 
+976, the Genomics and Personalized Medicine Act of 2007, which my 
+distinguished colleague from Illinois, Senator Obama, and I introduced 
+on March 23, 2007. Senator Obama introduced this legislation last year. 
+We have worked together on some revisions, and I am proud to join him 
+in cosponsoring the legislation this year.
+  I believe this legislation will help improve the quality and safety 
+of health care by providing a better understanding of what causes 
+certain diseases. Through a coordinated research initiative and safer 
+genetic tests, patients and doctors will be empowered to make more 
+informed decisions about medical treatments.
+  This bill will advance the study of human genes and their functions 
+to better predict patients' susceptibility to certain diseases or 
+conditions and better customize drugs and medical treatments to meet 
+patients' unique needs. By facilitating genomics research, fostering a 
+capable genomics workforce, and encouraging the development of high 
+quality genetic tests, patients will be better informed about the 
+medical care they need.
+  I am proud that North Carolina is a leader in genomics and 
+personalized medicine research. Duke University's Institute for Genome 
+Sciences and Policy and the University of North Carolina at Chapel 
+Hill's Institute for Pharmacogenomics and Individualized Therapy are 
+both conducting significant research efforts in this area and support a 
+stronger Federal focus on genomics. This legislation will increase 
+Federal support for initiatives at Duke and Chapel Hill--a win-win for 
+North Carolina and patients.
+  Specifically, this bill establishes an Interagency Working Group at 
+the U.S. Department of Health and Human Services to pull together and 
+accelerate genomics research by developing standardized terminology and 
+establishing quality standards and guidelines for the collection, 
+processing, and storage of genomic samples and data. It advances 
+genomics research by establishing a national biobanking distributed 
+database that collects and integrates genomic data to simplify pooled 
+data analysis. The bill also develops biobanking initiatives at 
+academic medical centers across the country, including biobanks 
+containing biological specimens. It will improve genetics and genomics 
+training by developing model training programs, residency curricula and 
+teaching materials, and by integrating genetics and genomics into 
+clinical and public health practice by developing health professional 
+guidelines.
+  The bill will also encourage drug sponsors and device companies to 
+develop companion diagnostic tests, and it will improve Federal 
+oversight and regulation of genetic tests by identifying which tests 
+require review and which agency--the Centers for Medicare and Medicaid 
+Services or the Food and Drug Administration--should have oversight 
+over specific categories of tests. It requires the Centers for Disease 
+Control and Prevention to evaluate direct-to-consumer marketing of 
+genetic tests to which consumers have direct access and to educate the 
+public about genomics and its applications. It also asks the Agency for 
+Healthcare Research and Quality to assess the clinical utility and 
+cost-effectiveness of companion diagnostic tests that guide prescribing 
+decisions.
+
+                          ____________________
+```

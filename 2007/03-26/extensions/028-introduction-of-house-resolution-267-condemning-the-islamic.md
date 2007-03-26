@@ -1,0 +1,62 @@
+---
+granule: CREC-2007-03-26-pt1-PgE647-2
+date: 2007-03-26
+edition: CREC
+section: EXTENSIONS
+page: E647
+citation: 153 Cong. Rec. E647
+---
+
+# INTRODUCTION OF HOUSE RESOLUTION 267 CONDEMNING THE ISLAMIC REPUBLIC OF IRAN FOR ITS SEIZURE OF BRITISH SAILORS AND MARINES
+
+**Speaking:** Kirk, Mark Steven (K000360) [R-IL]
+
+**Measures:** H.Res. 267
+
+```
+INTRODUCTION OF HOUSE RESOLUTION 267 CONDEMNING THE ISLAMIC REPUBLIC OF 
+          IRAN FOR ITS SEIZURE OF BRITISH SAILORS AND MARINES
+
+                                 ______
+                                 
+
+                         HON. MARK STEVEN KIRK
+
+                              of illinois
+
+                    in the house of representatives
+
+                         Monday, March 26, 2007
+
+  Mr. KIRK. Madam Speaker, today I introduced House Resolution 267 with 
+my fellow Iran Working Group co-Chair Congressman Rob Andrews (D-NJ) 
+and Iran Working Group Vice-Chairs Dr. Charles Boustany (R-LA) and Ron 
+Klein (D-FL). This resolution condemns the Islamic Republic of Iran for 
+seizing 15 British sailors and marines in the Persian Gulf and calls 
+for their immediate release. These sailors and marines, based on the 
+HMS Cornwall, had finished a routine search of a civilian vessel in 
+Iraqi waters at the time of the kidnapping. The Iranian regime now says 
+it may charge the sailors and marines for illegally entering Iranian-
+controlled waters.
+  The British soldiers were captured a day before the UN debated 
+additional sanctions for Iran's continued efforts to enrich uranium. 
+The sanctions were unanimously approved, and include a ban on arms 
+sales from Iran as well as freezing assets of 28 people and 
+organizations involved with the nation's nuclear programs.
+  Our resolution also asks the Security Council to explore new economic 
+sanctions against Iran, including a restriction on gasoline imports. 
+Despite its status as a top oil producing nation, Iran is highly 
+dependent on foreign gasoline due to severe mismanagement of its 
+domestic energy supply. An international restriction on foreign 
+gasoline is the most effective economic lever in our diplomatic toolbox 
+to prevent further Iranian hostility, deny Iran's ability to militarize 
+the Persian Gulf and enforce Iran's nonproliferation commitments.
+  The Iranian regime defied international law by seizing sailors in 
+waters outside of its jurisdiction. Our resolution sends a strong 
+message of condemnation from the House of Representatives.
+  I want to thank Reps. Andrews, Boustany and Klein for leading with me 
+on this resolution. I look forward to working with them and the more 
+than fifty original cosponsors on this important initiative.
+
+                          ____________________
+```
