@@ -1,0 +1,159 @@
+---
+granule: CRECB-2007-pt6-Pg8216
+date: 2007-03-28
+edition: CRECB
+section: HOUSE
+page: 8216
+---
+
+# THE DEMOCRAT BUDGET
+
+```
+                          THE DEMOCRAT BUDGET
+
+  The SPEAKER pro tempore (Mr. Carney). Under a previous order of the 
+House, the gentlewoman from North Carolina (Ms. Foxx) is recognized for 
+5 minutes.
+  Ms. FOXX. Mr. Speaker, I always come over here with the intentions of 
+using my prepared remarks, and then I hear things being said by the 
+other side and they usually grab my attention.
+  I want to talk tonight a little bit about the Democrat budget, but 
+something that one of my colleagues said just a few minutes ago needs 
+to be repeated.
+  He said, budgets are what you stand for and believe. Well, what the 
+Democrats stand for and believe is greater government spending, taking 
+more of your money and giving to the government.
+  And he also said, this budget doesn't go as far as some wanted. Well, 
+that is the truth, I am sure. I am sure there were many Democrats who 
+wanted to raise taxes a whole lot more and spend a whole lot more of 
+the American people's money than they are going to do, but they are 
+going to do plenty of damage, even not going as far as some of them 
+want to go.
+  So the truth is, they told it to you tonight. The budget is what you 
+stand for and believe; and what they stand for and believe is, again, 
+taking more of your money and spending it.
+  A lot of times I speak to school groups. I spoke to one on Monday.
+
+                              {time}  2300
+
+  And they often ask me, What is the difference between Democrats and 
+Republicans? And I tell them that the short answer to that is Democrats 
+believe that government is the answer to everything. Just have more 
+government. Take more money from the American people and put it into 
+government. Republicans think that Americans have survived very well on 
+individual initiative, entrepreneurship, and individual responsibility, 
+and we don't need the government to run our lives completely. So there 
+is a big difference.
+  Also, the Democrats think the government knows how to spend your 
+money more than you know how to spend your money. Republicans think 
+that you are quite intelligent enough to know how to spend your money 
+and we don't need to take it away from you
+
+[[Page 8217]]
+
+and give it to some bureaucrat to spend it for you. So that is the big 
+difference. And I think, again, the Democrat budget illustrates that.
+  It also illustrates how out of touch they are with the citizens of 
+this country. As one of my colleagues said the other night, and I wish 
+it had been my line, they promised change, but what they didn't tell 
+you was it was going to be the change left in your pocket from taking 
+your money away from you for increased taxes.
+  Now, under the assumptions in the Democrats' proposed budget that is 
+going to be voted on tomorrow, we are going to see a massive tax hike. 
+In fact, you are going to see the largest tax increase in our Nation's 
+history. The Democrat budget increases taxes by $392.5 billion over 5 
+years, shattering their last record tax increase of $240 billion in 
+1993, when they were last in control of the Congress. In fact, they 
+would increase taxes by $231 billion in 2012 alone.
+  Today, almost 100 million Americans from virtually every walk of life 
+have a financial plan for their future that involves saving and 
+investing, and millions more benefit from the countless jobs and 
+opportunities that a capital marketplace creates. In addition, more 
+than half of America's seniors receive dividend income every year and 
+more than 30 percent receive capital gains income.
+  Under the Democrat budget, these seniors will see a tax increase of 
+an average of $1,100 on dividends and capital gains. Overall, 28 
+million American families will pay an additional $1,000 a year in new 
+investment taxes as a result of the budget. Many of these people earn 
+annual incomes of $50,000 and less.
+  This is more than just a reckless policy that endangers the strength 
+of our economy. I see it as a cause for serious concern for the 
+livelihood of the people of North Carolina's Fifth District, whose tax 
+bills would skyrocket under the proposed budget. In North Carolina 
+alone, more than 3.1 million taxpayers would see their tax bill go up. 
+It wouldn't be a little bump either. The average tax increase for those 
+3.1 million North Carolinians would be $2,671.
+  This approach is completely backwards. We should be looking first to 
+put money back into taxpayers' pockets, not taking it out.
+  The current budget proposal is a squandered opportunity to reform 
+spiraling Social Security, Medicare, and Medicaid costs and to give 
+Americans the permanent tax relief they deserve. Instead it allows 
+widespread tax increases that hit middle-income families, low-income 
+earners, families with children, small businesses, and many others.
+  Some people would see more than a 100 percent increase in their 
+taxes. For example, an elderly couple with $40,000 in income would see 
+a tax increase of 156% in 2011--from $583 to $1,489.
+  And a family of four with $60,000 in income would have a tax bill 
+that would rise from $3,030 to $4,893 in 2011--an increase of more than 
+$1,850, or 61%.
+  And these increases are no accident. During the budget markup, 
+Democrats rejected every one of a series of amendments that would have 
+prevented tax increases.
+  But ultimately, this budget proposal isn't a real surprise. It's 
+business as usual for the Democrats and proves that their promises to 
+be fiscally responsible are just empty rhetoric. If this budget is 
+approved it will signal a return to the Democrats' beloved Tax-and-
+Spend model for government.
+  For example, if you take one look at the more than $20 billion in 
+pork that was added to last week's troop emergency funding bill, it 
+becomes crystal clear where the Democrats stand on spending. And worse, 
+they proved they don't mind using our troops as bargaining chips.
+  Democrats have willfully abandoned their pledge of fiscal 
+responsibility. They pledged to follow pay-as-you-go budget rules and 
+spending restraint to curb the deficit. And then we get this budget, 
+which would give us the largest tax increase in history and ignore the 
+larger consequences for our economy.
+  These massive tax increases would threaten to reverse the economic 
+gains that have developed since adoption of the 2001 and 2003 tax laws.
+  Job Growth--A total of 7.6 million new jobs have been created--an 
+average of 168,500 per month.
+  Unemployment Declines--The unemployment rate has fallen from 6.1 
+percent to 4.5 percent.
+  Economic Growth--In the past 15 quarters, real gross domestic product 
+[GDP] has grown an average of 3.5 percent per year. In the nine prior 
+quarters, average GDP growth was an anemic 1.1 percent.
+  Investment Growth--Business investment has increased for 15 straight 
+quarters, reversing a previous nine-quarter decline.
+  Stock Market Gains--Despite recent market corrections, the Dow Jones 
+Industrial Average remains 41 percent above its 2003 level.
+  Ignores Fiscal Benefits--These tax increases also threaten to reverse 
+the substantial deficit reduction that has occurred in the past several 
+years.
+  Total federal tax revenue has increased from 16.5 percent of GDP in 
+2003 to 18.5 percent this year--exceeding the average percentage of the 
+past four decades.
+  Tax revenue grew by 14.6 percent in 2005, 11.5 percent in 2006, and 
+9.3 percent in the first five months of fiscal year 2007.
+  Deficit Reduction. This revenue growth was the principal factor in 
+reducing the budget deficit from $412.7 billion in 2004 to an estimated 
+$214 billion this year, according to the Congressional Budget Office.
+  Raising the 10% Tax Rate Bracket to 15 percent--More than 5 million 
+individuals and families who previously owed no taxes would become 
+subject to the individual income tax in 2011 if Democrats are 
+successful in raising the 10% tax rate bracket to 15%, and reducing or 
+eliminating other low-income tax benefits.
+  Eliminates Marriage Penalty Relief--23 million taxpayers would see 
+their taxes increase, on average, by $466 in 2011.
+  Cuts the Child Tax Credit in Half--31 million taxpayers would see 
+their taxes increase, on average, by $859 in 2011.
+  Every Working American Would be Affected by Democrats' Tax Hike--115 
+million taxpayers would see their taxes increase, on average, by $1,795 
+in 2011; 83 million women would see their taxes rise, on average, by 
+$2,068; 48 million married couples would incur average tax increases of 
+$2,899; 12 million single women with children would see their taxes 
+increase, on average, by $1,082; 17 million elderly individuals would 
+incur average tax increases of $2,270; and taxes would rise, on 
+average, by $3,960 for 26 million small business owners.
+
+                          ____________________
+```
