@@ -1,0 +1,118 @@
+---
+granule: CREC-2007-03-28-pt1-PgH3267-4
+date: 2007-03-28
+edition: CREC
+section: HOUSE
+page: H3267
+citation: 153 Cong. Rec. H3267
+---
+
+# CBC BUDGET
+
+**Speaking:** Waters, Maxine (W000187) [D-CA]
+
+```
+                               CBC BUDGET
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentlewoman from California (Ms. Waters) is recognized for 5 minutes.
+  Ms. WATERS. I would like to begin by congratulating Congresswoman 
+Carolyn Kilpatrick, the Chair of the Congressional Black Caucus, and 
+Congressman Bobby Scott, Chair of the CBC Budget Task Force, for their 
+leadership in developing the CBC budget.
+  I strongly support the CBC budget because it provides sufficient 
+funding for critical domestic priorities such as health care, 
+education, and community development. For example, the CBC budget 
+spends $112 billion more than the Budget Committee's budget and $158 
+billion more than the President's budget on education, training, 
+employment, and social services. Yet the CBC budget still eliminates 
+the deficit by 2012.
+  As the Chair of the Subcommittee on Housing and Community 
+Opportunity, I am deeply concerned about the need for affordable 
+housing in America. The CBC budget recognizes that affordable housing 
+is all but out of reach for many Americans. Just imagine, the 2006 
+average minimum wage required to rent affordable housing is $16.31 an 
+hour, more than three times the Federal minimum wage of $5.15 an hour, 
+putting most housing out of reach for many American families.
+  Approximately 6 million persons in this country are very needy, 
+paying more than 50 percent of their income for housing. This is a real 
+threat to families trying to educate their children and make ends meet. 
+Affordable rental housing is critical to communities across this 
+Nation. Public housing is still part of the solution, community 
+development programs are part of the solution, and the renewal of the 
+section 8 voucher and many other housing programs is part of the 
+solution.
+  The President's fiscal year 2008 budget request would cut overall net 
+funding for public housing by $477 million, from $6.4 billion to $5.9 
+billion, a cut of 7 percent. While the budget increases the operating 
+fund by $136 million, public housing authorities are estimated to 
+receive only 80 percent of their total operating expenses. The budget 
+decreases the capital fund used to repair
+
+[[Page H3268]]
+
+and modernize public housing units by $415 million, to only $2.0 
+billion.
+  Continuing a downward spiral in funding, this is part of the effort 
+to dismantle public housing as we know it. We cannot sit idly by and 
+let this happen. The community development programs would be seriously 
+eroded and undermined if left to this administration. The Brownfields 
+and the section 108 loan guarantee program would also be eliminated. 
+The Community Development Block Grant Program would be cut by 20 
+percent, losing $735 million. And the list goes on and on.
+  In addition, Section 202 and 811 housing programs for the elderly and 
+disabled would be cut drastically in the administration budget 
+proposal. Rural housing programs would also suffer serious cutbacks 
+faring no better.
+  The administration's budget proposes to terminate the major Rural 
+Section 515 rental housing program, which would leave thousands of 
+families living in rural communities, many poor, working families with 
+children, and the disabled and elderly without affordable housing.
+  There is another issue that I feel strongly about that is addressed 
+in this budget. As a senior member of the Judiciary Committee, I am 
+highly concerned about the origin and proliferation of gangs in 
+communities throughout the United States. Along with full committee 
+chairman John Conyers and Crime Subcommittee chairman Bobby Scott, I 
+plan to retool existing authorized Federal programs to comprehensively 
+address this problem. This requires full funding of the following 
+programs: the Juvenile Accountability Block Grant, the Gang Resistance 
+Education and Training Program, the Youth Violence Reduction 
+Demonstration Projects that are administered by the Department of 
+Justice, and the Compassion Capital Fund, which is administered by the 
+Department of Health and Human Services.
+  In the city of Los Angeles, there are approximately 4,000 gangs and 
+39,000 gang members. For 2006, there were about 470 homicides, and 250 
+were gang related. Of the shootings in the city last year, 70 percent 
+were gang related. According to a September 1, 2006, report by Los 
+Angeles County Sheriff Lee Baca, it costs about $287 million to treat 
+and hospitalize victims of nonfatal gang assaults countywide in one 
+year.
+  This is not only in Los Angeles. There are gang problems all over 
+America, and not simply in our cities but in our rural communities, in 
+our suburban communities.
+  It is about time that we focus some efforts on dealing with the gangs 
+from two perspectives:
+  Number one, we have got to have prevention. We have got to be able to 
+provide social services. We have got to be able to meet the needs of 
+people in communities that have no hope.
+  Number two, yes, we must be tough. But the answer is not simply lock 
+them up and throw the key away. The answer is, how do we prevent young 
+people, young children, from connecting and getting involved with gangs 
+in the first place? We need serious funding and smart assembly of 
+existing programs to effectively halt the recruitment of new gang 
+members.
+  We need serious funding and smart assembly of existing programs to 
+effectively halt the recruitment of new gang members; to reduce the 
+incidence of homicide and violence between gangs; to implement programs 
+that deliver support services and job training; and to enable 
+communities to solve problems that lead to race-related gang tensions.
+
+
+                               Conclusion
+
+  I urge all of my colleagues to support the CBC Budget so that we can 
+begin to tackle important issues like gang violence and the need for 
+affordable housing in our communities.
+
+                          ____________________
+```
