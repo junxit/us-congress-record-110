@@ -1,0 +1,39 @@
+---
+granule: CREC-2007-03-29-pt1-PgH3281-5
+date: 2007-03-29
+edition: CREC
+section: HOUSE
+page: H3281
+citation: 153 Cong. Rec. H3281
+---
+
+# WHEN WILL CONGRESS STOP FUNDING WAR?
+
+**Speaking:** Kucinich, Dennis J. (K000336) [D-OH]
+
+```
+                  WHEN WILL CONGRESS STOP FUNDING WAR?
+
+  (Mr. KUCINICH asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. KUCINICH. Madam Speaker, today the House will pass a budget which 
+will fund the war in Iraq far into 2009. The budget includes an extra 
+$195 billion mostly for military operations in Iraq. Anyone who thinks 
+this Congress is trying to end the war had better think again, because 
+this budget signals we will be in Iraq for another 2 years or more, 
+even though Congress has led the American people and the media to 
+believe otherwise.
+  Congress recently engaged in a dubious debate about a nonbinding 
+surge resolution. Even though Congress had and still has the authority 
+to end the war now, we instead give it new life with last week's vote.
+  Now, $195 billion on top of last week's supplemental means close to 
+$300 billion in a week approved to continue the war.
+  This war has sacrificed the lives of our troops and innocent 
+civilians. It has advanced the interests of oil companies and 
+contractors in the manner of a criminal enterprise. It has besmirched 
+our national honor and alienated America from friends around the world.
+  When will Congress stand for truth and for peace and stop funding 
+this war?
+
+                          ____________________
+```
