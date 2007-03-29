@@ -1,0 +1,49 @@
+---
+granule: CRECB-2007-pt6-Pg8330-5
+date: 2007-03-29
+edition: CRECB
+section: SENATE
+page: 8330
+---
+
+# WHITE SANDS MISSILE RANGE
+
+```
+                       WHITE SANDS MISSILE RANGE
+
+  Mr. DOMENICI. Mr. President, I rise today to commemorate an event 
+that occurred 25 years ago in New Mexico.
+
+[[Page 8331]]
+
+  Most of my colleagues know White Sands Missile Range, WSMR, NM, is a 
+premier test, evaluation and research site, but WSMR's role in the 1982 
+landing of the Space Shuttle Columbia is less well known.
+  WSMR's gypsum landing strips visible from space and the excellent 
+weather in New Mexico have made WSMR a potential Space Shuttle launch 
+and landing site since the beginning of NASA's Space Shuttle Program. 
+However, WSMR has never been NASA's first choice for a landing site. 
+But in March of 1982, the preferred landing site at Edwards Air Force 
+Base was soaked with heavy rains. Because it was unclear when the 
+runway surface would be dry enough to support Columbia's landing, WSMR 
+was chosen as an alternative landing site.
+  Commander Jack R. Lousma and pilot C. Gordon Fullerton landed the 
+Space Shuttle Columbia on WSMR's Northrup Strip at 9:05 a.m. on 
+Tuesday, March 30, 1982. About 4,000 individuals witnessed the landing, 
+and another 90,000 had the opportunity to see the Space Shuttle 
+Columbia at WSMR before its return to Kennedy Space Center. I remember 
+this event as a day of pride for me and my fellow New Mexicans, as our 
+home State played such a visible role in the U.S. space mission.
+  Today I wish to commemorate this important part of White Sands 
+Missile Range's history and honor the men and women who were a part of 
+the Space Shuttle Columbia's landing at WSMR. While the Space Shuttle 
+Columbia has been the only shuttle to land at WSMR, New Mexico stands 
+ready to serve NASA again should the need arise. In fact, as recently 
+as December 2006 NASA officials considered landing the Space Shuttle 
+Discovery at WSMR because of poor conditions at Kennedy Space Center 
+and Edwards Air Force Base. WSMR prepared for that situation, and I 
+have full confidence that they will continue to work to support NASA 
+and other Federal entities as needed.
+
+                          ____________________
+```
