@@ -1,0 +1,53 @@
+---
+granule: CREC-2007-03-30-pt1-PgE727
+date: 2007-03-30
+edition: CREC
+section: EXTENSIONS
+page: E727
+citation: 153 Cong. Rec. E727
+---
+
+# U.S. TROOP READINESS, VETERANS' HEALTH, AND IRAQ ACCOUNTABILITY ACT, 2007
+
+**Speaking:** Meehan, Martin T. (M000627) [D-MA]
+
+```
+ U.S. TROOP READINESS, VETERANS' HEALTH, AND IRAQ ACCOUNTABILITY ACT, 
+                                  2007
+
+                                 ______
+                                 
+
+                               speech of
+
+                         HON. MARTIN T. MEEHAN
+
+                            of massachusetts
+
+                    in the house of representatives
+
+                         Friday, March 23, 2007
+
+  Mr. MEEHAN. Mr. Speaker, I rise today in support of this supplemental 
+funding bill which will for the first time assert the will of Congress 
+and the American people to change the President's failed plan of ``Stay 
+the Course.'' For far too long, the President has ignored the will of 
+the American public. In passing this bill, we will send a message to 
+the President that this is no longer acceptable.
+  This legislation includes meaningful benchmarks and deadlines that 
+provide the Iraqis with incentives to take responsibility for their own 
+security and makes way for the return of our troops. The bill also 
+requires the Iraqi government to take meaningful steps towards national 
+reconciliation by distributing oil revenues fairly, providing 
+opportunities to the Sunni minority, and amending the constitution to 
+discourage further fragmentation.
+  We can no longer afford to give the President a blank check for the 
+war in Iraq. There are thousands of brave men and women deployed 
+overseas in harm's way right now who are depending on us. We need to 
+put Iraqis up front, so that we can remove Americans from the front 
+lines. This legislation will encourage the Iraqis to stand up and be 
+accountable for the security of their country. I urge my colleagues to 
+support this emergency supplemental funding bill.
+
+                          ____________________
+```

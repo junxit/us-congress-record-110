@@ -1,0 +1,72 @@
+---
+granule: CREC-2007-03-30-pt1-PgE719-2
+date: 2007-03-30
+edition: CREC
+section: EXTENSIONS
+page: E719
+citation: 153 Cong. Rec. E719
+---
+
+# IN SUPPORT OF THE GREEN AMENDMENT TO H.R. 1227
+
+**Speaking:** Lee, Barbara (L000551) [D-CA]
+
+**Measures:** H.R. 1227
+
+```
+             IN SUPPORT OF THE GREEN AMENDMENT TO H.R. 1227
+
+                                 ______
+                                 
+
+                            HON. BARBARA LEE
+
+                             of california
+
+                    in the house of representatives
+
+                        Thursday, March 29, 2007
+
+  Ms. LEE. Madam Speaker, I rise in strong support of the Green 
+amendment that would extend FEMA housing assistance to Hurricane 
+Katrina victims through December 31, 2007.
+  A year and a half after the terrible disaster, Gulf Coast residents 
+still face unfulfilled promises, bureaucratic red tape, public neglect, 
+environmental squalor and private exploitation.
+  This is outrageous and should be condemned. Yet again, the 
+administration's failure to provide for the residents of the region has 
+left it to Congress to make things right. That we are still making the 
+same arguments over and over again to ensure that Gulf Coast residents 
+get what's only fair is unacceptable.
+
+[[Page E720]]
+
+  The unnecessary Iraq war has diverted precious resources away from 
+domestic emergencies. Our brothers and sisters here at home are waiting 
+to re-build their lives and homes.
+  That is why the Green Amendment is so important.
+  Specifically, the Green Amendment would extend the safety-net of FEMA 
+housing assistance until December 31, 2007 and thereafter transfer 
+eligible households to HUD's tenant-based rental assistance program. 
+Through this amendment, Section 8 vouchers would also be available to 
+households in trailers and mobile homes.
+  If we do not adopt this amendment, over 120,000 families housed in 
+FEMA-funded trailers, mobile homes and who barely cope in other rental 
+assistance situations could be thrown into further chaos and 
+homelessness when current assistance ends in August. This would further 
+compound the dire affordable housing situation relating to low-income, 
+elderly, and disabled evacuees across the country.
+  The region is still not back to normal. Consider the fact that there 
+are 51 percent fewer hospital beds in New Orleans than were available 
+pre-Hurricane Katrina according to data released by the NAACP.
+  Public infrastructure and public institutions are operating below 
+capacity. In New Orleans, only about one-third of the public schools 
+have re-opened. These statistics are staggering.
+  It is not only a responsibility but a moral duty to do all in our 
+power to restore the dignity and quality of life to all citizens of the 
+Gulf Coast region regardless of their socio-economic, cultural and 
+political status. They are counting on us. I urge my colleagues to 
+support the Green Amendment.
+
+                          ____________________
+```
