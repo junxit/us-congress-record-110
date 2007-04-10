@@ -1,0 +1,45 @@
+---
+granule: CREC-2007-04-10-pt1-PgS4302
+date: 2007-04-10
+edition: CREC
+section: SENATE
+page: S4302
+citation: 153 Cong. Rec. S4302
+---
+
+# TRIBUTE TO LEWIS ENTZ
+
+**Speaking:** Allard, Wayne (A000109) [R-CO]
+
+```
+                         TRIBUTE TO LEWIS ENTZ
+
+● Mr. ALLARD. Mr. President, today I wish to speak about an 
+upstanding citizen of Colorado--Lewis Entz.
+  Former State Senator Entz will be receiving an honorary degree from 
+Adams State College at their spring commencement on May 5, 2007. This 
+honor will be bestowed upon him in recognition of the work he has done 
+for the college and, more importantly, the San Luis Valley.
+  Lew Entz is the owner and operator of Entz Farms. He is a licensed 
+pilot, a husband and father of four, and a Marine Corps veteran of the 
+Korean war. Before spending nearly 20 years serving the people of 
+region in the Colorado General Assembly, he was an Alamosa County 
+commissioner for 14 years.
+  I served in the Colorado Legislature with then-Representative Entz 
+for 8 years. We worked together on small airports, agriculture, and 
+water. During all my time dealing with him, I learned enough to 
+heartily agree with the board of trustees of Adams State College in 
+their assessment of his value to his community, region, and State.
+  Lew's vast knowledge of Colorado's complex water laws was incredibly 
+important to his district. Water is the most important aspect of 
+existence in the San Luis Valley. Lew, as a farmer, has a full 
+appreciation of this. Lew tirelessly worked for years to protect this 
+resource for his constituents.
+  There is no one who has served the people of the San Luis Valley more 
+vigorously or better than Lew Entz. I congratulate him on this honor 
+from Adams State College, and want to thank him for his four decades of 
+service to the people of the San Luis Valley and the State of 
+Colorado.●
+
+                          ____________________
+```
