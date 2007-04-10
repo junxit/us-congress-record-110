@@ -1,0 +1,55 @@
+---
+granule: CRECB-2007-pt6-Pg8619-2
+date: 2007-04-10
+edition: CRECB
+section: SENATE
+page: 8619
+---
+
+# RETIREMENT OF ROBERT D. EVANS
+
+```
+                     RETIREMENT OF ROBERT D. EVANS
+
+  Mr. KENNEDY. Mr. President, I welcome this opportunity to pay tribute 
+to Robert D. Evans, who retired on February 28, after 35 years of 
+distinguished service with the American Bar Association, including 
+services as director of the ABA's Governmental Affairs Office.
+  Born in Vermont, Bob received his B.A. from Yale University in 1966 
+and his law degree from the University of Michigan in 1969. He began 
+his legal career at the Chicago firm known today as Sachnoff & Weaver, 
+practicing corporate and commercial law. When an opportunity to work on 
+public policy issues arose, he joined the ABA Chicago staff in 1972, 
+and soon found himself working in the ABA's Washington, DC, office. 
+Since 1982, Bob has served as director of the Governmental Affairs 
+Office, providing strong leadership on many issues, including judicial 
+independence, tax reform, the PATRIOT Act, and numerous anticrime and 
+antiterrorism bills. Perhaps what people will remember most is Bob's 
+career-long effort to guarantee access to justice for all through the 
+development and preservation of the Legal Services Corporation, which 
+funds local legal aid programs to help low-income individuals and 
+families deal with basic legal problems that affect day-to-day living.
+  Bob is listed in ``Who's Who in America'' and ``Who's Who in American 
+Law.'' He has received numerous awards and commendations for his 
+dedicated and tireless work in seeking equal justice for America's 
+poor, including recognition from the National Legal Aid and Defender 
+Association and the National Clients Council.
+  Bob has also made outstanding contributions to Washington-area 
+communities. He has served Washington Grove, MD, as mayor and town 
+council member, and currently sits on the Washington Grove Planning 
+Commission. Bob has also chaired the Associations Division of the 
+National Capital Area United Way Campaign, and has helped to raise 
+millions of dollars for DC area charities to support those in need. He 
+also was president of Project Northstar, a homeless children's tutoring 
+program for homeless children in the District of Columbia.
+  With his dedication to the rule of law, his professionalism, his 
+expertise and his unfailing good humor, Bob has fulfilled the highest 
+ideals and goals of the legal profession. He has improved the 
+administration of justice, and brought greater access to legal 
+representation and American justice for all persons, regardless of 
+their economic or social condition. Bob will be greatly missed. I join 
+his many colleagues and friends in wishing Bob, his wife Kathie, and 
+their daughter Sarah much happiness in the years to come.
+
+                          ____________________
+```
