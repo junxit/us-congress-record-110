@@ -1,0 +1,26 @@
+---
+granule: CREC-2007-04-12-pt1-PgS4457-5
+date: 2007-04-12
+edition: CREC
+section: SENATE
+page: S4457
+citation: 153 Cong. Rec. S4457
+---
+
+# CONFIRMATION
+
+```
+                              CONFIRMATION
+
+  Executive nomination confirmed by the Senate Thursday, April 12, 
+2007:
+
+
+                         DEPARTMENT OF DEFENSE
+
+       CLAUDE M. KICKLIGHTER, OF GEORGIA, TO BE INSPECTOR GENERAL, 
+     DEPARTMENT OF DEFENSE.
+       THE ABOVE NOMINATION WAS APPROVED SUBJECT TO THE NOMINEE'S 
+     COMMITMENT TO RESPOND TO REQUESTS TO APPEAR AND TESTIFY 
+     BEFORE ANY DULY CONSTITUTED COMMITTEE OF THE SENATE.
+```

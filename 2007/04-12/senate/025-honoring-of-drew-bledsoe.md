@@ -1,0 +1,62 @@
+---
+granule: CREC-2007-04-12-pt1-PgS4433-3
+date: 2007-04-12
+edition: CREC
+section: SENATE
+page: S4433
+citation: 153 Cong. Rec. S4433
+---
+
+# HONORING OF DREW BLEDSOE
+
+**Speaking:** Kerry, John F. (K000148) [D-MA]
+
+```
+                        HONORING OF DREW BLEDSOE
+
+  Mr. KERRY. Mr. President, today I wish to honor former New England 
+Patriots Quarterback Drew Bledsoe on his retirement, after 14 years in 
+the National Football League, NFL.
+  Drew Bledsoe helped usher in the modern era of Patriots football. 
+Throughout his career, Drew Bledsoe may have also played for the 
+Buffalo Bills, an AFC East rival of the Patriots, and for the Dallas 
+Cowboys, but he got his start in chilly Foxboro, MA.
+  Fourteen years ago, a young Bledsoe was the first overall selection 
+in the NFL Draft for New England draft of Washington State. He brought 
+the Patriots to their first Super Bowl in 11 years, and despite 
+ultimately losing to Brett Favre and the Green Bay Packers, a newfound 
+feeling of excitement and pride overtook New England's football fans. 
+And that feeling hasn't subsided.
+  After Tom Brady went down in the AFC playoff in 2002, Bledsoe led the 
+Patriots to victory over the Pittsburgh Steelers, ensuring the Pats a 
+spot in Super Bowl XXXVI. And as you know, that was just the beginning 
+of the New England football dynasty.
+  Bledsoe is a four-time Pro-Bowl quarterback, who throughout his 
+career threw for more than 44,000 yards and completed more than 250 
+touchdown passes. He finished his career 7th all-time in yards passing, 
+13th in touchdowns, and 5th in completions.
+  His career off the field was just as impressive. Bledsoe has long 
+worked to help improve the lives of children by teaching parenting 
+skills through both the Drew Bledsoe Foundation and Parenting with 
+Dignity. The programs' curriculum, which teaches the importance of 
+family values, is used nationwide, reaching an estimated 1.75 million 
+American families. He has also served as international chairman of the 
+Children's Miracle Network, helping to raise millions of dollars to 
+benefit children nationwide.
+  Bledsoe is the recipient of the Thurman Munson Humanitarian Award, 
+the NFL Alumni Spirit Award for exemplifying the spirit of the NFL 
+caring for kids and the Walter Payton Man of the Year Award, chosen by 
+his teammates for demonstrating balance between civic and professional 
+responsibilities. He also received the Ed Block Courage award, chosen 
+by his teammates as the NFL player demonstrating the most courage and 
+character.
+  Drew Bledsoe has conducted himself with both dignity and maturity
+
+[[Page S4434]]
+
+throughout his 14 years in the NFL, and today I, along with Patriots 
+fans across New England, congratulate him on a fantastic career and 
+wish him success in the next chapter of his life.
+
+                          ____________________
+```
