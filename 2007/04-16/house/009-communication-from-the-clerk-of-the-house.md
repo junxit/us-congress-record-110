@@ -1,0 +1,42 @@
+---
+granule: CREC-2007-04-16-pt1-PgH3377-8
+date: 2007-04-16
+edition: CREC
+section: HOUSE
+page: H3377
+citation: 153 Cong. Rec. H3377
+---
+
+# COMMUNICATION FROM THE CLERK OF THE HOUSE
+
+**Measures:** S. 229, S. 1104
+
+```
+               COMMUNICATION FROM THE CLERK OF THE HOUSE
+
+  The SPEAKER pro tempore laid before the House the following 
+communication from the Clerk of the House of Representatives:
+
+                                              Office of the Clerk,
+
+
+                                     House of Representatives,
+
+                                   Washington, DC, April 13, 2007.
+     Hon. Nancy Pelosi
+     The Speaker, House of Representatives,
+     Washington, DC.
+       Dear Madam Speaker. Pursuant to the permission granted in 
+     Clause 2(h) of Rule II of the Rules of the U.S. House of 
+     Representatives, the Clerk received the following message 
+     from the Secretary of the Senate on April 13, 2007, at 11:00 
+     am:
+       That the Senate passed S. 229.
+       That the Senate passed S. 1104.
+       With best wishes, I am,
+           Sincerely,
+                                               Lorraine C. Miller,
+     Clerk of the House
+
+                          ____________________
+```
