@@ -1,0 +1,1108 @@
+---
+granule: CRECB-2007-pt7-Pg9205-7
+date: 2007-04-18
+edition: CRECB
+section: HOUSE
+page: 9205
+---
+
+# OFFERING HEARTFELT CONDOLENCES TO THE VICTIMS AND THEIR FAMILIES REGARDING THE HORRIFIC VIOLENCE AT VIRGINIA TECH AND TO STUDENTS, FACULTY, ADMINISTRATION AND STAFF AND THEIR FAMILIES WHO HAVE BEEN AFFECTED
+
+```
+   OFFERING HEARTFELT CONDOLENCES TO THE VICTIMS AND THEIR FAMILIES 
+   REGARDING THE HORRIFIC VIOLENCE AT VIRGINIA TECH AND TO STUDENTS, 
+  FACULTY, ADMINISTRATION AND STAFF AND THEIR FAMILIES WHO HAVE BEEN 
+                                AFFECTED
+
+  Mr. SCOTT of Virginia. Mr. Speaker, I move to suspend the rules and 
+agree
+
+[[Page 9206]]
+
+to the resolution (H. Res. 306) offering heartfelt condolences to the 
+victims and their families regarding the horrific violence at Virginia 
+Tech in Blacksburg, Virginia, and to the students, faculty, 
+administration and staff and their families who have been deeply 
+affected by the tragic events that occurred there.
+  The Clerk read the title of the resolution.
+  The text of the resolution is as follows:
+
+                              H. Res. 306
+
+       Resolved,  That the House of Representatives--
+       (1) offers its heartfelt condolences to the victims and 
+     their families regarding the horrific violence at Virginia 
+     Tech in Blacksburg, Virginia, and to the students, faculty, 
+     administration and staff and their families who have been 
+     deeply affected by the tragic events that occurred there;
+       (2) expresses its hope that losses from the mass shooting 
+     will lead to a shared national commitment to take steps that 
+     will help our communities prevent such tragedies from 
+     occurring in the future; and
+       (3) recognizes that Virginia Tech has served as an 
+     exemplary institution of teaching, learning, and research for 
+     well over a century, and that the University's historic and 
+     proud traditions will carry on.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentleman from 
+Virginia (Mr. Scott) and the gentleman from California (Mr. McKeon) 
+each will control 20 minutes.
+  The Chair recognizes the gentleman from Virginia.
+
+
+                             General Leave
+
+  Mr. SCOTT of Virginia. Mr. Speaker, I request 5 legislative days 
+during which Members may insert material relevant to H. Res. 306 into 
+the Record.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Virginia?
+  There was no objection.
+  Mr. SCOTT of Virginia. Mr. Speaker, I yield myself such time as I may 
+consume.
+  Mr. Speaker, I rise this morning to offer my deepest sympathies to 
+the victims and their families who suffered the horrific shooting 
+tragedy at Virginia Tech on Monday morning. My thoughts and prayers go 
+out to them, the students, faculty and staff of the university.
+  Virginia Tech is one of the largest schools in Virginia, providing 
+higher education to more than 28,000 students. The effects of this 
+tragedy can be felt all across the Commonwealth of Virginia, in the 
+Halls of Congress and in every corner of this Nation. I represent 
+hundreds of Virginia Tech families, perhaps thousands of alumni, and 
+members of my staff have friends and family who currently attend 
+Virginia Tech.
+  Schools are meant to be sanctuaries of learning and, most 
+importantly, sanctuaries of safety. Parents who send their children off 
+to college with all the potential that a college education represents 
+should be content that their children will be safe.
+  As we mourn with the Virginia Tech community, this Congress must 
+explore every possible avenue towards determining what can be done to 
+prevent this kind of tragedy in the future, whether in high schools or 
+college campuses or on business premises or other places where people 
+may congregate. Yet we must be realistic. From what we are hearing 
+regarding this tragic incident, it is not clear that any law would have 
+been effective in deterring the kind of senseless acts that occurred. 
+Anyone willing to indiscriminately shoot down innocent people and then 
+kill themselves afterwards would not likely be deterred by any law. 
+Nonetheless, we must work with our colleges and universities in 
+developing ways to anticipate, identify and prevent any such threats 
+that we can. Some evidence is emerging that indicates that there may 
+have been signs of mental disturbances in the alleged shooter, and this 
+may suggest information which could lead to things to look at to avoid 
+these tragedies in the future.
+  But, Mr. Speaker, today we stand together to wish a speedy recovery 
+for the injured and to mourn with the families of the victims who died 
+in this horrific tragedy. Virginia Tech is and will remain one of the 
+Commonwealth of Virginia's finest institutions of higher learning, and 
+its proud traditions will carry on beyond this darkest hour. This event 
+will be with the students, faculty and staff of Virginia Tech for the 
+rest of their lives, but we must not let tragedies like this stop 
+people from living their dreams. I hope that some day all members of 
+the Virginia Tech community will be able to celebrate life and learning 
+on the campus again.
+  Finally, Mr. Speaker, I would like to introduce into the Record the 
+powerful statement presented at the service yesterday at Virginia Tech 
+by Nikki Giovanni. That service was attended by nine of the eleven 
+members of the Virginia delegation to Congress and both of our U.S. 
+Senators. So I will insert that statement into the Record.
+
+       We are Virginia Tech.
+       We are sad today, and we will be sad for quite a while. We 
+     are not moving on, we are embracing our mourning.
+       We are Virginia Tech.
+       We are strong enough to stand tall tearlessly, we are brave 
+     enough to bend to cry, and we are sad enough to know that we 
+     must laugh again.
+       We are Virginia Tech.
+       We do not understand this tragedy. We know we did nothing 
+     to deserve it, but neither does a child in Africa dying of 
+     AIDS, neither do the invisible children walking the night 
+     away to avoid being captured by the rogue army, neither does 
+     the baby elephant watching his community being devastated for 
+     ivory, neither does the Mexican child looking for fresh 
+     water, neither does the Appalachian infant killed in the 
+     middle of the night in his crib in the home his father built 
+     with his own hands being run over by a boulder because the 
+     land was destabilized. No one deserves a tragedy.
+       We are Virginia Tech.
+       The Hokie Nation embraces our own and reaches out with open 
+     heart and hands to those who offer their hearts and minds. We 
+     are strong, and brave, and innocent, and unafraid. We are 
+     better than we think and not quite what we want to be. We are 
+     alive to the imaginations and the possibilities. We will 
+     continue to invent the future through our blood and tears and 
+     through all our sadness.
+       We are the Hokies.
+       We will prevail.
+       We will prevail.
+       We will prevail.
+       We are Virginia Tech.
+
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. McKEON. Mr. Speaker I yield myself such time as I may consume.
+  Mr. Speaker, the headline atop the front page of yesterday's edition 
+of the Virginia Tech student newspaper captured what all of us are 
+feeling right now: ``Heartache.'' On behalf of my colleagues on the 
+Education and Labor Committee, my staff, my family, and my 
+constituents, I extend my deepest sympathy and offer my prayers to 
+Virginia Tech students, staff, administration and families.
+  Our institutions of higher education are places where students begin 
+to embrace adulthood, where they begin to relish a new found freedom 
+and indeed where they begin to realize their dreams. For that to be cut 
+short for these young men and women by such a senseless act is beyond 
+anyone's comprehension. So all we can do is mourn, comfort one another 
+and pray that the Virginia Tech community and our Nation may begin to 
+heal in the aftermath of this unspeakable tragedy.
+  The collective feeling inside of this building over the last few days 
+is much like the feeling we experienced on September 11 and the days 
+that followed when we cast aside our differences and united to stand 
+with the victims, their families and their communities. Today, just as 
+back then, it is a time not for politics or a time to take advantage of 
+such a horrific turn of events to push a partisan agenda. And similarly 
+today, just as back then, it is not a time to misdirect any blame 
+toward anyone other than the perpetrator of this massacre. In this 
+case, as we currently understand it, this blame belongs squarely to a 
+single gunman who acted selfishly, brutally and without regard for 
+human life.
+  Mr. Speaker, I also believe that we owe sincere and heartfelt 
+gratitude to Virginia Tech's administration, law enforcement officers, 
+faculty and students for the way they have handled these last 3 days. 
+Simply put, no one could have imagined this series of crimes that has 
+risen to the level of the deadliest in U.S. history. These men and 
+women have done their very best
+
+[[Page 9207]]
+
+to respond to it. And as we witnessed at the convocation a day ago in 
+Blacksburg, they are doing so with a deep respect and love for the 
+campus they call home.
+  May that spirit carry them through the difficult weeks, months and 
+years ahead. And may we learn from their example as we tackle the 
+challenges that we face as a Nation in the aftermath of this great 
+tragedy.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. SCOTT of Virginia. Mr. Speaker, I yield such time as he may 
+consume to my colleague from Virginia (Mr. Boucher), the representative 
+of the Ninth Congressional District, the home of Virginia Tech.
+  Mr. BOUCHER. Mr. Speaker, I want to thank the gentleman from Virginia 
+(Mr. Scott) for yielding this time, and I thank him for his remarks and 
+also express that same appreciation to the gentleman from California 
+for the eloquent remarks that he just rendered on the floor. It is with 
+a heavy heart that I offer these comments today.
+  The tragedy on Monday of this week was of a scale and a senselessness 
+that defies explanation. And it came to a university campus that is 
+known across our Nation for its friendliness, its peacefulness, and the 
+close association among the faculty and the students.
+  Yesterday afternoon a campus-wide convocation demonstrated to the 
+world that Virginia Tech's unity and sense of purpose will be 
+maintained and strengthened. The convocation was attended by President 
+Bush; by Virginia's Governor, Tim Kaine; and by the members of 
+Virginia's congressional delegation, both House and Senate. And I want 
+to express my appreciation to the Members of the House who traveled 
+yesterday to Blacksburg to show support for the Virginia Tech community 
+and to comfort those who have lost loved ones.
+  I also want to take the opportunity in these remarks to offer some 
+personal thoughts. To Virginia Tech President Charles Steger and the 
+professional staff of the university, thank you for the poise, the 
+dignity and the strength that you have demonstrated under the most 
+difficult and challenging of circumstances.
+
+                              {time}  1050
+
+  To the skilled first responders of Blacksburg and Montgomery County, 
+thank you for your dedication and for your outstanding service on 
+Monday that saved lives and prevented our loss from being even greater.
+  To the families and the friends of the victims, profound sympathy for 
+your loss of young lives full of promise and mature lives of major 
+contribution.
+  The resolution before the House this morning is sponsored by all of 
+the Members of the House delegation from Virginia. Through the 
+resolution, Congress offers its heartfelt condolences to all who have 
+suffered loss, and it recognizes that Virginia Tech has served as an 
+exemplary institution of teaching, of learning and of research, and 
+that the university's proud traditions will continue.
+  Today, we mourn an enormous loss from a violent and senseless act. 
+Tomorrow and in the months to come, the resilience of southwest 
+Virginians and the spirit of our region that has helped to make 
+Virginia Tech a great institution will assure that that university has 
+an even stronger future. To that end, we in the House today pledge our 
+support.
+  Mr. Speaker, I urge approval of the resolution.
+  Mr. McKEON. Mr. Speaker, I yield 2 minutes to the gentleman from 
+Virginia (Mr. Cantor).
+  Mr. CANTOR. Mr. Speaker, having returned from a heart-wrenching trip 
+to Virginia Tech yesterday, it is hard to stand here and find words to 
+express the pain and sorrow that has befallen that community. As a 
+parent of a student approaching college age, there is absolutely 
+nothing more upsetting than seeing young people cut down in the prime 
+of their lives.
+  I will never forget, Mr. Speaker, the raw emotions that filled that 
+convocation arena yesterday as I, along with my colleagues from 
+Virginia, mourned with some 12,000 friends and family members of 
+victims, half of whom at least were clad in Hokie maroon and orange. 
+Nor will I forget the sight of a bereaved father who, overwhelmed with 
+grief, simply collapsed.
+  When an act of random cruelty bewilders us and pulls us down, the 
+sort of love, generosity, courage and heroism we have seen in 
+Blacksburg and its response serves as a counterforce. It replenishes us 
+and demonstrates, as the Bible says, that ``love is strong as death.''
+  We Virginians are resilient people, and I already know that under the 
+strong leadership of President Charlie Steger, our brothers and sisters 
+at Virginia Tech will band together and make it through this tragedy.
+  Mr. Speaker, in response to a moving plea from Virginia Tech's 
+resident poet toward the end of the convocation ceremony, the crowd 
+there erupted into cheers of ``Let's go Hokies.'' It was a moving call 
+to action. Let the healing begin.
+  Once again, Mr. Speaker, I stand here with a heavy heart, and extend 
+my deepest sympathies, especially to the families of those students who 
+lost their lives.
+  Mr. SCOTT of Virginia. Mr. Speaker, I reserve the balance of my time.
+  Mr. McKEON. Mr. Speaker, I yield 4 minutes to the gentleman from 
+Virginia (Mr. Goode).
+  Mr. GOODE. Mr. Speaker, on April 16, 2007, the news from Virginia 
+Tech and Blacksburg grew worse as the day progressed, and as evening 
+fell the number of students and faculty killed reached 33. Included in 
+that number was the apparent assassin, a fellow student who came to 
+this country from South Korea at an early age. The death toll of 33 
+makes the tragedy at Virginia Tech one of the deadliest at educational 
+institutions in the history of the United States.
+  Words cannot express the sorrow and hurt that the families of the 
+victims are experiencing. We cannot bring these mostly young men and 
+women back to the classroom, to the sidewalks of Blacksburg or to their 
+families and loved ones. But we can always remember and know that their 
+spirit, energy and enthusiasm in making Virginia Tech one of the finest 
+institutions of higher education in the world will never die and will 
+live in our memories forever.
+  At yesterday's convocation at Cassell Auditorium in the heart of the 
+Virginia Tech campus, those gathered heard President Bush, heard the 
+Governor of Virginia, heard ministers of various religions around the 
+globe, and heard leaders of the Tech community. In a spontaneous 
+happening towards the end of the program, one gentleman stood forth and 
+led in the Lord's Prayer as it was prayed in unison by thousands of 
+students, families, government leaders and others in the Virginia Tech 
+community.
+  May God bless the families of the deceased, the students at the 
+institution, Virginia Tech, and our country in this time of sorrow.
+  Mr. SCOTT of Virginia. Mr. Speaker, I am pleased to yield 1 minute to 
+the gentlewoman from California (Ms. Pelosi), the Speaker of the House.
+  Ms. PELOSI. Mr. Speaker, it is with deep sadness that Congress today 
+recognizes the tragedy that indeed struck our country when it befell 
+the community of Virginia Tech on Monday. We offer our condolences to 
+the many who now grieve. I want to particularly extend my condolences 
+to our colleagues here for the sorrow that has taken place in their 
+State.
+  But the sorrow of parents who lost their children, students who lost 
+their friends, and a community which lost 33 of its own is beyond any 
+comfort we can give in words. Words are totally inadequate. In the days 
+that follow, the mourning and questioning that has already begun will 
+continue. And as it does, the thoughts and prayers of this Congress 
+and, indeed, this Nation, will remain with the students of Virginia 
+Tech and their families.
+  Among the victims there was a student resident adviser known 
+affectionately as ``Stack,'' a young woman whose love for horses led 
+her to study veterinary science; one of the world's great researchers 
+on cerebral palsy; and a Holocaust survivor who became an expert on 
+aeronautics.
+
+[[Page 9208]]
+
+  These victims, of different backgrounds and different ages, are 
+united in their love of one of America's great learning institutions, 
+Virginia Tech. And today and in the days to come, as we grieve their 
+loss, we are all Hokies.
+  When Robert Kennedy announced to the people of Indianapolis the news 
+of the assassination of Rev. Martin Luther King, he offered comfort 
+with the words of an ancient Greek playwright, Aeschylus, when he said, 
+``Today, when no words can describe our sadness, or heal our grief, 
+these words again give our Nation hope. In our sleep, pain which cannot 
+forget falls drop by drop upon the heart until, in our own despair, 
+against our will, comes wisdom through the awful grace of God.''
+  Today, on behalf of the students, faculty, staff and families of 
+Virginia Tech, we pray for that wisdom.
+  I hope that it is a comfort to all who are grieving today that so 
+many people in our country, indeed, in the world, mourn their loss and 
+are praying for them at this sad time.
+  Mr. McKEON. Mr. Speaker, I yield 4 minutes to the gentleman from 
+Virginia (Mr. Tom Davis).
+  Mr. TOM DAVIS of Virginia. Mr. Speaker, it is with great sadness that 
+I address this Chamber today. As the parent of four children in 
+college, I share the horror and the rage, the grief and the sorrow of 
+the larger Virginia community.
+  I rise today to urge my colleagues to support this resolution 
+expressing our sorrow and offering condolences over the tragic events 
+that took place Monday at Virginia Tech. Our hearts, our prayers and 
+our thoughts go out to the families of those who lost lives, the 
+injured and their families, and all those affected by this terrible 
+tragedy, including the family of the troubled young man who perpetrated 
+this crime.
+
+                              {time}  1100
+
+  The coming together of communities, the reaching over the fences to 
+lend a hand of support at this hour of need has been touching. From the 
+Washington Nationals wearing Virginia Tech caps last night, to the 
+community groups that gathered spontaneously across the Commonwealth to 
+share their sorrow, the picture of the Commonwealth today is one we 
+can, as usual, take great pride in. Yesterday I traveled with my 
+colleagues to Blacksburg for the convocation, and last evening over 500 
+Korean Americans assembled at the Fairfax County Government Center to 
+express their outrage, to offer their prayers, to start the healing 
+process that follows such tragic events.
+  Mr. Speaker, we Virginians are known for looking out for each other 
+and this has been no different. The outpouring of love, sympathy and 
+caring for each other has been astonishing. The pictures of students 
+comforting each other, of students and teachers helping each other 
+search for answers in these dark hours has been particularly moving. 
+All of us around the Commonwealth must come together to find the 
+strength to move forward. We're family. We've been deeply wounded. 
+That's what families do when they're hurt. They look to each other for 
+strength, for inspiration and for meaning. Mr. Speaker, we hurt for the 
+victims and we honor their lives. That's what families do. We close 
+ranks and lend each other support in our darkest hours. Benjamin 
+Franklin said more than 200 years ago that those things that hurt 
+instruct. Let us learn from this. Let us hurt. It's good for the soul. 
+It helps us to heal. It is, sadly, the only way to move forward.
+  Again, I urge my colleagues to support the resolution.
+  Mr. SCOTT of Virginia. Mr. Speaker, I yield to the gentleman from 
+Maryland (Mr. Hoyer), the majority leader, 1 minute.
+  Mr. HOYER. Mr. Speaker, I join all 434 of my colleagues in rising to 
+express our sorrow, our regret, our sympathy, yes, and in some respects 
+our outrage that this calamity has been visited on so many of our 
+promising and wonderful young people.
+  Mr. Speaker, as a grieving Nation tries to comprehend the senseless, 
+horrific violence on the campus of Virginia Tech University on Monday, 
+the full scope of this tragedy is only now beginning to come to light. 
+Thirty-two innocent people, 32 young people of promise, some people not 
+so young who were at great risk and survived, 32 people were stolen 
+from their families and friends at the hand of a deeply disturbed young 
+man who ended the carnage by taking his own life. More than two dozen 
+others were injured during this random, murderous rampage.
+  Today, a profoundly saddened Nation recognizes that these were not 
+mere strangers, although we may not have known the victims personally. 
+They were members of our national family and in so many ways they were 
+a reflection of us. They were hope for the future. They were brothers, 
+sisters, mothers and fathers who were so full of life, hope and promise 
+for a better future, for themselves, their families, their country and 
+indeed the world.
+  Those slain included a 20-year-old political science major from 
+Dumont, New Jersey, who attended Virginia Tech on an Air Force 
+scholarship; an 18-year-old freshman from Centreville, Virginia who 
+distinguished herself in drama and on Virginia Tech's dance team; a 22-
+year-old senior from Martinez, Georgia who was majoring in psychology, 
+biology and English and who served as a role model for many; a 76-year-
+old engineering professor and Holocaust survivor who survived one of 
+the worst terrorists and despots the world has ever seen, Adolf Hitler, 
+to come home and to teach young people, to make them better able to 
+meet the future and to have that ability robbed from him by a senseless 
+act. And so many others, Mr. Speaker.
+  We may never know the answer to the question ``Why?'' Why have so 
+many loving, promising people been taken through such senseless 
+violence? However, let us mourn their loss and extend our heartfelt 
+condolences and sympathy to their families and to their friends and to 
+their fellow students.
+  Today, our thoughts and prayers are also with those who have been 
+injured as well as Virginia Tech's students, faculty and staff, alumni 
+and the entire campus community as they endeavor to cope with this 
+monumental tragedy. Let us remind them they are not alone. Not only are 
+they in our hearts but they will be in our prayers. I thank the 
+gentleman from Virginia for giving me this time to join him and the 
+Virginia delegation in recognizing the tragedy and reflecting our 
+remembrance of those who have been hurt, those who have lost their 
+lives, and those whom they left behind.
+  Mr. McKEON. Mr. Speaker, may I inquire as to the amount of time left.
+  The SPEAKER pro tempore. The gentleman from California has 11 
+minutes. The gentleman from Virginia has 12 minutes.
+  Mr. McKEON. Mr. Speaker, at this time I am happy to yield 4 minutes 
+to the gentleman from Virginia (Mr. Goodlatte).
+  Mr. GOODLATTE. I thank the gentleman. I thank the majority leader and 
+the Speaker and the other Members of our delegation for their comments.
+  The tranquil campus of Virginia Tech and the town of Blacksburg has 
+been shattered by the actions of a lone gunman. The horror that the 
+Virginia Tech community has experienced this week is something that 
+every parent, every American hopes they never have to learn has 
+affected their families and friends.
+  I have a great appreciation for Virginia Tech, one of America's 
+preeminent research institutions, having advanced from one of the 
+original land grant universities. Thousands of people in my district 
+which neighbors Blacksburg have gone to school there, have sent their 
+children there, and are members of Hokie Nation. During my time in this 
+body, I have had graduates and students of Virginia Tech work and 
+intern for me. For years I have known what a special place it is, with 
+its affiliated campuses and offices spread throughout the Sixth 
+District and across the great Commonwealth of Virginia. Yet it is with 
+great sadness that the rest of the world has come to know the 
+compassion of Virginia Tech only through this tragedy. Although this 
+horrendous and unspeakable violence showed the worst of mankind, it 
+also
+
+[[Page 9209]]
+
+showed what those of us who have been a part of the Tech community for 
+years have always known--the students, the instructors, the 
+administrators, and the citizens of Blacksburg care deeply for one 
+another and take great pride in their community. Even in the worst 
+circumstances, the Virginia Tech community showed great compassion for 
+their fellow man and did what they could to help each other. Liviu 
+Librescu, a survivor of the Holocaust, blocked the doorway of his 
+classroom so that his students could climb out the windows to safety. 
+Ryan Clark, a resident adviser in the West Ambler Johnston Hall, rushed 
+into the hallway to help his fellow students when the first attack came 
+and became the second victim. And I was deeply saddened to learn that 
+one of my constituents, Henry Lee, a graduate of William Fleming High 
+School in Roanoke, was among those who died in the attack on Norris 
+Hall. Two other of my constituents from Harrisonburg, Virginia, Heidi 
+Miller, an undergraduate, and Guillermo Colman, a graduate student, 
+were wounded and thankfully are okay. Now, following this brutal 
+action, throughout the campus and community, students are relying on 
+each other to cope with what has happened, but they will not let the 
+sorrow and pain that has overtaken them this week be the lasting legacy 
+to those whose lives were lost. Under the leadership of President 
+Charles Steger, the Virginia Tech community will become stronger as a 
+result of this. Their compassion will reach far beyond the town of 
+Blacksburg, deep into what is affectionately known as Hokie Nation. 
+Their vocal pride in their community will not be silenced by the 
+actions of one misguided soul.
+
+                              {time}  1110
+
+  I was very moved as I witnessed the process begun yesterday at the 
+convocation at Cassell Coliseum. Speaker after speaker, including the 
+President, the Governor, and so many great leaders at Tech spoke of not 
+only the grief, but of overcoming the grief and moving forward to a 
+brighter and better future.
+  For the families who have lost sons and daughters, fathers and 
+brothers, mothers and sisters, I grieve for you and your loved ones. 
+You will forever remain in the prayers of this Nation, and I hope that 
+in time you can come to find peace.
+  For the Virginia Tech community, although we grieve today, and what 
+has happened will never leave our minds, I know that you will take this 
+tragedy and use it to build a stronger campus and a more compassionate 
+community for all.
+  Mr. SCOTT of Virginia. Mr. Speaker, I am pleased to yield 4 minutes 
+to the gentleman from New Jersey (Mr. Payne).
+  Mr. PAYNE. Mr. Speaker, I join with my colleagues in expressing my 
+deep condolences to the families of Virginia Tech University.
+  Let me begin by commending Representative Bobby Scott for introducing 
+this very important resolution. As you know, Representative Scott is a 
+member of the Education and Workforce Committee and has shown a 
+tremendous interest in young people throughout his State and the 
+Nation, and this exemplifies the deep concern that he has for all of 
+our children.
+  Let me commend the Virginia delegation for its coming together and 
+uniting with the Governor of the State of Virginia with the State 
+legislators, with the students to see about a way that healing can 
+start. To the families and friends of the 32 victims, to the students, 
+to the faculty and the staff, to the alumni of Virginia Tech, we 
+express our condolences.
+  As a member of the Education and Workforce Committee, we are deeply 
+concerned about the future of our Nation. We are concerned about our 
+young people whether they are in preschool, in elementary or secondary 
+education, whether they are in the institutions of higher education. 
+And we continually learn, and we have to continually change as Toffler 
+said in his book, ``Future Shock,'' 20 or 30 years ago, that if 
+institutions and agencies do not change internally with the same rate 
+of change externally, then those institutions or agencies become 
+obsolete. And this is, again, another example of how we have to rethink 
+how we operate. New Jersey had 4 students of the 32 who perished in 
+this senseless act, and so our hearts are heavy, also.
+  I think that we have to see how we can assist. Those of us in New 
+Jersey heard little about Virginia Tech 20, 30 years ago until they 
+became a part of the Big East, and then we did hear about Virginia Tech 
+because they had overwhelming sports teams, they had such tremendous 
+student support. It is a great institution. And we know that they left 
+the Big East for the ACC, but we have fond memories of our competitive 
+competition.
+  I am a Seton Hall graduate, so we were competing many times.
+  But I think that we have to use this example to see how we can heal. 
+I think that we need to take this tragedy and see how we can better 
+identify students who have problems, students who go to elite schools, 
+who are lonely, students that have situations that need to be dealt 
+with.
+  We have in our inner cities many young people who don't have the 
+opportunity to go to higher learning. We need to really, I think, as a 
+former national president of the YMCAs of the United States, I think we 
+need to focus more of our attention on the young people. A Nation that 
+loses its young is losing a part of its future. We need to really spend 
+more time on our young so that we develop them, so that we can nurture 
+them, so that we can be sure that our country can be all that it can be 
+as we move through this new millennium.
+  Mr. SCOTT of Virginia. Mr. Speaker, I yield myself 30 seconds.
+  I would just like to thank the gentleman from New Jersey who points 
+out that this is a national incident with students from all over the 
+country. And I would like to thank him for recognizing me as one of the 
+sponsors of the resolution. The Virginia delegation came together to 
+present this resolution under the leadership of Mr. Boucher, so we 
+appreciate his leadership today.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. McKEON. Mr. Speaker, at this time I recognize the gentleman from 
+Virginia (Mr. Wolf) for 3 minutes.
+  Mr. WOLF. I want to thank Mr. Scott and Mr. Boucher for bringing this 
+resolution up.
+  Words are inadequate at this time. And our community and our State 
+and the Nation have been devastated by what has taken place.
+  Mr. Speaker, it is with a heavy heart that I rise today in support of 
+this resolution offering the condolences of the House to the victims 
+and their families of the horrific violence at Virginia Tech in 
+Blacksburg, Virginia, on Monday morning, and to the students, the 
+faculty, administration, staff and their families who have forever been 
+changed by this tragedy.
+  My heart is heavy for the entire grieving Virginia Tech community and 
+the families in the 10th District of Virginia who are mourning today 
+because the young, promising lives of their children have ended. 
+According to the morning news we have received, there are going to be 
+at least five victims who call the 10th Congressional District, my 
+district, home.
+  There really are no words that can adequately express, and as a 
+father of 5 children and a grandfather of 12, words you can say, that 
+can express the sorrow we are feeling for the families today. But with 
+this resolution, it is my hope that the families in my district and the 
+families and loved ones of all the victims will know that this 
+district, this Commonwealth of Virginia and indeed the entire Nation 
+are with them in spirit, offering them our heartfelt sympathy and 
+prayers.
+  With my colleagues in the Virginia delegation, I attended the very 
+moving and emotional convocation yesterday in Blacksburg. I was 
+impressed with the Tech community, the students and staff, 
+administration. President Bush did an outstanding job, as did Governor 
+Kaine, in addressing the students and the administration. It was truly 
+a feeling of family coming together to offer love and support to each 
+other in their time of grief and loss.
+  There is still a numbness and incredulity about what happened on the 
+Virginia Tech campus just 2 days ago. The
+
+[[Page 9210]]
+
+wounds in Blacksburg are deep, but with the unity of spirit and the 
+deep faith I felt yesterday on the Tech campus, it is my hope that as 
+the tomorrows come, this outstanding institution and all those who are 
+associated with it will find hope and peace.
+  May God bless all of us at this very, very difficult time.
+  Mr. SCOTT of Virginia. Mr. Speaker, I am pleased to yield 2 minutes 
+to the gentleman from Colorado (Mr. Perlmutter).
+  Mr. PERLMUTTER. Thank you, Mr. Scott.
+  To the members of the Virginia delegation, I am here with a heavy 
+heart, as all of you are. This is the kind of tragedy whose ripples 
+will affect the faculty, the staff, law enforcement, Blacksburg and the 
+State of Virginia for a long time.
+  Eight years ago tomorrow we had Columbine in my area. I live about 2 
+or 3 miles from Columbine. The emotions that I feel and the grief that 
+I feel for you bring back a lot of memories. I wish I hadn't seen this 
+play before; I wish I didn't know this script. But I can assure all of 
+you, if you need anything, you have friends in Colorado. We have been 
+through this before.
+  It is a difficult time. There will be mourning; there will be finger 
+pointing; there will be all sorts of things. And I would just say to 
+all of you, we feel your pain. Your sons and daughters are our sons and 
+daughters.
+
+                              {time}  1120
+
+  We will be there, whatever you need. We have been through this. The 
+disbelief and the despair that all of us feel today, we felt 8 years 
+ago. If we can help in any way, you have friends in Colorado.
+  Mr. SCOTT of Virginia. Mr. Speaker, I am pleased to yield to my 
+colleague from the Eighth Congressional District of Virginia (Mr. 
+Moran) 4 minutes.
+  Mr. MORAN of Virginia. I thank my good friend and colleague for 
+yielding, and I appreciate the fact that this resolution has come to 
+the floor.
+  It is difficult to imagine a more heartbreaking moment than to have a 
+family receive a call from the university, where they thought they had 
+sent their child to a secure, nurturing, learning environment, only to 
+find out that their child's life has been cut off before any of their 
+potential could be realized. What a horrible loss. And to think that 
+more than 30 of those calls have had to take place over the last 2 
+days.
+  This is a time for grieving, for trying to console. But, Mr. Speaker, 
+as important and appropriate as it is to grieve after the fact, I think 
+it may be even more appropriate for this body to stand up before the 
+fact, because we know that this type of tragedy, perhaps not in as 
+large a scale, but this type of tragedy will happen again. Whether it 
+is in the workforce or on a college campus or a high school campus or 
+on the street, innocent victims will be mowed down. And it happens more 
+often in our country than in any other civilized nation, than in any 
+other civilized nation on this planet. And the reason, Mr. Speaker, is 
+because it is simply too easy to obtain a firearm.
+  If you are a criminal or mentally deranged or simply emotionally 
+upset, virtually anyone can go to a store, even a retail department 
+store, and buy a weapon of mass destruction. That is what has happened 
+here and will happen again. And I know that the National Rifle 
+Association is able to brag that it controls the gun control agenda now 
+from the White House. And the majority of Members of Congress are not 
+going to stand up to the NRA. But the fact is, Mr. Speaker, I think we 
+have a responsibility, particularly at moments like this when we are so 
+acutely aware of the carnage that the proliferation of weapons 
+throughout our society creates. When we are aware of the tragedy that 
+this laxity causes, this lack of courage to stand up to gun 
+manufacturers and say it is time, Mr. Speaker, no matter how 
+politically difficult it might be, to try to reduce the number of 
+weapons in our society. I'm not talking about those that are meant for 
+hunting. People in Canada have all kinds of guns, but their rifles are 
+used for hunting. They are not used for stalking and killing other 
+human beings.
+  It is the proliferation of handguns, the kinds of guns that were used 
+in this tragic incident and the ammunition clips that should be banned 
+under the assault weapon legislation we let expire that have to be 
+brought under control. And it is we, the people's representatives, who 
+have to stand up and do something about this so that it doesn't have to 
+occur again. As appropriate as it is, as I said, now to grieve with 
+those families and to offer condolences, it is more imperative that we 
+stand up before the fact, before another such tragedy occurs because of 
+our lack of political courage.
+  Mr. McKEON. Mr. Speaker, I would urge our colleagues to support this 
+resolution.
+  Mr. Speaker, I yield back the balance of my time.
+  Mr. SCOTT of Virginia. Mr. Speaker, we would urge passage of the 
+resolution. I want to thank my delegates from Virginia. The Virginia 
+delegation came together on this. We were together yesterday, and we 
+appreciate the support from across the country. We urge passage of the 
+resolution.
+  Mr. HOLT. Mr. Speaker, there are no words to describe the sorrow and 
+the pain that we feel about the catastrophe that unfolded at Virginia 
+Tech on Monday, April 16th. The most deadly shooting in our nation's 
+history, it is indeed a tragedy of monumental proportions.
+  Among the 33 deaths in the attack at Virginia Tech were several New 
+Jerseyans: Matt La Porte of Dumont; Michael Pohle from Raritan 
+Township; and Julia Pryde, a biological systems engineering graduate 
+student from Middletown and a resident of the 12th Congressional 
+District. Two other Virginia Tech students killed in the attack--Mary 
+Read and Caitlin Hammaren--had ties to New Jersey, and another--Sean 
+McQuade of Mullica Hill--remains in critical condition.
+  Schools, colleges, and universities should be a safe refuge for 
+students and faculty. They are environments that are open to new ideas, 
+encourage learning in all aspects of academics and life, and help young 
+adults to discover themselves and prepare for a career. Like students 
+at colleges all over the country, the students at Virginia Tech are 
+ambitious, intelligent, and community-oriented young people. They chose 
+Virginia Tech, I presume, because of its high academic quality and 
+because of the safe, pleasant community where the university is 
+located.
+  I cannot begin to understand the pain and confusion that students 
+must feel about the tragic events that have gripped the quaint town of 
+Blacksburg. I can only begin to understand the panic and terror that 
+parents, family members, and friends must have felt wondering about the 
+safety of their loved ones.
+  In times of tragedy like these, it is important for a community to 
+come together to help each other come to terms with the calamity that 
+has occurred. I hope and pray that the friends and family members of 
+the victims, the students and faculty at Virginia Tech, and others find 
+solace and comfort as we deal together with this historic and 
+heartbreaking episode.
+  This tragedy should lead other schools to review and develop their 
+own plans for security, emergency response, and communication. Also, 
+Congress and the entire country should reflect on what appears to be a 
+culture of ever-increasing violence, on the psychology and methods of 
+perpetrators of violence, and on the easy availability of guns. If 
+there is a federal role in dealing with these matters, and I think 
+there is, Congress should act.
+  Mr. RANGEL. Mr. Speaker, these words that I speak today do not come 
+easily. They flow forth from a deep reservoir of sorrowful emotions 
+that compel me to take this podium.
+  What we witnessed on the campus of Virginia Tech was too much. Too 
+much for anyone to bear. Too much for a nation to bear. America weeps, 
+Mr. Speaker.
+  In my life, I've seen the horrors of war. It is something I wish upon 
+no one. To have battlefield casualties on an American college campus, 
+is something I never thought I would see.
+  Thirty-three lives . . . 33 young, bright lives on the cusp of 
+experiencing the greatness that life has to offer.
+  We must be mindful of everything we do. We must ask ourselves what we 
+are doing that has created a world where this could happen. As much as 
+it hurts we must reexamine what kind of society we want to be.
+  I cannot even begin to comprehend how such a terrible tragedy like 
+this came to pass. It would be too easy to say that this horrific 
+incident calls for some type of action by this body.
+  That may become necessary, but that is for another day. Today is a 
+day for us to look
+
+[[Page 9211]]
+
+within ourselves. To examine who we are as a people and never forget 
+what happened on April 16, 2007.
+  Ms. JACKSON-LEE of Texas. Mr. Speaker, I rise to support the 
+resolution. But I do so with a heart still full of sorrow over a loss 
+so overwhelming. Two days ago, on Monday, April 15, 2007, at Virginia 
+Tech University, one of the nation's great land grant colleges, we 
+witnessed senseless acts of violence on a scale unprecedented in our 
+history. Neither the mind nor the heart can contemplate a cause that 
+could lead a human being to inflict such injury and destruction on 
+fellow human beings. The loss of life and innocence at Virginia Tech is 
+a tragedy over which all Americans mourn and the thoughts and prayers 
+of people of goodwill everywhere go out to the victims and their 
+families. In the face of such overwhelming grief, I hope they can take 
+comfort in the certain knowledge that unearned suffering is redemptive.
+  Mr. Speaker, Virginia Tech is a special place to those who claim 
+membership in ``Hokie Nation.'' Founded in 1872 as a land-grant college 
+named Virginia Agricultural and Mechanical College and located in 
+Blacksburg, 38 miles southwest of Roanoke, Virginia Polytechnic 
+Institute and State University, or ``Virginia Tech,'' is now a 
+comprehensive, innovative research university with the largest number 
+of degree offerings in Virginia, more than 100 campus buildings, a 
+2,600-acre main campus, off-campus educational facilities in six 
+regions, a study-abroad site in Switzerland, and a 1,700-acre 
+agriculture research farm near the main campus. Through a combination 
+of its three missions of teaching and learning, research and discovery, 
+and outreach and engagement, Virginia Tech continually strives to 
+accomplish the charge of its motto: Ut Prosim (That I May Serve).
+  Virginia Tech is home to 28,469 students and 1,304 full-time faculty 
+members, who together created an environment conducive to learning, 
+discovery, and achievement. Little wonder the typical freshman admitted 
+to the Class of 2010 had a high school grade point average of 3.80, and 
+an average cumulative SAT reasoning test score was 1231. ``Hokie 
+Nation,'' is comprised of more than 190,000 living alumni from every 
+state and more than 100 countries.
+  Virginia Tech offers bachelor's degree programs through its seven 
+undergraduate academic colleges: Agriculture and Life Sciences, 
+Architecture and Urban Studies, Engineering, Liberal Arts and Human 
+Sciences, Natural Resources, Pamplin College of Business, and Science.
+  The university offers masters and doctoral degree programs through 
+the Graduate School and a professional degree from the Virginia-
+Maryland Regional College of Veterinary Medicine. It is also a research 
+powerhouse. In fiscal year 2006, the university generated $321.7 
+million for research program. Each year, Virginia Tech receives 
+significant external support for research, instruction, Extension, and 
+public service projects. Support for these projects originates from an 
+ever-expanding base of sponsors. Today, nearly 775 sponsors fund more 
+than 3,500 active projects. Researchers pursue new discoveries in 
+agriculture, biotechnology, information and communication technology, 
+transportation, energy management (including leadership in fuel-cell 
+technology and power electronics), and a wide range of other 
+engineering, scientific, social science, and creative fields. This 
+research led to 87 disclosures, 17 patents, and 20 licenses in calendar 
+year 2005.
+  But that seemed to matter little on Monday, which was the last day on 
+earth for more than 30 members of the Virginia Tech family. Among them 
+were future scientists, engineers, teachers, doctors, soldiers, 
+fathers, mothers, friends, and leaders. All of them cut down in a hail 
+of bullets before they reached the prime of their lives. So many 
+promising lives interrupted; so many promising lives wasted.
+  The New York Times noted in its editorial that as the investigation 
+of the Virginia Tech shootings unfolds in coming days, it will be 
+important to ascertain whether there were any hints of the tragedy to 
+come and what might be done to head off such horrors in the future. 
+Campuses are inherently open communities and it is not easy to 
+guarantee a safe haven.
+  But the carnage at Virginia Tech also commands that we here in this 
+body take a stand against senseless acts of violence whether here in 
+our own country or elsewhere around the world. It is long past time for 
+our national community to declare that injuries inflicted on any member 
+of the community by another simply based on hate or hatred of 
+differences poses a threat to the peace and security of the entire 
+community. For that reason alone, such conduct must be condemned and 
+punished severely, if not prevented altogether.
+  As the poet Nikki Giovanni stated so eloquently yesterday in her 
+stirring address at the convocation held by the university yesterday in 
+Blacksburg:
+
+       We are Virginia Tech.
+       We are sad today, and we will be sad for quite a while. We 
+     are not moving on, we are embracing our mourning.
+       We are Virginia Tech.
+       We are strong enough to stand tall tearlessly, we are brave 
+     enough to bend to cry, and we are sad enough to know that we 
+     must laugh again.
+       We are Virginia Tech.
+       We do not understand this tragedy. We know we did nothing 
+     to deserve it, but neither does a child in Africa dying of 
+     AIDS, neither do the invisible children walking the night 
+     away to avoid being captured by the rogue army, neither does 
+     the baby elephant watching his community being devastated for 
+     ivory, neither does the Mexican child looking for fresh 
+     water, neither does the Appalachian infant killed in the 
+     middle of the night in his crib in the home his father built 
+     with his own hands being run over by a boulder because the 
+     land was destabilized. No one deserves a tragedy.
+       We are Virginia Tech.
+       The Hokie Nation embraces our own and reaches out with open 
+     heart and hands to those who offer their hearts and minds. We 
+     are strong, and brave, and innocent, and unafraid. We are 
+     better than we think and not quite what we want to be. We are 
+     alive to the imaginations and the possibilities. We will 
+     continue to invent the future through our blood and tears and 
+     through all our sadness.
+       We are the Hokies.
+       We will prevail.
+       We will prevail.
+       We will prevail.
+       We are Virginia Tech.
+
+  Mr. Speaker, we will prevail against senseless acts of violence. We 
+will prevail against uncontrolled rage and anger. We will prevail 
+against hatred and intolerance.
+  Today we are all members of the Hokie Nation. We are Virginia Tech.
+  Mr. ORTIZ. Mr. Speaker, I rise today with a heavy heart to lament the 
+tragedy that has held our attention and broken our hearts nationwide as 
+we hear more and more about the massacre at Virginia Tech this week . . 
+. And I thank my friend the gentleman from Virginia for bringing this 
+resolution to the floor today.
+  Sometimes a child of this nation is pathologically disturbed beyond 
+control or even hope of understanding that murderous pathology . . . 
+but in the events that follow horror--Columbine, or 9-11, or the 
+massacre at Virginia Tech . . . or standing on a faraway battlefield . 
+. . or even the spectacle of being the object of nation ridicule . . . 
+our children have inspired us with their guts and their fast reactions 
+in the face of numbing shock.
+  They reacted well to events that defied understanding, and touched 
+our hearts and gave us a glimpse of our future. Our nation is in the 
+hands of these extraordinary young people, all over the nation . . . 
+those almost too young to remember Columbine, tempered by their early 
+teenage prism of 9-11. This nation should find our comfort in the 
+lessons from our children: adversity brings hope and when the worst of 
+humanity shows itself, the best of humanity raises up to heal together.
+  Just now, there are thousands of facts still unknown about the 
+Virginia Tech massacre . . . thousands of second guesses about all 
+manner of the university response . . . and certainly thousands of 
+questions and many more stories to come.
+  Today, I join parents from South Texas and around the nation as we 
+pray for the students that were lost in Blacksburg, for their families 
+. . . and for the millions of students and parents now psychologically 
+wounded by the reality that students in college are hardly safe from 
+dangerous minds and wounded souls.
+  To the families of those who lost loved ones, whose loved ones were 
+wounded, and for the families of those students at Virginia Tech 
+mourning their friends . . . know that this House--and the larger 
+American family--are praying for them and standing with them at this 
+most difficult moment. We are also praying for the family of the 
+gunman; and we urge that there be no retaliation for these hideous 
+acts.
+  When a parent sends a child to college, we are so proud. We are also 
+worried about the choices they will make as they leave the safe harbor 
+of our homes and neighborhoods . . . but today, there's a whole new 
+horror to contend with.
+  As we learn more in the coming weeks, my colleagues and I are 
+committed to finding new solutions to the monumental problems our 
+schools and colleges face in protecting the safety of our children. And 
+we will remain forever sobered by the fact that nothing can ever 
+completely protect us--or our children--from a madman intent on 
+killing.
+  Mrs. CHRISTENSEN. Mr. Speaker, I too rise in shock and dismay over 
+the events that unfolded on the campus of Virginia Technical Institute 
+on Monday this week.
+
+[[Page 9212]]
+
+  My community is fortunate that none of our students there were 
+injured or killed, but our grief remains at the loss of the 31 students 
+and teachers who were killed, and the obviously disturbed young man who 
+orchestrated this horrible tragedy.
+  When we send our children off to College, we do so with anxiety just 
+because they are leaving the ``nest''. They are growing up and the 
+relationship between us is changing. Never in our wildest imagination 
+or fears do we think that we are sending them into harms way. All of 
+that changed on Monday!
+  And so I sadly join my colleagues in support of H. Res. 306 to offer 
+the heartfelt condolences on behalf of the people of the U.S. Virgin 
+Islands to the victims, their families, their fellow students and 
+faculty.
+  In doing so I take this opportunity to also remember the losses 
+suffered at Kent state, I have a dear friend, Corinne Forbes Plaskett 
+who was a student there at the time. She has never forgotten the horror 
+of that experience and I am sure the events of Monday have reawakened 
+memories for her and others who were there at that time in Ohio.
+  May God bless all who were affected by both events, and may He bless 
+us all!
+  Mr. BISHOP of New York. Mr. Speaker, I rise today in support of H. 
+Res. 306, expressing our condolences to the victims and the families 
+involved in the tragedy which occurred this week at Virginia Tech 
+University.
+  April 16 brought terrible loss to all Americans and particularly to 
+those who are part of a college or university. The nearly 30 years I 
+spent working on a college campus were some of the most fulfilling of 
+my life. I know how much a campus can become a community and the people 
+within it, a family. In some ways, a campus is a haven--of learning and 
+growth--in which students feel safe and free to pursue their dreams and 
+aspirations. To young Americans, a campus is among the last places 
+where such horrific fears could be realized.
+  When we look back on what occurred this week at Virginia Tech, we 
+will honor those whose lives were taken and those who gave their lives 
+to protect others. We will remember that we can never safeguard against 
+every threat. Still, we can take steps to protect the precious 
+communities in which we live. We must do more to ensure that lethal 
+weapons do not fall into the wrong hands. We must equip campuses and 
+cities with adequate emergency communication systems, so that critical 
+information gets out in time.
+  In the meantime, Mr. Speaker, we stand with the friends and family 
+members around the world who lost loved ones on that tragic April 
+morning in Virginia.
+  Mr. TOWNS. Mr. Speaker, I rise today to express my sorrow and 
+disbelief over the massacre at Virginia Tech. I join a country and 
+Congress, especially my colleague from Virginia, that are still 
+experiencing profound mourning and shock. I extend my deepest 
+sympathies to the families and friends of all the Virginia Tech 
+victims. We all continue to have the injured victims in our prayers.
+  I particularly want to recognize the heroism of Virginia Tech 
+Professor, Liviu Librescu, who was gunned down while blocking his 
+classroom door while he and his students were under attack, ultimately 
+sacrificing his own life for those of his students.
+  Mr. Librescu, age seventy-six, was born in Romania and survived the 
+Holocaust and his interment in a labor camp and Focsani ghetto. He and 
+his family later survived the oppression of the Romanian dictator, 
+Nicolae Ceaucescu, and ultimately left Romania for Israel after then 
+Israeli Prime Minister, Menachem Begin, personally intervened for the 
+family's release. He came to Virginia Tech to teach in 1986.
+  Liviu Librescu was a celebrated scientist who was an expert in 
+composite structures and aeroelasticity, which worked earned him NASA 
+grants and other prestigious awards for his impressive work.
+  Mr. Speaker. Liviu Librescu is to be buried imminently in his native 
+Israel.
+  Yesterday, the Jewish community, in my native Brooklyn, volunteered 
+to hold a service for Mr. Librescu in Borough Park and hundreds of 
+Brooklyn residents gathered to pay their respects to Mr. Librescu and 
+his widow Marlena Librescu, before they returned to Israel. The care 
+and concern shown by the Brooklyn community for the Librescus, was 
+truly remarkable.
+  I think New York State Assemblyman, Dov Hikind, said it best when he 
+remarked about Mr. Librescu that, ``not only was he a hero of the 
+Jewish people, but a hero of all people''.
+  May his remembrance be a blessing.
+  Mrs. DRAKE. Mr. Speaker, this has been a very somber week for the 
+Commonwealth of Virginia as we have watched tragedy unfold on one of 
+our proud universities.
+  As Virginia's largest University, the Virginia Tech family extends 
+into every corner of our Commonwealth and we have all been affected by 
+Monday's events.
+  Unfortunately, we are not able to explain such unthinkable tragedies. 
+Furthermore, mere words seem small under the weight of such a 
+heartbreaking event. However, I express my deepest sympathy for the 
+victims and their families and I offer a prayer of support and 
+condolence for the Virginia Tech community.
+  As Virginia, and indeed the entire Nation, grieves so many young 
+lives being lost, it is important to remember the grace, love and 
+goodness exhibited by those who survived this horrible tragedy.
+  I was inspired by the ability of students, alumni, faculty, family 
+and neighbors to come together driven by a sense of community and 
+compassion to support others in their time of need.
+  As I took part in yesterday's convocation at Cassell Coliseum, I was 
+encouraged by the leadership demonstrated by Gov. Tim Kaine, President 
+George W. Bush and the numerous dedicated educators at Virginia Tech.
+  The coming days, weeks, and months will continue to be difficult ones 
+as the Virginia Tech community comes to terms with what took place on a 
+dark day in April. But it will also be a time of healing and I am 
+confident that Hokie nation will be able to come back stronger because 
+of the compassion and character that has been displayed since this 
+tragedy.
+  Just as the heinous actions of one troubled individual so obviously 
+filled with hate has left us grasping for answers, the reaction of the 
+Virginia Tech family gave reason to make all Virginians proud and 
+demonstrate the tremendous promise of our future generation.
+  Mr. SHAYS. Mr. Speaker, the thoughts and prayers of the entire Nation 
+go out to the families and friends of those who lost loved ones.
+  What happened at Virginia Tech on Monday was a senseless tragedy and 
+it is important for us to come together and find strength at such a sad 
+time.
+  This is a time of profound mourning as there are few things more 
+heart wrenching than the loss of so many young lives.
+  The sight of students and faculty coming together to comfort and 
+support each other, however, is a stirring reminder of our Nation's 
+resolve.
+  Mr. Speaker, this resolution has my support and the support of 
+everyone who lives in the Fourth Congressional District.
+  Ms. FALLIN. Mr. Speaker, today I would like to discuss something that 
+is neither Democrat nor Republican in nature, but simply American. 
+That, Mr. Speaker, is the greatness of this nation and of the American 
+community, the extraordinary ability of American men and women to 
+overcome tragedy and to be stronger for it.
+  Twelve years ago today, the Alfred P. Murrah Federal Building was 
+destroyed by an explosion that claimed the lives of 168 men, women and 
+children, and that left over 800 injured. At the time, it was the 
+deadliest terror attack ever carried out on American soil.
+  Like everyone else in Oklahoma, I can remember exactly where I was 
+when I heard the news. I remember seeing the carnage on television, and 
+later that day, in person, and thinking ``How can this have happened? 
+What kind of person would do this?'' And I saw the acts of one deranged 
+mad man bring our city to a standstill, while the nation watched and 
+grieved.
+  But even before the smoke and rubble had been cleared, I saw 
+something wonderful. I saw complete strangers coming together, praying, 
+and comforting each other. I saw a state and then an entire nation 
+rally behind the families who had lost their loved ones. And rather 
+than a group of victims, the men and women of Oklahoma became a group 
+of heroes, facing down terrorists and rebuilding both their city and 
+their lives.
+  Twelve years later, we still bare the scars of that awful day. We 
+will never forget. And today, the Oklahoma City Bombing Memorial stands 
+as a reminder of our pain and our heartbreak in the days and months 
+after that attack.
+  But the memorial stands for more than that. It reminds us of the 
+strength of our community. It reminds us of a city and a state that 
+came together after a devastating attack to heal itself and to rebuild. 
+And finally, it reminds us of the greatness of this country and of the 
+power of American hope, even in the face of the most heartbreaking of 
+tragedies.
+  Our memorial is a monument to our sadness. But it is also a monument 
+to our hope and ultimately to our strength. Today we are a thriving 
+city. We have a new federal building which is stronger and safer than 
+the one that was destroyed. And after facing tremendous adversity, we 
+became a stronger people.
+  On Monday, the nation and the state of Virginia suffered another 
+terrible tragedy, when a
+
+[[Page 9213]]
+
+crazed gunman shot and killed 33 men and women on the Virginia Tech 
+campus. It is yet another tragedy of almost unimaginable proportions--
+innocent students living in what they thought was a peaceful sanctuary, 
+only to have their lives cut short by a mad man.
+  In a time of sadness, I believe that the story of the Oklahoma City 
+Bombing can deliver a message of hope to the families and friends of 
+the victims, and indeed to the nation.
+  Twelve years ago today we saw tragedy and death. But we also 
+witnessed the healing power of prayer and the strength of friendship 
+and community. We found God in the most trying of times and we found 
+ourselves stronger for it.
+  My message to the students and faculty of Virginia Tech is this: your 
+community and your faith are more powerful than the destructive urges 
+of one crazed gunman. Again and again the people of this great nation 
+are faced with adversity and tragedy, and again and again we overcome 
+that tragedy and grow stronger. So will you.
+  And while you struggle to find meaning in this calamity and to deal 
+with the pain and sadness of that terrible event, you should know that 
+all of America stands with you, and prays with you, and will ultimately 
+heal with you.
+  Mr. AL GREEN of Texas. Mr. Speaker, it is with great sadness that I 
+recognize the tragic deaths of the 32 victims in the shootings at 
+Virginia Tech this past Monday.
+  These 32 individuals did nothing to deserve this awful fate and 
+should never have had their lives prematurely ended by the horrific 
+actions of one disturbed individual. One of the shooting's victims, 
+Ryan Clark, served as a volunteer counselor at a camp for mentally 
+impaired children. Ryan was described by the camp's administrator as 
+``one of the kindest, most compassionate people'' whom she had ever 
+met. Another victim, Henry Lee, graduated second in his high school 
+class, despite having immigrated from China and having had to learn 
+English as his second language. And Liviu Librescu, a Holocaust 
+survivor, displayed heroism all the way to the end by sacrificing his 
+own life by barricading the door to his classroom to give many of his 
+students enough time to escape through the classroom window.
+  In the lives of these 32 innocent individuals we find countless 
+examples such as these, of kindness, compassion and determination. I 
+would like to extend my warmest sympathies to the families and friends 
+of these individuals, as well as to the entire Virginia Tech community.
+  Unfortunately, we have seen tragedies like this one numerous times in 
+our Nation's history. In my own home state of Texas, we lost 15 of our 
+citizens in a similar rampage four decades ago at the University of 
+Texas at Austin.
+  I believe that, in this time of tragedy, we must honor the shooting's 
+victims, offer the people of Blacksburg our utmost condolences and 
+support, and, most of all, renew our commitment as a country to doing 
+everything in our power to helping communities prevent similar 
+tragedies from taking place in the future.
+  I commend my colleague, the gentleman from Virginia, Mr. Boucher for 
+introducing this resolution.
+  Mr. SCOTT of Virginia. Mr. Speaker, I yield back the balance of my 
+time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from Virginia (Mr. Scott) that the House suspend the rules 
+and agree to the resolution, H. Res. 306.
+  The question was taken.
+  The SPEAKER pro tempore. In the opinion of the Chair, two-thirds 
+being in the affirmative, the ayes have it.
+  Mr. SCOTT of Virginia. Mr. Speaker, on that I demand the yeas and 
+nays.
+  The yeas and nays were ordered.
+  The SPEAKER pro tempore. Pursuant to clause 8 of rule XX and the 
+Chair's prior announcement, further proceedings on this question will 
+be postponed.
+
+                          ____________________
+```
