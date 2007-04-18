@@ -1,0 +1,40 @@
+---
+granule: CREC-2007-04-18-pt1-PgH3482-5
+date: 2007-04-18
+edition: CREC
+section: HOUSE
+page: H3482
+citation: 153 Cong. Rec. H3482
+---
+
+# DEALING WITH VIOLENCE IN AMERICA
+
+**Speaking:** Kucinich, Dennis J. (K000336) [D-OH]
+
+**Measures:** H.R. 676, H.R. 808
+
+```
+                    DEALING WITH VIOLENCE IN AMERICA
+
+  (Mr. KUCINICH asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. KUCINICH. Mr. Speaker, environmental awareness has created an 
+awareness of the urgency of collective action to save our planet. We 
+need a similar commitment to dealing with violence in America. Would 
+that the tragic events in Blacksburg, Virginia, which took 33 lives, be 
+an isolated example of the effects of gun violence in America.
+  In fact, about 32 people perish each and every day in America in 
+handgun-related incidents. The level of violence in our society 
+constitutes a national emergency. I am offering the following approach 
+to change America's direction, away from death and disintegration and 
+towards life and social cohesiveness. First, passage of legislation to 
+create a Cabinet level Department of Peace and Nonviolence, H.R. 808; 
+second, passage of H.R. 676 to create Medicare for all, not-for-profit 
+health care system focusing on mental health care issues; and, third, a 
+ban on handguns, legislation which I am currently drafting.
+  America is being engulfed in violence every day. Let's show that we 
+have the wisdom and the courage to come from our hearts to meet this 
+challenge.
+
+                          ____________________
+```

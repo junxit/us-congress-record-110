@@ -1,0 +1,43 @@
+---
+granule: CREC-2007-04-18-pt1-PgH3482-3
+date: 2007-04-18
+edition: CREC
+section: HOUSE
+page: H3482
+citation: 153 Cong. Rec. H3482
+---
+
+# THE IRAQ WAR
+
+**Speaking:** Nadler, Jerrold (N000002) [D-NY]
+
+```
+                              THE IRAQ WAR
+
+  (Mr. NADLER asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. NADLER. Mr. Speaker, 4 years ago, the United States invaded Iraq, 
+ostensibly to eliminate weapons of mass destruction. When no such 
+weapons were found, instead of declaring victory and bringing the 
+troops home, the administration in its arrogance decided to dismantle 
+the major institutions of Iraqi society and settle into a long-term 
+occupation in order to remake Iraq in our own image.
+  The dismantling of Iraqi institutions, the army, the Baath party, et 
+cetera, led to the breakdown of the delicate balances in Iraqi society 
+and the emergence of civil war between Sunnis and Shiites. The 
+continuing occupation led, as occupations do, to the development of a 
+nationalist insurgency.
+  Now we have Sunni, Shiites and the insurgents shooting at each other 
+and all shooting at American troops. This will go on as long as the 
+occupation continues. The only way out is for Congress to mandate a 
+timetable for a phased withdrawal of our troops.
+  Only such a mandate can get the Iraqi Government to step up to the 
+plate. As Defense Secretary Gates said yesterday, the strong feelings 
+expressed in the Congress about the timetable probably has had a 
+positive impact in terms of communicating to the Iraqis that this is 
+not an open-ended commitment. Only a mandated timetable for withdrawal 
+will end the endless occupation and end the endless bloodshed of young 
+Americans.
+
+                          ____________________
+```
