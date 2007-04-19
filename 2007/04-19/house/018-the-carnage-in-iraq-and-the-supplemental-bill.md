@@ -1,0 +1,33 @@
+---
+granule: CREC-2007-04-19-pt1-PgH3565-4
+date: 2007-04-19
+edition: CREC
+section: HOUSE
+page: H3565
+citation: 153 Cong. Rec. H3565
+---
+
+# THE CARNAGE IN IRAQ AND THE SUPPLEMENTAL BILL
+
+**Speaking:** Cleaver, Emanuel (C001061) [D-MO]
+
+```
+             THE CARNAGE IN IRAQ AND THE SUPPLEMENTAL BILL
+
+  (Mr. CLEAVER asked and was given permission to address the House for 
+1 minute.)
+  Mr. CLEAVER. Mr. Speaker, yesterday, as military leaders were on the 
+Hill explaining how well things were moving in Iraq, news outlets were 
+reporting that 171 human beings were killed at a Baghdad market. The 
+carnage seems to have no end, even as we see endless U.S. troops 
+shipped into an Iraqi shooting gallery.
+  This Congress has approved a supplemental bill which provides 
+everything the President requested and more. In fact, the bill provides 
+plentifully, but appropriately, for the wounded who return home every 
+month.
+  The hope is that the President will sign the supplemental as the 
+American public desires. Every opinion poll shows that the American 
+public wants this war to end. Sign the supplemental.
+
+                          ____________________
+```

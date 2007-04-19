@@ -1,0 +1,64 @@
+---
+granule: CREC-2007-04-19-pt1-PgS4788
+date: 2007-04-19
+edition: CREC
+section: SENATE
+page: S4788
+citation: 153 Cong. Rec. S4788
+---
+
+# PROGRAM
+
+**Speaking:** Durbin, Richard J. (D000563) [D-IL]
+
+```
+                                PROGRAM
+
+  Mr. DURBIN. Madam President, we will return tomorrow in session to 
+discuss the competitiveness bill now pending and to have debate only 
+and then consider amendments, and we hope to vote on it early next 
+week.
+  As far as our meeting this week in the Senate, we are able to point 
+to the passage of the court security bill, which is an important piece 
+of legislation. Unfortunately, it is a bill that took 2 days, and it 
+should have taken 20 minutes. During the course of 2 days, we had a 
+general debate about budget deficits and a debate which started and 
+ended without a vote on splitting up the Ninth Circuit. It was time for 
+some Members to bring up issues of importance to them, but I would 
+suggest we have a limited amount to show for our activity this week 
+because of activities on the other side of the aisle.
+  Twice we were stopped in efforts to call up important legislation. We 
+wanted to have the reauthorization of the intelligence agencies in 
+America so that they are prepared to deal in the most effective way in 
+fighting terrorism. Unfortunately, there was resistance from the 
+Republican side of the aisle, and we weren't able to do so. The bill 
+had to be pulled from debate on the floor and put back on the calendar 
+for another day. Then we wanted to move to the Medicare prescription 
+Part D Program. Those of us on the Democratic side think it is 
+important to have a debate as to whether Medicare can offer less 
+expensive, more affordable drugs to seniors and disabled people. The 
+pharmaceutical companies don't like this idea. The current system is 
+very profitable for them. They have mounted a very expensive campaign 
+to stop any suggestion of changing Medicare prescription Part D. It 
+would have been a lively debate, an important debate, followed closely 
+by many seniors and their families but, unfortunately, once again, the 
+Republican minority, within their rights, stopped us from moving to 
+that important debate.
+  So for two very substantive issues, we were stopped this week from 
+the kind of progress which I think people expect us to make. Even if we 
+disagree between the parties, there should be a spirit of cooperation 
+here, at least when it comes to honest debate in a reasonable period of 
+time and then an up-or-down vote and then move on, but we couldn't 
+reach that point this week. Sadly, the only bill that passed was the 
+Court Security Act, as important as it is. It should have passed very 
+quickly without controversy. It took us 2 days.
+  Now we have a very important bill before us, which I think is long 
+overdue. I wish to thank Senator Alexander from Tennessee and Senator 
+Bingaman for being the lead sponsors on this bill. I hope the debate 
+tomorrow will lead to some amendments the beginning of next week and 
+then to passage. America needs to maintain the competitive edge in so 
+many parts of our economy, particularly when it comes to manufacturing, 
+and this bill could be very positive.
+
+                          ____________________
+```
