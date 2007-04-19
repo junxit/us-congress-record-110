@@ -1,0 +1,70 @@
+---
+granule: CRECB-2007-pt7-Pg9487-4
+date: 2007-04-19
+edition: CRECB
+section: HOUSE
+page: 9487
+---
+
+# UNITED NATIONS MUST BE LEADING VOICE AGAINST GENOCIDE
+
+```
+         UNITED NATIONS MUST BE LEADING VOICE AGAINST GENOCIDE
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from New Jersey (Mr. Pallone) is recognized for 5 minutes.
+  Mr. PALLONE. Mr. Speaker, I am strongly disappointed that United 
+Nations Secretary General Ban Ki-moon has given in to Turkey's demands 
+and cancelled an exhibit commemorating the 13th anniversary of the 
+Rwanda genocide.
+
+                              {time}  2045
+
+  Turkey, as usual, was offended by references in the exhibit to the 
+Armenian genocide in Turkey during World War I.
+  As a representative of the international community, the United 
+Nations must be the leading voice against genocide. That includes all 
+genocides, including the Armenian genocide. Unless the United Nations 
+takes a stand against Turkey's denial, its value to the international 
+community is greatly undermined.
+  As the 92nd anniversary of the Armenian genocide approaches, Turkey's 
+recent behavior is yet another example of why it is so important for 
+Congress to reaffirm the Armenian genocide by passing H. Res. 106. Over 
+the past year, Turkey has pulled out of NATO exercises after France 
+affirmed the Armenian genocide. They have threatened U.S. troops in 
+Iraq if the U.S. reaffirms the Armenian genocide. And now they are 
+preventing the U.N. from honoring the victims of the Rwandan genocide. 
+Their denial has no limits.
+  The United States must never allow crimes against humanity to pass 
+without remembrance and condemnation. As a society, we cannot 
+effectively work to end crimes against humanity without recognizing 
+those that have previously occurred.
+  Far too many times we have seen the horrible consequences of ignoring 
+genocide. Even after unprecedented humanitarian efforts by Americans, 
+the Armenian genocide had become the ``forgotten genocide,'' and in 
+1939 Adolf Hitler exclaimed to his generals to have no mercy by 
+stating, and I quote, ``who, after all, speaks today of the 
+annihilation of the Armenians?
+  In 1994 world leaders witnessed the Hutu leaders of Rwanda kill 
+800,000 Rwandans, and did nothing. Today we sit idly by as militias 
+massacre innocent citizens in Darfur; and, again, world leaders do 
+virtually nothing. There are lessons to be learned by history. 
+Unfortunately, Turkey has undermined the intent of the U.N. exhibit to 
+help teach the lessons of genocide inaction.
+  Turkey's policy of denying the Armenian genocide gives cover to those 
+who perpetrate genocide everywhere. If the cycle is to end, there must 
+be accountability for genocide. Genocide denial is the last stage of 
+genocide.
+
+[[Page 9488]]
+
+  Mr. Speaker, when will today's world leaders stop letting Turkey deny 
+its past? It is bad enough for Turkey to threaten and prosecute its own 
+citizens for discussing these crimes, but to threaten to retaliate 
+against countries that acknowledge the Armenian genocide is appalling 
+and unacceptable. As a global community we must collectively stand for 
+historical truth and recognize the worst humanitarian crimes that we 
+have seen.
+
+                          ____________________
+```
