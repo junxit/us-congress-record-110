@@ -1,0 +1,52 @@
+---
+granule: CREC-2007-04-20-pt1-PgS4805-2
+date: 2007-04-20
+edition: CREC
+section: SENATE
+page: S4805
+citation: 153 Cong. Rec. S4805
+---
+
+# COVER THE UNINSURED WEEK 2007
+
+**Speaking:** Reid, Harry (R000146) [D-NV]
+
+```
+                     COVER THE UNINSURED WEEK 2007
+
+  Mr. REID. Mr. President, I rise in recognition of Cover the Uninsured 
+Week, which is being held this year from April 23 to 29. As many of us 
+know, this nonpartisan initiative was created to focus the Nation's 
+attention on one of the most serious challenges facing our health care 
+system--ensuring access to quality, affordable coverage.
+  Since the first annual Cover the Uninsured Week was observed 5 years 
+ago, the health care crisis has, unfortunately, worsened. At last 
+count, nearly 46 million Americans lacked coverage, including 400,000 
+in my home State of Nevada. More than 100,000 of these uninsured 
+Nevadans are children. The context for these numbers, which are 
+staggering in themselves, is even more troubling. For too many, premium 
+costs are escalating faster than they can manage while benefits are 
+deteriorating. Being a hard-working American is also no longer a ticket 
+to health coverage, as shown by the fact that 8 out of 10 uninsured 
+people either work or are in working families. Even when they can find 
+good health insurance, many families must shortchange other basic needs 
+to afford out-of-pocket expenses or forgo necessary care altogether.
+  Every year we update these statistics and findings about the 
+uninsured, but the same themes still ring true. The goal should be to 
+ensure that all Americans can access and afford the health care they 
+need, regardless of their income, age, employment, or health status. 
+Sadly, we as a nation continue to fall short.
+  Cover the Uninsured Week is an opportunity to reflect on more than 
+just this current state of affairs. It is also a time to call for a new 
+direction on health care in America. Whether one is a Democrat or 
+Republican, a Member of Congress or the State legislatures, we must all 
+work together to heed the voices of the American people who are 
+counting on us. So in honor of this year's Cover the Uninsured Week, 
+let us all renew our commitment to improving our health care system. I 
+look forward to a strong debate in the Senate on these vital issues, 
+including the next step of updating the State Children's Health 
+Insurance Program to better meet the needs of the Nation's children and 
+families.
+
+                          ____________________
+```

@@ -1,0 +1,34 @@
+---
+granule: CREC-2007-04-20-pt1-PgH3698-5
+date: 2007-04-20
+edition: CREC
+section: HOUSE
+page: H3698
+citation: 153 Cong. Rec. H3698
+---
+
+# STAND UP FOR OUR TROOPS
+
+**Speaking:** Putnam, Adam H. (P000586) [R-FL]
+
+```
+                        STAND UP FOR OUR TROOPS
+
+  (Mr. PUTNAM asked and was given permission to address the House for 1 
+minute.)
+  Mr. PUTNAM. Mr. Speaker, our troops in combat deserve to be sent the 
+resources and reinforcements that they need to be successful in their 
+mission in Iraq, without strings and without delay.
+  Putting in place an inflexible timeline that culminates with a date 
+certain time for withdrawal micromanages our commanders in the field 
+and undermines the efforts of our troops on the ground. The Washington 
+Post describes the Democrat plan as ``an attempt to impose detailed 
+management on a war without regard for the war itself.''
+  The L.A. Times called for the bill to be vetoed saying, ``It's absurd 
+to try and micromanage the conflict, and the evolution of Iraqi 
+society, with arbitrary timetables and benchmarks.''
+  I urge my colleagues to stand up for our troops. Our troops deserve a 
+clean bill, not one bulging with add-ons and political statements.
+
+                          ____________________
+```

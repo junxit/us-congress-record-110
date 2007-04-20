@@ -1,0 +1,61 @@
+---
+granule: CREC-2007-04-20-pt1-PgS4809
+date: 2007-04-20
+edition: CREC
+section: SENATE
+page: S4809
+citation: 153 Cong. Rec. S4809
+---
+
+# WINNING THE MASTERS
+
+**Speaking:** Harkin, Tom (H000206) [D-IA]
+
+```
+[[Page S4809]]
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+                          WINNING THE MASTERS
+
+
+                         Zach Johnson's Triumph
+
+● Mr. HARKIN. Mr. President, recently, in a magnificent display 
+of talent, skill, and old-fashioned Iowa grit, Zach Johnson won the 
+Master's Golf Tournament in Augusta, GA.
+  The new Master's champ had this to say: ``I'm Zach Johnson and I'm 
+from Cedar Rapids, IA. I'm a normal guy.''
+  Well, Zach Johnson may be a normal guy. But he clearly has an 
+extraordinary ability to play the game of golf.
+  You might say that Zach Johnson is an overnight success that was a 
+lifetime in the making. His golfing career has progressed steadily from 
+his childhood on courses in Cedar Rapids, to college play at Drake 
+University in Des Moines, followed by professional play in the Prairie 
+Gold Tour, the Nationwide Tour, the PGA Tour, the U.S. Ryder Cup team, 
+and, now, champion of Master's.
+  Obviously, there are many qualities that go into winning such a 
+challenging tournament against the world's top players. It takes talent 
+and skill. But it also takes intelligence and character. Zach Johnson 
+is abundantly endowed in all of these departments.
+  Of course, Iowans are ecstatic about Zach's victory. And more than 
+one Iowan has noted that his performance reflected the values we hold 
+dear in the Hawkeye State. He was persistent and relentless. He didn't 
+go for a flashy style of play; it was just steady-as-she-goes, day 
+after day, tee after tee. He refused to yield. He met every challenge. 
+Oh, and his strong putting skills didn't hurt, either.
+  For the record, I would note that Zach Johnson won not only one of 
+the most difficult golf tournaments in the world, but also quite 
+possibly one of the most difficult of all Master's tournaments in 
+history. He braved gusting winds and bitterly cold weather. His winning 
+score of one-over-par 289 tied the highest winning score in Master's 
+history.
+  Zach Johnson has done Iowa proud. He is the first Iowan to win a 
+major professional golf tournament since Jack Fleck upset Ben Hogan at 
+the 1955 U.S. Open. I salute his great achievement at Augusta. And I 
+wish him continued success in tournaments, and years, to come.●
+
+                          ____________________
+```

@@ -1,0 +1,42 @@
+---
+granule: CREC-2007-04-20-pt1-PgH3698-2
+date: 2007-04-20
+edition: CREC
+section: HOUSE
+page: H3698
+citation: 153 Cong. Rec. H3698
+---
+
+# FUNDING FOR THE IRAQ WAR
+
+**Speaking:** Emanuel, Rahm (E000287) [D-IL]
+
+```
+                        FUNDING FOR THE IRAQ WAR
+
+  (Mr. EMANUEL asked and was given permission to address the House for 
+1 minute.)
+  Mr. EMANUEL. Mr. Speaker, earlier this month the President said, ``If 
+Congress fails to pass a bill that I can sign by mid-April, the Army 
+will be forced to consider cutting back on equipment, equipment repair 
+and quality of life initiatives for our Guard and Reserve forces.''
+  Today, though, the Pentagon reports it has enough money to pay for 
+the war in Iraq through June. So despite the doomsday reports from the 
+White House, our military leaders are confident we have sufficient 
+funding while we debate a new direction for the war in Iraq.
+  Then the President said that the timeline for redeployment that was 
+part of our funding would undermine our troops and send the wrong 
+signal to the enemy. Yesterday, Secretary Gates said our debate here in 
+Congress has had a positive impact by ``communicating to the Iraqis 
+that this is not an open-ended commitment.''
+  Mr. Speaker, this is not the time for scoring political points or 
+posturing and positioning. The President should know that after 4 years 
+of chaos and bloodshed, the American people sent Democrats to 
+Washington to bring a new direction to our Iraq policy.
+  Today, thousands of American troops find themselves in the middle of 
+someone else's civil war, backing an Iraqi government that has yet to 
+stand up for itself.
+  Democrats are calling for a new direction in Iraq.
+
+                          ____________________
+```
