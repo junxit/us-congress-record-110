@@ -1,0 +1,47 @@
+---
+granule: CRECB-2007-pt7-Pg9588-3
+date: 2007-04-20
+edition: CRECB
+section: HOUSE
+page: 9588
+---
+
+# HONORING WOODBURY MIDDLE SCHOOL
+
+```
+                    HONORING WOODBURY MIDDLE SCHOOL
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentlewoman from Ohio (Mrs. Jones) is recognized for 5 minutes.
+
+[[Page 9589]]
+
+
+  Mrs. JONES of Ohio. Mr. Speaker, last week I had the pleasure of 
+attending a middle school in my congressional district. The middle 
+school is Woodbury. I have a T-shirt to represent Woodbury Middle 
+School. I thought I could wear it on the floor of the House, but they 
+told me it was inappropriate attire so I had to take it off. But this 
+is a Woodbury T-shirt, and I promised those students at Woodbury Middle 
+School that this week on the floor of the House I would talk about what 
+a great time I had at Woodbury Middle School.
+  The reason I was there, and let me recognize the principal, Barbara 
+Whitaker; the vice principals, WeMet Smith and Eric Grundton; and 
+teacher friends of mine, my neighbor, Barbara Norton; Chante Taylor, 
+who is the wife of one of my district staffers; Aisha Mason, who is the 
+wife of Senator Lance Mason.
+  But what I was there for we have Ohio achievement tests, and we 
+decided on this particular day at this particular school, we are going 
+to celebrate the achievements of the young people of Woodbury Middle 
+School. We had a wonderful time. The band played. They are doing a 
+production of ``Annie,'' and ``Annie'' did a production. We had a dance 
+troupe that I learned how to do a certain dance with these young 
+people. We even had a chance to quote Nas, a famous rapper, who talks 
+about I can be what I want to be.
+  We had a great time. We had a wonderful chance to really celebrate 
+the fact that these young people are going to do a great job on this 
+Ohio achievement test. So Woodbury Middle School, I keep my promise. 
+Hurray for Woodbury Middle School. Pass that test.
+
+                          ____________________
+```
