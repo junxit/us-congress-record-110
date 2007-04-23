@@ -1,0 +1,65 @@
+---
+granule: CRECB-2007-pt7-Pg9620-2
+date: 2007-04-23
+edition: CRECB
+section: SENATE
+page: 9620
+---
+
+# ADDITIONAL STATEMENTS
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+                 CONGRATULATING DR. HOWARD-YANA SHAPIRO
+
+● Mr. BINGAMAN. Madam President, I wish to congratulate Dr. 
+Howard-Yana Shapiro, who will receive the Organic Leadership Award on 
+May 7, 2007. The award is bestowed annually by the Organic Trade 
+Association on individuals who have demonstrated leadership and vision 
+in furthering the goals of organic agriculture.
+  Dr. Shapiro has had a very impressive career in organic agriculture, 
+having been involved with sustainable agricultural and agroforestry 
+systems, plant genetics, and food production systems for over 35 years. 
+He is best known as the principal author of ``Gardening for the Future 
+of the Earth,'' which shows how to ``create natural bounty in your own 
+backyard and help save the planet one seed at a time.''
+  During his long and diverse career, Dr. Shapiro has been a community 
+gardening activist, a university professor for 15 years, twice a 
+Fulbright Scholar, twice a Ford Foundation Fellow, and winner of the 
+National Endowment for the Humanities Award. He has worked with 
+indigenous communities, nongovernmental organizations, governmental 
+agencies, and private institutions throughout the world, including 
+Conservation International, World Wildlife Fund, U.S. Department of 
+Agriculture, U.S. Agency for International Development, U.S. Forest
+
+[[Page 9621]]
+
+Service, ICRAF, The World Agroforestry Centre, Smithsonian Tropical 
+Research Institute, and many other national and regional agricultural 
+institutions in Mexico, Brazil, Ecuador, Bolivia, Costa Rica, Honduras, 
+Ghana, Nigeria, Cameroon, Senegal, South Africa, Vietnam, Indonesia, 
+Papua New Guinea, and Australia.
+  Most recently, Dr. Shapiro has held a leadership role in Seeds of 
+Change, the largest certified organic seed company in the country. 
+Located along the Rio Grande in El Guique, NM, Seeds of Change, a 
+division of Mars, Incorporated, is a pioneering cultivator of 
+organically grown seeds for home and market growers, a leader in the 
+organic foods industry, and a valued resource for organic farmers. Dr. 
+Shapiro has been dedicated to Seeds of Change since its inception and 
+was a key figure during the launching of the Seeds of Change 100 
+percent certified organic food line in the United States, Europe, 
+Australia, and Japan.
+  I am proud that New Mexico is home to Seeds of Change and that the 
+company, and organic agriculture as an industry, has been so well 
+served by the expertise and vision of Dr. Shapiro throughout its 
+growth. Again, I congratulate Dr. Howard-Yana Shapiro for receiving the 
+Organic Trade Association's highest honor. I thank him for his 
+commitment to furthering organic agriculture around the world, and I 
+wish him continued success in the years ahead.●
+
+                          ____________________
+```
