@@ -1,0 +1,38 @@
+---
+granule: CREC-2007-04-24-pt1-PgH3786
+date: 2007-04-24
+edition: CREC
+section: HOUSE
+page: H3786
+citation: 153 Cong. Rec. H3786
+---
+
+# IRAQ TIMETABLE AND FUNDING
+
+**Speaking:** McNerney, Jerry (M001166) [D-CA]
+
+```
+                       IRAQ TIMETABLE AND FUNDING
+
+  (Mr. McNERNEY asked and was given permission to address the House for 
+1 minute.)
+  Mr. McNERNEY. Madam Speaker, this Congress remains committed to 
+forging a new direction in Iraq. Overwhelmingly, the American people 
+support our plan to establish important benchmarks and a responsible 
+timetable to redeploy the troops.
+  Yet, the President has threatened to veto our legislation, even 
+though it ensures our troops have everything they need, and for our 
+veterans when they return home. However, just last week, Defense 
+Secretary Robert Gates said, and I quote: The debate in Congress has 
+been helpful in demonstrating to the Iraqis that American patience is 
+limited.
+  Mr. Gates went on to say that the strong feelings expressed in the 
+Congress about the timetable probably has had a positive impact on 
+communicating to the Iraqis that this is not an open-ended commitment. 
+To ensure that the Iraqis step up and take control of their own 
+country, we must continue to demonstrate that the American people will 
+not stand for an open-ended commitment of American resources or 
+personnel.
+
+                          ____________________
+```

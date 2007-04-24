@@ -1,0 +1,28 @@
+---
+granule: CREC-2007-04-24-pt1-PgH4052
+date: 2007-04-24
+edition: CREC
+section: HOUSE
+page: H4052
+citation: 153 Cong. Rec. H4052
+---
+
+# CONGRESSIONAL EARMARKS, LIMITED TAX BENEFITS, OR LIMITED TARIFF BENEFITS
+
+**Measures:** H.R. 249
+
+```
+    CONGRESSIONAL EARMARKS, LIMITED TAX BENEFITS, OR LIMITED TARIFF 
+                                BENEFITS
+
+  Under clause 9 of rule XXI, lists or statements on congressional 
+earmarks, limited tax benefits, or limited tariff benefits were 
+submitted as follows:
+
+       The amendment to be offered by Representative Rahall or a 
+     designee to H.R. 249 does not contain any congressional 
+     earmarks, limited tax benefits, or limited tariff benefits as 
+     defined in clause 9(d), 9(e), or 9(f) of rule XXI.
+
+                          ____________________
+```
