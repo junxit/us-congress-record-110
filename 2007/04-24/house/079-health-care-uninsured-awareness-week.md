@@ -1,0 +1,93 @@
+---
+granule: CRECB-2007-pt7-Pg10139
+date: 2007-04-24
+edition: CRECB
+section: HOUSE
+page: 10139
+---
+
+# HEALTH CARE UNINSURED AWARENESS WEEK
+
+```
+                  HEALTH CARE UNINSURED AWARENESS WEEK
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from Washington (Mr. McDermott) is recognized for 5 minutes.
+  Mr. McDERMOTT. Mr. Speaker, this is Health Care Uninsured Awareness 
+Week. The number of Americans without health insurance has grown about 
+5 million since President Bush took office. The health care crisis is 
+America's single largest domestic issue, but the President has offered 
+Band-Aids to cover his lack of leadership. And the people have noticed. 
+Nine out of ten Americans told a recent CBS/New York Times poll that 
+the American health care system needs to be completely rebuilt.
+  Today, the number of Americans without any health insurance surpasses 
+the combined population of 24 U.S. States: Alaska, Arkansas, 
+Connecticut, Delaware, Hawaii, Idaho, Iowa, Kansas, Maine, Mississippi, 
+Montana, Nebraska, Nevada, New Hampshire, New Mexico, North Dakota, 
+Oklahoma, Oregon, Rhode Island, South Dakota, Utah, Vermont, West 
+Virginia, and Wyoming. That is the population without health insurance.
+  But the crisis is even worse than that. Millions of Americans are 
+underinsured, and millions more can't afford the copay, or have to 
+fight constant battles with the big drug companies and the HMOs.
+  In Seattle, my congressional district, here is what one constituent 
+wrote to Health Care for All Washington, one of the organizations I 
+work closely with:
+  ``My dad has prostate cancer and has taken a turn for the worse. We 
+had to postpone a quarterly injection of his drug because we are having 
+trouble with the health insurance over the cost of the drug. It has 
+been extremely frustrating as the insurance company has the drug in the 
+wrong category. They sent us a letter admitting as much, but every 3 
+months we have to fight with them again, anywhere from $180 to $1,800. 
+Anyway, since we postponed it, my dad has suffered.''
+  Does that sound familiar?
+  The pain inflicted by the health care crisis is hurting families 
+across the United States. According to the Census Bureau, almost one-
+third of Latinos are uninsured, one-fifth of African Americans, 15 
+percent of children, 18 percent of full-time employees, and 11 percent 
+of middle-class families.
+  In other words, only the rich can afford to live without risk. Only 
+the rich are immune, because they have been coddled by the Republican-
+imposed income tax shelters that can pay for health care. Every other 
+American is one layoff, one major accident, one major illness or 
+divorce away from being uninsured and facing financial ruin.
+  Since the President took office, health care premiums have risen 87 
+percent. Have your wages gone up that much?
+  Here is another personal story from a letter: ``I have always worked 
+and I have never taken welfare or asked for help from anyone. Last 
+month, I was diagnosed with follicular lymphoma. There is no cure for 
+this slow-moving cancer. I will not be able to buy health insurance now 
+because I have a preexisting condition. Even if I can find it 
+somewhere, I would not be able to afford the big premiums. The only 
+solution I can come up with is to leave America and move to another 
+nation where I can get health care coverage.''
+  When American citizens consider leaving the country as the only 
+viable option, that is not a solution, that is an indictment of a 
+failure to act. The only solution to America's health care crisis is a 
+single payer, universal health care system. We have tried everything 
+else except the right idea.
+  Under H.R. 1200, my bill, every American would be guaranteed a 
+package of
+
+[[Page 10140]]
+
+benefits. States would administer their own programs, with decisions 
+made closest to the patient. The health care system today is all about 
+profits, not patients. My bill would put patients back in charge. It 
+would provide predictable and lower cost for American businesses, and 
+everyone would be covered.
+  The special interests have run the health care system into the 
+ground, and millions of Americans have been ground into financial ruin 
+as a result. The single most common cause for going into bankruptcy in 
+this country is health care costs.
+  America stands virtually alone in the industrialized world in not 
+caring for its citizens, and being a loner is insensitive, 
+incomprehensible, and intolerable. If all we do is read these poignant 
+stories and ring our hands, we will turned our backs on the people who 
+elected us to serve them by leading. It is time to pass universal 
+health care. We can do it, but it will take some leadership in the 
+White House. Unfortunately, we may have to wait until 2009 to get a 
+President who understands that all Americans should be protected with 
+health insurance.
+
+                          ____________________
+```

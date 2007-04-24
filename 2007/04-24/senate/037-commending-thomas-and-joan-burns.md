@@ -1,0 +1,50 @@
+---
+granule: CRECB-2007-pt7-Pg9776-2
+date: 2007-04-24
+edition: CRECB
+section: SENATE
+page: 9776
+---
+
+# COMMENDING THOMAS AND JOAN BURNS
+
+```
+                    COMMENDING THOMAS AND JOAN BURNS
+
+● Mr. BOND. Mr. President, for over 50 years, Thomas W. Burns, 
+MD, and Joan F. Burns have served the University of Missouri-Columbia 
+with great distinction. To honor this service, on April 27, 2007, the 
+university will dedicate the Thomas W. and Joan F. Burns Center for 
+Diabetes and Cardiovascular Research at the University of Missouri-
+Columbia School of Medicine.
+  Thomas W. Burns was one of the founding faculty members of MU's 
+medical center, which opened in 1956 and graduated its first class of 
+physicians in 1957. Since then, hundreds of physicians who trained 
+under him have gone on to lead distinguished careers in medical care, 
+education and research. MU's medical center has treated hundreds of 
+thousands of patients from Missouri and beyond.
+  Dr. Burns has been a pioneer in endocrinology and contributed greatly 
+to MU's national reputation in diabetes care, prevention, and research. 
+Dr. Burns was a key architect in establishing MU's Cosmopolitan 
+International Diabetes and Endocrinology Center and for many years 
+served as the center's founding director. The Cosmopolitan 
+International Diabetes and Endocrinology Center established by Dr. 
+Burns was the first public-private partnership at MU. Thousands of 
+patients have received state-of-the-art care in Mid-Missouri as a 
+result of Thomas W. Burns' tremendous contributions to medicine.
+  Dr. Burns has received numerous awards from community, State and 
+national organizations. The American College of Physicians, the largest 
+internal medicine organization in the country, bestowed on him the 
+title of ``Master,'' which is the ACP's highest academic honor, and 
+presented him with the Laureate Award. Dr. Burns also received the 
+University of Missouri Faculty-Alumni Award in 1986 and the University 
+of Missouri Distinguished Faculty Award in 1992.
+  Thomas and Joan Burns are leaders in recognizing that diabetes and 
+cardiovascular disease are linked and that together the diseases 
+constitute one of the most pressing health problems for Missouri and 
+the Nation. Their contribution and legacy will allow MU to make 
+potentially lifesaving advances in diabetes and cardiovascular 
+research.●
+
+                          ____________________
+```

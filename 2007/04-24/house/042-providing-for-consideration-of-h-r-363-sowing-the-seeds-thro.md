@@ -1,0 +1,437 @@
+---
+granule: CRECB-2007-pt7-Pg9900
+date: 2007-04-24
+edition: CRECB
+section: HOUSE
+page: 9900
+---
+
+# PROVIDING FOR CONSIDERATION OF H.R. 363, SOWING THE SEEDS THROUGH SCIENCE AND ENGINEERING RESEARCH ACT
+
+```
+   PROVIDING FOR CONSIDERATION OF H.R. 363, SOWING THE SEEDS THROUGH 
+                  SCIENCE AND ENGINEERING RESEARCH ACT
+
+  Mr. CARDOZA. Madam Speaker, by direction of the Committee on Rules, I 
+call up House Resolution 318 and ask for its immediate consideration.
+  The Clerk read the resolution, as follows:
+
+                              H. Res. 318
+
+       Resolved,  That at any time after the adoption of this 
+     resolution the Speaker may, pursuant to clause 2(b) of rule 
+     XVIII, declare the House resolved into the Committee of the 
+     Whole House on the state of the Union for consideration of 
+     the bill (H.R. 363) to authorize appropriations for basic 
+     research and research infrastructure in science and 
+     engineering, and for support of graduate fellowships, and for 
+     other purposes. The first reading of the bill shall be 
+     dispensed with. All points of order against consideration of 
+     the bill are waived except those arising under clause 9 or 10 
+     of rule XXI. General debate shall be confined to the bill and 
+     shall not exceed one hour equally divided and controlled by 
+     the chairman and ranking minority member of the Committee on 
+     Science and Technology. After general debate the bill shall 
+     be considered for amendment under the five-minute rule. It 
+     shall be in order to consider as an original bill for the 
+     purpose of amendment under the five-minute rule the amendment 
+     in the nature of a substitute recommended by the Committee on 
+     Science and Technology now printed in the bill. The committee 
+     amendment in the nature of a substitute shall be considered 
+     as read. All points of order against the committee amendment 
+     in the nature of a substitute are waived except those arising 
+     under clause 9 or 10 of rule XXI. Notwithstanding clause 11 
+     of rule XVIII, no amendment to the committee amendment in the 
+     nature of a substitute shall be in order except those printed 
+     in the report of the Committee on Rules accompanying this 
+     resolution. Each such amendment may be offered only in the 
+     order printed in the report, may be offered only by a Member 
+     designated in the report, shall be considered as read, shall 
+     be debatable for the time specified in the report equally 
+     divided and controlled by the proponent and an opponent, 
+     shall not be subject to amendment, and shall not be subject 
+     to a demand for division of the question in the House or in 
+     the Committee of the Whole. All points of order against such 
+     amendments are waived except those arising under clause 9 or 
+     10 of rule XXI. At the conclusion of consideration of the 
+     bill for amendment the Committee shall rise and report the 
+     bill to the House with such amendments as may have been 
+     adopted. Any
+
+[[Page 9901]]
+
+     Member may demand a separate vote in the House on any 
+     amendment adopted in the Committee of the Whole to the bill 
+     or to the committee amendment in the nature of a substitute. 
+     The previous question shall be considered as ordered on the 
+     bill and amendments thereto to final passage without 
+     intervening motion except one motion to recommit with or 
+     without instructions.
+       Sec. 2. During consideration in the House of H.R. 363 
+     pursuant to this resolution, notwithstanding the operation of 
+     the previous question, the Chair may postpone further 
+     consideration of the bill to such time as may be designated 
+     by the Speaker.
+
+  The SPEAKER pro tempore. The gentleman from California (Mr. Cardoza) 
+is recognized for 1 hour.
+
+                              {time}  1345
+
+  Mr. CARDOZA. Madam Speaker, for the purpose of debate only, I yield 
+the customary 30 minutes to the gentleman from Washington (Mr. 
+Hastings). All time yielded during consideration of the rule is for 
+debate only. I yield myself such time as I may consume.
+
+
+                             General Leave
+
+  Mr. CARDOZA. Madam Speaker, I ask unanimous consent that all Members 
+have 5 legislative days within which to revise and extend their remarks 
+and to insert extraneous material into the Record.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from California?
+  There was no objection.
+  Mr. CARDOZA. Madam Speaker, House Resolution 318 provides for 
+consideration of H.R. 363, the Sowing the Seeds through Science and 
+Engineering Research Act, under a structured rule.
+  The rule provides for 1 hour of general debate, equally divided and 
+controlled by the chairman and ranking member of the Committee on 
+Science and Technology.
+  The rule waives all points of order against consideration of the bill 
+except for clauses 9 and 10 of rule XXI. The bill shall be considered 
+as read.
+  The rule makes in order and provides appropriate waivers for all 
+three amendments that were submitted for consideration. The first 
+amendment to be debated on the floor will be that of the gentleman from 
+Texas (Mr. Hall), the ranking member of the Science and Technology 
+Committee.
+  Finally, the rule provides for one motion to recommit, with or 
+without instructions.
+  Madam Speaker, the talent, intellect and entrepreneurial spirit of 
+the American people have made this Nation the leader in economic and 
+technological advancements. In fact, high-tech industries drive 
+economic growth around the world.
+  Every day, however, my constituents tell me the United States has 
+fallen further and further behind our competitors in Europe and Asia. 
+The United States continues to lead the world in many statistical 
+categories such as R&D spending and the number of scientists and 
+engineers; however, the rest of the world is increasing its capacity, 
+its R&D investments, and its will to catch up with us.
+  Other countries such as China and India are pouring resources into 
+their scientific and technological infrastructure at staggering rates, 
+which is increasing their ability to compete with us in the global 
+economy.
+  For example, in South Korea, 38 percent of undergraduates received 
+their degrees in science or engineering. In France, the figure is 47 
+percent. In China, it is 50 percent, and in Singapore, it is 67 
+percent. In the United States, only 15 percent of undergraduates 
+receive a degree in science or engineering. More telling is the fact 
+that approximately one-third of U.S. students intending to major in 
+engineering switch majors to something else before graduating.
+  Madam Speaker, the warning signs could not be any clearer. Our 
+leadership in the race to discovery is being challenged at unparalleled 
+levels around the world. We cannot ignore this challenge, and we cannot 
+afford to ignore this challenge.
+  Our society has always depended on innovation and discovery. It has 
+depended on pioneers who push themselves to their intellectual and 
+physical limits to find the hidden paths that lead to that discovery. 
+Over 125 years ago, Thomas Edison who famously quipped that he had not 
+failed but instead had found 10,000 different ways that would not work 
+invented the light bulb, and it was Albert Einstein who once said, ``I 
+never came upon any of my discoveries through the process of rational 
+thinking.''
+  My point, Madam Speaker, is that our advancement as a society depends 
+on leading the search for the unknown. Americans must continue to 
+research, we must continue to develop, and we must continue to innovate 
+in order to create new and thriving industries that will produce 
+millions of good jobs and a better future for our children. To do that, 
+however, we must continue to reinvigorate America's commitment to this 
+discovery process.
+  The National Academy of Sciences recently released a report, ``Rising 
+Above the Gathering Storm.'' The report outlines specific 
+recommendations to enhance the scientific building blocks in the United 
+States. The bill we have today before us, H.R. 363, the Sowing the 
+Seeds through Science and Engineering Research Act, draws directly from 
+several of those recommendations.
+  To paraphrase the report, the report recommends that we strengthen 
+our Nation's commitment to research to maintain the flow of new ideas 
+that fuel the economy, provide security and enhance our quality of 
+life. In that regard, H.R. 363 seeks to improve Federal support for 
+scientific research and education in order to maintain our position as 
+the unequivocal global leader in innovation.
+  H.R. 363 creates a program at the National Science Foundation to 
+award grants to scientists and engineers at the early stage of their 
+careers at colleges, universities and research institutions across the 
+country. Young researchers are eligible to receive up to $80,000 per 
+year for 5 years.
+  The awards are granted on a competitive basis and are based on 
+intellectual merit of their work, the innovative or transformative 
+nature of the proposed research, and the researcher's potential for 
+leadership at the frontiers of knowledge.
+  The bill requires that the National Science Foundation director 
+allocate at least 3.5 percent of its research funding for this grant 
+program. The bill also creates a similar program in the Department of 
+Energy for which $25 million is authorized.
+  H.R. 363 directs NSF to allocate at least 1.5 percent of its research 
+funds to an integrated graduate education and research training 
+program. This program provides support to those scientists and 
+engineers who will pursue careers in research and education.
+  Just this week, Madam Speaker, the president of my alma mater from 
+the University of Maryland, Dr. Mote, came by to describe some of the 
+challenges for young researchers in just this area. It is so 
+appropriate that Congress is taking this action at this time.
+  This bill establishes the Presidential Innovation Award, an award 
+which will recognize scientists and engineers who develop unique 
+innovations in the national interests. The bill creates a national 
+coordination office within the Office of Science and Technology Policy 
+to better coordinate research efforts, and, finally, H.R. 363 directs 
+the National Institute of Standards and Technology to provide a report 
+to Congress on the efforts to attract and retain young researchers.
+  But this bill goes far beyond the long-lasting impacts of development 
+and innovation. It goes far beyond our ability to create jobs and 
+compete in a global economy. It will plant the seeds of hope for a 
+better tomorrow in communities across this country.
+  I know firsthand what research funding will be able to do. The 
+University of California in Merced, my hometown in my district, is on 
+the cutting edge of several research projects where additional funding 
+could spur the next big breakthrough. UC Merced is a leader in solar 
+concentration technologies, just one of the many of our ongoing 
+projects. To date, this research has largely been supported through 
+public and private partnerships. However, increased research funding 
+could potentially improve the efficiencies of solar
+
+[[Page 9902]]
+
+power and solar thermal technologies; and if efficiency and 
+affordability are within our grasp, we can decrease the carbon 
+emissions and reduce our dependence on foreign oil, certainly worthy 
+goals for this Congress. This is but one example of many research 
+efforts across our country that has the potential to define and shape 
+tomorrow.
+  It is this type of project that would benefit from the funding of 
+this bill, but how many more ideas could become reality if our 
+researchers only had the tools that they sorely need? How many more 
+concepts, how many more ideas are out there on the horizon waiting to 
+be discovered?
+  Madam Speaker, it is our duty and our responsibility as legislators 
+to help make those dreams and ideas become a reality.
+  Madam Speaker, I reserve the balance of my time.
+  Mr. HASTINGS of Washington. Madam Speaker, I yield myself such time 
+as I may consume.
+  Madam Speaker, I want to thank the gentleman from California (Mr. 
+Cardoza) for yielding me the customary 30 minutes.
+  Madam Speaker, it is vital that the United States continue to grow 
+more globally competitive in the areas of scientific research and 
+technology. Federal and private investment in supporting research and 
+development is essential to the health of our economy and our 
+competitiveness as a Nation. We must plan for the future by investing 
+in areas of basic research and science today.
+  The underlying bill, H.R. 363, reaffirms our Federal commitment to 
+increase America's global competitiveness in the areas of science, 
+technology, research and innovation by supporting America's future 
+scientific leaders.
+  The central Washington area that I represent is home to the Pacific 
+Northwest National Lab in Richland, a state-of-the-art research 
+facility. The PNNL hosts a diverse staff of outstanding scientists, 
+engineers and support professionals. Many of these individuals in the 
+past have received the highest levels of recognition for outstanding 
+achievements and discoveries in their field.
+  At this lab, researchers use their expertise in the fields of 
+environmental, radiological, biological and computational sciences to 
+make important contributions to the scientific advancement of our 
+Nation. The development of fuel cell technologies, biomass systems and 
+radiation portal monitors are just a few of the areas where lab 
+researchers are leading efforts to solve our national security and 
+energy security challenges.
+  I am pleased that this legislation includes efforts to help encourage 
+collaborations between scientists and national labs. Specifically, this 
+legislation allows the National Science Foundation grants to be used in 
+collaboration with our national labs, which means more researchers at 
+our labs will be eligible for Federal support.
+  Madam Speaker, the underlying legislation enjoys strong bipartisan 
+support, and this rule makes in order all amendments that were 
+submitted to the Committee on Rules. However, Madam Speaker, I question 
+the need once again for a structured rule when an open rule could have 
+been granted for consideration of this bill.
+  Accordingly, I urge my colleagues to oppose the rule.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. CARDOZA. Mr. Speaker, before I turn it over and yield to my 
+colleague from Texas, I just want to respond to the gentleman and say, 
+on an ongoing basis, we have heard the same drumbeat that we are 
+somehow trampling on the rights of the minority. It is true that this 
+is a structured rule, but it is also true, as it was with the last 
+bill, that every amendment that has been offered has been granted. 
+Certainly that is in the spirit of collegiality and cooperation that 
+this House deserves. We have gone far beyond what is required. This is 
+not an open rule, but certainly we have done more open rules in this 
+committee than was done in the past Congress already in the first few 
+months. We are doing everything we can to accommodate the minority in 
+both spirit and practice.
+  So I say to my colleague, my good friend from the State of 
+Washington, that he has had the opportunity, every Member, I have heard 
+no one who is clamoring for an amendment to this bill. In fact, all 
+three amendments that were offered to the committee were, in fact, 
+granted, and it seems to me that we are offering cooperation on a 
+silver platter. We just need our colleagues to say ``yes'' and agree 
+that we have done that.
+  Mr. HASTINGS of Washington. Mr. Speaker, will the gentleman yield?
+  Mr. CARDOZA. I yield to the gentleman from Washington.
+  Mr. HASTINGS of Washington. Mr. Speaker, I appreciate the gentleman 
+yielding, and I appreciate his acknowledgment that this is a structured 
+rule and, therefore, Members cannot come down to the floor and ask for 
+amendments to be made in order.
+  But I just want to make this point, and we talk about it a lot in the 
+Rules Committee. A lot of these bills have strong bipartisan support, 
+and, yes, there may or may not be Members that are clamoring for 
+amendments. But it would just seem to me to keep the process in a way 
+where all Members, if they desire, should have an opportunity to come 
+down because maybe something was said in debate, maybe a point that was 
+made that was overlooked, to at least have the opportunity to change. 
+When bills have strong bipartisan support, that is probably the best 
+time to have an open rule.
+  I respectfully tell my friend that there has been a change in 
+definition of what open rules are. We could probably discuss that 
+further because you have not had the open rules that we have had based 
+on everybody having an opportunity.
+  I would just simply say that bills like this, if you are going to 
+have them on the floor under the regular order of a rule, then it 
+should be an open rule. Otherwise, it seems to me that it should be on 
+a Suspension Calendar, like we pass so many pieces of our legislation.
+
+                              {time}  1400
+
+  That is just simply the point I am making. I appreciate the gentleman 
+yielding.
+  Mr. CARDOZA. Reclaiming my time, I acknowledge this is not an open 
+rule, this is a structured rule. That is what we put forward. In the 12 
+or 14 years that the current minority was in power, we saw a declining, 
+ever-declining number of what he considers an open rule.
+  As I said before, we granted every amendment that came forward in the 
+last two bills. Certainly that is in the spirit of cooperation that we 
+bring this legislation to the House floor.
+  Mr. Speaker, I yield 1\1/2\ minutes to the gentlewoman from Texas 
+(Ms. Eddie Bernice Johnson), a member of the Science Committee.
+  Ms. EDDIE BERNICE JOHNSON of Texas. Let me proceed to thank my 
+colleagues for bringing this rule to the House so that we can rise 
+above the gathering storm.
+  Mr. Speaker, this is not to insult anyone. I know what it feels like 
+not to be given the opportunity to offer an amendment, I truly do.
+  But this is a well-substantiated reason because we are in a crisis in 
+this Nation, and we must rise to the occasion. We are moving backwards 
+right now, or standing still. The measure is an investment in America's 
+future, and we must move it.
+  We must support our American scholars so that we can get the 
+leadership and the thoughts we need to convey to other young people. 
+Our young scholars are not getting the support they need now. They 
+really need more, because they are the future.
+  The alternative to this bill is to become a Third World nation with 
+all the low-paying jobs, because all of the other ones will leave this 
+country to go where the talent is. We must move fast.
+  We are in a crisis, and I would hope that we would accept this rule 
+as it is.
+  Mr. HASTINGS of Washington. Mr. Speaker, I reserve the balance of my 
+time.
+
+[[Page 9903]]
+
+
+  Mr. CARDOZA. Mr. Speaker, I yield 3 minutes to the gentleman from New 
+York (Mr. Israel), a member of the Appropriations Committee.
+  Mr. ISRAEL. I thank the gentleman for his leadership.
+  Mr. Speaker, not to quibble over a rule, but to get to the heart of 
+this very important legislation, in 1957 the American people were 
+terrorized when Sputnik orbited the Earth, and it looked like the 
+Soviet Union had beat us into outer space. What we did then, in the 
+face of that very grave threat to our national security, was to launch 
+a new generation of engineers and scientists.
+  What we did then was went into our classrooms and nurtured a new 
+generation of people who could engineer, research, develop, manufacture 
+and mobilize. That generation of engineers landed us on the Moon.
+  People say that NASA landed man on the Moon. I have a very high 
+regard for NASA, but NASA didn't land us on the Moon. The Grumman 
+Corporation landed us on the Moon. NASA provided the incentives and the 
+support and acted as a catalyst to help mobilize that generation of 
+engineers that figured out how to get us to the Moon. We won the Cold 
+War with that generation.
+  I believe that today our dependence on foreign oil is just as grave a 
+threat as Sputnik was; just as grave a threat to our security, and my 
+children's security, as the Cold War was. We need to engineer again, to 
+research and develop, to mobilize and motivate and inspire a new 
+generation of engineers who can develop plug-in hybrids and fuel cells, 
+hydrogen fuel cells and batteries and cellulosic ethanol.
+  I was in China just 2 months ago on an energy security congressional 
+delegation. The seventh wealthiest person in China is manufacturing 
+solar panels in China and selling them to Germany; not here, but 
+selling them to Germany.
+  In Brazil, seven out of every 10 cars is running on flex fuel. We 
+beat Germany and Japan in World War II. They are now ahead of us in 
+solar energy.
+  If we could win the Cold War and World War II, if we could defeat 
+Germany and Japan in World War II, we should be able to get ahead of 
+them in solar energy. If Brazil can do it, we can do it. It starts in 
+the classroom. It starts with our schools. It starts with that 
+generation.
+  We can no longer afford to turn our backs on the future. It is time 
+to harness that energy so that generation can provide us with the 
+energy and security we need. It is time to stop borrowing money from 
+China in order to fund our military, to buy oil from the Persian Gulf 
+to fuel our weapons to protect us from China and the Persian Gulf.
+  This is a national security issue, and it's time for us to treat it 
+as that and invest in that next generation of engineers and scientists. 
+That is what this bill does, and that is why I am so proud to support 
+it.
+  Mr. HASTINGS of Washington. Mr. Speaker, I ask my friend from 
+California if he has any more requests for time.
+  Mr. CARDOZA. We have no more requests for time and are prepared to 
+close.
+  Mr. HASTINGS of Washington. Mr. Speaker, I simply want to say this is 
+a very good bill. It's a bill that has been worked on in the past 
+Congress, and, obviously, in this Congress. It has strong bipartisan 
+support, and all of the points that my friend from New York made in his 
+previous remarks, I would like to associate myself with them. We need 
+that.
+  It just seems to me that during their whole process, when you have 
+strong bipartisan support, under the rules of the House, all Members 
+ought to have an opportunity to have some say in legislation as 
+important as this that comes to the floor of the House, and not just 
+those members within the committee of jurisdiction.
+  I am simply pointing that out. It is a promise that was made by the 
+new majority in the last election. I will withhold judgment, obviously, 
+until after this first session is over to see if, in fact, those 
+promises were kept. But as we go along here, seeing structured rules on 
+bills that could very well be on a Suspension Calendar, I just think 
+it's another opportunity missed.
+  Mr. Speaker, I yield back the balance of my time.
+  Mr. CARDOZA. Mr. Speaker, I first want to acknowledge the fantastic 
+remarks of my colleague, Mr. Israel, from the great State of New York.
+  I also want to respond to my colleague in closing, that while we hear 
+continued complaints about the rule process this session, we have 
+granted the vast majority of amendments that have been offered on these 
+last two bills. In fact, I think every amendment that was offered was 
+granted to the minority. There is certainly no shortage of allowing the 
+minority to have input, both in the committee and here on the floor.
+  I just get to the heart of the topic at hand today, and that is, 
+quite simply, we must, we must reinvigorate America's commitment to 
+discovery. Where there is research to be done, we must undertake it. 
+There is opportunity to be pursued. This country has always pursued the 
+opportunities presented. We have been an innovator in the last 225 
+years that we have been in existence, and we must continue to pursue 
+it.
+  When a technological breakthrough lies far away on the horizon, we 
+must seek it and discover it. I urge a ``yes'' vote on the rule and on 
+the previous question.
+  Mr. Speaker, I yield back the balance of my time, and I move the 
+previous question on the resolution.
+  The previous question was ordered.
+  The SPEAKER pro tempore (Mr. Salazar). The question is on the 
+resolution.
+  The question was taken; and the Speaker pro tempore announced that 
+the noes appeared to have it.
+  Mr. CARDOZA. Mr. Speaker, on that I demand the yeas and nays.
+  The yeas and nays were ordered.
+  The SPEAKER pro tempore. Pursuant to clause 8 of rule XX, further 
+proceedings on this question will be postponed.
+
+                          ____________________
+```
