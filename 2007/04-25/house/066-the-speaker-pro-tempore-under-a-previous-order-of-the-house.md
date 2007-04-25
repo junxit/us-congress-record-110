@@ -1,0 +1,21 @@
+---
+granule: CREC-2007-04-25-pt1-PgH4159-4
+date: 2007-04-25
+edition: CREC
+section: HOUSE
+page: H4159
+citation: 153 Cong. Rec. H4159
+---
+
+# The SPEAKER pro tempore. Under a previous order of the House, the gentleman from Texas (Mr. Poe) is recognized for 5 minutes.
+
+```
+                              {time}  2145
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from Texas (Mr. Poe) is recognized for 5 minutes.
+  (Mr. POE addressed the House. His remarks will appear hereafter in 
+the Extensions of Remarks.)
+
+                          ____________________
+```

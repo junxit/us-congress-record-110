@@ -1,0 +1,63 @@
+---
+granule: CREC-2007-04-25-pt1-PgS5072-2
+date: 2007-04-25
+edition: CREC
+section: SENATE
+page: S5072
+citation: 153 Cong. Rec. S5072
+---
+
+# JACK HICKMAN'S RETIREMENT
+
+**Speaking:** Reid, Harry (R000146) [D-NV]
+
+```
+                       JACK HICKMAN'S RETIREMENT
+
+  Mr. REID. Mr. President, prior to this job as Democratic leader, I 
+basically lived on the floor for 6 years. I was here from the time the 
+Senate came into session until we went out every day. During that 
+period of time, I got to know staff up here very well because I 
+basically lived with them.
+  One of the people whom I certainly have gotten to know over that 
+period of time is a man by the name of Jack Hickman. Since 1996, Jack 
+has worked in the Senate Document Room, has been the executive 
+communications clerk, and is now the morning business editor. When he 
+is here, he sits at the table right in front of me.
+  Jack is physically a giant of a man, very big. He has a wonderful 
+sense of humor and is very easy to get along with. He loves his alma 
+mater, the University of Wisconsin. One of his sad times was when UNLV 
+beat them once, which was unexpected in a lot of quarters. He follows 
+Wisconsin basketball and all of their sports teams very closely.
+  Jack has two sons, Paul and Brian. His wife's name is Margaret, and 
+he brags about her all the time.
+  I want the Record to be spread with the fact that it has been an 
+enjoyable experience for me to be able to work with someone of Jack's 
+caliber, to be able to joke with him and make fun of each other in a 
+respectful way on some of our idiosyncracies.
+  Jack Hickman is going to retire. Tomorrow is his last day here. He 
+and his wife had purchased a place in Florida some time ago. He has 
+been going down there on vacation in our off times. Now he will live 
+there full time.
+  Jack does, as do all of the Senate personnel, invaluable work for us. 
+He makes sure what we say goes in the right place in the Record. He 
+works with the court reporters and the rest of the staff. His work, 
+even though it is not very noteworthy to the public, is essential to 
+the Senate functioning properly.
+  I will really miss Jack a lot. He is someone with whom I have a real 
+strong comfort level. I look forward, in the years to come, to being 
+able to visit with him again and talk about some of the times we have 
+had. We have spent many hours together on the Senate floor. During 
+those years, I didn't control what we did; I was just here on the 
+floor. We waited for long periods of time for the leader--whether it 
+was a Democratic or Republican leader--to come and take us out at the 
+end of the day. We complained to each other, saying, ``I wonder what 
+they are doing.'' Well, since I got this job, I have a better picture 
+of that. Even though it appears there is nothing going on out here, a 
+lot of times, in the respective leaders' offices, a lot is going on.
+  Mr. President, I speak about Jack, but in the process I speak of all 
+these people who do so much for us and make us look good.
+  I wish Jack good luck in his retirement.
+
+                          ____________________
+```

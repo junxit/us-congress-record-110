@@ -1,0 +1,53 @@
+---
+granule: CREC-2007-04-25-pt1-PgS5013-6
+date: 2007-04-25
+edition: CREC
+section: SENATE
+page: S5013
+citation: 153 Cong. Rec. S5013
+---
+
+# SCHEDULE
+
+**Speaking:** Reid, Harry (R000146) [D-NV]
+
+**Measures:** S. 761
+
+```
+                                SCHEDULE
+
+  Mr. REID. Mr. President, this morning there will be an hour of 
+morning business, with the first half controlled by the majority and 
+the second half controlled by the Republicans. Following morning 
+business, we will resume consideration of S. 761. Under an agreement 
+entered last night, once we get back on the bill, there will be 30 
+minutes of debate with respect to the Sununu amendment, which is 
+numbered 938, which strikes a section of the bill seeking to strengthen 
+science, technology, engineering, and mathematics education at all 
+school levels. We expect the amendment will be voted on at a little 
+after 11 this morning. My understanding is once we dispose of the 
+Sununu amendment, then the Sanders amendment remains pending.
+  Mr. President, let me say to everyone, I have not had the opportunity 
+to speak to the Republican leader today, but it would be my intention 
+that we would be in recess from 4 until 5:30 for the briefings by 
+General Petraeus, General Pace, and others up in room 407. But it would 
+be my intention to finish this bill after that.
+  It is my understanding there are some Coburn amendments--he has three 
+of them--and we would like to get votes scheduled on those. If there 
+are other amendments, let's bring them forward. But we will not get the 
+bill from the House on the supplemental until tonight, anyway. We are 
+not going to be able to do anything on it tonight. I think it would be 
+a good step forward if we can finish this bill tonight. That means we 
+would work on it until late in the evening and finish this bill. That 
+is my intention. I hope there are no efforts to delay this bill. If, in 
+fact, that is the case, as I have said before, we would just back off 
+the bill. If we cannot pass, on a bipartisan basis, legislation that 
+has more than 50 cosponsors, I think it is not a good day for us. We 
+should be able to show the American people there are some things we can 
+do on a bipartisan basis.
+  I remind all Members that there will be a briefing today, as I have 
+indicated, in 407 beginning at 4 p.m.
+  I yield the floor.
+
+                          ____________________
+```

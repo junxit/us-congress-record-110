@@ -1,0 +1,40 @@
+---
+granule: CREC-2007-04-25-pt1-PgH4057-2
+date: 2007-04-25
+edition: CREC
+section: HOUSE
+page: H4057
+citation: 153 Cong. Rec. H4057
+---
+
+# DEMOCRATS WILL NOT LET THIS WAR GO ON INDEFINITELY
+
+**Speaking:** Johnson, Henry C. "Hank" (J000288) [D-GA]
+
+```
+           DEMOCRATS WILL NOT LET THIS WAR GO ON INDEFINITELY
+
+  (Mr. JOHNSON of Georgia asked and was given permission to address the 
+House for 1 minute.)
+  Mr. JOHNSON of Georgia. Madam Speaker, the emergency supplemental 
+conference report that will come before this House today does three 
+crucial things. One, it supports our military men and women; two, it 
+sets benchmarks for the Iraqis to meet; and, three, it makes clear that 
+the war will not continue indefinitely.
+  Unfortunately, after 4 years, thousands of lives lost, and billions 
+of dollars spent, the President continues to demand an open-ended 
+commitment to our American troops being deployed on the streets of 
+Iraq. President Bush says he will veto the emergency supplemental, 
+ignoring the views of this Congress, the American people, former 
+military generals and the nonpartisan Iraq Study Group.
+  While he delays signing this bill, the President continues to claim 
+that the resources for American troops will begin to run out later this 
+month. However, the fact is that the Congressional Research Service 
+confirms resources will be available well into the summer.
+  The New York Times notes this week that the real obstacle to getting 
+the money promptly to the troops would be the veto of the President.
+  The President should support this important legislation which sends a 
+message that this war is not going on indefinitely.
+
+                          ____________________
+```
