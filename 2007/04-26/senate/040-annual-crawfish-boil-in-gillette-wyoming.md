@@ -1,0 +1,59 @@
+---
+granule: CRECB-2007-pt7-Pg10505
+date: 2007-04-26
+edition: CRECB
+section: SENATE
+page: 10505
+---
+
+# ANNUAL CRAWFISH BOIL IN GILLETTE, WYOMING
+
+```
+               ANNUAL CRAWFISH BOIL IN GILLETTE, WYOMING
+
+  Mr. ENZI. Mr. President, I would like to speak about community 
+spirit. In the Senate, we work day in and day out to pass good policy 
+that will provide for the safety, security, and health of the Nation, 
+but we are not alone in our effort to make our country better. In fact, 
+we are but a small part. There are great events taking place every day 
+in our country that are examples of neighbor helping neighbor, people 
+who do not wait and do not ask for help but take it upon themselves to 
+act. I would like to tell you about one such example that has been 
+going on for years in Wyoming right in the small community I call home.
+  When people think about my hometown of Gillette, WY, many images come 
+to mind--sagebrush as far as the eye can see, coal trucks, and cattle 
+herds. We have deer, antelope, and some buffalo in the neighboring 
+community of Wright. Our kids are great basketball players, and we work 
+hard to get the methane gas and minerals that power this country. The 
+list goes on. But after living in Gillette for more than three decades, 
+what stands out about home are the people themselves, their character, 
+their sense of community, and how they come together to help each 
+other. And then there is the crawfish. Yes, I said crawfish.
+  This week, Gillette will be kicking off a 24-year tradition of flying 
+in 10,000 pounds of crawfish for the annual Crawfish Boil. The event 
+raises money for local families with medical hardships and was started 
+in 1983 by the Society of Petroleum Engineers. The event raised 
+$117,000 last year to help people get medical treatment. This weekend 
+we hope to top that number.
+  Wyoming may be small in population, but our families know how to help 
+each other out more than any other State in the Nation. Wyomingites do 
+not just rely on government for help--they talk to neighbors, they come 
+up with a good idea, they organize, and they follow through. The 
+crawfish feed is an example for the Nation on how to pull yourself and 
+your neighbor up by the bootstraps and have fun doing it.
+  Gillette not only raised $117,000 at last year's Crawfish Boil, the 
+Festival
+
+[[Page 10506]]
+
+of Trees raised $51,500 for hospice and lifeline services, the Chili 
+Cook-Off raised $28,800 for the Council of Community Services, the 
+Black Cat Ball raised $26,000 for the Hospice Hospitality House, the 
+Chuckles for Charity event raised $24,000 for the Gillette Area Refuge, 
+and the Rotary Ball raised $40,000 for education and other programs in 
+Gillette. Mr. President, $287,000 in 1 year, in one community with 
+roughly 25,000 residents. I could not think of a better place to call 
+home.
+
+                          ____________________
+```

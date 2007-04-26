@@ -1,0 +1,582 @@
+---
+granule: CRECB-2007-pt7-Pg10484
+date: 2007-04-26
+edition: CRECB
+section: SENATE
+page: 10484
+---
+
+# HONORING OUR ARMED FORCES
+
+```
+                       HONORING OUR ARMED FORCES
+
+
+                       sergeant joseph m. tackett
+
+  Mr. McCONNELL. Mr. President, I ask the Senate to pause for a moment 
+today in loving memory and honor of Sgt. Joseph M. Tackett of 
+Whitehouse, KY. Sergeant Tackett was tragically killed on June 23, 
+2005, in Baghdad while serving his country in the U.S. Army. He was 22 
+years old, and the recipient of numerous awards including the Bronze 
+Star.
+  Not long after Sergeant Tackett's death, his body returned home to 
+Johnson County, KY, and family, neighbors and friends came to pay their 
+respects at his flag-draped casket in the Johnson County Middle School 
+gymnasium. Even the kindergarten students at his old elementary school 
+to whom he wrote letters remembered him that day as a friend and a 
+hero.
+  Joe ``was just very excited and enthusiastic about protecting a 
+country he loved,'' says Nellie Bowen, Joe's third-grade teacher. ``He 
+had a pride in our country that we sometimes miss.''
+  It was Ms. Bowen's class of kindergartners that Sergeant Tackett 
+wrote to, becoming their overseas pen pal even while serving in Iraq. 
+He replied to every letter they sent him, and even came to the school 
+to speak to the children after his first tour of duty.
+  Mr. President, when you know this about Sergeant Tackett, you can see 
+why so many in Johnson County turned out to support the Tackett family 
+after the loss of their brother and son.
+  That Sergeant Tackett excelled in the Army is no surprise. He 
+embraced his duty to serve with the same vigor and passion he displayed 
+for so many activities in his short but full life.
+  ``He looked at everything with enthusiasm,'' Joe's mother, Kathy 
+Tackett, tells us. ``He was so looking forward to the future, [and] he 
+was always planning for the future.''
+  As a child, Joe turned this infectious enthusiasm to many activities, 
+including music. He was the singer for a Christian band and also a 
+budding entrepreneur.
+  High-profile musicians didn't often include Whitehouse on their 
+tours. But Joe filled the gap by producing rock concerts locally, 
+showcasing local bands.
+  His love for music persisted to his time in Iraq. While there, he 
+befriended Iraqi college students and introduced them to American rock 
+music. Joe
+
+[[Page 10485]]
+
+made friends so easily this way, he even exchanged emails with Iraqis 
+while back home in Kentucky between tours.
+  Joe graduated from Johnson Central High School in 2000 and even then 
+held dreams of one day becoming a soldier. He attended Big Sandy 
+Community and Technical College, and then the terrorist attacks of 9/11 
+happened. Joe enlisted a month later.
+  He was assigned to the 1st Battalion, 76th Field Artillery, 4th 
+Brigade Combat Team of the Third Infantry Division based at Fort 
+Stewart, GA. He saw the Army as a way to learn new things and gain new 
+experiences, and he devoured each new experience with excitement.
+  Sent to Iraq and Afghanistan for his first tour of duty, Joe learned 
+new skills and new proficiencies. He took online classes while serving 
+in Iraq to get his college degree. He took any training that became 
+available and was always open to opportunities for self-improvement.
+  ``Joe wanted to travel . . . he was curious about other countries, 
+other lands,'' Kathy Tackett says. Joe called his mother once from the 
+Middle East telling her he was standing in a mosque. ``There's not many 
+people who have ever done this, Mom,'' she remembers him saying with 
+pride.
+  Sergeant Tackett was deployed a second time in January 2005. His 
+assignment was to escort visiting dignitaries through the heavily 
+fortified Green Zone in Baghdad. Even while undertaking this important 
+mission, he still found time to write e-mails to his family back home. 
+``He was interested in so many things,'' Kathy Tackett recalls. ``I 
+can't imagine the person that he would have become, if he would've had 
+more years.''
+  Sergeant Tackett's families may never know the answer to that 
+question. But I think we know Joe would have tackled anything he did 
+with energy and with enthusiasm, as he did throughout his life.
+  Sergeant Tackett leaves behind a loving family. He is loved and 
+remembered by his mother, Kathy, his father, Wendell, his brother, Sam, 
+his sister, Michelle Spencer, his nieces Hailey Tackett and Shawna 
+Spencer, and other beloved family members.
+  Mr. President, no words we can say today will ease the pain of the 
+Tackett family. I know they are still searching for answers. But I hope 
+the reverence and respect this Senate shows Sergeant Tackett will 
+remind them that he lived and served as a hero, and his country will 
+forever honor and remember his sacrifice.
+  I ask my colleagues to keep the family of SGT Joseph M. Tackett in 
+their thoughts and prayers. I know they will be in mine.
+
+
+                      1st Lieutenant Shaun M. Blue
+
+  Mr. BAYH. Mr. President, it is with a heavy heart and deep sense of 
+gratitude that I honor the life of a brave young man from Munster. 
+Shaun Blue, 25 years old, died on April 16 while deployed in Al Anbar 
+Province on Operation Iraqi Freedom. With his entire life before him, 
+Shaun risked everything to fight for the values Americans hold close to 
+our hearts, in a land halfway around the world.
+  Shaun was a lifelong Hoosier, graduating among the top 10 students of 
+his class from Munster High School in 2000. He joined the military 
+because, as his high school principal said, ``He was one of those kids 
+who did things everyone else was afraid to do.'' His valor over the 
+course of his service in Iraq exemplifies Hoosier values and courage. 
+His track and field coach at Munster High described Shaun as a mentally 
+tough kid saying, ``The fact that he chose the career path that he did 
+didn't surprise me. It was perfectly suited for him.''
+  Shaun was killed by an improvised explosive device while serving his 
+country in Operation Iraqi Freedom. He was a member of the 2nd 
+Battalion, 7th Marine Regiment, 1st Marine Division, I Marine 
+Expeditionary Force, based in Twenty-nine Palms, CA.
+  Today, I join Shaun's family and friends in mourning his death. While 
+we struggle to bear our sorrow over this loss, we can also take pride 
+in the example he set, bravely fighting to make the world a safer 
+place. It is his courage and strength of character that people will 
+remember when they think of Shaun, a memory that will burn brightly 
+during these continuing days of conflict and grief.
+  Shaun was known for his dedication to his community and his love of 
+country. Today and always, Shaun will be remembered by family members, 
+friends, and fellow Hoosiers as a true American hero, and we honor the 
+sacrifice he made while dutifully serving his country.
+  As I search for words to do justice in honoring Shaun's sacrifice, I 
+am reminded of President Lincoln's remarks as he addressed the families 
+of the fallen soldiers in Gettysburg:
+
+       We cannot dedicate, we cannot consecrate, we cannot hallow 
+     this ground. The brave men, living and dead, who struggled 
+     here, have consecrated it, far above our poor power to add or 
+     detract. The world will little note nor long remember what we 
+     say here, but it can never forget what they did here. This 
+     statement is just as true today as it was nearly 150 years 
+     ago, as I am certain that the impact of Shaun's actions will 
+     live on far longer that any record of these words.
+  It is my sad duty to enter the name of Shaun M. Blue in the official 
+Record of the Senate for his service to this country and for his 
+profound commitment to freedom, democracy, and peace. When I think 
+about this just cause in which we are engaged and the unfortunate pain 
+that comes with the loss of our heroes, I hope that families like 
+Shaun's can find comfort in the words of the prophet Isaiah who said, 
+``He will swallow up death in victory; and the Lord God will wipe away 
+tears from off all faces.''
+  May God grant strength and peace to those who mourn, and may God be 
+with all of you, as I know He is with Shaun.
+
+
+                 Private First Class David Neil Simmons
+
+  Mr. President, it is with a heavy heart and deep sense of gratitude 
+that I honor the life of a brave young man from Kokomo. Neil Simmons, 
+20 years old, was killed on April 8th while deployed in Baghdad, when 
+his convoy encountered an improvised explosive device and insurgent 
+fire. He had been in Iraq for less than 2 weeks. With his entire life 
+before him, Neil risked everything to fight for the values Americans 
+hold close to our hearts, in a land halfway around the world.
+  Neil attended Kokomo's Northwestern High School and followed the 
+example set by his father and uncle by enlisting in the Army a few 
+months before graduating in 2005. He enjoyed the structure of the 
+military and felt a sense of duty to serve his community and country. 
+His father described Neil as ``an avid outdoorsman who was happy and 
+always had plenty of friends.''
+  Neil was killed while serving his country in Operation Iraqi Freedom. 
+He was a member of the 2nd Battalion, 69th Armor Regiment, 3rd Brigade 
+Combat Team, 3rd Infantry Division, in Fort Benning, GA. Neil's father 
+reflected on his son's death, asking, ``What's the odds of, among 
+160,000 troops your only child is there 1 week and gets killed?'' 
+Private First Class Simmons leaves behind his father, David, and uncle, 
+Jim Simmons.
+  Today, I join Neil's family and friends in mourning his death. While 
+we struggle to bear our sorrow over this loss, we can also take pride 
+in the example he set, bravely fighting to make the world a safer 
+place. It is his courage and strength of character that people will 
+remember when they think of Neil, a memory that will burn brightly 
+during these continuing days of conflict and grief.
+  Neil was known for his dedication to his family and his love of 
+country. Today and always, Neil will be remembered by family members, 
+friends, and fellow Hoosiers as a true American hero, and we honor the 
+sacrifice he made while dutifully serving his country.
+  As I search for words to do justice in honoring Neil's sacrifice, I 
+am reminded of President Lincoln's remarks as he addressed the families 
+of the fallen soldiers in Gettysburg:
+
+       We cannot dedicate, we cannot consecrate, we cannot hallow 
+     this ground. The brave men, living and dead, who struggled 
+     here, have consecrated it, far above our poor power to add or 
+     detract. The world will little note nor long remember what we 
+     say here, but it can never forget what they did here.
+
+  This statement is just as true today as it was nearly 150 years ago, 
+as I am
+
+[[Page 10486]]
+
+certain that the impact of Neil's actions will live on far longer that 
+any record of these words.
+  It is my sad duty to enter the name of David Neil Simmons in the 
+official Record of the United States Senate for his service to this 
+country and for his profound commitment to freedom, democracy, and 
+peace. When I think about this just cause in which we are engaged, and 
+the unfortunate pain that comes with the loss of our heroes, I hope 
+families like Neil's can find comfort in the words of the prophet 
+Isaiah who said, ``He will swallow up death in victory; and the Lord 
+God will wipe away tears from off all faces.''
+  May God grant strength and peace to those who mourn, and may God be 
+with all of you, as I know He is with Neil.
+
+
+                      Specialist Jason J. Beadles
+
+  Mr. President, it is with a heavy heart and deep sense of gratitude 
+that I honor the life of a brave young man from La Porte. Jason 
+Beadles, 22 years old, died on April 11th while deployed in Baghdad on 
+Operation Iraqi Freedom. With his entire life before him, Jason risked 
+everything to fight for the values Americans hold close to our hearts, 
+in a land halfway around the world.
+  Jason has been a lifelong Hoosier, graduating from La Porte High 
+School in 2003. He had been interested in technical engineering 
+throughout high school, earning his welding certificate from A.K. Smith 
+Career Center before graduating. Army Specialist Beadles enlisted in 
+the Army as an engineer after the attacks of 9/11. His valor over the 
+course of his service in Iraq exemplifies Hoosier values and courage. 
+He decided to enlist because as his welding instructor put it, ``he was 
+always concerned about other people.'' Jason enjoyed the military, and 
+he believed that throughout all the hardships they faced he and his 
+company were helping the Iraqi people.
+  Jason died while serving his country in Operation Iraqi Freedom. He 
+was a member of the 887th Engineer Company, 326th Engineer Battalion, 
+101st Airborne Division (Air Assault), in Fort Campbell, KY.
+  Today, I join Jason's family and friends in mourning his death. While 
+we struggle to bear our sorrow over this loss, we can also take pride 
+in the example he set, bravely fighting to make the world a safer 
+place. It is his courage and strength of character that people will 
+remember when they think of Jason, a memory that will burn brightly 
+during these continuing days of conflict and grief.
+  Jason was known for his dedication to his community and his love of 
+country. Today and always, Jason will be remembered by family members, 
+friends, and fellow Hoosiers as a true American hero, and we honor the 
+sacrifice he made while dutifully serving his country.
+  As I search for words to do justice in honoring Jason's sacrifice, I 
+am reminded of President Lincoln's remarks as he addressed the families 
+of the fallen soldiers in Gettysburg:
+
+       We cannot dedicate, we cannot consecrate, we cannot hallow 
+     this ground. The brave men, living and dead, who struggled 
+     here, have consecrated it, far above our poor power to add or 
+     detract. The world will little note nor long remember what we 
+     say here, but it can never forget what they did here.
+
+  This statement is just as true today as it was nearly 150 years ago, 
+as I am certain that the impact of Jason's actions will live on far 
+longer that any record of these words.
+  It is my sad duty to enter the name of Jason J. Beadle in the 
+official record of the United States Senate for his service to this 
+country and for his profound commitment to freedom, democracy, and 
+peace. When I think about this just cause in which we are engaged, and 
+the unfortunate pain that comes with the loss of our heroes, I hope 
+families like Jason's can find comfort in the words of the prophet 
+Isaiah who said, ``He will swallow up death in victory; and the Lord 
+God will wipe away tears from off all faces.''
+  May God grant strength and peace to those who mourn, and may God be 
+with all of you, as I know He is with Jason.
+
+
+              Private First Class Richard P. Langenbrunner
+
+  Mr. President, it is with a heavy heart and deep sense of gratitude 
+that I honor the life of a brave young man from Fort Wayne. Richard 
+Langenbrunner, 19 years old, was killed on April 17 while deployed in 
+Rustamiyah, Iraq. With his entire life before him, Richard risked 
+everything to fight for the values Americans hold close to our hearts, 
+in a land halfway around the world.
+  Richard was a lifelong Hoosier, graduating from Northrop High School 
+in 2006. He completed basic training this past January and was deployed 
+just a few weeks later. He is remembered for his love of people, life, 
+and adventure. ``He was so happy and excited about his future before he 
+graduated,'' said a former classmate. ``He joined the military because 
+he wanted to drive a tanker.'' Richard enlisted in the Army just before 
+graduating high school. His valor over the course of his service in 
+Iraq exemplifies Hoosier values and courage.
+  Richard died while serving his country in Operation Iraqi Freedom. He 
+was a member of the 2nd Battalion, 69th Armor Regiment, 3rd Brigade, 
+3rd Infantry Division, stationed in Fort Benning, Georgia.
+  Today, I join Richard's family and friends in mourning his death. 
+While we struggle to bear our sorrow over this loss, we can also take 
+pride in the example he set, bravely fighting to make the world a safer 
+place. It is his courage and strength of character that people will 
+remember when they think of Richard, a memory that will burn brightly 
+during these continuing days of conflict and grief.
+  Richard was known for his dedication to his community and his love of 
+country. Today and always, Richard will be remembered by family 
+members, friends and fellow Hoosiers as a true American hero, and we 
+honor the sacrifice he made while dutifully serving his country.
+  As I search for words to do justice in honoring Richard's sacrifice, 
+I am reminded of President Lincoln's remarks as he addressed the 
+families of the fallen soldiers in Gettysburg:
+
+       We cannot dedicate, we cannot consecrate, we cannot hallow 
+     this ground. The brave men, living and dead, who struggled 
+     here, have consecrated it, far above our poor power to add or 
+     detract. The world will little note nor long remember what we 
+     say here, but it can never forget what they did here.
+
+  This statement is just as true today as it was nearly 150 years ago, 
+as I am certain that the impact of Richard's actions will live on far 
+longer than any record of these words.
+  It is my sad duty to enter the name of Richard P. Langenbrunner in 
+the official Record of the Senate for his service to this country and 
+for his profound commitment to freedom, democracy, and peace. When I 
+think about this just cause in which we are engaged and the unfortunate 
+pain that comes with the loss of our heroes, I hope that families like 
+Richard's can find comfort in the words of the prophet Isaiah who said, 
+``He will swallow up death in victory; and the Lord God will wipe away 
+tears from off all faces.''
+  May God grant strength and peace to those who mourn, and may God be 
+with all of you, as I know He is with Richard.
+
+
+                     Staff Sergeant Bradley D. King
+
+  Mr. President, it is with a heavy heart and deep sense of gratitude 
+that I honor the life of a brave young man from Gas City. Bradley King, 
+28 years old, was killed on April 2 while deployed in Al Amiriyah, 
+Iraq, when a roadside bomb exploded near his Humvee. With his entire 
+life before him, Bradley risked everything to fight for the values 
+Americans hold close to our hearts, in a land halfway around the world.
+  Bradley attended Mississinewa High School, enlisting in the National 
+Guard in 1997, a year before his graduation in 1998. Bradley enjoyed 
+the military and felt a sense of duty to serve his community and 
+country. The day before he was deployed, Bradley told his mother that 
+he felt ``called to serve in the military for his country.'' His aunt 
+described Bradley as ``a responsible young man determined to do his 
+best for the people he loved.''
+  Bradley was killed while serving his country in Operation Iraqi 
+Freedom. He was a member of the 2nd Battalion,
+
+[[Page 10487]]
+
+152nd Infantry Regiment, 76th Infantry Brigade, Marion, IN. Master 
+Sergeant Bill Wallen, King's supervisor, told local media, ``he was a 
+heck of a human being, he's what everybody else needs to be in this 
+world.'' Staff Sergeant King leaves behind his wife Adrian and 15-
+month-old son, Daethan.
+  Today, I join Bradley's family and friends in mourning his death. 
+While we struggle to bear our sorrow over this loss, we can also take 
+pride in the example he set, bravely fighting to make the world a safer 
+place. It is his courage and strength of character that people will 
+remember when they think of Bradley, a memory that will burn brightly 
+during these continuing days of conflict and grief.
+  Bradley was known for his dedication to his family and his love of 
+country. Today and always, Bradley will be remembered by family 
+members, friends and fellow Hoosiers as a true American hero, and we 
+honor the sacrifice he made while dutifully serving his country.
+  As I search for words to do justice in honoring Bradley's sacrifice, 
+I am reminded of President Lincoln's remarks as he addressed the 
+families of the fallen soldiers in Gettysburg:
+
+       We cannot dedicate, we cannot consecrate, we cannot hallow 
+     this ground. The brave men, living and dead, who struggled 
+     here, have consecrated it, far above our poor power to add or 
+     detract. The world will little note nor long remember what we 
+     say here, but it can never forget what they did here.
+
+  This statement is just as true today as it was nearly 150 years ago, 
+as I am certain that the impact of Bradley's actions will live on far 
+longer than any record of these words.
+  It is my sad duty to enter the name of Bradley D. King in the 
+official Record of the Senate for his service to this country and for 
+his profound commitment to freedom, democracy and peace. When I think 
+about this just cause in which we are engaged, and the unfortunate pain 
+that comes with the loss of our heroes, I hope that families like 
+Bradley's can find comfort in the words of the prophet Isaiah who said, 
+``He will swallow up death in victory; and the Lord God will wipe away 
+tears from off all faces.''
+  May God grant strength and peace to those who mourn, and may God be 
+with all of you, as I know He is with Bradley.
+
+
+                       Specialist Cody A. Putman
+
+  Mr. President, it is with a heavy heart and deep sense of gratitude 
+that I honor the life of a brave young man from Lafayette. Cody Putman, 
+22 years old, was killed on April 11th while deployed in Baghdad on 
+Operation Iraqi Freedom. With his entire life before him, Cody risked 
+everything to fight for the values Americans hold close to our hearts, 
+in a land halfway around the world.
+  Cody was a lifelong Hoosier, graduating from Twin Lakes High School 
+in 2003. He is remembered for his love of people, life, and adventure. 
+``He was someone who was always looking to have a good time with 
+others,'' said a former teacher. ``He joined the military because of 
+the teamwork.'' Cody enlisted in the Army after high school, and his 
+valor over the course of his service in Iraq exemplifies Hoosier values 
+and courage. A month before he died, Cody had been home on leave for 2 
+weeks vacationing with his family in Florida. Cody is survived by his 
+father, Harry Putman, and his mother, Pam Mow. He also leaves behind 
+his wife, Molly Putman, 20, and 3-year-old daughter Madelyn.
+  Cody died while serving his country in Operation Iraqi Freedom. He 
+was a member of the 1st Squadron, 40th Cavalry Regiment, 4th Brigade 
+Combat Team, 25th Infantry Division, based in Fort Richardson, AK.
+  Today, I join Cody's family and friends in mourning his death. While 
+we struggle to bear our sorrow over this loss, we can also take pride 
+in the example he set, bravely fighting to make the world a safer 
+place. It is his courage and strength of character that people will 
+remember when they think of Cody, a memory that will burn brightly 
+during these continuing days of conflict and grief.
+  Cody was known for his dedication to his community and his love of 
+country. Today and always, Cody will be remembered by family members, 
+friends, and fellow Hoosiers as a true American hero, and we honor the 
+sacrifice he made while dutifully serving his country.
+  As I search for words to do justice in honoring Cody's sacrifice, I 
+am reminded of President Lincoln's remarks as he addressed the families 
+of the fallen soldiers in Gettysburg:
+
+       We cannot dedicate, we cannot consecrate, we cannot hallow 
+     this ground. The brave men, living and dead, who struggled 
+     here, have consecrated it, far above our poor power to add or 
+     detract. The world will little note nor long remember what we 
+     say here, but it can never forget what they did here.
+
+  This statement is just as true today as it was nearly 150 years ago, 
+as I am certain that the impact of Cody's actions will live on far 
+longer that any record of these words.
+  It is my sad duty to enter the name of Cody A. Putman in the official 
+record of the United States Senate for his service to this country and 
+for his profound commitment to freedom, democracy, and peace. When I 
+think about this just cause in which we are engaged, and the 
+unfortunate pain that comes with the loss of our heroes, I hope 
+families like Cody's can find comfort in the words of the prophet 
+Isaiah who said, ``He will swallow up death in victory; and the Lord 
+God will wipe away tears from off all faces.''
+  May God grant strength and peace to those who mourn, and may God be 
+with all of you, as I know He is with Cody.
+
+
+                       Specialist Eric R. Sieger
+
+  Mr. HATCH. Mr. President, today I wish to pay tribute to SPC Eric R. 
+Sieger of Layton, UT, who died of injuries suffered while conducting 
+operations in Iraq. He was a remarkable young man who overcame much 
+adversity in his life. On March 9 of this year, he would have turned 19 
+years old.
+  Part of the 1st Cavalry Division, Specialist Sieger was also a member 
+of a very special family. I understand that his parents, Wolfgang and 
+Krista, have 15 children, 6 of whom were adopted, including the 
+Specialist. Early life was not easy for the Specialist but that all 
+changed when he was adopted at the age of 11 by the loving Sieger 
+family.
+  I have been informed that Specialist Sieger enjoyed running, being 
+with his friends, building and fixing things. He had a girlfriend whom 
+he met while stationed at Fort Hood, TX. Shortly before his passing, 
+Specialist Sieger was able speak to his mother on the phone. His mother 
+said, ``They spent most of the time laughing and joking with each 
+other.''
+  Specialist Sieger's father said, ``He was dutiful in wanting to do 
+what is right.''
+  Undoubtedly, this led him to become a member of the Civil Air Patrol 
+as a teenager and enlist in the Army at 17. Military service is a 
+calling for other members of the Sieger family, as well. Currently, one 
+of his sisters is also deployed to Iraq, another sister is preparing to 
+deploy, and a brother is a member of the Air National Guard.
+  I would like to conclude my remarks by quoting the words of 
+Specialist Sieger's mother and father. Krista Sieger stated, ``He felt 
+since he was in the Army, since he took the oath, he has to do 
+everything he was asked to do. And he did.'' Wolfgang Sieger said, ``I 
+would call him a hero. He is definitely a hero in my sight. I honor him 
+as a hero.''
+  I do not know of any higher praise that parents could give a son in 
+military service. Specialist Sieger and his family will always be in my 
+prayers.
+
+
+                 Sergeant First Class Douglas C. Stone
+
+  Mr. President, I wish to honor one of Utah's fallen sons, SFC First 
+Class Douglas C. Stone.
+  SFC Stone had a lifelong connection to our Nation's military. His 
+father served in the Air Force. Yet, SFC Douglas Stone joined the Army 
+Reserve later in life. As his mother Dolores Feigley said about her 
+son, ``I think he was the oldest at boot camp.''
+  However, his maturity was only to be an asset to his country, which 
+was affirmed when he became a full-time reservist. Over the past 6 
+years, SFC Douglas Stone assisted in the preparation of reservists from 
+the 96th Regional Readiness Command for deployments in support of 
+Operations Enduring Freedom and Iraqi Freedom. As my good friend, MG 
+Peter S. Cooke, the
+
+[[Page 10488]]
+
+commanding officer of the 96th Regional Readiness Command said about 
+SFC Stone ``There wasn't a unit or individual sent from our 
+headquarters that SFC Stone did not personally assist in preparing for 
+their mobilization or deployment.''
+  This was not the first time SFC Douglas Stone had gone in harm's way 
+for his country. He also was a part of the fuel re-supply effort during 
+the First Gulf War.
+  However, his life's most important work undoubtedly was as a family 
+man. Sergeant First Class Stone was husband to his wife, Mary, and 
+father to two boys Nathan, 13, and Cameron, 10.
+  SFC Douglas Stone was also a member of Fort Douglas's Honor Guard. I 
+understand that Rick Edginton, one of his fellow Honor Guardsmen who 
+participated at his friend's funeral said, ``for me, probably one of 
+the toughest moments was when I was standing at the head of the casket 
+and I looked over to the side and I saw a note from his sister on the 
+flowers that were there. It said, `To Doug, my brother, and my Hero.'''
+  No truer words have been written.
+  SFC Douglas Stone was a hero. He served his country with pride and 
+answered its call when it needed him most. All of Utah shall remember 
+him and will be praying for this hero and his family.
+
+
+                        Sergeant Brandon A. Parr
+
+  Mr. President, today I wish to pay tribute to SGT Brandon A. Parr. 
+Sergeant Parr was a member of the 630th Military Police Company and 
+gave his life with two other servicemembers when their vehicle was 
+struck by an improvised explosive device.
+  There are certain pictures that define a time and a moment in our 
+Nation's history. Such examples can be found in the raising of Old 
+Glory over Mount Suribachi, Iwo Jima. I respectfully submit that a 
+picture taken during Sergeant Parr's funeral should be added to that 
+category. In that photo, Sergeant Parr's wife, Shannah, is seen holding 
+the hand of their young son, Nicholas. Nicholas, standing on some 
+steps, is wearing the camouflage uniform of an American soldier--a 
+young son's tribute to his fallen father. This is an image that I will 
+remember for all my days and a fitting tribute to a true hero.
+  Sergeant Parr enlisted in the Army in 2003, and this was his second 
+tour in Iraq. He was involved in one of the most critical tasks in this 
+war: training Iraqi police and providing security to the Iraqi people. 
+By all accounts, Sergeant Parr preformed these assignments at the 
+highest standards of our Nation's military.
+  Shannah Parr said of her husband, ``He was very laid back and very 
+funny. He made everyone feel good.''
+  His mother, Teota Dangel said, ``I think he would have gone (to Iraq) 
+even if he knew this was going to be the outcome.'' Words like this can 
+only be spoken of a true hero and patriot.
+  Sergeant Parr and his entire family will always be in my prayers.
+
+
+                       Corporal Stephen Kowalczyk
+
+  Mr. President, I wish to pay tribute to CPL Stephen Kowalczyk, a 
+member of the 1st Calvary Division, who recently lost his life while on 
+patrol in Iraq.
+  Upon learning of about his life, I was struck by all the adventures 
+that Corporal Kowalczyk had undertaken. He had been the captain of the 
+swim team at Macalester College, traveled extensively throughout 
+Europe, the Middle East, including working as a handyman in Jerusalem. 
+I understand that he even leapt from an iceberg and swam in the frigid 
+waters of the Arctic Ocean. Clearly, this was a young man that seized 
+all that life had to offer.
+  Three years ago, at the age of 29, he began a new adventure and 
+joined the Army. According to his family he loved it.
+  During a recent memorial service in Iraq, one of his comrades SSG 
+Richard Coombes stated: ``He was a man who taught me that there was 
+still beauty in our everyday life, even in Iraq. I looked at him and 
+wondered if he had already figured life out. He was in such peace and 
+harmony.'' CPT Kevin Bradley would often notice that Corporal Kowalczyk 
+would look from the roof-tops at the area around him. When asked why, 
+he reportedly would reply, ``You should see it up here. It's 
+beautiful.'' Another friend remembered him as ``a gentle, kind soul, I 
+cannot think of anybody who did not love this man.''
+  And yet he never forgot why he was deployed to Iraq--to help the 
+Iraqi people. This commitment was reflected in the letters that he 
+would write home asking for history books that he could give to Iraqis 
+that he met, and pencils, notepads, and Hershey bars for Iraqi 
+children.
+  What a fine man. What an extraordinary life.
+  I will always remember him and his family in my prayers.
+  Mr. President, I yield the floor.
+  The PRESIDING OFFICER (Mr. Nelson of Nebraska). The Senator from 
+Pennsylvania.
+  Mr. CASEY. Mr. President, I ask unanimous consent that following my 
+remarks, Senator Dorgan be recognized to speak.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```
