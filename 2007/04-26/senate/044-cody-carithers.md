@@ -1,0 +1,50 @@
+---
+granule: CREC-2007-04-26-pt1-PgS5181
+date: 2007-04-26
+edition: CREC
+section: SENATE
+page: S5181
+citation: 153 Cong. Rec. S5181
+---
+
+# CODY CARITHERS
+
+**Speaking:** Pryor, Mark L. (P000590) [D-AR]
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+                             CODY CARITHERS
+
+● Mr. PRYOR. Mr. President, it is with the greatest pleasure 
+that I honor and congratulate Cody Carithers who is a senior at 
+Highland High School in Arkansas and will graduate on May 18, 2007. 
+Cody has accomplished an amazing feat--he has never missed a day of 
+school. Since kindergarten at Cherokee Elementary School in Highland 
+until now, never missed a day.
+  This accomplishment has not been easy. Cody was diagnosed with a 
+brain tumor near his optic nerve a little over 2 years ago. This caused 
+frequent headaches and required many trips to Arkansas Children's 
+Hospital in Little Rock. Cody was adamant about maintaining his perfect 
+attendance, and the hospital worked with him to schedule his 
+appointments on school holidays or in the evening so he wouldn't miss a 
+day of school. What a determined young man.
+  Cody is involved in a number of school activities, clubs and 
+organizations. He is an active member of Future Farmers of America and 
+is president of the Rebels Against Drugs Program at Highland High 
+School. He has also participated in sports.
+  During the summer, Cody volunteered at the Sharp County Library. He 
+has been employed for the past 2 years at Ivey's Automotive Center in 
+Highland. Cody's plans after graduation are to attend Black River 
+Technical College and pursue a degree in aviation maintenance or 
+automotive technology.
+  I ask my colleagues to join me in applauding Cody Carithers for his 
+determination, drive and incredible school attendance record. He 
+exemplifies Highland High School's motto, ``A tradition of 
+excellence.''●
+
+                          ____________________
+```

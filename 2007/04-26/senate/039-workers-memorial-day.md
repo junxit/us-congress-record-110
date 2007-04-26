@@ -1,0 +1,78 @@
+---
+granule: CREC-2007-04-26-pt1-PgS5176
+date: 2007-04-26
+edition: CREC
+section: SENATE
+page: S5176
+citation: 153 Cong. Rec. S5176
+---
+
+# WORKERS MEMORIAL DAY
+
+**Speaking:** Dodd, Christopher J. (D000388) [D-CT]
+
+```
+                          WORKERS MEMORIAL DAY
+
+  Mr. DODD. Mr. President, Saturday, April 28, is Workers Memorial Day. 
+Tomorrow, working men and women around the world will gather to 
+remember their millions of brothers and sisters who have been injured 
+or killed on the job. I join them in their grief-and in their 
+determination to secure a safer future.
+  Work-related accidents kill Americans with a regularity that calls us 
+to question the very word ``accident.'' Fifteen deaths every day, and 
+more than 11,000 injuries: They are grimly predictable and often 
+preventable.
+  Today is for men like Eleazar Torres-Gomez, a laundry worker who was 
+dragged by a conveyor belt into a 300-degree industrial dryer, where he 
+burned to death. Sadness at his death is matched by an equal anger-
+especially when we learn that, in the two years preceding it, his 
+employer was cited more than 170 times for unsafe, illegal working 
+conditions. We remember Eleazar today.
+  Today is for the 12 miners killed last year in Sago, West Virginia, 
+when an explosion trapped them underground for two days. Only a few 
+years before, the Mine Safety and Health Administration struck down 17 
+new safety rules for trapped miners--rules that might have saved the 
+miners in Sago. We remember them today.
+  Today is for the 28 union construction workers killed in Connecticut, 
+20 years ago this month, when the apartment towers they were building 
+collapsed with a roar, within seconds, into ruined concrete and steel. 
+In the wake of their deaths, we outlawed the dangerous lift-slab 
+construction method that led to the collapse. But we can never replace 
+those lives; today we remember them, too.
+  How can we honor them? I know this much: Words alone would be an 
+insult. The men and women we remember this Saturday risked their lives 
+so we could lie down and wake up in health and safety and comfort, and 
+merely speaking our gratitude would be emptier than doing nothing. We 
+owe them action.
+  We owe them action equal to the historic Occupational Safety and 
+Health Act (OSHA), which was passed 37 years ago tomorrow and has saved 
+an estimated 350,000 lives. We need to cover more workers--because more 
+than 8.5 million are not protected by OSHA. We need more resources for 
+inspection and enforcement--because, at the current rate, federal 
+inspectors are only able to examine workplaces, on average, once every 
+133 years. We need stiffer penalties for employers who knowingly put 
+their workers' lives at risk--because employers like those who 
+compromised Mr. Torres-Gomez's life now face a maximum penalty of a 
+simple misdemeanor.
+  And we need the Occupational Safety and Health Administration to take 
+its work more seriously--because, according to a New York Times report 
+released this week, ``the agency has killed dozens of existing and 
+proposed regulations and delayed adopting others.''
+  Taking these vital steps for workers adds up to more than increased 
+resources or stronger oversight--ultimately, it translates to respect. 
+We owe their memories nothing less. Five thousand seven hundred workers 
+were killed on the job last year, and our economic prosperity is built 
+on their flesh and blood.
+  More than half a century ago, George Orwell remarked on the disregard 
+that so often greets manual labor: ``It keeps us alive, and we are 
+oblivious of its existence. . . . We are capable of forgetting it as we 
+forget the blood in our veins.''
+  Today we pledge ourselves as the exception to that rule. And if we 
+mean our words, we will be the exception tomorrow, and the day after 
+that. For America's working men and women deserve nothing less than our 
+eternal gratitude and diligence in preventing future workplace 
+tragedies.
+
+                          ____________________
+```
