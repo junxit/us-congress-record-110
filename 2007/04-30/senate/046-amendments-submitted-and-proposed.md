@@ -1,0 +1,28 @@
+---
+granule: CREC-2007-04-30-pt1-PgS5313-2
+date: 2007-04-30
+edition: CREC
+section: SENATE
+page: S5313
+citation: 153 Cong. Rec. S5313
+---
+
+# AMENDMENTS SUBMITTED AND PROPOSED
+
+**Measures:** S. 1082
+
+```
+                   AMENDMENTS SUBMITTED AND PROPOSED
+
+       SA 982. Mr. ALLARD submitted an amendment intended to be 
+     proposed by him to the bill S. 1082, to amend the Federal 
+     Food, Drug, and Cosmetic Act to reauthorize and amend the 
+     prescription drug user fee provisions, and for other 
+     purposes; which was ordered to lie on the table.
+
+[[Page S5314]]
+
+
+
+                          ____________________
+```

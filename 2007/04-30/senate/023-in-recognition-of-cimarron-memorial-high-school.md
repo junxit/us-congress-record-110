@@ -1,0 +1,51 @@
+---
+granule: CREC-2007-04-30-pt1-PgS5303-2
+date: 2007-04-30
+edition: CREC
+section: SENATE
+page: S5303
+citation: 153 Cong. Rec. S5303
+---
+
+# IN RECOGNITION OF CIMARRON-MEMORIAL HIGH SCHOOL
+
+**Speaking:** Reid, Harry (R000146) [D-NV]
+
+```
+            IN RECOGNITION OF CIMARRON-MEMORIAL HIGH SCHOOL
+
+  Mr. REID. Mr. President, it is my privilege to congratulate the High 
+Rollers team of Cimarron-Memorial High School in Las Vegas. This team 
+recently won a championship victory at the FIRST Robotics Competition 
+at the Georgia Dome in Atlanta.
+  The FIRST Robotics Competition, otherwise known as the ``Superbowl of 
+Smarts,'' is designed to inspire young people to pursue opportunities 
+in science and technology careers. The competition challenges teams of 
+high school students and their mentors to construct robots over the 
+course of 6 weeks while adhering to competition guidelines and design 
+specifications.
+  Founded in 1989 through the vision of inventor Dean Kamen, FIRST is a 
+not-for-profit whose acronym means ``For Inspiration and Recognition of 
+Science and Technology.'' As a result of Mr. Kamen's leadership, FIRST 
+has grown into one of the leading robotics competitions in the entire 
+country. Students from more than 1,300 high schools and 23 countries 
+participated in this year's event.
+  The High Rollers team from Cimarron paired with a coalition of two 
+high school teams from South Windsor, CT, and Worcester, MA, to win the 
+national championship title with a thrilling 59 to 54 victory in the 
+final round. In honor of their victory, the students will meet with 
+President Bush and attend a congressional reception where they will 
+demonstrate their robots and share their achievements with Members of 
+Congress.
+  The Cimarron team has a long tradition of success that is reflective 
+of their hard work, dedication, and creativity as well as Cimarron-
+Memorial High School's strong commitment to academic excellence. They 
+were among the top participants at the FIRST Las Vegas Regional held in 
+March on the campus of the University of Nevada, Las Vegas and were 
+named the Las Vegas regional champions in 2005 and 2006. I know that 
+every Member of the Senate joins me in honoring the extraordinary 
+accomplishments of Cimarron-Memorial High School and its FIRST Robotics 
+National Championship team.
+
+                          ____________________
+```

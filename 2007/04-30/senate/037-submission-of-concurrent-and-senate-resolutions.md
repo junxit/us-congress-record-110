@@ -1,0 +1,32 @@
+---
+granule: CREC-2007-04-30-pt1-PgS5306-3
+date: 2007-04-30
+edition: CREC
+section: SENATE
+page: S5306
+citation: 153 Cong. Rec. S5306
+---
+
+# SUBMISSION OF CONCURRENT AND SENATE RESOLUTIONS
+
+**Measures:** S.Res. 176, S.Res. 177
+
+```
+            SUBMISSION OF CONCURRENT AND SENATE RESOLUTIONS
+
+  The following concurrent resolutions and Senate resolutions were 
+read, and referred (or acted upon), as indicated:
+
+           By Mrs. CLINTON (for herself, Mr. Kerry, Mr. Feingold, 
+             Mr. Sanders, Mr. Casey, and Mr. Bayh):
+       S. Res. 176. A resolution recognizing April 30, 2007, as 
+     ``National Healthy Schools Day"; to the Committee on the 
+     Judiciary.
+           By Mr. HATCH (for himself, Mr. Martinez, Mr. Bingaman, 
+             Mr. Salazar, Mr. Menendez, and Mrs. Boxer):
+       S. Res. 177. A resolution designating April 30, 2007, as 
+     ``Dia de los Ninos: Celebrating Young Americans'', and for 
+     other purposes; to the Committee on the Judiciary.
+
+                          ____________________
+```
