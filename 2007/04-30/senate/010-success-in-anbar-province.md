@@ -1,0 +1,36 @@
+---
+granule: CRECB-2007-pt8-Pg10616-2
+date: 2007-04-30
+edition: CRECB
+section: SENATE
+page: 10616
+---
+
+# SUCCESS IN ANBAR PROVINCE
+
+```
+                       SUCCESS IN ANBAR PROVINCE
+
+  Mr. McCONNELL. Mr. President, my good friend the majority leader 
+neglected to mention the front-page story in the New York Times 
+yesterday about the extraordinary success our troops are having in 
+Anbar Province, the center of much of the al-Qaida activity in Iraq, 
+with Sunni sheikhs, tribal leaders coming together to support, not just 
+verbally but in terms of supplying military personnel, fighters to take 
+on al-Qaida in Anbar Province. It is a piece of good news in admittedly 
+a cloudy picture in Iraq. It is also the case, I am confident, that a 
+majority of Democrats in both the House and Senate believe that funds 
+should be supplied for the troops. That certainly has been the view of 
+the chairman of the Armed Services Committee, Carl Levin. Hopefully, we 
+will find a way forward after the bill that regretfully has the 
+surrender date in it tomorrow is sent down to the President and vetoed. 
+Beginning Wednesday, we will be discussing how to go forward. The 
+majority leader and I have had some preliminary discussion about that. 
+Hopefully, we can resolve this matter in the very near future to 
+provide the funding for the troops so General Petraeus's mission, for 
+which we confirmed him 81 to nothing, will have the resources to be 
+completed later this year.
+  I yield the floor.
+
+                          ____________________
+```
