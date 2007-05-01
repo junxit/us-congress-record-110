@@ -1,0 +1,47 @@
+---
+granule: CREC-2007-05-01-pt1-PgH4216-6
+date: 2007-05-01
+edition: CREC
+section: HOUSE
+page: H4216
+citation: 153 Cong. Rec. H4216
+---
+
+# NEW DIRECTION IN IRAQ
+
+**Speaking:** Butterfield, G. K. (B001251) [D-NC]
+
+```
+                              {time}  1230
+                         NEW DIRECTION IN IRAQ
+
+  (Mr. BUTTERFIELD asked and was given permission to address the House 
+for 1 minute.)
+  Mr. BUTTERFIELD. Madam Speaker, it is absolutely correct: 4 years ago 
+President Bush stood before this sign declaring ``Mission 
+Accomplished,'' but today he insists on staying the course. To 
+accomplish our own mission, President Bush needs to listen. He needs to 
+listen to the retired military generals who support the approach of 
+this Congress.
+  Retired MG Paul Eaton said, ``This bill gives General Petraeus great 
+leverage for moving the Iraqi Government down the more disciplined path 
+laid out by the Iraq Study Group.
+  LTG William Odom said, ``The bill gives the President a chance to 
+pull back from a disastrous course, reorient U.S. strategy to achieve 
+regional stability, and win help from many other countries, the only 
+way peace will eventually be achieved.''
+  Major General Montano said the bill ``not only reflects the thinking 
+of the
+
+[[Page H4217]]
+
+Iraq Study Group but puts teeth to the phrase of `supporting our 
+troops.'''
+  Madam Speaker, the President needs to listen. He needs to listen to 
+these retired generals.
+  And, Mr. President, I will not address you directly, but I would ask 
+you, Madam Speaker, to allow me to say that the bill will be on his 
+desk this afternoon.
+
+                          ____________________
+```

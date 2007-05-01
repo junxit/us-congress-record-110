@@ -1,0 +1,41 @@
+---
+granule: CREC-2007-05-01-pt1-PgH4218-2
+date: 2007-05-01
+edition: CREC
+section: HOUSE
+page: H4218
+citation: 153 Cong. Rec. H4218
+---
+
+# TIME IS RUNNING OUT: SEND OUR TROOPS THE FUNDS THEY NEED
+
+**Speaking:** Walberg, Tim (W000798) [R-MI]
+
+```
+        TIME IS RUNNING OUT: SEND OUR TROOPS THE FUNDS THEY NEED
+
+  (Mr. WALBERG asked and was given permission to address the House for 
+1 minute.)
+  Mr. WALBERG. Madam Speaker, time is running out to send our troops 
+the funds and resources they need to continue their critical mission in 
+Iraq.
+  The new congressional majority ensured the veto the President 
+promised by submitting a supplemental loaded with pork and a timeline 
+for retreat on our commanders in the field. Now it's time to pass a 
+clean supplemental.
+  The National Intelligence Estimate released in January warned of the 
+perils of an early troop withdrawal, stating: ``If coalition forces 
+were withdrawn rapidly during the term of this estimate, we judge that 
+this almost certainly would lead to a significant increase in the scale 
+and scope of sectarian conflict in Iraq.''
+  Many on the other side of the aisle urge Congress to heed the words 
+in this document; yet they stare blindly at it as they force a strategy 
+of retreat and defeat. This leads me to believe that the new 
+congressional majority would rather use our troops to make a political 
+statement than work in bipartisan fashion to give our brave men and 
+women in uniform the funding they need.
+  It's time we vote on a clean supplemental and give the troops the 
+support they deserve.
+
+                          ____________________
+```

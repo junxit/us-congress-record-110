@@ -1,0 +1,43 @@
+---
+granule: CREC-2007-05-01-pt1-PgH4215-5
+date: 2007-05-01
+edition: CREC
+section: HOUSE
+page: H4215
+citation: 153 Cong. Rec. H4215
+---
+
+# WAR IS AN UGLY THING
+
+**Speaking:** Blackburn, Marsha (B001243) [R-TN]
+
+```
+                          WAR IS AN UGLY THING
+
+  (Mrs. BLACKBURN asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Mrs. BLACKBURN. Madam Speaker, you know, nobody likes war. I don't 
+like it. My constituents from Fort Campbell that are fighting this war, 
+they don't like it. But they understand it.
+  And we all know there are some things worth fighting for. Freedom is 
+one of those things. Freedom is one of those things.
+  Listen to this from British historian John Stuart Mill. He said back 
+in the 1800s, ``War is an ugly thing, not the ugliest of things. The 
+decayed and degraded state of moral and patriotic feeling which thinks 
+that nothing is worth war is much worse.'' People that don't care, that 
+is what is worse.
+  Using our troops as a political tool during a time of war is not 
+wrong. It is ugly. It is downright ugly. It is wrong, and it 
+jeopardizes our national security. Just yesterday, Iraq's Ambassador to 
+the U.S. said American troops are critical to the success of that.
+  Today we stand and recognize the demise of al Masri, the leader of al 
+Qaeda in Iraq. Tenacity. Focus. That is what yields results. Our men 
+and women are getting results. It should be the first priority. We 
+should all be reading this bill. We should recognize war is ugly.
+  Veto the bill, Mr. President.
+
+
+
+
+                          ____________________
+```

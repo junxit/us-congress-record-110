@@ -1,0 +1,55 @@
+---
+granule: CREC-2007-05-01-pt1-PgS5390
+date: 2007-05-01
+edition: CREC
+section: SENATE
+page: S5390
+citation: 153 Cong. Rec. S5390
+---
+
+# IDAHO GUNFIGHTERS HONORED
+
+**Speaking:** Crapo, Mike (C000880) [R-ID]
+
+```
+                       IDAHO GUNFIGHTERS HONORED
+
+  Mr. CRAPO. Mr. President, on March 30, Secretary of Defense Robert 
+Gates announced that Mountain Home Air Force Base in my home State of 
+Idaho had earned the coveted 2007 Commander in Chief's Annual Award for 
+Installation Excellence. This Presidential honor is given only to a 
+single installation in each of the military branches for outstanding 
+and innovative efforts by installation personnel. I am honored to be 
+able to publicly herald this tremendous achievement by Colonel Rock and 
+all the men and women of Mountain Home Air Force Base.
+  This high honor reflects a sustained level of excellence by all the 
+Gunfighters of Mountain Home. Installation of the Year can only be 
+achieved if everyone, from the wing commander to airmen working in all 
+aspects of operations and support, has their priorities straight and 
+expectations for personal duty performance at the highest level. 
+Improving the structures that protect valuable aircraft, creative and 
+responsible financial management with regard to improving facilities, 
+and a commitment to Air Force families are just some of the ways in 
+which Mountain Home Air Force Base demonstrated its excellence this 
+year. The Gunfighters have maintained this strong tradition of 
+superiority and excellence for over half a century. The missions have 
+changed over the years, but Gunfighter commitment and performance has 
+not.
+  Idahoans can be very proud of their Gunfighters. Mountain Home Air 
+Force Base is as much a part of Idaho history as the magnificent 
+valleys, rivers, and plateaus that surround the base. The 366th Fighter 
+Wing is a force to be reckoned with when it comes to the national 
+security of the United States. The missions currently headquartered at 
+Mountain Home comprise a vital component of our comprehensive military 
+defensive and offensive force. Idaho is fortunate to be host and home 
+to these defenders of freedom.
+  Idaho benefits from Mountain Home Air Force Base, not just when the 
+military men and women serving out their assignments there call our 
+State ``home'' for a time in their military careers but also when some 
+return to call Idaho home permanently in retirement.
+  I offer my sincere congratulations to the Gunfighters and my 
+heartfelt gratitude for their service to our great country, in defense 
+of my freedom and that of my family.
+
+                          ____________________
+```
