@@ -1,0 +1,38 @@
+---
+granule: CRECB-2007-pt8-Pg10811-4
+date: 2007-05-01
+edition: CRECB
+section: HOUSE
+page: 10811
+---
+
+# IRAQ SUPPLEMENTAL
+
+```
+                           IRAQ SUPPLEMENTAL
+
+  (Mr. LAMBORN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LAMBORN. Madam Speaker, time is running out to send our troops 
+the funds and resources they need to continue their critical mission in 
+Iraq. It is time to pass a porkless supplemental bill aimed at victory 
+rather than defeat.
+  The National Intelligence Estimate released in January warned of the 
+perils of an early troop withdrawal stating, ``If coalition forces were 
+withdrawn rapidly during the term of this estimate, we judge that this 
+almost certainly would lead to a significant increase in the scale and 
+scope of sectarian conflict in Iraq.''
+  Many on the other side of the aisle urge Congress to heed the other 
+warnings in this document, yet they willfully ignore this particular 
+warning. They prefer a strategy that would tie the hands of our 
+military commanders on the ground, removing our troops and continuing a 
+defeatist policy of cut and run.
+  It is obvious to me that Washington Democrats would exploit our 
+troops to make a political statement rather than work in a bipartisan 
+fashion to provide our brave men and women in uniform the funding they 
+need.
+  Madam Speaker, it is time we vote a clean supplemental to give our 
+troops the support they must have.
+
+                          ____________________
+```

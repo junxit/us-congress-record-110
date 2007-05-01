@@ -1,0 +1,36 @@
+---
+granule: CRECB-2007-pt8-Pg10859
+date: 2007-05-01
+edition: CRECB
+section: HOUSE
+page: 10859
+---
+
+# MISSION ACCOMPLISHED ANNIVERSARY
+
+```
+                    MISSION ACCOMPLISHED ANNIVERSARY
+
+  (Ms. LEE asked and was given permission to address the House for 1 
+minute.)
+  Ms. LEE. Mr. Speaker, 4 years ago, President Bush stood on the deck 
+of the USS Abraham Lincoln, in front of a banner that said ``Mission 
+Accomplished,'' and told us that a major combat operation had ended. 
+Since then, 3,200 United States troops have died in Iraq, and almost 
+25,000 have been wounded, and countless Iraqis.
+  The President has said that he will veto a bill very shortly that 
+sets a goal for ending the occupation of Iraq signaling his insistence 
+on an open-ended commitment to a failed policy. Rather than change 
+course, the administration offers only increasingly desperate rhetoric 
+about victory and surrender.
+  The fact is, you cannot win an occupation just as there is no way 
+that the United States can win a civil war. The American people 
+recognize that this failed policy is making our Nation and the world 
+less safe, even if the Bush administration refuses to recognize this.
+  Mr. Speaker, the American people are squarely behind our efforts to 
+end the occupation of Iraq and to bring our troops home, and history 
+will record the President's veto of those efforts with the same 
+ridicule as it does his remarks 4 years ago.
+
+                          ____________________
+```

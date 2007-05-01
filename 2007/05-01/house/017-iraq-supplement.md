@@ -1,0 +1,40 @@
+---
+granule: CRECB-2007-pt8-Pg10808-4
+date: 2007-05-01
+edition: CRECB
+section: HOUSE
+page: 10808
+---
+
+# IRAQ SUPPLEMENT
+
+```
+                            IRAQ SUPPLEMENT
+
+  (Mr. GINGREY asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. GINGREY. Madam Speaker, indeed it is an anniversary. It's about 
+the 80th-day anniversary since the President asked for funding for our 
+troops. Madam Speaker, I rise today in strong opposition to the 
+theatrics the Democratic majority is trying to pass off as some kind of 
+policy.
+  Today, Speaker Pelosi will stage an elaborate and politically timed 
+signing ceremony for the Iraq troop withdrawal bill Congress passed 5 
+days ago. As President Bush has already vowed to veto this 
+irresponsible legislation, Speaker Pelosi's theatrics are simply 
+slowing down the process of getting much needed funding and money to 
+our troops.
+  Let me remind the American people that our warfighters have been 
+waiting nearly 3 months for Congress to pass the President's requested 
+supplemental funding for the war. The Democratic leader might think a 
+few days here don't mean much, don't matter much. Every day they stall 
+to appease left-wing activists is another day our military must wait 
+for the funding it needs to win this war.
+  Madam Speaker, I admonish Speaker Pelosi to quit playing politics 
+with our national security. Let Congress vote on a clean funding bill 
+for our troops. The Democratic leaders may be content to lose the war, 
+but the troops are in harm's way, and they certainly will not lose this 
+war.
+
+                          ____________________
+```

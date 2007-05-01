@@ -1,0 +1,40 @@
+---
+granule: CRECB-2007-pt8-Pg10812-3
+date: 2007-05-01
+edition: CRECB
+section: HOUSE
+page: 10812
+---
+
+# THE IRAQ WAR
+
+```
+                              THE IRAQ WAR
+
+  (Mr. McDERMOTT asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. McDERMOTT. Madam Speaker, 4 years after the banner was unfurled, 
+these are the missions that have been accomplished by the President:
+  America is more divided than at any time since the Vietnam War. The 
+Iraq Government has before it a sweetheart deal that benefits Big Oil 
+that the U.S. brokered behind the scenes. Read Josh Holland's 
+investigative piece on alternet.com;
+  America is increasingly isolated in the Arab world, and countries 
+that looked up to America now look out or look the other way. Read Rami 
+Khouri's commentary published in the April 19 issue of the Daily Star 
+in Lebanon;
+  The number of Pentagon contractors in Iraq who are profiting in the 
+spoils of war, raking in vast sums of U.S. taxpayer money, nearly 
+equals the number of U.S. soldiers. Read ``Iraq War: a Nice Little 
+Earner'' in the Asia Times newspaper dated April 19;
+  Americans are so fed up with the President's state of denial that 
+they returned Democratic majorities to the House and Senate last 
+November. Read the April 26 editorial in my hometown newspaper, the 
+Seattle PI: ``Iraq: Keep Speaking Out.''
+  Missions accomplished? All but the most important one: getting U.S. 
+soldiers out of Iraq.
+  That is the will of the American people and the mission of the new 
+Congress.
+
+                          ____________________
+```
