@@ -1,0 +1,82 @@
+---
+granule: CREC-2007-05-02-pt1-PgS5439-6
+date: 2007-05-02
+edition: CREC
+section: SENATE
+page: S5439
+citation: 153 Cong. Rec. S5439
+---
+
+# SCHEDULE
+
+**Speaking:** Reid, Harry (R000146) [D-NV]
+
+**Measures:** S. 1082
+
+```
+                                SCHEDULE
+
+  Mr. REID. Mr. President, the Senate will now begin a 60-minute period 
+of morning business, the majority controlling the first half, 
+Republicans controlling the final portion. Following the usage of all 
+morning business, we will resume consideration of S. 1082, the FDA 
+authorization legislation.
+  Yesterday, Senator Dorgan offered an amendment relating to drug 
+reimportation. A cloture motion was filed on that last night. The 
+cloture vote will occur tomorrow morning. Amendments in the second 
+degree to the Dorgan amendment would have to be filed 1 hour prior to 
+the cloture vote. I hope other Members who have amendments will file 
+them as quickly as possible, to work with the managers. We have 
+Senators Kennedy and Enzi who are handling the legislation. They have a 
+good relationship. They have done a lot already on this complicated 
+legislation.
+  Yesterday, I indicated to the staff on both sides of the aisle that 
+it may be necessary to have votes as early as noon on Monday. I hope we 
+can finish the FDA bill tomorrow. If we can, then likely there would be 
+no votes and we would move to other legislation, which would be WRDA, 
+which has passed the House overwhelmingly. It came out of committee 
+under the guidance of Senators Boxer and Inhofe, and we should be able 
+to finish that bill next week.
+  Immigration is still on line to come up in the last 2 weeks of this 
+work period. Next Wednesday, a week from today, I will rule XIV 
+legislation that will put us in line to move to this during the last 2 
+weeks of this work period. It is legislation that is badly needed. We 
+have had numerous meetings of Democratic and Republican Senators that 
+have been going on for about 3 months. Progress has not been as we 
+anticipated on either side, but we are going to move to this. Something 
+has to be done. If we don't complete this legislation over here, then 
+it certainly won't be done this year. Next year, a Presidential 
+election year will make it very difficult. The three areas, of course, 
+that are of concern are border security, and it is necessary that we 
+visit that to see what can be done; with temporary workers, a pathway 
+to legalization for the 12 million people who are here with bad paper; 
+then we have to finally make sure we do something to make sure the 
+employer sanctions aspect of the law is meaningful. At the present 
+time, it is not. We have a lot to do there. I have had conversations 
+with Senator Kennedy, Senator Leahy, and a number of other interested 
+Senators over the last several weeks, including Senator Kyl and others 
+on the Republican side.
+  Mr. President, the President did veto the spending bill we sent him 
+last night. It is unfortunate, but he did veto it. There will be a 
+veto-override vote in the House tonight, it is my understanding.
+  The first piece of legislation dealing with another bill to send to 
+the President will come to us from the House. I have had a number of 
+consultations with Speaker Pelosi. At this stage, we are going to wait 
+and see what happens at the White House today. The ball is in the 
+President's court. He has to come forward with something that is 
+satisfactory to Democrats and a significant number of Republicans.
+  There has to be some change of direction in the war. We find 
+ourselves in
+
+[[Page S5440]]
+
+the middle of a civil war where hundreds and hundreds of people are 
+being killed each week, where we are losing soldiers at a rate that is 
+untoward even in this war. Last month was the highest casualty rate 
+this year. In the 51 months of the war, it is one of the highest 
+casualty rates. So it is something for which we have to carry the 
+wishes of the American people into legislation and change this war and 
+bring our troops home.
+
+                          ____________________
+```

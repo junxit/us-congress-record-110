@@ -1,0 +1,38 @@
+---
+granule: CREC-2007-05-02-pt1-PgH4298-2
+date: 2007-05-02
+edition: CREC
+section: HOUSE
+page: H4298
+citation: 153 Cong. Rec. H4298
+---
+
+# ARMY SPECIALIST ERVIN CARADINE, JR.
+
+**Speaking:** Cohen, Steve (C001068) [D-TN]
+
+```
+                  ARMY SPECIALIST ERVIN CARADINE, JR.
+
+  (Mr. COHEN asked and was given permission to address the House for 1 
+minute.)
+  Mr. COHEN. Mr. Speaker, I want to talk about a gentleman who was Army 
+Specialist Ervin Caradine, Jr.
+  Mr. Caradine would have been 36 years old today if he had lived. He 
+was from my hometown of Memphis, Tennessee where we have lost nine 
+veterans. He joined the Army to provide a better life for his family. 
+He had graduated from Fairley High School and worked his way up to 
+being a manager at the Steak-Out Restaurant in Memphis. He had a wife 
+and he had four children.
+  Three years ago to this day, Army Specialist Ervin Caradine, Jr., 
+died. He was in a convoy in Baghdad that was hit by an IED 3 years ago. 
+Three days before his death, he called his wife and she said there was 
+a change in his voice. He said, ``It's getting worse over here, it's 
+not getting better.''
+  Since then, nearly 3,000 more soldiers have died. Army Specialist 
+Ervin Caradine, Jr., said something 3 years and 3 days ago that is 
+still true: It's getting worse over here, it's not better.
+  Let's not have more deaths.
+
+                          ____________________
+```

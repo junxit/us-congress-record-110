@@ -1,0 +1,255 @@
+---
+granule: CREC-2007-05-02-pt1-PgH4301
+date: 2007-05-02
+edition: CREC
+section: HOUSE
+page: H4301
+citation: 153 Cong. Rec. H4301
+---
+
+# PROVIDING FOR CONSIDERATION OF H.R. 1867, NATIONAL SCIENCE FOUNDATION AUTHORIZATION ACT OF 2007
+
+**Speaking:** Matsui, Doris O. (M001163) [D-CA], Hastings, Doc (H000329) [R-WA]
+
+**Measures:** H.Res. 349, H.R. 362, H.R. 1867
+
+```
+ PROVIDING FOR CONSIDERATION OF H.R. 1867, NATIONAL SCIENCE FOUNDATION 
+                       AUTHORIZATION ACT OF 2007
+
+  Ms. MATSUI. Mr. Speaker, by direction of the Committee on Rules, I 
+call up House Resolution 349 and ask for its immediate consideration.
+  The Clerk read the resolution, as follows:
+
+                              H. Res. 349
+
+       Resolved,  That at any time after the adoption of this 
+     resolution the Speaker may, pursuant to clause 2(b) of rule 
+     XVIII, declare the House resolved into the Committee of the 
+     Whole House on the state of the Union for consideration of 
+     the bill (H.R. 1867) to authorize appropriations for fiscal 
+     years 2008, 2009, and 2010 for the National Science 
+     Foundation, and for other purposes. The first reading of the 
+     bill shall be dispensed with. All points of order against 
+     consideration of the bill are waived except those arising 
+     under clause 9 or 10 of rule XXI. General debate shall be 
+     confined to the bill and shall not exceed one hour equally 
+     divided and controlled by the chairman and ranking minority 
+     member of the Committee on Science and Technology. After 
+     general debate the bill shall be considered for amendment 
+     under the five-minute rule. It shall be in order to consider 
+     as an original bill for the purpose of amendment under the 
+     five-minute rule the amendment in the nature of a substitute 
+     recommended by the Committee on Science and Technology now 
+     printed in the bill. All points of order against the 
+     committee amendment in the nature of a substitute are waived 
+     except those arising under clause 9 or 10 of rule XXI. 
+     Notwithstanding clause 11 of rule XVIII, no amendment to the 
+     committee amendment in the nature of a substitute shall be in 
+     order except those printed in the portion of the 
+     Congressional Record designated for that purpose in clause 8 
+     of rule XVIII and except pro forma amendments for the purpose 
+     of debate. Each amendment so printed may be offered only by 
+     the Member who caused it to be printed or his designee and 
+     shall be considered as read. At the conclusion of 
+     consideration of the bill for amendment the Committee shall 
+     rise and report the bill to the House with such amendments as 
+     may have been adopted. Any Member may demand a separate vote 
+     in the House on any amendment adopted in the Committee of the 
+     Whole to the bill or to the committee amendment in the nature 
+     of a substitute. The previous question shall be considered as 
+     ordered on the bill and amendments thereto to final passage 
+     without intervening motion except one motion to recommit with 
+     or without instructions.
+       Sec. 2. During consideration in the House of H.R. 1867 
+     pursuant to this resolution, notwithstanding the operation of 
+     the previous question, the Chair may postpone further 
+     consideration of the bill to such time as may be designated 
+     by the Speaker.
+
+  The SPEAKER pro tempore. The gentlewoman from California (Ms. Matsui) 
+is recognized for 1 hour.
+  Ms. MATSUI. Mr. Speaker, for the purpose of debate only, I yield the 
+customary 30 minutes to the gentleman from Washington (Mr. Hastings), 
+pending which I yield myself such time as I may consume. During 
+consideration of this resolution, all time yielded is for the purpose 
+of debate only.
+
+
+                             General Leave
+
+  Ms. MATSUI. Mr. Speaker, I ask unanimous consent that all Members may 
+have 5 legislative days within which to revise and extend their remarks 
+on H. Res. 349 and insert extraneous materials into the Record.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentlewoman from California?
+  There was no objection.
+  Ms. MATSUI. Mr. Speaker, this rule permits the House to consider the 
+National Science Foundation Authorization Act of 2007. This important 
+legislation will be considered under an open rule with a preprinting 
+requirement, allowing any Member to submit changes or improvements to 
+the bill.
+  Chairman Gordon, Chairman Baird, Ranking Member Hall, Ranking Member 
+Ehlers, and the Science and Technology Committee have put together an 
+excellent product, and I look forward to an open and constructive 
+debate.
+  I am proud that today's debate will shine a light on the National 
+Science Foundation. The National Science Foundation is truly one of the 
+Federal Government's greatest accomplishments. It features a rich 
+tradition that has supported talented young investigators, made America 
+the world leader in basic science and innovation, and laid the 
+groundwork for the Nation's economic strength.
+  This reauthorization also represents another important step in the 
+implementation of the innovation agenda. By boosting scientific 
+research and development, moving the Nation toward a clean energy 
+economy, promoting broadband deployment, and supporting small business 
+entrepreneurs, the innovation agenda will keep our promise to maintain 
+and strengthen America's competitiveness and leadership in the global 
+economy.
+  At present the National Science Foundation supports research and 
+education activities at over 2,000 universities colleges, K-12 schools, 
+and research institutions throughout the country. It is unique among 
+our Federal research enterprises in that NSF supports scientists and 
+engineers across all disciplines.
+  In a given year, NSF will support about 200,000 scientists, 
+engineers, teachers, and students. That is why NSF has led to 
+groundbreaking research in such varied fields as genetics, computer 
+science, information technology, nanotechnology, and climate change.
+  By way of example, in my district, NSF funds the UC Davis Center for 
+Biophotonics Science & Technology. The center features dynamic and 
+innovative research that harnesses light to facilitate revolutionary 
+advances in biomedical science. The potential applications for medical 
+research and treatment are groundbreaking and will offer hope to 
+thousands of our constituents. That is the kind of research NSF 
+supports.
+  I would also like to point out that NSF resources are distributed on 
+a competitive peer review basis; so an objective process allows for 
+only the most worthy proposal to receive funding. This is the best kind 
+of investment the Federal Government can make because the return on 
+this investment is tremendous. By stimulating innovative research, we 
+create educational opportunities for promising students and drive 
+cutting-edge research throughout the country. There is no better way to 
+fuel the economy and create quality jobs. That is why the National 
+Science Foundation has broad and bipartisan support in Congress.
+  This reauthorization provides $21 billion at NSF for fiscal years 
+2008 through 2010. In doing so, it keeps us on the path to double the 
+National Science Foundation funding by 2017. This was a key 
+recommendation of the highly respected National Academy's report on 
+U.S. competitiveness, ``Rising Above the Gathering Storm.'' And this 
+boost is urgently needed, since today NSF can only fund about a quarter 
+of the grant proposals that are submitted.
+  The bill also creates a pilot program targeted at new investigators 
+so we can bring more talented young people into scientific research 
+fields, and it directs NSF to facilitate public-private partnerships, a 
+proven method to leveraging Federal investment and bolstering American 
+competitiveness.
+  Finally, this reauthorization bill is on the Agency's legacy of 
+promoting math and science education by including the provisions of 
+H.R. 362, the 10,000 Teachers, 10 Million Minds Math and Science 
+Scholarship Act, which the House passed last week.
+  With that, I thank the Science Committee once again for this 
+excellent legislation. I look forward to a robust debate on this bill, 
+and I hope we can work with the Senate to get it on the President's 
+desk in short order.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. HASTINGS of Washington. Mr. Speaker, I thank the gentlewoman from 
+California for yielding me the customary 30 minutes, and I yield myself 
+such time as I may consume.
+  (Mr. HASTINGS of Washington asked and was given permission to revise 
+and extend his remarks.)
+  Mr. HASTINGS of Washington. Mr. Speaker, the National Science 
+Foundation plays an important role in making sure that our Nation is a 
+global leader in the fields of science and engineering. This Federal 
+agency provides critical support for researchers, educators, and 
+students in science, technology, engineering, and mathematics. 
+Specifically, Federal support allows American
+
+[[Page H4302]]
+
+scientists to pursue high-risk, high-return fields that increase our 
+Nation's competitiveness and scientific knowledge, and it ensures we 
+are able to attract the brightest minds to our colleges and 
+universities.
+  One area in which the National Science Foundation is supporting U.S. 
+leadership in the sciences is in the Laser Interferometer Gravitational 
+Wave Observatory Program, or ``LIGO'' for short. The LIGO program, 
+which operates an observatory in Central Washington in my district, is 
+trying to detect for the first time the existence of gravitational 
+waves, which have been sought by physicists around the world since they 
+were theorized by Albert Einstein. Their discovery would lead to a 
+greater understanding of the makeup of the universe and would help 
+solidify our Nation's lead in the field of physics and astrophysics.
+  The President's fiscal year 2008 budget provides for the expansion of 
+LIGO and nearly doubles funding available for the LIGO Hanford 
+Observatory to allow for more advanced research. I am pleased that the 
+National Science Foundation Authorization Act supports this proposed 
+expansion.
+  The LIGO program is not only an important investment in our Nation's 
+science capability, but it also has been an instrument of learning for 
+local communities. The LIGO's Hanford Observatory was recently awarded 
+one of the first ever Science Education Advocate Awards by the 
+Washington State Leadership and Assistance for Science Education 
+Reform, a partnership of public schools and science institutions. LIGO 
+is an excellent example of the National Science Foundation's dedication 
+to funding world-class research while also helping to grow students' 
+interest in the sciences.
+  Mr. Speaker, if America is to continue to lead the world in science 
+and the pursuit of knowledge, funding for the National Science 
+Foundation is essential. The underlying legislation authorizes the 
+National Science Foundation for 3 years at strong levels needed to 
+maintain and strengthen research through the foundation.
+  But, Mr. Speaker, I am once again disappointed that the Democrat 
+majority has once again missed an opportunity to provide consideration 
+for the National Science Foundation Act under an open rule that would 
+allow all Members of the House to come to the floor and offer an 
+amendment during consideration of the bill. The National Science 
+Foundation was last authorized in 2002, and at that time, the 
+Republican majority allowed the bill to be considered under a truly 
+open rule. I am disappointed that the Democrat majority has pledged a 
+new era of openness but so far has not lived up to their commitment. 
+Instead, it frankly has tried to change the definition of what an open 
+rule is.
+  Mr. Speaker, I have no further requests for time, and I yield back 
+the balance of my time.
+
+                              {time}  1045
+
+  Ms. MATSUI. Mr. Speaker, I am very much looking forward to the 
+upcoming debate on the National Science Foundation reauthorizing that 
+this rule allows. In discussing the various programs and initiatives at 
+NSF, we will demonstrate how the Federal Government can strategically 
+and effectively drive scientific discovery and innovation.
+  The importance of the National Science Foundation and its mission 
+must not be underestimated. While America has been blessed with 
+abundant natural resources and defensible borders, it is the innovative 
+spirit of our citizens that has driven this Nation's leadership in the 
+global economy.
+  Throughout our history, we have been willing to experiment, to take 
+risks, to constantly redefine what is possible. That tradition has 
+given us a competitive advantage over other countries that has created 
+prosperity for the Nation, improving the quality of life for all our 
+constituents.
+  As Members know well, our leadership in the global economy is at risk 
+today. While we face rising threats from countries like India and 
+China, we have also failed to make the necessary investments in 
+education, science, and research and development to maintain the 
+foundation of knowledge that has served us so well in the past.
+  This NSF reauthorization takes great strides to remedy that neglect. 
+Most importantly, by committing to double NSF funding over the next 10 
+years, we demonstrate that ensuring the Nation's competitiveness is of 
+the highest priority.
+  As the House continues to consider items from the innovation agenda, 
+the importance we place on competitiveness will be demonstrated again 
+and again.
+  With that, I look forward to today's debate and continuing to move 
+forward on measures like this one that will bolster innovation and 
+competitiveness.
+  I urge a ``yes'' vote on the previous question and on the rule.
+  Mr. Speaker, I yield back the balance of my time, and I move the 
+previous question on the resolution
+  The previous question was ordered.
+  The resolution was agreed to.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```
