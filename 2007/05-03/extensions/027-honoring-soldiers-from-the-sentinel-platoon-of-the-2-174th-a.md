@@ -1,0 +1,56 @@
+---
+granule: CRECB-2007-pt8-Pg11337-3
+date: 2007-05-03
+edition: CRECB
+section: EXTENSIONS
+page: 11337
+---
+
+# HONORING SOLDIERS FROM THE SENTINEL PLATOON OF THE 2-174TH AIR DEFENSE ARTILLERY BATTALION
+
+```
+HONORING SOLDIERS FROM THE SENTINEL PLATOON OF THE 2-174TH AIR DEFENSE 
+                          ARTILLERY BATTALION
+
+                                 ______
+                                 
+
+                         HON. ZACHARY T. SPACE
+
+                                of ohio
+
+                    in the house of representatives
+
+                         Thursday, May 3, 2007
+
+  Mr. SPACE. Madam Speaker, today, May 3, 2007, it is my distinct honor 
+and pleasure to welcome home 13 members of the Ohio Army National 
+Guard's Sentinel Platoon of the 2-174th Air Defense Artillery 
+Battalion.
+  These brave men deserve the thanks and admiration of our nation for 
+the sacrifices they have made as part of Operation Iraqi Freedom. I 
+know I speak for many when I say that we are forever indebted to the 
+heroism exhibited by: SGT Adam D. Binckley, SGT Clinton O. Bozenske, 
+SGT Eric M. Coffman, SPC Christopher S. Dearth, SPC Adam C. Dick, SGT 
+Daniel S. Holdren, SPC Bryan D. Lee, SPC Todd W. McCutcheon, SGT Kyle 
+W. McDaniels, SFC Kevin L. Mettler, SSG Nathan A. Stewart, SGT 
+Christopher J. Weeks, and SGT Shawn E. Wiseman.
+  I commend these Guardsmen for heeding the call to serve our Nation, 
+and I applaud their families for simultaneously sacrificing alongside 
+of their loved ones. So often the parents, spouses, and children of 
+deployed soldiers and reservists are the support systems our men and 
+women need to accomplish the difficult tasks that they are asked to 
+undertake.
+  The 13 men I've named should be forever proud of the commitment, 
+courage, and strength of character that they possess. Their 
+selflessness should serve as an example to us all.
+  Again, I offer my most sincere gratitude to the 13 members of the 
+Ohio Army National
+
+[[Page 11338]]
+
+Guard's Sentinel Platoon of the 2-174th Air Defense Artillery 
+Battalion.
+
+                          ____________________
+```
