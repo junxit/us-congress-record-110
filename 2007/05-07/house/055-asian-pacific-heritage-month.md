@@ -1,0 +1,761 @@
+---
+granule: CRECB-2007-pt8-Pg11451-2
+date: 2007-05-07
+edition: CRECB
+section: HOUSE
+page: 11451
+---
+
+# ASIAN PACIFIC HERITAGE MONTH
+
+```
+                      ASIAN PACIFIC HERITAGE MONTH
+
+  The SPEAKER pro tempore. Under the Speaker's announced policy of 
+January 18, 2007, the gentleman from California (Mr. Honda) is 
+recognized for 60 minutes as the designee of the majority leader.
+
+
+                             General Leave
+
+  Mr. HONDA. Mr. Speaker, I ask unanimous consent that all Members may 
+have 5 legislative days within which to revise and extend their 
+remarks, and include extraneous material on the subject of my special 
+order.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from California?
+
+[[Page 11452]]
+
+  There was no objection.
+  Mr. HONDA. Mr. Speaker, I would like to call upon my colleague, Ms. 
+Bordallo, who hails from Guam.
+  Ms. BORDALLO. Mr. Speaker, I rise today in honor of Asian Pacific 
+Heritage Month and to recognize the contributions of Asian and Pacific 
+Island Americans to our Nation. First, I want to thank my colleague 
+from California, the Honorable Mr. Honda, the chairman of the 
+Congressional Asian Pacific American Caucus, for his distinct 
+leadership and dedication to the needs of our communities.
+  Every May during Asian Pacific American Heritage Month, we recognize 
+the contributions Asian and Pacific Island Americans make to the United 
+States economically, culturally, politically, throughout its history. 
+Asian and Pacific Islander Americans continue to make notable and 
+diverse contributions to every aspect of American life. Asian and 
+Pacific Island Americans also serve public interests by serving 
+honorably in the United States Armed Services and ably at every level 
+of government in the United States. I am proud to participate in the 
+effort to honor their contributions to this country and celebrate our 
+heritage with this month's events.
+  Some people wonder why we continue to celebrate cultural diversity. I 
+respond by saying that doing so helps to remind us that while many of 
+us have no memory of fleeing oppression or desiring to live freely, 
+many Vietnamese Americans can tell you of their desire to live freely 
+and the risks that they took fleeing communism to do so. Or, the 
+experiences of some Korean Americans can help us better understand the 
+importance of family and the hardships and the pain created as a result 
+of being kept apart from loved ones for generations. While many of our 
+lives are relatively stable and certain, some Chinese Americans or 
+Japanese Americans can inspire you with their stories of succeeding 
+here in the United States after arriving with no money and no 
+possessions.
+  Freedom and economic opportunity are attributes of the United States 
+that have, for generations, inspired hope among the repressed people of 
+the world. Some of us take the United States and the American way of 
+life for granted. The United States and the privilege and the goodness 
+of America's way of life are particularly important for at least two 
+groups among the Asian and Pacific Islander American community. They 
+are Chamorro or Filipino-Americans. And I say that because Chamorro or 
+Filipino-Americans are among the very few Americans who can identify 
+with heart-swelling pride inspired by witnessing the striking and the 
+unique beauty of the Stars and Stripes flying proudly at the top of 
+flagpoles for the first time after enduring and being liberated from a 
+brutal and extended occupation by the foreign power.
+  To all Americans I say this: To learn of the experiences endured by 
+these Americans during occupation and liberation will provide you 
+invaluable perspective on what it means to be an American. In fact, 
+before the House this week is H.R. 1595, the Guam World War II Loyalty 
+Recognition Act. This bill would help fulfill a moral obligation on the 
+part of our national government to a group of citizens, the people of 
+Guam, most of whom were indigenous Chamorros who bore the burden of a 
+brutal occupation. The people of Guam were brutalized through public 
+executions, beheadings, rape, and severe injury, forced labor, forced 
+march, and internment in concentration camps.
+
+                              {time}  2000
+
+  H.R. 1595 is called the Loyalty Recognition Act because the loyalty 
+of the people of Guam to the United States during this 32-month enemy 
+occupation should be honored.
+  It is a tragic injustice of history that, following liberation, 
+Congress did not provide for war claims for the people of Guam in the 
+same manner and with the same opportunities that were afforded to other 
+Americans. The people who carried a disproportionate burden of the war 
+were given less than other Americans when it came time to make our 
+Nation whole. Those who gave more in blood got less in recognition. 
+Asian Pacific American Heritage Month would be especially noteworthy if 
+this legislation were to be agreed to by the House of Representatives.
+  Asians and Pacific Islanders have a powerful story to tell, and they 
+have a love for this Nation that many take for granted. Our 
+contribution to America is not just the great food and the intriguing 
+cultures that we have introduced to this land; it is also the stories 
+of our incredible journeys to freedom.
+  Our heritage is our gift to this Nation. Our unique cultures have 
+survived and continue to thrive because America has come to know and 
+appreciate how our contributions enrich our Nation.
+  I am very, very proud of the Chamorro culture on Guam and take every 
+opportunity to share our culture and our traditions.
+  Today it is worth reflecting on who we are as a Nation and what 
+values we stand for. We are a Nation of immigrants whose parents and 
+grandparents have come to these shores seeking individual liberty, 
+prosperity and human dignity. The Nation we call our own is one of 
+compassion and of justice. And when it comes to our heritage, we may be 
+Chamorros, Hawaiian, Japanese, Samoan, Chinese, Filipino, Palauan, 
+Chuukese, Korean or any of the various proud cultures of Asia and the 
+Pacific, but we all share a common love for this country.
+  So as we celebrate Asian Pacific American Heritage Month, let us 
+honor the contributions of all Asian and Pacific Islander Americans, 
+and let us appreciate the cultural diversity, the patriotism and the 
+communities that make our country, that make America so great.
+  Dangkulo na Si Yu'os Ma'ase.
+  Mr. HONDA. Mr. Speaker, I would like to call upon our good friend, 
+colleague from Texas, Representative Al Green.
+  Mr. AL GREEN of Texas. Mr. Speaker, I'm honored to be here tonight to 
+celebrate Asian Pacific American Heritage Month. And I want to 
+especially thank Chairman Honda for the outstanding job that he has 
+done, not only with this event, but also what he does year round, year 
+in and year out with our caucus, the Congressional Asian Pacific 
+American Caucus. I thank you for what you have done.
+  Mr. Speaker, I represent the Ninth Congressional District in Houston, 
+Texas. The Ninth Congressional District is one of the most diverse 
+districts in the country. It is 36 percent African American, 31 percent 
+Hispanic, 21 percent Anglo and 12 percent Asian. And I am proud to say 
+that this district, the Ninth Congressional District, has the ballot 
+printed in three languages, English, Spanish and Vietnamese, soon to 
+have it in a fourth language, Chinese.
+  I'm also proud to say that we have elected a Vietnamese to the State 
+House in the State of Texas. The honorable Hubert Vo is a State 
+Representative from a district that is within my Ninth Congressional 
+District.
+  I am so honored that we have selected the theme ``Meeting the 
+Challenges for Asian Pacific Americans.'' This is most appropriate. 
+Why? Because in spite of discrimination and degradation, Asian 
+Americans have met the challenges for America. They were there when 
+America needed a national rail connectivity. In spite of discrimination 
+and humiliation, they helped to construct the first transcontinental 
+railroad.
+  When the greatest generation went to war in World War II, they were 
+there, not only for America, but for the entire world. Notwithstanding 
+dehumanization and incarceration, Americans of Japanese ancestry were 
+some of America's most decorated soldiers.
+  They were also there from the Philippines. During World War II, over 
+200,000 Filipinos fought in defense of the United States of America. 
+More than half died. They answered President Franklin Delano 
+Roosevelt's clarion call for help. They met the challenges of America, 
+and it's time for America to meet the challenges of the Filipino 
+veterans, who were promised, I might add, the same benefits as other
+
+[[Page 11453]]
+
+veterans and who have not received them to this day.
+  It is time for Congress to pass the Filipino Veterans Equity Act of 
+2007. It is time to treat all who sacrificed during World War II the 
+same.
+  Asian Americans have been there for us. It is time for us to be there 
+for them.
+  Mr. HONDA. Mr. Speaker, I would like to call upon our good friend 
+from California, Congressman Xavier Becerra.
+  Mr. BECERRA. Mr. Speaker, more than anything else I'd like to thank 
+Chairman Mike Honda from California for organizing tonight's special 
+order to celebrate Asian Pacific American Heritage Month because it's 
+important for us to not only say it today, but have it recorded in the 
+Congressional Record for all time that we appreciate what members of 
+American society have done for us, especially members, this month we 
+want to celebrate of Asian Pacific American heritage, who are 
+Americans, patriotic, hardworking, and in every respect trying to live 
+the American dream.
+  And so I stand here with a great deal of pride as a Member of 
+Congress who represents a portion of the city of Los Angeles, a very 
+diverse district with a substantial Asian Pacific American population. 
+I stand here as a very proud member of the Congressional Asian Pacific 
+American Caucus' Executive Committee.
+  And I also stand here very proud to say that on many occasions I've 
+had the opportunity to author legislation very important to the Asian 
+and Pacific American community here in this country, whether it has 
+been the issue of reuniting families of Korean descent who have not 
+seen family members in North Korea for many, many years, or whether 
+it's been legislation to try to help obtain justice for Asians of 
+Latino descent who were deprived of their rights back during World War 
+II and never, never received the recognition they deserved to get their 
+rights and their property back. I had that opportunity.
+  But rather than talk about the 1882 Chinese Exclusion Act which began 
+the whole process of discrimination and racism towards Asian and 
+Pacific Americans in this country, or rather than dwell much longer on 
+the history of the internment of Japanese Americans, some 120,000 back 
+during World War II for no reason, without due process, when, in fact, 
+we found out that Japanese Americans served this country proudly and 
+patriotically. In fact, they were among the most decorated of American 
+soldiers during World War II.
+  And rather than talk about, as I just mentioned, the plight of 
+Filipino soldiers during World War II, who as Filipino veterans, served 
+under the American flag, yet, by an act of Congress in 1946, were 
+deprived of the rights to veterans benefits in this country, let me 
+talk about something else, and not in general terms.
+  Let me talk to you a little bit about America's leaders today and 
+tomorrow. Just yesterday I had the opportunity to award the winner of 
+my Congressional Arts Competition, which we do every year, so the one 
+winner in my district in high school who has an opportunity to present 
+his or her piece of art work in the Capitol of the United States is 
+introduced on that day of the selection. And that was yesterday.
+  My winner, for the 31st Congressional District, was Julie Lee, a high 
+school student in my congressional district who did a phenomenal piece 
+of art work. She will be a leader tomorrow. We know it not just because 
+of her artistic talents, but because she came forward to participate in 
+this process.
+  I could name the various military academy nominees that I've sent off 
+to, whether it's West Point or the Air Force Academy of Japanese, 
+Chinese or Korean American descent that I've had the pleasure and honor 
+to send on to become leaders of this country.
+  Or I could simply talk about someone by the name of Christine Oh, who 
+happens to be a legislative assistant in my Congressional office here, 
+or Henry Truong, who happens to be my executive assistant here in my 
+Washington, D.C. office, who many would consider my gatekeeper because 
+he decides what my schedule looks like; or perhaps Melvin Tabilas in my 
+district office in Los Angeles, who is one of my field representatives 
+who helps me manage an area that has some 650,000 people there to try 
+to make sure we give the people in my district the coverage they need.
+  Or perhaps I could mention the names of people like Stuart Kwoh, who 
+has been a champion for civil rights and simply the rights of 
+Americans, especially those of Asian Pacific American descent in Los 
+Angeles through his work with the Asian Pacific American Legal Center.
+  Or I could speak to you about Grace Shimizu, who has been a champion 
+to have restored to those Japanese Latin Americans the rights they lost 
+during World War II through the organization Campaign For Justice, 
+which she is a part of and leads.
+  Or I could mention Hyepin Im, who is the leader of the Korean 
+Churches for Community Development in the Los Angeles area, now a 
+national organization, which tries to help, through the Korean churches 
+throughout this country, to bring Korean Americans forward and to 
+receive the benefits of what this society offers to Americans.
+  Or perhaps I could mention Joel Jacinto, who is the Director of the 
+Search to involve Filipino Americans, SIPA, an organization which truly 
+goes out into the community, especially in the Filipino American 
+community in Los Angeles to make sure that whether it's on education, 
+housing, health care issues, SIPA is there to offer Filipino Americans 
+those services.
+  Mr. Speaker, to Mr. Honda we say, thank you for letting us have this 
+opportunity to talk about the achievements, the accomplishments of 
+people of Asian Pacific and American descent. Clearly, these are 
+Americans who have persevered and excelled in this country.
+  We could talk about the difficulties of discrimination and racism, 
+the violence that has been experienced by many. But rather than that, I 
+think it's better, most fitting to talk about today's leaders, and 
+tomorrow's leaders in this country.
+  So to one of today's leaders, Congressman Mike Honda, I say thank you 
+for letting us talk today about tomorrow's leaders in this country as 
+well. And with that, with great pride in helping to celebrate Asian 
+Pacific American Heritage Month, I yield back the balance of my time.
+  Mr. HONDA. Just to comment about both Congressmen Al Green and Xavier 
+Becerra, they too are also members of the Congressional Black Caucus 
+and the Hispanic Caucus, and so they serve dual roles in their 
+leadership. And I think CAPAC, the Congressional Asian Pacific American 
+Caucus, enjoys the leadership, experience and the insights of these two 
+gentlemen, and it makes our caucus stronger and partners with the other 
+caucuses.
+  And it's no wonder that they come to Congress on behalf of the 
+community because the communities there trust these two men and they 
+trust their leadership and their insights and their conscience. So to 
+both I say, thank you.
+  I'd like to call upon a Congresswoman who hails from the Aloha State 
+who, I think, is probably the re-incarnation of the spirit of Patsy 
+Mink, Mazie Hirono.
+  Ms. HIRONO. Mr. Speaker, I rise today to join my fellow Congressional 
+Asian Pacific American Caucus, CAPAC members, and my other colleagues 
+in celebrating Asian Pacific American Heritage Month.
+  I'd like to, of course, thank Congressman Honda for organizing this 
+special order tonight, and for his leadership shown throughout the year 
+in his service as chairman of CAPAC.
+  The heritage month theme is ``Meeting the Challenges for Asian 
+Pacific Americans.'' The APA community has come a long way since the 
+days when laws excluded us from coming to this country, barred us from 
+many places, public places, and worse, interned us in camps solely 
+because of our ethnic heritage.
+
+                              {time}  2015
+
+  Nationwide, we are now 14 million strong, and in the next 30 years 
+the APA population is expected to double
+
+[[Page 11454]]
+
+to about 8 percent of the entire U.S. population.
+  Because of our history of labor immigration and our indigenous island 
+population, Hawaii has had a head start in terms of political 
+representation. Our APA communities have lived and worked in our 
+islands since the mid-1800s, when the first Chinese laborers were 
+imported to work in the sugarcane fields. Since 2000, three of our 
+communities, the Okinawans, Koreans, and the Filipinos, have celebrated 
+their centennial anniversaries of arrival to the United States and to 
+Hawaii.
+  Hawaii produced the first Governors in the Nation of Japanese and 
+Filipino ancestry, George Ariyoshi and Ben Cayetano; the first Native 
+Hawaiian Governor, John Waihee; the first Asian American Senators, 
+Hiram Fong and Daniel Inouye; the first Senator of Native Hawaiian 
+ancestry, Daniel Akaka; the first Native Hawaiian and Pacific Islander 
+Member of Congress, Prince Jonah Kuhio Kalanianaole; and the first 
+woman of color to serve in Congress, Patsy Takemoto Mink. And I am 
+privileged to have served as Hawaii's Lieutenant Governor, becoming the 
+first immigrant woman of Asian ancestry elected to statewide office and 
+to be able to continue my service here as the first immigrant born in 
+Japan serving in Congress.
+  Asian and Pacific Islander Members of Congress currently number only 
+nine, including Eni Faleomavaega, our delegate from American Samoa. 
+Also with me in the House are Congress Members Mike Honda and Doris 
+Matsui, Oregon's David Wu, Virginia's Robert Scott, and Louisiana's 
+Bobby Jindals. In the Senate we have Hawaii's two senior statesmen, 
+Senators Daniel Inouye and Daniel Akaka.
+  Although the successes of our APA community over the years have been 
+many, there is another side to our story that is not often discussed. 
+While more Asians have college degrees than any other group in the 
+country, we also have more people who have not graduated from high 
+school compared with other ethnic groups. And while APAs have higher 
+incomes, the U.S. Census counts 1.3 million Asian and Pacific Islanders 
+living in poverty. There are still many wrongs to be righted. Some of 
+them are decades old.
+  On March 1, 2007, I reintroduced the Filipino Veterans Family 
+Reunification Act, H.R. 1287, a companion bill to S. 671, introduced by 
+Senator Akaka. It will accelerate the immigration process for the sons 
+and daughters of the Filipino veterans who fought with our American 
+troops in World War II. I am also a cosponsor of the Filipino Veterans 
+Equity Act, H.R. 760, to fulfill our promise of full veterans' benefits 
+to those Filipino soldiers.
+  I know that questions have been raised about the cost of carrying out 
+our obligation to the Filipino World War II veterans. The Congressional 
+Budget Office has estimated that the cost of enacting H.R. 760 will be 
+$1 billion over a 10-year period. While this is a large sum, it is 
+worth noting that the United States spends approximately $9 billion 
+each month in the war in Iraq.
+  Challenges are also facing our Native Hawaiian population. The desire 
+for self-determination by the indigenous people of my home State has 
+been ignored for far too long by the Federal Government. Native 
+Hawaiians remain the only indigenous group in our country still 
+awaiting Federal recognition similar to the recognition Congress has 
+granted to American Indians and Alaska Natives. H.R. 505, the Native 
+Hawaiian Government Reorganization Act, would set up a process for 
+Native Hawaiians to organize a government entity.
+  By continuing to work together, I am hopeful that we will be able to 
+meet these challenges as we have overcome others in the past. This 
+month Washington, D.C. is hosting the Eighth Pacific Islands Conference 
+of Leaders, PICL. The triennial PICL brings together the heads of 
+government and senior officials from the Pacific, including Hawaii and 
+the U.S. Pacific Territories. This is the first time that the group has 
+met in Washington, D.C., and it is quite an opportunity for all of us 
+here to find common ground on issues facing the Pacific region and our 
+world.
+  In closing, I would again like to thank Congressional Asian Pacific 
+American Caucus Chairman Honda for allowing us this opportunity to 
+reflect upon how far our APA community has come and yet, of course, 
+remember how much further our community has to go.
+  Mahalo and aloha.
+  Mr. HONDA. Mahalo. Thank you very much.
+  Mr. Speaker, I rise today to recognize the Asian American Pacific 
+Islander community and to commemorate Asian Pacific American Heritage 
+Month.
+  As Chair of the Congressional Asian Pacific American Caucus, commonly 
+known as CAPAC, I feel privileged to be here tonight to speak of the 
+Asian and Pacific Islander American history and accomplishments.
+  And before I continue, I would also like to recognize you, Mr. 
+Speaker, for presiding over this Special Order and also knowing that 
+you too have worked with other Asian American leaders in your home 
+State, specifically Senator Stan Matsunaga. For that we are grateful.
+  Additionally, I will be highlighting those isues affecting our 
+community and the priorities for CAPAC.
+  The history of APA Heritage Month: In celebrating APA Heritage Month, 
+I want to give thanks to the late Representative Frank Horton from New 
+York and my good friend Secretary Norman Mineta, along with Senators 
+Daniel Inouye and Spark Masayuki Matsunaga, that May is now designated 
+as Asian Pacific American Heritage Month.
+  The first 10 days of May coincide with two important anniversaries: 
+the arrival of the first Japanese immigrants on May 7, 1843, to the 
+U.S. and the completion of the transcontinental railroad on May 10, 
+1869.
+  In 1992 Congress passed public law No. 102-450, the law that 
+officially designated May of each year as ``Asian Pacific American 
+Heritage Month.'' The first AAPI settlement in this country dates back 
+to 1763, when Filipinos escaped imprisonment aboard Spanish galleons 
+and established a community near New Orleans.
+  The AAPI community quickly expanding. Currently, there are 
+approximately 14.6 million AAPIs living in the United States, 
+comprising just over 5 percent of the total U.S. population. By the 
+year 2050, there will be an estimated 33.4 million individuals living 
+in the United States who identify as Asian alone, representing a 213 
+percent increase from 2000, comprising 8 percent of the total U.S. 
+population. My home State of California has both the largest AAPI 
+population, 4.9 million, and the largest numerical increase of AAPIs 
+since 2000.
+  There are some needs. Mr. Speaker, this year's theme for Asian 
+Pacific American Heritage Month, ``Meeting the Challenges for Asian 
+Pacific Americans,'' reflects hardships overcome by the AAPI community 
+while highlighting the hope we maintain as we contribute to the 
+prosperity of this great Nation. As our community expands, we must also 
+continue to educate our fellow citizens about the uniqueness of our 
+experiences.
+  The AAPI community is often misperceived as monolithic. Our community 
+is extremely diverse in our languages, ethnicities, culture, and 
+challenges. Aggregating such a large and diverse group makes it 
+difficult to understand the unique problems faced by the individual 
+ethnicities and subgroups, such as the Southeast Asian Americans, who 
+are refugees that fled their home countries during the late 1970s and 
+the early 1980s. As a country, we need to better address the needs of 
+the AAPI community when we discuss comprehensive immigration reform, 
+education, health issues, and veterans' affairs.
+  Comprehensive immigration reform: Mr. Speaker, our Nation was founded 
+by immigrants who valued freedom and liberty, who sought to be free 
+from persecution and from tyranny. Families fled their home countries 
+to seek refuge in this great Nation because they too believed in 
+``liberty, justice, and freedom for all.'' It is in this spirit that
+
+[[Page 11455]]
+
+ CAPAC supports immigration legislation that shifts the debate from an 
+exclusionary, anti-immigrant, enforcement-only approach to one that 
+confronts the social and economic realities behind immigration; honors 
+the dignity of all families and communities; and recognizes the 
+economic, social, and cultural contributions of immigrants to our great 
+country.
+  Today, AAPIs constitute a growing and vibrant piece of the American 
+fabric. In 2005 close to 9 million of this Nation's foreign born were 
+born in Asia, constituting approximately one quarter of the foreign-
+born population and over one half of the total AAPI population. Even 
+with a relatively high naturalization rate, there are approximately 1.5 
+million Asian undocumented immigrants living, working, or studying in 
+the U.S., representing 14 percent of the undocumented immigrants in the 
+United States. These include victims of immigration fraud, who have 
+become undocumented due to no fault of their own. Many work and study 
+hard, pay taxes, and yet live in fear with no hope of gaining a path to 
+legal permanent resident status. Let's give these workers and these 
+students an opportunity.
+  In addition to an earned pathway to citizenship, family reunification 
+is a high priority in the AAPI community. Immigration reform must 
+espouse the family values that are so fundamental to our national 
+ideals. Family members provide care for the sick, for their children, 
+and for their elderly. Family members are crucial for small businesses 
+and educational opportunities. Close to 2 million AAPIs wait years, 
+sometimes even decades, in order to reunite with their families in the 
+United States. AAPI families who seek to be reunited with their family 
+members overseas have not seen their dreams come true because of our 
+dysfunctional immigration system. We need comprehensive immigration 
+reform to address these backlogs.
+  And education: In addition to immigration reform, expanding 
+educational access for all Americans is also a high priority for CAPAC. 
+Mr. Speaker, as Americans, we need to ensure that our children receive 
+a quality education by providing adequate teacher training, funds for 
+after-school and extra-curricular activities, and ensuring that college 
+is affordable for every student who desires to receive a higher 
+education.
+  According to the U.S. Census, 41 percent of Asians age 25 and over 
+have a bachelor's degree or higher level of education. However, when 
+the data is disaggregated for AAPI subgroups, we find that the ``model 
+minority'' stereotype is, in fact, a myth. According to the 2000 
+Census, only 9.1 percent of Cambodian Americans, 7.4 percent of Hmong 
+Americans, 7.6 percent of Lao Americans, 19.5 percent of Vietnamese 
+Americans, and 16.5 percent of Native Hawaiians and Pacific Islanders 
+who are 25 years and older have a bachelor's degree or higher degrees.
+  These numbers show that we must do a better job of disaggregating the 
+data and information about our communities to assess the needs of those 
+hardworking Americans who still falter behind.
+  To address the disparities between subgroups of the larger AAPI 
+community, we need Congress to pass the Asian American Pacific Islander 
+Serving Institutions bill, which my colleague from Oregon, 
+Representative David Wu, has introduced in January. This legislation 
+will provide Federal grants to colleges and universities that have an 
+enrollment of undergraduate students that is at least 10 percent AAPI 
+and at least 50 percent of its degree-seeking students receive 
+financial assistance.
+  As a caucus, we will work to increase the availability of loan 
+assistance, scholarships, and programs to allow AAPI students to attend 
+a higher education institution; to ensure full funding for teachers and 
+bilingual education programs under the No Child Left Behind law to 
+support English language learners; and to support full funding of 
+minority outreach programs for access to higher education such as the 
+TRIO programs to expand services to serve AAPI students.
+  In health, Mr. Speaker, a common misperception of AAPIs is that as a 
+group, we face fewer health problems than other racial and ethnic 
+groups. But, in fact, AAPI as a group, and specific populations within 
+this group, do experience disparities in health and health care. For 
+example, AAPIs have the highest hepatitis B rates of any racial group 
+in the United States.
+
+                              {time}  2030
+
+  This week, health advocates from around the country will be 
+participating in a National Awareness Campaign to bring attention to 
+and educate their communities about prevention of hepatitis B through 
+testing and vaccination. In the United States, 12 million people have 
+been infected at some time in their lives with the hepatitis B virus, 
+and more than 5,000 Americans die from hepatitis B related liver 
+complications each year.
+  Asian Americans and Pacific Islanders account for more than half of 
+the chronic hepatitis B cases and half of the deaths resulting from 
+chronic hepatitis B infections in the United States. In order to break 
+the silence surrounding this deadly disease and bring awareness to the 
+American people, Congressman Edolphus Towns, Congressman Charlie Dent 
+and I have introduced H.R. 366, which supports the goals and ideals of 
+National Hepatitis B Awareness Week. I hope my colleagues will join me 
+in educating our communities about the dangers of this disease.
+  AAPIs are also five times more likely to develop cervical and liver 
+cancer than any other ethnic and racial group. Furthermore, according 
+to the Census Bureau, 18 percent of AAPIs went without insurance for 
+the entire year in 2000. This means that the uninsured are not only 
+more likely to go without health care for serious medical conditions, 
+they are also more likely to go without routine care, less likely to 
+have a regular source of care, less likely to use preventive services, 
+and have viewer visits per year.
+  At the same time, without appropriate language translation services 
+or properly translated materials, limited English proficient immigrants 
+cannot receive adequate care as well as State and Federal benefits for 
+which they may be eligible. In the AAPI community, 76 percent of Hmong 
+Americans, 61 percent of Vietnamese Americans, 62 percent of Korean 
+Americans and 39 percent of Tongans speak limited English. Therefore, 
+eliminating health care disparities in the AAPI community must include 
+data collection, linguistically appropriate and culturally competent 
+services and access to health insurance.
+  CAPAC has been working with both the Congressional Hispanic and Black 
+Caucuses on the Health Care Equity and Accountability Act to eliminate 
+ethnic and racial health disparities for all of our communities. The 
+act would expand the health care safety net, diversify the health care 
+workforce, combat diseases that disproportionately affect racial and 
+ethnic minorities, emphasize prevention and behavioral health, and 
+promote the collection and dissemination of data and enhance medical 
+research.
+  Mr. Speaker, I would also like to extend my gratitude to the 
+patriotic men and women serving our country in the military, including 
+the 62,378 AAPIs who are on active duty in the military, and the 7,904 
+AAPIs who are currently deployed in the global war on terrorism. I also 
+commend and thank the 446,000 AAPI veterans who have fought for our 
+country.
+  I would like to highlight and honor the Filipino veterans who have 
+not been compensated or recognized for their service, which I believe 
+is a national disservice to these brave veterans. As a country, it is 
+our duty to ensure these veterans have equal access to all of the 
+benefits and treatment that other veterans receive. We believe that our 
+troops should be taken care of when we send them into battle and that 
+they should be given the respect when they return home. Therefore, 
+CAPAC endorses H.R. 760, the Filipino Veterans Equity Act introduced by 
+Representative Bob Filner, who chairs the House Committee on Veterans' 
+Affairs. CAPAC thanks
+
+[[Page 11456]]
+
+Representaive Filner for his leadership on this issue.
+  H.R. 760 would do justice by providing the full benefits promised to 
+all Filipino veterans who fought in World War II under the command of 
+the U.S. military. The Filipino Veterans Equity Act would eliminate the 
+disparities and benefits between some Filipino veterans and restore the 
+honor and dignity they so deserve. With Congressman Filner as the Chair 
+of the Veterans' Affairs Committee, we have a great chance to get this 
+bill to the floor.
+  There are many firsts among the AAPIs. I am proud of our community's 
+accomplishments, and I would like to recognize many of the AAPIs first 
+in areas of art, film, sports, science, academia and politics, but also 
+emphasize that they should not be the last.
+  In 1847, Yung Wing, a Chinese American, graduated from Yale 
+University and became the first AAPI to graduate from an American 
+university.
+  In 1863, William Ah Hang, a Chinese American, became the first AAPI 
+to enlist in the U.S. Navy during the Civil War.
+  In 1922, Anna May Wong, in her lead role in ``The Toll of the Sea,'' 
+at the age of 17 became the first AAPI female to become a movie star, 
+achieving stardom at a time when prejudice against the Chinese in the 
+United States was rampant.
+  In 1944, An Wang, a Chinese American who invented the magnetic core 
+memory, revolutionized computing and served as a standard method for 
+memory retrieval and storage. And today we have iPods that are smaller 
+than a deck of cards that can hold up to four gigabytes of information, 
+all coming from this 1944 invention by An Wang.
+  During World War II, the 442nd Regimental Combat Team of the United 
+States Army, comprised mostly of Japanese Americans, became the most 
+highly decorated unit of its size in the history of the U.S. Army, 
+including 22 Medal of Honor recipients, Senator Daniel Inouye being one 
+of them.
+  In 1946, Wing F. Ong, a Chinese American of Arizona, became the first 
+AAPI to be elected to State office.
+  In 1947, Wataru ``Wat'' Misaka became the first ethnic minority and 
+the first AAPI to play in the National Basketball Association for the 
+New York Knicks. How about that?
+  In 1948, two Californian divers, Dr. Samuel Lee, a Korean American, 
+and Victoria Manalo Draves, a Filipina American, became the first AAPIs 
+to win Olympic gold medals for the U.S.
+  In 1956, Dalip Singh Saud, an Indian American, became the very fist 
+AAPI to be elected to the U.S. Congress.
+  In 1959, Hiram Leong Fong, a Chinese American, became the first AAPI 
+to be elected as a United States Senator and is the only AAPI to 
+actively seek the Presidential nomination of a major party.
+  In 1965, Patsy Takemoto Mink, a Japanese American, becames the first 
+AAPI woman and woman of color elected to the United States Congress.
+  In 1971, Judge Herbert Choy, late Ninth Circuit Court judge, became 
+the first AAPI to sit on the Federal bench.
+  In 1985, Haing Ngor, a Cambodian American survivor of the Khmer Rouge 
+regime, became the first AAPI to win an Academy Award for his role in 
+``The Killing Fields'' movie.
+  In 1985, Ellison Onizuka, grandson of a Japanese immigrant, became 
+the first AAPI astronaut to reach outer space, and in 1986 died in the 
+space shuttle explosion of the Challenger.
+  In 2000, Secretary Norman Mineta was confirmed as Secretary of 
+Commerce under President Clinton and became the very first AAPI to hold 
+a cabinet post; then continued his service to America as Secretary of 
+Transportation under President Bush.
+  In 2001, Secretary Elaine Chao was confirmed as Secretary of Labor 
+under President George W. Bush, becoming the first AAPI female to hold 
+a cabinet position.
+  Mr. Speaker, the Asian and Pacific Islander American community 
+continues to fight for our civil rights as Americans. Even after the 
+internment of Japanese Americans during World War II, we as a community 
+did not grow embittered or cowed by discrimination; instead, we 
+progressed and moved forward.
+  I am a proud member of the AAPI community, and I am proud to be one 
+because we continue to serve as positive contributors to our many 
+communities by investing in education, business and cultural 
+opportunities for all Americans.
+  In closing, this Asian Pacific American Heritage Month we take pride 
+in our history, accomplishments and the promise of our future as we 
+continue to pave the way for a better tomorrow and a better America.
+  Ms. PELOSI. Mr. Speaker, today I rise in celebration of Asian Pacific 
+American Heritage Month.
+  I am proud to represent the city of San Francisco, where we are 
+blessed in our community to have a thriving Asian American and Pacific 
+Islander (AAPI) population. It is home to our Nation's oldest 
+Japantown, one of the largest Chinatowns, and countless other ethnic 
+communities.
+  As one of the fastest growing ethnic groups in our country, Asian 
+Americans and Pacific Islanders contribute to our economic prosperity, 
+cultural diversity, and political process. Representing 11 different 
+ethnicities, they have a unique voice, which plays a role in the work 
+that we do in Congress to improve the lives of Americans every day.
+  While the debate about comprehensive immigration reform intensifies 
+across the country, it is recognized by many of my colleagues as a 
+hurdle that particularly affects Asian Americans and Pacific Islanders. 
+Whether it is a Chinese student waiting for a visa, or the South Asian 
+worker waiting to be reunited with his family, comprehensive 
+immigration reform is a challenge that must be met. Their experiences 
+reflect that of the first immigrants to our country, who dreamt of a 
+better life for themselves. Within the AAPI community, there is a 
+beautiful diversity that reflects the ideals of family values, hard 
+work, and a wonderful optimism that our nation was founded upon.
+  Asian Americans and Pacific Islanders also face the tragic challenge 
+of combating hate crimes. Last week, the House of Representatives 
+passed legislation that strengthened the ability of local, state, and 
+federal law enforcement agencies to solve a wide range of violent hate 
+crimes based on religion, sexual orientation, gender, gender identity, 
+national origin, or disability. Although a hate crime may affect the 
+life of one victim, its impact reaches deep into the community. All 
+Americans have a right to feel safe in their community. Sadly, we 
+remember Song Sun Lee, Stephen Kam Yan Li, and Robert Stanford, all 
+recent victims of hate, whose lives were unjustly cut short.
+  As we work on legislation to improve lives for the future, we must 
+remember the challenges from the past. World War II set the stage for 
+courageous acts of heroism, but at the same time generated acts of 
+grave injustice and discrimination. I salute the Filipino Veterans who 
+fought bravely during World War II and join them in their fight for 
+full veterans' benefits. I recognize the courage of the remaining 
+comfort women and will work to ensure that their rights are protected.
+  I am pleased to stand here with my colleagues who also recognize the 
+efforts and accomplishments of Asian Americans and Pacific Islanders in 
+this country. I thank Chairman Mike Honda and the rest of the 
+Congressional Asian Pacific American Caucus for their continuous 
+efforts to ensure that the millions of voices of Asian Americans and 
+Pacific Islanders are heard.
+  As we celebrate, let us continue well past Asian Pacific Heritage 
+Month to value and appreciate the contributions of Asian Americans and 
+Pacific Islanders living in the United States.
+  Mr. WU. Mr. Speaker, it is with great honor and pleasure that I join 
+my fellow members of the Congressional Asian Pacific American Caucus to 
+celebrate Asian Pacific American Heritage Month. This May marks the 
+29th time that America has recognized and celebrated the many 
+contributions and achievements of Asian Pacific Americans.
+  America has reached greatness in part by the accumulation of ideas 
+from those with varied heritage and backgrounds. In particular, Asian 
+Pacific Americans have made profound contributions to the arts, 
+education, science, technology, politics and athletics. Asian Pacific 
+Americans have played an active and crucial role in the development of 
+the United States, from linking the coasts of the nation with the 
+transcontinental railroad to bringing the world closer through 
+development of the latest Internet technology.
+  This year, Congress will be debating and voting to reauthorize No 
+Child Left Behind and the Higher Education Act. As a member of the 
+Education and Labor Committee as well as the Congressional Asian 
+Pacific American Caucus, I am working hard to ensure that the
+
+[[Page 11457]]
+
+Asian Pacific American community not only has a seat at the table of 
+these debates, but also a strong voice to shape the national 
+conversation.
+  The Asian Pacific American community remains and always will be an 
+integral and vibrant part of American society. As we take part in the 
+celebration of Asian Pacific American Heritage Month, I urge everyone 
+to participate more deeply in the civic life of our nation. Asian 
+Pacific American civic engagement will help to define our collective 
+future and ensure that we move forward with determination and unity. 
+Let us work together to build bridges and strengthen our great nation's 
+diverse communities.
+  I encourage Congress and the American people to spend the month of 
+May absorbing the legacy, culture and achievements of the Asian Pacific 
+American community.
+  Mr. McDERMIOTT. Mr. Speaker, in many ways the history of America is 
+the history of American immigrants, the people who came here from 
+somewhere else to make a better life for themselves and their families. 
+In so doing, they each have made America stronger as a Nation and 
+culturally richer as a people.
+  That's why it gives me great pleasure to recognize the month of May 
+as Asian Pacific American Heritage Month and, in so doing, recognize 
+the approximately 80,000 Asian Pacific Americans who live in the 7th 
+Congressional District in Washington State, the district I proudly 
+represent. We are home to Asian Indian, Cambodian, Chinese, Filipino, 
+Hmong, Japanese, Korean, Laotian, Vietnamese, Pacific Islanders, 
+Samoan, Tongan and representatives of other Asian American cultures as 
+well. Their contributions to Seattle, the surrounding communities, and 
+to America deserve to be celebrated, not just merely recognized.
+  Throughout the year, I am honored to join constituents at 
+commemorative events like the International District Street Fair, Bon 
+Odori and Tet in Seattle. These and other truly unique cultural 
+celebrations enrich our communities and our personal lives. For 
+instance, every chance I get, I now enjoy Sumi-e painting, a Japanese 
+art form, where ink is used to depict a subject in the fewest number of 
+strokes. When someone of Irish decent like me can assimilate an Asian 
+art form, it is a reminder that America's great strength is America's 
+great diversity.
+  Asian Americans immigrated to the United States in the late 19th 
+century, but many faced prejudice, racial injustice and discrimination. 
+They responded with quiet, dignified resolve and made America stronger 
+by their commitment to equality for all. Trying to mention all the 
+significant achievements and role models from the Asian American 
+community would fill a very large roomful of books, but I am proud to 
+mention some in the 7th Congressional District.
+  In Seattle, the United States Courthouse is named for William Kenzo 
+Nakamura, a Japanese American who was posthumously awarded the 
+Congressional Medal of Honor for his courage in World War II, an honor 
+especially poignant because William and his family were forcibly 
+relocated to a federal internment camp at the beginning of the war. The 
+courthouse is a perfect symbol and memorial to an American who 
+sacrificed his life so that others might be free. Elsewhere in Seattle, 
+the Wing Luke Asian Museum, Seattle Asian Art Museum, Filipino American 
+National Historical Society, and Densho: The Japanese American Legacy 
+Project, strengthen America by preserving the heritage of Asian 
+Americans.
+  Today, Seattle is truly a global city, with a culturally diverse 
+population that underscores our deep involvement in global issues and 
+trade. Over one quarter of the jobs across Washington State are 
+directly tied to international trade. In fact, trade is growing and we 
+are succeeding because of the relationships we have built with the help 
+of the Asian American community.
+  It is my hope that recognizing May as Asian Pacific American Heritage 
+Month reminds us of the role immigrants have played in shaping the 
+history of our Nation. Ahead, we must examine the issue of immigration, 
+and I believe we can and should be guided by reflecting on the 
+contributions that immigrants have made and continue to make.
+  As we look ahead, let us honor and remember our past, and remember 
+that we are all immigrants and when we pause to honor Asian Pacific 
+Americans, we honor all Americans.
+
+                          ____________________
+```

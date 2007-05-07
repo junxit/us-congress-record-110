@@ -1,0 +1,43 @@
+---
+granule: CRECB-2007-pt8-Pg11475-5
+date: 2007-05-07
+edition: CRECB
+section: EXTENSIONS
+page: 11475
+---
+
+# TRIBUTE TO JAMAAL RASHARD ADDISON
+
+```
+                   TRIBUTE TO JAMAAL RASHARD ADDISON
+
+                                 ______
+                                 
+
+                  HON. HENRY C. ``HANK'' JOHNSON, JR.
+
+                               of georgia
+
+                    in the house of representatives
+
+                          Monday, May 7, 2007
+
+  Mr. JOHNSON of Georgia. Madam Speaker, in the Fourth Congressional 
+District of Georgia, there are many individuals who are called to 
+contribute to the needs of our community through leadership and 
+service.
+  Jamaal Rashard Addison was born on October 7, 1980 and began his 
+education in the DeKalb County Educational School system and graduated 
+from Lakeside High School with honors.
+  Jamaal Rashard Addison enlisted in the United States Army on March 1, 
+2000 and faithfully served this country until March 23, 2003, when he 
+became Georgia's first fallen soldier in the Iraq war.
+  This remarkable young man gave of himself, his time, his talent, and 
+his life.
+  Jamaal Rashard Addison was a soldier, a warrior, a father, a son, a 
+brother and a friend.
+  I was pleased to set aside April 28, 2007 to honor and recognize 
+Jamaal Rashard Addison for his leadership and service to our country.
+
+                          ____________________
+```

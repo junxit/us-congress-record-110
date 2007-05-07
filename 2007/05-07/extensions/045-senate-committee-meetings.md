@@ -1,0 +1,346 @@
+---
+granule: CRECB-2007-pt8-Pg11485-3
+date: 2007-05-07
+edition: CRECB
+section: EXTENSIONS
+page: 11485
+---
+
+# SENATE COMMITTEE MEETINGS
+
+```
+                       SENATE COMMITTEE MEETINGS
+
+  Title IV of Senate Resolution 4, agreed to by the Senate on February 
+4, 1977, calls for establishment of a system for a computerized 
+schedule of all meetings and hearings of Senate committees, 
+subcommittees, joint committees, and committees of conference. This 
+title requires all such committees to notify the Office of the Senate 
+Daily Digest--designated by the Rules Committee--of the time, place, 
+and purpose of the meetings, when scheduled, and any cancellations or 
+changes in the meetings as they occur.
+  As an additional procedure along with the computerization of this 
+information, the Office of the Senate Daily Digest will prepare this 
+information for printing in the Extensions of Remarks section of the 
+Congressional Record on Monday and Wednesday of each week.
+  Meetings scheduled for Monday, May 7, 2007 may be found in the Daily 
+Digest of today's Record.
+
+                           MEETINGS SCHEDULED
+
+                                 MAY 8
+     10 a.m.
+       Commerce, Science, and Transportation
+         Business meeting to consider pending calendar business.
+                                                            SR-253
+       Finance
+         To hold an oversight hearing to examine the Medicare 
+           prescription drug benefit.
+                                                            SD-215
+       Health, Education, Labor, and Pensions
+         To hold hearings to examine community integration and 
+           recovery, focusing on transforming mental health and 
+           substance abuse systems of care.
+                                                            SD-628
+       Judiciary
+         To hold hearings to examine privacy and civil liberties 
+           concerns, focusing on the REAL ID Act (Public Law 109-
+           13).
+                                                            SD-226
+     2:30 p.m.
+       Appropriations
+       Energy and Water Development Subcommittee
+         To hold hearings to examine the policies and funding 
+           necessary for reducing U.S. oil dependence relating to 
+           the results of an analysis conducted to assess the 
+           economic impact of implementing the Energy Security 
+           Leadership Council's recommendations to the Nation.
+                                                            SD-192
+       Intelligence
+       Closed business meeting to consider certain intelligence 
+           matters.
+                                                            SH-219
+
+                                 MAY 9
+     9:30 a.m.
+       Agriculture, Nutrition, and Forestry
+         To hold hearings to examine farm bill policy proposals 
+           relating to farm and energy issues and rural 
+           development.
+                                                           SR-328A
+       Foreign Relations
+         To hold hearings to examine climate change relating to 
+           national security threats.
+                                                            SD-419
+       Veterans' Affairs
+         To hold hearings to examine on benefits legislation.
+                                                            SD-562
+     10 a.m.
+       Judiciary
+         Business meeting to consider S. 376, to amend title 18, 
+           United States Code, to improve the provisions relating 
+           to the carrying of concealed weapons by law enforcement 
+           officers, and S. 221, to amend title 9, United States 
+           Code, to provide for greater fairness in the 
+           arbitration process relating to livestock and poultry 
+           contracts.
+                                                            SD-226
+       Environment and Public Works
+       Private Sector and Consumer Solutions to Global Warming and 
+           Wildlife Protection Subcommittee
+         To hold hearings to examine emerging technologies and 
+           practices for reducing greenhouse gas emissions.
+                                                            SD-406
+
+[[Page 11486]]
+
+     10:30 a.m.
+       Appropriations
+       Defense Subcommittee
+         To hold hearings to examine proposed budget estimates for 
+           fiscal year 2008 for the Department of Defense.
+                                                            SD-192
+     2:30 p.m.
+       Commerce, Science, and Transportation
+       Consumer Affairs, Insurance, and Automotive Safety 
+           Subcommittee
+         To hold hearings to examine All-Terrain Vehicle (ATV) 
+           safety.
+                                                            SR-253
+       Foreign Relations
+         To hold hearings to examine the nominations of Dell L. 
+           Dailey, of South Dakota, to be Coordinator for 
+           Counterterrorism, with the rank and status of 
+           Ambassador at Large, and Mark P. Lagon, of Virginia, to 
+           be Director of the Office to Monitor and Combat 
+           Trafficking, with the rank of Ambassador at Large.
+                                                            SD-419
+     3 p.m.
+       Appropriations
+       Financial Services and General Government Subcommittee
+         To hold hearings to examine proposed budget estimates for 
+           fiscal year 2008 for the Internal Revenue Service.
+                                                            SD-192
+       Aging
+         To hold hearings to examine the future of Medicare, 
+           focusing on recognizing the need for chronic care 
+           coordination.
+                                                            SD-106
+
+                                 MAY 10
+     9 a.m.
+       Homeland Security and Governmental Affairs
+       Oversight of Government Management, the Federal Workforce, 
+           and the District of Columbia Subcommittee
+         To hold hearings to examine a status report on reform 
+           efforts by the Under Secretary of Homeland Security for 
+           Management.
+                                                            SD-342
+     9:30 a.m.
+       Energy and Natural Resources
+         To hold hearings to examine the nominations of Joseph 
+           Timothy Kelliher, of the District of Columbia, to be a 
+           Member of the Federal Energy Regulatory Commission, and 
+           R. Lyle Laverty, of Colorado, to be Assistant Secretary 
+           for Fish and Wildlife.
+                                                            SD-366
+       Indian Affairs
+         Business meeting to consider pending legislative 
+           business.
+                                                            SR-485
+       Appropriations
+       Transportation, Housing and Urban Development, and Related 
+           Agencies Subcommittee
+         To hold hearings to examine the Federal Aviation 
+           Administration's budget performance and treatment.
+                                                            SD-138
+     10 a.m.
+       Finance
+         To hold hearings to examine economic issues for America's 
+           working families and middle class.
+                                                            SD-215
+       Judiciary
+         To hold hearings to examine the nominations of Leslie 
+           Southwick, of Mississippi, to be United States Circuit 
+           Judge for the Fifth Circuit, Janet T. Neff, to be 
+           United States District Judge for the Western District 
+           of Michigan, and Liam O'Grady, to be United States 
+           District Judge for the Eastern District of Virginia.
+                                                            SD-226
+       Commerce, Science, and Transportation
+       Oceans, Atmosphere, Fisheries, and Coast Guard Subcommittee
+         To hold hearings to examine the effects of climate change 
+           and ocean acidification on living marine resoucres.
+                                                            SR-253
+       Appropriations
+       State, Foreign Operations, and Related Programs 
+           Subcommittee
+         To hold hearings to examine proposed budget estimates for 
+           fiscal year 2008 for the Department of State and 
+           foreign operations.
+                                                            SD-192
+     2:30 p.m.
+       Homeland Security and Governmental Affairs
+         To hold hearings to examine violent Islamist extremism, 
+           focusing on government efforts to defeat it.
+                                                            SD-342
+     3 p.m.
+       Banking, Housing, and Urban Affairs
+         To hold hearings to examine the nominations of David 
+           George Nason, of Rhode Island, to be a Member of the 
+           Board of Directors of the National Consumer Cooperative 
+           Bank, Nguyen Van Hanh, of California, to be a Member of 
+           the Board of Directors of the National Consumer 
+           Cooperative Bank, David George Nason, of Rhode Island, 
+           to be an Assistant Secretary of the Treasury, Mario 
+           Mancuso, of New York, to be Under Secretary of Commerce 
+           for Export Administration, Michael W. Tankersley, of 
+           Texas, to be Inspector General, Export-Import Bank, 
+           Bijan Rafiekian, of California, to be a Member of the 
+           Board of Directors of the Export-Import Bank of the 
+           United States, Scott A. Keller, of Florida, to be an 
+           Assistant Secretary of Housing and Urban Development, 
+           Robert M. Couch, of Alabama, to be General Counsel of 
+           the Department of Housing and Urban Development, and 
+           Janis Herschkowitz, of Pennsylvania, to be a Member of 
+           the Board of Directors of the National Consumer 
+           Cooperative Bank.
+                                                            SD-538
+
+                                 MAY 15
+     10 a.m.
+       Commerce, Science, and Transportation
+         To hold hearings to examine communications, taxation and 
+           federalism.
+                                                            SR-253
+     2:30 p.m.
+       Energy and Natural Resources
+       National Parks Subcommittee
+         To hold hearings to examine S. 553, to amend the Wild and 
+           Scenic Rivers Act to designate certain segments of the 
+           Eightmile River in the State of Connecticut as 
+           components of the National Wild and Scenic Rivers 
+           System, S. 800, to establish the Niagara Falls National 
+           Heritage Area in the State of New York, S. 916, to 
+           modify the boundary of the Minidoka Internment National 
+           Monument, to establish the Minidoka National Historic 
+           Site, to authorize the Secretary of the Interior to 
+           convey certain land and improvements of the Gooding 
+           Division of the Minidoka Project, Idaho, S. 1057, to 
+           amend the Wild and Scenic Rivers Act to designate 
+           certain segments of the New River in the States of 
+           North Carolina and Virginia as a component of the 
+           National Wild and Scenic Rivers System, S. 1209, to 
+           provide for the continued administration of Santa Rosa 
+           Island, Channel Islands National Park, in accordance 
+           with the laws (including regulations) and policies of 
+           the National Park Service, S. 1281, to amend the Wild 
+           and Scenic Rivers Act to designate certain rivers and 
+           streams of the headwaters of the Snake River System as 
+           additions to the National Wild and Scenic River System, 
+           H.R. 161, to adjust the boundary of the Minidoka 
+           Internment National Monument to include the Nidoto Nai 
+           Yoni Memorial in Bainbridge Island, Washington, H.R. 
+           247, to designate a Forest Service trail at Waldo Lake 
+           in the Willamette National Forest in the State of 
+           Oregon as a national recreation trail in honor of Jim 
+           Weaver, a former Member of the House of 
+           Representatives, and H.R. 376, to authorize the 
+           Secretary of the Interior to conduct a special resource 
+           study to determine the suitability and feasibility of 
+           including the battlefields and related sites of the 
+           First and Second Battles of Newtonia, Missouri, during 
+           the Civil War as part of Wilson's Creek National 
+           Battlefield or designating the battlefields and related 
+           sites as a separate unit of the National Park System.
+                                                            SD-366
+
+                                 MAY 16
+     10 a.m.
+       Judiciary
+         To hold hearings to examine rogue online pharmacies, 
+           focusing on the growing problem of internet drug 
+           trafficking.
+                                                            SD-226
+       Veterans' Affairs
+         To hold hearings to examine the nomination of Michael K. 
+           Kussman, of Massachusetts, to be Under Secretary for 
+           Health of the Department of Veterans Affairs.
+                                                            SD-562
+     2:30 p.m.
+       Commerce, Science, and Transportation
+         Business meeting to consider pending calendar business.
+                                                            SR-253
+       Small Business and Entrepreneurship
+         Business meeting to markup S. 1256, to amend the Small 
+           Business Act to reauthorize loan programs under that 
+           Act.
+                                                           SR-428A
+
+                                 MAY 17
+     9:30 a.m.
+       Armed Services
+         To hold hearings to examine the United States European 
+           Command in review of the Defense Authorization Request 
+           for Fiscal Year 2008 and the Future Years Defense 
+           Program.
+                                                            SH-216
+     10 a.m.
+       Commerce, Science, and Transportation
+         To hold hearings to examine violence in the media.
+                                                            SR-253
+
+
+[[Page 11487]]
+
+                                 MAY 22
+     10 a.m.
+       Commerce, Science, and Transportation
+       Surface Transportation and Merchant Marine Infrastructure, 
+           Safety and Security Subcommittee
+         To hold hearings to examine rail safety reauthorization.
+                                                            SR-253
+
+                                 MAY 23
+     9:30 a.m.
+       Veterans' Affairs
+         To hold hearings to examine on health legislation.
+                                                            SD-562
+
+                                 MAY 24
+     10 a.m.
+       Commerce, Science, and Transportation
+         To hold hearings to examine the nominations of Michael E. 
+           Baroody, of Virginia, to be Chairman and Commissioner 
+           of the Consumer Product Safety Commission, and Charles 
+           Darwin Snelling, of Pennsylvania, to be a Member of the 
+           Board of Directors of the Metropolitan Washington 
+           Airports Authority.
+                                                            SR-253
+
+                             CANCELLATIONS
+
+                                 MAY 9
+     10 a.m.
+       Rules and Administration
+         To hold hearings to examine improving energy efficiency, 
+           increasing the use of renewable sources of energy, and 
+           reducing the carbon footprint on the Capitol complex.
+                                                            SR-301
+
+                                 MAY 10
+     2:30 p.m.
+       Intelligence
+         To hold closed hearings to examine certain intelligence 
+           matters.
+                                                            SH-219
+
+                             POSTPONEMENTS
+
+     2 p.m.
+       Judiciary
+         To hold hearings to examine the nomination of Michael J. 
+           Sullivan, of Massachusetts, to be Director, Bureau of 
+           Alcohol, Tobacco, Firearms, and Explosives.
+                                                            SD-226
+```

@@ -1,0 +1,116 @@
+---
+granule: CRECB-2007-pt8-Pg11360
+date: 2007-05-07
+edition: CRECB
+section: SENATE
+page: 11360
+---
+
+# DRUG SAFETY
+
+```
+                              DRUG SAFETY
+
+  Mr. KENNEDY. Mr. President, hopefully during this afternoon we will 
+have a chance to move irrevocably toward bringing the FDA into the 21st 
+century, in terms of safety and security for American families. We do 
+that with our primary focus making sure that in this time of the life 
+sciences, the extraordinary breakthroughs we are seeing every single 
+day, that the Food and Drug Administration is going to bring those new 
+opportunities to American families but do it safely and do it 
+efficaciously and do it in a way which is going to ensure that every 
+family in America is going to have safe prescription drugs and safe 
+products over which the FDA has jurisdiction.
+  I thank my friend from Wyoming for all his good work. We are going to 
+have a series of three votes, and then we may very well set a pathway, 
+hopefully, toward a successful conclusion of this legislation. He and I 
+are both eager to see this legislation in the conference to work out, 
+with the House of Representatives, the points of difference with the 
+House. We are also eager to work out the extremely important area of 
+the follow-on biologics. It is an enormously important area of public 
+health, and it is going to demand a great deal of time and careful 
+attention to make sure we get that issue correct.
+  It is important to not fail the American people but to see progress 
+made in addressing this issue. The only way we can do it is make sure 
+we get legislation that is going to pass the Senate, pass the House of 
+Representatives, and move into conference. We are strongly committed to 
+doing that.
+  I commend our colleagues for all their good work and assistance. We 
+had a rigorous markup in our committee for several hours. There were a 
+number of different amendments. We have addressed the issue of food 
+safety with the Durbin amendment. This issue has been on the front 
+pages all over this country and all over the world, particularly with 
+regard to pet food as well as food safety generally. This legislation 
+will go a long way toward giving assurances to American families that 
+all of our food products are going to be safe and secure.
+  There are other provisions such as developing a nonprofit foundation 
+so we can draw from the private sector and the public sector to make 
+sure that agency is going to have the best of new techniques and new 
+modalities, and to try to make sure the products that are before the 
+Agency are going to be safe and secure and available as fast as 
+possible. There will be a new emphasis in terms of science and also, as 
+my friend from Wyoming points out, a toolbox that will be available to 
+the FDA in order to ensure that we can get drugs more rapidly to the 
+consumer but make sure they will be safer for American families, using 
+the best of new technology, information technology, to make sure they 
+are going to be more safe.
+  I am enormously appreciative of the work of my friend from North 
+Dakota, Senator Dorgan, on the issue of cost and price. Part of this is 
+making sure we are going to have drugs that will be safe, but we also 
+want to make them accessible and available. I commend him and all those 
+who have been a part of this process. This is certainly an aspect of 
+the prescription drug issue that we should constantly address.
+  I thank Senator Roberts and Senator Harkin for working with Senator 
+Enzi and me on the important issue of DTC, direct-to-consumer 
+advertising. We have accomplished our common goal of a constitutionally 
+sound, effective, workable way to make sure that DTC ads provide 
+accurate information to patients about the drugs they are taking. This 
+amendment strikes the moratorium on DTC ads that had given rise to 
+Constitutional concerns, and I think we have a very solid resolution. I 
+wish to thank Senators Stabenow, Brown, Lott, Thune, Coburn and Hatch 
+for reaching agreement on the difficult issue of citizens petitions. 
+Their amendment prohibits the abuse of the citizens petition process, a 
+process that led to unwarranted delays in the approval process of FDA 
+drugs, while making certain the FDA can review issues that have merit. 
+The list also includes a novel proposal from Senator Brownback and 
+Senator Brown to encourage the development of new therapies for 
+neglected diseases. Under this innovative and thoughtful proposal, 
+companies that have developed new treatments or vaccines for tropical 
+diseases will receive a credit entitling them to a priority review at 
+FDA for a product of their choosing. The proposal will not raise costs 
+to consumers nor will it change safety standards. It is a very solid, 
+imaginative, and creative approach. I commend Senator Hatch for his 
+amendment on antibiotics, as well Senators Brown, Burr, Stabenow and 
+others for contributing important proposals to this amendment.
+  The amendment strikes the right balance between innovation and 
+access, and closes a loophole that eliminated the incentives to bring 
+old but never approved antibiotics to market.
+  If there were more time, I would describe other amendments on the 
+list, but I simply wish to thank all our colleagues. This issue is a 
+matter of enormous importance and incredible consequence to the safety 
+and security of the American consumer. This legislation brings the FDA 
+into the 21st century. I commend my friend and colleague Senator Enzi 
+for all his work. Most of all, I want to thank our staffs. They have 
+been tireless, over this past week, on a variety of different 
+amendments and prior to that time as we worked our way to the floor of 
+the Senate.
+  This is a very comprehensive bill. It is enormously important. We 
+believe it will help in providing greater safety for American families, 
+greater innovativeness in terms of breakthrough drugs and in terms of 
+food safety, and greater opportunities for the FDA to have the best 
+science there is.
+  Mr. President, whatever remaining time that I have, I yield it to the 
+Senator from Vermont.
+  I yield the floor.
+  Mr. DORGAN. Mr. President, I will allow the Senator from Kansas, if 
+he would prefer, to proceed for his 5 minutes, asking that I be 
+recognized for 10 minutes following his presentation.
+  Mr. ROBERTS. Mr. President, I thank the distinguished Senator. I 
+thank the distinguished Senator from Vermont for allowing me to speak.
+
+[[Page 11361]]
+
+
+
+                          ____________________
+```
