@@ -1,0 +1,53 @@
+---
+granule: CREC-2007-05-07-pt1-PgH4529
+date: 2007-05-07
+edition: CREC
+section: HOUSE
+page: H4529
+citation: 153 Cong. Rec. H4529
+---
+
+# ILLEGAL IMMIGRATION IS A WORLD CRISIS
+
+**Speaking:** Poe, Ted (P000592) [R-TX]
+
+```
+                 ILLEGAL IMMIGRATION IS A WORLD CRISIS
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from Texas (Mr. Poe) is recognized for 5 minutes.
+  Mr. POE. Mr. Speaker, France has a new President, Nicolas Sarkozy. 
+While the world waits to see if he will give vigor and energy and 
+leadership to his complex and sometimes difficult French people, his 
+position on illegal immigration is quite clear.
+  Europe has its influx of illegals, not unlike the United States. 
+Northern Africans are fleeing their native lands for Europe. They go 
+mostly to Spain, where French President-elect Sarkozy accuses Spain of 
+promoting amnesty in that Nation. Of course, once in Spain, it seems 
+these illegals can roam Europe with ease.
+  Mr. Sarkozy claims Spain wants to give amnesty to now 600,000 
+illegals in its Nation. Mr. Sarkozy wants to ban European Nations from 
+offering amnesty. He wants to bolster the EU border agency, the group 
+that parols the African coast, with more police forces and use of the 
+military to prevent the illegal landings in Europe.
+  It is interesting to note, Mr. Speaker, that Morocco, one of the 
+Nations where people illegally flee to Europe from, wants the illegal 
+flight to stop from its Nation. Almost 40 percent of the Africans that 
+go to Europe by sea die in the process. This is a world crisis. Morocco 
+wants to develop its native lands with European aid to keep people 
+home, change the despair to hope by economic development, quit sending 
+its problem to Europe but solve its problem. African Nations see the 
+answer to solving their economic problems is not sending their 
+populations to the north to Europe.
+  Mr. Sarkozy wants the European Union to have an EU-wide policy on 
+illegal immigration and deal with this issue head-on instead of ignore 
+the obvious. We shall see if this cooperation with the EU and France 
+and the African countries works to stop the illegal entry, and we wish 
+Mr. Sarkozy well in his presidency of France.
+  Meanwhile, back at home, here in the United States, our borders seem 
+to be as open as ever because our government does not have the moral 
+will to enforce the rule of law.
+  And that's just the way it is.
+
+                          ____________________
+```

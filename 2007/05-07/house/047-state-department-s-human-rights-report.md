@@ -1,0 +1,73 @@
+---
+granule: CREC-2007-05-07-pt1-PgH4528-6
+date: 2007-05-07
+edition: CREC
+section: HOUSE
+page: H4528
+citation: 153 Cong. Rec. H4528
+---
+
+# STATE DEPARTMENT'S HUMAN RIGHTS REPORT
+
+**Speaking:** Pallone, Frank (P000034) [D-NJ]
+
+```
+                 STATE DEPARTMENT'S HUMAN RIGHTS REPORT
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from New Jersey (Mr. Pallone) is recognized for 5 minutes.
+  Mr. PALLONE. Mr. Speaker, each year, the Department of State issues a 
+report outlining the human rights practices of various Nations, and I 
+object this evening to the inaccuracies in the Armenia section of the 
+2006 Country Reports on Human Rights Practices.
+  Originally, the State Department issued erroneous language about 
+Armenia being an occupier of Azerbaijani territory and Nagorno-
+Karabakh, the report was substantively revised with more balanced, 
+although still not fully accurate, wording and then revised again to 
+restore the original inaccurate language.
+  I am deeply disturbed by the State Department's mischaracterization 
+of the Nagorno-Karabakh conflict. It is unprecedented and 
+counterproductive to our government's goal of actively promoting 
+constructive engagement in the peace negotiations of the region. It 
+also sets a troubling example by allowing a foreign State, in this case 
+Azerbaijan, to shape the assessments of our human rights report.
+  To assert that Nagorno-Karabakh is Azerbaijani territory or that 
+Armenia occupies Nagorno-Karabakh and other territories is simply 
+wrong. This version ignores the reality that the current conflict is 
+about the self-determination of the people of Nagorno-Karabakh.
+  Like many other ethnic autonomous regions with the status of Oblast 
+under
+
+[[Page H4529]]
+
+the Soviet Constitution, the people of Nagorno-Karabakh declared their 
+independence. They then conducted a referendum as set forth in the same 
+Soviet Constitution, and they are now an independent republic and 
+should be recognized as a Nation, just like Azerbaijan, Armenia and any 
+other former Soviet Republic. The situation has absolutely nothing to 
+do with Armenia. The only role Armenia plays in this conflict is that 
+country's part in peace negotiations.
+  Mr. Speaker, I am concerned that Armenia is being characterized as an 
+abuser of human rights in the region when it is Azerbaijan who 
+continues to maintain a blockade of both Nagorno-Karabakh and Armenia, 
+and regularly threatens a new wave of violence against Nagorno-
+Karabakh.
+  Such misrepresentations will undermine our Nation's credibility as an 
+impartial mediator and jeopardize prospects for successful peace 
+negotiations. It could also have a negative impact on U.S.-Armenia 
+relations.
+  Our common aim as a country should be to focus on workable diplomacy 
+that brings parties together in the spirit of conflict resolution, not 
+to cause additional tension by introducing new and controversial 
+elements into an already complex negotiating process.
+  Mr. Speaker, the United States has a long history of supporting 
+Nagorno-Karabakh's democracy and its right to live in freedom and 
+peace. The State Department has never made assertions in previous 
+reports about Armenia being an occupier of Azerbaijani territory and 
+Nagorno-Karabakh.
+  Last week, I sent a letter to Secretary Rice with my concerns over 
+the State Department report's language, and I urged her to quickly 
+reverse the State Department's mischaracterization.
+
+                          ____________________
+```
