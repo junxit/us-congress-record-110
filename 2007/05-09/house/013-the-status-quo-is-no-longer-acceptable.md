@@ -1,0 +1,36 @@
+---
+granule: CRECB-2007-pt8-Pg11789-4
+date: 2007-05-09
+edition: CRECB
+section: HOUSE
+page: 11789
+---
+
+# THE STATUS QUO IS NO LONGER ACCEPTABLE
+
+```
+                 THE STATUS QUO IS NO LONGER ACCEPTABLE
+
+  (Mr. SIRES asked and was given permission to address the House for 1 
+minute.)
+  Mr. SIRES. Mr. Speaker, with President Bush's veto last week, it is 
+clear that if this Congress is going to take this war in a new 
+direction, we need some of our Republican colleagues to join with us. 
+Unfortunately, it seems that the House Republicans are still willing to 
+blindly follow the President, no matter the facts in Iraq.
+  Consider this statement from Minority Leader Boehner over the 
+weekend. He said, and I quote, ``We want a clean bill. We don't want 
+artificial deadlines. We don't want artificial measures in there to try 
+to ensure failure.''
+  Let's not forget that the artificial measures that the minority 
+leader is referring to were actually measures designed by President 
+Bush himself to hold the Iraqi Government accountable. These are 
+critical measures that will put the pressure on the Iraqi Government to 
+make political, diplomatic and economic reforms. So far, none of these 
+benchmarks have been met.
+  It is time that the House Republicans realize that the status quo is 
+no longer acceptable to the American people. We have to keep pressure 
+on the Iraqis to initiate these reforms and bring our troops home.
+
+                          ____________________
+```
