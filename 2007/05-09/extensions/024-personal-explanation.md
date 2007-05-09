@@ -1,0 +1,72 @@
+---
+granule: CREC-2007-05-09-pt1-PgE997-2
+date: 2007-05-09
+edition: CREC
+section: EXTENSIONS
+page: E997
+citation: 153 Cong. Rec. E997
+---
+
+# PERSONAL EXPLANATION
+
+**Speaking:** Gillibrand, Kirsten E. (G000555) [D-NY]
+
+**Measures:** H.Res. 348, H.Res. 350
+
+```
+                          PERSONAL EXPLANATION
+
+                                 ______
+                                 
+
+                       HON. KIRSTEN E. GILLIBRAND
+
+                              of new york
+
+                    in the house of representatives
+
+                         Wednesday, May 9, 2007
+
+  Mrs. GILLIBRAND. Madam Speaker, I was not present to vote on 
+Wednesday, May 2, 2007, because I was in my upstate New York district, 
+attending the funeral of State Trooper David Brinkerhoff, a State 
+trooper killed in the line of duty.
+  Had I been present, I would have voted in the following way:
+  (1) Democratic Motion on Ordering the Previous Question on the Head 
+Start Rule--``yea.''
+  (2) H. Res. 348--Rule providing for consideration of the Head Start 
+bill--``yea.''
+  (3) H. Res. 350--Rule providing for consideration of the NIST bill--
+``yea.''
+  (4) Will the House, on reconsideration, pass the Iraq Supplemental, 
+the objections of the President to the contrary notwithstanding?--
+``yea.''
+  (5) Price (GA) Amendment. Establishes an 8-state Block Grant 
+demonstration of Head Start program which would eliminate Head Start 
+program standards, weaken oversight and accountability, remove local 
+control, and end Head Start as we know it.--``nay.''
+  (6) Sestak/Tierney/Courtney Amendment. Authorizes a loan forgiveness 
+program for Head Start teachers to support better teacher quality in 
+Head Start programs.--``yea.''
+  (7) Hirono Amendment. Improves the Early Head Start program by making 
+needed improvements to the training and technical assistance system in 
+Early Head Start.--``yea.''
+  (8) Mica Amendment. Moves the deadline up by 2 years for when Head 
+Start teachers must have B.A.'s, without providing additional resources 
+to ensure programs would not have to reduce other core services.--
+``nay.''
+  (9) Putnam Amendment. Removes the bill's improved accountability 
+measures that include a system of program quality review by requiring 
+all Head Start programs to be re-competed every 5 years regardless 
+oftheir quality; draws funding away from the classroom for greater 
+federal bureaucracy.--``nay.''
+  (10) Carnahan Amendment. Ensures programs can maintain quality 
+services by allowing grantees to negotiate enrollment levels when 
+appropriations are insufficient to cover COLA.--``yea.''
+  (11) Shuler/Ellsworth/Loebsack Amendment. Affirms eligibility of 
+faith-based organizations as Head Start grantees and applauds role of 
+community and faith based organizations in the Head Start program.--
+``yea.''
+
+                          ____________________
+```

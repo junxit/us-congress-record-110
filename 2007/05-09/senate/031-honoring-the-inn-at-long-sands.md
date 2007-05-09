@@ -1,0 +1,74 @@
+---
+granule: CREC-2007-05-09-pt1-PgS5865-4
+date: 2007-05-09
+edition: CREC
+section: SENATE
+page: S5865
+citation: 153 Cong. Rec. S5865
+---
+
+# HONORING THE INN AT LONG SANDS
+
+**Speaking:** Snowe, Olympia J. (S000663) [R-ME]
+
+```
+                     HONORING THE INN AT LONG SANDS
+
+● Ms. SNOWE. Mr. President, today I wish to honor and recognize 
+a small business from my home State that has triumphed over adversity 
+in the wake of several major coastal storms. The Inn at Long Sands in 
+York Beach, ME, suffered extensive damage as the result of a 
+devastating storm on Mother's Day weekend of May 2006. With Memorial 
+Day weekend approaching, signaling the unofficial beginning of summer--
+a busy time for York County's tourism industry--Arline Shea, the Inn's 
+co-owner watched countless hotel and meal reservations get washed away. 
+As a result of the storm, the Inn sustained over $100,000 in damage. 
+This was not a welcome beginning for Arline, who had just purchased the 
+Inn in February 2006.
+  Although the storm dealt Arline a heavy blow, she exemplified Maine's 
+entrepreneurial spirit by reopening in a matter of weeks. To recover 
+from the damage the Inn had sustained, Arline wisely made good use of 
+the tools available to small businesses in the wake of disasters. She 
+contacted the Federal Emergency Management Agency and the Small 
+Business Administration to find out what kinds of assistance she would 
+be able to receive. Arline's exemplary decision to find out what help 
+was available to her, along with her hard work and dedication, allowed 
+her to reopen the Inn and Long Sands in time for last year's Fourth of 
+July holiday.
+  Despite all of the tragedy that befell Arline Shea and her employees, 
+her optimistic spirit shined through just a month following the storm, 
+when the Portsmouth Herald interviewed her for a story on the recovery 
+from the storm. ``Nobody died,'' Arline said. ``We all have our health. 
+That and the ice cream cone I have every day from the Village Scoop 
+helps,'' she added with good humor. Arline displayed an entrepreneurial 
+spirit, combined with a sense of humor, that allowed her to prevail 
+following the devastation.
+  Unfortunately, the nightmare did not stop there for Arline. Just last 
+month, Maine suffered, as did most of the east coast, a crippling 
+storm, known to Mainers as the ``Patriots Day Storm.'' This time, 
+however, Arline was prepared for the storm, with sandbags and new sump 
+pumps. Because of the lessons learned--and her preparation--Arline 
+sustained minimal damage from
+
+[[Page S5866]]
+
+a storm that caused major flooding in most parts of the country, and 
+certainly across Maine.
+  While countless Maine businesses have overcome obstacles and 
+succeeded, Arline's story sticks out as an outstanding example to all 
+Maine business owners. Shortly after purchasing the Inn, Arline's 
+father passed away. She rebounded from this personal tragedy, and from 
+the disaster that beset her business, by utilizing the resources 
+available to her, maintaining an optimistic spirit, and learning how to 
+deal with disaster in the process. Arline's inspiring example shows all 
+Maine business owners that they can persevere from any challenge that 
+they face.
+  And so, I want to congratulate Arline Shea and the Inn at Long Sands 
+for providing small businesses with a beacon to look forward to. She is 
+truly a small business owner of whom we are all so proud. We wish her 
+future success and offer her, and all of Maine's small businesses, our 
+complete assistance. Maine, and indeed the nation, can benefit from 
+Arline Shea's optimism, determination, and entrepreneurship.●
+
+                          ____________________
+```

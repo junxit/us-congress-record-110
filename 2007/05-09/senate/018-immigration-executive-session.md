@@ -1,0 +1,373 @@
+---
+granule: CREC-2007-05-09-pt1-PgS5835
+date: 2007-05-09
+edition: CREC
+section: SENATE
+page: S5835
+citation: 153 Cong. Rec. S5835
+---
+
+# Immigration (Executive Session)
+
+**Speaking:** Specter, Arlen (S000709) [R-PA], Leahy, Patrick J. (L000174) [D-VT], Schumer, Charles E. (S000148) [D-NY], Durbin, Richard J. (D000563) [D-IL], Lott, Trent (L000447) [R-MS]
+
+```
+                              Immigration
+
+  Mr. SPECTER. Mr. President, I now intend to take some of the time 
+allocated for the judicial issue to talk very briefly about the 
+immigration question which is front and center in the Congress today. 
+It is second only to the concerns about the Iraq war and the current 
+funding impasse which we have in the constitutional confrontation 
+between the Congress and the President, and the sustaining of a veto 
+and our efforts to try to work that out.
+  I believe there is a universal agreement that the immigration 
+situation in the United States today is an unmitigated disaster. Strong 
+language, but not strong enough for what is going on with immigration. 
+We have a porous border and undocumented immigrants are coming into the 
+United States. They pose a security risk. Terrorists are free to wander 
+across our borders and come into our country and pose potentially grave 
+threats to our national security.
+
+[[Page S5836]]
+
+  We find a significant number of incidents of crime among undocumented 
+immigrants. Crime does not have a sole source, but it is a problem. We 
+definitely need to get a handle on immigration.
+  We worked very hard in the 109th Congress in the Senate. I give my 
+colleagues in the House of Representatives credit for working very hard 
+too. We produced a bill out of the Judiciary Committee. It was reported 
+to the floor, and it passed the Senate. It was comprehensive reform, 
+which is what was called for by the President, a bill which would deal 
+with the 11 million undocumented immigrants, would provide for a Guest 
+Worker Program, and would, as a preliminary to secure our borders, 
+provide for employer sanctions if employers hired illegal immigrants.
+  The House of Representatives chose a different course to provide only 
+for border security, and it was embarrassing, in my judgment, that we 
+were unable to have a conference and pass an immigration bill last year 
+with both Houses--the Senate and House of Representatives--controlled 
+by the Republicans and President Bush, a Republican in the White House. 
+But we find ourselves this year with the unmitigated disaster of 
+immigration, worse now than ever.
+  There have been major efforts to try to find consensus legislation to 
+present to the Senate for consideration. The first meeting was held on 
+February 13 of this year, and the meetings have been held continuously 
+right up to the present time, almost 3 laborious months. These were not 
+abbreviated meetings. These meetings were held every Tuesday, 
+Wednesday, and Thursday from 4 to 6 o'clock. They were attended by an 
+average of 8 to 10 to 12 Senators. They were attended also by the 
+Secretary of Commerce and the Secretary of Homeland Security, 
+signifying the President's deep concern and deep interest in the issue.
+  They started off with Republicans meeting separately, and then we 
+moved into bipartisan meetings. Last week, illustratively, we had 12 
+Senators meeting off the Senate floor for 2\1/2\ hours. It is pretty 
+hard to keep 12 Senators in one room for 2\1/2\ hours, but we did.
+  We have come to what has been categorized as a ``grand bargain.'' 
+That is a term one of our most active participants, Senator Lindsey 
+Graham, gave to it because we had the overall structure of an 
+immigration bill. We did not have all the aspects of it worked out, but 
+we were proceeding to provide for real border security--border security 
+which would increase the number of border guards from 12,000 to 18,000 
+and border security which would encompass a fence. We cannot have one 
+across the entire border, but we can have a fence to secure our major 
+metropolitan areas, illustratively San Diego and southern Arizona.
+  We have worked laboriously to craft identification so an employer 
+would know whether an applicant for a job was legal or illegal. When an 
+employer has the opportunity to be certain of the legal status of those 
+he hires, then the stage is set for tough sanctions on employers so 
+that we can reduce the magnet to bring people to the United States for 
+jobs when they are not legally in the United States.
+  We have provided the mechanism for dealing with the 11 million 
+undocumented immigrants. We have structured a program so it would not 
+be fairly or accurately characterized as amnesty. The requirements of 
+that program are that immigrants learn English, that the immigrants 
+have roots in the United States, that they have held a job for a 
+protracted period of time, that they pay a fine, and that there be a 
+so-called touchback provision. It is still not decided as to the issue 
+of back taxes, but that is a consideration which is on the table. We 
+have provided for a Guest Worker Program which is what it says; that 
+is, people come to the United States for the purpose of filling jobs 
+and then will return to their native homes.
+  We provided that if there are people living in the United States 
+legally, citizens or legal immigrants, they would have the first 
+opportunity at these jobs.
+  We have held some 23 meetings over the course of the past 3 months. 
+So I was a little surprised to see the statement by the majority leader 
+at a press conference yesterday. Perhaps it was said partially in jest, 
+but Senator Reid pointed out that there had been notice for some 2 
+months that the immigration bill would be taken up in the last 2 weeks 
+before the Memorial Day recess. Then he said:
+
+       And anyone who thinks that 2 months is not enough time to 
+     get ready should get another occupation.
+
+  Maybe he said it in humor, but certainly I would fit into that 
+category of looking for another occupation. The distinguished chairman 
+of the committee has elected to have the matter go through the 
+negotiating process which I have just described, so he doesn't have to 
+seek another occupation. But there are many people on both sides of the 
+aisle, under the Reid dictum, who now must seek another occupation.
+  I think it is a fair representation to say we have worked 
+tenaciously. The problem we face now is that the so-called stakeholders 
+all want more than can be divided from what is available. There are 
+stakeholders who want more green cards and who want the advantages of 
+family admission on a widespread basis, and if it were left up to me 
+alone I would be in favor of the broadest reach of family unification. 
+But if we are to find the realism of enough green cards to accommodate 
+the undocumented immigrants who are going to come through the process 
+at the end of the line, there has to be some give somewhere.
+  The critics of the immigration bill are descending on us from all 
+sides before we even have an immigration bill. The Hill publication 
+reports today of opposition from Members of the House of 
+Representatives for Senate legislation when we don't even have 
+legislation in existence. One Member of the House is quoted as saying:
+
+       It is important that the Senate knows there will be strong 
+     bipartisan opposition to amnesty.
+
+  Well, we don't even have a bill that could be accused of having 
+included amnesty, and the outline which we are considering and 
+contemplating is certainly not amnesty by any fair interpretation.
+  The majority leader has said he intends to file under rule XIV today 
+and go to the legislation on Monday. As I said yesterday, there is 
+strong opposition to such a practice, at least on this side of the 
+aisle. It is my hope that we will not face a contested motion to 
+proceed. It is my hope we will not face the threat of a filibuster 
+against the motion to proceed, which would doom immigration reform.
+  We have encapsulated our views in a letter, following the majority 
+leader's news conference of today, where a number of us are asking that 
+we rethink the schedule we have. If we bring last year's Senate-passed 
+bill to the floor, it is going to have substantial opposition. That has 
+already been announced on both sides of the aisle. Both Democrats and 
+Republicans who supported it last year are opposed to it. If we start 
+there, the floor action is likely to be a free-for-all.
+  I understand the problems of Senate scheduling, but I also understand 
+the vicissitudes, problems, and pitfalls of proceeding where you don't 
+have the structure of a bill which can be reasonably and realistically 
+debated, with amendments, and then decided upon. We don't even have 2 
+weeks. We have to act on the supplemental before the Memorial Day 
+recess if we are to provide the troops with the funding they need.
+  So it is my hope the current process can be allowed to continue. 
+There has been a massive good-faith effort by Republicans and Democrats 
+meeting for very protracted periods of time to come to agreement on a 
+bill and to reduce it to written form. I will concede that there has 
+been a lot of wheel spinning in the process which we have undertaken. 
+Perhaps it was an error to abandon the traditional committee process. 
+But that is where we are, and we need more time to flesh out the grand 
+compromise, the grand bargain which we have structured so far.
+  If we are not able to legislate, we are not going to be able to 
+provide for people who are interested in bringing 11 million 
+undocumented immigrants out of the shadows, which is the main benefit 
+that comes from those who want to proceed in the traditional American 
+way to welcome the immigrants under a systemized plan. If we don't have 
+comprehensive reform, we are not going to provide the border controls 
+and the employer sanctions to stop illegal immigration.
+
+[[Page S5837]]
+
+  It may be this is our last best chance. I would urge all sides to 
+take a deep breath and to rethink positions on all sides and try to 
+find a rational, bipartisan way to proceed.
+  Mr. President, how much time remains on my side?
+  The ACTING PRESIDENT pro tempore. The Senator has 58 minutes 
+remaining.
+  Mr. SPECTER. Fifty-eight minutes remaining.
+  Mr. LEAHY. Mr. President, how much time do I have?
+  The ACTING PRESIDENT pro tempore. The Senator from Vermont has 49\1/
+2\ minutes.
+  Mr. LEAHY. Mr. President, I know the Senator from Pennsylvania has 
+the floor, but the Senator from New York wants to speak briefly, and I 
+have also been advised there are a number of Republicans who want to go 
+to a burial service. So just so people can plan, as soon as the Senator 
+from New York has finished his speech, which will be very brief, I am 
+prepared to yield back our time to accommodate those who wish to go to 
+the burial service.
+  Mr. SPECTER. Mr. President, do I understand the Senator from Vermont, 
+the distinguished chairman, is proposing a grand bargain?
+  Mr. LEAHY. No, sir.
+  Mr. SPECTER. A grand bargain which would allocate 1 minute to Senator 
+Schumer, and then all time yielded back?
+  Mr. LEAHY. I am told the Senator wishes 2 minutes.
+  Mr. SPECTER. Sounds excessive to me, but I will go along. When he 
+finishes his speech, if we are prepared to yield back time, I will 
+consider the proposal for the grand bargain.
+  The ACTING PRESIDENT pro tempore. The Senator from Vermont yields 
+time.
+  Mr. LEAHY. Mr. President, I yield to the grand marshal.
+  The ACTING PRESIDENT pro tempore. The Senator from New York is 
+recognized.
+  Mr. SCHUMER. Mr. President, I thank my colleagues, and Raskolnikof as 
+well, since he made the grand bargain once before. It didn't work out 
+so well, so I would say to my colleague from Pennsylvania, I hope his 
+grand bargain works out better than Raskolnikof's grand bargain.
+  Anyway, I rise to speak on our nominee, the confirmation of Debra 
+Livingston. She is a legal superstar from my home State of New York, 
+and she is nominated to the Second Circuit Court of Appeals.
+  Let me just say we in New York have a system in place for nominating 
+Federal judges that works. The President and I work together to name 
+highly qualified consensus candidates to the Federal bench. There is 
+often rancor when it comes to judges from other parts of the country, 
+but there has been very little when it comes to New York. It shows that 
+when both sides wish to compromise, we can probably get there. That is 
+because in New York we have an effective and bipartisan way to select 
+qualified and, almost without exception, moderate candidates for the 
+bench.
+  Ms. Livingston is squarely in that mold. Her career so far has 
+spanned private practice, criminal prosecution, and academia, so she 
+has a deep understanding of the law gained from many perspectives, from 
+the courtroom to the classroom. Ms. Livingston is a graduate of 
+Princeton University, received her J.D. from Harvard Law School--also 
+my alma mater--where she served as an editor of the Harvard Law Review.
+  From 1986 to 1991, Ms. Livingston was an assistant U.S. attorney in 
+the Southern District, where she prosecuted public corruption cases and 
+served as deputy chief of appeals. Before and after her time as a 
+prosecutor, Ms. Livingston was an associate at one of the very 
+prestigious law firms in New York, Paul, Weiss, Rifkin, Wharton, and 
+Garrison. She is currently the vice dean and Paul J. Kellner professor 
+of law at Columbia University, where she focuses on criminal procedure, 
+evidence, and national security.
+  I think it is great that we will have an appellate judge who has both 
+a scholarly mind and practical courtroom experience. It is a perfect 
+combination, in my view, for an appeals court judge. I hope my 
+colleagues will join me in voting for her confirmation.
+  In keeping with the prelude to the grand bargain, I yield the floor.
+  Mr. LEAHY. Mr. President, I am prepared to yield back time.
+  Mr. SPECTER. Sealing the grand bargain, I, too, yield back the 
+remainder of my time.
+  The ACTING PRESIDENT pro tempore. All time having been yielded, the 
+question is, Will the Senate advise and consent to the nomination of 
+Debra Ann Livingston, of New York, to be U.S. circuit judge for the 
+Second Circuit? On this question the yeas and nays were previously 
+ordered.
+  The clerk will call the roll.
+  The bill clerk called the roll.
+  Mr. DURBIN. I announce that the Senator from South Dakota (Mr. 
+Johnson), the Senator from Michigan (Mr. Levin), and the Senator from 
+West Virginia (Mr. Rockefeller) are necessarily absent.
+  I further announce that, if present and voting, the Senator from 
+Michigan (Mr. Levin) would vote ``yea.''
+  Mr. LOTT. The following Senators are necessarily absent: the Senator 
+from Kansas (Mr. Brownback), the Senator from Idaho (Mr. Crapo), the 
+Senator from North Carolina (Mrs. Dole), the Senator from Arizona (Mr. 
+McCain), the Senator from Kansas (Mr. Roberts), and the Senator from 
+Louisiana (Mr. Vitter).
+  Further, if present and voting, the Senator from North Carolina (Mrs. 
+Dole) would have voted ``yea.''
+  The PRESIDING OFFICER (Mr. Sanders). Are there any other Senators in 
+the Chamber desiring to vote?
+  The result was announced--yeas 91, nays 0, as follows:
+
+                      [Rollcall Vote No. 158 Ex.]
+
+                                YEAS--91
+
+     Akaka
+     Alexander
+     Allard
+     Baucus
+     Bayh
+     Bennett
+     Biden
+     Bingaman
+     Bond
+     Boxer
+     Brown
+     Bunning
+     Burr
+     Byrd
+     Cantwell
+     Cardin
+     Carper
+     Casey
+     Chambliss
+     Clinton
+     Coburn
+     Cochran
+     Coleman
+     Collins
+     Conrad
+     Corker
+     Cornyn
+     Craig
+     DeMint
+     Dodd
+     Domenici
+     Dorgan
+     Durbin
+     Ensign
+     Enzi
+     Feingold
+     Feinstein
+     Graham
+     Grassley
+     Gregg
+     Hagel
+     Harkin
+     Hatch
+     Hutchison
+     Inhofe
+     Inouye
+     Isakson
+     Kennedy
+     Kerry
+     Klobuchar
+     Kohl
+     Kyl
+     Landrieu
+     Lautenberg
+     Leahy
+     Lieberman
+     Lincoln
+     Lott
+     Lugar
+     Martinez
+     McCaskill
+     McConnell
+     Menendez
+     Mikulski
+     Murkowski
+     Murray
+     Nelson (FL)
+     Nelson (NE)
+     Obama
+     Pryor
+     Reed
+     Reid
+     Salazar
+     Sanders
+     Schumer
+     Sessions
+     Shelby
+     Smith
+     Snowe
+     Specter
+     Stabenow
+     Stevens
+     Sununu
+     Tester
+     Thomas
+     Thune
+     Voinovich
+     Warner
+     Webb
+     Whitehouse
+     Wyden
+
+                             NOT VOTING--9
+
+     Brownback
+     Crapo
+     Dole
+     Johnson
+     Levin
+     McCain
+     Roberts
+     Rockefeller
+     Vitter
+  The nomination was confirmed.
+  The PRESIDING OFFICER. Under the previous order, the motion to 
+reconsider is considered made and laid on the table.
+  The President will be immediately notified of the Senate's action.
+
+                          ____________________
+```
