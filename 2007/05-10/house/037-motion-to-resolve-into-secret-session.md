@@ -1,0 +1,502 @@
+---
+granule: CREC-2007-05-10-pt2-PgH4795
+date: 2007-05-10
+edition: CREC
+section: HOUSE
+page: H4795
+citation: 153 Cong. Rec. H4795
+---
+
+# MOTION TO RESOLVE INTO SECRET SESSION
+
+**Speaking:** Flake, Jeff (F000444) [R-AZ]
+
+```
+                 MOTION TO RESOLVE INTO SECRET SESSION
+
+  Mr. FLAKE. Mr. Speaker, pursuant to clause 9 of rule XVII, I offer a 
+privileged motion.
+  The SPEAKER pro tempore. The Clerk will report the motion.
+  The Clerk read as follows:
+
+       Pursuant to clause 9 of rule XVII of the rules of the House 
+     of Representatives, Mr. Flake moves that the House be cleared 
+     of all persons except the Members, Delegates, Resident 
+     Commissioner, and officers of the House to consider 
+     communications which he believes should be kept secret for 
+     the present.
+
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from Arizona (Mr. Flake).
+  The question was taken; and the Speaker pro tempore announced that 
+the noes appeared to have it.
+
+
+                             Recorded Vote
+
+  Mr. FLAKE. Mr. Speaker, I demand a recorded vote.
+  A recorded vote was ordered.
+  The vote was taken by electronic device, and there were--ayes 207, 
+noes 217, not voting 8, as follows:
+
+                             [Roll No. 328]
+
+                               AYES--207
+
+     Aderholt
+     Akin
+     Alexander
+     Bachmann
+     Bachus
+     Baker
+     Barrett (SC)
+     Barrow
+     Bartlett (MD)
+     Barton (TX)
+     Bean
+     Biggert
+     Bilbray
+     Bilirakis
+     Bishop (UT)
+     Blackburn
+     Blunt
+     Boehner
+     Bonner
+     Bono
+     Boozman
+     Boustany
+     Brady (TX)
+     Brown (SC)
+     Brown-Waite, Ginny
+     Buchanan
+     Burgess
+     Burton (IN)
+     Buyer
+     Calvert
+     Camp (MI)
+     Campbell (CA)
+     Cannon
+     Cantor
+     Capito
+     Carney
+     Carter
+     Castle
+     Chabot
+     Coble
+     Cole (OK)
+     Conaway
+     Cooper
+     Crenshaw
+     Cubin
+     Culberson
+     Davis (KY)
+     Davis, David
+     Davis, Jo Ann
+     Davis, Tom
+     Deal (GA)
+     Dent
+     Diaz-Balart, L.
+     Diaz-Balart, M.
+     Doolittle
+     Drake
+     Dreier
+     Duncan
+     Ehlers
+     Emerson
+     English (PA)
+     Everett
+     Fallin
+     Feeney
+     Ferguson
+     Flake
+     Forbes
+     Fortenberry
+     Fossella
+     Foxx
+     Franks (AZ)
+     Frelinghuysen
+     Gallegly
+     Garrett (NJ)
+     Gerlach
+     Giffords
+     Gilchrest
+     Gillmor
+     Gingrey
+     Gohmert
+     Goode
+     Goodlatte
+     Granger
+     Graves
+     Hall (TX)
+     Hastert
+     Hastings (WA)
+     Hayes
+     Heller
+     Hensarling
+     Hobson
+     Hoekstra
+     Hulshof
+     Hunter
+     Inglis (SC)
+     Issa
+     Jindal
+     Johnson (IL)
+     Johnson, Sam
+     Jones (NC)
+     Jordan
+     Keller
+     King (IA)
+     King (NY)
+     Kingston
+     Kirk
+     Kline (MN)
+     Knollenberg
+     Kuhl (NY)
+     LaHood
+     Lamborn
+     Latham
+     LaTourette
+     Lewis (CA)
+     Lewis (KY)
+     Linder
+     LoBiondo
+     Lucas
+     Lungren, Daniel E.
+     Mack
+     Manzullo
+     Marchant
+     Marshall
+     McCarthy (CA)
+     McCaul (TX)
+     McCotter
+     McCrery
+     McHenry
+     McHugh
+     McKeon
+     Mica
+     Miller (FL)
+     Miller (MI)
+     Miller, Gary
+     Mitchell
+     Moran (KS)
+     Murphy, Patrick
+     Murphy, Tim
+     Musgrave
+     Myrick
+     Neugebauer
+     Nunes
+     Paul
+     Pearce
+     Pence
+     Peterson (PA)
+     Petri
+     Pickering
+     Pitts
+     Platts
+     Poe
+     Porter
+     Price (GA)
+     Pryce (OH)
+     Putnam
+     Radanovich
+     Ramstad
+     Regula
+     Rehberg
+     Reichert
+     Renzi
+     Reynolds
+     Rogers (AL)
+     Rogers (KY)
+     Rogers (MI)
+     Rohrabacher
+     Ros-Lehtinen
+     Roskam
+     Royce
+     Ryan (WI)
+     Sali
+     Saxton
+     Schmidt
+     Sensenbrenner
+     Sessions
+     Shadegg
+     Shays
+     Shimkus
+     Shuster
+     Simpson
+     Smith (NE)
+     Smith (NJ)
+     Smith (TX)
+     Space
+     Stearns
+     Sullivan
+     Tancredo
+     Terry
+     Thornberry
+     Tiahrt
+     Tiberi
+     Turner
+     Upton
+     Walberg
+     Walden (OR)
+     Walsh (NY)
+     Wamp
+     Weldon (FL)
+     Weller
+     Westmoreland
+     Whitfield
+     Wicker
+     Wilson (NM)
+     Wilson (SC)
+     Wolf
+     Young (AK)
+     Young (FL)
+
+                               NOES--217
+
+     Abercrombie
+     Ackerman
+     Allen
+     Altmire
+     Andrews
+     Arcuri
+     Baca
+     Baird
+     Baldwin
+     Becerra
+     Berkley
+     Berman
+     Berry
+     Bishop (GA)
+     Bishop (NY)
+     Blumenauer
+     Boren
+     Boswell
+     Boucher
+     Boyd (FL)
+     Boyda (KS)
+     Braley (IA)
+     Brown, Corrine
+     Butterfield
+     Capps
+     Capuano
+     Cardoza
+     Carnahan
+     Carson
+     Castor
+     Chandler
+     Clarke
+     Clay
+     Cleaver
+     Clyburn
+     Cohen
+     Conyers
+     Costa
+     Costello
+     Courtney
+     Cramer
+     Crowley
+     Cuellar
+     Cummings
+     Davis (AL)
+     Davis (CA)
+     Davis (IL)
+     Davis, Lincoln
+     DeFazio
+     DeGette
+     Delahunt
+     Dicks
+     Dingell
+     Doggett
+     Donnelly
+     Doyle
+     Edwards
+     Ellison
+     Ellsworth
+     Emanuel
+     Eshoo
+     Etheridge
+     Farr
+     Filner
+     Frank (MA)
+     Gillibrand
+     Gonzalez
+     Gordon
+     Green, Al
+     Green, Gene
+     Grijalva
+     Gutierrez
+     Hall (NY)
+     Hare
+     Harman
+     Hastings (FL)
+     Herseth Sandlin
+     Higgins
+     Hill
+     Hinchey
+     Hinojosa
+     Hirono
+     Hodes
+     Holden
+     Holt
+     Honda
+     Hooley
+     Hoyer
+     Inslee
+     Israel
+     Jackson (IL)
+     Jackson-Lee (TX)
+     Jefferson
+     Johnson (GA)
+     Johnson, E. B.
+     Jones (OH)
+     Kagen
+     Kanjorski
+     Kaptur
+     Kennedy
+     Kildee
+     Kilpatrick
+     Kind
+     Klein (FL)
+     Kucinich
+     Lampson
+     Langevin
+     Lantos
+     Larsen (WA)
+     Larson (CT)
+     Lee
+     Levin
+     Lewis (GA)
+     Lipinski
+     Loebsack
+     Lofgren, Zoe
+     Lowey
+     Lynch
+     Mahoney (FL)
+     Maloney (NY)
+     Markey
+     Matheson
+     Matsui
+     McCarthy (NY)
+     McCollum (MN)
+     McDermott
+     McGovern
+     McIntyre
+     McNerney
+     McNulty
+     Meehan
+     Meek (FL)
+     Meeks (NY)
+     Melancon
+     Michaud
+     Miller (NC)
+     Miller, George
+     Mollohan
+     Moore (KS)
+     Moore (WI)
+     Moran (VA)
+     Murphy (CT)
+     Murtha
+     Nadler
+     Napolitano
+     Neal (MA)
+     Oberstar
+     Obey
+     Olver
+     Ortiz
+     Pallone
+     Pascrell
+     Pastor
+     Payne
+     Perlmutter
+     Peterson (MN)
+     Pomeroy
+     Price (NC)
+     Rahall
+     Rangel
+     Reyes
+     Rodriguez
+     Ross
+     Rothman
+     Roybal-Allard
+     Ruppersberger
+     Rush
+     Ryan (OH)
+     Salazar
+     Sanchez, Linda T.
+     Sanchez, Loretta
+     Sarbanes
+     Schakowsky
+     Schiff
+     Schwartz
+     Scott (GA)
+     Scott (VA)
+     Serrano
+     Sestak
+     Shea-Porter
+     Sherman
+
+[[Page H4796]]
+
+
+     Shuler
+     Sires
+     Skelton
+     Slaughter
+     Smith (WA)
+     Snyder
+     Solis
+     Spratt
+     Stark
+     Stupak
+     Sutton
+     Tanner
+     Tauscher
+     Taylor
+     Thompson (CA)
+     Thompson (MS)
+     Tierney
+     Towns
+     Udall (CO)
+     Udall (NM)
+     Van Hollen
+     Velazquez
+     Visclosky
+     Walz (MN)
+     Wasserman Schultz
+     Waters
+     Watt
+     Waxman
+     Weiner
+     Welch (VT)
+     Wexler
+     Wilson (OH)
+     Woolsey
+     Wu
+     Wynn
+     Yarmuth
+
+                             NOT VOTING--8
+
+     Brady (PA)
+     DeLauro
+     Engel
+     Fattah
+     Herger
+     McMorris Rodgers
+     Souder
+     Watson
+
+
+                Announcement by the Speaker Pro Tempore
+
+  The SPEAKER pro tempore (during the vote). Members are advised that 2 
+minutes remain in this vote.
+
+                              {time}  1553
+
+  So the motion to resolve into secret session was rejected.
+  The result of the vote was announced as above recorded.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```
