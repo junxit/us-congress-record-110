@@ -1,0 +1,2271 @@
+---
+granule: CREC-2007-05-14-pt1-PgS6036-2
+date: 2007-05-14
+edition: CREC
+section: SENATE
+page: S6036
+citation: 153 Cong. Rec. S6036
+---
+
+# WATER RESOURCES DEVELOPMENT ACT OF 2007
+
+**Speaking:** Boxer, Barbara (B000711) [D-CA], Reid, Harry (R000146) [D-NV], Landrieu, Mary L. (L000550) [D-LA], Coburn, Tom (C000560) [R-OK], Murkowski, Lisa (M001153) [R-AK]
+
+**Measures:** S. 1248, S. 1348, H.R. 1495
+
+```
+                WATER RESOURCES DEVELOPMENT ACT OF 2007
+
+  The PRESIDING OFFICER. Under the previous order, the hour of 3 p.m. 
+having arrived, the Senate will proceed to the consideration of H.R. 
+1495, which the clerk will report.
+  The legislative clerk read as follows:
+
+       A bill (H.R. 1495) to provide for the conservation and 
+     development of water and related resources, to authorize the 
+     Secretary of the Army to construct various projects for 
+     improvements to rivers and harbors of the United States, and 
+     for other purposes.
+
+  The PRESIDING OFFICER. Under the previous order, the Senator from 
+California is recognized to offer an amendment.
+
+
+                           Amendment No. 1065
+
+  Mrs. BOXER. Mr. President, I call up amendment No. 1065.
+  It is an amendment in the nature of a substitute. I ask for its 
+immediate consideration.
+  The PRESIDING OFFICER. The clerk will report.
+  The legislative clerk read as follows:
+
+       The Senator from California [Mrs. Boxer], for herself and 
+     Mr. Inhofe, proposes an amendment numbered 1065.
+
+  Mrs. BOXER. I ask unanimous consent the reading of the amendment be 
+dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  (The amendment is printed in the Record of Thursday, May 10, 2007, 
+under ``Text of Amendments.'')
+
+
+                Amendment No. 1086 to Amendment No. 1065
+
+  Mrs. BOXER. Mr. President, I see my leader is here, but before he 
+starts, I wish to also call up the Feingold amendment No. 1086, and ask 
+that be brought up and laid aside and considered as read.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The clerk will report the amendment by number.
+  The legislative clerk read as follows:
+
+       The Senator from California [Mrs. Boxer], for herself and 
+     Mr. Feingold, proposes an amendment numbered 1086 to 
+     amendment No. 1065.
+
+  (The amendment is printed in the Record of Friday, May 11, 2007, 
+under ``Text of Amendments.'')
+  Mrs. BOXER. I yield the floor.
+  The PRESIDING OFFICER. The majority leader is recognized.
+
+
+                           Amendment No. 1097
+
+  Mr. REID. Mr. President, I appreciate the manager of the bill, the 
+chairman of the Environment and Public Works Committee, the 
+distinguished Senator from California, allowing me to obtain the floor.
+  We all know 2 weeks ago President Bush vetoed the supplemental 
+appropriations bill, a bill to fully fund the troops in Iraq and change 
+the course of
+
+[[Page S6037]]
+
+that conflict in Iraq. Late last week, the House sent a new bill to the 
+Senate. We received that within the past hour. The ball is now in our 
+court, the Senate's court. Democrats and Republicans agree the Senate 
+needs to get a bill in conference as soon as possible and we need to 
+work together to make that happen.
+  I have had a number of conversations with Senator McConnell the last 
+several days. I spoke to him earlier today at some length. As much as 
+we all recognize how badly we need to get a bill to conference, we have 
+not, on this side of the aisle, lost sight of the fact that the 
+American people have concluded the President's Iraq policy has failed 
+and we are now demanding a new way forward on behalf of the American 
+people.
+  In an effort to ensure quick Senate passage of our conference vehicle 
+later this week, as well as to give Senators an opportunity to express 
+their views on the President's Iraq policy, I will offer two important 
+amendments. The first amendment is Feingold-Reid, to safely redeploy 
+United States troops from Iraq by March 31 of next year, and transition 
+the mission to fighting al-Qaida and other terrorist organizations, 
+providing security for United States infrastructure and personnel, and 
+training Iraqi forces.
+  Of course, after the 1st of April of next year, our troops will be in 
+Iraq for counterterrorism, force protection--that is to protect 
+American assets in Iraq--and to help train the Iraqis.
+  I will also offer a Levin-Reid amendment which is consistent with the 
+bipartisan legislation approved by Congress with one change: It permits 
+the President to waive the timeline for redeployments. It has in it 
+some things some Members want very badly, including the Presiding 
+Officer, to deal with how our troops are taken care of, how often they 
+have to go back to battle, how much time they have to have before being 
+returned to the battlefield after having been deployed. We will have 
+votes on these two amendments at the earliest possible date. I will 
+work with the distinguished Republican leader to see when that will 
+happen. These votes represent an opportunity for the Senate to shape 
+the important conference we hope will begin this week upon passage of 
+the Senate version of the supplemental.
+  There is probably no end of amendments that could be offered, as I 
+have here today, but on our side of the aisle, Democrats believe we 
+should do something very close to what was done in the bill we sent to 
+the President which he vetoed.
+  Basically that is what we have here--except getting the President the 
+ability to waive the timelines we have in the legislation.
+  Finally, there are those on this side who believe there should be 
+some end in sight. That is why I indicated that as of April 1 of next 
+year, the funding would still go on but it would be limited to the 
+counterterrorism, force protection, and training Iraqis.
+  It is very important to understand that transitioning this mission to 
+fighting al-Qaida is a part of the recognition of what we and the 
+American people believe is important. At present, as you know, American 
+troops are over there protecting the Shias, protecting the Sunnis, 
+protecting the Kurds, and at all times all these different elements are 
+shooting at the Americans. We should limit our focus to al-Qaida.
+  Mr. President, I call up the Levin-Reid amendment first.
+  That is No. 1097.
+  The PRESIDING OFFICER. The clerk will report.
+  The legislative clerk read as follows:
+
+       The Senator from Nevada [Mr. Reid], for Mr. Levin, for 
+     himself and Mr. Reid, proposes an amendment numbered 1097 to 
+     the language proposed to be stricken by amendment No. 1065.
+
+  Mr. REID. I ask unanimous consent the reading of the amendment be 
+dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+
+
+                           amendment no. 1097
+
+     SEC. 1. MILITARY READINESS--MISSION CAPABLE UNITS.
+
+       (a) Congress finds that it is Defense Department policy 
+     that units should not be deployed for combat unless they are 
+     rated ``fully mission capable''.
+       (b) None of the funds appropriated or otherwise made 
+     available in this or any other Act may be used to deploy any 
+     unit of the Armed Forces to Iraq unless the chief of the 
+     military department concerned has certified in writing to the 
+     Committees on Appropriations and the Committees on Armed 
+     Services at least 15 days in advance of the deployment that 
+     the unit is fully mission capable.
+       (c) For purposes of subsection (b), the term ``fully 
+     mission capable'' means capable of performing assigned 
+     mission essential tasks to prescribed standards under the 
+     conditions expected in the theater of operations, consistent 
+     with the guidelines set forth in the Department of Defense 
+     readiness reporting system.
+       (d) The President may waive the limitation prescribed in 
+     subsection (b) on a unit-by-unit basis by certifying in 
+     writing to the Committees on Appropriations and the 
+     Committees on Armed Services that he has authorized the 
+     deployment to Iraq of a unit that is not assessed fully 
+     mission capable and by submitting along with the 
+     certification a report in classified and unclassified form 
+     detailing the particular reason or reasons why the unit's 
+     deployment is necessary despite the chief of the military 
+     department's assessment that the unit is not fully mission 
+     capable.
+
+     SEC. 2. MILITARY READINESS--DURATION OF TOURS OF DUTY IN 
+                   IRAQ.
+
+       (a) Congress finds that it is Defense Department policy 
+     that Army, Army Reserve, and National Guard units should not 
+     be deployed for combat beyond 365 days or that Marine Corps 
+     and Marine Corps Reserve units should not be deployed for 
+     combat beyond 210 days.
+       (b) None of the funds appropriated or otherwise made 
+     available in this or any other Act may be obligated or 
+     expended to initiate the development of, continue the 
+     development of, or execute any order that has the effect of 
+     extending the deployment for Operation Iraqi Freedom of--
+       (1) any unit of the Army, Army Reserve or Army National 
+     Guard beyond 365 days; or
+       (2) any unit of the Marine Corps or Marine Corps Reserve 
+     beyond 210 days.
+       (c) The President may waive the limitations prescribed in 
+     subsection (b) on a unit-by-unit basis by certifying in 
+     writing to the Committees on Appropriations and the 
+     Committees on Armed Services that he has authorized the 
+     extension of a unit's deployment in Iraq beyond the periods 
+     specified in subsection (b) and by submitting along with the 
+     certification a report in classified and unclassified form 
+     detailing the particular reason or reasons why the unit's 
+     extended deployment is necessary.
+
+     SEC. 3. MILITARY READINESS--MULTIPLE DEPLOYMENTS.
+
+       (a) Congress finds that it is Defense Department policy 
+     that Army, Army Reserve, and National Guard units should not 
+     be redeployed for combat if the unit has been deployed within 
+     the previous 365 consecutive days or that Marine Corps and 
+     Marine Corps Reserve units should not be redeployed for 
+     combat if the unit has been deployed within the previous 210 
+     days.
+       (b) None of the funds appropriated or otherwise made 
+     available in this or any other Act may be obligated or 
+     expended to initiate the development of, continue the 
+     development of, or execute any order that has the effect of 
+     deploying for Operation Iraqi Freedom of--
+       (1) any unit of the Army, Army Reserve or Army National 
+     Guard if such unit has been deployed within the previous 365 
+     consecutive days; or
+       (2) any unit of the Marine Corps or Marine Corps Reserve if 
+     such unit has been deployed within the previous 210 
+     consecutive days.
+       (c) The President may waive the limitations prescribed in 
+     subsection (b) on a unit-by-unit basis by certifying in 
+     writing to the Committees on Appropriations and the 
+     Committees on Armed Services that he has authorized the 
+     redeployment of a unit to Iraq in advance of the periods 
+     specified in subsection (b) and by submitting along with the 
+     certification a report in classified and unclassified 
+     form detailing the particular reason or reasons why the 
+     unit's redeployment is necessary.
+
+     SEC. 4. BENCHMARKS.
+
+       (a) Beginning on July 15, 2007, and every 30 days 
+     thereafter, the Secretary of Defense and the Secretary of 
+     State, after consultation with the U.S. Ambassador to Iraq, 
+     Commander U.S. Central Command, and Commander, Multi-National 
+     Forces Iraq, shall jointly submit to Congress a report 
+     describing and assessing in detail the progress made by the 
+     Government of Iraq in meeting each of the benchmarks set 
+     forth in subsection (1), the security objectives set forth in 
+     the President's revised strategy of January 10, 2007, and 
+     answering the questions posed in subsections (2) and (3).
+       (1) whether the Government of Iraq has:
+       (i) enacted a broadly accepted hydro-carbon law that 
+     equitably shares oil revenues among all Iraqis;
+       (ii) adopted legislation necessary for the conduct of 
+     provincial and local elections including setting a schedule 
+     to conduct provincial and local elections;
+       (iii) reformed current laws governing the de-Baathification 
+     process to allow for more equitable treatment of individuals 
+     affected by such laws;
+       (iv) amended the Constitution of Iraq consistent with the 
+     principles contained in Article 140 of such constitution, 
+     including, at a minimum, the submission of such amendments to 
+     the Iraqi Parliament for the protection of minority rights; 
+     and
+       (v) allocated and expended $10,000,000,000 in Iraqi 
+     revenues for reconstruction projects,
+
+[[Page S6038]]
+
+     including delivery of essential services, on an equitable 
+     basis.
+       (2) whether the Government of Iraq and United States Armed 
+     Forces has made substantial progress in reducing the level of 
+     sectarian violence in Iraq; and
+       (3) whether each battalion of the security forces of Iraq 
+     has achieved a level of combat proficiency such that it can 
+     conduct independent combat operations without support from 
+     Coalition forces in Iraq.
+       (b) Notwithstanding any other provision of law, 75 percent 
+     of the funds appropriated by this Act or any other act for 
+     assistance for Iraq under the headings ``Economic Support 
+     Fund'' and ``International Narcotics and Law Enforcement'' 
+     shall be withheld from obligation until the President 
+     certifies to the Committees on Appropriations, Armed Services 
+     and Foreign Relations of the Senate and the Commnittees on 
+     Appropriations, Armed Services and Foreign Affairs of the 
+     House of Representatives that the Government of Iraq is 
+     making substantial progress towards meeting each of the 
+     benchmarks set forth in subsection (a)(1).
+       (c) The requirement to withhold funds from obligation 
+     pursuant to subsection (b) shall not apply with respect to 
+     funds made available under the heading ``Economic Support 
+     Fund'' for continued support for the Community Action Program 
+     and the Community Stabilization Program in Iraq administered 
+     by the United States Agency for International Development, or 
+     for programs and activities to promote democracy and human 
+     rights in Iraq.
+
+     SEC. 5. REDUCTION OF FORCES.
+
+       (a) Subject to the waiver authority provided for in 
+     subsection (e), the Secretary of Defense shall commence the 
+     reduction of the number of United States Armed Forces in Iraq 
+     not later than October 1, 2007, with a goal of completing 
+     such reduction within 180 days. The goal of completing such 
+     reduction shall be accelerated if the President is unable to 
+     report that the Government of Iraq is making substantial 
+     progress towards meeting each of the benchmarks set forth in 
+     subsection (a)(1) of Section 4 by October 15, 2007.
+       (b) Notwithstanding any other provision of law, funds 
+     appropriated or otherwise made available in this or any other 
+     Act are available for obligation and expenditure to plan and 
+     execute a safe and orderly reduction of the Armed Forces in 
+     Iraq.
+       (c) The reduction of forces required by this section shall 
+     be implemented as part of a comprehensive diplomatic, 
+     political, and economic strategy that includes sustained 
+     engagement with Iraq's neighbors and the international 
+     community for the purpose of working collectively to bring 
+     stability to Iraq.
+       (d) After the conclusion of the reduction required by this 
+     section, the Secretary of Defense may not deploy or maintain 
+     members of the Armed Forces in Iraq for any purpose other 
+     than the following:
+       (1) Protecting American diplomatic facilities and American 
+     citizens, including members of the U.S. armed forces;
+       (2) Serving in roles consistent with customary diplomatic 
+     positions;
+       (3) Engaging in targeted actions against members of al-
+     Qaeda and allied parties and other terrorist organizations 
+     with global reach; and
+       (4) Training and equipping members of the Iraqi Security 
+     Forces.
+       (e) Waiver Authority.--
+       (1) In general.--The President may waive the reduction of 
+     forces requirements of this section if he submits to Congress 
+     a written certification setting forth a detailed 
+     justification for the waiver, which shall include a detailed 
+     report describing the actions being taken by the United 
+     States to bring about the meeting of the benchmarks set forth 
+     in subsections (a)(1) of section __ by the Iraqis. The 
+     certification shall be submitted in unclassified form, but 
+     may include a classified annex.
+       (2) Duration.--The Waiver under paragraph (1) shall be 
+     effective for 90 days beginning on the date of the submittal 
+     of the certification under that paragraph.
+       (3) Renewal.--A waiver under paragraph (1) may be renewed 
+     if, before the end of the expiration of the waiver under 
+     paragraph (2), the President submits to Congress before the 
+     end of the effective period of the waiver under paragraph (2) 
+     a certification meeting the requirements of this subsection. 
+     Any waiver so renewed may be further renewed as provided in 
+     this paragraph.
+
+
+                Amendment No. 1098 to Amendment No. 1097
+
+  Mr. REID. I now ask the clerk report the Feingold-Reid amendment No. 
+1098.
+  The PRESIDING OFFICER. The clerk will report.
+  The legislative clerk read as follows:
+
+       The Senator from Nevada [Mr. Reid], for Mr. Feingold, for 
+     himself and Mr. Reid, proposes an amendment numbered 1098 to 
+     amendment No. 1097.
+
+  Mr. REID. I ask unanimous consent the reading of the amendment be 
+dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+       (a) Transition of Mission.--The President shall promptly 
+     transition the mission of United States forces in Iraq to the 
+     limited purposes set forth in subsection (d).
+       (b) Commencement of Safe, Phased Redeployment From Iraq.--
+     The President shall commence the safe, phased redeployment of 
+     United States forces from Iraq that are not essential to the 
+     limited purposes set forth in subsection (d). Such 
+     redeployment shall begin not later than 120 days after the 
+     date of the enactment of this Act.
+       (c) Prohibition on Use of Funds.--No funds appropriated or 
+     otherwise made available under any provision of law may be 
+     obligated or expended to continue the deployment in Iraq of 
+     members of the United States Armed Forces after March 31, 
+     2008.
+       (d) Exception for Limiited Purposes.--The prohibition under 
+     subsection (c) shall not apply to the obligation or 
+     expenditure of funds for the limited purposes as follows:
+       (1) To conduct targeted operations, limited in duration and 
+     scope, against members of al Qaeda and other international 
+     terrorist organizations.
+       (2) To provide security for United States infrastructure 
+     and personnel.
+       (3) To train and equip Iraqi security services.
+
+  Mr. REID. Mr. President, on these amendments, I am a cosponsor of 
+both.
+  I thank the manager very much. I hope she and Senator Inhofe can move 
+the WRDA amendment along. It is an important piece of legislation for 
+the whole country and it is way past due when we should have had this 
+completed.
+  Mrs. BOXER. Before the leader leaves, I hope I can get the attention 
+of the floor staff, to make sure--my understanding is you have now 
+offered the amendments on Iraq to the underlying bill, but the text 
+that is before us is clean of the Iraq amendments? I think it is a good 
+thing to do because we can move on here with WRDA, as the amendments 
+were applied to the underlying text, not to the amendment we are 
+working on.
+  I thank my colleague for thinking it through. I am proud he is with 
+us in wanting to move this WRDA bill forward.
+  Let a message go out we are going to move this bill forward. One of 
+the reasons I say to my friend, thank you--I don't want to keep him 
+here, I just want to thank him.
+  We have received a letter from the National Construction Alliance. It 
+is the Laborers International Union of North America, the International 
+Union of Operating Engineers, the United Brotherhood of Carpenters & 
+Joiners of America.
+  The reason I am bringing this up is they are very strong supporters 
+of WRDA. I think their letter lays out why, so I am actually going to 
+read it so it goes into the Record at this point. It says:
+
+       Dear Senator Boxer and Senator Inhofe:
+       The National Construction Alliance, representing the three 
+     leading construction unions advocating for robust federal 
+     infrastructure investment, endorses the Senate version of the 
+     Water Resources Development Act reauthorization. This vital 
+     Federal infrastructure legislation should be considered and 
+     passed by the United States Senate. Our three constituent 
+     unions, the Laborers, Operating Engineers and the Carpenters, 
+     commend you both for your strong, bipartisan leadership on 
+     this legislation.
+
+  This gets to the heart of why Senator Inhofe and I and all on the 
+committee believe so strongly about the bill.
+
+       The $13.9 billion authorization of Corps of Engineers 
+     projects is an important and necessary step in addressing our 
+     country's serious backlog of water projects. From harbor 
+     improvement to flood protection, to lock and dam 
+     construction, dredging and environmental infrastructure, your 
+     bill will immeasurably strengthen America's water resources. 
+     As labor unions representing nearly one million skilled 
+     construction workers, we recognize that this WRDA 
+     reauthorization will create tens of thousands of good paying 
+     construction jobs.
+       We strongly urge the Senate to pass your legislation in an 
+     expeditious manner so that America's critical water 
+     infrastructure needs can be addressed.
+
+  I say to the President--who is sitting in the chair today, as opposed 
+to the President of the United States--he has so long been speaking 
+about the problem of our loss of middle-class jobs. What is so 
+important about this particular bill is that while we are doing things 
+the Nation must have in order to grow and in order to protect itself 
+from the ravages of Mother Nature, as we saw in Katrina--in the course 
+of doing the right thing we are creating good jobs. It is a wonderful 
+winner for everybody.
+  That is why we have more letters I want to share with colleagues. The 
+American Society of Civil Engineers has added its voice to all these 
+unions, to both Senator Inhofe and myself, saying they are very pleased 
+with this bill, they are very pleased with the levee system fixes; they 
+believe this is
+
+[[Page S6039]]
+
+overdue legislation and that it ensures we have learned the lessons 
+from Hurricane Katrina. It ``goes far toward protecting human life and 
+property in flood-prone areas.''
+  They ask us if the American Society of Civil Engineers can be of more 
+assistance, please call them. We may, because we want everybody to 
+weigh in here and help us.
+  We have a letter from the Audubon Society. You have heard from the 
+business side, the union side, now the environmental side. They have a 
+million members. They say, please, let's have prompt consideration of 
+WRDA because it restores America's natural resources. It includes:
+
+       . . . Corps modernization provisions, including independent 
+     review of costly or controversial Corps projects and ensuring 
+     that mitigation for Corps projects is consistent with 
+     stricter State laws.
+
+  This refers to the Corps' formula in the last bill which is embedded 
+in this bill.
+  Audubon also talks about:
+
+       . . . two crucial Everglades restoration projects--Indian 
+     River lagoon and Picayune Strand--that would mitigate harmful 
+     federal drainage projects, restore more than 160,000 acres of 
+     wetlands and significant estuarine habitat, and help secure 
+     Florida's tourism and outdoor recreation economy.
+
+  They also cite the upper Mississippi River restoration program, in 
+its first 15-year increment, will preserve 105,000 acres of habitat; 
+protect 35,000 acres of floodplain habitat in five States along the 
+river.
+  The Coastal Louisiana restoration program will begin to reverse the 
+devastating pattern of land loss, protecting important habitat for 
+birds and fish and other wildlife as well as the region's economy and 
+quality of life.
+  The bill permanently authorizes the Asian Carp Barrier to protect the 
+Great Lakes from this looming threat. The Audubon Society, which is so 
+well respected on both sides of the aisle, closes and says that 
+ecosystem restoration projects for the Everglades, the Mississippi, 
+Louisiana's coastal wetlands, and the Great Lakes are overdue, as is 
+Corps modernization.
+  Then I will add to these letters, Mr. President, a letter from the 
+National Association of Manufacturers. I mean, this is one of those 
+bills that gets everybody's support. It is something that is important 
+for everyone.
+  They say: On behalf of more than 14 million manufacturing employees 
+in the U.S., they are thanking us for our leadership, and they are 
+saying: Let's move forward with WRDA. It is important. They say that: 
+America's water resources infrastructure needs to be reliable and 
+productive.
+  They applaud our efforts and they say how vitally needed WRDA is, 
+including the modernization of locks, harbors, canals, and other key 
+infrastructure that is vital to America's competitiveness. They say: 
+WRDA will authorize many of these needs. So that is the National 
+Association of Manufacturers. So it goes on and on.
+  The Pacific Northwest Waterways Association has a similar letter that 
+is very important to us. The American Farm Bureau. The American Farm 
+Bureau has entered this, and they have written us saying it is a good 
+bill, urging us to support WRDA, and they oppose any amendment that 
+would hinder our progress in moving forward.
+  The corn growers of America, they have weighed in and they say: It is 
+important. They have sent a letter to Harry Reid and Mitch McConnell, 
+our leaders, saying we need to have this bill. They need to have 
+efficient transportation networks and so on. This is a very important 
+letter, I think. They say that continued development of our water 
+resources in an environmentally sound manner will contribute mightily 
+to our Nation's well-being.
+  Congress needs to act now to address issues such as environmental 
+restoration, navigation, flood control, hurricane protection, water 
+supply, irrigation, beach nourishment, and recreation.
+  So that is yet another letter. The American Public Works Association 
+has sent us a letter. They have a similar message: With adequate 
+dredging, our ports and waterways are the backbone of our 
+transportation system, ensuring domestic and international trade 
+opportunities and low-cost, environmentally sensitive goods movements. 
+It goes on.
+  Now, I have already placed some of those letters in the Record, and I 
+am going to do it again today because I think every day, as colleagues 
+will look at the Record, they will see their importance.
+  I ask unanimous consent to have these letters printed in the Record 
+at the end of my remarks.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  (See exhibit 1.)
+  Mrs. BOXER. The reason I like to share these letters is that it shows 
+the breadth of support this bill has. We know we come to the floor with 
+a lot of legislation that is contentious, that is contentious between 
+the parties, that is contentious with people throughout America, one 
+group supports it. For example, the labor unions might but the bosses 
+do not. This is a place where everybody comes together. I think that is 
+very important.
+  So colleagues know what is happening today, you know we do not have 
+votes today. But we are going to try to debate some amendments today. 
+We have already debated the Feingold amendment, so that is ready to be 
+voted on tomorrow. I understand that Senator Coburn is on his way over 
+to offer at least the one--we are hoping three amendments. He can 
+debate today, and then we can have votes on those as we agree between 
+the sides. The way we have decided to handle this bill, because it has 
+been such a delicate balance, is the following: We are working across 
+party lines to come up with amendments we can agree to. We have taken 
+the amendments that have been submitted thus far, and we are sort of 
+categorizing those amendments in what is easy for us to agree to, what 
+is more difficult. We are going to try to work through the easier 
+amendments, and the more contentious ones we will have to have votes.
+  Now, what we call the big four of the committee, the Chairman of the 
+full committee, the Chairman of the subcommittee, the ranking members 
+of both the full committee and the subcommittee, we have made an 
+agreement that we will oppose all amendments. Why are we doing this? 
+Believe me, that is not an easy thing for us to do. We feel we have 
+worked so closely, in a bipartisan fashion, we want to keep this bill 
+totally bipartisan. We are trying to keep the most contentious items 
+out of the bill to make sure it gets to the President's desk and he 
+signs it.
+  Now, the good news is we have a score on the bill. That means how 
+much the bill is scored at. It is $13.9 billion. It makes it lower than 
+the House bill. This is very good news because we want to be fiscally 
+responsible.
+  We also want to make sure all the projects in this bill meet certain 
+criteria, that they have been studied, they have been looked at, that 
+there is a fair cost share, unless there is an usual circumstance.
+  So Senator Inhofe has been very strong on conditions. I expect him to 
+come to the floor very soon. He actually had a weekend trip to Iraq. I 
+do appreciate the fact that he has gone and that he is going to be 
+here, we believe, at about 3:30--as a matter of fact, in about 10 
+minutes--at which point I hope he will make some of his comments on 
+this bill.
+  But the way we have set the bill up is we now have the committee 
+substitute pending in the form of an amendment. Leader Reid has sent 
+forward two amendments, but they are not to the substitute bill, they 
+are to the underlying bill about Iraq, as a way to expedite the 
+consideration of the Iraq supplemental. He has done that with the 
+knowledge of Senator McConnell so there are no surprises here. We have 
+discussed this with Senator Feingold in terms of offering his 
+amendment, which he already debated. That will be ready for a vote 
+later. I hope we can set aside all these amendments and vote on them 
+tomorrow morning at such time as the leader agrees.
+  At this point, since I think I have laid out the reason why we so 
+much need this bill, after 7 long years of not having a WRDA bill, we 
+so much need this bill, and we are so proud of the committee that they 
+voted this bill out in a very harmonious way and that we are still 
+working side by side, the majority and minority side, on crafting the 
+amendments we need to push this over the finish line.
+  I look forward to the comments of Senator Inhofe. We also will, of 
+course,
+
+[[Page S6040]]
+
+entertain the amendments of Senator Tom Coburn when he gets to the 
+floor. I urge anybody else who wants to lay down amendments, please, 
+you are absolutely welcome.
+  I understand Senator Landrieu would like the floor. So why don't I 
+leave the floor with the understanding that if Senator Inhofe comes, 
+would you wind down within 10 minutes so he can have the floor.
+  I yield the floor.
+
+                               Exhibit 1
+
+                                                 Pacific Northwest
+
+
+                                        Waterways Association,
+
+                                       Portland, OR, May 10, 2007.
+     Hon. Barbara Boxer,
+     Chairman, Senate Committee on Environment and Public Works, 
+         Washington, DC
+     Hon. James Inhofe,
+     Ranking Member, Senate Committee on Environment and Public 
+         Works, Washington, DC
+       Dear Chairman Boxer and Senator Inhofe, We write to urge 
+     your support for the reauthorization of the Water Resources 
+     Development Act in 2007.
+       WRDA is fundamentally important to the economic health of 
+     our nation and particularly important to the states of 
+     Oregon, Washington, Idaho and California. Our region depends 
+     on international trade to a greater extent than any other 
+     region in the United States. In Washington state, one in four 
+     jobs are related to international trade. Cost-effective, 
+     efficient, and environmentally sound trade and transportation 
+     corridors are imperative to secure our place in the global 
+     economy. Delay in WRDA means exacerbated backlogs which will 
+     dull our competitive edge.
+       The Pacific Northwest Waterways Association (PNWA) 
+     membership includes nearly 100 organizations in Oregon, 
+     Washington, Idaho and California. PNWA represents public port 
+     authorities on the Pacific Coast, Puget Sound, and Columbia 
+     Snake River System; public utility districts, investor-owned 
+     utilities, electric cooperatives and direct service 
+     industries; irrigation districts, grain growers and upriver 
+     and export elevator companies; major manufacturers in the 
+     Pacific Northwest; forest products industry manufacturers and 
+     shippers; and tug and barge operators, steamship operators, 
+     consulting engieneers, and others involved in economic 
+     development throughout the Pacific Northwest.
+       PNWA has a long history of working with the Committee and 
+     the U.S. Army Corps of Engineers on projects of regional and 
+     national importance, sharing the challenge to maintain and 
+     develop our transportation infrastructure. Our members wish 
+     to thank the Committee for its support of Pacific Northwest 
+     transportation programs and projects.
+       Issues of particular concern to the members of our 
+     Association follow:
+
+
+                          minimum dredge fleet
+
+       The federally-owned hopper drege fleet and the Corps of 
+     Engineers' dredges Essayons and Yaquina, are particularly 
+     important to the maintenance of ports and harbors in the 
+     Pacific Northwest. The goals of Congressional actions in 
+     1978, 1993 and 1996, which limited the utilization of the of 
+     the federal dredge fleet and provided increased opportunity 
+     for industry, have been meet.
+       Since passage of the Energy and Water Appropriations Act of 
+     1993, designed to increase competition in the dredge 
+     industry, the number of private dredging contractors has 
+     declined. This is of concern because the Northwest has unique 
+     conditions such that, compared to other regions, Northwest 
+     ports depend to a greater degree on hopper dredging and on 
+     smaller class hopper dredges. The Government Accountability 
+     Office found in a March 2003 to Congress (GAO-03-382) that 
+     operating restrictions have imposed additional costs on the 
+     Corps' dredging program, but have not resulted in proven 
+     benefits to the taxpayer.
+       PNWA strongly supports the language included in your bill 
+     to lift operating restrictions from the Essayons and Yaquina, 
+     which will enable the Corps of Engineers to utilize the 
+     Essayons and Yaquina to the maximum extent possible to 
+     maintain Northwest ports, harbors and channels, consistent 
+     with the safe and efficient performance of their missions.
+
+
+                      making section 214 permanent
+
+       Section 214 of the Water Resources Development Act of 2000 
+     (P.L. 106-541) provides the authority to the Secretary of the 
+     Army to accept and expend funds contributed by non-Federal 
+     public entities and to expedite the processing of permits. 
+     Section 214 has allowed local governments to move forward 
+     with vital infrastructure projects. By funding additional 
+     staff to work on specific, time-intensive permits, existing 
+     Corps staff members are able to process the significant 
+     permit application backlog much more quickly. Funding for 
+     additional Corps staff has resulted in a reduction of permit 
+     wait times not only for the funding entity, but for any 
+     individual or organization that makes an application with 
+     that District of the Corps.
+       This authority is currently scheduled to sunset on December 
+     31, 2008. Though PNWA has been successful in working with 
+     Congress to secure short-term extensions for several years 
+     now, the time has come to give Corps regulatory offices as 
+     well as the contributing entities the predictability that 
+     would come with a permanent authority. PNWA strongly supports 
+     language in your bill that would make Section 214 permanent.
+       These provisions are strongly supported by PNWA's 
+     membership, and are important to improve the efficiency and 
+     cost competitiveness of Northwest ports engaging in 
+     international trade. Additional provisions that are supported 
+     by PNWA are included in the attached document, PNWA WRDA 
+     Requests. We appreciate the Committee's and Congress' 
+     attention to these important matters.
+           Sincerely,
+                                                    Kristin Meira,
+     Government Relations Director.
+                                  ____
+
+
+
+                         pnwa member directory
+
+       Alaska Assoc. of Port Managers & Harbormasters; Almota 
+     Elevator Company; Anderson-Perry & Associates, Inc.; Ball 
+     Janik LLP; Bell Buoy Crab Co.; Benton County PUD #1; Boise 
+     Cascade LLC; BST Associates; Central Washingotn Grain 
+     Growers, Inc.; CH2M Hill; Clark Public Utilities; Columbia 
+     Basin Development League; Columbia County Grain Growers, Inc; 
+     Columbia River Bar Pilots; Columbia River Pilots; Columbia 
+     River Steamship Operators Assoc.; Cowlitz County Board of 
+     Commissioners; David B. Barrows Environmental Consulting; 
+     Douglas County PUD #1; Dustra Group.
+       East Columbia Basin Irrigation District; Foss Maritime 
+     Company; Office of Peter Friedmann; Gallatin Group; Gordon 
+     Thomas Honeywell Gov't Affairs; Harris Group Inc.; ID Wheat 
+     Commission; Jan T. Fancher, CPA, PLLC; Jefferson Government 
+     Relations; Kalama Export Company; Kleinfelder, Inc.; Lampson 
+     International, LLC; Lewis-Clark Terminal Association; 
+     Longview Fibre Company; Manson Construction; Moffatt & 
+     Nichol; Northwest Grain Growers, Inc.; Northern Star Natural 
+     Gas; OR Economic & Community Development Department (OECDD).
+       Oregon Int'l Port of Coos Bay; Oregon Iron Works, Inc.; OR 
+     Wheat Growers League; Pacific Merchant Shipping Assoc. 
+     (PMSA); Pacific International Engineering (PIE); Parametrix; 
+     PB Ports & Marine, Inc.; PNGC Power; Pomeroy Grain Growers; 
+     Port of Anacortes; Port of Benton; Port of Brookings Harbor; 
+     Port of Camas-Washougal; Port of Cascade Locks; Port of 
+     Chelan County; Port of Chinook; Port of Clarkston; Port of 
+     Columbia County; Port of Garibaldi; Port of Gold Beach.
+       Port of Hood River; Port of Humboldt Bay; Port of Ilwaco, 
+     Port of Kalama; Port of Kennewick; Port of Klickitat; Port of 
+     Lewiston; Port of Longview; Port of Morrow; Port of Newport; 
+     Port of Pasco; Port of Port Angeles; Port of Portland; Port 
+     of Ridgefield; Port of Royal Slope; Port of Seattle; Port of 
+     Suislaw; Port of Skagit County; Port of St. Helens; Port of 
+     Sunnyside; Port of Tacoma; Port of Toledo; Port of Umatilla; 
+     Port of Umpqua; Port of Vancouver; Port of Walla Walla; Port 
+     of Whitman County; Port of Woodland; Potlatch Corporation; 
+     Presnell, Gage & Company; Preston Gates & Ellis LLP; 
+     Primeland Cooperatives; Reid Middleton, Inc.; The Research 
+     Group; RETEC Group; Schwabe, Williamson & Wyatt; Seattle 
+     Public Utilities; Shaver Transportation Company; Stoel Rives 
+     LLP; Teevin Brothers.
+       Tidewater Barge Lines; Ukiah Engineering Inc. (UEI); USA 
+     Dry Pea & Lentil Council; WA Association of Wheat Growers; WA 
+     Public Ports Association; WA State Office of Trade and 
+     Economic Development (CTED); WA State Potato Commission; WA 
+     Wheat Commission; Weyerhaeuser Company; Whitman County 
+     Growers.
+                                  ____
+
+                                                     May 10, 2007.
+     Hon. Barbara Boxer,
+     Chairwoman, Senate Environment and Public Works Committee, 
+         Washington, DC.
+       Dear Madam Chairwoman: On behalf of more than 4 million 
+     manufacturing employees in the U.S., we would like to thank 
+     you for your leadership in moving forward with the Water 
+     Resources Development Act of 2007 (WRDA). It is vitally 
+     important that America's water resources infrastructure be 
+     reliable and productive. Therefore we applaud your efforts to 
+     end the stalemate over water resources project authorization 
+     by bringing H.R. 1495, WRDA, to the Senate floor. We firmly 
+     believe that it is time to end the impasse over passage of 
+     WRDA.
+       A Water Resources Development Act is vitally needed to 
+     accommodate the many important projects awaiting 
+     authorization, including the modernization of the locks, 
+     harbors, canals and other key infrastructure that are vital 
+     to the competitiveness of the U.S. economy. A sound national 
+     transportation system for the 21st century needs modern water 
+     projects, and WRDA will authorize many of those needs.
+       We look forward to working with you and your staff and 
+     issues of importance to the nation's economy and environment. 
+     Again, thank you for your leadership.
+           Sincerely,
+                                          The National Association
+     of Manufacturers.
+                                  ____
+
+
+
+                                                      Audubon,
+
+                                                     May 10, 2007.
+     Re Act now to Restore America's Natural Treasures.
+       Dear Senator: On behalf of the National Audubon Society and 
+     our more than one million members and supporters, I urge you 
+     to help restore America's natural resources by advocating for 
+     prompt consideration and passage of the Water Resources 
+     Development Act of 2007 (S. 1248). WRDA 2007 would authorize 
+     unprecedented spending for ecosystem restoration projects, 
+     including Everglades, upper Mississippi River, coastal 
+     Louisiana, and Great Lakes.
+
+[[Page S6041]]
+
+       The bill should include Corps modernization provisions, 
+     including independent review of costly or controversial Corps 
+     projects and ensuring that mitigation for Corps projects is 
+     consistent with stricter State laws.
+       WRDA 2007 contains two crucial Everglades restoration 
+     projects--Indian River Lagoon and Picayune Strand--that would 
+     mitigate harmful federal drainage projects, restore more than 
+     160,000 acres of wetlands and significant estuarine habitat, 
+     and help secure Florida's tourism and outdoor recreation 
+     economy. The Upper Mississippi River Restoration Program, in 
+     its first 15-year increment, will restore 105,000 acres of 
+     habitat, protect 35,000 acres of floodplain habitat in five 
+     States along the river, and will include a significant 
+     monitoring program. The Coastal Louisiana Restoration program 
+     will begin to reverse this devastating pattern of land loss, 
+     protecting important habitat for birds, fish, and other 
+     wildlife, as well as the region's economy and quality of 
+     life. The bill would also permanently authorize the Asian 
+     Carp Barrier to protect the Great Lakes from this looming 
+     threat.
+       Ecosystem restoration projects for the Everglades, the 
+     Mississippi River, Louisiana's coastal wetlands, and the 
+     Great Lakes are overdue, as is Corps modernization. Thank you 
+     for helping to restore some of America's greatest natural 
+     treasures.
+       Sincerely,
+                                                     John Flicker,
+     President and CEO.
+                                  ____
+
+                                             National Construction
+
+
+                                                     Alliance,
+
+                                      Washington DC, May 10, 2007.
+     Hon. Barbara Boxer,
+     Chairwoman, Senate Environment and Public Works Committee, 
+         Washington, DC.
+     Hon. James M. Inhofe,
+     Ranking Member, Senate Environment and Public Works 
+         Committee, Washington, DC.
+       Dear Senator Boxer and Senator Inhofe: The National 
+     Construction A11iance, representing the three leading 
+     construction unions advocating for robust federal 
+     infrastructure investment, endorses the Senate version of the 
+     Water Resource Development Act reauthorization. This vital 
+     federal infrastructure legislation should be. considered and 
+     passed by the United States Senate. Our three constituent 
+     unions, the Laborers. Operating Engineers and the Carpenters, 
+     commend you both for your strong, bipartisan leadership on 
+     this legislation.
+       The $13.9 billion authorization of Corps of Engineers 
+     projects is an important and necessary step in addressing our 
+     country's serious backlog of water projects. From harbor 
+     improvement, to flood protection, to lock and dam 
+     construction, dredging and environmental infrastructure. your 
+     bill will immeasurably strengthen America's water resources. 
+     As labor unions representing nearly one million skilled 
+     construction workers, we recognize that this WRDA 
+     reauthorization will create tens of thousands of good paying 
+     construction jobs.
+       We strongly urge the Senate to pass your legislation in an 
+     expeditious manner so that America's critical water 
+     infrastructure needs can be addressed.
+           Sincerely,
+                                               Raymond J. Poupore,
+     Executive Vice Pesident.
+                                  ____
+
+                                               American Society of
+
+
+                                              Civil Engineers,
+
+                                     Washington, DC, May 10, 2007.
+     Hon. Barbara Boxer,
+     Chair, Committee on Environment and Public Works, U.S. 
+         Senate, Washington, DC.
+     Hon. James Inhofe,
+     Ranking Member, Committee on Environment and Public Works, 
+         U.S. Senate, Washington, DC.
+       Dear Madam Chairwoman and Senator Inhofe: As the Senate 
+     begins its consideration of the Water Resources Development 
+     Act (WRDA) of 2007 this week, the American Society of Civil 
+     Engineers (ASCE) commends your efforts to bring a bipartisan 
+     bill to the floor. We appreciate your commitment to moving 
+     forward with responsible legislation to authorize much-needed 
+     improvements to the nation's water resources and public works 
+     infrastructure. We support WRDA's speedy passage into law.
+       ASCE is especially pleased to champion enactment of 
+     subtitle C of the Senate bill, which would require the U.S. 
+     Army Corps of Engineers to establish a national levee safety 
+     program. Subtitle C would authorize the Secretary to spend 
+     $100 million to inspect and inventory the nation's levee 
+     systems and fund state levee safety programs. This long 
+     overdue legislation ensures that we have learned the lessons 
+     from Hurricane Katrina and goes far toward protecting human 
+     life and property in flood-prone areas.
+       If ASCE can be of further assistance as this important 
+     legislation advances, please do not hesitate to contact Brian 
+     Pallasch of our Washington office.
+           Sincerely yours,
+                                                Patrick J. Natale,
+                                               Executive Director.
+
+  The PRESIDING OFFICER. The Senator from Louisiana is recognized.
+  Ms. LANDRIEU. Mr. President, I come to the floor to speak for a few 
+moments about probably one of the most important bills that this 
+Congress will consider relative to Louisiana and our ongoing attempt to 
+protect the 3 million people who live in south Louisiana and also to 
+protect the great infrastructure we have in this country, in a vast and 
+broad way, not just from the energy sector but the fisheries but, most 
+importantly, transportation and commerce.
+  There was an excellent article in the Post this weekend that I would 
+like to have printed for the Record, written by one of the most 
+distinguished citizens of our State, John Barry, who is a renowned 
+author who wrote the book ``Rising Tide,'' also a recent book about the 
+influenza of 1917.
+  But he writes, in reference to the WRDA bill and to the amendments I 
+am going to be offering to this bill, about the importance of acting 
+now to save this great region of the Southern part of the United 
+States, and the fact that this delta that we are attempting to save by 
+building the right kind of levees, the right kind of gates and locks, 
+the right kind of navigation channels, correcting some of our past 
+mistakes that we made before we realized the damage that would occur by 
+some of our own actions.
+  He writes about the importance of this Delta, that at one time it 
+reached from Cape Girardeau, MO, all the way up the Mississippi River, 
+down to the present mouth of the river, that the entire delta, that it 
+was created over thousands of years, and it was maintained as the river 
+overflowed its banks. As the river overflowed, it carried silt. It 
+built the Delta.
+  But as we have channeled the delta, channeled the river and built 
+levees up along the river, we have caused the natural building up of 
+the delta to stop.
+  Then as we cut channels through this great and amazing land, that 
+reaches from the east of New Orleans all the way to the Texas-Louisiana 
+border, as we crisscross it with pipelines and navigation channels to 
+tap into the extraordinary oil and gas reserves both on land and 
+offshore, it exacerbates an already tough situation.
+  Then to level on top of that the dredging of the Mississippi River, 
+to keep the sandbars out of the mouth, the channel as we have made the 
+water move faster, that has an impact on the way this delta is now 
+lowering itself, if you will, into the water.
+  There are other contributing factors, but the bottom line is we have 
+to take corrective action to reverse this. We cannot correct everything 
+that we did, but we most certainly can pass this bill, the WRDA bill, 
+the Water Resources Development Act, which has--about 22 percent of the 
+entire bill is dedicated basically to this purpose
+  It is right that a large portion of this bill be dedicated to this 
+purpose because this delta, this Mississippi River, does not just serve 
+the 4.5 million people who call Louisiana home but it literally serves 
+the 360 million people who call the United States of America home. It 
+serves Canada and Mexico as well, as well as ports around the world. So 
+it is not just for the people of Louisiana whom we act today, it is in 
+the national interest to do so.
+  In the underlying bill, which Senator Boxer and Senator Inhofe have 
+so carefully crafted, the Louisiana Coastal Area Ecosystem Restoration 
+system has $1.133 billion. Morganza to the Gulf, a very important 
+aspect of our protection of south Louisiana, is included in this bill 
+at $841 million.
+  Some port work at the Port of New Iberia for Vermilion and Iberia 
+Parishes, which are two of our larger southern parishes, has an 
+authorization that is overdue and most certainly timely. There is an 
+amount of money to help relocate facilities from the Mississippi River 
+Gulf Outlet, both private and public, so we can close the Mississippi 
+River Gulf Outlet, which is also, hopefully, going to be part of this 
+bill, some work on the western side of our State, the Calcasieu River 
+and Pass and rock bank protection, and there is a lock project around 
+the capital city, to mention a few.
+  The bottom line is, there is about $2.5 billion in this bill for 
+Louisiana projects. It sounds like a lot, and it is. We are proud of 
+the 8 years of work that have gone into building this WRDA bill, 
+through past Congresses
+
+[[Page S6042]]
+
+and now this one. Under the leadership of Senator Boxer, she has 
+committed to work with her colleague, Mr. Oberstar, on the House side 
+to get a WRDA bill to the President's desk for him to sign. It doesn't 
+do us any good to keep talking about a WRDA bill.
+  The only good that will come of this bill is if we can actually get 
+it to the President's desk, get him to sign it, and get these projects 
+underway. The people of Louisiana have waited for 8 years through any 
+number of hurricanes, not the least of which in the last 2 years, we 
+have had the unbelievable challenge of dealing with Hurricanes Katrina 
+and Rita, the first and third largest hurricanes in terms of disaster 
+and impact to ever hit this country. We are still fighting to rebuild 
+and reeling from the damage of those storms. As I have said many times, 
+it wasn't just the multiple levees that collapsed, it was really a 
+Federal flood more than a hurricane that did us in. It was the multiple 
+failure of levees that should have been maintained, should have been 
+stronger, should have been higher, and were not.
+  It is also because of the loss of great wetlands. I would like to 
+share what a healthy wetland looks like, with cyprus trees and land 
+where you can do a little swimming and boating and fishing--not, of 
+course, a lot of walking and building. This wetland stretches from east 
+of New Orleans to the Sabine River pass, which separates Louisiana and 
+Texas. This is a lot of what our coast looks like. This doesn't look 
+like a Florida beach or the Biloxi beach or the North Carolina beach. 
+We actually don't have any beaches in Louisiana. We actually only have 
+two. That is a little bit of a fib. We do have two. One is 7 miles 
+long, and it is called Grand Isle, and the other one is Holly Beach. 
+The rest of our coast basically looks like this. You can't even get to 
+it because there are only two roads, two lanes each. We don't have any 
+interstate highways on our coast. We have two two-lane roads, one down 
+the east side of our State and one down the west. They basically dead-
+end into swampland. This is not wasteland. This is beautiful land. It 
+nurtures migratory birds. It is 40 percent of the nurseries of the gulf 
+coast, extraordinary wetlands we are trying to preserve. Without this 
+bill, it will be impossible.
+  I would like to show a poster. I see Senator Coburn here, and I will 
+finish in just a moment. I will resume after his comments.
+  As Senator Boxer knows, because she came down and flew over these 
+wetlands--I am so grateful to my colleague from California, the 
+chairman of this committee, for coming to fly over these wetlands--we 
+flew over New Orleans, which is right here, and out to the coast. We 
+got to see some of these wetlands. This is the coast of Louisiana. The 
+red spots are land loss just since Katrina and Rita, the land loss from 
+the storm. A lot of it is St. Bernard Parish, lower Plaquemine Parish, 
+and then over this way, which is where Hurricane Rita made landfall. So 
+hurricanes exacerbate an already difficult situation. But because we 
+have been putting navigation channels through these wetlands, we have 
+been allowing for shipping, which is appropriate, but you have to have 
+the right locks and dams and water control structures. Because mostly 
+we have blocked the great Mississippi River, which is the largest river 
+system on our continent, from naturally overflowing so that we could 
+ship the grain out of the Midwest, so we could ship products from 
+Canada down to the midsection of our country, this delta is starved for 
+sediment. We don't have a choice.
+  I am going to end now by saying that this WRDA bill, as far as 
+Louisiana is concerned, is the bill that is going to reverse this 
+decline and start us on a path of safety for the residents, of 
+protection for the environment, and of laying down the foundation for a 
+great economy, which we need to do. We can't shut off this part of the 
+Nation and call it quits. We can't shut down the refining capacity and 
+oil and gas. We have to make it work. We can. It is going to take good 
+science, long commitments, and more than this WRDA bill. But this 
+legislation is a start.
+  In a few minutes, after Senator Coburn speaks, I will lay down an 
+amendment that will lay the foundation for the category 5 protection we 
+need. We do not expect, in Louisiana, this Congress to pick up the 
+whole tab. We most certainly do not expect this Congress to pick up the 
+tab in this bill. But we would like to lay the beginning foundation, 
+knowing the people of Louisiana and Mississippi and Texas will pay our 
+own way as well. The independent stream of revenue we now have from 
+offshore oil and gas revenues can contribute to this project which is 
+going to be several decades, and it will take anywhere from $30 to $50 
+billion. But there is no alternative. It is expensive, but the cost of 
+doing nothing is even more.
+  Let me yield the floor for the Senator from Oklahoma who was 
+scheduled before me. I will return to the debate at a later time.
+  I yield the floor.
+  The PRESIDING OFFICER. The Senator from Oklahoma.
+  Mr. COBURN. Mr. President, I have a couple amendments I will be 
+offering in a few minutes. I wanted to spend a moment or two talking 
+about priorities.
+  The work on the WRDA bill has been very important. I am supportive of 
+us keeping our obligations, especially in Louisiana for the tremendous 
+problems they have encountered. There is a legitimate role for the 
+Federal Government as a partner with the people of Louisiana, 
+Mississippi, and Texas in terms of restoration and also prevention so 
+that we don't see the same things again. The WRDA bill is an important 
+bill for a lot of States on a lot of projects, many of which have come 
+about because the Federal Government has overreached in some of its 
+authority and demanded things of States they can no longer afford to 
+do. That is where we sit today. That is the consequence sometimes of 
+having a Federal Government that is a little bit bigger than what the 
+Constitution envisioned and what our Forefathers envisioned as 
+appropriate.
+  Let me talk about the process for a minute. The chairman asked me a 
+moment ago if I was going to offer any other amendments other than 
+amendments on this bill. I told her no, and I will not. But I think it 
+is important for the American people to consider what we are doing here 
+today. It is important work, but it certainly is not as important as 
+funding our troops. We have asked American families and their children 
+who are serving in the armed services to do a very difficult job. It is 
+very controversial at this time. But regardless of where you are on 
+that job, the fact that we continue to produce bills and not address 
+their needs seems somewhat out of context for where we should be. It 
+has been almost 60 days since the President asked for the additional 
+funding. We have passed the COMPETES Act, spending money on the future, 
+but we can't seem to pass the money for our troops in harm's way. We 
+passed an FDA reauthorization with PDUFA for making sure drugs get 
+cleared, but we can't seem to produce a consensus that our troops will 
+be funded with the necessities they require since they are in harm's 
+way. I find it ironic that we would do anything other than that.
+  When I look at the Constitution, our No. 1 priority is defense. 
+Whether or not we agree with the foreign policy ongoing today, we all 
+agree we don't want our troops to be in any way placed in harm's way 
+because of our lack of action. That is a justified criticism today 
+which may come true, that American troops are hampered because we 
+cannot pass a bill. I won't offer that amendment, although I think that 
+is what we should be discussing, rather than the WRDA bill.
+  I thank my colleagues, Senators Inhofe and Boxer, for their work on 
+this bill. I know it means a lot to a lot of communities that don't 
+have the resources to accomplish the things they need to. However, one 
+of the things I am concerned about is priorities. Last year, we had a 
+debate on the emergency status of funding the levees in Sacramento. I 
+had offered an amendment. I talked with the Governor of California, 
+with the two Senators from California. Ultimately, I withdrew that 
+because I became convinced that, in fact, it was an emergency. It still 
+is. Sacramento is the largest town in this country that is at major 
+risk for a flood. The Corps of Engineers uses years for an event, and 
+Sacramento sits at 85 years, the likelihood that 1 out of the next 85 
+years, Sacramento will be flooded, whereas New Orleans today, even 
+post-Katrina, has a 1-in-250-year risk of being flooded again.
+
+[[Page S6043]]
+
+  As we look at the WRDA bill, one of the things we ought to think 
+about is how do we prioritize to make sure that where there is a 
+legitimate Government role, we actually spend the money on that role. 
+There is a lot of money in this bill. Granted, this is an authorization 
+bill which will put forward a lot of new projects, some of which we 
+know the cost and some we don't.
+  I remind my colleagues, right now we have enough work for the Corps 
+of Engineers for the next 50 years, if we don't give them another job 
+to do on their budget. In this bill, we are going to give them several 
+more major projects and not the appropriate funding to do them. One of 
+the reasons we will not give them the appropriate funding is because we 
+don't have the money because, No. 1, we have $200 billion a year in 
+waste, fraud, and duplication in the money we appropriate presently, 
+which the Senate and the Congress refuse to look at, and No. 2, because 
+of the limitations we have in terms of the magnitude of the jobs we put 
+before the Corps.
+  If you look at priorities in terms of what is important, California 
+has several projects in this, as do several other States. You ask: What 
+are the priorities? You say: We as a family have so many things we have 
+to do. Should we do the most important ones first? If families have a 
+roof they need to put on the house, it is highly unlikely they will 
+build a swimming pool. They are going to fix the roof first and then 
+save for the swimming pool. We don't do that in terms of many of the 
+priorities in this bill.
+  Myself and seven other Members voted against going ahead with this 
+bill for two reasons. No. 1 is the intent, although the details were 
+not followed in terms of the new earmark proposals in the bill. No. 2 
+is that we think the priorities are out of whack.
+  I do have a couple of amendments I will offer.
+
+
+                Amendment No. 1089 to Amendment No. 1065
+
+  I ask unanimous consent that the pending amendment be set aside and 
+amendment 1089 be called up.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The clerk will report.
+  The legislative clerk read as follows:
+
+       The Senator from Oklahoma [Mr. Coburn] proposes an 
+     amendment numbered 1089 to amendment No. 1065
+
+  Mr. COBURN. I ask unanimous consent that reading of the amendment be 
+dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+
+    (Purpose: To prioritize Federal spending to ensure the needs of 
+  Louisiana residents who lost their homes as a result of Hurricanes 
+Katrina and Rita are met before spending money to design or construct a 
+                     nonessential visitors center)
+
+       On page 209, line 1, strike ``The'' and insert ``Subject to 
+     paragraph (5), the''.
+       On page 210, between lines 21 and 22, insert the following:
+       (5) Requirement.--No Federal funds shall be used to conduct 
+     any study, or to carry out any activity relating to the 
+     design or construction, of the visitors center under this 
+     subsection until the date on which the Secretary, in 
+     consultation with the Director of the Federal Emergency 
+     Management Agency, the Secretary of Housing and Urban 
+     Development, and the State of Louisiana, certifies to 
+     Congress that all residents of the State of Louisiana who 
+     were displaced as a result of Hurricane Katrina or Rita in 
+     2005 are no longer living in temporary housing.
+
+  Mr. COBURN. This is a simple amendment. It says that there are 
+100,000 people from Louisiana today in temporary housing. We have 
+failed to move them from temporary housing into other housing.
+  There are, in this bill, plans and studies for a new visitor center 
+to be set up in Morgan City, which will be a great thing for the area 
+of Louisiana. I do not doubt that. The purpose of this amendment is to 
+say we should not spend any money on that until we get the people 
+affected by Katrina back into housing instead of temporary housing.
+  So it is not necessarily a criticism, although I generally have 
+criticisms of the Federal Government's role in providing visitor 
+centers for tourism, et cetera, in the States. More importantly, it is 
+about priorities, of whether we ought to take care of those people who 
+have been markedly impaired in their housing opportunities, which 
+ultimately affects their ability to earn a living in Louisiana, before 
+we build another visitor center, before we spend any money on it. We 
+attempted to try to find out how much this visitor center would cost, 
+and nobody could tell us. But the point is, we probably should not 
+spend a penny on that until we have taken care of the people in 
+Louisiana.
+  If you look at the stories that continue to come out--and Senator 
+Landrieu has been a champion in this body of making sure the rest of 
+the Members of this body are aware of the continuing needs of Louisiana 
+for housing--we should not spend any money on anything other than those 
+critical needs for the people of Louisiana. When those are met, then we 
+go and build a visitor center. We do not do it at the same time. To do 
+it at the same time says there is no limit on the amount of funds we 
+have, and we know there are. So we should not put this forward.
+  This amendment does not take away the visitor center, it does not 
+eliminate the visitor center; it just says you cannot spend any money 
+on it until we have taken care of people in Louisiana and their 
+housing. It is very simple, very straightforward, but puts a priority, 
+much like you and I put a priority on what our needs are. One of our 
+big failures in this body is picking priorities. If we had unlimited 
+funds, we would not need to do that, but we do not have unlimited 
+funds. Our true deficit was far in excess of $300 billion last year, 
+although we claimed it was under $200 billion by Enron-style 
+accounting. But, in fact, we added $300 billion to our children's and 
+grandchildren's debt.
+  So this is just a little, small amendment that says we should not do 
+this until we have taken care of the obligations that are in front of 
+us in terms of people's lives. When we have done that, then go for it, 
+go do it, but do not do it ahead of those people. When people cannot 
+have services, cannot have what they need, who have been displaced by a 
+natural disaster the likes of which we have never seen before in this 
+country, we should not spend one penny on thing other than taking care 
+of them. Once they are taken care of--a legitimate Federal role, to 
+make sure the environment for housing has been created so Louisiana can 
+get back on its feet--then we ought to do that. So we are not 
+eliminating it. We are just saying, do not spend the money, there is no 
+authorization until you have met and it has been certified that the 
+housing needs of those who are in temporary housing today--trailers, 
+tens and tens of thousands of people are still living in trailers, who 
+still do not have access to housing--do not do that until you have met 
+that need. It is very simple.
+  Mrs. BOXER. Mr. President, may I ask the Senator to yield for a 
+question?
+  Mr. COBURN. Certainly.
+  Mrs. BOXER. Mr. President, is the Senator now going to go to the 
+second amendment?
+  Mr. COBURN. Mr. President, I plan on it.
+  Mrs. BOXER. Mr. President, would it be wise to have the Senator from 
+Louisiana respond now, and then the floor would go back to the Senator 
+for the next amendment?
+  Mr. COBURN. Mr. President, I would be fine with that.
+  The PRESIDING OFFICER. The Senator from Louisiana.
+  Ms. LANDRIEU. Mr. President, let me respond to my colleague. I want 
+to begin by first thanking my colleague from Oklahoma for his time and 
+focus. He has come down to our State. He has viewed the damage. As you 
+can tell, Mr. President, he is most familiar with our situation. He is 
+absolutely correct, we have a great deal of work to do.
+  This particular visitor center, like several others, is not just for 
+extra recreation, I say to my colleague. This is the heart and soul of 
+tourism in this region. We do not have big cities like New York and 
+Chicago in this region. Maybe they are somewhat like the Senator's 
+cities in Oklahoma. They are small communities, but they are important 
+communities. Throughout the southern part of our State, as I have shown 
+on the maps, we do not have large communities but communities of 15,000 
+or 10,000, for example, high up on a ridge, surrounded by levees.
+  We are proud of these great wetlands. We want people to come see 
+them. So it is not just saving them for the birds and the fish, which 
+is very important, but it is actually saving them for the benefit of 
+the people who live there, who want to be able to recreate on them, and 
+we want to share them with the world.
+
+[[Page S6044]]
+
+  I say to the Senator from Oklahoma, we think the more people can 
+actually get their eyes on this problem, the more support we can get 
+for doing the right things to preserve them, to taper down on 
+unnecessary and unwanted development, to scale up the investments in 
+the right kinds of levees and structures, that will help us preserve it 
+over time.
+  So while I know on first blush it may seem to the Senator as if this 
+is a frivolous expenditure, I would say this is part of a very 
+comprehensive approach Louisiana has to save the wetlands. I do not 
+think--I will be happy to submit for the Record the total cost because 
+I most certainly can get that for the Senator--it is going to amount to 
+very much money, but it is an important aspect of our redevelopment 
+that has to do with science, with engineering, with the environment, 
+with the basic industries, and with tourism and the education of people 
+about what wetlands are.
+  I say to the Senator, as I said, one of the difficulties Senator 
+Vitter and I are having in trying to explain this to the Nation is 
+there are virtually no other shores in the country like this. There are 
+low-lying areas, of course, in South Carolina and North Carolina, and 
+marshes, but there is virtually no other delta like this in the 
+country. So people literally have not been able to see it.
+  When you see something like a beach in Florida, the wonderful coast 
+in California, which many of us have been to, or to Long Island in the 
+Hamptons, in New York, when you have seen that with your own eyes, you 
+can appreciate it, and you can understand it. The only way to get to 
+the coast of Louisiana is literally by boat or by air, except for those 
+two little highways I spoke about: LA1 on the east side and Holly Beach 
+Road on the west side.
+  So having this center--I would like to show you where it might be, if 
+I can find a picture of the Atchafalaya. I am not sure I have one. Let 
+me show you the original picture I started with. I will show it, not to 
+make too much of this because it is just a small education center. The 
+center would allow people to come down into this wetlands area and see 
+some of the great Atchafalaya Basin that is sort of the last standing 
+Cyprus swamp in the country. So again, it is a small item.
+  I object to the Senator taking it out of this bill, but I want him to 
+know this is not because we do not think it is important to put people 
+in housing and to build levees. We are doing all that and doing it as 
+fast as we can, trying to reduce redtape, but we do think these 
+educational centers which we are building serve a significant and 
+important purpose. I do believe the State has already contributed in 
+kind, as well as the local parish.
+  So I will leave my argument there and at the appropriate time come 
+back to this subject.
+  I yield the floor, but I would like to speak sometime later this 
+afternoon.
+  The PRESIDING OFFICER. The Senator from Oklahoma.
+  Mr. COBURN. Mr. President, I thank the Senator for yielding.
+  I would like to make some comments. First of all, we do not take this 
+out. We do not eliminate it. We just say there ought to be a priority 
+on the funds, and the funds for housing ought to come ahead of this. 
+No. 2 is, 3 years ago, a new visitor center was opened for this very 
+purpose for the Atchafalaya Basin, which is the focus of the new 
+visitor center. This just opened 3 years ago.
+  Again, in a quote from it: Smack dab in the center of the Atchafalaya 
+Basin is a very welcoming site for those traveling on Interstate 10. 
+The Atchafalaya Welcome Center is open seven days a week from 8:30 to 
+5. The center is located off Interstate 10 at exit 121. It is a first 
+class facility, quite impressive, with historical information within 
+the walls. It is an Acadian-style cottage museum. Outside, wildlife and 
+nature will take you back in time.
+  It was completed in June 2004. It has many of the same things the 
+Senator wants to support. There are also two other visitor centers in 
+Morgan City, so it is not that there is not some process out there 
+already to do that.
+  Again, the point is not to eliminate this visitor center. The point 
+is to say, shouldn't we have a priority--before we allow money to go 
+for another visitor center where there is already one that has just 
+opened 3 years ago, shouldn't we have the people who need housing taken 
+care of? So I will stand with that and will not continue the debate on 
+that.
+
+
+                Amendment No. 1090 to Amendment No. 1065
+
+  Mr. President, I ask unanimous consent that the pending amendment be 
+set aside and call up amendment No. 1090.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The clerk will report.
+  The legislative clerk read as follows:
+
+       The Senator from Oklahoma [Mr. Coburn] proposes an 
+     amendment numbered 1090 to amendment No. 1065.
+
+  Mr. Coburn. Mr. President, I ask unanimous consent that reading of 
+the amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+
+(Purpose: To prioritize Federal spending to ensure the residents of the 
+   city of Sacramento are protected from the threat of floods before 
+          spending money to add sand to beaches in San Diego)
+
+       On page 11, strike line 5 and insert the following:
+       (6) Imperial beach, California.--
+       (A) In general.--Subject to subparagraph (B), the
+       On page 11, between lines 15 and 16, insert the following:
+       (B) Requirement.--No Federal funds shall be used for beach 
+     nourishment for Imperial Beach, California, until the date on 
+     which the Secretary certifies to Congress that the Sacramento 
+     River Bank Protection Project has been completed.
+  Mr. COBURN. This, again, is for the restoration of beaches. It is a 
+30- or 40-year project, which I do not object to on its face. I love 
+beaches. I take my family to Florida. I noticed recently they restored 
+beaches down there. Again, the question is priorities. We have a tough 
+time setting priorities. We take authorizations bills, we don't look at 
+them. What we do is we get them authorized and then we fight like heck 
+when the appropriations time comes around to get our projects funded.
+  The Sacramento levee system, according to the Corps of Engineers, is 
+one of the most important projects they have in terms of reducing risk 
+for people at risk of flood. We had a debate on this floor less than a 
+year ago with the Senators from California. I talked to the Governor of 
+California. I had attempted to strip out some of the funding of an 
+emergency bill for emergency funds for the Corps of Engineers for this 
+basin and for these levees. They convinced me with their argument that 
+was a high priority. I actually withdrew my amendment. I did not ask 
+for a vote on it.
+  We have a WRDA bill that has this in it, and then we have a beach 
+restoration project, over which there is some significant debate in 
+terms of Imperial Beach in southern California, restoring that beach 
+over the next 40 to 50 years, with intermittent projects every 4 to 5 
+years, pumping sand to restore the beach. I am not against that, 
+either. But what I think we have to do is set a priority.
+  Why shouldn't the priority be that we protect the people of 
+Sacramento and finish the levee system? The answer will be: We can do 
+both. Well, we really cannot do both. We will do both probably, but we 
+cannot do both. We cannot do both with the money we have. So then it 
+comes to: Where are the priorities? We will have this debate again when 
+the bills come forward in the appropriations process, of where the 
+priority is. We will probably fund both these projects. But when the 
+American taxpayers ask: Now, which one is most important, which one is 
+a true Federal responsibility, which one is a State responsibility, 
+they are going to want some answers. When asked about protecting a 
+major city such as Sacramento with a levee system that the Corps of 
+Engineers designed, which was substandard to begin with, and redoing 
+that to make sure we protect all these people, or letting the State of 
+California restore its own beaches from sand erosion, I believe the 
+vast majority of Americans will say: As to the beach, probably the 
+local community can afford to do that. They get the benefits off of it. 
+They get the property taxes off of it. They get the tourism off of it. 
+But Sacramento is a different story. It is something the Federal 
+Government started. It is something the Federal Government is 
+responsible for, and something the Federal Government should respond to 
+and finish.
+
+[[Page S6045]]
+
+  Senator Feinstein, in our debate last year, noted that the bottom 
+line is that human life and property hangs in the balance based on the 
+sustainability of these levees. I think that is right. I do not think 
+human life stands in the balance on restoring the beaches, which is 
+really a State responsibility.
+  What we are going to do in this bill is we are going to take taxpayer 
+money. We are actually going to borrow the money to do it. We are not 
+going to do it out of the regular budget. We are going to pay for 
+something that is a State responsibility. The other factor that comes 
+into it is that every State in the Union, save one, has a surplus this 
+year. We have a $300 billion deficit, if we are honest. So, again, it 
+comes back: is it great if we have extra money, if we aren't borrowing 
+the money for the future? Should we do this at the same time? I would 
+agree.
+
+  The fact is, we don't want to make the hard choices. We don't want to 
+tell anybody no, not now. What we want to do is be able to have both. 
+We can satisfy people today, but the people who will be dissatisfied 
+with the generational collar that we put around them will be our kids 
+and grandkids as they repay the cost of out not prioritizing things, 
+not looking at things that are most important, and otherwise not 
+standing up to the line and doing what we should be doing, which is 
+making the hard choices of priorities.
+  One of the things I think the American citizenry is upset with, as 
+much as the war or more, is the fact that it seems as if we don't care 
+about the future. We will throw money at anything, money we don't have.
+  So these two amendments I bring to the floor today are not big. They 
+may not pass, but they are based on a principle. The principle is to be 
+a good steward. We all, in our own personal lives, with our own money, 
+have to make priorities. We have to put that roof on before we do 
+something else to the house. We have to make a choice about where the 
+first dollar should go. Unfortunately, sometimes we do a poor job of 
+that in the Congress.
+  I believe, from the way this Senator sees it, securing the levees 
+ought to be a much higher priority than restoring beach that can be 
+restored by a local community or the State of California. It is not 
+truly a Federal responsibility.
+  I have studied a great deal about the beach restoration project. They 
+have a general plan. What has happened to them has been out of their 
+control, the Tijuana River in terms of how it has been blockaded and 
+dammed and the amount of sand that filters in and that is available for 
+the beach. Several attempts at growing structures had been made in 
+1978. A plan was put forth that would have restored it. It did not meet 
+the environmental impact statement. It was abandoned at that time.
+  What we know and what is predicted by those who have watched this--
+especially Orrin Pikley, the director of the program for the State 
+Developmental Shorelines at Duke University--is that we shouldn't be 
+nourishing the beaches. President Clinton, much to his credit, saw the 
+need for the States to take a greater burden in financing beach 
+nourishment, and he proposed eliminating all funding for nourishment 
+projects and studies, and he reduced the Federal share to 35 percent on 
+any projects that weren't ongoing.
+  Where is the responsibility? Who is going to pay for it? It is easy 
+to spend your money. It is easy to not tell anybody no. But the fact 
+is, when we get down to the long and the short of it, we can't do 
+everything everybody wants to do. I know a lot of people were told no 
+in this bill about things they want to do, but we do some of it, to be 
+fair. But in the long run, lives, safety, and housing have to take 
+precedence over convenience and recreation.
+  With that, I yield the floor.
+  The PRESIDING OFFICER. The Senator from California is recognized.
+  Mrs. BOXER. Mr. President, I rise in strong opposition to this 
+amendment. I would like to lay down the reasons why.
+  First, I do want to thank Senator Coburn because he was very 
+accommodating to both Senator Inhofe and me by coming here on a Monday 
+afternoon and putting these amendments down so we could begin the 
+debate and hopefully vote on them tomorrow. I do appreciate that. It 
+means a lot to us as managers because we worked long and hard on this 
+bill.
+  Before I tell my colleagues why I call this amendment the Russian 
+roulette amendment, let me just say I have supported Senator Coburn on 
+many of his amendments where he is looking at the fiscally responsible 
+thing to do, and I will continue to do so when I think those amendments 
+make sense, and I am sure there will be more. But I do want to call to 
+the Senator's attention, if you step back from this particular 
+amendment, which I strongly disagree with--I think it is dangerous, and 
+I will go into that in a minute. If you step back and look at the whole 
+picture of this bill, we should be very proud that working together, 
+Republicans and Democrats, we took a bill that was scored at about $31 
+billion down to a bill that is about $13.9 billion because we really 
+did apply some strict standards to this bill.
+  There are no projects in this bill that are giveaways or handouts or 
+make somebody's beachfront pretty. That is nonsense because neither 
+side would approve of that.
+  I also want to make a point--because I think Senator Feingold made 
+this point very well, although I disagreed with him and we had a bit of 
+a debate on it last week--that when colleagues use the word 
+``prioritize,'' that we should ``prioritize,'' and then they offer 
+these amendments, they are putting out their priorities. That is not 
+subjective. It is not subjective if I put out my priorities next to 
+Senator Coburn's, next to Senator Feingold's, next to Senator Inhofe's. 
+That is objective. I think the Presiding Officer who is now sitting in 
+the chair knows because she sits on the committee that has jurisdiction 
+over this bill. It is hard. We battle it out for what the right 
+priorities should be.
+  Now, as I told Senator Feingold last week when we had a debate, 
+because he is offering an amendment dealing with prioritization and 
+setting up a whole new way to prioritize this project, let's look at 
+this process in which we are engaged because I think the Senator--the 
+reason I believe the Senator is on weak ground is because he seems to 
+be ignoring what has gone on before he got involved.
+  First of all, these projects start from the local governments up, and 
+the local governments and the communities get together and say: We have 
+a very rough situation and we pay Federal taxes and we would like to 
+make a partnership to protect lives and property and businesses. From 
+there, they put up their fair share. They have to be willing to put up 
+their fair share. So this isn't Uncle Sam paying for all this. This is 
+a joint effort, and they have to come forward and the various 
+committees of jurisdiction approve a study.
+  Now, when these studies are looked at, I say to my friend, there is a 
+cost-benefit ratio involved, and sometimes it is very tough on 
+colleagues because they think they are going to get a project and 
+realize it just doesn't add up. So everything before us that has passed 
+muster, the local government, the local people, they pick up the share, 
+and it has to be funded with a study. And that study, as I said, has to 
+come in and show that this makes sense, and then it goes to the various 
+committees or the administration will fund it. There is an 
+environmental impact statement that goes along with all this. They are 
+considered again in WRDA. I guess this is the chance for colleagues to 
+say: We don't like this project or that, and we are having this debate. 
+It is the Senator's absolute right to choose and pick what he thinks 
+are not priorities. I understand. So after we pass it here, it then has 
+to go forward and get appropriated as well.
+
+  This bill has been 7 years in the making. We have cut it more than in 
+half. I think it is a proud product.
+  I would say to my colleague, the reason I say the amendment is 
+playing Russian roulette is this: We don't know when a hurricane, a 
+storm, is going to come up and hit us in the face. It may come in the 
+northern part of my State, I say to my friend. I have a coastal State. 
+I have a State that is beautiful. We have more beauty per square inch--
+of course, I am not subjective on the point--than I think any other 
+State. We have 37 million people. We have a real problem. The fact is, 
+we can't just do one thing--Sacramento--and not take care of all the 
+other things.
+  I so appreciate my friend's coming around with us on the Sacramento
+
+[[Page S6046]]
+
+issue. I cannot tell my colleagues what it means to me because, as he 
+now knows, we have to take care of Sacramento. It is low lying. It is a 
+potential catastrophe. He is absolutely right to call attention to the 
+levees. We have to do all that.
+  But the reason I say his amendment is Russian roulette is because it 
+is essentially counting on the fact that we are not going to have this 
+problem in Imperial Beach. I want to say this is not a beach project; 
+this is a hurricane and storm damage reduction project. This is not 
+about making somebody's property pretty to look at. This is serious 
+business.
+  And speaking of business, if we don't do this work--the locals are 
+going to pay, in the beginning, 30 percent and then 50 percent. If we 
+don't take care of it, business is going to get the floods and it is 
+going to be wiped out. So I wish I could say to my friend all I need is 
+one flood control project in Sacramento and be done with it, but with 
+37 million people and an economy that if we were a separate Nation 
+would be the fifth or sixth largest in the world, obviously California 
+needs so much.
+  Now, we have stressed Louisiana and Hurricanes Katrina and Rita. 
+Senator Inhofe and I pulled aside a lot of people and said: Look, we 
+have to come together to help that region. But we also have a backlog 
+of 7 years' worth of work. In the case of Imperial Beach, this project 
+got started in 2007, and the people are waiting. The city of Imperial 
+Beach is home to 26,000 people. Four thousand of its residents live 
+within two to three blocks of the shoreline. It is located near San 
+Diego, just to give everybody a picture, and the beaches and the sand 
+dunes act as a buffer to protect residential and commercial properties. 
+It is a defense. It is a defense against storms and storm surge. If we 
+don't do that, we would be building walls, a very expensive way to get 
+that hurricane damage reduction.
+  So nature provides our coastal communities with natural protection 
+from violent storms and the waves they produce. In the Northeast it is 
+the high rocky cliffs. From the Mid-Atlantic around the Gulf of Mexico, 
+it is the wide, sandy beaches. In Louisiana, it is miles of wetlands. 
+That is why both our colleagues, Senators Vitter and Landrieu, talk a 
+lot about wetlands restoration, which we do in this, because that is 
+the natural flood control, just as the beaches and the bluffs are 
+natural flood control that God gave us.
+  The coast of my State is particularly prone to strong winter storms 
+that blow in from the Pacific. During the El Nino years, storms can be 
+especially dangerous. That is why I say Russian roulette. We are 
+playing Russian roulette. This is not some project that sprung up 
+because some individual looked out and said: You know, I want more 
+beach in front of my house. No. It has nothing to do with that. It is a 
+dangerous situation. The public is going to be paying for half of this.
+  The Army Corps of Engineers said 100,000 cubic yards per year is 
+eroding from the beach, corresponding to a shoreline retreat rate of 6 
+feet per year. There is adequate protection from winter coastal storms. 
+That is what the Army Corps of Engineers said. That is not me speaking. 
+I am not an engineer. I respect what they say.
+  I know my friend says he is not striking this, he is just saying it 
+is more important to do Sacramento first. We need to do all of it. We 
+need to do this bill. We need to take care of our people in this bill 
+wherever they live--east, west, the north of my State, the South, East 
+or West of the country, Midwest--wherever they are, wherever they need 
+help.
+  At the current retreat rate, the shoreline in the northern portion of 
+the area could reach the first line of development this year--this 
+year. That is why this bill is so needed. It is needed now--not next 
+year, not after they finish Sacramento or after they finish Hurricane 
+Katrina. We shouldn't be picking and choosing. We should be having an 
+absolutely firm commitment to making sure every one of these projects 
+fits the benchmarks we have set in a bipartisan way, meet the 
+benchmarks, meet the criteria, and not punish people and say, gee, you 
+people in Imperial Beach, you are paying and we are going to pay 50 
+percent out, but we are stopping because a lot of miles away in another 
+part of the country, or this State, other people need help and they are 
+more important than you. I don't think that is right.
+
+  We are Senators. We are Senators of all the people. We have to look 
+at their needs. Absolutely, prioritizing is key. I have shown my 
+colleague how we prioritize through this process and how we cut back 
+the costs of this bill. The beaches, the coastline, the protective 
+buffer is literally washing away.
+  (Ms. Klobuchar assumed the Chair.)
+  Mr. COBURN. Will the Senator yield for a question?
+  Mrs. BOXER. Yes.
+  Mr. COBURN. Will the restoration project in this bill solve the 
+problem of Imperial Beach?
+  Mrs. BOXER. This is considered a 50-year fix.
+  Mr. COBURN. It is a 50-year fix only if they continue to do the work 
+every 5 years, correct?
+  Mrs. BOXER. Well, of course, all projects have to be maintained.
+  Mr. COBURN. According to the Corps, every 5 years we will pump the 
+same amount of sand up there, and in 50 years we will be doing the same 
+thing again. This isn't a long-term fix; this is a short-term fix, 
+according to the Corps, not according to anybody else. They have to do 
+the same thing every 5 years to maintain the status quo; is that 
+correct?
+  Mrs. BOXER. No. The initial project consists of 1.214 million cubic 
+meters of sand, resulting in a total beach with 32 meters beyond the 
+existing beach line. That is the first phase. To get to your point, it 
+is estimated that once every 10 years, over the 50-year life of the 
+project, they would replenish, not every 5 years.
+  Mr. COBURN. Every 10 years, they are going to have to bring back the 
+sand the ocean naturally washes away from the beach because we have not 
+done what needs to be done, which is a long, extended growing, to help 
+the beach replenish itself.
+  Mrs. BOXER. Let me say, we continue to maintain the dams in Oklahoma, 
+too. So whether you are maintaining a dam or maintaining this kind of 
+project, yes, you have to take care of your house, your home, your 
+project. This isn't a free lunch for anybody. The local people have to 
+pay for that as well.
+  So the reason the Corps recommended this particular project is they 
+say it is very cost effective, it provides a lot of protection for 
+these people, and it has a very high cost benefit. For every dollar put 
+in, the American people get $1.70 in return, and few projects can claim 
+such a return.
+  Mr. COBURN. I would not know how to argue with that. Would the 
+Senator yield for a moment, and I will finish up?
+  Mrs. BOXER. Yes, I am delighted.
+  Mr. COBURN. The difference between this and a dam is a dam is put 
+there to control water or generate power. They have to be maintained. 
+The way to fix this, according to the people we have talked to, is the 
+original Corps plan is to put the money into an extended growing until 
+the beach redevelops and replenishes itself. We will continue to do 
+this every 10 years. I am not saying that is not a good priority, but 
+it is not a priority like many of the other things.
+  I have a letter that I received from Dr. Serge Dedina, executive 
+director of WiLDCOAST, supporting our amendment and asking that this 
+money be placed secondary to the efforts in Sacramento because their 
+studies show one winter storm will wash away what this money was spent 
+for. In fact, this isn't the best plan, although it is a plan and--
+again, if I was there, I would want this beach maintained and restored. 
+But I understand the desire for it. I understand the priorities for it. 
+I understand the decisions that have been made in terms of lessening 
+priorities that weren't included in that bill.
+  I appreciate the time the chairman of the committee has given me to 
+offer these amendments.
+  I ask unanimous consent that this letter be printed in the Record.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+                                                     May 14, 2007.
+       Dear Senator Coburn: Please accept this endorsement for 
+     your amendment to the WRDA that would require that residents 
+     of Sacramento be protected from the threat of floods by the 
+     completion of the Sacramento River Bank Protection Program 
+     before federal funds are spent to add sand to beaches in San 
+     Diego (Imperial Beach) .
+
+[[Page S6047]]
+
+       WiLDCOAST represents the interests of Imperial Beach 
+     taxpayers who are solidly opposed to any public expenditures 
+     on beach replenishment projects in Imperial Beach. We have 
+     been informed by City of Imperial Beach staff that federally 
+     funded beach sand projects are designed to ``enhance private 
+     property.''
+       Our Beach Sand Stakeholder Advisory Group is formed of 
+     local Imperial Beach business owners and coastal engineering 
+     technical experts who all agree that the effort to have U.S. 
+     Taxpayers fund Imperial Beach sand replenishment is an 
+     absolute waste of scarce federal dollars. It has been 
+     scientifically proven that millions of dollars of sand that 
+     would be dumped on the beach of Imperial Beach would wash 
+     away in a single winter storm.
+       We appreciate your support for stopping wasteful 
+     expenditures of scarce federal dollars through badly planned 
+     and flawed sand replenishment projects in Imperial Beach, 
+     California.
+           Sincerely,
+                                                     Serge Dedina,
+                                    Executive Director, WiLDCOAST.
+
+  Mrs. BOXER. Madam President, I ask where we are now. Senator Coburn 
+has two pending amendments; is that correct?
+  The PRESIDING OFFICER. That is correct.
+  Mrs. BOXER. We now have Senator Feingold's amendment pending on 
+prioritization and two Coburn amendments; is that correct?
+  The PRESIDING OFFICER. That is correct.
+  Mrs. BOXER. OK. I feel like I want to respond for a couple of minutes 
+more to this amendment and say that my colleague says: Oh, my goodness, 
+every 10 years you have to do more work. As I say, the Corps found that 
+this is the most economical and sustainable way to resolve this 
+problem. He talks about beaches--what were his words--being washed 
+away. Yes, beaches will be washed away. We expect that, and every 10 
+years we will restore the beach. But it is better that that happens 
+than houses washing away, businesses washing away or people washing 
+away. So we have looked at the other options, such as concrete 
+structures, walls--all very expensive and requiring a lot of 
+maintenance and so on.
+  So we have a situation where the city is paying for 35 percent of the 
+initial part of the project, 50 percent for the rest of the project. 
+The city of Imperial Beach is not looking for a handout, but it is 
+sharing the burden of protecting its people.
+  Again, I don't quite understand the prioritization of the Senator 
+from Oklahoma, or why he picks on this particular project. This is a 
+project that is more cost effective than any other alternative. It is 
+one of the most cost effective in the Nation. We feel very good about 
+it. But just as Louisiana's wetlands restoration will lessen impacts of 
+hurricanes, because the wetlands are that natural absorber of the water 
+and they also lessen the power of the hurricane, we are here using the 
+God-given beaches as a way to do this flood control or, better said, 
+hurricane impact reduction. So we learned from Hurricane Katrina that 
+we should address our flood threats before they materialize.
+  We are worried about this particular community. I am very pleased 
+that this particular project certainly wasn't even controversial when 
+we put together our package because it so clearly fits all the criteria 
+we had in place. My colleague is saying don't do this until you do 
+Sacramento, and it doesn't make any sense to me because we need to do 
+it all. That is the point of the WRDA bill--to take care of as many 
+people as we can, and that we can project with the most stringent 
+criteria that we have. So this ``Russian roulette'' amendment plays 
+with the fate of my community. I think Senator Coburn's other 
+amendment, which would strike a blow at the tourism revival in 
+Louisiana, is also an ill-fated amendment.
+  The reason I was so glad he came over this afternoon is I am hoping 
+we can have votes on these three amendments tomorrow. If we send a 
+signal that the members of the committee are sticking together on this 
+in a bipartisan way and we are going to move this forward, I think it 
+would be very good for the bill.
+  I look forward to Senator Inhofe's arrival. He has had a very 
+grueling weekend in Iraq. I don't know exactly when he will arrive. At 
+this point, I suggest the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The assistant legislative clerk proceeded to call the roll.
+  Ms. MURKOWSKI. Madam President, I ask unanimous consent that the 
+order for the quorum call be rescinded.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Ms. MURKOWSKI. Madam President, I ask unanimous consent that I be 
+allowed to speak as in morning business.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+
+                          National Police Week
+
+  Ms. MURKOWSKI. Madam President, this week, the week of May 14, is 
+National Police Week, and the streets here in Washington, DC are filled 
+with tens of thousands of law enforcement officers, their families, and 
+their children. This is the week we recognize 17,917 officers whose 
+names are inscribed on the National Law Enforcement Officers Memorial 
+here on Judiciary Square, all of them people who gave their lives to 
+make our communities a safer place.
+  It is the week we recognize 145 fallen heroes of our Nation lost this 
+past year. The people of Alaska give thanks that we did not lose a law 
+enforcement officer in the line of duty during 2006. This is also the 
+week we add the names of 237 additional law enforcement officers to the 
+memorial. These are officers who lost their lives in the line of duty 
+in generations past but whose stories did not come to light until now. 
+One of those 237 officers is William George Pfalmer, Jr.
+  Officer Pfalmer's career with the Anchorage Police Department came to 
+an end on June 9, 1953, when he was shot following a traffic stop of a 
+stolen vehicle. He was shot in the left arm and the right shoulder, 
+shattering his spine and causing him to spend the remainder of his life 
+in a wheelchair. Officer Pfalmer lost his battle to survive those 
+wounds on December 26, 1970, at the age of 45, after undergoing one of 
+many corrective surgeries.
+  I rise today in tribute to Officer Pfalmer and I rise to share the 
+remarkable story of a present-day Anchorage officer, Officer Cathy 
+Diehl Robbins, who made sure Officer Pfalmer's contributions were not 
+lost to history. But for Cathy's determined research, the name of 
+William George Pfalmer, Jr. might never have been inscribed on the 
+National Law Enforcement Officers Memorial.
+  When Officer Pfalmer was shot on June 9, 1953, the city of Anchorage 
+did not even pay him a full day's pay. At the time, the city did not 
+offer a pension to police officers, nor did it compensate them for 
+their injuries. Officer Pfalmer, who was 27 years old at the time, 
+turned in his badge--which so happened to be badge No. 13--and was left 
+to fend for himself. Anchorage is a city well known for its community 
+spirit. This was true in 1953, it is true today. Officer Pfalmer was 
+named Anchorage's Father of the Year, and the community helped to raise 
+$13,000 to help the family through their difficult time. But that was 
+not enough to enable the Pfalmer family to remain in Alaska.
+  A World War II Coast Guard veteran, Officer Pfalmer moved his family 
+to California where he could receive medical treatment without charge 
+from the VA. The officer's wife Eleanor was his full-time caregiver. 
+They were tough years financially, but love and commitment held the 
+family together. Officer Pfalmer kept his family afloat for most of 
+those 17 years by purchasing cars at auto auctions, reconditioning 
+them, and reselling them. His three sons, Glenn, Garry, and Greg, 
+helped out after school repairing the cars under their dad's 
+supervision. The three sons were literally their dad's arms and legs. 
+They all became mechanics, a trade their father taught them.
+  The Pfalmer family assumed that their father's service with the 
+Anchorage Police Department was long forgotten, until one day, out of 
+the blue, son Greg received a call from Cathy Diehl Robbins. Cathy, who 
+had been researching the history of the Anchorage Police Department in 
+her own time, came across an article of some 10 years earlier. That 
+article led Cathy to believe there was a hero who somehow had fallen 
+through the cracks. Cathy would not let go and was determined to run 
+the story to the ground. After diligent research, she discovered the 
+story was true. She tracked Greg down on the Internet and learned that 
+his father was the Anchorage police officer
+
+[[Page S6048]]
+
+she had read about. She wondered whether the officer was still alive 
+and, sadly, learned he was not. Cathy then made it her mission to 
+ensure that Officer Pfalmer's contributions were not forgotten.
+  On June 9, 2006, 53 years after the fateful incident that cost the 
+officer his career, the Anchorage Police Department acknowledged 
+Officer Pfalmer's loss as a line-of-duty death. He was subsequently 
+recognized by the Alaska Peace Officers Memorial, and this year his 
+name is inscribed on the National Law Enforcement Officers Memorial.
+  It is fitting that Cathy Diehl Robbins was invited by the National 
+Law Enforcement Officers Fund to read Officer Pfalmer's name at the 
+annual candlelight ceremony, which was held last night, Sunday, May 13. 
+I am pleased that Garry Pfalmer, one of Officer Pfalmer's three sons, 
+was able to travel from Fairbanks to witness the ceremony.
+  During this National Police Week, we remember fallen officers for the 
+way they lived their lives, not the way they gave them. Today, we 
+remember Officer Pfalmer not only for the events of June 9, 1953, but 
+also for the support and the inspiration he provided to his family 
+during the next 17 years: a hero at home and a hero in the service of 
+our community.
+  During this National Police Week, we recite again and again the 
+phrase that ``heroes never die.'' So let us spend a moment to reflect 
+upon the life of Officer Pfalmer, and as we do, let us acknowledge the 
+efforts of an angel named Cathy Diehl Robbins, who brought the story of 
+Officer Pfalmer back to life.
+  Madam President, I yield the floor, and I suggest the absence of a 
+quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The assistant legislative clerk proceeded to call the roll.
+  Ms. LANDRIEU. Madam President, I ask unanimous consent the order for 
+the quorum call be rescinded.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Ms. LANDRIEU. Madam President, it took me a few minutes to get the 
+details I needed to respond to Senator Coburn. I am sorry for the 
+delay. But I want to continue the debate we had just about 45 minutes 
+ago on his amendment No. 1089 about which he spoke earlier, and we are 
+prepared, I think, to vote on in the morning.
+  I am hoping my good colleague from Oklahoma will think about the 
+possibility of withdrawing his amendment because I am going to submit 
+some things for the Record that I think might have a bearing.
+  First of all, I think he offered his amendment in a way to be 
+somewhat critical--although he was very respectful--somewhat critical 
+that the Federal Government would be funding visitors centers before we 
+build our levees and protections that we need for south Louisiana. I 
+was a little puzzled by that. I went and found the facts.
+  Actually, we are not asking the Federal Government to spend a dime. 
+What we are asking the Federal Government to do is simply to authorize 
+a visitors center, type A as opposed to B, so we can be, as I said in 
+the earlier debate, more interpretive--to have a real place where 
+people can come and learn about the wetlands and the entire delta. The 
+cost difference between B and A would be absorbed by Louisiana. So the 
+Senator's main argument that it would cost the taxpayers of the United 
+States, out of our budget, out of our money, is not accurate. I am not 
+sure he understood that, but I think it has real bearing on the debate.
+  Again, in reference to Coburn amendment No. 1089, which is the 
+Atchafalaya Basin Project, Eagle Point and Fosse Point Visitors Center, 
+it is to simply authorize a larger type, more robust center, if you 
+would, so we can have a kind of interpretive visitors center and 
+education to go on in this part of the State, teaching not only 
+ourselves in our State and the region but the country about the 
+benefits and really extraordinary value of the wetlands.
+  Madam President, 8,000 visitors a month visit this center, which is 
+already established. Again, it is at no cost to the Federal Government. 
+I will speak with Senator Coburn in an effort to see if he can withdraw 
+his amendment. If not, we will continue this debate tomorrow.
+  I ask unanimous consent to have this document printed in the Record.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+          Louisiana Atchafalaya Basin Program Project Profiles
+
+       The ultimate goal at Eagle Point Park is to enhance, 
+     promote, preserve and protect the ecosystem of the lake and 
+     the precious resources of the Atchafalaya Basin.
+       The development of Eagle Point Park will provide a 
+     sustainable recreation park facility designed to fulfill the 
+     needs of eco-tourism and become a welcomed regional and state 
+     amenity. The park's exceptional location near the Atchafalaya 
+     Basin will continue to remind visitors of what Louisiana once 
+     looked like in its pristine splendor of unbroken forests and 
+     swamps. Ultimately, Eagle Point Park will preserve the 
+     precious resources of the basin, recover the basin's majesty 
+     while managing the human impact, and enhance economic 
+     development to surrounding communities and the entire state.
+       The Corps of Engineers is developing a scope of work to 
+     produce Plans and Specifications for the Phase I analysis 
+     currently underway with the Team of the Corps of Engineers, 
+     URS, GSA, Wayne Labiche Engineering, and Sidney Bourgeouis 
+     Architects. After completion of this work the Parish will be 
+     in a position to advertise and award a construction 
+     contract(s) for the Phase I development.
+       Additionally, the U.S. Army Corps of Engineers is currently 
+     considering an aquatic restoration project in Lake Fausse 
+     Pointe. The lake has filled in to a depth of 1.5 feet in many 
+     places and the warm shallow water is not conducive to fish 
+     life. Plans are being considered for dredging a series of 
+     sink holes and using the dredge material to build small 
+     islands which will provide animal and bird habitat and should 
+     eventually provide shade along the banks.
+       Aside from the Educational Value of facilities: State and 
+     Federal Agencies would be housed at Morgan City Interpretive 
+     Center; LSD will put research lab at the Morgan City 
+     Facility; and discussion is ongoing with other agencies for 
+     location.
+       It is important to note that Morgan City was the host of a 
+     FEMA trailer site, but the site has been closed.
+       8,000 visitors visit the Atchafalaya Basin Floodway each 
+     month.
+
+  Ms. LANDRIEU. In addition, Madam President, I referred earlier to a 
+Washington Post article, an article written by John Barry. It was an 
+opinion piece in Saturday's paper, May 12. I referred to it, but I am 
+not sure that I technically asked for it to be printed in the Record. 
+At this point I ask unanimous consent it be printed in the Record.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+          [From the Washington Post, Saturday, May 12, 2007.]
+
+                       Our Coast To Fix--or Lose
+
+                           (By John M. Barry)
+
+       There has been much debate in the past 20 months over 
+     protecting Louisiana from another lethal hurricane, but 
+     nearly all of it has been conducted without any real 
+     understanding of the geological context. Congress and the 
+     Bush administration need to recognize six facts that define 
+     the national interest.
+       Fact 1: The Gulf of Mexico once reached north to Cape 
+     Girardeau, Mo. But the Mississippi River carries such an 
+     enormous sediment load that, combined with a falling sea 
+     level, it deposited enough sediment to create 35,000 square 
+     miles of land from Cape Girardeau to the present mouth of the 
+     river.
+       This river-created land includes the entire coast, complete 
+     with barrier islands, stretching from Mississippi to Texas. 
+     But four human interventions have interfered with this 
+     natural process; three of them that benefit the rest of the 
+     country have dramatically increased the hurricane threat to 
+     the Gulf Coast.
+       Fact 2: Acres of riverbank at a time used to collapse into 
+     the river system providing a main source of sediment. To 
+     prevent this and to protect lives and property, engineers 
+     stopped such collapses by paving hundreds of miles of the 
+     river with riprap and even concrete, beginning more than 
+     1,000 miles upriver--including on the Ohio, Missouri and 
+     other tributaries--from New Orleans. Reservoirs for flood 
+     protection also impound sediment. These and other actions 
+     deprive the Mississippi of 60 to 70 percent of its natural 
+     sediment load, starving the coast.
+       Fact 3: To stop sandbars from blocking shipping at the 
+     mouth of the Mississippi, engineers built jetties extending 
+     more than two miles out into the Gulf of Mexico. This 
+     engineering makes Tulsa, Kansas City, Minneapolis, 
+     Cincinnati, Pittsburgh and other cities into ports with 
+     direct access to the ocean, greatly enhancing the nation's 
+     economy. The river carries 20 percent of the nation's 
+     exports, including 60 percent of its grain exports, and the 
+     river at New Orleans is the busiest port in the world. But 
+     the jetties prevent any of the sediment remaining in the 
+     river from replenishing the Louisiana and Mississippi coasts 
+     and barrier islands; instead, the jetties drop the sediment 
+     off the continental shelf.
+       Fact 4: Levees that prevent river flooding in Louisiana and 
+     Mississippi interfere with the replenishment of the land 
+     locally as well.
+
+[[Page S6049]]
+
+       Fact 5: Roughly 30 percent of the country's domestic oil 
+     and gas production comes from offshore Louisiana, and to 
+     service that production the industry created more than 10,000 
+     miles of canals and pipelines through the marsh.
+       Every inch of those 10,000-plus miles lets saltwater 
+     penetrate, and eat away at, the coast. So energy production 
+     has enormously accelerated what was a slow degradation, 
+     transforming a long-term problem into an immediate crisis. 
+     The deprivation of sediment is like moving a block of ice 
+     from the freezer to the sink, where it begins to melt; the 
+     effect of the canals and pipelines is like attacking that ice 
+     with an ice pick, breaking it up.
+       As a result, 2,100 square miles of coastal land and barrier 
+     islands have melted into the Gulf of Mexico. This land once 
+     served as a buffer between the ocean and populated areas in 
+     Louisiana and part of Mississippi, protecting them during 
+     hurricanes. Each land mile over which a hurricane travels 
+     absorbs roughly a foot of storm surge.
+       The nation as a whole gets nearly all the benefits of 
+     engineering the river. Louisiana and some of coastal 
+     Mississippi get 100 percent of the costs. Eastern New Orleans 
+     (including the lower Ninth Ward) and St. Bernard Parish--
+     nearly all of which, incidentally, is at or above sea level--
+     exemplify this allocation of costs and benefits. Three man-
+     made shipping canals pass through them, creating almost no 
+     jobs there but benefiting commerce throughout the country. 
+     Yet nearly all the 175,000 people living there saw their 
+     homes flooded not because of any natural vulnerability but 
+     because of levee breaks.
+       Fact 6: Without action, land loss will continue, and it 
+     will increasingly jeopardize populated areas, the port system 
+     and energy production. This would be catastrophic for 
+     America. Scientists say the problem can be solved, even with 
+     rising sea levels, but that we have only a decade to begin 
+     addressing it in a serious way or the damage may be 
+     irreversible.
+       Despite all this and President Bush's pledge from New 
+     Orleans in September 2005 that ``we will do what it takes'' 
+     to help people rebuild, a draft White House cuts its own 
+     recommendation of $2 billion for coastal restoration to $1 
+     billion while calling for an increase in the state's 
+     contribution from the usual 35 percent to 50 percent. 
+     Generating benefits to the nation is what created the 
+     problem, and the nation needs to solve it. Put simply: Why 
+     should a cab driver in Pittsburgh or Tulsa pay to fix 
+     Louisiana's coast? Because he gets a stronger economy and 
+     lower energy costs from it, and because his benefits created 
+     the problem. The failure of Congress and the president to act 
+     aggressively to repair the coastline at the mouth of the 
+     Mississippi River could threaten the economic vitality of the 
+     nation. Louisiana, one of the poorest states, can no longer 
+     afford to underwrite benefits for the rest of the nation.
+
+  Ms. LANDRIEU. Finally, Madam President, I spoke earlier and read some 
+items into the Record. I perhaps read the wrong list. So I am going to 
+resubmit this so the Record is clear. The $3.3 billion in the 
+underlying WRDA bill represents about 20 percent of the total bill. As 
+I tried to explain to some of my constituents at home, if we were 
+talking about a desert bill we would probably have zero money in this 
+bill. But we are talking about a water bill, and Louisiana most 
+certainly has a great deal of water--sometimes more than we need, more 
+than we asked for, and more than we want. But this is Congress's major 
+water development bill. Because we sit at the mouth of the greatest 
+river system in the country, which is the mouth of the Mississippi 
+River, and because we have some of the greatest and last coastal 
+wetlands in the country, of course, this would have a great many 
+projects for us.
+  We really appreciate, Senator Vitter and I, the cooperation of 
+Republicans and Democrats in being particularly supportive of us as we 
+struggle to get many of these protection projects in this bill 
+authorized because, of course, of our recent tragic experiences with 
+the storms.
+  The $3.3 billion in projects is significant, necessary, and essential 
+to beginning to build a kind of barrier of protection that the people 
+of south Louisiana, and I might add south Mississippi and part of south 
+Texas, depend on to keep them safe.
+  We do not live right on the coast, as people do in Mississippi, 
+Alabama, Florida, and actually in Texas. We are the only people 
+actually moving from the coast. We are not moving to the beaches. There 
+are no beaches to move to.
+  I ask unanimous consent the list be printed in the Record.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+         WRDA 2007--Senate Floor Consideration (May 7-10, 2007)
+
+
+                        general overview of WRDA
+
+       WRDA 2007 authorizes more than an estimated $13.9 billion 
+     of Corps projects.
+       In comparison--WRDA 2000 authorized $4.1 billion; WRDA 1999 
+     authorized $2.5 billion.
+       The major authorization components of WRDA 2006 are:
+       Louisiana: $3.336 billion--24%
+       Florida Everglades: $1.73 billion--12%
+       Upper Mississippi River--Illinois Waterway: $3.77 billion--
+     27%
+       All Other Authorizations: $5.064 billion--37%
+         Estimated Total: $13.90 billion--100%
+
+
+                           Louisiana Projects
+
+       Louisiana Coastal Area Ecosystem Restoration: $1.133 
+     million
+       Louisiana Coastal Ecosystem next wave: $728 million
+       Morganza to the Gulf of Mexico Hurricane Protection: $886 
+     million
+       Port of Iberia Navigation/Storm Surge Protection: $131 
+     million
+       Jefferson Parish Consolidation: $100 million
+       Larose to Golden Meadow certification up to 100 year level: 
+     $90 million
+       MRGO Revolving Loan Fund for Private Facilities: $85 
+     million
+       MRGO Relocation Assistance for Public Facilities: $75 
+     million
+       Red River Waterway mitigation: $33 million
+       Southeast Louisiana development planning: $17 million
+       Calcasieu River and Pass Rock Bank Protection: $15 million
+       Various Louisiana Environmental Infrastructure: $13 million
+       Bayou Sorrel Lock: $10 million
+       MRGO de-authorization: $5 million
+         Total: $3.336 billion
+
+     BOLD Text represents changes from WRDA 2006
+
+  Ms. LANDRIEU. These are coastal wetlands. We are proud of that. It is 
+a totally different environment and topography than exists in many 
+other places. But we do have some very special and extraordinary needs, 
+and I would be doing a great disservice to the people of our State if 
+we didn't fight as hard as we could for the many projects in this 
+bill--for the Louisiana Coastal Area Ecosystem Restoration; the 
+Morganza to the Gulf of Mexico Hurricane Protection Project, which we 
+literally have been working on for 20 years; the Port of Iberia 
+Navigation and Vermilion Parish Hurricane Protection Project; Jefferson 
+Parish consolidation; Larose to Golden Meadow, which is a little 
+community down here in Lafourche Parish, but it was the only authorized 
+Federal levee that did not collapse in the last hurricane. But it has 
+been shrinking. This will help us to build it up, to strengthen it, and 
+to keep that wonderful community safe and dry, as the next storms 
+approach.
+  We understand people cannot live in some areas. They are prohibited 
+from development. We are doing much more strict zoning and planning and 
+community planning and design. In fact, some communities are picking up 
+and moving north. Some communities are not building any more in flood 
+zones. We are with the program when it comes to keeping our people 
+safe.
+  We can do more in that regard and we will. But without these 
+fundamental earthen barriers and levees and locks, this job will never 
+get done. It is not going to get done overnight, but it will be done, 
+to protect the 3.5 million people who live in the southern part of 
+Louisiana, as well as about 1.5 million people who live in Mississippi.
+  As you can see, these are the great wetlands of Saint Bernard and 
+Plaquemines Parish Project, Gulfport, and some parts of Pascagoula, and 
+Pass Christian. The storms come from the west. It gives a tremendous 
+buffer to Gulfport and Pascagoula. Of course, if the storms come more 
+from the east, they are more vulnerable as they lay bare to those storm 
+surges and high winds.
+  For these wetlands to stay and to be restored by the actions of this 
+bill is incredibly important and actually essential to the preservation 
+of this great metropolitan area. This is more than New Orleans, which 
+is 450,000 people, or was before the storm. It is now down to about 
+200,000. Jefferson Parish, which is part of the metropolitan area, our 
+suburban sister parish, is 450,000. That parish could have just as 
+easily gone under 4 to 12 feet of water had the levees broken on the 
+other side of the canal that sits about right here.
+  In addition, north of the lake--this is Lake Pontchartrain--we have 
+700,000 people ringing the north side of this lake, and hundreds of 
+thousands of people who are living down in these ridges.
+  There is a tremendous amount of population that needs to be saved and 
+protected and sustained. But as I said earlier, it is not just the 
+people who
+
+[[Page S6050]]
+
+are there, it is the economy, the infrastructure of the economy we are 
+protecting and supporting. Whether it is fisheries, transportation, 
+navigation, 10,000 miles of pipeline, to keep the lights on and provide 
+gas and electricity and fuel to the rest of this country--that comes 
+from here, as do petrochemicals that help to make many of the products 
+that we manufacture in this country better and safer for human use. 
+That happens along the southern part of this great delta.
+  That is why we fought so hard for this bill. I want to end by saying 
+I commend Senator Boxer, my colleague from California, for making this 
+a priority. I thank our leader, Harry Reid. It has been 8 long years 
+since WRDA has passed and Louisiana cannot wait another month, let 
+alone another year.
+  There is a hurricane season literally right around the corner in 
+June. This is the middle of May. People are still on pins and needles 
+wondering whether the levees that we have reconstructed and fixed are 
+going to hold for this next hurricane season. They are most certainly 
+looking with great anticipation, and some anxieties, too, if this 
+Congress will act.
+  I know there are some amendments that are going to be laid down 
+complaining about some aspects of this bill, but I thank Senator Boxer, 
+and I thank Senator Inhofe for his attention to the needs of Louisiana, 
+and I thank this Congress for responding so generously and so quickly. 
+Senator Vitter and I do have several amendments we would like to 
+discuss later tomorrow, which would improve some things from our 
+perspective. But we most certainly understand and appreciate the great 
+work that has gone into this underlying bill.
+  This bill needs to pass now. It lays a foundation for the long-term 
+recovery and restoration of this great delta. Some expense will be 
+borne by the Federal Government, which is absolutely appropriate since 
+the benefits go all over the Nation from the river systems and the 
+other infrastructure, economic infrastructure that exists. And some of 
+the costs will be borne, as it should be, by the people who call 
+Louisiana home and call Calcasieu Parish or Cameron or Vermilion or 
+Iberia, Orleans, Plaquemines, Saint Bernard, Saint Tammany, et cetera, 
+home.
+  We are happy to make our own contributions to this effort. We love 
+our home. We love where we live. We have to make it safer, and we have 
+to be able to restore these wetlands and build better levees that do 
+not fail and do not break in the middle of these storms.
+  We cannot stop the storms, but we most certainly can mitigate against 
+the damage and use better science, better engineering, and, frankly, 
+better leadership in this Congress to make sure the tragedies that 
+happen in Katrina and Rita do not repeat themselves.
+  I yield the floor and suggest the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The legislative clerk proceeded to call the roll.
+  Mr. REID. Madam President, I ask unanimous consent that the order for 
+the quorum call be rescinded.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. REID. Madam President, I ask unanimous consent that any cloture 
+filed tomorrow on amendments 1097 and 1098 be considered as having been 
+filed prior to the motion to proceed to S. 1348.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. REID. Madam President, I ask unanimous consent that when the 
+Senate resumes consideration of H.R. 1495 on Tuesday, May 15, the time 
+until 11:45 a.m. be for debate with respect to the Coburn amendment No. 
+1099, with the time equally divided and controlled between Senators 
+Boxer and Coburn or their designees; that at 11:45 a.m., the Senate 
+vote in relation to the amendment, with no intervening amendment in 
+order prior to the vote.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```
