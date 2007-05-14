@@ -1,0 +1,40 @@
+---
+granule: CRECB-2007-pt9-Pg12326-4
+date: 2007-05-14
+edition: CRECB
+section: SENATE
+page: 12326
+---
+
+# PROGRAM
+
+```
+                                PROGRAM
+
+  Mr. REID. Madam President, we have so much to do the next 2 weeks. As 
+indicated with what is going on here today, we have to do our very best 
+to complete WRDA. We have the most important supplemental to take care 
+of the funding of the operations in Iraq and other things. Senator 
+McConnell and I have spoken today about how to get from here to there. 
+We do not have that totally resolved yet, but we have moved the ball 
+down the road. We also have a budget conference to complete. That has 
+not been done yet. And we have immigration.
+  So, Madam President, I want this to be the first notice--and we have 
+done
+
+[[Page 12327]]
+
+very well. We have not had to work many Fridays; certainly in the 
+afternoons we have not had to. We have had a number of free Mondays, 
+and we have had only one Saturday we have worked all year. But everyone 
+should be on notice the next two weekends and the next few days and 
+certainly next week, including Monday, people should understand--and 
+people, if they have arrangements they have made, if they have things 
+to do for which they cannot be here until later Monday, change that 
+because we have to have votes--unless something comes up we do not 
+understand--Monday morning. We have too much to do. We must complete 
+the items I have talked about before we leave for our Memorial Day 
+recess or we will have to delay that recess.
+
+                          ____________________
+```
