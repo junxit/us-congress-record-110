@@ -1,0 +1,69 @@
+---
+granule: CRECB-2007-pt9-Pg12450-2
+date: 2007-05-15
+edition: CRECB
+section: HOUSE
+page: 12450
+---
+
+# INVESTIGATING INJUSTICE PERPETRATED AGAINST BORDER PATROL AGENTS RAMOS AND COMPEAN
+
+```
+INVESTIGATING INJUSTICE PERPETRATED AGAINST BORDER PATROL AGENTS RAMOS 
+                              AND COMPEAN
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from North Carolina (Mr. Jones) is recognized for 5 minutes.
+  Mr. JONES of North Carolina. Mr. Speaker, today is the 119th day 
+since a great injustice took place in this country.
+  On January 17, 2007, two U.S. Border Patrol agents entered Federal 
+prison to begin serving 11 and 12-year sentences respectively. I am 
+hopeful that this will be the month that House Judiciary Chairman John 
+Conyers and Senate Judiciary Chairman Patrick Leahy will hold a hearing 
+to investigate the injustice perpetrated against these two U.S. Border 
+Patrol agents.
+  Agents Compean and Ramos were convicted last spring for wounding a 
+Mexican drug smuggler who brought 734 pounds of marijuana across our 
+border into Texas. These agents never should have been persecuted. Yet 
+the U.S. Attorney's Office granted immunity to the drug smuggler and 
+prosecuted the agents who were doing their job to protect our borders.
+  The illegal drug smuggler received full medical care in El Paso, 
+Texas, was permitted to return to Mexico and has sued the Border Patrol 
+for $5 million for violating his civil rights. Many Members of this 
+House, including Congressman Ted Poe, who is a former judge from Texas, 
+have voiced concerns about the unfair prosecution of these agents.
+  With the troubling revelations surrounding the leadership of the U.S.
+
+[[Page 12451]]
+
+Justice Department, I believe it is necessary to investigate the U.S. 
+Attorney's Office in western Texas and the prosecutor's actions in this 
+case. Never in America should the Congress sit by and allow a breakdown 
+of honesty and integrity in our Nation's judicial system.
+  Mr. Speaker, if the American people cannot have faith in our Federal 
+courts, I am afraid the future of our democracy is in danger. For the 
+sake of these agents and their families and the integrity of our 
+judicial system, I am pleased and grateful that Mr. Conyers and Senator 
+Leahy will be holding hearings to investigate the injustice perpetrated 
+against these two agents.
+  Mr. CONYERS. Mr. Speaker, will the gentleman yield?
+  Mr. JONES of North Carolina. I yield to the gentleman from Michigan, 
+the chairman of the Judiciary Committee.
+  Mr. CONYERS. Mr. Speaker, there are very few instances where I have 
+had a Member of Congress persist in the search for justice with the 
+same zeal as my friend from North Carolina, and I commend you.
+  I recall that I had an opportunity to meet the widow of the slain 
+officer, and I have talked to the gentleman from Virginia, Bobby Scott, 
+chairman of the Crime Subcommittee, and his ranking member about the 
+importance that we pursue at the earliest possible moment a complete 
+and total investigation and hearing about the matter that the gentleman 
+and other colleagues that have now joined you have persisted in.
+  I congratulate you, and recommit publicly once again to our search 
+and pursuit of justice, because if we don't protect our border agents 
+and law enforcement officials generally, I can only shudder to think 
+how the safety of this country will deteriorate.
+  Mr. JONES of North Carolina. Mr. Speaker, reclaiming my time, I am 
+grateful to the chairman.
+
+                          ____________________
+```

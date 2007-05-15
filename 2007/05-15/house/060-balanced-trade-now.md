@@ -1,0 +1,59 @@
+---
+granule: CRECB-2007-pt9-Pg12451-2
+date: 2007-05-15
+edition: CRECB
+section: HOUSE
+page: 12451
+---
+
+# BALANCED TRADE NOW
+
+```
+                              {time}  1600
+                           BALANCED TRADE NOW
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from Wisconsin (Mr. Kagen) is recognized for 5 minutes.
+  Mr. KAGEN. Mr. Speaker, last Friday it was announced that the 
+Democratic leadership had struck a deal with the administration and the 
+United States Trade Representative regarding how this country will 
+approach trade agreements with other nations.
+  While very few have seen the actual text of what this deal looks 
+like, many of us in Congress have concerns as to how these new 
+standards on labor and environment will realistically and effectively 
+be enforced.
+  As a member of the newly elected class of 2006, I was elected to help 
+change the course of this country, to help change our Nation's trade 
+policy in particular, a policy that cuts the legs out from under 
+American workers and places our industries at a competitive 
+disadvantage. It threatens our quality of life and our global 
+environment at the same time.
+  We are now operating under a flawed model; and until that model is 
+fixed, our Nation's jobs and the livelihoods of
+
+[[Page 12452]]
+
+our constituents in Wisconsin and elsewhere are in jeopardy.
+  As we have seen in our trade with China, we have been unable, unable 
+to stop illegal subsidies, unable to stop illegal dumping and blatant 
+violations of basic human labor rights and environmental standards. 
+What will we Americans have to give up next?
+  Trade deals in the past were flawed, and the ones still being 
+negotiated must show promise of helping American workers, of helping 
+their families and American communities.
+  I believe that John Sweeney, president of the AFL-CIO, put it clearly 
+in his statement when he said about a new deal: ``Our trade policy will 
+not be fixed overnight. The Bush administration's consistent 
+unwillingness to enforce trade violations against nations like Jordan 
+and China remind us there is no guarantee the executive branch will 
+enforce any new rights workers may gain through these negotiations, and 
+President Bush has negotiated flawed agreements with gross human rights 
+violator Colombia and a losing, one-sided agreement with South Korea.''
+  My friends, it is time that the United States of America begins 
+shipping our values overseas and not our jobs. It is time for America 
+to take back our rich history of manufacturing, of making things. After 
+all, if we don't make anything, we won't have anything. What everyone 
+in Wisconsin is asking for is balanced trade, and we need it now.
+
+                          ____________________
+```
