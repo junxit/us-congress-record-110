@@ -1,0 +1,35 @@
+---
+granule: CREC-2007-05-16-pt1-PgH5059-5
+date: 2007-05-16
+edition: CREC
+section: HOUSE
+page: H5059
+citation: 153 Cong. Rec. H5059
+---
+
+# LESS TROOPS IN BAGHDAD AND MORE COPS IN AMERICA
+
+**Speaking:** Cohen, Steve (C001068) [D-TN]
+
+```
+            LESS TROOPS IN BAGHDAD AND MORE COPS IN AMERICA
+
+  (Mr. COHEN asked and was given permission to address the House for 1 
+minute.)
+  Mr. COHEN. Madam Speaker, I thought about what I would use my 1-
+minute on today, and one thought was to address all the beautiful 
+people that I see have come to Washington and Congress to view our 
+Capitol and our Nation's Capital, and it is a beautiful sight. And 
+another thought was to talk about the need for General Alberto Gonzales 
+to resign to bring back the morale in the Justice Department and the 
+people's faith in that institution. But the bottom line is the thing I 
+campaigned upon is still the most important issue facing America today. 
+We need to bring our troops home, redeploy our troops, and put our 
+resources, financially and also personnel-wise, to work in America, 
+protecting our streets and giving us a more secure country.
+  We need less troops on the streets of Baghdad and more cops on the 
+streets of Memphis and other cities in this country to fight crime here 
+at home.
+
+                          ____________________
+```
