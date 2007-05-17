@@ -1,0 +1,37 @@
+---
+granule: CRECB-2007-pt9-Pg13095-2
+date: 2007-05-17
+edition: CRECB
+section: HOUSE
+page: 13095
+---
+
+# AMERICANS' LUST FOR NARCOTICS
+
+```
+                     AMERICANS' LUST FOR NARCOTICS
+
+  (Mr. POE asked and was given permission to address the House for 1 
+minute.)
+  Mr. POE. Mr. Speaker, the border war is increasingly more violent 
+because of the drug cartels seizing control of areas in Mexico to 
+manufacture drugs.
+  According to the Associated Press, President Calderon has called out 
+the Mexican military to take out the drug smugglers. But some say the 
+drug cartels have more money and outgun even the military. Recently, 
+seven journalists reporting on the ``drug war'' have been murdered, the 
+second most dangerous place for a reporter in the world next to Iraq. 
+Thousands of Mexican citizens have been killed in the violence.
+  But the problem is not just in Mexico. As long as the United States 
+does not protect our borders, the drug barons will continue to ship 
+those drugs to America.
+  Some estimate the cartels make between $10 and $30 billion a year 
+shipping that cancer to America.
+  But the problem has a third ingredient. It is not enough for the 
+military to control the violence in Mexico. It is not enough for us to 
+secure our borders. But the violence will continue until the American 
+consumers curb their lustful appetite for narcotics.
+  And that's just the way it is.
+
+                          ____________________
+```

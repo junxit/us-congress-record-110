@@ -1,0 +1,34 @@
+---
+granule: CRECB-2007-pt9-Pg13096-4
+date: 2007-05-17
+edition: CRECB
+section: HOUSE
+page: 13096
+---
+
+# CARSON FARIS, RN
+
+```
+                            CARSON FARIS, RN
+
+  (Mr. STEARNS asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. STEARNS. Mr. Speaker, on Monday, we passed a resolution 
+recognizing AmeriCorps Week. While AmeriCorps' particular design 
+provides a tuition reward, true volunteering comes with the expectation 
+of nothing in return.
+  A woman from my hometown of Ocala, Florida so embodies pure 
+selflessness that I would like to praise her today publicly.
+  Carson Faris is a registered nurse and a certified occupational 
+health nurse specialist with E-One. However, her caregiving nature does 
+not end there. Nurse Faris mentors addicted women through the rocky 
+path of recovery. Further, in addition to her own 10 pets, she shelters 
+at-risk cats and serves on the board of directors for the Humane 
+Society of Marion County and volunteers at the animal shelter. Also, 
+she serves as an advisory board member for the Marion County unit of 
+the Florida Blood Centers. Oh, and by the way, she is the treasurer of 
+the Florida State Association of Occupational Health Nurses.
+  Nurse Faris shines as a beacon of true volunteerism.
+
+                          ____________________
+```
