@@ -1,0 +1,39 @@
+---
+granule: CREC-2007-05-17-pt1-PgS6313
+date: 2007-05-17
+edition: CREC
+section: SENATE
+page: S6313
+citation: 153 Cong. Rec. S6313
+---
+
+# NOTICE OF HEARING
+
+**Speaking:** Bingaman, Jeff (B000468) [D-NM]
+
+```
+                           NOTICE OF HEARING
+
+
+               committee on Energy and Natural Resources
+
+  Mr. BINGAMAN. Mr. President, I would like to announce for the 
+information of the Senate and the public that an oversight hearing has 
+been scheduled before the Committee on Energy and Natural Resources.
+  The hearing will be held on Thursday, May 24, 2007, at 9:30 a.m. in 
+room SD-366 of the Dirksen Senate Office Building.
+  The hearing will address opportunities and challenges associated with 
+coal gasification, including coal-to-liquids and industrial 
+gasification.
+  Because of the limited time available for the hearing, witnesses may 
+testify by invitation only. However, those wishing to submit written 
+testimony for the hearing record should send two copies of their 
+testimony to the Committee on Energy and Natural Resources, United 
+States Senate, Washington, DC 20510-6150, or by e-mail to 
+[email protected]
+.gov.
+  For further information, please contact Michael Carr or Rachel 
+Pasternack.
+
+                          ____________________
+```

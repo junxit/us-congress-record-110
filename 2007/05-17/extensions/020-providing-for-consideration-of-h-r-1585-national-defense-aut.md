@@ -1,0 +1,78 @@
+---
+granule: CREC-2007-05-17-pt1-PgE1080
+date: 2007-05-17
+edition: CREC
+section: EXTENSIONS
+page: E1080
+citation: 153 Cong. Rec. E1080
+---
+
+# PROVIDING FOR CONSIDERATION OF H.R. 1585, NATIONAL DEFENSE AUTHORIZATION ACT FOR FISCAL YEAR 2008
+
+**Speaking:** Allen, Thomas H. (A000357) [D-ME]
+
+**Measures:** H.R. 1585
+
+```
+      PROVIDING FOR CONSIDERATION OF H.R. 1585, NATIONAL DEFENSE 
+                 AUTHORIZATION ACT FOR FISCAL YEAR 2008
+
+                                 ______
+                                 
+
+                               speech of
+
+                          HON. THOMAS H. ALLEN
+
+                                of maine
+
+                    in the house of representatives
+
+                        Wednesday, May 16, 2007
+
+  Mr. ALLEN. Mr. Chairman, the amendment I offer today seeks to bring 
+hope from tragedy.
+  CAP Patrick Damon, who lived in Falmouth, ME, with his wife and two 
+children, was a loyal public servant, both in State government and in 
+the Maine National Guard.
+  In early 2006, Captain Damon was deployed with the Maine Guard's 
+240th Engineer Group to Afghanistan. On June 15 of that year, Patrick 
+collapsed in his bunk after a run. Initial reports were that he died of 
+a heart attack, even though he had no previous or family history of 
+heart problems.
+  Captain Damon's mother, Barbara Damon-Day, has been persistent in 
+seeking to get more information from the Army about the cause of her 
+son's death. The Army lists the death as ``sudden unexpected,'' and the 
+exact cause remains inconclusive.
+  Based on her own investigation, Ms. Damon-Day believes her son's 
+death was brought about by an adverse reaction to multiple vaccinations 
+in a 24-hour period. Her investigation has revealed a lack of clarity 
+in the Defense Department's guidelines and regulations on administering 
+multiple vaccinations in a 24-hour period.
+  My amendment seeks to focus needed attention on this issue. It 
+requires the Defense Department to report to Congress on its policies 
+on administering and evaluating multiple vaccinations within a 24-hour 
+period to members of the Armed Forces, including the Guard and Reserve. 
+It requires information on whether the department's policies conform to 
+the regulations and guidelines of federal health agencies.
+  The amendment also requests data on the number of deaths that have 
+been investigated for vaccines-related causes, and information on how 
+medical records are shared with the Adjutant General of the states.
+  Finally, the amendment requires the Department to perform a study on 
+the safety and effectiveness of administering multiple vaccines with a 
+24-hour period to service personnel.
+  Since her son's death in June 2006, Mrs. Damon-Day has worked 
+tirelessly to improve the Defense Department's medical screening of 
+Armed Forces prior to their deployment overseas. The Maine Legislature 
+is currently considering legislation to create a commission to improve 
+medical screening of Maine Guard personnel before they go overseas.
+  Barbara Damon-Day has honored her son's memory by making it her 
+mission to improve the health screenings given our military, and to 
+improve the information they receive, before they leave to serve on our 
+behalf in Afghanistan, Iraq and around the globe. We owe her our 
+gratitude for her efforts and our support to help advance her cause. I 
+hope that my amendment can play a part in that mission.
+  I urge support for the Allen amendment.
+
+                          ____________________
+```
