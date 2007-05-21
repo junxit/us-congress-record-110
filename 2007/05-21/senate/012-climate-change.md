@@ -1,0 +1,187 @@
+---
+granule: CRECB-2007-pt9-Pg13289
+date: 2007-05-21
+edition: CRECB
+section: SENATE
+page: 13289
+---
+
+# CLIMATE CHANGE
+
+```
+                             CLIMATE CHANGE
+
+  Mr. COLEMAN. Mr. President, I want to switch subjects.
+  I see my colleague from Connecticut in the Chamber.
+  I rise to engage in a colloquy with truly my friend, the Senator from 
+Connecticut, about an issue facing every American and every citizen of 
+this world--an issue on which he is a true leader in the Senate, and 
+for which he has had great vision, great perseverance, and for which I 
+applaud him. That is the issue of climate change.
+  There is now a preponderance of evidence from the scientific 
+community that human activities, particularly the burning of fossil 
+fuels, have increased the atmospheric concentrations of carbon dioxide 
+by 36 percent from preindustrial levels, leading to a dangerous 
+increase in global average temperatures.
+  The temperatures speak for themselves. According to NASA, 2005 was 
+the warmest year globally on record since readings began in 1880, with 
+1998 a close second. And 8 of the last 10 years are amongst the warmest 
+years on record. The effects are increasingly tangible. Since 1979, 
+more than 20 percent of the polar ice cap has melted.
+  So often in this Chamber we talk about the future. We talk about 
+doing things for our kids. Well, if we care about our kids, and we care 
+about our future, we better care about what will happen if we do not 
+take action soon to reduce greenhouse gas emissions sufficiently to 
+prevent the temperature increases forecasted for this century.
+  Thankfully, we are a nation of innovators, of entrepreneurs, of 
+individuals with bold initiative. The technologies necessary to 
+stabilize our atmospheric concentration of greenhouse gases in time to 
+prevent a dangerous increase in temperature are right at our 
+fingertips--from biofuels and plug-in hybrid vehicles to nuclear energy 
+and carbon sequestration for coal plants, and many more. It is time for 
+Congress to provide the strong market signals necessary to press these 
+technologies forward, which is why I believe Congress should work for 
+an economywide response to climate change with an idea I have 
+championed: provide utilities incentives to increase the percentage of 
+their electricity sales they generate using clean energy sources such 
+as renewables, nuclear, and clean coal with carbon capture technology.
+  Yet it is not enough for the United States to act alone. China is 
+projected to be the largest greenhouse gas emitter by the end of this 
+year. Climate change legislation must not put America's workers at a 
+competitive disadvantage with the Chinese, and it must not send 
+manufacturing jobs overseas. A greenhouse gas reduction program must 
+not put Americans out of work or drive more hard-working families into 
+poverty.
+  When I drive on the streets, such as Grand Avenue in St. Paul, and it 
+is minus 10 degrees, minus 15 degrees, and I see that mom sitting at a 
+bus stop waiting to catch a bus, or see that senior, I care about the 
+costs they have to pay for energy. So those are things we have to think 
+about. I refuse to look at this, or any other issue, without 
+considering the effect it will have on those who are trying to support 
+their family or, as I said before, the effect it will have on the 
+elderly, struggling to survive on a fixed income.
+  Accordingly, I have been working with Senator Lieberman over the last 
+several months on an agreement that allows us to work together on his 
+Climate Stewardship and Innovation Act in a way that meets my concerns 
+about what mandatory greenhouse gas reduction legislation should look 
+like.
+  Today, we have arrived at that agreement, and I believe together we 
+can work in a bipartisan way to address this very serious issue.
+  I earlier introduced a sense-of-the-Senate resolution stating that 
+any comprehensive, mandatory greenhouse gas emissions reduction program 
+enacted by Congress should include provisions requiring a process of 
+review of the program if it is found that other countries are not 
+taking comparable action and if the unemployment or the poverty rates 
+are found to be increasing as a result of the program. This sense of 
+the Senate also states such a program should include incentives for 
+utilities that increase their portfolio of clean energy.
+  I say to Senator Lieberman, I wish to ask to be added as a cosponsor 
+to your Climate Stewardship and Innovation Act and thank you for your 
+cosponsorship of this sense-of-the-Senate resolution, and finally your 
+commitment to work on EPW to examine my clean energy portfolio proposal 
+in a committee hearing, and to fight during EPW markup of climate 
+change legislation for inclusion of: No. 1, congressional review of 
+greenhouse gas caps, if other countries are not taking comparable 
+climate change action; No. 2, congressional review of greenhouse gas 
+caps, if the unemployment and poverty rates are increasing due to a 
+U.S. greenhouse gas reduction program; and, No. 3, provisions to reward 
+electric utilities that increase the percentage of their electricity 
+sales generated with ``clean energy'' or energy for noncarbon-emitting 
+sources such as nuclear and clean coal.
+  The PRESIDING OFFICER. The Senator from Connecticut.
+  Mr. LIEBERMAN. I thank the Chair.
+  Mr. President, I rise to thank my friend, the Senator from Minnesota, 
+for his kind words. More importantly, I thank him for the commitment he 
+has expressed to protecting all of our children and grandchildren from 
+the impacts of unchecked global warming.
+  Senator Coleman, in stepping forward today, has put himself at the 
+vanguard of the next crucial wave of bipartisan support in the Senate 
+for climate stewardship legislation.
+  I am proud to cosponsor his resolution which, in a very thoughtful 
+way--not an obstructionist way--recognizes two of the most significant 
+reasons why people have hesitated to step forward and do something 
+about climate change. One is the equities here: that no matter how much 
+we do in the United States of America to curb the emission of 
+greenhouse gases--and we must because we are the largest emitter of 
+such gases; we must lead here; it is our responsibility, ultimately our 
+moral responsibility--but no matter how much we assume that leadership 
+role, if other developing nations such as China and India do not do 
+their part, because we all live in the same global environment, the 
+problem of global warming will continue to increase and be more serious 
+for those who follow us here on Earth.
+  Second is his recognition of a thoughtful way to deal with the 
+concerns people have--even those who desperately want to do something 
+to impede the advance of global warming--as to the impact of what we do 
+will have on our economy. It is clear Senator Coleman has been a leader 
+here, and that is why his cosponsorship of our legislation makes a 
+critical point. There is no conflict between protecting our world and 
+all who live in it from catastrophic climate change and also protecting 
+America's economy, protecting America's consumers, and protecting 
+America's workers. We can, must, and will do both. For those who may 
+have had doubts about our capacity to do that, I think Senator 
+Coleman's cosponsorship of the Climate Stewardship and Innovation Act 
+is critically important. The fact is everyone who works with Senator 
+Coleman
+
+[[Page 13290]]
+
+knows he cares deeply about the well-being of low- and middle-income 
+Americans and of America's workers, and he would not be cosponsoring 
+the Climate Stewardship and Innovation Act--stepping forward to take a 
+leadership role in the battle against global warming--if he felt the 
+components of that act would adversely affect our economy.
+  I am very honored to have earned the support of my friend from 
+Minnesota on this crucial issue. I promise him I will work to ensure he 
+is not disappointed by the outcome of our efforts. In particular, it is 
+my honor to chair a subcommittee on climate change in the Environment 
+and Public Works Committee, and I will work to ensure that the bill we 
+report from our subcommittee and full committee embraces the principles 
+set forth in the resolution my friend from Minnesota has introduced 
+today, and of which I am proud to be a cosponsor.
+  The good news is I will not be working alone. I believe a bipartisan 
+majority of the Environment and Public Works Committee wants to report 
+to the Senate floor this year comprehensive legislation that reduces 
+greenhouse gas emissions substantially enough and quickly enough to 
+forestall the disastrous climate change so many reputable scientists 
+are warning us of, and that does so in a way that does not weaken the 
+position of the United States economically or otherwise impose hardship 
+on our citizens.
+  I further say to my friend from Minnesota that before we vote on that 
+legislation in our subcommittee, we are going to be having additional 
+hearings. Senator Warner, my ranking member, is committed also to 
+seeing that the subcommittee produces legislation this year that deals 
+with the problem of global warming and the challenge of its impact on 
+our world. I want to ensure my friend from Minnesota that one of those 
+hearings will include a witness who can educate the committee and 
+discuss the proposal of the Senator from Minnesota for a clean energy 
+portfolio standard. Personally, I think his idea is a constructive one, 
+a thoughtful one, a progressive one, and deserves serious 
+consideration.
+  I am eager to explore ways to further encourage electric power 
+producers to increase their use of advanced technologies that can 
+provide reliable, affordable baseload electricity without injecting 
+more greenhouse gases into the atmosphere.
+  Mr. President, I conclude by again thanking my friend from Minnesota 
+and asking unanimous consent--and I do so with great gratitude to him, 
+as I believe his leadership here is significant--that the Senator from 
+Minnesota, Mr. Coleman, be added as a cosponsor to S. 280, the Climate 
+Stewardship and Innovation Act of 2007, which Senator McCain and I 
+introduced earlier this year.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The Senator from Minnesota.
+  Mr. COLEMAN. Mr. President, I thank my dear friend from Connecticut 
+for his remarks, his commitments. Let me say, first, I am proud to be 
+working with him as cosponsor of S. 280, the Climate Stewardship and 
+Innovation Act of 2007.
+  The Senator from Connecticut approaches this issue, which is an 
+important issue--it is a real issue; we have to deal with it--in a way 
+which he is known for in this Senate, which is in a thoughtful, 
+constructive way, a way which takes into account the concerns and the 
+impact upon employees, upon consumers, and, perhaps most importantly, 
+upon our kids and grandkids in the next generation. For that I thank 
+him and say it is a privilege to work with him--a man of great 
+character and great dedication.
+  Mr. President, with that I yield the floor.
+
+                          ____________________
+```
