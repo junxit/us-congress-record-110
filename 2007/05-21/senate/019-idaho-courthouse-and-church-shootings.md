@@ -1,0 +1,65 @@
+---
+granule: CREC-2007-05-21-pt1-PgS6393-3
+date: 2007-05-21
+edition: CREC
+section: SENATE
+page: S6393
+citation: 153 Cong. Rec. S6393
+---
+
+# IDAHO COURTHOUSE AND CHURCH SHOOTINGS
+
+**Speaking:** Leahy, Patrick J. (L000174) [D-VT]
+
+**Measures:** S. 378
+
+```
+                 IDAHO COURTHOUSE AND CHURCH SHOOTINGS
+
+  Mr. LEAHY. Mr. President, this weekend we witnessed an act of 
+senseless violence in Moscow, ID, the home of the University of Idaho, 
+where someone reportedly laid siege to a courthouse, killing a police 
+officer and
+
+[[Page S6394]]
+
+wounding a sheriff's deputy and another person. The gunman then 
+retreated into a church, where he apparently killed a church sexton and 
+then took his own life.
+  The attack at the courthouse in Idaho is another reminder of the need 
+to provide resources and protections crucial to our Federal and State 
+courts. It was 2 years ago when the mother and husband of Judge Joan 
+Lefkow of Chicago were murdered in their home. Judge Lefkow's 
+courageous testimony in our committee hearing in May 2005 is something 
+none of us will forget. Later that year a Georgia State court judge was 
+killed at a courthouse in Atlanta and there was an attack on a State 
+judge in Nevada.
+  Last month, by a vote of 97-0, the Senate passed S. 378, the 
+bipartisan Court Security Improvement Act of 2007. I introduced this 
+measure in January along with Senator Specter, the majority leader, 
+Senator Durbin, Senator Cornyn and others. House Judiciary chairman 
+John Conyers introduced an identical measure in the House also with 
+bipartisan support.
+  Among the bill's many protections are provisions expanding the access 
+of State courts to grant programs for their security. The additional 
+resources provided by this bill may not have prevented what occurred 
+this weekend, but we must do what we can. I wish this legislation had 
+been enacted last year. Despite our efforts, despite Senate passage of 
+this measure twice last year, the House last Congress did not take up 
+and pass these measures to improve court security. I expect that the 
+new House soon will take up and pass S. 378 in this Congress. It should 
+not be a struggle to enact these measures to improve court security.
+  Our Nation's Founders knew that without an independent judiciary to 
+protect individual rights from the political branches of Government, 
+those rights and privileges would not be preserved. The courts are the 
+ultimate check and balance in our system. We need to do our part to 
+ensure that the dedicated women and men of the Federal and State 
+judiciary have the resources, security, and independence necessary to 
+fulfill their crucial responsibilities. This weekend serves as another 
+tragic reminder that we owe it to our judges and those protecting our 
+courthouses to better protect them and their families from violence and 
+to ensure that they have the peace of mind necessary to do their vital 
+and difficult jobs.
+
+                          ____________________
+```
