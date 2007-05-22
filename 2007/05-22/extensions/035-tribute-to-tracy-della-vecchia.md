@@ -1,0 +1,60 @@
+---
+granule: CREC-2007-05-22-pt1-PgE1121-3
+date: 2007-05-22
+edition: CREC
+section: EXTENSIONS
+page: E1121
+citation: 153 Cong. Rec. E1121
+---
+
+# TRIBUTE TO TRACY DELLA VECCHIA
+
+**Speaking:** Skelton, Ike (S000465) [D-MO]
+
+```
+                     TRIBUTE TO TRACY DELLA VECCHIA
+
+                                 ______
+                                 
+
+                            HON. IKE SKELTON
+
+                              of missouri
+
+                    in the house of representatives
+
+                         Tuesday, May 22, 2007
+
+  Mr. SKELTON. Madam Speaker, as our men and women in uniform are 
+deployed all over the world, they leave behind parents, siblings, 
+spouses, children, and friends. It has
+
+[[Page E1122]]
+
+come to my attention that Tracy Della Vecchia has formed a network in 
+order for families of those deployed in the United States Marine Corps 
+to stay connected and informed.
+  When Operation Iraqi Freedom began, Tracy's son, Derrick Johnson, was 
+in marine basic training. Like so many others, he was deployed to Iraq 
+after training. Not long into Derrick's tour Tracy met several other 
+mothers with concerns similar to her own, and it was after this meeting 
+that she decided to create www.marineparents.com. The website was 
+designed for others to reach out through chat rooms in order to post 
+questions and get answers from other families that have been in the 
+same situations and circumstances. Since creating this forum in 2003, 
+Tracy has spent countless hours organizing, sorting, and sending care 
+packages to marines who are serving in Iraq.
+  Tracy Della Vecchia formed this organization with the intention of 
+making a difference, and the care packages she has mailed have done 
+just that. Recently, she sent hundreds of AA batteries for personal CD 
+players; however, the batteries were put to use in night vision goggles 
+when the unit's supply was exhausted. Personal hygiene and first aid 
+items have also been included in care packages; however, they were used 
+in combat situations to ease the pain of the wounded.
+  Madam Speaker, I know the Members of the House will join me in 
+thanking Tracy Della Vecchia for all that she does for the United 
+States Marine Corps and the men and women who are currently serving 
+overseas.
+
+                          ____________________
+```

@@ -1,0 +1,40 @@
+---
+granule: CREC-2007-05-22-pt1-PgH5538-3
+date: 2007-05-22
+edition: CREC
+section: HOUSE
+page: H5538
+citation: 153 Cong. Rec. H5538
+---
+
+# THE DEMOCRATIC TRAIL OF BROKEN PROMISES
+
+**Speaking:** Blackburn, Marsha (B001243) [R-TN]
+
+```
+                THE DEMOCRATIC TRAIL OF BROKEN PROMISES
+
+  (Mrs. BLACKBURN asked and was given permission to address the House 
+for 1 minute.)
+  Mrs. BLACKBURN. Mr. Speaker, today I want to talk just a little bit 
+about some of my encounters with my constituents over the weekend. What 
+they are saying when I meet them is, what is going on in Washington? 
+What is happening up there? We thought we were going to see a different 
+type of environment. But you know what, it seems like nothing is 
+getting done.
+  Quite frankly, Mr. Speaker, they are right on the mark, because we 
+are zero in '07 on the six for '06 that the leadership had promised 
+that they were going to do.
+  More importantly to my constituents, and especially to some of those 
+at Fort Campbell that I had the opportunity to spend time with on 
+Sunday evening as they had their Normandy barbecue, the number one 
+question was, what is going on with the Iraq supplemental? It is truly 
+a disservice to our men and women in uniform for this not to be passed. 
+Our troops in the field need that funding.
+  Other constituents were saying, what is this we are hearing about 
+this budget? My goodness, the single largest tax increase in history?
+  Yes, indeed. And I can guarantee you, Mr. Speaker, many of us will 
+stand in the gap to keep that from becoming law.
+
+                          ____________________
+```
