@@ -1,0 +1,70 @@
+---
+granule: CREC-2007-05-23-pt1-PgH5687-4
+date: 2007-05-23
+edition: CREC
+section: HOUSE
+page: H5687
+citation: 153 Cong. Rec. H5687
+---
+
+# PREFERENCE POLICY PLAN FOR ILLEGALS
+
+**Speaking:** Poe, Ted (P000592) [R-TX]
+
+```
+                  PREFERENCE POLICY PLAN FOR ILLEGALS
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from Texas (Mr. Poe) is recognized for 5 minutes.
+  Mr. POE. Mr. Speaker, the Senate's new repackaged immigration 
+proposal, the ``Give America Away Act,'' has a provision that should be 
+of concern to college students and parents who foot the bill for 
+college. It gives the illegals in the United States a better deal than 
+U.S. citizens or legal immigrants when it comes to the cost of college 
+tuition for State universities.
+
+[[Page H5688]]
+
+  If this idea becomes law, besides granting amnesty to 12 million to 
+20 million illegals in the United States, it will treat those illegals 
+better than U.S. citizens and legal immigrants when it comes to college 
+costs. The idea is to grant all illegals a status so they can attend 
+State universities as an in-State tuition even though they illegally 
+entered the United States.
+  Some States already allow illegals to attend State universities and 
+pay in-State tuition. Unfortunately, my State of Texas was one of the 
+first, along with California.
+  Currently there are about a dozen States that allow this absurd 
+policy of preference. Some States are considering opposite laws that 
+require illegals to pay out-of-State tuition. No matter what the people 
+want or the States want, a proposal in this new immigration policy plan 
+will require all States that allow illegals to attend State 
+universities to pay only in-State tuition, not out-of-State tuition.
+  So, what's the difference in cost? Well, if you are an in-State 
+resident in Texas and attend the University of Texas, you pay about 
+$1,500 for 12 semester hours. If you are an out-of-State student, say a 
+student from Tennessee, you pay over $4,000 for 12 semester hours. So 
+this proposal will discriminate against American citizens and legal 
+immigrants, and favor and prefer illegals.
+  An example. If you are from New York and you want to get admitted to 
+the University of Texas, you have to pay out-of-State tuition because, 
+simply, you are not from Texas. Or, as we say, ``You're not from around 
+here.'' But if you are an illegal and get admitted to the University of 
+Texas, you will get to pay in-State tuition.
+  If the Senate plan passes, this preference policy will be law and 
+apply to every State, whether they like it or not. This is blatant 
+discrimination against Americans and legal residents. So American 
+students and parents, get your checkbooks out, because you are going to 
+pay more for college than people who illegally enter the United States. 
+You will be discriminated against by your own government. So, if you 
+want to attend a State college somewhere in America other than your own 
+State, and you don't have the money to pay the extra tuition, well, 
+it's just too bad.
+  Mr. Speaker, this is just another reason this so-called new 
+immigration reform proposal is a bad idea for America. It is nothing 
+more than a preference policy for people illegally in the United 
+States.
+  And that's just the way it is.
+
+                          ____________________
+```

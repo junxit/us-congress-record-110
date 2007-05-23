@@ -1,0 +1,42 @@
+---
+granule: CREC-2007-05-23-pt1-PgH5684
+date: 2007-05-23
+edition: CREC
+section: HOUSE
+page: H5684
+citation: 153 Cong. Rec. H5684
+---
+
+# PLEASE OPPOSE THE IRAQ WAR SUPPLEMENTAL
+
+**Speaking:** Kucinich, Dennis J. (K000336) [D-OH]
+
+**Measures:** H.R. 1234
+
+```
+                PLEASE OPPOSE THE IRAQ WAR SUPPLEMENTAL
+
+  (Mr. KUCINICH asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. KUCINICH. Mr. Speaker, the Iraq War supplemental on the floor 
+tomorrow will in no way pressure the President to end the war in Iraq, 
+despite the fact that voters gave our majority last November the 
+responsibility to do that, end the war.
+  The benchmarks in the war supplemental force the Iraqis to privatize, 
+or turn over to multinational oil interests, their oil industry by 
+demanding passage of the Iraqi Hydrocarbon Act. I spoke on the House 
+floor today for an hour documenting the evidence.
+  But if the Iraqis refuse to turn over the oil resources, the terms of 
+the bill are blackmail. The war supplemental demands passage of the 
+Iraqi bill by blocking over $1 billion in reconstruction funds if the 
+Iraqis refuse to comply.
+  We need to send a message to the voters that we do not support 
+privatizing Iraqi oil by force, nor do we support the continued funding 
+of this war.
+  It is not credible to maintain that one opposes the war and yet 
+continues to fund it. Continuing to fund the war is not a plan. It 
+would represent the continuation of a disaster. A better approach is 
+the 12-point plan established in H.R. 1234.
+
+                          ____________________
+```

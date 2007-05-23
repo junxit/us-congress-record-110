@@ -1,0 +1,42 @@
+---
+granule: CREC-2007-05-23-pt1-PgS6547
+date: 2007-05-23
+edition: CREC
+section: SENATE
+page: S6547
+citation: 153 Cong. Rec. S6547
+---
+
+# CONGRATULATING CAITLIN SNARING
+
+**Speaking:** Murray, Patty (M001111) [D-WA]
+
+```
+                     CONGRATULATING CAITLIN SNARING
+
+● Mrs. MURRAY. Mr. President, I congratulate Caitlin Snaring, a 
+bright young woman from my home State of Washington. Today, she won the 
+National Geographic Bee, a competition that starts with nearly 5 
+million students each year. Caitlin is from Redmond, WA, and this was 
+her second time representing our State in the national competition held 
+in Washington, DC.
+  On Monday, Caitlin and I sat near each other on the plane flight from 
+Seattle to Washington, DC. While everyone else was reading magazines or 
+watching a movie, Caitlin was studying her notebooks and preparing for 
+the competition. I had a chance to talk with her, and I could see that 
+she was really determined and focused. I remember thinking to myself, 
+``She's going places.''
+  After her victory today, I called her and said: ``Caitlin, I can tell 
+that when you decide what you're going to be and what you want to do, 
+you are going to achieve any dream you have.'' And I really believe 
+that.
+  Caitlin won a $25,000 college scholarship. I understand that she is 
+the second girl to win the geographic bee since the competition started 
+in 1989 and the fifth winner from Washington State. In fact, Washington 
+has produced more national winners than any other State.
+  I want to congratulate Caitlin, her family, and friends on this great 
+achievement and on the wonderful example she has set for young people 
+in Washington State and around the country.●
+
+                          ____________________
+```
