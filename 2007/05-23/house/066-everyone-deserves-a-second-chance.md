@@ -1,0 +1,80 @@
+---
+granule: CRECB-2007-pt10-Pg13731
+date: 2007-05-23
+edition: CRECB
+section: HOUSE
+page: 13731
+---
+
+# EVERYONE DESERVES A SECOND CHANCE
+
+```
+                   EVERYONE DESERVES A SECOND CHANCE
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from Illinois (Mr. Davis) is recognized for 5 minutes.
+  Mr. DAVIS of Illinois. Mr. Speaker, the United States of America has 
+more of its people in prison per capita than any other developed nation 
+in the world, more than 2 million. The vast majority, 95 percent, of 
+the men and women in our prisons will eventually return to the 
+community. This means that every year more than 650,000 offenders are 
+released from State and Federal prisons and return back to civilian 
+life.
+  These men and women deserve a second chance. Their families, spouses, 
+and children deserve a second chance. And their communities deserve a 
+second chance. A second chance means an opportunity to turn a life 
+around, a chance to break the grip of a drug habit; a chance to support 
+a family, to pay taxes, to be self-sufficient.
+  Today, few of those who return to their communities are prepared for 
+their release or receive any supportive service. When the prison door 
+swings open, an ex-offender may receive a bus ticket and spending money 
+for a day or two. Many leave prison to return to the same environment 
+which saw them offend in the first place. But as they return, they 
+often face additional barriers to reentry: serious physical and mental 
+health problems, no place to stay, and lack of education or 
+qualifications to hold a job. As a result, two out of three will be 
+rearrested for new crimes within the first 3 years after their release. 
+Youthful offenders are even more likely to reoffend.
+  One-third of all correction departments provide no services to 
+released offenders, and most departments do not offer a transitional 
+program, placing a heavy burden on families and communities. 
+Considering the cost of incarceration, as much as $40,000 per year, and 
+all the social and economic costs of crime to the community, it is just 
+plain common sense to help ex-offenders successfully reenter our 
+communities and reduce recidivism.
+  That is why I have sponsored the bipartisan Second Chance Act of 
+2007, H.R. 1593, along with Representatives Cannon, Conyers, Coble, 
+Scott of Virginia, Smith of Texas, Jones of Ohio, Forbes, Schiff, 
+Sensenbrenner, Chabot, Jackson-Lee of Texas, Cummings, Johnson of 
+Georgia, Clarke, and 75 other Members of Congress.
+  A companion bill, S. 1060, has been introduced in the Senate by 
+Senators Biden, Durbin, Specter, Brownback, Leahy, Obama, and 10 
+others.
+  The Second Chance Act will provide transitional assistance to assist 
+ex-offenders in coping with the challenges of reentry. It will reduce 
+recidivism. It will help reunite families and protect communities. It 
+will enhance public safety and save taxpayer dollars. It is the humane 
+thing to do. It is the responsible thing to do. And, of course, it is 
+the right thing to do.
+  The Judiciary Committee held hearings on the bill last month and 
+quickly voted to send the bill to the full House. I fully expect it to 
+pass soon. The bill has the support of more than 200 criminal justice, 
+service provider, faith-based, housing, governmental, disability, and 
+civil rights organizations. President Bush has signaled his support of 
+the legislation as well.
+  No single piece of legislation is going to solve the reentry crisis 
+we are facing, but the Second Chance Act is a good start. I hope that 
+with passage of this bill, we will begin a new era in criminal justice.
+  Mr. Speaker, I am convinced that any serious effort to facilitate the 
+reentry of men and women with criminal records to civil society must be 
+prepared to do two things. First, we must be prepared to help with drug 
+treatment on demand for everyone who requests it. Second, we need to 
+find work for ex-offenders. Programs don't supply jobs. After ex-
+offenders have undergone rehabilitation and received appropriate 
+training, employers will have to open their hearts and put these men 
+and women back into the workforce. They do not belong in prison.
+  Many of them don't need prison, but they do need a second chance. 
+Congress can give them that. And we should
+
+                          ____________________
+```
