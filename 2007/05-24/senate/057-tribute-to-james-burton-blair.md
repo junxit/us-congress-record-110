@@ -1,0 +1,54 @@
+---
+granule: CREC-2007-05-24-pt1-PgS6839-2
+date: 2007-05-24
+edition: CREC
+section: SENATE
+page: S6839
+citation: 153 Cong. Rec. S6839
+---
+
+# TRIBUTE TO JAMES BURTON BLAIR
+
+**Speaking:** Pryor, Mark L. (P000590) [D-AR]
+
+```
+                     TRIBUTE TO JAMES BURTON BLAIR
+
+● Mr. PRYOR. Mr. President, today I honor a man who has given so 
+much of himself to public service, the State of Arkansas and the legal 
+community.
+  In 1957, James Burton (Jim) Blair was admitted to practice law in 
+Arkansas. A successful attorney, he was the only general counsel that 
+Tyson Foods had in the 20th century as the company grew from a regional 
+poultry company to the second largest food producer in the Fortune 500.
+  Jim Blair has shared his success with contributions to his lifelong 
+hometown of Fayetteville, The University of Arkansas, and the State 
+that we both call home. He has contributed to the education of others 
+by establishing funds and chairs at the University of Arkansas. He gave 
+the largest private gift ever given to a public library in Arkansas; 
+the new Fayetteville Public Library is named The Blair Library in 
+memory of Jim's late wife Diane Divers Blair, his grandmother Bessie 
+Motley Blair and his aunt Dr. Mary Grace Blair. A patron of the arts, 
+Jim established a sculpture room at the Walton Arts Center, donated the 
+Anita Huffington sculpture ``Spring'' to the University of Arkansas and 
+also donated the Huffington sculpture ``Earth'' to the Arkansas Arts 
+Center in Little Rock.
+  Jim Blair also has a passion for politics and public service. He was 
+a delegate to the Democratic National Conventions of 1968, 1972, and 
+1980. He served as campaign manager of Senator William J. Fulbright's 
+1974 reelection campaign, was vice president of the Clinton for 
+President Committee 1992 and is listed in ``Who's Who in American 
+Politics.''
+  Jim served for 10 years on the University of Arkansas Board of 
+Trustees, including 2 years as chairman. He also served for 9 years on 
+the Arkansas Board of Higher Education, with 1 year as chairman. These 
+days Jim continues his public service by serving on the Fayetteville 
+Educational Foundation Board, the Fayetteville Public Library Board, 
+the Tyson Family Foundation Board, the Arkansas Tennis Association 
+Board and the Northwest Arkansas Community Foundation.
+  Mr. President, I ask that my colleagues join me in congratulating 
+James Burton (Jim) Blair on his 50th anniversary in the legal 
+profession and many philanthropic contributions to Arkansas.●
+
+                          ____________________
+```

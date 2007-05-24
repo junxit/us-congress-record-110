@@ -1,0 +1,2166 @@
+---
+granule: CREC-2007-05-24-pt1-PgH5738
+date: 2007-05-24
+edition: CREC
+section: HOUSE
+page: H5738
+citation: 153 Cong. Rec. H5738
+---
+
+# PROVIDING FOR CONSIDERATION OF H.R. 2317, LOBBYING TRANSPARENCY ACT OF 2007 AND PROVIDING FOR CONSIDERATION OF H.R. 2316, HONEST LEADERSHIP AND OPEN GOVERNMENT ACT OF 2007
+
+**Speaking:** Castor, Kathy (C001066) [D-FL], Dreier, David (D000492) [R-CA], Sutton, Betty (S001174) [D-OH], McHenry, Patrick T. (M001156) [R-NC], Conyers, John, Jr. (C000714) [D-MI], Gingrey, Phil (G000550) [R-GA], Flake, Jeff (F000444) [R-AZ], Doggett, Lloyd (D000399) [D-TX], Cantor, Eric (C001046) [R-VA], Maloney, Carolyn B. (M000087) [D-NY], Levin, Sander M. (L000263) [D-MI]
+
+**Measures:** H.Res. 437, H.Res. 438, H.R. 2316, H.R. 2317, H.R. 4975
+
+```
+PROVIDING FOR CONSIDERATION OF H.R. 2317, LOBBYING TRANSPARENCY ACT OF 
+ 2007 AND PROVIDING FOR CONSIDERATION OF H.R. 2316, HONEST LEADERSHIP 
+                    AND OPEN GOVERNMENT ACT OF 2007
+
+  Ms. CASTOR. Mr. Speaker, by direction of the Committee on Rules, I 
+call up House Resolution 437 and ask for its immediate consideration.
+  The Clerk read the resolution, as follows:
+
+                              H. Res. 437
+
+       Resolved, That at any time after the adoption of this 
+     resolution it shall be in order to consider in the House the 
+     bill (H.R. 2317) to amend the Lobbying Disclosure Act of 1995 
+     to require registered lobbyists to file quarterly reports on 
+     contributions bundled for certain recipients, and for other 
+     purposes. All points of order against consideration of the 
+     bill are waived except those arising under clause 9 or 10 of 
+     rule XXI. The amendment in the nature of a substitute 
+     recommended by the Committee on the Judiciary now printed in 
+     the bill, modified by the amendment printed in part A of the 
+     report of the Committee on Rules accompanying this 
+     resolution, shall be considered as adopted. The bill, as 
+     amended, shall be considered as read. All points of order 
+     against the bill, as amended, are waived. The previous 
+     question shall be considered as ordered on the bill, as 
+     amended, to final passage without intervening motion except: 
+     (1) one hour of debate equally divided and controlled by the 
+     chairman and ranking minority member of the Committee on the 
+     Judiciary; and (2) one motion to recommit with or without 
+     instructions.
+       Sec. 2. Upon the adoption of this resolution, the Speaker 
+     may, pursuant to clause 2(b) of rule XVIII, declare the House 
+     resolved into the Committee of the Whole House on the state 
+     of the Union for consideration of the bill (H.R. 2316) to 
+     provide more rigorous requirements with respect to disclosure 
+     and enforcement of lobbying laws and regulations, and for 
+     other purposes. The first reading of the bill shall be 
+     dispensed with. All points of order against consideration of 
+     the bill are waived except those arising under clause 9 or 10 
+     of rule XXI. General debate shall be confined to the bill and 
+     shall not exceed one hour equally divided and controlled by 
+     the chairman and ranking minority member of the Committee on 
+     the Judiciary. After general debate the bill shall be 
+     considered for amendment under the five-minute rule. It shall 
+     be in order to consider as an original bill for the purpose 
+     of amendment under the five-minute rule the amendment in the 
+     nature of a substitute recommended by the Committee on the 
+     Judiciary now printed in the bill. The committee amendment in 
+     the nature of a substitute shall be considered as read. All 
+     points of order against the committee amendment in the nature 
+     of a substitute are waived except those arising under clause 
+     9 or 10 of rule XXI. Notwithstanding clause 11 of rule XVIII, 
+     no amendment to the committee amendment in the nature of a 
+     substitute shall be in order except those printed in part B 
+     of the report of the Committee on Rules. Each such amendment 
+     may be offered only in the order printed in the report, may 
+     be offered only by a Member designated in the report, shall 
+     be considered as read, shall be debatable for the time 
+     specified in the report equally divided and controlled by the 
+     proponent and an opponent, shall not be subject to amendment, 
+     and shall not be subject to a demand for division of the 
+     question in the House or in the Committee of the Whole. All 
+     points of order against such amendments are waived except 
+     those arising under clause 9 or 10 of rule XXI. At the 
+     conclusion of consideration of the bill for amendment the 
+     Committee shall rise and report the bill to the House with 
+     such amendments as may have been adopted. Any Member may 
+     demand a separate vote in the House on any amendment adopted 
+     in the Committee of the Whole to the bill or to the committee 
+     amendment in the nature of a substitute. The previous 
+     question shall be considered as ordered on the bill and 
+     amendments thereto to final passage without intervening 
+     motion except one motion to recommit with or without 
+     instructions.
+       Sec. 3. During consideration of H.R. 2317 or H.R. 2316 
+     pursuant to this resolution, notwithstanding the operation of 
+     the previous question, the Chair may postpone further 
+     consideration of either bill to such time as may be 
+     designated by the Speaker.
+       Sec. 4. Subparagraph (3)(Q) of clause 5(a) of rule XXV is 
+     amended to read as follows:
+       ``(Q) Free attendance at an event permitted under 
+     subparagraph (4).''.
+
+                              {time}  1140
+
+  The SPEAKER pro tempore. The gentlewoman from Florida (Ms. Castor) is 
+recognized for 1 hour.
+  Ms. CASTOR. Mr. Speaker, for the purpose of debate only, I yield the 
+customary 30 minutes to the gentleman from California (Mr. Dreier). All 
+time yielded during consideration of this rule is for debate only.
+
+
+                             General Leave
+
+  Ms. CASTOR. Mr. Speaker, I ask unanimous consent that all Members 
+have 5 legislative days within which to revise and extend their remarks 
+and insert extraneous materials into the Record.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentlewoman from Florida?
+  There was no objection.
+
+[[Page H5739]]
+
+  Ms. CASTOR. Mr. Speaker, I yield myself such time as I may consume.
+  Mr. Speaker, the resolution provides for consideration of H.R. 2317, 
+the Lobbying Transparency Act of 2007, and H.R. 2316, the Honest 
+Leadership and Open Government Act of 2007.
+  The resolution provides that H.R. 2317 is to be considered under a 
+closed rule, with 1 hour of debate equally divided and controlled by 
+the Committee on the Judiciary. The rule waives all points of order 
+against the bill and its consideration, except for those arising under 
+clauses 9 and 10 of rule XXI.
+  The resolution also provides for consideration of H.R. 2316, the 
+Honest Leadership and Open Government Act of 2007, under a structured 
+rule. The rule provides 1 hour of general debate, equally divided and 
+controlled by the chairman and ranking minority member of the Committee 
+on the Judiciary. The rule waives all points of order against the bill 
+and its consideration, except those arising under clauses 9 or 10 of 
+rule XXI.
+  The rule makes in order and provides the appropriate waivers for five 
+amendments, three by Democratic Members and two by Republican Members.
+  Mr. Speaker, I urge strong support for the Honest Leadership and Open 
+Government Act of 2007 and the Lobbying Transparency Act as well and 
+this rule.
+  The Honest Leadership and Open Government Act continues the new 
+direction charted by this new Congress and builds upon the strongest 
+ethics reforms ever adopted in the United States Congress.
+  Last November, the Congress was reinvigorated by the election of a 
+large number of new Members, who were sent here by the American people 
+to fight for reform and change and to sweep aside a previous Congress 
+that was defined by scandal and corruption.
+  On the first day of this new Congress, the new reform-minded Members, 
+under the leadership of Speaker  Nancy Pelosi and Rules Committee Chair 
+Louise Slaughter, ushered in the broadest ethics and lobbying revisions 
+since the Watergate era. The ethics watchdog group Public Citizen 
+called the new ethics rules sweeping in scope and a signal that the 
+Democratic majority in the House appears committed to serious lobbying 
+and ethics reform.
+  Those new rules include a ban on gifts from lobbyists and 
+organizations that employ lobbyists, a ban on trips that are privately 
+funded by lobbyists and organizations that employ lobbyists, 
+prohibition on Members and staff flying on private corporate jets, an 
+end to the K Street Project, and a new requirement that all earmarks 
+with congressional sponsors be disclosed to the public.
+  Then 3 weeks after the adoption of that very broad and aggressive 
+ethics reform rules package, the House acted again on ethics reform and 
+stripped the congressional pensions of Members of Congress who commit 
+any of a number of crimes during their tenure, including bribery, 
+conspiracy and perjury.
+  This new Congress took that direct action to change the culture of 
+Congress at a time when Members of the previous Congress were pleading 
+guilty to living off gifts they had received from lobbyists in exchange 
+for votes and earmarks. Through our bold and expanding ethics package, 
+this new Congress is tackling the cozy relationships between lobbyists 
+and lawmakers.
+  Next, Mr. Speaker, these bills that we will consider today, the one 
+for open government and honest leadership and transparency in lobbying, 
+and this rule, provide rigorous new requirements for lobbyist 
+disclosure and enforcement of lobbying laws and regulations.
+  Mr. Speaker, we don't adopt reforms for reform's sake alone. We adopt 
+these reforms and we fight for change because it matters to our 
+constituents and our neighbors back home.
+  For over a year I have been sitting down with seniors trying to work 
+through the disaster of Medicare part D that was crafted in the last 
+Congress. Fortunately, this bill adds a House rule prohibiting Members 
+and senior staff from negotiating future employment or salaries and 
+requires public recusal of Members on any matters where there may be a 
+conflict of interest.
+  You see, Mr. Speaker, that Medicare part D that is so costly and 
+confusing to our seniors and puts all the benefit on the side of HMOs 
+and Big Pharma, and puts all of the burden on our seniors, was crafted 
+by a Member of Congress who, shortly thereafter, after he helped write 
+the Medicare drug bill, went on to become the head lobbyist for PhRMA 
+in what I think was a crass violation of the public trust. Fortunately, 
+this bill will tackle that problem.
+  This bill also makes it a Federal crime for Members and senior staff 
+to influence employment decisions or practices of private entities for 
+partisan political gain. Some people have called this the K Street 
+Project. The K Street Project was an initiative by the Republican Party 
+to pressure Washington lobbying firms to hire Republicans in top 
+positions and to reward loyal GOP lobbyists with access to influential 
+officials.
+  The bill also requires quarterly instead of semiannual disclosure of 
+lobbying reports. It requires in the age of the Internet for lobbying 
+reports to be filed electronically and be made available in a free, 
+searchable, downloadable database within 48 hours of being filed.
+  It also requires the Clerk of the House to post travel disclosures on 
+the Internet. This follows the scandals of Jack Abramoff. We must allow 
+greater transparency into the trips and financial holdings of Members 
+of Congress. Former Members of Congress took lavish trips to Scotland 
+with a lobbyist that had minimal disclosure, and these new provisions 
+will bring more such light to congressional disclosure forms.
+  Through this legislation we will also increase civil and criminal 
+penalties for failure to comply with lobbying disclosure requirements. 
+And it does much, much more.
+  Mr. Speaker, we must continue to fight for high ethical standards in 
+government to end the culture of corruption in Washington so that our 
+neighbors and folks we represent know they can count on us to stand up 
+for them against powerful special interests and trust that 
+congressional Members work in the public interest.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. DREIER. Mr. Speaker, I yield myself such time as I may consume.
+  (Mr. DREIER asked and was given permission to revise and extend his 
+remarks.)
+  Mr. DREIER. Mr. Speaker, I would like to begin by expressing my 
+appreciation to my very good new friend from Tampa (Ms. Castor) for 
+yielding me the customary 30 minutes, and to congratulate her on her 
+statement that she has just provided. But, Mr. Speaker, I rise to 
+reluctantly oppose this rule.
+  This bill has lots of problems, and I understand the problems on the 
+other side of the aisle. I am very happy to see the distinguished Chair 
+of the Committee on the Judiciary, my very good friend John Conyers, 
+here.
+  It was just a year ago, it was just a year ago this month, that we 
+were on the floor with our own lobbying bill, and we faced many of the 
+same problems and challenges that Chairman Conyers and others in the 
+Democratic leadership are facing at this moment. Trying to address the 
+concerns that our colleagues have on this issue is a challenge, a very 
+challenging thing, and they have discovered the lesson that I learned 
+long ago, and that is reform is very hard work. It is a constant work 
+in progress.
+  I was reminded by one of my staff members that I had said at one 
+point as we moved ahead with a reform bill, which I am happy to say we 
+passed in the last Congress, I said, when we are done with that reform, 
+what we need to do is work on more reform.
+  This is, again, a constant work in progress, and will continue to be. 
+And I believe it is part of our responsibility to constantly look at 
+ways in which we can reform and improve the operations of this 
+institution.
+
+                              {time}  1150
+
+  But if the bill that this House passed in the last Congress was 
+described as a ``sham,'' it is very unfortunate, and Mr. Conyers and 
+Ms. Castor and others were there when I was describing this, the very 
+distinguished chair of the Committee on Rules no fewer than seven times 
+when we, a year ago this month, were debating this measure, described 
+the bill I had, H.R. 4975, as a ``sham'' bill.
+  I have to say, as I listen to my friend from Tampa (Ms. Castor) talk 
+about
+
+[[Page H5740]]
+
+this bill, she was going through the fact that we will have disclosure 
+on the Internet of travel, and she went through basically the 
+provisions included in H.R. 4975; it is basically the same bill. But, 
+unfortunately, there are a number of important provisions included in 
+H.R. 4975 that are not included in this measure. I find that to be 
+somewhat troubling.
+  For instance, while starting out with a 2-year restriction on 
+lobbying after Congress, the majority left that provision on the 
+cutting room floor. They recognized, as we did, that the economics of 
+attracting and retaining good staff, they don't work with that kind of 
+restriction. But instead of retaining a provision which passed the 
+House last year and would provide everyone with a degree of 
+transparency about who was and was not under the lobbying restriction, 
+and I am going to offer an amendment to add that back which I hope will 
+be able to improve the bill. But this bill, as we have it, is not 
+nearly to the level of what the new majority described as a sham in the 
+last Congress.
+  While this bill provides important new criminal penalties for 
+lobbying violations, it includes nothing, absolutely nothing, Mr. 
+Speaker, to make enforcement more rigorous.
+  I offered an amendment in the Rules Committee to add a provision 
+which again was included in the bill that we had passed out of this 
+House last year which would allow the House inspector general to 
+randomly audit lobbying disclosure filings and forward cases of 
+wrongdoing to the Department of Justice for prosecution.
+  The majority's answer to that proposal was, no, we don't want 
+enforcement of our bill. Enforcement is always a challenge. We deal 
+with that with the issue of illegal immigration and a wide range of 
+things. It is easy to put all kinds of great ideas out there, but if 
+there is no enforcement, it has no teeth and no chance of success. That 
+is something that is very lacking in this bill. We had it in our 
+lobbying reform bill that passed last year, and I offered it as an 
+amendment at the Rules Committee. Unfortunately, my colleagues in the 
+majority on the Rules Committee rejected it.
+  Mr. Speaker, last year, Mr. Castle added a provision on the floor 
+requiring lobbyists to take ethics training. Is that provision in this 
+bill? Nope, it's not.
+  Did the majority make Mr. Castle's amendment in order to consider 
+that? Nope, they didn't.
+  My colleague, Dr. Gingrey, a former member of the Rules Committee, 
+added an amendment on the floor dealing with the personal leadership of 
+PAC funds. That was not included in the bill, and his amendment was not 
+made in order. Last year, with bipartisan support on the floor, we 
+amended our bill, H.R. 4975, to say that Members who have leadership 
+PACs cannot transfer those dollars into their own account for personal 
+use, which is what can happen today. It is not allowed for principal 
+campaign committee accounts, but that loophole which allows Members to 
+transfer money from their leadership PAC for personal use is still 
+going to be allowed. And the attempt to even offer an amendment to 
+close that horrendous loophole was denied.
+  That is to say nothing of the other creative ideas that were 
+summarily rejected by the Rules Committee majority last evening.
+  Mr. Speaker, if the bill which I sponsored last year was a sham, and 
+as I said the chairman of the Rules Committee, although last night she 
+said she never said it, seven times it is in the Congressional Record 
+when she was offering her motion to recommit, if it was a sham, then 
+this bill can only be characterized at this moment as being ``sub-
+sham,'' and our efforts to raise it to the level of a mere sham were 
+rebuffed, unfortunately, in the Rules Committee.
+  Which brings me to the rule for this bill, Mr. Speaker. For all of 
+the criticism the Republicans take for the way we administered the 
+House, and we hear that constantly up in the Rules Committee and down 
+here on the floor, it is notable this bill makes in order fewer 
+amendments than we did when we considered our bill last year.
+  The rule for H.R. 4975, our lobbying bill, made in order nine 
+amendments. This year, only five amendments were made in order. And 
+while it gives Mr. Van Hollen an up-or-down vote on his so-called 
+bundling disclosure bill, it doesn't attach it to the lobbying bill 
+going to the Senate, making it much more difficult to ultimately reach 
+passage.
+  Mr. Speaker, this rule and these bills are not unlike many of the so-
+called reforms instituted in this Congress, which means all show and no 
+substance whatsoever.
+  For instance, our Democratic friends take credit for adopting and 
+supposedly improving Republican earmark disclosure reforms. As Mr. 
+Flake found out just last week, when it comes to actually trying to 
+enforce those rules, the Rules Committee eliminated every avenue for a 
+Member to bring this question before the House. On top of that, Mr. 
+Flake had several amendments addressing lobbying for earmarks. Mr. 
+Speaker, none of those amendments were made in order.
+  In the end, there is little in this bill that is truly objectionable. 
+My friend from Tampa went through and outlined the provisions included 
+in H.R. 4975 that passed this House a year ago this month with 
+bipartisan support. Again, there is little that is truly objectionable. 
+There is very little that is in this bill that is beyond what we had in 
+the last Congress; and, unfortunately, it doesn't include or even 
+provide an opportunity to provide amendments to include many of the 
+items that were so important in this effort.
+  This bill takes no risk, reaches no heights, and falls short of the 
+lofty promises made by my newly minted majority colleagues. 
+Unfortunately, the rule is unacceptable in its current form, Mr. 
+Speaker, and I am going to urge its defeat.
+  Mr. Speaker, I reserve the balance of my time.
+  Ms. CASTOR. Mr. Speaker, I am very pleased to yield 4\1/2\ minutes to 
+the ethics reformer of Ohio and my colleague on the Rules Committee, 
+Ms. Sutton.
+  Ms. SUTTON. Mr. Speaker, I thank the gentlewoman from Florida for her 
+leadership on this issue and for yielding me the time.
+  Today I rise in favor of the rule and in favor of the Honest 
+Leadership and Open Government Act. On my first day in office 
+representing Ohio's 13th District, under the leadership of the new 
+Speaker, Nancy Pelosi, I stood on the floor of the House in support of 
+a new ethics rules package, a rules package that put an end to the K 
+Street Project, that ended gifts and perks and trips, and that made a 
+historic move towards cleansing the inner workings of government.
+  This rules package was extraordinary in its scope and its breadth, 
+but it was only the beginning. In our fight against the climate of 
+excess that flourished under recent Republican leadership of this body, 
+it is clear we must take further action. We must continue to eradicate 
+the pay-to-play culture that has pervaded and all too often undermined 
+lawmaking in the Congress.
+  We must expose and eliminate the strings and the coziness that have 
+resulted in policies by the special interests for the special 
+interests. We must end the culture of corruption so we remain focused 
+and truly tend to the people's business.
+  When I ran to represent Ohio's 13th District, I made it clear that I 
+wanted to go to Congress to change the way business was being done and 
+to restore the public trust. Safeguarding the public trust is not a 
+part-time job. It must always remain uppermost in our minds. It 
+requires the observation of current rules, and it requires legislative 
+action to cure problems that persist.
+  Today we take the next step to bring the cleansing light of day to 
+political financial contributions and to reduce the potential for shady 
+lobbying practices.
+
+                              {time}  1200
+
+  This bill focuses on sanitizing the relationship that lobbyists have 
+with Congress. It gives the American people the ability to follow the 
+money. It increases the number of times per year that lobbyists must 
+file disclosure reports, and it requires electronic filing of these 
+reports, making it available to the American public on the Internet. To 
+increase public disclosure, we will shed needed light on the money 
+trail from lobbyists to Capitol Hill.
+  This bill also requires lobbyists to certify that they have not 
+provided elected Members of Congress with gifts or travel forbidden by 
+the rules of the
+
+[[Page H5741]]
+
+House. This is another means to ensure that the past practice of 
+special interests using gifts and perks to woo legislators is truly 
+coming to an end.
+  When lobbying laws and congressional rules are violated, the American 
+people suffer. They suffer in policy, and they suffer in spirit. They 
+are cheated out of their right to proper representation. The action we 
+are taking today provides for greater punishment for the violation of 
+these laws by those who are willing to betray the public trust.
+  When Americans went to the polls last November, they sent a clear 
+message that they're concerned about the state of government. I have 
+long believed that what people truly want from their Representative is 
+someone who understands their concerns and who will strive to do all 
+that they can on their behalf. The American people want to know that we 
+are here for them, not for lobbyists, not for special interests, not 
+for self-interests. They deserve nothing less.
+  Today, thanks to an amendment made in order by this rule, we also 
+take action to bring much-needed transparency to the practice of 
+lobbyists' bundling of campaign contributions. The American people 
+deserve to know the source of campaign contributions, as well as the 
+sometimes lengthy and roundabout paths that these campaign 
+contributions travel before they are placed into the hands of 
+candidates.
+  Our bill gives the American people a window into the lobbying 
+practices and fund-raising activities by requiring the disclosure of 
+bundled contributions collected by lobbyists for candidates.
+  This Democratic Congress is working to restore and ensure the trust 
+of our constituents. One step was the elimination of soft money, the 
+next step the House rules package. We can't stop there.
+  In closing I just want to say, as a new member of Congress, Mr. 
+Speaker, how very honored I am to have been given the awesome 
+opportunity and responsibility to represent the people of the 
+thirteenth district of Ohio. Every day, I cherish the trust that they 
+have placed in me to do all that I can on their behalf. I know that 
+others in this body feel just as strongly as I do about their own 
+constituents. We must pass this bill to restore the hope and live up to 
+the promise that those we have been sent to serve have placed in us. 
+Our constituents must know and it must be true, that it is they that 
+are always uppermost in our hearts and minds as we carry out our 
+responsibilities. I am pleased to support this rule, this bill, and the 
+amendment to disclose the bundling of campaign contributions. I 
+respectfully urge my colleagues to join in passing them.
+  I urge the passage of the rule, the bill and the amendment on 
+bundling.
+  Mr. DREIER. Mr. Speaker, we're all reformers today, and at this time 
+I'm very happy to yield 2 minutes to a great reformer from Cherryville, 
+North Carolina (Mr. McHenry).
+  Mr. McHENRY. Mr. Speaker, I thank my colleague from California for 
+yielding.
+  The Speaker and I are on opposite sides of most issues, so I take 
+great pleasure in the rare instance that we can find some common 
+ground. The rule on this bill is one of those rare occasions. In fact, 
+Speaker Pelosi and I completely agree when it comes to her public 
+statements on the need for an open debate on lobbying reform. ``We urge 
+you to immediately bring to the floor, under an open rule that permits 
+unrestricted amendments and debate on the wide-ranging reform 
+provisions contained in the Honest Leadership and Open Government Act 
+of 2006.''
+  Madam Speaker, those were your words on February 9 of last year, but, 
+Madam Speaker, I'm hearing a different tune these days. Your words are 
+different than your actions. Very different, I might say.
+  We should be debating this bill today under an open rule that you 
+urged that permits unrestricted amendments and debates. Unfortunately 
+we won't.
+  There were 48 amendments offered to the Rules Committee. Only five 
+were allowed to be offered here on the floor today. I submitted one of 
+those 43 amendments that the Democrat leadership didn't want to hear 
+on, didn't want to have a debate on, and my amendment would require 
+Members of Congress to make an accurate disclosure of their financial 
+holdings, including their personal residence. We've seen in recent 
+Washington scandals the results of this loophole that allows Members to 
+hide ownership of properties. This is a bad thing, and we should close 
+that loophole.
+  Unfortunately, the Democrat leadership didn't allow us to have this 
+debate here today on that important amendment. They're allowing it to 
+stay open.
+  Another quick point. The American people should realize that we're 
+debating essentially a watered-down version, as my colleague from 
+California said, of the lobbying bill that Republicans offered last 
+Congress. Only eight Democrats voted for that tougher bill to reform 
+rogue lobbying practices; 192 voted no.
+  Mr. Speaker, does the Democrat hypocrisy know no bounds? Does it? At 
+the time, they said the bill didn't go far enough. We realize they're 
+singing a different tune, a tone-deaf tune, Mr. Speaker, and I urge the 
+defeat of this rule so we can have an open debate on lobbying reform.
+  Ms. CASTOR. Mr. Speaker, I am very honored to yield as much time as 
+he may consume to the gentleman from Michigan (Mr. Conyers), the 
+chairman of the House Judiciary Committee.
+  Mr. CONYERS. Mr. Speaker, I want to thank the gentlewoman from 
+Florida (Ms. Castor) who is floor manager for this important bill.
+  And I want to thank the gentlewoman from Ohio (Ms. Sutton) for the 
+great work she, and I include the former chairman of the Rules 
+Committee, they have done in trying to bring about reform in the House 
+of Representatives and in the Congress as a whole. I mean it. I was up 
+there yesterday, and I was one of the ones that took exception to 
+calling Mr. Dreier of California's H.R. 4975 a sham bill. It was not a 
+sham bill, and we have taken many of the things out of that bill and 
+have brought them to H.R. 2316 which we're observing.
+  So we think that we all agree on both sides of the aisle that we have 
+one big problem. The Congress has a black eye in terms of ethics, and 
+we want to correct it. We're agreed? Okay. We check that one off.
+  Now, how do we correct it? Well, the one way that you will never 
+correct it in the 110th Congress is to vote down this rule this 
+afternoon, because if you vote down this rule this afternoon, there 
+will be nothing to meet the Senate bill, which has already passed in 
+January. They have been waiting for February, March, April, end of May, 
+and now all of us who are concerned about fighting corruption, fighting 
+for better ethics, fighting for transparency, fighting for basic 
+disclosure now say on that side, let's vote down the rule. And do what 
+I would ask? What do you have in mind that we haven't done now?
+  Mr. DREIER. Mr. Speaker, will the gentleman yield?
+  Mr. CONYERS. I yield to the gentleman from California.
+  Mr. DREIER. Mr. Speaker, I thank my very dear friend for yielding, 
+and I would simply say the reason we're calling for a ``no'' vote on 
+the rule is that we should allow us to get to what I, as we now know, 
+affectionately describe what the former minority leadership called the 
+sham level. We need to at least get up to the level, and I'm very 
+appreciative of the remarks that my friend has offered characterizing, 
+I think correctly, my bill.
+  Mr. CONYERS. I thank my friend for helping me out there, because what 
+we will have done, and there are some in the media that are predicting 
+that this is what's going to happen, that we're going to abandon all of 
+the work that we have put into this measure. And I'm looking still 
+after a number of decades for the Member who can concede that he's 
+voted on the perfect bill in the legislative process.
+  But if we abandon this at this course, months behind schedule, we're 
+sending a perfectly obvious message to the American people; namely, 
+that this is the sham that is working on the Congress.
+  We've got to get this rule going. I'm happy that our colleague, the 
+former chairman of Rules, said nothing about the amendments that have 
+been granted by the committee in which he worked so hard over the 
+years. We've got amendments. Some are Republican amendments, some are 
+Democratic amendments, but for goodness sake, let's keep our promises 
+to the American people.
+  We campaigned on this. We said we can improve the transparency and 
+the rules regulating lobbyists, regulating bundling, regulating 
+reporting, increasing the penalties. We've said all of this
+
+[[Page H5742]]
+
+and put it in in as perfect form as we can do here.
+
+                              {time}  1210
+
+  We need now to get something to go to conference. I pledge to be open 
+to suggestions, as I have all along the way. We've got to keep our 
+promises, and the promises start with voting the rule to begin the 
+debate. Now, you may have differences in the debate but certainly not 
+on moving forward from this elementary process.
+  I thank the gentlelady, the floor manager, for allowing me to bring 
+these matters up at this point.
+  Mr. DREIER. Mr. Speaker, I yield 4 minutes to a former member of the 
+Rules Committee, our good friend from Marietta, Georgia (Mr. Gingrey).
+  Mr. GINGREY. I thank my friend and former chairman, Mr. Dreier, for 
+yielding.
+  I rise in strong opposition to this rule to H.R. 2316. The Honest 
+Leadership and Open Government Act I am not opposed to. It's the rule 
+that I am opposed to. When you have 48 amendments and five of them are 
+made in order, this is not open government. This is not open process.
+  I want to particularly, to my colleagues, mention the fact that I had 
+one of those 43 amendments which were not made in order. And I think if 
+we really wanted meaningful reform in an open government, that this 
+amendment clearly would have been made in order, we would have had an 
+opportunity on the floor of this House to debate it.
+  No, it's not in the Senate version. If it doesn't get in the House 
+version, then, clearly, it's not going to come out of conference.
+  What this amendment basically says is that Members, either 
+Republicans or Democrats, House or Senate, in a leadership position 
+that formed these things known as leadership PACs, cannot convert that 
+money at any time, but especially when they leave this place, to their 
+personal use.
+  Now we did that, or a former Congress, I think, back in the early 
+1990s, said Members cannot retire from this body and go home with seven 
+figures worth of money in their campaign accounts. For those who are 
+not paying attention, seven figures is over $1 million.
+  A lot of Members, back then in the early 1990s, decided since they 
+were not going to be able to do that after a date certain, they retired 
+so they could go home and spend that money and buy a new vacation home 
+or fancy automobile or whatever.
+  Since then, what's happened is Members have formed these leadership 
+PACs. It's not just leadership Members; in fact, any Member can form a 
+leadership PAC. So I am not saying that the money that they use out of 
+those PACs is improperly or dishonestly spent, but the temptation is 
+there.
+  I want to give you an example of just one. I have 10 listed in my 
+official remarks. I am not here to embarrass anybody. But there was one 
+PAC called Searchlight PAC that, in 2006, raised $2 million. Do you 
+know how much of that money was spent on helping another Member run for 
+a Federal office in that particular PAC's party? $300,000. That means 
+$1.7 million of that PAC's money was spent in some personal way. I 
+don't know if it was dishonest, but we have to stop this sort of thing.
+  Really, I am shocked that this amendment was not made in order. 
+Listen to this letter that was sent to Speaker Hastert last year when 
+my former Chairman Dreier worked on lobbying ethics reform. Here is the 
+letter. ``The House of Representatives is supposed to be a marketplace 
+of ideas, and any debate in open government must not restrict the 
+discussion of serious proposals . . . I am calling on you to use your 
+authority as Speaker to direct the Rules Committee to report an 
+unrestricted rule on lobby reform.'' Signed then-Minority Leader Nancy 
+Pelosi.
+  Ms. Pelosi obviously has changed her mind this time around. This rule 
+says loud and clear that this House no longer is a marketplace for 
+ideas; there is no room in this House for full and unrestricted debate 
+on open government. That's why I am standing in opposition, not to the 
+bill, but to the rule. We could have made this bill so much better if 
+we had allowed these amendments, such as mine, to be made in order.
+  I ask my colleagues, as former Chairman Dreier said, to oppose this 
+rule.
+  Ms. CASTOR. Mr. Speaker, I reserve the balance of my time.
+  Mr. DREIER. Mr. Speaker, I yield 4 minutes to the leader on the issue 
+of earmark reform, the gentleman from Mesa, Arizona (Mr. Flake).
+  Mr. FLAKE. I thank the gentleman for yielding. This bill is referred 
+to as the Honest Leadership and Open Government Act. I am pained to say 
+there is precious little of either of it in this bill.
+  The previous speaker mentioned that the voters were aware of the 
+needs that existed here in Congress, and the majority party paid the 
+price in November. I fully agree with that. I wasn't quiet on that 
+subject in the last Congress.
+  I was overjoyed to see that the Democrats came in in January, and not 
+that they came in in January; but when they did, they actually enacted 
+earmark reform that I felt was a little stronger than what we had done 
+a few months previous. Having said that, then we go to where we are 
+today where we rolled back a lot of those protections that were there 
+or simply ignored them.
+  The rules that you put in place are only as good as your willingness 
+to enforce them. We just heard this past week that the earmark rules 
+simply are going to be ignored. If a bill comes to the floor, and if it 
+is certified to have no earmarks, we have no recourse, even though 
+there might be earmarks, and have been in a few of the bills already 
+this year. Now we have heard that the plan is to take the appropriation 
+bills through the House process and into the conference process without 
+any earmarks, and simply air drop the earmarks during the conference 
+process.
+  This is not more sunlight. This is actually keeping earmarks secret 
+until it's too late to do anything about it. No amendments can be 
+offered during the conference process, so it will be impossible for 
+anybody to challenge any of what will be thousands and thousands and 
+thousands of earmarks in the bill.
+  This is not better. This is far worse than we have had before.
+  Let me just speak specifically to this legislation and some of the 
+failings. I offered an amendment which would get rid of the so-called 
+Abramoff exemption. Few people are probably aware, but public 
+universities, or lobbyists who represent public universities, or State 
+and local governments, are not required under this legislation, are not 
+bound by the same rules that people who lobby for a private institution 
+are.
+  So what, in effect, you are saying, well, let's just take the final 
+four of the basketball tournament that we just had in the NCAA. There 
+was a game between Xavier University and Ohio State. If you were a 
+lobbyist for Xavier University, you couldn't take a Member to the game. 
+But if you were a lobbyist for Ohio State University, you could treat 
+your Member of Congress, your favorite Member or anybody you wanted to, 
+to a $400 ticket. That's the difference.
+  Now, are we to assume that if you are lobbying for a private 
+institution, that you are somehow inherently suspect, but if you are 
+lobbying for a public institution, you are not? That's the dichotomy 
+here.
+  This amendment was not sprung on the majority as some kind of a 
+gotcha amendment. I took this to the Democrat leadership earlier this 
+year and said, please, can we work together and get rid of this 
+loophole? But we didn't.
+  The amendment was offered in good faith, and it was rejected. Why are 
+we doing this? Why do we allow, right now, if Jack Abramoff were still 
+around, he could still, under these current rules that we are going to 
+enact today, Jack Abramoff could treat Members at the Capital Grille to 
+a big steak dinner. We shouldn't be doing this.
+  The Jack Abramoff incident is what precipitated a lot of these 
+reforms. I'm glad it did. But the problem is, Jack Abramoff represented 
+public institutions, State and local government, territories. I believe 
+he collected about $6.7 million from the government of Saipan. With 
+that, he could continue to do what he did before under these rules, and 
+we should put a stop to it.
+
+                              {time}  1220
+
+  Mr. DREIER. Mr. Speaker, will the gentleman yield?
+
+[[Page H5743]]
+
+  Mr. FLAKE. I yield to the gentleman from California.
+  Mr. DREIER. Mr. Speaker, I would just like to clarify this once 
+again, if I might.
+  So a private institution is not allowed to provide any kind of meal 
+or support, tickets or things like that, but a public institution is 
+able to?
+  Mr. FLAKE. That is correct. Let me take the example from right at 
+home where I am. The University of Phoenix can take me to dinner, but 
+they can't buy even a cheeseburger. But Arizona State University right 
+next door can buy me a seven-course meal. They can fly me wherever. 
+There are no gift rule problems there. So private institutions are 
+treated differently than public institutions.
+  Mr. DREIER. So that won't be changed under this bill that we are 
+considering right now. Am I correct in concluding that?
+  Mr. FLAKE. That is correct. It would have been a very simple 
+amendment simply to get rid of what I call the Abramoff exemption, but 
+that amendment was rejected by the Rules Committee for no reason. Like 
+I said, it wasn't a ``gotcha'' amendment. This was offered to the 
+Democratic leadership earlier this year. They simply don't want to 
+change the rule.
+  Mr. DREIER. Mr. Speaker, I yield myself such time as I may consume to 
+simply say to my friend, the example of allowing a public institution 
+to provide meals and tickets and all kinds of things while a private 
+institution cannot do that underscores the fact that this issue needs 
+to be addressed in a broad bipartisan way.
+  Now, in the exchange that I had with the distinguished Chair of the 
+Committee on the Judiciary upstairs, he was happy to give it back over 
+to us at the Rules Committee. We should have had an original 
+jurisdiction hearing on a wide range of these issues that have not been 
+addressed. In the last Congress, we held four original jurisdiction 
+hearings on this issue. This year there have been none.
+  So I think that the point that my friend from Mesa is making, very 
+correctly, is that he made a bipartisan attempt to the new majority 
+leadership to try and address this and was rebuffed.
+  Everyone has recognized, I believe, certainly on our side of the 
+aisle, and we did so when we were in the majority, that the issue of 
+reform needs to be done in a bipartisan way. I know that on the 
+Judiciary Committee, Mr. Smith, the ranking member, has worked with 
+Chairman Conyers; but there are many of the rest of us who have been 
+involved in this issue of reform who I believe should have been 
+consulted, especially in light of a number of provisions that were 
+included; and, in fact, one provision which is absolutely outrageous, 
+no hearing whatsoever, it was literally snuck into this bill, dealing 
+with the question of Members attending charitable events. No hearing, 
+no consideration whatsoever. A piecemeal attempt to do this.
+  Now, Mr. Speaker, on the 29th of March, nearly 2 months ago, the 
+minority leader, Mr. Boehner, sent a letter to the Speaker asking that 
+she deal with these important questions which impact every single 
+Member of this institution with a bipartisan panel. Mr. Speaker, I am 
+saddened to inform the House that Minority Leader Boehner has gotten no 
+response to that letter that was sent nearly 2 months ago. So that is 
+why we are concerned about this process.
+  Yes, the bill itself is one which included so much of what I was 
+proud to include in H.R. 4975; does not get to that level. But I am 
+urging opposition to this rule, as is Mr. Flake, as was Dr. Gingrey and 
+others of my colleagues, so that we can try and improve this in a 
+bipartisan way.
+  Mr. Speaker, I reserve the balance of my time.
+  Ms. CASTOR. Mr. Speaker, I am pleased to yield 1\1/2\ minutes to my 
+colleague from Texas (Mr. Doggett).
+  Mr. DOGGETT. Mr. Speaker, for over five years I have attempted to 
+close a gaping loophole in the Lobby Disclosure Act that has permitted 
+various lobbyists to form over 800 stealth or hidden coalitions to 
+avoid the requirements of the act. That effort had been met with 
+nothing but indifference. Finally we now have a new Congress and a new 
+direction.
+  Under the legislation Mr. Conyers offers today, we incorporate the 
+provisions of that Stealth Lobbyist Disclosure Act. Here is how it 
+works: A lobbyist for an unpopular cause, like those who would avoid 
+their taxes by renouncing their American citizenship and moving abroad, 
+or by those who would deny climate change, instead of indicating who 
+they actually represent, those lobbyists claim they represent a 
+``coalition'' of two or more individuals and avoid any indication of 
+the true parties in interest.
+  When deep-pocketed interests spend big money to influence public 
+policy, the public has a right to know. Even a little light can do a 
+lot of good. If wealthy interests want legislators to sing their tune, 
+the public has a right to know who is paying the piper.
+  Of course, President Harry Truman said, ``The buck stops here.'' But 
+with stealth lobbying we don't know where ``here'' is or whose buck it 
+is.
+  This stealth lobbyist disclosure provision helps close this loophole. 
+The bill amends the definition of ``client'' to require the disclosure 
+of the members of a coalition or association so that a small number of 
+people or corporations can no longer operate under a shell group and 
+destroy the intent of our lobby disclosure laws. Combining ``wealth'' 
+with ``stealth'' is a recipe for unaccountable government.
+  After years of indifference, we have a new Congress dedicated to open 
+government and the pursuit of the public interest. This rule and this 
+legislation should be approved.
+  Mr. DREIER. Mr. Speaker, may I inquire of the Chair how much time is 
+remaining on each side? And then I would like to ask my colleague, she 
+indicated she was the last speaker a few minutes ago, and then Mr. 
+Doggett joined us.
+  The SPEAKER pro tempore (Mr. Capuano). The gentleman from California 
+has 8\1/2\ minutes; the gentlewoman from Florida has 11\3/4\ minutes.
+  Ms. CASTOR. Mr. Speaker, I will reserve the balance of my time until 
+the gentleman has closed for his side.
+  Mr. DREIER. So the gentlewoman is the last speaker?
+  Ms. CASTOR. That is correct, Mr. Speaker.
+  Mr. DREIER. Mr. Speaker, the gentlewoman is on her feet and so I 
+would actually like to engage her in a colloquy, if I might, and ask 
+some questions. I would be more than happy to yield to my friend from 
+Tampa.
+  I am very concerned about the ramifications of this measure, and I 
+talked about the concern that I have over this issue of charitable 
+events, and that this item was in a piecemeal way stuck into this rule, 
+and I raised the issue of the letter.
+  Mr. Speaker, I submit for printing in the Record a copy of the letter 
+that was sent by Mr. Boehner to my California colleague Speaker Pelosi. 
+Mr. Speaker, the reason I do that is that there has been no response to 
+this nearly 2-month-old letter; and I hope that maybe someone on the 
+Speaker's staff will read the Congressional Record and see this request 
+for a truly bipartisan approach to this issue.
+
+                                    Congress of the United States,
+
+
+                                     House of Representatives,
+
+                                   Washington, DC, March 29, 2007.
+     Hon. Nancy Pelosi,
+     Speaker of the House, U.S. Capitol,
+     Washington, DC.
+       Dear Speaker Pelosi: The American people have every right 
+     to expect the highest ethical standards here in the people's 
+     House. Yet, less than three months into the 110th Congress it 
+     has become clear that House ethics rules are hopelessly 
+     broken. Members on both sides of the aisle are understandably 
+     frustrated because they know you can't ``clean up Congress'' 
+     with confusing rules that are as difficult to comply with as 
+     they are to enforce.
+       It is equally clear that until the ethics rules are 
+     repaired through a genuinely bipartisan process, they will 
+     continue to lack the credibility needed to ensure broad 
+     compliance, effective enforcement and widespread public 
+     acceptance.
+       As you know, sweeping changes to House ethics rules imposed 
+     at the start of this Congress were drafted in secret by the 
+     incoming Majority without consulting either the Minority or 
+     the staff of the nonpartisan Ethics Committee. The new rules 
+     were then rammed through the House with no opportunity to 
+     carefully analyze the proposals or to improve them in any 
+     way. The consequences of this ill-considered approach are now 
+     being felt by Members and staff on both sides of the aisle:
+       A staffer may attend an evening reception hosted by a 
+     corporation and consume shrimp, champagne, sliced filet and 
+     canapes . . . but may not accept a slice of pizza or a $7 box 
+     lunch provided by the very same
+
+[[Page H5744]]
+
+     corporation at a policy briefing the next day. [see Ethics 
+     Committee ``pink sheet'', Feb 6, 2007 (pp. 4-5)]
+       Although Members and staff may play in a $1,000 per person 
+     charity golf tournament to benefit a local scholarship fund, 
+     they are prohibited from similarly helping the American Red 
+     Cross raise funds for Katrina victims by playing in its golf 
+     tournament--solely because the Red Cross employs lobbyists. 
+     [see Ethics Committee ``pink sheet'', Jan 19, 2007 (p. 7)]
+       In order to go on a ``first date'' with someone who happens 
+     to be a lobbyist, a staffer must agree to pay for his or her 
+     full share of the lunch or dinner, as well as anything else 
+     of value, such as a movie, concert or ballgame. [see Ethics 
+     Committee ``pink sneet'', Feb 6, 2007 (p.2)]
+       A Member may accept $200 tickets for the Final Four from 
+     Ohio State (public university), but not $20 tickets to a 
+     preseason game from Xavier University (private university). 
+     [see Gifts & Travel, House Ethics Committee, April 2000 (p. 
+     37)]
+       A Member may accept a $15 t-shirt or $20 hat from the Farm 
+     Bureau, but not a $12 mug or mouse pad. Similarly, a $4 latte 
+     is OK--but a $4 sandwich is not. [see Ethics Committee ``pink 
+     sheet'', Feb 6, 2007 (p. 5)]
+       A Member who has his own airplane is prohibited from flying 
+     it for any purpose--official, campaign or personal--even at 
+     his own expense. [see Ethics Committee letter to Rep. Stevan 
+     Pearce, Feb 16, 2007]
+       A staffer invited to a post-season barbecue for her 
+     daughter's soccer team may not attend once she learns that it 
+     will be held in the home of a player whose father is a 
+     lobbyist. [see Ethics Committee ``pink sheet'', Feb 6, 2007 
+     (p. 2)]
+       Although a Member may not accept dinner from a lobbyist who 
+     uses his own funds or those of his firm, he may accept dinner 
+     from the very same lobbyist using a credit card provided by 
+     his state or local government clients. [see clause 5(a)(3)(O) 
+     of House Rule XXV]
+       A corporate executive who is not a lobbyist may not use his 
+     expense account to take a Member out to dinner, but may--in 
+     many cases--take the same Member to dinner using his personal 
+     funds. [see Ethics Committee ``pink sheet'', Feb 6, 2007 (p. 
+     3)]
+       A Member may not take a privately-funded trip if a lobbyist 
+     accompanies him to and from Washington; but the same Member 
+     may spend five days in Brussels discussing global warming 
+     with environmental group lobbyists--as long as none of them 
+     are on the same flights to and from the meeting. [see Ethics 
+     Committee ``pink sheet'', March 14, 2007 (p. 2)]
+       It's no surprise that Members deeply committed to following 
+     the rules are confused and concerned by the current state of 
+     disarray in the House.
+       Making matters worse, the chaos inflicted on Members and 
+     staff by careless (or worse) Democrat rule writers has now 
+     infected the legislative process as well. For example, 
+     confusion over the proper application of congressional 
+     earmark rules has made it possible for Democratic leaders to 
+     certify as ``earmark free'' a multi-billion dollar Continuing 
+     Resolution that any knowledgeable observer will confirm was 
+     laden with them.
+       Moreover, the failure of the House Ethics Committee to 
+     provide official guidance to Members seeking to comply with 
+     newly adopted earmark ``conflict of interest'' rules until 
+     after the deadline fix submission of earmark requests had 
+     expired has unnecessarily disrupted the FY08 appropriations 
+     process by delaying for more than a month processing of many 
+     Member earmark requests, and complicated efforts to make the 
+     earmark process more transparent.
+       This latter incident underscores the folly of Democrats 
+     rushing to unilaterally impose complicated and contradictory 
+     new rules on the House, and then denying an entirely 
+     reasonable joint request by the Chairman and Ranking 
+     Republican of the Ethics Committee for the additional 
+     resources the panel needs to carry out its added 
+     responsibilities to Members.
+       Sadly, Democrat leaders straining to legitimize their 
+     campaign rhetoric have instead left Members--on both sides of 
+     the aisle--more vulnerable than ever to violating rules that 
+     are hard to define, riddled with logical inconsistencies, and 
+     utterly unlikely to prevent the sort of abuses that have 
+     properly sparked so much public outrage.
+       After all, few of the ``Culture of Corruption'' violations 
+     by Duke Cunningham and Bob Ney--or alleged violations by 
+     William Jefferson and Alan Mollohan--would have been 
+     prevented had the recently passed ethics changes been in 
+     effect last year.
+       Rather, the principled path to a more ethical Congress is 
+     through clearcut, common sense rules that are widely 
+     communicated and firmly enforced. And, as you and your fellow 
+     Democrat leaders argued so persuasively during the last 
+     Congress, the process of developing those rules must be 
+     transparent and genuinely bipartisan.
+       To that end, I ask that you join me in appointing a 
+     bipartisan working group tasked with analyzing House ethics 
+     rules--and recommending fair, sensible and understandable 
+     revisions that working group members believe would improve 
+     both compliance and enforcement.
+       As with the Livingston-Cardin ethics task force in 1997, 
+     the working group should be led by co-chairs and evenly 
+     divided between majority and minority members. I propose that 
+     it consist of six to eight members, including a member of the 
+     ethics committee from each party (but neither its chairman 
+     nor ranking minority member), one elected leader from each 
+     party, and one or two additional Members from each side of 
+     the aisle.
+       I further propose that we direct the working group to 
+     report back its recommendations no later than July 1, 2007 to 
+     allow time for the House to consider its proposed revisions 
+     to the Rules of the House prior to the August recess.
+       Madam Speaker, I have been encouraged by recent public 
+     statements made by you and members of your staff noting your 
+     desire to correct evident problems with several of the new 
+     rules. Thus, I hope you will commit to work constructively 
+     with me to ensure that any revisions to the Code of Conduct 
+     and other House rules are imbued with the sort of credibility 
+     that you have often pointed out can only result from a 
+     thoroughly bipartisan effort.
+           Sincerely,
+                                                  John A. Boehner,
+                                                Republican Leader.
+
+  Mr. Speaker, I would simply ask my colleague from Tampa to describe a 
+term that is in this bill.
+  Now, one of the questions out there is that Members of Congress are 
+often approached by people and considered for employment beyond their 
+service in this institution. Now, in H.R. 4975, we were very specific 
+in saying that when negotiation for compensation, and those are the 
+exact words that we used in H.R. 4975, are included in the bill, then 
+there has to be a letter to the Committee on Standards of Official 
+Conduct stating that that negotiating process has begun. So we had that 
+exact term of ``negotiating for compensation.'' Those are the three 
+words that we had in there.
+  Now, I would like to inquire of my friend from Tampa why it was in 
+this measure that they went from ``negotiation for compensation'' to 
+simply ``negotiation.'' And the reason I say that is a very sincere 
+one.
+  The question naturally comes to mind, now, the gentlewoman from Tampa 
+is new here and obviously not prepared to leave at this point. But 
+there are people, Mr. Speaker, who may have been here for a while and 
+people have decided they wanted to approach them.
+  Is it negotiation if it is simply said to that person, ``Gosh, we'd 
+like you to consider going to work for us''? And so I am wondering if 
+my friend might define this term ``negotiation'' for us. And I am happy 
+to yield to the distinguished manager of this rule.
+  Ms. CASTOR. Well, my interest, Mr. Speaker, is keeping this 
+legislation on track. The American people spoke loud and clear in 
+November. They called on us to fight for reform and change.
+  Mr. DREIER. Mr. Speaker, if I might reclaim my time. And I do so to 
+simply say, I was posing a question to my colleague, not asking for a 
+campaign speech on what the American people sent us to do here in 
+November. The fact is, Democrats and Republicans alike are committed to 
+reform. I am very proud of the record we have had on reform, and I am 
+honored to have had it praised by the distinguished Chair of the 
+Committee on the Judiciary.
+  The question that I have is a very specific one: Why in this 
+legislation did we go from the utilization of three words, 
+``negotiation for compensation,'' to this open-ended question of simply 
+``negotiation''?
+  I would be happy to further yield to my friend to elucidate us on 
+that.
+  Mr. CANTOR. I thank my colleague very much. I recall the sessions I 
+have had with seniors back home in Florida trying to work through the 
+morass of Medicare part D.
+  Mr. DREIER. Mr. Speaker, if I could reclaim my time. My question, and 
+I will pose it again to my colleague from Tampa. The issue of 
+negotiation for Members of Congress, the debate that we are having now 
+is not about the message that was sent last November, it is not about 
+Medicare part D. It is a question about the issue of lobbying and 
+ethics reform in this institution. And obviously my colleague doesn't 
+really have an answer to this question.
+  What it does do is it underscores the fact that it is absolutely 
+essential that we deal with this issue in a responsible, bipartisan way 
+to try to bring about some kind of resolution in here. And so I am 
+very, very troubled with the way that this has been handled in a 
+piecemeal way.
+
+[[Page H5745]]
+
+                              {time}  1230
+
+  And so, Mr. Speaker, it is true that the effort is a valiant one. I 
+congratulate and praise those who have been involved in it. And as I 
+said in my opening remarks, it's very clear that reform is a work in 
+progress. And we need to do more on the issue of reform. It's just that 
+this bill is nowhere near the level of the bill that was passed under 
+the Republican Congress. And I will say, I hope very much this 
+institution will pass a bill that is even better than the one that I 
+was privileged to author in the 109th Congress. And I believe that we 
+could do better than we did in the 109th Congress. It's just that this 
+measure, after all of this talk of reform, after all of this talk about 
+the message sent last November, falls short of where we were in the 
+last Congress, and that's why we are very troubled by this.
+  Mr. Speaker, I'm going to urge my colleagues to vote ``no'' on the 
+previous question, so that when we succeed in defeating the previous 
+question, I will be able to make in order an amendment that was offered 
+that specifically provides greater disclosure and transparency and 
+accountability which, again, are the three buzz words that are used 
+around here: transparency, disclosure and accountability.
+  If, in fact, a Member is asking for an earmark, if a Member has been 
+asked for an earmark by a lobbyist, under the amendment that I hope 
+that we will be able to make in order, that Mr. Flake has propounded 
+and unfortunately it was rejected by the Rules Committee, it would 
+simply require that lobbying entity to disclose the fact that they 
+have, in fact, made that in order.
+  Mr. Speaker, I ask unanimous consent that I be able to, just before 
+the vote on the previous question, have printed in the Congressional 
+Record a detailed explanation of the amendment that would require that 
+lobbyists who make a request of a Member, that they call for an earmark 
+to be made, that that information be made public. I believe that that, 
+in and of itself, is a very, very modest but responsible thing that 
+needs to be done in this effort to ensure greater transparency and 
+disclosure.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from California?
+  There was no objection.
+  Mr. DREIER. So, with that, Mr. Speaker, I urge a ``no'' vote on the 
+previous question.
+  Mr. Speaker, I yield back the balance of my time.
+  Ms. CASTOR. Mr. Speaker, I urge adoption of the Honest Leadership and 
+Open Government Act and the Lobbying Transparency Act and this rule. 
+Citizens deserve open and honest leadership. We must stay on track with 
+lobbying reform. And after the scandals in past years, we will continue 
+the fight for reform and change so that the American people trust that 
+Members of Congress are making decisions that benefit our communities 
+and our country, and not some powerful special interest with undue 
+influence.
+  Unfortunately, there has been a price to pay for the culture of 
+corruption. You can see it when you gas up at the pump. Big Oil has 
+gotten millions and billions in tax breaks, while people that we 
+represent pay higher gas prices. And in Florida, the big oil companies 
+have been granted a right to drill off our beautiful coastline.
+  You can see it when our seniors are pushed into privatized Medicare. 
+The HMOs get a slush fund, and seniors pay more for health care.
+  You can see it when students and their families pay more for student 
+loans because of sweetheart deals. The special interests get tax 
+breaks, and our kids pay off higher debt.
+  Mr. Speaker, today we will keep our promise to the American people to 
+fight for change and reform. When our neighbors and the folks back home 
+send us to Washington, they rightly expect their representatives to act 
+in the public interest and not in the interest of well-paid lobbyists 
+with undue influence.
+  I urge my colleagues to build on the strongest ethics reform ever 
+adopted in the Congress, what we started on day one in this new 
+Congress.
+  I urge a ``yes'' vote on the previous question and on the rule.
+  Mrs. MALONEY of New York. Mr. Speaker, I rise today in strong support 
+of H.R. 2316, the Honest Leadership and Open Government Act, and H.R. 
+2317, the Lobbying Transparency Act.
+  As the Jack Abramoff scandal made abundantly clear, the way that 
+business has been conducted in Washington during the past few years 
+needs to change. Congress already has taken important steps to reduce 
+the influence of lobbyists, and the legislation that we are considering 
+today will implement additional necessary reforms. These reforms 
+include closing the revolving door between the legislative branch and 
+post-employment lobbying, increased reporting requirements, including 
+for bundled campaign contributions, and greater public access to 
+lobbying reports and disclosure information.
+  The issue of openness in government is critical to our democracy. The 
+American people should have faith that their representatives in 
+Congress are responding to their needs and not acting in the interests 
+of those trying to buy influence.
+  I also want to commend Chairman Conyers and the Judiciary Committee 
+for including language in the bill to clarify that H.R. 2316 does not 
+infringe upon the first amendment or prohibit any activities currently 
+protected by the free speech, free exercise, or free association 
+clauses.
+  I urge my colleagues to support this legislation.
+  Mr. LEVIN. Mr. Speaker, I rise in strong support of H.R. 2316, the 
+Honest Leadership and Open Government Act, as well as H.R. 2317, the 
+Lobbying Transparency Act.
+  When the new Democratic Congress convened on January 4, our first 
+action was the approval of a sweeping package of changes to restore the 
+integrity and fiscal responsibility of the House of Representatives. 
+While these reforms represented the most significant ethics and 
+lobbying revisions in decades, we promised that this would be just the 
+first step in ending the cozy relationships between Congress and 
+special interest lobbyists. Today we take the next important step.
+  The Honest Leadership and Open Government Act H.R. 2316 mandates 
+quarterly disclosure of lobbying reports; ends the K Street Project of 
+Members and staff influencing employment decisions of private entities 
+for partisan political gain; increases disclosure of lobbyists' 
+contributions to lawmakers; and establishes an online, searchable 
+public database of lobbyist disclosure information.
+  One of the most important provisions of this lobbying reform package 
+is the Lobbying Transparency Act, H.R. 2317. This legislation requires 
+a registered lobbyist who also serves as a fundraiser to disclose the 
+campaign checks that he or she solicits or ``bundles.''
+  When lobbyists also act as campaign fundraisers, a possible conflict 
+of interest arises, making it all the more necessary to allow for 
+greater public awareness as to their actions and treatment.
+  Reforming the way that lobbyists and Members of Congress do business 
+is the right thing to do not only because it will help to restore the 
+trust of the American people in their institution of Congress, but also 
+because doing so has a very real impact in putting the power back into 
+the hands of the public.
+  I urge my colleagues to join me in supporting H.R. 2316 and H.R. 
+2317.
+  The material previously referred to by Mr. Dreier is as follows:
+
+     Amendment to H. Res. 437 Offered by Rep. Dreier of California
+
+       At the end of the resolution, add the following:
+       Sec. 4. Notwithstanding any other provision of this 
+     resolution, the amendment printed in section 4 shall be in 
+     order to H.R. 2316 as though printed as the last amendment in 
+     part B of the report of the Committee on Rules if offered by 
+     Representative Flake of Arizona or his designee. That 
+     amendment shall be debatable for 30 minutes equally divided 
+     and controlled by the proponent and an opponent.
+       Sec. 4. The amendment referred to in section 4 is as 
+     follows:
+       Page 13, line 3, strike ``Section 5(b)'' and insert ``(a) 
+     Gifts.--Section 5(b)''.
+       Page 13, insert after line 18 the following:
+       (b) Requests for Congressional Earmarks.--Section 
+     5(b)(2)(A) of the Lobbying Disclosure Act of 1995 (2 U.S.C. 
+     1604(b)(2)(A)) is amended by striking ``bill numbers'' and 
+     inserting the following: ``bill numbers, requests for 
+     Congressional earmarks (as defined in clause 9(d) of rule XXI 
+     of the Rules of the House of Representatives for the One 
+     Hundred Tenth Congress),''.
+                                  ____
+
+       (The information contained herein was provided by 
+     Democratic Minority on multiple occasions throughout the 
+     109th Congress.)
+
+        The Vote on the Previous Question: What It Really Means
+
+       This vote, the vote on whether to order the previous 
+     question on a special rule, is not merely a procedural vote. 
+     A vote against ordering the previous question is a vote 
+     against the Democratic majority agenda and a vote to allow 
+     the opposition, at least for the moment, to offer an 
+     alternative plan. It is a vote about what the House should be 
+     debating.
+
+[[Page H5746]]
+
+       Mr. Clarence Cannon's Precedents of the House of 
+     Representatives, (VI, 308-311) describes the vote on the 
+     previous question on the rule as ``a motion to direct or 
+     control the consideration of the subject before the House 
+     being made by the Member in charge.'' To defeat the previous 
+     question is to give the opposition a chance to decide the 
+     subject before the House. Cannon cites the Speaker's ruling 
+     of January 13, 1920, to the effect that ``the refusal of the 
+     House to sustain the demand for the previous question passes 
+     the control of the resolution to the opposition'' in order to 
+     offer an amendment. On March 15, 1909, a member of the 
+     majority party offered a rule resolution. The House defeated 
+     the previous question and a member of the opposition rose to 
+     a parliamentary inquiry, asking who was entitled to 
+     recognition. Speaker Joseph G. Cannon (R-Illinois) said: 
+     ``The previous question having been refused, the gentleman 
+     from New York, Mr. Fitzgerald, who had asked the gentleman to 
+     yield to him for an amendment, is entitled to the first 
+     recognition.''
+       Because the vote today may look bad for the Democratic 
+     majority they will say ``the vote on the previous question is 
+     simply a vote on whether to proceed to an immediate vote on 
+     adopting the resolution . . . [and] has no substantive 
+     legislative or policy implications whatsoever.'' But that is 
+     not what they have always said. Listen to the definition of 
+     the previous question used in the Floor Procedures Manual 
+     published by the Rules Committee in the 109th Congress, (page 
+     56). Here's how the Rules Committee described the rule using 
+     information from Congressional Quarterly's ``American 
+     Congressional Dictionary'': ``If the previous question is 
+     defeated, control of debate shifts to the leading opposition 
+     member (usually the minority Floor Manager) who then manages 
+     an hour of debate and may offer a germane amendment to the 
+     pending business.''
+       Deschler's Procedure in the U.S. House of Representatives, 
+     the subchapter titled ``Amending Special Rules'' states: ``a 
+     refusal to order the previous question on such a rule [a 
+     special rule reported from the Committee on Rules] opens the 
+     resolution to amendment and further debate.'' (Chapter 21, 
+     section 21.2) Section 21.3 continues: Upon rejection of the 
+     motion for the previous question on a resolution reported 
+     from the Committee on Rules, control shifts to the Member 
+     leading the opposition to the previous question, who may 
+     offer a proper amendment or motion and who controls the time 
+     for debate thereon.''
+       Clearly, the vote on the previous question on a rule does 
+     have substantive policy implications. It is one of the only 
+     available tools for those who oppose the Democratic 
+     majority's agenda and allows those with alternative views the 
+     opportunity to offer an alternative plan.
+
+  Ms. CASTOR. Mr. Speaker, I yield back the balance of my time, and I 
+move the previous question on the resolution.
+  Mr. DREIER. Mr. Speaker, may I ask the indulgence of the Chair to ask 
+unanimous consent if I could reclaim my time. I didn't realize that my 
+very distinguished colleague from Kentucky was here, and he had a very 
+important question that he wanted to pose on this, and I'd ask 
+unanimous consent to be able to reclaim my time and yield to the 
+gentleman from Kentucky.
+  The SPEAKER pro tempore (Mr. Capuano). Is there objection to the 
+request of the gentleman from California?
+  Ms. CASTOR. I object.
+  The SPEAKER pro tempore. Objection is heard.
+  Mr. DREIER. Thank you very much, Mr. Speaker, and thanks to my 
+colleagues for their consideration.
+  The SPEAKER pro tempore. The question is on ordering the previous 
+question.
+  The question was taken; and the Speaker pro tempore announced that 
+the ayes appeared to have it.
+  Mr. DREIER. Mr. Speaker, on that I demand the yeas and nays.
+  The yeas and nays were ordered.
+  The SPEAKER pro tempore. Pursuant to clause 8 and clause 9 of rule 
+XX, this 15-minute vote on ordering the previous question on House 
+Resolution 437 will be followed by 5-minute votes on adoption of House 
+Resolution 437, if ordered; ordering the previous question on House 
+Resolution 438; and the adoption of House Resolution 438, if ordered.
+  The vote was taken by electronic device, and there were--yeas 224, 
+nays 195, not voting 13, as follows:
+
+                             [Roll No. 415]
+
+                               YEAS--224
+
+     Abercrombie
+     Ackerman
+     Allen
+     Altmire
+     Andrews
+     Arcuri
+     Baca
+     Baird
+     Baldwin
+     Barrow
+     Bean
+     Becerra
+     Berkley
+     Berman
+     Berry
+     Bishop (GA)
+     Bishop (NY)
+     Blumenauer
+     Boren
+     Boswell
+     Boucher
+     Boyd (FL)
+     Boyda (KS)
+     Brady (PA)
+     Braley (IA)
+     Brown, Corrine
+     Butterfield
+     Capps
+     Capuano
+     Carnahan
+     Carney
+     Carson
+     Castor
+     Chandler
+     Clarke
+     Clay
+     Cleaver
+     Clyburn
+     Cohen
+     Conyers
+     Costa
+     Costello
+     Courtney
+     Cramer
+     Crowley
+     Cuellar
+     Cummings
+     Davis (AL)
+     Davis (CA)
+     Davis (IL)
+     Davis, Lincoln
+     DeFazio
+     Delahunt
+     DeLauro
+     Dicks
+     Dingell
+     Doggett
+     Donnelly
+     Doyle
+     Edwards
+     Ellison
+     Ellsworth
+     Emanuel
+     Eshoo
+     Etheridge
+     Farr
+     Fattah
+     Filner
+     Frank (MA)
+     Giffords
+     Gillibrand
+     Gonzalez
+     Gordon
+     Green, Al
+     Green, Gene
+     Grijalva
+     Gutierrez
+     Hall (NY)
+     Hare
+     Harman
+     Hastings (FL)
+     Herseth Sandlin
+     Higgins
+     Hill
+     Hinchey
+     Hinojosa
+     Hirono
+     Hodes
+     Holden
+     Holt
+     Honda
+     Hooley
+     Hoyer
+     Inslee
+     Israel
+     Jackson (IL)
+     Jackson-Lee (TX)
+     Jefferson
+     Johnson (GA)
+     Johnson, E. B.
+     Kagen
+     Kanjorski
+     Kaptur
+     Kennedy
+     Kildee
+     Kilpatrick
+     Kind
+     Klein (FL)
+     Kucinich
+     Lampson
+     Langevin
+     Lantos
+     Larsen (WA)
+     Larson (CT)
+     Lee
+     Levin
+     Lipinski
+     Loebsack
+     Lofgren, Zoe
+     Lowey
+     Lynch
+     Mahoney (FL)
+     Maloney (NY)
+     Markey
+     Marshall
+     Matheson
+     Matsui
+     McCarthy (NY)
+     McCollum (MN)
+     McDermott
+     McGovern
+     McIntyre
+     McNerney
+     McNulty
+     Meehan
+     Meek (FL)
+     Meeks (NY)
+     Melancon
+     Michaud
+     Miller (NC)
+     Miller, George
+     Mitchell
+     Mollohan
+     Moore (KS)
+     Moore (WI)
+     Moran (VA)
+     Murphy (CT)
+     Murphy, Patrick
+     Murtha
+     Nadler
+     Napolitano
+     Neal (MA)
+     Obey
+     Olver
+     Ortiz
+     Pallone
+     Pascrell
+     Pastor
+     Payne
+     Perlmutter
+     Peterson (MN)
+     Pomeroy
+     Price (NC)
+     Rahall
+     Rangel
+     Reyes
+     Rodriguez
+     Ross
+     Rothman
+     Roybal-Allard
+     Ruppersberger
+     Rush
+     Ryan (OH)
+     Salazar
+     Sanchez, Linda T.
+     Sanchez, Loretta
+     Sarbanes
+     Schakowsky
+     Schiff
+     Schwartz
+     Scott (GA)
+     Scott (VA)
+     Serrano
+     Sestak
+     Shea-Porter
+     Sherman
+     Shuler
+     Sires
+     Skelton
+     Slaughter
+     Smith (WA)
+     Snyder
+     Solis
+     Space
+     Spratt
+     Stark
+     Stupak
+     Sutton
+     Tanner
+     Tauscher
+     Taylor
+     Thompson (CA)
+     Thompson (MS)
+     Tierney
+     Towns
+     Udall (CO)
+     Udall (NM)
+     Van Hollen
+     Velazquez
+     Visclosky
+     Walz (MN)
+     Wasserman Schultz
+     Waters
+     Watson
+     Watt
+     Waxman
+     Weiner
+     Welch (VT)
+     Wexler
+     Wilson (OH)
+     Woolsey
+     Wu
+     Wynn
+     Yarmuth
+
+                               NAYS--195
+
+     Aderholt
+     Akin
+     Alexander
+     Bachmann
+     Bachus
+     Baker
+     Barrett (SC)
+     Bartlett (MD)
+     Barton (TX)
+     Biggert
+     Bilbray
+     Bilirakis
+     Bishop (UT)
+     Blackburn
+     Blunt
+     Boehner
+     Bonner
+     Bono
+     Boozman
+     Boustany
+     Brady (TX)
+     Brown (SC)
+     Brown-Waite, Ginny
+     Buchanan
+     Burgess
+     Burton (IN)
+     Buyer
+     Calvert
+     Camp (MI)
+     Campbell (CA)
+     Cannon
+     Cantor
+     Capito
+     Carter
+     Castle
+     Chabot
+     Coble
+     Cole (OK)
+     Conaway
+     Crenshaw
+     Cubin
+     Culberson
+     Davis (KY)
+     Davis, David
+     Davis, Tom
+     Deal (GA)
+     Dent
+     Diaz-Balart, L.
+     Diaz-Balart, M.
+     Doolittle
+     Drake
+     Dreier
+     Duncan
+     Ehlers
+     English (PA)
+     Everett
+     Fallin
+     Feeney
+     Ferguson
+     Flake
+     Forbes
+     Fortenberry
+     Fossella
+     Foxx
+     Franks (AZ)
+     Frelinghuysen
+     Gallegly
+     Garrett (NJ)
+     Gerlach
+     Gilchrest
+     Gillmor
+     Gingrey
+     Gohmert
+     Goode
+     Goodlatte
+     Granger
+     Graves
+     Hall (TX)
+     Hastert
+     Hastings (WA)
+     Hayes
+     Heller
+     Hensarling
+     Herger
+     Hobson
+     Hoekstra
+     Hulshof
+     Inglis (SC)
+     Issa
+     Jindal
+     Johnson (IL)
+     Johnson, Sam
+     Jones (NC)
+     Jordan
+     Keller
+     King (IA)
+     King (NY)
+     Kingston
+     Kirk
+     Kline (MN)
+     Knollenberg
+     Kuhl (NY)
+     LaHood
+     Lamborn
+     Latham
+     LaTourette
+     Lewis (CA)
+     Lewis (KY)
+     Linder
+     LoBiondo
+     Lucas
+     Lungren, Daniel E.
+     Mack
+     Manzullo
+     Marchant
+     McCarthy (CA)
+     McCaul (TX)
+     McCotter
+     McCrery
+     McHenry
+     McHugh
+     McKeon
+     Mica
+     Miller (FL)
+     Miller (MI)
+     Miller, Gary
+     Moran (KS)
+     Murphy, Tim
+     Musgrave
+     Myrick
+     Neugebauer
+     Nunes
+     Paul
+     Pearce
+     Pence
+     Peterson (PA)
+     Petri
+     Pickering
+     Pitts
+     Platts
+     Poe
+     Porter
+     Price (GA)
+     Pryce (OH)
+     Putnam
+     Ramstad
+     Regula
+     Rehberg
+     Reichert
+     Renzi
+     Reynolds
+     Rogers (AL)
+     Rogers (KY)
+     Rogers (MI)
+     Ros-Lehtinen
+     Roskam
+     Royce
+     Ryan (WI)
+     Sali
+     Saxton
+     Schmidt
+     Sensenbrenner
+     Sessions
+     Shadegg
+     Shays
+     Shimkus
+     Shuster
+     Simpson
+     Smith (NE)
+     Smith (NJ)
+     Smith (TX)
+     Souder
+     Stearns
+     Sullivan
+     Tancredo
+     Terry
+     Thornberry
+     Tiahrt
+     Tiberi
+     Turner
+     Upton
+     Walberg
+     Walden (OR)
+     Walsh (NY)
+     Wamp
+     Weldon (FL)
+     Weller
+     Westmoreland
+     Whitfield
+     Wicker
+     Wilson (NM)
+     Wilson (SC)
+     Wolf
+     Young (AK)
+     Young (FL)
+
+                             NOT VOTING--13
+
+     Cardoza
+     Cooper
+     Davis, Jo Ann
+     DeGette
+     Emerson
+     Engel
+     Hunter
+     Jones (OH)
+     Lewis (GA)
+     McMorris Rodgers
+     Oberstar
+     Radanovich
+     Rohrabacher
+
+                              {time}  1259
+
+  Messrs. SOUDER, McCOTTER, NEUGEBAUER and RAMSTAD changed their vote 
+from ``yea'' to ``nay.''
+
+[[Page H5747]]
+
+  Ms. CORRINE BROWN of Florida changed her vote from ``nay'' to 
+``yea.''
+  So the previous question was ordered.
+  The result of the vote was announced as above recorded.
+  The SPEAKER pro tempore. The question is on the resolution.
+  The question was taken; and the Speaker pro tempore announced that 
+the ayes appeared to have it.
+  Mr. DREIER. Mr. Speaker, on that I demand the yeas and nays.
+  The yeas and nays were ordered.
+  The SPEAKER pro tempore. This is a 5-minute vote.
+  The vote was taken by electronic device, and there were--yeas 224, 
+nays 197, not voting 11, as follows:
+
+                             [Roll No. 416]
+
+                               YEAS--224
+
+     Abercrombie
+     Ackerman
+     Allen
+     Altmire
+     Andrews
+     Arcuri
+     Baca
+     Baird
+     Baldwin
+     Barrow
+     Bean
+     Becerra
+     Berkley
+     Berman
+     Berry
+     Bishop (GA)
+     Bishop (NY)
+     Blumenauer
+     Boren
+     Boswell
+     Boucher
+     Boyd (FL)
+     Boyda (KS)
+     Brady (PA)
+     Braley (IA)
+     Brown, Corrine
+     Butterfield
+     Capps
+     Capuano
+     Carnahan
+     Carney
+     Carson
+     Castor
+     Chandler
+     Clarke
+     Clay
+     Cleaver
+     Clyburn
+     Cohen
+     Conyers
+     Cooper
+     Costa
+     Costello
+     Courtney
+     Cramer
+     Crowley
+     Cuellar
+     Cummings
+     Davis (AL)
+     Davis (CA)
+     Davis (IL)
+     Davis, Lincoln
+     DeFazio
+     Delahunt
+     DeLauro
+     Dicks
+     Dingell
+     Doggett
+     Donnelly
+     Doyle
+     Edwards
+     Ellison
+     Ellsworth
+     Emanuel
+     Eshoo
+     Etheridge
+     Farr
+     Fattah
+     Filner
+     Frank (MA)
+     Giffords
+     Gillibrand
+     Gonzalez
+     Gordon
+     Green, Al
+     Green, Gene
+     Grijalva
+     Gutierrez
+     Hall (NY)
+     Hare
+     Harman
+     Hastings (FL)
+     Herseth Sandlin
+     Higgins
+     Hill
+     Hinchey
+     Hinojosa
+     Hirono
+     Hodes
+     Holden
+     Holt
+     Honda
+     Hooley
+     Hoyer
+     Inslee
+     Israel
+     Jackson (IL)
+     Jackson-Lee (TX)
+     Jefferson
+     Johnson (GA)
+     Johnson, E. B.
+     Kagen
+     Kanjorski
+     Kennedy
+     Kildee
+     Kilpatrick
+     Kind
+     Klein (FL)
+     Kucinich
+     Lampson
+     Langevin
+     Lantos
+     Larsen (WA)
+     Larson (CT)
+     Lee
+     Levin
+     Lipinski
+     Loebsack
+     Lofgren, Zoe
+     Lowey
+     Lynch
+     Mahoney (FL)
+     Maloney (NY)
+     Markey
+     Marshall
+     Matheson
+     Matsui
+     McCarthy (NY)
+     McCollum (MN)
+     McDermott
+     McGovern
+     McIntyre
+     McNerney
+     McNulty
+     Meehan
+     Meek (FL)
+     Meeks (NY)
+     Melancon
+     Michaud
+     Miller (NC)
+     Miller, George
+     Mitchell
+     Mollohan
+     Moore (KS)
+     Moore (WI)
+     Moran (VA)
+     Murphy (CT)
+     Murphy, Patrick
+     Murtha
+     Nadler
+     Napolitano
+     Neal (MA)
+     Obey
+     Olver
+     Ortiz
+     Pallone
+     Pascrell
+     Pastor
+     Payne
+     Perlmutter
+     Peterson (MN)
+     Pomeroy
+     Price (NC)
+     Rahall
+     Rangel
+     Reyes
+     Rodriguez
+     Ross
+     Rothman
+     Roybal-Allard
+     Ruppersberger
+     Rush
+     Ryan (OH)
+     Salazar
+     Sanchez, Linda T.
+     Sanchez, Loretta
+     Sarbanes
+     Schakowsky
+     Schiff
+     Schwartz
+     Scott (GA)
+     Scott (VA)
+     Serrano
+     Sestak
+     Shea-Porter
+     Sherman
+     Shuler
+     Sires
+     Skelton
+     Slaughter
+     Smith (WA)
+     Snyder
+     Solis
+     Space
+     Spratt
+     Stark
+     Stupak
+     Sutton
+     Tanner
+     Tauscher
+     Taylor
+     Thompson (CA)
+     Thompson (MS)
+     Tierney
+     Towns
+     Udall (CO)
+     Udall (NM)
+     Van Hollen
+     Velazquez
+     Visclosky
+     Walz (MN)
+     Wasserman Schultz
+     Waters
+     Watson
+     Watt
+     Waxman
+     Weiner
+     Welch (VT)
+     Wexler
+     Wilson (OH)
+     Woolsey
+     Wu
+     Wynn
+     Yarmuth
+
+                               NAYS--197
+
+     Aderholt
+     Akin
+     Alexander
+     Bachmann
+     Bachus
+     Baker
+     Barrett (SC)
+     Bartlett (MD)
+     Barton (TX)
+     Biggert
+     Bilbray
+     Bilirakis
+     Bishop (UT)
+     Blackburn
+     Blunt
+     Boehner
+     Bonner
+     Bono
+     Boozman
+     Boustany
+     Brady (TX)
+     Brown (SC)
+     Brown-Waite, Ginny
+     Buchanan
+     Burgess
+     Burton (IN)
+     Buyer
+     Calvert
+     Camp (MI)
+     Campbell (CA)
+     Cannon
+     Cantor
+     Capito
+     Carter
+     Castle
+     Chabot
+     Coble
+     Cole (OK)
+     Conaway
+     Crenshaw
+     Cubin
+     Culberson
+     Davis (KY)
+     Davis, David
+     Davis, Tom
+     Deal (GA)
+     Dent
+     Diaz-Balart, L.
+     Diaz-Balart, M.
+     Doolittle
+     Drake
+     Dreier
+     Duncan
+     Ehlers
+     English (PA)
+     Everett
+     Fallin
+     Feeney
+     Ferguson
+     Flake
+     Forbes
+     Fortenberry
+     Fossella
+     Foxx
+     Franks (AZ)
+     Frelinghuysen
+     Gallegly
+     Garrett (NJ)
+     Gerlach
+     Gilchrest
+     Gillmor
+     Gingrey
+     Gohmert
+     Goode
+     Goodlatte
+     Granger
+     Graves
+     Hall (TX)
+     Hastert
+     Hastings (WA)
+     Hayes
+     Heller
+     Hensarling
+     Herger
+     Hobson
+     Hoekstra
+     Hulshof
+     Inglis (SC)
+     Issa
+     Jindal
+     Johnson (IL)
+     Johnson, Sam
+     Jones (NC)
+     Jordan
+     Kaptur
+     Keller
+     King (IA)
+     King (NY)
+     Kingston
+     Kirk
+     Kline (MN)
+     Knollenberg
+     Kuhl (NY)
+     LaHood
+     Lamborn
+     Latham
+     LaTourette
+     Lewis (CA)
+     Lewis (KY)
+     Linder
+     LoBiondo
+     Lucas
+     Lungren, Daniel E.
+     Mack
+     Manzullo
+     Marchant
+     McCarthy (CA)
+     McCaul (TX)
+     McCotter
+     McCrery
+     McHenry
+     McHugh
+     McKeon
+     Mica
+     Miller (FL)
+     Miller (MI)
+     Miller, Gary
+     Moran (KS)
+     Murphy, Tim
+     Musgrave
+     Myrick
+     Neugebauer
+     Nunes
+     Paul
+     Pearce
+     Pence
+     Peterson (PA)
+     Petri
+     Pickering
+     Pitts
+     Platts
+     Poe
+     Porter
+     Price (GA)
+     Pryce (OH)
+     Putnam
+     Ramstad
+     Regula
+     Rehberg
+     Reichert
+     Renzi
+     Reynolds
+     Rogers (AL)
+     Rogers (KY)
+     Rogers (MI)
+     Rohrabacher
+     Ros-Lehtinen
+     Roskam
+     Royce
+     Ryan (WI)
+     Sali
+     Saxton
+     Schmidt
+     Sensenbrenner
+     Sessions
+     Shadegg
+     Shays
+     Shimkus
+     Shuster
+     Simpson
+     Smith (NE)
+     Smith (NJ)
+     Smith (TX)
+     Souder
+     Stearns
+     Sullivan
+     Tancredo
+     Terry
+     Thornberry
+     Tiahrt
+     Tiberi
+     Turner
+     Upton
+     Walberg
+     Walden (OR)
+     Walsh (NY)
+     Wamp
+     Weldon (FL)
+     Weller
+     Westmoreland
+     Whitfield
+     Wicker
+     Wilson (NM)
+     Wilson (SC)
+     Wolf
+     Young (AK)
+     Young (FL)
+
+                             NOT VOTING--11
+
+     Cardoza
+     Davis, Jo Ann
+     DeGette
+     Emerson
+     Engel
+     Hunter
+     Jones (OH)
+     Lewis (GA)
+     McMorris Rodgers
+     Oberstar
+     Radanovich
+
+
+                Announcement by the Speaker Pro Tempore
+
+  The SPEAKER pro tempore (during the vote). Members are advised there 
+are less than 2 minutes remaining on the vote.
+
+                              {time}  1308
+
+  So the resolution was agreed to.
+  The result of the vote was announced as above recorded.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```
