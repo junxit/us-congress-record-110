@@ -1,0 +1,37 @@
+---
+granule: CRECB-2007-pt10-Pg14147-3
+date: 2007-05-24
+edition: CRECB
+section: HOUSE
+page: 14147
+---
+
+# ACCOUNTABILITY PLAN NEEDED FOR IRAQ WAR
+
+```
+                ACCOUNTABILITY PLAN NEEDED FOR IRAQ WAR
+
+  (Mr. KLEIN of Florida asked and was given permission to address the 
+House for 1 minute.)
+  Mr. KLEIN of Florida. Mr. Speaker, today, the House of 
+Representatives will vote on a war spending bill that does not call for 
+accountability. Unlike the previous Iraq supplemental, the bill we are 
+voting on today does not provide the American people with a path to end 
+this war. For me, the issue of accountability is imperative. Without a 
+real accountability plan in Iraq, there is no telling how long this war 
+will continue.
+  We were elected to bring a new direction in Iraq, and I will continue 
+that fight, along with many of my colleagues. As I have made clear time 
+and time again with my votes, I fully support our troops and their 
+families. But I also believe that it is Congress' duty to support a 
+change in the Iraq policy that will meet our national security 
+objectives.
+  When the people of South Florida chose me to be their voice in 
+Congress, they put their trust and faith in me to represent their 
+values and priorities. Along with the people of South Florida, I will 
+continue to stand up and work toward a new policy in Iraq.
+  For these reasons, I will vote against the Iraq supplemental bill 
+today.
+
+                          ____________________
+```

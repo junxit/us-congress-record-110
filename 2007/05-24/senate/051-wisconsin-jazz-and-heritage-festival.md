@@ -1,0 +1,34 @@
+---
+granule: CRECB-2007-pt10-Pg14054-3
+date: 2007-05-24
+edition: CRECB
+section: SENATE
+page: 14054
+---
+
+# WISCONSIN JAZZ AND HERITAGE FESTIVAL
+
+```
+                  WISCONSIN JAZZ AND HERITAGE FESTIVAL
+
+● Mr. KOHL. Mr. President, today I honor the late Milwaukee jazz 
+legend, Tony King.
+  Mr. Tony King was an inspiration and mentor to all of his students 
+during his tenure as teacher and director of the jazz program at the 
+Wisconsin Conservatory of Music in downtown Milwaukee. As an 
+accomplished pianist, he not only applied his talent to share beautiful 
+music with the world, but also dedicated himself to help foster the 
+talent of young musicians. Mr. King recognized the potential and skill 
+of his students and guided them with respect, care, and humility.
+  Mr. King's life and legacy will be celebrated this Memorial Day 
+weekend in Milwaukee at the Second Annual Wisconsin Jazz and Heritage 
+Festival at Jamie's Club Theatre. Mr. King's historic contributions to 
+the jazz community in Wisconsin are reflected in the lives and 
+accomplishments of his former students who will return to Milwaukee and 
+perform in his honor. Many teachers hope they have an impact on their 
+students' lives and the community in which they taught. Mr. King's 
+impact will be remembered this weekend in Milwaukee with sounds of 
+happiness, laughter, and the music that he loved so much.●
+
+                          ____________________
+```

@@ -1,0 +1,38 @@
+---
+granule: CRECB-2007-pt10-Pg14146-3
+date: 2007-05-24
+edition: CRECB
+section: HOUSE
+page: 14146
+---
+
+# WHY THERE IS A MEMORIAL DAY
+
+```
+                      WHY THERE IS A MEMORIAL DAY
+
+  (Mr. POE asked and was given permission to address the House for 1 
+minute.)
+  Mr. POE. Mr. Speaker, this Memorial Day, we honor the warriors of 
+America whose lives were taken in their youth for their country's 
+future. In Southeast Texas, 18 of these men have been killed in Iraq in 
+sacrifice and service for the rest of us. One of those was 20 year old 
+Lance Corporal Anthony Aguirre of Channelview, Texas.
+  While on patrol with 20 other Marines in the desert sands of Al Anbar 
+Province, Lance Corporal Aguirre stepped on an improvised explosive 
+device. Since America's enemies hide in caves and won't face off with 
+our troops, these cowards of the desert use these explosives to kill 
+Americans. Rather than immediately jump off the IED, however, Aguirre 
+stood firm and told his fellow Marines to clear the area. When his 
+buddies were safe, he took his foot off the bomb. He died so others 
+could live. Amazing men, these young Marines of the United States 
+Marine Corps.
+  Later, as the funeral procession passed through the streets of 
+Channelview, the crowds, estimated at 8,000, waved flags and stood in 
+silence along the rural roads for this Son of Texas.
+  Mr. Speaker, Lance Corporal Aguirre and his fallen comrades are why 
+we have Memorial Day.
+  And that's just the way it is.
+
+                          ____________________
+```

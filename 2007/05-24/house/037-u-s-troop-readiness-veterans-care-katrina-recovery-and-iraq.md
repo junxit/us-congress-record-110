@@ -1,0 +1,10456 @@
+---
+granule: CRECB-2007-pt10-Pg14194-2
+date: 2007-05-24
+edition: CRECB
+section: HOUSE
+page: 14194
+---
+
+# U.S. TROOP READINESS, VETERANS' CARE, KATRINA RECOVERY, AND IRAQ ACCOUNTABILITY APPROPRIATIONS ACT, 2007
+
+```
+   U.S. TROOP READINESS, VETERANS' CARE, KATRINA RECOVERY, AND IRAQ 
+                ACCOUNTABILITY APPROPRIATIONS ACT, 2007
+
+  Mr. OBEY. Mr. Speaker, pursuant to House Resolution 438, I call up 
+the bill (H.R. 2206) making emergency supplemental appropriations and 
+additional supplemental appropriations for agricultural and other 
+emergency assistance for the fiscal year ending September 30, 2007, and 
+for other purposes, with a Senate amendment thereto, and ask for its 
+immediate consideration in the House.
+  The Clerk read the title of the bill.
+  The SPEAKER pro tempore. The Clerk will designate the Senate 
+amendment.
+  The text of the Senate amendment is as follows:
+
+       Senate amendment:
+       Strike out all after the enacting clause and insert:
+       Since under the Constitution, the President and Congress 
+     have shared responsibilities for decisions on the use of the 
+     Armed Forces of the United States, including their mission, 
+     and for supporting the Armed Forces, especially during 
+     wartime;
+       Since when the Armed Forces are deployed in harm's way, the 
+     President, Congress, and the Nation should give them all the 
+     support they need in order to maintain their safety and 
+     accomplish their assigned or future missions, including the 
+     training, equipment, logistics, and funding necessary to 
+     ensure their safety and effectiveness, and such support is 
+     the responsibility of both the Executive Branch and the 
+     Legislative Branch of Government; and
+       Since thousands of members of the Armed Forces who have 
+     fought bravely in Iraq and Afghanistan are not receiving the 
+     kind of medical care and other support this Nation owes them 
+     when they return home: Now, therefore, be it
+       Determined by the Senate (the House of Representatives 
+     concurring), that it is the sense of Congress that--
+       (1) the President and Congress should not take any action 
+     that will endanger the Armed Forces of the United States, and 
+     will provide necessary funds for training, equipment, and 
+     other support for troops in the field, as such actions will 
+     ensure their safety and effectiveness in preparing for and 
+     carrying out their assigned missions;
+       (2) the President, Congress, and the Nation have an 
+     obligation to ensure that those who have bravely served this 
+     country in time of war receive the medical care and other 
+     support they deserve; and
+       (3) the President and Congress should--
+       (A) continue to exercise their constitutional 
+     responsibilities to ensure that the Armed Forces have 
+     everything they need to perform their assigned or future 
+     missions; and
+       (B) review, assess, and adjust United States policy and 
+     funding as needed to ensure our troops have the best chance 
+     for success in Iraq and elsewhere.
+
+
+                       Motion Offered by Mr. Obey
+
+  Mr. OBEY. Mr. Speaker, pursuant to House Resolution 438, I have a 
+motion at the desk.
+  The SPEAKER pro tempore. The Clerk will designate the motion.
+  The text of the motion is as follows:
+
+       Mr. Obey moves that the House concur in the amendment of 
+     the Senate with the amendments printed in House Report 110-
+     168, as follows:
+
+            Amendment 1 to the Senate Amendment to H.R. 2206
+
+       In lieu of the matter proposed to be inserted by the Senate 
+     amendment, insert the following:
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``U.S. Troop Readiness, 
+     Veterans' Care, Katrina Recovery, and Iraq Accountability 
+     Appropriations Act, 2007''.
+
+     SEC. 2. TABLE OF CONTENTS.
+
+       The table of contents for this Act is as follows:
+TITLE I--[RESERVED]
+TITLE II--[RESERVED]
+TITLE III--ADDITIONAL DEFENSE, INTERNATIONAL AFFAIRS, AND HOMELAND 
+              SECURITY PROVISIONS
+TITLE IV--ADDITIONAL HURRICANE DISASTER RELIEF AND RECOVERY
+TITLE V--OTHER EMERGENCY APPROPRIATIONS
+TITLE VI--OTHER MATTERS
+TITLE VII--ELIMINATION OF SCHIP SHORTFALL AND OTHER HEALTH MATTERS
+TITLE VIII--FAIR MINIMUM WAGE AND TAX RELIEF
+TITLE IX--AGRICULTURAL ASSISTANCE
+TITLE X--GENERAL PROVISIONS
+
+     SEC. 3. STATEMENT OF APPROPRIATIONS.
+
+       The following sums in this Act are appropriated, out of any 
+     money in the Treasury not otherwise appropriated, for the 
+     fiscal year ending September 30, 2007.
+
+                          TITLE I--[RESERVED]
+
+       [The provisions of this title are reserved for possible 
+     additions through subsequent amendment.]
+
+                          TITLE II--[RESERVED]
+
+       [The provisions of this title are reserved for possible 
+     additions through subsequent amendment.]
+
+  TITLE III--ADDITIONAL DEFENSE, INTERNATIONAL AFFAIRS, AND HOMELAND 
+                          SECURITY PROVISIONS
+
+                               CHAPTER 1
+
+                       DEPARTMENT OF AGRICULTURE
+
+                      Foreign Agricultural Service
+
+
+                     Public Law 480 Title II Grants
+
+       For an additional amount for ``Public Law 480 Title II 
+     Grants'', during the current fiscal year, not otherwise 
+     recoverable, and unrecovered prior years' costs, including 
+     interest thereon, under the Agricultural Trade Development 
+     and Assistance Act of 1954, for commodities supplied in 
+     connection with dispositions abroad under title II of said 
+     Act, $100,000,000, to remain available until expended.
+
+                    GENERAL PROVISION--THIS CHAPTER
+
+       Sec. 3101. There is hereby appropriated $10,000,000 to 
+     reimburse the Commodity Credit Corporation for the release of 
+     eligible commodities under section 302(f)(2)(A) of the Bill 
+     Emerson Humanitarian Trust Act (7 U.S.C. 1736f-1): Provided, 
+     That any such funds made available to reimburse the Commodity 
+     Credit Corporation shall only be used to replenish the Bill 
+     Emerson Humanitarian Trust.
+
+                               CHAPTER 2
+
+                         DEPARTMENT OF JUSTICE
+
+                    Federal Bureau of Investigation
+
+
+                         Salaries and Expenses
+
+       For an additional amount for ``Salaries and Expenses'', 
+     $139,740,000, of which $129,740,000 is to remain available 
+     until September 30, 2008 and $10,000,000 is to remain 
+     available until expended to implement corrective actions in 
+     response to the findings and recommendations in the 
+     Department of Justice Office of Inspector General report 
+     entitled, ``A Review of the Federal Bureau of Investigation's 
+     Use of National Security Letters'', of which $500,000 shall 
+     be transferred to and merged with ``Department of Justice, 
+     Office of the Inspector General''.
+
+                    Drug Enforcement Administration
+
+
+                         salaries and expenses
+
+       For an additional amount for ``Salaries and Expenses'', 
+     $3,698,000, to remain available until September 30, 2008.
+
+                    GENERAL PROVISION--THIS CHAPTER
+
+       Sec. 3201. Funds provided in this Act for the ``Department 
+     of Justice, Federal Bureau of Investigation, Salaries and 
+     Expenses'', shall be made available according to the language 
+     relating to such account in the joint explanatory statement 
+     accompanying the conference report on H.R. 1591 of the 110th 
+     Congress (H. Rept. 110-107).
+
+                               CHAPTER 3
+
+                    DEPARTMENT OF DEFENSE--MILITARY
+
+                           MILITARY PERSONNEL
+
+                        Military Personnel, Army
+
+       For an additional amount for ``Military Personnel, Army'', 
+     $343,080,000.
+
+[[Page 14195]]
+
+
+
+                        Military Personnel, Navy
+
+       For an additional amount for ``Military Personnel, Navy'', 
+     $408,283,000.
+
+                    Military Personnel, Marine Corps
+
+       For an additional amount for ``Military Personnel, Marine 
+     Corps'', $108,956,000.
+
+                     Military Personnel, Air Force
+
+       For an additional amount for ``Military Personnel, Air 
+     Force'', $139,300,000.
+
+                        Reserve Personnel, Navy
+
+       For an additional amount for ``Reserve Personnel, Navy'', 
+     $8,223,000.
+
+                    Reserve Personnel, Marine Corps
+
+       For an additional amount for ``Reserve Personnel, Marine 
+     Corps'', $5,660,000.
+
+                      Reserve Personnel, Air Force
+
+       For an additional amount for ``Reserve Personnel, Air 
+     Force'', $6,073,000.
+
+                     National Guard Personnel, Army
+
+       For an additional amount for ``National Guard Personnel, 
+     Army'', $109,261,000.
+
+                  National Guard Personnel, Air Force
+
+       For an additional amount for ``National Guard Personnel, 
+     Air Force'', $19,533,000.
+
+                       OPERATION AND MAINTENANCE
+
+                    Operation and Maintenance, Navy
+
+       For an additional amount for ``Operation and Maintenance, 
+     Navy'', $24,000,000.
+
+                    Strategic Reserve Readiness Fund
+
+
+                     (including transfer of funds)
+
+       In addition to amounts provided in this or any other Act, 
+     for training, operations, repair of equipment, purchases of 
+     equipment, and other expenses related to improving the 
+     readiness of non-deployed United States military forces, 
+     $1,615,000,000, to remain available until September 30, 2009; 
+     of which $1,000,000,000 shall be transferred to ``National 
+     Guard and Reserve Equipment'' for the purchase of equipment 
+     for the Army National Guard; and of which $615,000,000 shall 
+     be transferred by the Secretary of Defense only to 
+     appropriations for military personnel, operation and 
+     maintenance, procurement, and defense working capital funds 
+     to accomplish the purposes provided herein: Provided, That 
+     the funds transferred shall be merged with and shall be 
+     available for the same purposes and for the same time period 
+     as the appropriation to which transferred: Provided further, 
+     That the Secretary of Defense shall, not fewer than 30 days 
+     prior to making transfers under this authority, notify the 
+     congressional defense committees in writing of the details of 
+     any such transfers made pursuant to this authority: Provided 
+     further, That funds shall be transferred to the appropriation 
+     accounts not later than 120 days after the enactment of this 
+     Act: Provided further, That the transfer authority provided 
+     in this paragraph is in addition to any other transfer 
+     authority available to the Department of Defense: Provided 
+     further, That upon a determination that all or part of the 
+     funds transferred from this appropriation are not necessary 
+     for the purposes provided herein, such amounts may be 
+     transferred back to this appropriation.
+
+                              PROCUREMENT
+
+                        Other Procurement, Army
+
+       For an additional amount for ``Other Procurement, Army'', 
+     $1,217,000,000, to remain available until September 30, 2009: 
+     Provided, That the amount provided under this heading shall 
+     be available only for the purchase of mine resistant ambush 
+     protected vehicles.
+
+                        Other Procurement, Navy
+
+       For an additional amount for ''Other Procurement, Navy'', 
+     $130,040,000, to remain available until September 30, 2009: 
+     Provided, That the amount provided under this heading shall 
+     be available only for the purchase of mine resistant ambush 
+     protected vehicles.
+
+                       Procurement, Marine Corps
+
+       For an additional amount for ``Procurement, Marine Corps'', 
+     $1,263,360,000, to remain available until September 30, 2009: 
+     Provided, That the amount provided under this heading shall 
+     be available only for the purchase of mine resistant ambush 
+     protected vehicles.
+
+                      Other Procurement, Air Force
+
+       For an additional amount for ``Other Procurement, Air 
+     Force'', $139,040,000, to remain available until September 
+     30, 2009: Provided, That the amount provided under this 
+     heading shall be available only for the purchase of mine 
+     resistant ambush protected vehicles.
+
+                       Procurement, Defense-Wide
+
+       For an additional amount for ``Procurement, Defense-Wide'', 
+     $258,860,000, to remain available until September 30, 2009: 
+     Provided, That the amount provided under this heading shall 
+     be available only for the purchase of mine resistant ambush 
+     protected vehicles.
+
+                  OTHER DEPARTMENT OF DEFENSE PROGRAMS
+
+                         Defense Health Program
+
+
+                     (including transfer of funds)
+
+       For an additional amount for ``Defense Health Program'', 
+     $1,878,706,000; of which $1,429,006,000 shall be for 
+     operation and maintenance, including $600,000,000 which shall 
+     be available for the treatment of traumatic brain injury and 
+     post-traumatic stress disorder and remain available until 
+     September 30, 2008; of which $118,000,000 shall be for 
+     procurement, to remain available until September 30, 2009; 
+     and of which $331,700,000 shall be for research, development, 
+     test and evaluation, to remain available until September 30, 
+     2008: Provided, That if the Secretary of Defense determines 
+     that funds made available in this paragraph for the treatment 
+     of traumatic brain injury and post-traumatic stress disorder 
+     are in excess of the requirements of the Department of 
+     Defense, the Secretary may transfer amounts in excess of that 
+     requirement to the Department of Veterans Affairs to be 
+     available only for the same purpose.
+
+                    GENERAL PROVISIONS--THIS CHAPTER
+
+       Sec. 3301. None of the funds appropriated or otherwise made 
+     available by this or any other Act shall be obligated or 
+     expended by the United States Government for a purpose as 
+     follows:
+       (1) To establish any military installation or base for the 
+     purpose of providing for the permanent stationing of United 
+     States Armed Forces in Iraq.
+       (2) To exercise United States control over any oil resource 
+     of Iraq.
+       Sec. 3302. None of the funds made available in this Act may 
+     be used in contravention of the following laws enacted or 
+     regulations promulgated to implement the United Nations 
+     Convention Against Torture and Other Cruel, Inhuman or 
+     Degrading Treatment or Punishment (done at New York on 
+     December 10, 1984)--
+       (1) section 2340A of title 18, United States Code;
+       (2) section 2242 of the Foreign Affairs Reform and 
+     Restructuring Act of 1998 (division G of Public Law 105-277; 
+     112 Stat. 2681-822; 8 U.S.C. 1231 note) and regulations 
+     prescribed thereto, including regulations under part 208 of 
+     title 8, Code of Federal Regulations, and part 95 of title 
+     22, Code of Federal Regulations; and
+       (3) sections 1002 and 1003 of the Department of Defense, 
+     Emergency Supplemental Appropriations to Address Hurricanes 
+     in the Gulf of Mexico, and Pandemic Influenza Act, 2006 
+     (Public Law 109-148).
+       Sec. 3303. (a) Report by Secretary of Defense.--Not later 
+     than 30 days after the date of the enactment of this Act, the 
+     Secretary of Defense shall submit to the congressional 
+     defense committees a report that contains individual 
+     transition readiness assessments by unit of Iraq and Afghan 
+     security forces. The Secretary of Defense shall submit to the 
+     congressional defense committees updates of the report 
+     required by this subsection every 90 days after the date of 
+     the submission of the report until October 1, 2008. The 
+     report and updates of the report required by this subsection 
+     shall be submitted in classified form.
+       (b) Report by OMB.--
+       (1) The Director of the Office of Management and Budget, in 
+     consultation with the Secretary of Defense; the Commander, 
+     Multi-National Security Transition Command--Iraq; and the 
+     Commander, Combined Security Transition Command--Afghanistan, 
+     shall submit to the congressional defense committees not 
+     later than 120 days after the date of the enactment of this 
+     Act and every 90 days thereafter a report on the proposed use 
+     of all funds under each of the headings ``Iraq Security 
+     Forces Fund'' and ``Afghanistan Security Forces Fund'' on a 
+     project-by-project basis, for which the obligation of funds 
+     is anticipated during the three-month period from such date, 
+     including estimates by the commanders referred to in this 
+     paragraph of the costs required to complete each such 
+     project.
+       (2) The report required by this subsection shall include 
+     the following:
+       (A) The use of all funds on a project-by-project basis for 
+     which funds appropriated under the headings referred to in 
+     paragraph (1) were obligated prior to the submission of the 
+     report, including estimates by the commanders referred to in 
+     paragraph (1) of the costs to complete each project.
+       (B) The use of all funds on a project-by-project basis for 
+     which funds were appropriated under the headings referred to 
+     in paragraph (1) in prior appropriations Acts, or for which 
+     funds were made available by transfer, reprogramming, or 
+     allocation from other headings in prior appropriations Acts, 
+     including estimates by the commanders referred to in 
+     paragraph (1) of the costs to complete each project.
+       (C) An estimated total cost to train and equip the Iraq and 
+     Afghan security forces, disaggregated by major program and 
+     sub-elements by force, arrayed by fiscal year.
+       (c) Notification.--The Secretary of Defense shall notify 
+     the congressional defense committees of any proposed new 
+     projects or transfers of funds between sub-activity groups in 
+     excess of $15,000,000 using funds appropriated by this Act 
+     under the headings ``Iraq Security Forces Fund'' and 
+     ``Afghanistan Security Forces Fund''.
+       Sec. 3304. None of the funds appropriated or otherwise made 
+     available by this Act may be obligated or expended to provide 
+     award fees to any defense contractor contrary to the 
+     provisions of section 814 of the National Defense 
+     Authorization Act, Fiscal Year 2007 (Public Law 109-364).
+       Sec. 3305. Not more than 85 percent of the funds 
+     appropriated to the Department of Defense in this Act for 
+     operation and maintenance shall be available for obligation 
+     unless and until the Secretary of Defense submits to the 
+     congressional defense committees a
+
+[[Page 14196]]
+
+     report detailing the use of Department of Defense funded 
+     service contracts conducted in the theater of operations in 
+     support of United States military and reconstruction 
+     activities in Iraq and Afghanistan: Provided, That the report 
+     shall provide detailed information specifying the number of 
+     contracts and contract costs used to provide services in 
+     fiscal year 2006, with sub-allocations by major service 
+     categories: Provided further, That the report also shall 
+     include estimates of the number of contracts to be executed 
+     in fiscal year 2007: Provided further, That the report shall 
+     include the number of contractor personnel in Iraq and 
+     Afghanistan funded by the Department of Defense: Provided 
+     further, That the report shall be submitted to the 
+     congressional defense committees not later than August 1, 
+     2007.
+       Sec. 3306. Section 1477 of title 10, United States Code, is 
+     amended--
+       (1) in subsection (a), by striking ``A death gratuity'' and 
+     inserting ``Subject to subsection (d), a death gratuity'';
+       (2) by redesignating subsection (d) as subsection (e) and, 
+     in such subsection, by striking ``If an eligible survivor 
+     dies before he'' and inserting ``If a person entitled to all 
+     or a portion of a death gratuity under subsection (a) or (d) 
+     dies before the person''; and
+       (3) by inserting after subsection (c) the following new 
+     subsection (d):
+       ``(d) During the period beginning on the date of the 
+     enactment of this subsection and ending on September 30, 
+     2007, a person covered by section 1475 or 1476 of this title 
+     may designate another person to receive not more than 50 
+     percent of the amount payable under section 1478 of this 
+     title. The designation shall indicate the percentage of the 
+     amount, to be specified only in 10 percent increments up to 
+     the maximum of 50 percent, that the designated person may 
+     receive. The balance of the amount of the death gratuity 
+     shall be paid to or for the living survivors of the person 
+     concerned in accordance with paragraphs (1) through (5) of 
+     subsection (a).''.
+       Sec. 3307. (a) Inspection of Military Medical Treatment 
+     Facilities, Military Quarters Housing Medical Hold Personnel, 
+     and Military Quarters Housing Medical Holdover Personnel.--
+       (1) In general.--Not later than 180 days after the date of 
+     the enactment of this Act, and annually thereafter, the 
+     Secretary of Defense shall inspect each facility of the 
+     Department of Defense as follows:
+       (A) Each military medical treatment facility.
+       (B) Each military quarters housing medical hold personnel.
+       (C) Each military quarters housing medical holdover 
+     personnel.
+       (2) Purpose.--The purpose of an inspection under this 
+     subsection is to ensure that the facility or quarters 
+     concerned meets acceptable standards for the maintenance and 
+     operation of medical facilities, quarters housing medical 
+     hold personnel, or quarters housing medical holdover 
+     personnel, as applicable.
+       (b) Acceptable Standards.--For purposes of this section, 
+     acceptable standards for the operation and maintenance of 
+     military medical treatment facilities, military quarters 
+     housing medical hold personnel, or military quarters housing 
+     medical holdover personnel are each of the following:
+       (1) Generally accepted standards for the accreditation of 
+     medical facilities, or for facilities used to quarter 
+     individuals with medical conditions that may require medical 
+     supervision, as applicable, in the United States.
+       (2) Where appropriate, standards under the Americans with 
+     Disabilities Act of 1990 (42 U.S.C. 12101 et seq.).
+       (c) Additional Inspections on Identified Deficiencies.--
+       (1) In general.--In the event a deficiency is identified 
+     pursuant to subsection (a) at a facility or quarters 
+     described in paragraph (1) of that subsection--
+       (A) the commander of such facility or quarters, as 
+     applicable, shall submit to the Secretary a detailed plan to 
+     correct the deficiency; and
+       (B) the Secretary shall reinspect such facility or 
+     quarters, as applicable, not less often than once every 180 
+     days until the deficiency is corrected.
+       (2) Construction with other inspections.--An inspection of 
+     a facility or quarters under this subsection is in addition 
+     to any inspection of such facility or quarters under 
+     subsection (a).
+       (d) Reports on Inspections.--A complete copy of the report 
+     on each inspection conducted under subsections (a) and (c) 
+     shall be submitted in unclassified form to the applicable 
+     military medical command and to the congressional defense 
+     committees.
+       (e) Report on Standards.--In the event no standards for the 
+     maintenance and operation of military medical treatment 
+     facilities, military quarters housing medical hold personnel, 
+     or military quarters housing medical holdover personnel exist 
+     as of the date of the enactment of this Act, or such 
+     standards as do exist do not meet acceptable standards for 
+     the maintenance and operation of such facilities or quarters, 
+     as the case may be, the Secretary shall, not later than 30 
+     days after that date, submit to the congressional defense 
+     committees a report setting forth the plan of the Secretary 
+     to ensure--
+       (1) the adoption by the Department of standards for the 
+     maintenance and operation of military medical facilities, 
+     military quarters housing medical hold personnel, or military 
+     quarters housing medical holdover personnel, as applicable, 
+     that meet--
+       (A) acceptable standards for the maintenance and operation 
+     of such facilities or quarters, as the case may be; and
+       (B) where appropriate, standards under the Americans with 
+     Disabilities Act of 1990; and
+       (2) the comprehensive implementation of the standards 
+     adopted under paragraph (1) at the earliest date practicable.
+       Sec. 3308. (a) Award of Medal of Honor to Woodrow W. Keeble 
+     for Valor During Korean War.--Notwithstanding any applicable 
+     time limitation under section 3744 of title 10, United States 
+     Code, or any other time limitation with respect to the award 
+     of certain medals to individuals who served in the Armed 
+     Forces, the President may award to Woodrow W. Keeble the 
+     Medal of Honor under section 3741 of that title for the acts 
+     of valor described in subsection (b).
+       (b) Acts of Valor.--The acts of valor referred to in 
+     subsection (a) are the acts of Woodrow W. Keeble, then-acting 
+     platoon leader, carried out on October 20, 1951, during the 
+     Korean War.
+
+
+                          (TRANSFER OF FUNDS)
+
+       Sec. 3309. Of the amount appropriated under the heading 
+     ``Other Procurement, Army'', in title III of division A of 
+     Public Law 109-148, $6,250,000 shall be transferred to 
+     ``Military Construction, Army''.
+       Sec. 3310. The Secretary of Defense, notwithstanding any 
+     other provision of law, acting through the Office of Economic 
+     Adjustment or the Office of Dependents Education of the 
+     Department of Defense, shall use not less than $10,000,000 of 
+     funds made available in this Act under the heading 
+     ``Operation and Maintenance, Defense-Wide'' to make grants 
+     and supplement other Federal funds to provide special 
+     assistance to local education agencies.
+       Sec. 3311. Congress finds that United States military units 
+     should not enter into combat unless they are fully capable of 
+     performing their assigned mission. Congress further finds 
+     that this is the policy of the Department of Defense. The 
+     Secretary of Defense shall notify Congress of any changes to 
+     this policy.
+
+                               CHAPTER 4
+
+                          DEPARTMENT OF ENERGY
+
+                    ATOMIC ENERGY DEFENSE ACTIVITIES
+
+                National Nuclear Security Administration
+
+
+                    Defense Nuclear Nonproliferation
+
+       For an additional amount for ``Defense Nuclear 
+     Nonproliferation'', $72,000,000 is provided for the 
+     International Nuclear Materials Protection and Cooperation 
+     Program, to remain available until expended.
+
+                    GENERAL PROVISION--THIS CHAPTER
+
+
+                          (TRANSFER OF FUNDS)
+
+       Sec. 3401. The Administrator of the National Nuclear 
+     Security Administration is authorized to transfer up to 
+     $1,000,000 from Defense Nuclear Nonproliferation to the 
+     Office of the Administrator during fiscal year 2007 
+     supporting nuclear nonproliferation activities.
+
+                               CHAPTER 5
+
+                    DEPARTMENT OF HOMELAND SECURITY
+
+                        Analysis and Operations
+
+       For an additional amount for ``Analysis and Operations'', 
+     $8,000,000, to remain available until September 30, 2008, to 
+     be used for support of the State and Local Fusion Center 
+     program: Provided, That starting July 1, 2007, the Secretary 
+     of Homeland Security shall submit quarterly reports to the 
+     Committees on Appropriations of the Senate and the House of 
+     Representatives detailing the information required in House 
+     Report 110-107.
+
+              United States Customs and Border Protection
+
+
+                         SALARIES AND EXPENSES
+
+                     (INCLUDING TRANSFER OF FUNDS)
+
+       For an additional amount for ``Salaries and Expenses'', 
+     $75,000,000, to remain available until September 30, 2008, to 
+     support hiring not less than 400 additional United States 
+     Customs and Border Protection Officers, as well as additional 
+     intelligence analysts, trade specialists, and support staff 
+     to target and screen U.S.-bound cargo on the Northern Border, 
+     at overseas locations, and at the National Targeting Center; 
+     to support hiring additional staffing required for Northern 
+     Border Air and Marine operations; to implement Security and 
+     Accountability For Every Port Act of 2006 (Public Law 109-
+     347) requirements; to advance the goals of the Secure Freight 
+     Initiative to improve significantly the ability of United 
+     States Customs and Border Protection to target and analyze 
+     U.S.-bound cargo containers; to expand overseas screening and 
+     physical inspection capacity for U.S.-bound cargo; to procure 
+     and integrate non-intrusive inspection equipment into 
+     inspection and radiation detection operations; and to improve 
+     supply chain security, to include enhanced analytic and 
+     targeting systems using data collected via commercial and 
+     government technologies and databases: Provided, That up to 
+     $3,000,000 shall be transferred to Federal Law Enforcement 
+     Training Center ``Salaries and Expenses'', for basic training 
+     costs associated with the additional personnel funded under 
+     this heading: Provided further, That the Secretary shall 
+     submit an expenditure plan for
+
+[[Page 14197]]
+
+     the use of these funds to the Committees on Appropriations of 
+     the Senate and the House of Representatives no later than 30 
+     days after enactment of this Act: Provided further, That the 
+     Secretary shall notify the Committees on Appropriations of 
+     the Senate and the House of Representatives immediately if 
+     United States Customs and Border Protection does not expect 
+     to achieve its plan of having at least 1,158 Border Patrol 
+     agents permanently deployed to the Northern Border by the end 
+     of fiscal year 2007, and explain in detail the reasons for 
+     any shortfall.
+
+
+ Air and Marine Interdiction, Operations, Maintenance, and Procurement
+
+       For an additional amount for ``Air and Marine Interdiction, 
+     Operations, Maintenance, and Procurement'', for air and 
+     marine operations on the Northern Border, including the final 
+     Northern Border air wing, $75,000,000, to remain available 
+     until September 30, 2008, to accelerate planned deployment of 
+     Northern Border Air and Marine operations, including 
+     establishment of the final Northern Border airwing, 
+     procurement of assets such as fixed wing aircraft, 
+     helicopters, unmanned aerial systems, marine and riverine 
+     vessels, and other equipment, relocation of aircraft, site 
+     acquisition, and the design and building of facilities: 
+     Provided, That the Secretary shall submit an expenditure plan 
+     for the use of these funds to the Committees on 
+     Appropriations of the Senate and the House of Representatives 
+     no later than 30 days after enactment of this Act.
+
+           United States Immigration and Customs Enforcement
+
+
+                         Salaries and Expenses
+
+       For an additional amount for ``Salaries and Expenses'', 
+     $6,000,000, to remain available until September 30, 2008; of 
+     which $5,000,000 shall be for the creation of a security 
+     advisory opinion unit within the Visa Security Program; and 
+     of which $1,000,000 shall be for the Human Smuggling and 
+     Trafficking Center.
+
+                 Transportation Security Administration
+
+
+                           Aviation Security
+
+       For an additional amount for ``Aviation Security'', 
+     $390,000,000; of which $285,000,000 shall be for procurement 
+     and installation of checked baggage explosives detection 
+     systems, to remain available until expended; of which 
+     $25,000,000 shall be for checkpoint explosives detection 
+     equipment and pilot screening technologies, to remain 
+     available until expended; and of which $80,000,000 shall be 
+     for air cargo security, to remain available until September 
+     30, 2009: Provided, That of the air cargo funding made 
+     available under this heading, the Transportation Security 
+     Administration shall hire no fewer than 150 additional air 
+     cargo inspectors to establish a more robust enforcement and 
+     compliance program; complete air cargo vulnerability 
+     assessments for all Category X airports; expand the National 
+     Explosives Detection Canine Program by no fewer than 170 
+     additional canine teams, including the use of agency led 
+     teams; pursue canine screening methods utilized 
+     internationally that focus on air samples; and procure and 
+     install explosive detection systems, explosive trace 
+     machines, and other technologies to screen air cargo: 
+     Provided further, That no later than 90 days after the date 
+     of enactment of this Act, the Secretary shall provide the 
+     Committees on Appropriations of the Senate and the House of 
+     Representatives an expenditure plan detailing how the 
+     Transportation Security Administration will utilize funding 
+     provided under this heading.
+
+
+                          Federal Air Marshals
+
+       For an additional amount for ``Federal Air Marshals'', 
+     $5,000,000, to remain available until September 30, 2008: 
+     Provided, That no later than 30 days after enactment of this 
+     Act, the Secretary shall provide the Committees on 
+     Appropriations of the Senate and the House of Representatives 
+     a report on how these additional funds will be allocated.
+
+                    National Protection and Programs
+
+
+           Infrastructure Protection and Information Security
+
+       For an additional amount for ``Infrastructure Protection 
+     and Information Security'', $24,000,000, to remain available 
+     until September 30, 2008; of which $12,000,000 shall be for 
+     development of State and local interoperability plans as 
+     discussed in House Report 110-107; and of which $12,000,000 
+     shall be for implementation of chemical facility security 
+     regulations: Provided, That within 30 days of the date of 
+     enactment of this Act the Secretary of Homeland Security 
+     shall submit to the Committees on Appropriations of the 
+     Senate and the House of Representatives detailed expenditure 
+     plans for execution of these funds: Provided further, That 
+     within 30 days of the date of enactment of this Act, the 
+     Secretary of Homeland Security shall submit to the Committees 
+     on Appropriations of the Senate and the House of 
+     Representatives a report on the computer forensics training 
+     center detailing the information required in House Report 
+     110-107.
+
+                        Office of Health Affairs
+
+       For expenses for the ``Office of Health Affairs'', 
+     $8,000,000, to remain available until September 30, 2008: 
+     Provided, That of the amount made available under this 
+     heading, $5,500,000 is for nuclear event public health 
+     assessment and planning: Provided further, That the Office of 
+     Health Affairs shall conduct a nuclear event public health 
+     assessment as described in House Report 110-107: Provided 
+     further, That none of the funds made available under this 
+     heading may be obligated until the Committees on 
+     Appropriations of the Senate and the House of Representatives 
+     receive a plan for expenditure.
+
+                  Federal Emergency Management Agency
+
+
+                     Management and Administration
+
+       For expenses for management and administration of the 
+     Federal Emergency Management Agency (``FEMA''), $14,000,000, 
+     to remain available until September 30, 2008: Provided, That 
+     of the amount made available under this heading, $6,000,000 
+     shall be for financial and information systems, $2,500,000 
+     shall be for interstate mutual aid agreements, $2,500,000 
+     shall be for FEMA Regional Office communication equipment, 
+     $2,500,000 shall be for FEMA strike teams, and $500,000 shall 
+     be for the Law Enforcement Liaison Office, the Disability 
+     Coordinator and the National Advisory Council: Provided 
+     futher, That none of such funds made available under this 
+     heading may be obligated until the Committees on 
+     Appropriations of the Senate and the House of Representatives 
+     receive and approve a plan for expenditure: Provided further, 
+     That unobligated amounts in the ``Administrative and Regional 
+     Operations'' and ``Readiness, Mitigation, Response, and 
+     Recovery'' accounts shall be transferred to ``Management and 
+     Administration'' and may be used for any purpose authorized 
+     for such amounts and subject to limitation on the use of such 
+     amounts.
+
+
+                        State and Local Programs
+
+       For an additional amount for ``State and Local Programs'', 
+     $247,000,000; of which $110,000,000 shall be for port 
+     security grants pursuant to section 70107(l) of title 46, 
+     United States Code to be awarded by September 30, 2007 to 
+     tier 1, 2, 3, and 4 ports; of which $100,000,000 shall be for 
+     intercity rail passenger transportation, freight rail, and 
+     transit security grants to be awarded by September 30, 2007; 
+     of which $35,000,000 shall be for regional grants and 
+     regional technical assistance to tier one Urban Area Security 
+     Initiative cities and other participating governments for the 
+     purpose of developing all-hazard regional catastrophic event 
+     plans and preparedness, as described in House Report 110-107; 
+     and of which $2,000,000 shall be for technical assistance for 
+     operation and maintenance training on detection and response 
+     equipment that must be competitively awarded: Provided, That 
+     none of the funds made available under this heading may be 
+     obligated for such regional grants and regional technical 
+     assistance until the Committees on Appropriations of the 
+     Senate and the House of Representatives receive and approve a 
+     plan for expenditure: Provided further, That the Federal 
+     Emergency Management Agency shall provide the regional grants 
+     and regional technical assistance expenditure plan to the 
+     Committees on Appropriations of the Senate and the House of 
+     Representatives on or before August 1, 2007: Provided 
+     further, That funds for such regional grants and regional 
+     technical assistance shall remain available until September 
+     30, 2008.
+
+
+                EMERGENCY MANAGEMENT PERFORMANCE GRANTS
+
+       For an additional amount for ``Emergency Management 
+     Performance Grants'', $50,000,000.
+
+           United States Citizenship and Immigration Services
+
+       For an additional amount for expenses of ``United States 
+     Citizenship and Immigration Services'' to address backlogs of 
+     security checks associated with pending applications and 
+     petitions, $8,000,000, to remain available until September 
+     30, 2008: Provided, That none of the funds made available 
+     under this heading shall be available for obligation until 
+     the Secretary of Homeland Security, in consultation with the 
+     United States Attorney General, submits to the Committees on 
+     Appropriations of the Senate and the House of Representatives 
+     a plan to eliminate the backlog of security checks that 
+     establishes information sharing protocols to ensure United 
+     States Citizenship and Immigration Services has the 
+     information it needs to carry out its mission.
+
+                         Science and Technology
+
+
+           Research, Development, Acquisition, and Operations
+
+       For an additional amount for ``Research, Development, 
+     Acquisition, and Operations'' for air cargo security 
+     research, $5,000,000, to remain available until expended.
+
+                   Domestic Nuclear Detection Office
+
+
+                 Research, Development, and Operations
+
+       For an additional amount for ``Research, Development, and 
+     Operations'' for non-container, rail, aviation and intermodal 
+     radiation detection activities, $35,000,000, to remain 
+     available until expended: Provided, That $5,000,000 is to 
+     enhance detection links between seaports and railroads as 
+     authorized in section 121(i) of the Security and 
+     Accountability For Every Port Act of 2006 (Public Law 109-
+     347); $8,000,000 is to accelerate development and deployment 
+     of detection systems at international rail border crossings; 
+     and $22,000,000 is for development and deployment of a 
+     variety of screening technologies at aviation facilities.
+
+[[Page 14198]]
+
+
+
+
+                          SYSTEMS ACQUISITION
+
+       For an additional amount for ``Systems Acquisition'', 
+     $100,000,000, to remain available until expended: Provided, 
+     That none of the funds appropriated under this heading shall 
+     be obligated for full scale procurement of Advanced 
+     Spectroscopic Portal Monitors until the Secretary of Homeland 
+     Security has certified through a report to the Committees on 
+     Appropriations of the Senate and the House of Representatives 
+     that a significant increase in operational effectiveness will 
+     be achieved.
+
+                    GENERAL PROVISIONS--THIS CHAPTER
+
+       Sec. 3501. None of the funds provided in this Act, or 
+     Public Law 109-295, shall be available to carry out section 
+     872 of Public Law 107-296.
+       Sec. 3502. The Secretary of Homeland Security shall require 
+     that all contracts of the Department of Homeland Security 
+     that provide award fees link such fees to successful 
+     acquisition outcomes (which outcomes shall be specified in 
+     terms of cost, schedule, and performance).
+
+                               CHAPTER 6
+
+                           LEGISLATIVE BRANCH
+
+                        HOUSE OF REPRESENTATIVES
+
+                         Salaries and Expenses
+
+       For an additional amount for ``Salaries and Expenses'', 
+     $6,437,000, as follows:
+
+                        Allowances and Expenses
+
+       For an additional amount for allowances and expenses as 
+     authorized by House resolution or law, $6,437,000 for 
+     business continuity and disaster recovery, to remain 
+     available until expended.
+
+                    GOVERNMENT ACCOUNTABILITY OFFICE
+
+                         Salaries and Expenses
+
+       For an additional amount for ``Salaries and Expenses'' of 
+     the Government Accountability Office, $374,000, to remain 
+     available until September 30, 2008.
+
+                               CHAPTER 7
+
+                         DEPARTMENT OF DEFENSE
+
+            Department of Defense Base Closure Account 2005
+
+       For deposit into the Department of Defense Base Closure 
+     Account 2005, established by section 2906A(a)(1) of the 
+     Defense Base Closure and Realignment Act of 1990 (10 U.S.C. 
+     2687 note), $3,136,802,000, to remain available until 
+     expended: Provided, That within 30 days of the enactment of 
+     this Act, the Secretary of Defense shall submit a detailed 
+     spending plan to the Committees on Appropriations of the 
+     House of Representatives and the Senate.
+
+                    GENERAL PROVISIONS--THIS CHAPTER
+
+       Sec. 3701. Notwithstanding any other provision of law, none 
+     of the funds in this or any other Act may be used to close 
+     Walter Reed Army Medical Center until equivalent medical 
+     facilities at the Walter Reed National Military Medical 
+     Center at Naval Medical Center, Bethesda, Maryland, and/or 
+     the Fort Belvoir, Virginia, Community Hospital have been 
+     constructed and equipped: Provided, That to ensure that the 
+     quality of care provided by the Military Health System is not 
+     diminished during this transition, the Walter Reed Army 
+     Medical Center shall be adequately funded, to include 
+     necessary renovation and maintenance of existing facilities, 
+     to maintain the maximum level of inpatient and outpatient 
+     services.
+       Sec. 3702. Notwithstanding any other provision of law, none 
+     of the funds in this or any other Act shall be used to 
+     reorganize or relocate the functions of the Armed Forces 
+     Institute of Pathology (AFIP) until the Secretary of Defense 
+     has submitted, not later than December 31, 2007, a detailed 
+     plan and timetable for the proposed reorganization and 
+     relocation to the Committees on Appropriations and Armed 
+     Services of the Senate and House of Representatives. The plan 
+     shall take into consideration the recommendations of a study 
+     being prepared by the Government Accountability Office (GAO), 
+     provided that such study is available not later than 45 days 
+     before the date specified in this section, on the impact of 
+     dispersing selected functions of AFIP among several 
+     locations, and the possibility of consolidating those 
+     functions at one location. The plan shall include an analysis 
+     of the options for the location and operation of the Program 
+     Management Office for second opinion consults that are 
+     consistent with the recommendations of the Base Realignment 
+     and Closure Commission, together with the rationale for the 
+     option selected by the Secretary.
+       Sec. 3703. The Secretary of the Navy shall, notwithstanding 
+     any other provision of law, transfer to the Secretary of the 
+     Air Force, at no cost, all lands, easements, Air Installation 
+     Compatible Use Zones, and facilities at NASJRB Willow Grove 
+     designated for operation as a Joint Interagency Installation 
+     for use by the Pennsylvania National Guard and other 
+     Department of Defense components, government agencies, and 
+     associated users to perform national defense, homeland 
+     security, and emergency preparedness missions.
+
+                               CHAPTER 8
+
+                 DEPARTMENT OF STATE AND RELATED AGENCY
+
+                          DEPARTMENT OF STATE
+
+                   Administration of Foreign Affairs
+
+
+                    DIPLOMATIC AND CONSULAR PROGRAMS
+
+                     (INCLUDING TRANSFER OF FUNDS)
+
+       For an additional amount for ``Diplomatic and Consular 
+     Programs'', $34,103,000, to remain available until September 
+     30, 2008, of which $31,845,000 for World Wide Security 
+     Upgrades is available until expended: Provided, That of the 
+     amount available under this heading, $258,000 shall be 
+     transferred to, and merged with, funds available in fiscal 
+     year 2007 for expenses for the United States Commission on 
+     International Religious Freedom: Provided further, That 
+     within 15 days of enactment of this Act, the Office of 
+     Management and Budget shall apportion $15,000,000 from 
+     amounts appropriated or otherwise made available by chapter 8 
+     of title II of division B of Public Law 109-148 under the 
+     heading ``Emergencies in the Diplomatic and Consular 
+     Service'' to reimburse expenditures from that account in 
+     facilitating the evacuation of persons from Lebanon between 
+     July 16, 2006 and the date of enactment of this Act.
+
+
+                    OFFICE OF THE INSPECTOR GENERAL
+
+       For an additional amount for ``Office of Inspector 
+     General'', $1,500,000, to remain available until December 31, 
+     2008.
+
+                      International Organizations
+
+
+              Contributions to International Organizations
+
+       For an additional amount for ``Contributions to 
+     International Organizations'', $50,000,000, to remain 
+     available until September 30, 2008.
+
+                     BILATERAL ECONOMIC ASSISTANCE
+
+                  Funds Appropriated to the President
+
+
+           United States Agency for International Development
+
+              International Disaster and Famine Assistance
+
+       For an additional amount for ``International Disaster and 
+     Famine Assistance'', $60,000,000, to remain available until 
+     expended.
+
+
+   OPERATING EXPENSES OF THE UNITED STATES AGENCY FOR INTERNATIONAL 
+                              DEVELOPMENT
+
+       For an additional amount for ``Operating Expenses of the 
+     United States Agency for International Development'', 
+     $3,000,000, to remain available until September 30, 2008.
+
+
+   OPERATING EXPENSES OF THE UNITED STATES AGENCY FOR INTERNATIONAL 
+                DEVELOPMENT OFFICE OF INSPECTOR GENERAL
+
+       For an additional amount for ``Operating Expenses of the 
+     United States Agency for International Development Office of 
+     Inspector General'', $3,500,000, to remain available until 
+     September 30, 2008.
+
+                  Other Bilateral Economic Assistance
+
+
+                         Economic Support Fund
+
+       For an additional amount for ``Economic Support Fund'', 
+     $122,300,000, to remain available until September 30, 2008.
+
+                          Department of State
+
+
+                             DEMOCRACY FUND
+
+       For an additional amount for ``Democracy Fund'', 
+     $5,000,000, to remain available until September 30, 2008.
+
+
+          INTERNATIONAL NARCOTICS CONTROL AND LAW ENFORCEMENT
+
+                    (INCLUDING RESCISSION OF FUNDS)
+
+       For an additional amount for ``International Narcotics 
+     Control and Law Enforcement'', $42,000,000, to remain 
+     available until September 30, 2008.
+       Of the amounts made available for procurement of a maritime 
+     patrol aircraft for the Colombian Navy under this heading in 
+     Public Law 109-234, $13,000,000 are rescinded.
+
+
+                    Migration and Refugee Assistance
+
+       For an additional amount for ``Migration and Refugee 
+     Assistance'', $59,000,000, to remain available until 
+     September 30, 2008.
+
+
+     United States Emergency Refugee and Migration Assistance Fund
+
+       For an additional amount for ``United States Emergency 
+     Refugee and Migration Assistance Fund'', $25,000,000, to 
+     remain available until expended.
+
+
+    Nonproliferation, Anti-terrorism, Demining and Related Programs
+
+       For an additional amount for ``Nonproliferation, Anti-
+     Terrorism, Demining and Related Programs'', $30,000,000, to 
+     remain available until September 30, 2008.
+
+                          MILITARY ASSISTANCE
+
+                  Funds Appropriated to the President
+
+
+                   Foreign Military Financing Program
+
+       For an additional amount for ``Foreign Military Financing 
+     Program'', $45,000,000, to remain available until September 
+     30, 2008.
+
+
+                        Peacekeeping Operations
+
+       For an additional amount for ``Peacekeeping Operations'', 
+     $40,000,000, to remain available until September 30, 2008: 
+     Provided, That funds appropriated under this heading shall be 
+     made available, notwithstanding section 660 of the Foreign 
+     Assistance Act of 1961, for assistance for Liberia for 
+     security sector reform.
+
+                    GENERAL PROVISIONS--THIS CHAPTER
+
+
+                    EXTENSION OF OVERSIGHT AUTHORITY
+
+       Sec. 3801. Section 3001(o)(1)(B) of the Emergency 
+     Supplemental Appropriations Act for Defense and for the 
+     Reconstruction of Iraq and Afghanistan, 2004 (Public Law 108-
+     106; 117 Stat. 1238; 5 U.S.C. App., note to section 8G of 
+     Public Law 95-452), as amended by section 1054(b) of the John 
+     Warner National Defense Authorization Act for Fiscal Year 
+     2007
+
+[[Page 14199]]
+
+     (Public Law 109-364; 120 Stat. 2397) and section 2 of the 
+     Iraq Reconstruction Accountability Act of 2006 (Public Law 
+     109-440), is amended by inserting ``or fiscal year 2007'' 
+     after ``fiscal year 2006''.
+
+
+                                lebanon
+
+       Sec. 3802. (a) Limitation on Economic Support Fund 
+     Assistance for Lebanon.--None of the funds made available in 
+     this Act under the heading ``Economic Support Fund'' for cash 
+     transfer assistance for the Government of Lebanon may be made 
+     available for obligation until the Secretary of State reports 
+     to the Committees on Appropriations on Lebanon's economic 
+     reform plan and on the specific conditions and verifiable 
+     benchmarks that have been agreed upon by the United States 
+     and the Government of Lebanon pursuant to the Memorandum of 
+     Understanding on cash transfer assistance for Lebanon.
+       (b) Limitation on Foreign Military Financing Program and 
+     International Narcotics Control and Law Enforcement 
+     Assistance for Lebanon.-- None of the funds made available in 
+     this Act under the heading ``Foreign Military Financing 
+     Program'' or ``International Narcotics Control and Law 
+     Enforcement'' for military or police assistance to Lebanon 
+     may be made available for obligation until the Secretary of 
+     State submits to the Committees on Appropriations a report on 
+     procedures established to determine eligibility of members 
+     and units of the armed forces and police forces of Lebanon to 
+     participate in United States training and assistance programs 
+     and on the end use monitoring of all equipment provided under 
+     such programs to the Lebanese armed forces and police forces.
+       (c) Certification Required.--Prior to the initial 
+     obligation of funds made available in this Act for assistance 
+     for Lebanon under the headings ``Foreign Military Financing 
+     Program'' and ``Nonproliferation, Anti-Terrorism, Demining 
+     and Related Programs'', the Secretary of State shall certify 
+     to the Committees on Appropriations that all practicable 
+     efforts have been made to ensure that such assistance is not 
+     provided to or through any individual, or private or 
+     government entity, that advocates, plans, sponsors, engages 
+     in, or has engaged in, terrorist activity.
+       (d) Report Required.--Not later than 45 days after the date 
+     of the enactment of this Act, the Secretary of State shall 
+     submit to the Committees on Appropriations a report on the 
+     Government of Lebanon's actions to implement section 14 of 
+     United Nations Security Council Resolution 1701 (August 11, 
+     2006).
+       (e) Special Authority.--This section shall be effective 
+     notwithstanding section 534(a) of Public Law 109-102, which 
+     is made applicable to funds appropriated for fiscal year 2007 
+     by the Continuing Appropriations Resolution, 2007 (division B 
+     of Public Law 109-289, as amended by Public Law 110-5).
+
+
+                           DEBT RESTRUCTURING
+
+       Sec. 3803. Amounts appropriated for fiscal year 2007 for 
+     ``Bilateral Economic Assistance--Department of the Treasury--
+     Debt Restructuring'' may be used to assist Liberia in 
+     retiring its debt arrearages to the International Monetary 
+     Fund, the International Bank for Reconstruction and 
+     Development, and the African Development Bank.
+
+
+                    government accountability office
+
+       Sec. 3804. To facilitate effective oversight of programs 
+     and activities in Iraq by the Government Accountability 
+     Office (GAO), the Department of State shall provide GAO staff 
+     members the country clearances, life support, and logistical 
+     and security support necessary for GAO personnel to establish 
+     a presence in Iraq for periods of not less than 45 days.
+
+
+                    HUMAN RIGHTS AND DEMOCRACY FUND
+
+       Sec. 3805. The Assistant Secretary of State for Democracy, 
+     Human Rights, and Labor shall be responsible for all policy, 
+     funding, and programming decisions regarding funds made 
+     available under this Act and prior Acts making appropriations 
+     for foreign operations, export financing and related programs 
+     for the Human Rights and Democracy Fund of the Bureau of 
+     Democracy, Human Rights, and Labor.
+
+
+          INSPECTOR GENERAL OVERSIGHT OF IRAQ AND AFGHANISTAN
+
+       Sec. 3806. (a) In General.--Subject to paragraph (2), the 
+     Inspector General of the Department of State and the 
+     Broadcasting Board of Governors (referred to in this section 
+     as the ``Inspector General'') may use personal services 
+     contracts to engage citizens of the United States to 
+     facilitate and support the Office of the Inspector General's 
+     oversight of programs and operations related to Iraq and 
+     Afghanistan. Individuals engaged by contract to perform such 
+     services shall not, by virtue of such contract, be considered 
+     to be employees of the United States Government for purposes 
+     of any law administered by the Office of Personnel 
+     Management. The Secretary of State may determine the 
+     applicability to such individuals of any law administered by 
+     the Secretary concerning the performance of such services by 
+     such individuals.
+       (b) Conditions.--The authority under paragraph (1) is 
+     subject to the following conditions:
+       (1) The Inspector General determines that existing 
+     personnel resources are insufficient.
+       (2) The contract length for a personal services contractor, 
+     including options, may not exceed 1 year, unless the 
+     Inspector General makes a finding that exceptional 
+     circumstances justify an extension of up to 1 additional 
+     year.
+       (3) Not more than 10 individuals may be employed at any 
+     time as personal services contractors under the program.
+       (c) Termination of Authority.--The authority to award 
+     personal services contracts under this section shall 
+     terminate on December 31, 2007. A contract entered into prior 
+     to the termination date under this paragraph may remain in 
+     effect until not later than December 31, 2009.
+       (d) Other Authorities Not Affected.--The authority under 
+     this section is in addition to any other authority of the 
+     Inspector General to hire personal services contractors.
+
+
+                 FUNDING TABLES, REPORTS AND DIRECTIVES
+
+       Sec. 3807. (a) Funds provided in this Act for the following 
+     accounts shall be made available for countries, programs and 
+     activities in the amounts contained in the respective tables 
+     and should be expended consistent with the reporting 
+     requirements and directives included in the joint explanatory 
+     statement accompanying the conference report on H.R. 1591 of 
+     the 110th Congress (H. Rept. 110-107):
+       ``Diplomatic and Consular Programs''.
+       ``Office of the Inspector General''.
+       ``Educational and Cultural Exchange Programs''.
+       ``Contributions to International Organizations''.
+       ``Contributions for International Peacekeeping 
+     Activities''.
+       ``Child Survival and Health Programs Fund''.
+       ``International Disaster and Famine Assistance''.
+       ``Operating Expenses of the United States Agency for 
+     International Development''.
+       ``Operating Expenses of the United States Agency for 
+     International Development Office of Inspector General''.
+       ``Economic Support Fund''.
+       ``Assistance for Eastern Europe and the Baltic States''.
+       ``Democracy Fund''.
+       ``International Narcotics Control and Law Enforcement''.
+       ``Migration and Refugee Assistance''.
+       ``Nonproliferation, Anti-Terrorism, Demining and Related 
+     Programs''.
+       ``Foreign Military Financing Program''.
+       ``Peacekeeping Operations''.
+       (b) Any proposed increases or decreases to the amounts 
+     contained in the tables in the joint explanatory statement 
+     shall be subject to the regular notification procedures of 
+     the Committees on Appropriations and section 634A of the 
+     Foreign Assistance Act of 1961.
+
+
+               SPENDING PLAN AND NOTIFICATION PROCEDURES
+
+       Sec. 3808. Not later than 45 days after enactment of this 
+     Act the Secretary of State shall submit to the Committees on 
+     Appropriations a report detailing planned expenditures for 
+     funds appropriated under the headings in this chapter and 
+     under the headings in chapter 6 of title I, except for funds 
+     appropriated under the heading ``International Disaster and 
+     Famine Assistance'': Provided, That funds appropriated under 
+     the headings in this chapter and in chapter 6 of title I, 
+     except for funds appropriated under the heading named in this 
+     section, shall be subject to the regular notification 
+     procedures of the Committees on Appropriations.
+
+
+                 conditions on assistance for pakistan
+
+       Sec. 3809. None of the funds made available for assistance 
+     for the central Government of Pakistan under the heading 
+     ``Economic Support Fund'' in this Act may be made available 
+     for non-project assistance until the Secretary of State 
+     submits to the Committees on Appropriations a report on the 
+     oversight mechanisms, performance benchmarks, and 
+     implementation processes for such funds: Provided, That 
+     notwithstanding any other provision of law, funds made 
+     available for non-project assistance pursuant to the previous 
+     proviso shall be subject to the regular notification 
+     procedures of the Committees on Appropriations: Provided 
+     further, That of the funds made available for assistance for 
+     Pakistan under the heading ``Economic Support Fund'' in this 
+     Act, $5,000,000 shall be made available for the Human Rights 
+     and Democracy Fund of the Bureau of Democracy, Human Rights, 
+     and Labor, Department of State, for political party 
+     development and election observation programs.
+
+
+                         CIVILIAN RESERVE CORPS
+
+       Sec. 3810. Of the funds appropriated by this Act under the 
+     heading ``Diplomatic and Consular Programs'', up to 
+     $50,000,000 may be made available to support and maintain a 
+     civilian reserve corps: Provided, That none of the funds for 
+     a civilian reserve corps may be obligated without specific 
+     authorization in a subsequent Act of Congress: Provided 
+     further, That funds made available for this purpose shall be 
+     subject to the regular notification procedures of the 
+     Committees on Appropriations.
+
+
+                   EXTENSION OF AVAILABILITY OF FUNDS
+
+       Sec. 3811. Section 1302(a) of Public Law 109-234 is amended 
+     by striking ``one additional year'' and inserting ``two 
+     additional years''.
+
+[[Page 14200]]
+
+
+
+
+ SPECIAL IMMIGRANT STATUS FOR CERTAIN ALIENS SERVING AS TRANSLATORS OR 
+                   INTERPRETERS WITH FEDERAL AGENCIES
+
+       Sec. 3812. (a) Increase in Numbers Admitted.--Section 1059 
+     of the National Defense Authorization Act for Fiscal Year 
+     2006 (8 U.S.C. 1101 note) is amended--
+       (1) in subsection (b)(1)--
+       (A) in subparagraph (B), by striking ``as a translator'' 
+     and inserting ``, or under Chief of Mission authority, as a 
+     translator or interpreter'';
+       (B) in subparagraph (C), by inserting ``the Chief of 
+     Mission or'' after ``recommendation from''; and
+       (C) in subparagraph (D), by inserting ``the Chief of 
+     Mission or'' after ``as determined by''; and
+       (2) in subsection (c)(1), by striking ``section during any 
+     fiscal year shall not exceed 50.'' and inserting the 
+     following: ``section--
+       ``(A) during each of the fiscal years 2007 and 2008, shall 
+     not exceed 500; and
+       ``(B) during any other fiscal year shall not exceed 50.''.
+       (b) Aliens Exempt From Employment-Based Numerical 
+     Limitations.--Section 1059(c)(2) of such Act is amended--
+       (1) by amending the paragraph designation and heading to 
+     read as follows:
+       ``(2) Aliens exempt from employment-based numerical 
+     limitations.--''; and
+       (2) by inserting ``and shall not be counted against the 
+     numerical limitations under sections 201(d), 202(a), and 
+     203(b)(4) of the Immigration and Nationality Act (8 U.S.C. 
+     1151(d), 1152(a), and 1153(b)(4))'' before the period at the 
+     end.
+       (c) Adjustment of Status.--Section 1059 of such Act is 
+     further amended--
+       (1) by redesignating subsection (d) as subsection (e); and
+       (2) by inserting after subsection (c) the following:
+       ``(d) Adjustment of Status.--Notwithstanding paragraphs 
+     (2), (7) and (8) of section 245(c) of the Immigration and 
+     Nationality Act (8 U.S.C. 1255(c)), the Secretary of Homeland 
+     Security may adjust the status of an alien to that of a 
+     lawful permanent resident under section 245(a) of such Act if 
+     the alien--
+       ``(1) was paroled or admitted as a nonimmigrant into the 
+     United States; and
+       ``(2) is otherwise eligible for special immigrant status 
+     under this section and under the Immigration and Nationality 
+     Act.''.
+
+      TITLE IV--ADDITIONAL HURRICANE DISASTER RELIEF AND RECOVERY
+
+                               CHAPTER 1
+
+                       DEPARTMENT OF AGRICULTURE
+
+                    GENERAL PROVISION--THIS CHAPTER
+
+       Sec. 4101. Section 1231(k)(2) of the Food Security Act of 
+     1985 (16 U.S.C. 3831(k)(2)) is amended by striking ``During 
+     calendar year 2006, the'' and inserting ``The''.
+
+                               CHAPTER 2
+
+                         DEPARTMENT OF JUSTICE
+
+                       Office of Justice Programs
+
+
+               STATE AND LOCAL LAW ENFORCEMENT ASSISTANCE
+
+       For an additional amount for ``State and Local Law 
+     Enforcement Assistance'', for discretionary grants authorized 
+     by subpart 2 of part E, of title I of the Omnibus Crime 
+     Control and Safe Streets Act of 1968 as in effect on 
+     September 30, 2006, notwithstanding the provisions of section 
+     511 of said Act, $50,000,000, to remain available until 
+     expended: Provided, That the amount made available under this 
+     heading shall be for local law enforcement initiatives in the 
+     Gulf Coast region related to the aftermath of Hurricane 
+     Katrina: Provided further, That these funds shall be 
+     apportioned among the States in quotient to their level of 
+     violent crime as estimated by the Federal Bureau of 
+     Investigation's Uniform Crime Report for the year 2005.
+
+                         DEPARTMENT OF COMMERCE
+
+            National Oceanic and Atmospheric Administration
+
+
+                  OPERATIONS, RESEARCH, AND FACILITIES
+
+       For an additional amount for ``Operations, Research, and 
+     Facilities'', for necessary expenses related to the 
+     consequences of Hurricanes Katrina and Rita on the shrimp and 
+     fishing industries, $110,000,000, to remain available until 
+     September 30, 2008.
+
+             NATIONAL AERONAUTICS AND SPACE ADMINISTRATION
+
+                        exploration capabilities
+
+       For an additional amount for ``Exploration Capabilities'' 
+     for necessary expenses related to the consequences of 
+     Hurricane Katrina, $20,000,000, to remain available until 
+     September 30, 2009.
+
+                    GENERAL PROVISIONS--THIS CHAPTER
+
+       Sec. 4201. Funds provided in this Act for the ``Department 
+     of Commerce, National Oceanic and Atmospheric Administration, 
+     Operations, Research, and Facilities'', shall be made 
+     available according to the language relating to such account 
+     in the joint explanatory statement accompanying the 
+     conference report on H.R. 1591 of the 110th Congress (H. 
+     Rept. 110-107).
+       Sec. 4202. Up to $48,000,000 of amounts made available to 
+     the National Aeronautics and Space Administration in Public 
+     Law 109-148 and Public Law 109-234 for emergency hurricane 
+     and other natural disaster-related expenses may be used to 
+     reimburse hurricane-related costs incurred by NASA in fiscal 
+     year 2005.
+
+                               CHAPTER 3
+
+                      DEPARTMENT OF DEFENSE--CIVIL
+
+                         DEPARTMENT OF THE ARMY
+
+                       Corps of Engineers--Civil
+
+
+                              CONSTRUCTION
+
+       For an additional amount for ``Construction'' for necessary 
+     expenses related to the consequences of Hurricane Katrina and 
+     other hurricanes of the 2005 season, $25,300,000, to remain 
+     available until expended, which may be used to continue 
+     construction of projects related to interior drainage for the 
+     greater New Orleans metropolitan area.
+
+
+                 Flood Control and Coastal Emergencies
+
+       For an additional amount for ``Flood Control and Coastal 
+     Emergencies'', as authorized by section 5 of the Act of 
+     August 18, 1941 (33 U.S.C. 701n), for necessary expenses 
+     relating to the consequences of Hurricanes Katrina and Rita 
+     and for other purposes, $1,407,700,000, to remain available 
+     until expended: Provided, That $1,300,000,000 of the amount 
+     provided may be used by the Secretary of the Army to carry 
+     out projects and measures for the West Bank and Vicinity and 
+     Lake Ponchartrain and Vicinity, Louisiana, projects, as 
+     described under the heading ``Flood Control and Coastal 
+     Emergencies'', in chapter 3 of Public Law 109-148: Provided 
+     further, That $107,700,000 of the amount provided may be used 
+     to implement the projects for hurricane storm damage 
+     reduction, flood damage reduction, and ecosystem restoration 
+     within Hancock, Harrison, and Jackson Counties, Mississippi 
+     substantially in accordance with the Report of the Chief of 
+     Engineers dated December 31, 2006, and entitled 
+     ``Mississippi, Coastal Improvements Program Interim Report, 
+     Hancock, Harrison, and Jackson Counties, Mississippi'': 
+     Provided further, That projects authorized for implementation 
+     under this Chief's report shall be carried out at full 
+     Federal expense, except that the non-Federal interests shall 
+     be responsible for providing for all costs associated with 
+     operation and maintenance of the project: Provided further, 
+     That any project using funds appropriated under this heading 
+     shall be initiated only after non-Federal interests have 
+     entered into binding agreements with the Secretary requiring 
+     the non-Federal interests to pay 100 percent of the 
+     operation, maintenance, repair, replacement, and 
+     rehabilitation costs of the project and to hold and save the 
+     United States free from damages due to the construction or 
+     operation and maintenance of the project, except for damages 
+     due to the fault or negligence of the United States or its 
+     contractors: Provided further, That the Chief of Engineers, 
+     acting through the Assistant Secretary of the Army for Civil 
+     Works, shall provide a monthly report to the House and Senate 
+     Committees on Appropriations detailing the allocation and 
+     obligation of these funds, beginning not later than 60 days 
+     after enactment of this Act.
+
+                    GENERAL PROVISIONS--THIS CHAPTER
+
+       Sec. 4301. The Secretary is authorized and directed to 
+     determine the value of eligible reimbursable expenses 
+     incurred by local governments in storm-proofing pumping 
+     stations, constructing safe houses for operators, and other 
+     interim flood control measures in and around the New Orleans 
+     metropolitan area that the Secretary determines to be 
+     integral to the overall plan to ensure operability of the 
+     stations during hurricanes, storms and high water events and 
+     the flood control plan for the area.
+       Sec. 4302. (a) The Secretary of the Army is authorized and 
+     directed to utilize funds remaining available for obligation 
+     from the amounts appropriated in chapter 3 of Public Law 109-
+     234 under the heading ``Flood Control and Coastal 
+     Emergencies'' for projects in the greater New Orleans 
+     metropolitan area to prosecute these projects in a manner 
+     which promotes the goal of continuing work at an optimal 
+     pace, while maximizing, to the greatest extent practicable, 
+     levels of protection to reduce the risk of storm damage to 
+     people and property.
+       (b) The expenditure of funds as provided in subsection (a) 
+     may be made without regard to individual amounts or purposes 
+     specified in chapter 3 of Public Law 109-234.
+       (c) Any reallocation of funds that are necessary to 
+     accomplish the goal established in subsection (a) are 
+     authorized, subject to the approval of the House and Senate 
+     Committees on Appropriation.
+       Sec. 4303. The Chief of Engineers shall investigate the 
+     overall technical advantages, disadvantages and operational 
+     effectiveness of operating the new pumping stations at the 
+     mouths of the 17th Street, Orleans Avenue and London Avenue 
+     canals in the New Orleans area directed for construction in 
+     Public Law 109-234 concurrently or in series with existing 
+     pumping stations serving these canals and the advantages, 
+     disadvantages and technical operational effectiveness of 
+     removing the existing pumping stations and configuring the 
+     new pumping stations and associated canals to handle all 
+     needed discharges to the lakefront or in combination with 
+     discharges directly to the Mississippi River in Jefferson 
+     Parish; and the advantages, disadvantages and technical 
+     operational effectiveness of replacing or improving the 
+     floodwalls and levees adjacent to the three
+
+[[Page 14201]]
+
+     outfall canals: Provided, That the analysis should be 
+     conducted at Federal expense: Provided further, That the 
+     analysis shall be completed and furnished to the Congress not 
+     later than three months after enactment of this Act.
+       Sec. 4304. Using funds made available in Chapter 3 under 
+     title II of Public Law 109-234, under the heading 
+     ``Investigations'', the Secretary of the Army, in 
+     consultation with other agencies and the State of Louisiana 
+     shall accelerate completion as practicable the final report 
+     of the Chief of Engineers recommending a comprehensive plan 
+     to deauthorize deep draft navigation on the Mississippi River 
+     Gulf Outlet: Provided, That the plan shall incorporate and 
+     build upon the Interim Mississippi River Gulf Outlet Deep-
+     Draft De-Authorization Report submitted to Congress in 
+     December 2006 pursuant to Public Law 109-234.
+
+                               CHAPTER 4
+
+                     SMALL BUSINESS ADMINISTRATION
+
+                     Disaster Loans Program Account
+
+
+                     (including transfers of funds)
+
+       Of the unobligated balances under the heading ``Small 
+     Business Administration, Disaster Loans Program Account'', 
+     $181,069,000, to remain available until expended, shall be 
+     used for administrative expenses to carry out the disaster 
+     loan program, which may be transferred to and merged with 
+     ``Small Business Administration, Salaries and Expenses'', of 
+     which $500,000 is for the Office of Inspector General of the 
+     Small Business Administration for audits and reviews of 
+     disaster loans and the disaster loan program and shall be 
+     paid to appropriations for the Office of Inspector General; 
+     of which $171,569,000 is for direct administrative expenses 
+     of loan making and servicing to carry out the direct loan 
+     program; and of which $9,000,000 is for indirect 
+     administrative expenses.
+       Of the unobligated balances under the heading ``Small 
+     Business Administration, Disaster Loans Program Account'', 
+     $25,000,000 shall be made available for loans under section 
+     7(b)(2) of the Small Business Act to pre-existing businesses 
+     located in an area for which the President declared a major 
+     disaster because of the hurricanes in the Gulf of Mexico in 
+     calendar year 2005, of which not to exceed $8,750,000 is for 
+     direct administrative expenses and may be transferred to and 
+     merged with ``Small Business Administration, Salaries and 
+     Expenses'' to carry out the disaster loan program of the 
+     Small Business Administration.
+       Of the unobligated balances under the heading ``Small 
+     Business Administration, Disaster Loans Program Account'', 
+     $150,000,000 is transferred to the ``Federal Emergency 
+     Management Agency, Disaster Relief'' account.
+
+                               CHAPTER 5
+
+                    DEPARTMENT OF HOMELAND SECURITY
+
+                  Federal Emergency Management Agency
+
+
+                            DISASTER RELIEF
+
+                     (INCLUDING TRANSFER OF FUNDS)
+
+       For an additional amount for ``Disaster Relief'', 
+     $710,000,000, to remain available until expended: Provided, 
+     That $4,000,000 shall be transferred to ``Office of Inspector 
+     General'': Provided further, That the Government 
+     Accountability Office shall review how the Federal Emergency 
+     Management Agency develops its estimates of the funds needed 
+     to respond to any given disaster as described in House Report 
+     110-60.
+
+                    GENERAL PROVISIONS--THIS CHAPTER
+
+       Sec. 4501. (a) In General.--Notwithstanding any other 
+     provision of law, including any agreement, the Federal share 
+     of assistance, including direct Federal assistance, provided 
+     for the States of Louisiana, Mississippi, Florida, Alabama, 
+     and Texas in connection with Hurricanes Katrina, Wilma, 
+     Dennis, and Rita under sections 403, 406, 407, and 408 of the 
+     Robert T. Stafford Disaster Relief and Emergency Assistance 
+     Act (42 U.S.C. 5170b, 5172, 5173, and 5174) shall be 100 
+     percent of the eligible costs under such sections.
+       (b) Applicability.--
+       (1) In general.--The Federal share provided by subsection 
+     (a) shall apply to disaster assistance applied for before the 
+     date of enactment of this Act.
+       (2) Limitation.--In the case of disaster assistance 
+     provided under sections 403, 406, and 407 of the Robert T. 
+     Stafford Disaster Relief and Emergency Assistance Act, the 
+     Federal share provided by subsection (a) shall be limited to 
+     assistance provided for projects for which a ``request for 
+     public assistance form'' has been submitted.
+       Sec. 4502. (a) Community Disaster Loan Act.--
+       (1) In general.--Section 2(a) of the Community Disaster 
+     Loan Act of 2005 (Public Law 109-88) is amended by striking 
+     ``Provided further, That notwithstanding section 417(c)(1) of 
+     the Stafford Act, such loans may not be canceled:''.
+       (2) Effective date.--The amendment made by paragraph (1) 
+     shall be effective on the date of enactment of the Community 
+     Disaster Loan Act of 2005 (Public Law 109-88).
+       (b) Emergency Supplemental Appropriations Act.--
+       (1) In general.--Chapter 4 of title II of the Emergency 
+     Supplemental Appropriations Act for Defense, the Global War 
+     on Terror, and Hurricane Recovery, 2006 (Public Law 109-234) 
+     is amended under Federal Emergency Management Agency, 
+     ``Disaster Assistance Direct Loan Program Account'' by 
+     striking ``Provided further, That notwithstanding section 
+     417(c)(1) of such Act, such loans may not be canceled:''.
+       (2) Effective date.--The amendment made by paragraph (1) 
+     shall be effective on the date of enactment of the Emergency 
+     Supplemental Appropriations Act for Defense, the Global War 
+     on Terror, and Hurricane Recovery, 2006 (Public Law 109-234).
+       Sec. 4503. (a) In General.--Section 2401 of the Emergency 
+     Supplemental Appropriations Act for Defense, the Global War 
+     on Terror, and Hurricane Recovery, 2006 (Public Law 109-234) 
+     is amended by striking ``12 months'' and inserting ``24 
+     months''.
+       (b) Effective Date.--The amendment made by this section 
+     shall be effective on the date of enactment of the Emergency 
+     Supplemental Appropriations Act for Defense, the Global War 
+     on Terror, and Hurricane Recovery, 2006 (Public Law 109-234).
+
+                               CHAPTER 6
+
+                       DEPARTMENT OF THE INTERIOR
+
+                         National Park Service
+
+
+                       Historic Preservation Fund
+
+       For an additional amount for the ``Historic Preservation 
+     Fund'' for necessary expenses related to the consequences of 
+     Hurricane Katrina and other hurricanes of the 2005 season, 
+     $10,000,000, to remain available until September 30, 2008: 
+     Provided, That the funds provided under this heading shall be 
+     provided to the State Historic Preservation Officer, after 
+     consultation with the National Park Service, for grants for 
+     disaster relief in areas of Louisiana impacted by Hurricanes 
+     Katrina or Rita: Provided further, That grants shall be for 
+     the preservation, stabilization, rehabilitation, and repair 
+     of historic properties listed in or eligible for the National 
+     Register of Historic Places, for planning and technical 
+     assistance: Provided further, That grants shall only be 
+     available for areas that the President determines to be a 
+     major disaster under section 102(2) of the Robert T. Stafford 
+     Disaster Relief and Emergency Assistance Act (42 U.S.C. 
+     5122(2)) due to Hurricanes Katrina or Rita: Provided further, 
+     That individual grants shall not be subject to a non-Federal 
+     matching requirement: Provided further, That no more than 5 
+     percent of funds provided under this heading for disaster 
+     relief grants may be used for administrative expenses.
+
+                    GENERAL PROVISION--THIS CHAPTER
+
+
+                     (including transfer of funds)
+
+       Sec. 4601. Of the disaster relief funds from Public Law 
+     109-234, 120 Stat. 418, 461, (June 30, 2006), chapter 5, 
+     ``National Park Service--Historic Preservation Fund'', for 
+     necessary expenses related to the consequences of Hurricane 
+     Katrina and other hurricanes of the 2005 season that were 
+     allocated to the State of Mississippi by the National Park 
+     Service, $500,000 is hereby transferred to the ``National 
+     Park Service--National Recreation and Preservation'' 
+     appropriation: Provided, That these funds may be used to 
+     reconstruct destroyed properties that at the time of 
+     destruction were listed in the National Register of Historic 
+     Places and are otherwise qualified to receive these funds: 
+     Provided further, That the State Historic Preservation 
+     Officer certifies that, for the community where that 
+     destroyed property was located, the property is iconic to or 
+     essential to illustrating that community's historic identity, 
+     that no other property in that community with the same 
+     associative historic value has survived, and that sufficient 
+     historical documentation exists to ensure an accurate 
+     reproduction.
+
+                               CHAPTER 7
+
+                        DEPARTMENT OF EDUCATION
+
+                            Higher Education
+
+       For an additional amount under part B of title VII of the 
+     Higher Education Act of 1965 (``HEA'') for institutions of 
+     higher education (as defined in section 101 or section 102(c) 
+     of that Act) that are located in an area in which a major 
+     disaster was declared in accordance with section 401 of the 
+     Robert T. Stafford Disaster Relief and Emergency Assistance 
+     Act related to Hurricanes Katrina or Rita, $30,000,000: 
+     Provided, That such funds shall be available to the Secretary 
+     of Education only for payments to help defray the expenses 
+     (which may include lost revenue, reimbursement for expenses 
+     already incurred, and construction) incurred by such 
+     institutions of higher education that were forced to close, 
+     relocate or significantly curtail their activities as a 
+     result of damage directly caused by such hurricanes and for 
+     payments to enable such institutions to provide grants to 
+     students who attend such institutions for academic years 
+     beginning on or after July 1, 2006: Provided further, That 
+     such payments shall be made in accordance with criteria 
+     established by the Secretary and made publicly available 
+     without regard to section 437 of the General Education 
+     Provisions Act, section 553 of title 5, United States Code, 
+     or part B of title VII of the HEA: Provided further, That the 
+     Secretary shall award funds available under this paragraph 
+     not later than 60 days after the date of the enactment of 
+     this Act.
+
+[[Page 14202]]
+
+
+
+                      Hurricane Education Recovery
+
+       For carrying out activities authorized by subpart 1 of part 
+     D of title V of the Elementary and Secondary Education Act of 
+     1965, $30,000,000, to remain available until expended, for 
+     use by the States of Louisiana, Mississippi, and Alabama 
+     primarily for recruiting, retaining, and compensating new and 
+     current teachers, school principals, assistant principals, 
+     principal resident directors, assistant directors, and other 
+     educators, who commit to work for at least three years in 
+     school-based positions in public elementary and secondary 
+     schools located in an area with respect to which a major 
+     disaster was declared under section 401 of the Robert T. 
+     Stafford Disaster Relief and Emergency Assistance Act (42 
+     U.S.C. 5170) by reason of Hurricane Katrina or Hurricane 
+     Rita, including through such mechanisms as paying salary 
+     premiums, performance bonuses, housing subsidies, signing 
+     bonuses, and relocation costs and providing loan forgiveness, 
+     with priority given to teachers and school-based school 
+     principals, assistant principals, principal resident 
+     directors, assistant directors, and other educators who 
+     previously worked or lived in one of the affected areas, are 
+     currently employed (or become employed) in such a school in 
+     any of the affected areas after those disasters, and commit 
+     to continue that employment for at least 3 years, Provided, 
+     That funds available under this heading to such States may 
+     also be used for 1 or more of the following activities: (1) 
+     to build the capacity, knowledge, and skill of teachers and 
+     school-based school principals, assistant principals, 
+     principal resident directors, assistant directors, and other 
+     educators in such public elementary and secondary schools to 
+     provide an effective education, including the design, 
+     adaptation, and implementation of high-quality formative 
+     assessments; (2) the establishment of partnerships with 
+     nonprofit entities with a demonstrated track record in 
+     recruiting and retaining outstanding teachers and other 
+     school-based school principals, assistant principals, 
+     principal resident directors, and assistant directors; and 
+     (3) paid release time for teachers and principals to identify 
+     and replicate successful practices from the fastest-improving 
+     and highest-performing schools: Provided further, That the 
+     Secretary of Education shall allocate amounts available under 
+     this heading among such States that submit applications; that 
+     such allocation shall be based on the number of public 
+     elementary and secondary schools in each State that were 
+     closed for 19 days or more during the period beginning on 
+     August 29, 2005, and ending on December 31, 2005, due to 
+     Hurricane Katrina or Hurricane Rita; and that such States 
+     shall in turn allocate funds to local educational agencies, 
+     with priority given first to such agencies with the highest 
+     percentages of public elementary and secondary schools that 
+     are closed as a result of such hurricanes as of the date of 
+     enactment of this Act and then to such agencies with the 
+     highest percentages of public elementary and secondary 
+     schools with a student-teacher ratio of at least 25 to 1, and 
+     with any remaining amounts to be distributed to such agencies 
+     with demonstrated need, as determined by the State 
+     Superintendent of Education: Provided further, That, in the 
+     case of any State that chooses to use amounts available under 
+     this heading for performance bonuses, not later than 60 days 
+     after the date of enactment of this Act, and in collaboration 
+     with local educational agencies, teachers' unions, local 
+     principals' organizations, local parents' organizations, 
+     local business organizations, and local charter schools 
+     organizations, the State educational agency shall develop a 
+     plan for a rating system for performance bonuses, and if no 
+     agreement has been reached that is satisfactory to all 
+     consulting entities by such deadline, the State educational 
+     agency shall immediately send a letter notifying Congress and 
+     shall, not later than 30 days after such notification, 
+     establish and implement a rating system that shall be based 
+     on classroom observation and feedback more than once 
+     annually, conducted by multiple sources (including, but not 
+     limited to, principals and master teachers), and evaluated 
+     against research-based rubrics that use planning, 
+     instructional, and learning environment standards to measure 
+     teacher performance, except that the requirements of this 
+     proviso shall not apply to a State that has enacted a State 
+     law in 2006 authorizing performance pay for teachers.
+
+                 Programs to Restart School Operations
+
+       Funds made available under section 102 of the Hurricane 
+     Education Recovery Act (title IV of division B of Public Law 
+     109-148) may be used by the States of Louisiana, Mississippi, 
+     Alabama, and Texas, in addition to the uses of funds 
+     described in section 102(e), for the following costs: (1) 
+     recruiting, retaining, and compensating new and current 
+     teachers, school principals, assistant principals, principal 
+     resident directors, assistant directors, and other educators 
+     for school-based positions in public elementary and secondary 
+     schools impacted by Hurricane Katrina or Hurricane Rita, 
+     including through such mechanisms as paying salary premiums, 
+     performance bonuses, housing subsidies, signing bonuses, and 
+     relocation costs and providing loan forgiveness; (2) 
+     activities to build the capacity, knowledge, and skills of 
+     teachers and school-based school principals, assistant 
+     principals, principal resident directors, assistant 
+     directors, and other educators in such public elementary and 
+     secondary schools to provide an effective education, 
+     including the design, adaptation, and implementation of high-
+     quality formative assessments; (3) the establishment of 
+     partnerships with nonprofit entities with a demonstrated 
+     track record in recruiting and retaining outstanding teachers 
+     and school-based school principals, assistant principals, 
+     principal resident directors, and assistant directors; and 
+     (4) paid release time for teachers and principals to identify 
+     and replicate successful practices from the fastest-improving 
+     and highest-performing schools.
+
+                    GENERAL PROVISIONS--THIS CHAPTER
+
+       Sec. 4701. Section 105(b) of title IV of division B of 
+     Public Law 109-148 is amended by adding at the end the 
+     following new sentence: ``With respect to the program 
+     authorized by section 102 of this Act, the waiver authority 
+     in subsection (a) of this section shall be available until 
+     the end of fiscal year 2008.''.
+       Sec. 4702. Notwithstanding section 2002(c) of the Social 
+     Security Act (42 U.S.C. 1397a(c)), funds made available under 
+     the heading ``Social Services Block Grant'' in division B of 
+     Public Law 109-148 shall be available for expenditure by the 
+     States through the end of fiscal year 2009.
+       Sec. 4703. (a) In the event that Louisiana, Mississippi, 
+     Alabama, or Texas fails to meet its match requirement with 
+     funds appropriated in fiscal years 2006 or 2007, for fiscal 
+     years 2008 and 2009, the Secretary of Health and Human 
+     Services may waive the application of section 2617(d)(4) of 
+     the Public Health Service Act for Louisiana, Mississippi, 
+     Alabama, and Texas.
+       (b) The Secretary may not exercise the waiver authority 
+     available under subsection (a) to allow a grantee to provide 
+     less than a 25 percent matching grant.
+       (c) For grant years beginning in 2008, Louisiana, 
+     Mississippi, Alabama, and Texas and any eligible metropolitan 
+     area in Louisiana, Mississippi, Alabama, and Texas shall 
+     comply with each of the applicable requirements under title 
+     XXVI of the Public Health Service Act (42 U.S.C. 300ff-11 et 
+     seq.).
+
+                               CHAPTER 8
+
+                      DEPARTMENT OF TRANSPORTATION
+
+                     Federal Highway Administration
+
+
+                          Federal-Aid Highways
+
+                        Emergency Relief Program
+
+                    (including rescission of funds)
+
+       For an additional amount for the Emergency Relief Program 
+     as authorized under section 125 of title 23, United States 
+     Code, $871,022,000, to remain available until expended: 
+     Provided, That section 125(d)(1) of title 23, United States 
+     Code, shall not apply to emergency relief projects that 
+     respond to damage caused by the 2005-2006 winter storms in 
+     the State of California: Provided further, That of the 
+     unobligated balances of funds apportioned to each State under 
+     chapter 1 of title 23, United States Code, $871,022,000 are 
+     rescinded: Provided further, That such rescission shall not 
+     apply to the funds distributed in accordance with sections 
+     130(f) and 104(b)(5) of title 23, United States Code; 
+     sections 133(d)(1) and 163 of such title, as in effect on the 
+     day before the date of enactment of Public Law 109-59; and 
+     the first sentence of section 133(d)(3)(A) of such title.
+
+                     Federal Transit Administration
+
+
+                             Formula Grants
+
+       For an additional amount to be allocated by the Secretary 
+     to recipients of assistance under chapter 53 of title 49, 
+     United States Code, directly affected by Hurricanes Katrina 
+     and Rita, $35,000,000, for the operating and capital costs of 
+     transit services, to remain available until expended: 
+     Provided, That the Federal share for any project funded from 
+     this amount shall be 100 percent.
+
+              DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT
+
+                      Office of Inspector General
+
+       For an additional amount for the Office of Inspector 
+     General, for the necessary costs related to the consequences 
+     of Hurricanes Katrina and Rita, $7,000,000, to remain 
+     available until expended.
+
+                    GENERAL PROVISIONS--THIS CHAPTER
+
+       Sec. 4801. The third proviso under the heading ``Department 
+     of Housing and Urban Development--Public and Indian Housing--
+     Tenant-Based Rental Assistance'' in chapter 9 of title I of 
+     division B of Public Law 109-148 (119 Stat. 2779) is amended 
+     by striking ``for up to 18 months'' and inserting ``until 
+     December 31, 2007''.
+       Sec. 4802. Section 21033 of the Continuing Appropriations 
+     Resolution, 2007 (division B of Public Law 109-289, as 
+     amended by Public Law 110-5) is amended by adding after the 
+     third proviso: ``: Provided further, That notwithstanding the 
+     previous proviso, except for applying the 2007 Annual 
+     Adjustment Factor and making any other specified adjustments, 
+     public housing agencies specified in category 1 below shall 
+     receive funding for calendar year 2007 based on the higher of 
+     the amounts the agencies would receive under the previous 
+     proviso or the amounts the agencies received in calendar year 
+     2006, and public housing agencies specified in categories 2 
+     and 3 below shall receive funding for calendar year 2007 
+     equal to the amounts the
+
+[[Page 14203]]
+
+     agencies received in calendar year 2006, except that public 
+     housing agencies specified in categories 1 and 2 below shall 
+     receive funding under this proviso only if, and to the extent 
+     that, any such public housing agency submits a plan, approved 
+     by the Secretary, that demonstrates that the agency can 
+     effectively use within 12 months the funding that the agency 
+     would receive under this proviso that is in addition to the 
+     funding that the agency would receive under the previous 
+     proviso: (1) public housing agencies that are eligible for 
+     assistance under section 901 in Public Law 109-148 (119 Stat. 
+     2781) or are located in the same counties as those eligible 
+     under section 901 and operate voucher programs under section 
+     8(o) of the United States Housing Act of 1937 but do not 
+     operate public housing under section 9 of such Act, and any 
+     public housing agency that otherwise qualifies under this 
+     category must demonstrate that they have experienced a loss 
+     of rental housing stock as a result of the 2005 hurricanes; 
+     (2) public housing agencies that would receive less funding 
+     under the previous proviso than they would receive under this 
+     proviso and that have been placed in receivership or the 
+     Secretary has declared to be in breach of an Annual 
+     Contributions Contract by June 1, 2007; and (3) public 
+     housing agencies that spent more in calendar year 2006 than 
+     the total of the amounts of any such public housing agency's 
+     allocation amount for calendar year 2006 and the amount of 
+     any such public housing agency's available housing assistance 
+     payments undesignated funds balance from calendar year 2005 
+     and the amount of any such public housing agency's available 
+     administrative fees undesignated funds balance through 
+     calendar year 2006''.
+       Sec. 4803. Section 901 of Public Law 109-148 is amended by 
+     deleting ``calendar year 2006'' and inserting ``calendar 
+     years 2006 and 2007''.
+
+                               CHAPTER 9
+
+                     DEPARTMENT OF VETERANS AFFAIRS
+
+                      Departmental Administration
+
+
+                      Construction, Minor Projects
+
+                    (Including Rescission of Funds)
+
+       For an additional amount for Department of Veterans 
+     Affairs, ``Construction, Minor Projects'', $14,484,754, to 
+     remain available until September 30, 2008, for necessary 
+     expenses related to the consequences of Hurricane Katrina and 
+     other hurricanes of the 2005 season.
+       Of the funds available until September 30, 2007, for the 
+     ``Construction, Minor Projects'' account of the Department of 
+     Veterans Affairs, pursuant to section 2702 of Public Law 109-
+     234, $14,484,754 are hereby rescinded.
+
+                TITLE V--OTHER EMERGENCY APPROPRIATIONS
+
+                               CHAPTER 1
+
+                       DEPARTMENT OF AGRICULTURE
+
+                    GENERAL PROVISION--THIS CHAPTER
+
+       Sec. 5101. In addition to any other available funds, there 
+     is hereby appropriated $40,000,000 to the Secretary of 
+     Agriculture, to remain available until expended, for programs 
+     and activities of the Department of Agriculture, as 
+     determined by the Secretary, to provide recovery assistance 
+     in response to damage in conjunction with the Presidential 
+     declaration of a major disaster (FEMA-1699-DR) dated May 6, 
+     2007, for needs not met by the Federal Emergency Management 
+     Agency or private insurers: Provided, That, in addition, the 
+     Secretary may use funds provided under this section, 
+     consistent with the provisions of this section, to respond to 
+     any other Presidential declaration of a major disaster issued 
+     under the authority of the Robert T. Stafford Disaster Relief 
+     and Emergency Assistance Act, 42 U.S.C. 5121-5206 (the 
+     Stafford Act), declared during fiscal year 2007 for events 
+     occurring before the date of the enactment of this Act or a 
+     Secretary of Agriculture declaration of a natural disaster, 
+     declared during fiscal year 2007 for events occurring before 
+     the date of the enactment of this Act.
+
+                               CHAPTER 2
+
+                         DEPARTMENT OF COMMERCE
+
+            National Oceanic and Atmospheric Administration
+
+                  operations, research, and facilities
+
+       For an additional amount for ``Operations, Research, and 
+     Facilities'', $60,400,000, to remain available until 
+     September 30, 2008: Provided, That the National Marine 
+     Fisheries Service shall cause such amounts to be distributed 
+     among eligible recipients of assistance for the commercial 
+     fishery failure designated under section 312(a) of the 
+     Magnuson-Stevens Fishery Conservation and Management Act (16 
+     U.S.C. 1861a(a)) and declared by the Secretary of Commerce on 
+     August 10, 2006.
+
+                               CHAPTER 3
+
+                      DEPARTMENT OF DEFENSE--CIVIL
+
+                         DEPARTMENT OF THE ARMY
+
+                       Corps of Engineers--Civil
+
+
+                             investigations
+
+       For an additional amount for ``Investigations'' for flood 
+     damage reduction studies to address flooding associated with 
+     disasters covered by Presidential Disaster Declaration FEMA-
+     1692-DR, $8,165,000, to remain available until expended.
+
+
+                              construction
+
+       For an additional amount for ``Construction'' for flood 
+     damage reduction activities associated with disasters covered 
+     by Presidential Disaster Declarations FEMA-1692-DR and FEMA-
+     1694-DR, $11,200,000, to remain available until expended.
+
+
+                       operation and maintenance
+
+       For an additional amount for ``Operation and Maintenance'' 
+     to dredge navigation channels related to the consequences of 
+     hurricanes of the 2005 season, $3,000,000, to remain 
+     available until expended.
+
+
+                 flood control and coastal emergencies
+
+       For an additional amount for ``Flood Control and Coastal 
+     Emergencies'', as authorized by section 5 of the Act of 
+     August 18, 1941 (33 U.S.C. 701n), to support emergency 
+     operations, repairs and other activities in response to 
+     flood, drought and earthquake emergencies as authorized by 
+     law, $153,300,000, to remain available until expended: 
+     Provided, That the Chief of Engineers, acting through the 
+     Assistant Secretary of the Army for Civil Works, shall 
+     provide a monthly report to the House and Senate Committees 
+     on Appropriations detailing the allocation and obligation of 
+     these funds, beginning not later than 60 days after enactment 
+     of this Act: Provided further, That of the funds provided 
+     under this heading, $7,000,000 shall be available for drought 
+     emergency assistance.
+
+                       DEPARTMENT OF THE INTERIOR
+
+                         Bureau of Reclamation
+
+
+                      WATER AND RELATED RESOURCES
+
+       For an additional amount for ``Water and Related 
+     Resources'', $18,000,000, to remain available until expended 
+     for drought assistance: Provided, That drought assistance may 
+     be provided under the Reclamation States Drought Emergency 
+     Act or other applicable Reclamation authorities to assist 
+     drought plagued areas of the West.
+
+                               CHAPTER 4
+
+                       DEPARTMENT OF THE INTERIOR
+
+                       Bureau of Land Management
+
+                        wildland fire management
+
+
+                     (including transfer of funds)
+
+       For an additional amount for ``Wildland Fire Management'', 
+     $95,000,000, to remain available until expended, for urgent 
+     wildland fire suppression activities: Provided, That such 
+     funds shall only become available if funds previously 
+     provided for wildland fire suppression will be exhausted 
+     imminently and the Secretary of the Interior notifies the 
+     House and Senate Committees on Appropriations in writing of 
+     the need for these additional funds: Provided further, That 
+     such funds are also available for repayment to other 
+     appropriations accounts from which funds were transferred for 
+     wildfire suppression.
+
+                United States Fish and Wildlife Service
+
+
+                          Resource Management
+
+       For an additional amount for ``Resource Management'' for 
+     the detection of highly pathogenic avian influenza in wild 
+     birds, including the investigation of morbidity and mortality 
+     events, targeted surveillance in live wild birds, and 
+     targeted surveillance in hunter-taken birds, $7,398,000, to 
+     remain available until September 30, 2008.
+
+                         National Park Service
+
+
+                 Operation of the National Park System
+
+       For an additional amount for ``Operation of the National 
+     Park System'' for the detection of highly pathogenic avian 
+     influenza in wild birds, including the investigation of 
+     morbidity and mortality events, $525,000, to remain available 
+     until September 30, 2008.
+
+                    United States Geological Survey
+
+
+                 Surveys, Investigations, and Research
+
+       For an additional amount for ``Surveys, Investigations, and 
+     Research'' for the detection of highly pathogenic avian 
+     influenza in wild birds, including the investigation of 
+     morbidity and mortality events, targeted surveillance in live 
+     wild birds, and targeted surveillance in hunter-taken birds, 
+     $5,270,000, to remain available until September 30, 2008.
+
+                       DEPARTMENT OF AGRICULTURE
+
+                             Forest Service
+
+
+                         National Forest System
+
+       For an additional amount for ``National Forest System'' for 
+     the implementation of a nationwide initiative to increase 
+     protection of national forest lands from drug-trafficking 
+     organizations, including funding for additional law 
+     enforcement personnel, training, equipment and cooperative 
+     agreements, $12,000,000, to remain available until expended.
+
+                        wildland fire management
+
+
+                     (including transfer of funds)
+
+       For an additional amount for ``Wildland Fire Management'', 
+     $370,000,000, to remain available until expended, for urgent 
+     wildland fire suppression activities: Provided, That such 
+     funds shall only become available if funds provided 
+     previously for wildland fire suppression will be exhausted 
+     imminently and the Secretary of Agriculture notifies the 
+     House and Senate Committees on Appropriations in writing of 
+     the need for these additional funds: Provided further, That 
+     such funds are also available for repayment to other 
+     appropriation accounts from which funds were transferred for 
+     wildfire suppression.
+
+[[Page 14204]]
+
+
+
+                    GENERAL PROVISION--THIS CHAPTER
+
+       Sec. 5401. (a) For fiscal year 2007, payments shall be made 
+     from any revenues, fees, penalties, or miscellaneous receipts 
+     described in sections 102(b)(3) and 103(b)(2) of the Secure 
+     Rural Schools and Community Self-Determination Act of 2000 
+     (Public Law 106-393; 16 U.S.C. 500 note), not to exceed 
+     $100,000,000, and the payments shall be made, to the maximum 
+     extent practicable, in the same amounts, for the same 
+     purposes, and in the same manner as were made to States and 
+     counties in 2006 under that Act.
+       (b) There is appropriated $425,000,000, to remain available 
+     until December 31, 2007, to be used to cover any shortfall 
+     for payments made under this section from funds not otherwise 
+     appropriated.
+       (c) Titles II and III of Public Law 106-393 are amended, 
+     effective September 30, 2006, by striking ``2006'' and 
+     ``2007'' each place they appear and inserting ``2007'' and 
+     ``2008'', respectively.
+
+                               CHAPTER 5
+
+                DEPARTMENT OF HEALTH AND HUMAN SERVICES
+
+               Centers for Disease Control and Prevention
+
+
+                 DISEASE CONTROL, RESEARCH AND TRAINING
+
+       For an additional amount for ``Department of Health and 
+     Human Services, Centers for Disease Control and Prevention, 
+     Disease Control, Research and Training'', to carry out 
+     section 501 of the Federal Mine Safety and Health Act of 1977 
+     and section 6 of the Mine Improvement and New Emergency 
+     Response Act of 2006, $13,000,000 for research to develop 
+     mine safety technology, including necessary repairs and 
+     improvements to leased laboratories: Provided, That progress 
+     reports on technology development shall be submitted to the 
+     House and Senate Committees on Appropriations and the 
+     Committee on Health, Education, Labor and Pensions of the 
+     Senate and the Committee on Education and Labor of the House 
+     of Representatives on a quarterly basis: Provided further, 
+     That the amount provided under this heading shall remain 
+     available until September 30, 2008.
+       For an additional amount for ``Department of Health and 
+     Human Services, Centers for Disease Control and Prevention, 
+     Disease Control, Research and Training'', to carry out 
+     activities under section 5011(b) of the Emergency 
+     Supplemental Appropriations Act to Address Hurricanes in the 
+     Gulf of Mexico and Pandemic Influenza, 2006 (Public Law 109-
+     148), $50,000,000, to remain available until expended.
+
+                    GENERAL PROVISIONS--THIS CHAPTER
+
+
+                        (including rescissions)
+
+       Sec. 5501. (a). From unexpended balances available for the 
+     Training and Employment Services account under the Department 
+     of Labor, the following amounts are hereby rescinded--
+       (1) $3,589,000 transferred pursuant to the 2001 Emergency 
+     Supplemental Appropriations Act for Recovery from and 
+     Response to Terrorist Attacks on the United States (Public 
+     Law 107-38);
+       (2) $834,000 transferred pursuant to the Emergency 
+     Supplemental Appropriations Act of 1994 (Public Law 103-211); 
+     and
+       (3) $71,000 for the Consortium for Worker Education 
+     pursuant to the Emergency Supplemental Act, 2002 (Public Law 
+     107-117).
+       (b) From unexpended balances available for the State 
+     Unemployment Insurance and Employment Service Operations 
+     account under the Department of Labor pursuant to the 
+     Emergency Supplemental Act, 2002 (Public Law 107-117), 
+     $4,100,000 are hereby rescinded.
+       Sec. 5502. (a) For an additional amount under ``Department 
+     of Education, Safe Schools and Citizenship Education'', 
+     $8,594,000 shall be available for Safe and Drug-Free Schools 
+     National Programs for competitive grants to local educational 
+     agencies to address youth violence and related issues.
+       (b) The competition under subsection (a) shall be limited 
+     to local educational agencies that operate schools currently 
+     identified as persistently dangerous under section 9532 of 
+     the Elementary and Secondary Education Act of 1965.
+       Sec. 5503. Unobligated balances from funds appropriated in 
+     the Department of Defense and Emergency Supplemental 
+     Appropriations for Recovery from and Response to Terrorist 
+     Attacks on the United States Act, 2002 (Public Law 107-117) 
+     to the Department of Health and Human Services under the 
+     heading ``Public Health and Social Services Emergency Fund'' 
+     that are available for bioterrorism preparedness and disaster 
+     response activities in the Office of the Secretary shall also 
+     be available for the construction, renovation and improvement 
+     of facilities on federally-owned land as necessary for 
+     continuity of operations activities.
+
+                               CHAPTER 6
+
+                           LEGISLATIVE BRANCH
+
+                             CAPITOL POLICE
+
+                            General Expenses
+
+       For an additional amount for ``Capitol Police, General 
+     Expenses'', $10,000,000 for a radio modernization program, to 
+     remain available until expended: Provided, That the Chief of 
+     the Capitol Police may not obligate any of the funds 
+     appropriated under this heading without approval of an 
+     obligation plan by the Committees on Appropriations of the 
+     Senate and the House of Representatives.
+
+                        ARCHITECT OF THE CAPITOL
+
+                          Capitol Power Plant
+
+       For an additional amount for ``Capitol Power Plant'', 
+     $50,000,000, for utility tunnel repairs and asbestos 
+     abatement, to remain available until September 30, 2011: 
+     Provided, That the Architect of the Capitol may not obligate 
+     any of the funds appropriated under this heading without 
+     approval of an obligation plan by the Committees on 
+     Appropriations of the Senate and House of Representatives.
+
+                               CHAPTER 7
+
+                     DEPARTMENT OF VETERANS AFFAIRS
+
+                     Veterans Health Administration
+
+
+                            MEDICAL SERVICES
+
+       For an additional amount for ``Medical Services'', 
+     $466,778,000, to remain available until expended, of which 
+     $30,000,000 shall be for the establishment of at least one 
+     new Level I comprehensive polytrauma center; $9,440,000 shall 
+     be for the establishment of polytrauma residential 
+     transitional rehabilitation programs; $10,000,000 shall be 
+     for additional transition caseworkers; $20,000,000 shall be 
+     for substance abuse treatment programs; $20,000,000 shall be 
+     for readjustment counseling; $10,000,000 shall be for blind 
+     rehabilitation services; $100,000,000 shall be for 
+     enhancements to mental health services; $8,000,000 shall be 
+     for polytrauma support clinic teams; $5,356,000 shall be for 
+     additional polytrauma points of contact; $228,982,000 shall 
+     be for treatment of Operation Enduring Freedom and Operation 
+     Iraqi Freedom veterans; and $25,000,000 shall be for 
+     prosthetics.
+
+
+                         MEDICAL ADMINISTRATION
+
+       For an additional amount for ``Medical Administration'', 
+     $250,000,000, to remain available until expended.
+
+
+                           MEDICAL FACILITIES
+
+       For an additional amount for ``Medical Facilities'', 
+     $595,000,000, to remain available until expended, of which 
+     $45,000,000 shall be used for facility and equipment upgrades 
+     at the Department of Veterans Affairs polytrauma network 
+     sites; and $550,000,000 shall be for non-recurring 
+     maintenance as identified in the Department of Veterans 
+     Affairs Facility Condition Assessment report: Provided, That 
+     the amount provided under this heading for non-recurring 
+     maintenance shall be allocated in a manner not subject to the 
+     Veterans Equitable Resource Allocation: Provided further, 
+     That within 30 days of enactment of this Act the Secretary 
+     shall submit to the Committees on Appropriations of both 
+     Houses of Congress an expenditure plan, by project, for non-
+     recurring maintenance prior to obligation: Provided further, 
+     That semi-annually, on October 1 and April 1, the Secretary 
+     shall submit to the Committees on Appropriations of both 
+     Houses of Congress a report on the status of funding for non-
+     recurring maintenance, including obligations and unobligated 
+     balances for each project identified in the expenditure plan.
+
+
+                    MEDICAL AND PROSTHETIC RESEARCH
+
+       For an additional amount for ``Medical and Prosthetic 
+     Research'', $32,500,000, to remain available until expended, 
+     which shall be used for research related to the unique 
+     medical needs of returning Operation Enduring Freedom and 
+     Operation Iraqi Freedom veterans.
+
+                      Departmental Administration
+
+
+                       General Operating Expenses
+
+                     (including transfer of funds)
+
+       For an additional amount for ``General Operating 
+     Expenses'', $83,200,000, to remain available until expended, 
+     of which $1,250,000 shall be for digitization of military 
+     records; $60,750,000 shall be for expenses related to hiring 
+     and training new claims processing personnel; up to 
+     $1,200,000 shall be for an independent study of the 
+     organizational structure, management and coordination 
+     processes, including seamless transition, utilized by the 
+     Department of Veterans Affairs to provide health care and 
+     benefits to active duty personnel and veterans, including 
+     those returning Operation Enduring Freedom and Operation 
+     Iraqi Freedom veterans; and $20,000,000 shall be for 
+     disability examinations: Provided, That not to exceed 
+     $1,250,000 of the amount appropriated under this heading may 
+     be transferred to the Department of Defense for the 
+     digitization of military records used to verify stressors for 
+     benefits claims.
+
+
+                     INFORMATION TECHNOLOGY SYSTEMS
+
+       For an additional amount for ``Information Technology 
+     Systems'', $35,100,000, to remain available until expended, 
+     of which $20,000,000 shall be for information technology 
+     support and improvements for processing of Operation Enduring 
+     Freedom and Operation Iraqi Freedom veterans benefits claims, 
+     including making electronic Department of Defense medical 
+     records available for claims processing and enabling 
+     electronic benefits applications by veterans; and $15,100,000 
+     shall be for electronic data breach remediation and 
+     prevention.
+
+
+                      CONSTRUCTION, MINOR PROJECTS
+
+       For an additional amount for ``Construction, Minor 
+     Projects'', $326,000,000, to remain available until expended, 
+     of which up to
+
+[[Page 14205]]
+
+     $36,000,000 shall be for construction costs associated with 
+     the establishment of polytrauma residential transitional 
+     rehabilitation programs.
+
+                    GENERAL PROVISIONS--THIS CHAPTER
+
+       Sec. 5701. The Director of the Congressional Budget Office 
+     shall, not later than November 15, 2007, submit to the 
+     Committees on Appropriations of the House of Representatives 
+     and the Senate a report projecting appropriations necessary 
+     for the Departments of Defense and Veterans Affairs to 
+     continue providing necessary health care to veterans of the 
+     conflicts in Iraq and Afghanistan. The projections should 
+     span several scenarios for the duration and number of forces 
+     deployed in Iraq and Afghanistan, and more generally, for the 
+     long-term health care needs of deployed troops engaged in the 
+     global war on terrorism over the next ten years.
+       Sec. 5702. Notwithstanding any other provision of law, 
+     appropriations made by Public Law 110-5, which the Secretary 
+     of Veterans Affairs contributes to the Department of Defense/
+     Department of Veterans Affairs Health Care Sharing Incentive 
+     Fund under the authority of section 8111(d) of title 38, 
+     United States Code, shall remain available until expended for 
+     any purpose authorized by section 8111 of title 38, United 
+     States Code.
+       Sec. 5703. (a)(1) The Secretary of Veterans Affairs 
+     (referred to in this section as the ``Secretary'') may convey 
+     to the State of Texas, without consideration, all rights, 
+     title, and interest of the United States in and to the parcel 
+     of real property comprising the location of the Marlin, 
+     Texas, Department of Veterans Affairs Medical Center.
+       (2) The property conveyed under paragraph (1) shall be used 
+     by the State of Texas for the purposes of a prison.
+       (b) In carrying out the conveyance under subsection (a), 
+     the Secretary shall conduct environmental cleanup on the 
+     parcel to be conveyed, at a cost not to exceed $500,000, 
+     using amounts made available for environmental cleanup of 
+     sites under the jurisdiction of the Secretary.
+       (c) Nothing in this section may be construed to affect or 
+     limit the application of or obligation to comply with any 
+     environmental law, including section 120(h) of the 
+     Comprehensive Environmental Response, Compensation, and 
+     Liability Act of 1980 (42 U.S.C. 9620(h)).
+       Sec. 5704. (a) Funds provided in this Act for the following 
+     accounts shall be made available for programs under the 
+     conditions contained in the language of the joint explanatory 
+     statement of managers accompanying the conference report on 
+     H.R. 1591 of the 110th Congress (H. Rept. 110-107):
+       ``Medical Services''.
+       ``Medical Administration''.
+       ``Medical Facilities''.
+       ``Medical and Prosthetic Research''.
+       ``General Operating Expenses''.
+       ``Information Technology Systems''.
+       ``Construction, Minor Projects''.
+       (b) The Secretary of Veterans Affairs shall submit all 
+     reports requested in House Report 110-60 and Senate Report 
+     110-37, to the Committees on Appropriations of both Houses of 
+     Congress.
+       Sec. 5705. Subsection (d) of section 2023 of title 38, 
+     United States Code, is amended by striking ``shall cease'' 
+     and all that follows through ``program'' and inserting 
+     ``shall cease on September 30, 2007''.
+
+                        TITLE VI--OTHER MATTERS
+
+                               CHAPTER 1
+
+                       DEPARTMENT OF AGRICULTURE
+
+                          Farm Service Agency
+
+
+                         SALARIES AND EXPENSES
+
+       For an additional amount for ``Salaries and Expenses'' of 
+     the Farm Service Agency, $37,500,000, to remain available 
+     until September 30, 2008: Provided, That this amount shall 
+     only be available for network and database/application 
+     stabilization.
+
+                    GENERAL PROVISIONS--THIS CHAPTER
+
+       Sec. 6101. Of the funds made available through 
+     appropriations to the Food and Drug Administration for fiscal 
+     year 2007, not less than $4,000,000 shall be for the Office 
+     of Women's Health of such Administration.
+       Sec. 6102. None of the funds made available to the 
+     Department of Agriculture for fiscal year 2007 may be used to 
+     implement the risk-based inspection program in the 30 
+     prototype locations announced on February 22, 2007, by the 
+     Under Secretary for Food Safety, or at any other locations, 
+     until the USDA Office of Inspector General has provided its 
+     findings to the Food Safety and Inspection Service and the 
+     Committees on Appropriations of the House of Representatives 
+     and the Senate on the data used in support of the development 
+     and design of the risk-based inspection program and FSIS has 
+     addressed and resolved issues identified by OIG.
+
+                               CHAPTER 2
+
+                    GENERAL PROVISIONS--THIS CHAPTER
+
+       Sec. 6201. Hereafter, federal employees at the National 
+     Energy Technology Laboratory shall be classified as 
+     inherently governmental for the purpose of the Federal 
+     Activities Inventory Reform Act of 1998 (31 U.S.C. 501 note).
+       Sec. 6202. None of the funds made available under this or 
+     any other Act shall be used during fiscal year 2007 to make, 
+     or plan or prepare to make, any payment on bonds issued by 
+     the Administrator of the Bonneville Power Administration 
+     (referred in this section as the ``Administrator'') or for an 
+     appropriated Federal Columbia River Power System investment, 
+     if the payment is both--
+       (1) greater, during any fiscal year, than the payments 
+     calculated in the rate hearing of the Administrator to be 
+     made during that fiscal year using the repayment method used 
+     to establish the rates of the Administrator as in effect on 
+     October 1, 2006; and
+       (2) based or conditioned on the actual or expected net 
+     secondary power sales receipts of the Administrator.
+
+                               CHAPTER 3
+
+                    GENERAL PROVISIONS--THIS CHAPTER
+
+       Sec. 6301. (a) Section 102(a)(3)(B) of the Help America 
+     Vote Act of 2002 (42 U.S.C. 15302(a)(3)(B)) is amended by 
+     striking ``January 1, 2006'' and inserting ``March 1, 2008''.
+       (b) The amendment made by subsection (a) shall take effect 
+     as if included in the enactment of the Help America Vote Act 
+     of 2002.
+       Sec. 6302. The structure of any of the offices or 
+     components within the Office of National Drug Control Policy 
+     shall remain as they were on October 1, 2006. None of the 
+     funds appropriated or otherwise made available in the 
+     Continuing Appropriations Resolution, 2007 (Public Law 110-5) 
+     may be used to implement a reorganization of offices within 
+     the Office of National Drug Control Policy without the 
+     explicit approval of the Committees on Appropriations of the 
+     House of Representatives and the Senate.
+       Sec. 6303. From the amount provided by section 21067 of the 
+     Continuing Appropriations Resolution, 2007 (Public Law 110-
+     5), the National Archives and Records Administration may 
+     obligate monies necessary to carry out the activities of the 
+     Public Interest Declassification Board.
+       Sec. 6304. Notwithstanding the notice requirement of the 
+     Transportation, Treasury, Housing and Urban Development, the 
+     Judiciary, the District of Columbia, and Independent Agencies 
+     Appropriations Act, 2006, 119 Stat. 2509 (Public Law 109-
+     115), as continued in section 104 of the Continuing 
+     Appropriations Resolution, 2007 (Public Law 110-5), the 
+     District of Columbia Courts may reallocate not more than 
+     $1,000,000 of the funds provided for fiscal year 2007 under 
+     the Federal Payment to the District of Columbia Courts for 
+     facilities among the items and entities funded under that 
+     heading for operations.
+       Sec. 6305. (a) Not later than 90 days after the date of 
+     enactment of this Act, the Secretary of the Treasury, in 
+     coordination with the Securities and Exchange Commission and 
+     in consultation with the Departments of State and Energy, 
+     shall prepare and submit to the Senate Committee on 
+     Appropriations, the House Committee on Appropriations, the 
+     Senate Committee on Banking, Housing, and Urban Affairs, the 
+     House Committee on Financial Services, the Senate Foreign 
+     Relations Committee, and the House Foreign Affairs Committee 
+     a written report, which may include a classified annex, 
+     containing the names of companies which either directly or 
+     through a parent or subsidiary company, including partly-
+     owned subsidiaries, are known to conduct significant business 
+     operations in Sudan relating to natural resource extraction, 
+     including oil-related activities and mining of minerals. The 
+     reporting provision shall not apply to companies operating 
+     under licenses from the Office of Foreign Assets Control or 
+     otherwise expressly exempted under United States law from 
+     having to obtain such licenses in order to operate in Sudan.
+       (b) Not later than 45 days following the submission to 
+     Congress of the list of companies conducting business 
+     operations in Sudan relating to natural resource extraction 
+     as required above, the General Services Administration shall 
+     determine whether the United States Government has an active 
+     contract for the procurement of goods or services with any of 
+     the identified companies, and provide notification to the 
+     appropriate committees of Congress, which may include a 
+     classified annex, regarding the companies, nature of the 
+     contract, and dollar amounts involved.
+
+
+                         (including rescission)
+
+       Sec. 6306. (a) Of the funds provided for the General 
+     Services Administration, ``Office of Inspector General'' in 
+     section 21061 of the Continuing Appropriations Resolution, 
+     2007 (division B of Public Law 109-289, as amended by Public 
+     Law 110-5), $4,500,000 are rescinded.
+       (b) For an additional amount for the General Services 
+     Administration, ``Office of Inspector General'', $4,500,000, 
+     to remain available until September 30, 2008.
+       (c) With the additional amount of $9,336,000 appropriated 
+     in Public Law 110-5 and in this Act, above the amount 
+     appropriated in Public Law 109-115, of which $4,500,000 
+     remains available for obligation in fiscal year 2008, the 
+     Office of Inspector General shall hire additional staff for 
+     internal audits and investigations, and the remaining funds 
+     shall be for one-time associated needs such as information 
+     technology and other such administrative support.
+       Sec. 6307. Section 21073 of the Continuing Appropriations 
+     Resolution, 2007 (Public Law
+
+[[Page 14206]]
+
+     110-5) is amended by adding a new subsection (j) as follows:
+       ``(j) Notwithstanding section 101, any appropriation or 
+     funds made available to the District of Columbia pursuant to 
+     this Act for `Federal Payment for Foster Care Improvement in 
+     the District of Columbia' shall be available in accordance 
+     with an expenditure plan submitted by the Mayor of the 
+     District of Columbia not later than 60 days after the 
+     enactment of this section which details the activities to be 
+     carried out with such Federal Payment.''.
+       Sec. 6308. It is the sense of Congress that the Small 
+     Business Administration will provide, through funds available 
+     within amounts already appropriated for Small Business 
+     Administration disaster assistance, physical and economic 
+     injury disaster loans to Kansas businesses and homeowners 
+     devastated by the severe tornadoes, storms, and flooding that 
+     occurred beginning on May 4, 2007.
+
+                               CHAPTER 4
+
+                    DEPARTMENT OF HOMELAND SECURITY
+
+                    GENERAL PROVISIONS--THIS CHAPTER
+
+       Sec. 6401. Not to exceed $30,000,000 from unobligated 
+     balances remaining from prior appropriations for United 
+     States Coast Guard, ``Retired Pay'', shall remain available 
+     until expended in the account and for the purposes for which 
+     the appropriations were provided, including the payment of 
+     obligations otherwise chargeable to lapsed or current 
+     appropriations for this purpose: Provided, That within 45 
+     days after the date of enactment of this Act, the United 
+     States Coast Guard shall submit to the Committees on 
+     Appropriations of the Senate and the House of Representatives 
+     the following: (1) a report on steps being taken to improve 
+     the accuracy of its estimates for the ``Retired Pay'' 
+     appropriation, and (2) quarterly reports on the use of 
+     unobligated balances made available by this Act to address 
+     the projected shortfall in the ``Retired Pay'' appropriation, 
+     as well as updated estimates for fiscal year 2008.
+       Sec. 6402. (a) In General.--Any contract, subcontract, task 
+     or delivery order described in subsection (b) shall contain 
+     the following:
+       (1) A requirement for a technical review of all designs, 
+     design changes, and engineering change proposals, and a 
+     requirement to specifically address all engineering concerns 
+     identified in the review before the obligation of further 
+     funds may occur.
+       (2) A requirement that the Coast Guard maintain technical 
+     warrant holder authority, or the equivalent, for major 
+     assets.
+       (3) A requirement that no procurement subject to subsection 
+     (b) for lead asset production or the implementation of a 
+     major design change shall be entered into unless an 
+     independent third party with no financial interest in the 
+     development, construction, or modification of any component 
+     of the asset, selected by the Commandant, determines that 
+     such action is advisable.
+       (4) A requirement for independent life-cycle cost estimates 
+     of lead assets and major design and engineering changes.
+       (5) A requirement for the measurement of contractor and 
+     subcontractor performance based on the status of all work 
+     performed. For contracts under the Integrated Deepwater 
+     Systems program, such requirement shall include a provision 
+     that links award fees to successful acquisition outcomes 
+     (which shall be defined in terms of cost, schedule, and 
+     performance).
+       (6) A requirement that the Commandant of the Coast Guard 
+     assign an appropriate officer or employee of the Coast Guard 
+     to act as chair of each integrated product team and higher-
+     level team assigned to the oversight of each integrated 
+     product team.
+       (7) A requirement that the Commandant of the Coast Guard 
+     may not award or issue any contract, task or delivery order, 
+     letter contract modification thereof, or other similar 
+     contract, for the acquisition or modification of an asset 
+     under a procurement subject to subsection (b) unless the 
+     Coast Guard and the contractor concerned have formally agreed 
+     to all terms and conditions or the head of contracting 
+     activity for the Coast Guard determines that a compelling 
+     need exists for the award or issue of such instrument.
+       (b) Contracts, Subcontracts, Task and Delivery Orders 
+     Covered.--Subsection (a) applies to--
+       (1) any major procurement contract, first-tier subcontract, 
+     delivery or task order entered into by the Coast Guard;
+       (2) any first-tier subcontract entered into under such a 
+     contract; and
+       (3) any task or delivery order issued pursuant to such a 
+     contract or subcontract.
+       (c) Expenditure of Deepwater Funds.--Of the funds available 
+     for the Integrated Deepwater Systems program, $650,000,000 
+     may not be obligated until the Committees on Appropriations 
+     of the Senate and the House of Representatives receive an 
+     expenditure plan directly from the Coast Guard that--
+       (1) defines activities, milestones, yearly costs, and life-
+     cycle costs for each procurement of a major asset;
+       (2) identifies life-cycle staffing and training needs of 
+     Coast Guard project managers and of procurement and contract 
+     staff;
+       (3) identifies competition to be conducted in each 
+     procurement;
+       (4) describes procurement plans that do not rely on a 
+     single industry entity or contract;
+       (5) contains very limited indefinite delivery/indefinite 
+     quantity contracts and explains the need for any indefinite 
+     delivery/indefinite quantity contracts;
+       (6) complies with all applicable acquisition rules, 
+     requirements, and guidelines, and incorporates the best 
+     systems acquisition management practices of the Federal 
+     Government;
+       (7) complies with the capital planning and investment 
+     control requirements established by the Office of Management 
+     and Budget, including circular A-11, part 7;
+       (8) includes a certification by the head of contracting 
+     activity for the Coast Guard and the Chief Procurement 
+     Officer of the Department of Homeland Security that the Coast 
+     Guard has established sufficient controls and procedures and 
+     has sufficient staffing to comply with all contracting 
+     requirements, and that any conflicts of interest have been 
+     sufficiently addressed;
+       (9) includes a description of the process used to act upon 
+     deviations from the contractually specified performance 
+     requirements and clearly explains the actions taken on such 
+     deviations;
+       (10) includes a certification that the Assistant Commandant 
+     of the Coast Guard for Engineering and Logistics is 
+     designated as the technical authority for all engineering, 
+     design, and logistics decisions pertaining to the Integrated 
+     Deepwater Systems program; and
+       (11) identifies progress in complying with the requirements 
+     of subsection (a).
+       (d) Reports.--(1) Not later than 30 days after the date of 
+     enactment of this Act, the Commandant of the Coast Guard 
+     shall submit to the Committees on Appropriations of the 
+     Senate and the House of Representatives; the Committee on 
+     Commerce, Science and Transportation of the Senate; and the 
+     Committee on Transportation and Infrastructure of the House 
+     of Representatives: (i) a report on the resources (including 
+     training, staff, and expertise) required by the Coast Guard 
+     to provide appropriate management and oversight of the 
+     Integrated Deepwater Systems program; and (ii) a report on 
+     how the Coast Guard will utilize full and open competition 
+     for any contract that provides for the acquisition or 
+     modification of assets under, or in support of, the 
+     Integrated Deepwater Systems program, entered into after the 
+     date of enactment of this Act.
+       (2) Within 30 days following the submission of the 
+     expenditure plan required under subsection (c), the 
+     Government Accountability Office shall review the plan and 
+     brief the Committees on Appropriations of the Senate and the 
+     House of Representatives on its findings.
+       Sec. 6403. None of the funds provided in this Act or any 
+     other Act may be used to alter or reduce operations within 
+     the Civil Engineering Program of the Coast Guard nationwide, 
+     including the civil engineering units, facilities, design and 
+     construction centers, maintenance and logistics command 
+     centers, and the Coast Guard Academy, except as specifically 
+     authorized by a statute enacted after the date of enactment 
+     of this Act.
+
+
+                    (including rescissions of funds)
+
+       Sec. 6404. (a) Rescissions.--The following unobligated 
+     balances made available pursuant to section 505 of Public Law 
+     109-90 are rescinded: $1,200,962 from the ``Office of the 
+     Secretary and Executive Management''; $512,855 from the 
+     ``Office of the Under Secretary for Management''; $461,874 
+     from the ``Office of the Chief Information Officer''; $45,080 
+     from the ``Office of the Chief Financial Officer''; $968,211 
+     from Preparedness ``Management and Administration''; 
+     $1,215,486 from Science and Technology ``Management and 
+     Administration''; $450,000 from United States Secret Service 
+     ``Salaries and Expenses''; $450,000 from Federal Emergency 
+     Management Agency ``Administrative and Regional Operations''; 
+     and $25,595,532 from United States Coast Guard ``Operating 
+     Expenses''.
+       (b) Additional Appropriations.--
+       (1) For an additional amount for United States Coast Guard 
+     ``Acquisition, Construction, and Improvements'', $30,000,000, 
+     to remain available until September 30, 2009, to mitigate the 
+     Service's patrol boat operational gap.
+       (2) For an additional amount for the ``Office of the Under 
+     Secretary for Management'', $900,000 for an independent study 
+     to compare the Department of Homeland Security senior career 
+     and political staffing levels and senior career training 
+     programs with those of similarly structured cabinet-level 
+     agencies as detailed in House Report 110-107: Provided, That 
+     the Department of Homeland Security shall provide to the 
+     Committees on Appropriations of the Senate and the House of 
+     Representatives by July 20, 2007, a report on senior 
+     staffing, as detailed in Senate Report 110-37, and the 
+     Government Accountability Office shall report on the 
+     strengths and weakness of this report within 90 days after 
+     its submission.
+       Sec. 6405. (a) In General.--With respect to contracts 
+     entered into after July 1, 2007, and except as provided in 
+     subsection (b), no entity performing lead system integrator 
+     functions in the acquisition of a major system by the 
+     Department of Homeland Security may
+
+[[Page 14207]]
+
+     have any direct financial interest in the development or 
+     construction of any individual system or element of any 
+     system of systems.
+       (b) Exception.--An entity described in subsection (a) may 
+     have a direct financial interest in the development or 
+     construction of an individual system or element of a system 
+     of systems if--
+       (1) the Secretary of Homeland Security certifies to the 
+     Committees on Appropriations of the Senate and the House of 
+     Representatives, the Committee on Homeland Security of the 
+     House of Representatives, the Committee on Transportation and 
+     Infrastructure of the House of Representatives, the Committee 
+     on Homeland Security and Governmental Affairs of the Senate, 
+     and the Committee on Commerce, Science and Transportation of 
+     the Senate that--
+       (A) the entity was selected by the Department of Homeland 
+     Security as a contractor to develop or construct the system 
+     or element concerned through the use of competitive 
+     procedures; and
+       (B) the Department took appropriate steps to prevent any 
+     organizational conflict of interest in the selection process; 
+     or
+       (2) the entity was selected by a subcontractor to serve as 
+     a lower-tier subcontractor, through a process over which the 
+     entity exercised no control.
+       (c) Construction.--Nothing in this section shall be 
+     construed to preclude an entity described in subsection (a) 
+     from performing work necessary to integrate two or more 
+     individual systems or elements of a system of systems with 
+     each other.
+       (d) Regulations Update.--Not later than July 1, 2007, the 
+     Secretary of Homeland Security shall update the acquisition 
+     regulations of the Department of Homeland Security in order 
+     to specify fully in such regulations the matters with respect 
+     to lead system integrators set forth in this section. 
+     Included in such regulations shall be: (1) a precise and 
+     comprehensive definition of the term ``lead system 
+     integrator'', modeled after that used by the Department of 
+     Defense; and (2) a specification of various types of 
+     contracts and fee structures that are appropriate for use by 
+     lead system integrators in the production, fielding, and 
+     sustainment of complex systems.
+
+                               CHAPTER 5
+
+                    GENERAL PROVISIONS--THIS CHAPTER
+
+       Sec. 6501. Section 20515 of the Continuing Appropriations 
+     Resolution, 2007 (division B of Public Law 109-289, as 
+     amended by Public Law 110-5) is amended by inserting before 
+     the period: ``; and of which, not to exceed $143,628,000 
+     shall be available for contract support costs under the terms 
+     and conditions contained in Public Law 109-54''.
+       Sec. 6502. Section 20512 of the Continuing Appropriations 
+     Resolution, 2007 (division B of Public Law 109-289, as 
+     amended by Public Law 110-5) is amended by inserting after 
+     the first dollar amount: ``, of which not to exceed 
+     $7,300,000 shall be transferred to the `Indian Health 
+     Facilities' account; the amount in the second proviso shall 
+     be $18,000,000; the amount in the third proviso shall be 
+     $525,099,000; the amount in the ninth proviso shall be 
+     $269,730,000; and the $15,000,000 allocation of funding under 
+     the eleventh proviso shall not be required''.
+       Sec. 6503. Section 20501 of the Continuing Appropriations 
+     Resolution, 2007 (division B of Public Law 109-289, as 
+     amended by Public Law 110-5) is amended by inserting after 
+     ``$55,663,000'' the following: ``of which $13,000,000 shall 
+     be for Save America's Treasures''.
+       Sec. 6504. Funds made available to the United States Fish 
+     and Wildlife Service for fiscal year 2007 under the heading 
+     ``Land Acquisition'' may be used for land conservation 
+     partnerships authorized by the Highlands Conservation Act of 
+     2004.
+
+                               CHAPTER 6
+
+                DEPARTMENT OF HEALTH AND HUMAN SERVICES
+
+                     National Institutes of Health
+
+
+         National Institute of Allergy and Infectious Diseases
+
+                          (TRANSFER OF FUNDS)
+
+       Of the amount provided by the Continuing Appropriations 
+     Resolution, 2007 (division B of Public Law 109-289, as 
+     amended by Public Law 110-5) for ``National Institute of 
+     Allergy and Infectious Diseases'', $49,500,000 shall be 
+     transferred to ``Public Health and Social Services Emergency 
+     Fund'' to carry out activities relating to advanced research 
+     and development as provided by section 319L of the Public 
+     Health Service Act.
+
+
+                         OFFICE OF THE DIRECTOR
+
+                          (Transfer of Funds)
+
+       Of the amount provided by the Continuing Appropriations 
+     Resolution, 2007 (division B of Public Law 109-289, as 
+     amended by Public Law 110-5) for ``Office of the Director'', 
+     $49,500,000 shall be transferred to ``Public Health and 
+     Social Services Emergency Fund'' to carry out activities 
+     relating to advanced research and development as provided by 
+     section 319L of the Public Health Service Act.
+
+
+                     NATIONAL COUNCIL ON DISABILITY
+
+                         Salaries and Expenses
+
+       For an additional amount for ``Salaries and Expenses'', 
+     $300,000, to remain available until expended, for necessary 
+     expenses related to the requirements of the Post-Katrina 
+     Emergency Management Reform Act of 2006, as enacted by the 
+     Department of Homeland Security Appropriations Act, 2007 
+     (Public Law 109-295).
+
+                    GENERAL PROVISIONS--THIS CHAPTER
+
+
+             (INCLUDING TRANSFERS OF FUNDS AND RESCISSIONS)
+
+       Sec. 6601. Section 20602 of the Continuing Appropriations 
+     Resolution, 2007 (division B of Public Law 109-289, as 
+     amended by Public Law 110-5) is amended by inserting the 
+     following after ``$5,000,000'': ``(together with an 
+     additional $7,000,000 which shall be transferred by the 
+     Pension Benefit Guaranty Corporation as an authorized 
+     administrative cost), to remain available through September 
+     30, 2008,''.
+       Sec. 6602. (a) None of the funds available to the Mine 
+     Safety and Health Administration under the Continuing 
+     Appropriations Resolution, 2007 (division B of Public Law 
+     109-289, as amended by Public Law 110-5) shall be used to 
+     enter into or carry out a contract for the performance by a 
+     contractor of any operations or services pursuant to the 
+     public-private competitions conducted under Office of 
+     Management and Budget Circular A-76.
+       (b) Hereafter, Federal employees at the Mine Safety and 
+     Health Administration shall be classified as inherently 
+     governmental for the purpose of the Federal Activities 
+     Inventory Reform Act of 1998 (31 U.S.C. 501 note).
+       Sec. 6603. Section 20607 of the Continuing Appropriations 
+     Resolution, 2007 (division B of Public Law 109-289, as 
+     amended by Public Law 110-5) is amended by inserting ``of 
+     which $9,666,000 shall be for the Women's Bureau,'' after 
+     ``for child labor activities,''.
+       Sec. 6604. Of the amount provided for ``Department of 
+     Health and Human Services, Health Resources and Services 
+     Administration, Health Resources and Services'' in the 
+     Continuing Appropriations Resolution, 2007 (division B of 
+     Public Law 109-289, as amended by Public Law 110-5), 
+     $23,000,000 shall be for Poison Control Centers.
+       Sec. 6605. From the amounts made available by the 
+     Continuing Appropriations Resolution, 2007 (division B of 
+     Public Law 109-289, as amended by Public Law 110-5) for the 
+     Office of the Secretary, General Departmental Management 
+     under the Department of Health and Human Services, $500,000 
+     are rescinded.
+       Sec. 6606. Section 20625(b)(1) of the Continuing 
+     Appropriations Resolution, 2007 (division B of Public Law 
+     109-289, as amended by Public Law 110-5) is amended by--
+       (1) striking ``$7,172,994,000'' and inserting 
+     ``$7,176,431,000'';
+       (2) amending subparagraph (A) to read as follows: ``(A) 
+     $5,454,824,000 shall be for basic grants under section 1124 
+     of the Elementary and Secondary Education Act of 1965 (ESEA), 
+     of which up to $3,437,000 shall be available to the Secretary 
+     of Education on October 1, 2006, to obtain annually updated 
+     educational-agency-level census poverty data from the Bureau 
+     of the Census;''; and
+       (3) amending subparagraph (C) to read as follows: ``(C) not 
+     to exceed $2,352,000 may be available for section 1608 of the 
+     ESEA and for a clearinghouse on comprehensive school reform 
+     under part D of title V of the ESEA;''.
+       Sec. 6607. The provision in the first proviso under the 
+     heading ``Rehabilitation Services and Disability Research'' 
+     in the Department of Education Appropriations Act, 2006, 
+     relating to alternative financing programs under section 
+     4(b)(2)(D) of the Assistive Technology Act of 1998 shall not 
+     apply to funds appropriated by the Continuing Appropriations 
+     Resolution, 2007.
+       Sec. 6608. From the amounts made available by the 
+     Continuing Appropriations Resolution, 2007 (division B of 
+     Public Law 109-289, as amended by Public Law 110-5) for 
+     administrative expenses of the Department of Education, 
+     $500,000 are rescinded: Provided, That such reduction shall 
+     not apply to funds available to the Office for Civil Rights 
+     and the Office of the Inspector General.
+       Sec. 6609. Notwithstanding sections 20639 and 20640 of the 
+     Continuing Appropriations Resolution, 2007, as amended by 
+     section 2 of the Revised Continuing Appropriations 
+     Resolution, 2007 (Public Law 110-5), the Chief Executive 
+     Officer of the Corporation for National and Community Service 
+     may transfer an amount of not more than $1,360,000 from the 
+     account under the heading ``National and Community Service 
+     Programs, Operating Expenses'' under the heading 
+     ``Corporation for National and Community Service'', to the 
+     account under the heading ``Salaries and Expenses'' under the 
+     heading ``Corporation for National and Community Service''.
+       Sec. 6610. (a) Section 1310.12(a) of title 45, Code of 
+     Federal Regulations, shall take effect 30 days after the date 
+     of enactment of this Act.
+       (b)(1) Not later than 60 days after the National Highway 
+     Traffic Safety Administration of the Department of 
+     Transportation submits its study on occupant protection on 
+     Head Start transit vehicles (related to Government 
+     Accountability Office report GAO-06-767R), the Secretary of 
+     Health and Human Services shall review and shall revise as 
+     necessary the allowable alternate vehicle standards described 
+     in that part 1310 (or any corresponding similar regulation or 
+     ruling) relating to allowable alternate vehicles used to 
+     transport children for a Head Start program. In making any 
+     such revision, the Secretary shall revise the standards to be 
+     consistent
+
+[[Page 14208]]
+
+     with the findings contained in such study, including making a 
+     determination on the exemption of such a vehicle from Federal 
+     seat spacing requirements, and Federal supporting seating 
+     requirements related to compartmentalization, if such vehicle 
+     meets all other applicable Federal motor vehicle safety 
+     standards, including standards for seating systems, occupant 
+     crash protection, seat belt assemblies, and child restraint 
+     anchorage systems consistent with that part 1310 (or any 
+     corresponding similar regulation or ruling).
+       (2) Notwithstanding subsection (a), until such date as the 
+     Secretary of Health and Human Services completes the review 
+     and any necessary revision specified in paragraph (1), the 
+     provisions of section 1310.12(a) relating to Federal seat 
+     spacing requirements, and Federal supporting seating 
+     requirements related to compartmentalization, for allowable 
+     alternate vehicles used to transport children for a Head 
+     Start program, shall not apply to such a vehicle if such 
+     vehicle meets all other applicable Federal motor vehicle 
+     safety standards, as described in paragraph (1).
+       Sec. 6611. (a)(1) Section 3(37)(G) of the Employee 
+     Retirement Income Security Act of 1974 (29 U.S.C. 
+     1002(37)(G)) (as amended by section 1106(a) of the Pension 
+     Protection Act of 2006) is amended--
+       (A) in clause (i)(II)(aa), by striking ``for each of the 3 
+     plan years immediately before the date of the enactment of 
+     the Pension Protection Act of 2006,'' and inserting ``for 
+     each of the 3 plan years immediately preceding the first plan 
+     year for which the election under this paragraph is effective 
+     with respect to the plan,'';
+       (B) in clause (ii), by striking ``starting with the first 
+     plan year ending after the date of the enactment of the 
+     Pension Protection Act of 2006'' and inserting ``starting 
+     with any plan year beginning on or after January 1, 1999, and 
+     ending before January 1, 2008, as designated by the plan in 
+     the election made under clause (i)(II)''; and
+       (C) by adding at the end the following new clause:
+       ``(vii) For purposes of this Act and the Internal Revenue 
+     Code of 1986, a plan making an election under this 
+     subparagraph shall be treated as maintained pursuant to a 
+     collective bargaining agreement if a collective bargaining 
+     agreement, expressly or otherwise, provides for or permits 
+     employer contributions to the plan by one or more employers 
+     that are signatory to such agreement, or participation in the 
+     plan by one or more employees of an employer that is 
+     signatory to such agreement, regardless of whether the plan 
+     was created, established, or maintained for such employees by 
+     virtue of another document that is not a collective 
+     bargaining agreement.''.
+       (2) Paragraph (6) of section 414(f) of the Internal Revenue 
+     Code of 1986 (relating to election with regard to 
+     multiemployer status) (as amended by section 1106(b) of the 
+     Pension Protection Act of 2006) is amended--
+       (A) in subparagraph (A)(ii)(I), by striking ``for each of 
+     the 3 plan years immediately before the date of enactment of 
+     the Pension Protection Act of 2006,'' and inserting ``for 
+     each of the 3 plan years immediately preceding the first plan 
+     year for which the election under this paragraph is effective 
+     with respect to the plan,'';
+       (B) in subparagraph (B), by striking ``starting with the 
+     first plan year ending after the date of the enactment of the 
+     Pension Protection Act of 2006'' and inserting ``starting 
+     with any plan year beginning on or after January 1, 1999, and 
+     ending before January 1, 2008, as designated by the plan in 
+     the election made under subparagraph (A)(ii)''; and
+       (C) by adding at the end the following new subparagraph:
+       ``(F) Maintenance under collective bargaining agreement.--
+     For purposes of this title and the Employee Retirement Income 
+     Security Act of 1974, a plan making an election under this 
+     paragraph shall be treated as maintained pursuant to a 
+     collective bargaining agreement if a collective bargaining 
+     agreement, expressly or otherwise, provides for or permits 
+     employer contributions to the plan by one or more employers 
+     that are signatory to such agreement, or participation in the 
+     plan by one or more employees of an employer that is 
+     signatory to such agreement, regardless of whether the plan 
+     was created, established, or maintained for such employees by 
+     virtue of another document that is not a collective 
+     bargaining agreement.''.
+       (b)(1) Clause (vi) of section 3(37)(G) of the Employee 
+     Retirement Income Security Act of 1974 (as amended by section 
+     1106(a) of the Pension Protection Act of 2006) is amended by 
+     striking ``if it is a plan--'' and all that follows and 
+     inserting the following: ``if it is a plan sponsored by an 
+     organization which is described in section 501(c)(5) of the 
+     Internal Revenue Code of 1986 and exempt from tax under 
+     section 501(a) of such Code and which was established in 
+     Chicago, Illinois, on August 12, 1881.''.
+       (2) Subparagraph (E) of section 414(f)(6) of the Internal 
+     Revenue Code of 1986 (as amended by section 1106(b) of the 
+     Pension Protection Act of 2006) is amended by striking ``if 
+     it is a plan--'' and all that follows and inserting the 
+     following: ``if it is a plan sponsored by an organization 
+     which is described in section 501(c)(5) and exempt from tax 
+     under section 501(a) and which was established in Chicago, 
+     Illinois, on August 12, 1881.''.
+       (c) The amendments made by this section shall take effect 
+     as if included in section 1106 of the Pension Protection Act 
+     of 2006.
+       Sec. 6612. (a) Subclause (III) of section 420(f)(2)(E)(i) 
+     of the Internal Revenue Code of 1986 is amended by striking 
+     ``subsection (c)(2)(E)(ii)(II)'' and inserting ``subsection 
+     (c)(3)(E)(ii)(II)''.
+       (b) Section 420(e)(2)(B) of the Internal Revenue Code of 
+     1986 is amended by striking ``funding shortfall'' and 
+     inserting ``funding target''.
+       (c) The amendments made by this section shall take effect 
+     as if included in the provisions of the Pension Protection 
+     Act of 2006 to which they relate.
+       Sec. 6613. (a) Subparagraph (A) of section 420(c)(3) of the 
+     Internal Revenue Code of 1986 is amended by striking 
+     ``transfer.'' and inserting ``transfer or, in the case of a 
+     transfer which involves a plan maintained by an employer 
+     described in subsection (f)(2)(E)(i)(III), if the plan meets 
+     the requirements of subsection (f)(2)(D)(i)(II).''.
+       (b) The amendment made by subsection (a) shall apply to 
+     transfers after the date of the enactment of this Act.
+       Sec. 6614. (a) Section 402(i)(1) of the Pension Protection 
+     Act of 2006 is amended by striking ``December 28, 2007'' and 
+     inserting ``January 1, 2008''.
+       (b) The amendment made by subsection (a) shall take effect 
+     as if included in section 402 of the Pension Protection Act 
+     of 2006.
+       Sec. 6615. (a) Section 402(a)(2) of the Pension Protection 
+     Act of 2006 is amended by inserting ``and by using, in 
+     determining the funding target for each of the 10 plan years 
+     during such period, an interest rate of 8.25 percent (rather 
+     than the segment rates calculated on the basis of the 
+     corporate bond yield curve)'' after ``such plan year''.
+       (b) The amendment made by this section shall take effect as 
+     if included in the provisions of the Pension Protection Act 
+     of 2006 to which such amendment relates.
+
+                               CHAPTER 7
+
+                           LEGISLATIVE BRANCH
+
+                        HOUSE OF REPRESENTATIVES
+
+      Payment to Widows and Heirs of Deceased Members of Congress
+
+       For payment to Gloria W. Norwood, widow of Charles W. 
+     Norwood, Jr., late a Representative from the State of 
+     Georgia, $165,200.
+       For payment to James McDonald, Jr., widower of Juanita 
+     Millender-McDonald, late a Representative from the State of 
+     California, $165,200.
+
+                    GENERAL PROVISION--THIS CHAPTER
+
+       Sec. 6701. (a) There is established in the Office of the 
+     Architect of the Capitol the position of Chief Executive 
+     Officer for Visitor Services (in this section referred to as 
+     the ``Chief Executive Officer''), who shall be appointed by 
+     the Architect of the Capitol.
+       (b) The Chief Executive Officer shall be responsible for 
+     the operation and management of the Capitol Visitor Center, 
+     subject to the direction of the Architect of the Capitol. In 
+     carrying out these responsibilities, the Chief Executive 
+     Officer shall report directly to the Architect of the Capitol 
+     and shall be subject to policy review and oversight by the 
+     Committee on Rules and Administration of the Senate and the 
+     Committee on House Administration of the House of 
+     Representatives.
+       (c) The Chief Executive Officer shall be paid at an annual 
+     rate equal to the annual rate of pay for the Chief Operating 
+     Officer of the Office of the Architect of the Capitol.
+       (d) This section shall apply with respect to fiscal year 
+     2007 and each succeeding fiscal year.
+
+                               CHAPTER 8
+
+                    GENERAL PROVISIONS--THIS CHAPTER
+
+
+                          TECHNICAL AMENDMENT
+
+       Sec. 6801. (a) Notwithstanding any other provision of law, 
+     subsection (c) under the heading ``Assistance for the 
+     Independent States of the Former Soviet Union'' in Public Law 
+     109-102, shall not apply to funds appropriated by the 
+     Continuing Appropriations Resolution, 2007 (Public Law 109-
+     289, division B) as amended by Public Laws 109-369, 109-383, 
+     and 110-5.
+       (b) Section 534(k) of the Foreign Operations, Export 
+     Financing, and Related Programs Appropriations Act, 2006 
+     (Public Law 109-102) is amended, in the second proviso, by 
+     inserting after ``subsection (b) of that section'' the 
+     following: ``and the requirement that a majority of the 
+     members of the board of directors be United States citizens 
+     provided in subsection (d)(3)(B) of that section''.
+       (c) Subject to section 101(c)(2) of the Continuing 
+     Appropriations Resolution, 2007 (division B of Public Law 
+     109-289, as amended by Public Law 110-5), the amount of funds 
+     appropriated for ``Foreign Military Financing Program'' 
+     pursuant to such Resolution shall be construed to be the 
+     total of the amount appropriated for such program by section 
+     20401 of that Resolution and the amount made available for 
+     such program by section 591 of the Foreign Operations, Export 
+     Financing, and Related Programs Appropriations Act, 2006 
+     (Public Law 109-102) which is made applicable to the fiscal 
+     year 2007 by the provisions of such Resolution.
+       Sec. 6802. Notwithstanding any provision of title I of 
+     division B of the Continuing Appropriations Resolution, 2007 
+     (division B of
+
+[[Page 14209]]
+
+     Public Law 109-289, as amended by Public Laws 109-369, 109-
+     383, and 110-5), the dollar amount limitation of the first 
+     proviso under the heading, ``Administration of Foreign 
+     Affairs, Diplomatic and Consular Programs'', in title IV of 
+     the Science, State, Justice, Commerce, and Related Agencies 
+     Appropriations Act, 2006 (Public Law 109-108; 119 Stat. 2319) 
+     shall not apply to funds appropriated under such heading for 
+     fiscal year 2007.
+
+                               CHAPTER 9
+
+              DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT
+
+             Office of Federal Housing Enterprise Oversight
+
+
+                         Salaries and Expenses
+
+                     (including transfer of funds)
+
+       For an additional amount to carry out the Federal Housing 
+     Enterprises Financial Safety and Soundness Act of 1992, 
+     $6,150,000, to remain available until expended, to be derived 
+     from the Federal Housing Enterprises Oversight Fund and to be 
+     subject to the same terms and conditions pertaining to funds 
+     provided under this heading in Public Law 109-115: Provided, 
+     That not to exceed the total amount provided for these 
+     activities for fiscal year 2007 shall be available from the 
+     general fund of the Treasury to the extent necessary to incur 
+     obligations and make expenditures pending the receipt of 
+     collections to the Fund: Provided further, That the general 
+     fund amount shall be reduced as collections are received 
+     during the fiscal year so as to result in a final 
+     appropriation from the general fund estimated at not more 
+     than $0.
+
+                    GENERAL PROVISIONS--THIS CHAPTER
+
+       Sec. 6901. (a) Hereafter, funds limited or appropriated for 
+     the Department of Transportation may be obligated or expended 
+     to grant authority to a Mexico-domiciled motor carrier to 
+     operate beyond United States municipalities and commercial 
+     zones on the United States-Mexico border only to the extent 
+     that--
+       (1) granting such authority is first tested as part of a 
+     pilot program;
+       (2) such pilot program complies with the requirements of 
+     section 350 of Public Law 107-87 and the requirements of 
+     section 31315(c) of title 49, United States Code, related to 
+     pilot programs; and
+       (3) simultaneous and comparable authority to operate within 
+     Mexico is made available to motor carriers domiciled in the 
+     United States.
+       (b) Prior to the initiation of the pilot program described 
+     in subsection (a) in any fiscal year--
+       (1) the Inspector General of the Department of 
+     Transportation shall transmit to Congress and the Secretary 
+     of Transportation a report verifying compliance with each of 
+     the requirements of subsection (a) of section 350 of Public 
+     Law 107-87, including whether the Secretary of Transportation 
+     has established sufficient mechanisms to apply Federal motor 
+     carrier safety laws and regulations to motor carriers 
+     domiciled in Mexico that are granted authority to operate 
+     beyond the United States municipalities and commercial zones 
+     on the United States-Mexico border and to ensure compliance 
+     with such laws and regulations; and
+       (2) the Secretary of Transportation shall--
+       (A) take such action as may be necessary to address any 
+     issues raised in the report of the Inspector General under 
+     subsection (b)(1) and submit a report to Congress detailing 
+     such actions; and
+       (B) publish in the Federal Register, and provide sufficient 
+     opportunity for public notice and comment--
+       (i) comprehensive data and information on the pre-
+     authorization safety audits conducted before and after the 
+     date of enactment of this Act of motor carriers domiciled in 
+     Mexico that are granted authority to operate beyond the 
+     United States municipalities and commercial zones on the 
+     United States-Mexico border;
+       (ii) specific measures to be required to protect the health 
+     and safety of the public, including enforcement measures and 
+     penalties for noncompliance;
+       (iii) specific measures to be required to ensure compliance 
+     with section 391.11(b)(2) and section 365.501(b) of title 49, 
+     Code of Federal Regulations;
+       (iv) specific standards to be used to evaluate the pilot 
+     program and compare any change in the level of motor carrier 
+     safety as a result of the pilot program; and
+       (v) a list of Federal motor carrier safety laws and 
+     regulations, including the commercial drivers license 
+     requirements, for which the Secretary of Transportation will 
+     accept compliance with a corresponding Mexican law or 
+     regulation as the equivalent to compliance with the United 
+     States law or regulation, including for each law or 
+     regulation an analysis as to how the corresponding United 
+     States and Mexican laws and regulations differ.
+       (c) During and following the pilot program described in 
+     subsection (a), the Inspector General of the Department of 
+     Transportation shall monitor and review the conduct of the 
+     pilot program and submit to Congress and the Secretary of 
+     Transportation an interim report, 6 months after the 
+     commencement of the pilot program, and a final report, within 
+     60 days after the conclusion of the pilot program. Such 
+     reports shall address whether--
+       (1) the Secretary of Transportation has established 
+     sufficient mechanisms to determine whether the pilot program 
+     is having any adverse effects on motor carrier safety;
+       (2) Federal and State monitoring and enforcement activities 
+     are sufficient to ensure that participants in the pilot 
+     program are in compliance with all applicable laws and 
+     regulations; and
+       (3) the pilot program consists of a representative and 
+     adequate sample of Mexico-domiciled carriers likely to engage 
+     in cross-border operations beyond United States 
+     municipalities and commercial zones on the United States-
+     Mexico border.
+       (d) In the event that the Secretary of Transportation in 
+     any fiscal year seeks to grant operating authority for the 
+     purpose of initiating cross-border operations beyond United 
+     States municipalities and commercial zones on the United 
+     States-Mexico border either with Mexico-domiciled motor 
+     coaches or Mexico-domiciled commercial motor vehicles 
+     carrying placardable quantities of hazardous materials, such 
+     activities shall be initiated only after the conclusion of a 
+     separate pilot program limited to vehicles of the pertinent 
+     type. Each such separate pilot program shall follow the same 
+     requirements and processes stipulated under subsections (a) 
+     through (c) of this section and shall be planned, conducted 
+     and evaluated in concert with the Department of Homeland 
+     Security or its Inspector General, as appropriate, so as to 
+     address any and all security concerns associated with such 
+     cross-border operations.
+       Sec. 6902. Funds provided for the ``National Transportation 
+     Safety Board, Salaries and Expenses'' in section 21031 of the 
+     Continuing Appropriations Resolution, 2007 (division B of 
+     Public Law 109-289, as amended by Public Law 110-5) include 
+     amounts necessary to make lease payments due in fiscal year 
+     2007 only, on an obligation incurred in 2001 under a capital 
+     lease.
+       Sec. 6903. Section 21033 of the Continuing Appropriations 
+     Resolution, 2007 (division B of Public Law 109-289, as 
+     amended by Public Law 110-5) is amended by adding after the 
+     second proviso: ``: Provided further, That paragraph (2) 
+     under such heading in Public Law 109-115 (119 Stat. 2441) 
+     shall be funded at $149,300,000, but additional section 8 
+     tenant protection rental assistance costs may be funded in 
+     2007 by using unobligated balances, notwithstanding the 
+     purposes for which such amounts were appropriated, including 
+     recaptures and carryover, remaining from funds appropriated 
+     to the Department of Housing and Urban Development under this 
+     heading, the heading `Annual Contributions for Assisted 
+     Housing', the heading `Housing Certificate Fund', and the 
+     heading `Project-Based Rental Assistance' for fiscal year 
+     2006 and prior fiscal years: Provided further, That paragraph 
+     (3) under such heading in Public Law 109-115 (119 Stat. 2441) 
+     shall be funded at $47,500,000: Provided further, That 
+     paragraph (4) under such heading in Public Law 109-115 (119 
+     Stat. 2441) shall be funded at $5,900,000: Provided further, 
+     That paragraph (5) under such heading in Public Law 109-115 
+     (119 Stat. 2441) shall be funded at $1,281,100,000, of which 
+     $1,251,100,000 shall be allocated for the calendar year 2007 
+     funding cycle on a pro rata basis to public housing agencies 
+     based on the amount public housing agencies were eligible to 
+     receive in calendar year 2006, and of which up to $30,000,000 
+     shall be available to the Secretary to allocate to public 
+     housing agencies that need additional funds to administer 
+     their section 8 programs, with up to $20,000,000 to be for 
+     fees associated with section 8 tenant protection rental 
+     assistance''.
+       Sec. 6904. Section 232(b) of the Departments of Veterans 
+     Affairs and Housing and Urban Development, and Independent 
+     Agencies Appropriations Act, 2001 (Public Law 106-377) is 
+     amended to read as follows:
+       ``(b) Applicability.--In the case of any dwelling unit 
+     that, upon the date of the enactment of this Act, is assisted 
+     under a housing assistance payment contract under section 
+     8(o)(13) as in effect before such enactment, or under section 
+     8(d)(2) of the United States Housing Act of 1937 (42 U.S.C. 
+     1437f(d)(2)) as in effect before the enactment of the Quality 
+     Housing and Work Responsibility Act of 1998 (title V of 
+     Public Law 105-276), assistance may be renewed or extended 
+     under such section 8(o)(13), as amended by subsection (a), 
+     provided that the initial contract term and rent of such 
+     renewed or extended assistance shall be determined pursuant 
+     to subparagraphs (F) and (H), and subparagraphs (C) and (D) 
+     of such section shall not apply to such extensions or 
+     renewals.''.
+
+   TITLE VII--ELIMINATION OF SCHIP SHORTFALL AND OTHER HEALTH MATTERS
+
+                DEPARTMENT OF HEALTH AND HUMAN SERVICES
+
+  Centers for Medicare and Medicaid Services State Children's Health 
+                             Insurance Fund
+
+       For an additional amount to provide additional allotments 
+     to remaining shortfall States under section 2104(h)(4) of the 
+     Social Security Act, as inserted by section 6001, such sums 
+     as may be necessary, but not to exceed $650,000,000 for 
+     fiscal year 2007, to remain available until expended.
+
+                     GENERAL PROVISIONS--THIS TITLE
+
+       Sec. 7001. (a) Elimination of Remainder of SCHIP Funding 
+     Shortfalls, Tiered Match,
+
+[[Page 14210]]
+
+     and Other Limitation on Expenditures.--Section 2104(h) of the 
+     Social Security Act (42 U.S.C. 1397dd(h)), as added by 
+     section 201(a) of the National Institutes of Health Reform 
+     Act of 2006 (Public Law 109-482), is amended--
+       (1) in the heading for paragraph (2), by striking 
+     ``remainder of reduction'' and inserting ``part''; and
+       (2) by striking paragraph (4) and inserting the following:
+       ``(4) Additional amounts to eliminate remainder of fiscal 
+     year 2007 funding shortfalls.--
+       ``(A) In general.--From the amounts provided in advance in 
+     appropriations Acts, the Secretary shall allot to each 
+     remaining shortfall State described in subparagraph (B) such 
+     amount as the Secretary determines will eliminate the 
+     estimated shortfall described in such subparagraph for the 
+     State for fiscal year 2007.
+       ``(B) Remaining shortfall state described.--For purposes of 
+     subparagraph (A), a remaining shortfall State is a State with 
+     a State child health plan approved under this title for which 
+     the Secretary estimates, on the basis of the most recent data 
+     available to the Secretary as of the date of the enactment of 
+     this paragraph, that the projected Federal expenditures under 
+     such plan for the State for fiscal year 2007 will exceed the 
+     sum of--
+       ``(i) the amount of the State's allotments for each of 
+     fiscal years 2005 and 2006 that will not be expended by the 
+     end of fiscal year 2006;
+       ``(ii) the amount of the State's allotment for fiscal year 
+     2007; and
+       ``(iii) the amounts, if any, that are to be redistributed 
+     to the State during fiscal year 2007 in accordance with 
+     paragraphs (1) and (2).''.
+       (b) Conforming Amendments.--Section 2104(h) of such Act (42 
+     U.S.C. 1397dd(h)) (as so added), is amended--
+       (1) in paragraph (1)(B), by striking ``subject to paragraph 
+     (4)(B) and'';
+       (2) in paragraph (2)(B), by striking ``subject to paragraph 
+     (4)(B) and'';
+       (3) in paragraph (5)(A), by striking ``and (3)'' and 
+     inserting ``(3), and (4)''; and
+       (4) in paragraph (6)--
+       (A) in the first sentence--
+       (i) by inserting ``or allotted'' after ``redistributed''; 
+     and
+       (ii) by inserting ``or allotments'' after 
+     ``redistributions''; and
+       (B) by striking ``and (3)'' and inserting ``(3), and (4)''.
+       Sec. 7002. (a) Prohibition.--
+       (1) Limitation on secretarial authority.--Notwithstanding 
+     any other provision of law, the Secretary of Health and Human 
+     Services shall not, prior to the date that is 1 year after 
+     the date of enactment of this Act, take any action (through 
+     promulgation of regulation, issuance of regulatory guidance, 
+     or other administrative action) to--
+       (A) finalize or otherwise implement provisions contained in 
+     the proposed rule published on January 18, 2007, on pages 
+     2236 through 2248 of volume 72, Federal Register (relating to 
+     parts 433, 447, and 457 of title 42, Code of Federal 
+     Regulations);
+       (B) promulgate or implement any rule or provisions similar 
+     to the provisions described in subparagraph (A) pertaining to 
+     the Medicaid program established under title XIX of the 
+     Social Security Act or the State Children's Health Insurance 
+     Program established under title XXI of such Act; or
+       (C) promulgate or implement any rule or provisions 
+     restricting payments for graduate medical education under the 
+     Medicaid program.
+       (2) Continuation of other secretarial authority.--The 
+     Secretary of Health and Human Service shall not be prohibited 
+     during the period described in paragraph (1) from taking any 
+     action (through promulgation of regulation, issuance of 
+     regulatory guidance, or other administrative action) to 
+     enforce a provision of law in effect as of the date of 
+     enactment of this Act with respect to the Medicaid program or 
+     the State Children's Health Insurance Program, or to 
+     promulgate or implement a new rule or provision during such 
+     period with respect to such programs, other than a rule or 
+     provision described in paragraph (1) and subject to the 
+     prohibition set forth in that paragraph.
+       (b) Requirement for Use of Tamper-Resistant Prescription 
+     Pads Under the Medicaid Program.--
+       (1) In general.--Section 1903(i) of the Social Security Act 
+     (42 U.S.C. 1396b(i)) is amended--
+       (A) by striking ``or'' at the end of paragraph (21);
+       (B) by striking the period at the end of paragraph (22) and 
+     inserting ``; or''; and
+       (C) by inserting after paragraph (22) the following new 
+     paragraph:
+       ``(23) with respect to amounts expended for medical 
+     assistance for covered outpatient drugs (as defined in 
+     section 1927(k)(2)) for which the prescription was executed 
+     in written (and non-electronic) form unless the prescription 
+     was executed on a tamper-resistant pad.''.
+       (2) Effective date.--The amendments made by paragraph (1) 
+     shall apply to prescriptions executed after September 30, 
+     2007.
+       (c) Extension of Certain Pharmacy Plus Waivers.--
+       (1) Authority to continue to operate waivers.--
+     Notwithstanding any other provision of law, any State that is 
+     operating a Pharmacy Plus waiver described in paragraph (2) 
+     which would otherwise expire on June 30, 2007, may elect to 
+     continue to operate the waiver through December 31, 2009 and 
+     if a State elects to continue to operate such a waiver, the 
+     Secretary of Health and Human Services shall approve the 
+     continuation of the waiver through December 31, 2009.
+       (2) Pharmacy plus waiver described.--For purposes of 
+     paragraph (1), a Pharmacy Plus waiver described in this 
+     paragraph is a waiver approved by the Secretary of Health and 
+     Human Services under the authority of section 1115 of the 
+     Social Security Act (42 U.S.C. 1315) that provides coverage 
+     for prescription drugs for individuals who have attained age 
+     65 and whose family income does not exceed 200 percent of the 
+     poverty line (as defined in section 2110(c)(5) of such Act 
+     (42 U.S.C. 1397jj(c)(5)).
+
+              TITLE VIII--FAIR MINIMUM WAGE AND TAX RELIEF
+
+                     Subtitle A--Fair Minimum Wage
+
+     SEC. 8101. SHORT TITLE.
+
+        This subtitle may be cited as the ``Fair Minimum Wage Act 
+     of 2007''.
+
+     SEC. 8102. MINIMUM WAGE.
+
+       (a) In General.--Section 6(a)(1) of the Fair Labor 
+     Standards Act of 1938 (29 U.S.C. 206(a)(1)) is amended to 
+     read as follows:
+       ``(1) except as otherwise provided in this section, not 
+     less than--
+       ``(A) $5.85 an hour, beginning on the 60th day after the 
+     date of enactment of the Fair Minimum Wage Act of 2007;
+       ``(B) $6.55 an hour, beginning 12 months after that 60th 
+     day; and
+       ``(C) $7.25 an hour, beginning 24 months after that 60th 
+     day;''.
+       (b) Effective Date.--The amendment made by subsection (a) 
+     shall take effect 60 days after the date of enactment of this 
+     Act.
+
+     SEC. 8103. APPLICABILITY OF MINIMUM WAGE TO AMERICAN SAMOA 
+                   AND THE COMMONWEALTH OF THE NORTHERN MARIANA 
+                   ISLANDS.
+
+       (a) In General.--Section 6 of the Fair Labor Standards Act 
+     of 1938 (29 U.S.C. 206) shall apply to American Samoa and the 
+     Commonwealth of the Northern Mariana Islands.
+       (b) Transition.--Notwithstanding subsection (a)--
+       (1) the minimum wage applicable to the Commonwealth of the 
+     Northern Mariana Islands under section 6(a)(1) of the Fair 
+     Labor Standards Act of 1938 (29 U.S.C. 206(a)(1)) shall be--
+       (A) $3.55 an hour, beginning on the 60th day after the date 
+     of enactment of this Act; and
+       (B) increased by $0.50 an hour (or such lesser amount as 
+     may be necessary to equal the minimum wage under section 
+     6(a)(1) of such Act), beginning 1 year after the date of 
+     enactment of this Act and each year thereafter until the 
+     minimum wage applicable to the Commonwealth of the Northern 
+     Mariana Islands under this paragraph is equal to the minimum 
+     wage set forth in such section; and
+       (2) the minimum wage applicable to American Samoa under 
+     section 6(a)(1) of the Fair Labor Standards Act of 1938 (29 
+     U.S.C. 206(a)(1)) shall be--
+       (A) the applicable wage rate in effect for each industry 
+     and classification under section 697 of title 29, Code of 
+     Federal Regulations, on the date of enactment of this Act;
+       (B) increased by $0.50 an hour, beginning on the 60th day 
+     after the date of enactment of this Act; and
+       (C) increased by $0.50 an hour (or such lesser amount as 
+     may be necessary to equal the minimum wage under section 
+     6(a)(1) of such Act), beginning 1 year after the date of 
+     enactment of this Act and each year thereafter until the 
+     minimum wage applicable to American Samoa under this 
+     paragraph is equal to the minimum wage set forth in such 
+     section.
+       (c) Conforming Amendments.--
+       (1) In general.--The Fair Labor Standards Act of 1938 is 
+     amended--
+       (A) by striking sections 5 and 8; and
+       (B) in section 6(a), by striking paragraph (3) and 
+     redesignating paragraphs (4) and (5) as paragraphs (3) and 
+     (4), respectively.
+       (2) Effective date.--The amendments made by this subsection 
+     shall take effect 60 days after the date of enactment of this 
+     Act.
+
+     SEC. 8104. STUDY ON PROJECTED IMPACT.
+
+       (a) Study.--Beginning on the date that is 60 days after the 
+     date of enactment of this Act, the Secretary of Labor shall, 
+     through the Bureau of Labor Statistics, conduct a study to--
+       (1) assess the impact of the wage increases required by 
+     this Act through such date; and
+       (2) project the impact of any further wage increase,
+
+     on living standards and rates of employment in American Samoa 
+     and the Commonwealth of the Northern Mariana Islands.
+       (b) Report.--Not later than the date that is 8 months after 
+     the date of enactment of this Act, the Secretary of Labor 
+     shall transmit to Congress a report on the findings of the 
+     study required by subsection (a).
+
+               Subtitle B--Small Business Tax Incentives
+
+     SEC. 8201. SHORT TITLE; AMENDMENT OF CODE; TABLE OF CONTENTS.
+
+       (a) Short Title.--This subtitle may be cited as the ``Small 
+     Business and Work Opportunity Tax Act of 2007''.
+       (b) Amendment of 1986 Code.--Except as otherwise expressly 
+     provided, whenever in
+
+[[Page 14211]]
+
+     this subtitle an amendment or repeal is expressed in terms of 
+     an amendment to, or repeal of, a section or other provision, 
+     the reference shall be considered to be made to a section or 
+     other provision of the Internal Revenue Code of 1986.
+       (c) Table of Contents.--The table of contents of this 
+     subtitle is as follows:
+
+Sec. 8201. Short title; amendment of Code; table of contents.
+
+              Part 1--Small Business Tax Relief Provisions
+
+
+                     Subpart A--General provisions
+
+Sec. 8211. Extension and modification of work opportunity tax credit.
+Sec. 8212. Extension and increase of expensing for small business.
+Sec. 8213. Determination of credit for certain taxes paid with respect 
+              to employee cash tips.
+Sec. 8214. Waiver of individual and corporate alternative minimum tax 
+              limits on work opportunity credit and credit for taxes 
+              paid with respect to employee cash tips.
+Sec. 8215. Family business tax simplification.
+
+
+            Subpart B--Gulf Opportunity Zone tax incentives
+
+Sec. 8221. Extension of increased expensing for qualified section 179 
+              Gulf Opportunity Zone property.
+Sec. 8222. Extension and expansion of low-income housing credit rules 
+              for buildings in the GO Zones.
+Sec. 8223. Special tax-exempt bond financing rule for repairs and 
+              reconstructions of residences in the GO Zones.
+Sec. 8224. GAO study of practices employed by State and local 
+              governments in allocating and utilizing tax incentives 
+              provided pursuant to the Gulf Opportunity Zone Act of 
+              2005.
+
+
+                   Subpart C--Subchapter S provisions
+
+Sec. 8231. Capital gain of S corporation not treated as passive 
+              investment income.
+Sec. 8232. Treatment of bank director shares.
+Sec. 8233. Special rule for bank required to change from the reserve 
+              method of accounting on becoming S corporation.
+Sec. 8234. Treatment of the sale of interest in a qualified subchapter 
+              S subsidiary.
+Sec. 8235. Elimination of all earnings and profits attributable to pre-
+              1983 years for certain corporations.
+Sec. 8236. Deductibility of interest expense on indebtedness incurred 
+              by an electing small business trust to acquire S 
+              corporation stock.
+
+                       Part 2--Revenue Provisions
+
+Sec. 8241. Increase in age of children whose unearned income is taxed 
+              as if parent's income.
+Sec. 8242. Suspension of certain penalties and interest.
+Sec. 8243. Modification of collection due process procedures for 
+              employment tax liabilities.
+Sec. 8244. Permanent extension of IRS user fees.
+Sec. 8245. Increase in penalty for bad checks and money orders.
+Sec. 8246. Understatement of taxpayer liability by return preparers.
+Sec. 8247. Penalty for filing erroneous refund claims.
+Sec. 8248. Time for payment of corporate estimated taxes.
+
+              PART 1--SMALL BUSINESS TAX RELIEF PROVISIONS
+
+                     Subpart A--General Provisions
+
+     SEC. 8211. EXTENSION AND MODIFICATION OF WORK OPPORTUNITY TAX 
+                   CREDIT.
+
+       (a) Extension.--Section 51(c)(4)(B) (relating to 
+     termination) is amended by striking ``December 31, 2007'' and 
+     inserting ``August 31, 2011''.
+       (b) Increase in Maximum Age for Designated Community 
+     Residents.--
+       (1) In general.--Paragraph (5) of section 51(d) is amended 
+     to read as follows:
+       ``(5) Designated community residents.--
+       ``(A) In general.--The term `designated community resident' 
+     means any individual who is certified by the designated local 
+     agency--
+       ``(i) as having attained age 18 but not age 40 on the 
+     hiring date, and
+       ``(ii) as having his principal place of abode within an 
+     empowerment zone, enterprise community, renewal community, or 
+     rural renewal county.
+       ``(B) Individual must continue to reside in zone, 
+     community, or county.--In the case of a designated community 
+     resident, the term `qualified wages' shall not include wages 
+     paid or incurred for services performed while the 
+     individual's principal place of abode is outside an 
+     empowerment zone, enterprise community, renewal community, or 
+     rural renewal county.
+       ``(C) Rural renewal county.--For purposes of this 
+     paragraph, the term `rural renewal county' means any county 
+     which--
+       ``(i) is outside a metropolitan statistical area (defined 
+     as such by the Office of Management and Budget), and
+       ``(ii) during the 5-year periods 1990 through 1994 and 1995 
+     through 1999 had a net population loss.''.
+       (2) Conforming amendment.--Subparagraph (D) of section 
+     51(d)(1) is amended to read as follows:
+       ``(D) a designated community resident,''.
+       (c) Clarification of Treatment of Individuals Under 
+     Individual Work Plans.--Subparagraph (B) of section 51(d)(6) 
+     (relating to vocational rehabilitation referral) is amended 
+     by striking ``or'' at the end of clause (i), by striking the 
+     period at the end of clause (ii) and inserting ``, or'', and 
+     by adding at the end the following new clause:
+       ``(iii) an individual work plan developed and implemented 
+     by an employment network pursuant to subsection (g) of 
+     section 1148 of the Social Security Act with respect to which 
+     the requirements of such subsection are met.''.
+       (d) Treatment of Disabled Veterans Under the Work 
+     Opportunity Tax Credit.--
+       (1) Disabled veterans treated as members of targeted 
+     group.--
+       (A) In general.--Subparagraph (A) of section 51(d)(3) 
+     (relating to qualified veteran) is amended by striking 
+     ``agency as being a member of a family'' and all that follows 
+     and inserting ``agency as--
+       ``(i) being a member of a family receiving assistance under 
+     a food stamp program under the Food Stamp Act of 1977 for at 
+     least a 3-month period ending during the 12-month period 
+     ending on the hiring date, or
+       ``(ii) entitled to compensation for a service-connected 
+     disability, and--
+
+       ``(I) having a hiring date which is not more that 1 year 
+     after having been discharged or released from active duty in 
+     the Armed Forces of the United States, or
+       ``(II) having aggregate periods of unemployment during the 
+     1-year period ending on the hiring date which equal or exceed 
+     6 months.''.
+
+       (B) Definitions.--Paragraph (3) of section 51(d) is amended 
+     by adding at the end the following new subparagraph:
+       ``(C) Other definitions.--For purposes of subparagraph (A), 
+     the terms `compensation' and `service-connected' have the 
+     meanings given such terms under section 101 of title 38, 
+     United States Code.''.
+       (2) Increase in amount of wages taken into account for 
+     disabled veterans.--Paragraph (3) of section 51(b) is 
+     amended--
+       (A) by inserting ``($12,000 per year in the case of any 
+     individual who is a qualified veteran by reason of subsection 
+     (d)(3)(A)(ii))'' before the period at the end, and
+       (B) by striking ``Only first $6,000 of'' in the heading and 
+     inserting ``Limitation on''.
+       (e) Effective Date.--The amendments made by this section 
+     shall apply to individuals who begin work for the employer 
+     after the date of the enactment of this Act.
+
+     SEC. 8212. EXTENSION AND INCREASE OF EXPENSING FOR SMALL 
+                   BUSINESS.
+
+       (a) Extension.--Subsections (b)(1), (b)(2), (b)(5), (c)(2), 
+     and (d)(1)(A)(ii) of section 179 (relating to election to 
+     expense certain depreciable business assets) are each amended 
+     by striking ``2010'' and inserting ``2011''.
+       (b) Increase in Limitations.--Subsection (b) of section 179 
+     is amended--
+       (1) by striking ``$100,000 in the case of taxable years 
+     beginning after 2002'' in paragraph (1) and inserting 
+     ``$125,000 in the case of taxable years beginning after 
+     2006'', and
+       (2) by striking ``$400,000 in the case of taxable years 
+     beginning after 2002'' in paragraph (2) and inserting 
+     ``$500,000 in the case of taxable years beginning after 
+     2006''.
+       (c) Inflation Adjustment.--Subparagraph (A) of section 
+     179(b)(5) is amended--
+       (1) by striking ``2003'' and inserting ``2007'',
+       (2) by striking ``$100,000 and $400,000'' and inserting 
+     ``$125,000 and $500,000'', and
+       (3) by striking ``2002'' in clause (ii) and inserting 
+     ``2006''.
+       (d) Effective Date.--The amendments made by this section 
+     shall apply to taxable years beginning after December 31, 
+     2006.
+
+     SEC. 8213. DETERMINATION OF CREDIT FOR CERTAIN TAXES PAID 
+                   WITH RESPECT TO EMPLOYEE CASH TIPS.
+
+       (a) In General.--Subparagraph (B) of section 45B(b)(1) is 
+     amended by inserting ``as in effect on January 1, 2007, and'' 
+     before ``determined without regard to''.
+       (b) Effective Date.--The amendment made by this section 
+     shall apply to tips received for services performed after 
+     December 31, 2006.
+
+     SEC. 8214. WAIVER OF INDIVIDUAL AND CORPORATE ALTERNATIVE 
+                   MINIMUM TAX LIMITS ON WORK OPPORTUNITY CREDIT 
+                   AND CREDIT FOR TAXES PAID WITH RESPECT TO 
+                   EMPLOYEE CASH TIPS.
+
+       (a) Allowance Against Alternative Minimum Tax.--
+     Subparagraph (B) of section 38(c)(4) is amended by striking 
+     ``and'' at the end of clause (i), by inserting a comma at the 
+     end of clause (ii), and by adding at the end the following 
+     new clauses:
+       ``(iii) the credit determined under section 45B, and
+       ``(iv) the credit determined under section 51.''.
+       (b) Effective Date.--The amendments made by this section 
+     shall apply to credits determined under sections 45B and 51 
+     of the Internal Revenue Code of 1986 in taxable years 
+     beginning after December 31, 2006, and to carrybacks of such 
+     credits.
+
+[[Page 14212]]
+
+
+
+     SEC. 8215. FAMILY BUSINESS TAX SIMPLIFICATION.
+
+       (a) In General.--Section 761 (defining terms for purposes 
+     of partnerships) is amended by redesignating subsection (f) 
+     as subsection (g) and by inserting after subsection (e) the 
+     following new subsection:
+       ``(f) Qualified Joint Venture.--
+       ``(1) In general.--In the case of a qualified joint venture 
+     conducted by a husband and wife who file a joint return for 
+     the taxable year, for purposes of this title--
+       ``(A) such joint venture shall not be treated as a 
+     partnership,
+       ``(B) all items of income, gain, loss, deduction, and 
+     credit shall be divided between the spouses in accordance 
+     with their respective interests in the venture, and
+       ``(C) each spouse shall take into account such spouse's 
+     respective share of such items as if they were attributable 
+     to a trade or business conducted by such spouse as a sole 
+     proprietor.
+       ``(2) Qualified joint venture.--For purposes of paragraph 
+     (1), the term `qualified joint venture' means any joint 
+     venture involving the conduct of a trade or business if--
+       ``(A) the only members of such joint venture are a husband 
+     and wife,
+       ``(B) both spouses materially participate (within the 
+     meaning of section 469(h) without regard to paragraph (5) 
+     thereof) in such trade or business, and
+       ``(C) both spouses elect the application of this 
+     subsection.''.
+       (b) Net Earnings From Self-Employment.--
+       (1) Subsection (a) of section 1402 (defining net earnings 
+     from self-employment) is amended by striking ``, and'' at the 
+     end of paragraph (15) and inserting a semicolon, by striking 
+     the period at the end of paragraph (16) and inserting ``; 
+     and'', and by inserting after paragraph (16) the following 
+     new paragraph:
+       ``(17) notwithstanding the preceding provisions of this 
+     subsection, each spouse's share of income or loss from a 
+     qualified joint venture shall be taken into account as 
+     provided in section 761(f) in determining net earnings from 
+     self-employment of such spouse.''.
+       (2) Subsection (a) of section 211 of the Social Security 
+     Act (defining net earnings from self-employment) is amended 
+     by striking ``and'' at the end of paragraph (14), by striking 
+     the period at the end of paragraph (15) and inserting ``; 
+     and'', and by inserting after paragraph (15) the following 
+     new paragraph:
+       ``(16) Notwithstanding the preceding provisions of this 
+     subsection, each spouse's share of income or loss from a 
+     qualified joint venture shall be taken into account as 
+     provided in section 761(f) of the Internal Revenue Code of 
+     1986 in determining net earnings from self-employment of such 
+     spouse.''.
+       (c) Effective Date.--The amendments made by this section 
+     shall apply to taxable years beginning after December 31, 
+     2006.
+
+            Subpart B--Gulf Opportunity Zone Tax Incentives
+
+     SEC. 8221. EXTENSION OF INCREASED EXPENSING FOR QUALIFIED 
+                   SECTION 179 GULF OPPORTUNITY ZONE PROPERTY.
+
+       Paragraph (2) of section 1400N(e) (relating to qualified 
+     section 179 Gulf Opportunity Zone property) is amended--
+       (1) by striking ``this subsection, the term'' and 
+     inserting:
+
+     ``this subsection--
+       ``(A) In general.--The term'', and
+       (2) by adding at the end the following new subparagraph:
+       ``(B) Extension for certain property.--In the case of 
+     property substantially all of the use of which is in one or 
+     more specified portions of the GO Zone (as defined by 
+     subsection (d)(6)), such term shall include section 179 
+     property (as so defined) which is described in subsection 
+     (d)(2), determined--
+       ``(i) without regard to subsection (d)(6), and
+       ``(ii) by substituting `2008' for `2007' in subparagraph 
+     (A)(v) thereof.''.
+
+     SEC. 8222. EXTENSION AND EXPANSION OF LOW-INCOME HOUSING 
+                   CREDIT RULES FOR BUILDINGS IN THE GO ZONES.
+
+       (a) Time for Making Low-Income Housing Credit 
+     Allocations.--Subsection (c) of section 1400N (relating to 
+     low-income housing credit) is amended by redesignating 
+     paragraph (5) as paragraph (6) and by inserting after 
+     paragraph (4) the following new paragraph:
+       ``(5) Time for making low-income housing credit 
+     allocations.--Section 42(h)(1)(B) shall not apply to an 
+     allocation of housing credit dollar amount to a building 
+     located in the Gulf Opportunity Zone, the Rita GO Zone, or 
+     the Wilma GO Zone, if such allocation is made in 2006, 2007, 
+     or 2008, and such building is placed in service before 
+     January 1, 2011.''.
+       (b) Extension of Period for Treating GO Zones as Difficult 
+     Development Areas.--
+       (1) In general.--Subparagraph (A) of section 1400N(c)(3) is 
+     amended by striking ``2006, 2007, or 2008'' and inserting 
+     ``the period beginning on January 1, 2006, and ending on 
+     December 31, 2010''.
+       (2) Conforming amendment.--Clause (ii) of section 
+     1400N(c)(3)(B) is amended by striking ``such period'' and 
+     inserting ``the period described in subparagraph (A)''.
+       (c) Community Development Block Grants Not Taken Into 
+     Account in Determining if Buildings Are Federally 
+     Subsidized.--Subsection (c) of section 1400N (relating to 
+     low-income housing credit), as amended by this Act, is 
+     amended by redesignating paragraph (6) as paragraph (7) and 
+     by inserting after paragraph (5) the following new paragraph:
+       ``(6) Community development block grants not taken into 
+     account in determining if buildings are federally 
+     subsidized.--For purpose of applying section 42(i)(2)(D) to 
+     any building which is placed in service in the Gulf 
+     Opportunity Zone, the Rita GO Zone, or the Wilma GO Zone 
+     during the period beginning on January 1, 2006, and ending on 
+     December 31, 2010, a loan shall not be treated as a below 
+     market Federal loan solely by reason of any assistance 
+     provided under section 106, 107, or 108 of the Housing and 
+     Community Development Act of 1974 by reason of section 122 of 
+     such Act or any provision of the Department of Defense 
+     Appropriations Act, 2006, or the Emergency Supplemental 
+     Appropriations Act for Defense, the Global War on Terror, and 
+     Hurricane Recovery, 2006.''.
+
+     SEC. 8223. SPECIAL TAX-EXEMPT BOND FINANCING RULE FOR REPAIRS 
+                   AND RECONSTRUCTIONS OF RESIDENCES IN THE GO 
+                   ZONES.
+
+       Subsection (a) of section 1400N (relating to tax-exempt 
+     bond financing) is amended by adding at the end the following 
+     new paragraph:
+       ``(7) Special rule for repairs and reconstructions.--
+       ``(A) In general.--For purposes of section 143 and this 
+     subsection, any qualified GO Zone repair or reconstruction 
+     shall be treated as a qualified rehabilitation.
+       ``(B) Qualified go zone repair or reconstruction.--For 
+     purposes of subparagraph (A), the term `qualified GO Zone 
+     repair or reconstruction' means any repair of damage caused 
+     by Hurricane Katrina, Hurricane Rita, or Hurricane Wilma to a 
+     building located in the Gulf Opportunity Zone, the Rita GO 
+     Zone, or the Wilma GO Zone (or reconstruction of such 
+     building in the case of damage constituting destruction) if 
+     the expenditures for such repair or reconstruction are 25 
+     percent or more of the mortgagor's adjusted basis in the 
+     residence. For purposes of the preceding sentence, the 
+     mortgagor's adjusted basis shall be determined as of the 
+     completion of the repair or reconstruction or, if later, the 
+     date on which the mortgagor acquires the residence.
+       ``(C) Termination.--This paragraph shall apply only to 
+     owner-financing provided after the date of the enactment of 
+     this paragraph and before January 1, 2011.''.
+
+     SEC. 8224. GAO STUDY OF PRACTICES EMPLOYED BY STATE AND LOCAL 
+                   GOVERNMENTS IN ALLOCATING AND UTILIZING TAX 
+                   INCENTIVES PROVIDED PURSUANT TO THE GULF 
+                   OPPORTUNITY ZONE ACT OF 2005.
+
+       (a) In General.--The Comptroller General of the United 
+     States shall conduct a study of the practices employed by 
+     State and local governments, and subdivisions thereof, in 
+     allocating and utilizing tax incentives provided pursuant to 
+     the Gulf Opportunity Zone Act of 2005 and this Act.
+       (b) Submission of Report.--Not later than one year after 
+     the date of the enactment of this Act, the Comptroller 
+     General shall submit a report on the findings of the study 
+     conducted under subsection (a) and shall include therein 
+     recommendations (if any) relating to such findings. The 
+     report shall be submitted to the Committee on Ways and Means 
+     of the House of Representatives and the Committee on Finance 
+     of the Senate.
+       (c) Congressional Hearings.--In the case that the report 
+     submitted under this section includes findings of significant 
+     fraud, waste or abuse, each Committee specified in subsection 
+     (b) shall, within 60 days after the date the report is 
+     submitted under subsection (b), hold a public hearing to 
+     review such findings.
+
+                   Subpart C--Subchapter S Provisions
+
+     SEC. 8231. CAPITAL GAIN OF S CORPORATION NOT TREATED AS 
+                   PASSIVE INVESTMENT INCOME.
+
+       (a) In General.--Section 1362(d)(3) is amended by striking 
+     subparagraphs (B), (C), (D), (E), and (F) and inserting the 
+     following new subparagraphs:
+       ``(B) Gross receipts from the sales of certain assets.--For 
+     purposes of this paragraph--
+       ``(i) in the case of dispositions of capital assets (other 
+     than stock and securities), gross receipts from such 
+     dispositions shall be taken into account only to the extent 
+     of the capital gain net income therefrom, and
+       ``(ii) in the case of sales or exchanges of stock or 
+     securities, gross receipts shall be taken into account only 
+     to the extent of the gains therefrom.
+       ``(C) Passive investment income defined.--
+       ``(i) In general.--Except as otherwise provided in this 
+     subparagraph, the term `passive investment income' means 
+     gross receipts derived from royalties, rents, dividends, 
+     interest, and annuities.
+       ``(ii) Exception for interest on notes from sales of 
+     inventory.--The term `passive investment income' shall not 
+     include interest on any obligation acquired in the ordinary 
+     course of the corporation's trade or business from its sale 
+     of property described in section 1221(a)(1).
+
+[[Page 14213]]
+
+       ``(iii) Treatment of certain lending or finance 
+     companies.--If the S corporation meets the requirements of 
+     section 542(c)(6) for the taxable year, the term `passive 
+     investment income' shall not include gross receipts for the 
+     taxable year which are derived directly from the active and 
+     regular conduct of a lending or finance business (as defined 
+     in section 542(d)(1)).
+       ``(iv) Treatment of certain dividends.--If an S corporation 
+     holds stock in a C corporation meeting the requirements of 
+     section 1504(a)(2), the term `passive investment income' 
+     shall not include dividends from such C corporation to the 
+     extent such dividends are attributable to the earnings and 
+     profits of such C corporation derived from the active conduct 
+     of a trade or business.
+       ``(v) Exception for banks, etc.--In the case of a bank (as 
+     defined in section 581) or a depository institution holding 
+     company (as defined in section 3(w)(1) of the Federal Deposit 
+     Insurance Act (12 U.S.C. 1813(w)(1)), the term `passive 
+     investment income' shall not include--
+
+       ``(I) interest income earned by such bank or company, or
+       ``(II) dividends on assets required to be held by such bank 
+     or company, including stock in the Federal Reserve Bank, the 
+     Federal Home Loan Bank, or the Federal Agricultural Mortgage 
+     Bank or participation certificates issued by a Federal 
+     Intermediate Credit Bank.''.
+
+       (b) Effective Date.--The amendments made by this section 
+     shall apply to taxable years beginning after the date of the 
+     enactment of this Act.
+
+     SEC. 8232. TREATMENT OF BANK DIRECTOR SHARES.
+
+       (a) In General.--Section 1361 (defining S corporation) is 
+     amended by adding at the end the following new subsection:
+       ``(f) Restricted Bank Director Stock.--
+       ``(1) In general.--Restricted bank director stock shall not 
+     be taken into account as outstanding stock of the S 
+     corporation in applying this subchapter (other than section 
+     1368(f)).
+       ``(2) Restricted bank director stock.--For purposes of this 
+     subsection, the term `restricted bank director stock' means 
+     stock in a bank (as defined in section 581) or a depository 
+     institution holding company (as defined in section 3(w)(1) of 
+     the Federal Deposit Insurance Act (12 U.S.C. 1813(w)(1)), if 
+     such stock--
+       ``(A) is required to be held by an individual under 
+     applicable Federal or State law in order to permit such 
+     individual to serve as a director, and
+       ``(B) is subject to an agreement with such bank or company 
+     (or a corporation which controls (within the meaning of 
+     section 368(c)) such bank or company) pursuant to which the 
+     holder is required to sell back such stock (at the same price 
+     as the individual acquired such stock) upon ceasing to hold 
+     the office of director.
+       ``(3) Cross reference.--
+
+``For treatment of certain distributions with respect to restricted 
+              bank director stock, see section 1368(f).''.
+
+       (b) Distributions.--Section 1368 (relating to 
+     distributions) is amended by adding at the end the following 
+     new subsection:
+       ``(f) Restricted Bank Director Stock.--If a director 
+     receives a distribution (not in part or full payment in 
+     exchange for stock) from an S corporation with respect to any 
+     restricted bank director stock (as defined in section 
+     1361(f)), the amount of such distribution--
+       ``(1) shall be includible in gross income of the director, 
+     and
+       ``(2) shall be deductible by the corporation for the 
+     taxable year of such corporation in which or with which ends 
+     the taxable year in which such amount in included in the 
+     gross income of the director.''.
+       (c) Effective Dates.--
+       (1) In general.--The amendments made by this section shall 
+     apply to taxable years beginning after December 31, 2006.
+       (2) Special rule for treatment as second class of stock.--
+     In the case of any taxable year beginning after December 31, 
+     1996, restricted bank director stock (as defined in section 
+     1361(f) of the Internal Revenue Code of 1986, as added by 
+     this section) shall not be taken into account in determining 
+     whether an S corporation has more than 1 class of stock.
+
+     SEC. 8233. SPECIAL RULE FOR BANK REQUIRED TO CHANGE FROM THE 
+                   RESERVE METHOD OF ACCOUNTING ON BECOMING S 
+                   CORPORATION.
+
+       (a) In General.--Section 1361, as amended by this Act, is 
+     amended by adding at the end the following new subsection:
+       ``(g) Special Rule for Bank Required To Change From the 
+     Reserve Method of Accounting on Becoming S Corporation.--In 
+     the case of a bank which changes from the reserve method of 
+     accounting for bad debts described in section 585 or 593 for 
+     its first taxable year for which an election under section 
+     1362(a) is in effect, the bank may elect to take into account 
+     any adjustments under section 481 by reason of such change 
+     for the taxable year immediately preceding such first taxable 
+     year.''.
+       (b) Effective Date.--The amendments made by this section 
+     shall apply to taxable years beginning after December 31, 
+     2006.
+
+     SEC. 8234. TREATMENT OF THE SALE OF INTEREST IN A QUALIFIED 
+                   SUBCHAPTER S SUBSIDIARY.
+
+       (a) In General.--Subparagraph (C) of section 1361(b)(3) 
+     (relating to treatment of terminations of qualified 
+     subchapter S subsidiary status) is amended--
+       (1) by striking ``For purposes of this title,'' and 
+     inserting the following:
+       ``(i) In general.--For purposes of this title,'', and
+       (2) by inserting at the end the following new clause:
+       ``(ii) Termination by reason of sale of stock.--If the 
+     failure to meet the requirements of subparagraph (B) is by 
+     reason of the sale of stock of a corporation which is a 
+     qualified subchapter S subsidiary, the sale of such stock 
+     shall be treated as if--
+
+       ``(I) the sale were a sale of an undivided interest in the 
+     assets of such corporation (based on the percentage of the 
+     corporation's stock sold), and
+       ``(II) the sale were followed by an acquisition by such 
+     corporation of all of its assets (and the assumption by such 
+     corporation of all of its liabilities) in a transaction to 
+     which section 351 applies.''.
+
+       (b) Effective Date.--The amendments made by this section 
+     shall apply to taxable years beginning after December 31, 
+     2006.
+
+     SEC. 8235. ELIMINATION OF ALL EARNINGS AND PROFITS 
+                   ATTRIBUTABLE TO PRE-1983 YEARS FOR CERTAIN 
+                   CORPORATIONS.
+
+       In the case of a corporation which is--
+       (1) described in section 1311(a)(1) of the Small Business 
+     Job Protection Act of 1996, and
+       (2) not described in section 1311(a)(2) of such Act,
+     the amount of such corporation's accumulated earnings and 
+     profits (for the first taxable year beginning after the date 
+     of the enactment of this Act) shall be reduced by an amount 
+     equal to the portion (if any) of such accumulated earnings 
+     and profits which were accumulated in any taxable year 
+     beginning before January 1, 1983, for which such corporation 
+     was an electing small business corporation under subchapter S 
+     of the Internal Revenue Code of 1986.
+
+     SEC. 8236. DEDUCTIBILITY OF INTEREST EXPENSE ON INDEBTEDNESS 
+                   INCURRED BY AN ELECTING SMALL BUSINESS TRUST TO 
+                   ACQUIRE S CORPORATION STOCK.
+
+       (a) In General.--Subparagraph (C) of section 641(c)(2) 
+     (relating to modifications) is amended by inserting after 
+     clause (iii) the following new clause:
+       ``(iv) Any interest expense paid or accrued on indebtedness 
+     incurred to acquire stock in an S corporation.''.
+       (b) Effective Date.--The amendment made by this section 
+     shall apply to taxable years beginning after December 31, 
+     2006.
+
+                       PART 2--REVENUE PROVISIONS
+
+     SEC. 8241. INCREASE IN AGE OF CHILDREN WHOSE UNEARNED INCOME 
+                   IS TAXED AS IF PARENT'S INCOME.
+
+       (a) In General.--Subparagraph (A) of section 1(g)(2) 
+     (relating to child to whom subsection applies) is amended to 
+     read as follows:
+       ``(A) such child--
+       ``(i) has not attained age 18 before the close of the 
+     taxable year, or
+       ``(ii)(I) has attained age 18 before the close of the 
+     taxable year and meets the age requirements of section 
+     152(c)(3) (determined without regard to subparagraph (B) 
+     thereof), and
+       ``(II) whose earned income (as defined in section 
+     911(d)(2)) for such taxable year does not exceed one-half of 
+     the amount of the individual's support (within the meaning of 
+     section 152(c)(1)(D) after the application of section 
+     152(f)(5) (without regard to subparagraph (A) thereof)) for 
+     such taxable year,''.
+       (b) Conforming Amendment.--Subsection (g) of section 1 is 
+     amended by striking ``Minor'' in the heading thereof.
+       (c) Effective Date.--The amendment made by this section 
+     shall apply to taxable years beginning after the date of the 
+     enactment of this Act.
+
+     SEC. 8242. SUSPENSION OF CERTAIN PENALTIES AND INTEREST.
+
+       (a) In General.--Paragraphs (1)(A) and (3)(A) of section 
+     6404(g) are each amended by striking ``18-month period'' and 
+     inserting ``36-month period''.
+       (b) Effective Date.--The amendments made by this section 
+     shall apply to notices provided by the Secretary of the 
+     Treasury, or his delegate, after the date which is 6 months 
+     after the date of the enactment of this Act.
+
+     SEC. 8243. MODIFICATION OF COLLECTION DUE PROCESS PROCEDURES 
+                   FOR EMPLOYMENT TAX LIABILITIES.
+
+       (a) In General.--Section 6330(f) (relating to jeopardy and 
+     State refund collection) is amended--
+       (1) by striking ``; or'' at the end of paragraph (1) and 
+     inserting a comma,
+       (2) by adding ``or'' at the end of paragraph (2), and
+       (3) by inserting after paragraph (2) the following new 
+     paragraph:
+       ``(3) the Secretary has served a disqualified employment 
+     tax levy,''.
+       (b) Disqualified Employment Tax Levy.--Section 6330 of such 
+     Code (relating to notice and opportunity for hearing before 
+     levy) is amended by adding at the end the following new 
+     subsection:
+
+[[Page 14214]]
+
+       ``(h) Disqualified Employment Tax Levy.--For purposes of 
+     subsection (f), a disqualified employment tax levy is any 
+     levy in connection with the collection of employment taxes 
+     for any taxable period if the person subject to the levy (or 
+     any predecessor thereof) requested a hearing under this 
+     section with respect to unpaid employment taxes arising in 
+     the most recent 2-year period before the beginning of the 
+     taxable period with respect to which the levy is served. For 
+     purposes of the preceding sentence, the term `employment 
+     taxes' means any taxes under chapter 21, 22, 23, or 24.''.
+       (c) Effective Date.--The amendments made by this section 
+     shall apply to levies served on or after the date that is 120 
+     days after the date of the enactment of this Act.
+
+     SEC. 8244. PERMANENT EXTENSION OF IRS USER FEES.
+
+       Section 7528 (relating to Internal Revenue Service user 
+     fees) is amended by striking subsection (c).
+
+     SEC. 8245. INCREASE IN PENALTY FOR BAD CHECKS AND MONEY 
+                   ORDERS.
+
+       (a) In General.--Section 6657 (relating to bad checks) is 
+     amended--
+       (1) by striking ``$750'' and inserting ``$1,250'', and
+       (2) by striking ``$15'' and inserting ``$25''.
+       (b) Effective Date.--The amendments made by this section 
+     apply to checks or money orders received after the date of 
+     the enactment of this Act.
+
+     SEC. 8246. UNDERSTATEMENT OF TAXPAYER LIABILITY BY RETURN 
+                   PREPARERS.
+
+       (a) Application of Return Preparer Penalties to All Tax 
+     Returns.--
+       (1) Definition of tax return preparer.--Paragraph (36) of 
+     section 7701(a) (relating to income tax preparer) is 
+     amended--
+       (A) by striking ``income'' each place it appears in the 
+     heading and the text, and
+       (B) in subparagraph (A), by striking ``subtitle A'' each 
+     place it appears and inserting ``this title''.
+       (2) Conforming amendments.--
+       (A)(i) Section 6060 is amended by striking ``INCOME TAX 
+     RETURN PREPARERS'' in the heading and inserting ``TAX RETURN 
+     PREPARERS''.
+       (ii) Section 6060(a) is amended--
+       (I) by striking ``an income tax return preparer'' each 
+     place it appears and inserting ``a tax return preparer'',
+       (II) by striking ``each income tax return preparer'' and 
+     inserting ``each tax return preparer'', and
+       (III) by striking ``another income tax return preparer'' 
+     and inserting ``another tax return preparer''.
+       (iii) The item relating to section 6060 in the table of 
+     sections for subpart F of part III of subchapter A of chapter 
+     61 is amended by striking ``income tax return preparers'' and 
+     inserting ``tax return preparers''.
+       (iv) Subpart F of part III of subchapter A of chapter 61 is 
+     amended by striking ``INCOME TAX RETURN PREPARERS'' in the 
+     heading and inserting ``TAX RETURN PREPARERS''.
+       (v) The item relating to subpart F in the table of subparts 
+     for part III of subchapter A of chapter 61 is amended by 
+     striking ``income tax return preparers'' and inserting ``tax 
+     return preparers''.
+       (B) Section 6103(k)(5) is amended--
+       (i) by striking ``income tax return preparer'' each place 
+     it appears and inserting ``tax return preparer'', and
+       (ii) by striking ``income tax return preparers'' each place 
+     it appears and inserting ``tax return preparers''.
+       (C)(i) Section 6107 is amended--
+       (I) by striking ``INCOME TAX RETURN PREPARER'' in the 
+     heading and inserting ``TAX RETURN PREPARER'',
+       (II) by striking ``an income tax return preparer'' each 
+     place it appears in subsections (a) and (b) and inserting ``a 
+     tax return preparer'',
+       (III) by striking ``Income Tax Return Preparer'' in the 
+     heading for subsection (b) and inserting ``Tax Return 
+     Preparer'', and
+       (IV) in subsection (c), by striking ``income tax return 
+     preparers'' and inserting ``tax return preparers''.
+       (ii) The item relating to section 6107 in the table of 
+     sections for subchapter B of chapter 61 is amended by 
+     striking ``Income tax return preparer'' and inserting ``Tax 
+     return preparer''.
+       (D) Section 6109(a)(4) is amended--
+       (i) by striking ``an income tax return preparer'' and 
+     inserting ``a tax return preparer'', and
+       (ii) by striking ``income return preparer'' in the heading 
+     and inserting ``tax return preparer''.
+       (E) Section 6503(k)(4) is amended by striking ``Income tax 
+     return preparers'' and inserting ``Tax return preparers''.
+       (F)(i) Section 6694 is amended--
+       (I) by striking ``INCOME TAX RETURN PREPARER'' in the 
+     heading and inserting ``TAX RETURN PREPARER'',
+       (II) by striking ``an income tax return preparer'' each 
+     place it appears and inserting ``a tax return preparer'',
+       (III) in subsection (c)(2), by striking ``the income tax 
+     return preparer'' and inserting ``the tax return preparer'',
+       (IV) in subsection (e), by striking ``subtitle A'' and 
+     inserting ``this title'', and
+       (V) in subsection (f), by striking ``income tax return 
+     preparer'' and inserting ``tax return preparer''.
+       (ii) The item relating to section 6694 in the table of 
+     sections for part I of subchapter B of chapter 68 is amended 
+     by striking ``income tax return preparer'' and inserting 
+     ``tax return preparer''.
+       (G)(i) Section 6695 is amended--
+       (I) by striking ``INCOME'' in the heading, and
+       (II) by striking ``an income tax return preparer'' each 
+     place it appears and inserting ``a tax return preparer''.
+       (ii) Section 6695(f) is amended--
+       (I) by striking ``subtitle A'' and inserting ``this 
+     title'', and
+       (II) by striking ``the income tax return preparer'' and 
+     inserting ``the tax return preparer''.
+       (iii) The item relating to section 6695 in the table of 
+     sections for part I of subchapter B of chapter 68 is amended 
+     by striking ``income''.
+       (H) Section 6696(e) is amended by striking ``subtitle A'' 
+     each place it appears and inserting ``this title''.
+       (I)(i) Section 7407 is amended--
+       (I) by striking ``INCOME TAX RETURN PREPARERS'' in the 
+     heading and inserting ``TAX RETURN PREPARERS'',
+       (II) by striking ``an income tax return preparer'' each 
+     place it appears and inserting ``a tax return preparer'',
+       (III) by striking ``income tax preparer'' both places it 
+     appears in subsection (a) and inserting ``tax return 
+     preparer'', and
+       (IV) by striking ``income tax return'' in subsection (a) 
+     and inserting ``tax return''.
+       (ii) The item relating to section 7407 in the table of 
+     sections for subchapter A of chapter 76 is amended by 
+     striking ``income tax return preparers'' and inserting ``tax 
+     return preparers''.
+       (J)(i) Section 7427 is amended--
+       (I) by striking ``INCOME TAX RETURN PREPARERS'' in the 
+     heading and inserting ``TAX RETURN PREPARERS'', and
+       (II) by striking ``an income tax return preparer'' and 
+     inserting ``a tax return preparer''.
+       (ii) The item relating to section 7427 in the table of 
+     sections for subchapter B of chapter 76 is amended to read as 
+     follows:
+
+``Sec. 7427. Tax return preparers.''
+
+       (b) Modification of Penalty for Understatement of 
+     Taxpayer's Liability by Tax Return Preparer.--Subsections (a) 
+     and (b) of section 6694 are amended to read as follows:
+       ``(a) Understatement Due to Unreasonable Positions.--
+       ``(1) In general.--Any tax return preparer who prepares any 
+     return or claim for refund with respect to which any part of 
+     an understatement of liability is due to a position described 
+     in paragraph (2) shall pay a penalty with respect to each 
+     such return or claim in an amount equal to the greater of--
+       ``(A) $1,000, or
+       ``(B) 50 percent of the income derived (or to be derived) 
+     by the tax return preparer with respect to the return or 
+     claim.
+       ``(2) Unreasonable position.--A position is described in 
+     this paragraph if--
+       ``(A) the tax return preparer knew (or reasonably should 
+     have known) of the position,
+       ``(B) there was not a reasonable belief that the position 
+     would more likely than not be sustained on its merits, and
+       ``(C)(i) the position was not disclosed as provided in 
+     section 6662(d)(2)(B)(ii), or
+       ``(ii) there was no reasonable basis for the position.
+       ``(3) Reasonable cause exception.--No penalty shall be 
+     imposed under this subsection if it is shown that there is 
+     reasonable cause for the understatement and the tax return 
+     preparer acted in good faith.
+       ``(b) Understatement Due to Willful or Reckless Conduct.--
+       ``(1) In general.--Any tax return preparer who prepares any 
+     return or claim for refund with respect to which any part of 
+     an understatement of liability is due to a conduct described 
+     in paragraph (2) shall pay a penalty with respect to each 
+     such return or claim in an amount equal to the greater of--
+       ``(A) $5,000, or
+       ``(B) 50 percent of the income derived (or to be derived) 
+     by the tax return preparer with respect to the return or 
+     claim.
+       ``(2) Willful or reckless conduct.--Conduct described in 
+     this paragraph is conduct by the tax return preparer which 
+     is--
+       ``(A) a willful attempt in any manner to understate the 
+     liability for tax on the return or claim, or
+       ``(B) a reckless or intentional disregard of rules or 
+     regulations.
+       ``(3) Reduction in penalty.--The amount of any penalty 
+     payable by any person by reason of this subsection for any 
+     return or claim for refund shall be reduced by the amount of 
+     the penalty paid by such person by reason of subsection 
+     (a).''.
+       (c) Effective Date.--The amendments made by this section 
+     shall apply to returns prepared after the date of the 
+     enactment of this Act.
+
+     SEC. 8247. PENALTY FOR FILING ERRONEOUS REFUND CLAIMS.
+
+       (a) In General.--Part I of subchapter B of chapter 68 
+     (relating to assessable penalties) is amended by inserting 
+     after section 6675 the following new section:
+
+     ``SEC. 6676. ERRONEOUS CLAIM FOR REFUND OR CREDIT.
+
+       ``(a) Civil Penalty.--If a claim for refund or credit with 
+     respect to income tax (other
+
+[[Page 14215]]
+
+     than a claim for a refund or credit relating to the earned 
+     income credit under section 32) is made for an excessive 
+     amount, unless it is shown that the claim for such excessive 
+     amount has a reasonable basis, the person making such claim 
+     shall be liable for a penalty in an amount equal to 20 
+     percent of the excessive amount.
+       ``(b) Excessive Amount.--For purposes of this section, the 
+     term `excessive amount' means in the case of any person the 
+     amount by which the amount of the claim for refund or credit 
+     for any taxable year exceeds the amount of such claim 
+     allowable under this title for such taxable year.
+       ``(c) Coordination With Other Penalties.--This section 
+     shall not apply to any portion of the excessive amount of a 
+     claim for refund or credit which is subject to a penalty 
+     imposed under part II of subchapter A of chapter 68.''.
+       (b) Conforming Amendment.--The table of sections for part I 
+     of subchapter B of chapter 68 is amended by inserting after 
+     the item relating to section 6675 the following new item:
+
+``Sec. 6676. Erroneous claim for refund or credit.''.
+
+       (c) Effective Date.--The amendments made by this section 
+     shall apply to any claim filed or submitted after the date of 
+     the enactment of this Act.
+
+     SEC. 8248. TIME FOR PAYMENT OF CORPORATE ESTIMATED TAXES.
+
+       Subparagraph (B) of section 401(1) of the Tax Increase 
+     Prevention and Reconciliation Act of 2005 is amended by 
+     striking ``106.25 percent'' and inserting ``114.25 percent''.
+
+                 Subtitle C--Small Business Incentives
+
+     SEC. 8301. SHORT TITLE.
+
+       This subtitle may be cited as the ``Small Business and Work 
+     Opportunity Act of 2007''.
+
+     SEC. 8302. ENHANCED COMPLIANCE ASSISTANCE FOR SMALL 
+                   BUSINESSES.
+
+       (a) In General.--Section 212 of the Small Business 
+     Regulatory Enforcement Fairness Act of 1996 (5 U.S.C. 601 
+     note) is amended by striking subsection (a) and inserting the 
+     following:
+       ``(a) Compliance Guide.--
+       ``(1) In general.--For each rule or group of related rules 
+     for which an agency is required to prepare a final regulatory 
+     flexibility analysis under section 605(b) of title 5, United 
+     States Code, the agency shall publish 1 or more guides to 
+     assist small entities in complying with the rule and shall 
+     entitle such publications `small entity compliance guides'.
+       ``(2) Publication of guides.--The publication of each guide 
+     under this subsection shall include--
+       ``(A) the posting of the guide in an easily identified 
+     location on the website of the agency; and
+       ``(B) distribution of the guide to known industry contacts, 
+     such as small entities, associations, or industry leaders 
+     affected by the rule.
+       ``(3) Publication date.--An agency shall publish each guide 
+     (including the posting and distribution of the guide as 
+     described under paragraph (2))--
+       ``(A) on the same date as the date of publication of the 
+     final rule (or as soon as possible after that date); and
+       ``(B) not later than the date on which the requirements of 
+     that rule become effective.
+       ``(4) Compliance actions.--
+       ``(A) In general.--Each guide shall explain the actions a 
+     small entity is required to take to comply with a rule.
+       ``(B) Explanation.--The explanation under subparagraph 
+     (A)--
+       ``(i) shall include a description of actions needed to meet 
+     the requirements of a rule, to enable a small entity to know 
+     when such requirements are met; and
+       ``(ii) if determined appropriate by the agency, may include 
+     a description of possible procedures, such as conducting 
+     tests, that may assist a small entity in meeting such 
+     requirements, except that, compliance with any procedures 
+     described pursuant to this section does not establish 
+     compliance with the rule, or establish a presumption or 
+     inference of such compliance.
+       ``(C) Procedures.--Procedures described under subparagraph 
+     (B)(ii)--
+       ``(i) shall be suggestions to assist small entities; and
+       ``(ii) shall not be additional requirements, or diminish 
+     requirements, relating to the rule.
+       ``(5) Agency preparation of guides.--The agency shall, in 
+     its sole discretion, taking into account the subject matter 
+     of the rule and the language of relevant statutes, ensure 
+     that the guide is written using sufficiently plain language 
+     likely to be understood by affected small entities. Agencies 
+     may prepare separate guides covering groups or classes of 
+     similarly affected small entities and may cooperate with 
+     associations of small entities to develop and distribute such 
+     guides. An agency may prepare guides and apply this section 
+     with respect to a rule or a group of related rules.
+       ``(6) Reporting.--Not later than 1 year after the date of 
+     enactment of the Fair Minimum Wage Act of 2007, and annually 
+     thereafter, the head of each agency shall submit a report to 
+     the Committee on Small Business and Entrepreneurship of the 
+     Senate, the Committee on Small Business of the House of 
+     Representatives, and any other committee of relevant 
+     jurisdiction describing the status of the agency's compliance 
+     with paragraphs (1) through (5).''.
+       (b) Technical and Conforming Amendment.--Section 211(3) of 
+     the Small Business Regulatory Enforcement Fairness Act of 
+     1996 (5 U.S.C. 601 note) is amended by inserting ``and 
+     entitled'' after ``designated''.
+
+     SEC. 8303. SMALL BUSINESS CHILD CARE GRANT PROGRAM.
+
+       (a) Establishment.--The Secretary of Health and Human 
+     Services (referred to in this section as the ``Secretary'') 
+     shall establish a program to award grants to States, on a 
+     competitive basis, to assist States in providing funds to 
+     encourage the establishment and operation of employer-
+     operated child care programs.
+       (b) Application.--To be eligible to receive a grant under 
+     this section, a State shall prepare and submit to the 
+     Secretary an application at such time, in such manner, and 
+     containing such information as the Secretary may require, 
+     including an assurance that the funds required under 
+     subsection (e) will be provided.
+       (c) Amount and Period of Grant.--The Secretary shall 
+     determine the amount of a grant to a State under this section 
+     based on the population of the State as compared to the 
+     population of all States receiving grants under this section. 
+     The Secretary shall make the grant for a period of 3 years.
+       (d) Use of Funds.--
+       (1) In general.--A State shall use amounts provided under a 
+     grant awarded under this section to provide assistance to 
+     small businesses (or consortia formed in accordance with 
+     paragraph (3)) located in the State to enable the small 
+     businesses (or consortia) to establish and operate child care 
+     programs. Such assistance may include--
+       (A) technical assistance in the establishment of a child 
+     care program;
+       (B) assistance for the startup costs related to a child 
+     care program;
+       (C) assistance for the training of child care providers;
+       (D) scholarships for low-income wage earners;
+       (E) the provision of services to care for sick children or 
+     to provide care to school-aged children;
+       (F) the entering into of contracts with local resource and 
+     referral organizations or local health departments;
+       (G) assistance for care for children with disabilities;
+       (H) payment of expenses for renovation or operation of a 
+     child care facility; or
+       (I) assistance for any other activity determined 
+     appropriate by the State.
+       (2) Application.--In order for a small business or 
+     consortium to be eligible to receive assistance from a State 
+     under this section, the small business involved shall prepare 
+     and submit to the State an application at such time, in such 
+     manner, and containing such information as the State may 
+     require.
+       (3) Preference.--
+       (A) In general.--In providing assistance under this 
+     section, a State shall give priority to an applicant that 
+     desires to form a consortium to provide child care in a 
+     geographic area within the State where such care is not 
+     generally available or accessible.
+       (B) Consortium.--For purposes of subparagraph (A), a 
+     consortium shall be made up of 2 or more entities that shall 
+     include small businesses and that may include large 
+     businesses, nonprofit agencies or organizations, local 
+     governments, or other appropriate entities.
+       (4) Limitations.--With respect to grant funds received 
+     under this section, a State may not provide in excess of 
+     $500,000 in assistance from such funds to any single 
+     applicant.
+       (e) Matching Requirement.--To be eligible to receive a 
+     grant under this section, a State shall provide assurances to 
+     the Secretary that, with respect to the costs to be incurred 
+     by a covered entity receiving assistance in carrying out 
+     activities under this section, the covered entity will make 
+     available (directly or through donations from public or 
+     private entities) non-Federal contributions to such costs in 
+     an amount equal to--
+       (1) for the first fiscal year in which the covered entity 
+     receives such assistance, not less than 50 percent of such 
+     costs ($1 for each $1 of assistance provided to the covered 
+     entity under the grant);
+       (2) for the second fiscal year in which the covered entity 
+     receives such assistance, not less than 66\2/3\ percent of 
+     such costs ($2 for each $1 of assistance provided to the 
+     covered entity under the grant); and
+       (3) for the third fiscal year in which the covered entity 
+     receives such assistance, not less than 75 percent of such 
+     costs ($3 for each $1 of assistance provided to the covered 
+     entity under the grant).
+       (f) Requirements of Providers.--To be eligible to receive 
+     assistance under a grant awarded under this section, a child 
+     care provider--
+       (1) who receives assistance from a State shall comply with 
+     all applicable State and local licensing and regulatory 
+     requirements and all applicable health and safety standards 
+     in effect in the State; and
+       (2) who receives assistance from an Indian tribe or tribal 
+     organization shall comply with all applicable regulatory 
+     standards.
+       (g) State-Level Activities.--A State may not retain more 
+     than 3 percent of the
+
+[[Page 14216]]
+
+     amount described in subsection (c) for State administration 
+     and other State-level activities.
+       (h) Administration.--
+       (1) State responsibility.--A State shall have 
+     responsibility for administering a grant awarded for the 
+     State under this section and for monitoring covered entities 
+     that receive assistance under such grant.
+       (2) Audits.--A State shall require each covered entity 
+     receiving assistance under the grant awarded under this 
+     section to conduct an annual audit with respect to the 
+     activities of the covered entity. Such audits shall be 
+     submitted to the State.
+       (3) Misuse of funds.--
+       (A) Repayment.--If the State determines, through an audit 
+     or otherwise, that a covered entity receiving assistance 
+     under a grant awarded under this section has misused the 
+     assistance, the State shall notify the Secretary of the 
+     misuse. The Secretary, upon such a notification, may seek 
+     from such a covered entity the repayment of an amount equal 
+     to the amount of any such misused assistance plus interest.
+       (B) Appeals process.--The Secretary shall by regulation 
+     provide for an appeals process with respect to repayments 
+     under this paragraph.
+       (i) Reporting Requirements.--
+       (1) 2-year study.--
+       (A) In general.--Not later than 2 years after the date on 
+     which the Secretary first awards grants under this section, 
+     the Secretary shall conduct a study to determine--
+       (i) the capacity of covered entities to meet the child care 
+     needs of communities within States;
+       (ii) the kinds of consortia that are being formed with 
+     respect to child care at the local level to carry out 
+     programs funded under this section; and
+       (iii) who is using the programs funded under this section 
+     and the income levels of such individuals.
+       (B) Report.--Not later than 28 months after the date on 
+     which the Secretary first awards grants under this section, 
+     the Secretary shall prepare and submit to the appropriate 
+     committees of Congress a report on the results of the study 
+     conducted in accordance with subparagraph (A).
+       (2) 4-year study.--
+       (A) In general.--Not later than 4 years after the date on 
+     which the Secretary first awards grants under this section, 
+     the Secretary shall conduct a study to determine the number 
+     of child care facilities that are funded through covered 
+     entities that received assistance through a grant awarded 
+     under this section and that remain in operation, and the 
+     extent to which such facilities are meeting the child care 
+     needs of the individuals served by such facilities.
+       (B) Report.--Not later than 52 months after the date on 
+     which the Secretary first awards grants under this section, 
+     the Secretary shall prepare and submit to the appropriate 
+     committees of Congress a report on the results of the study 
+     conducted in accordance with subparagraph (A).
+       (j) Definitions.--In this section:
+       (1) Covered entity.--The term ``covered entity'' means a 
+     small business or a consortium formed in accordance with 
+     subsection (d)(3).
+       (2) Indian community.--The term ``Indian community'' means 
+     a community served by an Indian tribe or tribal organization.
+       (3) Indian tribe; tribal organization.--The terms ``Indian 
+     tribe'' and ``tribal organization'' have the meanings given 
+     the terms in section 658P of the Child Care and Development 
+     Block Grant Act of 1990 (42 U.S.C. 9858n).
+       (4) Small business.--The term ``small business'' means an 
+     employer who employed an average of at least 2 but not more 
+     than 50 employees on the business days during the preceding 
+     calendar year.
+       (5) State.--The term ``State'' has the meaning given the 
+     term in section 658P of the Child Care and Development Block 
+     Grant Act of 1990 (42 U.S.C. 9858n).
+       (k) Application to Indian Tribes and Tribal 
+     Organizations.--In this section:
+       (1) In general.--Except as provided in subsection (f)(1), 
+     and in paragraphs (2) and (3), the term ``State'' includes an 
+     Indian tribe or tribal organization.
+       (2) Geographic references.--The term ``State'' includes an 
+     Indian community in subsections (c) (the second and third 
+     place the term appears), (d)(1) (the second place the term 
+     appears), (d)(3)(A) (the second place the term appears), and 
+     (i)(1)(A)(i).
+       (3) State-level activities.--The term ``State-level 
+     activities'' includes activities at the tribal level.
+       (l) Authorization of Appropriations.--
+       (1) In general.--There is authorized to be appropriated to 
+     carry out this section, $50,000,000 for the period of fiscal 
+     years 2008 through 2012.
+       (2) Studies and administration.--With respect to the total 
+     amount appropriated for such period in accordance with this 
+     subsection, not more than $2,500,000 of that amount may be 
+     used for expenditures related to conducting studies required 
+     under, and the administration of, this section.
+       (m) Termination of Program.--The program established under 
+     subsection (a) shall terminate on September 30, 2012.
+
+     SEC. 8304. STUDY OF UNIVERSAL USE OF ADVANCE PAYMENT OF 
+                   EARNED INCOME CREDIT.
+
+       Not later than 180 days after the date of the enactment of 
+     this Act, the Secretary of the Treasury shall report to 
+     Congress on a study of the benefits, costs, risks, and 
+     barriers to workers and to businesses (with a special 
+     emphasis on small businesses) if the advance earned income 
+     tax credit program (under section 3507 of the Internal 
+     Revenue Code of 1986) included all recipients of the earned 
+     income tax credit (under section 32 of such Code) and what 
+     steps would be necessary to implement such inclusion.
+
+     SEC. 8305. RENEWAL GRANTS FOR WOMEN'S BUSINESS CENTERS.
+
+       (a) In General.--Section 29 of the Small Business Act (15 
+     U.S.C. 656) is amended by adding at the end the following:
+       ``(m) Continued Funding for Centers.--
+       ``(1) In general.--A nonprofit organization described in 
+     paragraph (2) shall be eligible to receive, subject to 
+     paragraph (3), a 3-year grant under this subsection.
+       ``(2) Applicability.--A nonprofit organization described in 
+     this paragraph is a nonprofit organization that has received 
+     funding under subsection (b) or (l).
+       ``(3) Application and approval criteria.--
+       ``(A) Criteria.--Subject to subparagraph (B), the 
+     Administrator shall develop and publish criteria for the 
+     consideration and approval of applications by nonprofit 
+     organizations under this subsection.
+       ``(B) Contents.--Except as otherwise provided in this 
+     subsection, the conditions for participation in the grant 
+     program under this subsection shall be the same as the 
+     conditions for participation in the program under subsection 
+     (l), as in effect on the date of enactment of this Act.
+       ``(C) Notification.--Not later than 60 days after the date 
+     of the deadline to submit applications for each fiscal year, 
+     the Administrator shall approve or deny any application under 
+     this subsection and notify the applicant for each such 
+     application.
+       ``(4) Award of grants.--
+       ``(A) In general.--Subject to the availability of 
+     appropriations, the Administrator shall make a grant for the 
+     Federal share of the cost of activities described in the 
+     application to each applicant approved under this subsection.
+       ``(B) Amount.--A grant under this subsection shall be for 
+     not more than $150,000, for each year of that grant.
+       ``(C) Federal share.--The Federal share under this 
+     subsection shall be not more than 50 percent.
+       ``(D) Priority.--In allocating funds made available for 
+     grants under this section, the Administrator shall give 
+     applications under this subsection or subsection (l) priority 
+     over first-time applications under subsection (b).
+       ``(5) Renewal.--
+       ``(A) In general.--The Administrator may renew a grant 
+     under this subsection for additional 3-year periods, if the 
+     nonprofit organization submits an application for such 
+     renewal at such time, in such manner, and accompanied by such 
+     information as the Administrator may establish.
+       ``(B) Unlimited renewals.--There shall be no limitation on 
+     the number of times a grant may be renewed under subparagraph 
+     (A).
+       ``(n) Privacy Requirements.--
+       ``(1) In general.--A women's business center may not 
+     disclose the name, address, or telephone number of any 
+     individual or small business concern receiving assistance 
+     under this section without the consent of such individual or 
+     small business concern, unless--
+       ``(A) the Administrator is ordered to make such a 
+     disclosure by a court in any civil or criminal enforcement 
+     action initiated by a Federal or State agency; or
+       ``(B) the Administrator considers such a disclosure to be 
+     necessary for the purpose of conducting a financial audit of 
+     a women's business center, but a disclosure under this 
+     subparagraph shall be limited to the information necessary 
+     for such audit.
+       ``(2) Administration use of information.--This subsection 
+     shall not--
+       ``(A) restrict Administration access to program activity 
+     data; or
+       ``(B) prevent the Administration from using client 
+     information (other than the information described in 
+     subparagraph (A)) to conduct client surveys.
+       ``(3) Regulations.--The Administrator shall issue 
+     regulations to establish standards for requiring disclosures 
+     during a financial audit under paragraph (1)(B).''.
+       (b) Repeal.--Section 29(l) of the Small Business Act (15 
+     U.S.C. 656(l)) is repealed effective October 1 of the first 
+     full fiscal year after the date of enactment of this Act.
+       (c) Transitional Rule.--Notwithstanding any other provision 
+     of law, a grant or cooperative agreement that was awarded 
+     under subsection (l) of section 29 of the Small Business Act 
+     (15 U.S.C. 656), on or before the day before the date 
+     described in subsection (b) of this section, shall remain in 
+     full force and effect under the terms, and for the duration, 
+     of such grant or agreement.
+
+     SEC. 8306. REPORTS ON ACQUISITIONS OF ARTICLES, MATERIALS, 
+                   AND SUPPLIES MANUFACTURED OUTSIDE THE UNITED 
+                   STATES.
+
+       Section 2 of the Buy American Act (41 U.S.C. 10a) is 
+     amended--
+       (1) by striking ``Notwithstanding'' and inserting the 
+     following:
+       ``(a) In General.--Notwithstanding''; and
+       (2) by adding at the end the following:
+
+[[Page 14217]]
+
+       ``(b) Reports.--
+       ``(1) In general.--Not later than 180 days after the end of 
+     each of fiscal years 2007 through 2011, the head of each 
+     Federal agency shall submit to the Committee on Homeland 
+     Security and Governmental Affairs of the Senate and the 
+     Committee on Oversight and Government Reform of the House of 
+     Representatives a report on the amount of the acquisitions 
+     made by the agency in that fiscal year of articles, 
+     materials, or supplies purchased from entities that 
+     manufacture the articles, materials, or supplies outside of 
+     the United States.
+       ``(2) Contents of report.--The report required by paragraph 
+     (1) shall separately include, for the fiscal year covered by 
+     such report--
+       ``(A) the dollar value of any articles, materials, or 
+     supplies that were manufactured outside the United States;
+       ``(B) an itemized list of all waivers granted with respect 
+     to such articles, materials, or supplies under this Act, and 
+     a citation to the treaty, international agreement, or other 
+     law under which each waiver was granted;
+       ``(C) if any articles, materials, or supplies were acquired 
+     from entities that manufacture articles, materials, or 
+     supplies outside the United States, the specific exception 
+     under this section that was used to purchase such articles, 
+     materials, or supplies; and
+       ``(D) a summary of--
+       ``(i) the total procurement funds expended on articles, 
+     materials, and supplies manufactured inside the United 
+     States; and
+       ``(ii) the total procurement funds expended on articles, 
+     materials, and supplies manufactured outside the United 
+     States.
+       ``(3) Public availability.--The head of each Federal agency 
+     submitting a report under paragraph (1) shall make the report 
+     publicly available to the maximum extent practicable.
+       ``(4) Exception for intelligence community.--This 
+     subsection shall not apply to acquisitions made by an agency, 
+     or component thereof, that is an element of the intelligence 
+     community as specified in, or designated under, section 3(4) 
+     of the National Security Act of 1947 (50 U.S.C. 401a(4)).''.
+
+                   TITLE IX--AGRICULTURAL ASSISTANCE
+
+     SEC. 9001. CROP DISASTER ASSISTANCE.
+
+       (a) Assistance Available.--There are hereby appropriated to 
+     the Secretary of Agriculture such sums as are necessary, to 
+     remain available until expended, to make emergency financial 
+     assistance available to producers on a farm that incurred 
+     qualifying quantity or quality losses for the 2005, 2006, or 
+     2007 crop, due to damaging weather or any related condition 
+     (including losses due to crop diseases, insects, and delayed 
+     planting), as determined by the Secretary. However, to be 
+     eligible for assistance, the crop subject to the loss must 
+     have been planted before February 28, 2007, or, in the case 
+     of prevented planting or other total loss, would have been 
+     planted before February 28, 2007, in the absence of the 
+     damaging weather or any related condition.
+       (b) Election of Crop Year.--If a producer incurred 
+     qualifying crop losses in more than one of the 2005, 2006, or 
+     2007 crop years, the producer shall elect to receive 
+     assistance under this section for losses incurred in only one 
+     of such crop years. The producer may not receive assistance 
+     under this section for more than one crop year.
+       (c) Administration.--
+       (1) In general.--Except as provided in paragraph (2), the 
+     Secretary of Agriculture shall make assistance available 
+     under this section in the same manner as provided under 
+     section 815 of the Agriculture, Rural Development, Food and 
+     Drug Administration and Related Agencies Appropriations Act, 
+     2001 (Public Law 106-387; 114 Stat. 1549A-55), including 
+     using the same loss thresholds for quantity and economic 
+     losses as were used in administering that section, except 
+     that the payment rate shall be 42 percent of the established 
+     price, instead of 65 percent.
+       (2) Loss thresholds for quality losses.--In the case of a 
+     payment for quality loss for a crop under subsection (a), the 
+     loss thresholds for quality loss for the crop shall be 
+     determined under subsection (d).
+       (d) Quality Losses.--
+       (1) In general.--Subject to paragraph (3), the amount of a 
+     payment made to producers on a farm for a quality loss for a 
+     crop under subsection (a) shall be equal to the amount 
+     obtained by multiplying--
+       (A) 65 percent of the payment quantity determined under 
+     paragraph (2); by
+       (B) 42 percent of the payment rate determined under 
+     paragraph (3).
+       (2) Payment quantity.--For the purpose of paragraph (1)(A), 
+     the payment quantity for quality losses for a crop of a 
+     commodity on a farm shall equal the lesser of--
+       (A) the actual production of the crop affected by a quality 
+     loss of the commodity on the farm; or
+       (B) the quantity of expected production of the crop 
+     affected by a quality loss of the commodity on the farm, 
+     using the formula used by the Secretary of Agriculture to 
+     determine quantity losses for the crop of the commodity under 
+     subsection (a).
+       (3) Payment rate.--For the purpose of paragraph (1)(B) and 
+     in accordance with paragraphs (5) and (6), the payment rate 
+     for quality losses for a crop of a commodity on a farm shall 
+     be equal to the difference between--
+       (A) the per unit market value that the units of the crop 
+     affected by the quality loss would have had if the crop had 
+     not suffered a quality loss; and
+       (B) the per unit market value of the units of the crop 
+     affected by the quality loss.
+       (4) Eligibility.--For producers on a farm to be eligible to 
+     obtain a payment for a quality loss for a crop under 
+     subsection (a), the amount obtained by multiplying the per 
+     unit loss determined under paragraph (1) by the number of 
+     units affected by the quality loss shall be at least 25 
+     percent of the value that all affected production of the crop 
+     would have had if the crop had not suffered a quality loss.
+       (5) Marketing contracts.--In the case of any production of 
+     a commodity that is sold pursuant to one or more marketing 
+     contracts (regardless of whether the contract is entered into 
+     by the producers on the farm before or after harvest) and for 
+     which appropriate documentation exists, the quantity 
+     designated in the contracts shall be eligible for quality 
+     loss assistance based on the one or more prices specified in 
+     the contracts.
+       (6) Other production.--For any additional production of a 
+     commodity for which a marketing contract does not exist or 
+     for which production continues to be owned by the producer, 
+     quality losses shall be based on the average local market 
+     discounts for reduced quality, as determined by the 
+     appropriate State committee of the Farm Service Agency.
+       (7) Quality adjustments and discounts.--The appropriate 
+     State committee of the Farm Service Agency shall identify the 
+     appropriate quality adjustment and discount factors to be 
+     considered in carrying out this subsection, including--
+       (A) the average local discounts actually applied to a crop; 
+     and
+       (B) the discount schedules applied to loans made by the 
+     Farm Service Agency or crop insurance coverage under the 
+     Federal Crop Insurance Act (7 U.S.C. 1501 et seq.).
+       (8) Eligible production.--The Secretary of Agriculture 
+     shall carry out this subsection in a fair and equitable 
+     manner for all eligible production, including the production 
+     of fruits and vegetables, other specialty crops, and field 
+     crops.
+       (e) Payment Limitations.--
+       (1) Limit on amount of assistance.--Assistance provided 
+     under this section to a producer for losses to a crop, 
+     together with the amounts specified in paragraph (2) 
+     applicable to the same crop, may not exceed 95 percent of 
+     what the value of the crop would have been in the absence of 
+     the losses, as estimated by the Secretary of Agriculture.
+       (2) Other payments.--In applying the limitation in 
+     paragraph (1), the Secretary shall include the following:
+       (A) Any crop insurance payment made under the Federal Crop 
+     Insurance Act (7 U.S.C. 1501 et seq.) or payment under 
+     section 196 of the Federal Agriculture Improvement and Reform 
+     Act of 1996 (7 U.S.C. 7333) that the producer receives for 
+     losses to the same crop.
+       (B) The value of the crop that was not lost (if any), as 
+     estimated by the Secretary.
+       (f) Eligibility Requirements and Limitations.--The 
+     producers on a farm shall not be eligible for assistance 
+     under this section with respect to losses to an insurable 
+     commodity or noninsurable commodity if the producers on the 
+     farm--
+       (1) in the case of an insurable commodity, did not obtain a 
+     policy or plan of insurance for the insurable commodity under 
+     the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) for 
+     the crop incurring the losses;
+       (2) in the case of a noninsurable commodity, did not file 
+     the required paperwork, and pay the administrative fee by the 
+     applicable State filing deadline, for the noninsurable 
+     commodity under section 196 of the Federal Agriculture 
+     Improvement and Reform Act of 1996 (7 U.S.C. 7333) for the 
+     crop incurring the losses; or
+       (3) were not in compliance with highly erodible land 
+     conservation and wetland conservation provisions.
+       (g) Timing.--
+       (1) In general.--Subject to paragraph (2), the Secretary of 
+     Agriculture shall make payments to producers on a farm for a 
+     crop under this section not later than 60 days after the date 
+     the producers on the farm submit to the Secretary a completed 
+     application for the payments.
+       (2) Interest.--If the Secretary does not make payments to 
+     the producers on a farm by the date described in paragraph 
+     (1), the Secretary shall pay to the producers on a farm 
+     interest on the payments at a rate equal to the current (as 
+     of the sign-up deadline established by the Secretary) market 
+     yield on outstanding, marketable obligations of the United 
+     States with maturities of 30 years.
+       (h) Definitions.--In this section:
+       (1) Insurable commodity.--The term ``insurable commodity'' 
+     means an agricultural commodity (excluding livestock) for 
+     which the producers on a farm are eligible to obtain a policy 
+     or plan of insurance under the Federal Crop Insurance Act (7 
+     U.S.C. 1501 et seq.).
+       (2) Noninsurable commodity.--The term ``noninsurable 
+     commodity'' means a crop for which the producers on a farm 
+     are eligible to
+
+[[Page 14218]]
+
+     obtain assistance under section 196 of the Federal 
+     Agriculture Improvement and Reform Act of 1996 (7 U.S.C. 
+     7333).
+
+     SEC. 9002. LIVESTOCK ASSISTANCE.
+
+       (a) Livestock Compensation Program.--
+       (1) Availability of assistance.--There are hereby 
+     appropriated to the Secretary of Agriculture such sums as are 
+     necessary, to remain available until expended, to carry out 
+     the livestock compensation program established under subpart 
+     B of part 1416 of title 7, Code of Federal Regulations, as 
+     announced by the Secretary on February 12, 2007 (72 Fed. Reg. 
+     6443), to provide compensation for livestock losses between 
+     January 1, 2005 and February 28, 2007, due to a disaster, as 
+     determined by the Secretary (including losses due to 
+     blizzards that started in 2006 and continued into January 
+     2007). However, the payment rate for compensation under this 
+     subsection shall be 61 percent of the payment rate otherwise 
+     applicable under such program. In addition, section 
+     1416.102(b)(2)(ii) of title 7, Code of Federal Regulations 
+     (72 Fed. Reg. 6444) shall not apply.
+       (2) Eligible applicants.--In carrying out the program 
+     described in paragraph (1), the Secretary shall provide 
+     assistance to any applicant that--
+       (A) conducts a livestock operation that is located in a 
+     disaster county with eligible livestock specified in 
+     paragraph (1) of section 1416.102(a) of title 7, Code of 
+     Federal Regulations (72 Fed. Reg. 6444), an animal described 
+     in section 10806(a)(1) of the Farm Security and Rural 
+     Investment Act of 2002 (21 U.S.C. 321d(a)(1)), or other 
+     animals designated by the Secretary as livestock for purposes 
+     of this subsection; and
+       (B) meets the requirements of paragraphs (3) and (4) of 
+     section 1416.102(a) of title 7, Code of Federal Regulations, 
+     and all other eligibility requirements established by the 
+     Secretary for the program.
+       (3) Election of losses.--
+       (A) If a producer incurred eligible livestock losses in 
+     more than one of the 2005, 2006, or 2007 calendar years, the 
+     producer shall elect to receive payments under this 
+     subsection for losses incurred in only one of such calendar 
+     years, and such losses must have been incurred in a county 
+     declared or designated as a disaster county in that same 
+     calendar year.
+       (B) Producers may elect to receive compensation for losses 
+     in the calendar year 2007 grazing season that are 
+     attributable to wildfires occurring during the applicable 
+     period, as determined by the Secretary.
+       (4) Mitigation.--In determining the eligibility for or 
+     amount of payments for which a producer is eligible under the 
+     livestock compensation program, the Secretary shall not 
+     penalize a producer that takes actions (recognizing disaster 
+     conditions) that reduce the average number of livestock the 
+     producer owned for grazing during the production year for 
+     which assistance is being provided.
+       (5) Definitions.--In this subsection:
+       (A) Disaster county.--The term ``disaster county'' means--
+       (i) a county included in the geographic area covered by a 
+     natural disaster declaration; and
+       (ii) each county contiguous to a county described in clause 
+     (i).
+       (B) Natural disaster declaration.--The term ``natural 
+     disaster declaration'' means--
+       (i) a natural disaster declared by the Secretary between 
+     January 1, 2005 and February 28, 2007, under section 321(a) 
+     of the Consolidated Farm and Rural Development Act (7 U.S.C. 
+     1961(a));
+       (ii) a major disaster or emergency designated by the 
+     President between January 1, 2005 and February 28, 2007, 
+     under the Robert T. Stafford Disaster Relief and Emergency 
+     Assistance Act (42 U.S.C. 5121 et seq.); or
+       (iii) a determination of a Farm Service Agency 
+     Administrator's Physical Loss Notice if such notice applies 
+     to a county included under (ii).
+       (b) Livestock Indemnity Payments.--
+       (1) Availability of assistance.--There are hereby 
+     appropriated to the Secretary of Agriculture such sums as are 
+     necessary, to remain available until expended, to make 
+     livestock indemnity payments to producers on farms that have 
+     incurred livestock losses between January 1, 2005 and 
+     February 28, 2007, due to a disaster, as determined by the 
+     Secretary (including losses due to blizzards that started in 
+     2006 and continued into January 2007) in a disaster county. 
+     To be eligible for assistance, applicants must meet all 
+     eligibility requirements established by the Secretary for the 
+     program.
+       (2) Election of losses.--If a producer incurred eligible 
+     livestock losses in more than one of the 2005, 2006, or 2007 
+     calendar years, the producer shall elect to receive payments 
+     under this subsection for losses incurred in only one of such 
+     calendar years. The producer may not receive payments under 
+     this subsection for more than one calendar year.
+       (3) Payment rates.--Indemnity payments to a producer on a 
+     farm under paragraph (1) shall be made at a rate of not less 
+     than 26 percent of the market value of the applicable 
+     livestock on the day before the date of death of the 
+     livestock, as determined by the Secretary.
+       (4) Livestock defined.--In this subsection, the term 
+     ``livestock'' means an animal that--
+       (A) is specified in clause (i) of section 1416.203(a)(2) of 
+     title 7, Code of Federal Regulations (72 Fed. Reg. 6445), or 
+     is designated by the Secretary as livestock for purposes of 
+     this subsection; and
+       (B) meets the requirements of clauses (iii) and (iv) of 
+     such section.
+       (5) Definitions.--In this subsection:
+       (A) Disaster county.--The term ``disaster county'' means--
+       (i) a county included in the geographic area covered by a 
+     natural disaster declaration; and
+       (ii) each county contiguous to a county described in clause 
+     (i).
+       (B) Natural disaster declaration.--The term ``natural 
+     disaster declaration'' means--
+       (i) a natural disaster declared by the Secretary between 
+     January 1, 2005 and February 28, 2007, under section 321(a) 
+     of the Consolidated Farm and Rural Development Act (7 U.S.C. 
+     1961(a));
+       (ii) a major disaster or emergency designated by the 
+     President between January 1, 2005 and February 28, 2007, 
+     under the Robert T. Stafford Disaster Relief and Emergency 
+     Assistance Act (42 U.S.C. 5121 et seq.); or
+       (iii) a determination of a Farm Service Agency 
+     Administrator's Physical Loss Notice if such notice applies 
+     to a county included under (ii).
+
+     SEC. 9003. EMERGENCY CONSERVATION PROGRAM.
+
+       There is hereby appropriated to the Secretary of 
+     Agriculture $16,000,000, to remain available until expended, 
+     to provide assistance under the Emergency Conservation 
+     Program under title IV of the Agriculture Credit Act of 1978 
+     (16 U.S.C. 2201 et seq.) for the cleanup and restoration of 
+     farm and agricultural production lands.
+
+     SEC. 9004. PAYMENT LIMITATIONS.
+
+       (a) Reduction in Payments to Reflect Payments for Same or 
+     Similar Losses.--The amount of any payment for which a 
+     producer is eligible under sections 9001 and 9002 shall be 
+     reduced by any amount received by the producer for the same 
+     loss or any similar loss under--
+       (1) the Department of Defense, Emergency Supplemental 
+     Appropriations to Address Hurricanes in the Gulf of Mexico, 
+     and Pandemic Influenza Act, 2006 (Public Law 109-148; 119 
+     Stat. 2680);
+       (2) an agricultural disaster assistance provision contained 
+     in the announcement of the Secretary on January 26, 2006 or 
+     August 29, 2006; or
+       (3) the Emergency Supplemental Appropriations Act for 
+     Defense, the Global War on Terror, and Hurricane Recovery, 
+     2006 (Public Law 109-234; 120 Stat. 418).
+       (b) Adjusted Gross Income Limitation.--Section 1001D of the 
+     Food Security Act of 1985 (7 U.S.C. 1308-3a) shall apply with 
+     respect to assistance provided under sections 9001, 9002, and 
+     9003.
+
+     SEC. 9005. ADMINISTRATION.
+
+       (a) Regulations.--The Secretary of Agriculture may 
+     promulgate such regulations as are necessary to implement 
+     sections 9001 and 9002.
+       (b) Procedure.--The promulgation of the implementing 
+     regulations and the administration of sections 9001 and 9002 
+     shall be made without regard to--
+       (1) the notice and comment provisions of section 553 of 
+     title 5, United States Code;
+       (2) the Statement of Policy of the Secretary of Agriculture 
+     effective July 24, 1971 (36 Fed. Reg. 13804), relating to 
+     notices of proposed rulemaking and public participation in 
+     rulemaking; and
+       (3) chapter 35 of title 44, United States Code (commonly 
+     known as the ``Paperwork Reduction Act'').
+       (c) Congressional Review of Agency Rulemaking.--In carrying 
+     out this section, the Secretary of Agriculture shall use the 
+     authority provided under section 808 of title 5, United 
+     States Code.
+       (d) Use of Commodity Credit Corporation; Limitation.--In 
+     implementing sections 9001 and 9002, the Secretary of 
+     Agriculture may use the facilities, services, and authorities 
+     of the Commodity Credit Corporation. The Corporation shall 
+     not make any expenditures to carry out sections 9001 and 9002 
+     unless funds have been specifically appropriated for such 
+     purpose.
+
+     SEC. 9006. MILK INCOME LOSS CONTRACT PROGRAM.
+
+       (a) Section 1502(c)(3) of the Farm Security and Rural 
+     Investment Act of 2002 (7 U.S.C. 7982(c)(3)) is amended--
+       (1) in subparagraph (A), by adding ``and'' at the end;
+       (2) in subparagraph (B), by striking ``August'' and all 
+     that follows through the end and inserting ``September 30, 
+     2007, 34 percent.''; and
+       (3) by striking subparagraph (C).
+       (b) Section 10002 of this Act shall not apply to this 
+     section except with respect to fiscal years 2007 and 2008.
+
+     SEC. 9007. DAIRY ASSISTANCE.
+
+       There is hereby appropriated $16,000,000 to make payments 
+     to dairy producers for dairy production losses in disaster 
+     counties, as defined in section 9002 of this title, to remain 
+     available until expended.
+
+     SEC. 9008. NONINSURED CROP ASSISTANCE PROGRAM.
+
+       For states in which there is a shortage of claims 
+     adjustors, as determined by the Secretary, the Secretary 
+     shall permit the use of
+
+[[Page 14219]]
+
+     one claims adjustor certified by the Secretary in carrying 
+     out 7 CFR 1437.401.
+
+     SEC. 9009. EMERGENCY GRANTS TO ASSIST LOW-INCOME MIGRANT AND 
+                   SEASONAL FARMWORKERS.
+
+       There is hereby appropriated $16,000,000 to carry out 
+     section 2281 of the Food, Agriculture, Conservation and Trade 
+     Act of 1990 (42 U.S.C. 5177a), to remain available until 
+     expended.
+
+     SEC. 9010. CONSERVATION SECURITY PROGRAM.
+
+       Section 20115 of Public Law 110-5 is amended by striking 
+     ``section 726'' and inserting in lieu thereof ``section 726; 
+     section 741''.
+
+     SEC. 9011. ADMINISTRATIVE EXPENSES.
+
+       There is hereby appropriated $22,000,000 for the ``Farm 
+     Service Agency, Salaries and Expenses'', to remain available 
+     until September 30, 2008.
+
+     SEC. 9012. CONTRACT WAIVER.
+
+       In carrying out crop disaster and livestock assistance in 
+     this title, the Secretary shall require forage producers to 
+     have participated in a crop insurance pilot program or the 
+     Non-Insured Crop Disaster Assistance Program during the crop 
+     year for which compensation is received.
+
+                      TITLE X--GENERAL PROVISIONS
+
+       Sec. 10001. No part of any appropriation contained in this 
+     Act shall remain available for obligation beyond the current 
+     fiscal year unless expressly so provided herein.
+       Sec. 10002. Amounts in this Act (other than in titles VI 
+     and VIII) are designated as emergency requirements and 
+     necessary to meet emergency needs pursuant to subsections (a) 
+     and (b) of section 204 of S. Con. Res. 21 (110th Congress), 
+     the concurrent resolution on the budget for fiscal year 2008.
+                                  ____
+
+
+            Amendment 2 to the Senate Amendment to H.R. 2206
+
+       In lieu of titles I and II of House amendment 1 (or, if 
+     such amendment has not been agreed to, in lieu of the matter 
+     proposed to be inserted by the Senate amendment), insert the 
+     following:
+
+    TITLE I--SUPPLEMENTAL APPROPRIATIONS FOR DEFENSE, INTERNATIONAL 
+               AFFAIRS, AND OTHER SECURITY-RELATED NEEDS
+
+                               CHAPTER 1
+
+                       DEPARTMENT OF AGRICULTURE
+
+                      Foreign Agricultural Service
+
+
+                     Public Law 480 Title II Grants
+
+       For an additional amount for ``Public Law 480 Title II 
+     Grants'', during the current fiscal year, not otherwise 
+     recoverable, and unrecovered prior years' costs, including 
+     interest thereon, under the Agricultural Trade Development 
+     and Assistance Act of 1954, for commodities supplied in 
+     connection with dispositions abroad under title II of said 
+     Act, $350,000,000, to remain available until expended.
+
+                               CHAPTER 2
+
+                         DEPARTMENT OF JUSTICE
+
+                            Legal Activities
+
+
+            Salaries and Expenses, General Legal Activities
+
+       For an additional amount for ``Salaries and Expenses, 
+     General Legal Activities'', $1,648,000, to remain available 
+     until September 30, 2008.
+
+
+             salaries and expenses, united states attorneys
+
+       For an additional amount for ``Salaries and Expenses, 
+     United States Attorneys'', $5,000,000, to remain available 
+     until September 30, 2008.
+
+                     United States Marshals Service
+
+
+                         SALARIES AND EXPENSES
+
+       For an additional amount for ``Salaries and Expenses'', 
+     $6,450,000, to remain available until September 30, 2008.
+
+                       National Security Division
+
+
+                         Salaries and Expenses
+
+       For an additional amount for ``Salaries and Expenses'', 
+     $1,736,000, to remain available until September 30, 2008.
+
+                    Federal Bureau of Investigation
+
+
+                         Salaries and Expenses
+
+       For an additional amount for ``Salaries and Expenses'', 
+     $118,260,000, to remain available until September 30, 2008.
+
+                    Drug Enforcement Administration
+
+
+                         Salaries and Expenses
+
+       For an additional amount for ``Salaries and Expenses'', 
+     $8,468,000, to remain available until September 30, 2008.
+
+          Bureau of Alcohol, Tobacco, Firearms and Explosives
+
+
+                         Salaries and Expenses
+
+       For an additional amount for ``Salaries and Expenses'', 
+     $4,000,000, to remain available until September 30, 2008.
+
+                         Federal Prison System
+
+
+                         Salaries and Expenses
+
+       For an additional amount for ``Salaries and Expenses'', 
+     $17,000,000, to remain available until September 30, 2008.
+
+                    GENERAL PROVISIONS--THIS CHAPTER
+
+       Sec. 1201. Funds provided in this Act for the ``Department 
+     of Justice, United States Marshals Service, Salaries and 
+     Expenses'' shall be made available according to the language 
+     relating to such account in the joint explanatory statement 
+     accompanying the conference report on H.R. 1591 of the 110th 
+     Congress (H. Rept. 110-107).
+       Sec. 1202. Funds provided in this Act for the ``Department 
+     of Justice, Legal Activities, Salaries and Expenses, General 
+     Legal Activities'', shall be made available according to the 
+     language relating to such account in the joint explanatory 
+     statement accompanying the conference report on H.R. 1591 of 
+     the 110th Congress (H. Rept. 110-107).
+
+                               CHAPTER 3
+
+                    DEPARTMENT OF DEFENSE--MILITARY
+
+                           MILITARY PERSONNEL
+
+                        Military Personnel, Army
+
+       For an additional amount for ``Military Personnel, Army'', 
+     $8,510,270,000.
+
+                        Military Personnel, Navy
+
+       For an additional amount for ``Military Personnel, Navy'', 
+     $692,127,000.
+
+                    Military Personnel, Marine Corps
+
+       For an additional amount for ``Military Personnel, Marine 
+     Corps'', $1,386,871,000.
+
+                     Military Personnel, Air Force
+
+       For an additional amount for ``Military Personnel, Air 
+     Force'', $1,079,287,000.
+
+                        Reserve Personnel, Army
+
+       For an additional amount for ``Reserve Personnel, Army'', 
+     $147,244,000.
+
+                        Reserve Personnel, Navy
+
+       For an additional amount for ``Reserve Personnel, Navy'', 
+     $77,800,000.
+
+                      Reserve Personnel, Air Force
+
+       For an additional amount for ``Reserve Personnel, Air 
+     Force'', $5,500,000.
+
+                     National Guard Personnel, Army
+
+       For an additional amount for ``National Guard Personnel, 
+     Army'', $436,025,000.
+
+                  National Guard Personnel, Air Force
+
+       For an additional amount for ``National Guard Personnel, 
+     Air Force'', $24,500,000.
+
+                       OPERATION AND MAINTENANCE
+
+                    Operation and Maintenance, Army
+
+       For an additional amount for ``Operation and Maintenance, 
+     Army'', $20,373,379,000.
+
+                    Operation and Maintenance, Navy
+
+
+                     (including transfer of funds)
+
+       For an additional amount for ``Operation and Maintenance, 
+     Navy'', $4,652,670,000, of which up to $120,293,000 shall be 
+     transferred to Coast Guard, ``Operating Expenses'', for 
+     reimbursement for activities which support activities 
+     requested by the Navy.
+
+                Operation and Maintenance, Marine Corps
+
+       For an additional amount for ``Operation and Maintenance, 
+     Marine Corps'', $1,146,594,000.
+
+                  Operation and Maintenance, Air Force
+
+       For an additional amount for ``Operation and Maintenance, 
+     Air Force'', $6,650,881,000.
+
+                Operation and Maintenance, Defense-Wide
+
+       For an additional amount for ``Operation and Maintenance, 
+     Defense-Wide'', $2,714,487,000, of which--
+       (1) not to exceed $25,000,000 may be used for the Combatant 
+     Commander Initiative Fund, to be used in support of Operation 
+     Iraqi Freedom and Operation Enduring Freedom; and
+       (2) not to exceed $200,000,000, to remain available until 
+     expended, may be used for payments to reimburse Pakistan, 
+     Jordan, and other key cooperating nations, for logistical, 
+     military, and other support provided to United States 
+     military operations, notwithstanding any other provision of 
+     law: Provided, That such payments may be made in such amounts 
+     as the Secretary of Defense, with the concurrence of the 
+     Secretary of State, and in consultation with the Director of 
+     the Office of Management and Budget, may determine, in his 
+     discretion, based on documentation determined by the 
+     Secretary of Defense to adequately account for the support 
+     provided, and such determination is final and conclusive upon 
+     the accounting officers of the United States, and 15 days 
+     following notification to the appropriate congressional 
+     committees: Provided further, That the Secretary of Defense 
+     shall provide quarterly reports to the congressional defense 
+     committees on the use of funds provided in this paragraph.
+
+                Operation and Maintenance, Army Reserve
+
+       For an additional amount for ``Operation and Maintenance, 
+     Army Reserve'', $74,049,000.
+
+                Operation and Maintenance, Navy Reserve
+
+       For an additional amount for ``Operation and Maintenance, 
+     Navy Reserve'', $111,066,000.
+
+            Operation and Maintenance, Marine Corps Reserve
+
+       For an additional amount for ``Operation and Maintenance, 
+     Marine Corps Reserve'', $13,591,000.
+
+              Operation and Maintenance, Air Force Reserve
+
+       For an additional amount for ``Operation and Maintenance, 
+     Air Force Reserve'', $10,160,000.
+
+             Operation and Maintenance, Army National Guard
+
+       For an additional amount for ``Operation and Maintenance, 
+     Army National Guard'', $83,569,000.
+
+[[Page 14220]]
+
+
+
+             Operation and Maintenance, Air National Guard
+
+       For an additional amount for ``Operation and Maintenance, 
+     Air National Guard'', $38,429,000.
+
+                    Afghanistan Security Forces Fund
+
+       For an additional amount for ``Afghanistan Security Forces 
+     Fund'', $5,906,400,000, to remain available until September 
+     30, 2008.
+
+                       Iraq Security Forces Fund
+
+       For an additional amount for ``Iraq Security Forces Fund'', 
+     $3,842,300,000, to remain available until September 30, 2008.
+
+                           Iraq Freedom Fund
+
+
+                     (including transfer of funds)
+
+       For an additional amount for ``Iraq Freedom Fund'', 
+     $355,600,000, to remain available for transfer until 
+     September 30, 2008: Provided, That up to $50,000,000 may be 
+     obligated and expended for purposes of the Task Force to 
+     Improve Business and Stability Operations in Iraq.
+
+             Joint Improvised Explosive Device Defeat Fund
+
+       For an additional amount for ``Joint Improvised Explosive 
+     Device Defeat Fund'', $2,432,800,000, to remain available 
+     until September 30, 2009.
+
+                              PROCUREMENT
+
+                       Aircraft Procurement, Army
+
+       For an additional amount for ``Aircraft Procurement, 
+     Army'', $619,750,000, to remain available until September 30, 
+     2009.
+
+                       Missile Procurement, Army
+
+       For an additional amount for ``Missile Procurement, Army'', 
+     $111,473,000, to remain available until September 30, 2009.
+
+        Procurement of Weapons and Tracked Combat Vehicles, Army
+
+       For an additional amount for ``Procurement of Weapons and 
+     Tracked Combat Vehicles, Army'', $3,404,315,000, to remain 
+     available until September 30, 2009.
+
+                    Procurement of Ammunition, Army
+
+       For an additional amount for ``Procurement of Ammunition, 
+     Army'', $681,500,000, to remain available until September 30, 
+     2009.
+
+                        Other Procurement, Army
+
+       For an additional amount for ``Other Procurement, Army'', 
+     $9,859,137,000, to remain available until September 30, 2009.
+
+                       Aircraft Procurement, Navy
+
+       For an additional amount for ``Aircraft Procurement, 
+     Navy'', $1,090,287,000, to remain available until September 
+     30, 2009.
+
+                       Weapons Procurement, Navy
+
+       For an additional amount for ``Weapons Procurement, Navy'', 
+     $163,813,000, to remain available until September 30, 2009.
+
+            Procurement of Ammunition, Navy and Marine Corps
+
+       For an additional amount for ``Procurement of Ammunition, 
+     Navy and Marine Corps'', $159,833,000, to remain available 
+     until September 30, 2009.
+
+                        Other Procurement, Navy
+
+       For an additional amount for ``Other Procurement, Navy'', 
+     $618,709,000, to remain available until September 30, 2009.
+
+                       Procurement, Marine Corps
+
+       For an additional amount for ``Procurement, Marine Corps'', 
+     $989,389,000, to remain available until September 30, 2009.
+
+                    Aircraft Procurement, Air Force
+
+       For an additional amount for ``Aircraft Procurement, Air 
+     Force'', $2,106,468,000, to remain available until September 
+     30, 2009.
+
+                     Missile Procurement, Air Force
+
+       For an additional amount for ``Missile Procurement, Air 
+     Force'', $94,900,000, to remain available until September 30, 
+     2009.
+
+                  Procurement of Ammunition, Air Force
+
+       For an additional amount for ``Procurement of Ammunition, 
+     Air Force'', $6,000,000, to remain available until September 
+     30, 2009.
+
+                      Other Procurement, Air Force
+
+       For an additional amount for ``Other Procurement, Air 
+     Force'', $1,957,160,000, to remain available until September 
+     30, 2009.
+
+                       Procurement, Defense-Wide
+
+       For an additional amount for ``Procurement, Defense-Wide'', 
+     $721,190,000, to remain available until September 30, 2009.
+
+               RESEARCH, DEVELOPMENT, TEST AND EVALUATION
+
+            Research, Development, Test and Evaluation, Army
+
+       For an additional amount for ``Research, Development, Test 
+     and Evaluation, Army'', $100,006,000, to remain available 
+     until September 30, 2008.
+
+            Research, Development, Test and Evaluation, Navy
+
+       For an additional amount for ``Research, Development, Test 
+     and Evaluation, Navy'', $298,722,000, to remain available 
+     until September 30, 2008.
+
+         Research, Development, Test and Evaluation, Air Force
+
+       For an additional amount for ``Research, Development, Test 
+     and Evaluation, Air Force'', $187,176,000, to remain 
+     available until September 30, 2008.
+
+        Research, Development, Test and Evaluation, Defense-Wide
+
+       For an additional amount for ``Research, Development, Test 
+     and Evaluation, Defense-Wide'', $512,804,000, to remain 
+     available until September 30, 2008.
+
+                     REVOLVING AND MANAGEMENT FUNDS
+
+                     Defense Working Capital Funds
+
+       For an additional amount for ``Defense Working Capital 
+     Funds'', $1,115,526,000.
+
+                     National Defense Sealift Fund
+
+       For an additional amount for ``National Defense Sealift 
+     Fund'', $5,000,000.
+
+                  OTHER DEPARTMENT OF DEFENSE PROGRAMS
+
+                         Defense Health Program
+
+       For an additional amount for ``Defense Health Program'', 
+     $1,123,147,000.
+
+         Drug Interdiction and Counter-Drug Activities, Defense
+
+       For an additional amount for ``Drug Interdiction and 
+     Counter-Drug Activities, Defense'', $254,665,000, to remain 
+     available until expended.
+
+                            RELATED AGENCIES
+
+               Intelligence Community Management Account
+
+       For an additional amount for ``Intelligence Community 
+     Management Account'', $71,726,000.
+
+                    GENERAL PROVISIONS--THIS CHAPTER
+
+       Sec. 1301. Appropriations provided in this Act are 
+     available for obligation until September 30, 2007, unless 
+     otherwise provided herein.
+
+
+                          (transfer of funds)
+
+       Sec. 1302. Upon his determination that such action is 
+     necessary in the national interest, the Secretary of Defense 
+     may transfer between appropriations up to $3,500,000,000 of 
+     the funds made available to the Department of Defense (except 
+     for military construction) in this Act: Provided, That the 
+     Secretary shall notify the Congress promptly of each transfer 
+     made pursuant to the authority in this section: Provided 
+     further, That the authority provided in this section is in 
+     addition to any other transfer authority available to the 
+     Department of Defense and is subject to the same terms and 
+     conditions as the authority provided in section 8005 of the 
+     Department of Defense Appropriations Act, 2007 (Public Law 
+     109-289; 120 Stat. 1257), except for the fourth proviso: 
+     Provided further, That funds previously transferred to the 
+     ``Joint Improvised Explosive Device Defeat Fund'' and the 
+     ``Iraq Security Forces Fund'' under the authority of section 
+     8005 of Public Law 109-289 and transferred back to their 
+     source appropriations accounts shall not be taken into 
+     account for purposes of the limitation on the amount of funds 
+     that may be transferred under section 8005.
+       Sec. 1303. Funds appropriated in this Act, or made 
+     available by the transfer of funds in or pursuant to this 
+     Act, for intelligence activities are deemed to be 
+     specifically authorized by the Congress for purposes of 
+     section 504(a)(1) of the National Security Act of 1947 (50 
+     U.S.C. 414(a)(1)).
+       Sec. 1304. None of the funds provided in this Act may be 
+     used to finance programs or activities denied by Congress in 
+     fiscal years 2006 or 2007 appropriations to the Department of 
+     Defense (except for military construction) or to initiate a 
+     procurement or research, development, test and evaluation new 
+     start program without prior written notification to the 
+     congressional defense committees.
+
+
+                          (TRANSFER OF FUNDS)
+
+       Sec. 1305. During fiscal year 2007, the Secretary of 
+     Defense may transfer not to exceed $6,300,000 of the amounts 
+     in or credited to the Defense Cooperation Account, pursuant 
+     to 10 U.S.C. 2608, to such appropriations or funds of the 
+     Department of Defense as he shall determine for use 
+     consistent with the purposes for which such funds were 
+     contributed and accepted: Provided, That such amounts shall 
+     be available for the same time period as the appropriation to 
+     which transferred: Provided further, That the Secretary shall 
+     report to the Congress all transfers made pursuant to this 
+     authority.
+       Sec. 1306. (a) Authority to Provide Support.--Of the amount 
+     appropriated by this Act under the heading, ``Drug 
+     Interdiction and Counter-Drug Activities, Defense'', not to 
+     exceed $60,000,000 may be used for support for counter-drug 
+     activities of the Governments of Afghanistan and Pakistan: 
+     Provided, That such support shall be in addition to support 
+     provided for the counter-drug activities of such Governments 
+     under any other provision of the law.
+       (b) Types of Support.--
+       (1) Except as specified in subsection (b)(2) of this 
+     section, the support that may be provided under the authority 
+     in this section shall be limited to the types of support 
+     specified in section 1033(c)(1) of the National Defense 
+     Authorization Act for Fiscal Year 1998 (Public Law 105-85, as 
+     amended by Public Laws 106-398, 108-136, and 109-364) and 
+     conditions on the provision of support as contained in 
+     section 1033 shall apply for fiscal year 2007.
+       (2) The Secretary of Defense may transfer vehicles, 
+     aircraft, and detection, interception, monitoring and testing 
+     equipment to said Governments for counter-drug activities.
+       Sec. 1307. (a) From funds made available for operation and 
+     maintenance in this Act to
+
+[[Page 14221]]
+
+     the Department of Defense, not to exceed $456,400,000 may be 
+     used, notwithstanding any other provision of law, to fund the 
+     Commanders' Emergency Response Program, for the purpose of 
+     enabling military commanders in Iraq and Afghanistan to 
+     respond to urgent humanitarian relief and reconstruction 
+     requirements within their areas of responsibility by carrying 
+     out programs that will immediately assist the Iraqi and 
+     Afghan people.
+       (b) Quarterly Reports.--Not later than 15 days after the 
+     end of each fiscal year quarter, the Secretary of Defense 
+     shall submit to the congressional defense committees a report 
+     regarding the source of funds and the allocation and use of 
+     funds during that quarter that were made available pursuant 
+     to the authority provided in this section or under any other 
+     provision of law for the purposes of the programs under 
+     subsection (a).
+       Sec. 1308. Section 9010 of division A of Public Law 109-289 
+     is amended by striking ``2007'' each place it appears and 
+     inserting ``2008''.
+       Sec. 1309. During fiscal year 2007, supervision and 
+     administration costs associated with projects carried out 
+     with funds appropriated to ``Afghanistan Security Forces 
+     Fund'' or ``Iraq Security Forces Fund'' in this Act may be 
+     obligated at the time a construction contract is awarded: 
+     Provided, That for the purpose of this section, supervision 
+     and administration costs include all in-house Government 
+     costs.
+       Sec. 1310. Section 1005(c)(2) of the National Defense 
+     Authorization Act, Fiscal Year 2007 (Public Law 109-364) is 
+     amended by striking ``$310,277,000'' and inserting 
+     ``$376,446,000''.
+       Sec. 1311. Section 9007 of Public Law 109-289 is amended by 
+     striking ``20'' and inserting ``287''.
+       Sec. 1312. From funds made available for the ``Iraq 
+     Security Forces Fund'' for fiscal year 2007, up to 
+     $155,500,000 may be used, notwithstanding any other provision 
+     of law, to provide assistance, with the concurrence of the 
+     Secretary of State, to the Government of Iraq to support the 
+     disarmament, demobilization, and reintegration of militias 
+     and illegal armed groups.
+
+
+                          (transfer of funds)
+
+       Sec. 1313. Notwithstanding any other provision of law, not 
+     to exceed $110,000,000 may be transferred to the ``Economic 
+     Support Fund'', Department of State, for use in programs in 
+     Pakistan from amounts appropriated by this Act as follows:
+       ``Military Personnel, Army'', $70,000,000.
+       ``National Guard Personnel, Army'', $13,183,000.
+       ``Defense Health Program'', $26,817,000.
+       Sec. 1314. (a) Findings Regarding Progress in Iraq, the 
+     Establishment of Benchmarks to Measure That Progress, and 
+     Reports to Congress.--Congress makes the following findings:
+       (1) Over 145,000 American military personnel are currently 
+     serving in Iraq, like thousands of others since March 2003, 
+     with the bravery and professionalism consistent with the 
+     finest traditions of the United States Armed Forces, and are 
+     deserving of the strong support of all Americans.
+       (2) Many American service personnel have lost their lives, 
+     and many more have been wounded in Iraq; the American people 
+     will always honor their sacrifice and honor their families.
+       (3) The United States Army and Marine Corps, including 
+     their Reserve components and National Guard organizations, 
+     together with components of the other branches of the 
+     military, are performing their missions while under enormous 
+     strain from multiple, extended deployments to Iraq and 
+     Afghanistan. These deployments, and those that will follow, 
+     will have a lasting impact on future recruiting, retention, 
+     and readiness of our Nation's all volunteer force.
+       (4) Iraq is experiencing a deteriorating problem of 
+     sectarian and intrasectarian violence based upon political 
+     distrust and cultural differences among factions of the Sunni 
+     and Shia populations.
+       (5) Iraqis must reach political and economic settlements in 
+     order to achieve reconciliation, for there is no military 
+     solution. The failure of the Iraqis to reach such settlements 
+     to support a truly unified government greatly contributes to 
+     the increasing violence in Iraq.
+       (6) The responsibility for Iraq's internal security and 
+     halting sectarian violence rests with the sovereign 
+     Government of Iraq.
+       (7) In December 2006, the bipartisan Iraq Study Group 
+     issued a valuable report, suggesting a comprehensive strategy 
+     that includes new and enhanced diplomatic and political 
+     efforts in Iraq and the region, and a change in the primary 
+     mission of U.S. forces in Iraq, that will enable the United 
+     States to begin to move its combat forces out of Iraq 
+     responsibly.
+       (8) The President said on January 10, 2007, that ``I've 
+     made it clear to the Prime Minister and Iraq's other leaders 
+     that America's commitment is not open-ended'' so as to dispel 
+     the contrary impression that exists.
+       (9) It is essential that the sovereign Government of Iraq 
+     set out measurable and achievable benchmarks and President 
+     Bush said, on January 10, 2007, that ``America will change 
+     our approach to help the Iraqi government as it works to meet 
+     these benchmarks''.
+       (10) As reported by Secretary of State Rice, Iraq's Policy 
+     Committee on National Security agreed upon a set of 
+     political, security, and economic benchmarks and an 
+     associated timeline in September 2006 that were (A) 
+     reaffirmed by Iraq's Presidency Council on October 6, 2006; 
+     (B) referenced by the Iraq Study Group; and (C) posted on the 
+     President of Iraq's Web site.
+       (11) On April 21, 2007, Secretary of Defense Robert Gates 
+     stated that ``our [American] commitment to Iraq is long-term, 
+     but it is not a commitment to have our young men and women 
+     patrolling Iraq's streets open-endedly'' and that ``progress 
+     in reconciliation will be an important element of our 
+     evaluation''.
+       (12) The President's January 10, 2007 address had three 
+     components: political, military, and economic. Given that 
+     significant time has passed since his statement, and 
+     recognizing the overall situation is ever changing, Congress 
+     must have timely reports to evaluate and execute its 
+     constitutional oversight responsibilities.
+       (b) Conditioning of Future United States Strategy in Iraq 
+     on the Iraqi Government's Record of Performance on Its 
+     Benchmarks.--
+       (1) In general.--
+       (A) The United States strategy in Iraq, hereafter, shall be 
+     conditioned on the Iraqi government meeting benchmarks, as 
+     told to members of Congress by the President, the Secretary 
+     of State, the Secretary of Defense, and the Chairman of the 
+     Joint Chiefs of Staff, and reflected in the Iraqi 
+     Government's commitments to the United States, and to the 
+     international community, including:
+       (i) Forming a Constitutional Review Committee and then 
+     completing the constitutional review.
+       (ii) Enacting and implementing legislation on de-
+     Baathification.
+       (iii) Enacting and implementing legislation to ensure the 
+     equitable distribution of hydrocarbon resources of the people 
+     of Iraq without regard to the sect or ethnicity of 
+     recipients, and enacting and implementing legislation to 
+     ensure that the energy resources of Iraq benefit Sunni Arabs, 
+     Shia Arabs, Kurds, and other Iraqi citizens in an equitable 
+     manner.
+       (iv) Enacting and implementing legislation on procedures to 
+     form semi-autonomous regions.
+       (v) Enacting and implementing legislation establishing an 
+     Independent High Electoral Commission, provincial elections 
+     law, provincial council authorities, and a date for 
+     provincial elections.
+       (vi) Enacting and implementing legislation addressing 
+     amnesty.
+       (vii) Enacting and implementing legislation establishing a 
+     strong militia disarmament program to ensure that such 
+     security forces are accountable only to the central 
+     government and loyal to the Constitution of Iraq.
+       (viii) Establishing supporting political, media, economic, 
+     and services committees in support of the Baghdad Security 
+     Plan.
+       (ix) Providing three trained and ready Iraqi brigades to 
+     support Baghdad operations.
+       (x) Providing Iraqi commanders with all authorities to 
+     execute this plan and to make tactical and operational 
+     decisions, in consultation with U.S. commanders, without 
+     political intervention, to include the authority to pursue 
+     all extremists, including Sunni insurgents and Shiite 
+     militias.
+       (xi) Ensuring that the Iraqi Security Forces are providing 
+     even handed enforcement of the law.
+       (xii) Ensuring that, according to President Bush, Prime 
+     Minister Maliki said ``the Baghdad security plan will not 
+     provide a safe haven for any outlaws, regardless of [their] 
+     sectarian or political affiliation''.
+       (xiii) Reducing the level of sectarian violence in Iraq and 
+     eliminating militia control of local security.
+       (xiv) Establishing all of the planned joint security 
+     stations in neighborhoods across Baghdad.
+       (xv) Increasing the number of Iraqi security forces units 
+     capable of operating independently.
+       (xvi) Ensuring that the rights of minority political 
+     parties in the Iraqi legislature are protected.
+       (xvii) Allocating and spending $10 billion in Iraqi 
+     revenues for reconstruction projects, including delivery of 
+     essential services, on an equitable basis.
+       (xviii) Ensuring that Iraq's political authorities are not 
+     undermining or making false accusations against members of 
+     the Iraqi Security Forces.
+       (B) The President shall submit reports to Congress on how 
+     the sovereign Government of Iraq is, or is not, achieving 
+     progress towards accomplishing the aforementioned benchmarks, 
+     and shall advise the Congress on how that assessment 
+     requires, or does not require, changes to the strategy 
+     announced on January 10, 2007.
+       (2) Reports required.--
+       (A) The President shall submit an initial report, in 
+     classified and unclassified format, to the Congress, not 
+     later than July 15, 2007, assessing the status of each of the 
+     specific benchmarks established above, and declaring, in his 
+     judgment, whether satisfactory progress toward meeting these 
+     benchmarks is, or is not, being achieved.
+
+[[Page 14222]]
+
+       (B) The President, having consulted with the Secretary of 
+     State, the Secretary of Defense, the Commander, Multi-
+     National Forces-Iraq, the United States Ambassador to Iraq, 
+     and the Commander of U.S. Central Command, will prepare the 
+     report and submit the report to Congress.
+       (C) If the President's assessment of any of the specific 
+     benchmarks established above is unsatisfactory, the President 
+     shall include in that report a description of such revisions 
+     to the political, economic, regional, and military components 
+     of the strategy, as announced by the President on January 10, 
+     2007. In addition, the President shall include in the report, 
+     the advisability of implementing such aspects of the 
+     bipartisan Iraq Study Group, as he deems appropriate.
+       (D) The President shall submit a second report to the 
+     Congress, not later than September 15, 2007, following the 
+     same procedures and criteria outlined above.
+       (E) The reporting requirement detailed in section 1227 of 
+     the National Defense Authorization Act for Fiscal Year 2006 
+     is waived from the date of the enactment of this Act through 
+     the period ending September 15, 2007.
+       (3) Testimony before congress.--Prior to the submission of 
+     the President's second report on September 15, 2007, and at a 
+     time to be agreed upon by the leadership of the Congress and 
+     the Administration, the United States Ambassador to Iraq and 
+     the Commander, Multi-National Forces Iraq will be made 
+     available to testify in open and closed sessions before the 
+     relevant committees of the Congress.
+       (c) Limitations on Availability of Funds.--
+       (1) Limitation.--No funds appropriated or otherwise made 
+     available for the ``Economic Support Fund'' and available for 
+     Iraq may be obligated or expended unless and until the 
+     President of the United States certifies in the report 
+     outlined in subsection (b)(2)(A) and makes a further 
+     certification in the report outlined in subsection (b)(2)(D) 
+     that Iraq is making progress on each of the benchmarks set 
+     forth in subsection (b)(1)(A).
+       (2) Waiver authority.--The President may waive the 
+     requirements of this section if he submits to Congress a 
+     written certification setting forth a detailed justification 
+     for the waiver, which shall include a detailed report 
+     describing the actions being taken by the United States to 
+     bring the Iraqi government into compliance with the 
+     benchmarks set forth in subsection (b)(1)(A). The 
+     certification shall be submitted in unclassified form, but 
+     may include a classified annex.
+       (d) Redeployment of U.S. Forces From Iraq.--The President 
+     of the United States, in respecting the sovereign rights of 
+     the nation of Iraq, shall direct the orderly redeployment of 
+     elements of U.S. forces from Iraq, if the components of the 
+     Iraqi government, acting in strict accordance with their 
+     respective powers given by the Iraqi Constitution, reach a 
+     consensus as recited in a resolution, directing a 
+     redeployment of U.S. forces.
+       (e) Independent Assessments.--
+       (1) Assessment by the comptroller general.--
+       (A) Not later than September 1, 2007, the Comptroller 
+     General of the United States shall submit to Congress an 
+     independent report setting forth--
+       (i) the status of the achievement of the benchmarks 
+     specified in subsection (b)(1)(A); and
+       (ii) the Comptroller General's assessment of whether or not 
+     each such benchmark has been met.
+       (2) Assessment of the capabilities of iraqi security 
+     forces.--
+       (A) In general.--There is hereby authorized to be 
+     appropriated for the Department of Defense, $750,000, that 
+     the Department, in turn, will commission an independent, 
+     private sector entity, which operates as a 501(c)(3), with 
+     recognized credentials and expertise in military affairs, to 
+     prepare an independent report assessing the following:
+       (i) The readiness of the Iraqi Security Forces (ISF) to 
+     assume responsibility for maintaining the territorial 
+     integrity of Iraq, denying international terrorists a safe 
+     haven, and bringing greater security to Iraq's 18 provinces 
+     in the next 12 to 18 months, and bringing an end to sectarian 
+     violence to achieve national reconciliation.
+       (ii) The training, equipping, command, control and 
+     intelligence capabilities, and logistics capacity of the ISF.
+       (iii) The likelihood that, given the ISF's record of 
+     preparedness to date, following years of training and 
+     equipping by U.S. forces, the continued support of U.S. 
+     troops will contribute to the readiness of the ISF to fulfill 
+     the missions outlined in clause (i).
+       (B) Report.--Not later than 120 days after the enactment of 
+     this Act, the designated private sector entity shall provide 
+     an unclassified report, with a classified annex, containing 
+     its findings, to the House and Senate Committees on Armed 
+     Services, Appropriations, Foreign Relations/International 
+     Relations, and Intelligence.
+
+                               CHAPTER 4
+
+                          DEPARTMENT OF ENERGY
+
+                    ATOMIC ENERGY DEFENSE ACTIVITIES
+
+                National Nuclear Security Administration
+
+
+                    Defense Nuclear Nonproliferation
+
+       For an additional amount for ``Defense Nuclear 
+     Nonproliferation'', $63,000,000, to remain available until 
+     expended.
+
+                               CHAPTER 5
+
+                         DEPARTMENT OF DEFENSE
+
+                      Military Construction, Army
+
+       For an additional amount for ``Military Construction, 
+     Army'', $1,255,890,000, to remain available until September 
+     30, 2008: Provided, That notwithstanding any other provision 
+     of law, such funds may be obligated and expended to carry out 
+     planning and design and military construction projects not 
+     otherwise authorized by law: Provided further, That of the 
+     funds provided under this heading, not to exceed $173,700,000 
+     shall be available for study, planning, design, and architect 
+     and engineer services: Provided further, That of the funds 
+     made available under this heading, $369,690,000 shall not be 
+     obligated or expended until the Secretary of Defense submits 
+     a detailed report explaining how military road construction 
+     is coordinated with NATO and coalition nations: Provided 
+     further, That of the funds made available under this heading, 
+     $401,700,000 shall not be obligated or expended until the 
+     Secretary of Defense submits a detailed stationing plan to 
+     support Army end-strength growth to the Committees on 
+     Appropriations of the House of Representatives and the 
+     Senate: Provided further, That of the funds provided under 
+     this heading, $274,800,000 shall not be obligated or expended 
+     until the Secretary of Defense certifies that none of the 
+     funds are to be used for the purpose of providing facilities 
+     for the permanent basing of United States military personnel 
+     in Iraq.
+
+              Military Construction, Navy and Marine Corps
+
+       For an additional amount for ``Military Construction, Navy 
+     and Marine Corps'', $370,990,000, to remain available until 
+     September 30, 2008: Provided, That notwithstanding any other 
+     provision of law, such funds may be obligated and expended to 
+     carry out planning and design and military construction 
+     projects not otherwise authorized by law: Provided further, 
+     That of the funds provided under this heading, not to exceed 
+     $49,600,000 shall be available for study, planning, design, 
+     and architect and engineer services: Provided further, That 
+     of the funds made available under this heading, $324,270,000 
+     shall not be obligated or expended until the Secretary of 
+     Defense submits a detailed stationing plan to support Marine 
+     Corps end-strength growth to the Committees on Appropriations 
+     of the House of Representatives and the Senate.
+
+                    Military Construction, Air Force
+
+       For an additional amount for ``Military Construction, Air 
+     Force'', $43,300,000, to remain available until September 30, 
+     2008: Provided, That notwithstanding any other provision of 
+     law, such funds may be obligated and expended to carry out 
+     planning and design and military construction projects not 
+     otherwise authorized by law: Provided further, That of the 
+     funds provided under this heading, not to exceed $3,000,000 
+     shall be available for study, planning, design, and architect 
+     and engineer services.
+
+                    GENERAL PROVISION--THIS CHAPTER
+
+       Sec. 1501. (a) Funds provided in this Act for the following 
+     accounts shall be made available for programs under the 
+     conditions contained in the language of the joint explanatory 
+     statement of managers accompanying the conference report on 
+     H.R. 1591 of the 110th Congress (H. Rept. 110-107):
+       ``Military Construction, Army''.
+       ``Military Construction, Navy and Marine Corps''.
+       ``Military Construction, Air Force''.
+       (b) The Secretary of Defense shall submit all reports 
+     requested in House Report 110-60 and Senate Report 110-37 to 
+     the Committees on Appropriations of both Houses of Congress.
+
+                               CHAPTER 6
+
+                 DEPARTMENT OF STATE AND RELATED AGENCY
+
+                          DEPARTMENT OF STATE
+
+                   Administration of Foreign Affairs
+
+
+                    DIPLOMATIC AND CONSULAR PROGRAMS
+
+                     (INCLUDING TRANSFER OF FUNDS)
+
+       For an additional amount for ``Diplomatic and Consular 
+     Programs'', $836,555,000, to remain available until September 
+     30, 2008, of which $64,655,000 for World Wide Security 
+     Upgrades is available until expended: Provided, That of the 
+     funds appropriated under this heading, not more than 
+     $20,000,000 shall be made available for public diplomacy 
+     programs: Provided further, That prior to the obligation of 
+     funds pursuant to the previous proviso, the Secretary of 
+     State shall submit a report to the Committees on 
+     Appropriations describing a comprehensive public diplomacy 
+     strategy, with goals and expected results, for fiscal years 
+     2007 and 2008: Provided further, That 20 percent of the 
+     amount available for Iraq operations shall not be obligated 
+     until the Committees on Appropriations receive and approve a 
+     detailed plan for expenditure, prepared by the Secretary of 
+     State, and submitted within 60 days after the date of 
+     enactment of this Act: Provided further, That of the amount 
+     made available under this heading for Iraq, not to exceed 
+     $20,000,000 may be transferred to, and merged with, funds in 
+     the ``Emergencies in the Diplomatic and Consular Service'' 
+     appropriations account, to be available only for terrorism 
+     rewards.
+
+[[Page 14223]]
+
+
+
+
+                    OFFICE OF THE INSPECTOR GENERAL
+
+                     (INCLUDING TRANSFER OF FUNDS)
+
+       For an additional amount for ``Office of Inspector 
+     General'', $35,000,000, to remain available until December 
+     31, 2008: Provided, That such amount shall be transferred to 
+     the Special Inspector General for Iraq Reconstruction for 
+     reconstruction oversight.
+
+
+               Educational and Cultural Exchange Programs
+
+       For an additional amount for ``Educational and Cultural 
+     Exchange Programs'', $20,000,000, to remain available until 
+     expended.
+
+                      International Organizations
+
+
+        Contributions for International Peacekeeping Activities
+
+       For an additional amount for ``Contributions for 
+     International Peacekeeping Activities'', $283,000,000, to 
+     remain available until September 30, 2008.
+
+                             RELATED AGENCY
+
+                    Broadcasting Board of Governors
+
+
+                 International Broadcasting Operations
+
+       For an additional amount for ``International Broadcasting 
+     Operations'' for activities related to broadcasting to the 
+     Middle East, $10,000,000, to remain available until September 
+     30, 2008.
+
+                     BILATERAL ECONOMIC ASSISTANCE
+
+                  Funds Appropriated to the President
+
+
+           United States Agency for International Development
+
+                Child Survival and Health Programs Fund
+
+                     (including transfer of funds)
+
+       For an additional amount for ``Child Survival and Health 
+     Programs Fund'', $161,000,000, to remain available until 
+     September 30, 2008: Provided, That notwithstanding any other 
+     provision of law, if the President determines and reports to 
+     the Committees on Appropriations that the human-to-human 
+     transmission of the avian influenza virus is efficient and 
+     sustained, and is spreading internationally, funds made 
+     available under the heading ``Millennium Challenge 
+     Corporation'' and ``Global HIV/AIDS Initiative'' in prior 
+     Acts making appropriations for foreign operations, export 
+     financing, and related programs may be transferred to, and 
+     merged with, funds made available under this heading to 
+     combat avian influenza: Provided further, That funds made 
+     available pursuant to the authority of the previous proviso 
+     shall be subject to the regular notification procedures of 
+     the Committees on Appropriations.
+
+
+              International Disaster and Famine Assistance
+
+       For an additional amount for ``International Disaster and 
+     Famine Assistance'', $105,000,000, to remain available until 
+     expended.
+
+
+   Operating Expenses of the United States Agency for International 
+                              Development
+
+       For an additional amount for ``Operating Expenses of the 
+     United States Agency for International Development'', 
+     $5,700,000, to remain available until September 30, 2008.
+
+                  Other Bilateral Economic Assistance
+
+
+                         Economic Support Fund
+
+       For an additional amount for ``Economic Support Fund'', 
+     $2,502,000,000, to remain available until September 30, 2008: 
+     Provided, That of the funds appropriated under this heading, 
+     $57,400,000 shall be made available to nongovernmental 
+     organizations in Iraq for economic and social development 
+     programs and activities in areas of conflict: Provided 
+     further, That the responsibility for policy decisions and 
+     justifications for the use of funds appropriated by the 
+     previous proviso shall be the responsibility of the United 
+     States Chief of Mission in Iraq: Provided further, That none 
+     of the funds appropriated under this heading in this Act or 
+     in prior Acts making appropriations for foreign operations, 
+     export financing, and related programs may be made available 
+     for the Political Participation Fund and the National 
+     Institutions Fund: Provided further, That of the funds made 
+     available under the heading ``Economic Support Fund'' in 
+     Public Law 109-234 for Iraq to promote democracy, rule of law 
+     and reconciliation, $2,000,000 should be made available for 
+     the United States Institute of Peace for programs and 
+     activities in Afghanistan to remain available until September 
+     30, 2008.
+
+
+          Assistance for Eastern Europe and the Baltic States
+
+       For an additional amount for ``Assistance for Eastern 
+     Europe and the Baltic States'', $214,000,000, to remain 
+     available until September 30, 2008, for assistance for 
+     Kosovo.
+
+                          Department of State
+
+
+                             Democracy Fund
+
+       For an additional amount for ``Democracy Fund'', 
+     $255,000,000, to remain available until September 30, 2008: 
+     Provided, That of the funds appropriated under this heading, 
+     not less than $190,000,000 shall be made available for the 
+     Human Rights and Democracy Fund of the Bureau of Democracy, 
+     Human Rights, and Labor, Department of State, and not less 
+     than $60,000,000 shall be made available for the United 
+     States Agency for International Development, for democracy, 
+     human rights and rule of law programs in Iraq: Provided 
+     further, That not later than 60 days after enactment of this 
+     Act, the Secretary of State shall submit a report to the 
+     Committees on Appropriations describing a comprehensive, 
+     long-term strategy, with goals and expected results, for 
+     strengthening and advancing democracy in Iraq.
+
+
+          International Narcotics Control and Law Enforcement
+
+       For an additional amount for ``International Narcotics 
+     Control and Law Enforcement'', $210,000,000, to remain 
+     available until September 30, 2008.
+
+
+                    Migration and Refugee Assistance
+
+       For an additional amount for ``Migration and Refugee 
+     Assistance'', $71,500,000, to remain available until 
+     September 30, 2008, of which not less than $5,000,000 shall 
+     be made available to rescue Iraqi scholars.
+
+
+     United States Emergency Refugee and Migration Assistance Fund
+
+       For an additional amount for ``United States Emergency 
+     Refugee and Migration Assistance Fund'', $30,000,000, to 
+     remain available until expended.
+
+
+    Nonproliferation, Anti-terrorism, Demining and Related Programs
+
+       For an additional amount for ``Nonproliferation, Anti-
+     Terrorism, Demining and Related Programs'', $27,500,000, to 
+     remain available until September 30, 2008.
+
+                       Department of the Treasury
+
+
+               International Affairs Technical Assistance
+
+       For an additional amount for ``International Affairs 
+     Technical Assistance'', $2,750,000, to remain available until 
+     September 30, 2008.
+
+                          MILITARY ASSISTANCE
+
+                  Funds Appropriated to the President
+
+
+                   Foreign Military Financing Program
+
+       For an additional amount for ``Foreign Military Financing 
+     Program'', $220,000,000, to remain available until September 
+     30, 2008.
+
+
+                        Peacekeeping Operations
+
+       For an additional amount for ``Peacekeeping Operations'', 
+     $190,000,000, to remain available until September 30, 2008: 
+     Provided, That not later than 30 days after enactment of this 
+     Act and every 30 days thereafter until September 30, 2008, 
+     the Secretary of State shall submit a report to the 
+     Committees on Appropriations detailing the obligation and 
+     expenditure of funds made available under this heading in 
+     this Act and in prior Acts making appropriations for foreign 
+     operations, export financing, and related programs.
+
+                    GENERAL PROVISION--THIS CHAPTER
+
+
+                         authorization of funds
+
+       Sec. 1601. Funds appropriated by this Act may be obligated 
+     and expended notwithstanding section 10 of Public Law 91-672 
+     (22 U.S.C. 2412), section 15 of the State Department Basic 
+     Authorities Act of 1956 (22 U.S.C. 2680), section 313 of the 
+     Foreign Relations Authorization Act, Fiscal Years 1994 and 
+     1995 (22 U.S.C. 6212), and section 504(a)(1) of the National 
+     Security Act of 1947 (50 U.S.C. 414(a)(1)).
+
+                  TITLE II--HURRICANE KATRINA RECOVERY
+
+                    DEPARTMENT OF HOMELAND SECURITY
+
+                  Federal Emergency Management Agency
+
+
+                            DISASTER RELIEF
+
+       For an additional amount for ``Disaster Relief'', 
+     $3,400,000,000, to remain available until expended.
+       If House amendment 1 has not been agreed to, insert after 
+     title II of the provisions inserted by this amendment the 
+     following:
+
+                     TITLE III--GENERAL PROVISIONS
+
+       Sec. 3001. No part of any appropriation contained in this 
+     Act shall remain available for obligation beyond the current 
+     fiscal year unless expressly so provided herein.
+       Sec. 3002. Amounts in this Act are designated as emergency 
+     requirements and necessary to meet emergency needs pursuant 
+     to subsections (a) and (b) of section 204 of S. Con. Res. 21 
+     (110th Congress), the concurrent resolution on the budget for 
+     fiscal year 2008.
+       If House amendment 1 has not been agreed to, insert before 
+     title I of the provisions inserted by this amendment the 
+     following:
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Supplemental Appropriations 
+     Act for Defense, International Affairs, Other Security-
+     Related Needs, and Hurricane Katrina Recovery, 2007''.
+
+     SEC. 2. TABLE OF CONTENTS.
+
+       The table of contents for this Act is as follows:
+
+TITLE I--SUPPLEMENTAL APPROPRIATIONS FOR DEFENSE, INTERNATIONAL 
+              AFFAIRS, AND OTHER SECURITY-RELATED NEEDS
+TITLE II--HURRICANE KATRINA RECOVERY
+TITLE III--GENERAL PROVISIONS
+
+     SEC. 3. STATEMENT OF APPROPRIATIONS.
+
+       The following sums in this Act are appropriated, out of any 
+     money in the Treasury not otherwise appropriated, for the 
+     fiscal year ending September 30, 2007.
+       If House amendment 1 has been agreed to, conform the table 
+     of contents in section 2 to
+
+[[Page 14224]]
+
+     reflect the titles inserted by the provisions of this 
+     amendment.
+
+  The SPEAKER pro tempore. Pursuant to House Resolution 438, the 
+gentleman from Wisconsin (Mr. Obey) and the gentleman from California 
+(Mr. Lewis) each will control 30 minutes.
+  The Chair recognizes the gentleman from Wisconsin.
+
+
+                             General Leave
+
+  Mr. OBEY. Mr. Speaker, I ask unanimous consent that all Members may 
+have 5 legislative days in which to revise and extend their remarks on 
+the pending legislation and that I be permitted to include tables, 
+charts and other extraneous material.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Wisconsin?
+  There was no objection.
+  Mr. OBEY. Mr. Speaker, I yield myself such time as I may consume.
+  Mr. Speaker, there are two sets of issues before us, the President's 
+request for almost $100 billion to finance the cost of the war in Iraq 
+for the remainder of this fiscal year, which ends October 1.
+  There is a second set of issues which relate to urgent needs for this 
+year, additional funding for State Children's Health Insurance Program 
+to prevent many thousands of poor children and some of their parents 
+from losing health coverage; gulf coast recovery after Katrina; drought 
+relief for farmers and the 70 percent of the U.S. counties that the 
+President named as disaster areas; and other areas where we believe we 
+must do more than the President wants to do; defense health, such as 
+efforts to provide more help to veterans with traumatic rain injury; 
+veterans' health, to help veterans overcome ridiculous backlogs; 
+homeland security, to strengthen our ports, our borders and our cargo 
+inspection systems; full funding for BRAC, the base realignment 
+requirements; additional funding for military housing needs; and 
+greater resources to wage the effort to root out al Qaeda in 
+Afghanistan.
+  Dealing with these issues is complicated by the fact that this 
+country and this Congress are deeply divided on our involvement in the 
+Iraqi civil war, which has dragged on now for more than 4 years.
+  Several weeks ago, House Democrats tried to use the President's 
+funding request to establish a process to responsibly end our 
+involvement in that Iraqi civil war. To that end, we passed and sent to 
+the President a plan that spent almost $4 billion more than the 
+President wanted on the health and safety of our troops. It established 
+limits on how much sacrifice could be asked of U.S. military units when 
+no one else, except for military families, are appreciably sacrificing 
+anything in this so-called war effort. It also sets standards for 
+judging the success or failure of the administration's policy.
+  Now, why did we do that? Because we agree with virtually every 
+general who has said that this civil war will not be resolved 
+militarily. It will be resolved only politically and diplomatically by 
+Iraqi factions making the compromises necessary to bring that civil war 
+to a conclusion.
+  The President vetoed that proposal. To override the veto, we needed 
+two-thirds of the House and the Senate to concur. We didn't get it for 
+a simple reason, that Democrats did not have two-thirds of the seats in 
+Congress.
+  Next we tried to send another proposition to the President and gave 
+the President a limited amount of money and tried to set another more 
+flexible set of standards for proceeding with this war. That failed in 
+the Senate.
+  At that point, like it or not, we ran out of options for using this 
+fiscal year 2007 supplemental to force a change in administration 
+policy.
+  On Friday we met with the administration and offered to drop all 
+domestic items if the administration would accept meaningful benchmarks 
+and timelines for ending our involvement in that civil war. They flatly 
+refused. That leaves us with the Senate-passed plan, which sets a much 
+weaker set of benchmarks than those passed by the House.
+  It is clear we do not have the 60 votes necessary to end debate in 
+the Senate and force a policy change on the administration by using the 
+fiscal year 2007 supplemental. Because there are only months left in 
+the fiscal year, no serious person can expect that it is possible to 
+redeploy our troops during that time.
+  So the question becomes, how do we continue to press for an end to 
+our involvement in that war on a reasonable time frame? The proposition 
+now before us shifts the debate to the President's budget request for 
+the next fiscal year, which begins on October 1.
+  Weak as it is, the Senate-adopted Warner amendment, with its 18 new 
+benchmarks, at least does end the totally blank check that previous 
+Congresses have provided. Weak as it is, it does at least give Members 
+of Congress whose feet are not firmly planted in the status quo another 
+opportunity to review the futile administration policy by establishing 
+a requirement for two reports to the Congress, one in July and one in 
+September.
+  The proposal before us will mean that, in September, using the 
+required reports, the Congress will have an opportunity to decide what 
+course of action to take on this war. That decision will be just 4 
+months away.
+  Meanwhile, we also insist that the President accept the fact that 
+there are other pressing needs, to which we have an obligation to 
+respond.
+  This proposal contains a long overdue increase in the minimum wage 
+for America's lowest-paid workers, a wage which may not bother many 
+people in this Chamber but a wage which unconscionably has been frozen 
+for a decade. It will contain $17 billion that the President did not 
+want for added defense and veterans' health care, for BRAC, for 
+military housing, for Homeland Security, for Katrina, drought relief 
+and State Children's Health Insurance Program. Some items it should 
+contain, it does not.
+  For example, low-income heating, home energy assistance and funding 
+for the pandemic flu.
+
+                              {time}  1715
+
+  This proposition falls far short of containing everything that it 
+should on both the Iraqi war and on our own domestic needs. But I take 
+some comfort in the knowledge that even Babe Ruth struck out more than 
+1,300 times. But weak as it is, this proposition does provide a 
+structure and a process to continue the fight, and it recognizes 
+reality.
+  I intend to vote against the first proposition that contains the 
+President's military request and the Warner benchmarks because I 
+believe they are far too weak, and I believe it is important to 
+maximize the pressure on Iraqi politicians to compromise by having as 
+many votes as possible for a stronger proposition. I expect to vote for 
+the second proposition, which contains the minimum wage increase, and 
+$17 billion of the $21 billion that we sought to respond to crucial 
+national needs.
+  This proposition will transfer the Iraqi fight to September on the 
+President's fiscal 2008 defense supplemental request, and it will 
+require a vote on a proposition that would require the funds 
+appropriated to be used to redeploy troops on a responsible time 
+schedule. I am sure we will also address the issue on Mr. Murtha's 
+defense appropriation bill, on the regular bill that will come at us as 
+we return from the Memorial Day recess.
+  This proposition is apparently the best that we can achieve given the 
+votes that we have. It is my hope that, when these votes occur in 
+September, a firm majority in both Houses will see through the 
+smokescreens being produced by the administration and send an 
+unequivocal message to both the administration and Iraqi political 
+leaders that our patience is over.
+  Now, some news stories have said that Democrats have ``given up on 
+the time line.'' That is patent nonsense. There has never been a chance 
+of a snowball in Hades that Congress would cut off funding for troops 
+in the field.
+  Now, some people say to us, why don't you do what you did in Vietnam 
+and simply cut off the funds even while the troops are in the field? 
+Well, I've got news for you, that is not what the Congress did in 
+Vietnam. I know; I was here. When Congress passed the Addabbo 
+amendment, there were less than 500
+
+[[Page 14225]]
+
+American troops left in Vietnam. What the Addabbo amendment did was to 
+cut off American aid to the South Vietnamese Government.
+  Even if the Congress were to cut off aid to troops in the field, the 
+President undoubtedly would not abide by that. He would simply assert 
+his Commander in Chief authority to manage the troops any way he 
+wanted, and we would be tied up challenging that in the court for 
+months, long past the time period covered by the fiscal year 2007 
+supplemental which this legislation addresses.
+  The last proposal we sent to the Senate attempted to limit the amount 
+of money available to the President to 2 months' operating expenses, 
+fencing the rest to try to force a policy change.
+  All we are doing by this arrangement is to slip the timetable an 
+additional 2 months from that proposal, shifting the debate from the 
+2007 supplemental to the 2008 supplemental. That means our Republican 
+friends who continue to support the President on this misbegotten war 
+will have to face votes in July and in September on the same issue.
+  We are not giving up. We are simply recognizing that no one believes 
+that it is possible, given the Senate's inability to produce 60 votes 
+to shut down debate, to change course during the remainder of this 
+fiscal year. That may not be a pleasant fact, but it is a reality. 
+Opponents of the war need to face this fact just as the President and 
+his allies need to face the fact that they are following a dead-end 
+policy which we will continue to make every possible effort to change.
+  Mr. OBEY. Following are additional explanatory materials regarding 
+the appropriations for the Department of Defense made by the House 
+amendments to the Senate amendment to H.R. 2206.
+
+                    Department of Defense--Military
+
+
+                           PROGRAM EXECUTION
+
+       The Department of Defense shall execute the appropriations 
+     provided in this Act consistent with the allocation of funds 
+     contained in the joint explanatory statement of the committee 
+     of conference accompanying H.R. 1591 when such appropriations 
+     (by account) are equal to those appropriations (by account) 
+     provided in this Act. The Department is further directed to 
+     adhere to the reporting requirements in Senate Report 110-37 
+     and House Report 110-60 except as otherwise contravened by 
+     the joint explanatory statement of the committee of 
+     conference accompanying H.R. 1591 or the following statement.
+
+                         reporting requirements
+
+       The Secretary of Defense shall provide a report to the 
+     congressional defense committees within 30 days after the 
+     date of enactment of this legislation on the allocation of 
+     the funds within the accounts listed in this Act. The 
+     Secretary shall submit updated reports 30 days after the end 
+     of each fiscal quarter until funds listed in this Act are no 
+     longer available for obligation. These reports shall include: 
+     a detailed accounting of obligations and expenditures of 
+     appropriations provided in this Act by program and 
+     subactivity group for the continuation of the war in Iraq and 
+     Afghanistan; and a listing of equipment procured using funds 
+     provided in this Act. In order to meet unanticipated 
+     requirements, the Department of Defense may need to transfer 
+     funds within these appropriations accounts for purposes other 
+     than those specified. The Department of Defense shall follow 
+     normal prior approval reprogramming procedures should it be 
+     necessary to transfer funding between different 
+     appropriations accounts in this Act.
+
+
+                          CLASSIFIED PROGRAMS
+
+       Recommended adjustments to classified programs are 
+     addressed in a classified annex.
+
+                       Operation and Maintenance
+
+
+                      SOAR VIRTUAL SCHOOL DISTRICT
+
+       The Deputy Undersecretary of Defense for Military Community 
+     and Family Policy is directed to comply with the guidance 
+     contained in the joint explanatory statement of the committee 
+     of conference accompanying H.R. 1591 regarding the Student 
+     Online Achievement Resources (SOAR Virtual School District) 
+     program.
+
+
+                       IRAQ SECURITY FORCES FUND
+
+       The Department is directed to report to the House and 
+     Senate Committees on Appropriations within 90 days of 
+     enactment of this Act the accountability requirements DoD has 
+     applied to the train-and-equip program for Iraq and the plans 
+     underway to formulate property accountability rules and 
+     regulations that distinguish between war and peace.
+
+
+             JOINT IMPROVISED EXPLOSIVE DEVICE DEFEAT FUND
+
+       The Joint Improvised Explosive Device Defeat Organization 
+     (JIEDDO) shall report on JIEDDO staffing levels no later than 
+     June 29, 2007.
+
+                              Procurement
+
+
+   SINGLE CHANNEL GROUND AND AIRBORNE RADIO SYSTEM (SINCGARS) FAMILY
+
+       The Department of the Army is directed to comply with the 
+     guidance contained in the joint explanatory statement of the 
+     committee of conference accompanying H.R. 1591 regarding 
+     funding limitations and reporting requirements for the Single 
+     Channel Ground and Airborne Radio Systems.
+
+                         Defense Health Program
+
+
+TRAUMATIC BRAIN INJURY (TBI) AND POST-TRAUMATIC STRESS DISORDER (PTSD) 
+                         TREATMENT AND RESEARCH
+
+       If a service member is correctly diagnosed with TBI or 
+     PTSD, the better chance he or she has of a full recovery. It 
+     is critical that health care providers are given the 
+     resources necessary to make accurate, timely referrals for 
+     appropriate treatment and that service members have high 
+     priority access to such services. Therefore, $900,000,000 is 
+     provided for access, treatment and research for Traumatic 
+     Brain Injury (TBI) and Post-Traumatic Stress Disorder (PTSD). 
+     Of the amount provided, $600,000,000 is for operation and 
+     maintenance and $300,000,000 is for research, development, 
+     test and evaluation to conduct peer reviewed research.
+       By increasing funding for TBI and PTSD, the Defense 
+     Department will now have significant resources to 
+     dramatically improve screening for risk factors, diagnosis, 
+     treatment, counseling, research, facilities and equipment to 
+     prevent or treat these illnesses.
+       To ensure that patients receive the best care available, 
+     the Department shall develop plans for the allocation of 
+     funds for TBI and PTSD by reviewing the possibility of 
+     conducting research on: therapeutic drugs and medications 
+     that ``harden'' the brain; and, testing and treatment for 
+     tinnitus which impacts 49 percent of blast victims. The 
+     Department also should consider in its planning the 
+     establishment of brain functioning base lines prior to 
+     deployment and the continued measurement of concussive 
+     injuries in theater.
+       If the Secretary of Defense determines that funds made 
+     available within the operation and maintenance account for 
+     the treatment of Traumatic Brain Injury and Post-Traumatic 
+     Stress Disorder are excess to the requirements of the 
+     Department of Defense, the Secretary may transfer excess 
+     amounts to the Department of Veterans Affairs to be available 
+     for the same purpose.
+       The Secretary of Defense shall notify the congressional 
+     defense committees no later than 15 days following any 
+     transfer of funds to the VA for PTSD/TBI treatment.
+
+
+              SUSTAINING THE MILITARY HEALTH CARE BENEFIT
+
+       Provided herein is $410,750,000 to fully fund the Defense 
+     Health Program for fiscal year 2007. The Department is 
+     expected to examine other ways to sustain the benefit without 
+     relying on Congress to enact legislation that would increase 
+     the out-of-pocket costs to the beneficiaries.
+
+
+  HEALTH CARE IN SUPPORT OF ARMY MODULAR FORCE CONVERSION AND GLOBAL 
+                              POSITIONING
+
+       The Assistant Secretary of Defense for Health Affairs and 
+     the Surgeon General of the Army shall coordinate an effort 
+     and report back to the congressional defense committees 
+     within 120 days after enactment of this Act on how these 
+     anticipated costs will be funded to ensure soldiers and their 
+     families affected by AMF and global positioning will have 
+     access to the health care they deserve.
+
+
+                   MEDICAL SUPPORT FOR TACTICAL UNITS
+
+       The Department of the Army is directed to address medical 
+     requirements for those tactical units currently deployed to 
+     or returning from the Iraq or Afghanistan theaters. The 
+     Department of the Army shall focus funding on the 
+     replenishment of medical supply and equipment needs within 
+     the combat theaters, to include bandages and the provision of 
+     medical care for soldiers who have returned home in a medical 
+     holdover status.
+
+
+                          MEB/PEB IMPROVEMENTS
+
+       The system for evaluating soldiers' eligibility for 
+     disability benefits has diminished, causing the soldiers' 
+     needs to go unmet. In particular, the thousands of soldiers 
+     wounded in the wars in Iraq and Afghanistan have overwhelmed 
+     the system leading to failure to complete reviews in a timely 
+     manner. In some cases, lack of management, caseworkers, 
+     specialists to help identify depression and post-traumatic 
+     stress disorder, medical hold facilities and even wheelchair 
+     access has meant that wounded soldiers have had to overcome 
+     many obstacles during their medical care.
+       Therefore, within the funds provided, $30,000,000 is to be 
+     used for strengthening the process, programs, formalized 
+     training for personnel, and for the hiring of administrators 
+     and caseworkers. The resources provided are to be used at 
+     Walter Reed, Brooke, Madigan, and Womack Army Medical Centers 
+     and National Naval Medical Center, San Diego.
+
+                     Summary and Tabular Materials
+
+       The following tables provide details of the supplemental 
+     appropriations for the Department of Defense-Military.
+
+[[Page 14226]]
+
+     <GRAPHIC><TIFF>TH24MY07.001
+     
+
+
+[[Page 14227]]
+
+     <GRAPHIC><TIF1>TH24MY07.002
+     
+
+
+[[Page 14228]]
+
+     <GRAPHIC><TIF2>TH24MY07.003
+     
+
+
+[[Page 14229]]
+
+     <GRAPHIC><TIF3>TH24MY07.004
+     
+
+
+[[Page 14230]]
+
+     <GRAPHIC><TIF4>TH24MY07.005
+     
+
+
+[[Page 14231]]
+
+     <GRAPHIC><TIF5>TH24MY07.006
+     
+
+
+[[Page 14232]]
+
+     <GRAPHIC><TIF6>TH24MY07.007
+     
+
+
+[[Page 14233]]
+
+     <GRAPHIC><TIF7>TH24MY07.008
+     
+
+
+[[Page 14234]]
+
+     <GRAPHIC><TIF8>TH24MY07.009
+     
+
+
+[[Page 14235]]
+
+     <GRAPHIC><TIF9>TH24MY07.010
+     
+
+
+[[Page 14236]]
+
+     <GRAPHIC><TIF10>TH24MY07.011
+     
+
+
+[[Page 14237]]
+
+     <GRAPHIC><TIF11>TH24MY07.012
+     
+
+
+[[Page 14238]]
+
+     <GRAPHIC><TIF12>TH24MY07.013
+     
+
+
+[[Page 14239]]
+
+     <GRAPHIC><TIF13>TH24MY07.014
+     
+
+
+[[Page 14240]]
+
+     <GRAPHIC><TIF14>TH24MY07.015
+     
+
+
+[[Page 14241]]
+
+     <GRAPHIC><TIF15>TH24MY07.016
+     
+
+
+[[Page 14242]]
+
+     <GRAPHIC><TIF16>TH24MY07.017
+     
+
+
+[[Page 14243]]
+
+     <GRAPHIC><TIF17>TH24MY07.018
+     
+
+
+[[Page 14244]]
+
+     <GRAPHIC><TIF18>TH24MY07.019
+     
+
+
+[[Page 14245]]
+
+     <GRAPHIC><TIF19>TH24MY07.020
+     
+
+
+[[Page 14246]]
+
+     <GRAPHIC><TIF20>TH24MY07.021
+     
+
+
+[[Page 14247]]
+
+     <GRAPHIC><TIF21>TH24MY07.022
+     
+
+
+[[Page 14248]]
+
+     <GRAPHIC><TIF22>TH24MY07.023
+     
+
+
+[[Page 14249]]
+
+     <GRAPHIC><TIF23>TH24MY07.024
+     
+
+
+[[Page 14250]]
+
+     <GRAPHIC><TIF24>TH24MY07.025
+     
+
+
+[[Page 14251]]
+
+     <GRAPHIC><TIF25>TH24MY07.026
+     
+
+
+[[Page 14252]]
+
+     <GRAPHIC><TIF26>TH24MY07.027
+     
+
+
+[[Page 14253]]
+
+     <GRAPHIC><TIF27>TH24MY07.028
+     
+
+
+[[Page 14254]]
+
+     <GRAPHIC><TIF28>TH24MY07.029
+     
+
+
+[[Page 14255]]
+
+     <GRAPHIC><TIF29>TH24MY07.030
+     
+
+
+[[Page 14256]]
+
+     <GRAPHIC><TIF30>TH24MY07.031
+     
+
+
+[[Page 14257]]
+
+     <GRAPHIC><TIF31>TH24MY07.032
+     
+
+
+[[Page 14258]]
+
+     <GRAPHIC><TIF32>TH24MY07.033
+     
+
+
+[[Page 14259]]
+
+     <GRAPHIC><TIF33>TH24MY07.034
+     
+
+
+[[Page 14260]]
+
+     <GRAPHIC><TIF34>TH24MY07.035
+     
+
+
+[[Page 14261]]
+
+     <GRAPHIC><TIF35>TH24MY07.036
+     
+
+
+[[Page 14262]]
+
+     <GRAPHIC><TIF36>TH24MY07.037
+     
+
+
+[[Page 14263]]
+
+     <GRAPHIC><TIF37>TH24MY07.038
+     
+
+
+[[Page 14264]]
+
+     <GRAPHIC><TIF38>TH24MY07.039
+     
+
+
+[[Page 14265]]
+
+     <GRAPHIC><TIF39>TH24MY07.040
+     
+
+
+[[Page 14266]]
+
+     <GRAPHIC><TIF40>TH24MY07.041
+     
+
+
+[[Page 14267]]
+
+     <GRAPHIC><TIF41>TH24MY07.042
+     
+
+
+[[Page 14268]]
+
+     <GRAPHIC><TIF42>TH24MY07.043
+     
+
+
+[[Page 14269]]
+
+     <GRAPHIC><TIF43>TH24MY07.044
+     
+
+
+[[Page 14270]]
+
+     <GRAPHIC><TIF44>TH24MY07.045
+     
+
+
+[[Page 14271]]
+
+     <GRAPHIC><TIF45>TH24MY07.046
+     
+
+
+[[Page 14272]]
+
+     <GRAPHIC><TIF46>TH24MY07.047
+     
+
+
+[[Page 14273]]
+
+     <GRAPHIC><TIF47>TH24MY07.048
+     
+
+
+[[Page 14274]]
+
+     <GRAPHIC><TIF48>TH24MY07.049
+     
+
+
+[[Page 14275]]
+
+     <GRAPHIC><TIF49>TH24MY07.050
+     
+
+
+[[Page 14276]]
+
+     <GRAPHIC><TIF50>TH24MY07.051
+     
+
+
+[[Page 14277]]
+
+     <GRAPHIC><TIF51>TH24MY07.052
+     
+
+
+[[Page 14278]]
+
+     <GRAPHIC><TIF52>TH24MY07.053
+     
+
+
+[[Page 14279]]
+
+     <GRAPHIC><TIF53>TH24MY07.054
+     
+
+
+[[Page 14280]]
+
+     <GRAPHIC><TIF54>TH24MY07.055
+     
+
+
+[[Page 14281]]
+
+     <GRAPHIC><TIF55>TH24MY07.056
+     
+
+
+[[Page 14282]]
+
+     <GRAPHIC><TIF56>TH24MY07.057
+     
+
+
+[[Page 14283]]
+
+     <GRAPHIC><TIF57>TH24MY07.058
+     
+
+
+[[Page 14284]]
+
+     <GRAPHIC><TIF58>TH24MY07.059
+     
+
+
+[[Page 14285]]
+
+     <GRAPHIC><TIF59>TH24MY07.060
+     
+
+
+[[Page 14286]]
+
+     <GRAPHIC><TIF60>TH24MY07.061
+     
+
+
+[[Page 14287]]
+
+     <GRAPHIC><TIF61>TH24MY07.062
+     
+
+
+[[Page 14288]]
+
+     <GRAPHIC><TIF62>TH24MY07.063
+     
+
+
+[[Page 14289]]
+
+     <GRAPHIC><TIF63>TH24MY07.064
+     
+
+
+[[Page 14290]]
+
+     <GRAPHIC><TIF64>TH24MY07.065
+     
+
+
+[[Page 14291]]
+
+     <GRAPHIC><TIF65>TH24MY07.066
+     
+
+
+[[Page 14292]]
+
+     <GRAPHIC><TIF66>TH24MY07.067
+     
+
+
+[[Page 14293]]
+
+     <GRAPHIC><TIF67>TH24MY07.068
+     
+
+
+[[Page 14294]]
+
+     <GRAPHIC><TIF68>TH24MY07.069
+     
+
+
+[[Page 14295]]
+
+     <GRAPHIC><TIF69>TH24MY07.070
+     
+
+
+[[Page 14296]]
+
+     <GRAPHIC><TIF70>TH24MY07.071
+     
+
+
+[[Page 14297]]
+
+     <GRAPHIC><TIF71>TH24MY07.072
+     
+
+
+[[Page 14298]]
+
+     <GRAPHIC><TIF72>TH24MY07.073
+     
+
+
+[[Page 14299]]
+
+     <GRAPHIC><TIF73>TH24MY07.074
+     
+
+
+[[Page 14300]]
+
+     <GRAPHIC><TIF74>TH24MY07.075
+     
+
+
+[[Page 14301]]
+
+     <GRAPHIC><TIF75>TH24MY07.076
+     
+
+
+[[Page 14302]]
+
+     <GRAPHIC><TIF76>TH24MY07.077
+     
+
+
+[[Page 14303]]
+
+     <GRAPHIC><TIF77>TH24MY07.078
+     
+
+
+[[Page 14304]]
+
+     <GRAPHIC><TIF78>TH24MY07.079
+     
+
+
+[[Page 14305]]
+
+     <GRAPHIC><TIF79>TH24MY07.080
+     
+
+
+[[Page 14306]]
+
+     <GRAPHIC><TIF80>TH24MY07.081
+     
+
+
+[[Page 14307]]
+
+     <GRAPHIC><TIF81>TH24MY07.082
+     
+
+
+[[Page 14308]]
+
+     <GRAPHIC><TIF82>TH24MY07.083
+     
+
+
+[[Page 14309]]
+
+     <GRAPHIC><TIF83>TH24MY07.084
+     
+
+
+[[Page 14310]]
+
+     <GRAPHIC><TIF84>TH24MY07.085
+     
+
+
+[[Page 14311]]
+
+     <GRAPHIC><TIF85>TH24MY07.086
+     
+
+
+[[Page 14312]]
+
+     <GRAPHIC><TIF86>TH24MY07.087
+     
+
+
+[[Page 14313]]
+
+     <GRAPHIC><TIF87>TH24MY07.088
+     
+
+
+[[Page 14314]]
+
+     <GRAPHIC><TIF88>TH24MY07.089
+     
+
+
+[[Page 14315]]
+
+     <GRAPHIC><TIF89>TH24MY07.090
+     
+
+
+[[Page 14316]]
+
+     <GRAPHIC><TIF90>TH24MY07.091
+     
+
+
+[[Page 14317]]
+
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. LEWIS of California. Mr. Speaker, I yield myself such time as I 
+may consume.
+  It was on February 5 that the President sent his emergency 
+supplemental request to the Hill for our consideration. Today, Congress 
+is poised to finally send the President a package that he can sign.
+  The days, weeks, and months that have passed since the supplemental 
+request first arrived on the Hill have been long on politics and short 
+on substance. The Speaker and the majority leadership have spent 
+valuable time at our troops' expense taking symbolic votes for the 
+purpose of placating the Out of Iraq Caucus.
+  No political party has a corner on virtue, but the Democrat 
+majority's reluctance to act swiftly on funding our troops clearly 
+calls into question its commitment to our men and women in uniform.
+  As a longtime Member of the Appropriations Committee, I cannot recall 
+a time that legislation has come to the floor under the committee 
+chairman's name that the committee chairman apparently plans to oppose, 
+and yet that is exactly what is occurring today.
+  My colleague, Chairman Obey, has indicated that he, like most of his 
+caucus, is going to oppose the piece of this emergency supplemental 
+that supports our troops, and he is going to support the piece of this 
+emergency supplemental that funds political pork. Perhaps my friend 
+from Wisconsin would be more comfortable in replacing his name with 
+mine as the chief sponsor of the troop-funding bill.
+  The funding package before us today contains $17 billion in 
+unrequested Federal spending. While a small piece of this funding 
+addresses legitimate needs, its designation as emergency spending 
+serves only one purpose: to make headroom for even more Federal 
+spending in the fiscal year 2008 appropriations process.
+  I urge my colleagues to consider this: In the last week, four 
+appropriations subcommittees have marked up bills for the coming fiscal 
+year. Already, these four bills are $9.1 billion above the President's 
+budget request and provide $21.8 billion above the 2007 enacted level. 
+The committee has yet to mark up another eight bills. By the time the 
+committee completes its work, it will propose over $20 billion in new 
+spending beyond the President's request for next year. Between the 
+emergency supplemental and the fiscal year 2008 bills, the Democrat 
+majority has proposed spending an additional $37 billion.
+  I am deeply dismayed that this legislation was written without any 
+consultation whatsoever with the minority. The Speaker's public 
+pronouncement of a desire to work across the party lines, to say the 
+least, runs hollow once again. What makes this more astounding is that 
+Speaker Pelosi, Majority Hoyer and Mr. Clyburn, the distinguished 
+majority whip, have been longtime members of the Appropriations 
+Committee. They know that our committee process has historically been a 
+bipartisan, or even, in its ideal form, a nonpartisan process. The 
+majority party clearly made a decision early on not only to abandon our 
+troops, but to abandon any semblance of bipartisanship in this process. 
+That does not bode well for our remaining work this year.
+  Mr. Speaker, I strongly urge a ``yes'' vote on the Obey amendment, 
+providing critical funding to our troops, which I gather Mr. Obey is 
+going to vote against, and strongly urge a ``no'' vote on the Obey 
+amendment providing $17 billion in spending unrequested and unrelated, 
+I would describe as pork, to hurricane relief or the global war on 
+terror. I gather Mr. Obey is going to vote against supporting our 
+troops in the first instance and for pork in the second.
+  Mr. Speaker, I reserve the balance of the time.
+  Mr. OBEY. Mr. Speaker, I yield 1 minute to the gentleman from Georgia 
+(Mr. Scott).
+  Mr. SCOTT of Georgia. Mr. Speaker, I rise to speak and to urge our 
+colleagues to please vote and pass this passage.
+  Now, the most important part, and, of course, all of it is very 
+important, but there is one part that I want to emphasize that is so 
+important on the second part; and I take quite a distaste at how the 
+gentleman referred to that as pork, because the children's health 
+program is not pork.
+  In my State of Georgia, there are 273,000 children who will go 
+without their insurance or health care if we do not pass this measure.
+  Now, yes, we must get the funding to the troops; they are in need, 
+and we certainly want to get the funding there. But let me just urge 
+those in the minority on the other side of the aisle that many of these 
+273,000 children who are in Georgia without health insurance belong to 
+the soldiers who are serving in Iraq, and we have been working 
+feverishly in each step of the way to make sure we had the SCHIP 
+program included. And I want to make sure we include this all the way, 
+and urge the President to sign it when we get there.
+  Mr. LEWIS of California. Mr. Speaker, I reserve the balance of my 
+time.
+  Mr. OBEY. Mr. Speaker, I yield 1 minute to the distinguished majority 
+leader, Mr. Hoyer.
+  Mr. HOYER. Mr. Speaker, I thank the chairman of the committee for 
+yielding.
+  No matter how the Members vote on the two amendments before the House 
+on this measure, I know that every one of us is absolutely committed to 
+our men and women in harm's way and prays for their safe return home.
+  I also know that the Members on our side of the aisle, regardless of 
+how we vote on these amendments, are united in our collective judgment 
+that the President's policy is failing; and that after 4 years of 
+repeated misjudgments in Iraq by this administration, it is long past 
+time to insist that the administration and the Iraqi Government be held 
+accountable for making progress; and, that we must change direction in 
+Iraq.
+  In fact, the American public strongly support the Democratic position 
+on the war. Just today, the latest New York Times/CBS poll found that 
+76 percent of Americans, including a majority of Republicans, say that 
+the troop surge has either had no impact or made the situation worse. 
+Meanwhile, 63 percent said the United States should set a date for 
+withdrawing troops sometime in 2008. That, of course, is what the bill 
+that we passed and sent to the President did. He vetoed it. That 
+position was adopted by the majority of this House and the majority of 
+the Senate in the last supplemental bill.
+  And 69 percent say Congress should appropriate money for the war on 
+the condition that we set benchmarks for progress. I am pleased, of 
+course, that the Warner language is in there, but it is not enough.
+  Mr. Speaker, it is deeply disappointing that the President continues 
+to defy the will of the American people. But today, with this amendment 
+which includes 18 strong new benchmarks on political, security, and 
+economic progress, and other reporting requirements, I believe this 
+Congress has moved the ball forward and begun to hold the 
+administration accountable.
+  Is it as far as we are going to go? It is not. Should we go further? 
+We must. Make no mistake, this amendment does not provide everything 
+that we had hoped for, but I do not believe that it provides a blank 
+check or that this Congress is rubber-stamping the President's request. 
+The President did not want the Warner amendment attached. He doesn't 
+want any constraints.
+  In addition to benchmarks, this requires the President to report on 
+progress in July and September, and ties all economic support for Iraq 
+to progress on the benchmarks, although a waiver is required. Why? 
+Because the President said he would veto the bill if it was not.
+  The fact is, this is simply the best bill we could put together and 
+that would be signed. It is a political reality. It is not what we want 
+to pass.
+  It imposes truly for the first time ever a level of accountability 
+that did not exist, however, previously. For the first time ever, we 
+are also calling for the Iraqi Security Forces to step up
+
+[[Page 14318]]
+
+and do the job assigned to them so our soldiers can step down by 
+providing funding for an outside review of the Iraq Security Forces' 
+current capacity and their reliance on our Armed Forces.
+  We have moved the ball forward. Far enough? No. Do we need to move 
+further? Yes. But we have advanced toward a new direction and a new 
+policy in Iraq. And in the months ahead, we will continue to fight for 
+a new direction in Iraq in the fiscal year 2008 defense appropriations 
+bill and other measures to be considered.
+  Finally, Mr. Speaker, let me say that I am very pleased that the 
+second amendment being considered will provide for the first time in a 
+decade a long overdue increase in the Federal minimum wage, as well as 
+additional funding for defense and veterans health care, and homeland 
+security, drought relief, the State Children's Health Insurance 
+Program, and gulf coast recovery. The Katrina provision is a critical 
+one.
+  Mr. Speaker, I will vote for both of these amendments, and I urge my 
+colleagues to do so as well.
+
+                              {time}  1730
+
+  Mr. LEWIS of California. Mr. Speaker, I yield 2 minutes to my 
+colleague from Florida, the ranking member of the Defense Subcommittee, 
+Bill Young.
+  Mr. YOUNG of Florida. Mr. Speaker, I thank Mr. Lewis for yielding the 
+time. And I rise in very strong support of the warfighting 
+supplemental. Mr. Murtha and I have worked together very closely to 
+make sure that the numbers were what our soldiers and sailors and 
+airmen and Marines and Coast Guardsmen were what they needed as they 
+continue this battle in Iraq and Afghanistan.
+  The suggestions that I have seen today in the media that this 
+political group lost or this political group won, I don't believe 
+either one, any of those. The victory goes to the members of our 
+military who are going to have the funding that they need to make sure 
+that they have the equipment that they need and whatever else that they 
+need.
+  Something else that it does, it proves that the Constitution is good. 
+It proves that, by legislators working together along with the 
+executive branch of government, that we can come to a solution.
+  Mr. Murtha and I strongly support the dollars. We did disagree, and 
+there was no secret about that, on the language that he had originally 
+inserted. But we all worked that out. And during our many 
+conversations, we both agreed, and we both knew that we had to come to 
+an agreement, not only here in the House and in the Senate, but with 
+the White House. And that's what we've done.
+  And I think this is a good package, and I hope that for those who 
+might be wavering and thinking that they're not going to vote for this 
+warfighting supplemental, think about that, because it is a good 
+package, and it's one that I strongly support.
+  And I commend leadership on both sides for having been able to come 
+to this agreement and this compromise on a very good piece of 
+legislation.
+  I'm not sure if that's going to be amendment No. 1 or amendment No. 
+2, but whichever amendment it is, I hope that all of us will vote for 
+it and support it sincerely and aggressively.
+  Mr. OBEY. Mr. Speaker, I yield 1 minute to the gentlewoman from 
+California (Ms. Lee).
+  Ms. LEE. Mr. Speaker, I want to thank the gentleman for yielding, and 
+for your leadership.
+  In 2003, Congress approved a $78 billion supplemental. In 2004, it 
+was $87 billion. In 2005, it was $82 billion. In 2006, it was $72 
+billion, and now the administration wants almost $100 billion more.
+  Over 3,400 of our brave troops and countless Iraqis have died in this 
+occupation. The President has dug us deep in a hole in Iraq, and it 
+boggles my mind, boggles my mind that Congress wants to give him 
+another blank check to buy more shovels.
+  This occupation and civil war cannot be won militarily. Mr. Speaker, 
+how many will have to die before this House stops writing blank checks?
+  The American people are looking to Congress to end this failed policy 
+and to bring our troops home.
+  Two months ago, we went to the Rules Committee to try to get an 
+amendment to fully fund the safe and timely withdrawal of the United 
+States forces from Iraq. That is what we should be voting on today, not 
+to give the President another blank check. So I urge my colleagues to 
+vote against this bill.
+  Mr. LEWIS of California. Mr. Speaker, I yield 2 minutes to the 
+gentleman from Texas (Mr. McCaul).
+  Mr. McCAUL of Texas. Mr. Speaker, first I rise in support of this 
+bill, and I am pleased that our troops are being supported with the 
+funding necessary.
+  But I also rise in my capacity as ranking member of the Emerging 
+Threats Subcommittee of the Homeland Security Committee to make an 
+important observation about this supplemental appropriations bill.
+  The funding included in the prior supplemental that would have 
+provided $800 million for advancing the national strategy for pandemic 
+influenza are not in this supplemental. I'm perplexed as to how the 
+strategic threat to this Nation of a pandemic influenza outbreak 
+declined in the past 2 weeks. We all voted to include it then, and now 
+it is gone.
+  I bring this up to remind all of us that emerging threats are best 
+addressed with preparation before the outbreak. Once an outbreak 
+occurs, it is too late. I cannot tell you the day or week when the 
+pandemic influenza will occur, but all the experts agree that it will. 
+Our only strategy, therefore, is to prepare now so we will be ready 
+when it does happen.
+  We run catastrophic risks in delaying this pandemic influenza 
+preparation, and I strongly encourage the House to include this funding 
+in the next appropriations vehicle. The risks here are simply too great 
+to postpone our preparations.
+  Mr. OBEY. Mr. Speaker, I yield myself 1 minute.
+  Let me simply note that it was the administration that refused to 
+provide support for including funds for the pandemic flu challenge 
+facing the country. We have tried on this side of the aisle for more 
+than a month to include that funding.
+  I've even noted that it was the administration itself who originally 
+asked for that money, as an emergency, 2 years ago. And yet they 
+declined to support it and, in fact, insisted that it come out in this 
+negotiation, just as they insisted that funding for low-income heating 
+assistance come out.
+  So I certainly agree with the gentleman's suggestion that that money 
+ought to be in here. I said that in my own remarks. I also want it very 
+clear why it isn't.
+  Mr. LEWIS of California. Mr. Speaker, I reserve the balance of my 
+time.
+  Mr. OBEY. Mr. Speaker, I yield 1 minute to the gentlewoman from 
+California (Ms. Woolsey).
+  Ms. WOOLSEY. Mr. Speaker, the Democrats owe our majority to the 
+American public who voted us into power for one simple reason; they 
+trusted us. They trusted us to act boldly to hold this administration 
+accountable and to bring our troops home. So far, we're failing the 
+very trust that they've placed in us.
+  But, more importantly, every day that we allow this occupation to 
+continue, we are failing our brave young men and women, those who are 
+serving honorably and professionally in Iraq, and we are failing their 
+families here at home who are struggling to keep their lives and 
+families together, who are forced to worry whether their loved ones 
+will come home alive or actually in one piece.
+  Today is not an opportunity to claim victory or to give bellicose 
+speeches for partisan debate. Today is an opportunity to grieve for the 
+soldiers who have sacrificed their lives for this President who has 
+failed Iraq in his policies.
+  Today is a day to stand by our Nation's sons and daughters who suffer 
+through irreparable physical and mental wounds.
+  Vote ``no.''
+
+[[Page 14319]]
+
+
+  Mr. LEWIS of California. Mr. Speaker, if I can get Mr. Obey's 
+attention, it is my understanding that, by considering the supplemental 
+in this highly unorthodox way, that the majority's new rule related to 
+earmarks does not apply to the two amendments that are under 
+consideration today.
+  I'm happy to yield to my friend, Chairman Obey, if he'd like to 
+respond.
+  Mr. OBEY. What's the gentleman's question?
+  Mr. LEWIS of California. It's my understanding that by considering 
+the supplemental in this way, under this rather unorthodox way, the 
+majority's new rule that's related to earmarks does not apply to the 
+two amendments we're considering today.
+  Mr. OBEY. Well, let me make two points. First of all, this is not all 
+that unusual. It was not done during the time that the Republicans ran 
+the House, but it was done often prior to that. All we have to do is to 
+take a look at the history of the Hyde amendment and take a look at 
+several other conference reports that were adopted, one in 1996, for 
+instance.
+  With respect to the two questions, or the question about the two 
+amendments, technically, it's my understanding that they do not apply 
+to amendments, or that the rules do not apply to amendments.
+  Mr. LEWIS of California. Well, just out of curiosity, Mr. Speaker, or 
+Mr. Obey, I wonder if there are any earmarks in this massive package 
+that went unidentified in the true spirit of that earmark disclosure 
+rule.
+  Mr. OBEY. To my knowledge, there are none.
+  Mr. LEWIS of California. Mr. Speaker, I reserve the balance of my 
+time.
+  Mr. OBEY. Mr. Speaker, I yield 5 minutes to the distinguished 
+gentleman from Pennsylvania (Mr. Murtha), the chairman of the Defense 
+Appropriations Subcommittee.
+  Mr. MURTHA. Mr. Speaker, I rise in support of this bill that Bill 
+Young and I worked out.
+  Let me say this to the Members: We did everything we could to work 
+this out. We worked diligently. We sent a bill to the White House. They 
+vetoed it. We've done everything we could do to change it.
+  I feel a direction change in the air. I see the Iraqis are starting 
+to talk about redeployment. I see the administration starting to talk 
+about other countries being involved. I see them asking the U.N. to get 
+involved, something that should have happened a long time ago. But the 
+point is, I see a new political diplomatic effort which is beginning to 
+take effect here that's going to make a big difference.
+  But, in the meantime, we have to fund the troops. They'll run out in 
+the next few weeks. They'll run out of money. There's no question about 
+that. We send our staff continually to find out exactly how long it'll 
+go. There'll be tremendous problems if we weren't to fund the troops.
+  And let me say what's in this bill. There's $94 billion for the 
+Department of Defense military, and $24 billion of that is for reset 
+and re-equipment; $7.7 billion for four critical initiatives; $1.1 
+billion for family housing allowances; $1.6 billion for strategic 
+reserve readiness. We're trying to change. We're trying to stabilize 
+the military.
+  We've already found with some of the work that we've done a couple of 
+billion dollars in contracting that we can use and divert, and Bill 
+Young and I were talking about this earlier today; $1.6 billion for 
+strategic reserve; $34 billion for MRAP. That's the new vehicle that 
+resists the IED attacks. Almost $2 billion in additional funding for 
+health care; we have funded the health care that was not funded last 
+year. We put extra money in for Walter Reed. We put extra money in for 
+care giving. We put extra money in for all kind of things.
+  But let me just say this: I saw the other day, to show you the kind 
+of problem we have, I saw the other day a young fellow who got 20 
+percent disability when he got out of the military. And then he went to 
+the VA, and he got 100 percent disability. But the point is, he gets no 
+health care for his family, and he has four children. So even though he 
+gets 100 percent disability and he's taking care of himself, and he'll 
+probably be paralyzed at some point because he's getting worse instead 
+of better, and these are the kinds of things we're trying to fix.
+  So we have several problems. First of all, we have the short-term 
+problem; we have to take care of the funding for the military for the 
+next 4 months. As Chairman Obey says, we need to take care for an extra 
+2 months from the original bill we passed.
+  Then we need to start to work on a nurse shortage. We're looking at 
+paying the nurses $25,000 more. We're looking at doctor shortages. We 
+are looking at an administrative shortage in the hospital. We, finally, 
+Bill Young and I worked, and we got General Casey going to all the 
+hospitals finding out what the shortages are. We've got a lot of work 
+to do here, and this bill starts us in that direction.
+  But let me just end this by saying, we're now in a position where I 
+see that, by September, we'll be able to judge. When we pass our bill, 
+and the 2008 bill will come up as a basic defense bill, then we're 
+going to hold the supplemental until September. By that time, we will 
+know that the surge is working or not working. And I predict, and I've 
+been right in every one of my predictions, that incidents are going to 
+continue to increase; oil production will not be above pre-war level; 
+and that electricity will not be above pre-war level. And incidents 
+will continue to increase, and more and more people will be killed by 
+IEDs.
+  So I do not wish for a bad result, but I see the administration 
+finally changing and finally recognizing this can't be won militarily. 
+I think we're moving in the right direction.
+  It's very painful because people are frustrated. They'd like to see 
+this thing over overnight. All of us are frustrated. But we have to 
+take what we can get, and I think here we have a good bill, as good a 
+bill as we could put together.
+  The two bills put together are good bills. I hope that everybody will 
+vote for both bills because one takes care of the troops and the 
+funding that's necessary, and the other takes care of all the other, 
+the change in direction that we're trying to get in the military.
+
+                              {time}  1745
+
+  I would request that all the Members vote for both amendments to the 
+bill.
+  Mr. LEWIS of California. Mr. Speaker, I yield 2 minutes to the 
+gentleman from Louisiana (Mr. Boustany).
+  Mr. BOUSTANY. Mr. Speaker, I thank the gentleman for yielding.
+  I rise in support of this supplemental package. Obviously, we need to 
+get the money to the troops in the field, and, also, my State of 
+Louisiana needs these additional funds as well.
+  But I want to point something out that has not been discussed in the 
+debate. The President called for 10 new provincial reconstruction teams 
+for Baghdad. Upon arrival in Baghdad, General Petraeus has asked for 
+14, four additional PRTs. State and USAID cannot really adequately plan 
+to put this into effect. Particularly, they are phase 3, where they get 
+the personnel in position. So the much-needed money for the State 
+Department is in this supplemental. And for those of us who are 
+interested in seeing the political and economic side of our plan 
+enacted and successful in Iraq, it greatly depends on getting this 
+funding to the State Department.
+  So I urge our colleagues to support this supplemental package, 
+particularly those of you who are interested in the economic and 
+political side of this, because if we are going to push for 
+reconciliation, it is clearly critical to have these State Department 
+personnel on the ground providing that on-the-ground pressure to move 
+toward reconciliation in Iraq.
+  Mr. LEWIS of California. Mr. Speaker, I think now I can probably be 
+much more generous than I ever would have been and am happy to yield 3 
+minutes to the gentleman from Connecticut (Mr. Shays).
+  Mr. SHAYS. Mr. Speaker, I thank the gentleman for yielding.
+  We went into Iraq on a bipartisan basis, two-thirds of the House and 
+three-quarters of the Senate, and we need to leave on a bipartisan 
+basis enabling the Iraqis to stand on their own.
+
+[[Page 14320]]
+
+And what I feel in these two resolutions and legislation that we are 
+passing is, it is still Democrats basically saying this is the way we 
+are going to structure the debate. This is the way we are going to do 
+it. Take it or leave it. So we end up with this bifurcated piece of 
+legislation that, frankly, I don't think does justice to the process. 
+And I want to be on record on that.
+  I also want to say to my colleague on the other side of the aisle you 
+say, ``I predicted and I have been right 100 percent of the time,'' you 
+know what? That is debatable. Frankly, it is very debatable. And when 
+you talk about there are incidences here, and there will be incidences 
+there, if that is how we are going to judge this war, then we might as 
+well leave now. But why don't we judge it on economic, political, and 
+military efforts, not on incidences? Why not judge it on the fact that 
+in December we gave up on Anbar Province and now we are winning Anbar? 
+And it is clearly one of the most important provinces. It is totally 
+Sunni. It connects Syria to Baghdad.
+  This is the route to which insurgents have been coming from Syria. 
+They follow the river, and now we have tribes all along the way, Sunni 
+tribes, not Shia tribes, Sunni tribes that are saying, hey, who are 
+you? What are you doing here? And they are calling a stop to it. And 
+they are saying to us every time we meet with them ``Do not leave us. 
+You came here unwelcomed, but now do not leave us until you help us 
+stand on our own.''
+  And I fear, Mr. Murtha, that what we are going to do if your 
+predictions are right, and it is almost like you want to be right 
+instead of want to be wrong, if your predictions are right, and we will 
+leave too soon because of incidences, then we will have only ourselves 
+to be shameful of, not that we went in there, but because we deserted 
+them before we gave them a chance.
+  The political process, it is moving forward. Is it doing as well as I 
+would like? Some have described it to me this way: It is like a sixth-
+grade dance. You had Sunnis, Shias, and Kurds, and they were all there, 
+but nobody danced. And now they are starting to interact with each 
+other. Now Sunnis and Shias and Kurds are saying to us collectively, 
+Please give us more time to work out our differences. It is not Shias 
+saying the Sunnis are doing this or the Sunnis saying the Shias are 
+doing this. Collectively they are saying, give us more time.
+  I think, they are at a point where if we give them time, you will 
+see, Mr. Murtha, that your predictions will be wrong. But if you don't 
+give them enough time, it is a self-fulfilling prophecy. Your 
+predictions will be right because you didn't give them a chance.
+  Let me conclude by saying we attacked them; they didn't attack us. 
+And I believe we have an absolute moral obligation to replace their 
+army, to replace their police, to replace their border patrol. I think 
+we have a moral obligation to give this political process a chance.
+  Mr. OBEY. Mr. Speaker, I yield 1 minute to the gentleman from 
+Pennsylvania (Mr. Murtha).
+  Mr. MURTHA. Mr. Speaker, let me say that the Iraqi Legislature is 
+going on a 2-month vacation. A 2-month vacation they are taking. We 
+have been there 4\1/2\ years. And the people that give us the report is 
+not Jack Murtha. The people that give us the report is the Joint Staff. 
+And if you read with real glasses, you see what is happening in Iraq. 
+You see incidents erupt. You see people getting killed. You see that 
+nine people were killed just yesterday. You see that the IEDs are 
+killing more people. More people were killed in the last 4 months than 
+at any other time during the war.
+  We are trying to help you. We are trying to change the direction. We 
+are trying to win it politically. We are trying to win this war. That 
+is what we are trying to do. You can't win it if you don't look at it 
+objectively. The gentleman is looking at it with rosy glasses instead 
+of looking at it realistically. He is not looking at it objectively.
+  Mr. LEWIS of California. Mr. Speaker, I yield 30 seconds to the 
+gentleman from Connecticut.
+  Mr. SHAYS. Mr. Murtha, they are not going to take 2 months off. They 
+will probably take less time off than this Congress has taken.
+  Mr. LEWIS of California. Mr. Speaker, I yield 3 minutes to the 
+gentleman from Missouri (Mr. Blunt), our minority whip.
+  Mr. BLUNT. Mr. Speaker, I thank Mr. Lewis for yielding.
+  All I can say, Mr. Speaker, is that it is about time that we got this 
+job done. Three and a half months to respond to our troops and to their 
+families is too long.
+  Frankly, I think if we had been interested in getting this job done, 
+most of us could have taken out a yellow legal pad and written 30 or 60 
+or maybe even as much as 90 days ago what the House would finally vote 
+on that would solve this impasse in supporting our troops.
+  While we have let this process drag on, the military has had to 
+cancel noncritical contracts, defer home station unit training 
+activities, defer any nonabsolutely critical orders for spare parts, 
+defer maintenance, put off summer programs that have affected spouses 
+and families while military personnel were assigned to Iraq, and that 
+is unfortunate.
+  What is fortunate is that we have come up with a bill that funds the 
+needs of the troops and sets benchmarks for the Iraqis. House 
+Republicans have been saying since January this bill needs to include 
+benchmarks for the Iraqis. I have been saying almost since that time 
+those benchmarks need to have consequences. We have done that in this 
+bill, and that is a good thing. We are requiring the Iraqis to step up 
+and do their part of the job.
+  Equitable distribution of oil resources is something that needs to 
+happen if this country is going to achieve stability. Establishing a 
+High Electoral Commission and establishing a deadline for regional 
+elections is something that we have been talking about since January 
+that tonight we are going to say the Iraqis have to do or there are 
+consequences. Militia disarmament is important here, as it is also 
+important, as you deal with the military, not to undermine the military 
+or change military leadership if they are doing the job that needs to 
+be done in ending sectarian violence. Protecting minority political 
+parties in Iraq is something that we are going to be monitoring. The 
+Iraqis have to come up with the brigades that they need to be part of 
+the operation that General Petraeus is leading. The President has to 
+certify these items. All these are things that many in this House have 
+been talking about for most of the 109 days this debate has been 
+dragging on.
+  It is time to bring this debate to an end. It is time to support the 
+troops. It is time to support their families and do the job that the 
+Congress needs to do rather than trying to figure out the job that the 
+commanders in the field need to do. They need to do what is necessary 
+to be successful. This is a step in giving them the tools to do that 
+and giving the Iraqi Government the incentive to be who they are 
+supposed to be.
+  Mr. OBEY. Mr. Speaker, I yield myself 1\1/2\ minutes.
+  The previous speaker just complained about the fact that this has 
+taken 110 days to finish. If I am not mistaken, he was the majority 
+party whip when his party controlled this Chamber last year, and it 
+took 110 days before the Republican-controlled Congress could get a 
+supplemental to the President. So I think it comes with considerable 
+ill grace for the gentleman to be calling the kettle black.
+  Let me also suggest that if there has been any delay whatsoever 
+associated with this process, it is due to two things: Number one, it 
+is a little thing called democracy. You know what? We don't have a 
+rubber-stamp Congress anymore. If we did have a rubber-stamp Congress, 
+we could have finished this in 1 day. But that is not what our 
+obligation is.
+  And, secondly, and even more fundamentally, any delay in the process 
+was not caused by the Congress. We had this job done 3 weeks ago. The 
+delay was caused by fact that the President blocked the funds going to 
+the troops when he vetoed the bill. So I would suggest that the 
+gentleman recognize where the true responsibility lies.
+
+[[Page 14321]]
+
+  We have a right and an obligation to spell out what we think is in 
+the national interest of this country. Pardon me if it takes a few 
+days.
+  Mr. LEWIS of California. Mr. Speaker, I think it is appropriate that 
+the Republican whip respond to what would only be described as a so far 
+do-nothing Congress in connection with helping the troops; so I yield 
+him 30 seconds.
+  Mr. BLUNT. Mr. Speaker, I thank the gentleman for the 30 seconds.
+  And I would say in response to those questions, first of all, by 
+definition the last Congress must not have been a rubber stamp, or it 
+wouldn't have taken the time that you suggest this Congress sees as so 
+important to do the job.
+  And what the last Congress was doing was, one, trying to get a bill 
+the President would sign in circumstances that the Defense Department 
+said was dramatically different than this; and, two, eliminating $14.5 
+billion of spending that we didn't want and the President didn't want. 
+We didn't do that part of this job.
+  Mr. OBEY. Mr. Speaker, I yield myself 1 minute.
+  I intend to yield the remainder of my time to close debate to the 
+Speaker.
+  Before I do that, and before the gentleman closes with his last 
+speaker, let me simply thank the committee staff. Let me thank the CBO 
+staff, the legislative counsel staff, even the White House staff, who 
+worked with us to fashion together this package.
+  Regardless of how Members feel about it, it took a tremendous amount 
+of work by people whose names never get in the papers, whose pictures 
+never get in the papers, but who do their darnedest to see to it that 
+the will of this House is carried out with as much clarity as possible. 
+I appreciate their work. I appreciate their dedication to this 
+institution and this country.
+  Mr. Speaker, I reserve the balance of my time.
+
+                              {time}  1800
+
+  Mr. LEWIS OF California. Mr. Speaker, I yield the balance of our time 
+to the Republican leader, Mr. John Boehner.
+  Mr. BOEHNER. Let me thank my colleague for yielding and say, thank 
+goodness that we're finally here.
+  Mr. Speaker, over 100 days trying to come to an agreement on how to 
+do the right thing for our men and women in the military fighting for 
+our freedom and our safety and our security right here at home. I ask 
+myself, why? What have we done over the last 100-plus days, and why has 
+it taken this long? And there is one image that keeps coming back to 
+me, and it's from my friend, the chairman of the committee, and it is 
+his favorite saying: There are a lot of Members who have been posing 
+for holy pictures over the last 100-plus days. The gentleman knows 
+exactly what I'm talking about.
+  Put yourself in the shoes of our men and women fighting in Iraq, 
+fighting in Afghanistan and elsewhere around the world. And think about 
+the message that we have sent them over the last 100-plus days. We sent 
+them there to do a job. We sent them there on a mission. And yet, for 
+the last three and a half months we had a debate going on here that has 
+undermined their efforts, lowered their morale and clearly sent the 
+wrong message to our allies and to our enemies. But thank goodness that 
+we're finally here.
+  We have no artificial deadlines. We have no surrender dates. We have 
+no shackles on the generals and our troops on the ground. We are going 
+to give our generals and our troops what they need to win in Iraq. And 
+winning in Iraq is important for our country. I don't believe that 
+there is a Member in this Chamber who doesn't understand that winning 
+in Iraq is important to our country. It has been difficult; mistakes 
+have been made. But think about why we went to Iraq. We went to Iraq to 
+get rid of a brutal dictator who was a threat to his own population and 
+to all of his neighbors. We succeeded.
+  We went to Iraq to eliminate weapons of mass destruction. Of course 
+they were shipped somewhere else. But we know that they were used 
+against their own Iraqi people. But they are not there. We went there 
+to help install a government to build a basic democracy in a part of 
+the world that has never known it. We are in the midst of it, and we 
+are succeeding.
+  It is al Qaeda, the sworn enemy of the United States, who wants to 
+kill us, who made Iraq the central front in their war with us. If we 
+don't take on al Qaeda in Iraq and defeat them, where will we draw the 
+line? Will we draw the line when they go into Saudi Arabia? Will we 
+draw the line when they try to decimate Israel? Or are we going to wait 
+and draw the line when we are fighting the terrorists here in America?
+  Think once again about those young men and women in our military out 
+there doing their duty for us. We, the Congress of the United States, 
+authorized the President to go to Iraq and to do what I've just 
+outlined. We sent them there. And this last 100 days, we've questioned 
+whether in fact we really should have done it. I think it is far too 
+late. They are there. They are on the ground. They deserve our support. 
+And, finally, tonight they are going to get the resources they need to 
+try to win the battle in Iraq.
+  Now let me just say something about the rest of this bill, the second 
+part of this bill that has some $20 billion worth of additional 
+spending, probably some $8 or $9 billion of nonmilitary, nonveteran 
+spending that does not belong in this bill. It may be well-meaning. It 
+may be well-intentioned, but it doesn't deserve to be put on the backs 
+of our men and women in the military serving our country. It deserves 
+to be done in a regular order.
+  When it comes to that part of the bill, I am going to have to vote 
+``no.'' To load this bill up with not only all the additional spending, 
+but we've got a half a dozen pension issues. We've got a minimum wage 
+issue. We've got a whole host of other issues that don't deserve to be 
+put on the backs of our men and women in the military. It is a sneaky 
+way to do business. I wish it was not in there. And on that portion of 
+the bill, I will vote ``no'' tonight.
+  But I am glad that we're here. I know that there are differences in 
+this Chamber, Members on both sides of the aisle who feel differently 
+about our mission in Iraq and our chances of success there. I know when 
+I came here and every 2 years since I've been here, on the opening day, 
+we all stand here; we raise our right hands and swear to uphold and 
+defend the Constitution of the United States. There are a lot of my 
+colleagues that have heard me make the statement that I didn't come 
+here to be a Congressman. I came here to do something. And I think at 
+the top of our list is providing for the safety and security of the 
+American people. That's at the top of our list. After 3,000 of our 
+fellow citizens died at the hands of these terrorists, when are we 
+going to stand up and take them on? When are we going to defeat them?
+  Ladies and gentlemen, let me tell you, if we don't do it now, and if 
+we don't have the courage to defeat this enemy, we will long, long 
+regret it. So, thank you for the commitment to get the job done today.
+  Mr. OBEY. Mr. Speaker, I yield the remainder of our time to the 
+distinguished Speaker.
+  Ms. PELOSI. I thank the gentleman for yielding, the distinguished 
+chairman of the Appropriations Committee.
+  Thank you, Mr. Obey, for your brilliance in bringing the legislation 
+to the floor that we have today so we can express ourselves on the 
+direction of this war, and at the same time, we have the opportunity to 
+meet the emergency needs of the people of America, the Hurricane 
+Katrina survivors, our farmers suffering from natural disasters, 
+children without health insurance, our veterans. Thank you for the 
+strong commitment you and Mr. Murtha and others have made to military 
+health, to veterans health and to BRAC. After 10 years of indifference, 
+we are raising the minimum wage for millions of our hardest-working 
+Americans. And with the passage of the provisions in the first piece of 
+this bill, the first amendment, we strengthen our country and address 
+the health and well-being of millions of Americans who have been 
+ignored again for too long. The new direction of Congress is keeping 
+its promise to them.
+
+[[Page 14322]]
+
+  Mr. Speaker, we have two amendments before us, and I just spoke about 
+one of them. The other resolution, the other amendment about the war, 
+the President's request plus the Warner resolution, is really an 
+inkblot. We are all familiar with the Rorschach test; you look at it 
+and you see what you see. Some will see one thing; some will see 
+others. Some will see an opportunity, for the first time, for the 
+Republicans to say that accountability is needed on the part of the 
+President of the United States and on the part of the government of 
+Iraq. And so there are these benchmarks. But these benchmarks by no 
+means meet the obligation that we have to our men and women in uniform 
+if they can be as easily waived as they can be in this resolution.
+  The resolution that the Republicans put forth, I am really glad that 
+they finally admitted that there is a need for accountability. But what 
+they haven't done is met that need with something appropriate. This is 
+like a fig leaf. This is a token. This is a small step forward. 
+Instead, we should have a giant step forward into a new direction. So 
+when I look at this inkblot, I see something that does not have 
+adequate guidelines and timetables; something that does not have 
+adequate consequences; and something that does not have my support. 
+Democrats are proposing something much better.
+  Instead of a missed opportunity, we had hoped that the President 
+would have accepted our proposals, which we sent to him over and over 
+again, over and over again, meeting his request, and even doing more 
+for our troops, for our veterans, and for strengthening our military in 
+ways beyond the President's request.
+  We now have our troops engaged in a civil war. There are reports that 
+the Department of Defense has declared what is happening in Iraq to be 
+a civil war. The American people do not think that it is necessary for 
+us to be refereeing a civil war in Iraq. They want our focus to be on 
+fighting terrorism, retraining the Iraqis, protecting our diplomats and 
+our forces there, and that is exactly what Democrats have proposed. 
+Instead, we have a situation where, in refereeing and engaging in 
+combat in the civil war in Iraq, as the President has us doing there, 
+we have lost thousands of Americans. The number is hard to measure, but 
+everyone agrees, easily over 100,000 Iraqis. The cost to our reputation 
+and our military readiness is incalculable, but it is huge.
+  We think there should be a new direction. We think what we should be 
+talking about here today is a different vision for stability in the 
+Middle East and how our role in Iraq contributes to that. The generals, 
+including General Odierno, recently stated that any strategy for 
+success in Iraq must begin with the redeployment of our troops out of 
+Iraq. That is a general, a retired general, and his voice is echoed by 
+other generals as well. That, again, is what we are proposing, a change 
+of mission, a redeployment for a different purpose, fighting terrorism, 
+which is the threat to our national security.
+  The focus on Afghanistan must be reemphasized as that situation 
+becomes more tenuous.
+  If we went down the path that General Odierno suggests and which 
+Democrats have proposed over and over again, we would have a 
+drastically reduced need for American troops in Iraq. Our troops have 
+performed their duties excellently, excellently. Every opportunity we 
+get, we must honor them for their patriotism, their courage and the 
+sacrifices they and their families are willing to make. Time and again, 
+we do this. And as we go into Memorial Day Weekend, we do it again. And 
+we convey our condolences to those who have lost a family member in 
+Iraq, in Afghanistan or any of the other wars we have been engaged in.
+  And we have honored our veterans not just with words but with 
+actions. In the last couple of weeks, under the leadership of Chairman 
+Ike Skelton, Democrats put forth our Department of Defense 
+Authorization bill. And in that bill, it was dedicated to troop 
+readiness, with training and equipping our troops so that we don't send 
+them into harm's way at a disadvantage.
+  Mr. Skelton's bill also calls for a 3.5 percent raise in military pay 
+and a $40 survivor benefit to survivors of those who were lost in 
+battle. Do you know what the President said about that in his statement 
+of administrative policy? That that increase was unnecessary.
+  While yesterday, we had representatives of the veterans' 
+organizations, especially the survivors, telling us that a $40 increase 
+doesn't nearly go far enough to be commensurate with the sacrifice. We 
+could never match the sacrifice, but we should at least make a 
+respectable attempt at it. And for the White House to say a $40-per-
+month increase for survivors of those who gave their life in battle is 
+unnecessary, unnecessary to whom? So if you want to talk about 
+supporting the troops, how about supporting the troops, our veterans 
+and their families?
+  Around the same time, Chairman Spratt brought to the floor the 
+Democratic budget. This budget has a $6.7 billion increase for our 
+veterans; $6.7 billion more than the previous budget; historic in its 
+increase, making veterans a priority, an investment in those who 
+sacrifice so much for us, an investment in honoring our commitment to 
+our veterans. And just this week, Chairman Chet Edwards of the 
+Appropriations Subcommittee on Military Construction and Veterans 
+Affairs put forth the largest increase in the VA in the history of the 
+Veterans' Administration, 77 years. This is to make up for some 
+promises not kept, but it is also to say, in our spending priorities, 
+even within the context of PAYGO, no new deficit spending, no increases 
+in the deficit; we put veterans at the top of the list and our military 
+at the top of our list.
+  This isn't about whether we support our troops. Of course, we support 
+our troops. We all demonstrated that over and over again.
+
+                              {time}  1815
+
+  But it is about opposing this war.
+  This is not the end of the debate. We have to be here to bring this 
+bill to the floor so we can go forward. But this debate will go on. 
+There will be legislation on the floor in the next several months to 
+change the mission once again from combat to fighting terrorism, 
+training and diplomatic and force protection. Again, that would require 
+a greatly reduced U.S. force in Iraq, and coalition force as well.
+  We will have legislation to repeal the President's authority for the 
+war in Iraq, to repeal the authority that the President has for the war 
+in Iraq. We will have that vote.
+  We will have votes on Mr. Murtha's defense appropriations bills: one 
+of them the regular order defense appropriation bill; another one, the 
+supplemental that has been requested by the administration.
+  Mr. Speaker, I come to the floor today sad that the opportunity we 
+have has been missed. There is a recognition that we need 
+accountability, because the American people are demanding it. At least 
+70 percent of the American people say we have to have accountability. 
+So instead of putting accountability into the bill, we make a gesture 
+at it. We could have taken a giant step in a new direction. Instead, we 
+are taking a baby step. But, as I said, this is not the end of the 
+debate.
+  As we think about all of this, I would like to recall the words of a 
+philosopher. Hannah Arendt once observed that nations are driven by the 
+endless flywheel of violence, believing that one last, one final 
+gesture will bring peace. But each time they sow the seeds for more 
+violence.
+  That is what President Bush is doing in Iraq. That has been the 
+deeply flawed policy of President Bush.
+  Again, Democrats are proposing a new direction. I urge my colleagues 
+as we go forward, however you see the inkblot, however you decide your 
+vote, to join in listening to the American people in the coming days, 
+weeks and months, and bring this war to an end.
+  Ms. CORRINE BROWN of Florida. Mr. Speaker, I have never supported the 
+war in Iraq. From the very outset of the conflict, I have stood as an 
+ardent opponent of the war, and voted against the War Resolution, House 
+Joint Resolution 114, which ``authorized the use of United States Armed 
+Forces against Iraq,'' when it came before the House of Representatives 
+on October 8, 2002. I have argued from the beginning of this conflict 
+that
+
+[[Page 14323]]
+
+the President intentionally misled the American public by supplying 
+them with spurious grounds for going to war.
+  I cannot, in good conscience, return to my district over the Memorial 
+Day recess having cast a vote to continue funding, and henceforth, 
+provide financial support for the continuation of this horrible war. 
+Moreover, the bill's lack of a timetable for troop withdrawal is not 
+acceptable. This is a war without any end in sight, without any sort of 
+deadlines or oversight, and the administration will continue to throw 
+away billions and billions of dollars in this conflict if we cannot 
+pass a bill with timelines or restrictions.
+  Clearly, the November midterm elections demonstrated that the 
+majority of the American public is bitterly opposed to the war in Iraq. 
+Just today in fact, a New York Times/CBS poll showed that ``over 61 
+percent of Americans say that the United States should have stayed out 
+of Iraq, while over 75 percent say that things [in Iraq] are going 
+badly'' (New York Times, May 24, 2007). I stand with the American 
+people today, and although I wholeheartedly support our troops, I 
+cannot support a bill to continue funding a terrible war while the 
+White House refuses to accede to readiness standards or any other 
+measures that restrict their oil war in Iraq.
+  It is estimated that we have already spent over a trillion dollars of 
+taxpayer money in Iraq. This is funding which we could be using for 
+social services for our own citizens. Indeed, important items like 
+education, prescription drugs, health care and homeland security goes 
+underfunded while a disastrous war, unwillingly being paid for by U.S. 
+taxpayers, wages on.
+  And yet the administration continues to request blank checks to be 
+used at their discretion. A perfect example of this is the money sent 
+over there in the period, between May 2003 and June 2004, when our 
+military was carrying huge, wrapped stacks of $100 bills over to Iraq--
+$12 billion total--in cash. This money was sent over there without 
+oversight, without any sort of accountability, and many are now worried 
+that the same insurgent groups that are battling against our troops may 
+have bought their weapons with this money. And the argument put forward 
+by the Bush administration for sending money over in this way was that 
+Iraq was without a functioning banking system. This utterly ludicrous 
+reasoning is nearly as preposterous as their lies and poor reasons for 
+going to war in the first place, like scaring the American people into 
+believing that Iraq had weapons of mass destruction, which, to this 
+day, have not been discovered.
+  President Bush has asked for a blank check and the American people 
+have stamped his account ``insufficient funds.''
+  Mr. LEVIN. Mr. Speaker, voting ``no'' today will not bring home the 
+troops during the next four months. The President is determined that 
+the troops remain during this period. The danger is that cutting the 
+funds could leave our troops in Iraq without the necessary equipment, 
+including equipment vital for their safety. It is so difficult to watch 
+the deaths of so many brave American soldiers. Until we can force the 
+President to bring them home, we must give them the equipment they need 
+to keep them safe.
+  So de-funding this supplemental will not shorten the war but could 
+endanger the safety of our men and women in uniform. This is the issue 
+confronting those of us, like myself, who actively opposed going to war 
+in the first place 4 years ago, and who have voted time and again since 
+then to press the White House and the Iraqi government to achieve a 
+number of key benchmarks so our troops can come home. The Iraqi 
+government has to finally step up and make some difficult political 
+decisions and end the sectarian violence that is tearing their country 
+apart.
+  The benchmarks contained in this bill are important, but they would 
+be much more effective if they were backed up by a realistic timetable 
+for the redeployment of our troops if the benchmarks are not met. The 
+House and Senate approved just such a bill last month, but the 
+President vetoed it and there were not enough votes in either the House 
+or the Senate to override the President. Everyone should understand 
+that it was not for lack of Democratic votes that we were unable to 
+force the President to change direction on Iraq. The problem is that it 
+takes a two-thirds vote of the House and Senate to override a 
+Presidential veto and only a handful of Republicans were willing to 
+vote with us.
+  This bill contains funds to provide our troops with body armor, 
+vehicles designed to withstand improvised explosive devices, 
+countermeasures to roadside bombs and mines, and medical care to treat 
+their injuries. Again, voting no on the bill today won't force the 
+President to withdraw our troops from Iraq; it just means our troops in 
+Iraq and Afghanistan won't get the resources they need to protect 
+themselves. Voting no would also cut off funding needed to sustain our 
+military and political efforts in Afghanistan. This is an area that 
+many of us feel deserves more attention and resources, not less.
+  It is critical that today's vote is not the end of this debate. The 
+funds provided for Iraq in this bill run only through September. In the 
+weeks ahead, there will be other opportunities for Congress to change 
+the direction of this war, to hold the Iraqi government and President 
+Bush accountable, and bring our troops home. The legislation we need to 
+debate and pass is one that essentially deauthorizes our current 
+military involvement in Iraq and provide a responsible timeline for the 
+orderly redeployment of our forces. I regret that this is not the bill 
+before us today, but we will have this debate in September. At that 
+time, I hope that more of our Republican colleagues will join us in 
+voting to change the President's policy on Iraq.
+  Mr. UDALL of Colorado. Mr. Speaker, I will vote for this supplemental 
+appropriations bill today, but like many Americans who want to see an 
+end to the war in Iraq, I am not happy about it.
+  In fact, I am deeply frustrated and saddened by the prospect, but I 
+also am compelled by my conscience to this vote.
+  On Monday, Memorial Day ceremonies throughout Colorado and across the 
+country will honor the men and women in uniform who have paid the full 
+measure of devotion to duty in all of America's wars.
+  But as long as the war in Iraq goes on, every day will be Memorial 
+Day.
+  Already, more than 3,400 of our servicemen and servicewomen have died 
+in Iraq, and more will die before we withdraw our troops. Just last 
+Friday, for example, 33-year old SFC Scott Brown of Windsor, Colorado, 
+and 27-year old SGT Ryan Baum of Aurora, Colorado, were among them.
+  A friend of Ryan's family told reporters, ``Ryan never wanted to be 
+known as a hero, he just did his job.'' In fact, he did his job--and he 
+is a hero.
+  This is not a heroic day in Congress, but as his comrades are 
+faithful to their responsibilities, we must be faithful to ours.
+  And one of those responsibilities--even for those of us who have 
+opposed this war--is to support those brave comrades as they continue 
+to do what the President has ordered them to do.
+  And now, today, all of us in the Congress face a dilemma that I 
+foresaw 4 years ago--when President Bush first sent our forces into 
+Iraq: having to choose either to take the guns out of the hands of our 
+soldiers in the field or to let the President move forward with a 
+misguided and reckless policy.
+  Cutting off funds for supplies and equipment for our troops is one 
+way, of course, to bring this war to an end, and I understand why many 
+Americans believe Congress should do so. But the more responsible way 
+to end this war, in my opinion, is to change our policy, and to avoid 
+making an already bad situation worse.
+  I opposed the Bush administration's decision to launch a pre-emptive 
+war in Iraq because I believed it would be a diversion from our larger 
+post 9-11 strategic objectives and I was not convinced that the 
+President had an adequate plan and enough international support to 
+secure and stabilize Iraq after overthrowing its regime.
+  I said at the time that getting into this war would be far easier 
+than getting out. I wrote in March, 2003 that ``success in Iraq is not 
+just about eliminating Saddam Hussein. . . . Success in Iraq also means 
+managing the ensuing social chaos, keeping a lid on the Middle East 
+powder keg, thwarting terrorist attacks at home, and occupying and 
+rebuilding Iraq--and doing all of this when our own economy is 
+faltering, energy prices are rising and domestic priorities like health 
+care and education are crying out for attention.''
+  So, I offered my own resolution to slow the rush to war in 2003 and 
+argued for a program of coercive inspections that would have uncovered 
+the truth about weapons of mass destruction before shedding American 
+blood.
+  When that was rejected, I voted against authorizing the President to 
+send our forces into Iraq--and today, more than ever, I am convinced 
+that my vote against the war was the right vote.
+  Congress, nevertheless, voted to give the President the authority to 
+go to war, and he has used that authority, to disastrous effect.
+  I have worked to extricate us from the ongoing disaster. I was among 
+the first in Congress to call for an exit strategy from Iraq. I have 
+introduced legislation, cosponsored legislation, spoken out with my 
+colleagues, published articles, traveled to Iraq to better understand 
+the challenges we face, and asked tough questions of our military 
+leaders during Armed
+
+[[Page 14324]]
+
+Services Committee hearings. And I continue--every day--to pressure 
+this administration in every way I can.
+  I firmly believe that our challenge is to withdraw from Iraq 
+rapidly--but responsibly. For me, the debate today should be about how 
+to carry out a responsible withdrawal. And that is the point on which I 
+find myself disagreeing with many whose passion to end this war I 
+respect.
+  They argue that the best way to get out is to vote today to cut off 
+funding for our men and women in uniform, and in harm's way. I 
+respectfully disagree, because that would sacrifice a responsible exit 
+in favor of a rapid one--and in good conscience, I cannot support that 
+anymore than I could support the reckless way we were led into this war 
+in the first place.
+  I think responsibility demands that we provide the funding necessary 
+to keep the many thousands of brave Americans now in service in Iraq 
+supplied. With our troops stretched thin, forced to perform longer 
+tours of duty and short of equipment and supplies, funding for the 
+immediate needs of these men and women in uniform cannot be held 
+hostage to disagreements about the folly of Bush administration 
+policies.
+  Make no mistake--I have no doubt that the President's policies have 
+brought our country to the brink of a national security crisis. I am 
+angry that the President still refuses to accept a supplemental funding 
+proposal for Iraq and Afghanistan that provides real accountability 
+measures for ending the Iraq war. I voted to force him to adopt a 
+different course, and when he vetoed that legislation, I voted to 
+override that shortsighted and stubborn exercise of Presidential power. 
+Unfortunately, and primarily because of the misguided loyalty of 
+members of the President's party, that override effort failed, which is 
+why we are considering the legislation now before us.
+  I did not choose the wording of the bill that we are considering 
+today. It is not the bill that I would have written. But it will 
+provide the essential funding to support and protect America's sons and 
+daughters who are in Iraq right now doing everything we have asked of 
+them and putting their lives on the line every day.
+  But another part is to bring pressure to bear on this administration 
+to end this war because I don't want any more young dedicated Americans 
+to lose their lives in this war. I want to bring them home.
+  So far, that pressure has not been enough, as was shown by the 
+President's veto of a bill that fully funded our troops, held the Iraqi 
+government accountable, and demanded that the President change course 
+and bring the war in Iraq to a responsible end. It is abundantly clear 
+that he is not prepared to adopt a better course--and as long as we 
+lack a sufficient majority to override his veto, we Democrats can't 
+force him to do so without Republican support.
+  But I will persist, because I think it is up to those of us who 
+opposed this war in the first place to show the way forward.
+  That is why, after the Memorial Day recess I will introduce 
+legislation that implements the recommendations of the Iraq Study Group 
+and provides a foundation for the phased withdrawal of American troops 
+out of Iraq beginning in March of next year. So far over 40 Members of 
+Congress--both Democrats and Republicans--have agreed to cosponsor this 
+legislation.
+  I am hopeful that this bipartisan effort will lead to more such 
+efforts. Republicans and Democrats alike believe that this fall is key 
+to the future of U.S. military involvement in Iraq. By then, another 
+funding package will be up for a vote, General Petraeus will be 
+reporting back on the progress of the ``surge,'' and we will have other 
+indications of progress on benchmarks based on reports that the 
+administration will be forced to produce as part of this supplemental 
+funding bill.
+  I commit to continuing to do what I can every day to bring this war 
+to an end. Today, I believe the responsible thing to do is to provide 
+needed funds for our men and women in uniform with this bill, which 
+also includes benchmarks for the Iraqi government--an indispensable 
+step toward having Iraqis begin to take responsibility for their own 
+country's future.
+  Mr. CONYERS. Mr. Speaker, I rise in strong support of the first 
+amendment before us, and in strong opposition to the second.
+  It is unfortunate that we have come to this point today. This House 
+has already passed two supplemental war funding bills that would set in 
+motion the change of course in Iraq that the American people have 
+demanded of us. The first was vetoed by the President; the second 
+failed in the Senate. Last week, Democratic leaders met with the 
+President and offered to drop all domestic items in the supplemental if 
+the administration would accept meaningful benchmarks and timelines for 
+ending our involvement in that civil war. He refused.
+  We are now left with the Senate-passed plan, which gives the 
+President the funds he requested, accompanied by a much weaker set of 
+benchmarks than those passed by the House. Some have cited the 
+inclusion of these benchmarks as a step toward ending 6 years of 
+Congressional blank checks for the President's war. While these 
+benchmarks may be a step in the right direction, they are too small of 
+a step. I will vote against the second amendment we are considering 
+today.
+  However, I will support amendment No. 1 to the Senate amendment to 
+H.R. 2206. This measure will provide emergency funding to address 
+critical needs here at home. It includes additional funding for the 
+State Children's Health Insurance Program to prevent many thousands of 
+poor children and some of their parents from losing health coverage, as 
+well as increased spending for Gulf Coast hurricane recovery. It also 
+provides more funding for our veterans' health needs, with additional 
+funding set aside specifically to address traumatic brain injury, one 
+of the most common and devastating injuries our soldiers are suffering 
+in Iraq. The amendment also codifies the raise in the minimum wage that 
+the House originally passed during the First 100 Hours of the 110th 
+Congress. The value of the minimum wage is at its lowest level in more 
+than 30 years, and raising it will provide much-needed help to many of 
+America's financially-strapped working families.
+  I find it unconscionable that the President and some Congressional 
+Republicans have derided these provisions as ``pork.'' Each of these 
+issues is an emergency in its own right and rises to the level of 
+inclusion in this emergency spending bill. I am proud to support them.
+  In September, as these funds expire, the Congress will once again 
+have to decide what course of action to take on this war. The rule we 
+passed for consideration of this bill requires that before we vote on 
+another supplemental bill in the fall, we must vote on whether the 
+funds appropriated therein be limited to the safe redeployment of our 
+troops on a responsible timetable. It is my hope that when these votes 
+occur in September, many more of my colleagues on the other side of the 
+aisle will have come to their senses and realized that the civil war in 
+Iraq cannot be ended by further American military involvement. I am 
+confident that if the American people continue to voice their strong 
+opposition to the President's failed policy in Iraq, enough Republicans 
+will join with us to override future vetoes and end this misbegotten 
+war.
+  Mr. HALL of New York. Mr. Speaker, I oppose the war in Iraq and I 
+have always said that I would vote for additional war funding only if 
+the bill contained a firm, responsible timeline to redeploy U.S. troops 
+out of Iraq. On those grounds, and in accordance with the overwhelming 
+sentiment I have heard from the people in my district, I could not in 
+good conscience vote for the funding bill brought before the House this 
+evening.
+  Mr. VAN HOLLEN. Mr. Speaker, today I voted against the 2007 
+Supplemental War Funding Bill. I opposed the bill not for what it 
+contained--but for what it lacked. The bill lacked strong 
+accountability measures for the Iraqi government and omitted readiness 
+standards to ensure that deployed troops are fully prepared and 
+equipped for duty. While this bill represents an important step forward 
+from where we were before the election, it does not go far enough. In 
+the last election, the American public made clear that they wanted a 
+change of direction in this war. This is not change enough.
+  On May 1, 2003, the day the President declared an end of hostilities 
+in Iraq and Afghanistan, there were 142,000 American soldiers in Iraq. 
+Today there are 155,000. On that day there had been 138 American 
+casualties and 542 wounded in Iraq. Today the number of casualties is 
+3,476 and the number of wounded is 25,225. The Iraqi people have also 
+suffered. The estimated number of Iraqi civilians killed by violence 
+since May 2003 is between 53,000 and 63,000. The bill voted on today 
+does little to reverse this course.
+  The Congress sent the President a bill that would have begun the 
+process of changing worsening conditions in this war by holding the 
+Iraqis accountable for taking the steps necessary to achieve political 
+reconciliation and greater stability. The bill also provided additional 
+funding to go after Osama bin Laden, the Taliban and al Qaeda. By 
+vetoing that bill, the President missed an opportunity to change 
+direction in Iraq and complete the job in Afghanistan.
+  By vetoing that bill, the President said ``no'' to ensuring that our 
+troops had the training and equipment they need. By vetoing that bill 
+he said ``no'' to ensuring that we hold the Iraqi
+
+[[Page 14325]]
+
+Government accountable to the benchmarks which the Bush administration 
+and the Iraqi Government have said are absolutely necessary to achieve 
+political stability in Iraq.
+  We voted to give our troops every penny the President asked for and 
+more. We also insisted on accountability to protect our troops. The 
+President wanted the money without adequate accountability. Our troops 
+deserve better and so do the American people.
+  Mr. KENNEDY. Mr. Speaker, I have and will always support our troops.
+  I have grieved with their families when they have fallen in battle. I 
+have visited them in the hospitals and watched as they recover from 
+some of the most devastating injuries any human could endure. As a 
+member of the Military Construction-Veterans Affairs Appropriations 
+Subcommittee, I joined my colleagues earlier this week in passing the 
+largest increase in veterans' health care funding in 77 years. I want 
+our soldiers and marines in Iraq and Afghanistan to never doubt that 
+their country values their sacrifices and will always be there for them 
+and their families, whether in battle or when they come home.
+  This bill, however, does not honor nor protect our troops. Without 
+accountability and a clear change in policy, this bill simply becomes 
+another blank check for President Bush to continue waging this war 
+without regard to reality or the demands of the American people. The 
+Congress has an obligation to provide our troops with the funding they 
+need to succeed, but it is under no obligation to support a policy that 
+leaves our troops trapped in the cross fire of a civil war.
+  This Administration's disregard for the reality in Iraq, for what a 
+clear majority of Americans now demand, and what is in the best 
+interest of our long-term national security has gone on for too long. 
+This is a vote to make clear that the Congress will not sit idly by as 
+more American soldiers and marines are sucked into the quagmire of 
+Iraq. It is long since past time to begin bringing our troops home. 
+American blood cannot be a substitute for Iraqi political will.
+  The Administration's mishandling of the war in Iraq has brought us to 
+this point, and the Administration's determination to save face at all 
+costs has again denied our troops a policy that takes full measure of 
+the sacrifices they have made.
+  I cast this vote with a heavy heart. The White House has been playing 
+a reckless game of ``chicken'' when it comes to our troops, but neither 
+the Congress nor the White House will ever bear the true burden. Our 
+troops and their families shoulder the true grief and pain of 
+suffering.
+  The Administration has been served notice. It's my hope that this is 
+only the beginning of Congressional efforts to force the Administration 
+to face reality.
+  Mr. HOLT. Mr. Speaker, I rise today in opposition to this bill. We 
+cannot provide a blank check to this President regarding our 
+involvement in Iraq.
+  I've heard a lot of talk about September--that it will be clear by 
+September whether or not the ``surge'' is working. I've heard these 
+comments even as this week the press has reported that another, little 
+publicized ``surge'' is already underway--one that when completed will 
+result in some 200,000 American troops being on the ground in Iraq 
+before the year is out. We know now the ``surge'' is not working.
+  I cannot vote to provide this President with more money to send more 
+troops to try to quell Iraq's civil war. I remind my colleagues that in 
+less than a month's time, Iraq's parliament is going to adjourn for 
+most of the summer, taking a two month vacation while American kids are 
+left to dodge sniper fire and IEDs. Where are the Iraqi security 
+forces? What happened to ``As they stand up, we'll stand down?''
+  This month, the Defense Department reported a total of 337,000 Iraqi 
+police and soldiers had been trained and equipped. They now outnumber 
+our troops by two to one. Yet the administration has repeatedly refused 
+to give the House Armed Services Committee information on the training 
+program for Iraqi security forces and how their unit readiness is 
+assessed. I suspect Secretary Gates is holding back those answers 
+because he knows we're going to ask what we have bought with the money 
+we have spent on Iraq's security forces--more than $15 billion. But I 
+think most of us know what that $15 billion has bought us: an Iraqi 
+security force that is corrupt, sectarian, infiltrated by insurgents, 
+and hopelessly ineffective.
+  We can't keep ratifying a failed policy; that's not what the American 
+people expect or need from us. I urge my colleagues to oppose the 
+resolution.
+  Mr. KAGEN. Mr. Speaker, as your Congressman, I'd like to share with 
+you the difficult reality our Nation faces in the religious civil war 
+in Iraq. The truth is things are bad in Iraq and getting worse--with no 
+end in sight.
+  After 4 years of conflict, with more than 3,400 courageous American 
+soldiers dead--and counting--with more than 650,000 civilians killed, 
+and after spending billions and billions of our hard-earned tax dollars 
+on private no-bid contractors, the Iraqi government is still not 
+standing up to help themselves.
+  I was shocked to learn that \1/3\ of the elected Iraqi government 
+does not even live in Iraq--they live in London, England--even as our 
+own children are being killed in their centuries-old religious civil 
+war. And their parliament, well, in the middle of a war--they're about 
+to take a 2-month vacation--even as our children continue to make the 
+ultimate sacrifice.
+  Unfortunately, today's vote cannot, and will not, end this war, 
+because we do not have enough democratic votes to overcome the 
+president's veto. And make no mistake--Iraq is President Bush's war--
+and he is the only one, today, who can stop it.
+  The current commander of our forces in Iraq told Congress the civil 
+war in Iraq cannot be won militarily--it can only end with a political 
+solution, not a military one.
+  I have been working hard to find a way home for our troops, and I 
+have supported every effort to improve the safety and readiness of our 
+soldiers, to guarantee they receive expert medical care when they come 
+home, to increase their pay, and to deploy our forces away from Iraq--
+and back after al Qaeda. But, the President vetoed, or threatened to 
+veto, all of our attempts to support our troops. In my opinion, the 
+President is unable to see and hear the realities on the ground in 
+Iraq. Plainly put, Congress cannot follow a President with poor 
+judgement--period. Enough is enough.
+  I have been listening to many Wisconsin veterans at the American 
+Legion, the veterans of foreign wars, and to parents and grandparents 
+of fallen soldiers. Military veterans from Appleton to Green Bay, from 
+Ashwaubenon to Pulaski, and from Waupaca, Clintonville, Shawano and 
+Marinette have shared their feelings with me.
+  Please, just for a moment, listen to their heartfelt thoughts:
+  ``We need to get our boys home.''
+  ``We went in with not enough troops.''
+  ``It is just like Vietnam.''
+  ``This war can never be won--we don't belong there.''
+  ``We all back our troops--but not this dumb policy.''
+  ``Our President has a complete disregard for humanity.''
+  ``We need a President who really believes in diplomacy.''
+  ``The President will not listen to ordinary people, and he does not 
+understand when he is wrong.''
+  Today, I voted to support our troops by protecting them from a 
+President who cannot understand reality. I support our troops, but not 
+this failed policy.
+  Finally, allow me to share with you the pain of a grandmother whose 
+grandson perished in Iraq: ``Oh, Steve. It is so hard to talk about. He 
+was such a bright young man. He wanted a college education and was 
+going to use the money he was being paid to go to school.
+  Where is this war getting us? We got Saddam. Let's bring our military 
+home.
+  I have another grandson ready to go over to Iraq. Let the higher-ups 
+send their kids to Iraq. I don't want to see it happen to anyone else. 
+Enough is enough.''
+  And remember this: The vote today was not about ending the Iraqi 
+civil war. it was about supporting our troops by protecting them from a 
+President who cannot understand reality. Congress cannot continue to 
+give a loaded gun to a President with poor judgement. I will always 
+support our troops, but not this failed policy. I believe there is a 
+better way to do things in America. By working together, we will find 
+it as we build a better and more secure nation for all of us.
+  Thank you for listening, and God Bless America.
+  Mrs. MALONEY of New York. Mr. Speaker, today we are considering 
+funding legislation for the war in Iraq which unfortunately does not 
+include the timelines for bringing the troops home that I and many of 
+my colleagues have supported previously. While I strongly believe that 
+we must provide the troops with the resources that they need to do 
+their jobs, I cannot support an amendment that would leave them in Iraq 
+indefinitely.
+  The intent of the benchmarks included in this amendment seems to be 
+to send an important signal to the Iraqi government that it must make 
+progress on the political, economic, and security fronts. I know that 
+we all want to see that happen, but it is up to those of us in Congress 
+who are committed to ending this war to ensure that the administration 
+and the Iraqi government realize that we, and
+
+[[Page 14326]]
+
+the American people, will not accept any more blank checks or false 
+promises.
+  I do intend to support the amendment that will be offered to provide 
+more than $20 billion for several key domestic items that have been 
+part of the Democratic Majority's agenda. This amendment includes $1.8 
+billion for veterans' health care as well as funding for military 
+health care, children's health care, and Hurricane Katrina recovery 
+efforts. I am very pleased that this amendment includes the minimum 
+wage increase that millions of hard-working Americans have been waiting 
+on for a decade. I also want to commend Chairman Obey and the 
+Appropriations Committee for including $50 million for Ground Zero 
+workers and responders who risked their lives and are now suffering 
+devastating health effects because of their brave service following the 
+9/11 terrorist attacks. I urge my colleagues to support this amendment 
+so that we will provide long overdue relief to those Americans who need 
+it.
+  I am pleased to note that the rule, which I supported, that provided 
+for consideration of these amendments ensures that before any further 
+supplemental appropriations bills to fund the war can be considered, a 
+vote must occur on legislation to redeploy U.S. troops from Iraq.
+  I am disappointed that the bill that will be sent to the President 
+does not set out a clear path to end the war in Iraq. However, I and my 
+colleagues who agree on this issue will continue to work for what the 
+American people overwhelmingly voted for in November: a new direction, 
+both in Iraq and at home.
+  Mr. PRICE of North Carolina. Mr. Speaker, today we are asked to vote 
+for a fourth time in 2 months on legislation to provide funding for the 
+ongoing military mission in Iraq.
+  The tally of this vote will reflect the dilemma facing this Congress 
+as well as the American people. We are torn by two deeply held 
+sentiments: on the one hand, we support our troops and want to make 
+sure they are protected and supported in the field of battle; on the 
+other hand, we are frustrated by a failed war policy and a President 
+too stubborn to change course.
+  I voted against giving the President the authority to wage war in 
+Iraq. I have introduced legislation to place a termination date on that 
+authorization and to require the President to formulate and execute an 
+exit strategy. But I have consistently voted for bills to fund the war 
+effort because that funding is essential to our troops in the field. 
+Over the last 2 months alone, I have voted three times for funding for 
+the troops in different versions of a supplemental appropriations bill. 
+But I will not vote yes today.
+  In addition to funding troop needs, the previous versions of the 
+bill--despite differences among them and the compromises they 
+contained--would have made substantial progress toward bringing this 
+war to an end. The legislation before us today takes some modest steps 
+forward by including benchmarks for progress for the first time and 
+requiring the administration to report on whether its strategy is 
+achieving them. Unfortunately, however, it does not advance us nearly 
+far enough toward ending this war and putting Iraqis in charge of their 
+own governance and defense.
+  The progress the bill does make has been the result of the pressure 
+brought to bear by the prior supplemental votes. I will be voting 
+against this bill as a way of helping maintain and increase that 
+pressure.
+  Let no one mistake the significance of the vote we take today. This 
+fourth vote is not primarily about material support for the troops--
+every Member of this body supports our troops. This vote is 
+fundamentally about the future of our policy in Iraq.
+  Even if this bill were to fail today, the result would not be a cut-
+off of funding for the troops. The result would be to force the 
+administration to give ground it should have given long ago, and that, 
+sooner or later, I believe it will be forced to give by this Congress.
+  There is nothing about our military strategy that can solve what are 
+fundamentally political and sectarian conflicts among Iraqis. Military 
+and intelligence leaders have consistently declared that the solution 
+in Iraq will be political and diplomatic in nature, not military. We 
+have increasingly asked the military to work toward goals that military 
+force cannot achieve: political agreements between intransigent Iraqi 
+leaders, equitable sharing of power and resources, and an end to 
+sectarian-based civil war. In the meantime, our presence has become a 
+provocation for insurgency and a magnet for international terrorism.
+  We have, in short, left our troops in an impossible situation. I am 
+not willing to vote to fund their operations without at the same time 
+compelling a change in policy that will bring them home.
+  The struggle to change the U.S. course in Iraq is not over. The 
+American people are speaking loudly and clearly. Our efforts over the 
+last 2 months have moved the debate in the right direction, and we will 
+continue exerting pressure on the administration to alter its course in 
+the days and weeks to come as we consider other legislation related to 
+the war. In fact, it should not escape notice that we also passed today 
+a resolution requiring consideration of legislation in September that 
+would require an end to the occupation of Iraq.
+  Our goal in considering the President's supplemental appropriations 
+request was to confront the President over his failed policy and to 
+force a change in course. Even as this supplemental legislation likely 
+passes into law, we can be confident that we have taken important steps 
+toward this goal. We have demonstrated to the administration that it 
+can no longer proceed with its failed policy unaccountably. While many 
+in the House and the other body, where the power of filibuster can be 
+used to obstruct progress, have resisted efforts to craft a more 
+effective Iraq policy, the President and his allies in Congress have 
+been put on notice that the tide is turning.
+  I regret that this bill will not immediately bring the change to our 
+Iraq policy that we so desperately need. But it does represent one more 
+turn of the screw. The President should recognize that a growing number 
+of Members of this Congress, and a clear majority of the American 
+people, will continue boring deeper toward the heart of his failed 
+policy. And we will not stop pressing until our troops begin to come 
+home.
+  Mr. STARK. Mr. Speaker, today is a sad day.
+  Decades ago, I ran for Congress because I opposed the War in Vietnam. 
+After arriving in Washington, I carried out the will of my 
+constituents, repeatedly voting to stop funding the death of American 
+troops and Vietnamese civilians.
+  More than 4 years ago, I voted against the original resolution 
+authorizing the President to take unprecedented preemptive military 
+action against Iraq. In the years since, I have consistently opposed 
+the President at every turn, always voting to deny him the funding he 
+requested to continue his failed War in Iraq.
+  Last November, the American people delivered a loud and clear message 
+to their representatives in Washington. In electing a Democratic House 
+and Senate, the public demanded a new direction in Iraq.
+  Today, however, we're staying the course.
+  The supplemental before us includes no deadlines for troop withdrawal 
+and no enforceable benchmarks for holding President Bush accountable.
+  In other words, there is no way I--or the overwhelming majority of my 
+constituents--would ever support it.
+  We can't go on like this, killing our troops and Iraqi civilians--and 
+wasting tens of billions of dollars that would be better spent on vital 
+domestic priorities like education and health care.
+  You know who supports this bill? President Bush and Republicans in 
+Congress who refuse to acknowledge either the Shiite-Sunni civil war or 
+our lack of progress in Iraq.
+  I strongly urge my colleagues to remember who sent them to 
+Washington. It wasn't President Bush; it was America's voters. They've 
+made their opposition to this war clear. It's time for Congress to do 
+the same.
+  Mr. LANGEVIN. Mr. Speaker, I rise in reluctant opposition to the 
+supplemental spending measure before us. Though I originally voted 
+against giving the President authority to invade Iraq in October 2002, 
+I supported every supplemental appropriations bill since then because I 
+believed that, irrespective of how we might feel about our operations 
+in Iraq, we must stand together in support of our troops in the field. 
+Those spending bills provided much-needed body armor, up-armored 
+Humvees and lED jammers and helped our men and women and uniform as 
+they undertook challenging and often unconventional missions.
+  However, in the last 4 years, the situation on the ground in Iraq has 
+changed, and we must adapt our strategy accordingly. We can no longer 
+allow our military to referee what has become a civil war. The 
+underlying causes of violence are now primarily sectarian in nature and 
+can only be resolved by the Iraqis--a conclusion that nearly all 
+foreign security experts accept. Consequently, we need a new approach 
+that will support the Iraqi political process to end sectarian 
+divisions in Iraq, help rebuild the economy and infrastructure, and 
+promote maximum diplomatic efforts to bring an end to the violence. We 
+can meet these goals by redeploying our troops out of Iraq--allowing a 
+limited U.S. military presence solely for training Iraqi Security 
+Forces, protecting our citizens and interests and hunting down al Qaeda 
+and combating terrorism.
+  Earlier this year, the Democratic-led Congress passed a supplemental 
+spending bill
+
+[[Page 14327]]
+
+that would have demanded accountability of the Bush Administration and 
+set the groundwork for bringing our troops home. Despite Americans' 
+strong dissatisfaction with his handling of the war, President Bush 
+vetoed that measure. I am deeply disappointed with that decision and 
+with his subsequent unwillingness to work with congressional leadership 
+on a true compromise that funds the needs of our troops while pursuing 
+a new strategy for success in Iraq. The bill before us today does 
+require that the President certify that Iraq is making progress in 
+attaining certain benchmarks--a provision that will help Congress 
+conduct greater oversight. However, it falls short of the 
+accountability requirements in the earlier House-passed measure and 
+gives the President far too much authority to continue prosecuting a 
+war that has been mismanaged from the start by the civilian leadership. 
+Despite my past support of supplemental spending bills, I simply cannot 
+vote for the measure before us today. If we do not shift our mission in 
+Iraq from a military approach to a comprehensive diplomatic and 
+economic one, we run the serious risk of damaging the readiness of our 
+military, doing long-term harm to our armed forces and endangering our 
+national security. I will vote today to support our troops, and the 
+best way we can do that is by getting them out of a civil war and 
+bringing them home.
+  Ms. DeGETTE. Mr. Speaker, I rise in opposition to the amendment to be 
+voted on today which will provide supplemental funds for the war in 
+Iraq.
+  As I have said before on the floor of the House, it is time we ended 
+our military involvement in Iraq. We are not making progress, despite 
+losing thousands of lives, expending years of effort, and spending 
+hundreds of billions of dollars. This is a viewpoint shared by the vast 
+majority of the American people.
+  I strongly support our troops and understand we must provide 
+resources for them in the field. However, today's amendment continues 
+the President's failed policy in Iraq by not holding him accountable to 
+his own benchmarks for success and failing to set a timetable for the 
+redeployment of our troops. Although the amendment ties non-military 
+aid to the Iraqi Government's progress in meeting certain benchmarks, 
+the President can waive the requirement.
+  Spending billions on the war in Iraq without providing a prescription 
+for withdrawal or benchmarks with meaningful consequences for the Iraqi 
+Government, as the amendment before us would do, does our troops and 
+our entire Nation a disservice. It suggests that we will continue this 
+war without end or without putting meaningful pressure on the Iraqi 
+Government to do its fair share.
+  Unfortunately, President Bush and most Republicans in Congress 
+believe that this is exactly what we should do. President Bush vetoed 
+H.R. 1591, which imposed benchmarks with real consequences on the Iraqi 
+Government and mandated that our military forces would have left Iraq 
+by August 2008. So far he has refused to accept any major changes in 
+his Iraq policy,
+  If President Bush continues to be intransigent, Congress has the 
+responsibility to use its spending power to truly make a meaningful 
+change in the direction of the war in Iraq. The amendment under 
+consideration does not do that and I ask my colleagues to vote against 
+it.
+  Mr. MARKEY. Madam Speaker, it is with a heavy heart that I come to 
+the floor today to debate funding for President Bush's war in Iraq, yet 
+again, as more innocent Americans and Iraqis fall victim to a horrible 
+and debilitating violence that has not only torn Iraq apart, but 
+threatens the stability of the entire Middle East.
+  We should not be having this debate at all, because the President 
+should have changed course long ago. The President has had so many 
+opportunities to reevaluate his policies in Iraq that his failure to do 
+so can only be explained by an absolute unwillingness to admit that he 
+has made a grave mistake. He continues to act as if nothing is wrong, 
+even as Baghdad burns and the body count of dead Iraqi civilians and 
+dead American troops continues to rise. He continues to send more 
+troops to Iraq even as the Army, Marines, and National Guard are all 
+straining to the breaking point. He continues to ignore the will of the 
+American people who want an end to this war, even as public opinion 
+turns ever more decisively against his failed war policy
+  Madam Speaker, it is far past time for a new direction in Iraq. The 
+American people do not want to be there, and the Iraqis do not want to 
+have us there. Only the President and his dwindling cadre of head-in-
+the-sand advisors believe that the United States is on the right course 
+in Iraq.
+  I am tremendously disappointed that the President, in the face of the 
+utter collapse of his policies in Iraq, refuses to change course. I 
+supported the first supplemental bill we passed this year for a simple 
+reason: It contained language to force an end to this disastrous war. 
+But in his legendary stubbornness and his inability to see reason, the 
+President vetoed that bill. I also supported the House version of the 
+second supplemental appropriations bill, because that bill established 
+strict benchmarks for progress by the Iraqi Government and military and 
+required the President to certify that progress to the Congress, or 
+else face a cutoff of funds to pursue the war.
+  But the supplemental that we will vote on today does not require the 
+troops to come home, and does not establish strict benchmarks to ensure 
+accountability, and for these reasons I will oppose it. But today's 
+vote does not end the effort in Congress to end the war. There will be 
+future votes, and I believe that as the public continues to make its 
+opposition to this war clear, there will be continued pressure on the 
+White House and on congressional Republicans to change course. We will 
+end this war eventually, but today I must oppose this appropriations 
+bill because it fails to take the steps needed to advance the goal of 
+bringing our valiant troops home.
+  Mr. UDALL of New Mexico. Mr. Speaker, this legislation, the third 
+supplemental bill we have considered this year, has many merits. 
+However, I am extremely disappointed that it does not include a plan 
+for phased redeployment of our troops. It is past time that we chart a 
+new path in Iraq.
+  I have supported the previous versions of this legislation because 
+they required that the White House demonstrate milestones of success 
+and progress in Iraq with an explicit timeline for troop removal. But 
+to now give the President a blank check would be unacceptable. We have 
+spent hundreds of billions of dollars on this war and have yet to see 
+even the beginning of the dividends of democracy promised to us by the 
+President. Additional funding must include sufficient requirements for 
+evidence of success. We also need an understanding of how much longer 
+we will be in Iraq.
+  It is significant that the new Democratic leadership in Congress has 
+ensured that appropriations funding bills are now focused on the 
+soldiers and I am pleased to see that this bill includes funding for 
+the armor and equipment needed. Nevertheless, this bill, with its 
+absence of a plan for phased regional redeployment of American troops, 
+will only further ensure that we stay in Iraq with no end in sight. The 
+best way to support our troops is to give them the tools to do their 
+job, and to change our policy to bring them home as safely and quickly 
+as possible.
+  I believe this President must be held accountable for the 
+deteriorating situation in Iraq and for lacking a plan to succeed. I 
+believe it is the role--and the right--of Congress to be substantially 
+involved in the direction of our foreign policy. And I believe that our 
+men and women in uniform deserve better leadership. For these reasons, 
+I cannot, and will not, support continuing to fund this war without a 
+distinct time line for redeployment, and I will be voting ``no.''
+  Mr. GEORGE MILLER of California. Mr. Speaker, this is a great day for 
+America's workers.
+  Today the House once again passes the minimum wage increase--and this 
+time we expect this bill to be signed by the President.
+  America's minimum wage workers have been waiting a long time for a 
+raise. The last time they saw an increase was nearly 10 years ago. 
+Since that last increase, in 1997, the value of the minimum wage has 
+dropped to its lowest level in over half a century.
+  Last summer, I had the honor to meet a woman named Sheryl Wade in 
+Louisville, Kentucky. Sheryl told me at a forum about life at the 
+minimum wage. She couldn't afford housing for herself and 3 sons. She 
+had to move in and out with relatives and friends. Her boys had to 
+constantly change schools and change friends. She could not afford 
+health care. Sheryl is a hardworking American, sick and tired of barely 
+living paycheck to paycheck, not making enough to get by.
+  Mr. Speaker, her day has come.
+  When we increase the minimum wage with this bill, from $5.15 per hour 
+to $7.25 per hour over 2 years, the poorest working families in this 
+country will see a $4,400 increase in their annual income--enough to 
+pay for 15 months of groceries for a family of three.
+  Thanks to this increase, in 2009, a family of four will move from 11 
+percent below the poverty line to 5 percent above the poverty line.
+  Thanks to this increase, 13 million workers will see their pay go up, 
+directly or indirectly. That includes 7.7 million women and 3.4 million 
+parents. Over 6.3 million children will see their parents' income rise.
+  This raise in wages is long overdue. Thanks to the hard work of 
+religious, civil rights, labor,
+
+[[Page 14328]]
+
+and community organizations--and American voters and working families--
+it is finally coming to pass.
+  I'm proud of the work this Democratic Congress has done. This House, 
+under new leadership, is putting working families and America's middle 
+class first. What a change that is--and we've only just begun.
+  Ms. JACKSON-LEE of Texas. Mr. Speaker, I rise in support of H.R. 
+2206, the ``U.S. Troop Readiness, Veterans' Care, Katrina Recovery, and 
+Iraq Accountability Act of 2007.'' I concur in House Amendment No.1 to 
+the Senate Amendment because I believe in doing all we can to support 
+our troops. But I cannot concur in House Amendment No. 2 to the Senate 
+Amendment because there is a limit to the patience of the American 
+people. They have been waiting for more than four years for the Bush 
+Administration to develop a successful policy in Iraq and for the Iraqi 
+Government to take responsibility for the security of the Iraqi people.
+  Mr. Speaker, the legislation before us makes emergency supplemental 
+appropriations for the Iraq War and additional supplemental 
+appropriations for agricultural and other emergency assistance for the 
+fiscal year ending September 30, 2007.
+  This emergency supplemental provides $120 billion primarily for the 
+wars in Iraq and Afghanistan and for improving the health care for 
+returning soldiers and veterans. It also provides for the continued 
+recovery of the Gulf Coast from the devastation wrought by Hurricane 
+Katrina and fills major gaps in homeland security.
+  Specifically, the agreement provides $99.5 billion for the Defense 
+Department for continued military operations in Iraq and Afghanistan. 
+The legislation includes a $1 billion increase for the National Guard 
+and Reserve equipment and $1.1 billion for military housing. The 
+supplemental legislation provides $3 billion ($1.2 billion more than 
+the President's request) for the purchase of Mine Resistant Ambush 
+Protected Vehicles (MRAP)--vehicles designed to withstand roadside 
+bombs.
+  Mr. Speaker, included in the bill is $4.8 billion to ensure that 
+troops and veterans receive the health care that they have earned with 
+their service and another $6.4 billion to rebuild the Gulf Coast and 
+help the victims of Hurricanes Katrina and Rita. There is also 
+emergency funding for the State Children's Health Insurance Program 
+(SCHIP) totals more than $650 million. Finally, Homeland security 
+investments total more than $1 billion, including funds for port 
+security and mass transit security, for explosives detection equipment 
+at airports, and for several initiatives in the 9/11 bill that recently 
+passed the Senate.
+  Most important, Mr. Speaker, this legislation includes the benchmarks 
+and reporting requirements that were contained in the Warner Amendment 
+in the Senate, which specifies 18 benchmarks for measuring progress by 
+the Iraqi government, including the benchmarks that President Bush laid 
+out on January 10. But they do not include the timelines included in 
+prior versions of the supplemental that Americans approve, support, and 
+demand.
+  The Warner Amendment requires the President to submit two reports to 
+Congress on the progress of the Iraqi government on meeting the 18 
+benchmarks--one by July 15, 2005 and the second by September 15, 2007. 
+If the President fails to certify progress on each of the 18 benchmarks 
+in the September report, the Iraqi government would lose the economic 
+aid being provided by the United States unless the President exercises 
+his authority to waive the certification requirement in accordance with 
+the procedures set forth in the bill. The amendment also requires an 
+independent report from the General Accounting Office by September 1, 
+2007 on the progress of the Iraqi government in meeting the 18 
+benchmarks.
+  Mr. Speaker, in vetoing the previous emergency supplemental, the 
+President claimed it will ``undermine our troops and threaten the 
+safety of the American people here at home.'' Coming from an 
+Administration that has been wrong on every important question relating 
+to the decision to launch the Iraq War as well the conduct of it, this 
+claim is laughable. It is nearly as ridiculous as the President's often 
+stated claim of ``progress'' in Iraq. The facts, of course, are 
+otherwise.
+  The U.S. death toll in Iraq reached 83 in just the first 7 days of 
+May--making it the deadliest month of the year and one of the deadliest 
+of the entire war. It is therefore little wonder that nearly 70% of 
+Americans disapprove of the way the President is handling the war. But 
+more important, the President's claim that the Iraq Accountability Act 
+undermines our troops and threatens the safety of the American people 
+here at home is simply not true.
+  Mr. Speaker, to date, the war in Iraq has lasted longer than 
+America's involvement in World War II, the greatest conflict in all of 
+human history. But there is a difference. The Second World War ended in 
+complete and total victory for the United States and its allies. But 
+then again, in that conflict America was led by FDR, a great Commander-
+in-Chief, who had a plan to win the war and secure the peace, listened 
+to his generals, and sent troops in sufficient numbers and sufficiently 
+trained and equipped to do the job.
+  As a result of the colossal miscalculation in deciding to invade 
+Iraq, the loss of public trust resulting from the misrepresentation of 
+the reasons for launching that invasion, and the breath taking 
+incompetence in mismanaging the occupation of Iraq, the Armed Forces 
+and the people of the United States have suffered incalculable damage.
+  The war in Iraq has claimed the lives of 3,431 brave servicemen and 
+women. More than 25,378 Americans have been wounded, many suffering the 
+most horrific injuries. American taxpayers have paid nearly $400 
+billion to sustain this misadventure.
+  By vetoing the bipartisan Iraq Accountability Act last week, the 
+President vetoed the will of the American people. The President vetoed 
+a responsible funding bill for the troops that would have provided more 
+funding for our troops and military readiness than even the President 
+requested.
+  By vetoing the Iraq Accountability Act, the President rejected a bill 
+that reflects the will of the American people to wind down this war. By 
+vetoing the Iraq Accountability Act, the President turned a deaf ear to 
+the loud message sent by the American people last November.
+  That is why I will proudly vote for H.R. 2206. This legislation 
+places the responsibility for bringing peace and security where it 
+clearly belongs and that is squarely on the shoulders of the Iraqi 
+government. The legislation crafted by the Chairman of the 
+Appropriations Committee in consultation with the leadership and the 
+members of the Democratic Caucus moves us closer to the day when we end 
+the misguided invasion, war, and occupation of Iraq. It puts us on the 
+glide path to the day when our troops come home in honor and triumph 
+and where we can ``care for him who has borne the battle, and for his 
+widow and orphan.''
+  Mr. Speaker, in passing H.R. 2206, this House will be doing the 
+business and expressing the will of the American people. In the latest 
+CBS News/New York Times poll, 64 percent of Americans favor a timetable 
+that provides for the withdrawal of U.S. troops from Iraq in 2008. In 
+the same poll, 57 percent of Americans believe that Congress, not the 
+President, should have the last say when it comes to setting troop 
+levels in Iraq.
+  Mr. Speaker, in passing H.R. 2206, Congress is fulfilling its 
+constitutional responsibilities and exercising the first check on the 
+President's power in six years. As Iraq Study Group Co-Chairman Lee 
+Hamilton has pointed out, ``The founders of our nation never envisioned 
+an unfettered president making unilateral decisions about American 
+lives and military power. They did indeed make the president the 
+commander in chief, but they gave to Congress the responsibility for 
+declaring war, for making rules governing our land and naval forces, 
+for overseeing policy, and of course the ability to fund war or to 
+cease funding it.''
+  Mr. Speaker, the President demands a blank check to escalate the war 
+in Iraq against the will of the Congress and the American people. The 
+Constitution does not require it, he certainly has not earned it, and I 
+am not prepared to give it to him. That is why I cannot concur in House 
+Amendment No. 2 to the Senate Amendment. I do concur in House Amendment 
+No. 1 and I urge all members to join me.
+  Mr. ETHERIDGE. Mr. Speaker, I rise in support of this final 
+legislation to provide emergency supplemental appropriations for Fiscal 
+Year 2007. While this final compromise is not perfect, I will vote for 
+it to provide necessary funds for our troops in the field as well as 
+meet other important priorities.
+  This bill contains more funding than the President requested for 
+military health care and veterans health care. It expresses the support 
+of the U.S. Congress for a new direction in Iraq by tying economic aid 
+to 18 specific benchmarks on political, security and economic progress, 
+although it provides the President the waiver authority he negotiated 
+before agreeing to sign the bill. This bill also includes the first 
+raise in the minimum wage in a decade as well as critical funding for 
+domestic needs like hurricane recovery efforts.
+  I will continue to work with my colleagues in Congress from both 
+political parties as well as the President and the Administration to 
+provide a new direction in Iraq and to meet the critical needs of the 
+people of North Carolina's Second Congressional District.
+  Mr. CUMMINGS. Mr. Speaker, despite my opposition to the war in Iraq, 
+I supported the
+
+[[Page 14329]]
+
+passage of the U.S. Troop Readiness, Veterans' Health, and Iraq 
+Accountability Act of 2007, H.R. 1591, when it came before the House in 
+March. It was a difficult decision but I had to vote my conscience.
+  For the first time we were requiring accountability standards by 
+establishing benchmarks and a timeframe for redeployment. Another 
+persuasive factor in supporting H.R. 1591 was the funding for body 
+armor, Mine Resistant Ambush Protection vehicles, MRAP, traumatic brain 
+injury, TBI, and post-traumatic stress disorder, PTSD, and veterans 
+health care. Finally, I was encouraged by the fact that we were taking 
+proper care of our soldiers by ensuring that they were properly rested, 
+trained, and equipped. Unfortunately, President Bush vetoed this bill 
+that could not be overturned by the House.
+  A few weeks ago on May 10, Congress considered and passed version two 
+of the Iraq Supplemental, H.R. 2206. This bill would have provided 
+$42.8 billion for the Iraq War. Funding would have supported the 
+immediate needs of the U.S. military through July. However, shortly 
+before the August recess Congress would have to decide whether to 
+release an additional $52.8 billion of war spending that would last 
+until September.
+  This measure would have placed needed limitations on access to 
+funding based upon the progress reports provided to Congress by the 
+President thereby, bringing the President and his administration back 
+to reality by enforcing accountability standards. However, in an effort 
+to avoid another veto by President Bush, H.R. 2206 has been butchered 
+into a bill hallow and reintroduced without needed provisions that 
+would safeguard this country from continuing a seemingly endless 
+military operations in Iraq. Therefore, I voted in favor of Amendment 1 
+to H.R. 2206 and voted against Amendment 2.
+  One of my primary concerns has been to ensure that the troops receive 
+the equipment, rest and training they require and surely deserve. In 
+keeping in line with these key concerns, I voted in support of 
+Amendment 1 to H.R. 2206, which provides support for defense and the 
+global war on terror totaling over $14.489 billion in funding namely, 
+$617 million in state and foreign operations, $3.137 billion for BRAC 
+(fully-funded), $1.789 billion in Veterans Medical Care (including 
+funding for Walter Reed Medical Center), and $1.050 billion for 
+Homeland Security.
+  Moreover, Amendment 1 supports our troops by appropriating $343 
+million for our military personnel in the U.S. Army, $408 million for 
+our service members in the U.S. Navy, about $108.9 million for our 
+troops in the Marine Corps, $139.3 million for those in the U.S. Air 
+Force and marked increases in funding for our reserve personnel. 
+Furthermore, it protects our troops on the ground in Iraq and 
+Afghanistan by supplying over $258 million for defense-wide MRAP 
+vehicles as well as over $2.6 billion in funding for the armed forces 
+to purchase this same equipment.
+  Amendment 1 also resolves many of the shortcomings of our military 
+medical healthcare facilities and defense health programs inability to 
+treat and care for our men and women in uniform returning from combat 
+with injuries. In doing so, it allots $1.878 billion for our Defense 
+Health Programs specifically, $6 million for treatment of TBI and those 
+suffering from PTSD, the signature injuries of our troops returning 
+from Iraq and Afghanistan. It also provides needed oversight of our 
+military medical treatment facilities, military housing, medical hold 
+personnel and housing provided to them by requiring a series of 
+inspections be conducted by the Secretary of Defense thereby, ensuring 
+that our service members never again return to military facilities at 
+home that are substandard.
+  Amendment 1 also provides $393 million in funding to the State 
+Children's Health Insurance Programs, SCHIP, a vital program to the 
+Nation and to the State of Maryland.
+  Currently, over 137,000 children in Maryland are without health 
+insurance. Fully funding this program will be a great step toward 
+providing universal health care to our neediest children. I should also 
+note that Amendment 1 also provides needed agricultural, FEMA and 
+general Gulf Coast recovery support for those still suffering from the 
+widespread damage caused by Hurricane Katrina by appropriating over 
+$2.87 billion in financial support.
+  President Bush can no longer expect a blank check without any 
+accountability given the current circumstances in Iraq. Over 3,400 
+soldiers have died and the number increases each day. We have been 
+working diligently to negotiate with the President but he has 
+constantly failed to meet us halfway, despite the clear need for a new 
+direction and policy in Iraq. His mandate to have a bill with no 
+strings attached as to time lines for redeployment or one absent of key 
+benchmarks measuring our progress with accountability and needed 
+oversight measures included is unreasonable and irresponsible. This is 
+exactly why I firmly disapprove of Amendment 2.
+  The President has outlined the need for benchmarks himself 
+particularly, in a January 13, 2007 radio address stating that 
+``America will hold the Iraqi Government to benchmarks it has 
+announced. These include taking responsibility for security in all of 
+Iraq's provinces by November, passing legislation to share oil revenues 
+among all Iraqis, and spending $10 billion of its own money on 
+reconstruction projects that will create new jobs.'' These are strong 
+commitments. And the Iraqi Government knows that it must meet them, or 
+lose the support of the Iraqi and the American people.
+  The President must be held accountable. No more blank checks. It is 
+our duty to protect our brave men and women in uniform. Therefore, I 
+call on my colleagues listen to the American people and vote against 
+Amendment 2.
+  Mr. TIAHRT. Mr. Speaker, February 5th, the Department of Defense made 
+a request for the resources and flexibility required to successfully 
+prosecute the Global War on Terror. For 3\1/2\ months Congress has 
+failed in this fundamental, constitutional responsibility. Today, I am 
+pleased to finally support H.R. 2206, the FY 2007 Iraq and Afghanistan 
+War Supplemental Appropriations bill. I believe this legislation 
+strikes the right balance of unfettered access to resources by our 
+military and the establishment of guiding benchmarks for the new Iraqi 
+government. In addition, I applaud the inclusion of disaster relief 
+funding for Greensburg, Kansas, and an increase in the Federal minimum 
+wage.
+  I want to thank Chairman Obey and Ranking Member Lewis for their hard 
+work on this legislation. Putting aside political grandstanding and 
+maneuvering, we have finally come together to produce legislation that 
+provides our soldiers with the funding they need, while providing the 
+flexibility our commanders in Iraq require--showing the commitment of 
+this Congress to success in Iraq and the broader War on Terror.
+  Our Soldiers and Marines are in desperate need of funding for 
+essential procurement items, operations and maintenance, and military 
+paychecks and benefits. Among other things, this legislation will fuel 
+our trucks, feed our soldiers, provide imminent danger pay, and arm 
+them against our nation's enemies. This funding comes without 
+unrealistic and dangerous strings that could have placed lives of our 
+servicemen and women in jeopardy.
+  This Congress is finally showing its commitment to success in the 
+Global War on Terror. We must never forget that this war was started by 
+Muslim extremists and has been waged against the United States and its 
+citizens since the 1970s. However, almost every skirmish and battle 
+prior to the invasion of Afghanistan in 2001 found the United States on 
+the defensive and on the losing side. Does this House remember the 
+killing of 241 Marines in Beirut in 1983? The U.S. Embassy bombing in 
+Lisbon in 1986? The first World Trade Center bombing in 1993? The 
+Khobar Towers bombing in 1996? The bombing of our U.S. Embassies in 
+Africa in 1998? Or the bombing of the USS Cole in 2000? Our ignorance 
+of these events culminated in the attacks on September 11th, 2001. Each 
+one of these was a battle in this war we now face. I hope this House 
+finally understands we cannot win this war on the defensive.
+  The terrorists took the fight to us for decades; now we must take the 
+fight to the terrorists. I do not want this war. But rest assured--this 
+war will happen regardless of our presence in Iraq or Afghanistan. The 
+question is, ``Does this fight happen on the streets of Bagdad or the 
+streets of New York City or Wichita, Kansas?'' We must take the fight 
+to the enemy. We must stay on the offense. Fortunately, this 
+legislation now allows the United States to stay on the offensive in 
+this global struggle.
+  In addition to providing critical funding for our military, this 
+legislation provides $40 million of disaster relief funding for 
+Greensburg, Kansas, which was completely destroyed during a recent 
+tornado. The most devastating natural disaster to strike Kansas in 
+years, Greensburg is a city without schools, businesses, or houses. 
+However, the people of Greensburg have a passion and vision to rebuild 
+their town, and I am pleased that this Congress is committing the 
+resources required to begin that process.
+  Mr. Speaker, I want to personally thank Chairman Obey and Ranking 
+Member Lewis for working with me and the Kansas delegation to include 
+this funding for Greensburg. The tornado took away so much from this 
+community, but it did not take away the Kansan spirit of big dreams and 
+hard work. Greensburg will be rebuilt, and the funding
+
+[[Page 14330]]
+
+provided here today will help make that happen.
+  Not only do the people of Greensburg receive support in this 
+legislation, but the workers in Wichita and around the country will 
+receive a well-deserved pay raise. I stand in support of raising the 
+Federal minimum wage to $7.25 per hour in conjunction with providing 
+associated tax relief for small businesses.
+  However, when dealing with the minimum wage, it is imperative that 
+small businesses be provided with associated tax relief. When small and 
+family-owned businesses are forced to shoulder increased costs, they 
+have no choice but to hire fewer workers, reduce current worker 
+benefits, and pass along the costs to consumers in the form of higher 
+prices. Therefore, providing associated tax relief will allow the 
+workers we intend to help keep their jobs. I applaud this bill for 
+providing the minimum wage increase with the associated tax relief
+  Mr. Speaker, our Nation is facing great challenges from fighting the 
+Global War on Terror to rebuilding communities devastated by natural 
+disasters. By working together in a bipartisan approach, Congress can 
+do the right thing. This Iraq and Afghanistan Supplemental 
+Appropriations bill provides our troops the resources they need, helps 
+rebuild Greensburg, and gives a well-deserved raise to $5.6 million 
+people. For that, I am pleased to offer my support.
+  The SPEAKER pro tempore. All time for debate has expired.
+  Pursuant to House Resolution 438, the previous question is ordered.
+  The Chair will divide the question of adoption of the motion between 
+the two House amendments.
+  The question is: Will the House concur in the amendment of the Senate 
+with House amendment No. 1 printed in House Report 110-168?
+  The question was taken; and the Speaker pro tempore announced that 
+the ayes appeared to have it.
+  Mr. OBEY. Mr. Speaker, I object to the vote on the ground that a 
+quorum is not present and make the point of order that a quorum is not 
+present.
+  The SPEAKER pro tempore. Evidently a quorum is not present.
+  The Sergeant at Arms will notify absent Members.
+  Pursuant to clause 9 of rule XX, this 15-minute vote on the first 
+portion of the divided question will be followed by a 5-minute vote, if 
+ordered, on the second portion of the divided question.
+  The vote was taken by electronic device, and there were--yeas 348, 
+nays 73, not voting 12, as follows:
+
+                             [Roll No. 424]
+
+                               YEAS--348
+
+     Abercrombie
+     Ackerman
+     Aderholt
+     Akin
+     Alexander
+     Allen
+     Altmire
+     Andrews
+     Arcuri
+     Baca
+     Bachmann
+     Baird
+     Baker
+     Baldwin
+     Barrow
+     Bartlett (MD)
+     Barton (TX)
+     Bean
+     Becerra
+     Berkley
+     Berry
+     Biggert
+     Bilbray
+     Bilirakis
+     Bishop (GA)
+     Bishop (NY)
+     Blumenauer
+     Blunt
+     Bonner
+     Bono
+     Boozman
+     Boren
+     Boswell
+     Boucher
+     Boustany
+     Boyd (FL)
+     Boyda (KS)
+     Brady (PA)
+     Braley (IA)
+     Brown (SC)
+     Brown, Corrine
+     Buchanan
+     Burgess
+     Butterfield
+     Cannon
+     Capito
+     Capps
+     Capuano
+     Cardoza
+     Carnahan
+     Carney
+     Carson
+     Carter
+     Castle
+     Castor
+     Chandler
+     Clarke
+     Clay
+     Cleaver
+     Clyburn
+     Cohen
+     Cole (OK)
+     Conaway
+     Conyers
+     Cooper
+     Costa
+     Costello
+     Courtney
+     Cramer
+     Crenshaw
+     Crowley
+     Cubin
+     Cuellar
+     Cummings
+     Davis (AL)
+     Davis (CA)
+     Davis (IL)
+     Davis (KY)
+     Davis, Lincoln
+     DeFazio
+     Delahunt
+     DeLauro
+     Dent
+     Diaz-Balart, L.
+     Diaz-Balart, M.
+     Dicks
+     Dingell
+     Doggett
+     Donnelly
+     Doolittle
+     Doyle
+     Drake
+     Edwards
+     Ehlers
+     Ellison
+     Ellsworth
+     Emanuel
+     English (PA)
+     Eshoo
+     Etheridge
+     Everett
+     Fallin
+     Farr
+     Fattah
+     Ferguson
+     Filner
+     Forbes
+     Fortenberry
+     Fossella
+     Frank (MA)
+     Gallegly
+     Gerlach
+     Giffords
+     Gillibrand
+     Gillmor
+     Gohmert
+     Gonzalez
+     Goode
+     Goodlatte
+     Gordon
+     Granger
+     Graves
+     Green, Al
+     Green, Gene
+     Grijalva
+     Gutierrez
+     Hall (NY)
+     Hall (TX)
+     Hare
+     Harman
+     Hastings (FL)
+     Hastings (WA)
+     Hayes
+     Heller
+     Herger
+     Herseth Sandlin
+     Higgins
+     Hill
+     Hinchey
+     Hinojosa
+     Hirono
+     Hobson
+     Hodes
+     Holden
+     Holt
+     Honda
+     Hooley
+     Hoyer
+     Hulshof
+     Hunter
+     Inslee
+     Israel
+     Jackson (IL)
+     Jackson-Lee (TX)
+     Jefferson
+     Jindal
+     Johnson (GA)
+     Johnson (IL)
+     Johnson, E. B.
+     Kagen
+     Kanjorski
+     Kaptur
+     Keller
+     Kennedy
+     Kildee
+     Kilpatrick
+     Kind
+     King (NY)
+     Kirk
+     Klein (FL)
+     Kline (MN)
+     Knollenberg
+     Kuhl (NY)
+     Lampson
+     Langevin
+     Lantos
+     Larsen (WA)
+     Larson (CT)
+     Latham
+     LaTourette
+     Lee
+     Levin
+     Lewis (KY)
+     Lipinski
+     LoBiondo
+     Loebsack
+     Lofgren, Zoe
+     Lowey
+     Lucas
+     Lynch
+     Mahoney (FL)
+     Maloney (NY)
+     Manzullo
+     Marchant
+     Markey
+     Marshall
+     Matheson
+     Matsui
+     McCarthy (NY)
+     McCaul (TX)
+     McCollum (MN)
+     McCotter
+     McCrery
+     McDermott
+     McGovern
+     McHugh
+     McIntyre
+     McNerney
+     McNulty
+     Meehan
+     Meek (FL)
+     Meeks (NY)
+     Melancon
+     Michaud
+     Miller (FL)
+     Miller (MI)
+     Miller (NC)
+     Miller, George
+     Mitchell
+     Mollohan
+     Moore (KS)
+     Moore (WI)
+     Moran (KS)
+     Moran (VA)
+     Murphy (CT)
+     Murphy, Patrick
+     Murphy, Tim
+     Murtha
+     Musgrave
+     Nadler
+     Napolitano
+     Neal (MA)
+     Neugebauer
+     Obey
+     Olver
+     Ortiz
+     Pallone
+     Pascrell
+     Pastor
+     Payne
+     Pearce
+     Pelosi
+     Perlmutter
+     Peterson (MN)
+     Peterson (PA)
+     Petri
+     Pickering
+     Platts
+     Poe
+     Pomeroy
+     Porter
+     Price (NC)
+     Pryce (OH)
+     Rahall
+     Ramstad
+     Rangel
+     Regula
+     Rehberg
+     Reichert
+     Renzi
+     Reyes
+     Reynolds
+     Rodriguez
+     Rogers (KY)
+     Rogers (MI)
+     Ros-Lehtinen
+     Ross
+     Rothman
+     Roybal-Allard
+     Ruppersberger
+     Rush
+     Ryan (OH)
+     Salazar
+     Sali
+     Sanchez, Linda T.
+     Sanchez, Loretta
+     Sarbanes
+     Saxton
+     Schakowsky
+     Schiff
+     Schwartz
+     Scott (GA)
+     Scott (VA)
+     Serrano
+     Sessions
+     Sestak
+     Shays
+     Shea-Porter
+     Sherman
+     Shuler
+     Simpson
+     Sires
+     Skelton
+     Slaughter
+     Smith (NE)
+     Smith (NJ)
+     Smith (TX)
+     Smith (WA)
+     Snyder
+     Solis
+     Souder
+     Space
+     Spratt
+     Stark
+     Stupak
+     Sutton
+     Tanner
+     Tauscher
+     Taylor
+     Terry
+     Thompson (CA)
+     Thompson (MS)
+     Thornberry
+     Tiahrt
+     Tiberi
+     Tierney
+     Towns
+     Turner
+     Udall (CO)
+     Udall (NM)
+     Upton
+     Van Hollen
+     Velazquez
+     Visclosky
+     Walberg
+     Walden (OR)
+     Walsh (NY)
+     Walz (MN)
+     Wasserman Schultz
+     Waters
+     Watson
+     Watt
+     Waxman
+     Weiner
+     Welch (VT)
+     Weller
+     Wexler
+     Whitfield
+     Wicker
+     Wilson (NM)
+     Wilson (OH)
+     Wolf
+     Woolsey
+     Wu
+     Wynn
+     Yarmuth
+     Young (AK)
+     Young (FL)
+
+                                NAYS--73
+
+     Bachus
+     Barrett (SC)
+     Bishop (UT)
+     Blackburn
+     Boehner
+     Brady (TX)
+     Brown-Waite, Ginny
+     Burton (IN)
+     Buyer
+     Calvert
+     Camp (MI)
+     Cantor
+     Chabot
+     Coble
+     Culberson
+     Davis, David
+     Davis, Tom
+     Deal (GA)
+     Dreier
+     Duncan
+     Feeney
+     Flake
+     Foxx
+     Franks (AZ)
+     Frelinghuysen
+     Garrett (NJ)
+     Gingrey
+     Hastert
+     Hensarling
+     Hoekstra
+     Inglis (SC)
+     Issa
+     Johnson, Sam
+     Jordan
+     King (IA)
+     Kingston
+     Kucinich
+     LaHood
+     Lamborn
+     Lewis (CA)
+     Linder
+     Lungren, Daniel E.
+     Mack
+     McCarthy (CA)
+     McHenry
+     McKeon
+     Mica
+     Miller, Gary
+     Myrick
+     Nunes
+     Paul
+     Pence
+     Pitts
+     Price (GA)
+     Putnam
+     Radanovich
+     Rogers (AL)
+     Rohrabacher
+     Roskam
+     Royce
+     Ryan (WI)
+     Schmidt
+     Sensenbrenner
+     Shadegg
+     Shimkus
+     Shuster
+     Stearns
+     Sullivan
+     Tancredo
+     Wamp
+     Weldon (FL)
+     Westmoreland
+     Wilson (SC)
+
+                             NOT VOTING--12
+
+     Berman
+     Campbell (CA)
+     Davis, Jo Ann
+     DeGette
+     Emerson
+     Engel
+     Gilchrest
+     Jones (NC)
+     Jones (OH)
+     Lewis (GA)
+     McMorris Rodgers
+     Oberstar
+
+                              {time}  1839
+
+  Messrs. PENCE, BURTON of Indiana and BACHUS changed their vote from 
+``yea'' to ``nay.''
+  Messrs. McDERMOTT, EHLERS, DAVIS of Kentucky, HUNTER, SOUDER, KELLER 
+of Florida, Mrs. DRAKE and Ms. SCHAKOWSKY changed their vote from 
+``nay'' to ``yea.''
+  So the first portion of the divided question was agreed to.
+  The result of the vote was announced as above recorded.
+  A motion to reconsider was laid on the table.
+  Stated for:
+  Mr. GILCHREST. Mr. Speaker, on rollcall No. 424 I was inadvertently 
+detained. Had I been present, I would have voted ``yea.''
+  Mr. JONES of North Carolina. Mr. Speaker, on rollcall No. 424 I was 
+unavoidably detained. Had I been present, I would have voted ``yea.''
+  The SPEAKER pro tempore. The Chair will now put the question on the 
+second portion of the divided question.
+  The question is: Will the House concur in the amendment of the Senate 
+with House amendment No. 2 printed in House Report 110-168?
+  The question was taken; and the Speaker pro tempore announced that 
+the ayes appeared to have it.
+
+
+                             Recorded Vote
+
+  Mr. OBEY. Mr. Speaker, I demand a recorded vote.
+  A recorded vote was ordered.
+  The SPEAKER pro tempore. This will be a 5-minute vote.
+
+[[Page 14331]]
+
+  The vote was taken by electronic device, and there were--ayes 280, 
+noes 142, not voting 11, as follows:
+
+                             [Roll No. 425]
+
+                               AYES--280
+
+     Aderholt
+     Akin
+     Alexander
+     Altmire
+     Andrews
+     Baca
+     Bachmann
+     Bachus
+     Baird
+     Baker
+     Barrett (SC)
+     Barrow
+     Bartlett (MD)
+     Barton (TX)
+     Bean
+     Berkley
+     Berry
+     Biggert
+     Bilbray
+     Bilirakis
+     Bishop (GA)
+     Bishop (UT)
+     Blackburn
+     Blunt
+     Boehner
+     Bonner
+     Bono
+     Boozman
+     Boren
+     Boswell
+     Boucher
+     Boustany
+     Boyd (FL)
+     Boyda (KS)
+     Brady (TX)
+     Brown (SC)
+     Brown-Waite, Ginny
+     Buchanan
+     Burgess
+     Burton (IN)
+     Butterfield
+     Buyer
+     Calvert
+     Camp (MI)
+     Cannon
+     Cantor
+     Capito
+     Cardoza
+     Carney
+     Carter
+     Castle
+     Chabot
+     Chandler
+     Clyburn
+     Coble
+     Cole (OK)
+     Conaway
+     Cooper
+     Costa
+     Cramer
+     Crenshaw
+     Cubin
+     Cuellar
+     Culberson
+     Davis (CA)
+     Davis (KY)
+     Davis, David
+     Davis, Lincoln
+     Davis, Tom
+     Deal (GA)
+     Dent
+     Diaz-Balart, L.
+     Diaz-Balart, M.
+     Dicks
+     Dingell
+     Donnelly
+     Doolittle
+     Drake
+     Dreier
+     Edwards
+     Ehlers
+     Ellsworth
+     Emanuel
+     English (PA)
+     Etheridge
+     Everett
+     Fallin
+     Feeney
+     Ferguson
+     Flake
+     Forbes
+     Fortenberry
+     Fossella
+     Foxx
+     Franks (AZ)
+     Frelinghuysen
+     Gallegly
+     Garrett (NJ)
+     Gerlach
+     Giffords
+     Gilchrest
+     Gillibrand
+     Gillmor
+     Gingrey
+     Gohmert
+     Gonzalez
+     Goode
+     Goodlatte
+     Gordon
+     Granger
+     Graves
+     Green, Gene
+     Hall (TX)
+     Hastert
+     Hastings (WA)
+     Hayes
+     Heller
+     Hensarling
+     Herger
+     Herseth Sandlin
+     Hill
+     Hinojosa
+     Hobson
+     Hoekstra
+     Holden
+     Hoyer
+     Hulshof
+     Hunter
+     Inglis (SC)
+     Issa
+     Jindal
+     Johnson (IL)
+     Johnson, Sam
+     Jones (NC)
+     Jordan
+     Kagen
+     Kanjorski
+     Keller
+     Kildee
+     Kind
+     King (IA)
+     King (NY)
+     Kingston
+     Kirk
+     Kline (MN)
+     Knollenberg
+     Kuhl (NY)
+     LaHood
+     Lamborn
+     Lampson
+     Larsen (WA)
+     Latham
+     LaTourette
+     Levin
+     Lewis (CA)
+     Lewis (KY)
+     Linder
+     Lipinski
+     LoBiondo
+     Lucas
+     Lungren, Daniel E.
+     Mack
+     Mahoney (FL)
+     Manzullo
+     Marchant
+     Marshall
+     Matheson
+     McCarthy (CA)
+     McCaul (TX)
+     McCotter
+     McCrery
+     McHenry
+     McHugh
+     McIntyre
+     McKeon
+     Meek (FL)
+     Melancon
+     Mica
+     Miller (FL)
+     Miller (MI)
+     Miller, Gary
+     Mitchell
+     Mollohan
+     Moore (KS)
+     Moran (KS)
+     Murphy, Tim
+     Murtha
+     Musgrave
+     Myrick
+     Neugebauer
+     Nunes
+     Ortiz
+     Pearce
+     Pence
+     Peterson (MN)
+     Peterson (PA)
+     Petri
+     Pickering
+     Pitts
+     Platts
+     Poe
+     Pomeroy
+     Porter
+     Price (GA)
+     Pryce (OH)
+     Putnam
+     Radanovich
+     Rahall
+     Ramstad
+     Regula
+     Rehberg
+     Reichert
+     Renzi
+     Reyes
+     Reynolds
+     Rodriguez
+     Rogers (AL)
+     Rogers (KY)
+     Rogers (MI)
+     Rohrabacher
+     Ros-Lehtinen
+     Roskam
+     Ross
+     Royce
+     Ruppersberger
+     Ryan (WI)
+     Salazar
+     Sali
+     Saxton
+     Schmidt
+     Schwartz
+     Scott (GA)
+     Sensenbrenner
+     Sessions
+     Sestak
+     Shadegg
+     Shays
+     Shimkus
+     Shuler
+     Shuster
+     Simpson
+     Skelton
+     Smith (NE)
+     Smith (NJ)
+     Smith (TX)
+     Snyder
+     Souder
+     Space
+     Spratt
+     Stearns
+     Stupak
+     Sullivan
+     Tancredo
+     Tanner
+     Taylor
+     Terry
+     Thompson (MS)
+     Thornberry
+     Tiahrt
+     Tiberi
+     Turner
+     Udall (CO)
+     Upton
+     Visclosky
+     Walberg
+     Walden (OR)
+     Walsh (NY)
+     Walz (MN)
+     Wamp
+     Wasserman Schultz
+     Weldon (FL)
+     Westmoreland
+     Whitfield
+     Wicker
+     Wilson (NM)
+     Wilson (OH)
+     Wilson (SC)
+     Wolf
+     Young (AK)
+     Young (FL)
+
+                               NOES--142
+
+     Abercrombie
+     Ackerman
+     Allen
+     Arcuri
+     Baldwin
+     Becerra
+     Bishop (NY)
+     Blumenauer
+     Brady (PA)
+     Braley (IA)
+     Brown, Corrine
+     Capps
+     Capuano
+     Carnahan
+     Carson
+     Castor
+     Clarke
+     Clay
+     Cleaver
+     Cohen
+     Conyers
+     Costello
+     Courtney
+     Crowley
+     Cummings
+     Davis (AL)
+     Davis (IL)
+     DeFazio
+     Delahunt
+     DeLauro
+     Doggett
+     Doyle
+     Duncan
+     Ellison
+     Eshoo
+     Farr
+     Fattah
+     Filner
+     Frank (MA)
+     Green, Al
+     Grijalva
+     Gutierrez
+     Hall (NY)
+     Hare
+     Harman
+     Hastings (FL)
+     Higgins
+     Hinchey
+     Hirono
+     Hodes
+     Holt
+     Honda
+     Hooley
+     Inslee
+     Israel
+     Jackson (IL)
+     Jackson-Lee (TX)
+     Jefferson
+     Johnson (GA)
+     Johnson, E. B.
+     Kaptur
+     Kennedy
+     Kilpatrick
+     Klein (FL)
+     Kucinich
+     Langevin
+     Lantos
+     Larson (CT)
+     Lee
+     Loebsack
+     Lofgren, Zoe
+     Lowey
+     Lynch
+     Maloney (NY)
+     Markey
+     Matsui
+     McCarthy (NY)
+     McCollum (MN)
+     McDermott
+     McGovern
+     McNerney
+     McNulty
+     Meehan
+     Meeks (NY)
+     Michaud
+     Miller (NC)
+     Miller, George
+     Moore (WI)
+     Moran (VA)
+     Murphy (CT)
+     Murphy, Patrick
+     Nadler
+     Napolitano
+     Neal (MA)
+     Obey
+     Olver
+     Pallone
+     Pascrell
+     Pastor
+     Paul
+     Payne
+     Pelosi
+     Perlmutter
+     Price (NC)
+     Rangel
+     Rothman
+     Roybal-Allard
+     Rush
+     Ryan (OH)
+     Sanchez, Linda T.
+     Sanchez, Loretta
+     Sarbanes
+     Schakowsky
+     Schiff
+     Scott (VA)
+     Serrano
+     Shea-Porter
+     Sherman
+     Sires
+     Slaughter
+     Smith (WA)
+     Solis
+     Stark
+     Sutton
+     Tauscher
+     Thompson (CA)
+     Tierney
+     Towns
+     Udall (NM)
+     Van Hollen
+     Velazquez
+     Waters
+     Watson
+     Watt
+     Waxman
+     Weiner
+     Welch (VT)
+     Wexler
+     Woolsey
+     Wu
+     Wynn
+     Yarmuth
+
+                             NOT VOTING--11
+
+     Berman
+     Campbell (CA)
+     Davis, Jo Ann
+     DeGette
+     Emerson
+     Engel
+     Jones (OH)
+     Lewis (GA)
+     McMorris Rodgers
+     Oberstar
+     Weller
+
+
+                Announcement by the Speaker Pro Tempore
+
+  The SPEAKER pro tempore (during the vote). Members are advised there 
+are 2 minutes remaining in this vote.
+
+                              {time}  1845
+
+  So the second portion of the divided question was agreed to.
+  The result of the vote was announced as above recorded.
+  A motion to reconsider was laid on the table.
+  Stated for:
+  Mr. WELLER of Illinois. Mr. Speaker, on rollcall No. 425, I was 
+inadvertently detained. Had I been present, I would have voted ``aye.''
+
+                          ____________________
+```
