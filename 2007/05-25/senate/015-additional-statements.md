@@ -1,0 +1,45 @@
+---
+granule: CRECB-2007-pt10-Pg14377
+date: 2007-05-25
+edition: CRECB
+section: SENATE
+page: 14377
+---
+
+# ADDITIONAL STATEMENTS
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+                         HONORING MARK STEPHENS
+
+● Mr. AKAKA. Madam President, as chairman of the Federal 
+Workforce Subcommittee, I would like to recognize a milestone in the 
+career of a dedicated and committed public servant. Mark Stephens, an 
+attorney with the Postal Regulatory Commission's Office of General 
+Counsel, is retiring after a 33-year career. He joined the former 
+Postal Rate Commission in 1974, and participated in the analysis and 
+review of numerous postal rate, classification, and complaint cases.
+  Mark proudly notes that he started his Federal service career as a 
+letter carrier for the old Post Office Department where he worked for 
+three months during the summer of 1968. During his long tenure with the 
+Commission, Mark also served in the Office of Consumer Advocate.
+  Mark's colleagues point to his professionalism, analytical and 
+writing ability, and character as the embodiment of the finest 
+qualities of public service. His insights and thoughtful counsel made a 
+substantial contribution to the Commission's successful fulfillment of 
+its statutory responsibilities. Mark has been a valued colleague to 
+those at the Commission and his retirement will leave a void that will 
+be difficult to fill.
+  Upon leaving the Postal Regulatory Commission, Mark intends to spend 
+more time with his family, but will likely continue to monitor the 
+progress of the Postal Accountability and Enhancement Act of 2006 which 
+significantly enhanced the authority of the PRC. Mark Stephens is a 
+public servant who made a difference, and I wish him much future 
+success.●
+
+                          ____________________
+```
