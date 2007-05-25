@@ -1,0 +1,46 @@
+---
+granule: CREC-2007-05-25-pt1-PgE1179-3
+date: 2007-05-25
+edition: CREC
+section: EXTENSIONS
+page: E1179
+citation: 153 Cong. Rec. E1179
+---
+
+# IN HONOR OF MASTER SERGEANT KENNETH N. MACK, UNITED STATES MARINE CORPS RESERVE
+
+**Speaking:** Granger, Kay (G000377) [R-TX]
+
+```
+IN HONOR OF MASTER SERGEANT KENNETH N. MACK, UNITED STATES MARINE CORPS 
+                                RESERVE
+
+                                 ______
+                                 
+
+                            HON. KAY GRANGER
+
+                                of texas
+
+                    in the house of representatives
+
+                         Thursday, May 24, 2007
+
+  Ms. GRANGER. Madam Speaker, I rise today to honor the courage of a 
+brave and dedicated hero of the Fort Worth community and of our Nation.
+  MSgt Kenneth N. Mack was a proud United States Marine and a true 
+American hero who gallantly gave his life for his country on May 5, 
+2007, during combat operations in Al Anbar Province, Iraq.
+  Assigned to the Second Marine Expeditionary Force, Master Sergeant 
+Mack's 25 years of faithful service as a Marine are an inspiration to 
+all Americans, particularly the men he so ably led.
+  Kenneth Mack leaves behind his wife, Peggy, mother, Mahalia, and his 
+daughter and son.
+  Our community and Nation honor Kenneth Mack's memory and we are 
+grateful for his faithful and distinguished service to America.
+  MSgt Kenneth N. Mack will never be forgotten. His memory lives on 
+through his family, the Marines who were entrusted to his care and the 
+legacy of selfless service that he so bravely imprinted on our hearts.
+
+                          ____________________
+```

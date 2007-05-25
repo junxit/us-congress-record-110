@@ -1,0 +1,52 @@
+---
+granule: CREC-2007-05-25-pt1-PgE1173-3
+date: 2007-05-25
+edition: CREC
+section: EXTENSIONS
+page: E1173
+citation: 153 Cong. Rec. E1173
+---
+
+# IN HONOR OF CORPORAL RYAN A. BISHOP, UNITED STATES ARMY
+
+**Speaking:** Granger, Kay (G000377) [R-TX]
+
+```
+        IN HONOR OF CORPORAL RYAN A. BISHOP, UNITED STATES ARMY
+
+                                 ______
+                                 
+
+                            HON. KAY GRANGER
+
+                                of texas
+
+                    in the house of representatives
+
+                         Thursday, May 24, 2007
+
+  Ms. GRANGER. Madam Speaker, I rise today to honor the courage of a 
+brave and dedicated hero of the State of Texas and of our Nation.
+  Corporal Ryan A. Bishop was a United States Army soldier and a true 
+American hero who gallantly and selflessly gave his life for
+
+[[Page E1174]]
+
+ his country on April 14, 2007 during combat operations in Baghdad, 
+Iraq.
+  Assigned to the tenth mountain division, Ryan enlisted during time of 
+war, which speaks volumes about his character and patriotism.
+  Moreover, he was a leader and mentor to younger soldiers and his 
+posthumous promotion to Corporal exemplifies this spirit.
+  Corporal Bishop is survived by his wife, Melanie and his father, 
+Charles Bishop both of Tyler, Texas.
+  Our thoughts and prayers are with them and all of Ryan's family and 
+friends.
+  Our community and Nation honor Corporal Bishop's memory and we are 
+grateful for his faithful and distinguished service to America.
+  Corporal Bishop will not be forgotten. His memory lives on through 
+his family and the legacy of selfless service that he so bravely 
+imprinted on our hearts.
+
+                          ____________________
+```

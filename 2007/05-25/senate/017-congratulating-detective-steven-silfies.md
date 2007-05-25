@@ -1,0 +1,43 @@
+---
+granule: CREC-2007-05-25-pt1-PgS6952-3
+date: 2007-05-25
+edition: CREC
+section: SENATE
+page: S6952
+citation: 153 Cong. Rec. S6952
+---
+
+# CONGRATULATING DETECTIVE STEVEN SILFIES
+
+**Speaking:** Bunning, Jim (B001066) [R-KY]
+
+```
+                CONGRATULATING DETECTIVE STEVEN SILFIES
+
+● Mr. BUNNING. Madam President, today I congratulate Detective 
+Steven Silfies of Hopkinsville, KY. Detective Silfies was recently 
+recognized as the ``2006 Trooper of the Year'' by the Kentucky State 
+Police.
+  Detective Silfies is a 4-year veteran of the Kentucky State Police 
+Force. He is assigned to Kentucky State Police Post 2 located in 
+Madisonville, KY. Prior to joining the Kentucky State Police, Detective 
+Silfies served more than two decades in the U.S. Army. This includes 
+tours in both Afghanistan and Iraq. He also currently serves as de-
+facto liaison officer with personnel at Fort Campbell.
+  Detective Silfies truly exemplifies what it means to serve and 
+protect the citizens of Kentucky. During the past year, Detective 
+Silfies has played an integral role in the investigation of six 
+murders. His devotion has led to two arrests in those investigations. 
+Silfies also has played a prominent role in the solving of several cold 
+cases. These include an arrest in a 27-year-old case of an out-of-State 
+resident. Detective Silfies took a leading role in another cold case 
+involving an out-of-State resident. This was a 13-year-old case in 
+which Silfies uncovered overlooked evidence.
+  I congratulate Detective Silfies on this achievement. To be singled 
+out among such a dedicated police force is truly an honor. He is an 
+inspiration to the citizens of Kentucky and to dedicated police 
+everywhere. I look forward to seeing all that he will accomplish in the 
+future.
+
+                          ____________________
+```
