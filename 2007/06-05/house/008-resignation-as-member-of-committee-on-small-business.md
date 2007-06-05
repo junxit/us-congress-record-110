@@ -1,0 +1,43 @@
+---
+granule: CREC-2007-06-05-pt1-PgH5931-7
+date: 2007-06-05
+edition: CREC
+section: HOUSE
+page: H5931
+citation: 153 Cong. Rec. H5931
+---
+
+# RESIGNATION AS MEMBER OF COMMITTEE ON SMALL BUSINESS
+
+```
+          RESIGNATION AS MEMBER OF COMMITTEE ON SMALL BUSINESS
+
+  The SPEAKER pro tempore laid before the House the following 
+resignation as a member of the Committee on Small Business:
+
+                                               Washington, DC,
+
+                                                     June 5, 2007.
+     Hon. Nancy Pelosi,
+     The Speaker, House of Representatives,
+     Washington, DC.
+       Dear Speaker Pelosi: In the light of recent developments in 
+     a legal matter involving me in the Eastern District of 
+     Virginia, I hereby request a leave from my duties as a Member 
+     of the House Small Business Committee pending my successful 
+     conclusion of that matter.
+       In doing so, I, of course, express no admission of guilt or 
+     culpability in that or any other matter that may be pending 
+     in any court or before the House of Representatives. I have 
+     supported every ethics and lobbying reform measure that you 
+     and our Democratic Majority have authored, and I make this 
+     request for leave to support the letter and the spirit of 
+     your leadership in this area.
+           Sincerely,
+                                             William J. Jefferson.
+  The SPEAKER pro tempore. Without objection, the resignation is 
+accepted.
+  There was no objection.
+
+                          ____________________
+```
