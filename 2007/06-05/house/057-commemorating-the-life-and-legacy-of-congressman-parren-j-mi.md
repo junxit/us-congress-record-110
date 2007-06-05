@@ -1,0 +1,60 @@
+---
+granule: CRECB-2007-pt10-Pg14617-2
+date: 2007-06-05
+edition: CRECB
+section: HOUSE
+page: 14617
+---
+
+# COMMEMORATING THE LIFE AND LEGACY OF CONGRESSMAN PARREN J. MITCHELL
+
+```
+  COMMEMORATING THE LIFE AND LEGACY OF CONGRESSMAN PARREN J. MITCHELL
+
+  The SPEAKER pro tempore (Mr. Donnelly). Under a previous order of the 
+House, the gentleman from Maryland (Mr. Sarbanes) is recognized for 5 
+minutes.
+  Mr. SARBANES. Mr. Speaker, I rise today to join others in 
+commemorating the life and legacy of Congressman Parren J. Mitchell. 
+Growing up in Baltimore, I came to understand the tremendous positive 
+impact this great man had on my community, the State of Maryland and 
+indeed this country.
+  The first African American Congressman from my State, Parren Mitchell 
+fought against racism at every turn, but he fought on other fronts as 
+well, wherever he saw injustice, and inhumanity. At his memorial 
+service earlier today in Baltimore, we heard again
+
+[[Page 14618]]
+
+and again of a man unafraid to speak truth to power.
+  I would like to share my own personal story of how I felt the 
+presence of this man.
+  Some years ago, Congressman Mitchell was honored at the 15th 
+anniversary of the Public Justice Center, an organization committed to 
+building systemic change in our society.
+  It was an easy choice to salute Congressman Mitchell, but it was not 
+easy for him to attend the event. He was by then quite frail, and as he 
+was helped to the stage to receive the honor, I remember wondering 
+whether he would have the energy to speak.
+  I needn't have worried. A steady and resonant voice filled the hall, 
+and from this slightly built man, at that point in his life no longer 
+able to stand up, came simple and powerful words of gratitude and 
+inspiration.
+  He spoke at length and without hesitation about his core principles 
+of honesty, justice and compassion. It was, Mr. Speaker, a tour de 
+force. I can only imagine what that voice was like when it held forth 
+in this Chamber and carried the day on so many critical issues.
+  Something else happened that night that is worth relating. After 
+Congressman Mitchell finished speaking, the organization honored a 
+young man from the community who had struggled and succeeded in 
+overcoming unfair labor practices in his industry. That young man, 
+looking out on a crowd of 500 people, said this: ``We need to make sure 
+that the big corporations pay the little guy for the hard work.''
+  I looked at Congressman Mitchell, and I saw a smile creeping across 
+his face. It was truth to power at its very best, all that Parren 
+Mitchell had ever stood for.
+  Mr. Speaker, it is an honor to salute this fine American and great 
+son of Baltimore.
+
+                          ____________________
+```
