@@ -1,0 +1,55 @@
+---
+granule: CRECB-2007-pt11-Pg14844-2
+date: 2007-06-06
+edition: CRECB
+section: SENATE
+page: 14844
+---
+
+# ADDITIONAL STATEMENTS
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+              100th ANNIVERSARY OF HETTINGER, NORTH DAKOTA
+
+● Mr. CONRAD. Mr. President, today I wish to recognize a 
+community in North Dakota that is celebrating its 100th anniversary. On 
+July 3-8, the residents of Hettinger will gather to celebrate their 
+community's history and founding.
+  Hettinger is a vibrant community in southwest North Dakota. Hettinger 
+holds an important place in North Dakota's history. The townsite was 
+founded in 1907, and Erastus A. Williams of Bismarck, whose son-in-law 
+was Mathias Hettinger, was credited with naming the community. It 
+became the county seat of Adams County in 1907. The post office was 
+established in May 17, 1907, and Hettinger was organized into a city in 
+1916. One of the last living survivors of the Titanic, Ole Abelseth, 
+was a longtime resident of Hettinger.
+  Today, Hettinger is a magnet for outdoor enthusiasts who come to 
+enjoy bird watching, fishing, and big game hunting. Nearby Mirror Lake 
+offers camping and other outdoor activities for all ages. In 2004, 
+Hettinger was recognized as Hometown of the Year by the Bismarck 
+Tribune and it received the North Dakota Capital Community Designation 
+by the Federal Home Loan Bank, which recognized Hettinger's vision and 
+planning in sustaining and revitalizing the local economy.
+  The people of Hettinger are enthusiastic about their community and 
+the quality of life it offers. Hettinger has a wonderful centennial 
+celebration planned that includes dances, a steak fry, a lumberjack 
+show, a parade, a horseshoe tournament, class reunions, and a whisker 
+growing contest. The week long celebration will definitely be one to 
+remember.
+  Mr. President, I ask the U.S. Senate to join me in congratulating 
+Hettinger, ND, and its residents on their first 100 years and in 
+wishing them well through the next century. By honoring Hettinger and 
+all the other historic small towns of North Dakota, we keep the great 
+pioneering frontier spirit alive for future generations. It is places 
+such as Hettinger that have helped to shape this country into what it 
+is today, which is why this fine community is deserving of our 
+recognition.
+  Hettinger has a proud past and a bright future.●
+
+                          ____________________
+```
