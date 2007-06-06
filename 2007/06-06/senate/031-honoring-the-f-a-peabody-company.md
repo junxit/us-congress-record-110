@@ -1,0 +1,55 @@
+---
+granule: CREC-2007-06-06-pt1-PgS7175-3
+date: 2007-06-06
+edition: CREC
+section: SENATE
+page: S7175
+citation: 153 Cong. Rec. S7175
+---
+
+# HONORING THE F.A. PEABODY COMPANY
+
+**Speaking:** Snowe, Olympia J. (S000663) [R-ME]
+
+```
+                   HONORING THE F.A. PEABODY COMPANY
+
+● Ms. SNOWE. Mr. President, today I recognize a tremendous small 
+business from my home State of Maine that was recently designated as 
+the 2007 Eastern Region Small Business of the Year by the United States 
+Chamber of Commerce. Established in 1927 by Frank A. Peabody, the F.A. 
+Peabody Company, based in Houlton, ME, has grown over the last 80 years 
+to meet the insurance, investment, and real estate needs of Mainers. 
+From the number of employees, to the number of locations, and even the 
+services the company provides to the residents of northern Maine, F.A. 
+Peabody's expansion has been a crowning achievement of small business 
+in Aroostook County and, indeed, all of northern and eastern Maine. 
+This award is a fitting recognition of F.A. Peabody's past 
+accomplishments, and its continued superb work for Maine.
+  F.A. Peabody began as a property casualty insurance agency for 
+Aroostook County, and grew to represent 20 insurance companies. As time 
+progressed, the company expanded to meet other needs in the community, 
+including investment management, real estate brokerage, and travel 
+services. A truly diversified operation, F.A. Peabody has gone further 
+in recent years by administering mortuary trusts and providing 
+broadband internet to businesses and individuals from the counties of 
+Maine's northern potato fields to its eastern shoreline. In light of a 
+lack of broadband internet in Aroostook County earlier this decade, 
+F.A. Peabody decided to take action and become a broadband internet 
+service provider.
+  Collectively, F.A. Peabody employs over 70 people, and has a wellness 
+program to award employees with bonuses and gifts. Chris and Bob 
+Anderson, president and chief financial officer, respectively, of F.A. 
+Peabody, carry on the company's commitment to Maine's positive, pro-
+growth small business community.
+  F.A. Peabody is truly a success story, and a bright example of what 
+small businesses can accomplish with measured expansion and consistent 
+determination. I congratulate F.A. Peabody on all of its 
+accomplishments and, in particular, for garnering the attention of the 
+U.S. Chamber of Commerce. This award is well-deserved, and I am 
+confident that F.A. Peabody's strong, outstanding achievements will 
+continue for years to come as a source of pride for all of Maine. I 
+wish F.A. Peabody and its employees continued success.●
+
+                          ____________________
+```

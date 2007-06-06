@@ -1,0 +1,39 @@
+---
+granule: CREC-2007-06-06-pt1-PgH6013-2
+date: 2007-06-06
+edition: CREC
+section: HOUSE
+page: H6013
+citation: 153 Cong. Rec. H6013
+---
+
+# BODY ARMOR FOR TROOPS
+
+**Speaking:** Wilson, Joe (W000795) [R-SC]
+
+```
+                         BODY ARMOR FOR TROOPS
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Mr. Speaker, today the House Armed 
+Services Committee will examine the issue of body armor for our troops 
+in combat. Fortunately, before going into recess for Memorial Day, 
+Congress passed a critical war funding bill that will allow the 
+military to purchase body armor and other equipment for our men and 
+women in uniform.
+  I was grateful to visit with our troops during the break in Iraq and 
+Afghanistan. Everywhere we went, the troops thanked us for passing the 
+legislation to provide for their being fully equipped.
+  Our soldiers are fighting the terrorists overseas so we do not have 
+to face them again in the streets of America. We are protecting 
+American families in stopping al Qaeda's threat to our Nation.
+  On the 63rd anniversary of D-day, we appreciate the new greatest 
+generation. I am pleased Congress passed and President Bush signed a 
+bill that will provide our military with the tools it needs without 
+handcuffing our commanders on the battlefield.
+  In conclusion, God bless our troops, and we will never forget 
+September 11.
+
+                          ____________________
+```
