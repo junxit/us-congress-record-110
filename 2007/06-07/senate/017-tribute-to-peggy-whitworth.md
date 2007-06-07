@@ -1,0 +1,51 @@
+---
+granule: CREC-2007-06-07-pt1-PgS7325-2
+date: 2007-06-07
+edition: CREC
+section: SENATE
+page: S7325
+citation: 153 Cong. Rec. S7325
+---
+
+# TRIBUTE TO PEGGY WHITWORTH
+
+**Speaking:** Harkin, Tom (H000206) [D-IA]
+
+```
+                       TRIBUTE TO PEGGY WHITWORTH
+
+● Mr. HARKIN. Mr. President, today I would like to express my 
+deep appreciation to Peggy Whitworth, executive director of Iowa's only 
+national trust property, Brucemore. Brucemore, located in Cedar Rapids, 
+IA, is celebrating its 25th anniversary, and Peggy has been Brucemore's 
+only executive director during that quarter century. During this time, 
+her leadership, creativity, and ``can-do'' attitude have made Brucemore 
+a model nonprofit organization and an eastern Iowa landmark.
+  This past December, Peggy was awarded the National Trust President's 
+Award for her years of dedicated service to Brucemore, as well as for 
+her advocacy of preservation. I would like to add my voice to those 
+honoring Peggy and her work. She is respected not just in Iowa but 
+across the country as a champion for preservation and the promotion of 
+cultural attractions. Her labors on behalf of historical preservation 
+have helped inspire people in other communities to preserve and honor 
+the important architectural, cultural and historic contributions from 
+our past.
+  Twenty five years ago, when Brucemore was bequeathed to the National 
+Trust for Historic Preservation, the idea was to use the mansion for 
+community meetings and activities. That limited perspective did not 
+last long. Under Peggy's leadership, Brucemore has come to offer a full 
+schedule of events, including Bluesmore, Classics at Brucemore, Cabaret 
+in the Courtyard, as well as tours of the mansion which draw nearly 
+30,000 people annually.
+  Peggy has also been active in promoting culture and tourism 
+attractions as an economic development tool. In addition to her work at 
+Brucemore, Peggy has served five terms on the Iowa State Historical 
+Society board, including chairing the board. She serves on the Terrace 
+Hill Foundation. And she was recently appointed to the Board of 
+Pharmacy Examiners by Iowa Governor Chet Culver.
+  Peggy Whitworth is planning to retire later this year. Her leadership 
+and vision will be greatly missed. And we are deeply grateful for her 
+many contributions to the cultural richness of Iowa.●
+
+                          ____________________
+```
