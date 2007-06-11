@@ -1,0 +1,89 @@
+---
+granule: CREC-2007-06-11-pt1-PgS7445
+date: 2007-06-11
+edition: CREC
+section: SENATE
+page: S7445
+citation: 153 Cong. Rec. S7445
+---
+
+# VERMONT HOUSING AND CONSERVATION BOARD
+
+**Speaking:** Leahy, Patrick J. (L000174) [D-VT]
+
+```
+                 VERMONT HOUSING AND CONSERVATION BOARD
+
+  Mr. LEAHY. Mr. President, it is my pleasure today to bring to the 
+attention of the Senate the important work the members and staff of the 
+Vermont Housing and Conservation Board have accomplished during their 
+first 20 years of service to protect Vermont's working landscape and to 
+help ensure that Vermonters have safe and affordable places to call 
+home.
+  Since 1987, VHCB, its board members and staff have invested in 427 
+farms, resulting in the conservation of 118,500 acres of farmland; 
+protected 250,000 acres of recreational and natural areas; and 
+constructed or rehabilitated 8500 units of affordable housing. This has 
+been a conscious investment of $200 million in our Green Mountains, 
+leveraging an additional $750 million from public and private sources. 
+Few organizations can boast the stimulus of $1 billion in two short 
+decades.
+  For centuries, Vermonters have made their livings working the land. 
+As land use patterns drastically change across the country, including 
+in the valleys of Vermont, VHCB has helped many farmers and communities 
+conserve the rural working landscape that has come to define Vermont 
+and the way of life in our State's communities. VHCB has become a 
+national leader in farmland protection practices--educating family 
+farmers how they can make money protecting working farmland and rural 
+landscape for generations to come. The
+
+[[Page S7446]]
+
+protections VHCB has been able to offer Vermont's farmers have resulted 
+in hundreds of farms remaining active and contributing members of their 
+communities, allowing them to remain Vermont's ultimate environmental 
+stewards. VHCB's expertise also allowed me to work with them to 
+implement a farm preservation pilot program in Vermont that has since 
+become known as the Farm and Ranch Land Protection Program, a national 
+farmland protection program. Today, this program has protected nearly a 
+half million acres of farmland in 42 States nationwide.
+  For centuries, the very same farmers who have lived off the land have 
+become well known for their love of fishing, hunting, hiking and 
+snowmobiling across Vermont's forests and open spaces. With encroaching 
+urban sprawl and changing demographics, these lands, too, have been 
+dwindling. VHCB has made it a priority to preserve these natural lands 
+and access to these lands, conserving a quarter of a million acres of 
+these green spaces.
+  As a dual mission organization, VHCB has also led the country in 
+developing and administering steady private, State and Federal funding 
+sources for the preservation, development and rehabilitation of quality 
+affordable housing in all corners of Vermont. These homes, like the 
+great pieces of granite my grandfather once cut out of the 
+mountainsides of Vermont, are the foundations for the future of 
+Vermont. Additionally, many of these homes are designated perpetually 
+affordable, ensuring that generations of Vermonters will have places to 
+call home. Recently the U.S. Department of Housing and Urban 
+Development named Vermont's federally funded HOME program, administered 
+by VHCB, as the most effective program among 51 participating 
+jurisdictions in the country for the fourth quarter in a row.
+  Like so many Vermonters, I live in a rather old house in the Green 
+Mountains. At least half of Vermont's housing stock is estimated to be 
+more than 50 years old, and many are more than a century old. With this 
+Yankee character comes a great danger that VHCB has identified and 
+tackled with great skill: lead poisoning. The most common cause of lead 
+poisoning is exposure to dust from deteriorated lead-based paint in a 
+child's home or daycare. The Vermont Lead-Based Paint Hazard Reduction 
+Program, administered by VHCB, has provided technical and financial 
+assistance to eligible landlords and homeowners to reduce the risk of 
+lead poisoning in Vermont's buildings and homes.
+  Since the very beginning, my good friend Gus Seelig has steered this 
+organization through both calm and stormy weather. Like any good 
+leader, I am certain that Gus would say this organization owes a great 
+deal of its success to its many past and present board members and 
+staff. On behalf of the people of Vermont, I thank and applaud everyone 
+who has worked to make the Vermont Housing and Conservation Board a 
+success. Congratulations on 20 great years preserving the character and 
+affordability of Vermont.
+
+                          ____________________
+```

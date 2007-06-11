@@ -1,0 +1,80 @@
+---
+granule: CREC-2007-06-11-pt1-PgE1240-4
+date: 2007-06-11
+edition: CREC
+section: EXTENSIONS
+page: E1240
+citation: 153 Cong. Rec. E1240
+---
+
+# HONORING THE 32ND ANNUAL CAPITAL PRIDE FESTIVAL
+
+**Speaking:** Norton, Eleanor Holmes (N000147) [D-DC]
+
+**Measures:** H.R. 1905
+
+```
+            HONORING THE 32ND ANNUAL CAPITAL PRIDE FESTIVAL
+
+                                 ______
+                                 
+
+                       HON. ELEANOR HOLMES NORTON
+
+                      of the district of columbia
+
+                    in the house of representatives
+
+                         Thursday, June 7, 2007
+
+  Ms. NORTON. Madam Speaker, I rise to pay tribute to the 32nd Annual 
+Capital Pride Festival, a celebration of the National Capital Area's 
+Gay, Lesbian, Bisexual and Transgender, GLBT, communities, their 
+families, and friends.
+  The Capital Pride Festival has grown from a small block party in 1975 
+to the current week-
+
+[[Page E1241]]
+
+long celebration. This year Capital Pride culminates with the Pride 
+Parade on June 9th and ``The Main Event,'' a street fair on 
+Pennsylvania Avenue in the shadow of the Capitol, June 10th.
+  I have marched in the Pride parades since coming to Congress to 
+emphasize the universality of human rights and the importance of 
+enacting federal legislation to secure those rights for the GLBT 
+community.
+  This year's theme, ``Together we can, Together we will,'' holds 
+special meaning for the citizens of the District of Columbia and its 
+GLBT community in particular. Washingtonians live in distinct diverse 
+neighborhoods such as Colonial Village to the North, Fort Drum to the 
+South, Northeast Boundary to the East, and Spring Valley to the West. 
+Together we can unite in our quest for all the rights guaranteed U.S. 
+citizens by the Constitution.
+  In 1994 the District of Columbia lost the first vote it ever won on 
+the floor of the House of Representatives, the delegate vote in the 
+Committee of the Whole. The Republicans retracted the District's vote 
+when they assumed control of the House and this right was re-
+established under Speaker Nancy Pelosi. Our city of 550,000 residents, 
+10 percent more residents than the entire State of Wyoming, who pay 
+more taxes per capita than 49 of the 50 states, remains the only 
+jurisdiction in the United States subject to Taxation Without 
+Representation. Our Nation's Capital is entitled full voting rights in 
+the House and the Senate. On April 19, 2007, the U.S. House of 
+Representatives passed H.R. 1905, The District of Columbia House Voting 
+Rights Act of 2007. The measure is now before the Senate and is an 
+important milestone on DC's road to full and equal representation.
+  This one success is a reminder of the pending legislation that the 
+110th Congress must pass: The Clarification of Federal Employment 
+Protections Act, The Early Treatment for HIV Act, The Employment Non-
+Discrimination Act, The Local Law Enforcement Enhancement Act, The 
+Military Readiness Enhancement Act, The Responsible Education About 
+Life Act, The Tax Equity for Health Plan Beneficiaries Act, and The 
+Uniting American Families Act.
+  I ask the House to join me in welcoming the celebrants attending the 
+32nd Annual Capital Pride Festival in Washington, DC, and I take this 
+opportunity to remind the celebrants that U.S. citizens who reside in 
+Washington, DC are taxed without full voting representation in 
+Congress.
+
+                          ____________________
+```

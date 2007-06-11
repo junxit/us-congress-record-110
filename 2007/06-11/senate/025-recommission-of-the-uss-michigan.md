@@ -1,0 +1,57 @@
+---
+granule: CREC-2007-06-11-pt1-PgS7446
+date: 2007-06-11
+edition: CREC
+section: SENATE
+page: S7446
+citation: 153 Cong. Rec. S7446
+---
+
+# RECOMMISSION OF THE USS "MICHIGAN"
+
+**Speaking:** Levin, Carl (L000261) [D-MI]
+
+```
+                  RECOMMISSION OF THE USS ``MICHIGAN''
+
+  Mr. LEVIN. Mr. President, I would like to take this opportunity to 
+commemorate the recommission of the USS Michigan, SSGN-727. A formal 
+return to service ceremony will be held on Tuesday, June 12 at 1 p.m. 
+to honor the USS Michigan and her officers and crew, which includes 
+captain of the boat CDR Terry Takats and chief of the boat CMDCM Wayne 
+Lassiter.
+  The USS Michigan will return to active duty as the second Ohio-class 
+nuclear-powered Trident missile submarine in the U.S. Navy to be 
+refitted from a ballistic missile submarine, SSBN, into a guided 
+missile submarine, SSGN. This conversion has enhanced and transformed 
+the capabilities of the USS Michigan, making it a more valuable asset 
+and serving as an example of the Navy's ongoing transformation to face 
+current and future threats around the world.
+  The USS Michigan has had a proud tradition of service, and SSGN-727 
+will be the third naval vessel to bear the name of our great State. The 
+first ship to carry this name was launched by the Navy in 1843 as its 
+first iron-hulled warship. She operated throughout the Great Lakes for 
+her entire period of service, gaining notoriety when she helped to 
+successfully end the Fenian invasion of Canada by intercepting supplies 
+between Buffalo and Fort Erie, Ontario along the Niagara River.
+  U.S. Naval vessels bearing the Michigan name have courageously seen 
+action against Mexico, served as convoy escorts during WWI, and most 
+recently completed more than 33 strategic deterrent patrols throughout 
+the world. The newly converted USS Michigan SSGN-727 will return to 
+service with a new mission and enhanced capabilities.
+  The new guided missile submarine conversion program was developed by 
+the Navy to create a more efficient and effective dual-use submarine 
+force. The USS Michigan's successful transformation has maintained all 
+the benefits of its predecessor, while creating a ship that will act as 
+a force multiplier for the Navy. It has an increased payload capacity 
+of 154 cruise missiles and the capability to more effectively house, 
+sustain, and deploy a variety of special operations forces, allowing 
+for a support role, as well as stealth insertion and extraction of 
+operatives. The flexibility of this new submarine will allow it to 
+efficiently function in a variety of multimission scenarios.
+  The USS Michigan is a shining example of the U.S. Navy's 
+transformation, and I know my colleagues will join me in commemorating 
+its return to active service.
+
+                          ____________________
+```

@@ -1,0 +1,39 @@
+---
+granule: CREC-2007-06-11-pt1-PgS7418-2
+date: 2007-06-11
+edition: CREC
+section: SENATE
+page: S7418
+citation: 153 Cong. Rec. S7418
+---
+
+# IMMIGRATION
+
+**Speaking:** McConnell, Mitch (M000355) [R-KY]
+
+```
+                              IMMIGRATION
+
+  Mr. McCONNELL. Mr. President, just a brief word about the immigration 
+bill. We could have been wrapping it up tonight.
+  As I indicated to my good friend, the majority leader, on Thursday 
+afternoon, I thought there was every reason to believe we could have 
+finished the immigration bill by tonight. Instead, we ended up having 
+another cloture vote--in my view, a day or two premature--taking Friday 
+off, and today spending our time on a meaningless resolution giving the 
+President advice about whom the Attorney General ought to be.
+  Having said that, I appreciate the comments of the majority leader 
+that he would like to finish the immigration bill. There is a 
+substantial number of Republican Senators who believe this bill would 
+be an improvement over the current situation, over the status quo, and 
+so I hope we will be able to chart a path to get us back on track at 
+some point and hopefully complete, on a bipartisan basis, what could 
+well be the most important domestic achievement of this Congress.
+  I am pleased to hear the majority leader say there is a possibility 
+that we could get back to this measure and wrap it up. That certainly 
+is my hope, and I will look forward to working with him toward that 
+end.
+  I yield the floor.
+
+                          ____________________
+```

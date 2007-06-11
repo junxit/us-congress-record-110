@@ -1,0 +1,54 @@
+---
+granule: CREC-2007-06-11-pt1-PgE1233-4
+date: 2007-06-11
+edition: CREC
+section: EXTENSIONS
+page: E1233
+citation: 153 Cong. Rec. E1233
+---
+
+# HONORING THE LIFE OF UNITED STATES ARMY CORPORAL VICTOR TOLEDO PULIDO
+
+**Speaking:** Costa, Jim (C001059) [D-CA]
+
+```
+ HONORING THE LIFE OF UNITED STATES ARMY CORPORAL VICTOR TOLEDO PULIDO
+
+                                 ______
+                                 
+
+                             HON. JIM COSTA
+
+                             of california
+
+                    in the house of representatives
+
+                         Thursday, June 7, 2007
+
+  Mr. COSTA. Madam Speaker, I rise today to honor and pay tribute to 
+the life of CPL Victor H. Toledo Pulido, who lost his life defending 
+our Nation in support of Operation Iraqi Freedom.
+  After attending high school in California's Central Valley, Victor 
+joined the Army Reserves in 2005. A year later, he signed up for active 
+duty and was stationed at Fort Benning, GA. Victor was proud to serve 
+in the military.
+  While serving with the 1st Calvary Regiment based out of Fort 
+Benning, Victor wore his green camouflage uniform with pride. 
+Unfortunately, on Wednesday, May 23, 2007, the vehicle in which Victor 
+traveled was hit with an improvised explosive device. Victor and 
+another solider were killed in the incident.
+
+[[Page E1234]]
+
+  CPL Victor Toledo Pulido is survived by his mother, Maria Gaspar of 
+Kettleman City, his wife, Cristi Toledo, and brothers, Yosio and Gaston 
+Toledo Pulido. Also surviving is his son, Isak and numerous friends.
+  It is my belief that Victor's life symbolizes the ultimate sacrifice 
+one can make for his country. His valor, strength, courage and pride in 
+our Nation will forever live in the thoughts and hearts of his family 
+and Americans across the Nation. CPL Victor H. Toledo Pulido's 
+dedication to the principles of freedom and democracy will serve as an 
+example to all of us and for generations to come.
+
+                          ____________________
+```
