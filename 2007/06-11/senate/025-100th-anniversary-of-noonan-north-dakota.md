@@ -1,0 +1,50 @@
+---
+granule: CRECB-2007-pt11-Pg15229
+date: 2007-06-11
+edition: CRECB
+section: SENATE
+page: 15229
+---
+
+# 100TH ANNIVERSARY OF NOONAN, NORTH DAKOTA
+
+```
+               100TH ANNIVERSARY OF NOONAN, NORTH DAKOTA
+
+● Mr. CONRAD. Mr. President, today I recognize a community in 
+North Dakota that will be celebrating its 100th anniversary. On June 
+29-July 1, the residents of Noonan will gather to celebrate their 
+community's history and founding.
+  Noonan is a thriving rural community in northwest North Dakota that 
+shares a border with the Canadian province of Saskatchewan. Noonan 
+holds an important place in North Dakota's history. Like many of the 
+rural communities in North Dakota, Noonan began its history as a 
+community with the arrival of the Great Northern Railroad. Noonan 
+received its name from Patrick Noonan, the first mayor of Noonan. The 
+first businesses in Noonan included the Golden Rule General Store, an 
+implement store, and a hotel. Noonan officially became a city on 
+September 14, 1928.
+  Today, the community of Noonan is largely based on agriculture and is 
+home to some of the best waterfowl and upland game hunting in northwest 
+North Dakota. There is also a volunteer fire department and EMT 
+service, two taverns, and many other businesses in this close-knit 
+community where everyone knows everyone. The nearby Noonan trout pond 
+offers camping and fishing. Noonan is also home to a prominent Lions 
+Club chapter, which is the oldest service organization in Noonan and 
+whose main goal is to help the blind.
+  The community of Noonan is a wonderful place for its residents to 
+live, work, and raise future generations. The people of Noonan take 
+pride in their community and all the opportunities it has to offer. The 
+town has an exciting centennial weekend planned that includes dances, a 
+parade, variety show, a Sunday brunch, and much more.
+  I ask the Senate to join me in congratulating Noonan, ND, and its 
+residents on their first 100 years and in wishing them well through the 
+next century. By honoring Noonan and all other historic small towns of 
+North Dakota, we keep the great pioneering frontier spirit alive for 
+future generations. It is places such as Noonan that have helped to 
+shape this country into what it is today, which is why this fine 
+community is deserving of our recognition.
+  Noonan has a proud past and a bright future.●
+
+                          ____________________
+```
