@@ -1,0 +1,29 @@
+---
+granule: CREC-2007-06-12-pt2-PgH6333-2
+date: 2007-06-12
+edition: CREC
+section: HOUSE
+page: H6333
+citation: 153 Cong. Rec. H6333
+---
+
+# Text of House Amendment 110
+
+**Speaking:** Deal, Nathan (D000168) [R-GA]
+
+**Measures:** H.R. 2638
+
+```
+H.R. 2638
+
+                    Offered By: Mr. Deal of Georgia
+
+       Amendment No. 110: At the end of the bill (before the short 
+     title), insert the following:
+       Sec. 544. None of the funds made available in this Act may 
+     be used to provide assistance to any State or local 
+     government which has notified the Department of Homeland 
+     Security of its failure or refusal, in contravention of 
+     Federal law, to assist in the enforcement of Federal 
+     immigration laws.
+```
