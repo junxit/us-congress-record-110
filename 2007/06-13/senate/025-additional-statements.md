@@ -1,0 +1,52 @@
+---
+granule: CRECB-2007-pt11-Pg15618-3
+date: 2007-06-13
+edition: CRECB
+section: SENATE
+page: 15618
+---
+
+# ADDITIONAL STATEMENTS
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+                      MODESTO'S NATIONAL NIGHT OUT
+
+● Mrs. BOXER. Madam President, I ask my colleagues to join me in 
+recognizing the outstanding National Night Out program in Modesto, CA. 
+For the past 6 years, the city of Modesto has either ranked first or 
+second in the Nation in National Night Out participation among cities 
+with populations of 100,000 to 299,999.
+  Since its inception in 1983, National Night Out has brought millions 
+of Americans together to take a united stand against crime and send a 
+clear message to criminals that citizens and neighborhoods are 
+committed to crime prevention. National Night Out has played an 
+instrumental role in helping to raise crime and drug prevention 
+awareness, generate support for and participation in local anticrime 
+programs, and perhaps most importantly, improve neighborhood spirit and 
+strengthen community-police partnerships.
+  In 2006, more than 35.2 million people and 11,125 communities from 
+all 50 States, U.S. territories, and military bases worldwide 
+participated in the National Night Out campaign. Conscientious 
+citizens, law enforcement agencies and civic groups came together to 
+participate in a variety of festive events and activities such as block 
+parties, ice cream socials, flashlight walks, and visits from law 
+enforcement and other public agencies to help promote the importance of 
+community involvement in local crime-fighting programs.
+  In Modesto, 123 neighborhoods participated in National Night Out last 
+year, making it the Nation's leader among cities with populations of 
+100,000 to 299,999. The city of Modesto is a shining example of the 
+importance of community and cooperation in local crime-fighting 
+efforts.
+  As the residents of Modesto gather for another successful National 
+Night Out campaign, I would like to congratulate and commend its 
+citizens, civic leaders, and the Modesto Police Department for their 
+leadership and willingness to help make their city a safer and better 
+place to call home.●
+
+                          ____________________
+```
