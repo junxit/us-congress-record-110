@@ -1,0 +1,51 @@
+---
+granule: CREC-2007-06-13-pt1-PgE1278-4
+date: 2007-06-13
+edition: CREC
+section: EXTENSIONS
+page: E1278
+citation: 153 Cong. Rec. E1278
+---
+
+# IN PRAISE OF ARMY SGT MATTHEW SOPER
+
+**Speaking:** Walberg, Tim (W000798) [R-MI]
+
+```
+                  IN PRAISE OF ARMY SGT MATTHEW SOPER
+
+                                 ______
+                                 
+
+                          HON. TIMOTHY WALBERG
+
+                              of michigan
+
+                    in the house of representatives
+
+                        Wednesday, June 13, 2007
+
+  Mr. WALBERG. Madam Speaker, I rise today to honor and praise Sergeant 
+Matthew Soper, a constituent of mine who died while serving his country 
+in Iraq; Sgt. Soper's truck was hit by an IED in Iraq on June 6, 2007.
+  SGT Soper of Jackson was 25-years-old. Sergeant Matthew Soper served 
+in the Michigan Army National Guard's 1461st Transportation Company 
+based in Jackson. Sergeant Soper was courageous as he manned the front 
+vehicle gun in his company.
+  SGT Soper's family has said the military changed their son and 
+brother. His sister stated he joined the military to ``call something 
+his own,'' and to make people proud. Nothing serves as greater evidence 
+to the heart of this young man than his selflessness in volunteering 
+for a second tour of duty in Iraq. SGT Soper's first tour was in 2004 
+and 2005. I stand here today to tell the country and SGT Soper's family 
+how proud of him I am.
+  The country mourns the loss of a soldier and we celebrate his life. 
+My thoughts and prayers are with Matthew's family. I thank them for 
+their beloved sons' dedicated service to the United States. May God be 
+with them.
+
+
+
+
+                          ____________________
+```

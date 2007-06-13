@@ -1,0 +1,43 @@
+---
+granule: CREC-2007-06-13-pt1-PgS7629-3
+date: 2007-06-13
+edition: CREC
+section: SENATE
+page: S7629
+citation: 153 Cong. Rec. S7629
+---
+
+# PASSING OF ADEN ABDULLE OSMAN
+
+**Speaking:** Coleman, Norm (C001057) [R-MN]
+
+```
+                     PASSING OF ADEN ABDULLE OSMAN
+
+  Mr. COLEMAN. Madam President, I would like to take the opportunity to 
+express sorrow on behalf of the Somali community of Minnesota, which is 
+currently mourning the death of an important figure for Somalia, former 
+President Aden Abdulle Osman. Aden Abdulle Osman, known by many Somalis 
+as Aden Adde, passed away at the age of 99 on June 7, 2007.
+  Aden Abdulle Osman became the first President of Somalia in 1960 
+after the country gained its independence on July 1. Mr. Osman served 
+as President of the newly formed Somalia until June 10, 1967. President 
+Osman led his country during the critical time of its formation and 
+development into a full-fledged state. When he lost the Presidential 
+election in 1967, President Osman graciously ceded his position to his 
+opponent, Abdirashid Ali Shermarke. In doing so, Aden Abdulle Osman set 
+an example for the peaceful transfer of democratic power, which is a 
+critical aspect of all democratic systems. For this reason, Aden 
+Abdulle Osman is viewed throughout Somalia and Africa as a model of 
+statesmanship that seeks the greater good.
+  I am privileged to represent the State that has the largest Somali 
+community in the U.S. The Somalis of Minnesota represent a thriving 
+community that has enriched the fabric of our State through its vibrant 
+culture. I would like to join my Somali constituents in expressing 
+sorrow for Aden Abdulle Osman's death. It is my sincere hope that the 
+current leaders of Somalia will look to his leadership as an example, 
+and that such leadership will serve to usher Somalia towards peace, 
+stability and democracy.
+
+                          ____________________
+```

@@ -1,0 +1,40 @@
+---
+granule: CREC-2007-06-13-pt1-PgH6336-5
+date: 2007-06-13
+edition: CREC
+section: HOUSE
+page: H6336
+citation: 153 Cong. Rec. H6336
+---
+
+# HISTORIC INCREASES IN VETERANS FUNDING
+
+**Speaking:** McCarthy, Carolyn (M000309) [D-NY]
+
+```
+                 HISTORIC INCREASES IN VETERANS FUNDING
+
+  (Mrs. McCARTHY of New York asked and was given permission to address 
+the House for 1 minute and to revise and extend her remarks.)
+  Mrs. McCARTHY of New York. Mr. Speaker, for far too long our veterans 
+have been left behind. In fact, last year the Republican Congress and 
+the Bush administration proposed cutting funding for the operation and 
+maintenance of veterans' medical facilities by $464 million. Earlier 
+this year, we saw the effects of these budget cuts manifested in the 
+conditions of Walter Reed Hospital and other VA hospitals across the 
+country.
+  Fortunately, this new Democratic Congress has a different set of 
+priorities. We allocate the largest increase in funding for veterans 
+health care in history, and we do it in a fiscally responsible way that 
+does not produce budget deficits down the line.
+  The 2008 MILCON and Veterans Affairs Appropriations bill includes $70 
+million more than the President requested for veterans substance abuse 
+programs, $69 million more than he requested for medical and prosthetic 
+research, and $127 million more to address the 400,000-deep backlog of 
+veterans benefits claims.
+  Mr. Speaker, we are finally keeping our promise to our veterans, not 
+only to the veterans serving in Iraq and Afghanistan today, but all 
+veterans.
+
+                          ____________________
+```
