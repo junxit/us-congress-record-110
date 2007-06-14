@@ -1,0 +1,86 @@
+---
+granule: CREC-2007-06-14-pt1-PgS7758
+date: 2007-06-14
+edition: CREC
+section: SENATE
+page: S7758
+citation: 153 Cong. Rec. S7758
+---
+
+# Text of Senate Amendment 1568
+
+**Speaking:** Bingaman, Jeff (B000468) [D-NM]
+
+```
+  SA 1568. Mr. BINGAMAN (for himself and Mr. Domenici) submitted an 
+amendment intended to be proposed to amendment SA 1502 proposed by Mr. 
+Reid to the bill H.R. 6, to reduce our Nation's dependency on foreign 
+oil by investing in clean, renewable, and alternative energy resources, 
+promoting new emerging energy technologies, developing greater 
+efficiency, and creating a Strategic Energy Efficiency and Renewables 
+Reserve to invest in alternative energy, and for other purposes; which 
+was ordered to lie on the table; as follows:
+
+       At the appropriate place, insert the following:
+
+     SEC. ___. COORDINATION OF PLANNED REFINERY OUTAGES.
+
+       (a) Definitions.--In this section:
+       (1) Administrator.--The term ``Administrator'' means the 
+     Administrator of the Energy Information Administration.
+       (2) Planned refinery outage.--
+       (A) In general.--The term ``planned refinery outage'' means 
+     a removal, scheduled before the date on which the removal 
+     occurs, of a refinery, or any unit of a refinery, from 
+     service for maintenance, repair, or modification.
+       (B) Exclusion.--The term ``planned refinery outage'' does 
+     not include any necessary and unplanned removal of a 
+     refinery, or any unit of a refinery, from service as a result 
+     of a component failure, safety hazard, or emergency.
+       (3) Refined petroleum product.--The term ``refined 
+     petroleum product'' means any gasoline, diesel fuel, fuel 
+     oil, lubricating oil, liquid petroleum gas, or other 
+     petroleum distillate that is produced through the refining or 
+     processing of crude oil or an oil derived from tar sands, 
+     shale, or coal.
+       (4) Refinery.--The term ``refinery'' means a facility used 
+     in the production of a refined petroleum product through 
+     distillation, cracking, or any other process.
+       (5) Secretary.--The term ``Secretary'' means the Secretary 
+     of Energy.
+       (b) Review and Analysis of Available Information.--The 
+     Administrator shall, on an ongoing basis--
+       (1) review information on planned refinery outages that is 
+     available from commercial reporting services;
+       (2) analyze that information to determine whether the 
+     scheduling of a planned refinery outage may nationally or 
+     regionally affect the price or supply of any refined 
+     petroleum product by--
+       (A) decreasing the production of the refined petroleum 
+     product; and
+       (B) causing or contributing to a retail or wholesale supply 
+     shortage or disruption;
+       (3) not less frequently than twice each year, submit to the 
+     Secretary a report describing the results of the review and 
+     analysis under paragraphs (1) and (2); and
+       (4) specifically alert the Secretary of any planned 
+     refinery outage that the Administrator determines may 
+     nationally or regionally affect the price or supply of a 
+     refined petroleum product.
+       (c) Action by Secretary.--On a determination by the 
+     Secretary, based on a report or alert under paragraph (3) or 
+     (4) of subsection (b), that a planned refinery outage may 
+     affect the price or supply of a refined petroleum product, 
+     the Secretary shall make available to refinery operators 
+     information on planned refinery outages to encourage 
+     reductions of the quantity of refinery capacity that is out 
+     of service at any time.
+       (d) Limitation.--Nothing in this section authorizes the 
+     Secretary--
+       (1) to prohibit a refinery operator from conducting a 
+     planned refinery outage; or
+       (2) to require a refinery operator to continue to operate a 
+     refinery.
+
+                                 ______
+```
