@@ -1,0 +1,94 @@
+---
+granule: CREC-2007-06-18-pt1-PgH6634-3
+date: 2007-06-18
+edition: CREC
+section: HOUSE
+page: H6634
+citation: 153 Cong. Rec. H6634
+---
+
+# THE RED INK KEEPS GETTING DEEPER
+
+**Speaking:** Kaptur, Marcy (K000009) [D-OH]
+
+```
+                    THE RED INK KEEPS GETTING DEEPER
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentlewoman from Ohio (Ms. Kaptur) is recognized for 5 minutes.
+  Ms. KAPTUR. Mr. Speaker, the topic of my remarks tonight will be 
+``The Red Ink Keeps Getting Deeper.''
+  If we look at the trade procedure the Bush administration wants 
+Congress to pass called Fast Track, we should know that it is shorthand 
+for Congress blindly signing away its constitutionally granted duty to 
+regulate commerce with foreign nations. That is right in the 
+Constitution. Under Fast Track procedure, Congress loses any 
+opportunity to negotiate, amend, or improve the Bush administration's 
+misguided trade policy.
+  We have seen what happens when Congress hands the reins over to the 
+executive branch. When we look at our soaring trade deficit and our 
+ravaged middle-class communities, we see how Congress could have 
+improved each one of the trade agreements we were forced to consider as 
+a whole under what was called Fast Track. It is like a fast ball 
+through here that you can't even amend.
+  The Commerce Department just released an example of the Bush 
+administration's horrendous leadership on this issue. The first quarter 
+account for 2007 is another $193 billion deficit in the red, which 
+totals 5.7 percent of GDP, a total drag on economic growth in this 
+country. And, in fact, this quarter's debt is larger than the last 
+quarter of 2006. The red ink keeps getting deeper every single quarter.
+  Our national security is forced to take a back seat to foreign 
+investment while workers lose their pensions and their health benefits 
+or their jobs, and illegal immigrants scramble across our borders 
+attempting to flee the destruction caused by our failed trade policies 
+in those countries. This should not be happening.
+  When Congress reclaims our power to amend trade agreements, we can 
+use trade policy in a manner to level the
+
+[[Page H6635]]
+
+playing field, to help people and not just fan the flames of more 
+corporate greed in the global marketplace.
+  Congress cannot accept Fast Track in any form. We must demand and 
+create a new model for trade that has not just a logic but also an 
+ethic. We must bring people back into the trade equation, not just 
+investors.
+  Our trade policy touches people around the world, from middle-class 
+Americans in the heart of this country to Mexican corn and bean farmers 
+facing extinction come next January as some of NAFTA's provisions phase 
+out for them. Our trade policy touches factory workers in China toiling 
+for starvation wages.
+  We, as most powerful Nation in the world, must accept our 
+responsibility to protect people from corporate greed and our own 
+people from security risks. We cannot trust President Bush to defend 
+our jobs. We have seen he has not been able to do that. And we cannot 
+watch him dictate trade policies that Congress is blocked from 
+amending. We have to take the responsibility given to us in our 
+Constitution.
+  Instead of approving more lopsided trade agreements, Congress should 
+fix our current situation. Trade should create jobs in America. It 
+should not exploit Third World workers. It should elevate, not reduce, 
+America's image abroad. Congress should fund the North American 
+Development Bank to support job creation in communities where jobs have 
+been offshored and outsourced. And we should require our trade 
+competitors to adhere to environmental standards. We should abolish 
+child labor worldwide. We should stop labor trafficking. And we should 
+fix our broken immigration system that is so tied to failed trade 
+policies. A new trade model must be created that meets America's most 
+principled values, democratic rights and justice for all.
+  Under Fast Track authority, however, Congress cannot even control our 
+own floor schedule. President Bush will decide what policy we consider 
+and when we vote on it. We simply can't accept that. Congress must 
+reclaim its own power. Democrats must lead the way to a more sensible 
+and ethical trade policy that brings prosperity to people here at home 
+as well as around the world, restores our reputation abroad, and 
+advances democratic principles, that's with a small ``d,'' respect for 
+people.
+  The world has suffered at the hands of Bush administration trade 
+policies for too long. I urge my colleagues to join me in opposing any 
+more blank checks for this President or any President who tries to move 
+a trade agreement through here on renewing Fast Track. Congress ought 
+to reject Fast Track and we should stop making the red ink deeper.
+
+                          ____________________
+```

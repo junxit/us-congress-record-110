@@ -1,0 +1,41 @@
+---
+granule: CREC-2007-06-18-pt1-PgH6631-4
+date: 2007-06-18
+edition: CREC
+section: HOUSE
+page: H6631
+citation: 153 Cong. Rec. H6631
+---
+
+# ALMOST 4,000 DEAD IN IRAQ
+
+**Speaking:** Jackson Lee, Sheila (J000032) [D-TX]
+
+```
+                       ALMOST 4,000 DEAD IN IRAQ
+
+  (Ms. JACKSON-LEE of Texas asked and was given permission to address 
+the House for 1 minute and to revise and extend her remarks.)
+  Ms. JACKSON-LEE of Texas. Mr. Speaker, sadly, we are moving toward 
+almost 4,000 dead in Iraq. I don't believe there are enough times that 
+we can recount for the American people how many have already died; 
+25,000 are injured.
+  I am grateful to the Democratic leadership for providing enhanced 
+funding for the veterans hospitals and the Veterans Affairs Department 
+to break the backlog of those veterans' wait for services and to help 
+those in outpatient centers who need care.
+  But the real issue is when is the Iraqi Government going to stand up?
+  Just this past weekend, bombing occurred in Afghanistan where we need 
+to turn our attention, but we understand that there is a possibility 
+that the Iraqi Parliament will end its work and go off on a vacation 
+for July and August while our soldiers are dying.
+  It is time now for this administration to understand the misdirection 
+of this mission, to cause the Iraqi Government to stand up so that we 
+can stand down. How many more lives, how many more families for these 
+brave and wonderful men and women on the front lines of Iraq? They are 
+our heroes, they are the patriots. We salute them.
+  It is time now for the administration to stand up for them and make 
+the Iraqi Government stand up and take care of the Iraqi people.
+
+                          ____________________
+```

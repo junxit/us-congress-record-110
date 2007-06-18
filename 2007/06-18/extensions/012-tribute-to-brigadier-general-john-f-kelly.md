@@ -1,0 +1,52 @@
+---
+granule: CREC-2007-06-18-pt1-PgE1323-2
+date: 2007-06-18
+edition: CREC
+section: EXTENSIONS
+page: E1323
+citation: 153 Cong. Rec. E1323
+---
+
+# TRIBUTE TO BRIGADIER GENERAL JOHN F. KELLY
+
+**Speaking:** Skelton, Ike (S000465) [D-MO]
+
+```
+               TRIBUTE TO BRIGADIER GENERAL JOHN F. KELLY
+
+                                 ______
+                                 
+
+                            HON. IKE SKELTON
+
+                              of missouri
+
+                    in the house of representatives
+
+                         Monday, June 18, 2007
+
+  Mr. SKELTON. Madam Speaker, let me take this opportunity to recognize 
+Brigadier General John F. Kelly, United States Marine Corps. From 
+August 2004 to June 2007, Brigadier General Kelly admirably served as 
+the Legislative Assistant to the Commandant of the Marine Corps.
+  During his time in this position, Brigadier General Kelly created 
+numerous successes for the Marine Corps mission. His keen knowledge and 
+experience in Congressional affairs, combined with an increased 
+emphasis on Congressional relationships, propelled the Commandant's 
+strategy and vision. His leadership has enabled the Marine Corps to 
+make tremendous progress during a period of sustained high operational 
+tempo and unprecedented interest in Marine Corps activities.
+  Brigadier General Kelly is a graduate of the University of 
+Massachusetts, the Marine Corps Command and Staff College, the School 
+for Advanced Warfare, and the National War College. He has served in 
+numerous command and staff positions over his 31 years as an officer in 
+the Marine Corps and is a veteran of Operation Iraqi Freedom.
+  I wish Brigadier General Kelly and his family the best as he 
+continues his distinguished service to our Nation in his next 
+assignment as the Deputy Commanding General of the 1st Marine 
+Expeditionary Force. I am confident he will continue to exemplify the 
+best that the Marine Corps has to offer and will superbly command our 
+troops in the field.
+
+                          ____________________
+```
