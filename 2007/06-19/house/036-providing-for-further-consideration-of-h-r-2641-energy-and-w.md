@@ -1,0 +1,130 @@
+---
+granule: CRECB-2007-pt12-Pg16267-2
+date: 2007-06-19
+edition: CRECB
+section: HOUSE
+page: 16267
+---
+
+# PROVIDING FOR FURTHER CONSIDERATION OF H.R. 2641, ENERGY AND WATER DEVELOPMENT AND RELATED AGENCIES APPROPRIATIONS ACT, 2008
+
+```
+  PROVIDING FOR FURTHER CONSIDERATION OF H.R. 2641, ENERGY AND WATER 
+       DEVELOPMENT AND RELATED AGENCIES APPROPRIATIONS ACT, 2008
+
+  Mr. VISCLOSKY. Madam Speaker, I ask unanimous consent that during 
+further consideration of H.R. 2641 in the Committee of the Whole 
+pursuant to House Resolution 481, notwithstanding clause 11 of rule 
+XVIII, no amendment to the bill may be offered except:
+  Pro forma amendments offered at any point in the reading by the 
+chairman or ranking minority member of the Committee on Appropriations 
+or their designees for the purpose of debate;
+  An amendment by Mr. Forbes regarding a study of certain river basins;
+  An amendment by Mr. Wynn regarding hydrogen research;
+  An amendment by Mr. Hensarling regarding funding for DOE Electricity 
+Delivery and Energy Reliability;
+  An amendment by Mr. Shadegg regarding funding for hydropower 
+incentives;
+  An amendment by Mr. Porter regarding Yucca Mountain;
+  An amendment by Mr. Price of Georgia regarding funding for the 
+Advanced Fuel Cycle Initiative;
+  An amendment by Mr. Burgess regarding funding for fossil energy;
+  An amendment by Mrs. Wilson of New Mexico regarding funding for 
+medical imaging;
+  An amendment by Mr. Upton or Mr. Towns regarding funding for nuclear 
+energy loan guarantees;
+  An amendment by Mr. Hensarling regarding funding for DOE Departmental 
+Administration;
+  An amendment by Mr. Matheson regarding funding for contract 
+oversight;
+  An amendment by Mrs. Tauscher regarding weapons dismantlement 
+activities;
+  An amendment by Mr. Udall of New Mexico regarding funding for weapons 
+activities;
+  An amendment by Mrs. Schmidt regarding a prohibition on Global 
+Nuclear Energy Partnership funds for certain nuclear waste storage;
+  An amendment by Mr. Space regarding funding for the Appalachian 
+Regional Commission;
+  An amendment by Mr. Neugebauer regarding funding for the Appalachian 
+Regional Commission;
+  An amendment by Mr. Hensarling regarding funding for the Denali 
+Commission;
+  An amendment by Ms. Berkley limiting use of funds for the Yucca 
+Mountain Youth Website educational campaign;
+  An amendment by Mr. Bishop of New York, Mr. Courtney, or Ms. DeLauro 
+limiting use of Federal Energy Regulatory Commission funds to review a 
+particular application;
+  An amendment by Mr. Conaway regarding use of reductions made through 
+amendments for deficit reduction;
+  An amendment by Mr. King of Iowa regarding actions to mitigate global 
+warming;
+  An amendment by Mr. Murphy of Connecticut limiting use of Federal 
+Energy Regulatory Commission funds for certain permit actions;
+  An amendment by Mrs. Musgrave regarding an across-the-board reduction 
+in funding;
+  An amendment by Mr. Price of Georgia regarding an across-the-board 
+reduction in funding, which shall be debatable for 30 minutes;
+  An amendment by Mr. Upton or Ms. Harman regarding use of Energy Star 
+certified light bulbs;
+  An amendment by Mr. Shadegg limiting use of funds to breach or remove 
+hydropower dams;
+  An amendment by Mr. Hinchey or Mr. Wolf limiting use of funds for 
+designation of transmission corridors, which shall be debatable for 20 
+minutes;
+  An amendment by Mr. Gohmert limiting use of funds for a certain 
+settlement regarding the National Resources Defense Council;
+  An amendment by Mr. Campbell of California reducing funds in the 
+bill, which shall be debatable for 30 minutes;
+  An amendment by Mr. Campbell of California reducing funds in the 
+bill, which shall be debatable for 30 minutes;
+  An amendment by Mr. Obey regarding earmarks;
+  An amendment by Mr. Garrett of New Jersey limiting the use of funds 
+for international conferences;
+  An amendment by Mr. Hobson limiting use of funds for the Mental 
+Illness and Neuroscience Discovery Institute in New Mexico; and
+  An amendment or amendments by Mr. Visclosky regarding funding levels.
+  Each such amendment may be offered only by the Member named in this 
+request or a designee, shall be considered as read, shall not be 
+subject to amendment except that the chairman and ranking minority 
+member of the Committee on Appropriations and the Subcommittee on 
+Energy and Water Development each may offer one pro forma amendment for 
+the purpose of debate; and shall not be subject to a demand for 
+division of the question in the House or in the Committee of the Whole.
+  Except as otherwise specified, each amendment shall be debatable for 
+10 minutes equally divided and controlled by the proponent and an 
+opponent. An amendment shall be considered to fit the description 
+stated in this request if it addresses in whole or in part the object 
+described.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Indiana?
+  Mr. HOBSON. Madam Speaker, reserving the right to object, I need a 
+point of clarification on the amendment here on the UC. It's my 
+understanding that this says that no amendment to the bill will be 
+offered except the following; but that there will be another UC later 
+that will come forward that will allow the additional supplemental, to 
+allow that to come into the bill at a later date. Am I correct on that?
+  Mr. VISCLOSKY. My understanding is there would be an additional UC, a 
+unanimous consent request, or a new rule for the supplemental report 
+that would come up.
+  Mr. HOBSON. Well, I don't think they want a new rule. I think they 
+just want the understanding that there will be the provision that comes 
+forth with the supplemental material coming into the bill. That was the 
+understanding I thought was reached in the UC. Am I correct?
+  Mr. VISCLOSKY. My understanding is that we would agree to a UC.
+  Mr. HOBSON. I don't think they want a new rule. I think the point is 
+they don't want to go back to Rules again to bring the supplemental 
+material back into the bill at the later date, and that is basically 
+the earmark provision of the bill. Am I correct?
+  Mr. VISCLOSKY. That's fine. Yes, sir.
+  Mr. HOBSON. Madam Speaker, I withdraw my reservation based on that 
+understanding.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Indiana?
+  There was no objection.
+
+[[Page 16268]]
+
+
+
+                          ____________________
+```

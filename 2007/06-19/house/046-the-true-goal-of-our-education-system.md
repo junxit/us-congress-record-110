@@ -1,0 +1,67 @@
+---
+granule: CRECB-2007-pt12-Pg16282
+date: 2007-06-19
+edition: CRECB
+section: HOUSE
+page: 16282
+---
+
+# THE TRUE GOAL OF OUR EDUCATION SYSTEM
+
+```
+                 THE TRUE GOAL OF OUR EDUCATION SYSTEM
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from Illinois (Mr. Davis) is recognized for 5 minutes.
+  Mr. DAVIS of Illinois. Mr. Speaker, Dr. Martin Luther King, Jr. 
+described the end result of education as a person having the ability to 
+think intensively and critically. He embraced the idea that 
+intelligence plus character should be the true goal of our education 
+system. This truly is the goal that we must strive and work towards.
+  Helping our children to think is crucial; however, the blocks to 
+build to that point are difficult to create. It takes support, 
+resources, confidence and opportunity, but most importantly, these 
+pieces must be available for each individual no matter who or where 
+they come from.
+  Today we find our public school systems throughout America in many 
+places in disarray, underfunded, overpopulated, and, in many districts, 
+underattended. As a Nation, we have moved forward, and then there are 
+times when it looks as though we're doing the Watusi, that is, two 
+steps forward, and two steps back.
+  I can remember a time when, in almost any community that you went, 
+people realized and recognized that education was the absolute key to 
+progress.
+  According to the Abecedarian study, the importance of early childhood 
+education is critical. The report shows that children who receive a 
+formal early childhood education overwhelmingly do better in school.
+  Unfortunately, 55 percent of children whose families are below the 
+poverty line do not receive a formal early childhood education. An 
+overwhelming number of these children, whose mothers are unemployed, do 
+not have access to early childhood education. These numbers are 
+astonishing, especially given what we already know.
+  We are engaged in competitiveness, not just in communities and 
+neighborhoods or States, but from a global perspective, and unless 
+children get an early beginning, they find themselves continuously 
+behind and finding it difficult to catch up.
+  And finally, Mr. Speaker, one of the areas that I have a tremendous 
+amount of concern about is the fact that African American males are 
+graduating from high school at a rate of less than 50 percent. As a 
+matter of fact, many of them drop out as early as third or fourth 
+grade.
+  And it's my contention that they drop out because, for many of them, 
+they have never seen a male figure with a book in his hand. They've 
+never had a male teacher who looked like them. They've never seen a 
+male at home with a book. And so they contend that education is a 
+female or woman or girl kind of thing.
+  And we must find ways to get more male teachers in the classroom, 
+more male teachers involved in Head Start. And we must get communities 
+totally engaged and totally involved, so that as children grow up, they 
+will know that education has been and will continue to be the great 
+equalizer, and without it they don't have a chance.
+  So I thank you, Mr. Speaker. I thank the Congressional Black Caucus, 
+our chairman, Representative Kilpatrick, for setting aside this time to 
+address education issues, especially affecting African American 
+communities.
+
+                          ____________________
+```
