@@ -1,0 +1,19 @@
+---
+granule: CREC-2007-06-19-pt1-PgH6726-3
+date: 2007-06-19
+edition: CREC
+section: HOUSE
+page: H6726
+citation: 153 Cong. Rec. H6726
+---
+
+# The SPEAKER pro tempore. Under a previous order of the House, the gentlewoman from New York (Ms. Clarke) is recognized for 5 minutes.
+
+```
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentlewoman from New York (Ms. Clarke) is recognized for 5 minutes.
+  (Ms. CLARKE addressed the House. Her remarks will appear hereafter in 
+the Extensions of Remarks.)
+
+                          ____________________
+```

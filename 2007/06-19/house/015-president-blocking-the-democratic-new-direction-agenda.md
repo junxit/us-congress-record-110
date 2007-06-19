@@ -1,0 +1,39 @@
+---
+granule: CREC-2007-06-19-pt1-PgH6664-4
+date: 2007-06-19
+edition: CREC
+section: HOUSE
+page: H6664
+citation: 153 Cong. Rec. H6664
+---
+
+# PRESIDENT BLOCKING THE DEMOCRATIC NEW DIRECTION AGENDA
+
+**Speaking:** Perlmutter, Ed (P000593) [D-CO]
+
+```
+         PRESIDENT BLOCKING THE DEMOCRATIC NEW DIRECTION AGENDA
+
+  (Mr. PERLMUTTER asked and was given permission to address the House 
+for 1 minute.)
+  Mr. PERLMUTTER. Mr. Speaker, the new Democratic-led House has been 
+listening to the American people and working to take our Nation in a 
+new direction. We've passed a wide range of measures to strengthen our 
+military, grow our economy and support working families, many with 
+bipartisan support.
+  For example, so far this year, we've passed legislation implementing 
+the
+9/11 Commission recommendations, approved a budget that achieves a 
+balance in 5 years, passed sweeping congressional ethics reform, 
+repealed big oil subsidies, invested funds in renewable energy and 
+increased the minimum wage.
+  But the President continues his stubborn opposition to this new 
+direction that we are providing on Iraq and on key domestic measures. 
+He does not support or has threatened to veto about two-thirds of the 
+important work we've already provided.
+  Mr. Speaker, our priorities are America's priorities. It's time the 
+President stops obstructing our agenda and begins working with us to 
+improve the lives of all Americans.
+
+                          ____________________
+```
