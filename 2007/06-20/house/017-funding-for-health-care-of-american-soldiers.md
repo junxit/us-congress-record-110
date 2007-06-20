@@ -1,0 +1,40 @@
+---
+granule: CREC-2007-06-20-pt1-PgH6741
+date: 2007-06-20
+edition: CREC
+section: HOUSE
+page: H6741
+citation: 153 Cong. Rec. H6741
+---
+
+# FUNDING FOR HEALTH CARE OF AMERICAN SOLDIERS
+
+**Speaking:** Mahoney, Tim (M001164) [D-FL]
+
+```
+              FUNDING FOR HEALTH CARE OF AMERICAN SOLDIERS
+
+  (Mr. MAHONEY of Florida asked and was given permission to address the 
+House for 1 minute.)
+  Mr. MAHONEY of Florida. Mr. Speaker, it's an unfortunate fact of war 
+young American soldiers are not only losing their lives on the 
+battlefield, but many soldiers who survive traumatic combat injuries 
+are returning home with equally serious psychological wounds. 
+Unfortunately, the Veterans Administration has not been given, by this 
+administration, the personnel and the funding necessary to address the 
+problem.
+  A recent series of Washington Post articles followed the stories of 
+several soldiers returning home from service in Iraq who suffer from 
+post-traumatic stress disorder. The articles paint a harrowing picture 
+of the challenges that face these veterans, suicidal patients left in 
+waiting rooms, psychiatric wards with terrible odors and a 
+disconcerting lack of therapy and treatment.
+  Mr. Speaker, last week this House took action to help our military 
+personnel who are suffering from post-traumatic stress syndrome. We 
+passed the largest increase for funding for veterans health care in the 
+VA's history. This includes treatment for PTSD.
+  It is clear that these funds are desperately needed to provide better 
+care for our men and women returning from serving our Nation.
+
+                          ____________________
+```
