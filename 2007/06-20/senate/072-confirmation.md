@@ -1,0 +1,24 @@
+---
+granule: CRECB-2007-pt12-Pg16736-4
+date: 2007-06-20
+edition: CRECB
+section: SENATE
+page: 16736
+---
+
+# CONFIRMATION
+
+```
+                              CONFIRMATION
+
+  Executive nomination confirmed by the Senate June 20, 2007:
+
+
+                      department of transportation
+
+       DAVID JAMES GRIBBIN IV, OF VIRGINIA, TO BE GENERAL COUNSEL 
+     OF THE DEPARTMENT OF TRANSPORTATION.
+       THE ABOVE NOMINATION WAS APPROVED SUBJECT TO THE NOMINEE'S 
+     COMMITMENT TO RESPOND TO REQUESTS TO APPEAR AND TESTIFY 
+     BEFORE ANY DULY CONSTITUTED COMMITTEE OF THE SENATE.
+```

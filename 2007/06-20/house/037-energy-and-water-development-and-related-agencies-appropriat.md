@@ -1,0 +1,10300 @@
+---
+granule: CRECB-2007-pt12-Pg16491-2
+date: 2007-06-20
+edition: CRECB
+section: HOUSE
+page: 16491
+---
+
+# ENERGY AND WATER DEVELOPMENT AND RELATED AGENCIES APPROPRIATIONS ACT, 2008
+
+```
+ ENERGY AND WATER DEVELOPMENT AND RELATED AGENCIES APPROPRIATIONS ACT, 
+                                  2008
+
+  The SPEAKER pro tempore. Pursuant to House Resolution 481 and rule 
+XVIII, the Chair declares the House in the Committee of the Whole House 
+on the state of the Union for the further consideration of the bill, 
+H.R. 2641.
+
+                              {time}  1248
+
+
+                     In the Committee of the Whole
+
+  Accordingly, the House resolved itself into the Committee of the 
+Whole House on the state of the Union for the further consideration of 
+the bill (H.R. 2641) making appropriations for energy and water 
+development and related agencies for the fiscal year ending September 
+30, 2008, and for other purposes, with Mr. Lynch (Acting Chairman) in 
+the chair.
+  The Clerk read the title of the bill.
+  The Acting CHAIRMAN. When the Committee of the Whole rose on Tuesday, 
+June 19, 2007, amendment No. 19 offered by the gentleman from Minnesota 
+(Mr. Kline) had been disposed of and the bill had been read through 
+page 25, line 6.
+  Mr. VISCLOSKY. Mr. Chairman, I move to strike the last word.
+  The Acting CHAIRMAN. The gentleman is recognized for 5 minutes.
+  Mr. VISCLOSKY. I would like to use my time and recognize the 
+gentleman from South Carolina for a colloquy.
+  Mr. INGLIS of South Carolina. I thank the gentleman for yielding.
+  Mr. Chairman, I thank you and the ranking member for your work on 
+this bill.
+  Two weeks ago the House passed the H-Prize Act of 2007. The H-Prize 
+was overwhelmingly supported here in the House with a vote of 408-8, 
+and last year 416-6. The H-Prize is a nonbureaucratic way for 
+government to achieve its goal of harnessing America's entrepreneurial 
+spirit to tackle our energy challenges. The best part is, if no one 
+wins the government doesn't have to pay.
+  We need $6 million, Mr. Chairman, to fund the H-Prize at its 
+inception. Of that amount, $1 million would be used to fund a prize for 
+advancements in components or systems related to hydrogen storage, $4 
+million would be used to fund a prize for development of prototypes of 
+hydrogen-powered vehicles or other hydrogen-based products, and $1 
+million would be used for administration of the prize competitions.
+  The Secretary of Energy was granted authorization for creating prizes 
+in the Energy Policy Act of 2005. The H-Prize gives structure to this 
+prize authority in accordance with recommendations from industry, 
+academia, government and venture capitalists.
+  I would ask the chairman if he would work with Mr. Lipinski, the 
+gentleman from Illinois, and me to provide funding for the H-Prize as 
+we move forward in conference with the Senate.
+  Mr. VISCLOSKY. Mr. Chairman, I appreciate the gentleman and Mr. 
+Lipinski's request for funding for this very worthwhile program, and 
+certainly look forward to working with him as well as the gentleman 
+from Illinois as we go to conference.
+  Mr. INGLIS of South Carolina. I thank the gentleman.
+  The Acting CHAIRMAN. The Clerk will read.
+  The Clerk read as follows:
+
+
+                      Departmental Administration
+
+                     (including transfer of funds)
+
+       For salaries and expenses of the Department of Energy 
+     necessary for departmental administration in carrying out the 
+     purposes of the Department of Energy Organization Act (42 
+     U.S.C. 7101 et seq.), including the hire of passenger motor 
+     vehicles and official reception and representation expenses 
+     not to exceed $5,000, $304,782,000, to remain available until 
+     expended, of which $2,390,000 shall be available for 
+     necessary administrative expenses to carry out the loan 
+     guarantee program under title XVII of Public Law 109-58, plus 
+     such additional amounts as necessary to cover increases in 
+     the estimated amount of cost of work for others 
+     notwithstanding the provisions of the Anti-Deficiency Act (31 
+     U.S.C. 1511 et seq.): Provided, That such increases in cost 
+     of work are offset by revenue increases of the same or 
+     greater amount, to remain available until expended: Provided 
+     further, That moneys received by the Department for 
+     miscellaneous revenues estimated to total $161,818,000 in 
+     fiscal year 2008 may be retained and used for operating 
+     expenses within this account, and may remain available until 
+     expended, as authorized by section 201 of Public Law 95-238, 
+     notwithstanding the provisions of 31 U.S.C. 3302: Provided 
+     further, That fees collected pursuant to section 1702(h) of 
+     Public Law 109-58 shall be credited as offsetting collections 
+     to this account: Provided further, That the sum herein 
+     appropriated shall be reduced by the amount of miscellaneous 
+     revenues received during 2008, and any related appropriated 
+     receipt account balances remaining from prior years' 
+     miscellaneous revenues, so as to result in a final fiscal 
+     year 2008 appropriation from the general fund estimated at 
+     not more than $142,964,000.
+
+
+                  Amendment No. 4 Offered by Mr. Space
+
+  Mr. SPACE. Mr. Chairman, I offer an amendment.
+  The Acting CHAIRMAN. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment No. 4 offered by Mr. Space:
+
+[[Page 16492]]
+
+       Page 25, line 14, after the second dollar amount insert 
+     ``(reduced by $30,000,000)''.
+       Page 37, line 19, after the dollar amount insert 
+     ``(increase by $30,000,000)''.
+
+  The Acting CHAIRMAN. Pursuant to the order of the House of Tuesday, 
+June 19, 2007, the gentleman from Ohio (Mr. Space) and a Member opposed 
+each will control 5 minutes.
+  The chairman recognizes the gentleman from Ohio.
+  Mr. SPACE. Mr. Chairman, I yield myself 2 minutes.
+  Mr. Chairman, I am offering this bipartisan amendment with 
+Congressman Aderholt to restore funding for the ARC, Appalachian 
+Regional Commission, to $65 million in this bill. This amendment brings 
+the Commission's funding up so that it's equal to the President's 
+request in the previous year's funding level.
+  The Appalachian Regional Commission is very important to my district 
+and many other districts from New York to Mississippi. The Appalachian 
+Regional Commission is a model for Federal economic development 
+initiatives, and has been a responsible steward of the Federal funds it 
+has received over the years. For example, in fiscal year 2006, across 
+all investment areas, each dollar of ARC funding was matched by $3.14 
+in non-ARC public project funding, and each ARC dollar invested 
+leveraged $11.55 in private investment in ARC projects over time. This 
+restoration of funds will be offset by a $30 million reduction to the 
+Department of Energy's administrative account.
+  I understand that the Appropriations Committee must make difficult 
+decisions this year. However, over the last 10 years, funding for the 
+ARC has remained level, at around $65 million, and the region continues 
+to receive less Federal assistance per capita than the rest of the 
+country. Additionally, the House of Representatives had voted to 
+authorize the ARC at levels much higher than $65 million.
+  The 410-county region still faces a complex set of economic and 
+social challenges, and will need continued support from Congress. 
+Without basic infrastructure, economic development and improvements in 
+the overall quality of life, the Appalachian region will continue to 
+lag well behind the rest of the Nation.
+  I ask my colleagues to support this bipartisan amendment to restore 
+funding for the commission to levels equal with the President's request 
+and the current funding level for this program.
+  Mr. Chairman, I would like to yield 2 minutes to the gentleman from 
+Alabama (Mr. Aderholt).
+  Mr. ADERHOLT. Mr. Chairman, I rise today in support of Congressman 
+Space's amendment, which is of course funding for the ARC, Appalachian 
+Regional Commission, in this year's Energy and Water appropriations 
+bill.
+  Many Americans may not be aware that this was a program that was 
+established back in 1965. ARC was created to address the persistent 
+poverty and the growing economic despair of the Appalachian region, 
+which is an area that extends from southern New York to northeast 
+Mississippi. At that time in 1965, one out of every three Appalachians 
+lived in poverty. Per capita income was 23 percent lower than the U.S. 
+average, and high unemployment and harsh living conditions had, in the 
+1950s, forced more than 2 million people in that area to leave their 
+homes and seek work in other regions.
+  Even today, ongoing changes in declining sectors of the economy, such 
+as manufacturing and textiles, exacerbated by globalization, changes in 
+technology, and the recent downturn in the economy have hit this region 
+very, very hard. It has threatened to reverse a lot of the economic 
+gains that were made in these communities over the past several years. 
+For an area that has suffered economically for so long, we can't allow 
+this to happen.
+  By funding the ARC at least at last year's level, $65 million, we 
+will ensure that the people and the businesses of Appalachia have the 
+knowledge, have the skills and the access to telecommunications and the 
+technology to compete in a technology-based economy.
+  As has been mentioned here by Congressman Space, this restoration of 
+funds will be offset by $30 million for the Department of Energy's 
+administrative account. ARC has been a responsible steward for the 
+Federal funds that it has received over the past several years. For 
+example, in fiscal year 2006, across all investment areas each dollar 
+of ARC funding was matched by $3.14 in non-ARC public project funding, 
+and each ARC dollar invested leveraged $11.55 in private investment in 
+ARC projects over time.
+  The 410-county region still faces a complex set of issues. However, 
+this program has made a difference, and we are seeing results.
+  Over the last 10 years, funding for the ARC has remained level at $65 
+million. And the region continues to receive less Federal assistance 
+per capita than the rest of the country. Additionally, in the past, the 
+House of Representatives has voted to authorize the ARC levels at the 
+higher level of $65 million.
+  I would like to thank Congressman Space for his assistance in this 
+program, and also Chairman Visclosky for his attention to this matter.
+  Mr. SPACE. I thank the gentleman from Alabama and would yield 1 
+additional minute to the Congresswoman from West Virginia (Mrs. 
+Capito).
+  Mrs. CAPITO. I want to thank Mr. Space for offering his amendment to 
+something that I believe in very much, and that is more funding for the 
+Appalachian Regional Commission.
+  The ARC encompasses all 55 counties of the State of West Virginia and 
+is an important resource to the lower economic communities across 
+Appalachia. Some of the good news is, since the ARC was created, 
+poverty in the region has dropped from 31 percent to 13 percent, and 
+more adults have high school diplomas. The percentage rate has risen to 
+70 percent. Over 400 rural primary health care facilities have been 
+built. And in my district, three of the counties of my district have 
+recently been removed from the list of economically distressed 
+counties. We have already seen that ARC is a solid investment for our 
+government by leveraging both private and public dollars.
+  The Appalachian region still lags behind the Nation in water and 
+wastewater facilities, health care and poverty. And the ARC is a major 
+part of continuing to address these challenges in my district and 
+across the region. Now is not the time to cut ARC funding. This 
+amendment will simply bring ARC funds back up to last year's level and 
+the President's requested level of $65 million.
+  I look forward to bipartisan support of this amendment.
+  Mr. VISCLOSKY. Mr. Chairman, I rise in opposition to the amendment.
+  The Acting CHAIRMAN. The gentleman is recognized for 5 minutes.
+  Mr. VISCLOSKY. Mr. Chairman, I rise to engage in a colloquy with the 
+gentleman, Mr. Space, to express my appreciation for the concern he has 
+for his constituency, as well as the gentlelady from West Virginia, and 
+my colleague on the committee, Mr. Aderholt, who also raised an 
+amendment in the full committee.
+  Again, I appreciate their work and their concern for the people in 
+economic development of not only their individual constituencies, but 
+their region, and certainly would pledge to continue to work with them 
+to address their concerns.
+  Having said that, I would ask my colleague from Ohio to withdraw his 
+amendment.
+
+                              {time}  1300
+
+  Mr. SPACE. Mr. Chairman, with that commitment to work for the 
+concerns of those in Appalachia, I would, at this point, withdraw the 
+amendment and continue to work with my colleagues on this important 
+issue.
+  Mr. Chairman, I ask unanimous consent to withdraw my amendment.
+  The Acting CHAIRMAN. Is there objection to the request of the 
+gentleman from Ohio?
+  There was no objection.
+
+
+                  Amendment No. 18 Offered by Ms. Foxx
+
+  Ms. FOXX. Mr. Chairman, I offer an amendment.
+  The Acting CHAIRMAN. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+
+[[Page 16493]]
+
+       Amendment No. 18 offered by Ms. Foxx:
+       Page 25, line 14, after the second dollar amount, insert 
+     ``(reduced by $27,950,000)''.
+
+  The Acting CHAIRMAN. Pursuant to the order of the House of Tuesday, 
+June 19, 2007, the gentlewoman from North Carolina (Ms. Foxx) and a 
+Member opposed each will control 5 minutes.
+  The Chair recognizes the gentlewoman from North Carolina.
+  Ms. FOXX. Mr. Chairman, my amendment would reduce funding for the 
+Department of Energy Departmental Administration to the fiscal year 
+2007 level. This amendment would save $28 million, reducing the account 
+from $304.782 million to $276.832 million, the fiscal year 2007 enacted 
+level.
+  The Energy and Water appropriations bill is already $1.1 billion over 
+the President's request. This amendment would reduce the funding in the 
+Departmental Administration account, putting it at last year's enacted 
+level. The bill provides a 10 percent increase for DOE's Departmental 
+Administration account.
+  There has been at least $105.5 billion in new Federal spending over 
+the next 5 years authorized by the House Democratic leadership this 
+year. In enacting the largest tax increase in American history, the 
+Democrats' budget allows for $28 billion in spending over that of the 
+President's budget request.
+  This amendment is designed to save the taxpayers almost $30 million, 
+just a small dent in the unnecessary increases in Federal spending this 
+year, which is being fueled by huge tax increases. We've constantly 
+heard on the floor, around this bill especially, the problem of 
+increased rules and regulations. What happens when you have additional 
+administrators? What you are going to get are more rules and more 
+regulations.
+  We are constantly adding administrative costs to all of the Federal 
+Government. I think we can make a very small dent, but an important 
+dent, in our deficit spending by cutting these funds. This should not 
+hurt at all the administration of the Department and the administration 
+of programs.
+  If we were going to put in additional funding anywhere, we ought to 
+put that money in for direct services and not for administration. We 
+hear more and more about too much administration in the education 
+field, but I think we have it all over the Federal Government, State 
+governments, local governments.
+  We are talking about deficits, not surpluses. If we had a huge 
+surplus in this country, we might be wanting to talk about spending 
+additional money. But we don't need to be doing that. This will benefit 
+the taxpayers all over this country. And what we need to do is to cut 
+spending, not increase spending. That is what we heard all last year 
+from the majority party. I am surprised that we aren't continuing to 
+hear it this year. When they are in charge, they want to spend lots of 
+money.
+  So, Mr. Chairman, I respectfully ask my colleagues to support this, 
+which would save $28 million and make a small dent in our deficit.
+  Mr. Chairman, I yield back the balance of my time.
+  Mr. VISCLOSKY. Mr. Chairman, I rise in opposition to the 
+gentlewoman's amendment.
+  The Acting CHAIRMAN. The gentleman is recognized for 5 minutes.
+  Mr. VISCLOSKY. Mr. Chairman, this amendment would reduce DOE's Office 
+of Administration by over $27 million. The bill provides $304 million, 
+a decreased amount under the President's request.
+  The Departmental Administration account funds the guts of the 
+Department; the chief financial officer, human resources, the general 
+counsel, the chief information officer, all are integral to the 
+functioning of the $25 billion operation of the Department of Energy.
+  What I am particularly concerned about relative to the gentlewoman's 
+amendment is that the bill has initiatives that would not be funded as 
+a result of the reductions.
+  There are funds provided in this bill for additional legal counsel to 
+expedite energy efficiency standards for appliances. There has been a 
+significant accumulation of backlog for this work. We can expedite this 
+work and save energy in this country.
+  The bill also funds a review by the National Academy of Public 
+Administration for the contracting in human resources process. 
+Mentioned yesterday during debate, the Department of Energy has been on 
+a high-risk list with the GAO for 17 years. The purpose of the 
+subcommittee of having the National Academy of Public Administration 
+come in is to get DOE off so that they stop wasting and mismanaging 
+money. And I would hate to see that function not occur because of the 
+gentlewoman's amendment.
+  Mr. Chairman, I would urge rejection of it.
+  Mr. Chairman, I reserve the balance of my time.
+  Mr. HOBSON. Mr. Chairman, I move to strike the last word.
+  The Acting CHAIRMAN. The gentleman is recognized for 5 minutes.
+  Mr. HOBSON. Mr. Chairman, I rise in opposition to the gentlewoman's 
+amendment. And while they say miracles never cease, this is living 
+proof. Despite my frustrations with the leadership of the Department of 
+Energy, and they are great, I am rising to oppose the gentlewoman's 
+motion to cut the DOE's Departmental Administration and make a case for 
+why they need the level requested by the President.
+  For too long, DOE has been stuck in a quagmire of mismanagement, 
+operating devoid of leadership and vision. But cutting funds that are 
+critical to the successful management of our Nation's energy programs, 
+especially at such a critical time in terms of our energy security, I 
+think is a foolish time to do that. A cut of close to $30 million to 
+this account will cost far more in terms of our Nation's energy needs 
+than the good message it might send.
+  So don't be misled by the gentlewoman's argument that cutting $28 
+million in discretionary funds in this account will reduce the deficit. 
+It might. But I think it will do the opposite. It will undermine DOE's 
+efforts to oversee climate change research, improve the use of 
+renewable energy, and provide national scientific leadership.
+  But DOE, I hope, is listening today and gets the message. They need 
+to get their act together, and I agree with the fact that they don't 
+have their act together. But I don't think this is the way to get their 
+attention at this moment. But if I thought it was, I would agree with 
+the gentlewoman, because I believe the intent here is more than just to 
+cut the deficit. It is to wake them up to get some reasonable 
+management in that quagmire that is over there and just answers to the 
+other body's needs all the time for additional spending. So it is 
+unfortunate, but I do oppose the gentlewoman's amendment.
+  Mr. VISCLOSKY. Mr. Chairman, I would yield back my time and urge a 
+``no'' vote.
+  The Acting CHAIRMAN. The question is on the amendment offered by the 
+gentlewoman from North Carolina (Ms. Foxx).
+  The question was taken; and the Acting Chairman announced that the 
+noes appeared to have it.
+  Ms. FOXX. Mr. Chairman, I demand a recorded vote.
+  The Acting CHAIRMAN. Pursuant to clause 6 of rule XVIII, further 
+proceedings on the amendment offered by the gentlewoman from North 
+Carolina will be postponed.
+  The Clerk will read.
+  The Clerk read as follows:
+
+
+                      Office of Inspector General
+
+       For necessary expenses of the Office of Inspector General 
+     in carrying out the provisions of the Inspector General Act 
+     of 1978, $47,732,000, to remain available until expended.
+
+
+                   Amendment Offered by Mr. Matheson
+
+  Mr. MATHESON. Mr. Chairman, I offer an amendment.
+  The Acting CHAIRMAN. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment offered by Mr. Matheson:
+       Page 26, line 17, after the dollar amount insert ``(reduced 
+     by $1,000,000) (increased by $1,000,000)''.
+
+  The Acting CHAIRMAN. Pursuant to the order of the House of Tuesday, 
+June 19, 2007, the gentleman from Utah (Mr. Matheson) and a Member 
+opposed each will control 5 minutes.
+
+[[Page 16494]]
+
+  The Chair recognizes the gentleman from Utah.
+  Mr. MATHESON. Mr. Chairman, the Department of Energy is currently 
+managing 206 ongoing projects and, unfortunately, the agency has a long 
+record of inadequate management and oversight of contracts. DOE's 
+failure to hold contractors accountable led the GAO to designate DOE 
+contract administration and project management as a high-risk area for 
+waste, fraud, abuse and mismanagement way back in 1990. Although DOE 
+has made some oversight improvements in the intervening years, GAO 
+noted in reports completed this year, 17 years after the 1990 report, 
+that major problems exist in contracting management at the agency.
+  One quick example: On a project started in 2004 to demonstrate an 
+alternative waste treatment technology at DOE's Hanford site, DOE 
+officials decided to accelerate the project's schedule. As a result, 
+the project was initiated without using key project management tools, 
+such as an independent review of the cost and schedule baseline. After 
+the project experienced significant schedule and technical problems and 
+the estimated cost more than tripled to about $230 million, DOE began 
+requiring that the project be managed consistent with its project 
+management requirements.
+  Furthermore, on four additional projects, estimated to cost over $100 
+million each, cost and schedule information was not being reported into 
+DOE's project tracking system, resulting in less senior management 
+oversight.
+  My amendment would simply require DOE's Inspector General to conduct 
+a root-cause analysis to fully understand the causes of its contract 
+and management problems, as has been recommended by the GAO.
+  I encourage everyone to support this amendment as a necessary first 
+step in order to better address the contract management challenges 
+faced by the DOE.
+  Mr. Chairman, I yield to the gentleman from Indiana (Mr. Visclosky).
+  Mr. VISCLOSKY. Mr. Chairman, I accept the gentleman's amendment. I 
+understand his concern, as I and Mr. Hobson have grave concerns about 
+the department's record on contracting and project management as well.
+  This bill requires the department to develop an action plan due to 
+Congress that will get DOE off the GAO high-risk list for their 
+contract management performance as soon as possible, as I indicated in 
+the previous debate, where they have been since 1990; follow its own 
+guidelines in Management Order 413.3 for project management; and 
+contract with the National Academy of Public Administration for a 
+review of the departmental contracting processes, which have been a 
+choke point of getting work done.
+  Again, I would be pleased to accept the gentleman's amendment and the 
+record that is established for the department to follow through on 
+GAO's recommendation to examine the root causes of poor contract 
+management.
+  Mr. HOBSON. Mr. Chairman, if the gentleman will yield, I wish to 
+associate myself with the chairman's comments. I have no objection to 
+the amendment.
+  Mr. MATHESON. Mr. Chairman, I yield back the balance of my time.
+  The Acting CHAIRMAN. The question is on the amendment offered by the 
+gentleman from Utah (Mr. Matheson).
+  The amendment was agreed to.
+  The Acting CHAIRMAN. The Clerk will read.
+  The Clerk read as follows:
+
+                    ATOMIC ENERGY DEFENSE ACTIVITIES
+
+                National Nuclear Security Administration
+
+
+                           Weapons Activities
+
+       For Department of Energy expenses, including the purchase, 
+     construction, and acquisition of plant and capital equipment 
+     and other incidental expenses necessary for atomic energy 
+     defense weapons activities in carrying out the purposes of 
+     the Department of Energy Organization Act (42 U.S.C. 7101 et 
+     seq.), including the acquisition or condemnation of any real 
+     property or any facility or for plant or facility 
+     acquisition, construction, or expansion, $5,879,137,000 to 
+     remain available until expended.
+
+
+                    Defense Nuclear Nonproliferation
+
+       For Department of Energy expenses, including the purchase, 
+     construction, and acquisition of plant and capital equipment 
+     and other incidental expenses necessary for atomic energy 
+     defense, defense nuclear nonproliferation activities, in 
+     carrying out the purposes of the Department of Energy 
+     Organization Act (42 U.S.C. 7101 et seq.), including the 
+     acquisition or condemnation of any real property or any 
+     facility or for plant or facility acquisition, construction, 
+     or expansion, $1,683,646,000, to remain available until 
+     expended.
+
+
+                             Naval Reactors
+
+       For Department of Energy expenses necessary for naval 
+     reactors activities to carry out the Department of Energy 
+     Organization Act (42 U.S.C. 7101 et seq.), including the 
+     acquisition (by purchase, condemnation, construction, or 
+     otherwise) of real property, plant, and capital equipment, 
+     facilities, and facility expansion, $808,219,000, to remain 
+     available until expended.
+
+
+                      Office of the Administrator
+
+       For necessary expenses of the Office of the Administrator 
+     in the National Nuclear Security Administration, including 
+     official reception and representation expenses not to exceed 
+     $12,000, $415,879,000, to remain available until expended.
+
+
+                     Defense Environmental Cleanup
+
+                     (including transfer of funds)
+
+       For Department of Energy expenses, including the purchase, 
+     construction, and acquisition of plant and capital equipment 
+     and other expenses necessary for atomic energy defense 
+     environmental cleanup activities in carrying out the purposes 
+     of the Department of Energy Organization Act (42 U.S.C. 7101 
+     et seq.), including the acquisition or condemnation of any 
+     real property or any facility or for plant or facility 
+     acquisition, construction, or expansion, and the purchase of 
+     not to exceed three passenger motor vehicles for replacement 
+     only, $5,766,561,000, to remain available until expended, of 
+     which $463,000,000 shall be transferred to the ``Uranium 
+     Enrichment Decontamination and Decommissioning Fund''.
+
+
+                        Other Defense Activities
+
+                     (including transfer of funds)
+
+       For Department of Energy expenses, including the purchase, 
+     construction, and acquisition of plant and capital equipment 
+     and other expenses, necessary for atomic energy defense, 
+     other defense activities, and classified activities, in 
+     carrying out the purposes of the Department of Energy 
+     Organization Act (42 U.S.C. 7101 et seq.), including the 
+     acquisition or condemnation of any real property or any 
+     facility or for plant or facility acquisition, construction, 
+     or expansion, and the purchase of not to exceed twelve 
+     passenger motor vehicles for replacement only, $604,313,000, 
+     to remain available until expended: Provided, That of the 
+     funds provided under this heading in Public Law 109-103, 
+     $4,900,000 are transferred to ``Weapons Activities'' for 
+     planning activities associated with special nuclear material 
+     consolidation.
+
+
+              Amendment Offered by Mr. Udall of New Mexico
+
+  Mr. UDALL of New Mexico. Mr. Chairman, I offer an amendment.
+  The Acting CHAIRMAN. Is there objection to considering the amendment 
+at this point in the reading?
+  There was no objection
+  The Acting CHAIRMAN. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment offered by Mr. Udall of New Mexico:
+       Page 27, line 4, after the dollar amount, insert 
+     ``(increased by $192,123,000)''.
+       Page 28, line 2, after the second dollar amount, insert 
+     ``(reduced by $192,123,000)''.
+
+  The Acting CHAIRMAN. Pursuant to the order of the House of Tuesday, 
+June 19, 2007, the gentleman from New Mexico (Mr. Udall) and a Member 
+opposed each will control 5 minutes.
+  The Chair recognizes the gentleman from New Mexico.
+
+                              {time}  1315
+
+  Mr. UDALL of New Mexico. First let me thank the chairman and ranking 
+member for their work on this bill, which provides a bold vision for 
+moving this country forward along a path of clean energy independence 
+and limits spending on new nuclear weapons.
+  My district has a particular interest in this bill, as I represent 
+the scientists, employees, and community of Los Alamos National 
+Laboratory, also known as LANL. The scientists at LANL are the best in 
+the world and they work with a commitment to both national security and 
+the pursuit of scientific knowledge. In recent years, there have been 
+administrative and managerial difficulties, which we all agree are 
+unacceptable. Nevertheless, the mission of the lab and the workers are 
+the two things that I will always fiercely defend.
+
+[[Page 16495]]
+
+  Stockpile stewardship, the core mission at LANL, certifies to the 
+President every year that the nuclear stockpile is safe, reliable and 
+accurate. My amendment will help ensure the stability of that mission 
+and thus the rigor of our Nation's security, while also building a 
+bridge to the future.
+  It will restore funding to the President's request for three specific 
+areas, including upgrades to the Road Runner computer; the readiness 
+and technical base and facilities at LANL; and the scientific campaign. 
+In so doing, I propose to reduce spending in the office of the NNSA 
+Administrator.
+  The Road Runner computer upgrades will increase LANL's supercomputing 
+capability and keep the lab's ability to conduct computer simulated 
+weapons testing at state-of-the-art. Additionally, the capacity can 
+also be used for advanced non-weapons materials research, and thus 
+broaden the scientific capability of the lab. The amendment restores 
+proposed reductions in Readiness in Technical Base and Facilities at 
+LANL, which would grind to a halt any safety improvements in the lab's 
+infrastructure.
+  Finally, the science campaign is at the heart of stockpile 
+stewardship. It sustains our Nation's capabilities and understanding of 
+nuclear weapons, which is essential to protecting our Nation. It also 
+allows us to keep our treaty commitments and not perform nuclear 
+testing.
+  I believe that the cuts in this bill to our Nation's premier national 
+security laboratory hurt the core mission and inhibit the laboratory's 
+ability to transition toward the necessary work on energy independence.
+  LANL must prepare for the future, which includes diversification of 
+its mission. As Chairman Visclosky has recognized in this legislation, 
+securing our Nation's energy independence is one of the most critical 
+areas of our national security. LANL has an important role to play in 
+this regard.
+  Mr. Chairman, I reserve the balance of my time.
+  Mr. VISCLOSKY. Mr. Chairman, I rise in strong opposition to the 
+gentleman's amendment, and would hope that at the end of this debate he 
+consider the withdrawal of his amendment.
+  The Acting CHAIRMAN. The gentleman from Indiana is recognized for 5 
+minutes.
+  Mr. VISCLOSKY. Mr. Chairman, I have a great deal of respect for Mr. 
+Udall and also appreciate the fact that he has made a significant 
+contribution to the full Appropriations Committee and also understand 
+the circumstances that he is presented with.
+  Contrary to what I think the belief of some Members are, we have made 
+cuts in this bill, but they were thoughtful cuts, given a number of 
+considerations. I would point out that the means by which the gentleman 
+is trying to secure additional weapons money would cut the 
+Administrator's office and potentially terminate most of the Nation's 
+nonproliferation programs.
+  The nuclear nonproliferation programs are one of the few activities 
+at the Department of Energy that are staffed, managed and run by 
+Federal employees. In the end, Federal employees tend to be generally 
+younger professionals with fewer years of public service and would bear 
+the brunt of any Federal reduction in force.
+  Secondly, I wish that our national labs, which are treasures and do 
+great work, would also be as adamant and as concerned about their 
+security as they are about their budget line. I would ask to submit 
+additional materials in the Record, but would point out we had serious 
+security breaches at Los Alamos in December of 1999, June of 2000, 
+November of 2003, May of 2004, July of 2004, in 2005, in 2006. There 
+was an incident in January of 2007 that made Time Magazine. This has 
+got to stop.
+  But the breach that causes me and should cause every Member here the 
+most heartburn is what happened to a gentleman by the name of Shawn 
+Carpenter. Mr. Carpenter worked at Los Alamos, Mr. Carpenter was 
+concerned about security at Los Alamos, and Mr. Carpenter went to the 
+Federal Bureau of Investigation to express his concern. He did not go 
+to a local newspaper. He went to the FBI, and he was terminated. There 
+was a trial relative to that wrongful termination. And I would point 
+out that the gentleman who fired Mr. Carpenter, and he subsequently won 
+a judgment of $4.6 million for wrongful termination, got a bonus. He 
+got a bonus after he fired Mr. Carpenter, and Mr. Carpenter went to the 
+FBI to protect the secrets of this Nation as far as our nuclear 
+security.
+  The third concern I have is some of these moneys would find their way 
+back into the proposal made by the administration that we have 
+eliminated in this bill for a new nuclear weapon. As we have 
+extensively pointed out in the committee report language, since the 
+termination of the Cold War, since regional conflicts such as Kosovo, 
+since 9/11, we have not developed a new nuclear strategy. This is not a 
+time to build a new nuclear weapon.
+  We have significant cost overruns and time overruns on three 
+buildings we were told were needed for stockpile stewardship. None of 
+them are done. All of them are over budget. Now let's take a turn in 
+the road. I am adamantly opposed.
+  Mr. Chairman, I reserve the balance of my time.
+  Mr. HOBSON. Mr. Chairman, I move to strike the last word.
+  The Acting CHAIRMAN. The gentleman is recognized for 5 minutes.
+  Mr. HOBSON. Mr. Chairman, I rise in strong opposition also to the 
+gentleman's amendment. This is not personal between me and the 
+gentleman, and I hope it wouldn't be when I get over too, because I am 
+really opposed to this amendment, and I am really in support of the 
+chairman on this, because this is something we have worked on for a 
+long period of time.
+  I know the administration and some Members, those from New Mexico, 
+are not pleased with the cuts to the weapons program. I have heard from 
+the other body, and they may claim these funding reductions somehow 
+threaten our national security.
+  I also recognize it is politically convenient to move money from a 
+so-called bureaucracy in Washington to what is portrayed as a field-
+level purpose. Sorry, folks, but I don't buy either of these arguments, 
+and I strongly believe this bill puts our nuclear weapons programs in 
+the proper perspective.
+  I have been a member of the Energy and Water Subcommittee for the 
+past 5 years, and I have personally visited every single nuclear 
+weapons lab, plant and site in DOE's complex, and I honestly can't tell 
+you how much our national security is protected, whether we fund the 
+nuclear weapons account at $6.5 billion, $6 billion, or even $5.5 
+billion. And I certainly can't tell you what benefit we will gain by 
+adding $192 million back to the weapons program and devastating NNSA's 
+management office, as the gentleman proposes.
+  I also sit on the Defense Appropriations Subcommittee, as does my 
+chairman, and we both are all too aware of the funding shortfalls in 
+the conventional defense area to believe that nuclear weapons are 
+somehow a higher security priority.
+  So after years of looking at this from virtually every angle, I can 
+tell you definitively that what we need is a national strategy for 
+nuclear weapons and a clearly defined set of military requirements that 
+is derived from that strategy. Then, and only then, will NNSA be able 
+to lay out what a modern weapons complex, capability of producing a 
+specified number of reliable replacement warheads will look like.
+  In the meantime, we have many nuclear nonproliferation priorities 
+that need to be addressed. This will have real security benefits today, 
+not at some weapons design lab tomorrow.
+  This bill balances our national security needs by making the prudent 
+recommendations on weapons we have discussed and by putting an 
+additional $398 billion above the President's request towards defense 
+nuclear nonproliferation activities. These funds will play down the 
+risk of nuclear smuggling by improving programs such as the elimination 
+of weapons-grade plutonium production; international nuclear materials 
+production and cooperation; second line of defense and cooperation; 
+MegaPorts; MegaAirports;
+
+[[Page 16496]]
+
+and global coordination among domestic security agencies, such as DHS 
+and foreign governments.
+  Furthermore, these additional funds will support the implementation 
+of an International Nuclear Fuel Bank, a priority for security experts 
+ranging from National Security Advisor Steve Hadley to former Senator 
+Sam Nunn to the leadership of the International Atomic Energy Agency.
+  Getting our national security priorities right is what this bill is 
+about, and it is a rational approach I wholeheartedly support. But 
+let's call it what it is. This amendment isn't really about national 
+security. It is all about jobs at these DOE weapons facilities.
+  In particular, the Los Alamos National Laboratory is in the 
+gentleman's State of New Mexico. This lab has held a preeminent place 
+at the Federal trough for years, and now fears the loss of jobs because 
+of this bill's recommended funding levels. Los Alamos has the largest 
+number of employees of any DOE field site, with employees who receive 
+the highest level of compensation, and a lab that has the highest 
+overhead rate of any DOE operation. All told, Los Alamos receives close 
+to $2 billion a year from our bill, plus additional reimbursement of 
+work from other agencies. And I cannot tell you what we get in return 
+for that investment.
+  I do know that Los Alamos has chronic management problems, and I can 
+read a long litany of security failures, safety accidents and costs and 
+schedule overruns brought to you by the 9,000 highly paid folks at Los 
+Alamos. Don't let anyone tell you that these problems are a thing of 
+the past. DOE just informed us this week of yet another security 
+screwup at Los Alamos, and this is after a number of others.
+  Given this track record, do we really believe adding another $192 
+million will improve security? I would argue our national security 
+might actually be improved by cutting 1,800 jobs from a facility that 
+can't seem to manage sensitive information. We would have a lot less 
+people to watch.
+  The bottom line is that gutting the office of the NNSA Administrator 
+by reducing its funding by almost half will undermine any chance of the 
+NNSA actually managing the weapons and nuclear nonproliferation 
+programs. Does the gentleman expect us to believe that jobs in New 
+Mexico are more important than the overall national management of these 
+sensitive national security programs?
+  So I am, you can tell, opposed to the gentleman's amendment. I 
+believe the priorities are misguided. The weapons program has no clear 
+strategy of a way forward. And this bill report addresses the 
+shortcomings with its prudent funding recommendations and bold 
+direction.
+  I urge my colleagues to vote against this ill-conceived amendment.
+  Mr. VISCLOSKY. Mr. Chairman, I yield the balance of my time to the 
+gentleman from Michigan (Mr. Stupak), chairman of the Oversight and 
+Investigations Subcommittee of the Committee of Energy and Commerce.
+  The Acting CHAIRMAN. The gentleman from Michigan is recognized for 1 
+minute.
+  Mr. STUPAK. Mr. Chairman, I urge my colleagues to oppose this 
+amendment, which would fund new nuclear weapons development by taking 
+$193 million from the National Nuclear Security Administration 
+nonproliferation account.
+  NNSA plays a very important role in helping us to secure nuclear 
+weapons, ``loose nukes,'' as we call them in committee, around the 
+world. The program helps secure nuclear material in Russia and 
+elsewhere.
+  This funding includes $412 million for the installation of radiation 
+portal monitors at over 200 border crossings in Russia, the Baltic 
+States and the Caucasus region, $293 million more than the President's 
+budget.
+  Rather than commit billions of dollars to manufacturing another 
+generation of nuclear weapons, our existing nuclear arsenal can be 
+sustained using the life extension program managed by NNSA. If we cut 
+$193 million from it, there will be no way we can maintain this life 
+extension program.
+  The JASON Report, a panel of independent nuclear weapons experts, 
+reported last year that the existing plutonium pit will remain reliable 
+for 100 years, far longer than the 45 or 60 years.
+  We don't need new weapons. Let's put the money where it will do the 
+most good, to secure ``loose nukes'' around the world. Support the 
+chairman in this position, and do not support the Udall amendment.
+
+                              {time}  1330
+
+  Mr. UDALL of New Mexico. Mr. Chairman, in closing, first of all, the 
+NNSA is the problem, not the scientists. NNSA was put there to bring a 
+better security situation, and security has deteriorated since they are 
+there, and that is why I take the money away from the NNSA 
+Administration.
+  Secondly, I know we can't legislate on an appropriations bill, but I 
+think it would be very appropriate to take a look at the role that NNSA 
+should play in this whole situation, if not return to the Department of 
+Energy managing the nuclear complex. They did a better job.
+  The vast majority of scientists at Los Alamos work on a broad variety 
+of subjects, not only weapons activities. They stand ready to conduct 
+the research that is most essential to our Nation. However, we need to 
+make sure that these top scientists can do their jobs and have the 
+support they need to work on other missions.
+  Mr. PEARCE. Mr. Chairman, I rise today to support this amendment that 
+will restore a portion of the fundmg which is critical to maintaining 
+our commitment to safety and security of our nuclear stewardship 
+responsibilities.
+  I deeply regret that the Majority has decided to cut these programs 
+and irrevocably harm our nuclear weapon programs and fail to maintain 
+our nuclear stockpile. Our responsibility is to protect the American 
+people and ensure that our weapons programs operate in a responsible 
+and secure manner.
+  These important programs are our national deterrent against rogue 
+nations who would threaten us with weapons of mass destruction. In 
+addition, these cuts will erode our non-proliferation efforts 
+worldwide, as our allies would have to consider expanding their own 
+nuclear arsenals to make up for our reductions.
+  The cuts proposed today will cut nearly 40 percent of the funding for 
+our Nuclear weapons programs operated at Los Alamos National 
+Laboratory. I would ask the sponsors of these cuts if they believe that 
+the threats from rogue states and aggressive dictators have reduced by 
+40 percent? If not, why are we cutting our ability to defend ourselves 
+by 40 percent? These cuts will damage our ability to retain good 
+scientists, preserve the knowledge base of our laboratory, and our 
+preparedness to respond to our future nuclear needs.
+  In addition, these cuts decimate the nation's Stockpile Stewardship 
+Program. Since we have stopped testing nuclear weapons, our country 
+relies on Los Alamos to ensure that our strategic weapon capabilities 
+are safe, reliable and secure. Failure do so abdicates our 
+responsibility to the protect the American people.
+  These programs are critical to the mission of Los Alamos and critical 
+to America. We shouldn't just simply fold up our tent and allow these 
+programs to be deeply cut or nearly eliminated and I urge all my 
+colleagues to stand up and support this amendment and furthermore 
+support restoring the full funding to these important programs.
+  Mr. UDALL of New Mexico. Mr. Chairman, I also want to state what my 
+amendment does not do. It does not provide any funding for the Reliable 
+Replacement Warhead (RRW) program or any new weapon development. It 
+does not take specific funds from non-proliferation activities, 
+activities which I support. And it does not, regardless of the 
+misunderstanding or misstatement of others, in any way make it easier 
+for terrorists to acquire nuclear materials. In fact, my amendment 
+would actually restore funding cuts for security measures that keep our 
+nuclear materials safe at our national laboratories.
+  I understand that in an amendment that moves this much money there 
+can be great concern, and there should be great concern. Yet, it must 
+be understood exactly what is and is not happening--and the entire 
+purpose, the entire substance, of this amendment is meant to help 
+protect the core missions of the labs. Ultimately, this will accelerate 
+a diversification of their missions in order to better meet the 
+national concerns and priorities that we will continue to face in the 
+future.
+  Mr. UDALL of New Mexico. Mr. Chairman, today this body debated the 
+Energy and Water
+
+[[Page 16497]]
+
+Appropriations bill for the upcoming fiscal year. During debate, I 
+offered an amendment which would have added $192 million for the 
+purpose of supporting and diversifying the core mission of our Nation's 
+laboratories. Although my amendment did not pass, I remain strongly 
+committed to the idea that a diversification of the mission of our labs 
+is essential and must take place now if we are going to continue to 
+face--and solve--the major national security challenges of the future.
+  The debate of the amendment brought up several misconceptions and 
+misunderstandings, and I want to take this time to reiterate the 
+purpose and substance of the amendment.
+  First, some said that my amendment would increase ``funding for new 
+nuclear weapon development.'' This is simply not true. My amendment 
+would return spending approximately to current levels--thereby not 
+providing for the funding of new weapons. As I stated in my previous 
+remarks, my amendment would target funding for three programs, all of 
+which support securing and maintaining our Nation's existing weapons 
+and the core mission of the laboratory. In fact, two of the three 
+programs--the Road Runner Supercomputer and the Science Campaign--help 
+ensure our current weapons supply remains safe, reliable and accurate 
+through computer simulations of weapons in the place of real weapons 
+testing. In the past, I have expressed great concern with the Reliable 
+Replacement Warhead (RRW) program, and I continue to believe that 
+numerous important questions regarding this proposal need to be 
+answered before it proceeds. I doubt our need for a new weapon.
+  Second, some said that my amendment could ``terminate most of the 
+Nation's nonproliferation programs'' and that opposing the amendment 
+would ``stop terrorists from acquiring nuclear materials.'' This is 
+also not true. According to the committee report, $75 million of the 
+Office of the NNSA Administrator is set aside for the Defense Nuclear 
+Nonproliferation program. My amendment would have set total funding for 
+the Office of the NNSA Administrator at $215 million, more than enough 
+to continue to fund the nonproliferation program. Further, my amendment 
+did not in any way stipulate that the funding would come from the 
+nonproliferation program. It should be noted that current funding for 
+the Office is $340 million. Clearly the $415 million provided in this 
+bill is a substantial increase for all programs. Even if my amendment 
+had been adopted, the agency still could have completed these important 
+tasks.
+  Third, some said that my amendment indicated that ``jobs in New 
+Mexico are more important than the overall national management of these 
+sensitive national security programs.'' Certainly representing the 
+constituency needs of the Third Congressional District of New Mexico is 
+my primary concern. And, yes, those who would lose their jobs under 
+this bill--technical, academic and support jobs in which many have 
+spent decades--are worried. But let me be absolutely clear about this: 
+Neither I nor a single member of the Los Alamos community would for a 
+moment rather protect these jobs than protect the safety and defense of 
+our national security programs. The men and women who work at Los 
+Alamos take great pride in their mission and service to our Nation. 
+They understand the unique undertaking of the lab, and it is my honor 
+to represent them.
+  Mr. Chairman, I held a telephone town hall with the community of Los 
+Alamos on this issue. During the town hall an informal poll question 
+asked whether people support a diversification of the lab's mission. 
+Eighty-four percent of the respondents--over half of whom were 
+employees at LANL--supported such a diversification.
+  I do not believe that we must continue with a status quo mission for 
+our national laboratories. Nor do I believe that creating a national 
+security strategy in a policy vacuum without any regard for the needs 
+of the future is the way to proceed. There is an absolute need, and, in 
+fact, a great opportunity, for our national laboratories to diversify 
+their missions and expand the scientific research being conducted in 
+order to meet the challenges we are facing. From energy independence to 
+health care to climate change modeling, we have the capacity for this 
+diversification. I hope that in the coming months and years I will be 
+joined by others who believe in this cause.
+  Mr. Chairman, I yield back the balance of my time.
+  The Acting CHAIRMAN. The question is on the amendment offered by the 
+gentleman from New Mexico (Mr. Udall).
+  The question was taken; and the Acting Chairman announced that the 
+noes appeared to have it.
+  Mr. HOBSON. Mr. Chairman, I demand a recorded vote.
+  The Acting CHAIRMAN. Pursuant to clause 6 of rule XVIII, further 
+proceedings on the amendment offered by the gentleman from New Mexico 
+will be postponed.
+  Mr. HOBSON. Mr. Chairman, I move to strike the last word.
+  The Acting CHAIRMAN. The gentleman from Ohio is recognized for 5 
+minutes.
+  Mr. HOBSON. Mr. Chairman, I yield to the gentleman from Michigan (Mr. 
+Rogers) for a colloquy.
+  Mr. ROGERS of Michigan. Mr. Chairman, I thank the gentleman from Ohio 
+(Mr. Hobson) for yielding me this time.
+  Mr. Chairman, in the report accompanying H.R. 2641, the subcommittee 
+commends the nuclear physics research community for its efforts to 
+rescope the next generation rare isotope research facility in light of 
+the current fiscal constraints. However, the report contends that ``the 
+rare isotope beams will involve modifications to existing accelerators 
+rather than the construction of a new rare isotope accelerator, RIA.''
+  As you know, National Superconducting Cyclotron Laboratory, located 
+at Michigan State University, is the leading rare isotope facility in 
+the United States and needs an upgrade to stay on the leading edge of 
+rare isotope science. Michigan State's upgrade proposal includes the 
+reuse of several major components of the existing NSCL. However, it 
+does not intend to use its existing cyclotron accelerators, as they 
+would not be suitable for the beam strengths contemplated by the new 
+facility. As a result, if one were to interpret this language 
+literally, Michigan State would not be eligible for any potential DOE 
+funded facility since it is not proposing ``modifications to existing 
+accelerators.''
+  Mr. Chairman, I am assuming this is a problem created by ambiguous 
+wording and does not represent a substantive shift in the position of 
+the subcommittee. Would you concur with my assumption, sir?
+  Mr. VISCLOSKY. Mr. Chairman, will the gentleman yield?
+  Mr. HOBSON. I yield to the gentleman from Indiana.
+  Mr. VISCLOSKY. Mr. Chairman, as a Notre Dame grad, I would like to 
+interject myself into this colloquy. I thank the gentleman from 
+Michigan for his interest in this area.
+  The gentleman is correct. The subcommittee's objection was to praise 
+the nuclear physics community's adaptiveness in adjusting its 
+facilities plan to our current budgetary realities. It was not meant in 
+any way to define or alter the scope of the proposed facility or limit 
+Michigan State's ability to compete. The subcommittee remains 
+steadfastly committed to ensuring that DOE user facilities are subject 
+to full and open competition and will monitor the process very closely 
+to make sure that all potential competitors are treated fairly by DOE. 
+Again, I appreciate the gentleman for yielding and bringing this matter 
+up.
+  Mr. HOBSON. I yield to the gentleman from Michigan.
+  Mr. ROGERS of Michigan. I want to thank the chairman of the 
+subcommittee for his work on this issue. You have given me a whole 
+renewed look at Notre Dame University.
+  The Acting CHAIRMAN. The Clerk will read.
+  The Clerk read as follows:
+
+
+                     Defense Nuclear Waste Disposal
+
+       For nuclear waste disposal activities to carry out the 
+     purposes of Public Law 97-425, as amended, including the 
+     acquisition of real property or facility construction or 
+     expansion, $292,046,000, to remain available until expended.
+
+                    POWER MARKETING ADMINISTRATIONS
+
+
+                  Bonneville Power Administration Fund
+
+       Expenditures from the Bonneville Power Administration Fund, 
+     established pursuant to Public Law 93-454, are approved for 
+     official reception and representation expenses in an amount 
+     not to exceed $1,500. During fiscal year 2008, no new direct 
+     loan obligations may be made.
+
+
+      Operation and Maintenance, Southeastern Power Administration
+
+       For necessary expenses of operation and maintenance of 
+     power transmission facilities and of electric power and 
+     energy, including transmission wheeling and ancillary 
+     services pursuant to section 5 of the Flood Control Act of 
+     1944 (16 U.S.C. 825s), as applied to the
+
+[[Page 16498]]
+
+     southeastern power area, $6,463,000, to remain available 
+     until expended: Provided, That notwithstanding 31 U.S.C. 
+     3302, up to $48,413,000 collected by the Southeastern Power 
+     Administration pursuant to the Flood Control Act of 1944 to 
+     recover purchase power and wheeling expenses shall be 
+     credited to this account as offsetting collections, to remain 
+     available until expended for the sole purpose of making 
+     purchase power and wheeling expenditures.
+
+
+      Operation and Maintenance, Southwestern Power Administration
+
+       For necessary expenses of operation and maintenance of 
+     power transmission facilities and of marketing electric power 
+     and energy, for construction and acquisition of transmission 
+     lines, substations and appurtenant facilities, and for 
+     administrative expenses, including official reception and 
+     representation expenses in an amount not to exceed $1,500 in 
+     carrying out section 5 of the Flood Control Act of 1944 (16 
+     U.S.C. 825s), as applied to the southwestern power area, 
+     $30,442,000, to remain available until expended: Provided, 
+     That, notwithstanding 31 U.S.C. 3302, up to $35,000,000 
+     collected by the Southwestern Power Administration pursuant 
+     to the Flood Control Act to recover purchase power and 
+     wheeling expenses shall be credited to this account as 
+     offsetting collections, to remain available until expended 
+     for the sole purpose of making purchase power and wheeling 
+     expenditures.
+
+
+ Construction, Rehabilitation, Operation and Maintenance, Western Area 
+                          Power Administration
+
+       For carrying out the functions authorized by title III, 
+     section 302(a)(1)(E) of the Act of August 4, 1977 (42 U.S.C. 
+     7152), and other related activities including conservation 
+     and renewable resources programs as authorized, including the 
+     operation, maintenance, and purchase through transfer, 
+     exchange, or sale of one helicopter for replacement only, and 
+     official reception and representation expenses in an amount 
+     not to exceed $1,500; $201,030,000, to remain available until 
+     expended, of which $191,094,000 shall be derived from the 
+     Department of the Interior Reclamation Fund: Provided, That 
+     of the amount herein appropriated, $7,167,000 is for deposit 
+     into the Utah Reclamation Mitigation and Conservation Account 
+     pursuant to title IV of the Reclamation Projects 
+     Authorization and Adjustment Act of 1992: Provided further, 
+     That notwithstanding the provision of 31 U.S.C. 3302, up to 
+     $258,702,000 collected by the Western Area Power 
+     Administration pursuant to the Flood Control Act of 1944 and 
+     the Reclamation Project Act of 1939 to recover purchase power 
+     and wheeling expenses shall be credited to this account as 
+     offsetting collections, to remain available until expended 
+     for the sole purpose of making purchase power and wheeling 
+     expenditures.
+
+
+           Falcon and Amistad Operating and Maintenance Fund
+
+       For operation, maintenance, and emergency costs for the 
+     hydroelectric facilities at the Falcon and Amistad Dams, 
+     $2,500,000, to remain available until expended, and to be 
+     derived from the Falcon and Amistad Operating and Maintenance 
+     Fund of the Western Area Power Administration, as provided in 
+     section 423 of the Foreign Relations Authorization Act, 
+     Fiscal Years 1994 and 1995.
+
+                  Federal Energy Regulatory Commission
+
+
+                         salaries and expenses
+
+       For necessary expenses of the Federal Energy Regulatory 
+     Commission to carry out the provisions of the Department of 
+     Energy Organization Act (42 U.S.C. 7101 et seq.), including 
+     services as authorized by 5 U.S.C. 3109, the hire of 
+     passenger motor vehicles, and official reception and 
+     representation expenses not to exceed $3,000, $255,425,000, 
+     to remain available until expended: Provided, That 
+     notwithstanding any other provision of law, not to exceed 
+     $255,425,000 of revenues from fees and annual charges, and 
+     other services and collections in fiscal year 2008 shall be 
+     retained and used for necessary expenses in this account, and 
+     shall remain available until expended: Provided further, That 
+     the sum herein appropriated from the general fund shall be 
+     reduced as revenues are received during fiscal year 2008 so 
+     as to result in a final fiscal year 2008 appropriation from 
+     the general fund estimated at not more than $0.
+
+                General Provisions--Department of Energy
+
+       Sec. 301. Contract Competition.--(a) None of the funds in 
+     this or any other appropriations Act for fiscal year 2008 or 
+     any previous fiscal year may be used to make payments for a 
+     noncompetitive management and operating contract, or a 
+     contract for environmental remediation or waste management in 
+     excess of $100,000,000 in annual funding at a current or 
+     former management and operating contract site or facility, or 
+     award a significant extension or expansion to an existing 
+     management and operating contract, or other contract covered 
+     by this section, unless such contract is awarded using 
+     competitive procedures or the Secretary of Energy grants, on 
+     a case-by-case basis, a waiver to allow for such a deviation. 
+     The Secretary may not delegate the authority to grant such a 
+     waiver.
+       (b) Within 30 days of formally notifying an incumbent 
+     contractor that the Secretary intends to grant such a waiver, 
+     the Secretary shall submit to the Subcommittees on Energy and 
+     Water Development of the Committees on Appropriations of the 
+     House of Representatives and the Senate a report notifying 
+     the Subcommittees of the waiver and setting forth, in 
+     specificity, the substantive reasons why the Secretary 
+     believes the requirement for competition should be waived for 
+     this particular award.
+       Sec. 302. Unfunded Requests for Proposals.--None of the 
+     funds appropriated by this Act may be used to prepare or 
+     initiate requests for proposals for a program if the program 
+     has not been funded by Congress.
+       Sec. 303. Unexpended Balances.--The unexpended balances of 
+     prior appropriations provided for activities in this Act may 
+     be available to the same appropriation accounts for such 
+     activities established pursuant to this title. Available 
+     balances may be merged with funds in the applicable 
+     established accounts and thereafter may be accounted for as 
+     one fund for the same time period as originally enacted.
+       Sec. 304. Bonneville Power Administration Service 
+     Territory.--None of the funds in this or any other Act for 
+     the Administrator of the Bonneville Power Administration may 
+     be used to enter into any agreement to perform energy 
+     efficiency services outside the legally defined Bonneville 
+     service territory, with the exception of services provided 
+     internationally, including services provided on a 
+     reimbursable basis, unless the Administrator certifies in 
+     advance that such services are not available from private 
+     sector businesses.
+       Sec. 305. User Facilities.--When the Department of Energy 
+     makes a user facility available to universities or other 
+     potential users, or seeks input from universities or other 
+     potential users regarding significant characteristics or 
+     equipment in a user facility or a proposed user facility, the 
+     Department shall ensure broad public notice of such 
+     availability or such need for input to universities and other 
+     potential users. When the Department of Energy considers the 
+     participation of a university or other potential user as a 
+     formal partner in the establishment or operation of a user 
+     facility, the Department shall employ full and open 
+     competition in selecting such a partner. For purposes of this 
+     section, the term ``user facility'' includes, but is not 
+     limited to: (1) A user facility as described in section 
+     2203(a)(2) of the Energy Policy Act of 1992 (42 U.S.C. 
+     13503(a)(2)); (2) a National Nuclear Security Administration 
+     Defense Programs Technology Deployment Center/User Facility; 
+     and (3) any other Departmental facility designated by the 
+     Department as a user facility.
+       Sec. 306. Intelligence Activities.--Funds appropriated by 
+     this or any other Act, or made available by the transfer of 
+     funds in this Act, for intelligence activities are deemed to 
+     be specifically authorized by the Congress for purposes of 
+     section 504 of the National Security Act of 1947 (50 U.S.C. 
+     414) during fiscal year 2008 until the enactment of the 
+     Intelligence Authorization Act for fiscal year 2008.
+       Sec. 307. Laboratory Directed Research and Development.--Of 
+     the funds made available by the Department of Energy for 
+     activities at government-owned, contractor-operator operated 
+     laboratories funded in this Act, the Secretary may authorize 
+     a specific amount, not to exceed 8 percent of such funds, to 
+     be used by such laboratories for laboratory-directed research 
+     and development: Provided, That the Secretary may also 
+     authorize a specific amount not to exceed 3 percent of such 
+     funds, to be used by the plant manager of a covered nuclear 
+     weapons production plant or the manager of the Nevada Site 
+     office for plant or site-directed research and development 
+     funding.
+       Sec. 308. Contractor Pension Benefits.--None of the funds 
+     made available in title III of this Act shall be used for 
+     implementation of the Department of Energy Order N 351.1 
+     modifying contractor employee pension and medical benefits 
+     policy.
+       Sec. 309. International Nuclear Fuel Bank.--Of the funds 
+     made available in the first paragraph under the heading 
+     ``Atomic Energy Defense Activities--Other Defense 
+     Activities'' in chapter 2 of title I of division B of Public 
+     Law 105-277, $100,000,000 shall be available until expended, 
+     subject to authorization, for the contribution of the United 
+     States to create a low-enriched uranium stockpile for an 
+     International Nuclear Fuel Bank supply of nuclear fuel for 
+     peaceful means under the International Atomic Energy Agency.
+
+                     TITLE IV--INDEPENDENT AGENCIES
+
+                    Appalachian Regional Commission
+
+       For expenses necessary to carry out the programs authorized 
+     by the Appalachian Regional Development Act of 1965, 
+     notwithstanding section 14704 of title 40, United States 
+     Code, and, for necessary expenses for the Federal Co-Chairman 
+     and the alternate on the Appalachian Regional Commission, for 
+     payment of the Federal share of the administrative expenses 
+     of the Commission, including services as authorized by 
+     section 3109 of title 5, United States Code, and hire 
+     passenger motor vehicles, $35,000,000, to remain available 
+     until expended.
+
+
+               Amendment No. 17 Offered by Mr. Neugebauer
+
+  Mr. NEUGEBAUER. Mr. Chairman, I offer an amendment.
+
+[[Page 16499]]
+
+  The Acting CHAIRMAN. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment No. 17 offered by Mr. Neugebauer:
+       Page 37, strike lines 9 through 19.
+
+  The Acting CHAIRMAN. Pursuant to the order of the House of Tuesday, 
+June 19, 2007, the gentleman from Texas (Mr. Neugebauer) and the 
+gentleman from Indiana (Mr. Visclosky) each will control 5 minutes.
+  The Chair recognizes the gentleman from Texas.
+  Mr. NEUGEBAUER. Mr. Chairman, my amendment would strike funding for 
+the Appalachian Regional Commission. This commission is a perfect 
+example of Ronald Reagan's belief that the nearest thing to eternal 
+life we will ever see on this Earth is a government program.
+  Established more than 40 years ago, this commission has evolved into 
+an inequitable and duplicative Federal program, yet it receives $35 
+million in next year's budget.
+  Although most of ARC funding is spent building State roads, the 
+agency also spends tax dollars on water programs, housing projects, 
+business development, and health care.
+  However, this funding is only available to 13 States. In other words, 
+this is a bracketed bill. The ARC is a redundant layer of bureaucracy. 
+Several other Federal agencies have similar missions as the ARC. For 
+example, an Appalachian community applying for an economic development 
+grant would be eligible to use 20 other programs across five other 
+agencies and receive funding for the exact same purposes. For every ARC 
+program, it is duplicated by another Federal program.
+  According to the Department of Agriculture's Web site, USDA's Rural 
+Development Agency supports such essential public facilities and 
+services as water and sewer systems, housing, health clinics and 
+promotes economic development. In other words, under the current 
+Department of Agriculture programs, these communities could apply for 
+these grants instead of having a separate bracketed amount of money.
+  At the Department of Housing and Urban Development, there is a rural 
+housing and economic development program within the Department of 
+Housing and Urban Development.
+  Departments of Transportation and Commerce, for example, and even the 
+Department of Defense, have programs whose mission is to help rural 
+communities.
+  Therefore, if we were to eliminate the ARC, applicants could still 
+apply for countless other grants from other agencies that are already 
+providing funding for rural communities.
+  I represent a rural community, and so I understand the unique 
+challenges facing rural America today. However, as we work to help 
+communities overcome their challenges, we should do it in such a way 
+that we are not wasting taxpayer dollars.
+  Mr. Chairman, I reserve the balance of my time.
+  Mr. VISCLOSKY. Mr. Chairman, as I stated earlier, there is a role and 
+a need for the ARC to assist distressed counties in Appalachia with 
+local economic development and to provide infrastructure requirements.
+  Of the original 223 distressed counties, 74 remain in that category; 
+and clearly the mission of the ARC has not yet been fully realized. The 
+fact is the committee did reduce the administration's request for this 
+account by $30 million and has targeted all of the funds in this bill 
+for those distressed counties. So I would be in opposition to the 
+gentleman's amendment.
+  Mr. Chairman, I reserve the balance of my time.
+  Mr. NEUGEBAUER. Mr. Chairman, I yield to the gentleman from Ohio (Mr. 
+Hobson).
+  Mr. HOBSON. Mr. Chairman, I rise in support of the amendment to 
+eliminate funding for the Appalachian Regional Commission. I have been 
+against the Appalachian Regional Commission since I was on the Budget 
+Committee in 1995. But I do appreciate the chairman's cutting the 
+funding back because we always have a problem dealing with the Senate 
+on this issue.
+  But let me tell you, for all of the heartburn we have had over 
+congressional earmarks and administration earmarks, I would point out 
+that funding for the Appalachian Regional Commission basically provides 
+earmarks designated by the Governors of 13 Appalachian States. If we 
+are cutting our earmarks, then we should be reducing these as well. The 
+one thing we should not do is delegate our decision-making to the 
+authority of these Governors, no matter how well intended the purposes 
+are.
+  And I have to tell you, we have been throwing this money into these 
+counties for all these years, and they are still at these levels. It 
+doesn't do any good. It just goes down the tube. We should do programs 
+that really help the quality of life in these regions and help them 
+move out, rather than doing these little projects that keep them in the 
+poverty level. So I support the gentleman's amendment.
+  Mr. NEUGEBAUER. Mr. Chairman, I was going to point out exactly the 
+point that the gentleman made about the earmarks. There is $300,000 for 
+central Pennsylvania's largest kitchen, $20,000 to renovate an 
+abandoned hospital for a possible visual arts center, $7,000 to place 
+16 poster-size vignettes in culturally significant areas in 
+Connellsville, Pennsylvania.
+  Mr. Chairman, economic development is important to all America. It is 
+important to rural America; but what is also important to America is 
+fiscal responsibility, keeping taxes lower.
+  If we keep spending money the way we are spending money now, we are 
+going to have to raise taxes. In fact, the Democratic budget passed 
+what is going to be the largest tax increase in American history. The 
+government doesn't have an income problem; the government has a 
+spending problem. When you look at the revenues over the last few years 
+because we lowered taxes and let the American people keep their money 
+and let the American people invest and let small businesses create jobs 
+all across America, what happened? Well, the economy got better. What 
+happened to tax revenues? Tax revenues are increasing at a fairly 
+substantial rate.
+  What we have to do is cut spending so spending is growing at a slower 
+rate than the revenues. That is the only way we are ever going to be 
+able to balance our budget. I urge support of my amendment.
+  Mr. VISCLOSKY. Mr. Chairman, despite the eloquence and persuasiveness 
+of my ranking member and good friend, Mr. Hobson, I remain opposed and 
+would ask the membership to vote against the amendment.
+  Mr. SPACE. Mr. Chairman, I rise to oppose this amendment.
+  For four decades now, the Appalachian Regional Commission has worked 
+to bring Appalachia to economic parity with the rest of the country.
+  The statistics are devastating. Twenty percent of Appalachian 
+households still do not have access to community water systems. Sixty-
+two percent of Appalachian counties have a higher unemployment rate 
+than the national average.
+  I want to make one thing clear. The Commission's programs are NOT 
+duplicative. They complement Federal activities and extend the reach of 
+those programs into the most challenging parts of Appalachia.
+  The Commission acts as a key financial partner in attracting private 
+and non-profit investment to the region. In Fiscal Year 2006, every 
+dollar of ARC funding leveraged $3.14 in other public funding and 
+$11.55 in private investment.
+  The modest amount of money we spend on this program is fiscally 
+responsible and enormously beneficial to the taxpayer. The President's 
+own Budget requests that the Commission's funding level continue at $65 
+million.
+  I urge my colleagues to oppose this amendment.
+  Mr. ARCURI. Mr. Chairman, I rise in strong opposition to this 
+amendment. Unfortunately, my colleague from Texas has failed to closely 
+examine the benefits the Appalachian Regional Commission has provided 
+numerous economically distressed counties in the region since its 
+establishment over 40 years ago.
+  Mr. Chairman, the ARC has enhanced the region's economic progress by 
+improving living conditions, enhancing the employability of the 
+workforce, and strengthening the region's basic infrastructure.
+  Simply put, the numbers speak for themselves. Since its creation, the 
+ARC has reduced the number of severely distressed
+
+[[Page 16500]]
+
+counties in the region by more than 65 percent, cut the poverty rate 
+from 31 percent to 15 percent, and created 1.6 million jobs.
+  Mr. Chairman, my upstate New York district has been plagued with 
+struggling local economies for quite some time. Population exodus, 
+significant job losses in the manufacturing sector and slow economic 
+development have all contributed to the downturn in economic prosperity 
+in the region.
+  These communities are in dire need of exposure to new innovative 
+technologies--such as alternative energy projects--and attracting 
+private investment to spur economic activity and improve their quality 
+of life. The ARC helps our communities do just that. The ARC provides 
+the framework and the guidance for these communities to begin to move 
+towards sustainable economic growth.
+  Mr. Chairman, six counties in my upstate New York district have 
+experienced success as members of the ARC. The Village of Sherburne, NY 
+in Chenango County is a great example of how small ARC grants are 
+extremely helpful in leveraging additional funds from State, local, and 
+private sources for economic development initiatives that create jobs. 
+A $200,000 grant from the ARC for the enhancement of aging water 
+infrastructure in Sherburne--a problem that is plaguing many States in 
+the Northeast--was able to leverage close to $4 million in State and 
+local community investment.
+  Mr. Chairman, for each one dollar of ARC funding invested, it 
+leverages $3.14 in other public funding and $11.55 in private 
+investment. Now that sounds like a responsible and wise investment of 
+taxpayer dollars.
+  It would be unwise and irresponsible to deny the people in 13 States 
+in the region the funds to help them achieve socioeconomic parity with 
+the Nation. I ask my colleagues on both sides of the aisle to oppose 
+the amendment to zero-out funding for the ARC. Mr. Chairman, I also 
+strongly urge my colleagues to support my freshman colleague from 
+Ohio's amendment to fully restore the President's FY08 budget request 
+of $65 million for the ARC in this bill.
+  Mr. VISCLOSKY. Mr. Chairman, I yield back the balance of my time.
+  The Acting CHAIRMAN. The question is on the amendment offered by the 
+gentleman from Texas (Mr. Neugebauer).
+  The question was taken; and the Acting Chairman announced that the 
+noes appeared to have it.
+  Mr. NEUGEBAUER. Mr. Chairman, I demand a recorded vote.
+  The Acting CHAIRMAN. Pursuant to clause 6 of rule XVIII, further 
+proceedings on the amendment offered by the gentleman from Texas will 
+be postponed.
+
+                              {time}  1345
+
+  The Clerk will read.
+  The Clerk read as follows:
+
+                Defense Nuclear Facilities Safety Board
+
+       For necessary expenses of the Defense Nuclear Facilities 
+     Safety Board in carrying out activities authorized by the 
+     Atomic Energy Act of 1954, $22,499,000, to remain available 
+     until expended.
+
+                        Delta Regional Authority
+
+       For necessary expenses of the Delta Regional Authority and 
+     to carry out its activities, as authorized by the Delta 
+     Regional Authority Act of 2000, notwithstanding sections 
+     382C(b)(2), 382F(d), and 382M(b) of said Act, $6,000,000, to 
+     remain available until expended.
+
+                           Denali Commission
+
+       For expenses of the Denali Commission including the 
+     purchase, construction and acquisition of plant and capital 
+     equipment as necessary and other expenses, $1,800,000, to 
+     remain available until expended, notwithstanding the 
+     limitations contained in section 306(g) of the Denali 
+     Commission Act of 1998.
+
+
+               Amendment No. 16 Offered by Mrs. Musgrave
+
+  Mrs. MUSGRAVE. Mr. Chairman, I offer an amendment.
+  The Acting CHAIRMAN. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment No. 16 offered by Mrs. Musgrave:
+       Page 38, strike lines 7 through 13.
+
+  The Acting CHAIRMAN. Pursuant to the order of the House of Tuesday, 
+June 19, 2007, the gentlewoman from Colorado (Mrs. Musgrave) and a 
+Member opposed each will control 5 minutes.
+  The Chair recognizes the gentlewoman from Colorado.
+  Mrs. MUSGRAVE. Mr. Chairman, my amendment would eliminate funding for 
+the Denali Commission. This amendment would save taxpayers $1.8 
+million.
+  In fiscal year 2007, the Denali Commission received $49.5 million. 
+The President's request in this fiscal year for 2008 is $1.8 million 
+and the bill provides that entire amount.
+  When we look at the State of Alaska, it has a very low tax burden. 
+Alaska has no State income tax. It has the lowest taxes as a percentage 
+of per capita income of any State in the country. Also, Alaska is 
+actually a relatively wealthy State in terms of per capita income.
+  Mr. VISCLOSKY. Mr. Chairman, will the gentlewoman yield?
+  Mrs. MUSGRAVE. I yield to the gentleman from Indiana.
+  Mr. VISCLOSKY. I would simply indicate that I would be happy to 
+accept the gentlewoman's amendment and if my colleague the ranking 
+member would have an observation, I would invite him to.
+  Mr. HOBSON. I am also willing to accept the amendment.
+  Mrs. MUSGRAVE. Reclaiming my time, I thank both the gentlemen and 
+look forward to our efforts to save the American taxpayers $1.8 
+million.
+  Mr. Chairman, I yield back the balance of my time.
+  The Acting CHAIRMAN. The question is on the amendment offered by the 
+gentlewoman from Colorado (Mrs. Musgrave).
+  The amendment was agreed to.
+  The Acting CHAIRMAN. The Clerk will read.
+  The Clerk read as follows:
+
+                     Nuclear Regulatory Commission
+
+       For necessary expenses of the Commission in carrying out 
+     the purposes of the Energy Reorganization Act of 1974 and the 
+     Atomic Energy Act of 1954, including official representation 
+     expenses (not to exceed $21,000), $925,559,000, to remain 
+     available until expended: Provided, That of the amount 
+     appropriated herein, $37,250,000 shall be derived from the 
+     Nuclear Waste Fund: Provided further, That revenues from 
+     licensing fees, inspection services, and other services and 
+     collections estimated at $757,720,000 in fiscal year 2008 
+     shall be retained and used for necessary salaries and 
+     expenses in this account, notwithstanding 31 U.S.C. 3302, and 
+     shall remain available until expended: Provided further, That 
+     the sum herein appropriated shall be reduced by the amount of 
+     revenues received during fiscal year 2008 so as to result in 
+     a final fiscal year 2008 appropriation estimated at not more 
+     than $167,839,000.
+
+
+                      Office of Inspector General
+
+       For necessary expenses of the Office of Inspector General 
+     in carrying out the provisions of the Inspector General Act 
+     of 1978, $8,144,000, to remain available until expended: 
+     Provided, That revenues from licensing fees, inspection 
+     services, and other services and collections estimated at 
+     $7,330,000 in fiscal year 2008 shall be retained and be 
+     available for necessary salaries and expenses in this 
+     account, notwithstanding 31 U.S.C. 3302: Provided further, 
+     That the sum herein appropriated shall be reduced by the 
+     amount of revenues received during fiscal year 2008 so as to 
+     result in a final fiscal year 2008 appropriation estimated at 
+     not more than $814,000.
+
+                  Nuclear Waste Technical Review Board
+
+       For necessary expenses of the Nuclear Waste Technical 
+     Review Board, as authorized by Public Law 100-203, section 
+     5051, $3,621,000, to be derived from the Nuclear Waste Fund, 
+     and to remain available until expended.
+
+Office of the Federal Coordinator for Alaska Natural Gas Transportation 
+                                Projects
+
+       For necessary expenses for the Office of the Federal 
+     Coordinator for Alaska Natural Gas Transportation Projects 
+     pursuant to the Alaska Natural Gas Pipeline Act of 2004, 
+     $2,322,000.
+
+                                TITLE V
+
+                           GENERAL PROVISIONS
+
+       Sec. 501. None of the funds appropriated by this Act may be 
+     used in any way, directly or indirectly, to influence 
+     congressional action on any legislation or appropriation 
+     matters pending before Congress as described in 18 U.S.C. 
+     1913.
+       Sec. 502. None of the funds made available in this Act may 
+     be transferred to any department, agency, or instrumentality 
+     of the United States Government, except pursuant to a 
+     transfer made by, or transfer authority provided in this Act 
+     or any other appropriation Act.
+
+
+                   Amendment Offered by Mrs. Schmidt
+
+  Mrs. SCHMIDT. Mr. Chairman, I offer an amendment.
+  The Acting CHAIRMAN. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment offered by Mrs. Schmidt:
+
+[[Page 16501]]
+
+       At the end of the bill, before the short title, insert the 
+     following:
+       Sec. 503. None of the funds made available by this Act may 
+     be used for the Global Nuclear Energy Partnership initiative 
+     for the transfer or storage of spent nuclear fuel or high-
+     level radioactive waste to any site that is not a site where 
+     facilities for reprocessing of that fuel or waste have been 
+     constructed or are under construction, or used to retain 
+     spent nuclear fuel or high-level radioactive waste for 
+     permanent storage at such a site where facilities for 
+     reprocessing of fuel or waste have been constructed or are 
+     under construction.
+
+  The Acting CHAIRMAN. Pursuant to the order of the House of Tuesday, 
+June 19, 2007, the gentlewoman from Ohio (Mrs. Schmidt) and a Member 
+opposed each will control 5 minutes.
+  The Chair recognizes the gentlewoman from Ohio.
+  Mrs. SCHMIDT. Mr. Chairman, I yield myself such time as I may 
+consume.
+  This amendment that I am offering, and plan to withdraw, is based on 
+legislation I have introduced with Congressmen Wilson and Space, H.R. 
+2282, the Nuclear Waste Storage Prohibition Act.
+  Currently, there are 11 sites around our Nation that are under 
+consideration for hosting one or more facilities related to the Global 
+Nuclear Energy Partnership, called GNEP. It's an initiative that is 
+being studied as we speak. The Portsmouth Gaseous Diffusion Plant 
+located in my district in Piketon, Ohio, is one of the 11 sites. The 
+other sites include locations in Tennessee, South Carolina, Kentucky, 
+New Mexico, Illinois, Washington and Idaho. Everyone representing one 
+of these sites or an area nearby has a strong interest in how this 
+important initiative proceeds.
+  The point of my amendment is to ensure that none of these GNEP sites 
+that have been under consideration only become a de facto storage site 
+for spent nuclear fuel. My amendment prohibits DOE from using funds to 
+transfer spent nuclear fuel or high-level radioactive waste to any site 
+unless it is a site where the reprocessing facility for this material 
+is either under construction or has been completed.
+  In addition, my amendment also ensures the final end product after 
+the fuel has been recycled is moved offsite as quickly as possible, 
+either to the next stage in the nuclear fuel recycling process or to 
+Yucca Mountain, which remains our Nation's long-term and permanent 
+storage facility.
+  DOE has not made any statements to suggest that any of those 11 sites 
+would ever become a de facto waste storage site. On the contrary, DOE 
+and this Congress have made clear over the years that the final end 
+product will be permanently stored at Yucca Mountain. However, based on 
+feedback from my constituents, who generally speaking are very excited 
+by the potential opportunities of this initiative, there are some 
+concerns related to long-term storage. I am sure I am not the only one 
+who has heard these concerns, and Congress must assure these 
+communities that their worst fears will never become a reality. This 
+amendment would help accomplish this goal.
+  Mr. Chairman, I reserve the balance of my time.
+  Mr. VISCLOSKY. Mr. Chairman, I rise in opposition to the amendment.
+  The Acting CHAIRMAN. The gentleman is recognized for 5 minutes.
+  Mr. VISCLOSKY. I appreciate the recognition. I understand the 
+gentlelady's concern and, with the observation that she is going to 
+withdraw her amendment, have a number of points to make but will simply 
+enter those into the Record.
+  Proceeding with construction of nuclear spent fuel recycling 
+facilities at this time is premature.
+  Geologic capacity exists at Yucca Mountain to accommodate much more 
+high level waste than currently permitted by legislation.
+  Spent fuel recycling is not economically viable given affordable 
+fresh supplies of uranium fuel.
+  On-site storage of nuclear spent fuel is safe for 50 to 100 years, so 
+there is no rush, but there could be cost savings from removing spent 
+fuel from the nine decommissioned nuclear reactor sites.
+  Mr. Chairman, I yield back the balance of my time.
+  Mrs. SCHMIDT. Mr. Chairman, how much time do I have left?
+  The Acting CHAIRMAN. The gentlewoman from Ohio has 2\1/2\ minutes 
+remaining.
+  Mrs. SCHMIDT. I yield to the ranking member.
+  Mr. HOBSON. Mr. Chairman, I appreciate the gentlelady's withdrawing 
+of the amendment. At the time this proposal came up, I was the chairman 
+of the committee and we worked together on this with the current 
+chairman. GNEP was a proposal that was put out for people to raise 
+their hand if they were interested in the project. It was never 
+intended that the project be a permanent disposition site. So I think 
+your people should understand that it was only an interim site. I would 
+recommend that the record show that it is only an interim site that is 
+intended if they are successful in receiving a GNEP award.
+  Mrs. SCHMIDT. I appreciate the ranking member's comments. I would 
+like to continue to work with you so that we can put some language into 
+the record that would assure the folks in the 11 States where GNEP is 
+being pursued that this is indeed an interim storage facility and not a 
+permanent storage facility.
+  Mr. Chairman, I ask unanimous consent to withdraw my amendment.
+  The Acting CHAIRMAN. Without objection, the amendment is withdrawn.
+  There was no objection.
+
+
+                Amendment No. 9 Offered by Mrs. Musgrave
+
+  Mrs. MUSGRAVE. Mr. Chairman, I offer an amendment.
+  The Acting CHAIRMAN. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment No. 9 offered by Mrs. Musgrave:
+       At the end of the bill (before the short title), insert the 
+     following new section:
+
+       Sec. 503. Each amount appropriated or otherwise made 
+     available by this Act that is not required to be appropriated 
+     or otherwise made available by a provision of law is hereby 
+     reduced by 0.5 percent.
+
+  The Acting CHAIRMAN. Pursuant to the order of the House of Tuesday, 
+June 19, 2007, the gentlewoman from Colorado (Mrs. Musgrave) and a 
+Member opposed each will control 5 minutes.
+  The Chair recognizes the gentlewoman from Colorado.
+  Mrs. MUSGRAVE. Thank you, Mr. Chairman.
+  My amendment would cut one-half of 1 percent spending from the Energy 
+and Water appropriations bill. I am offering this amendment to this 
+bill to make a cut of just one-half percent of the overall funding of 
+the bill.
+  With the national debt at an all-time high, Mr. Chairman, of $8.8 
+trillion, Congress is leaving a very sad legacy for the next 
+generation. I believe that we in Congress must take responsibility for 
+this burden by establishing Federal spending priorities and setting 
+spending caps for some programs and eliminating unnecessary spending 
+for others. When you look at this amount of money, when you look at 
+this huge amount that we are spending, I believe that it is very 
+reasonable to ask for this modest cut. We owe it to the taxpayers whose 
+money we are spending to make a serious commitment to fiscal 
+responsibility and we need to exercise fiscal restraint.
+  The simple truth is that the money we stand here today to spend is 
+not our own. The funds that we are appropriating come from the hard-
+earned incomes of families across this country. The families in my 
+district in eastern Colorado need money for groceries, to buy gas for 
+their cars, to educate their children, and I think that when we are 
+here on this floor talking about this issue, we ought to think about 
+the families in Colorado and around the Nation that work very hard to 
+make ends meet.
+  I know that there are worthy programs in this bill and I commend the 
+work of the chairman and the ranking member, but I think we need to 
+realize that this fiscal responsibility is what we should be exercising 
+right now. I urge my colleagues to support my amendment and really to 
+demonstrate to the American public that we remember where this money 
+comes from as we spend it and make our decisions here in this Chamber.
+  Mr. Chairman, I yield back the balance of my time.
+
+[[Page 16502]]
+
+
+  Mr. VISCLOSKY. Mr. Chairman, I rise in opposition to the 
+gentlewoman's amendment.
+  The Acting CHAIRMAN. The gentleman is recognized for 5 minutes.
+  Mr. VISCLOSKY. Mr. Chairman, I rise in strong objection to the 
+gentlelady's amendment and would point out a couple of things. One, as 
+we stated in opening debate, we very carefully looked at all the 
+accounts in this bill and, among other things, made cuts in over 57 
+programs to make sure that funds were available for positive programs 
+that make a difference in people's lives. One of those areas is in the 
+area of energy and specifically the high cost of gasoline for consumers 
+across the country.
+  One of the things that we did do is to add money in this legislation, 
+$130 million above the President's request, to provide $503 million for 
+new vehicle technologies and for biofuels. Another area as far as the 
+energy crisis was the change in the overall request relative to climate 
+change and, again, funds were made available for such things as 
+research, development and demonstration of new energy technologies in 
+solar, geothermal, wind, hydropower, fossil and nuclear energy as well 
+as research, development and demonstration of conservation technologies 
+for buildings and industries as well as the deployment of energy 
+conservation through weatherization in Federal buildings.
+  There are a lot of very positive things that we have done in this 
+legislation to advance a positive energy agenda. The gentlewoman's 
+amendment would be hurtful to those efforts and I am opposed to her 
+amendment.
+  Mr. Chairman, I yield back the balance of my time.
+  The Acting CHAIRMAN. The question is on the amendment offered by the 
+gentlewoman from Colorado (Mrs. Musgrave).
+  The question was taken; and the Acting Chairman announced that the 
+noes appeared to have it.
+  Mrs. MUSGRAVE. Mr. Chairman, I demand a recorded vote.
+  The Acting CHAIRMAN. Pursuant to clause 6 of rule XVIII, further 
+proceedings on the amendment offered by the gentlewoman from Colorado 
+will be postponed.
+
+                              {time}  1400
+
+
+             Amendment Offered by Mrs. Wilson of New Mexico
+
+  Mrs. WILSON of New Mexico. Mr. Chairman, I offer an amendment.
+  The Acting CHAIRMAN. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment offered by Mrs. Wilson of New Mexico:
+       At the end of the bill (before the short title), insert the 
+     following:
+       Sec. __. Of the funds made available in title III under the 
+     heading ``Science'', $37,000,000 is for the Medical 
+     Applications and Measurement Science Program.
+
+  The Acting CHAIRMAN. Pursuant to the order of the House of Tuesday, 
+June 19, 2007, the gentlewoman from New Mexico (Mrs. Wilson) and a 
+Member opposed each will control 5 minutes.
+  The Chair recognizes the gentlewoman from New Mexico.
+  Mrs. WILSON of New Mexico. Mr. Chairman, I have offered an amendment, 
+and I will tell my colleagues I intend to withdraw it at the end of my 
+presentation, but there is an issue that has been festering between two 
+agencies that I think Congress needs to go ahead and take action to 
+resolve.
+  This amendment ensures that the Department of Energy Office of 
+Science and the Office of Biological and Environmental Research spends 
+$37 million on medical isotope research in an account that is known as 
+Medical Applications and Measurement Science. This would restore the 
+funding to FY 2005 levels.
+  Medical isotopes are used extensively in imaging technology for the 
+diagnosis and treatment of cancer, heart disease, and several 
+neurological disorders. The program that DOE runs funds basic research 
+in new diagnostic and therapeutic applications using nuclear isotopes. 
+This research has identified new metabolic labels and imaging detectors 
+that have helped identify colon cancer, brain tumors, bone cancers and 
+many other cancers.
+  In addition, this research would fund new radiopharmaceuticals to 
+attach to specific cancer cells and treat them and prevent metastasis.
+  Congress reduced this program in fiscal year 2006 by $23 million 
+because of pressures on the other part of the DOE budget, but also 
+directed them to transfer the program over to the National Institutes 
+of Health, particularly the National Cancer Institute. The NIH did not 
+pick up this research; and in a recent meeting with scientists who do 
+this research, Dr. Elias Zerhouni, who is the director at NIH, said NIH 
+does not do this type of research; NIH cannot do this type of research. 
+They don't have the expertise in the nuclear materials required, and 
+also that this research must go forward.
+  The new director of Office of Biological and Environmental Research 
+has said that he understands the need for DOE to conduct this research 
+and has said he could provide the funding within his own budget within 
+this research at the fiscal year 2005 level if directed to do so by 
+Congress. The National Academy of Sciences is currently conducting a 
+review of this program, and I think this program does need to go 
+forward.
+  The funds in this particular program, in the last year that it was at 
+this level, FY 2005, funded on the basis of competitive grants programs 
+and research projects in 40 different locations, largely universities, 
+some national laboratories, most of them in the State of California, 
+although also at Case Western University in Ohio in New York, and 
+across the country, but it is critical research using 
+radiopharmaceuticals and targets, enriched targets, that really only 
+the Department of Energy works with. For that reason, that's the 
+appropriate place to do this research.
+  Now, for technical and procedural reasons, I understand that there is 
+a legitimate point of order against this particular amendment that's 
+legitimate, but I did want to at least raise this issue and say we need 
+to sort this out, that the appropriate place for this nuclear research 
+is actually in the Department of Energy rather than at the NIH, and the 
+NIH has said, no, we don't have the expertise to do it.
+  We need to sort this out to continue this highly successful research. 
+I strongly support it, and I hope that we would be able to work with 
+the Senate in conference to make sure that this program is 
+appropriately funded through the Office of Science.
+  Mr. Chairman, I yield to the ranking member of the committee.
+  Mr. HOBSON. I appreciate the gentlewoman's concerns, and we will work 
+to try to address them in conference.
+  I also appreciate her withdrawing the amendment.
+  Mrs. WILSON of New Mexico. Mr. Chairman, I ask unanimous consent to 
+withdraw my amendment.
+  The Acting CHAIRMAN. Is there objection to the request of the 
+gentlewoman from New Mexico?
+  There was no objection.
+
+
+             Amendment Offered by Mr. Murphy of Connecticut
+
+  Mr. MURPHY of Connecticut. Mr. Chairman, I offer an amendment.
+  The Acting CHAIRMAN. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment offered by Mr. Murphy of Connecticut:
+       At the end of the bill (before the short title), insert the 
+     following:
+
+       Sec. __ None of the funds made available in this Act may be 
+     used by the Federal Energy Regulatory Commission to issue a 
+     permit or other authorization for any action that may affect 
+     land use in any locality if a request has been made to the 
+     Commission for a public hearing in the locality concerned and 
+     such request has not been granted.
+
+  Mr. VISCLOSKY. Mr. Chairman, I reserve a point of order on the 
+gentleman's amendment.
+  The Acting CHAIRMAN. A point of order is reserved.
+  Pursuant to the order of the House of Tuesday, June 19, 2007, the 
+gentleman from Connecticut (Mr. Murphy) and a Member opposed each will 
+control 5 minutes.
+  The Chair recognizes the gentleman from Connecticut.
+
+[[Page 16503]]
+
+
+  Mr. MURPHY of Connecticut. Mr. Chairman, first I would like to thank 
+Chairman Visclosky for all his hard work on this bill.
+  As a former appropriator in the Connecticut General Assembly, I know 
+how hard this job is, and I am honored to stand next to him today.
+  Mr. Chairman, my amendment at the desk will bar the Federal Energy 
+Regulatory Commission, or FERC, from using funds to issue permits for 
+projects that have not been the subject of a local public hearing.
+  This amendment is based on a simple premise. Public policymakers 
+cannot and should not act without the input of citizens who will be 
+affected by the decisions that they make. As legislators, we know that 
+we can't sample public opinion by just sitting here in Washington. We 
+need to go back to our districts and solicit opinion, whether it be in 
+public forums, town fairs, or even at the supermarket or the post 
+office.
+  A regulatory agency should be held to the same standard. This 
+amendment does nothing to alter or constrain the final decisionmaking 
+authority of FERC. It just assures that the commission hears all sides 
+before making any determination on land-use issues.
+  Though this amendment would help many communities where FERC has 
+refused to hold a public hearing in an affected locality, and I know 
+Mr. Arcuri from New York, who may not be able to join us, holds this 
+concern as well, I come to this issue with my concern through my 
+constituents who live surrounding the Candlewood Lake area in 
+Connecticut, the largest inland body of water in the State.
+  My constituents there have been unable to secure a public hearing 
+from FERC to air their concerns regarding a shoreline management plan 
+proposed by the utility that owns the lake. This shoreline management 
+plan will change how they enjoy the land surrounding their homes and 
+the price they will pay for the privilege of living on the lake.
+  Local feelings on the appropriateness of the plan are mixed. However, 
+whatever residents may think, what is clear is that they should have 
+the opportunity to directly make their case to FERC. FERC has continued 
+to deny requests, both from my office and from constituents to hold a 
+local hearing, and this is unacceptable, I think, to every Member of 
+Congress.
+  I understand the Appropriations Committee, as well as the Energy and 
+Commerce Committee, may like some more time to look into this issue.
+  Mr. Chairman, if the chairman of the subcommittee would be willing to 
+work with me on this issue, I would be honored to yield to him at this 
+point.
+  Mr. VISCLOSKY. I appreciate the gentleman yielding very much and 
+certainly appreciate his passion and concern about the health and 
+safety of his constituents and this important issue to him.
+  The problem we have incurred on the committee, and this is not the 
+only regulatory issue regarding FERC that has been brought to our 
+attention, is we are not a regulatory body and obviously have 
+jurisdictional issues that are set aside over and above the issues of 
+substance relative to the gentleman's amendment.
+  But we do appreciate his concern. Certainly we would be happy to stay 
+in touch with him, without making a commitment, that this issue will be 
+resolved through the appropriations process. We do believe that the 
+higher this issue could be raised as far as the public and the 
+regulatory commission, the better off all the citizens of his community 
+are going to be.
+  Again, I thank the gentleman for raising the issue and appreciate the 
+fact that he apparently will be withdrawing his amendment.
+  Mr. MURPHY of Connecticut. Mr. Chairman, with the subcommittee 
+chairman's concern on this issue, at this time I would ask unanimous 
+consent to withdraw the amendment.
+  The Acting CHAIRMAN. Is there objection to the request of the 
+gentleman from Connecticut?
+  There was no objection.
+
+
+           Amendment No. 1 Offered by Mr. Bishop of New York
+
+  Mr. BISHOP of New York. Mr. Chairman, I offer an amendment.
+  The Acting CHAIRMAN. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment No. 1 offered by Mr. Bishop of New York:
+       At the end of the bill, before the short title, insert the 
+     following new section:
+       Sec. 503. None of the funds made available by this Act may 
+     be used by the Federal Energy Regulatory Commission to review 
+     the application for the Broadwater Energy proposal, dockets 
+     CP06-54-000, CP06-55-000, and CP06-56-000.
+
+  The Acting CHAIRMAN. Pursuant to the order of the House of Tuesday, 
+June 19, 2007, the gentleman from New York (Mr. Bishop) and a Member 
+opposed each will control 5 minutes.
+  The Chair recognizes the gentleman from New York.
+  Mr. BISHOP of New York. Mr. Chairman, I am joined in offering this 
+amendment by Mr. Courtney and Ms. DeLauro of Connecticut.
+  Mr. Chairman, I yield myself 2 minutes.
+  Let me start by thanking Chairman Visclosky and Ranking Member Hobson 
+for their work on this bill. I think it's a first-rate appropriations 
+bill, and I particularly want to thank them for their efforts to fully 
+fund Brookhaven Laboratory in my district.
+  This amendment is a very straightforward amendment. It would prohibit 
+any funds in this act from being used by FERC to advance the pending 
+application of a floating storage and regasification unit known as 
+Broadwater in the middle of Long Island Sound.
+  We offer this amendment for several reasons. Let me cite three. The 
+first is that there are serious and debilitating environmental impacts 
+associated with this project. Serious environmental concerns have been 
+raised by the EPA, by the New York State Department of Environmental 
+Conservation, the United States Department of the Interior, the 
+National Marine Fisheries Service, and the Army Corps of Engineers.
+  The second is that there are significant safety and security concerns 
+associated with this application, and even the Coast Guard, which would 
+be charged with securing this facility, has indicated that a much more 
+full public discussion needs to take place in order to determine who is 
+going to provide that security and who will fund it.
+  Lastly, this is the only means available to me to represent my 
+constituents. My constituents are overwhelmingly opposed to this 
+application, to this facility, and yet current law vests in the FERC 
+final authority to grant licensing for this project without any input 
+from local government at all.
+  This is the only means by which I as a Member of Congress can 
+exercise the will of the constituents I represent.
+  So I urge my colleagues to join me and Mr. Courtney and Ms. DeLauro 
+in supporting this amendment.
+  Mr. Chairman, I yield 1\1/2\ minutes to Mr. Courtney of Connecticut.
+  Mr. COURTNEY. Mr. Chairman, I rise in strong support of the Bishop-
+DeLauro-Courtney amendment.
+  It's unfortunate that it's necessary for the United States Congress 
+to intercede into a pending matter before the Federal Energy Regulatory 
+Commission. However, despite repeated warnings from independent, 
+scientific, and public safety analysts that this application for a 
+floating liquid natural gas facility in Long Island Sound needs more 
+investigation, FERC has refused every request for more time to study 
+the implications of this facility in one of the most populated areas of 
+the United States.
+  The need for more time was highlighted again just a few weeks ago 
+with the release of a 43-page report by the Government Accountability 
+Office that looked at the public safety consequences of a terrorist 
+attack on a tanker carrying liquid natural gas. GAO reviewed what would 
+be the effect of a liquid LNG spill and explosion.
+  The bottom line: more research is needed. Experts disagreed on what 
+would happen if there was a cascading failure of an LNG tanker, and GAO 
+recommended that the Department of Energy study this issue more 
+thoroughly.
+  GAO's report should settle the question of whether applications such 
+as Broadwater should proceed. If DOE determines from an expert opinion 
+that a
+
+[[Page 16504]]
+
+cascading failure would cause a hazard beyond 1 mile, then this 
+application is fatally flawed, literally. At some point it is incumbent 
+on the Congress of the United States to act upon the recommendations of 
+the GAO, which is an agency funded and created by us as an independent 
+branch of government.
+  When GAO says that it is premature to conclude that LNGs are safe in 
+populous areas of our Nation, then we have an obligation to act on that 
+advice. This amendment accomplishes that goal. I strongly urge its 
+passage.
+  Mr. BISHOP of New York. Mr. Chairman, I yield to the gentlewoman from 
+Connecticut.
+  Ms. DeLAURO. Mr. Chairman, I rise in strong support of this 
+amendment. We have 28 million people living within 50 miles of the Long 
+Island Sound. It contributes more than $5 billion to our economy 
+annually. It provides environmental, recreational, and economic 
+opportunity for our communities.
+  It is an estuary designated by Congress for its national 
+significance. Our responsibility is to keep major and potentially 
+dangerous industrial product out of our fragile sound. That includes 
+the LNG Broadwater facility. This would install a floating vessel, 
+roughly the size of Queen Mary 2, 10.2 miles off the Connecticut coast, 
+9 miles off the Long Island coast.
+  It calls for the installation of a 25-mile pipeline in the middle of 
+prime territory for lobstering and fishing. It creates an exclusionary 
+zone, prohibits any vessels from coming within a certain distance of 
+the facility itself and delivery tankers. It would fall to the Coast 
+Guard to maintain our security.
+  Their funds are stretched thin. Instead of being able to manage 
+fisheries, conducting lifesaving operations, and dealing with port 
+security, we will be diverting resources to these tankers. It would 
+propose a new security risk.
+  I commend Mr. Bishop and my colleague, Mr. Courtney. This amendment 
+gives DOE the time to address these concerns.
+  Mr. BISHOP of New York. Mr. Chairman, I yield back the balance of my 
+time.
+  Mr. VISCLOSKY. Mr. Chairman, I rise in opposition to the amendment.
+  The Acting CHAIRMAN. The gentleman from Indiana is recognized for 5 
+minutes.
+  Mr. VISCLOSKY. Mr. Chairman, I rise in opposition to the amendment, 
+but let me first begin my discussion by expressing my sincere respect 
+for the gentleman who has offered the amendment, Mr. Bishop, as well as 
+the two speakers who have followed him in support of it, particularly 
+my colleague on the Appropriations Committee, the chairwoman, Ms. 
+DeLauro.
+
+                              {time}  1415
+
+  I would point out to the body that this is the second FERC issue that 
+has been brought up on a regulatory matter before the subcommittee on 
+the floor. We have had other inquiries from Members that have not 
+reached this level that are very similar in substance in other areas of 
+the country. I would not pretend to deny that there is a problem, but I 
+am not competent to sort through that fact as I am not a regulator 
+myself, to make a determination, and do not believe that this is a 
+venue to make those particular determinations.
+  The amendment before us undoes the Natural Gas Act for the orderly 
+review and decision making process for energy infrastructure and limits 
+energy development efforts. FERC's consideration of applications to 
+site energy facilities does not imply that the applications will be 
+granted, or if granted, will not require appropriate environmental 
+protection measures. Moreover, all FERC authorizations are subject to 
+judicial review.
+  I do believe that FERC's application process ought to be able to run 
+its course. And again, I regret that I have to stand in objection to 
+the amendment but trust that my colleagues understand the impetus for 
+that.
+  Mr. HOBSON. Mr. Chairman, will the gentleman yield?
+  Mr. VISCLOSKY. I yield to the gentleman from Ohio.
+  Mr. HOBSON. I want to associate my comments with the chairman. I have 
+the utmost regard for all the Members who spoke on this, but I do 
+oppose the amendment and join with the chairman.
+  Mr. GENE GREEN of Texas. Mr. Chairman, I rise in strong opposition to 
+the Bishop/Courtney/DeLauro Amendment.
+  The amendment would unfairly target a single liquefied natural gas 
+project, ``Broadwater,'' that is mid-way through a very extensive 
+Federal and State regulatory process. Interfering with this regulatory 
+review would undermine the very process that is designed to provide a 
+thorough assessment of environmental, safety, security and energy 
+supply impacts of the project.
+  I understand the desire of the proponents of this amendment to ensure 
+the ultimate security of their constituents, but I hope this amendment 
+is not simply a red herring to utimately stop further efforts to site 
+LNG terminals across the U.S.
+  LNG has a record of relative safety for the last 40 years, and no LNG 
+tanker or land-based facility has been attacked by terrorists. Since 
+September 11, 2001, the U.S. LNG industry and federal agencies have put 
+new mesures in place to respond to the possibility of terrorism. 
+Federal initiatives to secure LNG are still evolving, but a variety of 
+industry and agency representatives suggest they are reducing the 
+vulnerability of LNG to terrorism.
+  Here in America we only have two options to increase our supply of 
+natural gas to meet our energy needs--we can build more LNG import 
+plants and we can produce more gas offshore. There is no alternative to 
+natural gas in many cases.
+  Unfortunately, the opponents of both options are often the same 
+people--they oppose LNG and they oppose drilling for gas. Without 
+increased exploration or LNG facilities, where will we receive the 
+energy America needs in the immediate future?
+  Natural gas is the cleanest energy source we have besides solar or 
+wind, and it is a critical fuel for industrial facilities and is a 
+feedstock for the petrochemical industry that makes plastic.
+  If we cannot produce natural gas here, we are going to have to import 
+gas to heat our homes and import more plastic in bulk or in consumer 
+products. That hurts our balance of trade.
+  For these reasons, I urge my colleagues to oppose the Bishop-
+Courtney-DeLauro Amendment, and I yield back the balance of my time.
+  Mr. VISCLOSKY. Mr. Chairman, I yield back the balance of my time.
+  The Acting CHAIRMAN. The question is on the amendment offered by the 
+gentleman from New York (Mr. Bishop).
+  The question was taken; and the Acting Chairman announced that the 
+noes appeared to have it.
+  Mr. BISHOP of New York. Mr. Chairman, I demand a recorded vote.
+  The Acting CHAIRMAN. Pursuant to clause 6 of rule XVIII, further 
+proceedings on the amendment offered by the gentleman from New York 
+will be postponed.
+
+
+             Amendment No. 14 Offered by Mr. Jordan of Ohio
+
+  Mr. JORDAN of Ohio. Mr. Chairman, I offer an amendment.
+  The Acting CHAIRMAN. Is the gentleman the designee of the gentleman 
+from California?
+  Mr. JORDAN of Ohio. Yes, the Campbell amendment. Number 14.
+  The Acting CHAIRMAN. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment No. 14 offered by Mr. Jordan of Ohio:
+       At the end of the bill (before the short title), insert the 
+     following:
+       Sec. 503. Appropriations made in this Act are hereby 
+     reduced in the amount of $1,305,000,000.
+
+  The Acting CHAIRMAN. Pursuant to the order of the House of June 19, 
+2007, the gentleman from Ohio (Mr. Jordan) and a Member opposed each 
+will control 15 minutes.
+  The Chair recognizes the gentleman from Ohio.
+  Mr. JORDAN of Ohio. I thank the Chair, and I also want to thank the 
+chairman of the subcommittee and the ranking member. I have great 
+respect for their work, particularly the ranking member, who is a 
+friend, colleague and actually neighbor of mine. I appreciate his work 
+over the years here in the United States Congress.
+  This amendment is pretty simple. It takes spending levels in the bill 
+back to the fiscal 2007 year levels; represents a $1.3 billion savings 
+to taxpayers and families across the country.
+
+[[Page 16505]]
+
+  Mr. Chairman, government spends too much. And I said ``government.'' 
+I didn't say Republicans or Democrats. Both parties need to work on 
+this area when it comes to public policy.
+  But today the Federal Government spends $23,000 per household. 
+Excessive spending hurts America. Deficits hurt America, and a rising 
+national debt hurts America.
+  You don't have to take my word for it. Our staff went through and we 
+looked at the Budget Chairman, Mr. Spratt's committee, some notes from 
+their committee hearings on the budget. And I want to just quote from 
+Dr. Edward Gramlich, former Governor of the Federal Reserve Board. He 
+said this: ``Deficits represent negative public saving, which tends to 
+drive down national saving. Lower national savings means a smaller 
+stock of capital for the future, which reduces the productivity and 
+wages of future workers. Budget deficits lead to less economic growth 
+and a lower level of economic activity than would otherwise be the 
+case.''
+  Excessive spending leads to deficits, leads to lower economic growth. 
+Excessive spending leads to tax increases, all bad for our growing 
+economy, all bad for American families.
+  And it's particularly, I think, important to recognize why this is so 
+crucial that we get a handle on it as we think about the marketplace we 
+find ourselves in today, the changing international market.
+  Just a couple of numbers. Four weeks ago the Wall Street Journal 
+reported that China's economic growth rate, annual growth rate, is 10.4 
+percent. Now, think about this: one billion, 300 million people in 
+China with a growth rate of 10.4 percent. That's what we're competing 
+against.
+  There was a point in the past where elected officials could maybe 
+enact policies that weren't in our best interest or weren't good for 
+our economic growth. But now, because of the fact that the competition 
+is so stiff, it's important that public policymakers get it right. Keep 
+taxes low, keep spending under control.
+  In the end, Mr. Chairman, it's not just about deficits and the 
+national debt and GDP. It's about people because, in the end, it's 
+people who pay taxes. It's people who have to deal with this debt and 
+the deficits that we're causing by spending at these levels.
+  I want to also quote from the same document from Chairman Spratt's 
+committee, from the Comptroller General, Mr. Walker. He said, 
+``Deficits matter for the world we leave our children and our 
+grandchildren.'' Mr. Walker said this, and I quote, ``Today we are 
+failing in one of our most important stewardship responsibilities, our 
+duty to pass on a country better positioned to deal with the challenges 
+of the future than the one we were given.'' And that's so true.
+  This amendment is real simple. It's going to allow families and 
+people across this country to keep more of their money to spend on 
+their goals, their dreams. And it's simply taking us back to last 
+year's fiscal level.
+  There are all kind of families, all kinds of individuals across this 
+country who are living on last year's budget. A simple, across-the-
+board amendment that says we're going to do what so many American 
+families have to do all the time, and we're going to live within our 
+means.
+  Mr. Chairman, I yield to the gentlelady from Tennessee (Mrs. 
+Blackburn).
+  Mrs. BLACKBURN. Mr. Chairman, one of the things that we know is that 
+the Federal Government does spend too much money. We all hear it from 
+our constituents. They are really aggravated with the amount of 
+spending that they see coming out of this town, and there is a good 
+reason for that. It is because it is their money. They earn that money 
+and they send it to Washington, and then there is a lot of aggravation 
+with how we choose to spend their hard-earned dollars.
+  And the gentleman is so correct in his amendment, moving this back to 
+last year's levels.
+  Now, Mr. Chairman, one of the things that we know is it would give a 
+$1.3 billion savings for the American taxpayer, and we know that 
+principles like this and operations like this work. When you go through 
+spending reduction, it works.
+  Our States are great labs for finding ways to find efficiencies in 
+government, and there's a reason for that. It's because many of our 
+States have balanced budget amendments. And many of our States have 
+frozen at previous years' levels, or they've been reduced 1 percent, 2 
+percent or 5 percent across the board.
+  And what they have found out is that, in their operations, they can 
+move in and find efficiencies and find ways to seek a savings, and 
+still have the same caliber and quality of program that they have had. 
+But, Mr. Chairman, one of the things that they do find is that many 
+times those programs are more effective.
+  So I commend Mr. Jordan for the work that he has done to find a $1.3 
+billion savings to make certain that the pressure is there on these 
+departments to live within their means, to try to do our best, to avoid 
+what the Democrats are wanting to pass, which is the single largest tax 
+increase in history, and to make certain that we give a message to our 
+constituents that we have heard them and we agree with them. Government 
+spends too much of their hard-earned money.
+  Mr. JORDAN of Ohio. Mr. Chairman, I reserve the balance of my time.
+  Mr. VISCLOSKY. Mr. Chairman, I claim the time in opposition.
+  The Acting CHAIRMAN. The gentleman is recognized for 15 minutes.
+  Mr. VISCLOSKY. I reserve my time at this time, Mr. Chairman.
+  Mr. JORDAN of Ohio. Mr. Chairman, I yield 2 minutes to the gentleman 
+from Michigan (Mr. Walberg).
+  Mr. WALBERG. Mr. Chairman, I thank my colleague from Ohio for putting 
+up this amendment. It's a very simple amendment that I think does well 
+for us to consider in context with what we have to wrestle with, the 
+consideration coming from the largest tax increase in the history of 
+the United States being offered, $400 billion on the taxpayers. And I 
+take it into context as I looked here with this amendment offering a 
+$1.3 billion cut in spending, going back to last year's levels, and 
+saying let's live within our means.
+  I come from a Great Lakes State. When we talk about water, I do know 
+about water. I know the impact that it can have, the impact upon all of 
+our way of life.
+  But I also come from a State that's struggling at this point in time 
+with economic conditions that comes from too large government, too much 
+spending, too much taxation. And in the process of trying to deal with 
+that, going the opposite direction of where they should, they're still 
+frustrating what's going on and producing unemployment rates that rival 
+any in history, and frustrating Michigan from having the same type of 
+impact that we see just last week talked about in the New York Times of 
+a 40-State growth rate that goes on with States that not only, because 
+of tax cuts and spending within their means, have seen the ability not 
+only to increase some of their services, set aside rainy day funds, but 
+also talk about further tax cuts. That's what we need to be doing here; 
+not considering spending more in a time in our history when we ought to 
+be considering what comes with the future.
+  If we see a $400 billion tax increase go in place, we see a tax that 
+goes on for working, a tax that goes on if you get married, a tax that 
+goes on if you have a child, a tax that will go on, even if you die. 
+Those are issues of great concern.
+  And so to be fiscally responsible here and use an amendment that 
+simply takes us back to a reasonable standard of expenditures, puts us 
+in a place that we can afford and fund to do the necessary services, we 
+do ourself well.
+  Mr. JORDAN of Ohio. Mr. Chairman, I reserve the balance of my time.
+  Mr. VISCLOSKY. Mr. Chairman, we may only have one speaker on our 
+side, so I would still reserve my time.
+  Mr. JORDAN of Ohio. Mr. Speaker, I yield 3 minutes to the gentleman 
+from North Carolina (Mr. McHenry).
+  Mr. McHENRY. I thank my colleague from Ohio for offering this 
+amendment.
+
+[[Page 16506]]
+
+  We're debating now on a 3.5 percent across-the-board cut to an 
+appropriations bill. It's an amazing thing in Congress; with one vote, 
+we can slash $1.3 billion out of an appropriations bill.
+  What we're debating here is not simply a small cut. We're debating on 
+whether or not the American taxpayers can depend on the Bush tax cuts 
+from 2001 and 2003. We're trying to determine what kind of economic 
+growth we'll have as a Nation, based on how much the government spends 
+in taxes.
+  This is more than a debate about spending. This is a debate about the 
+size and scope of government.
+  Well, let's put the facts on the table. The American Government costs 
+$2.7 trillion a year. That is the largest government on Earth. And 
+further perspective here: It's the largest government in the history of 
+mankind.
+  Now, to put this further into perspective, there are only two 
+economies outside of the United States that are equal to the size of 
+our Federal spending. That's Germany and Japan. And what is amazing 
+about this, what is absolutely amazing about this, is that we have a 
+Federal Government that's larger than most economies on Earth. In fact, 
+our Federal Government spends more than the whole of China's economy.
+  Now, that's simply amazing. I think it shows that, while we're 
+debating on extending the Bush tax cuts, the American people understand 
+that we don't have a revenue problem, we have a spending problem here 
+in the United States.
+  This Congress is addicted to spending. In fact, in just a week's 
+time, they appropriated $100 billion. Now, that's fast work even for 
+Washington, DC.
+  The American people, Mr. Chairman, understand that we need to tighten 
+our belt. A 3.5 percent across-the-board cut is a good start. That'll 
+save $1.3 billion of the American taxpayers' hard-earned money.
+  I commend my colleague for offering this amendment, and I urge its 
+adoption.
+
+                              {time}  1430
+
+  Mr. JORDAN of Ohio. Mr. Chairman, I yield 1\1/2\ minutes to the 
+gentleman from Texas.
+  Mr. CULBERSON. Mr. Chairman, I rise in strong support of the 
+gentleman from Ohio's amendment, and I want to thank him for offering 
+it.
+  Today in this amendment, the gentleman from Ohio is offering American 
+taxpayers a $1.3 billion tax cut on an appropriations bill. And it is 
+important for everyone to understand, Mr. Chairman, that this amendment 
+is a $1.3 billion tax cut for Americans because the Democrat budget 
+that they have produced, which pays for these increases in their 
+appropriations bill, this Democrat budget spends all that new money by 
+raising taxes.
+  The Democrat budget assumes that the Bush tax cuts are going to all 
+go away. And by eliminating the Bush tax cuts, the effect is the 
+largest tax increase in American history, which the Democrat majority 
+has orchestrated in a way that they can allow it to go away without 
+even having to cast a vote. The budget that the Democrats use to pay 
+for these massive increases in this appropriations bill are paid for by 
+the biggest tax increase in American history. And, therefore, the 
+gentleman's amendment, Congressman Jordan's amendment, is a $1.3 
+billion tax cut. And that is a critical point that I think everyone 
+needs to make sure they understand.
+  When they vote for this amendment, they are voting to cut the taxes 
+of our constituents by $1.3 billion. And it is really just that simple. 
+And I could not thank him enough. It is an extraordinarily important 
+amendment. There are vitally important functions in this Energy and 
+Water appropriations bill that need to be funded, but this increase is 
+not affordable at the time of record debt and deficit, and I applaud 
+the gentleman and urge Members to vote for a $1.3 billion tax cut.
+  Mr. JORDAN of Ohio. Mr. Chairman, I reserve the balance of my time.
+  Mr. VISCLOSKY. Mr. Chairman, I yield such time as he may consume to 
+the gentleman from Massachusetts (Mr. Olver).
+  Mr. OLVER. Mr. Chairman, I thank the gentleman for yielding me time, 
+but he shouldn't really yield me all the time that I might consume 
+because I might consume it all. So please inform me when I have used 
+about 4 minutes, and then I might use an additional 1.
+  Mr. Chairman, each of the people who have already spoken in favor of 
+this piece of legislation, which would take $1.3 billion or $1.8 
+billion, whichever it is, I don't remember precisely, out of the 
+recommended budget, the budget that has been recommended by the 
+chairman and ranking member with a unanimous vote out of the 
+Appropriations Committee, each of the people who had spoken in favor of 
+this amendment has made the comment that the budget resolution has 
+raised taxes by the largest amount ever in the history of this country. 
+Each of the Members has made that allegation.
+  Each of the Members knows perfectly well that you cannot raise taxes, 
+you cannot raise taxes by that mechanism; that any raise in taxes has 
+to be passed by the House and the Senate in exactly the same form and 
+then signed by the President of the United States. So it is simply 
+incorrect, and each and every Member knows that it is incorrect that 
+the budget raises taxes, raises the largest tax increase in the history 
+of the country.
+  The last gentleman who spoke pointed out that the adoption of this 
+amendment, which would reduce this particular bill, recommended by both 
+the chairman and the ranking member, by $1.3 billion, that that would 
+be a $1.3 billion tax reduction. The gentleman who made that comment 
+also knows that no reduction in taxes can occur except by legislation 
+that is passed by both Houses and signed by the President. So, again, 
+it is totally incorrect to make that allegation.
+  Now, the first speaker, who has offered this amendment, has said that 
+this bill spends too much. Well, I think the measure of whether a bill 
+spends too much is whether we are doing what is necessary for the 
+security of this country and for the well-being of the people of 
+America. And I think what has been done by the chairman and ranking 
+member falls very much in the point of providing for the security of 
+the country and also for the well-being of the American citizens.
+  I would point out that the chairman and the ranking member and the 
+full subcommittee that brings forward this legislation has reduced by 
+over $800 million the President's request, actually $900 million over 
+the President's request, in programs that have been terminated or 
+reduced, in all of those that have been terminated and reduced. Now, 
+what they have done, after making those reductions from the President's 
+request and in their responsibility to provide for the budget for the 
+country, they have then added moneys. They have added about $400 
+million in the provisions for renewable energy, which have to deal with 
+solar energy, biofuel energy, nuclear energy and geothermal, wind, and 
+all the other good renewable energy sources which we need desperately 
+for our national security to remove ourselves from the heavy dependence 
+that we have on foreign oil. So that is a place where if this amendment 
+were adopted and we were to go back to the 2007 numbers, then we would 
+lose that increase, that very important increase of $400 billion.
+  The Acting CHAIRMAN. The gentleman asked to be notified when he has 
+gone past 4 minutes. The gentleman has gone past 4 minutes.
+  Mr. OLVER. Thank you very much, Mr. Chairman.
+  We would lose that $400 million of very important investments for the 
+security and well-being of this country.
+  And I would just also like to point out that there are substantial 
+increases, which the ranking member has pointed out, that deal with the 
+deficits, the deficits in investments in our water infrastructure under 
+the Corps of Engineers and also under the Bureau of Reclamation, those 
+places where we have dams that are in need of investment that has not 
+been done over recent years and investments that should be done in our 
+ports in order to make our commerce go better, a whole series of things 
+which the ranking member
+
+[[Page 16507]]
+
+had laid out very carefully in his initial remarks in relation to this 
+legislation. All of those things which are increases that are in this 
+legislation, part of that $1.3 billion, which would be removed, then 
+those pieces of investments would thereby become unnecessary.
+  So I think this legislation is right on target for securing this 
+Nation and for securing the well-being of the people of America. And I 
+hope that the gentleman's amendment will be rejected.
+  Mr. VISCLOSKY. Mr. Chairman, I yield myself such time as I may 
+consume.
+  Again, I stand in opposition to the gentleman's amendment and 
+apologize to the gentleman for having his State of origin incorrect, 
+especially because he is from the great State of Ohio. But I would 
+emphasize that this is the Energy and Water Development Appropriations 
+Act for the coming year, and we are in an energy crisis and it 
+transcends the cost of the price of gasoline at the pump. It is a true 
+economic situation and crisis that we face. It is a national security 
+issue that we face. My good friend, the senior Senator from the State 
+of Indiana, Senator Lugar, has characterized the energy crisis we face 
+as the albatross around our national security neck. It is also an 
+environmental issue as far as a potential catastrophic climate change 
+that will occur if we do not deal with the issue of CO<INF>2</INF>.
+  This bill makes an investment in solving that crisis we face. It will 
+not solve all the problems tomorrow morning, but it will put us on firm 
+footing to do so in the future.
+  Let's talk about vehicle technology. The bill recommends $93 million 
+for hybrid electric systems, an increase of $13 million over the 
+President's request. Of the increase, $10 million is for energy storage 
+research and development for advanced batteries for electric, hybrid 
+electric, and plug-in hybrid electric vehicles, and $3 million is for 
+independent test and evaluation of all vehicles developed in the 
+upcoming demonstration phase.
+  This bill also includes $49 million for advanced combustion engine 
+research and development, an increase of $15 million over the 
+President's request to restore funding for heavy truck engine research 
+that was eliminated in the administration's request.
+  It does include $48 million, $15 million over the budget, for 
+materials technology research, to accelerate the development of cost-
+effective materials and manufacturing processes that contribute to 
+fuel-efficient passenger and commercial vehicles.
+  It includes $10 million more than the administration's request for 
+nonpetroleum-based fuels and lubricants evaluation to expand and 
+accelerate research and development for the optimum ethanol fuel.
+  And we also have an increase for technology integration of $6 million 
+in this bill for vehicle technologies and deployment, formerly the 
+Clean Cities Program. We have moneys in here to advance geothermal 
+technology, to demonstrate cost-share industry that will allow 
+accelerated research into new geothermal technologies.
+  We have moneys in here for hydropower; for research, development, and 
+demonstration of ocean, tidal, and in-stream hydropower energy systems. 
+We have made an investment in this bill for electricity supply and 
+delivery research, for applied research on semi-conductor material, 
+device and processing issues, technology acceptance and technology 
+evaluation.
+  We have investment moneys in this bill for solar energy research, and 
+the gentleman from the State of Massachusetts talked about that 
+briefly, to develop cost-neutral designs and technologies to better 
+integrate solar heating and lighting into building designs. We have 
+made an investment in this bill for facilities to research, test, and 
+demonstrate the new renewable technologies.
+  It would be a mistake to change these funding levels and turn the 
+clock back as far as trying to make progress to solve the energy 
+problems we face in this Nation.
+  Mr. HOBSON. Mr. Chairman, will the gentleman yield?
+  Mr. VISCLOSKY. I yield to the gentleman from Ohio.
+  Mr. HOBSON. Mr. Chairman, I rise to associate myself with the 
+gentleman's comments.
+  Mr. VISCLOSKY. Mr. Chairman, I reserve the balance of my time.
+  Mr. JORDAN of Ohio. Mr. Chairman, I yield the balance of my time to 
+the minority whip from Missouri (Mr. Blunt).
+  Mr. BLUNT. Mr. Chairman, I thank the gentleman for yielding.
+  I am here in support of this amendment. This amendment is one of the 
+things that we have to look at, one of the alternatives, to just stop 
+this spending spree that we see ourselves on.
+  In just over 6 months the new majority has passed and paved the way 
+for over $100 billion in increased spending. We already enacted $6.1 
+billion of new spending in the continuing resolution and $17 billion of 
+new spending in the supplemental.
+
+                              {time}  1445
+
+  And these appropriations bills have over $80 billion in new spending. 
+As Everett Dirksen once famously said, ``A billion here, a billion 
+there, before you know it you're talking about real money.'' And here 
+we're talking about $100 billion of new spending.
+  Mr. Campbell's amendment only proposes that we reduce this spending 
+in this particular bill to the President's level. This bill increases 
+spending by $1.3 billion over last year, 4.3 percent higher than last 
+year. If you add this increase to the increases already proposed and 
+passed by House Democrats last week, we are spending $20.7 billion, or 
+15.6 percent, more than last year. Where is all this money going to go?
+  In this bill, $682 million, or a 35 percent increase, for operations 
+and maintenance within the Corps of Engineers; $1 billion, or a 4 
+percent increase, to the Department of Energy; $108 million, or an 
+increase of 13 percent, for salaries and expenses at the Nuclear 
+Regulatory Commission. These are excessive changes in spending that 
+this bill doesn't justify.
+  The only thing this amendment does is say let's go back to the 
+President's level. Let's go back to an amount of money that, while it 
+still provides for our immediate advances in energy and water, doesn't 
+do this in a way that American taxpayers can't pay for it. And how does 
+this majority intend to pay for it? The budget that would pay for it 
+has, unarguably, the second biggest tax increase in American history, 
+and arguably, the biggest tax increase in American history. In other 
+words, there is no question that we intend to spend $217 billion more 
+money that has to be raised from new taxes. And it's still an open 
+question as to how close we're going to let that get to $400 billion.
+  Now, this is the question: Are the American taxpayers going to be 
+asked to provide 217 billion to 400 billion new dollars, or are we 
+going to simply take this bill as the first step back to the 
+President's level?
+  This is a good amendment. This amendment deserves the approval of our 
+friends. I hope our friends on both sides of the aisle, the 
+conservative Democrats, the Blue Dogs, stand up with most of the 
+Republicans to make this amendment happen.
+  Mr. VISCLOSKY. Mr. Chairman, I stress my opposition to the amendment, 
+and I yield back the balance of my time.
+  The Acting CHAIRMAN. The question is on the amendment offered by the 
+gentleman from Ohio (Mr. Jordan).
+  The question was taken; and the Acting Chairman announced that the 
+noes appeared to have it.
+  Mr. JORDAN of Ohio. Mr. Chairman, I demand a recorded vote.
+  The Acting Chairman. Pursuant to clause 6 of rule XVIII, further 
+proceedings on the amendment offered by the gentleman from Ohio will be 
+postponed.
+
+
+                  Amendment No. 27 Offered by Mr. Wynn
+
+  Mr. WYNN. Mr. Chairman, I offer an amendment.
+  The Acting CHAIRMAN. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+
+[[Page 16508]]
+
+       Amendment No. 27 offered by Mr. Wynn:
+       At the end of the bill, before the short title, insert the 
+     following:
+       Sec. 503. Of the amount made available for Energy 
+     Efficiency and Renewable Energy for the Department of Energy, 
+     $213,000,000 shall be made available for hydrogen 
+     technologies as authorized by section 974 of the Energy 
+     Policy Act of 2005 (42 U.S.C. 16314).
+
+  The Acting CHAIRMAN. Pursuant to the order of the House of Tuesday, 
+June 19, 2007, the gentleman from Maryland (Mr. Wynn) and a Member 
+opposed each will control 5 minutes.
+  The Chair recognizes the gentleman from Maryland.
+  Mr. WYNN. Mr. Chairman, we have a very simple amendment here today. 
+It would basically restore $18.4 million for hydrogen technology, which 
+would bring the account up to the level that the administration, 
+through the Department of Energy, recommended.
+  This amendment is supported by the Hydrogen Fuel Cell Caucus. I would 
+note the leadership, particularly Mr. Larsen, in crafting this 
+amendment, also the work of Mr. Inglis of South Carolina and Mr. Dent 
+as part of the Caucus.
+  There are some who would say that hydrogen is too far away. In fact, 
+hydrogen is emissions-free and it is here today. GM has 100,000 
+vehicles ready to go. Honda has vehicles ready to go. BMW released 
+vehicles last year. There are buses, motorcycles, all of which are 
+being fueled by hydrogen fuel cells. Japan is talking about 50,000 
+vehicles by 2015. We need to keep pace. We need to put the money into 
+hydrogen technology.
+  Mr. Chairman, I reserve the balance of my time.
+  Mr. OLVER. Mr. Chairman, I am willing to accept for the majority the 
+amendment offered by the gentleman from Maryland.
+  Mr. HOBSON. Mr. Chairman, I am willing to accept the amendment, also.
+  Mr. WYNN. As an old trial lawyer, I know when to stop. Thank you, 
+gentlemen, for the acceptance.
+  Mr. TERRY. Mr. Chairman, I rise to speak in support of the Wynn 
+amendment to the Energy & Water Appropriations bill.
+  Contrary to statements in the Energy & Water Committee Report 
+questioning the level of hydrogen technology research and development, 
+fuel cells technology is much closer than 2050.
+  Mr. Chairman, our Nation took 60 years from the first Wright Brothers 
+flight to putting a man on the Moon; it will not take us that long to 
+make hydrogen fuel cells mainstream. Hydrogen cars and fueling stations 
+exist; we are almost there. The funding levels in the Fiscal Year 2008 
+Energy & Water appropriations bill will help provide the final push we 
+need to overcome remaining obstacles and see hydrogen cars and fueling 
+stations become a reality.
+  Additionally, Mr. Chairman, Hydrogen Fuel Cells are already in use in 
+larger facilities. In my own District, the Henry Doorly Zoo uses fuel 
+cells to generate electricity for its Lied Jungle exhibit, making it 
+more energy efficient. Additionally, the U.S. Air Force is using fuel 
+cell technology for its Global Observer program.
+  Mr. Chairman, energy security and independence have to become a 
+reality. Hydrogen is a potentially limitless supply and a renewable, 
+clean resource that deserves to be funded at its current level, if not 
+more.
+  Mr. WYNN. Mr. Chairman, I relinquish the balance of my time.
+  The Acting CHAIRMAN. The question is on the amendment offered by the 
+gentleman from Maryland (Mr. Wynn).
+  The amendment was agreed to.
+
+
+                 Amendment No. 11 Offered by Ms. Harman
+
+  Ms. HARMAN. Mr. Chairman, I offer an amendment.
+  The Acting CHAIRMAN. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment No. 11 offered by Ms. Harman:
+       At the end of the bill (before the short title), insert the 
+     following:
+       Sec. 503. None of the funds made available in this Act may 
+     be used to purchase light bulbs unless the light bulbs have 
+     the ``ENERGY STAR'' designation.
+
+  The Acting CHAIRMAN. Pursuant to the order of the House of Tuesday, 
+June 19, 2007, the gentlewoman from California (Ms. Harman) and a 
+Member opposed each will control 5 minutes.
+  The Chair recognizes the gentlewoman from California.
+  Ms. HARMAN. Mr. Chairman, I hope there is no one opposed. I offer 
+this amendment with Mr. Upton, Mr. Lipinski and Mr. Inglis of South 
+Carolina in order to help the government set an example for the rest of 
+the country by purchasing energy-efficient light bulbs.
+  Mr. Chairman, existing law requires Federal agencies to buy products 
+that meet Department of Energy, Energy Star or Federal Energy 
+Management program standards. This amendment adds teeth to that 
+standard, stating that no funds may be used to purchase any light bulb 
+that does not meet it. Identical language has already been adopted in 
+prior appropriations bills. Our intention is to offer this amendment as 
+the Upton-Harman amendment on the next appropriations bill and to 
+continue this until we are through the appropriations cycle.
+  Our bottom line is: The Federal Government must set the example. This 
+is already the law, but it needs to be the practice as well.
+  Let me close with the fact that incandescent bulbs, which are used by 
+most Americans, are 10 percent efficient. This sounds like Congress. I 
+think our goal ought to be much greater efficiency here in this body, 
+and much greater efficiency with respect to the lighting that we use. 
+It takes 18 seconds to change a light bulb. It will take more time than 
+that to change Congress. But it is my hope that this amendment will 
+pass attached to every appropriations bill.
+  I yield the remainder of my time to the gentleman from Michigan.
+  Mr. UPTON. I thank the gentlelady, and I join in bipartisan spirit to 
+get this amendment adopted as we've done on the other appropriations 
+bills.
+  I might just note that this shining amendment will save the taxpayers 
+literally $30 for every bulb that is ultimately replaced. It is not 
+going to require that we take existing bulbs that work out when they 
+expire. We will put in energy-efficient Energy Star bulbs. It will save 
+the taxpayers ultimately hundreds of millions of dollars.
+  This is a bipartisan amendment. We found two additional cosponsors in 
+terms of Mr. Lipinski and Mr. Inglis of South Carolina. We're also in 
+the middle of a markup, so to be more efficient, I think both of us 
+would like to yield back our time.
+  Ms. HARMAN. Mr. Chairman, I yield back the balance of my time.
+  Mr. OLVER. Mr. Chairman, I move to strike the last word.
+  The Acting CHAIRMAN. The gentleman is recognized for 5 minutes.
+  Mr. OLVER. I am certainly not going to use my time in this instance. 
+I, for the majority, am willing to accept the gentlewoman and 
+gentleman's amendment.
+  Mr. HOBSON. I am also willing to accept the amendment for the 
+minority. I think it's a good amendment.
+  Mr. OLVER. Mr. Chairman, I yield back the balance of my time.
+  The Acting CHAIRMAN. The question is on the amendment offered by the 
+gentlewoman from California (Ms. Harman).
+  The amendment was agreed to.
+
+
+                 Amendment No. 7 Offered by Ms. Berkley
+
+  Ms. BERKLEY. Mr. Chairman, I offer an amendment.
+  The Acting CHAIRMAN. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment No. 7 offered by Ms. Berkley:
+       At the end of the bill, before the short title, insert the 
+     following new section:
+       Sec. 503. None of the funds made available by this Act may 
+     be used to administer the ``Yucca Mountain Youth Zone'' 
+     website.
+
+  The Acting CHAIRMAN. Pursuant to the order of the House of Tuesday, 
+June 19, 2007, the gentlewoman from Nevada (Ms. Berkley) and a Member 
+opposed each will control 5 minutes.
+  The Chair recognizes the gentlewoman from Nevada.
+  Ms. BERKLEY. Mr. Chairman, I would like to thank Chairman Visclosky 
+for his assistance on this issue and Congressman Hobson for his 
+agreement to accept this amendment.
+  My amendment is based on a simple concept--the Department of Energy, 
+or any government entity for that matter, should not be using taxpayer 
+funds to ``educate'' the children of America about one side of a very 
+complicated and contentious issue. The Department of Energy's Web site 
+includes a section
+
+[[Page 16509]]
+
+called the ``Yucca Mountain Youth Zone,'' featuring the cartoon 
+character Yucca Mountain Johnny, along with games and activities 
+designed to convince kids that the proposed Yucca Mountain nuclear 
+waste repository is a good idea.
+  My position on Yucca Mountain should not be a mystery to any member 
+of this body. I have long opposed the plan to bury nuclear waste in the 
+Nevada desert following what I consider to be a process based on 
+politics rather than sound science. But I recognize that reasonable 
+people can disagree about such an important issue. What I do not 
+accept, however, is that the Department of Energy can get away with 
+trivializing a very serious debate by using a Nuclear Joe Camel to 
+promote Yucca Mountain to children.
+  My amendment would eliminate funding for the Yucca Mountain Youth 
+Zone Web site. Regardless of whether you support Yucca Mountain or 
+oppose it, all members of the House should agree that this Web site is 
+not an appropriate use of taxpayer funds.
+  If the Department of Energy really wants to remain in the cartoon 
+business, I suggest they come up with a new character that would 
+educate our children on the need for clean and renewable energy--how 
+about Solar Sally or Geothermal George? In any case, I urge my 
+colleagues to join me in dumping Yucca Mountain Johnny.
+  What I would like to do right now, in accordance with our agreement, 
+is yield to Mr. Visclosky.
+  Mr. VISCLOSKY. Mr. Chairman, I simply want to indicate that I am 
+happy to accept the amendment.
+  Mr. HOBSON. Mr. Chairman, I will not oppose the amendment.
+  The Acting CHAIRMAN. The question is on the amendment offered by the 
+gentlewoman from Nevada (Ms. Berkley).
+  The amendment was agreed to.
+
+
+                 Amendment No. 5 Offered by Mr. Conaway
+
+  Mr. CONAWAY. Mr. Chairman, I offer an amendment.
+  The Acting CHAIRMAN. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment No. 5 offered by Mr. Conaway:
+       At the end of the bill (before the short title), insert the 
+     following:
+       Sec. __. It is the sense of the House of Representatives 
+     that any reduction in the amount appropriated by this Act 
+     achieved as a result of amendments adopted by the House 
+     should be dedicated to deficit reduction.
+
+  The Acting CHAIRMAN. Pursuant to the order of the House of Tuesday, 
+June 19, 2007, the gentleman from Texas (Mr. Conaway) and a Member 
+opposed each will control 5 minutes.
+  The Chair recognizes the gentleman from Texas.
+  Mr. VISCLOSKY. Mr. Chairman, I would reserve a point of order on the 
+gentleman's amendment.
+  The Acting CHAIRMAN. The gentleman reserves a point of order.
+  Mr. CONAWAY. Mr. Chairman, during this process of the debate over the 
+last several hours, Member after Member on our side have come to the 
+aisle and proposed amendments that would reduce spending off of this 
+appropriations bill. They do it in good faith but the truth of the 
+matter is, were any of those to pass and should any of those pass 
+subsequent to the actual recorded votes, that money actually stays 
+within the jurisdiction of the committee and gets spent somewhere else.
+  What my amendment would do is say that if we were able to succeed on 
+one of the amendments that reduces spending or cuts spending, that that 
+money instead of going back into the committee of jurisdiction pool or 
+subcommittee of jurisdiction pool would actually go against the 
+deficit. And should it be an unusual occurrence in the future with a 
+surplus circumstance, that money would simply increase the surplus.
+  This is straightforward, no tricks, no gimmicks. It is just simply if 
+the cuts are successful, that money actually does not get spent.
+  Mr. Chairman, I am happy to yield as much time as he may consume to 
+the gentleman from Texas.
+  Mr. CULBERSON. Mr. Chairman, I just want to compliment my colleague 
+from Texas on this superb amendment because this has always been a 
+concern. I am proud to be a member of the Appropriations Committee. And 
+the effort that a lot of Members have made to try to eliminate earmarks 
+isn't going to go anywhere and save taxpayers any money unless we're 
+able to actually eliminate the earmark or pass a cut that then shifts 
+money into a deficit reduction account.
+  My colleague from west Texas is exactly right. I would encourage Mr. 
+Flake and others to pay close attention to what Mr. Conaway is doing 
+because this is precisely what I and others, Mr. Conaway has been 
+working on this for some time, have suggested you need a deficit 
+reduction account. You eliminate the earmark if you're worried about 
+controlling spending. A lot of those earmarks are important and 
+necessary and we all need to post them on our Web sites. I've been 
+doing that for a long, long time. Every earmark I make I'm proud of, 
+it's there on the Web site. The starting answer is ``no'' for all 
+appropriations requests, but if you earn an earmark, be proud of it. 
+But those earmarks that we want to eliminate, cut them and put them in 
+this deficit reduction account.
+  Mr. Conaway is exactly right. This is a tremendous amendment. I hope 
+all Members will support it because the taxpayers deserve to save this 
+money and have it go towards reducing the deficit.
+  I thank you very much, Mr. Conaway. It's a great amendment. And I 
+will work hard to help you pass it.
+  Mr. CONAWAY. I thank the gentleman for his support.
+  I understand there is a valid point of order against this amendment. 
+If there is any possibility whatsoever of working with the other side 
+and trying to accomplish what my colleague on the Appropriations 
+Committee and I would like to do, we would like to work with you.
+  Mr. Chairman, I ask unanimous consent to withdraw my amendment.
+  The Acting CHAIRMAN (Mr. Andrews). Without objection, the amendment 
+is withdrawn.
+  There was no objection.
+
+
+                    Amendment Offered by Mr. Shadegg
+
+  Mr. SHADEGG. Mr. Chairman, I offer an amendment.
+  The Acting CHAIRMAN. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment offered by Mr. Shadegg:
+       At the end of the bill, before the short title, insert the 
+     following:
+
+     SEC. 503. LIMITATION ON FUNDS RELATED TO FEDERAL DAMS.
+
+       No funds appropriated in or made available by this Act may 
+     be used to study or implement any plan to breach, 
+     decommission, or remove any Federal dams producing 
+     hydropower.
+
+  The Acting CHAIRMAN. Pursuant to the order of the House of Tuesday, 
+June 19, 2007, the gentleman from Arizona (Mr. Shadegg) and a Member 
+opposed each will control 5 minutes.
+  The Chair recognizes the gentleman from Arizona.
+
+                              {time}  1500
+
+  Mr. SHADEGG. Mr. Chairman, I yield myself 2 minutes.
+  Mr. Chairman, I want to begin by complimenting the chairman of the 
+committee, the gentleman from Indiana (Mr. Visclosky), and the ranking 
+member, the gentleman from Ohio (Mr. Hobson), for showing support for 
+hydropower in the base bill.
+  Hydropower has long been overlooked as a source for clean energy. I 
+am very pleased that this bill, and the report that goes along with it, 
+support hydropower and encourage its use and its utilization.
+  My amendment builds off of that effort by simply saying that the 
+existing hydropower that we have should not be decommissioned at this 
+point in time.
+  As everybody in this body knows, we are very concerned about 
+greenhouse gases, both on the Commerce Committee, where I serve, and on 
+the Select Committee on Global Warming and Energy Independence.
+  We are looking at the danger posed to this country by greenhouse 
+gases. Indeed, that is a threat to this economy, to this Nation, and to 
+this world. My amendment simply says that hydropower manages to address 
+that issue by producing both clean power and power which has no 
+hydrocarbons whatsoever.
+  Hydropower is emission-free, and it is also completely renewable; so 
+therefore
+
+[[Page 16510]]
+
+this amendment simply says that none of the funds in this legislation 
+shall be used to decommission any existing Federal dam which is 
+currently producing hydroelectric power.
+  Now, I know of no dam that has currently been proposed to be 
+decommissioned that is a Federal dam and is producing electric power. 
+But it seems to me that this is an action item. This is an opportunity 
+for us to say we are serious about greenhouse gas reduction. We are 
+serious about renewable energy. We are serious about a clean 
+environment. We are serious about not doing more damage by simply 
+saying none of these funds shall be used to decommission or remove from 
+current production any existing hydroelectric power dam that is 
+producing electricity for Americans today.
+  It truly is clean, and it truly is renewable; and I urge my 
+colleagues to join me in supporting this amendment.
+  Mr. Chairman, I reserve the balance of my time.
+  Mr. VISCLOSKY. Mr. Chairman, I rise in opposition to the amendment.
+  The Acting CHAIRMAN. The gentleman from Indiana is recognized for 5 
+minutes.
+  Mr. VISCLOSKY. Mr. Chairman, I appreciate, I truly do, the 
+gentleman's concerns regarding the breaching of hydropower dams. 
+Certainly, this country and the government should proceed very 
+carefully before any such decision is made.
+  I would point out, however, Mr. Chairman, that there are no funds in 
+this bill for that purpose. Indeed, I would remind my colleagues that 
+authorization and direct appropriations for this purpose would also be 
+needed. So I do rise in opposition to the gentleman's amendment. But I 
+would also point out in a positive fashion that there is $95 million in 
+this bill for the rehabilitation of existing hydroelectric facilities 
+on our waterways.
+  I certainly do think they make a significant, and can make even a 
+greater, contribution to the energy demands of this country. But again, 
+Mr. Chairman, I stand in opposition to the gentleman's amendment.
+  Mr. Chairman, I reserve the balance of my time.
+  Mr. SHADEGG. Mr. Chairman, I yield 1 minute to the gentleman from 
+California (Mr. Bilbray), the former chairman of the Clean Air 
+Resources Board in California.
+  Mr. BILBRAY. Mr. Chairman, as a former member of the Clean Air 
+Resources Board in California, as I think a lot of people in this town 
+know, one of the premier air pollution agencies in the world, the one 
+thing that we have got to send a message out there is ``do no harm.'' 
+Even though the chairman may think that there isn't a need to send a 
+message, I think we need to say very clearly that climate change is a 
+threat, something we need to address. We have to be willing to make 
+sure we do the right things now.
+  This amendment is really a way for us to start off right from the 
+get-go that we are not going to allow a mistake to happen that could 
+cause major impacts on climate emissions and that we just didn't care 
+enough to pass this resolution.
+  I strongly support the amendment of the gentleman from Arizona (Mr. 
+Shadegg) because I think we should say right off, our first step at 
+reducing greenhouse gas emissions is to make sure we do not 
+decommission any zero generators from this point forward unless it is 
+part of a comprehensive plan to reduce greenhouse gases. So please, 
+here is a motion at least we can stand up and say, we did no harm; we 
+made sure that a mistake wasn't made.
+  Mr. VISCLOSKY. Mr. Chairman, I would yield such time as he may 
+consume to my colleague from Ohio (Mr. Hobson).
+  Mr. HOBSON. Mr. Chairman, I rise in opposition to the amendment. But 
+I want to tell you I am very sympathetic to the gentleman's concerns. 
+We should preserve hydropower wherever we can. We should advance 
+hydropower. He is correct in those statements.
+  However, I think the amendment is too broadly written and could lead 
+to unintended negative consequences because there may be certain 
+structures that because of environmental reasons or economic reasons we 
+need to take some action on.
+  So what I would like to suggest to everyone is that we oppose the 
+amendment, but we work together to see, because I think the chairman 
+shares the concern for hydropower and that we would try to work to see 
+how we can get some language at some point that might address the 
+problem in a more appropriate way. So I do reluctantly oppose the 
+amendment, but I am certainly within the spirit of the amendment.
+  Mr. VISCLOSKY. Mr. Chairman, I would certainly be happy to cooperate 
+with my colleague and ranking member, Mr. Hobson, in that regard.
+  Mr. SHADEGG. Mr. Chairman, I thank both the gentlemen for their 
+comments.
+  Mr. Chairman, I would yield 1 minute to the gentleman from California 
+(Mr. Doolittle).
+  Mr. DOOLITTLE. Mr. Chairman, I do hope something can be worked out 
+here, because hydropower is the original renewable resource. And there 
+is starting to be a bias in this country against hydropower. There is 
+also starting to be a bias in this country in some quarters in favor of 
+tearing dams down.
+  I think it is very, very important, and by the way with reference to 
+hydropower, just look at California's greenhouse gas reduction plan. 
+They do not give any credit for power generated by hydropower. I think 
+that is very bad.
+  I think Mr. Shadegg is on the right track. We have got to speak up 
+for hydropower. We have got to slow down this effort to tear down dams. 
+I know the chairman and ranking member have the best of intentions. I 
+am glad they are running the committee. I would just like to lend my 
+voice for this very responsible amendment that Mr. Shadegg has offered. 
+I hope that we can work something out.
+  Mr. VISCLOSKY. Mr. Chairman, I yield back the balance of my time.
+  Mr. SHADEGG. Mr. Chairman, I yield myself such time as I may consume.
+  Mr. Chairman, I thank both of the gentlemen. I would be happy to work 
+with them. I simply want to stress, we understand, and I think everyone 
+here does, that hydropower is more efficient than virtually all other 
+energy. Ninety percent of its available energy is converted into 
+electricity by hydropower. By contrast, the best fossil fuel power 
+converts only 50 percent of its energy.
+  Hydropower produces zero greenhouse gas emissions. And we have 
+avoided some 160 million tons of carbon emissions by the use of 
+hydropower here in the United States in the last year.
+  The report says hydropower is reliable, it is efficient, it is 
+domestic, and it is emissions-free. Indeed, as I state in my comments, 
+the report is very supportive of hydropower. I think this amendment is 
+an opportunity to take a concrete step both toward renewable energy and 
+toward clean energy that produces no greenhouse gases.
+  I urge my colleagues to support this amendment.
+  Mr. Chairman, I yield back the balance of my time.
+  The Acting CHAIRMAN. The question is on the amendment offered by the 
+gentleman from Arizona (Mr. Shadegg).
+  The question was taken; and the Acting Chairman announced that the 
+noes appeared to have it.
+  Mr. SHADEGG. Mr. Chairman, I demand a recorded vote.
+  The Acting CHAIRMAN. Pursuant to clause 6 of rule XVIII, further 
+proceedings on the amendment offered by the gentleman from Arizona will 
+be postponed.
+
+
+          Amendment No. 8 Offered by Mr. Garrett of New Jersey
+
+  Mr. GARRETT of New Jersey. Mr. Chairman, I offer an amendment.
+  The Acting CHAIRMAN. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment No. 8 offered by Mr. Garrett of New Jersey:
+       At the end of the bill, before the short title, insert the 
+     following new section:
+       Sec. 503. None of the funds made available in this Act may 
+     be used to send or otherwise pay for the attendance of more 
+     than 50 employees from a Federal department or agency at any 
+     single conference occurring outside the United States.
+
+
+[[Page 16511]]
+
+
+  The Acting CHAIRMAN. Pursuant to the order of the House of Tuesday, 
+June 19, 2007, the gentleman from New Jersey (Mr. Garrett) and a Member 
+opposed each will control 5 minutes.
+  The Chair recognizes the gentleman from New Jersey.
+  Mr. GARRETT of New Jersey. Thank you, Mr. Chairman.
+  How many times do we have Members come before us on this floor with 
+an amendment, and they begin their statement by saying, here I have a 
+commonsense amendment to this piece of legislation. Well, in this case, 
+I do believe I have a commonsense amendment to this legislation, and in 
+fact most Members of this House I believe would agree with that 
+statement as well.
+  Why I say that is because the language of this amendment is similar, 
+or dare I say identical, to language that I have used in previous 
+amendments on appropriation bills in past Congresses, and these 
+amendments, quite fortunately, have passed pretty much by voice vote in 
+those Congresses.
+  Mr. VISCLOSKY. Mr. Chairman, if the gentleman will yield, I would 
+indicate to the gentleman that I am happy to accept his amendment.
+  Mr. HOBSON. Mr. Chairman, if the gentleman will yield, I also am in 
+support of the amendment.
+  Mr. GARRETT of New Jersey. Mr. Chairman, reclaiming my time, I 
+appreciate that. For those who are watching, let me let them know what 
+the amendment does.
+  What this amendment does, and I appreciate both gentlemen's accepting 
+this, is to say our Federal agencies should use common sense when they 
+go to international conferences.
+  In the past, there were extravagances. There were cases when over 100 
+individuals, government employees, would go to these conferences 
+overseas, costing literally millions of taxpayers' dollars to do so. We 
+are saying, let's rein that in a little bit. Let's put a number on 
+that. Some people say this number is too high. This number puts it at 
+50. So any particular agency going overseas, Africa, Asia, wherever 
+else, let's have them not send more than 50. Some of us would like it 
+to be lower, but we will put it at 50 of their agency employees to that 
+conference. I think just like any business or family, they would have 
+to absolutely exercise priorities and common sense as well. We do so 
+here.
+  Mr. Chairman, I thank both gentlemen for accepting this amendment.
+  Mr. Chairman, I yield back the balance of my time.
+  The Acting CHAIRMAN. The question is on the amendment offered by the 
+gentleman from New Jersey (Mr. Garrett).
+  The amendment was agreed to.
+
+
+            Amendment No. 12 Offered by Mr. Price of Georgia
+
+  Mr. PRICE of Georgia. Mr. Chairman, I offer an amendment.
+  The Acting CHAIRMAN. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment No. 12 offered by Mr. Price of Georgia:
+       At the end of the bill, before the short title, insert the 
+     following new section:
+       Sec. 503. Each amount appropriated or otherwise made 
+     available by this Act that is not required to be appropriated 
+     or otherwise made available by a provision of law is reduced 
+     by 1 percent.
+
+  The Acting CHAIRMAN. Pursuant to the order of the House of Tuesday, 
+June 19, 2007, the gentleman from Georgia (Mr. Price) and a Member 
+opposed each will control 15 minutes.
+  The Chair recognizes the gentleman from Georgia.
+
+                              {time}  1515
+
+  Mr. PRICE of Georgia. Mr. Chairman, I yield myself such time as I may 
+consume.
+  Mr. Chairman, I appreciate the leadership's support in allowing me to 
+bring this amendment forward. I also want to recognize former 
+Congressman Joel Hefley. This has come to be known as the Hefley 
+amendment. So I want to thank former Congressman Hefley for his 
+leadership on fiscal responsibility issues in Congresses past.
+  There has been a lot of talk about money on this bill, Mr. Chairman, 
+and this is the appropriate time, because it is appropriations time. 
+Most of the programs that we have discussed are indeed worthy programs. 
+But I think it is imperative that we always remember where this money 
+comes from that we are appropriating, that we are spending.
+  The money isn't Washington's money. The money is the money of the 
+hardworking American taxpayer, and we ought not ever lose sight of 
+that. As such, we ought to bend over backwards to make certain we are 
+being as responsible as possible in its expenditure.
+  The big picture on this bill is the Energy and Water appropriations. 
+The big picture is that last year this government spent, Washington 
+spent on these programs, $30.2 billion. That is with a ``B,'' Mr. 
+Chairman. This year, the proposal is to spend $31.6 billion; $31.6 
+billion, an increase of 4.3 percent.
+  This amendment is very simple. It says simply that we ought to 
+decrease that overall amount by 1 percent, in an effort to save one 
+penny on the dollar, as families all across this Nation have to do when 
+they are having some tight fiscal times.
+  It would be an increase of 3.3 percent over last year. I know there 
+are those who would like it to be lower. I am one of those. But I think 
+it is important that Congress ought to make a statement that we can 
+indeed be fiscally responsible. This 3.3 percent increase, this 
+amendment would provide for that, and would be a reduction of 1 percent 
+over the amount in the bill.
+  Mr. Chairman, I wish to thank a number of Members who have offered 
+similar pieces of legislation or amendments, Congresswoman Blackburn, 
+Congressman Campbell, Congressman Jordan, Congressman Feeney, 
+Congresswoman Musgrave and Congressman Hensarling, for their leadership 
+on these issues.
+  I think this a commonsense issue. It is a matter that I believe ought 
+to garner great support in this Congress and demonstrate to all that we 
+indeed have an interest in fiscal responsibility. So I urge my 
+colleagues to support the amendment.
+  Mr. Chairman, I am pleased to yield 2 minutes to my good friend the 
+gentleman from Virginia (Mr. Cantor), the chief deputy whip of this 
+conference.
+  Mr. CANTOR. Mr. Chairman, I thank the gentleman from Georgia for 
+yielding.
+  Mr. Chairman, I rise in support of the amendment offered by the 
+gentleman from Georgia. It is a very straightforward amendment. It 
+simply applies an across-the-board cut of 1 percent to this bill to 
+send the signal that this Congress gets it; that we understand what the 
+American people said, both during the election of last year and what 
+they continue to say today.
+  As the American public continues to watch Congress, as we have now 
+engaged upon and entered upon the spending season, as the spending and 
+appropriations process is in full bloom, I think we owe it to the 
+American people to do what the gentleman from Georgia says, which is to 
+recognize that these dollars don't belong to the government. They are 
+the hard-earned dollars of the taxpayers of this country.
+  Now, the underlying bill, as the gentleman said, spends considerably 
+more than what this similar bill spent last year and this Congress 
+spent in this bill last year. In fact, the increase in the level of 
+spending is 10 percent in this bill alone. That is triple the rate of 
+inflation and that means $1.3 billion, billion with a B, taxpayer 
+dollars, more on this one bill.
+  Mr. Chairman, what that means in real terms to me and to my 
+constituents, that means more than 3 years' worth of property taxes for 
+every household and every business in my home County of Henrico in the 
+Richmond area of Virginia. That is an awful lot of money.
+  So the public expects us to return Washington to fiscal sanity. The 
+message that was sent last November was that the public expected us to 
+operate differently. Frankly, I don't believe that this bill moves us 
+in that direction. But I do know one thing for sure: that the spending 
+in this bill, if we don't adopt this amendment, will further erode the 
+public trust, not only in this body but in government as a whole.
+
+[[Page 16512]]
+
+
+  Mr. VISCLOSKY. Mr. Chairman, I rise in opposition to the amendment.
+  The Acting CHAIRMAN. The gentleman from Indiana is recognized for 15 
+minutes.
+  Mr. VISCLOSKY. Mr. Chairman, I yield such time as he may consume to 
+the gentleman from Ohio (Mr. Ryan).
+  Mr. RYAN of Ohio. Mr. Chairman, I also rise in opposition. I have 
+been listening to this debate over the past couple of days. It seems 
+like the past couple of years. It has been a lengthy debate.
+  Our friends on the other side, Mr. Chairman, after running up over $3 
+trillion in debt, are now going to lecture us about how we should be 
+thrifty. You had 6 years to try to close the annual deficits, and your 
+budget you are submitting again this year will be over $200 billion in 
+deficit.
+  Now, we are not here to be lectured to. Three trillion dollars. And 
+the Republican House, the Republican Senate and the Republican White 
+House in the past 6 years borrowed more money from foreign interests 
+than all of the previous Presidents and Congresses combined.
+  So, my colleague from Ohio, Mr. Jordan, who was up here earlier 
+talking about now we have got to try to compete with China, well, it is 
+very tough to compete with them when the Republican Party, Mr. 
+Chairman, borrows money from them hand over fist like drunken sailors 
+over the past 6 years.
+  Now we are here to clean up the mess, and our budget that we pass 
+will balance it. What your amendment is going to do is it is going to 
+take away from research that is going to help grow the economy. You are 
+going to cut biomass research. You are going to cut geothermal 
+research. You are going to cut hydro research, where your own party was 
+just up here saying what a great thing it is. You are going to cut 
+solar research. You are going to cut wind research. You are going to 
+cut concentrating solar power research. Solar heating and lighting 
+research will be cut under this. Solar PV ratings will be cut under 
+this. Hybrid electric system. We are getting testimonials from all our 
+constituents in our districts about how they want lower gas prices. You 
+do that by reducing your dependence on foreign oil and investing in 
+alternative energy. That is what we are doing in this bill, and your 
+amendment will cut that.
+  Advanced combustion engine research will be cut in this, materials 
+technology research will be cut in this, fuels technology will be cut 
+in this, technology integration will be cut under this amendment.
+  This is a responsible bill that was voted by both Republicans and 
+Democrats out of the Energy and Water Committee. It makes great 
+investments. It turns the page on the past of not balancing your 
+budgets, not making the investments, Mr. Chairman, and I commend you 
+and Mr. Hobson for putting a great bill together and stand to ask our 
+Members to reject this amendment.
+  Mr. PRICE of Georgia. Mr. Chairman, I appreciate the passion of my 
+good friend from Ohio as he talks about cut after cut after cut, and I 
+would just remind him that this amendment, this amendment, would reduce 
+the overall bill by 1 percent which, Mr. Chairman, as you know, is a 
+3.3 percent increase over last year. So nobody is talking about cutting 
+anything.
+  That might be the problem here in Washington. This would be a 1 
+percent reduction on the remarkable amount of increased money that the 
+majority party has brought with this bill.
+  Mr. Chairman, I yield 2 minutes to the gentleman from Minnesota (Mr. 
+Kline).
+  Mr. KLINE of Minnesota. Mr. Chairman, I thank the gentleman for 
+yielding and for his leadership here. I think many of us miss the 
+presence of our former colleague Mr. Hefley from Colorado, and I am 
+very pleased to see that Mr. Price has stepped up to fill that gap, 
+because what we are talking about here is trying to control runaway 
+spending.
+  We are spending billions and billions of dollars, and this proposal 
+suggests that we try to pare back 1 percent, $316 million in this bill.
+  Some speakers from the other side have said when the Republicans were 
+in charge, the Republicans spent too much. In fact, the gentleman from 
+Ohio just reminded us of that. He is right. Republicans, when we were 
+in the majority, spent too much.
+  But the Democrat answer to spend more just doesn't make sense. We are 
+increasing spending here by billions and billions of dollars, and that 
+apparently is backed up by a budget which is reportedly balanced in 5 
+years by giving us the largest tax increase in American history. That 
+is how you balance the budget in 5 years, with the level of spending 
+that is being proposed here today, billions of dollars too much.
+  My friend, the great gentleman from Georgia, is proposing a 1 
+percent, 1 percent across-the-board cut. I commend him for that.
+  We are spending too much. Let's get this under control. This is a 
+very modest proposal. I commend him for it.
+  Mr. VISCLOSKY. Mr. Chairman, I yield 30 seconds to the gentleman from 
+Ohio (Mr. Ryan).
+  Mr. RYAN of Ohio. Mr. Chairman, I just want to clarify something. In 
+2008, there will not be a tax increase. And no one has to believe me, 
+Mr. Chairman. No one has to believe our friends on the other side. What 
+the American people need to do is keep their tax forms from this year 
+and compare them to their tax forms from next year. There will be zero 
+increase in taxes.
+  This is a balanced budget, which the other side has not done, and it 
+makes strategic investments so that we can create alternative energy 
+resources here so we reduce our dependence on foreign oil.
+  Mr. VISCLOSKY. Mr. Chairman, I yield 3 minutes to the gentleman from 
+Massachusetts (Mr. Olver) a member of the subcommittee.
+  Mr. OLVER. Mr. Chairman, I thank the chairman of the subcommittee for 
+yielding me time. I will try to cover my points in those 3 minutes.
+  I just want to remind the members of the committee, of the Congress, 
+of the body, that this bill came from the subcommittee with full 
+support of the subcommittee members, with the ranking member and the 
+chairman in strong support, with a very good and thoughtful look at 
+what energy and water expenditures ought to be.
+  There are increases in moneys that are investments in flood control, 
+in dam safety, in putting money into dealing with our ports which need 
+dredging, things of that sort. There are substantial increases, that is 
+true, in renewable energy, which is the one place where we can really 
+get at our dependence upon oil that comes from very unstable parts of 
+this world.
+  There were some wonderful recommendations that in large part are a 
+balance between nuclear nonproliferation, so important, because that is 
+where our real danger is to the security of this country in the future, 
+our major danger, versus some unnecessary expenditures in nuclear 
+weapons development, nuclear weaponry development. That recommendation 
+is here.
+  We have had about 12 hours now of debate in this committee with 50 
+amendments, with offers of amendments to cut and reduce, offers of 
+amendments to increase expenditures, to shift expenditures. There are 
+some that have been adopted. Most of them have been refused. But 
+everybody has had a chance. And the basic body of the bill remains as 
+it was, as it was recommended by the chairman and the ranking member of 
+the committee with the support of the subcommittee and the 
+Appropriations Committee.
+  Here now we have a 1 percent reduction which attempts at this late 
+date, after all those amendments have been dealt with one by one, 
+increases and decreases, and the issues have been discussed, then to 
+reduce by 1 percent, $300-plus million, which then has an effect on all 
+those earlier decisions that have been made by this committee as a 
+whole.
+  So I would hope that this amendment would not be adopted. I think 
+that this is a basically irresponsible way of going about budgeting. If 
+you can't deal with the issues and then come to a conclusion on the 
+budget that you have adopted in that process, then one should not do 
+what is being proposed
+
+[[Page 16513]]
+
+here. I hope that the amendment will be resoundingly defeated.
+  Mr. PRICE of Georgia. Mr. Chairman, if I may inquire of the time 
+remaining on each side.
+  The Acting CHAIRMAN. The gentleman from Georgia has 8\1/2\ minutes 
+remaining. The gentleman from Indiana has 9 minutes remaining.
+  Mr. PRICE of Georgia. I thank the Chair.
+  I appreciate again the comments of my good friend from Ohio, who 
+previously talked about there being no tax increase in 2008, and he 
+urged the American people to take a look at their tax bill.
+  He is right. There won't be, because of Washington shenanigans. 
+Because what we do here is budget in a 5-year window, and in fact the 
+largest tax increase in the history of our Nation will hit the American 
+people, curiously, Mr. Chairman, after the next election.
+  But you can check the record. It is indeed there, and all the 
+American people have to do is recognize that, and they will. And they 
+will.
+  Mr. Chairman, I am pleased to yield 2 minutes to my good friend the 
+gentleman from Arizona (Mr. Shadegg).
+
+                              {time}  1530
+
+  Mr. SHADEGG. Mr. Chairman, I think this is a very enlightening 
+debate. Fortunately, I think the American people are smart enough to 
+understand this debate. They understand that, for example, even though 
+there won't be a tax increase before the election in 2008, that 
+policies that get adopted this year will force tax increases in future 
+years. I think they understand that.
+  I want to comment on the remarks of the committee Chair who just 
+spoke. I think he made a compelling case for leaving the priorities 
+that are in this bill precisely where they are. I think your committee, 
+with the help of the minority, worked diligently to produce a sound 
+product, a product that attempts to allocate the resources amongst the 
+various priorities.
+  But there will come a time when this Nation wakes up. There will come 
+a time when we will have to be responsible about spending on this 
+floor.
+  The speaker before the last speaker criticized Republicans and said, 
+``You spent too much on your watch,'' and he was dead right.
+  This is the Hefley amendment. I voted for the Hefley amendment every 
+time, trying to get us to cut 1 percent. Let me explain why. Because in 
+1994 when I was elected to Congress, and in 1995 and in 1996, we went 
+across America, Republicans and Democrats alike, and we asked the 
+American people if they wanted us to continue spending at that pace or 
+if they were willing to see us reduce that pace of spending to reduce 
+the burden on our children and our grandchildren.
+  One after another of them rose and said, ``Don't cut my program''; 
+but one after another of them, every single one of them that I heard, 
+at field hearings in Prescott, Arizona, and in Wyoming and Montana, 
+said that if the cuts are even, if the cuts are evenly spread and fair 
+to everyone, then, yes, you are right. We have to rein in spending to a 
+level we can live with. That is what this amendment does. It is 
+responsible. It is good public policy. I urge my colleagues to adopt 
+it.
+  Mr. VISCLOSKY. Mr. Chairman, I yield 30 seconds to the gentleman from 
+Ohio (Mr. Ryan).
+  Mr. RYAN of Ohio. I would like to clarify. The other side is trying 
+to say that if there are tax increases in the future, it all has to do 
+with this bill which we just increased by a few hundred million. It has 
+nothing to do with the $3 trillion debt that was run up in the last 6 
+years, Mr. Chairman. The 2007 tax returns versus next year's, the 
+American people need to look at them, no increase. Our friends are 
+saying ``the largest tax increase in the history of the United States'' 
+and it happens 2 years from now. I thought history was in the past. For 
+2008, check your returns, no tax increases.
+  Mr. PRICE of Georgia. Mr. Chairman, I yield 2 minutes to the 
+gentleman from California (Mr. Bilbray).
+  Mr. BILBRAY. Mr. Chairman, the American people have listened to 
+Democrats and Republicans blame each other about budget crises. I 
+became a Member in 1995. I left for 5 years. How things change. The 
+parties change names, but it is the same tactics.
+  The American people want us working together on the budget. This 
+amendment is a minimal effort of just saying to the American people, 
+look, we recognize that even the best operation and the best budget can 
+still be operated on 99 percent of what was projected. It is a 
+minimalist kind of approach to this. If you can't vote for a 1 percent 
+across-the-board cut, go to your town hall meetings, go into your 
+communities and say, well, I really didn't want to do it because of 
+what it symbolized. The fact is that this is the minimum of what we can 
+do to say, look, we are trying to get back in the discipline of doing 
+the right thing by the American taxpayer.
+  And if you can't vote for a 1 percent, how can you expect in the long 
+run to be able to control the Federal budget, and that is exactly what 
+the constituency wants us to do.
+  So I just say dump the Republican and Democrat argument. You get back 
+to the fact that you have a motion that says quite clearly: we will 
+make the effort of a 1 percent reduction across the board. That is a 
+very small, little step towards fiscal responsibility and let's get 
+together, Democrats and Republicans, and do the right thing and support 
+the new Hefley amendment as authored by the gentleman from Georgia. If 
+you can't do that, please don't think you can stand up and carry the 
+mantle of self-righteousness when it comes to budget. We all bear the 
+responsibility. Even those of us who weren't here bear the 
+responsibility of doing the right thing and dumping the jargon about 
+being Democrat or Republican and the other guy is at fault. We all bear 
+that responsibility, and the voters and the taxpayers will blame all of 
+us, regardless of our party affiliation, if we can't even make this 
+minimal stance of a 1 percent across-the-board.
+  Mr. VISCLOSKY. Mr. Chairman, I reserve the balance of my time. I have 
+one remaining speaker, and it is my understanding it is my prerogative 
+to close.
+  Mr. PRICE of Georgia. Mr. Chairman, is it the chairman's prerogative 
+to close?
+  The Acting CHAIRMAN. Yes, the chairman is defending the bill, and it 
+is his prerogative to close.
+  Mr. PRICE of Georgia. I yield 2 minutes to the gentleman from 
+Nebraska (Mr. Terry).
+  Mr. TERRY. Mr. Chairman, let me first say I support this 1 percent, 
+just like I did last year and the year before. Just to make sure that 
+the American public understands, this is 1 percent off of the nearly 5 
+percent increase. So it isn't even a reduction from last year's number 
+of 1 percent. It is simply shaving 1 percent off of the increase.
+  I came down here because I heard some of the speakers on the other 
+side, or at least one, that was talking about they had to correct the 
+problems of the Republicans spending like drunken sailors, which kind 
+of amazed me considering that the debate on the House floor in the last 
+2 years on appropriations was how we weren't giving enough money.
+  When I looked up to see what the Republican bill was last year when 
+we were in the majority, it was a 1.5-percent increase versus the 
+nearly 5 percent this time. So they are up here talking about an 
+increase of about 2\1/2\ times, maybe three times what we originally 
+proposed last year. And by the way, I supported the 1 percent when it 
+was only a 1.5-percent increase below the rate of inflation. I think 
+that is the type of drunken spending that the American taxpayers told 
+us in the last election that they did not want. They want that type of 
+fiscal restraint, not two or three times the rate of inflation. They 
+want fiscal responsibility injected back into our reasoning and the 
+bills that we are passing.
+  So I think a reduction of this 4.5-, 4.7-percent increase is simply 
+the responsible thing to do.
+  The gentleman from Georgia, I appreciate you bringing this 1 percent. 
+I think that this is something that the voters, strike voters, the 
+American public thinks we should be doing this
+
+[[Page 16514]]
+
+year. We come off the heels last week of voting for bills with double-
+digit increases. So this is a time to inject some reasonableness.
+  Mr. PRICE of Georgia. Mr. Chairman, I yield myself the balance of my 
+time.
+  I think this has been a helpful debate. I want to recognize the 
+efforts of Congressman Hefley in the past and urge my colleagues to 
+support the former Hefley amendment of a 1-percent reduction in the 
+increase, Mr. Chairman. As I remind our colleagues, the portion 
+appropriated for this area of Federal spending last year was $30.2 
+billion. This year the request in this bill is for $31.6 billion. This 
+amendment would simply reduce it by 1 percent. It would be a 3.3-
+percent increase. It would be a symbolic decrease, but it would be a 
+recognition that Washington needs to get its fiscal house in order.
+  My good friends on the other side of the aisle talk about the 
+importance of reducing spending. But yet we see a significant increase 
+over, as the gentleman from Nebraska (Mr. Terry) just said, 
+significantly over what we brought last year. Yes, it would be a 
+symbolic decrease, but it would ever so slightly reduce that slope, 
+that increasing slope of Federal spending. I think that is indeed what 
+the American people desire.
+  Spending in this bill, as in other appropriations bills that are 
+coming before us, will be allocating money, Mr. Chairman, that the 
+Congress doesn't have. The Congress doesn't have it, and it continues 
+to spend more than it takes in. I think it is imperative that we harken 
+back and remember that wonderful Reagan admonition that Washington 
+spends too much, it is not that it doesn't gain enough revenue. There 
+is certainly enough revenue to provide for appropriate services.
+  And I will be the first to tell my colleagues that there are 
+wonderful programs within this bill. The question is whether or not we 
+are going to demonstrate to the American people that we have the fiscal 
+responsibility, the reasonable standards in terms of what ought to be 
+spent at the Federal level based upon what has been spent in the past 
+and the incredible hardworking American taxpayers who send their money 
+year after year after year. I urge my colleagues to support this 
+commonsense 1-percent reduction.
+  Mr. VISCLOSKY. Mr. Chairman, it is my pleasure to yield such time as 
+he may consume to a member of the subcommittee, the gentleman from 
+Arizona (Mr. Pastor).
+  Mr. PASTOR. Mr. Chairman, Joel Hefley was a dear friend of mine. We 
+worked together on the Ethics Committee. I have to tell you, Joel and I 
+would talk about his 1 percent across-the-board cuts. While the 
+Republicans were in the majority, they failed. They failed because 
+Republicans and Democrats knew that in this particular bill, Energy and 
+Water, you had the chairman and the vice chairman working in 
+cooperation with Republicans and Democrats looking at the priorities 
+and developing a bill that would invest in the infrastructure of 
+America.
+  As you know, Mr. Chairman, for many years the investment in 
+infrastructure has either been static, and in many cases has been 
+declining. Hearing after hearing after hearing, we had businessmen, 
+barge owners, operators, grain operators coming to the committee and 
+saying you need to invest more money in the infrastructure of America 
+because it is the commerce that the Mississippi River handles. It is 
+the commerce that comes into our harbors. It is the commerce that is 
+driving America and making it a productive country.
+  And so when you have the business community, elected officials coming 
+to you and telling you that there is a decline in the investment in 
+infrastructure, it is the Subcommittee on Energy and Water that begins 
+to respond to that need.
+  As an example, in Brunswick, Georgia, the request came that we need 
+to deepen the harbor so that the harbor can allow more ships to come in 
+and be able to continue that driving engine, commerce.
+  In Sacramento, California, we have had untold numbers of public 
+officials come to tell us you need to invest in flood control because 
+we are this close to being over our heads in water. Again, an 
+investment in infrastructure.
+  In Kentucky we had a Congressman in our markup in to ask why is it 
+that my particular flood control project, an investment in 
+infrastructure, is not being considered in an earmark. We are being 
+threatened by not having this flood control structure. Again, an 
+investment in infrastructure to protect our communities.
+  We had people from New York and New Jersey: we need to deepen the 
+harbor. We have to make sure that the ships coming from overseas not 
+only have secured cargo, but that we have cargo coming in so that the 
+commerce can continue to develop.
+  Oakland Harbor, Los Angeles Harbor, Long Beach Harbor, Galveston, 
+Corpus Christi, New Orleans.
+  The New Orleans elected officials came and said we need development 
+of flood control structures in New Orleans in order to protect if there 
+is another hurricane.
+  But the one that impressed me the most was the people along the 
+Mississippi. They said grain, coal, a number of products go up and down 
+the Mississippi. It is the blood line of commerce for this country. And 
+the problem we have is that our locks are not working properly.
+  So in this bill we are investing in improving, and in some cases 
+bringing in new locks, so that from the most northern point of this 
+country to the most southern point of this country along the 
+Mississippi River, we can have commerce, so grain can be moved, coal 
+can be moved, so this country can be competitive on a global basis.
+
+                              {time}  1545
+
+  So I tell you, Mr. Chairman, this work, the Energy and Water 
+Subcommittee bill that is before us, it deals with infrastructure 
+development. A 1 percent cut would begin to deny many of these 
+improvements that we have, improvements that the American public have 
+asked us to do because they know it is a sound investment. They want to 
+make sure that commerce continues. They want to make sure that they're 
+protected.
+  And as Joel Hefley would probably tell me, Ed, I couldn't do it in 
+the majority, I probably won't do it in the minority, because the 
+American people think that 1 percent is not the proper way to go, 
+because I would like to have that money that belongs to me to be 
+invested in order that we protect our communities and ensure that we 
+have commerce.
+  Mr. VISCLOSKY. I appreciate the gentleman's comments very much.
+  Mr. Chairman, I yield back the balance of my time.
+  The Acting CHAIRMAN. The question is on the amendment offered by the 
+gentleman from Georgia (Mr. Price).
+  The question was taken; and the Acting Chairman announced that the 
+noes appeared to have it.
+  Mr. PRICE of Georgia. Mr. Chairman, I demand a recorded vote.
+  The Acting CHAIRMAN. Pursuant to clause 6 of rule XVIII, further 
+proceedings on the amendment offered by the gentleman from Georgia will 
+be postponed.
+
+
+        Amendment No. 15 Offered by Mr. Wilson of South Carolina
+
+  Mr. WILSON of South Carolina. Mr. Chairman, I offer an amendment.
+  The Acting CHAIRMAN. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment No. 15 offered by Mr. Wilson of South Carolina:
+       At the end of the bill (before the short title), insert the 
+     following:
+       Sec. 503. Appropriations made in this Act are hereby 
+     reduced in the amount of $1,130,000,000.
+
+  The Acting CHAIRMAN. Pursuant to the order of the House of Tuesday, 
+June 19, 2007, the gentleman from South Carolina (Mr. Wilson) and a 
+Member opposed each will control 15 minutes.
+  The Chair recognizes the gentleman from South Carolina.
+  Mr. WILSON of South Carolina. Thank you, Mr. Chairman, and I want to 
+thank Congressman John Campbell
+
+[[Page 16515]]
+
+of California who originally was the proponent of this amendment. I am 
+very happy to adopt this amendment because I believe that it truly 
+expresses the concerns of the people of our country.
+  The Energy and Water appropriations bill, which spends $31.6 billion, 
+is $1.13 billion, or 3.7 percent over the President's request. This 
+amendment would reduce overall funding in the bill to the President's 
+request, thus saving taxpayers $1.13 billion. If this amendment passes, 
+the total amount of spending in the Energy and Water bill will still be 
+$175 million greater than last year.
+  By enacting the largest tax increase in American history, the 
+Democrat budget allows for $23 billion in spending over that of the 
+President's budget request. This amendment is designed to save the 
+taxpayers $1.13 billion which will reduce some of the unnecessary 
+increases in Federal spending this year which is fueled by the huge tax 
+increases. This is an amendment that is an across-the-board reduction 
+that does not destroy, interrupt or terminate needed projects, many 
+that we just heard about that are very, very worthy. But it does 
+provide for our Federal administrators to reduce expenditures by 
+limiting travel, delaying filling employee vacancies, postponing 
+equipment purchases and other innovative and creative initiatives to 
+save taxpayers' money. Even the reduction of growth is an increase of 
+spending of $175 million.
+  Prior to being elected to Congress, I served in the State senate of 
+my home State and over and over again we would work toward across-the-
+board budget cuts and each time that we were able to achieve these, we 
+were able to maintain the programs to benefit the citizens of our 
+State; but, indeed, the programs were not terminated, they were made 
+better. I have faith in government employees that they can accommodate 
+a 3.7 percent reduction without hurting recipients of worthy projects.
+  Mr. Chairman, I reserve the balance of my time.
+  Mr. VISCLOSKY. Mr. Chairman, I rise in opposition to the amendment.
+  The Acting CHAIRMAN. The gentleman from Indiana is recognized for 15 
+minutes.
+  Mr. VISCLOSKY. Mr. Chairman, I reserve the balance of my time.
+  Mr. WILSON of South Carolina. Mr. Chairman, I yield 2 minutes to the 
+gentleman from Minnesota, Congressman John Kline.
+  Mr. KLINE of Minnesota. I thank my friend and colleague, Mr. Wilson, 
+for his leadership.
+  Mr. Chairman, I rise because we have had a debate here about how much 
+money we're spending and how much we're taxing. There seems to be some 
+confusion about that. We on this side of the aisle have been accused of 
+having spent too much money. And, as I said in discussing an earlier 
+amendment, I fully agree. The Republican majority spent too much money. 
+But what we have before us is a proposal to spend even more money while 
+we're getting criticism for having spent too much, and I have a hard 
+time balancing those out.
+  We need to get spending under control. And we've had my colleagues, 
+colleague after colleague have come to the floor to propose amendments 
+to make modest reductions in what appears to be runaway spending, 
+billions of dollars too much. And then we've had an argument that said, 
+well, we're not taxing too much because we're not going to add to the 
+tax burden in 2008. I suppose that remains to be seen before the 
+process is over, but I think it's undeniable that the Democrats passed 
+a budget which in order to balance in 5 years results in the largest 
+tax increase in American history. And as the spending goes up to make 
+that match in the end, they force all of the tax cuts which we have 
+fought so hard to get into place, that have spurred this economy and 
+caused jobs to be created and rapid growth in the economy, all those 
+tax cuts would go away, taxes would go up, and we would in fact see the 
+largest tax increase in American history. So we have a huge tax 
+increase, huge spending, that's not the way to see this economy grow. 
+Let's take some steps to curb this explosive rate of spending and stop 
+the semantic arguments here. Let's slow down this runaway spending.
+  Mr. WILSON of South Carolina. Inquiry. Does the chairman have any 
+witnesses at this time or any further testimony?
+  Mr. VISCLOSKY. I simply have two speakers and would prefer to reserve 
+at this moment.
+  Mr. WILSON of South Carolina. Mr. Chairman, again what we're talking 
+about with this particular amendment is to reduce the overall 
+expenditures to the President's request, which is a reduction of $1.13 
+billion. It's a 3.7 percent reduction. But actually because this is the 
+request of the President, there has been an increase of nearly $175 
+million. We've heard the presentation, very eloquent, a few minutes ago 
+of many of the wonderful programs and projects, and when you think of 
+Energy and Water appropriations, I think of extraordinarily important 
+appropriations, indeed, the infrastructure of our country, it's so 
+important, as to the alternative fuels, promoting the alternative 
+fuels. But, indeed, I have seen firsthand in my experience working in 
+public office since 1984, you can reduce and still provide for the 
+services to be provided.
+  I know that again in my State experience one time, we had a midyear 
+budget crisis where, in fact, the State budget was reduced by 7\1/2\ 
+percent and we had previously proposed that there be a budget reduction 
+of 1 percent. Unfortunately, it was turned down. It was incredible 
+that, indeed, with the 7\1/2\ percent across-the-board cut by people of 
+another political party from me, it worked. And the services were still 
+provided. That was, in effect, almost a 15 percent across-the-board 
+cut.
+  And so what we are proposing today, I believe, is very reasonable and 
+responsible and in the interest of the taxpayers of the United States.
+  At this time I am happy to yield to the minority leader of the House 
+of Representatives, a person who is so widely respected, the 
+Congressman from Ohio, John Boehner.
+  The Acting CHAIRMAN. The distinguished minority leader is recognized 
+for 1 minute.
+  Mr. BOEHNER. I appreciate my colleague for yielding and I appreciate 
+the work he is doing bringing this amendment to the floor.
+  I came to Washington 17 years ago because I thought government was 
+too big, I thought it spent too much and didn't think that it was being 
+held accountable. And the reason I am here this afternoon on this bill 
+is because this amendment offered by Mr. Wilson and Mr. Campbell will 
+reduce the overall spending level in this bill to the President's 
+request.
+  The President submitted a budget back in January that said we can 
+balance the budget over the next 5 years without raising taxes. But to 
+do that, it's dependent upon us holding the line on spending. Even at 
+the President's level, there is an increase over last year, and I 
+believe that bringing the level of spending down in this bill to what 
+the President requested puts this bill in a position to actually move 
+through the process and become law.
+  If you looked over the course of this year, our friends on the other 
+side of the aisle have a budget that will balance over the next 5 
+years, but with the largest tax increase in American history. If we 
+want to review the bidding on spending here in Washington this year, 
+you go back to February with a CR that was some $6 billion over the 
+President's request. And then we can look at the supplemental spending 
+bill for Iraq and Katrina and other things that was $17 billion over 
+the President's request. And now if we look at the appropriations 
+process that we're in the midst of, we have an additional $20 billion 
+over and above where the President is.
+  At the end of the day, the American people want to keep more of the 
+money that they earn and want to send less of that money here to 
+Washington. And I think to the extent we can hold the line on spending, 
+we're protecting the taxpayers, protecting their wallets.
+  I think this is a modest amendment that reduces the spending in this 
+bill by some $1.13 billion, it's the right
+
+[[Page 16516]]
+
+move, and our colleagues ought to support the amendment.
+  Mr. VISCLOSKY. Mr. Chairman, I yield such time as he may consume to 
+my good friend and colleague from New York, a member of the 
+subcommittee, Mr. Israel.
+  Mr. ISRAEL. I thank my distinguished chairman.
+  Mr. Chairman, I rise in opposition to this amendment. I have listened 
+very carefully to my friends from the other side suggest that this bill 
+is just too expensive, that it needs to be cut. Well, let me tell you 
+what's far more expensive.
+  Thirty years ago, President Carter told the American people that we 
+were going to declare the moral equivalent of war on foreign oil. And 
+the only thing we've managed to do in the 30 years since then is double 
+our imports of oil from the Middle East and cut investments in 
+renewable research and development by about 80 percent. So we tried it 
+your way. We cut those investments 80 percent in the past 30 years. And 
+what's the result? We've doubled our imports of foreign oil from the 
+Persian Gulf.
+  You want to know why this is so expensive a problem? It is a military 
+vulnerability. Two years ago, the Department of Defense spent $10.6 
+billion on basic energy costs because of this dependence on foreign 
+oil. $10.6 billion paid for by the taxpayer. Of that, the Air Force 
+spent half, $4.7 billion, on one thing: buying fuel, which is also paid 
+for by the American taxpayer.
+  Now, I believe, as many of my friends do, in robust military budgets. 
+I am a very strong supporter of our military and I believe we need to 
+spend what it takes to defend freedom, and my friends would agree. The 
+problem is this: Because of the fact that we tried it their way and our 
+dependence on foreign oil has actually increased, we're in a position 
+right now where we are borrowing money from China to fund our military 
+budgets to buy oil from the Persian Gulf to fuel our military to 
+protect us from China and the Persian Gulf. A $550 billion military 
+budget and we have to borrow the money from our adversaries. And, guess 
+what, our taxpayers have to pay the interest on the money that we're 
+borrowing from our adversaries to fuel our military to protect us from 
+our adversaries. It makes no sense whatsoever. We've tried it their 
+way, Mr. Chairman, and it hasn't worked.
+  I don't believe any one of my colleagues would suggest that we should 
+cut the Department of Defense budget. We all believe in national 
+security, and I'm with my colleagues on that.
+
+                              {time}  1600
+
+  But as a matter of national security, we should not cut this budget 
+either, because this budget is a national security budget, because it 
+is not acceptable that a Stryker combat vehicle that is ferrying our 
+troops into some very dangerous environments gets between 5 and 10 
+miles to the gallon, sounds like a 1957 Buick and is a loud, moving 
+target. It is not acceptable that our C-17s burn 3,000 gallons of fuel 
+an hour and that we have to rely on our adversaries to fuel those 
+systems.
+  I would appeal to my colleagues on the other side that just as they 
+are strong supporters of the Department of Defense and would never 
+think to suggest just a 1 or 2 percent reduction in military budgets, 
+the same should hold true on this.
+  I would add one other thing, if I may, Mr. Chairman. One of the 
+things that worries all of us, and worries our military planners, is 
+not just the threats that we see in Iran, and we passed a resolution 
+earlier today that I supported that would take a hard line on Iran and 
+its development, attempted development on nuclear weapons, not just 
+those things, but loose nukes. But the fact that there is a tremendous 
+quantity of nuclear materials proliferating around the world that we 
+have to find, identify and secure, because we don't want a rogue nation 
+packing those loose nukes into a suitcase and bringing them across our 
+borders.
+  Well, this bill contains funding for the Global Threat Reduction 
+Initiative, whose mission is to locate, secure and remove and 
+facilitate disposal of high-risk vulnerable nuclear material and 
+equipment locations. It does increase the President's funding level. I 
+think the American people would want us to find the money to secure 
+those loose nukes. Now, maybe that means there is a little less money 
+to go to Halliburton and no-bid contracts.
+  My final point is this: the other side continues to say that this is 
+a tax increase. It is not a tax increase. It will not be a tax 
+increase. The other side is not accurately explaining this to the 
+American people, is the most diplomatic way I can put it.
+  I will say this, it does require different priorities. The other side 
+has no problem allowing big corporations to register themselves in 
+offshore P.O. boxes so that they can avoid paying their fair share of 
+taxes. The other side has no problem funding and bull-dozing money to 
+Halliburton in no-bid contracts. The other side had no problem 
+shoveling tax cuts to the richest oil company executives on Earth.
+  If the money was there for that, the money is there for this bill. 
+Maybe we need to take the money from those priorities and put them into 
+this priority.
+  For America's energy security, for a strong future, and to get our 
+troops out of those Stryker combat vehicles that are loud gas guzzlers 
+and put them on something safer. This bill makes those investments. 
+Those investments are, ultimately, in our national security.
+  Mr. WILSON of South Carolina. Mr. Chairman, I yield 2 minutes to the 
+distinguished gentleman from Nebraska (Mr. Terry).
+  Mr. TERRY. Mr. Chairman, I rise in support of this amendment to 
+reduce the size of this bill, the cost of this bill.
+  I have got to tell you I grew up in the late 1970s. I remember pretty 
+distinctly the policies of Jimmy Carter. I remember the high 
+unemployment rates. I remember the high inflation rates.
+  I recall getting my driver's license and getting that 1970 station 
+wagon to drive and waiting in a line for gas two blocks long; and when 
+you got there, there was one pump yet working and the others had the 11 
+by 8 piece of paper that said ``out of gas'' on it. I think those are 
+the policies which some of my friends on the left are advocating today. 
+I just have to openly wonder how well Honda Civics would work in the 
+sand in Iraq if we can't use military vehicles because of their gas 
+mileage.
+  But let's get back to the real issue of what we're talking about here 
+today, and that's ways of controlling spending. Yes, it is showing a 
+difference between the majority party and the minority party in the 
+sense of spending.
+  We are here fighting to reduce the size of their bill. We would like 
+to bring it to last year's level where it was only a 1.6 percent 
+increase, and they were yakking about how we needed to spend more, and 
+when they got in control, they were able to do that.
+  They have a bill here before us today that increases the spending way 
+above the President's request. This amendment just simply brings it 
+down, $1.13 billion to the President's request. So either way we can 
+fight to reduce the size of their bills, and last week's bill. Again, 
+they were both double-digit increases.
+  I think this type of debate is healthy. It also does show, as one of 
+the previous speakers mentioned, that there are policy differences. 
+There are priority differences between the two parties, and we are 
+showing how we are the party of fiscal responsibility.
+  Mr. VISCLOSKY. Mr. Chairman, I reserve the balance of my time.
+  Mr. WILSON of South Carolina. Mr. Chairman, indeed, as I am here, 
+proposing a cut of around 3.7 percent, this is across the board. 
+Actually, it's an affirmation of the significance of the projects that 
+are in the bill.
+  I am not saying they should be terminated. I am saying that they 
+should be stalled. I am certainly not indicating they should be 
+interrupted or destroyed. My being here is to propose that there be a 
+reduction in spending, except that it's really a reduction to the 
+President's recommendation, which is an increase in spending of $175 
+million.
+  But it is a savings to the taxpayers of $1.13 billion. That's, 
+indeed, a key reason that I ran for Congress was to, indeed, protect 
+the taxpayers, look out
+
+[[Page 16517]]
+
+for the taxpayers, make sure that the government programs that are so 
+worthy are handled well.
+  At this time, I yield such time as he may consume to the Congressman 
+from California (Mr. Campbell).
+  Mr. CAMPBELL of California. I thank the gentleman from South 
+Carolina.
+  Mr. Chairman, let's be clear what we are doing here: we are not 
+cutting anything. We are proposing to do less of an increase in this 
+bill than what has been proposed by the majority party.
+  Just to illustrate, as I have done before, what I will do again, 
+because I keep hearing talk about cuts: one equals one; two is more 
+than one, even if you want three. This bill, what we have proposed is 
+to have two, is to spend more than the one that was spent before, to 
+spend two. There are some people who would like to spend three. We 
+think that's too much.
+  We think that we have a deficit. We think that we have seen the 
+majority party propose to increase taxes by however much money they 
+happen to spend. We think they should spend less. We think government 
+should spend less so that the taxpayers can keep more of their own 
+money that they earned.
+  Mr. Chairman, we can get this budget under control. We can get this 
+deficit under control without cutting spending and without raising 
+taxes, if we just control how much we increase the spending by.
+  Instead of increasing it by 7 or 8 or 9 or 10 percent, 9, over 9 
+percent, which overall has been proposed in this budget, if, instead, 
+we only increase it by 6, not a bad increase, but just increase it by 
+6, and we do that year after year, we will eliminate this deficit 
+without digging more into the taxpayers' pockets, because we already 
+dig into their pockets too much.
+  So that's what this whole debate, that's what the amendment of the 
+gentleman from South Carolina is about, just controlling the growth of 
+spending to something that is reasonable but manageable and will enable 
+people to keep their own money and this government to return to a 
+fiscal responsibility position without deficits.
+  Mr. WILSON of South Carolina. Mr. Chairman, I yield back the balance 
+of my time.
+  Mr. VISCLOSKY. Mr. Chairman, we have had a lot of debate and 
+discussion about this legislation over the last 2 days. I certainly 
+have tried to emphasize that it represents an investment in this 
+country. Some of that investment is represented by cuts we made, over 
+50 cuts in programs we did not feel were commensurate with the value of 
+the monies that the taxpayers have sent to the United States 
+Government.
+  Many of those other dollars have been invested in programs we believe 
+inure to the benefit of people's health and safety, to the movement of 
+commerce and to the growth of our economy.
+  I am going to be the last speaker on our side on this amendment and 
+would conclude in another vein, and that is the national security of 
+our country. I think most people, when they look at the Department of 
+Energy, believe that you have a Department that spends all of its money 
+on energy and energy research.
+  As our colleagues know, this simply is not true. Only $1 out of about 
+every $10 inure to that purpose. Most of it deals with cleaning up 
+nuclear waste. Much of it is keeping our nuclear arsenal secure, as 
+well as making sure that it is safe and reliable.
+  Our national security is at stake when we consider many of the 
+elements in this bill. We are charged in this subcommittee to try to 
+make wise decisions as to what pertains to people and this country's 
+security and what does not.
+  I would draw attention to a fundamental issue that affects every one 
+of us, and that is the possibility of the nuclear conflict. There is a 
+proposal pending by the administration to build a new nuclear weapon.
+  We had to make what I think is a very profound decision on behalf of 
+the people of this country as to what course of action should we take. 
+We decided, in a bipartisan fashion on this subcommittee, to not 
+proceed for a number of reasons. One is essentially what the 
+perspective of our allies and those who do not have our interests at 
+heart internationally would be if we proceed.
+  In testimony before the subcommittee, former chairman of the Armed 
+Services Committee in the Senate, Sam Nunn, who is only one of two 
+people I have ever met in my 57 years who has been nominated for a 
+Nobel Peace Prize, the other being my senior Senator in Indiana, 
+Senator Lugar, said that on the RRW itself, the new nuclear weapon, if 
+Congress gives a green light to this in our current world environment, 
+I believe this will be misunderstood by our allies, exploited by our 
+adversaries, complicate our work to prevent the spread and the use of 
+nuclear weapons. I will not fund additional work on RRW at this time.
+  Another concern we had on the subcommittee is what is our strategy 
+for the use or, hopefully not the use, of those weapons, as well as our 
+strategy as far as eliminating weapons internationally. We have not 
+developed as a Nation and as a government a new strategy subsequent to 
+the end of the Cold War. We have had regional conflicts thereafter in 
+policies like Kosovo. We have had the events of 9/11, and we find 
+ourselves in conflict the most today.
+  We should have a broad national policy, not the policy of the Bush 
+administration or any administration, but a national policy that stands 
+the test of time through various administrations, as our last one did 
+for half a century, and a strategy that also lasts through Congresses 
+controlled by Republicans, Congresses controlled by Democrats over a 
+generation; and that strategy does not exist.
+  I am very heartened that the Armed Services Committee, under the 
+leadership, particularly, of Subcommittee Chairman Tauscher, as well as 
+her ranking member, Mr. Everett, on your side of the aisle, has asked 
+for a commission to study that very issue.
+  I am also very concerned that in the past, beginning in the late 
+1990s, the taxpayers of this country have been asked to invest billions 
+of dollars in the so-called Stockpile Stewardship Program that I 
+support. It is to ensure this we do not have to perform nuclear tests, 
+but to ensure the safety and reliability of our nuclear weapons.
+  But we were also told, by several administrations of both parties and 
+by the Department of Energy for over a decade, that we need the 
+National Ignition Facility built. Well, it's 6 years behind schedule, 
+and it's 226 percent over budget by a factor of $2.428 billion.
+  We were told by several administrations and the Department of Energy, 
+both parties, that we need the Microsystems Science Engineering and 
+Applications Lab at Sandia National Laboratory. That is currently 29.5 
+percent over budget.
+  We were told by administrations of both parties that we need a dual-
+axis radiographic hydrotest facility. That is now 6 years behind. That 
+is 35 percent over budget. None of them have been completed. None of 
+them are going to come in on time.
+
+                              {time}  1615
+
+  I would grant that the Advanced Simulation and Computational 
+Initiative has taken hold and has produced results and has been a 
+valuable investment.
+  To now, after more than a decade of investment that has not come to 
+total fruition, to make a hard turn in the road and start spending new 
+money on new construction without a strategy would be a mistake. And 
+this subcommittee has made a determination not to waste the American 
+taxpayers' dollars on that project.
+  We have asked, and it began 2 years ago under the leadership of then-
+Chairman Hobson, that we have an arsenal of 10,000 nuclear warheads, we 
+have a Cold War complex. We need to rationalize and, in effect, 
+downsize that to meet the new threats to make sure that we are nimble, 
+that we are safe, and that we save the taxpayers as much money as 
+possible.
+  The administration has come back in and said, well, let us build a 
+new nuclear weapon by 2012. And you know what? We're going to take care 
+of the
+
+[[Page 16518]]
+
+rationalization of the complex, and we're going to downsize and we're 
+going to do that in 2030.
+  My point is, I wish the administration and, in this case 
+particularly, the Department of Energy, had as much aggression and 
+commitment to downsizing the complex as they do on developing a weapon.
+  And what they also would suggest that we do, before we downsize is, 
+well, let's begin construction of this new nuclear weapon in the 
+existing complex. So now we will have the old and we will have the new. 
+And I think everyone, Mr. Chairman, knows the end of that story. 
+Nothing will ever change.
+  It's hard to attach an exact dollar and figure on that critical issue 
+of our national security. But many of the dollars we have saved and not 
+spent, and we have cut in this bill, is to make sure that we take the 
+right approach as far as our nuclear strategy and our nuclear safety, 
+and I am very proud of that.
+  I see the gentleman from Ohio (Mr. Hobson) on his feet. And if he 
+would want time, I would be happy to yield to him.
+  Mr. HOBSON. I just wanted to take a moment to comment that I really 
+appreciate the Chairman's very thoughtful comments, especially on all 
+the issues that he talked about, but certainly, when it comes to NNSA 
+and the lack of management of the weapons systems.
+  The gentleman remarked to me over here, do we have 9,000 weapons, or 
+10,000 weapons? Well, the number we've been trying to get out for a 
+long time, cause it's a good news story. But we can't tell you here how 
+good news the story is, because it's still secure. And we've tried for 
+a number of years to get out this issue of how many weapons we have and 
+to get this complex sized appropriately.
+  But we're very disturbed, in a bipartisan way, about the management 
+of the entire Department of Energy. And I want to associate myself with 
+the gentleman's comments and his opposition to the amendment.
+  Mr. VISCLOSKY. And Mr. Chairman, I want people to truly appreciate 
+Mr. Hobson's dedication as a member of not only this subcommittee, and 
+as chairman for 4 years, but as a member of the Defense Subcommittee 
+when there was a similar proposal several years ago and he thought it 
+was the incorrect proposal. He stopped what I think was incorrect 
+public policy from taking place. He saved the taxpayers of this country 
+money.
+  And the only reason today I believe we have even a 20-30 proposition 
+from the administration as far as downsizing the complex, that I find 
+totally unsatisfactory but at least it is a proposal, is because of the 
+work that Mr. Hobson did. And I thank him for that very much, and do 
+ask my colleagues to oppose this amendment.
+  The Acting CHAIRMAN. The question is on the amendment offered by the 
+gentleman from South Carolina (Mr. Wilson).
+  The question was taken; and the Acting Chairman announced that the 
+noes appeared to have it.
+  Mr. WILSON of South Carolina. Mr. Chairman, I demand a recorded vote.
+  The Acting CHAIRMAN. Pursuant to clause 6 of rule XVIII, further 
+proceedings on the amendment offered by the gentleman from South 
+Carolina will be postponed.
+
+
+                    Amendment Offered by Mr. Hinchey
+
+  Mr. HINCHEY. Mr. Chairman, I offer an amendment.
+  The Acting CHAIRMAN. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment offered by Mr. Hinchey:
+       Page 40, after line 18, insert the following:
+       Sec. 503. None of the funds made available in this Act may 
+     be used by the Secretary of Energy to designate any 
+     geographic area as a national interest electric transmission 
+     corridor under section 216(a) of the Federal Power Act (as 
+     added by section 1221 of the Energy Policy Act of 2005), and 
+     none of the funds made available in this Act may be used by 
+     the Federal Energy Regulatory Commission to take any action 
+     related to the processing or issuance of a permit under 
+     section 216(b) of the Federal Power Act.
+
+  The Acting CHAIRMAN. Pursuant to the order of the House of Tuesday, 
+June 19, 2007, the gentleman from New York (Mr. Hinchey) and the 
+gentleman from Indiana (Mr. Visclosky) each will control 10 minutes.
+  The Chair recognizes the gentleman from New York.
+  Mr. HINCHEY. Mr. Chairman, I yield myself 15 seconds.
+  Mr. Chairman, first of all I want to extend my appreciation and 
+gratitude to Chairman Visclosky and Ranking Member Hobson for putting 
+together a very fine bill.
+  However, what we want to do is oppose a certain part of this, denying 
+funding for monopolistic corporations to impede upon States rights and 
+people's private personal proper rights. It's an important amendment 
+and I ask everyone to consider it.
+  Mr. Chairman, I yield 1 minute to the gentleman from Virginia (Mr. 
+Wolf).
+  Mr. WOLF. Mr. Chairman, this is going to be the only vote that you're 
+going to have on this issue. When the power lines are coming through 
+your district, and this is coming through your district, how will you 
+explain to your constituents, to your neighbors, your friends, your 
+local elected officials, your farmers, that you had a chance to slow 
+this down and you didn't do it?
+  How are you going to tell them that you sided with the power 
+companies and not with the citizens?
+  This is a time out. It will give us a chance to reexamine the 
+process.
+  These corridors divide communities, neighborhoods. They destroy 
+landscapes. In fact, the current corridor in the Mid-Atlantic includes 
+Antietam, where 20,000 people died in 1 day. We need to make sure that 
+we take time to do it right, and don't bow to the scare tactics and the 
+false Dear Colleague letters.
+  This is your first and likely your only vote on this issue. Don't let 
+this vote come back to haunt you. Voting against the Hinchey amendment 
+means you don't want to make sure these corridors are sited properly.
+  I strongly urge the Members to vote aye for the Hinchey amendment.
+  Mr. HINCHEY. Mr. Chairman, I yield 1 minute to the gentleman from New 
+York (Mr. Hall).
+  Mr. HALL of New York. Mr. Chairman, I urge support of the Hinchey-
+Wolf amendment to force the DOE to take a time-out from its rush to 
+subject giant stretches of this country to eminent domain for energy 
+interests.
+  In my State, in my district, the New York Regional Interconnect, for 
+instance, NIRE, is an internationally financed private entity which 
+will receive eminent domain rights to seize private land for private 
+profit. It would remove the State environmental review process and all 
+property rights and States rights from the equation and give that all 
+to FERC. I think this is something that needs much closer examination.
+  New York City, I would reassure my colleagues from downstate, does 
+not need NIRE to have power, especially not this route. In fact, there 
+are alternate routes that the State could and would look at if it had 
+the time that it would normally have under CCRA.
+  I urge support for the Hinchey-Wolf amendment in the interest of 
+property rights and States rights.
+  The Acting CHAIRMAN. Does the gentleman from Massachusetts rise as 
+the designee of the gentleman from Indiana?
+  Mr. OLVER. Yes, Mr. Chairman.
+  The Acting CHAIRMAN. The gentleman from Massachusetts is recognized 
+for 10 minutes.
+  Mr. OLVER. Mr. Chairman, I yield 2 minutes to the distinguished 
+Member from Texas (Mr. Green).
+  Mr. GENE GREEN of Texas. Mr. Chairman, I rise in strong opposition to 
+the Hinchey-Wolf amendment.
+  Today, more than ever, America needs a transmission grid that will 
+deliver reliable and affordable electricity to consumers across the 
+Nation. The Energy Information Agency projects that electricity 
+consumption will increase 43 percent by 2030. Other studies project 
+growth and demand to grow by 19 percent over the next 10 years, while 
+power capacity will grow by only 6 percent over that same time. It 
+stands to reason we're going to have to move power where we have excess 
+to where we need it.
+  Recognizing the fact the Energy Policy Act of 2005, EPACT, allowed 
+for the
+
+[[Page 16519]]
+
+designation of national interest corridors where congestion in the 
+electricity grid is jeopardizing reliable service and raising the cost 
+to electricity consumers, this designation is not a mandate that a 
+transmission line be built but, instead, an incentive for stakeholders 
+to address the grid capacity issues. FERC is authorized to get involved 
+only if the State is unwilling to or cannot act, then only after 
+exhaustive Federal considerations.
+  The Hinchey-Wolf amendment, unfortunately, seeks to block funding for 
+the National Electricity Transmission Corridors as contained in the 
+authorizing legislation. Failing to address congestion and transmission 
+infrastructure will do absolutely nothing for electricity consumers who 
+will see their energy bills continue to climb in the future. And more 
+blackouts.
+  Our constituents deserve a robust energy transmission infrastructure, 
+and EPACT encourages congested States to resolve the problems in a 
+timely manner. And we know the issue of blackouts, particularly in mid-
+America to the Northeast.
+  I urge my colleagues to oppose the Hinchey-Wolf amendment because all 
+it will do is raise electric prices because we can't move power where 
+we really need it.
+  Mr. HINCHEY. Mr. Chairman, I yield 1 minute to the gentleman from New 
+York (Mr. Arcuri).
+  Mr. ARCURI. Mr. Chairman, I rise in very strong support of this 
+amendment. And I'd like to start off by saying to my colleague that I 
+respect a great deal from Texas, this amendment is not about sharing 
+power. It's not about giving power from one part of the country to 
+another. It's about how do we do it. Do we do it in a thoughtful way? 
+Do we do it in a reasonable way? Or do we do it in a way by using 
+eminent domain, by running high power lines over people's land, by 
+taking people's land? Is that the American way? Is that the way we want 
+to have our energy policy dictated to the States and the localities? I 
+think not.
+  I think there is a better way to do it. There is a more thoughtful 
+way to do it. We are facing such a plan in New York, and it's ill-
+conceived and poorly thought out. And that's not the way we should be 
+running our energy policy in this country. It should be in a more 
+thoughtful way.
+  I strongly support this amendment because we need to stand up to the 
+power companies and not let them take our land and not let them run 
+power lines over people's property.
+  Mr. VISCLOSKY. Mr. Chairman, I would be happy to yield 2 minutes to a 
+member of the committee, Mr. Peterson.
+  Mr. PETERSON of Pennsylvania. Mr. Chairman, I think this is one of 
+the more important amendments we're going to deal with today.
+  America needs available power, and especially electric power. We have 
+a system that has not worked. The legislation doesn't give the Federal 
+Government the right to usurp States rights. It only gets involved when 
+multiple States can't get their job done. I was in State government for 
+19 years, and I wouldn't bet the farm on four PUCs adequately 
+performing on a time basis so we could connect our grid.
+  Here's what Bill Richardson said in 2001. ``The United States has a 
+first-rate economy. We're the Superpower of the world, the best 
+military, a booming technological economy, but we've got a grid that is 
+antiquated, that is Third World, that needs beefing up. We've got very 
+weak power transmission lines to connect our generation capacity.''
+  And here's what Sam Bodman said in 2006, a year ago. ``The Nation is 
+currently facing serious near problems in adequately delivering 
+electricity to its customers.''
+  It means we have to fix the grid. And we've been unable to get States 
+to work together collectively. This is a process that only kicks in 
+when the States can't get their job done.
+  Connecting this country is a national issue. I don't want my State in 
+charge of the national grid. I had a Governor's person come into my 
+office protesting a power line that was proposed. It had been off of 
+the table by the PGM for a year and a half and they didn't even know 
+it. It wasn't even up for consideration. And the three States that were 
+involved in the little piece that was left was not that State.
+  Folks, there's a lot of disinformation out here. The connectivity of 
+our electric system is vital to our economic future and we need a 
+process. This was put in the energy bill because it wasn't working, 
+because we couldn't upgrade our grid.
+  And two Secretaries of Energy and leaders across this country, the 
+Edison Institute, all say, don't pass this amendment.
+  Mr. HINCHEY. Mr. Chairman, I yield 1 minute to the gentleman from 
+Ohio (Mr. Kucinich).
+
+                              {time}  1630
+
+  Mr. KUCINICH. Mr. Chairman, it is pretty clear from the record of 
+their activities that the Department of Energy has been in cahoots with 
+the electric utilities and they are running roughshod over Americans 
+everywhere.
+  My subcommittee, the Subcommittee on Domestic Policy, held a hearing 
+on this exact matter, and we heard about concerns about the law and 
+about the Department of Energy's implementation.
+  These concerns include whether the Department of Energy would take 
+into account the protection of national parks, State parks, 
+conservation easements, and historical sites like battlefields when 
+determining where an electric transmission corridor should be 
+designated. The answer is they don't.
+  Whether the Department of Energy is considering the effects of a 
+corridor designation on the private property rights of landowners. They 
+did not.
+  Whether the Department is considering the environmental impact of 
+corridor designations. The answer is they did not.
+  Whether the Department of Energy is considering alternatives to 
+constructing new electric transmission lines, like demand-side 
+management, distributed generation, and energy efficiency. They did 
+not.
+  Whether the Department has adequately considered the actual benefit 
+utility consumers would receive. They did not.
+  Support the Hinchey amendment.
+  Mr. VISCLOSKY. Mr. Chairman, I yield 1\1/2\ minutes to the gentleman 
+from California (Mr. Costa).
+  Mr. COSTA. Mr. Chairman, I rise to oppose this amendment.
+  The 2005 energy law required the Department of Energy to identify 
+geographical areas throughout the country where congestion in the 
+electric grid is raising prices and creating reliability concerns.
+  Ladies and gentlemen, I don't think I have to tell anybody here on 
+the floor that we have an energy crisis in this country, and there are 
+a host of reasons why we have an energy crisis in this country. And I 
+think most of us understand that, frankly, there is not one silver 
+bullet that is going to resolve these issues.
+  The designation of this 2005 energy law creates interest of 
+corridors, clearly vests States with the primary responsibility for 
+siting transmission lines and considering what local or regional 
+benefits and consequences exist.
+  I think it is clear that in the 2005 law that we are seeking to amend 
+here that the national designation does not, does not, usurp State 
+authority for siting transmission lines. Yet we have a lot of 
+challenges on a regional basis.
+  In California we are attempting to try to work with Arizona to the 
+mutual benefit of citizens living in both States to try to allow for 
+the conductivity of that energy back and forth as well as to try to 
+maintain the stability of much-needed electricity for our constituents 
+in the Southwest.
+  This amendment, I think, would do great harm to that. And that is 
+precisely why I think the 2005 law was designed to address short-
+sighted and narrow interests blocking the public good.
+  I ask that you reject this amendment.
+  Mr. HINCHEY. Mr. Chairman, I reserve the balance of my time.
+  Mr. VISCLOSKY. Mr. Chairman, I would be happy to yield 1 minute to 
+the gentleman from Nebraska (Mr. Terry).
+
+[[Page 16520]]
+
+
+  Mr. TERRY. Mr. Chairman, I rise in opposition of this amendment.
+  As a member of the Energy Committee, I want to debunk a couple of 
+myths that have been perpetrated today in the debate. First of all, 
+that this was done hastily and thoughtlessly. The fact of the matter is 
+the issue of the transmission of electricity has been an issue for many 
+years. Many hearings have been held, much debate. It was part of the 
+Energy Act. What we have to do is resolve the issue how we get energy 
+from generator A to consumer B. In between we have to figure out how to 
+do that.
+  Myth number two is that this runs roughshod over States' and 
+communities' rights. The reality is that they are involved in the 
+process. They are involved in working with FERC, and FERC has to work 
+with them on the siting issues. And only when there is a conflict do 
+they get to break that conflict by rising above it.
+  We in this Nation have to figure out how we get electricity from 
+point A to consumer B. Think of this corridor as a transportation 
+highway. And when we think of it as a highway, we understand why we 
+have to do it this way.
+  Mr. HINCHEY. Mr. Chairman, I yield 1 minute to the gentleman from 
+Arizona (Mr. Pastor).
+  Mr. PASTOR. Mr. Chairman, I rise in support of the Hinchey amendment.
+  In Arizona, which is one of the fastest-growing States, we, as a 
+growing State, have enough energy and power to meet the power needs of 
+our State. But what has happened is that since California has a 
+moratorium on building generating plants, the tendency is to have power 
+plants be built in Arizona to generate power and then power lines to be 
+taken into California.
+  Very recently, about 1\1/2\ months ago, the Arizona State Corporation 
+Commission, which has the responsibility for siting the power lines, 
+rejected, and it was an issue of local control in that the power lines 
+that were being proposed would have endangered the wildlife. There were 
+problems with the enhancement features of our land.
+  The issue for me is local control; so that is why I support the 
+Hinchey amendment.
+  Mr. HINCHEY. Mr. Chairman, I yield 1 minute to the gentleman from New 
+York (Mr. Arcuri).
+  Mr. ARCURI. Mr. Chairman, again, I rise in very strong opposition to 
+this bill.
+  This bill does so few things in terms of getting power to where it 
+needs to be. They talk about the fact that the original 1221 was 
+intended to help get power to places that need it to help alleviate 
+congestion. But, in fact, the NYRI proposal in New York State does 
+nothing whatsoever to prevent congestion. Rather, it does more to 
+create congestion than to alleviate it.
+  I strongly support the Hinchey-Wolf amendment because I believe that 
+using eminent domain to take people's property in order to run power 
+lines over it is the wrong thing. It is not the American way. It is not 
+what we came to Congress for. And I strongly oppose that.
+  Mr. VISCLOSKY. Mr. Chairman, I reserve the balance of my time.
+  Mr. HINCHEY. Mr. Chairman, I yield 1 minute to the gentleman from New 
+York (Mr. Hall).
+  Mr. HALL of New York. Mr. Chairman, I thank the gentleman for 
+yielding.
+  I just want to point out, in response to a couple of remarks that 
+were made, this project that Mr. Arcuri, Mr. Hinchey, and I are 
+concerned with, which could happen anywhere in the country to any of 
+you, is not an interstate project. It occurs entirely within New York 
+State, mysteriously starting in Utica and mysteriously ending in the 
+little town of Campbell Hall. The other shoes have not dropped yet. But 
+in New York State's Environmental Quality Review Act, nothing gets 
+approved in under a year.
+  The proposal in section 1221 that after a year it kicks up authority 
+to FERC is patently meant to usurp State authority. You can't get a 
+subdivision, a power plant, a landfill, hardly any public project 
+approved that fast. It usually takes a draft environmental impact 
+statement; public comment; a final environmental impact statement; and 
+at long last, approval. But two years is the shortest that I have ever 
+seen. So to have this be one year means to me that the law was written 
+to usurp State authority.
+  Mr. HOBSON. Mr. Chairman, I move to strike the last word.
+  The Acting CHAIRMAN. The gentleman from Ohio is recognized for 5 
+minutes.
+  Mr. HOBSON. Mr. Chairman, I yield to the gentleman from Virginia (Mr. 
+Tom Davis).
+  Mr. TOM DAVIS of Virginia. Mr. Chairman, I rise today in support of 
+this amendment barring funding in this bill to be used to designate any 
+area as a ``national interest electric transmission corridor,'' or a 
+NIET. NIET designation and the corresponding authority that has been 
+given to FERC blatantly usurps States rights to designate and site 
+transmission lines in accordance with what is best for its citizenry. 
+There is a well-established successful history of States executing this 
+authority, and there is no real reason to take it away.
+  I understand there needs to be a holistic approach to our energy 
+policy, but absent clear and definitive reasons to grant this authority 
+to FERC, why are we allowing this Federal entity to circumvent State 
+siting decisions, State comprehensive energy plans, and State efforts 
+to promote energy efficiency and independence? It is clear more 
+analysis and consideration is needed.
+  This amendment would not strike this provision forever. Rather, it 
+would allow us more time to have debate, oversight, and public comment 
+on the issue. When this provision was passed in the last Congress by 
+the Senate and signed into law, it was a small piece of a broad energy 
+overhaul. It received no debate on this floor and no vote in this body. 
+Now, with the prospect of towering transmission lines running through 
+214 counties in 11 States across our Nation, and that is just the first 
+chapter, we must take a time out to reexamine this provision.
+  What will you tell your constituents when these towering lines are 
+denied by your State regulators, but mandated by FERC? You had your 
+vote today and you need to vote for this amendment.
+  I urge my colleagues to support this amendment. Vote ``yes'' to allow 
+us to give needed consideration to the broad ramifications of proposed 
+NIET corridors and ensure that the rights of States are not unduly 
+trampled.
+  Mr. HOBSON. Mr. Chairman, I yield to the gentleman from New York (Mr. 
+Walsh).
+  Mr. WALSH of New York. Mr. Chairman, I rise in strong support of this 
+amendment.
+  Section 1221 of the Energy Policy Act of 2005 is an abridgement of 
+the rights of State and local governments to influence Federal policy 
+as it pertains to their communities. In fact, section 1221, regarding 
+the siting of overhead electricity transmission lines, permits the FERC 
+to outright ignore State decisions and local considerations.
+  We are elected to represent a select constituency and our States, to 
+advocate for their needs, and to advance our national interest. In this 
+instance those responsibilities collide.
+  I recognize that the Federal Government can and should do more to 
+modernize our Nation's aging and congested electric power 
+infrastructure. But the Northeast corridor proposal negatively impacts 
+the environment, decreases property values, poses health risks, and 
+hurts local property tax revenue. What is worse is that it provides 
+State and local regulatory agencies no ability to involve themselves.
+  By failing to support this amendment, Members of Congress will, in 
+essence, allow unknown bureaucrats in Washington, huddled around a 
+faceless map, to make critical decisions that affect the lives and 
+financial well-being of thousands of American families. Surely that 
+wasn't our Founding Fathers' intent. There has to be a better way than 
+to circumvent a State's decisions and disregard property owners' 
+rights. By supporting this amendment, we create time to find that 
+better way.
+  Mr. HOBSON. Might I inquire how much time I have left.
+  The Acting CHAIRMAN. The gentleman has 1\1/2\ minutes remaining.
+
+[[Page 16521]]
+
+
+  Mr. HOBSON. I yield the balance of my time to the gentleman from 
+Virginia (Mr. Wolf).
+  Mr. Chairman, I might say I am doing this out of courtesy to these 
+gentlemen. I happen to oppose the amendment, but I think they have a 
+right to be heard.
+  Mr. WOLF. I thank the gentleman.
+  We are not asking for a repeal. We are asking for time.
+  Again, this section, and it is amazing, was never voted on in the 
+House. The power industry lobbyists have been roaming this Hill. Your 
+constituents are back in their districts expecting you to represent 
+them.
+
+                              {time}  1645
+
+  The corridor goes over and includes Gettysburg, where Lincoln gave 
+the Gettysburg Address. Antietam, 20,000 people died. No environmental 
+impact statement. No consideration of energy efficiency technology. No 
+consideration for historic lands. It is an assault on property rights.
+  In the last Congress, we all got worked up on the Kelo decision. This 
+is, in essence, whereby they can do this. And someone said, well, you 
+go through the State. The power companies won't really try to go 
+through the States. They will pro forma it, knowing that they can go to 
+FERC and FERC will do it.
+  Here's what the FERC administrator said: ``The authority to lawfully 
+deny a permit is critically important to the States for ensuring that 
+the interests of the local communities and the citizens are 
+protected.''
+  What the Commission does today, it's a significant inroad in 
+traditional State transmission citing authority. It gives States two 
+options: Either issue a permit, or we will do it for them. Obviously, 
+there is no choice.
+  I strongly urge, in the interest of all these things we're talking 
+about, a vote for the Hinchey amendment.
+  Mr. VISCLOSKY. Mr. Chairman, I have 3\1/2\ minutes left and 
+understand I have the right to close. What I would like to do is to 
+yield that 3\1/2\ minutes to the gentleman from New York before he 
+seeks recognition, and would simply emphasize to the membership that I 
+am doing this as a courtesy. I am in opposition to the gentleman's 
+amendment. But I would yield my remaining time to the gentleman from 
+New York.
+  Mr. HINCHEY. I want to express my deep appreciation to Chairman 
+Visclosky, not just for his excellent work in putting this 
+appropriations bill together, but also for yielding me this time.
+  It's important for every Member of this House to focus their 
+attention on what is happening here and what we are trying to do.
+  What we are dealing with here in the context of this appropriations 
+bill, which, if this amendment is successful, will function out there 
+for only 1 year, what we are attempting to deal with is an obscure 
+provision in the 2005 Energy Policy Act, which hardly any Member of 
+this House, I bet, understood when that bill was passed because of the 
+obscurity of this provision.
+  What does this provision do? This provision tramples on States 
+rights. It says if any State, any State in the Nation is unable to 
+agree to a location for a high-tension transmission line, or if they 
+stipulate that certain corrections have to be made, if that takes more 
+than 1 year, which it would in almost every case, then the Federal 
+Energy Agency steps in and they designate where the corridor will go, 
+overriding States rights. I believe that this provision is contrary to 
+a very significant provision in the United States Constitution, and 
+this provision overrides States rights. That alone is good reason to 
+vote for this amendment.
+  But beyond that, that provision in the Energy Policy Act of 2005, 
+which this amendment would stop in its tracks for just 1 year so that 
+we could give it further consideration, that provision stipulates that 
+the Federal Energy Regulatory Commission can exercise eminent domain on 
+people's private personal property. That means that FERC can condemn 
+anyone's private personal property in order to establish one of these 
+high-tension transmission corridors. That in itself is bad enough.
+  But that provision in the Energy Policy Act of 2005 goes even 
+further. It says that FERC, the Federal Energy Regulatory Commission, 
+can grant that power of condemnation of individual citizens' private 
+personal property rights to a private corporation so that the private 
+corporation can now go in and declare eminent domain and condemn 
+people's private personal property.
+  This provision in this Energy Policy Act overrides States rights and 
+the individual rights of private American citizens. It was put in there 
+inappropriately. Hardly anybody was aware of it when that bill passed. 
+Many of us voted against it nevertheless. Still, it is part of the law.
+  What we are saying here in this amendment to this appropriations bill 
+is give us another year to look at this issue. Let this issue be 
+considered more carefully. We should not have this kind of impediment 
+against States rights and people's private personal property rights.
+  I ask you, on behalf of all of your constituents, please join us in 
+support of this amendment.
+  Ms. HARMAN. Mr. Chairman, those of us who lived through the brown-
+outs and rolling black-outs during the California energy crisis 
+remember well how difficult the Federal Energy Regulatory Commission 
+was to deal with, and it pains me to vote for a national policy that I 
+hope will not need to be used.
+  However, after carefully reviewing the issue, I do not see a better 
+alternative. My vote is a vote to keep the lights on in Southern 
+California.
+  Mr. FRELINGHUYSEN. Mr. Chairman, I rise in support of the Hinchey-
+Wolf amendment and thank the authors for highlighting Section 1221 of 
+the Energy Policy Act of 2005, which could allow DOE to designate large 
+transmission corridors across the country and override States' 
+decisions about transmission line placement.
+  Mr. Chairman, we all recognize that the energy requirements of our 
+growing economy will place increasing demands on existing transmission 
+facilities. In this regard, modernization is an important goal.
+  But we want to make certain that our State, county and local 
+communities are fully engaged in the process to determine where 
+transmission lines are located. Local leaders and property-owners have 
+the clearest view of how these lines will affect their communities.
+  The goal of this amendment is to allow additional time for 
+consideration of DOE and FERC's implementation process, so that there 
+will be more complete deliberation and consideration of this potential 
+regulation.
+  Municipal, county, and State officials want and need to be full 
+partners in the process that leads to the siting of new transmission 
+lines.
+  I urge support of the Hinchey-Wolf amendment.
+  Mr. SHUSTER. Mr. Chairman, I rise in opposition to the Hinchey-Wolf 
+amendment. My constituents need electricity in their homes, their 
+businesses and their communities. This amendment will deprive my 
+constituents and the people of Pennsylvania of low-cost energy.
+  In 2005, the Republican-led Congress passed the bipartisan Energy 
+Policy Act, 275-156. In section 1221 of the Energy Policy Act, the 
+Department of Energy was required to identify and report a National 
+Transmission Congestion and Constraint Study.
+  The study identified two areas as inadequate: the Mid-Atlantic 
+region, which encompasses my district, and the southwest-southern 
+California region. With no coincidence, in 2002 these same areas were 
+identified as problem areas. They were identified in two separate 
+studies, 5 years apart, because there is an overwhelming need to build 
+the infrastructure to supply the increasing demand for energy. The lack 
+of necessary infrastructure in these areas imposes billions of dollars 
+on consumers annually and leaves the citizens of the country vulnerable 
+to rolling blackouts.
+  On April 26, 2007, the Department of Energy issued two draft versions 
+for transmission corridors, one traversing my home State and its 
+neighboring regions and the other in southern California. The public 
+comment period remains open for written submissions until July 6. In 
+addition, the Energy Policy Act requires studies every 3 years.
+  This amendment would require a needless, burdensome study, which in 
+effect, would study two previous and congruent studies. At best, with 
+this amendment, we are questioning whether or not to repeal sections of 
+a successful, bipartisan bill, extensively debated and enacted less 
+than 2 years ago, when the process so clearly works, the need is 
+clearly
+
+[[Page 16522]]
+
+there and the effects of inaction are so clearly dire. Let's allow the 
+process to work. Let us have faith in our positive work in the Energy 
+Policy Act.
+  Mrs. MALONEY of New York. Mr. Chairman, I rise in support of the 
+Hinchey-Wolf amendment, which would prohibit funds in this bill from 
+being used to designate any area as a National Interest Electric 
+Transmission Corridor (NIETC).
+  By providing a 1-year time out in the designation of NIETCs, the 
+amendment will force the Department of Energy, the Federal Energy 
+Regulatory Commission, Congress, States and the public to reexamine the 
+process for designating these areas to ensure that States' rights are 
+upheld and people's personal property rights are protected.
+  Specifically, this amendment will postpone a flawed plan by the 
+Department of Energy to designate two vast swaths of the country as 
+NIETCs. Far from narrow ``corridors,'' these massive areas encompass 
+214 counties and 9 cities in 11 states, including large areas in my 
+home State of New York.
+  The way these areas have been designated has come under intense 
+scrutiny, and for good reason. In a hearing in the Oversight and 
+Government Reform Subcommittee on Domestic Policy earlier this year, it 
+was made clear that the DOE did not adequately consult with the States 
+on this issue and that the designations would actually hinder the 
+States' efforts to address climate change. In addition, the congestion 
+study which the proposed corridor designations are based on was 
+fundamentally flawed. Last, the DOE simply failed to consider the 
+appropriate alternatives to corridor designation.
+  At that hearing Paul D. Tonko, Chairman, Committee on Energy, New 
+York State Assembly said, ``There is little confidence, at this moment, 
+that federal government officials--who are far removed from the 
+physical and socio-economic location of local proposals--will be able 
+to fully appreciate the environmental, economic and social impacts of 
+long-range, high-voltage transmission lines in local communities.''
+  I also want to note that Governor Eliot Spitzer of New York strongly 
+supports the Hinchey amendment. He has made clear that the NIETC 
+designation in New York is not only unnecessary, it would actually be 
+counter-productive because if it is finalized, the FERC would be able 
+to preempt parts of New York's long-established and efficient process 
+for siting transmission lines.
+  Most appallingly, if we do not pass the Hinchey amendment, the FERC 
+could eventually have the ability to give energy companies the power of 
+Federal eminent domain to force private landowners to sell parts of 
+their property. We just cannot allow States' rights to be trampled and 
+private property rights to be taken away.
+  Yes, we absolutely need to make sure that there is an efficient 
+process in place to meet the critical energy needs of my constituents 
+in New York City and in other large urban areas. However, that process 
+must also be fair. It must protect the rights of private property 
+owners, take into account environmental and historic preservation 
+concerns, and not unnecessarily usurp States' rights. That's why I will 
+cast my vote in favor of the Hinchey amendment.
+  Mr. BLUMENAUER. Mr. Chairman, I supported the Hinchey-Wolf amendment 
+to the FY 2008 Energy and Water Development Appropriations Bill. This 
+amendment would have established a one-year spending limitation with 
+regard to the designation of National Interest Electric Transmission 
+Corridors under section 1221 of the Energy Policy Act of 2005. I 
+supported this limitation amendment because section 1221 is a flawed 
+provision of federal law, and the Department of Energy's implementation 
+of the provision has enhanced concerns about the law rather than 
+addressed them.
+  Section 1221 of the Energy Policy Act grants the Department of Energy 
+unprecedented siting and construction authority for transmission lines. 
+While I strongly support the upgrade of our nation's transmission 
+infrastructure and believe that states and the federal government need 
+tools to make this happen, section 1221 goes too far. The provision 
+invites only illusory participation from the states--one year is much 
+too short a timeframe for states to make any decision about 
+transmission siting, much less the right one.
+  I look forward to working with my colleagues to provide a realistic 
+backstop for the federal government that gives the states time and 
+flexibility to suggest alternatives. I hope that this Congress can 
+advance a more balanced approach.
+  Mr. VISCLOSKY. I yield back the balance of my time.
+  The Acting CHAIRMAN. The question is on the amendment offered by the 
+gentleman from New York (Mr. Hinchey).
+  The question was taken; and the Acting Chairman announced that the 
+noes appeared to have it.
+  Mr. HINCHEY. Mr. Chairman, I demand a recorded vote.
+  The Acting CHAIRMAN. Pursuant to clause 6 of rule XVIII, further 
+proceedings on the amendment offered by the gentleman from New York 
+will be postponed.
+  Mr. HOBSON. Mr. Chairman, I move to strike the last word, and I yield 
+to the gentleman from Alaska.
+  Mr. YOUNG of Alaska. I thank the gentleman for yielding.
+  Mr. Chairman, I rise to comment on the last speaker from New York 
+about States rights and private property rights.
+  The taking of land is dear to me. And this Congress took 147 million 
+acres of land in 1980 and made it into wilderness, parks and refuges. I 
+bring that up because, of that 147, 27 of them were picked by the 
+State. But we did it. That was private property.
+  But I am, Mr. Chairman, dismayed by this Congress, including Members 
+of my own party, who voted today to eliminate funding for the Denali 
+Commission and cripple the economic life to hundreds of small and 
+impoverished communities throughout rural Alaska.
+  I am standing here today in the well defending the funding for the 
+Denali Commission because the Federal Government has, time and time 
+again, as I mentioned, limited the ability of Alaskans to provide for 
+themselves. We have trillions of dollars' worth of resources in our 
+State; we haven't been able to produce them. This Congress has said no 
+to ANWR. Many of the speakers who just spoke voted no on ANWR, no to 
+any new mining, no to more Alaskan oil and natural gas. Not letting 
+Alaskans provide for themselves is economic terrorism by this body.
+  We sent over 15.5 billion barrels of oil through the pipeline. At 
+today's prices, that's equivalent to $1.1 trillion. We have trillions 
+of dollars' worth more of energy. If the State were allowed to manage 
+its own resources, we wouldn't need the commission. And we wouldn't be 
+sending trillions of American dollars overseas, to countries that hate 
+us, for the energy Americans could be producing at home.
+  Unfortunately, energy ignorance in this body is increasing almost as 
+fast as our dependence on foreign oil. Until Alaska is permitted to 
+produce its own resources for themselves and for America, Alaskans will 
+need the Denali Commission.
+  In 1998, Congress passed the Denali Commission Act. It provides job 
+training and other economic development services for rural communities, 
+chiefly in troubled communities, where unemployment exceeds 50 percent. 
+It promotes rural development by providing power generation and 
+transmission facilities, modern communication systems, water and sewer 
+systems, and other infrastructure needs.
+  To give you an idea, my State of Alaska is 656,425 square miles, more 
+than twice the size of Texas. Individual Alaskans own less than 1 
+percent of their land. The Federal Government owns over 60 percent. 
+Flush toilets are just a luxury, and the Denali Commission tries to 
+provide good sanitation to all Alaskans that do not have the ability to 
+have potable water or remove the sewage they create. The fact is, I 
+doubt if any of you have ever heard of a honey bucket.
+  How many of my colleagues have communities in their districts with no 
+water and sewer? Well, Mr. Chairman, I have several. The Denali 
+Commission has brought these systems to many of my rural communities, 
+but there are still over 150 areas that suffer from poor sanitation and 
+a lack of safe drinking water.
+  There are rural communities that are completely isolated, and my 
+Alaskans can only get to and from their homes by boat or by small 
+plane. There are no roads connecting these communities outside of 
+Anchorage and Fairbanks.
+  The Commission also works carefully to ensure these communities have 
+telephones, a reliable supply of electricity, and in some cases, 
+Internet access.
+  Mr. Chairman, these are all things we in the Lower 48 take for 
+granted, but
+
+[[Page 16523]]
+
+for thousands of Alaskans they are luxuries.
+  In 2006, the Denali Commission leveraged its funding to develop basic 
+infrastructure in over 100 Alaska communities. It invested money 
+towards replacing aging fuel tanks and upgrading rural power plants, 
+while at the same time pushing for wind generation, hydro, geothermal 
+and biomass energy projects.
+  In addition to constructing several essential village primary care 
+clinics, the Denali Commission funded major design initiatives for 
+needed replacement hospitals in Nome and Barrow. It has now completed 
+clinics in over 65 of these remote communities.
+  The Commission also provided funding to construct housing for 
+teachers in nine frontier communities, which is essential for 
+recruiting and retaining teachers to the remote areas of my State. The 
+Commission worked tirelessly each year to make sure that my Alaskans 
+are not treated like second-class citizens. The amendment will cripple 
+the Denali Commission's ability to provide these basic resources and 
+cripple many rural communities that are already on crutches.
+  Mr. Chairman, I can say this respectfully for one thing. We talk a 
+lot about the economics of this Nation and energy. This Congress has 
+lacked in a positive way. I am deeply disturbed that this amendment was 
+adopted by my own party and by the opposite party. I hope you 
+reconsider this when we go to conference.
+
+
+                  Announcement by the Acting Chairman.
+
+  The Acting CHAIRMAN. Pursuant to clause 6 of rule XVIII, proceedings 
+will now resume on those amendments on which further proceedings were 
+postponed, in the following order:
+  An amendment by Mr. Porter of Nevada.
+  Amendment No. 18 by Ms. Foxx of North Carolina.
+  An amendment by Mr. Udall of New Mexico.
+  Amendment No. 17 by Mr. Neugebauer of Texas.
+  Amendment No. 9 by Mrs. Musgrave of Colorado.
+  Amendment No. 1 by Mr. Bishop of New York.
+  Amendment No. 14 by Mr. Jordan of Ohio.
+  An amendment by Mr. Shadegg of Arizona.
+  Amendment No. 12 by Mr. Price of Georgia.
+  Amendment No. 15 by Mr. Wilson of South Carolina.
+  An amendment by Mr. Hinchey of New York.
+  The Chair will reduce to 2 minutes the time for any electronic vote 
+after the first vote in this series.
+
+
+                    Amendment Offered by Mr. Porter
+
+  The Acting CHAIRMAN. The unfinished business is the demand for a 
+recorded vote on the amendment offered by the gentleman from Nevada 
+(Mr. Porter) on which further proceedings were postponed and on which 
+the noes prevailed by voice vote.
+  The Clerk will redesignate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment offered by Mr. Porter:
+       Page 21, strike line 22 and all that follows through page 
+     24, line 9.
+
+
+                             Recorded Vote
+
+  The Acting CHAIRMAN. A recorded vote has been demanded.
+  A recorded vote was ordered.
+  The vote was taken by electronic device, and there were--ayes 80, 
+noes 351, not voting 6, as follows:
+
+                             [Roll No. 516]
+
+                                AYES--80
+
+     Abercrombie
+     Ackerman
+     Alexander
+     Berkley
+     Berman
+     Bishop (UT)
+     Blumenauer
+     Campbell (CA)
+     Cannon
+     Capps
+     Chandler
+     Christensen
+     Cohen
+     Conyers
+     Crowley
+     Davis (CA)
+     DeFazio
+     DeLauro
+     Doggett
+     Engel
+     Eshoo
+     Farr
+     Filner
+     Gallegly
+     Giffords
+     Gillibrand
+     Gohmert
+     Grijalva
+     Hall (NY)
+     Harman
+     Heller
+     Hirono
+     Holt
+     Honda
+     Jackson (IL)
+     Jackson-Lee (TX)
+     Jones (OH)
+     Kucinich
+     Lantos
+     Lee
+     Lewis (GA)
+     Lofgren, Zoe
+     Markey
+     Matheson
+     McCotter
+     McDermott
+     McGovern
+     McKeon
+     Meehan
+     Miller, George
+     Nadler
+     Pallone
+     Paul
+     Payne
+     Pearce
+     Porter
+     Rodriguez
+     Rogers (AL)
+     Rothman
+     Salazar
+     Sanchez, Loretta
+     Schakowsky
+     Schiff
+     Shea-Porter
+     Sherman
+     Sires
+     Souder
+     Thompson (CA)
+     Tierney
+     Udall (CO)
+     Udall (NM)
+     Velazquez
+     Waters
+     Watson
+     Waxman
+     Weiner
+     Wexler
+     Woolsey
+     Yarmuth
+     Young (AK)
+
+                               NOES--351
+
+     Aderholt
+     Akin
+     Allen
+     Altmire
+     Andrews
+     Arcuri
+     Baca
+     Bachmann
+     Bachus
+     Baird
+     Baker
+     Baldwin
+     Barrett (SC)
+     Barrow
+     Bartlett (MD)
+     Barton (TX)
+     Berry
+     Biggert
+     Bilbray
+     Bilirakis
+     Bishop (GA)
+     Bishop (NY)
+     Blackburn
+     Blunt
+     Boehner
+     Bonner
+     Bono
+     Boozman
+     Bordallo
+     Boren
+     Boswell
+     Boucher
+     Boustany
+     Boyd (FL)
+     Boyda (KS)
+     Brady (PA)
+     Brady (TX)
+     Braley (IA)
+     Brown (SC)
+     Brown, Corrine
+     Brown-Waite, Ginny
+     Buchanan
+     Burgess
+     Burton (IN)
+     Butterfield
+     Buyer
+     Calvert
+     Camp (MI)
+     Cantor
+     Capito
+     Capuano
+     Cardoza
+     Carnahan
+     Carney
+     Carson
+     Carter
+     Castle
+     Castor
+     Chabot
+     Clarke
+     Clay
+     Cleaver
+     Clyburn
+     Coble
+     Cole (OK)
+     Conaway
+     Cooper
+     Costa
+     Costello
+     Courtney
+     Cramer
+     Crenshaw
+     Cubin
+     Cuellar
+     Culberson
+     Cummings
+     Davis (AL)
+     Davis (IL)
+     Davis (KY)
+     Davis, David
+     Davis, Lincoln
+     Davis, Tom
+     Deal (GA)
+     DeGette
+     Delahunt
+     Dent
+     Diaz-Balart, L.
+     Dicks
+     Dingell
+     Donnelly
+     Doolittle
+     Doyle
+     Drake
+     Dreier
+     Duncan
+     Edwards
+     Ehlers
+     Ellison
+     Ellsworth
+     Emanuel
+     Emerson
+     English (PA)
+     Etheridge
+     Everett
+     Faleomavaega
+     Fallin
+     Fattah
+     Feeney
+     Ferguson
+     Flake
+     Forbes
+     Fortenberry
+     Fortuno
+     Fossella
+     Foxx
+     Frank (MA)
+     Franks (AZ)
+     Frelinghuysen
+     Garrett (NJ)
+     Gerlach
+     Gilchrest
+     Gillmor
+     Gingrey
+     Gonzalez
+     Goode
+     Goodlatte
+     Gordon
+     Granger
+     Graves
+     Green, Al
+     Green, Gene
+     Gutierrez
+     Hall (TX)
+     Hare
+     Hastert
+     Hastings (FL)
+     Hastings (WA)
+     Hayes
+     Hensarling
+     Herger
+     Herseth Sandlin
+     Higgins
+     Hill
+     Hinchey
+     Hinojosa
+     Hobson
+     Hodes
+     Hoekstra
+     Holden
+     Hooley
+     Hoyer
+     Hulshof
+     Hunter
+     Inglis (SC)
+     Inslee
+     Israel
+     Issa
+     Jefferson
+     Jindal
+     Johnson (GA)
+     Johnson (IL)
+     Johnson, E. B.
+     Johnson, Sam
+     Jones (NC)
+     Jordan
+     Kagen
+     Kanjorski
+     Kaptur
+     Keller
+     Kennedy
+     Kildee
+     Kilpatrick
+     Kind
+     King (IA)
+     King (NY)
+     Kingston
+     Kirk
+     Klein (FL)
+     Kline (MN)
+     Knollenberg
+     Kuhl (NY)
+     LaHood
+     Lamborn
+     Lampson
+     Langevin
+     Larsen (WA)
+     Larson (CT)
+     Latham
+     LaTourette
+     Levin
+     Lewis (CA)
+     Lewis (KY)
+     Linder
+     Lipinski
+     LoBiondo
+     Loebsack
+     Lowey
+     Lucas
+     Lungren, Daniel E.
+     Lynch
+     Mack
+     Mahoney (FL)
+     Maloney (NY)
+     Manzullo
+     Marchant
+     Marshall
+     Matsui
+     McCarthy (CA)
+     McCarthy (NY)
+     McCaul (TX)
+     McCollum (MN)
+     McCrery
+     McHenry
+     McHugh
+     McIntyre
+     McMorris Rodgers
+     McNerney
+     McNulty
+     Meek (FL)
+     Meeks (NY)
+     Melancon
+     Mica
+     Michaud
+     Miller (FL)
+     Miller (MI)
+     Miller (NC)
+     Miller, Gary
+     Mitchell
+     Mollohan
+     Moore (KS)
+     Moore (WI)
+     Moran (KS)
+     Moran (VA)
+     Murphy (CT)
+     Murphy, Patrick
+     Murphy, Tim
+     Murtha
+     Musgrave
+     Myrick
+     Napolitano
+     Neal (MA)
+     Neugebauer
+     Norton
+     Nunes
+     Oberstar
+     Obey
+     Olver
+     Pascrell
+     Pastor
+     Pence
+     Perlmutter
+     Peterson (MN)
+     Peterson (PA)
+     Petri
+     Pickering
+     Pitts
+     Platts
+     Poe
+     Pomeroy
+     Price (GA)
+     Price (NC)
+     Pryce (OH)
+     Putnam
+     Radanovich
+     Rahall
+     Ramstad
+     Rangel
+     Regula
+     Rehberg
+     Reichert
+     Renzi
+     Reyes
+     Reynolds
+     Rogers (KY)
+     Rogers (MI)
+     Rohrabacher
+     Ros-Lehtinen
+     Roskam
+     Ross
+     Roybal-Allard
+     Royce
+     Ruppersberger
+     Rush
+     Ryan (OH)
+     Ryan (WI)
+     Sali
+     Sanchez, Linda T.
+     Sarbanes
+     Saxton
+     Schmidt
+     Schwartz
+     Scott (GA)
+     Scott (VA)
+     Sensenbrenner
+     Serrano
+     Sessions
+     Sestak
+     Shadegg
+     Shays
+     Shimkus
+     Shuler
+     Shuster
+     Simpson
+     Skelton
+     Slaughter
+     Smith (NE)
+     Smith (NJ)
+     Smith (TX)
+     Smith (WA)
+     Snyder
+     Solis
+     Space
+     Spratt
+     Stark
+     Stearns
+     Stupak
+     Sutton
+     Tancredo
+     Tanner
+     Tauscher
+     Taylor
+     Terry
+     Thompson (MS)
+     Thornberry
+     Tiahrt
+     Tiberi
+     Towns
+     Turner
+     Upton
+     Van Hollen
+     Visclosky
+     Walberg
+     Walden (OR)
+     Walsh (NY)
+     Walz (MN)
+     Wamp
+     Wasserman Schultz
+     Watt
+     Welch (VT)
+     Weldon (FL)
+     Weller
+     Westmoreland
+     Whitfield
+     Wicker
+     Wilson (NM)
+     Wilson (OH)
+     Wilson (SC)
+     Wolf
+     Wu
+     Wynn
+     Young (FL)
+
+                             NOT VOTING--6
+
+     Bean
+     Becerra
+     Davis, Jo Ann
+     Diaz-Balart, M.
+     Ortiz
+     Sullivan
+
+                              {time}  1724
+
+  Ms. ROYBALL-ALLARD, Ms. WASSERMAN SCHULTZ and Mrs. CAPITO and Messrs. 
+LARSON of Connecticut, REYNOLDS, BROWN of South Carolina, KILDEE, 
+RUPPERSBERGER, SHULER, WALDEN of Oregon, TOWNS, TOM DAVIS
+
+[[Page 16524]]
+
+of Virginia and ELLISON changed their vote from ``aye'' to ``no.''
+  Ms. LORETTA SANCHEZ of California, Ms. ZOE LOFGREN of California, Ms. 
+ESHOO, Ms. LEE, Mrs. JONES of Ohio and Mrs. CHRISTENSEN and Messrs. 
+THOMPSON of California, PALLONE, ALEXANDER, BERMAN, RODRIGUEZ, 
+GRIJALVA, ENGEL, SIRES, McDERMOTT, JACKSON of Illinois, WEINER, MEEHAN, 
+CONYERS, COHEN, LANTOS and CAMPBELL of California changed their vote 
+from ``no'' to ``aye.''
+  So the amendment was rejected.
+  The result of the vote was announced as above recorded.
+
+
+                  Amendment No. 18 Offered by Ms. Foxx
+
+  The Acting CHAIRMAN. The pending business is the demand for a 
+recorded vote on the amendment offered by the gentlewoman from North 
+Carolina (Ms. Foxx) on which further proceedings were postponed and on 
+which the noes prevailed by voice vote.
+  The Clerk will redesignate the amendment.
+  The Clerk redesignated the amendment.
+
+
+                             Recorded Vote
+
+  The Acting CHAIRMAN. A recorded vote has been demanded.
+  A recorded vote was ordered.
+  The Acting CHAIRMAN. This will be a 2-minute vote.
+  The vote was taken by electronic device, and there were--ayes 134, 
+noes 293, not voting 10, as follows:
+
+                             [Roll No. 517]
+
+                               AYES--134
+
+     Akin
+     Alexander
+     Bachmann
+     Barrett (SC)
+     Bartlett (MD)
+     Bean
+     Bilbray
+     Bilirakis
+     Bishop (UT)
+     Blackburn
+     Boehner
+     Bonner
+     Bono
+     Boozman
+     Brady (TX)
+     Brown-Waite, Ginny
+     Buchanan
+     Burgess
+     Burton (IN)
+     Buyer
+     Camp (MI)
+     Campbell (CA)
+     Cannon
+     Cantor
+     Capito
+     Chabot
+     Coble
+     Conaway
+     Cooper
+     Cubin
+     Culberson
+     Davis (KY)
+     Davis, David
+     Deal (GA)
+     Diaz-Balart, L.
+     Diaz-Balart, M.
+     Drake
+     Dreier
+     Duncan
+     Ellsworth
+     Feeney
+     Flake
+     Forbes
+     Fortuno
+     Fossella
+     Foxx
+     Franks (AZ)
+     Gallegly
+     Garrett (NJ)
+     Gillmor
+     Gingrey
+     Gohmert
+     Goode
+     Goodlatte
+     Graves
+     Hayes
+     Heller
+     Hensarling
+     Herger
+     Hoekstra
+     Hulshof
+     Inglis (SC)
+     Jindal
+     Johnson, Sam
+     Jones (NC)
+     Jordan
+     Keller
+     King (IA)
+     Kingston
+     Kline (MN)
+     Knollenberg
+     Lamborn
+     Lewis (KY)
+     Linder
+     Lungren, Daniel E.
+     Mack
+     Manzullo
+     Marchant
+     Matheson
+     McCarthy (CA)
+     McCaul (TX)
+     McCotter
+     McCrery
+     McHenry
+     McKeon
+     McMorris Rodgers
+     Mica
+     Miller (FL)
+     Miller (MI)
+     Miller, Gary
+     Moran (KS)
+     Musgrave
+     Myrick
+     Neugebauer
+     Nunes
+     Paul
+     Pearce
+     Pence
+     Petri
+     Pickering
+     Pitts
+     Platts
+     Poe
+     Price (GA)
+     Putnam
+     Ramstad
+     Rehberg
+     Reynolds
+     Rogers (AL)
+     Rogers (MI)
+     Rohrabacher
+     Roskam
+     Royce
+     Ryan (WI)
+     Sali
+     Schmidt
+     Sensenbrenner
+     Sessions
+     Shadegg
+     Shimkus
+     Smith (NE)
+     Smith (TX)
+     Stearns
+     Tancredo
+     Terry
+     Tiahrt
+     Upton
+     Walberg
+     Weldon (FL)
+     Weller
+     Westmoreland
+     Whitfield
+     Wilson (SC)
+     Young (FL)
+
+                               NOES--293
+
+     Abercrombie
+     Ackerman
+     Aderholt
+     Allen
+     Altmire
+     Andrews
+     Arcuri
+     Baca
+     Bachus
+     Baird
+     Baker
+     Baldwin
+     Barrow
+     Barton (TX)
+     Berkley
+     Berman
+     Berry
+     Biggert
+     Bishop (GA)
+     Bishop (NY)
+     Blumenauer
+     Bordallo
+     Boren
+     Boswell
+     Boucher
+     Boustany
+     Boyd (FL)
+     Boyda (KS)
+     Brady (PA)
+     Braley (IA)
+     Brown (SC)
+     Brown, Corrine
+     Butterfield
+     Calvert
+     Capps
+     Capuano
+     Cardoza
+     Carnahan
+     Carney
+     Carson
+     Carter
+     Castle
+     Castor
+     Chandler
+     Christensen
+     Clarke
+     Clay
+     Cleaver
+     Clyburn
+     Cohen
+     Cole (OK)
+     Conyers
+     Costa
+     Costello
+     Courtney
+     Cramer
+     Crenshaw
+     Crowley
+     Cuellar
+     Cummings
+     Davis (AL)
+     Davis (CA)
+     Davis (IL)
+     Davis, Lincoln
+     Davis, Tom
+     DeFazio
+     DeGette
+     Delahunt
+     DeLauro
+     Dent
+     Dicks
+     Dingell
+     Doggett
+     Donnelly
+     Doolittle
+     Doyle
+     Edwards
+     Ehlers
+     Ellison
+     Emanuel
+     Emerson
+     Engel
+     English (PA)
+     Eshoo
+     Etheridge
+     Everett
+     Faleomavaega
+     Fallin
+     Farr
+     Fattah
+     Ferguson
+     Filner
+     Fortenberry
+     Frank (MA)
+     Frelinghuysen
+     Gerlach
+     Giffords
+     Gilchrest
+     Gillibrand
+     Gonzalez
+     Gordon
+     Granger
+     Green, Al
+     Green, Gene
+     Grijalva
+     Gutierrez
+     Hall (NY)
+     Hall (TX)
+     Hare
+     Harman
+     Hastert
+     Hastings (FL)
+     Hastings (WA)
+     Herseth Sandlin
+     Higgins
+     Hill
+     Hinchey
+     Hinojosa
+     Hirono
+     Hobson
+     Hodes
+     Holden
+     Holt
+     Honda
+     Hooley
+     Hoyer
+     Hunter
+     Inslee
+     Israel
+     Issa
+     Jackson (IL)
+     Jackson-Lee (TX)
+     Jefferson
+     Johnson (GA)
+     Johnson (IL)
+     Johnson, E. B.
+     Jones (OH)
+     Kagen
+     Kanjorski
+     Kaptur
+     Kennedy
+     Kildee
+     Kilpatrick
+     Kind
+     King (NY)
+     Kirk
+     Klein (FL)
+     Kucinich
+     Kuhl (NY)
+     LaHood
+     Lampson
+     Langevin
+     Lantos
+     Larsen (WA)
+     Larson (CT)
+     Latham
+     LaTourette
+     Lee
+     Levin
+     Lewis (CA)
+     Lewis (GA)
+     Lipinski
+     LoBiondo
+     Loebsack
+     Lofgren, Zoe
+     Lowey
+     Lucas
+     Lynch
+     Mahoney (FL)
+     Maloney (NY)
+     Markey
+     Marshall
+     Matsui
+     McCarthy (NY)
+     McCollum (MN)
+     McDermott
+     McGovern
+     McHugh
+     McIntyre
+     McNerney
+     McNulty
+     Meehan
+     Meek (FL)
+     Meeks (NY)
+     Melancon
+     Michaud
+     Miller (NC)
+     Miller, George
+     Mitchell
+     Mollohan
+     Moore (KS)
+     Moore (WI)
+     Moran (VA)
+     Murphy (CT)
+     Murphy, Patrick
+     Murphy, Tim
+     Murtha
+     Nadler
+     Napolitano
+     Neal (MA)
+     Norton
+     Oberstar
+     Olver
+     Pallone
+     Pascrell
+     Pastor
+     Perlmutter
+     Peterson (MN)
+     Peterson (PA)
+     Pomeroy
+     Porter
+     Price (NC)
+     Pryce (OH)
+     Rahall
+     Rangel
+     Regula
+     Reichert
+     Renzi
+     Reyes
+     Rodriguez
+     Rogers (KY)
+     Ross
+     Rothman
+     Roybal-Allard
+     Ruppersberger
+     Rush
+     Ryan (OH)
+     Salazar
+     Sanchez, Linda T.
+     Sanchez, Loretta
+     Sarbanes
+     Saxton
+     Schakowsky
+     Schiff
+     Schwartz
+     Scott (GA)
+     Scott (VA)
+     Serrano
+     Sestak
+     Shays
+     Shea-Porter
+     Sherman
+     Shuler
+     Simpson
+     Sires
+     Skelton
+     Slaughter
+     Smith (NJ)
+     Smith (WA)
+     Snyder
+     Solis
+     Souder
+     Space
+     Spratt
+     Stark
+     Stupak
+     Sutton
+     Tanner
+     Tauscher
+     Taylor
+     Thompson (CA)
+     Thompson (MS)
+     Thornberry
+     Tiberi
+     Tierney
+     Towns
+     Turner
+     Udall (CO)
+     Udall (NM)
+     Van Hollen
+     Velazquez
+     Visclosky
+     Walden (OR)
+     Walsh (NY)
+     Walz (MN)
+     Wamp
+     Wasserman Schultz
+     Waters
+     Watson
+     Watt
+     Waxman
+     Weiner
+     Welch (VT)
+     Wexler
+     Wicker
+     Wilson (NM)
+     Wilson (OH)
+     Wolf
+     Woolsey
+     Wu
+     Wynn
+     Yarmuth
+     Young (AK)
+
+                             NOT VOTING--10
+
+     Becerra
+     Blunt
+     Davis, Jo Ann
+     Obey
+     Ortiz
+     Payne
+     Radanovich
+     Ros-Lehtinen
+     Shuster
+     Sullivan
+
+
+                  Announcement by the Acting Chairman
+
+  The Acting CHAIRMAN (during the vote). One minute remains in this 
+vote.
+
+                              {time}  1727
+
+  So the amendment was rejected.
+  The result of the vote was announced as above recorded.
+
+
+              Amendment Offered by Mr. Udall of New Mexico
+
+  The Acting CHAIRMAN. The pending business is the demand for a 
+recorded vote on the amendment offered by the gentleman from New Mexico 
+(Mr. Udall) on which further proceedings were postponed and on which 
+the noes prevailed by voice vote.
+  The Clerk will redesignate the amendment.
+  The Clerk redesignated the amendment.
+
+
+                             Recorded Vote
+
+  The Acting CHAIRMAN. A recorded vote has been demanded.
+  A recorded vote was ordered.
+  The Acting CHAIRMAN. This will be a 2-minute vote.
+  The vote was taken by electronic device, and there were--ayes 121, 
+noes 312, not voting 4, as follows:
+
+                             [Roll No. 518]
+
+                               AYES--121
+
+     Aderholt
+     Akin
+     Alexander
+     Andrews
+     Bachmann
+     Baker
+     Barrett (SC)
+     Barrow
+     Bartlett (MD)
+     Berkley
+     Bilirakis
+     Bishop (UT)
+     Blunt
+     Boehner
+     Bono
+     Boozman
+     Boren
+     Boswell
+     Boustany
+     Brady (TX)
+     Burgess
+     Burton (IN)
+     Buyer
+     Cannon
+     Cantor
+     Carter
+     Castle
+     Chabot
+     Chandler
+     Cole (OK)
+     Cubin
+     Davis, David
+     Davis, Lincoln
+     Dent
+     Diaz-Balart, L.
+     Diaz-Balart, M.
+     Duncan
+     Fallin
+     Feeney
+     Filner
+     Flake
+     Fortuno
+     Fossella
+     Foxx
+     Franks (AZ)
+     Garrett (NJ)
+     Gerlach
+     Gilchrest
+     Gillibrand
+     Gillmor
+     Gingrey
+     Gohmert
+     Graves
+     Hall (TX)
+     Heller
+     Hensarling
+     Herger
+     Hoekstra
+     Hulshof
+     Hunter
+     Issa
+     Jindal
+     Jordan
+     Kind
+     King (NY)
+     Kline (MN)
+     Lamborn
+     LaTourette
+     Lewis (CA)
+     Linder
+     Lucas
+     Lungren, Daniel E.
+     Mack
+     Marshall
+     Matheson
+     McCarthy (CA)
+     McCaul (TX)
+     McCollum (MN)
+     McCotter
+     McCrery
+     McHenry
+     Melancon
+     Miller (FL)
+     Miller (MI)
+     Miller, Gary
+     Mitchell
+     Moran (KS)
+     Musgrave
+     Myrick
+     Pearce
+     Pence
+     Peterson (MN)
+     Pickering
+     Pitts
+     Poe
+     Price (GA)
+     Rahall
+     Ramstad
+     Rogers (MI)
+     Roskam
+     Royce
+     Ryan (WI)
+     Salazar
+     Scott (VA)
+     Sessions
+     Shadegg
+     Shays
+     Shimkus
+     Souder
+     Space
+
+[[Page 16525]]
+
+
+     Stearns
+     Tancredo
+     Thompson (CA)
+     Towns
+     Udall (CO)
+     Udall (NM)
+     Walberg
+     Walden (OR)
+     Weller
+     Westmoreland
+     Wilson (NM)
+
+                               NOES--312
+
+     Abercrombie
+     Ackerman
+     Allen
+     Altmire
+     Arcuri
+     Baca
+     Bachus
+     Baird
+     Baldwin
+     Barton (TX)
+     Bean
+     Berman
+     Berry
+     Biggert
+     Bilbray
+     Bishop (GA)
+     Bishop (NY)
+     Blackburn
+     Blumenauer
+     Bonner
+     Bordallo
+     Boucher
+     Boyd (FL)
+     Boyda (KS)
+     Brady (PA)
+     Braley (IA)
+     Brown (SC)
+     Brown, Corrine
+     Brown-Waite, Ginny
+     Buchanan
+     Butterfield
+     Calvert
+     Camp (MI)
+     Campbell (CA)
+     Capito
+     Capps
+     Capuano
+     Cardoza
+     Carnahan
+     Carney
+     Carson
+     Castor
+     Christensen
+     Clarke
+     Clay
+     Cleaver
+     Clyburn
+     Coble
+     Cohen
+     Conaway
+     Conyers
+     Cooper
+     Costa
+     Costello
+     Courtney
+     Cramer
+     Crenshaw
+     Crowley
+     Cuellar
+     Culberson
+     Cummings
+     Davis (AL)
+     Davis (CA)
+     Davis (IL)
+     Davis (KY)
+     Davis, Tom
+     Deal (GA)
+     DeFazio
+     DeGette
+     Delahunt
+     DeLauro
+     Dicks
+     Dingell
+     Doggett
+     Donnelly
+     Doolittle
+     Doyle
+     Drake
+     Dreier
+     Edwards
+     Ehlers
+     Ellison
+     Ellsworth
+     Emanuel
+     Emerson
+     Engel
+     English (PA)
+     Eshoo
+     Etheridge
+     Everett
+     Faleomavaega
+     Farr
+     Fattah
+     Ferguson
+     Forbes
+     Fortenberry
+     Frank (MA)
+     Frelinghuysen
+     Gallegly
+     Giffords
+     Gonzalez
+     Goode
+     Goodlatte
+     Gordon
+     Granger
+     Green, Al
+     Green, Gene
+     Grijalva
+     Gutierrez
+     Hall (NY)
+     Hare
+     Harman
+     Hastert
+     Hastings (FL)
+     Hastings (WA)
+     Hayes
+     Herseth Sandlin
+     Higgins
+     Hill
+     Hinchey
+     Hinojosa
+     Hirono
+     Hobson
+     Hodes
+     Holden
+     Holt
+     Honda
+     Hooley
+     Hoyer
+     Inglis (SC)
+     Inslee
+     Israel
+     Jackson (IL)
+     Jackson-Lee (TX)
+     Jefferson
+     Johnson (GA)
+     Johnson (IL)
+     Johnson, E. B.
+     Johnson, Sam
+     Jones (NC)
+     Jones (OH)
+     Kagen
+     Kanjorski
+     Kaptur
+     Keller
+     Kennedy
+     Kildee
+     Kilpatrick
+     King (IA)
+     Kingston
+     Kirk
+     Klein (FL)
+     Knollenberg
+     Kucinich
+     Kuhl (NY)
+     LaHood
+     Lampson
+     Langevin
+     Lantos
+     Larsen (WA)
+     Larson (CT)
+     Latham
+     Lee
+     Levin
+     Lewis (GA)
+     Lewis (KY)
+     Lipinski
+     LoBiondo
+     Loebsack
+     Lofgren, Zoe
+     Lowey
+     Lynch
+     Mahoney (FL)
+     Maloney (NY)
+     Manzullo
+     Marchant
+     Markey
+     Matsui
+     McCarthy (NY)
+     McDermott
+     McGovern
+     McHugh
+     McIntyre
+     McKeon
+     McMorris Rodgers
+     McNerney
+     McNulty
+     Meehan
+     Meek (FL)
+     Meeks (NY)
+     Mica
+     Michaud
+     Miller (NC)
+     Miller, George
+     Mollohan
+     Moore (KS)
+     Moore (WI)
+     Moran (VA)
+     Murphy (CT)
+     Murphy, Patrick
+     Murphy, Tim
+     Murtha
+     Nadler
+     Napolitano
+     Neal (MA)
+     Neugebauer
+     Norton
+     Nunes
+     Oberstar
+     Obey
+     Olver
+     Pallone
+     Pascrell
+     Pastor
+     Paul
+     Payne
+     Perlmutter
+     Peterson (PA)
+     Petri
+     Platts
+     Pomeroy
+     Porter
+     Price (NC)
+     Pryce (OH)
+     Putnam
+     Radanovich
+     Rangel
+     Regula
+     Rehberg
+     Reichert
+     Renzi
+     Reyes
+     Reynolds
+     Rodriguez
+     Rogers (AL)
+     Rogers (KY)
+     Rohrabacher
+     Ros-Lehtinen
+     Ross
+     Rothman
+     Roybal-Allard
+     Ruppersberger
+     Rush
+     Ryan (OH)
+     Sali
+     Sanchez, Linda T.
+     Sanchez, Loretta
+     Sarbanes
+     Saxton
+     Schakowsky
+     Schiff
+     Schmidt
+     Schwartz
+     Scott (GA)
+     Sensenbrenner
+     Serrano
+     Sestak
+     Shea-Porter
+     Sherman
+     Shuler
+     Shuster
+     Simpson
+     Sires
+     Skelton
+     Slaughter
+     Smith (NE)
+     Smith (NJ)
+     Smith (TX)
+     Smith (WA)
+     Snyder
+     Solis
+     Spratt
+     Stark
+     Stupak
+     Sutton
+     Tanner
+     Tauscher
+     Taylor
+     Terry
+     Thompson (MS)
+     Thornberry
+     Tiahrt
+     Tiberi
+     Tierney
+     Turner
+     Upton
+     Van Hollen
+     Velazquez
+     Visclosky
+     Walsh (NY)
+     Walz (MN)
+     Wamp
+     Wasserman Schultz
+     Waters
+     Watson
+     Watt
+     Waxman
+     Weiner
+     Welch (VT)
+     Weldon (FL)
+     Wexler
+     Whitfield
+     Wicker
+     Wilson (OH)
+     Wilson (SC)
+     Wolf
+     Woolsey
+     Wu
+     Wynn
+     Yarmuth
+     Young (AK)
+     Young (FL)
+
+                             NOT VOTING--4
+
+     Becerra
+     Davis, Jo Ann
+     Ortiz
+     Sullivan
+
+
+                  Announcement by the Acting Chairman
+
+  The Acting CHAIRMAN (during the vote). One minute remains in this 
+vote.
+
+                              {time}  1734
+
+  Messrs. CROWLEY, MOORE of Kansas, THOMPSON of Mississippi, TOM DAVIS 
+of Virginia and Ms. JACKSON-LEE of Texas changed their vote from 
+``aye'' to ``no.''
+  Messrs. BOOZMAN, MARIO DIAZ-BALART of Florida and MORAN of Kansas 
+changed their vote from ``no'' to ``aye.''
+  So the amendment was rejected.
+  The result of the vote was announced as above recorded.
+
+
+               Amendment No. 17 Offered by Mr. Neugebauer
+
+  The Acting CHAIRMAN. The unfinished business is the demand for a 
+recorded vote on the amendment offered by the gentleman from Texas (Mr. 
+Neugebauer) on which further proceedings were postponed and on which 
+the noes prevailed by voice vote.
+  The Clerk will redesignate the amendment.
+  The Clerk redesignated the amendment.
+
+
+                             Recorded Vote
+
+  The Acting CHAIRMAN. A recorded vote has been demanded.
+  A recorded vote was ordered.
+  The Acting CHAIRMAN. This will be a 2-minute vote.
+  The vote was taken by electronic device, and there were--ayes 133, 
+noes 298, not voting 6, as follows:
+
+                             [Roll No. 519]
+
+                               AYES--133
+
+     Akin
+     Alexander
+     Bachmann
+     Baker
+     Barrett (SC)
+     Barton (TX)
+     Bean
+     Bilbray
+     Bilirakis
+     Bishop (UT)
+     Blunt
+     Boehner
+     Bono
+     Boozman
+     Boustany
+     Brady (TX)
+     Brown-Waite, Ginny
+     Buchanan
+     Burgess
+     Burton (IN)
+     Buyer
+     Camp (MI)
+     Campbell (CA)
+     Cannon
+     Cantor
+     Carter
+     Chabot
+     Conaway
+     Cooper
+     Culberson
+     Diaz-Balart, L.
+     Diaz-Balart, M.
+     Doggett
+     Doolittle
+     Dreier
+     Fallin
+     Feeney
+     Flake
+     Fortuno
+     Foxx
+     Franks (AZ)
+     Frelinghuysen
+     Gallegly
+     Garrett (NJ)
+     Gohmert
+     Granger
+     Hall (TX)
+     Hastings (WA)
+     Heller
+     Hensarling
+     Herger
+     Hobson
+     Hoekstra
+     Hulshof
+     Inglis (SC)
+     Issa
+     Jindal
+     Johnson (IL)
+     Johnson, Sam
+     Jones (NC)
+     Jordan
+     Kagen
+     Keller
+     King (IA)
+     Kingston
+     Kirk
+     Kline (MN)
+     Knollenberg
+     Lamborn
+     LoBiondo
+     Lucas
+     Lungren, Daniel E.
+     Mack
+     Manzullo
+     Marchant
+     Matheson
+     McCarthy (CA)
+     McCaul (TX)
+     McCrery
+     McMorris Rodgers
+     Mica
+     Miller (FL)
+     Miller (MI)
+     Miller, Gary
+     Moran (KS)
+     Musgrave
+     Myrick
+     Neugebauer
+     Paul
+     Pearce
+     Pence
+     Petri
+     Pitts
+     Poe
+     Porter
+     Pryce (OH)
+     Putnam
+     Radanovich
+     Ramstad
+     Rehberg
+     Reichert
+     Rogers (MI)
+     Rohrabacher
+     Ros-Lehtinen
+     Roskam
+     Royce
+     Ryan (WI)
+     Sali
+     Saxton
+     Sensenbrenner
+     Sessions
+     Shadegg
+     Shays
+     Shimkus
+     Simpson
+     Smith (NE)
+     Smith (TX)
+     Smith (WA)
+     Souder
+     Stearns
+     Tancredo
+     Terry
+     Thornberry
+     Tiberi
+     Upton
+     Walberg
+     Walden (OR)
+     Weldon (FL)
+     Weller
+     Westmoreland
+     Wilson (NM)
+     Wolf
+     Young (FL)
+
+                               NOES--298
+
+     Abercrombie
+     Ackerman
+     Aderholt
+     Allen
+     Altmire
+     Andrews
+     Arcuri
+     Baca
+     Bachus
+     Baird
+     Baldwin
+     Barrow
+     Bartlett (MD)
+     Berkley
+     Berman
+     Berry
+     Biggert
+     Bishop (GA)
+     Bishop (NY)
+     Blackburn
+     Blumenauer
+     Bonner
+     Bordallo
+     Boren
+     Boswell
+     Boucher
+     Boyd (FL)
+     Boyda (KS)
+     Brady (PA)
+     Braley (IA)
+     Brown (SC)
+     Brown, Corrine
+     Butterfield
+     Calvert
+     Capito
+     Capps
+     Capuano
+     Cardoza
+     Carnahan
+     Carney
+     Carson
+     Castle
+     Castor
+     Chandler
+     Christensen
+     Clarke
+     Clay
+     Cleaver
+     Clyburn
+     Coble
+     Cohen
+     Cole (OK)
+     Conyers
+     Costa
+     Costello
+     Courtney
+     Cramer
+     Crenshaw
+     Crowley
+     Cubin
+     Cuellar
+     Cummings
+     Davis (AL)
+     Davis (CA)
+     Davis (IL)
+     Davis (KY)
+     Davis, David
+     Davis, Lincoln
+     Davis, Tom
+     Deal (GA)
+     DeFazio
+     DeGette
+     Delahunt
+     DeLauro
+     Dent
+     Dicks
+     Dingell
+     Donnelly
+     Doyle
+     Drake
+     Duncan
+     Edwards
+     Ehlers
+     Ellison
+     Ellsworth
+     Emanuel
+     Emerson
+     Engel
+     English (PA)
+     Eshoo
+     Etheridge
+     Everett
+     Faleomavaega
+     Farr
+     Fattah
+     Ferguson
+     Filner
+     Forbes
+     Fortenberry
+     Fossella
+     Frank (MA)
+     Gerlach
+     Giffords
+     Gilchrest
+     Gillibrand
+     Gillmor
+     Gingrey
+     Gonzalez
+     Goode
+     Goodlatte
+     Gordon
+     Graves
+     Green, Al
+     Green, Gene
+     Grijalva
+     Hall (NY)
+     Hare
+     Harman
+     Hastert
+     Hastings (FL)
+     Hayes
+     Herseth Sandlin
+     Higgins
+     Hill
+     Hinchey
+     Hinojosa
+     Hirono
+     Hodes
+     Holden
+     Holt
+     Honda
+     Hooley
+     Hoyer
+     Hunter
+     Inslee
+     Israel
+     Jackson (IL)
+     Jackson-Lee (TX)
+     Jefferson
+     Johnson (GA)
+     Johnson, E. B.
+     Jones (OH)
+     Kanjorski
+     Kaptur
+     Kennedy
+     Kildee
+     Kilpatrick
+     Kind
+     King (NY)
+     Klein (FL)
+     Kucinich
+     Kuhl (NY)
+     LaHood
+     Lampson
+     Langevin
+     Lantos
+     Larson (CT)
+     Latham
+     LaTourette
+     Lee
+     Levin
+     Lewis (CA)
+     Lewis (GA)
+     Lewis (KY)
+     Linder
+     Lipinski
+     Loebsack
+     Lofgren, Zoe
+     Lowey
+     Lynch
+     Mahoney (FL)
+     Maloney (NY)
+     Markey
+     Marshall
+     Matsui
+     McCarthy (NY)
+     McCollum (MN)
+     McCotter
+     McDermott
+     McGovern
+     McHenry
+     McHugh
+     McIntyre
+     McKeon
+     McNerney
+     McNulty
+     Meehan
+     Meek (FL)
+     Meeks (NY)
+     Melancon
+     Michaud
+     Miller (NC)
+     Miller, George
+     Mitchell
+     Mollohan
+     Moore (KS)
+     Moore (WI)
+     Moran (VA)
+     Murphy (CT)
+     Murphy, Patrick
+
+[[Page 16526]]
+
+
+     Murphy, Tim
+     Murtha
+     Nadler
+     Napolitano
+     Neal (MA)
+     Norton
+     Nunes
+     Oberstar
+     Obey
+     Olver
+     Pallone
+     Pascrell
+     Pastor
+     Payne
+     Perlmutter
+     Peterson (MN)
+     Peterson (PA)
+     Pickering
+     Platts
+     Pomeroy
+     Price (GA)
+     Price (NC)
+     Rahall
+     Rangel
+     Regula
+     Renzi
+     Reyes
+     Reynolds
+     Rodriguez
+     Rogers (AL)
+     Rogers (KY)
+     Ross
+     Rothman
+     Roybal-Allard
+     Ruppersberger
+     Rush
+     Ryan (OH)
+     Salazar
+     Sanchez, Linda T.
+     Sanchez, Loretta
+     Sarbanes
+     Schakowsky
+     Schiff
+     Schmidt
+     Schwartz
+     Scott (GA)
+     Scott (VA)
+     Serrano
+     Sestak
+     Shea-Porter
+     Sherman
+     Shuler
+     Shuster
+     Sires
+     Skelton
+     Slaughter
+     Smith (NJ)
+     Snyder
+     Solis
+     Space
+     Spratt
+     Stark
+     Stupak
+     Sutton
+     Tanner
+     Tauscher
+     Taylor
+     Thompson (CA)
+     Thompson (MS)
+     Tiahrt
+     Tierney
+     Towns
+     Turner
+     Udall (CO)
+     Udall (NM)
+     Van Hollen
+     Velazquez
+     Visclosky
+     Walsh (NY)
+     Walz (MN)
+     Wamp
+     Wasserman Schultz
+     Waters
+     Watson
+     Watt
+     Waxman
+     Weiner
+     Welch (VT)
+     Wexler
+     Whitfield
+     Wicker
+     Wilson (OH)
+     Wilson (SC)
+     Woolsey
+     Wu
+     Wynn
+     Yarmuth
+     Young (AK)
+
+                             NOT VOTING--6
+
+     Becerra
+     Davis, Jo Ann
+     Gutierrez
+     Larsen (WA)
+     Ortiz
+     Sullivan
+
+
+                  Announcement by the Acting Chairman
+
+  The Acting CHAIRMAN (during the vote). One minute remains in this 
+vote.
+
+                              {time}  1738
+
+  Mr. PICKERING changed his vote from ``aye'' to ``no.''
+  So the amendment was rejected.
+  The result of the vote was announced as above recorded.
+
+
+                Amendment No. 9 Offered by Mrs. Musgrave
+
+  The Acting CHAIRMAN. The unfinished business is the demand for a 
+recorded vote on the amendment offered by the gentlewoman from Colorado 
+(Mrs. Musgrave) on which further proceedings were postponed and on 
+which the noes prevailed by voice vote.
+  The Clerk will redesignate the amendment.
+  The Clerk redesignated the amendment.
+
+
+                             Recorded Vote
+
+  The Acting CHAIRMAN. A recorded vote has been demanded.
+  A recorded vote was ordered.
+  The Acting CHAIRMAN. This will be a 2-minute vote.
+  The vote was taken by electronic device, and there were--ayes 166, 
+noes 267, not voting 4, as follows:
+
+                             [Roll No. 520]
+
+                               AYES--166
+
+     Aderholt
+     Akin
+     Altmire
+     Bachmann
+     Bachus
+     Barrett (SC)
+     Bartlett (MD)
+     Bean
+     Biggert
+     Bilbray
+     Bilirakis
+     Bishop (UT)
+     Blackburn
+     Blunt
+     Boehner
+     Bonner
+     Bono
+     Boozman
+     Brady (TX)
+     Brown-Waite, Ginny
+     Buchanan
+     Burton (IN)
+     Buyer
+     Calvert
+     Camp (MI)
+     Campbell (CA)
+     Cannon
+     Cantor
+     Capito
+     Castle
+     Chabot
+     Coble
+     Cole (OK)
+     Conaway
+     Cooper
+     Crenshaw
+     Cubin
+     Culberson
+     Davis (KY)
+     Davis, David
+     Davis, Tom
+     Deal (GA)
+     Dent
+     Diaz-Balart, L.
+     Diaz-Balart, M.
+     Donnelly
+     Drake
+     Dreier
+     Duncan
+     Ellsworth
+     Everett
+     Fallin
+     Feeney
+     Flake
+     Forbes
+     Fortenberry
+     Fortuno
+     Fossella
+     Foxx
+     Franks (AZ)
+     Frelinghuysen
+     Garrett (NJ)
+     Gerlach
+     Gillmor
+     Gingrey
+     Gohmert
+     Goode
+     Goodlatte
+     Granger
+     Graves
+     Hall (TX)
+     Hastert
+     Hastings (WA)
+     Hayes
+     Heller
+     Hensarling
+     Herger
+     Hill
+     Hoekstra
+     Hulshof
+     Hunter
+     Inglis (SC)
+     Issa
+     Johnson, Sam
+     Jordan
+     Kagen
+     Keller
+     King (IA)
+     Kingston
+     Kirk
+     Kline (MN)
+     Knollenberg
+     Lamborn
+     Lewis (KY)
+     Linder
+     Lucas
+     Lungren, Daniel E.
+     Mack
+     Manzullo
+     Marchant
+     Matheson
+     McCarthy (CA)
+     McCaul (TX)
+     McCotter
+     McCrery
+     McHenry
+     McKeon
+     McMorris Rodgers
+     Mica
+     Miller (FL)
+     Miller, Gary
+     Mitchell
+     Moran (KS)
+     Murphy, Patrick
+     Musgrave
+     Myrick
+     Neugebauer
+     Nunes
+     Paul
+     Pearce
+     Pence
+     Peterson (PA)
+     Petri
+     Pickering
+     Pitts
+     Platts
+     Poe
+     Price (GA)
+     Putnam
+     Radanovich
+     Ramstad
+     Reynolds
+     Rogers (AL)
+     Rogers (MI)
+     Rohrabacher
+     Roskam
+     Royce
+     Ryan (WI)
+     Sali
+     Schmidt
+     Sensenbrenner
+     Sessions
+     Shadegg
+     Shays
+     Shimkus
+     Shuler
+     Shuster
+     Smith (NE)
+     Smith (TX)
+     Souder
+     Stearns
+     Tancredo
+     Tanner
+     Taylor
+     Terry
+     Thornberry
+     Tiahrt
+     Tiberi
+     Upton
+     Walberg
+     Walden (OR)
+     Weldon (FL)
+     Westmoreland
+     Wilson (SC)
+     Wolf
+     Young (FL)
+
+                               NOES--267
+
+     Abercrombie
+     Ackerman
+     Alexander
+     Allen
+     Andrews
+     Arcuri
+     Baca
+     Baird
+     Baker
+     Baldwin
+     Barrow
+     Barton (TX)
+     Berkley
+     Berman
+     Berry
+     Bishop (GA)
+     Bishop (NY)
+     Blumenauer
+     Bordallo
+     Boren
+     Boswell
+     Boucher
+     Boustany
+     Boyd (FL)
+     Boyda (KS)
+     Brady (PA)
+     Braley (IA)
+     Brown (SC)
+     Brown, Corrine
+     Burgess
+     Butterfield
+     Capps
+     Capuano
+     Cardoza
+     Carnahan
+     Carney
+     Carson
+     Carter
+     Castor
+     Chandler
+     Christensen
+     Clarke
+     Clay
+     Cleaver
+     Clyburn
+     Cohen
+     Conyers
+     Costa
+     Costello
+     Courtney
+     Cramer
+     Crowley
+     Cuellar
+     Cummings
+     Davis (AL)
+     Davis (CA)
+     Davis (IL)
+     Davis, Lincoln
+     DeFazio
+     DeGette
+     Delahunt
+     DeLauro
+     Dicks
+     Dingell
+     Doggett
+     Doolittle
+     Doyle
+     Edwards
+     Ehlers
+     Ellison
+     Emanuel
+     Emerson
+     Engel
+     English (PA)
+     Eshoo
+     Etheridge
+     Faleomavaega
+     Farr
+     Fattah
+     Ferguson
+     Filner
+     Frank (MA)
+     Gallegly
+     Giffords
+     Gilchrest
+     Gillibrand
+     Gonzalez
+     Gordon
+     Green, Al
+     Green, Gene
+     Grijalva
+     Gutierrez
+     Hall (NY)
+     Hare
+     Harman
+     Hastings (FL)
+     Herseth Sandlin
+     Higgins
+     Hinchey
+     Hinojosa
+     Hirono
+     Hobson
+     Hodes
+     Holden
+     Holt
+     Honda
+     Hooley
+     Hoyer
+     Inslee
+     Israel
+     Jackson (IL)
+     Jackson-Lee (TX)
+     Jefferson
+     Jindal
+     Johnson (GA)
+     Johnson (IL)
+     Johnson, E. B.
+     Jones (NC)
+     Jones (OH)
+     Kanjorski
+     Kaptur
+     Kennedy
+     Kildee
+     Kilpatrick
+     Kind
+     King (NY)
+     Klein (FL)
+     Kucinich
+     Kuhl (NY)
+     LaHood
+     Lampson
+     Langevin
+     Lantos
+     Larsen (WA)
+     Larson (CT)
+     Latham
+     LaTourette
+     Lee
+     Levin
+     Lewis (CA)
+     Lewis (GA)
+     Lipinski
+     LoBiondo
+     Loebsack
+     Lofgren, Zoe
+     Lowey
+     Lynch
+     Mahoney (FL)
+     Maloney (NY)
+     Markey
+     Marshall
+     Matsui
+     McCarthy (NY)
+     McCollum (MN)
+     McDermott
+     McGovern
+     McHugh
+     McIntyre
+     McNerney
+     McNulty
+     Meehan
+     Meek (FL)
+     Meeks (NY)
+     Melancon
+     Michaud
+     Miller (MI)
+     Miller (NC)
+     Miller, George
+     Mollohan
+     Moore (KS)
+     Moore (WI)
+     Moran (VA)
+     Murphy (CT)
+     Murphy, Tim
+     Murtha
+     Nadler
+     Napolitano
+     Neal (MA)
+     Norton
+     Oberstar
+     Obey
+     Olver
+     Pallone
+     Pascrell
+     Pastor
+     Payne
+     Perlmutter
+     Peterson (MN)
+     Pomeroy
+     Porter
+     Price (NC)
+     Pryce (OH)
+     Rahall
+     Rangel
+     Regula
+     Rehberg
+     Reichert
+     Renzi
+     Reyes
+     Rodriguez
+     Rogers (KY)
+     Ros-Lehtinen
+     Ross
+     Rothman
+     Roybal-Allard
+     Ruppersberger
+     Rush
+     Ryan (OH)
+     Salazar
+     Sanchez, Linda T.
+     Sanchez, Loretta
+     Sarbanes
+     Saxton
+     Schakowsky
+     Schiff
+     Schwartz
+     Scott (GA)
+     Scott (VA)
+     Serrano
+     Sestak
+     Shea-Porter
+     Sherman
+     Simpson
+     Sires
+     Skelton
+     Slaughter
+     Smith (NJ)
+     Smith (WA)
+     Snyder
+     Solis
+     Space
+     Spratt
+     Stark
+     Stupak
+     Sutton
+     Tauscher
+     Thompson (CA)
+     Thompson (MS)
+     Tierney
+     Towns
+     Turner
+     Udall (CO)
+     Udall (NM)
+     Van Hollen
+     Velazquez
+     Visclosky
+     Walsh (NY)
+     Walz (MN)
+     Wamp
+     Wasserman Schultz
+     Waters
+     Watson
+     Watt
+     Waxman
+     Weiner
+     Welch (VT)
+     Weller
+     Wexler
+     Whitfield
+     Wicker
+     Wilson (NM)
+     Wilson (OH)
+     Woolsey
+     Wu
+     Wynn
+     Yarmuth
+     Young (AK)
+
+                             NOT VOTING--4
+
+     Becerra
+     Davis, Jo Ann
+     Ortiz
+     Sullivan
+
+
+                  Announcement by the Acting Chairman
+
+  The Acting CHAIRMAN (during the vote). One minute remains in this 
+vote.
+
+                              {time}  1743
+
+  Mr. SALI and Mr. HUNTER changed their vote from ``no'' to ``aye.''
+  So the amendment was rejected.
+  The result of the vote was announced as above recorded.
+
+
+           Amendment No. 1 Offered by Mr. Bishop of New York
+
+  The Acting CHAIRMAN. The unfinished business is the demand for a 
+recorded vote on the amendment offered by the gentleman from New York 
+(Mr. Bishop) on which further proceedings were postponed and on which 
+the noes prevailed by voice vote.
+  The Clerk will redesignate the amendment.
+  The Clerk redesignated the amendment.
+
+
+                             Recorded Vote
+
+  The Acting CHAIRMAN. A recorded vote has been demanded.
+  A recorded vote was ordered.
+  The Acting CHAIRMAN. This will be a 2-minute vote.
+  The vote was taken by electronic device, and there were--ayes 146, 
+noes 285, answered ``present'' 1, not voting 5, as follows:
+
+                             [Roll No. 521]
+
+                               AYES--146
+
+     Abercrombie
+     Ackerman
+     Arcuri
+     Baca
+     Baird
+     Baldwin
+     Barrow
+     Berkley
+     Berman
+     Berry
+     Bishop (NY)
+     Boswell
+
+[[Page 16527]]
+
+
+     Brady (PA)
+     Braley (IA)
+     Capps
+     Capuano
+     Cardoza
+     Carney
+     Castor
+     Chandler
+     Christensen
+     Clarke
+     Clay
+     Cleaver
+     Cohen
+     Courtney
+     Davis (CA)
+     DeFazio
+     DeLauro
+     Doggett
+     Donnelly
+     Emanuel
+     Eshoo
+     Etheridge
+     Faleomavaega
+     Farr
+     Filner
+     Frank (MA)
+     Gillibrand
+     Green, Al
+     Grijalva
+     Hall (NY)
+     Hare
+     Harman
+     Herseth Sandlin
+     Higgins
+     Hill
+     Hinchey
+     Hirono
+     Hodes
+     Holt
+     Honda
+     Hoyer
+     Inslee
+     Israel
+     Jackson (IL)
+     Jackson-Lee (TX)
+     Kagen
+     Kennedy
+     Kind
+     Kingston
+     Kucinich
+     Langevin
+     Lantos
+     Larsen (WA)
+     Larson (CT)
+     Lee
+     Levin
+     Lewis (GA)
+     LoBiondo
+     Loebsack
+     Lofgren, Zoe
+     Lowey
+     Lynch
+     Maloney (NY)
+     Markey
+     Matsui
+     McDermott
+     McGovern
+     McNerney
+     McNulty
+     Meehan
+     Meeks (NY)
+     Melancon
+     Miller (NC)
+     Miller, George
+     Mitchell
+     Moore (KS)
+     Moore (WI)
+     Moran (VA)
+     Murphy (CT)
+     Murphy, Patrick
+     Myrick
+     Nadler
+     Napolitano
+     Neal (MA)
+     Olver
+     Pallone
+     Pascrell
+     Payne
+     Perlmutter
+     Peterson (MN)
+     Pomeroy
+     Rodriguez
+     Rothman
+     Roybal-Allard
+     Ruppersberger
+     Sanchez, Linda T.
+     Sanchez, Loretta
+     Sarbanes
+     Schakowsky
+     Schiff
+     Schwartz
+     Scott (VA)
+     Sensenbrenner
+     Sestak
+     Shays
+     Shea-Porter
+     Shuler
+     Sires
+     Skelton
+     Slaughter
+     Smith (NJ)
+     Smith (WA)
+     Solis
+     Space
+     Stark
+     Stupak
+     Sutton
+     Taylor
+     Thompson (CA)
+     Tierney
+     Towns
+     Udall (CO)
+     Velazquez
+     Walz (MN)
+     Wasserman Schultz
+     Watson
+     Waxman
+     Welch (VT)
+     Wexler
+     Wilson (SC)
+     Woolsey
+     Wu
+     Yarmuth
+     Young (FL)
+
+                               NOES--285
+
+     Aderholt
+     Akin
+     Alexander
+     Allen
+     Altmire
+     Andrews
+     Bachmann
+     Bachus
+     Baker
+     Barrett (SC)
+     Bartlett (MD)
+     Barton (TX)
+     Bean
+     Biggert
+     Bilbray
+     Bilirakis
+     Bishop (GA)
+     Bishop (UT)
+     Blackburn
+     Blumenauer
+     Blunt
+     Boehner
+     Bonner
+     Bono
+     Boozman
+     Bordallo
+     Boren
+     Boucher
+     Boustany
+     Boyd (FL)
+     Boyda (KS)
+     Brady (TX)
+     Brown (SC)
+     Brown, Corrine
+     Brown-Waite, Ginny
+     Buchanan
+     Burgess
+     Burton (IN)
+     Butterfield
+     Buyer
+     Calvert
+     Camp (MI)
+     Campbell (CA)
+     Cannon
+     Cantor
+     Capito
+     Carnahan
+     Carson
+     Carter
+     Castle
+     Chabot
+     Clyburn
+     Coble
+     Cole (OK)
+     Conaway
+     Conyers
+     Cooper
+     Costa
+     Costello
+     Cramer
+     Crenshaw
+     Crowley
+     Cubin
+     Cuellar
+     Culberson
+     Cummings
+     Davis (AL)
+     Davis (IL)
+     Davis (KY)
+     Davis, David
+     Davis, Lincoln
+     Davis, Tom
+     Deal (GA)
+     DeGette
+     Delahunt
+     Dent
+     Diaz-Balart, L.
+     Diaz-Balart, M.
+     Dicks
+     Dingell
+     Doolittle
+     Doyle
+     Drake
+     Dreier
+     Duncan
+     Edwards
+     Ehlers
+     Ellison
+     Ellsworth
+     Emerson
+     Engel
+     English (PA)
+     Everett
+     Fallin
+     Fattah
+     Feeney
+     Ferguson
+     Flake
+     Forbes
+     Fortenberry
+     Fortuno
+     Fossella
+     Foxx
+     Franks (AZ)
+     Frelinghuysen
+     Gallegly
+     Garrett (NJ)
+     Gerlach
+     Giffords
+     Gilchrest
+     Gillmor
+     Gingrey
+     Gohmert
+     Gonzalez
+     Goode
+     Goodlatte
+     Gordon
+     Granger
+     Graves
+     Green, Gene
+     Gutierrez
+     Hall (TX)
+     Hastert
+     Hastings (FL)
+     Hastings (WA)
+     Hayes
+     Heller
+     Hensarling
+     Herger
+     Hinojosa
+     Hobson
+     Hoekstra
+     Holden
+     Hooley
+     Hulshof
+     Hunter
+     Inglis (SC)
+     Issa
+     Jefferson
+     Jindal
+     Johnson (GA)
+     Johnson (IL)
+     Johnson, E. B.
+     Johnson, Sam
+     Jones (NC)
+     Jones (OH)
+     Jordan
+     Kanjorski
+     Kaptur
+     Keller
+     Kildee
+     Kilpatrick
+     King (IA)
+     King (NY)
+     Kirk
+     Klein (FL)
+     Kline (MN)
+     Knollenberg
+     Kuhl (NY)
+     LaHood
+     Lamborn
+     Lampson
+     Latham
+     LaTourette
+     Lewis (CA)
+     Lewis (KY)
+     Linder
+     Lipinski
+     Lucas
+     Lungren, Daniel E.
+     Mack
+     Mahoney (FL)
+     Manzullo
+     Marchant
+     Marshall
+     Matheson
+     McCarthy (CA)
+     McCaul (TX)
+     McCollum (MN)
+     McCotter
+     McCrery
+     McHenry
+     McHugh
+     McIntyre
+     McKeon
+     McMorris Rodgers
+     Meek (FL)
+     Mica
+     Michaud
+     Miller (FL)
+     Miller (MI)
+     Miller, Gary
+     Mollohan
+     Moran (KS)
+     Murphy, Tim
+     Murtha
+     Musgrave
+     Neugebauer
+     Norton
+     Nunes
+     Oberstar
+     Obey
+     Pastor
+     Pearce
+     Pence
+     Peterson (PA)
+     Petri
+     Pickering
+     Pitts
+     Platts
+     Poe
+     Porter
+     Price (GA)
+     Price (NC)
+     Pryce (OH)
+     Putnam
+     Radanovich
+     Rahall
+     Ramstad
+     Rangel
+     Regula
+     Rehberg
+     Reichert
+     Renzi
+     Reyes
+     Reynolds
+     Rogers (AL)
+     Rogers (KY)
+     Rogers (MI)
+     Rohrabacher
+     Ros-Lehtinen
+     Roskam
+     Ross
+     Royce
+     Rush
+     Ryan (OH)
+     Ryan (WI)
+     Salazar
+     Sali
+     Saxton
+     Schmidt
+     Scott (GA)
+     Serrano
+     Sessions
+     Shadegg
+     Sherman
+     Shimkus
+     Shuster
+     Simpson
+     Smith (NE)
+     Smith (TX)
+     Snyder
+     Souder
+     Spratt
+     Stearns
+     Tancredo
+     Tanner
+     Tauscher
+     Terry
+     Thompson (MS)
+     Thornberry
+     Tiahrt
+     Tiberi
+     Turner
+     Udall (NM)
+     Upton
+     Van Hollen
+     Visclosky
+     Walberg
+     Walden (OR)
+     Walsh (NY)
+     Wamp
+     Waters
+     Watt
+     Weiner
+     Weldon (FL)
+     Weller
+     Westmoreland
+     Whitfield
+     Wicker
+     Wilson (NM)
+     Wilson (OH)
+     Wolf
+     Wynn
+     Young (AK)
+
+                        ANSWERED ``PRESENT''--1
+
+       
+     McCarthy (NY)
+       
+
+                             NOT VOTING--5
+
+     Becerra
+     Davis, Jo Ann
+     Ortiz
+     Paul
+     Sullivan
+
+
+                  Announcement by the Acting Chairman
+
+  The Acting CHAIRMAN (during the vote). One minute remains in this 
+vote.
+
+                              {time}  1749
+
+  Mr. GRAVES changed his vote from ``aye'' to ``no.''
+  Ms. ZOE LOFGREN of California changed her vote from ``no'' to 
+``aye.''
+  So the amendment was rejected.
+  The result of the vote was announced as above recorded.
+
+
+             Amendment No. 14 Offered by Mr. Jordan of Ohio
+
+  The Acting CHAIRMAN. The unfinished business is the demand for a 
+recorded vote on the amendment offered by the gentleman from Ohio (Mr. 
+Jordan) on which further proceedings were postponed and on which the 
+noes prevailed by voice vote.
+  The Clerk will redesignate the amendment.
+  The Clerk redesignated the amendment.
+
+
+                             Recorded Vote
+
+  The Acting CHAIRMAN. A recorded vote has been demanded.
+  A recorded vote was ordered.
+  The Acting CHAIRMAN. This is a 2-minute vote.
+  The vote was taken by electronic device, and there were--ayes 129, 
+noes 301, not voting 7, as follows:
+
+                             [Roll No. 522]
+
+                               AYES--129
+
+     Akin
+     Bachmann
+     Bachus
+     Barrett (SC)
+     Bartlett (MD)
+     Bilbray
+     Bilirakis
+     Bishop (UT)
+     Blackburn
+     Blunt
+     Boehner
+     Bonner
+     Bono
+     Boozman
+     Brady (TX)
+     Brown-Waite, Ginny
+     Buchanan
+     Burton (IN)
+     Buyer
+     Camp (MI)
+     Campbell (CA)
+     Cannon
+     Cantor
+     Chabot
+     Coble
+     Cole (OK)
+     Conaway
+     Cubin
+     Culberson
+     Davis (KY)
+     Davis, David
+     Davis, Tom
+     Deal (GA)
+     Diaz-Balart, M.
+     Drake
+     Dreier
+     Duncan
+     Everett
+     Fallin
+     Feeney
+     Forbes
+     Fortuno
+     Fossella
+     Foxx
+     Franks (AZ)
+     Gallegly
+     Garrett (NJ)
+     Gohmert
+     Goode
+     Goodlatte
+     Granger
+     Graves
+     Hall (TX)
+     Hastert
+     Hayes
+     Heller
+     Hensarling
+     Herger
+     Hoekstra
+     Hunter
+     Inglis (SC)
+     Issa
+     Johnson, Sam
+     Jordan
+     Kagen
+     Keller
+     King (IA)
+     Kline (MN)
+     Lamborn
+     Lewis (KY)
+     Linder
+     Lucas
+     Lungren, Daniel E.
+     Mack
+     Manzullo
+     Marchant
+     McCarthy (CA)
+     McCaul (TX)
+     McCotter
+     McHenry
+     McKeon
+     McMorris Rodgers
+     Mica
+     Miller (FL)
+     Miller (MI)
+     Miller, Gary
+     Moran (KS)
+     Musgrave
+     Myrick
+     Neugebauer
+     Nunes
+     Pearce
+     Pence
+     Peterson (PA)
+     Petri
+     Pickering
+     Pitts
+     Platts
+     Poe
+     Price (GA)
+     Putnam
+     Radanovich
+     Ramstad
+     Reynolds
+     Rogers (MI)
+     Rohrabacher
+     Roskam
+     Royce
+     Ryan (WI)
+     Sali
+     Schmidt
+     Sensenbrenner
+     Sessions
+     Shadegg
+     Shimkus
+     Shuster
+     Smith (NE)
+     Smith (TX)
+     Souder
+     Stearns
+     Tancredo
+     Terry
+     Tiberi
+     Upton
+     Walberg
+     Walden (OR)
+     Weldon (FL)
+     Westmoreland
+     Wilson (SC)
+
+                               NOES--301
+
+     Abercrombie
+     Ackerman
+     Aderholt
+     Alexander
+     Allen
+     Altmire
+     Andrews
+     Arcuri
+     Baca
+     Baird
+     Baker
+     Baldwin
+     Barrow
+     Barton (TX)
+     Bean
+     Berkley
+     Berman
+     Berry
+     Biggert
+     Bishop (GA)
+     Bishop (NY)
+     Blumenauer
+     Bordallo
+     Boren
+     Boswell
+     Boucher
+     Boustany
+     Boyd (FL)
+     Boyda (KS)
+     Brady (PA)
+     Braley (IA)
+     Brown (SC)
+     Brown, Corrine
+     Burgess
+     Butterfield
+     Calvert
+     Capito
+     Capps
+     Capuano
+     Cardoza
+     Carnahan
+     Carney
+     Carson
+     Carter
+     Castle
+     Castor
+     Chandler
+     Christensen
+     Clarke
+     Clay
+     Cleaver
+     Clyburn
+     Cohen
+     Conyers
+     Cooper
+     Costa
+     Costello
+     Courtney
+     Cramer
+     Crenshaw
+     Crowley
+     Cuellar
+     Cummings
+     Davis (AL)
+     Davis (CA)
+     Davis (IL)
+     Davis, Lincoln
+     DeFazio
+     DeGette
+     Delahunt
+     DeLauro
+     Dent
+     Diaz-Balart, L.
+     Dicks
+     Dingell
+     Doggett
+     Donnelly
+     Doolittle
+     Doyle
+     Edwards
+     Ehlers
+     Ellison
+     Ellsworth
+     Emanuel
+     Emerson
+     Engel
+     English (PA)
+     Eshoo
+     Etheridge
+     Faleomavaega
+     Farr
+     Fattah
+     Ferguson
+     Filner
+     Fortenberry
+     Frank (MA)
+     Frelinghuysen
+     Gerlach
+     Giffords
+     Gilchrest
+     Gillibrand
+     Gillmor
+     Gingrey
+     Gonzalez
+     Gordon
+     Green, Al
+     Green, Gene
+     Grijalva
+     Gutierrez
+     Hall (NY)
+     Hare
+     Harman
+     Hastings (FL)
+     Hastings (WA)
+     Herseth Sandlin
+     Higgins
+     Hill
+     Hinchey
+     Hinojosa
+     Hirono
+     Hobson
+     Hodes
+     Holden
+     Holt
+     Honda
+     Hooley
+
+[[Page 16528]]
+
+
+     Hoyer
+     Hulshof
+     Inslee
+     Israel
+     Jackson (IL)
+     Jackson-Lee (TX)
+     Jefferson
+     Jindal
+     Johnson (GA)
+     Johnson (IL)
+     Johnson, E. B.
+     Jones (NC)
+     Jones (OH)
+     Kanjorski
+     Kaptur
+     Kennedy
+     Kildee
+     Kilpatrick
+     Kind
+     King (NY)
+     Kingston
+     Kirk
+     Klein (FL)
+     Knollenberg
+     Kucinich
+     Kuhl (NY)
+     LaHood
+     Lampson
+     Langevin
+     Lantos
+     Larsen (WA)
+     Larson (CT)
+     Latham
+     LaTourette
+     Lee
+     Levin
+     Lewis (CA)
+     Lewis (GA)
+     Lipinski
+     LoBiondo
+     Loebsack
+     Lofgren, Zoe
+     Lowey
+     Lynch
+     Mahoney (FL)
+     Maloney (NY)
+     Markey
+     Marshall
+     Matheson
+     Matsui
+     McCarthy (NY)
+     McCollum (MN)
+     McDermott
+     McGovern
+     McHugh
+     McIntyre
+     McNerney
+     McNulty
+     Meehan
+     Meek (FL)
+     Meeks (NY)
+     Melancon
+     Michaud
+     Miller (NC)
+     Miller, George
+     Mitchell
+     Mollohan
+     Moore (KS)
+     Moore (WI)
+     Moran (VA)
+     Murphy (CT)
+     Murphy, Patrick
+     Murphy, Tim
+     Murtha
+     Nadler
+     Napolitano
+     Neal (MA)
+     Norton
+     Oberstar
+     Obey
+     Olver
+     Pallone
+     Pascrell
+     Pastor
+     Payne
+     Perlmutter
+     Peterson (MN)
+     Pomeroy
+     Porter
+     Price (NC)
+     Pryce (OH)
+     Rahall
+     Rangel
+     Regula
+     Rehberg
+     Reichert
+     Renzi
+     Reyes
+     Rodriguez
+     Rogers (AL)
+     Rogers (KY)
+     Ros-Lehtinen
+     Ross
+     Rothman
+     Roybal-Allard
+     Ruppersberger
+     Rush
+     Ryan (OH)
+     Salazar
+     Sanchez, Linda T.
+     Sanchez, Loretta
+     Sarbanes
+     Saxton
+     Schakowsky
+     Schiff
+     Schwartz
+     Scott (GA)
+     Scott (VA)
+     Serrano
+     Sestak
+     Shays
+     Shea-Porter
+     Sherman
+     Shuler
+     Simpson
+     Sires
+     Skelton
+     Slaughter
+     Smith (NJ)
+     Smith (WA)
+     Snyder
+     Solis
+     Space
+     Spratt
+     Stark
+     Stupak
+     Sutton
+     Tanner
+     Tauscher
+     Taylor
+     Thompson (CA)
+     Thompson (MS)
+     Thornberry
+     Tiahrt
+     Tierney
+     Towns
+     Turner
+     Udall (CO)
+     Udall (NM)
+     Van Hollen
+     Velazquez
+     Visclosky
+     Walsh (NY)
+     Walz (MN)
+     Wamp
+     Wasserman Schultz
+     Waters
+     Watson
+     Watt
+     Waxman
+     Weiner
+     Welch (VT)
+     Weller
+     Wexler
+     Whitfield
+     Wicker
+     Wilson (NM)
+     Wilson (OH)
+     Wolf
+     Woolsey
+     Wu
+     Wynn
+     Yarmuth
+     Young (AK)
+     Young (FL)
+
+                             NOT VOTING--7
+
+     Becerra
+     Davis, Jo Ann
+     Flake
+     McCrery
+     Ortiz
+     Paul
+     Sullivan
+
+
+                  Announcement by the Acting Chairman
+
+  The Acting CHAIRMAN (during the vote). One minute remains in this 
+vote.
+
+                              {time}  1752
+
+  Mr. MARCHANT changed his vote from ``no'' to ``aye.''
+  So the amendment was rejected.
+  The result of the vote was announced as above recorded.
+
+
+                    Amendment Offered by Mr. Shadegg
+
+  The Acting CHAIRMAN. The unfinished business is the demand for a 
+recorded vote on the amendment offered by the gentleman from Arizona 
+(Mr. Shadegg) on which further proceedings were postponed and on which 
+the noes prevailed by voice vote.
+  The Clerk will redesignate the amendment.
+  The Clerk redesignated the amendment.
+
+
+                             Recorded Vote
+
+  The Acting CHAIRMAN. A recorded vote has been demanded.
+  A recorded vote was ordered.
+  The Acting CHAIRMAN. This is a 2-minute vote.
+  The vote was taken by electronic device, and there were--ayes 157, 
+noes 274, not voting 6, as follows:
+
+                             [Roll No. 523]
+
+                               AYES--157
+
+     Aderholt
+     Akin
+     Alexander
+     Bachmann
+     Baker
+     Barrett (SC)
+     Barton (TX)
+     Bilbray
+     Bilirakis
+     Bishop (UT)
+     Blackburn
+     Blunt
+     Boehner
+     Bonner
+     Bono
+     Boozman
+     Boustany
+     Brady (TX)
+     Brown (SC)
+     Brown-Waite, Ginny
+     Buchanan
+     Burgess
+     Burton (IN)
+     Buyer
+     Calvert
+     Campbell (CA)
+     Cannon
+     Cantor
+     Castle
+     Chabot
+     Coble
+     Cole (OK)
+     Conaway
+     Costa
+     Cubin
+     Culberson
+     Davis (KY)
+     Davis, David
+     Deal (GA)
+     Dent
+     Diaz-Balart, L.
+     Diaz-Balart, M.
+     Doolittle
+     Drake
+     Dreier
+     Fallin
+     Ferguson
+     Flake
+     Forbes
+     Fortuno
+     Fossella
+     Foxx
+     Franks (AZ)
+     Gallegly
+     Garrett (NJ)
+     Giffords
+     Gingrey
+     Gohmert
+     Goode
+     Goodlatte
+     Graves
+     Hall (NY)
+     Hall (TX)
+     Hastert
+     Hastings (WA)
+     Hayes
+     Heller
+     Hensarling
+     Herger
+     Hoekstra
+     Hulshof
+     Hunter
+     Inglis (SC)
+     Issa
+     Jindal
+     Johnson, Sam
+     Jordan
+     Keller
+     King (IA)
+     King (NY)
+     Kingston
+     Kline (MN)
+     Kuhl (NY)
+     Lamborn
+     Lewis (KY)
+     Linder
+     LoBiondo
+     Lucas
+     Mack
+     Manzullo
+     Marchant
+     Matheson
+     McCarthy (CA)
+     McCaul (TX)
+     McCotter
+     McCrery
+     McHenry
+     McKeon
+     McMorris Rodgers
+     Mica
+     Miller (FL)
+     Miller (MI)
+     Miller, Gary
+     Mitchell
+     Moran (KS)
+     Murphy, Tim
+     Musgrave
+     Neugebauer
+     Nunes
+     Pearce
+     Pence
+     Peterson (PA)
+     Pickering
+     Pitts
+     Poe
+     Price (GA)
+     Putnam
+     Radanovich
+     Regula
+     Rehberg
+     Reichert
+     Renzi
+     Reynolds
+     Rogers (AL)
+     Rogers (KY)
+     Rogers (MI)
+     Rohrabacher
+     Roskam
+     Royce
+     Ryan (WI)
+     Sali
+     Saxton
+     Schmidt
+     Sensenbrenner
+     Sessions
+     Shadegg
+     Shimkus
+     Smith (NE)
+     Smith (TX)
+     Souder
+     Stearns
+     Tancredo
+     Terry
+     Thornberry
+     Tiahrt
+     Towns
+     Upton
+     Walberg
+     Walden (OR)
+     Weldon (FL)
+     Westmoreland
+     Whitfield
+     Wilson (NM)
+     Wilson (SC)
+     Wolf
+     Young (AK)
+     Young (FL)
+
+                               NOES--274
+
+     Abercrombie
+     Ackerman
+     Allen
+     Altmire
+     Andrews
+     Arcuri
+     Baca
+     Bachus
+     Baird
+     Baldwin
+     Barrow
+     Bartlett (MD)
+     Bean
+     Berkley
+     Berman
+     Berry
+     Biggert
+     Bishop (GA)
+     Bishop (NY)
+     Blumenauer
+     Bordallo
+     Boren
+     Boswell
+     Boucher
+     Boyd (FL)
+     Boyda (KS)
+     Brady (PA)
+     Braley (IA)
+     Brown, Corrine
+     Butterfield
+     Camp (MI)
+     Capito
+     Capps
+     Capuano
+     Cardoza
+     Carnahan
+     Carney
+     Carson
+     Carter
+     Castor
+     Chandler
+     Christensen
+     Clarke
+     Clay
+     Cleaver
+     Clyburn
+     Cohen
+     Conyers
+     Cooper
+     Costello
+     Courtney
+     Cramer
+     Crenshaw
+     Crowley
+     Cuellar
+     Cummings
+     Davis (AL)
+     Davis (CA)
+     Davis (IL)
+     Davis, Lincoln
+     Davis, Tom
+     DeFazio
+     DeGette
+     Delahunt
+     DeLauro
+     Dicks
+     Dingell
+     Doggett
+     Donnelly
+     Doyle
+     Duncan
+     Edwards
+     Ehlers
+     Ellison
+     Ellsworth
+     Emanuel
+     Emerson
+     Engel
+     English (PA)
+     Eshoo
+     Etheridge
+     Everett
+     Faleomavaega
+     Farr
+     Fattah
+     Filner
+     Fortenberry
+     Frank (MA)
+     Frelinghuysen
+     Gerlach
+     Gilchrest
+     Gillibrand
+     Gillmor
+     Gonzalez
+     Gordon
+     Granger
+     Green, Al
+     Green, Gene
+     Grijalva
+     Gutierrez
+     Hare
+     Harman
+     Hastings (FL)
+     Herseth Sandlin
+     Higgins
+     Hill
+     Hinchey
+     Hinojosa
+     Hirono
+     Hobson
+     Hodes
+     Holden
+     Holt
+     Honda
+     Hooley
+     Hoyer
+     Inslee
+     Israel
+     Jackson (IL)
+     Jackson-Lee (TX)
+     Jefferson
+     Johnson (GA)
+     Johnson (IL)
+     Johnson, E. B.
+     Jones (NC)
+     Jones (OH)
+     Kagen
+     Kanjorski
+     Kaptur
+     Kennedy
+     Kildee
+     Kilpatrick
+     Kind
+     Kirk
+     Klein (FL)
+     Knollenberg
+     Kucinich
+     LaHood
+     Lampson
+     Langevin
+     Lantos
+     Larsen (WA)
+     Larson (CT)
+     Latham
+     LaTourette
+     Lee
+     Levin
+     Lewis (CA)
+     Lewis (GA)
+     Lipinski
+     Loebsack
+     Lofgren, Zoe
+     Lowey
+     Lungren, Daniel E.
+     Lynch
+     Mahoney (FL)
+     Maloney (NY)
+     Markey
+     Marshall
+     Matsui
+     McCarthy (NY)
+     McCollum (MN)
+     McDermott
+     McGovern
+     McHugh
+     McIntyre
+     McNerney
+     McNulty
+     Meehan
+     Meek (FL)
+     Meeks (NY)
+     Melancon
+     Michaud
+     Miller (NC)
+     Miller, George
+     Mollohan
+     Moore (KS)
+     Moore (WI)
+     Moran (VA)
+     Murphy (CT)
+     Murphy, Patrick
+     Murtha
+     Myrick
+     Nadler
+     Napolitano
+     Neal (MA)
+     Norton
+     Oberstar
+     Obey
+     Olver
+     Pallone
+     Pascrell
+     Pastor
+     Payne
+     Perlmutter
+     Peterson (MN)
+     Petri
+     Platts
+     Pomeroy
+     Porter
+     Price (NC)
+     Pryce (OH)
+     Rahall
+     Ramstad
+     Rangel
+     Reyes
+     Rodriguez
+     Ros-Lehtinen
+     Ross
+     Rothman
+     Roybal-Allard
+     Ruppersberger
+     Rush
+     Ryan (OH)
+     Salazar
+     Sanchez, Linda T.
+     Sanchez, Loretta
+     Sarbanes
+     Schakowsky
+     Schiff
+     Schwartz
+     Scott (GA)
+     Scott (VA)
+     Serrano
+     Sestak
+     Shays
+     Shea-Porter
+     Sherman
+     Shuler
+     Shuster
+     Simpson
+     Sires
+     Skelton
+     Slaughter
+     Smith (NJ)
+     Smith (WA)
+     Snyder
+     Solis
+     Space
+     Spratt
+     Stark
+     Stupak
+     Sutton
+     Tanner
+     Tauscher
+     Taylor
+     Thompson (CA)
+     Thompson (MS)
+     Tiberi
+     Tierney
+     Turner
+     Udall (CO)
+     Udall (NM)
+     Van Hollen
+     Velazquez
+     Visclosky
+     Walsh (NY)
+     Walz (MN)
+     Wamp
+     Wasserman Schultz
+     Waters
+     Watson
+     Watt
+     Waxman
+     Weiner
+     Welch (VT)
+     Weller
+     Wexler
+     Wicker
+     Wilson (OH)
+     Woolsey
+     Wu
+     Wynn
+     Yarmuth
+
+                             NOT VOTING--6
+
+     Becerra
+     Davis, Jo Ann
+     Feeney
+     Ortiz
+     Paul
+     Sullivan
+
+
+                  Announcement by the Acting Chairman
+
+  The Acting CHAIRMAN (during the vote). One minute remains on this 
+vote.
+
+                              {time}  1757
+
+  Mrs. MYRICK changed her vote from ``aye'' to ``no.''
+  So the amendment was rejected.
+  The result of the vote was announced as above recorded.
+
+
+            Amendment No. 12 Offered by Mr. Price of Georgia
+
+  The Acting CHAIRMAN. The unfinished business is the demand for a 
+recorded vote on the amendment offered by the gentleman from Georgia 
+(Mr. Price) on which further proceedings were postponed and on which 
+the noes prevailed by voice vote.
+
+[[Page 16529]]
+
+  The Clerk will redesignate the amendment.
+  The Clerk redesignated the amendment.
+
+
+                             Recorded Vote
+
+  The Acting CHAIRMAN. A recorded vote has been demanded.
+  A recorded vote was ordered.
+  The Acting CHAIRMAN. This is a 2-minute vote.
+  The vote was taken by electronic device, and there were--ayes 158, 
+noes 275, not voting 4, as follows:
+
+                             [Roll No. 524]
+
+                               AYES--158
+
+     Aderholt
+     Akin
+     Altmire
+     Bachmann
+     Bachus
+     Barrett (SC)
+     Bartlett (MD)
+     Bean
+     Biggert
+     Bilbray
+     Bilirakis
+     Bishop (UT)
+     Blackburn
+     Blunt
+     Boehner
+     Bonner
+     Bono
+     Boozman
+     Brady (TX)
+     Brown-Waite, Ginny
+     Buchanan
+     Burton (IN)
+     Buyer
+     Calvert
+     Camp (MI)
+     Campbell (CA)
+     Cannon
+     Cantor
+     Capito
+     Castle
+     Chabot
+     Coble
+     Cole (OK)
+     Conaway
+     Cubin
+     Culberson
+     Davis (KY)
+     Davis, David
+     Deal (GA)
+     Dent
+     Diaz-Balart, L.
+     Diaz-Balart, M.
+     Donnelly
+     Drake
+     Dreier
+     Duncan
+     Everett
+     Fallin
+     Feeney
+     Flake
+     Forbes
+     Fortuno
+     Fossella
+     Foxx
+     Franks (AZ)
+     Frelinghuysen
+     Gallegly
+     Garrett (NJ)
+     Gerlach
+     Gillmor
+     Gingrey
+     Gohmert
+     Goode
+     Goodlatte
+     Granger
+     Graves
+     Hall (TX)
+     Hastings (WA)
+     Hayes
+     Heller
+     Hensarling
+     Herger
+     Hoekstra
+     Hulshof
+     Inglis (SC)
+     Issa
+     Johnson, Sam
+     Jordan
+     Kagen
+     Keller
+     King (IA)
+     Kingston
+     Kirk
+     Kline (MN)
+     Lamborn
+     Lewis (KY)
+     Linder
+     Lucas
+     Lungren, Daniel E.
+     Mack
+     Manzullo
+     Marchant
+     Matheson
+     McCarthy (CA)
+     McCaul (TX)
+     McCotter
+     McCrery
+     McHenry
+     McKeon
+     McMorris Rodgers
+     Mica
+     Miller (FL)
+     Miller (MI)
+     Miller, Gary
+     Mitchell
+     Moran (KS)
+     Murphy, Patrick
+     Musgrave
+     Myrick
+     Neugebauer
+     Nunes
+     Paul
+     Pearce
+     Pence
+     Peterson (PA)
+     Petri
+     Pickering
+     Pitts
+     Platts
+     Poe
+     Price (GA)
+     Putnam
+     Radanovich
+     Ramstad
+     Reynolds
+     Rogers (AL)
+     Rogers (MI)
+     Rohrabacher
+     Roskam
+     Royce
+     Ryan (WI)
+     Sali
+     Schmidt
+     Sensenbrenner
+     Sessions
+     Shadegg
+     Shays
+     Shimkus
+     Shuler
+     Shuster
+     Smith (NE)
+     Smith (TX)
+     Souder
+     Stearns
+     Tancredo
+     Tanner
+     Taylor
+     Terry
+     Thornberry
+     Tiberi
+     Upton
+     Walberg
+     Walden (OR)
+     Weldon (FL)
+     Westmoreland
+     Wicker
+     Wilson (SC)
+     Young (FL)
+
+                               NOES--275
+
+     Abercrombie
+     Ackerman
+     Alexander
+     Allen
+     Andrews
+     Arcuri
+     Baca
+     Baird
+     Baker
+     Baldwin
+     Barrow
+     Barton (TX)
+     Berkley
+     Berman
+     Berry
+     Bishop (GA)
+     Bishop (NY)
+     Blumenauer
+     Bordallo
+     Boren
+     Boswell
+     Boucher
+     Boustany
+     Boyd (FL)
+     Boyda (KS)
+     Brady (PA)
+     Braley (IA)
+     Brown (SC)
+     Brown, Corrine
+     Burgess
+     Butterfield
+     Capps
+     Capuano
+     Cardoza
+     Carnahan
+     Carney
+     Carson
+     Carter
+     Castor
+     Chandler
+     Christensen
+     Clarke
+     Clay
+     Cleaver
+     Clyburn
+     Cohen
+     Conyers
+     Cooper
+     Costa
+     Costello
+     Courtney
+     Cramer
+     Crenshaw
+     Crowley
+     Cuellar
+     Cummings
+     Davis (AL)
+     Davis (CA)
+     Davis (IL)
+     Davis, Lincoln
+     Davis, Tom
+     DeFazio
+     DeGette
+     Delahunt
+     DeLauro
+     Dicks
+     Dingell
+     Doggett
+     Doolittle
+     Doyle
+     Edwards
+     Ehlers
+     Ellison
+     Ellsworth
+     Emanuel
+     Emerson
+     Engel
+     English (PA)
+     Eshoo
+     Etheridge
+     Faleomavaega
+     Farr
+     Fattah
+     Ferguson
+     Filner
+     Fortenberry
+     Frank (MA)
+     Giffords
+     Gilchrest
+     Gillibrand
+     Gonzalez
+     Gordon
+     Green, Al
+     Green, Gene
+     Grijalva
+     Gutierrez
+     Hall (NY)
+     Hare
+     Harman
+     Hastert
+     Hastings (FL)
+     Herseth Sandlin
+     Higgins
+     Hill
+     Hinchey
+     Hinojosa
+     Hirono
+     Hobson
+     Hodes
+     Holden
+     Holt
+     Honda
+     Hooley
+     Hoyer
+     Hunter
+     Inslee
+     Israel
+     Jackson (IL)
+     Jackson-Lee (TX)
+     Jefferson
+     Jindal
+     Johnson (GA)
+     Johnson (IL)
+     Johnson, E. B.
+     Jones (NC)
+     Jones (OH)
+     Kanjorski
+     Kaptur
+     Kennedy
+     Kildee
+     Kilpatrick
+     Kind
+     King (NY)
+     Klein (FL)
+     Knollenberg
+     Kucinich
+     Kuhl (NY)
+     LaHood
+     Lampson
+     Langevin
+     Lantos
+     Larsen (WA)
+     Larson (CT)
+     Latham
+     LaTourette
+     Lee
+     Levin
+     Lewis (CA)
+     Lewis (GA)
+     Lipinski
+     LoBiondo
+     Loebsack
+     Lofgren, Zoe
+     Lowey
+     Lynch
+     Mahoney (FL)
+     Maloney (NY)
+     Markey
+     Marshall
+     Matsui
+     McCarthy (NY)
+     McCollum (MN)
+     McDermott
+     McGovern
+     McHugh
+     McIntyre
+     McNerney
+     McNulty
+     Meehan
+     Meek (FL)
+     Meeks (NY)
+     Melancon
+     Michaud
+     Miller (NC)
+     Miller, George
+     Mollohan
+     Moore (KS)
+     Moore (WI)
+     Moran (VA)
+     Murphy (CT)
+     Murphy, Tim
+     Murtha
+     Nadler
+     Napolitano
+     Neal (MA)
+     Norton
+     Oberstar
+     Obey
+     Olver
+     Pallone
+     Pascrell
+     Pastor
+     Payne
+     Perlmutter
+     Peterson (MN)
+     Pomeroy
+     Porter
+     Price (NC)
+     Pryce (OH)
+     Rahall
+     Rangel
+     Regula
+     Rehberg
+     Reichert
+     Renzi
+     Reyes
+     Rodriguez
+     Rogers (KY)
+     Ros-Lehtinen
+     Ross
+     Rothman
+     Roybal-Allard
+     Ruppersberger
+     Rush
+     Ryan (OH)
+     Salazar
+     Sanchez, Linda T.
+     Sanchez, Loretta
+     Sarbanes
+     Saxton
+     Schakowsky
+     Schiff
+     Schwartz
+     Scott (GA)
+     Scott (VA)
+     Serrano
+     Sestak
+     Shea-Porter
+     Sherman
+     Simpson
+     Sires
+     Skelton
+     Slaughter
+     Smith (NJ)
+     Smith (WA)
+     Snyder
+     Solis
+     Space
+     Spratt
+     Stark
+     Stupak
+     Sutton
+     Tauscher
+     Thompson (CA)
+     Thompson (MS)
+     Tiahrt
+     Tierney
+     Towns
+     Turner
+     Udall (CO)
+     Udall (NM)
+     Van Hollen
+     Velazquez
+     Visclosky
+     Walsh (NY)
+     Walz (MN)
+     Wamp
+     Wasserman Schultz
+     Waters
+     Watson
+     Watt
+     Waxman
+     Weiner
+     Welch (VT)
+     Weller
+     Wexler
+     Whitfield
+     Wilson (NM)
+     Wilson (OH)
+     Wolf
+     Woolsey
+     Wu
+     Wynn
+     Yarmuth
+     Young (AK)
+
+                             NOT VOTING--4
+
+     Becerra
+     Davis, Jo Ann
+     Ortiz
+     Sullivan
+
+
+                  Announcement by the Acting Chairman
+
+  The Acting CHAIRMAN (during the vote). One minute remains in this 
+vote.
+
+                              {time}  1801
+
+  So the amendment was rejected.
+  The result of the vote was announced as above recorded.
+
+
+        Amendment No. 15 Offered by Mr. Wilson of South Carolina
+
+  The Acting CHAIRMAN. The unfinished business is the demand for a 
+recorded vote on the amendment offered by the gentleman from South 
+Carolina (Mr. Wilson) on which further proceedings were postponed and 
+on which the noes prevailed by voice vote.
+  The Clerk will redesignate the amendment.
+  The Clerk redesignated the amendment.
+
+
+                             Recorded Vote
+
+  The Acting CHAIRMAN. A recorded vote has been demanded.
+  A recorded vote was ordered.
+  The Acting CHAIRMAN. This is a 2-minute vote.
+  The vote was taken by electronic device, and there were--ayes 138, 
+noes 295, not voting 4, as follows:
+
+                             [Roll No. 525]
+
+                               AYES--138
+
+     Aderholt
+     Akin
+     Bachmann
+     Barrett (SC)
+     Bartlett (MD)
+     Bilbray
+     Bilirakis
+     Bishop (UT)
+     Blackburn
+     Blunt
+     Boehner
+     Bonner
+     Bono
+     Boozman
+     Brady (TX)
+     Brown (SC)
+     Brown-Waite, Ginny
+     Buchanan
+     Burton (IN)
+     Buyer
+     Camp (MI)
+     Campbell (CA)
+     Cannon
+     Cantor
+     Capito
+     Carter
+     Castle
+     Chabot
+     Coble
+     Cole (OK)
+     Conaway
+     Cubin
+     Culberson
+     Davis (KY)
+     Davis, David
+     Davis, Tom
+     Deal (GA)
+     Diaz-Balart, L.
+     Diaz-Balart, M.
+     Drake
+     Dreier
+     Duncan
+     Everett
+     Fallin
+     Feeney
+     Flake
+     Forbes
+     Fortuno
+     Fossella
+     Foxx
+     Franks (AZ)
+     Gallegly
+     Garrett (NJ)
+     Gohmert
+     Goode
+     Goodlatte
+     Granger
+     Graves
+     Hall (TX)
+     Hayes
+     Heller
+     Hensarling
+     Herger
+     Hoekstra
+     Hunter
+     Inglis (SC)
+     Issa
+     Johnson, Sam
+     Jordan
+     Kagen
+     Keller
+     King (IA)
+     Kline (MN)
+     Knollenberg
+     Lamborn
+     Lewis (KY)
+     Linder
+     Lucas
+     Lungren, Daniel E.
+     Mack
+     Manzullo
+     Marchant
+     McCarthy (CA)
+     McCaul (TX)
+     McCotter
+     McCrery
+     McHenry
+     McKeon
+     McMorris Rodgers
+     Mica
+     Miller (FL)
+     Miller (MI)
+     Miller, Gary
+     Moran (KS)
+     Musgrave
+     Myrick
+     Neugebauer
+     Nunes
+     Paul
+     Pearce
+     Pence
+     Peterson (PA)
+     Petri
+     Pickering
+     Pitts
+     Platts
+     Poe
+     Price (GA)
+     Putnam
+     Radanovich
+     Ramstad
+     Reynolds
+     Rogers (KY)
+     Rogers (MI)
+     Rohrabacher
+     Roskam
+     Royce
+     Ryan (WI)
+     Sali
+     Schmidt
+     Sensenbrenner
+     Sessions
+     Shadegg
+     Shimkus
+     Shuster
+     Smith (NE)
+     Smith (TX)
+     Souder
+     Stearns
+     Tancredo
+     Terry
+     Thornberry
+     Upton
+     Walberg
+     Walden (OR)
+     Weldon (FL)
+     Westmoreland
+     Wilson (SC)
+
+                               NOES--295
+
+     Abercrombie
+     Ackerman
+     Alexander
+     Allen
+     Altmire
+     Andrews
+     Arcuri
+     Baca
+     Bachus
+     Baird
+     Baker
+     Baldwin
+     Barrow
+     Barton (TX)
+     Bean
+     Berkley
+     Berman
+     Berry
+     Biggert
+     Bishop (GA)
+     Bishop (NY)
+     Blumenauer
+     Bordallo
+     Boren
+     Boswell
+     Boucher
+     Boustany
+     Boyd (FL)
+     Boyda (KS)
+     Brady (PA)
+     Braley (IA)
+     Brown, Corrine
+     Burgess
+     Butterfield
+     Calvert
+     Capps
+     Capuano
+     Cardoza
+     Carnahan
+     Carney
+     Carson
+     Castor
+     Chandler
+     Christensen
+     Clarke
+     Clay
+     Cleaver
+     Clyburn
+     Cohen
+     Conyers
+     Cooper
+     Costa
+     Costello
+     Courtney
+     Cramer
+     Crenshaw
+     Crowley
+     Cuellar
+     Cummings
+     Davis (AL)
+     Davis (CA)
+     Davis (IL)
+     Davis, Lincoln
+     DeFazio
+     DeGette
+     Delahunt
+
+[[Page 16530]]
+
+
+     DeLauro
+     Dent
+     Dicks
+     Dingell
+     Doggett
+     Donnelly
+     Doolittle
+     Doyle
+     Edwards
+     Ehlers
+     Ellison
+     Ellsworth
+     Emanuel
+     Emerson
+     Engel
+     English (PA)
+     Eshoo
+     Etheridge
+     Faleomavaega
+     Farr
+     Fattah
+     Ferguson
+     Filner
+     Fortenberry
+     Frank (MA)
+     Frelinghuysen
+     Gerlach
+     Giffords
+     Gilchrest
+     Gillibrand
+     Gillmor
+     Gingrey
+     Gonzalez
+     Gordon
+     Green, Al
+     Green, Gene
+     Grijalva
+     Gutierrez
+     Hall (NY)
+     Hare
+     Harman
+     Hastert
+     Hastings (FL)
+     Hastings (WA)
+     Herseth Sandlin
+     Higgins
+     Hill
+     Hinchey
+     Hinojosa
+     Hirono
+     Hobson
+     Hodes
+     Holden
+     Holt
+     Honda
+     Hooley
+     Hoyer
+     Hulshof
+     Inslee
+     Israel
+     Jackson (IL)
+     Jackson-Lee (TX)
+     Jefferson
+     Jindal
+     Johnson (GA)
+     Johnson (IL)
+     Johnson, E. B.
+     Jones (NC)
+     Jones (OH)
+     Kanjorski
+     Kaptur
+     Kennedy
+     Kildee
+     Kilpatrick
+     Kind
+     King (NY)
+     Kingston
+     Kirk
+     Klein (FL)
+     Kucinich
+     Kuhl (NY)
+     LaHood
+     Lampson
+     Langevin
+     Lantos
+     Larsen (WA)
+     Larson (CT)
+     Latham
+     LaTourette
+     Lee
+     Levin
+     Lewis (CA)
+     Lewis (GA)
+     Lipinski
+     LoBiondo
+     Loebsack
+     Lofgren, Zoe
+     Lowey
+     Lynch
+     Mahoney (FL)
+     Maloney (NY)
+     Markey
+     Marshall
+     Matheson
+     Matsui
+     McCarthy (NY)
+     McCollum (MN)
+     McDermott
+     McGovern
+     McHugh
+     McIntyre
+     McNerney
+     McNulty
+     Meehan
+     Meek (FL)
+     Meeks (NY)
+     Melancon
+     Michaud
+     Miller (NC)
+     Miller, George
+     Mitchell
+     Mollohan
+     Moore (KS)
+     Moore (WI)
+     Moran (VA)
+     Murphy (CT)
+     Murphy, Patrick
+     Murphy, Tim
+     Murtha
+     Nadler
+     Napolitano
+     Neal (MA)
+     Norton
+     Oberstar
+     Obey
+     Olver
+     Pallone
+     Pascrell
+     Pastor
+     Payne
+     Perlmutter
+     Peterson (MN)
+     Pomeroy
+     Porter
+     Price (NC)
+     Pryce (OH)
+     Rahall
+     Rangel
+     Regula
+     Rehberg
+     Reichert
+     Renzi
+     Reyes
+     Rodriguez
+     Rogers (AL)
+     Ros-Lehtinen
+     Ross
+     Rothman
+     Roybal-Allard
+     Ruppersberger
+     Rush
+     Ryan (OH)
+     Salazar
+     Sanchez, Linda T.
+     Sanchez, Loretta
+     Sarbanes
+     Saxton
+     Schakowsky
+     Schiff
+     Schwartz
+     Scott (GA)
+     Scott (VA)
+     Serrano
+     Sestak
+     Shays
+     Shea-Porter
+     Sherman
+     Shuler
+     Simpson
+     Sires
+     Skelton
+     Slaughter
+     Smith (NJ)
+     Smith (WA)
+     Snyder
+     Solis
+     Space
+     Spratt
+     Stark
+     Stupak
+     Sutton
+     Tanner
+     Tauscher
+     Taylor
+     Thompson (CA)
+     Thompson (MS)
+     Tiahrt
+     Tiberi
+     Tierney
+     Towns
+     Turner
+     Udall (CO)
+     Udall (NM)
+     Van Hollen
+     Velazquez
+     Visclosky
+     Walsh (NY)
+     Walz (MN)
+     Wamp
+     Wasserman Schultz
+     Waters
+     Watson
+     Watt
+     Waxman
+     Weiner
+     Welch (VT)
+     Weller
+     Wexler
+     Whitfield
+     Wicker
+     Wilson (NM)
+     Wilson (OH)
+     Wolf
+     Woolsey
+     Wu
+     Wynn
+     Yarmuth
+     Young (AK)
+     Young (FL)
+
+                             NOT VOTING--4
+
+     Becerra
+     Davis, Jo Ann
+     Ortiz
+     Sullivan
+
+
+                  Announcement by the Acting Chairman
+
+  The Acting CHAIRMAN (during the vote). There is 1 minute remaining in 
+this vote.
+
+                              {time}  1806
+
+  So the amendment was rejected.
+  The result of the vote was announced as above recorded.
+
+
+                    Amendment Offered by Mr. Hinchey
+
+  The Acting CHAIRMAN. The unfinished business is the demand for a 
+recorded vote on the amendment offered by the gentleman from New York 
+(Mr. Hinchey) on which further proceedings were postponed and on which 
+the noes prevailed by voice vote.
+  The Clerk will redesignate the amendment.
+  The Clerk redesignated the amendment.
+
+
+                             Recorded Vote
+
+  The Acting CHAIRMAN. A recorded vote has been demanded.
+  A recorded vote was ordered.
+  The Acting CHAIRMAN. This will be a 2-minute vote.
+  The vote was taken by electronic device, and there were--ayes 174, 
+noes 257, not voting 6, as follows:
+
+                             [Roll No. 526]
+
+                               AYES--174
+
+     Ackerman
+     Allen
+     Andrews
+     Arcuri
+     Baird
+     Baldwin
+     Berman
+     Bishop (NY)
+     Blumenauer
+     Boswell
+     Brady (PA)
+     Capito
+     Capps
+     Capuano
+     Carney
+     Carson
+     Castle
+     Castor
+     Chandler
+     Christensen
+     Clarke
+     Clay
+     Cleaver
+     Cohen
+     Conyers
+     Courtney
+     Cummings
+     Davis (CA)
+     Davis, Tom
+     DeFazio
+     DeGette
+     Delahunt
+     DeLauro
+     Dicks
+     Doggett
+     Donnelly
+     Drake
+     Ellison
+     Emanuel
+     Engel
+     Eshoo
+     Etheridge
+     Farr
+     Fattah
+     Ferguson
+     Filner
+     Forbes
+     Fortuno
+     Frelinghuysen
+     Garrett (NJ)
+     Gerlach
+     Giffords
+     Gilchrest
+     Gillibrand
+     Gonzalez
+     Green, Al
+     Grijalva
+     Gutierrez
+     Hall (NY)
+     Hastings (FL)
+     Higgins
+     Hinchey
+     Hirono
+     Hodes
+     Holden
+     Holt
+     Hooley
+     Hoyer
+     Israel
+     Jackson (IL)
+     Jackson-Lee (TX)
+     Johnson (GA)
+     Jones (NC)
+     Kagen
+     Kanjorski
+     Kaptur
+     Kennedy
+     Kind
+     Kirk
+     Kucinich
+     Kuhl (NY)
+     Langevin
+     Larson (CT)
+     LaTourette
+     Lee
+     Levin
+     Lewis (GA)
+     Lipinski
+     LoBiondo
+     Loebsack
+     Lofgren, Zoe
+     Lowey
+     Mahoney (FL)
+     Maloney (NY)
+     Marshall
+     Matsui
+     McCarthy (NY)
+     McCollum (MN)
+     McCotter
+     McDermott
+     McGovern
+     McHugh
+     McNerney
+     McNulty
+     Meehan
+     Meek (FL)
+     Meeks (NY)
+     Michaud
+     Miller (NC)
+     Miller, George
+     Mitchell
+     Moore (WI)
+     Moran (VA)
+     Murphy (CT)
+     Murphy, Patrick
+     Murphy, Tim
+     Murtha
+     Musgrave
+     Nadler
+     Napolitano
+     Neal (MA)
+     Oberstar
+     Obey
+     Olver
+     Pallone
+     Pascrell
+     Pastor
+     Paul
+     Payne
+     Perlmutter
+     Petri
+     Pitts
+     Platts
+     Porter
+     Price (NC)
+     Ramstad
+     Reichert
+     Rodriguez
+     Rothman
+     Sarbanes
+     Saxton
+     Schakowsky
+     Schwartz
+     Scott (VA)
+     Sestak
+     Shays
+     Shea-Porter
+     Shuler
+     Sires
+     Slaughter
+     Smith (NJ)
+     Solis
+     Spratt
+     Stark
+     Stupak
+     Tanner
+     Tauscher
+     Taylor
+     Thompson (CA)
+     Thompson (MS)
+     Tierney
+     Udall (CO)
+     Udall (NM)
+     Van Hollen
+     Walsh (NY)
+     Wasserman Schultz
+     Waters
+     Waxman
+     Welch (VT)
+     Wolf
+     Woolsey
+     Wu
+     Wynn
+     Yarmuth
+
+                               NOES--257
+
+     Abercrombie
+     Aderholt
+     Akin
+     Alexander
+     Altmire
+     Baca
+     Bachmann
+     Bachus
+     Baker
+     Barrett (SC)
+     Barrow
+     Bartlett (MD)
+     Barton (TX)
+     Bean
+     Berkley
+     Berry
+     Biggert
+     Bilbray
+     Bilirakis
+     Bishop (GA)
+     Bishop (UT)
+     Blackburn
+     Blunt
+     Boehner
+     Bonner
+     Bono
+     Boozman
+     Bordallo
+     Boren
+     Boucher
+     Boustany
+     Boyd (FL)
+     Boyda (KS)
+     Brady (TX)
+     Braley (IA)
+     Brown (SC)
+     Brown, Corrine
+     Brown-Waite, Ginny
+     Buchanan
+     Burgess
+     Burton (IN)
+     Butterfield
+     Buyer
+     Calvert
+     Camp (MI)
+     Campbell (CA)
+     Cannon
+     Cantor
+     Cardoza
+     Carnahan
+     Carter
+     Chabot
+     Clyburn
+     Coble
+     Cole (OK)
+     Conaway
+     Cooper
+     Costa
+     Costello
+     Cramer
+     Crenshaw
+     Crowley
+     Cubin
+     Cuellar
+     Culberson
+     Davis (AL)
+     Davis (IL)
+     Davis (KY)
+     Davis, David
+     Davis, Lincoln
+     Deal (GA)
+     Dent
+     Diaz-Balart, M.
+     Dingell
+     Doolittle
+     Doyle
+     Dreier
+     Duncan
+     Edwards
+     Ehlers
+     Ellsworth
+     Emerson
+     English (PA)
+     Everett
+     Faleomavaega
+     Fallin
+     Feeney
+     Flake
+     Fortenberry
+     Fossella
+     Foxx
+     Frank (MA)
+     Franks (AZ)
+     Gallegly
+     Gillmor
+     Gingrey
+     Gohmert
+     Goode
+     Goodlatte
+     Gordon
+     Granger
+     Graves
+     Green, Gene
+     Hall (TX)
+     Hare
+     Harman
+     Hastert
+     Hastings (WA)
+     Hayes
+     Heller
+     Hensarling
+     Herger
+     Herseth Sandlin
+     Hill
+     Hinojosa
+     Hobson
+     Hoekstra
+     Honda
+     Hulshof
+     Hunter
+     Inglis (SC)
+     Inslee
+     Issa
+     Jefferson
+     Jindal
+     Johnson (IL)
+     Johnson, E. B.
+     Johnson, Sam
+     Jordan
+     Keller
+     Kildee
+     Kilpatrick
+     King (IA)
+     King (NY)
+     Kingston
+     Klein (FL)
+     Kline (MN)
+     Knollenberg
+     LaHood
+     Lamborn
+     Lampson
+     Lantos
+     Larsen (WA)
+     Latham
+     Lewis (CA)
+     Lewis (KY)
+     Linder
+     Lucas
+     Lungren, Daniel E.
+     Lynch
+     Mack
+     Manzullo
+     Marchant
+     Markey
+     Matheson
+     McCarthy (CA)
+     McCaul (TX)
+     McCrery
+     McHenry
+     McIntyre
+     McKeon
+     McMorris Rodgers
+     Melancon
+     Mica
+     Miller (FL)
+     Miller (MI)
+     Miller, Gary
+     Mollohan
+     Moore (KS)
+     Moran (KS)
+     Myrick
+     Neugebauer
+     Norton
+     Nunes
+     Pearce
+     Pence
+     Peterson (MN)
+     Peterson (PA)
+     Pickering
+     Poe
+     Pomeroy
+     Price (GA)
+     Pryce (OH)
+     Putnam
+     Radanovich
+     Rahall
+     Rangel
+     Regula
+     Rehberg
+     Renzi
+     Reyes
+     Reynolds
+     Rogers (AL)
+     Rogers (KY)
+     Rogers (MI)
+     Rohrabacher
+     Ros-Lehtinen
+     Roskam
+     Ross
+     Roybal-Allard
+     Royce
+     Ruppersberger
+     Rush
+     Ryan (OH)
+     Ryan (WI)
+     Salazar
+     Sali
+     Sanchez, Linda T.
+     Sanchez, Loretta
+     Schiff
+     Schmidt
+     Scott (GA)
+     Sensenbrenner
+     Serrano
+     Sessions
+     Shadegg
+     Sherman
+     Shimkus
+     Shuster
+     Simpson
+     Skelton
+     Smith (NE)
+     Smith (TX)
+     Smith (WA)
+     Snyder
+     Souder
+     Space
+     Stearns
+     Sutton
+     Tancredo
+     Terry
+     Thornberry
+     Tiahrt
+     Tiberi
+     Towns
+     Turner
+     Upton
+     Velazquez
+     Visclosky
+     Walberg
+     Walden (OR)
+     Walz (MN)
+     Wamp
+     Watson
+     Watt
+     Weiner
+     Weldon (FL)
+     Weller
+     Westmoreland
+     Wexler
+     Whitfield
+     Wicker
+     Wilson (NM)
+     Wilson (OH)
+     Wilson (SC)
+     Young (AK)
+     Young (FL)
+
+                             NOT VOTING--6
+
+     Becerra
+     Davis, Jo Ann
+     Diaz-Balart, L.
+     Jones (OH)
+     Ortiz
+     Sullivan
+
+
+                  Announcement by the Acting Chairman
+
+  The Acting CHAIRMAN (during the vote). There is 1 minute remaining in 
+this vote.
+
+[[Page 16531]]
+
+
+
+                              {time}  1810
+
+  Mr. GUTIERREZ changed his vote from ``no'' to ``aye.''
+  So the amendment was rejected.
+  The result of the vote was announced as above recorded.
+  Ms. JACKSON-LEE of Texas. Mr. Chairman, I rise to speak in strong 
+support of H.R. 2641, the ``Energy and Water Appropriations Act of 
+2007.'' I also rise to express my sincere appreciation to Mr. 
+Visclosky, the chairman of the Energy and Water Subcommittee and his 
+Ranking Member, Mr. Hobson of Ohio, for working together in a 
+constructive effort to renew America's dependence on foreign oil and 
+cutting greenhouse gas emissions.
+  Moreover, this bill merits our support because it increases the 
+Nation's commitment to long-term basic research by increasing the 
+Federal investment that is so critical to developing the next 
+generation of scientific breakthroughs. Federal funding for research 
+and development has declined steadily over the last decade, and sound 
+science has been compromised by political interference. This 
+legislation takes a giant step toward reversing this disturbing trend.
+  Mr. Chairman, in the 1970s, our Nation faced an energy crisis unlike 
+any we had ever experienced before. The OPEC oil embargo of 1973 led to 
+skyrocketing prices, long gas lines, gas sales only every other day, 
+and shortages where gas was simply unavailable. We experienced another 
+oil shock in the late 1970s and under the leadership of President Jimmy 
+Carter, America responded with unprecedented initiatives for energy 
+research. But over the years, gas prices came down, incentive was lost, 
+and these efforts fell by the wayside.
+  Today, we again face an energy crisis, only this time it is coupled 
+with the enormous challenge of addressing the reality of global climate 
+change. H.R. 2641 attempts to face these twin crises with over three 
+billion dollars to address global climate change--researching its 
+effects and working on technologies to slow it down--and investment in 
+renewable energy programs that both reduce greenhouse gases and help 
+our Nation meet its energy needs.
+  The bill cuts funding for poorly thought-out plans for nuclear 
+weapons recognizing that because of the enormous cost and the 
+importance to our national security they require smart strategies not 
+blank checks. Instead it works to keep Americans safe with a 75 percent 
+increase in funding for nuclear non-proliferation efforts. It also 
+funds the Army Corps of Engineers, strengthening our Nation's 
+navigation infrastructure and improving flood control programs.
+  Before I highlight some of the more attractive provisions of this 
+legislation, which by the way contains no earmarks, let me explain 
+briefly why this energy and water legislation is so near and dear to 
+the people I represent in the 18th Congressional District of Texas.
+  In the past 2 years, Houston, the center of my district, has 
+experienced some of the most devastating acts of nature in its history.
+  Six years ago this month, in June 2001, Tropical Storm Allison hit 
+Southeast Texas. Until Hurricane Katrina, this storm would become the 
+costliest tropical storm in U.S. history. Flash flooding initiated 
+quite rapidly during Houston's rush hour late Friday afternoon and on 
+into the evening hours. Widespread street flooding was the initial 
+threat, but the high rainfall amounts forced almost all the major 
+Houston area bayou systems into severe flooding, with some to record 
+levels. All major freeways in the Houston area were severely flooded at 
+at least one location during this event. During this single event 
+alone, rainfall in Harris County ranged from just 2 inches in the 
+extreme west to in excess of 20 inches over Green's Bayou in the east. 
+Countywide, the average rainfall was 8 inches with over two-thirds of 
+the county receiving over 10 inches.
+  The total damage across Southeast Texas approached $5 billion ($4.88 
+billion in Harris County alone). Twenty-two deaths were caused by 
+Allison, with each of these fatalities occurred in Harris County. At 
+this time, thunderstorms began to train and merge across the Houston 
+metro area, and the system evolved into a powerful complex right over 
+the most populated portion of our CWA that evening. This complex 
+progressed south and east into the early morning hours of Saturday, 
+June 9. Very heavy rainfall was observed for up to 10 hours in some 
+locations, and rainfall rates of 4 inches or more per hour were 
+observed throughout the night. A station in northeast Houston recorded 
+over 26 inches of rain in almost 10 hours.
+  In response, the Tropical Storm Allison Recovery Project was 
+launched. TSARP is a joint study effort by the Federal Emergency 
+Management Agency, FEMA, and the Harris County Flood Control District, 
+the District. The purpose of the TSARP project is to develop technical 
+products that will assist the local community in recovery from the 
+devastating flooding, and provide the community with a greater 
+understanding of flooding and flood risks. The end product of the study 
+is new Flood Insurance Rate Maps.
+  TSARP mission statement is: To assist residents of Harris County in 
+recovery from Tropical Storm Allison and minimize damages from future 
+floods by investigating the flood event and by developing current, 
+accurate, and timely flood hazard information.
+  TSARP used state-of-the-art technology. TSARP has yielded many 
+products that will help us better understand our flood risk. These 
+products will assist citizens in making important decisions, and will 
+assist public agencies in infrastructure planning. The hoped for end 
+result of TSARP is a more informed and disaster resistant community and 
+one that is better prepared.
+  Purchasing flood insurance before June 18 allowed people to 
+``grandfather'' their existing floodplain status and pay lower premiums 
+for flood insurance. Once the maps became official on June 18, 
+residents and business owners whose properties are categorized in 
+higher-risk flood zones on the new maps may pay higher rates.
+  According to FEMA, a ``Regulatory Floodway'' means the channel of a 
+river or other watercourse and the adjacent land areas that must be 
+reserved in order to discharge the base flood without cumulatively 
+increasing the water surface elevation more than a designated height. 
+Communities must regulate development in these floodways to ensure that 
+there are no increases in upstream flood elevations. For streams and 
+other watercourses where FEMA has provided Base Flood Elevations, BFEs, 
+but no floodway has been designated, the community must review 
+floodplain development on a case-by-case basis to ensure that increases 
+in water surface elevations do not occur, or identify the need to adopt 
+a floodway if adequate information is available.
+  FEMA regulations say ``Communities must regulate development in these 
+floodways to ensure that there are no increases in upstream flood 
+elevations.'' The City of Houston interprets that as no development 
+within the floodway. This is not necessarily correct. Construction can 
+take place but it cannot obstruct the water. Elevating the structure 
+gets the same effect but the city denies this as they said (debris may 
+collect under the structure). They will only allow a remodeling permit 
+if the improvements do not exceed 50 percent of the structures value.
+  There is one neighborhood along White Oak Bayou that is greatly 
+affected. The homes are of higher value than most of the district. 
+Alternatives to resolve their issue includes widening the bayou or 
+diverting floodwater.
+  The Harris County Flood District is now investigating these 
+alternatives. Otherwise, the only solution would be a change in the 
+city's ordinance allowing construction in the floodway.
+  I am looking forward to working with colleagues on the Energy and 
+Water Appropriations Subcommittee to explore ways and means of 
+resolving this problem so that Houstonians will not be forced out of 
+their homes and unable to afford flood insurance.
+  Mr. Chairman, let me provide this partial listing of some of the many 
+good provisions in this legislation. First, H.R. 2641 will improve U.S. 
+waterways and flood protection by increasing funding for the Army Corps 
+of Engineers by $713.4 million above the President's request to address 
+a $1 billion backlog of operations and needed maintenance. This backlog 
+needs to be addressed to sustain the coastal and inland navigation 
+infrastructure critical to the U.S. economy, and the gaps in flood 
+protection highlighted in Hurricane Katrina.
+  Second, the legislation will help reduce dependence on foreign oil 
+and cut greenhouse gas emissions. Renewable energy and energy 
+efficiency programs are funded at $1.9 billion--a 50 percent increase 
+in energy efficiency and renewable energy programs. This is in addition 
+to the additional $300 million added in the FY 2007 joint resolution. 
+In contrast, the President's FY 2008 request for renewable energy and 
+energy efficiency research is the same as it was in 2001 in real terms.
+  Funding for research and development of alternative fuels such as 
+corn based and cellulosic ethanol and biodiesel is increased by 40 
+percent above the President's request. Solar Energy demonstration 
+projects receive a 34 percent increase above the President's request. 
+There is also $22 million to research new ways of generating power from 
+water flow, and $44.3 million for geothermal energy,
+
+[[Page 16532]]
+
+neither of which were funded in the President's request. (This is on 
+top of the $95 million for upgrades to existing hydropower dams funded 
+under the Army Corps.)
+  I could go on and on. This thoughtful legislation provides funding to 
+invest in new vehicle technology; energy efficient buildings; 
+weatherization; carbon capture and sequestration; and climate change 
+science. And it cuts wasteful spending as well.
+  For example, H.R. 2641 directs the Energy Department to develop a 
+concrete plan to improve its contract management. The Energy Department 
+has been on the GAO list of programs that are at high-risk for waste, 
+fraud, abuse and mismanagement for seventeen years in a row.
+  The bill also cuts Global Nuclear Energy Partnership, GNEP, funding 
+by $285 million below the President's request and $47.5 million below 
+2007 for this initiative to reprocess spent nuclear fuel and burn long-
+lived radioactive materials. There are concerns that this project is 
+unsafe, will cost tens of billions of dollars, and could make it far 
+easier for terrorists to obtain plutonium to make nuclear weapons.
+  The bill also secures substantial savings by cutting wasteful and 
+unnecessary nuclear weapons programs by $5.9 billion, $632 million 
+below the President's request and $396 million below 2007. It cuts to 
+37 specific weapons program accounts, including the Reliable 
+Replacement Warhead program. The existing stockpile will continue to 
+provide the Nation's nuclear deterrent for the next two decades, and 
+certainly until the President develops a strategic nuclear weapons plan 
+to transform the nuclear weapons complex away from its expensive Cold 
+War configuration to a more affordable, sustainable structure.
+  Mr. Chairman, I strongly support H.R. 2641 and urge my colleagues to 
+join me. I thank Chairman Visclosky for his fine work in bringing this 
+exceptional legislation to the House floor where it should receive an 
+overwhelmingly favorable vote.
+  Ms. CASTOR. Mr. Chairman, the Energy and Water Appropriations bill 
+charts an important new direction for improved public health and a 
+cleaner environment throughout America. The bill also makes important 
+new investments in renewable energy as we must reduce our dependence on 
+foreign oil and cut greenhouse gas emissions. We must rapidly expand 
+the production of clean, alternative fuels and increase energy 
+efficiency. Our country has lost momentum due to the Bush-Cheney White 
+House's inaction on global warming and energy independence. The new 
+Congress will change course today.
+  A healthy and clean environment and renewable energy solutions are 
+vital to the State of Florida and the Tampa Bay area. In my Tampa Bay 
+area district, we are working to increase energy efficiency through 
+organizations like the Clean Energy Research Center at the University 
+of South Florida. My recent Tampa energy forum ``Turning Green for the 
+Red, White and Blue'' drew great community interest. Our neighbors now 
+are focusing on commonsense conservation initiatives. Nevertheless, 
+leadership at the Federal level is vital.
+  The Energy and Water Appropriations bill invests $3 billion in global 
+climate change science and in renewable energy technologies that both 
+reduce greenhouse gases and help our Nation meet its energy needs. 
+Additionally, this bill will provide a 50 percent increase into 
+research on energy efficiency and renewable energy, including solar, 
+biofuels, hydropower, and geothermal, as well as new vehicle technology 
+and energy efficient buildings and homes. Solar energy holds great 
+promise for Floridians and I strongly support the new investment of 
+$200 million for research, development and demonstration projects to 
+make solar energy more affordable.
+  On the first day of the new Congress, the House passed legislation to 
+repeal $14 billion in taxpayer subsidies given to Big Oil companies 
+that are earning record profits while we pay record profits at the 
+pump. Those monies now will be channeled into clean alternative energy 
+technologies and energy efficiency. Doing so enhances our national 
+security as our country will lessen its foreign entanglements with 
+questionable, petrocentric nations.
+  Climate change is potentially the greatest threat to our national 
+security and prosperity. Energy independence is vital to our future. I 
+urge the Congress to act swiftly for the sake of my community and all 
+Americans.
+  Mr. HOLT. Mr. Chairman, I rise today in strong support of H.R. 2641, 
+the Energy and Water and Related Agencies Appropriations Bill for 
+Fiscal Year 2008. I would like to thank Chairman Visclosky and the 
+Energy and Water Subcommittee for drafting a bill that clearly defines 
+what our Nation's priorities should be in promoting and developing 
+sustainable energy sources as well as taking a firm approach to dealing 
+with our Nation's nuclear weapons complex.
+  This Energy and Water Appropriations bill is making two very 
+important statements. The first relates to our Nation's energy path and 
+climate change. I believe this bill starts to direct us to where we 
+should be--which is on a sustainable energy course. By increasing the 
+investment we are making to sustainable energy sources, we are making a 
+commitment to developing an energy plan that promotes renewable energy, 
+promotes efficiency and promotes conservation.
+  Last year, I criticized the Energy and Water bill for continuing the 
+status quo and for not putting us on a path for a sustainable energy 
+future. Today, the bill we are considering is vastly different. We have 
+increased by 52 percent over the President's budget for energy 
+efficiency and renewable energy programs. This funding is used for 
+energy efficiency programs such as technologies to make buildings more 
+efficient and programs like EnergyStar. This bill also provides 
+significant funding for alternative energy sources such as biomass, 
+solar, and hydropower. These are the technologies of the near future 
+and we must make the investment now.
+  Equally important is the public policy statement that this bill makes 
+about nuclear nonproliferation and how we as a Nation bring rationality 
+to our own nuclear weapons complex. Last year Congress approved a 
+nuclear cooperation agreement with India. That deal, I believe, created 
+a more dangerous and unstable world. We spoke at great length about the 
+details of this cooperative agreement. We spoke at great length about 
+how good a friend India is to us. We talked about the so-called reality 
+of an imperfect ability to control the militarization of nuclear 
+reactions. I said last year during that debate, that if we really 
+believe that nuclear proliferation and loose nukes are the greatest 
+threat to world peace and security, as I do, then we should be holding 
+on to every tool we can find to prevent that threat.
+  That is why I am pleased that this bill sends a clear message about 
+how we view our nuclear weapons complex. I believe that instead of 
+wasting billions of additional dollars on a nuclear weapons program we 
+don't need and that would only undermine our global nonproliferation 
+efforts, our country should be dismantling its excess nuclear weapons 
+and working to get other nuclear powers to join us in the effort to 
+create a world free of nuclear weapons. Equally important, our country 
+should be expanding its effort to secure loose or inadequately 
+safeguarded nuclear materials in the former Soviet states. Securing 
+these materials is our best insurance policy against terrorists getting 
+their hands on such material and using it against us or our allies. For 
+these reasons, I am pleased that the Energy and Water bill cuts the 
+Department of Energy's portion of the RRW program. We must set a global 
+example, and this is a start on moving us towards global 
+nonproliferation.
+  Also, by way of my background as a scientist and researcher at the 
+Princeton Plasma Physics Lab, I understand how essential it is to fully 
+invest in programs like the Fusion Energy Sciences Program. I applaud 
+the $427.9 million investment in this program. Never has a national 
+commitment to fusion energy research been more timely or important to 
+our Nation's energy future than it is right now. Fusion energy is the 
+power of the sun and the stars, and holds the promise to become an 
+economical, safe and clean domestic energy source. Fusion is an energy 
+source that has the potential to increase our national energy security, 
+while also decreasing overall world carbon dioxide emissions. I am glad 
+to see that the Committee has decided to honor our Nation's commitment 
+to ITER, which is a seven nation fusion program being developed 
+currently in Cadarache, France, by allocating $160 million in funding. 
+The remaining $267.9 million will allow the United States to be 
+competitive in the development and deployment of fusion energy and to 
+train and retrain the next generation of young fusion researchers who 
+will be expected to work on ITER and in the field of fusion energy 
+research beyond ITER.
+  This is a good start for an energy appropriations bill. I thank the 
+Chairman for his cooperation and leadership on this bill and I urge my 
+colleagues to support it.
+  Mr. CAMP of Michigan. Mr. Chairman, I rise today in support of a 
+project that deserves the support of every member of this House. The 
+Great Lakes Energy Research Park, which is to be located in the heart 
+of the district I represent, will be the first Integrated Gasification 
+Combined-Cycle facility in the world to co-produce (1) over 728 Mw of 
+electric power and (2) permanently sequester over 3.8 million tons per 
+year of carbon dioxide which will ultimately recover over 180 million 
+barrels of stranded oil. Let me repeat that--180 million barrels of 
+stranded oil. I'm not talking about new drilling in environmentally 
+sensitive areas
+
+[[Page 16533]]
+
+and I'm not talking about opening up new wells. I am talking about 
+finally tapping much needed resources that yesterday's technology 
+simply could not drive out of the ground. Additionally, it is important 
+to note that this bed of oil reserves is located in the geographic 
+center of Michigan--not in the Great Lakes, and far from Hurricane 
+Alley, where most of our crude wells lie. As we learned from Katrina, 
+geographic diversity is as an important topic in the energy debate as 
+is alternative energies. So, as we discuss utilizing new technologies, 
+clean technologies to solve our dependence on foreign crude, we would 
+be foolish to ignore the types of technology being put in place in 
+Alma, Michigan.
+  This project, however, is about much more than recovering stranded 
+oil. This facility is designed in such a way to virtually utilize every 
+byproduct of energy production. With this type of forward thinking it 
+is no wonder that the project has received support from a wide variety 
+of local community groups, institutions, citizens and organizations. 
+Included among the list of proponents are the City of Alma, Michigan, 
+Firstbank of Alma, Michigan, the Gratiot Medical Center, Alma College, 
+the Gratiot County Board of Commissioners and the Gratiot Area Chamber 
+of Commerce.
+  Mr. Chairman, as American families and businesses grapple with rising 
+energy costs, the Great Lakes Energy Research Park can be a part of the 
+solution. I urge my colleagues to join me in supporting this unique 
+effort to produce more energy here in America.
+  Mr. VISCLOSKY. Mr. Chairman, I move that the Committee do now rise.
+  The motion was agreed to.
+  Accordingly, the Committee rose; and the Speaker pro tempore (Mr. 
+Altmire) having assumed the chair, Mr. Andrews, Acting Chairman of the 
+Committee of the Whole House on the state of the Union, reported that 
+that Committee, having had under consideration the bill (H.R. 2641) 
+making appropriations for energy and water development and related 
+agencies for the fiscal year ending September 30, 2008, and for other 
+purposes, had come to no resolution thereon.
+
+                          ____________________
+```

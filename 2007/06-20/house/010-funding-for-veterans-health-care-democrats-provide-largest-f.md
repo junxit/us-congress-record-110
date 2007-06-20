@@ -1,0 +1,36 @@
+---
+granule: CRECB-2007-pt12-Pg16473
+date: 2007-06-20
+edition: CRECB
+section: HOUSE
+page: 16473
+---
+
+# FUNDING FOR VETERANS HEALTH CARE, DEMOCRATS PROVIDE LARGEST FUNDING INCREASE EVER
+
+```
+  FUNDING FOR VETERANS HEALTH CARE, DEMOCRATS PROVIDE LARGEST FUNDING 
+                             INCREASE EVER
+
+  (Mr. GRIJALVA asked and was given permission to address the House for 
+1 minute.)
+  Mr. GRIJALVA. Mr. Speaker, many of our soldiers returning from 
+service in Iraq and Afghanistan suffer from a loss of limb or other 
+serious wounds. Our VA and military hospitals have state-of-the-art 
+facilities to treat these wounds and to help our soldiers make a 
+recovery that they need and deserve.
+  But the same is not true for those soldiers who return from combat 
+suffering from post-traumatic stress syndrome. A Washington Post series 
+chronicled the struggles faced by many of our soldiers seeking 
+psychological assistance and support from our medical facilities and 
+from the VA. The Post writers concluded that Walter Reed lacks 
+sufficient psychiatrists and clinicians to properly treat the growing 
+numbers of soldiers returning with combat stress.
+  I am proud to say help is on the way. The historic VA funding which 
+passed the House last week provides 600 million more than the President 
+requested to treat PTSD and finally, finally, begin to address a 
+disturbing problem. Let us not repeat the mistake we have made with our 
+Vietnam veterans and begin to help our veterans now.
+
+                          ____________________
+```
