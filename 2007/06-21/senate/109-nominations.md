@@ -1,0 +1,83 @@
+---
+granule: CREC-2007-06-21-pt1-PgS8271-4
+date: 2007-06-21
+edition: CREC
+section: SENATE
+page: S8271
+citation: 153 Cong. Rec. S8271
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate June 21, 2007:
+
+
+                         department of defense
+
+       JOHN J. YOUNG, JR., OF VIRGINIA, TO BE UNDER SECRETARY OF 
+     DEFENSE FOR ACQUISITION, TECHNOLOGY, AND LOGISTICS, VICE 
+     KENNETH J. KRIEG.
+
+
+                   federal communications commission
+
+       DEBORAH TAYLOR TATE, OF TENNESSEE, TO BE A MEMBER OF THE 
+     FEDERAL COMMUNICATIONS COMMISSION FOR A TERM OF FIVE YEARS 
+     FROM JULY 1, 2007. (REAPPOINTMENT)
+
+
+               metropolitan washington airports authority
+
+       ROBERT CLARKE BROWN, OF OHIO, TO BE A MEMBER OF THE BOARD 
+     OF DIRECTORS OF THE METROPOLITAN WASHINGTON AIRPORTS 
+     AUTHORITY FOR A TERM EXPIRING NOVEMBER 22, 2011. 
+     (REAPPOINTMENT)
+
+
+                          department of energy
+
+       CLARENCE H. ALBRIGHT, OF SOUTH CAROLINA, TO BE UNDER 
+     SECRETARY OF ENERGY, VICE DAVID GARMAN, RESIGNED.
+
+
+                          department of state
+
+       RONALD K. MC MULLEN, OF IOWA, A CAREER MEMBER OF THE SENIOR 
+     FOREIGN SERVICE, CLASS OF COUNSELOR, TO BE AMBASSADOR 
+     EXTRAORDINARY AND PLENIPOTENTIARY OF THE UNITED STATES OF 
+     AMERICA TO THE STATE OF ERITREA.
+
+
+                            in the air force
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT AS THE VICE 
+     CHIEF OF STAFF, UNITED STATES AIR FORCE, AND APPOINTMENT TO 
+     THE GRADE INDICATED WHILE ASSIGNED TO A POSITION OF 
+     IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, U.S.C., 
+     SECTIONS 8034 AND 601:
+
+                             To be general
+
+Gen. Duncan J. Mc Nabb, 0000
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES AIR FORCE TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                             To be general
+
+Lt. Gen. Arthur J. Lichte, 0000
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES AIR FORCE TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                             To be general
+
+Gen. John D.W. Corley, 0000
+```
