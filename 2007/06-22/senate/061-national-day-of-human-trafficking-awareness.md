@@ -1,0 +1,105 @@
+---
+granule: CREC-2007-06-22-pt1-PgS8311-3
+date: 2007-06-22
+edition: CREC
+section: SENATE
+page: S8311
+citation: 153 Cong. Rec. S8311
+---
+
+# NATIONAL DAY OF HUMAN TRAFFICKING AWARENESS
+
+**Speaking:** Reid, Harry (R000146) [D-NV]
+
+**Measures:** S.Con.Res. 40
+
+```
+              NATIONAL DAY OF HUMAN TRAFFICKING AWARENESS
+
+  Mr. REID. Mr. President, I ask unanimous consent that the Senate now 
+proceed to the consideration of a concurrent resolution submitted 
+earlier today.
+  The PRESIDING OFFICER. The clerk will report the concurrent 
+resolution by title.
+  The bill clerk read as follows:
+
+       A concurrent resolution (S. Con. Res. 40) supporting the 
+     goals and ideals of observing the National Day of Human 
+     Trafficking Awareness on January 11 of each year to raise 
+     awareness of and opposition to human trafficking.
+
+  There being no objection, the Senate proceeded to consider the 
+concurrent resolution.
+  Mr. REID. Mr. President, I ask unanimous consent that the concurrent 
+resolution be agreed to, the preamble be agreed to, and the motion to 
+reconsider be laid upon the table; that any statements in the Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The concurrent resolution (S. Con. Res. 40) was agreed to.
+  The preamble was agreed to.
+  The concurrent resolution, with its preamble, reads as follows:
+
+                            S. Con. Res. 40
+
+       Whereas the United States has a tradition of advancing 
+     fundamental human rights;
+       Whereas because the people of the United States remain 
+     committed to protecting individual freedom, there is a 
+     national imperative to eliminate human trafficking, including 
+     early or forced marriage, commercial sexual exploitation, 
+     forced labor, labor obtained through debt bondage, 
+     involuntary servitude, slavery, and slavery by descent;
+       Whereas to combat human trafficking in the United States 
+     and globally, the people of the United States and the Federal 
+     Government, including local and State governments, must be 
+     aware of the realities of human trafficking and must be 
+     dedicated to stopping this contemporary manifestation of 
+     slavery;
+       Whereas beyond all differences of race, creed, or political 
+     persuasion, the people of the United States face national 
+     threats together and refuse to let human trafficking
+
+[[Page S8312]]
+
+     exist in the United States and around the world;
+       Whereas the United States should actively oppose all 
+     individuals, groups, organizations, and nations who support, 
+     advance, or commit acts of human trafficking;
+       Whereas the United States must also work to end human 
+     trafficking around the world through education;
+       Whereas victims of human trafficking need support in order 
+     to escape and to recover from the physical, mental, 
+     emotional, and spiritual trauma associated with their 
+     victimization;
+       Whereas human traffickers use many physical and 
+     psychological techniques to control their victims, including 
+     the use of violence or threats of violence against the victim 
+     or the victim's family, isolation from the public, isolation 
+     from the victim's family and religious or ethnic communities, 
+     language and cultural barriers, shame, control of the 
+     victim's possessions, confiscation of passports and other 
+     identification documents, and threats of arrest, deportation, 
+     or imprisonment if the victim attempts to reach out for 
+     assistance or to leave;
+       Whereas although laws to prosecute perpetrators of human 
+     trafficking and to assist and protect victims of human 
+     trafficking have been enacted in the United States, awareness 
+     of the issues surrounding human trafficking by those people 
+     most likely to come into contact with victims is essential 
+     for effective enforcement because the techniques that 
+     traffickers use to keep their victims enslaved severely limit 
+     self-reporting; and
+       Whereas the effort by individuals, businesses, 
+     organizations, and governing bodies to promote the observance 
+     of the National Day of Human Trafficking Awareness on January 
+     11 of each year represents one of the many examples of the 
+     ongoing commitment in the United States to raise awareness of 
+     and to actively oppose human trafficking: Now, therefore, be 
+     it
+       Resolved by the Senate (the House of Representatives 
+     concurring), That Congress supports the goals and ideals of 
+     observing the National Day of Human Trafficking Awareness on 
+     January 11 of each year and all other efforts to raise 
+     awareness of and opposition to human trafficking.
+
+                          ____________________
+```

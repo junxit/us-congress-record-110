@@ -1,0 +1,51 @@
+---
+granule: CREC-2007-06-22-pt1-PgE1396-2
+date: 2007-06-22
+edition: CREC
+section: EXTENSIONS
+page: E1396
+citation: 153 Cong. Rec. E1396
+---
+
+# TRIBUTE TO ARMY SERGEANT CORY ENDLICH
+
+**Speaking:** Regula, Ralph (R000141) [R-OH]
+
+```
+                 TRIBUTE TO ARMY SERGEANT CORY ENDLICH
+
+                                 ______
+                                 
+
+                           HON. RALPH REGULA
+
+                                of ohio
+
+                    in the house of representatives
+
+                         Friday, June 22, 2007
+
+  Mr. REGULA. Madam Speaker, with great sorrow I rise to pay tribute 
+and recognize a dedicated soldier and citizen from my district. On 
+Saturday, June 9, 2007, Army Sergeant Cory Endlich lost his life during 
+hostile fire while patrolling an area northwest of Baghdad.
+  A 2003 graduate of Massillon Washington High School, Sergeant Endlich 
+was a 4-year member of the Massillon Tiger Swing Band as well as a 2-
+year member of the cross country team. While many of his friends 
+dreamed about becoming professional athletes, he dreamed of becoming a 
+paratrooper for the United States Army. He was also a devoted citizen, 
+helping in missions at home, including the rebuilding of New Orleans 
+after Hurricane Katrina before his deployment to Iraq.
+  This outstanding young man showed courage and a commitment to protect 
+those who could not protect themselves. He had requested in his last 
+letter to his mother for her to send coloring books, crayons and hard 
+candy for Iraqi children he had befriended. Sergeant Endlich is a true 
+hero and a reminder of the dedication evidenced by all the men and 
+women all over the world fighting the war on terror. We must reflect on 
+this great life and all the good that is being done in Iraq.
+  Army Sergeant Endlich and his family will be forever in our hearts 
+and prayers. May we keep them in mind as they struggle through this 
+difficult period of mourning.
+
+                          ____________________
+```
