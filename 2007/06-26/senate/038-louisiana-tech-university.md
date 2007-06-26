@@ -1,0 +1,57 @@
+---
+granule: CREC-2007-06-26-pt1-PgS8407-8
+date: 2007-06-26
+edition: CREC
+section: SENATE
+page: S8407
+citation: 153 Cong. Rec. S8407
+---
+
+# LOUISIANA TECH UNIVERSITY
+
+**Speaking:** Vitter, David (V000127) [R-LA]
+
+```
+                       LOUISIANA TECH UNIVERSITY
+
+● Mr. VITTER. Mr. President, today I wish to acknowledge 
+Louisiana Tech University for its scientific breakthrough and 
+innovation in the department of nanotechnology. I would like to take a 
+few moments to expand on Louisiana Tech's achievements and wish the 
+facility and student body continued success.
+  Nanotechnology is the art of manipulating materials on an atomic and 
+molecular level, and Louisiana Tech University has risen to the top of 
+this scientific threshold. This year a trade magazine, Small Times, 
+ranked LA Tech third in micro and nanotechnology education. Small Times 
+evaluated each college based on various criteria, and Louisiana Tech 
+surfaced as one of
+
+[[Page S8408]]
+
+the elite universities. Louisiana Tech also stands as one of the only 
+universities in the country that offers a nanotechnology degree at both 
+the undergraduate and graduate levels. Their diversity within the 
+program, and their excellence in both faculty innovation and curriculum 
+ranks them among the best major scientific universities.
+  Louisiana Tech University also ranked tenth in the Nation for 
+commercializing nanotechnology inventions, or the capability to process 
+patents and turn them into profitable ideas. The university alone 
+applied for 24 patent applications in the last year, 20 of which 
+involved micro and nanotechnology, proving Louisiana Tech's dedication 
+as a national contributor to the scientific spectrum. As Louisiana Tech 
+blossoms, many profitable institutions have invested and settled within 
+the university, such as Avoyelles Renewable Fuels, which is working to 
+discover a way to convert biomass waste into a biofuel through a 
+nanocatalyst.
+  I would also like to take a moment to honor Joshua Michael Brown. At 
+Louisiana Tech University, he became this first person in the entire 
+world to graduate with a nanosystems engineering degree. He will 
+continue at Louisiana Tech University in order to gain his doctorate in 
+micronanotechnology.
+  Thus, today I congratulate Louisiana Tech for its innovation in the 
+ever-changing fields of science, and I look forward to the continued 
+growth of the school and its students as they shape the future 
+development of micro and nanotechnology.●
+
+                          ____________________
+```
