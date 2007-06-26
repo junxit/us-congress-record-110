@@ -1,0 +1,44 @@
+---
+granule: CRECB-2007-pt12-Pg17293-3
+date: 2007-06-26
+edition: CRECB
+section: SENATE
+page: 17293
+---
+
+# WORLD DAY OF REMEMBRANCE
+
+```
+                        WORLD DAY OF REMEMBRANCE
+
+  Mr. DODD. Mr. President, I am proud to submit S. Con. Res. 39, a 
+resolution supporting the goals and ideals of a world day of 
+remembrance for road crash victims. This resolution is the Senate 
+companion to H. Con. Res. 87, which was recently submitted in the 
+House.
+  Each crash might seem to us, in its immediacy, like an isolated 
+tragedy, but when we step back, we see that each has its part in a 
+global crisis that is deepening year by year. The day of remembrance--
+set by the United Nations General Assembly for the third Sunday of 
+November--is not just for the 40,000 people who die in road crashes 
+each year in America; it is for the 1.2 million who die in crashes in 
+every part of the world and for the staggering 20 to 50 million who are 
+injured. In fact, the World Health Organization predicts that, by the 
+year 2020, the death rate from crashes each year will surpass the death 
+rate from AIDS.
+  True, many of these crashes are unique disasters, but that leaves 
+many more whose causes are systemic and preventable. Unsafe roads, poor 
+medical facilities, and inadequate driver education all contribute 
+their share to the death toll. And unsurprisingly, the toll is highest, 
+and rising, in middle- and low-income countries. Road safety, then, is 
+an issue of economic justice.
+  On the world day of remembrance, we will recall all of the victims of 
+road crashes; we keep their families in our thoughts, and we pray for 
+the full recovery of those still living. But our compassion for 
+individuals must not obscure the bigger picture. ``We have to change 
+the way we think about crashes,'' said Diza Gonzaga, the mother of a 
+car-crash victim in Brazil. ``The majority of people think that crashes 
+are due to fate. We have to think of a crash as a preventable event.''
+
+                          ____________________
+```
