@@ -1,0 +1,81 @@
+---
+granule: CREC-2007-06-27-pt1-PgS8605-3
+date: 2007-06-27
+edition: CREC
+section: SENATE
+page: S8605
+citation: 153 Cong. Rec. S8605
+---
+
+# TRIBUTE TO VIC ATIYEH
+
+**Speaking:** Smith, Gordon H. (S001142) [R-OR]
+
+```
+                         TRIBUTE TO VIC ATIYEH
+
+● Mr. SMITH. Mr. President, there is a word Senators 
+traditionally use when referring to one of our male colleagues on the 
+floor of the Senate. That word is ``gentleman.'' It is a word that you 
+don't hear often in today's society, as many consider it too old-
+fashioned. I disagree. Calling someone a gentleman is one of the 
+highest compliments one can give.
+  I pay tribute to the career and accomplishments of a truly 
+outstanding gentleman--the former Governor of Oregon Vic Atiyeh. Anyone 
+involved in the Oregon political arena over the past several decades, 
+Republican or Democrat, will tell you about Vic Atiyeh's kind and 
+courteous nature, his personal integrity, and his civility in a 
+business that is all too often uncivil.
+  On Wednesday, July 18, 2007, Oregonians will gather at the Portland 
+International Airport to officially dedicate the international 
+concourse as the ``Governor Victor G. Atiyeh International Concourse.'' 
+This is an outstanding and truly fitting honor. During his eight years 
+as Oregon's Governor, Vic Atiyeh implemented policies that transformed 
+Oregon into a hub for international commerce. Long before the term 
+``global economy'' was part of our lexicon, Vic understood the 
+importance of opening Oregon's doors to international commerce, 
+tourism, and cultural exchange programs.
+
+[[Page S8606]]
+
+  Vic Atiyeh's leadership in transforming Oregon's economy was critical 
+as his swearing-in came just as Oregon entered an economic nosedive the 
+likes of which unseen since the Great Depression.
+  How bad was the situation? His first year in office, Governor Atiyeh 
+called a special legislative session to deal with a $242 million 
+budgetary shortfall. Just as he and the legislature agreed on a package 
+of budget cuts, they were presented with new estimates increasing the 
+shortfall by nearly $100 million. Several months later, the deficit 
+jumped again by another $100 million.
+  Tough and unpleasant decisions had to be made. Vic Atiyeh rolled up 
+his sleeves and made them. One of Oregon's most respected journalists, 
+Brent Walth, wrote:
+
+       Quietly, diligently, without whining or badgering or a 
+     single ``I told you so,'' Atiyeh demonstrated how to manage a 
+     state through a crisis.
+
+  As a tribute to Vic's leadership, and the wisdom of Oregonians, in 
+the darkest days of the recession he was reelected Governor by one of 
+the largest margins in our State's history.
+  I can't help but think that at the naming of the international 
+concourse, Vic Atiyeh will be thinking of his parents. Both Vic's 
+father and mother were immigrants from the Middle East. They made their 
+way first to Ellis Island, and then on to Oregon where in 1900 they 
+started a family-owned carpet business--a business that continues to 
+thrive today. I also know that Vic will be thinking about his wonderful 
+wife Delores, who from the beginning has helped Vic to remember his 
+priorities as a public servant, dedicated father, and husband.
+  A few years ago I invited a small contingent of Oregon leaders to 
+join me for a breakfast to discuss issues important to our State. Vic 
+called to say he would like to attend, but had a prior engagement: 
+attending his granddaughter's soccer game. I assured Vic that I agreed, 
+he was making exactly the right decision.
+  Mr. President, I am proud to call Vic Atiyeh my friend, and I am 
+delighted the International Concourse at Portland International Airport 
+will soon bear his name. While I will be here in Washington at the 
+Senate on July 18, my thoughts and best wishes will be with one of 
+Oregon's truly great gentlemen--Governor Vic Atiyeh.●
+
+                          ____________________
+```

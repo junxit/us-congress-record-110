@@ -1,0 +1,50 @@
+---
+granule: CREC-2007-06-27-pt1-PgH7210-2
+date: 2007-06-27
+edition: CREC
+section: HOUSE
+page: H7210
+citation: 153 Cong. Rec. H7210
+---
+
+# RECOGNIZING THE DISTINGUISHED SERVICE OF CONGRESSMAN MARTY MEEHAN
+
+**Speaking:** Skelton, Ike (S000465) [D-MO]
+
+```
+   RECOGNIZING THE DISTINGUISHED SERVICE OF CONGRESSMAN MARTY MEEHAN
+
+  (Mr. SKELTON asked and was given permission to address the House for 
+1 minute.)
+  Mr. SKELTON. Mr. Speaker, I rise today to recognize my good friend 
+and colleague, Marty Meehan, the chairman of the House Armed Services 
+Subcommittee on Oversight and Investigations. I would like to thank him 
+on behalf of the committee for his distinguished service to our country 
+and to the men and women who wear the uniform.
+  Marty came to the House of Representatives in 1993 to represent the 
+Fifth District of Massachusetts. He's worked tirelessly to encourage 
+economic development in the area, to redevelop and maintain the 
+military presence at Fort Devens, and to preserve over 10,000 acres of 
+open space in Massachusetts.
+  Additionally, Marty was the lead Democrat sponsor of the Shays-
+Meehan-McCain-Feingold Bipartisan Campaign Finance Reform Act of 2002.
+  Marty has served on the Armed Services Committee since coming to the 
+House of Representatives in the early 1990s. Marty was the ranking 
+member of the Terrorism and Unconventional Threats and Capabilities 
+Subcommittee and has been an active member of the Military Personnel 
+Subcommittee, where Marty has had a strong interest in helping 
+Reservists and Guardsmen in their transition from military to civilian 
+life.
+  As chairman of the Subcommittee on Oversight and Investigations, 
+Marty has led a bipartisan investigation into the development of the 
+Iraqi Security Forces. The product of this investigation, a report on 
+subcommittee's findings and recommendations, was unanimously agreed 
+upon and signed by every member of that subcommittee. The report seeks 
+to present information for the public debate and recommends increased 
+transparency into the training of the Iraqi Security Forces.
+  Mr. Speaker, I would like to wish Marty Meehan the best of luck as he 
+leaves this institution to serve as the next chancellor of the 
+University of Massachusetts at Lowell.
+
+                          ____________________
+```

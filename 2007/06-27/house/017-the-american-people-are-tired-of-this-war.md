@@ -1,0 +1,39 @@
+---
+granule: CREC-2007-06-27-pt1-PgH7209-4
+date: 2007-06-27
+edition: CREC
+section: HOUSE
+page: H7209
+citation: 153 Cong. Rec. H7209
+---
+
+# THE AMERICAN PEOPLE ARE TIRED OF THIS WAR
+
+**Speaking:** Hare, Phil (H001040) [D-IL]
+
+```
+               THE AMERICAN PEOPLE ARE TIRED OF THIS WAR
+
+  (Mr. HARE asked and was given permission to address the House for 1 
+minute.)
+  Mr. HARE. Mr. Speaker, I rise to bring attention to recent reports 
+that the United States commanders in Iraq are rejecting the 
+recommendations from Army mental health experts.
+  To address the rising number of returning war heroes with mental 
+health problems, Army psychologists have said that troops need a 1-
+month reprieve for every 3 months in combat, a suggestion that's been 
+brushed aside by these commanders.
+  Denying troops the rest they need is another irresponsible move in a 
+long line of policies that show a complete disregard for the well-being 
+of our troops, such as being sent to war without adequate armor, being 
+forced to complete multiple deployments, and when wounded, being 
+subjected to a bureaucratic mess such as Walter Reed.
+  Mr. Speaker, I've only been in Congress since January, yet, this 
+week, I made my sixth call to the spouse of a wounded or killed soldier 
+in this war.
+  I'm tired of this war. My constituents are tired of this war. The 
+American people are tired of this war. It's time to put the health and 
+well-being of our troops first. It's time to bring them home.
+
+                          ____________________
+```

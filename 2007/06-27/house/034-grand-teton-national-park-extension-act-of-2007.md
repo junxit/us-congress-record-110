@@ -1,0 +1,154 @@
+---
+granule: CREC-2007-06-27-pt1-PgH7212-4
+date: 2007-06-27
+edition: CREC
+section: HOUSE
+page: H7212
+citation: 153 Cong. Rec. H7212
+---
+
+# GRAND TETON NATIONAL PARK EXTENSION ACT OF 2007
+
+**Speaking:** Rahall, Nick J., II (R000011) [D-WV]
+
+**Measures:** S. 277
+
+```
+            GRAND TETON NATIONAL PARK EXTENSION ACT OF 2007
+
+  Mr. RAHALL. Mr. Speaker, I ask unanimous consent that the Committee 
+on Natural Resources be discharged from further consideration of the 
+Senate bill (S. 277) to modify the boundaries of Grand Teton National 
+Park to include certain land within the GT Park Subdivision, and for 
+other purposes, and ask for its immediate consideration in the House.
+  The Clerk read the title of the Senate bill.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from West Virginia?
+  There was no objection.
+  The Clerk read the Senate bill, as follows:
+
+                                 S. 277
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Grand Teton National Park 
+     Extension Act of 2007''.
+
+     SEC. 2. DEFINITIONS.
+
+       In this Act:
+       (1) Park.--The term ``Park'' means the Grand Teton National 
+     Park.
+       (2) Secretary.--The term ``Secretary'' means the Secretary 
+     of the Interior.
+       (3) Subdivision.--The term ``Subdivision'' means the GT 
+     Park Subdivision, with an area of approximately 49.67 acres, 
+     as generally depicted on--
+       (A) the plat recorded in the Office of the Teton County 
+     Clerk and Recorder on December 16, 1997, numbered 918, 
+     entitled ``Final Plat GT Park Subdivision'', and dated June 
+     18, 1997; and
+       (B) the map entitled ``2006 Proposed Grand Teton Boundary 
+     Adjustment'', numbered 136/80,198, and dated March 21, 2006, 
+     which shall be on file and available for inspection in 
+     appropriate offices of the National Park Service.
+
+     SEC. 3. ACQUISITION OF LAND.
+
+       (a) In General.--The Secretary may accept from any willing 
+     donor the donation of any land or interest in land of the 
+     Subdivision.
+       (b) Administration.--On acquisition of land or an interest 
+     in land under subsection (a), the Secretary shall--
+       (1) include the land or interest in the boundaries of the 
+     Park; and
+       (2) administer the land or interest as part of the Park, in 
+     accordance with all applicable laws (including regulations).
+       (c) Deadline for Acquisition.--It is the intent of Congress 
+     that the acquisition of land or an interest in land under 
+     subsection (a) be completed not later than 1 year after the 
+     date of enactment of this Act.
+       (d) Restriction on Transfer.--The Secretary shall not 
+     donate, sell, exchange, or otherwise transfer any land 
+     acquired under this section without express authorization 
+     from Congress.
+
+     SEC. 4. CRAIG THOMAS DISCOVERY AND VISITOR CENTER.
+
+       (a) Findings.--Congress finds that--
+       (1) Craig Thomas was raised on a ranch just outside of 
+     Cody, Wyoming, near Yellowstone National Park and Grand Teton 
+     National Park, where he--
+       (A) began a lifelong association with those parks; and
+
+[[Page H7213]]
+
+       (B) developed a deep and abiding dedication to the values 
+     of the public land of the United States;
+       (2) during his 18-year tenure in Congress, including 
+     service in both the Senate and the House of Representatives, 
+     Craig Thomas forged a distinguished legislative record on 
+     issues as diverse as public land management, agriculture, 
+     fiscal responsibility, and rural health care;
+       (3) as Chairman and Ranking Member of the National Parks 
+     Subcommittee of the Committee on Energy and Natural Resources 
+     of the Senate and a frequent visitor to many units of the 
+     National Park System, including Yellowstone National Park and 
+     Grand Teton National Park, Craig Thomas was a strong 
+     proponent for ensuring that people of all ages and abilities 
+     had a wide range of opportunities to learn more about the 
+     natural and cultural heritage of the United States;
+       (4) Craig Thomas authored legislation to provide critical 
+     funding and management reforms to protect units of the 
+     National Park System into the 21st century, ensuring quality 
+     visits to units of the National Park System and the 
+     protection of natural and cultural resources;
+       (5) Craig Thomas strongly supported public-private 
+     partnerships and collaboration between the National Park 
+     Service and other organizations that foster new opportunities 
+     for providing visitor services while encouraging greater 
+     citizen involvement in the stewardship of units of the 
+     National Park System;
+       (6) Craig Thomas was instrumental in obtaining the Federal 
+     share for a public-private partnership with the Grand Teton 
+     National Park Foundation and the Grand Teton Natural History 
+     Association to construct a new discovery and visitor center 
+     at Grand Teton National Park;
+       (7) on June 4, 2007, Craig Thomas passed away after 
+     battling cancer for 7 months;
+       (8) Craig Thomas is survived by his wife, Susan, and 
+     children, Patrick, Greg, Peter, and Lexie; and
+       (9) in memory of the distinguished career of service of 
+     Craig Thomas to the people of the United States, the 
+     dedication of Craig Thomas to units of the National Park 
+     System, generally, and to Grand Teton National Park, 
+     specifically, and the critical role of Craig Thomas in the 
+     new discovery and visitor center at Grand Teton National 
+     Park, the Grand Teton Discovery and Visitor Center should be 
+     designated as the ``Craig Thomas Discovery and Visitor 
+     Center''.
+       (b) The Craig Thomas Discovery and Visitor Center.--
+       (1) Designation.--The Grand Teton Discovery and Visitor 
+     Center located in Moose, Wyoming, and scheduled for 
+     completion in August 2007 shall be known and designated as 
+     the ``Craig Thomas Discovery and Visitor Center''.
+       (2) Reference.--Any reference in a law, map, regulation, 
+     document, paper, or other record of the United States to the 
+     Grand Teton Discovery and Visitor Center referred to in 
+     paragraph (1) shall be deemed to be a reference to the 
+     ``Craig Thomas Discovery and Visitor Center''.
+
+     SEC. 5. AUTHORIZATION OF APPROPRIATIONS.
+
+       There are authorized to be appropriated to the Secretary 
+     such sums as are necessary to carry out this Act.
+
+  The Senate bill was ordered to be read a third time, was read the 
+third time, and passed, and a motion to reconsider was laid on the 
+table.
+
+                          ____________________
+```

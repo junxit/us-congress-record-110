@@ -1,0 +1,39 @@
+---
+granule: CREC-2007-06-27-pt1-PgH7208-3
+date: 2007-06-27
+edition: CREC
+section: HOUSE
+page: H7208
+citation: 153 Cong. Rec. H7208
+---
+
+# LARGEST HUMANITARIAN CRISIS IN THE WORLD
+
+**Speaking:** Blumenauer, Earl (B000574) [D-OR]
+
+**Measures:** H.R. 2265
+
+```
+                LARGEST HUMANITARIAN CRISIS IN THE WORLD
+
+  (Mr. BLUMENAUER asked and was given permission to address the House 
+for 1 minute.)
+  Mr. BLUMENAUER. Mr. Speaker, the largest refugee crisis in the world, 
+other than the Darfur, is unfolding in Iraq. Four million Iraqis have 
+fled their homes. Two million have fled the country, and an estimated 
+20- to 50,000 a month or more are added to that toll.
+  Yet the United States has been able, with all our resources, to only 
+allow 70 Iraqis refugee status in the United States since October, only 
+one in April, only one in May.
+  It's time for us to accept responsibility to aid the people in this 
+desperate plight. If there are any, any of my colleagues who have any 
+doubt that we need to change the policy and reach out to them, I would 
+urge that they seek out the soldiers who have returned home, who are 
+fighting to try to save their interpreters and their guides.
+  The heart-wrenching stories of people via cell phone trying to guide 
+them to safety will, I hope, inspire you to action and encourage you to 
+support bipartisan legislation, H.R. 2265, for Congress to do its job 
+for these refugees.
+
+                          ____________________
+```

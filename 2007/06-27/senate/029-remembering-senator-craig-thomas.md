@@ -1,0 +1,56 @@
+---
+granule: CREC-2007-06-27-pt1-PgS8603
+date: 2007-06-27
+edition: CREC
+section: SENATE
+page: S8603
+citation: 153 Cong. Rec. S8603
+---
+
+# REMEMBERING SENATOR CRAIG THOMAS
+
+**Speaking:** Collins, Susan M. (C001035) [R-ME]
+
+```
+                    REMEMBERING SENATOR CRAIG THOMAS
+
+  Ms. COLLINS. Mr. President, it has been said that we all have a birth 
+date
+
+[[Page S8604]]
+
+and a death date, with a dash in between. It is what we do with our 
+dash that counts.
+  Senator Craig Thomas made his count. He was a dedicated public 
+servant, a vigorous advocate, a compassionate leader, a marine, a proud 
+patriot. To the citizens of his beloved Wyoming and to his colleagues 
+in the Senate, he was a cherished friend.
+  Although my State and his are miles apart, with vastly different 
+geography and history, I am struck by the similarities in the character 
+of our people. Both the rugged Maine Yankee and the tough Wyoming 
+cowboy are steadfast and modest. Both are determined, committed to 
+doing what is right rather than what is easy. An old cowboy proverb 
+says, ``The best way out of a tight spot is to go straight through 
+it,'' and Craig Thomas always faced challenges head-on. I have no doubt 
+that he would have been just as at home on the deck of a lobster boat 
+as he was on horseback, riding the range.
+  As a Senator representing a large rural State, I deeply appreciate 
+Craig's devotion to preserving and enhancing a way of life that is such 
+a vital part of the American spirit. His tireless work on such issues 
+as agriculture, Indian affairs, natural resources, rural health care, 
+and educational opportunity will help ensure a better future for people 
+in small communities throughout our nation.
+  The courage and integrity with which he led his life were evident 
+until the very end. Although stricken with a terrible disease, Craig 
+always put his Nation and his State first. There was no time for self-
+pity or regret while there was still work to be done. He stayed in the 
+saddle.
+  Craig was a public man, but, first and foremost, he was a loving 
+husband, a devoted father, and a proud grandfather. In this time of 
+sorrow, I know that his wonderful family finds strength in his 
+honorable legacy. Senator Craig Thomas filled his dash with service, 
+courage, and commitment, with life and love. May his memory inspire us 
+all to do the same.
+
+                          ____________________
+```

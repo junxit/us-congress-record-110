@@ -1,0 +1,43 @@
+---
+granule: CREC-2007-06-27-pt1-PgH7211-4
+date: 2007-06-27
+edition: CREC
+section: HOUSE
+page: H7211
+citation: 153 Cong. Rec. H7211
+---
+
+# VICE PRESIDENT CHENEY
+
+**Speaking:** Arcuri, Michael A. (A000363) [D-NY]
+
+```
+                         VICE PRESIDENT CHENEY
+
+  (Mr. ARCURI asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. ARCURI. Mr. Speaker, I rise today to voice my concern about a 
+dangerous precedent and irresponsible wrongdoing in this 
+administration.
+  Recent media reports have revealed that the Office of the Vice 
+President exempted itself from a presidential Executive Order created 
+to protect national security information. Since 2003, the Vice 
+President's office has refused to properly report whether they possess 
+certain classified information and went so far as to block inspection 
+of their office to find out. The Vice President justified the step by 
+saying that his office was not part of the executive branch of 
+government.
+  I would point out, Mr. Speaker, that the rest of the executive branch 
+complied with the order and properly reported their handling of 
+critical classified information.
+  Mr. Speaker, I raise two serious objections to this practice. First, 
+mishandling of classified data poses a grave and serious risk to our 
+country and one should not take that lightly. And, second, as a former 
+district attorney, I believe that no one is above the law. Rule of law 
+must apply to everyone equally. How do we expect to enforce the law in 
+localities when it is broken and held in ill regard at the highest 
+levels of government? We must hold this administration, like all other 
+Americans, accountable for their actions.
+
+                          ____________________
+```
