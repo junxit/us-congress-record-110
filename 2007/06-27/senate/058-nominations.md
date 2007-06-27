@@ -1,0 +1,43 @@
+---
+granule: CRECB-2007-pt13-Pg17685-2
+date: 2007-06-27
+edition: CRECB
+section: SENATE
+page: 17685
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate June 27, 2007:
+
+
+                          Department of State
+
+       GEORGE A. KROL, OF NEW JERSEY, A CAREER MEMBER OF THE 
+     SENIOR FOREIGN SERVICE, CLASS OF MINISTER-COUNSELOR, TO BE 
+     AMBASSADOR EXTRAORDINARY AND PLENIPOTENTIARY OF THE UNITED 
+     STATES OF AMERICA TO TURKMENISTAN.
+
+
+                  Federal Emergency Management Agency
+
+       W. ROSS ASHLEY, III, OF VIRGINIA, TO BE AN ASSISTANT 
+     ADMINISTRATOR OF THE FEDERAL EMERGENCY MANAGEMENT AGENCY, 
+     DEPARTMENT OF HOMELAND SECURITY. (NEW POSITION)
+
+
+                   Executive Office of the President
+
+       SCOTT M. BURNS, OF UTAH, TO BE DEPUTY DIRECTOR OF NATIONAL 
+     DRUG CONTROL POLICY, VICE MARY ANN SOLBERG, RESIGNED.
+
+
+                             The Judiciary
+
+       REED CHARLES O'CONNOR, OF TEXAS, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE NORTHERN DISTRICT OF TEXAS, VICE A. 
+     JOE FISH, RETIRING.
+```
