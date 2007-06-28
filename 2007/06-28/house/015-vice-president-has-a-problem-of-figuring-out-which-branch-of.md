@@ -1,0 +1,41 @@
+---
+granule: CRECB-2007-pt13-Pg17924-5
+date: 2007-06-28
+edition: CRECB
+section: HOUSE
+page: 17924
+---
+
+# VICE PRESIDENT HAS A PROBLEM OF FIGURING OUT WHICH BRANCH OF GOVERNMENT HE BELONGS TO
+
+```
+VICE PRESIDENT HAS A PROBLEM OF FIGURING OUT WHICH BRANCH OF GOVERNMENT 
+                             HE BELONGS TO
+
+  (Mr. PASCRELL asked and was given permission to address the House for 
+1 minute.)
+  Mr. PASCRELL. Madam Speaker, we need a history lesson right here.
+  Article II, the executive powers shall be vested in the powers of the 
+President of the United States. He shall hold his office for a term of 
+4 years, and, together with the Vice President, chosen for the same 
+term.
+  The Vice President has a problem of figuring out which branch of 
+government he belongs to. But in Federalist Paper No. 68, Alexander 
+Hamilton was very, very clear about this. The appointment of an 
+extraordinary person as Vice President has been objected to as 
+superfluous. Take the Senator of any State from his seat as a Senator 
+to place him in the President of the Senate would be totally 
+ridiculous, would be to exchange a regard to the State from which he 
+came a constant for a contingent vote.
+  The other consideration is that as the Vice President may 
+occasionally become a substitute for the President, in the supreme 
+executive magistracy, all the reasons which recommend the mode of 
+elections prescribed for the one apply for the great, if not with equal 
+force, to the manner of appointing the other. It is remarkable that 
+this, as in most other instances, with the objection which is made, 
+would be against the Constitution of this State.
+  Mr. Vice President, go back to the Constitution and learn where you 
+belong.
+
+                          ____________________
+```
