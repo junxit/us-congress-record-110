@@ -1,0 +1,63 @@
+---
+granule: CREC-2007-06-28-pt1-PgH7416-7
+date: 2007-06-28
+edition: CREC
+section: HOUSE
+page: H7416
+citation: 153 Cong. Rec. H7416
+---
+
+# STAND DOWN 2007
+
+**Speaking:** Cleaver, Emanuel (C001061) [D-MO]
+
+```
+                              {time}  1945
+                            STAND DOWN 2007
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from Missouri (Mr. Cleaver) is recognized for 5 minutes.
+  Mr. CLEAVER. Madam Speaker, we are all concerned about the troops. I 
+am extremely concerned about the troops when they return home.
+  On this past Saturday, June 23, I visited the 14th annual Kansas City 
+Stand Down. This is a 2-day event, and it opened up in Kansas City on 
+Truman Road, the road that Harry Truman's
+
+[[Page H7417]]
+
+house sits on. It was open to homeless veterans. It provided a variety 
+of services. This event is an opportunity for Americans to help 
+Americans, Americans giving respect and dignity to their veterans who 
+are down on their luck and in many cases homeless.
+  It is believed there are approximately 1,800 homeless veterans in 
+Kansas City, Missouri's largest city. This year 800 homeless veterans 
+attended the Stand Down and received assistance from 500 volunteers. It 
+was a wonderful opportunity to meet and visit with veterans who proudly 
+served the United States of America, and I want to also say at this 
+time it was a proud opportunity for me to thank the volunteers who 
+forfeited their time to make a difference.
+  One of the most popular contributors was Big Bubba's Barbecue, who 
+fed a delicious barbecue lunch to over 700 people on Saturday. Grants 
+were provided by Best Buy, At Home America, and the U.S. Department of 
+Labor. These grants, combined with donations and countless volunteer 
+hours, ensured that the Stand Down would be able to provide the 
+necessary assistance to our homeless veterans.
+  When a homeless veteran arrives, they know that they will be greeted 
+with respect and provided with shelter, shoes, showers, haircuts, 
+blankets, clothing and hygiene products. Each veteran is given medical 
+health screenings, eye care, dental care and if the veteran does not 
+have identification, they are provided with a picture ID, assistance 
+with legal problems, VA benefit counseling, general benefits 
+counseling, including Social Security, food stamps, local health and 
+human services, substance abuse counseling, mental health counseling, 
+employment services which include job referrals, employment counseling, 
+as well as housing services.
+  I wish the entire Nation could have seen Kansas City turn out to pay 
+respect to their veterans and to provide them with care. I truly 
+appreciate and congratulate the Vet Center, AmeriCorps Vista volunteers 
+and the Stand Down steering committee for a job well done. If this is 
+done all over America the way it was done in the Fifth District of 
+Missouri, our veterans will know that we really do care.
+
+                          ____________________
+```

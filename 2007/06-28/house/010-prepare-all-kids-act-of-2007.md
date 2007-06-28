@@ -1,0 +1,36 @@
+---
+granule: CREC-2007-06-28-pt1-PgH7344
+date: 2007-06-28
+edition: CREC
+section: HOUSE
+page: H7344
+citation: 153 Cong. Rec. H7344
+---
+
+# PREPARE ALL KIDS ACT OF 2007
+
+**Speaking:** Maloney, Carolyn B. (M000087) [D-NY]
+
+```
+                      PREPARE ALL KIDS ACT OF 2007
+
+  (Mrs. MALONEY of New York asked and was given permission to address 
+the House for 1 minute.)
+  Mrs. MALONEY of New York. Madam Speaker, this week I introduce the 
+House companion to Senator Casey's Prepare All Kids Act of 2007. This 
+bill is designed to help States expand their pre-K programs and child 
+care services.
+  As this chart shows, we get the biggest bang for our education 
+dollars by investing in our children before they even go to school. 
+Estimates show that the return on investing in early care in education 
+is between 17 to 18 percent annually. If this were a stock, all of Wall 
+Street would be buying it.
+  The legislation is very helpful to the children we represent in our 
+States. For example, more than one-quarter of a million 4-year-olds in 
+New York State would be eligible for the programs created in this bill, 
+including 100,000 children who would qualify for free pre-K. The future 
+prosperity of our Nation rests on setting our children on a path for 
+success early in life.
+
+                          ____________________
+```
