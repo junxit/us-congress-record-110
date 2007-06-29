@@ -1,0 +1,93 @@
+---
+granule: CREC-2007-06-29-pt1-PgS8733
+date: 2007-06-29
+edition: CREC
+section: SENATE
+page: S8733
+citation: 153 Cong. Rec. S8733
+---
+
+# IMMIGRATION
+
+**Speaking:** Webb, Jim (W000803) [D-VA]
+
+```
+                              IMMIGRATION
+
+  Mr. WEBB. Mr. President, I would like to address a few things this 
+morning, some in retrospect of what has been for all of us a pretty 
+emotional couple of weeks of debate, and also looking forward to what 
+is going to occur when we return after the July 4 work period.
+  The first thing I would like to point out is my admiration for our 
+majority leader for how he handled the situation on the immigration 
+bill. I think it was an extraordinarily difficult situation for our 
+majority leader to have been in, and he did a great job with a very 
+difficult assignment. I think we should back up and remember the bill 
+that was put before us had not gone through debate. It was put together 
+in a bipartisan way but removed from the committee process. In other 
+words, people from both sides of the aisle, including some pretty 
+strong members of the leadership on both sides of the aisle, got 
+together and put together this extraordinarily complex bill, which the 
+President himself wanted to see passed, and then it fell to our 
+majority leader to attempt to get the provisions of the bill through 
+the Senate. So we had a situation where there were members of the other 
+party involved in putting together the components of the bill, we had a 
+President who was urging that the bill be passed, and then our majority 
+leader was the individual upon whom it fell to try to make this happen, 
+with very little cooperation, quite frankly, from the other side.
+  So I would just like to express my admiration and support for the 
+majority leader for the way he handled himself during this process.
+  Also with respect to the immigration bill, I think there has been a 
+lot of rhetoric that has flown back and forth over the last 24 hours or 
+so about motivations of individuals and what caused people to vote one 
+way or the other. I think some of this is unfortunate. I think some of 
+the people who have made some of the more extreme comments are going to 
+be looking back at them 4 or 5 years from now and perhaps be a little 
+bit embarrassed. This was an enormously complex piece of legislation. 
+There were parts of the legislation which were very good, and hopefully 
+we can find a way to bring them into law at another time. But there 
+were parts in that legislation which needed to be fixed.
+  I, personally, as the Presiding Officer knows, attempted to get an 
+amendment through the Senate that, in my view, would have brought 
+fairness to the issue of legalization and practicality--fairness in the 
+sense that the proposed bill was going to legalize every individual, 
+virtually, who had come to the United States in violation of American 
+laws by the end of last year--and I felt strongly for a good bit of 
+time that those who came during a period of lax immigration laws and 
+who were able to put roots down into the community should be provided a 
+path toward citizenship. I made this case during the campaign last 
+year, and by saying that last year, I was viewed to be sort of on the 
+forward edge of where this debate was going to go. But this bill, by 
+reaching out and including virtually everyone who had been here by the 
+end of last year, inflamed the passions of a lot of people in this 
+country who otherwise would support fair immigration reform.
+  At the same time, the amendment I offered also proposed to eliminate 
+what is called the touchback provision, which would have eliminated--
+for those people who had been here for 4 years and had put down roots--
+the necessity for them to go back to their home country in order to 
+apply for a green card.
+  I think that approach was fair. I regret that the amendment didn't 
+pass. At the same time, I and a number of other people found it 
+impossible for us to vote for the bill as it was coming up with the 
+provision that was so much broader.
+  The bottom line on immigration now is there are laws on the books. We 
+have seen a lot of talk over the past day or so that immigration reform 
+is dead. These comprehensive immigration reform packages have a way of 
+falling under their own weight because the issue itself is so complex. 
+What we should be doing now, in the next year and a half or so, given 
+that there is an election, is to do everything we can to enforce the 
+laws that are on the books. One idea I like is the $4.4 billion 
+recommendation that was put into title I of this immigration bill that 
+just failed that would go toward border security, and employer 
+certification could well be added to any appropriations bill, where the 
+measure would be relevant and could help existing law.
+  So for those who are attempting to say that all immigration reform 
+has now skidded to a halt because a flawed bill was not passed by this 
+body, I say let's enforce the existing laws. There are a lot of laws on 
+the books. One of the greatest problems we have had is particularly in 
+the area of workers being hired by employers on a large scale who know 
+they are here without papers. In those sorts of areas, there are laws 
+on the books we need to enforce.
+
+                          ____________________
+```
