@@ -1,0 +1,53 @@
+---
+granule: CRECB-2007-pt13-Pg18118
+date: 2007-07-09
+edition: CRECB
+section: SENATE
+page: 18118
+---
+
+# ADDITIONAL STATEMENTS
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+                          TRIBUTE TO RAY KUNTZ
+
+● Mr. BAUCUS. Mr. President, the American adventurer, war hero, 
+and 26th President of the United States Teddy Roosevelt once said, 
+``Far away the best prize that life offers is the chance to work hard 
+at work worth doing.'' And there is no work worth doing more than 
+making sure our Nation's trucking industry runs smooth, and nobody 
+works harder than my good friend Ray Kuntz.
+  As a fellow Montanan, Ray knows the value of hard work and has always 
+been willing to roll up his sleeves and put in a full day. As the CEO 
+of Watkins & Shepard Trucking, which is based in my hometown of Helena, 
+Ray has helped transform a small business into a thriving enterprise. 
+With more than 700 trucks and drivers and 1,000 employees, Watkins & 
+Shepard has made their mark on the trucking industry. I remember 
+attending the Watkins & Shepard driving school, and I can say firsthand 
+that it was top notch.
+  Now, Ray will undertake a new challenge, taking the reins of the 
+American Trucking Association as the chairman. Ray is no stranger to 
+the ATA, and he is no stranger to success. As vice-chairman of the ATA, 
+Ray helped to revolutionize the trucking industry. Combining cutting-
+edge technology and a passion for trucking, Ray helped to launch 
+GetTrucking.com. This innovative Web site used humor, timely 
+information, and eye-grabbing graphics to help recruit new drivers and 
+keep trucking the vanguard of America's transportation industry.
+  As chairman, Ray will continue to use his drive, his creativity, and 
+his passion to lead the ATA boldly into the 21st century. With his 
+chairmanship, Ray has made the working folks the hallmark of his term. 
+For those of us who know him, this is no surprise. Ray has always 
+remembered his roots and the hard-working men and women he has served 
+along the way.
+  With Ray at the helm, the ATA is on the path to an even more 
+successful future as the voice of the men and women who are either 
+behind the wheel, or behind the scenes, of the trucking 
+industry.●
+
+                          ____________________
+```

@@ -1,0 +1,54 @@
+---
+granule: CRECB-2007-pt13-Pg18118-3
+date: 2007-07-09
+edition: CRECB
+section: SENATE
+page: 18118
+---
+
+# 125TH ANNIVERSARY OF DUNSEITH, NORTH DAKOTA
+
+```
+              125TH ANNIVERSARY OF DUNSEITH, NORTH DAKOTA
+
+● Mr. CONRAD. Mr. President, today I recognize a community in 
+North Dakota that will be celebrating its 125th anniversary. On July 13 
+to 15, the residents of Dunseith will gather to celebrate their 
+community's history and founding.
+  Dunseith is a historic community located in north central North 
+Dakota, only 14 miles away from the Canadian border. Founded by Giles 
+Gilbert in 1882, Dunseith was settled by European immigrants and 
+members of the Turtle Mountain Band of Chippewa. In its early years, 
+people were drawn to Dunseith because of the amount of land in the area 
+made available under the Homestead Act.
+  Just a short distance from Dunseith is the International Peace 
+Garden. Founded in 1932, this 2,339-acre garden along the northern 
+border symbolizes the peace, cooperation, and friendship between the 
+United States and Canada. It is a treasure of more than 150,000 
+flowers, fountains, a sunken garden, and other notable structures that 
+promote the garden's message of peace.
+  Dunseith really is, as the residents say, an area undiscovered by the 
+rest of the country. With the beautiful Turtle Mountains just nearby, 
+residents like to spend time hunting, fishing, hiking, biking, and 
+participating in various other outdoor activities.
+  Today, Dunseith has much to celebrate. Its quasquicentennial 
+celebration is occurring at the same time as the International Peace 
+Garden's 75th anniversary, and it is bound to be a weekend worth taking 
+in. With 450 registered participants already, the guests will enjoy an 
+all-school reunion, parade, art show, all faith service, demolition 
+derby, and much more.
+  Mr. President, I ask the Senate to join me in congratulating 
+Dunseith, ND, and its residents on their first 125 years and in wishing 
+them well in the future. By honoring Dunseith and all the other 
+historic small towns of North Dakota, we keep the great pioneering 
+frontier spirit alive for future generations. It is places such as 
+Dunseith that have helped to shape this country into what it is today, 
+which is why this fine community is deserving of our recognition.
+  Dunseith has a proud past and a bright future.●
+
+[[Page 18119]]
+
+
+
+                          ____________________
+```
