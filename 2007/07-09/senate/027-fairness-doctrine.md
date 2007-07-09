@@ -1,0 +1,95 @@
+---
+granule: CREC-2007-07-09-pt1-PgS8788
+date: 2007-07-09
+edition: CREC
+section: SENATE
+page: S8788
+citation: 153 Cong. Rec. S8788
+---
+
+# FAIRNESS DOCTRINE
+
+**Speaking:** Inhofe, James M. (I000024) [R-OK], Reid, Harry (R000146) [D-NV]
+
+```
+                           FAIRNESS DOCTRINE
+
+  Mr. INHOFE. Mr. President, I am pleased to cosponsor, with Senator 
+Coleman, an amendment to prohibit the reimplementation of the Fairness 
+Doctrine.
+  As we may remember, over the past few weeks, the Fairness Doctrine 
+has received a lot of attention. Some Senators spoke about the need to 
+reinstitute this doctrine. The Fairness Doctrine is a regulation the 
+Federal Communications Commission developed to require FCC-licensed 
+broadcasters to provide contrasting viewpoints on controversial issues. 
+However, the FCC conducted a review of this regulation in 1985, 
+concluding that ``we no longer believe that the Fairness Doctrine 
+serves the public interest.'' In explaining why the FCC reached this 
+conclusion, they wrote:
+
+       The interest of the public is fully served by the 
+     multiplicity of voices in the marketplace today and that the 
+     intrusion by Government into the content of programming 
+     unnecessarily restricts the journalistic freedoms of 
+     broadcasters.
+
+  The FCC's refusal to enforce the Fairness Doctrine was later upheld 
+in the D.C. Circuit Court of Appeals.
+  Why would a regulation that was found to be unnecessary over 20 years 
+ago be controversial today? Well, we found out why. On June 22, the 
+Center for American Progress issued a report called ``The Structural 
+Imbalance of Political Talk Radio.'' Keep in mind that the Center for 
+American Progress is a liberal think tank funded by George Soros and 
+led by John Podesta and a lot of former Clinton White House people in 
+it. The report issued was authored, in part, by a former Clinton White 
+House adviser. This report, not surprisingly, found that 91 percent--I 
+believe this to be true--of political talk radio programming was 
+conservative and 9 percent was progressive or liberal. However, what is 
+surprising is the report suggested antifree market and antifree speech 
+recommendations to supposedly provide balance in talk radio 
+programming. There is a very controversial statement I made in the 
+presence of a couple of our fellow Senators not too long ago when they 
+were talking about the fact that there is so much conservative bias in 
+talk radio. I said it is market driven. That is what America is all 
+about. It is market driven. There is no market for the progressive or 
+liberal programming.
+  I remember when the DOD was trying to feed the American Forces Radio 
+and television services in the Armed Forces Network and have 50 percent 
+of the programming be liberal. We fought that out on the floor of the 
+Senate and we won because freedom of speech is more important. 
+Consequently, we have gone back and let them decide--our troops--as to 
+the programming they want. It is all done in a fair way so our troops 
+at least can hear what they want to hear over talk radio.
+  This is for those people who think they have balanced political talk 
+radio. This is a report on that subject. As I go through this, first of 
+all, it identifies the problem they consider--conservative bias. That 
+is what the American people want. It says:
+
+       If commercial radio broadcasters are unwilling to abide by 
+     these regulatory standards or the FCC is unable to 
+     effectively regulate in the public interest, a spectrum use 
+     fee should be levied on owners to directly support local, 
+     regional, and national broadcasting.
+
+  That is this report. In other words, they are saying not only do 
+these people who, because of their popularity, because of the content 
+and the way they deliver it--not only would they lose their programs, 
+but they would also have to give money to support public broadcasting. 
+This is the most outrageous thing I have ever seen.
+  I don't think this can happen in America. When you get John Podesta 
+and the former Clinton White House team and their minds set to doing 
+something, they are smart people, and I don't take this lightly. I ask 
+as many people as possible to support our efforts to pass legislation 
+to stop any effort to reinstitute the Fairness Doctrine. I think we 
+should call it something else, such as the Government-run broadcasting.
+  With that, I yield the floor and suggest the absence of a quorum.
+  The ACTING PRESIDENT pro tempore.
+  The clerk will call the roll.
+  The assistant legislative clerk proceeded to call the roll.
+  Mr. REID. Mr. President, I ask unanimous consent that the order for 
+the quorum call be rescinded.
+  The ACTING PRESIDENT pro tempore. Without objection, it is so 
+ordered.
+
+                          ____________________
+```

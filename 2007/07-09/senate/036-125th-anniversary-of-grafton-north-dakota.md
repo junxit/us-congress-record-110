@@ -1,0 +1,52 @@
+---
+granule: CREC-2007-07-09-pt1-PgS8792-2
+date: 2007-07-09
+edition: CREC
+section: SENATE
+page: S8792
+citation: 153 Cong. Rec. S8792
+---
+
+# 125TH ANNIVERSARY OF GRAFTON, NORTH DAKOTA
+
+**Speaking:** Conrad, Kent (C000705) [D-ND]
+
+```
+               125TH ANNIVERSARY OF GRAFTON, NORTH DAKOTA
+
+● Mr. CONRAD. Mr. President, I am pleased today to recognize a 
+community in North Dakota that celebrated its 125th anniversary. On 
+June 21 to 23, the residents of Grafton gathered to celebrate their 
+community's history and founding.
+  Grafton is a vibrant community in northeastern North Dakota with the 
+Park River running through it. Grafton serves as the county seat of 
+Walsh County. The post office in Grafton was established with Thomas E. 
+Cooper serving as postmaster on May 20, 1879. Cooper named the 
+community after his wife's home of Grafton County, NH. By 1883, the 
+city had 2,000 residents, with Stewart Cairncross serving as the first 
+mayor. Today, Grafton is still one of the larger communities in North 
+Dakota.
+  Residents of Grafton are proud of their community and what it has to 
+offer. Residents strongly support the youth in the community and enjoy 
+local sports events. Annually, the community hosts a ``Spirit of the 
+Season'' festival, which includes breakfast with Santa, live concerts, 
+horse-drawn wagon rides, and a bonfire in the park.
+  Grafton residents have been dedicated to increasing the size of the 
+community through economic development. Since implementing this 
+program, the community is now home to Marvin Windows and Doors, a 
+vibrant business that has helped fund incentives for individuals 
+wishing to relocate to Grafton.
+  The community of Grafton celebrated its 125th anniversary with live 
+music, parades, a demolition derby, and tours of the Heritage Village 
+and the school.
+  Mr. President, I ask the U.S. Senate to join me in congratulating 
+Grafton, ND, and its residents on their first 125 years and in wishing 
+them well in the future. By honoring Grafton and all other historic 
+small towns of North Dakota, we keep the great pioneering frontier 
+spirit alive for future generations. It is places such as Grafton that 
+have helped shape this country into what it is today, which is why this 
+fine community is deserving of our recognition.
+  Grafton has a proud past and a bright future.●
+
+                          ____________________
+```
