@@ -1,0 +1,186 @@
+---
+granule: CREC-2007-07-10-pt1-PgH7446
+date: 2007-07-10
+edition: CREC
+section: HOUSE
+page: H7446
+citation: 153 Cong. Rec. H7446
+---
+
+# RECOGNIZING 63RD ANNIVERSARY OF BIG BEND NATIONAL PARK
+
+**Speaking:** Sarbanes, John P. (S001168) [D-MD], Cole, Tom (C001053) [R-OK], Rodriguez, Ciro D. (R000568) [D-TX]
+
+**Measures:** H.Res. 483
+
+```
+         RECOGNIZING 63RD ANNIVERSARY OF BIG BEND NATIONAL PARK
+
+  Mr. SARBANES. Mr. Speaker, I move to suspend the rules and agree to 
+the resolution (H. Res. 483) recognizing the 63rd Anniversary of Big 
+Bend National Park, established on June 12, 1944.
+  The Clerk read the title of the resolution.
+  The text of the resolution is as follows:
+
+                              H. Res. 483
+
+       Whereas Big Bend National Park is a scenic treasure of 
+     southwest Texas encompassing more than 800,000 acres;
+       Whereas Big Bend National Park manages nearly one quarter 
+     of the approximately 1000 mile stretch of the Rio Grande 
+     River that also serves as the boundary between the United 
+     States and Mexico;
+       Whereas along the boundary of the park, the flow of the Rio 
+     Grande River shifts from a southeasterly direction to the 
+     northeast, forming the bend after which the park is named;
+       Whereas Big Bend National Park is unique because it covers 
+     a variety of different ecosystems ranging from the Chihuahuan 
+     Desert to the Chisos Mountains;
+       Whereas Native people inhabited the area for thousands of 
+     years;
+       Whereas many people have traversed the Big Bend region in 
+     the past 150 years, including Spanish explorers, Comanche 
+     Indians, Mexican settlers, and American ranchers;
+       Whereas in 1933 the Texas Legislature, led by Everett Ewing 
+     Townsend, established the Texas Canyons State Park;
+       Whereas later that year the park was expanded and renamed 
+     Big Bend State Park;
+       Whereas Townsend later became known as the Father of Big 
+     Bend National Park;
+       Whereas between 1934 and 1942 the Civilian Conservation 
+     Corps worked diligently to make the park suitable for 
+     visitors; and
+       Whereas 63 years ago Big Bend National Park, ``Texas' Gift 
+     to the Nation'', was officially established on June 12, 1944: 
+     Now, therefore, be it
+       Resolved, That the House of Representatives--
+       (1) recognizes the 63rd anniversary of the founding of Big 
+     Bend National Park; and
+       (2) honors the National Park Service for their service to 
+     the Big Bend region and Big Bend National Park.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentleman from 
+Maryland (Mr. Sarbanes) and the gentleman from Oklahoma (Mr. Cole) each 
+will control 20 minutes.
+  The Chair recognizes the gentleman from Maryland.
+
+
+                             General Leave
+
+  Mr. SARBANES. Mr. Speaker, I ask unanimous consent that all Members 
+may have 5 days to revise and extend their remarks and include 
+extraneous material on the bill under consideration.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Maryland?
+  There was no objection.
+  Mr. SARBANES. Mr. Speaker, House Resolution 483 was introduced by our 
+colleague from Texas, Representative Ciro Rodriguez. And I know that 
+Representative Rodriguez wanted to be here today in the Chamber as we 
+speak to this legislation but has been caught in the storms outside.
+  H. Res. 483 recognizes the 63rd anniversary of Big Bend National Park 
+in west Texas and honors the National Park Service for their service to 
+the Big Bend region and Big Bend National Park.
+  I want to commend Representative Rodriguez for his efforts to bring 
+congressional recognition to this special place and to the agency and 
+hardworking employees who care for it.
+  Big Bend National Park is a spectacular 800,000-acre scenic treasure 
+on the Rio Grande in west Texas. The park protects the largest 
+representative example of the Chihuahuan Desert ecosystem within the 
+United States. The park's river, desert and mountain environments 
+support an extraordinary richness of biologic diversity, including 
+unique plants and animals that exist nowhere else in the world. The 
+park provides outstanding recreation opportunities to over 300,000 
+visitors a year.
+  Big Bend is not only nationally significant but also internationally 
+significant. Big Bend National Park manages nearly one-quarter of the 
+approximately 1,000-mile stretch of the Rio Grande River that also 
+serves as the boundary between the United States and Mexico.
+  Together with two Mexican protected areas, Big Bend is now part of 
+the largest transboundary protected areas in North America, serving as 
+a model for international cooperation.
+  Mr. Speaker, House Resolution 483 recognizes the importance of Big 
+Bend National Park to the ecology, history and economy of west Texas. 
+It also recognizes the hard work of the National Park Service and its 
+employees and honors their service to the region and the country as a 
+whole.
+  I urge my colleagues to support this resolution.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. COLE of Oklahoma. Mr. Speaker, I yield myself such time as I may 
+consume.
+  The majority has adequately explained this resolution. We join with 
+them in recognizing the 63rd anniversary of Big Bend National Park and 
+hope this occasion will further highlight the need to secure our public 
+lands from the ecological devastation caused by unfettered, illegal 
+crossers and drug traffickers.
+  I urge colleagues to support this resolution.
+  Mr. RODRIGUEZ. Mr. Speaker, I rise today in support of H. Res. 483, 
+to recognize the anniversary of Big Bend National Park.
+  Sixty-three years ago the State of Texas bestowed the 800,000 acres 
+of pristine desert and mountain terrain that now make up the Big Bend 
+National Park upon the United States of America.
+  Big Bend began as a small State park, but in 1942, just following the 
+Great Depression, Texas purchased 600,000 acres of land from private 
+landowners at the price of $1.5 million.
+  The cost was high at the time, but Texas donated the land to the 
+Federal Government for the establishment of a national park.
+  With that gesture, the State of Texas provided the Nation and its 
+citizens with a majestic national park that has been enjoyed for over a 
+half a century so far.
+  This resolution pays tribute not only to the picturesque landscape of 
+the park itself, but to those who made it possible to preserve this 
+land for generations to come.
+  Everett Ewing Townsend, known as the father of Big Bend National 
+Park, was the champion of this effort.
+  In 1894 Townsend traveled to the Chisos Mountains and later recalled 
+that the breathtaking southern view from the mountains made him ``see 
+God as he had never seen Him before.''
+  He vowed to preserve the region in some way, and 63 years later we 
+can see that he has made good on his promise.
+  His efforts, first in the State Legislature and later as the 
+Commissioner of the national park, provided the United States with an 
+unspoiled tract of land that has since been enjoyed by hundreds of 
+thousands of visitors.
+  Big Bend National Park, encompassing the region where the Chihuahuan 
+Desert intersects with the Chisos Mountains features a distinct 
+landscape.
+  The park is surrounded on the south by the mighty Rio Grande.
+  The outer boundary is marked by the area where the flow of the river 
+shifts from southeast to northeast, forming the giant bend after which 
+the park is named.
+  With river, mountain and desert all in one, Big Bend National Park 
+could easily be considered three parks in one.
+  However, west Texas is fortunate to have such a diverse environment 
+preserved within the boundaries of one awe-inspiring park.
+  The establishment of Big Bend National Park in 1944 allowed the vast 
+expanse of land to be conserved.
+  At the same time, it protected the rich history of the region.
+  Native people have inhabited the area for thousands of years, and in 
+more recent years diverse groups of people have traversed the Big Bend.
+  In the past century and a half Spanish explorers, Comanche Indians, 
+Mexican settlers and American ranchers have all traveled through or 
+lived within the park's terrain.
+  Thus, this important resolution recognizes the 63rd anniversary of 
+the establishment of
+
+[[Page H7447]]
+
+Big Bend National Park and the people who made their way through the 
+region well before then.
+  H. Res. 483 also honors the National Park Service for their work in 
+the Big Bend.
+  It is important that we recognize Big Bend National Park's 
+contributions to our Nation as well as the contribution that the park's 
+founders and staff have made to the land since then.
+
+  Mr. COLE of Oklahoma. Mr. Speaker, I yield back the balance of my 
+time.
+  Mr. SARBANES. Mr. Speaker, I yield back the balance of my time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from Maryland (Mr. Sarbanes) that the House suspend the rules 
+and agree to the resolution, H. Res. 483.
+  The question was taken; and (two-thirds being in the affirmative) the 
+rules were suspended and the resolution was agreed to.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```
