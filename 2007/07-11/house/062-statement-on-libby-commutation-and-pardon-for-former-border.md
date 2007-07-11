@@ -1,0 +1,97 @@
+---
+granule: CREC-2007-07-11-pt1-PgH7633
+date: 2007-07-11
+edition: CREC
+section: HOUSE
+page: H7633
+citation: 153 Cong. Rec. H7633
+---
+
+# STATEMENT ON LIBBY COMMUTATION AND PARDON FOR FORMER BORDER PATROL AGENTS RAMOS AND COMPEAN
+
+**Speaking:** Jones, Walter B., Jr. (J000255) [R-NC]
+
+```
+  STATEMENT ON LIBBY COMMUTATION AND PARDON FOR FORMER BORDER PATROL 
+                        AGENTS RAMOS AND COMPEAN
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from North Carolina (Mr. Jones) is recognized for 5 minutes.
+  Mr. JONES of North Carolina. Mr. Speaker, many Americans are outraged 
+by the President's decision to commute the sentence of White House aide 
+Scooter Libby, while at the same time, he refuses to pardon former 
+Border Agents Ramos and Compean.
+  Scooter Libby, an attorney who understands the laws of this country 
+and should know right from wrong, was convicted of perjury, obstruction 
+of justice, and lying to investigators. Mr. Libby, who should have 
+served his sentence, did not spend 1 day in prison. Yet, two Border 
+Patrol agents with exemplary records, who tried their best to do their 
+duty to protect the American people from an illegal alien drug 
+smuggler, are serving 11 and 12 years in prison today.
+  Today is the agents' 176th day in Federal prison. Two heroes sit 
+behind bars while a guilty man walks free. Again, I say, where is the 
+justice? By attempting to apprehend a Mexican drug smuggler who brought 
+743 pounds of marijuana across our borders, these agents were enforcing 
+our laws, not breaking them. For almost a year, thousands of American 
+citizens and dozens of Members of Congress have asked President Bush to 
+pardon these agents. The President repeatedly responds that there is a 
+pardon ``process'' and ``a series of steps'' to be taken by the Justice 
+Department, ``to make a recommendation as to whether or not a President 
+grants a pardon.'' Yet, Mr. Speaker, the President did not consult the 
+Justice Department in Mr. Libby's case.
+  Mr. President, if there is a process, why did this process not matter 
+when you commuted Mr. Libby's sentence?
+  The President has the power to immediately pardon agents Ramos and 
+Compean, two heroes who were unjustly prosecuted for doing their job to 
+protect our border. I have written the President and called on him to 
+correct a true injustice by using his executive authority to 
+immediately pardon these men.
+  Mr. Speaker, I will submit for the Record the entire text of the 
+letter that I have written to the President.
+  Mr. Speaker, I want to thank Chairman John Conyers, who I am sure at 
+some point in time will hold a hearing to thoroughly review the 
+prosecution of these agents. Tonight, I especially want to thank 
+Senator Dianne Feinstein, who has shared my concerns about the 
+unfairness of this prosecution. I am extremely pleased that she will be 
+presiding over a Senate hearing next Tuesday to examine the details of 
+this case. There are many questions and concerns about the actions of 
+the U.S. Attorney in this case that need to be answered. I am hopeful 
+that justice will soon prevail for these two men.
+  Mr. Speaker, before I close, I want to say to the families of Border 
+Patrol Agents Ramos and Compean that this House of Representatives will 
+not forget your loved ones. We will not forget that an injustice has 
+prevailed. We will seek justice for your husbands and your fathers and 
+your relatives. I hope and pray that the President himself will pray 
+about this and grant to these two men justice instead of injustice.
+  Mr. Speaker, I include for the Record the letter referred to earlier.
+
+                                                     July 3, 2007.
+     Hon. George W. Bush,
+     The White House, Pennsylvania Avenue, NW., Washington, DC
+       Dear Mr. President: In light of your recent commutation of 
+     I. Lewis ``Scooter'' Libby's prison sentence, I am writing to 
+     express my deep disappointment that U.S. Border Patrol agents 
+     Ignacio Ramos and Jose Compean remain unjustly incarcerated 
+     for wounding a Mexican drug smuggler who brought 743 pounds 
+     of marijuana across our border.
+       While you have spared Mr. Libby from serving even one day 
+     of his ``excessive'' 30-month prison term, agents Ramos and 
+     Compean have already served 167 days of their 11- and 12-year 
+     prison sentences. By attempting to apprehend an illegal alien 
+     drug smuggler, these agents were enforcing our laws, not 
+     breaking them.
+       Mr. President, it is now time to listen to the American 
+     people and Members of Congress who have called upon you to 
+     pardon these agents. By granting immunity and free health 
+     care to an illegal alien drug trafficker and allowing our law 
+     enforcement officers to languish in prison--our government 
+     has told its citizens, and the world, that it does not care 
+     about protecting our borders or enforcing our laws.
+       I urge you to correct a true injustice by immediately 
+     pardoning these two law enforcement officers.
+           Sincerely,
+                                                  Walter B. Jones,
+     Member of Congress.
+
+                          ____________________
+```

@@ -1,0 +1,45 @@
+---
+granule: CREC-2007-07-11-pt1-PgH7495-5
+date: 2007-07-11
+edition: CREC
+section: HOUSE
+page: H7495
+citation: 153 Cong. Rec. H7495
+---
+
+# REDEPLOYMENT OF OUR TROOPS FROM IRAQ
+
+**Speaking:** Sestak, Joe (S001169) [D-PA]
+
+```
+                  REDEPLOYMENT OF OUR TROOPS FROM IRAQ
+
+  (Mr. SESTAK asked and was given permission to address the House for 1 
+minute.)
+  Mr. SESTAK. Mr. Speaker, even for those convinced the surge in Iraq 
+is a mistake, the manner in which we implement a decision to leave that 
+country is critical to our Nation. Therefore, any Congress mandating a 
+new security policy through force of law owes a careful explanation to 
+the country why and how it is to be done, including dealing with what 
+would occur in the aftermath.
+  However much Americans may agree with us a desire to reduce U.S. 
+forces and withdraw them from Iraq quickly, this Nation must face the 
+alternative of what will happen in the region once that redeployment is 
+done by a force of law.
+  We must remember it took us approximately 6 months to withdraw a 
+small number of troops just from Somalia. We have 160,000 troops in 
+Iraq and over 100,000 contractors, but the time line of about a year 
+that is needed for a safe redeployment also works well to protect our 
+regional interests in a strategic approach to end this war. It provides 
+the time needed for a strategy of regional accommodation to take effect 
+with Iran, Syria and Saudi Arabia,
+
+[[Page H7496]]
+
+a strategy that rightly relies upon the long-term interests in a stable 
+aftermath. Therefore, ending this war is necessary but insufficient.
+  How we end it and by what means is even of greater importance for our 
+troops' safety and our own security.
+
+                          ____________________
+```

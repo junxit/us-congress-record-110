@@ -1,0 +1,253 @@
+---
+granule: CREC-2007-07-11-pt1-PgH7653-3
+date: 2007-07-11
+edition: CREC
+section: HOUSE
+page: H7653
+citation: 153 Cong. Rec. H7653
+---
+
+# ADJOURNMENT
+
+**Speaking:** Ryan, Tim (R000577) [D-OH]
+
+```
+                              ADJOURNMENT
+
+  Mr. RYAN of Ohio. Mr. Speaker, I move that the House do now adjourn.
+  The motion was agreed to; accordingly (at midnight), the House 
+adjourned until today, Thursday, July 12, 2007, at 10 a.m.
+
+                     EXECUTIVE COMMUNICATIONS, ETC.
+
+  Under clause 8 of rule XII, executive communications were taken from 
+the Speaker's table and referred as follows:
+
+       2400. A letter from the Deputy Secretary, Department of 
+     Defense, transmitting the Department's report for the second 
+     quarter of fiscal year 2007 as required by the Joint 
+     Improvised Explosive Device Defeat Fund provision in Title IX 
+     of the Department of Defense Appropriations Act of 2007, Pub. 
+     L. 109-289; to the Committee on Armed Services.
+       2401. A letter from the Interim Director, Pension Benefit 
+     Guaranty Corporation, transmitting the Corporation's final 
+     rule -- Benefits Payable in Terminated Single-Employer Plans; 
+     Allocation of Assets in Single-Employer Plans; Interest 
+     Assumptions for Valuing and Paying Benefits -- received June 
+     6, 2007, pursuant to 5 U.S.C. 801(a)(1)(A); to the Committee 
+     on Education and Labor.
+       2402. A letter from the Principal Deputy Associate 
+     Administrator, Environmental Protection Agency, transmitting 
+     the Agency's final rule -- Approval and Promulgation of 
+     Implementation Plans; State of Iowa [EPA-R07-OAR-2007-0124; 
+     FRL-8320-3] received June 4, 2007, pursuant to 5 U.S.C. 
+     801(a)(1)(A); to the Committee on Energy and Commerce.
+       2403. A letter from the Principal Deputy Associate 
+     Administrator, Environmental Protection Agency, transmitting 
+     the Agency's final rule -- Approval and Promulgation of Air 
+     Quality Implementation Plans; Virginia; Redesignation of the 
+     Richmond-Petersburg 8-Hour Ozone Nonattainment Area to 
+     Attainment and Approval of the Area's Maintenance Plan and 
+     2002 Base-Year Inventory [EPA-R03-OAR-2006-0917; FRL-8320-8] 
+     received June 4, 2007, pursuant to 5 U.S.C. 801(a)(1)(A); to 
+     the Committee on Energy and Commerce.
+       2404. A letter from the Principal Deputy Associate 
+     Administrator, Environmental Protection Agency, transmitting 
+     the Agency's final rule -- Approval and Promulgation of Air 
+     Quality Implementation Plans; Virginia; Redesignation of the 
+     Hampton Roads 8-Hour Ozone Nonattainment Area to Attainment 
+     and Approval of the Area's Maintenance Plan and 2002 Base-
+     Year Inventory [EPA-R03-OAR-2006-0919; FRL-8320-9] received 
+     June 4, 2007, pursuant to 5 U.S.C. 801(a)(1)(A); to the 
+     Committee on Energy and Commerce.
+       2405. A letter from the Principal Deputy Associate 
+     Administrator, Environmental Protection Agency, transmitting 
+     the Agency's final rule -- Approval and Promulgation of Air 
+     Quality Implementation Plans; Texas; Revision to the Texas 
+     State Implementation Plan Regarding a Negative Declaration 
+     for the Synthetic Organic Chemical Manufacturing Industry 
+     Batch Processing Source Category in El Paso County [EPA-R06-
+     OAR-2007-0386; FRL-8321-7] received June 4, 2007, pursuant to 
+     5 U.S.C. 801(a)(1)(A); to the Committee on Energy and 
+     Commerce.
+       2406. A letter from the Principal Deputy Associate 
+     Administrator, Environmental Protection Agency, transmitting 
+     the Agency's final rule -- Approval and Promulgation of 
+     Implementation Plans; South Carolina: Revisions to State 
+     Implementation Plan; Clarification [EPA-R04-OAR-2005-SC-0003, 
+     EPA-R04-OAR-2005-SC-0005-200620c; FRL-8321-4] received June 
+     4, 2007, pursuant to 5 U.S.C. 801(a)(1)(A); to the Committee 
+     on Energy and Commerce.
+       2407. A letter from the Management Analyst, Federal 
+     Communications Commission, transmitting the Commission's 
+     final rule -- In the Matter of Amendment of the Schedule of 
+     Application Fees Set Forth In Sections 1.1102 through 1.1107 
+     of the Commission's Rules [GEN Docket No. 86-285] received 
+     May 8, 2007, pursuant to 5 U.S.C. 801(a)(1)(A); to the 
+     Committee on Energy and Commerce.
+       2408. A letter from the General Counsel, Federal Energy 
+     Regulatory Commission, transmitting the Commission's final 
+     rule -- Applicability of Federal Power Act Section 215 to 
+     Qualifiying Small Power Production and Cogeneration 
+     Facilities [Docket No. RM07-11-000] received June 6, 2007, 
+     pursuant to 5 U.S.C. 801(a)(1)(A); to the Committee on Energy 
+     and Commerce.
+       2409. A letter from the Acting Assistant Director for 
+     Licensing, OFAC, Department of
+
+[[Page H7654]]
+
+     the Treasury, transmitting the Department's final rule -- 
+     Alphabetical Listing of Blocked Persons, Specially Designated 
+     Nationals, Specially Designated Terrorists, Specially 
+     Designated Global Terrorists, Foreign Terrorist 
+     Organizations, and Specifically Designated Narcotics 
+     Traffickers -- received July 3, 2007, pursuant to 5 U.S.C. 
+     801(a)(1)(A); to the Committee on Foreign Affairs.
+       2410. A letter from the Director, Office of Personnel 
+     Management, transmitting a report on the Physicians' 
+     Comparability Allowance Program for fiscal year 2007, 
+     pursuant to 5 U.S.C. 5948(j)(1); to the Committee on 
+     Oversight and Government Reform.
+       2411. A letter from the Secretary, Department of Health and 
+     Human Services, transmitting the semiannual report on the 
+     activities of the Office of Inspector General for the period 
+     October 1, 2006 through March 31, 2007, pursuant to 5 U.S.C. 
+     app. (Insp. Gen. Act) section 5(b); to the Committee on 
+     Oversight and Government Reform.
+       2412. A letter from the Assistant Inspector General, 
+     Communications and Congressional Liaison, Department of 
+     Defense, transmitting in compliance with the ``Federal 
+     Activities Inventory Reform Act of 1998,'' (Pub. L. 105-270, 
+     the FAIR Act), the inventory of commercial and inherently 
+     government activities for FY 2006; to the Committee on 
+     Oversight and Government Reform.
+       2413. A letter from the Assistant Secretary for 
+     Administration, Department of Transportation, transmitting 
+     the Department's 2006 annual report on the use of the 
+     Category Rating System, pursuant to 5 U.S.C. 3319; to the 
+     Committee on Oversight and Government Reform.
+       2414. A letter from the Secretary, Department of Veterans 
+     Affairs, transmitting the semiannual report on activities of 
+     the Inspector General for the period October 1, 2006, through 
+     March 31, 2007, pursuant to 5 U.S.C. app. (Insp. Gen. Act) 
+     section 5(b); to the Committee on Oversight and Government 
+     Reform.
+       2415. A letter from the Associate Deputy Secretary, 
+     Department of the Interior, transmitting the Department's FY 
+     2006 inventory of commercial and inherently governmental 
+     activities prepared in accordance with the Federal Activities 
+     Reform (FAIR) Act of 1998 (P.L. 105-270) and the Office of 
+     Management and Budget (OMB) Circular No. A-76; to the 
+     Committee on Oversight and Government Reform.
+       2416. A letter from the Chair, Equal Employment Opportunity 
+     Commission, transmitting the semiannual report on the 
+     activities of the Inspector General and management's report 
+     for the period ending March 31, 2007, pursuant to 5 U.S.C. 
+     app. (Insp. Gen. Act) section 5(b); to the Committee on 
+     Oversight and Government Reform.
+       2417. A letter from the Chairman, Federal Deposit Insurance 
+     Corporation, transmitting the Corporation's annual report 
+     required by Section 203 of the Notification and Federal 
+     Antidiscrimination and Retaliation Act of 2002, Pub. L. 107-
+     174, for Fiscal Years 2004 and 2005; to the Committee on 
+     Oversight and Government Reform.
+       2418. A letter from the Interim Chief Financial Officer, 
+     Federal Home Loan Bank of Atlanta, transmitting the 2006 
+     management report and statements on system of internal 
+     controls of the Federal Home Loan Bank of Atlanta, pursuant 
+     to 31 U.S.C. 9106; to the Committee on Oversight and 
+     Government Reform.
+       2419. A letter from the First Vice President and 
+     Controller, Federal Home Loan Bank of Boston, transmitting 
+     the 2006 management report and statements of internal 
+     controls of the Federal Home Loan Bank of Boston, pursuant to 
+     31 U.S.C. 9106; to the Committee on Oversight and Government 
+     Reform.
+       2420. A letter from the Executive Vice President, Financial 
+     Information Group, Federal Home Loan Bank of Chicago, 
+     transmitting the 2006 management report and statements on 
+     system of internal controls of the Federal Home Loan Bank of 
+     Chicago, pursuant to 31 U.S.C. 9106; to the Committee on 
+     Oversight and Government Reform.
+       2421. A letter from the Senior Vice President and Chief 
+     Accounting Officer, Federal Home Loan Bank of Dallas, 
+     transmitting the 2006 management report of the Federal Home 
+     Loan Bank of Dallas, pursuant to 31 U.S.C. 9106; to the 
+     Committee on Oversight and Government Reform.
+       2422. A letter from the Controller, Federal Home Loan Bank 
+     of Des Moines, transmitting the 2006 management report and 
+     statements on system of internal controls of the Federal Home 
+     Loan Bank of Des Moines, pursuant to 31 U.S.C. 9106; to the 
+     Committee on Oversight and Government Reform.
+       2423. A letter from the President and Chief Executive 
+     Officer, Federal Home Loan Bank of Pittsburgh, transmitting 
+     the 2006 Statements on System of Internal Controls of the 
+     Federal Home Loan Bank of Pittsburgh, pursuant to 31 U.S.C. 
+     9106; to the Committee on Oversight and Government Reform.
+       2424. A letter from the President and Chief Executive 
+     Officer, Federal Home Loan Bank of Topeka, transmitting the 
+     2006 Statements on System of Internal Controls of the Federal 
+     Home Loan Bank of Topeka, pursuant to 31 U.S.C. 9106; to the 
+     Committee on Oversight and Government Reform.
+       2425. A letter from the Comptroller General, Government 
+     Accountability Office, transmitting a copy of the Office's 
+     report entitled, ``Forces That Will Shape America's Future: 
+     Themes from GAO's Strategic Plan''; to the Committee on 
+     Oversight and Government Reform.
+       2426. A letter from the Chairman, International Trade 
+     Commission, transmitting in accordance with Section 645 of 
+     Division F, Title VI, of the Consolidated Appropriations Act, 
+     FY 2004, Pub. L. 108-199, the Commission's report covering 
+     fiscal year 2006; to the Committee on Oversight and 
+     Government Reform.
+       2427. A letter from the Administrator, Small Business 
+     Administration, transmitting the semiannual report of the 
+     Office of Inspector General for the period October 1, 2006 
+     through March 31, 2007, pursuant to 5 U.S.C. app. (Insp. Gen. 
+     Act) section 5(b); to the Committee on Oversight and 
+     Government Reform.
+       2428. A letter from the Inspector General, Small Business 
+     Administration, transmitting the semiannual report of the 
+     Office of Inspector General for the period October 1, 2006 
+     through March 31, 2007, pursuant to 5 U.S.C. app. (Insp. Gen. 
+     Act) section 5(b); to the Committee on Oversight and 
+     Government Reform.
+       2429. A letter from the Commissioner, Social Security 
+     Administration, transmitting the semiannual report on the 
+     activities of the Office of Inspector General for the period 
+     October 1, 2006 through March 31, 2007, pursuant to 5 U.S.C. 
+     app. (Insp. Gen. Act) section 5(b); to the Committee on 
+     Oversight and Government Reform.
+       2430. A letter from the Deputy Assistant Administrator for 
+     Regulatory Programs, NMFS, National Oceanic and Atmospheric 
+     Administration, transmitting the Administration's final rule 
+     -- Fisheries Off West Coast States; Pacific Coast Groundfish 
+     Fishery; a Temporary Rule [Docket No. 070510101-7101-01] 
+     (RIN: 0648-AV57) received June 6, 2007, pursuant to 5 U.S.C. 
+     801(a)(1)(A); to the Committee on Natural Resources.
+       2431. A letter from the Chief, Publications and Regulations 
+     Branch, Internal Revenue Service, transmitting the Service's 
+     final rule -- Rollovers to Prototype Roth IRAs [Announcement 
+     2007-55] received June 6, 2007, pursuant to 5 U.S.C. 
+     801(a)(1)(A); to the Committee on Ways and Means.
+       2432. A letter from the Chief, Publications and Regulations 
+     Branch, Internal Revenue Service, transmitting the Service's 
+     final rule -- Covered Employees under section 162(m)(3) 
+     [Notice 2007-49] received June 6, 2007, pursuant to 5 U.S.C. 
+     801(a)(1)(A); to the Committee on Ways and Means.
+       2433. A letter from the Chief, Publications and 
+     Regulations, Internal Revenue Service, transmitting the 
+     Service's final rule -- 26 CFR 601.201: Rulings and 
+     determination letters. (Also Part 1, 102.) (Rev. Proc. 2007-
+     39) received June 6, 2007, pursuant to 5 U.S.C. 801(a)(1)(A); 
+     to the Committee on Ways and Means.
+       2434. A letter from the Branch Chief, Publications and 
+     Regulations, Internal Revenue Service, transmitting the 
+     Service's final rule -- Guidance regarding deductions by 
+     individuals for qualified conservation contributions [Notice 
+     2007-50] received June 4, 2007, pursuant to 5 U.S.C. 
+     801(a)(1)(A); to the Committee on Ways and Means.
+
+                          ____________________
+```
