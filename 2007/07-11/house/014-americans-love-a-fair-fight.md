@@ -1,0 +1,41 @@
+---
+granule: CRECB-2007-pt13-Pg18475-3
+date: 2007-07-11
+edition: CRECB
+section: HOUSE
+page: 18475
+---
+
+# AMERICANS LOVE A FAIR FIGHT
+
+```
+                      AMERICANS LOVE A FAIR FIGHT
+
+  (Mr. PENCE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. PENCE. Mr. Speaker, the American people love a fair fight, and so 
+do I. In the debate over America's future, we especially want to hear 
+all the facts and all the arguments on every side of the issue.
+  Unfortunately, some in our Nation's Capitol want to achieve that 
+result by bringing back what is known as the Fairness Doctrine, an 
+archaic government regulation imposed by the Federal Communication 
+Commission that for decades required broadcasters to present 
+controversial issues in a fair and balanced manner.
+  Now, it sounds acceptable enough. But there is really nothing fair 
+about the Fairness Doctrine, Mr. Speaker. This is a relic of America's 
+broadcasting past, and it should stay in the past where it belongs.
+  Fortunately, 2 weeks ago, 309 Republicans and Democrats in the 
+Congress voted in favor of the Pence amendment to prevent the FCC for 1 
+year from reinstituting the Fairness Doctrine.
+  While I was pleased with the bipartisan passage of this legislation, 
+today we will open a second front to ensure that the Fairness Doctrine 
+can never come back again. In cooperation with colleagues in the House 
+and the Senate today, we will unveil the Broadcaster Freedom Act, which 
+will ensure that the FCC and any future administration cannot re-
+regulate the airwaves of America without an act of Congress.
+  I urge my colleagues on both sides of the aisle, join me in 
+cosponsoring the Broadcaster Freedom Act and preserve the free airwaves 
+of America.
+
+                          ____________________
+```
