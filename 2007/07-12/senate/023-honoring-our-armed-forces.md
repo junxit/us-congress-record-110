@@ -1,0 +1,42 @@
+---
+granule: CREC-2007-07-12-pt1-PgS9126-2
+date: 2007-07-12
+edition: CREC
+section: SENATE
+page: S9126
+citation: 153 Cong. Rec. S9126
+---
+
+# HONORING OUR ARMED FORCES
+
+**Speaking:** Hagel, Chuck (H001028) [R-NE]
+
+```
+                       HONORING OUR ARMED FORCES
+
+
+                       Specialist Dustin Workman
+
+  Mr. HAGEL. Mr. President, I rise to express my sympathy over the loss 
+of U.S. Army SPC Dustin Workman II of Greenwood, NE. Specialist Workman 
+was killed on June 28 by an improvised explosive device in Baghdad. He 
+was 19 years old.
+  Specialist Workman graduated from Ashland-Greenwood High School in 
+2005. Faculty at Ashland-Greenwood remember his talent for writing and 
+his love of books, though not necessarily the ones assigned to him, his 
+skill in mechanical working, and most importantly, his hard work and 
+commitment to finishing school. From the time he was a freshman at 
+Ashland-Greenwood, Specialist Workman's teachers noticed a strong 
+desire to serve in the Army.
+  Specialist Workman enlisted with the Army and served with B Company, 
+2nd Battalion, 12th Infantry Regiment, 2nd Brigade Combat Team, based 
+at Fort Carson, CO. We are proud of Specialist Workman's service to our 
+country, as well as the thousands of other brave Americans serving in 
+Iraq.
+  Specialist Workman is survived by his parents Dustin and Valerie, 
+younger brother Korey, and younger sister Krysta.
+  I ask my colleagues to join me and all Americans in honoring SPC 
+Dustin Workman II.
+
+                          ____________________
+```

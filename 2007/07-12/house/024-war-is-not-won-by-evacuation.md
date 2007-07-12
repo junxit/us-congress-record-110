@@ -1,0 +1,40 @@
+---
+granule: CREC-2007-07-12-pt1-PgH7662-3
+date: 2007-07-12
+edition: CREC
+section: HOUSE
+page: H7662
+citation: 153 Cong. Rec. H7662
+---
+
+# WAR IS NOT WON BY EVACUATION
+
+**Speaking:** Poe, Ted (P000592) [R-TX]
+
+```
+                      WAR IS NOT WON BY EVACUATION
+
+  (Mr. POE asked and was given permission to address the House for 1 
+minute.)
+  Mr. POE. Mr. Speaker: ``Many people think the best way to escape war 
+is to dwell upon its horrors and to imprint them vividly upon the minds 
+of the younger generation. They flaunt the grisly photographs before 
+their eyes. They fill their ears with tales of carnage. They dwell on 
+the ineptitude of generals and admirals. They denounce the crime and 
+the folly of human strife.''
+  These words of Winston Churchill in 1934 stressed upon the people of 
+Great Britain that the cynics, who don't believe some things are worth 
+fighting for, should not have their way. They ignore the victories and 
+accomplishments and, instead, focus upon setbacks.
+  War is hard. It has always been hard. Congress will once again debate 
+a timetable retreat for American troops to leave Iraq. The timid will 
+want to turn their back on the enemy and leave a desperate people and a 
+nation floundering; all this because war is hard.
+  Retreat tells the enemy that if they wait America out, we will bow 
+out of the fight.
+  Mr. Speaker, Churchill also remarked, ``war is not won by 
+evacuation.''
+  And that's just the way it is.
+
+                          ____________________
+```
