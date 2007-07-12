@@ -1,0 +1,50 @@
+---
+granule: CRECB-2007-pt13-Pg18717-3
+date: 2007-07-12
+edition: CRECB
+section: SENATE
+page: 18717
+---
+
+# ADDITIONAL STATEMENTS
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+                    HONORING REYNOLDS, NORTH DAKOTA
+
+● Mr. CONRAD. Mr. President, today I recognize a community in 
+North Dakota that will be celebrating its anniversary. On July 27-29, 
+the residents of Reynolds will gather to celebrate their community's 
+history and founding.
+  Reynolds is a vibrant community located in eastern North Dakota. 
+Founded in 1880, years before North Dakota was granted statehood, 
+Reynolds was named for Dr. Henry A. Reynolds, who served as a surgeon 
+in the Civil War and had recently migrated to the area from Maine. 
+Reynolds, like many other North Dakota communities, was originally 
+incorporated with the arrival of the railroad.
+
+[[Page 18718]]
+
+  Reynolds is now, and always has been, a very unique community. The 
+city itself has two churches, two elevators, and is separated by two 
+counties. The number two is very important to the residents of 
+Reynolds, and celebrating its quasquicentennial 2 years late is, as the 
+community says, kind of a ``Reynoldsism.''
+  Today, Reynolds has much to celebrate. Its 125th+2 celebration will 
+be an event worth taking in. Festivities will include a steak fry, 
+parade, street fair, alumni baseball game, fireworks, and much more.
+  I ask the Senate to join me in congratulating Reynolds, ND, and its 
+residents on their first 127 years and in wishing them well in the 
+future. By honoring Reynolds and all the other historic small towns of 
+North Dakota, we keep the great pioneering frontier spirit alive for 
+future generations. It is places such as Reynolds that have helped to 
+shape this country into what it is today, which is why this fine 
+community is deserving of our recognition.
+  Reynolds has a proud past and a bright future.●
+
+                          ____________________
+```
