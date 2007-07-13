@@ -1,0 +1,69 @@
+---
+granule: CREC-2007-07-13-pt1-PgS9210-2
+date: 2007-07-13
+edition: CREC
+section: SENATE
+page: S9210
+citation: 153 Cong. Rec. S9210
+---
+
+# IN RECOGNITION OF ERIN RATH
+
+**Speaking:** Gregg, Judd (G000445) [R-NH]
+
+```
+                      IN RECOGNITION OF ERIN RATH
+
+● Mr. GREGG. Mr. President, today I pay tribute to my longtime 
+communications director and friend Erin Rath, who for the past 9 years 
+has had the unenviable task of turning a sow's ear to a silk purse, of 
+explaining what I ``really'' meant and consoling reporters whose call I 
+missed.
+  Erin comes from hearty New Hampshire political stock and was brought 
+up in an environment where politics and community service was very much 
+a part of her life. Her mother Chris is a leading educator in Concord, 
+serving as superintendent of schools, and her father Tom is a bit of a 
+legend in New Hampshire politics for offering sound advice to 
+Presidential candidates who wander into the Granite State. But, anyone 
+who knows Erin will tell you she has always cut her own path, willing 
+to take any task and accomplishing it with a smile. Whether it was 
+dealing with a not so media friendly member or an aggressive reporter, 
+Erin has perfected the skills needed to pitch any story with style and 
+grace. She understands how to craft a message and have it be 
+understood, whether by a weekly paper in New Hampshire or the Wall 
+Street Journal.
+  On those rare days that I didn't want to do press, Erin was always 
+the one coming to me and promoting an interview or conference call and, 
+even when temporarily rebuffed, would find a way to cheerfully get her 
+mission accomplished. And, when she was left to translate the day's 
+events to a press corps that was disinterested or confused, Erin would 
+find a way to make the story intelligible and get it in print or across 
+the airwaves.
+  Erin has also worn another very important hat in my office as the 
+lead on appropriations issues. She excelled at organizing and managing 
+my appropriations requests and making sure worthy New Hampshire 
+projects were
+
+[[Page S9211]]
+
+not overlooked. Erin has been responsible for helping to deliver 
+hundreds of millions of dollars to better our State.
+  Just as important to Kathy and I has been the friendship that went 
+well beyond the office. Knowing Erin since she was rather young, 
+allowed us the rare opportunity to watch a bubbly, redheaded, star 
+athlete mature into a charming and professional woman and soon to be 
+mother. Whether it was house-sitting or helping watch over our active 
+family, Erin has long been a part of the Gregg family.
+  Erin has decided to delay the dream many of us had for her of running 
+for Congress in New Hampshire until after the birth of her first child 
+and move to Minnesota with her husband Dan Moos as he begins his 
+teaching career at the Gustavus Adolphus College. Erin, after being in 
+the eye of the storm for the past 9 years, will enjoy living in a 
+frozen, quiet land where community spirit is derived from singing the 
+Golden Gophers fight song.
+  Kathy joins me in wishing Erin continued great success and in 
+thanking her for all that she has done for the Gregg family, our 
+office, and New Hampshire.●
+
+                          ____________________
+```
