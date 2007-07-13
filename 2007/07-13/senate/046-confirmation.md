@@ -1,0 +1,23 @@
+---
+granule: CRECB-2007-pt13-Pg18962-8
+date: 2007-07-13
+edition: CRECB
+section: SENATE
+page: 18962
+---
+
+# CONFIRMATION
+
+```
+                              CONFIRMATION
+
+  Executive nomination confirmed by the Senate Friday, July 13, 2007:
+
+
+                         DEPARTMENT OF DEFENSE
+
+       PRESTON M. GEREN, OF TEXAS, TO BE SECRETARY OF THE ARMY.
+       THE ABOVE NOMINATION WAS APPROVED SUBJECT TO THE NOMINEE'S 
+     COMMITMENT TO RESPOND TO REQUESTS TO APPEAR AND TESTIFY 
+     BEFORE ANY DULY CONSTITUTED COMMITTEE OF THE SENATE.
+```
