@@ -1,0 +1,38 @@
+---
+granule: CRECB-2007-pt14-Pg19052-7
+date: 2007-07-16
+edition: CRECB
+section: HOUSE
+page: 19052
+---
+
+# MURDER OF JOURNALISTS
+
+```
+                         MURDER OF JOURNALISTS
+
+  (Mr. POE asked and was given permission to address the House for 1 
+minute.)
+  Mr. POE. Madam Speaker, in the last few years, 30 foreign journalists 
+have been murdered in a country torn by war. Violence against reporters 
+is so severe that one American journalist has recently fled back to the 
+United States. The would-be assassins have reportedly even been hired 
+to come to America to track these reporters down.
+  Madam Speaker, I'm not talking about violent Iraq. I am talking about 
+the murder of reporters in Mexico, second highest murder rate in the 
+world for reporters, next to Iraq.
+  One of the vicious violent drug cartels, the Zetas, made up of former 
+Mexican military officers, are targeting journalists who report on 
+their drug activities. Now these dope dealing thugs claim they will 
+just come to the United States, because of our porous borders, and kill 
+these journalists.
+  The United States should heed the warnings reported by these 
+courageous journalists, that these drug cartels are easily criss-
+crossing the Texas-Mexico border and bringing more drug violence to 
+America and Mexico.
+  Homeland Security should seize control of our border before the 
+cartels seize the lives of any more journalists.
+  And that's just the way it is.
+
+                          ____________________
+```

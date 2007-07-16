@@ -1,0 +1,82 @@
+---
+granule: CRECB-2007-pt14-Pg19090-3
+date: 2007-07-16
+edition: CRECB
+section: HOUSE
+page: 19090
+---
+
+# SCHIP REAUTHORIZATION AND HEALTH DISPARITIES
+
+```
+              SCHIP REAUTHORIZATION AND HEALTH DISPARITIES
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from Maryland (Mr. Cummings) is recognized for 5 minutes.
+  Mr. CUMMINGS. Mr. Speaker, I rise today to express my strong support 
+for the reauthorization and expansion of the State Children's Health 
+Insurance Program or SCHIP, our Nation's health care safety net for 
+low-income, uninsured children.
+  We are at a critical juncture in our Nation's health care crisis. An 
+estimated 46 million Americans are uninsured. Approximately 18,000 
+people die each year in this country as a direct consequence of being 
+uninsured. Sadly, many of the victims are innocent children. No fewer 
+than 9 million American children are without health insurance, and they 
+are suffering as a result.
+  Uninsured children, like uninsured adults, are less likely to have 
+access to early and preventive care, setting them up for a lifetime of 
+health problems that may have been avoided if caught today. Far too 
+many of our children are going to the emergency room because we have 
+failed to let them into the doctor's office.
+  This is immoral, but it is also uneconomical. Preventive health care 
+services are cheaper than disease management and trauma care. By 
+denying our citizenry the former, we are paying a premium for the 
+latter.
+  The President has ignored the potential cost savings, arguing, 
+instead, that an expanded SCHIP program would move children off of 
+private insurance, but that is simply not the case. The vast majority 
+of children who would be covered by this bill come from families with 
+less than $33,200 for a family of three. These families do not have the 
+luxury of choosing private insurance over the public benefit. For them, 
+it is public coverage or nothing.
+  We have a moral obligation to ensure that our children have access to 
+health care. Our health care system produces infant mortality rates and 
+incidences of health disparities far greater than other nations in the 
+industrialized world. We know statistically that racial and ethnic 
+minorities suffer disproportionately from poor health and
+
+[[Page 19091]]
+
+die prematurely. More than 30 years after the national embarrassment of 
+Tuskegee Syphilis Experience, our people are still being denied access 
+to the best medical system in the world.
+  This trend recently played out in my home State in Maryland in an 
+incident that I still find difficult to comprehend. In February, a 12-
+year-old African American boy named Deamonte Driver died when an 
+untreated tooth infection spread to his brain. A routine dental checkup 
+costing about $40 might have saved his life. But Deamonte was poor and 
+homeless, and he did not have access to a dentist.
+  Deamonte's case was rare and extreme, but he is by no means alone in 
+his suffering. The Centers for Disease Control and Prevention report 
+that dental disease is the single-most chronic childhood disease in 
+this country. It chills the conscience to think of how one young boy's 
+life was cut short by the failure of our health care system, and 
+millions of others continue to suffer.
+  We have a moral obligation in the memory of Deamonte to fix this 
+problem now. This is why I have consistently advocated for a strong 
+SCHIP bill that expands coverage to 6 million of our Nation's poorest 
+children and guarantees them dental coverage.
+  I was discouraged to see that the first version of the bill from the 
+Senate Finance Committee included only $35 million in additional 
+funding and did not include mandatory dental benefit. As a Washington 
+Post editorial board recently noted, memories are sometimes short here 
+in Washington. I realize the current budgetary constraints make this 
+process all the more contentious; however, these are times that require 
+decisive leadership. I am hopeful that in the House we will be able to 
+find funding to expand the program by $50 million while working with 
+our Senate colleagues to negotiate a strong bill.
+  I urge all of my colleagues to support this vitally important 
+legislation.
+
+                          ____________________
+```

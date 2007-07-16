@@ -1,0 +1,766 @@
+---
+granule: CRECB-2007-pt14-Pg19081
+date: 2007-07-16
+edition: CRECB
+section: HOUSE
+page: 19081
+---
+
+# APPALACHIAN REGIONAL DEVELOPMENT ACT AMENDMENTS OF 2007
+
+```
+        APPALACHIAN REGIONAL DEVELOPMENT ACT AMENDMENTS OF 2007
+
+  Ms. EDDIE BERNICE JOHNSON of Texas. Madam Speaker, I move to suspend 
+the rules and pass the bill (H.R. 799) to reauthorize and improve the 
+program authorized by the Appalachian Regional Development Act of 1965, 
+as amended.
+  The Clerk read the title of the bill.
+  The text of the bill is as follows:
+
+                                H.R. 799
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Appalachian Regional 
+     Development Act Amendments of 2007''.
+
+     SEC. 2. LIMITATION ON AVAILABLE AMOUNTS; MAXIMUM COMMISSION 
+                   CONTRIBUTION.
+
+       (a) Grants and Other Assistance.--Section 14321(a) of title 
+     40, United States Code, is amended--
+       (1) by striking paragraph (1)(A)(i) and inserting the 
+     following:
+       ``(i) the amount of the grant shall not exceed--
+
+       ``(I) 50 percent of administrative expenses;
+       ``(II) at the discretion of the Commission, if the grant is 
+     to a local development district that has a charter or 
+     authority that includes the economic development of a county 
+     or a part of a county for which a distressed county 
+     designation is in effect under section 14526, 75 percent of 
+     administrative expenses; or
+       ``(III) at the discretion of the Commission, if the grant 
+     is to a local development district that has a charter or 
+     authority that includes the economic development of a county 
+     or a part of a county for which an at-risk county designation 
+     is in effect under section 14526, 70 percent of 
+     administrative expenses;''; and
+
+       (2) by striking paragraph (2)(A) and inserting the 
+     following:
+       ``(A) In general.--Except as provided in subparagraph (B), 
+     of the cost of any activity eligible for financial assistance 
+     under this section, not more than--
+       ``(i) 50 percent may be provided from amounts appropriated 
+     to carry out this subtitle;
+       ``(ii) in the case of a project to be carried out in a 
+     county for which a distressed county designation is in effect 
+     under section 14526, 80 percent may be provided from amounts 
+     appropriated to carry out this subtitle; or
+       ``(iii) in the case of a project to be carried out in a 
+     county for which an at-risk county designation is in effect 
+     under section 14526, 70 percent may be provided from amounts 
+     appropriated to carry out this subtitle.''.
+       (b) Demonstration Health Projects.--Section 14502 of title 
+     40, United States Code, is amended--
+       (1) by striking subsection (d)(2) and inserting the 
+     following:
+       ``(2) Limitation on available amounts.--Grants under this 
+     section for the operation (including initial operating 
+     amounts and operating deficits, which include the cost of 
+     attracting, training, and retaining qualified personnel) of a 
+     demonstration health project, whether or not constructed with 
+     amounts authorized by this section, may be made for up to--
+       ``(A) 50 percent of the cost of that operation;
+       ``(B) in the case of a project to be carried out in a 
+     county for which a distressed county designation is in effect 
+     under section 14526, 80 percent of the cost of that 
+     operation; or
+       ``(C) in the case of a project to be carried out for a 
+     county for which an at-risk county designation is in effect 
+     under section 14526, 70 percent of the cost of that 
+     operation.''; and
+       (2) in subsection (f)--
+       (A) in paragraph (1) by striking ``paragraph (2)'' and 
+     inserting ``paragraphs (2) and (3)''; and
+       (B) by adding at the end the following:
+       ``(3) At-risk counties.--The maximum Commission 
+     contribution for a project to be carried out in a county for 
+     which an at-risk county designation is in effect under 
+     section 14526 may be increased to the lesser of--
+       ``(A) 70 percent; or
+       ``(B) the maximum Federal contribution percentage 
+     authorized by this section.''.
+       (c) Assistance for Proposed Low- and Middle-Income Housing 
+     Projects.--Section 14503 of title 40, United States Code, is 
+     amended--
+       (1) by striking subsection (d)(1) and inserting the 
+     following:
+       ``(1) Limitation on available amounts.--A loan under 
+     subsection (b) for the cost of planning and obtaining 
+     financing (including the cost of preliminary surveys and 
+     analyses of market needs, preliminary site engineering and 
+     architectural fees, site options, application and mortgage 
+     commitment fees, legal fees, and construction loan fees and 
+     discounts) of a project described in that subsection may be 
+     made for up to--
+       ``(A) 50 percent of that cost;
+       ``(B) in the case of a project to be carried out in a 
+     county for which a distressed county designation is in effect 
+     under section 14526, 80 percent of that cost; or
+       ``(C) in the case of a project to be carried out for a 
+     county for which an at-risk county designation is in effect 
+     under section 14526, 70 percent of that cost.''; and
+       (2) by striking subsection (e)(1) and inserting the 
+     following:
+       ``(1) In general.--A grant under this section for expenses 
+     incidental to planning and obtaining financing for a project 
+     under this section that the Secretary considers to be 
+     unrecoverable from the proceeds of a permanent loan made to 
+     finance the project shall--
+       ``(A) not be made to an organization established for 
+     profit; and
+       ``(B) except as provided in paragraph (2), not exceed--
+       ``(i) 50 percent of those expenses;
+       ``(ii) in the case of a project to be carried out in a 
+     county for which a distressed county designation is in effect 
+     under section 14526, 80 percent of those expenses; or
+       ``(iii) in the case of a project to be carried out in a 
+     county for which an at-risk county designation is in effect 
+     under section 14526, 70 percent of those expenses.''.
+       (d) Telecommunications and Technology Initiative.--Section 
+     14504 of title 40, United States Code, is amended by striking 
+     subsection (b) and inserting the following:
+       ``(b) Limitation on Available Amounts.--Of the cost of any 
+     activity eligible for a grant under this section, not more 
+     than--
+       ``(1) 50 percent may be provided from amounts appropriated 
+     to carry out this section;
+       ``(2) in the case of a project to be carried out in a 
+     county for which a distressed county designation is in effect 
+     under section 14526, 80 percent may be provided from amounts 
+     appropriated to carry out this section; or
+       ``(3) in the case of a project to be carried out in a 
+     county for which an at-risk county designation is in effect 
+     under section 14526, 70 percent may be provided from amounts 
+     appropriated to carry out this section.''.
+       (e) Entrepreneurship Initiative.--Section 14505 of title 
+     40, United States Code, is amended by striking subsection (c) 
+     and inserting the following:
+       ``(c) Limitation on Available Amounts.--Of the cost of any 
+     activity eligible for a grant under this section, not more 
+     than--
+       ``(1) 50 percent may be provided from amounts appropriated 
+     to carry out this section;
+       ``(2) in the case of a project to be carried out in a 
+     county for which a distressed county designation is in effect 
+     under section 14526, 80 percent may be provided from amounts 
+     appropriated to carry out this section; or
+       ``(3) in the case of a project to be carried out in a 
+     county for which an at-risk county designation is in effect 
+     under section 14526, 70 percent may be provided from amounts 
+     appropriated to carry out this section.''.
+       (f) Regional Skills Partnerships.--Section 14506 of title 
+     40, United States Code, is amended by striking subsection (d) 
+     and inserting the following:
+       ``(d) Limitation on Available Amounts.--Of the cost of any 
+     activity eligible for a grant under this section, not more 
+     than--
+       ``(1) 50 percent may be provided from amounts appropriated 
+     to carry out this section;
+       ``(2) in the case of a project to be carried out in a 
+     county for which a distressed county designation is in effect 
+     under section 14526, 80 percent may be provided from amounts 
+     appropriated to carry out this section; or
+       ``(3) in the case of a project to be carried out in a 
+     county for which an at-risk county designation is in effect 
+     under section 14526, 70 percent may be provided from amounts 
+     appropriated to carry out this section.''.
+       (g) Supplements to Federal Grant Programs.--Section 
+     14507(g) of title 40, United States Code, is amended--
+       (1) in paragraph (1) by striking ``paragraph (2)'' and 
+     inserting ``paragraphs (2) and (3)''; and
+       (2) by adding at the end the following:
+       ``(3) At-risk counties.--The maximum Commission 
+     contribution for a project to be carried out in a county for 
+     which an at-risk county designation is in effect under 
+     section 14526 may be increased to 70 percent.''.
+
+     SEC. 3. ECONOMIC AND ENERGY DEVELOPMENT INITIATIVE.
+
+       (a) In General.--Subchapter I of chapter 145 of subtitle IV 
+     of title 40, United States Code, is amended by adding at the 
+     end the following:
+
+[[Page 19082]]
+
+
+
+     ``Sec. 14508. Economic and energy development initiative
+
+       ``(a) Projects To Be Assisted.--The Appalachian Regional 
+     Commission may provide technical assistance, make grants, 
+     enter into contracts, or otherwise provide amounts to persons 
+     or entities in the Appalachian region for projects--
+       ``(1) to promote energy efficiency in the region to enhance 
+     its economic competitiveness;
+       ``(2) to increase the use of renewable energy resources in 
+     the region to produce alternative transportation fuels, 
+     electricity, and heat; and
+       ``(3) to support the development of conventional energy 
+     resources in the region to produce alternative transportation 
+     fuels, electricity, and heat.
+       ``(b) Limitation on Available Amounts.--Of the cost of any 
+     project eligible for a grant under this section, not more 
+     than--
+       ``(1) 50 percent may be provided from amounts appropriated 
+     to carry out this section;
+       ``(2) in the case of a project to be carried out in a 
+     county for which a distressed county designation is in effect 
+     under section 14526, 80 percent may be provided from amounts 
+     appropriated to carry out this section; or
+       ``(3) in the case of a project to be carried out in a 
+     county for which an at-risk county designation is in effect 
+     under section 14526, 70 percent may be provided from amounts 
+     appropriated to carry out this section.
+       ``(c) Sources of Assistance.--Assistance under this section 
+     may be provided from amounts made available to carry out this 
+     section in combination with amounts made available under 
+     other Federal programs or from any other source.
+       ``(d) Federal Share.--Notwithstanding any provision of law 
+     limiting the Federal share under any other Federal program, 
+     amounts made available to carry out this section may be used 
+     to increase that Federal share, as the Commission decides is 
+     appropriate.''.
+       (b) Conforming Amendment.--The analysis for chapter 145 of 
+     title 40, United States Code, is amended by inserting after 
+     the item relating to section 14507 the following:
+
+``14508. Economic and energy development initiative.''.
+
+     SEC. 4. DISTRESSED, AT-RISK, AND ECONOMICALLY STRONG 
+                   COUNTIES.
+
+       (a) Designation of At-Risk Counties.--Section 14526 of 
+     title 40, United States Code, is amended--
+       (1) in the section heading by inserting ``, at-risk,'' 
+     after ``Distressed''; and
+       (2) in subsection (a)(1)--
+       (A) by redesignating subparagraph (B) as subparagraph (C);
+       (B) in subparagraph (A) by striking ``and'' at the end; and
+       (C) by inserting after subparagraph (A) the following:
+       ``(B) designate as `at-risk counties' those counties in the 
+     Appalachian region that are most at risk of becoming 
+     economically distressed; and''.
+       (b) Conforming Amendment.--The analysis for chapter 145 of 
+     such title is amended by striking the item relating to 
+     section 14526 and inserting the following:
+
+``14526. Distressed, at-risk, and economically strong counties.''.
+
+     SEC. 5. AUTHORIZATION OF APPROPRIATIONS.
+
+       (a) In General.--Section 14703(a) of title 40, United 
+     States Code, is amended to read as follows:
+       ``(a) In General.--In addition to amounts made available 
+     under section 14501, there is authorized to be appropriated 
+     to the Appalachian Regional Commission to carry out this 
+     subtitle (other than section 14508)--
+       ``(1) $65,000,000 for fiscal year 2007;
+       ``(2) $80,000,000 for fiscal year 2008;
+       ``(3) $85,000,000 for fiscal year 2009;
+       ``(4) $90,000,000 for fiscal year 2010; and
+       ``(5) $95,000,000 for fiscal year 2011.''.
+       (b) Authorization of Appropriations.--Section 14703(b) of 
+     such title is amended to read as follows:
+       ``(b) Economic and Energy Development Initiative.--In 
+     addition to amounts made available under section 14501, there 
+     is authorized to be appropriated to the Commission to carry 
+     out section 14508 $12,000,000 for each of fiscal years 2008 
+     through 2011.''.
+       (c) Availability.--Section 14703(c) of such title is 
+     amended by striking ``subsection (a)'' and by inserting 
+     ``subsections (a) and (b)''.
+       (d) Allocation of Funds.--Section 14703 of such title is 
+     amended by adding at the end the following:
+       ``(d) Allocation of Funds.--Funds approved by the 
+     Commission for a project in a State in the Appalachian region 
+     pursuant to congressional direction shall be derived from 
+     such State's portion of the Commission's allocation of 
+     appropriated amounts among the States.''.
+
+     SEC. 6. TERMINATION.
+
+       Section 14704 of title 40, United States Code, is amended 
+     by striking ``2006'' and inserting ``2011''.
+
+     SEC. 7. ADDITIONS TO APPALACHIAN REGION.
+
+       (a) Kentucky.--Section 14102(a)(1)(C) of title 40, United 
+     States Code, is amended--
+       (1) by inserting ``Metcalfe,'' after ``Menifee,'';
+       (2) by inserting ``Nicholas,'' after ``Morgan,''; and
+       (3) by inserting ``Robertson,'' after ``Pulaski,''.
+       (b) Ohio.--Section 14102(a)(1)(H) of such title is 
+     amended--
+       (1) by inserting ``Ashtabula,'' after ``Adams,'';
+       (2) by inserting ``Fayette,'' after ``Coshocton,'';
+       (3) by inserting ``Mahoning,'' after ``Lawrence,''; and
+       (4) by inserting ``Trumbull,'' after ``Scioto,''.
+       (c) Tennessee.--Section 14102(a)(1)(K) of such title is 
+     amended--
+       (1) by inserting ``Giles,'' after ``Franklin,''; and
+       (2) by inserting ``Lawrence, Lewis, Lincoln,'' after 
+     ``Knox,''.
+       (d) Virginia.--Section 14102(a)(1)(L) of such title is 
+     amended--
+       (1) by inserting ``Henry,'' after ``Grayson,''; and
+       (2) by inserting ``Patrick,'' after ``Montgomery,''.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentlewoman from 
+Texas (Ms. Eddie Bernice Johnson) and the gentleman from Missouri (Mr. 
+Graves) each will control 20 minutes.
+  The Chair recognizes the gentlewoman from Texas.
+
+
+                             General Leave
+
+  Ms. EDDIE BERNICE JOHNSON of Texas. Madam Speaker, I ask unanimous 
+consent that all Members may have 5 legislative days within which to 
+revise and extend their remarks and include extraneous materials on 
+H.R. 799.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentlewoman from Texas?
+  There was no objection.
+  Ms. EDDIE BERNICE JOHNSON of Texas. Madam Speaker, I yield myself 
+such time as I may consume.
+  I rise in strong support of H.R. 799, as amended, the Appalachian 
+Regional Development Act Amendments of 2007, and thank Chairman 
+Oberstar and Ranking Member Mica for their hard work and leadership in 
+helping to bring this bill to the floor.
+  The Appalachian Regional Commission, the ARC, strives to ensure the 
+people and businesses of the Appalachian region have the knowledge, 
+skills, abilities, and access to services necessary to compete in basic 
+economic activities of the United States.
+  Since its inception in 1965, the commission has been highly effective 
+in meeting the goals of its mission. There is no doubt that it has 
+compiled an impressive record of accomplishment in creating economic 
+opportunity in Appalachia. Just as it has done since its inception, the 
+ARC has proven it provides a fair return, both socially and 
+economically, for the Federal Government's investment in the people of 
+Appalachia.
+  Consistent with the congressional leadership and interest in energy 
+programs, H.R. 799 authorizes the ARC to provide technical assistance, 
+make grants, enter into contracts, or otherwise provide amounts in the 
+Appalachian region for energy-efficient projects or projects to 
+increase the use of renewable energy resources.
+
+                              {time}  1630
+
+  This bill also authorizes the creation of at-risk counties, and 
+further outlines the percentage of funds for which these counties are 
+eligible. The authorized amounts build on the funds authorized in 
+Public Law 107-149 and adjust the annual amounts for inflation. The 
+bill authorizes appropriation for the commission's programs and 
+expenses through the fiscal year 2011.
+  H.R. 799, as amended, has strong bipartisan support, which 
+acknowledges the ARC as a well-run and highly effective Federal/State 
+partnership commission.
+  I urge the passage of H.R. 799, as amended.
+  Madam Speaker, I reserve the balance of my time.
+  Mr. GRAVES. Madam Speaker, I yield myself such time as I may consume.
+  Madam Speaker, H.R. 799, as amended, reauthorizes and improves the 
+Appalachian Regional Commission, the ARC. The ARC has been a successful 
+program for the last 40 years. It has helped reduce the Appalachian 
+region's poverty rate. It has cut the infant mortality rate. It has 
+increased the percentage of adults with a high school diploma. It has 
+provided water and sewer services to a significant number of households 
+and businesses and created new jobs.
+
+[[Page 19083]]
+
+  H.R. 799, as amended, reauthorizes the ARC for 5 years. The bill 
+includes a couple of very important reforms. It helps focus funding on 
+distressed and at-risk counties, and it includes language that will 
+deter earmarking of the program.
+  Currently, the ARC has four statutory designations which are 
+determined by the unemployment rate, per capita income and the poverty 
+rate of each ARC county. This bill creates an additional designation to 
+assist counties that are at risk and don't fully qualify as distressed.
+  At-risk counties are fragile economies making it difficult to meet 
+the 50 percent match rate to participate in the program. In many cases, 
+at-risk counties are recently distressed and eligible for an 80 percent 
+Federal match. The addition of the ``at-risk'' designation will fund 
+projects in these counties up to 70 percent of the project cost as they 
+continue the transition from the ``distressed'' to the ``transitional'' 
+designation.
+  The ARC is viewed by most as a successful model for economic 
+development. The ability to leverage a large amount of public and 
+private funding makes the ARC a very valuable tool for economic 
+development in Appalachia. We must ensure continuation of this 
+successful program and further express our support for the hardworking 
+people in the Appalachian region.
+  I would encourage my colleagues to support H.R. 799, as amended.
+  Madam Speaker, I would reserve the balance of my time.
+  Ms. EDDIE BERNICE JOHNSON of Texas. Madam Speaker, I yield such time 
+as he may consume to our chairman of the committee, Mr. Oberstar of 
+Minnesota.
+  Mr. OBERSTAR. I thank the gentlewoman, the Chair of our Water 
+Resources Subcommittee, for standing in and carrying on while I was 
+actually returning from Appalachia. And I thank the gentleman from 
+Missouri, our ranking member on the subcommittee, for his strong 
+support of all of the issues before our committee, and particularly 
+these matters today.
+  I was in Sunbury and Shamokin Dam in Pennsylvania with our colleague, 
+Congressman Carney, in his portion of the Appalachian Regional 
+Commission looking at the Economic Development Highway Program of ARC.
+  Well, it's a long stretch from Minnesota to Appalachia, but the 
+Appalachian region is an area that I have been associated with 
+legislatively since I started here in the Congress 44 years ago as 
+clerk of the Subcommittee on Rivers and Harbors, to the Committee on 
+Public Works, predecessor to our Transportation and Infrastructure 
+Committee.
+  I was engaged then in the earliest stages of forming what we know 
+today as the Economic Development Administration and the Appalachian 
+Regional Commission. It was close on the heels of the designation by 
+President John F. Kennedy of Franklin D. Roosevelt, Jr. to travel 
+throughout the Appalachian region to assess the conditions of distress, 
+to listen to the concerns of the communities throughout the 13-State 
+region, and to provide him with a report and a road map on dealing with 
+the needs of Appalachia.
+  When John F. Kennedy went into the region, he found a region of 
+poverty, a region of desolation. It struck him as worse than anything 
+he had seen; a region he described as exploited by the coal barons, 
+neglected by government and laid bare by ravages of the boom-and-bust 
+cycles of coal mining.
+  In President Kennedy's words: ``This is an area rich in potential. 
+Its people are hardworking, intelligent, resourceful, capable of 
+responding successfully to education and training. They are loyal to 
+their homes, to their families, to their States and to their country.''
+  ``The Appalachian region,'' he said, ``is well-endowed with potential 
+water, mineral, forest and scenic resources. This region, properly 
+developed and assisted by the Federal Government, can make a 
+contribution to the Nation's well-being.''
+  That was in 1960. Following the report of Franklin Roosevelt, Jr., 
+President Kennedy shaped what we know today as the legislation that 
+created the Appalachian Regional Commission, engineered into law by 
+then-President Lyndon Johnson, authored in the Senate by Senator 
+Jennings Randolph, and many cosponsors in the House, including my 
+predecessor John Blotnick. At the time that John F. Kennedy made those 
+observations, the way up for most people in Appalachia was a bus ticket 
+north to Detroit or Chicago.
+  The economy of Appalachia could well be described in those days as 80 
+acres and a mule. When I traveled as a staff member into the region and 
+saw that people were living in the hard pan areas, where there was no 
+ground filtration for the sewage they were discharging into the creeks 
+and streams, and in many places, generations of dysentery, where people 
+were drinking their own sewage.
+  The area needed highways, airports; it needed vocational training 
+centers; it needed education systems; it needed health care centers; it 
+needed the structure of what 150 years of neglect had denied that area. 
+And through the establishment of the Appalachian Regional Commission 
+and the Federal/State partnership that resulted from it, an area that 
+in 1960, whose income amounted to 45 percent of the national average, 
+today is up to 75 percent of the national average. Where homeownership 
+was a luxury, it is now a reality. Where job creation was nonexistent, 
+it has now returned to this area, fulfilling President Kennedy's 
+promise that the region can make a contribution to the Nation's well-
+being. And so it did exceedingly well.
+  Over many years, there were efforts to kill Appalachia. I remember so 
+vividly during a hearing that I conducted as Chair of the Economic 
+Development Subcommittee many years ago that we held in eastern 
+Kentucky and brought witnesses from throughout the region, including 
+from Tennessee, and I remember Ms. Tilda Kemplan, director of a child 
+resource center, testifying at our field hearing and saying, 
+``Gentlemen, when you go back to Washington, try not to look at that 
+dollar and see George Washington, but look over the top of the dollar 
+and see a child and see our future.'' And that is what Appalachia has 
+done. The Appalachian Regional Commission has caused us to look over 
+the top of the dollar and to see a child and to see the future of the 
+region.
+  In another community we talked to members of the city council and the 
+chamber of commerce. One of them said, very touchingly, ``Before the 
+ARC, we were so far down we had to look up to see bottom, but now we 
+see a future.'' And in another community in West Virginia, the mayor of 
+the town took us to his small business. Congressman Nick Rahall was 
+along, this was his district. And as the mayor and businessman 
+explaining his operation and the need for road, for airport, for rail 
+transportation, describing the needs and the good things that had been 
+accomplished so far with the ARC, I looked at the wall behind the cash 
+register, and there was a sign that read: ``God never put nobody in a 
+place too small to grow.''
+  Appalachia has been growing, the counties throughout this region, 
+growing and overcoming 150 years of neglect and decline; making 
+investments, creating opportunities, building for the future. One of 
+the reports about a decade ago by the commission, their annual report 
+on progress, said: ``Halfway home and a long way to go.'' Well, there's 
+still a long way to go, but the march forward has been much improved, 
+vastly improved by the investments we have made in partnership with the 
+States throughout this region.
+  Continuing the investments, as we have done in the SAFETEA-LU 
+Appalachia Backbone Highway Program at $470 million a year, continuing 
+with the more than $400 million over the 4 years of the authorization 
+in this bill, we will continue that partnership with the States, the 
+communities, the neighborhood, the people of the Appalachian region. It 
+is an investment of which all America can be proud, and of which all 
+America has benefited.
+  I thank the gentleman from Missouri, and, heck, my colleagues on the 
+Republican side of the committee. Throughout this whole initiative from 
+the 1960s, this has been a totally bipartisan effort. And I recall, 
+especially
+
+[[Page 19084]]
+
+during the Reagan years when the Reagan administration was proposing to 
+abolish the ARC and Congressman Hal Rogers, the former chairman of the 
+Commerce Subcommittee of appropriations, said, ``We're not going to let 
+them wear us down. We're going to proceed. We're going to prevail. We 
+have prevailed. Appalachia prevails. And America prevails with it.''
+  Madam Speaker, I rise in strong support of H.R. 799, a bipartisan 
+bill to improve the programs authorized by the Appalachian Regional 
+Development Act of 1965 (P.L. 89-4) and reauthorize the Appalachian 
+Regional Commission (``ARC'') for 5 years through FY 2011.
+  The Appalachian Regional Commission was created to address economic 
+issues and social problems of the Appalachian region as a part of 
+President Lyndon B. Johnson's Great Society program. Historically, the 
+Appalachian region has faced high levels of poverty and economic 
+distress resulting from geographic isolation and inadequate 
+infrastructure.
+  As a regional economic development agency, ARC supports the 
+development of Appalachia's economy and critical infrastructure to 
+provide a climate for industry growth and job creation. ARC programs 
+affect 406 counties located in 13 states, including all of West 
+Virginia, and parts of Alabama, Georgia, Kentucky, Maryland, 
+Mississippi, New York, North Carolina, Ohio, Pennsylvania, South 
+Carolina, Tennessee, and Virginia. The Appalachian region covers nearly 
+200,000 square miles and contains approximately 22 million people. 
+Currently, of the 406 counties included in the ARC, 114 are considered 
+to be distressed counties.
+  Since its creation in 1965, ARC has administered a variety of 
+programs to aid in the advancement of the region, including the 
+creation of a highway system, enhancements in education and job 
+training, and the development of water and sewer systems. ARC's funding 
+and projects have contributed significantly to employment, health, and 
+general economic development improvements in the region.
+  Because of its efficiencies in decision-making and service delivery, 
+ARC served as a model for the Delta Regional Authority. ARC is 
+successful because it responds to identified and agreed upon needs, and 
+is extremely flexible in its approach. According to research conducted 
+by Brandow Co. and the Economic Development Research Group, three 
+fourths of ARC infrastructure projects with specific business or job-
+related goals met or exceeded formal projections. This is a very robust 
+figure.
+  H.R. 799 builds on more than four decades of economic development 
+successes by providing additional, much-needed Federal investment in 
+the region. The bill allows ARC to continue its economic development 
+activities using such tools as the telecommunication and technology 
+initiative, and the entrepreneurship initiation to improve the quality 
+of life for the citizens of Appalachia. Further, the bill provides 
+authority for the Commission to make technical assistance grants for 
+energy efficient projects or projects to increase the use of renewable 
+energy resources. This bill also authorizes the designation of ``at 
+risk'' counties, which are counties in the Appalachian region that are 
+most at risk of becoming economically distressed, and identifies the 
+percentage of funds for which these counties are eligible.
+  ARC's authorization expired at the end of FY 2006. During the 109th 
+Congress, the Committee's bipartisan leadership introduced H.R. 5812, a 
+bill reauthorizing ARC through FY 2011. Although the Senate passed S. 
+2832 to reauthorize the ARC, the Senate-passed bill did not include the 
+anti-earmarking provision of H.R. 5812. The House did not pass S. 2832 
+and no further action was taken on H.R. 5812. This bill includes the 
+anti-earmarking provision.
+  I urge my colleagues to join us in supporting this bipartisan bill to 
+reauthorize the Appalachian Regional Commission.
+  Mr. GRAVES. Madam Speaker, I want to thank the chairman of the 
+committee, Mr. Oberstar, for his remarks. They are very well put.
+  I would now like to yield 5 minutes to the gentleman from Ohio (Mr. 
+LaTourette).
+  Mr. LaTOURETTE. To the distinguished chairman of our full committee, 
+I just want you to know how well your staff is taking care of you 
+today. As we were calling up the bill, knowing you were traveling back, 
+I didn't know you were coming from Appalachia, but Mr. McCarragher came 
+over and said, ``Could you talk as long as possible so we can get the 
+chairman back here?'' And now I don't have to do that, so I don't think 
+I will need the full 5 minutes.
+  I do want to remark on the ARC, Madam Speaker. No one can stand up 
+and say that the vision of John F. Kennedy implemented by legislation 
+in 1965 by Lyndon Johnson has not been a wonderful success in dealing 
+with the abject poverty of the Appalachian region.
+  The chairman rightly talked about the infrastructure part of our 
+committee's assignments. But one of my favorite hearings, when I had 
+the pleasure of being the chairman of the subcommittee, is when the ARC 
+stakeholders would come in and talk to the Republicans and Democrats on 
+the subcommittee. And aside from industrial parks, aside from roads, 
+aside from bridges, aside from safe drinking water, they beamed with 
+pride about how their graduation rates had improved and how the young 
+people in their region were now taking pride in the education they were 
+receiving, and they were graduating from high school at record numbers, 
+something that would not have happened had it not been for the ARC.
+  I came to the floor this afternoon to specifically thank the chairman 
+of the full committee, Mr. Oberstar, and also the chairman of the 
+subcommittee, Ms. Holmes Norton, together with Mr. Graves and Mr. Mica. 
+One of John F. Kennedy's most oft quoted quotes is: ``A rising tide 
+lifts all boats.'' And so Congressman Tim Ryan and I looked around and 
+we saw, boy, everybody around us, to the east, to the south, to the 
+west, seems to have participated wonderfully well in the Appalachian 
+Regional Commission. And if you put a map of the Midwestern United 
+States up, there's only a few little white squares, and they are 
+regions that Congressman Ryan and I represent, Ashtabula, Trumbull and 
+Mahoning County. We had a discussion with Chairman Oberstar during the 
+course of the markup of this legislation, and it seems that Congressman 
+Ryan and I weren't the only ones interested in this. And as a result of 
+those discussions, Chairman Oberstar has added 13 additional counties 
+to the purview of the Appalachian Regional Commission.
+  So I came down today, Madam Speaker, to thank the chairman for 
+working with us. And I firmly believe that the addition of these three 
+counties in Ohio, together with the 10 counties located throughout the 
+region, are going to permit our people in transitional counties to 
+benefit the same way as other counties have benefited since 1965.
+
+                              {time}  1645
+
+  Ms. EDDIE BERNICE JOHNSON of Texas. Madam Speaker, I yield such time 
+as he may consume to the gentleman from Minnesota (Mr. Oberstar) for 
+closing remarks.
+  Mr. OBERSTAR. Madam Speaker, I greatly appreciate the remarks of the 
+gentleman from Ohio. He did great service, Madam Speaker, during his 
+chairmanship of the Economic Development Subcommittee in service to the 
+needs of the Appalachian Regional Commission, the ARC, and the Federal 
+Economic Development Administration programs throughout the country. 
+Adding these counties is an appropriate and necessary step to help lift 
+the region further toward the future of continued economic growth. I 
+was very touched by the gentleman's remarks about education and the 
+increase in education rights. He spoke well and rightly.
+  I do want to emphasize for the record, though, that included among 
+all the many beneficial provisions of this bill is an important 
+limitation on earmarking of funds within the ARC. In the past, and it 
+has usually happened in conference, but also occasionally in the House 
+appropriations bill, funds have been earmarked for one or another 
+project which has undercut the effectiveness of the Federal-State 
+partnership and the authenticity of the grass-roots up process of 
+project designation, development and implementation. Using the 
+appropriations process to direct funds has disadvantaged the other 
+regions, of the other States within the region, and has devalued the 
+funding that Congress has appropriated. More importantly, it devalues 
+the Federal, State, and local partnership, the very effective grass-
+roots up
+
+[[Page 19085]]
+
+process of project selection within Appalachia. It says your judgment 
+doesn't count. We know better. The authenticity and effectiveness of 
+the ARC program derives exactly from its grass-roots initiative.
+  So I was very insistent in the last Congress on finding a means by 
+which we could thwart the earmarking. We have it in this bill. Our 
+Senate counterparts have concurred that they want to follow this 
+procedure. It will inure to the benefit of the Appalachian Regional 
+Commission.
+  Mr. RAHALL. Madam Speaker, I am today in support of H.R. 799, the 
+Appalachian Regional Development Act Amendments of 2007. This long 
+overdue legislation continues to promote every one of the southern West 
+Virginia counties I represent, and indeed the entire State of West 
+Virginia, as it is the only State which lies entirely within ARC 
+jurisdiction.
+  ``A rising tide,'' President Kennedy told us, ``lifts all boats.'' 
+And so one of President Kennedy's legacies was created in 1965 with a 
+unique mission to serve a unique part of the Nation, the Appalachian 
+region.
+  Historically, the counties of Appalachia have ``faced high levels of 
+poverty and economic distress resulting from geographic isolation and 
+inadequate infrastructure.''
+  It was with these concerns in mind that ARC was created and it is 
+these concerns ARC has been addressing vigorously for the past 40 
+years.
+  Take for example the area of transportation, a major focus for ARC. 
+ARC was developed, in part, because of the severe isolation experienced 
+in Appalachia and that in order to develop Appalachia and give its 
+people an opportunity to compete, a system of highways was needed. 
+Enter the Appalachian Development Highway System, which was created to 
+serve the transportation needs of Appalachian residents by assisting in 
+the construction of highways so critically needed by Appalachian 
+communities for economic growth and development.
+  The ADHS now encompasses over 3,000 miles of Appalachian highways and 
+nearly 85 percent of those roads are complete or under construction. 
+The ADHS is truly a success story for ARC and all of Appalachia. 
+Despite the President's recent budget, which requests eliminating 
+funding for the Appalachian Development Highway System, it is my strong 
+conviction that this program be continued at the agreed upon level set 
+forth in SAFETEA-LU.
+  Before I leave this subject of transportation and the critical value 
+of rural America's transportation network to our urban brothers and 
+sisters, it is my sincere hope that rural America's voice will be loud 
+and clear when it comes to funding schemes that would punish rural 
+commuters and citizens who are forced by geography to drive long 
+distances each day to and from their employment. It is an issue 
+critical to the completion and maintenance of ARC development highways 
+network.
+  And while a major focus of ARC remains on highways and Appalachian 
+transportation infrastructure, as the times have changed so has ARC.
+  As much of the United States has been able to take advantage of the 
+technological boom of the late 20th and early 21st centuries, 
+Appalachia once again is in danger of being left behind and unable to 
+compete in the global marketplace.
+  In the most recent FCC data on high-speed connections for Internet 
+access, released on January 31, 2007, you can track the Appalachian 
+mountain range by just how spotty the provider coverage is on the FCC's 
+provider map. In fact, in West Virginia it is significantly below the 
+average in broadband use nationwide.
+  Again, ARC is there to offer significant support, bringing broadband 
+access to our communities, which is essential to leveling the playing 
+field and giving our communities an opportunity to compete. Schools, 
+businesses, local governments and individual homes all have benefited 
+from ARC involvement in the expansion of broadband access in 
+Appalachia, and continue to do so.
+  I have been working with ARC, private telecommunications companies 
+and local economic development leaders to bring broadband technology 
+into southern West Virginia. For example, through the E-commerce 
+training initiatives being offered by ARC and others we are working to 
+connect local small businesses to broadband, opening doors to Internet 
+sales and services that just weren't there a couple of years ago.
+  It is ARC's ability to serve its mission by adapting its actions to 
+fit the times that makes ARC such an invaluable resource to Appalachia 
+and the Nation. From the Appalachian Development Highway System to the 
+E-commerce and broadband initiatives, ARC continues to serve its 
+mission by advocating for and partnering with the people of Appalachia 
+to create opportunities for self-sustaining economic development and 
+improved quality of life.
+  I am also glad to see the integrity of ARC programs kept in tact by 
+disallowing the use of earmarks in this legislation. I believe adoption 
+of this provision is critical and will benefit all ARC member-states 
+and the long-term viability of ARC itself. Additionally, I am pleased 
+to see the bi-partisan support for this program which was displayed by 
+the rejection of attempts to cut funding for it in the recent House 
+passed FY08 Energy and Water Appropriations legislation.
+  I applaud the efforts of Federal Co-Chair Anne Pope who, as a native 
+daughter of Appalachia, executes so well the mission of ARC in each of 
+Appalachia's communities. I have said this before and am happy to do so 
+again on the record, Anne is one of the finest Federal Co-Chairs to 
+ever serve the people of Appalachia and I look forward to our continued 
+strong relationship serving the needs of southern West Virginians, 
+together.
+  I strongly support ARC, its mission and the incredibly successful 
+initiatives it has undertaken to better the lives of the people of 
+Appalachia and West Virginia.
+  Mr. GRAVES. Madam Speaker, I have no other speakers, and I yield back 
+the balance of my time.
+  Ms. EDDIE BERNICE JOHNSON of Texas. Madam Speaker, I yield back the 
+balance of my time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentlewoman from Texas (Ms. Eddie Bernice Johnson) that the House 
+suspend the rules and pass the bill, H.R. 799, as amended.
+  The question was taken.
+  The SPEAKER pro tempore. In the opinion of the Chair, two-thirds 
+being in the affirmative, the ayes have it.
+  Mr. PEARCE. Madam Speaker, on that I demand the yeas and nays.
+  The yeas and nays were ordered.
+  The SPEAKER pro tempore. Pursuant to clause 8 of rule XX and the 
+Chair's prior announcement, further proceedings on this motion will be 
+postponed.
+
+                          ____________________
+```

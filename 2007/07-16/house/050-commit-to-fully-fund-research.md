@@ -1,0 +1,84 @@
+---
+granule: CRECB-2007-pt14-Pg19091
+date: 2007-07-16
+edition: CRECB
+section: HOUSE
+page: 19091
+---
+
+# COMMIT TO FULLY FUND RESEARCH
+
+```
+                     COMMIT TO FULLY FUND RESEARCH
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentlewoman from California (Ms. Lee) is recognized for 5 minutes.
+  Ms. LEE. Mr. Speaker, tonight I rise to address the continuing 
+tragedy of racial and ethnic disparities in America. I want to commend 
+my colleague, the gentlelady from Ohio, a member of the Ways and Means 
+Committee, Congresswoman Stephanie Tubbs Jones, and my colleague, our 
+great Chair of the Congressional Black Caucus, Congresswoman Carolyn 
+Kilpatrick, for tonight calling us all together later in a Special 
+Order.
+  I would like to talk just very briefly in support of the efforts of 
+my colleagues in the Congressional Black Caucus to highlight health 
+care as a central and important policy issue in the 110th Congress and 
+to call for an end to racial and ethnic health disparities.
+  We must no longer turn a blind eye to the continuing pattern of 
+racial bias in the delivery of health care in America. The fact is that 
+if you are a person of color, are poor or speak a different language 
+and walk into a hospital in need of care, you are less likely to be 
+diagnosed correctly, less likely to receive the accepted standard of 
+care and less likely to walk out. It is a death sentence for millions 
+of Americans.
+  It is appalling that our Nation cannot commit the resources necessary 
+to eliminate once and for all the devastating impact of unequal health 
+care delivery in America. We must root out the causes of the continuing 
+discrimination against racial and ethnic minorities in our health care 
+system.
+  We must increase the diversity in the professional health care 
+provider workforce. Health care must be delivered in a culturally and 
+linguistically appropriate way without having to turn to intermediaries 
+or family members to relay private information, health information. 
+Funding research into the reasons for the different rates of disease 
+incidence and minority populations must be a national priority.
+  While Latinos and African Americans make up over 25 percent of the 
+U.S. population, they account for more than 67 percent of newly 
+reported AIDS cases. Diseases that primarily impact communities of 
+color continue to be neglected. We must commit to providing access to 
+comprehensive preventive care, educational outreach, health screenings 
+and follow-up consultation for at-risk populations.
+  Our health care system is broken. Health care should be a right, not 
+a privilege. We spend more money on health care than any other Nation 
+in the world; yet the United States ranks 23rd, 23rd in infant 
+mortality among industrialized nations. We ranked 67th in immunization 
+rates overall, right behind Botswana. We were first in life expectancy 
+in 1945, and now we rank 20th behind nations like Canada, Britain, and 
+France.
+  In the 1960s, I lived in Great Britain, and I was exposed to the 
+assurance that the British public had in their access to quality health 
+care with the British national health service. We in America can do 
+better. We must do better. We can ensure that every person in America 
+be treated equally, given a fair and thorough diagnosis and be treated 
+with the most up-to-date treatments that are available. We must 
+remember that an ounce of prevention is worth a pound of cure.
+  In any hospital on any given day or night, in communities with large 
+numbers of people of color and African Americans, the poor, you will 
+witness this terrible health care crisis firsthand. Just go to an 
+emergency room and see who needs medical attention, emergency or not.
+  It's about time that we invest resources to close these deadly, and 
+that's what they are, they are deadly disparities. We need to enact 
+universal health care for all.
+  America is the wealthiest industrialized country in the world. It is 
+a shame and disgrace that over 47 million have no health insurance and 
+that such a large percentage are African Americans, Latinos and Asian 
+Pacific Americans.
+  What is wrong with this picture? I just want to commend, again, 
+Congresswoman Tubbs Jones and the Congressional Black Caucus; and also 
+our Tri-Caucus, Congressional Hispanic Caucus and Asian Pacific 
+American Caucus for insisting, and I mean insisting, that this House of 
+Representatives begin to focus on closing these deadly health care 
+disparities among communities of color.
+
+                          ____________________
+```
