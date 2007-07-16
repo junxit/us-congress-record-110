@@ -1,0 +1,155 @@
+---
+granule: CREC-2007-07-16-pt1-PgH7796
+date: 2007-07-16
+edition: CREC
+section: HOUSE
+page: H7796
+citation: 153 Cong. Rec. H7796
+---
+
+# SUPPORTING THE GOALS AND IDEALS OF A WORLD DAY OF REMEMBRANCE FOR ROAD CRASH VICTIMS
+
+**Speaking:** Davis, Danny K. (D000096) [D-IL], Cannon, Chris (C000116) [R-UT], Smith, Adrian (S001172) [R-NE]
+
+**Measures:** H.Con.Res. 87
+
+```
+SUPPORTING THE GOALS AND IDEALS OF A WORLD DAY OF REMEMBRANCE FOR ROAD 
+                             CRASH VICTIMS
+
+  Mr. DAVIS of Illinois. Madam Speaker, I move to suspend the rules and 
+agree to the concurrent resolution (H. Con. Res. 87) supporting the 
+goals and ideals of a world day of remembrance for road crash victims.
+  The Clerk read the title of the concurrent resolution.
+  The text of the concurrent resolution is as follows:
+
+                            H. Con. Res. 87
+
+       Whereas 40,000 people in the United States, and 1,200,000 
+     people globally, die in road crashes each year;
+       Whereas another 20,000,000 to 50,000,000 people globally 
+     are injured each year as a result of speeding motor vehicles, 
+     the increasing use of motor vehicles, and rapid urbanization;
+       Whereas the World Health Organization has predicted that by 
+     the year 2020 the annual number of deaths from motor vehicle 
+     crashes is likely to surpass the annual number of deaths from 
+     AIDS;
+       Whereas the current estimated cost of motor vehicle crashes 
+     worldwide is $518,000,000,000 annually, representing between 
+     3 and 5 percent of the gross domestic product of each nation;
+       Whereas over 90 percent of motorist-related deaths occur in 
+     low- and middle-income countries;
+       Whereas according to the World Health Organization 
+     motorist-related deaths and costs continue to rise in these 
+     countries due to a lack of appropriate road engineering and 
+     injury prevention programs in public health sectors; and
+       Whereas the United Nations General Assembly adopted a 
+     resolution designating the third Sunday of November as a day 
+     of remembrance for road crash victims and their families, and 
+     called on nations globally to improve road safety: Now, 
+     therefore, be it
+       Resolved by the House of Representatives (the Senate 
+     concurring),  That Congress--
+       (1) supports the goals and ideals of a world day of 
+     remembrance for road crash victims; and
+       (2) encourages the people of the United States to support 
+     and participate in programs and activities to commemorate a 
+     world day of remembrance for road crash victims with 
+     appropriate ceremonies, programs, and other activities.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentleman from 
+Illinois (Mr. Davis) and the gentleman from Utah (Mr. Cannon) each will 
+control 20 minutes.
+  The Chair recognizes the gentleman from Illinois.
+
+
+                             General Leave
+
+  Mr. DAVIS of Illinois. Madam Speaker, I ask unanimous consent that 
+Members may have 5 legislative days in which to revise and extend their 
+remarks.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Illinois?
+  There was no objection.
+  Mr. DAVIS of Illinois. Madam Speaker, I yield myself such time as I 
+might consume.
+  Madam Speaker, as a member of the House Committee on Oversight and 
+Government Reform, I am pleased to join my colleague in the 
+consideration of H. Con. Res. 87, a bill that supports the goals and 
+ideas for a world day of remembrance for road crash victims. H. Con. 
+Res. 87, which has 54 cosponsors, was introduced by Representative 
+Robert Wexler on March 8, 2007. H. Con. Res. 87 was reported from the 
+Committee on Oversight and Government Reform on June 12, 2007 by a 
+voice vote.
+  The third Sunday in November is designated as a world day of 
+remembrance for road crash victims. This resolution commemorates the 
+1.2 million people killed in road crashes globally, including 40,000 in 
+the United States each year.
+  Road crashes are the second leading cause of death worldwide among 
+young people from ages 5 to 29, and the third leading cause of death 
+among people aged 30 to 44 years. Vehicle accidents every year have 
+injured and disabled as many as 50 million people throughout the world. 
+Road traffic injuries cost countries approximately $518 billion each 
+year, which is between 1 and 5 percent of the gross domestic product of 
+each nation.
+  I support this legislation to encourage the people of the United 
+States and of the world to support and participate in programs and 
+activities to commemorate a world day of remembrance for road crash 
+victims with appropriate ceremonies, programs and other activities.
+  Madam Speaker, I commend my colleague, Robert Wexler, for introducing 
+this legislation and urge swift passage of this bill.
+  Madam Speaker, I reserve the balance of my time.
+  Mr. CANNON. Madam Speaker, I yield myself such time as I may consume.
+  Madam Speaker, every year approximately 40,000 people in the United 
+States die in road crashes. The number worldwide is even more 
+devastating, over 1.2 million. These tragedies are overwhelming to the 
+victims and their families and lead to numerous unintended physical, 
+emotional and financial hardships.
+  H. Con. Res. 87 supports a world day of remembrance for road crash 
+victims on the third Saturday of every November. According to the World 
+Health Organization, 90 percent of motorist-related deaths occur in low 
+and middle income countries. The countries are in need of improved road 
+systems, increased prevention initiatives, and education programs for 
+new drivers.
+  Too many of these road crash fatalities can be prevented through 
+legislation, consistent enforcement and better education on the use of 
+safety precautions such as seatbelts, child restraints and helmets. 
+Drunk driving prevention programs and campaigns such as Mothers Against 
+Drunk Driving are useful tools to bring awareness to such tragedies.
+  Communities and families worldwide must work together to prevent road 
+crashes and related deaths. These traffic accidents injure or disable 
+more than 50 million people. It is time we take these numbers into 
+perspective to end dangerous and life-threatening vehicle crashes.
+  With that, I urge my colleagues to support H. Con. Res. 87.
+  Mr. SMITH of Nebraska. Madam Speaker, today, we will pass H. Con. 
+Res. 87, supporting the goals and ideals of a world day or remembrance 
+for road crash victims.
+  This legislation sets aside the third Sunday of November as a day of 
+remembrance for road crash victims and their families, and calls on 
+nations globally to improve road safety.
+  It also encourages our country to support and participate in programs 
+and activities to commemorate a world day of remembrance for road crash 
+victims with appropriate ceremonies, programs, and other activities.
+  Each year 40,000 people in the U.S. die in road crashes--last year 
+Nebraska had 226 fatal crashes, according to the Nebraska Office of 
+Highway Safety.
+  Very few of us can say we have never been affected by a road crash. 
+It is my hope, through these educational and informative steps, we can 
+lower the total of Americans--and Nebraskans--lost to road crashes each 
+year.
+  Mr. CANNON. Madam Speaker, I have no other speakers, and I yield back 
+my time.
+
+[[Page H7797]]
+
+  Mr. DAVIS of Illinois. Madam Speaker, I would urge passage of this 
+legislation, and yield back the balance of my time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from Illinois (Mr. Davis) that the House suspend the rules 
+and agree to the concurrent resolution, H. Con. Res. 87.
+  The question was taken; and (two-thirds being in the affirmative) the 
+rules were suspended and the concurrent resolution was agreed to.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```
