@@ -1,0 +1,96 @@
+---
+granule: CRECB-2007-pt14-Pg19238-5
+date: 2007-07-17
+edition: CRECB
+section: HOUSE
+page: 19238
+---
+
+# RAMOS/COMPEAN CASE
+
+```
+                           RAMOS/COMPEAN CASE
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from Texas (Mr. Poe) is recognized for 5 minutes.
+  Mr. POE. Mr. Speaker, a long awaited Senate judiciary hearing on the 
+prosecution of border agents Ramos and Compean occurred today. I was 
+impressed with the Chair, Senator Diane Feinstein from California, and 
+the questioning of Senator John Cornyn of Texas at the hearing.
+  The hearing brought to light the overzealous, overreacting and 
+overreaching prosecution of these two Border Patrol agents, Ramos and 
+Compean. It also showed us and the American public the difficulty our 
+border protectors have on the U.S.-Mexico border.
+  Chief Aguilar of the Border Patrol said today that violence against 
+border agents has increased. In just the first 4 days of last week, 11 
+assaults occurred against border agents. Over 2,000 assaults have 
+occurred in the last 2\1/2\ years, and 12 officers have been killed in 
+the last few years.
+
+[[Page 19239]]
+
+  Not only is the border violent because of drug cartels, but violence 
+occurs against these border agents. The border is not Disneyland, but 
+the U.S. Attorney's Office showed they are living in Never Neverland by 
+their relentless determination to see that these agents went to prison 
+for 11 and 12 years a piece for just doing their job on the U.S.-Mexico 
+border.
+  Much was said today, but I want to concentrate on the U.S. 
+Government's main witness, the drug dealer who appears to have been a 
+bought-and-paid-for witness that received immunity from prosecution. He 
+received a get-out-of-jail-free card, received free medical attention 
+for his wounds at the taxpayers' expense, and blanket amnesty to cross 
+and recross the Texas-Mexico border whenever he wished. All this so he 
+would testify against the two border agents, Ramos and Compean.
+  Mr. Speaker, as a former judge, it has been my experience that when 
+prosecutors make deals with criminals in return for testimony, they 
+usually get the testimony they want from the criminal, and the same is 
+to be said in this case here.
+  These agents were sent to prison because one of them shot a drug 
+dealer bringing in $1 million worth of drugs into the United States. 
+The agents probably violated some Homeland Security policies, and maybe 
+they should have been sanctioned or even fired, but to let the drug 
+dealer go free because the agents violated a policy was an error in 
+judgment on the part of our own government.
+  And the U.S. Attorney's Office had two choices, Mr. Speaker. They had 
+the choice to prosecute a drug dealer bringing in $1 million worth of 
+drugs, or they had the choice to prosecute two border agents that 
+violated some policy, and our government chose poorly.
+  Of course, the Mexican Government got involved in this case and wrote 
+an arrogant letter demanding prosecution by our government. It seems to 
+me this may be the basis for the prosecution.
+  Let me tell you a little bit about this drug dealer. He received 
+immunity from prosecution, but part of his deal was that he would 
+cooperate with the U.S. Border Patrol and Federal prosecutors. The 
+cooperation? Well, he never would tell who he was working for. He named 
+no names of the drug cartels. He did not cooperate at all. And while he 
+was waiting to testify in this case, he criss-crossed the Texas-Mexico 
+border and brought in another load of drugs worth almost $1 million, 
+and the Feds kept that from the jury.
+  Why wasn't it important to know about this second case? Because the 
+entire prosecution was based on the testimony of the government's star 
+witness, and the jury had the right to know that this drug dealer 
+brought in another load of drugs while waiting to testify. So to judge 
+his credibility as a witness, the jury had the right to know that, and 
+that evidence was kept out at the insistence of the U.S. prosecutors.
+  The U.S. prosecutor made this drug dealer Aldrede to be some poor 
+mule from Mexico that brought in a load of drugs for a little money for 
+his sick mother down in Mexico, and that was not the case. He was an 
+operative that moved back and forth across the Texas-Mexico border, and 
+we know he brought in at least two loads of drugs just in a short 
+period of time in this case.
+  This second load of drugs should have been brought to the attention 
+of the jury. The prosecutors never prosecuted this Aldrede for that. 
+They even had a DEA report that recommended prosecution. I've seen that 
+DEA report, and based on my experience, a third-year law student could 
+have prosecuted that case even though the U.S. Attorney's Office says, 
+oh, there's not enough evidence. The jury should have known about this 
+so as to have judged the credibility of this star witness.
+  So the government chose between border agents to be prosecuted doing 
+their job or a drug dealer testifying and then bringing in drugs into 
+the United States. Our government should be embarrassed about this 
+case.
+  And that's just the way it is.
+
+                          ____________________
+```

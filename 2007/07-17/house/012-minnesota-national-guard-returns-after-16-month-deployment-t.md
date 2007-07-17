@@ -1,0 +1,36 @@
+---
+granule: CRECB-2007-pt14-Pg19132-3
+date: 2007-07-17
+edition: CRECB
+section: HOUSE
+page: 19132
+---
+
+# MINNESOTA NATIONAL GUARD RETURNS AFTER 16-MONTH DEPLOYMENT TO IRAQ
+
+```
+   MINNESOTA NATIONAL GUARD RETURNS AFTER 16-MONTH DEPLOYMENT TO IRAQ
+
+  (Mr. KLINE of Minnesota asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. KLINE of Minnesota. Mr. Speaker, I rise today to honor the 2,600 
+men and women of the Minnesota National Guard who, after serving our 
+country with great honor and courage, are returning home from their 16-
+month deployment to Iraq.
+  Last Friday my friend and colleague, Congressman Tim Walz, and I had 
+the privilege of visiting Volk Field near Fort McCoy in Wisconsin and 
+welcoming home soldiers from the 1st Brigade Combat Team, 34th Infantry 
+Division, the famed ``Red Bulls.'' It was truly a memorable experience 
+greeting these proud soldiers as they returned from the longest combat 
+deployment of any Army brigade combat team in Operation Iraqi Freedom.
+  Minnesota's ``Red Bulls'' escorted supply convoys and traveled 2.4 
+million miles in Iraq. Other members of the BCT provided essential 
+security to U.S. bases throughout the country.
+  Speaking with the fine men and women of the ``Red Bulls'' as they 
+stepped off the plane and smelled that clean, fresh air and stepped on 
+American soil, it became clear that these soldiers are justifiably 
+proud of their accomplishments. The great State of Minnesota and all 
+Americans can be proud as well.
+
+                          ____________________
+```

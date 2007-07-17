@@ -1,0 +1,35 @@
+---
+granule: CRECB-2007-pt14-Pg19132-2
+date: 2007-07-17
+edition: CRECB
+section: HOUSE
+page: 19132
+---
+
+# TROOP WITHDRAWAL STRATEGY
+
+```
+                       TROOP WITHDRAWAL STRATEGY
+
+  (Mr. SESTAK asked and was given permission to address the House for 1 
+minute.)
+  Mr. SESTAK. Mr. Speaker, ending this tragic misadventure in Iraq is 
+necessary but insufficient. How and the means by which we end it is of 
+even greater importance, both to the safety of our troops and to our 
+overall strategic security.
+  First, our troops. It took us 6 months to extract 6,000 troops out of 
+Somalia after Blackhawk Down, and we inserted 17,000 personnel to guard 
+the retreat. We have not only 160,000 troops in Iraq, but over 100,000 
+civilians. We must ensure their safety, and that will take 
+approximately 1 year.
+  Second, that time line of a year is actually the change in strategy 
+that will ensure that we have an aftermath, if we pursue diplomacy with 
+Iran and Syria, to bring about an unfailed state. Recently the 
+intelligence community said Iran does not want a failed government. 
+Therefore, we must approach the end of this war with a strategic 
+approach working with the Republicans. This is our country's war, 
+because the aftermath of its consequences are so great and it requires 
+a strategic end.
+
+                          ____________________
+```
