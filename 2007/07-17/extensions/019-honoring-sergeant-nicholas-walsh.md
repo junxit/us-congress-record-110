@@ -1,0 +1,63 @@
+---
+granule: CREC-2007-07-17-pt1-PgE1542-4
+date: 2007-07-17
+edition: CREC
+section: EXTENSIONS
+page: E1542
+citation: 153 Cong. Rec. E1542
+---
+
+# HONORING SERGEANT NICHOLAS WALSH
+
+**Speaking:** Musgrave, Marilyn N. (M001152) [R-CO]
+
+```
+                    HONORING SERGEANT NICHOLAS WALSH
+
+                                 ______
+                                 
+
+                        HON. MARILYN N. MUSGRAVE
+
+                              of colorado
+
+                    in the house of representatives
+
+                         Tuesday, July 17, 2007
+
+  Mrs. MUSGRAVE. Madam Speaker, I rise today to honor the life of SGT 
+Nicholas Walsh and pay tribute to his patriotic service to our Nation.
+  As a team leader with Charlie Company, 1st Reconnaissance Battalion, 
+1st Marine Division, Sergeant Walsh bravely led fellow Marines on 
+special operations missions in Iraq's Al Anbar Province. On May 26, 
+while on a mission in Fallujah, Sergeant Walsh tragically lost his 
+life.
+  After graduating from John Carroll High School in Birmingham, 
+Alabama, Nicholas Walsh followed in the footsteps of a number of his 
+family members and joined the Marines. Sergeant Walsh served four years 
+before leaving the Marines. He married his wife Julie and started a 
+family. Two years after leaving the Marines, Sergeant Walsh re-enlisted 
+in the Corps he loved so much.
+  Like so many of our brave men and women in uniform, Sergeant Walsh 
+often demurred at being identified as a hero. When asked if he would 
+like to be buried at Arlington he responded: ``No way; that place is 
+for people better than me. That place is for heroes.'' Madam Speaker, 
+Sergeant Walsh is a hero.
+
+[[Page E1543]]
+
+He is a hero for his selfless service to our Nation. He is a hero for 
+paying the ultimate price for freedom and liberty.
+  Today, I echo the words written by neighbors of Sergeant Walsh's 
+parents, Maggie and Jerry: ``We know that no words we could say can 
+comfort you, but our thoughts are with you and our hearts ache for 
+you.'' Our hearts ache for Sergeant Walsh's wife Julie, his sons 
+Triston and Tanner, and the many loved ones and friends Sergeant Walsh 
+leaves behind.
+  Madam Speaker, Sergeant Walsh is a true hero. Today, with a heavy 
+heart, I extend to Sergeant Walsh's family my deepest sympathies. I 
+urge my colleagues to join me in honoring the patriotism and selfless 
+sacrifice of SGT Nicholas Walsh.
+
+                          ____________________
+```

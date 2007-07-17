@@ -1,0 +1,39 @@
+---
+granule: CREC-2007-07-17-pt1-PgH7858-2
+date: 2007-07-17
+edition: CREC
+section: HOUSE
+page: H7858
+citation: 153 Cong. Rec. H7858
+---
+
+# HONORING THE LIFE OF SERGEANT WILLIAM "BILL" ZAPFE
+
+**Speaking:** Davis, Geoff (D000603) [R-KY]
+
+```
+          HONORING THE LIFE OF SERGEANT WILLIAM ``BILL'' ZAPFE
+
+  (Mr. DAVIS of Kentucky asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. DAVIS of Kentucky. Mr. Speaker, I rise this morning to honor the 
+life of Sergeant First Class William ``Bill'' Zapfe. Sergeant Zapfe was 
+serving with the Army's 3rd Infantry Division as a combat engineer when 
+he was tragically killed by an improvised explosive device last month. 
+Sergeant Zapfe was a dedicated soldier on his third tour in Iraq.
+  Bill grew up in Park Hills and Dry Ridge, Kentucky, and joined the 
+military shortly after graduating from high school. He came from a 
+family of dedicated public servants. His late father, Joseph, was a 
+State trooper, and his two brothers, Joseph and Edward, have also both 
+dutifully served our Nation. He is remembered by his family as a loving 
+and devoted husband and father. Bill Zapfe is a true patriot who died 
+fighting for a cause he believed in. Bill leaves behind his mother, 
+Jeanne; his loving wife, Evelyn; and his three children, Anastasia, 
+Cameron, and Spencer.
+  Today, as we honor the life of Sergeant Zapfe, our thoughts and 
+prayers are with his family and friends during this difficult time.
+  We thank Sergeant Zapfe for his service and for answering the call to 
+protect our great Nation.
+
+                          ____________________
+```

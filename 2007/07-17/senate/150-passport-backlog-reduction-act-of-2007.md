@@ -1,0 +1,76 @@
+---
+granule: CREC-2007-07-17-pt2-PgS9530-5
+date: 2007-07-17
+edition: CREC
+section: SENATE
+page: S9530
+citation: 153 Cong. Rec. S9530
+---
+
+# PASSPORT BACKLOG REDUCTION ACT OF 2007
+
+**Speaking:** Kennedy, Edward M. (K000105) [D-MA]
+
+**Measures:** S. 966
+
+```
+                 PASSPORT BACKLOG REDUCTION ACT OF 2007
+
+  Mr. KENNEDY. Madam President, I ask that the Chair lay before the 
+Senate a message from the House on S. 966, the Passport Backlog 
+Reduction Act of 2007.
+  The PRESIDING OFFICER laid before the Senate a message from the House 
+as follows:
+
+                                 S. 966
+
+     Resolved, That the bill from the Senate (S. 966) entitled 
+     ``An Act to enable the Department of State to respond to a 
+     critical shortage of passport processing personnel, and for 
+     other purposes'', do pass with the following amendment:
+       Strike out all after the enacting clause and insert:
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Passport Backlog Reduction 
+     Act of 2007''.
+
+     SEC. 2. REEMPLOYMENT OF FOREIGN SERVICE ANNUITANTS.
+
+       Section 824(g) of the Foreign Service Act of 1980 (22 
+     U.S.C. 4064(g)) is amended--
+       (1) in paragraph (1)--
+       (A) in subparagraph (A), by striking ``; or'' and inserting 
+     a semicolon;
+       (B) in subparagraph (B), by striking the period at the end 
+     and inserting ``; or''; and
+       (C) by adding at the end the following new subparagraph--
+       ``(C)(i) to provide assistance to consular posts with a 
+     substantial backlog of visa applications; or
+       ``(ii) to provide assistance to meet the demand resulting 
+     from the passport and travel document requirements set forth 
+     in section 7209(b) of the Intelligence Reform and Terrorism 
+     Prevention Act of 2004 (Public Law 108-458; 8 U.S.C. 1185 
+     note), including assistance related to the investigation of 
+     fraud in connection with an application for a passport.''; 
+     and
+       (2) in paragraph (2)--
+       (A) by striking ``The authority'' and inserting ``(a) The 
+     authority''; and
+       (B) by adding at the end the following new subparagraphs:
+       ``(B) The authority of the Secretary to waive the 
+     application of subsections (a) through (d) for an annuitant 
+     pursuant to subparagraph (C)(i) of paragraph (1) shall 
+     terminate on September 30, 2008.
+       ``(C) The authority of the Secretary to waive the 
+     application of subsections (a) through (d) for an annuitant 
+     pursuant to subparagraph (C)(ii) of paragraph (1) shall 
+     terminate on September 30, 2009.''.
+
+  Mr. KENNEDY. Madam President, I ask unanimous consent that the Senate 
+concur in the House amendment and the motion to reconsider be laid upon 
+the table.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```
