@@ -1,0 +1,38 @@
+---
+granule: CREC-2007-07-18-pt1-PgH7999
+date: 2007-07-18
+edition: CREC
+section: HOUSE
+page: H7999
+citation: 153 Cong. Rec. H7999
+---
+
+# ALL NIGHT SENATE SESSION
+
+**Speaking:** Hodes, Paul W. (H001043) [D-NH]
+
+```
+                        ALL NIGHT SENATE SESSION
+
+  (Mr. HODES asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. HODES. Mr. Speaker, the Senate was in session all night long 
+because Senate Republicans refuse to allow a fair up or down vote on an 
+amendment that would redeploy our troops by April of next year.
+  Today, Senate Democrats want a vote on an amendment offered by 
+Senators Levin and Reed, but Republicans are using the filibuster to 
+prevent a fair majority vote. Do Senate Republicans really want to 
+obstruct the process on the most critical issue of our time?
+  The American people are demanding change in Iraq, and while a 
+majority of Senate Republicans refuse to listen, nearly a dozen 
+Republicans have said the administration must change its strategy in 
+Iraq. These Republicans need to realize that their words are important, 
+but they will only have meaning if they choose to act and support the 
+Levin-Reed amendment.
+  We all know that President Bush has no intention of making any 
+changes in his war policy, and so it is up to Congress to force that 
+change, which is why last night's all-night debate in the Senate was so 
+important. Let's hope wayward Senate Republicans are finally listening.
+
+                          ____________________
+```

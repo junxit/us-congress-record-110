@@ -1,0 +1,40 @@
+---
+granule: CREC-2007-07-18-pt1-PgH8000
+date: 2007-07-18
+edition: CREC
+section: HOUSE
+page: H8000
+citation: 153 Cong. Rec. H8000
+---
+
+# THANK YOU AND WELCOME HOME, RED BULL DIVISION
+
+**Speaking:** Bachmann, Michele (B001256) [R-MN]
+
+```
+             THANK YOU AND WELCOME HOME, RED BULL DIVISION
+
+  (Mrs. BACHMANN asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Mrs. BACHMANN. Mr. Speaker, the Minnesota Red Bulls are not an energy 
+drink, but let me tell you about what an amazing energy force they have 
+been for our freedom in the United States.
+  They are now returning home from the longest continuous deployment of 
+any U.S. military unit during Operation Iraqi Freedom.
+  The Red Bulls hail from the 1st Brigade, 34th Infantry Division of 
+the Minnesota National Guard based in Bloomington, Minnesota.
+  Mr. Speaker, these men and women are true citizen soldiers. They have 
+put service to their country ahead of their family, of their friends, 
+and their careers since September of 2005.
+  During their deployment, let me tell you what the Red Bulls have done 
+for our country, Mr. Speaker. They completed 5,200 combat logistical 
+patrols. They secured 2.4 million convoy miles, and they discovered 462 
+improvised explosive devices prior to detonation. In addition, they 
+completed 137 reconstruction projects and helped start two Iraqi 
+newspapers for the local population that covered stories on these 
+reconstruction projects.
+  On behalf of a grateful Nation and a free world, we welcome back the 
+Minnesota Red Bulls and we thank you.
+
+                          ____________________
+```

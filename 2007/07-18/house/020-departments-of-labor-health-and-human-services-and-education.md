@@ -1,0 +1,5636 @@
+---
+granule: CREC-2007-07-18-pt1-PgH8000-3
+date: 2007-07-18
+edition: CREC
+section: HOUSE
+page: H8000
+citation: 153 Cong. Rec. H8000
+---
+
+# DEPARTMENTS OF LABOR, HEALTH AND HUMAN SERVICES, AND EDUCATION, AND RELATED AGENCIES APPROPRIATIONS ACT, 2008
+
+**Speaking:** Graves, Sam (G000546) [R-MO], Obey, David R. (O000007) [D-WI], Whitfield, Ed (W000413) [R-KY], Walsh, James T. (W000099) [R-NY], Stupak, Bart (S001045) [D-MI], Pallone, Frank (P000034) [D-NJ], Holt, Rush (H001032) [D-NJ], Kennedy, Patrick J. (K000113) [D-RI], Hensarling, Jeb (H001036) [R-TX], Jackson, Jesse L., Jr. (J000283) [D-IL], Pence, Mike (P000587) [R-IN], Ferguson, Mike (F000443) [R-NJ], Langevin, James R. (L000559) [D-RI], Johnson, Eddie Bernice (J000126) [D-TX], Shadegg, John B. (S000275) [R-AZ], Price, Tom (P000591) [R-GA], Garrett, Scott (G000548) [R-NJ], Regula, Ralph (R000141) [R-OH], Westmoreland, Lynn A. (W000796) [R-GA], Abercrombie, Neil (A000014) [D-HI], Young, Don (Y000033) [R-AK], Foxx, Virginia (F000450) [R-NC], Ryan, Tim (R000577) [D-OH], Loebsack, David (L000565) [D-IA], Udall, Tom (U000039) [D-NM], Hoyer, Steny H. (H000874) [D-MD], Eshoo, Anna G. (E000215) [D-CA], Brady, Kevin (B000755) [R-TX], McCollum, Betty (M001143) [D-MN], Shuler, Heath (S001171) [D-NC], Honda, Michael M. (H001034) [D-CA], Campbell, John (C001064) [R-CA]
+
+**Measures:** H.Res. 547, H.R. 3043
+
+```
+  DEPARTMENTS OF LABOR, HEALTH AND HUMAN SERVICES, AND EDUCATION, AND 
+               RELATED AGENCIES APPROPRIATIONS ACT, 2008
+
+  The SPEAKER pro tempore (Mr. Welch of Vermont). Pursuant to House 
+Resolution 547 and rule XVIII, the Chair declares the House in the 
+Committee of the Whole House on the State of the Union for the further 
+consideration of the bill, H.R. 3043.
+
+                              {time}  1025
+
+
+                     In the Committee of the Whole
+
+  Accordingly, the House resolved itself into the Committee of the 
+Whole House on the State of the Union for the further consideration of 
+the bill (H.R. 3043) making appropriations for the Departments of 
+Labor, Health and Human Services, and Education, and related agencies 
+for the fiscal year ending September 30, 2008, and for other purposes, 
+with Mrs. Tauscher in the chair.
+  The Clerk read the title of the bill.
+  The CHAIRMAN. When the Committee of the Whole rose on Tuesday, July 
+17, 2007, amendment No. 5 printed in the Congressional Record by the 
+gentleman from Texas (Mr. Sessions) had been disposed of and the bill 
+had been read through page 42, line 21.
+
+
+                    Amendment Offered by Mr. Graves
+
+  Mr. GRAVES. Madam Chairman, I offer an amendment.
+  The Clerk read as follows:
+
+       Amendment offered by Mr. Graves:
+       Page 42, line 12, after the dollar amount, insert 
+     ``(reduced by $125,000,000''.
+       Page 42, line 13, after the dollar amount, insert 
+     ``(reduced by $125,000,000)''.
+       Page 84, line 24, after the dollar amount, insert 
+     ``(increased by $125,000,000)''.
+
+  Mr. GRAVES. Madam Chairman, let me begin by thanking the chairman and 
+ranking member of the Appropriations Committee for working together in 
+a true bipartisan fashion to begin providing a long overdue down 
+payment to special education funding. In particular, I want to thank 
+Ranking Member Walsh for his amendment in committee to provide a $335 
+million increase in special education funding for fiscal year 2008.
+  When the Individuals with Disabilities Education Act was signed into 
+law more than 30 years ago, the Federal Government committed to pay the 
+States 40 percent of the costs of providing services to students 
+covered under this act. However, for three decades the Federal 
+Government has often provided less than half the money promised.
+  What has this shortfall meant? For one, it has meant higher taxes at 
+the State and local levels and less funding for other education 
+programs as States and local governments struggle to make up the 
+shortfall in Federal resources.
+  The amendment I introduce today builds on the bipartisan cooperation 
+of the House Appropriations Committee by providing a further $125 
+million increase in funding for IDEA part B grants to the States. To 
+pay for my amendment, I offset the cost by reducing a portion of the 
+U.S. contribution to the Global Fund. My amendment helps us fulfill our 
+commitment to funding special education while also providing a small 
+increase in funding to the Global Fund as was provided last year. I 
+don't take this money from any domestic program. These funds are 
+dedicated to an overseas program, and they still see a $1 million 
+increase over last year.
+  My amendment sets the right priorities for our Nation's children with 
+special needs, and I urge support from all of my colleagues. Again, I 
+would thank the chairman and ranking member for their hard work on 
+this.
+  Madam Chairman, I yield back the balance of my time.
+  Mr. OBEY. Madam Chairman, frankly, I am looking for my ranking 
+minority member. But until he gets here let me take a little time and 
+say that I would simply suggest to the gentleman, if he thinks this is 
+a good idea, that he take this idea up with the President of the United 
+States.
+  What this committee has tried to do both on this subcommittee and on 
+the Foreign Operations Subcommittee is to respect and work with the 
+administration in their effort to provide global leadership to deal 
+with the AIDS epidemic around the world. And the fact is that this item 
+in this bill is a critical piece of the President's program.
+  Given our disarray around the world because of Iraq, I think it is a 
+wonderful exception when we can be seen to be providing constructive 
+leadership in the world on something. And certainly, although I have 
+many differences with the President, this is one area where I think he 
+has exercised significant leadership.
+
+                              {time}  1030
+
+  And I think it would undercut our standing yet again in the world if 
+we were to withdraw this funding.
+  I just think that we've struck a good balance with respect to this 
+program. I think both subcommittees have tried to see to it that we 
+meet our international responsibilities.
+  You and I are very lucky human beings. Our souls were, thanks to God, 
+infused in a body that lives in the United States. If they had been 
+infused in a body that was born in Africa or in Asia or in some of the 
+other hot spots in the world in terms of these diseases, I think we 
+would take a look at this issue in a quite different way.
+  This program provides the only real leadership in the world to attack 
+this program. I think it would be a horrendous mistake if we were to 
+adopt the gentleman's amendment. I would urge defeating the amendment.
+  Madam Chairman, I yield back the balance of my time.
+  The CHAIRMAN. The question is on the amendment offered by the 
+gentleman from Missouri (Mr. Graves).
+  The question was taken; and the Chairman announced that the noes 
+appeared to have it.
+
+[[Page H8001]]
+
+  Mr. GRAVES. Madam Chairman, I demand a recorded vote.
+  The CHAIRMAN. Pursuant to clause 6 of rule XVIII, further proceedings 
+on the amendment offered by the gentleman from Missouri will be 
+postponed.
+  The Clerk will read.
+  The Clerk read as follows:
+
+
+             national institute of general medical sciences
+
+       For carrying out section 301 and title IV of the Public 
+     Health Service Act (42 U.S.C. 241, 281 et seq.) with respect 
+     to general medical sciences, $1,966,019,000.
+
+
+        national institute of child health and human development
+
+       For carrying out section 301 and title IV of the Public 
+     Health Service Act (42 U.S.C. 241, 281 et seq.) with respect 
+     to child health and human development, $1,273,863,000.
+
+
+                         national eye institute
+
+       For carrying out section 301 and title IV of the Public 
+     Health Service Act (42 U.S.C. 241, 281 et seq.) with respect 
+     to eye diseases and visual disorders, $677,039,000.
+
+
+          national institute of environmental health sciences
+
+       For carrying out sections 301 and 311 and title IV of the 
+     Public Health Service Act (42 U.S.C. 241, 243, 281 et seq.) 
+     with respect to environmental health sciences, $652,303,000.
+
+
+                      national institute on aging
+
+       For carrying out section 301 and title IV of the Public 
+     Health Service Act (42 U.S.C. 241, 281 et seq.) with respect 
+     to aging, $1,062,833,000.
+
+
+ national institute of arthritis and musculoskeletal and skin diseases
+
+       For carrying out section 301 and title IV of the Public 
+     Health Service Act (42 U.S.C. 241, 281 et seq.) with respect 
+     to arthritis and musculoskeletal and skin diseases, 
+     $516,044,000.
+
+
+    national institute on deafness and other communication disorders
+
+       For carrying out section 301 and title IV of the Public 
+     Health Service Act (42 U.S.C. 241, 281 et seq.) with respect 
+     to deafness and other communication disorders, $400,305,000.
+
+
+                 national institute of nursing research
+
+       For carrying out section 301 and title IV of the Public 
+     Health Service Act (42 U.S.C. 241, 281 et seq.) with respect 
+     to nursing research, $139,527,000.
+
+
+           national institute on alcohol abuse and alcoholism
+
+       For carrying out section 301 and title IV of the Public 
+     Health Service Act (42 U.S.C. 241, 281 et seq.) with respect 
+     to alcohol abuse and alcoholism, $442,870,000.
+
+
+                    national institute on drug abuse
+
+       For carrying out section 301 and title IV of the Public 
+     Health Service Act (42 U.S.C. 241, 281 et seq.) with respect 
+     to drug abuse, $1,015,559,000.
+
+
+                  national institute of mental health
+
+       For carrying out section 301 and title IV of the Public 
+     Health Service Act (42 U.S.C. 241, 281 et seq.) with respect 
+     to mental health, $1,425,531,000.
+
+
+                national human genome research institute
+
+       For carrying out section 301 and title IV of the Public 
+     Health Service Act (42 U.S.C. 241, 281 et seq.) with respect 
+     to human genome research, $493,996,000.
+
+
+      national institute of biomedical imaging and bioengineering
+
+       For carrying out section 301 and title IV of the Public 
+     Health Service Act (42 U.S.C. 241, 281 et seq.) with respect 
+     to biomedical imaging and bioengineering research, 
+     $303,318,000.
+
+
+                 national center for research resources
+
+       For carrying out section 301 and title IV of the Public 
+     Health Service Act (42 U.S.C. 241, 281 et seq.) with respect 
+     to research resources and general research support grants, 
+     $1,171,095,000.
+
+
+       national center for complementary and alternative medicine
+
+       For carrying out section 301 and title IV of the Public 
+     Health Service Act (42 U.S.C. 241, 281 et seq.) with respect 
+     to complementary and alternative medicine, $123,380,000.
+
+
+       national center on minority health and health disparities
+
+       For carrying out section 301 and title IV of the Public 
+     Health Service Act (42 U.S.C. 241, 281 et seq.) with respect 
+     to minority health and health disparities research, 
+     $202,691,000.
+
+
+                  john e. fogarty international center
+
+       For carrying out the activities of the John E. Fogarty 
+     International Center (described in subpart 2 of part E of 
+     title IV of the Public Health Service Act (42 U.S.C. 287b)), 
+     $67,599,000.
+
+
+                      national library of medicine
+
+       For carrying out section 301 and title IV of the Public 
+     Health Service Act (42 U.S.C. 241, 281 et seq.) with respect 
+     to health information communications, $325,484,000, of which 
+     $4,000,000 shall be available until expended for improvement 
+     of information systems: Provided, That in fiscal year 2008, 
+     the National Library of Medicine may enter into personal 
+     services contracts for the provision of services in 
+     facilities owned, operated, or constructed under the 
+     jurisdiction of the National Institutes of Health: Provided 
+     further, That in addition to amounts provided herein, 
+     $8,200,000 shall be available from amounts available under 
+     section 241 of the Public Health Service Act (42 U.S.C. 238j) 
+     to carry out the purposes of the National Information Center 
+     on Health Services Research and Health Care Technology 
+     established under section 478A of the Public Health Service 
+     Act (42 U.S.C. 286d) and related health services.
+
+
+                         office of the director
+
+       For carrying out the responsibilities of the Office of the 
+     Director, National Institutes of Health, $1,114,422,000, of 
+     which up to $14,000,000 shall be used to carry out section 
+     214 of this Act, of which $110,900,000 shall be for 
+     continuation of the National Children's Study, and of which 
+     $495,153,000 shall be available for the Common Fund 
+     established under section 402A(c)(1) of the Public Health 
+     Service Act (42 U.S.C. 282a): Provided, That funding shall be 
+     available for the purchase of not to exceed 29 passenger 
+     motor vehicles for replacement only: Provided further, That 
+     the National Institutes of Health is authorized to collect 
+     third party payments for the cost of clinical services that 
+     are incurred in National Institutes of Health research 
+     facilities and that such payments shall be credited to the 
+     National Institutes of Health Management Fund: Provided 
+     further, That all funds credited to such Fund shall remain 
+     available for one fiscal year after the fiscal year in which 
+     they are deposited: Provided further, That no more than 
+     $500,000 shall be available to carry out section 499 of the 
+     Public Health Service Act(42 U.S.C. 290b): Provided further, 
+     That amounts appropriated to the Common Fund shall be in 
+     addition to any amounts allocated to activities related to 
+     the Common Fund through the normal research priority-setting 
+     process of individual institutes and centers: Provided 
+     further, That of the funds provided $10,000 shall be for 
+     official reception and representation expenses when 
+     specifically approved by the Director of the National 
+     Institutes of Health: Provided further, That the Office of 
+     AIDS Research within the Office of the Director of the 
+     National Institutes of Health may spend up to $4,000,000 to 
+     make grants for construction or renovation of facilities as 
+     provided for in section 2354(a)(5)(B) of the Public Health 
+     Service Act (42 U.S.C. 300cc-41(a)(5)(B)).
+
+
+                        buildings and facilities
+
+       For the study of, construction of, renovation of, and 
+     acquisition of equipment for, facilities of or used by the 
+     National Institutes of Health, including the acquisition of 
+     real property, $121,081,000, to remain available until 
+     expended.
+
+       Substance Abuse and Mental Health Services Administration
+
+
+               substance abuse and mental health services
+
+       For carrying out titles V and XIX of the Public Health 
+     Service Act (42 U.S.C. 290aa et seq., 300w et seq.) (``PHS 
+     Act'') with respect to substance abuse and mental health 
+     services, the Protection and Advocacy for Individuals with 
+     Mental Illness Act (42 U.S.C. 10801 et seq.), and section 301 
+     of the PHS Act (42 U.S.C. 241) with respect to program 
+     management, $3,272,928,000: Provided, That notwithstanding 
+     section 520A(f)(2) of the PHS Act (42 U.S.C. 290bb-32(f)(2)), 
+     no funds appropriated for carrying out section 520A are 
+     available for carrying out section 1971 of such Act: Provided 
+     further, That in addition to amounts provided herein, the 
+     following amounts shall be available under section 241 of the 
+     PHS Act (42 U.S.C. 238j): (1) $79,200,000 to carry out 
+     subpart II of part B of title XIX of the PHS Act (42 U.S.C. 
+     300x-21 et seq.) to fund section 1935(b) of such Act (42 
+     U.S.C. 300x-35(b)) relating to technical assistance, national 
+     data, data collection, and evaluation activities, and further 
+     that the total available under this Act for activities under 
+     such section 1935(b) shall not exceed 5 percent of the 
+     amounts appropriated for subpart II of part B of title XIX of 
+     such Act; (2) $21,413,000 to carry out subpart I of part B of 
+     title XIX of the PHS Act (42 U.S.C. 300x-1 et seq.) to fund 
+     section 1920(b) of such Act (42 U.S.C. 300x-9(b)) relating to 
+     technical assistance, national data, data collection, and 
+     evaluation activities, and further that the total available 
+     under this Act for activities under such section 1920(b) 
+     shall not exceed 5 percent of the amounts appropriated for 
+     subpart I of part B of title XIX of such Act; (3) $16,000,000 
+     to carry out national surveys on drug abuse; and (4) 
+     $4,300,000 to evaluate substance abuse treatment programs.
+
+
+               Amendment No. 29 Offered by Mr. Whitfield
+
+  Mr. WHITFIELD. Madam Chairman, I offer an amendment.
+  The CHAIRMAN. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment No. 29 offered by Mr. Whitfield:
+       Page 49, line 25, before the period insert ``Provided 
+     further, That, of the funds made available under this 
+     heading, $10,000,000 is for carrying out section 399O of the 
+     Public Health Service Act (42 U.S.C. 280g-4)''.
+
+  Mr. WHITFIELD. Madam Chairman, in 2005, the U.S. Congress adopted the 
+National All Schedules Prescription Electronic Reporting Act, which was 
+signed into law by the President in 2005. The amendment at the desk 
+simply provides funding of $10 million for this authorized program. The 
+$10 million is taken from the Secretary's Management Account, so the 
+offset is taken care of.
+  On March 29 of this year, 2007, Chairman Dingell, Ranking Member 
+Barton and the chairman and ranking
+
+[[Page H8002]]
+
+member of every subcommittee of Energy and Commerce, as well as other 
+Members, sent a letter to Chairman Obey and Ranking Member Lewis 
+requesting that they consider funding this program. And we had hoped 
+that it would be included in this HHS appropriation bill because 
+NASPER, as passed by the Congress, is located and placed at HHS.
+  Now, the Appropriations Committee on another bill has provided 
+funding for an unauthorized drug monitoring program located at the 
+Department of Justice. That program is primarily based and focused on 
+law enforcement. And we do not object to that program in any way, but I 
+might say that last year, for 2007 and 2006, money was made available 
+for both the NASPER program at HHS and the Department of Justice 
+program, which is more based on law enforcement. The NASPER program 
+really addresses the prescription drug addiction problem and helps 
+physicians work with patients and makes physicians aware of 
+prescriptions that those patients have. So last year we were quite 
+pleased that both programs were funded. And we were disappointed that 
+this year's program, the authorized program, was not funded; the 
+unauthorized program was funded.
+  And so we come today and ask the chairman of the Appropriations 
+Committee and the ranking member, both of whom have worked diligently 
+on a very complicated bill that provides great services to our country, 
+we come this morning and ask them to consider funding this authorized 
+program.
+  I might add that Secretary Leavitt testified for it. We had 2 years 
+of hearings on this program. Secretary Leavitt endorsed it. Former 
+Secretary Tommy Thompson endorsed it. And as I said, we're not asking 
+that they defund the unauthorized program because we know that it's 
+doing a good job, but we're simply saying the Energy and Commerce 
+Committee had 2 years of hearings, passed this legislation. It passed 
+the Senate overwhelmingly. The President signed it. It was funded last 
+year, and we strongly request that the chairman consider funding it 
+again this year.
+  Madam Chairman, I yield back the balance of my time.
+  Mr. WALSH of New York. Madam Chairman, I move to strike the last 
+word.
+  The CHAIRMAN. The gentleman is recognized for 5 minutes.
+  Mr. WALSH of New York. Madam Chairman, I rise in reluctant opposition 
+to my friend's amendment.
+  The gentleman's amendment really is unnecessary, and it duplicates 
+work that the Justice Department is engaged in under the Prescription 
+Drug Monitoring Grant Program.
+  I understand that primarily, as a result of the efforts of Mr. Rogers 
+of Kentucky, the Justice Department has been operating for several 
+years, running a grant program to assist States in building and 
+enhancing prescription drug monitoring systems, facilitating the 
+exchange of information among States, and providing technical 
+assistance and training for effective State programs.
+  The Office of Justice Programs runs this grant program, along with 
+the assistance and technical expertise of the Drug Enforcement 
+Administration and is currently funded at $7.5 million.
+  From all accounts, the Justice Department effort is well run and 
+effective. For that reason, I ask Members to oppose this amendment, 
+which would set up a competing and duplicative program.
+  Madam Chairman, I yield back the balance of my time.
+  Mr. STUPAK. Madam Chairman, I move to strike the last word.
+  The CHAIRMAN. The gentleman from Michigan is recognized for 5 
+minutes.
+  Mr. STUPAK. Madam Chairman, I rise today in support of Mr. 
+Whitfield's amendment that would amend funding for the National All 
+Schedules Prescription Electronic Reporting Act, or NASPER.
+  Two years ago, Congress passed NASPER and it was signed into law, 
+making it the only statutory authorized program to assist States in 
+combating prescription drug abuse of controlled substances through 
+prescription drug monitoring programs. Congress realized that more 
+needed to be done to aid States to set up or improve State systems that 
+enable authorities to identify prescription drug abusers, as well as 
+the problem doctors who betray their high ethical standards of their 
+profession by over or incorrectly prescribing prescription drugs.
+  The new law, NASPER law, authorized $10 million in fiscal year 2008 
+and $10 million each year through fiscal year 2010. Although NASPER has 
+been signed into law, Congress has yet to appropriate funds to the HHS 
+for this program for the past 3 years. Given the existence of this 
+authorized program, it would seem to be inappropriate not to fund 
+NASPER, while funding unauthorized prescription drug monitoring 
+programs. By doing this, Congress sets a bad precedent in sanctioning 
+the creation and continued operation of Federal programs through the 
+appropriation process.
+  NASPER was passed with bipartisan support after many years of hard 
+work by many Members on both sides of the aisle and those of us who are 
+on the Energy and Commerce Committee. NASPER is the only solution which 
+will assist physicians, establish minimum standards for State 
+prescription drug monitoring programs, and substantially reduce 
+prescription drug abuse.
+  I urge all my colleagues to support the Whitfield amendment.
+  Madam Chairman, I yield back the balance of my time.
+  Mr. PALLONE. Madam Chairman, I move to strike the last word.
+  The CHAIRMAN. The gentleman from New Jersey is recognized for 5 
+minutes.
+  Mr. PALLONE. Madam Chairman, I rise in support of the Whitfield 
+amendment to fund NASPER, the National All Schedules Prescription 
+Electronic Reporting Act, which the gentleman from Kentucky and I 
+sponsored in the last Congress.
+  As was mentioned already, this is the authorized program that would 
+deal with this issue. And I don't want to get into necessarily 
+contrasting this with the other program that the gentleman from New 
+York mentioned, but I do think it's necessary to understand that this 
+program is authorized and it's not funded. I mean, obviously we should 
+be funding programs that are authorized, not those that are not.
+  But beyond that, the bottom line is that the NASPER program mandates 
+that States participate in the program. We only have about 22 States 
+now that are participating, so I would certainly argue that the status 
+quo with this alternative Justice Department program simply is not 
+working. If we want more States to get involved, we need to fund the 
+authorized program.
+  During the time since August of 2005 when this became law and has not 
+been funded, during this time since then prescription drug abuse has 
+reached an all-time high, with an estimated 9 million Americans using 
+prescription drugs for nonmedical purposes. Most disturbing is the fact 
+that there is an epidemic of prescription drug abuse among teenagers. 
+So if the argument is that the existing Justice Department program is 
+working and we don't need to fund this authorized program, I think the 
+facts show very much the opposite.
+  NASPER will ensure that prescription drugs are only being used for 
+medical purposes. With better monitoring and tracking systems, people 
+will not be able to seek multiple prescriptions or cross State lines to 
+get prescriptions filled without their provider knowing. NASPER reaches 
+across State lines, with timetables and benchmarks aimed at eliminating 
+the problem of prescription drug abuse. It's a public health program in 
+the Department of Health and Human Services, where it belongs, not in 
+the Justice Department. And most important, it is the only statutorily 
+authorized program to assist States in combating prescription drug use.
+  Right now, a lot of the program is with doctors. The Justice 
+Department program doesn't really help doctors prevent this epidemic. 
+Also, the Justice Department program is totally focused on enforcement, 
+not on trying to get people more involved in the States at a preventive 
+level dealing with the doctors. We have enforcement as well, but it's 
+not the only thing.
+  I would simply say that we've made this pledge a couple of times. My 
+understanding is that this amendment is going to be withdrawn. But I 
+just need to ask the appropriators, please consider the fact that in 
+the future we need to address this. This needs to be
+
+[[Page H8003]]
+
+affected. The other program that's in effect now is not doing the job. 
+We simply ask that you collectively take a look at this and figure out 
+how to do it so we can get funding for the NASPER program, which is the 
+one that the Congress authorized and which will address this epidemic 
+effectively. We're not having an effective response right now.
+  With that, Madam Chairman, I would yield back the balance of my time.
+  Mr. WHITFIELD. Madam Chairman, I ask unanimous consent to strike the 
+last word.
+  The CHAIRMAN. Is there objection to the request of the gentleman from 
+Kentucky?
+  There was no objection.
+  The CHAIRMAN. The gentleman is recognized for 5 minutes.
+  Mr. WHITFIELD. I would say to the chairman of the Appropriations 
+Committee and the ranking member that we didn't really want to force 
+this issue this morning. But it is a program, as has been said, we 
+spent 2 years having hearings on this program. It mandates States to 
+adopt these programs. We feel like it is a great program. It was funded 
+last year, and we would respectfully request that at conference maybe 
+the chairman and ranking member would work with us in trying to address 
+the issue.
+  Mr. OBEY. Will the gentleman yield?
+  Mr. WHITFIELD. Yes, sir.
+  Mr. OBEY. Let me simply say that we sort of feel like we're caught in 
+the middle of this one because Mr. Lewis, the ranking member of the 
+Appropriations Committee, gave us a lecture yesterday about how we 
+should avoid duplicative programs.
+
+                              {time}  1045
+
+  Then, today, this amendment would have the effect of creating in one 
+department a program that is virtually identical to a program that 
+already exists in another department. So we can't win, no matter how we 
+deal with the issue. I don't care which agency this is in. I just want 
+it to be wherever it would be run the most efficiently and effectively.
+  I am certainly willing to discuss with anybody involved in the issue 
+how we resolve this issue. We didn't put it in in the first place. It 
+was put in by, as you know, a person from your party from your own 
+State.
+  So we are happy to work with all of you, but I don't want to get 
+cross-wised between two people from the same State. I don't want to be 
+standing here accepting an amendment that creates a duplicative 
+program.
+  So I think the most constructive result would be if the gentleman 
+would withdraw his amendment and we try to work this out down the line, 
+so that if it is not in the right place, we can talk about how to get 
+it in the right place.
+  Mr. WHITFIELD. Chairman Obey, I am going to withdraw the amendment, 
+but I would like to make this point: This is an authorized program that 
+we are talking about. We had 2 years of hearings on this project. There 
+is some sentiment in the Congress, I believe today, that the 
+appropriators seem to authorize on their appropriations bill when it is 
+convenient for them.
+  Madam Chairman, I am going to withdraw the amendment because of the 
+respect that I have for the gentleman from Wisconsin and the ranking 
+member, as well as the Member from Kentucky that was talked about.
+  I do believe that this is an effective program. We look forward to 
+working with you as we continue through the process to try to resolve 
+it in some way.
+  Mr. OBEY. If the gentleman will yield further, if I can simply say 
+again, on this side of the aisle I feel like I am being whipsawed. This 
+was in the other bill because we were trying to accommodate a 
+Republican Member of the House who felt strongly that it ought to be in 
+that bill. Now we are being criticized by another Republican from the 
+same State because we accommodated the other Republican. I can't go in 
+both directions at the same time, which is why I don't seek to have 
+this program in any department. I don't care where it is.
+  I would just as soon that you settle your differences with your 
+colleague from your own State, and when you have, come and see me. I 
+will try to work with whoever is the winner of the rassling match.
+  Mr. WHITFIELD. Madam Chairman, I thank the gentleman. I am here as an 
+advocate for the Energy and Commerce Committee.
+  Madam Chairman, I ask unanimous consent to withdraw my amendment.
+  The CHAIRMAN. Without objection, the amendment is withdrawn.
+  There was no objection.
+  The CHAIRMAN. The Clerk will read.
+  The Clerk read as follows.
+
+               Agency for Healthcare Research and Quality
+
+
+                    healthcare research and quality
+
+       For carrying out titles III and IX of the Public Health 
+     Service Act (42 U.S.C. 241 et seq., 299 et seq.), and part A 
+     of title XI of the Social Security Act (42 U.S.C. 1301 et 
+     seq.), $329,564,000; and in addition, amounts received from 
+     Freedom of Information Act fees, reimbursable and interagency 
+     agreements, and the sale of data shall be credited to this 
+     appropriation and shall remain available until expended: 
+     Provided, That the amount made available pursuant to section 
+     937(c) of the Public Health Service Act shall not exceed 
+     $47,064,000.
+
+               Centers for Medicare and Medicaid Services
+
+
+                     grants to states for medicaid
+
+       For carrying out, except as otherwise provided, titles XI 
+     and XIX of the Social Security Act, $141,630,056,000, to 
+     remain available until expended.
+       For making, after May 31, 2008, payments to States under 
+     title XIX of the Social Security Act for the last quarter of 
+     fiscal year 2008, for unanticipated costs, incurred for the 
+     current fiscal year, such sums as may be necessary.
+       For making payments to States or in the case of section 
+     1928 of the Social Security Act (42 U.S.C. 1396s) on behalf 
+     of States under title XIX of the Social Security Act for the 
+     first quarter of fiscal year 2009, $67,292,669,000, to remain 
+     available until expended.
+       Payment under title XIX may be made for any quarter with 
+     respect to a State plan or plan amendment in effect during 
+     such quarter, if submitted in or prior to such quarter and 
+     approved in that or any subsequent quarter.
+
+
+                  payments to health care trust funds
+
+       For payment to the Federal Hospital Insurance and the 
+     Federal Supplementary Medical Insurance Trust Funds, as 
+     provided under sections 1844 and 1860D-16 of the Social 
+     Security Act (42 U.S.C. 1395w, 1395w-116), sections 103(c) 
+     and 111(d) of the Social Security Amendments of 1965 (42 
+     U.S.C. 426a(c), 1395i-1), section 278(d) of the Tax Equity 
+     and Fiscal Responsibility Act of 1982 (42 U.S.C. 426 note), 
+     and for administrative expenses incurred pursuant to section 
+     201(g) of the Social Security Act (42 U.S.C. 401(g)), 
+     $188,828,000,000.
+       In addition, for making matching payments under section 
+     1844 of the Social Security Act (42 U.S.C. 1395w), and 
+     benefit payments under 1860D-16 of such Act (42 U.S.C. 1395w-
+     116), not anticipated in budget estimates, such sums as may 
+     be necessary.
+
+
+                           program management
+
+       For carrying out, except as otherwise provided, titles XI, 
+     XVIII, XIX, and XXI of the Social Security Act, titles XIII 
+     and XXVII of the Public Health Service Act, and the Clinical 
+     Laboratory Improvement Amendments of 1988, not to exceed 
+     $3,230,163,000, to be transferred from the Federal Hospital 
+     Insurance and the Federal Supplementary Medical Insurance 
+     Trust Funds, as authorized by section 201(g) of the Social 
+     Security Act (42 U.S.C. 401(g)); together with all funds 
+     collected in accordance with section 353 of the Public Health 
+     Service Act (42 U.S.C. 263a) and section 1857(e)(2) of the 
+     Social Security Act (42 U.S.C. 1395w-27(e)(2)), funds 
+     retained by the Secretary pursuant to section 1893(h)(1)(C) 
+     of the Social Security Act (42 U.S.C. 1395ddd(h)(1)(C)), and 
+     such sums as may be collected from authorized user fees and 
+     the sale of data, which shall remain available until 
+     expended: Provided, That all funds derived in accordance with 
+     section 9701 of title 31, United States Code, from 
+     organizations established under title XIII of the Public 
+     Health Service Act shall be credited to and available for 
+     carrying out the purposes of this appropriation: Provided 
+     further, That $49,869,000, to remain available until 
+     September 30, 2009, is for contract costs for the Healthcare 
+     Integrated General Ledger Accounting System: Provided 
+     further, That $163,800,000, to remain available until 
+     September 30, 2009, is for Medicare contracting reform 
+     activities of the Centers for Medicare and Medicaid Services: 
+     Provided further, That funds appropriated under this heading 
+     are available for the Healthy Start, Grow Smart program under 
+     which the Centers for Medicare and Medicaid Services may, 
+     directly or through grants, contracts, or cooperative 
+     agreements, produce and distribute informational materials 
+     including, but not limited to, pamphlets and brochures on 
+     infant and toddler health care to expectant parents enrolled 
+     in the Medicaid program and to parents and guardians enrolled 
+     in such program with infants and children: Provided further, 
+     That the Secretary of Health and Human Services shall collect 
+     fees in fiscal year 2008 from Medicare Advantage 
+     organizations pursuant to section 1857(e)(2) of the Social 
+     Security Act (42 U.S.C. 1395s-27(e)(2)) and from eligible 
+     organizations with risk-sharing contracts under section 1876 
+     of such Act (42 U.S.C. 1395mm) pursuant to section
+
+[[Page H8004]]
+
+     1876(k)(4)(D) of such Act (42 U.S.C. 1395mm(k)(4)(D)).
+
+
+              health care fraud and abuse control account
+
+       In addition to amounts otherwise available for program 
+     integrity and program management, $383,000,000, to be 
+     transferred from the Federal Hospital Insurance and the 
+     Federal Supplementary Medical Insurance Trust Funds, as 
+     authorized by section 201(g) of the Social Security Act (42 
+     U.S.C. 401(g)), of which $288,480,000 is for the Medicare 
+     Integrity Program at the Centers for Medicare and Medicaid 
+     Services to conduct oversight of activities authorized in 
+     titles I and II of the Medicare Prescription Drug, 
+     Improvement, and Modernization Act of 2003 (Public Law 108-
+     173), with oversight activities including those activities 
+     listed in section 1893(b) of the Social Security Act (42 
+     U.S.C. 1395www(b)); of which $36,690,000 is for the 
+     Department of Health and Human Services Office of Inspector 
+     General; of which $21,140,000 is for the Medicaid program 
+     integrity activities; and of which $36,690,000 is for the 
+     Department of Justice: Provided, That the report required by 
+     section 1817(k)(5) of the Social Security Act (42 U.S.C. 
+     1395i(k)(5)) for fiscal year 2008 shall include measures of 
+     the operational efficiency and impact on fraud, waste and 
+     abuse in the Medicare and Medicaid programs for the funds 
+     provided by this appropriation.
+
+                Administration for Children and Families
+
+
+  payments to states for child support enforcement and family support 
+                                programs
+
+       For making payments to States or other non-Federal entities 
+     under titles I, IV-D, X, XI, XIV, and XVI of the Social 
+     Security Act and the Act of July 5, 1960 (24 U.S.C. ch. 9), 
+     $2,949,713,000, to remain available until expended; and for 
+     such purposes for the first quarter of fiscal year 2009, 
+     $1,000,000,000, to remain available until expended.
+       For making payments to each State for carrying out the 
+     program of Aid to Families with Dependent Children under 
+     title IV-A of the Social Security Act as in effect before the 
+     effective date of the program of Temporary Assistance for 
+     Needy Families (TANF) with respect to such State, such sums 
+     as may be necessary: Provided, That the sum of the amounts 
+     available to a State with respect to expenditures under such 
+     title IV-A in fiscal year 1997 under this appropriation and 
+     under such title IV-A as amended by the Personal 
+     Responsibility and Work Opportunity Reconciliation Act of 
+     1996 shall not exceed the limitations under section 116(b) of 
+     such Act.
+       For making, after May 31 of the current fiscal year, 
+     payments to States or other non-Federal entities under titles 
+     I, IV-D, X, XI, XIV, and XVI of the Social Security Act and 
+     the Act of July 5, 1960 (24 U.S.C. ch. 9), for the last three 
+     months of the current fiscal year for unanticipated costs, 
+     incurred for the current fiscal year, such sums as may be 
+     necessary.
+
+
+                   low-income home energy assistance
+
+       For making payments under section 2604(a)-(d) of the Low-
+     Income Home Energy Assistance Act of 1981 (42 U.S.C. 8623(a)-
+     (d)), $1,980,000,000.
+       For making payments under section 2604(e) of the Low-Income 
+     Home Energy Assistance Act of 1981 (42 U.S.C. 8623(e)), 
+     $682,000,000, notwithstanding the designation requirement of 
+     section 2602(e) of such Act.
+
+
+                     refugee and entrant assistance
+
+       For necessary expenses for refugee and entrant assistance 
+     activities and for costs associated with the care and 
+     placement of unaccompanied alien children authorized by title 
+     IV of the Immigration and Nationality Act (8 U.S.C. 1521-
+     1524) and section 501 of the Refugee Education Assistance Act 
+     of 1980 (8 U.S.C. 1522 note), for carrying out section 462 of 
+     the Homeland Security Act of 2002 (6 U.S.C. 279), and for 
+     carrying out the Torture Victims Relief Act of 1998 (22 
+     U.S.C. 2152 note) $650,630,000, of which up to $9,814,000 
+     shall be available to carry out the Trafficking Victims 
+     Protection Act of 2000 (22 U.S.C. 7101 et seq.): Provided, 
+     That funds appropriated under this heading pursuant to 
+     section 414(a) of the Immigration and Nationality Act and 
+     section 462 of the Homeland Security Act of 2002 for fiscal 
+     year 2008 shall be available for the costs of assistance 
+     provided and other activities to remain available through 
+     September 30, 2010.
+
+
+   payments to states for the child care and development block grant
+
+       For carrying out the Child Care and Development Block Grant 
+     Act of 1990 (42 U.S.C. 9858 et seq.), $2,137,081,000 shall be 
+     used to supplement, not supplant, State general revenue funds 
+     for child care assistance for low-income families: Provided, 
+     That $18,777,370 shall be available for child care resource 
+     and referral and school-aged child care activities, of which 
+     $982,080 shall be for the Child Care Aware toll-free hotline: 
+     Provided further, That, in addition to the amounts required 
+     to be reserved by the States under section 658G, $267,785,718 
+     shall be reserved by the States for activities authorized 
+     under section 658G, of which $98,208,000 shall be for 
+     activities that improve the quality of infant and toddler 
+     care: Provided further, That $9,821,000 shall be for use by 
+     the Secretary for child care research, demonstration, and 
+     evaluation activities.
+
+
+                      social services block grant
+
+       For making grants to States pursuant to section 2002 of the 
+     Social Security Act (42 U.S.C. 1397a), $1,700,000,000.
+
+
+                children and families services programs
+
+       For carrying out, except as otherwise provided, the Runaway 
+     and Homeless Youth Act (42 U.S.C. 5711 et seq.), the 
+     Developmental Disabilities Assistance and Bill of Rights Act 
+     of 2000 (42 U.S.C. 15001 et seq.), the Head Start Act (42 
+     U.S.C. 9831 et seq.), the Child Abuse Prevention and 
+     Treatment Act (42 U.S.C. 5101 et seq.), sections 310 and 316 
+     of the Family Violence Prevention and Services Act (42 U.S.C. 
+     10409, 10416), the Native American Programs Act of 1974 (42 
+     U.S.C. 2991a et seq.), title II of the Child Abuse Prevention 
+     and Treatment and Adoption Reform Act of 1978 (42 U.S.C. 5111 
+     et seq.) (adoption opportunities), sections 330F and 330G of 
+     the Public Health Service Act (42 U.S.C. 254c-6, 254c-7), the 
+     Abandoned Infants Assistance Act of 1988 (42 U.S.C. 670 
+     note), sections 261 and 291 of the Help America Vote Act of 
+     2002 (42 U.S.C. 15421, 15461), subpart 1 of part B of title 
+     IV and sections 413, 1110, and 1115 of the Social Security 
+     Act, for making payments under the Community Services Block 
+     Grant Act (42 U.S.C. 9901 et seq.), sections 439, 473B, and 
+     477 of the Social Security Act, and the Assets for 
+     Independence Act (42 U.S.C. 604 note), and for necessary 
+     administrative expenses to carry out such Acts and titles I, 
+     IV, V, X, XI, XIV, XVI, and XX of the Social Security Act, 
+     the Act of July 5, 1960 (24 U.S.C. ch. 9), the Low-Income 
+     Home Energy Assistance Act of 1981, title IV of the 
+     Immigration and Nationality Act, section 501 of the Refugee 
+     Education Assistance Act of 1980, and section 505 of the 
+     Family Support Act of 1988 (42 U.S.C. 9926), $9,125,940,000, 
+     of which $9,500,000, to remain available until September 30, 
+     2009, shall be for grants to States for adoption incentive 
+     payments, as authorized by section 473A of the Social 
+     Security Act (42 U.S.C. 673b) and may be made for adoptions 
+     completed before September 30, 2008: Provided, That 
+     $6,963,571,000 shall be for making payments under the Head 
+     Start Act, of which $1,388,800,000 shall become available 
+     October 1, 2008, and remain available through September 30, 
+     2009: Provided further, That $701,125,000 shall be for making 
+     payments under the Community Services Block Grant Act: 
+     Provided further, That not less than $8,000,000 shall be for 
+     section 680(3)(B) of the Community Services Block Grant Act: 
+     Provided further, That in addition to amounts provided 
+     herein, $6,000,000 shall be available from amounts available 
+     under section 241 of the Public Health Service Act to carry 
+     out the provisions of section 1110 of the Social Security 
+     Act: Provided further, That to the extent Community Services 
+     Block Grant funds are distributed as grant funds by a State 
+     to an eligible entity as provided under the Act, and have not 
+     been expended by such entity, they shall remain with such 
+     entity for carryover into the next fiscal year for 
+     expenditure by such entity consistent with program purposes: 
+     Provided further, That the Secretary of Health and Human 
+     Services shall establish procedures regarding the disposition 
+     of intangible property which permits grant funds, or 
+     intangible assets acquired with funds authorized under 
+     section 680 of the Community Services Block Grant Act, to 
+     become the sole property of such grantees after a period of 
+     not more than 12 years after the end of the grant for 
+     purposes and uses consistent with the original grant: 
+     Provided further, That funds appropriated for section 
+     680(a)(2) of the Community Services Block Grant Act shall be 
+     available for financing construction and rehabilitation and 
+     loans or investments in private business enterprises owned by 
+     community development corporations: Provided further, That 
+     $64,350,000 is for a compassion capital fund to provide 
+     grants to charitable organizations to emulate model social 
+     service programs and to encourage research on the best 
+     practices of social service organizations: Provided further, 
+     That $15,720,000 shall be for activities authorized by the 
+     Help America Vote Act of 2002, of which $10,890,000 shall be 
+     for payments to States to promote access for voters with 
+     disabilities, and of which $4,830,000 shall be for payments 
+     to States for protection and advocacy systems for voters with 
+     disabilities: Provided further, That $136,664,000 shall be 
+     for making competitive grants to provide abstinence education 
+     (as defined by section 510(b)(2) of the Social Security Act) 
+     to adolescents, and for Federal costs of administering the 
+     grant: Provided further, That grants under the immediately 
+     preceding proviso shall be made only to public and private 
+     entities which agree that, with respect to an adolescent to 
+     whom the entities provide abstinence education under such 
+     grant, the entities will not provide to that adolescent any 
+     other education regarding sexual conduct, except that, in the 
+     case of an entity expressly required by law to provide health 
+     information or services the adolescent shall not be precluded 
+     from seeking health information or services from the entity 
+     in a different setting than the setting in which abstinence 
+     education was provided: Provided further, That within amounts 
+     provided herein for abstinence education for adolescents, up 
+     to $10,000,000 may be available for a national abstinence 
+     education campaign: Provided further, That in addition to 
+     amounts provided herein for abstinence education for 
+     adolescents, $4,500,000 shall be available from amounts 
+     available under section 241 of the Public Health Service Act 
+     to carry out evaluations (including longitudinal evaluations) 
+     of adolescent pregnancy prevention approaches: Provided 
+     further, That up to $2,000,000 shall be for improving the 
+     Public Assistance Reporting Information System, including 
+     grants to States to support data
+
+[[Page H8005]]
+
+     collection for a study of the system's effectiveness.
+
+
+                  Amendment No. 34 Offered by Mr. Holt
+
+  Mr. HOLT. Madam Chairman, I offer an amendment.
+  The CHAIRMAN. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment No. 34 offered by Mr. Holt:
+       Page 58, line 21, insert after the dollar amount the 
+     following: ``(increased by $21,000,000)''.
+       Page 60, line 12, insert after the dollar amount the 
+     following: ``(increased by $21,000,000)''.
+       Page 60, line 13, insert after the dollar amount the 
+     following: ``(increased by $15,00,000)''.
+       Page 60, line 15, insert after the dollar amount the 
+     following: ``(increased by $6,000,000)''.
+       Page 63, line 4, insert after the first dollar amount the 
+     following: ``(reduced by $21,000,000)''.
+
+  Mr. HOLT. Madam Chairman, as you may know, the funding authorized for 
+the Help America Vote Act of 2002, known as HAVA, for disability access 
+and protection and advocacy payments, was never fully appropriated. 
+Section 261 of HAVA authorized $100 million in disability access 
+funding to make polling places accessible to individuals with 
+disabilities and to provide them with information about the 
+accessibility of polling places.
+  I am sure the Chair and my colleagues would agree, it is important 
+for equality under the law that all voters have good access to voting.
+  In addition, section 291 authorized $10 million annually for fiscal 
+years 2003 through 2006 and such sums as necessary thereafter to pay 
+for the protection and advocacy systems of each State to ensure full 
+participation in the electoral process for individuals with 
+disabilities, including the process of registering to vote, casting a 
+vote and gaining access to polling places. To date, only $55 million of 
+that amount has been appropriated under HAVA to fund accessibility, and 
+only $22 million has been appropriated to fund protection and advocacy 
+systems.
+  Voting is indeed the cornerstone of our democracy, and unless all 
+eligible voters are assured access to the polls, that fundamental right 
+and the integrity of our electoral system generally are severely 
+undermined. Therefore, I seek to amend the bill to provide $15 million 
+in funding for accessibility under section 261 of HAVA, and an 
+additional $6 million in funding for protection and advocacy systems 
+under section 291 of HAVA, for a total increase of $21 million. This 
+would result, as you can quickly calculate, in several hundred thousand 
+dollars per State to assist in voting for voters with disabilities.
+  I urge my colleagues to support this increase.
+  Madam Chairman, I yield back the balance of my time.
+  Mr. OBEY. Madam Chairman, I move to strike the last word.
+  The CHAIRMAN. The gentleman from Wisconsin is recognized for 5 
+minutes.
+  Mr. OBEY. Madam Chairman, I understand the motivation behind this 
+amendment. The gentleman wants to provide additional funding for a very 
+legitimate purpose. It is something we should have done a long time 
+ago, and I understand that. But having said that, I am simply tired of 
+having to defend administrative accounts from people on both sides of 
+the aisle.
+  So I am not going to object to the amendment, but I do want to point 
+out to the gentleman, as I will point out to many other Members who 
+offer similar amendments today, that this committee is being whipsawed. 
+We are being told by the White House that there is too much money in 
+this bill, yet virtually every amendment that has been offered, save 
+one, has been motivated principally by a desire to increase rather than 
+decrease funds in this bill. This is another similar amendment. While I 
+recognize that it has an offset, it is a ``let's pretend'' offset, just 
+like a number of the offsets were last night.
+  Anybody who understands how government works needs to understand that 
+if an agency is a grant-making agency and if you gut its administrative 
+budget, then there ain't going to be nobody in the agency to issue the 
+grants in the first place. Therefore, I want Members who offer these 
+amendments to understand that even if they are accepted, when we go to 
+conference we are going to have to make very large adjustments, and a 
+lot of what is adopted on the House floor, if it is based on some of 
+these ``let's pretend'' offsets, will in fact wind up on the cutting 
+room floor by the time we get back from conference. That is just a 
+practical fact of life.
+  Madam Chairman, as I say, I will not object to the gentleman's 
+amendment, but I don't want anyone to be under any illusion that we can 
+fund all of these additional wonderful things by simply going to the 
+administrative budgets of the agencies, because occasionally you need 
+somebody in that office to turn on the light.
+  Mr. HOLT. Madam Chairman, will the gentleman yield?
+  Mr. OBEY. I yield to the gentleman from New Jersey.
+  Mr. HOLT. Madam Chairman, I thank the gentleman for his agreement, 
+and simply ask that he continue, as he always has, to stand up for the 
+American ideal of equality for all at the polling place.
+  Mr. OBEY. Madam Chairman, I yield back the balance of my time.
+  Mr. WALSH of New York. Madam Chairman, I move to strike the last 
+word.
+  The CHAIRMAN. The gentleman is recognized for 5 minutes.
+  Mr. WALSH of New York. I will be very brief, Madam Chairman. I 
+absolutely agree with the chairman's statement. It is a responsible 
+statement. We can't continue to do the nice things on the one hand by 
+looking like we are putting more money into a program, and at the same 
+time cutting the fat, muscle and limbs of the departments that are 
+supposed to administer these programs. So I support the chairman's 
+contention. We will deal with this in conference.
+  Madam Chairman, I yield back the balance of my time.
+  Mr. KENNEDY. Madam Chairman, I move to strike the last word.
+  The CHAIRMAN. The gentleman from Rhode Island is recognized for 5 
+minutes.
+  Mr. KENNEDY. Madam Chairman, I just want to commend the chairman for 
+the work that this committee has done to achieve the very purpose that 
+this amendment that the gentleman from New Jersey has proposed.
+
+                              {time}  1100
+
+  Frankly, we have this year on July 26 the anniversary of the 
+Americans With Disabilities Act, and we have taken many steps backward 
+as a Nation in guaranteeing the civil rights of all Americans with 
+disabilities. Clearly that means we need to guarantee nothing special 
+for people with disabilities, just the same rights. Guaranteeing equal 
+access regardless of ability is what we need to do in this country.
+  This amendment seeks to do that; but I might add, so does the 
+underlying bill. I hope that Members listening to this debate do not 
+come away with the understanding that it is because of amendments like 
+this that we are accomplishing it. The underlying bill, if people were 
+to see it and really look at it, does so much to offer independence and 
+hope to people who previous to this bill were denied many opportunities 
+because of previous budgetary priorities that shut people out in this 
+country.
+  So I want to commend the chairman and the ranking member for 
+producing a good bill that goes along the same lines as this amendment 
+by opening up the doors of opportunity to all Americans.
+  The CHAIRMAN. The question is on the amendment offered by the 
+gentleman from New Jersey (Mr. Holt).
+  The amendment was agreed to.
+
+
+               Amendment No. 41 Offered by Mr. Hensarling
+
+  Mr. HENSARLING. Madam Chairman, I offer an amendment.
+  The CHAIRMAN. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment No. 41 offered by Mr. Hensarling:
+       Page 58, line 21, after the dollar amount, insert 
+     ``(reduced by $8,000,000)''.
+
+  Mr. HENSARLING. Madam Chairman, if my ears did not deceive me, I 
+think I heard the distinguished chairman of the Appropriations 
+Committee either observe or lament that with one exception, every 
+amendment offered on this bill, its purpose was to increase
+
+[[Page H8006]]
+
+spending. If that was a lamentation, I certainly share his angst. Not 
+wanting to disappoint, I am coming to the floor with several amendments 
+that are designed to do just the opposite, spend less of the people's 
+money to try to save hardworking American taxpayers more, let them keep 
+more of what they earned.
+  Now, Madam Chairman, this is a modest amendment, but it represents a 
+very, very important principle. Today, right now, the Federal 
+Government is spending $23,289 per family. This is the highest level 
+spent in real inflation-adjusted terms since World War II.
+  Earlier this year, the Democrat budget resolution included the 
+largest single tax increase in American history which when fully put in 
+place would put $3,000, an average of $3,000, additional tax burden on 
+the average American family. And now even if Congress were for some 
+reason to just disband today and add no new government, just the 
+government programs we have on automatic pilot threaten to double taxes 
+on the next generation. So we need to find every opportunity that we 
+can today to save the poor beleaguered taxpayer even more money.
+  Madam Chairman, I do not myself know exactly how many Federal 
+programs exist. I have seen one estimate, I believe, from the Heritage 
+Foundation that we have over 10,000 Federal programs spread across 600 
+different agencies. I defy any man, woman or child to tell me what each 
+and every one of them does. Some of them I am sure do good things; but 
+the question is given the fiscal challenges that we face, are they 
+truly a priority.
+  Madam Chairman, some may have even completed their mission. And some, 
+perhaps like the amendment that I am offering today, are actually 
+duplicative. This is a modest amendment that would save the American 
+taxpayer $8 million. In this particular program, ostensibly, funding is 
+used for training and technical assistance in developing and managing 
+water facilities. But the Office of Management and Budget has 
+recommended that this particular program be eliminated, stating that 
+``the program is duplicative of other Federal entities such as the 
+Bureau of Reclamation's rural water program which is responsible for 
+water and wastewater treatment facilities.'' That is from the Office of 
+Management and Budget.
+  So we ought to make sure that we are not simply engaging in 
+legislation by symbolism. I know every single program has a lofty-
+sounding name to help some constituency that is important to us. But we 
+have to look beyond that and see if it is actually achieving its 
+purpose, are there other programs that are also achieving its purpose 
+as well. And according to the Office of Management and Budget, this 
+program is duplicative of other programs.
+  So we have to ask ourselves a very important question. In light of 
+the fact that the Federal Government has never ever spent since World 
+War II so much money of the American family, $23,289, given that the 
+Democrat budget resolution includes the single largest tax increase in 
+history, given that although the national deficit has come down, not 
+due to any spending discipline but due to the fact that we are awash in 
+tax revenues, we still have a tax deficit. So it is a simple question: 
+Do we want to fund a program that the administration considers 
+duplicative given that if we don't, either the funds are coming from 
+the Social Security trust fund, and many of my colleagues have pledged 
+not to do that, if it is not coming from that, it is going to add to 
+this $3,000-per-American-family tax burden, or more debt will be passed 
+on to our children.
+  I believe we ought to use this opportunity to eliminate one 
+duplicative Federal program and return $8 million to the American 
+taxpayer.
+  Madam Chairman, I yield back the balance of my time.
+  Mr. JACKSON of Illinois. Madam Chairman, I move to strike the last 
+word.
+  The CHAIRMAN. The gentleman is recognized for 5 minutes.
+  Mr. JACKSON of Illinois. I was going to yield a minute of my time to 
+the gentleman from Texas to explain his amendment. I appreciate his 
+speech, and I thought the gentleman's speech was a thoughtful speech. 
+He has come to the floor consistently on every appropriations bill in 
+an effort to save money, but I would like to yield to the gentleman 
+just so he can tell us what his amendment does in this bill. If the 
+gentleman would be kind enough to explain that to us, we would 
+appreciate it over here on the majority.
+  Mr. HENSARLING. I thank the gentleman for yielding.
+  If I was not clear, this amendment would save the American taxpayer 
+$8 million. It would remove a duplicative program, according to OMB, 
+the Rural Community Facilities Program. I don't need a minute to 
+explain what the amendment does. That is it. I certainly apologize to 
+my colleague if I was unclear as to the purpose of the amendment or how 
+it operates.
+  Mr. JACKSON of Illinois. I appreciate the gentleman and his analysis.
+  At least as I read page 58, line 21, the gentleman seeks to reduce by 
+$8 million section 501 of the Refugee Education Assistance Act of 1980 
+and section 505 of the Family Support Act of 1988. That reduction the 
+committee fundamentally opposes in part because of Refugee Education 
+Assistance Act of 1980 and the Family Support Act of 1988 are reputable 
+programs that have provided an enormous benefit to the American 
+taxpayer. That is precisely why it is in the bill. And it is 
+specifically in the section of the bill ``Children and Families 
+Services Programs'' because of its enormous benefit to the American 
+taxpayer.
+  I appreciate the gentleman's effort at fiscal accountability and 
+fiscal responsibility, and the gentleman has clearly led a crusade 
+through every single one of these appropriations bills, but I would 
+encourage Members to oppose the Hensarling amendment.
+  Mr. KENNEDY. Madam Chairman, will the gentleman yield?
+  Mr. JACKSON of Illinois. I yield to the gentleman from Rhode Island.
+  Mr. KENNEDY. Madam Chairman, I tell the gentleman, in my State, I 
+will give you a perfect example of where this would make a difference.
+  In a rural part of my State we had a contamination of our well water, 
+and it was a contamination because of the MTBE, the chemical that goes 
+into gasoline. I might add under the Republican majority, you all 
+indemnified the oil and gas industry from lawsuits so that my community 
+can't get the justice it deserves so it can clean up its wastewater and 
+make due reparation to my constituents. What they had to do is they had 
+to go down to the local high school to take showers. They had to attach 
+a pump through the fire department to the next-door community.
+  Now under this section of the bill, this is a public health hazard. 
+You know why, because even at home when they turn on the water, they 
+were getting lesions on their skin because the shower water was giving 
+them lesions. Even when they turned on the steam, the children were 
+breathing in the steam and were getting asthma attacks. Now if you are 
+wondering what the nexus is, this is what the nexus is between your 
+amendment and health and why infrastructure makes an enormous 
+difference in providing clean, safe drinking water to rural 
+communities.
+  Now I don't come from a very rural State so you might think that it 
+is kind of interesting that I would come up and speak on behalf of 
+this. I would think that your State would probably benefit a lot more 
+from this. Your constituents must be wondering about you offering an 
+amendment against a section that would benefit your State more than it 
+does mine. Frankly, this is an important program.
+  If anything in this country, we haven't invested enough in 
+infrastructure. Mr. Jackson, I'm sure, has talked to his mayors and 
+local community leaders, and they have told him that their 
+infrastructure is falling apart. I would just commend all of us to say 
+that if we have to do anything, we have to do more in the way of 
+infrastructure, not less.
+  Mr. JACKSON of Illinois. Reclaiming my time, I want to make sure, and 
+I appreciate the gentleman from Rhode Island's thoughts on the subject, 
+but I want to make sure that this amendment is going to the heart of 
+Refugee Education Assistance Act of 1980 and Family Support Act of 
+1988.
+  Madam Chairman, I yield back the balance of my time.
+  Mr. PENCE. Madam Chairman, I move to strike the requisite number of 
+words.
+  The CHAIRMAN. The gentleman from Indiana is recognized for 5 minutes.
+
+[[Page H8007]]
+
+  Mr. PENCE. Madam Chairman, I rise in strong support of the Hensarling 
+amendment. I love a good debate. It is a great privilege for me to be 
+able to come to the floor at a time when Mr. Kennedy and Mr. Jackson 
+are here. I find them to be two of the most forceful and effective 
+advocates of their view in the Congress in the majority, and so I 
+welcome this opportunity to join in the debate. And I thank the 
+gentleman from Texas who is consistently the strongest advocate for 
+fiscal discipline and reform in the House of Representatives.
+  I will leave aside for the moment the whole question of which party 
+forced the requirement of MTBE to be added to gasoline and created the 
+regulatory challenges that the gentleman refers to, and just get to the 
+larger question here.
+  Madam Chairman, we have an $8 trillion national debt. This is an 
+amendment to cut $8 million. And it is being forcefully opposed. I 
+think for anyone who would be looking on the people's House today, that 
+is a rather dramatic comparison. Let me repeat that again. The 
+Hensarling amendment, facing the stark reality of $8 trillion in 
+national debt, comes to the floor with an idea to ask the Federal 
+Government to do without spending $8 million.
+  The new majority, and I congratulate them again on securing the 
+majority in the Congress, the American people spoke. But I do remember 
+the new majority pledged no new deficit spending. I remember promises 
+by this new majority in last year's campaign season that we would pay 
+as we go in the Federal budget. If there was to be spending increases, 
+they would be offset by cuts in other areas.
+  Yet this legislation, the bill is $7 billion over the 2007 request, 
+$10.2 billion over the President's request, and it follows seven other 
+pieces of legislation all of which have increased spending. And some of 
+which, Madam Chairman, I have supported, but not all.
+  And it does seem to me as I walked here to this floor, I passed one 
+sign after another in front of the offices of some of my most 
+distinguished Democrat colleagues that bear the number $8 trillion writ 
+large. If we are to be concerned about $8 trillion, will we not support 
+an effort to cut $8 million?
+
+                              {time}  1115
+
+  That's the choice here today and whether the gentleman from Illinois, 
+who I deeply respect, considers that this $8 million to be an enormous 
+benefit, might there not be States and local governments that could 
+make up for that, with the recognition that we are creating a burden 
+for future generations of Americans that we ought not to create?
+  So I support the Hensarling amendment. It is the least we can do to 
+take a step backwards.
+  I want to associate myself with the distinguished chairman of this 
+committee who rose earlier to say, and I'm quoting now, that he was 
+tired of defending administrative accounts with amendments by people 
+who were coming to ask for more spending in other areas.
+  It is greatly to the credit of the gentleman from Texas that he is 
+coming to this floor simply asking that we not spend this money. 
+There's no other amendment or no other spending request that he's 
+making in this regard, and it's what the American people ask us to do.
+  In fact, I would close, Madam Chairman, simply by saying I think the 
+American people are tired of the national debt. I think they're tired 
+of the sea of red ink. I think they were tired of it when my party had 
+control of the place, and as the gentlewoman knows, I was one of the 
+strongest opponents of wasteful government spending when my own party 
+was in charge.
+  And so I hope my colleagues on the other side of the aisle know the 
+gentleman from Texas and myself and other colleagues, we come to this 
+floor with sincerity of purpose and with consistency that we think 
+government ought to live within its means and pay its bills, and we 
+think we ought to balance budgets. And the Hensarling amendment simply 
+asks that we might cut $8 million as a modest response to $8 trillion 
+in national debt.
+  And I challenge my colleagues, in the spirit of goodwill, let's make 
+this statement, let's start in the direction of fiscal discipline and 
+reform or, for heaven's sake, Madam Chairman, and I say with a smile, 
+let's take the signs down from the hallways. Let's stop pretending that 
+we worry about the national debt if we cannot come together as a 
+Congress and as a nation and accept an $8 million cut to deal with an 
+$8 trillion national debt.
+  Mr. OBEY. Madam Chairman, I move to strike the last word.
+  The CHAIRMAN. The gentleman is recognized for 5 minutes.
+  Mr. OBEY. Drone on, drone on, O ship of State. That's what I'm 
+tempted to recite when I hear these repetitious dronings on bill after 
+bill after bill.
+  Let me simply say, I think it is legitimate for individual Members of 
+this body to offer amendments in order to illustrate their concern 
+about a larger question. I've done that many times myself in this 
+institution.
+  But I think that after 3 weeks of hearing the same point made again 
+and again, we understand that these gentlemen believe that we are 
+putting too much money into education and health care and science and 
+other areas that we regard as crucial investments, and that's a 
+perfectly legitimate position to have. But please spare me the 
+sanctimony, spare me the nonsense that somehow these amendments will 
+contribute in any meaningful way to significant deficit reduction.
+  Let me simply point out, if people were interested in significant 
+deficit reduction, they would not be supporting an Iraqi war which has 
+already spent over $400 billion and which we'll spend another 140 
+billion bucks by the time we pass the President's supplemental. They 
+would not be insisting that we provide $57 billion in tax cuts to 
+people making a million bucks a year. No, they don't argue about those 
+two things.
+  What do they do? They come to the floor and squawk about an $8 
+million program to help the poorest rural communities in this country 
+get basic services like sewer and water. I represent many towns in my 
+District with populations of less than a thousand people. At least half 
+the households in many of those towns are headed either by senior 
+citizens or a woman with a low income, and that means that when they 
+get hit with the DNR order to clean up their water or clean up their 
+sewer, they do not have the tax base to proceed, and they don't have 
+technical expertise even to know how to begin going about it.
+  We've got a $385 billion backlog in this country of sewer and water 
+needs, and yet we're hearing these complaints about this tiny little 
+program and what terrible abuse it is for the taxpayer.
+  Imagine a congressional committee trying to do something to help poor 
+communities deal with their sewer and water problems. Isn't that awful? 
+Isn't that wasteful? Good God, Almighty, we ought to be putting that $8 
+million into the pockets of millionaires in additional tax cuts, right? 
+At least that's what their record shows they believe. Nonsense.
+  I'm getting up once on this amendment, but I don't intend to 
+continually get up in what is a filibuster by amendment. So I wanted to 
+get that off my chest once, and then I'm just going to sit back and let 
+people drone on, drone on, O ship of State, and occasionally I might 
+even listen.
+  Madam Chairman, I yield back the balance of my time.
+  The CHAIRMAN. The question is on the amendment offered by the 
+gentleman from Texas (Mr. Hensarling).
+  The question was taken; and the Chairman announced that the noes 
+appeared to have it.
+  Mr. HENSARLING. Madam Chairman, I demand a recorded vote.
+  The CHAIRMAN. Pursuant to clause 6 of rule XVIII, further proceedings 
+on the amendment offered by the gentleman from Texas will be postponed.
+
+
+               Amendment No. 42 Offered by Mr. Hensarling
+
+  Mr. HENSARLING. Madam Chairman, I offer an amendment.
+  The CHAIRMAN. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment No. 42 offered by Mr. Hensarling:
+       Page 58, line 21, after the dollar amount, insert 
+     ``(reduced by $5,000,000)''
+
+  Mr. HENSARLING. Madam Chairman, I listened intently to the 
+distinguished chairman of the committee, as
+
+[[Page H8008]]
+
+I do whenever he is on the floor. Apparently he does not like 
+amendments that increase spending in this bill, and apparently he 
+doesn't like amendments that decrease the spending in the bill. So 
+apparently he doesn't like amendments. So that much is clear.
+  Second of all, Madam Chairman, when I come down to the floor in 
+efforts to try to save taxpayers money, let them keep more money for 
+their education programs, their health care programs, their energy 
+programs, sometimes we're told that, well, this is so draconian, you 
+know, to try to save this much money. And then other times we're told, 
+well, this is just a piddling little amount.
+  Well, I'm reminded first of a famous quote from the late Senator 
+Everett Dirksen, a billion here, a billion there, pretty soon we're 
+talking about real money. I'm even talking about more modest amounts 
+today.
+  But there's a fundamental principle involved here, and the 
+fundamental principle is that we have a Federal budget growing way 
+beyond the ability of the family budget to pay for it. Make no mistake 
+about it, Madam Chairman, government will be paid for. It's either 
+going to be paid for in the short term by continuing to raid the Social 
+Security Trust Fund, which is what's going to happen if this particular 
+amendment fails. It will be funded by the single largest tax increase 
+in American history which my friends on the other side of the aisle, 
+the Democrat majority, has done in their budget, or perhaps it may even 
+be funded by sending more debt to our children and grandchildren.
+  I think we should look for every opportunity. Given the challenges 
+that we face, the Comptroller General of America has said we are on the 
+verge of being the first generation in America's history to leave the 
+next generation with a lower standard of living. Never happened before 
+in the history of America.
+  So, Madam Chairman, I make no apologies for, to use the distinguished 
+chairman's term, droning on about what fiscal perils lay in wait for 
+future generations if we don't start now. And then, again, it's a 
+little bit like Goldilocks and the three bears. Either the porridge is 
+too hot or the porridge is too cold. When is the porridge just right to 
+try to save the family budget from the onslaught of the Federal budget?
+  So when we have the Office of Management and Budget single out a 
+number of different programs, and I certainly think that their 
+expertise in this area is great, to single out certain programs that, 
+one, have outlived their usefulness; number two, are not meeting their 
+objective; or number three, are duplicative, I think amendments are in 
+order for the people's House to save the people money.
+  We have to quit engaging again in the fact of legislation by 
+symbolism. It has a lofty name or it has a lofty purpose, well, let's 
+look at what's actually happening to the money.
+  So this is a modest amendment, and I admit it's modest. I've tried to 
+save big chunks of money and haven't been terribly successful there, 
+and so we're going to attempt to save little chunks of money and 
+perhaps set a precedent here.
+  So this amendment is designed to save the American taxpayer $5 
+million by hopefully zeroing out the account of a program which the 
+Office of Management and Budget has said does not have performance 
+standards. They do not have performance standards to assess their 
+impact or are too narrowly focused to have a major benefit. They 
+duplicate other Federal programs and award grants on a noncompetitive 
+basis.
+  Now, ostensibly this program is a job opportunities program for low-
+income individuals, but I happen to know that practically every single 
+one of my colleagues on the other side of the aisle voted against the 
+tax relief that has created 8 million new jobs in our economy, which is 
+an undeniable fact. That's truly the best job opportunity program for 
+low-income individuals.
+  And I know that this body recently voted against the maximum 
+opportunity to create an artificial wage to deny some people their 
+opportunity to get on the lowest rung of the economic ladder.
+  There's a lot of ways that we can help low-income people with job 
+opportunities, but one more duplicative program that awards grants on a 
+noncompetitive basis is not it. Let's not raid the Social Security 
+Trust Fund. Let's not be a part of the largest single tax increase in 
+American history. Let's save the American people $5 million.
+  The CHAIRMAN. The question is on the amendment offered by the 
+gentleman from Texas (Mr. Hensarling).
+  The question was taken; and the Chairman announced that the noes 
+appeared to have it.
+  Mr. HENSARLING. Mr. Chairman, I demand a recorded vote.
+  The CHAIRMAN. Pursuant to clause 6 of rule XVIII, further proceedings 
+on the amendment offered by the gentleman from Texas will be postponed.
+  The Clerk will read.
+  The Clerk read as follows:
+
+
+                   promoting safe and stable families
+
+       For carrying out section 436 of the Social Security Act (42 
+     U.S.C. 629f), $345,000,000 and for section 437 of such Act 
+     (42 U.S.C. 629g), $89,100,000.
+
+
+       payments to states for foster care and adoption assistance
+
+       For making payments to States or other non-Federal entities 
+     under title IV-E of the Social Security Act, $5,082,000,000.
+       For making payments to States or other non-Federal entities 
+     under title IV-E of the Social Security Act, for the first 
+     quarter of fiscal year 2009, $1,776,000,000.
+       For making, after May 31 of the current fiscal year, 
+     payments to States or other non-Federal entities under 
+     section 474 of title IV-E of the Social Security Act, for the 
+     last three months of the current fiscal year for 
+     unanticipated costs, incurred for the current fiscal year, 
+     such sums as may be necessary.
+
+                        Administration on Aging
+
+
+                        aging services programs
+
+       For carrying out, to the extent not otherwise provided, the 
+     Older Americans Act of 1965 (42 U.S.C. 3011 et seq.) and 
+     section 398 of the Public Health Service Act (42 U.S.C. 280c-
+     3), $1,417,189,000.
+
+                              {time}  1130
+
+
+               Amendment No. 44 Offered by Mr. Hensarling
+
+  Mr. HENSARLING. Madam Chairman, I offer an amendment.
+  The CHAIRMAN. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment No. 44 offered by Mr. Hensarling:
+       Page 62, line 20, after the dollar amount, insert 
+     ``(reduced by $21,400,000)''.
+
+  Mr. HENSARLING. Madam Chairman, again we have another modest 
+amendment aiming at saving the American taxpayer, in this case $21.4 
+million. Again, we have a program that has a very lofty name, 
+Preventive Health under the Administration of Aging. But I think that, 
+again, the program needs to be put in the larger context.
+  We are being asked now to provide in this particular appropriations 
+bill $152 billion in discretionary funding, one of the largest bills 
+that will come to the people's House. It has, I believe, a 4.8 percent 
+increase over last year, when I assure you, American families who are 
+being asked to pay for this did not enjoy a 4.8 percent increase.
+  We, once again, have another portion of the Federal budget growing 
+beyond the ability of the family budget to pay for this. So we all know 
+that this is a part of a plan that will increase an additional $26 
+billion for domestic programs under the budget resolution of the 
+Democrat majority, on top of the $6 billion that has been added to the 
+current year omnibus, on top of the $17 billion in nonwar emergency 
+spending they have added to the Iraq war supplemental.
+  Again, I recall the words of the distinguished chairman of the 
+Appropriations Committee, referring to those of us who may drone on 
+about attempting to save the Federal taxpayer money, but there are also 
+those who seemingly use the same old argument that government knows how 
+to spend money better than the American family.
+  Somehow, if we take money away from American families, that's an 
+investment. But if they somehow keep it, well, that's waste, or somehow 
+that's going to bring down the government to its knees. I just don't 
+buy that argument. Somehow we are supposed to believe in the roughly 
+10,000 Federal programs spread across 600 different agencies, growing 
+at roughly twice the rate of inflation, growing beyond the ability of 
+the family budget to pay for it, that somehow, somehow, every single 
+penny of Federal expenditures is sacrosanct.
+
+[[Page H8009]]
+
+Yet there is nothing sacrosanct about the money we take away from the 
+American people to pay for that.
+  Now, the funds in this particular program are awarded to States and 
+territories that supposedly educate older Americans about the 
+importance of healthy lifestyles, a very noble purpose. But I would 
+note with the exception of, I think, two, maybe three States, every 
+single one of them is running a surplus.
+  We are granting money to 95, 98 percent of the States that are 
+running the surplus, while the Federal Government continues to run a 
+deficit. Although that deficit is coming down because we are awash in 
+tax revenues, it certainly hasn't been from any spending disciplines. 
+The bottom line is we are running a deficit, and we are handing out 
+money to States that are running surpluses.
+  Again, this is a program that the Office of Management and Budget 
+says should not be funded: ``It is duplicative of services that States 
+can provide to the Administration on Aging's community-based supportive 
+services program.''
+  I have heard nobody address or take the opposite viewpoint of OMB and 
+say the program is duplicative. So maybe they approve of duplication. 
+If they think that OMB has got it wrong, I would be interested in 
+hearing that particular argument or that particular debate.
+  Furthermore, OMB says that AOA and visions integrating, prevention is 
+an underlying principle in its core programs and that is better than 
+the current mechanism of providing a small funding stream of unfocused 
+seed money through the Preventive Health Services Program. Again, I 
+feel we have too much legislation by symbolism.
+  We should never forget, when we are talking about the lofty purposes, 
+that this will provide in vital investments and health care. Let's 
+remember the vital investments in health care that the American people 
+have. I mean, they are going to have to pay for this.
+  Again, I often hear from my constituents, like Joyce in Tennessee 
+Colony, Texas, says, ``Please do what you can to stop the wasteful 
+spending. I am retired and disabled. I am raising my three 
+grandchildren and now one great grandchild. I sometimes can't afford my 
+own medicine.''
+  So here we have a choice. We can take money away from Joyce in 
+Tennessee Colony, take money away from her health care program, to 
+engage in this particular program which OMB says is duplicative.
+  I have heard from David in the city of Garland.
+  The CHAIRMAN. The gentleman's time has expired.
+  Mr. KENNEDY. Madam Chairman, I move to strike the last word.
+  The CHAIRMAN. The gentleman from Rhode Island is recognized for 5 
+minutes.
+  Mr. KENNEDY. Madam Chairman, I think this is a perfect, perfect 
+example of a gentleman offering an amendment where he knows the cost of 
+something but the value of nothing.
+  If he were to visit any congregate meal site in his district or were 
+to visit any of the Meals-on-Wheels programs in this country and was 
+able to see what a difference those programs make in people's lives, he 
+would understand that it was these kinds of programs that saved the 
+taxpayer money.
+  I guess, by this amendment, he is saying what a waste it is for us to 
+pay for someone's illness. Let's put off paying for their illness until 
+they get really sick. Then they have got to get hospitalized. Then 
+let's pay for it through Medicare.
+  Frankly, the former Speaker Newt Gingrich, every modern health care 
+magazine, Republican Presidential contender Tommy Thompson, former HHS 
+director, every leader and study in health care knows we ought to be 
+going in the opposite direction. It's all about health. In case anybody 
+has not been looking, our health care system is an acute care system. 
+It's a sick care system. We need to be going preventive care. We need 
+to be going health care. We need to be going chronic care management.
+  What in the world are we thinking by considering that we are going to 
+actually go back to the dark days where we are going to actually spend 
+more money on the back door to wait until people get sick as opposed to 
+trying to prevent people from coming in and getting sick in the first 
+place. I find this amendment absolutely mind boggling that it would 
+even be offered as an excuse for saving money.
+  Quite frankly, it will end up costing the taxpayer money. Tragically, 
+more than costing us money, it will cost us lives. It will cost us 
+lives, and it will cost us misery amongst those senior citizens who are 
+going to have to suffer the consequences of the cutbacks that this 
+amendment will propose. I think that's a very unfortunate thing.
+  I yield to the gentleman from Illinois.
+  Mr. JACKSON of Illinois. I thank the gentleman for yielding.
+  Madam Chairman, as I understand Mr. Hensarling's amendment, he goes 
+at the heart of the Administration on Aging, section 204 of the report, 
+and these programs, including supportive service centers, preventive 
+health, are protection for vulnerable and older Americans that are at 
+the heart of the bill. It's clear to me that according to the Health 
+and Human Services budget in brief that consumer empowerment, healthy 
+lifestyles, community living incentives, are a critical part of taking 
+care of families and their caregivers. And I just don't know where the 
+gentleman arrives at the numbers that he seeks to cut in the bill.
+  The committee learned through exhaustive testimony from the Office of 
+the Secretary of Health and Human Services the importance of funding 
+this program. As the gentleman, Mr. Hensarling knows, the President has 
+sought to fund the program, and the committee has worked in a 
+Republican and Democrat bipartisan way, sought to increase the program, 
+and so we are going to stick with this number.
+  I want to thank the gentleman from Rhode Island for yielding me the 
+time. I am encouraging members of the committee to oppose the 
+Hensarling amendment.
+  Mr. KENNEDY. Madam Chairman, reclaiming my time.
+  I am pleased that in other bills that we are going to be taking up 
+this year, we are going to be offering, the Democrats, medical home 
+legislation that will allow us to invest in preventive medicine. 
+Because we, as Democrats, believe we need to not rearrange the deck 
+chairs on this Titanic of our health care system.
+  We need to reinvent our health care system and invest in health care, 
+which is broken in this country, and start investing in prevention and 
+not go down this road that has gotten us in so much trouble to begin 
+with, and that is try to take care of the problem after it's already 
+broken. Let's take care of people first and keep them out of the 
+hospital.
+  Unfortunately, this amendment goes a great deal of distance in the 
+wrong direction, not the right direction.
+  Madam Chairman, I yield back my time.
+  The CHAIRMAN. The question is on the amendment offered by the 
+gentleman from Texas (Mr. Hensarling).
+  The amendment was rejected.
+  The CHAIRMAN. The Clerk will read.
+  The Clerk read as follows:
+
+                        Departmental Management
+
+
+                        office of the secretary
+
+                    general departmental management
+
+       For necessary expenses, not otherwise provided, for general 
+     departmental management, including hire of six sedans, and 
+     for carrying out titles III, XVII, XX, and XXI of the Public 
+     Health Service Act, the United States-Mexico Border Health 
+     Commission Act, and research studies under section 1110 of 
+     the Social Security Act, $363,224,000, together with 
+     $5,851,000 to be transferred and expended as authorized by 
+     section 201(g)(1) of the Social Security Act from the Federal 
+     Hospital Insurance Trust Fund and the Federal Supplementary 
+     Medical Insurance Trust Fund, and $46,756,000 from the 
+     amounts available under section 241 of the Public Health 
+     Service Act to carry out national health or human services 
+     research and evaluation activities: Provided, That of the 
+     funds made available under this heading for carrying out 
+     title XX of the Public Health Service Act, $13,120,000 shall 
+     be for activities specified under section 2003(b)(2), all of 
+     which shall be for prevention service demonstration grants 
+     under section 510(b)(2) of title V of the Social Security Act 
+     without application of the limitation of section 2010(c) of 
+     such title XX: Provided further, That of this amount, 
+     $51,891,000 shall be for minority AIDS prevention and 
+     treatment activities; and $5,941,000 shall be to assist 
+     Afghanistan in the development of maternal and child health 
+     clinics, consistent with section 103(a)(4)(H) of the 
+     Afghanistan Freedom Support Act of 2002.
+
+[[Page H8010]]
+
+                   Amendment Offered by Mr. Ferguson
+
+  Mr. FERGUSON. Madam Chairman, I offer an amendment.
+  The Clerk read as follows:
+
+       Amendment offered by Mr. Ferguson:
+       Page 63, line 4, after the first dollar amount, insert 
+     ``(reduced by $10,000,000) (increased by $10,000,000)''.
+
+  Mr. FERGUSON. Madam Chairman, I rise in strong support of the 
+Ferguson-Langevin amendment that will set aside $10 million for 
+implementation and to fund the Lifespan Respite Care Act.
+  I know the gentleman from Rhode Island, Mr. Langevin, will be 
+speaking on this amendment as well. I really want to praise him and 
+thank him for his great leadership on this issue over the years. He and 
+I have worked together as friends and partners on this issue in 
+particular. I have great respect and admiration for the work that he 
+has done on this issue.
+  Together, we have worked to pass the Lifespan Respite Care Act. It 
+was unanimously approved by this Chamber and the Senate last Congress. 
+It deserves the funding necessary to launch this critically important 
+program. Funding the Lifespan Respite Care Act will, for the first 
+time, establish a national policy to help our Nation's 50 million 
+family caregivers who provide daily care for their loved ones with 
+disabilities or chronic conditions or illnesses.
+  This program allows families to care in home for their loved ones 
+instead of an institutionalized setting. In-home family caregivers 
+provide minute-by-minute special assistance to their loved ones due to 
+disability or critical illness or chronic condition.
+  Family caregivers are remarkable people. They make extraordinary 
+sacrifices to help those who they love so dearly.
+  I saw an example of this firsthand in my own family. Ten years ago my 
+mom was diagnosed with cancer. For 6 years I got to watch my dad as he 
+cared for my mom through this very difficult struggle with cancer. 
+Three years ago yesterday she lost that battle with cancer, but it was 
+a great example to our family and so many others that we know of a 
+great example of a family caregiver who made extraordinary sacrifices. 
+There are some 50 million people just like my dad who provide care for 
+a loved one in their own family.
+  These are folks who may not be blessed with a support structure that 
+we had in our family. We had my siblings and me and others in our 
+family who were able to give my dad a break when he needed a break from 
+that family caregiving. There are many people in our country who are 
+not fortunate enough to have that support structure around them. They 
+are desperately in need of a break from time to time.
+  While the benefits that come from in-home care can be enormous, for 
+caregivers and for that loved one who is ill, the cost for the family 
+caregiver, from emotional to financial, can really be overwhelming. 
+Lifespan Respite Care will provide much-needed breaks for caregivers 
+who are providing intense and exhaustive care 24 hours a day. An 
+occasional break can literally be a lifesaver.
+  I had a conversation with a constituent from my district, Ms. Pinter, 
+who told me that caring for her special-needs child can be a very 
+joyful but also can be a very challenging experience. You know what? 
+She is exactly right.
+  Two-thirds of caregivers report physical or mental health care 
+problems linked to their own caregiving. Recent studies have found that 
+family caregivers suffer poor health or even higher mortality rates 
+than nonfamily caregivers. Currently our Nation lacks a coordinated 
+approach between different levels of government or advocacy groups to 
+aid those who are in need of respite care.
+  Respite care is in short supply or doesn't exist at all in some areas 
+of our country. This legislation and these funds would change that.
+  Funding the Lifespan Respite Care Act would improve coordination and 
+access for respite care to recruit and train respite care providers, 
+would aid family caregivers regardless of age or disability or their 
+family situation, help them to find and pay for respite services. 
+Through competitive grants, States would get funding to make quality 
+respite care available and accessible regardless of age or disability 
+or family situation.
+  Respite care improves the health and the well-being of caregivers and 
+reduces the risk of abuse or neglect. Importantly, it also delays or 
+even avoids more costly hospitalizations or placements in nursing homes 
+or in foster care.
+  I want to thank all of the family caregivers in our Nation who 
+provide tireless care for their loved ones, and I also want to extend 
+my thanks to the numerous groups and organizations around this country 
+in their exhaustive effort to establish this Lifespan Respite Care 
+program. Providing relief to our Nation's family caregivers is long 
+overdue.
+  I urge my colleagues to support this amendment. Once again, I am 
+pleased and honored to have worked with the gentleman from Rhode Island 
+(Mr. Langevin) on this important legislation.
+
+                              {time}  1145
+
+  Madam Chairman, I yield back the balance of my time
+  Mr. LANGEVIN. Madam Chairman, I move to strike the last word.
+  The CHAIRMAN. The gentleman from Rhode Island is recognized for 5 
+minutes.
+  Mr. LANGEVIN. Madam Chairman, I am pleased to rise in strong support 
+of the Ferguson-Langevin amendment. Last year, I was so pleased to work 
+closely with Mr. Ferguson to ensure the passage of the Lifespan Respite 
+Care Act, which will offer relief to so many family caregivers across 
+the country.
+  I had the privilege of traveling with Mr. Ferguson to Iraq going back 
+a couple of years now, and I know his personal commitment to this 
+issue. He shared the story with me about his mom, and so I know, as in 
+my case as well as with Mr. Ferguson, this is certainly a very personal 
+issue that we have personal knowledge about and we care passionately 
+about. So I am pleased to join him today and in the effort to direct 
+funding now for this important program. As I mentioned, I know 
+firsthand what a difference a dedicated caregiver can make in the life 
+of a person with a disability or chronic condition.
+  Family caregiving is an essential yet often overlooked aspect of our 
+Nation's health care system. The ability to live at home and remain a 
+part of one's community can make a tremendous difference in a person 
+achieving independence, recovery, or treatment. And whether they are 
+caring for a child with a behavioral disorder or a parent with ALS or a 
+spouse with multiple sclerosis, we all know someone who is a family 
+caregiver. They live in all of our communities and they are often 
+silent heroes, ensuring family stability and helping those who struggle 
+with disease or disability to avoid more costly out-of-home placements.
+  We were so excited last year when this Congress really took a bold 
+initiative in enacting the Lifespan Respite Care Act, and it gave hope 
+to so many families across America. Today, this amendment that we are 
+proposing directs $10 million toward the Lifespan Respite Care Act, 
+which would authorize grants to make quality respite care available and 
+accessible to family caregivers regardless of age or disability. So it 
+is exciting if we can actually put now the funding into the Lifespan 
+Respite Care Act that we so desperately need to help America's families 
+who are providing this type of care in the home.
+  I urge all of my colleagues who are so supportive of the passage of 
+this bill to vote in favor of the Ferguson-Langevin amendment.
+  I also want to commend my colleague Mr. Ferguson, the gentleman from 
+New Jersey, for his passion and dedication on this issue. It has truly 
+been a team effort. And, again, I urge my colleagues to support it.
+  Madam Chairman, I yield back the balance of my time.
+  Mr. OBEY. Madam Chairman, I move to strike the last word.
+  The CHAIRMAN. The gentleman from Wisconsin is recognized for 5 
+minutes.
+  Mr. OBEY. Madam Chairman, again, I feel required to make the same 
+comments that I made on a previous amendment that was offered about 
+one-half hour ago.
+
+[[Page H8011]]
+
+  This amendment seeks to do a very worthy thing: It seeks to increase 
+support for respite care. God knows, having watched my mother-in-law 
+for 7 years, having watched my father-in-law take care of her every 
+day, God knows that anyone who has ever seen something like that 
+understands that we need a lot more respite care.
+  But having said that, I want again to use this amendment to 
+illustrate what is happening on this bill, because here is what the 
+amendment says:
+  Page 63, line 4: After the first dollar amount insert, reduce by $20 
+million, increase by $20 million.
+  Now, what the amendment really does is simply to serve as a vehicle 
+by which these two worthy Members can raise the issue that there is not 
+enough money in this bill for respite care. And you know what? There 
+isn't. And there isn't enough money in this bill for CDC; there isn't 
+enough money in this bill for NIH; there isn't enough money in this 
+bill for education; there isn't enough money in this bill for Pell 
+Grants; there is not enough money in this bill to sufficiently reduce 
+the Social Security backlog; there is not enough money in this bill to 
+keep all the Social Security offices open that are closing around the 
+country. And, yet, the administration is sending out a letter telling 
+Members of Congress that they ought to vote against this bill because 
+there is too much money.
+  Now, I don't fault the two gentlemen at all for using this device in 
+order to raise their concerns; it is about the only thing they can do. 
+But the fact is, as chairman of this committee, I have an obligation to 
+point out to the House and to the occasional other person who might be 
+listening that Members are being forced to go through these kinds of 
+machinations because instead of meeting our obligations to the most 
+needy people, the most vulnerable people in this society, we are 
+instead squirting away billions of dollars on an Iraq war and billions 
+more dollars in tax cuts for persons who make over $1 million a year.
+  The day that we decide not to do that, the day that we decide that we 
+are not going to spend $150 billion more in Iraq this year, the day 
+that we decide that we are not going to put tax cuts for millionaires 
+ahead of the needs of our disabled and ahead of the needs of our 
+isolated seniors, then that is the day when amendments like this will 
+be real, because then there will be sufficient room in the budget to do 
+what we ought to be doing on these programs.
+  Again, I will not stand in the way of this amendment because it is a 
+worthy cause. But, understand, this is not a real offset; it doesn't 
+add any new money to this account; and when we go to conference, we are 
+going to have to jettison much of what is adopted on the floor because, 
+like this amendment, in reality, because of budget constraints, it 
+ain't real.
+  Madam Chairman, I yield back the balance of my time.
+  The CHAIRMAN. The question is on the amendment offered by the 
+gentleman from New Jersey (Mr. Ferguson).
+  The question was taken; and the Chairman announced that the ayes 
+appeared to have it.
+  Mr. FERGUSON. Madam Chairman, I demand a recorded vote.
+  The CHAIRMAN. Pursuant to clause 6 of rule XVIII, further proceedings 
+on the amendment offered by the gentleman from New Jersey will be 
+postponed.
+  The Clerk will read.
+  The Clerk read as follows:
+
+
+                office of medicare hearings and appeals
+
+       For expenses necessary for administrative law judges 
+     responsible for hearing cases under title XVIII of the Social 
+     Security Act (and related provisions of title XI of such 
+     Act), $65,000,000, to be transferred in appropriate part from 
+     the Federal Hospital Insurance and the Federal Supplementary 
+     Medical Insurance Trust Funds.
+
+
+  office of the national coordinator for health information technology
+
+       For expenses necessary for the Office of the National 
+     Coordinator for Health Information Technology, including 
+     grants, contracts, and cooperative agreements for the 
+     development and advancement of an interoperable national 
+     health information technology infrastructure, $13,302,000: 
+     Provided, That in addition to amounts provided herein, 
+     $48,000,000 shall be available from amounts available under 
+     section 241 of the Public Health Service Act to carry out 
+     health information technology network development.
+
+
+                      office of inspector general
+
+       For expenses necessary for the Office of the Inspector 
+     General, including the hire of passenger motor vehicles for 
+     investigations, in carrying out the provisions of the 
+     Inspector General Act of 1978, $44,687,000: Provided, That of 
+     such amount, necessary sums are available for providing 
+     protective services to the Secretary and investigating non-
+     payment of child support cases for which non-payment is a 
+     Federal offense under section 228 of title 18, United States 
+     Code.
+
+
+                        office for civil rights
+
+       For expenses necessary for the Office for Civil Rights, 
+     $33,748,000, together with not to exceed $3,314,000 to be 
+     transferred and expended as authorized by section 201(g)(1) 
+     of the Social Security Act from the Federal Hospital 
+     Insurance Trust Fund and the Federal Supplementary Medical 
+     Insurance Trust Fund.
+
+
+     retirement pay and medical benefits for commissioned officers
+
+       For retirement pay and medical benefits of Public Health 
+     Service Commissioned Officers as authorized by law, for 
+     payments under the Retired Serviceman's Family Protection 
+     Plan and Survivor Benefit Plan, for medical care of 
+     dependents and retired personnel under the Dependents' 
+     Medical Care Act (10 U.S.C. chapter 55), such amounts as may 
+     be required during the current fiscal year.
+
+
+            public health and social services emergency fund
+
+                     (including transfer of funds)
+
+       For expenses necessary to support activities related to 
+     countering potential biological, disease, nuclear, 
+     radiological and chemical threats to civilian populations, 
+     and for other public health emergencies, $757,291,000, of 
+     which not to exceed $22,363,000, to remain available until 
+     September 30, 2009, is to pay the costs described in section 
+     319F-2(c)(7)(B) of the Public Health Service Act (42 U.S.C. 
+     247d-6b(c)(7)(B)).
+       For expenses necessary to prepare for and respond to an 
+     influenza pandemic, $948,091,000, of which $870,000,000 shall 
+     be available until expended, for activities including the 
+     development and purchase of vaccine, antivirals, necessary 
+     medical supplies, diagnostics, and other surveillance tools: 
+     Provided, That products purchased with these funds may, at 
+     the discretion of the Secretary of Health and Human Services, 
+     be deposited in the Strategic National Stockpile: Provided 
+     further, That notwithstanding section 496(b) of the Public 
+     Health Service Act, funds may be used for the construction or 
+     renovation of privately owned facilities for the production 
+     of pandemic vaccine and other biologicals, where the 
+     Secretary finds such a contract necessary to secure 
+     sufficient supplies of such vaccines or biologicals: Provided 
+     further, That funds appropriated herein may be transferred to 
+     other appropriation accounts of the Department of Health and 
+     Human Services, as determined by the Secretary to be 
+     appropriate, to be used for the purposes specified in this 
+     sentence.
+
+
+                  covered countermeasure process fund
+
+       For carrying out section 319F-4 of the Public Health 
+     Service Act (42 U.S.C. 247d-6e) to compensate individuals for 
+     injuries caused by H5N1 vaccine, in accordance with the 
+     declaration regarding avian influenza viruses issued by the 
+     Secretary of Health and Human Services on January 26, 2007, 
+     pursuant to section 319F-3(b) of such Act (42 U.S.C. 247d-
+     6d(b)), $5,000,000, to remain available until expended.
+
+                           General Provisions
+
+       Sec. 201. Funds appropriated in this title shall be 
+     available for not to exceed $50,000 for official reception 
+     and representation expenses when specifically approved by the 
+     Secretary of Health and Human Services.
+       Sec. 202. The Secretary of Health and Human Services shall 
+     make available through assignment not more than 60 employees 
+     of the Public Health Service to assist in child survival 
+     activities and to work in AIDS programs through and with 
+     funds provided by the United States Agency for International 
+     Development, the United Nations International Children's 
+     Emergency Fund, or the World Health Organization.
+       Sec. 203. None of the funds appropriated in this Act for 
+     the National Institutes of Health, the Agency for Healthcare 
+     Research and Quality, and the Substance Abuse and Mental 
+     Health Services Administration shall be used to pay the 
+     salary of an individual, through a grant or other extramural 
+     mechanism, at a rate in excess of Executive Level I.
+       Sec. 204. None of the funds appropriated in this title for 
+     Head Start shall be used to pay the compensation of an 
+     individual, either as direct costs or any proration as an 
+     indirect cost, at a rate in excess of Executive Level II.
+       Sec. 205. None of the funds appropriated in this Act may be 
+     expended pursuant to section 241 of the Public Health Service 
+     Act, except for funds specifically provided for in this Act, 
+     or for other taps and assessments made by any office located 
+     in the Department of Health and Human Services, prior to the 
+     preparation and submission of a report by the Secretary of 
+     Health and Human Services to the Committees on Appropriations 
+     of the House of Representatives and the Senate detailing the 
+     planned uses of such funds.
+       Sec. 206. Notwithstanding section 241(a) of the Public 
+     Health Service Act, such portion as the Secretary of Health 
+     and Human Services shall determine, but not more than 2.4 
+     percent, of any amounts appropriated for
+
+[[Page H8012]]
+
+     programs authorized under such Act shall be made available 
+     for the evaluation (directly, or by grants or contracts) of 
+     the implementation and effectiveness of such programs.
+
+
+                     (including transfer of funds)
+
+       Sec. 207. Not to exceed 1 percent of any discretionary 
+     funds (pursuant to the Balanced Budget and Emergency Deficit 
+     Control Act of 1985 (2 U.S.C. 900 et seq.)) which are 
+     appropriated for the current fiscal year for the Department 
+     of Health and Human Services in this Act may be transferred 
+     between appropriations, but no such appropriation shall be 
+     increased by more than 3 percent by any such transfer: 
+     Provided, That an appropriation may be increased by up to an 
+     additional 2 percent subject to approval by the Committees on 
+     Appropriations of the House of Representatives and the 
+     Senate: Provided further, That the transfer authority granted 
+     by this section shall be available only to meet unanticipated 
+     needs and shall not be used to create any new program or to 
+     fund any project or activity for which no funds are provided 
+     in this Act: Provided further, That the Committees on 
+     Appropriations of the House of Representatives and the Senate 
+     are notified at least 15 days in advance of any transfer.
+
+
+                     (including transfer of funds)
+
+       Sec. 208. The Director of the National Institutes of 
+     Health, jointly with the Director of the Office of AIDS 
+     Research, may transfer up to 3 percent among institutes and 
+     centers from the total amounts identified by these two 
+     Directors as funding for research pertaining to the human 
+     immunodeficiency virus: Provided, That the Committees on 
+     Appropriations of the House of Representatives and the Senate 
+     are promptly notified of the transfer.
+
+
+                     (including transfer of funds)
+
+       Sec. 209. Of the amounts made available in this Act for the 
+     National Institutes of Health, the amount for research 
+     related to the human immunodeficiency virus, as jointly 
+     determined by the Director of the National Institutes of 
+     Health and the Director of the Office of AIDS Research, shall 
+     be made available to the ``Office of AIDS Research'' account. 
+     The Director of the Office of AIDS Research shall transfer 
+     from such account amounts necessary to carry out section 
+     2353(d)(3) of the Public Health Service Act (42 U.S.C. 300cc-
+     40b(d)(3)).
+       Sec. 210. None of the funds appropriated in this Act may be 
+     made available to any entity under title X of the Public 
+     Health Service Act (42 U.S.C. 1001 et seq.) unless the 
+     applicant for the award certifies to the Secretary of Health 
+     and Human Services that it encourages family participation in 
+     the decision of minors to seek family planning services and 
+     that it provides counseling to minors on how to resist 
+     attempts to coerce minors into engaging in sexual activities.
+       Sec. 211. Notwithstanding any other provision of law, no 
+     provider of services under title X of the Public Health 
+     Service Act (42 U.S.C. 1001 et seq.) shall be exempt from any 
+     State law requiring notification or the reporting of child 
+     abuse, child molestation, sexual abuse, rape, or incest.
+       Sec. 212. None of the funds appropriated by this Act 
+     (including funds appropriated to any trust fund) may be used 
+     to carry out the Medicare Advantage program if the Secretary 
+     of Health and Human Services denies participation in such 
+     program to an otherwise eligible entity (including a Provider 
+     Sponsored Organization) because the entity informs the 
+     Secretary that it will not provide, pay for, provide coverage 
+     of, or provide referrals for abortions: Provided, That the 
+     Secretary shall make appropriate prospective adjustments to 
+     the capitation payment to such an entity (based on an 
+     actuarially sound estimate of the expected costs of providing 
+     the service to such entity's enrollees): Provided further, 
+     That nothing in this section shall be construed to change the 
+     Medicare program's coverage for such services and a Medicare 
+     Advantage organization described in this section shall be 
+     responsible for informing enrollees where to obtain 
+     information about all Medicare covered services.
+       Sec. 213. (a) Except as provided by subsection (e) none of 
+     the funds appropriated by this Act may be used to withhold 
+     substance abuse funding from a State pursuant to section 1926 
+     of the Public Health Service Act (42 U.S.C. 300x-26) if such 
+     State certifies to the Secretary of Health and Human Services 
+     by May 1, 2008, that the State will commit additional State 
+     funds, in accordance with subsection (b), to ensure 
+     compliance with State laws prohibiting the sale of tobacco 
+     products to individuals under 18 years of age.
+       (b) The amount of funds to be committed by a State under 
+     subsection (a) shall be equal to 1 percent of such State's 
+     substance abuse block grant allocation for each percentage 
+     point by which the State misses the retailer compliance rate 
+     goal established by the Secretary of Health and Human 
+     Services under section 1926 of such Act.
+       (c) The State is to maintain State expenditures in fiscal 
+     year 2008 for tobacco prevention programs and for compliance 
+     activities at a level that is not less than the level of such 
+     expenditures maintained by the State for fiscal year 2007, 
+     and adding to that level the additional funds for tobacco 
+     compliance activities required under subsection (a). The 
+     State is to submit a report to the Secretary on all fiscal 
+     year 2007 State expenditures and all fiscal year 2008 
+     obligations for tobacco prevention and compliance activities 
+     by program activity by July 31, 2008.
+       (d) The Secretary shall exercise discretion in enforcing 
+     the timing of the State obligation of the additional funds 
+     required by the certification described in subsection (a) as 
+     late as July 31, 2008.
+       (e) None of the funds appropriated by this Act may be used 
+     to withhold substance abuse funding pursuant to section 1926 
+     of the Public Health Service Act from a territory that 
+     receives less than $1,000,000.
+       Sec. 214. In order for the Centers for Disease Control and 
+     Prevention to carry out international health activities, 
+     including HIV/AIDS and other infectious disease, chronic and 
+     environmental disease, and other health activities abroad 
+     during fiscal year 2008:
+       (1) The Secretary of Health and Human Services (in this 
+     section referred to as the ``Secretary of HHS'') may exercise 
+     authority equivalent to that available to the Secretary of 
+     State in section 2(c) of the State Department Basic 
+     Authorities Act of 1956 (22 U.S.C. 2669(c)). The Secretary of 
+     HHS shall consult with the Secretary of State and relevant 
+     Chief of Mission to ensure that the authority provided in 
+     this section is exercised in a manner consistent with section 
+     207 of the Foreign Service Act of 1980 (22 U.S.C. 3927) and 
+     other applicable statutes administered by the Department of 
+     State.
+       (2) The Secretary of HHS is authorized to provide such 
+     funds by advance or reimbursement to the Secretary of State 
+     as may be necessary to pay the costs of acquisition, lease, 
+     alteration, renovation, and management of facilities outside 
+     of the United States for the use of the Department of Health 
+     and Human Services. The Department of State shall cooperate 
+     fully with the Secretary of HHS to ensure that the Department 
+     of Health and Human Services has secure, safe, functional 
+     facilities that comply with applicable regulation governing 
+     location, setback, and other facilities requirements and 
+     serve the purposes established by this Act. The Secretary of 
+     HHS is authorized, in consultation with the Secretary of 
+     State, through grant or cooperative agreement, to make 
+     available to public or nonprofit private institutions or 
+     agencies in participating foreign countries, funds to 
+     acquire, lease, alter, or renovate facilities in those 
+     countries as necessary to conduct programs of assistance for 
+     international health activities, including activities 
+     relating to HIV/AIDS and other infectious diseases, chronic 
+     and environmental diseases, and other health activities 
+     abroad.
+       Sec. 215. (a) Authority.--Notwithstanding any other 
+     provision of law, the Director of the National Institutes of 
+     Health (in this section referred to as the ``Director of 
+     NIH'') may use funds available under section 402(b)(7) or 
+     402(b)(12) of the Public Health Service Act (42 U.S.C. 
+     282(b)(7), 282(b)(12)) to enter into transactions (other than 
+     contracts, cooperative agreements, or grants) to carry out 
+     research identified pursuant to such section 402(b)(7) 
+     (pertaining to the Common Fund) or research and activities 
+     described in such section 402(b)(12).
+       (b) Peer Review.--In entering into transactions under 
+     subsection (a), the Director of the NIH may utilize such peer 
+     review procedures (including consultation with appropriate 
+     scientific experts) as the Director determines to be 
+     appropriate to obtain assessments of scientific and technical 
+     merit. Such procedures shall apply to such transactions in 
+     lieu of the peer review and advisory council review 
+     procedures that would otherwise be required under sections 
+     301(a)(3), 405(b)(1)(B), 405(b)(2), 406(a)(3)(A), 492, and 
+     494 of the Public Health Service Act (42 U.S.C. 241(a)(3), 
+     284(b)(1)(B), 284(b)(2), 284a(a)(3)(A), 289a, and 289c).
+       Sec. 216. Funds which are available for Individual Learning 
+     Accounts for employees of the Centers for Disease Control and 
+     Prevention (``CDC'') and the Agency for Toxic Substances and 
+     Disease Registry (``ATSDR)'' may be transferred to ``Disease 
+     Control, Research, and Training'', to be available only for 
+     Individual Learning Accounts: Provided, That such funds may 
+     be used for any individual full-time equivalent employee 
+     while such employee is employed either by CDC or ATSDR.
+       Sec. 217. The Director of the National Institutes of Health 
+     shall require that all investigators funded by the NIH submit 
+     or have submitted for them to the National Library of 
+     Medicine's PubMed Central an electronic version of their 
+     final, peer-reviewed manuscripts upon acceptance for 
+     publication, to be made publicly available no later than 12 
+     months after the official date of publication: Provided, That 
+     the NIH shall implement the public access policy in a manner 
+     consistent with copyright law.
+       Sec. 218. Not to exceed $35,000,000 of funds appropriated 
+     by this Act to the institutes and centers of the National 
+     Institutes of Health may be used for alteration, repair, or 
+     improvement of facilities, as necessary for the proper and 
+     efficient conduct of the activities authorized herein, at not 
+     to exceed $2,500,000 per project.
+       Sec. 219. None of the funds appropriated in this Act may be 
+     used to administer to any child under 3 years of age an 
+     influenza vaccine during the 2008-2009 influenza season for 
+     which thimerosal is listed on the labeling as an ingredient.
+        This title may be cited as the ``Department of Health and 
+     Human Services Appropriations Act, 2008''.
+
+                   TITLE III--DEPARTMENT OF EDUCATION
+
+                    Education for the Disadvantaged
+
+       For carrying out title I of the Elementary and Secondary 
+     Education Act of 1965 (``ESEA'') (20 U.S.C. 6301 et seq.) and 
+     section
+
+[[Page H8013]]
+
+     418A of the Higher Education Act of 1965 (20 U.S.C. 1070d-2), 
+     $16,016,318,000, of which $7,698,807,000 shall become 
+     available on July 1, 2008, and shall remain available through 
+     September 30, 2009, and of which $8,136,218,000 shall become 
+     available on October 1, 2008, and shall remain available 
+     through September 30, 2009 for academic year 2008-2009: 
+     Provided, That $6,808,971,000 shall be for basic grants under 
+     section 1124 of ESEA (20 U.S.C. 6333): Provided further, That 
+     up to $4,000,000 of these funds shall be available to the 
+     Secretary of Education on October 1, 2007, to obtain annually 
+     updated local educational-agency-level census poverty data 
+     from the Bureau of the Census: Provided further, That 
+     $1,365,031,000 shall be for concentration grants under 
+     section 1124A of ESEA (20 U.S.C. 6334): Provided further, 
+     That $3,094,562,000 shall be for targeted grants under 
+     section 1125 of ESEA (20 U.S.C. 6335): Provided further, That 
+     $3,094,260,000 shall be for education finance incentive 
+     grants under section 1125A of ESEA (20 U.S.C. 6337): Provided 
+     further, That $9,330,000 shall be to carry out sections 1501 
+     and 1503 of ESEA (20 U.S.C. 6491, 6493): Provided further, 
+     That $1,634,000 shall be available for a comprehensive school 
+     reform clearinghouse.
+
+  Mr. FERGUSON. Madam Chairman, I ask unanimous consent that the 
+request for a recorded vote on the Ferguson amendment be withdrawn.
+  The CHAIRMAN. Is there objection to the request of the gentleman from 
+New Jersey?
+  There was no objection.
+  The CHAIRMAN. The amendment is adopted.
+
+
+     Amendment No. 36 Offered by Ms. Eddie Bernice Johnson of Texas
+
+  Ms. EDDIE BERNICE JOHNSON of Texas. Madam Chairman, I offer an 
+amendment.
+  The CHAIRMAN. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment No. 36 offered by Ms. Eddie Bernice Johnson of 
+     Texas:
+       Page 77, line 6, after the dollar amount, insert ``(reduced 
+     by $46,500,000)''.
+       Page 77, line 7, after the dollar amount, insert ``(reduced 
+     by $46,500,000)''.
+       Page 83, line 14, after the dollar amount, insert 
+     ``(increased by $46,500,000)''.
+       Page 83, line 15, after the dollar amount, insert 
+     ``(increased by $46,500,000)''.
+       Page 83, line 17, after the dollar amount, insert 
+     ``(increased by $46,500,000)''.
+
+  Ms. EDDIE BERNICE JOHNSON of Texas. Madam Chairman, I rise today with 
+an amendment to restore funding for the State grants portion of the 
+Safe Drug and Preschool and Communities program to the fiscal year 2007 
+level.
+  These grants are an essential part of drug prevention and funds 
+essential in effective services, including peer resistance and social 
+skills training, parent education, student assistance, and education 
+about emerging drug needs. This program serves 97 percent of our 
+Nation's schools, and it is the only program that provides funding for 
+universal prevention of all of our Nation's school-aged youth.
+  The success of this program has been documented by numerous States 
+and local agencies. It is extremely effective and has contributed to a 
+23 percent decline in drug use among youth over the past 5 years. It is 
+important to keep drug prevention as a priority. Historically, when 
+funding for drug prevention is cut, drug use amongst youth surges. This 
+program also provides coordinated school and community-based efforts to 
+target emerging drug trends among community members.
+  As a result, this program has made significant contributions to 
+reducing methamphetamine and black tar heroin use among school-aged 
+youth in many States throughout the country. Over the past 2 years, in 
+Dallas, Texas, we have had 23 teens die from overdoses of a black tar 
+heroin mixture that is called cheese with Tylenol PM, and we work with 
+DEA and local merchants and all around trying to get some handle on it. 
+But through the Safe and Drug-Free Schools and Communities program, 
+local antidrug coalitions have partnered with schools throughout to 
+hold prevention conferences in order to combat this growing epidemic.
+
+                              {time}  1200
+
+  They have targeted both students and parents to raise awareness 
+surrounding this issue and have also held town hall meetings for 
+teenagers. I have held one myself.
+  Without the infrastructure provided by this program, the antidrug 
+coalitions would have little if any access to these students and 
+parents, and the heroin problem would have undoubtedly increased.
+  This issue of emerging drug trends is not isolated. And while drug 
+use among school-age children has declined, emerging drug trends 
+continue to rise. We've recently seen new drugs aimed at our children, 
+such as the candy-flavored meth and cocaine in many States, including 
+Texas, California, Arkansas, Nevada, and Alabama. Without strong and 
+effective prevention programs, these growing epidemics will have a 
+devastating impact on the educational performance of students 
+nationwide.
+  As you're aware, drug prevention is critical to ensuring the overall 
+academic success of our youth. Studies have found that lower reading 
+and math scores are linked to peer substance abuse. Our Nation cannot 
+afford to see alcohol and drug use or violence rise above their current 
+levels.
+  I urge my colleagues to vote for this amendment to restore the 
+funding for the Safe and Drug Free Schools and Communities Program to 
+the 2007 level. $46.5 million was reduced, and, Madam Chairman, I do 
+have an offset. The offset for the Safe and Drug Free Schools and 
+Communities Program will come from the Reading First program.
+  The Reading First program has been mired by allegations of financial 
+conflicts of interest and cronyism and is currently under investigation 
+by the Department of Justice. The Office of Inspector General and the 
+U.S. Department of Education have found numerous legal and ethical 
+violations in how Reading First has steered funds toward favored 
+programs. There has been also conflicts of interest in hiring and the 
+promotion of commercial reading materials. This mismanagement has 
+already resulted in the program being cut by more than 60 percent of 
+fiscal year 2008.
+  Just a few examples of this mismanagement include the Office of 
+Inspector General found that the program administrator had improperly 
+promoted commercial reading programs potentially in violation of 
+Federal law. The Office of Inspector General analyzed hundreds of e-
+mails and concluded that the Department's program officials failed to 
+maintain a controlled environment that exemplified management integrity 
+and accountability.
+  They found that the Madison School District in Wisconsin had 
+substantial data.
+  The CHAIRMAN. The gentlewoman's time has expired.
+  Ms. EDDIE BERNICE JOHNSON of Texas. I move the adoption of this 
+amendment, Madam Chairman.
+  Mr. WALSH of New York. Madam Chairman, I move to strike the last 
+word.
+  The CHAIRMAN. The gentleman is recognized for 5 minutes.
+  Mr. WALSH of New York. Madam Chairman, I rise in opposition to this 
+amendment. I certainly can't support further cuts to the Reading First 
+program. It's been cut by $629 million. Further cutting this bill adds 
+insult to injury.
+  There have been problems with the program. There have been abuses. 
+And if laws have been broken, the Inspector General will bring charges 
+against those violators. But we shouldn't punish small children and 
+their teachers for those abuses.
+  We have a need in this country to teach children how to read. I don't 
+think anyone could deny that.
+  So Madam Chairman, for that reason, I will not support any further 
+cuts to a program that teaches those kids to read. And, in fact, I 
+suspect by the time we get to conference, when some of these issues are 
+clarified, we'll be adding money back to this program.
+  For that reason, I oppose the amendment.
+  Madam Chairman, I yield back the balance of my time.
+  Mr. OBEY. Madam Chairman, I move to strike the last word.
+  The CHAIRMAN. The gentleman from Wisconsin is recognized for 5 
+minutes.
+  Mr. OBEY. Madam Chairman, let me simply say again, as I have several 
+times today, I am sympathetic to the goal of the gentlewoman's 
+amendment, and I appreciate the fact that she did not craft her 
+amendment in a way which would go after general departmental 
+administrative costs. I appreciate that concession on the part of the 
+gentlewoman.
+
+[[Page H8014]]
+
+  Having said that, again, I will not personally object to the 
+amendment because I understand what she is trying to do. But I 
+definitely want to make clear what the gentleman from New York said, 
+that there's only so far that you can cut any of these programs.
+  I happen to have insisted on a very deep cut in Reading First because 
+of the abuse that occurred of the taxpayer funds in that account. But 
+having said that, it's our hope that, frankly, and the House needs to 
+know this, it's our hope that by the time we get to conference, we will 
+have worked out enough of an understanding with the administration 
+about the corrections that are needed so that we don't have to take the 
+deep cuts that are in the bill now. But we are not yet at that point, 
+so I think people who are bringing these amendments to the floor need 
+to understand that many of them will not survive, simply for the same 
+reason that I said earlier, that this bill is still short of the funds 
+necessary to fund deserving programs such as that pointed out by the 
+gentlewoman from Texas.
+  Madam Chairman, I yield back the balance of my time.
+  Mr. JACKSON of Illinois. Madam Chairman, I move to strike the last 
+word.
+  The CHAIRMAN. The gentleman from Illinois is recognized for 5 
+minutes.
+  Mr. JACKSON of Illinois. I yield to the gentlelady from Texas.
+  Ms. EDDIE BERNICE JOHNSON of Texas. Let me say to the gentleman who 
+objected, I truly understand his objection on the reading program. 
+However, statistics have shown that if these young people are under the 
+influence of drugs, that's where they fall. And if we could prevent 
+this drug usage, it probably will let some of the ability come through.
+  I know that it's difficult, but this is a very serious problem, and 
+these cuts will hurt very severely in areas, primarily in school 
+districts where we've had even young people having the ability to sell 
+drugs to another young person. Obviously, it's coming from somewhere 
+else.
+  But in Dallas, we have not found a single child that has experimented 
+with this ``cheese'' that has survived. And we do have parents 
+involved. We'll have to discontinue this program if we don't have these 
+funds. And I would just plead with you to help find these funds 
+somewhere, if you have a severe objection to it coming from this area.
+  But I felt that if the area's funding was not being handled 
+correctly, it could be placed in a program that's going very well, that 
+has influenced the decrease of 23 percent drug usage among our youth in 
+the last 5 years. And I have grave concern about allowing this to go on 
+without the assistance that's needed.
+  As I said earlier, I have worked with the FBI. They're working with 
+merchants to try to get some of the Tylenol PM and the other off the 
+market in these areas. It is a serious undertaking in the area. And all 
+of our law enforcement people are involved.
+  But our schools cannot continue this without the funding. And that's 
+the reason why I plead for understanding for this funding.
+  Mr. JACKSON of Illinois. I yield back the balance of my time.
+  Mr. KENNEDY. Madam Chairman, I move to strike the last word.
+  The CHAIRMAN. The gentleman from Rhode Island is recognized for 5 
+minutes.
+  Mr. KENNEDY. Madam Chairman, I just want to commend the lady from 
+Texas for her amendment, and say that I know how many years she spent 
+before coming to Congress dedicated to this issue.
+  We had a hearing in her district around this issue of mental health 
+and addiction and alcoholism, and we heard from the law enforcement 
+community themselves in her district testify to the fact that over 70 
+percent of the children in the juvenile justice system were there 
+because of drugs and alcohol. And, frankly, this is a scourge on our 
+schools, and we can't just wish it away by saying, just say no. Just 
+say no won't work. We need to employ resources, and that's what this 
+bill, this amendment, seeks to do.
+  And, frankly, when you have 20 million people in this country 
+addicted, and you have nearly 10 percent of those people, children, you 
+have a serious problem in this country. We better get about trying to 
+address it, and this amendment seeks to try to do that. And I commend 
+the gentlelady for her amendment and support it.
+  Madam Chairman, I yield back the balance of my time.
+  The CHAIRMAN. The question is on the amendment offered by the 
+gentlewoman from Texas (Ms. Eddie Bernice Johnson).
+  The amendment was agreed to.
+
+
+               Amendment Offered by Mr. Walsh of New York
+
+  Mr. WALSH of New York. Madam Chairman, I offer an amendment.
+  The Clerk read as follows:
+
+       Amendment offered by Mr. Walsh of New York:
+       On page 78, line 3, before the period insert the following:
+       ``Provided further, That for the purpose of determining 
+     adequate yearly progress for a specific school or school 
+     district, the Secretary shall include English language 
+     proficiency scores for students deemed to be English language 
+     learners only after such students complete their third year 
+     of instruction in English as a second language''
+
+  Mr. WALSH of New York (during the reading). Madam Chairman, I ask 
+unanimous consent that the amendment be considered as read and printed 
+in the Record.
+  The CHAIRMAN. Is there objection to the request of the gentleman from 
+New York?
+  There was no objection.
+  Mr. OBEY. Madam Chairman, I reserve a point of order on the 
+amendment.
+  The CHAIRMAN. A point of order is reserved.
+  The gentleman from New York is recognized for 5 minutes.
+  Mr. WALSH of New York. Madam Chairman, my amendment, which I intend 
+to withdraw, is very simple. It would prohibit the Department of 
+Education from counting test scores for English language learners 
+against school districts until after the student completes 3 years of 
+English language instruction.
+  In our subcommittee's hearing, with Secretary Spellings, I raised 
+some concerns regarding English Language Arts Test that student 
+learning to speak English as a second language were given this year.
+  In my home State, there are over 192,000 immigrant students learning 
+English, the majority of whom are in kindergarten through third grade. 
+In the city of Syracuse, my hometown, we have an elementary school in 
+which 43 percent of the kids are English language learners learning 
+English as a second language.
+  I recognize that there are benefits to monitoring ELL student 
+achievement on an annual basis. But school systems should not be 
+penalized for student scores after only 1 year of instruction.
+  I'd like to state emphatically that we need to make sure that all of 
+our kids speak and read English proficiently. It is essential to their 
+ability to compete in a very competitive society and a very competitive 
+world. And it is essential to the long-term viability of the American 
+culture that we can all speak to each other in the same tongue.
+  But I've learned other languages myself, some better than others, and 
+it took me more than 1 year to be considered proficient.
+  Let's not punish our schools, declaring them failing, before they've 
+spent enough time to teach English thoroughly to our kids. So although 
+I intend to withdraw this amendment, it would be my hope that Chairman 
+Miller and Ranking Member McKeon are aware of this problem and will 
+take steps to address it when we reauthorize No Child Left Behind.
+  Mr. OBEY. Would the gentleman yield?
+  Mr. WALSH of New York. I would be happy to yield to the chairman.
+  Mr. OBEY. I want to underscore that I agree with my friend from New 
+York and to emphasize that in parts of my own State, school districts 
+face similar problems. In fact, I would bet this problem exists all 
+over the country.
+  Furthermore, I understand that school districts face a similar issue 
+with respect to the test scores of students receiving special education 
+services. So I'd like to suggest to the gentleman from New York that we 
+sign a joint letter to the authorizing committee requesting that they 
+address this serious issue in the No Child Left Behind reauthorization 
+that they're expected to soon consider.
+
+[[Page H8015]]
+
+  Mr. WALSH of New York. Reclaiming my time, I would be pleased to join 
+with my chairman in signing that letter, and thank him for his support, 
+knowing that as chairman of the full committee and of the subcommittee, 
+his voice will be heard on the authorization committee.
+  Mr. SHADEGG. Will the gentleman yield?
+  Mr. WALSH of New York. I'd be happy to yield.
+  Mr. SHADEGG. I understand the gentleman intends to withdraw the 
+amendment. However, I want to rise in strong support of the amendment. 
+As the gentleman knows, we live on opposite sides of the country, you 
+in New York and I in Arizona. But the essence of your amendment says we 
+should not be judging these schools until they've had a chance to, in 
+fact, educate these children in a second language. And judging them 
+after only 12 months, as the gentleman clearly pointed out, is 
+unrealistic and punishing the school, which means to punish all the 
+students at that school and all the parents of those students and all 
+of the teachers and administration officials at that school by 
+evaluating those children and holding them accountable after only 12 
+months is unrealistic.
+  I would be happy to join in your letter, and I commend the gentleman 
+for offering the amendment.
+  Mr. WALSH of New York. I thank the gentleman very much for his vote 
+of confidence in the amendment. I would be happy to work with him on 
+that communication with the authorization committee.
+  Madam Chairman, I ask unanimous consent to withdraw my amendment.
+  The CHAIRMAN. Without objection, the amendment is withdrawn.
+  There was no objection.
+  The Clerk will read.
+  The Clerk read as follows:
+
+                               Impact Aid
+
+       For carrying out programs of financial assistance to 
+     federally affected schools authorized by title VIII of the 
+     Elementary and Secondary Education Act of 1965 (20 U.S.C. 
+     7701 et seq.), $1,278,453,000, of which $1,140,517,000 shall 
+     be for basic support payments under section 8003(b) of such 
+     Act (20 U.S.C. 7703(b)), $49,466,000 shall be for payments 
+     for children with disabilities under section 8003(d) of such 
+     Act (20 U.S.C. 7703(d)), $17,820,000 shall be for 
+     construction under section 8007(a) of such Act (20 U.S.C. 
+     7707(a)), $65,700,000 shall be for Federal property payments 
+     under section 8002 of such Act (20 U.S.C. 7702), and 
+     $4,950,000, to remain available until expended, shall be for 
+     facilities maintenance under section 8008 of such Act (20 
+     U.S.C. 7708): Provided, That for purposes of computing the 
+     amount of a payment for an eligible local educational agency 
+     under section 8003(a) of such Act (20 U.S.C. 7703(a)) for 
+     school year 2007-2008, children enrolled in a school of such 
+     agency that would otherwise be eligible for payment under 
+     section 8003(a)(1)(B) of such Act, but due to the deployment 
+     of both parents or legal guardians, or a parent or legal 
+     guardian having sole custody of such children, or due to the 
+     death of a military parent or legal guardian while on active 
+     duty (so long as such children reside on Federal property as 
+     described in section 8003(a)(1)(B) of such Act), are no 
+     longer eligible under such section, shall be considered as 
+     eligible students under such section, provided such students 
+     remain in average daily attendance at a school in the same 
+     local educational agency they attended prior to their change 
+     in eligibility status.
+
+                      School Improvement Programs
+
+       For carrying out school improvement activities authorized 
+     by title II (20 U.S.C. 6601 et seq.), part B of title IV (20 
+     U.S.C. 7171 et seq.), part A of title V (20 U.S.C. 7201 et 
+     seq.) and subparts 6 and 9 of part D of title V (20 U.S.C. 
+     7253 et seq., 20 U.S.C. 7259 et seq.), part A of title VI (20 
+     U.S.C. 7301 et seq.) and part B of title VI (20 U.S.C. 7341 
+     et seq.), and part B of title VII (20 U.S.C. 7511 et seq.) 
+     and part C of title VII (20 U.S.C. 7541 et seq.) of the 
+     Elementary and Secondary Education Act of 1965 (``ESEA''); 
+     the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11301 
+     et seq.); section 203 of the Educational Technical Assistance 
+     Act of 2002 (20 U.S.C. 9602); the Compact of Free Association 
+     Amendments Act of 2003 (48 U.S.C. 1921 et seq.); and the 
+     Civil Rights Act of 1964 (42 U.S.C. 2000a et seq.), 
+     $5,678,002,000, of which $4,059,441,000 shall become 
+     available on July 1, 2008, and remain available through 
+     September 30, 2009, and of which $1,435,000,000 shall become 
+     available on October 1, 2008, and shall remain available 
+     through September 30, 2009, for academic year 2008-2009: 
+     Provided, That $411,630,000 shall be for State assessments 
+     and related activities authorized under sections 6111 and 
+     6112 of ESEA (20 U.S.C. 7301, 7301a): Provided further, That 
+     up to 100 percent of the funds available to a State 
+     educational agency under part D of title II of the ESEA (20 
+     U.S.C. 6751 et seq.) may be used for subgrants described in 
+     section 2412(a)(2)(B) of such Act (20 U.S.C. 6762(a)(2)(B)): 
+     Provided further, That $56,257,000 shall be available to 
+     carry out section 203 of the Educational Technical Assistance 
+     Act of 2002: Provided further, That $34,376,000 shall be 
+     available to carry out part D of title V of ESEA: Provided 
+     further, That no funds appropriated under this heading may be 
+     used to carry out section 5494 under ESEA (20 U.S.C. 7259c): 
+     Provided further, That $18,001,000 shall be available to 
+     carry out the Supplemental Education Grants program for the 
+     Federated States of Micronesia and for the Republic of the 
+     Marshall Islands: Provided further, That up to 5 percent of 
+     these amounts may be reserved by the Federated States of 
+     Micronesia and the Republic of the Marshall Islands to 
+     administer the Supplemental Education Grants programs and to 
+     obtain technical assistance, oversight, and consultancy 
+     services in the administration of these grants and to 
+     reimburse the United States Departments of Labor, Health and 
+     Human Services, and Education for such services: Provided 
+     further, That $3,000,000 of the funds available for the 
+     Foreign Language Assistance Program shall be available for 5-
+     year grants to local educational agencies that would work in 
+     partnership with one or more institutions of higher education 
+     to establish or expand articulated programs of study in 
+     languages critical to United States national security that 
+     will enable successful students to advance from elementary 
+     school through college to achieve a superior level of 
+     proficiency in those languages.
+
+
+               amendment offered by mr. price of georgia
+
+  Mr. PRICE of Georgia. Madam Chairman, I offer an amendment.
+  The Clerk read as follows:
+
+  Amendment offered by Mr. Price of Georgia:
+       Page 80, line 2, after the first dollar amount and after 
+     the second dollar amount, insert ``(reduced by 
+     $21,000,000)''.
+       Page 82, line 6, after the first dollar amount, insert 
+     ``(increased by $21,000,000)''.
+       Page 82, line 13, after the dollar amount, insert 
+     ``(increased by $21,000,000)''.
+       Page 82, line 15, after the dollar amount, insert 
+     ``(increased by $21,000,000)''.
+
+  Mr. PRICE of Georgia. Madam Chairman, this amendment is offered in an 
+effort to try to reprioritize monies between two separate funds related 
+to gaining high-quality teachers in our Nation, the Teacher Incentive 
+Fund and the Teacher Quality State Grants.
+
+                              {time}  1215
+
+  The Teacher Incentive Fund, my amendment would increase the funding 
+for that by $21 million. When the 2007 fiscal year budget was adopted 
+or the appropriations bill adopted, receipt was $2 million. The request 
+from the President for this year was $199 million, and the bill before 
+us includes a provision for $99 million, $100 million less than the 
+President's request.
+  As opposed to the Teacher Quality State Grants, which received last 
+year $2.8 billion, the President's request was for $2.7 billion and the 
+bill before us includes a provision for $3.1 billion, $400 million more 
+than the request by the Department.
+  Teacher quality, Madam Chairman, is certainly the most important 
+school-related factor influencing student achievement. The No Child 
+Left Behind Act reflects this and one of the central tenets is putting 
+a highly qualified teacher in every classroom. Congress now has a 
+greater opportunity to take teacher quality initiatives a step further 
+by increasing funding for the Teacher Incentive Fund, a program that 
+rewards highly effective teachers and rewards results.
+  The Teacher Incentive Fund allows States and school districts to 
+apply for Federal grants in order to develop and implement performance-
+based compensation systems for both teachers and principals. With the 
+Teacher Incentive Fund, educators who improve student achievement in 
+the classroom are provided with financial rewards such as bonuses and 
+increasing salaries. In 2006, the Teacher Incentive Fund and Congress 
+provided $100 million for the new program; however, in 2007 it received 
+only $2 million, and this is for a program that has shown very 
+successful and rewarding results.
+  There is certainly a need for the fund and to date 34 grantees have 
+received money. But the Department of Education has received nearly 150 
+applications. More resources would mean more districts would be able to 
+establish performance-based compensation systems.
+  Looking at the workforce, it is estimated that more than 2 million 
+teachers will need to be hired over the next decade. Research has shown 
+that performance pay can be effective at recruiting and retaining 
+highly qualified teachers. So the Teacher Incentive Fund will encourage 
+a talented pool of individuals to go into the field of teaching.
+  Again, this is a reprioritization, a movement of $21 million from the
+
+[[Page H8016]]
+
+Teacher Quality State Grants, which is slated to receive $3.1 billion 
+to the Teacher Incentive Fund, which would then receive $120 million. 
+By doing so, this money can be directly given to local districts to 
+create compensation systems and therefore recruit and reward 
+outstanding teachers. Nothing wrong with rewarding the best and 
+brightest when it comes to educating our children.
+  I urge adoption of the amendment.
+  Madam Chairman, I yield back the balance of my time.
+  Mr. GARRETT of New Jersey. Madam Chairman, I move to strike the last 
+word
+  The CHAIRMAN. The gentleman is recognized for 5 minutes.
+  Mr. GARRETT of New Jersey. Madam Chairman, I rise to support the 
+gentleman from Georgia in his amendment. And the overall focus of his 
+amendment is to do two things, first of which is what Congress should 
+be asked to do by all of our constituents in all our districts from all 
+across this country, and that is to take their hard-earned dollars that 
+they send to us in the form of tax revenue and to prioritize them into 
+the most efficient manner and into the most efficient programs and into 
+the most efficient methodologies in order to get those programs 
+effectuated for the good of the citizens. And that is what this 
+amendment does.
+  In accord with the opinion of the administration, there are a number 
+of programs now in existence essentially attempting to do the same 
+thing. Here with regard to education, essentially trying to lift up the 
+quality of education in this country, a laudable goal obviously; 
+secondly, to lift up the quality of teachers in the classroom, again a 
+laudable goal obviously. But we are asked to prioritize this to make 
+sure that those dollars actually get to those programs and effectively 
+down to the teachers, where it can do the most good. The gentleman from 
+Georgia's amendment would do just that.
+  One of the fundamental flaws in the No Child Left Behind program is 
+to take away the issue of authority and local control from the 
+frontlines, and that is the classroom and that is the teacher, and 
+shift it someplace else. The fundamental flaw with No Child Left Behind 
+is to say that the parents should not be involved in making the 
+decisions or the teachers should not be the ones making the ultimate 
+decisions on how we educate our children, but it should be the 
+bureaucrats down in Washington and unelected at that.
+  We need believe that the focus should be shifted back to the parents, 
+back to the teachers, for those who are the people on the frontlines, 
+those are the people who are having the day-to-day interaction with our 
+children.
+  When you think about it, if you have kids in school or if you have 
+neighbors with kids in school and they have a problem in the classroom, 
+where is the first place that they go to to try to resolve that 
+problem? They go into the schoolhouse and into the classroom and talk 
+to the teacher. They want to get to the bottom of it right then and 
+there. And ultimately it is a matter of making sure that that teacher 
+is the best qualified teacher that you can actually have in that 
+classroom.
+  Parents do not go to Washington, DC, and speak with the U.S. 
+Department of Education to try to resolve some difficulty they have in 
+their classroom. Parents do not come down here to speak with the 
+Secretary of Education to deal with difficulties they have in their 
+classroom. They go to the teacher. And they sit down and work things 
+out to try to get to the heart of it and the root of the cause of the 
+problem.
+  And the gentleman from Georgia realizes this. And he realizes that in 
+order to make a better classroom where more learning can occur, where 
+we can have better schoolhouses and classrooms, where we can raise up 
+the quality of education, it is to raise up the quality of our 
+teachers. The gentleman from Georgia's amendment does just that by 
+ending programs that are ineffective, ineffectual, and don't get the 
+job done, and transfers them over to those programs that do get the job 
+done. In this matter we should all be commending the gentleman and 
+support his amendment.
+  Madam Chairman, I yield back the balance of my time.
+  Mr. OBEY. Madam Chairman, I move to strike the last word
+  The CHAIRMAN. The gentleman from Wisconsin is recognized for 5 
+minutes.
+  Mr. OBEY. Madam Chairman, I must confess a certain degree of 
+confusion about this amendment. I always had the impression that good 
+Republicans like block grants, and I also had the impression that 
+thoughtful Republicans favor as much local control as possible. And yet 
+this amendment would have us running in the opposite direction.
+  What this amendment would do is it would take the dollars in question 
+out of a program which provides aid to all States in the Union and 
+instead reserve that money for use in just the few States who have 
+bought into the approach that is supported by these two gentlemen.
+  One of my favorite quotations is from Eric Sevareid, who used to be 
+on CBS News a few years ago, and he said, ``It is important to maintain 
+the courage of one's doubts in an age of dangerous certainties.''
+  And I have to say that I have a lot of doubts about what is the most 
+effective way to teach children. I don't think I have all the answers. 
+I don't think this House has all the answers. So I don't think we ought 
+to be dictating to States what answers they seek in their teacher 
+quality programs.
+  The virtue of the committee approach, as opposed to the approach 
+suggested by the amendment, is that States can use the money in the 
+block grant as it is provided in the committee bill and they can use it 
+for any variety of techniques, including the one that is being promoted 
+by the two gentlemen pushing this amendment. It seems to me that at a 
+time when we are already questioning the rigidity of No Child Left 
+Behind, and I must confess I voted for No Child Left Behind but with 
+serious reservations and I will not vote to renew it unless those 
+reservations are corrected, but it just seems to me that at a time when 
+we are recognizing that No Child Left Behind is needlessly rigid, we 
+should not be piling on to that rigidity with additional pieces of our 
+own.
+  So with that I would simply urge Members to allow States to continue 
+to have the flexibility that they have under the committee approach, 
+and I would urge a ``no'' vote on the amendment.
+  Madam Chairman, I yield back the balance of my time.
+  Mr. HENSARLING. Madam Chairman, I move to strike the last word.
+  The CHAIRMAN. The gentleman from Texas is recognized for 5 minutes.
+  Mr. HENSARLING. I yield to the gentleman from Georgia, the sponsor of 
+the amendment.
+  Mr. PRICE of Georgia. I thank the gentleman for yielding.
+  I appreciate the Chair's comments and I agree with him that we don't 
+have all the answers. I would suggest, however, that what this 
+amendment does is more appropriately prioritize moneys based upon the 
+concerns and recommendation of the Department of Education. The 
+fundamental difference between the two programs, the Teacher Quality 
+State Grants, which is a program that in many areas gets excellent 
+results, the differences are two that this amendment addresses:
+  One is that the overwhelming portion of the money that is available 
+has been put into the Teacher Quality State Grants, moving from $2.8 
+billion last year to $3.1 billion this year, as opposed to the Teacher 
+Incentive Fund, which would move from a high of $100 million in the 
+last 2 years to $99 million this year, in essence a flat 
+appropriations.
+  The other main difference is that the Teacher Incentive Fund rewards 
+results. It rewards performance. It rewards teachers and schools who 
+are actually gaining those high quality results that we desire for all 
+students across our Nation.
+  So I would respectfully disagree with the Chair, that this is not 
+prescriptive in its formula and the only rigidity that it has in it is 
+that it requires results. So, hopefully, the House will see that the 
+sense in looking at performance, looking at quality teachers, looking 
+at what they are doing in the classroom and the results that they are 
+getting, and rewarding that kind of performance makes sense. I would 
+suggest that that is what most of us have said at home when we talk to 
+our constituents and that this amendment aligns
+
+[[Page H8017]]
+
+the actions of this House with what we have told our constituents we 
+would be supporting here in the House of Representatives.
+  So I appreciate the time, and I encourage, again, my colleagues to 
+support this amendment.
+  Mr. HENSARLING. Madam Chairman, reclaiming my time, I thank the 
+gentleman for his leadership. I compliment him on the amendment. I urge 
+its adoption.
+  Madam Chairman, I yield back the balance of my time.
+  Mr. REGULA. Madam Chairman, I move to strike the last word.
+  The CHAIRMAN. The gentleman from Ohio is recognized for 5 minutes.
+  Mr. REGULA. First of all, Madam Chairman, I want to express my 
+appreciation to the chairman of the committee for including funding for 
+the teacher incentive fund. It is so vitally important to the inner 
+cities to be able to attract the best teachers and this fund can be 
+used by school districts to do just that.
+  Too often in the school systems, the best teachers tend to flee to 
+the suburbs and they also flee to the good schools. Where we really 
+need the top notch teachers are in the inner cities because our cities 
+are really facing a crisis in the sense that their percentage of those 
+who do not finish high school is growing and is a terrible waste of 
+human capital. We can't afford that.
+  And one of the important things is to get these students in the early 
+years, first grade, kindergarten, second grade, third grade, to like 
+school and to like to learn, and that takes a quality teacher. And this 
+program, and thanks to the chairman we have the 99 million dollars and 
+this proposal for some additional, allows schools to give some 
+financial incentives to the really top notch teachers to take on that 
+responsibility.
+  I have an instance in my district where a handicapped teacher has 
+inspired a class in a low-income neighborhood and it has made a world 
+of difference in the lives of these young people.
+  So I just want to express, again, my appreciation to the chairman and 
+for the interest of the gentleman from Georgia in the Teacher Incentive 
+program because I think it is one of the vital challenges in addressing 
+the dropout rate in the big cities to ensure that these students get a 
+taste for education and they enjoy the experience and they stay with 
+it. I am hopeful that the States will use these funds in that way, to 
+give incentives to the very best teachers to go into the toughest areas 
+and inspire young people.
+  I will add that the Teach for America program does a great job in 
+that respect because they send their Teach for America candidates into 
+very difficult situations.
+  I hope that we can address the dropout rate prospectively when we 
+have a nation where 31 percent statistically do not finish high school 
+and we know it is much larger in the cities. So there is the challenge, 
+and this program, which the chairman was gracious enough to include in 
+the original bill, is one of the keys to addressing that problem. So I, 
+again, commend the chairman and also the gentleman from Georgia for 
+their concern to inspire and make it attractive for the quality 
+teachers to teach in difficult situations.
+  The teacher is where it is. If you ask any group, as I do when I give 
+a speech, how many of you had a teacher, maybe two that made a 
+difference in your life? And every hand will go up, and that says so 
+eloquently that we want to have teachers in the toughest situations 
+where their students will at some time in the future say, yes, I had a 
+teacher that made a difference in my life.
+
+                              {time}  1230
+
+  That's why I'm here. That's why I finished high school. That's why I 
+press on.
+  I went into a charter school where there was a Teach for America 
+Teachers and it was in one of the toughest parts of the city. And the 
+teacher there said, as we walked through the door, these were fifth 
+graders, ``What do we do in 2010 or 2011?'' Without missing a beat, 
+every student said, ``We go to college.'' Now, if I had done that 5 
+years ago or 3, they would have said, ``What? What do we do? I don't 
+know. Drop out, probably.''
+  So I want to again commend the chairman for many parts of this bill 
+that are important to giving teachers inspiration and making schools 
+better so that whomever is here 25 years from now will not be saying 
+that 31 percent of the students in the United States drop out. We can 
+ill afford that in the competitive world in which we live.
+  Madam Chairman, I yield back the balance of my time.
+  The CHAIRMAN. The question is on the amendment offered by the 
+gentleman from Georgia (Mr. Price).
+  The question was taken; and the Chairman announced that the ayes 
+appeared to have it.
+  Mr. JACKSON of Illinois. Madam Chairman, I demand a recorded vote.
+  The CHAIRMAN. Pursuant to clause 6 of rule XVIII, further proceedings 
+on the amendment offered by the gentleman from Georgia will be 
+postponed.
+
+
+             Amendment Offered by Mr. Garrett of New Jersey
+
+  Mr. GARRETT of New Jersey. Madam Chairman, I offer an amendment.
+  The Clerk read as follows:
+
+       Amendment offered by Mr. Garrett of New Jersey:
+       Page 80, line 2, after each dollar amount, insert 
+     ``(reduced by $33,907,000)''.
+
+  Mr. GARRETT of New Jersey. Madam Chairman, I rise today to offer an 
+amendment that mirrors the President's budget request to eliminate 
+funding in the bill for the Alaskan Native Education Equity Program. By 
+so doing this, it will save our Nation's taxpayers $33.9 million.
+  Now, as with many of the programs that you will be hearing us 
+discussing both yesterday and today and in the future, this program 
+does, in fact, support a worthwhile goal, and that is providing 
+additional educational services to Alaskan Natives. The services 
+provided to Alaskan Natives that are students through this program, 
+however, are redundant of many of the other types of programs that are 
+provided through various other agencies, most notably through the 
+Department's other education programs.
+  See, our funding priorities must be exactly that. When we come 
+together as a conference and then as a body to support appropriation 
+bills, we are called upon by the American taxpayers to set those 
+things, priorities, just as the American family budget is created each 
+day, each week, each month in American families across their country 
+and they sit down at their kitchen table to decide what are their 
+priorities when it comes to spending their hard-earned dollars.
+  They have educational interests in mind as well. They may have 
+children that they have to decide whether they're going to be sending 
+them to college this year or next, to a high-priced college or a 
+moderate-priced college, et cetera. They have to set priorities when it 
+comes to how much money will they be able to set aside in their savings 
+account for educational purposes. Or if their kids are in a K-12 
+system, whether it's public school or private school, likewise, the 
+American public has to set their own priorities, decide how much money 
+they can set aside if they choose to send their kids to a private 
+school. Or if their kids are going to a public school, how much money 
+will they set aside so that they can spend on their children when it 
+comes to educational purposes for extracurricular activities or 
+supplements to the school program.
+  American families are called upon to do this every single day, every 
+single week of the year with their budget. And all we are asking right 
+now is that the U.S. Congress and the Senate do the exact same thing 
+with their hard-earned tax dollars that they've entrusted to us. In 
+this matter, what we are doing is saying we have several programs, the 
+same laudable goals. We are eliminating one and shifting the dollars to 
+the another so that the program gets done.
+  I would now like to bring my colleagues' attention to a recent report 
+by the Nonpartisan Tax Foundation. This report details how much money 
+each State taxpayer contributes in Federal dollars and how much money 
+each State taxpayer receives back. This is very interesting, especially 
+if you come from the State of New Jersey, as I do.
+  According to this report, Alaska, which is the subject of this 
+amendment, ranks second in the Nation, getting $1.80 back for every $1 
+that the
+
+[[Page H8018]]
+
+taxpayers up there pay in Federal taxes. In contrast, my good State of 
+New Jersey ranks dead last. We receive back a paltry 63 cents back for 
+every dollar that a New Jersey taxpayer sends to Washington. What does 
+that mean? That means that New Jersey taxpayers, working just as hard 
+as the taxpayers up in the great State of Alaska are, are sending one 
+dollar in with their paycheck each week, or multiple dollars as it is. 
+But at the end of the day, when they see how Congress appropriates 
+those dollars, New Jerseyans find out that they're only getting back 63 
+cents on the dollar.
+  Conversely, we look up to Alaska, the subject of this amendment. How 
+much does every taxpayer get back from the dollar that they contribute 
+to the good of the country and the State? They get back $1.80. It's a 
+fairness issue, quite honestly, Madam Chairman. Where are our dollars 
+going?
+  And with the new Democratic majority passing the largest tax increase 
+in American history recently in its budget, the burden on New Jersey 
+taxpayers will only continue to rise. Yet at the same time, we are 
+providing nearly $40 million for redundant services in a State that is 
+already nearly on a 2-1 ratio on every dollar that it sends to 
+Washington.
+  Mr. JACKSON of Illinois. Will the gentleman yield?
+  Mr. GARRETT of New Jersey. Let me just finish this thought.
+  Mr. JACKSON of Illinois. I have a parliamentary inquiry, Madam 
+Chairman. There is a problem with the amendment that is at the desk.
+  The CHAIRMAN. Will the gentleman from New Jersey yield for a 
+parliamentary inquiry?
+  Mr. GARRETT of New Jersey. I am not yielding. I am finishing my 
+thought.
+  The CHAIRMAN. The gentleman from New Jersey is recognized.
+  Mr. GARRETT of New Jersey. Madam Chairman, and I will be brief, we 
+must remember that every dollar that we send to Washington comes out of 
+that proverbial ``family budget'' that I referenced before. So when 
+duplicate programs like this come before us, we should put ourselves in 
+the shoes of the family in the same situation.
+  So, do you think that families would go out, families from the other 
+side of the aisle would go out and spend their hard-earned tax dollars 
+on a month's worth of groceries and then go out and eat every single 
+night of the week? I don't think so. That would be duplicative. They 
+would be spending money on the exact same thing. American families 
+don't do that; neither should Congress. That doesn't make much sense to 
+me, Madam Chairman, and quite frankly, neither does the funding of 
+multiple Federal programs do the same.
+  The CHAIRMAN. The gentleman's time has expired.
+  Mr. OBEY. Madam Chairman, I rise in opposition to the amendment.
+  The CHAIRMAN. The gentleman from Wisconsin is recognized for 5 
+minutes.
+
+
+                         Parliamentary Inquiry
+
+  Mr. JACKSON of Illinois. Madam Chairman, I have a parliamentary 
+inquiry before the gentleman begins.
+  The CHAIRMAN. The gentleman from Illinois is recognized.
+  Mr. JACKSON of Illinois. Madam Chairman, at the desk, the amendment 
+that the gentleman was speaking to concerned Native Hawaiians, but the 
+gentleman spoke about Alaskans. And I asked the Clerk if he had the 
+amendment that the gentleman was speaking about on Native Alaskans and 
+he said he did not have that amendment. So I'm trying to figure out, 
+are we responding to the Native Hawaiian language for $33,907,000, 
+which is what is at the desk, or the gentleman's argument about 
+Alaskans, which is not at the desk? And that is my inquiry.
+  The CHAIRMAN. Without objection, the Clerk will re-report the 
+amendment.
+  The Clerk read the amendment.
+  Mr. JACKSON of Illinois. Madam Chairman, that's about Hawaiians.
+  The CHAIRMAN. Did the Clerk report the intended amendment?
+  Mr. GARRETT of New Jersey. Madam Chairman, there are two amendments 
+at the desk. The amendment that I was speaking on is my amendment, 
+which goes to the issue of Native Alaskans. The gentleman may be 
+referring to another subsequent amendment that will later on refer to 
+Native Hawaiians. It's the same page, same line, same dollar amount, so 
+I can understand the confusion.
+  Mr. JACKSON of Illinois. I thank the Chair.
+  Mr. OBEY. Madam Chairman, may I inquire as to how much time I have 
+remaining?
+  The CHAIRMAN. The gentleman from Wisconsin has 5 minutes remaining.
+  Mr. OBEY. Madam Chairman, let me simply say that I have only been to 
+Alaska once in my life. I have certainly never been in an Alaskan 
+school. But my grandfather taught me a long time ago, and I'm sure you 
+have heard this many times in your own lives, but he used to say that 
+nothing is more expensive in the long run than a badly educated child. 
+And I don't care if that child comes from New Jersey or Wisconsin or 
+Hawaii or Alaska, a badly educated child is a menace to society. Why, 
+just imagine a badly educated child could grow up to be elected as a 
+Member of Congress from New Jersey or Wisconsin. They could come into 
+this Chamber filled full of all sorts of half-baked ideas, and the 
+Congress would be plagued with having to spend hours and hours dealing 
+with those ideas. I'm sure I've presented a few of the bad ideas myself 
+to this House in that time.
+  The point is that Alaska may seem remote and far away, but the fact 
+is that there are special children who do have special needs. Does 
+anyone really believe that we are spending enough on Indian education 
+programs around the whole country, for instance? And yet, we're told by 
+the administration that we ought to eliminate the program for Alaska 
+Native students because they benefit from the Indian education 
+programs. Well, I've got tribes in my own State, and I know how 
+inadequate some of those schools are, though they're trying the best 
+they can.
+  I would simply say that if the authorizing committee wants to 
+deauthorize this program, then fine, but I see no purpose right now in 
+singling out one special group of children for exclusion from this bill 
+and this account. I can think of a lot of things that go on in Alaska 
+that I would just assume see stopped before I would see them stop 
+educating children with special needs. I wish that they would take a 
+different approach, for instance, on their highway aids. I think that 
+their lack of judgment on that score has embarrassed the entire 
+Congress. But I don't think that the Indian children or the Native 
+Alaskan children who are educated under this should wind up being the 
+principal victims of that action by the State of Alaska.
+  I sense in this House that people are touchy about voting for 
+anything for Alaska since that happened. Well, I don't want these kids 
+to be unlucky enough to run into accidents that started out to happen 
+to somebody else. So it seems to me that the wise course is to reject 
+the gentleman's amendment and allow the authorizing committee to 
+determine whether or not this program ought to continue or not.
+  Madam Chairman, I yield back the balance of my time.
+  Mr. WESTMORELAND. Madam Chairman, I move to strike the last word.
+  The CHAIRMAN. The gentleman from Georgia is recognized for 5 minutes.
+  Mr. WESTMORELAND. I would like to recognize my good friend from New 
+Jersey.
+  Mr. GARRETT of New Jersey. I thank the gentleman from Georgia.
+  And let me just begin to reference the chairman's comment as far as 
+whether we should be excluding one set of children from this. Well, 
+that's exactly the point; I believe that we should not be excluding any 
+children. And the language in the bill that is before us right now 
+excludes the children of 49 other States.
+
+                              {time}  1245
+
+  As the Representative of the Fifth District of New Jersey, I am 
+concerned. I come to the floor because this underlying bill excludes 
+the children from the State of New Jersey with this special extra 
+funding. Let me assure the gentleman there are children with special 
+needs in the State of New Jersey, and there are children with special 
+needs in the State of Wisconsin as well.
+
+[[Page H8019]]
+
+They are excluded from the Alaska Native Education Program. I am trying 
+to bring fairness to the overall program, which is also what the 
+administration is trying to do.
+  Let me make that point by sharing with you this comment. The Alaska 
+Native Education Program is authorized by the ESEA of 1965 and they are 
+subject to the reauthorization. But the administration was not 
+recommending reauthorization and, accordingly, funded it at zero. The 
+administration, as do I, recognizes the importance of ensuring that the 
+Alaska Native students receive appropriate educational services. This 
+request is consistent with the administration policy of increasing 
+resources for high-priority programs by eliminating small categorical 
+programs that have a limited effect, such as this.
+  In addition, the services provided to Alaska Native students through 
+this program are redundant with many of the programs through the 
+Department's Indian Education Program already being funded.
+  School districts that wish to implement programs and services 
+tailored to the educational and cultural needs of the Alaska Native 
+students are able to use funds already provided under other Federal 
+programs in the 2008 budget. That includes $1 billion in direct support 
+for the education of Indians and Alaska Natives in addition to the 
+significant funds that are provided to those students who receive 
+services through broader Federal programs; grant programs such as title 
+I grants to local educational agencies and special grants.
+  Further, let me point this out as well: Alaska Native students will 
+also benefit in addition to $1 billion that I also already referenced. 
+They will also benefit from the Department of Indian Education 
+Programs, which provide more than $118 million, $118 million, in 
+formula grants to school districts and competitive grants for 
+demonstration and professional development programs as well.
+  You see, these programs already serve as the Department's principal 
+vehicle for addressing those unique educational and culture-related 
+needs which the gentleman from Wisconsin is referring to.
+  The bottom line is there are already programs established that 
+address those concerns that the gentleman from Wisconsin raises. The 
+administration recognized this and already requested appropriations of 
+$1 billion overall, plus the $118 million in special formula grants.
+  So it is our position, in line with the administration, that we do 
+need to address those specific needs of those children who are in 
+unique circumstances such as we find with Native American Indians in 
+Alaska. But we do not need to do it in a redundant manner.
+  Finally, I would just conclude by saying the gentleman from Wisconsin 
+is correct. We do not want to have children not being educated, 
+regardless of what State they come from, whether it is from New Jersey, 
+the good State of Georgia, the good State of Wisconsin or Alaska. But 
+we are not doing the children any favor whatsoever if we do not 
+appropriate the dollars in a manner that effectively gets that job 
+done. This amendment works to effectuate and ensure those kids get 
+properly educated.
+  Mr. WESTMORELAND. I want to thank my friend from New Jersey for 
+offering this amendment. I hope this House will see fit to pass it.
+  But let me say this: I think as we talk about children and education, 
+that from my background, and I have a high school education, I attended 
+college for a short period of time prior to being married, but let me 
+say this: What I have found is that education is best from the local 
+level, and I don't know that the Federal Government can really take 
+some of these programs and put them down into a local school district 
+and say here is this money, use it for this purpose or you don't get 
+the money.
+  To me, it would be much better if some of this money were set down in 
+a block grant to the State and let the State identify the problems and 
+especially the funding problems that they have and be able to 
+administer the money.
+  Madam Chairman, I yield back the balance of my time.
+  Mr. ABERCROMBIE. Madam Chairman, I move to strike the last word.
+  The CHAIRMAN. The gentleman from Hawaii is recognized for 5 minutes.
+  Mr. ABERCROMBIE. Madam Chairman, I am standing here today speaking 
+for young people in Alaska. I am sure that when Mr. Young gets the 
+opportunity, he will be down here to speak for them, too.
+  I wasn't aware of the fact that the young children in Alaska needed 
+the tender mercies of the gentleman from New Jersey to speak for them. 
+I would think that the children in New Jersey have all they can do, 
+considering the level of the rhetoric I have heard for the last few 
+minutes, to get the best education possible there. The Congress is 
+certainly not being well informed about it today.
+  I most certainly agree with the other gentleman who said that 
+education is best left to the local level. How about letting the 
+gentleman from Alaska, or any other place where they understand what 
+the educational needs of their children are, handle it at their level? 
+That would be the way to take care of it.
+  Mr. GARRETT of New Jersey. Will the gentleman yield?
+  Mr. ABERCROMBIE. No, I will not yield. You had more than enough time 
+to make your case.
+  Madam Chairman, I am going to make a case for those children and the 
+children in Hawaii and the children in every other State and area in 
+this country who deserve the support of this Congress. I have heard 
+talk already down here today about taxes being paid. You don't think 
+taxes are being paid in Alaska or in Hawaii or elsewhere?
+  When you talk about local programs, I have the local programs that we 
+have in Hawaii. I am sure Mr. Young has the local programs that we have 
+in Alaska. I haven't examined them in New Jersey, but, as I say, I have 
+heard the rhetoric for the last few minutes. Maybe I had better go up 
+there and give them a hand.
+  Now, I respect every Member of this floor, and I expect to receive 
+the same in return. When the State of Hawaii came into the Union, one 
+of the protocols of the Admissions Act is the requirement that we 
+recognize and take care of our Hawaiian children. We have programs that 
+are geared towards that. We have Historically Black Colleges in this 
+country. We have established over the past few decades studies in 
+various backgrounds, ethnically, culturally, racially. We have caucuses 
+in this Congress that recognize the various backgrounds from which our 
+people come.
+  Hawaii, I can tell you, just as Alaska is, because I have visited 
+Alaska and have had an opportunity to speak with the teachers and 
+schoolchildren in Alaska, we are a multi-cultural, multi-racial, multi-
+ethnic country. We are a multi-racial, multi-ethnic, multi-background, 
+rainbow state in Hawaii, and we recognize those backgrounds and we try 
+to take care of it in our educational processes.
+  All we are asking for is the opportunity here to help fund local 
+programs that have local assistance as well. That is done in program 
+after program after program.
+  Now, if the gentleman does not care to have the Federal Government 
+fund anything for education in the United States, that is his 
+prerogative. I recognize that and respect that. I don't approve of it, 
+and I hope the Congress won't approve of it. But to have any Member 
+come into another State without any notice to anybody that they are 
+going to do it, by the way, a courtesy that I would extend to anybody 
+in here, I have to find out about it by osmosis that this is being 
+done, it is shameful and it needs to be stopped and it needs to have an 
+end put to it.
+  Now, if the gentleman has specific objections to anything being done 
+in Alaska, he should have taken it up with the gentleman from Alaska. 
+That is minimum courtesy in this body. But to come on the floor and 
+make the kind of accusations that are made today is an insult to the 
+gentleman from Alaska and an insult to the Appropriations Committee and 
+an insult to the House of Representatives.
+  If there are objections to anything in the next one that comes up, I 
+hope that whoever offers that amendment with Hawaii would have had the 
+courtesy to sit down with me and with Representative Hirono and 
+specifically state what
+
+[[Page H8020]]
+
+their objections were, so that we might be able to accommodate them, 
+had they legitimacy and foundation. That is the minimum we can expect 
+from one another.
+  This is a shameful process. I hadn't realized until right now that we 
+could solve the educational problems in this country if we could just 
+keep those Alaskan kids from getting a dime for any program that has 
+been put together by Representative Young and the local educators in 
+Alaska.
+  The CHAIRMAN. The gentleman's time has expired.
+  Mr. PRICE of Georgia. Madam Chairman, I move to strike the last word.
+  The CHAIRMAN. The gentleman is recognized for 5 minutes.
+  Mr. PRICE of Georgia. Madam Chairman, I thank the Chair, and I 
+appreciate the gentleman's passion. I would suggest, however, that each 
+of us are elected to this House to determine best how we should use our 
+vote, to either concur or disagree with the manner in which this body 
+spends hard-working American taxpayer money. So I wouldn't criticize 
+anybody for coming to the floor and providing their assessment of 
+priorities as to where they believe hard-earned American taxpayer money 
+ought to be spent.
+  I am pleased to yield to my good friend from New Jersey for a 
+comment.
+  Mr. GARRETT of New Jersey. I thank the gentleman from Georgia, and I 
+would just make reference to the gentleman from Hawaii. I believe he 
+misstates the intent of the legislation here when he says that the 
+intent is to make sure that Alaska or Hawaii, and this bill is only on 
+Alaska, does not get a dime. As my testimony indicated, Alaska will 
+continue to get more than a dime, as the President's budget request 
+included $1 billion in direct support for the education of Indian and 
+Alaskan Natives. That is more than one dime.
+  Native Alaskans will also get $118 million in formula grants to 
+school districts, competitive grants for demonstration and professional 
+development programs. That is more than one dime.
+  Finally, to the gentleman from Hawaii's first point, which he agreed 
+with the previous comment that education is best done locally and that 
+the folks of Alaska know best about how to educate their children and 
+the folks from Hawaii know best how to educate their children, I would 
+presume he would agree the people from New Jersey also know how best to 
+educate their children.
+  I would ask the gentleman from Hawaii, if he truly believes that, 
+would he support our initiatives and my initiative in the LEARN Act to 
+allow States to opt out of the cumbersome regulations of education from 
+the Federal level and keep their dollars in Hawaii and keep their 
+dollars in Alaska so they would be in the best position to educate 
+their children.
+  Mr. PRICE of Georgia. I thank my friend for offering the amendment, 
+and I thank him for his explanation. There is no desire to remove all 
+funding in this area. That would be a different debate and a different 
+discussion. That is not the debate we are having right now.
+  Madam Chairman, I do want to point out the larger picture, the bigger 
+picture we are talking about here, and that is the issue of fiscal 
+responsibility and the issue of responsibly spending taxpayer money, 
+hard-earned American taxpayer money.
+  I was pleased to hear the chairman of the Appropriations Committee 
+say to the gentleman from New Jersey that if the committee determined 
+that those funds ought not be authorized, that they would be pleased to 
+remove those funds, or something like that.
+  I would point out to the gentleman and to my colleagues that on page 
+302, 303, 304, and 305 of the report of the Committee on 
+Appropriations, there is a paragraph that is headed ``Appropriations 
+Not Authorized By Law.'' I would suggest that we revisit these items 
+and require that they be authorized.
+  ``Pursuant to clause 3(f)(1)(B) of rule XIII of the Rules the House, 
+the following table lists the appropriations in the accompanying 
+bill,'' this bill we are talking about right now, ``which are not 
+authorized by law for the period concerned.''
+  It may be helpful, Madam Chairman, for individuals to hear which ones 
+are not authorized, not talking about the quality of those programs or 
+the need for them, but the fact that this is a process that has come 
+about where we are appropriating money for many programs which are in 
+fact not authorized.
+  Department of Labor, for example, Training and Employment Services, 
+not authorized since 2003. Appropriations in this bill, $3.5 billion.
+  Not authorized in this bill, the Veterans Workforce Improvement 
+Program, not authorized since 2003. Appropriated in this bill, $1.649 
+billion.
+
+                              {time}  1300
+
+  National Health Service Corps, not authorized since 2002, again not 
+talking about the appropriateness of the appropriation itself, but 
+whether or not the process is such that it ought not be authorized 
+prior to carrying out the appropriation. In this bill, $131 million.
+  Not authorized in this bill, Healthy Start, not authorized since 
+2005. In this bill, $120 million.
+  Not authorized in this bill, Rural Health Outreach Grants, not 
+authorized since 2006. Funding in this bill to a level of $52.9 
+million.
+  Not authorized in this bill, cancer registries, not authorized since 
+2003. In this bill, funded at the rate of $47.9 million.
+  Not authorized in this bill, oral health promotion, not authorized 
+since 2005. Funding in this bill, $13.1 million.
+  Not authorized in this bill, substance abuse and mental health 
+services programs, not authorized since 2003. Funding in this bill, 
+$3.26 billion.
+  Madam Chairman, the list goes on and on, and I draw my colleagues' 
+attention to it, because I would agree with the chairman of the 
+Appropriations Committee that we ought to be concerned about what is 
+authorized by the authorizing committees and whether or not 
+appropriations ought to be spent for items that are not authorized.
+  But the challenge for us is to spend responsibly, spend hard-earned 
+taxpayer money responsibly.
+  Mr. OBEY. Madam Chairman, will the gentleman yield?
+  Mr. PRICE of Georgia. I yield to the gentleman from Wisconsin.
+  Mr. OBEY. I just want to thank the gentleman for bringing to the 
+attention of the House again the fact that the authorizing committees 
+have failed to do so much work in past years.
+  Mr. YOUNG of Alaska. Madam Chairman, I move to strike the last word.
+  The CHAIRMAN. The gentleman is recognized for 5 minutes.
+  Mr. YOUNG of Alaska. My friends, this is a sad day in this body. 
+Apparently the students of New Jersey are trying to take money from 
+Alaskan students, pitting State against State instead of talking about 
+education.
+  I am a little bit chagrined with the gentleman from New Jersey. This 
+is supposed to be a House of honor. You didn't tell me you were going 
+to offer this amendment. You didn't talk to the gentleman from Hawaii 
+on the amendment. You are attacking two States that are not contiguous 
+to the United States. This is a harmful thing to do. We are a new 
+State. I have poverty that you don't even think of, and yet you say you 
+want my money, my money for my students that need to be educated to go 
+to New Jersey.
+  That is a sad day for this House.
+  I want to thank the chairman and the ranking member of the 
+Appropriations Committee for putting this in the bill. And if we 
+continue this, we will be called biting one another, very much like the 
+mink in my State that kill their own. There is always another day when 
+those who bite will be killed, too, and I am very good at that.
+  I just think it is a disgrace to have one State, the education of one 
+State, being pitted against another State. This is education. These are 
+needy students, a minority that has been neglected, has not been helped 
+to the degree they should have been over the centuries. I can 
+truthfully say and pridefully say we have been good in the last years, 
+over the last 35 years. I have provided education and supported 
+education. My people have risen and become leaders because this 
+Congress saw the wisdom of us providing us money.
+  And now we have an individual from a State that doesn't have the 
+greatest reputation in the world trying to take money from one State to 
+give to another State. If that is the case, then let's just all have a 
+big donnybrook right here. I'm ready. I'm really ready because what we 
+are doing is dead wrong.
+
+[[Page H8021]]
+
+  I told the gentleman here about 2 years ago, shame on you. Shame on 
+you. Shame on each one of you. And the guys that are trying to not 
+spend money and the guys that are trying to balance the budget, to take 
+and attack education in States, Hawaii and Alaska, that have the least 
+representation as far as numbers go. And if there is guilt here, it is 
+because I have been able to represent my State better than New Jersey. 
+I would suggest New Jersey ought to elect some new Congressmen, I 
+suggest respectfully, that can do the job. I believe that is really 
+true. If they can't do the job, elect somebody new. I have done it. I 
+am going to continue to do it. I am going to fight for my State, and I 
+am going to fight for my State every time.
+  Mr. GARRETT of New Jersey. Mr. Chairman, is it appropriate for the 
+speaker to say that the people from New Jersey should be electing----
+  The Acting CHAIRMAN (Mr. Capuano). Does the gentleman from Alaska 
+yield for a parliamentary inquiry?
+  Mr. YOUNG of Alaska. I have not yielded. I will not yield.
+  Mr. GARRETT of New Jersey. I make a point of order.
+  The Acting CHAIRMAN. The gentleman will state his point of order.
+  Mr. GARRETT of New Jersey. Is it a violation of parliamentary decorum 
+by suggesting that a Member not be reelected in the State of New 
+Jersey?
+  Mr. YOUNG of Alaska. I don't know what the gentleman is talking 
+about. I just said they were not well represented. Respectfully, if I 
+can say that. I don't name anybody's name. I don't mention anybody. I 
+don't specifically mention any names. And that is not why.
+  For the rest of you that continue this constant harping on this floor 
+about cutting monies from other areas under the guise of balancing the 
+budget, I say shame on you, too. I say shame on you because we are not 
+doing the legislative process any good.
+  Regardless of who is in power in this House, Democrat or Republican, 
+we should be leading this Nation and we are at a standstill now. That 
+is one reason our ratings are very low, totally, and that is a shame. 
+Because we do have the work of this Nation that we should be doing and 
+we should be addressing and we should take care of it.
+  I don't agree with everything that side does. We should not always 
+agree on everything, but we should have the ability to get together and 
+solve problems and to legislate, and we have not done that. So I am a 
+little frustrated. And like I say, those that bite me will be bitten 
+back.
+  Mr. Chairman, I yield back the balance of my time.
+
+
+                         Parliamentary Inquiry
+
+  Mr. GARRETT of New Jersey. Parliamentary inquiry.
+  The Acting CHAIRMAN. The gentleman may state his parliamentary 
+inquiry.
+  Mr. GARRETT of New Jersey. Is it appropriate political decorum for a 
+Member to say that he represents his State in a better manner than the 
+entire delegation of another State represents their State?
+  The Acting CHAIRMAN. The Chair is unable to rule on such remarks 
+after other debate has ensued.
+  Mr. GARRETT of New Jersey. Further parliamentary inquiry.
+  The Acting CHAIRMAN. The gentleman may state his parliamentary 
+inquiry.
+  Mr. GARRETT of New Jersey. Is there a manner in which I can rephrase 
+the question so that the Chair will be able to answer the question or 
+comment on the previous speaker's statements?
+  The Acting CHAIRMAN. The Chair can only rule on such words if a 
+timely point of order is made.
+  Mr. GARRETT of New Jersey. I'm sorry, I didn't hear the last part.
+  The Acting CHAIRMAN. The Chair is unable to rule on words between 
+Members previously spoken in debate, absent a timely point of order or 
+demand that such words be taken down.
+  Mr. HENSARLING. Mr. Chairman, I move to strike the last word.
+  The Acting CHAIRMAN. The gentleman from Texas is recognized for 5 
+minutes.
+  Mr. HENSARLING. Mr. Chairman, I have noticed that the last several 
+speakers on the House floor were rather strident in their comments, 
+engaged in ad hominem attacks and perhaps at least one of them could 
+have had their words taken down.
+  Having served in this body for several years, I have yet to discover 
+any direct correlation between the stridency with which one delivers 
+their message and the righteousness behind their cause.
+  Many have come here to say that somehow House decorum demands that 
+one speak to another Member before offering an amendment that somehow 
+may be injurious to their district's interests. In all of the years I 
+have served in this body, I have yet to have somebody come to me and 
+explain to me ahead of time how their amendment, how it impacts the 
+people in the Fifth Congressional District of Texas.
+  Yet every day we see something like the largest tax increase in 
+history, which certainly has a terrible impact on the hardworking 
+people of the Fifth Congressional District of Texas. Nobody sought out 
+my permission before they brought that particular piece of legislation 
+to the floor.
+  We have pieces of trade legislation, or it should be called anti-
+trade legislation, coming to the floor, harming my cow-calf operators 
+in the Fifth District of Texas. Nobody seeks my permission or 
+acquiescence before that legislation is brought to the floor.
+  We have legislation imposing death taxes on people who have worked 
+their whole life to build small businesses in the Fifth Congressional 
+District of Texas. Nobody seeks my acquiescence or permission before 
+bringing that legislation to the floor.
+  I also noticed that an earlier speaker referred to the funds in this 
+amendment as ``my money.'' Well, isn't that a fascinating concept, ``my 
+money.'' I thought it was the taxpayers' money, many of whom reside in 
+the State of New Jersey. Many of whom reside in the State of Texas.
+  I am interested why we seem to have on top of all the other education 
+funds we have, and it is not exactly like this is an area of Federal 
+funding that has gone lacking, since 1995, the elementary and secondary 
+education budget function has increased 147 percent. That is about the 
+highest increase of any budget function in that period of time.
+  I wonder, Mr. Chairman, maybe we ought to go out and create a special 
+education fund for New Jersey and for Texas and for Arkansas and Maine 
+and New Hampshire. Why don't we create one for all 50 States. Then what 
+we can do is we can go ahead with the Democrats' plan for the largest 
+tax increase in history, and we can take all of this money away from 
+American families. Then Washington can keep, say, a third of it in 
+administration cost and waste and inefficiency, and then we can design 
+these programs with our State names on them, take credit for it, and 
+then hand it back to the taxpayers, whose money it is in the first 
+place.
+  So I want to salute the gentleman from New Jersey for his courage, 
+for his steadfast leadership on this issue, his dedication to 
+education, his dedication to fiscal responsibility, and for coming and 
+suffering these ad hominem attacks. That, Mr. Chairman, is what is 
+truly shameful about this particular moment.
+  I would be happy to yield to the gentleman from New Jersey.
+  Mr. GARRETT of New Jersey. I thank the gentleman from Texas for 
+yielding for just a moment.
+  As the Representative from the Fifth District of the State of New 
+Jersey, I remind the gentleman from Alaska that the State of New Jersey 
+has 13 congressional Representatives from both sides of the aisle. And 
+so when the gentleman from Alaska makes reference to our 
+Representatives from the State of New Jersey not doing their job and 
+not appropriately representing the people of the State, I remind him 
+that it is an accusation not against simply this one gentleman who is 
+standing at the microphone right now proposing this one amendment, but 
+it is an entire body of 13 gentlemen from both sides of the aisle who I 
+say, and I commend both Representatives from the Democrat and the 
+Republican side of the aisle, for appropriately and admirably 
+representing the good citizens from the State of New Jersey.
+  My colleagues from the other 12 districts do not need to be defended 
+against these rash accusations by the gentleman from Alaska. But I do 
+come to the floor now to appropriately defend them, nonetheless.
+
+[[Page H8022]]
+
+  The Acting CHAIRMAN. The gentleman's time has expired.
+  Ms. FOXX. Mr. Chairman, I move to strike the last word.
+  The Acting CHAIRMAN. The gentlewoman from North Carolina is 
+recognized for 5 minutes.
+  Ms. FOXX. I yield to the gentleman from New Jersey.
+  Mr. GARRETT of New Jersey. I thank the gentlelady for yielding.
+  I also take up the comment that the gentleman from Texas was just 
+making reference to which the gentleman from Alaska stated in his 
+statement what was ``my money'' or it is Alaska's money. Well, maybe 
+that is the problem we have had in this Congress for too long, even 
+when Republicans were in the majority and now that the Democrats are 
+the majority, too. Too many Members of Congress see the dollars that we 
+appropriate here not as the taxpayers' dollar, but see it as their very 
+own personal checking account. Maybe that is the fundamental problem 
+that we have with why we spend more and more each year.
+  I remember when the Democrats were running for office this past 
+election. They were railing against the Republican Party, that we were 
+the party out of control, spending more and more and more. If they were 
+elected to office, they would come here and rein things in when it came 
+to spending. And I served on the Budget Committee when the Democrats 
+were in the minority, and how they railed against us from the other 
+side of the aisle. And at times I even agreed with them on some of the 
+charges that they made, that we were spending too much money.
+  And now when the Democrats take control, what do they do? Give us the 
+largest tax increase in U.S. history, and we see spending continue to 
+go through the roof. Where do those dollars come from? They come from 
+American taxpayers, from the family budgets, from men and women in 
+Alaska and New Jersey and across this country, working hard just to get 
+by, and yet they are being forced by the Democrats' tax increases to 
+send more dollars here to Washington.
+  When the gentleman from Alaska comes forth and says it is ``my 
+money,'' maybe that is why in some respects when there are projects 
+that are appropriated such as bridges to nowhere and the like, the 
+American public says that is our dollars going to Washington, and it 
+shouldn't be looked at for just such frivolous things as this.
+
+                              {time}  1315
+
+  The amendment that's before us right now is an appropriate amendment 
+to say that the hard-earned tax dollars should go to programs that are 
+necessary but be spent in an effective manner.
+  Members from all 50 States see the need to educate our children. 
+Members from all 50 States, including the State of New Jersey, see the 
+need to deal with the issue of Alaska native students, and that is why 
+this administration has already requested appropriations of $1 billion 
+for that, $118 million in other categorical aids such as that. So all 
+we are doing is saying make sure that those dollars that come from New 
+Jersey and elsewhere are spent effectively.
+  Finally, to close on this point of ``my money,'' maybe the gentleman 
+from Alaska was not listening at the opening of my comments when I said 
+that New Jersey taxpayers send a dollar to Washington and only get 63 
+cents back on the dollar, whereas his constituents, yes, they do much 
+better. They send a dollar to Washington and then they get $1.80 back.
+  I would ask the gentleman from Alaska and other Members from the 
+Democrat side of the aisle, where do they think that other 80 cents on 
+the dollar is coming from? I will tell you it's coming from the good, 
+hardworking taxpayers from the State of New Jersey and Connecticut and 
+New York that are donor States to States like Alaska, that we are 
+subsidizing their programs.
+  I would ask the gentleman from Alaska to refrain from, therefore, 
+referring to it as his money. It is the taxpayers in the Fifth 
+Congressional District and the rest of New Jersey, whether you're in a 
+Democrat district or Republican district, who are helping fund these 
+programs.
+  Ms. FOXX. I want to just say I am very concerned when there is an 
+attitude here in the Congress that it is our money to spend. I want to 
+make sure that nobody ever forgets that we are the stewards of money 
+that we legally steal from the people of this country. We take it from 
+them under duress, and we have a tremendous responsibility to make sure 
+that that money is being spent well.
+  There's no such thing as Federal dollars. It's all money that belongs 
+to the American taxpayers, and we're up here confiscating a great deal 
+of their money and deciding how to spend it. And it's up to us to make 
+sure that we spend it very, very carefully and very, very fairly.
+  The Constitution provides for no role for the Federal Government in 
+education. We're already overstepping our bounds, and if we're going to 
+overstep our bounds, we better be extraordinarily careful in that 
+respect.
+  Mr. Chairman, I yield back my time.
+  Mr. RYAN of Ohio. Mr. Chairman, I move to strike the last word.
+  The Acting CHAIRMAN. The gentleman is recognized for 5 minutes.
+  Mr. RYAN of Ohio. Mr. Chairman, I just wanted to make a point here 
+because I think what just happened on this House floor 5 minutes ago 
+was extraordinary.
+  For a member of the Republican Party to get up and defend what has 
+happened here and the investments that we're making I think exposes 
+what's been going on here for the last several months, is that we have 
+a fringe group, Mr. Chairman, of Members of this Congress who 
+consistently get up and try to pin Members against each other, try to 
+find specific programs and somehow expose somebody as somehow being 
+irresponsible. And I think it's extraordinary what happened here, that 
+we have an extreme group in this Congress that consistently tries to 
+divide us when we're trying to get the people's work done.
+  This is the United States of America, and the gentleman from New 
+Jersey benefits from the Federal court system that helps Wall Street 
+thrive. It's the rule of law in this country that is funded by the 
+taxpayer, courts, judges, buildings, the rule of law, and that allows 
+Wall Street to benefit. That allows citizens in New Jersey to earn a 
+good living and to pay taxes.
+  And we have Members from Texas, Mr. Chairman, the great investment 
+that this country has made into that great State, NASA, the 
+universities, Texas has benefited from those investments.
+  Members from the West, where the West wouldn't even exist, we have 
+congressional districts that wouldn't exist if it wasn't for the 
+investment of the Federal Government to build dams. The Colorado River 
+Basin Project--there wouldn't be congressional districts in the West if 
+it wasn't for the Federal investment.
+  We're the United States of America, for God's sake, and let's stop 
+trying to divide each other. Let's recognize that this bill has been 
+supported unanimously from the Appropriations Committee, Democrats and 
+Republicans, and I want to thank the distinguished Member from New York 
+who put so much thought and concern into this bill, the gentleman from 
+Ohio (Mr. Regula) and gentleman from Ohio (Mr. Hobson), who have 
+consistently tried to make investments and recognize that people in 
+Alaska, kids in Alaska need help, and I'm okay with that. I've never 
+been to Alaska but we have needs.
+  Let's stop trying to divide each other and stop the lectures of 
+fiscal responsibility. The mess we're in is here because of $3 trillion 
+in debt that our friends have borrowed from China and Japan and OPEC 
+countries over the past 6 years; borrowed more money, Mr. Chairman, 
+from foreign interests than every President and Congress before them 
+combined.
+  So enough of the lectures on fiscal responsibility. We're here now. 
+Let's make these investments. Let's compete in a global economy by 
+making these investments. We're competing against 1.3 billion people in 
+China, 1.2 billion people in India. We need to make these investments. 
+We only have 300 million people in this country. They need to be 
+educated. They need to be healthy, and they need to live in a clean 
+environment. That's what this bill does.
+  Mr. Chairman, I yield back the balance of my time.
+  Mr. SHADEGG. Mr. Chairman, I move to strike the last word.
+
+[[Page H8023]]
+
+  The Acting CHAIRMAN. The gentleman from Arizona is recognized for 5 
+minutes.
+  Mr. SHADEGG. Mr. Chairman, I would like to point out that this is 
+supposed to be a healthy debate, and quite frankly, I don't think 
+Members on either side should criticize Members for coming to the floor 
+and debating issues.
+  The gentleman from New Jersey raised, I believe, a legitimate issue, 
+and that is the issue of the equity of people from one State paying in 
+much more money to the Federal Government than they get back versus 
+people from another State getting much more money back from the Federal 
+Government than they pay in and questioning a particular program. 
+That's the kind of debate that is supposed to occur here. It's the kind 
+of debate that should occur here.
+  Indeed, I think everyone on this floor acknowledges we have a problem 
+with having spent too much money. We have a problem with too much debt, 
+and I think the people on this side of the aisle have tried to make the 
+point that at some point we need to stop that spending or slow that 
+spending, and I believe the people who have carried forward this 
+discussion, at least from this side of the aisle, have readily 
+acknowledged that a great deal of that overspending occurred on our 
+watch. We're not trying to point blame, but we do have a duty to come 
+here and debate our financial priorities and debate our jobs.
+  Mr. WESTMORELAND. Mr. Chairman, will the gentleman yield?
+  Mr. SHADEGG. I yield to the gentleman from Georgia.
+  Mr. WESTMORELAND. Mr. Chairman, I thank the gentleman for yielding. I 
+thank my friend from New Jersey for offering this amendment because I 
+did not know that this would open up the types of discussions that it 
+has, but I think it's great for this body.
+  My friend from Ohio, Mr. Ryan, who, Mr. Chairman, I stood up on that 
+podium and listened to many nights with the 30-something group, that 
+talked about the spending of the Republicans, I hope he will come back 
+now and talk about the largest tax increase in the history of this 
+country. He talked about dividing Members, and I stood there, Mr. 
+Chairman, right where you're at, and I listened to the rhetoric that 
+was designed to divide Members.
+  And talking about a spending and what's a good investment, I don't 
+know when we were in the majority party why the things we weren't doing 
+wasn't a good investment. Now, all of the sudden spending $11 billion 
+more than the President's recommendation is a good investment. So 
+spending more money is a good investment, and he's talking about that 
+we borrowed money from foreign countries. I don't agree with that, but 
+you know what, they probably won't borrow money from a foreign country. 
+You know what they're going to do, Mr. Chairman? They're going to go up 
+on your taxes. They have passed and are passing appropriations bills, 
+other pieces of legislation that's going to cause this country to have 
+the largest tax increase in history.
+  So I want to thank him for bringing this up, and I want to thank the 
+gentleman from New Jersey for bringing this up because this is a 
+perfect example that we have to prioritize, and we all have different 
+ideas about prioritizing. We all have different ideas about who's 
+writing a budget, if it's a good investment or if it's wasteful 
+spending.
+  So, I support the gentleman's amendment because I don't think that 
+those children in Alaska, regardless if a Member of my party says it or 
+not, or the children of Hawaii need special exception and more money 
+than my kids, my special need kids in the Third District of Georgia.
+  So I thank the gentleman from Arizona for yielding, and I yield back.
+  Mr. SHADEGG. Mr. Chairman, I'm happy to conclude this by simply 
+noting that no Member who brings an amendment to an appropriations bill 
+is criticizing the ranking member or the chairman of that committee. 
+Indeed, I think it's a long-standing tradition and an honorable one in 
+this body that appropriations bills come to the floor under an open 
+rule so that we can have these discussions, and the votes reflect the 
+will of the Nation as they should.
+  So I want to make it clear that I don't believe that by the gentleman 
+from New Jersey or myself or any other Member of this body, any Member 
+on the majority side, offering an amendment, and there have been 
+amendments offered, in doing so that they are in any way criticizing 
+the good hard work. Indeed, I think we're honoring the tradition of the 
+Appropriations Committee in that these are, in fact, brought to floor 
+under an open rule, and we have full and open debate which I think is 
+what the American people want.
+  And I compliment the Chairman of the committee and I compliment the 
+ranking member of the committee for their hard work in doing their 
+jobs.
+  Mr. Chairman, I yield back my time.
+  The Acting CHAIRMAN. The question is on the amendment offered by the 
+gentleman from New Jersey (Mr. Garrett).
+  The question was taken; and the Acting Chairman announced that the 
+noes appeared to have it.
+  Mr. GARRETT of New Jersey. Mr. Chairman, I demand a recorded vote.
+  The Acting CHAIRMAN. Pursuant to clause 6 of rule XVIII, further 
+proceedings on the amendment offered by the gentleman from New Jersey 
+will be postponed.
+  Mr. LOEBSACK. Mr. Chairman, I move to strike the last word for the 
+purpose of engaging in a colloquy with the gentleman from Wisconsin.
+  The Acting CHAIRMAN. The gentleman from Iowa is recognized for 5 
+minutes.
+  Mr. LOEBSACK. Mr. Chairman, for decades during the Cold War, hundred 
+of thousands of Department of Energy employees, including thousands of 
+workers at the Iowa Army Ammunition Plant in my district, worked 
+diligently at our Nation's nuclear weapons facilities. These men and 
+women worked with radioactive and other hazardous materials, and some 
+ultimately sacrificed their health for the security of our Nation.
+  In response, Congress enacted the Energy Employees Occupational 
+Illness Compensation Program Act to provide compensation and medical 
+benefits to these former nuclear employees. The intent of this act was 
+to honor and care for Cold War veterans who became ill while working at 
+the Iowa Army Ammunition Plant and other DOE facilities.
+  However, due to mismanagement and delays, the compensation program 
+has only paid 11,829, or 23 percent, of the 51,188 claims that have 
+been filed nationwide. My constituents, and thousands of former DOE 
+employees like them, have been subjected to bureaucratic red tape and 
+unfair burdens of proof, delaying their compensation and even, in some 
+cases, preventing them from filing claims.
+  Congress made clear in enacting the compensation program that our 
+Nation's Cold War heroes should be justly compensated for the illnesses 
+they contracted while serving our country. Sadly, the Department of 
+Labor has failed to ensure that the claims are properly processed and 
+approved.
+  Mr. Chairman, I respectfully request your assistance in asking the 
+Department of Labor to report to Congress on the administration of the 
+Energy Employees Occupational Illness Compensation Program, and 
+specifically, I believe it is vital that the Secretary provide Congress 
+with information concerning, first, the length of time it takes to 
+process and evaluate a claim; second, the reasons behind the current 
+backlog in processing these claims; third, the staffing of the relevant 
+offices assigned to administer the program; fourth, the quality of 
+communication with claimants; fifth, the process through which claims 
+are approved or denied, as well as the oversight currently in place to 
+assure that claims are handled properly; and sixth, the possibility of 
+providing greater assistance through the Department of Labor to those 
+wishing to file claims, many of whom are elderly and in poor health.
+  Our Nation's former nuclear workers are truly among the unheralded 
+heroes of the Cold War. We owe them and their families better than 
+bureaucratic red tape, and I would greatly appreciate your assistance 
+in assuring that the Department of Labor remains committed to providing 
+these workers with the recognition, treatment and compensation they 
+deserve.
+  Mr. OBEY. Mr. Chairman, will the gentleman yield?
+
+[[Page H8024]]
+
+  Mr. LOEBSACK. I yield to the gentleman from Wisconsin.
+  Mr. OBEY. Mr. Chairman, I thank the gentleman for raising this 
+important issue. The purpose of the Energy Employee Occupational 
+Illness Compensation Program is to fairly compensate our Nation's 
+former nuclear workers for illnesses they contracted while serving our 
+country.
+  Former Department of Energy employees who are now elderly and ill 
+have been subjected to bureaucratic run-arounds by the agencies 
+responsible for adjudicating their claims. The Department of Labor is 
+responsible for administering compensation for these former nuclear 
+workers, and I concur with the gentleman from Iowa that a report from 
+the Secretary detailing the administration of the compensation program 
+would provide Congress with highly valuable insight into the agency's 
+implementation of the program.
+  Streamlining and expediting the method through which claims are 
+processed and compensation provided is in the best interests of the 
+families and claimants to whom our country owes its deepest gratitude 
+and respect.
+  I'd be happy to work with the gentleman to request this information 
+from the Department and to ensure that the true intent of the program 
+is being carried out with due diligence by the administration.
+
+                              {time}  1330
+
+  Mr. LOEBSACK. Reclaiming my time, I thank the chairman for his 
+willingness to address this important issue and look forward to working 
+with him.
+  Mr. Chairman, I yield to the gentleman from New Mexico.
+  Mr. UDALL of New Mexico. I rise to associate myself with the comments 
+of Chairman Obey and Mr. Loebsack of Iowa.
+  The American workers who fell ill during service to our country must 
+be justly compensated in a reasonable period of time. As you have said, 
+these men and women are American heroes. They really made a difference 
+for our country.
+  I have been an outspoken critic, both in the Appropriations 
+Subcommittee and in my district, of EEOICPA's lack of removing the 
+bureaucratic hurdles faced by claimants. I thank my two colleagues and 
+join them in requesting the Department of Labor to provide this 
+information.
+  Mr. LOEBSACK. Reclaiming my time, I thank the gentleman and look 
+forward to working with him on this issue.
+  Mr. Chairman, I yield back the balance of my time.
+  The Acting CHAIRMAN. The Clerk will read.
+  The Clerk read as follows:
+
+                            Indian Education
+
+       For expenses necessary to carry out, to the extent not 
+     otherwise provided, part A of title VII of the Elementary and 
+     Secondary Education Act of 1965 (20 U.S.C. 7401 et seq.), 
+     $124,000,000.
+
+                       Innovation and Improvement
+
+       For carrying out activities authorized by section 1504 (20 
+     U.S.C. 6494), part G of title I (20 U.S.C. 6531 et seq.), 
+     subpart 5 of part A of title II (20 U.S.C. 6651) and part C 
+     and part D of title II (20 U.S.C. 6671 et seq., 20 U.S.C. 
+     6751 et seq.), and part B (including subpart 2), part C, and 
+     part D of title V (20 U.S.C. 7221 et seq., 20 U.S.C. 7231 et 
+     seq., and 20 U.S.C. 7241) of the Elementary and Secondary 
+     Education Act of 1965 (``ESEA''), $992,354,000: Provided, 
+     That $10,695,000 shall be provided to the National Board for 
+     Professional Teaching Standards to carry out section 2151(c) 
+     of ESEA (20 U.S.C. 6651(c)): Provided further, That from 
+     funds for subpart 4 of part C of title II (20 U.S.C. 6721 et 
+     seq.), up to 3 percent shall be available to the Secretary 
+     for technical assistance and dissemination of information: 
+     Provided further, That $258,988,000 shall be available to 
+     carry out part D of title V of ESEA (20 U.S.C. 7241 et seq.), 
+     of which $99,000,000 of the funds for subpart 1 shall be for 
+     competitive grants to local educational agencies, including 
+     charter schools that are local educational agencies, or 
+     States, or partnerships of (1) a local educational agency, a 
+     State, or both and (2) at least one non-profit organization 
+     to develop and implement performance-based teacher and 
+     principal compensation systems in high-need schools: Provided 
+     further, That such performance-based compensation systems 
+     must consider gains in student academic achievement as well 
+     as classroom evaluations conducted multiple times during each 
+     school year among other factors and provide educators with 
+     incentives to take on additional responsibilities and 
+     leadership roles: Provided further, That up to 5 percent of 
+     such funds for competitive grants shall be available for 
+     technical assistance, training, peer review of applications, 
+     program outreach, and evaluation activities.
+
+
+                     Amendment Offered by Ms. Foxx
+
+  Ms. FOXX. Mr. Chairman, I offer an amendment.
+  The Clerk read as follows:
+
+       Amendment offered by Ms. Foxx:
+       Page 82, line 6, after the first dollar amount, insert 
+     ``(reduced by $10,000,000)''.
+       Page 82, line 13, after the dollar amount, insert 
+     ``(reduced by $10,000,000)''.
+       Page 84, line 24, after the dollar amount, insert 
+     ``(increased by $10,000,000)''.
+       Page 84, line 25, after the dollar amount, insert 
+     ``(increased by $10,000,000)''.
+
+  Mr. OBEY. Mr. Chairman, I reserve a point of order.
+  The Acting CHAIRMAN. A point of order is reserved.
+  Ms. FOXX. Mr. Chairman, my amendment would reduce funding for the 
+Fund for the Improvement of Education by $10 million, while increasing 
+IDEA State grants by $10 million.
+  Transferring these funds will ensure that Congress does not create a 
+new unauthorized $10 million grant program for ``full-service community 
+schools'' with the Fund for the Improvement of Education, a program 
+which was specifically mentioned in the committee report. We should not 
+be using appropriations bills to authorize programs.
+  It appears that language in the committee report for this program has 
+been taken from legislation introduced by the House majority leader, as 
+well as in the Senate by Senator Nelson. Their bill would create a $200 
+million full-service community school grant program.
+  What exactly is a full-service community school? According to the 
+underlying funding bill, it's a ``public elementary or secondary school 
+that coordinates with community-based organizations and public-private 
+partnerships to provide students, their families and the community 
+access to comprehensive services.''
+  The language specifies that the grants must be used to provide not 
+fewer than three services selected from a variety of selective 
+services, including community service, service learning opportunities, 
+nutrition services, job training and career counseling, primary health 
+and dental care, mental health counseling services adult language, 
+including instruction in English as a Second Language.
+  I am concerned we are moving schools away from focusing on the 
+basics, academics. Our schools still have room for much improvement in 
+ensuring all students are proficient in the basics of math, reading, 
+writing, science and history. So why is the Federal Government sending 
+money to turn schools into social, medical, educational job training 
+hubs?
+  I am also concerned about the unsettling prospect of having adult, 
+nonfamily members of the community regularly visiting school grounds 
+for job training and medical and mental health services when young 
+children and teenagers are present. Combining schools with health care 
+and other social services for community residents poses a danger to 
+students that would need to be addressed in any future legislation.
+  Since 1965, Congress has increased the role of the Federal Government 
+in public primary and secondary education, as well as in higher 
+education. If history has taught us anything about education, it's that 
+the proliferation of Federal programs and regulations has not improved 
+education. In a time where the Federal Government continues to spend 
+more and more and expand its reach with very limited results, I 
+question the need for us to meddle in affairs such as this.
+  With this in mind, my amendment would transfer $10 million from the 
+Fund for the Improvement of Education to IDEA grants. These grants help 
+States and localities pay for the rising cost of special education for 
+6.9 million children with disabilities.
+  While my amendment adds only a small amount to these State grants, 
+any amounts are helpful in fully funding Congress' commitment to fund 
+40 percent of the average per-pupil excess cost of educating students 
+with disabilities.
+  IDEA part B grants to States is funded at only $11.29 billion, which 
+is $7 billion or 41 percent below the 2007 authorized level of $19.2 
+billion. I urge my colleagues to vote for this amendment to ensure that 
+any full-service community school legislation goes forward through the 
+proper authorizing process, not through the appropriations
+
+[[Page H8025]]
+
+process, and we put money where it's desperately needed, as we all know 
+from hearing from the schools in our districts.
+  Mr. Chairman, I yield back the balance of my time.
+  Mr. OBEY. In reserving my point of order, I would like to ask a 
+question of the gentlewoman. Does she have a score from the CBO?
+  Ms. FOXX. I do. We would actually save $1 million with this 
+amendment.
+  Mr. OBEY. So the CBO indicates that the amendment is outlay neutral?
+  Ms. FOXX. Yes.
+  Mr. OBEY. If that is the case, then I withdraw my reservation.
+  The Acting CHAIRMAN. The reservation of a point of order is 
+withdrawn.
+  Mr. OBEY. Mr. Chairman, I move to strike the last word.
+  The Acting CHAIRMAN. The gentleman from Wisconsin is recognized for 5 
+minutes.
+  Mr. OBEY. There are two problems I have with this amendment. First of 
+all, it seeks to cut $10 million from an item in the bill which is 
+meant to establish full-service community schools. These are supposed 
+to be schools which test the concept of making schools neighborhood 
+centers which include early childhood education, remedial education, 
+academic enrichment activities, programs that promote parental 
+involvement and family literacy, mentoring and other youth development 
+programs. It's meant to be a much more holistic educational experience 
+than is usually found in an individual school. We believe that that 
+deserves an opportunity to be tested.
+  Secondly, I would simply say that, lest this amendment be portrayed 
+as an amendment that does anything significant for special education, I 
+want to point out that this is an especially marginal amendment. The 
+damage it does to the neighborhood school concept that we are trying to 
+explore in the bill is far larger than the negligible impact that it 
+has on the special education program.
+  What I mean by that is this: Special education is an $11 billion 
+program. This amendment adds $10 million to it. It is another one of 
+those symbolic amendments which I think ought to be placed in context.
+  The committee has already increased this account by $500 million. It 
+is $800 million above the President, and it seems to me that, by 
+comparison, the amendment is demonstrably but a blip on the radar 
+screen in comparison to the funds that we have already put in this 
+bill.
+  Now, I know that many of these amendments can be offered, and they 
+can be converted into nice, sweetly packaged 30-second TV spots which 
+tend to leave the impression that a Member has done something 
+significant. Unfortunately, this amendment doesn't fit into that 
+category of being significant, and it may make a very good television 
+spot, but I doubt it's going to be very meaningful in the scheme of 
+things.
+  I would ask for a ``no'' vote.
+  Mr. Chairman, I yield back the balance of my time.
+  Mr. WALSH of New York. Mr. Chairman, I move to strike the last word.
+  The Acting CHAIRMAN. The gentleman is recognized for 5 minutes.
+  Mr. WALSH of New York. Mr. Chairman, I would like to speak in support 
+of this amendment. I hadn't intended to, but I think it's a good 
+amendment, partially because it provides additional funds to IDEA.
+  In committee, we amended the bill to add $335,000,000 more to IDEA. 
+This is a small one, but it's helpful. More importantly, this concept 
+of community schools is a wonderful concept. But that's what we have 
+committees for, committees of jurisdiction, to vet these ideas.
+  In my hometown of Syracuse, there's lots of talk about community 
+schools. Remembering that primary and secondary education is a 
+responsibility of the municipality, the county and the State and not of 
+the Federal Government is an important thing to consider. A community 
+school in Syracuse is very different than a community school in 
+Maryland or California or Arizona.
+  But more importantly than all of that is that our schools, especially 
+our inner-city schools, are having a very difficult job graduating the 
+kids now. In fact, many of our urban schools aren't even graduating 50 
+percent of the kids who start in ninth grade. That's a fact. No one is 
+comfortable with that fact, but it is a fact.
+  So why would you provide or require or suggest to a school that is 
+already only attaining 50 percent of its responsibility with its 
+primary task, why would you give them additional work? Why would you 
+give them additional responsibilities? Maybe there's good reason for 
+that, but there is certainly a committee structure. The education 
+committee has plenty of experts and staff to try to determine the best 
+way to approach this.
+  I admire the author of the concept's ingenuity, but this really needs 
+to go through committee to have proper authorization. Absent that, I 
+think this is a good idea. Ten million dollars will go into a program 
+that everyone knows needs more money, that we are putting additional 
+burdens on those local school districts by not providing this money. It 
+would provide some relief to them to meet their primary task of 
+educating our kids. So I think this is a very good amendment. I 
+strongly support it.
+  Mr. Chairman, I yield at this time to the author of this amendment 
+such time as she may consume.
+  Ms. FOXX. I appreciate the ranking member for yielding time to me.
+  I want to say that I am very troubled by the fact that the terms that 
+are being used here that we want to test, creating holistic educational 
+experiences, that's one of the problems, again, with the Federal 
+Government being involved in the education process. It is not up to us 
+to be doing that. The testing needs to be done at the local level.
+  There are programs. North Carolina has a tremendous number of 
+programs where it's working through community centers, sometimes at 
+schools, most of the time not, where they are trying to do these kinds 
+of things. We don't need to be funding this at the Federal level. If 
+the States want to do it, they ought to be doing it.
+  I think that calling this a symbolic amendment is a denigration it 
+doesn't deserve. This is a serious amendment. We are violating our 
+processes. We are violating what we say we are going to do here. 
+Appropriations bills should not be authorizing bills. We separate that 
+process.
+  I have not been here very long, and I know I don't know all the rules 
+and the way things are done, but I noticed that the chairman reserved a 
+point of order, but they were able to the waive points of orders in 
+order to authorize. So when the majority wants to break the rules, it 
+easily breaks the rules to try to accomplish what it wants to 
+accomplish when it can't accomplish it the other way. So I am very 
+concerned about it. I think this is a very valid amendment done very 
+seriously.
+  I haven't sat over here for a couple of hours and haven't worked on 
+this for many hours to think that it is frivolous or simply symbolic. 
+It's an important thing. And I don't appreciate the amendment being 
+denigrated in the way it has been denigrated by the chairman of the 
+committee.
+  Mr. WALSH of New York. Mr. Chairman, I yield back the balance of my 
+time.
+  Mr. HOYER. Mr. Chairman, I rise in opposition to the amendment.
+  The Acting CHAIRMAN. The gentleman from Maryland is recognized for 5 
+minutes.
+  Mr. HOYER. Mr. Chairman, this concept of community schools Mr. Walsh 
+correctly refers to is a concept that is present in many States, many 
+communities.
+
+                              {time}  1345
+
+  My wife Judy was the supervisor of early childhood education in 
+Prince Georges County, Maryland, just down the road. She started a 
+concept in our county of full service schools, community schools. There 
+are now 24 Judy Centers in the State of Maryland. Maryland has paid for 
+them, started them.
+  The problem with a full service community school, as Judy found out 
+and as all of us know, is the turf battles. The turf battles are 
+ferocious. Some people have made fun of the fact that it takes a 
+village to raise a child. Now, obviously, hopefully every child has a 
+good parent. But we have many services available to make sure that our 
+young people, when they get to the ninth grade, are ready to succeed in 
+the ninth and 10th and 11th and 12th
+
+[[Page H8026]]
+
+grades. But those services in many communities are discordant and not 
+coordinated. So the concept of a full service or a community school is 
+to bring together services, not in a forced way, but in a cooperative 
+way.
+  Now, the gentlelady refers to the authorization on the appropriation 
+bill. I know that the ranking member is shocked by that ever happening. 
+I remember, perhaps before the gentlelady got here, when Bill Frist 
+added 40 pages in the dead of night of authorizing language to an 
+appropriation bill just a few years ago to preclude insurance company 
+liability.
+  The fact of the matter is this $10 million in NIE is to encourage, 
+facilitate cooperation, not to mandate spending more money; but to 
+encourage educators, social services, child care providers, other 
+services, as they have in the State of New York. I have visited some of 
+them in the city.
+  So I would hope that we would not take this $10 million and add it to 
+an $11 billion program. A critically important program, the gentlelady 
+is absolutely correct, but it is a program that is funded $800 million 
+more than President Bush asked for by this bill. And in order to add 
+that $10 million to an $11 billion program, you will undermine the 
+effort to see if we can create cooperation, in effect magnifying the 
+role of each as they cooperate with one another. That is the concept, 
+and it is a concept that works.
+  Superintendent Grasmick in my State has talked about this concept all 
+over this country. I have talked about it to Secretary Spelling; I have 
+talked about it to their predecessors. In fact, we did pass a bill 
+through the House that didn't make it through conference which Lynn 
+Woolsey had sponsored which had this concept. It is a concept that the 
+Education and Labor Committee is now considering. They may go much 
+broader than this.
+  But this is what NIE is all about. It is trying to facilitate better 
+ways to deliver education to our children. And I remind the gentleman 
+from New York, who is my friend and I am pleased to see him as the 
+ranking member, but we do participate significantly in the education of 
+children in this country, particularly children at risk. That is what 
+this attempts to do as well, to magnify the services available, 
+coordinate them, bring them together so they are accessible by people 
+who can't get in their car at $3.15, and drive from this place to the 
+other place to the other place to get services for their children.
+  So I would hope, ladies and gentlemen of this House, that we would 
+reject this amendment. I thank the chairman for including this 
+provision in the bill, and I would hope that the amendment would be 
+rejected.
+  Mr. FERGUSON. Mr. Chairman, I move to strike the last word.
+  The Acting CHAIRMAN. The gentleman from New Jersey is recognized for 
+5 minutes.
+  Mr. FERGUSON. I yield to the gentlelady from North Carolina.
+  Ms. FOXX. I thank my colleague for yielding to me. And I want to say 
+again that I am sorry that my colleague from Maryland is not aware of 
+this really excellent program that exists in North Carolina called 
+Smart Start, which did this back in 1995, where we pulled together 
+these different agencies to work together on this very good concept. 
+But it is being done in States without Federal dollars, and I would 
+urge the people in Maryland to look at that concept and deal with it.
+  I want to say that I am very concerned again, not by your comments 
+but by the comments of the chairman, about the denigration of the 
+allocation of $10 million as negligible. That is the attitude of people 
+from Washington that adding $10 million is negligible. That is hard for 
+people who are paying their taxes every day to understand that. I am 
+sure that the teachers and parents of special needs students who are 
+getting just a small percentage of money already authorized by this 
+Federal Government to do what we are demanding that they do, they are 
+not getting all their money.
+  Now, I commend the majority party for increasing the spending in this 
+area, but it is the biggest complaint that I get when I talk to people 
+about what is happening in education and the Federal role. So I think 
+we need to put every dime we can possibly find into authorized programs 
+already that are not spending what they should be spending. And I would 
+say, I find it hard to look in the eyes of the parent of a special 
+needs child or the teacher of a special needs child and say: We had an 
+opportunity to give you 10 million more dollars and it was turned down; 
+because they are there, and they need it.
+  Mr. FERGUSON. Reclaiming my time, I would be happy to yield to the 
+majority leader.
+  Mr. HOYER. I would simply say to the gentlelady, it so happens I have 
+known two of your Governors pretty well, once as a young person, Terry 
+Sanford, and as a contemporary of Jim Hunt, who was a good friend of 
+mine for the last 45 years.
+  You mentioned the programs that you have in North Carolina. Bobby 
+Etheridge, of course one of the former superintendents of your State's 
+system, your State has been an innovative, progressive leader in 
+education and Jim Hunt has been one of the educational leaders in our 
+country. I have no doubt, because I have worked with him over the last 
+20 years that I have been in Congress on various programs while he was 
+Governor and since then, that, yes, you have moved ahead in North 
+Carolina, but you have also done it in partnership with many Federal 
+programs. I know that because I have worked with your Governor on that. 
+I simply wanted to make that point. Again, this is a partnership. And I 
+thank my friend for yielding.
+  Mr. FERGUSON. Mr. Chairman, I yield back the balance of my time.
+  Ms. ESHOO. Mr. Chairman, I move to strike the last word.
+  The CHAIRMAN. The gentlewoman from California is recognized for 5 
+minutes.
+  Ms. ESHOO. Mr. Chairman, I would like to engage the distinguished 
+chairman, Mr. Obey, in a colloquy regarding strengthening of the 
+Children's Graduate Medical Education Program, as well as enhancing 
+Federal support for health information technology.
+
+
+                         parliamentary inquiry
+
+  Mr. WALSH of New York. Mr. Chairman, I would like to state a 
+parliamentary inquiry.
+  The Acting CHAIRMAN. Does the gentlewoman yield for that purpose?
+  Ms. ESHOO. I do.
+  Mr. WALSH of New York. The question is, have we disposed of the 
+pending amendment before the Committee?
+  The Acting CHAIRMAN. We have not.
+  Mr. WALSH. Is this statement by the gentlelady from California in 
+regards to this amendment?
+  The Acting CHAIRMAN. Apparently not.
+  Mr. WALSH of New York. I would respectfully request that we return to 
+the amendment before we continue the conversation.
+  The Acting CHAIRMAN. The gentlewoman has begun.
+  Ms. ESHOO. I am sorry, I didn't hear.
+  The Acting CHAIRMAN. The gentleman is correct. However, the 
+gentlewoman has begun her statement. At the conclusion of her remarks, 
+the Chair will put the question on the amendment.
+  Ms. ESHOO. I will be as brief as possible so that we can get back to 
+what was being debated.
+  I want to thank Mr. Obey for including $307 million for the 
+Children's Graduate Medical Education Program. While this amount is 
+less than the $330 million authorized by Congress last year, it is 
+obviously a good improvement over the levels proposed by the President, 
+which is $110 million, and the Senate Appropriations Committee, which 
+is $200 million.
+  The reason I wanted to have the colloquy is to go on record, urge the 
+chairman to do everything he can to not only maintain the House's 
+funding level when the bill goes to conference, and perhaps even be 
+able to do more.
+  I think that we all have a healthy understanding of what the 
+Children's Hospitals GME represents. It has been an outstanding 
+success. It is important to note that Children's Hospitals receive 80 
+percent of what other teaching hospitals receive on average from 
+Medicare's Graduate Medical Education Program.
+  In recent years, Children's Hospitals have been able to sustain and 
+improve their training programs so that the shortages of pediatric 
+specialists in our country can be addressed. The program has also 
+indirectly strengthened Children's Hospitals as premier pediatric
+
+[[Page H8027]]
+
+centers of excellence. They are the safety net for low-income children 
+in their communities and they are the centers of pediatric research as 
+well.
+  So I want to thank the chairman for everything he has done to fully 
+fund the program this year, and I would be happy to yield to him.
+  Mr. OBEY. Let me simply say I agree with the gentlelady from 
+California. The Children's GME is integral to ensuring a stable future 
+for our children's hospitals and is a sound investment in children's 
+health. I certainly will do everything I can to ensure that sufficient 
+funding levels for Children's Hospitals GME are retained in conference.
+  Ms. ESHOO. I thank the chairman. I also want to raise the issue about 
+my strong support for increased funding for Health Information 
+Technology, often referred to as Health IT.
+  The adoption, I believe, of electronic health record systems I think 
+will have a profound effect on the health care delivery in our country. 
+I believe it will enhance patient safety, reduce medical errors, and 
+improve the quality of care.
+  For several years, the administration and the Congress have not 
+committed enough funds to make this promise a reality in our country. I 
+recognize the continued commitment to HIT that is in this year's Labor-
+HHS bill, $61 million, and I think we need to make a greater investment 
+to make this a reality because it not only needs to be launched 
+effectively, because we have to have interoperability, and without it 
+we really won't have a Health IT system.
+  So I want to thank the committee, most especially the chairman, for 
+weeding through what is really a difficult bill to put together because 
+we are constrained moneywise. But if there is any opportunity at 
+conference, I want to urge optimizing that possibility.
+  Mr. OBEY. Mr. Chairman, I simply want to thank my colleague from 
+California for bringing this important matter to the attention of the 
+House. The gentlelady is a strong advocate for the establishment of a 
+robust and interoperable health information technology network, and I 
+want to work with her. I will be pleased to consider this funding need 
+should additional funds become available in conference.
+  Ms. ESHOO. I thank the gentleman from Wisconsin.
+  Mr. Chairman, I yield back the balance of my time.
+  The Acting CHAIRMAN. The question is on the amendment offered by the 
+gentlewoman from North Carolina (Ms. Foxx).
+  The question was taken; and the Acting Chairman announced that the 
+noes appeared to have it.
+  Ms. FOXX. Mr. Chairman, I demand a recorded vote.
+  The Acting CHAIRMAN. Pursuant to clause 6 of rule XVIII, further 
+proceedings on the amendment offered by the gentlewoman from North 
+Carolina will be postponed.
+  The Clerk will read.
+
+                              {time}  1400
+
+
+                Amendment No. 49 Offered by Mr. Shadegg
+
+  Mr. SHADEGG. Mr. Chairman, I have a point of order.
+  The Acting CHAIRMAN. The gentleman will state his point of order.
+  Mr. SHADEGG. I was standing and I have an amendment that goes to page 
+82.
+  The Acting CHAIRMAN. Does the gentleman have the amendment at the 
+desk?
+  Mr. SHADEGG. Yes, I do.
+  The Acting CHAIRMAN. The gentleman was on his feet when the Clerk was 
+reading.
+  The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment No. 49 offered by Mr. Shadegg:
+       Page 82, line 6 after the first dollar amount, insert 
+     ``(reduced by $10,695,000)''.
+
+  Mr. OBEY. Mr. Chairman, I reserve a point of order on the amendment.
+  The Acting CHAIRMAN. The gentleman reserves a point of order.
+  Mr. OBEY. Mr. Chairman, I ask unanimous consent that the amendment be 
+read, not designated.
+  The Acting CHAIRMAN. Without objection, the Clerk will report the 
+amendment.
+  There was no objection.
+  Mr. SHADEGG. Mr. Chairman, I hope that this is a simple and 
+straightforward amendment. It is premised on the notion, not that the 
+program doesn't work, but rather, that when the task is finished, the 
+funding should stop.
+  This program, the Advanced Credentialing Program, was established by 
+the Congress to develop teacher standards and to have those standards 
+developed by the National Board for Professional Teaching Standards or 
+other nationally certification or credentialing organizations. That 
+task has, in fact, been accomplished.
+  The National Board for Professional Teaching Standards, a private 
+body, has received more than $180 million from the Department of 
+Education since 1991. These Federal funds supported the development and 
+implementation of the certification standards and assessments in 24 
+different academic fields. That task has now been completed.
+  In addition, since the legislation called for such standards to be 
+established by other nationally recognized certification or 
+credentialing organizations, the Department awarded $32.8 million in a 
+5-year grant to the American Board for the Certification of Teacher 
+Excellence. That board will receive the final year of its funding in 
+Fiscal Year 2007.
+  By Fiscal Year 2008, the American Board for the Certification of 
+Teacher Excellence will have successfully completed the development and 
+implementation of its teacher credential system. As a result, State and 
+local teaching organizations, educational agencies, will have not one 
+but two different sets of standards to pick from, one developed by the 
+National Board for Professional Teaching Standards and one developed by 
+the American Board for the Certification of Teacher Excellence. I 
+believe when the task has been completed, it is important that we stop 
+the funding.
+  I want to make clear that the purpose of this amendment is not to 
+eliminate funding for States to encourage teachers to receive advanced 
+degrees or to assist them in that endeavor.
+  My wife is a teacher. She has a master's degree. She received her 
+advanced credentialing in order to improve her education and her 
+ability to serve as a teacher, but the task has now been accomplished.
+  The Department, as well, supports giving States and districts more 
+tools to help them identify and retain effective teachers. Indeed, the 
+2008 budget requests $2.8 billion for the improving teacher quality 
+State grants program and an additional $199 million for the teacher 
+incentive program. These programs combined provide flexible sources for 
+State and local education agencies to use to improve their teacher 
+recruitment and retention systems according to their own needs.
+  The goal of this amendment is to simply acknowledge that the creation 
+of the standards has been accomplished and accomplished by two 
+different entities, the National Board for Professional Teaching 
+Standards (NBPTS) and the American Board for the Certification of 
+Teacher Excellence.
+  In addition, I would note for anyone concerned about this that the 
+effects of the NBPTS credential system on student achievement have been 
+somewhat mixed. There are studies that show it has been somewhat 
+helpful. However, the studies have found the positive effects are very 
+small and that they are neither large enough nor consistent enough to 
+justify further Federal funding beyond that which is provided in the 
+existing $2.8 billion for improving teacher quality State grants, and 
+the $199 million that I already referred to in teacher incentive fund 
+training.
+  I do wish, at this point, that I had reallocated the $10.7 million 
+that would be saved by this amendment to Individuals with Disabilities 
+Education Act (IDEA). Having listened to the discussion of the last 
+bill, I note that IDEA is underfunded. It has all been underfunded, and 
+I wish that I had cast this amendment in that fashion. I did not do so 
+but I, nonetheless, would encourage its adoption and would encourage, 
+perhaps, those at conference to take that $10.7 million and to add it 
+to IDEA funding.
+  Mr. Chairman, I yield back the balance of my time.
+  Mr. OBEY. Mr. Chairman, I move to strike the last word.
+  The Acting CHAIRMAN. Does the gentleman continue to reserve his point 
+of order?
+
+[[Page H8028]]
+
+  Mr. OBEY. I withdraw my point of order.
+  The Acting CHAIRMAN. The gentleman from Wisconsin is recognized for 5 
+minutes.
+  Mr. OBEY. Mr. Chairman, I can't believe my ears. I just thought I 
+heard the gentleman say that IDEA was underfunded. I'm shocked. I've 
+never heard the gentleman say that anything was underfunded before.
+  Mr. SHADEGG. Will the gentleman yield?
+  I certainly believe IDEA is underfunded. I know in my school 
+districts in my schools there is a crying need.
+  Mr. OBEY. Let me take back my time because I only have 5 minutes. But 
+I agree with the gentleman. Many programs are underfunded in this bill.
+  Let me simply say, Mr. Chairman, that I would certainly support the 
+gentleman's amendment if I thought that we had all of the excellent 
+teachers in the country that we need, but the fact is we don't.
+  This is not a program that should be cut back or eliminated. This is 
+a program that works. This is a program which helps teach trainers to 
+go through rigorous certification processes. They are star teachers. 
+They go back to their school districts, they become lead teachers in 
+their schools, and I hardly think that that is damaging the national 
+interest.
+  And I must also confess a certain amount of confusion, because just 
+about an hour ago we were told by a series of Members that we should 
+support the teacher incentive program because we needed to incentivize 
+teachers to increase their skills. And now we have a program that does 
+just that and identifies teachers based on merit, and we're told we 
+ought to cut back the program.
+  Let me simply say that if you take a look at the way this program has 
+been evaluated, the National Boards for Professional Teaching Standards 
+tells us that this program raises student achievement. It inspires 
+deeper learning. It improves teacher practice. It creates 
+transformative professional development, and it helps these schools to 
+retain teachers.
+  Let me say that there is a tiny increase in this program. That 
+increase is aimed at helping teachers from low-income schools get 
+master teacher certification.
+  We've been told for years that the toughest thing to do in education 
+is to get your best teachers to go into your poorest schools or the 
+schools in your poorest neighborhoods. This is a program that's 
+effective in doing that. We ought not to throw the baby out with the 
+bath water.
+  I would urge opposition to the amendment.
+  Mr. Chairman, I yield back the balance of my time.
+  The Acting CHAIRMAN. The question is on the amendment offered by the 
+gentleman from Arizona (Mr. Shadegg).
+  The question was taken; and the Acting Chairman announced that the 
+noes appeared to have it.
+  Mr. SHADEGG. Mr. Chairman, I demand a recorded vote.
+  The Acting CHAIRMAN. Pursuant to clause 6 of rule XVIII, further 
+proceedings on the amendment offered by the gentleman from Arizona will 
+be postponed.
+
+
+              Amendment No. 50 Offered by Mr. Westmoreland
+
+  Mr. WESTMORELAND. Mr. Chairman, I offer an amendment.
+  The Acting CHAIRMAN. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment No. 50 offered by Mr. Westmoreland:
+       Page 82, line 6 after the first dollar amount, insert 
+     ``(reduced by $23,533,000)''.
+
+  Mr. OBEY. Mr. Chairman, I reserve a point of order, and I would ask 
+unanimous consent that the Clerk read the amendment.
+  The Acting CHAIRMAN. A point of order is reserved.
+  Without objection, the Clerk will report the amendment.
+  There was no objection.
+  Mr. OBEY. Mr. Chairman, I withdraw my point of order.
+  The Acting CHAIRMAN. The point of order is withdrawn.
+  Mr. WESTMORELAND. Mr. Chairman, this is a simple amendment. We've 
+listened to the other side talk about, I guess, some of us maybe being 
+disingenuous or doing different things with this amendment. And the 
+gentleman from Ohio talked about a fringe group over here, and I'm 
+happy to be part of that fringe group. The Republican Study Committee I 
+guess is who he was talking about in that we're trying to look after 
+the taxpayers' money.
+  For the past 12 years, I would have to admit, although I've only been 
+here three of those years, that we spent too much money. We expanded 
+government too much, and we didn't do what we should have been doing. 
+But it's good, because I think a lot of people woke up after the last 
+election and realized that we had lost our brand of being fiscal 
+conservatives, being responsible with the taxpayers' money, because 
+it's not our money, it's their money, they work hard for it every day, 
+and that we need to be more responsible with it.
+  And I think that the President got that message. And in this budget, 
+he cut the funding for the writing instruction. It's $23.5 million, or 
+a very, very small percentage of the $152 billion budget that the 
+majority party is offering for this appropriations bill, which is $11 
+billion more than the President offered. And, you know, it doesn't hurt 
+to zero a program out if it's not working or not doing its job, or if 
+the money can better be spent somewhere else in a different program, 
+something that has more advantages for more people.
+  Under titles II, III and IV of the Elementary and Secondary Education 
+Act, the Federal Government provides extensive support to States and 
+operates numerous programs designed to enhance teacher recruiting and 
+training.
+  While many of these programs provide important services, States would 
+be well served to receive this funding in the form of a block grant 
+with increased flexibility to use these funds on the programs most 
+needed in that State.
+  Mr. Chairman, I know from talking to my local school board 
+superintendents and school board members that they certainly agree with 
+that. No Child Left Behind, while working in a lot of situations, has 
+cost them more money, really, to implement those programs than they 
+receive in Federal dollars because a lot of that money is, has to be 
+spent in a certain area.
+  This would be an opportunity that we could take this very, very small 
+amount out. The President recommended a zero. It was funded at $21.7 
+million last year, so there's been a 10 percent increase this year, and 
+just zero the program out.
+  And so it's a pretty simple amendment. It puts back the writing 
+instruction program back to zero, where the President put it, and I 
+hope that my colleagues will finally decide, let's vote for one thing 
+that actually cuts something.
+  I know one appropriations bill, Mr. Chairman, we were talking about, 
+and I believe the chairman of the committee said they had cut 250 
+programs. And I asked for a list of those programs. Haven't received it 
+yet. So, hopefully this will encourage him to support this amendment, 
+because it is zeroing out a program, and also get me the list of the 
+other 250 programs that this Congress has cut so far this year.
+  Mr. Chairman, I yield back the balance of my time.
+  Mr. OBEY. Mr. Chairman, I rise to oppose the amendment.
+  The Acting CHAIRMAN. The gentleman from Wisconsin is recognized for 5 
+minutes.
+  Mr. OBEY. Mr. Chairman, let me assure the gentleman that his party 
+did not lose the last election because they did too much for education. 
+Rather, they lost the last election, in my view, because the public so 
+clearly understood that their party preferred to put spending $57 
+billion in tax cuts for people who make over $1 million to providing 
+decent funding for education.
+
+                              {time}  1415
+
+  And the public understood that the other party preferred to spend 
+$600 billion in Iraq rather than spending a small portion of that at 
+home for science and health care and the like to meet some of the needs 
+of our own people. That is why the gentleman's party lost the last 
+election, not because they did too much for education but because they 
+were out of touch.
+  Having said that, let me simply say that this amendment eliminates 
+funding for the National Writing Project. I would simply point out that 
+this program supports teacher training programs so that teachers can 
+help students write effectively and school districts match those funds 
+dollar for dollar.
+
+[[Page H8029]]
+
+  I must say all of us have large turnover of our staff here on Capitol 
+Hill. The number one problem that I have in my office and the number 
+one problem I have heard so many other Members comment on is that when 
+young people come in and interview for jobs, they don't know how to 
+write.
+  When both of my sons went away to college, at least my oldest son 
+asked me, ``Dad, what do you think is the most important thing to 
+learn?''
+  And I said, I think the most important thing to learn is how to write 
+because if you can write clearly, it means you are thinking clearly, 
+and if you are thinking clearly, it means you can communicate. And I 
+would say that I don't think that this country is over blessed with a 
+number of great writers. I also must say if you listen to some of the 
+congressional speeches written by our staffs, you would certainly agree 
+that we need more help in writing in this country.
+  So let me simply say that I understand that we are engaged in a 
+little filibuster by amendment. But nonetheless, I wanted to take this 
+time to simply urge Members to vote against this amendment. If you 
+believe in raising the quality of discourse in this country, you have 
+to start with writing, and that is what this program tries to do.
+  I would urge a ``no'' vote on the amendment.
+  Mr. Chairman, I yield back the balance of my time.
+  The Acting CHAIRMAN. The question is on the amendment offered by the 
+gentleman from Georgia (Mr. Westmoreland).
+  The question was taken; and the Acting Chairman announced that the 
+noes appeared to have it.
+  Mr. WESTMORELAND. Mr. Chairman, I demand a recorded vote.
+  The Acting CHAIRMAN. Pursuant to clause 6 of rule XVIII, further 
+proceedings on the amendment offered by the gentleman from Georgia will 
+be postponed.
+  The Clerk will read.
+  The Clerk read as follows:
+
+                 Safe Schools and Citizenship Education
+
+       For carrying out activities authorized by subpart 3 of part 
+     C of title II (20 U.S.C. 6711 et seq.), part A of title IV 
+     (20 U.S.C. 7101 et seq.), subpart 2 of part D of title V (20 
+     U.S.C. 7245), subpart 3 of part D of title V (20 U.S.C. 
+     7247), and subpart 10 of part D of title V (20 U.S.C. 7261 et 
+     seq.) of the Elementary and Secondary Education Act of 1965 
+     (``ESEA''), $714,075,000, of which $300,000,000 shall become 
+     available on July 1, 2008, and remain available through 
+     September 30, 2009: Provided, That $300,000,000 shall be 
+     available for subpart 1 of part A of title IV of ESEA (20 
+     U.S.C. 7111 et seq.) and $222,335,000 shall be available for 
+     subpart 2 of part A of title IV of ESEA (20 U.S.C. 7131 et 
+     seq.), of which $5,000,000, to remain available until 
+     expended, shall be for the Project School Emergency Response 
+     to Violence program to provide education-related services to 
+     local educational agencies, and institutions of higher 
+     education, in which the learning environment has been 
+     disrupted due to a violent or traumatic crisis: Provided 
+     further, That $158,422,000 shall be available to carry out 
+     part D of title V of ESEA (20 U.S.C. 7241 et seq.): Provided 
+     further, That of the funds available to carry out subpart 3 
+     of part C of title II of ESEA (20 U.S.C. 6711 et seq.), up to 
+     $12,072,000 may be used to carry out section 2345 (20 U.S.C. 
+     6715) and $3,025,000 shall be used by the Center for Civic 
+     Education to implement a comprehensive program to improve 
+     public knowledge, understanding, and support of the Congress 
+     and the State legislatures.
+
+
+             Amendment No. 52 Offered by Mr. Brady of Texas
+
+  Mr. BRADY of Texas. Mr. Chairman, I offer an amendment.
+  The Acting CHAIRMAN. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment No. 52 offered by Mr. Brady of Texas:
+       Page 83, lines 14 and 15, after each dollar amount, insert 
+     ``(reduced $72,674,000)''.
+
+  Mr. BRADY of Texas. Mr. Chairman, the Carol White Physical Education 
+Program was named after a longstanding and dedicated public servant 
+here on Capitol Hill. Carol White, a long-time Chief of Staff for 
+Senator Ted Stevens, who aptly named this program because they have 
+dedicated their lives to trying to make this country better inside our 
+schools and out. This program provides the funding basically to help 
+schools initiate and expand their physical education programs, which is 
+just a great goal, and many of the grants have been used for playground 
+equipment on schools.
+  Physical education is important. I think we all know that. Our young 
+people are becoming more and more static between video games and 
+television shows and sometimes lack of outdoor recreation. We are 
+seeing more obesity. It is important that PE be part of an integral 
+curriculum of our schools. In fact, our States and local districts have 
+targeted PE as an area that they want to reintroduce back to the 
+curriculum for our children.
+  The only reason I raise this program up is to have some type of 
+thoughtful debate about who should fund PE programs and, more 
+importantly, what should our Federal priorities be.
+  I ask that because I know that today we are running a deficit. We 
+have a major national debt. I know that every dollar that we spend 
+above the deficit, and we will run a deficit again with the budget we 
+are discussing today, but I know that every dollar that goes to our 
+public debt is picked up by these same children we are trying to help 
+where it will result in a tax increase for families. So it seems right 
+and proper that we scrutinize every program regardless of how much we 
+might admire the person it is named after.
+  This program has been rated by the program assessment rating tool as 
+the results not demonstrated at this point. I imagine that is why the 
+President did not request funding for it. Like the chairman, who has 
+identified apparently 200 or more programs for dismissal, we have to 
+make tough choices.
+  What we are seeking here is a simple question. In our rural schools 
+and our smaller schools, they have the money to buy playground 
+equipment or to build a swingset for kids. What they don't have is 
+money to hire a special needs teacher. What they don't have is money to 
+help kids read and write at grade level. What they don't have is money 
+to help try to prevent the dropouts that are hitting our schools and a 
+case where nearly half of our minorities in eighth grade or ninth and 
+graduating to 12th grade. It just seems to me that from the Federal 
+funding level, our local schools can afford a playground set. What we 
+need to help them with is what they can't afford, which are teachers to 
+help our special needs kids; equipment to help our kids with 
+disabilities; teachers in science, in math, and technology subjects; 
+food for kids who come to school hungry. Despite the merits and the 
+goal which are so laudable for this program, it seems to me that we 
+ought to set our highest priorities to help schools with what they 
+cannot do today, which really is to help our kids read and write, to 
+help our special needs students reach their potential, to try to stop 
+this horrendous dropout rate in America.
+  So I would propose that we, as the President suggested, not fund this 
+program, reserve those resources. And, again, these are tough choices 
+you always have to make through the process. It is not much fun either 
+way. I am sure the chairman did not delight in cutting any of the 
+programs that he had proposed. It is just a way that we try to get 
+closer to a balanced budget and try to prioritize where we fund our 
+schools and our kids and, again, try to make the greatest use of every 
+tax dollar we have.
+  Mr. Chairman, I yield back the balance of my time.
+  Ms. McCOLLUM of Minnesota. Mr. Chairman, I move to strike the last 
+word.
+  The CHAIRMAN. The gentlewoman is recognized for 5 minutes.
+  Ms. McCOLLUM of Minnesota. Mr. Chairman, the gentleman's amendment is 
+not a healthy amendment.
+  As you pointed out, our children are more complacent than ever. 
+Sometimes it is because of video games. In some parts of the country, 
+it is because the streets aren't safe. In other parts of the country, 
+it is because children are latchkey and moms and dads want to know 
+where they are while they are working. So obesity is becoming a huge 
+problem in this country. And in order for children to really be ready 
+and prepared to learn, they have to be physically fit. They go 
+together. I taught school. They go hand in hand.
+  The CDC has made childhood obesity and the obesity that is already 
+occurring with adults a challenge for our country to get ahold of if we 
+are going to be competitive, if we are going to have a healthy 
+workforce, and if we are going to control our health care costs. What 
+has happened with the No Child Left Behind Act, it was under funded by 
+this Congress. It didn't come up
+
+[[Page H8030]]
+
+with the dollars that the President promised. So school district after 
+school district after school district, in order to balance their ledger 
+with this unfunded mandate, have been cutting arts and they have been 
+cutting physical education.
+  Now, I am pleased to hear that in your district you are able to 
+maintain a phys ed teacher and you are able to maintain the things that 
+you need to keep your children fit. But district after district has 
+been cutting phys ed in order to pay for the unfunded tests in No Child 
+Left Behind. And childhood obesity is a problem.
+  This might be the first generation that does not live as long as 
+their parents. Now, my children and the children in my neighborhood, I 
+would like to see them not only outlive me but outlive me in a very, 
+very healthy lifestyle. And physical education is part of learning, 
+mind and body, in order to be productive and healthy. This is going to 
+keep America healthy, but it is also going to keep our health care 
+costs down, which we know we have to get under control.
+  Mr. Chairman, I yield back the balance of my time.
+  Mr. OBEY. Mr. Chairman, I move to strike the last word.
+  The CHAIRMAN. The gentleman from Wisconsin is recognized for 5 
+minutes.
+  Mr. OBEY. Mr. Chairman, I would just like to bring to the House the 
+following facts: We have been at this bill now for the better part of 
+yesterday. We have been on this bill since 10:30 this morning, and we 
+have been trying to negotiate a unanimous consent agreement so that 
+Members might be able to leave here tomorrow night. I know there is a 
+CODEL of Members going to Iraq but I want to put them on notice now. I 
+doubt very much that you are going to make it unless you want to miss a 
+lot of votes because as things are developing, I am told that right 
+now, because of the insistence that a number of amendments, which we 
+have heard time and time again, will still be subjected to 40 minutes' 
+debate time even though there are five similar amendments, each of 
+which will take about 40 minutes. When you calculate it all, it comes 
+out to about 800 minutes of debate time. That means roughly 13 hours. 
+By the time you account for slippage, the time it takes for Members to 
+be recognized, the time it takes for them to find their amendments, you 
+have to add about another 5 hours plus your voting time.
+  What that means is that if we continue until 1 o'clock this morning, 
+it will still probably be required for Members to be here until about 8 
+o'clock or later tomorrow night, which means that we will finish just 
+in time for you to all miss your planes.
+  I just wanted you to know that so that if you think that you would 
+like to see another result, you talk to individuals who right now seem 
+to think that 40 minutes' time on a repetitive amendment is more 
+important than ending a filibuster by amendment.
+  Two years ago when this bill was on the floor, it took about 12 
+hours. At this rate it will take about three times that amount of time. 
+So I want Members who are coming up to me asking me about whether they 
+are going to be able to make their planes or their CODELs, I want them 
+to understand that if they miss them, I want them to know who to blame 
+because it is not going to be me.
+
+                              {time}  1430
+
+  Mr. GARRETT of New Jersey. Mr. Chairman, I move to strike the last 
+word.
+  The Acting CHAIRMAN. The gentleman is recognized for 5 minutes.
+  Mr. GARRETT of New Jersey. Mr. Chairman, I will not use the whole 5 
+minutes. I just want to make one point.
+  The gentlelady from Minnesota, I believe, who was just speaking, I 
+want to concur with a portion of her remarks with, A, the remarks with 
+regard to the physical problem with childhood obesity in the country, 
+and that is of a concern nationally. And, B, the problem that she set 
+out with regard to NCLB not funding to the level necessary so that 
+school districts across the country are put in what you might call a 
+catch-22 situation.
+  And a catch-22 is, okay, do we, A, comply with NCLB? In which case we 
+spend a lot of our own money on tests, fourth and 8th grade reading and 
+math tests; or, B, if you don't comply with it, then of course you get 
+written up in the local newspaper because your school failed, or your 
+school didn't do very well on the test and you've become an 
+underperforming school. And, instead, provide the funds where you would 
+like to put them, which may well be in physical education programs.
+  So I concur with her comments on that and suggest that the solution 
+to the problem may be multifaceted. Part of it is the gentleman's 
+amendment right here can be one aspect to address it. And I support the 
+gentleman's amendment to make sure that the dollars that are coming 
+from the Federal Government go to those programs that are effectively 
+getting the job done, including the issue of physical education and 
+childhood obesity and what have you. And just like all the other 
+amendments, I'm sure the gentleman will concur that you want to make 
+sure that the money goes to those programs that really accomplish 
+something, and are not duplicative.
+  The other aspect of the problem, however, is with NCLB and the burden 
+that they put on the schools as saying, do I do this or do I do that; 
+do I comply with NCLB, or do I do what I really want to do locally? And 
+I think the answer to that is to say this: NCLB is just too top town, 
+ordering the schools, basically you've got to do this or you've got to 
+do that when, with all due respect to all the educated, I'll say 
+bureaucrats, who are in the U.S. Department of Education and in all due 
+respect to the Secretary of Education, a very nice lady and well-
+intentioned, the people who really can decide where the dollars can be 
+spent best is the teacher in the classroom, the local school board in 
+conjunction with the parents. They know whether their school has more 
+of a problem in the area of childhood obesity than other schools. I 
+find that, from the studies that I've seen, that it is in certain areas 
+of States and certain demographic regions as opposed to other ones. 
+Those are the people who really know how to decide these things.
+  And so I would concur with the gentlelady from Minnesota and suggest 
+that the solution is, A, put the money where the dollar should go to 
+effectively; and, B, get out from under the rubric of NCLB and just let 
+the schools, the teachers, the parents, the local school boards first 
+and foremost make those decisions, because they know best.
+  Mr. Chairman, I yield back the remainder of my time.
+  The Acting CHAIRMAN. The question is on the amendment offered by the 
+gentleman from Texas (Mr. Brady).
+  The amendment was rejected.
+  Mr. SHULER. Mr. Chairman, I move to strike the last word.
+  The Acting CHAIRMAN. The gentleman from North Carolina is recognized 
+for 5 minutes.
+  Mr. SHULER. Mr. Chairman, I rise to enter into a colloquy with the 
+chairman of the committee, Mr. Obey.
+  Mr. OBEY. I'm happy to engage the gentleman.
+  Mr. SHULER. Mr. Chairman, Oconaluftee Job Corps Center in Cherokee, 
+North Carolina, has served a vital role in providing opportunity and 
+direction to the young people of western North Carolina. This center 
+has operated under the control of the National Parks Service along with 
+the Harpers Ferry Job Corps Center and the Great Onyx Jobs Corps Center 
+in Mammoth Cave, Kentucky.
+  Mr. Chairman, all three of these centers face uncertain future. 
+Earlier this year, the Department of Labor closed the Oconaluftee 
+center without warning, citing safety concerns. The U.S. Forest Service 
+has expressed interest in fixing these safety concerns and reopening 
+the Oconaluftee center. The U.S. Forest Service has also proposed to 
+assume management of the other two centers. The National Park Service 
+has stated it is willing to transition these three centers to the 
+Forest Service.
+  The U.S. Forest Service has a long-standing tradition of quality and 
+service in the Appalachian region.
+  Mr. Chairman, the Senate Interior Appropriations bill contains 
+language directing the Park Service to transfer control of these three 
+Job Corps centers to the U.S. Forest Service. The community surrounding 
+the Oconaluftee Job Corps Center is in favor of this transition.
+
+[[Page H8031]]
+
+  Mr. Chairman, would you be willing to work with me to ensure that 
+this language is included in the final conference version of this bill?
+  Mr. OBEY. If the gentleman would yield, I would like to thank the 
+gentleman for bringing to our attention the important work that the 
+U.S. Forest Service has done in running its 19 Job Corps centers.
+  I have reviewed the provision in the Senate Interior Appropriations 
+bill. I support retaining the language in conference that directs the 
+Secretaries of the Interior and Agriculture to execute an agreement to 
+transfer the three Job Corps centers currently administered by the 
+National Park Service to the U.S. Forest Service.
+  I hope the Department of Labor will recognize the merits of this 
+approach which I understand was successful in another case involving 
+the Mingo Job Corps Center in Missouri several years ago.
+  I also understand that the Secretaries of Interior and Agriculture 
+support this approach and expect to work cooperatively with the 
+Secretary of Labor on this matter.
+  Mr. SHULER. Mr. Chairman, thank you for your continued cooperation 
+and help.
+  Mr. OBEY. I thank the gentleman.
+  Mr. SHULER. Mr. Chairman, I yield back the balance of my time.
+  The Acting CHAIRMAN. The Clerk will read.
+  The Clerk read as follows:
+
+                      English Language Acquisition
+
+       For carrying out part A of title III of the Elementary and 
+     Secondary Education Act of 1965 (20 U.S.C. 6811 et seq.), 
+     $774,614,000, which shall become available on July 1, 2008, 
+     and shall remain available through September 30, 2009, except 
+     that 6.5 percent of such amount shall be available on October 
+     1, 2007, and shall remain available through September 30, 
+     2009, to carry out activities under section 3111(c)(1)(C) of 
+     such Act (20 U.S.C. 6821(c)(1)(C)).
+
+                           Special Education
+
+       For carrying out the Individuals with Disabilities 
+     Education Act (20 U.S.C. 1400 et seq.), $12,310,831,000, of 
+     which $5,467,594,000 shall become available on July 1, 2008, 
+     and shall remain available through September 30, 2009, and of 
+     which $6,641,982,000 shall become available on October 1, 
+     2008, and shall remain available through September 30, 2009, 
+     for academic year 2008-2009: Provided, That $11,880,000 shall 
+     be for the activities authorized by section 674(c)(1)(D) of 
+     such Act: Provided further, That the amount for section 
+     611(b)(2) of such Act (20 U.S.C. 1411(b)(2)) shall be equal 
+     to the lesser of the amount available for that activity 
+     during fiscal year 2007, increased by the amount of inflation 
+     as specified in section 619(d)(2)(B) of such Act (20 U.S.C. 
+     1419(d)(2)(B)) or the percentage increase in the funds 
+     appropriated under section 611(i) of such Act (20 U.S.C. 
+     1411(i)).
+
+
+                   Amendment Offered by Mr. Ferguson
+
+  Mr. FERGUSON. Mr. Chairman, I offer an amendment.
+  Mr. OBEY. Mr. Chairman, I reserve a point of order, and I would ask 
+that the Clerk read the amendment. We don't have a copy.
+  The Acting CHAIRMAN. The gentleman reserves a point of order.
+  The Clerk will report the amendment.
+  The Clerk read as follows:
+
+       Amendment offered by Mr. Ferguson:
+       Page 84, line 24, after the aggregate dollar amount insert 
+     ``(increased by $50,000,000)''.
+       Page 92, line 17, after the first dollar amount insert 
+     ``(reduced by $50,000,000)''.
+
+  Mr. FERGUSON. Mr. Chairman, I rise today to offer this amendment to 
+this important bill that would add an additional $50 million to help 
+American students who require special education.
+  First, I want to commend the chairman of the committee and the 
+ranking member for their outstanding efforts to recognize that 
+insufficient funds for special education that are so desperately needed 
+in this country, I know that in committee they added an additional $335 
+million to IDEA, the Individuals with Disabilities Education Act. But 
+having talked to and listened to the stories from teachers and 
+educators and parents from my district and elsewhere who work in 
+special education in my home State of New Jersey, I believe we must try 
+to do even more, and we can certainly do more to recognize the 
+important needs of these particular students and these particular 
+programs.
+  Mr. Chairman, Congress, in 1975, enacted the landmark IDEA, the 
+Individuals with Disabilities Education Act, which mandated that every 
+student, including those students who have special needs or 
+disabilities will receive a quality and appropriate public education. 
+The law also committed the Federal Government to contribute 40 percent 
+of special education costs, which are often several times higher than 
+the cost of educating other students.
+  Washington, of course, has never met this long-standing, but 
+unfulfilled, commitment to aid States in paying for special education. 
+And as a former teacher, I know firsthand the value of education for 
+every student and the importance of ensuring that every child, 
+including those who have disabilities, experience the thrill of 
+learning.
+  School administrators and teachers and parents all across my district 
+tell me that more special education funding is needed to meet the 
+growing demands in our schools. As teachers seek to improve academic 
+standards and accountability, increased Federal special education 
+funding is critically important to help schools to meet these important 
+obligations to special education students and their families.
+  Washington, as we know, has never met that 40 percent funding 
+threshold. And while Federal education funding has increased by more 
+than 258 percent between 1995 and 2006, this year it still only 
+represents 17.2 percent of the cost of serving students with 
+disabilities.
+  My home State of New Jersey is a national leader in special 
+education. Parents with kids who have special needs and disabilities 
+literally move into our State. They come to New Jersey, particularly 
+parents who have children with autism, they literally move to New 
+Jersey so their kids can enroll in our State's special education 
+programs.
+  This year alone, New Jersey education officials estimate that they're 
+going to spend more than $4 billion in combined Federal, State and 
+local funds to administer special ed programs to almost 250,000 
+students. Of course there's more than 7 million students nationwide who 
+qualify for these programs.
+  Mr. Chairman, I have been in this House for 6\1/2\ years. And I know 
+that certain years funding levels for special education have been 
+increased and other years they have not been increased. It can be 
+fairly characterized as kind of going in fits and starts. Some years 
+we've made big and new investments, and other years, frankly, we 
+haven't.
+  Six years ago, when I first came to this House and to this Chamber, 
+the first bill I ever introduced in this body was a bill that would 
+fully fund our special education classrooms. I did it with the 
+gentleman from Rhode Island (Mr. Kennedy). He and I have worked 
+together, and I know many others have worked together, to work to fully 
+fund our special education classrooms. Indeed, today I remain and I am 
+the lead Republican sponsor of legislation right now that would fully 
+fund our special education classrooms. But despite many of our best 
+efforts, we have not reached that goal yet. And I know that the 
+chairman, the gentleman from Wisconsin, and the ranking member, Mr. 
+Walsh from New York, they have made extraordinary efforts toward this 
+goal as well.
+  The spirit of this amendment, my amendment, is to make for this year 
+one additional effort to move us in the right direction. Like many of 
+you, I've been in these classrooms. I've observed some of our special 
+needs kids in action. I've seen the heroic efforts of their parents and 
+their teachers and the administrators who work so hard to give them the 
+chance at success in life that they really need and deserve.
+  We've done some to help them. And this bill today, frankly, does even 
+more. But thanks to the efforts of Chairman Obey and Mr. Walsh, and 
+others, I really know we are working hard toward this goal. But I 
+respectfully ask that we try to do just a little bit more this year, 
+and by approving this amendment we will be able to do that.
+  I ask my colleagues respectfully to support this important amendment 
+so that we can say we did everything we probably could to help these 
+students who need that extra chance in life.
+  Mr. Chairman, I yield back the balance of my time.
+  The Acting CHAIRMAN. Does the gentleman continue to reserve?
+  Mr. OBEY. I withdraw my reservation of the point of order and move to 
+strike the last word.
+  The Acting CHAIRMAN. The reservation of the point of order is 
+withdrawn.
+
+[[Page H8032]]
+
+  The gentleman from Wisconsin is recognized for 5 minutes.
+  Mr. OBEY. Mr. Chairman, let me simply ask the House one question: Do 
+we really know everything that we need to know about how children 
+learn? Do we really know enough about how children learn to guarantee 
+that every child will perform to their maximum ability and potential? I 
+think the answer to that is obvious: we obviously don't.
+  There is no great political constituency for educational research. 
+But you know it's a funny thing, in any field of endeavor, research is 
+what separates bull gravy from intelligent approaches to issues. That's 
+what research does: it helps lead one to a right understanding of a 
+problem.
+  What this amendment is, frankly, it's another television ad. What 
+this amendment does is to pretend that it does no damage to education 
+by eliminating $50 million out of the educational research budget. It 
+then puts it into special education.
+  We have a lot of posing for holy pictures on this floor by Members 
+who are trying to escape the fact that the White House is asking them 
+to vote against this bill because the White House claims there is too 
+much money in the bill when, in fact, every single one of these 
+amendments demonstrates that our own Republican Members know that there 
+is not enough money in this bill to fund programs like special 
+education unless you make damaging cuts to other portions of the bill. 
+And I would suggest that we not do that.
+  The President cut special education in his budget by $291 million. We 
+have added $800 million in the committee bill to that, and we're $509 
+million over last year.
+  I would also point out that this is a 10 percent cut, if this 
+amendment passes, in the research account. And I would point out that 
+this amendment would cut the National Center for Education Statistics, 
+which is the premier educational statistical operation in the country. 
+This amendment would even cut Federal research funds for special 
+education. Do we really know so much about the needs of special 
+education kids that we're going to cut that research? I don't think so.
+  I think the responsible vote is ``no,'' and I urge a ``no'' vote on 
+the amendment.
+  Mr. Chairman, I yield back the balance of my time.
+  The Acting CHAIRMAN. The question is on the amendment offered by the 
+gentleman from New Jersey (Mr. Ferguson).
+  The question was taken; and the Acting Chairman announced that the 
+noes appeared to have it.
+  Mr. FERGUSON. Mr. Chairman, I demand a recorded vote.
+  The Acting CHAIRMAN. Pursuant to clause 6 of rule XVIII, further 
+proceedings on the amendment offered by the gentleman from New Jersey 
+will be postponed.
+  The Clerk will read.
+  The Clerk read as follows:
+
+            Rehabilitation Services and Disability Research
+
+       For carrying out, to the extent not otherwise provided, the 
+     Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.), the 
+     Assistive Technology Act of 1998 (29 U.S.C. 3001 et seq.), 
+     and the Helen Keller National Center Act (29 U.S.C. 1901 et 
+     seq.), $3,279,743,000: Provided, That $30,452,000 shall be 
+     used for carrying out the Assistive Technology Act of 1998.
+
+
+             Amendment Offered by Mr. Garrett of New Jersey
+
+  Mr. GARRETT of New Jersey. Mr. Chairman, I offer an amendment.
+  Mr. OBEY. Mr. Chairman, again I reserve a point of order, and I would 
+ask that the Clerk read the amendment.
+  The Acting CHAIRMAN. The gentleman's point of order is reserved.
+  The Clerk will report the amendment.
+  The Clerk read as follows:
+
+       Amendment offered by Mr. Garrett of New Jersey:
+       Page 85, line 19, after the dollar amount, insert 
+     ``(reduced by $2,279,000)''.
+
+                              {time}  1445
+
+  Mr. GARRETT of New Jersey. Mr. Chairman, I rise right now to offer 
+what really is a modest amendment with the hopes of returning some 
+degree of discipline to the annual appropriation process. When the 
+President submitted his budget request, he proposed the elimination of 
+a number of programs that were duplicative and unable to demonstrate 
+effectiveness or otherwise not worthy of the priority of spending 
+American taxpayers' money.
+  Generally speaking, with the savings achieved from eliminating 
+ineffective programs, we can use it to do things such as pay off the 
+debt or support programs that have a proven track record of success. I 
+guess that last line I should reiterate: To support programs that 
+already have a track record of success.
+  As I also often do, I will refer this back and make the analogy back 
+to the American families' budget. This is really no different from what 
+American families do every month at the proverbial dinner table. Think, 
+for example, when it comes to TV. If a family is paying for both cable 
+TV and DirecTV, or what I have in my house, Dish TV, chances are that 
+they would probably decide which service suits them best as a family, 
+and then cut one or both of the other services out. You only need one 
+service coming into the house; cable, Direct, Dish or what have you. 
+That is what a family would do; prioritize them.
+  Mr. Chairman, given the content of our spending bills, if the Federal 
+Government were a homeowner and how the Federal Government operates 
+now, well, it would pay for both the cable TV, the Dish and DirecTV, 
+and the cable at the same time, satellite, all three or four coming 
+into the house.
+  If the Federal Government were a family and they continued to operate 
+as they do right now, they would probably decide that they were going 
+to have gas heat in their house and oil heat in their house and 
+electric heat in their house and wood heat as well. It would probably 
+pay to dig for its own water and have a well in the backyard, all the 
+while continuing to pay for city water coming into the house from the 
+front.
+  That, unfortunately, is how the Federal Government operates itself. I 
+think it is time to change. We do a disservice to the American people 
+by not eliminating duplicative and ineffective programs. It proves that 
+the Federal Government is unaccountable. By increasing the size of the 
+U.S. budget, it takes that money, again, out of the family budget by 
+sending it to Washington as tax dollars.
+  So the amendment that I am offering now would only reduce this by 
+$2.3 million, out of a $607 billion appropriation. I used the paper 
+before while I was sitting here trying to figure out how much of a 
+percentage of that is. That is a .0002 percentage point reduction. I 
+think what it does do, more importantly, is to make a statement that 
+there are truly areas within the Federal budget where money can be 
+saved.
+  What my amendment does is restore funding to the level requested in 
+the President's budget. The administration zeroed this account out 
+because it duplicates other Federal programs. The Migrant and Seasonal 
+Farm Workers, the MSFW, Program provides discretionary grants to make 
+comprehensive vocational rehabilitation services available to migrant 
+and seasonal farm workers with vocational disabilities. Now, if I ended 
+right there you would think, well, what is wrong with that?
+  Well, according to the OMB, here is the problem: This program serves 
+the exact same population and provides the exact same services as 
+another separate Federal program already is doing, and that is the 
+Vocational Rehabilitation State Grants Program. The acronym is VR. The 
+authorizing legislation for the VR State Grants Program contains 
+provisions in it to ensure that State VR agencies must reach out and 
+serve all individuals with disabilities within the State. That includes 
+minorities and unserved and underserved populations.
+  So what this means is that under the MSFW program, which is what we 
+are talking about here, the Federal Government is in essence 
+micromanaging, if you will, what essentially is a State and local 
+government issue that is provided Federal funds through the VR program. 
+The VR State Grants Program in the bill already is expanded by $36 
+million on top of the increases that were there before in the fiscal 
+year 2007 levels.
+  So there is little need to be spending an additional $2.3 million on, 
+yet again, a separate program that does essentially the same thing. The 
+government, you see, does not need to buy both cable TV and satellite 
+TV at the same time. The government does not need to
+
+[[Page H8033]]
+
+be providing funding for programs that do the exact same thing.
+  Mr. Chairman, I yield back the balance of my time.
+  The Acting CHAIRMAN. Does the gentleman reserve his point of order?
+  Mr. OBEY. Mr. Chairman, I withdraw my point of order and would move 
+to strike the last word.
+  The Acting CHAIRMAN. The gentleman withdraws his point of order.
+  The gentleman from Wisconsin is recognized for 5 minutes.
+  Mr. OBEY. Mr. Chairman, I wonder if anybody remembers these words: 
+``Whatsoever you do for the least of your brethren, you do for Me.'' I 
+wonder if anybody remembers those words?
+  This amendment is truly amazing to me. This amendment is offered by a 
+Member of the House, who, like me, any time he has an ache or a pain or 
+a toothache or is having a bad day, can trot down to the Attending 
+Physician and have the doctors and the nurses check us over to make 
+sure that we are in peachy keen shape. But what does this amendment 
+say? This amendment says to some of the poorest people in the country, 
+our migrant and our farm workers, sorry, you can't have vocational 
+rehabilitation services if you've got a physical problem.
+  I would like to ask every Member of this House, have you ever picked 
+cucumbers during the summer? Have you ever picked beans? Well, I have. 
+I can tell you it is darn hard work. I used to represent a county by 
+the name of Waushara County--wall to wall irrigation and crops like 
+cucumbers and beans. I used to watch those migrant workers come in and 
+work their tails off to get a few bucks.
+  Are we really so stingy? Are we really so utilitarian that we are 
+willing to say to workers like that, sorry, Members of Congress are 
+important, so they can get taken care of whenever they have got a 
+physical problem. But oh no, don't you dare waste the taxpayers' money 
+when it comes to some poor devil in the migrant stream or when it comes 
+to their family or kids.
+  You want to vote for this amendment? You go right ahead. Count me 
+out.
+  Mr. PRICE of Georgia. Mr. Chairman, I move to strike the last word.
+  The Acting CHAIRMAN. The gentleman is recognized for 5 minutes.
+  Mr. PRICE of Georgia. Mr. Chairman, I rise to support this amendment, 
+because fundamentally what we are charged with doing here is being 
+responsible with hard-earned taxpayer money. As the gentleman from New 
+Jersey said, it is not responsible to pay for two programs that do the 
+same thing, which is why the administration in its review looked at 
+this program, which is wonderfully named, perfectly appropriate, has a 
+wonderful mission, but the provisions of this program are being 
+accomplished elsewhere in the Federal Government.
+  Now, it may be hard for the Chair of the Appropriations Committee to 
+believe that there is some duplication in the Federal Government, but 
+it is not hard for the citizens of the Sixth District of Georgia to 
+believe that there is duplication. The name of the program that 
+accomplishes this same end is the Vocational Rehabilitation State 
+Grants Program.
+  The goal of the gentleman from New Jersey, I don't believe, is to 
+eliminate the ability to have appropriate programs for migrant and 
+seasonal farm workers. That is not the goal at all. The goal is to 
+responsibly spend hard-earned taxpayer money in accomplishing the 
+appropriate priorities of the Federal Government. So to have anybody 
+come to the floor and say that anybody who would support this amendment 
+desires to end the programs for migrant and seasonal farm workers is 
+simply not true and not the case, and it doesn't appropriately 
+represent the amendment of the gentleman from New Jersey.
+  Mr. Chairman, I commend him for his desire to make certain that we do 
+not provide duplicative services which are wasteful, wasteful of hard-
+earned taxpayer money.
+  I am pleased to yield to my friend from New Jersey.
+  Mr. GARRETT of New Jersey. I thank the gentleman from Georgia for 
+yielding.
+  To answer the question of the gentleman, yes, I have picked 
+vegetables and I have worked on a farm and I have thrown bales of hay 
+and I have worked in the sweltering heat of greenhouses picking 
+vegetables as well. So, yes, I do have that experience. So, yes, I do 
+know of what I speak, to some extent, but never to the extent, I am 
+sure, of the chairman or some of what the people go through in these 
+situations.
+  The chairman also makes reference to words about being stingy. You 
+know, it is awfully easy, it is awfully easy, to be a generous 
+individual if you are using somebody else's money, and basically that 
+is what Congress does every single day of the year. We come to the 
+floor with the appropriation bills railing about how much more we are 
+spending than last year and saying how generous we are, when in fact 
+these are not our dollars. Despite the statement of the gentleman from 
+Alaska at the last debate, these are the taxpayers' dollars coming in.
+  So it is easy to be generous with other people's money. What we here 
+as Members of Congress should therefore do is consider ourselves in a 
+position to be wards of that money, protect it and make sure that it 
+goes to the most effective places.
+  I refer you now to a statement from the administration with reference 
+to this program to point out the necessity of cutting the funding here 
+and making sure there are funds in similar programs. The administration 
+states this: ``This program was established as a demonstration 
+project,'' a demonstration project, ``in the mid-1970s, and it is no 
+longer needed to demonstrate the benefits of these strategies to serve 
+underserved populations such as migrant and seasonal farm workers. Many 
+of the same States have received continued funding over the last 30 
+years and should be able to effectively serve this population under the 
+VR State Grant Program,'' that program that has continued to be funded 
+in this underlying legislation, that VR program that sees a $36 million 
+or $37 million increase in the funding.
+  The gentleman from Georgia, when he speaks to what his constituents 
+feel, I wonder what his constituents would feel when they are told that 
+we have a demonstration project established back in 1970 and we are 
+still following that demonstration project to see whether or not it is 
+necessary to run the program.
+  Mr. PRICE of Georgia. Mr. Chairman, reclaiming my time, I thank the 
+gentleman for his comments. The point about the demonstration project 
+precisely gets to the point of so many of these programs. We do a poor 
+job as a Federal Government in looking at programs that we put in place 
+as pilots or demonstration projects to determine whether or not their 
+effectiveness has been met.
+  I will have an amendment in a little bit that addresses a program 
+whose mission and goal has been achieved and yet it continues to have 
+money coming from the Federal Government.
+  I urge my colleagues to support the amendment of the gentleman from 
+New Jersey.
+  Mr. Chairman, I yield back the balance of my time.
+  Mr. HONDA. Mr. Chairman, I move to strike the last word.
+  The CHAIRMAN. The gentleman from California is recognized for 5 
+minutes.
+  Mr. HONDA. Mr. Chairman, I would just like to address myself to the 
+two gentlemen from New Jersey and from Georgia with a question: Have 
+you ever administered and run a school, a title I school, that has an 
+ESEA program? No.
+  Mr. Chairman, it is really easy to criticize and throw darts at 
+projects or even employment, if you will, when you have no idea of what 
+you are talking about. I was a principal of two elementary schools. 
+Both were title I schools. Both had ESEA funding. The Federal law at 
+that time, it is probably still in existence, said that Federal funding 
+cannot supplant local funding.
+  So if you are saying that this is duplicative, it isn't. It is 
+supplementary. It is to enhance the programs that are already existing. 
+And the Federal Government has the responsibility to help programs and 
+help youngsters in this country.
+  It is common knowledge that the State has the primary responsibility 
+of education in their States, but the Federal Government has 
+responsibility also. And in their good judgment in the past when they 
+established the ESEA programs, they saw the need to help States fulfill 
+their responsibilities.
+
+[[Page H8034]]
+
+  Mr. Chairman, it is probably easy to poke holes into something you 
+don't know anything about. It is probably even easier to criticize 
+something when you have no experience and no one is going to challenge 
+that.
+
+                              {time}  1500
+
+  Mr. Chairman, I am here to challenge their premise, and would ask my 
+colleagues not to support this amendment.
+  Mr. Chairman, I yield back the balance of my time.
+  Mr. CAMPBELL of California. Mr. Chairman, I move to strike the last 
+word.
+  The Acting CHAIRMAN. The gentleman is recognized for 5 minutes.
+  Mr. CAMPBELL of California. I yield to the gentleman from New Jersey.
+  Mr. GARRETT of New Jersey. Mr. Chairman, I appreciate the gentleman 
+yielding. I didn't want to interrupt your comments, so I waited to be 
+yielded time here just to respond to your statements through the Chair.
+  No, I have not ever administered or run a school. For that matter, I 
+imagine that out of the 435 Members of Congress, there are probably one 
+or two or three who have ever run or administered a school. And I would 
+hate that to be the barometer or the test that we would have to take 
+before we could ever propose an amendment, vote on an amendment, or 
+even consider legislation that comes before the House. If that were the 
+case, programs like the VR program would never be established in the 
+first place. If the test is whether a Member of Congress has experience 
+in it to propose a new program or expand a program, there is not enough 
+educators here or people who have run title I schools to get the 
+backing of legislation in the first place. So I would question the 
+gentleman's premise.
+  Now the gentleman on the other hand questions our basic premise for 
+supporting this amendment. Our basic premise is that you don't have to 
+actually run the school to know that perhaps the best way to serve a 
+particular segment of our country is to make sure that the dollars go 
+to programs that are up and running and do serve that program.
+  The administration has looked at this and has seen that the program 
+in place that we are talking about now has been in place since 1970 as 
+a demonstration project. ``Demonstration,'' the word itself connotes 
+the fact that this is temporary in nature.
+  Since that time, we have the VR program, which I pointed out earlier, 
+maybe the gentleman did not hear my testimony, the VR program handles 
+these same services. In fact, it says: ``The activities needed to 
+successfully serve the migrant and seasonal farmwork population do not 
+differ from those that benefit a much wider group of VR consumers.'' 
+For example, the outreach activities in churches and community centers 
+may be effective for identifying farmworkers with disabilities, what 
+this amendment deals with, but they also assist in identifying other 
+persons with disabilities who visit these places. The hiring of 
+bilingual counselors will assist all consumers who are monolingual in a 
+non-English language, whether they are farmworkers or not. And the 
+provisions of the transportation services for rural areas will benefit 
+all rural residents, whether farmworkers or not.
+  The bottom line is, our basic premise is, if you are going to serve a 
+segment of the population, in this case individuals with disabilities 
+and migrant farmworkers, let's do so, but let's do so with programs 
+that are already up and running and have a track record. That is what 
+this underlying bill does. It even does it with spending $36 million 
+more. I think we can make sure that program runs and eliminate the 
+duplicative program.
+  Mr. CAMPBELL of California. Mr. Chairman, I will just add one thing 
+as I have been listening to the general debate here.
+  It seems that quite often on this floor, particularly on the other 
+side of the aisle, that we measure how much we care about something by 
+how much money we spend on it. If that was the measure of everything, 
+Paris Hilton would be the most well-adjusted kid on the planet.
+  It is not just how much we spend, but it is whether it is effective. 
+It is whether it is duplicative, as we are alleging in the case of this 
+program. It is whether it is getting the job done.
+  It doesn't do any good for anybody to spend money that is duplicative 
+or that isn't effective or that wastes a lot of money along the way. 
+That is not good for anybody. So whether it is this program, frankly, 
+or any others, we should, in this House and on this floor, realize that 
+we are stewards of the taxpayers' money, not just spenders of the 
+taxpayers' money, and we should ensure that it is being well spent, not 
+just totally spent.
+  Mr. Chairman, I yield back my time.
+  The Acting CHAIRMAN. The question is on the amendment offered by the 
+gentleman from New Jersey (Mr. Garrett).
+  The question was taken; and the Acting Chairman announced that the 
+noes appeared to have it.
+  Mr. GARRETT of New Jersey. Mr. Chairman, I demand a recorded vote.
+  The Acting CHAIRMAN. Pursuant to clause 6 of rule XVIII, further 
+proceedings on the amendment offered by the gentleman from New Jersey 
+will be postponed.
+  The Clerk will read.
+  The Clerk read as follows:
+
+           Special Institutions for Persons With Disabilities
+
+
+                 american printing house for the blind
+
+       For carrying out the Act of March 3, 1879 (20 U.S.C. 101 et 
+     seq.), $17,573,000.
+
+
+               national technical institute for the deaf
+
+       For the National Technical Institute for the Deaf under 
+     titles I and II of the Education of the Deaf Act of 1986 (20 
+     U.S.C. 4301 et seq.), $60,757,000, of which $1,705,000 shall 
+     be for construction and shall remain available until 
+     expended: Provided, That from the total amount available, the 
+     Institute may at its discretion use funds for the endowment 
+     program as authorized under section 207 of such Act (20 
+     U.S.C. 4357).
+
+
+                          gallaudet university
+
+       For the Kendall Demonstration Elementary School, the Model 
+     Secondary School for the Deaf, and the partial support of 
+     Gallaudet University under titles I and II of the Education 
+     of the Deaf Act of 1986 (20 U.S.C. 4301 et seq.), 
+     $109,952,000: Provided, That from the total amount available, 
+     the University may at its discretion use funds for the 
+     endowment program as authorized under section 207 of such Act 
+     (20 U.S.C. 4357).
+
+                 Career, Technical, and Adult Education
+
+       For carrying out, to the extent not otherwise provided, the 
+     Carl D. Perkins Career and Technical Education Act of 2006 
+     (20 U.S.C. 2301 et seq.), the Adult Education and Family 
+     Literacy Act (20 U.S.C. 9201 et seq.), and subpart 4 of part 
+     D of title V of the Elementary and Secondary Education Act of 
+     1965 (``ESEA'') (20 U.S.C. 7249), $2,046,220,000, of which 
+     $1,247,220,000 shall become available on July 1, 2008, and 
+     shall remain available through September 30, 2009, and of 
+     which $791,000,000 shall become available on October 1, 2008, 
+     and shall remain available through September 30, 2009: 
+     Provided, That of the amounts made available for the Carl D. 
+     Perkins Career and Technical Education Act of 2006, 
+     $8,000,000 is for the postsecondary career and technical 
+     institutions under section 117 of such Act (20 U.S.C. 2327): 
+     Provided further, That of the amounts provided for Adult 
+     Education State Grants, $71,622,000 shall be made available 
+     for integrated English literacy and civics education services 
+     to immigrants and other limited English proficient 
+     populations: Provided further, That of the amount reserved 
+     for integrated English literacy and civics education, 
+     notwithstanding section 211 of the Adult Education and Family 
+     Literacy Act (20 U.S.C. 9211), 65 percent shall be allocated 
+     to States based on a State's absolute need as determined by 
+     calculating each State's share of a 10-year average of the 
+     United States Citizenship and Immigration Services data for 
+     immigrants admitted for legal permanent residence for the 10 
+     most recent years, and 35 percent allocated to States that 
+     experienced growth as measured by the average of the 3 most 
+     recent years for which United States Citizenship and 
+     Immigration Services data for immigrants admitted for legal 
+     permanent residence are available, except that no State shall 
+     be allocated an amount less than $60,000: Provided further, 
+     That of the amounts made available for the Adult Education 
+     and Family Literacy Act, $7,000,000 shall be for national 
+     leadership activities under section 243 of such Act (20 
+     U.S.C. 9253) and $6,638,000 shall be for the National 
+     Institute for Literacy under section 242 of such Act (20 
+     U.S.C. 9252): Provided further, That $93,531,000 shall be 
+     available to support the activities authorized under subpart 
+     4 of part D of title V of the ESEA (20 U.S.C. 7249), of which 
+     up to 5 percent shall become available October 1, 2007, and 
+     shall remain available through September 30, 2009, for 
+     evaluation, technical assistance, school networks, peer 
+     review of applications, and program outreach activities, and 
+     of which not less than 95 percent shall become available on 
+     July 1, 2008, and remain available through September 30, 
+     2009, for grants to local educational agencies: Provided 
+     further, That funds made available to local educational 
+     agencies under this subpart shall be used only for activities 
+     related to establishing smaller learning communities within 
+     large high schools or small
+
+[[Page H8035]]
+
+     high schools that provide alternatives for students enrolled 
+     in large high schools.
+
+
+            Amendment No. 64 Offered by Mr. Price of Georgia
+
+  Mr. PRICE of GEORGIA. Mr. Chairman, I offer an amendment.
+  The Acting CHAIRMAN. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment No. 64 offered by Mr. Price of Georgia:
+       Page 87, line 1, strike the comma and insert ``and''.
+       Page 87, line 3, strike ``and'' and all that follows 
+     through the first comma on line 5.
+       Page 87, line 5, after each dollar amount, insert 
+     ``(reduced by $93,531,000)''.
+       Page 88, line 13, strike the colon and all that follows 
+     through page 89, line 3, and insert a period.
+
+  Mr. OBEY. Mr. Chairman, I ask unanimous consent that the Clerk read 
+the amendment because unless she does, we have no idea what the 
+amendment is.
+  The Acting CHAIRMAN. Without objection, the Clerk will report the 
+amendment.
+  There was no objection.
+
+
+                         Parliamentary Inquiry
+
+  Mr. PRICE of Georgia. Mr. Chairman, parliamentary inquiry.
+  The Acting CHAIRMAN. The gentleman may state his parliamentary 
+inquiry.
+  Mr. PRICE of Georgia. The amendment that the Clerk is currently 
+reading is not one that I am offering.
+  The Acting CHAIRMAN. Without objection, amendment No. 64 is 
+withdrawn.
+  There was no objection.
+  The Acting CHAIRMAN. The Clerk will read.
+  The Clerk read as follows:
+
+                      Student Financial Assistance
+
+       For carrying out subparts 1, 3, and 4 of part A, part C, 
+     and part E of title IV of the Higher Education Act of 1965, 
+     $17,464,883,000, which shall remain available through 
+     September 30, 2009: Provided, That, in addition, any amount 
+     made available for Academic Competitiveness Grants and 
+     National SMART Grants under section 401A of the Higher 
+     Education Act of 1965 (20 U.S.C. 1070a-1) for fiscal year 
+     2007 (in an appropriation for such fiscal year or a preceding 
+     fiscal year) that is unobligated at the end of fiscal year 
+     2007 shall be available for Pell Grants for the 2008-2009 
+     award year.
+
+
+            Amendment No. 65 Offered by Mr. Price of Georgia
+
+  Mr. PRICE of Georgia. Mr. Chairman, I offer an amendment.
+  The Acting CHAIRMAN. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment No. 65 offered by Mr. Price of Georgia:
+       Page 89, line 7, after the dollar amount, insert ``(reduced 
+     by $64,987,000)''.
+
+  Mr. PRICE of Georgia. Mr. Chairman, I apologize for the confusion. I 
+apologize for rising early.
+  This amendment is a simple amendment. It addresses the Leveraging 
+Educational Assistance Partnership program and would end the funding 
+for this program, saving $65 million of hard-earned taxpayer money. The 
+rationale is, as the administration has described and as has been 
+recommended by the Secretary of Education's Commission on the Future of 
+Higher Education, virtually every State operates programs to a much 
+larger degree than the Federal Government that address this very same 
+issue.
+  As I mentioned just a moment ago when I rose to another amendment, we 
+here in Washington enact all sorts of pilot programs and all sorts of 
+trial programs, and so very often, in fact probably more often than 
+not, we don't go back and look as a Federal Government to see whether 
+or not the goal or the mission of those programs has been accomplished.
+  Rarely, in fact, I would suggest, do we see if the goal has been 
+accomplished. This is one in which there has been great success. The 
+mission and the goal of the program has indeed been accomplished. It 
+has accomplished its original objective of stimulating all States to 
+establish need-based post-secondary student grant programs. However, 
+beyond the establishment of these programs, the LEAP program, the 
+Leveraging Educational Assistance Partnership program itself, does 
+little to encourage States to increase their investment in grant aid 
+for their neediest of students or effectively targets this aid to 
+students who could most benefit from it.
+  When we do look, when the Department of Education and when the Office 
+of Management and Budget performs its assessment and reviews this 
+program, what it says is, at this point, because the mission has been 
+accomplished, the results of any further funding for this program are 
+clearly not demonstrated. So in an effort to achieve again some fiscal 
+responsibility and in an effort to decrease some of the significant 
+waste that does occur at the Federal level, I encourage my colleagues 
+to accept and vote for the amendment.
+  Mr. Chairman, I yield back the balance of my time.
+  Mr. OBEY. Mr. Chairman, I rise to oppose the amendment.
+  The Acting CHAIRMAN. The gentleman from Wisconsin is recognized for 5 
+minutes.
+  Mr. OBEY. Mr. Chairman, I have been trying to figure out what we 
+ought to be calling these amendments that have been offered for 2 days. 
+I have concluded that we ought to call them the congressional rubber-
+stamp amendments, because what is happening is we are seeing amendment 
+after amendment offered that would simply return these funding levels 
+to the exact level recommended by the President.
+  Now I see story after story indicating that a good many of my friends 
+on the other side of the aisle are anxious to separate themselves from 
+the President these days, but we have evidently a few members of their 
+caucus who are eager to embrace virtually every action and every 
+thought that comes from the White House. I find that very interesting.
+  The President felt we ought to eliminate this program. What does this 
+program do? This program provides $60 million in grants to States to 
+offer needs-based student scholarships. There are 165,000 students who 
+will benefit from this program, getting scholarships of $1,000. I would 
+simply ask, does anybody really believe that we are providing enough 
+help for working families to send their kids to college?
+  The Pell Grant program is the major program upon which we rely in 
+order to help students from lower and middle-income families find 
+enough money to go on to college. When that program was in its heyday 
+in the seventies, it provided over 70 percent of the cost of attending 
+a 4-year public university. It provided help in the form of a Pell 
+Grant to meet that percentage of the cost. Today, it is down to a 
+little over 30 percent of the cost. So we have shifted a huge 
+percentage of the cost to working families.
+  The President's answer in his budget this year was to move Pell 
+Grants from one side of the budget to the other making it, instead of a 
+discretionary program, a mandatory program and in the process decided 
+he was going to pay for the increase in the Pell Grants by eliminating 
+virtually every other student aid program on the books except Pell and 
+Work Study.
+  I would suggest if you think that is a good idea, go ahead, follow 
+the President over the cliff and vote to deny these 165,000 students 
+the additional help they need. The money that we invest in student aid 
+is returned to this country many times over. We are in a competitive 
+world. Over 50 percent of the jobs that will be offered in this country 
+in the next 7 years are jobs that will require a higher education, and 
+it seems to me instead of running away from that obligation, we ought 
+to be embracing it. This is a very bad idea. I urge defeat of the 
+amendment.
+  Mr. Chairman, I yield back the balance of my time.
+  Mr. GARRETT of New Jersey. Mr. Chairman, I move to strike the last 
+word.
+  The Acting CHAIRMAN. The gentleman is recognized for 5 minutes.
+  Mr. GARRETT of New Jersey. I yield to the gentleman from Georgia.
+  Mr. PRICE of Georgia. Mr. Chairman, I thank the gentleman for 
+obtaining time, and I appreciate the chairman's comments.
+  Again, the purpose of this amendment is to address wasteful spending. 
+It is a significant responsibility that we have here in the House to 
+make certain that the money we spend, which is hard-earned taxpayer 
+money, is spent wisely. I know there is huge animosity on the other 
+side of the aisle against the President. I think sometimes that 
+animosity actually blinds individuals to some quality work that is 
+coming
+
+[[Page H8036]]
+
+from the administration. There are high-quality people who work in the 
+administration, this administration, just like every other 
+administration. In fact, there are high-quality people in the 
+Department of Education and there are high-quality people in the Office 
+of Management and Budget who looked at this problem and said that the 
+goals and the mission of this program have, indeed, been accomplished. 
+It was a wonderful program, served a grand purpose, but the goals and 
+the missions have been accomplished. Consequently, it is appropriate, 
+if we are going to be responsible with hard-earned taxpayer money, to 
+end a program that has accomplished its mission, accomplished its 
+goals, and not continue wasteful Federal spending.
+
+                              {time}  1515
+
+  So I would urge my colleagues, I know that they can be blinded by 
+animosity for the President and for the administration, but I would 
+urge my colleagues to listen to those hardworking individuals in the 
+Federal Government who are looking at these programs and attempting to 
+find cost savings for the American public so that we can prioritize on 
+other programs.
+  That's what this amendment does. It seeks to be responsible with 
+hard-earned taxpayer money. I encourage my colleagues to support the 
+amendment, and I yield back to the gentleman from New Jersey.
+  Mr. GARRETT of New Jersey. Mr. Chairman, I thank the gentleman.
+  There is none so blind who shall not see. I appreciate the gentleman 
+from Georgia for coming to the microphones and asking all of us to open 
+our eyes so that we shall see the values of these things, despite the 
+personalities otherwise, and I support the gentleman's amendment from 
+Georgia.
+  Mr. Chairman, I yield back the balance of my time.
+  Ms. McCOLLUM of Minnesota. Mr. Chairman, I move to strike the last 
+word.
+  The Acting CHAIRMAN. The gentlewoman is recognized for 5 minutes.
+  Ms. McCOLLUM of Minnesota. Madam Chairman, the gentleman from Georgia 
+said we can eliminate the LEAP program because missions have been 
+accomplished. The LEAP program is available for the poorest of the poor 
+in this country. It's for people whose family incomes are less than 
+$20,000. Poverty, unfortunately, still goes on in this country.
+  People who make less than $20,000 need help in order to obtain an 
+education to allow them to be competitive and allow our country to be 
+competitive against other countries which are investing dollar after 
+dollar after dollar into educational opportunities for their 
+individuals.
+  So the mission hasn't been accomplished until we eradicate poverty. 
+So I would really urge Members to look closely at the language in the 
+LEAP program. It also is matched by State dollars, and I would urge my 
+colleagues to oppose the amendment.
+  I yield back my time.
+  The Acting CHAIRMAN. The question is on the amendment offered by the 
+gentleman from Georgia (Mr. Price).
+  The question was taken; and the Acting Chairman announced that the 
+noes appeared to have it.
+  Mr. PRICE of Georgia. Mr. Chairman, I demand a recorded vote.
+  The Acting CHAIRMAN. Pursuant to clause 6 of rule XVIII, further 
+proceedings on the amendment offered by the gentleman from Georgia will 
+be postponed.
+  Mr. OBEY. Mr. Chairman, I move that the Committee do now rise.
+  The motion was agreed to.
+  Accordingly, the Committee rose; and the Speaker pro tempore (Mr. 
+Arcuri) having assumed the chair, Mr. Capuano, Acting Chairman of the 
+Committee of the Whole House on the State of the Union, reported that 
+that Committee, having had under consideration the bill (H.R. 3043) 
+making appropriations for the Departments of Labor, Health and Human 
+Services, and Education, and related agencies for the fiscal year 
+ending September 30, 2008, and for other purposes, had come to no 
+resolution thereon.
+
+                          ____________________
+```
