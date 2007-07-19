@@ -1,0 +1,62 @@
+---
+granule: CREC-2007-07-19-pt1-PgS9609-2
+date: 2007-07-19
+edition: CREC
+section: SENATE
+page: S9609
+citation: 153 Cong. Rec. S9609
+---
+
+# RECOGNIZING DEBRA BROWN STEINBERG
+
+**Speaking:** Brownback, Sam (B000953) [R-KS]
+
+**Measures:** S. 615
+
+```
+                   RECOGNIZING DEBRA BROWN STEINBERG
+
+● Mr. BROWNBACK. Madam President, I wish to recognize Debra 
+Brown Steinberg for receiving an Ellis Island Medal of Honor from the 
+National Ethnic Coalition of Organizations. This award acknowledges her 
+work representing immigrants whose family members died in the September 
+11, 2001, terrorist attacks on the World Trade Center in New York City. 
+As a recipient of the award, Debra joins an elite group of 
+distinguished Medal of Honor recipients such as Lee Iacocca, former 
+Chrysler CEO and author of ``Where Have all the Leaders Gone?'', as 
+well as several former U.S. Presidents including Gerald Ford, George 
+H.W. Bush, and Bill Clinton.
+  Ms. Steinberg, moved with compassion, responded to the attacks by 
+playing a vital leadership role in creating the New York Lawyers for 
+the Public Interest 9/11 Project in early October 2001. She also played 
+an important role in the creation of the 9/11 Victims Compensation 
+Fund, which awarded a total $7 billion to family members of individuals 
+killed in the 9/11 attacks, by drafting the New York City Bar 
+Association's comments on the interim and final regulations for the 
+fund. Since that time, she has worked selflessly to ensure that the 
+family members of victims of 9/11 are cared for.
+  Nearly 6 years after the 9/11 attacks, Debra Brown Steinberg is still 
+fighting for the families of victims of the terrorist attacks--
+specifically immigrants without legal status in the United States who, 
+after facing the traumatic loss of a family member on 9/11, now face 
+potential deportation. As our Nation continues to mourn the loss of 
+friends and family members who died in the 9/11 terrorist attacks, Ms. 
+Steinberg has set an example for all of us by helping families that 
+have suffered greatly. Her selfless and persistent efforts have given 
+these immigrant families hope that one day they will be able to grieve 
+freely.
+  In addition to her work representing these immigrant families through 
+the 9/11 Compensation Fund process, she has helped to draft the 
+September 11 Family Humanitarian Relief and Patriotism Act, S. 615, 
+which I introduced with Senator Lautenberg on February 15, 2007. This 
+legislation would help immigrants whose family members were killed in 
+the attacks heal from the tragedy as our Nation continues to do the 
+same.
+  Our tradition teaches us to have compassion for the widow, the 
+orphan, and the stranger among us. Ms. Steinberg's action representing 
+the families of immigrant victims of 9/11 exemplifies such compassion.
+  We have much to learn from Debra Steinberg, and I am proud to honor 
+her achievements before my colleagues in the Senate.●
+
+                          ____________________
+```
