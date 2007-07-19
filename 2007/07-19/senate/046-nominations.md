@@ -1,0 +1,23 @@
+---
+granule: CRECB-2007-pt14-Pg19786-8
+date: 2007-07-19
+edition: CRECB
+section: SENATE
+page: 19786
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nomination received by the Senate July 19, 2007:
+
+
+                          DEPARTMENT OF STATE
+
+       DAVID T. JOHNSON, OF GEORGIA, A CAREER MEMBER OF THE SENIOR 
+     FOREIGN SERVICE, CLASS OF MINISTER-COUNSELOR, TO BE AN 
+     ASSISTANT SECRETARY OF STATE (INTERNATIONAL NARCOTICS AND LAW 
+     ENFORCEMENT AFFAIRS), VICE ANNE W. PATTERSON.
+```
