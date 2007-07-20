@@ -1,0 +1,235 @@
+---
+granule: CREC-2007-07-20-pt1-PgS9652
+date: 2007-07-20
+edition: CREC
+section: SENATE
+page: S9652
+citation: 153 Cong. Rec. S9652
+---
+
+# PETE GEREN
+
+**Speaking:** Carper, Thomas R. (C000174) [D-DE]
+
+```
+                               PETE GEREN
+
+  Mr. CARPER. Mr. President, I hoped to speak earlier this week when we 
+were engaged in debate on the Defense authorization bill. That was a 
+night, I am sure our Acting President pro tempore recalls, when folks 
+didn't get much sleep around here. A lot of my colleagues decided as 
+they spoke they wanted to speak for a long time. As a result, I suspect 
+fewer than half of us got to speak, and I had just a few thoughts I 
+wanted to share with respect to not just the Defense authorization bill 
+but the war in which we find ourselves in Iraq and Afghanistan.
+  Before I do that, I wish to mention that I think it was last Friday 
+at the end of the regular business session--maybe it was Thursday--we 
+went through the Executive Calendar. As the Senator from Ohio knows, on 
+the Executive Calendar we actually take up nominations submitted by the 
+committee that need confirmation by the Senate and we deal with those. 
+Oftentimes, if they are not controversial, we deal with them by 
+unanimous consent.
+  One of the nominations that came before us last week, under unanimous 
+consent, was that of Pete Geren, who had been nominated to be Secretary 
+of the Army. Our Acting President pro tempore spent a number of years 
+in the House of Representatives. I was there 10 years. I think he was 
+there for about as long, maybe even longer.
+  One of the finest people I ever served with in the House of 
+Representatives was a Democratic Congressman from Texas who actually 
+succeeded Jim Wright. Jim Wright stepped down as our Speaker, resigned 
+from the Congress, there was a special election, and who ended up 
+getting elected but Pete Geren. He became a Congressman for four terms 
+and was admired by Democrats and Republicans alike. Before that, he had 
+served as an aid to a legendary Senator from Texas, a fellow named 
+Lloyd Bentsen, who was also our party's nominee for Vice President.
+  Pete went to Georgia Tech and the University of Texas. He got a law 
+degree from the University of Texas, married well, had three kids, and 
+ended up here in the Congress with all of us. He resigned after his 
+fourth term and went back to Texas to become a businessperson and to 
+practice law. He did that for I think about 5 years, and lo and behold, 
+he got a call from a Republican administration to ask him to serve in 
+the Department of Defense, where he was a senior aid in the Secretary's 
+office, a role he played for I think about 3 or 4 years.
+  Subsequent to that, Pete Geren was asked to serve in a variety of 
+roles. He has been our Acting Secretary of the Air Force, he has been 
+the Under Secretary of the Army, the Interim Secretary of the Army, and 
+for the last week or so now, he has been the Secretary of the Army.
+  I ask unanimous consent to have printed in the Record his statement 
+before the Armed Services Committee, his confirmation hearing 
+statement.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+                [Congressional Hearings, June 19, 2007]
+
+  Senate Armed Services Committee Holds Hearing on the Nomination of 
+               Preston Geren to be Secretary of the Army
+
+       GEREN: Mr. Chairman and Senator Warner and members of the 
+     committee, it truly is an honor to be before you today as the 
+     president's nominee.
+       I want to thank the president for his confidence in me and 
+     Dr. Gates for his confidence, as well. It's truly a privilege 
+     to have this opportunity.
+       Let me thank Senator Hutchison and Senator Cornyn for their 
+     very kind remarks, two great leaders for our state and two 
+     great leaders in this Senate, and I deeply appreciate, and I 
+     know my family did, as well, their kind and generous remarks.
+       Mr. Chairman, I'd also like to note Senator Hutchison's 
+     predecessor, who was the person who brought me into public 
+     life, Senator Lloyd Bentsen, and had it not been for the 
+     opportunity to work for Senator Bentsen, I'm confident I 
+     would not have the opportunities to serve in our government 
+     today.
+       Senator Bentsen passed away over the past year, a great 
+     American, a great Senator, and I want to acknowledge my debt 
+     to him.
+       Senator, I had introduced my family earlier. I've got, as 
+     you do, three wonderful girls, three great kids, and, again, 
+     I want to thank them for standing with me and standing with 
+     Beckie and me in our time here in Washington and all the 
+     time.
+       My family and I came to Washington planning a three-year 
+     hitch and six years later, we're still here.
+       I joined the Department of Defense in August 2001, 
+     expecting a peacetime assignment in business transformation 
+     of the Department of Defense. Then came September 11 and the 
+     war.
+       There's a sense of mission working among our military 
+     during time of war that's hard to walk away from. For the 
+     past six years, I've watched soldiers, sailors and airmen go 
+     off to war and I've watched their families stand steadfast 
+     and unwavering in their support of their departed loved ones 
+     and live with the uncertainty of whether he or she would 
+     return home.
+       And they live with a certainty that there would be 
+     birthdays, holidays, anniversaries, graduations and the ups 
+     and downs of everyday life that their loved one would miss 
+     for 12 months, originally, and now 15 months and too often 
+     watch those families live with a loss when their loved one 
+     did not return.
+       I've been inspired by the selfless service of our soldiers 
+     and humbled by the sacrifice of their families. I've held 
+     staff and leadership jobs in the Pentagon over these past six 
+     years and consider it the privilege of a lifetime to have the 
+     opportunity to work on behalf of our men and women in our 
+     nation's military and their families during the time of war.
+       Our grateful nation cannot do enough and I'm honored to 
+     play a part, a supporting role in their service to our nation 
+     on the front lines.
+       When I came before you seeking confirmation as under 
+     secretary of the Army, I told you my top priority would be 
+     taking care of soldiers and their families. I reaffirm that 
+     commitment today with a greater understanding of that 
+     responsibility.
+       My year as under secretary of the Army taught me much. My 
+     four months as acting secretary of the Army has taught me 
+     much more.
+       We have over 140,000 soldiers in Iraq and Afghanistan. We 
+     can never take our eye off of that ball. They're counting on 
+     their Army, big Army, to continue to provide them the 
+     training, equipment and leadership to take the fight to the 
+     enemy and defend themselves.
+       They count on their Army leadership back home to move the 
+     bureaucracy on the home front. They count on their secretary 
+     and their chief to stand up for them, get them what they need 
+     when they need it.
+       We must act with urgency every day, every day, to meet 
+     their needs. Today, the issue is MRAP. Tomorrow, it will be 
+     different. The enemy is forever changing and forever 
+     adapting.
+       Mr. Chairman, further, as an Army, we pledge never to leave 
+     a fallen comrade. That is not an abstract notion. That means 
+     on the battlefield, in the hospital, or in an outpatient 
+     clinic or over a life of dependency, if that is what's 
+     required to fulfill this pledge.
+       I've witnessed the cost in human terms and to the 
+     institution of the Army when we break faith with that pledge, 
+     as a handful did at Walter Reed. A few let down the many and 
+     broke that bond of trust.
+       But I have seen soldiers, enlisted, NCOs and officers 
+     respond when they learned that someone has let down a 
+     soldier. They step up and they make it right. They make it 
+     better and they do not rest until the job is done and they 
+     expect and demand accountability.
+       And I've seen the strain of multiple deployments on 
+     soldiers' families. A wife and mother said recently, ``I can 
+     hold the family together for one deployment. Two is harder 
+     and three is harder still.'' Over half of our soldiers today 
+     are married with families. Over 700,000 children are in the 
+     families of our soldiers.
+       The health of the all volunteer force depends on the health 
+     of those families. We must expect that our future offers an 
+     era of persistent conflict. We will continue to ask much of 
+     the Army family. We must meet the needs of our families, 
+     provide them with a quality of life comparable to the quality 
+     of their service and sacrifice.
+       It's the right thing to do and the future of our all 
+     volunteer force depends on it.
+       And as President Lincoln pledged to us as a nation, our 
+     duty does not stop when our soldier or our nation leaves the 
+     field of battle. We must care for those who have borne the 
+     battle, his widow and his orphan.
+       That commitment extends over the horizon and we have 
+     learned we have much to do to fulfill that commitment. 
+     Lately, we have come face to face with some of our 
+     shortcomings, a complex disability system that
+
+[[Page S9653]]
+
+     can frustrate and fail to meet the needs of soldiers, a 
+     system that often fails to acknowledge, understand and treat 
+     some of the most debilitating, yet invisible wounds of war, 
+     leaving soldiers to return from war only to battle 
+     bureaucracy at home and leaving families at a loss on how to 
+     cope.
+       The Department of Defense, working with the Veterans 
+     Affairs Department and this committee and this Congress have 
+     a opportunity that does not come along often to move our 
+     nation a quantum leap forward in fulfillment of that 
+     commitment. We cannot squander this opportunity.
+       And, Mr. Chairman and Senator Warner, I commend this 
+     committee for the step forward you all took last week in your 
+     bill to start the process of meeting the needs of those 
+     wounded warriors and we look forward to working with you, 
+     again, to push that initiative.
+       Mr. Chairman, members of the committee, thank you for all 
+     you do for our soldiers and their families. The Army has no 
+     greater friend than this committee.
+       Article 1, Section 8 of the Constitution makes the Army and 
+     the Congress full partners in the defense of our nation and 
+     in the service of our soldiers and their families.
+       If confirmed, I look forward to continuing to work with you 
+     in discharging our duty to those soldiers.
+       I look forward to your questions. Thank you.
+       LEVIN: Secretary Geren, thank you for a heartfelt and a 
+     powerful statement. I can't remember that I've ever heard a 
+     better one, frankly, coming from a nominee. It was very 
+     personal and I think it had power.
+       I just wish every American, every soldier and everyone of 
+     their families could have heard your opening statement.
+
+  Mr. CARPER. Subsequent to his giving his statement, the chairman of 
+the committee, Carl Levin, and later on Senator Joe Lieberman--both 
+praised the statement, Senator Levin saying, ``I can't remember that 
+I've ever heard a better one, frankly, coming from a nominee. . . .'' 
+He said it was ``a heartfelt and a powerful statement.''
+  One of my favorite sayings is: In politics, friends come and go, but 
+our enemies accumulate. For a lot of us in this business, that is the 
+truth. Pete Geren is the exception to that rule. He is admired and 
+liked by people with whom he served in the House and Senate, Democrat 
+and Republican. For a Democrat in Congress ending up to be asked to 
+serve as Acting Secretary and Secretary of the Army is a compliment and 
+really reflective of the kind of person he is. He is a person who tries 
+to figure out what is the right thing to do and to do it. He routinely, 
+consistently treats other people the way he would want to be treated. 
+He has great values, great work ethic, and is just a terrific public 
+servant to the people of this country.
+  I am delighted he has now been asked to serve and was confirmed by 
+all of us unanimously to serve as our Secretary of the Army. It is a 
+big job, a tough job at a tough time to serve in that capacity, but I 
+know he will have our full support. He certainly has my support and my 
+long-time admiration.
+
+                          ____________________
+```
