@@ -1,0 +1,503 @@
+---
+granule: CREC-2007-07-23-pt1-PgH8199
+date: 2007-07-23
+edition: CREC
+section: HOUSE
+page: H8199
+citation: 153 Cong. Rec. H8199
+---
+
+# OCEAN AND COASTAL MAPPING INTEGRATION ACT
+
+**Speaking:** Grijalva, Raul M. (G000551) [D-AZ], Bordallo, Madeleine Z. (B001245) [D-GU]
+
+**Measures:** H.R. 2400
+
+```
+               OCEAN AND COASTAL MAPPING INTEGRATION ACT
+
+  Mr. GRIJALVA. Mr. Speaker, I move to suspend the rules and pass the 
+bill (H.R. 2400) to direct the Administrator of the National Oceanic 
+and Atmospheric Administration to establish an integrated Federal ocean 
+and coastal mapping plan for the Great Lakes and coastal state waters, 
+the territorial sea, the exclusive economic zone, and the Continental 
+Shelf of the United States, and for other purposes, as amended.
+  The Clerk read the title of the bill.
+  The text of the bill is as follows:
+
+                               H.R. 2400
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Ocean and Coastal Mapping 
+     Integration Act''.
+
+     SEC. 2. INTEGRATED OCEAN AND COASTAL MAPPING PROGRAM.
+
+       (a) In General.--The Administrator of the National Oceanic 
+     and Atmospheric Administration shall establish a program to 
+     develop, in coordination with the Interagency Committee on 
+     Ocean and Coastal Mapping and affected coastal states, a 
+     coordinated and comprehensive Federal ocean and coastal 
+     mapping plan for the Great Lakes and coastal state waters, 
+     the territorial sea, the exclusive economic zone, and the 
+     Continental Shelf of the United States that enhances 
+     ecosystem approaches in decisionmaking for conservation and 
+     management of marine resources and habitats, establishes 
+     priorities for research and mapping, supports the siting of 
+     research and other platforms, enhances safety of navigation, 
+     and advances ocean and coastal science.
+       (b) Program Parameters.--In developing such a program, the 
+     Administrator shall work with the Committee to--
+       (1) identify all Federal and federally funded programs 
+     conducting shoreline delineation and ocean or coastal 
+     mapping, noting geographic coverage, frequency, spatial 
+     coverage, resolution, and subject matter focus of the data 
+     and location of data archives;
+       (2) facilitate cost-effective, cooperative mapping efforts 
+     that incorporate policies for contracting with non-
+     governmental entities among all Federal agencies conducting 
+     ocean and coastal mapping, by increasing data sharing, 
+     developing appropriate data acquisition and metadata 
+     standards, and facilitating the interoperability of in situ 
+     data collection systems, data processing, archiving, and 
+     distribution of data products;
+       (3) facilitate the adaptation of existing technologies as 
+     well as foster expertise in new ocean and coastal mapping 
+     technologies, including through research, development, and 
+     training conducted among Federal agencies and in cooperation 
+     with non-governmental entities;
+       (4) develop standards and protocols for testing innovative 
+     experimental mapping technologies and transferring new 
+     technologies between the Federal Government, coastal state, 
+     and non-governmental entities;
+       (5) provide for the archiving, management, and distribution 
+     of data sets through a national registry as well as provide 
+     mapping products and services to the general public in 
+     service of statutory requirements;
+       (6) develop data standards and protocols consistent with 
+     standards developed by the Federal Geographic Data Committee 
+     for use by Federal, coastal state, and other entities in 
+     mapping and otherwise documenting locations of federally 
+     permitted activities, living and nonliving coastal and marine 
+     resources, marine ecosystems, sensitive habitats, submerged 
+     cultural resources, undersea cables, offshore aquaculture 
+     projects, offshore energy projects, and any areas designated 
+     for purposes of environmental protection or conservation and 
+     management of living and nonliving coastal and marine 
+     resources;
+       (7) identify the procedures to be used for coordinating the 
+     collection and integration of Federal ocean and coastal 
+     mapping data with coastal state and local government 
+     programs;
+       (8) facilitate, to the extent practicable, the collection 
+     of real-time tide data and the development of hydrodynamic 
+     models for coastal areas to allow for the application of V-
+     datum tools that will facilitate the seamless integration of 
+     onshore and offshore maps and charts;
+       (9) establish a plan for the acquisition and collection of 
+     ocean and coastal mapping data; and
+       (10) set forth a timetable for completion and 
+     implementation of the plan referred to in subsection (a).
+
+     SEC. 3. INTERAGENCY COMMITTEE ON OCEAN AND COASTAL MAPPING.
+
+       (a) In General.--The Administrator, within 30 days after 
+     the date of enactment of this Act, shall convene or utilize 
+     an existing interagency committee on ocean and coastal 
+     mapping to implement section 2.
+       (b) Membership.--The committee shall be comprised of senior 
+     representatives from Federal agencies with ocean and coastal 
+     mapping and surveying responsibilities. The representatives 
+     shall be high-ranking officials of their respective agencies 
+     or departments and, whenever possible, the head of the 
+     portion of the agency or department that is most relevant to 
+     the purposes of this Act. Membership shall include senior 
+     representatives from the National Oceanic and Atmospheric 
+     Administration, the Chief of Naval Operations, the United 
+     States Geological Survey, the Minerals Management Service, 
+     the National Science Foundation, the National Geospatial-
+     Intelligence Agency, the United States Army Corps of 
+     Engineers, the Coast Guard, the Environmental Protection 
+     Agency, the Federal Emergency Management Agency, the National 
+     Aeronautics and Space Administration, and other appropriate 
+     Federal agencies involved in ocean and coastal mapping.
+       (c) Chairman.--The committee shall have as its chairman the 
+     representative from the National Oceanic and Atmospheric 
+     Administration. The chairman may create subcommittees chaired 
+     by any member agency of the committee. The full committee may 
+     form working groups to address issues of short duration.
+       (d) Meetings.--The committee shall meet on a quarterly 
+     basis, but each subcommittee and each working group shall 
+     meet on an as-needed basis.
+       (e) Coordination.--The committee shall coordinate 
+     activities, when appropriate, with--
+       (1) other Federal efforts, including the Digital Coast, 
+     Geospatial One-Stop, and the Federal Geographic Data 
+     Committee;
+       (2) international mapping activities;
+       (3) coastal states;
+       (4) user groups through workshops and other appropriate 
+     mechanisms; and
+       (5) representatives of non-governmental entities.
+       (f) Advisory Panel.--The Administrator may convene an ocean 
+     and coastal mapping advisory panel consisting of 
+     representatives from non-governmental entities to provide 
+     input regarding activities of the committee.
+
+     SEC. 4. NOAA INTEGRATED MAPPING INITIATIVE.
+
+       (a) In General.--Not later than 6 months after the date of 
+     enactment of this Act, the Administrator, in consultation 
+     with the Committee, shall develop and submit to the Congress 
+     a plan for an integrated ocean and coastal mapping initiative 
+     within the National Oceanic and Atmospheric Administration.
+       (b) Plan Requirements.--The plan shall--
+       (1) identify and describe all ocean and coastal mapping 
+     programs within the agency, including those that conduct 
+     mapping or related activities in the course of existing 
+     missions, such as hydrographic surveys, ocean exploration 
+     projects, living marine resource conservation and management 
+     programs, coastal zone management projects, and ocean and 
+     coastal observations and science projects;
+       (2) establish priority mapping programs and establish and 
+     periodically update priorities for geographic areas in 
+     surveying and mapping across all missions of the National 
+     Oceanic and Atmospheric Administration, as well as minimum 
+     data acquisition and metadata standards for those programs;
+       (3) encourage the development of innovative ocean and 
+     coastal mapping technologies and applications, such as 
+     Digital Coast, through research and development through 
+     cooperative or other agreements with joint or cooperative 
+     research institutes or centers and with other non-
+     governmental entities;
+       (4) document available and developing technologies, best 
+     practices in data processing and distribution, and leveraging 
+     opportunities with other Federal agencies, coastal states, 
+     and non-governmental entities;
+
+[[Page H8200]]
+
+       (5) identify training, technology, and other resource 
+     requirements for enabling the National Oceanic and 
+     Atmospheric Administration's programs, vessels, and aircraft 
+     to support a coordinated ocean and coastal mapping program;
+       (6) identify a centralized mechanism or office for 
+     coordinating data collection, processing, archiving, and 
+     dissemination activities of all such mapping programs within 
+     the National Oceanic and Atmospheric Administration that 
+     meets Federal mandates for data accuracy and accessibility 
+     and designate a repository that is responsible for archiving 
+     and managing the distribution of all ocean and coastal 
+     mapping data to simplify the provision of services to benefit 
+     Federal and coastal state programs; and
+       (7) set forth a timetable for implementation and completion 
+     of the plan, including a schedule for submission to the 
+     Congress of periodic progress reports and recommendations for 
+     integrating approaches developed under the initiative into 
+     the interagency program.
+       (c) NOAA Joint Ocean and Coastal Mapping Centers.--The 
+     Administrator may maintain and operate up to 3 joint ocean 
+     and coastal mapping centers, including a joint hydrographic 
+     center, which shall each be co-located with an institution of 
+     higher education. The centers shall serve as hydrographic 
+     centers of excellence and may conduct activities necessary to 
+     carry out the purposes of this Act, including--
+       (1) research and development of innovative ocean and 
+     coastal mapping technologies, equipment, and data products;
+       (2) mapping of the United States Outer Continental Shelf 
+     and other regions;
+       (3) data processing for nontraditional data and uses;
+       (4) advancing the use of remote sensing technologies, for 
+     related issues, including mapping and assessment of essential 
+     fish habitat and of coral resources, ocean observations, and 
+     ocean exploration; and
+       (5) providing graduate education and training in ocean and 
+     coastal mapping sciences for members of the National Oceanic 
+     and Atmospheric Administration Commissioned Officer Corps, 
+     personnel of other agencies with ocean and coastal mapping 
+     programs, and civilian personnel.
+       (d) Enhanced Opportunities for Non-Governmental 
+     Contracting.--The Administrator shall continue developing a 
+     strategy for expanding contracting with non-governmental 
+     entities to minimize duplication and take maximum advantage 
+     of non-governmental capabilities in fulfilling the 
+     Administration's mapping and charting responsibilities. 
+     Within 120 days after the date of enactment of this Act, the 
+     Administrator shall transmit a report describing the strategy 
+     developed under this subsection to the Committee on Commerce, 
+     Science, and Transportation of the Senate and the Committee 
+     on Natural Resources of the House of Representatives.
+
+     SEC. 5. INTERAGENCY PROGRAM REPORTING.
+
+       No later than 18 months after the date of enactment of this 
+     Act, and biannually thereafter, the Chairman of the Committee 
+     shall transmit to the Committee on Commerce, Science, and 
+     Transportation of the Senate and the Committee on Natural 
+     Resources of the House of Representatives a report detailing 
+     progress made in implementing this Act, including--
+       (1) an inventory of ocean and coastal mapping data within 
+     the territorial sea and the exclusive economic zone and 
+     throughout the Continental Shelf of the United States, noting 
+     the age and source of the survey and the spatial resolution 
+     (metadata) of the data;
+       (2) an inventory and description of any new Federal or 
+     federally funded programs conducting shoreline delineation 
+     and ocean or coastal mapping since the previous reporting 
+     cycle;
+       (3) identification of priority areas in need of survey 
+     coverage using present technologies;
+       (4) a resource plan that identifies when priority areas in 
+     need of modern ocean and coastal mapping surveys can be 
+     accomplished;
+       (5) the status of efforts to produce integrated digital 
+     maps of ocean and coastal areas;
+       (6) a description of any products resulting from 
+     coordinated mapping efforts under this Act that improve 
+     public understanding of the coasts and oceans, or regulatory 
+     decisionmaking;
+       (7) documentation of minimum and desired standards for data 
+     acquisition and integrated metadata;
+       (8) a statement of the status of Federal efforts to 
+     leverage mapping technologies, coordinate mapping activities, 
+     share expertise, and exchange data;
+       (9) a statement of resource requirements for organizations 
+     to meet the goals of the program, including technology needs 
+     for data acquisition, processing, and distribution systems;
+       (10) a statement of the status of efforts to declassify 
+     data gathered by the Navy, the National Geospatial-
+     Intelligence Agency, and other agencies to the extent 
+     possible without jeopardizing national security, and make it 
+     available to partner agencies and the public;
+       (11) the status of efforts to coordinate Federal programs 
+     with coastal state and local government programs and leverage 
+     those programs; and
+       (12) a description of efforts of Federal agencies to 
+     increase contracting with non-governmental entities.
+
+     SEC. 6. AUTHORIZATION OF APPROPRIATIONS.
+
+       (a) In General.--In addition to the amounts authorized by 
+     section 306 of the Hydrographic Services Improvement Act of 
+     1998 (33 U.S.C. 892d), there are authorized to be 
+     appropriated to the Administrator to carry out this Act--
+       (1) $20,000,000 for fiscal year 2008;
+       (2) $26,000,000 for fiscal year 2009;
+       (3) $32,000,000 for fiscal year 2010;
+       (4) $38,000,000 for fiscal year 2011; and
+       (5) $45,000,000 for each of fiscal years 2012 through 2015.
+       (b) Joint Ocean and Coastal Mapping Centers.--Of the amount 
+     appropriated under subsection (a) for each fiscal year, no 
+     more than 25 percent may be appropriated to carry out section 
+     4(c).
+
+     SEC. 7. DEFINITIONS.
+
+       In this Act:
+       (1) Administrator.--The term ``Administrator'' means the 
+     Administrator of the National Oceanic and Atmospheric 
+     Administration.
+       (2) Coastal state.--The term ``coastal state'' has the 
+     meaning given that term by section 304(4) of the Coastal Zone 
+     Management Act of 1972 (16 U.S.C. 1453(4)).
+       (3) Committee.--The term ``Committee'' means the 
+     Interagency Committee on Ocean and Coastal Mapping 
+     established by section 3.
+       (4) Exclusive economic zone.--The term ``exclusive economic 
+     zone'' means the exclusive economic zone of the United States 
+     established by Presidential Proclamation No. 5030, of March 
+     10, 1983.
+       (5) Non-governmental entities.--The term ``non-governmental 
+     entities'' includes non-governmental organizations, members 
+     of the academic community, and private sector organizations 
+     that provide products and services associated with measuring, 
+     locating, and preparing maps, charts, surveys, aerial 
+     photographs, satellite imagines, or other graphical or 
+     digital presentations depicting natural or manmade physical 
+     features, phenomena, and legal boundaries of the Earth.
+       (6) Ocean and coastal mapping.--The term ``ocean and 
+     coastal mapping'' means the acquisition, processing, and 
+     management of physical, biological, geological, chemical, and 
+     archaeological characteristics and boundaries of ocean and 
+     coastal areas, resources, and sea beds through the use of 
+     acoustics, satellites, aerial photogrammetry, light and 
+     imaging, direct sampling, and other mapping technologies.
+       (7) Outer continental shelf.--The term ``Outer Continental 
+     Shelf'' means all submerged lands lying seaward and outside 
+     of lands beneath navigable waters (as that term is defined in 
+     section 2 of the Submerged Lands Act (43 U.S.C. 1301)), and 
+     of which the subsoil and seabed appertain to the United 
+     States and are subject to its jurisdiction and control.
+       (8) Territorial sea.--The term ``territorial sea'' means 
+     the belt of sea measured from the baseline of the United 
+     States determined in accordance with international law, as 
+     set forth in Presidential Proclamation Number 5928, dated 
+     December 27, 1988.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentleman from 
+Arizona (Mr. Grijalva) and the gentlewoman from Washington (Mrs. 
+McMorris Rodgers) each will control 20 minutes.
+  The Chair recognizes the gentleman from Arizona.
+
+
+                             General Leave
+
+  Mr. GRIJALVA. Mr. Speaker, I ask unanimous consent that all Members 
+have 5 legislative days to revise and extend and include extraneous 
+material on the bill under consideration.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Arizona?
+  There was no objection.
+  Mr. GRIJALVA. Mr. Speaker, I yield myself such time as I may consume.
+  Mr. Speaker, H.R. 2400 would direct the administrator of the National 
+Oceanic and Atmospheric Administration to establish an integrated 
+Federal ocean and coastal mapping plan for the Great Lakes and coastal 
+waters and the territorial sea, the exclusive economic zone and the 
+Continental Shelf. The legislation responds to the U.S. Commission on 
+Ocean Policy's recommendation that the National Oceanic and Atmospheric 
+Administration consolidate and coordinate the Federal Government's 
+mapping activities. A National Research Council study made a similar 
+recommendation.
+  To accomplish this end, H.R. 2400 would coordinate the efforts of all 
+Federal agencies involved in mapping our oceans and coasts. Consistent 
+protocols would be developed across all Federal agencies to collect 
+data and develop maps, instead of various agencies using their own 
+criteria.
+  In addition, the legislation would require Federal agencies to 
+coordinate their efforts. Ultimately, those entities dependent on maps 
+for navigation, national security, scientific research, energy 
+development and location of cultural resources, such as shipwrecks,
+
+[[Page H8201]]
+
+would all greatly benefit. H.R. 2400 will increase the efficiency of 
+our mapping efforts, reduce redundancy and allow data used by one 
+agency to be used again and again by others for multiple purposes.
+  Mr. Speaker, I support this bill and encourage Members to vote for 
+this noncontroversial legislation.
+  Mr. Speaker, I will include for the Record the exchange of letters 
+regarding the Committee on Science and Technology's jurisdictional 
+interest in this legislation.
+
+         House of Representatives, Committee on Science and 
+           Technology,
+                                    Washington, DC, July 20, 2007.
+     Hon. Nick J. Rahall, II,
+     Chairman, Committee on Natural Resources, Washington, DC.
+       Dear Mr. Chairman: I write with regard to H.R. 2400, the 
+     Ocean and Coastal Mapping Integration Act, which was referred 
+     to both the Committee on Natural Resources and the Committee 
+     on Science and Technology on May 21, 2007.
+       As you know, I support passage of the bill, and I do not 
+     intend to object to its consideration on the House floor. I 
+     am therefore willing to waive further consideration of the 
+     bill by the Committee on Science and Technology at this time. 
+     I want to make clear, however, that this waiver does not in 
+     any way serve as a jurisdictional precedent as to our two 
+     committees. Also, I ask that you support my request for 
+     appointment of conferees from the Committee on Science and 
+     Technology if a conference is held on this matter.
+       I request that you send to me a letter confirming our 
+     agreement and that, as part of the consideration of the bill 
+     on the House floor, you insert our two letters in the 
+     Congressional Record.
+           Sincerely,
+                                                      Bart Gordon,
+     Chairman.
+                                  ____
+
+                                         House of Representatives,
+
+
+                               Committee on Natural Resources,
+
+                                    Washington, DC, July 20, 2007.
+     Hon. Bart Gordon,
+     Chairman, Committee on Science and Technology,
+     Washington, DC.
+       Dear Bart: Thank you for your willingness to allow floor 
+     consideration of H.R. 2400, the Ocean and Coastal Mapping 
+     Integration Act, to proceed unimpeded.
+       I appreciate your willingness to waive rights to further 
+     consideration of H.R. 2400, even though your Committee shares 
+     jurisdiction over it and has received an additional referral. 
+     Of course, this waiver does not prejudice any further 
+     jurisdictional claims by your Committee over this legislation 
+     or similar language. Furthermore, I agree to support your 
+     request for appointment of conferees from the Committee on 
+     Science and Technology if a conference is held on this 
+     matter.
+       As you requested, I will insert our two letters in the 
+     Congressional Record as part of the consideration of the bill 
+     on the House floor. Thank you for the cooperative spirit in 
+     which you have worked regarding this matter and others 
+     between our respective committees.
+       With warm regards, I am
+           Sincerely,
+                                               Nick J. Rahall, II,
+                         Chairman, Committee on Natural Resources.
+
+  Mr. Speaker, I reserve the balance of my time.
+  Mrs. McMORRIS RODGERS. Mr. Speaker, I yield myself such time as I may 
+consume.
+  Mr. Speaker, I rise in support of H.R. 2400, the Ocean and Coastal 
+Mapping Integration Act. Chairman Grijalva has adequately explained the 
+bill, which will lead to a more efficient and effective use of ocean 
+data.
+  Ms. BORDALLO. Mr. Speaker, I rise in support of H.R. 2400, the Ocean 
+and Coastal Mapping Integration Act, which I introduced on May 21, 
+2007, and which the Committee on Natural Resources ordered to be 
+favorably reported to the House on June 28, 2007.
+  The surveying and mapping of our coasts and oceans is one of the 
+oldest functions of the Federal Government. In 1807, Thomas Jefferson 
+signed into law an act requiring the President ``to cause a survey to 
+be taken of the coast of the United States . . . together with such 
+other matters as he may deem proper for completing an accurate chart of 
+every part of the coasts.'' Ever since the enactment of that law, the 
+mapping and charting of our coasts and marine waters, including the 
+Great Lakes, continues to be an activity of great national importance.
+  In 2004 the U.S. Commission on Ocean Policy released a report at the 
+request of the President recommending actions needed to improve ocean 
+policy in the United States. Among the suggestions made by the 
+commission was a recommendation that existing Federal mapping 
+activities be consolidated and coordinated, and that the National 
+Oceanic and Atmospheric Administration, NOAA, lead this effort.
+  At the same time, the National Research Council, NRC, completed a 
+study identifying the most pressing national needs for coastal mapping 
+and charting. This study, requested by three of the primary agencies 
+involved in ocean and coastal surveying, identified the same need for 
+coordination. The NRC findings included a need for a consistent spatial 
+framework, increased access to geospatial data and mapping products, 
+and increased inter- and intra-agency communication, cooperation, and 
+coordination.
+  Learning of these recommendations, I introduced H.R. 2400 along with 
+my colleague from South Carolina, the ranking Republican Member of the 
+Subcommittee on Fisheries, Wildlife and Oceans, Congressman Henry 
+Brown, to coordinate and strengthen the efforts of Federal agencies to 
+map our oceans and coasts.
+  The coordination required by this legislation will result in 
+increased efficiency, eliminate redundant mapping efforts, and allow 
+data collected by one agency to be used multiple times by other 
+agencies and stakeholders for myriad purposes.
+  Passage of this legislation will fulfill an important recommendation 
+of the U.S. Commission on Ocean Policy and result in immediate benefits 
+for national security, maritime commerce, navigation, and marine 
+resource, management and scientific research.
+  For these reasons, Mr. Speaker, I ask members on both sides to 
+support passage of this non-controversial bill.
+  Mrs. McMORRIS RODGERS. Mr. Speaker, I yield back the balance of my 
+time.
+  Mr. GRIJALVA. Mr. Speaker, I yield back the balance of my time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from Arizona (Mr. Grijalva) that the House suspend the rules 
+and pass the bill, H.R. 2400, as amended.
+  The question was taken; and (two-thirds being in the affirmative) the 
+rules were suspended and the bill, as amended, was passed.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```
