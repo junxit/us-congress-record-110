@@ -1,0 +1,27 @@
+---
+granule: CRECB-2007-pt14-Pg20013-5
+date: 2007-07-23
+edition: CRECB
+section: SENATE
+page: 20013
+---
+
+# RECOGNIZING INTERIOR, SOUTH DAKOTA
+
+```
+                   RECOGNIZING INTERIOR, SOUTH DAKOTA
+
+● Mr. THUNE. Mr. President, today I wish to recognize Interior, 
+SD. The town of Interior will celebrate the 100th anniversary of its 
+founding this year.
+  Interior, located in Jackson County, was founded in 1907. Since its 
+beginning, Interior has been a strong reflection of South Dakota's 
+values and traditions. As they celebrate this milestone anniversary, I 
+am confident that Interior will continue to thrive and succeed for the 
+next 100 years.
+  I would like to offer my congratulations to the citizens of Interior 
+on this milestone anniversary and wish them continued prosperity in the 
+years to come.●
+
+                          ____________________
+```

@@ -1,0 +1,259 @@
+---
+granule: CRECB-2007-pt14-Pg20091
+date: 2007-07-23
+edition: CRECB
+section: HOUSE
+page: 20091
+---
+
+# HONORING THE LIFE AND ACCOMPLISHMENTS OF RENOWNED ARTIST TOM LEA ON THE 100TH ANNIVERSARY OF HIS BIRTH
+
+```
+HONORING THE LIFE AND ACCOMPLISHMENTS OF RENOWNED ARTIST TOM LEA ON THE 
+                     100TH ANNIVERSARY OF HIS BIRTH
+
+  Mr. DAVIS of Illinois. Mr. Speaker, I move to suspend the rules and 
+agree to the resolution (H. Res. 519) honoring the life and 
+accomplishments of renowned artist Tom Lea on the 100th anniversary of 
+his birth.
+  The Clerk read the title of the resolution.
+  The text of the resolution is as follows:
+
+[[Page 20092]]
+
+
+
+                              H. Res. 519
+
+       Whereas, 100 years ago on July 11, 1907, Tom Lea was born 
+     in El Paso, Texas, to former El Paso Mayor Tom Lea, Sr., and 
+     his wife Zola Utt Lea and spent the majority of his life in 
+     El Paso;
+       Whereas Tom Lea served as an accredited war artist 
+     correspondent for Life magazine during World War II, traveled 
+     over 100,000 miles as an eye-witness reporter, landed with 
+     the First Marines on Peleliu during 1942, and accompanied 
+     American forces in the North Atlantic during 1941, fighter 
+     pilots aboard the USS Hornet in the South Pacific during 
+     1942, and American forces in China during 1943;
+       Whereas many of Tom Lea's paintings from World War II are 
+     in the United States Army Center for Military History in 
+     Washington, DC, and are loaned to exhibitions worldwide;
+       Whereas, when accepting the Republican nomination for 
+     President of the United States in 2000, George W. Bush quoted 
+     Tom Lea about living on the ``sunrise side of the mountain'';
+       Whereas Tom Lea's painting Rio Grande today hangs in the 
+     Oval Office at the White House;
+       Whereas Tom Lea's works are found throughout Washington, DC 
+     and Texas, including in the Rayburn House Office Building, 
+     which displays his portrait of Sam Rayburn; the Smithsonian 
+     American Art Museum; the Dallas Museum of Art; the El Paso 
+     Museum of Art; the University of Texas at El Paso; Texas A&M 
+     University; and the University of Texas at Austin;
+       Whereas Tom Lea painted several notable murals, including 
+     the Texas Centennial mural and, under the Department of 
+     Treasury's Section of Fine Arts mural competition programs, 
+     The Nesters mural for the Benjamin Franklin Post Office in 
+     Washington, DC; the Pass of the North mural for the Federal 
+     Courthouse in El Paso, Texas; the Stampede mural for the 
+     Odessa, Texas Post Office; the Comancheros mural for the 
+     Seymour, Texas Post Office; and the Back Home mural for the 
+     Pleasant Hill, Missouri Post Office;
+       Whereas Tom Lea was also an accomplished author and 
+     illustrator whose works included the two-volume annotated 
+     history The King Ranch (published in 1957), in addition to 
+     four novels and two non-fiction books, of which, The Brave 
+     Bulls (published in 1949) and The Wonderful Country 
+     (published in 1952), were adapted as screenplays for motion 
+     pictures;
+       Whereas Tom Lea during his life was honored with several 
+     awards, including the Navy Distinguished Public Service 
+     Award, the United States Marine Corps' Colonel John W. 
+     Thomason, Jr. Award, and the National Cowboy and Western 
+     Heritage Museum's Great Westerners Award;
+       Whereas President and Mrs. George W. Bush are serving as 
+     Honorary Chairs of the International Advisory Board for the 
+     2007 Tom Lea Centennial Celebration, a month-long series of 
+     events in the Southwest that seeks to ensure that the 
+     richness and diversity of Tom Lea's legacy will nourish 
+     generations to come; and
+       Whereas Tom Lea's war diaries are to be published by Texas 
+     A&M Press in 2008: Now, therefore, be it
+       Resolved,  That the House of Representatives honors the 
+     life and accomplishments of Tom Lea.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentleman from 
+Illinois (Mr. Davis) and the gentleman from Connecticut (Mr. Shays) 
+each will control 20 minutes.
+  The Chair recognizes the gentleman from Illinois.
+
+
+                             General Leave
+
+  Mr. DAVIS of Illinois. Mr. Speaker, I ask unanimous consent that all 
+Members may have 5 legislative days in which to revise and extend their 
+remarks.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Illinois?
+  There was no objection.
+  Mr. DAVIS of Illinois. Mr. Speaker, I yield myself such time as I may 
+consume.
+  Mr. Speaker, as a member of the House Committee on Oversight and 
+Government Reform, I am pleased to join my colleague in the 
+consideration of H. Res. 519, a bill that honors the life and 
+accomplishments of renowned artist Tom Lea on the 100th anniversary of 
+his birth.
+  H. Res. 519, which has 79 cosponsors, was introduced by 
+Representative Silvestre Reyes on June 26, 2007. H. Res. 519 was 
+reported from the Oversight Committee on June 19, 2007, by a voice 
+vote.
+  Mr. Speaker, I commend my colleague, Representative Silvestre Reyes, 
+for seeking to honor the life and accomplishments of renowned artist 
+Tom Lea, and urge the swift passage of this bill.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. SHAYS. Mr. Speaker, I yield myself such time as I may consume.
+  Mr. Speaker, in celebration of the 100th anniversary of the birth of 
+Tom Lea, I ask Members to join me in honoring the life and 
+accomplishments of this remarkable American. Tom Lea was a painter, 
+muralist, illustrator, writer and war correspondent, whose work 
+continues to captivate and inspire us today.
+  Born in El Paso, Texas, in 1907, he showed an early talent for art 
+and left home to study at the Art Institute of Chicago. While this 
+began a pattern of world travel he continued throughout his life, Tom 
+Lea's home was always Texas and the American Southwest. His paintings 
+capture the spirit of the West and show a vibrant life that thrives in 
+seemingly barren land.
+  Lea put his education to good use as a muralist for the Works 
+Progress Administration. His works include the award winning ``The 
+Nesters,'' which adorns the Post Office Department Building here in 
+Washington, and the portrait of Sam Rayburn on display in the Rayburn 
+House Office Building, and I think on display right now in this 
+Chamber. Additionally, the Smithsonian American Art Museum, numerous 
+public buildings in Missouri, and educational and government facilities 
+throughout Texas exhibit his work.
+  In 1942, Time magazine hired Lea to cover the war in the Pacific. 
+Finding paint inadequate to capture the full story, Lea began his 
+career as a novelist while on assignment. He continued writing after 
+the war, and published six works of fiction and nonfiction, including a 
+two-volume annotated history of the King Ranch.
+  Fans of his work are numerous and include President George W. Bush, 
+who honored Lea by using a quote from an autobiography while accepting 
+the Republican nomination for President in 2000. Shortly before his 
+death in January of 2001, Lea had the great satisfaction of delivering 
+one of his paintings, ``Rio Grande,'' to the President, so he could 
+hang it in the Oval Office. The painting remains there today.
+  In addition to great critical acclaim, Lea's lifetime of work has 
+earned him the Navy Distinguished Public Service Award, the United 
+States Marine Corps Colonel John W. Thomason, Jr., Award, and the 
+National Cowboy and Western Heritage Museum's Great Westerners Award.
+  Therefore, let us show our respect and gratitude for this great 
+American by passing H. Res. 519 to honor the life and accomplishments 
+of Tom Lea.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. DAVIS of Illinois. Mr. Speaker, it is my pleasure to yield 2\1/2\ 
+minutes to the gentleman from Texas (Mr. Reyes), the sponsor of this 
+resolution.
+  Mr. REYES. Mr. Speaker, I thank the chairman and the ranking member 
+for their support of this resolution.
+  As a representative of the 16th District of Texas, I rise today in 
+honor of a great El Pasoan and a great American.
+  I have on the floor beside me two pictures of paintings by this great 
+American. His name is Tom Lea. He hails from my district of El Paso, 
+Texas, and has left a lasting impression on the Nation as a whole.
+  One of these paintings, ``Rio Grande,'' this one right here, was 
+specifically chosen, as has been stated by my good friend from 
+Connecticut, by President Bush to hang in the Oval Office. As you can 
+see, this is a beautiful representation of the rugged landscape and the 
+environment of our wonderful Southwest.
+  The other is a portrait of Sam Rayburn. It is probably the most 
+familiar to many of you, as it hangs in the foyer of the Rayburn House 
+Office Building. I venture that you would be hard-pressed to find 
+another artist who could so capture the tenacity and formidable nature 
+of this great Texas lawmaker and former Speaker of the House of 
+Representatives.
+  Mr. Lea's legacy extends beyond the paintings that you see here, and 
+I rise today because this month marks the 100th anniversary of the 
+birth of this acclaimed El Pasoan. The 2007 Tom Lea Centennial 
+Celebration, which is a month-long series of events, is currently 
+underway all along our beautiful Southwest.
+
+[[Page 20093]]
+
+  Mr. Lea is a celebrated illustrator, novelist, historian, war 
+correspondent and muralist. His assignment with Life magazine in the 
+1940s to draw a cavalry trooper at El Paso's Fort Bliss led to his role 
+as an accredited artist correspondent during World War II. Traveling 
+over 100,000 miles through very dangerous and faraway theatres of war, 
+he captured the American forces in the North Atlantic, the South 
+Pacific, China, and Peleliu for the American public and for those of us 
+that appreciate his great artistry today. While overseas, he also 
+painted a portrait of China's Chiang Kai-shek.
+  From painting national and world leaders to his celebrated painting 
+of his wife, Sarah, which includes El Paso's Franklin Mountains as the 
+backdrop; from his critically acclaimed novels to motion pictures based 
+on his written works; from his depictions of the heroism and harrowing 
+circumstances of World War II to his award-winning murals in post 
+offices in El Paso and across the country, Tom Lea has left a lasting 
+impact on our Nation as a whole.
+  Obviously, Tom Lea is a national treasure and a creative genius. I 
+want to thank my 79 colleagues who have signed on as cosponsors to this 
+legislation.
+  So today, Mr. Speaker, I urge all colleagues to join me in honoring 
+him by passing this resolution. My community of El Paso, Texas, was 
+lucky to be home for such an icon, and the Nation as a whole is a 
+richer, more interesting and more beautiful place because of his vision 
+and his mastery.
+
+                              {time}  1645
+
+  Mr. SHAYS. Mr. Speaker, I yield such time as the most distinguished 
+gentleman from Texas (Mr. Sessions) would like to use.
+  Mr. SESSIONS. Mr. Speaker, I thank the gentleman from Connecticut. I 
+also rise with my colleagues who are here from El Paso, Texas, and also 
+the gentleman from Illinois (Mr. Davis) to celebrate the 100th 
+anniversary of Tom Lea's birth. As a person who lived in El Paso, 
+Texas, for a number of years, I also became aware of Tom Lea from 
+living in San Antonio. Much of his artwork was displayed in San Antonio 
+on a regular basis.
+  Tom Lea for many years painted pictures of the mountains and beauty 
+that surrounds not only west Texas, but southern New Mexico also. El 
+Paso is the beginning of what is called The Pass of the North, where 
+two great countries come together, the history of Mexico and the 
+history of the United States, and where these two great countries meet 
+at the Rio Grande River. Tom Lea spent a lot of time writing, talking, 
+thinking, pushing forward thoughts and ideas about these two great 
+nations, and embodied a lot of that in artwork that I have several 
+copies of. I have bought Tom's books over the years.
+  So today it is right and fitting that the United States Congress in 
+its looking back, as we do on a regular basis, over many great 
+Americans who have added not only to the artwork of America and the 
+thought process, but also to the lives that they lived. Tom Lea, a 
+great Texan and American, who added not only a spirit to the men and 
+women who fought for this country in World War II, but also brought 
+that beauty forward in artwork, the Franklin Mountains and places in 
+New Mexico with just stunning beauty that have sustained so many 
+people. It gives us an idea about why America is a great Nation and why 
+we must continue to protect her.
+  Mr. Speaker, I stand today in support of this 100th anniversary of 
+Tom Lea, a great man from El Paso and a great community, and people who 
+loved him a great deal and miss him even more. It is a great day to say 
+thank you to Lady Bird Johnson and Tom Lea, both great Texans, on a 
+beautiful day in Washington, D.C.
+  Mr. SHAYS. Mr. Speaker, I yield back the balance of my time.
+  Mr. DAVIS of Illinois. Mr. Speaker, I have no further requests for 
+time, and I yield back the balance of my time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from Illinois (Mr. Davis) that the House suspend the rules 
+and agree to the resolution, H. Res. 519.
+  The question was taken.
+  The SPEAKER pro tempore. In the opinion of the Chair, two-thirds 
+being in the affirmative, the ayes have it.
+  Mr. DAVIS of Illinois. Mr. Speaker, on that I demand the yeas and 
+nays.
+  The yeas and nays were ordered.
+  The SPEAKER pro tempore. Pursuant to clause 8 of rule XX and the 
+Chair's prior announcement, further proceedings on this motion will be 
+postponed.
+
+                          ____________________
+```
