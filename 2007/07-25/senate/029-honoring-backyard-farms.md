@@ -1,0 +1,69 @@
+---
+granule: CREC-2007-07-25-pt1-PgS9914-3
+date: 2007-07-25
+edition: CREC
+section: SENATE
+page: S9914
+citation: 153 Cong. Rec. S9914
+---
+
+# HONORING BACKYARD FARMS
+
+**Speaking:** Snowe, Olympia J. (S000663) [R-ME]
+
+```
+                        HONORING BACKYARD FARMS
+
+● Ms. SNOWE. Mr. President, I wish to celebrate an exceptional 
+small business from my home State of Maine that is enabling New England 
+consumers to enjoy fresh, locally grown, and healthy tomatoes on a 
+year-round basis. Located in Madison, Backyard Farms is a large-scale 
+tomato producer that has invested over $20 million into what is now 
+Maine's largest building and one of the world's most technologically 
+advanced facilities.
+  Backyard Farms, which operates the largest greenhouse in New England, 
+employs 115 hard-working individuals who collectively yield an 
+astonishing 1 million tomatoes per week--which adds up to 7,700 tons of 
+tomatoes annually. With New Englanders consuming an average of 300 
+million fresh tomatoes per year, Backyard Farms has the potential to 
+capture an extensive share of this market. Backyard Farms' tomatoes are 
+certainly fresh, as it sells its product to stores less than 8 hours 
+away. That means that tomatoes picked one day are on store shelves all 
+across Maine and New England the next.
+  In addition to its magnificent tomatoes, Backyard Farms is striving 
+to make its facility a green--or energy efficient--building by using 
+the most environmentally friendly technology available. The 25-acre 
+greenhouse uses efficient technologies including rainwater reclamation, 
+high-efficiency boilers, and thermal blankets to produce juicy 
+tomatoes. Furthermore, Backyard Farms utilizes natural methods to grow 
+its wonderful produce. Bees take care of the pollination, and tomatoes 
+are kept healthy by implementing biological controls, such as parasitic 
+wraps and ladybugs, rather than pesticides and fungicides. The work of 
+those at Backyard Farms proves that conservation does not necessarily 
+have to hinder effectiveness and efficiency.
+  Backyard Farms prides itself on the quality of its product. On each 
+box of tomatoes shipped to local stores, it is written, ``wicked good 
+tomatoes from right nearby.'' This motto emphasizes Backyard Farms' 
+local nature and its commitment to the community through its highly 
+sustainable business practices. Backyard Farms plans to build 3 to 4 
+additional greenhouses on at least 17 more acres. This would allow 
+Backyard Farms to increase its produce output to include cucumbers, 
+peppers, eggplant, and culinary herbs. Such an expansion would have an 
+immensely positive impact on the Maine economy by adding as many as 200 
+new employees. I look forward to the groundbreaking for this expansion, 
+scheduled to occur later this month.
+  It is particularly inspirational that Backyard Farms has proven that 
+a region known for its cooler temperatures and short growing season can 
+in fact expand its agricultural production by combining advanced 
+technologies with an innovative entrepreneurial spirit. Backyard Farms 
+provides us with a paragon of smart economic development. I commend 
+chief executive officer Peter Sellew, cofounder Arie van der Giessen, 
+and all of the employees of
+
+[[Page S9915]]
+
+Backyard Farm and wish them continued success and prosperity in the 
+future.●
+
+                          ____________________
+```

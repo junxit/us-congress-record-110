@@ -1,0 +1,39 @@
+---
+granule: CREC-2007-07-25-pt1-PgH8404-4
+date: 2007-07-25
+edition: CREC
+section: HOUSE
+page: H8404
+citation: 153 Cong. Rec. H8404
+---
+
+# COMMENDING COLLIN COUNTY SCHOOLS
+
+**Speaking:** Johnson, Sam (J000174) [R-TX]
+
+```
+                    COMMENDING COLLIN COUNTY SCHOOLS
+
+  (Mr. SAM JOHNSON of Texas asked and was given permission to address 
+the House for 1 minute and to revise and extend his remarks.)
+  Mr. SAM JOHNSON of Texas. Mr. Speaker, I rise today to congratulate 
+the prestigious independent school districts in Collin County, Texas, 
+for their sterling reputation and superior education.
+  Forbes Magazine, long-time experts on all things money, recently 
+ranked the public schools in Collin County as second in the entire 
+Nation for the best education for your dollar. What a tremendous 
+distinction.
+  The students' overall average score was 1102 on the college entrance 
+exam, and the schools boast a 92.2 percent graduation rate. This 
+demonstrates that knowledgeable teachers, community pride, parental 
+involvement and top-quality schools are all working together to achieve 
+academic success.
+  I want to personally commend the cities of Allen, Frisco, McKinney, 
+Plano and Wylie and their independent school districts for this 
+exceptional award and national recognition for what they do best, 
+teaching our kids and making the future of Texas and the United States 
+even brighter.
+  Congratulations to all concerned.
+
+                          ____________________
+```
