@@ -1,0 +1,125 @@
+---
+granule: CREC-2007-07-26-pt1-PgE1621-3
+date: 2007-07-26
+edition: CREC
+section: EXTENSIONS
+page: E1621
+citation: 153 Cong. Rec. E1621
+---
+
+# INTRODUCTION OF THE "ARAPAHO-ROOSEVELT NATIONAL FOREST LAND EXCHANGE ACT OF 2007"
+
+**Speaking:** Udall, Mark (U000038) [D-CO]
+
+```
+ INTRODUCTION OF THE ``ARAPAHO-ROOSEVELT NATIONAL FOREST LAND EXCHANGE 
+                             ACT OF 2007''
+
+                                 ______
+                                 
+
+                            HON. MARK UDALL
+
+                              of colorado
+
+                    in the house of representatives
+
+                        Wednesday, July 25, 2007
+
+  Mr. UDALL of Colorado. Madam Speaker, today I am introducing the 
+``Arapaho-Roosevelt National Forests Land Exchange Act of 2007''.
+  This bill will facilitate a fair exchange of lands on the Arapaho-
+Roosevelt National Forest near Boulder, CO, between the Forest Service 
+and the Sugar Loaf Fire District. The Fire District is seeking this 
+exchange so that they can maintain and upgrade their fire stations 
+serving the Sugar Loaf community and other nearby communities and 
+properties--areas that are in the wildland/urban interface and thus at 
+risk of wildfires. In fact, these fire stations serve the area that was 
+burned in the Black Tiger Fire in 1989. That fire was the motivation 
+for the Sugar Loaf community to invest more strongly in fire 
+protection. The Fire District has grown a lot over the years, and will 
+be celebrating its 40th anniversary this August.
+  The bill relates to two fire stations. Station 1 was acquired by the 
+Fire District through an original mining claim under the 1872 mining 
+laws. In 1967, a public meeting was held on this property to establish 
+a fire district and modify the old school building on the site into a 
+firehouse to hold a fire truck and other firefighting equipment. On May 
+14, 1969, the U.S. Forest Service approved a special use permit, which 
+allowed the fire department to use both the firehouse and approximately 
+5 acres of the property under it. The special use permit was reissued 
+on August 11, 1994, with a life of 10 years.
+  In 1970, the fire department applied for a special use permit to 
+operate and maintain a second firehouse--station 2--on Sugar Loaf Road. 
+The original permit was approved on in 1970, and had an expiration date 
+of December 31, 1991. The permit boundary included 2 acres.
+  The special use permit issued in 1994 combined the two permits for 
+stations 1 and 2 into one. The new permit for station 2 reduced the 
+permit area to one acre, because the area of impact and existing 
+improvements did not exceed one acre.
+  The Fire District entered into discussions with the Forest Service 
+about a land swap. In August 1997, the Fire District filed an 
+application to acquire the property under stations 1 and 2 pursuant to 
+the Small Tracts Act (STA). The STA allows for transfers of small 
+mineral fractions by the sale of property for market
+
+[[Page E1622]]
+
+value, or by the exchange of properties of nearly equal value. The 
+application proposed trading a mining claim surrounded by National 
+Forest, for approximately 3 acres under station 1 and 1.5 acres under 
+station 2.
+  The Fire District worked in good faith to comply with the STA. In 
+November 2002, officials from the Fire District met with officials from 
+the Forest Service. Upon review of the STA application, the Forest 
+Service's concluded that the parcel under station 2 did not qualify for 
+a land exchange and that the Fire District would have to pursue a new 
+special use permit for the property under station 2. As a result, the 
+Fire District is interested in securing ownership of the land under 
+these stations through this exchange legislation.
+
+  The Fire District has occupied and operated these fire stations on 
+these properties for over 30 years, and, if they can secure ownership, 
+the lands will continue to be used as sites for fire stations. The Fire 
+District has made a strong, persistent, good faith effort to acquire 
+the land under the stations through administrative means and has 
+demonstrated its sincere commitment to this project by expending its 
+monetary resources and the time of its staff to satisfy the 
+requirements set forth by the Forest Service.
+  However, those efforts have not succeeded and it has become evident 
+that legislation is required to resolve the situation.
+  The Fire District is willing to trade the property it owns for the 
+property under the stations. However, the Fire District is firm in its 
+position that it wants land under both stations, and that the amount of 
+land must be adequate to satisfy both its current and anticipated 
+needs.
+  Under the bill, the land exchange will proceed if the Fire District 
+offers to convey acceptable title to a specified parcel of land 
+amounting to about 5.17 acres in an unincorporated part of Boulder 
+County within National Forest boundaries between the communities of 
+Boulder and Nederland. In return, the land--about 5.08 acres--where the 
+two fire stations are located will be transferred to the Fire District.
+  The lands transferred to the Federal government will become part of 
+the Arapaho-National Forest and managed accordingly.
+  The bill provides that the Forest Service shall determine the values 
+of all lands involved through appraisals in accordance with Federal 
+standards. If the lands conveyed by the Fire District are not equal in 
+value to the lands where the fire stations are located, the Fire 
+District will make a cash payment to make up the difference. If the 
+lands being conveyed to the Federal government are worth more than the 
+lands where the fire stations are located, the Forest Service can 
+equalize values by reducing the lands it receives or by paying to make 
+up the difference or by a combination of both methods. The bill 
+requires the Fire District to pay for the appraisals and any necessary 
+land surveys.
+  The bill permits the Fire District to modify the fire stations 
+without waiting for completion of the exchange if the Fire District 
+holds the Federal government harmless for any liability arising from 
+the construction work and indemnifies the Federal government against 
+any costs related to the construction or other activities on the lands 
+before they are conveyed to the Fire District.
+  Madam Speaker, this is a relatively minor bill but one that is 
+important to the Fire District and the people it serves. I think it 
+deserves enactment without unnecessary delay.
+
+                          ____________________
+```

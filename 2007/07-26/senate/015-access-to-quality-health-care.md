@@ -1,0 +1,100 @@
+---
+granule: CREC-2007-07-26-pt1-PgS10054
+date: 2007-07-26
+edition: CREC
+section: SENATE
+page: S10054
+citation: 153 Cong. Rec. S10054
+---
+
+# ACCESS TO QUALITY HEALTH CARE
+
+**Speaking:** Cornyn, John (C001056) [R-TX]
+
+```
+[[Page S10054]]
+                     ACCESS TO QUALITY HEALTH CARE
+
+  Mr. CORNYN. Mr. President, I wish to talk about health care because 
+we are going to be on this issue next week. It seems to me there are 
+three things we all care deeply about in this country, no matter who we 
+are or from where we come, and that is access to good quality education 
+for all of our children, a job for people who want to work, and access 
+to quality health care.
+  The fact is, in my State, unfortunately, we have a health care crisis 
+because about 25 percent of the population in my State does not have 
+health insurance. So where they go for their health care is to the 
+emergency rooms of the local hospitals, and that creates a lot of 
+problems because that is the most expensive health care, the emergency 
+room. People who go to the emergency room for their primary health 
+care, if it is not truly an emergency but they have nowhere else to 
+go--and you can hardly blame them--what it does is causes a lot of 
+emergency rooms to go on divert status, and so true emergencies have to 
+go to a farther off location to get care, thus entailing some risk and 
+potentially even loss of life as a result of the delays.
+  We have to tackle this problem. I know there are a lot of good ideas 
+out there. We will be talking about some of those ideas next week when 
+we talk about the reauthorization of the SCHIP program, the State 
+Children's Health Insurance Program, that is important to my State and 
+important to insuring children around the country.
+  The problem that has grown up in SCHIP is that, unfortunately, 
+Congress's original intent to provide health insurance to low-income 
+children, up to 200 percent of the poverty level, has simply been 
+overtaken by some States. I believe it is a total of 14 States now that 
+use that money, those Federal funds, Federal taxpayer funds, to 
+actually insure adults, obviously not part of Congress's intent, which 
+was to focus on low-income children.
+  Additionally, the original concept of SCHIP was dedicated to low-
+income children up to 200 percent of poverty level. We have seen 
+proposals where some have said it ought to go up to as much as 400 
+percent of the poverty level, which, for a family of four, can mean an 
+income over $80,000 a year and a mandate that SCHIP be used to provide 
+health insurance for people with incomes in excess of $80,000 a year 
+for a family of four.
+  The challenge I think we have is to make a decision between whether 
+we are going to continue to encourage access to private health 
+insurance, a market-driven response, or whether we are going to simply 
+say the Federal Government is going to take this whole matter over and 
+we are going to have a single-payer system, a national system for 
+providing health care. That, to me, is a very important debate.
+  Frankly, from my standpoint, I believe every American needs the 
+resources and the ability to purchase health insurance. I think going 
+to a single-payer, Washington-controlled health care system is simply 
+not the way to go. There are a number of ways we can approach this, and 
+I hope this important debate we will have next week will address these 
+issues.
+  I think we have to end Tax Code discrimination against those who 
+cannot get health insurance through their employer by giving a tax 
+break to every American so they can purchase their own health 
+insurance. Part of the problem is, people are frequently bound to an 
+employer. They are afraid to leave that employer lest they be precluded 
+from getting another health insurance policy because of previous 
+existing conditions. So many people simply lack the portability of 
+their health insurance, the ability to take it from job to job. In 
+effect, they are bound almost to the extent of involuntary servitude 
+with their current employer. We have to change that by creating 
+portability.
+  I think we need to give individuals the ability to take control of 
+their health care needs and to continue to preserve something they 
+think is very important, and that is the relationship between the 
+patient and their health care provider, along with the freedom to 
+choose what is in the best interest of that individual patient, rather 
+than to have the Government determine for them what kind of health care 
+they are going to get and perhaps ration it and create a huge, 
+expensive bureaucracy to do so.
+  I also hope part of this debate on reauthorization of the State 
+Children's Health Insurance Program will allow us to look at what the 
+ultimate goals are of some of the proponents. One concern I have is 
+that the dramatic expansion of funding proposed by the Finance 
+Committee--in language we haven't yet seen--will be a precursor to one 
+more incremental step to a Government-controlled, Washington-centered 
+health care bureaucracy, and that will make it harder and harder for us 
+to provide the opportunity for individuals to purchase their own health 
+insurance, along with the right to choose.
+  The PRESIDING OFFICER. The Senator's time has expired.
+  Mr. CORNYN. Mr. President, parliamentary inquiry: My understanding 
+was that you cited 30 minutes of morning business.
+  The PRESIDING OFFICER. There is a 10-minute time limit per Senator.
+
+                          ____________________
+```
