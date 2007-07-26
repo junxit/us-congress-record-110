@@ -1,0 +1,455 @@
+---
+granule: CRECB-2007-pt15-Pg20990
+date: 2007-07-26
+edition: CRECB
+section: SENATE
+page: 20990
+---
+
+# HONORING THE PRESIDENT OF THE REPUBLIC OF CYPRUS
+
+```
+            HONORING THE PRESIDENT OF THE REPUBLIC OF CYPRUS
+
+  Mr. BAYH. Mr. President, I believe that Members of the Senate and 
+House of Representatives will be pleased that two of our distinguished 
+former colleagues were this month honored by President of the Republic 
+of Cyprus, Tassos Papadopoulos.
+  In ceremonies on July 3 at the Presidential Palace in Nicosia, the 
+capital of Cyprus, President Papadopoulos bestowed on Senator Sarbanes 
+and Congressman Brademas the Grand Cross of the Order of Makarios III.
+  John Brademas, who served for 22 years as Representative in Congress 
+from the District centered in South Bend, IN, was author or coauthor of 
+much of the legislation enacted during those years in support of 
+schools, colleges, and universities; libraries and museums; the arts 
+and the humanities. In his last 4 years, he was Majority Whip of the 
+House of Representatives.
+  Paul Sarbanes served in the House of Representatives for 6 years and 
+the Senate for 30 years. As chair of the Senate Committee on Banking 
+and Urban Affairs, he was principal author of the Sarbanes-Oxley Act of 
+2002, to ensure integrity in corporate governance.
+  Both John Brademas and Paul Sarbanes were Rhodes scholars and so 
+studied at Oxford University, from which both earned degrees. John 
+Brademas also graduated from Harvard University and Paul Sarbanes from 
+Princeton University and the Harvard Law School.
+  John Brademas was the first native-born American of Greek descent 
+elected to Congress, House or Senate; Paul Sarbanes was the first 
+Greek-American elected to the Senate. I note that his son, John 
+Sarbanes, was last November in Maryland elected to Paul's former seat 
+in the House of Representatives.
+  While in Nicosia, both former Senator Sarbanes and former Congressman 
+Brademas also visited the HSPH-Cyprus International Initiative for the 
+Environment and Public Health, a program associated with the Harvard 
+School of Public Health.
+  At this point in the Record, I ask unanimous consent that the remarks 
+of President Papadopoulos of the Republic of Cyprus at the Presidential 
+Palace, Nicosia, Cyprus, on July 3, 2007, be printed in the Record.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+   Remarks of President Tassos Papadopoulos of the Republic of Cyprus
+
+       Senator Sarbanes; Congressman Brademas; Your Eminence, 
+     Archbishop Chrysostomos; Your Eminence, Archbishop Demetrios; 
+     Ambassador Schlicher; distinguished friends and guests,
+       It gives me great pleasure to welcome you tonight at the 
+     Presidential Palace in order to pay tribute to two long-
+     standing and unwavering supporters of the people of the whole 
+     of Cyprus, Senator Paul Sarbanes and Congressman John 
+     Brademas.
+       I have had the privilege of knowing both these 
+     distinguished gentlemen for many years and I consider them to 
+     be among the most ardent, tireless and unflinching supporters 
+     for the just cause of Cyprus in the United States.
+       Senator Sarbanes and Congressman Brademas ably represented 
+     the people in their respective constituencies for decades, as 
+     well as successfully advancing the aspirations and objectives 
+     of the Hellenic American Community. I can think of no other 
+     two people who have done more for the nurturing of closer 
+     bonds between the people of Cyprus and the United States of 
+     America. I have always held the view and have declared on 
+     several public occasions that the first loyalty of Americans 
+     of Greek origin is to their host country, the United States 
+     of America. When, however, the best interests of the United 
+     States and the rules of international law and practice are 
+     not incompatible with the special interests of Greece and of 
+     Cyprus, we hope and expect that they will lean towards and 
+     publicly remember their ethnic roots. Both gentlemen have 
+     admirably honoured these principles.
+       For all these reasons, the Government of the Republic of 
+     Cyprus has decided to pay tribute to their life-long 
+     commitment to the Rule of Law, ``justice for Cyprus'', for 
+     the condemnation of the Turkish invasion of Cyprus, for the 
+     end of the occupation of Cyprus soil by Turkish troops, for 
+     the end of the massive violations of human rights in Cyprus 
+     by Turkey and for promoting a just, functional and lasting 
+     solution to the Cyprus issue.
+
+
+                             JOHN BRADEMAS
+
+       John Brademas was born in Mishawaka, Indiana, of Greek 
+     parentage. He was elected to the United States Congress in 
+     1958 as a Representative of Indiana's Third District, thus 
+     becoming the first U.S.-born Greek-American to be elected to 
+     the United States Congress and paving the way for, among 
+     others, Paul Sarbanes, Paul Tsongas and Mike Bilirakis.
+       He represented his district for twenty-two years (1959-
+     1981), the last four as Majority Whip for the Democratic 
+     Party. Upon leaving Congress, Dr. Brademas served as 
+     President of New York University from 1981 to 1992 and has 
+     since been President Emeritus. He has been integral in 
+     establishing a close-knit relationship between Cyprus and New 
+     York University, examples of which are the current 
+     excavations in Yeronisos under Professor Joan Connelly and 
+     the Cyprus Global Professorship on History and Theory of 
+     Justice, which I will have the honour of inaugurating in 
+     September.
+
+
+                             PAUL SARBANES
+
+       Paul Sarbanes was born in Salisbury, Maryland, of Greek 
+     parents. After serving in the Maryland House of Delegates for 
+     four years, he was elected to the United States Congress in 
+     1970 and served in the House of Representatives for six 
+     years.
+       In 1976 he was elected to the United States Senate for the 
+     State of Maryland and was re-elected four more times, serving 
+     for a total of thirty years, before retiring this January. As 
+     Chair of the Senate Banking and Urban Affairs Committee in 
+     2001-02, he was the main architect of the 2002 Sarbanes-Oxley 
+     Act, which effectuated one of the most significant changes to 
+     United States Securities laws in over 70 years.
+       As impressive as their domestic record, it is the steadfast 
+     support for the just cause of Cyprus of Senator Sarbanes and 
+     Congressman Brademas which brings us here today.
+       Immediately after the Turkish invasion of 1974, John 
+     Brademas and Paul Sarbanes, with the help of the late 
+     Congressman Benjamin Rosenthal of New York and Senator Thomas 
+     Eagleton of Missouri, who recently passed away, led the 
+     successful effort of enforcing an arms embargo against 
+     Turkey. As Dr. Brademas put it himself, Paul Sarbanes and he 
+     were not the Greek lobby, but the ``rule of law lobby''.
+       This last notion forms the cornerstone of their support 
+     towards Cyprus. Both men have for many years advocated for a 
+     just solution to the Cyprus problem, not only because it is a 
+     Hellenic issue, but because it is
+
+[[Page 20991]]
+
+     essentially a rule of law and human rights issue, under 
+     United States law. Only a solution based on the relevant 
+     Security Council Resolutions and in accordance with the 
+     principles of international law, as well as the Acquis 
+     Communautaire of the European Union, can secure a permanent, 
+     viable and stable solution, which will benefit all Cypriots. 
+     Such a solution, which is not tailor-made for the 
+     satisfaction of outside parties, will enhance the stability 
+     of the Eastern Mediterranean and is conducive to the 
+     interests of the United States.
+
+
+                            THE RULE OF LAW
+
+       John Brademas and Paul Sarbanes consistently advanced the 
+     cause of Cyprus throughout their political careers. In so 
+     doing, they have been the embodiment of values cherished by 
+     America, such as the rule of law, respect for human rights 
+     and democratic governance, which are, alas, all too often 
+     swept aside for reasons of political expedience.
+       Tonight's honourees, have been exceptional leaders of the 
+     Greek-American Community. I would be remiss if I did not 
+     dedicate a few words towards the Hellenic diaspora in the 
+     United States. The President of the Cyprus Federation of 
+     America, Mr. Peter Papanicolaou, is amongst us today, so I 
+     take this opportunity to convey through him the sincere 
+     appreciation of the Cypriot people for the Community's 
+     tireless support and to urge you, dear Peter, to continue 
+     with your efforts until Cyprus is free and freely reunified, 
+     in its territory, society, institutions and economy.
+       I would also like to welcome again to Cyprus the spiritual 
+     leader of the community, His Eminence, Archbishop Demetrios, 
+     and to thank him for his efforts to stop the pillage and 
+     destruction of Cyprus' religious and cultural heritage in the 
+     occupied area.
+       Before I conclude my remarks, I wish to once again express 
+     the heartfelt gratitude and appreciation of the Government 
+     and people of Cyprus to Paul Sarbanes and John Brademas for 
+     their unwavering commitment, all these years, and to wish 
+     them the best of luck for all their future endeavors.
+       Mr. BAYH. Mr. President, at this point in the Record, I ask 
+     unanimous consent that the remarks of former Congressman 
+     Brademas on this occasion be printed in the Record. Senator 
+     Sarbanes responded extemporaneously on this occasion.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+ Remarks of Dr. John Brademas President Emeritus, New York University 
+     and Former Member, Indiana, 1959-1981, United States House of 
+                            Representatives
+
+       President Papadopoulos; Your Eminence, Archbishop 
+     Chrysostomos; Your Eminence, Archbishop Demetrios; Ambassador 
+     Schlicher; distinguished guests and friends all, I want to 
+     express to you, Mr. President, my deepest appreciation for 
+     the high honor that you do my colleague and valued friend, 
+     Senator Paul Sarbanes, and me with the award of the Grand 
+     Cross of the Order of Makarios III.
+       I want to recognize as well Dr. Phillip Mitsis, Alexander 
+     S. Onassis Professor of Hellenic Culture and Civilization and 
+     Professor of Classics at New York University, and his wife, 
+     Sophia Kalantzakos, a Member of the Parliament of Greece.
+       Let me here also thank the distinguished Ambassador of the 
+     United States to the Republic of Cyprus, His Excellency, 
+     Ronald L. Schlicher, for having this week so graciously 
+     received Senator and Mrs. Sarbanes, my wife and me.
+       It was nearly one year ago, on September 8, 2006, that I 
+     had the privilege of welcoming to New York University the 
+     distinguished President of the Republic of Cyprus, His 
+     Excellency, Tassos Papadopoulos, and now I am pleased to be 
+     in the country he so faithfully serves as leader.
+       I hope, Mr. President, and ladies and gentlemen, you will 
+     allow me a few words to say why this honor is so meaningful 
+     to me.
+       As most of you know, I am the first native-born American of 
+     Greek origin elected to the Congress of the United States--my 
+     late father was born in Kalamata.
+       I was for 22 years a Member of the House of 
+     Representatives, from the State of Indiana.
+       In Congress, I was a member of the committee with 
+     responsibility for education legislation and so helped write 
+     all the laws enacted during those two decades and two years 
+     to support schools, colleges and universities; libraries and 
+     museums; the arts and the humanities. And in my last four 
+     years, I served as the Majority Whip of the House of 
+     Representatives, part of the Leadership of the Democratic 
+     Party.
+       In 1981 I became president of New York University or, as we 
+     call it, NYU, the largest private university in my country. I 
+     am now president emeritus.
+
+
+                         SENATOR PAUL SARBANES
+
+       I am so pleased that my distinguished friend, United States 
+     Senator Paul Sarbanes of Maryland, is here with his lovely 
+     wife, Christine, and am, of course, delighted that my 
+     brilliant and beautiful physician wife, Mary Ellen, has 
+     joined me for this ceremony.
+       And I want to thank my dear cousin, Anna Bredima-
+     Savopoulou, Counsel for the Union of Greek Shipowners, for 
+     having flown here from Athens to be on hand for this 
+     ceremony. I am very proud of Anna's accomplishments.
+       Paul Sarbanes, as you know, for many years a leading member 
+     of the United States Senate and, indeed, the first Greek-
+     American elected to the Senate, and a valued ally in the 
+     struggle for justice for Cyprus, is someone I have often 
+     described as ``a modern Pericles''.
+       I am delighted that Paul's son, John Sarbanes, was last 
+     November elected to represent Paul's former constituency in 
+     the House of Representatives even as I'm pleased to say that 
+     only a few weeks ago, Michael Sarbanes, another son of Paul 
+     and Christine, has announced his candidacy for the presidency 
+     of the City Council of Baltimore. Obviously, politics runs in 
+     the Sarbanes family!
+       I'm glad, too, to welcome some other friends from my days 
+     in Washington, including the distinguished former Ambassador 
+     of Cyprus to the United States, Andreas Jacovides, and his 
+     wife, Pamela, as well as two great champions of the Hellenic 
+     cause in my country and, indeed, the world, Andrew Athens and 
+     Andrew Manatos.
+       I'm pleased also that two vigorous voices of the Cypriot 
+     community in the United States are here today, Phillip 
+     Christopher and Panicos Papanicolaou.
+       I'm glad as well to greet a colleague from New York 
+     University, an outstanding scholar, Professor Joan Breton 
+     Connelly, leader of the excavation of Yeronisos Island and of 
+     an international team there. Professor Connelly has just 
+     published a magnificent book, Portrait of a Priestess: Women 
+     and Ritual in Ancient Greece, which has won splendid reviews 
+     in the New York Times and New York Review of Books.
+       And I must salute that eminent archaeologist, Professor 
+     Vassos Karageorghis, director of the Anastasios G. Leventis 
+     Foundation.
+
+
+                           LINKS WITH CYPRUS
+
+       I have still other links with Cyprus.
+       I serve on the international advisory counsel of The Pharos 
+     Trust, that splendid chamber of cultural activity in Cyprus, 
+     led by Garo Keheyan. And as a graduate of Harvard University, 
+     I'm pleased also to serve on the Executive Council of the 
+     Cyprus International Initiative for the Environment and 
+     Public Health--Harvard School of Public Health. And as I'm 
+     recalling connections, I'm glad again to see a respected 
+     Cypriot businessman, George Paraskevaides, and his wife, 
+     Thelma.
+       Tonight I recall that it was nearly ten years ago in June 
+     of 1998, that I had the privilege of visiting the University 
+     of Cyprus and being received by its distinguished Rector, 
+     Professor Dr. Miltiades Chacholiades, and of addressing 
+     members of the Cyprus Chamber of Commerce & Industry and 
+     Cyprus American Business Association.
+       Of course, particularly meaningful, all the more so in 
+     light of the decoration Paul Sarbanes and I are today 
+     receiving, is the trip Paul and I made in August 1977 when we 
+     came here for the funeral of the great leader of the Cypriot 
+     people, His Eminence, Archbishop Makarios.
+       The connection, however, with Cyprus of which some of you 
+     may be most aware is the one of which I shall say a few words 
+     now.
+       In 1967, when a group of Greek colonels overthrew young 
+     King Constantine of Greece, I, the only Greek-American in 
+     Congress, sharply attacked the coup. I refused to visit 
+     Greece or go to the Greek Embassy in Washington and I 
+     publicly opposed U.S. military aid to Greece, arguing that as 
+     Greece was a member of NATO, which championed freedom, 
+     democracy and the rule of law, none of which values the Greek 
+     military junta supported, the United States should not be 
+     sending them arms.
+
+
+                       TURKISH INVASION OF CYPRUS
+
+       In July 1974, the junta attempted to overthrow Archbishop 
+     Makarios, President of Cyprus, an action that brought the 
+     downfall of the colonels but also triggered two invasions of 
+     Cyprus by Turkish armed forces, forces equipped with weapons 
+     supplied by the United States, a legal ``No-No''.
+       So I led a group of several Members of the House of 
+     Representatives, including then Representative Sarbanes, to 
+     call on the Secretary of State, Henry Kissinger, and we told 
+     him that as American law mandated an immediate halt to 
+     further shipment of arms to any country using American 
+     weapons for other than defensive purposes, he should enforce 
+     the law and impose an embargo on further U.S. arms to Turkey.
+       As this was the same week that Richard Nixon resigned the 
+     presidency, I reminded Secretary Kissinger that the reason 
+     Mr. Nixon was on his way in exile to California was that he 
+     had not respected the laws of the land or the Constitution of 
+     the United States.
+       ``You should do so,'' I told Kissinger.
+       He and the new President, Gerald R. Ford, refused to 
+     enforce the law, and, therefore, we in Congress did.
+       I remind you that the United States has a separation-of-
+     powers constitutional system, not a parliamentary system! So 
+     in 1974, Congress voted an embargo on sending further 
+     American weapons to Turkey. As I have from time to time heard 
+     criticisms, in respect of the role of ``the Greek lobby'' in 
+     Congress, I observe that when we voted the embargo on further 
+     U.S. arms to Turkey, there were only five of us of Greek 
+     origin in Congress, all in the House of Representatives: John
+
+[[Page 20992]]
+
+     Brademas, Paul Sarbanes, Peter Kyros, Gus Yatron--all 
+     Democrats, all of whom supported the embargo--and one 
+     Republican, Skip Bafalis, who voted against it. There were at 
+     that time no Americans of Greek descent in the Senate.
+       Accordingly, this so-called ``Greek lobby'' was effective 
+     because of the validity of our arguments and, if I may say 
+     so, of our work to generate support for our position not only 
+     among Greek-Americans across the country but among other 
+     Americans who shared our views.
+
+
+                       ``THE RULE OF LAW LOBBY''
+
+       We were ``The Rule of Law Lobby''!
+       I shall not here take time to review with you my subsequent 
+     experience when President Jimmy Carter, to my distress, as I 
+     generally supported his Administration, called on Congress to 
+     support lifting the embargo on Turkey despite the fact that 
+     there had been no action to resolve the Cyprus question.
+       Here I must pay tribute to my friend of many years, Costa 
+     Carras, founder in London of ``Friends of Cyprus'' who has 
+     continued to call attention to the issue that concerns us 
+     all--justice for Cyprus. In my view, finding a just 
+     resolution for Cyprus is an indispensable requirement as the 
+     European Union considers the application for membership of 
+     Turkey even as I believe there are other commitments Turkey 
+     must make if it wishes to join the EU.
+       First, of course, is that Turkey comply with the so-called 
+     Copenhagen criteria, which include respect for minorities, 
+     respect for human rights, respect for decent treatment of 
+     peoples.
+       Certainly it is not rational that a European Union member-
+     state militarily occupy another EU member-state, and Cyprus 
+     is now a member of the European Union.
+       As today there are over 40,000 Turkish armed forces in 
+     Cyprus, their continued presence, if Turkey were in the 
+     European Union, would be an offense to common sense.
+       I add that there are an estimated 160,000 Turkish settlers 
+     in northern Cyprus while there are only 100,000 Turkish 
+     Cypriots!
+       A second point: It is also unreasonable for one member of 
+     the European Union to refuse to give diplomatic recognition 
+     to the existence of another member, and as we all know, 
+     Turkey has refused to recognize the Republic of Cyprus.
+       So these then are two of the conditions--removal of Turkish 
+     troops and diplomatic recognition of Cyprus--that it seems to 
+     me must be met by the Government of Turkey as it seeks to 
+     join the European Union and take advantage of the benefits of 
+     such membership.
+       If a just settlement on Cyprus is one issue related to 
+     Turkey's desire to join the European Union, there is another 
+     of which I shall say a word.
+
+
+                   ATTACKS ON ECUMENICAL PATRIARCHATE
+
+       Three years ago, His Eminence, Archbishop Demetrios, 
+     Primate of the Greek Orthodox Church in America, testified on 
+     Capitol Hill before the United States Helsinki Commission. 
+     His Eminence and religious leaders of other traditions voiced 
+     their concern about the systematic efforts on the part of 
+     Turkey to undermine the Orthodox Church and the Ecumenical 
+     Patriarchate.
+       I cite, by way of example, the expropriation by Turkish 
+     authorities of properties of Christian Orthodox communities, 
+     the refusal by the Turkish Government to accord recognition 
+     as a legal entity to the Ecumenical Patriarchate, the 
+     shutdown of the Halki School of Theology and other attacks on 
+     religious minorities--Greek Orthodox, Armenian Orthodox, 
+     Roman Catholics, Jews.
+       For an impressive analysis of Turkish persecution of 
+     religious minorities, I refer you to the report issued only 
+     in May of this year by the United States Commission on 
+     International Religious Freedom.
+       And I could add the powerful statement on religious freedom 
+     made by Congressman Tom Lantos of California, chairman of the 
+     Committee on Foreign Affairs of the United States House of 
+     Representatives, also last May. Chairman Lantos sent a letter 
+     to Turkish Prime Minister Erdogan urging him to take several 
+     steps to liberalize Turkey's policies toward the Ecumenical 
+     Patriarchate, once and for all.
+       Forty-two of Chairman Lantos' Committee colleagues, 
+     Democrats and Republicans, signed the letter urging the 
+     Turkish Government to stop trying to bully the Ecumenical 
+     Patriarchate into extinction.
+       You here better than I can speak of the desecration of 
+     Greek Orthodox churches in Turkish-occupied Cyprus.
+       Let me conclude. As one who in the year 2001, in an address 
+     at the Bosphorous University in Turkey, said that I wanted to 
+     see a democratic Turkey, Turkey part of Europe and Turkey in 
+     the European Union, provided that country comply with the 
+     Copenhagen criteria, including respect for human rights, I 
+     must tell you that in 1974, when Paul Sarbanes, our 
+     colleagues and I in Congress voted an embargo on further 
+     American arms to Turkey, we made clear that for us this 
+     decision was a matter of respecting the rule of law--a point 
+     I have made earlier.
+       Paul Sarbanes and I, to repeat, were leaders of ``The Rule 
+     of Law Lobby''!
+       Paul Sarbanes and I and many of our former colleagues in 
+     Congress--and I regret that I cannot include the present 
+     President of the United States in this regard--will continue 
+     to call on respect for the laws of our own country even as we 
+     will continue to urge justice for the brave people of Cyprus.
+       President Papadopoulos, thank you again for the great honor 
+     that you do Senator Sarbanes and me.
+
+                          ____________________
+```

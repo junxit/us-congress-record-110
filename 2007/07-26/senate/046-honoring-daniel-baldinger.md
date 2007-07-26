@@ -1,0 +1,48 @@
+---
+granule: CRECB-2007-pt15-Pg20999
+date: 2007-07-26
+edition: CRECB
+section: SENATE
+page: 20999
+---
+
+# HONORING DANIEL BALDINGER
+
+```
+                       HONORING DANIEL BALDINGER
+
+● Mr. LAUTENBERG. Mr. President, today I wish to pay tribute to 
+a valued friend, Daniel Baldinger, who passed away on July 4, 2007. 
+Throughout his life he displayed a special kindness and a deep 
+commitment to his friends and family. His spontaneous humor and wit 
+made for a personality to which people were quickly attracted. He was 
+multilingual, able to communicate in French, Italian, and Spanish among 
+other languages as well. I enjoyed his company and looked forward to 
+our times together. Dan, though creative and artistic, was also a 
+skilled executive and presided over a family business started in 1955, 
+which he quickly expanded into a booming business. The company, Louis 
+Baldinger & Sons, became one of the leading companies in the lighting 
+industry. Under Dan's leadership, Louis Baldinger & Sons' products were 
+obtained by some of the countries most prestigious architects and 
+designers.
+  While Dan achieved substantial success in his business ventures; he 
+would be most proud of the breadth of friendships and loving 
+relationships he shared with his family. He was a devoted and loving 
+husband to his wife Marjorie of 48 years and together they enjoyed a 
+wonderful family life. Dan was a proud father of his son Howard and 
+daughter Toby, about whom he constantly bragged.
+  Dan was a caring man with deep intellectual curiosity and myriad 
+interests. He was a person of various talents and abilities including 
+cooking, which he did with flourish and gusto. At any given moment, one 
+could find him discussing--in one of the many languages he spoke--
+baseball, his plans for the Design Industries Foundation Fighting AIDS, 
+of which he was the national chairman, or his completion of the New 
+York Marathon in 4 hours and 28 minutes.
+  While Dan is no longer with us, his memory will carry on. He lived 
+life to the fullest and was a compassionate man who acted with 
+integrity and decency. Dan touched so many lives and all of those that 
+had the pleasure of knowing him will miss him greatly, including my 
+wife Bonnie and me.●
+
+                          ____________________
+```

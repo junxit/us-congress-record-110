@@ -1,0 +1,61 @@
+---
+granule: CRECB-2007-pt15-Pg20902
+date: 2007-07-26
+edition: CRECB
+section: SENATE
+page: 20902
+---
+
+# IMMIGRATION
+
+```
+                              IMMIGRATION
+
+  Mr. CORNYN. Mr. President, last evening the majority leader and I had 
+an exchange on the Senate floor with regard to a proposed amendment by 
+our side that would enhance Federal spending on border security 
+measures and interior enforcement by $3 billion. While it is fair to 
+say there was virtually universal support on this side of the aisle, 
+there was some objection on the other side of the aisle, so that 
+amendment was defeated.
+  Then the majority leader came back with a proposal that would strip 
+some of the language from that amendment, but nevertheless would commit 
+$3 billion to border security. I told the majority leader that I 
+believed it should also include a way to spend that money not just on 
+the border but also for interior enforcement of our immigration laws. 
+In particular, I mentioned the sad phenomenon of roughly 600,000 
+absconders, people who have been ordered deported and who have simply 
+gone underground rather than obey that lawful order from a court, or 
+people who have actually been deported and then reentered the country 
+after they have been deported. Both of those categories of individuals 
+are known as absconders. They are, under the Immigration and 
+Naturalization Act, felons.
+  I thought it was important that if we were going to be serious about 
+enforcing our immigration laws we not just deal with the border, as 
+important as that is, but we also deal with interior enforcement.
+  We were unable to reach an agreement last night, but I am pleased to 
+say the majority leader was generous enough to call me last night and 
+to tell me he wanted to look more closely at the language we had 
+proposed. I take it from some of his remarks this morning on the floor 
+that it is likely we will be able to reach some sort of agreement that 
+will see those funds in this bill, $3 billion, where the Federal 
+Government will finally do what it has advertised and promised to do 
+for a long time, and that is to actually put the resources behind 
+border security and enforcement of our immigration laws, rather than 
+promise a lot and deliver very little.
+  I am grateful to the majority leader for working with me on that 
+issue. I am hopeful Senator Graham, who was the principal proponent of 
+the border security amendment yesterday that I was proud to cosponsor, 
+will be back here at 10:30 a.m. when we get back on the bill to talk 
+about that amendment. I hope we can reach an agreement. It will go a 
+long way toward beginning to regain the lost confidence and trust of 
+the American people when it comes to our broken immigration system.
+  If there is one diagnosis I would make from our immigration debate 
+over the last few weeks, it has been that people do not trust the 
+Federal Government to actually do what it promises to do in this area. 
+Where we have to start is on a firm foundation of border security and 
+interior enforcement and from that build to a more comprehensive 
+approach that deals with all aspects of the problem.
+
+                          ____________________
+```
