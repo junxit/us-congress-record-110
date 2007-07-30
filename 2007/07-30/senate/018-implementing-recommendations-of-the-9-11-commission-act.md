@@ -1,0 +1,159 @@
+---
+granule: CRECB-2007-pt15-Pg21275
+date: 2007-07-30
+edition: CRECB
+section: SENATE
+page: 21275
+---
+
+# IMPLEMENTING RECOMMENDATIONS OF THE 9/11 COMMISSION ACT
+
+```
+        IMPLEMENTING RECOMMENDATIONS OF THE 9/11 COMMISSION ACT
+
+  Mr. KOHL. Madam President, I wish to discuss several provisions in 
+the conference bill, H.R. 1, Implementing Recommendations of the 9/11 
+Commission Act of 2007. As chairman of the Special Committee on Aging, 
+I wish to thank Senators Lieberman, Collins, Dodd, and Shelby for 
+working with me and my staff on provisions that will protect seniors in 
+the event of an emergency or disaster.
+  It has been nearly 2 years since our Nation reeled from the tragic 
+and shameful images of seniors abandoned during the aftermath of 
+Hurricane Katrina. Sadly, we now know that 71 percent of the people who 
+died were older than 60. Last year, the Special Committee on Aging held 
+a hearing to examine how prepared the Nation is to care for our seniors 
+in the event of a national emergency. What we learned was 
+disheartening.
+  We learned that our Nation is woefully unprepared to meet the unique 
+needs of our seniors in the event of a terrorist attack, natural 
+disaster, or other emergency. Cookie-cutter emergency plans are of 
+little use to seniors, especially those who depend on others for 
+assistance in their daily lives. We need specific plans, programs, and 
+information for all seniors facing emergencies.
+  That is why I teamed up with Senator Coleman to continue to work with 
+the committees of jurisdiction to ensure that the Departments of 
+Homeland Security and Transportation place seniors on the forefront of 
+their emergency planning agenda. These provisions are an important step 
+toward ensuring that seniors are not overlooked but are protected when 
+the next national emergency occurs.
+  I thank Senators Lieberman and Collins again for working with us to 
+include two important provisions in titles I and IV that will address 
+emergency preparedness and planning for older individuals.
+  The first provision we have successfully included amends the Homeland 
+Security Act of 2002 to ensure that as State, local, and tribal 
+governments develop their mass-evacuation plans they include specific 
+procedures to inform the elderly before and during an evacuation. This 
+will send a strong signal to States and communities that are engaged in 
+emergency planning that seniors must be a priority and cannot be 
+forgotten or ignored during mass evacuations. This will also assist 
+older individuals and their families in appropriately preparing for an 
+evacuation during an emergency or other disaster.
+  The second provision we have included amends the Post-Katrina 
+Emergency Management Reform Act of 2006 to ensure that the National 
+Exercise Program is designed to address the unique needs of older 
+individuals. The National Exercise Program was originally created to 
+test and evaluate our Nation's level of preparedness and capability to 
+prevent, protect against, respond to, and recover from national 
+disasters. Such testing and evaluation will allow emergency management 
+entities to effectively identify, assess,
+
+[[Page 21276]]
+
+and improve vulnerabilities at the State, local, and tribal levels. 
+This provision will keep older individuals on the forefront of national 
+emergency planning.
+  I thank Chairman Dodd and Ranking Member Shelby again for working 
+with us to successfully include and expand upon our original provision 
+in title XIV, supported by the American Public Health Association, 
+which would ensure that public transportation workers and other related 
+employees are trained to meet the evacuation needs of seniors in the 
+event of a crisis. The Secretary of Homeland Security will establish a 
+program to conduct security exercises, which will be scaled to meet the 
+needs of specific transportation systems and must take into account the 
+needs of seniors who utilize those systems. Additionally, another 
+provision in this title will ensure that transportation agencies 
+receiving grant funding in high-risk areas have mandatory security 
+plans in place that must include appropriate evacuation and 
+communication measures for the elderly as a component of each agency's 
+plan. Both provisions are particularly important since so many of our 
+seniors utilize public transportation for access to their everyday 
+needs. Furthermore, only public transportation has the capacity to move 
+millions of people and provide first responders with critical support 
+in major evacuations of urban areas.
+  Madam President, these 4 provisions will go a long way in ensuring 
+that our seniors are taken care of if we have another national 
+emergency or disaster. Hurricanes Katrina and Rita taught us many 
+painful lessons that should never be forgotten. I will not forget, and 
+I intend to pursue additional legislation aimed at explicitly 
+safeguarding the needs of America's seniors in the event of an 
+emergency. The time to act to protect our seniors is now.
+  Mr. FEINGOLD. Madam President, I want to add my thoughts to the 
+debate on the conference report accompanying the Improving America's 
+Security Act of 2007.
+  First, I want to preface my remarks by applauding the chairman and 
+ranking member of the Homeland Security and Governmental Affairs 
+Committee for their work on this important bill. This bill makes 
+crucial and long overdue improvements in transportation security, 
+critical infrastructure protection and emergency response capabilities. 
+There is no higher priority than protecting homeland security and this 
+bill is a key component in that effort.
+  I am particularly pleased that the Federal Agency Data Mining 
+Reporting Act is included in this bill as Section 804. I have been 
+working on this legislation for a number of years with Senator Sununu, 
+Senator Leahy, and Senator Akaka. Many law-abiding Americans are 
+understandably concerned about the specter of secret government 
+programs analyzing vast quantities of public and private data about 
+their pursuits, in search of patterns of suspicious activity. Four 
+years after we first learned about the Defense Department's program 
+called Total Information Awareness, there is still much Congress does 
+not know about the Federal Government's work on data mining. This bill 
+is an important step in allowing Congress to conduct oversight of any 
+such programs or related research development efforts.
+  I supported the provision in the Senate bill which mandates the 
+declassification of the aggregate amount of the intelligence budget. It 
+is unfortunate that this provision was watered down during the 
+conference process to permit the President to waive this requirement if 
+the disclosure of this information would harm national security. The 9/
+11 Commission found that ``when even aggregate categorical numbers 
+remain hidden it is hard to judge priorities and foster 
+accountability.'' I concur with the Commission, that aggregate budget 
+figures ``provid[e] little insight into U.S. intelligence sources and 
+methods.'' Sharing this information with the American people will 
+provide a greater level of transparency and accountability and in the 
+end make us more secure.
+  I am pleased that this bill includes provisions to ensure proper 
+oversight of homeland security grants. The bill requires regular 
+auditing of homeland security grant funds to ensure that they funds are 
+spent appropriately and effectively. I will continue to work with my 
+colleagues to improve oversight of homeland security funding.
+  The conference report also includes important nonproliferation 
+provisions. It would establish a Presidential coordinator for the 
+prevention of WMD proliferation and terrorism. Currently, there is no 
+point person in the Federal Government in charge of coordinating 
+nonproliferation initiatives and efforts to prevent nuclear terrorism. 
+We face a variety of worldwide terrorist threats. One of the most 
+serious of those threats is the possibility that terrorists could 
+smuggle fissile materials into the United States. This provision is an 
+important contribution to our efforts to secure these materials and 
+prevent the proliferation of weapons of mass destruction.
+  I must note that one provision of this bill troubles me greatly. That 
+is the so-called John Doe provision concerning immunity for citizens 
+making tips of possible terrorist threats and government officials 
+acting on those tips. This provision was not in the bill that was 
+passed in the Senate, nor was it in the bill that passed the House. It 
+was apparently inspired by a lawsuit filed after six Muslim imams were 
+told to get off a plane they had boarded in Minneapolis, but the 
+Judiciary Committee never had the opportunity to study it or perfect 
+it. Regardless of its merit, this provision should have received more 
+careful consideration by the Senate. I am deeply concerned that as 
+written this provision appears to endorse racial, ethnic, and religious 
+discrimination. The best way to prevent terrorism is through solid law 
+enforcement and intelligence work, not through scare tactics or racial 
+profiling.
+  I voted for this bill because it makes key changes to address 
+security needs. However, our Nation's vulnerabilities demand more and I 
+will continue to work to ensure that our vital homeland security needs 
+are met.
+
+                          ____________________
+```

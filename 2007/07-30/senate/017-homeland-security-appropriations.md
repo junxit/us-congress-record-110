@@ -1,0 +1,187 @@
+---
+granule: CRECB-2007-pt15-Pg21274
+date: 2007-07-30
+edition: CRECB
+section: SENATE
+page: 21274
+---
+
+# HOMELAND SECURITY APPROPRIATIONS
+
+```
+                    HOMELAND SECURITY APPROPRIATIONS
+
+  Mr. BAUCUS. Madam President, last week when the Senate considered the 
+Homeland Security Appropriations Bill, I offered an amendment, numbered 
+2406, with my good friend and partner from Montana, Jon Tester. Our 
+amendment would bar funds appropriated in the Homeland Security 
+appropriations bill from being used to establish a national ID card.
+  Benjamin Franklin once said, ``They that can give up essential 
+liberty to obtain a little temporary safety deserve neither liberty nor 
+safety.''
+  Generations of Americans have fought for both our liberty and safety.
+  America's Founders sought the freedom to lead their lives as they 
+chose--freedom of religion, speech, and assembly. Freedom, above all 
+other motives, led them to cross the ocean find a new home in America.
+  Whether defending our liberty from British colonial governors, Nazi 
+aggression, or today's Islamic radicals, Americans have never tired in 
+their effort to stand up in defense of our liberty.
+  But sometimes the threat to liberty is not as obvious as a red-coated 
+army or a German panzer division. Sometimes, the threat is much harder 
+to see but just as dangerous.
+  The threat I speak of today is a national ID card.
+  A national ID card may sound harmless to some. Indeed, a number of 
+politicians have called for giving every citizen a national ID card. 
+They argue that a national identification card would make it harder for 
+terrorists to use fake identification to enter the country.
+  But a national ID card has the potential to be abused. Such a card 
+could become a system of identity papers, databases, status and 
+identity checks, and Federal surveillance used to track and control 
+individuals' movements and activities. It could, in effect, create an 
+internal U.S. passport.
+  Some have argued that a national ID is essential to protecting 
+Americans from terrorism. I strongly disagree.
+  In response to the 9/11 Commission's recommendations, Congress passed 
+the Intelligence Reform and Terrorism Prevention Act of 2004. This act 
+provided a number of improvements to our Nation's driver's licenses.
+  I support these reasonable efforts to secure our State driver's 
+licenses from terrorists. However, a national ID card would just give 
+Government bureaucrats another chance to meddle in the private lives of 
+regular law-abiding Americans.
+  Just to get on a plane, go in a Federal building, or drive down the 
+road, you would have to have the permission of some bureaucrat in 
+Washington.
+  If a national ID card were established, we would be right back here 
+on the Senate floor debating whether citizens would be required to 
+carry them at all times or pondering what citizens are allowed to do 
+without a national ID card.
+  A National ID card would be a terrible loss of freedom in this 
+country.
+  Foreign countries with the worst civil liberties records in the world 
+require their citizens to carry a national ID at all times. They have 
+legal punishments for people caught without their IDs.
+  Take Zimbabwe, for example. They passed a law in November which 
+required all citizens to carry a national ID. Citizens face a fine or 
+imprisonment if they refuse to carry the ID.
+  History has taught us that national ID cards can lead to dangerous 
+and destructive government policies. National ID cards played important 
+roles in the genocides of both Nazi Germany and Rwanda.
+  The apartheid-era Government of South Africa used national 
+identification documents as internal passports to oppress the country's 
+native population.
+  Clearly, a national ID would be wrong for the United States. I am 
+proud to say my home State of Montana would be the first to reject any 
+effort to impose this sort of system.
+  Montana's leadership has spoken, and I have heard them loud and 
+clear; get the Federal Government out of the business of telling the 
+States how to produce driver's licenses and ID cards.
+  My friend, Montana's Governor Brian Schweitzer, signed a law in April 
+that bans Montana's Department of Motor Vehicles from enforcing the 
+requirements of the Real ID act. Republicans and Democrats alike in 
+Montana's Legislature have voted unanimously to reject Real ID. I am 
+proud of Montana's vigilant stand against the Federal Government's 
+encroachment.
+  It is wrong for politicians in Washington to burden State authorities 
+with excessive regulations. We must allow our States to take 
+initiatives as well. We should never try to micromanage them. They know 
+how to do their job.
+  Madam President this is not a partisan issue. Organizations from the 
+left, the ACLU, join hands with groups from the right, the NRA, and 
+raise serious concerns about the establishment of a national ID card.
+  I urge my colleagues to join the chorus of Americans and support this 
+amendment.
+  Mr. FEINGOLD. Madam President, I was pleased to support the fiscal 
+year 2008 Homeland Security appropriations bill. Our national security 
+strategy needs to adapt in order to meet new and emerging threats while 
+ensuring those in charge of protecting us have the resources they need. 
+I am pleased to support the current Homeland Security appropriations 
+bill which includes many important measures to keep our communities 
+safe.
+  The Senate unanimously accepted my amendment to improve the Safe 
+Skies program that I established a few years ago. The amendment will 
+encourage the Transportation Security Administration and the airlines 
+to better implement legislation I authored that
+
+[[Page 21275]]
+
+allows first responders to volunteer to help flight crews in the event 
+of an onboard emergency.
+  The bill would increase funding for State fire fighter and emergency 
+management grants. Along with a bipartisan coalition of Senators, I 
+wrote to Senate appropriators earlier in the year asking that they 
+increase funding for these important grants. The appropriators agreed 
+with our recommendations and recommended $700,000,000 for fire fighter 
+grants and $300,000,000 for emergency management performance grants. 
+These funds will help State and local agencies obtain the equipment and 
+training they need to protect us against terrorist incidents and 
+natural disasters.
+  I was disappointed that an amendment I cosponsored to fund 
+decontamination units for the National Guard's Weapons of Mass 
+Destruction Civil Support Teams, WMD-CST, did not receive a vote. As a 
+result of legislation I authored, every State in this Nation now has a 
+functional WMD-CST. The Department of Defense recently announced that 
+it will soon finalize the certifications of all of these teams. I will 
+continue to work to ensure that the National Guard receives the funds 
+it needs to perform its homeland security operations.
+  The bill would appropriate the funds needed to hire 3,000 additional 
+border patrol agents. This important provision will help us secure our 
+borders and restore credibility to our immigration system. While I was 
+deeply disappointed that the Senate was unable to reach a bipartisan 
+compromise to implement comprehensive immigration reform, I am pleased 
+that the bill will help improve our border security. I also supported 
+an amendment offered by Senator Graham to appropriate an additional $3 
+billion for additional border agents, infrastructure and technology. I 
+was concerned that the amendment was not offset and that it authorized 
+building 700 miles of fencing, which has not been demonstrated to be a 
+realistic or cost-effective method of securing the border. However, I 
+supported the amendment because the personnel, infrastructure, and 
+technology provisions represent important steps toward border security, 
+which is one of our top homeland security priorities.
+  The bill would permit States to enact chemical security regulations 
+that are stronger than Federal regulations. Chemical security 
+regulations are an urgent homeland security priority, and I support the 
+ability of the States to set tougher standards.
+  Wisconsin residents and Americans across the country are concerned 
+about the serious backlog in passport application process. This bill 
+would delay the implementation of the Western Hemisphere Travel 
+Initiative to keep the backlog from increasing until we have a chance 
+to resolve this issue.
+  I voted to table an amendment offered by Senator Alexander that would 
+have reduced funding for border, port and air security in order to 
+provide increased funding for implementation of the REAL ID Act. That 
+act is deeply flawed. While I am concerned that it remains an unfunded 
+priority, I am also concerned that, if we head down the road of funding 
+this misguided policy, the Senate will not take the necessary steps to 
+reform the REAL ID Act. Moreover, the National Governors Association 
+has estimated that the cost of implementing the REAL ID Act could reach 
+$11 billion, which means that the increased funding provided by this 
+amendment, $400 million, would do little to address the unfunded 
+mandate of REAL ID while taking away money for pressing homeland 
+security priorities. I will continue to push for reform of the REAL ID 
+Act, to provide for proper funding of any Federal mandate in the 
+reformed act, and to ensure that the implementation of the act is not 
+rushed.
+  We are still spending almost twice as much on Iraq as is allocated 
+for homeland security, diplomacy, and international assistance 
+combined. The billions we spend each month in Iraq could be better 
+invested in the protection of critical infrastructure and our system of 
+national preparedness and response that failed in the wake of Hurricane 
+Katrina. As we consider the defense appropriation this fall, I 
+encourage my colleagues to take a broader view when it comes to our 
+national security priorities and make the tradeoffs that must be made.
+  This bill would significantly increase spending on homeland security. 
+I do not take lightly a decision to vote in favor of spending the 
+taxpayers' money. Fiscal responsibility is one of my highest 
+priorities, but it is imperative that we provide the resources needed 
+to combat al-Qaida and its affiliates and protect the country.
+  I am pleased that the bill would appropriate funds to double the 
+frequency of spot checks at regulated port facilities across the 
+country, to conduct vulnerability assessments at 10 high risk ports, to 
+create a radiation detection test center to help scan cargo and to 
+purchase and install explosives detection equipment at airports. Much 
+more remains to be done. I will continue to work to ensure that our 
+national security strategies address the range of threats we face and 
+properly prioritizes homeland security.
+
+                          ____________________
+```
