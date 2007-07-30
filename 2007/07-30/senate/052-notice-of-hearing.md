@@ -1,0 +1,41 @@
+---
+granule: CREC-2007-07-30-pt1-PgS10320
+date: 2007-07-30
+edition: CREC
+section: SENATE
+page: S10320
+citation: 153 Cong. Rec. S10320
+---
+
+# NOTICE OF HEARING
+
+**Speaking:** Bingaman, Jeff (B000468) [D-NM]
+
+```
+                           NOTICE OF HEARING
+
+                                 ______
+                                 
+
+               COMMITTEE ON ENERGY AND NATURAL RESOURCES
+
+  Mr. BINGAMAN. Mr. President, I would like to announce for the 
+information of the Senate and the public that a hearing has been 
+scheduled before the Committee on Energy and Natural Resources. The 
+hearing will be held on August 14, 2007, at 9:30 a.m., at the Clovis-
+Carver Library, North Annex, located at 701 N. Main Street in Clovis, 
+NM.
+  The purpose of the hearing is to receive testimony on the Bureau of 
+Reclamation's implementation of the Rural Water Supply Act of 2006, and 
+Federal, State, and local efforts to plan and develop the Eastern New 
+Mexico Rural Water Supply Project.
+  Because of the limited time available for the hearing, witnesses may 
+testify by invitation only. However, those wishing to submit written 
+testimony for the hearing record should send it to the Committee on 
+Energy and Natural Resources, United States Senate, Washington, DC 
+20510-6150, or by email to Gina_W<span class="__cf_email__" data-cfemail="4f2a26213c3b202c240f2a212a3d2836613c2a212e3b2a61282039">[email protected]</span>.
+  For further information, please contact Michael Connor at (202) 224-
+5479 or Gina Weinstock at (202) 224-5684.
+
+                          ____________________
+```

@@ -1,0 +1,1600 @@
+---
+granule: CREC-2007-07-30-pt2-PgH8940-2
+date: 2007-07-30
+edition: CREC
+section: HOUSE
+page: H8940
+citation: 153 Cong. Rec. H8940
+---
+
+# LILLY LEDBETTER FAIR PAY ACT OF 2007
+
+**Speaking:** Miller, George (M000725) [D-CA], McKeon, Howard P. "Buck" (M000508) [R-CA], Andrews, Robert E. (A000210) [D-NJ], Blackburn, Marsha (B001243) [R-TN], DeLauro, Rosa L. (D000216) [D-CT], Keller, Ric (K000361) [R-FL], Woolsey, Lynn C. (W000738) [D-CA], Wilson, Joe (W000795) [R-SC], Hirono, Mazie K. (H001042) [D-HI], Biggert, Judy (B001232) [R-IL], Norton, Eleanor Holmes (N000147) [D-DC], Foxx, Virginia (F000450) [R-NC], Nadler, Jerrold (N000002) [D-NY], Granger, Kay (G000377) [R-TX], Scott, Robert C. "Bobby" (S000185) [D-VA], Bachmann, Michele (B001256) [R-MN], Wasserman Schultz, Debbie (W000797) [D-FL], Pearce, Stevan (P000588) [R-NM], Kline, John (K000363) [R-MN], Stark, Fortney Pete (S000810) [D-CA], Larson, John B. (L000557) [D-CT], Loebsack, David (L000565) [D-IA], Baca, Joe (B001234) [D-CA], Ruppersberger, C. A. Dutch (R000576) [D-MD], Holt, Rush (H001032) [D-NJ]
+
+**Measures:** H.Res. 579, H.R. 1338, H.R. 2660, H.R. 2831
+
+```
+                  LILLY LEDBETTER FAIR PAY ACT OF 2007
+
+  Mr. GEORGE MILLER of California. Mr. Speaker, pursuant to House 
+Resolution 579, I call up the bill (H.R. 2831) to amend title VII of 
+the Civil Rights Act of 1964, the Age Discrimination in Employment Act 
+of 1967, the Americans With Disabilities Act of 1990, and the 
+Rehabilitation Act of 1973 to clarify that a discriminatory 
+compensation decision or other practice that is unlawful under such 
+Acts occurs each time compensation is paid pursuant to the 
+discriminatory compensation decision or other practice, and for other 
+purposes, and ask for its immediate consideration.
+  The Clerk read the title of the bill.
+  The text of the bill is as follows
+
+                               H.R. 2831
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Ledbetter Fair Pay Act of 
+     2007''.
+
+     SEC. 2. FINDINGS.
+
+       Congress finds the following:
+       (1) The Supreme Court in Ledbetter v. Goodyear Tire & 
+     Rubber Co., No. 05-1074 (May 29, 2007), significantly impairs 
+     statutory protections against discrimination in compensation 
+     that Congress established and that have been bedrock 
+     principles of American law for decades. The Ledbetter 
+     decision undermines those statutory protections by unduly 
+     restricting the time period in which victims of 
+     discrimination can challenge and recover for discriminatory 
+     compensation decisions or other practices, contrary to the 
+     intent of Congress.
+       (2) The limitation imposed by the Court on the filing of 
+     discriminatory compensation claims ignores the reality of 
+     wage discrimination and is at odds with the robust 
+     application of the civil rights laws that Congress intended.
+       (3) With regard to any charges of discrimination under any 
+     law, nothing in this Act is intended to preclude or limit an 
+     aggrieved person's right to introduce evidence of unlawful 
+     employment practices that have occurred outside the time for 
+     filing a charge of discrimination.
+
+     SEC. 3. DISCRIMINATION IN COMPENSATION BECAUSE OF RACE, 
+                   COLOR, RELIGION, SEX, OR NATIONAL ORIGIN.
+
+       Section 706(e) of the Civil Rights Act of 1964 (42 U.S.C. 
+     2000e-5(e)) is amended by adding at the end the following:
+       ``(3)(A) For purposes of this section, an unlawful 
+     employment practice occurs, with respect to discrimination in 
+     compensation in
+
+[[Page H8941]]
+
+     violation of this title, when a discriminatory compensation 
+     decision or other practice is adopted, when an individual 
+     becomes subject to a discriminatory compensation decision or 
+     other practice, or when an individual is affected by 
+     application of a discriminatory compensation decision or 
+     other practice, including each time wages, benefits, or other 
+     compensation is paid, resulting in whole or in part from such 
+     a decision or other practice.
+       ``(B) In any action under this title with respect to 
+     discrimination in compensation, the Commission, the Attorney 
+     General, or an aggrieved person, may for purposes of filing 
+     requirements, challenge similar or related instances of 
+     unlawful employment practices with respect to discrimination 
+     in compensation occurring after an aggrieved person filed a 
+     charge without filing another charge with the Commission.
+       ``(C) In addition to any relief authorized by 1977a of the 
+     Revised Statutes (42 U.S.C. 1981a), liability may accrue and 
+     an aggrieved person may obtain relief as provided in section 
+     (g)(1), including recovery of back pay for up to two years 
+     preceding the filing of the charge, where the unlawful 
+     employment practices that have occurred during the charge 
+     filing period are similar or related to unlawful employment 
+     practices with regard to discrimination in compensation that 
+     occurred outside the time for filing a charge.''.
+
+     SEC. 4. DISCRIMINATION IN COMPENSATION BECAUSE OF AGE.
+
+       Section 7(d) of the Age Discrimination Act of 1967 (29 
+     U.S.C. 626(d)) is amended--
+       (1) in the first sentence--
+       (A) by redesignating paragraphs (1) and (2) as 
+     subparagraphs (A) and (B), respectively; and
+       (B) by striking ``(d)'' and inserting ``(d)(1)'';
+       (2) in the third sentence, by striking ``Upon'' and 
+     inserting the following:
+       ``(2) Upon''; and
+       (3) by adding at the end the following:
+       ``(3)(A) For purposes of this section, an unlawful practice 
+     occurs, with respect to discrimination in compensation in 
+     violation of this Act, when a discriminatory compensation 
+     decision or other practice is adopted, when a person becomes 
+     subject to a discriminatory compensation decision or other 
+     practice, or when a person is affected by application of a 
+     discriminatory compensation decision or other practice, 
+     including each time wages, benefits, or other compensation is 
+     paid, resulting in whole or in part from such a decision or 
+     other practice.
+       ``(B) In any action under this Act with respect to 
+     discrimination in compensation, the Secretary or an aggrieved 
+     person, may for purposes of filing requirements, challenge 
+     similar or related instances of unlawful employment practices 
+     with respect to discrimination in compensation occurring 
+     after an aggrieved person filed a charge without filing 
+     another charge with the Secretary.''.
+
+     SEC. 5. APPLICATION TO OTHER LAWS.
+
+       (a) Americans With Disabilities Act of 1990.--The amendment 
+     made by section 3 shall apply to claims of discrimination in 
+     compensation brought under title I and section 503 of the 
+     Americans with Disabilities Act of 1990 (42 U.S.C. 12111 et 
+     seq., 12203), pursuant to section 107(a) of such Act (42 
+     U.S.C. 12117(a)), which adopts the powers, remedies, and 
+     procedures set forth in section 706 of the Civil Rights Act 
+     of 1964 (42 U.S.C. 2000e-5).
+       (b) Rehabilitation Act of 1973.--The amendments made by 
+     section 3 shall apply to claims of discrimination in 
+     compensation brought under sections 501 and 504 of the 
+     Rehabilitation Act of 1973 (29 U.S.C. 791, 794), pursuant 
+     to--
+       (1) sections 501(g) and 504(d) of such Act (29 U.S.C. 
+     791(g), 794(d)), respectively, which adopt the standards 
+     applied under title I of the Americans with Disabilities Act 
+     of 1990 for determining whether a violation has occurred in a 
+     complaint alleging employment discrimination; and
+       (2) paragraphs (1) and (2) of section 505(a) of such Act 
+     (29 U.S.C. 794a(a)) (as amended by subsection (c)).
+       (c) Conforming Amendments.--
+       (1) Rehabilitation act of 1973.--Section 505(a) of the 
+     Rehabilitation Act of 1973 (29 U.S.C. 794a(a)) is amended--
+       (A) in paragraph (1), by inserting after ``(42 U.S.C. 
+     2000e-5 (f) through (k))'' the following: ``(and the 
+     application of section 706(e)(3) (42 U.S.C. 2000e-5(e)(3)) to 
+     claims of discrimination in compensation)''; and
+       (B) in paragraph (2), by inserting after ``1964'' the 
+     following: ``(42 U.S.C. 2000d et seq.) (and in subsections 
+     (e)(3) of section 706 of such Act (42 U.S.C. 2000e-5), 
+     applied to claims of discrimination in compensation)''.
+       (2) Civil rights act of 1964.--Section 717 of the Civil 
+     Rights Act of 1964 (42 U.S.C. 2000e-16) is amended by adding 
+     at the end the following
+       ``(f) Section 706(e)(3) shall apply to complaints of 
+     discrimination in compensation under this section.''.
+       (3) Age discrimination act of 1967.--Section 15(f) of the 
+     Age Discrimination in Employment Act of 1967 (29 U.S.C. 
+     633a(f)) is amended by striking ``of section'' and inserting 
+     ``of sections 7(d)(3) and''.
+
+     SEC. 6. EFFECTIVE DATE.
+
+       This Act, and the amendments made by this Act, take effect 
+     as if enacted on May 28, 2007 and apply to all claims of 
+     discrimination in compensation under title VII of the Civil 
+     Rights Act of 1964 (42 U.S.C. 2000e et seq.), the Age 
+     Discrimination in Employment Act of 1967 (29 U.S.C. 621 et 
+     seq.), title I and section 503 of the Americans with 
+     Disabilities Act of 1990, and sections 501 and 504 of the 
+     Rehabilitation Act of 1973, that are pending on or after that 
+     date.
+
+  The SPEAKER pro tempore (Mr. Johnson of Georgia). Pursuant to House 
+Resolution 579, the amendment in the nature of a substitute printed in 
+the bill is adopted and the bill, as amended, is considered read.
+  The text of the bill, as amended, is as follows
+
+                               H.R. 2831
+
+       [Strike out all after the enacting clause and insert the 
+     part printed in italic]
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+        This Act may be cited as the ``Lilly Ledbetter Fair Pay 
+     Act of 2007''.
+
+     SEC. 2. FINDINGS.
+
+        Congress finds the following:
+       (1) The Supreme Court in Ledbetter v. Goodyear Tire & 
+     Rubber Co., No. 05-1074 (May 29, 2007), significantly impairs 
+     statutory protections against discrimination in compensation 
+     that Congress established and that have been bedrock 
+     principles of American law for decades. The Ledbetter 
+     decision undermines those statutory protections by unduly 
+     restricting the time period in which victims of 
+     discrimination can challenge and recover for discriminatory 
+     compensation decisions or other practices, contrary to the 
+     intent of Congress.
+       (2) The limitation imposed by the Court on the filing of 
+     discriminatory compensation claims ignores the reality of 
+     wage discrimination and is at odds with the robust 
+     application of the civil rights laws that Congress intended.
+       (3) With regard to any charges of discrimination under any 
+     law, nothing in this Act is intended to preclude or limit an 
+     aggrieved person's right to introduce evidence of unlawful 
+     employment practices that have occurred outside the time for 
+     filing a charge of discrimination.
+       (4) This Act is not intended to change current law 
+     treatment of when pension distributions are considered paid.
+
+     SEC. 3. DISCRIMINATION IN COMPENSATION BECAUSE OF RACE, 
+                   COLOR, RELIGION, SEX, OR NATIONAL ORIGIN.
+
+        Section 706(e) of the Civil Rights Act of 1964 (42 U.S.C. 
+     2000e-5(e)) is amended by adding at the end the following:
+       ``(3)(A) For purposes of this section, an unlawful 
+     employment practice occurs, with respect to discrimination in 
+     compensation in violation of this title, when a 
+     discriminatory compensation decision or other practice is 
+     adopted, when an individual becomes subject to a 
+     discriminatory compensation decision or other practice, or 
+     when an individual is affected by application of a 
+     discriminatory compensation decision or other practice, 
+     including each time wages, benefits, or other compensation is 
+     paid, resulting in whole or in part from such a decision or 
+     other practice.
+       ``(B) In addition to any relief authorized by section 1977a 
+     of the Revised Statutes (42 U.S.C. 1981a), liability may 
+     accrue and an aggrieved person may obtain relief as provided 
+     in subsection (g)(1), including recovery of back pay for up 
+     to two years preceding the filing of the charge, where the 
+     unlawful employment practices that have occurred during the 
+     charge filing period are similar or related to unlawful 
+     employment practices with regard to discrimination in 
+     compensation that occurred outside the time for filing a 
+     charge.''.
+
+     SEC. 4. DISCRIMINATION IN COMPENSATION BECAUSE OF AGE.
+
+        Section 7(d) of the Age Discrimination in Employment Act 
+     of 1967 (29 U.S.C. 626(d)) is amended--
+       (1) by redesignating paragraphs (1) and (2) as 
+     subparagraphs (A) and (B), respectively;
+       (2) by striking ``(d)'' and inserting ``(d)(1)'';
+       (3) in the third sentence, by striking ``Upon'' and 
+     inserting the following:
+       ``(2) Upon''; and
+       (4) by adding at the end the following:
+       ``(3) For purposes of this section, an unlawful practice 
+     occurs, with respect to discrimination in compensation in 
+     violation of this Act, when a discriminatory compensation 
+     decision or other practice is adopted, when a person becomes 
+     subject to a discriminatory compensation decision or other 
+     practice, or when a person is affected by application of a 
+     discriminatory compensation decision or other practice, 
+     including each time wages, benefits, or other compensation is 
+     paid, resulting in whole or in part from such a decision or 
+     other practice.''.
+
+     SEC. 5. APPLICATION TO OTHER LAWS.
+
+       (a) Americans With Disabilities Act of 1990.--The amendment 
+     made by section 3 shall apply to claims of discrimination in 
+     compensation brought under title I and section 503 of the 
+     Americans with Disabilities Act of 1990 (42 U.S.C. 12111 et 
+     seq., 12203), pursuant to section 107(a) of such Act (42 
+     U.S.C. 12117(a)), which adopts the powers, remedies, and 
+     procedures set forth in section 706 of the Civil Rights Act 
+     of 1964 (42 U.S.C. 2000e-5).
+       (b) Rehabilitation Act of 1973.--The amendments made by 
+     section 3 shall apply to claims of discrimination in 
+     compensation brought under sections 501 and 504 of the 
+     Rehabilitation Act of 1973 (29 U.S.C. 791, 794), pursuant 
+     to--
+       (1) sections 501(g) and 504(d) of such Act (29 U.S.C. 
+     791(g), 794(d)), respectively, which adopt the standards 
+     applied under title I of the Americans with Disabilities Act 
+     of 1990 for determining whether a violation has occurred in a 
+     complaint alleging employment discrimination; and
+       (2) paragraphs (1) and (2) of section 505(a) of such Act 
+     (29 U.S.C. 794a(a)) (as amended by subsection (c)).
+
+[[Page H8942]]
+
+       (c) Conforming Amendments.--
+       (1) Rehabilitation act of 1973.--Section 505(a) of the 
+     Rehabilitation Act of 1973 (29 U.S.C. 794a(a)) is amended--
+       (A) in paragraph (1), by inserting after ``(42 U.S.C. 
+     2000e-5 (f) through (k))'' the following: ``(and the 
+     application of section 706(e)(3) (42 U.S.C. 2000e-5(e)(3)) to 
+     claims of discrimination in compensation)''; and
+       (B) in paragraph (2), by inserting after ``1964'' the 
+     following: ``(42 U.S.C. 2000d et seq.) (and in subsections 
+     (e)(3) of section 706 of such Act (42 U.S.C. 2000e-5), 
+     applied to claims of discrimination in compensation)''.
+       (2) Civil rights act of 1964.--Section 717 of the Civil 
+     Rights Act of 1964 (42 U.S.C. 2000e-16) is amended by adding 
+     at the end the following:
+       ``(f) Section 706(e)(3) shall apply to complaints of 
+     discrimination in compensation under this section.''.
+       (3) Age discrimination act of 1967.--Section 15(f) of the 
+     Age Discrimination in Employment Act of 1967 (29 U.S.C. 
+     633a(f)) is amended by striking ``of section'' and inserting 
+     ``of sections 7(d)(3) and''.
+
+     SEC. 6. EFFECTIVE DATE.
+
+        This Act, and the amendments made by this Act, take effect 
+     as if enacted on May 28, 2007 and apply to all claims of 
+     discrimination in compensation under title VII of the Civil 
+     Rights Act of 1964 (42 U.S.C. 2000e et seq.), the Age 
+     Discrimination in Employment Act of 1967 (29 U.S.C. 621 et 
+     seq.), title I and section 503 of the Americans with 
+     Disabilities Act of 1990, and sections 501 and 504 of the 
+     Rehabilitation Act of 1973, that are pending on or after that 
+     date.
+
+  The SPEAKER pro tempore. The gentleman from California (Mr. George 
+Miller) and the gentleman from California (Mr. McKeon) each will 
+control 30 minutes.
+  The Chair recognizes the gentleman from California (Mr. George 
+Miller).
+  Mr. GEORGE MILLER of California. Mr. Speaker, I yield myself 6 
+minutes.
+  Mr. Speaker, discrimination is anathema to everything this country 
+stands for. It is anathema to the promise that is America. Regrettably, 
+the recent Supreme Court's recent Ledbetter v. Goodyear decision 
+threatens to turn back the clock on the progress we have made since the 
+passage of the Civil Rights Act of 1964 more than 40 years ago.
+  The Supreme Court's decision in Ledbetter severely restricts the 
+right of employees to challenge pay discrimination. It ignores the 
+realities of the workplace, prior precedent, and the clear intent of 
+Congress.
+  Justice Ginsburg's dissent in this narrowly divided 5-4 decision 
+called on Congress to reverse this decision, and that is what we are 
+here to do today.
+  Lilly Ledbetter, the plaintiff in this case, worked for Goodyear for 
+over 19 years. When she retired as a supervisor in 1998, she discovered 
+that her salary was 20 percent lower than that of the lowest-paid male 
+supervisor. Not only was Ms. Ledbetter earnings nearly $400 a month 
+less than her male colleagues, she also retired, obviously, with a 
+substantially smaller pension.
+  A jury found that Goodyear discriminated against Ms. Ledbetter, and 
+she was awarded $3.8 million in back pay and damages. This amount was 
+reduced to the $360,000 damage cap in title VII of the Civil Rights 
+Act.
+  Despite the jury's finding, the Supreme Court decided that while 
+Goodyear discriminated against Ms. Ledbetter, and it is important that 
+the Members understand that that is what the jury's determination was, 
+they decided that her claim was made too late. Not that she was wrong, 
+not that Goodyear was right. Her claim simply came too late.
+  Title VII of the Civil Rights Act requires an employee to file an 
+EEOC charge within 180 days of unlawful employment practices. Ms. 
+Ledbetter filed within 180 days, as required, of receiving the 
+discriminatory pay from Goodyear. In fact, she filed as soon as she 
+found out that she was receiving discriminatory pay. She found out 
+thanks to an anonymous note left in her mailbox.
+  But a slim majority of the Supreme Court found that, because Ms. 
+Ledbetter did not file within 180 days of the discriminatory decision 
+to write those discriminatory paychecks that she received for many, 
+many years, her time had run out. She could not recover anything from 
+Goodyear.
+  The majority's decision is absurd and entirely shuns the reason in 
+order to satisfy this ideological agenda.
+  H.R. 2831, the Lilly Ledbetter Fair Pay Act, is narrowly tailored and 
+designed to restore the law on pay discrimination as it was before the 
+Supreme Court's decision, the law as it was for some 35 years, the law 
+as it was reaffirmed in circuit court after circuit court, as it was 
+affirmed by the Congress of the United States.
+  This bill restores the law so that the 180-day statute of limitations 
+clock runs when a discriminatory pay decision or practice is adopted, 
+when a person becomes subject to the pay decision or practice, or when 
+a person is affected by the pay decision or practice, including 
+whenever she receives a discriminatory paycheck. In other words, every 
+discriminatory paycheck is a violation of the act. That is as the law 
+was for these many, many years. That is what we seek to do.
+  The bill makes it clear that a victim of pay discrimination is 
+entitled to a full 2 years of back pay. That is as the law currently 
+is. You are entitled to recover up to 2 years' back pay under title 
+VII.
+
+                              {time}  2200
+
+  The bill ensures that these simple reforms extend to the Age 
+Discrimination and Employment Act, the Americans with Disabilities Act, 
+and the Rehabilitation Act. H.R. 2831 restores the law to what it was 
+for years before this recent Supreme Court decision in the Ledbetter 
+case.
+  Circuit court after circuit courts have held that the receipt of a 
+discriminatory paycheck is a new violation of the law. Lilly Ledbetter 
+received her last discriminatory paycheck. She was then informed about 
+it, and she filed within 180 days. That's what the law was, that's what 
+she did, and then this Supreme Court decided somehow that she wasn't 
+within her rights and that her claim came too late.
+  The EEOC, in its own compliance manual, states that ``discriminatory 
+paychecks can be challenged so long as one is issued within the filing 
+period, regardless of when the decision to issue them was made.'' 
+Again, the law before the Supreme Court. In fact, the Congressional 
+Budget Office reports that this would not establish a new cause of 
+action for pay discrimination, it will not significantly effect the 
+number of filings in the EEOC, and it will not significantly increase 
+the cost of EEOC in other Federal courts.
+  Understand this: Unless Congress acts and employers who have made 
+discriminatory pay decisions before 180 days ago, they will be allowed 
+to lawfully continue discriminating against the people that they 
+employ. If they can hide the discriminatory act for 180 days, they can 
+then continue to discriminate far into the future if they got past the 
+180 days. That is why this is so important.
+  The law now tells employers it's okay to discriminate; if you can get 
+away with it for 180 days, you're home free. All we're asking here is 
+to restore the law as it was, which was that each paycheck was a 
+discriminatory act, and under the law you had 180 days to file a claim. 
+That's what this bill says. That's what the law said before. If you 
+file that claim and you're successful, you can receive up to 2 years 
+back pay to make up for that. That's what the law was. That's what we 
+seek to do in this legislation.
+  This is the only decent thing to do. People say, well, she should 
+have known or she should have asked around or she should have done 
+this, should have done a lot of things. Except we know that also in 
+many instances employers, in fact, have policies where they prohibit 
+employees from asking another employee about their level of pay, about 
+their compensation.
+  So the fact of the matter is this legislation is absolutely necessary 
+to end these discriminatory practices on pay, be it against a woman, an 
+African American, Hispanic, a person over 60. Whatever the conditions 
+are, it should not be allowed to stand. We should return to the law as 
+it was these many years.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. McKEON. Mr. Speaker, I yield myself such time as I may consume.
+  Mr. Speaker, I rise in opposition to this ill-considered and over-
+reaching legislation.
+  Proponents of this bill claim it simply reverses a May 29, 2007, U.S. 
+Supreme Court decision and further clarifies congressional opposition 
+to wage discrimination against employees in the workplace. In reality, 
+however, it will set into motion unintended consequences that its 
+supporters simply are not willing to acknowledge.
+  At the outset, let me make it clear that opposition to discrimination 
+of
+
+[[Page H8943]]
+
+any type, be it gender discrimination, racial discrimination, or any 
+other type of discrimination inside or outside the workplace is not 
+confined to one party or the other. Every Member of this Chamber stands 
+in strong opposition to the unfair treatment of any worker, but at the 
+same time we must stand firmly behind a process that ensures justice 
+for all parties, and that includes protecting against the potential for 
+abuse and over-litigation. That, I believe, is where the two parties 
+diverge on the bill before us. We aren't taking sides for or against 
+discrimination in the workplace; rather, we're staking out different 
+positions on fair and equitable justice and the rule of law.
+  For more than 40 years, title VII of the 1964 Civil Rights Act has 
+made it illegal for employers to determine an employee's pay scale 
+based on his or her gender. And this is a principle upon which all of 
+us, Democrats and Republicans alike, can agree. As such, current law 
+provides that any individual wishing to challenge an employment 
+practice as discriminatory must first file a charge with the Equal 
+Employment Opportunity Commission within the applicable statute of 
+limitations, which is either 180 or 300 days, depending on his or her 
+state of employment after the alleged workplace discrimination 
+occurred.
+  The statute of limitations was clearly established in the law to 
+encourage the timely filing of claims, which helps prevent the filing 
+of stale claims and protects against abuse of the legal system.
+  Consider these worst case scenarios, for example. Without a statute 
+of limitations in place, an employee could sue for discrimination 
+resulting from an alleged discriminatory act that might have occurred 
+5, 10, 20, 40, or even more years earlier. And without a statute of 
+limitations in place, it is entirely conceivable that a worker or 
+retiree could seek damages against a company run by employees and 
+executives that had nothing to do with the initial act of alleged 
+discrimination that occurred dozens of years ago.
+  H.R. 2831 would essentially dismantle the statute of limitations and 
+replace it with a new system under which every paycheck received by the 
+employee allegedly discriminated against starts the clock on an 
+entirely new statute. While fair-minded and principled, this dramatic 
+change in civil rights law would have incredibly far-reaching impact, 
+one that supporters of the bill have yet to take the time to thoroughly 
+and appropriately consider. And B, under H.R. 2831, the worst case 
+scenarios I just described would become commonplace. And let's not kid 
+ourselves; our Nation's trial lawyers would seize upon them.
+  Because H.R. 2831 would dismantle the critical statute of 
+limitations, the Bush administration last week threatened to veto, 
+should the bill ever arrive at his desk. Specifically, the 
+administration noted that the legislation ``would serve to impede 
+justice and undermine the important goal of having allegations of 
+discrimination expeditiously resolved.''
+  Furthermore, the effect of elimination of any statute of limitations 
+in this area would be contrary to the centuries' old notion about 
+limitations, period, for all lawsuits.
+  At this time, Mr. Speaker, I would like to enter the Statement of 
+Administration Policy into the Record
+         Executive Office of the President, Office of Management 
+           and Budget,
+                                    Washington, DC, July 27, 2007.
+
+Statement of Administration Policy H.R. 2831--Lilly Ledbetter Fair Pay 
+           Act of 2007 (Rep. Miller (D) CA and 31 Cosponsors)
+
+       The Administration supports our Nation's anti-
+     discrimination laws and is committed to the timely resolution 
+     of discrimination claims. For this and other reasons, the 
+     Administration strongly opposes the Ledbetter Fair Pay Act of 
+     2007. H.R. 2831 would allow employees to bring a claim of pay 
+     or other employment-related discrimination years or even 
+     decades after the alleged discrimination occurred. H.R. 2831 
+     constitutes a major change in, and expanded application of, 
+     employment discrimination law. The change would serve to 
+     impede justice and undermine the important goal of having 
+     allegations of discrimination expeditiously resolved. 
+     Furthermore, the effective elimination of any statute of 
+     limitations in this area would be contrary to the centuries-
+     old notion of a limitations period for all lawsuits. If H.R. 
+     2831 were presented to the President. his senior advisors 
+     would recommend that he veto the bill.
+       Meaningful statutes of limitations in these sorts of fact-
+     intensive cases are crucial to the fair administration of 
+     justice. The prompt assertion of employment discrimination 
+     permits employers to defend against--and allows employees to 
+     prove--claims that arise from employment decisions instead of 
+     having to litigate claims that are long past. In such cases, 
+     evidence often will have been lost, memories will have faded, 
+     and witnesses will have moved on. Moreover, effective 
+     statutes of limitations benefit employees by encouraging the 
+     prompt discovery, assertion, and resolution of employment 
+     discrimination claims so that workplace discrimination can be 
+     remedied without delay.
+       H.R. 2831 purports to undo the Supreme Court's decision of 
+     May 29, 2007, in Ledbetter v. Goodyear Tire & Rubber Co. by 
+     permitting pay discrimination claims to be brought within 180 
+     days not of a discriminatory pay decision, which is the rule 
+     under current law, but rather within 180 days of receiving 
+     any paycheck affected by such a decision, no matter how far 
+     in the past the underlying act of discrimination allegedly 
+     occurred. As a result, this legislation effectively 
+     eliminates any time requirement for filing a claim involving 
+     compensation discrimination. Allegations from thirty years 
+     ago or more could be resurrected and filed in federal courts.
+       Moreover, the bill far exceeds the stated purpose of 
+     undoing the Court's decision in Ledbetter by extending the 
+     expanded statute of limitations to any ``other practice'' 
+     that remotely affects an individual's wages, benefits, or 
+     other compensation in the future. This could effectively 
+     waive the statute of limitations for a wide variety of claims 
+     (such as promotion and arguably even termination decisions) 
+     traditionally regarded as actionable only when they occur.
+       This legislation does not appear to be based on evidence 
+     that the current statute of limitations principles have 
+     caused any systemic prejudice to the interests of employees, 
+     but it is reasonable to expect the bill's vastly expanded 
+     statute of limitations would exacerbate the existing heavy 
+     burden on the courts by encouraging the filing of stale 
+     claims.
+
+  Mr. Speaker, as the President's veto threat makes clear, H.R. 2831 is 
+not a matter of tinkering around the edges as its supporters would have 
+the American people believe. Rather, it is a fundamental overhaul of 
+long-standing civil rights laws. The last major change to these laws 
+occurred more than 15 years ago and after several years of debate. Yet, 
+here we are, barely 2 months removed from a Supreme Court decision 
+ready to grab headlines before we return home for the month of August 
+by advancing a highly flawed bill without any regard to the long-term 
+ramifications it could have should it ever make its way into law.
+  H.R. 2831 represents bad policy, and even worse processing, and for 
+these reasons I will oppose it. I urge my colleagues to do likewise.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. GEORGE MILLER of California. Mr. Speaker, I yield 4 minutes to 
+the gentleman from New Jersey (Mr. Andrews), a member of the committee.
+  (Mr. ANDREWS asked and was given permission to revise and extend his 
+remarks.)
+  Mr. ANDREWS. I thank the chairman for yielding, and I rise in strong 
+support of this legislation.
+  Mr. Speaker, our friend, the ranking member of the full committee, 
+just said that this bill repeals the statute of limitations. This is 
+completely wrong. The bill does not repeal the statute of limitations 
+for these claims; it restores the statute of limitations that has been 
+in existence for nearly four decades under this law, an interpretation 
+of the statute of limitations that virtually unanimously, in the 
+Circuit Court of Appeals, has been held to be the law.
+  What is this standard? It says that if a person works in a workplace, 
+as most workplaces are, where knowing what your coworker makes is 
+discouraged or even prohibited, that if you're the victim of 
+discrimination because of your race or your gender or your religion or 
+your nationality, then you have the right to pursue that claim each 
+time a new paycheck is issued that manifests and evidences that 
+discrimination. This is not a novel theory. This has been the law for 
+nearly 40 years. And this bill restores that law.
+  Second, our friends on the other side talk about these cataclysmic 
+events that are going to occur if the law is restored, people filing 
+suits 70 years after discrimination took place. What an odd plaintiff 
+that would be, Mr. Speaker, someone who has been victimized for 60 or 
+50 or 40 years by discrimination, but because they want to game the 
+legal system, sit and wait it out? I've never
+
+[[Page H8944]]
+
+met that plaintiff, Mr. Speaker, and I don't think anybody really has.
+  If all of these cataclysmic events were going to happen, why haven't 
+they happened for the last 40 years? Why haven't people sued 40 or 50 
+years after discrimination took place? It's because that's not what 
+this statute of limitations permits, and that's not human nature.
+  My friend makes reference, Mr. Speaker, to the worst case scenario. 
+My friends, Lilly Ledbetter lived the worst case scenario. She worked 
+for nearly 20 years for Goodyear. She was very good at her job. She got 
+awards for being an excellent employee. Very late in her career she 
+found out that she was making 20 percent less than the men doing the 
+same job because she was a woman, so she went to the EEOC. She pursued 
+her claim in Federal court. Goodyear stood up and said, oh, no; she was 
+discriminated against not because she's a woman, but because she wasn't 
+as good at her job as the men. And a jury of her peers heard that 
+defense, heard that evidence, and ruled in her favor.
+  Up the ladder the case went to the United States Supreme Court, and 
+the Court said, she may have been discriminated against, she may have 
+been wronged, but she just didn't do anything about it soon enough; 
+never mind that she followed the rules that had been in effect for 
+nearly 40 years.
+  This is a restoration of the statute of limitations, not a new 
+statute of limitations or an abrogation of it. And more importantly, it 
+is a restoration of justice for people like Lilly Ledbetter who deserve 
+better than this Supreme Court ruling and deserve the passage of this 
+bill.
+  I urge my colleagues to vote ``yes.''
+  Mr. McKEON. Mr. Speaker, I am happy to yield 2 minutes to the 
+gentlelady from Tennessee (Mrs. Blackburn).
+  Mrs. BLACKBURN. I thank the gentleman from California for the time.
+  Mr. Speaker, today I'm rising to oppose this bill.
+  We are all for fair pay; we are all for equal pay for equal work, and 
+we are all against discrimination. But, Mr. Speaker, H.R. 2831 does 
+much more than just simply overturn a Supreme Court case in order to 
+provide relief to one plaintiff, Lilly Ledbetter. It constitutes a 
+major change in and extended application of employment discrimination 
+law.
+  In my opinion, what this change would do would serve to impede 
+justice and undermine the important goal of having allegations of 
+discrimination expeditiously resolved. The bill essentially limits the 
+1964 Civil Rights Act statute of limitations regarding almost every 
+claim of discrimination available under Federal law and potentially 
+broadens the scope and application of the civil rights laws to entirely 
+new fact patterns, practices and claims.
+  It also would allow an employee or any individual who can arguably 
+claim to be affected by an allegedly discriminatory decision relating 
+to compensation wages, benefits, or any other practice to sue for 
+discrimination that may have occurred years or even decades in the 
+past. The anticipated increase in legal and recordkeeping costs created 
+by this legislation would, indeed, be staggering.
+  Congress should not be in the business of removing incentives for 
+prompt resolution of discrimination claims. And that is what this would 
+do; it would remove the incentive to find a prompt and timely 
+resolution to discrimination claims.
+  I thank the gentleman from California, and I encourage my colleagues 
+to vote against the bill.
+  Mr. GEORGE MILLER of California. Mr. Speaker, I recognize the 
+gentlewoman from Connecticut (Ms. DeLauro).
+  Ms. DeLAURO. Lilly Ledbetter was shortchanged; shortchanged by her 
+employer, by consistent pay discrimination lasting years; shortchanged 
+again by the Supreme Court with its decision limiting a woman's ability 
+to sue their employers for pay discrimination under title VII of the 
+Civil Rights Act.
+  As Justice Ginsburg suggested in her dissent, Congress now has an 
+obligation to correct the Court's decision. That's why we are here, to 
+make it clear the title VII statute of limitations runs from the date a 
+discriminatory wage is actually paid, not simply some earliest possible 
+date which has come and gone long ago.
+  I commend Congressman Miller for acting with urgency to correct the 
+injustice. It is time to value the work that women do in our society, 
+respecting the work that women do, and to value it.
+
+                              {time}  2215
+
+  ``The plant manager at Goodyear said, The plant did not need women, 
+women did not help it, and women caused problems.''
+  The President's threat to veto this legislation suggests he is happy 
+to limit women's access to equal pay. Let's turn this around, fix the 
+decision and make sure that women who face discrimination, like Lilly 
+Ledbetter faced, have a right to fight against it.
+  Mr. McKEON. Mr. Speaker, I now yield 4 minutes to the gentleman from 
+Florida (Mr. Keller), the subcommittee ranking member.
+  Mr. KELLER of Florida. Mr. Speaker, I thank the gentleman for 
+yielding.
+  Mr. Speaker, the practical effect of this legislation is to do away 
+with the statute of limitations in employment disputes. On May 29, 
+2007, the United States Supreme Court ruled that Ms. Ledbetter's claim 
+was barred by the statute of limitations.
+  There is a strong public policy reason for having a statute of 
+limitations in the employment context. Witness' memories fade, 
+documents are lost, and employees die. We want these disputes to be 
+resolved while witness' memories are fresh, documents are available, 
+and the employees are alive.
+  The Ledbetter case is a perfect example. Ms. Ledbetter alleged sexual 
+harassment misconduct by a single Goodyear supervisor, yet she waited 
+19 years after the former supervisor passed away from cancer to file a 
+lawsuit.
+  On June 12, 2007, Ms. Ledbetter testified before our Education and 
+Labor Committee. She stated, ``My story began in 1979 when Goodyear 
+hired me to work as a supervisor in their tire production plant in 
+Gadsden, Alabama. I worked there for 19 years. One of my supervisors 
+asked me to go down to a local hotel with him and promised if I did, I 
+would get good evaluations. He said if I didn't, I would get put at the 
+bottom of the list. I didn't say anything at first because I wanted to 
+try to work it out and fit in without making waves.''
+  At our hearing, I spoke with Ms. Ledbetter at length. She seemed like 
+a nice lady to me. The conversation she described about the motel made 
+you angry about it and sympathetic to her. I wondered what that 
+supervisor would have said 19 years ago. Would he admit it? Would he 
+deny it but not be very credible? Or would he have said that it 
+couldn't have happened because he was in Canada at the time and here is 
+my proof of that?
+  Well, it turns out that the U.S. Supreme Court was thinking the same 
+type of thoughts I was about this matter. Their opinion makes their 
+concerns crystal clear.
+  On page 12 of its opinion, the U.S. Supreme Court wrote: ``The 
+passage of time may seriously diminish the ability of the parties and 
+the factfinder to reconstruct what actually happened. This case 
+illustrates the problems created by tardy lawsuits. Ledbetter's claims 
+of sex discrimination turned principally on the misconduct of a single 
+Goodyear supervisor, who, Ledbetter testified, retaliated against her 
+when she rejected his sexual advancements during the early 1980s. Yet, 
+by the time of trial, this supervisor had died and therefore could not 
+testify. A timely charge might have permitted his evidence to be 
+weighed contemporaneously.''
+  Supporters of the legislation say that the time period of 300 days in 
+most jurisdictions, 180 days in some, is not enough because an employer 
+might hide the fact that the female employee's salary was less than the 
+amount paid to men for the same work.
+  There are two responses to that. First, the judicial doctrine of 
+equitable tolling would be available to those type of plaintiffs.
+  Second, the plaintiffs could file a claim under the Equal Pay Act. 
+This Federal law forbids paying women less than men for the same work. 
+It has a longer statute of limitations and an easier burden of proof. 
+Ms. Ledbetter filed a Equal Pay Act claim, but it was thrown out on the 
+merits by the trial judge who found that Goodyear paid
+
+[[Page H8945]]
+
+Ledbetter less because of her performance, not sex. Significantly, 
+Ledbetter abandoned this Equal Pay Act claim.
+  Mr. Speaker, there is an old saying, hard cases make bad law. That 
+applies here. Do we throw out the statute of limitations in employment 
+cases because a nice lady waited 19 years to file a lawsuit? Common 
+sense tells you the answer is no.
+  The same public policy reasons for a statute of limitations are still 
+there. We want witness' memories that are fresh, documents that are 
+available and employees who are still alive to tell what actually 
+happened.
+  Mr. Speaker, I urge my colleagues to vote ``no.'
+  Mr. GEORGE MILLER of California. Mr. Speaker, I yield 2 minutes to 
+the gentlewoman from California (Ms. Woolsey), a member of the 
+committee.
+  Ms. WOOLSEY. Mr. Speaker, this legislation overturns the Supreme 
+Court's 5-4 decision, which offered a very restricted and decidedly 
+unrealistic reading of just when a discriminatory action regarding 
+compensation actually occurs. In doing so, this legislation restores 
+the common and long-standing understanding of employees, employers and 
+the circuit courts alike, that when it comes to discriminatory pay, the 
+protection of title VII extends not only to pay decisions and 
+practices, but to each and every paycheck as well.
+  Let me say a word about the plaintiff in this case, Lilly Ledbetter. 
+Lilly will not reap the benefits of our legislation, and, as a result, 
+will continue to feel the effect of the court's discriminatory decision 
+to pay her less than her male colleagues for the rest of her life.
+  Lilly Ledbetter went to work at Goodyear Tires every day for 19 
+years. She was one of the few female supervisors at the plant. That was 
+quite an accomplishment in and of itself. But what she didn't realize 
+was that for all those years, she was paid less than her male 
+colleagues, 20 percent less by the time she retired, because of 
+discrimination based on her gender.
+  A jury found that she was discriminated against. They gave her over 
+$3.8 million in back pay and damages. But the Supreme Court said to 
+her, Ms. Ledbetter, you didn't file your claim within 180 days of the 
+decision to discriminate, and, even though each and every one of your 
+paychecks reflects the discriminatory decision, and you didn't have 
+proof of the discrimination until long after the decision was made, you 
+are out of luck. Lilly Ledbetter, we don't care that your monthly 
+pension and your Social Security benefits also reflect that 
+discrimination.
+  Now, the President says that he is planning to veto this legislation, 
+and we shouldn't be surprised. But as a tribute to Lilly Ledbetter and 
+other women who work hard to support their families, to get ahead, who 
+face discrimination every day of their lives, vote for H.R. 2831.
+  Mr. McKEON. Mr. Speaker, I am happy to yield 2 minutes to the 
+gentleman from South Carolina (Mr. Wilson), the subcommittee ranking 
+member.
+  Mr. WILSON of South Carolina. Mr. Speaker, I thank the gentleman for 
+yielding. I appreciate your leadership for the people of the United 
+States.
+  Mr. Speaker, I rise in strong opposition to H.R. 2831. This 
+legislation is being improperly classified as a narrow bill with 
+limited ramifications, that simply overturns a Supreme Court decision 
+made on May 29, 2007. In actuality, it is one of the most overreaching 
+pieces of wage discrimination legislation that has ever been 
+considered. If enacted, this legislation would make it impossible for 
+businesses to defend themselves against actions that occurred years in 
+the past.
+  We all oppose discrimination. Action against those who discriminate 
+in the workplace should be taken quickly. Current laws ensure that 
+disputes over discrimination are addressed expeditiously and with 
+certainty. This bill would eliminate the 1964 Civil Rights Act statute 
+of limitations governing the time within which a party must make a pay 
+discrimination claim, currently 180 days or 300 days, depending on the 
+State of employment.
+  As an inactive attorney and a person who practiced for 25 years and 
+the proud father of an attorney, who appreciates the legal profession, 
+I believe a statute of limitation serves many purposes. It encourages 
+the timely filing of claims, helps prevent the filing of stale claims, 
+and, most importantly, protects against abuse of the legal system.
+  Cases should be brought to court as soon as possible after an 
+incident occurs to guarantee memories are fresh and witnesses are 
+available to testify. In the absence of a statute of limitation, a 
+worker or retiree could sue for pay discrimination resulting from an 
+alleged discriminatory act that might have occurred 5, 10, 20 or even 
+30 years earlier. This same worker or retiree could seek damages 
+against a company run by employees and administrators that had nothing 
+to do with the initial act of alleged discrimination that occurred 
+dozens of years ago.
+  I am grateful for the leadership of the Education and Labor Committee 
+ranking member Buck McKeon on this issue. I urge my colleagues to 
+oppose this flawed legislation
+  Mr. GEORGE MILLER of California. Mr. Speaker, I yield 2 minutes to 
+the gentlewoman from Hawaii (Ms. Hirono), a member of the committee.
+  (Ms. HIRONO asked and was given permission to revise and extend her 
+remarks.)
+  Ms. HIRONO. Mr. Speaker, I rise in strong support of H.R. 2831, the 
+Lilly Ledbetter Fair Pay Act of 2007, and I would like to thank 
+Chairman George Miller of the Education and Labor Committee for his 
+commitment and dedication to bringing this bill to the floor.
+  Title VII of the Civil Rights Act of 1964 was enacted to protect 
+individuals from discrimination they face in the workplace. This bill 
+amends title VII to ensure employees have a realistic remedy to pay 
+discrimination. The bill reinstates the paycheck accrual rule, a law 
+widely interpreted by eight Federal circuit courts to mean that the 180 
+day time limit for filing a charge of discrimination with the Equal 
+Employment Opportunity Commission begins each time a discriminatory 
+paycheck is received.
+  I would like to stress that this bill does not amend the rule that an 
+aggrieved person may only recover back pay for the 2 years preceding 
+the filing of the charge, so there will be no incentive to wait 5, 10, 
+15 or 20 years, as our opponents claim, to bring such a lawsuit. 
+Moreover, employers prior to the Ledbetter decision were not inundated 
+with stale pay discrimination claims, and this law will in fact not 
+promote the filings of such claims.
+  The Ledbetter decision was a shocking decision for many of us, 
+because we know what it is like to face pay discrimination in the 
+workplace. It is not as though employers announce that they are going 
+to engage in pay discrimination. Employees are not encouraged to 
+discuss what they are making, so it is very difficult to find out that 
+this kind of discriminatory action is even taking place.
+  Supreme Court Associate Ruth Bader Ginsburg strongly disagreed with 
+the majority decision stating, ``In our view, the court does not 
+comprehend, or is indifferent to, the insidious way in which women can 
+be victims of pay discrimination.'' She urged the Congress to act by 
+passing this kind of legislation.
+  I urge my colleagues to vote strongly in favor of this bill.
+  Mr. McKEON. Mr. Speaker, I am happy now to yield 3 minutes to the 
+gentlewoman from Illinois (Mrs. Biggert), a member of the committee.
+  Mrs. BIGGERT. Mr. Speaker, I thank the gentleman for yielding.
+  Mr. Speaker, like all of my colleagues here on the floor and in the 
+House of Representatives, I fully support efforts to end all forms of 
+discrimination. I admire Ms. Ledbetter's bravery for standing up for 
+her right to work in an environment free from discrimination.
+  I know what it is like. I sat in law school class and was told by my 
+professor that I was taking up the place of someone who belonged there, 
+a man. As a woman who has felt discrimination, I understand her 
+frustration and I am pleased that Congress is discussing this important 
+issue.
+  If this bill were an anti-discrimination bill, I would be happy to 
+vote for it and would encourage others to support it. But this bill is 
+not about discrimination. It is about the statute of limitations.
+  The statute of limitations is an institution in American 
+jurisprudence that pertains to all cases and all causes of
+
+[[Page H8946]]
+
+action. For instance, for torts the statutes of limitations is 2 years; 
+for contracts, it is 6 years; for employment determination or 
+discrimination, it is 6 months. We can't legislate change in the 
+statute of limitations just because we don't like a particular Supreme 
+Court ruling.
+
+                              {time}  2230
+
+  The statute of limitation requires plaintiffs to bring a claim or a 
+cause of action within a reasonable time. And that is so witnesses 
+don't disappear or die off, memories don't fade, and supervisors don't 
+move on and documents are not discarded or destroyed.
+  That is why I cannot support the legislation before us today. H.R. 
+2831 would dismantle the statute of limitation for filing a charge with 
+the Equal Employment Opportunity Commission. If enacted, this 
+legislation would allow an employee to bring a claim against an 
+employer years, even decades, after the alleged act of discrimination.
+  In addition, this legislation would discourage the prompt 
+investigation and resolution of discrimination. I think everyone would 
+agree that if there is discrimination at an individual's place of work, 
+it should be investigated and addressed as soon as possible to ensure 
+fairness and prevent further discrimination.
+  Unfortunately, because no hearings were held on this legislation, I 
+think the majority is rushing it through the House with little 
+discussion on the bill itself. We can only speculate as to what all of 
+the ramifications of this bill might be. I know that the gentleman is 
+probably going to say there was a hearing, but it wasn't directly on 
+this bill. So I would encourage my colleagues to oppose this well-
+intentioned but misguided statute of limitation legislation.
+  Mr. GEORGE MILLER of California. Mr. Speaker, I yield 2 minutes to 
+the gentlewoman from the District of Columbia (Ms. Norton).
+  Ms. NORTON. Mr. Speaker, I thank the gentleman for moving so quickly 
+to fix this bill because we really can't wait. Fixing this bill, and 
+thank you for taking us back to 1964, because that is about what 
+happens here. The bill as it was intended, and this is not a 
+hypertechnical statute of limitations bill. In fact, interestingly, the 
+statute of limitations is not involved at all. It is the same 180 days 
+as it always was.
+  The bill before us reinstates the law as it was consistently applied 
+and interpreted by the courts, including the United States Supreme 
+Court before, during and after I administered this law as the Chair of 
+the Equal Employment Opportunity Commission and administered this very 
+section. Once before the Supreme Court misread this, and Congress 
+rushed to change it. And here we are back to a Supreme Court really 
+reaching very hard away from what we had already fixed in the 1991 
+Civil Rights Act.
+  I want to remind my colleagues that the first pay cases under this 
+act were not brought by women at all. They were brought by black men 
+who were working in Southern factories in a segregated part of those 
+factories, paid less than white men. Imagine if we said, Look, you 
+fellas, go and see if you can find out what the white men, who won't 
+even let you work in the same part of the factory, are earning. Of 
+course we didn't. And of course nobody can require that of women or 
+African Americans, who are just as affected by what we do today as 
+women are.
+  Imagine, the most secretive information a person has, besides your 
+medical information, is how much money you earn. How many in this 
+Congress, before your earnings were a matter of public record, knew how 
+much the person sitting beside you earned? And particularly, if you are 
+a minority, a woman or a minority, you are not going to go up, and if 
+you are, you are not going to find out.
+  We have got to fix this. The American people have demanded it. We 
+have to fix it for women. And remind you, we have to fix this for black 
+people, for people of color who bring the majority of pay cases in our 
+country today.
+  Mr. McKEON. Mr. Speaker, how much time remains?
+  The SPEAKER pro tempore. The gentleman from California (Mr. McKeon) 
+has 14\1/2\ minutes, and the gentleman from California (Mr. George 
+Miller) has 13\1/2\ minutes.
+  Mr. McKEON. Mr. Speaker, I am happy to yield 2 minutes to the 
+gentlewoman from North Carolina (Ms. Foxx), a member of the committee.
+  Ms. FOXX. Mr. Speaker, I want to thank my colleague from California 
+for yielding me this time.
+  Along with everyone else here, I feel it is important to say that I 
+am very much opposed to discrimination. It makes me ill to even think 
+about discrimination that has occurred in this country in the past. But 
+I am also very much opposed to this legislation. We don't need to be 
+throwing the baby out with the bathwater.
+  When I first went to the North Carolina Senate, I was troubled by the 
+way a lot of things were done there. And someone said to me, If you 
+think that people operate here on logic, you are sadly wrong. They 
+operate on emotion.
+  We have heard some very emotional comments made about this 
+legislation and why it should be passed. Those of us who are opposing 
+it are opposing it on very logical reasons.
+  This bill makes dramatic changes to civil rights law and would have 
+an incredibly far-reaching impact, one which supporters of the bill 
+have yet to take the time to thoroughly and appropriately consider. The 
+underlying bill constitutes a major change in and expanded application 
+of employment discrimination law.
+  Traditionally, civil rights laws have had adequate time for 
+thoughtful review and consideration. However, this bill was brought 
+before the Education and Labor Committee about 24 hours prior to markup 
+and rushed to the floor under a closed rule. It is critical that 
+legislation of this complexity and with the potential for such 
+significant impact be carefully considered and not rushed through only 
+weeks after its introduction.
+  Many other things have been thoughtfully and rightfully said on our 
+side, but I want to say that we need to talk about an area that is most 
+likely to be dramatically impacted is that of our Nation's retirement 
+system. This legislation contains a pension annuity check rule where 
+charges could be brought many years after the discrimination occurs, 
+and it could have long-standing impact on benefits. It could wind up 
+discriminating against a lot more people than we are trying to help as 
+a result of this legislation.
+  It is going too fast. We need to slow it down and do it right. We 
+want to not have discrimination, but this is not the way to do it
+  Mr. GEORGE MILLER of California. Mr. Speaker, I yield 2 minutes to 
+the gentleman from New York (Mr. Nadler).
+  Mr. NADLER. Mr. Speaker, this bill would restore to employment 
+discrimination victims the realistic chance at justice that the Supreme 
+Court recently took away from them. What is important to understand 
+about the Court's decision is that everyone agreed that Lilly Ledbetter 
+was the victim of intentional discrimination for 19 years. The Court 
+said something truly astonishing, that the only discriminatory act was 
+the initial decision to pay Lilly Ledbetter less than her male 
+coworkers. Once the employer had successfully concealed that fact from 
+her for 180 days, she was out of luck and Goodyear could openly go on 
+paying her less just because she was a woman forever. The initial 
+decision to discriminate was illegal, but the continuing decision to 
+continue paying her less was perfectly okay. This upset 40 years of 
+settled law, 40 years in which the companies of this country went under 
+the rule that this bill would restore.
+  The Court's decision is an open invitation to employers to violate 
+the law with virtual impunity. Once again, Congress must correct the 
+Supreme Court and instruct it that when we said discrimination in 
+employment was illegal, we meant it, and we meant for the courts to 
+enforce it. And anyone who says that discrimination in employment 
+should be illegal but should not be enforceable if the employer can 
+hide the discrimination for 6 months is really saying let the 
+discrimination go on forever. Let the women and the racial minorities 
+and other people who are discriminated against be discriminated against 
+forever.
+  Shame on the Supreme Court, and shame on those who would make 
+employment discrimination victims helpless by opposing this bill. I 
+urge adoption of this bill.
+  Mr. McKEON. Mr. Speaker, I yield 2 minutes to the gentlewoman from
+
+[[Page H8947]]
+
+Texas (Ms. Granger), a member of our elected leadership.
+  Ms. GRANGER. Mr. Speaker, I rise in strong opposition to the 
+Democrats Lilly Ledbetter Fair Pay Act. At first glance, I simply 
+disagree with the name of the bill. The Democrat's Fair Pay Act is not 
+fair at all, not for employers, employees or our legal system.
+  Every American is entitled to an honest day's pay and we have laws on 
+the book to ensure that is the case. But this bill goes well beyond its 
+scope by effectively eliminating the statute of limitation in workplace 
+discrimination cases.
+  This imposes a huge burden on businesses and opens them up to 
+litigation years after alleged cases of discrimination. While it is 
+inexcusable for anyone to face discrimination for pay or otherwise, to 
+overturn the Supreme Court decision would allow for a flood of decades-
+old claims to resurface. The laws we have in place allow adequate time 
+to file a charge against your employer and offers a set of guidelines 
+to help individuals file a claim.
+  The burden this would place on small business owners and any company 
+to track down a claim that occurred 20 years ago, for example, would 
+cripple the system we have in place. The statutes of limitations are in 
+place to help the employee-employer relationship so when something 
+improper happens, the issue can be dealt with in a timely manner. 
+Merely eliminating these guidelines would allow for someone to reopen a 
+claim after 5, 10 or even after they have retired. Those involved may 
+no longer work at the company or even be alive, for that matter.
+  If this passes, it will also eliminate the statute of limitations for 
+the Age Discrimination in Employment Act, the American with 
+Disabilities Act, and the Rehabilitation Act.
+  The Civil Rights Act and the employment discrimination laws currently 
+on the books provide adequate protections for our employees. We should 
+work to ensure that existing laws are enforced to protect employees 
+against discrimination rather than passing overly broad laws that 
+subject employers to open-ended liability
+  Mr. GEORGE MILLER of California. Mr. Speaker, I yield 2 minutes to 
+the gentleman from Virginia (Mr. Scott).
+  Mr. SCOTT of Virginia. Mr. Speaker, I thank the gentleman for 
+yielding me this time.
+  I rise in support of H.R. 2831, the Lilly Ledbetter Fair Pay Act. 
+This important legislation overturns the recent Supreme Court decision, 
+Ledbetter v. Goodyear Tire, a decision which undermines title VII of 
+the Civil Rights Act of 1964.
+  The Ledbetter decision forces victims of discriminatory pay decisions 
+to live with discriminatory paychecks for the duration of their career 
+if they fail to file a claim within 180 days of the discrimination, 
+possibly even if they had no knowledge of the discrimination within the 
+180 days. In other words, after 180 days, an unsuspecting female, 
+minority, elderly, or disabled worker would simply be out of luck.
+  This would even be the case if the employer admitted to the 
+discrimination and continued to discriminate after the 180-day 
+limitation had passed.
+  Mr. Speaker, we hear comments that there would be no statute of 
+limitations. That is not true. Under the bill, there is still a statute 
+of limitations; 180 days still applies. The plaintiff has to show that 
+a discriminatory paycheck was issued within the last 180 days. And if 
+the employer would simply stop discriminating and went a whole 180 days 
+without discriminating, then the statute of limitations would apply and 
+it would be too late to bring a case.
+  Under the Supreme Court decision, that unjust outcome under the case 
+is not in keeping with title VII's remedial purpose or the spirit of 
+the civil rights cases.
+  Now, Justice Ginsburg noted in her dissent, ``Congress never intended 
+to immunize forever discriminatory pay differentials unchallenged 
+within 180 days of their adoption.'' I agree with Justice Ginsburg. And 
+she also noted that Congress should correct this injustice. This bill 
+corrects the injustice by appropriately expressing Congress's intent 
+that title VII will hold employers accountable for unlawful employment 
+discrimination.
+  Mr. McKEON. Mr. Speaker, I yield 2 minutes to the gentlewoman from 
+Minnesota (Mrs. Bachmann).
+  Mrs. BACHMANN. Mr. Speaker, in this debate tonight I think we can all 
+stipulate that discrimination in the workforce is wrong. It is wrong if 
+it is against employees, and it is wrong if it is against employers. 
+This bill may very well be seen as discrimination against honest 
+American employers, job creators, because it has a seemingly unending 
+period to file a lawsuit.
+  With that, women may very well experience real discrimination in that 
+they may find that future employers are reluctant to hire them in the 
+first place for fear of a lawsuit 5, 10, 20, maybe even 40 years down 
+the road. Let's face it, memories fade, people die, they move away, and 
+it becomes difficult, if not downright impossible, for a job creator to 
+defend themselves.
+  It is a very impractical bill that we are looking at and could likely 
+result in even more paperwork and higher cost for employers, and 
+ultimately less wages for all American employees.
+  Congress needs to stop discriminating against American companies that 
+are just trying to provide decent jobs to great employees. Instead, I 
+think Congress should focus on enhancing American competitiveness and 
+American prosperity.
+  Mr. GEORGE MILLER of California. Mr. Speaker, I yield 2 minutes to 
+the gentlewoman from Florida (Ms. Wasserman Schultz).
+
+                              {time}  2245
+
+  Ms. WASSERMAN SCHULTZ. Mr. Speaker, I met Lilly Ledbetter during the 
+House Judiciary Committee hearing last month. At that time, she 
+explained how she was repeatedly harassed during her 20-year career at 
+Goodyear. Lilly Ledbetter described for us in Judiciary how she had no 
+proof of pay discrimination until someone anonymously slipped payroll 
+records into her mailbox. Now, as much as our colleagues on the other 
+side of the aisle would like to wish it to be otherwise, until a few 
+months ago, it was established law that each paycheck constitutes a 
+discriminatory act under the law.
+  When they were confirmed, Chief Justice Roberts and Justice Alito 
+promised to follow precedent. They promised to practice judicial 
+restraint. Instead, they rewrote the law and pushed an activist, 
+conservative agenda. They denied Lilly Ledbetter justice.
+  In the real world, discrimination is subtle and takes years to become 
+evident. However, Justice Alito ruled that victims have only 180 days 
+after a discriminatory decision has been made to file suit, even if 
+that employee would have no way of knowing about it. This standard is 
+impossible to meet. The opponents of this bill expect employees to be 
+clairvoyant.
+  Many companies intentionally prohibit their employees from comparing 
+salaries and pay raises, and this decision will allow employers to 
+shield discriminatory practices.
+  The Ledbetter Fair Pay Act rights this wrong. It clarifies that an 
+employee is discriminated against each and every time she receives an 
+unfair paycheck, and I'm surprised at my colleagues, particularly my 
+female brethren on the other side of the aisle, who are standing in 
+front of this House and asking the House to continue and repeat the 
+practice of discrimination against women who have been unfairly treated 
+for years and years.
+  I urge my colleagues to support fair pay in the workplace, and I 
+thank Chairman Miller for his leadership on this issue.
+  Mr. McKEON. Mr. Speaker, I'm happy now to yield to the gentleman from 
+New Mexico (Mr. Pearce) 2\1/2\ minutes.
+  Mr. PEARCE. Mr. Speaker, I thank the gentleman from California for 
+yielding.
+  Mr. Speaker, I rise to oppose this legislation today. Many have 
+stated it well, that discrimination is not the subject here tonight. It 
+is the end of the statute of limitations which is at issue.
+  I would like to just make a point that often we're accused in 
+Congress of appealing to the special interests, and I can't tell what 
+the motivation is on this particular piece of legislation. It could 
+have been narrowly scripted to where it applied only to the person that 
+was being affected, to where the question of whether or not it applies 
+to the full statute of limitations really would not even be a question.
+
+[[Page H8948]]
+
+  I can tell you that on Thursday of last week we sat in the Resources 
+Committee, and we heard testimony that talks about the Hard Rock Mining 
+bill that is coming up to regulate Hard Rock Mining. There is a 
+provision written by a former Clinton solicitor who is now working for 
+a special interest group. That provision in that legislation we read 
+says, ``Notwithstanding the decision of the United States Court of 
+Appeals for the Tenth Circuit in High Country Citizens' Alliance v. 
+Clarke,'' and then it goes on to say that all the decisions in court 
+are going to be set aside, and we're going to allow this group to go 
+back to court once more.
+  Keep in mind that the district court found against the group, then 
+the appellate court found against the group, and finally, the Supreme 
+Court said we will not hear the case. So all three levels of judicial 
+review had been listened to and turned down, and yet this Congress, 
+this majority, says we're going to set it aside. That was last week 
+Thursday.
+  Last week Friday, we had the Imams case, the John Does. You will 
+recall that how innocent people who report suspicious behavior would be 
+taken to court. Three-quarters of this House voted against that, and 
+yet the House's leadership found it necessary to strip the provision 
+out in conference. That provision was stripped out, and that provision 
+was added then only under great pressure from this country.
+  And now we're at this case. It would have been possible and could 
+have been possible to narrowly craft this legislation to where the 
+question did not come up. I feel that it is the special interests of 
+the trial lawyers who in each case would have had open venue, open 
+access to many millions of Americans which was at stake, and I feel 
+that's what's like at stake here.
+  It is not good for American business. It is not good for American 
+competitiveness. I'm deeply opposed to this legislation, and I thank 
+the gentleman for yielding
+  Mr. GEORGE MILLER of California. Mr. Speaker, I reserve my time.
+  Mr. McKEON. How much time do we have?
+  The SPEAKER pro tempore. The gentleman from California (Mr. McKeon) 
+has 6\1/2\ minutes remaining. The gentleman from California (Mr. George 
+Miller) has 7 minutes remaining.
+  Mr. McKEON. Mr. Speaker, I'm happy to yield at this time to the 
+gentleman from Minnesota (Mr. Kline) 3 minutes, ranking member on the 
+subcommittee.
+  Mr. KLINE of Minnesota. Mr. Speaker, I thank the gentleman for 
+yielding.
+  Mr. Speaker, I rise today to oppose H.R. 2831. I think it's been 
+really an interesting debate this evening. We've heard views on both 
+sides, and clearly, we simply disagree on some fundamental aspects of 
+this, and I want to address that as well during my 3 minutes.
+  Speaker after speaker on this side of the aisle has stood up and said 
+that this legislation effectively eliminates the statute of limitations 
+for a broad range of discrimination claims. I believe that's correct.
+  The gentleman from Florida (Mr. Keller) stood up here and recounted 
+for us the activities of the Supreme Court, and he quoted from the 
+justices the language that pertained, and it seemed clear to me that 
+there was a fairness issue here. And while our hearts were all touched 
+by the testimony of Lilly Ledbetter and by the circumstances of her 
+case, it was clear to the court and to Mr. Keller and to me that it's 
+simply unreasonable to allow year after year after year to go by after 
+a discriminatory act occurs before you make the claim, when in some 
+cases people will have left, perhaps have died and moved on.
+  This is a huge boon to the trial lawyers of America. It's going to 
+bring forward endless litigation, case after case going on day after 
+day. What businesses will have to do in terms of recordkeeping is 
+staggering in its scale.
+  This imperils pensions. One of our colleagues brought up that issue. 
+It is not at all clear, despite some findings language in the bill, 
+that our pensions will be protected in this legislation. Potentially, 
+you can have pensions who simply don't have the funds to pay the earned 
+benefits. This is bad policy, Mr. Speaker, and it's made in haste.
+  Mr. Speaker, it is very clear that this legislation amounts to a 
+significant change in our civil rights laws. It's very clear to me, and 
+unfortunately, many of the questions of concern raised by the Ledbetter 
+case have yet to be answered. In the normal legislative process, such 
+questions would have been raised in committee hearings, subcommittee 
+and full committee. Concerns would have been debated in good faith.
+  Unfortunately, this was not the process that brought this bill to the 
+floor. The Committee on Education and Labor had no legislative 
+hearings. The bill was not before us the one time we had some witnesses 
+before us to talk about this at all. The time elapsed from the bill's 
+introduction to committee markup was little more than 24 business 
+hours, and we learned on Friday that we were going to be debating this 
+bill on the floor today. Surely, a huge change like this to our civil 
+rights laws deserves more of our time, attention and effort than the 
+majority has seen fit to provide.
+  Once again, the majority has chosen haste and speed over quality in 
+making public policy. My concerns and unanswered questions can only 
+lead me to say that the Ledbetter bill makes for bad policy, creating a 
+flawed legislative process.
+  I urge my colleagues to vote against this legislation.
+  Mr. GEORGE MILLER of California. If I can inquire of the Chair as to 
+the allocation of time?
+  The SPEAKER pro tempore. The gentleman from California (Mr. George 
+Miller) has 7 minutes. The gentleman from California (Mr. McKeon) has 
+3\1/2\ minutes.
+  Mr. GEORGE MILLER of California. As I understand, I have the right to 
+close.
+  The SPEAKER pro tempore. The gentleman has the right to close.
+  Mr. GEORGE MILLER of California. We're reserving 3 minutes; is that 
+right?
+  Mr. McKEON. It was my understanding we were going to finish up 
+tomorrow.
+  Mr. GEORGE MILLER of California. So we're reserving 3 minutes each. 
+You've got a half minute. You and I will close, and we will each have 3 
+minutes for tomorrow.
+  Mr. McKEON. So you want me to take 30 seconds?
+  Mr. GEORGE MILLER of California. Yes.
+  Mr. McKEON. Mr. Speaker, I yield myself 30 seconds.
+  Mr. Speaker, as Mr. Kline just said, I think we have had a good 
+debate here tonight.
+  As we did have that hearing on Ms. Ledbetter's case, the bill wasn't 
+before us, but we did hear her story. And all of us I think felt bad 
+for her for the things that happened to her 20, 30 years ago.
+  But what was also said, as we're sent here to represent all of our 
+constituents, we can't totally let emotion guide our decisions. We have 
+to make good law, sound law, and I think we're worried about losing the 
+statute of limitations. I think that's something we really need to 
+protect against.
+  Mr. Speaker, I reserve the balance of my time
+  Mr. GEORGE MILLER of California. Mr. Speaker, I yield myself 4 
+minutes.
+  Mr. Speaker, let us understand something here. They can say it until 
+the cows come home, but the fact of the matter is, this legislation 
+restores the law to what it was before. Up until the Supreme Court made 
+its ruling, each discriminatory check that was issued was a violation 
+of the law, and you had 180 days from the issuance of that check when 
+you discovered it to file a claim. This legislation would restore that 
+law as it was.
+  If you file that claim, if you were successful in proving your claim, 
+you could receive up to 2 years back pay. That was the law up until the 
+Supreme Court decision. That would be the law if we passed this 
+legislation.
+  Now, my colleagues on the other side of the aisle have said that if 
+we pass this law, the courts will be inundated with lawsuits. The 
+people will wait 5, 10, 15, 20 to file a lawsuit, that there will be 
+cases where the witnesses die and memories fade and long times will 
+expire and we won't be able to have justice. It will be a huge cost on 
+the business community. It will change our competitive stature in the 
+world. It will limit economic growth. All of that from little Lilly 
+Ledbetter.
+
+[[Page H8949]]
+
+  What's the problem with that? If all of that was true, why haven't my 
+colleagues come to the floor of the House in the 12 years they 
+controlled the House of Representatives and the United States Senate 
+and asked to change the law? Why hasn't the President of the United 
+States, who's been in office for 6\1/2\ years, asked to change the law?
+  Why hasn't that happened? Because none of the things you talked about 
+happened under the previous law. It didn't change our competitiveness. 
+They weren't involved in thousands of cases. People didn't wait 40 or 
+50 years to get 2 years back pay. No, none of those things happened.
+  But they want to scare people into believing if we go back to the law 
+as it was before the Lilly Ledbetter case and the Supreme Court 
+overturned all of these years of laws and justice and fairness and 
+anti-discrimination provisions, that somehow all of these terrible 
+things would happen, but they didn't happen, and that's been the law 
+all of these years.
+  So, tomorrow we will get an opportunity to vote to restore the 
+protections of every American citizen against pay discrimination, to 
+restore justice to the workplace, to restore the right of an individual 
+to be paid the same as those who are doing the same job for the same 
+reasons and the same purposes. That's what we seek. That's all Lilly 
+Ledbetter sought, but she couldn't get justice at the Supreme Court. 
+No, she couldn't get it even though a jury found that that could be the 
+situation.
+  So we're going to have to restore this for the people of this 
+country, and again, we'll simply be restoring the law. You can tell the 
+doomsday scenarios all day long. You can predict all of the things that 
+are going to happen, but none of them have happened in the last 35 
+years. None of them have happened in the last 35 years.
+  So at least you ought to properly represent what the law was and what 
+the law will be, and with that, I look forward to the conclusion of the 
+debate tomorrow
+  Ms. WASSERMAN SCHULTZ. Mr. Speaker, I met Lily Ledbetter during a 
+House Judiciary Committee hearing last month. At that time, she 
+explained how she was repeatedly harassed during her 20-year career at 
+Goodyear. She told me how she had no proof of pay discrimination until 
+someone anonymously slipped payroll records into her mailbox. Until a 
+few months ago, it was established law that each paycheck constitutes a 
+discriminatory act under the law.
+  When they were confirmed, Chief Justice Roberts and Justice Alito 
+promised to follow precedent--they promised to practice judicial 
+restraint. Instead, they rewrote the law and pushed an activist, 
+conservative agenda. They denied Lily Ledbetter justice.
+  In the real world, discrimination is subtle and takes years to become 
+evident. However, Justice Alito ruled that victims have only 180 days 
+after a discriminatory decision has been made to file suit--even if 
+that employee would have no way of knowing about it! This standard is 
+impossible to meet.
+  Many companies intentionally prohibit their employees from comparing 
+salaries and pay raises, and this decision will allow employers to 
+shield discriminatory practices.
+  The Ledbetter Fair Pay Act rights this wrong. It clarifies that an 
+employee is discriminated against each and every time she receives an 
+unfair paycheck.
+  I urge my colleagues to support fair pay in the workplace, and I 
+thank Chairman Miller for his leadership on this issue.
+  Mr. STARK. Mr. Speaker, I rise in strong support of pay equity.
+  The rationale for the Ledbetter Fair Pay Act of 2007 should be 
+obvious. All people, regardless of gender, race, ethnicity, and 
+religious or sexual orientation, should receive equal pay for equal 
+work.
+  Unfortunately, that is not the case today in America. African-
+Americans make only 77 cents for every dollar made by men, black 
+families make about 60 cents of every dollar made by whites, and gays, 
+lesbians and other minorities regularly face discrimination in the 
+workplace.
+  The Supreme Court's recent decision makes it incredibly difficult for 
+employees to challenge acts of discrimination. The decision limits to 
+six months the period in which victims can challenge their employers 
+and be compensated for discrimination.
+  Such a time limit was insufficient for Lily Ledbetter, whose pay 
+slowly slipped in comparison to the pay of her male coworkers over a 
+period of nineteen years. It would also be insufficient for millions of 
+other workers, who often learn of pay discrimination only after the 
+fact. The majority of companies do not release information on 
+comparable salaries, making it, difficult if not impossible for 
+employees to determine if wage discrimination is taking place.
+  In a typicaly shortsighted move, Bush has threatened to veto this 
+bill on the grounds of preventing frivolous lawsuits. The word 
+``frivolous'' can be used to describe many things, but it most 
+certainly cannot be used to describe a bill that brings the people of 
+this country a step closer to the equality that they deserve. For 
+someone who claims he wants to spread the principles of equality and 
+democracy to the people of the Middle East, it is unfathomable that he 
+would fail to uphold these ideals for the people of this country.
+  As representatives of a country that was founded on the idea of 
+equality for all, there is no excuse for denying citizens the 
+opportunity to contest acts of discrimination. I urge my colleagues to 
+support this important legislation.
+  Mr. LARSON of Connecticut. Mr. Speaker, I rise today in strong 
+support of the Ledbetter Fair Pay Act of 2007 (H.R. 2831), which is an 
+important step in ensuring the fair and equal pay deserved by women in 
+our workforce.
+  Women have made tremendous strides forward in America's workforce. 
+Earlier this year I was proud to see the election of the first female 
+Speaker of the House. Today, women serve as executives at some of 
+America's largest corporations and in distinguishing professions such 
+as medicine and law. However, 43 years after the Civil Rights Act was 
+enacted by Congress, women such as Lilly Ledbetter continue to struggle 
+to receive payment equal to their male counterparts. These women, who 
+perform the same jobs with the same responsibilities, on average earn 
+only 77 cents for every dollar that their male counterparts earn. They 
+have had to overcome one obstacle after another on their way to earning 
+equal pay and equal respect for their work.
+  On May 29th, 2007, the United States Supreme Court threw yet another 
+obstacle into the path of women in the workforce with the decision of 
+Ledbetter v. Goodyear. According to this decision, if an employee fails 
+to file a claim within 180 days of their employer's decision to pay 
+them less, rather than when she receives a discriminatory paycheck, she 
+will be barred forever from challenging the discriminatory paychecks 
+that follow and forced to live with the discriminatory pay for the rest 
+of her career. If this is allowed to stand, it will be a severe setback 
+to women everywhere.
+  I am proud to be a cosponsor of H.R. 2831, which would restore 
+protections guaranteed under Title VII of the Civil Rights Act for 
+victims of pay discrimination who are entitled to justice and fair pay. 
+Contrary to what opponents of this legislation have said, this bill 
+does not eliminate the statute of limitations on claims. What it does 
+is ensure that the clock on the statute of limitations begins once a 
+discriminatory paycheck is received rather than from the point a 
+decision was made to discriminate against an employee. Every 
+discriminatory paycheck will be a new violation of this law and restart 
+the clock for filing a claim. Until the Ledbetter decision, this was 
+the accepted understanding of Title VII and this bill will restore the 
+law prior to Ledbetter.
+  Mr. Speaker, we must continue the fight for pay parity begun by 
+Congress over 40 years ago. I would like to thank Chairman George 
+Miller for his leadership on this important issue in the House 
+Education and Labor Committee. This piece of legislation, as well as 
+the Paycheck Fairness Act (H.R. 1338) introduced by my good friend 
+Representative Rosa DeLauro of which I am also a cosponsor, are needed 
+to ensure women continue to receive equal treatment. I urge all my 
+colleagues to stand up for women workers and vote in favor of this 
+bill.
+  Mr. LOEBSACK. Mr. Speaker, I rise today, in strong support of the 
+Lilly Ledbetter Fair Pay Act of 2007. This bill will rectify the 5-4 
+Supreme Court decision in the case of Lilly Ledbetter and preserve 
+worker's rights everywhere.
+  Lilly Ledbetter was a female production supervisor at a Goodyear 
+plant in Gadsden, Alabama. She worked for 19 years and retired in 1998. 
+Six months prior to her retirement she filed a charge with the EEOC 
+alleging various claims of sex discrimination.
+  Despite receiving awards for top performance, Ms. Ledbetter received 
+several unfair, negative evaluations and her pay dropped well below 
+that of her male counterparts. Ledbetter's supervisor even admitted 
+that one year her pay fell below the minimum threshold for her 
+position.
+  Ms. Ledbetter's case went to trial, and an Alabama court found in her 
+favor, but Goodyear appealed and the case eventually went to the 
+Supreme Court. Unfortunately, the Supreme Court tossed aside prior law 
+and ruled against Ms. Ledbetter.
+  This case has far reaching effects on all worker's civil rights. If 
+an employee does not file a charge within 180 days of a discriminatory 
+pay decision, the employer's pay decision is immunized. The employee 
+must live with discriminatory pay for the rest of her tenure,
+
+[[Page H8950]]
+
+and the employer reaps the financial benefits of unlawfully underpaying 
+the employee.
+  There are numerous problems with this line of reasoning. Employees 
+often don't know about a discriminatory decision until it is too late. 
+Pay disparities are difficult to discern. Many employers prohibit 
+employees from discussing their salaries, and workplace norms warn 
+against asking coworkers about their salaries. Additionally, a minor 
+pay disparity adopted for discriminatory reasons in the beginning of a 
+career may go unnoticed until, years later, after subsequent percentile 
+adjustments, it is too large to ignore.
+  This bill overturns the Ledbetter v. Goodyear decision and restores 
+the longstanding interpretation of Title VII of the Civil Rights Act 
+and states that each paycheck that results from a discriminatory 
+decision is itself a discriminatory act that resets the clock on the 
+180-day period within which a worker must file.
+  This bill acknowledges the realities of the workplace and provides 
+necessary protections to hardworking men and women. I urge my 
+colleagues to support its passage.
+  Mr. BACA. Mr. Speaker, I rise today to voice my strong support for 
+H.R. 2831, The Lilly Ledbetter Fair Pay Act of 2007.
+  I want to thank my friend, Congressman George Miller, for sponsoring 
+this bill and for his tireless efforts on behalf of working American 
+families everywhere.
+  This past May, the Supreme Court handed down a decision with 
+disastrous consequences for many Americans. With their ruling on the 
+Ledbetter v. Goodyear case, the Court severely limited the right of 
+workers to sue their employers for discrimination in pay.
+  If allowed to stand, this decision will strip many of the rights of 
+employees who have been discriminated against on the basis of sex, 
+race, color, or religion.
+  Today's bill rectifies the Supreme Court's misguided decision.
+  By restoring the longstanding interpretation of Title VII of the 
+Civil Rights Act--Congress is ensuring that every American has the 
+basic workplace protection they deserve.
+  Currently--women earn 76 cents to every dollar a man earns. This is 
+unacceptable. Discrimination in the workplace must no longer be 
+tolerated. We must ensure equal pay for equal work.
+  It is our duty to protect the rights of every American--no matter 
+their skin color, gender, or income level.
+  I urge my colleagues to protect the rights of working Americans and 
+to vote in favor of H.R. 2831.
+  Mr. RUPPERSBERGER. Mr. Speaker, I rise in strong support of the Lilly 
+Ledbetter Fair Pay Act of 2007.
+  The Supreme Court ruled in a narrow 5-4 decision that Lilly Ledbetter 
+was not entitled to any remedy after demonstrating she had been paid as 
+much as 40 percent less than male workers doing the same job for 19 
+years. The decision was founded on a narrow misreading of the intent of 
+Congress in the Civil Rights Act of 1964. The Court erroneously ruled 
+that Ms. Ledbetter could only rely on paychecks she received in the 
+final 180 days of her career at Goodyear to prove discrimination.
+  Mr. Speaker, the Supreme Court's narrow reading of the law prompted 
+me to introduce my own legislation to correct this injustice. I was 
+joined by Congresswoman Carolyn Kilpatrick and Congresswoman Debbie 
+Wasserman Schultz as original authors of H.R. 2660, the ``2007 Civil 
+Rights Pay Fairness Act''. I want to thank them both for working with 
+me on this issue, and I commend our Chairman George Miller for moving 
+expeditiously to right this wrong. Chairman Miller's bill brings about 
+a different remedy in H.R. 2831, but it is no less forceful, and I am 
+proud to also be a cosponsor.
+  Both bills clarify the intent of Congress by amending the Civil 
+Rights Act of 1964 to make clear that courts must consider a pattern of 
+pay decisions that recur and are cumulative. H.R. 2660 and H.R. 2831 
+are bills that ensure that victims of workplace discrimination receive 
+effective remedies. The decision of the Court in this case was a sharp 
+departure from precedent and would greatly limit the ability of pay 
+discrimination victims to vindicate their rights.
+  Congress must make clear that a pay discrimination claim accrues when 
+a pay decision is made, when an employee is subject to that decision, 
+or at any time they are injured by it. As a former prosecutor and 
+County Executive, I fought against this kind of injustice and I am 
+pleased this House is ready today to stand up and correct the error of 
+the Supreme Court in the Ledbetter case.
+  Mr. Speaker, I urge my colleagues to vote in favor of the Lilly 
+Ledbetter Fair Pay Act of 2007 to correct the Supreme Court's 
+misinterpretation of Title VII regarding when a pay discrimination 
+claim is timely filed.
+  Mr. HOLT. Mr. Speaker, I rise today in strong support of the 
+principle of equal pay for equal work and the Lilly Ledbetter Fair Pay 
+Act of 2007, H.R. 2831.
+  On May 29, 2007, the Supreme Court issued a disturbing and 
+retrobressive ruling. In a 5-4 ruling the Court issued its decision in 
+a sex discrimination case, Ledbetter v. Goodyear, that fundamentally 
+changed protections that American workers have enjoyed for more than 40 
+years when they were codified in the Civil Rights Act of 1964.
+  As a member of the House Committee on Education and Labor, I 
+participated in a hearing on the flawed ruling in Ledbetter v. 
+Goodyear. During that hearing the Committee heard testimony from Lilly 
+Ledbetter describing the pay discrimination that resulted in her 
+earning twenty percent less than the lowest paid man in the same 
+position at Goodyear.
+  Applying the law as it was written and intended, the trial court 
+awarded Lilly Ledbetter backpay and compensatory damages because of 
+Goodyear's illegal sex discrimination. On appeal it went all the way to 
+the Supreme Court, where Justice Samuel Alito led the 5-4 majority in 
+dismissing the case. According to Justice Alito, when Lilly Ledbetter 
+failed to file a discrimination case within the statutorily provided 
+180 days from the initial decision to pay her less than her male 
+colleague, she was barred from filing a complaint and no relief was 
+available. Despite documenting the sex based evaluation system Goodyear 
+managers used, Lilly Ledbetter was denied justice and the rights 
+afforded to her under the Civil Rights Act.
+  In a strongly worded dissent Judge Ginsburg noted the fallacy of the 
+Majority's argument regarding the timeliness of Lilly Ledbetter's 
+filing. She reminded the Court that a previous ruling that held each 
+``paycheck perpetuating a past discrimination . . . are actionable not 
+simply because they are `related' to a decision made outside the 
+charge-filing period . . . but because they discriminate anew each time 
+they are issued.''
+  Judge Ginsburg explicitly called on Congress to intervene and uphold 
+the protections provided by the letter and the spirit of the law, 
+saying ``the ball is in Congress' court.''
+  Today, we answer Judge Ginsburg's call and reverse this disturbing 
+Supreme Court decision. Today, we make clear that Congress is committed 
+to protecting the rights of American workers and to ensuring that they 
+have adequate remedies if they are discriminated against in the 
+workplace.
+  The passage of the Lilly Ledbetter Fair Pay Act of 2007 clarifies 
+that when it comes to discriminatory pay, the protections of Title VII 
+of the Civil Rights Act, the Age Discrimination in Employment Act, the 
+Americans with Disabilities Act and the Rehabilitation Act extend not 
+only to these discriminatory pay decisions and practices but to every 
+paycheck that results from those pay decisions and practices. Any 
+reasonable citizen who believes that we need protect the rights of 
+workers for fair treatment at the workplace and fair pay would surely 
+find the Supreme Court decision unreasonable. We must act once to 
+reestablish fairness. I urge my colleagues to support this important 
+legislation.
+  Mr. GEORGE MILLER of California. Mr. Speaker, I yield back the 
+balance of my unexpired time, and I reserve the 3 minutes for tomorrow.
+
+                              {time}  2300
+
+  The SPEAKER pro tempore. Pursuant to section 2 of House Resolution 
+579, further proceedings on the bill will be postponed.
+
+                          ____________________
+```

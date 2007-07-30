@@ -1,0 +1,37 @@
+---
+granule: CREC-2007-07-30-pt1-PgS10338-4
+date: 2007-07-30
+edition: CREC
+section: SENATE
+page: S10338
+citation: 153 Cong. Rec. S10338
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                              IN THE NAVY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES NAVY TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                           To be vice admiral
+
+REAR ADM. JAMES A. WINNEFELD, JR., 0000
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES NAVY TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                             To be admiral
+
+VICE ADM. MARK P. FITZGERALD, 0000
+```

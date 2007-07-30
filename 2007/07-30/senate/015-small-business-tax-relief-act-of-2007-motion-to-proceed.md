@@ -1,0 +1,154 @@
+---
+granule: CREC-2007-07-30-pt1-PgS10303
+date: 2007-07-30
+edition: CREC
+section: SENATE
+page: S10303
+citation: 153 Cong. Rec. S10303
+---
+
+# SMALL BUSINESS TAX RELIEF ACT OF 2007--MOTION TO PROCEED
+
+**Speaking:** Sanders, Bernard (S000033) [I-VT]
+
+**Measures:** S. 941, S. 1564
+
+```
+        SMALL BUSINESS TAX RELIEF ACT OF 2007--MOTION TO PROCEED
+
+  The PRESIDING OFFICER. The Senator from Vermont is recognized.
+  Mr. SANDERS. Madam President, I want to take this opportunity to say 
+a few words about health care in general and about the needs of our 
+children in particular. Let me preface my remarks by saying that I 
+think it is clear to most Americans that our health care system today 
+is disintegrating, and that we unfortunately and tragically remain the 
+only country in the industrialized world that does not guarantee health 
+care to all of its people as a right of citizenship.
+  Now, I hear a whole lot of talk in the Senate--I heard it in the 
+House--about health care. But, up front, we should be aware that there 
+is something fundamentally wrong in terms of the way we do business 
+that 46 million Americans have zero health insurance, that the cost of 
+health care is soaring every single year, and that tens of millions of 
+Americans who do have health insurance have very weak insurance 
+programs and are underinsured.
+  On top of all of that, with 46 million uninsured, tens of millions 
+underinsured, we continue to pay by far the highest prices in the world 
+for our prescription drugs. In other words, we have a problem, and the 
+time is long overdue for the Senate to stand up to the insurance 
+companies and the drug companies and start representing the American 
+people.
+  In my view, the solution is moving us toward a national health care 
+program which provides health care to every man, woman, and child as a 
+right of citizenship.
+  When people say, well, something like that will be very expensive. 
+Well, not really. What we have now is clearly the most inefficient and 
+wasteful nonsystem in the world by which we are spending twice as much 
+per capita for health care as any other major country.
+
+[[Page S10304]]
+
+  So people say: Well, gee, the Canadian system is not perfect; The 
+British system is not perfect; The Danish system is not perfect. True 
+enough. Neither is our system. And we spend twice as much per person on 
+health care as does any other system.
+  Tonight, and in the coming few days, we are going to be focusing on 
+the needs of our children. In the midst of a nation with 46 million 
+uninsured, we have over 9 million children, one in nine, who are also 
+uninsured. Every 46 seconds another baby is born uninsured in the 
+United States.
+  I have heard a lot through my career in the U.S. Congress about 
+family values. So let me be very clear and suggest that it is not a 
+family value to live in a country in which 9 million children have no 
+health insurance at all.
+  Uninsured children are almost 12 times as likely as insured children 
+to have an untreated medical need, are four times as likely as insured 
+children to have an unmet dental need.
+  The statistics go on. An estimated two-thirds of children and 
+adolescents with mental health needs are not getting the care they 
+need. Only one in five children with serious emotional disturbances 
+receives specialized treatment. Given this sorry state of affairs, I 
+find it ironic that we are having any debate about increasing health 
+care coverage for children under the CHIP program. It seems to me that 
+the very least this Nation should be doing is providing health 
+insurance to every child in America--something, by the way, this bill 
+does not do.
+  If this bill, in its current form, were to pass tomorrow, it would 
+provide health insurance to approximately one-third of the children who 
+are uninsured--one-third. In my opinion, as we move toward a national 
+health care program guaranteeing health care to every man, woman, and 
+child, the very least we should be doing is making sure all of our 
+children are covered. That is why I have recently introduced S. 1564, 
+the All Healthy Children Act of 2007.
+  This bill, in fact, would provide the opportunity for every child in 
+America to have health care coverage. In addition, since insurance 
+coverage alone does not guarantee access--in other words, you can have 
+health insurance, but you cannot necessarily find a doctor or a dentist 
+who will treat you--we must also make certain there is an adequate 
+supply of health professionals and conveniently located sites of care.
+  Along with Senator Murkowski, I have also introduced S. 941, the 
+Community Health Centers Investment Act, to significantly expand the 
+number of community-based, federally qualified centers, a proven cost-
+effective system of primary health care that is governed by the people 
+who use it. These health care democracies serve all regardless of 
+ability to pay and insurance status.
+
+  The issue we are dealing with in terms of health care is not only 
+providing health insurance but making sure there are doctors and 
+clinics and hospitals available to treat the people who need the help. 
+One of the crises, of the many we are facing as a nation in terms of 
+health care, is, believe it or not, we are not producing the doctors we 
+need for today, especially in rural areas and primarily in primary 
+health care. We are not producing the dentists we need. We are not 
+producing the nurses we need. As our Nation becomes older, those 
+problems will only become more severe.
+  In that regard, I have done what I could and will continue to move 
+forward to significantly increase the funding for the National Health 
+Service Corps, to provide scholarships and loan repayment to those 
+choosing primary care specialties and agreeing to practice in 
+underserved areas. I am happy we are on a path to increase funding for 
+community health centers, but clearly we have a long way to go in order 
+to fund the national health service.
+  While the debate on these initiatives awaits another day, we must 
+pass a CHIP bill that matches the House bill in funding level. 
+Accordingly, I will be cosponsoring the Kerry amendment to provide 
+SCHIP with a $50 billion increased authorization over the next 5 years. 
+At a minimum, though, I certainly hope the Senate passes the bill 
+approved by the Senate Finance Committee.
+  I know some of the objections raised about expanding health care 
+coverage for children come from people who think spending the amount of 
+money proposed in this legislation is too much. I mention to those 
+Members who, in many cases--certainly including the President of the 
+United States--are supporting the repeal of the inheritance tax, the 
+estate tax, to tell them that with the full repeal of the estate tax, 
+one of the wealthiest families in America would receive in tax breaks 
+almost as much money as we are attempting to spend right now to provide 
+health care for over 3 million American children. So on the one hand, 
+there are people--the President of the United States, among others--who 
+say we have to repeal the inheritance tax, all of which benefits now 
+will go to the wealthiest three-tenths of 1 percent. One family getting 
+$32 billion, that is a good idea. But to provide $35 billion to provide 
+health care for over 3 million American children, that is a bad idea. I 
+think those priorities are a little bit backwards.
+  Let me conclude by saying all of us are very proud to be Americans. 
+We want this country to be No. 1 in many respects. It should not give 
+any of us pride to know that in every other major country on Earth 
+virtually all of the people have health insurance as a right, have 
+lower cost prescription drugs than we do. The idea that today and 
+tomorrow we will be debating whether we can afford to provide another 3 
+million children with health insurance suggests to me we have a long 
+way to go in this debate. We should not only provide health insurance 
+to 3 million children, we should provide health insurance to the over 9 
+million children who are without health insurance. We should provide 
+health insurance not just to 9 million uninsured children but to 46 
+million uninsured Americans.
+  In my view, health care is a right, not a privilege. The idea that 
+there are people today who are scared to death about what happens when 
+they or their children become ill because of the high cost of health 
+insurance is something that should not take place in this country. This 
+bill is a small but important step forward.
+  At the end of the day, we have to join the rest of the industrialized 
+world and make sure all of our people, regardless of income, have high 
+quality health care.
+
+                          ____________________
+```
