@@ -1,0 +1,21 @@
+---
+granule: CRECB-2007-pt16-Pg21930
+date: 2007-07-31
+edition: CRECB
+section: HOUSE
+page: 21930
+---
+
+# ANNOUNCEMENT BY THE SPEAKER PRO TEMPORE
+
+```
+                ANNOUNCEMENT BY THE SPEAKER PRO TEMPORE
+
+  The SPEAKER pro tempore. The Chair advises Members that, pursuant to 
+clause 8 of rule XX, the pending series of questions also will include 
+the proceedings de novo on agreeing to the Speaker's approval of the 
+Journal, on which the minimum time for electronic voting will be 5 
+minutes.
+
+                          ____________________
+```
