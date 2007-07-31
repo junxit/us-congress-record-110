@@ -1,0 +1,51 @@
+---
+granule: CREC-2007-07-31-pt1-PgH9056-2
+date: 2007-07-31
+edition: CREC
+section: HOUSE
+page: H9056
+citation: 153 Cong. Rec. H9056
+---
+
+# IRAQ
+
+**Speaking:** Sestak, Joe (S001169) [D-PA]
+
+```
+                                  IRAQ
+
+  The SPEAKER pro tempore. Pursuant to the order of the House of 
+January 4, 2007, the gentleman from Pennsylvania (Mr. Sestak) is 
+recognized during morning-hour debate for 2 minutes.
+  Mr. SESTAK. I am here to speak about Iraq. Americans are tired of 
+this war, but at the same time they want to secure the best of the 
+situation for the perception of security not just in that region but 
+globally.
+  I watch the Republicans and our concern as Democrats is that they 
+believe that our military might provide a solution in Iraq. I look at 
+my party and my concern is that we need to stop the impure opposition 
+and to begin to help craft, to help author an implementable, 
+comprehensive Middle East/Persian Gulf security plan. But to do that, 
+we obviously need a union with our Republican brethren.
+  I honestly believe that when people talk about taking care of our 
+troops, the belief is not that we use them in war when necessary but 
+where and how we use them. There are the elements right now to begin to 
+come together in a union to craft a comprehensive end to this tragic 
+misadventure that can meet the goals of both sides.
+  First, we have an army that is strained and by next April we will be 
+at the point of almost irreparable harm for some years to come. Second, 
+we know that in order to redeploy that army out of Iraq, it will take 
+time. When the Soviet Union left Afghanistan with 120,000 troops, it 
+took them 9 months and because of the ill preparation, 500 died on the 
+way. We have 160,000 troops, 100,000 contractors. We must work well to 
+get them to redeploy safely. They can only take in Kuwait two to two 
+and a half brigades at a time. Forty combat equivalent brigades are in 
+Iraq. The math comes out to a minimum of 18 to 24 months.
+  Third, because of that time line we can use the last arrow in our 
+arsenal we have not used, diplomacy. The road out of Iraq is through 
+Tehran, Iran. If we have the ability as we slowly redeploy to bring 
+together Iran to work for stability, we can have a comprehensive 
+solution to this conflict.
+
+                          ____________________
+```

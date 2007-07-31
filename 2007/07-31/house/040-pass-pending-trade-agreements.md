@@ -1,0 +1,35 @@
+---
+granule: CREC-2007-07-31-pt1-PgH9191-4
+date: 2007-07-31
+edition: CREC
+section: HOUSE
+page: H9191
+citation: 153 Cong. Rec. H9191
+---
+
+# PASS PENDING TRADE AGREEMENTS
+
+**Speaking:** Goodlatte, Bob (G000289) [R-VA]
+
+```
+                     PASS PENDING TRADE AGREEMENTS
+
+  (Mr. GOODLATTE asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. GOODLATTE. Mr. Speaker, I rise today to urge my colleagues to 
+pass several pending trade agreements. I believe in the benefits of 
+free and fair trade. I support efforts to open foreign markets to 
+American goods and services whenever possible because such efforts lead 
+to increased economic growth for the Nation as a whole.
+  With approximately one in every four jobs in my congressional 
+district being tied to trade, the expansion of trade means a healthy 
+future for a number of local businesses, and in turn, new jobs for my 
+district and the Nation.
+  It is disappointing that the Democratic majority has not embraced 
+these trade agreements, as they would mean new jobs for citizens across 
+the Nation.
+  Mr. Speaker, I remain committed to the benefits of free and fair 
+trade, and I urge this House to take action on these agreements.
+
+                          ____________________
+```

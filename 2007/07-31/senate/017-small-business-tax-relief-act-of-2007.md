@@ -1,0 +1,1050 @@
+---
+granule: CREC-2007-07-31-pt1-PgS10346-2
+date: 2007-07-31
+edition: CREC
+section: SENATE
+page: S10346
+citation: 153 Cong. Rec. S10346
+---
+
+# SMALL BUSINESS TAX RELIEF ACT OF 2007
+
+**Speaking:** Baucus, Max (B000243) [D-MT], Sanders, Bernard (S000033) [I-VT], Menendez, Robert (M000639) [D-NJ], Lincoln, Blanche L. (L000035) [D-AR], Wyden, Ron (W000779) [D-OR], Bingaman, Jeff (B000468) [D-NM], Lautenberg, Frank R. (L000123) [D-NJ]
+
+**Measures:** H.R. 976, S. 1564
+
+```
+                 SMALL BUSINESS TAX RELIEF ACT OF 2007
+
+  The ACTING PRESIDENT pro tempore. Under the previous order, the 
+Senate will proceed to consideration of H.R. 976, which the clerk will 
+report.
+  The legislative clerk read as follows:
+
+       A bill (H.R. 976) to amend the Internal Revenue Code of 
+     1986 to provide tax relief for small businesses, and for 
+     other purposes.
+
+
+                           Amendment No. 2530
+
+  Mr. BAUCUS. I call up my amendment at the desk.
+  The ACTING PRESIDENT pro tempore. The clerk will report.
+  The legislative clerk read as follows:
+
+       The Senator from Montana [Mr. Baucus], for himself, Mr. 
+     Grassley, Mr. Rockefeller, and Mr. Hatch, proposes an 
+     amendment numbered 2530.
+
+  Mr. BAUCUS. I ask unanimous consent that reading of the amendment be 
+dispensed with.
+  The ACTING PRESIDENT pro tempore. Without objection, it is so 
+ordered.
+  (The amendment is printed in today's Record under ``Text of 
+Amendments.'')
+  Mr. BAUCUS. Mr. President, the Senate now has before it the 
+reauthorization of the Children's Health Insurance Program, otherwise 
+known as CHIP. Pending is a substitute amendment that reflects the bill 
+reported by the Finance Committee by a vote of 17 to 4, a strong 
+bipartisan vote.
+  The bipartisan package Finance Committee colleagues and I crafted 
+will give millions more American children the healthy start they need 
+to lead a long, productive life.
+  Behind me is a photo of Abigale. Who is Abigale? Abigale is from 
+Missoula, MT. At the time the photo was taken she was 4 years old. 
+Abigale has two siblings, and they live with their mother and father. 
+All three of the children participate in the Montana Children's Health 
+Insurance Program. When Abigale was 2\1/2\ years old, she fell down, 
+split her head open and had to have nine stitches. Her medical care was 
+covered by the Children's Health Insurance Program. That same year her 
+6-year-old brother broke his arm twice and CHIP paid for the surgery, 
+the hospital stay, and all of the medical care he received.
+  Fawn, Abigale's mother, is thankful to have CHIP not only for the 
+emergency care it provides but also it helps immunize children against 
+childhood diseases and allows them to get the checkups they need for 
+school each year.
+  Not having health insurance clearly affects a child's life. Uninsured 
+kids do not go to the doctor. They do not have checkups. They remain 
+undiagnosed for serious childhood conditions such as asthma and 
+diabetes. They do not have vaccinations, and they put themselves and 
+their schoolmates at risk for serious illnesses. Kids without health 
+insurance do not have eye exams and are less likely to get glasses, and 
+often cannot see the chalkboard at school. They are not diagnosed with 
+learning disabilities, and they struggle through their classes. Kids 
+who do not have insurance do not see the dentist. They do not get their 
+cavities filled. They do not get braces, and they risk serious illness 
+due to poor dental health. Adequate health care creates a critical 
+foundation for a healthy life.
+  No one wants innocent children to suffer. Investing in children's 
+health is the compassionate choice, but it is more than that. Insuring 
+our children is a smart economic investment in our Nation's future. 
+Why? Because it is the only choice, if we wish to imbue future 
+generations with strong minds and healthy bodies. It is quite simple. 
+Health insurance has a direct effect on a child's performance at 
+school. Healthy children are more likely to go to school, and they are 
+more likely to do well in school. Then they are more likely to become 
+productive members of the workforce.
+  Children with health insurance are less likely to receive expensive 
+emergency room care. Parents of children with health insurance are less 
+likely to miss days at work to care for their sick children. When 
+America insures our children, we are all better off, we all benefit.
+  Health insurance is especially important to the success of minority 
+populations. African-American, Hispanic, and Native American children 
+are all less likely to have health insurance. They are more likely to 
+be poor. Providing affordable coverage is one of the best ways to 
+reduce the gap for these kids.
+  CHIP has already helped to narrow racial and ethnic disparities in 
+access to care among low-income children. But we can do better. We can 
+continue to narrow that gap.
+  Health insurance is also a key ingredient to alleviating child 
+poverty. Low-income families without insurance often get stuck in a 
+bitter cycle of medical debt. Parents struggling to make ends meet 
+should not have to choose between buying asthma inhalers for their 
+children and putting dinner on the table.
+  So I hope my fellow Senators will make the right choice, the only 
+choice. I hope they will join me in making our children's future, and 
+America's future, a brighter one.
+  I yield the floor.
+  The ACTING PRESIDENT pro tempore. The Senator from Vermont.
+  Mr. SANDERS. Mr. President, this debate is not just about extending 
+health care to our children. It is about our national priorities. It is 
+about who we are as a nation. It is about which side we are on.
+  For the last 6 years, we have had a President who has insisted, as 
+one of his major priorities, on more and more tax breaks for the very 
+wealthiest people in our country. People who are worth millions of 
+dollars and people who are worth billions of dollars have, 
+collectively, received hundreds and hundreds of billions of dollars in 
+tax breaks. But when it comes to those people most in need, those 
+people who are most vulnerable, including the children of our country--
+the kids who are 2 or 3 years of age--who have health care needs, this 
+President, tragically and embarrassingly, has not been there. If you 
+are wealthy and powerful, he is there. If you are a child and 
+vulnerable, AWOL--he is not listening. In fact, he has been in 
+opposition.
+  It is no secret to the American people that our current health care 
+system is disintegrating. Today, 46 million Americans, including over 9 
+million children, have no health insurance whatsoever, and tens of 
+millions more are underinsured, with high premiums and copayments. 
+Costs are soaring every single year, and small businesses in my State 
+of Vermont and throughout this country are no longer, in many cases, 
+able to offer any health insurance. Throughout the country today 
+workers are being asked to pay a higher and higher percentage of the 
+cost of their health insurance, and many of them cannot afford to do 
+that because health insurance premiums have been rising four times 
+faster than workers' earnings since the year 2000.
+  In the midst of all of that--more and more uninsured, costs soaring--
+we end up spending twice as much per capita
+
+[[Page S10347]]
+
+on health care as any other country and remain--we remain--the only 
+Nation in the industrialized world that does not guarantee health care 
+to all our people as a right of citizenship. Today, we are debating 
+about whether we should expand the SCHIP program to 3 million more 
+children. But all over the industrialized world, every child in those 
+countries has health care as a right of citizenship.
+  Despite the over $2 trillion--$2 trillion--we now spend on health 
+care--money which, to a significant degree, goes to enrich the 
+insurance companies and the drug companies--our health status measures, 
+including infant mortality and life expectancy, rank among the lowest 
+of developed countries. We spend twice as much as other countries per 
+person on health care--with over 9 million children who have no health 
+insurance--and yet health status measures are lower than many of our 
+allies around the world.
+  There is no question but that in the face of rising costs and a 
+broken health care system, we need to make fundamental changes in the 
+way we do health care in this country. We need to develop a cost-
+effective national health care program which guarantees health care to 
+all our people, and study after study suggests we can do that without 
+spending any more than we currently spend on our wasteful and 
+bureaucratic nonsystem. That is what we have to do, and that is what I 
+will fight for as long as I am in the Senate.
+  Today, we are discussing, despite what some may say, what is, in 
+fact, a modest proposal--a modest proposal. We are discussing an 
+expansion of the SCHIP program, which would expand health care to some 
+3 million more children. Over 9 million American children today are 
+uninsured, and all we are doing today is saying: Let's expand health 
+insurance to one-third of those children. If this bill were passed in 5 
+minutes, two-thirds of the uninsured children would remain uninsured, 
+and in the United States of America we can do a lot better than that.
+  As Chairman Baucus has said, as Senator Olympia Snowe said last 
+night, investing in the health insurance of our children is a good 
+investment. It is cost effective. Today throughout this country there 
+are children who are unseen by medical professionals. They are 
+developing illnesses which are undetected. Those illnesses become worse 
+as they get older. They end up in the hospital. It costs significant 
+sums of money to treat these young people, as they age, in hospitals, 
+when we could have eased their suffering and saved money by getting to 
+their illnesses when they were young, if they had the opportunity to 
+see a doctor.
+  As Chairman Baucus also mentioned, there is the issue of dental care 
+in this country. In my own State of Vermont and throughout this 
+country, there are millions and millions of young people who simply 
+cannot gain access to a dentist who have teeth rotting in their mouths 
+in the United States of America, in the year 2007. That is not 
+acceptable to me, and I hope it is not acceptable to my colleagues in 
+the Senate.
+  Given this sorry state of affairs regarding health care in this 
+country in general, and the needs of our kids in particular, I find it 
+ironic we are having any debate about increasing health insurance 
+coverage for children under the SCHIP program.
+
+  Let me be very clear, in terms of providing health insurance to our 
+kids, I would go--and will go--a lot further than this legislation. I 
+have, in fact, recently introduced S. 1564, the All Healthy Children 
+Act of 2007, which would provide health insurance to every child in 
+America. That is where I think we should be going.
+  Some people, including the President of the United States, are 
+saying: My goodness, this bill will cost $35 billion over a 5-year 
+period; we can't afford that.
+  But I find it ironic that many of those same people, including the 
+President of the United States, believe, among other things--among many 
+other things--that we can afford to repeal entirely the estate tax, 
+which would benefit only the top three-tenths of 1 percent of the 
+American people. The very richest people in this country would, if the 
+President had his way, receive $1 trillion in tax breaks over 20 years. 
+That is $1 trillion in tax breaks over 20 years going to the wealthiest 
+three-tenths of 1 percent of the American people. That we can afford. 
+But when it comes to spending $35 billion over a 5-year period for the 
+children of our country, we do not have the money.
+  I find it ironic, if we repealed the inheritance tax, one family, the 
+Walton family who owns Wal-Mart, would receive $32 billion in tax 
+breaks. Yet we are trying to insure 3 million children today for $35 
+billion. So $32 billion for one family; $35 billion for 3 million 
+children.
+  To my mind, what this debate is about is getting our priorities right 
+as a nation. I am getting a little bit tired of hearing many of my 
+colleagues, and hearing this President, talk about family values, when 
+we have almost 10 million children in this country uninsured. If you 
+are interested in family values, you are interested in the future of 
+this country, you are interested in the children of this country.
+  This is a modest proposal. It is a first-step proposal, and it should 
+be passed and passed immediately.
+  Thank you very much.
+  The ACTING PRESIDENT pro tempore. The Senator from Montana.
+  Mr. BAUCUS. Mr. President, I might ask how much time the Senator from 
+New Jersey would like to consume. I very much appreciate and admire him 
+and thank the Senator from New Jersey for speaking on this amendment. 
+It would be helpful to know how long he would be speaking. He can have 
+whatever time he wishes.
+  Mr. MENENDEZ. Mr. President, I would say between 15 and 20 minutes.
+  Mr. BAUCUS. Mr. President, I ask unanimous consent that the Senator 
+from New Jersey be recognized to speak for 20 minutes.
+  The ACTING PRESIDENT pro tempore. Without objection, it is so 
+ordered.
+  Mr. BAUCUS. I thank the Chair.
+  The ACTING PRESIDENT pro tempore. The Senator from New Jersey.
+  Mr. MENENDEZ. Mr. President, I thank my colleague, the distinguished 
+chairman of the Finance Committee, not only for making the time 
+available but, more importantly, for his leadership on this critical 
+issue of insuring the Nation's children. There is no stronger voice in 
+the Senate on this issue. I am incredibly proud to have worked with 
+Senator Baucus, someone who is keenly interested in this program. I 
+appreciate what he has done in bringing a solid bill to the floor.
+  I rise today on behalf of our Nation's children and working families. 
+I am reminded every day when I come to the Senate that it is my 
+privilege--privilege--to represent these individuals in the Senate, and 
+with every vote I cast in this great Chamber, I try to always ensure I 
+am protecting and serving our hard-working families.
+  This week, we are considering a bill to reauthorize our children's 
+health program--a program that affects millions of families across the 
+country. This week, every vote--every vote--we cast will have a direct 
+impact on the health and well-being of our Nation's children and their 
+families.
+  I cannot overstate how important and how successful this program has 
+been. It currently provides health care to 6.6 million children. 
+Sometimes I think it is important to remember exactly what it means to 
+provide health care for children. It is the immunization shot before 
+school begins. It is a well-child doctor visit that catches early signs 
+of cancer. It is the emergency care coverage after a car accident. It 
+is the new eyeglass prescription to finally see the blackboard. It is 
+an x ray for a broken ankle and a prescription medication for a strep 
+throat. It is about ensuring the well-being of that child so they can 
+fulfill their God-given potential.
+  Proper coverage can be the difference between life and death, between 
+health and sickness, and between compassion and heartlessness.
+  In the next few days, we have choices to make, and I hope each of my 
+colleagues ask themselves one question before they cast their vote: Is 
+this good for our Nation's children? Because that should be the only 
+question and the only goal.
+  I am proud of my home State of New Jersey for always keeping this 
+goal in its mind. Our program, New Jersey FamilyCare, currently covers 
+over 126,000 children and 80,000 parents. These are working families 
+who don't qualify for Medicaid but can't afford
+
+[[Page S10348]]
+
+private coverage, and they don't get health care at their job. They 
+work at some of the toughest jobs our State has to offer. They get up 
+every day, 5 days a week--sometimes more--to try to make ends meet for 
+their families, but they don't have health insurance. These are 
+families who, without the children's health program, would yet be 
+another American family cast into the ocean of the uninsured. This 
+program saves them from that fate.
+
+  Let me take a moment to humanize what we are talking about, because 
+we talk about these programs in the abstract. They are about lives; 
+they are about people. Elizabeth Geronikos relied on the children's 
+health program for her necessary allergy and asthma medication when her 
+father suddenly lost his job. Jonathan Hale, who discovered a cyst in 
+his brain, was able to get medical attention that his family would not 
+otherwise have been able to afford because of the children's health 
+insurance program. The Cannon family no longer has to worry about their 
+son Jason, who now has a constant supply of asthma medication and has 
+suffered no serious asthma attacks since being on the Children's Health 
+Insurance Program. This is truly a life-changing, if not a lifesaving, 
+program.
+  But there are also stories of children who were not so lucky. Devante 
+Johnson, who depended on Medicaid for his cancer treatment, died, not 
+for failed chemotherapy, but because his paperwork was never processed. 
+He was 14 years old. Deamonte Driver died because he did not receive 
+treatment for an abscessed tooth--something that, if treated early, 
+would clearly not have been fatal. He was 12 years old. These stories 
+are heartbreaking not only because a child's life was lost but also 
+because it could have been prevented.
+  We must ensure that no more children go without treatment they need 
+and that no more lives are lost. Our job as Senators is to protect 
+these children. What greater honor and responsibility do we have but 
+protecting our children? As a father, I can't imagine the anguish I 
+would feel if I could not provide health care for my son and daughter. 
+Thus, as a Senator, I feel it is our obligation to provide health care 
+for every single child. I strongly believe we have a responsibility to 
+ensure that no child in America goes to bed at night without proper 
+health care and treatment, and that is why this reauthorization is so 
+crucial.
+  Under this bill, over the next 5 years we would be able to continue 
+covering the 6.6 million children currently enrolled, and we would be 
+able to reach out and cover an additional 3.2 million children. So the 
+answer to the question, Is this good for the Nation's children, is 
+clearly yes, especially for those 3.2 million children waiting to 
+receive care. That answer is a resounding ``yes.'' There are even more 
+whom we must work to cover.
+  I want to ask my colleagues who say they may not support this bill, 
+Where are the values we talk about in this institution? Where are the 
+family values voices that so often are heard in this Chamber? Now is 
+not the time to be silent. Now is when families need you most. Now is 
+the time to stand by your values and stand up to protect our future 
+generation.
+  To these colleagues, I wish to take a moment to answer some questions 
+about New Jersey's effort to reach out and enroll more children. Over 
+the past few weeks, New Jersey has received a lot of attention for 
+covering children up to 350 percent of the Federal poverty level. In 
+our regard, we think we are doing the right thing, and the statistics 
+prove we are right. I can understand that some might think these 
+families have enough money to afford private insurance, but for New 
+Jersey families, that is simply not the case. New Jersey families face 
+higher living costs, and they get less return on their Federal dollar, 
+so we cannot set a policy that suggests that one size fits all.
+  I did some of the math which I want to share with my colleagues. At 
+the top end, a working New Jersey family, their family budget, shows 
+they have about $4,428 in income. Housing in New Jersey is incredibly 
+expensive, about $1,500 a month. Food for that family is $547; 
+transportation to get to work, or if they happen to have a car to pay 
+for their commutes back and forth, with the high gas prices, $820; 
+child care, if they are not in school, and health insurance. I looked 
+up under the Bureau of Banking and Insurance what is the average health 
+insurance coverage for a family a month--a month. The statistic on the 
+Web site is $2,065. So that puts this family, if they have to be forced 
+to purchase health insurance, in the negative $1,200 a month. That 
+means they can't make ends meet. This doesn't take into account any 
+unforeseen circumstance on the family budget. So it doesn't end up 
+adding up. That is why this program is so important.
+  That is why, when New Jersey enrolls children up to 350 percent of 
+the Federal poverty level, they do it because without this coverage, we 
+would have thousands more children more without health insurance. 
+Purchasing a private plan, no matter what tax incentives you give--I 
+hear some of our colleagues talk about giving a $5,000 maximum credit 
+per family. Well, that is great. That buys us 2\1/2\ months of 
+insurance. What do we do for the rest of the year for that family? Do 
+we roll the dice on their health care? I don't think so--not when we as 
+an institution have some of the best health care in the Nation.
+  I am grateful to the Finance Committee for recognizing what we 
+already knew on a bipartisan basis: The one-size-fits-all approach 
+doesn't work. Remember, our objective is to cover more children, not 
+less. I can't believe I even need to mention what I am about to say, 
+but in light of some of the comments I have heard over the past few 
+weeks about the President saying: Well, let them go to the emergency 
+room, I think it might be necessary to look at what happens to children 
+without health insurance and how they suffer serious consequences.
+  Research has shown that uninsured children not only miss regular 
+checkups and visits to the doctors for less serious conditions that 
+ultimately become far more serious in their personal health and far 
+more consequential and far more expensive, but they also receive less 
+than lower quality care. In fact, uninsured children admitted to a 
+hospital due to injuries were twice--twice--as likely to die while in 
+the hospital as their insured counterparts, and that is simply 
+unacceptable.
+  There is no morality if upon hearing this, every Member of this 
+Chamber does not do everything in his or her power to cover more 
+children. It is, I believe, a moral obligation. I often hear about the 
+value of life and I cherish it as well. Now is the time to honor the 
+value of the lives of these children.
+
+  Another way New Jersey has been successful in covering more children 
+is because we also cover low-income and working parents. In New Jersey, 
+we have found a strong correlation between enrollment of parents and 
+enrollment of children. After the State implemented its parent 
+expansion in 2000, not only did it experience rapid enrollment of 
+parents, but it also saw a significant increase in the enrollment of 
+children, which is our goal. In 2002, the State stopped enrolling 
+parents, and what happened? As parent enrollment began to fall, 
+children's enrollment began to level off. Once the State began 
+reenrolling parents in 2005, children's coverage began to rise again. 
+There is clear evidence that by allowing those States that choose to do 
+so to cover parents, you increase the number of children who have 
+health coverage, achieving our ultimate goal of covering more children 
+and, by the way, we end up covering more Americans.
+  To further prove this point, former Congressional Budget Office 
+Director Peter Orszag recently stated that:
+
+       Restricting eligibility to parents does have an effect on 
+     take up among children, in part because when you pick up the 
+     parent you are more likely to pick up the child.
+
+  Thus, if we stop covering parents under the Children's Health 
+Insurance Program, as some in the Congress and the White House want to 
+do, you end up covering fewer children.
+  In fact, Peter Orszag said:
+
+       For every three of four parents you lose, you lose 1 or 2 
+     kids.
+
+  Based on this, in New Jersey, if we were forced to disenroll all of 
+our parents, over 40,000 children would lose their coverage. This 
+doesn't help us achieve our goal of covering more children.
+  So again, we have to ask: Is covering parents of eligible children 
+good for our Nation's children? The answer is clearly yes.
+  As I said at the beginning of my statement, I fully support the 
+legislation we are considering today. Senator
+
+[[Page S10349]]
+
+Baucus has done an excellent job. I appreciate the bipartisan vote of 
+the committee. I am proud of the reauthorization bill because of what 
+it prioritizes, but also because I know how hard it was to reach this 
+compromise. This is a bipartisan bill that Members of both sides of the 
+aisle support. I know it has taken long nights and serious conversation 
+and many difficult decisions to reach where we are today. I appreciate 
+again Senator Baucus's incredible efforts, the members of the 
+committee, as well as Majority Leader Reid, for their efforts on behalf 
+of the program.
+  That being said, I simply want to say that if I had my druthers, I 
+would have sought to achieve a greater height. I understand that so 
+would many of the Members who actually created the compromise. I would 
+have liked to have seen, as I did as a member of the Senate Budget 
+Committee, $50 billion provided. I worked hard to make sure we had that 
+in the budget resolution. I know that is the funding that will be 
+necessary to reach out to the 6 million eligible but uninsured children 
+in America, and it is the funding these children deserve.
+  Another area of major concern is the lack of language to provide 
+health care for legal immigrant children and pregnant women in the 
+Children's Health Insurance Program. I am a proud cosponsor of the 
+bipartisan Legal Immigrant Children's Health Improvement Act, also 
+known as ICHIA, which would have repealed the morally objectionable law 
+that prohibits new legal immigrants from accessing Medicaid and CHIP 
+until they have lived in the United States for 5 years. I think we 
+should have the flexibility for States to make that decision.
+  I am proud that in my home State of New Jersey, they have taken it 
+upon themselves to use 100 percent of State funds to cover over 8,000 
+legal immigrant pregnant women and children at a cost of over $22 
+million. The State has temporarily fixed the problem, but I had hoped 
+Congress would do the same. How can you tell a 7-year-old child with an 
+ear infection he has to wait 5 years to see the doctor? How can you 
+tell a child who may have the incipiency of some incredibly terrible 
+disease you have to wait 5 years to go see the doctor? It seems to me 
+we can't bar these families from accessing our health care supply 
+simply because they haven't lived here long enough. During the 
+immigration debate, our colleagues emphasized the difference between 
+those who are here legally and those who are not. So it is appalling to 
+me that a legal immigrant child--one whose family waited their time to 
+come to this country, came here legally, obeyed the law, are working, 
+paying taxes--is still subject to the lash of those people who, even 
+for a child who is here legally, seem to punish. It seems to me that is 
+simply wrong.
+  Let me close by addressing the President's veto threat. He is 
+basically opposed to this bill because he says it covers too many 
+children and families. I don't know how more outrageous and 
+unacceptable a statement can be. I find it embarrassing that some in 
+Washington--those who have the best health care coverage in the world--
+would propose to cut America's neediest families--neediest families who 
+work hard every day, because if you are poor, you are on Medicaid. 
+These are families who get up and work hard, don't have enough to pay 
+insurance, don't have coverage through work, and can't afford it. Yet 
+the President of the United States, who has the best coverage in the 
+world, and the Vice President of the United States, whom we saw 
+recently in the hospital--happy that everything went well for him--have 
+no worries. They have no worries every night--and for them to say these 
+children are less worthy than them. If the President had his way, over 
+110,000 New Jerseyans would lose their coverage, and tens of thousands 
+more across the Nation would lose their coverage. I find that morally 
+reprehensible.
+  I find it ironic that the President doesn't want to cover parents 
+with this program, considering the fact that since 2001, it was his 
+administration that granted 24 waivers for adult coverage in 15 States, 
+including my home State of New Jersey. In fact, when a waiver was 
+issued in 2003 to New Jersey, the administrator of CMS, the Federal 
+agency that supervises the program, said:
+
+       New Jersey is setting an example of how Federal waivers can 
+     help them cut into the numbers of citizens with no health 
+     coverage.
+
+  Tom Scully, Administrator of CMS, the Federal agency overseeing this 
+program, said we are setting an example.
+  In 2004, President Bush made a promise to insure all of the Nation's 
+children, but his latest proposal would only serve to cut children and 
+increase the number of uninsured. Rather than adding to the ranks of 
+the uninsured, we should be working together to expand access to even 
+more children and families. Mr. President, it is time to make good on 
+your word.
+  It is time to make good on your promise. It is time to cover all 
+children. At the end of the day, this bill is about low-income and 
+working families getting much needed care. This is about our Nation's 
+children having access to a doctor for preventive care and receiving 
+treatments for more serious conditions. This is about the health and 
+safety of current and future generations.
+  There is only one question left to be asked: Is this good for our 
+Nation's children? The answer is yes.
+  Let me close with a great Republican I admire, Abraham Lincoln. He 
+said:
+
+       A child is a person who is going to carry on what you have 
+     started. He [and I add she] is going to sit where you are 
+     sitting, and when you are gone, attend to those things which 
+     you think are important. You may adopt all the policies you 
+     please, but how they are carried out depends on him. He will 
+     assume control of your cities, states, and nations. All your 
+     books are going to be judged, praised, or condemned by him. 
+     The fate of humanity is in his hands. So it might be well to 
+     pay him some attention.
+
+  I ask my colleagues to now pay attention to our children and support 
+this important bill. It is important our children. It is for our 
+families. It is in pursuit of our values, and it is for the well-being 
+of our country.
+  I yield the floor and yield back the remainder of my time.
+  (Ms. KLOBUCHAR assumed the Chair.)
+  Mr. BAUCUS. Madam President, I highly compliment the Senator from New 
+Jersey. He is a tireless advocate to make this legislation even better 
+than it was, especially on behalf of parents. There are other groups in 
+his State that are very deserving. I thank him publicly. He has talked 
+to me many times very earnestly, with a real desire to make sure the 
+people in his State are adequately taken care of. I thank the Senator 
+for his tireless advocacy.
+  I inquire of the Senator from Arkansas, roughly how much time does 
+she wish to consume?
+  Mrs. LINCOLN. I hope I can have somewhere between 15 and 20 minutes.
+  Mr. BAUCUS. I ask unanimous consent that the Senator from Arkansas be 
+recognized to speak for 20 minutes.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The Senator from Arkansas is recognized.
+  Mrs. LINCOLN. Madam President, I thank Chairman Baucus for his 
+tireless effort here in really portraying what I think is a tremendous 
+priority for so many of us in the Senate and certainly in the Finance 
+Committee.
+  As a mother of twin boys--and I know our Presiding Officer is a 
+mother of a daughter who is a year older than my boys--I know all too 
+well of the importance of reliable health insurance coverage for 
+children. My husband and I have experienced the sleepless nights 
+looking after a sick child. But we also have the comfort of knowing 
+that when dawn comes, we have the opportunity, through health 
+insurance, to seek out health care through a pediatrician or, if it 
+should be worse, to be able to go to the emergency room and know we are 
+covered, to know we can seek that health care for our children when 
+they need it the most, with the confidence that with that health 
+insurance we can continue to care for their needs.
+  In situations such as these, health insurance coverage is critical 
+not only to the lifelong health of a child but also to a family's peace 
+of mind. I think that is what we are about here today--our ability as 
+Senators to be able to step outside the box of being a Senator and 
+really think about what it means to be a hard-working American, to be a 
+parent, and to not just think of what it means to us and our families 
+as Federal employees and what we have access to in health care but 
+translating that to the needs of all hard-working
+
+[[Page S10350]]
+
+Americans and to understand how important it is to them and to their 
+children too.
+  We have to, in this debate, step outside and put ourselves in the 
+shoes of the hard-working Americans who need health insurance for their 
+children. That peace of mind should not only belong to those families 
+who can afford private health insurance; it should also belong to 
+working families who are struggling to make ends meet in today's world, 
+who are the strength of the fabric of this Nation, those hard-working 
+families who are going to jobs day in and day out--and sometimes more 
+than one job--to keep the needs of their families, as was listed by the 
+Senator from New Jersey, to make sure their families stay whole.
+  Coming to the bottom of that list and recognizing how expensive 
+health care costs are for their children, we need to make sure the 
+fabric of this Nation stays strong. We do so by not only supporting 
+those working families and their children but by establishing 
+priorities in this country. That is why I rise to speak on behalf of 
+the State Children's Health Insurance Program, or SCHIP, a Federal-
+State partnership which today provides much needed health care coverage 
+for more than 6 million children across this great country.
+  In conjunction with Medicaid, CHIP has been tremendously successful 
+in reducing the number of uninsured children in my State and across our 
+country. Since the program's inception 10 years ago, the number of 
+children without health care coverage has dropped by one-third. That is 
+something we can be proud of and that we can build on.
+  During that time, I am proud that Arkansas has become a national 
+leader in reducing its number of uninsured children from over 20 
+percent in 1997 to 10 percent today. Now, nearly 65,000 of Arkansas' 
+children currently receive coverage through CHIP or, as we know it in 
+Arkansas, ARKids First.
+  Despite this success, an estimated 9 million children remain 
+uninsured, nearly two-thirds of whom are already eligible for CHIP or 
+for Medicaid nationwide--9 million children, Madam President. Those 
+children belong to parents just like us. Their parents care for them 
+just as we try to care for our children--yet not having the comfort of 
+knowing their health care needs could be and should be covered.
+  I am certainly proud that the Senate Finance Committee has recently 
+taken steps to reach more of these children, and I do wish to commend 
+Chairman Baucus and Senators Grassley, Rockefeller, and Hatch, as well 
+as their staffs, for their incredible dedication, the vision and 
+leadership they have shown on this issue, their tireless energy 
+in sticking with coming together to bring about a compromise--a much 
+needed compromise--and the extraordinary effort they have put forth 
+particularly over the past few months, which has made renewal of CHIP 
+much more of a reality for America's families.
+
+  The CHIP reauthorization package that was overwhelmingly approved in 
+our Finance Committee--by a vote of 17 to 4--applies the lessons of the 
+past 10 years and builds upon the success of the program by giving 
+States more of the tools they need while preserving their flexibility 
+to strengthen their program and ultimately cover more children. In 
+doing so, it would provide an additional $35 billion over 5 years that 
+will allow States to preserve coverage for the children who are 
+currently enrolled, while reaching an additional 3.2 million uninsured 
+low-income children.
+  This proposal would also provide much needed funding to States for 
+outreach and enrollment efforts to reach many of those who are 
+currently uninsured and yet eligible. It also takes steps to ensure 
+that they get a healthy start by providing care for pregnant women and 
+establishing pediatric quality measures to improve the level and 
+efficiency of the care they do receive. How important that is as we 
+have begun in this country to look at the quality measures of health 
+care, particularly for our elderly. Why is it not equally important to 
+look at the quality measures for the pediatric care that goes to our 
+children?
+  I have long supported improving access to health care coverage for 
+pregnant women, not only because it is vital to the health of mothers 
+and infants, but it also often reduces future health care costs. What 
+an incredible return on our money--to see expectant mothers going full-
+term to deliver a child that has a much greater opportunity to perform, 
+to be healthy, and to be less costly later in life due to health care 
+needs. In fact, it was reported in 2005 that the socioeconomic costs--
+medical, educational, and lost productivity--associated with preterm 
+birth in the United States was at least $26.2 billion. Every year, more 
+than 500,000 infants are born prematurely, an increasing number that 
+now affects nearly one out of every eight babies.
+  This is of particular concern to me because, in recent reports, more 
+than 13 percent of births in our State of Arkansas were premature, 
+ranking it among the States with the highest incidence of preterm 
+babies. So many of us have been faced with those choices. I know when I 
+served in the House of Representatives and my husband and I were so 
+excited to receive the news that we were expecting twins, I also 
+received the news that at my age, and certainly the work environment I 
+was in and all of the pressures, I was also at risk for a premature 
+delivery. I had the wonderful opportunity to make a decision that I 
+would not run for reelection and that I could minimize my job in order 
+to do everything within my power to bring those children into this 
+world in a safe manner.
+  I look across this great country, and not all working mothers have 
+that opportunity. They don't have those choices to be able to step 
+aside and do everything they possibly can with the health care they 
+receive to bring their babies into this world in the healthiest 
+fashion. One thing we can do is to provide them the prenatal care they 
+need and the advice and consultation to be able to do what they can to 
+ensure those babies are delivered after a full term.
+  By taking needed steps to improve access to care for pregnant women, 
+I am confident we can make strides to improve health outcomes for them 
+and for their children. If, in fact, we don't want to do it for the 
+sake of bringing healthy babies into this world, who are going to be 
+future leaders of this country, we should do it as an investment. The 
+long-term investment of a healthier child being born makes so much more 
+sense than the long-term cost of a premature delivery and the health 
+care needs that child would have for the rest of his or her life.
+  The Finance Committee proposal would also provide the Federal 
+authority and resources to invest in the development and testing of 
+quality measures for children's health care. Of the 146 medical schools 
+in this country, every one of them has a department in pediatrics. We 
+can make an incredible investment in quality measures that would give 
+us not only the outcome we want but also the cost savings in overall 
+health care we so much desire.
+  This provision would help ensure that States and other payers, 
+providers, and consumers have the clinical quality measures they need 
+to assess and improve the quality and performance of children's health 
+care services.
+  Additionally, the bill would allow some States to use income-
+eligibility information from other Federal programs, such as school 
+lunch programs, to speed up the enrollment of eligible children into 
+CHIP or Medicaid. The Senator from New Mexico has done so much hard 
+work on making good common sense out of the mounds and mounds of 
+paperwork people already have to fill out, using the knowledge we 
+already have and those mounds of paperwork to get those children 
+enrolled in the program for which they already qualify. It would 
+simplify the administrative process for States and certainly reduce the 
+paperwork burdens on our families.
+
+  The bill would also provide greater access to much needed dental care 
+for lower income children and would ensure that children enrolled in 
+CHIP would have access to mental health care that is on par with the 
+level of medical and surgical care they are currently provided.
+  As we look at our children and their growth, understanding the 
+unbelievable essentials in dental care, not only so our children can 
+get the nutrition they need but they can pay attention in school, they 
+can get the education they need, which allows them to grow and be a 
+part of this incredible Nation
+
+[[Page S10351]]
+
+in a productive way, the success of CHIP over the past 10 years is 
+itself a great example of the things we can accomplish when we reach 
+out across the aisle, when we work in a bipartisan way, when we come 
+together on our priorities and put aside the partisan differences.
+  This bipartisan proposal we are considering today is another. We 
+should all agree that providing health care for our children is 
+certainly one area where partisan politics should be placed aside. 
+There is no room for partisan politics as we address our children. 
+After all, it is a moral issue, an investment in our Nation's most 
+precious resource--our children; an investment in a future of our 
+country, its leadership, and its productivity. Who can disagree with 
+that?
+  As we move forward together to reauthorize this successful program, I 
+am hopeful we can do so in the same bipartisan spirit that was 
+demonstrated in the creation of this program, the 10-year 
+implementation of this program, and in the recent reauthorization of 
+this program in the Finance Committee.
+  It is unfortunate the President and the Secretary of Health and Human 
+Services feel differently. In fact, their proposal to increase the CHIP 
+funding by only $5 billion over the next 5 years falls so short of the 
+funding needed to simply maintain coverage of those currently enrolled 
+in the program. To justify their proposal, the administration actually 
+claimed the number of uninsured children in our Nation was only 20 
+percent of the estimates calculated by the nonpartisan CBO.
+  Instead of forcing over a million children--a million children--to be 
+dropped from their current health insurance provider, shouldn't we all 
+agree that at the very least absolutely no child should lose coverage 
+as a result of reauthorization?
+  The President has been adamant about leaving no child behind when it 
+comes to their education, but shouldn't we apply this to their health 
+care as well? Shouldn't we recognize the reason, or a part of the 
+reason, our No Child Left Behind in education has been less productive 
+is because we failed to provide the resources--the much needed 
+resources--to implement good policies, basic policies? It is fine to 
+talk about these things, but if we don't put our money where our mouth 
+is, the health care doesn't get to the children who need it.
+  Moreover, shouldn't we all move forward in covering as many of the 9 
+million uninsured children we possibly can; finding the middle ground, 
+as we have done in the Finance Committee? I wholeheartedly believe so, 
+and that is why I rise in strong support of this legislation.
+  Some of my colleagues have raised concerns about our efforts to 
+expand this successful program. They have argued the $35 billion 
+compromise that was reached in the Finance Committee is too much money. 
+You know what. It is going to cost us something to cover more children. 
+Let us take a step back and get some perspective on how much money we 
+are actually talking about.
+  Our current proposal to reauthorize CHIP provides a total of $60 
+billion over 5 years--$25 billion in the baseline, with an increase of 
+$35 billion. In contrast, our operations in Iraq are now estimated to 
+cost taxpayers $10 billion per month. So for the amount of money, 
+nonbudgeted money, we now spend in Iraq every 6 months, we can cover an 
+estimated 10 million lower-income children with much needed health care 
+for 5 years--5 years. We are talking about money that is completely 
+offset--a program that is completely paid for.
+  How you spend your money--and this goes for families and for 
+Government--tends to reflect your values and your priorities. We all 
+have to look at where our priorities are in our own family, and we as 
+Senators and stewards of this land and this great country and its 
+resources have to set priorities as well, and they should reflect our 
+values--our values and our priorities. So I ask my colleagues today: 
+What could be a bigger priority than the well-being of our Nation's 
+most precious resource, our children?
+  Look at our families, the families who are the fabric of this 
+country. One of the things they need the most is time--time to be a 
+family, to sit down to dinner with their children, to be able to go to 
+a PTA meeting or a parent-teacher conference, to take a small vacation, 
+to care for an aging parent. They need time to do that. It is not easy 
+to find that time. If you are a single parent, perhaps a single mom, 
+but even if you are a working family, a lower income working family, 
+working two or three jobs to be able to hit that budget the Senator 
+from New Jersey talks about, to make sure you can hit all those issues 
+you have to deal with, whether it is rent or groceries or certainly any 
+type of health care you could access, it takes time--time away from our 
+families, the time needed to build strong families, to keep their 
+children whole and focused on the good values we want our children to 
+have.
+  Minimum wage was a great example. Minimum wage was much needed, with 
+over 10 years of not having seen that increase. What an important role 
+it plays in providing our families greater time to be a family. At a 
+time when more and more Americans are struggling to find affordable 
+health care, CHIP has allowed us to make coverage more accessible for 
+millions of children, coverage that is critical to the lifelong health 
+of a child and to a family's peace of mind. I urge each and every one 
+of my colleagues to explore your own conscience, not just thinking 
+about your family but thinking about the millions of American families 
+out there today who want nothing less for their children than what we 
+want for ours.
+  Let's set aside partisan influences and support this critical effort 
+to invest in the health care of our children, not only for the future 
+of our Nation but for the well-being of millions of American children 
+in working-class, lower income families. They are depending on us, the 
+stewards of this body, the stewards of this country, and it is time we 
+fulfill our commitment to them. I urge my colleagues to join me in 
+supporting legislation to expand health care coverage for children.
+  I have been proud to work with Chairman Baucus and Senator Grassley 
+and others in this effort, and I certainly commend them for their 
+leadership and good work. I look to this body to stand up and to show 
+who it is we are and what it is we are made of on behalf of America's 
+children.
+  I yield the floor.
+  Mr. WYDEN. Madam President, before she leaves the floor, let me thank 
+my seatmate on the Senate Finance Committee for a passionate and 
+eloquent address on behalf of this country's children. I commend her 
+for it.
+  Madam President, I ask unanimous consent that the time between now 
+and 12:30 be divided equally between the Senator from New Mexico, Mr. 
+Bingaman, and the Senator from New Jersey, Mr. Lautenberg.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The Senator from New Mexico is recognized.
+  Mr. BINGAMAN. Madam President, would the Chair please advise me when 
+half the time allotted to me has been used?
+  The PRESIDING OFFICER. Yes.
+  Mr. BINGAMAN. Madam President, I wish to congratulate the majority 
+leader for taking this time to bring the reauthorization of the 
+Children's Health Insurance Program to the Senate floor. Since this 
+program was created, through a bipartisan effort in 1997, the number of 
+uninsured Americans has grown by millions. At the same time, the 
+percentage of low-income children in the United States without health 
+care coverage has fallen by a third. So this is a remarkable 
+achievement, and this program is a large share of the reason for that 
+achievement.
+  The program is critically important to my home State of New Mexico. 
+It currently permits the State to cover over 14,000 low-income New 
+Mexicans and will play a critical role in ensuring that all low-income 
+New Mexicans have access to meaningful health care coverage. I strongly 
+support the reauthorization we have reported from the Finance 
+Committee. Of the many issues before the Senate, I believe 
+reauthorizing this legislation needs to be at the top of our list.
+  Unfortunately, there seems to be a huge gap between what the 
+administration would like to see done on this subject and what in fact 
+is needed. The President has proposed such a small sum of new funding 
+over the next 5 years, $1 billion per year of additional
+
+[[Page S10352]]
+
+funding, that if we were to accept that proposal, we would have a 
+significant reduction in the size of the program and the number of 
+children covered by the program.
+  Instead of reaching a larger percentage of the 9 million uninsured 
+children in our Nation, the President's proposal would not add to the 
+number of children covered. In fact, it would result in hundreds of 
+thousands, if not millions, of low-income children losing their 
+coverage.
+  I also wish to commend Senator Baucus, Senator Grassley, Senator 
+Rockefeller, and Senator Hatch, all four of these individuals, who 
+worked in a selfless and bipartisan way to come up with a proposal they 
+could embrace and they could bring to the full Senate. The 
+Congressional Budget Office estimates the $35 billion over 5 years 
+authorized in this legislation will fill in the shortfalls in funding 
+that have plagued the program for many years. It will allow us to 
+expand coverage to nearly 4 million additional low-income children.
+  Although I strongly support this bipartisan compromise, there are 
+several aspects of the legislation I hope we can still strengthen as we 
+move forward. First, of course, I would like to see greater funding 
+than the $35 billion over the next 5 years that is called for in this 
+legislation. If we could go to the full $50 billion we provided for in 
+the budget resolution, and that I believe the House is trying to enact, 
+we could expand coverage to an additional 5 million children who would 
+remain uninsured at the bill's current funding levels. So there are 
+ways we can improve this bill.
+  I am also disappointed in changes that were made to coverage for 
+adult populations in this program. I will not oppose the compromises 
+that were reached on the issue, but I firmly believe the 
+reauthorization program should not result in the narrowing of the 
+flexibility States have had through this program to cover uninsured 
+populations, including adults. In particular, let me discuss a little 
+of the rhetoric that has circulated around this subject.
+  Coverage of adults is very important to the efforts of my State and 
+other States in our efforts to cover low-income parents and childless 
+adults, but in fact, this program is overwhelmingly a program that is 
+focused on providing coverage to children. Less than 10 percent of the 
+coverage under the SCHIP program currently goes to adults. I believe 
+that has been somewhat taken out of context by many who have discussed 
+the issue.
+  We should also note States are relying on waivers in covering the 
+adults who are covered under the program. States are relying on 
+waivers, most of which were approved and authorized in this Bush 
+administration, to cover these populations. These are not Democratic-
+proposed waivers, these are waivers a Republican administration has 
+approved. Tommy Thompson, our former Secretary of Health and Human 
+Services under President Bush, in his first term stated in 2005, upon 
+approving New Mexico's ability to cover adult populations:
+
+       This approval means health coverage for tens of thousands 
+     of uninsured New Mexico residents--including many uninsured 
+     parents whose children are already covered. By giving States 
+     like New Mexico greater flexibility in the way they provide 
+     health care to low-income citizens, we are helping millions 
+     of people across the country to gain access to quality health 
+     care.
+
+  Madam President, how much time remains for my half?
+  The PRESIDING OFFICER. The Senator has 5 minutes remaining.
+  Mr. BINGAMAN. Madam President, let me also go to one other issue 
+which I think is important to deal with, another shortfall in this 
+legislation, and that is the failure of the program to provide dental 
+coverage.
+  According to the Children's Dental Health Project, of the 4 million 
+children born each year in the United States, more than a quarter of 
+them will have cavities by the time they are toddlers, and more than 
+half will have cavities by the time they reach second grade. This is 
+concentrated in low-income rural children who suffer disproportionately 
+from these problems.
+  I believe strongly the Children's Health Insurance Program should be 
+expanded to cover dental care for children across this country, low-
+income children. This is something we are not able to do as part of 
+this legislation, but I hope we can revisit this issue before final 
+action is taken.
+  A final issue I wanted to discuss relates to important improvements 
+in legislation I hope we can make for legal immigrant children and 
+legal pregnant women. Under current law, these individuals are 
+prohibited from receiving most CHIP or Medicaid coverage for the first 
+5 years they are resident in the United States on a legal basis. Very 
+often these children and these legal pregnant women, U.S. citizen 
+children I point out, will become eligible for CHIP and Medicaid. It is 
+counterproductive to prevent these legal immigrants from accessing 
+services at the time they become legal residents of our country.
+  Today there is a 5-year bar in place to them receiving Medicaid and 
+CHIP coverage. It exists even though the vast majority of these 
+immigrants are working or are in families with working parents and are 
+therefore paying Federal and State taxes. They contribute significantly 
+to the system, but they are barred from receiving the services they are 
+subsidizing. I highlight that legislation to remove this 5-year bar. I 
+want to highlight that this proposal to remove the 5-year bar has 
+bipartisan support. It has passed the Senate as part of the 2003 
+Medicare Modernization Act. I hope very much that before we complete 
+action and send the bill to the President, we can deal with this issue 
+here.
+  I urge each Member of the Senate to focus on what is the important 
+work that we can accomplish in the Senate, how we can help the lives of 
+children growing up in this country, and how we can make them more 
+productive citizens in the future. Expanding this health care coverage 
+to cover more children is obviously the first and best thing we can do. 
+I hope very much we can pass this bill, go to conference with the 
+House, and come up with a bill the President can be persuaded to sign.
+  Again, I congratulate the Finance Committee for the good work they 
+have done bringing the legislation to the full Senate.
+  I yield the floor.
+  The PRESIDING OFFICER. The Senator from New Jersey is recognized.
+  Mr. LAUTENBERG. Madam President, I also extend my commendations and 
+thanks to Senators Baucus and Grassley for producing this bill. This 
+bill is a long step forward. Although I think it is quite apparent that 
+we need even more than this generous attempt to meet our needs, the 
+fact is, it is a very good bill. But it is surprising to me that we 
+even have to debate this bill.
+  As we stand here, there are 9 million kids in the United States 
+without health insurance; 250,000 of them live in my State of New 
+Jersey. Every day that we wait to reauthorize and expand the Children's 
+Health Insurance Program we risk more children's illnesses and even 
+permit them to die because they have no health care.
+  In 2010 there are going to be more than 83 million children, from 
+newborns to 19-year-olds, growing up in America. We have an obligation 
+to make sure those boys and girls have health insurance so they can see 
+their doctor, get a prescription, or visit the hospital if they need 
+to. That is exactly what the CHIP, Children's Health Insurance Program, 
+helps them do. It will ensure that kids have insurance to get regular 
+checkups, to pay for emergencies, or to fight illnesses such as 
+diabetes and other illnesses that afflict children terribly in their 
+lives.
+  Children without insurance are twice as likely to die from injuries 
+while they stay in the hospital than children who have insurance, and 
+12 percent of children either delay getting care or do not get any care 
+at all because their families cannot pay for it. It is simply not 
+right. It is those children who need this program the most, but this 
+vital children's health program is set to expire on September 30, just 
+2 months from now.
+  The Children's Health Insurance Program is the only way that 6 
+million of America's children can afford health insurance. Their 
+parents are typically hard-working people, but they simply cannot 
+afford expensive private insurance, and they make too much money to 
+qualify for Medicaid.
+  For example, in New Jersey, our State program helps to keep 126,000 
+low-income children in good health. Considering how many kids the 
+program is keeping healthy in New Jersey
+
+[[Page S10353]]
+
+and across the Nation, we would expect that President Bush would keep 
+this program healthy, but he has not, and the long-term health of this 
+program hangs in the balance. The President's proposed budget for 
+fiscal year 2008 is $10 billion short of what we need to keep our 
+children healthy. Without more money, we cannot cover the young people 
+who currently get children's health insurance, and we cannot add any 
+new children, no matter how much they need it, to the ranks of the 
+insured.
+  By 2009, States will be facing more financial shortfalls. They will 
+be forced to cut coverage for our kids. It is unacceptable, so the 
+Senate is offering a better bipartisan plan. I am proud to support the 
+Children's Health Insurance Program Reauthorization Act, which Senators 
+Baucus and Grassley introduced and the Finance Committee approved. This 
+bipartisan bill will provide $35 billion in new funding. Most of us 
+would have preferred even higher levels of funding--$50 billion--and I 
+plan to support amendments to increase the funding amount. But there 
+cannot be any doubt that this bipartisan compromise that we have before 
+us is a crucial step forward in improving children's health. It would 
+maintain insurance for the 67 million children who are currently 
+covered, and it would insure more than 3 million new kids who do not 
+have any health insurance at all now.
+
+  It would also continue giving States flexibility in covering these 
+youngsters. We know the cost of living and the cost of health care 
+varies from State to State, and that must be a consideration in 
+coverage.
+  President Bush ran on a campaign pledge to get millions more kids on 
+health insurance. Instead of pledging to sign the bipartisan Senate 
+bill--it is incredible but true--President Bush is threatening to veto 
+it. A veto means putting millions of children at risk for illness and 
+disease. It means going back on the President's pledge, and it shows, 
+by his action more than his words, that the President's priorities are 
+not the same as America's.
+  President Bush's lopsided tax cuts are projected to cost $252 billion 
+in 2008 alone. We spend $3 billion a week on this war, and we have 
+supplementals in between there. We have already spent more than a half 
+trillion dollars on this war. When you think about it, this bill asks 
+for only $35 billion over 5 years, $7 billion a year, to provide for 
+children's health. It is roughly 2 months of keeping this war going.
+  In those 5 years we could keep millions of kids healthy and help them 
+become productive members of our American society.
+  Martin Luther King said:
+
+       Of all forms of injustice, inequality in health care is the 
+     most shocking and inhumane.
+
+  To let millions of children go without health insurance is an 
+absolute injustice. To stand by while they get sick and cannot afford 
+care is both shocking and inhumane. We are the wealthiest country in 
+the world. We also should be the healthiest country in the world. But 
+we do not seem to be able to tie in these domestic needs with the 
+opportunity that faces us, despite the shortage of revenues because we 
+have become so generous with people who are billionaires, in terms of 
+their taxes. Those who make $1 million a year get tax cuts that are 
+substantial, so it does cut into our revenues. So, as I mentioned 
+before, does the war.
+  I hope all my colleagues will support this bipartisan Baucus-Grassley 
+bill.
+  Last, we plead with the President to keep his promise, not to veto it 
+but sign it, to do the best we can for our children and our country.
+  I yield the remainder of my time. I suggest the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The bill clerk proceeded to call the roll.
+  Mr. LAUTENBERG. Madam President, I ask unanimous consent the quorum 
+call be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. LAUTENBERG. I ask unanimous consent now we recess for the 
+caucuses.
+
+                          ____________________
+```
