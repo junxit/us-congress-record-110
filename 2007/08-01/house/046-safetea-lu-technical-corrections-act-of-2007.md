@@ -1,0 +1,3131 @@
+---
+granule: CRECB-2007-pt16-Pg22385-2
+date: 2007-08-01
+edition: CRECB
+section: HOUSE
+page: 22385
+---
+
+# SAFETEA-LU TECHNICAL CORRECTIONS ACT OF 2007
+
+```
+              SAFETEA-LU TECHNICAL CORRECTIONS ACT OF 2007
+
+  Mr. OBERSTAR. Mr. Speaker, I move to suspend the rules and pass the 
+bill (H.R. 3248) to amend the Safe, Accountable, Flexible, Efficient 
+Transportation Equity Act: A Legacy for Users to make technical 
+corrections, and for other purposes.
+  The Clerk read the title of the bill.
+  The text of the bill is as follows:
+
+                                H.R. 3248
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``SAFETEA-LU Technical 
+     Corrections Act of 2007''.
+
+                      TITLE I--HIGHWAY PROVISIONS
+
+     SEC. 101. SURFACE TRANSPORTATION TECHNICAL CORRECTIONS.
+
+       (a) Correction of Internal References in Disadvantaged 
+     Business Enterprises.--Paragraphs (3)(A) and (5) of section 
+     1101(b) of the Safe, Accountable, Flexible, Efficient 
+     Transportation Equity Act: A Legacy for Users (119 Stat. 
+     1156) are amended by striking ``paragraph (1)'' each place it 
+     appears and inserting ``paragraph (2)''.
+       (b) Correction of Distribution of Obligation Authority.--
+     Section 1102(c)(5) of the Safe, Accountable, Flexible, 
+     Efficient Transportation Equity Act: A Legacy for Users (119 
+     Stat. 1158) is amended by striking ``among the States''.
+       (c) Correction of Federal Lands Highways.--Section 1119 of 
+     the Safe, Accountable, Flexible, Efficient Transportation 
+     Equity Act: A Legacy for Users (119 Stat. 1190) is amended by 
+     striking subsection (m) and inserting the following:
+       ``(m) Forest Highways.--Of the amounts made available for 
+     public lands highways under section 1101--
+       ``(1) not more than $20,000,000 for each fiscal year may be 
+     used for the maintenance of forest highways;
+       ``(2) not more than $1,000,000 for each fiscal year may be 
+     used for signage identifying public hunting and fishing 
+     access; and
+       ``(3) not more than $10,000,000 for each fiscal year shall 
+     be used by the Secretary of Agriculture to pay the costs of 
+     facilitating the passage of aquatic species beneath forest 
+     roads (as defined in section 101(a) of title 23, United 
+     States Code), including the costs of constructing, 
+     maintaining, replacing, and removing culverts and bridges, as 
+     appropriate.''.
+       (d) Correction of Description of National Corridor 
+     Infrastructure Improvement Project.--Item number 1 of the 
+     table contained in section 1302(e) of the Safe, Accountable, 
+     Flexible, Efficient Transportation Equity Act: A Legacy for 
+     Users (119 Stat. 1205) is amended in the State column by 
+     inserting ``LA,'' after ``TX,''.
+       (e) Correction of Interstate Route 376 High Priority 
+     Designation.--
+       (1) In general.--Section 1105(c)(79) of the Intermodal 
+     Surface Transportation Efficiency Act of 1991 (105 Stat. 
+     2032; 119 Stat. 1213) is amended by striking ``and on United 
+     States Route 422''.
+       (2) Conforming amendment.--Section 1105(e)(5)(B)(i)(I) of 
+     the Intermodal Surface Transportation Efficiency Act of 1991 
+     (105 Stat. 2033; 119 Stat. 1213) is amended by striking ``and 
+     United States Route 422''.
+       (f) Correction of Infrastructure Finance Section.--Section 
+     1602(d)(1) of the Safe, Accountable, Flexible, Efficient 
+     Transportation Equity Act: A Legacy for Users (119 Stat. 
+     1247) is amended by striking ``through 189 as sections 601 
+     through 609, respectively'' and inserting ``through 190 as 
+     sections 601 through 610, respectively''.
+       (g) Correction of Project Federal Share.--Section 1964(a) 
+     of the Safe, Accountable, Flexible, Efficient Transportation 
+     Equity Act: A Legacy for Users (119 Stat. 1519) is amended--
+       (1) by striking ``only for the States of Alaska, Montana, 
+     Nevada, North Dakota, Oregon, and South Dakota,''; and
+       (2) by striking ``section 120(b)'' and inserting ``section 
+     120''.
+       (h) Transportation Systems Management and Operations 
+     Defined.--Section 101(a) of title 23, United States Code, is 
+     amended by adding at the end the following:
+       ``(39) Transportation systems management and operations.--
+       ``(A) In general.--The term `transportation systems 
+     management and operations' means an integrated program to 
+     optimize the performance of existing infrastructure through 
+     the implementation of multimodal and intermodal, cross-
+     jurisdictional systems, services, and projects designed to 
+     preserve capacity and improve security, safety, and 
+     reliability of the transportation system.
+       ``(B) Inclusions.--The term `transportation systems 
+     management and operations' includes--
+       ``(i) regional operations collaboration and coordination 
+     activities between transportation and public safety agencies; 
+     and
+       ``(ii) improvements to the transportation system, such as 
+     traffic detection and surveillance, arterial management, 
+     freeway management, demand management, work zone management, 
+     emergency management, electronic toll collection, automated 
+     enforcement, traffic incident management, roadway weather 
+     management, traveler information services, commercial vehicle 
+     operations, traffic control, freight management, and 
+     coordination of highway, rail, transit, bicycle, and 
+     pedestrian operations.''.
+       (i) Correction of Reference in Apportionment of Highway 
+     Safety Improvement Program Funds.--Effective October 1, 2006, 
+     section 104(b)(5)(A)(iii) of title 23, United States Code, is 
+     amended by striking ``the Federal-aid system'' each place it 
+     appears and inserting ``Federal-aid highways''.
+       (j) Correction of Amendment To Advance Construction.--
+     Section 115 of title 23, United States Code, is amended by 
+     redesignating subsection (d) as subsection (c).
+       (k) Correction of High Priority Projects.--Section 117 of 
+     title 23, United States Code, is amended--
+       (1) by redesignating subsections (d) through (h) as 
+     subsections (e) through (i), respectively;
+       (2) by redesignating the second subsection (c) (relating to 
+     Federal share) as subsection (d);
+       (3) in subsection (a)(2)(A) by inserting ``(112 Stat. 
+     257)'' after ``21st Century''; and
+       (4) in subsection (a)(2)(B)--
+       (A) by striking ``subsection (b)'' and inserting 
+     ``subsection (c)''; and
+       (B) by striking ``SAFETEA-LU'' and inserting ``Safe, 
+     Accountable, Flexible, Efficient Transportation Equity Act: A 
+     Legacy for Users (119 Stat. 1256)''.
+       (l) Correction of Transfer of Unused Protective-Device 
+     Funds to Other Highway Safety Improvement Program Projects.--
+     Section 130(e)(2) of title 23, United States Code, is amended 
+     by striking
+
+[[Page 22386]]
+
+     ``purposes under this subsection'' and inserting ``highway 
+     safety improvement program purposes''.
+       (m) Correction of Highway Bridge Program.--
+       (1) In general.--Section 144 of title 23, United States 
+     Code, is amended--
+       (A) in the section heading by striking ``replacement and 
+     rehabilitation'';
+       (B) in subsections (b), (c)(1), and (e) by striking 
+     ``Federal-aid system'' each place it appears and inserting 
+     ``Federal-aid highway'';
+       (C) in subsections (c)(2) and (o) by striking ``the 
+     Federal-aid system'' each place it appears and inserting 
+     ``Federal-aid highways'';
+       (D) in the heading to paragraph (4) of subsection (d) by 
+     inserting ``systematic'' before ``preventive'';
+       (E) in subsection (e) by striking ``off-system bridges'' 
+     each place it appears and inserting ``bridges not on Federal-
+     aid highways'';
+       (F) by striking subsection (f);
+       (G) by redesignating subsections (g) through (s) as 
+     subsections (f) through (r), respectively;
+       (H) in paragraph (1)(A)(vi) of subsection (f) (as 
+     redesignated by subparagraph (G) of this paragraph) by 
+     inserting ``, except that any unobligated funds remaining 
+     upon completion of the project under this clause shall be 
+     transferred to and used to carry out the project described in 
+     clause (vii)'' after ``Vermont'';
+       (I) in paragraph (2) of subsection (f) (as redesignated by 
+     subparagraph (G) of this paragraph) by striking the paragraph 
+     heading and inserting ``Bridges not on federal-aid 
+     highways'';
+       (J) in subsection (m) (as redesignated by subparagraph (G) 
+     of this paragraph) by striking the subsection heading and 
+     inserting ``Program for Bridges Not on Federal-Aid 
+     Highways''; and
+       (K) in subsection (n)(4)(B) (as redesignated by 
+     subparagraph (G) of this paragraph) by striking ``State 
+     highway agency'' and inserting ``State transportation 
+     department''.
+       (2) Conforming amendments.--
+       (A) Metropolitan planning.--Section 104(f)(1) of such title 
+     is amended by striking ``replacement and rehabilitation''.
+       (B) Equity bonus program.--Subsections (a)(2)(C) and 
+     (b)(2)(C) of section 105 of such title are amended by 
+     striking ``replacement and rehabilitation'' each place it 
+     appears.
+       (C) Analysis.--The analysis for chapter 1 of such title is 
+     amended in the item relating to section 144 by striking 
+     ``replacement and rehabilitation''.
+       (n) Metropolitan Transportation Planning.--Section 134 of 
+     title 23, United States Code, is amended--
+       (1) in subsection (f)(3)(C)(ii) by striking subclause (II) 
+     and inserting the following:
+
+       ``(II) Funding.--For fiscal year 2008 and each fiscal year 
+     thereafter, in addition to other funds made available to the 
+     metropolitan planning organization for the Lake Tahoe region 
+     under this title and chapter 53 of title 49, prior to any 
+     allocation under section 202 of this title and 
+     notwithstanding the allocation provisions of section 202, the 
+     Secretary shall set aside \1/2\ of 1 percent of all funds 
+     authorized to be appropriated for such fiscal year to carry 
+     out section 204 and shall make such funds available to the 
+     metropolitan planning organization for the Lake Tahoe region 
+     to carry out the transportation planning process, 
+     environmental reviews, preliminary engineering, and design to 
+     complete environmental documentation for transportation 
+     projects for the Lake Tahoe region under the Tahoe Regional 
+     Planning Compact as consented to in Public Law 96-551 (94 
+     Stat. 3233) and this paragraph.'';
+
+       (2) in subsection (j)(3)(D) by inserting ``or the 
+     identified phase'' after ``the project'' each place it 
+     appears; and
+       (3) in subsection (k)(2) by striking ``a metropolitan 
+     planning area serving''.
+       (o) Correction of National Scenic Byways Program 
+     Coverage.--Section 162 of title 23, United States Code, is 
+     amended--
+       (1) in subsection (a)(3)(B) by striking ``a National Scenic 
+     Byway under subparagraph (A)'' and inserting ``a National 
+     Scenic Byway, an All-American Road, or one of America's 
+     Byways under paragraph (1)''; and
+       (2) in subsection (c)(3) by striking ``or All-American 
+     Road'' each place it appears and inserting ``All-American 
+     Road, or one of America's Byways''.
+       (p) Correction of Reference in Toll Provision.--Section 
+     166(b)(5)(C) of title 23, United States Code, is amended by 
+     striking ``paragraph (3)'' and inserting ``paragraph (4)''.
+       (q) Correction of Recreational Trails Program Apportionment 
+     Exceptions.--Section 206(d)(3)(A) of title 23, United States 
+     Code, is amended by striking ``(B), (C), and (D)'' and 
+     inserting ``(B) and (C)''.
+       (r) Correction of Infrastructure Finance.--Section 
+     601(a)(3) of title 23, United States Code, is amended by 
+     inserting ``bbb minus, BBB (low),'' after ``Baa3,''.
+       (s) Correction of Miscellaneous Typographical Errors.--
+       (1) Section 1401 of the Safe, Accountable, Flexible, 
+     Efficient Transportation Equity Act: A Legacy for Users (119 
+     Stat. 1226) is amended by redesignating subsections (d) and 
+     (e) as subsections (c) and (d), respectively.
+       (2) Section 1404(e) of such Act (119 Stat. 1229) is amended 
+     by inserting ``tribal,'' after ``local,''.
+       (3) Section 10211(b)(2) of such Act (119 Stat. 1937) is 
+     amended by striking ``plan administer'' and inserting ``plan 
+     and administer''.
+       (4) Section 10212(a) of such Act (119 Stat. 1937) is 
+     amended--
+       (A) by inserting ``equity bonus,'' after ``minimum 
+     guarantee,'';
+       (B) by striking ``freight intermodal connectors'' and 
+     inserting ``railway-highway crossings'';
+       (C) by striking ``high risk rural road,''; and
+       (D) by inserting after ``highway safety improvement 
+     programs'' the following: ``(and separately the set aside for 
+     the high risk rural road program)''.
+
+     SEC. 102. MAGLEV.
+
+       (a) Funding.--Section 1101(a)(18) of the Safe, Accountable, 
+     Flexible, Efficient Transportation Equity Act: A Legacy for 
+     Users (119 Stat. 1155) is amended by striking subparagraphs 
+     (A) and (B) and inserting the following:
+       ``(A) $20,000,000 for fiscal year 2007; and
+       ``(B) $35,000,000 for each of fiscal years 2008 and 
+     2009.''.
+       (b) Contract Authority.--Section 1307 of the Safe, 
+     Accountable, Flexible, Efficient Transportation Equity Act: A 
+     Legacy for Users (119 Stat. 1217) is amended by adding at the 
+     end the following:
+       ``(e) Contract Authority.--Funds authorized under section 
+     1101(a)(18) shall be available for obligation in the same 
+     manner as if the funds were apportioned under chapter 1 of 
+     title 23, United States Code; except that the funds shall not 
+     be transferable and shall remain available until expended, 
+     and the Federal share of the cost of a project to be carried 
+     out with such funds shall be 80 percent.''.
+       (c) Allocation.--Section 1307 of the Safe, Accountable, 
+     Flexible, Efficient Transportation Equity Act: A Legacy for 
+     Users (119 Stat. 1217) is amended by striking subsection (d) 
+     and inserting the following:
+       ``(d) Allocation.--Of the amounts made available to carry 
+     out this section for a fiscal year, the Secretary shall 
+     allocate--
+       ``(1) 50 percent to the Nevada department of transportation 
+     who shall cooperate with the California-Nevada Super Speed 
+     Train Commission for the MAGLEV project between Las Vegas and 
+     Primm, Nevada, as a segment of the high-speed MAGLEV system 
+     between Las Vegas, Nevada, and Anaheim, California; and
+       ``(2) 50 percent for existing MAGLEV projects located east 
+     of the Mississippi River using such criteria as the Secretary 
+     deems appropriate.''.
+       (d) Effective Date.--The amendments made by this section 
+     take effect on October 1, 2006.
+
+     SEC. 103. PROJECTS OF NATIONAL AND REGIONAL SIGNIFICANCE AND 
+                   NATIONAL CORRIDOR INFRASTRUCTURE IMPROVEMENT 
+                   PROJECTS.
+
+       (a) Project of National and Regional Significance.--The 
+     table contained in section 1301(m) of the Safe, Accountable, 
+     Flexible, Efficient Transportation Equity: A Legacy for Users 
+     (119 Stat. 1203) is amended--
+       (1) in item number 4 by striking the project description 
+     and inserting ``$7,400,000 for planning, design, and 
+     construction of a new American border plaza at the Blue Water 
+     Bridge in or near Port Huron; $12,600,000 for integrated 
+     highway realignment and grade separations at Port Huron to 
+     eliminate road blockages from NAFTA rail traffic'';
+       (2) in item number 19 by striking the project description 
+     and inserting ``For purposes of construction and other 
+     related transportation improvements associated with the rail 
+     yard relocation in the vicinity of Santa Teresa''; and
+       (3) in item number 22 by striking the project description 
+     and inserting ``Redesign and reconstruction of interchanges 
+     298 and 299 of I-80 and accompanying improvements to any 
+     other public roads in the vicinity, Monroe County''.
+       (b) National Corridor Infrastructure Improvement Project.--
+     The table contained in section 1302(e) of the Safe, 
+     Accountable, Flexible, Efficient Transportation Equity Act: A 
+     Legacy for Users (119 Stat. 1205) is amended in item number 
+     23 by striking the project description and inserting 
+     ``Improvements to State Road 312, Hammond''.
+
+     SEC. 104. IDLING REDUCTION FACILITIES.
+
+       Section 111(d) of title 23, United States Code, is 
+     repealed.
+
+     SEC. 105. PROJECT AUTHORIZATIONS.
+
+       (a) Project Modifications.--The table contained in section 
+     1702 of the Safe, Accountable, Flexible, Efficient 
+     Transportation Equity Act: A Legacy for Users (119 Stat. 
+     1256) is amended--
+       (1) in item number 34 by striking the project description 
+     and inserting ``Removal and Reconfiguration of Interstate 
+     ramps, I-40, Memphis'';
+       (2) by striking item number 61;
+       (3) in item number 87 by striking the project description 
+     and inserting ``M-291 highway outer road improvement 
+     project'';
+       (4) in item number 128 by striking ``$2,400,000'' and 
+     inserting ``$4,800,000'';
+       (5) in item number 154 by striking ``Virginia'' and 
+     inserting ``Eveleth'';
+
+[[Page 22387]]
+
+       (6) in item number 193 by striking the project description 
+     and inserting ``Improvements to or access to Route 108 to 
+     enhance access to the business park near Rumford'';
+       (7) in item number 240 by striking ``$800,000'' and 
+     inserting ``$2,400,000'';
+       (8) by striking item number 248;
+       (9) in item number 274 by striking the project description 
+     and inserting ``Intersection improvements at Belleville and 
+     Ecorse Roads and approach roadways, and widen Belleville Road 
+     from Ecorse to Tyler, Van Buren Township, Michigan'';
+       (10) in item number 277 by striking the project description 
+     and inserting ``Construct connector road from Rushing Drive 
+     North to Grand Ave., Williamson County'';
+       (11) in item number 395 by striking the project description 
+     and inserting ``Plan and construct interchange at I-65, from 
+     existing SR-109 to I-65'';
+       (12) in item number 463 by striking ``Cookeville'' and 
+     inserting ``Putnam County'';
+       (13) in item number 576 by striking the project description 
+     and inserting ``Design, right-of-way acquisition, and 
+     construction of Nebraska Highway 35 between Norfolk and South 
+     Sioux City, including an interchange at Milepost 1 on I-
+     129'';
+       (14) in item number 595 by striking ``Street Closure at'' 
+     and inserting ``Transportation improvement project near'';
+       (15) in item number 649 by striking the project description 
+     and inserting ``Construction and enhancement of the Fillmore 
+     Avenue Corridor, Buffalo'';
+       (16) in item number 655 by inserting ``, safety improvement 
+     construction,'' after ``Environmental studies'';
+       (17) in item number 676 by striking the project description 
+     and inserting ``St. Croix River crossing project, Wisconsin 
+     State Highway 64, St. Croix County, Wisconsin, to Minnesota 
+     State Highway 36, Washington County'';
+       (18) in item number 770 by striking the project description 
+     and inserting ``Improve existing Horns Hill Road in North 
+     Newark, Ohio, from Waterworks Road to Licking Springs Road'';
+       (19) in item number 777 by striking the project description 
+     and inserting ``Akutan Airport access'';
+       (20) in item number 829 by striking the project description 
+     and inserting ``$400,000 to conduct New Bedford/Fairhaven 
+     Bridge modernization study; $1,000,000 to design and build 
+     New Bedford Business Park access road'';
+       (21) in item number 881 by striking the project description 
+     and inserting ``Pedestrian safety improvements near North 
+     Atlantic Boulevard, Monterey Park'';
+       (22) in item number 923 by striking the project description 
+     and inserting ``Improve safety of a horizontal curve on 
+     Clarksville St. 0.25 miles north of 275th Rd. in Grandview 
+     Township, Edgar County'';
+       (23) in item number 947 by striking the project description 
+     and inserting ``Third East/West River Crossing, St. Lucie 
+     River'';
+       (24) in item numbers 959 and 3327 by striking ``Northern 
+     Section,'' each place it appears;
+       (25) in item number 963 by striking the project description 
+     and inserting ``For engineering, right-of-way acquisition, 
+     and reconstruction of 2 existing lanes on Manhattan Road from 
+     Baseline Road to Route 53'';
+       (26) in item number 983 by striking the project description 
+     and inserting ``Land acquisition for highway mitigation in 
+     Cecil, Kent, Queen Annes, and Worcester Counties'';
+       (27) in item number 1039 by striking the project 
+     description and inserting ``Widen State Route 98, including 
+     storm drain developments, from D. Navarro Avenue to State 
+     Route 111'';
+       (28) in item number 1047 by striking the project 
+     description and inserting ``Bridge and road work at Little 
+     Susitna River Access road in Matanuska-Susitna Borough'';
+       (29) in item number 1124 by striking ``bridge over 
+     Stillwater River, Orono'' and inserting ``routes'';
+       (30) in item number 1206 by striking ``Pleasantville'' and 
+     inserting ``Briarcliff Manor'';
+       (31) in item number 1281 by striking the project 
+     description and inserting ``Upgrade roads in Attala County 
+     District 4 (Roads 4211 and 4204), Kosciusko, Ward 2, and 
+     Ethel, Attala County'';
+       (32) in item number 1487 by striking ``$800,000'' and 
+     inserting ``$1,600,000'';
+       (33) in item number 1575 by striking the project 
+     description and inserting ``Highway and road signage, and 
+     traffic signal synchronization and upgrades, in Shippensburg 
+     Boro, Shippensburg Township, and surrounding 
+     municipalities'';
+       (34) in item number 1661 by striking the project 
+     description and inserting ``Sheldon West Extension in 
+     Matanuska-Susitna Borough'';
+       (35) in item number 1810 by striking the project 
+     description and inserting ``Design, engineering, ROW 
+     acquisition, construction, and construction engineering for 
+     the reconstruction of TH 95, from 12th Avenue to CSAH 13, 
+     including bridge and approaches, ramps, intersecting 
+     roadways, signals, turn lanes, and multiuse trail, North 
+     Branch'';
+       (36) in item number 1852 by striking ``Milepost 9.3'' and 
+     inserting ``Milepost 24.3'';
+       (37) in item numbers 1926 and 2893 by striking the project 
+     descriptions and inserting ``Grading, paving roads, and the 
+     transfer of rail-to-truck for the intermodal facility at 
+     Rickenbacker Airport, Columbus, Ohio'';
+       (38) in item number 1933 by striking the project 
+     description and inserting ``Enhance Byzantine Latino Quarter 
+     transit plazas at Normandie and Pico, and Hoover and Pico, 
+     Los Angeles, by improving streetscapes, including expanding 
+     concrete and paving'';
+       (39) in item number 1975 by striking the project 
+     description and inserting ``Point MacKenzie Access Road 
+     improvements in Matanuska-Susitna Borough'';
+       (40) in item number 2015 by striking the project 
+     description and inserting ``Heidelberg Borough/Scott 
+     Township/Carnegie Borough for design, engineering, 
+     acquisition, and construction of streetscaping enhancements, 
+     paving, lighting and safety upgrades, and parking 
+     improvements'';
+       (41) in item number 2087 by striking the project 
+     description and inserting ``Railroad crossing improvement on 
+     Illinois Route 82 in Geneseo'';
+       (42) in item number 2211 by striking the project 
+     description and inserting ``Construct road projects and 
+     transportation enhancements as part of or connected to 
+     RiverScape Phase III, Montgomery County, Ohio'';
+       (43) in item number 2234 by striking the project 
+     description and amount and inserting ``North Atherton Signal 
+     Coordination Project in Centre County'' and ``$400,000'', 
+     respectively;
+       (44) in item number 2316 by striking the project 
+     description and inserting ``Construct a new bridge at Indian 
+     Street, Martin County'';
+       (45) in item number 2420 by striking the project 
+     description and inserting ``Preconstruction and construction 
+     activities of U.S. 51 between the Assumption Bypass and 
+     Vandalia'';
+       (46) in item number 2482 by striking ``Country'' and 
+     inserting ``County'';
+       (47) in item number 2663 by striking the project 
+     description and inserting ``Rosemead Boulevard safety 
+     enhancement and beautification, Temple City'';
+       (48) in item number 2671 by striking ``from 2 to 5 lanes 
+     and improve alignment within rights-of-way in St. George'' 
+     and inserting ``, St. George'';
+       (49) in item number 2743 by striking the project 
+     description and inserting ``Improve safety of culvert 
+     replacement on 250th Rd. between 460th St. and Cty Hwy 20 in 
+     Grandview Township, Edgar County'';
+       (50) by striking item number 2800;
+       (51) in item number 2826 by striking ``State Street and 
+     Cajon Boulevard'' and inserting ``Palm Avenue'';
+       (52) in item number 2931 by striking ``Frazho Road'' and 
+     inserting ``Martin Road'';
+       (53) in item number 3047 by inserting ``and roadway 
+     improvements'' after ``safety project'' ;
+       (54) in item number 3078 by striking the project 
+     description and inserting ``U.S. 2/Sultan Basin Road 
+     improvements in Sultan'';
+       (55) in item number 3174 by striking the project 
+     description and inserting ``Improving Outer Harbor access 
+     through planning, design, construction, and relocations of 
+     Southtowns Connector-NY Route 5, Fuhrmann Boulevard, and a 
+     bridge connecting the Outer Harbor to downtown Buffalo at the 
+     Inner Harbor'';
+       (56) in item number 3219 by striking ``Forest'' and 
+     inserting ``Warren'';
+       (57) in item number 3254 by striking the project 
+     description and inserting ``Reconstruct PA Route 274/34 
+     Corridor, Perry County'';
+       (58) in item number 3260 by striking ``Lake Shore Drive'' 
+     and inserting ``Lakeshore Drive and parking facility/entrance 
+     improvements serving the Museum of Science and Industry'';
+       (59) in item number 3368 by striking the project 
+     description and inserting ``Plan, design, and engineering, 
+     Ludlam Trail, Miami'';
+       (60) in item number 3410 by striking the project 
+     description and inserting ``Design, purchase land, and 
+     construct sound walls along the west side of I-65 from 
+     approximately 950 feet south of the Harding Place interchange 
+     south to Hogan Road'';
+       (61) in item number 3537 by inserting ``and the study of 
+     alternatives along the North South Corridor,'' after 
+     ``Valley'';
+       (62) in item number 3582 by striking the project 
+     description and inserting ``Improving Outer Harbor access 
+     through planning, design, construction, and relocations of 
+     Southtowns Connector-NY Route 5, Fuhrmann Boulevard, and a 
+     bridge connecting the Outer Harbor to downtown Buffalo at the 
+     Inner Harbor'';
+       (63) in item number 3604 by inserting ``/Kane Creek 
+     Boulevard'' after ``500 West'';
+       (64) in item number 3632 by striking the State, project 
+     description, and amount and inserting ``FL'', ``Pine Island 
+     Road pedestrian overpass, city of Tamarac'', and 
+     ``$610,000'', respectively;
+       (65) in item number 3634 by striking the matters in the 
+     State, project description, and amount columns and inserting 
+     ``FL'', ``West Avenue Bridge, city of Miami Beach'', and 
+     ``$620,000'', respectively;
+       (66) in item number 3673 by striking the project 
+     description and inserting ``Improve
+
+[[Page 22388]]
+
+     marine dry-dock and facilities in Ketchikan'';
+       (67) in item number 2942 by striking the project 
+     description and inserting ``Redesigning the intersection of 
+     Business U.S. 322/High Street and Rosedale Avenue and 
+     constructing a new East Campus Drive between High Street 
+     (U.S. 322) and Matlock Street at West Chester University, 
+     West Chester, Pennsylvania'';
+       (68) in item number 2781 by striking the project 
+     description and inserting ``Highway and road signage, road 
+     construction, and other transportation improvement and 
+     enhancement projects on or near Highway 26, in Riverton and 
+     surrounding areas'';
+       (69) in item number 2430 by striking ``200 South 
+     Interchange'' and inserting ``400 South Interchange'';
+       (70) by striking item number 20;
+       (71) in item number 424 by striking ``$264,000'' and 
+     inserting ``$644,000'';
+       (72) in item number 1210 by striking the project 
+     description and inserting ``Town of New Windsor--Riley Road, 
+     Shore Drive, and area road improvements'';
+       (73) by striking item numbers 68, 905, and 1742;
+       (74) in item number 1059 by striking ``$240,000'' and 
+     inserting ``$420,000'';
+       (75) in item number 2974 by striking ``$120,000'' and 
+     inserting ``$220,000'';
+       (76) by striking item numbers 841, 960, and 2030;
+       (77) in item number 1278 by striking ``$740,000'' and 
+     inserting ``$989,600'';
+       (78) in item number 207 by striking ``$13,600,000'' and 
+     inserting ``$13,200,000'';
+       (79) in item number 2656 by striking ``$12,228,000'' and 
+     inserting ``$8,970,000'';
+       (80) in item number 1983 by striking ``$1,600,000'' and 
+     inserting ``$1,000,000'';
+       (81) in item number 753 by striking ``$2,700,000'' and 
+     inserting ``$3,200,000'';
+       (82) in item number 64 by striking ``$6,560,000'' and 
+     inserting ``$8,480,000'';
+       (83) in item number 2338 by striking ``$1,600,000'' and 
+     inserting ``$1,800,000'';
+       (84) in item number 1533 by striking ``$392,000'' and 
+     inserting ``$490,000'';
+       (85) in item number 1354 by striking ``$40,000'' and 
+     inserting ``$50,000'';
+       (86) in item number 3106 by striking ``$400,000'' and 
+     inserting ``$500,000'';
+       (87) in item number 799 by striking ``$1,600,000'' and 
+     inserting ``$2,000,000'';
+       (88) in item number 159--
+       (A) by striking ``Construct interchange for 146th St. and 
+     I-69'' and inserting ``Upgrade 146th St. to I-69 Access''; 
+     and
+       (B) by striking ``$2,400,000'' and inserting 
+     ``$3,200,000'';
+       (89) by striking item number 2936;
+       (90) in item number 3138 by striking the project 
+     description and inserting ``Elimination of highway-railway 
+     crossing along the KO railroad from Salina to Osborne to 
+     increase safety and reduce congestion'';
+       (91) in item number 2274 by striking ``between Farmington 
+     and Merriman'' and inserting ``between Hines Drive and 
+     Inkster, Flamingo Street between Ann Arbor Trail and Joy 
+     Road, and the intersection of Warren Road and Newburgh 
+     Road'';
+       (92) in item number 52 by striking the project description 
+     and inserting ``Pontiac Trail between E. Liberty and McHattie 
+     Street'';
+       (93) in item number 1544 by striking ``connector'';
+       (94) in item number 2573 by striking the project 
+     description and inserting ``Rehabilitation of Sugar Hill Road 
+     in North Salem, NY'';
+       (95) in item number 1450 by striking ``III-VI'' and 
+     inserting ``III-VII'';
+       (96) in item number 2637 by striking the project 
+     description and inserting ``Construction, road and safety 
+     improvements in Geauga County, OH'';
+       (97) in item number 2342 by striking the project 
+     description and inserting ``Streetscaping, bicycle trails, 
+     and related improvements to the I-90/SR-615 interchange and 
+     adjacent area and Heisley Road in Mentor, including 
+     acquisition of necessary right-of-way within the Newell Creek 
+     development to build future bicycle trails and bicycle 
+     staging areas that will connect into the existing bicycle 
+     trail system at I-90/SR-615, widening the Garfield Road 
+     Bridge over I-90 to provide connectivity to the existing 
+     bicycle trail system between the I-90/SR-615 interchange and 
+     Lakeland Community College, and acquisition of additional 
+     land needed for the preservation of the Lake Metroparks 
+     Greenspace Corridor with the Newell Creek development 
+     adjacent to the I-90/SR-615 interchange'';
+       (98) in item number 161 by striking the project description 
+     and inserting ``Construct False Pass causeway and road to the 
+     terminus of the south arm  breakwater project'';
+       (99) in item number 2002 by striking the project 
+     description and inserting ``Dowling Road extension/
+     reconstruction west from Minnesota Drive to Old Seward 
+     Highway, Anchorage'';
+       (100) in item number 2023 by striking the project 
+     description and inserting ``Biking and pedestrian trail 
+     construction, Kentland'';
+       (101) in item number 2035 by striking ``Replace'' and 
+     inserting ``Repair'';
+       (102) in item number 2511 by striking ``Replace'' and 
+     inserting ``Rehabilitate'';
+       (103) in item number 2981 by striking the project 
+     description and inserting ``Roadway improvements on Highway 
+     262 on the Navajo Nation in Aneth'';
+       (104) in item number 2068 by inserting ``and approaches'' 
+     after ``capacity'';
+       (105) in item number 98 by striking the project description 
+     and inserting ``Right-of-way acquisition and construction for 
+     the 77th Street reconstruction project, including the Lyndale 
+     Avenue Bridge over I-494, Richfield'';
+       (106) in item number 1783 by striking the project 
+     description and inserting ``Clark Road access improvements, 
+     Jacksonville'';
+       (107) in item number 2711 by striking the project 
+     description and inserting ``Main Street Road Improvements 
+     through Springfield, Jacksonville'';
+       (108) in item number 3485 by striking the project 
+     description and inserting ``Improve SR 105 (Hecksher Drive) 
+     from Drummond Point to August Road, including bridges across 
+     the Broward River and Dunns Creek, Jacksonville'';
+       (109) in item number 3486 by striking the project 
+     description and inserting ``Construct improvements to NE 19th 
+     Street/NE 19th Terrace from NE 3rd Avenue to NE 8th Avenue, 
+     Gainesville'';
+       (110) in item number 3487 by striking the project 
+     description and inserting ``Construct improvements to NE 25th 
+     Street from SR 26 (University Blvd.) to NE 8th Avenue, 
+     Gainesville'';
+       (111) in item number 803 by striking ``St. Clair County'' 
+     and inserting ``city of Madison'';
+       (112) in item number 615 by striking the project 
+     description and inserting ``Roadway improvements to Jackson 
+     Avenue between Jericho Turnpike and Teibrook Avenue'';
+       (113) in item number 889 by striking the project 
+     description and inserting ``U.S. 160, State Highway 3 to east 
+     of the Florida River'';
+       (114) in item number 324 by striking the project 
+     description and inserting ``Paving a portion of H-58 from 
+     Buck Hill to 4,000 feet east of Hurricane River'';
+       (115) in item number 301 by striking the project 
+     description and inserting ``Improvements for St. Georges 
+     Avenue between East Baltimore Avenue on the southwest and 
+     Chandler Avenue on the northeast'';
+       (116) in item number 1519 by inserting ``at the 
+     intersection of Quincy/West Drinker/Electric Streets near the 
+     Dunmore School complex'' after ``roadway redesign'';
+       (117) in item number 2604 by inserting ``on Coolidge, 
+     Bridge (from Main to Monroe), Skytop (from Gedding to 
+     Skytop), Atwell (from Bear Creek Rd. to Pittston Township), 
+     Wood (to Bear Creek Rd.), Pine, Oak (from Penn Avenue to 
+     Lackawanna Avenue), McLean, Second, and Lolli Lane'' after 
+     ``roadway redesign'';
+       (118) in item number 1157 by inserting ``on Mill Street 
+     from Prince Street to Roberts Street, John Street from 
+     Roberts Street to end, Thomas Street from Roberts Street to 
+     end, Williams Street from Roberts Street to end, Charles 
+     Street from Roberts Street to end, Fair Street from Roberts 
+     Street to end, Newport Avenue from East Kirmar Avenue to 
+     end'' after ``roadway redesign'';
+       (119) in item number 805 by inserting ``on Oak Street from 
+     Stark Street to the township line at Mayock Street and on 
+     East Mountain Boulevard'' after ``roadway redesign'';
+       (120) in item number 2704 by inserting ``on West Cemetery 
+     Street and Frederick Courts'' after ``roadway redesign'';
+       (121) in item number 3136 by inserting ``on Walden Drive 
+     and Greenwood Hills Drive'' after ``roadway redesign'';
+       (122) in item number 1363 by striking the project 
+     description and inserting ``Design, engineering, right-of-way 
+     acquisition, and construction of streetscaping enhancements, 
+     paving, lighting, safety improvements, handicap access ramps, 
+     parking, and roadway redesign on Bilbow Street from Church 
+     Street to Pugh Street, on Pugh Street from Swallow Street to 
+     Main Street, Jones Lane from Main Street to Hoblak Street, 
+     Cherry Street from Green Street to Church Street, Main Street 
+     from Jackson Street to end, Short Street from Cherry Street 
+     to Main Street, and Hillside Avenue in Edwardsville Borough, 
+     Luzerne County'';
+       (123) in item number 883 by striking the project 
+     description and inserting ``Design, engineering, right-of-way 
+     acquisition, and construction of streetscaping enhancements, 
+     paving, lighting, parking, roadway redesign, and safety 
+     improvements (including curbing, stop signs, crosswalks, and 
+     pedestrian sidewalks) at and around the 3-way intersection 
+     involving Susquehanna Avenue, Erie Street, and Second Street 
+     in West Pittston, Luzerne County'';
+       (124) in item number 625 by striking the project 
+     description and inserting ``Design, engineering, right-of-way 
+     acquisition, and construction of streetscaping enhancements, 
+     paving, lighting, safety improvements, parking, and roadway 
+     redesign on Sampson Street, Dunn Avenue, Powell Street, 
+     Josephine Street, Pittston Avenue, Railroad Street, McClure 
+     Avenue, and Baker Street in Old Forge Borough, Lackawanna 
+     County'';
+       (125) in item number 372 by inserting ``, replacement of 
+     the Nesbitt Street Bridge, and placement of a guard rail 
+     adjacent to St.
+
+[[Page 22389]]
+
+     Vladimir's Cemetery on Mountain Road (S.R. 1007)'' after 
+     ``roadway redesign'';
+       (126) in item number 2308 by striking the project 
+     description and inserting ``Design, engineering, right-of-way 
+     acquisition, and construction of streetscaping enhancements, 
+     paving, lighting, safety improvements, parking, and roadway 
+     redesign, including a project to establish emergency access 
+     to Catherino Drive from South Valley Avenue in Throop 
+     Borough, Lackawanna County'';
+       (127) in item number 967 by striking the project 
+     description and inserting ``Design, engineering, right-of-way 
+     acquisition, and construction of streetscaping enhancements, 
+     paving, lighting, safety improvements, parking, roadway 
+     redesign, and catch basin restoration and replacement on 
+     Cherry Street, Willow Street, Eno Street, Flat Road, Krispin 
+     Street, Parrish Street, Carver Street, Church Street, 
+     Franklin Street, Carolina Street, East Main Street, and Rear 
+     Shawnee Avenue in Plymouth Borough, Luzerne County'';
+       (128) in item number 989 by inserting ``on Old Ashley Road, 
+     Ashley Street, Phillips Street, First Street, Ferry Road, and 
+     Division Street'' after ``roadway redesign'';
+       (129) in item number 342 by striking the project 
+     description and inserting ``Design, engineering, right-of-way 
+     acquisition, and construction of streetscaping enhancements, 
+     paving, lighting, safety improvements, parking, roadway 
+     redesign, and cross pipe and catch basin restoration and 
+     replacement on Northgate, Mandy Court, Vine Street, and 36th 
+     Street in Milnesville West, and on Hillside Drive (including 
+     the widening of the bridge on Hillside Drive), Club 40 Road, 
+     Sunburst and Venisa Drives, and Stockton #7 Road in Hazle 
+     Township, Luzerne County'';
+       (130) in item number 2332 by striking ``Monroe County'' and 
+     inserting ``Carbon, Monroe, Pike, and Wayne Counties'';
+       (131) in item number 2436 by striking the project 
+     description and amount and inserting ``For Wilkes-Barre to 
+     design, acquire land, and construct a parking garage or 
+     parkade, streetscaping enhancements, paving, lighting, safety 
+     improvements, and roadway redesign at and around the Sterling 
+     Hotel in Wilkes-Barre, including on River Street, Market 
+     Street, or Franklin Street (or any combination thereof) to 
+     the vicinity of the Irem Temple'' and ``$3,000,000'', 
+     respectively;
+       (132) in item number 2723 by striking ``$4,000,000'' and 
+     inserting ``$3,150,000'';
+       (133) in item number 61 by striking the matters in the 
+     State, project description, and amount columns and inserting 
+     ``AL'', ``Grade crossing improvements along Wiregrass Central 
+     RR at Boll Weevil Bypass in Enterprise, AL'', and 
+     ``$250,000'', respectively;
+       (134) in item number 314 by striking the project 
+     description and amount and inserting ``Streetscape 
+     enhancements to the transit and pedestrian corridor, Fort 
+     Lauderdale, Downtown Development Authority'' and 
+     ``$610,000'', respectively;
+       (135) in item number 1639 by striking the project 
+     description and inserting ``Operational and highway safety 
+     improvements on Hwy 94 between the 20 mile marker post in 
+     Jamul and Hwy 188 in Tecate'';
+       (136) in item number 2860 by striking the project 
+     description and inserting ``Roadway improvements from 
+     Halchita to Mexican Hat on the Navajo Nation'';
+       (137) in item number 2549 by striking ``on Navy Pier'';
+       (138) in item number 2804 by striking ``on Navy Pier'';
+       (139) in item number 1328 by striking the project 
+     description and inserting ``Construct public access roadways 
+     and pedestrian safety improvements in and around Montclair 
+     State University in Clifton'';
+       (140) in item number 2559 by striking the project 
+     description and inserting ``Construct sound walls on Route 
+     164 at and near the Maersk interchange'';
+       (141) in item number 1849 by striking the project 
+     description and inserting ``Highway, traffic-flow, pedestrian 
+     facility, and streetscape improvements, Pittsburgh'';
+       (142) in item number 697 by striking the project 
+     description and inserting ``Highway, traffic-flow, pedestrian 
+     facility, and streetscape improvements, Pittsburgh'';
+       (143) in item number 3597 by striking the project 
+     description and inserting ``Road Alignment from IL Route 159 
+     to Sullivan Drive, Swansea'';
+       (144) in item number 2352 by striking the project 
+     description and inserting ``Streetscaping and transportation 
+     enhancements on 7th Street in Calexico, traffic signalization 
+     on Highway 78, construction of the Renewable Energy and 
+     Transportation Learning Center, improve and enlarge parking 
+     lot, and create bus stop, Brawley'';
+       (145) in item number 3482 by striking the project 
+     description and inserting ``Conduct a study to examine multi-
+     modal improvements to the I-5 corridor between the Main 
+     Street Interchange and State Route 54'';
+       (146) in item number 1275 by striking the project 
+     description and inserting ``Scoping, permitting, engineering, 
+     construction management, and construction of Riverbank Park 
+     Bike Trail, Kearny'';
+       (147) in item number 726 by striking the project 
+     description and inserting ``Grade Separation at Vanowen and 
+     Clybourn, Burbank'';
+       (148) in item number 1579 by striking the project 
+     description and inserting ``San Gabriel Blvd. rehabilitation 
+     project, Mission Road to Broadway, San Gabriel'';
+       (149) in item number 2690 by striking the project 
+     description and inserting ``San Gabriel Blvd. rehabilitation 
+     project, Mission Road to Broadway, San Gabriel'';
+       (150) in item number 2811 by striking the project 
+     description and inserting ``San Gabriel Blvd. rehabilitation 
+     project, Mission Road to Broadway, San Gabriel'';
+       (151) in item number 259 by striking the project 
+     description and inserting ``Design and construction of the 
+     Clair Nelson Intermodal Center in Finland, Lake County'';
+       (152) in item number 3456 by striking the project 
+     description and inserting ``Completion of Phase II/Part I of 
+     a project on Elizabeth Avenue in Coleraine to west of Itasca 
+     County State Aid Highway 15 in Itasca County'';
+       (153) in item number 2429 by striking the project 
+     description and inserting ``Upgrade streets, undertake 
+     streetscaping, and implement traffic and pedestrian safety 
+     signalization improvements and highway-rail crossing safety 
+     improvements, Oak Lawn'';
+       (154) in item number 766 by striking the project 
+     description and inserting ``Design and construction of the 
+     walking path at Ellis Pond, Norwood'';
+       (155) in item number 3474 by striking the project 
+     description and inserting ``Yellow River Trail, Newton 
+     County'';
+       (156) in item number 3291 by striking the amount and 
+     inserting ``$200,000'';
+       (157) in item number 3635 by striking the matters in the 
+     State, project description, and amount columns and inserting 
+     ``GA'', ``Access Road in Montezuma'', and ``$200,000'', 
+     respectively;
+       (158) in item number 716 by striking the project 
+     description and inserting ``Conduct a project study report 
+     for new Highway 99 Interchange between SR 165 and Bradbury 
+     Road, and safety improvements/realignment of SR 165, serving 
+     Turlock/Hilmar region'';
+       (159) in item number 1386 by striking the project 
+     description and amount and inserting ``Pedestrian and bicycle 
+     facilities, and street lighting in Haddon Heights'' and 
+     ``$300,000'', respectively;
+       (160) in item number 2720 by striking the project 
+     description and amount and inserting ``Pedestrian and bicycle 
+     facilities and street lighting in Barrington and streetscape 
+     improvements to Clements Bridge Road from the circle at the 
+     White Horse Pike to NJ Turnpike overpass in Barrington'' and 
+     ``$700,000'', respectively;
+       (161) in item number 2523 by striking the project 
+     description and inserting ``Penobscot Riverfront Development 
+     for bicycle trails, amenities, traffic circulation 
+     improvements, and waterfront access or stabilization, Bangor 
+     and Brewer'';
+       (162) in item number 545 by striking the project 
+     description and inserting ``Planning, design, and 
+     construction of improvements to the highway systems 
+     connecting to Lewistown and Auburn downtowns'';
+       (163) in item number 2168 by striking the project 
+     description and amount and inserting ``Study and design, 
+     engineering, right-of-way acquisition, and construction of 
+     street improvements, streetscaping enhancements, paving, 
+     lighting, safety improvements, along the Rt. 315 corridor 
+     from Dupont to Wilkes Barre'' and ``$1,000,000'', 
+     respectively;
+       (164) in item number 170 by striking the project 
+     description and amount and inserting ``Study of a Maglev 
+     train route from Northeast Pennsylvania through New Jersey 
+     and New York'' and ``$1,600,000'', respectively;
+       (165) in item number 2366 by striking the project 
+     description and inserting ``Design, engineering, right-of-way 
+     acquisition, and paving of the parking lot at the Casey Plaza 
+     in Wilkes-Barre Township'';
+       (166) in item number 826 by striking ``and Interstate 81'' 
+     and inserting ``and exit 168 on Interstate 81 or the 
+     intersection of the connector road with Northampton St.'';
+       (167) in item number 2144 by striking the project 
+     description and inserting ``Design, engineering, right-of-way 
+     acquisition and construction of streetscaping enhancements, 
+     paving, lighting, safety improvements, parking, and roadway 
+     redesign on Third Street from Pittston Avenue to Packer 
+     Street; Swift Street from Packer Street to Railroad Street; 
+     Clark Street from Main Street to South Street; School Street 
+     from Main Street to South Street; Plane Street from Grove 
+     Street to William Street; John Street from 4 John Street to 
+     William Street; Grove Street from Plane Street to Duryea 
+     Borough line; Wood Street from Cherry Street to Hawthorne 
+     Street in Avoca Borough, Luzerne County'';
+       (168) in item number 1765 by striking the project 
+     description and amount and inserting ``Design, engineering, 
+     right-of-way acquisition, and construction of street 
+     improvements, streetscaping enhancements, paving, lighting, 
+     safety improvements, parking, roadway redesign in Pittston, 
+     including right-of-way acquisition, structure demolition, and 
+     intersection safety improvements in the vicinity and 
+     including the intersection of Main and William Streets in 
+     Pittston'' and ``$1,600,000'', respectively;
+       (169) in item number 2957 by striking the project 
+     description and amount and inserting ``Design, engineering, 
+     land acquisition, right-of-way acquisition, and construction 
+     of
+
+[[Page 22390]]
+
+     a parking garage, streetscaping enhancements, paving, 
+     lighting, safety improvements, parking, and roadway redesign 
+     in the city of Wilkes-Barre'' and ``$2,800,000'', 
+     respectively;
+       (170) in item number 3283 by striking the project 
+     description and amount and inserting ``Pedestrian access 
+     improvements, including installation of infrastructure and 
+     equipment for security and surveillance purposes at subway 
+     stations in Astoria, New York'' and ``$1,300,000'', 
+     respectively;
+       (171) in item number 3556 by striking the project 
+     description and amount and inserting ``Design and 
+     rehabilitate staircases used as streets due to the steep 
+     grade of terrain in Bronx County'' and ``$1,100,000'', 
+     respectively;
+       (172) by striking item number 203;
+       (173) by striking item number 552;
+       (174) by striking item number 590;
+       (175) by striking item number 759;
+       (176) by striking item number 879;
+       (177) by striking item number 1071;
+       (178) by striking item number 1382;
+       (179) by striking item number 1897;
+       (180) by striking item number 2553;
+       (181) in item number 3014 by striking the project 
+     description and amount and inserting ``Design and Construct 
+     school safety projects in New York City'' and ``$2,500,000'', 
+     respectively;
+       (182) in item number 2375 by striking the project 
+     description and amount and inserting ``Subsurface 
+     environmental study to measure presence of methane and 
+     benzene gasses in vicinity of Greenpoint, Brooklyn, and the 
+     Kosciusko Bridge, resulting from the Newtown Creek oil 
+     spill'' and ``$100,000'';
+       (183) in item number 221 by striking the project 
+     description and inserting ``Study and Implement 
+     transportation improvements on Flatbush Ave. between Avenue U 
+     and the Marine Park Bridge in front of Gateway National Park 
+     in Kings County, New York'';
+       (184) in item number 2732 striking the project description 
+     and inserting ``Pedestrian safety improvements in the 
+     vicinity of LIRR stations'';
+       (185) by striking item number 99;
+       (186) in item number 398 by striking the project 
+     description and inserting ``Construct a new 2-lane road 
+     extending north from University Park Drive and improvements 
+     to University Park Drive'';
+       (187) in item number 446 by striking the project 
+     description and inserting ``Transportation improvements for 
+     development of the Williamsport-Pile Bay Road corridor'';
+       (188) in item number 671 by striking ``and Pedestrian Trail 
+     Expansion'' and inserting ``, including parking facilities 
+     and Pedestrian Trail Expansion'';
+       (189) in item number 674 by striking the matters in the 
+     State, project description, and amount columns and inserting 
+     ``AL'', ``Grade crossing improvements along Conecuh Valley RR 
+     at Henderson Highway (CR-21) in Troy, AL'', and ``$300,000'', 
+     respectively;
+       (190) in item number 739 by striking the matters in the 
+     State, project description, and amount columns and inserting 
+     ``AL'', ``Grade crossing improvements along Luxapalila Valley 
+     RR in Lamar and Fayette Counties, AL (Crossings at CR-6, CR-
+     20, SH-7, James Street, and College Drive)'', and 
+     ``$300,000'', respectively;
+       (191) in item number 746 by striking ``Planning and 
+     construction of a bicycle trail adjacent to the I-90 and SR 
+     615 Interchange in'' and inserting ``Planning, construction, 
+     and extension of bicycle trails adjacent to the I-90 and SR 
+     615 Interchange, along the Greenway Corridor and 
+     throughout'';
+       (192) in item number 749 by striking the matters in the 
+     State, project description, and amount columns and inserting 
+     ``PA'', ``UPMC Heliport in Bedford'', and ``$750,000'', 
+     respectively;
+       (193) in item number 813 by striking the project 
+     description and inserting ``Preliminary design and study of 
+     long-term roadway approach alternatives to TH 36/SH 64 St. 
+     Croix River Crossing Project'';
+       (194) in item number 816 by striking ``$800,000'' and 
+     inserting ``$880,000'';
+       (195) in item number 852 by striking ``Acquire Right-of-Way 
+     for Ludlam Trail, Miami, Florida'' and inserting ``Planning, 
+     design, and engineering, Ludlam Trail, Miami'';
+       (196) in item number 994 by striking the matters in the 
+     State, project description, and amount columns and inserting 
+     ``PA'', ``Construct 2 flyover ramps and S. Linden Street exit 
+     for access to industrial sites in the cities of McKeesport 
+     and Duquesne'', and ``$500,000'', respectively;
+       (197) in item number 1015 by striking the project 
+     description and inserting ``Mississippi River Crossing 
+     connecting I-94 and US 10 between US 160 and TH 101, MN'';
+       (198) in item number 1101 by striking the project 
+     description and inserting ``I-285 underpass/tunnel assessment 
+     and engineering and interchange improvements in Sandy 
+     Springs'';
+       (199) in item number 1211 by striking the matters in the 
+     State, project description, and amount columns and inserting 
+     ``PA'', ``Road improvements and upgrades related to the 
+     Pennsylvania State Baseball Stadium'', and ``$500,000'', 
+     respectively;
+       (200) in item number 1345 by striking ``to Stony Creek 
+     Park, 25 Mile Road in Shelby Township'' and inserting ``south 
+     to the city of Utica'';
+       (201) in item number 1501 by striking the project 
+     description and inserting ``Construction and right-of-way 
+     acquisition of TH 241, CSAH 35 and associated streets in the 
+     city of St. Michael'';
+       (202) in item number 1525 by striking ``north of CSX RR 
+     Bridge'' and inserting ``US Highway 90'';
+       (203) in item number 1847 by striking the project 
+     description and inserting ``Improve roads, sidewalks, and 
+     road drainage, City of Seward'';
+       (204) in item number 2031 by striking the project 
+     description and inserting ``Construct and improve Westside 
+     Parkway in Fulton County'';
+       (205) in item number 2103 by striking ``$2,000,000'' and 
+     inserting ``$3,000,000'';
+       (206) in item number 2219 by striking ``SR 91 in City of 
+     Twinsburg, OH'' and inserting ``Center Valley Parkway in 
+     Twinsburg, OH'';
+       (207) in item number 2302 by inserting ``and other road 
+     improvements to Safford Street'' after ``crossings'';
+       (208) in item number 2560 by striking the project 
+     description and inserting ``I-285 underpass/tunnel assessment 
+     and engineering and interchange improvements in Sandy 
+     Springs'';
+       (209) in item number 2563 by striking the project 
+     description and amount and inserting ``Construct hike and 
+     bike path as part of Bridgeview Bridge replacement in Macomb 
+     County'' and ``$486,400'', respectively;
+       (210) in item number 2698 by striking the project 
+     description and inserting ``Interchanges at I-95/Ellis Road 
+     and between Grant Road and Micco Road, Brevard County'';
+       (211) in item number 3141 by striking ``$2,800,000'' and 
+     inserting ``$1,800,000'';
+       (212) by striking item number 3160;
+       (213) in item number 3353 by inserting ``and construction'' 
+     after ``mitigation'';
+       (214) in item number 996 by striking ``$2,000,000'' and 
+     inserting ``$687,000'';
+       (215) in item number 2166 by striking the project 
+     description and inserting ``Design, right-of-way acquisition, 
+     and construction for I-35 and CSAH2 interchange and CSAH2 
+     corridor to TH61 in Forest Lake'';
+       (216) in item number 3251 by striking the project 
+     description and inserting ``I-94 and Radio Drive Interchange 
+     and frontage road project, design, right-of-way acquisition, 
+     and construction, Woodbury'';
+       (217) in item number 1488 by striking the project 
+     description and inserting ``Construct a 4-lane highway 
+     between Maverick Junction and the Nebraska border'';
+       (218) in item number 3240 by striking the project 
+     description and inserting ``Railroad-highway crossings in 
+     Pierre'';
+       (219) in item number 1738 by striking ``Paving'' and 
+     inserting ``Planning, design, and construction'';
+       (220) in item number 3672 by striking the project 
+     description and inserting ``Pave remaining stretch of BIA 
+     Route 4 from the junction of the BIA Route 4 and N8031 in 
+     Pinon, AZ, to the Navajo and Hopi border'';
+       (221) in item number 2424 by striking ``Construction'' and 
+     inserting ``preconstruction (including survey and 
+     archeological clearances) and construction'';
+       (222) in item number 1216 by striking the matters in the 
+     State, project description, and amount columns and inserting 
+     ``PA'', ``For roadway construction improvements to Route 222 
+     relocation, Lehigh County'', and ``$1,313,000'', 
+     respectively;
+       (223) in item number 2956 by striking ``$1,360,000'' and 
+     inserting ``$2,080,000'';
+       (224) in item number 1256 by striking the matters in the 
+     State, project description, and amount columns and inserting 
+     ``PA'', ``Construction of a bridge over Brandywine Creek as 
+     part of the Boot Road extension project, Downingtown 
+     Borough'', and ``$700,000'', respectively;
+       (225) in item number 1291 by striking the matters in the 
+     State, project description, and amount columns and inserting 
+     ``PA'', ``Enhance parking facilities in Chester Springs, 
+     Historic Yellow Springs'', and ``$20,000'', respectively;
+       (226) in item number 1304 by striking the matters in the 
+     State, project description, and amount columns and inserting 
+     ``PA'', ``Improve the intersection at SR 100/SR 4003 
+     (Kernsville Road), Lehigh County'', and ``$250,000'', 
+     respectively;
+       (227) in item number 1357 by striking the matters in the 
+     State, project description, and amount columns and inserting 
+     ``PA'', ``Intersection signalization at SR 3020 (Newburg 
+     Road)/Country Club Road, Northampton County'', and 
+     ``$250,000'', respectively;
+       (228) in item number 1395 by striking the matters in the 
+     State, project description, and amount columns and inserting 
+     ``PA'', ``Improve the intersection at SR 100/SR 29, Lehigh 
+     County'', and ``$220,000'', respectively;
+       (229) in item number 80 by striking ``$4,544,000'' and 
+     inserting ``$4,731,200'';
+       (230) in item number 2096 by striking ``$4,800,000'' and 
+     inserting ``$5,217,600'';
+       (231) in item number 1496 by striking the matters in the 
+     State, project description, and amount columns and inserting 
+     ``PA'', ``Study future needs of East-West road infrastructure 
+     in Adams County'', and ``$115,200'', respectively;
+       (232) in item number 2193 by striking the project 
+     description and inserting ``710 Freeway Study to 
+     comprehensively evaluate the technical feasibility of a 
+     tunnel alternative
+
+[[Page 22391]]
+
+     to close the 710 Freeway gap, considering all practicable 
+     routes, in addition to any potential route previously 
+     considered, and with no funds to be used for preliminary 
+     engineering or environmental review except to the extent 
+     necessary to determine feasibility'';
+       (233) in item number 2445 by striking the project 
+     description and inserting ``$600,000 for road and pedestrian 
+     safety improvements on Main Street in the Village of 
+     Patchogue; $900,000 for road and pedestrian safety 
+     improvements on Montauk Highway, between NYS Route 112 and 
+     Suffolk County Road 101 in Suffolk County'';
+       (234) in item number 346 by striking the project 
+     description and inserting ``Hansen Dam Recreation Area access 
+     improvements, including hillside stabilization and parking 
+     lot rehabilitation along Osborne Street between Glenoaks 
+     Boulevard and Dronfield Avenue'';
+       (235) in item number 449 by striking the project 
+     description and inserting ``Route 30 and Mount Pleasant Road 
+     Interchange Safety Improvements, Westmoreland County, install 
+     light installations at intersection and consolidate entrances 
+     and exits to Route 30'';
+       (236) in item number 3688 by striking ``road'' and 
+     inserting ``trail'';
+       (237) in item number 3695 by striking ``in Soldotna'' and 
+     inserting ``in the Kenai River corridor'';
+       (238) in item number 3699 by striking ``to improve fish 
+     habitat'';
+       (239) in item number 3700 by inserting ``and ferry 
+     facilities'' after ``a ferry'';
+       (240) in item number 3703 by inserting ``or other roads'' 
+     after ``Cape Blossom Road'';
+       (241) in item number 3704 by striking ``Fairbanks'' and 
+     inserting ``Alaska Highway'';
+       (242) in item number 3705 by striking ``in Cook Inlet for 
+     the Westside development/Williamsport-Pile Bay Road'' and 
+     inserting ``for development of the Williamsport-Pile Bay Road 
+     corridor'';
+       (243) in item number 3828 by striking ``$2,000,000'' and 
+     inserting ``$11,000,000'';
+       (244) by striking item number 3829;
+       (245) by striking item number 3832;
+       (246) in item number 3861 by striking the project 
+     description and inserting ``Creation of a greenway path along 
+     the Naugatuck River in Waterbury'';
+       (247) in item number 3883 by striking the project 
+     description and inserting ``Wilmington Riverfront Access and 
+     Street Grid Redesign'';
+       (248) in item number 3892 by striking ``$5,000,000'' and 
+     inserting ``$8,800,000'';
+       (249) in item number 3894 by striking ``$5,000,000'' and 
+     inserting ``$1,200,000'';
+       (250) in item number 3909 by striking the project 
+     description and inserting ``S.R. 281, the Avalon Boulevard 
+     Expansion Project from Interstate 10 to U.S. Highway 91'';
+       (251) in item number 3911 by striking the project 
+     description and inserting ``Construct a new bridge at Indian 
+     Street, Martin County'';
+       (252) in item number 3916 by striking the project 
+     description and inserting ``City of Hollywood for U.S. 1/
+     Federal Highway, north of Young Circle'';
+       (253) in item number 3937 by striking the project 
+     description and inserting ``Kingsland bypass from CR 61 to I-
+     95, Camden County'';
+       (254) in item number 3945 by striking ``CR 293 to CS 5231'' 
+     and inserting ``SR 371 to SR 400'';
+       (255) in item number 3965 by striking ``transportation 
+     projects'' and inserting ``and air quality projects'';
+       (256) in item number 3986 by striking the project 
+     description and inserting ``Extension of Sugarloaf Parkway, 
+     Gwinnett County'';
+       (257) in item number 3999 by striking ``Bridges'' and 
+     inserting ``Bridge and Corridor'';
+       (258) in item number 4003 by striking the project 
+     description and inserting ``City of Council Bluffs and 
+     Pottawattamie County East Beltway Roadway and Connectors 
+     Project'';
+       (259) in item number 4043 by striking ``MP 9.3, Segment I, 
+     II, and III'' and inserting ``Milepost 24.3'';
+       (260) in item number 4050 by striking the project 
+     description and inserting ``Preconstruction and construction 
+     activities of U.S. 51 between the Assumption Bypass and 
+     Vandalia'';
+       (261) in item number 4058 by striking the project 
+     description and inserting ``For improvements to the road 
+     between Brighton and Bunker Hill in Macoupin County'';
+       (262) in each of item numbers 4062 and 4084 by striking the 
+     project description and inserting ``Preconstruction, 
+     construction, and related research and studies of I-290 Cap 
+     the Ike project in the village of Oak Park'';
+       (263) in item number 4089 by inserting ``and parking 
+     facility/entrance improvements serving the Museum of Science 
+     and Industry'' after ``Lakeshore Drive'';
+       (264) in item number 4103 by inserting ``and adjacent to 
+     the'' before ``Shawnee'';
+       (265) in item number 4110 by striking the project 
+     description and inserting ``For improvements to the road 
+     between Brighton and Bunker Hill in Macoupin County'';
+       (266) in item number 4120 by striking the matters in the 
+     project description and amount columns and inserting 
+     ``Upgrade 146th Street to Improve I-69 Access'' and 
+     ``$800,000'', respectively;
+       (267) in item number 4125 by striking ``$250,000'' and 
+     inserting ``$1,650,000'';
+       (268) by striking item number 4170;
+       (269) by striking item number 4179;
+       (270) in item number 4185 by striking the project 
+     description and inserting ``Replace the Clinton Street Bridge 
+     spanning St. Mary's River in downtown Fort Wayne'';
+       (271) in item number 4299 by striking the project 
+     description and inserting ``Improve U.S. 40, MD 715 
+     interchange and other roadways in the vicinity of Aberdeen 
+     Proving Ground to support BRAC-related growth'';
+       (272) in item number 4313 by striking ``Maryland Avenue'' 
+     and all that follows through ``Rd. corridor'' and inserting 
+     ``intermodal access, streetscape, and pedestrian safety 
+     improvements'';
+       (273) in item number 4315 by striking ``stormwater 
+     mitigation project'' and inserting ``environmental 
+     preservation project'';
+       (274) in item number 4318 by striking the project 
+     description and inserting ``Planning, design, and 
+     construction of improvements to the highway systems 
+     connecting to Lewiston and Auburn downtowns'';
+       (275) in item number 4323 by striking the project 
+     description and inserting ``MaineDOT Acadia intermodal 
+     passenger and maintenance facility'';
+       (276) in item number 4338 by striking the project 
+     description and inserting ``Construct 1 or more grade-
+     separated crossings of I-75, and make associated improvements 
+     to improve local and regional east-west mobility between 
+     Mileposts 279 and 282'';
+       (277) in item number 4355 by striking the project 
+     description and inserting ``Design, engineering, ROW 
+     acquisition, construction, and construction engineering for 
+     the reconstruction of TH 95, from 12th Avenue to CSAH 13, 
+     including bridge and approaches, ramps, intersecting 
+     roadways, signals, turn lanes, and multiuse trail, North 
+     Branch'';
+       (278) in item number 4357 by striking the project 
+     description and inserting ``Design, construct, ROW, and 
+     expand TH 241 and CSAH 35 and associated streets in the city 
+     of St. Michael'';
+       (279) in item number 4360 by striking the project 
+     description and inserting ``Planning, design, and 
+     construction for Twin Cities Bioscience Corridor in St. 
+     Paul'';
+       (280) in item number 4362 by striking the project 
+     description and inserting ``I-494/U.S. 169 interchange 
+     reconstruction including U.S. 169/Valley View Road 
+     interchange, Twin Cities Metropolitan Area'';
+       (281) in item number 4365 by striking the project 
+     description and inserting ``34th Street realignment and 34th 
+     Street and I-94 interchange, including retention and 
+     reconstruction of the SE Main Avenue/CSAH 52 interchange 
+     ramps at I-94, and other transportation improvements for the 
+     city of Moorhead, including the SE Main Avenue GSI and 
+     Moorhead Comprehensive Rail Safety Program'';
+       (282) in item number 4369 by striking the project 
+     description and inserting ``Construction of 8th Street North, 
+     Stearns C.R. 120 to TH 15 in St. Cloud'';
+       (283) in item number 4371 by striking the project 
+     description and inserting ``Construction and ROW of TH 241, 
+     CSAH 35 and associated streets in the city of St. Michael'';
+       (284) in item number 4411 by striking ``Southaven'' and 
+     inserting ``DeSoto County'';
+       (285) in item number 4424 by striking the project 
+     description and inserting ``U.S. 93 Evaro to Polson 
+     transportation improvement projects'';
+       (286) in item number 4428 by striking the project 
+     description and inserting ``US 76 improvements'';
+       (287) in item number 4457 by striking the project 
+     description and inserting ``Construct an interchange at an 
+     existing grade separation at SR 1602 (Old Stantonsburg Rd.) 
+     and U.S. 264 Bypass in Wilson County'';
+       (288) in item number 4461 by striking the project 
+     description and inserting ``Transportation and related 
+     improvements at Queens University of Charlotte, including the 
+     Queens Science Center and the Marion Diehl Center, 
+     Charlotte'';
+       (289) in item number 4507 by striking the project 
+     description and inserting ``Design, right-of-way acquisition, 
+     and construction of Highway 35 between Norfolk and South 
+     Sioux City, including an interchange at milepost 1 on U.S. I-
+     129'';
+       (290) in item number 4555 by inserting ``Canal Street and'' 
+     after ``Reconstruction of'';
+       (291) in item number 4565 by striking the project 
+     description and inserting ``Railroad Construction and 
+     Acquisition, Ely and White Pine County'';
+       (292) in item number 4588 by inserting ``Private Parking 
+     and'' before ``Transportation'';
+       (293) in item number 4596 by striking the project 
+     description and inserting ``Centerway Bridge and Bike Trail 
+     Project, Corning'';
+       (294) in item number 4610 by striking the project 
+     description and inserting ``Preparation, demolition, 
+     disposal, and site restoration of Alert Facility on Access 
+     Road to Plattsburgh International Airport'';
+       (295) in item number 4649 by striking the project 
+     description and inserting ``Fairfield County, OH U.S. 33 and 
+     old U.S. 33 safety improvements and related construction, 
+     city of Lancaster and surrounding areas'';
+
+[[Page 22392]]
+
+       (296) in item number 4651 by striking ``for the transfer of 
+     rail to truck for the intermodal'' and inserting ``, and 
+     construction of an intermodal freight'';
+       (297) in item number 4691 by striking the project 
+     description and inserting ``Transportation improvements to 
+     Idabel Industrial Park Rail Spur, Idabel'';
+       (298) in item number 4722 by striking the project 
+     description and inserting ``Highway, traffic, pedestrian, and 
+     riverfront improvements, Pittsburgh'';
+       (299) in item number 4749 by striking ``study'' and 
+     inserting ``improvements'';
+       (300) in item number 4821 by striking ``highway grade 
+     crossing project, Clearfield and Clinton Counties'' and 
+     inserting ``Project for highway grade crossings and other 
+     purposes relating to the Project in Cambria, Centre, 
+     Clearfield, Clinton, Indiana, and Jefferson Counties'';
+       (301) in item number 4838 by striking ``study'' and 
+     inserting ``improvements'';
+       (302) in item number 4839 by striking ``fuel-celled'' and 
+     inserting ``fueled'';
+       (303) in item number 4866 by striking ``$11,000,000'' and 
+     inserting ``$9,400,000'';
+       (304) by inserting after item number 4866 the following:
+
+
+``4866A                        RI  Repair and restore      $1,600,000'';
+                                    railroad bridge in
+                                    Westerly
+
+       (305) in item number 4892 by striking the project 
+     description and inserting ``Construct a 4-lane highway 
+     between maverick Junction and the Nebraska border'';
+       (306) in item number 4915 by striking the project 
+     description and inserting ``For projects of highest priority, 
+     as determined by the South Dakota DOT'';
+       (307) in item number 4916 by striking ``$1,000,000'' and 
+     inserting ``$328,000'';
+       (308) in item number 4924 by striking ``$3,450,000'' and 
+     inserting ``$4,122,000'';
+       (309) in item number 4927 by striking the project 
+     description and inserting ``Construction and Improvements to 
+     the College Street Corridor, Great Smoky Mountain Heritage 
+     Highway Cultural and Visitors Center in Maryville'';
+       (310) in item number 4960 by inserting ``of which $50,000 
+     shall be used for a street paving project, Calhoun'' after 
+     ``County'';
+       (311) in item number 4974 by striking ``, Sevier County'';
+       (312) in item number 5008 by inserting ``/Kane Creek 
+     Boulevard'' after ``500 West'';
+       (313) in each of item numbers 5011 and 5033 by striking 
+     ``200 South Interchange'' and inserting ``400 South 
+     Interchange'';
+       (314) in item number 5021 by striking ``Pine View Dam,'';
+       (315) in item number 5026 by striking the project 
+     description and inserting ``Roadway improvements on 
+     Washington Fields Road/300 East, Washington'';
+       (316) in item number 5027 by inserting ``and roadway 
+     improvements'' after ``safety project'';
+       (317) in item number 5028 by inserting ``and roadway 
+     improvements'' after ``lighting'';
+       (318) in item number 5029 by inserting ``and roadway 
+     improvements'' after ``lights'';
+       (319) in number 5032 by striking the project description 
+     and inserting ``Expand Redhills Parkway, St. George'';
+       (320) in item number 5132 by striking the project 
+     description and inserting ``St. Croix River crossing project, 
+     Wisconsin State Highway 64, St. Croix County, Wisconsin, to 
+     Minnesota State Highway 36, Washington County'';
+       (321) in item number 5161 by striking the project 
+     description and inserting ``Raleigh Street Extension Project 
+     in Martinsburg'';
+       (322) in item number 1824 by striking the project 
+     description and inserting ``U.S. Route 10 expansion in Wadena 
+     and Ottertail Counties'';
+       (323) in item number 1194 by striking the project 
+     description and inserting ``Roadway and pedestrian design and 
+     improvements for Pennsylvania Avenue, Brooklyn'';
+       (324) in item number 2286 by striking the project 
+     description and inserting ``Road improvements for Church 
+     Street between NY State Route 25A and Hilden Street in Kings 
+     Park'';
+       (325) in item number 1724 by striking the project 
+     description and amount and inserting ``For road resurfacing 
+     and upgrades to Old Nichols Road and road repairs in the 
+     Nissequogue River watershed in Smithtown'' and 
+     ``$1,500,000'', respectively;
+       (326) in item number 3636 by striking the matters in the 
+     State, project description, and amount columns and inserting 
+     ``NY'', ``Road repair and maintenance in the Town of 
+     Southampton'', and ``$500,000'', respectively;
+       (327) in item number 3638 by striking the matters in the 
+     State, project description, and amount columns and inserting 
+     ``NY'', ``Improve NY State Route 112 from Old Town Road to NY 
+     State Route 347'', and ``$6,000,000'', respectively;
+       (328) in item number 3479 by striking the project 
+     description and inserting ``Road improvements and utility 
+     relocations within the city of Jackson'';
+       (329) in item number 141 by striking ``construction of 
+     pedestrian and bicycle improvements'' and inserting 
+     ``transportation enhancement activities'';
+       (330) in item number 1204 by striking ``at SR 283'';
+       (331) in item number 2896 by striking the project 
+     description and inserting ``Improve streetscape and signage 
+     and pave roads in McMinn County, including $50,000 that may 
+     be used for paving local roads in the city of Calhoun'';
+       (332) in item number 3017 by striking ``, Pine View Dam'';
+       (333) in item number 3188 insert after ``Reconstruction'' 
+     the following: ``including U.S. 169/Valley View Road 
+     Interchange,'';
+       (334) in item number 1772 by striking the project 
+     description and inserting ``Reconstruction of Historic 
+     Eastern Parkway'';
+       (335) in item number 2610 by striking the project 
+     description and inserting ``Reconstruction of Times and Duffy 
+     Squares in New York City'';
+       (336) in item number 2462--
+       (A) by striking ``of the New Jersey Turnpike, Carteret'' 
+     and inserting ``and the Tremley Point Connector Road of the 
+     New Jersey Turnpike''; and
+       (B) by striking ``$1,200,000'' and inserting ``$450,000'';
+       (337) in item number 2871 by striking the amount and 
+     inserting ``$2,430,000'';
+       (338) in item number 3381 by striking the project 
+     description and inserting ``Determine scope, design, 
+     engineering, and construction of Western Boulevard Extension 
+     from Northern Boulevard to Route 9 in Ocean County, New 
+     Jersey'';
+       (339) in item number 2703 by striking the project 
+     description and inserting ``Upgrading existing railroad 
+     crossings with installation of active signals and gates and 
+     to study the feasibility and necessity of rail grade 
+     separation'';
+       (340) in item number 1004 by inserting ``SR 71 near'' after 
+     ``turn lane on'';
+       (341) in item number 2824 by striking the project 
+     description and inserting the following: ``Sevier County, TN, 
+     SR 35 near SR 449 intersection'';
+       (342) in item number 373 by striking the project 
+     description and inserting ``Widening existing Highway 226, 
+     including a bypass of Cash and a new connection to Highway 
+     49'';
+       (343) in item number 1486, by striking the project 
+     description and inserting ``Bridge reconstruction and road 
+     widening on Route 252 and Route 30 in Tredyffrin Township, 
+     PA, in conjunction with the Paoli Transportation Center 
+     Project'';
+       (344) in item number 4541 by striking ``of the New Jersey 
+     Turnpike, Carteret'' and inserting ``and the Tremley Point 
+     Connector Road of the New Jersey Turnpike'';
+       (345) in item number 4006 by striking the project 
+     description and inserting ``Improvement to Alice's Road/105th 
+     Street Corridor including bridge, interchange, roadway, 
+     right-of-way, and enhancements''; and
+       (346) in item number 2901 by striking the project 
+     description and inserting ``Purchase of land and conservation 
+     easements within U.S. 24 study area in Lucas, Henry, and 
+     Fulton Counties, Ohio''.
+       (b) Unused Obligation Authority.--Notwithstanding any other 
+     provision of law, unused obligation authority made available 
+     for an item in section 1702 of the Safe, Accountable, 
+     Flexible, Efficient Transportation Equity Act: A Legacy for 
+     Users (119 Stat. 1256) that is repealed, or authorized 
+     funding for such an item that is reduced, by this section 
+     shall be made available--
+       (1) for an item in section 1702 of that Act that is added 
+     or increased by this section and that is in the same State as 
+     the item for which obligation authority or funding is 
+     repealed or reduced;
+       (2) in an amount proportional to the amount of obligation 
+     authority or funding that is so repealed or reduced; and
+       (3) individually for projects numbered 1 through 3676 
+     pursuant to section 1102(c)(4)(A) of that Act (119 Stat. 
+     1158).
+       (c) Transfer of Project Funds.--The Secretary of 
+     Transportation shall transfer to the Commandant of the Coast 
+     Guard amounts made available to carry out the project 
+     described in item number 4985 of the table contained in 
+     section 1702 of the Safe, Accountable, Flexible, Efficient 
+     Transportation Equity Act: A Legacy for Users (119 Stat. 
+     1447) to carry out that project, in accordance with the Act 
+     of June 21, 1940, commonly known as the ``Truman-Hobbs Act'', 
+     (33 U.S.C. 511 et seq.).
+       (d) Additional Discretionary Use of Surface Transportation 
+     Program Funds.--Of the funds apportioned to each State under 
+     section 104(b)(3) of title 23, United States Code, a State 
+     may expend for each of fiscal years 2007 through 2009 not 
+     more than $1,000,000 for the following activities:
+       (1) Participation in the Joint Operation Center for Fuel 
+     Compliance established under section 143(b)(4)(H) of title 
+     23, United States Code, within the Department of the 
+     Treasury, including the funding of additional positions for 
+     motor fuel tax enforcement officers and other staff dedicated 
+     on a full-time basis to participation in the activities of 
+     the Center.
+       (2) Development, operation, and maintenance of electronic 
+     filing systems to coordinate data exchange with the Internal 
+     Revenue Service by States that impose a tax on the removal of 
+     taxable fuel from any refinery and on the removal of taxable 
+     fuel from any terminal.
+       (3) Development, operation, and maintenance of electronic 
+     single point of filing in
+
+[[Page 22393]]
+
+     conjunction with the Internal Revenue Service by States that 
+     impose a tax on the removal of taxable fuel from any refinery 
+     and on the removal of taxable fuel from any terminal.
+       (4) Development, operation, and maintenance of a 
+     certification system by a State of any fuel sold to a State 
+     or local government (as defined in section 4221(d)(4) of the 
+     Internal Revenue Code of 1986) for the exclusive use of the 
+     State or local government or sold to a qualified volunteer 
+     fire department (as defined in section 150(e)(2) of such 
+     Code) for its exclusive use.
+       (5) Development, operation, and maintenance of a 
+     certification system by a State of any fuel sold to a 
+     nonprofit educational organization (as defined in section 
+     4221(d)(5) of such Code) that includes verification of the 
+     good standing of the organization in the State in which the 
+     organization is providing educational services.
+       (e) Project Federal Share.--Section 1964 of the Safe, 
+     Accountable, Flexible, Efficient Transportation Equity: A 
+     Legacy for Users (119 Stat. 1519) is amended by adding at the 
+     end the following:
+       ``(c) Special Rule.--Notwithstanding any other provision of 
+     law, the Federal share of the cost of the projects described 
+     in item numbers 1284 and 3093 in the table contained in 
+     section 1702 of this Act shall be 100 percent.''.
+
+     SEC. 106. NONMOTORIZED TRANSPORTATION PILOT PROGRAM.
+
+       Section 1807(a)(3) of the Safe, Accountable, Flexible, 
+     Efficient Transportation Equity Act: A Legacy for Users (119 
+     Stat. 1460) is amended by striking ``Minneapolis-St. Paul, 
+     Minnesota'' and inserting ``Minneapolis, Minnesota''.
+
+     SEC. 107. CORRECTION OF INTERSTATE AND NATIONAL HIGHWAY 
+                   SYSTEM DESIGNATIONS.
+
+       (a) Treatment.--Section 1908(a) of the Safe, Accountable, 
+     Flexible, Efficient Transportation Equity Act: A Legacy for 
+     Users (119 Stat. 1469) is amended by striking paragraph (3).
+       (b) National Highway System.--Section 1908(b) of the Safe, 
+     Accountable, Flexible, Efficient Transportation Equity Act: A 
+     Legacy for Users (119 Stat. 1470) is amended by striking 
+     ``from the Arkansas State line'' and inserting ``from 
+     Interstate Route 540''.
+
+     SEC. 108. FUTURE OF SURFACE TRANSPORTATION SYSTEM.
+
+       Section 1909(b) of the Safe, Accountable, Flexible, 
+     Efficient Transportation Equity Act: A Legacy for Users (119 
+     Stat. 1471) is amended--
+       (1) in the matter preceding subparagraph (A) of paragraph 
+     (9) by striking ``July 1, 2007'' and inserting ``December 31, 
+     2007'';
+       (2) in paragraph (11)(C) by striking ``the Administrator of 
+     the Federal Highway Administration'' and inserting ``the 
+     Secretary'';
+       (3) in paragraph (11)(D)(i) by striking ``, on a 
+     reimbursable basis,'';
+       (4) in paragraph (15) by striking ``$1,400,000 for each of 
+     fiscal years 2006 and 2007'' and inserting ``$1,400,000 for 
+     fiscal year 2006 and $3,400,000 for fiscal year 2007'';
+       (5) by redesignating paragraphs (14), (15), (16), and (17) 
+     as paragraphs (15), (16), (17), and (18), respectively; and
+       (6) by inserting after paragraph (13) the following:
+       ``(14) Limitations.--Funds made available to carry out this 
+     section may be expended only to support the activities of the 
+     Commission. No data, analyses, reports, or any other 
+     documents prepared for the Commission to fulfill its duties 
+     may be provided to or shared with other commissions or task 
+     forces until such data, analyses, reports, or documents have 
+     been made available to the public.''.
+
+     SEC. 109. BUDGET JUSTIFICATION; BUY AMERICA.
+
+       (a) Budget Justification.--Section 1926 of the Safe, 
+     Accountable, Flexible, Efficient Transportation Equity Act: A 
+     Legacy for Users (119 Stat. 1483) is amended by striking 
+     ``The Department'' and inserting ``Notwithstanding any other 
+     provision of law, the Department''.
+       (b) Buy America.--Section 1928 of the Safe, Accountable, 
+     Flexible, Efficient Transportation Equity Act: A Legacy for 
+     Users (119 Stat. 1484) is amended--
+       (1) by redesignating paragraphs (2) through (5) as 
+     paragraphs (3) through (6), respectively; and
+       (2) by inserting after paragraph (1) the following:
+       ``(2) the current application by the Federal Highway 
+     Administration of the Buy America test, that is only applied 
+     to components or parts of a bridge project and not the entire 
+     bridge project, is inconsistent with this sense of 
+     Congress;''.
+
+     SEC. 110. TRANSPORTATION IMPROVEMENTS.
+
+       The table contained in section 1934(c) of the Safe, 
+     Accountable, Flexible, Efficient Transportation Equity Act: A 
+     Legacy for Users (119 Stat. 1486) is amended--
+       (1) in item number 436 by inserting ``, Saole,'' after 
+     ``Sua'';
+       (2) in item number 448 by inserting ``by removing asphalt 
+     and concrete and reinstalling blue cobblestones'' after 
+     ``streets'';
+       (3) by striking item number 451;
+       (4) in item number 452 by striking ``$2,000,000'' and 
+     inserting ``$3,000,000'';
+       (5) in item number 12 by striking ``Yukon River'' and 
+     inserting ``Kuskokwim River'';
+       (6) in item number 18 by striking ``Engineering and 
+     Construction in Merced County'' and inserting ``and safety 
+     improvements/realignment of SR 165 project study report and 
+     environmental studies in Merced and Stanislaus Counties'';
+       (7) in item number 38 by striking the project description 
+     and inserting ``Relocation of the Newark Train Station'';
+       (8) in item number 57 by striking the project description 
+     and inserting ``Kingsland bypass from CR 61 to I-95, Camden 
+     County'';
+       (9) in item number 114 by striking ``IA-32'' and inserting 
+     ``SW'' after ``Construct'';
+       (10) in item number 122 by striking the project description 
+     and inserting ``Design, right-of-way acquisition, and 
+     construction of the SW Arterial and connections to U.S. 20, 
+     Dubuque County'';
+       (11) in item number 130 by striking the project description 
+     and inserting ``Improvements and rehabilitation to rail and 
+     bridges on the Appanoose County Community Railroad'';
+       (12) in item number 133 by striking ``IA-32'';
+       (13) in item number 138 by striking the project description 
+     and inserting ``West Spencer Beltway Project'';
+       (14) in item number 142 by striking ``MP 9.3, Segment I, 
+     II, and III'' and inserting ``Milepost 24.3'';
+       (15) in item number 161 by striking ``Bridge replacement on 
+     Johnson Drive and Nall Ave.'' and inserting ``Construction 
+     improvements'';
+       (16) in item number 182 by striking the project description 
+     and inserting ``Improve U.S. 40, M.D. 715 interchange, and 
+     other roadways in the vicinity of Aberdeen Proving Ground to 
+     support BRAC-related growth'';
+       (17) in item number 198 by striking the project description 
+     and inserting ``Construct 1 or more grade separated crossings 
+     of I-75 and make associated improvements to improve local and 
+     regional east-west mobility between Mileposts 279 and 282'';
+       (18) in item number 201 by striking the project description 
+     and inserting ``Alger County, paving a portion of H-58 from 
+     Buck Hill to a point located 4,000 feet east of the Hurricane 
+     River'';
+       (19) in item number 238 by striking the project description 
+     and inserting ``Develop and construct the St. Mary water 
+     project road and bridge infrastructure, including a new 
+     bridge and approaches across St. Mary River, stabilization 
+     and improvements to United States Route 89, and road/canal 
+     from Siphon Bridge to Spider Lake, on the condition that 
+     $2,500,000 of the amount made available to carry out this 
+     item may be made available to the Bureau of Reclamation for 
+     use for the Swift Current Creek and Boulder Creek bank and 
+     bed stabilization project in the Lower St. Mary Lake 
+     drainage'';
+       (20) in item number 329 by inserting ``, Tulsa'' after 
+     ``technology'';
+       (21) in item number 358 by striking ``fuel-celled'' and 
+     inserting ``fueled'';
+       (22) in item number 374 by striking the project description 
+     and inserting ``Construct a 4-lane highway between Maverick 
+     Junction and the Nebraska border''; and
+       (23) in item number 402 by striking ``from 2 to 5 lanes and 
+     improve alignment within rights-of-way in St. George'' and 
+     inserting ``, St. George''.
+
+     SEC. 111. I-95/CONTEE ROAD INTERCHANGE DESIGN.
+
+       Section 1961 of the Safe, Accountable, Flexible, Efficient 
+     Transportation Equity Act: A Legacy for Users (119 Stat. 
+     1518) is amended--
+       (1) in the section heading by striking ``STUDY'' and 
+     inserting ``DESIGN'';
+       (2) by striking subsections (a), (b), and (c) and inserting 
+     the following:
+       ``(a) Design.--The Secretary shall make available the funds 
+     authorized to be appropriated by this section for the design 
+     of the I-95/Contee Road interchange in Prince George's 
+     County, Maryland.'';
+       (3) by redesignating subsection (d) as subsection (b); and
+       (4) in subsection (b)(1) (as so redesignated) by striking 
+     ``2006'' and inserting ``2007''.
+
+     SEC. 112. HIGHWAY RESEARCH FUNDING.
+
+       (a) F-SHRP Funding.--Notwithstanding any other provision of 
+     law, for each of fiscal years 2007 through 2009, at any time 
+     at which an apportionment is made of the sums authorized to 
+     be appropriated for the surface transportation program, the 
+     congestion mitigation and air quality improvement program, 
+     the National Highway System, the Interstate maintenance 
+     program, the bridge program, or the highway safety 
+     improvement program, the Secretary of Transportation shall--
+       (1) deduct from each apportionment an amount not to exceed 
+     0.205 percent of the apportionment; and
+       (2) transfer or otherwise make that amount available to 
+     carry out section 510 of title 23, United States Code.
+       (b) Conforming Amendments.--
+       (1) Funding.--Section 5101 of the Safe, Accountable, 
+     Flexible, Efficient Transportation Equity Act: A Legacy for 
+     Users (119 Stat. 1779) is amended--
+       (A) in subsection (a)(1) by striking ``509, and 510'' and 
+     inserting ``and 509'';
+       (B) in subsection (a)(4) by striking ``$69,700,000'' and 
+     all that follows through ``2009'' and inserting ``$40,400,000 
+     for fiscal year 2005, $69,700,000 for fiscal year 2006,
+
+[[Page 22394]]
+
+     $76,400,000 for each of fiscal years 2007 and 2008, and 
+     $78,900,000 for fiscal year 2009''; and
+       (C) in subsection (b) by inserting after ``50 percent'' the 
+     following ``or, in the case of funds appropriated by 
+     subsection (a) to carry out section 5201, 5202, or 5203 of 
+     this Act, 80 percent''.
+       (2) Future strategic highway research program.--Section 
+     5210 of such Act (119 Stat. 1804) is amended--
+       (A) by striking subsection (c); and
+       (B) by redesignating subsection (d) as subsection (c).
+       (c) Contract Authority.--Funds made available under this 
+     section shall be available for obligation in the same manner 
+     as if the funds were apportioned under chapter 1 of title 23, 
+     United States Code, except that the Federal share shall be 
+     determined under section 510(f) of that title.
+       (d) Applicability of Obligation Limitation.--Funds made 
+     available under this section shall be subject to any 
+     limitation on obligations for Federal-aid highways and 
+     highway safety construction programs under section 1102 the 
+     Safe, Accountable, Flexible, Efficient Transportation Equity 
+     Act: A Legacy for Users (23 U.S.C. 104 note; 119 Stat. 1157) 
+     or any other Act.
+       (e) Equity Bonus Formula.--Notwithstanding any other 
+     provision of law, in allocating funds for the equity bonus 
+     program under section 105 of title 23, United States Code, 
+     for each of fiscal years 2007 through 2009, the Secretary of 
+     Transportation shall make the required calculations under 
+     that section as if this section had not been enacted.
+       (f) Funding for Research Activities.--Of the amount made 
+     available by section 5101(a)(1) of the Safe, Accountable, 
+     Flexible, Efficient Transportation Equity Act: A Legacy for 
+     Users (119 Stat. 1779)--
+       (1) at least $1,000,000 shall be made available for each of 
+     fiscal years 2007 through 2009 to carry out section 502(h) of 
+     title 23, United States Code; and
+       (2) at least $4,900,000 shall be made available for each of 
+     fiscal years 2007 through 2009 to carry out section 502(i) of 
+     that title.
+       (g) Technical Amendments.--
+       (1) Surface transportation research.--Section 502 of title 
+     23, United States Code, is amended by striking the first 
+     subsection (h), relating to infrastructure investment needs 
+     reports beginning with the report for January 31, 1999.
+       (2) Advanced travel forecasting procedures program.--
+     Section 5512(a)(2) of the Safe, Accountable, Flexible, 
+     Efficient Transportation Equity Act: A Legacy for Users (119 
+     Stat. 1829) is amended by striking ``Program appreciation.--
+     '' and inserting ``Program application.--''.
+       (3) University transportation research.--Section 5506 of 
+     title 49, United States Code, is amended--
+       (A) in subsection (c)(2)(B) by striking ``tier'' and 
+     inserting ``Tier'';
+       (B) in subsection (i)--
+       (i) by striking ``In order to'' and inserting the 
+     following:
+       ``(1) In general.--In order to''; and
+       (ii) by adding at the end the following:
+       ``(2) Special rule.--Nothing in paragraph (1) requires a 
+     nonprofit institution of higher learning designated as a Tier 
+     II university transportation center to maintain total 
+     expenditures as described in paragraph (1) in excess of the 
+     amount of the grant awarded to the institution.''; and
+       (C) in subsection (k)(3) by striking ``The Secretary'' and 
+     all that follows through ``to carry out this section'' and 
+     inserting ``For each of fiscal years 2007 through 2009, the 
+     Secretary shall expend not more than 1.5 percent of amounts 
+     made available to carry out this section''.
+
+     SEC. 113. RESCISSION.
+
+       Section 10212 of the Safe, Accountable, Flexible, Efficient 
+     Transportation Equity Act: A Legacy for Users (as amended by 
+     section 1302 of the Pension Protection Act of 2006 (Public 
+     Law 109-280)) (119 Stat. 1937; 120 Stat. 780) is amended by 
+     striking ``$8,593,000,000'' each place it appears and 
+     inserting ``$8,710,000,000''.
+
+     SEC. 114. TEA-21 TECHNICAL CORRECTIONS.
+
+       (a) Surface Transportation Program.--Section 1108(f)(1) of 
+     the Transportation Equity Act for the 21st Century (23 U.S.C. 
+     133 note; 112 Stat. 141) is amended by striking ``2003'' and 
+     inserting ``2009''.
+       (b) Project Authorizations.--The table contained in section 
+     1602 of such Act (112 Stat. 257) is amended--
+       (1) in item number 1096 (as amended by section 1703(a)(11) 
+     of the Safe, Accountable, Flexible, Efficient Transportation 
+     Equity Act: A Legacy for Users (119 Stat. 1454)) by inserting 
+     ``, and planning and construction to Heisley Road,'' before 
+     ``in Mentor, Ohio'';
+       (2) in item number 1646 by striking ``and construction'' 
+     and inserting ``construction, reconstruction, resurfacing, 
+     restoration, rehabilitation, and repaving''; and
+       (3) in item number 614 by inserting ``and for NJ Carteret, 
+     NJ Ferry Service Terminal'' after ``east''.
+
+     SEC. 115. HIGH PRIORITY CORRIDOR AND INNOVATIVE PROJECT 
+                   TECHNICAL CORRECTIONS.
+
+       (a) High Priority Corridors.--Section 1105(c) of the 
+     Intermodal Surface Transportation Efficiency Act of 1991 (105 
+     Stat. 2032; 119 Stat. 1212) is amended--
+       (1) in paragraph (63) by striking ``and United States 
+     Routes 1, 3, 9, 17, and 46,'' and inserting ``United States 
+     Routes 1, 9, and 46, and State Routes 3 and 17,''; and
+       (2) in paragraph (64)--
+       (A) by striking ``United States Route 42'' and inserting 
+     ``State Route 42''; and
+       (B) by striking ``Interstate Route 676'' and inserting 
+     ``Interstate Routes 76 and 676''.
+       (b) Innovative Projects.--Item number 89 of the table 
+     contained in section 1107(b) of the Intermodal Surface 
+     Transportation Efficiency Act of 1991 (105 Stat. 2052) is 
+     amended in the matter under the column with the heading 
+     ``Innovative projects'' by inserting ``and contiguous 
+     counties'' after ``Michigan''.
+
+     SEC. 116. DEFINITION OF REPEAT INTOXICATED DRIVER LAW.
+
+       Section 164(a)(5) of title 23, United States Code, is 
+     amended by striking subparagraphs (A) and (B) and inserting 
+     the following:
+       ``(A) receive--
+       ``(i) a driver's license suspension for not less than 1 
+     year; or
+       ``(ii) a combination of suspension of all driving 
+     privileges for the first 45 days of the suspension period 
+     followed by a reinstatement of limited driving privileges for 
+     the purpose of getting to and from work, school, or an 
+     alcohol treatment program if an ignition interlock device is 
+     installed on each of the motor vehicles owned or operated, or 
+     both, by the individual;
+       ``(B) be subject to the impoundment or immobilization of, 
+     or the installation of an ignition interlock system on, each 
+     motor vehicle owned or operated, or both, by the 
+     individual;''.
+
+     SEC. 117. RESEARCH TECHNICAL CORRECTION.
+
+       Section 5506(e)(5)(C) of title 49, United States Code, is 
+     amended by striking ``$2,225,000''and inserting 
+     ``$2,250,000''.
+
+     SEC. 118. BUY AMERICA WAIVER NOTIFICATION AND ANNUAL REPORTS.
+
+       (a) Waiver Notification.--
+       (1) In general.--If the Secretary of Transportation makes a 
+     finding under section 313(b) of title 23, United States Code, 
+     with respect to a project, the Secretary shall--
+       (A) publish in the Federal Register, before the date on 
+     which such finding takes effect, a detailed written 
+     justification as to the reasons that such finding is needed; 
+     and
+       (B) provide notice of such finding and an opportunity for 
+     public comment on such finding for a period of not to exceed 
+     60 days.
+       (2) Limitation on statutory construction.--Nothing in 
+     paragraph (1) shall be construed to require the effective 
+     date of a finding referred to in paragraph (1) to be delayed 
+     until after the close of the public comment period referred 
+     to in paragraph (1)(B).
+       (b) Annual Reports.--Not later than February 1 of each year 
+     beginning after the date of enactment of this Act, the 
+     Secretary shall submit to the Committee on Transportation and 
+     Infrastructure of the House of Representatives and the 
+     Committee on Environment and Public Works of the Senate a 
+     report on the projects for which the Secretary made findings 
+     under section 313(b) of title 23, United States Code, during 
+     the preceding calendar year and the justifications for such 
+     findings.
+
+     SEC. 119. EFFICIENT USE OF EXISTING HIGHWAY CAPACITY.
+
+       (a) Study.--The Secretary of Transportation shall conduct a 
+     study on the impacts of converting left and right highway 
+     safety shoulders to travel lanes.
+       (b) Contents.--In conducting the study, the Secretary 
+     shall--
+       (1) analyze instances in which safety shoulders are used 
+     for general purpose vehicle traffic, high occupancy vehicles, 
+     and public transportation vehicles;
+       (2) analyze instances in which safety shoulders are not 
+     part of the roadway design;
+       (3) evaluate whether or not conversion of safety shoulders 
+     or the lack of a safety shoulder in the original roadway 
+     design has a significant impact on the number of accidents or 
+     has any other impact on highway safety; and
+       (4) compile relevant statistics.
+       (c) Report.--Not later than one year after the date of 
+     enactment of this Act, the Secretary shall transmit to 
+     Congress a report on the results of the study.
+
+     SEC. 120. FUTURE INTERSTATE DESIGNATION.
+
+       (a) In General.--Subject to subsection (b), the Secretary 
+     of Transportation shall designate, as a future Interstate 
+     Route 69 Spur, the Audubon Parkway and, as a future 
+     Interstate Route 66 Spur, the Natcher Parkway in Owensboro, 
+     Kentucky. Any segment of such routes shall become part of the 
+     Interstate System (as defined in section 101 of title 23, 
+     United States Code) at such time as the Secretary determines 
+     that the segment--
+       (1) meets the Interstate System design standards approved 
+     by the Secretary under section 109(b) of title 23, United 
+     States Code; and
+       (2) connects to an existing Interstate System segment.
+       (b) Signs.--Section 103(c)(4)(B)(iv) of title 23, United 
+     States Code, shall apply to the designations under subsection 
+     (a); except that a State may install signs on the 2 parkways 
+     that are to be designated under subsection (a) indicating the 
+     approximate location of each of the future Interstate System 
+     highways.
+       (c) Removal of Designation.--The Secretary shall remove 
+     designation of a highway
+
+[[Page 22395]]
+
+     referred to in subsection (a) as a future Interstate System 
+     route if the Secretary, as of the last day of the 25-year 
+     period beginning on the date of enactment of this Act, has 
+     not made the determinations under paragraphs (1) and (2) of 
+     subsection (a) with respect to such highway.
+
+     SEC. 121. EMERGENCY RELIEF.
+
+       Section 1112 of the Safe, Accountable, Flexible, Efficient 
+     Transportation Equity Act: A Legacy for Users (119 Stat. 
+     1171) is amended--
+       (1) by inserting ``(a) In General.--'' before ``There''; 
+     and
+       (2) by adding at the end the following:
+       ``(b) California.--Notwithstanding any provision of chapter 
+     1 of title 23, United States Code, the Secretary may use 
+     funds authorized to carry out the emergency relief program 
+     under section 125 of such title to reimburse the California 
+     State department of transportation for actual and necessary 
+     costs of maintenance and operation, less the amount of fares 
+     earned, for additional public transportation services and 
+     traveler information services which were provided by such 
+     department of transportation as a temporary substitute for 
+     highway traffic service following the freeway collapse at the 
+     interchange connecting Interstate Routes 80, 580, and 880 
+     near the San Francisco-Oakland Bay Bridge, on April 29, 2007, 
+     until the reopening of that facility on June 29, 2007. The 
+     Federal share of the cost of activities reimbursed under this 
+     subsection shall be 100 percent.''.
+
+     SEC. 122. PROJECT FLEXIBILITY.
+
+       Section 1935(b)(1) of the Safe, Accountable, Flexible, 
+     Efficient Transportation Equity Act: A Legacy for Users (119 
+     Stat. 1510) is amended by inserting ``project numbered 1322 
+     and the'' after ``the''.
+
+     SEC. 123. EFFECTIVE DATE.
+
+       (a) In General.--Except as otherwise provided in this Act 
+     (including subsection (b)), this Act and the amendments made 
+     by this Act take effect on the date of enactment of this Act.
+       (b) Exception.--
+       (1) In general.--The amendments made by this Act (other 
+     than the amendments made by sections 101(g), 103, 105, 110, 
+     and 201(o)) to the Safe, Accountable, Flexible, Efficient 
+     Transportation Equity Act: A Legacy for Users (Public Law 
+     109-59; 119 Stat. 1144) shall--
+       (A) take effect as of the date of enactment of that Act; 
+     and
+       (B) be treated as being included in that Act as of that 
+     date.
+       (2) Effect of amendments.--Each provision of the Safe, 
+     Accountable, Flexible, Efficient Transportation Equity Act: A 
+     Legacy for Users (Public Law 109-59; 119 Stat. 1144) 
+     (including the amendments made by that Act) (as in effect on 
+     the day before the date of enactment of this Act) that is 
+     amended by this Act (other than sections 101(g), 103, 105, 
+     110, and 201(o)) shall be treated as not being enacted.
+
+                      TITLE II--TRANSIT PROVISIONS
+
+     SEC. 201. TRANSIT TECHNICAL CORRECTIONS.
+
+       (a) Section 5302.--Section 5302(a)(10) of title 49, United 
+     States Code, is amended by striking ``charter,'' and 
+     inserting ``charter, sightseeing,''.
+       (b) Section 5303.--
+       (1) Section 5303(f)(3)(C)(ii) of such title is amended by 
+     striking subclause (II) and inserting the following:
+
+       ``(II) Funding.--For fiscal year 2008 and each fiscal year 
+     thereafter, in addition to other funds made available to the 
+     metropolitan planning organization for the Lake Tahoe region 
+     under this chapter and title 23, prior to any allocation 
+     under section 202 of this title and notwithstanding the 
+     allocation provisions of section 202, the Secretary shall set 
+     aside \1/2\ of 1 percent of all funds authorized to be 
+     appropriated for such fiscal year to carry out section 204 
+     and shall make such funds available to the metropolitan 
+     planning organization for the Lake Tahoe region to carry out 
+     the transportation planning process, environmental reviews, 
+     preliminary engineering, and design to complete environmental 
+     documentation for transportation projects for the Lake Tahoe 
+     region under the Tahoe Regional Planning Compact as consented 
+     to in Public Law 96-551 (94 Stat. 3233) and this 
+     paragraph.''.
+
+       (2) Section 5303(j)(3)(D) of such title is amended--
+       (A) by inserting ``or the identified phase'' before 
+     ``within the time''; and
+       (B) by inserting ``or the identified phase'' before the 
+     period at the end.
+       (3) Section 5303(k)(2) of such title is amended by striking 
+     ``a metropolitan planning area serving''.
+       (c) Section 5307.--Section 5307(b) of such title is 
+     amended--
+       (1) in the heading for paragraph (2) by striking ``2007'' 
+     and inserting ``2009'';
+       (2) in paragraph (2)(A)--
+       (A) by striking ``2007'' and inserting ``2009''; and
+       (B) by striking ``mass'' and inserting ``public'';
+       (3) by adding at the end of paragraph (2) the following:
+       ``(E) Maximum amounts in fiscal years 2008 and 2009.--In 
+     fiscal years 2008 and 2009--
+       ``(i) amounts made available to any urbanized area under 
+     clause (i) or (ii) of subparagraph (A) shall be not more than 
+     50 percent of the amount apportioned in fiscal year 2002 to 
+     the urbanized area with a population of less than 200,000, as 
+     determined in the 1990 decennial census of population;
+       ``(ii) amounts made available to any urbanized area under 
+     subparagraph (A)(iii) shall be not more than 50 percent of 
+     the amount apportioned to the urbanized area under this 
+     section for fiscal year 2003; and
+       ``(iii) each portion of any area not designated as an 
+     urbanized area, as determined by the 1990 decennial census, 
+     and eligible to receive funds under subparagraph (A)(iv), 
+     shall receive an amount of funds to carry out this section 
+     that is not less than 50 percent of the amount the portion of 
+     the area received under section 5311 in fiscal year 2002.''; 
+     and
+       (4) in paragraph (3) by striking ``section 5305(a)'' and 
+     inserting ``section 5303(k)''.
+       (d) Section 5309.--Section 5309 of such title is amended--
+       (1) in subsection (d)(5)(B) by striking ``regulation.'' and 
+     inserting ``this subsection and shall give comparable, but 
+     not necessarily equal, numerical weight to each project 
+     justification criteria in calculating the overall project 
+     rating.'';
+       (2) in subsection (e)(6)(B) by striking ``subsection.'' and 
+     inserting ``subsection and shall give comparable, but not 
+     necessarily equal, numerical weight to each project 
+     justification criteria in calculating the overall project 
+     rating.'';
+       (3) in the heading for paragraph (2)(A) of subsection (m) 
+     by striking ``Major capital'' and inserting ``Capital''; and
+       (4) in subsection (m)(7)(B) by striking ``section 3039'' 
+     and inserting ``section 3045''.
+       (e) Section 5311.--Section 5311 of such title is amended--
+       (1) in subsection (g)(1)(A) by striking ``for any purpose 
+     other than operating assistance'' and inserting ``for a 
+     capital project or project administrative expenses'';
+       (2) in subsections (g)(1)(A) and (g)(1)(B) by striking 
+     ``capital'' after ``net''; and
+       (3) in subsection (i)(1) by striking ``Sections 
+     5323(a)(1)(D) and 5333(b) of this title apply'' and inserting 
+     ``Section 5333(b) applies''.
+       (f) Section 5312.--The heading for section 5312(c) of such 
+     title is amended by striking ``Mass Transportation'' and 
+     inserting ``Public Transportation''.
+       (g) Section 5314.--Section 5314(a)(3) is amended by 
+     striking ``section 5323(a)(1)(D)'' and inserting ``section 
+     5333(b)''.
+       (h) Section 5319.--Section 5319 of such title is amended by 
+     striking ``section 5307(k)'' and inserting ``section 
+     5307(d)(1)(K)''.
+       (i) Section 5320.--Section 5320 of such title is amended--
+       (1) in subsection (a)(1)(A) by striking ``intra--agency'' 
+     and inserting ``intraagency'';
+       (2) in subsection (b)(5)(A) by striking ``5302(a)(1)(A)'' 
+     and inserting ``5302(a)(1)'';
+       (3) in subsection (d)(1) by inserting ``to administer this 
+     section and'' after ``5338(b)(2)(J)'';
+       (4) by adding at the end of subsection (d) the following:
+       ``(4) Transfers to land management agencies.--The Secretary 
+     may transfer amounts available under paragraph (1) to the 
+     appropriate Federal land management agency to pay necessary 
+     costs of the agency for such activities described in 
+     paragraph (1) in connection with activities being carried out 
+     under this section.'';
+       (5) in subsection (k)(3) by striking ``subsection (d)(1)'' 
+     and inserting ``subsection (e)(1)'';
+       (6) by redesignating subsections (a) through (m) as 
+     subsections (b) through (n), respectively; and
+       (7) by inserting before subsection (b) (as so redesignated) 
+     the following:
+       ``(a) Program Name.--The program authorized by this section 
+     shall be known as the Paul S. Sarbanes Transit in Parks 
+     Program.''.
+       (j) Section 5323.--Section 5323(n) of such title is amended 
+     by striking ``section 5336(e)(2)'' and inserting ``section 
+     5336(d)(2)''.
+       (k) Section 5325.--Section 5325(b) of such title is 
+     amended--
+       (1) in paragraph (1) by inserting before the period at the 
+     end ``adopted before August 10, 2005'';
+       (2) by striking paragraph (2); and
+       (3) by redesignating paragraph (3) as paragraph (2).
+       (l) Section 5336.--
+       (1) Apportionments of formula grants.--Section 5336 of such 
+     title is amended--
+       (A) in subsection (a) by striking ``Of the amount'' and all 
+     that follows before paragraph (1) and inserting ``Of the 
+     amount apportioned under subsection (i)(2) to carry out 
+     section 5307--'';
+       (B) in subsection (d)(1) by striking ``subsections (a) and 
+     (h)(2) of section 5338'' and inserting ``subsections 
+     (a)(1)(C)(vi) and (b)(2)(B) of section 5338''; and
+       (C) by redesignating subsection (c), as added by section 
+     3034(c) of the Safe, Accountable, Flexible, Efficient 
+     Transportation Equity Act: A Legacy for Users (119 Stat. 
+     1628), as subsection (k).
+       (2) Technical amendments.--Section 3034(d)(2) of the Safe, 
+     Accountable, Flexible, Efficient Transportation Equity Act: A 
+     Legacy for Users (119 Stat. 1629), is amended by striking 
+     ``paragraph (2)'' and inserting ``subsection (a)(2)''.
+
+[[Page 22396]]
+
+       (m) Section 5337.--Section 5337(a) of title 49, United 
+     States Code, is amended by striking ``for each of fiscal 
+     years 1998 through 2003'' and inserting ``for each of fiscal 
+     years 2005 through 2009''.
+       (n) Section 5338.--Section 5338(d)(1)(B) of such title is 
+     amended by striking ``section 5315(a)(16)'' and inserting 
+     ``section 5315(b)(2)(P)''.
+       (o) SAFETEA-LU.--
+       (1) Section 3011.--Section 3011(f) of the Safe, 
+     Accountable, Flexible, Efficient Transportation Equity Act: A 
+     Legacy for Users (119 Stat. 1589) is amended by adding to the 
+     end the following:
+       ``(5) Central Florida Commuter Rail Transit Project.''.
+       (2) Section 3037.--Section 3037(c) of such Act (119 Stat. 
+     1636) is amended--
+       (A) in paragraph (3) by striking ``Phase II''; and
+       (B) by striking paragraph (10).
+       (3) Section 3040.--Section 3040(4) of such Act (119 Stat. 
+     1639) is amended by striking ``$7,871,895,000'' and inserting 
+     ``$7,872,893,000''.
+       (4) Section 3043.--
+       (A) Portland, oregon.--Section 3043(b)(27) of such Act (119 
+     Stat. 1642) is amended by inserting ``/Milwaukie'' after 
+     ``Mall''.
+       (B) Los angeles.--
+       (i) Phase 1.--Section 3043(b)(13) of such Act (119 Stat. 
+     1642) is amended to read as follows:
+       ``(13) Los Angeles--Exposition LRT (Phase 1).''.
+       (ii) Phase 2.--Section 3043(c) of such Act (119 Stat. 1645) 
+     is amended by inserting after paragraph (104) the following:
+       ``(104A) Los Angeles--Exposition LRT (Phase 2).''.
+       (C) San diego.--Section 3043(c)(105) of such Act (119 Stat. 
+     1645) is amended by striking ``LOSSAN Del Mar-San Diego--Rail 
+     Corridor Improvements'' and inserting ``LOSSAN Rail Corridor 
+     Improvements'' .
+       (D) San diego.--Section 3043(c)(217) of such Act (119 Stat. 
+     1648) is amended by striking ``San Diego'' and inserting 
+     ``San Diego Transit''.
+       (E) Sacramento.--Section 3043(c)(204) of such Act (119 
+     Stat. 647) is amended by striking ``Downtown''.
+       (F) Boston.--Section 3043(d)(6) of such Act (119 Stat. 
+     1649) is amended to read as follows:
+       ``(6) Boston-Silver Line Phase III, $20,000,000.''.
+       (G) Project construction grants.--Section 3043(e) of such 
+     Act (119 Stat. 1651) is amended by adding at the end the 
+     following:
+       ``(4) Project construction grants.--Projects recommended by 
+     the Secretary for a project construction grant agreement 
+     under section 5309(e) of title 49, United States Code, or for 
+     funding under section 5309(m)(2)(A)(i) of such title during 
+     fiscal year 2008 and fiscal year 2009 are authorized for 
+     preliminary engineering, final design, and construction for 
+     fiscal years 2007 through 2009 upon the completion of the 
+     notification process for each such project under section 
+     5309(g)(5).''.
+       (H) Los angeles and san gabriel valley.--Section 3043 of 
+     such Act (119 Stat. 1640) is amended by adding at the end the 
+     following:
+       ``(k) Los Angeles Extension.--In evaluating the local share 
+     of the project authorized by subsection (c)(104A) in the new 
+     starts rating process, the Secretary shall give consideration 
+     to project elements of the project authorized by subsection 
+     (b)(13) advanced with 100 percent non-Federal funds.
+       ``(l) San Gabriel Valley--Gold Line Foothill Extension 
+     Phase II.--In evaluating the local share of the San Gabriel 
+     Valley--Gold Line Foothill Extension Phase II project 
+     authorized by subsection (b)(33) in the new starts rating 
+     process, the Secretary shall give consideration to project 
+     elements of the San Gabriel Valley--Gold Line Foothill 
+     Extension Phase I project advanced with 100 percent non-
+     Federal funds.''.
+       (5) Section 3044.--
+       (A) Projects.--The table contained in section 3044(a) of 
+     such Act (119 Stat. 1652) is amended--
+       (i) in item 25--
+
+       (I) by striking ``$217,360'' and inserting ``$167,360''; 
+     and
+       (II) by striking ``$225,720'' and inserting ``$175,720'';
+
+       (ii) in item number 36 by striking the project description 
+     and inserting ``Los Angeles County Metropolitan 
+     Transportation Authority (LACMTA) for bus and bus-related 
+     facilities in the LACMTA's service area'';
+       (iii) in item number 71 by inserting ``Metropolitan Bus 
+     Authority'' after ``Puerto Rico'';
+       (iv) in item number 84 by striking the project description 
+     and inserting ``Improvements to the existing Sacramento 
+     Intermodal Facility (Sacramento Valley Station)'';
+       (v) in item number 94 by striking the project description 
+     and inserting ``Pacific Transit, WA Vehicle Replacement'';
+       (vi) in item number 120 by striking ``Dayton Airport 
+     Intermodal Rail Feasibility Study'' and inserting ``Greater 
+     Dayton Regional Transit Authority buses and bus facilities'';
+       (vii) in item number 152 by inserting ``Metropolitan Bus 
+     Authority'' after ``Puerto Rico'';
+       (viii) in item number 416 by striking ``Improve marine 
+     intermodal'' and inserting ``Improve marine dry-dock and'';
+       (ix) by adding at the end--
+
+       (I) in the project description column ``666. New York City, 
+     NY, rehabilitation of subway stations to include passenger 
+     access improvements including escalators or installation of 
+     infrastructure for security and surveillance purposes''; and
+       (II) in the FY08 column and the FY09 column by inserting 
+     ``$50,000'';
+
+       (x) in item number 457--
+
+       (I) by striking ``$65,000'' and inserting ``$0''; and
+       (II) by striking ``$67,500'' and inserting ``$0''; and
+
+       (xi) in item number 458--
+
+       (I) by striking ``$65,000'' and inserting ``$130,000'';
+       (II) by striking ``$67,500'' and inserting ``$135,000''; 
+     and
+
+       (xii) in item number 57 by striking the project description 
+     and inserting ``Wilmington, NC, maintenance, operations and 
+     administration, transfer facilities'';
+       (xiii) in item number 460 by striking the matters in the 
+     project description, FY08 column, and FY09 column and 
+     inserting ``460. Mid-Region Council of Governments, New 
+     Mexico, public transportation buses, bus-related equipment 
+     and facilities, and intermodal terminals in Albuquerque and 
+     Santa Fe'', ``$500,000'', and ``$500,000'', respectively.
+       (xiv) in item number 138 strike ``Design'' and insert 
+     ``Determine scope, engineering, design,'';
+       (xv) in item number 23 by striking ``Construct'' and 
+     inserting ``Design, engineering, right-of-way acquisition, 
+     and construction'';
+       (xvi) in item number 439 by inserting before ``Central'' 
+     the following: ``Design, engineering, right-of-way 
+     acquisition, and construction'';
+       (xvii) in item number 453 by inserting before ``Central'' 
+     the following: ``Design, engineering, right-of-way 
+     acquisition, and construction'';
+       (xviii) in item number 371 by striking the project 
+     description and inserting ``Regional Transportation 
+     Commission of Southern Nevada, Sunset Bus Maintenance 
+     Facility'';
+       (xix) in item number 487 by striking ``Central Arkansas 
+     Transit Authority Facility Upgrades'' and inserting ``Central 
+     Arkansas Transit Authority Bus Acquisition'';
+       (xx) in item number 491 by striking the project description 
+     and inserting ``Pace, IL, Cermak Road, Bus Rapid Transit, and 
+     related bus projects, and alternatives analysis'';
+       (xxi) in item number 512 by striking ``Corning, NY, Phase 
+     II Corning Preserve Transportation Enhancement Project'' and 
+     inserting ``Transportation Center Enhancements, Corning, 
+     NY'';
+       (xxii) in item number 534 by striking ``Community Buses'' 
+     and inserting ``Bus and Bus Facilities''; and
+       (xxiii) in item number 570 by striking ``Maine Department 
+     of Transportation-Acadia Intermodal Facility'' and inserting 
+     ``MaineDOT Acadia Intermodal Passenger and Maintenance 
+     Facility''.
+       (B) Special rule.--Section 3044(c) of such Act (119 Stat. 
+     1705) is amended--
+       (i) by inserting ``, or other entity,'' after ``State or 
+     local governmental authority''; and
+       (ii) by striking ``projects numbered 258 and 347'' and 
+     inserting ``projects numbered 258, 347, and 411''; and
+       (iii) by striking the period at the end and inserting: ``, 
+     and funds made available for fiscal year 2006 for the bus and 
+     bus-related facilities projects numbered 176 and 652 under 
+     subsection (a) shall remain available until September 30, 
+     2009.''.
+       (6) Section 3046.--Section 3046(a)(7) of such Act (119 
+     Stat. 1708) is amended--
+       (A) by striking ``hydrogen fuel cell vehicles'' and 
+     inserting ``hydrogen fueled vehicles'';
+       (B) by striking ``hydrogen fuel cell employee shuttle 
+     vans'' and inserting ``hydrogen fueled employee shuttle 
+     vans''; and
+       (C) by striking ``in Allentown, Pennsylvania'' and 
+     inserting ``to the DaVinci Center in Allentown, 
+     Pennsylvania''.
+       (7) Section 3050.--Section 3050(b) of such Act (119 Stat. 
+     1713) is amended by inserting ``by negotiating the extension 
+     of the existing agreement between mile post 191.13 and mile 
+     post 185.1 to mile post 165.9 in Rhode Island'' before the 
+     period at the end.
+       (p) Transit Tunnels.--In carrying out section 5309(d)(3)(D) 
+     of title 49, United States Code, the Secretary of 
+     Transportation shall specifically analyze, evaluate, and 
+     consider--
+       (1) the congestion relief, improved mobility, and other 
+     benefits of transit tunnels in those projects which include a 
+     transit tunnel, and
+       (2) the associated ancillary and mitigation costs necessary 
+     to relieve congestion, improve mobility, and decrease air and 
+     noise pollution in those projects which do not include a 
+     transit tunnel, but where a transit tunnel was one of the 
+     alternatives analyzed.
+       (q) Repeal of Prohibition.--The second sentence of section 
+     321 of the Department of Transportation and Related Agencies 
+     Appropriations Act, 1986 (99 Stat. 1287) is repealed.
+       (r) Knoxville, Tennessee, Property Acquisition.--The 
+     acquisition of property for the city of Knoxville, Tennessee, 
+     for the Knoxville, Tennessee, Central Station
+
+[[Page 22397]]
+
+     project shall be deemed to qualify as an acquisition of land 
+     for protective purposes pursuant to section 622.101 of title 
+     49, Code of Federal Regulations, as in effect on the date of 
+     enactment of this Act. The Secretary of Transportation may 
+     allow the costs of such acquisition to be credited toward the 
+     non-Federal share for the project.
+
+           TITLE III--OTHER SURFACE TRANSPORTATION PROVISIONS
+
+     SEC. 301. TECHNICAL AMENDMENTS RELATING TO MOTOR CARRIER 
+                   SAFETY.
+
+       (a) Conforming Amendment Relating to High-Priority 
+     Activities.--Section 31104(f) of title 49, United States 
+     Code, is amended by striking the designation and heading for 
+     paragraph (1) and by striking paragraph (2).
+       (b) New Entrant Audits.--
+       (1) Corrections of references.--Section 4107(b) of the 
+     Safe, Accountable, Flexible, Efficient Transportation Equity 
+     Act: A Legacy for Users (119 Stat. 1720) is amended--
+       (A) by striking ``Section 31104'' and inserting ``Section 
+     31144''; and
+       (B) in paragraph (1) by inserting ``(c)'' after ``the 
+     second subsection''.
+       (2) Conforming amendment.--Section 7112 of such Act (119 
+     Stat. 1899) is amended by striking subsection (c).
+       (c) Prohibited Transportation.--Section 4114(c)(1) of the 
+     such Act (119 Stat. 1726) is amended by striking ``the second 
+     subsection (c)'' and inserting ``(f)''.
+       (d) Effective Date Relating to Medical Examiners.--Section 
+     4116(f) of such Act (119 Stat. 1728) is amended by striking 
+     ``amendment made by subsection (a)'' and inserting 
+     ``amendments made by subsections (a) and (b)''.
+       (e) Roadability Technical Correction.--Section 
+     31151(a)(3)(E)(ii) of title 49, United States Code, is 
+     amended by striking ``Act'' and inserting ``section''.
+       (f) Correction of Subsection Reference.--Section 4121 of 
+     the Safe, Accountable, Flexible, Efficient Transportation 
+     Equity Act: A Legacy for Users (119 Stat. 1734) is amended by 
+     striking ``31139(f)(5)'' and inserting ``31139(g)(5)''.
+       (g) CDL Learner's Permit Program Technical Correction.--
+     Section 4122(2)(A) of such Act (119 Stat. 1734) is amended by 
+     striking ``license'' and inserting ``licenses''.
+       (h) CDL Information System Funding Reference.--Section 
+     31309(f) of title 49, United States Code, is amended by 
+     striking ``31318'' and inserting ``31313''.
+       (i) Clarification of Reference.--Section 229(a)(1) of the 
+     Federal Motor Carrier Safety Improvement Act of 1999 (49 
+     U.S.C. 31136 note; 119 Stat. 1743) is amended by inserting 
+     ``of title 49, United States Code,'' after ``31502''.
+       (j) Registration of Brokers.--Section 4142(c)(2) of the 
+     Safe, Accountable, Flexible, Efficient Transportation Equity 
+     Act: A Legacy for Users (119 Stat. 1747) is amended by 
+     inserting ``each place it appears'' before the semicolon.
+       (k) Redesignation of Section.--The second section 39 of 
+     chapter 2 of title 18, United States Code, relating to 
+     commercial motor vehicles required to stop for inspections, 
+     and the item relating to such section in the analysis for 
+     such chapter, are redesignated as section 40.
+       (l) Office of Intermodalism.--Section 5503 of title 49, 
+     United States Code, is amended--
+       (1) in subsection (f)(2) by striking ``Surface 
+     Transportation Safety Improvement Act of 2005'', and 
+     inserting ``Motor Carrier Safety Reauthorization Act of 
+     2005''; and
+       (2) by redesignating the first subsection (h), relating to 
+     authorization of appropriations, as subsection (i) and moving 
+     it after the second subsection (h).
+       (m) Use of Fees for Unified Carrier Registration System.--
+     Section 13908 of title 49, United States Code, is amended by 
+     redesignating subsection (e) as subsection (f) and inserting 
+     after subsection (d) the following:
+       ``(e) Use of Fees for Unified Carrier Registration 
+     System.--Fees collected under this section may be credited to 
+     the Department of Transportation appropriations account for 
+     purposes for which such fees are collected and shall be 
+     available for expenditure for such purposes until 
+     expended.''.
+       (n) Commercial Motor Vehicle Definition.--Section 
+     14504a(a)(1)(B) of title 49, United States Code, is amended 
+     by striking ``a motor carrier required to make any filing or 
+     pay any fee to a State with respect to the motor carrier's 
+     authority or insurance related to operation within such 
+     State, the motor carrier'' and inserting ``determining the 
+     size of a motor carrier or motor private carrier's fleet in 
+     calculating the fee to be paid by a motor carrier or motor 
+     private carrier pursuant to subsection (f)(1), the motor 
+     carrier or motor private carrier''.
+       (o) Clarification of Unreasonable Burden.--Section 
+     14504a(c)(2) of title 49, United States Code, is amended by 
+     striking ``interstate'' the last place it appears and 
+     inserting ``intrastate''.
+       (p) Contents of Agreement Typo.--Section 
+     14504a(f)(1)(A)(ii) of title 49, United States Code, is 
+     amended by striking ``or'' the last place it appears.
+       (q) Other Unified Carrier Registration System Technical 
+     Corrections.--Section 14504a of title 49, United States Code, 
+     is amended--
+       (1) in subsection (c)(1)(B) by striking ``the a'' and 
+     inserting ``a'';
+       (2) in subsection (f)(1)(A)(i) by striking ``in connection 
+     with the filing of proof of financial responsibility''; and
+       (3) in subsection (f)(1)(A)(ii) by striking ``in connection 
+     with such a filing'' and inserting ``under the UCR 
+     agreement''.
+       (r) Identification of Vehicles.--Section 14506(b)(2) of 
+     title 49, United States Code, is amended by inserting before 
+     the semicolon at the end the following: ``or under an 
+     applicable State law if, on October 1, 2006, the State has a 
+     form of highway use taxation not subject to collection 
+     through the International Fuel Tax Agreement''.
+       (s) Driveaway Saddlemount Vehicle.--
+       (1) Definition.--Section 31111(a)(4) of title 49, United 
+     States Code, is amended--
+       (A) in the paragraph heading by striking ``Drive-away 
+     saddlemount with fullmount'' and inserting ``Driveaway 
+     saddlemount'';
+       (B) by striking ``drive-away saddlemount with fullmount'' 
+     and inserting ``driveaway saddlemount''; and
+       (C) by inserting ``Such combination may include one 
+     fullmount.'' after the period at the end.
+       (2) In general.--Section 31111(b)(1)(D) of such title is 
+     amended by striking ``a driveaway saddlemount with 
+     fullmount'' and inserting ``all driveaway saddlemount''.
+
+     SEC. 302. TECHNICAL AMENDMENTS RELATING TO HAZARDOUS 
+                   MATERIALS TRANSPORTATION.
+
+       (a) Definition of Hazmat Employees.--Section 7102(2) of the 
+     Safe, Accountable, Flexible, Efficient Transportation Equity 
+     Act: A Legacy for Users (119 Stat. 1892) is amended--
+       (1) by striking ``(3)(A)'' and inserting ``(3)'';
+       (2) in subparagraph (A) by striking ``clause (i)'' and 
+     inserting ``clause (i) of subparagraph (A)''; and
+       (3) in subparagraph (B) by striking ``clause (ii)'' and 
+     inserting ``subparagraph (A)(ii)''.
+       (b) Technical Correction.--Section 5103a(g)(1)(B)(ii) of 
+     title 49, United States Code, is amended by striking ``Act'' 
+     and inserting ``subsection''.
+       (c) Preemption Correction.--Section 5125 of title 49, 
+     United States Code, is amended--
+       (1) in subsection (d)(1) by striking ``5119(e)'' and 
+     inserting ``5119(f)'';
+       (2) in each of subsections (e) and (g) by striking 
+     ``5119(b)'' and inserting ``5119(f)''; and
+       (3) in subsection (g) by striking ``(b), (c)(1), or (d)'' 
+     and inserting ``(a), (b)(1), or (c)''.
+       (d) Relationship to Other Laws.--Section 7124(3) of the 
+     Safe, Accountable, Flexible, Efficient Transportation Equity 
+     Act: A Legacy for Users (119 Stat. 1908) is amended by 
+     inserting ``the first place it appears'' before ``and 
+     inserting''.
+       (e) Report.--Section 5121(h) of title 49, United States 
+     Code, is amended--
+       (1) in paragraph (2) by striking ``exemptions'' and 
+     inserting ``special permits''; and
+       (2) in paragraph (3) by striking ``exemption'' and 
+     inserting ``special permit''.
+       (f) Section Heading.--Section 5128 of title 49, United 
+     States Code, is amended by striking the section designation 
+     and heading and inserting the following:
+
+     ``Sec. 5128. Authorization of appropriations''.
+
+       (g) Chapter Analysis.--The analysis for chapter 57 of title 
+     49, United States Code, is amended in the item relating to 
+     section 5701 by striking ``Transportation'' and inserting 
+     ``transportation''.
+       (h) Norman Y. Mineta Research and Special Programs 
+     Improvement Act.--Section 5(b) of the Norman Y. Mineta 
+     Research and Special Programs Improvement Act (49 U.S.C. 108 
+     note; 118 Stat. 2427) is amended by inserting ``(including 
+     delegations by the Secretary of Transportation)'' after ``All 
+     orders''.
+       (i) Shipping Papers.--Section 5110(d)(1) of title 49, 
+     United States Code, is amended--
+       (1) in the subsection heading by striking ``Shippers'' and 
+     inserting ``Offerors''; and
+       (2) by striking ``shipper's'' and inserting ``offeror's''.
+       (j) NTSB Recommendations.--Section 19(1) of the Pipeline 
+     Inspection, Protection, Enforcement, and Safety Act of 2006 
+     (49 U.S.C. 60102 note; 120 Stat. 3498) is amended by striking 
+     ``165'' and inserting ``1165''.
+
+     SEC. 303. HIGHWAY SAFETY.
+
+       (a) State Minimum Apportionments for Highway Safety 
+     Programs.--Effective October 1, 2007, section 402(c) of the 
+     title 23, United States Code, is amended by striking ``The 
+     annual apportionment to each State shall not be less than 
+     one-half of 1 per centum'' and inserting ``The annual 
+     apportionment to each State shall not be less than three-
+     quarters of 1 percent''.
+       (b) Consolidation of Grant Applications.--Section 402(m) of 
+     title 23, United States Code, is amended in the first 
+     sentence--
+       (1) by striking ``through'' and inserting ``for which''; 
+     and
+       (2) by inserting ``is appropriate'' before the period at 
+     the end.
+       (c) Technical Corrections.--
+       (1) Section 2002(b) of the Safe, Accountable, Flexible, 
+     Efficient Transportation Equity Act: A Legacy for Users (119 
+     Stat. 1521) is amended--
+       (A) by striking paragraph (2); and
+       (B) by redesignating paragraphs (3) and (4) as (2) and (3), 
+     respectively.
+       (2) Section 2007(b)(1) of such Act (119 Stat. 1529) is 
+     amended--
+
+[[Page 22398]]
+
+       (A) by inserting ``and'' after the semicolon at the end of 
+     subparagraph (A);
+       (B) by striking ``and'' at the end of subparagraph (B); and
+       (C) by striking subparagraph (C).
+       (3) Effective August 10, 2005, section 410(c)(7)(B) of 
+     title 23, United States Code, is amended by striking ``clause 
+     (i)'' and inserting ``clauses (i) and (ii)''.
+       (4) Section 411 of title 23, United States Code, is amended 
+     by redesignating the second subsection (c), relating to 
+     administration expenses, and subsection (d) as subsections 
+     (d) and (e), respectively.
+
+                   TITLE IV--MISCELLANEOUS PROVISIONS
+
+     SEC. 401. INSTALLATION OF PHOTOVOLTAIC SYSTEM AT DEPARTMENT 
+                   OF ENERGY HEADQUARTERS BUILDING.
+
+       (a) In General.--The Administrator of General Services 
+     shall install a photovoltaic system, as set forth in the Sun 
+     Wall Design Project, for the headquarters building of the 
+     Department of Energy located at 1000 Independence Avenue, 
+     Southwest, Washington, D.C., commonly known as the Forrestal 
+     Building.
+       (b) Funding.--There shall be available from the Federal 
+     Buildings Fund established by section 592 of title 40, United 
+     States Code, $30,000,000 to carry out this section. Such sums 
+     shall be derived from the unobligated balance of amounts made 
+     available from the Fund for fiscal year 2007, and prior 
+     fiscal years, for repairs and alterations and other 
+     activities (excluding amounts made available for the energy 
+     program). Such sums shall remain available until expended.
+       (c) Obligation of Funds.--None of the funds made available 
+     pursuant to subsection (b) may be obligated prior to 
+     September 30, 2007.
+
+     SEC. 402. CONVEYANCE OF GSA FLEET MANAGEMENT CENTER TO ALASKA 
+                   RAILROAD CORPORATION.
+
+       (a) In General.--Subject to the requirements of this 
+     section, the Administrator of General Services shall convey, 
+     not later than 2 years after the date of enactment of this 
+     Act, by quitclaim deed, to the Alaska Railroad Corporation, 
+     an entity of the State of Alaska (in this section referred to 
+     as the ``Corporation''), all right, title, and interest of 
+     the United States in and to the parcel of real property 
+     described in subsection (b), known as the GSA Fleet 
+     Management Center.
+       (b) GSA Fleet Management Center.--The parcel to be conveyed 
+     under subsection (a) is the parcel located at the 
+     intersection of 2nd Avenue and Christensen Avenue in 
+     Anchorage, Alaska, consisting of approximately 78,000 square 
+     feet of land and the improvements thereon.
+       (c) Consideration.--
+       (1) In general.--As consideration for the parcel to be 
+     conveyed under subsection (a), the Administrator shall 
+     require the Corporation to--
+       (A) convey replacement property in accordance with 
+     paragraph (2); or
+       (B) pay the purchase price for the parcel in accordance 
+     with paragraph (3).
+       (2) Replacement property.--If the Administrator requires 
+     the Corporation to provide consideration under paragraph 
+     (1)(A), the Corporation shall--
+       (A) convey, and pay the cost of conveying, to the United 
+     States, acting by and through the Administrator, fee simple 
+     title to real property, including a building, that the 
+     Administrator determines to be suitable as a replacement 
+     facility for the parcel to be conveyed under subsection (a); 
+     and
+       (B) provide such other consideration as the Administrator 
+     and the Corporation may agree, including payment of the costs 
+     of relocating the occupants vacating the parcel to be 
+     conveyed under subsection (a).
+       (3) Purchase price.--If the Administrator requires the 
+     Corporation to provide consideration under paragraph (1)(B), 
+     the Corporation shall pay to the Administrator the fair 
+     market value of the parcel to be conveyed under subsection 
+     (a) based on its highest and best use as determined by an 
+     independent appraisal commissioned by the Administrator and 
+     paid for by the Corporation.
+       (d) Appraisal.--In the case of an appraisal under 
+     subsection (c)(3)--
+       (1) the appraisal shall be performed by an appraiser 
+     mutually acceptable to the Administrator and the Corporation; 
+     and
+       (2) the assumptions, scope of work, and other terms and 
+     conditions related to the appraisal assignment shall be 
+     mutually acceptable to the Administrator and the Corporation.
+       (e) Proceeds.--
+       (1) Deposit.--Any proceeds received under subsection (c) 
+     shall be paid into the Federal Buildings Fund established 
+     under section 592 of title 40, United States Code.
+       (2) Expenditure.--Funds paid into the Federal Buildings 
+     Fund under paragraph (1) shall be available to the 
+     Administrator, in amounts specified in appropriations Acts, 
+     for expenditure for any lawful purpose consistent with 
+     existing authorities granted to the Administrator; except 
+     that the Administrator shall provide to the Committee on 
+     Transportation and Infrastructure of the House of 
+     Representatives and the Committee on Environment and Public 
+     Works of the Senate 30 days advance written notice of any 
+     expenditure of the proceeds.
+       (f) Additional Terms and Conditions.--The Administrator may 
+     require such additional terms and conditions to the 
+     conveyance under subsection (a) as the Administrator 
+     considers appropriate to protect the interests of the United 
+     States.
+       (g) Description of Property and Survey.--The exact acreage 
+     and legal description of the parcels to be conveyed under 
+     subsections (a) and (c)(2) shall be determined by surveys 
+     satisfactory to the Administrator and the Corporation.
+
+     SEC. 403. CONVEYANCE OF RETAINED INTEREST IN ST. JOSEPH 
+                   MEMORIAL HALL.
+
+       (a) In General.--Subject to the terms and conditions of 
+     subsection (c), the Administrator of General Services shall 
+     convey to the city of St. Joseph, Michigan, by quitclaim 
+     deed, any interest retained by the United States in St. 
+     Joseph Memorial Hall.
+       (b) St. Joseph Memorial Hall Defined.--In this section, the 
+     term ``St. Joseph Memorial Hall'' means the property subject 
+     to a conveyance from the Secretary of Commerce to the city of 
+     St. Joseph, Michigan, by quitclaim deed dated May 9, 1936, 
+     recorded in Liber 310, at page 404, in the Register of Deeds 
+     for Berrien County, Michigan.
+       (c) Terms and Conditions.--The conveyance under subsection 
+     (a) shall be subject to the following terms and conditions:
+       (1) Consideration.--As consideration for the conveyance 
+     under subsection (a), the city of St. Joseph, Michigan, shall 
+     pay $10,000 to the United States.
+       (2) Additional terms and conditions.--The Administrator may 
+     require such additional terms and conditions for the 
+     conveyance under subsection (a) as the Administrator 
+     considers appropriate to protect the interests of the United 
+     States.
+
+                       TITLE V--OTHER PROVISIONS
+
+     SEC. 501. DE SOTO COUNTY, MISSISSIPPI.
+
+       Section 219(f)(30) of the Water Resources Development Act 
+     of 1992 (106 Stat. 4835; 110 Stat. 3757; 113 Stat. 334; 114 
+     Stat. 2763A-220; 119 Stat. 282; 119 Stat. 2257) is amended by 
+     striking ``$55,000,000'' and inserting ``$75,000,000''.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentleman from 
+Minnesota (Mr. Oberstar) and the gentleman from Florida (Mr. Mica) each 
+will control 20 minutes.
+  The Chair recognizes the gentleman from Minnesota.
+
+
+                             General Leave
+
+  Mr. OBERSTAR. Mr. Speaker, I ask unanimous consent that all Members 
+may have 5 legislative days within which to revise and extend their 
+remarks and to include extraneous and tabular material.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Minnesota?
+  There was no objection.
+  Mr. OBERSTAR. Mr. Speaker, I yield myself such time as I may consume.
+  Mr. Speaker, this bill is one that has not only bipartisan but 
+bicameral agreement among all the committees of jurisdiction over the 
+Nation's highways, highway safety and public transportation programs. 
+Our Committee on Transportation and Infrastructure, the Senate 
+Committees on Environment and Public Works, Banking and Housing and 
+Urban Affairs and Commerce, Science and Transportation, all of us met, 
+discussed, agreed on these technical corrections.
+  In fact, in the last Congress, we were so much in agreement that we 
+passed this bill five times in the House. They passed it a couple of 
+times in the other body. But somehow it just never got to the point of 
+being sent to the President.
+  We took it up again this year. We were going to include it in the 
+Water Resources Development Act, but at the last moment, technical 
+glitches arose in the other body.
+  So we are taking it up separately in this body in order to pass it 
+and send it over to the other body. Hopefully, they will be able to act 
+on it before the end of the week and send it to the President for the 
+President's signature.
+  There are over 400 technical corrections, really, truly technical in 
+nature, waiting for 2 years to be adjusted and to be enacted. Tonight 
+we can do that.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. MICA. Mr. Speaker, first of all, I would like to thank Chairman 
+Oberstar, Ranking Member Duncan, Mr. DeFazio, who is the chairman of 
+the Highways and Transit Subcommittee, everyone, including staff, for 
+their work on this important technical corrections bill.
+  I am pleased to rise tonight and voice my support for H.R. 3248 and 
+encourage my colleagues to do the same. This, in fact, is the fourth 
+time we have brought this bill to the floor in the past 18 months. It 
+is imperative that
+
+[[Page 22399]]
+
+we pass this measure and for the Senate to follow our lead and pass it 
+as well. I think we have a pretty good agreement with the Senate to do 
+just that.
+  Once the President signs this legislation, SAFETEA-LU, which is the 
+major transportation and highway transit funding bill that we passed 
+less than 2 years ago, all the provisions of that will finally be able 
+to accomplish what Congress set out to do. There are many minor errors, 
+and that was a pretty massive bill, and there are some minor changes in 
+policy, tweaks in policy and in Member projects in the SAFETEA-LU bill 
+that we passed that need this technical correction.
+  We have heard from the Department of Transportation and also several 
+State DOTs regarding fixes to different programs and also high-priority 
+projects. I believe this bill tonight addresses most of the issues that 
+have been brought to the attention of our committee.
+  This bill also makes critical corrections to the Federal Highway 
+Research Program to ensure that the department can continue essential 
+research programs, including the Future Strategic Highway Research 
+Program and the University Transportation Center Research Program.
+  The bill also extends the deadline for the National Surface 
+Transportation and Policy and Review Study Commission and corrects 
+several drafting errors regarding the Magnetic Levitation 
+Transportation Deployment Program. Extending the deadline on the 
+National Transportation Surface Policy and Review Study Commission is 
+very important, particularly as we take on in 2009 the important 
+responsibility of putting in place another bill that will replace 
+SAFETEA-LU to set our policy and projects and transportation priorities 
+for the future.
+  So, it is important to note that this bill does not make any 
+substantial policy changes to the SAFETEA-LU bill, but, again, it deals 
+with technical corrections. Again, this bill corrects provisions that 
+were not workable by the States or by the Department of Transportation. 
+They have relayed their concerns and we have addressed them in this 
+bill.
+  It also is important to note that the Congressional Budget Office has 
+scored this bill and estimates that, over the 2007-2012 period, this 
+bill will reduce contract authority by $1 million and will increase 
+receipts by less than $500,000.
+  There is one purely technical correction that is not included in this 
+package. SAFETEA-LU inadvertently changes certain regulations for 
+trucks with a gross vehicle weight of less than 10,000 pounds. When 
+Congress passed SAFETEA-LU, this change was not a policy change that 
+Congress knew about or intended to make. If Congress wanted to make 
+this change, we would have debated and discussed it. Rather, this was 
+something we were not aware of, and this change has had, in effect, 
+very serious unintended consequences, especially for our small 
+businesses.
+  I had hoped to fix this problem with a technical fix. However, some 
+groups who have benefited from this error have, unfortunately, 
+prevented us from doing so tonight and in this legislation. It is 
+unfortunate a policy change that no Member anticipated and voted on 
+will not be corrected in this legislation tonight.
+  Despite this particular shortcoming and oversight, again, I am 
+pleased to have worked with Chairman Oberstar, Ranking Member Duncan in 
+revitalizing this very necessary technical corrections bill, and I hope 
+my colleagues will join me in supporting the bill tonight.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. OBERSTAR. Mr. Speaker, I yield myself 1 minute to observe a very 
+tragic occurrence that happened just 2 hours ago in Minneapolis.
+  The bridge on Interstate 35 over the Mississippi River near the 
+University of Minnesota collapsed just 2 hours ago, dropping at least 
+eight cars and a truck in the water. A school bus that had just barely 
+missed crashing into the water was damaged, and students on board were 
+bloodied and injured.
+
+                              {time}  2030
+
+  The crumbled wreckage of the bridge is on the east bank and in the 
+water. The concrete roadway is in the river gorge. It is a 40-year-old 
+bridge, and it is a tragic occurrence, and I make that observation 
+during the midst of technical corrections as an indication of how 
+vitally important it is for us to continue our vigilance on the 
+integrity and condition of the Nation's roadways.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. MICA. Mr. Speaker, at this time, I am very pleased to yield 3 
+minutes to one of the most distinguished Members of the House, a former 
+Speaker of the House of Representatives, the gentleman from Illinois 
+(Mr. Hastert).
+  Mr. HASTERT. Mr. Speaker, I thank the ranking member, and I would 
+like to ask the chairman of the Committee on Transportation and 
+Infrastructure if he would enter into a colloquy with me.
+  Mr. OBERSTAR. Of course.
+  Mr. HASTERT. Mr. Chairman, I have been informed by the Illinois 
+Department of Transportation that there may be some confusion regarding 
+the intent of one of the Illinois projects included in SAFETEA-LU. 
+Funding provided for project number 12 in section 1302(e) of SAFETEA-LU 
+was intended to be for the construction of Route 34 in Illinois, 
+including interchanges and other improvements.
+  The Federal Highway Administration has told the Illinois Department 
+of Transportation that the language currently in SAFETEA-LU may 
+restrict the scope of the project to only funding interchange 
+improvements, when the intent of the language was also to fund other 
+improvements along the Route 34 corridor.
+  As a result, I would like to clarify the intent of the language and 
+work with the chairman and the ranking member to make sure that the 
+language interpreted by the FHWA is done correctly in this manner.
+  Mr. OBERSTAR. Mr. Speaker, if the gentleman would yield.
+  Mr. HASTERT. I would be happy to yield.
+  Mr. OBERSTAR. Mr. Speaker, I recall very well when crafting SAFETEA-
+LU, the project that the gentleman has raised, it was never the 
+intention of the committee nor the intention of the language to 
+restrict the scope of the project only to the interchange when it is 
+clear from the thrust of the project that it was intended to cover 
+other improvements along the Route 34 corridor.
+  Along with Mr. Mica, I will work with the Speaker to make 
+adjustments. It is a little late for us to get it into this bill. If we 
+had known about it sufficiently in advance, we certainly could have 
+made an adjustment. But there will be other vehicles where we will be 
+able to accomplish that, and we will work with the gentleman.
+  Mr. HASTERT. Once again, I thank you and look forward to working with 
+you and Mr. Mica on this matter.
+  Mr. MICA. Mr. Speaker, I yield myself 30 seconds.
+  I want to reiterate for the Record that the issue that former Speaker 
+Hastert has brought before the floor, it is my understanding that we 
+did not intend to restrict the scope of the project to only funding for 
+interchange improvements, and the intent of the language was to also 
+fund the other improvements on Route 34, and we will work with the 
+gentleman from Illinois to make certain that point is clarified.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. OBERSTAR. Mr. Speaker, I yield 2 minutes to the gentleman from 
+Oregon (Mr. DeFazio), the chairman of the Surface Transportation 
+Subcommittee.
+  Mr. DeFAZIO. Mr. Speaker, I thank the gentleman for yielding.
+  It was just about 2 years ago this month that we were struggling with 
+the final details of the SAFETEA-LU legislation, in my opinion the 
+signature legislation of the last Congress, bipartisan legislation, to 
+improve the transportation efficiency of the United States of America, 
+investing nearly $300 billion.
+  But, as good as the bill was, there were technical problems, and we 
+are
+
+[[Page 22400]]
+
+correcting those here; and, as good as that bill was, we must do better 
+in the future.
+  As chairman of the subcommittee, I have already begun hearings 
+looking toward the reauthorization which we would hope to have 
+accomplished by the expiration of this legislation, October 1, 2009. We 
+hope not to go through multiple continuations and extensions as we did 
+in the last Congress.
+  We also need to find new resources to better address the 
+infrastructure needs of our country. The Bush administration's own 
+Department of Transportation estimated before the consideration of the 
+last bill that we needed $375 billion, not $283 billion, just to keep 
+up with the deterioration and the growth needs of the country, as 
+pointed out by the gentleman from Minnesota.
+  We need to deal with congestion to improve American's lives, to 
+become more fuel efficient, and to deal with just-in-time delivery for 
+our businesses, to become a better competitor in the international 
+community. Other nations are investing much more. We must do better. 
+This is an interim step as we correct the bill from the last Congress, 
+and I look forward to working with both sides of the aisle as we 
+develop the next bill for 2009.
+  Mr. MICA. Mr. Speaker, I am delighted to yield at this time to the 
+gentleman from Tennessee (Mr. Duncan). And, actually, he is our ranking 
+member of the Highway Subcommittee and has done an incredible job on 
+this and also leading the Highway Subcommittee and former chairman of 
+Water Resources and former chairman of Aviation, and he should have 
+handled this bill, but I am delighted to yield 3 minutes to Mr. Duncan.
+  Mr. DUNCAN. Mr. Speaker, I thank my good friend from Florida, the 
+ranking member, for yielding me this time; and I thank him for giving 
+me the privilege of serving as the ranking member of the Highway and 
+Transit Subcommittee. It is a pleasure to work with him and Chairman 
+Oberstar and with my good friend, Chairman Peter DeFazio, on the 
+Highway and Transit Subcommittee.
+  Mr. Speaker, H.R. 3248 make technical corrections to the Safe, 
+Accountable, Flexible, Efficient Transportation Equity Act: A Legacy 
+for Users, or what we typically call SAFETEA-LU.
+  This is the fourth time we have worked to finalize these technical 
+corrections to SAFETEA-LU. During the 109th Congress, the House passed 
+H.R. 5689, a bill to make technical corrections to SAFETEA-LU in June, 
+2006. During the summer and fall of 2006, we worked with the Senate to 
+create the bipartisan H.R. 6233, which was a very similar product to 
+the bill that we passed at the beginning of this Congress. Now we are 
+trying again; and hopefully this bill, H.R. 3248, will go to the 
+President for his signature of this very necessary bill.
+  As my colleagues have said, this bill makes numerous technical 
+corrections to the Federal Surface Transportation Programs authorized 
+by SAFETEA-LU. The technical corrections included in this bill have 
+been identified by the Department of Transportation and State DOTs and 
+are mostly of a conforming nature or to correct drafting errors.
+  The most important correction we are making is to strengthen the 
+Federal Highway Research Program by ensuring the continuation of the 
+legacy research programs carried out by the Department of 
+Transportation. This research hopefully will lead to not only safer 
+highways but also less congestion, which is very, very important to 
+this Nation, that we work on that.
+  The largest section of this bill is section 105, which makes changes 
+to almost 350 of the high-priority projects in section 1702 of SAFETEA-
+LU. These changes address ``broken'' surface transportation projects, 
+clarifying recipients and increasing certain project funding levels and 
+decreasing others to achieve budget neutrality.
+  I especially appreciate the fact that Chairman Oberstar and Ranking 
+Member Mica have allowed me to put in language that will allow the city 
+of Knoxville to go forward with a very important transit center 
+project; and, also, I am very pleased that we are rearranging some 
+funding so that the very small town of Calhoun, Tennessee, in my 
+district, can pave some roads. This is very, very important to them. So 
+often we leave out the small towns in rural areas or they don't get 
+nearly as much attention and funding as the big cities do.
+  This is a very good bill, and I urge the support of all of my 
+colleagues. I think it is one that will pass with total bipartisan 
+support.
+  Mr. OBERSTAR. Mr. Speaker, I reserve the balance of my time.
+  Mr. MICA. Mr. Speaker, I do have one additional speaker, Mr. McHenry, 
+from Spruce Pine and Hickory and other wonderful locations in the great 
+State of North Carolina; and I yield him 3 minutes.
+  Mr. McHENRY. Mr. Speaker, I thank the ranking member for yielding me 
+this time.
+  The trial lawyers have an uncanny way of making their living. 
+Although the title of this legislation is a technical corrections bill, 
+one glaring technical correction that needs to be made is left out.
+  As the ranking member said earlier tonight, the original SAFETEA-LU 
+bill amended the definition of a commercial motor vehicle to exclude 
+vehicles 10,000 pounds and less. The Department of Transportation had 
+never issued regulations of this type of vehicle, which is essentially 
+a small van or something smaller. It seemed to clear up the books and 
+just make sense when it was done at the time. All too often what seems 
+to be a simple idea ends up having much more significant consequences.
+  What was considered a cleaning up of the books turned out to be a 
+dramatic shift in labor law. The Fair Labor Standards Act exempts 
+drivers of vehicles that can be regulated by the Secretary of 
+Transportation. The definitional change of a commercial vehicle 
+unwittingly brought a whole new class of employee under that act.
+  In writing the provision, neither Congress nor the administration 
+intended to fundamentally alter our national labor policies, but that 
+is exactly what happened.
+  What are the consequences? As I said, the trial lawyers have an 
+uncanny ability to find sources to make money off of. Companies across 
+the country that believed that their business model was and is 
+perfectly legal because it had been may get a knock on the door from 
+their friendly neighborhood trial lawyer informing them that they are 
+now liable for overtime wages dating back to August 15, 2005, when 
+SAFETEA-LU was signed into law.
+  Congress didn't know what they had done. The administration didn't 
+know they had done this. How can we expect a small delivery service or 
+some satellite dish installer or plumber to know that their business 
+model is no longer viable?
+  No one will argue that people aren't entitled to a fair and 
+equitable, appropriate wage, but if we are going to significantly alter 
+national labor law, we should have a full and open debate and we should 
+do it intentionally, not by accident and not by trial lawyers. I think 
+that is the one glaring omission from this act. If we would fix that, 
+we would have a number of employers from around this country who would 
+be safe from more trial lawyer, frivolous lawsuits.
+  Shouldn't we ensure that companies are held liable? Sure, but we 
+should do it as a Congress in a knowing way, a way that is befitting of 
+this body, not by accident. We should not make them pay for our 
+Congress' mistakes.
+  Mr. MICA. Mr. Speaker, I have no further speakers. I was hoping the 
+gentleman from Arkansas (Mr. Boozman) would make it to the floor. We 
+took this bill out of the order we anticipated it coming up in, and the 
+gentleman from Arkansas would have been recognized.
+  Again, I thank Mr. Oberstar working with our side of the aisle; Mr. 
+Duncan, my ranking member; the lead Republican on the Highway 
+Subcommittee, Mr. DeFazio; and all of the staff on both sides. They 
+worked real hard on this and over some weekends.
+  We had originally planned to tack this onto the WRDA bill, but that 
+was not meant to be. Actually, that might work out quite well because 
+this might
+
+[[Page 22401]]
+
+become law before WRDA, given the comments I have gotten from the White 
+House on the WRDA legislation.
+  But I thank all those involved in making certain that the laws that 
+we pass have the intent and the content and the necessary corrections.
+  Mr. Speaker, I yield back the balance of my time.
+  Mr. OBERSTAR. Mr. Speaker, I listened thoughtfully to the comments of 
+the gentleman from North Carolina. Those are issues that can be 
+addressed in another time and another venue. We will most certainly 
+address those matters in good order.
+
+                              {time}  2045
+
+  As I said at the outset, this is the seventh time the House has 
+passed this technical corrections bill. We've been waiting patiently 
+for the other body to join us in meaningful action on the bill, and so 
+I know there's going to be a recorded vote. That's going to be 
+reaffirmation of the strong stand the House has taken on these, and 
+they truly are technical matters. We ought to just get them passed so 
+that we can get over, so the States and the Federal Government agencies 
+can get on with the work they need to undertake and that these 
+adjustments to Members' projects can be made and be carried forward.
+  That's really what this is all about, and other matters that go 
+beyond the scope of this current technical correction we will address 
+in future legislation.
+  Mr. YOUNG of Alaska. Mr. Speaker, I rise to clarify an ambiguity in a 
+provision in the SAFETEA-LU Technical Corrections Act of 2007. 
+Specifically, section 105(a)(99) of the bill refers to a project known 
+as ``Dowling Road Extension/Reconstruction West,'' which goes in a 
+west-east direction from Minnesota Drive to Old Seward Highway in 
+Anchorage, AK. Unfortunately, the provision could be read to mean that 
+the project goes in a westerly direction from Minnesota Drive to Old 
+Seward Highway, which would create a result that would be completely 
+incompatible with the project since it would put the road in the middle 
+of a lake and a bog. The word ``west'' as used in section 105(a)(99) is 
+part of the name of the project, and is not intended to indicate the 
+direction in which the project should be built.
+  Mr. OBERSTAR. Mr. Speaker, I yield back the balance of my time and 
+ask for an ``aye'' vote on the bill.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from Minnesota (Mr. Oberstar) that the House suspend the 
+rules and pass the bill, H.R. 3248.
+  The question was taken.
+  The SPEAKER pro tempore. In the opinion of the Chair, two-thirds 
+being in the affirmative, the ayes have it.
+  Mr. MICA. Mr. Speaker, on that I demand the yeas and nays.
+  The yeas and nays were ordered.
+  The SPEAKER pro tempore. Pursuant to clause 8 of rule XX and the 
+Chair's prior announcement, further proceedings on this motion will be 
+postponed.
+
+                          ____________________
+```
