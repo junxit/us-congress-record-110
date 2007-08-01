@@ -1,0 +1,64 @@
+---
+granule: CREC-2007-08-01-pt1-PgS10599
+date: 2007-08-01
+edition: CREC
+section: SENATE
+page: S10599
+citation: 153 Cong. Rec. S10599
+---
+
+# FOREIGN INTELLIGENCE SURVEILLANCE ACT
+
+**Speaking:** Specter, Arlen (S000709) [R-PA]
+
+```
+                 FOREIGN INTELLIGENCE SURVEILLANCE ACT
+
+  Mr. SPECTER. Mr. President, I have sought recognition to comment on 
+proposed legislation to revise the Foreign Intelligence Surveillance 
+Act of 1978 to facilitate the electronic surveillance of targets 
+reasonably believed to be outside the United States in order to obtain 
+foreign intelligence information relating to international terrorism. 
+When the act was passed in 1978, communications outside the United 
+States were characteristically transmitted via satellite and were not 
+covered by the act which applied to wires. In the intervening 29 years, 
+such communications now travel by wire and are covered by the act.
+  The civil and constitutional rights of U.S. persons would ordinarily 
+not be involved in electronic surveillance of targets outside the 
+United States. If persons inside the United States were surveilled 
+while targeting outside the United States, then the minimization 
+procedures would reasonably protect
+
+[[Page S10600]]
+
+civil and constitutional rights of persons inside the United States.
+  As the Director of National Intelligence, Michael McConnell, outlined 
+the current threat, there is an urgent need to enact this legislation 
+promptly, certainly before the Congress adjourns for the August recess. 
+Such modifications to FISA should have been enacted long ago and 
+legislation has been pending for months as proposed by Senator Dianne 
+Feinstein and myself.
+  I am concerned by provisions of the proposed legislation which would 
+give extensive authority to the Attorney General. Regrettably, Attorney 
+General Gonzales does not enjoy the confidence of many, if not most, 
+Members of Congress. There is in the Congress generally considerable 
+skepticism about the administration's Terrorist Surveillance Program 
+because it was kept secret for so long and concerns continue to be 
+expressed that some portions have still not been adequately explained 
+to the public, even where that might be done consistent with national 
+security.
+  There has been considerable discussion among Members of the Senate 
+raising at a minimum serious concerns and, beyond that, objections to 
+giving Attorney General Gonzales any additional, even if temporary, 
+authority.
+  Discussions have been undertaken with the Director of National 
+Intelligence to substitute his position for that of the Attorney 
+General; or, in the alternative, to substitute the Secretary of 
+Homeland Security or some other official outside of the Department of 
+Justice who has been confirmed by the Senate.
+  I am putting these concerns on the record now so that they may be 
+considered and resolved at the earliest time so that legislation can be 
+concluded before Congress adjourns for the August recess.
+
+                          ____________________
+```

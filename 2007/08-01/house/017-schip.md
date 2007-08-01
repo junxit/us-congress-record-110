@@ -1,0 +1,41 @@
+---
+granule: CREC-2007-08-01-pt1-PgH9283
+date: 2007-08-01
+edition: CREC
+section: HOUSE
+page: H9283
+citation: 153 Cong. Rec. H9283
+---
+
+# SCHIP
+
+**Speaking:** Emanuel, Rahm (E000287) [D-IL]
+
+```
+                                 SCHIP
+
+  (Mr. EMANUEL asked and was given permission to address the House for 
+1 minute.)
+  Mr. EMANUEL. Madam Speaker, in 2002, when I was campaigning for 
+Congress, I met Dolores Sweeney, who had three children. She worked 
+full time at an insurance company, was too rich for Medicaid and too 
+poor to get her own private insurance because her company didn't 
+provide it.
+  Today, her three children are enrolled in SCHIP. Those kids, today, 
+have health care because we did right, where, between private sector 
+not providing health care and Medicaid, a woman who worked full time 
+did right by her children, got healthcare for her kids, and her 19-
+year-old today is going to college and doing the right choices.
+  The question we have before us, as my colleague from South Carolina 
+just asked, are we going to provide our constituents with the 
+healthcare that our own children and Members of Congress get, that 
+taxpayers pay for? That is the question that is going to be before us 
+today: Are we going to do right by the Dolores Sweeneys of the world in 
+the same way that our constituents do right by us, as Members of 
+Congress, and for our own children? These are people who have worked 
+full time, at no fault of their own, whose children don't have health 
+care. And we will provide those children, 11 million children, the 
+health care that their parents cannot provide.
+
+                          ____________________
+```
