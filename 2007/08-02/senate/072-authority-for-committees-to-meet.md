@@ -1,0 +1,152 @@
+---
+granule: CRECB-2007-pt16-Pg22713
+date: 2007-08-02
+edition: CRECB
+section: SENATE
+page: 22713
+---
+
+# AUTHORITY FOR COMMITTEES TO MEET
+
+```
+                    AUTHORITY FOR COMMITTEES TO MEET
+
+
+                      Committee on armed services
+
+  Mr. REID. Mr. President, I ask unanimous consent that the Committee 
+on Armed Services be authorized to meet during the session of the 
+Senate on Thursday, August 2, 2007, at 11:30 a.m. in closed session to 
+receive a briefing on drawdown planning for U.S. forces in Iraq.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+
+            Committee on Banking, Housing, and Urban Affairs
+
+  Mr. REID. Mr. President, I ask unanimous consent that the Committee 
+on Banking, Housing, and Urban Affairs be authorized to meet during the 
+session of the Senate on August 2, 2007, at 9:30 a.m. in order to 
+conduct a Hearing on the nominations of the Honorable Randall S. 
+Kroszner, of New Jersey, to be a member of the Board of Governors of 
+the Federal Reserve System; Ms. Elizabeth A. Duke, of Virginia, to be a 
+member of the Board of Governors of the Federal Reserve System; and Mr. 
+Larry A. Klane, of the District of Columbia, to be a member of the 
+Board of Governors of the Federal Reserve System.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+
+           Committee on Commerce, Science, and Transportation
+
+  Mr. REID. Mr. President, I ask unanimous consent that the Committee 
+on Commerce, Science, and Transportation be authorized to hold a 
+hearing during the session of the Senate on Thursday, August 2, 2007, 
+at 10 a.m., in room 253 of the Russell Senate Office Building. During 
+the Executive Session, Committee members will mark up the following 
+agenda items:
+  1. S. 781, to extend the authority of the Federal Trade Commission to 
+collect Do-Not-Call Registry fees to fiscal years after fiscal year 
+2007;
+  2. S. 602, Child Safe Viewing Act of 2007;
+  3. S. 1578, Ballast Water Management Act of 2007;
+  4. S. 1892, Coast Guard Authorization Act of 2007; and
+  5. Nominations subject to July 31, 2007 Confirmation Hearing. (PN 
+571) Mr. Ronald Spoehel, to be Chief Financial Officer, National 
+Aeronautics and Space Administration, (PN 522) Mr. William G. Sutton, 
+to be Assistant Secretary of Commerce, U.S. Department of Commerce. (PN 
+645) Vice Admiral Thomas J. Barrett, to be Deputy Secretary, U.S. 
+Department of Transportation. (PN 656) Mr. Paul R. Brubaker, to be 
+Administrator of the Research and Innovative Technology Administration, 
+U.S. Department of Transportation. (PN 781) Nomination for Promotion in 
+the United States Coast Guard.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+
+                       Committee on the Judiciary
+
+  Mr. REID. Mr. President, I ask unanimous consent that the Senate 
+Committee on the Judiciary be authorized to meet during the session of 
+the Senate in order to conduct a hearing entitled Preserving 
+Prosecutorial Independence: Is the Department of Justice Politicizing 
+the Hiring and Firing of U.S. Attorneys?--Part VII'' on Thursday, 
+August 2, 2007, at 10 a.m. in the Dirksen Senate Office Building room 
+226.
+
+     Witness list
+
+  Karl Rove, The White House; J. Scott Jennings, The White House.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+
+                       Committee on the Judiciary
+
+  Mr. REID. Mr. President, I ask unanimous consent that the Committee 
+on the Judiciary be authorized to meet during the session of the Senate 
+in order to conduct a markup on Thursday, August 2, 2007, at 11:30 a.m. 
+in Dirksen room 226.
+
+                                 Agenda
+
+  I. Bills: S__, School Safety and Law Enforcement Improvements Act, 
+(Chairman's mark); S. 1060, Recidivism Reduction & Second Chance Act of 
+2007, (Biden, Specter, Brownback, Leahy, Kennedy, Schumer, Whitehouse, 
+Durbin); S. 453, Deceptive Practices and Voter Intimidation Prevention 
+Act of 2007; (Obama, Schumer, Leahy, Cardin, Feingold, Feinstein, 
+Kennedy, Whitehouse); S. 1692, A bill to grant a Federal Charter to 
+Korean War Veterans Association, (Cardin, Isakson, Kennedy); S. 1845, A 
+bill to provide for limitations in certain communications between the 
+Department of Justice and the White House; (Whitehouse).
+  II. Nomination: Rosa Emilia Rodriguez-Velez to be United States 
+Attorney for the District of Puerto Rico.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+[[Page 22714]]
+
+
+
+
+                    select committee on intelligence
+
+  Mr. REID. Mr. President, I ask unanimous consent that the Select 
+Committee on Intelligence be authorized to meet during the session of 
+the Senate on August 2, 2007, at 2:30 p.m. in order to hold a closed 
+hearing.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+
+ subcommittee on federal financial management, government information, 
+             federal services, and international security.
+
+  Mr. REID. Mr. President, I ask unanimous consent that the Committee 
+on Homeland Security and Governmental Affairs' Subcommittee on Federal 
+Financial Management, Government Information, Federal Services and 
+International Security be authorized to meet during the session of the 
+Senate on Thursday, August 2, 2007, at 10 a.m. in order to conduct a 
+hearing entitled ``Service Standards at the Postal Service: Are 
+Customers Getting What They Paid For?''
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+
+                     subcommittee on national parks
+
+  Mr. REID. Mr. President, I ask unanimous consent that the 
+Subcommittee on National Parks of the Committee on Energy and Natural 
+Resources be authorized to hold a hearing during the session of the 
+Senate on Thursday, August 2, 2007, at 2:30 p.m. in room SD-366 of the 
+Dirksen Senate Office Building. The purpose of the hearing is to 
+receive testimony on S. 1253, a bill to establish a fund for the 
+National Park Centennial Challenge, and for other purposes.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+
+      Subcommittee on Security and International Trade and Finance
+
+  Mr. REID. Mr. President, I ask unanimous consent that the Committee 
+on Banking, Housing, and Urban Affairs Subcommittee on Security and 
+International Trade and Finance be authorized to meet during the 
+session of the Senate on August 2, 2007, at 2:30 p.m., in order to 
+conduct a hearing entitled ``Reforming Key International Financial 
+Institutions for the 21st Century.''
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```
