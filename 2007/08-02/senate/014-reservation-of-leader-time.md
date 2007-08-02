@@ -1,0 +1,19 @@
+---
+granule: CREC-2007-08-02-pt1-PgS10687-6
+date: 2007-08-02
+edition: CREC
+section: SENATE
+page: S10687
+citation: 153 Cong. Rec. S10687
+---
+
+# RESERVATION OF LEADER TIME
+
+```
+                       RESERVATION OF LEADER TIME
+
+  The PRESIDING OFFICER. Under the previous order, leadership time is 
+reserved.
+
+                          ____________________
+```
