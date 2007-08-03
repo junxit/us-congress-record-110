@@ -1,0 +1,44 @@
+---
+granule: CREC-2007-08-03-pt1-PgH9662
+date: 2007-08-03
+edition: CREC
+section: HOUSE
+page: H9662
+citation: 153 Cong. Rec. H9662
+---
+
+# MOTION TO RECOMMIT AGREED TO
+
+**Speaking:** Blunt, Roy (B000575) [R-MO]
+
+```
+                      MOTION TO RECOMMIT AGREED TO
+
+  (Mr. BLUNT asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. BLUNT. Mr. Speaker, let me say when we left here last night, I 
+have left the House frustrated, I have left the House encouraged, I 
+have left the House proud, I have left the House not so proud. I have 
+never the House ashamed before.
+  Now what I just heard here this morning, I don't agree with it, the 
+idea that somehow we have massively violated the traditions of the 
+House and the only penalty is we will be more careful in the future.
+  I decided for 4 years when that vote would quit as the whip. That was 
+my job. We never stopped the vote until the Clerk handed the person the 
+piece of paper that said what the vote was, and the vote on the piece 
+of paper was 215-213.
+  The remedy for the House that would solve this problem is to let the 
+vote stand. A majority of this House voted that illegal immigrants 
+would not receive these benefits. That is what the vote was about. All 
+you've got to do is go back to committee, amend the bill and come back 
+to the floor.
+  You lost the vote. I didn't hit the gavel. I didn't speak over the 
+Clerk who was trying to read the vote. The Chair did. The Chair decided 
+the vote was over. It doesn't matter what that board says. What matters 
+is what the tally was.
+  A week of violations of the principles of the House culminated last 
+night in such an excessive way that Republicans walked off the floor, 
+and it was a deserved walkout. And I am ashamed of the House.
+
+                          ____________________
+```
