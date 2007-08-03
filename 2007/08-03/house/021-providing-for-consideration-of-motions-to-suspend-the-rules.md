@@ -1,0 +1,630 @@
+---
+granule: CRECB-2007-pt16-Pg22749-6
+date: 2007-08-03
+edition: CRECB
+section: HOUSE
+page: 22749
+---
+
+# PROVIDING FOR CONSIDERATION OF MOTIONS TO SUSPEND THE RULES
+
+```
+      PROVIDING FOR CONSIDERATION OF MOTIONS TO SUSPEND THE RULES
+
+  Mr. HASTINGS of Florida. Mr. Speaker, by direction of the Committee 
+on Rules, I call up House Resolution 600 and ask for its immediate 
+consideration.
+  The Clerk read the resolution, as follows:
+
+                              H. Res. 600
+
+       Resolved,  That it shall be in order at any time through 
+     the legislative day of Friday, August 3, 2007, for the 
+     Speaker to entertain motions that the House suspend the rules 
+     relating to the following measures:
+       (1) The bill (H.R. 3087) to require the President, in 
+     coordination with the Secretary of State, the Secretary of 
+     Defense, the Joint Chiefs of Staff, and other senior military 
+     leaders, to develop and transmit to Congress a comprehensive 
+     strategy for the redeployment of United States Armed Forces 
+     in Iraq.
+       (2) A bill to amend the Foreign Intelligence Surveillance 
+     Act of 1978 to establish a procedure for authorizing certain 
+     electronic surveillance.
+
+  The SPEAKER pro tempore. The gentleman from Florida is recognized for 
+1 hour.
+  Mr. HASTINGS of Florida. Thank you very much, Mr. Speaker.
+  For the purpose of debate only, I yield the customary 30 minutes to 
+my friend the gentleman from Texas (Mr. Sessions). All time yielded 
+during consideration of the rule is for debate only.
+
+
+                             General Leave
+
+  Mr. HASTINGS of Florida. Mr. Speaker, additionally, I ask unanimous 
+consent that our colleagues be given 5 legislative days in which to 
+revise and extend their remarks on House Resolution 600.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Florida?
+  There was no objection.
+  Mr. HASTINGS of Florida. Mr. Speaker, House Resolution 600 authorizes 
+the Speaker to entertain motions that the House suspend the rules at 
+any time through the legislative day of Friday, August 3, 2007, on the 
+following measures:
+  First, H.R. 3087, a bill to require the President, in coordination 
+with the Secretary of State, the Secretary of Defense, the Joint Chiefs 
+of Staff, and other military leaders, to develop and transmit to 
+Congress a comprehensive strategy for redeployment of United States 
+Armed Forces in Iraq; and, second, a bill to amend the Foreign 
+Intelligence Surveillance Act of 1978 to establish a procedure for 
+authorizing certain electronic surveillance.
+
+[[Page 22750]]
+
+  Mr. Speaker, it is particularly important at this juncture in my 
+remarks that I make it very clear that we have heard a lot of talk from 
+the other side of the aisle about the need to reform FISA. The Director 
+of National Intelligence has identified a specific intelligence 
+collection gap and spoken of ``a backlog for things requiring a 
+warrant,'' and I quote him. He claims that this is hindering our 
+efforts to prevent terrorist attacks.
+  Congress, Mr. Speaker, takes its responsibilities to protect the 
+Nation seriously. None of us on either side of the aisle want to leave 
+our intelligence professionals short. The Intelligence Committee, the 
+Judiciary Committee, the Homeland Security Committee, and the 
+leadership have been working around the clock to come up with a 
+solution that addresses this particular problem. However, again and 
+again, the administration has overplayed their hand. Each time we get 
+close to an agreement, they ask for more, and I might add the 
+negotiations on this have been going on for over a year.
+  First they said Congress needed to clarify that the government 
+shouldn't need a warrant to collect foreign communications. There was 
+never ever any disagreement about that.
+  Then they said they wanted broader authority to conduct electronic 
+surveillance of terrorist communications. We agreed to that.
+  Then they said they wanted immunity for the telecommunications 
+carriers. We agreed to give them prospective immunity and would 
+consider retrospective immunity when we get back.
+  But we insist on a couple of things. We want to preserve the role of 
+the FISA Court as an independent check on the government to prevent 
+them from infringing on the rights of Americans, and we insist that 
+this legislation have a sunset. In this rushed environment before 
+recess, we should not make permanent changes to FISA.
+  Last night, the congressional leadership was willing to make further 
+changes for Director McConnell. He said with those changes he would 
+support the bill because it would ``significantly enhance America's 
+security.'' And I am quoting him again. But after this agreement was 
+reached, congressional Republicans insisted on a much broader, 
+permanent bill, giving the Attorney General, this Attorney General, not 
+the Court, the discretion to make decisions about surveillance 
+involving Americans. Clearly, in my judgment, they are not negotiating 
+in good faith.
+  If they reject this bill, the other side is saying, in the face of a 
+resurgent al Qaeda, they don't want to plug the collection gap 
+identified by the Director of National Intelligence immediately. They 
+are rejecting ``significantly enhancing America's security.''
+  Now, if the other side insists on manufacturing obstructionist delays 
+and rejecting agreements that will enhance our security, we can stay 
+here all August and September and December until we get this done. The 
+security of this Nation deserves no less.
+  This rule is necessary, Mr. Speaker, because under clause 1(a), rule 
+XV, the Speaker may entertain motions to suspend the rules only on 
+Monday, Tuesday, or Wednesday of each week. In order for suspensions to 
+be considered on other days, as my colleagues well know, the Rules 
+Committee must authorize consideration of these motions.
+  This is not an unusual procedure, as some on the other side may 
+suggest. In fact, in the 109th Congress, alone, my friends on the other 
+side of the aisle reported at least six rules that provided for 
+additional suspension days.
+  This rule limits the suspension of rules to only these two bills and 
+will help us move important legislation before we leave for the August 
+recess. Time is, indeed, of the essence. Not because many in this body 
+wish to go home this weekend but, rather, because of the gravity of 
+these situations both here at home and abroad.
+  I hope that my colleagues will join me in support of this rule and 
+the underlying piece of legislation.
+  I do wish to put my colleagues on notice that, following the 
+conclusion of debate on this rule, I intend to offer an amendment to 
+the rule. My amendment will permit the House to consider emergency 
+legislation today appropriating $250 million to begin the 
+reconstruction of the I-35 bridge, which collapsed this week in 
+Minnesota. We have properly given our condolences and continue those to 
+those who have lost loved ones and those who are awaiting word 
+regarding those who are still missing and those who have been injured. 
+All of us grieve with all of them.
+  Without this amendment and this rule, this legislation will not be 
+permitted to proceed; and these emergency funds would be delayed. 
+Realize a vote against this rule and my amendment to the rule will be a 
+vote against providing this emergency assistance to the people of 
+Minnesota, specifically Minneapolis, Minnesota.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. SESSIONS. Mr. Speaker, I do appreciate the gentleman from Florida 
+yielding me time, and I do know that we are here today, among other 
+things, to seek immediate resolution from the United States Congress to 
+help the wonderful people of Minnesota in their time of grief by 
+authorizing money that will be spent to immediately rebuild the bridge 
+that collapsed over the Mississippi.
+  All Members of this body watched the horror the other night as we saw 
+not only the collapse but also the heroism of men and women, first 
+responders and others, as they joined in to help the people of 
+Minneapolis-St. Paul as they struggled with this.
+  I would note that the committee action, regular order, has taken 
+place to make sure that this bill would be before not only the Democrat 
+majority but also we as Republicans participated in each of these 
+activities.
+
+                              {time}  1330
+
+  The gentleman stood up and talked about how great and wonderful and 
+what normal and regular things happen around here, but these are not 
+normal times.
+  Once again today, here we are on the floor of the House of 
+Representatives almost as a new low, I would say, Mr. Speaker, being 
+asked to debate a rule on the Foreign Intelligence Surveillance Act, 
+and we don't even have a copy of the bill. So I would like to ask the 
+gentleman from Florida, can we please see a copy of the bill?
+  I yield to the gentleman from Florida.
+  Mr. HASTINGS of Florida. This matter is under suspension. My friend 
+on the Rules Committee and I were there when it passed out of the Rules 
+Committee on suspension, and that requirement is met.
+  Mr. SESSIONS. Reclaiming my time, Mr. Speaker, I don't understand 
+this. This new Democrat majority that comes to town, talks about open 
+and honesty, ethics above reproach, all the things that they would do 
+differently than what the Republicans have done, and they have not 
+lived up to that.
+  Mr. HASTINGS of Florida. Will the gentleman yield?
+  Mr. SESSIONS. I would yield to the gentleman if he will answer the 
+question: Where is the copy of the Foreign Intelligence Surveillance 
+Act that we're doing the rule on today that we're expected to vote on 
+today?
+  Mr. HASTINGS of Florida. Thank you for yielding. It is in the hopper. 
+The minority members of the Intelligence Committee have the measure.
+  Mr. SESSIONS. Reclaiming my time, I would yield to the gentleman from 
+California.
+  Mr. DREIER. I thank my friend for yielding, and I see we're joined 
+here by a very distinguished member of the House Committee on 
+Intelligence. I think we have been, for literally months, trying to 
+make in order the legislation that has been introduced by our friend 
+from Albuquerque (Mrs. Wilson), and we believe that that, in fact, is 
+the answer to this problem.
+  The President of the United States, in the news conference that he 
+held with Mike McConnell about an hour ago, made it crystal clear that 
+he is going to ask the Director one question: If he gets legislation 
+that emerges from this body, will it, in fact, enhance our ability to 
+make sure that foreigners on foreign soil who are trying kill us, if 
+the legislation provides them with the
+
+[[Page 22751]]
+
+tools to intercept those conversations and prevent them from having the 
+ability to attack the United States of America?
+  Now, my friend from Dallas has just very correctly said, can we see 
+the legislation that we're expected to vote upon today if this 
+suspension rule is made in order that will do exactly what the 
+President has said is necessary to ensure the safety and the security 
+of the American people?
+  Mr. SESSIONS. I thank the gentleman from California for his words.
+  Mr. Speaker, this Democrat majority has simply not lived up to the 
+words that it spoke when it became the new majority. And it was a 
+campaign promise that is reiterated on a regular basis all through this 
+Chamber and all the committees. Most disappointing among these is the 
+forgotten promise that Democrats promised to be the most open, honest 
+and ethical Congress in history.
+  And I will now quote Speaker Pelosi from page 24 of A New Direction 
+for America, and I quote, ``Bills should generally come to the floor 
+under a procedure that allows open, full and fair debate consisting of 
+a full amendment process that grants the minority the right to offer 
+its alternatives, including a substitute.''
+  I further quote the distinguished chairman of the Rules Committee, 
+Louise Slaughter, on November 12, 2006, just a week after election. She 
+said, ``My fellow Democrats and I have long felt that the Rules 
+Committee was failing its major obligations. We publically argued that 
+it was being used to shut down the legislative process for partisan 
+purposes. But now that the Democrats will control the committee we will 
+have a chance to change all that.''
+  Mr. Speaker, they have not changed it. They've made it worse.
+  We do understand right now, as we speak, we have a copy of the 
+Foreign Intelligence Surveillance Act that evidently has only now been 
+given to the minority.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. HASTINGS of Florida. At this time, I am very pleased to yield to 
+my colleague, with whom I've served 7 years on the Select Committee on 
+Intelligence. She was the ranking member and is now the chairman of the 
+House Permanent Select Committee on Intelligence.
+  Before yielding to Ms. Harman, who has gone down this road for well 
+over a year to get us to this point, I would like to say to my friend 
+from Texas that perhaps it would be helpful if he would ask the 
+minority members of the Intelligence Committee about the bill.
+  Secondly, the measure that we are dealing with is a rule providing 
+for suspension, not consideration.
+  That said, I yield 3 minutes to my friend from California (Ms. 
+Harman).
+  Ms. HARMAN. I thank the gentleman for yielding and commend him for 
+his long service, both on the Intelligence and Rules Committees.
+  I am now the Chair of an Intelligence Subcommittee of Homeland 
+Security. As no one in this Chamber would miss, security is my passion, 
+and I think it is our primary obligation as Members of Congress.
+  I was sitting here listening to the discussion about where is the 
+bill and why aren't we acting on FISA? It seems a little disingenuous, 
+given the fact that the current ranking member on the Intelligence 
+Committee and former chairman, has an article in USA Today in which he 
+says that this move to get the administration to put its surveillance 
+program under FISA ``gives legal protections to foreign enemies who 
+would do us harm.''
+  Excuse me? FISA, the Foreign Intelligence Surveillance Act passed by 
+a large bipartisan majority in 1978. FISA was passed to assure that 
+Americans, not foreigners, would have their constitutional rights 
+protected when the U.S. engages, as it must, in foreign intelligence 
+surveillance.
+  I don't think there is anyone here, not that I know of, who is 
+against foreign intelligence surveillance. There is no one in this 
+body, I haven't heard one person say that we think that when the U.S. 
+engages in foreign intelligence surveillance, in foreign countries 
+involving communications between foreigners in different foreign 
+countries, that FISA applies. But FISA can and must apply when 
+Americans' constitutional rights are at issue, and that is the issue we 
+will debate a little bit later.
+  I want to say that it surprises me again that all of a sudden no one 
+knows what we might be talking about. There have been intense 
+negotiations, I have been a part of some of them, for months over what 
+we might do to make FISA work better. In the 109th Congress, all nine 
+Democrats on the Intelligence Committee authored legislation to help 
+FISA work better; and in this Congress I'm aware of both closed and 
+open hearings by the Intelligence Committee to carefully consider these 
+issues.
+  So it seems to me quite surprising and disingenuous to hear that, for 
+example, the ranking member of the Intelligence Committee doesn't even 
+feel that FISA protects Americans; he thinks that it coddles 
+foreigners.
+  I am happy to yield to the gentlewoman from New Mexico.
+  Mrs. WILSON of New Mexico. I thank the gentlelady because I have some 
+confusion over here, and you may be able to help me.
+  As I look at this, I think this is the bill that was rejected by the 
+Director of National Intelligence 36 hours ago as insufficient. And it 
+is not the bill that, as I understand it, was going to be accepted by 
+the Senate this morning that the DNI proposed.
+  Is the House offering a different bill than has been accepted by the 
+Senate?
+  The SPEAKER pro tempore. The gentlewoman's time has expired.
+  Mr. HASTINGS of Florida. I yield the gentlelady an additional minute 
+to respond.
+  Ms. HARMAN. I thank the gentleman for yielding.
+  Reclaiming my time, I don't have a copy of the latest draft. It may 
+be one I've seen, but I'm not absolutely positive. My understanding is 
+that negotiations have been going on for quite a long time and that the 
+requirements of the DNI have been met.
+  What is happening, and I think it's a real tragedy for the American 
+people, is that the goalposts keep moving. I just wonder whether the 
+other side wants this to be a wedge issue or wants to solve the 
+problem.
+  As one Member here who has worked on this for years, I want to solve 
+the problem; and we will attempt to do that under the suspension rules 
+later today.
+  Mr. SESSIONS. You know, Mr. Speaker, we talk about this genuine 
+desire to solve the problem, but the fact of the matter is we're about 
+as close as midnight and noon in our thoughts and beliefs as parties 
+for doing that.
+  I hearken back to just a few days ago in the Rules Committee, where 
+some of the questions from my good friends on the Democrat side are: 
+Well, what about the constitutional rights of some of these people who 
+live in other countries who are known terrorists, what about their 
+constitutional rights? And we need to take those into account.
+  Mr. Speaker, it's amazing how we're sitting here debating something 
+that's in the best interests of this country, and some people are more 
+concerned about the terrorists' rights than they are about protecting 
+this country.
+  Mr. Speaker, I yield 1\1/2\ minutes to the gentleman from California 
+(Mr. Dreier).
+  Mr. DREIER. I thank the gentleman for yielding.
+  Mr. Speaker, I would just like to say that I have the highest regard 
+for my California colleague (Ms. Harman). She knows that very well. We 
+share representing Los Angeles County here. And I know that she has 
+worked very hard on intelligence issues.
+  But I will say that I am very troubled with the exchange that I just 
+saw take place between my friend from Albuquerque here, who has worked 
+on this. She talked about the fact that we have legislation that was 
+just rejected 36 hours ago by the Director of National Intelligence, 
+Mr. McConnell. And my friend from California has just said something to 
+the effect that she's not sure exactly what bill it is that we're 
+looking at. I'm not an expert on this myself.
+
+[[Page 22752]]
+
+  I would be happy to yield to my friend if she wants to respond at all 
+on this.
+  Ms. HARMAN. Well, what I meant was that I'm aware that there were 
+negotiations going on with the DNI last evening. So drafts have been 
+shared back and forth. All I said was that I came over to the floor to 
+support the rule to permit this issue to be addressed under suspension, 
+and I don't have in my hand what may be the latest version.
+  Mr. DREIER. Reclaiming my time, I know my colleague would certainly 
+share this concern to support the rule, but we like the idea of seeing 
+what it is that we're about to vote upon before we do that. I know that 
+may be an unusual request under this majority, but I think that is 
+definitely fair. And I will say that I think that it's right and 
+correct that Members have a chance to see what it is that they're 
+voting upon, rather than having something thrown upon them.
+  And we have Mrs. Wilson, who has legislation that we've offered 
+probably a dozen times on our quest to defeat the previous question on 
+rules so that we could at least allow consideration of this. And so 
+that has led us, I believe, to this point.
+  But I think it is just absolute lunacy to believe that we are, at 
+this moment, in a position to go ahead and vote upon something that we 
+don't know what it consists of. And I know my friend would agree with 
+that, that we really shouldn't have a pattern like that.
+  Ms. HARMAN. Will the gentleman yield?
+  Mr. DREIER. I would be happy to yield.
+  The SPEAKER pro tempore. The gentleman's time has expired.
+  Mr. HASTINGS of Florida. I yield 30 seconds to Ms. Harman.
+  Ms. HARMAN. Mr. Speaker, just to respond to that, I'm not interested 
+in lunacy, and I know that Mr. Dreier is not, and I'm sure that Ms. 
+Wilson and Mr. Hoekstra are not either.
+  There is a way to solve this problem correctly. I believe that the 
+draft, which I'm certain will be circulated to everybody imminently, I 
+believe that you will see that it is a very careful and balanced effort 
+to address this problem, and it has been shared.
+  Mr. DREIER. If the gentlewoman would yield, I think I've got it in my 
+hands right now.
+  Mr. HASTINGS of Florida. The gentleman says he has a copy of the bill 
+in his hand. I would remind the distinguished ranking member of the 
+Rules Committee, who is my good friend, that this rule is to make in 
+order a suspension day.
+  Mr. DREIER. I understand that.
+  Mr. HASTINGS of Florida. I'm glad you do understand it.
+  I would ask the gentleman from Texas to ask his Republican colleagues 
+on the Intelligence Committee why they didn't share the bill with the 
+Rules Committee Republicans. We cannot control what you do or do not 
+do.
+  And under the circumstances, Ms. Harman just made it very clear to 
+you that the goalposts keep moving. You try to act as if you don't know 
+that for a year and a half that this has been going on here in this 
+intelligence community, working with this administration, trying to 
+take care of this matter.
+  Now understand this. First, you said on that side that Congress 
+needed to clarify that the government shouldn't need a warrant to 
+collect foreign-to-foreign communications. There was never any 
+disagreement about that, and stop saying it to the American public.
+  Then they said they wanted broader authority to conduct electronic 
+surveillance of terrorist communications. We agreed to that.
+  Then they said they wanted immunity for the telecommunications 
+carriers. We agreed to give them prospective immunity and consider 
+retrospective immunity when we get back.
+  Last night, not yesterday, not midnight to noon, and some people have 
+gotten caught in the dark, last night, the congressional leadership was 
+willing to make further changes for Director McConnell. He said that 
+with those changes he would support the bill because it would, in his 
+word, ``significantly'' enhance America's security.
+  But after this agreement was reached, congressional Republicans 
+insisted on a much broader bill giving the Attorney General, not the 
+Court, the discretion to make decisions about surveillance involving 
+Americans. Clearly, in my judgment, as I said previously, you're not 
+negotiating in good faith.
+  I remind you once again that this rule is to make in order a 
+suspension day. You will have all the time you need to do all the 
+reading you need to do.
+  Mr. Speaker, I reserve the balance of my time.
+
+
+                Announcement by the Speaker Pro Tempore
+
+  The SPEAKER pro tempore. The Chair will remind Members to address 
+their remarks to the Chair.
+  Mr. SESSIONS. Mr. Speaker, I would like to inquire how much time 
+remains.
+  The SPEAKER pro tempore. The gentleman from Texas has 21\1/2\ 
+minutes. The gentleman from Florida has 13\1/2\ minutes.
+
+                              {time}  1345
+
+  Mr. SESSIONS. Mr. Speaker, we just heard it straight out: You don't 
+need to see the bill. You will see it whenever we want to give it to 
+you. You don't need it. All we are doing down here is playing 
+tiddlywinks with national security.
+  Mr. Speaker, I disagree with that. We disagree with that. I think 
+this is an unfair way.
+  Mr. Speaker, I yield 3 minutes to the gentleman from California (Mr. 
+Daniel E. Lungren).
+  Mr. DANIEL E. LUNGREN of California. Mr. Speaker, I thank the 
+gentleman for yielding.
+  Mr. Speaker, I do not have the privilege to serve on the Intelligence 
+Committee now, but in the 1980s I did. Then, following that, in the 
+1990s when I served in California as the attorney general, I recall 
+getting security briefings from the intelligence community from 
+Washington, DC.
+  It was during the Clinton administration that Admiral McConnell was 
+the head of the NSA. I do not recall any partisan or bipartisan dispute 
+about his qualifications, his professionalism or his judgment. He is 
+the man that the President has brought out of retirement to be the 
+Director of National Intelligence. He is the one that has presented to 
+us in open and in closed testimony why we need this.
+  I think it is fair for us to ask, if we are getting a draft that he 
+has rejected, why it is the draft that is going to be presented to us 
+under the suspension calendar. Unless we have changed the rules of the 
+House in the 16 years I was gone, the whole concept of a suspension 
+bill is that you suspend all the rules for noncontroversial bills. 
+Noncontroversial bills. If the head of our intelligence services 
+believes that this is so controversial we ought to reject this, then 
+why is it being brought up under this kind of a suspension?
+  Now, I have tried to work and have worked with the gentlewoman from 
+California on many occasions getting bipartisan legislation through 
+this floor. But this is the single most important bill that I have seen 
+brought up in the 3 years that I have been back, and maybe in the 10 
+years I was here before.
+  This goes to the question of whether we take our blinders off with 
+respect to intelligence, with respect to what kind of chatter that is 
+going on around the world. And, yes, they say we all agree that 
+foreign-to-foreign communications ought to be not under the purview of 
+the Court, because we understand that has never been protected under 
+the Constitution. We have been informed that the draft that we are 
+talking about would not allow us to do that in the way it is necessary 
+to protect this Nation.
+  That is why it is so important; not that it is partisan, not that 
+somebody came here under one rule or another, but because the head of 
+intelligence for the United States has said we can't accept this draft. 
+If he says that, we ought to listen to him. We ought to try and get 
+something that will work.
+  So let's forget about this nonsense of partisanship. Let's not get up 
+here,
+
+[[Page 22753]]
+
+shake something out here in the hand and say, well, you have had it 
+long enough. I don't know how long it took the Constitution to be 
+written from beginning to end. It wasn't how long it took. It is the 
+words they put there. It is what they actually produced. That is what 
+we are going to be judged by; not by how many hours we were here, but 
+whether we got it right.
+  The Director of National Intelligence has told us we have gotten it 
+wrong now. All our people back home are in jeopardy. We are in jeopardy 
+because it is wrong, because we are not doing it right. He has asked us 
+to fix it. It is the most solemn obligation we have under our oath of 
+the Constitution to do it right. And to say that we are going to do it 
+under some suspension and don't worry about what it says violates that 
+oath.
+  Mr. SESSIONS. Mr. Speaker, I yield 6 minutes to the gentleman from 
+Michigan (Mr. Rogers).
+  Mr. ROGERS of Michigan. Mr. Speaker, I can't tell you how 
+disappointed I am in my friends. And I have the greatest respect for my 
+good friend from Florida and the gentlewoman from California. We have 
+worked so well together on so many issues that, I think, have made a 
+difference in a positive way for national security for this country. I 
+believe that with every fiber of my being.
+  I almost feel bad for you that you would be sent here on behalf of 
+the Speaker to try to defend this today. I feel bad for you because I 
+know you both. And I know that is not the direction you would have 
+taken, had it been your decision.
+  Efforts to change this are not new. The level of concern by so many 
+of us who sit in those classified hearings in our Intelligence 
+Committee is not new. Last year, my colleague from New Mexico 
+introduced a bill that would have fixed this problem last year, and it 
+was stopped. Earlier this year, earlier this year, it was introduced 
+again to fix this problem, and it was denied by the majority.
+  I have to tell you, when I was a young FBI agent, sometimes you would 
+look up at the policies kind of flowing down at you. We were working 
+awfully hard to develop probable cause to get wiretaps, which was the 
+right thing to do. It was a difficult process with lots of vetting, 
+lots of hours, lots of source development and source vetting, lots of 
+surveillance, and putting it all together to make something like that 
+work so that it could rise to the standard to go after a United States 
+citizen and their communication. It is a pretty high standard. I argue, 
+as somebody who did it for a living, it should be.
+  But what we have been arguing for for the last year is to say, 
+listen, we should not give those rights to terrorists overseas who are 
+conducting terrorist activities to target Americans or our allies, 
+including the United States soldiers. They do not deserve the rights of 
+a U.S. citizen.
+  This was an easy fix. It said, let's be technology neutral. Times 
+have changed since the 1970s when FISA was written. Technology has 
+changed. People communicate completely differently.
+  What we said last year is let us change to keep up, because today we 
+have asked soldiers to stand in harm's way. And the thing that I know 
+that my colleagues understand, both Democrats and Republicans, is 
+because this House has failed to act, they have stood in harm's way 
+without all the information that they need and deserve to be safe, 
+successful, and come home to their families.
+  This gamesmanship is dangerous, and I mean dangerous. My colleagues 
+understand those classified cases that we talk about, that we know 
+because this has not been fixed. Lives may have been lost because of 
+it. Lives may have been lost because of it. We can change that today.
+  I just got a copy of this. As I go through it, just in my brief 
+cursory look at it, this is not what we have been negotiating. There 
+have been no new demands. This is so easy. This is so simple. It can be 
+about a 2-page bill, and we can begin to protect Americans in harm's 
+way, including the homeland, but, most importantly, the soldiers who 
+are overseas who deserve that protection. And just because we shout and 
+we yell, no, no, no, we believe that terrorists should not have to have 
+a warrant overseas as well doesn't make it so, and you know that. That 
+has been the stumbling block. The Court has said it. The intelligence 
+community has said it. The DNI has said it. We have said it.
+  I am going to beg all of you, please, for the lives of the soldiers 
+who are at risk today, for the homeland, this is not the place for 
+gamesmanship. This is not the place that we argue about a bill that we 
+have not even seen. This is the time that we should come together. This 
+is the time that this bill should be out and done, negotiated, and free 
+from all of the gamesmanship we see today.
+  When I go home and look at those families of those folks who have 
+loved ones overseas, I want to be able to tell them we have done 
+everything that we can do to make them safe. When somebody kisses their 
+young child and puts them on the bus, I want to be able to look that 
+family in the eye and say we are doing everything to make sure we get 
+all the information of what the terrorists are up to to protect the 
+United States of America.
+  We all know in good conscience we can't say that today, and we have 
+not been able to say that for months in good conscience.
+  This is our chance to come together as people I know and I respect, 
+who know the dangers of the gamesmanship on an issue this important. 
+Let's stop it. Let's go back. Go back and tell the Speaker, I am sorry, 
+we are not playing this game.
+  People's lives are at stake. We can do this. We can do this together. 
+I know that is why I was sent here. I know that is what you believe in 
+your hearts. Let's do this together. Let's put this stuff aside and fix 
+this problem so that we can begin to listen to the conversations of 
+terrorists we know are planning attacks against our allies and the 
+United States of America.
+  I strongly urge the reconsideration of this. Let's do this. We can do 
+this. We should do this. We ought to do it. And shame on us if we can't 
+do it.
+  Mr. HASTINGS of Florida. Mr. Speaker, I yield myself such time as I 
+may consume, and I will yield to the distinguished Chair of the 
+Intelligence Committee in just a moment.
+  But I would like to respond to my good friend from Michigan, and he 
+is my good friend, and he was correct in asserting that he, Ms. Harman, 
+myself, all of the members of the Intelligence Committee that are here, 
+have worked actively for more than a year on this. What he was 
+incorrect about was whether or not there were ongoing negotiations.
+  I would urge him to know that with staff, the distinguished Chair of 
+the Intelligence Committee and many other Members, and Ms. Harman from 
+her Chair on Homeland Security, and countless others in the minority as 
+well, have worked day and night with the administration to produce a 
+bipartisan, bicameral proposal.
+  Mr. Rogers just said last night no other negotiations were going on. 
+Last night the DNI asked us to make three changes, three, to our 
+proposal. We made all three changes. They are in this bill. But the 
+administration still rejected our proposal, and they gave us a moving 
+target.
+  We gave the administration what it told us it needed to protect 
+America. They still said no.
+  Mr. Speaker, I yield 1\1/2\ minutes to the gentleman from Texas (Mr. 
+Reyes), the distinguished chairman of the Intelligence Committee.
+  Mr. REYES. Mr. Speaker, I just want to take a minute to respond to my 
+colleague from Michigan.
+  This is a serious issue. We have worked hard for the last 2 weeks in 
+particular, in addition to the hearings that we have had, with the 
+commitment that we are going to do an overall fix of FISA in the fall. 
+But we wanted to give the administration the three things, as my 
+colleague from Florida just mentioned, that they could work with so 
+they could keep this country safe in this urgent hour. Those three 
+things we gave them. Then the goalposts were moved and we were told 
+that there would be additional issues. That has been our experience.
+
+[[Page 22754]]
+
+  The difference here is very simple, Mr. Speaker. My colleagues on the 
+other side of the aisle for 6 years have been only too happy to oblige 
+the administration on whatever they need. You got a bill? Let's rubber-
+stamp it. Need a supplemental? Let's rubber-stamp it.
+  Well, do you know what? Those days are over. Since we took control of 
+the Congress, we are doing the oversight that was neglected. We are now 
+being part of the process to make sure that not only do we have the 
+tools to keep this country safe, but that we protect the American 
+people and their civil rights. That is the basic fundamental 
+difference.
+  This bill here does the three things that the DNI asked us to do and 
+that the administration wanted us to do. It is not the all-encompassing 
+changes that FISA needs, but we are committed to doing that in the 
+fall.
+
+                              {time}  1400
+
+  Mr. SESSIONS. Mr. Speaker, I yield 2 minutes to the gentlewoman from 
+New Mexico (Mrs. Wilson).
+  Mrs. WILSON of New Mexico. Mr. Speaker, I ask unanimous consent that 
+the House recess until we get feedback from the Director of National 
+Intelligence that he has seen this legislation and he agrees that it 
+will fix the intelligence gap that is threatening the United States.
+  Mr. HASTINGS of Florida. I object.
+  The SPEAKER pro tempore. Objection is heard.
+
+                          ____________________
+```
