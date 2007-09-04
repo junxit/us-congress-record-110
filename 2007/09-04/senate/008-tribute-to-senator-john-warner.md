@@ -1,0 +1,71 @@
+---
+granule: CRECB-2007-pt17-Pg23338
+date: 2007-09-04
+edition: CRECB
+section: SENATE
+page: 23338
+---
+
+# TRIBUTE TO SENATOR JOHN WARNER
+
+```
+                     TRIBUTE TO SENATOR JOHN WARNER
+
+  Mr. REID. Mr. President, I begin my remarks on this fall calendar in 
+a position of wanting to get a lot of business done. But first I wish 
+to make a few remarks about two of our most distinguished colleagues, 
+Senator Warner of Virginia and Senator Kennedy of Massachusetts.
+  A few days ago, Senator Warner announced he will not seek reelection 
+when his term ends, which is in 2008. John Warner's career in public 
+service began when he was 17 years of age when he enlisted in the U.S. 
+Navy during World War II. He did not have to enlist. His father was a 
+distinguished physician in Virginia. He did it because it was the right 
+thing to do.
+  After an honorable discharge, he, again feeling the call of duty, 
+interrupted his law school studies to join the Marine Corps during the 
+Korean war. Keep in mind, both times, when he joined the Navy and then 
+the Marines, we were at war. During the Korean war, he rose to the rank 
+of captain.
+  John Warner is a patriot. If you look up ``patriot'' and 
+``patriotism'' in the dictionary, it says one who loves his country and 
+supports its interests. That is John Warner by definition.
+  When John Warner returned home after the Korean war, he was appointed 
+Under Secretary of the Navy and later became Secretary of the Navy 
+before beginning his five terms in the Senate.
+  His work on the Armed Services Committee is certainly legend. His 
+ability to work with Senator Levin has been something I have watched 
+and admired and many times complimented both of them for--their ability 
+to work together, many times on issues that were very difficult to work 
+together on. They always worked together, always looked out for each 
+other.
+  In addition to the work he did on the Armed Services Committee, I 
+watched firsthand his brilliant work on the Intelligence Committee but 
+very firsthand his work on the Environment and Public Works Committee. 
+From the time I came to the Senate, I worked with John Warner on that 
+committee. I was chairman of that committee on two separate occasions. 
+During the period of time I worked with Senator Warner, I was in the 
+majority, and other times he was in the majority. To John Warner, it 
+didn't matter.
+  I can remember the first big Transportation bill we did. We did one 
+every 5 years. What a great example he set for everybody as one of the 
+senior members of that committee. He worked with conservatives, he 
+worked with liberals, he worked with Democrats, and he worked with 
+Republicans.
+  To show his ability to do the right thing, one needs look no further 
+than his own State of Virginia. There was a hotly contested race for 
+the Senate for the State of Virginia. John Warner supported the 
+Democratic candidate rather than the Republican candidate. That is the 
+kind of person he is.
+  I have such great admiration for John Warner. He is, in my opinion, 
+what a public servant should be. He is a gentleman and has served the 
+people of Virginia and our Nation with distinction for 30 years or 
+more. Senator Warner's impact on this institution will not be 
+forgotten. I will sorely miss his warmth and friendship. My wife Landra 
+and his wife Jeanne are friends. They have been working together. Every 
+year the Senate spouses have a First Lady's luncheon. Two years ago, my 
+wife was chairperson of that. Last year, she was. They are good friends 
+and we will miss them a lot. They are a wonderful couple. I have to say 
+John Warner is top of the line. I have so much admiration for him.
+
+                          ____________________
+```

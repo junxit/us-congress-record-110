@@ -1,0 +1,523 @@
+---
+granule: CRECB-2007-pt17-Pg23436
+date: 2007-09-04
+edition: CRECB
+section: HOUSE
+page: 23436
+---
+
+# MICROLOAN AMENDMENTS AND MODERNIZATION ACT
+
+```
+               MICROLOAN AMENDMENTS AND MODERNIZATION ACT
+
+  Ms. VELAZQUEZ. Mr. Speaker, I move to suspend the rules and pass the 
+bill (H.R. 3020) to amend the Small Business Act to improve the 
+Microloan program, and for other purposes, as amended.
+  The Clerk read the title of the bill.
+  The text of the bill is as follows:
+
+                               H.R. 3020
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+       (a) Short Title.--This Act may be cited as the ``Microloan 
+     Amendments and Modernization Act''.
+       (b) Table of Contents.--The table of contents for this Act 
+     is as follows:
+Sec. 1. Short title; table of contents.
+
+                           TITLE I--MICROLOAN
+
+Sec. 101. Transmission of credit reporting information.
+Sec. 102. Flexible credit.
+Sec. 103. Intermediary eligibility requirements.
+Sec. 104. Average loan size.
+Sec. 105. Technical assistance.
+Sec. 106. Entrepreneurs with disabilities.
+
+                            TITLE II--PRIME
+
+Sec. 201. Short title.
+Sec. 202. PRIME.
+Sec. 203. Conforming repeal.
+
+                           TITLE I--MICROLOAN
+
+     SEC. 101. TRANSMISSION OF CREDIT REPORTING INFORMATION.
+
+       Section 7(m) of the Small Business Act (15 U.S.C. 636(m)) 
+     is amended by adding at the end the following:
+       ``(14) Credit reporting information.--The Administrator 
+     shall establish a process, for use by a lender making a loan 
+     to a borrower under this subsection, under which the lender 
+     provides to the major credit reporting agencies the 
+     information about the borrower that is relevant to credit 
+     reporting, such as the payment activity of the borrower on 
+     the loan.''.
+
+     SEC. 102. FLEXIBLE CREDIT.
+
+       Section 7(m) of the Small Business Act (15 U.S.C. 636(m)) 
+     is amended, in each of paragraphs (1)(B)(i) and (11)(B), by 
+     striking ``short-term,''.
+
+     SEC. 103. INTERMEDIARY ELIGIBILITY REQUIREMENTS.
+
+       Section 7(m)(2) of the Small Business Act (15 U.S.C. 
+     636(m)(2)) is amended--
+       (1) in subparagraph (A) by striking ``paragraph (10)'' and 
+     inserting ``paragraph (11)''; and
+       (2) by amending subparagraph (B) to read as follows:
+       ``(B) has--
+       ``(i) at least--
+
+       ``(I) 1 year of experience making microloans to startup, 
+     newly established, or growing small business concerns; or
+       ``(II) 1 full-time employee who has not less than 3 years 
+     experience making microloans to startup, newly established, 
+     or growing small business concerns; and
+
+       ``(ii) at least 1 year of experience providing, as an 
+     integral part of its microloan program, intensive marketing, 
+     management, and technical assistance to its borrowers.''.
+
+     SEC. 104. AVERAGE LOAN SIZE.
+
+       Section 7(m) of the Small Business Act (15 U.S.C. 636(m)) 
+     is amended by striking ``$7,500'' and inserting ``$10,000'' 
+     in each of the following places: paragraph (3)(F)(iii), 
+     paragraph (6)(C)(i), and paragraph (6)(C)(ii).
+
+     SEC. 105. TECHNICAL ASSISTANCE.
+
+       Section 7(m)(4)(E) of the Small Business Act (15 U.S.C. 
+     636(m)(4)(E)) is amended as follows:
+       (1) Pre-loan.--Clause (i) is amended by striking ``25 
+     percent'' and inserting ``35 percent''.
+       (2) Third party contracts.--Clause (ii) is amended by 
+     striking ``25 percent'' and inserting ``35 percent''.
+
+     SEC. 106. ENTREPRENEURS WITH DISABILITIES.
+
+       Section 7(m)(1)(A)(i) of the Small Business Act (15 U.S.C. 
+     636(m)(1)(A)(i)) is amended by inserting ``disabled,'' before 
+     ``and minority entrepreneurs''.
+
+                            TITLE II--PRIME
+
+     SEC. 201. SHORT TITLE.
+
+       This title may be cited as the ``Program for Investment in 
+     Microentrepreneurs Act'' or the ``PRIME Act''.
+
+     SEC. 202. PRIME.
+
+       The Small Business Act is amended--
+
+[[Page 23437]]
+
+       (1) by redesignating section 37 as 99; and
+       (2) by inserting after section 36 the following:
+
+     ``SEC. 37. PRIME PROGRAM.
+
+       ``(a) Definitions.--For purposes of this section, the 
+     following definitions shall apply:
+       ``(1) Capacity building services.--The term `capacity 
+     building services' means services provided to an organization 
+     that is, or that is in the process of becoming, a 
+     microenterprise development organization or program, for the 
+     purpose of enhancing its ability to provide training and 
+     services to disadvantaged entrepreneurs.
+       ``(2) Disadvantaged entrepreneur.--The term `disadvantaged 
+     entrepreneur' means a microentrepreneur that is--
+       ``(A) a very low-income person;
+       ``(B) a low-income person; or
+       ``(C) an entrepreneur that lacks adequate access to capital 
+     or other resources essential for business success, or is 
+     economically disadvantaged, as determined by the 
+     Administrator.
+       ``(3) Collaborative.--The term `collaborative' means 2 or 
+     more nonprofit entities that agree to act jointly as a 
+     qualified organization under this section.
+       ``(4) Indian tribe.--The term `Indian tribe' means any 
+     Indian tribe, band, pueblo, nation, or other organized group 
+     or community, including any Alaska Native village or regional 
+     or village corporation, as defined in or established pursuant 
+     to the Alaska Native Claims Settlement Act, which is 
+     recognized as eligible for the special programs and services 
+     provided by the United States to Indians because of their 
+     status as Indians.
+       ``(5) Intermediary.--The term `intermediary' means a 
+     private, nonprofit entity that seeks to serve microenterprise 
+     development organizations and programs as authorized under 
+     subsection (d).
+       ``(6) Low-income person.--The term `low-income person' 
+     means a person having an income, adjusted for family size, of 
+     not more than--
+       ``(A) for metropolitan areas, 80 percent of the area median 
+     income; and
+       ``(B) for nonmetropolitan areas, the greater of--
+       ``(i) 80 percent of the area median income; or
+       ``(ii) 80 percent of the statewide nonmetropolitan area 
+     median income.
+       ``(7) Microentrepreneur.--The term `microentrepreneur' 
+     means the owner or developer of a microenterprise.
+       ``(8) Microenterprise.--The term `microenterprise' means a 
+     sole proprietorship, partnership, or corporation that--
+       ``(A) has fewer than 5 employees; and
+       ``(B) generally lacks access to conventional loans, equity, 
+     or other banking services.
+       ``(9) Microenterprise development organization or 
+     program.--The term `microenterprise development organization 
+     or program' means a nonprofit entity, or a program 
+     administered by such an entity, including community 
+     development corporations or other nonprofit development 
+     organizations and social service organizations, that provides 
+     services to disadvantaged entrepreneurs.
+       ``(10) Poverty line.--The term `poverty line' means the 
+     official poverty line defined by the Office of Management and 
+     Budget based on the most recent data available from the 
+     Bureau of the Census. The Administrator shall revise annually 
+     (or at any shorter interval the Administrator determines to 
+     be feasible and desirable) the poverty line. The required 
+     revision shall be accomplished by multiplying the official 
+     poverty line by the percentage change in the Consumer Price 
+     Index for All Urban Consumers during the annual or other 
+     interval immediately preceding the time at which the revision 
+     is made.
+       ``(11) Training and technical assistance.--The term 
+     `training and technical assistance' means services and 
+     support provided to disadvantaged entrepreneurs, such as 
+     assistance for the purpose of enhancing business planning, 
+     marketing, management, financial management skills, and 
+     assistance for the purpose of accessing financial services.
+       ``(12) Very low-income person.--The term `very low-income 
+     person' means having an income, adjusted for family size, of 
+     not more than 150 percent of the poverty line.
+       ``(b) Establishment of Program.--The Administrator shall 
+     establish a microenterprise technical assistance and capacity 
+     building grant program to provide assistance from the 
+     Administration in the form of grants to qualified 
+     organizations in accordance with this section.
+       ``(c) Uses of Assistance.--A qualified organization shall 
+     use grants made under this section--
+       ``(1) to provide training and technical assistance to 
+     disadvantaged entrepreneurs;
+       ``(2) to provide training and capacity building services to 
+     microenterprise development organizations and programs and 
+     groups of such organizations to assist such organizations and 
+     programs in developing microenterprise training and services;
+       ``(3) to aid in researching and developing the best 
+     practices in the field of microenterprise and technical 
+     assistance programs for disadvantaged entrepreneurs; and
+       ``(4) for such other activities as the Administrator 
+     determines are consistent with the purposes of this section.
+       ``(d) Qualified Organizations.--For purposes of eligibility 
+     for assistance under this section, a qualified organization 
+     shall be--
+       ``(1) a nonprofit microenterprise development organization 
+     or program (or a group or collaborative thereof) that has a 
+     demonstrated record of delivering microenterprise services to 
+     disadvantaged entrepreneurs;
+       ``(2) an intermediary;
+       ``(3) a microenterprise development organization or program 
+     that is accountable to a local community, working in 
+     conjunction with a State or local government or Indian tribe; 
+     or
+       ``(4) an Indian tribe acting on its own, if the Indian 
+     tribe can certify that no private organization or program 
+     referred to in this paragraph exists within its jurisdiction.
+       ``(e) Allocation of Assistance; Subgrants.--
+       ``(1) Allocation of assistance.--
+       ``(A) In general.--The Administrator shall allocate 
+     assistance from the Administration under this section to 
+     ensure that--
+       ``(i) activities described in subsection (c)(1) are funded 
+     using not less than 75 percent of amounts made available for 
+     such assistance; and
+       ``(ii) activities described in subsection (c)(2) are funded 
+     using not less than 15 percent of amounts made available for 
+     such assistance.
+       ``(B) Limit on individual assistance.--No single person may 
+     receive more than 10 percent of the total funds appropriated 
+     under this section in a single fiscal year.
+       ``(2) Targeted assistance.--The Administrator shall ensure 
+     that not less than 50 percent of the grants made under this 
+     section are used to benefit very low-income persons, 
+     including those residing on Indian reservations.
+       ``(3) Subgrants authorized.--
+       ``(A) In general.--A qualified organization receiving 
+     assistance under this section may provide grants using that 
+     assistance to qualified small and emerging microenterprise 
+     organizations and programs, subject to such rules and 
+     regulations as the Administrator determines to be 
+     appropriate.
+       ``(B) Limit on administrative expenses.--Not more than 7.5 
+     percent of assistance received by a qualified organization 
+     under this section may be used for administrative expenses in 
+     connection with the making of subgrants under subparagraph 
+     (A).
+       ``(4) Diversity.--In making grants under this section, the 
+     Administrator shall ensure that grant recipients include both 
+     large and small microenterprise organizations, serving urban, 
+     rural, and Indian tribal communities serving diverse 
+     populations.
+       ``(5) Prohibition on preferential consideration of certain 
+     sba program participants.--In making grants under this 
+     section, the Administrator shall ensure that any application 
+     made by a qualified organization that is a participant in the 
+     program established under section 7(m) does not receive 
+     preferential consideration over applications from other 
+     qualified organizations that are not participants in such 
+     program.
+       ``(f) Matching Requirements.--
+       ``(1) In general.--Financial assistance under this section 
+     shall be matched with funds from sources other than the 
+     Federal Government on the basis of not less than 50 percent 
+     of each dollar provided by the Administration.
+       ``(2) Sources of matching funds.--Fees, grants, gifts, 
+     funds from loan sources, and in-kind resources of a grant 
+     recipient from public or private sources may be used to 
+     comply with the matching requirement in paragraph (1).
+       ``(3) Exception.--
+       ``(A) In general.--In the case of an applicant for 
+     assistance under this section with severe constraints on 
+     available sources of matching funds, the Administrator may 
+     reduce or eliminate the matching requirement in paragraph 
+     (1).
+       ``(B) Limitation.--Not more than 10 percent of the total 
+     funds made available from the Administration in any fiscal 
+     year to carry out this section may be excepted from the 
+     matching requirement in paragraph (1), as authorized by 
+     subparagraph (A).
+       ``(g) Applications for Assistance.--An application for 
+     assistance under this section shall be submitted in such form 
+     and in accordance with such procedures as the Administrator 
+     shall establish.
+       ``(h) Recordkeeping.--
+       ``(1) In general.--A qualified organization receiving 
+     assistance from the Administration under this section shall 
+     keep such records, for such periods as may be prescribed by 
+     the Administrator and necessary to disclose the manner in 
+     which any assistance under this section is used and to 
+     demonstrate compliance with the requirements of this section.
+       ``(2) User profile information.--The Administrator shall 
+     require each qualified organization receiving assistance from 
+     the Administration under this section to compile such data, 
+     as is determined to be appropriate by the Administrator, on 
+     the gender, race, ethnicity, national origin, or other 
+     pertinent information concerning individuals that utilize the 
+     services of the assisted organization to ensure that targeted 
+     populations and low-income residents of investment areas are 
+     adequately served.
+       ``(3) Access to records.--The Administrator shall have 
+     access on demand, for the purpose of determining compliance 
+     with this section, to any records of a qualified organization 
+     that receives assistance from the Administration under this 
+     section.
+       ``(4) Review.--Not less than annually, the Administrator 
+     shall review the progress of each assisted organization in 
+     carrying out its strategic plan, meeting its performance 
+     goals, and satisfying the terms and conditions of its 
+     assistance agreement.
+       ``(5) Reporting.--
+       ``(A) Annual reports.--The Administrator shall require each 
+     qualified organization receiving assistance from the 
+     Administration under this section to submit an annual report 
+     to the Administrator on its activities, its financial 
+     condition, and its success in meeting performance
+
+[[Page 23438]]
+
+     goals, in satisfying the terms and conditions of its 
+     assistance agreement, and in complying with other 
+     requirements of this section, in such form and manner as the 
+     Administrator shall specify.
+       ``(B) Availability of reports.--The Administrator, after 
+     deleting or redacting any material as appropriate to protect 
+     privacy or proprietary interests, shall make such reports 
+     submitted under subparagraph (A) available for public 
+     inspection.
+       ``(i) Implementation.--The Administrator shall, by 
+     regulation, establish such requirements as may be necessary 
+     to carry out this section.''.
+
+     SEC. 203. CONFORMING REPEAL.
+
+       Subtitle C (15 U.S.C. 6901 et seq.) of title I of the 
+     Riegle Community Development and Regulatory Improvement Act 
+     of 1994 is repealed.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentlewoman from 
+New York (Ms. Velazquez) and the gentleman from Ohio (Mr. Chabot) each 
+will control 20 minutes.
+  The Chair recognizes the gentlewoman from New York.
+
+
+                             General Leave
+
+  Ms. VELAZQUEZ. Mr. Speaker, I ask unanimous consent that all Members 
+may have 5 legislative days to revise and extend their remarks and 
+include extraneous material on the bill under consideration.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentlewoman from New York?
+  There was no objection.
+  Ms. VELAZQUEZ. Mr. Speaker, I yield myself as much time as I may 
+consume.
+  Small businesses create three out of four new jobs and account for 
+almost half of our country's income. But that is only part of the 
+story. The opportunities through business ownership are limited only by 
+our own imagination and ability. Each year, 700,000 men, women and 
+children follow the dream of entrepreneurship.
+  The vast majority of our businesses are very small. Over 50 percent 
+of all businesses are home based. Most get started without a single 
+employee. But with hard work, that changes. Ultimately, half the people 
+who work in this country now work for small businesses.
+  Small businesses are flexible and more likely to adapt to changes in 
+the economy. They have to be nimble to survive. So if there is one 
+thing we have learned, it is that helping these small businesses start 
+up and grow provides a significant benefit for our local and national 
+economy.
+  One of the best methods devised to encourage start-up small 
+businesses is the small microcredit loan. The SBA Microloan Program 
+makes funds available to nonprofit community-based lenders. In turn, 
+these lenders make small loans to eligible borrowers who are often 
+individual fledgling entrepreneurs that live in the same community 
+where they work.
+  The Microloan Amendments and Modernization Act introduced by my 
+colleague, the ranking member on our committee, Mr. Chabot, improves an 
+already strong program. It will increase the number of lenders and 
+borrowers that will be able to get involved in creating new businesses 
+and help put people in their communities to work. It also encourages 
+credit reporting so that the excellent repayment history of its 
+participants is recorded to their benefit.
+  Finally, the bill takes steps to strengthen the PRIME program, a key 
+initiative that provides counseling to low-income entrepreneurs.
+  Since its inception in 1992, the Microloan Program has been reaching 
+many that otherwise would not be served by the private sector or even 
+the SBA's traditional loan programs. The type of people that use the 
+Microloan Program are borrowers that may be unable to get a loan from 
+traditional sources due to no credit rating or a lack of business 
+experience.
+  By filling this void, microloans have become an important source of 
+assistance for groups who traditionally have had more difficulty 
+accessing capital. These loans fulfill the goal of widely distributing 
+resources, as roughly one third are made in rural areas. It is for 
+these reasons that the program complements the successes of President 
+Clinton's New Market Initiative. Microloans are a low-cost effective 
+way to move people off welfare and turn them into business owners and 
+even employers. There have been only two defaults to the government 
+since the program's inception, and tens of thousands of jobs retained 
+and created. This is a great bargain for the taxpayers.
+  With that, I urge the House to vote for the Microloan Program and 
+this legislation.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. CHABOT. Mr. Speaker, I yield myself such time as I may consume.
+  Mr. Speaker, I rise today in support of H.R. 3020, the Microloan 
+Amendments and Modernization Act.
+  The chairwoman and I have worked together on a cooperative basis to 
+bring this technical but important piece of legislation to the floor. 
+H.R. 3020 represents the first substantive change in the Microloan 
+Program in more than 6 years.
+  According to Dr. Mohammad Yunus, the 2006 Nobel Laureate in Peace and 
+founder of the Grameen Bank, ``microcredit views each person as a 
+potential entrepreneur and turn on the tiny economic engines of a 
+rejected portion of society.''
+  Unlike Bangladesh or other countries that have emulated the Grameen 
+Bank, microcredit in the United States is not aimed at a rejected 
+portion of society, but rather at those individuals who do not have 
+access to commercial financial institutions and the typical resources 
+to manage those funds. Despite the different target audiences, 
+microlending in the United States represents a variation of the concept 
+developed by Dr. Yunus.
+  The Small Business Administration created a pilot program based on 
+the success of the Grameen Bank, and Congress created a permanent 
+authority for the program back in 1992. SBA does not provide 
+microcredit directly to entrepreneurs; instead, the SBA provides below 
+market-rate loans to nonprofit intermediaries. These institutions then 
+make loans to entrepreneurs.
+  As with other SBA financing programs, the SBA does not provide all 
+the funds for financing. Intermediaries must contribute 15 percent of 
+the value of loans in non-Federal funds. But the key to the success of 
+microlending is not the loans; rather, it is the education and 
+counseling that the intermediaries provide to their borrowers.
+  With this knowledge, these entrepreneurs are able to manage their 
+financial resources and ensure repayment of loans. This success is 
+demonstrated by the very low number of defaults by borrowers and cost-
+effective means by which it produces nearly 10,000 jobs a year in 
+areas, including parts of my district in Cincinnati, that need economic 
+revitalization.
+  Despite its success, the Microloan Program needs to be revised in 
+light of changes to the economy during the past 6 years and, in some 
+cases, to update matters that have not been altered since the program's 
+inception more than 15 years ago.
+  Microlenders exist, mainly because normal commercial lending 
+institutions did not provide access to credit for those who are highly 
+credit risky. One way to improve that is to have borrowers' histories 
+passed along to credit bureaus. I think having the SBA work with the 
+intermediaries to accomplish the delivery of credit histories will 
+benefit borrowers.
+  H.R. 3020 also enables the intermediaries to determine the length of 
+credit that will be made available to the borrowers. Given the 
+expertise of the intermediaries, it makes abundant sense for the 
+determinations on the length of loans to rest with the intermediaries 
+and borrowers.
+  I want to emphasize that this change has no impact on the loan 
+obligations of the intermediaries to the SBA. The change involves no 
+risk to the Federal Treasury.
+  H.R. 3020 also raises the level of the average loan size in an 
+intermediary's portfolio from $7,500 to $10,000. This level has not 
+been changed since 1992, and an adjustment is appropriate to take 
+account of inflation in the intervening 15 years.
+  The SBA rightly focuses on the number of small businesses that 
+receive help from its entrepreneurial training partners. However, 
+ensuring that only those individuals with the right aptitude start 
+small businesses is as important as the provision of the technical
+
+[[Page 23439]]
+
+assistance to businesses that have been in existence for years.
+  The Microloan Amendments and Modernization Act recognizes the 
+importance of this training and increases the amount of pre-loan 
+training that intermediaries may provide. H.R. 3020 also provides for 
+an increase in the amount of technical assistance training that 
+intermediaries can contract for from other sources.
+  As the committee heard in testimony from Professor Lisa Servon, this 
+will enable intermediaries to focus on those services that they are 
+best able to perform. Finally, the committee heard from two different 
+witnesses that the cap on interest rates should be removed.
+  We also heard that a rise in interest rates will enable 
+intermediaries to recoup more of their costs, thereby reducing the 
+amount of funds that they must raise from other sources. I would ask 
+that the chairwoman work with us as the bill moves through legislative 
+process to ensure that intermediaries have maximum flexibility to 
+operate their loan programs with the elimination of the interest rate 
+cap.
+  I urge my colleagues to support this legislation.
+  Mr. Speaker, I yield back the balance of my time.
+  Ms. VELAZQUEZ. Mr. Speaker, I want to thank the ranking member for 
+introducing this important piece of legislation, and I also want to 
+thank the staff that worked on this legislation, from the minority 
+staff, Barbara Pineles; from the majority staff, Ross Orban, Michael 
+Day, Adam Minehardt and Andy Jimenez.
+  I strongly urge my colleagues to support the Microloan Program.
+  Mr. Speaker, I yield back the balance of my time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentlewoman from New York (Ms. Velazquez) that the House suspend the 
+rules and pass the bill, H.R. 3020, as amended.
+  The question was taken.
+  The SPEAKER pro tempore. In the opinion of the Chair, two-thirds 
+being in the affirmative, the ayes have it.
+  Ms. VELAZQUEZ. Mr. Speaker, on that I demand the yeas and nays.
+  The yeas and nays were ordered.
+  The SPEAKER pro tempore. Pursuant to clause 8 of rule XX and the 
+Chair's prior announcement, further proceedings on this motion will be 
+postponed.
+
+                          ____________________
+```
