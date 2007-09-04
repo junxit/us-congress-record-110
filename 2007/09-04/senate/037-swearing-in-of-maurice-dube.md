@@ -1,0 +1,74 @@
+---
+granule: CREC-2007-09-04-pt1-PgS11046-3
+date: 2007-09-04
+edition: CREC
+section: SENATE
+page: S11046
+citation: 153 Cong. Rec. S11046
+---
+
+# SWEARING IN OF MAURICE DUBE
+
+**Speaking:** Snowe, Olympia J. (S000663) [R-ME]
+
+```
+                      SWEARING IN OF MAURICE DUBE
+
+● Ms. SNOWE. Mr. President, today I honor Maurice ``Moe'' Dube 
+whom I had the privilege to on August 14 welcome home to Maine and 
+officially swear in as Maine's district director of the U.S. Small 
+Business Administration, SBA. I was incredibly honored to be able to 
+celebrate Moe's appointment with him and his family in Lewiston-Auburn, 
+where both of our roots run so deep.
+  Moe's return to Maine is wonderful news for the numerous small 
+businesses and manufacturers in our state who depend on the SBA and the 
+valuable programs it administers. In my capacity as the ranking member 
+of the Senate Committee on Small Business and Entrepreneurship, I have 
+had the
+
+[[Page S11047]]
+
+privilege of working with Moe during his previous service with the SBA 
+and know that his experience, expertise, and dedication will be a true 
+asset for Maine's robust small business community.
+  Because our State so depends on small businesses and entrepreneurship 
+for our economic livelihood, I have long believed that the district 
+director position is one of Maine's most critical appointments. Indeed, 
+according to the SBA, in 2005, Maine had an estimated 151,000 small 
+businesses of which over 111,000 were led by self-employed 
+entrepreneurs. Of the 40,000 Maine firms with employees, an 
+overwhelming 97.5 percent were small businesses employing fewer than 
+500 employees. Clearly, Maine small businesses are the job creators and 
+drivers of our economy, so it is critical to have a district director 
+who will help our state make the most of the SBA's vital programs.
+  In his new capacity as district director, Moe will, among other 
+things, be responsible for the administration of the SBA business loan 
+portfolio; the oversight of the Maine Small Business Development Center 
+Network; the coordination of Maine's SCORE chapters; and oversight of 
+the Women's Business Center at Coastal Enterprises, Inc.
+  Although Moe will clearly have a lot on his plate as he takes the 
+reins as district director, I am confident that his long experience at 
+the SBA, which he joined in 1987, makes him eminently qualified. Moe 
+began his SBA career as a liquidation loan officer in the SBA's Maine 
+district office before moving to the business development division, 
+where he was promoted to assistant district director for business 
+development and later to deputy district director. His most recent 
+assignment prior to relocating to Maine was as district director of the 
+SBA's Massachusett district office.
+  When Moe was with the Maine SBA, I and my staff had the pleasure of 
+working hand-in-glove with him on a variety of issues on behalf of our 
+State's small businesses. I can tell you firsthand that his 
+comprehensive background, keen acumen, and tireless dedication will be 
+outstanding assets for Maine's small business community. And perhaps 
+most importantly, in an ideal ``one-two punch'' for our small 
+businesses, Moe not only knows how to deliver SBA programs as 
+effectively as possible--but Moe also knows Maine. I look forward to 
+continuing to collaborate with Moe as he advances the SBA's agenda.
+  I know Moe will make a fine district director, and I am so pleased 
+that a man of his talents has accepted this position, which is so vital 
+to Maine's economy. I look forward to working with him closely to 
+ensure that Maine small businesses will continue to thrive and create 
+opportunities for all Mainers.●
+
+                          ____________________
+```

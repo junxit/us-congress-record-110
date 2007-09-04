@@ -1,0 +1,43 @@
+---
+granule: CREC-2007-09-04-pt1-PgS11046
+date: 2007-09-04
+edition: CREC
+section: SENATE
+page: S11046
+citation: 153 Cong. Rec. S11046
+---
+
+# TRIBUTE TO COBB ENERGY PERFORMING ARTS CENTRE
+
+**Speaking:** Isakson, Johnny (I000055) [R-GA]
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+             TRIBUTE TO COBB ENERGY PERFORMING ARTS CENTRE
+
+● Mr. ISAKSON. Mr. President, today I wish to honor in the 
+Record the grand opening of the Cobb Energy Performing Arts Centre.
+  The Cobb Energy Performing Arts Centre is the first major performing 
+arts facility built in metro Atlanta in four decades and upon opening 
+will immediately become the new home of the Atlanta Opera.
+  A great deal of planning has gone into the development of this state-
+of-the-art landmark on Atlanta's horizon by great friends and community 
+leaders such as Earl Smith, Travis Duke, Johnny Gresham, Max Bacon, 
+Bill Dunaway, Sam Olens, Robert Voyles, and Michele Swann. Special 
+gratitude also goes to John Williams, a great benefactor and the 
+namesake of this grand 2,750-seat theatre.
+  The arts are an essential ingredient for the quality of life of a 
+community and the Cobb Energy Performing Arts Centre will improve the 
+quality of life not just for the community of Cobb but for the entire 
+metropolitan Atlanta region and the Southeastern United States.
+  It gives me a great deal of pleasure and it is a privilege to 
+recognize on the floor of the Senate the grand opening of the Cobb 
+Energy Performing Arts Centre. I congratulate the community on this 
+wonderful new crown jewel.●
+
+                          ____________________
+```
