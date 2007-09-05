@@ -1,0 +1,575 @@
+---
+granule: CRECB-2007-pt17-Pg23552
+date: 2007-09-05
+edition: CRECB
+section: HOUSE
+page: 23552
+---
+
+# RECOGNIZING THE 75TH BIRTHDAY OF DESMOND MPILO TUTU
+
+```
+          RECOGNIZING THE 75TH BIRTHDAY OF DESMOND MPILO TUTU
+
+  Mr. FALEOMAVAEGA. Madam Speaker, I move to suspend the rules and 
+agree to the resolution (H. Res. 34) recognizing the 75th birthday of 
+Desmond Mpilo Tutu, South African Anglican Archbishop of Cape Town, and 
+Nobel Peace Prize recipient, as amended.
+  The Clerk read the title of the resolution.
+  The text of the resolution is as follows:
+
+                               H. Res. 34
+
+       Whereas Archbishop Desmond Mpilo Tutu has been recognized 
+     as one of the 20th century's leaders for freedom, justice, 
+     and human rights for all;
+       Whereas Archbishop Tutu, as a religious leader and 
+     Secretary-General of the South African Council of Churches 
+     from 1976 until 1978, worked against apartheid in South 
+     Africa with the agreement of nearly all South African 
+     churches;
+       Whereas Archbishop Tutu consistently advocated 
+     reconciliation between all parties involved in apartheid and, 
+     though he was most firm in denouncing South Africa's white-
+     ruled government, Archbishop Tutu was also harsh in his 
+     criticism of the violent tactics of some anti-apartheid 
+     groups and denounced terrorism;
+       Whereas Archbishop Tutu spoke strongly in support of non-
+     violent change and economic sanctions against South Africa 
+     and as a result had his passport revoked by the South African 
+     Government;
+       Whereas Archbishop Tutu led a historical march to a whites-
+     only beach, where he and supporters were chased off with 
+     whips;
+       Whereas, on October 16, 1984, Archbishop Tutu was awarded 
+     the Nobel Peace Prize in recognition of his outstanding 
+     leadership, courage, heroism, and use of nonviolence in the 
+     struggle against apartheid, and the Nobel Committee cited his 
+     ``role as a unifying leader figure in the campaign to resolve 
+     the problem of apartheid in South Africa'';
+       Whereas a month after winning the Nobel Peace Prize, 
+     Archbishop Tutu was elected as the first black Anglican 
+     bishop of Johannesburg;
+       Whereas, on September 7, 1986, Archbishop Tutu became the 
+     first black person to lead the Anglican Church in South 
+     Africa;
+       Whereas, in 1994, after the end of apartheid and the 
+     election of President Nelson Mandela, Archbishop Tutu was 
+     appointed as Chairman of South Africa's Truth and 
+     Reconciliation Commission, to investigate apartheid-era 
+     crimes, where his policy of forgiveness and reconciliation 
+     has become an international example of conflict resolution, 
+     and a trusted method of post-conflict reconstruction;
+       Whereas, on October 7, 1931, Archbishop Tutu was born in 
+     Klerksdorp, Transvaal, to a school teacher and an uneducated 
+     mother and was educated at Johannesburg Bantu High School;
+       Whereas Archbishop Tutu trained as a high school teacher at 
+     Pretoria Bantu Normal College and graduated from the 
+     University of South Africa in 1954, and after teaching for 
+     three years was ordained as a priest in 1960;
+       Whereas Archbishop Tutu studied theology in England in 
+     1962, received a Masters of Theology from University of 
+     London in 1966, was appointed as the first black South 
+     African to hold the position of Dean of St. Mary's Cathedral 
+     in Johannesburg in 1975, and became the first black General 
+     Secretary of the South African Council of Churches in 1978;
+       Whereas Archbishop Tutu is an international lecturer and 
+     philosopher and has received honorary doctorates from ten 
+     leading universities in the United States, Britain, and 
+     Germany;
+       Whereas Archbishop Tutu has been awarded a number of 
+     prestigious awards, including the Order for Meritorious Award 
+     (Gold), the Archbishop of Canterbury's Award for Outstanding 
+     Service to the Anglican Communion, the Prix d'Athene, and the 
+     Martin Luther King Jr. Humanitarian Award of Annual Black 
+     American Heroes and Heroines Day;
+       Whereas out of deep concern for the challenges facing all 
+     of the people of the world, in July 2007 Archbishop Tutu 
+     helped assemble The Elders, an historic group of world 
+     leaders seeking to contribute their wisdom, independent 
+     leadership, and integrity in tackling some of the world's 
+     toughest problems;
+       Whereas October 7, 2007, will mark the 76th birthday of 
+     Archbishop Demand Mpilo Tutu; and
+       Whereas Archbishop Tutu has fought for a democratic and 
+     just society without racial divisions, a common system of 
+     education, a world which promotes the rights and 
+     opportunities of the marginalized, disadvantaged, and 
+     disenfranchised, and continues to pursue an active 
+     international ministry of peace: Now, therefore, be it
+       Resolved,  That the House of Representatives--
+       (1) honors the accomplishments of Archbishop Desmond Mpilo 
+     Tutu;
+       (2) recognizes and congratulates his consistent efforts to 
+     promote dialogue to peacefully resolve conflicts between 
+     people in Africa and around the world; and
+       (3) extols the contributions of Archbishop Tutu to South 
+     Africa, the United States, and the international community.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentleman from 
+American Samoa (Mr. Faleomavaega) and the gentlewoman from Florida (Ms. 
+Ros-Lehtinen) each will control 20 minutes.
+  The Chair recognizes the gentleman from American Samoa.
+
+
+                             General Leave
+
+  Mr. FALEOMAVAEGA. Madam Speaker, again I ask unanimous consent that 
+all Members may have 5 legislative days to revise and extend their 
+remarks and include extraneous material on the resolution under 
+consideration.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from American Samoa?
+  There was no objection.
+  Mr. FALEOMAVAEGA. Madam Speaker, I rise in strong support of this 
+resolution and yield myself such time as I may consume.
+  First of all, I would like again to thank our distinguished chairman 
+of the committee, the gentleman from California (Mr. Lantos), and our 
+senior ranking member of the committee, the gentlelady from Florida 
+(Ms. Ros-Lehtinen) for their support in bringing this legislation to 
+the floor.
+  I would particularly like to thank my distinguished colleague, the 
+chief sponsor of this legislation, the gentlelady from Texas (Ms. 
+Jackson-Lee) for introducing this important resolution to honor 
+Archbishop Desmond Tutu of South Africa for his lifetime of human 
+rights work.
+  Madam Speaker, Archbishop Tutu is unquestionably one of the most 
+important and accomplished advocates of human rights and peace on the 
+face of this planet. In the past few years, Bishop Tutu has worked 
+tirelessly to promote religious freedom and self-sovereignty around the 
+world, using his reputation and his work in South Africa as a launching 
+pad to do good. For instance, he has worked to highlight the horrendous 
+human rights situation in Burma and repeatedly called on the Burmese 
+Government to free the champion of democracy there, Aung San Suu Kyi.
+  But of all his work for humankind, he is perhaps best known for 
+chairing the South Africa Peace and Reconciliation Commission after the 
+scourge of apartheid ended in that nation.
+  Under the rule of the Afrikaner Nationalist Party, black South 
+Africans were subjected to unspeakable dehumanizing social policies and 
+draconian laws. These terrible measures separated families, denied a 
+decent education to millions of children, and
+
+[[Page 23553]]
+
+forced hundreds of thousands from their homes into segregated 
+territories, or bantustans.
+  Given the nature of the oppression, South Africa could have been a 
+country washed in blood by black Africans seeking revenge once white 
+minority rule ended. But through his characteristic patience and 
+wisdom, Bishop Tutu helped guide South Africans, black, brown and 
+white, through a national process of reconciliation, a forum where the 
+horrors of apartheid were told by both victims and perpetrators. And 
+most importantly, there was no retribution, only truth and 
+reconciliation.
+  Bishop Tutu and his colleagues traveled throughout South Africa, from 
+village to village, and allowed apartheid's victims to speak as long as 
+they needed to tell their stories. For days at a time he sat and 
+listened to stories of the hellish nightmare innocent victims of 
+apartheid had to endure.
+  The process of simply telling proved an enormous healing experience 
+for individuals in the South African nation. And the stories have been 
+archived so that South Africans in the future can know their past and 
+can appreciate their present.
+  This effort, and his spiritual leadership throughout the trying times 
+of his nation made Bishop Tutu an international hero. He is a human 
+rights champion and has been the winner of numerous awards, including 
+the prestigious Nobel Peace Prize in 1984.
+  Madam Speaker, as we celebrate Bishop Tutu's 76th birthday next 
+month, we should be mindful of the lessons he has brought in his 
+service to mankind, particularly in this troubling time when human 
+rights violations are still so widespread around the world.
+  As he said famously in his Nobel Peace acceptance speech, 
+``Oppression dehumanizes the oppressor as much as, if not more, the 
+oppressed.''
+  That axiom, to me, Madam Speaker, is a profound admonition to tyrants 
+around the world.
+  And I cannot help, Madam Speaker, but to say that if you say 
+something about Bishop Tutu, you have to add his colleague, Nelson 
+Mandela. Now here was a man that was in prison for 29 years, almost 30 
+years. And you would think that there is nothing on his mind than to 
+seek vengeance and retribution against what the apartheid government 
+did to him for all those years, but instead, as far as I'm concerned, 
+the most Christ-like person that has ever come out of that prison, Mr. 
+Mandela, and for the leadership that he displayed in bringing all 
+different factions, nationalities and ethnicities in South Africa 
+together to build a good nation.
+  I remember years ago, Madam Speaker, the World Cup. I don't know if 
+my colleagues are familiar with the sport of rugby, but the World Cup 
+rugby tournament is on in France right now. Years ago, the all-black 
+rugby national team representing New Zealand had a very difficult time 
+playing against the Spring Boks from South Africa, especially if they 
+had an Amari Polynesian or a Samoan Polynesian as a member of that all-
+blacks team. The Spring Boks of South Africa refused to play the all-
+blacks of New Zealand simply because there are two people of color that 
+are members of the team representing New Zealand. They got the two 
+countries pretty heated at times. There was no question about the 
+bigotry and the racism that existed at that time as far as apartheid is 
+concerned.
+
+                              {time}  1115
+
+  Madam Speaker, today we honor Bishop Desmond Tutu and all that he 
+represents, and I call on my colleagues to vote to support this 
+important legislation.
+  Madam Speaker, I reserve the balance of my time.
+  Ms. ROS-LEHTINEN. Madam Speaker, I yield myself such time as I may 
+consume.
+  Madam Speaker, I rise today also in support of House Resolution 34, 
+which honors the Most Reverend Desmond Tutu, the Archbishop Emeritus of 
+Cape Town, South Africa; and an outspoken advocate for peace, equality, 
+and human rights around the globe.
+  While Archbishop Tutu is regarded by some as a controversial figure, 
+he is universally recognized as a hero in the struggle against the 
+apartheid regime in South Africa. There he served as a beacon of hope, 
+committed to peace and unity in an era marked by violence and 
+oppression. He passionately advocated for nonviolent opposition to the 
+racist apartheid regime while campaigning internationally for the 
+imposition of economic sanctions against South Africa.
+  And even in the face of the most egregious human rights abuses 
+reinforced by draconian laws, including the Population Registration Act 
+of 1950, the Group Areas Act of 1950, the Lands Act of 1954 and 1955, 
+and the Bantu Homelands Citizenship Act of 1970, he inspired 
+disenfranchised South Africans to believe that one day justice would 
+prevail and freedom would come.
+  Madam Speaker, I reserve the balance of my time.
+  Mr. FALEOMAVAEGA. I thank my colleague and dear friend from Florida 
+for her statement in support of this resolution.
+  At this time, Madam Speaker, it is with pleasure that I yield 5 
+minutes to my good friend, the chief sponsor of this proposed bill, the 
+gentlewoman from Texas, senior member of the Judiciary Committee and 
+also a member of the House Foreign Affairs Committee (Ms. Jackson-Lee).
+  Ms. JACKSON-LEE of Texas. Madam Speaker, let me, first of all, thank 
+my distinguished colleague, the manager of the bill and a distinguished 
+member of the Foreign Affairs Committee, Chairman Faleomavaega, for the 
+very kind words that he has offered; and to the ranking member of the 
+Foreign Affairs Committee, Congresswoman Ileana Ros-Lehtinen, for her 
+supporting words; and chiefly two very important persons who have 
+assisted in this legislation, Chairman Lantos for his support and the 
+very excellent committee staff that have supported us, along with our 
+dear subcommittee Chair, Donald Payne, who is renowned for his 
+commitment to Africa, and certainly we appreciate his friendship and 
+support of this legislation.
+  Might I acknowledge the cosponsors who were eager to join to 
+recognize this distinguished but bountiful with words and compassion in 
+his small package of a man but yet his gigantic heart, mind, and 
+spirit, Bishop Mpilo Tutu, who, as you can see, is a man that commands 
+thousands for his vision.
+  We are proud to be able to, nearing the 76th birthday, acknowledge 
+his 75th birthday and his 75th year. So might I also express 
+appreciation for my staff, Yahannus Tsahani and Nina Besser, for their 
+help in this legislation.
+  Let me say to you, Madam Speaker, that Archbishop Tutu was not lost 
+with words or passion. He said, ``I am not interested in picking up 
+crumbs of compassion thrown from the table of someone who considers 
+himself my master. I want the full menu of rights.'' He is a man of 
+immense courage and vision. He has long served as the moral voice of 
+the oppressed populations. No one who has ever met, spoken to, or 
+worked with Archbishop Tutu is the same afterwards.
+  He is, of course, linked with Father Mandela, arm in arm as Father 
+Mandela maintained his life and his integrity for 29 years. It was 
+Bishop Tutu who had a voice, steering the religious and faith community 
+away from its closed attitude to open to the Beatitudes, that, in fact, 
+``Blessed are the merciful for they shall obtain mercy.'' Bishop Tutu 
+believed in that.
+  As a tireless advocate for ending discrimination, Desmond Tutu's 
+career is truly extraordinary. In 1975 he became the first black 
+African Dean of Mary's Cathedral in Johannesburg, South Africa. From 
+1976 to 1978, he served as the Secretary-General of the South African 
+Council of Churches, once again being the first black African to do so. 
+He went on to head South Africa's Truth and Reconciliation Commission 
+from 1996 to 1998, investigating prior apartheid-related crimes.
+  It would be interesting if we were at that point in Iraq, but we must 
+set the picture of what it means to bring together a commission that 
+addresses the pain and hurt, brutality and devastation of black 
+Africans, South Africans,
+
+[[Page 23554]]
+
+at the hands of apartheid. It was not easy. It would have been better 
+to sit in accusatory fashion, point fingers, and never resolve. But it 
+was the calm demeanor, the spirit, the religious faith of Bishop Tutu 
+that allowed this process to go forward and to allow it to go forward 
+as others have now looked back and said, well done, well done.
+  Archbishop Tutu is perhaps best known for his courageous opposition 
+to the internationally condemned apartheid regime that persisted in his 
+homeland until democratic elections were finally held in 1994. It was 
+for his nonviolent struggle in opposition to apartheid that he was 
+awarded the Nobel Peace Prize in 1984 in recognition of his courage, 
+heroism, and peaceful methods. The Nobel committee called him a 
+``unifying leader-figure in the campaign to resolve the problem of 
+apartheid in South Africa.'' The committee went on to state, ``the 
+means by which this campaign is conducted is of vital importance for 
+the whole of the continent of Africa and for the cause of peace in the 
+world.'' In a press release discussing the award, the Nobel committee 
+wrote, ``This year's award should be seen as a renewed recognition of 
+the courage and heroism shown by black South Africans in their use of 
+peaceful methods in the struggle against apartheid.''
+  How wonderful it would be if the conflicts around the world and in 
+the Middle East would follow this straight and narrow path of a 
+peaceful opposition.
+  ``This recognition is also directed to all who throughout the world 
+use such methods to stand in the vanguard of the campaign for racial 
+equality as a human right.''
+  In recognition of his vast intellectual ability, Desmond Tutu has 
+received numerous honorary doctorates from several universities, 
+including Harvard, Kent, Columbia, Aberdeen, and Howard. Let me also 
+indicate as well that he has won the Order of Meritorious Gold Award; 
+the Martin Luther King, Jr. Nonviolent Peace Prize; and a number of 
+others.
+  He has also been a survivor of cancer. He is someone who has never 
+stopped teaching, working, and understanding.
+  And for those of us who are products of America's civil rights 
+movement, I thought would be appropriate to bring to light and to 
+attention the reflection of two giants: Rosa Parks and Archbishop Tutu, 
+to bring together the trials and tribulations, the struggles of African 
+Americans in the United States with someone who fully understood what 
+struggle was all about.
+  I am delighted to join with my colleagues asking for your full 
+support in honoring Archbishop Desmond Mpilo Tutu, a man who stood 
+between the schism of two oceans, bringing America and Africa together 
+through the idea of unity, peace, generosity, justice, and opportunity 
+for all.
+  Congratulations, Bishop Tutu. I ask my colleagues to support this 
+legislation.
+  Madam Speaker, I rise in strong support of H. Res. 34, which honors 
+the life and accomplishments of Desmond Mpilo Tutu, South African 
+Archbishop of Cape Town and recipient of the Nobel Peace Prize. I have 
+been pleased to work with the Committee on Foreign Affairs on this 
+important legislation, and I would like to thank Chairman Lantos for 
+his support for this legislation.
+  Madam Speaker, Archbishop Tutu once stated, ``I am not interested in 
+picking up crumbs of compassion thrown from the table of someone who 
+considers himself my master. I want the full menu of rights.'' He is a 
+man of immense courage and vision, and he has long served as the moral 
+voice of oppressed populations. No one who has ever met, spoken to, or 
+worked with Archbishop Tutu is the same afterwards.
+  As a tireless advocate of ending discrimination, Desmond Tutu's 
+career is truly extraordinary. In 1975, he became the first black 
+African Dean of Mary's Cathedral, in Johannesburg, South Africa. From 
+1976-1978, he served as the Secretary-General of the South African 
+Council of Churches; once again, being the first black African to do 
+so. He went on to head South Africa's Truth and Reconciliation 
+Commission from 1996-1998, investigating prior apartheid related 
+crimes.
+  Archbishop Tutu is perhaps best known for his courageous opposition 
+to the internationally-condemned apartheid regime that persisted in his 
+homeland until democratic elections were finally held in 1994. It was 
+for his non-violent struggle in opposition to apartheid that he was 
+awarded the Nobel Peace Prize in 1984, in recognition of his courage, 
+heroism, and peaceful methods. The Nobel committee called him a 
+``unifying leader-figure in the campaign to resolve the problem of 
+apartheid in South Africa.'' The committee went on to state, ``the 
+means by which this campaign is conducted is of vital importance for 
+the whole of the continent of Africa and for the cause of peace in the 
+world.'' In a press release discussing the award, the Nobel committee 
+wrote, ``This year's award should be seen as a renewed recognition of 
+the courage and heroism shown by black South Africans in their use of 
+peaceful methods in the struggle against apartheid. This recognition is 
+also directed to all who, throughout the world, use such methods to 
+stand in the vanguard of the campaign for racial equality as a human 
+right.''
+  In recognition of his vast intellectual ability, Desmond Tutu has 
+received numerous honorary doctorates from several universities 
+including Harvard, Kent, Colombia, Aberdeen, and Howard. In addition to 
+the Nobel Peace Prize, Archbishop Tutu has received numerous other 
+prestigious awards, including the Order of Meritorious Gold Award, 
+Martin Luther King, Jr. Non-Violent Peace Prize, the Archbishop of 
+Canterbury's Award for Outstanding Service to the Anglican Communion, 
+Prix d'Athene, Albert Schweitzer Prize for Humanitarianism, Maguebela 
+Prize for Liberty, as well as the International Gandhi Peace Prize.
+  Archbishop Desmond Mpilo Tutu will celebrate his 76th birthday on 
+October 7, 2007. This legislation recognizes this important date, 
+honors his accomplishments, and extols the contributions that he has 
+made to South Africa, the United States, and to the international 
+community.
+  I strongly urge my colleagues to join me in recognizing the life and 
+accomplishments of this truly extraordinary man. I conclude with 
+another quote from Archbishop Tutu: ``If you are neutral in situations 
+of injustice, you have chosen the side of the oppressor. If an elephant 
+has its foot on the tail of a mouse and you say that you are neutral, 
+the mouse will not appreciate your neutrality.'' Archbishop Tutu has 
+spent his life in defense of the mouse, and his work has proven that, 
+with proper pressure and leverage, the elephant can be forced to move.
+  Ms. ROS-LEHTINEN. Madam Speaker, I yield myself such time as I may 
+consume.
+  In recognition of his efforts to peacefully protest an immoral and 
+unjust system while leading some 20 million South Africans toward 
+freedom, Desmond Tutu was awarded the Nobel Peace Prize in 1984. In 
+presenting the award, the chairman of the Norwegian Nobel Committee 
+recognized that the repression of the apartheid regime was so brutal 
+that ``a violent rebellion would be an understandable reaction.'' 
+However, he stated, that on a broad front a campaign that is being 
+fought with the weapons of spirit and reason, a campaign for truth, 
+freedom, and justice, the contribution that Desmond Tutu has made and 
+is still making represents a hope for the future. He is an exponent of 
+the only form of conflict solving which is worthy of civilized nations.
+  With that, I reserve the balance of my time.
+  Mr. FALEOMAVAEGA. Madam Speaker, it is my honor to yield 5 minutes to 
+my good friend and senior member of our Foreign Affairs Committee, the 
+gentleman from New Jersey (Mr. Payne).
+  Mr. PAYNE. Madam Speaker, let me thank Mr. Lantos and Ms. Ileana Ros-
+Lehtinen and the floor manager, Mr. Faleomavaega, for bringing this 
+resolution forward, but certainly to the sponsor, Congresswoman Sheila 
+Jackson-Lee, for her outstanding work that she does on the Africa 
+Subcommittee.
+  I rise to speak in support of H. Res. 34, a resolution recognizing 
+the 75th birthday of Archbishop Desmond Tutu. Archbishop Tutu will 
+celebrate his 76th birthday on October 7 of this year, and the legacy 
+he has created during three-quarters of a century on this Earth is 
+truly inspiring.
+  It is no exaggeration to say that without his courage, commitment, 
+and leadership, the South Africa we know today may not exist. For over 
+four decades, Bishop Tutu was a vocal advocate and activist for 
+democracy and human rights in South Africa. He defended the rights of 
+not only black South Africans but for brown and white South Africans as 
+well. As I mentioned earlier, Senator Lugar gave the deciding vote to
+
+[[Page 23555]]
+
+override the veto of President Reagan of the Comprehensive Anti-
+Apartheid Act, which therefore put sanctions on South Africa, which 
+helped to move towards a free, democratic South Africa, nonracial.
+  Archbishop Tutu's support for regime change through reconciliation 
+between the different ethnic groups in South Africa is well known and I 
+believe should serve as a model not only in Africa but in Eastern 
+Europe, the Middle East, and Asia.
+  And I believe that his work as chairman of the Truth and 
+Reconciliation Commission helped prevent open violence and bloodshed in 
+South Africa in the wake of apartheid following it. Truly Archbishop 
+Tutu practiced what he preached.
+  What amazes me about Bishop Tutu is his tireless effort on behalf of 
+those who are disadvantaged, disenfranchised, and disposed. Many men 
+would have taken a rest after seeing a vision they worked so hard to 
+achieve come to fruition. But not him. Not Bishop Tutu. He continues to 
+advocate for people around the world from West Papua to Zimbabwe.
+  He has led efforts to bring attention to the spread of HIV/AIDS and 
+the dangers of extremely drug-resistant tuberculosis, XDR. As a matter 
+of fact, Bishop Tutu wrote me a letter in February bringing out the 
+fact that 50 people of 53 in South Africa died from this disease, and I 
+had a hearing long before the person of the United States traveled 
+around the world with this XDR, drug-resistant, TB. So it was Bishop 
+Tutu that brought it to my attention. As a matter of fact, we raised it 
+with the Foreign Operations appropriations committee, and we were able 
+to increase the funding for this disease by $50 million in this year's 
+appropriations bill. The MDR- and the XDR-TB are things where it was 
+Bishop Tutu who brought it to our attention.
+  His latest endeavor will be to serve as chairman of the Council of 
+Elders, a group formed by the former South African President Nelson 
+Mandela this past July. Bishop Tutu worked with Reverend Allan Boesak 
+years ago and Mr. Oliver Tambo, who was chairman of the ANC.
+  Archbishop Tutu's tireless work on behalf of the people of South 
+Africa and, indeed, the world is awe inspiring.
+
+                              {time}  1130
+
+  He should serve as an example to all of us of what compassion and 
+commitment can achieve. I congratulate him on his life work and salute 
+him on the occasion of his birthday.
+  Ms. ROS-LEHTINEN. Madam Speaker, I yield myself such time as I may 
+consume.
+  Following the dismantling of the apartheid regime and the conduct of 
+South Africa's first democratically contested multi-party elections in 
+1994, Archbishop Tutu was appointed to share South Africa's Truth and 
+Reconciliation Commission.
+  Tasked with investigating the gross human rights violations that had 
+occurred over the preceding 34 years, it was feared that the TRC would 
+reopen old wounds and once again plunge the country into crisis. 
+However, Archbishop Tutu used this platform to urge forgiveness and 
+reconciliation rather than revenge for past injustices. It, therefore, 
+comes as no surprise that South Africa's TRC now serves as a model for 
+post-conflict resolutions around the globe. And at nearly 76 years of 
+age, Archbishop Tutu has not slowed down a bit. Given his continued 
+advocacy for peace and human rights in Africa and beyond, it is 
+appropriate that this body honor him again today.
+  I would like to thank the sponsor, Ms. Jackson-Lee, for introducing 
+this important resolution and for agreeing to changes so that it 
+reflects a celebration of his upcoming 76th birthday, which will be 
+celebrated by all of us on October 7.
+  Madam Speaker, I thank you for giving us the opportunity to bring 
+House Resolution 34 to the floor today. And I urge my colleagues to 
+vote ``yes'' on its passage.
+  With that, Madam Speaker, I yield back the balance of my time.
+  Mr. RANGEL. Madam Speaker, I rise today to express my full support 
+for H. Res. 34, a bill recognizing the 75th birthday of Desmond Tutu, 
+South African Anglican Archbishop of Cape Town, and Nobel Peace Prize 
+recipient. I thank Congresswoman Sheila Jackson-Lee for introducing 
+this bill to give us all an opportunity to celebrate the life of this 
+remarkable leader.
+  Words alone can't express my sincere admiration for Desmond Tutu and 
+what he has contributed to the ending of apartheid and the founding of 
+the new South Africa. He is one person who truly embodies and 
+exemplifies in word and deeds justice, peace, courage, humility, 
+dignity, strength, patience, understanding, leadership, and compassion.
+  I truly admire Desmond Tutu for committing his life to changing South 
+Africa and the world. One of the most oppressive eras in world history 
+for black South Africans was living under the apartheid system. This 
+awful system, which began in 1948, legally classified Blacks, Indians, 
+Whites, and Colored people and called for segregation. The apartheid 
+rules created ethnic based territories, in which those for Colored 
+people were not equal to those for Whites. Thus, creating a nation in 
+which Colored people, although the majority, were formally and legally 
+justified to be oppressed, marginalized, and disenfranchised. Despite 
+such injustice, Desmond Tutu worked tirelessly to reverse apartheid 
+utilizing a non-violent approach. I believe his heart and soul rejoiced 
+when apartheid was finally dismantled in 1994. His spirit is truly 
+admirable.
+  Desmond Tutu has been recognized with many prestigious awards for his 
+contribution to mankind, all of which has made the world a better 
+place. I'm so grateful to have witnessed his life and work. I urge my 
+colleagues to honor him by supporting H. Res. 34. I also encourage 
+people all over the world to learn about and become inspired by his 
+life, work, and commitment to inspire world peace.
+  Mr. AL GREEN of Texas. Madam Speaker, it is a privilege to support 
+House Resolution 34 and to honor the life and works of Archbishop 
+Desmond Tutu, an ardent advocate of civil rights for all.
+  Archbishop Tutu became the Dean of St. Mary's Cathedral in 
+Johannesburg in 1975, becoming the first black African to hold that 
+position. In 1978, he went on to become the General Secretary of the 
+South African Council of Churches (SACC), an ecumenical organization 
+working for social justice, where Archbishop Tutu was again the first 
+black African to hold his position. In this capacity, Archbishop Tutu 
+performed yeoman's work in crusading for racial justice and the end of 
+apartheid. Indeed, under Archbishop Tutu's leadership, SACC's 
+nonviolent leadership played a pivotal role in bringing about the 
+disintegration of South Africa's apartheid government.
+  In 1984, in recognition of this work, Archbishop Tutu was awarded the 
+Nobel Peace Prize, a well-deserved honor given all of his efforts. This 
+award, though, did not signify the end of Archbishop Tutu's efforts to 
+create a more just world. In 1986, he was elected the Archbishop of 
+Cape Town, making him the head of the Anglican Church in South Africa 
+and giving him an appropriately prominent platform for his message in 
+support of equality.
+  After the downfall of South Africa's apartheid government, Archbishop 
+Tutu continued to be an inspiration for us all. In 1996, President 
+Nelson Mandela appointed him to chair South Africa's Truth and 
+Reconciliation Commission, a body designed to probe human rights 
+violations under the apartheid government and to reconcile the 
+country's black and white communities. This commission created a new 
+model for countries looking to overcome violent, discriminatory 
+histories in peaceful ways. Archbishop Tutu later became the founding 
+trustee of the Desmond Tutu Peace Centre, an organization dedicated to 
+spreading peace through South Africa and the world.
+  Archbishop Desmond Tutu's life provides a shining example of 
+compassion, dedication and unyielding work for justice. I congratulate 
+Archbishop Tutu for reaching his 75th birthday and for all of his good 
+works over the course of his life, and I commend my friend and 
+colleague from the great state of Texas, Ms. Jackson-Lee, for 
+introducing this resolution.
+  Mr. FALEOMAVAEGA. Madam Speaker, I have no further speakers on this 
+proposed bill, and I yield back the balance of my time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from American Samoa (Mr. Faleomavaega) that the House suspend 
+the rules and agree to the resolution, H. Res. 34, as amended.
+  The question was taken; and (two-thirds being in the affirmative) the 
+rules were suspended and the resolution, as amended, was agreed to.
+  The title was amended so as to read:
+  ``A resolution recognizing the life and accomplishments of Desmond
+
+[[Page 23556]]
+
+Mpilo Tutu, South African Anglican Archbishop of Cape Town, and Nobel 
+Peace Prize recipient.''.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```

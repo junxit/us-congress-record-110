@@ -1,0 +1,35 @@
+---
+granule: CRECB-2007-pt17-Pg23545-3
+date: 2007-09-05
+edition: CRECB
+section: HOUSE
+page: 23545
+---
+
+# GAO REPORT FINDS LITTLE PROGRESS IN IRAQ
+
+```
+                GAO REPORT FINDS LITTLE PROGRESS IN IRAQ
+
+  (Mr. YARMUTH asked and was given permission to address the House for 
+1 minute.)
+  Mr. YARMUTH. Madam Speaker, President Bush continues to ignore 
+reality in Iraq, instead glossing over the deteriorating situation 
+while asking for more money from Congress and more personal sacrifice 
+from our troops.
+  A report released by the White House in July claimed that progress 
+had been made on eight of the 18 benchmarks mandated by the Congress. 
+But a new, unbiased report from the GAO shows that the situation is 
+even worse than the White House led us to believe.
+  According to the GAO report, Iraq has failed to meet all but three of 
+the 18 benchmarks required for political and military progress in Iraq. 
+Some of the report's most disconcerting findings include the fact that 
+the capabilities of Iraqi security forces have not improved and that 
+violence remains high.
+  Madam Speaker, with the release of this discouraging and objective 
+report, Republicans in this body must decide whether to continue 
+rubber-stamping the President's failed policy in Iraq or begin working 
+with Democrats to bring our troops home.
+
+                          ____________________
+```

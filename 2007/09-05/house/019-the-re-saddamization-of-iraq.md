@@ -1,0 +1,37 @@
+---
+granule: CRECB-2007-pt17-Pg23545-6
+date: 2007-09-05
+edition: CRECB
+section: HOUSE
+page: 23545
+---
+
+# THE ``RE-SADDAMIZATION'' OF IRAQ
+
+```
+                    THE ``RE-SADDAMIZATION'' OF IRAQ
+
+  (Mr. INSLEE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. INSLEE. Madam Speaker, last week I talked to a father who lost 
+his son in May in Iraq. He was, of course, devastated. He asked me a 
+question: Why did my son die in Iraq?
+  That is a question that will be on all of our minds in the coming 
+days when we receive the new report from Iraq. When we look at the 
+report in a very calm, dispassionate manner, I hope we think about what 
+is really going on in Iraq. What is really going on in Iraq, what the 
+President has crowed about as a great success in these regions is
+
+[[Page 23546]]
+
+what you might call the ``re-Saddamization'' of Iraq.
+  The President is going to brag about the sense that he is now giving 
+more power to tribes and tribal sheikhs who at some point when we 
+eventually leave Iraq will be better equipped and better armed to fight 
+the central government that the President used to crow about.
+  I think we need to have a calm, dispassionate review of what we're 
+doing. We are creating the conditions that could result in a worse 
+civil war. We have to have a calm review and make the right choices.
+
+                          ____________________
+```
