@@ -1,0 +1,39 @@
+---
+granule: CREC-2007-09-05-pt1-PgH10082-2
+date: 2007-09-05
+edition: CREC
+section: HOUSE
+page: H10082
+citation: 153 Cong. Rec. H10082
+---
+
+# PRIORITIZE CHILDREN'S HEALTH
+
+**Speaking:** Pallone, Frank (P000034) [D-NJ]
+
+```
+                      PRIORITIZE CHILDREN'S HEALTH
+
+  (Mr. PALLONE asked and was given permission to address the House for 
+1 minute.)
+  Mr. PALLONE. Madam Speaker, President Bush has threatened to veto a 
+bill that would provide health care insurance to 5 million children who 
+are currently uninsured. The President's reason: The bill is simply too 
+expensive. But what he ignores is the fact that the CHAMP Act is fully 
+paid for.
+  This Democratic House is concerned that too many children are growing 
+up without health insurance, making it impossible for them to receive 
+the regular checkups that they need to live long and healthy lives. The 
+CHAMP Act would strengthen the CHIP program, a popular Federal-State 
+health care partnership so we can reach nearly all of the children who 
+are currently eligible for the program.
+  The price tag is an additional $50 billion over 5 years. Again, the 
+President says it is simply too much money. Yet, he has no problem 
+asking this Congress to rubber-stamp a new Iraq war emergency funding 
+bill that press reports say could be as high as $50 billion and that 
+would only last about 5 months.
+  Madam Speaker, it is time President Bush prioritize the health care 
+needs of our Nation's children. He should simply support the CHAMP Act.
+
+                          ____________________
+```
