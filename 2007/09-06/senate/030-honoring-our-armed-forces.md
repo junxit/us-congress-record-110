@@ -1,0 +1,43 @@
+---
+granule: CRECB-2007-pt17-Pg23814-3
+date: 2007-09-06
+edition: CRECB
+section: SENATE
+page: 23814
+---
+
+# HONORING OUR ARMED FORCES
+
+```
+                       HONORING OUR ARMED FORCES
+
+
+                    Master Sergeant Scott M. Carney
+
+  Mr. GRASSLEY. Mr. President, it is with great sorrow that I speak 
+today in honor of a fallen soldier. American hero MSG Scott M. Carney 
+was killed in military operations on August 24, 2007. My deepest 
+sympathy and prayers go out to Scott's wife Jeni and twin sons Jacob 
+and Justin. I also express sincere sympathy and gratitude to his 
+parents Geneva and John Carney and his brothers and sister.
+  An Ankeny, IA, resident, Scott was killed during a humvee rollover 
+near Herat, Afghanistan. Scott was a member of the Iowa National 
+Guard's 2nd Brigade Combat Team, 34th Division out of Boone, IA. Scott 
+enlisted in the U.S. Army in 1989 and had been a member of the 2nd 
+Brigade Combat Team since 2004.
+  Scott will be fondly remembered and missed dearly. His wife described 
+Scott by saying he ``died doing what he loved, serving his country and 
+protecting the freedom that we enjoy and providing the people of 
+Afghanistan with the opportunity for freedom.'' I know I speak on 
+behalf of all Iowans when I express gratitude for Scott's 18 years of 
+military service. While I speak today with great sorrow, I also speak 
+with great pride; pride in having soldiers like Scott, willing to make 
+the ultimate sacrifice.
+  A fellow soldier lent an apt description of Scott when he said ``the 
+Army was his life. He loved his family dearly and was a great family 
+member. He was also part of the team.'' I ask all Americans to spend a 
+moment today in prayerful gratitude for the family of a true American 
+patriot, fallen hero MSG Scott M. Carney.
+
+                          ____________________
+```
