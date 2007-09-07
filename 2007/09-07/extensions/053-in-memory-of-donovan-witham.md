@@ -1,0 +1,57 @@
+---
+granule: CRECB-2007-pt17-Pg23995
+date: 2007-09-07
+edition: CRECB
+section: EXTENSIONS
+page: 23995
+---
+
+# IN MEMORY OF DONOVAN WITHAM
+
+```
+                      IN MEMORY OF DONOVAN WITHAM
+
+                                 ______
+                                 
+
+                             HON. MIKE ROSS
+
+                              of arkansas
+
+                    in the house of representatives
+
+                       Friday, September 7, 2007
+
+  Mr. ROSS. Madam Speaker, I rise today to honor Specialist Donovan D. 
+Witham of Malvern, Arkansas, who died on August 20, 2007, fighting for 
+our country in Iraq while supporting Operation Iraqi Freedom. He was 20 
+years old when he selflessly gave his life for his country during 
+combat operations.
+  Specialist Witham graduated from Glen Rose High School in 2005 where 
+he was active in athletics and numerous extracurricular activities as a 
+student. As a member of the student council, drama club, and choir, as 
+well as the football and track teams, he was a natural leader who 
+demonstrated hard work and teamwork both in the classroom and on the 
+field. Before joining the Army, he continued to give back to his 
+community and state by working at the Ouachita River Correctional Unit. 
+He was also an avid sportsman who enjoyed hunting and fishing at every 
+opportunity.
+  Specialist Witham joined the Army in November 2005, and his proud 
+service will continue to live on and serve as an inspiration to the 
+many soldiers who knew him and fought alongside him in combat. He was a 
+military police officer with the 1st Squadron, 73rd Cavalry Regiment, 
+2nd Brigade Combat Team, in the 82nd Airborne Division. His bravery and 
+courage as a military police officer and as a paratrooper were 
+exemplified by his numerous awards and military decorations, including 
+the Bronze Star Medal and the Purple Heart Medal.
+  Specialist Donovan Witham gave his life to serve our country and he 
+will forever be remembered as a leader, a hero, a son, a brother, and a 
+friend. My deepest condolences go out to his mother, Martha Launius, 
+and his stepfather, Richard Launius of Malvern; and his 3 sisters, 
+Amber Sharp of Magnolia, Jamie Witham of Benton and Virginia Bennett of 
+Magnolia. He will be missed by his family, his community, his country 
+and all those who knew him. I will continue to keep Specialist Donovan 
+Witham's family in my deepest thoughts and prayers.
+
+                          ____________________
+```

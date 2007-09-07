@@ -1,0 +1,58 @@
+---
+granule: CRECB-2007-pt17-Pg23987
+date: 2007-09-07
+edition: CRECB
+section: EXTENSIONS
+page: 23987
+---
+
+# TRIBUTE TO SPECIALIST ERIC M. HOLKE, CALIFORNIA NATIONAL GUARD
+
+```
+     TRIBUTE TO SPECIALIST ERIC M. HOLKE, CALIFORNIA NATIONAL GUARD
+
+                                 ______
+                                 
+
+                            HON. KEN CALVERT
+
+                             of california
+
+                    in the house of representatives
+
+                       Friday, September 7, 2007
+
+  Mr. CALVERT. Madam Speaker, I rise to pay tribute to a hero from my 
+congressional district, California National Guardsman Eric Holke. Today 
+I ask that the House of Representatives honor and remember this 
+incredible young man who died in service to his country.
+  Eric grew up in Riverside and Crestline, California. He graduated 
+from Rim of the World High School in 1995 and was interested in working 
+with children. Before Eric was deployed in December, he worked with 
+autistic children and was attending college in hopes of becoming a 
+teacher. Specialist Holke had a strong sense of duty: He had served 2 
+tours previously, 1 in Iraq and 1 in Afghanistan. During his tour in 
+Iraq he was injured but dedicated himself to getting better so that he 
+could reenlist, which he did. Specialist Holke was called up in 
+December 2006 and on July 15, 2007 he was killed in action in Iraq.
+  In reading about Eric's life, I was impressed by his devotion to 
+family, friends and children. He is survived by his wife Cassidhe and 
+son Steven. Our community has lost a great man and Cassidhe and Steven 
+have lost a wonderful husband and father.
+  As we look at the incredibly rich military history of our country we 
+realize that this history is comprised of men, just like Eric, who 
+bravely fought for the ideals of freedom and democracy. Each story is 
+unique and humbling for those of us who, far from the dangers they have 
+faced, live our lives in relative comfort and ease. The day the Holke 
+family had to lay Eric to rest was probably the hardest moment the 
+family has ever faced and my thoughts, prayers and deepest gratitude 
+for their sacrifice goes out to them. There are no words that can 
+relieve their pain and what words I offer only begin to convey my deep 
+respect and highest appreciation.
+  Specialist Holke's wife, son, relatives and friends have given a part 
+of themselves in the loss of their loved one and I hope they know that 
+Specialist Holke, the goodness he brought to this world and the 
+sacrifice he has made, will be remembered.
+
+                          ____________________
+```
