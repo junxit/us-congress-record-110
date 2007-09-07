@@ -1,0 +1,33 @@
+---
+granule: CREC-2007-09-07-pt1-PgS11278
+date: 2007-09-07
+edition: CREC
+section: SENATE
+page: S11278
+citation: 153 Cong. Rec. S11278
+---
+
+# THE CALENDAR
+
+**Speaking:** Brown, Sherrod (B000944) [D-OH]
+
+**Measures:** S.Res. 134, S.Res. 282, S.Res. 288, S.Res. 292, S.Res. 301
+
+```
+                              THE CALENDAR
+
+  Mr. BROWN. Mr. President, I ask unanimous consent that the Senate 
+proceed en bloc to the consideration of the following calendar items: 
+Calendar No. 342, S. Res. 134; Calendar No. 343, S. Res. 282; Calendar 
+No. 344, S. Res. 288; Calendar No. 345, S. Res. 292; and Calendar No. 
+346, S. Res. 301.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. BROWN. I ask unanimous consent that the resolutions be agreed to 
+en bloc, the preambles be agreed to en bloc, the motions to reconsider 
+be laid upon the table en bloc, the consideration of these items appear 
+separately in the Record, and that any statements relating thereto be 
+printed at the appropriate place in the Record as if read.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```

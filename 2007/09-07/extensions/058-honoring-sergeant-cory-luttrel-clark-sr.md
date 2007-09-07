@@ -1,0 +1,57 @@
+---
+granule: CREC-2007-09-07-pt1-PgE1838-2
+date: 2007-09-07
+edition: CREC
+section: EXTENSIONS
+page: E1838
+citation: 153 Cong. Rec. E1838
+---
+
+# HONORING SERGEANT CORY LUTTREL CLARK, SR.
+
+**Speaking:** Bilirakis, Gus M. (B001257) [R-FL]
+
+```
+               HONORING SERGEANT CORY LUTTREL CLARK, SR.
+
+                                 ______
+                                 
+
+                         HON. GUS M. BILIRAKIS
+
+                               of florida
+
+                    in the house of representatives
+
+                       Friday, September 7, 2007
+
+  Mr. BILIRAKIS. Madam Speaker, I rise today to honor Sergeant Cory L. 
+Clark, Sr., of Plant City, FL, who was killed in Afghanistan on August 
+28, 2007, in support of Operation Enduring Freedom.
+  Assigned to the 585th Pipeline Company, 864th Engineer Combat 
+Battalion, stationed in Fort Lewis, WA, Sgt. Clark was an Army engineer 
+who was rebuilding roads and bridges in war-torn Afghanistan when he 
+was fatally wounded by an improvised explosive device while his unit 
+crossed a bridge in Jaji, Afghanistan.
+  I did not have the privilege of knowing Sgt. Clark personally, but by 
+all accounts he was a courageous young man who was devoted to his 
+country and family. Prior to joining the Army in April 2001, Cory grew 
+up on Jenkins Street in Plant City and was a 2000 graduate of Durant 
+High School in eastern Hillsborough County.
+  Cory enjoyed life, seeing the world, making others smile and his 
+mother, Wrenita's, home cooking. Most importantly, he was a beloved 
+husband, son and father, who cherished spending time with his family.
+  Recently promoted to Sergeant, Cory earned a great deal of 
+recognition for his service. Among his many awards and honors are the 
+Bronze Star Medal, Purple Heart, Army Commendation Medal, 2 Army Good 
+Conduct Medals, National Defense Service Medal, Afghanistan Campaign 
+Medal, Iraq Campaign Medal, Global War on Terrorism Service Medal, NATO 
+Medal and Combat Action and Weapons Qualification Badges.
+  Madam Speaker, my heart aches for Cory's family. He is survived by 
+his wife, Monica, and his four children, Malik Mitchell, 6; twins Cory 
+Jr. and Quinton, both 3; and Kar-Yahna, 9 months. May God bless the 
+Clark family and continue to watch over the country that Sgt. Clark so 
+loved. We shall never forget him.
+
+                          ____________________
+```
