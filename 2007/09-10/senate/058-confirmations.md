@@ -1,0 +1,28 @@
+---
+granule: CRECB-2007-pt17-Pg24071-6
+date: 2007-09-10
+edition: CRECB
+section: SENATE
+page: 24071
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate, Monday, September 10, 
+2007:
+
+
+                             the judiciary
+
+       WILLIAM LINDSAY OSTEEN, JR., OF NORTH CAROLINA, TO BE 
+     UNITED STATES DISTRICT JUDGE FOR THE MIDDLE DISTRICT OF NORTH 
+     CAROLINA.
+       MARTIN KARL REIDINGER, OF NORTH CAROLINA, TO BE UNITED 
+     STATES DISTRICT JUDGE FOR THE WESTERN DISTRICT OF NORTH 
+     CAROLINA.
+       JANIS LYNN SAMMARTINO, OF CALIFORNIA, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE SOUTHERN DISTRICT OF CALIFORNIA.
+```
