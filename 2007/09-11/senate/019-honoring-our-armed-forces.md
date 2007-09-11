@@ -1,0 +1,42 @@
+---
+granule: CREC-2007-09-11-pt1-PgS11406-2
+date: 2007-09-11
+edition: CREC
+section: SENATE
+page: S11406
+citation: 153 Cong. Rec. S11406
+---
+
+# HONORING OUR ARMED FORCES
+
+**Speaking:** Grassley, Chuck (G000386) [R-IA]
+
+```
+                       HONORING OUR ARMED FORCES
+
+
+                       Sergeant Kevin Gilbertson
+
+  Mr. GRASSLEY. Mr. President, it is with great sorrow, on this day of 
+the 6th Anniversary of the September 11th attacks, that I speak in 
+honor of a fallen American hero. Army Sgt. Kevin Gilbertson died August 
+31st at the Landstuhl Medical Center in Landstuhl, Germany, after 
+losing a 2-day battle with injuries suffered after insurgents attacked 
+his unit in Ramadi, Iraq. His courage and patriotism will be 
+remembered. My thoughts and prayers go out to his friends and family, 
+especially his parents, Keeley Peters and Don Gilbertson, as well as 
+his wife, Nina, and sons, Timothy and Nickolas.
+  Sergeant Gilbertson was an independent, complex, and highly involved 
+individual. He loved his family, he loved his country, and he loved 
+being a U.S. Army soldier. Kevin Gilbertson's service to this country 
+is greatly appreciated, and he will be sorely missed.
+  Kevin was a native of Cedar Rapids, IA. His father, Don Gilbertson, 
+remembers him as ``the greatest kid in the world'' who ``joined the 
+Army right out of high school to get a college education when he got 
+out . . . His dream was getting a degree and supporting his family.'' 
+Kevin Gilbertson will always be remembered as someone who gave 
+everything he had for his country and who thought more about others 
+than himself. For that we are eternally grateful.
+
+                          ____________________
+```

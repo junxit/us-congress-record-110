@@ -1,0 +1,58 @@
+---
+granule: CREC-2007-09-11-pt1-PgE1862
+date: 2007-09-11
+edition: CREC
+section: EXTENSIONS
+page: E1862
+citation: 153 Cong. Rec. E1862
+---
+
+# TRIBUTE TO GANTT'S EXCAVATION AND CONSTRUCTION
+
+**Speaking:** Capito, Shelley Moore (C001047) [R-WV]
+
+```
+             TRIBUTE TO GANTT'S EXCAVATION AND CONSTRUCTION
+
+                                 ______
+                                 
+
+                       HON. SHELLEY MOORE CAPITO
+
+                            of west virginia
+
+                    in the house of representatives
+
+                      Tuesday, September 11, 2007
+
+  Mrs. CAPITO. Madam Speaker, I am proud to recognize Gantt's 
+Excavation and Construction of Martinsburg, West Virginia; a recent 
+recipient of the 2007 Secretary of Defense Employer Support Freedom 
+Award.
+  The Defense Employer Support Freedom Award honors businesses and 
+organizations for their support of their employees who are enlisted in 
+the National Guard and Reserves. Gantt's Excavation and Construction 
+was among 15 honorees from across the Nation to receive the prestigious 
+award. These employers have gone far above the required laws to 
+accommodate their employees who must fulfill their military duties that 
+arise throughout times of national need. They must often fulfill 
+weekend and summer training, possible deployments and contingency 
+operations.
+  I am proud to highlight the accomplishments of Gannt's Excavation and 
+Construction, who represents the best of America's small businesses for 
+its patriotism and dedication to our Nation's Armed Services. The 
+business was established 35 years ago by Frederick Gantt and is 
+currently operated by his three children, Daniel Gantt, Eric Gantt, and 
+Janesa Smith. Janesa's husband, Tim Smith of the West Virginia Army 
+National Guard of Wheeling recently returned home from a deployment to 
+Iraq on July 27, 2007, and is employed by Gantt's Excavation and 
+Construction. The business is located in Inwood, West Virginia, where 
+they employ a staff of 65.
+  Madam Speaker, in this time of national sacrifice when the men and 
+women of our Nation's armed services are being called to duty, it is an 
+honor to recognize the Gantt family and Gantt's Excavation and 
+Construction who have helped our enlisted men and women succeed both on 
+the job and in the military.
+
+                          ____________________
+```
