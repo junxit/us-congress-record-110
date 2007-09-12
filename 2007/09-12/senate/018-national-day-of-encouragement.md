@@ -1,0 +1,62 @@
+---
+granule: CREC-2007-09-12-pt1-PgS11501
+date: 2007-09-12
+edition: CREC
+section: SENATE
+page: S11501
+citation: 153 Cong. Rec. S11501
+---
+
+# NATIONAL DAY OF ENCOURAGEMENT
+
+**Speaking:** Pryor, Mark L. (P000590) [D-AR]
+
+```
+                     NATIONAL DAY OF ENCOURAGEMENT
+
+  Mr. PRYOR. Madam President, I rise today with great pleasure to 
+commend an exceptional group of my constituents and acknowledge 
+September 12, 2007, as the National Day of Encouragement. The concept 
+behind the National Day of Encouragement was developed in June 2007 as 
+part of the National Leadership Forum at Harding University in Searcy, 
+AR.
+  The National Leadership Forum, NLF, was composed of a group of 
+enterprising high school students from around the country who were 
+challenged to think of constructive ways to help their respective 
+schools. One group said that discouragement or ``the lack of 
+encouragement'' was the biggest problem they faced in school as well as 
+in society today. From there, the idea of an official Day of 
+Encouragement as a possible solution was born.
+  According to Andrew Baker, the codirector of NLF, the students chose 
+September 12 as the National Day of Encouragement in hopes of 
+``balancing the discouraging feelings of 9/11''. The goal was to 
+``challenge people not to just think about the idea of encouragement 
+but to do something that will encourage someone else.''
+  Since the conception of the National Day of Encouragement, grassroots 
+efforts have been working towards creating a real sense of 
+encouragement in cities, schools, places of employment, and homes. Even 
+the smallest gesture such as a smile, a pat on the back, or a kind 
+word, has the ability to communicate love and compassion that can raise 
+spirits and spur motivation, especially on a day like September 12.
+  Americans have endured great hardship and heartbreak as a result of 
+the terrorist attacks, but this has not broken our faith, courage and 
+an unshakable commitment to freedom, democracy and, most importantly, 
+each other. Yesterday, we remembered the tragedy of September 11, and 
+we honored its victims. Today, we honor the victims again by 
+remembering the sacrifices made by thousands of Americans to help the 
+victims of the attacks and their families. Their acts of kindness and 
+generosity inspired and encouraged the entire Nation.
+  I encourage my fellow colleagues, citizens of all ages, as well as 
+those in schools, organizations, businesses, and media outlets, to 
+encourage others on this day, through an act of service, a thoughtful 
+letter, or words of kindness and inspiration to thereby boost the 
+overall morale of all.
+  I would also like to commend the extraordinary group of high school 
+students who participated in the National Leadership Forum this year. 
+They have shown the ability to analyze critical issues with insight and 
+intellect, and it is an honor to stand here before you today and 
+recognize all of them and their accomplishments.
+  I yield the floor.
+
+                          ____________________
+```

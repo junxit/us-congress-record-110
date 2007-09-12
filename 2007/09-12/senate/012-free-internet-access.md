@@ -1,0 +1,82 @@
+---
+granule: CREC-2007-09-12-pt1-PgS11496
+date: 2007-09-12
+edition: CREC
+section: SENATE
+page: S11496
+citation: 153 Cong. Rec. S11496
+---
+
+# FREE INTERNET ACCESS
+
+**Speaking:** Stevens, Ted (S000888) [R-AK], Casey, Robert P., Jr. (C001070) [D-PA]
+
+```
+                          FREE INTERNET ACCESS
+
+  Mr. STEVENS. Mr. President, since its inception, the Internet has 
+provided a powerful economic boost to our Nation, especially in rural 
+areas. It has become an important everyday tool for millions of 
+Americans, a valuable educational resource, and a powerful mechanism 
+for communication.
+  To ensure the Internet's benefits are available to as many people as 
+possible, Congress should reduce obstacles to broadband access. One way 
+to accomplish this goal is to prevent taxes from being imposed on 
+Internet access, because such taxes will only drive up the overall cost 
+of the use of the Internet.
+  The Internet Tax Freedom Act, first passed by Congress in 1998, 
+established a moratorium on State and local governments' ability to tax 
+Internet access. Extended in 2004, that moratorium will expire on 
+November 1--less than 2 months from today. Legislation has been 
+introduced in both the House and Senate to extend the Internet tax 
+moratorium. I have been supportive of such legislation and expressed 
+support when the Senate Commerce Committee explored the issue at a 
+hearing on May 23 of this year.
+  Our chairman, Senator Inouye, has been very supportive of the concept 
+of keeping taxes off the Internet.
+  Tremendous investment, growth, and innovation in broadband deployment 
+has occurred since the moratorium was first adopted. In order for this 
+progress to continue, Congress should extend the Internet tax 
+moratorium before it expires this fall.
+  If it is not extended by November 1, more states could take the 
+opportunity to quickly pass laws and impose new taxes on the Internet. 
+Such taxes would only serve to expand the digital divide between those 
+who can afford broadband access and those who cannot.
+  The Internet has allowed States such as Alaska to compete on a more 
+level playing field. Alaskans are now able to market their goods to 
+customers in the lower 48 and around the world, which is especially 
+beneficial for small businesses located in remote areas. Improved 
+broadband access has also eliminated distance barriers for education 
+and medicine, providing rural areas with a higher quality of life.
+  Faster, cheaper Internet access also helps drive America's economic 
+engine and creates new jobs. Continued broadband deployment will help 
+ensure America keeps this competitive edge. Without it, our Nation will 
+fall behind in the global economy. If discriminatory taxes are imposed 
+on Internet access, our country will face a real danger, and the rest 
+of the world will no longer look to the United States for Internet 
+innovations.
+  The date the Internet tax moratorium is set to expire--November 1--is 
+fast approaching. It is my hope Congress will act to extend this 
+important moratorium before that deadline arrives.
+  While the expiration of the Internet tax moratorium is the most 
+pressing broadband issue before Congress right now, several more issues 
+should also be addressed to encourage greater broadband deployment and 
+availability in this country. First and foremost, universal service 
+should be updated so that rural America has the same broadband 
+opportunities as the rest of America. This will require the work of 
+both Congress and the Federal Communications Commission.
+  Additionally, the Government should try to stay away from doing 
+things that would reverse the recent policy trends of encouraging 
+broadband deployment through free market principles.
+  I sincerely hope that the Congress will act to extend this moratorium 
+in a prompt fashion.
+  I suggest the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The legislative clerk proceeded to call the roll.
+  Mr. CASEY. Mr. President, I ask unanimous consent that the order for 
+the quorum call be rescinded.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The Senator from Pennsylvania is recognized.
+
+                          ____________________
+```
