@@ -1,0 +1,65 @@
+---
+granule: CREC-2007-09-17-pt1-PgE1881-4
+date: 2007-09-17
+edition: CREC
+section: EXTENSIONS
+page: E1881
+citation: 153 Cong. Rec. E1881
+---
+
+# IN RECOGNITION OF MARTIN SAVIDGE
+
+**Speaking:** Kucinich, Dennis J. (K000336) [D-OH]
+
+```
+                    IN RECOGNITION OF MARTIN SAVIDGE
+
+                                 ______
+                                 
+
+                        HON. DENNIS J. KUCINICH
+
+                                of ohio
+
+                    in the house of representatives
+
+                       Monday, September 17, 2007
+
+  Mr. KUCINICH. Madam Speaker, I rise today to honor Martin Savidge for 
+his 27 years of service to the American public, through his role as a 
+news anchor and national correspondent for many prominent news 
+networks.
+  Martin, who is currently a correspondent with NBC News, does regular 
+reporting for NBC Nightly News with Brian Williams, the Today Show, and 
+MSNBC. Prior to NBC, Martin was a news anchor and a national 
+correspondent for CNN, based at the network's world headquarters in 
+Atlanta.
+  Martin graduated from Rocky River High School and earned a bachelor's 
+degree in journalism from Ohio University. He began his broadcast 
+career as an anchor and reporter for WCIA-TV in Champaign, IL in 1980. 
+He then moved on to work as the prime-time anchor for WMBD-TV in 
+Peoria, IL Martin also worked as a reporter for the Associated Press, 
+as well as a special projects reporter and anchor for WJW-TV in 
+Cleveland.
+  Following the September 11, 2001 terrorist attacks, Martin reported 
+from New York City's Ground Zero on the search and rescue mission and 
+the ongoing recovery efforts. In 2003, Martin delivered on-the-ground 
+coverage of the crises in Iraq as one of CNN's embedded journalists. 
+Martin most recently served as NBC's primary correspondent in New 
+Orleans,
+
+[[Page E1882]]
+
+covering Hurricane Katrina and its aftermath along the Gulf Coast.
+  Martin has been honored with some of broadcast journalism's most 
+prestigious awards, including two Headliner Awards, two Edward R. 
+Murrow Awards, a Peabody Award, a DuPont Award and an Emmy. In October 
+2002, the National Journalism Education Association named Martin its 
+Media Person of the Year for his support of scholastic journalism.
+  Madam Speaker and colleagues, please join me in honoring Martin 
+Savidge for his dedication to informing the public about important 
+national and world issues, and his commitment to educating future 
+journalists.
+
+                          ____________________
+```

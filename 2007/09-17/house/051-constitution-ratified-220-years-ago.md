@@ -1,0 +1,86 @@
+---
+granule: CREC-2007-09-17-pt1-PgH10413-3
+date: 2007-09-17
+edition: CREC
+section: HOUSE
+page: H10413
+citation: 153 Cong. Rec. H10413
+---
+
+# CONSTITUTION RATIFIED 220 YEARS AGO
+
+**Speaking:** Franks, Trent (F000448) [R-AZ]
+
+```
+                  CONSTITUTION RATIFIED 220 YEARS AGO
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from Arizona (Mr. Franks) is recognized for 5 minutes.
+  Mr. FRANKS of Arizona. Mr. Speaker, today marks the 220th anniversary 
+of the ratification of one of the greatest documents written in the 
+history of man.
+  In fact, Mr. Speaker, it is safe to say that other than the Bible and 
+our Declaration of Independence, no other document has so impacted the 
+course of human history and freedom throughout the world.
+  That is because 220 years ago, the Framers of our Constitution did 
+something singular in the long account of tyrannies, governments, and 
+institutions invented whereby man sought to govern his fellow man.
+  A small courageous set of soldiers, farmers, aristocrats and 
+tradesmen banded together and forever threw off the yoke of the crown 
+of England to ``secure the blessings of liberty to themselves and their 
+posterity.''
+  Their resolve was ratified with the Declaration of Independence that 
+was in fact a promise to future generations to never again subject our 
+children to the unchecked tyranny of arbitrary human government.
+  In those tumultuous days, there was perhaps no better or more 
+justifiable case for establishing a permanent monarchy than under the 
+noble and flint-like leadership of General George Washington. Many 
+urged the general to do just that. But, Mr. Speaker, instead those 
+first Americans took it upon themselves to do something completely 
+revolutionary. Those men, who had seized for themselves potentially 
+unlimited power over a nascent state completely vulnerable to the 
+dictates of tyranny, chose instead to place immovable checks and 
+limitations upon their own power and upon all those in government who 
+would follow them.
+  The European model of life said that God gave authority to kings and 
+a government of kings who would hold the rights of men in their hands. 
+The American model encapsulated the divine message of human dignity: We 
+hold these truths to be self-evident, that all men are created, that 
+they are all equal, and that they are all endowed by their creator with 
+certain inalienable rights and that government exists to secure those 
+rights.
+  Mr. Speaker, those first Americans understood that all men were 
+individually accountable to God and that he first gave each of them the 
+right to live. Without this first right of life firmly secured and 
+clearly understood, they knew that all other rights would become 
+meaningless; but with it, all other rights would follow.
+  They were right, Mr. Speaker. The Constitution of the United States 
+built upon the Declaration of Independence and its proclamation of a 
+self-evident truth that all men are created equal, and laid upon that 
+foundation the rights of freedom of all kinds, of speech and religion, 
+the right to own property, the right of individuals to bear arms, and 
+the right to choose a government of the people, for the people, and by 
+the people.
+  Mr. Speaker, the Constitution of the United States is a statement of 
+eternal truths as much as it is a statement of principles that govern a 
+nation. Now more than ever as we take this day to commemorate the 
+framing and establishment of that Constitution that for 220 years has 
+served as the archetype of free democratic nations and governments all 
+over the world, it is absolutely incumbent upon all of us to 
+desperately remember the meaning of those words and to renew our 
+commitment to guard against every erosion of that document and the 
+liberties it embodies. But most importantly, the protection of the 
+right to live.
+  Daniel Webster's admonition to all of us is so appropriate. He said: 
+``Hold on, my friends, to the Constitution and to the Republic for 
+which it stands. Miracles do not cluster and what has happened once in 
+6,000 years may never happen again. If the American Constitution should 
+fall, there will be anarchy throughout the world.''
+  Mr. Speaker, Senator Webster's voice no longer sounds in these 
+Chambers, but I pray that we hear his message anew in our hearts, and I 
+hope we can renew our own oath to uphold and defend the Constitution of 
+the United States, that miraculous document that has so valiantly and 
+nobly served the cause of humanity for 220 years.
+
+                          ____________________
+```

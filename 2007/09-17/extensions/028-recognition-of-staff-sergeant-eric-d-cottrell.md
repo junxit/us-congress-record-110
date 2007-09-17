@@ -1,0 +1,44 @@
+---
+granule: CREC-2007-09-17-pt1-PgE1886-4
+date: 2007-09-17
+edition: CREC
+section: EXTENSIONS
+page: E1886
+citation: 153 Cong. Rec. E1886
+---
+
+# RECOGNITION OF STAFF SERGEANT ERIC D. COTTRELL
+
+**Speaking:** Rogers, Mike D. (R000575) [R-AL]
+
+```
+             RECOGNITION OF STAFF SERGEANT ERIC D. COTTRELL
+
+                                 ______
+                                 
+
+                            HON. MIKE ROGERS
+
+                               of alabama
+
+                    in the house of representatives
+
+                       Monday, September 17, 2007
+
+  Mr. ROGERS of Alabama. Madam Speaker, SSG Eric D. Cottrell, a native 
+of Pittsview, Alabama, was killed during an IED attack on August 13th 
+in Qayyarah, Iraq. Staff Sergeant Cottrell was assigned to the 5th 
+Battalion, 82nd Field Artillery Regiment, 4th Brigade Combat Team, 1st 
+Cavalry Division stationed in Fort Bliss, Texas.
+  Words cannot express the sense of sadness we have for his family, and 
+the gratitude our country feels for his service. Eric, like other brave 
+men and women who have served in uniform, died serving not just the 
+United States, but the entire cause of liberty. Indeed, like those who 
+have served before him, he was a true American.
+  We will forever hold him closely in our hearts, and remember his 
+sacrifice and that of his family as a remembrance of his bravery and 
+willingness to serve our nation. Thank you, Madam Speaker, for the 
+House's remembrance at this mournful occasion.
+
+                          ____________________
+```
