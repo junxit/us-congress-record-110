@@ -1,0 +1,343 @@
+---
+granule: CRECB-2007-pt18-Pg24567
+date: 2007-09-18
+edition: CRECB
+section: HOUSE
+page: 24567
+---
+
+# RECOGNIZING THE SERVICE OF THE 65TH INFANTRY BORINQUENEERS
+
+```
+       RECOGNIZING THE SERVICE OF THE 65TH INFANTRY BORINQUENEERS
+
+  Ms. SHEA-PORTER. Mr. Speaker, I move to suspend the rules and agree 
+to the resolution (H. Res. 443) recognizing the service of the 65th 
+Infantry Borinqueneers during the Korean War, honoring the people of 
+Puerto Rico who continue to serve and volunteer for service in the 
+Armed Forces and make sacrifices for the country, and commending all 
+efforts to promote and preserve the history of the 65th Infantry 
+Borinqueneers, as amended.
+  The Clerk read the title of the resolution.
+  The text of the resolution is as follows:
+
+                              H. Res. 443
+
+       Whereas the 65th Infantry Regiment, the only Hispanic-
+     segregated unit in United States military history, was 
+     mandated by Congress to be comprised primarily of Puerto 
+     Ricans;
+       Whereas the 65th Infantry Regiment became better known as 
+     the Borinqueneers from the word Borinquen, the name that the 
+     native Taino Indians called Puerto Rico;
+       Whereas the Borinqueneers, throughout their service in 
+     World War I, World War II, and, most notably, the Korean War, 
+     served with distinction;
+       Whereas the Borinqueneers demonstrated their military 
+     prowess in Korea and earned the respect and admiration of 
+     their fellow soldiers and military authorities, most notably 
+     General Douglas MacArthur;
+       Whereas the Borinqueneers were sent to battle on the front 
+     lines in Korea and participated in nine major campaigns 
+     during the Korean War;
+       Whereas the Borinqueneers made valuable contributions to 
+     the war effort, including by suffering a tremendous number of 
+     casualties that was disproportionate to the population of 
+     Puerto Rico;
+       Whereas the 65th Infantry Borinqueneers earned well-
+     deserved praise, including two United States Presidential 
+     Unit Citations, a Meritorious Unit Commendation, and two 
+     Republic of Korea Unit Citations;
+       Whereas the 65th Infantry Regiment 1st Battalion continues 
+     its fine tradition as an active unit in the Puerto Rico Army 
+     National Guard; and
+       Whereas Puerto Ricans have continued to volunteer freely 
+     and serve in the Armed Forces and have served ably during 
+     wartime: Now, therefore, be it
+       Resolved,  That the House of Representatives--
+       (1) recognizes the service of the 65th Infantry 
+     Borinqueneers during the Korean War;
+       (2) honors the people of Puerto Rico, who continue to serve 
+     and volunteer for service in the Armed Forces and make 
+     sacrifices for the country; and
+       (3) commends all efforts to promote and preserve the 
+     history of the 65th Infantry Borinqueneers.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentlewoman from 
+New Hampshire (Ms. Shea-Porter) and the gentleman from Georgia (Mr. 
+Gingrey) each will control 20 minutes.
+  The Chair recognizes the gentlewoman from New Hampshire.
+
+
+                             General Leave
+
+  Ms. SHEA-PORTER. Mr. Speaker, I ask unanimous consent that all 
+Members have 5 legislative days to revise and extend their remarks on 
+the resolution under consideration.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentlewoman from New Hampshire?
+  There was no objection.
+  Ms. SHEA-PORTER. Mr. Speaker, I yield myself as much time as I may 
+consume.
+  Mr. Speaker, I rise today in support of House Resolution 443, 
+recognizing the service of the 65th Infantry Borinqueneers during the 
+Korean War, honoring the people of Puerto Rico who continue to serve 
+and volunteer for services in the Armed Forces and make sacrifices for 
+this country, and commending all efforts to promote and preserve the 
+history of the 65 Infantry Borinqueneers. I thank my colleague from 
+Massachusetts (Mr. McGovern) for bringing this measure before the 
+House.
+  In 1908 the United States Congress directed that a unit be 
+established and comprised primarily of individuals from Puerto Rico, 
+which was then renamed in 1920 as the 65th Infantry Regiment. Our 
+brothers and sisters of the 65th Infantry Borinqueneers fought 
+valiantly and gave their lives during the Korean War and the two World 
+Wars.
+  Since 1917 the Commonwealth of Puerto Rico has been a part of the 
+United States and home to almost 4 million U.S. citizens. During the 
+Korean War, Puerto Rico lost a disproportionate number of 
+servicemembers relative to the population of the island as a whole. 
+Eight soldiers of the 65th Infantry Regiment received the Distinguished 
+Service Cross, and 129 were awarded the Silver Star for their heroism 
+during the Korean conflict.
+  House Resolution 443 highlights an important group of servicemembers 
+who have helped forge the foundation of the freedoms that we enjoy 
+today. The 65th Infantry Borinqueneers are to be recognized for their 
+tremendous sacrifice. We should not forget those who are serving today 
+in Operation Iraqi Freedom and Operation Enduring Freedom.
+  The people of Puerto Rico and all Americans can be proud of the 
+tremendous contributions these men have made to the defense of our 
+Nation.
+  Mr. Speaker, I urge my colleagues to support House Resolution 443.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. GINGREY. Mr. Speaker, I yield myself such time as I might 
+consume.
+  Mr. Speaker, I do rise in support of House Resolution 443, which 
+recognizes the service of the 65th Infantry Regiment, Puerto Rico 
+National Guard.
+  Today, Mr. Speaker, the First Battalion, 65th Infantry Regiment, 
+Puerto Rico National Guard, continues a tradition of outstanding 
+service in the Army established by members of that regiment in World 
+War I, World War II, and in Korea. Their motto, ``Honor and Fidelity,'' 
+summarizes that service.
+  Mr. Speaker, in Korea, as an active Army unit, the regiment fought 
+with particular distinction, participating in nine major campaigns from 
+1950 until 1953. For its actions, the unit was awarded two Presidential 
+Unit Citations, a Meritorious Unit Commendation, and two Republic of 
+Korea Unit Citations.
+  Such outstanding service led General Douglas MacArthur to say: ``The 
+Puerto Ricans of the gallant 65th Infantry on the battlefields of Korea 
+are writing a brilliant record of achievement in battle, and I am proud 
+indeed to have them in this command. I wish that I had many more like 
+them.''
+  In achieving such recognition for their competence and valor, the men 
+of the 65th Infantry suffered heavy casualties and numerous vicious 
+battles against determined North Korean and Chinese units. Moreover, 
+the men of the 65th not only had to overcome severe weather and terrain 
+and shortages of clothing and equipment, but also the elements of 
+prejudice and unfavorable bias that they encountered.
+  Mr. Speaker, given the history of outstanding service by the 65th 
+since its inception back in 1898, as well as the continuing commitment 
+and dedication shown by the current members of this unit, it is fitting 
+that we take the time today to recognize and to honor that service.
+  I strongly urge all Members to support this resolution.
+  Mr. Speaker, I reserve the balance of my time.
+  Ms. SHEA-PORTER. Mr. Speaker, I yield 4 minutes to my friend and 
+colleague, the gentleman from Massachusetts (Mr. McGovern), the sponsor 
+of this resolution.
+  Mr. McGOVERN. Mr. Speaker, I want to thank my colleague from New 
+Hampshire for her remarks and for yielding me the time and for her 
+leadership on the Armed Services Committee. I also want to thank my 
+good friend from Georgia for his words in support of this resolution, 
+House Resolution 443, which pays tribute to the 65th Infantry 
+Borinqueneers and to the men and women of Puerto Rico who continue to 
+serve our country with honor and distinction.
+  Mr. Speaker, I will insert into the Record a letter from Anibal 
+Acevedo Vila, the Governor of Puerto Rico, endorsing this legislation.
+                                                    July 18, 2007.
+     Hon. James McGovern,
+     House of Representatives, Cannon House Office Building, 
+         Washington, DC.
+       Dear Congressman McGovern: Thank you for your efforts to 
+     recognize the service of
+
+[[Page 24568]]
+
+     Puerto Ricans in the armed forces of the United States, and 
+     in particular, the 65th Infantry Borinquineers, by 
+     introducing H. Res. 443. Puerto Ricans have served with great 
+     distinction in the military, and I appreciate your efforts to 
+     highlight their service.
+       The 65th Infantry Borinquineers were founded as an all-
+     Puerto Rican regiment in 1899, and served in World War I, 
+     World War II, and in the Korean War. It was in this last 
+     campaign that the 65th Infantry earned their renown, leading 
+     General Douglas MacArthur to remark: ``[t]he Puerto Ricans 
+     forming the ranks of the gallant 65th Infantry . . . are 
+     writing a brilliant record of achievement in battle and I am 
+     proud indeed to have them in this command. I wish that we 
+     might have many more like them.'' During the Korean War, 
+     members of the 65th Infantry were awarded 10 Distinguished 
+     Service Crosses, 256 Silver Stars, and 606 Bronze Stars.
+       As H. Res. 443 acknowledges, Puerto Ricans have a tradition 
+     of dedicated and honorable service in the armed forces of the 
+     United States. Military units from Puerto Rico were among the 
+     first to deploy following the attacks of September 11, 2001, 
+     and over 7,000 members of our National Guard have since been 
+     deployed in support of current operations. Over 55 soldiers, 
+     sailors and airmen of Puerto Rican descent have lost their 
+     lives in Iraq and Afghanistan. There are over 144,000 
+     veterans living in Puerto Rico, and four sons of the Island 
+     have earned the Medal of Honor since Vietnam, the second 
+     highest per capita of any jurisdiction in the United States.
+       Puerto Rican soldiers in the armed forces today continue 
+     the tradition of the 65th Infantry by serving with honor and 
+     distinction and make all Puerto Ricans proud of their 
+     service. Once again, I appreciate your introduction of H. 
+     Res. 443 to recognize and commend those Puerto Ricans who 
+     have served in the past and present in our nation's armed 
+     forces, and I look forward to the resolution's adoption.
+           Sincerely,
+                                              Anibal Acevedo Vila,
+                            Governor, Commonwealth of Puerto Rico.
+
+  Mr. Speaker, it has been a privilege to learn about the proud service 
+of the 65th Infantry Borinqueneers, the only Hispanic-segregated unit 
+in the United States Military history. The first native Puerto Rican 
+troops were approved by Congress in 1899, designated as the Puerto 
+Rican Regiment U.S. Volunteers.
+  The regiment was ordered to war strength in 1917 and served in 
+defense of the Panama Canal during World War I. On June 4, 1920, the 
+regiment was officially re-designated as the 65th Infantry, U.S. Army.
+  After serving ably in France and Germany during World War II, the 
+65th was ordered to Korea in 1950. It was during the Korean War where 
+the 65th Infantry invoked the name Borinqueneers, and it is also where 
+they demonstrated their military prowess.
+  The name Borinqueneers comes from the word Borinquen, which is the 
+original native Taino Indians of the island we now call Puerto Rico. 
+Many members were direct descendants of these native people.
+  The Borinqueneers fought on the front lines in Korea, participating 
+in nine major campaigns throughout the war. They were the protection 
+force for marines withdrawing from far inland positions. They were the 
+leading unit in the United Nations offensive of April 1951. In every 
+campaign they performed as one of the most effective infantry regiments 
+in the Army.
+  Earning the respect and admiration of fellow soldiers and military 
+leaders, General Douglas MacArthur himself remarked, ``They showed 
+magnificent ability and courage in field operations,'' and ``they are a 
+credit to Puerto Rico, and I am proud to have them in my command.''
+  Mr. Speaker, it is of the utmost importance that we recognize the 
+valiant service of the Borinqueneers and that we recognize the 
+sacrifices made by the people of Puerto Rico during the Korean War: 
+61,000 Puerto Ricans served in the U.S. Army during the Korean War, the 
+overwhelming majority in the 65th Infantry Regiment.
+  By the end of the war, 743 Puerto Ricans were killed, and over 2,300 
+wounded. One of every 42 casualties suffered by U.S. forces in Korea 
+was Puerto Rican. Puerto Rico endured one casualty for every 660 of its 
+inhabitants, a disproportionately heavy burden for the small island. 
+This statistic highlights the enormous sacrifice by Puerto Rico, and it 
+gives testament to the honor and distinction of their service.
+  Mr. Speaker, I would also like to note some current efforts to 
+promote and preserve the history of the 65th Infantry Borinqueneers. In 
+my district, the Korean War Memorial of Central Massachusetts 
+Committee, along with Colonel Gilbert Villahermosa, Inspector General 
+of the Massachusetts Army National Guard, and the Puerto Rican 
+community of central Massachusetts are working together to commemorate 
+the 65th Infantry.
+  The efforts have included promotion of the documentary film ``The 
+Borinqueneers,'' construction of a memorial flagpole, and Colonel 
+Villahermosa himself has released a book detailing the critical role 
+which the 65th Infantry played in Korea.
+  Mr. Speaker, I am very proud to have introduced this bill with the 
+Representative from Puerto Rico (Mr. Fortuno), and I would also like to 
+thank Chairman Skelton and all members of the Armed Services Committee 
+who supported its consideration on the suspension calendar.
+  Again, I want to thank my two colleagues, the gentlewoman from New 
+Hampshire (Ms. Shea-Porter) and the gentleman from Georgia (Mr. 
+Gingrey), for their words here today.
+  Mr. Speaker, I urge all of my colleagues to pass House Resolution 
+443.
+  Mr. GINGREY. Mr. Speaker, I have no further requests for time. Before 
+yielding back, I would like to encourage all of our colleagues, both 
+sides of the aisle, and I am sure we will have a unanimous vote on 
+H.Res 443. I thank the gentlewoman from New Hampshire for allowing me 
+to control the time on this side.
+  Mr. FORTUNO. Mr. Speaker, during this month, our country proudly 
+celebrates Hispanic Heritage Month. In the midst of this celebration, 
+it is with great honor and pride that I stand in support of H. Res. 443 
+which seeks to recognize the service of the 65th infantry regiment 
+during the Korean War known as the Borinqueneers Regiment. I also want 
+to thank Congressman McGovern for his leadership in honoring these 
+brave soldiers. At a time when there is a national dialogue on the 
+contributions of Hispanic Americans, there is no better way to 
+recognize their achievements, than by voting for H. Res. 443.
+  We know that since the Civil War, where over 10,000 Hispanic 
+Americans wore uniforms for both sides, the number of soldiers of 
+Hispanic heritage that have served in each conflict has been 
+significant. Their participation in every military conflict is a source 
+of many heroic actions.
+  In World War I, 200,000 Hispanics were mobilized and to this day we 
+hear stories of their valor, and devotion to spread democracy and 
+freedom around the World.
+  Roughly half a million Hispanics served during World War II. They 
+fought bravely in all of the major conflicts extending throughout 
+Europe, the Pacific and Africa.
+  But it is during the Korean War that over 148,000 Hispanics served, 
+of which 20,000 were from my district in Puerto Rico. 4,000 of them 
+comprised the 65th Infantry Regiment, the largest U.S. infantry 
+regiment for that war. This regiment fought in every major campaign of 
+the Korean War and received numerous praises including a Presidential 
+Unit Citation, Meritorious Unit Commendations and two Republic of Korea 
+Unit Citations for their performance. I would like to quote General 
+Douglas MacArthur, who said in Tokyo on February 12, 1951: ``The Puerto 
+Ricans forming the ranks of the gallant 65th Infantry on the 
+battlefields of Korea . . . are writing a brilliant record of 
+achievement in battle and I am proud indeed to have them in this 
+command. I wish that we might have many more like them.''
+  It is due to this ever-growing identity in the United States, that 
+Hispanic Americans continue to wear, with honor, the uniforms of our 
+Armed Forces. This legislation honors the 65th Infantry Borinqueneers 
+and the legacy they left behind; a legacy of valor, courage and self-
+sacrifice in the face of adversity. I am proud to be an American of 
+Hispanic descent and equally proud to represent the members of the 65th 
+Infantry Regiment; it is for them that I stand here today in support of 
+this legislation and urge all my colleagues to unanimously vote in 
+favor of H. Res. 443.
+  Mr. BACA. Mr. Speaker, I ask for unanimous consent to revise and 
+extend my remarks. I rise in support of H. Res. 443, which recognizes 
+the service of the 65th Infantry Borinqueneers during the Korean War 
+and the continued service of Puerto Ricans in the Armed Services.
+  The Korean War was fought with the sweat and tears of many Americans.
+
+[[Page 24569]]
+
+  The 65th Infantry Regiment was the only Hispanic-segregated unit in 
+United States military history. Mandated by Congress, the unit was 
+compromised by a majority of Puerto Ricans.
+  These honorable soldiers fought at the front of the Korean lines like 
+any other American soldiers. The unit received a Presidential Unit 
+Citation, a Meritorious Unit Commendation, and two Republic of Korea 
+Unit Citations.
+  In addition, we continue to be fortunate enough to count on the 
+service of Puerto Ricans today.
+  This July, Captain Maria Ortiz, a Puerto Rican, was killed by a 
+mortar attack in the Green Zone in Baghdad. She was the first army 
+nurse to be killed in combat since the Vietnam War.
+  Today I stand proud with my colleagues and thank our Puerto Rican 
+soldiers who have fought and will continue to fight so bravely for the 
+great democracy that we enjoy. As a fellow Vietnam-era veteran, I 
+salute you.
+  I urge my colleagues to support and pass H. Res. 443 and recognize 
+the great work of our Puerto Rican soldiers.
+  Mr. GINGREY. Mr. Speaker, I yield back the balance of my time.
+  Ms. SHEA-PORTER. Mr. Speaker, I have no further requests for time, 
+and I yield back the balance of my time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentlewoman from New Hampshire (Ms. Shea-Porter) that the House suspend 
+the rules and agree to the resolution, H. Res. 443, as amended.
+  The question was taken; and (two-thirds being in the affirmative) the 
+rules were suspended and the resolution, as amended, was agreed to.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```
