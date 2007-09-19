@@ -1,0 +1,40 @@
+---
+granule: CREC-2007-09-19-pt1-PgH10516-3
+date: 2007-09-19
+edition: CREC
+section: HOUSE
+page: H10516
+citation: 153 Cong. Rec. H10516
+---
+
+# REAL PROGRESS IS NOT BEING MADE IN IRAQ--IT IS TIME FOR A CHANGE OF COURSE
+
+**Speaking:** Pallone, Frank (P000034) [D-NJ]
+
+```
+  REAL PROGRESS IS NOT BEING MADE IN IRAQ--IT IS TIME FOR A CHANGE OF 
+                                 COURSE
+
+  (Mr. PALLONE asked and was given permission to address the House for 
+1 minute.)
+  Mr. PALLONE. Mr. Speaker, President Bush says progress is being made 
+in Iraq, but many of the examples he pointed to in the nationally 
+televised speech last week were overestimated or overly optimistic. Let 
+me just cite a couple examples.
+  First, President Bush said, ``Iraq's national leaders are getting 
+some things done, such as sharing oil revenues with the provinces.'' 
+But according to the Washington Post, the President's statement ignored 
+the fact that U.S. officials have been frustrated that none of these 
+actions have become law and that a possible compromise has collapsed.
+  The President also thanked ``the 36 nations who have troops on the 
+ground in Iraq.'' But if he had checked with his own State Department, 
+he would have realized that only 25 countries are still involved in the 
+war, supplying only 11,600 troops. Now, that is less than 7 percent of 
+the size of the U.S. forces still on the ground.
+  Mr. Speaker, this is nothing new. The President has been painting 
+rosy scenarios for the situation in Iraq from the very beginning. Time 
+and time again they have been proven wrong. The status quo simply can't 
+continue. It is time to change course.
+
+                          ____________________
+```
