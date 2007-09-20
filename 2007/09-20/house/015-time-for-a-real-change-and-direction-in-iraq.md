@@ -1,0 +1,38 @@
+---
+granule: CREC-2007-09-20-pt1-PgH10630-5
+date: 2007-09-20
+edition: CREC
+section: HOUSE
+page: H10630
+citation: 153 Cong. Rec. H10630
+---
+
+# TIME FOR A REAL CHANGE AND DIRECTION IN IRAQ
+
+**Speaking:** Perlmutter, Ed (P000593) [D-CO]
+
+```
+              TIME FOR A REAL CHANGE AND DIRECTION IN IRAQ
+
+  (Mr. PERLMUTTER asked and was given permission to address the House 
+for 1 minute.)
+  Mr. PERLMUTTER. Madam Speaker, I rise today to encourage all of my 
+colleagues in the House and the Senate to exercise the courage to begin 
+a true new direction in Iraq.
+  Our brave men and women serving in our military are completing every 
+mission they have been asked; and for that I thank them and America 
+thanks them. But the President keeps moving the goalposts and 
+redefining the mission.
+  Last week, the President announced a potential drawdown of troops 
+from Iraq by July of 2008, leaving approximately 130,000 troops in 
+Iraq. This is no change, and it is unacceptable.
+  The American people will not be fooled by these smoke-and-mirror 
+tactics. The President said the surge was intended to provide time for 
+the Iraqis to make political progress; yet, there has been no political 
+progress and no improvement in the situation in Iraq. The Iraqis have 
+only met 3 of 18 benchmarks for success, all the while they are mired 
+in a religious civil war.
+  Enough is enough. It is time for real change and direction in Iraq.
+
+                          ____________________
+```

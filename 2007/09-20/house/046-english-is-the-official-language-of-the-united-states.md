@@ -1,0 +1,89 @@
+---
+granule: CREC-2007-09-20-pt1-PgH10692-4
+date: 2007-09-20
+edition: CREC
+section: HOUSE
+page: H10692
+citation: 153 Cong. Rec. H10692
+---
+
+# ENGLISH IS THE OFFICIAL LANGUAGE OF THE UNITED STATES
+
+**Speaking:** Lungren, Daniel E. (L000517) [R-CA]
+
+```
+         ENGLISH IS THE OFFICIAL LANGUAGE OF THE UNITED STATES
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from California (Mr. Daniel E. Lungren) is recognized for 5 
+minutes.
+  Mr. DANIEL E. LUNGREN of California. Mr. Speaker, in my own district, 
+I have an outstanding example of the best of American business. One of 
+the stores of my district, Lowe's, a store in Citrus Heights, is one of 
+the best in the country. I think they serve the community well.
+  But I would like to talk about an experience my wife and I had this 
+last Saturday here at the Lowe's store in Northern Virginia, in 
+Alexandria. We were going there to buy an appliance that we needed. 
+While we waited for it to be taken out of inventory, I went outside in 
+the parking lot where I saw two large vans that were identified as 
+DeWalt vans. That is the name of the company that provides the power 
+tools that are sold at Lowe's. And I have purchased at least one in the 
+past and thought I might be interested in purchasing another.
+  So, I went out to the big display they had where they had roped off a 
+part of the parking lot to see what they had, to see what I might want 
+to purchase. I was given a flier. I have a blowup of that flier here. 
+When I was handed the flier, I noticed that it was in Spanish. I asked 
+if I could have an English translation or English flier. I was told 
+they didn't have any. But I was told that I could look at the pictures 
+to see what they had on display. I commented that I thought I was in 
+the United States. I was born here. I was taught English in the 
+schools.
+  At that point in time, whoever was doing a bit of the program got on 
+the mike and started speaking to those who were assembled. He spoke in 
+Spanish. I then went inside. As we were making the purchase, I asked to 
+see the manager of the Lowe's store there on Jefferson Highway in 
+Alexandria, Virginia at about 1:30 in the afternoon. The manager came 
+up to me and asked what my complaint was. I suggested that I thought it 
+might be a good idea that they also have English available to those of 
+us who might want to purchase their product. He first told me that 
+wasn't his problem, it was DeWalt's. Of course, DeWalt, as far as I 
+could tell, you only could purchase at Lowe's. Then he looked at me 
+with some chagrin in his face and some upset that I would bring it up 
+and said, ``Well, if you want me to apologize because it is in Spanish, 
+okay, I apologize.'' There was no attempt made to try and service a 
+customer who wanted to buy a product, who wanted to have something 
+explained to him in English rather than looking at the pictures.
+  Now, I understand if I am in another country where English is not the 
+predominant language, I would not be offended if somebody handed me a 
+sheet and said, ``I am sorry we don't have something in English, but 
+you can look at the pictures and see what we have.'' But to be made to 
+feel like a foreigner in your own country within just 30 miles of our 
+Nation's Capitol seems passing strange.
+  I don't object to the celebration of other cultures. We have half 
+Irish and half Swedish in my background. I understand that many of us 
+in America enjoy the celebration of St. Patrick's Day. Many in America 
+and the State in which I was born, California, celebrate Cinco de Mayo. 
+Individuals who come from other backgrounds, whose ancestors have come 
+from other countries, we rejoice in the diversity of America. We 
+rejoice in the fact that we are a country of immigrants.
+  But when we attempt to deal with the difficult questions of 
+immigration, both legal and illegal, and I have been involved in trying 
+to create laws in that for the last 27 years, and when we talk about 
+the issue of multiculturalism in this society, how do we, somehow, 
+create a society that is made even better by the tremendous 
+contributions of people from around the world, different cultures, 
+ethnicities, languages and backgrounds? We still have to understand. We 
+have to have some unifying elements in this society precisely because 
+we have so many backgrounds. One of those unifying elements, in my 
+humble opinion, is a common language, that common language being 
+English. I think when things like this occur, I wasn't identified as a 
+congressman, I was just a plain old customer, as was my wife, this is 
+the kind of thing I think that irritates so many Americans who believe 
+we have just given up on attempting to bring us together with a common 
+American culture brought together by a number of different things, one 
+of which, importantly, is our language. I would hope that not only in 
+this body would we reflect on that, but I would hope some of our 
+commercial enterprises, such as Lowe's, would reflect on that, as well.
+
+                          ____________________
+```

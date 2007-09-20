@@ -1,0 +1,41 @@
+---
+granule: CREC-2007-09-20-pt1-PgS11851-2
+date: 2007-09-20
+edition: CREC
+section: SENATE
+page: S11851
+citation: 153 Cong. Rec. S11851
+---
+
+# HONORING MONTCLAIR STATE UNIVERSITY
+
+**Speaking:** Lautenberg, Frank R. (L000123) [D-NJ]
+
+```
+                  HONORING MONTCLAIR STATE UNIVERSITY
+
+● Mr. LAUTENBERG. Mr. President, today I wish to congratulate 
+Montclair State University, MSU, on its 100th anniversary. Over the 
+past century, MSU has grown from its humble beginnings as the New 
+Jersey State Normal School with just 187 students into one of the 
+premier educational institutions in the State of New Jersey.
+  Montclair State University began as a teacher's college and, to this 
+day, continues to train the Nation's finest educators. However, the 
+school's curriculum has expanded to include a comprehensive range of 
+first-class undergraduate, graduate, and doctoral programs. With over 
+16,000 students and 465 full-time faculty members, MSU is currently the 
+second-largest and fastest-growing university in New Jersey, and has a 
+diverse student body that reflects New Jersey's population.
+  Much of the University's success can be attributed to its steadfast 
+dedication to outstanding faculty, exceptional teaching, and quality of 
+scholarship. The university is led by a dedicated and talented team 
+focused on meeting the many needs of its students and the surrounding 
+community. MSU manages to provide the individual attention of a small 
+college, while also offering a vast array of majors and concentrations.
+  Mr. President, the students and alumni of Montclair State University 
+have much to be proud of as they celebrate 100 years of academia. I 
+applaud MSU for its many years of service, and I wish the university 
+continued success in the years ahead.●
+
+                          ____________________
+```
