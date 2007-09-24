@@ -1,0 +1,40 @@
+---
+granule: CRECB-2007-pt18-Pg25226-2
+date: 2007-09-24
+edition: CRECB
+section: SENATE
+page: 25226
+---
+
+# VOTE EXPLANATION
+
+```
+                            VOTE EXPLANATION
+
+  Mr. DOMENICI. Mr. President, I was unable to cast a vote on Friday, 
+September 21, on amendment No. 2898 to the Defense authorization bill. 
+I have voted against similar measures in the past, and had I been 
+available to vote on Friday, I would have again voted against this 
+attempt to direct a precipitous withdrawal of U.S. troops from Iraq.
+  The terms of this amendment would have required U.S. troops to begin 
+leaving Iraq within 90 days of the Defense authorization bill's 
+enactment and complete that withdrawal within 9 months. While I 
+understand public
+
+[[Page 25227]]
+
+frustration with the war, I believe a precipitous and arbitrary 
+withdrawal mandated by Congress is not a wise solution to the situation 
+in Iraq. I cannot support attempts to set an arbitrary deadline for 
+withdrawing our forces from Iraq, which endangers our troops, our 
+safety at home and the overall stability of Iraq and the Middle East.
+  I believe our military commanders should determine how and when our 
+troops begin leaving Iraq based on conditions on the ground. General 
+Petraeus announced this month that he would be able to begin 
+withdrawing U.S. forces from Iraq. I believe Congress should rely on 
+the guidance and leadership of General Petraeus and our other 
+commanders on the ground to determine how best to eventually bring our 
+troops home from Iraq.
+
+                          ____________________
+```
