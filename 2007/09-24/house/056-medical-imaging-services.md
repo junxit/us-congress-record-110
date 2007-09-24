@@ -1,0 +1,73 @@
+---
+granule: CREC-2007-09-24-pt1-PgH10738-4
+date: 2007-09-24
+edition: CREC
+section: HOUSE
+page: H10738
+citation: 153 Cong. Rec. H10738
+---
+
+# MEDICAL IMAGING SERVICES
+
+**Speaking:** McCarthy, Carolyn (M000309) [D-NY]
+
+**Measures:** H.R. 1293
+
+```
+                        MEDICAL IMAGING SERVICES
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentlewoman from New York (Mrs. McCarthy) is recognized for 5 minutes.
+  Mrs. McCARTHY of New York. Mr. Speaker, I rise today and ask my 
+colleagues to support legislation reversing the dangerous cuts made to 
+medical imaging services by the last Congress.
+  The incorporation of imaging technology into medical practice has 
+transformed physician practice, patient care, and improved health 
+outcomes for millions of Americans.
+  Unfortunately, the Deficit Reduction Act last Congress slashed 
+funding for imaging services. These dangerous cuts mean that women will 
+have difficulty getting a mammogram. Doctors will begin to phase out 
+imaging services because the reimbursement rate will cause them to lose 
+money.
+  While these cuts may have saved the government money, it has 
+increased the health risks of our Nation's citizens. Patients 
+throughout the United States depend on medical imaging because it often 
+detects critical illnesses at their most curable stage when they are 
+less costly to treat. Better, less invasive care often means easier 
+recoveries and greater patient comfort are additional reasons why 
+drastic cuts to medical imaging do not serve the patient well.
+  Medical imaging is an overall cost-saver for patients and the health 
+care system in general because it results in fewer complications, 
+earlier detection, shorter hospital stays, and better pain management.
+  Our goal should be keeping our workers healthy and on the job by 
+helping them avoid surgery, long recuperation and disability. For this 
+reason, significant cuts to medical imaging are not the solution. That 
+is why I ask your support and need it for H.R. 1293, Access to Medical 
+Care Imaging Act of 2007. My legislation would suspend for 2 years 
+drastic cuts to critical diagnostic imaging services provided in 
+physicians' offices and imaging centers.
+  The cuts were agreed to with little public debate by the U.S. House 
+of Representatives, yet they account for more than one-third of the 
+Medicare cuts in the Deficit Reduction Act of 2005. Furthermore, as was 
+directly pointed out by Members on both sides of the aisle during the 
+Energy and Health Subcommittee hearing on July 18 last year, the policy 
+was not recommended to Congress by MedPAC or CMS, and there has been no 
+analysis of the impact of the cuts on seniors' access to imaging 
+services.
+  Unfortunately, despite broad bipartisan support in Congress to delay 
+the DRA policy, the DRA imaging cuts went into effect in January of 
+this year. My legislation would place a 2-year hold on the 
+implementation of the cuts and require a comprehensive GAO study on 
+patient access and service issues relating to the availability and 
+quality of imaging services in physician offices and imaging clinics 
+with special attention to seniors living in rural and medically 
+underserved areas.
+  Please join over 150 of my colleagues and become a cosponsor of H.R. 
+1293. People have to understand sometimes the cuts that we make around 
+here are not in the best interest certainly of our constituents. 
+Spending most of my life as a nurse, preventive care is better than 
+letting it go. That is why our health care costs are so high. We need 
+to do a better job of making sure that our constituents are served.
+
+                          ____________________
+```
