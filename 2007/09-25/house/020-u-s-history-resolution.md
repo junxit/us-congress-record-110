@@ -1,0 +1,40 @@
+---
+granule: CREC-2007-09-25-pt1-PgH10761-4
+date: 2007-09-25
+edition: CREC
+section: HOUSE
+page: H10761
+citation: 153 Cong. Rec. H10761
+---
+
+# U.S. HISTORY RESOLUTION
+
+**Speaking:** McHenry, Patrick T. (M001156) [R-NC]
+
+```
+                        U.S. HISTORY RESOLUTION
+
+  (Mr. McHENRY asked and was given permission to address the House for 
+1 minute.)
+  Mr. McHENRY. Mr. Speaker, 220 years ago, 55 delegates assembled in 
+Philadelphia, ``to form a more perfect union, establish justice, ensure 
+domestic tranquility, provide for the common defense, promote the 
+general welfare, and secure the blessings of liberty to ourselves and 
+our posterity.''
+  The principles set forth by our Founding Fathers are still important 
+today, and the Constitution and founding documents are essential to 
+understand our history as a nation. They remain the bedrock of American 
+society, and it is essential that we honor our Constitution as the 
+embodiment of the freedoms we hold dear. That is why I introduced the 
+U.S. History Resolution.
+  This resolution acknowledges the importance of promoting U.S. history 
+in our schools and communities, with a particular focus on America's 
+founding documents.
+  As the saying goes, those who forget history are doomed to repeat it. 
+And to avoid this fate, we should repeat it often, but to repeat it in 
+schools, to repeat it to our children so they understand where we came 
+from so we can know where we are going. And that will promote a better 
+America.
+
+                          ____________________
+```

@@ -1,0 +1,41 @@
+---
+granule: CREC-2007-09-25-pt1-PgH10760-6
+date: 2007-09-25
+edition: CREC
+section: HOUSE
+page: H10760
+citation: 153 Cong. Rec. H10760
+---
+
+# APPRECIATION FOR TROOPS IN IRAQ AND AFGHANISTAN
+
+**Speaking:** Wilson, Joe (W000795) [R-SC]
+
+```
+            APPRECIATION FOR TROOPS IN IRAQ AND AFGHANISTAN
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Mr. Speaker, this last weekend I was 
+grateful to visit our troops in Iraq and Afghanistan.
+  I saw firsthand the growing success in Baghdad during a visit with 
+Major General Joseph Fil, commander of forces in Baghdad, to a 
+neighborhood joint security site. We saw shops open, normal traffic, 
+and civilians unafraid. This evidence of success was repeated in a 
+visit to Ramadi, where enthusiastic American and Iraqi troops have 
+deposed the al Qaeda terrorists.
+  In Kabul, I was briefed on training of Afghan police by the 218th 
+Brigade of the South Carolina Army National Guard led by General Bob 
+Livingston. As a 28-year veteran of the 218th, I know the competence 
+and resolve of our troops. Additionally, in Jalalabad, American and 
+Afghani provincial reconstruction teams are promoting security, 
+governance, and economic development.
+  With eight visits to Iraq and four to Afghanistan, I am more 
+convinced than ever that to protect the American families we must stop 
+the terrorists overseas. Our dedicated troops deserve our support of 
+this vital mission.
+  In conclusion, God bless our troops, and we will never forget 
+September the 11th.
+
+                          ____________________
+```
