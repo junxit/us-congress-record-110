@@ -1,0 +1,203 @@
+---
+granule: CRECB-2007-pt18-Pg25323-2
+date: 2007-09-25
+edition: CRECB
+section: SENATE
+page: 25323
+---
+
+# REAUTHORIZATION OF CHILDREN'S HEALTH INSURANCE PROGRAM
+
+```
+         REAUTHORIZATION OF CHILDREN'S HEALTH INSURANCE PROGRAM
+
+  Ms. STABENOW. Mr. President, I rise today to speak about a very 
+important and very positive issue we are going to be addressing and 
+sending to the President this week; that is, the reauthorization of the 
+children's health care program. This is really a historic, bipartisan 
+effort that has been put together, and it is something we have done 
+together for all of our families and children across America.
+  We urgently need to pass this bill in its final form and send it to 
+the President of the United States. I know the House of Representatives 
+is doing that today, and it will then come to us. There is no question 
+that it is one of the most important things we will do this year, not 
+only guaranteeing that some 6 million children who currently receive 
+this children's health care program will be able to continue to get 
+health care, but we will be expanding upwards of another 4 million 
+children who will be able to have the health care they need and 
+deserve.
+  I wish to particularly thank leaders on the Finance Committee, 
+including Senator Baucus, Senator Grassley, Senator Rockefeller, and 
+Senator Hatch, for working together in such a wonderful way that has 
+given us the opportunity in the Senate to come together, with the 
+original vote on the bill being 68 Members of the Senate--68 Members of 
+the Senate. In addition to that, we are so thrilled to have Senator 
+Johnson back with us so that his vote will be added as well to this 
+very important program.
+  I also thank our leader, Senator Harry Reid, for making this a top 
+priority and for personally engaging in the negotiations that took 
+place to be able to get us to the point where we have something on 
+which we can move forward in the House and the Senate in a bipartisan 
+way.
+  This really builds on the bipartisan spirit that created the whole 
+program in 1997. I was in the U.S. House of Representatives 
+representing mid-Michigan at the time and felt that as we put this 
+program together then, it was an incredibly important statement of our 
+values and our priorities. We are talking about working families, moms 
+and dads who go to work every day to maybe one, two, or three jobs who 
+are trying to hold things together and desperately want to make sure 
+their children have the health care they need. That is what this 
+legislation is all about. That is what this program is all about.
+  Among many good things that have been placed into this bipartisan 
+legislation, I am very proud to say that it makes important 
+improvements in dental care and in mental health care for children. It 
+looks at quality issues and health information technology. I am very 
+pleased that language which I authored concerning creating an 
+electronic medical record for children, a pediatric electronic medical 
+record, is in this legislation so that we can bring children's 
+information together around immunizations and other kinds of health 
+care needs in one place so we can more effectively have them treated 
+and have doctors and hospitals knowing what, in fact, a child's medical 
+record is. I am also very pleased about another piece of the 
+legislation I worked on in relation to school-based health centers and 
+the importance of recognizing them as part of a continuum of care for 
+children.
+  This bill really does represent a very successful public sector and 
+private sector partnership that helps our families and makes sure more 
+children, children of working families, are able to get health care in 
+this country. In my State of Michigan, a private insurer runs what we 
+call the MIChild Program. Last year, nearly one-third of the children 
+in Michigan relied on either Healthy Kids through Medicaid for low-
+income children or MIChild, which represents working families, for 
+health care coverage. About three-quarters of the children have at 
+least 1 working parent. I must say that oftentimes that is mom--mom 
+trying to, again, work 1 job or 2 jobs or 3 jobs, desperately concerned 
+about her children, needing to put food on the table, needing to buy 
+them school clothes, needing to get them what they need to be able to 
+survive and function every day, and knowing that when they desperately 
+need to go to the dentist, they are able to get a dental checkup, or to 
+be able to get basic kinds of health care.
+  I know too many people who tell me they go to bed at night saying: 
+Please, God, don't let the kids get sick. This program in Michigan, 
+MIChild, and this program which we are now coming together on a 
+bipartisan basis to expand says to those parents: Somebody is hearing 
+you; that we as a country and as a Congress care about the children of 
+this country and making sure they have their health care needs met.
+  It is so important to stress that this is not a program for wealthy 
+families, for rich kids. We have heard so much misinformation about 
+what this program is all about. In Michigan, a family of 4 cannot make 
+over $40,000 to qualify for MIChild. This is, again, a family of 4. If 
+there are two working parents, working just barely above poverty level, 
+this allows them to be able to get the health insurance they need for 
+their children.
+  The Saginaw-based Center for Civil Justice shared a story with me 
+about a young mother named Christie whose husband was laid off and the 
+family income dropped to less than $2,000 a month for a family of 5--
+less than $24,000 a year for a family of 5. Nearly half of that goes to 
+rent and utilities, like most families. The children's health care 
+program in Michigan, MIChild, has helped their 3 children, who are 4 
+years old, 3 years old, and 8 months. Thankfully, they have been able 
+to--in Michigan, we have had a dental benefit, which is something we 
+are going to provide through this bill. Without that, Christie's 
+children would not have what they need.
+  Recently, one of the children needed to have their tonsils removed. I 
+remember those days with my children. It would not have been able to be 
+done--it could have turned into a much more serious situation for that 
+child--if it was not for the children's health care program. It makes a 
+difference in children's lives every day.
+  Another mom, Pam, is a full-time preschool teacher and mother. Her 
+monthly premiums of $384 per month, or over $4,500 per year, would have 
+taken up a fifth of her pay if she was trying to pay through a private 
+individual plan.
+  But through MICild, she was able to get the specialized care she 
+needed for
+
+[[Page 25324]]
+
+her daughter, who suffers from a rare seizure disorder. She would not 
+have been able to care for her daughter if it were not for the 
+children's health care program.
+  Like Pam, most working families simply cannot afford traditional 
+health insurance and make ends meet--to be able to pay rent, utilities, 
+a mortgage payment, or purchase food and school clothes, and, on top of 
+that, find an individual policy that is affordable in the private 
+market. According to the Commonwealth Fund, nearly three-quarters of 
+people living below 200 percent of the poverty line found it very 
+difficult or impossible to find affordable coverage in the individual 
+market. Premiums for individual market coverage for families with 
+incomes between 100 percent of poverty and 199 percent of poverty--
+which is what we are talking about and what we have in Michigan--on 
+average, one-quarter of the family's total income--25 percent--would be 
+premiums for health care in the private market. Faced with these costs, 
+many families just don't have the coverage because they cannot afford 
+to do it and at the same time put food on the table. The situation is 
+even worse for families with chronic conditions, such as asthma or 
+juvenile diabetes. If they were able to purchase coverage in the 
+individual market, costs would be much higher.
+  The children's health program, it is important to note, is not just 
+for kids in cities, it is not just an urban program. This program helps 
+all children regardless of where they live. In fact, according to the 
+Carsey Institute, they found that there were more children in rural 
+areas who were benefiting from the Children's Health Insurance Program 
+than in urban areas--32 percent of rural children versus 26 percent of 
+urban children. So this really is something that touches every single 
+part of the country, every single part of our States, and families all 
+throughout America who are working hard every day and counting on us to 
+help them to be able to get the children's health care they need.
+  We are taking a huge step forward for our Nation's uninsured 
+children, the vast majority of whom--78 percent--live in working 
+families. Seventy-eight percent live in a home where mom and/or dad is 
+working, but they are not making enough to be able to afford private 
+premiums in the private individual market. Because the importance of 
+the children's health care program is so critical for so many families, 
+I urge my colleagues not to listen to inaccurate statements or negative 
+attacks but to join together, as we have done, in a wonderful 
+bipartisan effort in the Senate to send a very strong message to this 
+President that we come together on behalf of the children and the 
+working families of America to put our values and priorities in the 
+right place. That is what we are talking about here. This is about 
+choices, about values, about priorities.
+  This bill is totally in line with what President Bush proposed at the 
+2004 Republican Convention. He said at that time:
+
+       In a new term, we will lead an aggressive effort to enroll 
+     millions of poor children who are eligible but not signed up 
+     for Government health insurance programs. We will not allow a 
+     lack of attention, or information, to stand between these 
+     children and the health care they need.
+
+  Well, Mr. President, this bipartisan compromise, this bipartisan 
+victory which has been put together in the Congress is an aggressive 
+effort to enroll millions of poor children into a successful public-
+private partnership. This bill before us is a chance to make a real 
+difference in the lives of millions of children--millions of children 
+who, without us and the children's health care program, will not have 
+that chance.
+  We need to do the right thing. Every day, as we wait, children are 
+growing; they don't wait for us. They keep on growing whether we are 
+debating, whether we are in committee meetings. Regardless of what we 
+are doing, the children of America keep on growing. They keep on having 
+needs--dental or broad health care needs or mental health needs. It is 
+time to do the right thing. We have it within our grasp. A tremendous 
+amount of hard work has gone into this. Let's remember the bipartisan 
+spirit that created this great program in 1997. Let's remember that the 
+Children's Health Insurance Program is truly a great American success 
+story for which we can all take credit. We can join together in taking 
+credit for it.
+  Let's pass this bill and, most importantly, let's together urge the 
+President of the United States to do the right thing on behalf of the 
+children of America.
+  Mr. President, I yield the floor.
+  The ACTING PRESIDENT pro tempore. The Senator from Ohio is 
+recognized.
+  Mr. BROWN. Mr. President, I thank Senator Stabenow, my friend from 
+Michigan, for the comments about children's health. She is right-on 
+about that. Look at the choice. We are going to spend $2.5 billion a 
+week in Iraq. Yet we are unwilling per year to spend $7 billion to 
+insure 4 million additional children--some 75,000 in my State and 
+50,000 or 60,000 in the State of Michigan next door. We are spending 
+$2.5 billion a week in Iraq. Yet the President says he is going to say 
+no and veto this bill on children's health.
+
+                          ____________________
+```
