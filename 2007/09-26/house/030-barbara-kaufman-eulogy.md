@@ -1,0 +1,42 @@
+---
+granule: CREC-2007-09-26-pt1-PgH10935
+date: 2007-09-26
+edition: CREC
+section: HOUSE
+page: H10935
+citation: 153 Cong. Rec. H10935
+---
+
+# BARBARA KAUFMAN EULOGY
+
+**Speaking:** Watson, Diane E. (W000794) [D-CA]
+
+```
+                         BARBARA KAUFMAN EULOGY
+
+  (Ms. WATSON asked and was given permission to address the House for 1 
+minute.)
+  Ms. WATSON. Mr. Speaker, we have lost a popular and well-educated 
+school administrator who was an outstanding student and gifted in 
+music. Early on, her teachers would say of her, ``She could walk 
+amongst kings and not lose her common touch.'' She moved easily among 
+people, singing her way into star status, and even appeared on an early 
+TV version of ``Star Search.'' Using her own talents of fashion, 
+decorating and cooking, she was a role model for her students.
+  Barbara Kaufman was a special education administrative secretary for 
+Los Angeles County Schools for over 25 years. She was a champion for 
+the rights of children with special needs and deeply loved working in 
+her chosen profession. In addition, Barbara volunteered in the 
+political campaigns of myself, and she accepted any job that would add 
+to the improvement of the people's social, political and economic 
+conditions.
+  After many bouts with illness, Barbara's activities were limited. 
+However, she participated as much as possible in her church, 
+particularly enjoying Bible study and prayer support groups. Barbara 
+Kaufman was a woman for all seasons and a witness for Christ.
+  A life so well lived has to be recognized by our Congress so the 
+record will show her life as a role model for others. BJ's star will 
+forever shine in the lives of those who knew and loved her.
+
+                          ____________________
+```

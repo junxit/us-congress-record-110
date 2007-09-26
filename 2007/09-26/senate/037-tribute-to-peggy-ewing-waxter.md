@@ -1,0 +1,55 @@
+---
+granule: CREC-2007-09-26-pt1-PgS12137-2
+date: 2007-09-26
+edition: CREC
+section: SENATE
+page: S12137
+citation: 153 Cong. Rec. S12137
+---
+
+# TRIBUTE TO PEGGY EWING WAXTER
+
+**Speaking:** Cardin, Benjamin L. (C000141) [D-MD]
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+                     TRIBUTE TO PEGGY EWING WAXTER
+
+● Mr. CARDIN. Mr. President, today I commemorate the life of 
+Peggy Ewing Waxter, a woman who worked tirelessly to promote positive 
+social change and civil rights. Mrs. Waxter passed away last Tuesday, 
+September 18, 2007, at the age of 103. The State of Maryland and our 
+Nation have lost a remarkable woman.
+  In the 1930s, Mrs. Waxter helped found the Waxter Center for Seniors 
+in
+
+[[Page S12138]]
+
+Baltimore City. She also aided in the founding of various other 
+organizations, including the University of Maryland Center for Infant 
+Study, the Children's Guild of Baltimore, and the Maryland Committee 
+for Children. She also helped establish the Baltimore Metropolitan 
+Association for Mental Health.
+  In addition to working to improve the lives of seniors, women, and 
+minorities, Peggy Waxter also served as chairwoman of the Volunteers 
+Advisory Committee at Baltimore City Hospital, which is now the Johns 
+Hopkins Bayview Hospital, and as head of the Northeast Symphony 
+Society. Through these and numerous other service organizations, she 
+influenced nearly every aspect of Baltimore society and was rightfully 
+named by Baltimore Magazine one of the city's 11 most powerful women in 
+1978.
+  Baltimore is a better city because of Peggy Waxter's guiding hand. 
+She is survived by her family: a daughter, Margaret Waxter Maher; a 
+son, retired Baltimore City Circuit Court Judge Thomas J.S. Waxter, 
+Jr., with whom I was privileged to serve in the Maryland General 
+Assembly from 1967 until 1971; 6 grandchildren; and 10 great-
+grandchildren. I wish to express my heartfelt condolences to the Waxter 
+family, and I ask my colleagues to join me in remembering her 
+today.●
+
+                          ____________________
+```

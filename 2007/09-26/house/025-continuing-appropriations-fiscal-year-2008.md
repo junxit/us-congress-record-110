@@ -1,0 +1,1959 @@
+---
+granule: CREC-2007-09-26-pt1-PgH10913-2
+date: 2007-09-26
+edition: CREC
+section: HOUSE
+page: H10913
+citation: 153 Cong. Rec. H10913
+---
+
+# CONTINUING APPROPRIATIONS, FISCAL YEAR 2008
+
+**Speaking:** Obey, David R. (O000007) [D-WI], Lewis, Jerry (L000274) [R-CA], Blumenauer, Earl (B000574) [D-OR], Oberstar, James L. (O000006) [D-MN]
+
+**Measures:** S.Con.Res. 21, H.J.Res. 52, H.Res. 677, H.R. 2829
+
+```
+              CONTINUING APPROPRIATIONS, FISCAL YEAR 2008
+
+  Mr. OBEY. Mr. Speaker, pursuant to House Resolution 677, I call up 
+the joint resolution (H.J. Res. 52) making continuing appropriations 
+for the fiscal year 2008, and for other purposes, and ask for its 
+immediate consideration.
+  The Clerk read the title of the joint resolution.
+  The text of House Joint Resolution 52 is as follows:
+
+                              H.J. Res. 52
+
+       Resolved by the Senate and House of Representatives of the 
+     United States of America in Congress assembled, That the 
+     following sums are hereby appropriated, out of any money in 
+     the Treasury not otherwise appropriated, and out of 
+     applicable corporate or other revenues, receipts, and funds, 
+     for the several departments, agencies, corporations, and 
+     other organizational units of Government for fiscal year 
+     2008, and for other purposes, namely:
+       Sec. 101. Such amounts as may be necessary, at a rate for 
+     operations as provided in the applicable appropriations Acts 
+     for fiscal year 2007 and under the authority and conditions 
+     provided in such Acts, for continuing projects or activities 
+     (including the costs of direct loans and loan guarantees) 
+     that are not otherwise specifically provided for in this 
+     joint resolution, that were conducted in fiscal year 2007, 
+     and for which appropriations, funds, or other authority were 
+     made available in the following appropriations Acts:
+       (1) The Department of Defense Appropriations Act, 2007 
+     (division A of Public Law 109-289).
+       (2) The Department of Homeland Security Appropriations Act, 
+     2007 (Public Law 109-295).
+       (3) The Continuing Appropriations Resolution, 2007 
+     (division B of Public Law 109-289, as amended by Public Law 
+     110-5).
+       Sec. 102. (a) No appropriation or funds made available or 
+     authority granted pursuant to section 101 for the Department 
+     of Defense shall be used for (1) the new production of items 
+     not funded for production in fiscal year 2007 or prior years; 
+     (2) the increase in production rates above those sustained 
+     with fiscal year 2007 funds; or (3) the initiation, 
+     resumption, or continuation of any project, activity, 
+     operation, or organization (defined as any project, 
+     subproject, activity, budget activity, program element, and 
+     subprogram within a program element, and for any investment 
+     items defined as a P-1 line item in a budget activity within 
+     an appropriation account and an R-1 line item that includes a 
+     program element and subprogram element within an 
+     appropriation account) for which appropriations, funds, or 
+     other authority were not available during fiscal year 2007.
+       (b) No appropriation or funds made available or authority 
+     granted pursuant to section 101 for the Department of Defense 
+     shall be used to initiate multi-year procurements utilizing 
+     advance procurement funding for economic order quantity 
+     procurement unless specifically appropriated later.
+       (c) Notwithstanding this section, the Secretary of Defense 
+     may, following notification of the congressional defense 
+     committees, initiate projects or activities required to be 
+     undertaken for force protection purposes using funds 
+     available from the Iraq Freedom Fund.
+       Sec. 103. Appropriations made by section 101 shall be 
+     available to the extent and in the manner that would be 
+     provided by the pertinent appropriations Act.
+       Sec. 104. Except as otherwise provided in section 102, no 
+     appropriation or funds made available or authority granted 
+     pursuant to section 101 shall be used to initiate or resume 
+     any project or activity for which appropriations, funds, or 
+     other authority were not available during fiscal year 2007.
+       Sec. 105. Appropriations made and authority granted 
+     pursuant to this joint resolution shall cover all obligations 
+     or expenditures incurred for any project or activity during 
+     the period for which funds or authority for such project or 
+     activity are available under this joint resolution.
+       Sec. 106. Unless otherwise provided for in this joint 
+     resolution or in the applicable appropriations Act for fiscal 
+     year 2008, appropriations and funds made available and 
+     authority granted pursuant to this joint resolution shall be 
+     available until whichever of the following first occurs: (1) 
+     the enactment into law of an appropriation for any project or 
+     activity provided for in this joint resolution;
+
+[[Page H10914]]
+
+     (2) the enactment into law of the applicable appropriations 
+     Act for fiscal year 2008 without any provision for such 
+     project or activity; or (3) November 16, 2007.
+       Sec. 107. Expenditures made pursuant to this joint 
+     resolution shall be charged to the applicable appropriation, 
+     fund, or authorization whenever a bill in which such 
+     applicable appropriation, fund, or authorization is contained 
+     is enacted into law.
+       Sec. 108. Appropriations made and funds made available by 
+     or authority granted pursuant to this joint resolution may be 
+     used without regard to the time limitations for submission 
+     and approval of apportionments set forth in section 1513 of 
+     title 31, United States Code, but nothing in this joint 
+     resolution may be construed to waive any other provision of 
+     law governing the apportionment of funds.
+       Sec. 109. Notwithstanding any other provision of this joint 
+     resolution, except section 106, for those programs that would 
+     otherwise have high initial rates of operation or complete 
+     distribution of appropriations at the beginning of fiscal 
+     year 2008 because of distributions of funding to States, 
+     foreign countries, grantees, or others, such high initial 
+     rates of operation or complete distribution shall not be 
+     made, and no grants shall be awarded for such programs funded 
+     by this joint resolution that would impinge on final funding 
+     prerogatives.
+       Sec. 110. This joint resolution shall be implemented so 
+     that only the most limited funding action of that permitted 
+     in the joint resolution shall be taken in order to provide 
+     for continuation of projects and activities.
+       Sec. 111. (a) For entitlements and other mandatory payments 
+     whose budget authority was provided in appropriations Acts 
+     for fiscal year 2007, and for activities under the Food Stamp 
+     Act of 1977, activities shall be continued at the rate to 
+     maintain program levels under current law, under the 
+     authority and conditions provided in the applicable 
+     appropriations Act for fiscal year 2007, to be continued 
+     through the date specified in section 106(3).
+       (b) Notwithstanding section 106, obligations for mandatory 
+     payments due on or about the first day of any month that 
+     begins after October 2007 but not later than 30 days after 
+     the date specified in section 106(3) may continue to be made, 
+     and funds shall be available for such payments.
+       Sec. 112. Amounts made available under section 101 for 
+     civilian personnel compensation and benefits in each 
+     department and agency may be apportioned up to the rate for 
+     operations necessary to avoid furloughs within such 
+     department or agency, consistent with the applicable 
+     appropriations Act for fiscal year 2007, except that such 
+     authority provided under this section shall not be used until 
+     after the department or agency has taken all necessary 
+     actions to reduce or defer non-personnel-related 
+     administrative expenses.
+       Sec. 113. Funds appropriated by this joint resolution may 
+     be obligated and expended notwithstanding section 10 of 
+     Public Law 91-672 (22 U.S.C. 2412), section 15 of the State 
+     Department Basic Authorities Act of 1956 (22 U.S.C. 2680), 
+     section 313 of the Foreign Relations Authorization Act, 
+     Fiscal Years 1994 and 1995 (22 U.S.C. 6212), and section 
+     504(a)(1) of the National Security Act of 1947 (50 U.S.C. 
+     414(a)(1)).
+       Sec. 114. Notwithstanding section 20106 of the Continuing 
+     Appropriations Resolution, 2007 (division B of Public Law 
+     109-289, as amended by Public Law 110-5), the Secretary of 
+     Agriculture is authorized to enter into or renew contracts 
+     under section 521(a)(2) of the Housing Act of 1949 (42 U.S.C. 
+     1490a(a)(2)) for 1 year.
+       Sec. 115. The authority provided by section 3a of the Act 
+     of March 3, 1927 (commonly known as the ``Cotton Statistics 
+     and Estimates Act'') (7 U.S.C. 473a) shall continue in effect 
+     through the date specified in section 106(3) of this joint 
+     resolution.
+       Sec. 116. The authority of the Secretary of Agriculture to 
+     carry out the adjusted gross income limitation contained in 
+     section 1001D of the Food Security Act of 1985 (7 U.S.C. 
+     1308-3a) shall continue through the end of the period 
+     specified in subsection (e) of such section or the date 
+     specified in section 106(3) of this joint resolution, 
+     whichever occurs later.
+       Sec. 117. The provisions of title VIII of the Departments 
+     of Commerce, Justice, and State, the Judiciary, and Related 
+     Agencies Appropriations Act, 2005 (Public Law 108-447, 
+     division B) that apply during fiscal year 2007 shall continue 
+     to apply through the date specified in section 106(3) of this 
+     joint resolution.
+       Sec. 118. The authority provided by section 1202 of the 
+     National Defense Authorization Act for Fiscal Year 2006 
+     (Public Law 109-163) shall continue in effect through the 
+     earlier of the date of enactment of the National Defense 
+     Authorization Act for Fiscal Year 2008 or the date specified 
+     in section 106(3) of this joint resolution.
+       Sec. 119. The authority provided by section 1477(d) of 
+     title 10, United States Code, as amended by section 3306 of 
+     Public Law 110-28, shall continue in effect through the date 
+     of enactment of the National Defense Authorization Act for 
+     Fiscal Year 2008.
+       Sec. 120. The authority provided by section 1208 of the 
+     Ronald W. Reagan National Defense Authorization Act for 
+     Fiscal Year 2005 (Public Law 108-375) shall continue in 
+     effect through the earlier of the date of enactment of the 
+     National Defense Authorization Act for Fiscal Year 2008 or 
+     the date specified in section 106(3) of this joint 
+     resolution.
+       Sec. 121. The authority provided by section 1022 of the 
+     National Defense Authorization Act for Fiscal Year 2004 
+     (Public Law 108-136), as amended by section 1022 of the 
+     National Defense Authorization Act for Fiscal Year 2006 
+     (Public Law 109-163), shall continue in effect through the 
+     earlier of the date of enactment of the National Defense 
+     Authorization Act for Fiscal Year 2008 or the date specified 
+     in section 106(3) of this joint resolution.
+       Sec. 122. The authority provided by section 1051a of title 
+     10, United States Code, shall continue in effect through the 
+     earlier of the date of enactment of the National Defense 
+     Authorization Act for Fiscal Year 2008 or the date specified 
+     in section 106(3) of this joint resolution.
+       Sec. 123. (a) Notwithstanding any other provision of law or 
+     this joint resolution, and in addition to amounts otherwise 
+     made available by this joint resolution, there is 
+     appropriated $5,200,000,000 for a ``Mine Resistant Ambush 
+     Protected Vehicle Fund'', to remain available until September 
+     30, 2008.
+       (b) The funds provided by subsection (a) shall be available 
+     to the Secretary of Defense to continue technological 
+     research and development and upgrades, to procure Mine 
+     Resistant Ambush Protected vehicles and associated support 
+     equipment, and to sustain, transport, and field Mine 
+     Resistant Ambush Protected vehicles.
+       (c)(1) The Secretary of Defense shall transfer funds 
+     provided by subsection (a) to appropriations for operation 
+     and maintenance; procurement; and research, development, test 
+     and evaluation to accomplish the purposes specified in 
+     subsection (b). Such transferred funds shall be merged with 
+     and be available for the same purposes and for the same time 
+     period as the appropriation to which they are transferred.
+       (2) The transfer authority provided by this subsection 
+     shall be in addition to any other transfer authority 
+     available to the Department of Defense.
+       (3) The Secretary of Defense shall, not less than 5 days 
+     prior to making any transfer under this subsection, notify 
+     the congressional defense committees in writing of the 
+     details of the transfer.
+       (d) The amount provided by this section is designated as an 
+     emergency requirement and necessary to meet emergency needs 
+     pursuant to subsections (a) and (b) of section 204 of S. Con. 
+     Res. 21 (110th Congress), the concurrent resolution on the 
+     budget for fiscal year 2008.
+       Sec. 124. Section 14704 of title 40, United States Code, 
+     shall be applied by substituting the date specified in 
+     section 106(3) of this joint resolution for ``October 1, 
+     2007''.
+       Sec. 125. Section 382N of the Consolidated Farm and Rural 
+     Development Act (7 U.S.C. 2009aa-13) shall be applied by 
+     substituting the date specified in section 106(3) of this 
+     joint resolution for ``October 1, 2007''.
+       Sec. 126. Of the funds made available to the Department of 
+     Energy under this joint resolution, $484,000 may be 
+     transferred to another agency for carrying out the provisions 
+     of division C of Public Law 108-324. Funds so transferred 
+     shall be refunded to the Department after passage of the 
+     regular appropriations Act for that agency.
+       Sec. 127. (a) In addition to the amounts otherwise provided 
+     under section 101, an additional amount is available under 
+     ``General Services Administration--Operating Expenses 
+     Account'', at a rate for operations of $4,340,000, for the 
+     costs of agency activities transferred to the Civilian Board 
+     of Contract Appeals pursuant to section 847 of the National 
+     Defense Authorization Act for Fiscal Year 2006 (Public Law 
+     109-163).
+       (b) For purposes of section 101, the rate for operations 
+     for each of the accounts from which funds were transferred in 
+     fiscal year 2007 pursuant to section 847(b) of the National 
+     Defense Authorization Act for Fiscal Year 2006 (Public Law 
+     109-163; 41 U.S.C. 607 note) is reduced by an amount equal to 
+     the annualized level of the funds transferred.
+       Sec. 128. Notwithstanding any other provision of this joint 
+     resolution, except section 106, the District of Columbia may 
+     expend local funds for programs and activities under the 
+     heading ``District of Columbia Funds'' for such programs and 
+     activities under title IV of H.R. 2829 (110th Congress), as 
+     passed by the House of Representatives, at the rate set forth 
+     under ``District of Columbia Funds--Summary of Expenses'' as 
+     included in the Fiscal Year 2008 Proposed Budget and 
+     Financial Plan submitted to the Congress by the District of 
+     Columbia on June 7, 2007, as amended on June 29, 2007.
+       Sec. 129. Section 403(f) of the Government Management 
+     Reform Act of 1994 (Public Law 103-356; 31 U.S.C. 501 note) 
+     shall be applied by substituting the date specified in 
+     section 106(3) of this joint resolution for ``October 1, 
+     2006''.
+       Sec. 130. Section 204(e) of the Veterans Benefits 
+     Improvement Act of 2004 (Public Law 108-454; 38 U.S.C. 4301 
+     note) shall be applied by substituting the date specified in 
+     section 106(3) of this joint resolution for ``September 30, 
+     2007''.
+       Sec. 131. Any funds made available pursuant to section 101 
+     for United States Customs and Border Protection may be 
+     obligated to support hiring, training, and equipping of new 
+     border patrol agents at a rate for operations not exceeding 
+     that necessary to sustain the numbers of new border patrol 
+     agents hired, trained, and equipped in the final quarter of 
+     fiscal year 2007. The Commissioner of United States Customs 
+     and Border Protection shall notify the Committees on 
+     Appropriations of the House of Representatives and the Senate 
+     on each use of the authority provided in this section.
+
+[[Page H10915]]
+
+       Sec. 132. The Secretary of Homeland Security may continue, 
+     through the date specified in section 106(3) of this joint 
+     resolution, to obligate funds at the rate the Secretary 
+     determines necessary to maintain not more than the average 
+     monthly number of detention bed spaces in use during 
+     September 2007 at detention facilities operated or contracted 
+     by the Department of Homeland Security.
+       Sec. 133. During the period specified in section 106 of 
+     this joint resolution, section 517(b) of Public Law 109-295 
+     shall not be in effect.
+       Sec. 134. Section 105(f)(1)(B)(ix) of the Compact of Free 
+     Association Amendments Act of 2003 (48 U.S.C. 
+     1921d(f)(1)(B)(ix)) shall be applied by substituting the date 
+     specified in section 106(3) of this joint resolution for 
+     ``the end of fiscal year 2007''.
+       Sec. 135. (a) Activities authorized by chapters 2, 3, 5, 
+     and 6 of title II of the Trade Act of 1974 (19 U.S.C. 2271 et 
+     seq.) shall continue through the date specified in section 
+     106(3) of this joint resolution.
+       (b) Notwithstanding any other provision of this joint 
+     resolution, except section 106, there is appropriated to 
+     carry out chapter 6 of title II of the Trade Act of 1974 (19 
+     U.S.C. 2401 et seq.) $5,000,000.
+       Sec. 136. (a) Appropriation for CHIP Program.--
+       (1) In general.--Notwithstanding any other provision of 
+     this joint resolution, there is hereby appropriated, out of 
+     any money in the Treasury not otherwise appropriated for 
+     fiscal year 2008, $5,000,000,000 for purposes of providing 
+     allotments to States, the District of Columbia, and 
+     commonwealths and territories under section 2104 of the 
+     Social Security Act (42 U.S.C. 1397dd), and, in addition, 
+     $40,000,000 for the purpose of providing additional 
+     allotments under subsection (c)(4)(A) of such section.
+       (2) Availability.--Funds made available from any allotment 
+     under subsection (b) shall not be available for obligation 
+     for child health assistance for items and services furnished 
+     after the termination date specified in section 106(3) of 
+     this joint resolution, or, if earlier, the date of the 
+     enactment of an Act that provides funding for fiscal year 
+     2008 and for one or more subsequent fiscal years for the 
+     Children's Health Insurance Program under title XXI of the 
+     Social Security Act.
+       (b) Allotments.--Notwithstanding any other provision of 
+     this joint resolution, the Secretary of Health and Human 
+     Services shall make allotments to States, the District of 
+     Columbia, and commonwealths and territories under section 
+     2104 of the Social Security Act (42 U.S.C. 1397dd) from the 
+     amounts appropriated under subsection (a) for the entire 
+     fiscal year 2008.
+       (c) Redistribution of Unused Fiscal Year 2005 Allotments to 
+     States With Estimated Funding Shortfalls for Fiscal Year 
+     2008.--Section 2104 of the Social Security Act (42 U.S.C. 
+     1397dd) is amended by adding at the end the following new 
+     subsection:
+       ``(i) Redistribution of Unused Fiscal Year 2005 Allotments 
+     to States With Estimated Funding Shortfalls for Fiscal Year 
+     2008.--
+       ``(1) In general.--Notwithstanding subsection (f) and 
+     subject to paragraphs (3) and (4), with respect to months 
+     beginning during fiscal year 2008, the Secretary shall 
+     provide for a redistribution under such subsection from the 
+     allotments for fiscal year 2005 under subsection (b) that are 
+     not expended by the end of fiscal year 2007, to a fiscal year 
+     2008 shortfall State described in paragraph (2), such amount 
+     as the Secretary determines will eliminate the estimated 
+     shortfall described in such paragraph for such State for the 
+     month.
+       ``(2) Fiscal year 2008 shortfall state described.--A fiscal 
+     year 2008 shortfall State described in this paragraph is a 
+     State with a State child health plan approved under this 
+     title for which the Secretary estimates, on a monthly basis 
+     using the most recent data available to the Secretary as of 
+     such month, that the projected expenditures under such plan 
+     for such State for fiscal year 2008 will exceed the sum of--
+       ``(A) the amount of the State's allotments for each of 
+     fiscal years 2006 and 2007 that was not expended by the end 
+     of fiscal year 2007; and
+       ``(B) the amount of the State's allotment for fiscal year 
+     2008.
+       ``(3) Funds redistributed in the order in which states 
+     realize funding shortfalls.--The Secretary shall redistribute 
+     the amounts available for redistribution under paragraph (1) 
+     to fiscal year 2008 shortfall States described in paragraph 
+     (2) in the order in which such States realize monthly funding 
+     shortfalls under this title for fiscal year 2008. The 
+     Secretary shall only make redistributions under this 
+     subsection to the extent that there are unexpended fiscal 
+     year 2005 allotments under subsection (b) available for such 
+     redistributions.
+       ``(4) Proration rule.--If the amounts available for 
+     redistribution under paragraph (1) are less than the total 
+     amounts of the estimated shortfalls determined for the month 
+     under that paragraph, the amount computed under such 
+     paragraph for each fiscal year 2008 shortfall State for the 
+     month shall be reduced proportionally.
+       ``(5) Retrospective adjustment.--The Secretary may adjust 
+     the estimates and determinations made to carry out this 
+     subsection as necessary on the basis of the amounts reported 
+     by States not later than November 30, 2007, on CMS Form 64 or 
+     CMS Form 21, as the case may be, and as approved by the 
+     Secretary.
+       ``(6) 1-year availability; no further redistribution.--
+     Notwithstanding subsections (e) and (f), amounts 
+     redistributed to a State pursuant to this subsection for 
+     fiscal year 2008 shall only remain available for expenditure 
+     by the State through September 30, 2008, and any amounts of 
+     such redistributions that remain unexpended as of such date, 
+     shall not be subject to redistribution under subsection 
+     (f).''.
+       (d) Extending Authority for Qualifying States To Use 
+     Certain Funds for Medicaid Expenditures.--Section 
+     2105(g)(1)(A) of such Act (42 U.S.C. 1397ee) is amended by 
+     striking ``or 2007'' and inserting ``2007, or 2008''.
+       (e) Applicability.--The amendments made by subsection (c) 
+     and (d) shall be in effect through the date specified in 
+     section 106(3) of this joint resolution or, if earlier, the 
+     date of the enactment of an Act that provides funding for 
+     fiscal year 2008 and for one or more subsequent fiscal years 
+     for the Children's Health Insurance Program under title XXI 
+     of the Social Security Act.
+       Sec. 137. Notwithstanding any other provision of this joint 
+     resolution, there is appropriated for payment to Susan 
+     Thomas, widow of Craig Thomas, late a Senator from the State 
+     of Wyoming, $165,200, and for payment to Karen L. Gillmor, 
+     widow of Paul E. Gillmor, late a Representative from the 
+     State of Ohio, $165,200.
+       Sec. 138. The Secretary of Veterans Affairs shall carry out 
+     subparagraph (B) of section 1710(f)(2) of title 38, United 
+     States Code, and subparagraph (E) of section 1729(a)(2) of 
+     such title by substituting the date specified in section 
+     106(3) of this joint resolution for the date specified in 
+     each such subparagraph.
+       Sec. 139. Notwithstanding section 101, amounts are provided 
+     for ``Department of Defense Base Closure Account 2005'' at a 
+     rate for operations of $5,626,223,000.
+       Sec. 140. Notwithstanding any other provision of this joint 
+     resolution, except section 106, the Department of Veterans 
+     Affairs may expend funds for programs and activities under 
+     the heading ``Information Technology Systems'' for pay and 
+     associated cost for operations and maintenance associated 
+     staff.
+       Sec. 141. Notwithstanding any other provision of this joint 
+     resolution, except section 106, in addition to the amount 
+     made available for fiscal year 2008 to carry out section 3674 
+     of title 38, United States Code, there is appropriated to 
+     carry out that section an additional amount equal to 
+     $6,000,000 multiplied by the ratio of the number of days 
+     covered by this joint resolution to 366.
+       Sec. 142. Notwithstanding section 235(a)(2) of the Foreign 
+     Assistance Act of 1961 (22 U.S.C. 2195(a)(2)), the authority 
+     of subsections (a) through (c) of section 234 of such Act 
+     shall remain in effect through the date specified in section 
+     106(3) of this joint resolution.
+       Sec. 143. Notwithstanding section 101, amounts are provided 
+     for ``Department of State--Administration of Foreign 
+     Affairs--Diplomatic and Consular Programs'' at a rate for 
+     operations of $4,435,013,000, of which not less than 
+     $778,449,000 shall be for worldwide security upgrades.
+       Sec. 144. The provisions of title II of the McKinney-Vento 
+     Homeless Assistance Act (42 U.S.C. 11311 et seq.) shall 
+     continue in effect, notwithstanding section 209 of such Act, 
+     through the earlier of (1) the date specified in section 
+     106(3) of this joint resolution; or (2) the date of enactment 
+     of an authorization Act relating to the McKinney-Vento 
+     Homeless Assistance Act.
+       Sec. 145. Funds made available under section 101 for the 
+     National Transportation Safety Board shall include amounts 
+     necessary to make lease payments due in fiscal year 2008 
+     only, on an obligation incurred in 2001 under a capital 
+     lease.
+       Sec. 146. Notwithstanding the limitation in the first 
+     sentence of section 255(g) of the National Housing Act (12 
+     U.S.C. 1715z-20(g)), the Secretary of Housing and Urban 
+     Development may, until the date specified in section 106(3) 
+     of this joint resolution, insure and may enter into 
+     commitments to insure mortgages under section 255 of the 
+     National Housing Act (12 U.S.C. 1715z-20(g)).
+       Sec. 147. Section 24(o) of the United States Housing Act of 
+     1937 (42 U.S.C. 1437v(o)) shall be applied by substituting 
+     the date specified in section 106(3) of this joint resolution 
+     for ``September 30, 2007''.
+       Sec. 148. (a) Section 48103(4) of title 49, United States 
+     Code, shall be applied (1) by substituting the amount 
+     specified in such section with an amount that equals 
+     $3,675,000,000 multiplied by the ratio of the number of days 
+     covered by this joint resolution to 366; and (2) by 
+     substituting the fiscal year specified in such section with 
+     the period beginning October 1, 2007, through the date 
+     specified in section 106(3) of this joint resolution.
+       (b) Section 47104(c) of title 49, United States Code, shall 
+     be applied by substituting ``2008'' for ``2007''.
+       (c) Nothing in this section shall affect the availability 
+     of any balances of contract authority provided under section 
+     48103 of title 49, United States Code, for fiscal year 2007 
+     and any prior fiscal year.
+       Sec. 149. (a) Sections 4081(d)(2)(B), 4261(j)(1)(A)(ii), 
+     4271(d)(1)(A)(ii), 9502(d)(1), and 9502(f)(2) of the Internal 
+     Revenue Code of 1986 shall each be applied by substituting 
+     the date specified in section 106(3) of this joint resolution 
+     for ``September 30, 2007'' or ``October 1, 2007'', as the 
+     case may be.
+       (b) Subparagraph (A) of section 9502(d)(1) of the Internal 
+     Revenue Code of 1986 is amended by inserting ``or any joint 
+     resolution making continuing appropriations for the fiscal 
+     year 2008'' before the semicolon at the end.
+
+
+[[Page H10916]]
+
+
+  The SPEAKER pro tempore. Pursuant to House Resolution 677, the 
+gentleman from Wisconsin (Mr. Obey) and the gentleman from California 
+(Mr. Lewis) each will control 30 minutes.
+  The Chair recognizes the gentleman from Wisconsin.
+
+
+                             General Leave
+
+  Mr. OBEY. Mr. Speaker, I ask unanimous consent that all Members may 
+have 5 legislative days within which to revise and extend their remarks 
+on House Joint Resolution 52.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Wisconsin?
+  There was no objection.
+  Mr. OBEY. Mr. Speaker, I yield myself 1 minute.
+  Mr. Speaker, this resolution keeps government functioning until 
+Congress and the President can make final decisions on appropriation 
+issues for fiscal year 2008. It is a clean CR. It funds all departments 
+at last year's level. The only exception is a $5.2 billion 
+appropriation for MRAPs, which are essential to protect our troops. It 
+expires November 16. I ask Members to do the responsible thing and vote 
+``aye.''
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. LEWIS of California. Mr. Speaker, the chairman of the committee 
+often talks about thoughts and wisdom of Archie the cockroach, but 
+today I am reminded of the words of Yogi Berra, ``It's deja vu all over 
+again.''
+  It was 1 year ago that the House passed the first of several 
+continuing resolutions to ensure the continuation of government-funded 
+programs in the new fiscal year.
+  My friend, David Obey, came to the floor as the ranking member during 
+the debate to criticize Republicans in the House and the Senate for 
+their failure to pass the annual spending bills by the end of the 
+fiscal year. He spoke of the breakdown of the budget process and vowed 
+that things would be different under a Democrat majority.
+  We are now 4 days away from the end of the fiscal year, and once 
+again the ranking member of the Appropriations Committee is on the 
+floor decrying the breakdown of regular order. The only difference is 
+that David Obey is now Chairman Obey and I am a mere struggling 
+committee ranking member.
+  At this time last year, we had sent President Bush two appropriations 
+conference reports. This year, not one appropriations conference 
+meeting has taken place between the two bodies, even though there are 
+bills available.
+  When we passed the first CR last year, my hope was it would provide 
+strong motivation for Congress to complete its work in regular order. I 
+was hopeful that our colleagues in the Senate would complete their work 
+so we could send to the White House the remaining individual conference 
+reports before the end of our legislative session.
+  I come to the floor today with the same hopeful expectation that the 
+Senate will soon complete its work. But, based on recent history, I'm 
+not holding my breath.
+  My appropriations colleague, Senator Cochran of Mississippi, could 
+not have been a better partner as we attempted to bring regular order 
+to the appropriations process. Unfortunately, Chairman Cochran was 
+poorly served by his own leadership.
+  The breakdown of regular order in the last Congress, indeed the 
+failure to get our bills done, was placed squarely at the feet of the 
+former Senate majority leader who failed to schedule floor time for the 
+consideration of appropriations bills. One year later, the failure of 
+the appropriations process can be laid squarely at the feet of the 
+present Senate majority leader.
+  The House has passed each of its spending bills; and, while I believe 
+these bills spend too much, the House Appropriations Committee has kept 
+its word by completing its work.
+  During my tenure as chairman, the Appropriations Committee was 
+strongly committed to bringing to the floor individual conference 
+reports for each and every bill. I did not then support, and do not now 
+support, an omnibus spending bill in any form. But that is exactly the 
+direction in which the Democrat majority is now moving.
+  I am convinced that moving bills individually is the only way for us 
+to control government spending. Lacking regular order, there is a 
+tendency for spending on the remaining bills to grow out of control. 
+That challenge is particularly acute this year with the Democrat 
+majority writing and passing spending bills that exceed the President's 
+budget request by about $23 billion.
+  We are today passing a CR that continues for the next 6 weeks Federal 
+programs under the terms and conditions established in the 2007 fiscal 
+year resolution.
+  In 6 weeks, I am afraid we will be here once again to pass yet 
+another continuing resolution, and that will lead us well into the 
+free-spending holiday season.
+  My colleagues, we are moving ever closer to a massive year-end 
+omnibus spending bill. That course of action would be an admission of 
+failure on the part of this Congress.
+  At this moment, there is still time for Democrats and Republicans to 
+find common ground on spending. There is still time for the House and 
+the Senate to complete its work in regular order. There is still time 
+to pass and send to the White House individual conference reports. But 
+we must act now.
+  I would like to close by quoting my friend, Mr. Obey, from a past 
+continuing resolution debate: ``This continuing resolution is a 
+monument to institutional failure. This Congress is failing to meet 
+even the most basic and minimal expectations that the country has for 
+it by way of doing our routine business. This is governing in a pitiful 
+way,'' Mr. Obey said, ``and I wish that I could say something more 
+positive about it, but, indeed, I cannot.''
+  Mr. Speaker, and I would say, ``Madam Speaker,'' if I could find the 
+gentlelady on the floor, ``Madam Speaker, this is deja vu all over 
+again.''
+  I reserve the balance of my time.
+  Mr. OBEY. Mr. Speaker, I yield myself such time as I may consume.
+  Mr. Speaker, let me recite a slightly different version of recent 
+history with respect to appropriation bills.
+  After 12 years of rule by the Republican Party, the American people 
+gave the Democratic Party the privilege of moving into the majority in 
+the last election. We were sworn in on January 4. At that point, not a 
+single domestic appropriation bill had been passed by the previous 
+Congress.
+  So before we could move to our own business for this year, we had to 
+first clean up the unfinished business left by the previous Republican-
+controlled Congress. That took us 6 weeks. And in 6 weeks we passed the 
+entire domestic budget; and, at the time we did that, we eliminated all 
+earmarks.
+  Then we also set about to implement the earmark reform process which 
+was spoken for by both political parties in this House. That took us an 
+extra 3 weeks. During that time, we ramped up the number of hearings 
+and the intensity of congressional oversight; and by the end of the 
+hearing process we had doubled the number of hearings held by the 
+previous Congress and restored a much more tenacious set of oversight 
+habits.
+  We also were forced to confront the President on Iraq because of the 
+unraveling situation in that misbegotten war. And we also, as we tried 
+to pass our appropriation bills, had to endure filibuster by amendment 
+on the part of the minority. They took more than 60 hours above the 
+amount taken by the minority in the previous year on appropriation 
+bills.
+  Republicans offered 339 amendments to the appropriation bills that we 
+passed in the House, compared to 172 amendments that were offered by 
+Democrats when we were in the minority. Despite all of that, we still 
+managed to pass every single appropriation bill before the August 
+recess. That is only the second time during the Bush administration 
+that this House has passed all of its appropriation bills before the 
+August recess.
+  Then those bills went to the Senate; and, as the gentleman indicated, 
+they ran into considerable trouble. The Senate has passed four bills. I 
+have asked them to proceed to pass as many additional bills as they 
+can, and I hope that they do. And, incidentally, when they do bring up 
+bills, I was told yesterday that you have between two and three hundred 
+amendments filed to several of the bills, so you face a filibuster by 
+amendment on the part of the minority in the Senate. As you know, under 
+Senate rules, debate cannot be shut down unless you have 60 votes, 
+rather than 50.
+
+[[Page H10917]]
+
+  So that's the record as I see it. The gentleman from California has 
+recited the record as he sees it. But I would suggest that what is 
+important is what we do now. Where do we go from here?
+  Even as the Senate makes an effort to complete action on its bills, I 
+would hope that we could shorten the process by sitting down now with 
+the administration to work out compromises on those bills so that we 
+don't have to spend the next 6 weeks continuing to define our 
+differences.
+
+                              {time}  1145
+
+  I'm an old-fashioned legislator, and I believe that the way the 
+parties ought to proceed is that we first ought to define our 
+differences and then we ought to resolve them. We've already defined 
+our differences with the passage of the 12 bills in the House. I doubt 
+that the Senate bills are going to get any better from our standpoint, 
+and so it seems to me that time's awasting. It seems to me that we 
+would best serve the needs of the country if the administration would 
+be willing to sit down with us now and begin discussions about how we 
+might reach compromises on these bills so that we can move forward.
+  Now, let me make one additional point. The President is asking us to 
+spend about $200 billion, every dollar of that borrowed, in order to 
+finance the supplemental for the war in Iraq, and yet he is objecting 
+to the fact that in the House-passed bills we tried to take about 1/
+10th that amount and use it for crucial investments in our country's 
+future.
+  The job of this Congress, the job certainly of this committee, is to 
+make investments that will benefit the country over the long haul, make 
+us a stronger country, and make us a stronger society over the next 10 
+years. We don't believe on this side of the aisle, and I think in fact 
+we had significant bipartisan agreement if you take a look at the 
+votes, we don't believe that you accomplish that strengthening of the 
+country by cutting vocational education by 50 percent, as the President 
+does in his budget; by eliminating all student aid programs except work 
+study and Pell Grant, as the President does in his budget; by gutting 
+education technology grants, as the President does in his budget; by 
+actually reducing the number of medical research grants at NIH, as the 
+President does in his budget. I've never had anybody come up to me in 
+my life and say, ``Obey, why don't you guys in Congress get your act 
+together and cut cancer research.'' And yet, that's what the Congress 
+has done the last 2 years. We don't think that ought to happen. So 
+that's why we depart from the President on that score.
+  We also don't think we strengthen the country when we cut special 
+education by $300 million, and there are a good many Republicans who 
+agree with that. In fact, Mr. Walsh, the ranking Republican on the 
+Labor, Health, Education and Social Services Subcommittee, Mr. Walsh, 
+led the effort to increase the funds that our committee provided for 
+special education, and I commend him for it.
+  We also don't think it's good to cut mental health and drug abuse 
+funding by $160 million. We don't think that we strengthen the society 
+or this country when we cut minority health professions training by 66 
+percent. We don't think that we improve health care for children by 
+cutting the training of medical personnel in children's hospitals by 63 
+percent, and we don't think we strengthen rural America by cutting 
+rural health programs by 54 percent.
+  We don't think we help make our communities better and cleaner by 
+cutting the clean water revolving fund by 37 percent, as the President 
+does. We don't believe that we meet the needs of our logging industry 
+and the recreational needs of the American people when we cut the 
+forest service budget by 15 percent, as the President's budget does. 
+And we don't believe that we ought to cut housing for disabled 
+Americans by 47 percent or senior housing by 20 percent. In an age of 
+high gas prices and high energy prices, we don't believe that we ought 
+to cut the low-income heating assistance program by 18 percent.
+  And let me say that Democrats are not the only ones who believe that. 
+If you take a look and analyze the votes on the various appropriations 
+bills that went through the House, you will see that on average we had 
+65 Republicans who voted with us in support of the appropriations bills 
+that we sent over to the Senate. In fact, if you average out each of 
+the rollcalls for each of the bills that passed, you will see that 
+exactly two-thirds of this body voted for those bills.
+  So I think we have established a bipartisan foundation in the House 
+for moving forward, and I hope this continuing resolution gives us the 
+necessary time to do that.
+  I would hope that the Senate can move forward and complete its work 
+on a bill-by-bill basis, but frankly, it is immaterial to me whether 
+the bills are produced one by one or if they are produced in bunches. 
+What counts is not the form. What counts is the substance. What counts 
+is whether we make the right investments to make this country stronger 
+over the long haul. That's our obligation, no matter how we package it.
+  So I would once again simply urge the administration to sit down with 
+us and begin to talk about how, as adults, we can reach a compromise on 
+these issues.
+  The President would have the country believe that we are blowing the 
+lid outrageously on budgets and pouring money into the domestic budget. 
+I would suggest that restoring $16 billion in Presidential cuts is 
+mighty small potatoes in comparison to the $200 billion that he wants 
+us to spend in Iraq and the $50 billion that he still wants us to 
+provide for tax cuts for people making a million bucks a year.
+  Let me remind the House, Mr. Speaker, that in 1980 the appropriations 
+for domestic budgets equaled 4.8 percent of our total national income. 
+Today, they have been reduced to 2.9 percent of our total national 
+income, and the President's budget would take us, by the year 2012, 
+down to 2.4 percent of the Nation's income. That means that we would 
+have cut in half our investments relative to our national wealth. We 
+would have cut in half those domestic investments since 1980. I don't 
+believe, and I think there are many in both parties who don't believe, 
+that that is the way that we build a stronger future for this country.
+  So I would simply point out what we have here is an effort on our 
+part to add about 2 percent to what the President is doing in the area 
+of education, health care, science, law enforcement and all of that, 
+and I'd simply suggest that, instead of continuing to talk about it, we 
+sit down and have some more productive actions; we sit down and try to 
+work out these differences between us so that we can leave town at a 
+reasonable time, having completed our action on these bills and having 
+met our responsibilities to make the investments that will, over the 
+long haul, make this a stronger country.
+  With that, I reserve the balance of my time.
+  Mr. LEWIS of California. Mr. Speaker, I just wanted to know if Mr. 
+Obey wanted to continue speaking or I can yield back my time. I'm ready 
+to yield back the balance of my time. I just wondered if you were ready 
+to yield more time.
+  Mr. OBEY. I'm ready to yield back.
+  Mr. BLUMENAUER. Mr. Speaker, As a result of Republican obstructionism 
+and the President's threats to veto our Democratic Congress' new 
+investments in health, the environment and infrastructure, Congress is 
+being forced to pass a resolution to keep the government operating 
+beyond next week's end of the fiscal year. Unfortunately, this bill 
+included money to continue funding the war in Iraq. I have pledged: 
+``not another dime for the war,'' and voted ``no.'' I will continue to 
+vote against any appropriations bill that continues military operations 
+in Iraq.
+  At the same time, the motion to condemn Moveon.org was both 
+irrelevant and hypocritical. It was irrelevant in that it had nothing 
+to do with the underlying bill and hypocritical because the Republicans 
+have tolerated, and in some cases encouraged, some of the most savage 
+Swift-boating of candidates and individuals without ever raising a 
+voice in protest.
+  People have deep concerns about this administration and they have the 
+right to question the testimony General Petraeus gave before Congress. 
+The twisted factual basis for some of his statements, which charitably 
+can only be deemed convoluted, has been made clear in numerous 
+independent press accounts. I voted ``no,'' choosing not to be a part 
+of the irrelevance and hypocrisy.
+  Mr OBERSTAR. Mr. Speaker, I rise in support of H.J. Res. 52, making 
+continuing appropriations for fiscal year 2008, and for other
+
+[[Page H10918]]
+
+purposes. H.J. Res. 52 provides continuing appropriations for Federal 
+programs, including the aviation investment programs.
+  H.J. Res. 52 includes a provision extending the Federal Aviation 
+Administration's Airport Improvement Program, AIP. Specifically, 
+section 148 of H.J. Res. 52 provided mandatory AIP contract authority 
+only for the term covered by the Continuing Resolution at a level that, 
+when annualized, equals the amount of mandatory AIP contract authority 
+included in the fiscal year 2008 budget baseline.
+  The Congressional Budget Office, the House Budget Committee, the 
+House and Senate Appropriations Committees, the Senate Commerce 
+Committee, and the Office of Management and Budget all concur that 
+section 148 provides mandatory contract authority. Moreover, section 
+148 is a change to a mandatory program and therefore, the amount of 
+contract authority provided by the Continuing Resolution will 
+ultimately be rebased in the baseline and put on the mandatory side of 
+the budget. The baseline for the AIP program will remain mandatory.
+  Based on my shared understanding that section 148 will not in any way 
+change the nature of the AIP program, I urge my colleagues to join me 
+in supporting H.J. Res. 52.
+  Mr. LEWIS of California. Mr. Speaker, I yield back the balance of my 
+time.
+  Mr. OBEY. Mr. Speaker, I yield back the balance of my time.
+  The SPEAKER pro tempore. All time for debate has expired.
+  Pursuant to House Resolution 677, the joint resolution is considered 
+read, and the previous question is ordered.
+  The question is on the engrossment and third reading of the joint 
+resolution.
+  The joint resolution was ordered to be engrossed and read a third 
+time, and was read the third time.
+
+
+         Motion to Recommit Offered by Mr. Lewis of California
+
+  Mr. LEWIS of California. Mr. Speaker, I offer a motion to recommit.
+  The SPEAKER pro tempore. Is the gentleman opposed to the resolution?
+  Mr. LEWIS of California. Mr. Speaker, I am certainly in its present 
+form.
+  Mr. OBEY. Mr. Speaker, I reserve a point of order.
+  The SPEAKER pro tempore. A point of order is reserved.
+  The Clerk will report the motion to recommit.
+  The Clerk read as follows:
+
+       Mr. Lewis moves to recommit House Joint Resolution 52 to 
+     the Committee on Appropriations with instructions to report 
+     the same back to the House forthwith with the following 
+     amendment:
+       At the end of the joint resolution, insert the following 
+     section:
+       Sec. 150. (a) Congress makes the following findings:
+       (1) General David H. Petraeus was confirmed by a unanimous 
+     vote of 8l-0 in the Senate on January 26, 2007, to be the 
+     Commander of the Multi-National Forces--Iraq;
+       (2) General David H. Petraeus assumed command of the Multi-
+     National Forces--Iraq on February 10, 2007;
+       (3) General David H. Petraeus previously served in 
+     Operation Iraqi Freedom as the Commander of the Multi-
+     National Security Transition Command--Iraq, as the Commander 
+     of the NATO Training Mission--Iraq, and as Commander of the 
+     101st Airborne Division (Air--Assault) during the first year 
+     of combat operations in Iraq;
+       (4) General David H. Petraeus has received numerous awards 
+     and distinctions during his career, including the Defense 
+     Distinguished Service Medal, two awards of the Distinguished 
+     Service Medal, two awards of the Defense Superior Service 
+     Medal, four awards of the Legion of Merit, the Bronze Star 
+     Medal for valor, the State Department Superior Honor Award, 
+     the NATO Meritorious Service Medal, and the Gold Award of the 
+     Iraqi Order of the Date Palm; and
+       (5) The leadership of the majority party in both the House 
+     of Representatives and the Senate implored the American 
+     people and Members of Congress early in January 2007 to 
+     listen to the generals on the ground.
+       (b) It is the Sense of the Congress that the House of 
+     Representatives--
+       (1) recognizes the service of General David H. Petraeus, as 
+     well as all other members of the Armed Forces serving in good 
+     standing, in the defense of the United States and the 
+     personal sacrifices made by General Petraeus and his family, 
+     and other members of the Armed Forces and their families, to 
+     serve with distinction and honor;
+       (2) commits to judge the merits of the sworn testimony of 
+     General David H. Petraeus without prejudice or personal bias, 
+     including refraining from unwarranted personal attacks;
+       (3) condemns in the strongest possible terms the personal 
+     attacks made by the advocacy group MoveOn.org impugning the 
+     integrity and professionalism of General David H.Petraeus;
+       (4) honors all members of the Armed Forces and civilian 
+     personnel serving in harm's way, as well as their families; 
+     and
+       (5) pledges to debate any supplemental funding request or 
+     any policy decisions regarding the war in Iraq with the 
+     solemn respect and the commitment to intellectual integrity 
+     that the sacrifices of these members of the Armed Forces and 
+     civilian personnel deserve.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentleman from 
+California (Mr. Lewis) is recognized for 5 minutes in support of his 
+motion.
+  Mr. LEWIS of California. Mr. Speaker, this simple motion is to 
+recommend or recommit. It is a sense of the Congress resolution that 
+recognizes the service of General David Petraeus as well as all other 
+members of our Armed Forces. It expresses our appreciation for his 
+personal sacrifices and those of his family as well as the sacrifices 
+of those who served in the Armed Forces and their families.
+
+                              {time}  1200
+
+  Further, this sense of the Congress resolution condemns, in the 
+strongest possible terms, the unfair personal attacks made by the 
+advocacy group, MoveOn.org, on the character, integrity and 
+professionalism of General David Patraeus. Such unwarranted attacks 
+should be strongly condemned by Republicans and Democrats alike in the 
+House.
+  I strongly urge a ``yea'' vote on the motion to recommit.
+  Mr. Speaker, I yield back the balance of my time.
+  Mr. OBEY. Mr. Speaker, I ask unanimous consent to claim the time in 
+opposition.
+  The SPEAKER pro tempore. Does the gentleman withdraw his reservation?
+  Mr. OBEY. Yes, I do.
+  The SPEAKER pro tempore. Without objection, the gentleman from 
+Wisconsin is recognized for 5 minutes.
+  There was no objection.
+  Mr. OBEY. Mr. Speaker, I want to urge support for this motion. As 
+those in this House who know me well understand, I come from the State 
+of Joe McCarthy. And one of the reasons that I changed political 
+parties, because I grew up in a Republican family, is because I saw 
+what the local McCarthy supporters did to the best teacher I ever had 
+when they impugned his patriotism by calling him a Bolshevik back 
+during the McCarthy heyday. And to this day there is nothing that gets 
+my dander up more than to have someone's patriotism questioned on this 
+House floor or anywhere else in the political realm. And if I'm going 
+to get upset when that kind of juvenile activity occurs on the part of 
+the political right, then I've got an obligation to be equally upset 
+when that kind of juvenile debate emanates from the left.
+  It seems to me that we all ought to recognize that we can have honest 
+and profound differences with the policy that the general was selling 2 
+weeks ago without getting personal about it. I think what we ought to 
+do is accept this motion, vote for it, send the continuing resolution 
+to the Senate and get on with the business of negotiating out the 
+content of these appropriation bills so that we can do our duty to the 
+country.
+  I yield back the balance of my time and ask for an ``aye'' vote.
+  The SPEAKER pro tempore. Without objection, the previous question is 
+ordered on the motion to recommit.
+  There was no objection.
+  The SPEAKER pro tempore. The question is on the motion to recommit.
+  The question was taken; and the Speaker pro tempore announced that 
+the ayes appeared to have it.
+  Mr. LEWIS of California. Mr. Speaker, I object to the vote on the 
+ground that a quorum is not present and make the point of order that a 
+quorum is not present.
+  The SPEAKER pro tempore. Evidently a quorum is not present.
+  The Sergeant at Arms will notify absent Members.
+  Pursuant to clause 9 of rule XX, the Chair will reduce to 5 minutes 
+the minimum time for any electronic vote on the question of passage.
+  The vote was taken by electronic device, and there were--yeas 341, 
+nays 79, not voting 12, as follows:
+
+                             [Roll No. 910]
+
+                               YEAS--341
+
+     Aderholt
+     Akin
+     Alexander
+     Altmire
+     Andrews
+     Arcuri
+     Baca
+     Bachmann
+     Baird
+     Baker
+     Barrett (SC)
+     Barrow
+     Bartlett (MD)
+     Barton (TX)
+     Bean
+     Berkley
+     Berry
+     Biggert
+     Bilbray
+     Bilirakis
+     Bishop (GA)
+     Bishop (NY)
+     Bishop (UT)
+     Blackburn
+     Blunt
+     Boehner
+     Bonner
+
+[[Page H10919]]
+
+
+     Bono
+     Boozman
+     Boren
+     Boswell
+     Boucher
+     Boustany
+     Boyd (FL)
+     Boyda (KS)
+     Brady (PA)
+     Brady (TX)
+     Braley (IA)
+     Broun (GA)
+     Brown (SC)
+     Brown-Waite, Ginny
+     Buchanan
+     Burgess
+     Burton (IN)
+     Butterfield
+     Buyer
+     Calvert
+     Camp (MI)
+     Campbell (CA)
+     Cannon
+     Cantor
+     Capito
+     Cardoza
+     Carnahan
+     Carney
+     Carter
+     Castle
+     Chabot
+     Chandler
+     Cleaver
+     Clyburn
+     Coble
+     Cole (OK)
+     Conaway
+     Cooper
+     Costa
+     Costello
+     Courtney
+     Cramer
+     Crenshaw
+     Cuellar
+     Culberson
+     Davis (AL)
+     Davis (CA)
+     Davis (KY)
+     Davis, David
+     Davis, Lincoln
+     Davis, Tom
+     Deal (GA)
+     DeFazio
+     Delahunt
+     DeLauro
+     Dent
+     Diaz-Balart, L.
+     Diaz-Balart, M.
+     Dicks
+     Dingell
+     Doggett
+     Donnelly
+     Doolittle
+     Doyle
+     Drake
+     Dreier
+     Duncan
+     Edwards
+     Ehlers
+     Ellsworth
+     Emanuel
+     Emerson
+     Engel
+     English (PA)
+     Eshoo
+     Etheridge
+     Everett
+     Fallin
+     Farr
+     Fattah
+     Feeney
+     Ferguson
+     Flake
+     Forbes
+     Fortenberry
+     Fossella
+     Foxx
+     Franks (AZ)
+     Frelinghuysen
+     Gallegly
+     Garrett (NJ)
+     Gerlach
+     Giffords
+     Gilchrest
+     Gillibrand
+     Gingrey
+     Gohmert
+     Gonzalez
+     Goode
+     Goodlatte
+     Granger
+     Graves
+     Green, Gene
+     Hall (NY)
+     Hall (TX)
+     Hare
+     Harman
+     Hastert
+     Hastings (WA)
+     Hayes
+     Heller
+     Hensarling
+     Herseth Sandlin
+     Higgins
+     Hill
+     Hobson
+     Hodes
+     Hoekstra
+     Holden
+     Hooley
+     Hoyer
+     Hulshof
+     Hunter
+     Inglis (SC)
+     Israel
+     Issa
+     Jackson (IL)
+     Johnson (IL)
+     Johnson, Sam
+     Jones (NC)
+     Jordan
+     Kagen
+     Kanjorski
+     Kaptur
+     Keller
+     Kennedy
+     Kildee
+     Kind
+     King (IA)
+     King (NY)
+     Kingston
+     Kirk
+     Klein (FL)
+     Kline (MN)
+     Knollenberg
+     Kuhl (NY)
+     LaHood
+     Lamborn
+     Lampson
+     Langevin
+     Lantos
+     Larsen (WA)
+     Larson (CT)
+     Latham
+     LaTourette
+     Levin
+     Lewis (CA)
+     Lewis (KY)
+     Linder
+     Lipinski
+     LoBiondo
+     Loebsack
+     Lowey
+     Lucas
+     Lungren, Daniel E.
+     Lynch
+     Mack
+     Mahoney (FL)
+     Maloney (NY)
+     Manzullo
+     Marchant
+     Marshall
+     Matheson
+     McCarthy (CA)
+     McCarthy (NY)
+     McCaul (TX)
+     McCollum (MN)
+     McCotter
+     McCrery
+     McHenry
+     McHugh
+     McIntyre
+     McKeon
+     McMorris Rodgers
+     McNerney
+     McNulty
+     Meeks (NY)
+     Melancon
+     Mica
+     Miller (FL)
+     Miller (MI)
+     Miller, Gary
+     Mitchell
+     Mollohan
+     Moore (KS)
+     Moran (KS)
+     Murphy (CT)
+     Murphy, Patrick
+     Murphy, Tim
+     Murtha
+     Musgrave
+     Myrick
+     Napolitano
+     Neugebauer
+     Nunes
+     Oberstar
+     Obey
+     Ortiz
+     Pascrell
+     Pastor
+     Paul
+     Pearce
+     Pence
+     Perlmutter
+     Peterson (MN)
+     Peterson (PA)
+     Petri
+     Pickering
+     Pitts
+     Platts
+     Poe
+     Pomeroy
+     Porter
+     Price (GA)
+     Pryce (OH)
+     Putnam
+     Radanovich
+     Rahall
+     Ramstad
+     Rangel
+     Regula
+     Rehberg
+     Reichert
+     Renzi
+     Reyes
+     Reynolds
+     Richardson
+     Rodriguez
+     Rogers (AL)
+     Rogers (KY)
+     Rogers (MI)
+     Rohrabacher
+     Ros-Lehtinen
+     Roskam
+     Ross
+     Rothman
+     Roybal-Allard
+     Royce
+     Ruppersberger
+     Ryan (WI)
+     Salazar
+     Sali
+     Sanchez, Loretta
+     Sarbanes
+     Saxton
+     Schiff
+     Schmidt
+     Schwartz
+     Scott (GA)
+     Sensenbrenner
+     Sessions
+     Sestak
+     Shadegg
+     Shays
+     Shea-Porter
+     Shimkus
+     Shuler
+     Shuster
+     Simpson
+     Sires
+     Skelton
+     Smith (NE)
+     Smith (NJ)
+     Smith (TX)
+     Smith (WA)
+     Snyder
+     Space
+     Spratt
+     Stearns
+     Stupak
+     Sullivan
+     Tancredo
+     Tanner
+     Tauscher
+     Taylor
+     Terry
+     Thompson (CA)
+     Thompson (MS)
+     Thornberry
+     Tiahrt
+     Tiberi
+     Turner
+     Udall (CO)
+     Udall (NM)
+     Upton
+     Visclosky
+     Walberg
+     Walden (OR)
+     Walsh (NY)
+     Walz (MN)
+     Wamp
+     Welch (VT)
+     Weldon (FL)
+     Weller
+     Westmoreland
+     Whitfield
+     Wicker
+     Wilson (NM)
+     Wilson (OH)
+     Wilson (SC)
+     Wolf
+     Wu
+     Young (AK)
+     Young (FL)
+
+                                NAYS--79
+
+     Abercrombie
+     Ackerman
+     Allen
+     Baldwin
+     Becerra
+     Berman
+     Blumenauer
+     Brown, Corrine
+     Capps
+     Capuano
+     Castor
+     Clarke
+     Clay
+     Cohen
+     Conyers
+     Crowley
+     Davis (IL)
+     DeGette
+     Ellison
+     Filner
+     Frank (MA)
+     Green, Al
+     Grijalva
+     Gutierrez
+     Hastings (FL)
+     Hinchey
+     Hirono
+     Holt
+     Honda
+     Inslee
+     Jackson-Lee (TX)
+     Jefferson
+     Johnson (GA)
+     Jones (OH)
+     Kilpatrick
+     Kucinich
+     Lee
+     Lewis (GA)
+     Lofgren, Zoe
+     Markey
+     Matsui
+     McDermott
+     McGovern
+     Meek (FL)
+     Michaud
+     Miller (NC)
+     Miller, George
+     Moore (WI)
+     Moran (VA)
+     Nadler
+     Neal (MA)
+     Olver
+     Pallone
+     Payne
+     Price (NC)
+     Rush
+     Ryan (OH)
+     Sanchez, Linda T.
+     Schakowsky
+     Scott (VA)
+     Serrano
+     Sherman
+     Slaughter
+     Solis
+     Stark
+     Tierney
+     Towns
+     Van Hollen
+     Velazquez
+     Wasserman Schultz
+     Waters
+     Watson
+     Watt
+     Waxman
+     Weiner
+     Wexler
+     Woolsey
+     Wynn
+     Yarmuth
+
+                             NOT VOTING--12
+
+     Bachus
+     Carson
+     Cubin
+     Cummings
+     Davis, Jo Ann
+     Gordon
+     Herger
+     Hinojosa
+     Jindal
+     Johnson, E. B.
+     Souder
+     Sutton
+
+                              {time}  1232
+
+  Mr. BECERRA, Mr. CROWLEY, Ms. SOLIS, Mr. STARK, Ms. BALDWIN, Mr. 
+McDERMOTT, Ms. DeGETTE, Messrs. TIERNEY, SCOTT of Virginia, MILLER of 
+North Carolina, ALLEN, RUSH, Ms. CORRINE BROWN of Florida, Messrs. AL 
+GREEN of Texas, VAN HOLLEN, BERMAN, INSLEE, NEAL of Massachusetts and 
+SHERMAN changed their vote from ``yea to ``nay.''
+  Mr. LINDER, Mrs. TAUSCHER, Mr. PORTER, Mr. BRALEY of Iowa, Mr. 
+THOMPSON of California, Ms. McCOLLUM of Minnesota and Messrs. PETERSON 
+of Minnesota, OBERSTAR, BACA, DOGGETT, BUTTERFIELD and LARSON of 
+Connecticut changed their vote from ``nay'' to ``yea.''
+  Mr. COHEN changed his vote from ``present'' to ``nay.''
+  So the motion to recommit was agreed to.
+  The result of the vote was announced as above recorded.
+  Mr. OBEY. Mr. Speaker, pursuant to the instructions of the House on 
+the motion to recommit, I report H.J. Res. 52 back to the House with an 
+amendment.
+  The SPEAKER pro tempore. The Clerk will report the amendment.
+  The Clerk read as follows:
+
+       Amendment:
+       At the end of the joint resolution, insert the following 
+     new section:
+       Sec. 150 (a) Congress makes the following findings:
+       (1) General David H. Petraeus was confirmed by a unanimous 
+     vote of 81-0 in the Senate on January 26, 2007, to be the 
+     Commander of the Multi-National Forces-Iraq;
+       (2) General David H. Petraeus assumed command of the Multi-
+     National Forces-Iraq on February 10, 2007;
+       (3) General David H. Petraeus previously served in 
+     Operation Iraqi Freedom as the Commander of the Multi-
+     National Security Transition Command-Iraq, as the Commander 
+     of the NATO Training Mission-Iraq, and as Commander of the 
+     101st Airborne Division (Air Assault) during the first year 
+     of combat operations in Iraq;
+       (4) General David H. Petraeus has received numerous awards 
+     and distinctions during his career, including the Defense 
+     Distinguished Service Medal, two awards of the Distinguished 
+     Service Medal, two awards of the Defense Superior Service 
+     Medal, four awards of the Legion of Merit, the Bronze Star 
+     Medal for valor, the State Department Superior Honor Award, 
+     the NATO Meritorious Service Medal, and the Gold Award of the 
+     Iraqi Order of the Date Palm; and
+       (5) The leadership of the majority party in both the House 
+     of Representatives and the Senate implored the American 
+     people and Members of Congress early in January 2007 to 
+     listen to the generals on the ground.
+       (b) It is the Sense of the Congress that the House of 
+     Representatives--
+       (1) recognizes the service of General David H. Petraeus, as 
+     well as all other members of the Armed Forces serving in good 
+     standing, in the defense of the United States and the 
+     personal sacrifices made by General Petraeus and his family, 
+     and other members of the Armed Forces and their families, to 
+     serve with distinction and honor;
+       (2) commits to judge the merits of the sworn testimony of 
+     General David H. Petraeus without prejudice or personal bias, 
+     including refraining from unwarranted personal attacks;
+       (3) condemns in the strongest possible terms the personal 
+     attacks made by the advocacy group MoveOn.org impugning the 
+     integrity and professionalism of General David H. Petraeus;
+       (4) honors all members of the Armed Forces and civilian 
+     personnel serving in harm's way, as well as their families; 
+     and
+       (5) pledges to debate any supplemental funding request or 
+     any policy decisions regarding the war in Iraq with the 
+     solemn respect and the commitment to intellectual integrity 
+     that the sacrifices of these members of the Armed Forces and 
+     civilian personnel deserve.
+  The SPEAKER pro tempore. The question is on the amendment.
+  The amendment was agreed to.
+  The SPEAKER pro tempore. The question is on the engrossment and third 
+reading of the joint resolution.
+  The joint resolution was ordered to be engrossed and read a third 
+time, and was read the third time.
+  The SPEAKER pro tempore. The question is on the passage of the joint 
+resolution.
+  The question was taken; and the Speaker pro tempore announced that 
+the ayes appeared to have it.
+
+
+                             Recorded Vote
+
+  Mr. LEWIS of California. Mr. Speaker, I demand a recorded vote.
+  A recorded vote was ordered.
+  The SPEAKER pro tempore. This will be a 5-minute vote.
+  The vote was taken by electronic device, and there were--ayes 404, 
+noes 14, not voting 14, as follows:
+
+                             [Roll No. 911]
+
+                               AYES--404
+
+     Abercrombie
+     Ackerman
+     Aderholt
+     Akin
+     Alexander
+     Allen
+     Altmire
+     Andrews
+     Arcuri
+
+[[Page H10920]]
+
+
+     Baca
+     Bachmann
+     Baird
+     Baker
+     Baldwin
+     Barrett (SC)
+     Barrow
+     Bartlett (MD)
+     Barton (TX)
+     Bean
+     Becerra
+     Berkley
+     Berman
+     Berry
+     Biggert
+     Bilbray
+     Bilirakis
+     Bishop (GA)
+     Bishop (NY)
+     Bishop (UT)
+     Blackburn
+     Blunt
+     Boehner
+     Bonner
+     Bono
+     Boozman
+     Boren
+     Boswell
+     Boucher
+     Boustany
+     Boyd (FL)
+     Boyda (KS)
+     Brady (PA)
+     Brady (TX)
+     Braley (IA)
+     Broun (GA)
+     Brown (SC)
+     Brown, Corrine
+     Brown-Waite, Ginny
+     Buchanan
+     Burgess
+     Burton (IN)
+     Butterfield
+     Buyer
+     Calvert
+     Camp (MI)
+     Campbell (CA)
+     Cannon
+     Cantor
+     Capito
+     Capps
+     Capuano
+     Cardoza
+     Carnahan
+     Carney
+     Carter
+     Castle
+     Castor
+     Chabot
+     Chandler
+     Clarke
+     Cleaver
+     Clyburn
+     Coble
+     Cohen
+     Cole (OK)
+     Conaway
+     Conyers
+     Cooper
+     Costa
+     Costello
+     Courtney
+     Cramer
+     Crenshaw
+     Crowley
+     Cuellar
+     Culberson
+     Cummings
+     Davis (AL)
+     Davis (CA)
+     Davis (IL)
+     Davis (KY)
+     Davis, David
+     Davis, Lincoln
+     Davis, Tom
+     Deal (GA)
+     DeFazio
+     DeGette
+     Delahunt
+     DeLauro
+     Dent
+     Diaz-Balart, L.
+     Diaz-Balart, M.
+     Dicks
+     Dingell
+     Doggett
+     Donnelly
+     Doolittle
+     Doyle
+     Drake
+     Dreier
+     Duncan
+     Edwards
+     Ehlers
+     Ellsworth
+     Emanuel
+     Emerson
+     Engel
+     English (PA)
+     Eshoo
+     Etheridge
+     Everett
+     Fallin
+     Farr
+     Fattah
+     Feeney
+     Ferguson
+     Flake
+     Forbes
+     Fortenberry
+     Fossella
+     Foxx
+     Franks (AZ)
+     Frelinghuysen
+     Gallegly
+     Garrett (NJ)
+     Gerlach
+     Giffords
+     Gilchrest
+     Gillibrand
+     Gingrey
+     Gohmert
+     Gonzalez
+     Goode
+     Goodlatte
+     Granger
+     Graves
+     Green, Al
+     Green, Gene
+     Grijalva
+     Gutierrez
+     Hall (NY)
+     Hall (TX)
+     Hare
+     Harman
+     Hastert
+     Hastings (FL)
+     Hastings (WA)
+     Hayes
+     Heller
+     Hensarling
+     Herseth Sandlin
+     Higgins
+     Hill
+     Hirono
+     Hobson
+     Hodes
+     Hoekstra
+     Holden
+     Holt
+     Honda
+     Hooley
+     Hoyer
+     Hulshof
+     Hunter
+     Inglis (SC)
+     Inslee
+     Israel
+     Issa
+     Jackson (IL)
+     Jackson-Lee (TX)
+     Jefferson
+     Johnson (GA)
+     Johnson (IL)
+     Johnson, Sam
+     Jones (NC)
+     Jones (OH)
+     Jordan
+     Kagen
+     Kanjorski
+     Kaptur
+     Keller
+     Kennedy
+     Kildee
+     Kilpatrick
+     Kind
+     King (IA)
+     King (NY)
+     Kingston
+     Kirk
+     Klein (FL)
+     Kline (MN)
+     Knollenberg
+     Kuhl (NY)
+     LaHood
+     Lamborn
+     Lampson
+     Langevin
+     Lantos
+     Larsen (WA)
+     Larson (CT)
+     Latham
+     Levin
+     Lewis (CA)
+     Lewis (GA)
+     Lewis (KY)
+     Linder
+     Lipinski
+     LoBiondo
+     Loebsack
+     Lofgren, Zoe
+     Lowey
+     Lucas
+     Lungren, Daniel E.
+     Lynch
+     Mack
+     Mahoney (FL)
+     Maloney (NY)
+     Manzullo
+     Marchant
+     Markey
+     Marshall
+     Matheson
+     Matsui
+     McCarthy (CA)
+     McCarthy (NY)
+     McCaul (TX)
+     McCollum (MN)
+     McCotter
+     McCrery
+     McGovern
+     McHenry
+     McHugh
+     McIntyre
+     McKeon
+     McMorris Rodgers
+     McNerney
+     McNulty
+     Meek (FL)
+     Meeks (NY)
+     Melancon
+     Mica
+     Michaud
+     Miller (FL)
+     Miller (MI)
+     Miller (NC)
+     Miller, Gary
+     Miller, George
+     Mitchell
+     Mollohan
+     Moore (KS)
+     Moore (WI)
+     Moran (KS)
+     Moran (VA)
+     Murphy (CT)
+     Murphy, Patrick
+     Murphy, Tim
+     Murtha
+     Musgrave
+     Myrick
+     Nadler
+     Napolitano
+     Neal (MA)
+     Neugebauer
+     Nunes
+     Oberstar
+     Obey
+     Ortiz
+     Pallone
+     Pascrell
+     Pastor
+     Pearce
+     Pence
+     Perlmutter
+     Peterson (MN)
+     Peterson (PA)
+     Petri
+     Pickering
+     Pitts
+     Platts
+     Poe
+     Pomeroy
+     Porter
+     Price (GA)
+     Price (NC)
+     Pryce (OH)
+     Putnam
+     Radanovich
+     Rahall
+     Ramstad
+     Rangel
+     Regula
+     Rehberg
+     Reichert
+     Renzi
+     Reyes
+     Reynolds
+     Richardson
+     Rodriguez
+     Rogers (AL)
+     Rogers (KY)
+     Rogers (MI)
+     Rohrabacher
+     Ros-Lehtinen
+     Roskam
+     Ross
+     Rothman
+     Roybal-Allard
+     Ruppersberger
+     Rush
+     Ryan (OH)
+     Ryan (WI)
+     Salazar
+     Sali
+     Sanchez, Linda T.
+     Sanchez, Loretta
+     Sarbanes
+     Saxton
+     Schakowsky
+     Schiff
+     Schmidt
+     Schwartz
+     Scott (GA)
+     Scott (VA)
+     Sensenbrenner
+     Serrano
+     Sessions
+     Sestak
+     Shadegg
+     Shays
+     Shea-Porter
+     Sherman
+     Shimkus
+     Shuler
+     Shuster
+     Simpson
+     Sires
+     Skelton
+     Slaughter
+     Smith (NE)
+     Smith (NJ)
+     Smith (TX)
+     Smith (WA)
+     Snyder
+     Solis
+     Space
+     Spratt
+     Stark
+     Stearns
+     Stupak
+     Sullivan
+     Tancredo
+     Tanner
+     Tauscher
+     Taylor
+     Terry
+     Thompson (CA)
+     Thompson (MS)
+     Thornberry
+     Tiahrt
+     Tiberi
+     Tierney
+     Towns
+     Turner
+     Udall (CO)
+     Udall (NM)
+     Upton
+     Van Hollen
+     Velazquez
+     Visclosky
+     Walberg
+     Walden (OR)
+     Walsh (NY)
+     Walz (MN)
+     Wamp
+     Wasserman Schultz
+     Watt
+     Waxman
+     Weiner
+     Welch (VT)
+     Weldon (FL)
+     Weller
+     Westmoreland
+     Wexler
+     Whitfield
+     Wicker
+     Wilson (NM)
+     Wilson (OH)
+     Wilson (SC)
+     Wolf
+     Wu
+     Wynn
+     Yarmuth
+     Young (AK)
+     Young (FL)
+
+                                NOES--14
+
+     Blumenauer
+     Clay
+     Ellison
+     Filner
+     Frank (MA)
+     Hinchey
+     Kucinich
+     Lee
+     McDermott
+     Paul
+     Payne
+     Waters
+     Watson
+     Woolsey
+
+                             NOT VOTING--14
+
+     Bachus
+     Carson
+     Cubin
+     Davis, Jo Ann
+     Gordon
+     Herger
+     Hinojosa
+     Jindal
+     Johnson, E. B.
+     LaTourette
+     Olver
+     Royce
+     Souder
+     Sutton
+
+
+                Announcement by the Speaker Pro Tempore
+
+  The SPEAKER pro tempore (during the vote). Members are advised that 
+there are 2 minutes remaining in this vote.
+
+                              {time}  1244
+
+  So the joint resolution was passed.
+  The result of the vote was announced as above recorded.
+  A motion to reconsider was laid on the table.
+  Stated for:
+  Mr. LaTOURETTE on rollcall No. 911, I was unavoidably detained. Had I 
+been present, I would have voted ``aye.''
+
+                          ____________________
+```
