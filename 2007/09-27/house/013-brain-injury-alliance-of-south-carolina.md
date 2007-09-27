@@ -1,0 +1,36 @@
+---
+granule: CRECB-2007-pt18-Pg25718-4
+date: 2007-09-27
+edition: CRECB
+section: HOUSE
+page: 25718
+---
+
+# BRAIN INJURY ALLIANCE OF SOUTH CAROLINA
+
+```
+                BRAIN INJURY ALLIANCE OF SOUTH CAROLINA
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Mr. Speaker, I rise today to recognize 
+the Brain Injury Alliance of South Carolina and to thank them for their 
+service in raising public awareness of brain injuries. Leaders of this 
+cause have been my longtime friends Lyman and JoAnne Whitehead of Irmo.
+  An estimated 1.4 million Americans sustain a brain injury yearly. In 
+particular, many of our brave men and women serving in the central 
+front of Iraq and Afghanistan have experienced some form of traumatic 
+brain injury. It is vital that we do all that we can to address our 
+veterans just as we address the needs of civilians living with this 
+condition.
+  The Brain Injury Alliance is helping to lead the way in informing the 
+public of the dangers of this complex injury and what can be done to 
+help individuals rehabilitate. Their public awareness campaign uses 
+different forms of media and community outreach to ensure that citizens 
+are well educated on this issue. Thousands of individuals and their 
+families will surely benefit from this thoughtful assistance.
+  In conclusion, God bless our troops, and we will never forget 
+September the 11th.
+
+                          ____________________
+```
