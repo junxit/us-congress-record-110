@@ -1,0 +1,3926 @@
+---
+granule: CREC-2007-09-27-pt1-PgS12258
+date: 2007-09-27
+edition: CREC
+section: SENATE
+page: S12258
+citation: 153 Cong. Rec. S12258
+---
+
+# NATIONAL DEFENSE AUTHORIZATION ACT FOR FISCAL YEAR 2008--Continued
+
+**Speaking:** Warner, John (W000154) [R-VA], Webb, Jim (W000803) [D-VA], McCaskill, Claire (M001170) [D-MO], Levin, Carl (L000261) [D-MI], Coburn, Tom (C000560) [R-OK], Specter, Arlen (S000709) [R-PA], Casey, Robert P., Jr. (C001070) [D-PA], Durbin, Richard J. (D000563) [D-IL], Lott, Trent (L000447) [R-MS], Feingold, Russell D. (F000061) [D-WI], Reid, Harry (R000146) [D-NV], Mikulski, Barbara A. (M000702) [D-MD], Domenici, Pete V. (D000407) [R-NM], Enzi, Michael B. (E000285) [R-WY], Conrad, Kent (C000705) [D-ND]
+
+**Measures:** H.R. 1585
+
+```
+   NATIONAL DEFENSE AUTHORIZATION ACT FOR FISCAL YEAR 2008--Continued
+
+  The PRESIDING OFFICER. The Senate will now resume consideration of 
+H.R. 1585. Cloture having been invoked on amendment No. 3035, offered 
+by the Senator from Massachusetts, Mr. Kennedy, the pending motion to 
+commit with instructions offered by the Senator from Nevada, Mr. Reid, 
+falls.
+  Amendment No. 3035, offered by the Senator from Massachusetts, Mr. 
+Kennedy, having been adopted, amendment No. 2064, offered by the 
+Senator from South Carolina, Mr. Graham, falls.
+  Mr. WARNER. Mr. President, may we have order?
+
+
+                Amendment No. 2999, as Further Modified
+
+  The PRESIDING OFFICER. The question is on agreeing to amendment No. 
+2999, as modified further. The 2 minutes of debate are evenly divided. 
+The Senator from Virginia.
+  Mr. WEBB. Mr. President, I would like to briefly say how proud I am 
+that this amendment has been worked out, and I express my appreciation, 
+both to the senior Senator from Virginia for having helped us work this 
+out and also to my colleague from Missouri who did such a great job on 
+the floor yesterday, managing the bill. I yield the rest of our time to 
+the Senator from Missouri.
+  The PRESIDING OFFICER. The Senator from Missouri is recognized.
+  Mrs. McCASKILL. Mr. President, ``We intend to see that no man or 
+corporate group shall profit inordinately on the blood of the boys in 
+the foxhole.''
+  That is what Senator Harry Truman said as the Truman committee began 
+its work. I think Harry Truman would be very proud of the Senate 
+tonight. I, too, thank the senior Senator from Virginia for his 
+willingness to sit down and work this out, along with Senator Levin for 
+all of his support. I think this commission can do important work in a 
+bipartisan way to fix some problems, to make sure we get contracting 
+under control whenever our men and women are in danger.
+  I yield the floor.
+  The PRESIDING OFFICER. The Senator from Virginia is recognized.
+  Mr. WARNER. Mr. President, I compliment my colleagues from Missouri 
+and Virginia, Senators McCaskill and Webb.
+  The amendment was carefully reviewed by myself and others on this 
+side. We made several recommendations. Each of those recommendations 
+were accepted. We indicate for the record that the amendment is 
+accepted on this side. I ask that we have a voice vote.
+  The PRESIDING OFFICER. Under the previous order, the amendment is 
+agreed to.
+  The Amendment (No. 2999), as further modified, is as follows:
+
+       At the end of subtitle C of title XV, add the following:
+
+     SEC. 1535. STUDY AND INVESTIGATION OF WARTIME CONTRACTS AND 
+                   CONTRACTING PROCESSES IN OPERATION IRAQI 
+                   FREEDOM AND OPERATION ENDURING FREEDOM.
+
+       (a) Commission on Wartime Contracting.--
+       (1) Establishment.--There is hereby established a 
+     commission to be known as the ``Commission on Wartime 
+     Contracting'' (in this subsection referred to as the 
+     ``Commission'').
+       (2) Membership matters.--
+       (A) Membership.--The Commission shall be composed of 8 
+     members, as follows:
+       (i) 2 members shall be appointed by the Majority Leader of 
+     the Senate, in consultation with the Chairmen of the 
+     Committee on Armed Services and the Committee on Homeland 
+     Security and Governmental Affairs of the Senate.
+       (ii) 2 members shall be appointed by the Speaker of the 
+     House of Representatives, in consultation with the Chairmen 
+     of the Committee on Armed Services and the Committee on 
+     Oversight and Government Reform of the House of 
+     Representatives.
+       (iii) 1 member shall be appointed by the Minority Leader of 
+     the Senate, in consultation with the Ranking Minority Members 
+     of the Committee on Armed Services and the Committee on 
+     Homeland Security and Governmental Affairs of the Senate.
+       (iv) 1 member shall be appointed by the Minority Leader of 
+     the House of Representatives, in consultation with the 
+     Ranking Minority Member of the Committee on Armed Services 
+     and the Committee on Oversight and Government Reform of the 
+     House of Representatives.
+       (v) 1 member shall be appointed by the Secretary of 
+     Defense.
+       (vi) 1 member shall be appointed by the Secretary of State.
+       (B) Deadline for appointments.--All appointments to the 
+     Commission shall be made not later than 90 days after the 
+     date of the enactment of this Act.
+       (C) Chairman and vice chairman.--
+       (i) Chairman.--The chairman of the Commission shall be a 
+     member of the Commission selected by the members appointed 
+     under clauses (i) and (ii) of subparagraph (A), but only if 
+     approved by the vote of a majority of the members of the 
+     Commission.
+       (ii) Vice chairman.--The vice chairman of the Commission 
+     shall be a member of the Commission selected by the members 
+     appointed under clauses (iii) and (iv) of subparagraph (A), 
+     but only if approved by the vote of a majority of the members 
+     of the Commission.
+       (D) Vacancy.--In the event of a vacancy in the Commission, 
+     the individual appointed to fill the membership shall be of 
+     the same political party as the individual vacating the 
+     membership.
+       (3) Duties.--
+       (A) General duties.--The Commission shall study and 
+     investigate the following matters:
+       (i) Federal agency contracting for the reconstruction of 
+     Iraq and Afghanistan.
+       (ii) Federal agency contracting for the logistical support 
+     of coalition forces in Operation Iraqi Freedom and Operation 
+     Enduring Freedom.
+       (iii) Federal agency contracting for the performance of 
+     security and intelligence functions in Operation Iraqi 
+     Freedom and Operation Enduring Freedom.
+       (B) Scope of contracting covered.--The Federal agency 
+     contracting covered by this paragraph includes contracts 
+     entered into both in the United States and abroad for the 
+     performance of activities described in subparagraph (A), 
+     whether performed in the United States or abroad.
+       (C) Particular duties.--In carrying out the study under 
+     this paragraph, the Commission shall assess--
+       (i) the extent and impact of the reliance of the Federal 
+     Government on contractors to perform functions (including 
+     security, intelligence, and management functions) in 
+     Operation Iraqi Freedom and Operation Enduring Freedom;
+       (ii) the performance of the contracts under review, and the 
+     mechanisms used to manage the performance of the contracts 
+     under review;
+       (iii) the extent of waste, fraud, abuse, or mismanagement 
+     under such contracts;
+       (iv) the extent to which those responsible for such waste, 
+     fraud, abuse, or mismanagement have been held financially or 
+     legally accountable;
+       (v) the appropriateness of the organizational structure, 
+     policies, practices, and resources of the Department of 
+     Defense and the Department of State for handling contingency 
+     contract management and support; and
+       (vi) the extent of the misuse of force and violations of 
+     the laws of war or Federal law by contractors.
+       (4) Reports.--
+       (A) Interim report.--On January 15, 2009, the Commission 
+     shall submit to Congress an interim report on the study 
+     carried out under paragraph (3), including the results and 
+     findings of the study as of that date.
+       (B) Other reports.--The Commission may from time to time 
+     submit to Congress such other reports on the study carried 
+     out under paragraph (3) as the Commission considers 
+     appropriate.
+       (C) Final report.--Not later than two years after the date 
+     of the appointment of all of the members of the Commission 
+     under paragraph (2), the Commission shall submit to Congress 
+     a report on the study carried out under paragraph (3). The 
+     report shall--
+       (i) include the findings of the Commission;
+
+[[Page S12259]]
+
+       (ii) identify lessons learned on the contracting covered by 
+     the study; and
+       (iii) include specific recommendations for improvements to 
+     be made in--
+
+       (I) the process for developing contract requirements for 
+     wartime contracts and contracts for contingency operations;
+       (II) the process for awarding contracts and task orders for 
+     wartime contracts and contracts for contingency operations;
+       (III) the process for managing and providing oversight for 
+     the performance of wartime contracts and contracts for 
+     contingency operations;
+       (IV) the process for holding contractors and their 
+     employees accountable for waste, fraud, abuse, or 
+     mismanagement under wartime contracts and contracts for 
+     contingency operations;
+       (V) the process for determining which functions are 
+     inherently governmental and which functions are appropriate 
+     for performance by contractors in an area of combat 
+     operations (including an area of a contingency operation), 
+     including a determination whether the use of civilian 
+     contractors to provide security in an area of combat 
+     operations is a function that is inherently governmental;
+       (VI) the organizational structure, resources, policies, and 
+     practices of the Department of Defense and the Department of 
+     State handling contract management and support for wartime 
+     contracts and contracts for contingency operations; and
+       (VII) the process by which roles and responsibilities with 
+     respect to wartime contracts and contracts for contingency 
+     operations are distributed among the various departments and 
+     agencies of the Federal Government, and interagency 
+     coordination and communication mechanisms associated with 
+     wartime contracts and contracts for contingency operations.
+
+       (5) Other powers and authorities.--
+       (A) Hearings and evidence.--The Commission or, on the 
+     authority of the Commission, any subcommittee or member 
+     thereof, may, for the purpose of carrying out this 
+     subsection--
+       (i) hold such hearings and sit and act at such times and 
+     places, take such testimony, receive such evidence, 
+     administer such oaths (provided that the quorum for a hearing 
+     shall be three members of the Commission); and
+       (ii) provide for the attendance and testimony of such 
+     witnesses and the production of such books, records, 
+     correspondence, memoranda, papers, and documents,
+
+     as the Commission or such designated subcommittee or 
+     designated member may determine advisable.
+       (B) Inability to obtain documents or testimony.--In the 
+     event the Commission is unable to obtain testimony or 
+     documents needed to conduct its work, the Commission shall 
+     notify the committees of Congress of jurisdiction and 
+     appropriate investigative authorities.
+       (C) Access to information.--The Commission may secure 
+     directly from the Department of Defense and any other 
+     department or agency of the Federal Government any 
+     information or assistance that the Commission considers 
+     necessary to enable the Commission to carry out the 
+     requirements of this subsection. Upon request of the 
+     Commission, the head of such department or agency shall 
+     furnish such information expeditiously to the Commission. 
+     Whenever information or assistance requested by the 
+     Commission is unreasonably refused or not provided, the 
+     Commission shall report the circumstances to Congress without 
+     delay.
+       (D) Personnel.--The Commission shall have the authorities 
+     provided in section 3161 of title 5, United States Code, and 
+     shall be subject to the conditions set forth in such section, 
+     except to the extent that such conditions would be 
+     inconsistent with the requirements of this subsection.
+       (E) Detailees.--Any employee of the Federal Government may 
+     be detailed to the Commission without reimbursement from the 
+     Commission, and such detailee shall retain the rights, 
+     status, and privileges of his or her regular employment 
+     without interruption.
+       (F) Security clearances.--The appropriate departments or 
+     agencies of the Federal Government shall cooperate with the 
+     Commission in expeditiously providing to the Commission 
+     members and staff appropriate security clearances to the 
+     extent possible pursuant to existing procedures and 
+     requirements, except that no person shall be provided with 
+     access to classified information under this section without 
+     the appropriate security clearances.
+       (G) Violations of law.--
+       (i) Referral to attorney general.--The Commission may refer 
+     to the Attorney General any violation or potential violation 
+     of law identified by the Commission in carrying out its 
+     duties under this subsection.
+       (ii) Reports on results of referral.--The Attorney General 
+     shall submit to Congress a report on each prosecution, 
+     conviction, resolution, or other disposition that results 
+     from a referral made under this subparagraph.
+       (6) Termination.--The Commission shall terminate on the 
+     date that is 60 days after the date of the submittal of its 
+     final report under paragraph (4)(C).
+       (7) Contingency operation defined.--In this subsection, the 
+     term ``contingency operation'' has the meaning given that 
+     term in section 101 of title 10, United States Code.
+       (b) Investigation of Waste, Fraud, Abuse, and 
+     Mismanagement.--
+       (1) In general.--The Special Inspector General for Iraq 
+     Reconstruction shall, in collaboration with the Inspector 
+     General of the Department of Defense, the Inspector General 
+     of the Department of State, and the Inspector General of the 
+     United States Agency for International Development, conduct a 
+     series of audits to identify potential waste, fraud, abuse, 
+     or mismanagement in the performance of--
+       (A) Department of Defense contracts and subcontracts for 
+     the logistical support of coalition forces in Operation Iraqi 
+     Freedom and Operation Enduring Freedom; and
+       (B) Federal agency contracts and subcontracts for the 
+     performance of security and reconstruction functions in 
+     Operation Iraqi Freedom and Operation Enduring Freedom.
+       (2) Scope of audits of contracts.--Each audit conducted 
+     pursuant to paragraph (1)(A) shall focus on a specific 
+     contract, task order, or site of performance under a contract 
+     or task order and shall examine, at a minimum, one or more of 
+     the following issues:
+       (A) The manner in which requirements were developed.
+       (B) The procedures under which the contract or task order 
+     was awarded.
+       (C) The terms and conditions of the contract or task order.
+       (D) The contractor's staffing and method of performance, 
+     including cost controls.
+       (E) The efficacy of Department of Defense management and 
+     oversight, Department of State management and oversight, and 
+     United States Agency for International Development management 
+     and oversight, including the adequacy of staffing and 
+     training of officials responsible for such management and 
+     oversight.
+       (F) The flow of information from the contractor to 
+     officials responsible for contract management and oversight.
+       (3) Scope of audits of other contracts.--Each audit 
+     conducted pursuant to paragraph (1)(B) shall focus on a 
+     specific contract, task order, or site of performance under a 
+     contract or task order and shall examine, at a minimum, one 
+     or more of the following issues:
+       (A) The manner in which the requirements were developed and 
+     the contract or task order was awarded.
+       (B) The manner in which the Federal agency exercised 
+     control over the contractor's performance.
+       (C) The extent to which operational field commanders are 
+     able to coordinate or direct the contractor's performance in 
+     an area of combat operations.
+       (D) The extent to which the functions performed were 
+     appropriate for performance by a contractor.
+       (E) The degree to which contractor employees were properly 
+     screened, selected, trained, and equipped for the functions 
+     to be performed.
+       (F) The nature and extent of any incidents of misconduct or 
+     unlawful activity by contractor employees.
+       (G) The extent to which any incidents of misconduct or 
+     unlawful activity were reported, documented, investigated, 
+     and (where appropriate) prosecuted.
+       (4) Continuation of special inspector general.--
+       (A) In general.--Notwithstanding section 3001(o) of the 
+     Emergency Supplemental Appropriations Act for Defense and for 
+     the Reconstruction of Iraq and Afghanistan, 2004 (Public Law 
+     108-106; 5 U.S.C. App. 8G note), the Office of the Special 
+     Inspector General for Iraq Reconstruction shall not terminate 
+     until the date that is 60 days after the date of the 
+     submittal under paragraph (4)(C) of subsection (a) of the 
+     final report of the Commission on Wartime Contracting 
+     established by subsection (a).
+       (B) Reaffirmation of certain duties and responsibilities.--
+     Congress reaffirms that the Special Inspector General for 
+     Iraq Reconstruction retains the duties and responsibilities 
+     in sections 4 of the Inspector General Act of 1978 (5 U.S.C. 
+     App. 4; relating to reports of criminal violations to the 
+     Attorney General) and section 5 of the Inspector General Act 
+     of 1978 (5 U.S.C. App. 5; relating to reports to Congress) as 
+     expressly provided in subsections (f)(3) and (i)(3), 
+     respectively, of section 3001 of the Emergency Supplemental 
+     Appropriations Act for Defense and for the Reconstruction of 
+     Iraq and Afghanistan, 2004.
+       (c) Authorization of Appropriations.--There is authorized 
+     to be appropriated such sums as may be required to carry out 
+     the provisions of this section.
+
+  Mr. LEVIN. Mr. President, let me add my commendation to Senators Webb 
+and McCaskill and the others who fought so hard for this amendment. The 
+heart of this amendment has remained. There have been some changes in 
+it. But the substance of this amendment, the crying need for a 
+commission to look into the contract abuses and waste and fraud is very 
+strong. This amendment is going to do some important work for the 
+country and for the next time we are in a situation where we have such 
+massive spending as we have in this war.
+  Mr. President, I ask unanimous consent--I have cleared this with my 
+friend, Senator Warner--that we vitiate the vote on the Menendez 
+amendment--that has been done? Fine.
+
+[[Page S12260]]
+
+  Mr. WARNER. Mr. President, I further ask unanimous consent that we 
+may have printed in the Record at this point such other statements 
+relative to the changes that we deem appropriate to support this 
+amendment, including a document dated September 25, 2007, by the Deputy 
+Secretary of Defense subject: ``Management of DOD Contractors and 
+Contract Personnel Accompanying U.S. Armed Forces in Contingency 
+Operations Outside the United States.''
+  This is a step by the Deputy Secretary to correct some of the 
+problems that this commission will be addressing. It underlies the 
+necessity for the commission that these two Senators and others have 
+advocated.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+                              The Deputy Secretary of Defense,
+
+                               Washington, DC, September 25, 2007.
+
+  Management of DoD Contractors and Contractor Personnel Accompanying 
+ U.S. Armed Forces in Contingency Operations Outside the United States
+
+       Defense contractors fulfill a variety of important 
+     functions for the Department of Defense, both inside the 
+     United States and abroad. These functions encompass vital 
+     support to our military forces engaged in combat operations 
+     in Iraq and Afghanistan to include security for convoys, 
+     sites, personnel and the like.
+       While investigations are still ongoing and no findings of 
+     wrongdoing determined, recent events regarding non-DoD 
+     contractors performing security service in Iraq have 
+     identified a need to better ensure that relevant DoD policies 
+     and processes are being followed. This review is applicable 
+     for all policies and processes to manage DoD contractors 
+     accompanying U.S. armed forces in contingency operations 
+     outside the United States. DoDI 3020.41, ``Contractor 
+     Personnel Authorized to Accompany the U.S. Armed Forces,'' is 
+     the comprehensive source of policy and procedures concerning 
+     DoD contractor personnel.
+       Geographic Combatant Commanders are responsible for 
+     establishing lines of command responsibility within their 
+     Area of Responsibility (AOR) for oversight and management of 
+     DoD contractors and for discipline of DoD contractor 
+     personnel when appropriate. Accordingly, addressees will 
+     ensure the consistency of their implementing guidance for 
+     policies outlined in DoDI 3020.41 and ensure contracts being 
+     executed within an AOR require DoD contractors to comply with 
+     the respective geographic Combatant Commander's guidance for 
+     the AOR including, for example, Rules on the Use of Force 
+     (RUF).
+       DoD contractor personnel (regardless of nationality) 
+     accompanying U.S. armed forces in contingency operations are 
+     currently subject to UCMJ jurisdiction. Commanders have UCMJ 
+     authority to disarm, apprehend, and detain DoD contractors 
+     suspected of having committed a felony offense in violation 
+     of the RUF, or outside the scope of their authorized mission, 
+     and to conduct the basic UCMJ pretrial process and trial 
+     procedures currently applicable to the courts-martial of 
+     military servicemembers. Commanders also have available to 
+     them contract and administrative remedies, and other 
+     remedies, including discipline and possible criminal 
+     prosecution.
+       Under the Military Extraterritorial Jurisdiction Act 
+     (MEJA), federal jurisdiction exists over felony offenses 
+     committed outside the U.S. by contractor personnel of any 
+     federal agency or provisional authority whose employment 
+     relates to supporting the DoD mission. Implementing guidance 
+     under this Act is included in DoDI 5525.11, ``Criminal 
+     Jurisdiction Over Civilians Employed by or Accompanying the 
+     Armed Forces Outside the United States, Certain Service 
+     Members, and Former Service Members,'' and military 
+     department regulations. This instruction requires DoD 
+     coordination with the Department of Justice for the return to 
+     the U.S. of contractor personnel subject to MEJA for 
+     prosecution.
+       Pursuant to these authorities, addressees as appropriate 
+     will:
+       1. Ensure that all required clauses are included in DoD 
+     contracts when contract performance requires contractors and 
+     contractor personnel to accompany U.S. forces in contingency 
+     operations.
+       2. Verify that all DoD contractors ensure that their 
+     personnel authorized to carry weapons as security personnel 
+     or for personal protection have been properly trained and 
+     licensed for the weapons they are authorized to carry and 
+     appropriately trained on the applicable RUF.
+       3. Provide appropriate discipline for unauthorized 
+     possession, carrying, or discharging weapons.
+       4. Ensure that instructions have been issued to their 
+     command and to their contractors to prevent contractor 
+     personnel who are suspected of having committed a felony act 
+     or of having committed an act in violation of the RUF from 
+     being allowed to leave the country until approved by the 
+     senior commander in the country or until an investigation is 
+     completed and a decision is rendered by the flag officer 
+     court martial convening authority. Officials of contracting 
+     firms who arrange for, facilitate, or allow such personnel to 
+     leave the country before being cleared will be subject to 
+     disciplinary action under either UCMJ or MEJA.
+       5. Review periodically the existing RUF and make any 
+     changes necessary to minimize the risk of innocent civilian 
+     casualties or unnecessary destruction of civilian property.
+       6. Require DoD contractors performing security services to 
+     provide to the Combatant Commander copies of their Standard 
+     Operating Procedures (SOPs) and guidance to their contractor 
+     personnel on escalation of the use of force, the use of 
+     deadly force, and on the rules for interaction with host 
+     country nationals who may be present and/or potentially 
+     involved in a situation perceived by contractor personnel as 
+     a potential threat to their mission or to themselves. Require 
+     that such SOPs and guidance be modified as necessary to be 
+     consistent with the RUF.
+       7. Review periodically the guidance and authorization for 
+     DoD contractor personnel to possess and carry weapons.
+       Over the past several months, the Department has been 
+     developing and staffing additional guidance regarding this 
+     UCMJ disciplinary authority over persons serving with or 
+     accompanying the armed forces during contingency operations. 
+     The UCMJ authority referenced in this memorandum remains in 
+     effect until modified by promulgation of such additional 
+     guidance.
+
+  Mr. WARNER. I think we are prepared to vote.
+  The PRESIDING OFFICER. Under the previous order, the amendment has 
+been agreed to.
+  Mr. WARNER. Mr. President, I move to reconsider the vote and I move 
+to lay that motion on the table.
+  The motion to lay on the table was agreed to.
+
+
+                           Amendment No. 2196
+
+  The PRESIDING OFFICER. The next question is on amendment No. 2196, 
+offered by Senator Coburn. Ten minutes will be evenly divided.
+  Mr. COBURN. Mr. President, this is a very simple amendment. We voted 
+to increase the debt limit. We have a project that the Department of 
+Justice, the DEA, and all the other drug enforcement agencies say is 
+ineffective.
+  I am going to give you some quotes from the people who worked there 
+and what they had said. Former official of the Drug Czar's office put 
+it bluntly: ``We see nothing from this.''
+  The former, most recently resigned, Director: ``I recognize that many 
+of the reports were god-awful, poorly written, poorly researched, and 
+in many cases just plain wrong.''
+  Jim Milford, former NDIC Deputy, admitted: ``I have never come to 
+terms with the justification for the NDIC, and the bottom line is we 
+actually have to search for a mission.''
+  These are good people who work there. It is not about them. It is 
+about whether we are going to be prudent with the money we spend. They 
+have one program that is effective. It is called DOCX. The problem with 
+it being where it is, is it cannot be applied there, it has to be 
+applied at other drug intelligence centers and the other DEA centers 
+throughout the country.
+  The administration, the Department of Justice, the DEA and all the 
+other drug centers, especially the one in El Paso, is where this 
+information ought to be processed.
+  We have spent half a billion dollars and gotten very little return. 
+It is a recommendation that we have a chance to do something. We have a 
+chance to eliminate a program that is not effective by any metric that 
+the Government has applied or the former Directors have applied or the 
+Deputy Directors have applied who have worked there, saying it is not 
+effective.
+  My hope is this body will approve this amendment and start us down 
+the road of eliminating programs that are ineffective.
+  I reserve the remainder of my time.
+  The PRESIDING OFFICER. The Senator from Michigan.
+  Mr. LEVIN. Mr. President, I will yield half the time in opposition to 
+the Coburn amendment to the two Senators from Pennsylvania, half to 
+Senator Specter and half to Senator Casey.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. SPECTER. Mr. President, will you advise me when the 2\1/2\ 
+minutes have expired?
+  The PRESIDING OFFICER. Yes.
+  Mr. SPECTER. Mr. President, contrary to the arguments of the Senator 
+from Oklahoma, the National Drug Intelligence Center has been 
+functioning since 1993 and has never been challenged on this floor in 
+any respect. It has not been challenged until today because it has 
+performed so well.
+  Yesterday I had printed in the Record the extensive compliments
+
+[[Page S12261]]
+
+which have been paid by the FBI in an expansive letter on November 21, 
+2001, by DEA, the Drug Enforcement Agency; on June 21, 2006, by FBI 
+field offices around the country, including Tampa, Detroit, and 
+Charlotte, by U.S. attorneys around the country. It has performed with 
+very strategic results. It is important to decentralize operations such 
+as the National Drug Intelligence Center. Everything does not have to 
+be in Washington. It costs about a third to do it in Johnstown as it 
+would in Washington.
+  When the Senator from Oklahoma says it ought to be in El Paso because 
+all the drugs come from El Paso, that is simply not true. Drugs come 
+into this country from Miami, from New York, from Detroit, from 
+California. They come from everywhere.
+  It has been in existence for 14 years and is functioning 
+successfully. It is not a minor matter that it has 340 jobs. Johnstown 
+has become accustomed to having this. Johnstown, as is well known 
+historically, has had its tough time with two major floods. It doesn't 
+deserve another flood by having this body saying the office ought to be 
+removed at this time.
+  I yield to my distinguished colleague from Scranton, PA.
+  Mr. CASEY. I wish to reiterate much of what Senator Specter already 
+said. This center is providing important law enforcement services right 
+now, helping out on international drug trafficking, which helps out in 
+the fight against terrorism.
+  If we came to this floor every week and talked about what some 
+Government agency said about a particular facility such as this, we 
+would be having these votes all the time. I was the auditor of 
+Pennsylvania. I know a lot about waste, fraud, and abuse. I know how to 
+find it and root it out. But I also know you cannot take one Government 
+agency's word for it. This center is providing an important service 
+right now, in crime fighting, in keeping local law enforcement working 
+with the Federal Government.
+  It is an important facility in the State of Pennsylvania. There are 
+people there who are working hard in Johnstown, PA. This is a diversion 
+from some other things we have been doing.
+  This is very important that we support this kind of facility. All the 
+answers do not reside in Washington, DC. There are some people out 
+there who know how to fight crime, some people out there who know how 
+to root out and crack down on drug trafficking.
+  This center plays that role. I urge my colleagues to vote against 
+this amendment.
+  Mr. COBURN. Mr. President, how much time do I have remaining?
+  The PRESIDING OFFICER. There are 3 minutes 11 seconds.
+  Mr. COBURN. What you did not hear is what is the mission of the NDIC. 
+It has no mission. That is the problem. The agency running this center 
+says it should be closed--for very good reasons. It does not have an 
+international mandate. They have had people fired because they are 
+doing things that are outside of what restricted mission they have.
+  The one program that works is DOSX, and those people who are 
+functioning with DOSX have to go to wherever the information is, which 
+they are extracting in the investigation. None of that is done in 
+Johnstown. So if they travel, it doesn't matter where they start.
+  The point is, the people who work there, who have run it, the people 
+who are managing it, and the rest of the Drug Enforcement Agency and 
+the rest of our drug intelligence says it has no mission. It has 
+accomplished very little. I rest my case and would appreciate a vote.
+  I ask for the yeas and nays.
+  The PRESIDING OFFICER. Is there a sufficient second? There appears to 
+be a sufficient second.
+  The question is on agreeing to the amendment.
+  The clerk will call the roll.
+  The legislative clerk called the roll.
+  Mr. DURBIN. I announce that the Senator from Delaware Mr. (Biden) the 
+Senator from New York (Mrs. Clinton), and the Senator from Illinois 
+(Mr. Obama) are necessarily absent.
+  Mr. LOTT. The following Senators are necessarily absent: the Senator 
+from Kansas (Mr. Brownback) and the Senator from Arizona (Mr. McCain).
+  The PRESIDING OFFICER (Mr. Pryor). Are there any other Senators in 
+the Chamber desiring to vote?
+  The result was announced--yeas 26, nays 69, as follows:
+
+                      [Rollcall Vote No. 356 Leg.]
+
+                                YEAS--26
+
+     Alexander
+     Allard
+     Barrasso
+     Bunning
+     Burr
+     Carper
+     Coburn
+     Cornyn
+     DeMint
+     Dole
+     Ensign
+     Enzi
+     Feingold
+     Graham
+     Grassley
+     Inhofe
+     Kyl
+     Lott
+     Lugar
+     Martinez
+     McConnell
+     Rockefeller
+     Sessions
+     Sununu
+     Thune
+     Vitter
+
+                                NAYS--69
+
+     Akaka
+     Baucus
+     Bayh
+     Bennett
+     Bingaman
+     Bond
+     Boxer
+     Brown
+     Byrd
+     Cantwell
+     Cardin
+     Casey
+     Chambliss
+     Cochran
+     Coleman
+     Collins
+     Conrad
+     Corker
+     Craig
+     Crapo
+     Dodd
+     Domenici
+     Dorgan
+     Durbin
+     Feinstein
+     Gregg
+     Hagel
+     Harkin
+     Hatch
+     Hutchison
+     Inouye
+     Isakson
+     Johnson
+     Kennedy
+     Kerry
+     Klobuchar
+     Kohl
+     Landrieu
+     Lautenberg
+     Leahy
+     Levin
+     Lieberman
+     Lincoln
+     McCaskill
+     Menendez
+     Mikulski
+     Murkowski
+     Murray
+     Nelson (FL)
+     Nelson (NE)
+     Pryor
+     Reed
+     Reid
+     Roberts
+     Salazar
+     Sanders
+     Schumer
+     Shelby
+     Smith
+     Snowe
+     Specter
+     Stabenow
+     Stevens
+     Tester
+     Voinovich
+     Warner
+     Webb
+     Whitehouse
+     Wyden
+
+                             NOT VOTING--5
+
+     Biden
+     Brownback
+     Clinton
+     McCain
+     Obama
+     The amendment (No. 2196) was rejected.
+  Mr. LEVIN. Mr. President, I move to reconsider the vote.
+  Mr. WARNER. Mr. President, I move to lay that motion on the table.
+  The motion to lay on the table was agreed to.
+
+
+ Amendment Nos. 2902, 3000, 3041, 3073, 2127, as Modified; 3088, 2983, 
+  3076, 2991, 2989, 3081, 3078, 3104, 2133, 3077, 2265, as Modified; 
+3087, 2954, 2049, 2101, 2261, 2074, 2000, 2161, 2925, 2912, 2066, 2984, 
+   as Modified; 3075, as Modified; 3089, as Modified; 3090, 2993, as 
+ Modified; 2872, as Modified; 2214, as Modified; 2942, as Modified, to 
+                           amendment No. 2011
+
+  Mr. LEVIN. Mr. President, I call up the managers' package at the 
+desk. This package has been agreed to in our unanimous consent 
+agreement. This is the package that is referred to in that unanimous 
+consent agreement.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendments were agreed to, as follows:
+
+
+                           amendment no. 2902
+
+     (Purpose: To provide for an enhancement of the utility of the 
+Certificate of Release or Discharge from Active Duty of members of the 
+                             Armed Forces)
+
+       At the end of subtitle H of title V, add the following:
+
+     SEC. 594. ENHANCEMENT OF CERTIFICATE OF RELEASE OR DISCHARGE 
+                   FROM ACTIVE DUTY.
+
+       The Secretary of Defense shall, in consultation with the 
+     Secretary of Veterans Affairs, modify the Certificate of 
+     Release or Discharge from Active Duty (Department of Defense 
+     from DD214) in order to permit a member of the Armed Forces, 
+     upon discharge or release from active duty in the Armed 
+     Forces, to elect the forwarding of the Certificate to the 
+     following:
+       (1) The Central Office of the Department of Veterans 
+     Affairs in Washington, District of Columbia.
+       (2) The appropriate office of the United States Department 
+     of Veterans in the State in which the member will first 
+     reside after such discharge or release.
+
+
+                           amendment no. 3000
+
+(Purpose: To provide for the relocation of the Joint Spectrum Center in 
+ Annapolis, Maryland, to Fort Meade. Maryland, and the termination of 
+                   the existing lease for the Center)
+
+       At the end of subtitle D of title XXVIII, add the 
+     following:
+
+     SEC. 2842. AUTHORITY TO RELOCATE THE JOINT SPECTRUM CENTER TO 
+                   FORT MEADE, MARYLAND.
+
+       (a) Authority to Carry Out Relocation Agreement.--If deemed 
+     to be in the best interest of national security and to the 
+     physical protection of personnel and missions of the 
+     Department of Defense, the Secretary of Defense may carry out 
+     an agreement to relocate the Joint Spectrum Center, a 
+     geographically separated unit of the Defense Information 
+     Systems Agency, from Annapolis, Maryland to Fort Meade, 
+     Maryland or another military installation, subject to an 
+     agreement between the lease holder and the Department of 
+     Defense for equitable and appropriate terms to facilitate the 
+     relocation.
+       (b) Authorization.--Any facility, road or infrastructure 
+     constructed or altered on a military installation as a result 
+     of the agreement must be authorized in accordance with 
+     section 2802 of title 10, United States Code.
+       (c) Termination of Existing Lease.--Upon completion of the 
+     relocation of the Joint Spectrum Center, all right, title, 
+     and interest of the United States in and to the existing 
+     lease for the Joint Spectrum Center shall
+
+[[Page S12262]]
+
+     be terminated, as contemplated under Condition 29.B of the 
+     lease.
+
+
+                           Amendment no. 3041
+
+              (Purpose: To protect small high-tech firms)
+
+       At the end of title X, add the following:
+
+     SEC. 1070. SMALL HIGH-TECH FIRMS.
+
+       Section 9(m) of the Small Business Act (15 U.S.C. 638(m)) 
+     is amended by striking ``2008'' and inserting ``2010''.
+
+
+                           amendment no. 3073
+
+ (Purpose: To provide for transparency and accountability in military 
+                       and security contracting)
+
+       At the end of subtitle E of title VIII, add the following:
+
+     SEC. 876. TRANSPARENCY AND ACCOUNTABILITY IN MILITARY AND 
+                   SECURITY CONTRACTING.
+
+       (a) Reports on Iraq and Afghanistan Contracts.--Not later 
+     than 90 days after the date of the enactment of this Act, the 
+     Secretary of Defense, the Secretary of State, the Secretary 
+     of the Interior, the Administrator of the United States 
+     Agency for International Development, and the Director of 
+     National Intelligence shall each submit to Congress a report 
+     that contains the information, current as of the date of the 
+     enactment of this Act, as follows:
+       (1) The number of persons performing work in Iraq and 
+     Afghanistan under contracts (and subcontracts at any tier) 
+     entered into by departments and agencies of the United States 
+     Government, including the Department of Defense, the 
+     Department of State, the Department of the Interior, and the 
+     United States Agency for International Development, 
+     respectively, and a brief description of the functions 
+     performed by these persons.
+       (2) The companies awarded such contracts and subcontracts.
+       (3) The total cost of such contracts.
+       (4) A method for tracking the number of persons who have 
+     been killed or wounded in performing work under such 
+     contracts.
+       (b) Sense of the Senate.--It is the sense of the Senate 
+     that the Secretary of Defense, the Secretary of State, the 
+     Secretary of the Interior, the Administrator of the United 
+     States Agency for International Development, and the Director 
+     of National Intelligence should make their best efforts to 
+     compile the most accurate accounting of the number of 
+     civilian contractors killed or wounded in Iraq and 
+     Afghanistan since October 1, 2001.
+       (c) Department of Defense Report on Strategy for and 
+     Appropriateness of Activities of Contractors Under Department 
+     of Defense Contracts in Iraq, Afghanistan, and the Global War 
+     on Terror.--Not later than 180 days after the date of the 
+     enactment of this Act, the Secretary of Defense shall submit 
+     to Congress a report setting forth the strategy of the 
+     Department of Defense for the use of, and a description of 
+     the activities being carried out by, contractors and 
+     subcontractors working in Iraq and Afghanistan in support of 
+     Department missions in Iraq, Afghanistan, and the Global War 
+     on Terror, including its strategy for ensuring that such 
+     contracts do not--
+       (1) have private companies and their employees performing 
+     inherently governmental functions; or
+       (2) place contractors in supervisory roles over United 
+     States Government personnel.
+
+
+                    Amendment No. 2127, as modified
+
+       On page 236, line 8, strike ``and accounting for'' and 
+     insert ``accounting for, and keeping appropriate records 
+     of''.
+       On page 236, between lines 14 and 15, insert the following:
+       (C) a process for the registration and identification of 
+     armored vehicles, helicopters, and other military vehicles 
+     operated by contractors and subcontractors performing private 
+     security functions in an area of combat operations;
+       On page 236, line 15, strike ``(C)'' and insert ``(D)''.
+       On page 236, beginning on line 15, strike ``for the 
+     reporting of all incidents in which--'' and insert ``under 
+     which contractors are required to report all incidents, and 
+     persons other than contractors are permitted to report 
+     incidents, in which--''.
+       On page 236, line 19, strike ``or''.
+       On page 236, strike line 22 and insert the following:
+     ations are filled or injured; or
+       (iii) persons are killed or injured, or property is 
+     destroyed, as a result of conduct by contractor personnel;
+       On page 236, line 23, strike ``(D)'' and insert ``(E)''.
+       On page 236, line 23, strike ``investigating--'' and insert 
+     ``the independent review and, where appropriate, 
+     investigation of--''.
+       On page 236, line 25, strike ``(C)'' and insert ``(D)''.
+       On page 237, line 4, strike ``(E)'' and insert ``(F)''.
+       On page 237, line 8, strike ``(F)'' and insert ``(G)''.
+       On page 237, strike line 15 and insert the following:
+       (ii) predeployment training requirements for personnel 
+     performing private security functions in an area of combat 
+     operations, addressing the requirements of this section, 
+     resources and assistance available to contractor personnel, 
+     country information and cultural training, and guidance on 
+     working with host country nationals and military; and
+       On page 237, line 16, strike ``(ii)'' and insert ``(iii)''.
+       On page 237, line 16, strike ``rules of engagement'' and 
+     insert ``rules on the use of force''.
+       On page 237, line 18, strike ``and'' at the end.
+       On page 237, line 19, strike ``(G)'' and insert ``(H)''.
+       On page 237, line 21, strike the period at the end and 
+     insert the following: ``; and
+       (I) a process by which the Department of Defense shall 
+     implement the training requirements referred to in 
+     subparagraph (G)(ii).
+       (3) Availability of orders, directives, and instructions.--
+     The regulations prescribed under subsection (a) shall include 
+     mechanisms to ensure the provision and availability of the 
+     orders, directives, and instructions referred to in paragraph 
+     (2)(G)(i) to contractors and subcontractors referred to in 
+     that paragraph, including through the maintenance of a single 
+     location (including an Internet website) at or through which 
+     such contractors and subcontractors may access such orders, 
+     directives, and instructions.
+       On page 238, beginning on line 15, strike ``and accounting 
+     for'' and insert ``accounting for, and keeping appropriate 
+     records of''.
+       On page 238, strike line 23 and insert the following:
+     ations;
+       (iii) registration and identification of armored vehicles, 
+     helicopters, and other military vehicles operated by 
+     contractors and subcontractors performing private security 
+     functions in an area of combat operations; and
+       On page 238, line 24, strike ``(iii)'' and insert ``(iv)''.
+       On page 239, line 4, strike ``or''.
+       On page 239, strike line 7 and insert the following:
+
+     bat operations are killed or injured; or
+       (III) persons are killed or injured, or property is 
+     destroyed, as a result of conduct by contractor personnel;
+
+       On page 239, line 10, strike ``comply with--'' and insert 
+     ``are briefed on and understand their obligation to comply 
+     with--''.
+       On page 240, line 3, strike ``rules of engagement'' and 
+     insert ``rules on the use of force''.
+
+
+                           amendment no. 3088
+
+   (Purpose: To require a report on medical physical examinations of 
+          members of the Armed Forces before their deployment)
+
+       At the end of title VII, add the following:
+
+     SEC. 703. REPORT ON MEDICAL PHYSICAL EXAMINATIONS OF MEMBERS 
+                   OF THE ARMED FORCES BEFORE THEIR DEPLOYMENT.
+
+       Not later than April 1, 2008, the Secretary of Defense 
+     shall submit to the Committees on Armed Services of the 
+     Senate and the House of Representatives a report setting 
+     forth the following:
+       (1) The results of a study of the frequency of medical 
+     physical examinations conducted by each component of the 
+     Armed Forces (including both the regular components and the 
+     reserve components of the Armed Forces) for members of the 
+     Armed Forces within such component before their deployment.
+       (2) A comparison of the policies of the military 
+     departments concerning medical physical examinations of 
+     members of the Armed Forces before their deployment, 
+     including an identification of instances in which a member 
+     (including a member of a reserve component) may be required 
+     to undergo multiple physical examinations, from the time of 
+     notification of an upcoming deployment through the period of 
+     preparation for deployment.
+       (3) A model of, and a business case analysis for, each of 
+     the following:
+       (A) A single predeployment physical examination for members 
+     of the Armed Forces before their deployment.
+       (B) A single system for tracking electronically the results 
+     of examinations under subparagraph (A) that can be shared 
+     among the military departments and thereby eliminate 
+     redundancy of medical physical examinations for members of 
+     the Armed Forces before their deployment.
+
+
+                           amendment no. 2983
+
+ (Purpose: To modify authorities relating to the Office of the Special 
+               Inspector General for Iraq Reconstruction)
+
+       At the end of subtitle C of title XV, add the following:
+
+     SEC. 1535. MODIFICATION OF AUTHORITIES RELATED TO THE OFFICE 
+                   OF THE SPECIAL INSPECTOR GENERAL FOR IRAQ 
+                   RECONSTRUCTION.
+
+       (a) Termination Date.--Subsection (o)(1) of section 3001 of 
+     the Emergency Supplemental Appropriations Act for Defense and 
+     for the Reconstruction of Iraq and Afghanistan, 2004 (Public 
+     Law 108-106; 117 Stat. 1238; 5 U.S.C. App., note to section 
+     8G of Public Law 95-452), as amended by section 1054(b) of 
+     the John Warner National Defense Authorization Act for Fiscal 
+     Year 2007 (Public Law 109-364; 120 Stat. 2397), section 2 of 
+     the Iraq Reconstruction Accountability Act of 2006 (Public 
+     Law 109-440), and section 3801 of the U.S. Troop Readiness, 
+     Veterans' Care, Katrina Recovery, and Iraq Accountability 
+     Appropriations Act, 2007 (Public Law 110-28; 121 Stat. 147) 
+     is amended to read as follows:
+       ``(1) The Office of the Inspector General shall terminate 
+     90 days after the balance of funds appropriated or otherwise 
+     made available for the reconstruction of Iraq is less than 
+     $250,000,000.''.
+       (b) Jurisdiction Over Reconstruction Funds.--Such section 
+     is further amended by adding at the end the following new 
+     subsection:
+       ``(p) Rule of Construction.--For purposes of carrying out 
+     the duties of the Special Inspector General for Iraq 
+     Reconstruction, any
+
+[[Page S12263]]
+
+     United States funds appropriated or otherwise made available 
+     for fiscal years 2006 through 2008 for the reconstruction of 
+     Iraq, irrespective of the designation of such funds, shall be 
+     deemed to be amounts appropriated or otherwise made available 
+     to the Iraq Relief and Reconstruction Fund.''.
+       (c) Hiring Authority.--Subsection (h)(1) of such section is 
+     amended by inserting after ``pay rates'' the following: ``, 
+     and may exercise the authorities of subsections (b) through 
+     (i) of section 3161 of title 5, United States Code (without 
+     regard to subsection (a) of such section)''.
+
+
+                           amendment no. 3076
+
+(Purpose: To require a report on family reunions between United States 
+              citizens and their relatives in North Korea)
+
+       At the end of subtitle C of title XII, add the following:
+
+     SEC. 1234. REPORT ON FAMILY REUNIONS BETWEEN UNITED STATES 
+                   CITIZENS AND THEIR RELATIVES IN NORTH KOREA.
+
+       (a) Report Required.--Not later than 180 days after the 
+     date of the enactment of this Act, the President shall submit 
+     to Congress a report on family reunions between United States 
+     citizens and their relatives in the Democratic People's 
+     Republic of Korea.
+       (b) Elements.--The report under subsection (a) shall 
+     include the following:
+       (1) An estimate of the current number of United States 
+     citizens with relatives in North Korea, and an estimate of 
+     the current number of such United States citizens who are 
+     more than 70 years of age.
+       (2) An estimate of the number of United States citizens who 
+     have traveled to North Korea for family reunions.
+       (3) An estimate of the amounts of money and aid that went 
+     from the Korean-American community to North Korea in 2007.
+       (4) A summary of any allegations of fraud by third-party 
+     brokers in arranging family reunions between United States 
+     citizens and their relatives in North Korea.
+       (5) A description of the efforts, if any, of the President 
+     to facilitate reunions between the United States citizens and 
+     their relatives in North Korea, including the following:
+       (A) Negotiating with the Democratic People's Republic of 
+     Korea to permit family reunions between United States 
+     citizens and their relatives in North Korea.
+       (B) Planning, in the event of a normalization of relations 
+     between the United States and the Democratic People's 
+     Republic of Korea, to dedicate personnel and resources at the 
+     United States embassy in Pyongyang, Democratic People's 
+     Republic of Korea, to facilitate reunions between United 
+     States citizens and their relatives in North Korea.
+       (C) Informing Korean-American families of fraudulent 
+     practices by certain third-party brokers who arrange reunions 
+     between United States citizens and their relatives in North 
+     Korea, and seeking an end to such practices.
+       (D) Developing standards for safe and transparent family 
+     reunions overseas involving United States citizens and their 
+     relatives in North Korea.
+       (6) What additional efforts in the areas described in 
+     paragraph (5), if any, the President would consider desirable 
+     and feasible.
+
+
+                           amendment no. 2991
+
+   (Purpose: To require the Secretary of State and the Secretary of 
+ Defense to prepare reports assessing capabilities to provide training 
+and guidance to the command of an international intervention force that 
+                   seeks to prevent mass atrocities)
+
+       At the end of title XII, add the following:
+
+     SEC. 1234. REPORTS ON PREVENTION OF MASS ATROCITIES.
+
+       (a) Department of State Report.--
+       (1) Report required.--Not later than 120 days after the 
+     date of the enactment of this Act, the Secretary of State 
+     shall submit to the congressional defense committees, the 
+     Committee on Foreign Relations of the Senate, and the 
+     Committee on Foreign Affairs of the House of Representatives 
+     a report assessing the capability of the Department of State 
+     to provide training and guidance to the command of an 
+     international intervention force that seeks to prevent mass 
+     atrocities.
+       (2) Content.--The report required under paragraph (1) shall 
+     include the following:
+       (A) An evaluation of any doctrine currently used by the 
+     Secretary of State to prepare for the training and guidance 
+     of the command of an international intervention force.
+       (B) An assessment of the role played by the United States 
+     in developing the ``responsibility to protect'' doctrine 
+     described in paragraphs 138 through 140 of the outcome 
+     document of the High-level Plenary Meeting of the General 
+     Assembly adopted by the United Nations in September 2005, and 
+     an update on actions taken by the United States Mission to 
+     the United Nations to discuss, promote, and implement such 
+     doctrine.
+       (C) An assessment of the potential capability of the 
+     Department of State and other Federal departments and 
+     agencies to support the development of new doctrines for the 
+     training and guidance of an international intervention force 
+     in keeping with the ``responsibility to protect'' doctrine.
+       (D) Recommendations as to the steps necessary to allow the 
+     Secretary of State to provide more effective training and 
+     guidance to an international intervention force.
+       (b) Department of Defense Report.--
+       (1) Report required.--Not later than 120 days after the 
+     date of the enactment of this Act, the Secretary of Defense 
+     shall submit to the congressional defense committees, the 
+     Committee on Foreign Relations of the Senate, and the 
+     Committee on Foreign Affairs of the House of Representatives 
+     a report assessing the capability of the Department of 
+     Defense to provide training and guidance to the command of an 
+     international intervention force that seeks to prevent mass 
+     atrocities.
+       (2) Content.--The report required under paragraph (1) shall 
+     include the following:
+       (A) An evaluation of any doctrine currently used by the 
+     Secretary of Defense to prepare for the training and guidance 
+     of the command of an international intervention force.
+       (B) An assessment of the potential capability of the 
+     Department of Defense and other Federal departments and 
+     agencies to support the development of new doctrines for the 
+     training and guidance of an international intervention force 
+     in keeping with the ``responsibility to protect'' doctrine.
+       (C) Recommendations as to the steps necessary to allow the 
+     Secretary of Defense to provide more effective training and 
+     guidance to an international intervention force.
+       (D) A summary of any assessments or studies of the 
+     Department of Defense or other Federal departments or 
+     agencies relating to ``Operation Artemis'', the 2004 French 
+     military deployment and intervention in the eastern region of 
+     the Democratic Republic of Congo to protect civilians from 
+     local warring factions.
+       (c) International Intervention Force.--For the purposes of 
+     this section, ``international intervention force'' means a 
+     military force that--
+       (1) is authorized by the United Nations; and
+       (2) has a mission that is narrowly focused on the 
+     protection of civilian life and the prevention of mass 
+     atrocities such as genocide.
+
+
+                           amendment no. 2989
+
+   (Purpose: To provide accurate monitoring and tracking of weapons 
+provided to the Government of Iraq and other individuals and groups in 
+                                 Iraq)
+
+       At the end of title XV, add the following:
+
+     SEC. 1535. TRACKING AND MONITORING OF DEFENSE ARTICLES 
+                   PROVIDED TO THE GOVERNMENT OF IRAQ AND OTHER 
+                   INDIVIDUALS AND GROUPS IN IRAQ.
+
+       (a) Export and Transfer Control Policy.--The President, in 
+     coordination with the Secretary of State and the Secretary of 
+     Defense, shall implement a policy to control the export and 
+     transfer of defense articles into Iraq, including 
+     implementation of the registration and monitoring system 
+     under subsection (c).
+       (b) Requirement To Implement Control System.--
+     Notwithstanding any other provision of law, no defense 
+     articles may be provided to the Government of Iraq or any 
+     other group, organization, citizen, or resident of Iraq until 
+     the Secretary of State certifies that a registration and 
+     monitoring system meeting the requirements set forth in 
+     subsection (c) has been established.
+       (c) Registration and Monitoring System.--The registration 
+     and monitoring system required under this section shall 
+     include--
+       (1) the registration of the serial numbers of all small 
+     arms provided to the Government of Iraq or to other groups, 
+     organizations, citizens, or residents of Iraq;
+       (2) a program of enhanced end-use monitoring of all lethal 
+     defense articles provided to such entities or individuals; 
+     and
+       (3) a detailed record of the origin, shipping, and 
+     distribution of all defense articles transferred under the 
+     Iraq Security Forces Fund or any other security assistance 
+     program to such entities or individuals in Iraq.
+       (d) Review.--The President shall periodically review the 
+     items subject to the registration and monitoring requirements 
+     under subsection (c) to determine what items, if any, no 
+     longer warrant export controls under such subsection. The 
+     results of such reviews shall be reported to the Speaker of 
+     the House of Representatives and to the Committee on Foreign 
+     Relations, the Committee on Armed Services, and the Committee 
+     on Banking, Housing, and Urban Affairs of the Senate. The 
+     President may not exempt any item from such requirements 
+     until 30 days after the date on which the President has 
+     provided notice of the proposed removal to the Committee on 
+     Foreign Affairs of the House of Representatives and to the 
+     Committee on Foreign Relations and the Committee on Armed 
+     Services of the Senate in accordance with the procedures 
+     applicable to reprogramming notifications under section 
+     634A(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 
+     2394-1). Such notice shall describe the nature of any 
+     controls to be imposed on that item under any other provision 
+     of law.
+       (e) Definitions.--In this section:
+       (1) Defense article.--The term ``defense article'' has the 
+     meaning given the term in section 644(d) of the Foreign 
+     Assistance Act of 1961 (22 U.S.C. 2403)(d)).
+       (2) Small arms.--The term ``small arms'' means--
+       (A) handguns;
+       (B) shoulder-fired weapons;
+       (C) light automatic weapons up to and including .50 caliber 
+     machine guns;
+       (D) recoilless rifles up to and including 106mm;
+       (E) mortars up to and including 81mm;
+       (F) rocket launchers, man-portable;
+       (G) grenade launchers, rifle and shoulder fired; and
+       (H) individually operated weapons which are portable or can 
+     be fired without special
+
+[[Page S12264]]
+
+     mounts or firing devices and which have potential use in 
+     civil disturbances and are vulnerable to theft.
+       (f) Effective Date.--This section shall take effect 90 days 
+     after the date of the enactment of this Act, unless the 
+     President certifies in writing to Congress that it is in the 
+     vital interest of the United States to delay the effective 
+     date of this section by an additional period of up to 90 
+     days, including an explanation of such vital interest, in 
+     which case the section shall take effect on such later 
+     effective date.
+
+
+                           amendment no. 3081
+
+  (The Amendment is printed in today's Record under ``Text of 
+Amendments.)
+
+
+                           amendment no. 3078
+
+  (Purpose: Relating to administrative separations of members of the 
+                 Armed Forces for personality disorder)
+
+       At the end of subtitle H of title V, add the following:
+
+     SEC. 594. ADMINISTRATIVE SEPARATIONS OF MEMBERS OF THE ARMED 
+                   FORCES FOR PERSONALITY DISORDER.
+
+       (a) Clinical Review of Administrative Separations Based on 
+     Personality Disorder.--
+       (1) Review of separations of certain members.--Not later 
+     than 30 days after the date of the enactment of this Act, and 
+     continuing until the Secretary of Defense submits to Congress 
+     the report required by subsection (b), a covered member of 
+     the Armed Forces may not, except as provided in paragraph 
+     (2), be administratively separated from the Armed Forces on 
+     the basis of a personality disorder.
+       (2) Clinical review of proposed separations based on 
+     personality disorder.--
+       (A) In general.--A covered member of the Armed Forces may 
+     be administratively separated from the Armed Forces on the 
+     basis of a personality disorder under this paragraph if a 
+     clinical review of the case is conducted by a senior officer 
+     in the office of the Surgeon General of the Armed Force 
+     concerned who is a credentialed mental health provider and 
+     who is fully qualified to review cases involving maladaptive 
+     behavior (personality disorder), diagnosis and treatment of 
+     post-traumatic stress disorder, or other mental health 
+     conditions.
+       (B) Purposes of review.--The purposes of the review with 
+     respect to a member under subparagraph (A) are as follows:
+       (i) To determine whether the diagnosis of personality order 
+     in the member is correct and fully documented.
+       (ii) To determine whether evidence of other mental health 
+     conditions (including depression, post-traumatic stress 
+     disorder, substance abuse, or traumatic brain injury) 
+     resulting from service in a combat zone may exist in the 
+     member which indicate that the separation of the member from 
+     the Armed Forces on the basis of a personality disorder is 
+     inappropriate pending diagnosis and treatment, and, if so, 
+     whether initiation of medical board procedures for the member 
+     is warranted.
+       (b) Secretary of Defense Report on Administrative 
+     Separations Based on Personality Disorder.--
+       (1) Report required.--Not later than April 1, 2008, the 
+     Secretary of Defense shall submit to the Committees on Armed 
+     Services of the Senate and the House of Representatives a 
+     report on all cases of administrative separation from the 
+     Armed Forces of covered members of the Armed Forces on the 
+     basis of a personality disorder.
+       (2) Elements.--The report required by paragraph (1) shall 
+     include the following:
+       (A) A statement of the total number of cases, by Armed 
+     Force, in which covered members of the Armed Forces have been 
+     separated from the Armed Forces on the basis of a personality 
+     disorder, and an identification of the various forms of 
+     personality order forming the basis for such separations.
+       (B) A statement of the total number of cases, by Armed 
+     Force, in which covered members of the Armed Forces who have 
+     served in Iraq and Afghanistan since October 2001 have been 
+     separated from the Armed Forces on the basis of a personality 
+     disorder, and the identification of the various forms of 
+     personality disorder forming the basis for such separations.
+       (C) A summary of the policies, by Armed Forces, controlling 
+     administrative separations of members of the Armed Forces 
+     based on personality disorder, and an evaluation of the 
+     adequacy of such policies for ensuring that covered members 
+     of the Armed Forces who may be eligible for disability 
+     evaluation due to mental health conditions are not separated 
+     from the Armed Forces prematurely or unjustly on the basis of 
+     a personality order.
+       (D) A discussion of measures being implemented to ensure 
+     that members of the Armed Forces who should be evaluated for 
+     disability separation or retirement due to mental health 
+     conditions are not prematurely or unjustly processed for 
+     separation from the Armed Forces on the basis of a 
+     personality disorder, and recommendations regarding how 
+     members of the Armed Forces who may have been so separated 
+     from the Armed Forces should be provided with expedited 
+     review by the applicable board for the correction of military 
+     records.
+       (c) Comptroller General Report on Policies on 
+     Administrative Separation Based on Personality Disorder.--
+       (1) Report required.--Not later than June 1, 2008, the 
+     Comptroller General shall submit to Congress a report on the 
+     policies and procedures of the Department of Defense and of 
+     the military departments relating to the separation of 
+     members of the Armed Forces based on a personality disorder.
+       (2) Elements.--The report required by paragraph (1) shall--
+       (A) include an audit of a sampling of cases to determine 
+     the validity and clinical efficacy of the policies and 
+     procedures referred to in paragraph (1) and the extent, if 
+     any, of the divergence between the terms of such policies and 
+     procedures and the implementation of such policies and 
+     procedures; and
+       (B) include a determination by the Comptroller General of 
+     whether, and to what extent, the policies and procedures 
+     referred to in paragraph (1)--
+       (i) deviate from standard clinical diagnostic practices and 
+     current clinical standards; and
+       (ii) provide adequate safeguards aimed at ensuring that 
+     members of the Armed Forces who suffer from mental health 
+     conditions (including depression, post-traumatic stress 
+     disorder, or traumatic brain injury) resulting from service 
+     in a combat zone are not prematurely or unjustly separated 
+     from the Armed Forces on the basis of a personality disorder.
+       (d) Covered Member of the Armed Forces Defined.--In this 
+     section, the term ``covered member of the Armed 
+     Forces''includes the following:
+       (1) Any member of a regular component of the Armed Forces 
+     of the Armed Forces who has served in Iraq or Afghanistan 
+     since October 2001.
+       (2) Any member of the Selected Reserve of the Ready Reserve 
+     of the Armed Forces who served on active duty in Iraq or 
+     Afghanistan since October 2001.
+
+
+                           amendment no. 3104
+
+ (Purpose: To express the sense of Congress on the Air Force strategy 
+   for the replacement of the aerial refueling tanker aircraft fleet)
+
+       At the end of subtitle D of title I, add the following:
+
+     SEC. 143. SENSE OF CONGRESS ON THE AIR FORCE STRATEGY FOR THE 
+                   REPLACEMENT OF THE AERIAL REFUELING TANKER 
+                   AIRCRAFT FLEET.
+
+       (a) Findings.--Congress makes the following findings:
+       (1) A properly executed comprehensive strategy to replace 
+     Air Force tankers will allow the United States military to 
+     continue to project combat capability anywhere in the world 
+     on short notice without relying on intermediate bases for 
+     refueling.
+       (2) With an average age of 45 years, it is estimated that 
+     it will take over 30 years to replace the KC-135 aircraft 
+     fleet with the funding currently in place.
+       (3) In addition to the KC-X program of record, which 
+     supports the tanker replacement strategy, the Air Force 
+     should immediately pursue that part of the tanker replacement 
+     strategy that would support, augment, or enhance the Air 
+     Force air refueling mission, such as Fee-for-Service support 
+     or modifications and upgrades to maintain the viability of 
+     the KC-135 aircraft force structure as the Air Force 
+     recapitalizes the tanker fleet.
+       (b) Sense of Congress.--It is the sense of Congress that--
+       (1) the timely modernization of the Air Force aerial 
+     refueling tanker fleet is a vital national security priority; 
+     and
+       (2) in furtherance of meeting this priority, the Secretary 
+     of the Air Force has initiated, and Congress approves of, a 
+     comprehensive strategy for replacing the aerial refueling 
+     tanker aircraft fleet, which includes the following elements:
+       (A) Replacement of the aging tanker aircraft fleet with 
+     newer and improved capabilities under the KC-X program of 
+     record which supports the tanker replacement strategy, 
+     through the purchase of new commercial derivative aircraft.
+       (B) Sustainment and extension of the legacy tanker aircraft 
+     fleet until replacement through depot-type modifications and 
+     upgrades of KC-135 aircraft and KC-10 aircraft.
+       (C) Augmentation of the aerial refueling capability through 
+     aerial refueling Fee-for-Service.
+
+
+                           amendment no. 2133
+
+ (Purpose: To modify the calculation of back pay for persons who were 
+ approved for promotion as members of the Navy and Marine Corps while 
+ interned as prisoners of war during World War II to take into account 
+                  changes in the Consumer Price Index)
+
+       At the end of subtitle F of title VI, add the following:
+
+     SEC. 683. MODIFICATION OF AMOUNT OF BACK PAY FOR MEMBERS OF 
+                   NAVY AND MARINE CORPS SELECTED FOR PROMOTION 
+                   WHILE INTERNED AS PRISONERS OF WAR DURING WORLD 
+                   WAR II TO TAKE INTO ACCOUNT CHANGES IN CONSUMER 
+                   PRICE INDEX.
+
+       (a) Modification.--Section 667(c) of the Floyd D. Spence 
+     National Defense Authorization Act for Fiscal Year 2001 (as 
+     enacted into law by Public Law 106-398; 114 Stat. 1654A-170) 
+     is amended by adding at the end the following new paragraph:
+       ``(3) The amount determined for a person under paragraph 
+     (1) shall be increased to reflect increases in cost of living 
+     since the basic pay referred to in paragraph (1)(B) was paid 
+     to or for that person, calculated on the
+
+[[Page S12265]]
+
+     basis of the Consumer Price Index (all items--United States 
+     city average) published monthly by the Bureau of Labor 
+     Statistics.''.
+       (b) Recalculation of Previous Payments.--In the case of any 
+     payment of back pay made to or for a person under section 667 
+     of the Floyd D. Spence National Defense Authorization Act for 
+     Fiscal Year 2001 before the date of the enactment of this 
+     Act, the Secretary of the Navy shall--
+       (1) recalculate the amount of back pay to which the person 
+     is entitled by reason of the amendment made by subsection 
+     (a); and
+       (2) if the amount of back pay, as so recalculated, exceeds 
+     the amount of back pay so paid, pay the person, or the 
+     surviving spouse of the person, an amount equal to the 
+     excess.
+
+
+                           amendment no. 3077
+
+        (Purpose: Relating to the Littoral Combat Ship program)
+
+       At the end of subtitle C of title I, add the following:
+
+     SEC. 132. LITTORAL COMBAT SHIP (LCS) PROGRAM.
+
+       (a) Findings.--Congress makes the following findings:
+       (1) The plan of the Chief of Naval Operations to 
+     recapitalize the United States Navy to at least 313 battle 
+     force ships is essential for meeting the long-term 
+     requirements of the National Military Strategy.
+       (2) Fiscal challenges to the plan to build a 313-ship fleet 
+     require that the Navy exercise discipline in determining 
+     warfighter requirements and responsibility in estimating, 
+     budgeting, and controlling costs.
+       (3) The 55-ship Littoral Combat Ship (LCS) program is 
+     central to the shipbuilding plan of the Navy. The inability 
+     of the Navy to control requirements and costs on the two lead 
+     ships of the Littoral Combat Ship program raises serious 
+     concerns regarding the capacity of the Navy to affordably 
+     build a 313-ship fleet.
+       (4) According to information provided to Congress by the 
+     Navy, the cost growth in the Littoral Combat Ship program was 
+     attributable to several factors, most notably that--
+       (A) the strategy adopted for the Littoral Combat Ship 
+     program, a so-called ``concurrent design-build'' strategy, 
+     was a high-risk strategy that did not account for that risk 
+     in the cost and schedule for the lead ships in the program;
+       (B) inadequate emphasis was placed on ``bid realism'' in 
+     the evaluation of contract proposals under the program;
+       (C) late incorporation of Naval Vessel Rules into the 
+     program caused significant design delays and cost growth;
+       (D) the Earned Value Management System of the contractor 
+     under the program did not adequately measure shipyard 
+     performance, and the Navy program organizations did not 
+     independently assess cost performance;
+       (E) the Littoral Combat Ship program organization was 
+     understaffed and lacking in the experience and qualifications 
+     required for a major defense acquisition program;
+       (F) the Littoral Combat Ship program organization was aware 
+     of the increasing costs of the Littoral Combat Ship program, 
+     but did not communicate those cost increases directly to the 
+     Assistant Secretary of the Navy in a time manner; and
+       (G) the relationship between the Naval Sea Systems Command 
+     and the program executive offices for the program was 
+     dysfunctional.
+       (b) Requirement.--In order to halt further cost growth in 
+     the Littoral Combat Ship program, costs and government 
+     liability under future contracts under the Littoral Combat 
+     Ship program shall be limited as follows:
+       (1) Limitation of costs.--The total amount obligated or 
+     expended for the procurement costs of the fifth and sixth 
+     vessels in the Littoral Combat Ship (LCS) class of vessels 
+     shall not exceed $460,000,000 per vessel.
+       (2) Procurement costs.--For purposes of paragraph (1), 
+     procurement costs shall include all costs for plans, basic 
+     construction, change orders, electronics, ordnance, 
+     contractor support, and other costs associated with 
+     completion of production drawings, ship construction, test, 
+     and delivery, including work performed post-delivery that is 
+     required to meet original contract requirements.
+       (3) Contract type.--The Navy shall employ a fixed-price 
+     type contract for construction of the fifth and following 
+     ships of the Littoral Combat Ship class of vessels.
+       (4) Limitation of government liability.--The Navy shall not 
+     enter into a contract, or modify a contract, for construction 
+     of the fifth or sixth vessel of the Littoral Combat Ship 
+     class of vessels if the limitation of the Government's cost 
+     liability, when added to the sum of other budgeted 
+     procurement costs, would exceed $460,000,000 per vessel.
+       (5) Adjustment of limitation amount.--The Secretary of the 
+     Navy may adjust the amount set forth in paragraphs (1) and 
+     (4) for either vessel referred to in such paragraph by the 
+     following:
+       (A) The amounts of increases or decreases in costs 
+     attributable to compliance with changes in Federal, State, or 
+     local laws enacted after September 30, 2007.
+       (B) The amounts of outfitting costs and costs required to 
+     complete post-delivery test and trials.
+       (c) Repeal of Superseded Authority.--Section 124 of the 
+     National Defense Authorization Act for Fiscal Year 2006 
+     (Public Law 109-163; 119 Stat. 3157) is repealed.
+
+
+                    amendment no. 2265, as modified
+
+       On page 299, line 7, strike ``fifth fiscal year'' and 
+     insert ``fourth fiscal year''.
+       On page 299, line 9, strike ``fifth fiscal year'' and 
+     insert ``fourth fiscal year''.
+
+
+                           Amendment no. 3087
+
+ (Purpose: To require reports on the utilization of tuition assistance 
+                benefits by members of the Armed Forces)
+
+       At the end of subtitle E of title VI, add the following:
+
+     SEC. 673. REPORT ON UTILIZATION OF TUITION ASSISTANCE BY 
+                   MEMBERS OF THE ARMED FORCES.
+
+       (a) Reports Required.--Not later than April 1, 2008, the 
+     Secretary of each military department shall submit to the 
+     congressional defense committees a report on the utilization 
+     of tuition assistance by members of the Armed Forces, whether 
+     in the regular components of the Armed Forces or the reserve 
+     components of the Armed Forces, under the jurisdiction of 
+     such military department during fiscal year 2007.
+       (b) Elements.--The report with respect to a military 
+     department under subsection (a) shall include the following:
+       (1) Information on the policies of such military department 
+     for fiscal year 2007 regarding utilization of, and limits on, 
+     tuition assistance by members of the Armed Forces under the 
+     jurisdiction of such military department, including an 
+     estimate of the number of members of the reserve components 
+     of the Armed Forces under the jurisdiction of such military 
+     department whose requests for tuition assistance during that 
+     fiscal year were unfunded.
+       (2) Information on the policies of such military department 
+     for fiscal year 2007 regarding funding of tuition assistance 
+     for each of the regular components of the Armed Forces and 
+     each of the reserve components of the Armed Forces under the 
+     jurisdiction of such military department.
+
+
+                           Amendment no. 2954
+
+  (Purpose: To increase the amount authorized to repair, restore, and 
+   preserve the Lafayette Escadrille Memorial in Marnes-la-Coquette, 
+                                France)
+
+       At the end of title X, add the following:
+
+     SEC. 1070. INCREASED AUTHORITY FOR REPAIR, RESTORATION, AND 
+                   PRESERVATION OF LAFAYETTE ESCADRILLE MEMORIAL, 
+                   MARNES-LA-COQUETTE, FRANCE.
+
+       Section 1065 of the National Defense Authorization Act for 
+     Fiscal Year 2002 (Public Law 107-107; 115 Stat. 1233) is 
+     amended--
+       (1) in subsection (a)(2), by striking ``$2,000,000'' and 
+     inserting ``$2,500,000''; and
+       (2) in subsection (e), by striking ``under section 
+     301(a)(4)''.
+
+
+                           Amendment no. 2049
+
+     (Purpose: To modify the effective date of applicability of he 
+      commencement or receipt of non-regular service retired pay)
+
+       On page 155, beginning on line 18, strike ``the date of the 
+     enactment of this subsection'' and insert ``September 11, 
+     2001''.
+
+
+                           amendment no. 2101
+
+  (Purpose: To enhance education benefits for certain members of the 
+                          reserve components)
+
+       At the end of subtitle E of title VI, add the following:
+
+     SEC. 673. ENHANCEMENT OF EDUCATION BENEFITS FOR CERTAIN 
+                   MEMBERS OF RESERVE COMPONENTS.
+
+       (a) Accelerated Payment of Educational Assistance for 
+     Members of the Selected Reserve.--
+       (1) In general.--Chapter 1606 of title 10, United States 
+     Code, is amended by inserting after section 16131 the 
+     following new section:
+
+     ``Sec. 16131A. Accelerated payment of educational assistance
+
+       ``(a) The educational assistance allowance payable under 
+     section 16131 of this title with respect to an eligible 
+     person described in subsection (b) may, upon the election of 
+     such eligible person, be paid on an accelerated basis in 
+     accordance with this section.
+       ``(b) An eligible person described in this subsection is a 
+     person entitled to educational assistance under this chapter 
+     who is--
+       ``(1) enrolled in an approved program of education not 
+     exceeding two years in duration and not leading to an 
+     associate, bachelors, masters, or other degree, subject to 
+     subsection (g); and
+       ``(2) charged tuition and fees for the program of education 
+     that, when divided by the number of months (and fractions 
+     thereof) in the enrollment period, exceeds the amount equal 
+     to 200 percent of the monthly rate of educational assistance 
+     allowance otherwise payable with respect to the person under 
+     section 16131 of this title.
+       ``(c)(1) The amount of the accelerated payment of 
+     educational assistance payable with respect to an eligible 
+     person making an election under subsection (a) for a program 
+     of education shall be the lesser of--
+       ``(A) the amount equal to 60 percent of the established 
+     charges for the program of education; or
+       ``(B) the aggregate amount of educational assistance 
+     allowance to which the person remains entitled under this 
+     chapter at the time of the payment.
+       ``(2)(A) In this subsection, except as provided in 
+     subparagraph (B), the term `established charges', in the case 
+     of a program of education, means the actual charges (as 
+     determined pursuant to regulations prescribed by the 
+     Secretary) for tuition and fees which similarly circumstanced 
+     individuals who are not eligible for benefits under this 
+     chapter and who are enrolled in the program of education 
+     would be required to pay. Established
+
+[[Page S12266]]
+
+     charges shall be determined on the following basis:
+       ``(i) In the case of an individual enrolled in a program of 
+     education offered on a term, quarter, or semester basis, the 
+     tuition and fees charged the individual for the term, 
+     quarter, or semester.
+       ``(ii) In the case of an individual enrolled in a program 
+     of education not offered on a term, quarter, or semester 
+     basis, the tuition and fees charged the individual for the 
+     entire program of education.
+       ``(B) In this subsection, the term `established charges' 
+     does not include any fees or payments attributable to the 
+     purchase of a vehicle.
+       ``(3) The educational institution providing the program of 
+     education for which an accelerated payment of educational 
+     assistance allowance is elected by an eligible person under 
+     subsection (a) shall certify to the Secretary of Veterans 
+     Affairs the amount of the established charges for the program 
+     of education.
+       ``(d) An accelerated payment of educational assistance 
+     allowance made with respect to an eligible person under this 
+     section for a program of education shall be made not later 
+     than the last day of the month immediately following the 
+     month in which the Secretary of Veterans Affairs receives a 
+     certification from the educational institution regarding--
+       ``(1) the person's enrollment in and pursuit of the program 
+     of education; and
+       ``(2) the amount of the established charges for the program 
+     of education.
+       ``(e)(1) Except as provided in paragraph (2), for each 
+     accelerated payment of educational assistance allowance made 
+     with respect to an eligible person under this section, the 
+     person's entitlement to educational assistance under this 
+     chapter shall be charged the number of months (and any 
+     fraction thereof) determined by dividing the amount of the 
+     accelerated payment by the full-time monthly rate of 
+     educational assistance allowance otherwise payable with 
+     respect to the person under section 16131 of this title as of 
+     the beginning date of the enrollment period for the program 
+     of education for which the accelerated payment is made.
+       ``(2) If the monthly rate of educational assistance 
+     allowance otherwise payable with respect to an eligible 
+     person under section 16131 of this title increases during the 
+     enrollment period of a program of education for which an 
+     accelerated payment of educational assistance allowance is 
+     made under this section, the charge to the person's 
+     entitlement to educational assistance under this chapter 
+     shall be determined by prorating the entitlement chargeable, 
+     in the manner provided for under paragraph (1), for the 
+     periods covered by the initial rate and increased rate, 
+     respectively, in accordance with regulations prescribed by 
+     the Secretary of Veterans Affairs.
+       ``(f) The Secretary of Veterans Affairs shall prescribe 
+     regulations to carry out this section. The regulations shall 
+     include requirements, conditions, and methods for the 
+     request, issuance, delivery, certification of receipt and 
+     use, and recovery of overpayment of an accelerated payment of 
+     educational assistance allowance under this section. The 
+     regulations may include such elements of the regulations 
+     prescribed under section 3014A of title 38 as the Secretary 
+     of Veterans Affairs considers appropriate for purposes of 
+     this section.
+       ``(g) The aggregate amount of educational assistance 
+     payable under this section in any fiscal year for enrollments 
+     covered by subsection (b)(1) may not exceed $4,000,000.''.
+       (2) Clerical amendment.--The table of sections at the 
+     beginning of chapter 1606 of such title is amended by 
+     inserting after the item relating to section 16131 the 
+     following new item:
+
+``16131A. Accelerated payment of educational assistance.''.
+
+       (3) Effective date.--The amendments made by this subsection 
+     shall take effect on October 1, 2008, and shall only apply to 
+     initial enrollments in approved programs of education after 
+     such date.
+       (b) Accelerated Payment of Educational Assistance for 
+     Reserve Component Members Supporting Contingency Operations 
+     and Other Operations.--
+       (1) In general.--Chapter 1607 of title 10, United States 
+     Code, is amended by inserting after section 16162 the 
+     following new section:
+
+     ``Sec. 16162A. Accelerated payment of educational assistance
+
+       ``(a) The educational assistance allowance payable under 
+     section 16162 of this title with respect to an eligible 
+     member described in subsection (b) may, upon the election of 
+     such eligible member, be paid on an accelerated basis in 
+     accordance with this section.
+       ``(b) An eligible member described in this subsection is a 
+     member of a reserve component entitled to educational 
+     assistance under this chapter who is--
+       ``(1) enrolled in an approved program of education not 
+     exceeding two years in duration and not leading to an 
+     associate, bachelors, masters, or other degree, subject to 
+     subsection (g); and
+       ``(2) charged tuition and fees for the program of education 
+     that, when divided by the number of months (and fractions 
+     thereof) in the enrollment period, exceeds the amount equal 
+     to 200 percent of the monthly rate of educational assistance 
+     allowance otherwise payable with respect to the member under 
+     section 16162 of this title.
+       ``(c)(1) The amount of the accelerated payment of 
+     educational assistance payable with respect to an eligible 
+     member making an election under subsection (a) for a program 
+     of education shall be the lesser of--
+       ``(A) the amount equal to 60 percent of the established 
+     charges for the program of education; or
+       ``(B) the aggregate amount of educational assistance 
+     allowance to which the member remains entitled under this 
+     chapter at the time of the payment.
+       ``(2)(A) In this subsection, except as provided in 
+     subparagraph (B), the term `established charges', in the case 
+     of a program of education, means the actual charges (as 
+     determined pursuant to regulations prescribed by the 
+     Secretary) for tuition and fees which similarly circumstanced 
+     individuals who are not eligible for benefits under this 
+     chapter and who are enrolled in the program of education 
+     would be required to pay. Established charges shall be 
+     determined on the following basis:
+       ``(i) In the case of an individual enrolled in a program of 
+     education offered on a term, quarter, or semester basis, the 
+     tuition and fees charged the individual for the term, 
+     quarter, or semester.
+       ``(ii) In the case of an individual enrolled in a program 
+     of education not offered on a term, quarter, or semester 
+     basis, the tuition and fees charged the individual for the 
+     entire program of education.
+       ``(B) In this subsection, the term `established charges' 
+     does not include any fees or payments attributable to the 
+     purchase of a vehicle.
+       ``(3) The educational institution providing the program of 
+     education for which an accelerated payment of educational 
+     assistance allowance is elected by an eligible member under 
+     subsection (a) shall certify to the Secretary of Veterans 
+     Affairs the amount of the established charges for the program 
+     of education.
+       ``(d) An accelerated payment of educational assistance 
+     allowance made with respect to an eligible member under this 
+     section for a program of education shall be made not later 
+     than the last day of the month immediately following the 
+     month in which the Secretary of Veterans Affairs receives a 
+     certification from the educational institution regarding--
+       ``(1) the member's enrollment in and pursuit of the program 
+     of education; and
+       ``(2) the amount of the established charges for the program 
+     of education.
+       ``(e)(1) Except as provided in paragraph (2), for each 
+     accelerated payment of educational assistance allowance made 
+     with respect to an eligible member under this section, the 
+     member's entitlement to educational assistance under this 
+     chapter shall be charged the number of months (and any 
+     fraction thereof) determined by dividing the amount of the 
+     accelerated payment by the full-time monthly rate of 
+     educational assistance allowance otherwise payable with 
+     respect to the member under section 16162 of this title as of 
+     the beginning date of the enrollment period for the program 
+     of education for which the accelerated payment is made.
+       ``(2) If the monthly rate of educational assistance 
+     allowance otherwise payable with respect to an eligible 
+     member under section 16162 of this title increases during the 
+     enrollment period of a program of education for which an 
+     accelerated payment of educational assistance allowance is 
+     made under this section, the charge to the member's 
+     entitlement to educational assistance under this chapter 
+     shall be determined by prorating the entitlement chargeable, 
+     in the manner provided for under paragraph (1), for the 
+     periods covered by the initial rate and increased rate, 
+     respectively, in accordance with regulations prescribed by 
+     the Secretary of Veterans Affairs.
+       ``(f) The Secretary of Veterans Affairs shall prescribe 
+     regulations to carry out this section. The regulations shall 
+     include requirements, conditions, and methods for the 
+     request, issuance, delivery, certification of receipt and 
+     use, and recovery of overpayment of an accelerated payment of 
+     educational assistance allowance under this section. The 
+     regulations may include such elements of the regulations 
+     prescribed under section 3014A of title 38 as the Secretary 
+     of Veterans Affairs considers appropriate for purposes of 
+     this section.
+       ``(g) The aggregate amount of educational assistance 
+     payable under this section in any fiscal year for enrollments 
+     covered by subsection (b)(1) may not exceed $3,000,000.''.
+       (2) Clerical amendment.--The table of sections at the 
+     beginning of chapter 1607 of such title is amended by 
+     inserting after the item relating to section 16162 the 
+     following new item:
+
+``16162A. Accelerated payment of educational assistance.''.
+
+       (3) Effective date.--The amendments made by this subsection 
+     shall take effect on October 1, 2008, and shall only apply to 
+     initial enrollments in approved programs of education after 
+     such date.
+       (c) Enhancement of Educational Assistance for Reserve 
+     Component Members Supporting Contingency Operations and Other 
+     Operations.--
+       (1) Assistance for three years cumulative service.--
+     Subsection (c)(4)(C) of section 16162 of title 10, United 
+     States Code, is amended by striking ``for two continuous 
+     years or more.'' and inserting ``for--
+       ``(i) two continuous years or more; or
+       ``(ii) an aggregate of three years or more.''.
+       (2) Contributions for increased amount of educational 
+     assistance.--Such section is further amended by adding at the 
+     end the following new subsection:
+       ``(f) Contributions for Increased Amount of Educational 
+     Assistance.--(1)(A) Any individual eligible for educational 
+     assistance
+
+[[Page S12267]]
+
+     under this section may contribute amounts for purposes of 
+     receiving an increased amount of educational assistance as 
+     provided for in paragraph (2).
+       ``(B) An individual covered by subparagraph (A) may make 
+     the contributions authorized by that subparagraph at any time 
+     while a member of a reserve component, but not more 
+     frequently than monthly.
+       ``(C) The total amount of the contributions made by an 
+     individual under subparagraph (A) may not exceed $600. Such 
+     contributions shall be made in multiples of $20.
+       ``(D) Contributions under this subsection shall be made to 
+     the Secretary concerned. Such Secretary shall deposit any 
+     amounts received as contributions under this subsection into 
+     the Treasury as miscellaneous receipts.
+       ``(2) Effective as of the first day of the enrollment 
+     period following the enrollment period in which an individual 
+     makes contributions under paragraph (1), the monthly amount 
+     of educational assistance allowance applicable to such 
+     individual under this section shall be the monthly rate 
+     otherwise provided for under subsection (c) increased by--
+       ``(A) an amount equal to $5 for each $20 contributed by 
+     such individual under paragraph (1) for an approved program 
+     of education pursued on a full-time basis; or
+       ``(B) an appropriately reduced amount based on the amount 
+     so contributed as determined under regulations that the 
+     Secretary of Veterans Affairs shall prescribe, for an 
+     approved program of education pursued on less than a full-
+     time basis.''.
+
+
+                           Amendment No. 2261
+
+(Purpose: To extend the period of entitlement to educational assistance 
+ for certain members of the Selected Reserve affected by force shaping 
+                              initiatives)
+
+       At the end of subtitle E of title VI, add the following:
+
+     SEC. 673. EXTENSION OF PERIOD OF ENTITLEMENT TO EDUCATIONAL 
+                   ASSISTANCE FOR CERTAIN MEMBERS OF THE SELECTED 
+                   RESERVE AFFECTED BY FORCE SHAPING INITIATIVES.
+
+       Section 16133(b)(1)(B) of title 10, United States Code, is 
+     amended by inserting ``or the period beginning on October 1, 
+     2007, and ending on September 30, 2014,'' after ``December 
+     31, 2001,''.
+
+
+                           Amendment No. 2074
+
+     (Purpose: To modify the time limit for use of entitlement to 
+    educational assistance for reserve component members supporting 
+              contingency operations and other operations)
+
+       At the end of subtitle E of title VI, add the following:
+
+     SEC. 673. MODIFICATION OF TIME LIMIT FOR USE OF ENTITLEMENT 
+                   TO EDUCATIONAL ASSISTANCE FOR RESERVE COMPONENT 
+                   MEMBERS SUPPORTING CONTINGENCY OPERATIONS AND 
+                   OTHER OPERATIONS.
+
+       (a) Modification.--Section 16164(a) of title 10, United 
+     States Code, is amended by striking ``this chapter while 
+     serving--'' and all that follows and inserting ``this 
+     chapter--
+       ``(1) while the member is serving--
+       ``(A) in the Selected Reserve of the Ready Reserve, in the 
+     case of a member called or ordered to active service while 
+     serving in the Selected Reserve; or
+       ``(B) in the Ready Reserve, in the case of a member ordered 
+     to active duty while serving in the Ready Reserve (other than 
+     the Selected Reserve); and
+       ``(2) in the case of a person who separates from the 
+     Selected Reserve of the Ready Reserve after completion of a 
+     period of active service described in section 16163 of this 
+     title and completion of a service contract under other than 
+     dishonorable conditions, during the 10-year period beginning 
+     on the date on which the person separates from the Selected 
+     Reserve.''.
+       (b) Conforming Amendment.--Paragraph (2) of section 
+     16165(a) of such title is amended to read as follows:
+       ``(2) when the member separates from the Ready Reserve as 
+     provided in section 16164(a)(1) of this title, or upon 
+     completion of the period provided for in section 16164(a)(2) 
+     of this title, as applicable.''.
+       (c) Effective Date.--The amendments made by this section 
+     shall take effect on October 28, 2004, as if included in the 
+     enactment of the Ronald W. Reagan National Defense 
+     Authorization Act for Fiscal Year 2005 (Public Law 108-375), 
+     to which such amendments relate.
+
+
+                           amendment no. 2000
+
+(Purpose: To repeal the requirement for reduction of survivor annuities 
+ under the Survivor Benefit Plan by veterans' dependency and indemnity 
+   compensation and to modify the date of paid-up coverage under the 
+                         Survivor Benefit Plan)
+
+       At the end of subtitle D of title VI, add the following:
+
+     SEC. 656. REPEAL OF REQUIREMENT OF REDUCTION OF SURVIVOR 
+                   BENEFIT PLAN SURVIVOR ANNUITIES BY DEPENDENCY 
+                   AND INDEMNITY COMPENSATION.
+
+       (a) Repeal.--
+       (1) In general.--Subchapter II of chapter 73 of title 10, 
+     United States Code, is amended as follows:
+       (A) In section 1450, by striking subsection (c).
+       (B) In section 1451(c)--
+       (i) by striking paragraph (2); and
+       (ii) by redesignating paragraphs (3) and (4) as paragraphs 
+     (2) and (3), respectively.
+       (2) Conforming amendments.--Such subchapter is further 
+     amended as follows:
+       (A) In section 1450--
+       (i) by striking subsection (e); and
+       (ii) by striking subsection (k).
+       (B) In section 1451(g)(1), by striking subparagraph (C).
+       (C) In section 1452--
+       (i) in subsection (f)(2), by striking ``does not apply--'' 
+     and all that follows and inserting ``does not apply in the 
+     case of a deduction made through administrative error.''; and
+       (ii) by striking subsection (g).
+       (D) In section 1455(c), by striking ``, 1450(k)(2),''.
+       (b) Prohibition on Retroactive Benefits.--No benefits may 
+     be paid to any person for any period before the effective 
+     date provided under subsection (f) by reason of the 
+     amendments made by subsection (a).
+       (c) Prohibition on Recoupment of Certain Amounts Previously 
+     Refunded to SBP Recipients.--A surviving spouse who is or has 
+     been in receipt of an annuity under the Survivor Benefit Plan 
+     under subchapter II of chapter 73 of title 10, United States 
+     Code, that is in effect before the effective date provided 
+     under subsection (f) and that is adjusted by reason of the 
+     amendments made by subsection (a) and who has received a 
+     refund of retired pay under section 1450(e) of title 10, 
+     United States Code, shall not be required to repay such 
+     refund to the United States.
+       (d) Repeal of Authority for Optional Annuity for Dependent 
+     Children.--Section 1448(d)(2) of such title is amended--
+       (1) by striking ``Dependent children.--'' and all that 
+     follows through ``In the case of a member described in 
+     paragraph (1),'' and inserting ``Dependent children.--In the 
+     case of a member described in paragraph (1),''; and
+       (2) by striking subparagraph (B).
+       (e) Restoration of Eligibility for Previously Eligible 
+     Spouses.--The Secretary of the military department concerned 
+     shall restore annuity eligibility to any eligible surviving 
+     spouse who, in consultation with the Secretary, previously 
+     elected to transfer payment of such annuity to a surviving 
+     child or children under the provisions of section 
+     1448(d)(2)(B) of title 10, United States Code, as in effect 
+     on the day before the effective date provided under 
+     subsection (f). Such eligibility shall be restored whether or 
+     not payment to such child or children subsequently was 
+     terminated due to loss of dependent status or death. For the 
+     purposes of this subsection, an eligible spouse includes a 
+     spouse who was previously eligible for payment of such 
+     annuity and is not remarried, or remarried after having 
+     attained age 55, or whose second or subsequent marriage has 
+     been terminated by death, divorce or annulment.
+       (f) Effective Date.--The sections and the amendments made 
+     by this section shall take effect on the later of--
+       (1) the first day of the first month that begins after the 
+     date of the enactment of this Act; or
+       (2) the first day of the fiscal year that begins in the 
+     calendar year in which this Act is enacted.
+
+     SEC. 657. EFFECTIVE DATE OF PAID-UP COVERAGE UNDER SURVIVOR 
+                   BENEFIT PLAN.
+
+       (a) Survivor Benefit Plan.--Section 1452(j) of title 10, 
+     United States Code, is amended by striking ``October 1, 
+     2008'' and inserting ``October 1, 2007''.
+       (b) Retired Serviceman's Family Protection Plan.--Section 
+     1436a of such title is amended by striking ``October 1, 
+     2008'' and inserting ``October 1, 2007''.
+
+
+                           AMENDMENT NO. 2161
+
+(Purpose: To repeal the annual limit on the number of Reserve Officers' 
+ Training Corps scholarships under the Army Reserve and Army National 
+                  Guard financial assistance program)
+
+       At the end of subtitle D of title V, add the following:
+
+     SEC. 555. REPEAL OF ANNUAL LIMIT ON NUMBER OF ROTC 
+                   SCHOLARSHIPS UNDER ARMY RESERVE AND ARMY 
+                   NATIONAL GUARD FINANCIAL ASSISTANCE PROGRAM.
+
+       Section 2107a(h) of title 10, United States Code, is 
+     amended by striking ``not more than 416 cadets each year 
+     under this section, to include'' and inserting ``each year 
+     under this section''.
+
+
+                           AMENDMENT NO. 2925
+
+(Purpose: To provide that veterans with service-connected disabilities 
+  rated as total by virtue of unemployability shall be covered by the 
+ termination of the phase-in of concurrent receipt of retired pay and 
+        veterans disability compensation for military retirees).
+
+       At the end of subtitle D of title VI, insert the following:
+
+     SEC. 656. INCLUSION OF VETERANS WITH SERVICE-CONNECTED 
+                   DISABILITIES RATED AS TOTAL BY REASON OF 
+                   UNEMPLOYABILITY UNDER TERMINATION OF PHASE-IN 
+                   OF CONCURRENT RECEIPT OF RETIRED PAY AND 
+                   VETERANS' DISABILITY COMPENSATION.
+
+       (a) Inclusion of Veterans.--Section 1414(a)(1) of title 10, 
+     United States Code, is amended by striking ``except that'' 
+     and all that follows and inserting ``except that payment of 
+     retired pay is subject to subsection (c) only during the 
+     period beginning on January 1, 2004, and ending on December 
+     31, 2004, in the case of the following:
+       ``(A) A qualified retiree receiving veterans' disability 
+     compensation for a disability rated as 100 percent.
+       ``(B) A qualified retiree receiving veterans' disability 
+     compensation at the rate payable
+
+[[Page S12268]]
+
+     for a 100 percent disability by reason of a determination of 
+     individual unemployability.''.
+       (b) Effective Date.--The amendment made by subsection (a) 
+     shall take effect on December 31, 2004.
+
+
+                           AMENDMENT NO. 2912
+
+ (Purpose: Relating to increases in charges and fees for medical care)
+
+       At the end of title VII, add the following:
+
+     SEC. 703. ONE-YEAR EXTENSION OF PROHIBITION ON INCREASES IN 
+                   CERTAIN HEALTH CARE COSTS FOR MEMBERS OF THE 
+                   UNIFORMED SERVICES.
+
+       (a) Charges Under Contracts for Medical Care.--Section 
+     1097(e) of title 10, United States Code, is amended by 
+     striking ``September 30, 2007'' and inserting ``September 30, 
+     2008''.
+       (b) Charges for Inpatient Care.--Section 1086(b)(3) of such 
+     title is amended by striking ``September 30, 2007'' and 
+     inserting ``September 30, 2008''.
+       (c) Premiums Under TRICARE Coverage for Certain Members in 
+     the Selected Reserve.--Section 1076d(d)(3) of such title is 
+     amended by striking ``September 30, 2007'' and inserting 
+     ``September 30, 2008''.
+       (d) Premiums Under TRICARE Coverage for Members of the 
+     Ready Reserve.--Section 1076b(e)(3) of such title is amended 
+     by striking ``September 30, 2007'' and inserting ``September 
+     30, 2008''.
+
+     SEC. 704. TEMPORARY PROHIBITION ON INCREASE IN COPAYMENTS 
+                   UNDER RETAIL PHARMACY SYSTEM OF PHARMACY 
+                   BENEFITS PROGRAM.
+
+       During the period beginning on October 1, 2007, and ending 
+     on September 30, 2008, the cost sharing requirements 
+     established under paragraph (6) of section 1074g(a) of title 
+     10, United States Code, for pharmaceutical agents available 
+     through retail pharmacies covered by paragraph (2)(E)(ii) of 
+     such section may not exceed amounts as follows:
+       (1) In the case of generic agents, $3.
+       (2) In the case of formulary agents, $9.
+       (3) In the case of nonformulary agents, $22.
+
+     SEC. 705. SENSE OF CONGRESS ON FEES AND ADJUSTMENTS UNDER THE 
+                   TRICARE PROGRAM.
+
+       It is the sense of Congress that--
+       (1) career members of the uniformed services and their 
+     families endure unique and extraordinary demands, and make 
+     extraordinary sacrifices, over the course of 20-year to 30-
+     year careers in protecting freedom for all Americans;
+       (2) these demands and sacrifices are such that few 
+     Americans are willing to accept them for a multi-decade 
+     career;
+       (3) a primary benefit of enduring the extraordinary 
+     sacrifices inherent in a military career is a system of 
+     exceptional retirement benefits that a grateful Nation 
+     provides for those who choose to subordinate much of their 
+     personal life to the national interest for so many years;
+       (4) proposals to compare cash fees paid by retired military 
+     members and their families to fees paid by civilians fail to 
+     recognize adequately that military members prepay the 
+     equivalent of very large advance premiums for health care in 
+     retirement through their extended service and sacrifice, in 
+     addition to cash fees, deductibles, and copayments;
+       (5) the Department of Defense and the Nation have a 
+     committed obligation to provide health care benefits to 
+     active duty, National Guard, Reserve and retired members of 
+     the uniformed services and their families and survivors that 
+     considerably exceeds the obligation of corporate employers to 
+     provide health care benefits to their employees; and
+       (6) the Department of Defense has options to constrain the 
+     growth of health care spending in ways that do not 
+     disadvantage retired members of the uniformed services, and 
+     should pursue any and all such options as a first priority.
+
+
+                           Amendment No. 2066
+
+    (Purpose: To provide for the retention of reimbursement for the 
+           provision of reciprocal fire protection services)
+
+       At the end of title X, add the following:
+
+     SEC. 1070. RETENTION OF REIMBURSEMENT FOR PROVISION OF 
+                   RECIPROCAL FIRE PROTECTION SERVICES.
+
+       Section 5 of the Act of May 27, 1955 (chapter 105; 69 Stat. 
+     67; 42 U.S.C. 1856d) is amended--
+       (1) by striking ``Funds'' and inserting ``(a) Funds''; and
+       (2) by adding at the end the following new subsection:
+       ``(b) Notwithstanding the provisions of subsection (a), all 
+     sums received for any Department of Defense activity for fire 
+     protection rendered pursuant to this Act shall be credited to 
+     the appropriation fund or account from which the expenses 
+     were paid. Amounts so credited shall be merged with funds in 
+     such appropriation fund or account and shall be available for 
+     the same purposes and subject to the same limitations as the 
+     funds with which the funds are merged.''.
+
+
+                    Amendment No. 2984, as modified
+
+       At the appropriate place, insert the following:
+
+     SEC. __. NATIONAL CENTER FOR HUMAN PERFORMANCE.
+
+       The scientific institute to perform research and education 
+     in medicine and related sciences to enhance human performance 
+     that is located at the Texas Medical Center shall hereafter 
+     be known as the ``National Center for Human Performance''. 
+     Nothing in this section shall be construed to convey on such 
+     institute status as a center of excellence under the Public 
+     Health Service Act or as a Center of the National Institutes 
+     of Health under Title IV of such act.
+
+
+                    Amendment No. 3075, as modified
+
+       At the end of subtitle C of title XV, add the following:
+
+     SEC. 1535. IMPROVISED EXPLOSIVE DEVICE PROTECTION FOR 
+                   MILITARY VEHICLES.
+
+       (a) Procurement of Additional Mine Resistant Ambush 
+     Protected Vehicles.--
+       (1) Additional amount for army other procurement.--The 
+     amount authorized to be appropriated by section 1501(5) for 
+     other procurement for the Army is hereby increased by 
+     $23,600,000,000.
+       (2) Availability for procurement of additional mrap 
+     vehicles.--Of the amount authorized to be appropriated by 
+     section 1501(5) for other procurement for the Army, as 
+     increased by paragraph (1), $23,600,000,000 may be available 
+     for the procurement of 15,200 Mine Resistant Ambush Protected 
+     (MRAP) Vehicles.
+
+
+                    AMENDMENT NO. 3089, as modified
+
+       At the end of title VII, add the following:
+
+     SEC. 703. CONTINUATION OF TRANSITIONAL HEALTH BENEFITS FOR 
+                   MEMBERS OF THE ARMED FORCES PENDING RESOLUTION 
+                   OF SERVICE-RELATED MEDICAL CONDITIONS.
+
+       Section 1145(a) of title 10, United States Code, is 
+     amended--
+       (1) in paragraph (3), by striking ``Transitional health 
+     care'' and inserting ``Except as provided in paragraph (6), 
+     transitional health care''; and
+       (2) by adding at the end the following new paragraph:
+       ``(6) A member who has a medical condition relating to 
+     service on active duty that warrants further medical care 
+     shall be entitled to receive medical and dental care for such 
+     medical condition as if the member were a member of the armed 
+     forces on active duty until such medical condition is 
+     resolved.
+       ``(C) The Secretary concerned shall ensure that the Defense 
+     Enrollment and Eligibility Reporting System (DEERS) is 
+     continually updated in order to reflect the continuing 
+     entitlement of members covered by subparagraph (B) to the 
+     medical and dental care referred to in that subparagraph.''.
+
+
+                           AMENDMENT NO. 3090
+
+ (Purpose: To enhance the computation of years of service for purposes 
+                of retired pay for non-regular service)
+
+       At the end of subtitle D of title VI, add the following:
+
+     SEC. 656. COMPUTATION OF YEARS OF SERVICE FOR PURPOSES OF 
+                   RETIRED PAY FOR NON-REGULAR SERVICE.
+
+       Section 12733(3) of title 10, United States Code, is 
+     amended--
+       (1) in subparagraph (B), by striking ``and'' at the end;
+       (2) in subparagraph (C), by striking the period and 
+     inserting ``before the year of service that includes October 
+     30, 2007; and''; and
+       (3) by adding at the end the following new subparagraph:
+       ``(D) 130 days in the year of service that includes October 
+     30, 2007, and any subsequent year of service.''.
+
+
+                    amendment no. 2993, as modified
+
+       At the end of subtitle C of title XV, add the following:
+
+     SEC. 1535. SENSE OF CONGRESS ON THE CAPTURE OF OSAMA BIN 
+                   LADEN AND THE AL QAEDA LEADERSHIP.
+
+       It is the Sense of Congress that it should be the policy of 
+     the United States Government that the foremost objective of 
+     United States counterterrorist operations is to protect 
+     United States persons and property from terrorist attacks by 
+     capturing or killing Osama bin Laden, Ayman al-Zawahiri, and 
+     other leaders of al Qaeda and destroying the al Qaeda 
+     network.
+
+
+                           AMENDMENT NO. 2872
+
+                    Subtitle D--Iraq Refugee Crisis
+
+     SEC. 1541. SHORT TITLE.
+
+       This subtitle may be cited as the ``Refugee Crisis in Iraq 
+     Act''.
+
+     SEC. 1542. PROCESSING MECHANISMS.
+
+       (a) In General.--The Secretary of State, in consultation 
+     with the Secretary of Homeland Security, shall establish or 
+     use existing refugee processing mechanisms in Iraq and in 
+     countries, where appropriate, in the region in which--
+       (1) aliens described in section 1543 may apply and 
+     interview for admission to the United States as refugees; and
+       (2) aliens described in section 1544(b) may apply and 
+     interview for admission to United States as special 
+     immigrants.
+       (b) Suspension.--The Secretary of State, in consultation 
+     with the Secretary of Homeland of Security, may suspend in-
+     country processing for a period not to exceed 90 days. Such 
+     suspension may be extended by the Secretary of State upon 
+     notification to the Committee on the Judiciary of the Senate, 
+     the Committee on Foreign Relations of the Senate, the 
+     Committee on the Judiciary of the House of Representatives, 
+     and the Committee on Foreign Affairs of the House of 
+     Representatives. The Secretary of State shall submit a report 
+     to the Committees of jurisdiction outlining the basis of such 
+     suspension and any extensions.
+       (c) Report.--
+       (1) In general.--Not later than 90 days after the date of 
+     the enactment of this Act, the Secretary of State, in 
+     consultation with the Secretary of Homeland Security, shall 
+     submit a report that contains the plans and assessment 
+     described in paragraph (2) to--
+
+[[Page S12269]]
+
+       (A) the Committee on the Judiciary of the Senate;
+       (B) the Committee on Foreign Relations of the Senate;
+       (C) the Committee on the Judiciary of the House of 
+     Representatives; and
+       (D) the Committee on Foreign Affairs of the House of 
+     Representatives.
+       (2) Contents.--The report submitted under paragraph (I) 
+     shall--
+       (A) describe the Secretary's plans to establish the 
+     processing mechanisms described in subsection (a);
+       (B) contain an assessment of in-country processing that 
+     makes use of videoconferencing; and
+       (C) describe the Secretary of State's diplomatic efforts to 
+     improve issuance of entry and exit visas or permits to United 
+     States personnel and refugees.
+
+     SEC. 1543. UNITED STATES REFUGEE PROGRAM PROCESSING 
+                   PRIORITIES.
+
+       (a) In General.--Refugees of special humanitarian concern 
+     eligible for Priority 2 processing under the refugee 
+     resettlement priority system who may apply directly to the 
+     United States Admission Program shall include--
+       (1) Iraqis who were or are employed by, or worked for the 
+     United States Government, in Iraq;
+       (2) Iraqis who establish to the satisfaction of the 
+     Secretary of State in coordination with the Secretary of 
+     Homeland Security that they are or were employed in Iraq by--
+       (A) a media or nongovernmental organization headquartered 
+     in the United States; or
+       (B) an organization or entity closely associated with the 
+     United States mission in Iraq that has received United States 
+     Government funding through an official and documented 
+     contract, award, grant, or cooperative agreement; and
+       (3) spouses, children, and parents who are not accompanying 
+     or following to join and sons, daughters, and siblings of 
+     aliens described in paragraph (1) or section 1544(b)(1); and
+       (4) Iraqis who are members of a religious or minority 
+     community, have been identified by the Department of State 
+     with the concurrence of the Department of Homeland Security 
+     as a persecuted group, and have close family members (as 
+     described in section 201 (b)(2)(A)(i) or 203(a) of the 
+     Immigration and Nationality Act (8 U.S.C. 1151(b)(2)(A)(i) 
+     and 1153(a))) in the United States.
+       (b) Identification of Other Persecuted Groups.-- The 
+     Secretary of State and the Secretary of Homeland Security are 
+     authorized to identify other Priority 2 groups in Iraq.
+       (c) Ineligible Organizations and Entities.--Organizations 
+     and entities described in section 1543 shall not include any 
+     that appear on the Department of the Treasury's list of 
+     Specially Designated Nationals or any entity specifically 
+     excluded by the Secretary of Homeland Security, after 
+     consultation with the Department of State and relevant 
+     intelligence agencies.
+       (d) Aliens under this section who qualify for Priority 2 
+     processing must meet the requirements of section 207 of the 
+     Immigration and Nationality Act.
+
+     SEC. 1544. SPECIAL IMMIGRANT STATUS FOR CERTAIN IRAQIS.
+
+       (a) In General.--Subject to subsection (c)(1) and 
+     notwithstanding any other provision of law, for purposes of 
+     the Immigration and Nationality Act (8 U.S.C. 1101 et seq.), 
+     the Secretary of Homeland Security may provide an alien 
+     described in subsection (b) with the status of a special 
+     immigrant under section 101(a)(27) of such Act (8 U.S.C. 
+     1101(a)(27)'', if the alien--
+       (1) or an agent acting on behalf of the alien, submits to 
+     the Secretary a petition under section 204 of such Act (8 
+     U.S.C. 1154) for classification under section 203(b)(4) of 
+     such Act (8 U.S.C. 1153(b)(4));
+       (2) is otherwise eligible to receive an immigrant visa;
+       (3) is otherwise admissible to the United States for 
+     permanent residence (excluding the grounds for 
+     inadmissibility specified in section 212(a)(4) of such Act (8 
+     U.S.C. 1182(a)(4)); and
+       (4) cleared a background check and appropriate screening, 
+     as determined by the Secretary of Homeland Security.
+       (b) Aliens Described.--
+       (1) Principal aliens.--An alien is described in this 
+     subsection if the alien--
+       (A) is a national of Iraq;
+       (B) was or is employed by, or worked for the United States 
+     Government in Iraq, in or after 2003, for a period of not 
+     less than 1 year;
+       (C) provided faithful and valuable service to the United 
+     States Government, which is documented in a positive 
+     recommendation or evaluation from the employee's senior 
+     supervisor. Such evaluation or recommendation must be 
+     accompanied by approval from the Chief of Mission or his 
+     designee who shall conduct a risk assessment of the alien and 
+     an independent review of records maintained by the hiring 
+     organization or entity to confirm employment and faithful and 
+     valuable service prior to approval of a petition under this 
+     section; and
+       (D) has experienced or is experiencing an ongoing serious 
+     threat as a consequence of their employment by the United 
+     States Government.
+       (2) Spouses and children.--An alien is described in this 
+     subsection if the alien is--
+       (A) the spouse or child of a principal alien described in 
+     paragraph (l); and
+       (B) is accompanying or following to join the principal 
+     alien in the United States.
+       (3) Treatment of surviving spouse or child--An alien shall 
+     also fall within subsection (b) of section 1544 of this Act, 
+     if--
+       (1) the alien was the spouse or child of a principal alien 
+     who had an approved petition with the Secretary of Homeland 
+     Security or the Secretary of State pursuant to section 1544 
+     of this Act or section 1059 of the National Defense 
+     Authorization Act for the Fiscal Year 2006, Public Law 109-
+     163, as amended by Public Law 110-36, which included the 
+     alien as an accompanying spouse or child; and
+       (2) due to the death of the petitioning alien, such 
+     petition was revoked or terminated (or otherwise rendered 
+     null) after its approval.
+       (c) Numerical Limitations.--
+       (1) In general.--The total number of principal aliens who 
+     may be provided special immigrant status under this section 
+     may not exceed 5,000 per year for each of the 5 fiscal years 
+     beginning after the date of the enactment of this Act. The 
+     authority provided by subsection (a) of this section shall 
+     expire on September 30 of the fiscal year that is the fifth 
+     fiscal year beginning after the date of enactment of this 
+     Act.
+       (2) Exclusion from numerical limitations.--Aliens provided 
+     special immigrant status under this section shall not be 
+     counted against any numerical limitation under sections 
+     20l(d), 202(a), or 203 (b)(4) of the Immigration and 
+     Nationality Act (8 U.S.C. l15l(d), 1 152(a), and 1 1 
+     53(b)(4)).
+       (3) Carry forward.--If the numerical limitation under 
+     paragraph (1) is not reached during a given fiscal year, the 
+     numerical limitation under paragraph (1) for the following 
+     fiscal year shall be increased by a number equal to the 
+     difference between--
+       (A) the number of visas authorized under paragraph (1) for 
+     the given fiscal year; and
+       (B) the number of principal aliens provided special 
+     immigrant status under this section during the given fiscal 
+     year.
+       (d) Visa and Passport Issuance and Fees.--Neither the 
+     Secretary of State nor the Secretary of Homeland Security may 
+     charge an alien described in subsection (b) any fee in 
+     connection with an application for, or issuance of, a special 
+     immigrant visa. The Secretary of State shall make a 
+     reasonable effort to ensure that aliens described in this 
+     section who are issued special immigrant visas are provided 
+     with the appropriate series Iraqi passport necessary to enter 
+     the United States.
+       (e) Protection of Aliens.--The Secretary of State, in 
+     consultation with other relevant Federal agencies, shall make 
+     a reasonable effort to provide an alien described in this 
+     section who is applying for a special immigrant visa with 
+     protection or the immediate removal from Iraq, if possible, 
+     of such alien if the Secretary determines after consultation 
+     that such alien is in imminent danger.
+       (f) Definitions.--The terms defined in this Act shall have 
+     the same meaning as those terms in the Immigration and 
+     Nationality Act.
+       (g) Savings Provision.--Nothing in this section may be 
+     construed to affect the authority of the Secretary of 
+     Homeland Security under section 1059 of the National Defense 
+     Authorization Act for Fiscal Year 2006 (Public Law 109-163).
+
+     SEC. 1545. MINISTER COUNSELORS FOR IRAQI REFUGEES AND 
+                   INTERNALLY DISPLACED PERSONS.
+
+       (a) In General.--The Secretary of State shall establish in 
+     the embassy of the United States located in Baghdad, Iraq, a 
+     Minister Counselor for Iraqi Refugees and Internally 
+     Displaced Persons (referred to in this section as the 
+     ``Minister Counselor for Iraq'').
+       (b) Duties.--The Minister Counselor for Iraq shall be 
+     responsible for the oversight of processing for resettlement 
+     of persons considered Priority 2 refugees of special 
+     humanitarian concern, special immigrant visa programs in 
+     Iraq, and the development and implementation of other 
+     appropriate policies and programs concerning Iraqi refugees 
+     and internally displaced persons. The Minister Counselor for 
+     Iraq shall have the authority to refer persons to the United 
+     States refugee resettlement program.
+       (c) Designation of Minister Counselors.--The Secretary of 
+     State shall designate in the embassies of the United States 
+     located in Cairo, Egypt; Amman, Jordan; Damascus, Syria; and 
+     Beirut, Lebanon a Minister Counselor to oversee resettlement 
+     to the United States of persons considered Priority 2 
+     refugees of special humanitarian concern in those countries 
+     to ensure their applications to the United States refugee 
+     resettlement program are processed in an orderly manner and 
+     without delay.
+
+     SEC. 1546. COUNTRIES WITH SIGNIFICANT POPULATIONS OF 
+                   DISPLACED IRAQIS.
+
+       (a) In General.--With respect to each country with a 
+     significant population of displaced Iraqis, including Iraq, 
+     Jordan, Egypt, Syria, Turkey, and Lebanon, the Secretary of 
+     State shall--
+       (1) as appropriate, consult with other countries regarding 
+     resettlement of the most vulnerable members of such refugee 
+     populations; and
+       (2) as appropriate, except where otherwise prohibited by 
+     the laws of the United States, develop mechanisms in and 
+     provide assistance to countries with a significant population 
+     of displaced Iraqis to ensure the well-being and safety of 
+     such populations in their host environments.
+       (b) Numerical Limitations.--In determining the number of 
+     Iraqi refugees who should be resettled in the United States 
+     under sections (a) and (b) of section 207 of the Immigration 
+     and Nationality Act (8 U.S.C. 1157), the President shall 
+     consult nongovernmental organizations that have a
+
+[[Page S12270]]
+
+     presence in Iraq or experience in assessing the problems 
+     faced by Iraqi refugees.
+       (c) Eligibility for Admission as Refugee.--No alien shall 
+     be denied the opportunity to apply for admission under this 
+     section solely because such alien qualifies as an immediate 
+     relative or is eligible for classification as a special 
+     immigrant.
+
+     SEC. 1547. DENIAL OR TERMINATION OF ASYLUM.
+
+       (a) Motion to Reopen.--Section 208(b) of the Immigration 
+     and Nationality Act is amended by adding at the end the 
+     following:
+       ``(4) Changed country conditions.--An applicant for asylum 
+     or withholding of removal, whose claim was denied by an 
+     immigration judge solely on the basis of changed country 
+     conditions on or after March 1, 2003, may file a motion to 
+     reopen his or her claim not later than 6 months after the 
+     date of the enactment of the Refugee Crisis in Iraq Act if 
+     the applicant--
+       ``(A) is a national of Iraq; and
+       ``(B) remained in the United States on such date of 
+     enactment.''.
+       (b) Procedure.--A motion filed under this section shall be 
+     made in accordance with section 240(c)(7)(A) and (B) of the 
+     Immigration and Nationality Act.
+
+     SEC. 1548. REPORTS.
+
+       (a) Secretary of Homeland Security.--
+       (1) In general.--Not later than 90 days after the date of 
+     the enactment of this Act, the Secretary of Homeland Security 
+     shall submit a report containing plans to expedite the 
+     processing of Iraqi refugees for resettlement to--
+       (A) the Committee on the Judiciary of the Senate;
+       (B) the Committee on Foreign Relations of the Senate;
+       (C) the Committee on the Judiciary of the House of 
+     Representatives; and
+       (D) the Committee on Foreign Affairs of the House of 
+     Representatives.
+       (2) Contents.--The report submitted under paragraph (1) 
+     shall--
+       (A) detail the plans of the Secretary for expediting the 
+     processing of Iraqi refugees for resettlement including 
+     through temporary expansion of the Refugee Corps of United 
+     States Citizenship and Immigration Services;
+       (B) describe the plans of the Secretary for increasing the 
+     number of Department of Homeland Security personnel devoted 
+     to refugee processing in the noted regions;
+       (C) describe the plans of the Secretary for enhancing 
+     existing systems for conducting background and security 
+     checks of persons applying for Special Immigrant Visas and of 
+     persons considered Priority 2 refugees of special 
+     humanitarian concern under this subtitle, which enhancements 
+     shall support immigration security and provide for the 
+     orderly processing of such applications without delay; and
+       (D) detail the projections of the Secretary, per country 
+     and per month, for the number of refugee interviews that will 
+     be conducted in fiscal year 2008 and fiscal year 2009.
+       (b) President.--Not later than 90 days after the date of 
+     the enactment of this Act, and annually thereafter, the 
+     President shall submit to Congress an unclassified report, 
+     with a classified annex if necessary, which includes--
+       (1) an assessment of the financial, security, and personnel 
+     considerations and resources necessary to carry out the 
+     provisions of this subtitle;
+       (2) the number of aliens described in section 1543(1);
+       (3) the number of such aliens who have applied for special 
+     immigrant visas;
+       (4) the date of such applications; and
+       (5) in the case of applications pending for more than 6 
+     months, the reasons that visas have not been expeditiously 
+     processed.
+       (c) Report on Iraqi Nationals Employed by the United States 
+     Government and Federal Contractors in Iraq.--
+       (1) In general.--Not later than 90 days after the date of 
+     the enactment of this Act, the Secretary of Defense, the 
+     Secretary of State, the Administrator of the United States 
+     Agency for International Development, the Secretary of the 
+     Treasury, and the Secretary of Homeland Security shall--
+       (A) review internal records and databases of their 
+     respective agencies for information that can be used to 
+     verify employment of Iraqi nationals by the United States 
+     Government; and
+       (B) solicit from each prime contractor or grantee that has 
+     performed work in Iraq since March 2003 under a contract, 
+     grant, or cooperative agreement with their respective 
+     agencies that is valued in excess of $25,000 information that 
+     can be used to verify the employment of Iraqi nationals by 
+     such contractor or grantee.
+       (2) Information required.--To the extent data is available, 
+     the information referred to in paragraph (1) shall include 
+     the name and dates of employment of, biometric data for, and 
+     other data that can be used to verify the employment of, each 
+     Iraqi national that has performed work in Iraq since March 
+     2003 under a contract, grant, or cooperative agreement with 
+     an executive agency.
+       (3) Executive agency defined.--In this subsection, the term 
+     ``executive agency'' has the meaning given the term in 
+     section 4(1) of the Office of Federal Procurement Policy Act 
+     (41 U.S.C. 403(1)).
+       (d) Report on Establishment of Database.--Not later than 90 
+     days after the date of the enactment of this Act, the 
+     Secretary of Defense, in consultation with the Secretary of 
+     State, the Administrator of the United States Agency for 
+     International Development, the Secretary of the Treasury, and 
+     the Secretary of Homeland Security, shall submit to Congress 
+     a report examining the options for establishing a unified, 
+     classified database of information related to contracts, 
+     grants, or cooperative agreements entered into by executive 
+     agencies for the performance of work in Iraq since March 
+     2003, including the information described and collected under 
+     subsection (c), to be used by relevant Federal departments 
+     and agencies to adjudicate refugee, asylum, special immigrant 
+     visa, and other immigration claims and applications.
+       (e) Noncompliance Report.--Not later than 180 days after 
+     the date of the enactment of this Act, the President shall 
+     submit a report to Congress that describes--
+       (1) the inability or unwillingness of any contractors or 
+     grantees to provide the information requested under 
+     subsection (c); and
+       (2) the reasons for failing to provide such information.
+
+     SEC. 1549. AUTHORIZATION OF APPROPRIATIONS.
+
+       There are authorized to be appropriated such sums as may be 
+     necessary to carry out this subtitle.
+
+
+                    Amendment no. 2214, as modified
+
+       At the end of subtitle D of title I, add the following:
+
+     SEC. 143. SENSE OF CONGRESS ON RAPID FIELDING OF ASSOCIATE 
+                   INTERMODAL PLATFORM SYSTEM AND OTHER INNOVATIVE 
+                   LOGISTICS SYSTEMS.
+
+       (a) Findings.--Congress makes the following findings:
+       (1) Use of the Associate Intermodal Platform (AIP) pallet 
+     system, developed two years ago by the United States 
+     Transportation Command, could save the United States as much 
+     as $1,300,000 for every 1,000 pallets deployed.
+       (2) The benefits of the usage of the Associate Intermodal 
+     Platform pallet system include the following:
+       (A) The Associate Intermodal Platform pallet system can be 
+     used to transport cargo alone within current International 
+     Standard of Organization containers and thereby provide 
+     further savings in costs of transportation of cargo.
+       (B) The Associate Intermodal Platform pallet system has 
+     successfully passed rigorous testing by the United States 
+     Transportation Command at various military installations in 
+     the United States, at a Navy testing lab, and in the field in 
+     Iraq, Kuwait, and Antarctica.
+       (C) By all accounts the Associate Intermodal Platform 
+     pallet system has performed well beyond expectations and is 
+     ready for immediate production and deployment.
+       (b) Sense of Congress.--It is the sense of Congress that 
+     the Department of Defense should--
+       (1) rapidly field innovative logistic systems such as the 
+     Associated Intermodal Platform pallet system; and
+       (2) seek to fully procure innovative logistic systems such 
+     as the Associate Intermodal Platform pallet system in future 
+     budgets.
+
+
+                    Amendment no. 2942, as modified
+
+       At the end of subtitle D of title X, add the following:
+
+     SEC. 1044. REPORT AND MASTER INFRASTRUCTURE RECAPITALIZATION 
+                   PLAN REGARDING CHEYENNE MOUNTAIN AIR STATION, 
+                   COLORADO.
+
+       (a) Report on Relocation of North American Aerospace 
+     Defense Command Center.--
+       (1) In general.--Not later than 90 days after the date of 
+     the enactment of this Act, the Secretary of Defense shall 
+     submit to Congress a report on the relocation of the North 
+     American Aerospace Defense command center and related 
+     functions from Cheyenne Mountain Air Station, Colorado, to 
+     Peterson Air Force Base, Colorado.
+       (2) Content.--The report required under paragraph (1) shall 
+     include--
+       (A) an analysis comparing the total costs associated with 
+     the relocation, including costs determined as part of ongoing 
+     security-related studies of the relocation, to anticipated 
+     operational benefits from the relocation; and
+       (B) a detailed explanation of those backup functions that 
+     will remain located at Cheyenne Mountain Air Station, and how 
+     those functions planned to be transferred out of Cheyenne 
+     Mountain Air Station, including the Space Operations Center, 
+     will maintain operational connectivity with their related 
+     commands and relevant communications centers.
+       (b) Master Infrastructure Recapitalization Plan.--
+       (1) In general.--Not later than March 16, 2008, the 
+     Secretary of the Air Force shall submit to Congress a master 
+     infrastructure recapitalization plan for Cheyenne Mountain 
+     Air Station.
+       (2) Content.--The plan required under paragraph (1) shall 
+     include--
+       (A) A description of the projects that are needed to 
+     improve the infrastructure required for supporting missions 
+     associated with Cheyenne Mountain Air Station; and
+       (B) a funding plan explaining the expected timetable for 
+     the Air Force to support such projects.
+
+
+                             Cloture Motion
+
+  The PRESIDING OFFICER. Under the previous order, pursuant to rule 
+XXII, the Chair lays before the Senate the pending cloture motion, 
+which the clerk will state.
+  The legislative clerk read as follows:
+
+                             Cloture Motion
+
+       We, the undersigned Senators, in accordance with the 
+     provisions of rule XXII of the
+
+[[Page S12271]]
+
+     Standing Rules of the Senate, do hereby move to bring to a 
+     close debate on the pending substitute amendment to Calendar 
+     No. 189, H.R. 1585, National Defense Authorization Act for 
+     Fiscal Year 2008.
+         Mitch McConnell, C.S. Bond, David Vitter, Lisa Murkowski, 
+           R.F. Bennett, Tom Coburn, Lindsey Graham, Jon Kyl, 
+           Wayne Allard, John Thune, Norm Coleman, Richard Burr, 
+           Ted Stevens, Jeff Sessions, J.M. Inhofe, Thad Cochran, 
+           Michael B. Enzi.
+
+  The PRESIDING OFFICER. By unanimous consent, the mandatory quorum 
+call is waived.
+  The question is, Is it the sense of the Senate that debate on 
+Amendment No. 2011, offered by the Senator from Michigan, Mr. Levin, in 
+the nature of a substitute to H.R. 1585, the National Defense 
+Authorization Act for Fiscal Year 2008, shall be brought to a close?
+  Mr. LEVIN. Mr. President, just 30 seconds. I hope the Senate will 
+vote for cloture. Let me give the rundown of amendments we have now 
+adopted.
+  One hundred ninety-one amendments have now been adopted through 
+either clearance in voice vote or rollcall. We have a lot of amendments 
+left. We will be here tomorrow, and we will be here on Monday. If 
+cloture is invoked, we will work the best we can to see if we can get 
+some germane amendments adopted, even those that we agree by unanimous 
+consent may not be germane but should be adopted. I hope cloture is 
+invoked. We will be here tomorrow and Monday to work on amendments.
+  Mr. FEINGOLD. Mr. President, I support many of the priorities in this 
+bill, and I do not think the Senate should extend debate on it 
+indefinitely. But, if we invoke cloture on the bill, as it currently 
+stands, we will be ensuring that it contains no language to bring our 
+involvement in the Iraq war to a close. That would be a mistake. The 
+war in Iraq is taking a tremendous toll on our servicemembers and our 
+military preparedness--not to mention our national security and our 
+pocketbook. It is irresponsible for Congress to pass legislation 
+authorizing the activities of the Department of Defense that fails to 
+bring our troops home and this war to an end.
+  The PRESIDING OFFICER. The yeas and nays are mandatory under the 
+rule.
+  The clerk will call the roll.
+  The bill clerk called the roll.
+  Mr. DURBIN. I announce that the Senator from Delaware (Mr. Biden), 
+the Senator from New York (Mrs. Clinton), and the Senator from Illinois 
+(Mr. Obama) are necessarily absent.
+  Mr. LOTT. The following Senators are necessarily absent: the Senator 
+from Kansas (Mr. Brownback) and the Senator from Arizona (Mr. McCain).
+  The PRESIDING OFFICER. Are there any other Senators in the Chamber 
+desiring to vote?
+  The yeas and nays resulted--yeas 89, nays 6, as follows:
+
+                      [Rollcall Vote No. 357 Leg.]
+
+                                YEAS--89
+
+     Akaka
+     Alexander
+     Allard
+     Barrasso
+     Baucus
+     Bayh
+     Bennett
+     Bingaman
+     Bond
+     Boxer
+     Brown
+     Bunning
+     Burr
+     Byrd
+     Cantwell
+     Cardin
+     Carper
+     Casey
+     Chambliss
+     Coburn
+     Cochran
+     Coleman
+     Conrad
+     Corker
+     Cornyn
+     Craig
+     Crapo
+     DeMint
+     Dole
+     Domenici
+     Dorgan
+     Durbin
+     Ensign
+     Enzi
+     Feinstein
+     Graham
+     Grassley
+     Gregg
+     Hagel
+     Harkin
+     Hatch
+     Hutchison
+     Inhofe
+     Inouye
+     Isakson
+     Johnson
+     Kennedy
+     Kerry
+     Klobuchar
+     Kohl
+     Kyl
+     Landrieu
+     Lautenberg
+     Levin
+     Lieberman
+     Lincoln
+     Lott
+     Lugar
+     Martinez
+     McCaskill
+     McConnell
+     Menendez
+     Mikulski
+     Murkowski
+     Murray
+     Nelson (FL)
+     Nelson (NE)
+     Pryor
+     Reed
+     Reid
+     Roberts
+     Rockefeller
+     Salazar
+     Schumer
+     Sessions
+     Shelby
+     Smith
+     Snowe
+     Specter
+     Stabenow
+     Stevens
+     Sununu
+     Tester
+     Thune
+     Vitter
+     Warner
+     Webb
+     Whitehouse
+     Wyden
+
+                                NAYS--6
+
+     Collins
+     Dodd
+     Feingold
+     Leahy
+     Sanders
+     Voinovich
+
+                             NOT VOTING--5
+
+     Biden
+     Brownback
+     Clinton
+     McCain
+     Obama
+  The PRESIDING OFFICER. On this vote, the yeas are 89, the nays are 6. 
+Three-fifths of the Senators duly chosen and sworn having voted in the 
+affirmative, the motion is agreed to.
+  The Senator from Virginia.
+  Mr. WARNER. Mr. President, we are now in the postcloture status.
+  The PRESIDING OFFICER. The majority leader.
+
+
+                           Amendment No. 3058
+
+      (Purpose: To provide for certain public-private competition 
+                             requirements)
+
+  Mr. REID. Mr. President, on behalf of Senators Kennedy and Mikulski, 
+I call up amendment No. 3058.
+  The PRESIDING OFFICER. The clerk will report.
+  The bill clerk read as follows:
+
+       The Senator from Nevada [Mr. Reid}, for Mr. Kennedy and Ms. 
+     Mikulski, proposes an amendment numbered 3058.
+
+  Mr. REID. I ask unanimous consent that reading of the amendment be 
+dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  (The amendment is printed in the Record of Wednesday, September 26, 
+2007 under ``Text of Amendments.'')
+
+
+                Amendment No. 3109 to Amendment No. 3058
+
+  Mr. REID. Mr. President, I call up amendment No. 3109.
+  The PRESIDING OFFICER. The clerk will report.
+  The bill clerk read as follows:
+
+       The Senator from Nevada [Mr. Reid], for Mr. Kennedy, 
+     proposes an amendment numbered 3109 to amendment No. 3058.
+
+  Mr. REID. I ask unanimous consent that reading of the amendment be 
+dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+       In the amendment strike all after the first word and insert 
+     the following:
+
+     SEC. 358. MODIFICATION TO PUBLIC-PRIVATE COMPETITION 
+                   REQUIREMENTS BEFORE CONVERSION TO CONTRACTOR 
+                   PERFORMANCE.
+
+       (a) Comparison of Retirement System Costs.--Section 
+     2461(a)(1) of title 10, United States Code, is amended--
+       (1) in subparagraph (F), by striking ``and'' at the end;
+       (2) by redesignating subparagraph (G) as subparagraph (H); 
+     and
+       (3) by inserting after subparagraph (F) the following new 
+     subparagraph (G):
+       ``(G) requires that the contractor shall not receive an 
+     advantage for a proposal that would reduce costs for the 
+     Department of Defense by--
+       ``(i) not making an employer-sponsored health insurance 
+     plan (or payment that could be used in lieu of such a plan), 
+     health savings account, or medical savings account, available 
+     to the workers who are to be employed to perform the function 
+     under the contract;
+       ``(ii) offering to such workers an employer-sponsored 
+     health benefits plan that requires the employer to contribute 
+     less towards the premium or subscription share than the 
+     amount that is paid by the Department of Defense for health 
+     benefits for civilian employees of the Department under 
+     chapter 89 of title 5; or
+       ``(iii) offering to such workers a retirement benefit that, 
+     in any year, costs less than the annual retirement cost 
+     factor applicable to civilian employees of the Department of 
+     Defense under chapter 84 of title 5; and''.
+       (b) Conforming Amendments.--Such title is further amended--
+       (1) by striking section 2467; and
+       (2) in section 2461--
+       (A) by redesignating subsections (b) through (d) as 
+     subsections (c) through (e); and
+       (B) by inserting after subsection (a) the following new 
+     subsection (b):
+       ``(b) Requirement to Consult DOD Employees.--(1) Each 
+     officer or employee of the Department of Defense responsible 
+     for determining under Office of Management and Budget 
+     Circular A-76 whether to convert to contractor performance 
+     any function of the Department of Defense--
+       ``(A) shall, at least monthly during the development and 
+     preparation of the performance work statement and the 
+     management efficiency study used in making that 
+     determination, consult with civilian employees who will be 
+     affected by that determination and consider the views of such 
+     employees on the development and preparation of that 
+     statement and that study; and
+       ``(B) may consult with such employees on other matters 
+     relating to that determination.
+       ``(2)(A) In the case of employees represented by a labor 
+     organization accorded exclusive recognition under section 
+     7111 of title 5, consultation with representatives of that 
+     labor organization shall satisfy the consultation requirement 
+     in paragraph (1).
+       ``(B) In the case of employees other than employees 
+     referred to in subparagraph (A), consultation with 
+     appropriate representatives of those employees shall satisfy 
+     the consultation requirement in paragraph (1).
+       ``(C) The Secretary of Defense shall prescribe regulations 
+     to carry out this subsection. The regulations shall include 
+     provisions for the selection or designation of appropriate 
+     representatives of employees referred to in subparagraph (B) 
+     for purposes of consultation required by paragraph (1).''.
+       (c) Technical Amendments.--Section 2461 of such title, as 
+     amended by subsection (a), is further amended--
+
+[[Page S12272]]
+
+       (1) in subsection (a)(1)--
+       (A) in subparagraph (B), by inserting after ``2003'' the 
+     following: ``, or any successor circular''; and
+       (B) in subparagraph (D), by striking ``and reliability'' 
+     and inserting ``, reliability, and timeliness''; and
+       (2) in subsection (c)(2), as redesignated under subsection 
+     (b)(2), by inserting ``of'' after ``examination''.
+
+     SEC. 359. BID PROTESTS BY FEDERAL EMPLOYEES IN ACTIONS UNDER 
+                   OFFICE OF MANAGEMENT BUDGET CIRCULAR A-76.
+
+       (a) Eligibility to Protest Public-Private Competitions.--
+     Section 3551(2) of title 31, United States Code, is amended 
+     to read as follows:
+       ``(2) The term `interested party'--
+       ``(A) with respect to a contract or a solicitation or other 
+     request for offers described in paragraph (1), means an 
+     actual or prospective bidder or offeror whose direct economic 
+     interest would be affected by the award of the contract or by 
+     failure to award the contract; and
+       ``(B) with respect to a public-private competition 
+     conducted under Office of Management and Budget Circular A-76 
+     with respect to the performance of an activity or function of 
+     a Federal agency, or a decision to convert a function 
+     performed by Federal employees to private sector performance 
+     without a competition under Office of Management and Budget 
+     Circular A-76, includes--
+       ``(i) any official who submitted the agency tender in such 
+     competition; and
+       ``(ii) any one individual who, for the purpose of 
+     representing the Federal employees engaged in the performance 
+     of the activity or function for which the public-private 
+     competition is conducted in a protest under this subchapter 
+     that relates to such public-private competition, has been 
+     designated as the agent of the Federal employees by a 
+     majority of such employees.''.
+       (b) Expedited Action.--
+       (1) In general.--Subchapter V of chapter 35 of such title 
+     is amended by adding at the end the following new section:
+
+     ``SEC. 3557. EXPEDITED ACTION IN PROTESTS OF PUBLIC-PRIVATE 
+                   COMPETITIONS.
+
+       ``For any protest of a public-private competition conducted 
+     under Office of Management and Budget Circular A-76 with 
+     respect to the performance of an activity or function of a 
+     Federal agency, the Comptroller General shall administer the 
+     provisions of this subchapter in the manner best suited for 
+     expediting the final resolution of the protest and the final 
+     action in the public-private competition.''.
+       (2) Clerical amendment.--The chapter analysis at the 
+     beginning of such chapter is amended by inserting after the 
+     item relating to section 3556 the following new item:
+
+``3557. Expedited action in protests of public-private competitions.''.
+       (c) Right to Intervene in Civil Action.--Section 1491(b) of 
+     title 28, United States Code, is amended by adding at the end 
+     the following new paragraph:
+       ``(5) If an interested party who is a member of the private 
+     sector commences an action described in paragraph (1) with 
+     respect to a public-private competition conducted under 
+     Office of Management and Budget Circular A-76 regarding the 
+     performance of an activity or function of a Federal agency, 
+     or a decision to convert a function performed by Federal 
+     employees to private sector performance without a competition 
+     under Office of Management and Budget Circular A-76, then an 
+     interested party described in section 3551(2)(B) of title 31 
+     shall be entitled to intervene in that action.''.
+       (d) Applicability.--Subparagraph (B) of section 3551(2) of 
+     title 31, United States Code (as added by subsection (a)), 
+     and paragraph (5) of section 1491(b) of title 28, United 
+     States Code (as added by subsection (c)), shall apply to--
+       (1) a protest or civil action that challenges final 
+     selection of the source of performance of an activity or 
+     function of a Federal agency that is made pursuant to a study 
+     initiated under Office of Management and Budget Circular A-76 
+     on or after January 1, 2004; and
+       (2) any other protest or civil action that relates to a 
+     public-private competition initiated under Office of 
+     Management and Budget Circular A-76, or to a decision to 
+     convert a function performed by Federal employees to private 
+     sector performance without a competition under Office of 
+     Management and Budget Circular A-76, on or after the date of 
+     the enactment of this Act.
+
+     SEC. 360. PUBLIC-PRIVATE COMPETITION REQUIRED BEFORE 
+                   CONVERSION TO CONTRACTOR PERFORMANCE.
+
+       (a) In General.--The Office of Federal Procurement Policy 
+     Act (41 U.S.C. 403 et seq.) is amended by adding at the end 
+     the following new section:
+
+     ``SEC. 43. PUBLIC-PRIVATE COMPETITION REQUIRED BEFORE 
+                   CONVERSION TO CONTRACTOR PERFORMANCE.
+
+       ``(a) Public-Private Competition.--(1) A function of an 
+     executive agency performed by 10 or more agency civilian 
+     employees may not be converted, in whole or in part, to 
+     performance by a contractor unless the conversion is based on 
+     the results of a public-private competition that--
+       ``(A) formally compares the cost of performance of the 
+     function by agency civilian employees with the cost of 
+     performance by a contractor;
+       ``(B) creates an agency tender, including a most efficient 
+     organization plan, in accordance with Office of Management 
+     and Budget Circular A-76, as implemented on May 29, 2003, or 
+     any successor circular;
+       ``(C) includes the issuance of a solicitation;
+       ``(D) determines whether the submitted offers meet the 
+     needs of the executive agency with respect to factors other 
+     than cost, including quality, reliability, and timeliness;
+       ``(E) examines the cost of performance of the function by 
+     agency civilian employees and the cost of performance of the 
+     function by one or more contractors to demonstrate whether 
+     converting to performance by a contractor will result in 
+     savings to the Government over the life of the contract, 
+     including--
+       ``(i) the estimated cost to the Government (based on offers 
+     received) for performance of the function by a contractor;
+       ``(ii) the estimated cost to the Government for performance 
+     of the function by agency civilian employees; and
+       ``(iii) an estimate of all other costs and expenditures 
+     that the Government would incur because of the award of such 
+     a contract;
+       ``(F) requires continued performance of the function by 
+     agency civilian employees unless the difference in the cost 
+     of performance of the function by a contractor compared to 
+     the cost of performance of the function by agency civilian 
+     employees would, over all performance periods required by the 
+     solicitation, be equal to or exceed the lesser of--
+       ``(i) 10 percent of the personnel-related costs for 
+     performance of that function in the agency tender; or
+       ``(ii) $10,000,000; and
+       ``(G) examines the effect of performance of the function by 
+     a contractor on the agency mission associated with the 
+     performance of the function.
+       ``(2) A function that is performed by the executive agency 
+     and is reengineered, reorganized, modernized, upgraded, 
+     expanded, or changed to become more efficient, but still 
+     essentially provides the same service, shall not be 
+     considered a new requirement.
+       ``(3) In no case may a function being performed by 
+     executive agency personnel be--
+       ``(A) modified, reorganized, divided, or in any way changed 
+     for the purpose of exempting the conversion of the function 
+     from the requirements of this section; or
+       ``(B) converted to performance by a contractor to 
+     circumvent a civilian personnel ceiling.
+       ``(b) Requirement to Consult Employees.--(1) Each civilian 
+     employee of an executive agency responsible for determining 
+     under Office of Management and Budget Circular A-76 whether 
+     to convert to contractor performance any function of the 
+     executive agency--
+       ``(A) shall, at least monthly during the development and 
+     preparation of the performance work statement and the 
+     management efficiency study used in making that 
+     determination, consult with civilian employees who will be 
+     affected by that determination and consider the views of such 
+     employees on the development and preparation of that 
+     statement and that study; and
+       ``(B) may consult with such employees on other matters 
+     relating to that determination.
+       ``(2)(A) In the case of employees represented by a labor 
+     organization accorded exclusive recognition under section 
+     7111 of title 5, consultation with representatives of that 
+     labor organization shall satisfy the consultation requirement 
+     in paragraph (1).
+       ``(B) In the case of employees other than employees 
+     referred to in subparagraph (A), consultation with 
+     appropriate representatives of those employees shall satisfy 
+     the consultation requirement in paragraph (1).
+       ``(C) The head of each executive agency shall prescribe 
+     regulations to carry out this subsection. The regulations 
+     shall include provisions for the selection or designation of 
+     appropriate representatives of employees referred to in 
+     paragraph (2)(B) for purposes of consultation required by 
+     paragraph (1).
+       ``(c) Congressional Notification.--(1) Before commencing a 
+     public-private competition under subsection (a), the head of 
+     an executive agency shall submit to Congress a report 
+     containing the following:
+       ``(A) The function for which such public-private 
+     competition is to be conducted.
+       ``(B) The location at which the function is performed by 
+     agency civilian employees.
+       ``(C) The number of agency civilian employee positions 
+     potentially affected.
+       ``(D) The anticipated length and cost of the public-private 
+     competition, and a specific identification of the budgetary 
+     line item from which funds will be used to cover the cost of 
+     the public-private competition.
+       ``(E) A certification that a proposed performance of the 
+     function by a contractor is not a result of a decision by an 
+     official of an executive agency to impose predetermined 
+     constraints or limitations on such employees in terms of man 
+     years, end strengths, full-time equivalent positions, or 
+     maximum number of employees.
+       ``(2) The report required under paragraph (1) shall include 
+     an examination of the potential economic effect of 
+     performance of the function by a contractor on--
+       ``(A) agency civilian employees who would be affected by 
+     such a conversion in performance; and
+       ``(B) the local community and the Government, if more than 
+     50 agency civilian employees perform the function.
+       ``(3)(A) A representative individual or entity at a 
+     facility where a public-private competition is conducted may 
+     submit to the head of the executive agency an objection to 
+     the public private competition on the grounds that the report 
+     required by paragraph (1) has not been submitted or that the 
+     certification required by paragraph (1)(E) is
+
+[[Page S12273]]
+
+     not included in the report submitted as a condition for the 
+     public private competition. The objection shall be in writing 
+     and shall be submitted within 90 days after the following 
+     date:
+       ``(i) In the case of a failure to submit the report when 
+     required, the date on which the representative individual or 
+     an official of the representative entity authorized to pose 
+     the objection first knew or should have known of that 
+     failure.
+       ``(ii) In the case of a failure to include the 
+     certification in a submitted report, the date on which the 
+     report was submitted to Congress.
+       ``(B) If the head of the executive agency determines that 
+     the report required by paragraph (1) was not submitted or 
+     that the required certification was not included in the 
+     submitted report, the function for which the public-private 
+     competition was conducted for which the objection was 
+     submitted may not be the subject of a solicitation of offers 
+     for, or award of, a contract until, respectively, the report 
+     is submitted or a report containing the certification in full 
+     compliance with the certification requirement is submitted.
+       ``(d) Exemption for the Purchase of Products and Services 
+     of the Blind and Other Severely Handicapped Persons.--This 
+     section shall not apply to a commercial or industrial type 
+     function of an executive agency that--
+       ``(1) is included on the procurement list established 
+     pursuant to section 2 of the Javits-Wagner-O'Day Act (41 
+     U.S.C. 47); or
+       ``(2) is planned to be changed to performance by a 
+     qualified nonprofit agency for the blind or by a qualified 
+     nonprofit agency for other severely handicapped persons in 
+     accordance with that Act.
+       ``(e) Inapplicability During War or Emergency.--The 
+     provisions of this section shall not apply during war or 
+     during a period of national emergency declared by the 
+     President or Congress.''.
+       (b) Clerical Amendment.--The table of sections in section 
+     1(b) of such Act is amended by adding at the end the 
+     following new item:
+
+``Sec. 43. Public-private competition required before conversion to 
+              contractor performance.''.
+
+     SEC. 361. PERFORMANCE OF CERTAIN WORK BY FEDERAL GOVERNMENT 
+                   EMPLOYEES.
+
+       (a) Guidelines.--
+       (1) In general.--The Under Secretary of Defense for 
+     Personnel and Readiness shall prescribe guidelines and 
+     procedures for ensuring that consideration is given to using 
+     Federal Government employees on a regular basis for new work 
+     and work that is performed under Department of Defense 
+     contracts and could be performed by Federal Government 
+     employees.
+       (2) Criteria.--The guidelines and procedures prescribed 
+     under paragraph (1) shall provide for special consideration 
+     to be given to contracts that--
+       (A) have been performed by Federal Government employees at 
+     any time on or after October 1, 1980;
+       (B) are associated with the performance of inherently 
+     governmental functions;
+       (C) have been performed by a contractor pursuant to a 
+     contract that was awarded on a noncompetitive basis, either a 
+     contract for a function once performed by Federal employees 
+     that was awarded without the conduct of a public-private 
+     competition or a contract that was last awarded without the 
+     conduct of an actual competition between contractors; or
+       (D) have been performed poorly by a contractor because of 
+     excessive costs or inferior quality, as determined by a 
+     contracting officer within the last five years .
+       (3) Deadline for issuance of guidelines.--The Secretary of 
+     Defense shall implement the guidelines required under 
+     paragraph (1) by not later than 60 days after the date of the 
+     enactment of this Act.
+       (4) Establishment of contractor inventory.--The Secretary 
+     of Defense shall establish an inventory of Department of 
+     Defense contracts to determine which contracts meet the 
+     criteria set forth in paragraph (2).
+       (b) New Requirements.--
+       (1) Limitation on requiring public-private competition.--No 
+     public-private competition may be required for any Department 
+     of Defense function before--
+       (A) the commencement of the performance by civilian 
+     employees of the Department of Defense of a new Department of 
+     Defense function;
+       (B) the commencement of the performance by civilian 
+     employees of the Department of Defense of any Department of 
+     Defense function described in subparagraphs (B) through (D) 
+     of subsection (a)(2); or
+       (C) the expansion of the scope of any Department of Defense 
+     function performed by civilian employees of the Department of 
+     Defense.
+       (2) Consideration of federal government employees.--The 
+     Secretary of Defense shall, to the maximum extent 
+     practicable, ensure that Federal Government employees are 
+     fairly considered for the performance of new requirements, 
+     with special consideration given to new requirements that 
+     include functions that--
+       (A) are similar to functions that have been performed by 
+     Federal Government employees at any time on or after October 
+     1, 1980; or
+       (B) are associated with the performance of inherently 
+     governmental functions.
+       (c) Use of Flexible Hiring Authority.--The Secretary may 
+     use the flexible hiring authority available to the Secretary 
+     under the National Security Personnel System, as established 
+     pursuant to section 9902 of title 5, United States Code, to 
+     facilitate the performance by civilian employees of the 
+     Department of Defense of functions described in subsection 
+     (b).
+       (d) Inspector General Report.--Not later than 180 days 
+     after the enactment of this Act, the Inspector General of the 
+     Department of Defense shall submit to the Committees on Armed 
+     Services of the Senate and the House of Representatives a 
+     report on the compliance of the Secretary of Defense with the 
+     requirements of this section.
+       (e) Definitions.--In this section:
+       (1) The term ``National Security Personnel System'' means 
+     the human resources management system established under the 
+     authority of section 9902 of title 5, United States Code.
+       (2) The term ``inherently governmental function'' has the 
+     meaning given that term in section 5 of the Federal 
+     Activities Inventory Reform Act of 1998 (Public Law 105-270; 
+     112 Stat. 2384; 31 U.S.C. 501 note).
+       (f) Conforming Repeal.--The National Defense Authorization 
+     Act for Fiscal Year 2006 (Public Law 109-163) is amended by 
+     striking section 343.
+
+     SEC. 362. RESTRICTION ON OFFICE OF MANAGEMENT AND BUDGET 
+                   INFLUENCE OVER DEPARTMENT OF DEFENSE PUBLIC-
+                   PRIVATE COMPETITIONS.
+
+       (a) Restriction on Office of Management and Budget.--The 
+     Office of Management and Budget may not direct or require the 
+     Secretary of Defense or the Secretary of a military 
+     department to prepare for, undertake, continue, or complete a 
+     public-private competition or direct conversion of a 
+     Department of Defense function to performance by a contractor 
+     under Office of Management and Budget Circular A-76, or any 
+     other successor regulation, directive, or policy.
+       (b) Restriction on Secretary of Defense.--The Secretary of 
+     Defense or the Secretary of a military department may not 
+     prepare for, undertake, continue, or complete a public-
+     private competition or direct conversion of a Department of 
+     Defense function to performance by a contractor under Office 
+     of Management and Budget Circular A-76, or any other 
+     successor regulation, directive, or policy by reason of any 
+     direction or requirement provided by the Office of Management 
+     and Budget.
+
+     SEC. 363. PUBLIC-PRIVATE COMPETITION AT END OF PERIOD 
+                   SPECIFIED IN PERFORMANCE AGREEMENT NOT 
+                   REQUIRED.
+
+       Section 2461(a) of title 10, United States Code, is amended 
+     by adding at the end the following new paragraph:
+       ``(4) A military department or defense agency may not be 
+     required to conduct a public-private competition under Office 
+     of Management and Budget Circular A-76 or any other provision 
+     of law at the end of the period specified in the performance 
+     agreement entered into in accordance with this section for 
+     any function of the Department of Defense performed by 
+     Department of Defense civilian employees.''.
+       This section shall take effect one day after the date of 
+     this bill's enactment.
+
+  Mr. WARNER. Mr. President, I ask for the yeas and nays on this 
+amendment.
+  The PRESIDING OFFICER. Is there a sufficient second?
+  There appears to be a sufficient second.
+  The yeas and nays were ordered.
+  Mr. WARNER. Mr. President, we are now on the bill in a postcloture 
+status. The distinguished chairman, Senator Levin, is here. I am here. 
+We are prepared to deal with whatever amendments come forward this 
+evening and, again, we will be here tomorrow.
+  The PRESIDING OFFICER. The Senator from Maryland.
+  Ms. MIKULSKI. Mr. President, I rise to speak on behalf of the 
+Kennedy-Mikulski amendment, as amended by the distinguished majority 
+leader.
+  I know the hour is late so I will not speak at length, but I will 
+speak with passion about what this amendment is all about.
+  This is about contracting out. I am here to join in an amendment that 
+protects our Civil Service, protects our taxpayers, and protects 
+Government workers. I think we would all agree that America needs an 
+independent Civil Service and that our Federal employees are on the 
+front lines every day working hard for America. This administration's 
+plan for privatization is a quota-driven plan that costs money, morale, 
+and the integrity of the Civil Service. It forces Federal employees 
+into unfair competition and forces them to spend time and money 
+competing for their jobs instead of doing their jobs. The 
+administration has stacked the deck against Federal employees with 
+their A-76 competitions, but I am here to level the playing field along 
+with my colleagues.
+  This amendment is simple. It helps Federal employees compete for 
+their jobs and at the same time, makes sure
+
+[[Page S12274]]
+
+the Federal Government saves money. My other colleagues who are 
+cosponsors will focus on different pieces of this amendment, but I am 
+here to talk about three specific parts.
+  First of all, this amendment saves taxpayers money. When the 
+administration passed these new quota-driven bounty-hunting A-76 rules, 
+contractors were not even required to show they would save the 
+Government any money--but we thought that was the point of it--so we 
+had some private contracts that actually cost the Government more money 
+than if Federal employees were doing the work.
+  Now, the amendment that is pending would require that all contracts 
+save $10 million or 10 percent. You must save money: $10 million or 10 
+percent. So Federal workers will not be losing their jobs to contractor 
+bids that do not even save the Government or the taxpayers money.
+  Second, it deals with the issue of health and retirement benefits. 
+Right now, a private contractor can win a bid on Federal work simply 
+because they provide either no health and retirement benefits or skimpy 
+or Spartan benefits, this is bad for Federal employees and bad for the 
+contractors doing the work.
+  This amendment would prohibit contractors from winning a bid if the 
+only cost savings are from bad or no benefits. This is to prevent 
+bagging benefits in order to win the contract. This helps level the 
+playing field for Federal employees who have to submit their own best 
+bids, but they have to include these health and retiree benefits.
+  Number 3, really, this is what I think is crucial, and I hope my 
+colleagues from the other side of the aisle will hear this. This 
+amendment eliminates privatization quotas. Remember, the new Bush rules 
+are quota driven. It makes those who are pushing the A-76 in an agency 
+the equivalent of a bounty hunter.
+  Now, let's deal with the word ``quota.'' I have heard a lot about 
+quotas in my day, usually from the other side in a very pejorative way. 
+Hey, what happened to goals and timetables? I thought we did not go for 
+quotas in this Senate. I thought we were for goals and timetables. 
+Remember discussions on affirmative action? ``We don't want no 
+quotas.'' Well, I do not want quotas in privatization. Quite frankly, I 
+do not even want goals and timetables in privatization. But OMB imposes 
+privatization quotas on all Federal agencies, forcing them to conduct 
+A-76 competitions on as many as 150,000 jobs each year. What a huge 
+waste of money. These quota-driven bounty hunters force these wasteful 
+A-76 reviews, even on agencies that do not want to do them or in 
+categories that give them pause to pursue. It wastes time. It wastes 
+taxpayers' dollars.
+  This amendment would stop OMB from using quotas to force agencies to 
+conduct these privatization reviews. This would not prevent agencies 
+from contracting out work. It would simply allow Federal agencies to 
+make their own decisions about when to use the A-76 process.
+  Now let me be very clear. I am not opposed to contracting out. I am 
+not opposed to privatization. In my own State it has worked well. Look 
+at Goddard Space Flight Center. We have 3,000 civil service jobs, but 
+9,000 private contractor jobs. In this way, we get incredible value for 
+our space dollar. I am proud of them both, and they work well together. 
+They serve the Nation well.
+  But the way this administration is going about privatization does not 
+work. We need this amendment because the way contracting is being 
+pursued is irresponsible. It even puts our Nation's security at risk.
+  I want to give one specific issue--contracting out at Walter Reed. 
+Before my dear colleague Senator Paul Sarbanes left, we were on this 
+floor fighting an A-76 contract for contracting out facilities 
+management for people who handle the grounds and so on at Walter Reed. 
+We challenged that A-76 because there had been over three to six 
+appeals. Each time the Federal employees won. However, the 
+administration pushed and pushed and pushed. As we were battling it out 
+on the floor, I read a letter from the colonel who said: If you 
+contract this out, I am concerned there will be a degradation of 
+service at Walter Reed.
+  Well--guess what--we lost the amendment. Walter Reed contracted out 
+its facilities management. We went from 300 employees, who kept Walter 
+Reed tip top for our wounded warriors, down to 50 people, and we ended 
+up with a national scandal.
+  Now, you tell me, what did we gain from that contracting out? How 
+could you look in the eyes of a wounded warrior at Walter Reed and at a 
+hospital that was ridden with mold and rot, for which we all had to go 
+out and pound on the table and pound on our chest about the outrage? We 
+could have stopped the scandal at Walter Reed if we had stopped that 
+contracting out--300 people to 50. Why did it take 300 people at Walter 
+Reed? Because it is an older building. It is several buildings. Our 
+wounded warriors were in hospitals that made international headlines 
+because we could not take care of our own.
+  Well, I am now taking care of this contracting out. So this amendment 
+is the ``remember the Walter Reed scandal'' amendment. I hope my 
+colleagues will join with me. Yes, we will privatize where appropriate. 
+Yes, we will privatize where we will get value for our dollar. But I 
+don't want any kind of privatization that ends up in a national scandal 
+and a national disgrace.
+  I urge my colleagues to vote for this amendment.
+  Mr. FEINGOLD. Mr. President, I am deeply concerned about the threat 
+posed by Iran, but I voted against the amendment offered by Senators 
+Kyl and Lieberman because it could be interpreted as an authorization 
+to keep U.S. troops in Iraq indefinitely to police the Iraqi civil war 
+and engage in a proxy war with Iran. Maintaining a significant U.S. 
+troop presence in Iraq is undermining our ability to deter Iran as it 
+increases its influence in Iraq, becomes bolder in its nuclear 
+aspirations, and continues to support Hezbollah. The administration 
+needs to end its myopic focus on Iraq and develop comprehensive, 
+effective strategies for dealing with Iran and the other serious 
+challenges we face around the world.
+  Mr. President, I voted against Senator Biden's amendment because, 
+while we should support a comprehensive political settlement in Iraq, 
+the U.S. Government shouldn't tell the Iraqi people how to run their 
+country.
+  Ms. MIKULSKI. Mr. President, I am proud to cosponsor Senator Biden's 
+amendment calling on the United States to actively support a Federal 
+system of government in Iraq.
+  The brutal reality is that Iraq today is being torn apart by 
+sectarian violence. The Maliki government in Baghdad is too weak and 
+too corrupt to lead Iraq's Sunni, Shia and Kurdish communities to the 
+political reconciliation they need to end the fighting. Iraq is being 
+torn apart by civil war, and U.S. military forces are caught in the 
+middle.
+  It is clear to me that President Bush has no strategy for ending the 
+war in Iraq. It is up to Congress to provide the way forward to bring 
+stability to Iraq and to bring our troops home. Our military has done 
+everything we have asked them to do, valiantly and skillfully. But the 
+experts all agree: there is no military solution in Iraq. We need a 
+comprehensive political settlement that gives the Iraqi people control 
+over their own fate and allows our troops to come home.
+  Senator Biden has proposed a plan to maintain a united Iraq by 
+decentralizing it. Rather than putting our troops between warring 
+factions, this plan would give the Kurds, Sunni and Shia control over 
+their own land and people, while leaving a central government in 
+Baghdad responsible for protecting common national Iraqi interests. 
+This plan has five major parts.
+  Step one is establishing three autonomous regions in Iraq with a 
+functional central government in Baghdad. Each region would have 
+authority over its own domestic laws, administration, and internal 
+security. The central government would control border defense, foreign 
+policy, and oil revenues. This would give Iraq's sectarian groups 
+control over their own destiny and ensure that Iraq does not splinter 
+into pieces, creating regional chaos.
+  Step two of the Biden plan is to secure the cooperation of Iraq's 
+Sunni minority. The Sunni Arabs in Iraq do not have access to the same 
+oil wealth enjoyed by the Kurds in the north and the Shia in the south. 
+Under this plan, Iraq's central Government would guarantee the Sunni's 
+economic viability
+
+[[Page S12275]]
+
+by pledging 20-percent of Iraq's oil revenue. It would address Sunni 
+political concerns by allowing former members of the Baath party to 
+join Iraq's national Government. Iraq's Sunnis must have confidence 
+that they can prosper and thrive in a peaceful Iraq, so they will lay 
+down their arms and end their destructive insurgency.
+  Step three of this plan is to call on the international community and 
+Iraq's neighbors to help stabilize Iraq by accepting this federal 
+arrangement and respecting Iraq's borders and sovereignty. Iraq will 
+need strong support from the international community to ensure that its 
+neighbors do not try to expand their influence into any of the three 
+autonomous regions created under this federalist system.
+  Step four calls for the withdrawal of most U.S. military forces from 
+Iraq. We would leave a small but effective residual force behind to 
+help Iraq's security forces combat terrorism and protect Iraq's 
+borders, but most U.S. forces would be out of Iraq before the end of 
+2008. We know there is no military solution to Iraq's current problems, 
+and we know the armed militias that are tearing Iraq apart will never 
+lay down their arms as long as the U.S. military has a large presence 
+in their country. Withdrawing most U.S. troops will demonstrate to the 
+Iraqi people that they must take responsibility for building a 
+peaceful, stable Iraq. A small but lethal contingent of U.S. forces 
+that remains either in Iraq or nearby can help the Iraqis combat 
+terrorism and deter mischief by Iraq's neighbors.
+  Finally, the Biden plan calls for robust international support for 
+reconstruction in Iraq. This economic assistance must be conditioned on 
+respect for minority and women's rights. The international community 
+has an interest in seeing a vital, healthy Iraq, but we should use our 
+resources to help Iraq build a society based on equality for all. By 
+providing economic opportunities for every Iraqi, we can help end the 
+violence and build a strong, stable Iraq.
+  We know that President Bush has no plan for stabilizing Iraq or 
+ending the war. The Biden plan can lead to a lasting political solution 
+in Iraq that stops the violence and allows our military forces to come 
+home. I am proud to support it, and I am proud to cosponsor this 
+amendment.
+  Mr. DOMENICI. Mr. President, I want to take a moment to inform the 
+Senate about amendment No. 2981. I greatly appreciate Chairman Levin's 
+and Ranking Member McCain's cooperation in including it in the 
+managers' package.
+  My amendment to the Defense authorization bill calls for a review of 
+the Department of Energy's strategic plan for advanced computing. This 
+review would be completed by the independent scientific advisory group 
+and assess where the Department is headed in this important area.
+  The measure focuses attention on the essential role our national 
+laboratories play in advancing the state of the art for high 
+performance computing a vital area for our national security and 
+scientific leadership.
+  Our laboratories have been instrumental in pressing the limits of raw 
+computing power and creating more sophisticated simulation 
+capabilities.
+  Since the early days of scientific computing and continuing through 
+the development of today's advanced parallel computing systems, the 
+laboratories pioneered the development of high performance computing 
+and software development. From developing advanced computing 
+architectures and algorithms to effective means for storing and viewing 
+the enormous amounts of data generated by these machines, the 
+laboratories have made high performance computing a reality.
+  These capabilities have become a requirement for certifying the 
+nation's nuclear weapons stockpile without nuclear testing. They also 
+find application far outside laboratory walls.
+  The Stockpile Stewardship Program was created as the alternative to 
+underground nuclear testing, to ensure that our nuclear weapons systems 
+would remain safe, secure and reliable. Doing so without nuclear 
+testing required significant investments in computer modeling and 
+simulation.
+  This investment has paid enormous dividends. Every year, computing 
+power increases at a pace set by America's national laboratories. The 
+world's current fastest supercomputer is Lawrence Livermore's ``Blue 
+Gene,'' which recently exceeded 280 ``teraflops'' or trillions of 
+calculations per second. Oak Ridge's ``Jaguar'' system and Sandia 
+National Laboratory's ``Red Storm'' are second and third, each 
+exceeding 100 teraflops.
+  The applications go well beyond security and basic science. The 
+laboratories have worked hard to transition these capabilities to 
+academia and industry, simulating complex industrial processes and 
+their environmental impact including global climate change.
+  Collaborations with the private sector have also driven down the 
+cost, so that now high performance does not mean high expense. This has 
+had an enormous impact, making advanced computing within the reach of 
+an ever wider circle of users including the Department of Energy's 
+Office of Science.
+  At the labs today, not only do these computers run advanced 
+experimental models that give us confidence in our nuclear deterrent, 
+but they also help us decipher the human genome and develop improved 
+medicines. Advanced computing has also helped Sandia engineers 
+understand the safety risks to the Space Shuttle, when the foam from 
+the fuel tank hit and damaged the heat tiles.
+  We will continue to use advanced computing to support engineering 
+design work to ensure that our bridges and infrastructure are safe, as 
+well as filter massive amounts of data in an effort to predict where 
+terrorists are planning to attack next.
+  These achievements did not happen by accident. They required 
+planning, commitment and follow through.
+  Unfortunately, I am concerned that we may be losing this focus and 
+commitment to support long term research on advance computing 
+architectures and continue the search for even greater simulation 
+capabilities. The Department of Energy and the National Nuclear 
+Security Administration appear not to have a coordinated strategy for 
+advancing the state-of-the-art in computing and instead propose to 
+actually reduce computing capacity within the laboratory system. I 
+believe this is a mistake.
+  In the Senate Energy and Water Development appropriations bill for 
+fiscal year 2008, Chairman Dorgan and I have proposed to establish a 
+joint program office for high performance computing led by the NNSA 
+Administrator and the Under Secretary for Science. This office will 
+have the primary responsibility of ensuring a well balanced portfolio 
+of computing platforms for the DOE and the Nation.
+  The proposed office will develop a high performance computing 
+technology roadmap and acquisition strategy for the DOE. I strongly 
+believe that DOE and NNSA must pool their resources and establish an 
+advanced computing R&D program. A long term, Department-wide strategy 
+is necessary to ensure that the world class simulation capabilities 
+within the complex are maintained and investments are made to drive 
+innovation. If the past success of the program is a predictor, there 
+will be amazing new technological innovations and the cost of computing 
+will fall like a stone. This will ensure that universities, 
+laboratories, U.S. businesses and law enforcement will have the 
+computing capability necessary for their success.
+  We must continue to raise the bar, giving our best and brightest new 
+targets to aim for, ensuring that America will retain its technical 
+leadership in advanced computing.
+  I would like to pay tribute to the men and women of Sandia, Los 
+Alamos and Livermore National labs and their private sector 
+counterparts at Cray, IBM, and Intel, and the Department of Energy and 
+the NNSA. These individuals have worked extraordinarily hard to solve 
+complex computing architecture and software challenges. This work has 
+paid off and we must remain committed to future excellence in this 
+field.
+  Mr. President, I ask unanimous consent that a listing of the world's 
+fastest computers be printed in the Record. I would like for my 
+colleagues to note that 8 of the top 10 computers are located at U.S. 
+Department of Energy national labs and universities and this would not 
+be the case except for the investments made by the Department of 
+Energy.
+
+[[Page S12276]]
+
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+        Top 10 Fastest Supercomputers in the World (June 2007)*
+
+       Name, Location--Speed (TFlops/s).
+       1. Blue Gene/L (IBM), Lawrence Livermore (DOE)--280.6.
+       2. Jaguar (Cray), Oak Ridge (DOE)--101.7.
+       3. Red Storm (Cray), Sandia (DOE)--101.4
+       4. Blue Gene Watson (IBM), IBM Thomas Watson--Research 
+     Center--91.2.
+       5. New York Blue (IBM), Stony Brook/Brookhaven (DOE)--82.1.
+       6. ASC Purple (IBM), Lawrence Livermore (DOE)--75.7.
+       7. eService Blue Gene (IBM), Rensselaer Polytechnic 
+     Institute (Troy, NY)--73.0.
+       8. Abe (Dell), NSF-NCSA--62.6
+       9. MareNostrum (IBM), Barcelona Supercomputing Center--
+     62.6.
+       10. HLRB-II (SGI), Leibniz Rechenzentrum--56.5.
+       *Ranking from the TOP500 Project (http://www.top500.org)
+  Mr. ENZI. Mr. President, I wish to express my concern about the 
+current agenda of the U.S. Senate.
+  For about 16 days, we have been debating the National Defense 
+Authorization Act for fiscal year 2008. I do not think that any Member 
+of this Chamber believes this is an unimportant or throwaway piece of 
+legislation. This bill is about our troops and our veterans. It is 
+about their health care. It is about their equipment. It is about how 
+we treat those individuals who have put on the uniforms of our Armed 
+Forces and served our Nation.
+  The Defense bill before us authorizes $24.6 billion for the defense 
+health program, including a $1.9 billion adjustment to fund TRICARE 
+benefits. The bill includes authorization for the purchase of upgrades 
+to Bradley fighting vehicles and the purchase of Stryker vehicles. This 
+legislation authorized research into technology that will keep our 
+troops safer while they carry out their current missions and research 
+into medical technology that will help with battlefield diagnostics and 
+care for any wounded warrior.
+  In the midst of considering this troop-related bill, we are now 
+considering amendments on items completely unrelated to the men and 
+women in uniform. This kind of political gamesmanship is precisely why 
+congressional approval ratings are at an all-time low.
+  Are we going to provide the resources our men and women in the 
+military need by passing this Defense bill or are we going to stuff 
+this bill so full of nondefense policy and programs that the 
+legislation blows up like a makeshift terrorist explosive device? The 
+majority party is in charge of getting critical bills through, yet they 
+are delaying passage of these bills by trying to empty their outbox 
+full of controversial issues. Unfortunately, the authors of these 
+unrelated special interest amendments have chosen the latter.
+  The first amendment set to come before us for a vote is legislation 
+on hate crimes. When it is the appropriate time to be debating the 
+merits of a hate crime bill then I will debate that. Debating it in 
+relation to a bill we need in order to provide for our military is not 
+the appropriate time. We have also been told to expect amendments 
+related to immigration. The Senate earlier this year spent weeks on 
+immigration legislation--that is where debate on that amendment should 
+occur.
+  As my colleague from Texas, Senator Cornyn, stated, there is a time 
+and a place for everything. A bill drafted to address our national 
+defense and our troops is not the place for these amendments.
+  Instead of focusing on the needs of our troops in the field, our 
+wounded warriors needing medical attention, and our veterans who have 
+served us all, the authors of these amendments seek to distract our 
+attention and delay progress on this bill.
+  I sincerely hope all Members of the Senate will put these issues 
+aside for a more appropriate time for debate and let us proceed on 
+improving the lives of our troops. Let's put our troops first on the 
+Senate agenda.
+  Mr. CONRAD. Mr. President, I was pleased to join my co-chair of the 
+Senate Tanker Caucus, the senior Senator from Utah, in introducing 
+amendment No. 2895. And I am very glad that the distinguished ranking 
+member of the Armed Services Committee chose to join with our caucus in 
+preparing a compromise amendment, No. 3104, that makes clear how 
+crucial recapitalizing our tanker fleet is to our national security.
+  I thank Senator McCain and Senator Levin for their leadership on this 
+issue and their willingness to accept this amendment.
+  In October of last year, the Secretary and Chief of Staff of the Air 
+Force made a very important announcement. They declared that their top 
+acquisition priority for the future is the replacement of our Nation's 
+aerial refueling tanker fleet. This program could cost about $13 
+billion over the next 5 years, and perhaps $100 billion over the next 
+three decades.
+  The senior Senator from Utah and I joined forces to form a caucus in 
+support of this vital objective. We believe that updating our aerial 
+tanker fleet is crucial if we are to continue to be able to project 
+American military power around the globe.
+  The U.S. national security strategy depends on a robust air refueling 
+capability, as do our coalition partners. No other nation in the world 
+has a comparable capability. The U.S. advantage in tankers is at the 
+center of almost all the other strategic capabilities of our Air Force.
+  Yet today, our tanker fleet is the oldest part of the Air Force 
+inventory making maintenance difficult and expensive. The KC-135 makes 
+up over 90 percent of our refueling capability, but the average age of 
+that fleet is over 45 years. The ``E-Model'' aircraft have the oldest 
+engines and are rapidly declining in utility. Their mission capable 
+rates have dropped significantly, and their cost-per-flying hour has 
+increased.
+  Despite generations of meticulous maintenance, these tankers are 
+getting toward the end of their economic service life. Uncertainty 
+about corrosion problems creates a significant vulnerability--we could 
+find a serious problem in a few of these aircraft that could result in 
+the whole fleet being grounded.
+  And that would have catastrophic results, as General Michael Moseley 
+made very clear in comments on October 12. ``In this global business 
+we're in, the single point of failure of an air bridge, or the single 
+point failure for global intelligence, surveillance and reconnaissance, 
+or the single point of failure for global strike is the tanker,'' he 
+said. ``To be able to bridge the Atlantic, to be able to bridge the 
+Pacific, or to be able to let business in the theater be persistent 
+business in the theater, it's the tanker.''
+  To reverse that vulnerability, the Air Force is taking steps to 
+replace these tankers. The tanker caucus supports that effort. The Air 
+Force is also taking steps to make sure that a portion of the current 
+tanker fleet is kept viable as they work to develop and buy the next 
+generation tanker. This amendment supports that effort as well, by 
+specifically referencing the Air Force's strategy to modify and upgrade 
+an appropriate portion of the KC-135 fleet to ensure that it remains 
+viable as the Air Force waits for new tankers to be delivered. Nothing 
+in this amendment would further constrain the Air Force's ability to 
+retire the oldest tankers as they deem necessary.
+  Finally, this amendment recognizes that the procurement of aerial 
+refueling on a fee-for-service basis may also end up being part of the 
+solution to preventing a temporary gap in tanker capability--though I 
+doubt that it will make up a major portion of our overall tanker 
+capacity.
+  The Air Force is working through two competing submissions for tanker 
+replacement in response to the request for proposals it issued last 
+year. This full, free and open competition will help to achieve the 
+best value possible for the taxpayer on this major program.
+  As General Moseley noted, ``It's important to get started'' on this 
+important acquisition program. The time is right to begin 
+recapitalizing this vital national asset. The Air Force predicts that a 
+funding shortfall this year would likely lead to a 6 to 9 month delay 
+in fielding the new tankers.
+  The original amendment that Senator Hatch and I offered was co-
+sponsored by Senators Dorgan, Gregg, Roberts, Sununu, Cantwell and 
+Inhofe. It simply expressed the sense of the Congress that timely 
+replacement of the Air Force tanker fleet is a vital national security 
+priority, and presented the reasons for that judgment. The McCain-
+Conrad amendment makes the same point in expressing
+
+[[Page S12277]]
+
+that modernizing the tanker force is a vital national security 
+priority.
+  While some members and some committees differ on the amount of 
+funding that they believe is required to carry out this program fiscal 
+year 2008, I believe that the Senate can agree that carrying out this 
+program is a vital national security priority. I appreciate my 
+colleagues' support for this amendment.
+  I yield the floor.
+  The PRESIDING OFFICER. The Senator from Michigan.
+  Mr. LEVIN. Mr. President, is there any objection if we proceed to 
+morning business?
+  Mr. WARNER. Mr. President, there is no objection on this side. We 
+will resume the bill tomorrow morning, I presume, around 10 o'clock.
+
+                          ____________________
+```

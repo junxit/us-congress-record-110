@@ -1,0 +1,35 @@
+---
+granule: CREC-2007-09-27-pt1-PgS12316-3
+date: 2007-09-27
+edition: CREC
+section: SENATE
+page: S12316
+citation: 153 Cong. Rec. S12316
+---
+
+# MEASURE READ THE FIRST TIME--H.R. 2693
+
+**Speaking:** Brown, Sherrod (B000944) [D-OH]
+
+**Measures:** H.R. 2693
+
+```
+                 MEASURE READ THE FIRST TIME--H.R. 2693
+
+  Mr. BROWN. Mr. President, I understand that H.R. 2693 has been 
+received from the House and is at the desk. I ask for its first 
+reading.
+  The PRESIDING OFFICER. The clerk will report the bill by title for 
+the first time.
+  The bill clerk read as follows:
+
+       A bill (H.R. 2693) to direct the Occupational Safety and 
+     Health Administration to issue a standard regulating worker 
+     exposure to diacetyl.
+
+  Mr. BROWN. I ask for its second reading and object to my own request.
+  The PRESIDING OFFICER. Objection is heard. The bill will receive its 
+second reading on the next legislative day.
+
+                          ____________________
+```
