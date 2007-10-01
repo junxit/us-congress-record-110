@@ -1,0 +1,76 @@
+---
+granule: CRECB-2007-pt19-Pg26041-4
+date: 2007-10-01
+edition: CRECB
+section: HOUSE
+page: 26041
+---
+
+# EFFECTIVE JOB TRAINING FOR OUR RETURNING WARRIORS
+
+```
+           EFFECTIVE JOB TRAINING FOR OUR RETURNING WARRIORS
+
+  Mr. STEARNS. Madam Speaker, when our soldiers come home from combat, 
+they often face an uphill battle. For many servicemembers, the 
+transition from active duty to veteran status and returning to a full, 
+meaningful civilian life is daunting, fraught with many challenging 
+obstacles and bureaucratic barriers. Many times, these brave service 
+men and women require job training but for entirely new careers.
+  Although statistics show that eventually veterans in general enjoy a 
+favorable rate in the Nation's job market, many veterans obviously find 
+it difficult to compete successfully in the labor market. That is why 
+for over a decade the Federal Government has provided job training 
+benefits to veterans through the Department of Veterans Affairs and the 
+Department of Labor. The mission statement for the Department of Labor 
+Veterans' Employment and Training Service, VETS program, is to 
+``provide veterans and transitioning servicemembers with the resources 
+and services to succeed in the 21st century workplace by maximizing 
+their employment opportunities, protecting their employment rights, and 
+meeting labor market demands with qualified veterans today.''
+  Additionally, the Department of Labor offers servicemembers leaving 
+the military with a service-connected disability the Disability 
+Transition Assistance Program, DTAP. DTAP includes a 3-day workshop 
+plus additional hours of individual instruction to help determine job 
+readiness and address the special needs of disabled veterans. However, 
+this is the identical DTAP program offered to all transitioning 
+disabled veterans across this country. This 3-day program is valuable 
+support, but it only provides general employment information and at no 
+time addresses the specific needs of the community in which the veteran 
+lives. Unfortunately, this means that frequently there is a void of 
+information on local labor market conditions that result in veterans 
+using their benefits to train for jobs that do not exist in their 
+community.
+  Mr. Jeffrey Askew is director of the Marion County Veterans' Service 
+Center in my hometown of Ocala, Florida. He said many veterans have 
+used their Federal job training benefit for information technology (IT) 
+career training. However, Ocala has little demand for IT professionals, 
+and veterans are often advised to move to Orlando where there are many 
+more opportunities for them. Upon finally getting settled back into 
+civilian life, it is frustrating and unfortunate to say the least to be 
+forced to uproot one more time and move your family to an unknown city.
+  I am concerned about this problem, but I think and I believe that 
+there is an easy solution. That is why I introduced legislation to 
+provide better information to veterans on their local job market needs.
+  H.R. 3646, the Veterans Effective Training Job Opportunities and 
+Benefits Act of 2007, or VET JOBS Act of 2007, directs the Secretary of 
+Veterans Affairs and the Secretary of Labor to conduct a joint study on 
+the greatest employment needs in various job markets around the country 
+and post these results on the VA Web site. These results would then be 
+updated annually to reflect the current and possibly changing needs in 
+the local job market. With this tool, a veteran could plug in his or 
+her zip code and see a list of the occupations that are most in demand, 
+and subsequently use their Federal job training most effectively.
+  The Department of Labor already has the infrastructure in place for 
+this kind of research, so this is a practical, low-cost solution. In 
+fact, the Congressional Budget Office has unofficially scored this 
+proposal as having insignificant costs, insignificant costs for 
+immeasurable benefits to our veterans.
+  I encourage my colleagues to join me in this effort. Help our 
+veterans today. Help them with their quality employment. Help them to 
+find out where the jobs that they wish to be trained for are located, 
+and support the VET JOBS Act that I ask for all of my colleagues to 
+cosponsor.
+
+                          ____________________
+```

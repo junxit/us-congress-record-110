@@ -1,0 +1,76 @@
+---
+granule: CRECB-2007-pt19-Pg26028-3
+date: 2007-10-01
+edition: CRECB
+section: SENATE
+page: 26028
+---
+
+# NATIONAL PUBLIC LANDS DAY
+
+```
+                       NATIONAL PUBLIC LANDS DAY
+
+  Mr. CRAIG. Mr. President, this past Saturday was National Public 
+Lands Day. On September 29, hundreds of thousands of citizens from 
+across the country volunteered to give their time to improve our public 
+lands. These volunteers cleared obstructed trails, picked up litter, 
+planted trees, removed invasive species, and taught young Cub Scouts 
+and Girl Scouts about camping. I commend all volunteers for their 
+commitment.
+  Now in its 14th year, National Public Lands Day has become the 
+largest grassroots volunteer effort on behalf of our public parks, 
+rivers, lakes, forests, rangelands, and beaches. Last year, an 
+estimated $11 million worth of labor intensive work was carried out, 
+and this year it is expected that $12 million of improvements were 
+added to America's public lands.
+  On Wednesday, September 27, the front page of USA Today displayed a 
+picture of Coeur d'Alene, ID, with a headline that read ``No end in 
+sight for Idaho's growth.'' The article went on to provide a breakdown 
+of how Idaho's economy has remained strong despite
+
+[[Page 26029]]
+
+the current slump in the housing market. It reads, ``[An] ingredient in 
+Idaho's boom has been the ``amenities business''--hiking, hunting, 
+fishing, skiing, whitewater rafting--that attracts tourists and new 
+residents, from billionaires to young outdoor enthusiasts.''
+  Today Idaho is experiencing a new brand of tourists and a new brand 
+of neighbors moving in down the street. These people are focused on the 
+vigorous quest for a quality of life that includes the enjoyment of the 
+outdoors. What ties the third generation Idahoan to a newcomer is an 
+appreciation for the resources and the value that multiple uses 
+contribute to our livelihoods and communities.
+  The USA Today article also points out that ``[t]he federal government 
+owns about two-thirds of the land in Idaho, mostly national forests. 
+The state has 21 million acres of roadless wilderness, about the size 
+of South Carolina and more than any state except Alaska.'' Public lands 
+have much to offer and are very beneficial for Idaho.
+  There are a myriad of different resources that can be responsibly 
+harvested or extracted from our public lands. From sustainably managed 
+forests to livestock use to oil and geothermal potential, these lands 
+hold the resources Americans rely on to achieve the standard of living 
+that we have today.
+  Using the resources on our own public lands, as opposed to relying on 
+foreign resources, affords us the opportunity to fund schools, 
+highways, and national defense, all the while easing the financial 
+burden on the taxpayers.
+  There are those, however, who would prefer to see land management 
+agencies take more of a preservationist role, prohibiting access to our 
+national forests, parks, beaches, and rangelands and leaving nature to 
+run its course. This is not a value that many Idahoans hold, and 
+neither do I.
+  We must actively manage our lands so that the recreational and 
+resource benefit can be utilized by every American citizen. Under 
+certain circumstances, active management includes limited access in 
+specific areas; however, we must be cautious not to be overly 
+restrictive of public access to public lands. The same holds true for 
+natural resource management. We cannot use a one-size-fits-all 
+management style when there are so many differing opinions on how to 
+best utilize our domestic natural resources.
+  In closing, I want to again say thank you to the volunteers for their 
+tremendous efforts to ensure that the public lands we enjoy today will 
+be enjoyed by many, for years to come.
+
+                          ____________________
+```

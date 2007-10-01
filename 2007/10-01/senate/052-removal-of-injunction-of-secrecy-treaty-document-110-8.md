@@ -1,0 +1,70 @@
+---
+granule: CRECB-2007-pt19-Pg26036-5
+date: 2007-10-01
+edition: CRECB
+section: SENATE
+page: 26036
+---
+
+# REMOVAL OF INJUNCTION OF SECRECY--TREATY DOCUMENT 110-8
+
+```
+        REMOVAL OF INJUNCTION OF SECRECY--TREATY DOCUMENT 110-8
+
+  Mr. BROWN. Mr. President, as in executive session, I ask unanimous 
+consent that the injunction of secrecy be removed from the following 
+treaty transmitted to the Senate on October 1, 2007, by the President 
+of the United States:
+  Protocols of 2005, the Convention concerning Safety of Maritime 
+Navigation and to the Protocol concerning Safety of Fixed Platforms on 
+the Continental Shelf (Treaty Document 110-8).
+  I further ask that the treaty be considered as having been read the 
+first time; that it be referred, with accompanying papers, to the 
+Committee on Foreign Relations and ordered to be printed; and that the 
+President's message be printed in the Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The message of the President is as follows:
+
+To the Senate of the United States:
+  With a view to receiving the advice and consent of the Senate to 
+ratification, I transmit herewith the Protocol of 2005 to the 
+Convention for the Suppression of Unlawful Acts against the Safety of 
+Maritime Navigation (the ``2005 SUA Protocol'') and the Protocol of 
+2005 to the Protocol for the Suppression of Unlawful Acts against the 
+Safety of Fixed Platforms Located on the Continental Shelf (the ``2005 
+Fixed Platforms Protocol'') (together, ``the Protocols''), adopted by 
+the International Maritime Organization Diplomatic Conference in London 
+on October 14, 2005, and signed by the United States of America on 
+February 17, 2006. I also transmit, for the information of the Senate, 
+the report of the Department of State with respect to the Protocols.
+  The Protocols are an important component in the international 
+campaign to prevent and punish maritime terrorism and the proliferation 
+of weapons of mass destruction and promote the aims of the 
+Proliferation Security Initiative. They establish a legal basis for 
+international cooperation in the investigation, prosecution, and 
+extradition of those who commit or aid terrorist acts or trafficking in 
+weapons of mass destruction aboard ships at sea or on fixed platforms.
+  The Protocols establish the first international treaty framework for 
+criminalizing certain terrorist acts, including using a ship or fixed 
+platform in a terrorist activity, transporting weapons of mass 
+destruction or their delivery systems and related materials, and 
+transporting terrorist fugitives. The Protocols require Parties to 
+criminalize these acts under their domestic laws, to cooperate to 
+prevent and investigate suspected crimes under the Protocols, and to 
+extradite or submit for prosecution persons accused of committing, 
+attempting to commit, or aiding in the commission of such offenses. The 
+2005 SUA Protocol also provides for a ship-boarding regime based on
+
+[[Page 26037]]
+
+flag state consent that will provide an international legal basis for 
+interdiction at sea of weapons of mass destruction, their delivery 
+systems and related materials, and terrorist fugitives.
+  I recommend that the Senate give early and favorable consideration to 
+the Protocols, subject to certain under-standings that are described in 
+the accompanying report of the Department of State.
+                                                      George W. Bush.  
+The White House, October 1, 2007.
+
+                          ____________________
+```
