@@ -1,0 +1,82 @@
+---
+granule: CRECB-2007-pt19-Pg26130
+date: 2007-10-02
+edition: CRECB
+section: SENATE
+page: 26130
+---
+
+# BRINGING A FALLEN SOLDIER HOME
+
+```
+                     BRINGING A FALLEN SOLDIER HOME
+
+  Mr. BROWN. Mr. President, earlier today, I left a Banking Committee 
+hearing to go out to Arlington National Cemetery to meet with a group 
+of World War II veterans. A woman by the name of Ms. Best, who had 
+served in World War II, was laying the wreath on behalf of Miami 
+County, OH, veterans--some 35 or so veterans from Ohio who took a bus 
+under the sponsorship of Glenn Devers, who raises money so veterans can 
+come to Washington and lay a wreath at the Tomb of the Unknown Soldier 
+and then proceed to see the World War II monument.
+  I was struck, first, by all the stories of Mr. and Mrs. Whited, for 
+instance. Mr. Whited was called off to the service and went overseas. 
+His child was born a few months after he left, and when he returned, he 
+saw his son for the first time, who was the age of 2. He is now more 
+than 60 years old. I was taken by the stories of so many of these World 
+War II veterans, their courage and heroism, their love of country, 
+their duty, their commitment, and their patriotism. They surely--
+without overusing the phrase--were part of ``the greatest generation.''
+  Few veterans have asked for credit or recognition, but it was such a 
+pleasure to go there and talk to them today. I had one request of them. 
+Of course, I thanked them over and over. I had one request, and that 
+was that these veterans, both men and women, tell their stories to 
+their children and grandchildren. My father, a World War II veteran who 
+enlisted about a year after Pearl Harbor, sometime during 1942, and 
+went overseas, he didn't talk about it much. He passed away 6 years ago 
+at the age of 89. He didn't talk about it much. I encouraged these men 
+and women who served our country valiantly in World War II--or any 
+veteran since then--to share the stories with their children and 
+grandchildren because it will enrich their lives. They don't need to 
+brag, but they ought to tell friends and families about their 
+accomplishments and feats. These are stories that their children and 
+grandchildren and great-grandchildren will treasure for the rest of 
+their lives.
+  I thought of that visit yesterday before I made the visit, as I was 
+planning it. I thought yesterday, when the Senate passed the Defense 
+reauthorization
+
+[[Page 26131]]
+
+bill, of an amendment that Congressman Bart Stupak of Michigan and I 
+have been working on. Currently, the Department of Defense--prior to 
+this amendment--is allowed to use any combination of air, rail or road 
+transportation to bring the body of a fallen soldier home. But what has 
+been done, because the rule is so broad, the law is so broad, the 
+Department of Defense in many cases has brought the body of a soldier 
+killed in action to the nearest big city airport, which could be 50, 
+100, 200 or 300 miles away. Congressman Stupak represents an area in 
+northern Michigan, the Upper Peninsula, and often bodies are brought 
+back to Green Bay, which is too far from many of these families who 
+have to go to an airport that is 2 or 3 hours away with the funeral 
+home, paying the expenses and accompanying the body back to the 
+hometown. That has happened in southern Ohio, where there is no 
+airport. Maybe they would go to Charleston, Columbus or Pittsburgh. It 
+is outrageous that the Department of Defense doesn't bring the bodies 
+to the communities where the families live, when they are already so 
+distraught from losing a loved one.
+  We were able to get the fallen servicemember respectful return 
+amendment included in the Department of Defense bill. This means that 
+when our soldiers make the ultimate sacrifice in service to their 
+country, the least the Government and the DoD can do--and for reasons I 
+don't even understand they had failed to do. We talk so much about 
+honoring our soldiers, but they failed to do this. All of the money we 
+are spending--hundreds of billions of dollars--and they didn't get 
+these bodies back to the funeral home in the local communities. It is 
+incumbent upon us to do that.
+  Congressman Stupak in the House and my amendment in the Senate 
+finally has done that. The least we can do is ease the path for these 
+families as they confront their loss.
+
+                          ____________________
+```
