@@ -1,0 +1,353 @@
+---
+granule: CREC-2007-10-02-pt1-PgH11085
+date: 2007-10-02
+edition: CREC
+section: HOUSE
+page: H11085
+citation: 153 Cong. Rec. H11085
+---
+
+# INTERNATIONAL EMERGENCY ECONOMIC POWERS ENHANCEMENT ACT
+
+**Speaking:** Sherman, Brad (S000344) [D-CA], Manzullo, Donald A. (M001138) [R-IL]
+
+**Measures:** H.R. 1400, S. 1430, S. 1612, S. 2000, H.R. 2337
+
+```
+        INTERNATIONAL EMERGENCY ECONOMIC POWERS ENHANCEMENT ACT
+
+  Mr. SHERMAN. Mr. Speaker, I move to suspend the rules and pass the 
+Senate bill (S. 1612) to amend the penalty provisions in the 
+International Emergency Economic Powers Act, and for other purposes.
+  The Clerk read the title of the Senate bill.
+  The text of the Senate bill is as follows:
+
+                                S. 1612
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``International Emergency 
+     Economic Powers Enhancement Act''.
+
+     SEC. 2. INCREASED PENALTIES FOR VIOLATIONS OF IEEPA.
+
+       (a) In General.--Section 206 of the International Emergency 
+     Economic Powers Act (50 U.S.C. 1705) is amended to read as 
+     follows:
+
+     ``SEC. 206. PENALTIES.
+
+       ``(a) Unlawful Acts.--It shall be unlawful for a person to 
+     violate, attempt to violate, conspire to violate, or cause a 
+     violation of any license, order, regulation, or prohibition 
+     issued under this title.
+       ``(b) Civil Penalty.--A civil penalty may be imposed on any 
+     person who commits an unlawful act described in subsection 
+     (a) in an amount not to exceed the greater of--
+       ``(1) $250,000; or
+       ``(2) an amount that is twice the amount of the transaction 
+     that is the basis of the violation with respect to which the 
+     penalty is imposed.
+       ``(c) Criminal Penalty.--A person who willfully commits, 
+     willfully attempts to commit, or willfully conspires to 
+     commit, or aids or abets in the commission of, an unlawful 
+     act described in subsection (a) shall, upon conviction, be 
+     fined not more than $1,000,000, or if a natural person, may 
+     be imprisoned for not more than 20 years, or both.''.
+       (b) Effective Date.--
+       (1) Civil penalties.--Section 206(b) of the International 
+     Emergency Economic Powers Act, as amended by subsection (a), 
+     shall apply to violations described in section 206(a) of such 
+     Act with respect to which enforcement action is pending or 
+     commenced on or after the date of the enactment of this Act.
+       (2) Criminal penalties.--Section 206(c) of the 
+     International Emergency Economic Powers Act, as amended by 
+     subsection (a), shall apply to violations described in 
+     section 206(a) of such Act with respect to which enforcement 
+     action is commenced on or after the date of the enactment of 
+     this Act.
+       ``(c) Criminal Penalty.--A person who willfully commits, 
+     willfully attempts to commit, or willfully conspires to 
+     commit, or aids or abets in the commission of, an unlawful 
+     act described in subsection (a) shall, upon conviction, be 
+     fined not more than $1,000,000, or if a natural person, may 
+     be imprisoned for not more than 20 years, or both.''.
+       (b) Effective Date.--The amendment made by subsection (a) 
+     applies to violations described in section 206 of the 
+     International Emergency Economic Powers Act (50 U.S.C. 1705) 
+     with respect to which enforcement action is pending or 
+     commenced on or after the date of the enactment of this Act.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentleman from 
+California (Mr. Sherman) and the gentleman from Illinois (Mr. Manzullo) 
+each will control 20 minutes.
+  The Chair recognizes the gentleman from California.
+
+
+                             General Leave
+
+  Mr. SHERMAN. Mr. Speaker, I ask unanimous consent that all Members 
+may have 5 legislative days to revise and extend their remarks and 
+include extraneous material on the bill under consideration.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from California?
+  There was no objection.
+  Mr. SHERMAN. Mr. Speaker, I rise in strong support of this bill, and 
+yield myself such time as I may consume.
+  Mr. Speaker, the International Emergency Economic Powers Act, IEEPA, 
+has over the years enabled the United States on various occasions to 
+impose significant economic sanctions and limitations on terrorists, 
+terrorist groups and their supporters, on financiers and on some of the 
+worst rogue regimes in the world. It has allowed three Presidents to 
+keep the U.S. dual-use export control system in operation against the 
+efforts of states like Iran and North Korea to require sensitive dual-
+use technology and equipment.
+  IEEPA has accomplished this goal, even though Congress has been 
+unable to reauthorize the long-expired Export Administration Act, and I 
+hope that later in this Congress we do reauthorize the Export 
+Administration Act. That act was the original basis for the system of 
+export control which is now handled through IEEPA.
+  Immediately after 9/11, IEEPA authority was used to freeze the assets 
+of terrorist, terrorist organizations and their supporters and to 
+hobble the international terrorist network that sought and still seeks 
+to kill and maim innocent Americans. Yet the penalties for violating 
+IEEPA's provisions are lighter than they should be. Send $1 million as 
+a gift to Osama bin Laden and you get as a maximum penalty a $50,000 
+fine and 10 years in prison under the act. The same is true for 
+unlawful exports of sensitive commercial technology, equipment and 
+components that have military applications that are controlled for 
+national security purposes.
+
+                              {time}  1115
+
+  If you send a milling machine for shaping nuclear warhead cores to 
+either Iran or North Korea, the same maximum fine and prison terms 
+under the act apply.
+  This bill increases the penalties to a level that I think is 
+consistent with the importance of making sure that Americans do not, 
+whether for ideological reasons or financial gain, deliberately violate 
+our efforts to control terrorism and to prevent the spread of weapons 
+of mass destruction.
+  S. 1612 increases civil penalties from $50,000 up to $250,000, or to 
+an amount that is twice the amount of the transaction that is the basis 
+of the violation with respect to which the penalty is imposed. It also 
+increases criminal penalties for willful violations from $50,000 up to 
+$1 million and/or imprisonment for not more than 20 years. This 
+increase in penalties is appropriate given the importance of the 
+International Emergency Economic Powers Act to our national security. I 
+urge my colleagues to support this bill.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. MANZULLO. Mr. Speaker, I yield myself such time as I may consume.
+  Mr. Speaker, I rise in support of S. 1612. S. 1612 is legislation 
+which significantly increases the enforcement and deterrent effects of 
+sanctions and export control violations imposed under the International 
+Emergency Economic Powers Act, otherwise known as IEEPA.
+  Through this law, the President may respond to unusual and 
+extraordinary threats originating in substantial part outside of the 
+United States by, among other things, prohibiting transactions 
+associated with particular entities or countries.
+  In other words, IEEPA authorizes the President to impose economic and 
+financial sanctions against certain foreign threats to the U.S. and our 
+interests around the world. An example of success was the use of these 
+tools to bring North Korea back to the bargaining table to eliminate 
+their nuclear program.
+  IEEPA is also vital to U.S. national security because it continues 
+the expired Export Administration Act in full force, allowing the 
+Department of Commerce to carry out its mission of ensuring sensitive 
+goods and technologies do not fall into the hands of our adversaries. 
+It is important to keep the EAA in force so violators do not escape the 
+penalties of the law on a mere technicality.
+  I would like to take the time to respectfully remind the 
+administration that IEEPA brings the entire Export Administration Act 
+into force, not just certain provisions.
+  Mr. Speaker, this legislation would remove existing barriers to 
+meaningful enforcement of U.S. sanctions against terrorist financers, 
+proliferators of weapons of mass destruction, Iran, Sudan, and other 
+threats under IEEPA.
+  Current penalties under IEEPA do not constitute an effective 
+deterrent to entities that violate the law by engaging in prohibited 
+transactions.
+  The legislation will remedy that problem by increasing civil 
+penalties from $50,000 to $250,000 and increasing criminal penalties 
+for willful violations to $1 million with a maximum jail sentence of 20 
+years.
+  Mr. Speaker, while I strongly support this increase in penalties to 
+willful and
+
+[[Page H11086]]
+
+knowing violators, I have expressed concern that these increased 
+penalties may be applied without taking into account unintentional, 
+accidental, or inadvertent violations by companies that are trying to 
+comply with the law.
+  I have since been assured by the Departments of Treasury and Commerce 
+that they will not abuse this new authority, and I include for the 
+Record the letter sent to me by Under Secretary of Commerce Mancuso.
+
+                                       Department of Commerce,
+
+                               Washington, DC, September 26, 2007.
+     Hon. Donald A. Manzullo,
+     House of Representatives,
+     Washington, DC.
+       Dear Representative Manzullo: Thank you for your letter of 
+     September 24, 2007, to Secretary Carlos Gutierrez expressing 
+     your concerns over S. 2000, the Export Enhancement Act of 
+     2007 (EEA), and S. 1612, the International Emergency Economic 
+     Powers Enhancement Act, Secretary Gutierrez asked me to 
+     respond to you on his behalf.
+       We share a concern for ensuring the vitality of American 
+     businesses--small, medium and large, while keeping the most 
+     sensitive U.S. goods and technologies out of the hands of 
+     those who would do us harm. The Department of Commerce, 
+     including the Bureau of Industry and Security (BIS), welcomes 
+     your leadership in promoting the role of America's 
+     manufacturing sector in sustaining our country's industrial 
+     innovation and global competitiveness.
+       BIS is focused on ensuring that penalties for violations of 
+     the dual-use export control laws and regulations are 
+     appropriate. These penalties must not bear disproportionately 
+     on small businesses that may have committed a minor, 
+     inadvertent violation. With these goals in common, we can 
+     work together to protect businesses while protecting America.
+       Passage of the EEA is an important step toward this goal, 
+     and for this reason is a high priority of the Secretary. 
+     Although you point out that S. 2000 would substantially 
+     increase penalty levels for civil and criminal violations, we 
+     believe that such levels are necessary to make these 
+     penalties a more effective deterrent to companies that would 
+     intentionally violate the law. Given the national security 
+     issues involved, such as WMD proliferation, terrorism, and 
+     military diversions, we must do all we can to make our export 
+     controls effective.
+       Our intent is not to punish any business unfairly for 
+     minor, accidental violations. As you know, BIS has 
+     implemented a system that mitigates the penalty if certain 
+     elements are met in each case of a violation. It is through 
+     this system, as articulated in the BIS Penalty Guidelines 
+     published in the Code of Federal Regulations in July 2007 (a 
+     copy of which is enclosed for your review), that BIS ensures 
+     that the penalty assessed is commensurate with the 
+     infraction.
+       In civil cases, the published Penalty Guidelines set forth 
+     several factors that may be considered when deciding ultimate 
+     penalty amounts to be imposed, including;
+       1. whether or not the respondent submitted a voluntary 
+     self-disclosure in the case;
+       2. whether the respondent had an export compliance program 
+     in place at the time of the violation;
+       3. whether the respondent has a prior conviction for export 
+     control violations; and
+       4. how cooperative the respondent is with the investigation 
+     by export enforcement officials.
+       These, and other factors, are taken into consideration by 
+     BIS when imposing penalties to ensure the punishment fits the 
+     violation. Further, the Penalty Guidelines are drafted to 
+     allow BIS to take into account company size and the nature of 
+     the specific violations in a way that would warrant smaller 
+     penalty amounts.
+       Additionally, BIS frequently conducts outreach to large and 
+     small businesses to aid in the assessment of their export 
+     compliance programs, and to address general compliance 
+     questions. These visits and outreach programs provide 
+     significant opportunities for the federal government and 
+     exporters to have a dialogue on export controls, penalties, 
+     and compliance concerns. To that end, I would like to offer 
+     to visit your Congressional District and hold roundtable 
+     discussions with business leaders and entrepreneurs.
+       We are working to create, administer and improve an 
+     effective and flexible system of export controls that 
+     recognize the unique situations that U.S. businesses, 
+     particularly small businesses, encounter. Please do not 
+     hesitate to contact me or Bill Houston on my staff at 202-
+     482-6002 at anytime. I value our relationship and look 
+     forward to working together in the future.
+           Sincerely,
+                                                    Mario Mancuso,
+                        Under Secretary for Industry and Security.
+
+  Mr. Speaker, I have also expressed concern about the lack of 
+understanding that most small businesses have concerning export 
+controls and sanctions. Our sanctions and export control laws are the 
+most complex in the world. I believe if we are truly to keep goods and 
+services from embargoed countries, small businesses must have a better 
+understanding of what those prohibited items are.
+  Educated self-governance by small businesses would greatly enhance 
+IEEPA as a deterrent, far more than some of the minimal fines that are 
+currently imposed.
+  Mr. Speaker, I look forward to working with the Departments of 
+Treasury and Commerce to make certain that small businesses clearly 
+understand the law. IEEPA is an important tool in the effort to combat 
+terrorist financing and other illicit activity, such as the 
+proliferation of weapons of mass destruction.
+  I want to thank Chairman Lantos, Ranking Member Ros-Lehtinen and 
+obviously Subcommittee Chairman Sherman for the bipartisan way they 
+have moved this measure. They have worked with the administration to 
+address my concerns. I support passage of this critical improvement to 
+our economic sanctions law.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. SHERMAN. Mr. Speaker, I yield myself 3 minutes.
+  Mr. Speaker, I thank the gentleman for his support of the bill. I 
+thank Chairman Lantos and our ranking member, Ms. Ros-Lehtinen, for 
+their work in bringing this bill to the floor.
+  IEEPA is but one part of an overall effort to use the economic power 
+of the United States to prevent terrorism and the spread of nuclear 
+weapons. I think we have adequately covered in today's debate the 
+importance of this bill to strengthen IEEPA; but I now would like to 
+put IEEPA into overall context and take a look at some of the other 
+economic measures that we should also be employing in our effort to 
+stop the spread of nuclear weapons.
+  This House passed H.R. 1400 designed to improve the Iran Sanctions 
+Act. We need to press our colleagues in the Senate to pass that bill as 
+well. But even more important, we need to press the administration to 
+enforce the Iran Sanctions Act.
+  Many of us know that as the Iran-Libya Sanctions Act, or ILSA. What 
+happened is both the last administration and this administration 
+applied those sanctions to investments in the Libyan oil sector. That 
+was effective. Gaddafi changed his policies, and so we had to rename 
+the bill the Iran Sanctions Act, as we lifted sanctions from Libya.
+  Unfortunately, both the last administration and now this 
+administration have been unwilling to enforce what is now the Iran 
+Sanctions Act, which would be our best tool to put pressure on the 
+regime in Tehran.
+  We need to close Iranian access to the U.S. financial system. I 
+applaud the Treasury Department for blocking access to the New York 
+Federal Reserve Board branch in New York to two major Iranian banks, 
+which begs the question: Why not the others as well?
+  We need to stop World Bank loans to Iran. We need to urge upon our 
+colleagues in the Senate that they pass H.R. 2337, known in their house 
+as S. 1430, to allow American pension plans to divest from those 
+companies doing business in Iran, and we need to urge the Senate to 
+pass similar legislation already passed through this House doing the 
+same thing with regard to investments in Sudan.
+  Finally, we need to make sure that our procurement laws and our laws 
+for assisting businesses like the Ex-Im Bank and OPEC also require that 
+corporations stop investing in the oil sector of Iran if they want the 
+support of U.S. Government agencies.
+  It is time for us not to assume that the only possible response is 
+either to acquiesce in a nuclear Iran or to use military action. It is 
+time for us to get the message to Iranian elites and the Iranian people 
+that they face true economic isolation if they continue down the 
+current course. The way to do that is to muster all of the economic 
+power of the United States towards achieving our national security 
+objectives, and one small step in that direction is for us to pass S. 
+1612 today.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. MANZULLO. Mr. Speaker, I yield back the balance of my time.
+  Mr. SHERMAN. Mr. Speaker, I have no further requests for time, and I 
+yield back the balance of my time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from California (Mr. Sherman) that the House suspend the 
+rules and pass the Senate bill, S. 1612.
+  The question was taken; and (two-thirds being in the affirmative) the
+
+[[Page H11087]]
+
+rules were suspended and the Senate bill was passed.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```

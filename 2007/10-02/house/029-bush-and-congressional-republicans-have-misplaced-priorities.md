@@ -1,0 +1,44 @@
+---
+granule: CREC-2007-10-02-pt1-PgH11077-5
+date: 2007-10-02
+edition: CREC
+section: HOUSE
+page: H11077
+citation: 153 Cong. Rec. H11077
+---
+
+# BUSH AND CONGRESSIONAL REPUBLICANS HAVE MISPLACED PRIORITIES: WAR OVER CHILDREN'S HEALTH
+
+**Speaking:** Ellison, Keith (E000288) [D-MN]
+
+```
+BUSH AND CONGRESSIONAL REPUBLICANS HAVE MISPLACED PRIORITIES: WAR OVER 
+                           CHILDREN'S HEALTH
+
+  (Mr. ELLISON asked and was given permission to address the House for 
+1 minute.)
+  Mr. ELLISON. Mr. Speaker, last week Democrats and Republicans came 
+together here in Congress to pass a bipartisan bill that will ensure 
+that 10 million low-income children have access to private health care 
+insurance. The bill would invest $35 billion more over the next 5 years 
+in the Children's Health Insurance Program. It's fully paid for, as 
+this Congress has vowed to pay as we go.
+  Despite receiving strong bipartisan support here in Congress, 
+President Bush is threatening to veto this legislation. He says the 
+bill is simply too big. Instead, the President proposes a $5 billion 
+funding increase that the nonpartisan CBO concludes would force 800,000 
+children to lose their health insurance.
+  Talk about misplaced priorities. President Bush didn't bat an eye 
+when the Pentagon said that it needed as much as $200 billion, with a 
+``b,'' over the next year to continue the war in Iraq.
+  Mr. Speaker, President Bush has no problem sending billions of 
+dollars to
+
+[[Page H11078]]
+
+Iraq every day, but doesn't seem inclined to support an investment in 
+children's health care here in the U.S. Talk about misplaced 
+priorities.
+
+                          ____________________
+```

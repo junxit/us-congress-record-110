@@ -1,0 +1,42 @@
+---
+granule: CREC-2007-10-02-pt1-PgH11076-6
+date: 2007-10-02
+edition: CREC
+section: HOUSE
+page: H11076
+citation: 153 Cong. Rec. H11076
+---
+
+# MOURNING TAYLOR BRADFORD AND URGING CONGRESS TO PASS THE COPS BILL
+
+**Speaking:** Cohen, Steve (C001068) [D-TN]
+
+```
+   MOURNING TAYLOR BRADFORD AND URGING CONGRESS TO PASS THE COPS BILL
+
+  (Mr. COHEN asked and was given permission to address the House for 1 
+minute.)
+  Mr. COHEN. Mr. Speaker, on Sunday night a football player, a young 
+man named Taylor Bradford on the University of Memphis football team, 
+was murdered on our campus. The football team, the City of Memphis, and 
+the
+
+[[Page H11077]]
+
+university mourn the passing of this fine young man.
+  We play a game tonight on ESPN2 against Marshall, and there will be a 
+moment of silence, a moment of silence for that young man's memory.
+  But while it is a national news event because he was a football 
+player, he is an example of people who have senselessly been killed in 
+this country, and there are crime problems everywhere. That is why we 
+need to pass the COPS bill that this House has passed and the Senate 
+should pass to provide community policing and aid for local governments 
+to hire more policemen, to have feet on the streets to protect our 
+citizenry.
+  While there are horror stories in Baghdad, there are horror stories 
+in America; and we need to protect our own.
+  I will remember Taylor Bradford, and I will remember all victims of 
+senseless crime tonight.
+
+                          ____________________
+```
