@@ -1,0 +1,37 @@
+---
+granule: CRECB-2007-pt19-Pg26286-5
+date: 2007-10-03
+edition: CRECB
+section: HOUSE
+page: 26286
+---
+
+# DEMOCRATIC ACCOMPLISHMENTS PRIORITIZING THE NEEDS OF VETERANS AND SOLDIERS
+
+```
+   DEMOCRATIC ACCOMPLISHMENTS PRIORITIZING THE NEEDS OF VETERANS AND 
+                                SOLDIERS
+
+  (Mr. ALTMIRE asked and was given permission to address the House for 
+1 minute.)
+  Mr. ALTMIRE. Mr. Speaker, this Democratic Congress has a strong 
+record of delivering on our promise to the American people and 
+providing real and meaningful change. And we have done so in a fiscally 
+responsible way, instituting pay-as-you-go, deficit reduction 
+discipline.
+  One area where we have made real progress for the American people is 
+by supporting the men and women who serve our Nation in the Armed 
+Forces. Under Democratic control, this House provided substantially 
+more than the President requested for the new M- RAP vehicles proven to 
+save lives in Iraq. We voted to give our troops a pay raise that the 
+President called ``unnecessary.'' We strengthened military health care 
+with the Wounded Warriors Act to clean up the inadequate care of 
+wounded soldiers at Walter Reed and other facilities. And the 
+Democratic House voted to provide the largest increase in funding for 
+VA health care in the history of this country.
+  Mr. Speaker, these investments that support our veterans and troops 
+overseas are just a few examples of how our Democratic Congress is 
+taking America in a new direction.
+
+                          ____________________
+```
