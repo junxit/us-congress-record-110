@@ -1,0 +1,1918 @@
+---
+granule: CREC-2007-10-03-pt1-PgH11203-2
+date: 2007-10-03
+edition: CREC
+section: HOUSE
+page: H11203
+citation: 153 Cong. Rec. H11203
+---
+
+# CHILDREN'S HEALTH INSURANCE PROGRAM REAUTHORIZATION ACT OF 2007--VETO MESSAGE FROM THE PRESIDENT OF THE UNITED STATES (H. DOC. NO. 110-62)
+
+**Speaking:** Hoyer, Steny H. (H000874) [D-MD], Barton, Joe (B000213) [R-TX], Stark, Fortney Pete (S000810) [D-CA], McCrery, Jim (M000388) [R-LA], Pallone, Frank (P000034) [D-NJ], Boehner, John A. (B000589) [R-OH], Shea-Porter, Carol (S001170) [D-NH], Camp, Dave (C000071) [R-MI], Blunt, Roy (B000575) [R-MO], Clyburn, James E. (C000537) [D-SC], Deal, Nathan (D000168) [R-GA], Blackburn, Marsha (B001243) [R-TN], Kagen, Steve (K000365) [D-WI], Brady, Kevin (B000755) [R-TX], Rodriguez, Ciro D. (R000568) [D-TX], Pelosi, Nancy (P000197) [D-CA], Lungren, Daniel E. (L000517) [R-CA], Altmire, Jason (A000362) [D-PA], Blumenauer, Earl (B000574) [D-OR], Price, Tom (P000591) [R-GA], Boustany, Charles W., Jr. (B001255) [R-LA], Emanuel, Rahm (E000287) [D-IL], Giffords, Gabrielle (G000554) [D-AZ], Murphy, Christopher (M001169) [D-CT], Schakowsky, Janice D. (S001145) [D-IL], McNerney, Jerry (M001166) [D-CA], Kingston, Jack (K000220) [R-GA], Solis, Hilda L. (S001153) [D-CA], Lewis, Jerry (L000274) [R-CA], Doggett, Lloyd (D000399) [D-TX], Sanchez, Loretta (S000030) [D-CA], Dingell, John D. (D000355) [D-MI]
+
+**Measures:** H.R. 976
+
+```
+ CHILDREN'S HEALTH INSURANCE PROGRAM REAUTHORIZATION ACT OF 2007--VETO 
+  MESSAGE FROM THE PRESIDENT OF THE UNITED STATES (H. DOC. NO. 110-62)
+
+  The SPEAKER pro tempore laid before the House the following veto 
+message from the President of the United States:
+To the House of Representatives:
+  I am returning herewith without my approval H.R. 976, the 
+``Children's Health Insurance Program Reauthorization Act of 2007,'' 
+because this legislation would move health care in this country in the 
+wrong direction.
+  The original purpose of the State Children's Health Insurance Program 
+(SCHIP) was to help children whose families cannot afford private 
+health insurance, but do not qualify for Medicaid, to get the coverage 
+they need. My Administration strongly supports reauthorization of 
+SCHIP. That is why I proposed last February a 20 percent increase in 
+funding for the program over 5 years.
+  This bill would shift SCHIP away from its original purpose and turn 
+it into a program that would cover children from some families of four 
+earning almost $83,000 a year. In addition, under this bill, government 
+coverage would displace private health insurance for many children. If 
+this bill were enacted, one out of every three children moving onto 
+government coverage would be moving from private coverage. The bill 
+also does not fully fund all its new spending, obscuring the true cost 
+of the bill's expansion of SCHIP, and it raises taxes on working 
+Americans.
+  Because the Congress has chosen to send me a bill that moves our 
+health care system in the wrong direction, I must veto it. I hope we 
+can now work together to produce a good bill that puts poorer children 
+first, that moves adults out of a program meant for children, and that 
+does not abandon the bipartisan tradition that marked the enactment of 
+SCHIP. Our goal should be to move children who have no health insurance 
+to private coverage, not to move children who already have private 
+health insurance to government coverage.
+                                                      George W. Bush.  
+                                      The White House, October 3, 2007.
+
+  The SPEAKER pro tempore. The objections of the President will be 
+spread at large upon the Journal, and the veto message and the bill 
+will be printed as a House document.
+
+
+                      Motion Offered by Mr. Hoyer
+
+  Mr. HOYER. Madam Speaker, I have a privileged motion at the desk.
+  The SPEAKER pro tempore. The Clerk will report the motion.
+  The Clerk read as follows:
+
+       Mr. Hoyer moves that further consideration of the veto 
+     message and the bill, H.R. 976, be postponed until October 
+     18, 2007.
+
+  The SPEAKER pro tempore. The gentleman from Maryland (Mr. Hoyer) is 
+recognized for 1 hour.
+
+[[Page H11204]]
+
+  Mr. HOYER. Madam Speaker, for the purposes of debate only, I yield 30 
+minutes to the gentleman from Texas (Mr. Barton), and pending that, I 
+yield myself such time as I may consume.
+  Mr. BARTON of Texas. Madam Speaker, I ask unanimous consent that of 
+the 30 minutes yielded me, 15 minutes of that be yielded to the ranking 
+member of the Ways and Means Committee, Mr. McCrery.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Texas?
+  There was no objection.
+  Mr. HOYER. Madam Speaker, earlier today, the President of the United 
+States, in defiance of bipartisan majorities in the House and Senate, 
+and in defiance of the will of a great majority of Americans, vetoed 
+fiscally responsible legislation that would ensure that 10 million 
+children in our Nation receive health insurance coverage. That's 
+approximately 4 million more children than are covered under the highly 
+successful Children's Health Insurance Program today.
+  I remind the Members of the House that that program was adopted in 
+1997 by a Republican-controlled Congress with strong Democratic 
+support, a bipartisan program. Let us be clear, this is a defining 
+moment for this Congress and for a President who has labeled himself a 
+compassionate conservative.
+  The President's veto, my colleagues, must not stand. The President 
+wrongly claims that this bipartisan legislation is fiscally 
+irresponsible. But the truth is the Children's Health Insurance Program 
+legislation, forged by Members on both sides of this aisle, is paid 
+for. It does not add to the deficit or to the debt. Moreover, President 
+Bush, whose policies over the last 6 years have instigated record 
+budget deficits and spiraling debt, should not be lecturing anyone on 
+the issue of fiscal discipline. This administration, I suggest to all 
+of us, has pursued and enacted the most fiscally irresponsible policies 
+perhaps in American history. In fact, even as the President vetoed this 
+CHIP legislation, all of it paid for, he has asked Congress to approve 
+another $190 billion to protect Baghdad and its environs. Mr. 
+President, we need to protect the children of Bowie, of New York, of 
+Peoria, of Miami, of California.
+  In fact, even as the President vetoed, as I said, this legislation, 
+he sent to us a $190 billion request for more money for the war in 
+Iraq, the civil war in Iraq, a place where, very frankly, it is far 
+past time where the people of Iraq took the responsibility to defend 
+and secure their country.
+  This legislation that the President has vetoed is about securing the 
+health of America's children. With this veto, the President is playing 
+politics, pure and simple.
+  After running up record deficits in debt, he is now trying to 
+establish his fiscal bona fides with his conservative political base by 
+denying health services to children.
+  Mr. President, it won't work. Mr. President, it shouldn't work. Mr. 
+President, it is not compassionate, nor is it common sense.
+  Senator Hatch, no one's idea of a liberal or of a Democratic 
+spinmeister, said on the Senate floor last week, and I quote, ``It is 
+unfortunate that the President has chosen to be on what, to me, is 
+clearly the wrong side of the issue.'' That was Senator Hatch.
+  I hope all of us in this body, Republican and Democrat, decide, when 
+this vote comes up, to determine whether or not the Congress should 
+make policy or whether we will be subservient to the President's veto 
+in protecting children.
+  I hope all of us, Republican and Democrat, liberal, moderate and 
+conservative, will join together to respond to the children of this 
+country and their families who agonize about not having the health 
+insurance they need so that their children can be kept healthy.
+  Senator Roberts of Kansas remarked, another leader in the Republican 
+Party, ``I am not for excessive spending and strongly oppose the 
+federalization of health care. And if the administration's concern with 
+this bill were accurate, I would support a veto, but bluntly put,'' 
+said Senator Roberts from Kansas, who served in this body, ``the 
+assertions of the President,'' he said, ``are wrong.'' Technically, he 
+said that the premises were inaccurate.
+  Madam Speaker, this legislation is not only supported by majorities 
+in the House and Senate, it is supported by doctors, nurses, private 
+insurers, children's advocates, 43 Governors. The list goes on and on 
+and on. But most importantly, most importantly, it's supported by the 
+parents of children who are working, working hard every day, playing by 
+the rules. Perhaps both are working, if they're fortunate to have two 
+parents in the home, or a single parent, mom or dad, working hard, but 
+making too little to afford insurance and working for an employer who 
+can't give them insurance. Most of all, that is the constituency, that 
+is the voice we ought to hear, that is why we ought to override this 
+veto.
+  According to an ABC News-Washington Post poll released just this 
+week, 72 percent of Americans, including 61 percent of Republicans, 
+support this legislation, 69 percent of independents. What is perhaps 
+most stunning of all is that, with this veto, the President has 
+violated his own pledge at the Republican National Convention in 2004. 
+You've heard me say this before, but let me say it again: ``In a new 
+term we will lead an aggressive effort to enroll millions of children 
+who are eligible but not signed up for government programs.'' ``We will 
+not allow,'' said the President, ``a lack of attention or information 
+to stand between these children and the health care they need.'' Mr. 
+President, that is what you have done by this veto, stood between those 
+children and the insurance they need.
+  I urge my colleagues, override this veto, support this motion, and on 
+October 18 let us vote for the children.
+  Madam Speaker, I reserve the balance of my time.
+  Mr. BARTON of Texas. Madam Speaker, I yield myself 3 minutes.
+  Madam Speaker, there is politics being played in this body this 
+afternoon, but it's not by the President of the United States.
+  When the SCHIP bill was up for reauthorization back in early 
+September, people like myself asked that we have a regular process, 
+have some time to review the bill, have some markups, learn what was in 
+it, since we had gotten it the night before about midnight.
+  Mr. HOYER. Will my friend yield just for a technical matter?
+  Mr. BARTON of Texas. I yield to the gentleman from Maryland.
+  Mr. HOYER. Madam Speaker, I ask unanimous consent that the remainder 
+of my time be equally divided and controlled by the gentleman from New 
+Jersey (Mr. Pallone) and the gentleman from California (Mr. Stark).
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Maryland?
+  There was no objection.
+
+                              {time}  1445
+
+  Mr. BARTON of Texas. At that time, we were told that we didn't have 
+time for that, that we had to move that bill before September 30 so 
+that the children of America wouldn't lose their health insurance. 
+Well, that bill, the CHAMP Act, passed this body. It never was brought 
+up in the other body. Thankfully, it is gone. So you would think that 
+with the continuing resolution that passed last week, we would now have 
+some time to look at the SCHIP issue on a bipartisan basis here in the 
+House and come up with a compromise that could be passed and signed by 
+the President before the continuing resolution expires on, I think, 
+November 16.
+  What we are being told today is that since the President vetoed the 
+bill, we don't want to vote on the veto today, we want to postpone it, 
+I believe, until October 18. Now, why is that? If it was such a rush 
+last month, you would think that it would still be a rush now and they 
+would want to get the veto out of the way and then work together to 
+come up with a bill that the President would sign. So it would seem to 
+me that the Democrats are saying, Well, let's have a 2-week period here 
+to try to play politics with this.
+  I think that is wrong. I checked with the Parliamentarian about when 
+was the last time a motion to postpone a veto was authorized by the 
+House. It is not done very often. The last time was 1996. So I would 
+hope we would defeat this motion to postpone and let me offer a 
+substitute motion to refer the veto to the committee of jurisdiction. 
+We then could have a process, have a bipartisan compromise, and bring 
+it up within 2 weeks and vote for it, send it
+
+[[Page H11205]]
+
+to the other body and send it to the President, and I bet he would sign 
+it. That is what we should be doing, not voting to postpone a veto vote 
+which we know when that veto vote comes, we will sustain the 
+President's veto.
+  With that, Madam Speaker, I reserve the balance of my time.
+  The SPEAKER pro tempore. The gentleman from California has 12 
+minutes. The gentleman from New Jersey has 12 minutes. The gentleman 
+from Texas has 12\1/2\ minutes. The gentleman from Louisiana has 15 
+minutes.
+  Mr. STARK. Madam Speaker, I yield myself such time as I may consume.
+  (Mr. STARK asked and was given permission to revise and extend his 
+remarks.)
+  Mr. STARK. I just want to remind my colleagues that we are dealing 
+with a President who has a very short memory. Just 2 days ago, he 
+proclaimed October 1 as Child Health Day 2007. Today, he just trashed 
+that. I don't know what he thought he was doing when he talked about 
+improving the lives of children and preventing and reducing the cost of 
+disease and promoting community health, because he is just following a 
+position that denies 1 million kids the right to health care.
+  So I hope, Mr. President, that you certainly don't proclaim a Protect 
+Congress Day, or we are all in deep trouble.
+  This veto of the Children's Health Insurance Program compromise 
+legislation is finally showing the American people the President's true 
+priorities. He is a war President. All he cares about is war and more 
+war. The previous speaker on our side talked about $190 billion for the 
+war in Iraq, and these funds aren't paid for. They add to the deficit. 
+In addition to our children having to look around for health care, they 
+are going to have to look around to pay for that illegal war.
+  Simultaneously voting to extend a State Children's Health Insurance 
+Program would be a good program. We would extend health care to nearly 
+4 million children, and the President is cutting a million off that 
+cost a fraction of his illegal war. It is fully paid for and doesn't 
+increase the deficit one penny. It passed both the House and the Senate 
+with strong bipartisan majorities.
+  What's wrong with our Republican minority? Why do they insist on 
+denying 1 million children, kicking them off the rolls of SCHIP? Why do 
+they scorn in the face of 43 of the Nation's Governors who have written 
+to the President and argued against his vetoing this bill?
+  President Bush says he has his own plan. I don't know if he had that 
+when he declared October 1 as Child Health Day. Whatever that plan is, 
+it would cause millions of children to lose their health care. My own 
+Republican Governor, Arnold Schwarzenegger, estimates that the 
+President's plan would cause 1 million children to be denied health 
+care in California by the year 2012.
+  This is a matter of life and death for our children's insurance. 
+Children with health care do better in school, in life, and have their 
+illnesses caught before it is too late. Ladies and gentlemen, the axis 
+of evil is not just in the Middle East. It is right down here on 
+Pennsylvania Avenue.
+  I urge my colleagues to reject the President's veto, have a 
+compromise bill to assure the health of America's children and make 
+sure that that is put ahead of some obscure, extreme, radical ideology.
+  Madam Speaker, I reserve the balance of my time.
+
+
+                Announcement By The Speaker Pro Tempore
+
+  The SPEAKER pro tempore. Members are reminded to not address the 
+President in the second person but, rather, to address their remarks to 
+the Chair.
+  Mr. McCRERY. Madam Speaker, I yield myself such time as I may 
+consume.
+  Madam Speaker, I am only going to make one point during my brief 
+remarks, and then I am going to ask unanimous consent to turn over the 
+time for allocation of time to Mr. Camp.
+  The point that I want to make is that the President's veto will be 
+sustained, and that should allow the opportunity for Democrats and 
+Republicans to sit down in this House and listen to each other as far 
+as how we can reach a compromise on this important legislation.
+  I was a Member of the House back in 1996 when we passed welfare 
+reform for the third time. We had a Republican majority and a 
+Democratic President. The Democratic President vetoed welfare reform 
+twice. Basically, he told us, the majority Republicans, Look, I want 
+Democrats to be at the table to try to get a compromise on this 
+important legislation. That is what ultimately occurred. The President 
+signed welfare reform on the third try. Then, in 1997, we had the 
+Balanced Budget Act. There were considerable Medicare reforms in that 
+act. President Clinton said the same thing. He said, Look, I want 
+Democrats at the table. We allowed them to the table. I was in the room 
+when Democrats, Republicans and a member of the Clinton administration 
+sat down together to hash out the details, very nitty-gritty details, 
+of the Medicare portion of the BBA.
+  That is what should happen now with SCHIP. SCHIP was passed in 1997, 
+as part of that 1997 effort, as a bipartisan effort. It should remain a 
+bipartisan initiative. Unfortunately, the minority in this House and in 
+the House of Representatives was excluded from the outset from 
+discussions regarding the SCHIP legislation. The Senate, yes, had more 
+of a bipartisan discussion. We were never included in that discussion, 
+either. So we think we deserve, and I think the President thinks we 
+deserve, a seat at the table to discuss this very important issue. I 
+hope that is what finally emerges from this veto.
+  I don't know why the majority wants to postpone the override vote for 
+over 2 weeks. It just doesn't make sense to me if you want to get this 
+done in a rational, reasonable manner this calendar year. It seems to 
+me you would want to have the override vote immediately so we could get 
+right on with the business of trying to compromise and give the 
+President something that he could sign. I don't know why they are not 
+doing that. But, in any event, at the end of this road when we sustain 
+the veto, I am very hopeful that the majority now will act as the 
+majority back in 1996 and 1997 did and give us all a seat at the table 
+so we can work this out.
+  With that, Madam Speaker, I would ask unanimous consent that Mr. Camp 
+be allowed to allocate the remainder of my time.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Louisiana?
+  There was no objection.
+  Mr. McCRERY. Madam Speaker, I reserve the balance of my time.
+  Mr. PALLONE. Madam Speaker, I yield myself such time as I may 
+consume.
+  Madam Speaker, the Children's Health Insurance Program 
+Reauthorization Act passed the House and the Senate with overwhelming 
+bipartisan support. I would stress ``bipartisan'' because I listened to 
+the gentleman from Louisiana. He neglects to mention that Republicans 
+were at the table, Senator Grassley, Senator Hatch, and certainly a 
+large number of Republicans who voted for this as well in the House of 
+Representatives. The bill also has overwhelming support with the 
+American people.
+  Yet this is a bill that the President has been threatening to veto 
+since this summer. I don't know what happened to the President's 
+compassion or sense of social justice. I don't think he understands the 
+negative impact his veto will have on the millions of children who 
+would be denied regular visits to see the doctor because he refused to 
+sign this bill into law.
+  Now, let's review who stands for what. Under the bipartisan bill that 
+the President vetoed this morning, 4 million previously uninsured low-
+income children, many of whom are in working families, I know there was 
+a reference to welfare from the gentleman from Louisiana. I don't think 
+he was referencing these kids or their families because these are 
+working families. But 4 million previously uninsured low-income 
+children who are in working families would get health coverage under 
+this bill. A total of 10 million children would have their health 
+coverage secured.
+  Under the bipartisan bill, the vast majority of children covered are 
+the lowest income children who are today uninsured. According to the 
+CBO, under the bipartisan bill, about 84 percent of the uninsured 
+children who would benefit live in families with incomes below $40,000 
+a year. In addition,
+
+[[Page H11206]]
+
+1.7 million uninsured children who are eligible for Medicaid but 
+otherwise would be uninsured would gain coverage under the agreement. 
+Most of these would likely be children living in families with incomes 
+below $20,000 a year. Under the bipartisan bill, States would have new 
+tools to conduct outreach and enrollments. States could use express-
+lane, one-stop-shopping at places like schools, community centers and 
+hospitals to get children covered.
+  The President, while he recently put out a regulation that would 
+actually block schools from helping to sign low-income, uninsured 
+children up for coverage, he put out another regulation that would 
+force children to go an entire year, that is one whole year, without 
+insurance coverage before their parents could sign them up for CHIP. 
+That is 1 year of earaches, strep throat, asthma, diabetes and 
+toothaches that would be treated in emergency rooms rather than the 
+doctor's office. The President talked about how kids can go to the 
+emergency room. Well, has he been to an emergency room lately? I was at 
+one in my district last weekend. It is not a great place for a kid to 
+visit. It is a scene of trauma. People who have overdosed on alcohol 
+and drugs. Most emergency rooms are overwhelmed with real emergencies 
+and have few resources to treat people who need regular family care.
+  The President makes $400,000 a year. He is guaranteed health care for 
+life. He has a government doctor that is at his immediate call. Yet 
+today this President has denied millions of low-income children and 
+working families the opportunity to get even basic health care. Working 
+Americans understand the struggle families have to make ends meet and 
+afford health care coverage for their children. But the President and 
+very few, because I am not talking about all Republicans, but very few 
+of my colleagues on the other side of the aisle appear to be the only 
+people in America who do not understand the challenges these families 
+face or the importance of securing affordable coverage for their 
+children.
+  It is a sad day, Madam Speaker, for America that the President vetoed 
+this bill. But there is an opportunity over the next 2 weeks, because I 
+want everyone to support this motion, but in about a week or two, we 
+are going to have a vote on the floor. I would urge all those on the 
+other side of the aisle who did not vote for this bill to use that time 
+to reconsider and think about these kids when they go and cast their 
+vote and vote to override this veto by the President.
+  Madam Speaker, I reserve the balance of my time.
+  Mr. BARTON of Texas. Before I yield to Mr. Deal, I want to ask the 
+distinguished subcommittee chairman a question if I could, and I will 
+do it on my time.
+  Why are we postponing for 2 weeks?
+
+                              {time}  1500
+
+  Mr. PALLONE. I would hope that the Members on the other side of the 
+aisle, including the ranking member, who I have a great deal of respect 
+for, would use the time to contemplate, perhaps go to an emergency 
+room.
+  Mr. BARTON of Texas. Madam Speaker, reclaiming my time, we are not 
+postponing for any substantive reason; we are just postponing for 
+political reasons.
+  Mr. PALLONE. Madam Speaker, it is not a political reason if you use 
+the time to think about what this is all about. That is what I would 
+urge you to do.
+  Mr. BARTON of Texas. Madam Speaker, I yield 1 minute to the 
+distinguished minority leader, the gentleman from Ohio (Mr. Boehner).
+  Mr. BOEHNER. Madam Speaker, let me thank my colleague from Texas for 
+yielding.
+  Madam Speaker, I remind my colleagues that we created the SCHIP 
+program 10 years ago in a bipartisan way to help insure low-income 
+children who did not have access to high quality health insurance. 
+Republicans continue to believe that we ought to have this program and 
+that we ought to find a way to ensure low-income children have access 
+to the kind of quality health care that our children enjoy.
+  This move today to delay the override of this veto is the most 
+partisan political activity I have seen in this Congress all year. If 
+you're really serious about trying to help children get access to low-
+cost health care, make sure that they have the insurance they need, we 
+would have the veto override today, we would have it right this minute, 
+and then we would start to sit down in a bipartisan way and work out 
+our differences and ensure that we get low-income kids the kind of 
+health care that they need.
+  Madam Speaker, yes, there are differences over this program. Some 
+believe that having adults, and in some States, almost half the people 
+involved in the program are adults, let's make sure that low-income 
+kids, the target of this program, is met. But, no, we are not going to 
+do that, unfortunately. We are going to do what the American people 
+have said they are sick and tired of; we are going to do political 
+games. That is what this delay is intended to do, to allow more time 
+for the political games to go on, exactly what the American people have 
+said they are sick and tired of.
+  Madam Speaker, I think we should have the vote today. Let's just go 
+ahead and have the vote. We are going to sustain the President's veto. 
+Then let's sit down together and do what the American people expect of 
+us, and that is to make sure that this program is continued and 
+children's health care in America is taken care of.
+  Mr. STARK. Madam Speaker, I yield myself such time as I may consume.
+  Madam Speaker, I intend to recognize in a moment Ms. Shea-Porter from 
+New Hampshire, but pending that, a couple of comments.
+  Madam Speaker, I would like to suggest that the 45 Republicans who 
+voted for our bill, if they are being disregarded by Republican 
+leadership, we have a lot of room over here and would welcome them on 
+our side. I also suggest to the distinguished ranking member of the 
+Energy and Commerce Committee, while his 2-year-old may not be ready 
+for it yet, as somebody who is raising two children who are now 6, the 
+reason we are waiting is for what we call in our household a ``time-
+out.'' You go to your room and think about the mistake you made, and 
+when you're ready to apologize and come back and set things straight, 
+you can come out of your room. That is what the 2-week period is all 
+about.
+  Mr. BARTON of Texas. Madam Speaker, if the gentleman will yield, my 
+2-year-old hasn't needed a time-out yet.
+  Mr. STARK. He will.
+  Madam Speaker, I yield 1 minute to the gentlewoman from New Hampshire 
+(Ms. Shea-Porter).
+  Ms. SHEA-PORTER. Madam Speaker, Americans are divided over many 
+issues, but we are not divided over health care for our children. We 
+are a good people, and we want our children to have health care. None 
+of us want to see children in this country without health care; none, 
+except for the President and his Republican supporters in Congress, 
+that is.
+  Madam Speaker, the President and his supporters in Congress want to 
+take hardworking American tax dollars and spend them, but not on the 
+kids; no, in Iraq, in the middle of a civil war, with the $190 billion, 
+which is the President's new request for Iraq, as he turns around to 
+the children and the hardworking families of America and says, Just 
+don't get sick, kids.
+  Mr. President, that is not acceptable.
+  Mr. CAMP of Michigan. Madam Speaker, I yield 4 minutes to the 
+distinguished whip, the gentleman from Missouri (Mr. Blunt).
+  Mr. BLUNT. Madam Speaker, I thank the gentleman for yielding.
+  Madam Speaker, like others, I am disappointed we are not going 
+forward today to sustain the President's veto, an outcome that I think 
+no matter how much time anybody has in the time-out chair will be the 
+result. If we were moving forward today and sustaining the veto, then 
+we could get together and try to have a bill that does what I think all 
+of us want to do.
+  Madam Speaker, all of us don't want to do everything, but all of us 
+do want to do some things. We all want a program that meets the needs 
+of poor kids first. That is why when we put this in place in 1997, we 
+said, look, kids, whose families are at the poverty level or below, 
+they have access to Medicaid. But what about people who are kids whose 
+parents are working, and working in jobs where they don't likely have 
+access to insurance? Let's prioritize those kids.
+  Madam Speaker, as a minimum, whatever we do as we move forward, let's 
+have a standard that the States
+
+[[Page H11207]]
+
+have to meet, the administration proposed 95 percent, Mr. Barton 
+proposed 90 percent, but some percentage of kids whose families are in 
+those jobs that may not have access to insurance. Before we go on and 
+just simply talk about insuring kids, this should be a program that is 
+focused on poor kids, not a program that is on more kids.
+  Madam Speaker, some of our friends say, well, if a program that would 
+give health care to poor kids is a good thing, a program that would 
+give health care to all kids or more kids must be a great thing. It is 
+just simply not accurate. Things that destroy the private insurance 
+market, things that don't meet the needs of the program before you move 
+on to do more are not the kinds of things we ought to be focused on.
+  We need to be sure that we are covering people who are uninsured, not 
+people who are insured, and then moving from insurance to government-
+paid health care, Washington-based health care. There are going to be 
+situations, I guarantee, if we start insuring all the kids in America, 
+or all the kids that this bill says that we are going to insure, where 
+moms are going to wind up in houses that have both a mom and dad as the 
+only person not insured.
+  Madam Speaker, think with me for just a minute. Dad has a job; 
+insurance comes with dad's job. The government comes in and says we are 
+going to insure the kids. Who gets left out then? It's mom. Our mom has 
+a job, and while she is struggling with the job, she has to figure out 
+how to insure herself and the kids, because insurance didn't come with 
+the job. Then the government decides to insure the kids, and mom says, 
+well, maybe I don't need insurance anymore.
+  Some of our friends will say, well, that is why we are insuring 
+adults. This should not be a program about insuring adults. One of the 
+reasons this program hasn't worked as well as it should have is too 
+many States move to insuring adults before they would insure poor kids.
+  Madam Speaker, let's get on with this debate. I regret the fact that 
+we are not able to start tomorrow because we went ahead and did today 
+what is going to happen in two weeks. But let's get on with this 
+debate. Let's be sure we provide a stable funding source for a program 
+for poor kids and we put poor kids first in a program that is supposed 
+to be about helping kids whose families are working, but working in 
+jobs that aren't likely to have insurance.
+  Mr. PALLONE. Madam Speaker, I yield 2 minutes to the majority whip, 
+the gentleman from South Carolina (Mr. Clyburn).
+  Mr. CLYBURN. Madam Speaker, I thank my colleague for yielding at this 
+time.
+  Madam Speaker, I rise today on behalf of the 112,000 uninsured 
+children in my home State of South Carolina and the millions of other 
+uninsured children across the country. Many of the uninsured children 
+in my home State come from lower-income and working families, most of 
+whom devote nearly all of their earnings to providing their children 
+the basic necessities, such as shelter, food and clothing. Without 
+CHIP, most of these families would not be able to provide their 
+children with the health care they deserve.
+  Madam Speaker, in vetoing this bill, President Bush has shown the 
+American people that his priorities are not with our Nation's 
+uninsured; his priorities are not with the millions of families 
+struggling to make ends meet. This President will have you believe that 
+it is more important to reach out to America's millionaires and 
+billionaires because, according to the President, they are the ones who 
+are being left behind, not our children, not our uninsured, and not our 
+hardworking families.
+  Madam Speaker, by opposing this legislation, the President is 
+rebuking an overwhelming majority of Americans. CHIP has broad 
+bipartisan support in the Senate and House, and 43 Governors and 300 
+advocacy groups have endorsed this legislation.
+  Support for this bill is high because it seeks to do what is right. 
+It is right to insure children from poor and low-income families. It is 
+right to extend coverage to 2.4 million minority children.
+  So I encourage my colleagues to do what is right and support this 
+legislation. In doing what is right, you will be standing up for the 
+uninsured. In doing what is right, you will be standing up for millions 
+of hardworking American families. In doing what is right, you will be 
+putting the needs of our children first.
+  Mr. BARTON of Texas. Madam Speaker, I yield 2\1/2\ minutes to the 
+distinguished subcommittee ranking member from Georgia (Mr. Deal).
+  Mr. DEAL of Georgia. Madam Speaker, I thank the gentleman for 
+yielding.
+  Madam Speaker, the State Children's Health Insurance Plan, there 
+ought to be something that we can agree on. The first is that the 
+program ought to be for children. And yet we are told that in the bill 
+the President has rightfully vetoed, in 5 years there will be 780,000 
+adults still in a children's health program.
+  Secondly, this program ought to be, as its primary target was, for 
+children below 200 percent of poverty. We know that in States that have 
+gone above the 200 percent level, they have left behind up to a quarter 
+of their children in their State that are below 200 percent of poverty, 
+and there is nothing in this bill that requires them to go back and 
+make sure that they enroll those children. In fact, this legislation 
+repeals the outline that CMS had put out to require 95 percent 
+saturation of children below 200 percent of poverty. So there is no 
+effort to go back and do what the program was designed to do, and that 
+is to help those between the 100 and 200 percent of poverty.
+  Madam Speaker, the third thing is that we all ought to agree that 
+Medicaid and SCHIP ought to be for Americans, for American children. 
+The change that this bill puts into place will allow people who are not 
+qualified under our current law for Medicaid or SCHIP to become 
+eligible. CBO says that the Federal cost of that alone is $3.7 billion.
+  I think the last thing we ought to agree on is that we should not 
+take a major step toward socializing health care in this country. This 
+bill does nothing to prevent States from having what is called ``income 
+disregards.'' That is, if a State says, well, we just won't count what 
+it costs for housing, we won't count what it costs for food, we won't 
+count what is costs for transportation in computing your percent of 
+poverty eligibility, then you can go up to 800 percent of poverty. And 
+that certainly distorts the program.
+  Madam Speaker, lastly, we want to talk about time and the use of 
+time. We knew 10 years ago that this bill was going to expire at the 
+end of last month. This was a 10-year authorization bill. We knew in 
+1997 when it was put in place that it was going to expire at the end of 
+September of this year. We knew 9 months ago when this Congress went 
+into session that unless something was done, the legislation was going 
+to expire the end of September. And yet only at the last minute was 
+legislation presented in this House, with no legislative hearing, and 
+then asked to be voted on, and not a single House Republican 
+participated in the conference committee report that we are now being 
+asked to sustain and to agree to at this point.
+  Mr. STARK. Madam Speaker, I reserve the balance of my time.
+  Mr. CAMP of Michigan. Madam Speaker, I yield myself 2 minutes.
+  Madam Speaker, House Republicans strongly support the SCHIP program, 
+and, as many speakers have said, this program was created on a 
+bipartisan basis 10 years ago. We are advocating that the program 
+remain what it was intended to be, and that was a program that helps 
+low-income children who cannot otherwise get health insurance.
+  Had we been able to sit down on a bipartisan basis anytime over the 
+past 9 months, I am convinced that we could have come to an agreement 
+that reauthorizes this important program without turning it into a 
+massive expansion of government-controlled health care. Instead, the 
+majority first produced a massive expansion of SCHIP, partially paid 
+for by cuts to Medicare.
+  Madam Speaker, fundamentally, the majority chose to shortchange the 
+most vulnerable members of our society, seniors and the disabled, in 
+order to force middle and upper middle-class families out of private 
+health insurance and into a government program.
+
+                              {time}  1515
+
+  Then the majority was confronted with the reality that Members of the
+
+[[Page H11208]]
+
+other body would not cut Medicare, so they passed the Senate's version 
+of SCHIP. That bill, instead of cutting government funds for seniors 
+and the disabled to expand SCHIP as a middle-class entitlement, raised 
+taxes on the working poor to expand SCHIP.
+  Now the majority is again forced to face reality. In order for a bill 
+to become law, it must be signed by the President of the United States, 
+and this President's position is clear: SCHIP should help low-income 
+kids first. Before you expand coverage to families earning $62,000 or 
+$83,000 a year, 300 or 400 percent of the poverty level, you need to 
+cover children in families earning less than 200 percent a year. That 
+is about $42,000 a year. That is just common sense, and is true to the 
+original bipartisan spirit of the SCHIP program.
+  I hope we will be able to come to an agreement and not have the 
+majority just simply roll over our legitimate concerns about this 
+legislation. We need to sit down together to help low-income children, 
+to fix the loophole that makes it easier for illegal immigrants to get 
+government benefits, and to ensure that the SCHIP program is funded on 
+a sound and honest basis. I look forward to that discussion.
+  Mr. PALLONE. Madam Speaker, I reserve the balance of my time.
+  Mr. BARTON of Texas. Madam Speaker, I yield 2 minutes to the 
+gentlewoman from Tennessee (Mrs. Blackburn), a member of the committee.
+  Mrs. BLACKBURN. I thank the gentleman from Texas.
+  Madam Speaker, this veto will be sustained, and I hope it will allow 
+us to return to the core issue of discussing health care for children, 
+needy, poor American children. That is what our focus should be. It 
+should not be about a secret, giant step towards nationalized health 
+care. It shouldn't be about health care for adults or for middle-class 
+families. It should be about meeting the needs of poor American 
+children. That's what the program was set up to do.
+  Unfortunately, as H.R. 976 is constructed, we are only talking about 
+800,000 additional children. For all of the hype, for all of the talk, 
+that is what you are talking about. We have seen numerous gimmicks used 
+to try to make this bill work. We have heard about income disregards 
+today. Now, in this bill, there are provisions that would allow you to 
+go to 800 percent of the Federal poverty level. So instead of 
+addressing the needs of poor American children, what we are talking 
+about is providing coverage for families making over $206,500 a year. 
+Madam Speaker, that is not the original intent of this program.
+  Another budget gimmick, in mid-2012, all of a sudden the funding is 
+going to be cut 80 percent.
+  Madam Speaker, what is going to happen to SCHIP in mid-2012? How are 
+we going to meet the needs of those children? This is what we need to 
+do; return to the core issue, strip away all of these attached issues, 
+and get back to what we need to do to be certain that we meet the needs 
+of poor American children, not provide health care to illegal 
+immigrants, not provide health care for the middle class.
+  SCHIP is about those children that are of the working poor, 200 
+percent of the poverty level. It is a program that deserves to be 
+reinstated under the same rules that it was put in place in 1997.
+  Mr. STARK. Madam Speaker, I always thought that 800 percent of 
+poverty was a Republican, but I am happy to recognize the distinguished 
+gentleman from Wisconsin (Mr. Kagen) for 1 minute.
+  Mr. KAGEN. Madam Speaker, this morning President Bush said ``no'' to 
+95,000 children in Wisconsin and to millions more across the Nation. 
+His veto of the SCHIP bill is morally unacceptable. It is unacceptable 
+to me as a father, as a husband, and as a physician. And to everyone 
+living in Wisconsin and across this Nation who has a human heart. What 
+kind of Nation are we when a President turns away a child in need? And 
+what kind of Nation will we become if we remain on this partisan path?
+  My friends, this administration no longer represents our traditional 
+American values, for no one anywhere in these United States believes we 
+should abandon children in need. We need a President who believes in 
+children and taking care of ordinary people and the needs of our 
+children, our senior citizens, and the needs of America first.
+  Madam Speaker, today, right here and right now, we must begin to work 
+together and build a better future for all of us, especially our 
+children on whose future we depend.
+  Mr. CAMP of Michigan. Madam Speaker, I yield 2 minutes to the 
+gentleman from Texas (Mr. Brady), a distinguished member of the Ways 
+and Means Committee.
+  Mr. BRADY of Texas. Madam Speaker, it is bad enough that Congress 
+continues to play politics with the war, now they are playing politics 
+with little kids.
+  Despite broad bipartisan support for children's health insurance, 
+this new leadership has settled on a divisive scheme to score political 
+points rather than sit down and work out a reasonable solution.
+  Make no mistake, earlier you heard somebody say this is just a time-
+out. It's not a time-out. It's a cop-out. It's a cop-out to all the 
+political hacks in Washington who want to spend 2 weeks covering your 
+television sets and our newspapers and radio airwaves with their 
+misleading ads rather than sitting down with us.
+  Meanwhile, the working poor who are parents are wondering if they are 
+going to have any insurance for their kids past Christmastime. It 
+doesn't have to be this way. I was here in Congress when we started 
+this program. We sat down together with President Clinton and worked 
+out a good program. There are a lot of us Republicans willing to do the 
+same today.
+  I am hopeful that President Bush's veto will finally move our 
+Democrat friends to stop playing political games with our kids, to sit 
+down and pay for this bill and make it a reasonable one, end the abuses 
+we all know are there and move this bill in a way that the President 
+can sign it because our kids need this bill and we need to stop. It is 
+shameful these political games we are playing here today.
+  Mr. PALLONE. Madam Speaker, I yield 1 minute to the gentleman from 
+Texas (Mr. Rodriguez).
+  Mr. RODRIGUEZ. Madam Speaker, we have 46 million Americans that are 
+uninsured, of which a large number are children. I have heard 
+individuals come up and talk about the undocumented individuals. They 
+are not covered by this particular piece of legislation.
+  If you live in rural America, if you live in rural Texas, you don't 
+have access to insurance coverage. If you are not working for the 
+government and if you are just working for a small company, you don't 
+have access. If you make $20,000 or $40,000 a year, that is not 
+sufficient to be able to cover your children. That is why we need a 
+program that allows an opportunity for our young people to be able to 
+get coverage.
+  These are Americans who are working hard. These are Americans who 
+don't qualify for Medicaid because they are not poor enough and they 
+are paying their taxes. These are Americans that don't qualify for 
+Medicare because they're not old enough. Yet, they find themselves 
+working hard every single day and are not able to cover their children.
+  We have to do the right thing. We have to make sure that we pay for 
+those youngsters and allow an opportunity for them to have access. 
+After all, they are the ones that are paying the taxes. They are the 
+ones out there working hard, and yet they don't have their kids 
+insured.
+  Mr. BARTON of Texas. Madam Speaker, I yield myself 15 seconds.
+  One of the speakers on the majority side several speakers ago from 
+the great State of Wisconsin was talking about the children. In his 
+home State, they cover 110,000 adults and only 56,000 children under 
+SCHIP.
+  The SPEAKER pro tempore. The gentleman from Texas has 4\3/4\ minutes 
+remaining. The gentleman from Michigan has 6\1/2\ minutes. The 
+gentleman from New Jersey has 5 minutes remaining. The gentleman from 
+California has 6 minutes remaining.
+  Mr. STARK. Madam Speaker, I am honored to yield 1 minute to the 
+distinguished Speaker of the House.
+  Ms. PELOSI. Madam Speaker, I thank the gentleman for yielding and 
+thank him for his tremendous work on
+
+[[Page H11209]]
+
+behalf of health care for all Americans in our country and in this case 
+for our children. I commend Mr. Pallone for his leadership as well, and 
+the distinguished chairmen, Mr. Rangel and Mr. Dingell.
+  I salute the bipartisan vote that we had in the Congress to send the 
+SCHIP legislation to the President of the United States. It was strong 
+and bipartisan. It was about the children. And I also salute the strong 
+vote in the United States Senate. I commend Senators Hatch and Grassley 
+for lending their weight and bipartisanship to this important 
+legislation. They joined Senators Rockefeller and Baucus on this 
+important issue.
+  Madam Speaker, as we all know and has been spoken already, today the 
+President of the United States missed an opportunity to say to the 
+children of America your health and well-being are important to us, so 
+important that we are making you a priority. Today, the President said 
+``no'' to bipartisan legislation that would have extended health care 
+to 10 million American children for the next 5 years.
+  The President said ``no'' to giving assurances to America's working 
+families that if they work hard and play by the rules, we are their 
+partners in raising the next generation of Americans and investing in 
+the future.
+  In his speech and his veto statement, the President indicated we were 
+doing something in this bill that we were not, that we were expanding 
+eligibility. No, we were just enrolling all of the children who are 
+eligible. In fact, we didn't have enough money to enroll all of them, 
+but as many as could be afforded by a bill that could receive 
+bipartisan support.
+  The President said that we are moving toward socialized medicine and 
+that he supports private medicine. Well, so do we, and this is about 
+private medicine. It is about children being able to get insurance so 
+they can have health care. The fact is that 72 percent of the children 
+on SCHIP receive their health care through private insurance programs.
+  I think the strongest indication of the President's commitment to 
+this initiative came when he was Governor of Texas. At that time the 
+State of Texas ranked 49th in its participation in SCHIP in meeting the 
+needs of the children of Texas.
+  SCHIP started as a bipartisan initiative with a Democratic President, 
+President Clinton in the White House and a Republican Congress which 
+came together in a bipartisan way in order to provide for the needs of 
+our children. Once again with the reauthorization of the bill, we have 
+come together in a bipartisan way to provide for the needs of our 
+children.
+  Sadly, following true to form, this form in Texas, 49th in the 
+country, and how could Texas be 49th in the country with all of the 
+pride that Texas takes in its stature, its size, its commitment to the 
+future, its large number of beautiful and diverse children, that it 
+would allow 48 States to be ahead of them in meeting the health needs 
+of America's children from poor working families.
+  What I know will happen today is that we will vote for a time certain 
+in 2 weeks for us to bring up the override of the veto. At that time I 
+hope that with the 43 Governors across the country, Democrats and 
+Republicans alike, with bipartisan overwhelming support in the House 
+and Senate, with every organization from AARP to YMCA and everything 
+alphabetically in between, including the Catholic Hospital Association, 
+Families USA, and the American Medical Association talking about 
+private medicine, and the list goes on, that Members will listen, at 
+least listen to those who care about children, who have standing in 
+caring about children because I believe every person in this Congress 
+cares about children, and I think it would be important for us to hear 
+the voices of those who on a day-to-day basis try to help families who 
+need some assistance in meeting the health needs of their children.
+  So, my colleagues, this is, as Mr. Hoyer said, a defining moment for 
+the Congress of the United States. The President has said ``no.'' This 
+Congress must not take ``no'' for an answer, and I urge my colleagues 
+to vote ``aye'' on a time certain when we can take up the override of 
+the President's veto of the State Children's Health Insurance Program, 
+an initiative to provide 10 million children health care, health 
+insurance for 5 years. The difference between us and the President is 
+41 days in Iraq. For 41 days in Iraq, 10 million children can receive 
+health care for 1 year.
+
+                              {time}  1530
+
+  Let's get our priorities in order. Let's recognize that the strength 
+of our country, in addition to being defined by military might, is 
+defined by the health and well-being of the American people, starting 
+with our children.
+  Mr. CAMP of Michigan. Madam Speaker, I yield 2 minutes to the 
+gentleman from California (Mr. Daniel E. Lungren).
+  Mr. DANIEL E. LUNGREN of California. Madam Speaker, I thank the 
+gentleman very much for the time.
+  Madam Speaker, we've heard a lot of comments from our friends on the 
+other side of the aisle about what the President meant by his veto. 
+Well, let's talk for a moment what we mean by the action we're going to 
+take.
+  We're going to postpone action on the veto override. We're going to 
+postpone for 2 weeks a significant decision which will allow us to 
+begin, on a bipartisan basis, to answer this question. I'm not sure I 
+have seen a more cynical move in the House in my 13 years here. Maybe 
+there has been one, but none comes to mind here.
+  But we have such a priority to name post offices after eminent people 
+this week, but we don't have the time to stay here to work on this 
+issue. No, we're going to postpone our override of the President's veto 
+because somehow we, in some silly way, say we need a time-out. We don't 
+need a time-out. We need a time-in. We need to work.
+  There are many things the American people are concerned about. One is 
+health care for those poor children. That's why this program was 
+established some 10 years ago. But the American people are also 
+concerned about budgets that are out of control, and one of the reasons 
+you have a budget out of control is because we take worthy programs 
+that were designed for a specific purpose and we expand them and 
+distort them beyond all recognition and have a program that is sold as 
+for the children, that in some States has more adults on it than 
+children, has more adults before you've registered the children, has 
+gone beyond focusing on the poor children, is a program that is going 
+to bankrupt this country because you see that repeated again and again 
+and again.
+  Cynicism, cynicism is postponing the action on this floor. Last time 
+I checked, we're not going to be here tomorrow. Last time I checked, 
+we're going to be out of here by 7 o'clock tonight, but we don't have 
+time to deal with this veto override so we can get about the business 
+of truly dealing with a bipartisan approach to dealing with children's 
+health.
+  That's the message here, not defining what the President's veto is, 
+but by our actions defining who and what we are.
+  Mr. PALLONE. Madam Speaker, I yield 1 minute to the gentleman from 
+Pennsylvania, who's been an outstanding proponent of the SCHIP bill, 
+Mr. Altmire.
+  Mr. ALTMIRE. Madam Speaker, I thank the gentleman.
+  Madam Speaker, today the President showed that he fails to understand 
+the struggle before Pennsylvania's working families when he vetoed a 
+bipartisan, fiscally responsible bill to provide health care to 10 
+million children, including 320,000 in Pennsylvania, and in justifying 
+his veto, all he offers is the same tired rhetoric, too expensive.
+  Well, our bill pays for itself at no additional cost to the taxpayer 
+and doesn't add one penny to the Federal deficit.
+  Socialized medicine? The SCHIP bill continues a State-administered 
+block grant that's delivered in the private market, and the private 
+insurers and the American Medical Association have endorsed this bill.
+  A subsidy for wealthy families? Well, most children covered live in 
+families that earn less than $40,000 a year, and these are working 
+families that we're talking about, working families that work hard and 
+play by the rules but can't afford health care for their children.
+  I encourage my colleagues on both sides of the aisle to join the 
+majorities in both the House and the Senate, the 43 Governors and 68 
+Senators, and join us in support of this bill.
+
+[[Page H11210]]
+
+  Mr. BARTON of Texas. Madam Speaker, I yield myself 15 seconds.
+  Our speaker talked about Texas's rank in terms of SCHIP. In the first 
+year that SCHIP was in law, Texas is a biennial State in terms of its 
+legislature so we weren't able to get the program up and running. But 
+in the second biennium, we did get it up and running under then-
+Governor Bush's leadership. Texas now ranks third in terms of the 
+number of absolute children, and I would say in the top five in terms 
+of percentage of eligible children, under SCHIP.
+  Mr. STARK. Madam Speaker, I am happy to yield 1 minute to the 
+gentleman from Oregon (Mr. Blumenauer).
+  Mr. BLUMENAUER. Madam Speaker, there is absolutely nothing cynical 
+about the delay. My Republican friends need some time to get their 
+facts straight. I really get tired about hearing these phony arguments.
+  We're going to be covering some adults. Why are we covering some 
+adults? Because the Republican administration granted State waivers for 
+some States to be able to deal with some experiments to add to them, 
+and this legislation stops the ability to grant those waivers that the 
+Bush administration enacted.
+  We're talking about it should be just poor children, and somehow I 
+heard somebody talk about $200,000 levels. Hogwash. There was one State 
+that requested a waiver, New York, that would have taken it up to 
+$83,000. That was denied. There are a number of States, with the 
+approval of the Bush administration, that have raised the levels. New 
+Jersey at $63,000 still doesn't hit their median income. Only one out 
+of 10 of these children are in family incomes of over $40,000.
+  You need 2 weeks to get your facts straight.
+  Mr. CAMP of Michigan. Madam Speaker, I yield 1 minute to the 
+gentleman from Georgia (Mr. Price).
+  Mr. PRICE of Georgia. Madam Speaker, I thank my colleague for his 
+leadership and for yielding.
+  As a physician, I recognize clearly the imperative of all having 
+health insurance, and I strongly support providing low-income kids with 
+greater access to health care coverage, which is why I support a 
+positive bipartisan reauthorization of SCHIP.
+  The problem is that's not what this bill is, and today, we're 
+debating a 2-week delay. Now, there's no reason for a delay. It delays 
+solving the problem, and it delays providing health care to some needy 
+youngsters.
+  But I welcome this time because it gives Americans more time to 
+realize this is all about politics. It gives Americans more time to 
+realize that the bill is paid for with 22 million new smokers. It gives 
+the American people more time to realize that the bill covers kids in 
+higher-income families before lower-income families. It gives the 
+American people the opportunity to understand the irresponsible and 
+cynical nature of this bill.
+  We're sent here to solve challenges, Madam Speaker, and I call on my 
+colleagues to work positively together now. Let's cover kids most in 
+need now. Vote ``no'' on the postponement now.
+  Mr. PALLONE. Madam Speaker, I reserve my time.
+  Mr. BARTON of Texas. Madam Speaker, I'm the last speaker, so I 
+reserve my time.
+  The SPEAKER pro tempore. The Chair will recognize Members to close in 
+the following order: Mr. Camp of Michigan, Mr. Stark of California, Mr. 
+Barton of Texas, and lastly, Mr. Pallone of New Jersey.
+  Mr. CAMP of Michigan. Madam Speaker, we're not quite ready to close 
+yet on my time. I yield 1 minute to the gentleman from Louisiana (Mr. 
+Boustany).
+  Mr. BOUSTANY. Madam Speaker, I thank the gentleman for yielding.
+  As a physician who's treated many uninsured patients, I have to say 
+that there's a profound difference between coverage and access to care. 
+Yes, you need coverage, but it doesn't necessarily equate to access.
+  Clearly, we've got a number of uninsured children in Louisiana. We 
+have 107,000 on SCHIP but 91,000 who currently qualify who are not on 
+SCHIP.
+  I asked the question why. I offered an amendment in this process to 
+try to get the States to certify, to give reasons and to take steps to 
+clear up this problem, to get those who currently qualify onto the 
+rolls, to let this program work for those it's intended to; yet this 
+amendment wasn't even allowed through the rules process. So this has 
+not been an open and thorough debate on this problem.
+  We need to get away from our dug-in positions on different sides of 
+this and really work hard on this health care access issue to solve it. 
+It's got to be bipartisan. That's the only way it's going to work.
+  Mr. STARK. Madam Speaker, I'm happy to yield 1 minute to the 
+distinguished gentleman from Illinois (Mr. Emanuel).
+  Mr. EMANUEL. Madam Speaker, President Kennedy once said, To govern is 
+to choose. $700 billion for the war in Iraq but no health care for 
+America's children. $50 billion in subsidies for big oil companies, but 
+no to health care for America's children. $8 billion in no-bid 
+contracts and lost in waste, fraud and abuse in Iraq, but no to 
+America's children. Billions of dollars for schools and roads and 
+clinics in Iraq, but no to health care for America's children.
+  Today, the President told millions of children and their families 
+that they're on the bottom of his priority list.
+  Now, I used to work in the White House. I know it can be quite 
+isolating. I just never knew it was this isolating. When 45 Republican 
+House Members, 18 Republican Senate Members, Governors who are 
+Republicans, Democrats come together, build this type of consensus, 
+it's time for the President to see what the American people see, that 
+this is the right health care.
+  You have the same health care for you and your families that we are 
+trying to provide for these 10 million children whose parents work 
+full-time.
+  Delores Sweeney in my district works in an insurance company, has 
+three children, and she's trying to get the health care for her 
+children that she cannot get in the private insurance place.
+  This is right for Delores Sweeney. It's right for your kids. Let's 
+make it right for America. Vote ``yes.''
+  Mr. CAMP of Michigan. I've no further time to yield, Madam Speaker. 
+We're prepared to close. I would ask my colleagues on the other side, 
+are we prepared to close as a group?
+  Mr. PALLONE. Madam Speaker, I do have some additional speakers, and I 
+yield 1 minute to the gentlewoman from Arizona (Ms. Giffords).
+  Ms. GIFFORDS. Madam Speaker, I rise today in strong opposition to the 
+President's veto of the KidsCare bill, known as SCHIP here in 
+Washington. His refusal to provide funding to over 82,400 uninsured 
+children in the State of Arizona is simply unconscionable.
+  Today, in my State, one out of every five kids currently has no 
+health insurance. We rank among the five highest States in the entire 
+country.
+  By vetoing the KidsCare bill, this President proves that his 
+priorities are not in line with the American people, are not in line 
+with the people from my home State of Arizona.
+  I urge my colleagues on both sides of the aisle to continue to 
+support this fiscally responsible legislation passed by Congress with 
+bipartisan support. It is critically important that the President does 
+not fail the kids of Arizona, the kids of our country and, hence, fail 
+our future.
+  Mr. BARTON of Texas. Madam Speaker, I am prepared to close when it is 
+time to close.
+  Mr. STARK. Madam Speaker, I am delighted to yield 1 minute to the 
+gentleman from Connecticut (Mr. Murphy).
+  Mr. MURPHY of Connecticut. Madam Speaker, I thank the gentleman for 
+yielding.
+  Let me ask you this: If you were walking down the street and you saw 
+a child injured on the side of the road, would you stop? Would you do 
+everything necessary to help that child? I think everyone on this floor 
+today has a simple answer to that question. Of course we would.
+  So why don't we also agree that for the millions of sick children 
+around this country who have no access to health insurance or 
+preventative health care, that we don't have a similar duty to do 
+everything in our power to help them get healed?
+  That, to me, is the definition of compassionate government. And don't 
+let
+
+[[Page H11211]]
+
+anybody tell you that these kids have access to health care and their 
+parents are just negligent. The truth is that health care availability 
+is shrinking, and the number of children who get sick because they 
+can't get health care is growing.
+  And just like we have a moral obligation to help that injured child, 
+we have a similar moral obligation to help heal a child who lies sick 
+in their bed simply because their family cannot afford a doctor.
+  I don't understand why the President won't help that child, but I 
+hope that together, by overriding his veto, we will.
+  Mr. PALLONE. Madam Speaker, I yield 1 minute to the gentlewoman from 
+Illinois (Ms. Schakowsky).
+  Ms. SCHAKOWSKY. Madam Speaker, I think the issue of providing health 
+coverage to 10 million children is important enough to give our 
+constituents adequate time to weigh in on it.
+  Let them consider whether they want to spend $7 billion a year to 
+provide health care to 10 million uninsured children, an amount 
+equivalent to 2\1/2\ weeks spent on the Iraq war.
+  Insure our children for $7 billion a year? President Bush runs for 
+the veto pen. $10 billion a month for Iraq? The President asks for $190 
+billion more.
+  I urge my colleagues to take this time to listen to their 
+constituents. Look into the eyes of an uninsured child. That child 
+could be sitting next to yours or your grandchild in school.
+  And remember, unlike the war funding which is all on credit cards, 
+this bill is actually paid for. This is an offer, as someone running 
+for reelection, you can't afford to refuse.
+
+                              {time}  1545
+
+  Mr. STARK. Madam Speaker, I am delighted to yield 1 minute to the 
+gentleman from California (Mr. McNerney).
+  Mr. McNERNEY. Madam Speaker, for 6\1/2\ years this President was not 
+concerned about fiscal responsibility, but today he claims to get the 
+picture. However, what he claims is clearly in conflict with the facts.
+  Our SCHIP is fiscally responsible, it's compassionate, and it makes 
+sense. And it's what the American people want. We are determined to 
+override the President's veto, because it is the responsibility of this 
+body to take care of the children of this country. This isn't about 
+ideology, as the President wants, but about practicality. It's about 
+doing what it will take to fulfill the responsibility to the next 
+generation of our country.
+  We will override this veto and give health care to our children. I 
+can tell you something, anyone who votes against SCHIP will answer to 
+his or her constituents in November.
+  Mr. BARTON of Texas. Madam Speaker, I have had an additional speaker 
+show up, so if it would be appropriate, I would yield 1 minute to Mr. 
+Kingston of Georgia.
+  Mr. KINGSTON. I thank the gentleman for yielding.
+  One thing you can always count on in Washington is whenever we pass 
+any legislation, it's always going to be in the name of the children, 
+or the seniors or Mama or puppies or clean air or all things small and 
+beautiful. In fact, the Speaker of the House the other day used the 
+word ``children'' in her speech 44 different times, because politicians 
+are always altruistic with other people's money.
+  Now, the SCHIP program was designed to help the working poor, not to 
+help people who make $82,000 a year, who might not be rich, but they 
+are certainly not poor. It is designed for American children. It wasn't 
+designed for illegal aliens and yet the Democrats have thrown out the 
+citizenship test. That's the last thing we need is more benefits for 
+illegal aliens.
+  And then there will be 780,000 adults on this program. This is the 
+children's health care program. While the Democrats will tell you, 
+well, that's only 30 percent, it should be 100 percent children.
+  The President is right in vetoing this sham.
+  Mr. PALLONE. Madam Speaker, I yield 1 minute to the gentlewoman from 
+California (Ms. Solis).
+  Ms. SOLIS. I thank the gentleman for yielding time.
+  Madam Speaker, I rise today in support of postponing consideration of 
+the vote to override President Bush's veto of the SCHIP Reauthorization 
+Act.
+  We have a momentous opportunity here. Yet today the President chose 
+to deny health care to millions of poor and uninsured children. In the 
+State of California, 50 percent of those children that are enrolled 
+happen to be of Hispanic descent.
+  What message is he giving to those children? While the bill may not 
+be perfect, I think it's still a step forward in the right direction 
+for our country and for the communities of color that it will serve and 
+for our children, our very, very poorest children.
+  In the coming weeks, I urge our colleagues to stand up for the health 
+and well-being of our children of working families and to reject the 
+President's misguided, immoral and fundamentally flawed veto.
+  I join with my colleagues today in asking that we postpone, call a 
+timeout, so that he can think about this and his party. We must do the 
+right thing for our children, those who are the most vulnerable in our 
+population.
+  Mr. CAMP of Michigan. Madam Speaker, I am prepared to close. I have 
+no further speakers.
+
+
+                         parliamentary inquiry
+
+  Mr. LEWIS of California. Madam Speaker, parliamentary inquiry.
+  The SPEAKER pro tempore. The gentleman will state his inquiry.
+  Mr. LEWIS of California. Madam Speaker, I believe under the rules, in 
+consultation with the minority, that the majority does control the 
+calendar; is that correct?
+  The SPEAKER pro tempore. The gentleman is not stating a parliamentary 
+inquiry.
+  Mr. LEWIS of California. Parliamentary inquiry. Who controls the 
+calendar? That is a parliamentary inquiry. The legislative calendar.
+  The SPEAKER pro tempore. The gentleman should consult with the 
+leadership.
+  Mr. LEWIS of California. By what?
+  The SPEAKER pro tempore. The gentleman should consult the majority 
+leadership.
+  Mr. LEWIS of California. Right, by a majority decision, which means 
+essentially the Speaker's office, but nonetheless, that's 
+interpretation.
+  Presuming that what you said is correct, that majority decision can 
+set this bill when they wish to, including the middle of October, if 
+they wish to; is that correct?
+  The SPEAKER pro tempore. The gentleman has not stated a parliamentary 
+inquiry.
+  Mr. LEWIS of California. I think it is. It is asking about process 
+and the procedure of the House.
+  I beg your pardon. I don't do this very often.
+  The SPEAKER pro tempore. The gentleman is not stating a parliamentary 
+inquiry. The gentleman is advised to consult with the leadership.
+  Mr. LEWIS of California. I think it is very important, Madam Speaker, 
+that this parliamentary inquiry be, at the least, responded to 
+partially.
+  The SPEAKER pro tempore. If the gentleman will state a parliamentary 
+inquiry.
+  Mr. LEWIS of California. I am about to do that. It is very clear to 
+you, Madam Speaker, I am sure, and anybody listening, that the 
+leadership wants to delay this until October 15 for political purposes, 
+and they are partisanizing this for no reason.
+  The SPEAKER pro tempore. The gentleman has not stated a parliamentary 
+inquiry.
+  The Chair recognizes the gentleman from California.
+  Mr. STARK. Madam Speaker, are we closing?
+  The SPEAKER pro tempore. The gentleman from California has 1 minute 
+remaining.
+  Mr. STARK. Madam Speaker, I reserve the balance of my time.
+  Mr. CAMP of Michigan. Madam Speaker, I am prepared to close.
+  I yield myself such time as I may consume.
+  The SPEAKER pro tempore. The gentleman is recognized for 2\1/2\ 
+minutes.
+  Mr. CAMP of Michigan. Madam Speaker, this is a disappointing day. 
+Instead of sending the President a bill he could sign, the majority 
+chose to ignore calls for bipartisanship and chose to ignore the kids 
+they proclaim to champion.
+  And what is their reaction to this forewarned veto? Did the majority 
+immediately reach out to build consensus? No. Compromise? No.
+
+[[Page H11212]]
+
+  Instead, the majority decided to stall, to put off dealing with the 
+veto and put off finding a solution.
+  I ask one simple question: How does stalling a renewal of SCHIP for 
+partisan gain meet the needs of low-income kids? SCHIP can be renewed 
+without extending benefits to people making $82,000, without extending 
+benefits to adults, without going down the path of government-
+controlled health care.
+  We can renew SCHIP without raising taxes, without cutting Medicare, 
+without assuming there will be 22 million new smokers, and without 
+cutting funds in year 6 by 80 percent and pushing the program off a 
+budgetary cliff.
+  It's time for this Congress to get its priorities right to determine 
+if we are results or rhetoric, if we are for kids or campaign tricks.
+  Let's pass a new SCHIP program, and let's send the President a bill 
+he will sign.
+  Madam Speaker, I yield back the balance of my time.
+  Mr. STARK. Madam Speaker, I am happy to recognize the gentleman from 
+Texas (Mr. Doggett) for the remaining time to close for our side.
+  The SPEAKER pro tempore. The gentleman from Texas is recognized for 1 
+minute.
+  Mr. DOGGETT. The Republicans charge that we want to help so many 
+children with no insurance and that we want to allow them so much time 
+to reconsider their indifference. We plead guilty as charged.
+  This President? It's like the book title, Dead Certain but also Dead 
+Wrong.
+  The only question is how many children will be dead or will suffer 
+with disease and disability until enough Members of this Congress are 
+willing to stand up to the President and stand up for children.
+  President Bush has ideological blinders. He is never around the 
+children of the working poor, the child who sobs with an earache, the 
+child who moans as a result of an abscessed tooth, who has no 
+antibiotics for a strep throat, and the poor parent who lacks the 
+ability to do something about it.
+  The President's veto today is neither sound fiscal policy nor good 
+medicine, and his solution that these Republicans embrace of ``just go 
+to the emergency room'' is neither compassionate nor conservative.
+  Mr. BARTON of Texas. Madam Speaker, I yield myself the balance of my 
+time to close.
+  The SPEAKER pro tempore. The gentleman from Texas is recognized for 
+3\1/2\ minutes.
+  Mr. BARTON of Texas. Madam Speaker and distinguished Members of the 
+House of Representatives, I have in my hand a letter dated September 27 
+from myself and the majority of the Republicans on the Energy and 
+Commerce Committee asking Speaker Pelosi to refer the SCHIP bill to the 
+Energy and Commerce Committee so that we truly could have a bipartisan 
+compromise.
+  If we could defeat this motion to postpone the veto, we could then 
+move to a motion to refer the bill to the committee and honor the 
+letter that I have sent to our distinguished Speaker.
+  We are going to sustain the President's veto whenever that vote 
+occurs. In the history of the Republic, there have been over 2,000 
+vetoes of bills. Only 106 of those vetoes have been overridden. This 
+will not be 107.
+  We will sustain the veto when that vote occurs and then hopefully we 
+will begin the bipartisan process that should have begun back in 
+January when the new majority took over.
+  When that day comes, the debate is not going to be about whether 
+there should be a SCHIP program. There should be. The debate is not 
+going to be whether we should cover low-income children. We already do 
+that under Medicaid. The debate is not going to be whether we should 
+cover children between 100 and 200 percent of poverty. We already do 
+that.
+  The debate is going to be, should we cover adults? Most Republicans 
+say no, we should not cover adults. The debate is going to be about 
+illegal residents of our country. Should we cover illegal residents? 
+Most Republicans are going to say no. I am not sure what our friends on 
+the majority side are going to say. They may say no, they may say yes, 
+they may say both. We are going to have that debate.
+  There are 78 million children in America. As far as we can tell, when 
+you compare the numbers between the majority side and the minority side 
+and the President's numbers, we are really having the debate about 
+between 1.2 million and 800,000 children in America today that for some 
+reason are not covered, and they fall within the income eligibility 
+levels that we all tend to agree on, which is at least up to 200 
+percent, maybe 250 percent of poverty.
+  So we will focus the debate at some point in time, and at that point 
+in time, we will have a bipartisan compromise. The President wants to 
+reauthorize SCHIP. The Republicans want to reauthorize SCHIP. We just 
+don't want to cover high-income Americans, we don't want to cover 
+illegal residents, and we, the Republicans, don't want to cover adults.
+  Let's vote not to postpone the veto. Let's have the veto today and 
+then begin the process that should have begun back in January of this 
+year.
+                                         House of Representatives,
+
+
+                             Committee on Energy and Commerce,
+
+                               Washington, DC, September 27, 2007.
+     Hon. Nancy Pelosi,
+     Speaker of the House, House of Representatives, The Capitol, 
+         Washington, DC.
+       Dear Madam Speaker: Circumstances have combined to present 
+     the House with an unusual opportunity to restore a part of 
+     the usual process by which legislation, major and minor, is 
+     produced by the House in normal times.
+       As you know, legislation reauthorizing the State Children's 
+     Health Insurance Program (SCHIP) was approved on Tuesday 
+     night by a margin that plainly implies our House will sustain 
+     the anticipated veto. As you also know, that legislation was 
+     the product of decisions which largely ignored the regular 
+     and established legislative process. In our committee, we had 
+     a single general hearing on children's health. There was no 
+     legislative hearing on the House SCHIP bill, and no markup by 
+     our Health Subcommittee. The full committee markup was 
+     restricted to reading the legislation because the 500-page 
+     bill had only been revealed to most of us at 20 minutes to 
+     midnight on July 24, just 10 hours before the markup was 
+     scheduled to open. Then on the House floor, amendments were 
+     barred.
+       Strategic errors by the majority generated House and Senate 
+     bills so distinctly different that a conference committee to 
+     work out the differences was deemed impossible. Thus the 
+     House was required to consider a take-it-or-leave-it 
+     patchwork of private agreements in lieu of a normal 
+     conference report. As you know, House Republicans were denied 
+     access to any part of the negotiations. That solution was 
+     said to be ``creative'' by a prominent member of your party.
+       We opposed the SCHIP bill that came to us on Tuesday, and 
+     not only because of the terrifically flawed process; you 
+     supported it, and we think largely because you are proud of 
+     the bill's content. Yet we gather from your remarks that you 
+     and many other Democrats also believe the makeshift bill we 
+     passed Tuesday night is hardly perfect, and could be improved 
+     dramatically.
+       It seems to us that until November 16, when the temporary 
+     extension of SCHIP under the continuing resolution expires, 
+     we have a second chance to get both the process and the 
+     policy right.
+       All Republicans have ever wanted was a fair opportunity to 
+     understand, debate and affect the legislation in a positive 
+     way. During the crafting and passage of both the CHAMP Act 
+     and the House-Senate package of amendments, none of these 
+     possibilities were available to Republicans or, for that 
+     matter, to most Democrats. That failing can be revisited and 
+     remedied if you are willing to respond to the inevitable 
+     requirement for an SCHIP extension by conducting a normal 
+     legislative hearing and a traditional markup.
+       Given a common-sense opportunity to actually read and 
+     comprehend a bill reauthorizing SCHIP--surely a handful of 
+     days could be permitted and please, this time without a 
+     midnight document delivery--our strong preference would be to 
+     stand and debate, then let the votes decide the outcome. All 
+     you need do is convene the relevant committees between now 
+     and November 16 to do the work they were designed to do.
+       Second chances on legislation always seem possible, but 
+     never seem practical. We're about to have a practical second 
+     chance to do it right. While Democrats control a majority of 
+     the votes, no Democrat we know claims to have a monopoly on 
+     good ideas.
+       Madam Speaker, SCHIP should never have become the intensely 
+     partisan issue that it did become. A time will come, however, 
+     when no more political advantage can be wrung from it. We 
+     think that time is nearly upon us, and we should use it to 
+     achieve a bipartisan bill through a cooperative effort. 
+     Still, Democrats and Republicans do have different views and 
+     if our principles cannot be reconciled through good-faith 
+     bipartisanship, an honest airing of facts accompanied by 
+     actual amendments and real votes cannot help but produce a 
+     better bill than the one we passed on Tuesday night. Whether 
+     intended to produce bipartisan agreement or a clash of 
+     values, a legislative hearing would lay the groundwork for a 
+     formal markup. Such a process can occur if the
+
+[[Page H11213]]
+
+     chairmen of the Energy and Commerce and the Ways and Means 
+     committees can be prevailed on to take the requisite steps, 
+     and only you can accomplish that task.
+       We hope you can find a way to agree that good process will 
+     produce better legislation, and that you will instruct the 
+     committees to conduct public hearings followed by fair, open 
+     markups of the SCHIP extension that will be required.
+           Sincerely,
+         Joe Barton, Ranking Member, Committee on Energy and 
+           Commerce; Nathan Deal, Ranking Member, Subcommittee on 
+           Health; Ralph Hall, Committee on Energy and Commerce; 
+           Ed Whitfield, Committee on Energy and Commerce; John 
+           Shadegg, Committee on Energy and Commerce; Steve Buyer, 
+           Committee on Energy and Commerce; Joe Pitts, Committee 
+           on Energy and Commerce; Lee Terry, Committee on Energy 
+           and Commerce; J. Dennis Hastert, Committee on Energy 
+           and Commerce.
+         John Shimkus, Committee on Energy and Commerce; Chip 
+           Pickering, Committee on Energy and Commerce; George 
+           Radanovich, Committee on Energy and Commerce; Greg 
+           Walden, Committee on Energy and Commerce; Mike Rogers, 
+           Committee on Energy and Commerce; Sue Myrick, Committee 
+           on Energy and Commerce; Michael Burgess, Committee on 
+           Energy and Commerce; John Sullivan, Committee on Energy 
+           and Commerce; Marsha Blackburn, Committee on Energy and 
+           Commerce.
+
+  Mr. PALLONE. Madam Speaker, I yield myself such time as I may 
+consume.
+  The SPEAKER pro tempore. The gentleman from New Jersey is recognized 
+for 1 minute.
+  Mr. PALLONE. Madam Speaker, I listened to my colleague from Texas, 
+and he talks about process. The fact of the matter here, this is not a 
+process issue. These are the kids that are not insured, are eligible, 
+and we need to cover them.
+  The President of the United States and my colleague on the Republican 
+side does not want to spend and provide the extra money to cover these 
+kids that need insurance. If anything, the President's proposal and his 
+directive would actually put more roadblocks and bureaucracy in the way 
+with his directive that says that kids have to stay uninsured for a 
+year, for example, before they can even get into the program.
+  Let there be no mistake about what the President and the Republicans 
+on the House side are trying to do today. They don't want these kids to 
+be covered. They don't want to provide the money for them to be 
+covered. They want to put roadblocks in the way and say they have to be 
+out of insurance for a year.
+  I remember back in the spring when some of my colleagues on the other 
+side from Georgia came here with their representatives from the Georgia 
+government, and they said that they didn't have enough money to cover 
+the kids, that we needed more money for this program. I don't 
+understand how any of you can come here today and say you are trying to 
+help. You're not.
+  I would urge my colleagues to vote for this motion.
+  Ms. LORETTA SANCHEZ of California. Madam Speaker, I do not think I 
+have to further remind this Congress about how far off base the 
+President is over the State Children's Health Insurance Program.
+  The health care system is failing our Nation's children who are in 
+need. Too many are without health insurance and do not receive the 
+regular care they need.
+  For this President, the supposed evil of two million children 
+possibly switching health coverage to state sponsored healthcare is 
+enough to block coverage for six million additional poor children.
+  Seven hundred and fifty thousand children were added to the rolls of 
+the uninsured last year and the number of employers that offer health 
+benefits to the children of workers continues to shrink.
+  Yet the President stands firm to a proposal for SCHIP that would not 
+even be able to maintain existing coverage and would impose 
+unconscionable hurdles on families whose children need health care.
+  One must question the principles of this President. How, in good 
+conscious, could he ask for an additional $190 billion for a war that 
+two-thirds of the American people oppose while calling $5 billion for 
+one of our nation's most successful programs reckless spending?
+  The American people deserve better and our Nation's children deserve 
+the right to have health insurance.
+  Mr. DINGELL. Madam Speaker, the President's veto of a bipartisan plan 
+to help 10 million children is incomprehensible. It willfully ignores 
+the needs of low-income children and the recommendations of Congress, 
+43 State Governors, more than 300 coalition groups, and the vast 
+majority of the American people.
+  Unlike America's children, the President has nothing to lose by 
+vetoing this legislation. President Bush has government-run health 
+insurance. But millions of American children do not have any coverage 
+at all.
+  It saddens and baffles me to think that the President would not want 
+to make health insurance for 10 million children a positive part of his 
+legacy. I pledge to keep fighting for this bill and to protect 
+America's most vulnerable children.
+  This matter is too important to the children of our Nation. I support 
+the Leader's motion to postpone immediate consideration of the 
+President's veto of H.R. 976 so that we may provide Members time to 
+consider the magnitude of this vote.
+  The SPEAKER pro tempore. Without objection, the previous question is 
+ordered on the motion to postpone.
+  There was no objection.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from Maryland (Mr. Hoyer).
+  The question was taken; and the Speaker pro tempore announced that 
+the ayes appeared to have it.
+
+
+                             Recorded Vote
+
+  Mr. BARTON of Texas. Madam Speaker, I demand a recorded vote.
+  A recorded vote was ordered.
+  The vote was taken by electronic device, and there were--ayes 222, 
+noes 197, not voting 13, as follows:
+
+                             [Roll No. 938]
+
+                               AYES--222
+
+     Abercrombie
+     Ackerman
+     Allen
+     Altmire
+     Andrews
+     Arcuri
+     Baca
+     Baird
+     Baldwin
+     Barrow
+     Bean
+     Becerra
+     Berkley
+     Berman
+     Berry
+     Bishop (GA)
+     Bishop (NY)
+     Blumenauer
+     Boren
+     Boswell
+     Boucher
+     Boyd (FL)
+     Boyda (KS)
+     Brady (PA)
+     Braley (IA)
+     Brown, Corrine
+     Butterfield
+     Capps
+     Capuano
+     Carnahan
+     Carney
+     Castor
+     Chandler
+     Clarke
+     Clay
+     Cleaver
+     Clyburn
+     Cohen
+     Conyers
+     Cooper
+     Costa
+     Costello
+     Courtney
+     Cramer
+     Crowley
+     Cuellar
+     Cummings
+     Davis (AL)
+     Davis (CA)
+     Davis (IL)
+     Davis, Lincoln
+     DeFazio
+     DeGette
+     DeLauro
+     Dicks
+     Doggett
+     Donnelly
+     Doyle
+     Edwards
+     Ellison
+     Ellsworth
+     Emanuel
+     Engel
+     Eshoo
+     Etheridge
+     Farr
+     Fattah
+     Filner
+     Frank (MA)
+     Giffords
+     Gillibrand
+     Gonzalez
+     Green, Al
+     Green, Gene
+     Grijalva
+     Gutierrez
+     Hall (NY)
+     Hare
+     Harman
+     Hastings (FL)
+     Herseth Sandlin
+     Higgins
+     Hill
+     Hinchey
+     Hinojosa
+     Hirono
+     Hodes
+     Holden
+     Holt
+     Honda
+     Hooley
+     Hoyer
+     Inslee
+     Israel
+     Jackson (IL)
+     Jackson-Lee (TX)
+     Jefferson
+     Johnson (GA)
+     Johnson, E. B.
+     Jones (OH)
+     Kagen
+     Kanjorski
+     Kaptur
+     Kennedy
+     Kildee
+     Kilpatrick
+     Kind
+     Klein (FL)
+     Kucinich
+     Lampson
+     Langevin
+     Lantos
+     Larsen (WA)
+     Larson (CT)
+     Levin
+     Lewis (GA)
+     Lipinski
+     Loebsack
+     Lofgren, Zoe
+     Lowey
+     Lynch
+     Mahoney (FL)
+     Maloney (NY)
+     Markey
+     Marshall
+     Matheson
+     Matsui
+     McCarthy (NY)
+     McCollum (MN)
+     McDermott
+     McGovern
+     McIntyre
+     McNerney
+     McNulty
+     Meek (FL)
+     Meeks (NY)
+     Melancon
+     Michaud
+     Miller (NC)
+     Miller, George
+     Mitchell
+     Mollohan
+     Moore (KS)
+     Moore (WI)
+     Moran (VA)
+     Murphy (CT)
+     Murphy, Patrick
+     Murtha
+     Nadler
+     Napolitano
+     Neal (MA)
+     Oberstar
+     Obey
+     Olver
+     Ortiz
+     Pallone
+     Pascrell
+     Pastor
+     Payne
+     Peterson (MN)
+     Pomeroy
+     Price (NC)
+     Rahall
+     Rangel
+     Reyes
+     Richardson
+     Rodriguez
+     Ross
+     Rothman
+     Roybal-Allard
+     Ruppersberger
+     Rush
+     Ryan (OH)
+     Salazar
+     Sanchez, Linda T.
+     Sanchez, Loretta
+     Sarbanes
+     Schakowsky
+     Schiff
+     Schwartz
+     Scott (GA)
+     Scott (VA)
+     Serrano
+     Sestak
+     Shea-Porter
+     Sherman
+     Sires
+     Skelton
+     Slaughter
+     Smith (WA)
+     Snyder
+     Solis
+     Space
+     Spratt
+     Stark
+     Stupak
+     Sutton
+     Tanner
+     Tauscher
+     Taylor
+     Thompson (CA)
+     Thompson (MS)
+     Tierney
+     Towns
+     Udall (CO)
+     Udall (NM)
+     Van Hollen
+     Velazquez
+     Visclosky
+     Walz (MN)
+     Wasserman Schultz
+     Watson
+     Watt
+     Waxman
+     Weiner
+     Welch (VT)
+     Wexler
+     Wilson (OH)
+     Woolsey
+     Wu
+     Wynn
+     Yarmuth
+
+                               NOES--197
+
+     Aderholt
+     Akin
+     Alexander
+     Bachmann
+     Bachus
+     Baker
+     Bartlett (MD)
+     Barton (TX)
+     Biggert
+     Bilbray
+     Bilirakis
+     Bishop (UT)
+     Blackburn
+     Blunt
+     Boehner
+     Bonner
+     Bono
+     Boozman
+     Boustany
+     Brady (TX)
+     Broun (GA)
+     Brown (SC)
+     Brown-Waite, Ginny
+     Buchanan
+     Burgess
+     Burton (IN)
+     Buyer
+     Calvert
+     Camp (MI)
+     Campbell (CA)
+     Cannon
+     Cantor
+     Capito
+     Carter
+     Castle
+     Chabot
+     Coble
+     Cole (OK)
+     Conaway
+     Crenshaw
+     Culberson
+     Davis (KY)
+     Davis, David
+     Davis, Tom
+     Deal (GA)
+     Dent
+     Diaz-Balart, L.
+     Diaz-Balart, M.
+     Doolittle
+     Drake
+     Dreier
+     Duncan
+     Ehlers
+     Emerson
+     English (PA)
+     Everett
+
+[[Page H11214]]
+
+
+     Fallin
+     Feeney
+     Ferguson
+     Flake
+     Forbes
+     Fortenberry
+     Fossella
+     Foxx
+     Franks (AZ)
+     Frelinghuysen
+     Gallegly
+     Garrett (NJ)
+     Gerlach
+     Gilchrest
+     Gingrey
+     Gohmert
+     Goode
+     Goodlatte
+     Granger
+     Graves
+     Hall (TX)
+     Hastert
+     Hastings (WA)
+     Hayes
+     Heller
+     Hensarling
+     Herger
+     Hobson
+     Hoekstra
+     Hulshof
+     Hunter
+     Inglis (SC)
+     Issa
+     Johnson (IL)
+     Johnson, Sam
+     Jones (NC)
+     Jordan
+     Keller
+     King (IA)
+     King (NY)
+     Kingston
+     Kirk
+     Kline (MN)
+     Knollenberg
+     Kuhl (NY)
+     LaHood
+     Lamborn
+     Latham
+     LaTourette
+     Lewis (CA)
+     Lewis (KY)
+     Linder
+     LoBiondo
+     Lucas
+     Lungren, Daniel E.
+     Mack
+     Manzullo
+     Marchant
+     McCarthy (CA)
+     McCaul (TX)
+     McCotter
+     McCrery
+     McHenry
+     McHugh
+     McKeon
+     McMorris Rodgers
+     Mica
+     Miller (FL)
+     Miller (MI)
+     Miller, Gary
+     Moran (KS)
+     Murphy, Tim
+     Musgrave
+     Myrick
+     Neugebauer
+     Nunes
+     Pearce
+     Pence
+     Peterson (PA)
+     Petri
+     Pickering
+     Pitts
+     Platts
+     Poe
+     Porter
+     Price (GA)
+     Pryce (OH)
+     Putnam
+     Radanovich
+     Ramstad
+     Regula
+     Rehberg
+     Reichert
+     Renzi
+     Reynolds
+     Rogers (AL)
+     Rogers (KY)
+     Rogers (MI)
+     Rohrabacher
+     Ros-Lehtinen
+     Roskam
+     Royce
+     Ryan (WI)
+     Sali
+     Saxton
+     Schmidt
+     Sensenbrenner
+     Sessions
+     Shadegg
+     Shays
+     Shimkus
+     Shuler
+     Shuster
+     Simpson
+     Smith (NE)
+     Smith (NJ)
+     Smith (TX)
+     Souder
+     Stearns
+     Sullivan
+     Tancredo
+     Terry
+     Thornberry
+     Tiahrt
+     Tiberi
+     Turner
+     Upton
+     Walberg
+     Walden (OR)
+     Walsh (NY)
+     Wamp
+     Weldon (FL)
+     Weller
+     Westmoreland
+     Whitfield
+     Wicker
+     Wilson (NM)
+     Wilson (SC)
+     Wolf
+     Young (AK)
+     Young (FL)
+
+                             NOT VOTING--13
+
+     Barrett (SC)
+     Cardoza
+     Carson
+     Cubin
+     Davis, Jo Ann
+     Delahunt
+     Dingell
+     Gordon
+     Jindal
+     Lee
+     Paul
+     Perlmutter
+     Waters
+
+
+                Announcement by the Speaker Pro Tempore
+
+  The SPEAKER pro tempore (during the vote). Members are advised that 
+there are 2 minutes remaining in this vote.
+
+                              {time}  1625
+
+  Messrs. HOEKSTRA, SHAYS, and BOOZMAN changed their vote from ``aye'' 
+to ``no.''
+  Mr. RUPPERSBERGER changed his vote from ``no'' to ``aye.''
+  So the motion was agreed to.
+  The result of the vote was announced as above recorded.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```
