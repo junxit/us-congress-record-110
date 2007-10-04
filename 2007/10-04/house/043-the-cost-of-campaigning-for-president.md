@@ -1,0 +1,82 @@
+---
+granule: CREC-2007-10-04-pt1-PgH11302
+date: 2007-10-04
+edition: CREC
+section: HOUSE
+page: H11302
+citation: 153 Cong. Rec. H11302
+---
+
+# THE COST OF CAMPAIGNING FOR PRESIDENT
+
+**Speaking:** Kaptur, Marcy (K000009) [D-OH]
+
+**Measures:** H.Con.Res. 6
+
+```
+                 THE COST OF CAMPAIGNING FOR PRESIDENT
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentlewoman from Ohio (Ms. Kaptur) is recognized for 5 minutes.
+  Ms. KAPTUR. Mr. Speaker, what must our children think when they hear 
+news reports about the upcoming Presidential race of 2008, and when 
+they hear over and over and over again how much money all the 
+candidates are raising, $27 million, $20 million, $18 million, and the 
+ante is being raised every week.
+  In just 6 months of campaigning, the 2008 Presidential candidates 
+have already amassed more than $265 million. According to the Center 
+for Responsive Politics, some analysts predict that the eventual 
+nominees will need to raise a half a billion dollars apiece in order to 
+compete, a half a billion dollars apiece.
+  In the last 2004 Presidential election, the candidates, together, 
+raised $880,500,000. The 2008 Presidential election will see the first 
+billion-dollar race in American history. That's more than the gross 
+domestic product of 25 nations.
+  What must our children think about this out-of-control arms race? 
+Don't they conclude only the rich have a chance, that the rich control, 
+that to get ahead, you have to court the rich? What must our children 
+think of our Nation, once founded with the high ideals of patriotism, 
+sacrifice and rebellion against the entrenched view that has now fallen 
+so sick, so sick. A majority of its candidates in both parties run to 
+Wall Street and hedge funds and mega-buck donors and bundlers whose 
+real motives often come to light as scandals.
+  Former Member Shirley Chisholm described herself as unbought and 
+unbossed. Those of us who knew her knew she wasn't kidding when she 
+said that.
+  It's hard to imagine a Presidential candidate staying unbought under 
+such immense pressure to raise money. Inevitably, those candidates have 
+to turn to the superrich or to bundlers, to special interests and 
+unsavory characters who care only about themselves and their special 
+interests and very little about our country.
+  When we start looking under the rocks, it's hard to say what we will 
+find: foreign influence in unregulated hedge funds, foreign 
+contributions laundered through third parties, cronyism taken to the 
+nth degree.
+  Almost 100 years ago, a native son of Ohio, Warren Harding, won the 
+White House. He ushered in a level of corruption that was unrivaled at 
+that time. The dollar amounts being tossed around in the 2000 
+Presidential race make it only a matter of time before another giant 
+scandal rocks our government and further undermines the confidence of 
+our body politic and our very system of government. We all know what's 
+going on is wrong, wrong, wrong.
+  When I am asked who I am supporting for President, I say the one who 
+has raised the least money.
+  We should be asking ourselves what must our children think, before 
+it's too late. We can act now to curb this out-of-control arms race. I 
+have introduced a bill, H. Con. Res. 6, that reaffirms that the 
+presence of unlimited amounts of money corrupts the political process 
+in a fundamental manner.
+  If money equals free speech, then lack of money equals lack of free 
+speech. The bill expresses the need to preserve, through our 
+Constitution, the integrity of a republican form of government, restore 
+public confidence in election campaigns, and ensure all citizens an 
+equal opportunity to participate in our political process.
+  I encourage my colleagues to join me in cosponsoring this legislation 
+and for Americans to pay attention and call this important issue to the 
+attention of their Representatives.
+  America needs a new revolution to take our politics back from the 
+money handlers and telemarketers. Let's return our Republic to the 
+American people and, importantly, a free Republic to our children.
+
+                          ____________________
+```

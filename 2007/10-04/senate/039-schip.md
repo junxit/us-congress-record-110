@@ -1,0 +1,76 @@
+---
+granule: CREC-2007-10-04-pt1-PgS12766
+date: 2007-10-04
+edition: CREC
+section: SENATE
+page: S12766
+citation: 153 Cong. Rec. S12766
+---
+
+# SCHIP
+
+**Speaking:** Allard, Wayne (A000109) [R-CO]
+
+**Measures:** S. 2086
+
+```
+                                 SCHIP
+
+  Mr. ALLARD. Mr. President, I come to the floor today to talk about a 
+program that is important to me and to the low-income children in this 
+country: the State Children's Health Insurance Program.
+  I am a strong supporter of the State Children's Health Insurance 
+Program, and want the program to cover all uninsured, lower income 
+children. I fully support a reauthorization of this program, but I also 
+support the President's decision to veto the flawed SCHIP bill sent to 
+him by Congress.
+  The SCHIP legislation that was vetoed by the President yesterday 
+includes frivolous spending, expands coverage to children already 
+covered by private insurance and neglects the original intent of the 
+program--to provide health coverage for low-income children. While I 
+support the reauthorization of SCHIP, I do not support legislation that 
+expands the program and serves as an initial step towards government-
+run health care.
+  The State Children's Health Insurance Program works! It has enrolled 
+low-income eligible children in a health coverage program to ensure 
+that they have adequate access to coverage and services. While the 
+program is certainly a success, there are some oversights that need to 
+be addressed. Congress has been given the opportunity to tackle these 
+issues with the reauthorization of the program. In Colorado we have yet 
+to enroll all of the currently eligible children of low-income families 
+into the SCHIP program. We should focus our attention on enrolling 
+these children instead of fighting over an expansion of the program. 
+Expanding eligibility requirements would only make it harder for the 
+neediest children in Colorado, and the Nation, to receive coverage.
+  I am a strong supporter of the State Children's Health Insurance 
+Program, and want the program to cover all uninsured, lower income 
+children. I support giving Americans the opportunity to access health 
+care, and giving them the ability to purchase affordable suitable 
+private coverage. I support the effort by many Members of this body to 
+spend in a fiscally responsible way, without increasing taxes or using 
+budget gimmicks. More importantly, I support putting children first.
+  The State Children's Health Insurance Program was put in place to 
+cover low-income children who would otherwise not have access to health 
+coverage. The SCHIP agreement that passed the House and Senate not only 
+disregards the original intent of the program, but also reauthorizes 
+the program in a fiscally irresponsible manner that will end up costing 
+the taxpayers $12.5 billion in the final year of the authorization. For 
+example, the revenue source for the reauthorization is being sold as a 
+tax increase on cigarettes which is expected to reduce the number of 
+people smoking, but this is an unstable revenue source. I don't agree 
+with paying for a program as important as the State Children's Health 
+Insurance Program with an unsustainable income.
+  The State Children's Health Insurance Program can be reauthorized in 
+a way that increases the number of enrolled children who are currently 
+eligible for the program. While I oppose the expansion of the program, 
+I do not oppose reauthorization and therefore I am cosponsoring the 
+SCHIP Extension Act of 2007, S. 2086, which will fully fund the current 
+program for 18 months, and give Congress more time to discuss the best 
+way to reauthorize the program. SCHIP was scheduled to expire on 
+September 30 and it is imperative that Congress reauthorize the current 
+program to ensure that children of lower income families still receive 
+health coverage. I will also be cosponsoring the Kids First Act, as an 
+alternative proposal for the reauthorization of the SCHIP program.
+
+                          ____________________
+```

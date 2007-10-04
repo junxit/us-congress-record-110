@@ -1,0 +1,2568 @@
+---
+granule: CREC-2007-10-04-pt1-PgS12737
+date: 2007-10-04
+edition: CREC
+section: SENATE
+page: S12737
+citation: 153 Cong. Rec. S12737
+---
+
+# DEPARTMENTS OF COMMERCE AND JUSTICE AND SCIENCE, AND RELATED AGENCIES APPROPRIATIONS ACT, 2008--Continued
+
+**Speaking:** Mikulski, Barbara A. (M000702) [D-MD], Sanders, Bernard (S000033) [I-VT], Reed, Jack (R000122) [D-RI], Landrieu, Mary L. (L000550) [D-LA], Coburn, Tom (C000560) [R-OK], Lieberman, Joseph I. (L000304) [ID-CT], Menendez, Robert (M000639) [D-NJ], Cardin, Benjamin L. (C000141) [D-MD], Shelby, Richard C. (S000320) [R-AL], Durbin, Richard J. (D000563) [D-IL], Lott, Trent (L000447) [R-MS], Lautenberg, Frank R. (L000123) [D-NJ], Nelson, Ben (N000180) [D-NE], Dorgan, Byron L. (D000432) [D-ND], Hutchison, Kay Bailey (H001016) [R-TX], Nelson, Bill (N000032) [D-FL], Casey, Robert P., Jr. (C001070) [D-PA], Leahy, Patrick J. (L000174) [D-VT], Brown, Sherrod (B000944) [D-OH], Webb, Jim (W000803) [D-VA], Bond, Christopher S. (B000611) [R-MO], Whitehouse, Sheldon (W000802) [D-RI], Stabenow, Debbie (S000770) [D-MI], Kennedy, Edward M. (K000105) [D-MA], Byrd, Robert C. (B001210) [D-WV]
+
+**Measures:** S. 535, H.R. 3093
+
+```
+ DEPARTMENTS OF COMMERCE AND JUSTICE AND SCIENCE, AND RELATED AGENCIES 
+                  APPROPRIATIONS ACT, 2008--Continued
+
+  Ms. MIKULSKI. Let me tell you where we are right now, because the 
+pending amendment is the Mikulski-Hutchison-Shelby-Nelson, et al. 
+amendment on expanding funding for NASA. We also understand the Senator 
+from Oklahoma, Mr. Coburn, intends to come over rather shortly to offer 
+his amendment. We have had a lot of talk, a little bit in morning 
+business, but we are making great progress. We invite all who might 
+either want to speak on our amendment or in opposition to the NASA 
+amendment, please come to the floor now because we will be moving 
+toward a vote. We are also waiting for the Senator from Oklahoma to 
+come.
+  I know a lot of time has been used with morning business, but at the 
+same time we are making a great deal of progress behind the scenes.
+  I yield the floor.
+  The PRESIDING OFFICER. The Senator from Vermont.
+  Mr. SANDERS. Mr. President, I ask unanimous consent for a few minutes 
+to speak as in morning business.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+
+                               Free Trade
+
+  Mr. SANDERS. Let me congratulate Senator Murray, Senator Boxer, and 
+Senator Isakson for their very important work on this asbestos issue.
+  What I wish to focus on is a front-page story that appeared in the 
+Wall Street Journal. The headline reads: ``Republicans Grow Skeptical 
+on Free Trade.'' What it says is:
+
+       The new Wall Street Journal/NBC poll posed two statements 
+     to voters. The first was, ``Foreign trade has been good for 
+     the U.S. economy because demand for U.S. products abroad has 
+     resulted in economic growth and jobs for Americans here at 
+     home and provided more choices for consumers.''
+       The second statement was, ``Foreign trade has been bad for 
+     the U.S. economy because imports from abroad have reduced 
+     demand for American-made goods, cost jobs here at home, and 
+     produced potentially unsafe products.''
+       Asked which statement came closer to their own view, 59 
+     percent of Republicans named the second statement, while 32 
+     percent pointed to the first.
+
+  Back to the headline, ``Republicans Grow Skeptical On Free Trade.'' 
+That is the Republicans.
+  In terms of the Democrats, earlier in the article:
+
+       Other leading Democrats have been harshly critical of trade 
+     expansion, pleasing their party's labor union backers. In a 
+     March 2007 WSJ/NBC poll, before recent scandals involving 
+     tainted imports, 54 percent of Democratic voters said free-
+     trade agreements have hurt the U.S., compared with 21 percent 
+     who said they have helped.
+
+  So what do we have? We have the overwhelming percentage of 
+Republicans who are now telling us that unfettered free trade is not 
+working for American workers.
+
+[[Page S12738]]
+
+  We have the overwhelming percentage of Democratic supporters telling 
+us free trade has not been working for the American people. Yet despite 
+those numbers, and a growing consensus among working families in this 
+country, what we continue to see is people in the White House, people 
+in the Senate and the House who keep telling us how great free trade 
+is.
+  Well, let me be very clear. Free trade is very good for the large 
+multinational corporations who can throw American workers out on the 
+street, move abroad to China and other low-wage countries, hire people 
+there for pennies an hour, and bring their products back into this 
+country. For those people, we concede--for the CEOs of large 
+corporations--unfettered free trade has been a very good thing. But for 
+the middle-class and working families of this country, for working 
+families and poor people in Mexico and in other low-wage countries, 
+unfettered free trade has been an unmitigated disaster.
+  Now, there are a lot of reasons the middle class in America is 
+shrinking. There are a lot of reasons nearly 5 million Americans have 
+slipped into poverty since George Bush has become President. There are 
+a number of reasons. Certainly, one of the processes by which we as a 
+Nation are engaged in a race to the bottom has been the unfettered 
+free-trade agreements negotiated by the President of the United States 
+and passed by the Congress. And by that I mean NAFTA. I mean permanent 
+normal trade relations with China.
+  The reality of those trade agreements, plus other economic decisions 
+being made by the U.S. Government, is not just that poverty is 
+increasing, it is that median income for working-age families has 
+declined by about $2,400 since the year 2000. It is that personal 
+savings rates in this country are below zero, and have been below zero 
+for eight consecutive quarters--something that has not happened since 
+the Great Depression.
+  Unfettered free trade has a lot to do with the fact that over 8 
+million Americans have lost their health insurance since 2000, and we 
+are now up to 47 million Americans without any health insurance.
+  Hunger in America is growing. The cost of college education is 
+becoming harder and harder for middle-class families to afford. It is 
+interesting to note that a few months ago, in a poll done by, again, 
+the Wall Street Journal, more than two-thirds of the American people 
+believe the U.S. economy is either in a recession now or will be in a 
+recession next year. That is a poll from August done by Wall Street 
+Journal/NBC News.
+  In my view, it is imperative that our country trade. Nobody I know of 
+believes we should place a wall around this country. Trade is a good 
+thing. But what we must begin doing is negotiating fair trade 
+agreements that reflect the interests of working families in America, 
+working families in other countries, and not just large multinational 
+corporations and the CEOs who help write these trade agreements.
+  I just returned the weekend before last from a trip to Costa Rica, 
+where I witnessed something that was really quite extraordinary. Costa 
+Rica will be the first country in the entire world to actually have a 
+referendum to vote up or down whether they want to enter these CAFTA 
+agreements. I have no idea who is going to win that referendum. It 
+looks as if it is going to be very close.
+  But on one side you have all of the moneyed interests. What I heard 
+is, the ``yeses,'' the people who want that free-trade agreement, 
+CAFTA, are spending 100 times more than the people who are in 
+opposition. You have a media which is almost universally supportive in 
+Costa Rica of this CAFTA agreement.
+  On the other side you have students, you have environmentalists, you 
+have trade unionists, you have environmentalists, you have an 
+extraordinary grassroots movement such that in a nation of fewer than 4 
+million people, a week ago, 150,000 people came out in a rally--150,000 
+in a nation of less than 4 million people--to express their opposition 
+to the CAFTA agreement.
+  We have--especially with the fact that fast track is no longer in 
+existence--the opportunity as a Congress to begin rethinking our trade 
+policies, to create trade policies which create good jobs in the United 
+States and good jobs in the countries of our trading partners, policies 
+which benefit all of the people and not just the people on top.
+  So I conclude by saying, if some of my Republican friends think it is 
+just progressives or people who are concerned about the needs of 
+working people on this side who are concerned about trade, I suggest 
+you go to the Wall Street Journal today, and what you will find is the 
+vast majority of Republicans now have serious concerns about our 
+current trade policies because they see those trade policies as being 
+harmful to the middle class and working families of this country.
+  Mr. President, I ask unanimous consent that the poll from the Wall 
+Street Journal be printed in its entirety.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+              [From the Wall Street Journal, Oct. 4, 2007]
+
+                Republicans Grow Skeptical on Free Trade
+
+                           (By John Harwood)
+
+       Washington.--By a nearly two-to-one margin, Republican 
+     voters believe free trade is bad for the U.S. economy, a 
+     shift in opinion that mirrors Democratic views and suggests 
+     trade deals could face high hurdles under a new president.
+       The sign of broadening resistance to globalization came in 
+     a new Wall Street Journal-NBC News Poll that showed a fraying 
+     of Republican Party orthodoxy on the economy. While 60% of 
+     respondents said they want the next president and Congress to 
+     continue cutting taxes, 32% said it's time for some tax 
+     increases on the wealthiest Americans to reduce the budget 
+     deficit and pay for health care.
+       Six in 10 Republicans in the poll agreed with a statement 
+     that free trade has been bad for the U.S. and said they would 
+     agree with a Republican candidate who favored tougher 
+     regulations to limit foreign imports. That represents a 
+     challenge for Republican candidates who generally echo Mr. 
+     Bush's calls for continued trade expansion, and reflects a 
+     substantial shift in sentiment from eight years ago.
+       ``It's a lot harder to sell the free-trade message to 
+     Republicans,'' said Republican pollster Neil Newhouse, who 
+     conducts the Journal/NBC poll with Democratic counterpart 
+     Peter Hart. The poll comes ahead of the Oct. 9 Republican 
+     presidential debate in Michigan sponsored by the Journal and 
+     the CNBC and MSNBC television networks.
+       The leading Republican candidates are still trying to 
+     promote free trade. ``Our philosophy has to be not how many 
+     protectionist measures can we put in place, but how do we 
+     invent new things to sell'' abroad, former New York City 
+     Mayor Rudy Giuliani said in a recent interview. ``That's the 
+     view of the future. What [protectionists] are trying to do is 
+     lock in the inadequacies of the past.''
+       Such a stance is sure to face a challenge in the 2008 
+     general election. Though President Bill Clinton famously 
+     steered the Democratic Party toward a less-protectionist bent 
+     and promoted the North American Free Trade Agreement, his 
+     wife and the current Democratic front-runner, Hillary Rodham 
+     Clinton, has adopted more skeptical rhetoric. Mrs. Clinton 
+     has come out against a U.S. trade deal with South Korea.
+       Other leading Democrats have been harshly critical of trade 
+     expansion, pleasing their party's labor union backers. In a 
+     March 2007 WSJ/NBC poll, before recent scandals involving 
+     tainted imports, 54% of Democratic voters said free-trade 
+     agreements have hurt the U.S., compared with 21% who said 
+     they have helped.
+       While rank-and-file Democrats have long blasted the impact 
+     of trade on American jobs, slipping support among Republicans 
+     represents a fresh warning sign for freemarket conservatives 
+     and American companies such as manufacturers and financial 
+     firms that benefit from markets opening abroad.
+       With voters provoked for years by such figures as Pat 
+     Buchanan and Ross Perot, ``there's been a steady erosion in 
+     Republican support for free trade,'' says former Rep. Vin 
+     Weber, now an adviser to Republican presidential candidate 
+     Mitt Romney.
+       One fresh indication of the party's ideological crosswinds: 
+     Presidential candidate Ron Paul of Texas, who opposes the 
+     Iraq war and calls free-trade deals ``a threat to our 
+     independence as a nation,'' announced yesterday that he 
+     raised $5 million in third-quarter donations. That nearly 
+     matches what one-time front-runner John McCain is expected 
+     to report.
+       In a December 1999 Wall Street Journal-NBC poll, 37% of 
+     Republicans said trade deals had helped the U.S. and 31% said 
+     they had hurt, while 26% said they made no difference.
+       The new poll asked a broader but similar question. It posed 
+     two statements to voters. The first was, ``Foreign trade has 
+     been good for the U.S. economy, because demand for U.S. 
+     products abroad has resulted in economic growth and jobs for 
+     Americans here at home and provided more choices for 
+     consumers.''
+       The second was, ``Foreign trade has been bad for the U.S. 
+     economy, because imports from abroad have reduced demand for 
+     American-made goods, cost jobs here at home, and produced 
+     potentially unsafe products.''
+
+[[Page S12739]]
+
+       Asked which statement came closer to their own view, 59% of 
+     Republicans named the second statement, while 32% pointed to 
+     the first.
+
+
+                             Rocky Outlook
+
+       Such sentiment suggests a rocky outlook for trade 
+     expansion. Early in his term, Mr. Bush successfully promoted 
+     a number of new free-trade pacts, but the efforts have 
+     stalled, particularly after Democrats took control of 
+     Congress last November.
+       Even relatively small deals are facing resistance. While 
+     trade pacts with Peru and Panama have a strong chance of 
+     passing in the current congressional term, deals with South 
+     Korea and Colombia are in serious jeopardy. Some legislators 
+     believe South Korea isn't opening its market wide enough to 
+     American beef and autos.
+
+
+                              `Fast Track'
+
+       Presidential ``fast track'' trade negotiating authority has 
+     lapsed. Without such authority, which requires Congress to 
+     take a single up-or-down vote on trade deals, the next 
+     president would have trouble pursuing large trade agreements, 
+     particularly the stalled global Doha Round.
+       Julie Kowal, 40 years old, who works in a medical lab and 
+     is raising five children in Omaha, Neb., said she worries 
+     that Midwestern producers face obstacles selling beef and 
+     autos abroad. ``We give a lot more than we get,'' she said. 
+     ``There's got to be a point where we say, `Wait a minute.' ''
+       Beyond trade, Republicans appear to be seeking a move away 
+     from the president. Asked in general terms, a 48% plurality 
+     of Republicans said the next president should ``take a 
+     different approach'' from Mr. Bush, while 38% wanted to 
+     continue on his path.
+       In the poll, Mr. Giuliani maintained his lead in the 
+     Republican field with support from 30% of respondents. Former 
+     Sen. Fred Thompson drew 23% in the survey, to 15% for Sen. 
+     John McCain, 10% for Mr. Romney and 4% for former Arkansas 
+     Gov. Mike Huckabee. The telephone survey of 606 Republican 
+     voters, conducted Sept. 28-30, has a margin of error of 
+     four percentage points.
+       A clear majority of Republicans want more tax cuts, but 
+     among Republicans who identify themselves as moderate or 
+     liberal--about one-third of the party's primary voters--a 48% 
+     plurality favored some tax increase to fund health care and 
+     other priorities.
+       In part, the concern about trade reflected in the survey 
+     reflects the changing composition of the Republican 
+     electorate as social conservatives have grown in influence. 
+     In questions about a series of candidate stances, the only 
+     one drawing strong agreement from a majority of Republicans 
+     was opposition to abortion rights.
+       Post-911 security concerns have also displaced some of the 
+     traditional economic concerns of the Republican Party that 
+     Ronald Reagan reshaped a generation ago. Asked which issues 
+     will be most important in determining their vote, a 32% 
+     plurality cited national defense, while 25% cited domestic 
+     issues such as education and health care, and 23% cited moral 
+     issues. Ranking last, identified by just 17%, were economic 
+     issues such as taxes and trade.
+       John Pirtle, a 40-year-old Defense Department employee in 
+     Grand Rapids, Mich., said he drifted toward the Republican 
+     Party in large part because of his opposition to abortion, 
+     but doesn't agree with the free-trade views of leading 
+     candidates.
+       ``We're seeing a lot of jobs farmed out,'' said Mr. Pirtle, 
+     whose father works for General Motors Corp. Rankled by 
+     reports of safety problems with Chinese imports, he added, 
+     ``The stuff we are getting, looking at all the recalls, to be 
+     quite honest, it's junk.''
+
+
+                              Bush's Veto
+
+       Mr. Bush lately has sought to elevate the importance of 
+     economic issues. Yesterday he vetoed a bill passed by 
+     Congress that would expand funding for a children's-health 
+     program by $35 billion over five years. He slammed what he 
+     described as the Democrats' tax-and-spend approach during a 
+     speech in Lancaster, Pa.
+       Economic advisers to Republican presidential hopefuls 
+     acknowledge the safety scandals have made defending free 
+     trade more difficult. ``Americans are right to be angered at 
+     companies that take shortcuts'' in importing goods, said 
+     Larry Lindsey, once the top economic aide in the Bush White 
+     House and now an adviser to Mr. Thompson's presidential bid. 
+     ``The next president has to promote free trade by playing 
+     hardball, and to be seen doing so.''
+       In the Republican campaign so far, elevating populist trade 
+     concerns has been left to the long shots. ``The most 
+     important thing a president needs to do is to make it clear 
+     that we're not going to continue to see jobs shipped 
+     overseas. . . . and then watch as a CEO takes a $100 million 
+     bonus,'' Mr. Huckabee said at a debate earlier this year. 
+     ``If Republicans don't stop it, we don't deserve to win in 
+     2008.''
+  Mr. SANDERS. I yield the floor and suggest the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The legislative clerk proceeded to call the roll.
+  Ms. MIKULSKI. Mr. President, I ask unanimous consent that the order 
+for the quorum call be rescinded.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+
+                           Amendment No. 3250
+
+  Ms. MIKULSKI. Mr. President, to those who might be watching the 
+actions of the Senate in either the gallery or on C-SPAN--because we do 
+function in an open and transparent way--they might wonder: What is 
+going on there? Well, I will tell you what is going on. We are debating 
+the appropriations subcommittee report that funds all of the Commerce, 
+all Justice, and good, significant aspects of America's science 
+programs--the National Science Foundation, the space agency, the agency 
+that does research on oceans.
+  In the course of debating this appropriations bill, there have been 
+others who have asked to speak on other matters. When you see the 
+Chamber is empty, what we are doing is clearing amendments offered by 
+our colleagues. We are waiting for another colleague to come to offer 
+an appropriations amendment. For us, we are trying to make sure America 
+remains premier in space.
+  I will reiterate, the Mikulski-Shelby-Hutchinson-Bill Nelson-Mel 
+Martinez bipartisan amendment is to restore the funding that it took 
+when the Columbia accident occurred to return our astronauts to space 
+safely and swiftly.
+  I will elaborate on that later, but I note the Senator from Rhode 
+Island is here, who also wishes to speak on the amendment, as does the 
+Senator from Louisiana.
+  I yield the floor.
+  The PRESIDING OFFICER. The Senator from Rhode Island.
+  Mr. REED. Mr. President, I am here today to speak on the Commerce, 
+Justice, and Science appropriations bill, and I begin by thanking the 
+chairman of the committee, Senator Mikulski, and the ranking member, 
+Senator Shelby, for an extraordinarily well-crafted appropriations bill 
+which responds to the needs of the country and responds particularly to 
+those areas which were neglected in the initial submission by the 
+President.
+  This bill will protect our citizens and support law enforcement, 
+which is a critical aspect of our engagement to provide security and 
+safety for all of our citizens. It will strengthen America's 
+competitiveness in the global economy. And it will also go a long way 
+to begin to properly husband and conserve our oceans and coastal 
+communities.
+  Once again, let me commend Senator Mikulski and Senator Shelby for a 
+job well done. I hope as we go forward the President will work with the 
+Senate and the House to enact this legislation, to sign it, to fund it 
+appropriately, and to continue to strengthen our country in so many 
+different ways.
+  This bill will restore $1.5 billion in funding cuts to State and 
+local law enforcement programs. We have seen, shockingly in my mind, an 
+increase in the statistics of violent crime in this country. That tears 
+at the fabric of every community in America. We need these funds. I am 
+pleased to see the chairman and ranking member respond to that need by 
+providing additional resources.
+  Since 2001, budgets for these law enforcement programs have been 
+decimated, and many in law enforcement believe these cuts have 
+contributed to this very rise in violent crime. To reverse this 
+troubling trend, the bill provides $2.66 billion in funding for the 
+Office of Justice programs, which includes Justice assistance, State 
+and local law enforcement assistance, community-oriented policing 
+services, and juvenile justice programs.
+  The $550 million for the COPS Program will help local law enforcement 
+agencies combat crime and respond to terrorist threats. There is 
+another dimension. When we enacted the COPS Program years ago, we were 
+thinking of law enforcement at the local level simply being an agent to 
+stop those perpetrators of crime. Now we have to deal, and they have to 
+deal, with terrorists, and they have to be prepared to do that.
+  In Rhode Island, the COPS Program has provided nearly $30 million in 
+Federal funding and helped over 395 police officers--it has helped that 
+many--since its inception. We would have literally hundreds of police 
+officers absent from their place on the streets of Rhode Island if this 
+program had not been adopted, and if this bill does not continue to 
+support it. I have been pleased to be a cosponsor of Senator Biden's 
+amendment, which I think was one of the foundations of the proposal we 
+see today in the appropriations bill.
+
+[[Page S12740]]
+
+  This bill also provides $7.35 billion for the Department of Commerce. 
+This is a diverse agency. It has a significant impact in Rhode Island. 
+It supports, in Rhode Island, ocean exploration. We have the University 
+of Rhode Island School of Oceanography, which is one of the best in the 
+country, and it depends significantly on support from NOAA and the 
+Department of Commerce. Coastal protection: We are the ``Ocean State.'' 
+We have, per area, the longest coastline of any State in the 
+country. We have a fisheries program. We are an active fishing state, 
+and we need that help and support.
+
+  I am excited about the opportunities, particularly for increased 
+research with respect to our oceans. Oceans, through fishing, through 
+transport, through recreation, contribute an estimated $120 billion a 
+year to our economy, and they support over 2 million jobs. Yet we do 
+very little to research the ocean. We do little to stimulate 
+aquaculture, commercial fishing, tourism--all of these things which are 
+huge economic drivers to our economy in Rhode Island and in many parts 
+of the country. This bill will begin to pick up the pace when it comes 
+to supporting these important endeavors.
+  There is a Joint Oceans Commission that has been charged with looking 
+at oceans policy, and they have given our country a grade. In 2006, it 
+was a C-minus. It was a little bit better than 2005--that was a D-
+plus--but we want to get A's when it comes to ocean policy. That means 
+supporting this legislation and putting the money in to help NOAA 
+particularly. This bill provides $4.2 billion for the National Ocean 
+and Atmospheric Administration, including $795 million to fund the 
+Joint Ocean Commission's recommendations for ocean research, education, 
+observation, and exploration.
+  Let me commend again Senator Mikulski and Senator Shelby for making 
+this a part of this important legislation. The world is basically 
+covered by ocean. We spend a very small fraction on ocean research 
+relative to major research programs for the atmosphere, for space. We 
+have to start looking within the oceans, not only for scientific 
+answers but for commercial opportunity.
+  The bill also strengthens U.S. innovation and competitiveness. 
+Following the recommendations of the National Academy of Science's 
+report ``Rising Above the Gathering Storm,'' the bill invests in 
+research and technology that will pay dividends for our future. 
+Specifically, the bill provides over $5.1 billion for basic research 
+through the National Science Foundation, including $117.5 million for 
+the Experimental Program to Stimulate Competitive Research--the EPSCoR 
+Program. This EPSCoR Program has been very critical in my home State of 
+Rhode Island. It has provided a partnership between the Federal 
+Government, academic agencies, schools, universities, and State 
+government to stimulate research. It is a valuable catalyst for 
+research going forward.
+  Now, with more than 50 percent of NSF's funding going to seven 
+States, this EPSCoR Program makes sure that the other States--the other 
+43 States--get a little attention and a little cooperation and a little 
+support. It is incredibly important to Rhode Island, and I particularly 
+thank the chairman and the ranking member for their support.
+  Let me mention something else about NSF funding, something else about 
+research funding. It is not just the foregone experiment, the foregone 
+program research; without robust funding for the National Science 
+Foundation and other areas of academic endeavor, we are losing a whole 
+generation of researchers, of academics.
+  I went to the laboratory at Brown University, the neuroscience lab--
+terribly sophisticated, doing remarkably good work. I talked to a young 
+researcher, a Ph.D., a woman in her early thirties. She said not only 
+did she need additional support, but she looked back at her class of 
+Yale graduates, Ph.D. scientists, and she is the only one of about 
+seven of those Ph.D.s from Yale who has the money to do the research. 
+She pointed out that if you don't get that money at 30 years old to do 
+this fundamental research and establish yourself, you will not get 
+tenured at 39, and as a result, you quickly decide you are leaving the 
+field. You can go to a pharmaceutical company; you can go to an 
+investment bank and use your skills in terms of analyzing portfolios 
+and investments. You won't be doing basic research, expanding the 
+knowledge, teaching other scientists and other young students. That is 
+what is so critical about this, in addition to simply making sure we 
+continue to do the research, and I thank my colleagues for their 
+support.
+  Let me also mention another program, and that is the manufacturing 
+extension program. All of my colleagues, without exception--and I 
+include myself--come to the floor and talk about the decline of 
+American manufacturing, the fact that we used to have, particularly up 
+my way in the Northeast, communities that revolved around manufacturing 
+plants at every corner. Growing up in Rhode Island, when you drove 
+through communities such as Pawtucket in the 1950s on a Saturday, all 
+you could hear was click, click, click. Those machines were working 
+overtime. There was no air-conditioning; the windows were open until 11 
+o'clock at night. It is silent there now. We are losing manufacturing.
+  This manufacturing extension program is the only real money we put in 
+to directly aid manufacturing. It gives them new techniques, new 
+technology. It gives them suggestions about how they can be competitive 
+on a global basis. It helps the small manufacturer. It is critical. It 
+is the last support for many of these individual companies, the last 
+support they get to face a very competitive world. I again appreciate 
+so much how this money has been included in this appropriation.
+  This bill also provided $283 million to the Economic Development 
+Administration. EDA is one of those critical agencies of the Federal 
+Government that will allow local communities to fulfill their plans for 
+local economic development. We have used this program repeatedly to 
+jump-start progress at the local level. They have gone in and they have 
+funded, and they have a rather wide mandate that they can justify as 
+economic development, but they have funded programs that have allowed 
+investments by States and cities and private entities to really give us 
+a leg up in terms of providing employment, providing new economic 
+oppor-
+tunities for my communities in Rhode
+Island. Again, it is a very valuable 
+agency.
+  Of this funding, $15 million is for trade adjustment assistance for 
+firms, and this is targeted to medium-sized manufacturers and 
+agricultural companies that experienced loss from foreign imports.
+  Again, related to the struggle of our manufacturing companies, we are 
+seeing so much that used to be produced in America is now imported, and 
+what is lost in the balance is many jobs, and this money will help, at 
+least a bit, to ease that transition. It allows people really to retool 
+themselves for a new economy. It gets them off the unemployment rolls 
+more quickly than otherwise and gives them something more important 
+than just a check; it gives them new hope. For many of my constituents, 
+it is particularly distressing when you reach midlife, you have worked 
+very hard, you got out of high school in the 1960s and thought you 
+could have a whole career based on a high school diploma, and guess 
+what. Now the company is gone. You have to have new skills. Where are 
+you going to turn? This helps these individuals, not just with the 
+monetary compensation, not just with a little bit of assistance, but 
+with a new hope that they can get on with their lives. It is very 
+important.
+  So much of this bill is commendable, and it is the work of not only 
+the hands but the hearts of both Senator Mikulski and Senator Shelby 
+that have made this such a worthwhile piece of legislation. I am proud 
+to support it. I hope we can move it forward quickly, and I hope the 
+President will sign it. I believe it will be a victory for all 
+Americans.
+  Mr. President, I yield the floor.
+  The PRESIDING OFFICER. The Senator from Louisiana is recognized.
+  Ms. LANDRIEU. Mr. President, let me associate myself with the remarks 
+of my colleague, the Senator from Rhode Island. He has raised several 
+important initiatives: the ocean initiative, basic research and 
+development, the disparity between some of our research dollars to a 
+few universities and
+
+[[Page S12741]]
+
+leaving out so many other good and fine universities, and many of those 
+universities in the South. It has been a program where I have supported 
+more equitable funding. We are proud of our southern universities. I 
+know the Senator from Alabama most certainly is. That is one way his 
+bill, along with the Senator from Maryland, is helping many of our 
+universities.
+  I rise today to give support to the amendment that is under 
+consideration now, the $1 billion amendment to add funding to the NASA 
+budget. When people think about New Orleans and Louisiana, they think 
+about good food and Mardi Gras and fishing and maybe even wetlands and 
+other things, but they might not think of space and space programs and 
+high tech, but we are all of the above.
+  In New Orleans east, particularly, there is a great national asset 
+called Michoud, which has been there since 1961, which has done some of 
+the basic research and manufacturing for the space program, which also 
+has parts, of course, in Texas and in Houston, in Huntsville, AL, where 
+I have had the pleasure of visiting, in parts of Florida and along the 
+gulf coast of Mississippi. Senator Mikulski honored me and honored our 
+State by coming to visit the Michoud facility several years ago and 
+walked through--actually, I think we might have skated or rode carts 
+through.
+  Ms. MIKULSKI. If the Senator will yield, I have been on thin ice, but 
+I didn't skate.
+  Ms. LANDRIEU. The Senator was not on skates--strike it from the 
+record--but we were on carts, and some people were on bicycles because 
+this facility is so large. It is 43 acres under roof, air-conditioned, 
+employing 4,000 people, committed to our space program.
+  Right down the road in our neighboring State of Mississippi, there 
+are another 4,000 people employed at the Stennis Space Center--of 
+course, named after our former colleague, Senator Stennis himself.
+  But the reason I bring this up is not only because this is important 
+to Louisiana and to the gulf coast area of Mississippi and to the State 
+of Alabama, our sister States, but it is important to the Nation. When 
+the Columbia accident happened, as the leaders have so eloquently said, 
+NASA had to scramble and take a lot of money from other parts of its 
+budget to cover the battle back to space, to support back-to-flight 
+missions. We have not ever reimbursed them appropriately for that. 
+Their program is quite challenged because of it. So that is why this 
+amendment is so important. It is a great boost to the rebuilding of our 
+region.
+  Let me say, for the employees at Michoud, they have been back at work 
+even though they had no houses in which to live. They were back at work 
+building levees around this facility even though there was water all 
+around. They kept this program and this building open and operating, 
+and there was not a stop, even during some of the worst parts of this 
+storm. That is how committed this workforce is to this program.
+  So I want to support this amendment. I thank the Senator for her 
+leadership, and I am proud to be a cosponsor of the $1 billion 
+amendment to add much needed revenue to the NASA budget. Again, I am 
+very proud of this work in New Orleans Parish, in St. Tammany Parish, 
+as well as along the gulf coast of Mississippi.
+  If I might, before I yield the floor, also thank the leaders of this 
+committee for already approving an amendment I offered, and it has been 
+accepted by voice earlier today. It is a small amendment, but I 
+actually think it can help in a very timely situation in the country 
+right now.
+  As my colleagues are aware, we have had a terrible series of events 
+in Louisiana commonly referred to as the Jena 6. There have been many 
+allegations made on all sides about events that occurred on and off the 
+school grounds in Jena, LA, a small town I represent.
+  Looking into the situation and talking with many people involved, it 
+came to my attention that there were really very little resources that 
+the Federal Government had to bring to bear early on that could have 
+potentially avoided some of the conflict that occurred, some of the 
+attention that rose up about these incidents.
+  The more I looked into it, the more I became concerned because I 
+found out that the Community Relations Service does exist within the 
+Department of Justice. The service's mission, when appropriate, is to 
+serve as a mediator during and after periods of racial tension in our 
+country. This was created some years ago. I read its mission and its 
+statement, and it seems as if that would be a very good way for us to 
+spend a very small portion of money that is allocated to help because, 
+of course, the American dream is for all of us from different races to 
+be able to live and work together and to prosper. It has not really 
+been done in any other country as well as it is being done here in the 
+course of human history, so it is something we should be proud of, 
+although we do have problems. But we need all parts of our Government 
+coming forward and committing to making this happen.
+  It occurred to me--and I learned--that this is a very excellent 
+service. The problem was, there were only three people employed in the 
+service for the 31 million people who live in New Mexico, Texas, 
+Louisiana, and the two other States in our region. So it occurred to me 
+that it might be a good use of taxpayer money to add some money to this 
+Community Relations Service, specifically directing some of the new 
+hires to this region, to keep money in the field--not here in 
+Washington but pushed out into the field so when these incidents 
+happen, maybe a well, trained mediator from the field could show up, 
+work with the community leaders, work with the attorneys general, maybe 
+work with some local elected officials, and prevent some of the harsh 
+things that were said and done over the course of this time.
+  This is in no way saying who was right and who was wrong. I think it 
+is a very good service that our Justice Department could do. I was 
+pleased to offer this amendment. I understand it has been accepted. It 
+will be most certainly a help to us as we try to reconcile and heal 
+this community, Jena and LaSalle Parish in Louisiana, and bring the 
+community back together after a series of very unfortunate events.
+  Finally, let me say I thank the Chair, and I can either call up now--
+or it can be accepted later--another amendment regarding the COPS 
+Program, which will help some of the disaster areas that are still 
+struggling with law enforcement challenges. If it is appropriate, I 
+think both sides have cleared this amendment No. 3223.
+  The PRESIDING OFFICER. Is there objection?
+  Ms. MIKULSKI. Mr. President, there is no objection to this amendment.
+
+
+                           Amendment No. 3223
+
+  Ms. LANDRIEU. Mr. President, I call up amendment No. 3223 and ask for 
+its immediate consideration.
+  The PRESIDING OFFICER. The clerk will report.
+  The legislative clerk read as follows:
+
+       The Senator from Louisiana [Ms. Landrieu] proposes an 
+     amendment numbered 3223.
+
+  Ms. LANDRIEU. I ask unanimous consent that reading of the amendment 
+be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+
+   (Purpose: To waive certain matching requirements for counties and 
+ parishes in which the President declared a major disaster in response 
+        to Hurricane Katrina of 2005 or Hurricane Rita of 2005)
+
+       On page 57, line 23, after ``Office:'' insert the 
+     following: ``Provided further, That the Attorney General 
+     shall waive in whole the matching requirement under section 
+     1701(g) of the Omnibus Crime Control and Safe Streets Act of 
+     1968 (42 U.S.C. 3796dd(g)) for any grant recipient located in 
+     a county or parish in which the President declared a major 
+     disaster (as that term is defined in section 102 of the 
+     Robert T. Stafford Disaster Relief and Emergency Assistance 
+     Act (42 U.S.C. 5122)) in response to Hurricane Katrina of 
+     2005 or Hurricane Rita of 2005:''.
+
+  The PRESIDING OFFICER. Is there further debate?
+  Ms. MIKULSKI. There is no objection to the Senator's amendment on 
+either side of the aisle.
+  The PRESIDING OFFICER. Without objection, the amendment is agreed to.
+  The amendment (No. 3223) was agreed to.
+  Ms. LANDRIEU. Mr. President, I thank the leaders for their work on 
+this bill and for continuing to support NASA, as we clean up our 
+criminal justice system and bring some reconciliation to Jena and 
+LaSalle Parish.
+
+[[Page S12742]]
+
+  The PRESIDING OFFICER. The Senator from Oklahoma is recognized.
+  Mr. COBURN. Mr. President, I thank the Senators for the cooperative 
+way in which they have worked with us. I also wish to comment on 
+Senator Landrieu's amendment that was accepted, which eliminated a 
+copay for a matching portion for the COPS Program in areas that don't 
+have the money to match. It is a smart thing that we are doing. It is 
+right. It will come to an end at some time, but until they get back on 
+their feet, we ought to do it.
+  I wished to spend a few minutes talking about the bill overall. I 
+think even though the chairwoman and ranking member have done a great 
+job with the bill in terms of priorities, I am concerned at the overall 
+spending level, and I think the administration probably will be too. 
+Inflation, last year, was less than 3 percent. In title I, the Commerce 
+portion of the bill, it grows by 13.88 percent, which is 4\1/2\ times 
+the rate of inflation. In title II, the Justice portion, it grows 6.1 
+percent, which is over two times the rate of inflation. In title III of 
+the bill, in the Science portion, it grows by 8.1 percent over last 
+year's actual appropriation, which is almost three times what the rate 
+of inflation was.
+  That probably would not be a problem if we didn't borrow $454 billion 
+from our kids last year. It would not be a problem if everybody else 
+had an 18-percent or 13-percent or a 10-percent increase. But the fact 
+that this bill has grown this much says we are going to go down the 
+road again of borrowing additional money.
+  This is a rationalization, and I admit it. What we are doing is 
+funding this increase this year on the backs of our grandchildren, 
+because if it goes through this way and coming out of conference, and 
+if the President signs it, the increase in spending for the Commerce, 
+Justice, and State Departments will come on the back of future payments 
+of debt for our kids.
+  The contrast I wish to show is that the average family's income rose 
+less than 4 percent last year. Their taxes aren't going to rise much 
+more than 4 percent, but the taxes on their grandkids are going to rise 
+disproportionately more than that, probably 12 or 13 percent, because 
+we cannot get hold of this Government. That is no reflection on the 
+leaders of this committee. They are given a number, and they have 
+requests out the kazoo from individual members. They have programs that 
+need to be funded, which is very different than the administration. I 
+didn't compare it to the administration's request. I compared it to 
+what we approved last year.
+  I think it behooves us to look at the overall growth in this bill, 
+and if you applied it to the rest of Government, we grew the Government 
+by about $700 billion this year. We cannot do that. We cannot do it. So 
+I have asked for a recorded vote on the bill because I want to be 
+recorded as voting against this appropriations bill--not because it is 
+not important to fund these items but because we cannot continue to 
+have these kinds of increases in funding when we have grown the 
+Government by 62 percent over the last 7\1/2\ years. That does not 
+count Medicare and Medicaid spending. So I wanted to make that point.
+  I have a couple of amendments, again, which are directed at directed 
+spending--what we call earmarks. The programs are not bad programs--the 
+very things I am going to outline that I think we ought to transfer 
+money from to something else. But I think people will have a tough time 
+justifying spending on these programs, these directed earmarks, when we 
+should not be spending as much as we are and could be spending it on 
+something that would give us better value for the dollars we spend.
+  I ask unanimous consent to bring up amendment No. 3243 and make it 
+pending.
+  The PRESIDING OFFICER. Is there objection?
+  Ms. MIKULSKI. Mr. President, reserving the right to object, as I said 
+to the Senator, the Senator has every right to bring that amendment up. 
+We are looking at it and trying to come up with a UC. Maybe we can get 
+to your two amendments and we can vote back to back.
+  Mr. COBURN. I am absolutely fine with that. I will take no more than 
+probably 25 minutes on both of these amendments. I ask unanimous 
+consent that I be given 25 minutes to cover both of the amendments, 
+reserving the remainder of the time if I don't use it, and allowing any 
+opposition the same amount of time, and I will probably not consume 
+that amount of time.
+  Ms. MIKULSKI. If the Senator will withhold, I am still reserving the 
+right to object while I get clarification. Rather than doing it this 
+way and knowing we are in alignment, can we have a quorum call?
+  Mr. COBURN. Yes. I suggest the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The legislative clerk proceeded to call the roll.
+  Mr. COBURN. Mr. President, I ask unanimous consent that the order for 
+the quorum call be rescinded.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+
+                           Amendment No. 3243
+
+  Mr. COBURN. Mr. President, I now ask unanimous consent to call up 
+amendment number 3243.
+  The PRESIDING OFFICER. Is there objection? Without objection, it is 
+so ordered.
+  The clerk will report.
+  The legislative clerk read as follows:
+
+       The Senator from Oklahoma [Mr. Coburn] proposes an 
+     amendment numbered 3243.
+
+  Mr. COBURN. Mr. President, I ask unanimous consent that reading of 
+the amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+
+ (Purpose: To provide $1,680,000 to investigate and prosecute unsolved 
+ civil rights crimes in a fiscally responsible manner by prioritizing 
+                               spending)
+
+       At the appropriate place, add the following:
+       Sec. __. (a) Findings.--The Senate finds the following:
+       (1) In February 2006, the United States Attorney General 
+     and the FBI director announced a partnership with the NAACP, 
+     the Southern Poverty Law Center, and the National Urban 
+     League to investigate unsolved crimes from the civil rights 
+     era.
+       (2) Attorney General Alberto Gonzales has pledged that 
+     ``The Justice Department is committed to investigating and 
+     prosecuting civil-rights era homicides for as long as it 
+     takes and as far as the law allows--because there is no 
+     statute of limitations on human dignity and justice.''.
+       (3) In February 2006, the FBI enacted an initiative to 
+     identify hate crimes that occurred prior to December 1969, 
+     and resulted in death.
+       (4) The Bureau's 56 field offices have been directed to 
+     reexamine their unsolved civil rights cases and determine 
+     which ones could still be viable for prosecution.
+       (5) The FBI has partnered with a number of State and local 
+     authorities, civic organizations, and community leaders to 
+     reexamine old files.
+       (6) Since the initiative began, the FBI has received nearly 
+     100 such referrals.
+       (7) The FBI is continuing to assess each referral for its 
+     investigative and legal viability and, given the updated 
+     investigative and forensic tools, move forward in 
+     investigating these cases.
+       (8) The United States national debt is nearly 
+     $9,000,000,000,000.
+       (9) Rather than adding to this debt, Congress should offset 
+     any new spending from lower priority spending.
+       (10) Bringing justice to those who have committed ghastly 
+     civil rights crimes in a fiscally responsible manner that 
+     does not add to the United States national debt should be a 
+     higher priority for Congress than funding parochial pork 
+     barrel projects.
+       (b) Increased Appropriations.--Amounts provided in this Act 
+     for the Civil Rights Division within the Department of 
+     Justice are increased by $1,680,000 for the prosecution of 
+     civil rights crimes.
+       (c) Decreased Appropriations.--Appropriations in this Act 
+     for the following accounts are decreased by the amount 
+     indicated:
+       (1) Ocean, Coastal, and Great Lakes research by $450,000.
+       (2) Ocean and Coastal Management, National Ocean Service, 
+     by $500,000.
+       (3) Local Warnings and Forecasts, National Weather Service, 
+     by $300,000.
+       (4) National Aeronautics and Space Administration by 
+     $800,000.
+       (5) Education Program, NOAA, by $500,000.
+       (d) Prohibition on Funding.--Notwithstanding any other 
+     provision of this Act, there shall be no funding for fiscal 
+     year 2008 for the following:
+       (1) Advanced Undersea Vehicle, Mystic Aquarium-Institute 
+     for Exploration, Mystic, Connecticut.
+       (2) Maritime Museum, City of Mobile, Alabama.
+       (3) Eye-On-The-Sky, Fairbanks Museum and Planetarium, St. 
+     Johnsbury, Vermont.
+       (4) Adler Planetarium, Chicago, Illinois.
+       (5) U.S. Space and Rocket Center, Huntsville, Alabama, for 
+     an update for the museum and exhibits.
+
+[[Page S12743]]
+
+       (6) John Smith Water Trail, installation of buoys marking 
+     the John Smith National Water Trail on the Chesapeake Bay, 
+     the Conservation Fund, Arlington, Virginia.
+
+  Mr. COBURN. Mr. President, this amendment is straightforward. There 
+is a bill in the Senate that I am presently blocking from a unanimous 
+consent request, which means I am not necessarily opposed to it; but I 
+don't think the bill ought to come to the floor without being voted on 
+or amended. It is the Emmett Till civil rights bill. This bill is 
+designed to increase the emphasis on unsolved civil rights cases.
+  A year and a half ago, the Department of Justice initiated a new 
+program for that exact purpose. They put staff on it, funded it, and 
+have since gotten 100 referrals from 42 different offices on unsolved 
+civil rights cases that are 50 years old and older. It is something we 
+should be doing and the Justice Department is doing. I don't think we 
+need another piece of legislation and another law to make us do that. 
+The Justice Department has actually shown they didn't need a law. They 
+were actually doing it.
+  What this amendment does is transfers from six directed spending 
+items--earmarks--to the Department of Justice Civil Rights Division 
+$1.680 million to augment that process. What it will do is allow them 
+to hire additional people to further define and further investigate 
+these older civil rights cases.
+  This bill has 600 earmarks in it. This relates to only six earmarks. 
+The total for the earmarks is $458 million. Many of the earmarks in 
+this bill don't do anything to advance the priorities or the mission 
+statements of the three agencies we are funding. What are they? A 
+maritime museum in Mobile, AL; Eye on the Sky Fairbanks Museum and 
+Planetarium in St. Johnsbury, VT; Adler Planetarium in Chicago, IL; 
+U.S. Space and Rocket Center in Huntsville, AL. I have been there; it 
+is a tremendous place. Lastly, the installation of buoys marking the 
+John Smith National Water Trail on the Chesapeake; undersea vehicle for 
+the Mystic Aquarium & Institute for Exploration in Connecticut.
+  Let's start with the first one. There is $500,000 in this to 
+construct a maritime museum in Mobile, AL. It is probably a great idea, 
+although there are two other maritime museums right now in Mobile. 
+Should we spend $500,000 now, when we are borrowing the kind of money 
+that we are borrowing from our grandchildren, when we are fighting a 
+war we are not paying for and charging to our grandchildren? Should we 
+spend that money now or should we spend the money upholding the law and 
+going after people who violated other people's civil rights? Which is a 
+better value? Which is a better purpose? Which is a better core 
+principle?
+  I will not go into the details, although I am prepared to do it in 
+rebuttal. There are now 35 maritime museums in the gulf coast region, 
+including two in Mobile. There are funds for this earmark through the 
+competitive grant system. So it is not that this may not even get 
+funded, because it might have to compete with the rest of the museums 
+in the country. Instead, we have directed it.
+  Earmark offset 2 is for the Fairbanks Museum and Planetarium in 
+Vermont for the Eye on the Sky Program. It is a $300,000 earmark. It is 
+probably a great idea. But is it a priority when we are borrowing money 
+from our grandchildren? Again, this is another program. There is grant 
+money out there for museums. You would have to compete based on the 
+priorities. There is oversight on the grants. On these earmarks, there 
+is no oversight. It can still be funded, on a competitive basis, 
+without an earmark.
+  The Adler Planetarium in Chicago has net assets right now in excess 
+of $34 million, and we are going to send them $300,000. They have 
+revenues every year in excess of $11 million. There is no reason for us 
+to send that money there now if we are borrowing it from our grandkids. 
+I will limit my debate on that.
+  One of the things I will tell you--and I will put up a chart. Here is 
+what the Administrator of NASA said about directed spending for 
+earmarks:
+
+       The growth of these Congressional directives is eroding 
+     NASA's ability to carry out its mission of space exploration 
+     and peer-reviewed scientific discovery.
+
+  We are taking away the core mission of one of our premier scientific 
+inquiries in this country when we send money. The redirections as a 
+result of congressional earmarks included half of NASA's education 
+budget, one-twentieth of the exploration budget, and one-twenty-fourth 
+of their science budget. So it is not a small amount with which we are 
+impacting NASA.
+
+  The fourth earmark: Spies and Rocket Center in Huntsville, AL. We 
+should know that the State of Alabama is going to have in excess of a 
+$2 billion surplus this year. Let me say that again. The State of 
+Alabama is going to have in excess of a $2 billion surplus this year. 
+They had a $1.7 billion surplus last year. I would think that maybe 
+they ought to fund this instead of our grandchildren.
+  This is a $500,000 earmark for the Space and Rocket Museum. I have 
+been there. It is a great thing. You ought to go see it. It is well 
+worth your time. But it is something I believe should not be in the 
+priority when we are borrowing the money.
+  There is $500,000 for an interpretive buoy system. It is a great idea 
+with great historical significance but probably not right now. Should 
+we be spending this money if we are borrowing it against our grandkids? 
+Should we be spending this money when we are growing the budget, this 
+appropriations bill by 11 percent? I don't think so.
+  Finally, $450,000 for an undersea vehicle in Mystic, CT. This is part 
+of the Mystic Aquarium in Mystic, CT. They could apply for a 
+competitive grant with all the rest of the States and probably get it. 
+It is not a bad idea. It is probably a good idea. It probably promotes 
+tourism, probably enhances the experience at that museum. But, again, 
+is it a priority when we are not funding the war and we are not paying 
+for our excesses and, in fact, probably the greatest moral issue of our 
+day is stealing the future from our grandkids? It is not any of the 
+other social issues. They wane in comparison to taking opportunities 
+from our next generation.
+  I also advise that the State of Connecticut, according to 
+Connecticut's Comptroller, Nancy Wyman, has a $350 million surplus. So 
+they are not running a deficit; they have a surplus. They could easily 
+grant $500,000 for this museum.
+  The point of this amendment is let's put dollars where they ought to 
+go and let's stop spending money on lower priorities. It is about 
+priorities. It is not about what is a good program and what is a bad 
+program. It is about what is the greatest priority.
+  The greatest priority is to ensure people of their civil rights. It 
+has to be greater than these. There cannot be a greater priority than 
+securing the future for the next generations, except we are not going 
+to do that with this bill.
+  I reserve the remainder of the time I have under the agreement.
+  The PRESIDING OFFICER. The Senator from Maryland.
+  Ms. MIKULSKI. Mr. President, I say to my colleague from Oklahoma, I 
+admire his tenacity and consistency in being a steward of the 
+taxpayers' purse, as well as being concerned about future generations. 
+Also, he has often raised issues from which I have benefited. I assure 
+him that both my colleague from Alabama and I have stood squarely on 
+the side of reform as well.
+  When we did our opening statements today, we said that we were for 
+security, which is helping our law enforcement, innovation, and 
+competitiveness, as well as accountability. We had two reform 
+amendments--one on the NOAA satellite programs that are already running 
+$4 billion in overruns--that is ``B'' as in Barb, not ``M'' as in 
+Mikulski. So we are instituting reforms and actually bringing to the 
+civilian side a Nunn-McCurdy framework for early warnings. So that was 
+one.
+  The other, as the junior Senator from Oklahoma is aware, the IG at 
+the Department of Justice said we have had some conferences, what we 
+call the ``lavish conference situation.'' One conference had meatballs 
+at $4 a meatball, lobster rolls, limousines. That is not about the kind 
+of training that is supposed to go on at law enforcement conferences. 
+We have had two of those amendments.
+  Then when we come to Congress--so we have come up with some reforms, 
+and there are others in the bill, but
+
+[[Page S12744]]
+
+those are two big ones. There are others in the bill related to 
+congressionally designated projects.
+  I say to my colleague also that we, meaning Senator Shelby and 
+myself, said that any congressionally designated project must meet 
+criteria to even be considered. We were not going to have a bridge to 
+nowhere. We were going to, if you will, have bridges to somewhere. They 
+had to be not only for the political benefit, but they had to be tied 
+to mission. They had to have mission and merit and matching funds, the 
+M&Ms: mission, merit, and matching funds.
+  Let's take the Department of Justice. We would not even think about a 
+congressionally designated project unless it was for prevention, law 
+enforcement or prosecution. There had to be local funds or nonprofits 
+and no construction money.
+  In the area of Commerce, we said it had to be related to coastal and 
+marine resources. It had to foster understanding of the Earth's 
+environment. It had to create jobs or keep jobs in America. Or it had 
+to enhance the America COMPETES Act, which means science, technology or 
+education.
+  I could also go through the NASA criteria which, again, was science 
+and research, education to promote the engagement of science and 
+engineering, as well as aeronautics research, and, again, no private 
+facility construction.
+  I will not go through justification of each and every one of those 
+projects. I know the Senator from Connecticut will speak to his. I will 
+speak to mine in a moment.
+  We have buoys--not like boys and girls, but buoys, such as b-u-o-y-s, 
+buoys on the Chesapeake Bay. They are NOAA buoys. We have to have them 
+anyway, and they give important navigation information, as well as 
+readings on temperature, tides, and so on, that is so important to keep 
+our commercial shipping lanes open and are great aids to the commercial 
+and sports fishing industry.
+  We had the commemoration of Jamestown, and in the commemoration of 
+Jamestown, they celebrated CAPT John Smith's voyage on the Chesapeake 
+Bay by mapping it. What we did, working with the National Geographic 
+Society that actually raised the money for this project, was add items 
+to these buoys that would also tell the history, when you got up close 
+to it, of what occurred in that geographic area. These buoys provide 
+important navigation, and now they add value to history.
+
+  Why is that important? It is important, first of all, for navigation 
+reasons. It is important to also help us for weather reasons because if 
+we know our tides and temperatures, it will help.
+  I will tell my colleagues what gets people interested in science and 
+engineering in my State. It is kids working hands on in science, not 
+reading books about science but hands on, doing the science. That is 
+why they love to come to our aquarium or to our Maryland Science 
+Center. Teachers all over the Delmarva, including the great State of 
+John Warner, whom we salute today and wish him well, they get into 
+science, and that is what promotes their interest in wanting to be 
+scientists and engineers. If they don't want to be scientists or 
+engineers, maybe they want to be doctors, nurses or lab techs. There 
+are so many ways people now come into science in addition to 
+engineering and Ph.D.s, and we need them.
+  Many of these projects that are listed here--and we know we will hear 
+about planetariums, we will hear about the grand and spectacular work 
+of Dr. Ballard that is exciting so many people, and we salute him 
+because Captain Ballard found the Titanic. We have to make sure science 
+and education is not a sinking ship hit by the iceberg of chilling cuts 
+in our programs.
+  I know my metaphors are going too far, but what I want my colleagues 
+to know that we were not cavalier and said: Just give us any request 
+and we will fund it. We screened them. We scrutinized them. They had to 
+be mission and merit and have matching funds. We believe we have met 
+this criteria. That is on the earmark reform.
+  On the issue of civil rights, I salute, again, our colleague from 
+Oklahoma on the issue of wanting to investigate these cold cases but 
+assure him that throughout our bill, we have a vigorous civil rights 
+enforcement. I thank my colleague from Alabama for being such a 
+stalwart ally on this issue.
+  First of all, we actually have money in the bill, close to $378 
+million for the EEOC. While we are not only looking at cold cases, we 
+are looking at hot cases right here and now and dealing with a terrible 
+backlog.
+  We also funded $9 million for the Commission on Civil Rights. But 
+along with that, $116 million went to the Civil Rights Division at 
+Justice to pay for 760 attorneys and support staff. Also, money went to 
+the U.S. attorney to investigate crimes, including hate crimes and 
+civil rights violations.
+  We also put in $370 million for the FBI for over 270 agents to 
+investigate civil rights violations, those that have occurred now and 
+also those very sad cold cases. So $370 million, $116 million, and it 
+goes on and on. The totals, actually when we count what we fund for 
+U.S. attorneys, my staff tells me it is $3 billion. Those U.S. 
+attorneys do other things as well.
+  We think we did a good job dealing with the backlog at EEOC, 
+reforming them, getting them refocused, funding the FBI, funding the 
+Civil Rights Division, funding the Commission on Civil Rights, funding 
+the Legal Aid Corporation, and so on. We funded those enforcement and 
+prosecution issues related to cold cases but also current cases where 
+we want to see justice done.
+  I oppose the amendment of the Senator from Oklahoma.
+  The PRESIDING OFFICER. The Senator from Connecticut.
+  Mr. LIEBERMAN. Mr. President, first, I say to Senator Mikulski, she 
+should be unrestrained in her metaphorical employments. I thought they 
+were both creative and inspirational, as is the bill she brings before 
+the Chamber, with Senator Shelby as well.
+  I rise to speak against the Coburn amendment. I will file some 
+statements in the Record, but I say to Senator Mikulski and Senator 
+Shelby, I thank them, before I get to the amendment, for the 
+extraordinary work they have done and particularly on matters of local 
+law enforcement which are so critical to the safety and well-being of 
+our communities and our people. They stood up together in a bipartisan 
+way. These programs have worked to reduce crime in our neighborhoods. I 
+wanted to take this opportunity to thank them.
+  Why do I oppose the Coburn amendment? Because the amendment would 
+prohibit any funding of a program that happens to be located in 
+Connecticut, in Mystic, CT, but is a program of real national 
+significance run by Dr. Bob Ballard, who is a national asset. He is an 
+extraordinary visionary, explorer, scientist, public servant, really an 
+American patriot in the best sense of the term.
+
+  Generally speaking, when I sought reelection last year and my 
+opponent attacked me about earmarks, I said there are good earmarks and 
+there are bad earmarks. A lot of what we do here has to do with 
+earmarking, to either add or subtract to the budget or to authorization 
+bills, and I think people understand that.
+  I rise to say that it would be a terrible result if, in pursuit of 
+this amendment, which I know the Senator from Oklahoma offers for 
+reasons that are fiscal, he eliminated the funding of the advanced 
+undersea vehicle at the Institute for Exploration, which happens to be 
+located at the Mystic Aquarium.
+  Now, the first thing I want to say is that the Institute for 
+Exploration is run by Dr. Bob Ballard, who, as Senator Mikulski said, 
+is not only nationally famous but probably world famous as the man who 
+discovered the Titanic and who went on to discover the Bismarck in 1989 
+and the USS Yorktown in 1998. These are remarkable historic 
+achievements. He is a kind of ocean archeological explorer. I am sure 
+most people hearing my voice have seen Dr. Bob in one or another TV 
+program describing his extraordinary work, but let me first say it 
+happens to be located at the Mystic Aquarium. It was a major 
+achievement when we convinced Dr. Ballard to locate there--the State 
+did. How do I compare it? In this time of baseball playoffs, without 
+demeaning either side here, it would be like the Yankees acquiring A-
+Rod or the Red Sox getting Josh Beckett. When Dr. Bob Ballard agreed to 
+bring his Institute for Exploration to Mystic, CT, we were thrilled. 
+And I do want to
+
+[[Page S12745]]
+
+stress that it is a separate institute that happens to be located 
+alongside and at the aquarium site. Tourists have some access to part 
+of its educational aspects, but it is separate. It is not just part of 
+the aquarium.
+  This $450,000 is not a lot of money in a budget the size of our 
+budget, but it is going to be used to improve the sonar on the unmanned 
+technology for undersea mapping. In other words, there is an advanced 
+undersea vehicle that Dr. Ballard and his team use for undersea 
+mapping, and this money will help him upgrade the sonar to chart 
+currently unexplored regions of the world's oceans.
+  Dr. Ballard does this out of his general sense of inquiry, of 
+scientific inquiry, to use the extraordinary tools of modern technology 
+to teach us things about most of the globe that is underwater that we 
+have never known much about. But he does it also in the aftermath of a 
+career in the U.S. Navy, 30 years both Active and in the Reserve as an 
+oceanographer and a naval intelligence officer. During his long career, 
+he has been called upon to use his advanced underwater systems to carry 
+out a number of highly classified missions for the U.S. military.
+  The sonar mapping technology that this $450,000 will help facilitate 
+is very important to the Navy, and its development has been supported 
+by the Office of Naval Research because of its military applications in 
+support of submarine warfare and countermine measures. The money is in 
+this bill because it is strongly supported also by the National 
+Oceanographic and Atmospheric Administration, part of the Department of 
+Commerce, part of the jurisdiction of this subcommittee of the 
+Appropriations Committee, and NOAA supports it because of its enormous 
+potential to explore the uncharted regions of the oceans for many 
+reasons, including in search of precious natural resources.
+  So what I am saying is the project, to our great pride, has a 
+Connecticut address, but it is a technology that is critical for 
+national security and even international scientific research.
+  I wish to go one step further here about a bonus. I have been to 
+visit this institute of Dr. Ballard's in Mystic several times. It is a 
+remarkable place. I would urge anybody who is in Connecticut to go see 
+it. But one of the things he has done, because he is a real educator, 
+he has set up a system, an educational program where he can actually 
+bring his scientific work to students around the country. It is called 
+Immersion Presents--an afterschool program. He actually has the 
+capability to project his expeditions, including the mapping 
+expeditions that would be improved by this $450,000, via the Internet 
+to over 140 Boys Clubs and Girls Clubs across the country. For 7 
+consecutive days, Dr. Ballard's research mission has broadcast live to 
+thousands of students. So he will use the money for this, as he has in 
+10 previous expeditions, to continue this Immersion Presents Program. 
+This is a tremendous educational device. If you want to excite American 
+kids about going into science, what a thrilling way to do it.
+  So with all respect to my colleague, and I respect what he is trying 
+to do, I think he has hit something here that ought not to be hit. If 
+it loses its funding, it will not just be a loss for the institute or 
+Dr. Ballard or the State of Connecticut, it will really be a loss for 
+our Nation, both in terms of scientific inquiry for our Nation and 
+also, I would suggest, national security. So I thank Chairman Mikulski 
+and Senator Shelby for including this in their recommendation to the 
+Senate, and for that reason I would urge the rejection of the amendment 
+offered by the Senator from Oklahoma.
+  The PRESIDING OFFICER (Mr. Sanders). The Senator from Oklahoma.
+  Mr. COBURN. Mr. President, first of all, I would concede the value of 
+what Dr. Ballard has done. But the question isn't whether this should 
+get funded; the question is, Who should fund it?
+  National Geographic made $15 million last year. They are a nonprofit 
+organization. They had revenues of over $1 billion. The State of 
+Connecticut is going to have over a $300 million surplus. I don't doubt 
+that this is a very worthy cause. The question is and what the American 
+people are asking this body to do is to start making priorities out of 
+priorities.
+  I think this is a very valid project. He is one of 11 resident 
+scholars for National Geographic. I have studied the issue. It is not 
+about whether it is a priority for them. The question is, Who ought to 
+be paying for it? In a time when we don't have any money, when the 
+dollar is sinking, when we are spending more and we are already funding 
+a war and charging the war to our kids, what we are setting up is we 
+are going to continue to do things that don't have to be done by us 
+when somebody else could do it. Consequently, we are going to borrow 
+the money.
+  There is half a billion dollars worth of earmarks in here, I would 
+say to my friend from Connecticut, and all of them have some merit. The 
+question is, Who should be paying for some of these? There are 
+competitive grants on museums that are run well by this Government. 
+They are very competitive. They can get the $450,000 through a 
+competitive grant. They can apply for that. There is oversight on that. 
+There is a competition among priorities when we do that and run it. 
+When we put it in directly, we, No. 1, consign our kids to paying for 
+it, and No. 2, we don't put the responsibility on anybody else.
+  Now, if this is really necessary, National Geographic will stand up 
+and put the $450,000 into it, or if it is important to the education 
+and instruction in the State of Connecticut, with a $300 million 
+surplus, they can put in the $450,000. But our choice here today is, we 
+are just going to charge it to our grandkids.
+  We don't have this money. This bill has grown by almost 10 percent 
+over what we funded last year. If you took all the directed earmarks 
+out of it, we would be growing by about 4\1/2\ percent. So it is 
+important for the American public to see the impact when we direct 
+spending.
+  The purpose of this exercise--and I will continue to do this as long 
+as I am in the Senate--is to try to force us into making the hard 
+choices we really don't want to have to make. I believe this committee 
+did a good job of setting the parameters and trying, but there is a new 
+standard, and the standard has to be, would you put in your own money? 
+That is the standard we ought to go by because what we are really doing 
+is transferring the cost of all these things to two generations, and it 
+goes completely opposite of the heritage of this country.
+  D-day starts January 1, 2008. You know what D-day is? It is the first 
+year of the baby boomers. It is the first year we start going down the 
+tubes on Medicare and Social Security. And we can't even bring a bill 
+to the floor that constrains spending to 4 percent or 5 percent--1\1/2\ 
+times inflation. The American public doesn't have that option with 
+their budgets because they do not have an unlimited credit card. We 
+just increased the debt limit on this country by $950 billion. Five 
+times since 1997 have we done that. When a child is born today, not 
+counting that debt, which is $30,000 per man, woman, and child, there 
+is $400,000 worth of unfunded liabilities lying on each of those 
+children.
+  My point is, and I will quit talking about it--and I am not going to 
+offer the second amendment--we need to wake up and see that we can't do 
+everything we would like to do. We ought to be doing what is absolutely 
+necessary and we ought to be paying for this war. We ought to be making 
+the hard choices and paying for the war.
+  Mr. President, I yield the floor.
+  The PRESIDING OFFICER. The Senator from Connecticut.
+  Mr. LIEBERMAN. Mr. President, I wish to respond briefly to my friend 
+from Oklahoma.
+  I respect what he is about. I think we all understand we have to 
+bring spending under control. In fact, earmarks are down generally in 
+the appropriations process this year. But, again, there are good 
+earmarks and bad earmarks. It is part of what the people elect us to 
+do, and I came to the floor to defend this earmark.
+  I do want to say to my friend from Oklahoma that I am pretty sure, 
+though I haven't had a chance to check it exactly, that the State of 
+Connecticut is supporting some of Dr. Ballard's programs. I hadn't 
+thought about National Geographic. Maybe you and I should go to Dr. 
+Ballard and try to get some money from him for what----
+
+[[Page S12746]]
+
+  Mr. COBURN. I will be on the next airplane with you.
+  Mr. LIEBERMAN. --for what he is doing. But I do want to say this is 
+not the Mystic Aquarium; this is the Institute of Exploration, which 
+happens to be at the Mystic Aquarium. This really does serve a national 
+purpose and really an international purpose but a great one for 
+America--mapping the ocean floor for the use and the potential 
+development of precious natural resources, and it is supported by the 
+Navy because it is of direct use to the Navy.
+  Now, I know my friend from Oklahoma is very principled in his fight, 
+so what I am about to say will not affect him. But my staff just told 
+him there are a bunch of students in Oklahoma who get to watch Dr. 
+Ballard--I know, you love him--and his undersea immersion work, and 
+this $450,000 will make that even better than it already is.
+  There are times when I will support the Senator from Oklahoma in some 
+of his efforts because overall they are right. I think all of us know 
+there is a larger problem beyond earmarks in dealing with our fiscal 
+imbalances. But today, because I think he has struck some targets here 
+that don't deserve to be struck, I respectfully urge rejection of his 
+amendment.
+  The PRESIDING OFFICER. The Senator from New Jersey.
+  Mr. MENENDEZ. Mr. President, I rise to speak about the underlying 
+bill, and I will just take a few minutes to do so.
+  Today, the Senate is debating a bill that ensures our homes and 
+communities are safe, it keeps us a world leader in scientific 
+research, it promotes economic development across the Nation, and it 
+funds our national census. I am here today because I strongly support 
+the bill and I wanted to commend Chairman Mikulski for her work, as 
+well as the ranking member.
+  It reflects many of our Nation's top domestic priorities: putting 
+more police on our streets through the COPS program, ensuring the FBI 
+has the tools it needs to fight domestic terrorism, providing the DEA 
+with resources to win the war on drugs, and protecting our children 
+from sexual predators. I am proud to say there is much in this bill to 
+celebrate. And it comes not a day too soon.
+  Last week the FBI released its latest report on crime in America. The 
+news was not good: crime is up for the second year in a row.
+  It is no coincidence that this rise in crime follows years of 
+repeated cuts to the COPS program by the Bush administration and the 
+Republican Congress.
+  In 1994, COPS put more than 100,000 new officers on the streets. 
+According to the Government Accountability Office, every dollar spent 
+on COPS stopped 30 crimes from happening--every dollar stopped 30 of 
+our neighbors, friends and family from being victimized. In my opinion, 
+that is a dollar very well spent.
+  Take a look at this chart. The red line indicates the number of 
+homicides per 100,000 citizens. The blue line indicates the number of 
+police officers. Every time the number of police officers on patrol 
+decreased, the number of homicides increased. This is simple 
+commonsense: more police means less crime. Yet the Bush administration 
+chose to kill funding for the very program that is responsible for 
+hiring more police officers to protect our communities. And 
+predictably, as this chart clearly illustrates, the results have been 
+disastrous.
+  It is time to reverse that course. This bill provides $2.7 billion 
+for State and local law enforcement--$1.6 billion more than the 
+President's request. With this money, our police will be able to 
+prevent gang violence, to combat drug crimes, and to catch child 
+predators. This bill also adds 100 FBI agents whose specific purpose is 
+fighting the rising threat of violent crime. It lifts a hiring freeze 
+on DEA agents and puts 200 new agents on the beat.
+  But, while this bill does a lot to ensure the safety of our 
+communities, there is still work to be done. That is why I am pleased 
+that Chairman Mikulski and the ranking member supported our amendment, 
+an amendment that doubles the funding for juvenile mentoring programs. 
+They care about that effort.
+  It is no secret that juvenile crime--particularly juvenile gang 
+activity--is a serious problem in this country. That is why Senator 
+Feinstein and I worked so hard to pass the Gang Abatement and 
+Prevention Act of 2007. One of the biggest problems contributing to 
+gang activity and gang crime is a lack of direction and lack of 
+supervision in the lives of teens.
+  Nor is it a secret that providing good role models and more structure 
+in the lives of teens has a significant impact in reducing gang 
+activity and violence. That is why we need to beef up our juvenile 
+mentoring programs.
+  The Juvenile Mentoring Program was established in 1992 with the 
+specific goals of reducing juvenile delinquency and gang participation, 
+improving academic performance and reducing school drop out rates. 
+Programs funded under the Juvenile Mentoring Program initiative link 
+at-risk children, particularly those living in high-crime areas and 
+those struggling in school, with responsible, working adults. These 
+children receive the structure and support that is otherwise missing in 
+their lives. They learn about the dangers of drug use, the perils of 
+gang involvement, and the importance of staying in school. In other 
+words, programs like these provide children with the tools they need to 
+avoid the pitfalls of gangs and violence, to rise above the situation 
+they were born into, and to make a better life. I can think of no other 
+program more deserving of increased funds and commend my colleagues for 
+recognizing this need and passing my amendment.
+
+  I want to mention the one difference I have with this bill, one that 
+has to do with a policy known around here as the Tiahrt Amendment.
+  No matter how many great programs we fund in this bill, no matter 
+that we doubled funding for the Juvenile Mentoring Program, we will 
+never successfully stop violence unless we work to combat the illegal 
+use of guns. Gun violence is one of the most serious problems facing 
+our Nation. Every day on average, 81 more Americans will be shot dead--
+many of them innocent victims, including children. This is 
+unacceptable. But, it is even more unacceptable for us, as legislators, 
+to allow it to continue.
+  But that is exactly what a provision in this bill does with its 
+Tiahrt provision. This provision could prevent the sharing of gun trace 
+data among law enforcement agencies. It will prevent the ATF from 
+providing trustworthy national data about the flow of crime guns. It 
+will make it harder to figure out where illegal gun activity is most 
+prevalent and what we can do to stop it. Without this data, our state 
+and local law enforcement will have a much harder time combating 
+violence in our communities and making us safe.
+  It should be a priority for all of us to better understand gun crime, 
+so we can better prevent it. But with the Tiahrt provision, data that 
+is essential to understanding gun trafficking and violence will be 
+concealed from law enforcement, concealed from lawmakers, and concealed 
+from the public. There is simply no way to make good policy without 
+having good information, good data to base it on.
+  When convicts get released from prison, we keep their fingerprints on 
+file. But when a gun gets confiscated, information about it gets 
+treated like a State secret. Police can share fingerprint data across 
+state lines, because criminals move across State lines. But under this 
+bill, gun data has to be kept within a small geographic area.
+  I am very disappointed that this language has been included in the 
+bill. But, it is a battle I will seek to fight with others on another 
+day. And, be assured, I will.
+  As I said before, there is much for us to celebrate in this bill. And 
+there is more to celebrate having accepted my amendment to double the 
+funding for Juvenile Mentoring programs.
+  I look forward to supporting the Appropriations bill and I urge my 
+colleagues to do the same.
+  Mr. CARDIN. Mr. President, I rise in opposition to the amendment 
+offered by the junior Senator from Oklahoma. One of the items he seeks 
+to eliminate funding for is the Chesapeake Bay Interpretive Buoy 
+System. This system has support from both the President and the 
+Congress. To develop the system, the NOAA Chesapeake Bay Office 
+partnered with the National Park Service, National Geographic Society, 
+Conservation Fund, the Chesapeake Bay
+
+[[Page S12747]]
+
+Foundation, Sultana, Verizon, and others to determine the requirements 
+for the interpretive buoy system.
+  These requirements defined needs for a new type of buoy, capable of 
+collecting environmental data--winds, waves, and currents--for users; 
+water quality data for monitoring the health of the bay; and a system 
+for communicating historical and cultural information through cell 
+phone technology and shore-based computer networks to the public and 
+into the classroom.
+  These buoys are an innovative component of the U.S. Integrated Ocean 
+Observing System, IOOS, a NOAA priority, which supports safety and 
+efficiency of marine operations, public safety, studies of climate 
+change and variability, and protection and restoration of healthy 
+marine ecosystems. In addition to providing interpretive information--
+environmental, geographical, historical--to citizens of the watershed, 
+this system is part of the NOAA Education Program, developing and 
+delivering new science curriculum based on real-time environmental 
+observations to Chesapeake Bay classrooms, thus serving as a pilot for 
+similar national programs.
+  The interpretive buoy system is a part of IOOS. IOOS is a priority 
+both in the President's Ocean Action Plan and for NOAA. CBIBS is a 
+component of the Chesapeake Bay Observing System, part of IOOS, 
+providing water quality measurements such as dissolved oxygen, 
+salinity, temperature, clarity, and chlorophyll content; wind speed and 
+direction, wave height and direction, air temperature, barometric 
+pressure, and relative humidity; and current velocity and direction 
+from the surface to the bottom.
+  The Chesapeake Bay is the largest estuary in the United States, being 
+200 miles long. The width of the bay varies from 3.4 miles across to 35 
+miles across, near the mouth of the Potomac River. The shoreline of the 
+Chesapeake Bay and its tidal tributaries, including all tidal wetlands 
+and islands, is over 11,600 miles. Until these buoys were deployed, 
+NOAA weather forecasters only had one platform, Thomas Point Light, 
+providing measurements for daily forecasts for the bay. With these 
+additional real-time data sets, forecasters can better predict weather 
+and water conditions on the bay supporting safety and efficiency of 
+marine operations, public safety, and marine navigation.
+  This congressionally designated project is not just a merit-based 
+program. It is an especially economical one. We get multiple benefits 
+from this single science platform in the bay. It is a worthwhile 
+program and warrants our strong support.
+  Mr. President, I yield the floor.
+  I suggest the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The assistant legislative clerk proceeded to call the roll.
+  Mr. SHELBY. Mr. President, I ask unanimous consent the order for the 
+quorum call be rescinded.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. SHELBY. Mr. President, I move to table amendment No. 3243 and ask 
+for the yeas and nays.
+  The PRESIDING OFFICER. Is there a sufficient second?
+  There is a sufficient second.
+  The question is on agreeing to the motion.
+  The clerk will call the roll.
+  Mr. DURBIN. I announce that the Senator from Delaware (Mr. Biden), 
+the Senator from New York (Mrs. Clinton), the Senator from Connecticut 
+(Mr. Dodd), and the Senator from Illinois (Mr. Obama) are necessarily 
+absent.
+  Mr. LOTT. The following Senators are necessarily absent: the Senator 
+from Idaho (Mr. Craig), the Senator from New Mexico (Mr. Domenici), the 
+Senator from Nebraska (Mr. Hagel), and the Senator from Virginia (Mr. 
+Warner).
+  The PRESIDING OFFICER (Mr. Whitehouse). Are there any other Senators 
+in the Chamber desiring to vote?
+  The result was announced--yeas 61, nays 31, as follows:
+
+                      [Rollcall Vote No. 363 Leg.]
+
+                                YEAS--61
+
+     Akaka
+     Alexander
+     Allard
+     Baucus
+     Bennett
+     Bingaman
+     Bond
+     Boxer
+     Brown
+     Byrd
+     Cantwell
+     Cardin
+     Carper
+     Casey
+     Cochran
+     Conrad
+     Crapo
+     Dole
+     Dorgan
+     Durbin
+     Feinstein
+     Gregg
+     Harkin
+     Inouye
+     Johnson
+     Kennedy
+     Kerry
+     Klobuchar
+     Kohl
+     Landrieu
+     Lautenberg
+     Leahy
+     Levin
+     Lieberman
+     Lincoln
+     Martinez
+     McCaskill
+     Menendez
+     Mikulski
+     Murkowski
+     Murray
+     Nelson (FL)
+     Nelson (NE)
+     Pryor
+     Reed
+     Reid
+     Rockefeller
+     Salazar
+     Sanders
+     Schumer
+     Sessions
+     Shelby
+     Snowe
+     Specter
+     Stabenow
+     Stevens
+     Tester
+     Voinovich
+     Webb
+     Whitehouse
+     Wyden
+
+                                NAYS--31
+
+     Barrasso
+     Bayh
+     Brownback
+     Bunning
+     Burr
+     Chambliss
+     Coburn
+     Coleman
+     Collins
+     Corker
+     Cornyn
+     DeMint
+     Ensign
+     Enzi
+     Feingold
+     Graham
+     Grassley
+     Hatch
+     Hutchison
+     Inhofe
+     Isakson
+     Kyl
+     Lott
+     Lugar
+     McCain
+     McConnell
+     Roberts
+     Smith
+     Sununu
+     Thune
+     Vitter
+
+                             NOT VOTING--8
+
+     Biden
+     Clinton
+     Craig
+     Dodd
+     Domenici
+     Hagel
+     Obama
+     Warner
+  The motion was agreed to.
+  Mr. LAUTENBERG. Mr. President, I move to reconsider the vote.
+  Mr. NELSON of Nebraska. I move to lay that motion on the table.
+  The motion to lay on the table was agreed to.
+  The PRESIDING OFFICER. The Senator from North Dakota.
+
+
+                           Amendment No. 3240
+
+  Mr. DORGAN. Mr. President, I intend to offer an amendment. I have 
+spoken at some length with the managers, and I will withdraw the 
+amendment, but I want to offer the amendment and talk about it because 
+I have received from them assurances of cooperation on this issue. It 
+is a very important issue. What I would like to do is ask unanimous 
+consent that the pending amendment be set aside so that I might offer 
+an amendment.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. DORGAN. I call up amendment No. 3240 which is at the desk and ask 
+for its immediate consideration.
+  The PRESIDING OFFICER. The clerk will report.
+  The assistant legislative clerk read as follows:
+
+       The Senator from North Dakota [Mr. Dorgan], for himself, 
+     Mr. Bingaman, Mr. Tester, Mr. Baucus, Ms. Cantwell, and Mr. 
+     Thune, proposes an amendment numbered 3240.
+
+  Mr. DORGAN. I ask unanimous consent that the reading of the amendment 
+be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+
+  (Purpose: To increase funding for crime control and methamphetamine 
+              abuse projects for Indians, with an offset)
+
+         On page 27, line 8, strike ``$104,777,000'' and insert 
+     ``$84,777,000''.
+         On page 54, strike lines 15 through 17 and insert the 
+     following:
+         (A) $25,000,000 shall be available for grants under 
+     section 20109(b) of the 1994 Act (42 U.S.C. 13709(b));
+         On page 54, strike lines 20 through 22 and insert the 
+     following:
+         (C) $10,000,000 shall be available for demonstration 
+     projects relating to alcohol and crime in Indian Country, of 
+     which $5,000,000 shall be used to address the problem of 
+     methamphetamine abuse in Indian Country;
+         On page 59, line 11, strike ``$35,000,000'' and insert 
+     ``$40,000,000''.
+
+  Mr. DORGAN. I offer this amendment on behalf of myself and Senators 
+Bingaman, Tester, Baucus, Cantwell, and Thune. This amendment deals 
+with the issue of the criminal justice systems on Indian reservations. 
+Before I talk about the amendment itself, I thank Senator Mikulski and 
+Senator Shelby for the bill they have put together. The legislation 
+they bring to the floor from the Appropriations Subcommittee is an 
+important and marked improvement on what the President has requested.
+  Let me describe what the President requested with respect to law 
+enforcement activities on Indian reservations. Why is this important? 
+Because we have a trust responsibility on Indian reservations, and we 
+are not meeting it. For the tribal jails discretionary grants program 
+in the year 2000, there was $34 million; the President requested zero 
+this year. My colleagues, Senators Mikulski and Shelby appropriated $15 
+million. Tribal courts assistance, the same thing; tribal COPS, $40 
+million in the year 2000, zero in the Administration's 2008 request. 
+Senator Mikulski and Senator Shelby restored that to $35 million. The 
+list goes on.
+  The question is this: Do we or do we not have a responsibility to 
+fund these
+
+[[Page S12748]]
+
+law enforcement responsibilities that we have on Indian reservations? 
+Last week my committee, the Indian Affairs Committee, heard testimony. 
+Let me describe a bit of that testimony. A recent report shows that 34 
+percent of Indian women will be raped or sexually assaulted during 
+their lifetimes. One-third of Indian women will be raped or assaulted 
+during their lifetimes. We heard from one retired Bureau of Indian 
+Affairs police officer who worked on one of the Indian reservations: 
+``We all knew they would only take cases with a confession. We were 
+just too loaded down. We were forced to triage our cases.''
+  When this type of violence becomes commonplace, so commonplace that 
+the police have to triage rape cases, something is wrong. Somebody 
+needs to take action.
+  We had other testimony that the call to the police in an emergency, 
+in a circumstance where there is a violent crime being committed or 
+just was committed, in some cases it takes an hour or an hour and a 
+quarter to receive a response from a law enforcement official.
+  There are fewer than 2,000 Federal and tribal law enforcement 
+officers who patrol more than 53 million acres of land. In North and 
+South Dakota we have four police officers patrolling the 2.3 million 
+acres of Standing Rock Sioux Indian Reservation. Survivors of violent 
+crimes report waiting hours--in some cases days--for the police to 
+respond to their urgent calls.
+  The other issue is the lack of jail space, the lack of places to 
+incarcerate violent criminals. Tribal jails face a $400 million backlog 
+in funding. I have been to tribal jails. I have seen young kids lying 
+on the floors of these jails. The detention centers are unbelievably 
+deplorable, in many cases. One Federal official said that the lack of 
+detention facilities means that this whole system is a catch-and-
+release jail system. The law enforcement officials of the tribe catch 
+the criminals, and they are forced to release many of them right back 
+into the community to commit another crime.
+  We also heard testimony last week about the Indian reservations 
+becoming soft targets for criminal organizations because of this 
+neglect. That is not the choice of the Indian tribes. The fact is, they 
+don't want this happening on the reservations. In May 2006, Federal 
+officials seized a methamphetamine business plan. It outlined how the 
+organization wanted to replace alcohol abuse with meth abuse on the 
+Indian reservation because these are the most vulnerable citizens. It 
+outlined how non-American Indians should handle the drugs, and it 
+explained that tribal police couldn't arrest them while they are on the 
+reservation. These stories are unbelievable. Again, a report that says 
+one-third of Indian women during their lifetime will be raped or 
+sexually assaulted, and we don't have adequate law enforcement 
+protection.
+  We have a couple million American Indians living on reservations. The 
+system that was established over a century ago was that the Federal 
+Government was going to have the basic law enforcement responsibility, 
+and we have not met it. We have not met our responsibilities in health 
+care, in education, in housing, and we have not met them in law 
+enforcement.
+  I have described on this floor ad nauseum the situation with health 
+care. We have responsibilities for two groups of people for health 
+care. We have responsibility for every one we throw into a Federal 
+penitentiary. They are our prisoners. We provide for their health care. 
+We have a trust responsibility for medical care for American Indians. 
+That is because that is a decision our country made a long time ago. We 
+spend twice as much per person providing health care for Federal 
+prisoners than we do to meet our obligation to provide health care for 
+Indians. Many of these kids, many of the elders go wanting for health 
+care in a country like ours.
+  I am talking now not about health care or housing or education where 
+we have a full-blown crisis. I am talking about law enforcement, the 
+basics. If your life is not free from violence, you are always afraid. 
+The fact is, we have circumstances where we have inadequate jail space. 
+We have in many cases circumstances where violent crimes are committed, 
+and yet they must be investigated by the FBI. They must be investigated 
+by the U.S. Attorney's Office and prosecuted by the U.S. Attorney's 
+Office. The fact is, resources do not exist. That is the problem.
+  My proposal is simple. My amendment was to increase the funding in 
+this legislation in two areas: one dealing with detention centers, and 
+that is an urgent situation that is in need of a response. In the 
+second area we provide a grant program to be increased, as it properly 
+should, to deal with the issue of alcohol and methamphetamine. 
+Methamphetamine is a scourge on Indian reservations. They are being 
+targeted by gangs and by organized crime. They are being targeted by 
+non-Indians. They don't have the law enforcement capability to take 
+care of it. The question is, are we going to do that?
+
+
+                     Amendment No. 3240, Withdrawn
+
+  My colleagues from Maryland and Alabama have been very helpful in 
+saying they are willing to work with me to increase these accounts and 
+find ways to fund these things. As a result, I will ask that my 
+amendment be withdrawn because we have made progress in commitments 
+from those two legislators. I thank them. I ask unanimous consent to 
+withdraw the amendment.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. DORGAN. I look forward to working with them. In the next 5 or 6 
+months we are going to make some real progress.
+  The PRESIDING OFFICER. The amendment is withdrawn.
+  Ms. MIKULSKI. Mr. President, I salute the Senator from North Dakota. 
+I have found his comments about those women being raped to be 
+devastating, and I know we are going to continue to work with him.
+
+
+                           Amendment No. 3250
+
+  I now ask unanimous consent that amendment No. 3250 be agreed to.
+  The PRESIDING OFFICER. Is there objection?
+  Without objection, the amendment is agreed to.
+  The amendment (No. 3250) was agreed to.
+  Ms. MIKULSKI. Mr. President, I move to reconsider the vote.
+  Mrs. HUTCHISON. I move to lay that motion on the table.
+  The motion to lay on the table was agreed to.
+  The PRESIDING OFFICER. The Senator from Texas.
+  Mrs. HUTCHISON. Mr. President, I commend Senator Mikulski and Senator 
+Shelby for the work they have done on the amendment that just passed. 
+This is a major step in the right direction to assure that America 
+stays in the forefront of space technology, of the research, of the 
+quality of life that we have gained from being the first in space. I 
+commend Senator Mikulski--I have so enjoyed working with her--and 
+Senator Shelby for working with us in support of the amendment that was 
+just added to the bill.
+
+
+                    Amendment No. 3233, as Modified
+
+  Ms. MIKULSKI. I ask unanimous consent that notwithstanding the 
+adoption of amendment No. 3233, it be modified with changes at the 
+desk.
+  The PRESIDING OFFICER. Is there objection?
+  Without objection, the amendment is so modified.
+  The amendment, as modified, is as follows:
+
+       On page 70, between lines 10 and 11, insert the following:
+       Sec. 217.  Notwithstanding any other provision of this 
+     title--
+       (1) the amount appropriated in this title under the heading 
+     ``General Administration'' is reduced by $10,000,000;
+       (2) the amount appropriated in this title under the heading 
+     ``violence against women prevention and prosecution 
+     programs'' under the heading ``Office on Violence Against 
+     Women'' is increased by $10,000,000; and
+       (3) of the amount appropriated in this title under the 
+     heading ``violence against women prevention and prosecution 
+     programs'' under the heading ``Office on Violence Against 
+     Women''--
+       (A) $5,000,000 is for grants to encourage arrest policies, 
+     as authorized by part U of the Omnibus Crime Control and Safe 
+     Streets Act of 1968 (42 U.S.C. 3796hh et seq.);
+       (B) $4,000,000 is for engaging men and youth in prevention 
+     programs, as authorized by section 41305 of the Violence 
+     Against Women Act of 1994 (42 U.S.C. 14043d-4); and
+       (C) $1,000,000 is for the National Resource Center on 
+     Workplace Responses to assist victims of domestic violence, 
+     as authorized by section 41501 of the Violence Against Women 
+     Act of 1994 (42 U.S.C. 14043f).
+
+  Ms. MIKULSKI. Finally, I ask unanimous consent that all first-degree
+
+[[Page S12749]]
+
+amendments to H.R. 3093 must be filed at the desk by 2:30 p.m. Monday, 
+October 15.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The PRESIDING OFFICER. The Senator from Florida.
+  Mr. NELSON of Florida. Mr. President, I wish to say thank you to my 
+colleagues. I am so grateful. We have worked this thing pretty hard. It 
+is right that NASA be given some of these funds they had to expend on 
+an emergency basis for the recovery to flight of the Space Shuttle 
+Columbia. I want the chairman and the ranking member to know how 
+profoundly grateful I am for their leadership in making this happen.
+  Now we have the challenge of going to the conference committee to 
+make it stick. I am so grateful for your leadership.
+  Thank you, Mr. President.
+  The PRESIDING OFFICER. The Senator from Maryland.
+  Ms. MIKULSKI. Mr. President, I yield to the distinguished Senator 
+from Pennsylvania. We had this pressing amendment we needed to get 
+done, but the Senator from Pennsylvania and the Senator from Ohio have 
+been very patient. I will now yield such time as he may consume to the 
+Senator from Pennsylvania.
+  The PRESIDING OFFICER. The Senator from Pennsylvania.
+  Mr. CASEY. Mr. President, I thank you and commend the work of our 
+senior Senator from Maryland on this bill and so many others. I 
+appreciate her hard work on this bill and giving us this time.
+
+
+                           Amendment No. 3256
+
+  Mr. President, I ask unanimous consent that the pending amendment be 
+set aside, and I call up amendment No. 3256 and ask for its immediate 
+consideration.
+  The PRESIDING OFFICER. Is there objection?
+  Without objection, it is so ordered.
+  The clerk will report.
+  The assistant legislative clerk read as follows:
+
+       The Senator from Pennsylvania [Mr. Casey], for Mr. Biden, 
+     for himself, Mr. Kohl, Mr. Bingaman, Mrs. Clinton, Mr. Kerry, 
+     Mr. Levin, Mr. Kennedy, Mr. Bayh, Ms. Cantwell, Mrs. Boxer, 
+     Mr. Schumer, Mr. Dodd, Mr. Casey, Ms. Collins, Mr. Cardin, 
+     Mr. Reed, and Mr. Nelson of Nebraska, proposes an amendment 
+     numbered 3256.
+
+  The amendment is as follows:
+
+   (Purpose: To appropriate an additional $110,000,000 for community 
+   oriented policing services and to provide a full offset for such 
+                                amount)
+
+       On page 57, line 7, strike ``$550,000,000'' and insert 
+     ``$660,000,000''.
+       On page 60, line 2, strike ``and'' and all that follows 
+     through ``Funds'' on line 3, and insert the following:
+       (12) $110,000,000 is for grants under section 1701 of title 
+     I of the 1968 Act (42 U.S.C. 3796dd) for the hiring and 
+     rehiring of additional career law enforcement officers under 
+     part Q of such title, notwithstanding subsection (i) of such 
+     section; and
+       (13)
+       On page 97, between lines 19 and 20, insert the following:
+       Of the unobligated balances made available for the 
+     Department of Justice in prior fiscal years, $110,000,000 are 
+     rescinded.
+
+  Mr. CASEY. Mr. President, I rise on behalf of Senator Biden, who 
+cannot be here today, and I join him in offering an amendment to 
+provide funding for hiring more officers for the Community Oriented 
+Policing Services Program, or what is known popularly as the COPS 
+Program.
+  Joining us on this amendment are Senators Mikulski, Kohl, Bingaman, 
+Clinton, Kerry, Levin, Kennedy, Bayh, Cantwell, Boxer, Schumer, Dodd, 
+Collins, Cardin, Reed of Rhode Island, and Nelson of Nebraska.
+  Mr. President, I also ask unanimous consent that Senators Lautenberg 
+and Klobuchar be added as cosponsors, as well as Senator Whitehouse 
+from Rhode Island.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. LEAHY. Mr. President, will the Senator yield?
+  Mr. CASEY. I will.
+  Mr. LEAHY. Mr. President, I would like the Senator from Vermont to 
+also be added as a cosponsor of the amendment.
+  Mr. CASEY. Mr. President, I ask unanimous consent that the Senator 
+from Vermont, Mr. Leahy, be added as a cosponsor of the amendment.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. CASEY. Mr. President, the COPS Program was created in 1994, known 
+then as the Biden crime bill, in response to historically high rates of 
+crime. Over 100,000 community policing officers were hired to work the 
+streets of communities across America.
+  This successful program not only increases the number of police 
+officers on the street to fight crime but also emphasizes building 
+collaboration and partnership between the community and law enforcement 
+so we can prevent crime in addition to fighting crime. Crime was driven 
+down from all-time highs to historic lows. It stayed low until about 2 
+years ago, when budgetary cuts by this administration began to show up 
+in rising crime statistics.
+  Data released this week from the FBI shows that violent crime has 
+increased again for the second year in a row. Philadelphia is one of 
+several cities that is experiencing severe problems with violence. 
+Although the crime increases of the past 2 years may be characterized 
+by some as minor, they are alarming because they follow a steady 10-
+year decline in crime rates across the country.
+  Why is this alarming increase in effect? Well, some researchers and 
+experts predict that the uptick in crime rates are in part due to the 
+administration's budget cuts. In recent years, billions in Federal 
+funding for State and local law enforcement have been cut--including 
+the near complete elimination of the COPS hiring program.
+  As a result, once again crime is rising across the Nation. The latest 
+FBI crime reports showed a 1.9-percent increase in violent crime. This 
+is the first 2-year increase in crime rates since the COPS Program was 
+first created and hiring was funded. It is no coincidence that when 
+Congress funded COPS, crime went down, but when the administration 
+eliminated the COPS hiring program, crime began to rise.
+  I would argue that if the President of the United States can find 
+billions for tax breaks for wealthy Americans, he should be able to 
+find funds for putting police on the streets of America.
+  Independent studies have verified the effectiveness of the COPS 
+Program. The GAO found a statistical link between the COPS Program 
+grants and reductions in violent crime. The Brookings Institute 
+reported that COPS is one of the most cost-effective options for 
+fighting crime. They found it saves lives and saves money.
+  So it is critical that Congress funds not only priorities overseas 
+but here at home. Rising crime is an alarming and complex problem. 
+There is no one solution, but having more cops on the street is part of 
+the solution.
+  I urge my colleagues to join Senator Biden and our numerous 
+cosponsors in increasing funding for this critical program that will 
+provide us with more law enforcement on the streets and greater safety 
+in our communities.
+  I yield the floor.
+  The PRESIDING OFFICER. The Senator from Maryland.
+
+
+                           Amendment No. 3218
+
+  Ms. MIKULSKI. Mr. President, I call up amendment No. 3218 by Senator 
+Murray and ask for its immediate consideration.
+  The PRESIDING OFFICER. Is there objection to setting aside the 
+pending amendments?
+  Without objection, it is so ordered.
+  The clerk will report.
+  The assistant legislative clerk read as follows:
+
+       The Senator from Maryland [Ms. Mikulski], for Mrs. Murray, 
+     for herself, Ms. Cantwell, Mr. Leahy, Mr. Schumer, and Mr. 
+     Crapo, proposes an amendment numbered 3218.
+
+  Ms. MIKULSKI. Mr. President, I ask unanimous consent that reading of 
+the amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+
+     (Purpose: To provide funds for the Northern Border Prosecutor 
+                              Initiative)
+
+       On page 53, line 11, after ``officers'' insert ``and of 
+     which $20,000,000 shall be for the Northern Border Prosecutor 
+     Initiative to reimburse State, county, parish, tribal, or 
+     municipal governments only for costs associated with the 
+     prosecution of criminal cases declined by local United States 
+     Attorneys offices, subject to section 505 of this Act''.
+
+
+                    Amendment No. 3218, as Modified
+
+  Ms. MIKULSKI. Mr. President, I send a modification to the desk.
+
+[[Page S12750]]
+
+  The PRESIDING OFFICER. The amendment is so modified.
+  The amendment, as modified, is as follows:
+
+       On page 53, line 3, strike ``400,000,000'' and insert 
+     ``$420,000,000''.
+       On page 53, line 11, strike the semicolon, add a comma and 
+     add ``and of which $20,000,000 for a Northern Border 
+     Prosecutor Initiative to reimburse State, county, parish, 
+     tribal, or municipal governments only for costs associated 
+     with the prosecution of criminal cases declined by local 
+     United States Attorneys offices, subject to Section 505 of 
+     this Act;''.
+       At the appropriate place, add the following:
+
+     ``the amount appropriated in this title under the heading 
+     ``GENERAL ADMINISTRATION'' is reduced by $20,000,000;''.
+
+  Ms. MIKULSKI. Mr. President, this amendment, as modified, has been 
+cleared on both sides of the aisle and I urge its immediate adoption.
+  The PRESIDING OFFICER. Is there further debate on the amendment?
+  If not, the question is on agreeing to the amendment, as modified.
+  The amendment (No. 3218), as modified, was agreed to.
+  Mr. SHELBY. Mr. President, I move to reconsider the vote.
+  Ms. MIKULSKI. I move to lay that motion on the table.
+  The motion to lay on the table was agreed to.
+
+
+                           Amendment No. 3225
+
+  Ms. MIKULSKI. Mr. President, I now call up amendment No. 3225 by 
+Senator Reid of Nevada and ask for its immediate consideration.
+  The PRESIDING OFFICER. Without objection, the pending amendments are 
+set aside.
+  The clerk will report.
+  The assistant legislative clerk read as follows:
+
+       The Senator from Maryland [Ms. Mikulski], for Mr. Reid, 
+     proposes an amendment numbered 3225.
+
+  Ms. MIKULSKI. Mr. President, I ask unanimous consent that reading of 
+the amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+
+  (Purpose: To require an analysis of the methods for collecting data 
+ regarding the status of the United States economy and a determination 
+   of whether the current data results in an overstatement of United 
+      States economic growth, domestic manufacturing output, and 
+                             productivity)
+
+       On page 26, after line 24, insert the following:
+       Sec. 114. United States Economic Data. (a) Of the funds 
+     provided in this title for Economic and Information 
+     Infrastructure under the heading ``economic and statistic 
+     analysis'', $950,000 shall be used to carry out the study and 
+     report required under this section.
+       (b) Not later than 60 days after the date of the enactment 
+     of this Act, the Secretary of Commerce shall enter into a 
+     contract with the National Academy of Sciences to conduct a 
+     study and report on whether the import price data published 
+     by the Bureau of Labor Statistics and other economic data 
+     collected by the United States accurately reflect the 
+     economic condition of the United States.
+       (c)(1) The report required by subsection (b) shall include 
+     an analysis of the methods used to determine the condition of 
+     the United States economy and shall address--
+       (A) whether the statistical measure of the United States 
+     economy correctly interprets the impact of imports and 
+     outsourced production;
+       (B) whether the statistical measures of the United States 
+     economy result in an accurate report of United States gross 
+     domestic product (GDP), productivity, and other aspects of 
+     economic performance;
+       (C) whether the impact of imports on United States 
+     manufacturing levels and competitiveness is accurately 
+     reported; and
+       (D) whether other countries are accounting for import 
+     prices more accurately or frequently than the United States.
+       (2) If the findings of the report indicate that the methods 
+     used for accounting for imported goods and United States 
+     wages result in overstating economic growth, domestic 
+     manufacturing output, and productivity growth, the report 
+     shall include recommendations with respect to--
+       (A) what actions should be taken to produce more accurate 
+     import price indices on a regular basis; and
+       (B) what other measures of economic analysis should be used 
+     to accurately reflect the globalization of economic activity 
+     and offshoring of domestic production.
+       (d) The report required by subsection (b) shall be 
+     completed and submitted to Congress not later than 18 months 
+     after the date of the contract described in subsection (b).
+
+  Ms. MIKULSKI. Mr. President, this amendment is cleared on both sides 
+of the aisle and I urge its immediate adoption.
+  The PRESIDING OFFICER. Is there further debate on the amendment?
+  If not, the question is on agreeing to the amendment.
+  The amendment (No. 3225) was agreed to.
+  Mr. SHELBY. I move to reconsider the vote.
+  Ms. MIKULSKI. I move to lay that motion on the table.
+  The motion to lay on the table was agreed to.
+
+
+                           Amendment No. 3268
+
+  Ms. MIKULSKI. Mr. President, my last request is, I send an amendment 
+to the desk and ask for its immediate consideration.
+  The PRESIDING OFFICER. Without objection, the pending amendments are 
+laid aside.
+  The clerk will report.
+  The assistant legislative clerk read as follows:
+
+       The Senator from Maryland [Ms. Mikulski] proposes an 
+     amendment numbered 3268.
+
+  Ms. MIKULSKI. Mr. President, I ask unanimous consent that reading of 
+the amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+
+ (Purpose: To provide funds for science, engineering, technology, and 
+                    mathematics related activities)
+
+       On page 97, between lines 9 and 10, insert the following:
+       Sec. 528.  Funds for Teach for America.--Of the funds 
+     provided in this Act for the National Aeronautics and Space 
+     Administration, under the heading ``science, aeronautics, and 
+     exploration'', $3,000,000 may be for Teach for America for 
+     science, technology, engineering, and mathematics related 
+     activities.
+
+  Ms. MIKULSKI. Mr. President, this amendment provides funds for 
+science, engineering, technology, and mathematics-related activities at 
+NASA. It has been cleared on both sides and I urge its immediate 
+adoption.
+  The PRESIDING OFFICER. Is there further debate on the amendment?
+  If not, the question is on agreeing to the amendment.
+  The amendment (No. 3268) was agreed to.
+  Mr. SHELBY. Mr. President, I move to reconsider the vote.
+  Ms. MIKULSKI. I move to lay that motion on the table.
+  The motion to lay on the table was agreed to.
+  The PRESIDING OFFICER. The Senator from Maryland.
+  Ms. MIKULSKI. Mr. President, I know the Senator from Ohio has been 
+waiting. He has been very cooperative and patient, and I appreciate it. 
+I know he wants to speak on an important issue that has been on his 
+mind and should be on the Senate floor as it relates to trade.
+  The PRESIDING OFFICER. The Senator from Ohio.
+  Mr. BROWN. Mr. President, I thank the senior Senator from Maryland.
+
+
+                           Amendment No. 3260
+
+  Mr. President, I ask unanimous consent to lay aside the pending 
+amendment and call up amendment No. 3260.
+  The PRESIDING OFFICER. Is this objection?
+  Without objection, it is so ordered.
+  The clerk will report.
+  The legislative clerk read as follows:
+
+       The Senator from Ohio [Mr. Brown], for himself, Ms. 
+     Stabenow, Mr. Byrd, and Mr. Rockefeller, proposes an 
+     amendment numbered 3260.
+
+  Mr. BROWN. Mr. President, I ask unanimous consent that reading of the 
+amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+
+ (Purpose: To prohibit the use of any funds made available in this Act 
+  in a manner that is inconsistent with the trade remedy laws of the 
+                 United States, and for other purposes)
+
+       On page 97, between lines 9 and 10, insert the following:
+       Sec. 528. Limitation on Negotiating Trade Agreements.--None 
+     of the funds appropriated or otherwise made available in this 
+     Act may be used in a manner that is inconsistent with the 
+     principal negotiating objective of the United States with 
+     respect to trade remedy laws to preserve the ability of the 
+     United States--
+       (1) to enforce vigorously its trade laws, including 
+     antidumping, countervailing duty, and safeguard laws;
+       (2) to avoid agreements that--
+       (A) lessen the effectiveness of domestic and international 
+     disciplines on unfair trade, especially dumping and 
+     subsidies; or
+       (B) lessen the effectiveness of domestic and international 
+     safeguard provisions, in order to ensure that United States 
+     workers, agricultural producers, and firms can compete
+
+[[Page S12751]]
+
+     fully on fair terms and enjoy the benefits of reciprocal 
+     trade concessions; and
+       (3) to address and remedy market distortions that lead to 
+     dumping and subsidization, including overcapacity, 
+     cartelization, and market-access barriers.
+
+  Mr. BROWN. Mr. President, first of all, I thank the senior Senator 
+from Maryland for her work, especially today, on much of what she has 
+done, but especially for what she did on NASA earlier today that will 
+matter to northern Ohio, my whole State, and to much of the rest of 
+this country.
+  I rise, quickly, to offer an amendment that will help America's 
+manufacturers compete on even terms with foreign manufacturers.
+  American manufacturing, for generations, has been a tremendous source 
+of pride for our country and a ladder to the middle class for our 
+working families.
+  American manufacturing fuels our economy and supplies our national 
+defense infrastructure. It would be dangerous, on many levels, for our 
+country to ignore the anticompetitive forces that are buffeting our 
+manufacturing sector. It would be, and it is.
+  Over the last several years, American manufacturing has faltered and 
+millions of jobs have been lost. In my home State of Ohio, well over 
+200,000 manufacturing jobs have disappeared in the last half decade or 
+so--from Steubenville to Lima and from Cleveland to Dayton.
+  Workers and manufacturers in all our States find it increasingly 
+difficult to compete in today's global markets, where the odds are 
+stacked against them because of unfair trade practices.
+  American industry can compete with anyone in the world when it is a 
+fair fight.
+  Our international trade laws are intended to secure a level playing 
+field, but, unfortunately, some of our trading partners have repeatedly 
+found ways to circumvent these laws to gain an unfair advantage against 
+workers in the United States. This has led to recordbreaking trade 
+deficits, which threaten the long-term health of our economy, and 
+massive job losses, which have wreaked havoc on the middle class.
+  Some foreign governments, for example, have unfairly and illegally 
+doled out massive subsidies to their own companies and others willing 
+to reestablish offshore, contributing to the migration of manufacturing 
+jobs overseas and artificial price advantages for imported products.
+  Despite evidence that something is very wrong, you can look at job 
+loss figures, deficit figures, outsourcing figures or offshoring 
+figures. Our Government has chosen not to aggressively enforce U.S. 
+trade remedy laws. It has also failed to successfully advocate for U.S. 
+interests in the multilateral dispute settlement setting.
+  The WTO has issued a series of decisions striking down the practice 
+known as zeroing in U.S. antidumping proceedings. Zeroing is a 
+methodology employed for measuring and remedying unfair foreign 
+dumping--the practice of selling products in the United States at below 
+``fair value,'' which corrupts free market competition and undermines 
+U.S. industries.
+  Zeroing, a practice our Government has used for more than 80 years, 
+has been upheld by U.S. courts and the GATT and is recognized as good 
+policy because it combats unfair dumping.
+  The WTO's decisions threaten to create an enormous loophole in trade 
+law enforcement. This affects industries and local economies throughout 
+our country--not just steel, not just paper, so many things. The WTO 
+decisions on issues such as zeroing is an overreach.
+  The USTR must work harder to overturn the recent European and 
+Japanese zeroing decisions in negotiations and delay full 
+implementation of the Japanese decision until, at a minimum, other 
+methodologies are in place to capture 100 percent of dumping.
+  If the WTO continues to target U.S. trade remedy laws, we need to 
+fight back. The administration's lack of backbone is unacceptable. This 
+amendment is a modest reminder to the administration that we need to 
+vigorously enforce our trade laws.
+  I urge my colleagues to give it their support.
+
+
+                          Aeronautics Research
+
+  Mr. WEBB. Mr. President, I would like to engage the distinguished 
+chairwoman of the Commerce, Justice, and Science Appropriations 
+Subcommittee, Senator Mikulski, in a colloquy about the importance of 
+aeronautics funding. The chairwoman is aware that both Senator Warner 
+and I have serious concerns about decreased funding for aeronautics. 
+Together we look forward to working with the Appropriations Committee 
+to ensure adequate funding for important aeronautics research programs 
+in Virginia.
+  Aeronautics research programs have been essential to our economic and 
+military security for decades. Think about the millions of people who 
+fly every year and the countless jobs and communities that have been 
+affected by this research. From the days of the first flight of the 
+Wright Brothers at Kitty Hawk, NC, to the modern-day aviation industry 
+today that represents millions of jobs and contributes billions of 
+dollars to our economy, our country has been served well by the 
+investments we have made in aeronautics research. That history, 
+however, and our present are at a crossroads.
+  The advances made possible by Government-funded research in emerging 
+aeronautics technologies have enabled long-standing military air 
+superiority for the United States in recent decades. The vast majority 
+of military aircraft design the U.S. military currently flies 
+incorporate advanced technologies developed at NASA Research Centers. 
+As a result, it is important for NASA's cooperative research efforts 
+with the Department of Defense regarding military aviation technologies 
+are maintained at a healthy funding level. A national effort is needed 
+to ensure that NASA can meet the civil and military needs in the 
+future.
+  This issue came up when the Senate debated the budget for the 2008 
+fiscal year. In 2007, Congress provided $717 million for aeronautics 
+research, in cost-adjusted numbers. I know Senator Warner and I are 
+very thankful that the Appropriations Committee was able to provide 
+this funding. Yet the administration proposed, in their fiscal year 
+2008 budget, only $554 million for aeronautics. In an age of increased 
+global competition from Europe, China, and other nations, this decision 
+is alarming.
+  We appreciate the demands faced by Chairman Mikulski and Ranking 
+Member Shelby on funding all the programs under their subcommittee's 
+purview. However, as I noted in March during the budget debate, and I 
+repeat that message today, aeronautics research is essential for the 
+United States to maintain its advantage in aeronautics technologies and 
+air superiority within the military. It is essential to inspiring a new 
+generation of children who one day might make a career in aviation, 
+engineering, computer modeling and simulation.
+  It is also important that Congress supports NASA Administrator's 
+objective of 10 Healthy Centers, especially ensuring the well-being of 
+its four research centers, which are scheduled to face significant 
+budget decreases in the outyears. These research centers have cutting-
+edge facilities that are operated and maintained by highly respected 
+scientists. Over the years, they have produced outstanding basic 
+research, especially in aeronautics, which is then utilized by the 
+private sector to make significant advancements in the space and 
+aeronautics industries.
+  Ms. MIKULSKI. The committee recognizes the importance of aeronautics 
+research and NASA's 10 Healthy Centers effort. We share your concern 
+about the steady decline in budget requests for aeronautics research. 
+We will work with you to ensure this critical and historical strength 
+of NASA is funded at a level sufficient to maintain our country's 
+competitive edge in aeronautics.
+
+
+                     Plant Genome Research Program
+
+  Mr. BOND. Mr. President, the distinguished chair of the subcommittee 
+and I have long been strong supporters of plant genomics in general and 
+the Plant Genome Research Program undertaken at the NSF in particular. 
+The Plant Genome Research Program produces basic scientific research by 
+providing for peer-reviewed competitive research grants to qualified 
+institutions. Maintaining significant support for fundamental research 
+in crop systems is more important than ever as agriculture is trying to 
+meet the demands of consumers worldwide by providing a safe and secure 
+supply of resources for human and animal nutrition, fiber, green 
+products, bioenergy,
+
+[[Page S12752]]
+
+and plant-based nutraceuticals and other leading edge applications. 
+This initiative has had strong backing over the years from the broad-
+based science community in conjunction with farmers and those up the 
+food supply chain.
+  Together, as leaders of the VA/HUD and Independent Agencies 
+Subcommittee, we began this initiative in 1997. It remains critical 
+that we protect the integrity of the program and ensure its remains a 
+priority at the NSF.
+  Is it the expectation of the subcommittee that the Plant Genome 
+Research Program is funded at no less than $100 million?
+  Ms. MIKULSKI. Mr. President, that is correct.
+  Mr. BOND. Further, is it the expectation of the subcommittee that 
+funding for the Arabadopsis 2010 program continue to be financed 
+through the BIO directorate, yet separate from funds provided for the 
+plant genome project as it has in the past?
+  Ms. MIKULSKI. Mr. President, that is my expectation. I appreciate 
+your long standing support of plant genomics and will work to see that 
+these important programs continue to receive support as they have in 
+the past.
+
+
+                         Electronic Prescribing
+
+  Mr. WHITEHOUSE. Mr. President, I would like to engage the 
+distinguished chairman of the Subcommittee on Commerce, Justice, and 
+Science Appropriations, Ms. Mikulski, in a colloquy concerning the e-
+prescribing of controlled substances. Would the chairman and manager of 
+the bill entertain a question?
+  Ms. MIKULSKI. Mr. President, I would be happy to.
+  Mr. WHITEHOUSE. Mr. President, I thank the chairman. As she knows, I 
+am a profound believer in the potential of health information 
+technology to revolutionize the way we deliver health care in this 
+country. The potential for better coordinated care, reduced medical 
+errors, increased patient satisfaction, and enhanced patient peace of 
+mind is enormous. It is also worth noting that several well-respected 
+organizations estimate annual savings near $80 billion.
+  Unfortunately, we have been unable, as a nation, to develop an 
+interoperable, integrated health information infrastructure the way we 
+were able to do with our highway system or our railroad tracks. This is 
+the result of a variety of barriers that we, as legislators, have a 
+responsibility to tackle if we are going to take this necessary step to 
+improve health care in this Nation. One of those barriers is the 
+current prohibition by the Drug Enforcement Administration, DEA, on the 
+electronic prescribing of controlled substances.
+  This ban requires physicians who e-prescribe to maintain two separate 
+systems: an electronic system for noncontrolled substances and a paper 
+system for controlled substances. This is an excessive encumbrance for 
+doctors who are trying to do the right thing for their patients--an 
+encumbrance that has unfortunately led many overburdened doctors to 
+give up electronic prescribing altogether. This is a travesty.
+  As a former attorney general and a former U.S. attorney, I am 
+sensitive to the prosecutorial concerns of the Drug Enforcement 
+Administration. But CMS has been working without success for years with 
+the DEA to resolve their differences on this issue. Apparently, the DEA 
+refuses to budge. I would like to know why. Billion-dollar transactions 
+are done electronically; highly classified national security 
+information travels electronically; military attack aircraft are 
+targeted electronically. I would say to the DEA: Please do not tell me 
+we cannot figure out a way for a doctor to prescribe Vicodin 
+electronically. I think we need to demand a joint report from CMS and 
+the DEA laying out a way, or ways, to overcome this hurdle, to be 
+completed at the earliest practicable date but no later than 1 month 
+after the date of enactment. In the absence of the DEA changing the 
+rules, we must seek a statutory solution to this problem. Considering 
+the extraordinary potential of e-prescribing, we have to break this 
+logjam.
+  Mr. President, I would ask the chairman if she would work with me to 
+ensure that CMS and the DEA will work together to propose a reasonable 
+approach soon to allow the electronic prescribing of controlled 
+substances?
+  Ms. MIKULSKI. Mr. President, I would say to the Senator from Rhode 
+Island that it is my intention to do just that. I agree that a joint 
+report between the DEA and CMS will help us move forward in this 
+crucial area of health information technology and bring down a serious 
+barrier to improved patient care.
+  Ms. STABENOW. Mr. President, I commend the leadership of Senator 
+Mikulski in ensuring appropriate funding for the many critical 
+activities under the auspices of the Commerce, Justice, and Science 
+spending bill.
+  I also commend my colleagues, Senators Whitehouse and Kennedy, for 
+their leadership in the critically important arena of health 
+information technology, IT. Without their diligent work, the promises 
+of health IT to reduce costs and improve quality of care would be very 
+distant indeed.
+  Even with their dedication and that of many other colleagues, we have 
+our work set out for us as we seek to accelerate the adoption of health 
+IT. The Democratic steering committee heard yesterday from leaders on 
+all aspects of health information technology--representing consumers, 
+health care providers, business, insurers, labor, and others. All share 
+an appreciation for what health IT can do to manage costs and ensure 
+that patients get the care they need, at the right time, and in the 
+best setting.
+  Yet they also expressed a shared sense of the need for Federal 
+leadership and legislation to remove barriers to the adoption of health 
+IT. These barriers include a misalignment of incentives and inadequate 
+funding, the lack of standards adoption, and privacy and security 
+concerns. Some of these barriers are large and will take all of us 
+working together to find solutions. I am committed to doing so and look 
+forward to working with my colleagues this Congress toward that goal.
+  There are also some barriers that should be easy to remove, and we 
+must do so this year. One of those is the current U.S. Drug Enforcement 
+Administration, DEA, prohibition on the electronic transmission of 
+prescriptions for controlled substances, schedules II-V.
+  We know that e-prescribing saves lives, prevents injury, improves 
+patient care outcomes, is more efficient, and saves health care 
+dollars. One amazing statistic: According to the Center for Information 
+Technology Leadership, CITL, e-prescribing systems with a network 
+connection to pharmacy and advanced decision support capabilities can 
+help avoid more than 2 million adverse drug events, ADEs, annually--
+130,000 of which are life-threatening.
+  It is important to note that some of the most dangerous drug 
+interactions can occur with and between controlled substances. 
+Preventing them from being processed electronically also prevents a 
+physician's ability to do a computer drug interaction check to avoid 
+what could be a fatal interaction.
+  Additionally, although the schedule II-V drugs account for only 12 to 
+15 percent of all prescriptions, the prohibition affects a much larger 
+percentage of prescriptions for a very simple reason: of the relatively 
+small number of physicians who have tried to move to electronic 
+prescribing, some are giving it up entirely because they are prohibited 
+from using it for all drugs. Physicians need to be able to use one 
+means to write all prescriptions. If they must shift from electronic to 
+paper depending on the patient or depending on which drug a particular 
+patient needs, the confusion and extra time become too large a barrier 
+to electronic prescribing. The result is a return to paper prescribing, 
+and increased costs, increased errors, and worse health outcomes.
+  The prohibition on e-prescribing of controlled substances not only 
+has a ripple effect in that it deters e-prescribing of all medicines, 
+but it may deter adoption of electronic medical records in general. 
+Electronic prescribing is the first step to adoption of full electronic 
+medical records; if doctors can't efficiently adopt the process of 
+writing prescriptions electronically, they are less likely to adopt 
+electronic medical records.
+  The widespread adoption of electronic medical records could save up 
+to $100 billion annually. Given the fact that health care will soon 
+consume 20 percent of our country's gross domestic
+
+[[Page S12753]]
+
+product, and yet we have 47 million uninsured Americans and the highest 
+infant mortality and lowest life expectancy of any other industrialized 
+nation, we must do whatever we can to encourage adoption of electronic 
+prescribing and electronic medical records, not keep in place policies 
+that deter adoption.
+  I understand and appreciate that the DEA has a very important law 
+enforcement function and needs to have the tools to enforce the laws 
+and prosecute law breakers. However, electronic prescribing is not a 
+barrier to that. The systems that have been used for years to transmit 
+prescriptions electronically are secure and auditable. In fact, 
+electronic prescribing will not only help enforcement but will create 
+new opportunities to prevent abuse of controlled substances. Existing 
+e-prescribing processes are actually more secure than written 
+prescriptions. Banking transactions have been conducted for years 
+electronically, and authorities have been able to prosecute people who 
+misuse the technology. I am confident we can do the same with respect 
+to any misuse regarding controlled substances.
+  I know that the DEA has acknowledged that e-prescribing offers many 
+benefits and has considered ways to allow the electronic transmission 
+of controlled substance prescriptions. And I know that DEA and Health 
+and Human Services held a public meeting last year to begin to address 
+this issue. That was a great first step, but progress has been very 
+slow and now we need to solve this problem in a way that realizes the 
+benefits of health IT, is secure, scalable within the industry, and 
+that protects the DEA's interests.
+  One relatively easy fix may be to simply amend the Controlled 
+Substances Act to permit electronic prescribing. There may be other 
+ways to address the problem, and I am open to discussing those. What is 
+critical is that we find a way to allow e-prescribing for all 
+medications soon--every day we delay, the cost in dollars and lives 
+grows. We need incentives to encourage adoption of e-prescribing, not 
+roadblocks to adoption. Increased use of electronic prescribing will 
+increase patient compliance, improve health outcomes, reduce medication 
+errors, and reduce health care costs.
+  It is my sense that DEA should not invest additional resources in 
+pursuing plans to allow e-prescribing of controlled substances through 
+measures that are unnecessarily high in cost and complexity.
+  I join my colleagues in urging DEA to quickly adopt rules allowing 
+electronic prescribing of controlled substances that rely on the high 
+level of security built into the existing e-prescribing infrastructure 
+and are deemed workable by all stakeholders.
+  Absent a timely adoption of such DEA rules, I look forward to working 
+with my colleagues to find a solution to the prohibition on electronic 
+prescribing of certain medicines this year.
+  Mr. President, I see the chairman of the Committee on Health, 
+Education, Labor, and Pensions is here, and I would appreciate his 
+comments on this issue.
+  Mr. KENNEDY. Mr. President, I thank the Senator from Rhode Island for 
+drawing our attention to this barrier in the advancement of electronic 
+prescribing. The use of electronic prescribing technologies offers an 
+opportunity to improve health care outcomes by reducing medication 
+errors and improving patient compliance with physician orders and 
+screening for dangerous drug-drug interactions. Physicians and 
+pharmacies in Massachusetts have begun to adopt e-prescribing and 
+patients are benefiting. Massachusetts was recently recognized as the 
+State with the highest volume of electronic prescriptions per capita. 
+Electronic prescribing systems offer security advantages beyond those 
+available through a paper-based system by requiring user authentication 
+and generating an audit trail of prescriptions submitted to pharmacies. 
+Creating a method by which controlled substances can be safely and 
+securely prescribed electronically will encourage physicians' adoption 
+of the technology. I support the Senator from Rhode Island's proposal 
+for a joint report by the U.S. Drug Enforcement Administration and the 
+Department of Health and Human Services to evaluate how electronic 
+prescribing of controlled substances can be safely achieved. I also 
+urge the Drug Enforcement Agency to adopt rules allowing controlled 
+substances to be electronically prescribed and in the absence of such 
+rules look forward to working with my colleagues to address the issue 
+legislatively.
+  Ms. MIKULSKI. Mr. President, I agree with the Senator from 
+Massachusetts. I am committed to working with the Senator from Rhode 
+Island, the Senator from Michigan, and the chairman of the HELP 
+Committee to solve this problem.
+  Mr. WHITEHOUSE. Mr. President, I thank the chairman and all my 
+colleagues for their help on this issue.
+  Mr. BYRD. Mr. President, today I voted to table an amendment offered 
+by Senator Coburn to H.R. 3093, the Commerce, Justice, Science, and 
+Related Agencies Appropriations Act of 2008, which would have shifted 
+funding to the Civil Rights Division within the U.S. Department of 
+Justice for the investigation and prosecution of unsolved civil rights 
+cases.
+  I share Senator Coburn's fervent and sincere desire to solve these 
+ghastly crimes. However, I do not believe that his amendment would 
+achieve this important task. Instead, the Senate should consider and 
+pass S. 535, the Emmett Till Unsolved Civil Rights Crime Act. I am a 
+cosponsor of this bill, which would commit the resources of the U.S. 
+Government to investigating and prosecuting racially motivated murders 
+that occurred on or before December 31, 1969. The bill designates an 
+official within the U.S. Department of Justice, and another within the 
+Federal Bureau of Investigation, to investigate, prosecute, and 
+coordinate the investigations of civil rights violations that occurred 
+prior to 1970 and resulted in a death.
+  There is an urgent need for the Congress to enact this measure. Given 
+the advanced age of defendants and potential witnesses, there remains 
+only a small window of opportunity in which to solve these cases. 
+Ultimately, the purpose of this bill is to provide justice to the 
+families of those who were murdered for racially motivated reasons 
+prior to 1970. The bill expresses the sense of Congress that all 
+authorities with jurisdiction, including the Federal Bureau of 
+Investigation and other entities within the U.S. Department of Justice, 
+should expeditiously investigate unsolved civil rights murders, and 
+provide the resources necessary to ensure timely and thorough 
+investigations in the cases involved.
+  The families of the victims of these heinous crimes deserve no less. 
+It is my hope that this bill, which has been approved by the Senate 
+Judiciary Committee, will soon be voted upon and passed by the Senate.
+  The PRESIDING OFFICER. The Senator from Washington.
+
+                          ____________________
+```

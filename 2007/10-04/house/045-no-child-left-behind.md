@@ -1,0 +1,116 @@
+---
+granule: CREC-2007-10-04-pt1-PgH11302-3
+date: 2007-10-04
+edition: CREC
+section: HOUSE
+page: H11302
+citation: 153 Cong. Rec. H11302
+---
+
+# NO CHILD LEFT BEHIND
+
+**Speaking:** Garrett, Scott (G000548) [R-NJ]
+
+**Measures:** H.R. 3177
+
+```
+                              {time}  1600
+                          NO CHILD LEFT BEHIND
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from New Jersey (Mr. Garrett) is recognized for 5 minutes.
+  Mr. GARRETT of New Jersey. Mr. Speaker, I have stood on this floor 
+several times now speaking about the negative impact that NCLB, No 
+Child Left Behind, has had on our children's education and, 
+consequently, on our children's future as well.
+  Tonight I will speak continuously about that as well and the problems 
+until NCLB are fixed. I will continue to speak out against NCLB until 
+parents and educators are empowered to make the changes that will 
+ensure an environment in which schools can teach and children can 
+learn.
+  More and more information is coming to light attracting more and more 
+supporters to the belief that not only should No Child Left Behind not 
+be reauthorized at this time, but, actually, it should be completely 
+scrapped.
+  Yesterday, in the New York Times, Diane Ravitch, a professor of 
+education at NYU and a former assistant secretary of the U.S. 
+Department of Education, wrote, and I quote, ``the No Child Left Behind 
+Act of 2002 is fundamentally flawed,'' and that it should be 
+``overhauled, not just tweaked.''
+  She continued, ``The latest national tests, released last week, show 
+that academic gains since 2003 have been modest, less even than those 
+posted in the years before the law was put in place. In eighth-grade 
+reading, there have been no gains at all since 1998. The main goal of 
+the law--that all children in the United States will be proficient in 
+reading and mathematics by 2014--is simply unattainable. The primary 
+strategy--to test all children in those subjects in grades three 
+through eight every year--has unleashed an unhealthy obsession with 
+standardized testing that has reduced the time available for teaching 
+other important subjects. Furthermore, the law completely fractures the 
+traditional limits on federal interference in the operation of local 
+schools.''
+  Let me repeat that last point, because I believe that it is a missing 
+piece of the jigsaw puzzle. NCLB ``completely fractures the traditional 
+limits on Federal interference in the operation of local schools.''
+  Many times I have referenced the work of Neil McCluskey of Cato 
+Institute, a scholar who shares my concerns about educational policy. 
+He did a study in 2007 entitled, ``End It, Don't Mend It,'' and he 
+concluded that ``NCLB has been ineffective in achieving its intended 
+goals, has had negative, unintended consequences, is incompatible with 
+policies that do work, is at the mercy of a political process that can 
+only worsen its prospects, and is based on the premises that are 
+fundamentally flawed.''
+  Using several shocking statistics, McCluskey points out how States 
+are lowering, not raising, their educational standards. They are 
+creating a race to the bottom to ensure that their schools will not be 
+denied Federal funding.
+  Let me give you just a couple. In 2003, the State of Texas decreased 
+the number of questions on their test in order for it to be approved, 
+from 24 to 20. In Michigan, when 1,500 schools were placed on the NCLB 
+need improvement list, the State lowered the percentage of students 
+required to pass the test in English from 75 down to 42 percent.
+  The State of Ohio backloaded its adequate yearly progress goals, 
+aiming to increase proficiency by a mere 3 percent, 3.3 percent for the 
+first 6 years, but then said they're going to do a 40
+
+[[Page H11303]]
+
+percent increase in the last 6 years. They did this of course in hopes 
+of meeting NCLB's unrealistic goal of having 100 percent proficiency in 
+math and reading in all schools. And there are other studies as well 
+with similar conclusions.
+  In 2005 the Fordham Foundation compared the State proficiency scores 
+to NAEP scores, with striking results. The NAEP tests have generally 
+been maintained at standards over the year, and so it's a good 
+barometer.
+  In the Fordham study, of the 20 States that have reported gains on 
+their tests in 8th grade reading proficiency, mark this, only three 
+showed any progress at even the basic level for NAEP. That means 20 
+States are saying that since No Child Left Behind things are going 
+better. But if you compare it to NAEP, really not. Only three.
+  Furthermore, in a new study released today by the foundation, 
+researchers note that in at least two grades, twice as many States in 
+the U.S. have seen their tests become easier, not harder, since NCLB 
+was put into effect. And that's my point here. All the studies are 
+showing that since NCLB went on the books, States are racing to the 
+bottom when it comes to trying to establish their tests, the exact 
+opposite of what this administration tried to do.
+  I think all of us should be startled, at the very least, by this. 
+Appropriately, we should be outraged. You know, if Washington is 
+forcing our schools to basically lower their standards, putting our 
+children's education at risk, we must act now in this House to reverse 
+the trend. And with NCLB reauthorization coming up now, now's the time 
+to do it.
+  To that end I've submitted a bill, the LEARN Act, Local Education 
+Authority Returns Now. It's H.R. 3177. And what it will do is very 
+simply, it would allow States to opt out of the Federal NCLB system 
+completely, and, at the same time, allow the States to retain their 
+funding.
+  I think, to me, it's very obvious that States have grown tired of 
+Washington dangling money over their heads and holding them 
+accountable. And I thank the Speaker for allowing us to address the 
+issue of the reform that is needed in the area of NCLB and talking 
+about the LEARN Act.
+
+                          ____________________
+```
