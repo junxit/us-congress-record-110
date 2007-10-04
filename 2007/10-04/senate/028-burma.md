@@ -1,0 +1,83 @@
+---
+granule: CRECB-2007-pt19-Pg26763
+date: 2007-10-04
+edition: CRECB
+section: SENATE
+page: 26763
+---
+
+# BURMA
+
+```
+                                 BURMA
+
+  Mr. LEAHY. Mr. President, I spoke last week in this Chamber about the 
+political crisis in Burma where thousands of Buddhist monks, joined by 
+an estimated 100,000 other Burmese citizens, peacefully protested for 
+an end to military dictatorship.
+  Despite appeals for restraint by governments around the world, as 
+well as the U.N. Secretary General, they were met with brute force. 
+Soldiers firing live bullets and wielding clubs killed and injured an 
+undetermined number of unarmed civilians, including at least one 
+foreign journalist, and there are reports that hundreds, and possibly 
+thousands, of monks have been beaten, killed or jailed.
+  The atrocities perpetrated by the Burmese generals are crimes against 
+humanity. They should be indicted and prosecuted by the International 
+Criminal Court.
+  Sooner or later they will be made to pay for the appalling brutality 
+that has been witnessed on television by hundreds of millions of people 
+around the world.
+  The United States has imposed economic sanctions on the Burmese 
+government for many years, thanks in large measure to the tireless 
+efforts of Senator McConnell who, for the better part of two decades, 
+has called for the release of Aung San Suu Kyi, Burma's rightful 
+leader.
+  Additional sanctions were announced, belatedly, by President Bush 
+last week. But far more pressure is needed, particularly to convince 
+Burma's trading partners, like China, India and Thailand, to cut their 
+economic ties to Burma. It is thanks in large part to them that the 
+Burmese generals owe their power and wealth.
+  The crisis in Burma today tarnishes any government that values its 
+financial interests over freedom for the Burmese people. For two 
+decades, they have chafed under the iron grip of a clique of corrupt 
+generals who have shown, year after year, that they belong in the 
+category of ruthless despots who will stop at nothing, including mass 
+murder, to perpetuate their control.
+  Lasting economic, social and political stability in Burma can only 
+begin once the Burmese generals relinquish power. How that comes about 
+is their choice. We have seen the results of peaceful protest. Not even 
+civil disobedience, just peaceful protest. Time and again it has been 
+met with deadly force.
+  Those Nations that continue to do business with Burma make a mockery 
+of their own professed commitment to the Universal Declaration of Human 
+Rights. There is no truer test of their commitment to those fundamental 
+principles than how they respond to the slaughter of unarmed monks and 
+civilians by a regime that is apparently unconcerned that their crimes 
+are being televised to the world.
+  Whether this year, next year, or thereafter, the Burmese junta's days 
+are numbered. Where do Burma's trading partners want to be then--on the 
+right side of history, or having propped up an illegitimate regime 
+until its last gasps?
+  No government can claim perfection in its respect for human rights, 
+including my own government. We have made mistakes, and it has damaged 
+our credibility as a nation that was instrumental in the creation of 
+the Universal Declaration.
+  But our own shortcomings are no excuse for other governments' actions 
+to block U.N. resolutions condemning the crackdown in Burma or their 
+refusal to join us in imposing economic sanctions that could deal a 
+death blow to a tyrannical regime.
+  And it is certainly no excuse for continuing to do lucrative business 
+deals with a government whose officials pocket the profits for 
+themselves while they starve, imprison and murder their people.
+  It is a testament to the spirit of the Burmese people, and to the 
+courage of Aung San Suu Kyi, that despite so many years of repression, 
+they remain as defiant and as dedicated to the ideals of democracy as 
+ever. Our moral responsibility, the world's responsibility, is to 
+support them.
+
+[[Page 26764]]
+
+
+
+                          ____________________
+```
