@@ -1,0 +1,594 @@
+---
+granule: CRECB-2007-pt19-Pg26881
+date: 2007-10-09
+edition: CRECB
+section: HOUSE
+page: 26881
+---
+
+# TROPICAL FOREST CONSERVATION ACT OF 1998 AMENDMENTS
+
+```
+          TROPICAL FOREST CONSERVATION ACT OF 1998 AMENDMENTS
+
+  Ms. WATSON. Mr. Speaker, I move to suspend the rules and pass the 
+bill (H.R. 2185) to amend the Tropical Forest Conservation Act of 1998 
+to provide debt relief to developing countries that take action to 
+protect forests and coral reefs and associated coastal marine 
+ecosystems, to reauthorize such Act through fiscal year 2010, and for 
+other purposes, as amended.
+  The Clerk read the title of the bill.
+  The text of the bill is as follows:
+
+                               H.R. 2185
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. FINDINGS AND PURPOSES.
+
+       (a) Findings.--Subsection (a) of section 802 of the 
+     Tropical Forest Conservation Act of 1998 (22 U.S.C. 2431) is 
+     amended--
+       (1) in paragraphs (1), (6), and (7), by striking ``tropical 
+     forests'' each place it appears and inserting ``tropical 
+     forests and coral reefs and associated coastal marine 
+     ecosystems'';
+       (2) by redesignating paragraphs (3) through (7) as 
+     paragraphs (4) through (8), respectively;
+       (3) by inserting after paragraph (2) the following:
+       ``(3) Coral reefs and associated coastal marine ecosystems 
+     provide a wide range of benefits to mankind by--
+       ``(A) harboring more species per unit area than any other 
+     marine habitat, providing the basis for developing 
+     pharmaceutical products and fostering a growing marine 
+     tourism sector;   
+       ``(B) providing a major source of food and jobs for 
+     hundreds of millions of coastal residents;    and
+       ``(C) serving as natural storm barriers, thus protecting 
+     vulnerable shorelines and communities from storm waves and 
+     erosion.''; and
+       (4) in paragraph (4) (as redesignated)--
+       (A) by inserting ``and coral reef and associated coastal 
+     marine ecosystems'' after ``forest resources''; and
+       (B) by inserting ``and coral reef and associated coastal 
+     marine ecosystem exploitation'' after ``tropical 
+     deforestation''.
+       (b) Purposes.--Subsection (b) of such section is amended--
+       (1) in paragraphs (1), (3), and (4), by striking ``tropical 
+     forests'' each place it appears and inserting ``tropical 
+     forests and coral reefs and associated coastal marine 
+     ecosystems''; and
+       (2) in paragraph (2)--
+       (A) by striking ``tropical forests'' the first and third 
+     place it appears and inserting ``tropical forests and coral 
+     reefs and associated coastal marine ecosystems'';
+
+[[Page 26882]]
+
+       (B) by striking ``tropical forests'' the second place it 
+     appears and inserting ``areas''; and
+       (C) by inserting at the end before the semicolon the 
+     following: ``and unsustainable coral reef and associated 
+     coastal marine ecosystem exploitation''.
+
+     SEC. 2. DEFINITIONS.
+
+       Section 803 of the Tropical Forest Conservation Act of 1998 
+     (22 U.S.C. 2431a) is amended--
+       (1) in paragraph (2)(A), by striking ``Committee on 
+     International Relations'' and inserting ``Committee on 
+     Foreign Affairs'';
+       (2) by striking paragraphs (4), (7), (8), and (9);
+       (3) in paragraph (5)--
+       (A) in the heading, by striking ``tropical forest'' and 
+     inserting ``tropical forest or coral reef or associated 
+     coastal marine ecosystem'';
+       (B) in the matter preceding subparagraph (A), by striking 
+     ``tropical forest'' and inserting ``tropical forest or coral 
+     reef or associated coastal marine ecosystem''; and
+       (C) in subparagraph (B)--
+       (i) by striking ``tropical forest'' and inserting 
+     ``tropical forest or coral reef or associated coastal marine 
+     ecosystem''; and
+       (ii) by striking ``tropical forests'' and inserting 
+     ``tropical forests or coral reefs or associated coastal 
+     marine ecosystems'';
+       (4) by redesignating paragraphs (5) and (6) as paragraphs 
+     (9) and (10), respectively; and
+       (5) by inserting after paragraph (3) the following:
+       ``(4) Conservation agreement.--The term `Conservation 
+     Agreement' or `Agreement' means a Conservation Agreement 
+     provided for in section 809.
+       ``(5) Conservation facility.--The term `Conservation 
+     Facility' or `Facility' means the Conservation Facility 
+     established in the Department of the Treasury by section 804.
+       ``(6) Conservation fund.--The term `Conservation Fund' or 
+     `Fund' means a Conservation Fund provided for in section 810.
+       ``(7) Coral.--The term `coral' means species of the phylum 
+     Cnidaria, including--
+       ``(A) all species of the orders Antipatharia (black 
+     corals), Scleractinia (stony corals), Alcyonacea (soft 
+     corals), Gorgonacea (horny corals), Stolonifera (organpipe 
+     corals and others), and Coenothecalia (blue coral), of the 
+     class Anthozoa; and
+       ``(B) all species of the order Hydrocorallina (fire corals 
+     and hydrocorals) of the class Hydrozoa.
+       ``(8) Coral reef.--The term `coral reef' means any reef or 
+     shoal composed primarily of corals.''.
+
+     SEC. 3. ESTABLISHMENT OF THE FACILITY.
+
+        Section 804 of the Tropical Forest Conservation Act of 
+     1988 (22 U.S.C. 2431b) is amended by striking ``Tropical 
+     Forest Facility'' and inserting ``Conservation Facility''.
+
+     SEC. 4. ELIGIBILITY FOR BENEFITS.
+
+        Section 805(a) of the Tropical Forest Conservation Act of 
+     1998 (22 U.S.C. 2431c(a)) is amended by striking ``tropical 
+     forest'' and inserting ``tropical forest or coral reef or 
+     associated coastal marine ecosystem''.
+
+     SEC. 5. REDUCTION OF DEBT OWED TO THE UNITED STATES AS A 
+                   RESULT OF CONCESSIONAL LOANS UNDER THE FOREIGN 
+                   ASSISTANCE ACT OF 1961.
+
+       (a) Additional Terms and Conditions.--Subsection (c)(2) of 
+     section 806 of the Tropical Forest Conservation Act of 1998 
+     (22 U.S.C. 2431d) is amended by striking ``Tropical Forest 
+     Fund'' and inserting ``Conservation Fund''.
+       (b) Authorization of Appropriations.--Subsection (d)(6) of 
+     such section is amended by striking ``fiscal year 2007'' and 
+     inserting ``each of the fiscal years 2007 through 2010''.
+       (c) Use of Funds To Conduct Program Audits, Evaluations, 
+     Monitoring, and Administration.--Subsection (e) of such 
+     section is amended to read as follows:
+       ``(e) Use of Funds To Conduct Program Audits, Evaluations, 
+     Monitoring, and Administration.--Of the amounts made 
+     available to carry out this part for a fiscal year, up to 
+     $300,000 is authorized to be made available to carry out 
+     audits, evaluations, monitoring, and administration of 
+     programs under this part, including personnel costs 
+     associated with such audits, evaluations, monitoring, and 
+     administration.''
+
+     SEC. 6. REDUCTION OF DEBT OWED TO THE UNITED STATES AS A 
+                   RESULT OF CREDITS EXTENDED UNDER TITLE I OF THE 
+                   AGRICULTURAL TRADE DEVELOPMENT AND ASSISTANCE 
+                   ACT OF 1954.
+
+        Section 807(c)(2) of the Tropical Forest Conservation Act 
+     of 1998 (22 U.S.C. 2431e(c)(2)) is amended by striking 
+     ``Tropical Forest Fund'' and inserting ``Conservation Fund''.
+
+     SEC. 7. UNITED STATES GOVERNMENT REPRESENTATION ON OVERSIGHT 
+                   BODIES FOR GRANTS FROM DEBT-FOR-NATURE SWAPS 
+                   AND DEBT-BUYBACKS.
+
+       Section 808(a)(5) of the Tropical Forest Conservation Act 
+     of 1998 (22 U.S.C. 2431f(a)(5)) is amended by adding at the 
+     end the following:
+       ``(C) United states government representation on the 
+     administering body.--One or more individuals appointed by the 
+     United States Government may serve in an official capacity on 
+     the administering body that oversees the implementation of 
+     grants arising from this debt-for-nature swap or debt buy-
+     back regardless of whether the United States is a party to 
+     any agreement between the eligible purchaser and the 
+     government of the beneficiary country.''.
+
+     SEC. 8. CONSERVATION AGREEMENT.
+
+       (a) Authority.--Subsection (a) of section 809 of the 
+     Tropical Forest Conservation Act of 1998 (22 U.S.C. 2431g) is 
+     amended--
+       (1) by striking ``(a) Authority.--'' and all that follows 
+     through ``The Secretary of State'' and inserting ``(a) 
+     Authority.--The Secretary of State'';
+       (2) by striking ``Tropical Forest Agreement'' and inserting 
+     ``Conservation Agreement''; and
+       (3) by striking paragraph (2).
+       (b) Administering Body.--Subsection (c)(2)(A) of such 
+     section is amended--
+       (1) in clause (i), by inserting at the end before the 
+     semicolon the following: ``to serve in an official 
+     capacity''; and
+       (2) in clause (iii)(III), by inserting ``or marine'' after 
+     ``forestry''.
+       (c) Eligible Activities.--Subsection (d) of such section is 
+     amended--
+       (1) in the matter preceding paragraph (1), by striking 
+     ``the tropical forests'' and inserting ``tropical forests or 
+     coral reefs or associated coastal marine ecosystems'';
+       (2) in paragraph (2), by inserting ``and water'' after 
+     ``land'';
+       (3) in paragraph (5), by striking ``tropical forest''; and
+       (4) in paragraph (6), by striking ``living in or near a 
+     tropical forest in a manner consistent with protecting such 
+     tropical forest'' and inserting ``dependent on a tropical 
+     forest or coral reef or associated coastal marine ecosystem 
+     in a manner consistent with protecting and conserving such 
+     resources''.
+       (d) Grant Recipients.--Subsection (e)(1)(A) of such section 
+     is amended by inserting ``marine,'' after ``forestry,''.
+       (e) Review of Larger Grants.--Subsection (f) of such 
+     section is amended to read as follows:
+       ``(f) Review of Larger Grants.--Any grant of more than 
+     $250,000 from a Fund shall be approved by the Government of 
+     the United States and the government of the beneficiary 
+     country.''.
+       (f) Conforming Amendment.--The heading of such section is 
+     amended by striking ``TROPICAL FOREST'' and inserting 
+     ``CONSERVATION''.
+
+     SEC. 9. CONSERVATION FUND.
+
+       (a) Establishment.--Subsection (a) of section 810 of the 
+     Tropical Forest Conservation Act of 1998 (22 U.S.C. 2431h) is 
+     amended--
+       (1) by striking ``Tropical Forest Agreement'' and inserting 
+     ``Conservation Agreement''; and
+       (2) by striking ``Tropical Forest Fund'' and inserting 
+     ``Conservation Fund''.
+       (b) Technical and Conforming Amendments.--Such section is 
+     amended--
+       (1) in subsection (b), by striking ``terms as conditions'' 
+     and inserting ``terms and conditions''; and
+       (2) in the heading, by striking ``TROPICAL FOREST'' and 
+     inserting ``CONSERVATION''.
+
+     SEC. 10. BOARD.
+
+       Section 811 of the Tropical Forest Conservation Act of 1998 
+     (22 U.S.C. 2431i) is hereby repealed.
+
+     SEC. 11. ANNUAL REPORTS TO THE CONGRESS.
+
+        Section 813 of the Tropical Forest Conservation Act of 
+     1998 (22 U.S.C. 2431k) is amended--
+       (1) by striking ``(a) In General.--'';
+       (2) by striking ``December 31'' and inserting ``April 15'';
+       (3) by striking ``fiscal year'' each place it appears and 
+     inserting ``calendar year''; and
+       (4) by striking subsection (b).
+
+     SEC. 12. TECHNICAL AND CONFORMING AMENDMENTS.
+
+       (a) Part Heading.--The heading of part V of the Foreign 
+     Assistance Act of 1961 is amended by striking ``TROPICAL 
+     FORESTS'' and inserting ``TROPICAL FORESTS OR CORAL REEFS OR 
+     ASSOCIATED COASTAL MARINE ECOSYSTEMS''.
+       (b) Short Title.--
+       (1) Amendment.--Section 801 of the Tropical Forest 
+     Conservation Act of 1998 (22 U.S.C. 2151 note) is amended by 
+     striking ``Tropical Forest Conservation Act of 1998'' and 
+     inserting ``Tropical Forest and Coral Conservation Act of 
+     2007''.
+       (2) References.--Any reference in a law, regulation, 
+     document, or other record of the United States to the 
+     Tropical Forest Conservation Act of 1998 shall be deemed to 
+     be a reference to the Tropical Forest and Coral Conservation 
+     Act of 2007.
+       (3) Availability of unobligated or unexpended funds.--
+     Amounts appropriated to carry out the Tropical Forest 
+     Conservation Act of 1998 (as in effect on the day before the 
+     date of the enactment of this Act) that are unobligated or 
+     unexpended as of the date of the enactment of this Act may be 
+     used to carry out the Tropical Forest and Coral Conservation 
+     Act of 2007.
+       (c) Redesignation.--Part V of the Foreign Assistance Act of 
+     1961 (22 U.S.C. 2431 et seq.) is amended by redesignating 
+     sections 812 and 813 as sections 811 and 812, respectively.
+       (d) Other Amendments.-- Section 703(a)(5) of the Foreign 
+     Assistance Act of 1961 (22 U.S.C. 2430b(a)(5)) is amended--
+       (1) in the matter preceding subparagraph (A), by striking 
+     ``or, as appropriate in exceptional circumstances,'' and 
+     inserting ``or''; and
+
+[[Page 26883]]
+
+       (2) in subparagraph (A), by striking ``or an arrangement 
+     under the structural adjustment facility or enhanced 
+     structural adjustment facility, or in exceptional 
+     circumstances, a Fund monitored program or its equivalent,'' 
+     and inserting ``an arrangement under the structural 
+     adjustment facility or enhanced structural adjustment 
+     facility, a Fund monitored program, or is implementing sound 
+     macroeconomic policies,''.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentlewoman from 
+California (Ms. Watson) and the gentleman from Florida (Mr. Bilirakis) 
+each will control 20 minutes.
+  The Chair recognizes the gentlewoman from California.
+
+
+                             General Leave
+
+  Ms. WATSON. Mr. Speaker, I ask unanimous consent that all Members may 
+have 5 legislative days to revise and extend their remarks and include 
+extraneous material on the bill under consideration.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentlewoman from California?
+  There was no objection.
+  Ms. WATSON. Mr. Speaker, I rise in strong support of this bill and I 
+yield myself such time as I may consume.
+  Mr. Speaker, I strongly support the Tropical Forest Conservation Act 
+Reauthorization bill and urge my colleagues to do so as well. I would 
+particularly like to recognize the efforts of Congressman Mark Kirk, 
+the sponsor of H.R. 2185. Congressman Kirk is a long-time champion of 
+this innovative debt-for-conservation program. Mr. Kirk's legislation 
+extends and expands a vitally important environmental initiative 
+launched during the Clinton administration.
+  Mr. Speaker, over the past 9 years this program has resulted in 12 
+Tropical Forest Conservation Act agreements in Asia, the Caribbean, 
+Central and South America. These agreements have provided $135 million 
+to help conserve 50 million acres of tropical forests. The Tropical 
+Forest Conservation Act has become one of the most effective foreign 
+policy tools that the executive branch has at its disposal to encourage 
+developing states to take action to protect and preserve tropical 
+forests.
+  The program has been a tremendous success. It has provided needed 
+funding to actively pursue debt swaps, buybacks, and debt restructuring 
+with developing nations in return for concrete expenditures aimed at 
+protecting vital natural resources. This mechanism inspires more prompt 
+debt servicing and gives foreign governments a greater sense of 
+responsibility for preserving the global heritage.
+  H.R. 2185 would expand the program in a very significant way by 
+extending its debt-relief-for-conservation mechanism to expenditures 
+aimed at protecting coral reefs and sensitive marine environments. 
+Coral reefs and coastal marine environments provide a host of benefits 
+to humankind. They harbor a major share of the world's marine 
+biological diversity, and act as vital nurseries and seeding grounds 
+for many sensitive deep sea species. They also provide the foundation 
+for economic, social and recreational activities of immeasurable value.
+  Mr. Speaker, coral reefs are extremely sensitive treasures. However, 
+the shocking reports of wide-scale coral bleaching that has occurred 
+around the globe in recent years should serve as a wake-up call for all 
+of us. Urgent action is needed to mitigate the contributions that human 
+activities are making to this problem.
+  H.R. 2185 provides just the kind of creative, targeted and mutually 
+beneficial assistance that is clearly required to tackle this important 
+ecological threat. H.R. 2185 will also enable more key countries to 
+participate in the program. Currently, in order to qualify for the 
+Act's mutually beneficial mechanism, a country must have an IMF 
+agreement in place. Under the new language, eligibility would also 
+extend to nations that are implementing sound macroeconomic policies.
+  Mr. Speaker, the executive branch has partnered with us in crafting 
+this reauthorization, and has expressed its interest in seeing it pass 
+this year. I urge my colleagues to support passage of this important 
+measure.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. BILIRAKIS. Mr. Speaker, I yield myself such time as I may 
+consume.
+  Mr. Speaker, I rise in support of the bill H.R. 2185, which would 
+reauthorize and amend the Tropical Forest Conservation Act of 1998. As 
+the total territory of the world's tropical forests continue to 
+decline, programs such as that created by the Tropical Forest 
+Conservation Act of 1998 are an important component of international 
+efforts to slow and hopefully reverse the decline at the start of the 
+new century.
+  Under the Tropical Forest Conservation Act, a country with a tropical 
+forest within its borders may seek an agreement with the United States 
+whereby some of the debts it may owe us can instead be utilized to 
+support activities that maintain those tropical forests. The bill would 
+reauthorize this important conservation program through fiscal year 
+2010. The bill also amends the program in order to make coral reefs 
+eligible for coverage under the program as well.
+  This is an important response to the increasing evidence of decline 
+in the world coral reefs, which, along with tropical forests, are a 
+vital environmental resource. It is important that we preserve such 
+underwater treasures, not just for future generations to enjoy, but to 
+ensure the sustainability of our world's fragile ecology.
+  Mr. Speaker, enactment of this bill would authorize a continuation of 
+these important conservation efforts for the next 3 fiscal years. I 
+support this measure and urge my colleagues as well to support this 
+measure.
+  Mr. HASTINGS of Florida. Mr. Speaker, I am very proud to rise today 
+in support of H.R. 2185, a resolution that I introduced with my good 
+friend Congressman Mark Kirk and the bipartisan support of 30 other 
+cosponsors.
+  I would like to first extend my appreciation for the hard work and 
+efforts made by all parties who worked to craft this important 
+bipartisan piece of legislation. Congressman Kirk and I worked closely 
+with the Nature Conservancy, Conservation International, the World 
+Wildlife Fund, the Wildlife Conservation Society, the Office of 
+Management and Budget, and Departments of State and Treasury on this 
+bill. I thank each of these bodies for their input, cooperation and 
+support.
+  This innovative program allows eligible developing countries to 
+utilize all funds spent on tropical forest preservation toward foreign 
+debt payments to the United States.
+  Mr. Speaker, H.R. 2185 builds on the already successful and sound 
+economic and conservation law, the Tropical Forest Conservation Act, 
+TFCA, of 1998.
+  For 7 years, the program created by that act has simultaneously 
+accomplished two key goals: providing relief for the burden of debt on 
+developing countries and promoting increased international tropical 
+forest conservation.
+  The program's achievements speak for themselves. Since its inception, 
+12 ``debt-for nature swaps'' have been signed in developing countries 
+in Asia, the Caribbean, Central and South America, generating $135 
+million in debt relief for these countries and conserving some 50 
+million acres of tropical forests.
+  Our legislation reauthorizes and expands this program.
+  By reauthorizing the Tropical Forest Conservation Act, the House is 
+continuing to strengthen the indigenous economies and civil society of 
+developing countries while protecting both the world's forests and 
+endangered marine habitats.
+  Additionally, by continuing to protect our rainforests we are 
+protecting future medicinal storehouses. The medicinal value of these 
+rainforests cannot be underestimated. Today some 120 prescription drugs 
+sold worldwide today are derived directly from rainforest plants. By 
+conserving our rainforests, we are providing possible cures for life-
+threatening diseases.
+  By expanding this legislation, we are improving on an already 
+responsible, sensible and successful initiative to conserve more 
+ecosystems and relieve more countries' debt.
+  One of the most significant expansions we made to the Tropical Forest 
+Conservation Act in this bill extends the program to apply to all 
+forests, coral reefs and associated coastal marine ecosystems. 
+Including coral reefs and related marine areas under the scope of TFCA 
+will encourage the conservation of these endangered marine 
+environments.
+  Coral reef ecosystems throughout the world face numerous threats and 
+even possible extinction. Threats to coral reef, in turn, threaten the 
+species and livelihoods that depend on them. Coral reef offers 
+protections from
+
+[[Page 26884]]
+
+storms, wave damage, and erosion and also provides various economic 
+opportunities from fishing to ecotourism.
+  By providing incentives for developing nations to conserve their 
+coral resources, we are in effect protecting coastal landscape's and 
+maintaining coastal quality of water of some of the most important 
+coral reef ecosystems in the world.
+  Another important alteration we made to the legislation expands the 
+programs eligibility to additional countries. Current law forbids 
+governments of beneficiary countries to be grant recipients unless 
+there are ``exceptional circumstances.'' However, for many countries 
+their governments are the sole managers of their ecosystems, thereby 
+preventing them from receiving the funds. By increasing the Treasury 
+Department's authority to provide funds to governments of beneficiary 
+countries, our legislation extends the programs' eligibility to even 
+more developing countries.
+  A final significant change we made to the program authorizes 
+additional funding for audits and evaluation and allows these funds to 
+be used for monitoring and administration. Increasing the funding 
+amount allows the Treasury Department to better monitor all deals and 
+improve oversight over the entire program.
+  Top notch strategies and technologies needed to conserve and protect 
+our international ecosystems can be found right here in the United 
+States. In my State of Florida, several institutions have long been at 
+the forefront of efforts to preserve these marine habitats.
+  The Florida Aquarium, a non-profit education and research institution 
+in Tampa, has developed cutting edge technologies and protocols for 
+coral conservation including how to safely introduce cultural coral 
+into wild reefs. Until the museum pioneered this technology, there was 
+no viable solution to ``quickly'' rebuild destroyed and dying reefs. 
+Developing countries participating in our debt relief initiative could 
+greatly benefit from the museum's technology and expertise, and I 
+strongly encourage these countries to seek out the museum as a resource 
+in their efforts to rehabilitate coral.
+  The Harbor Branch Oceanographic Institution, located outside of my 
+district in Fort Pierce, does equally outstanding work to investigate 
+the causes of and prevent coral reef degradation and deforestation. Dr. 
+Brian Lapointe of the Center for Coastal Research at Harbor Branch has 
+spent the majority of his career studying threats to the marine 
+ecosystems in island nations such as Jamaica, Trinidad and Tobago, 
+Martinique and St. Lucia. He has successfully assisted these countries 
+by helping them understand the effects of human impact on coral reef.
+  Dr. Lapointe and others at Harbor Branch Oceanographic have 
+tirelessly worked to educate communities on rehabilitation strategies 
+and future conservation techniques. People like Brian Lapointe and 
+institutions like Harbor Branch Oceanographic can help countries that 
+get assistance through the Tropical Forest Conservation Act program to 
+restore and protect valuable and irreplaceable coral reefs and other 
+marine ecosystems.
+  This bill is a win-win-win situation. With the passage of this bill, 
+Congress can further alleviate debt in developing countries, provide 
+long-term sustainable financing for environmental conservation and 
+protection for important world ecosystems, and advance medicinal 
+research and increase United States assistance to developing countries 
+and further our credibility overseas. Reauthorizing the Tropical Forest 
+Conservation Act provides numerous benefits to developing nations, to 
+the United States, and to our planet.
+  I urge my colleagues to vote in favor of this bill.
+  Ms. CASTOR. Mr. Speaker, as we reauthorize the Tropical Forest 
+Conservation Act, we take an important and critical new step to help 
+the world preserve and restore its natural resources and vital 
+ecosystems. This reauthorization will continue our efforts to preserve 
+the world's forests, coral reefs, and associated coastal marine 
+ecosystems. The Tropical Forest Conservation Act will create an 
+invaluable debt-for-nature exchange that not only benefits the global 
+economy, but also the global environment.
+  Protecting our natural resources is a daunting responsibility, and 
+coral reefs present unique challenges to protect and rebuild. They are 
+fragile, slow-growing, and easily damaged by passing ships, changes in 
+temperature, or severe weather. Despite these challenges, they are an 
+integral part of our environment. Corals support economies, protect 
+coastlines, and act as ecosystems for thousands of species of sea life. 
+They may also provide information for the development of new drugs or 
+understandings of human disease.
+  The Florida Aquarium, a non-profit education and research institution 
+in Tampa, has extensive experience in developing cutting edge 
+technologies and protocols for coral conservation, including how to 
+safely introduce cultured coral onto wild reefs. This facility has 
+pioneered the methods and technology needed to confidently direct a 
+coral health certificate program wherein aquacultured corals are 
+certified as safe for introduction into the wild. Until the Florida 
+Aquarium developed this certification technique for artificially 
+aquacultured coral, there was no acceptable solution for doing so. This 
+made rebuilding reefs time-consuming and expensive, and often led to 
+the destruction of the wild coral that scientists were trying to 
+restore. Today, the Florida Aquarium continues to lead the scientific 
+community as the only institution in the world that can certify 
+aquacultured coral for wild reefs.
+  Mr. Speaker, developing countries participating in our debt relief 
+initiative could greatly benefit from the Florida Aquarium's technology 
+and expertise. I strongly encourage the coral initiatives under the 
+Tropical Forest Conservation Act to seek out the Florida Aquarium as a 
+resource in rehabilitating coral reefs world wide. I am proud to 
+support this important legislation in its effort to preserve our 
+natural resources.
+  Mr. KIRK. Mr. Speaker, I rise in strong support of H.R. 2185 to 
+reauthorize and expand Rob Portman's landmark legislation, the Tropical 
+Forest Conservation Act. This reauthorization will help developing 
+countries reduce foreign debt and provide comprehensive environmental 
+preservation programs to protect tropical forests and endangered marine 
+habitats around the world.
+  Since enacted in 1998, Tropical Forest Conservation Act programs have 
+generated a total of $136.5 million over 10 to 25 years to help 
+conserve 50 million acres of tropical forests in Asia, the Caribbean, 
+Central and South America. But the rate of deforestation continues to 
+accelerate across the globe.
+  Similarly alarming is the rapid rate of coral reef and coastal 
+exploitation. The burden of foreign debt falls especially hard on the 
+smallest of nations, such as island nations in the Caribbean and 
+Pacific. With few natural resources, these countries often resort to 
+harvesting or otherwise exploiting coral reefs and other marine 
+habitats to earn hard currency to service foreign debt. According to 
+the National Oceanic & Atmospheric Administration, 60 percent of the 
+world's coral reefs may be destroyed by the year 2050 if the present 
+rate of destruction continues.
+  The Tropical Forest and Coral Conservation Act expands the current 
+tropical forest conservation programs to include the protection and 
+conservation of these vital coral ecosystems. H.R. 2185 will credit 
+qualified developing nations for each dollar spent on a comprehensive 
+tropical forest and reef preservation or management programs. It will 
+also reduce debt by investing locally in programs that will strengthen 
+indigenous economies by creating long-term management policies to 
+preserve the natural resources upon which local commerce is based. Most 
+importantly, H.R. 2185 will make resources available for environmental 
+stewardship that would otherwise be of the lowest priority in a 
+developing country.
+  This legislation has enormous consequences for the existence of 
+critical ecosystems, the health of our planet and the livelihoods of 
+millions of people across the globe. I would like to thank Bill Millan 
+from The Nature Conservancy, Lisa Handy from Conservation 
+International, Beth Allgood from the World Wildlife Fund and Kelly 
+Aylward from the Wildlife Conservation Society for all their efforts in 
+helping to craft and forward this legislation. I urge my colleagues to 
+support the Tropical Forest and Coral Conservation Act, which will help 
+preserve the world's most precious natural resources.
+  Mr. BILIRAKIS. Mr. Speaker, I yield back the balance of my time.
+  Ms. WATSON. Mr. Speaker, I yield back the balance of my time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentlewoman from California (Ms. Watson) that the House suspend the 
+rules and pass the bill, H.R. 2185, as amended.
+  The question was taken; and (two-thirds being in the affirmative) the 
+rules were suspended and the bill, as amended, was passed.
+  The title was amended so as to read: ``A bill to amend the Tropical 
+Forest Conservation Act of 1998 to provide debt relief to developing 
+countries that take action to protect tropical forests and coral reefs 
+and associated coastal marine ecosystems, to reauthorize such Act 
+through fiscal year 2010, and for other purposes.''.
+  A motion to reconsider was laid on the table.
+
+[[Page 26885]]
+
+
+
+                          ____________________
+```
