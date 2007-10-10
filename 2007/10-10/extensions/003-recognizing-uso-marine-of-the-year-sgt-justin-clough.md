@@ -1,0 +1,56 @@
+---
+granule: CRECB-2007-pt19-Pg27044-3
+date: 2007-10-10
+edition: CRECB
+section: EXTENSIONS
+page: 27044
+---
+
+# RECOGNIZING USO MARINE OF THE YEAR--SGT. JUSTIN CLOUGH
+
+```
+         RECOGNIZING USO MARINE OF THE YEAR--SGT. JUSTIN CLOUGH
+
+                                 ______
+                                 
+
+                           HON. JOE COURTNEY
+
+                             of connecticut
+
+                    in the house of representatives
+
+                      Wednesday, October 10, 2007
+
+  Mr. COURTNEY. Madam Speaker, I rise today to recognize the military 
+service of Sgt Justin Clough, the most recent recipient of the USO's 
+Marine of the Year award.
+  Although Justin is only 22, he has demonstrated bravery and 
+leadership beyond his years. Since joining the U.S. Marine Corps, 
+Justin has served 2 tours of duty and led more than 100 combat missions 
+in Iraq as the squad leader of the 2nd Battalion, 8th Marine Regiment. 
+During these missions, his squad was frequently attacked by direct and 
+indirect fire. His dedication to leadership and training would ensure 
+the safety of his fellow marines and ultimately prove to save his own 
+life. On December 26, 2006, Justin was wounded by an insurgent sniper 
+while on a routine patrol in Fallujah. Following the attack, his 
+comrades, which included Justin's twin brother Nathaniel Clough, 
+swiftly brought him to safety.
+  On September 20, the USO recognized Justin with one of its most 
+prestigious honors, the Marine of the Year award at the 66th annual USO 
+World Gala. In addition to the Marine of the Year award, Justin was 
+chosen as the top marine in his company and battalion, awarded with the 
+Purple Heart, and recommended for the Bronze Star with Combat ``V'' for 
+valor.
+  Since returning to Stonington, CT, Justin has balanced physical 
+therapy and volunteer work with the local high school football team. 
+Upon receiving his medical discharge papers, he hopes to attend a 
+university or work on a military base as a civilian.
+  While his presence will certainly be missed in the 2nd Battalion, 8th 
+Marine Regiment, his leadership will undoubtedly yield success in 
+future academic and work endeavors. I ask my colleagues to join with me 
+and my constituents in saluting Justin's service to the Marines and our 
+Nation.
+
+                          ____________________
+```
