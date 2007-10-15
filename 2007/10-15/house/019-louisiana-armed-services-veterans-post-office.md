@@ -1,0 +1,217 @@
+---
+granule: CRECB-2007-pt19-Pg27138-2
+date: 2007-10-15
+edition: CRECB
+section: HOUSE
+page: 27138
+---
+
+# LOUISIANA ARMED SERVICES VETERANS POST OFFICE
+
+```
+             LOUISIANA ARMED SERVICES VETERANS POST OFFICE
+
+  Mr. DAVIS of Illinois. Madam Speaker, I move to suspend the rules and 
+pass the bill (H.R. 2089) to designate the facility of the United 
+States Postal Service located at 701 Loyola Avenue in New Orleans, 
+Louisiana, as the ``Louisiana Armed Services Veterans Post Office''.
+  The Clerk read the title of the bill.
+  The text of the bill is as follows:
+
+                               H.R. 2089
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. LOUISIANA ARMED SERVICES VETERANS POST OFFICE.
+
+       (a) Designation.--The facility of the United States Postal 
+     Service located at 701 Loyola Avenue in New Orleans, 
+     Louisiana, shall be known and designated as the ``Louisiana 
+     Armed Services Veterans Post Office''.
+       (b) References.--Any reference in a law, map, regulation, 
+     document, paper, or other record of the United States to the 
+     facility referred to in subsection (a) shall be deemed to be 
+     a reference to the ``Louisiana Armed Services Veterans Post 
+     Office''.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentleman from 
+Illinois (Mr. Davis) and the gentlewoman from North Carolina (Ms. Foxx) 
+each will control 20 minutes.
+  The Chair recognizes the gentleman from Illinois.
+
+                              {time}  1515
+
+
+                             General Leave
+
+  Mr. DAVIS of Illinois. Madam Speaker, I ask unanimous consent that 
+all Members may have 5 legislative days in which to revise and extend 
+their remarks.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Illinois?
+  There was no objection.
+  Mr. DAVIS of Illinois. Madam Speaker, it is my pleasure to yield such 
+time as he might consume to the sponsor of this legislation, 
+Representative Jefferson from Louisiana.
+  Mr. JEFFERSON. Madam Speaker, I rise today as the sponsor of H.R. 
+2089 to rename the main post office in New Orleans from the New Orleans 
+Main Office Window Service to the Louisiana Armed Services Veterans 
+Memorial Post Office.
+  I would like to thank Chairman Waxman for his leadership in bringing 
+this bill to the floor today as well as my colleague Mr. Davis of 
+Illinois, as well as fellow members of the Louisiana congressional 
+delegation who join me as cosponsor of this measure.
+  As we approach the commemoration of Veterans Day, it is important to 
+note that the State of Louisiana has made many contributions to each 
+branch of our armed services and, by extension, to the defense of this 
+Nation. My State of Louisiana is home to many proud armed service 
+veterans dating from World War I to the present military engagement in 
+Iraq. I am proud to say that many of my fellow Louisianans have 
+volunteered and sacrificed as soldiers and as families of soldiers in 
+the defense of this great Nation, and it is only appropriate that we 
+memorialize them in this significant way. Louisiana is home to well 
+over 370,000 uniformed veterans. This includes nearly 120,000 who 
+served in World War II, 47,000 in the Korean War, 115,000 in the 
+Vietnam War, and 80,000 in Desert Storm, the first Gulf War.
+  However, simply citing statistics does not give a complete picture. 
+It doesn't give a complete picture of the sacrifices nor contributions 
+made on behalf of the soldiers nor does it detail the historical 
+relationship of Louisiana and the armed services branches of our 
+Nation. It could be easily argued that the very battle that propelled 
+America onto the world stage as a political and military power was 
+fought on January 8, 1815, just below New Orleans, the Battle of New 
+Orleans. Louisiana military posts were key supply points for the 
+Mexican War of 1848. The Nation's first African American woman to earn 
+her star as a general in the U.S. Army was Sherian Grace Cadoria, who 
+grew up in Marksville, LA, and graduated from my alma mater at Southern 
+University in Baton Rouge.
+  Louisiana is also home to three major military installations, 
+Barksdale Air Force Base in Bossier City, the Army's Fort Polk Joint 
+Readiness Training Center near Leesville, and in my district, the Belle 
+Chase naval facility across the Mississippi River from New Orleans. 
+Each installation is an integral part of its respective community. Each 
+also employs many local residents and has a profound impact on the 
+economy of our State.
+  I would be remiss, Madam Speaker, were I not to mention the Louisiana 
+National Guard, which calls New Orleans home at Jackson Barracks. The 
+National Guard has made significant contributions within the State as 
+well as abroad. During the first Gulf War, Louisiana had the highest 
+number of guardsmen serving per capita than any other State in the 
+Nation. However, Louisiana's contributions to the armed services does 
+not come without cost. During the current war in Iraq, Louisiana lost 
+more than 100 of its servicemen and women and over 500 have been 
+wounded; yet this is not the only area in which our armed servicemen 
+and women have paid a high price. Unfortunately, some of our veterans 
+have had to fight two wars, one abroad and then one back at home. I am 
+very pleased this Congress has recognized that to some great measure 
+and has done much more this year for our veterans than ever before. But 
+in my district, where the Veterans Administration Hospital remains 
+closed, this notion is particularly poignant of two wars. The closure 
+of this hospital has left many veterans in my district with no choice 
+but to travel long distances either to Shreveport, Louisiana, or 
+Jackson, Mississippi, for hospital care. Though the Veterans 
+Administration has recently announced plans to rebuild a bigger and 
+better hospital in New Orleans, and I applaud the decision for it is 
+the right one, those doors will still not open for a few years, leaving 
+many veterans with few options. The VA has also suffered through a 
+backlog of 6,000 Veterans Administration claims in Louisiana alone 
+right now. The problem is nationwide and it is growing.
+  So today, with Veterans Day not far off, we honor and recognize our 
+veterans in Louisiana who have paid a high price for our collective 
+freedom. We do this by memorializing them in this significant way and 
+memorializing their sacrifices forever by renaming the Main Post Office 
+Building in New Orleans the Louisiana Armed Services Veterans Memorial 
+Post Office. I urge passage of this bill.
+  Ms. FOXX. Madam Speaker, I yield myself such time as I may consume.
+  Madam Speaker, I rise today to urge passage of H.R. 2089, to 
+designate the U.S. Postal Service location at 701 Loyola Avenue in New 
+Orleans as the Louisiana Armed Services Veterans Post Office.
+  From the Battle of New Orleans in the War of 1812, to the Chinese 
+Bandits who laid the groundwork for U.S. air superiority in the Asian 
+theater in World War II, to LTG Russell Honore's leadership of the 
+military response to Hurricane Katrina, Louisianans have been at the 
+forefront of defending this country from the time of its founding to 
+this very day.
+  Louisiana's fighters have always been known for being a little 
+tougher, a little wilder, a little crazier, if you will, than their 
+counterparts from elsewhere. It made them perfect for some missions, 
+but not so perfect for others. But the end result always has been that 
+they have been quick in the Bayou State to take up arms whenever their 
+country needed them.
+
+[[Page 27139]]
+
+  Consider Claire Chennault. In 1937, Chennault, a captain in the U.S. 
+Army Air Corps, progenitor of the Air Force, resigned his commission to 
+go to China on behalf of Madam Chaing Kai-shek to help the Chinese 
+build an air force to fend off the Japanese. He did not leave until 
+World War II ended in 1945. In the interim, he helped organize an air 
+force that featured strategically located airfields and an air raid 
+warning system built from scratch that protected all of what was then 
+known as Free China. Without his work, American air power could not 
+have functioned in China. Later, Chennault was to describe the air raid 
+warning system as a vast spider net of people, radios, telephones, and 
+telegraph lines that covered all of Free China accessible to enemy 
+aircraft. In addition to continuous intelligence of enemy attacks, the 
+net served to locate and guide lost friendly planes, direct aid to 
+friendly pilots who had crashed or bailed out, and helped guide our 
+technical intelligence experts to wrecks or crashed enemy aircraft.
+  In other words, something out of nothing. The same as the muskets 
+Louisianans used to fend off the British in New Orleans, and General 
+Honore used to help rebuild Louisiana after Katrina. It is a tradition 
+well worth honoring, and this measure does just that.
+  Madam Speaker, I reserve the balance of my time.
+  Mr. DAVIS of Illinois. Madam Speaker, I yield myself such time as I 
+might consume.
+  Madam Speaker, as a Member of the House Committee on Oversight and 
+Government Reform, I am pleased to join my colleague in the 
+consideration of H.R. 2089, which names a postal facility in New 
+Orleans, Louisiana, after the Louisiana armed services veterans.
+  H.R. 2089 which was introduced by Representative William Jefferson on 
+May 1, 2007, was reported from the Oversight Committee on September 20, 
+2007, by voice vote. This measure has the support of the entire 
+Louisiana congressional delegation.
+  Madam Speaker, the Louisiana armed services veterans were recognized 
+for their significant contributions to our country early in the 19th 
+and 20th centuries. During the War of 1812, Louisiana's veteran troops, 
+which included French, Spanish, African, Anglo, Creole, and Native 
+American people, under General Andrew Jackson, decisively defeated the 
+British forces on January 8, 1815. This battle forced the British to 
+recognize the United States' claim to Louisiana and helped establish 
+America as a political and military power.
+  In the 20th century, the famous Louisiana maneuvers held at Fort 
+Polk, Louisiana, in 1940 tested the mettle of future World War II Army 
+Generals Dwight D. Eisenhower and George Patton and the soldiers who 
+served under their leadership. President Eisenhower referred to 
+Louisianan Andrew Jackson Higgins as ``the man who won the war.'' In 
+New Orleans, Higgins designed and built amphibious landing craft that 
+made possible the invasions of enemy-held Pacific Islands and the coast 
+of France D-Day invasion.
+  Rural southeast Louisiana was native soil for two Marine Corps 
+commanders, General John Archer Lejeune and General Robert Barrow. The 
+Nation's first black woman to earn her stars as a U.S. Army General, 
+Sherian Grace Cadoria, grew up in Marksville, Louisiana.
+  The Louisiana veterans for centuries have served and defended our 
+country with exemplary valor and honor. And so, Madam Speaker, I 
+commend my colleague, Representative William Jefferson, for introducing 
+this legislation and urge its passage.
+  I reserve the balance of my time.
+  Ms. FOXX. Madam Speaker, I yield back the balance of my time.
+  Mr. DAVIS of Illinois. Madam Speaker, I yield back the balance of my 
+time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from Illinois (Mr. Davis) that the House suspend the rules 
+and pass the bill, H.R. 2089.
+  The question was taken.
+  The SPEAKER pro tempore. In the opinion of the Chair, two-thirds 
+being in the affirmative, the ayes have it.
+  Mr. DAVIS of Illinois. Madam Speaker, on that I demand the yeas and 
+nays.
+  The yeas and nays were ordered.
+  The SPEAKER pro tempore. Pursuant to clause 8 of rule XX and the 
+Chair's prior announcement, further proceedings on this motion will be 
+postponed.
+
+                          ____________________
+```
