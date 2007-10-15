@@ -1,0 +1,337 @@
+---
+granule: CREC-2007-10-15-pt1-PgH11519
+date: 2007-10-15
+edition: CREC
+section: HOUSE
+page: H11519
+citation: 153 Cong. Rec. H11519
+---
+
+# SUPPORTING THE GOALS AND IDEALS OF A LONG-TERM CARE AWARENESS WEEK
+
+**Speaking:** Baldwin, Tammy (B001230) [D-WI], Fossella, Vito (F000440) [R-NY], Herseth Sandlin, Stephanie (H001037) [D-SD], Boustany, Charles W., Jr. (B001255) [R-LA]
+
+**Measures:** H.Con.Res. 133
+
+```
+   SUPPORTING THE GOALS AND IDEALS OF A LONG-TERM CARE AWARENESS WEEK
+
+  Ms. BALDWIN. Madam Speaker, I move to suspend the rules and agree to 
+the concurrent resolution (H. Con. Res. 133) supporting the goals and 
+ideals of a Long-Term Care Awareness Week.
+  The Clerk read the title of the concurrent resolution.
+  The text of the concurrent resolution is as follows:
+
+                            H. Con. Res. 133
+
+       Whereas the Department of Health and Human Services has 
+     reported that approximately 60 percent of individuals who are 
+     over the age of 65 will need some kind of long-term care 
+     services and at some point more than 40 percent of such 
+     individuals will require nursing home care;
+       Whereas in 2005 the Government Accountability Office 
+     projected that by 2040 the number of individuals in the age 
+     group of individuals who are 85 years of age or older, which 
+     it finds is the age group most likely to require long-term 
+     care services, is projected to increase more than 250 percent 
+     from 4,300,000 individuals in 2000 to 15,400,000 individuals;
+       Whereas the Internet site of the National Clearinghouse for 
+     Long-Term Care Information notes that the Medicare program 
+     does not generally pay for most long-term care services that 
+     are needed and that the Medicare program pays for skilled 
+     nursing facility services only after a recent hospital stay, 
+     that Medicare beneficiaries generally pay more than $118 in 
+     daily coinsurance beginning on the 21st day of coverage and 
+     coverage ends after 100 days, and that the Medicare program 
+     does not cover a stay in an assisted living facility or adult 
+     day care;
+       Whereas an AARP study in 2006 found that 59 percent of 
+     people in the United States who are 45 years of age or older 
+     overestimated the level of coverage under the Medicare 
+     program for nursing home care and more than half of such 
+     people who are 45 years of age or older indicate they believe 
+     such program provides coverage for assisted living, which it 
+     does not;
+       Whereas the 2006 AARP study concludes that given the 
+     already high costs related to long-term care and the 
+     projected growth in the size of the older population in 
+     future years, it is essential for people in the United States 
+     to learn more about the costs of long term care, about ways 
+     to prepare for and pay for long term care, and State and 
+     community resources that are available to assist in these 
+     challenges;
+       Whereas the Government Accountability Office has reported 
+     that broad-based misperceptions regarding the Medicare 
+     program's level of long-term care coverage significantly 
+     contributes to the lack of personal preparation of people in 
+     the United States for the financing of long term care and 
+     advises that the government can play a significant part in 
+     enhancing personal preparedness by educating people in the 
+     United States about the scope of coverage of long-term care 
+     under public programs such as the Medicare program;
+       Whereas people in the United States have a right to know 
+     what long-term care coverage is available to them so that 
+     they are able to make informed retirement choices;
+       Whereas the first phase of the Department of Health and 
+     Human Service's pilot program to raise awareness regarding 
+     planning for long-term care obtained a less than 8 percent 
+     response rate by consumers requesting information in selected 
+     States;
+       Whereas in 2002 the Government Accountability Office 
+     reported that less than 10 percent of the elderly population 
+     in the United States and a lower percentage of those aged 55 
+     to 64 years of age in the United States have purchased long-
+     term care insurance;
+       Whereas the Department of Commerce indicates that savings 
+     as a percentage of after tax income declined from 
+     approximately eight percent in 1990 to less than zero since 
+     2005;
+       Whereas in 2005 the Government Accountability Office 
+     reported that spending on long-term care services solely for 
+     the elderly is projected to grow at least two-and-a-half 
+     times and could grow almost four-fold to $379 billion in 
+     2050;
+       Whereas the Government Accountability Office has reported 
+     that many people in the United States have neared 
+     impoverishment by depleting their assets to pay the 
+     significant costs of their long-term care;
+       Whereas AARP reports that an estimated 44,400,000 
+     individuals who are 18 years of age or older provide unpaid 
+     care to another adult and others have estimated the value of 
+     such unpaid services to be approximately $257 billion 
+     annually;
+       Whereas advance planning by family members will help to 
+     protect caregivers' health, financial security, and quality 
+     of life;
+       Whereas our Nation's long term care challenges will 
+     significantly impact women, who make up more than 58 percent 
+     of people in the United States who are 65 years of age and 
+     older, and greater than two-thirds of people in the United 
+     States who are 85 years of age and older;
+       Whereas encouraging people in the United States to 
+     anticipate and plan for their future long-term care needs 
+     will help them achieve greater health and financial security, 
+     as well as greater independence, choice, and control over the 
+     services they need in the setting of their choice; and
+       Whereas a long term care awareness week has been observed 
+     during the first full week in November, which in 2007 will be 
+     the week of November 4th through 10th: Now, therefore, be it
+       Resolved by the House of Representatives (the Senate 
+     concurring),  That Congress--
+       (1) supports the goals and ideals of a Long-Term Care 
+     Awareness Week;
+       (2) encourages the Secretary of Health and Human Services 
+     to continue working to educate people in the United States 
+     about long-term care; and
+       (3) urges the people of the United States to recognize such 
+     a week as an opportunity to learn more about the potential 
+     risks and costs associated with long-term care and the 
+     options available to help meet their long-term care needs.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentlewoman from 
+Wisconsin (Ms. Baldwin) and the gentleman from New York (Mr. Fossella) 
+each will control 20 minutes.
+  The Chair recognizes the gentlewoman from Wisconsin.
+
+
+                             General Leave
+
+  Ms. BALDWIN. Madam Speaker, I ask unanimous consent that all Members 
+may have 5 legislative days to revise and extend their remarks and 
+exclude extraneous material on the concurrent resolution under 
+consideration.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentlewoman from Wisconsin?
+  There was no objection.
+  Ms. BALDWIN. Madam Speaker, I yield myself such time as I may 
+consume.
+  Madam Speaker, I rise in support of H. Con. Res. 133, supporting the 
+goals and ideals of a Long-Term Care Awareness Week. Long-term care is 
+an often overlooked part of the continuum of care for many Americans, 
+and many of us find ourselves ill informed and ill prepared to make 
+choices for our own long-term care needs and those of our loved ones.
+  According to the U.S. Department of Health and Human Services, long-
+term care represents a variety of services that include medical and 
+nonmedical care for people who have a chronic illness or disability. 
+Most long-term care is to assist people with the activities of daily 
+living, such as dressing, bathing, and using the bathroom. It is 
+important to remember that you may need long-term care at any age. The 
+need for support and health services for persons who have diminished 
+capacity for self-care is projected to strain both public and private 
+resources.
+  Madam Speaker, H. Con. Res. 133 calls for public education about the 
+need for long-term care so that people of all ages throughout our 
+Nation are better prepared to meet their own long-term care needs. 
+Planning for long-term care requires us to think about possible future 
+health care needs. Making the right decision about long-term care 
+requires us to look at all of the options before us and to make 
+informed decisions.
+
+[[Page H11520]]
+
+  I want to recognize and thank my colleague from South Dakota (Ms. 
+Herseth Sandlin) for introducing this resolution and carrying it to the 
+floor. I urge my colleagues to join me in support of it.
+  Madam Speaker, I reserve the balance of my time.
+  Mr. FOSSELLA. Madam Speaker, I yield myself such time as I may 
+consume.
+  Madam Speaker, I rise today in support of H. Con. Res. 133, 
+supporting the goals and ideals of a Long-Term Care Awareness Week. As 
+designated, the first week in November is designed as the opportunity 
+to educate Americans on the likelihood of one needing long-term care. 
+Additionally, greater education is needed as to what types of long-term 
+care programs are available and what the various costs of services are. 
+Families should take this opportunity to discuss the options to help 
+plan and pay for their future.
+  We know the baby boomer generation is now becoming eligible for 
+Social Security, so it is sort of a wake-up call for what it will be, 
+not just for having some financial independence, but what it would be 
+and what it means to take care of dealing with their health care and 
+the notion of rising health care costs. So the sooner one prepares, the 
+better off they will be when they reach that age.
+  Madam Speaker, health care costs are increasing, people are living 
+longer, and I think we have a real responsibility here to educate 
+constituents who need to become actively involved in ways in which they 
+can provide for their own future of health care, as well as the care of 
+their family member. I stand in support of this and ask my colleagues 
+to support the resolution as well.
+  Mr. FOSSELLA. Madam Speaker, I reserve the balance of my time.
+  Ms. BALDWIN. Madam Speaker, I am pleased to yield 4\1/2\ minutes to 
+the bill's author, the gentlewoman from South Dakota (Ms. Herseth 
+Sandlin).
+
+                              {time}  1645
+
+  Ms. HERSETH SANDLIN. Madam Speaker, I rise in support of H. Con. Res. 
+133, a bipartisan resolution supporting the goals and ideals of Long-
+Term Care Awareness Week during the week of November 4 through 10, 
+2007. I would like to thank Chairman Dingell and committee staff for 
+moving this resolution to the floor, and the gentlewoman from Wisconsin 
+(Ms. Baldwin) for yielding to me once again.
+  I would like to urge my colleagues to support this commonsense, 
+bipartisan resolution which I introduced with the gentleman from 
+Louisiana (Mr. Boustany), along with the gentleman from Maine (Mr. 
+Allen) and the gentleman from New Jersey (Mr. Ferguson).
+  I am proud that this resolution has earned the support of AARP, 
+Families USA, the Alzheimer's Association, the National Council on 
+Aging, the American Council of Life Insurers, the Association of Health 
+Insurance Advisors, and America's Health Insurance Plans. They have 
+come together in recognizing the immediacy of the need to raise 
+awareness about planning for long-term care needs.
+  This resolution is part of my commitment to addressing the many 
+challenges associated with long-term care. Designating a week to focus 
+on long-term care is one meaningful step we can take.
+  Our Nation needs to address these issues sooner rather than later so 
+that Americans are anticipating and fully prepared to meet their long-
+term care needs.
+  Studies show that many Americans don't have a clear perception of 
+what long-term care costs and to what extent long-term care is covered 
+by public programs.
+  Experts have projected strong growth and demand for long-term care 
+services as the baby-boom generation grows older and have emphasized 
+the related challenge of paying for long-term care services.
+  The Department of Health and Human Services has reported that 
+approximately 60 percent of people over the age of 65 will need some 
+kind of long-term care services.
+  The Government Accountability Office has reported projections of 
+significant growth in spending on long-term care services for seniors 
+such that spending could approach $379 billion by 2050.
+  Our Nation's long-term care challenges will have a particularly 
+significant impact on women, who make up more than 58 percent of 
+Americans over the age of 65 and greater than two-thirds of people 85 
+years of age or older.
+  Yet when it come to preparing to meet these costs, many Americans are 
+not adequately prepared. For instance, a 2006 AARP survey on the cost 
+of long-term care found that 60 percent of people age 45 and older said 
+they believe Medicare will pay for extended nursing home stay, which it 
+does not. And more than 50 percent of people age 45 or older said they 
+believe Medicare covers assisted living, which it does not.
+  And private-pay costs for this kind of care continue to go up. In 
+South Dakota, the average cost of a year in a private room in a nursing 
+home is $53,000, and a double-occupancy room averages well over 
+$47,000. According to one recent national survey, a year in a private 
+room in a nursing home averages more than $74,000, and a double-
+occupancy room averages nearly $66,000 a year.
+  An essential step in meeting the challenges posed by long-term care 
+needs and costs is raising awareness about planning for long-term care.
+  Education will help people understand the likelihood of needing long-
+term care, the types and costs of available services, and the options 
+to help plan and pay for those services. The more people know, the 
+greater opportunity people have to plan for their future and the more 
+likely they are to receive the services they need in the setting of 
+their choice.
+  That's the motivation for this Long-Term Care Awareness Week 
+resolution. I urge my colleagues to support this bipartisan resolution. 
+By passing it today, supporting the goals and ideals of Long-Term Care 
+Awareness Week during the week of November 4 through 10, we can take 
+another step forward to prepare our constituents and the Nation to meet 
+the already high cost of long-term care and the growing challenges 
+ahead.
+  Mr. FOSSELLA. Madam Speaker, it is my privilege to yield 2 minutes to 
+the lead sponsor and a true champion of this effort in the House, the 
+gentleman from Louisiana (Mr. Boustany).
+  Mr. BOUSTANY. Madam Speaker, I would like to thank my friend from New 
+York for yielding me this time.
+  I rise in support of H. Con. Res. 133 because many Americans lack 
+protection from catastrophic long-term care expenses related to chronic 
+illnesses and disability. And worse yet, most families assume that 
+Medicare will actually pay for these long-term care services, while it 
+generally does not; and oftentimes they find out in the midst of a 
+family crisis when a loved one is ill, placing intensive emotional 
+burdens as well as financial burdens on families.
+  I want to thank my colleague, Congresswoman Herseth Sandlin, for 
+working with me on this and really for being a champion on this issue. 
+She and I have worked together, and we have had some success in 
+persuading HHS and Social Security to clarify these widespread 
+perceptions.
+  I am hopeful that the passage of this resolution will encourage 
+Secretary Leavitt, President Bush and the future administration to 
+discuss this critical retirement security issue with the American 
+people. A recent poll found that the majority of voters want to hear 
+more about plans on how we will deal with this problem, and they desire 
+more information on this. And that perception out there that exists 
+that Medicare covers this is a real problem. The more we can get this 
+information out to the American people, the greater the service we will 
+be doing to help them deal and to cope with these problems.
+  We clearly must do more to expand coverage for long-term care, to 
+assist family caregivers, particularly those coping with the onset of 
+chronic conditions such as Alzheimer's disease. So I urge my colleagues 
+to support H. Con. Res. 133.
+  Ms. BALDWIN. Madam Speaker, I reserve the balance of my time.
+  Mr. FOSSELLA. Madam Speaker, let me commend the gentlelady from South 
+Dakota and the gentleman from Louisiana for bringing this to the floor.
+
+[[Page H11521]]
+
+I think what they said is totally accurate in the sense that as our 
+population lives longer and lives more healthy lives, along with that 
+comes an understanding and an obligation to begin preparing for those 
+long-term health care needs as part of their retirement.
+  As I mentioned before, baby boomers officially begin to receive, for 
+those early retirees, Social Security in just a few months. That 
+population, as we know, is large. I just think the more we can 
+emphasize and educate the people of this country on what their options 
+can and should be as they retire, the better off we will be when that 
+day arrives.
+  Madam Speaker, I yield back the balance of my time.
+  Ms. BALDWIN. Madam Speaker, I too want to add my words of 
+congratulations to the bill's authors, the gentlewoman from South 
+Dakota and the gentleman from Louisiana.
+  I know from my own personal experience you are never fully prepared 
+for having to make some of these choices on behalf of loved ones, and 
+it can happen at any time. We are going to be very well-served by the 
+passage of this bill to increase awareness among people of all age 
+groups about the decisions and options they have. We have to understand 
+that long-term care is part of the continuum of health care in this 
+country. More education is needed. I recommend its passage.
+  Madam Speaker, I yield back the balance of my time.
+  The SPEAKER pro tempore (Ms. Berkley). The question is on the motion 
+offered by the gentlewoman from Wisconsin (Ms. Baldwin) that the House 
+suspend the rules and agree to the concurrent resolution, H. Con. Res. 
+133.
+  The question was taken; and (two-thirds being in the affirmative) the 
+rules were suspended and the concurrent resolution was agreed to.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```

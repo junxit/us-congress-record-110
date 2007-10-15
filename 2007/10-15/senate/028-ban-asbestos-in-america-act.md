@@ -1,0 +1,62 @@
+---
+granule: CREC-2007-10-15-pt1-PgS12859-3
+date: 2007-10-15
+edition: CREC
+section: SENATE
+page: S12859
+citation: 153 Cong. Rec. S12859
+---
+
+# BAN ASBESTOS IN AMERICA ACT
+
+**Speaking:** Murray, Patty (M001111) [D-WA]
+
+```
+                      BAN ASBESTOS IN AMERICA ACT
+
+  Mrs. MURRAY. Mr. President, In the nearly 7 years that I have worked 
+to pass the Ban Asbestos in America Act, I have been aided by so many 
+dedicated and driven individuals without whom this day would not have 
+been possible. I wish to take a minute to thank them for all they have 
+done.
+  I would like to begin by thanking my entire personal staff who have 
+taken on this fight with me. Over 7 years many of them have come and 
+gone, but I know they are all very proud today because each and every 
+one of them, in their own unique way, has helped this effort along.
+  In particular I would like to thank Bill Kamela who, as the head of 
+my HELP Subcommittee on Employment and Workplace Safety, has carried 
+the torch on this issue for so many years.
+
+[[Page S12860]]
+
+Bill has sat with me in countless meetings reassuring widows, clearing 
+legislative hurdles, and pledging to all to make this ban a reality. 
+Bill's hard work and expertise have been essential to making this 
+possible. I would also like to thank Anna Knudson, a former member of 
+my staff who had the vision and passion to begin this effort.
+  I would like to thank Bill's hard-working staff Crystal Bridgeman, 
+Mike Waske, and Janice Camp who lent their know-how and support to this 
+effort at a critical juncture.
+  I would like to thank Alex Glass and my entire press office for their 
+work in spreading the word about the importance of this effort. And I 
+would like to thank Pete Weissman who recently left my office but whose 
+words often helped drive home the urgency of this effort. I would also 
+like to thank Mike Spahn who worked with me on the Senate floor to 
+guide this bill to passage
+  I also want to recognize and thank Dr. Barry Castleman, Chris Hahn 
+from the Mesothelioma Applied Research Foundation, MaryAnne Dunlap from 
+Senator Inhofe's office, Ed Egee from Senator Isakson's office, Linda 
+Reinstein from the Asbestos Disease Awareness Organization, Dr. Aubrey 
+Miller, Dr. Greg Meeker, Dr. Richard Lemen, Dr. Mike Harbut, Dr. Harvey 
+Pass, Andrew Schneider of the Seattle PI, and Matt Bergman.
+  I also want to say that it has been a pleasure to work with Senator 
+Isakson's staff, the staff from EPW, and Senator Boxer's staff.
+  It takes a lot of people to get something done. A tremendous amount 
+of people have worked on this. I thank them. Because of their work, we 
+are going to ban asbestos, we are going to dramatically expand research 
+and treatment, and we are going to launch a public education campaign 
+so all Americans understand how they can protect themselves from the 
+deadly asbestos products that may be in their home.
+
+                          ____________________
+```

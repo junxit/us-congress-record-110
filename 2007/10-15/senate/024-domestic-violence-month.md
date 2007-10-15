@@ -1,0 +1,70 @@
+---
+granule: CREC-2007-10-15-pt1-PgS12858-2
+date: 2007-10-15
+edition: CREC
+section: SENATE
+page: S12858
+citation: 153 Cong. Rec. S12858
+---
+
+# DOMESTIC VIOLENCE MONTH
+
+**Speaking:** Reid, Harry (R000146) [D-NV]
+
+```
+                        DOMESTIC VIOLENCE MONTH
+
+  Mr. REID. Mr. President, I rise today in recognition of Domestic 
+Violence Month. During the month of October, I urge my fellow 
+colleagues and Americans to join me in committing to end violence in 
+our homes. It is my hope that we can stand together this month and show 
+abusers that we will not tolerate their actions.
+  We must never forget that domestic violence is a wide spread ailment 
+with devastating implications. Domestic violence affects not only the 
+victims of abuse, but their families and communities as well. The 
+consequences of domestic abuse do not end with the violence. Victims 
+lucky enough to escape their abusers are sometimes left with no home, 
+no money, and no means to support themselves. And most unfortunately, 
+children are often caught in middle of this tragedy. With as many as 
+three million women experiencing abuse a year, it is clear we must do 
+more to prevent these crimes and help those who are victims.
+  That is why I would like to recognize several organizations that have 
+done extraordinary work to protect the victims of domestic violence in 
+Nevada. For almost 20 years, the Shade Tree has provided shelter to 
+abused women, and their families. Now, Shade Tree has taken on another 
+aspect of domestic violence. On October 9, 2007, Shade Tree opened 
+Noah's Animal House, a shelter for the animals of battered women. Shade 
+Tree realized that animal abuse occurs in 85 percent of homes from 
+which battered women arrive. Of those, 20 percent refuse to leave their 
+abusers without their pets. Shade Tree's commitment to ending domestic 
+violence knows no boundaries, and I know its impact on countless lives 
+will continue.
+  The Safe Nest is another important organization that has made 
+tremendous strides in ending domestic violence in Nevada. Safe Nest 
+recognizes the importance of addressing all sides of domestic violence 
+and helps with a range of services from court advocacy to crisis 
+intervention. Safe Nest also serves Nevada by sheltering victims and 
+educating the public. On October 19, Safe Nest will hold its annual 
+Domestic Violence Awareness Month luncheon. On this day, I hope that 
+Nevada and our Nation will recognize Safe Nest's years of success and 
+hard work.
+  Finally, I would like to recognize the S.A.F.E--Stop Abuse in the 
+Family Environment--House for their work. S.A.F.E. House is a community 
+based organization that provides counseling, advocacy, and intervention 
+for victims of domestic abuse. In addition, S.A.F.E. House collaborates 
+with organizations across Nevada to search for ways to end domestic 
+violence. For example, on October 25, S.A.F.E. House and the state 
+chapter of National Organization for Women will team up to bring 
+awareness to domestic violence. I am pleased to commend S.A.F.E. House 
+for motivating hundreds of Nevadans to take action in their community.
+  It is also important to recognize thousands of other organizations in 
+Nevada and our Nation that have committed time, labor, and financial 
+resources to help victims of domestic abuse. Please join me in 
+commending the dedicated efforts of those individuals who work each day 
+to stop aggression in our homes. With their example in mind, I hope 
+that Congress can reflect and take action during this important month. 
+I urge all Americans to participate in Domestic Violence Month 
+activities and pledge to make this issue their own.
+
+                          ____________________
+```
