@@ -1,0 +1,408 @@
+---
+granule: CRECB-2007-pt19-Pg27325
+date: 2007-10-16
+edition: CRECB
+section: HOUSE
+page: 27325
+---
+
+# HONORING THE 50TH ANNIVERSARY OF THE DAWN OF THE SPACE AGE
+
+```
+       HONORING THE 50TH ANNIVERSARY OF THE DAWN OF THE SPACE AGE
+
+  Mr. LAMPSON. Mr. Speaker, I move to suspend the rules and agree to 
+the
+
+[[Page 27326]]
+
+concurrent resolution (H. Con. Res. 225) honoring the 50th anniversary 
+of the dawn of the Space Age, and the ensuing 50 years of productive 
+and peaceful space activities.
+  The Clerk read the title of the concurrent resolution.
+  The text of the concurrent resolution is as follows:
+
+                            H. Con. Res. 225
+
+       Whereas the dawn of the Space Age took place on October 4, 
+     1957 with the launch of Sputnik 1, an event that was followed 
+     soon after by the American launch of Explorer 1;
+       Whereas the exploration of space evolved from cold war 
+     competition into an endeavor that has been marked by 
+     significant international cooperation, with results that have 
+     benefitted all humanity;
+       Whereas a new chapter in space exploration was opened when 
+     cosmonauts and astronauts first orbited the Earth in the 
+     early 1960s, culminating in the historic first steps taken by 
+     astronauts Neil Armstrong and Edwin E. Aldrin Jr. on the Moon 
+     in 1969;
+       Whereas robotic explorers have ranged throughout the solar 
+     system, with Voyager and Pioneer spacecraft now on the verge 
+     of entering interstellar space;
+       Whereas from space, we have been able to increase 
+     significantly our understanding of the universe and its 
+     origin;
+       Whereas observations from space have enabled large scale 
+     monitoring of the Earth's weather and climate;
+       Whereas satellites have become a part of our daily lives, 
+     transforming communications, navigation, and positioning;
+       Whereas the competition that accompanied the dawn of the 
+     Space Age reinvigorated the Nation's interest in science and 
+     technology, leading to an increased investment both in 
+     research and in science, technology, engineering, and 
+     mathematics education;
+       Whereas these investments contributed to the development of 
+     a technologically skilled generation of Americans that has 
+     led the world in innovation and accomplishment;
+       Whereas the new global competition for preeminence in 
+     science and technology and innovation has led to a call for a 
+     renewed commitment to research and to science, technology, 
+     engineering, and mathematics education akin to that which 
+     followed the dawn of the Space Age; and
+       Whereas Congress has responded by renewing our national 
+     commitment to science, technology, engineering, and 
+     mathematics education with the recently enacted America 
+     COMPETES Act: Now, therefore, be it
+       Resolved by the House of Representatives (the Senate 
+     concurring), That the Congress--
+       (1) honors the 50th anniversary of the dawn of the Space 
+     Age;
+       (2) recognizes the value of investing in America's space 
+     program; and
+       (3) declares it to be in America's interest to continue to 
+     advance knowledge and improve life on Earth through a 
+     sustained national commitment to space exploration in all its 
+     forms, led by a new generation of well educated scientists, 
+     engineers, and explorers.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentleman from 
+Texas (Mr. Lampson) and the gentleman from Florida (Mr. Feeney) each 
+will control 20 minutes.
+  The Chair recognizes the gentleman from Texas.
+
+
+                             General Leave
+
+  Mr. LAMPSON. Mr. Speaker, I ask unanimous consent that all Members 
+may have 5 legislative days to revise and extend their remarks, and to 
+include extraneous material on H. Con. Res. 225, the resolution now 
+under consideration.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Texas?
+  There was no objection.
+  Mr. LAMPSON. Mr. Speaker, I yield myself such time as I may consume.
+  Mr. Speaker, the space age arrived with a roar of the Soviet launch 
+of Sputnik, which propelled our Nation, the leader of the free world, 
+into a space race. We recognized we faced a challenge, and we 
+responded. We made smart investments in our people and in knowledge 
+acquisition to enable us to compete technologically.
+  Specifically, we invested in what we now call STEM education, and we 
+invested in science and engineering research. Those investments brought 
+us preeminence in a new area of endeavor, and they inspired a 
+generation of engineers and scientists.
+  And just 12 years later, two Americans, Neil Armstrong and Buzz 
+Aldrin, stood on the surface of the Moon. The competition with the 
+Soviet Union on a world stage is what drove us initially, but it was 
+strongly coupled with America's innate yearning to explore and 
+discover.
+  America was settled by people who already had lives elsewhere, but 
+who wanted something more. They wanted to find out what was over the 
+horizon. They wanted to determine if there was a better way. We are 
+here today, we are the beneficiaries of that restless energy and that 
+hard work.
+  An array of spacecraft high above works for us. Satellites monitor 
+weather and climate, forest fires, pollution, the growth of cities, and 
+even the shrinking of ice mass. They augment our infrastructure by 
+providing positioning information, and television, radio, telephone and 
+e-mail communications. They help our Nation remain secure. And they 
+serve our restless need to always know more as they go on missions for 
+us throughout the solar system and, soon, even beyond that boundary.
+  Every day people benefit: farmers, surveyors, pilots and sailors, and 
+even moms using GPS to get the kids to soccer practice. For all of our 
+relatively small investment, we get a lot back. That investment is a 
+start-up payment that calls forth the strength of American 
+entrepreneurship and taps America's restless energy.
+  Today we must not sit back, content with these benefits that we owe 
+the previous generation. It is not American in nature to do so.
+  Congress recognizes that our Nation again faces a challenge. This 
+time our adversaries are economic. In the space race we demonstrated 
+the winning strategy and we need to maintain that commitment to a 
+strong national space program. That includes human exploration beyond 
+low Earth orbit, including missions to the Moon and beyond because 
+rising to that challenge will bring out the best of us as a people.
+  In addition, we must renew America's investment in STEM education, in 
+science and engineering research.
+  Congress got this under way with the recently enacted America 
+COMPETES Act, and Congress will need to provide sustained support if we 
+are going to maintain American technical superiority and if we are 
+going to again inspire the world with our accomplishments.
+  I want to thank Chairman Gordon for his leadership in introducing 
+this legislation. I also want to thank Representatives Mark Udall from 
+Colorado and Ralph Hall from Texas and Tom Feeney from Florida who have 
+joined me as original cosponsors of this legislation. We want to honor 
+this historic anniversary by offering this concurrent resolution.
+  I would like to close by quoting a few lines and key phrases, namely: 
+``Now, therefore, be it resolved by the House of Representatives, that 
+the Congress honors the 50th anniversary of the dawn of the space age; 
+recognizes the value of investing in America's space program; and 
+declares it to be in America's interest to continue to advance 
+knowledge and improve life on Earth through a sustained national 
+commitment to space exploration in all its forms, led by a new 
+generation of well-educated scientists, engineers and explorers.''
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. FEENEY. Mr. Speaker, I rise in support of H. Con. Res. 225, and I 
+yield myself such time as I may consume.
+  Mr. Speaker, I rise in support of H. Con. Res. 225 honoring the 50th 
+anniversary of the dawn of the Space Age and the ensuing 50 years of 
+productive and peaceful space activities.
+  Fifty years ago, only 12 years after the end of World War II, America 
+was enjoying the unprecedented peace and prosperity that characterized 
+the 1950s.
+  But on October 4, 1957, America was shaken out of its technological 
+complacency. The Soviet Union launched a beeping 180-pound aluminum 
+satellite into orbit. Sputnik's capability was a wake-up call because 
+it represented a threat to America's national security and 
+technological preeminence.
+  Our early space program was born out of a clash of ideals between 
+civilizations and systems of government, but it reinvigorated our 
+interest in science and technology leading to increased investment in 
+both research and in science, technology, engineering, and mathematics 
+education.
+
+[[Page 27327]]
+
+  These investments contributed to a technologically skilled generation 
+of Americans that has led the world in innovation and accomplishments.
+  Our leadership over the last 50 years has encouraged international 
+partnerships that allow us to harness the imaginations and technical 
+talents of many nations for the benefit of all mankind. There is less 
+direct competition and more cooperation.
+  Today, about 60 percent of NASA's science missions and 100 percent of 
+its human spaceflight activities are done in partnership with other 
+nations. In the growing world economy, developing countries are 
+imitating many of the values and traits that have made America 
+successful, and we are adopting policies that promote education and 
+investment in research and technology.
+
+                              {time}  1900
+
+  They clearly understand the link between an educated workforce, 
+technological innovation and economic preeminence. The new global 
+competition for preeminence in science and technological innovation 
+must be met with a renewed American commitment to research and to 
+science, technology, engineering and mathematics education akin to that 
+which followed the dawn of the space age 50 years ago.
+  Over the next 50 years, it will be more critical, and not less, that 
+we remain world leaders. Our ability to shape our destiny and influence 
+others will depend upon it.
+  Mr. Speaker, as we mark the 50th anniversary of the dawn of the space 
+age, Congress recognizes the value of investing in America's space 
+program and declares that it is in America's interests to continue to 
+advance knowledge and to improve life on Earth through a sustained 
+national commitment to space exploration in all of its forms, led by a 
+new generation of well-educated scientists, engineers and explorers.
+  I thank the gentleman from Texas.
+  Mr. Speaker, with that, I have no further speakers, and I yield back 
+the balance of my time.
+  Mr. LAMPSON. Mr. Speaker, I have no further speakers and I thank the 
+gentleman from Florida. I thank him for his comments, they were 
+excellent, and certainly want to commend all of us who worked on this 
+particular piece of legislation.
+  You know, in a thousand years, people aren't going to remember 
+whether it was Sputnik or whether it was the United States or Russia or 
+any other country that entered us into this space race that took us 
+into a new age. So I'm very proud to be a part of offering this, and I 
+thank the gentleman for working with me on it.
+  Ms. JACKSON-LEE of Texas. Mr. Speaker, I rise in strong support of H. 
+Con. Res. 225, which commemorates the 50th anniversary of the dawn of 
+the Space Age. I would like to thank my colleague Mr. Gordon for his 
+excellent leadership in shepherding this important legislation to 
+passage on the House floor.
+  The year 2008 will mark the 50th anniversary of the dawn of the Space 
+Age and the creation of the National Aeronautics and Space 
+Administration (NASA). I support the resolution because it affords the 
+Congress an opportunity to pay tribute to the extraordinary partnership 
+between NASA and its 10 space and research centers.
+  Mr. Speaker, NASA has a distinguished history. The United States of 
+America won the race to land a man on the moon and, thanks to the 
+courage, dedication, and brilliance of NASA, America has continued to 
+lead the world in the exploration of the solar system and the universe.
+  On October 1, 1958, the National Aeronautics and Space Administration 
+began operation. At the time it consisted of only about 8,000 employees 
+and an annual budget of $100 million. Over the next 50 years, NASA has 
+been involved in many defining events which have shaped the course of 
+human history and demonstrated to the world the character of the people 
+of the United States.
+  Many of us remember how inspired we were when, on May 25, 1961, 
+President John F. Kennedy proclaimed: ``I believe this Nation should 
+commit itself to achieving the goal, before this decade is out, of 
+landing a man on the moon and returning him safely to earth. No single 
+space project in this period will be more impressive to mankind, or 
+more important for the long-range exploration of space; and none will 
+be so difficult or expensive to accomplish.''
+  Always at the forefront of technological innovation, NASA has been 
+home to countless ``firsts'' in the field of space exploration, from 
+the 1958 launch of Pioneer 3, the first U.S. satellite to ascend to an 
+altitude of 63,580 miles, to the January 1998 signing of the 
+International Space Station agreement between 15 countries, 
+establishing the framework for cooperation among partners on the 
+design, development, operation, and utilization of the Space Station.
+  Over the past 50 years, NASA's accomplishments have included:
+  On 20 February, 1962, John Glenn became the first American to circle 
+the Earth, making three orbits in his Friendship 7 Mercury spacecraft.
+  On 6 April, 1965, the United States launched Intelsat I, the first 
+commercial satellite (communications), into geostationary orbit.
+  On 13 November, 1971, the United States launched Mariner 9, the first 
+mission to orbit another planet (Mars).
+  On 12 April, 1981, NASA launched the space shuttle Columbia on the 
+first flight of the Space Transportation System (STS-l).
+  On 18 to 24 June, 1983, NASA launched space shuttle Challenger (STS-
+7) carrying three mission specialists, including Sally K. Ride, the 
+first woman astronaut. In another historic mission, 2 months later NASA 
+launched STS-8 carrying the first black American astronaut, Guion S. 
+Bluford.
+  On 22 July, 1999, the space shuttle Columbia's 26th flight was led by 
+Air Force COL Eileen Collins, the first woman to command a Shuttle 
+mission.
+  On July 20, 1969, Apollo 11 astronauts Neil A. Armstrong and Edwin E. 
+Aldrin made the first lunar landing mission while Michael Collins 
+orbited overhead in the Apollo command module. Armstrong set foot on 
+the surface, telling the millions of listeners that it was ``one small 
+step for man--one giant leap for mankind.'' Aldrin soon followed him 
+out and planted an American flag but omitted claiming the land for the 
+U.S., as had routinely been done during European exploration of the 
+Americas. The two Moon-walkers left behind an American flag and a 
+plaque bearing the inscription: ``Here Men From Planet Earth First Set 
+Foot Upon the Moon. Jul. 1969 A.D. We came in Peace for All Mankind.''
+  On April 24, 1990, the Hubble space telescope was launched into space 
+aboard the STS-31 mission of the space shuttle Discovery. The Hubble 
+has revolutionized astronomy while expanding our knowledge of the 
+universe and inspiring millions of scientists, students, and members of 
+the public with its unprecedented deep and clear images of space.
+  Mr. Speaker, in addition to these historic events, NASA has greatly 
+contributed to our understanding of our universe. In 1968, Apollo 8 
+took off atop a Saturn V booster from the Kennedy Space Center for a 
+historic mission to orbit the Moon. As Apollo 8 traveled outward, the 
+crew focused a portable television camera on Earth and for the first 
+time humanity saw its home from afar, a tiny, lovely, and fragile 
+``blue marble'' hanging in the blackness of space.
+  This transmission and viewing of Earth from a distance was an 
+enormously significant accomplishment and united the Nation at a time 
+when American society was in crisis over Vietnam, race relations, urban 
+problems, and a host of other difficulties.
+  The success of the United States space exploration program in the 
+20th century augurs well for its continued leadership in the 21st 
+century. This success is largely attributable to the remarkable and 
+indispensable partnership between the National Aeronautics and Space 
+Administration and its 10 space and research centers. One of these 
+important research centers is located in my home city of Houston. The 
+Johnson Space Center, which manages the development, testing, 
+production, and delivery of all United States human spacecraft and all 
+human spacecraft-related functions, is one of the crown jewels of NASA 
+and a lodestar Houston area. The other nine research and space centers 
+are:
+  1. The Ames Research Center in California's Silicon Valley provides 
+products, technologies, and services that enable NASA missions and 
+expand human knowledge in areas as diverse as small spacecraft and 
+supercomputers, science missions and payloads, thermal protection 
+systems and information technology.
+  2. The Dryden Flight Research Center, the leading center for 
+innovative flight research.
+  3. The Glenn Research Center, which develops power, propulsion, and 
+communication technologies for space flight systems and aeronautics 
+research.
+  4. The Goddard Space Flight Center, which specializes in research to 
+expand knowledge
+
+[[Page 27328]]
+
+on the Earth and its environment, the solar system, and the universe 
+through observations from space.
+  5. The Jet Propulsion Laboratory, the leading center for robotic 
+exploration of the Solar System.
+  6. The Kennedy Space Center, the gateway to the Universe and world 
+leader in preparing and launching missions around the Earth and beyond.
+  7. The Langley Research Center, which continues to forge new 
+frontiers in aviation and space research for aerospace, atmospheric 
+sciences, and technology commercialization to improve the way the world 
+lives.
+  8. The Marshall Space Flight Center, a world leader in developing 
+space transportation and propulsion systems, engineers the future to 
+accelerate exploration and scientific discovery.
+  9. The Stennis Space Center, which is responsible for rocket 
+propulsion testing and for partnering with industry to develop and 
+implement remote sensing technology.
+  NASA's stunning achievements over the last 50 years have been won for 
+all mankind at great cost and sacrifice. In the quest to explore the 
+universe, many NASA employees have lost their lives, including the 
+crews of Apollo 6, the space shuttle Challenger, and the space shuttle 
+Columbia.
+  Mr. Speaker, in the centuries to come, when space travel will be 
+commonplace and America will have successfully led the way for humanity 
+to colonize and utilize the resources of other planets, these first 50 
+years of NASA's existence will be remembered as the most significant 
+era of human space exploration. It is, therefore, important that we 
+commemorate the great achievements of NASA's first 50 years. I strongly 
+urge my colleagues to join me in supporting this historic legislation.
+  Mr. UDALL of Colorado. Mr. Speaker, I rise today in strong support of 
+this bipartisan concurrent resolution.
+  Human existence has marched through a great many generations, yet 
+only in this last half century have humans taken to space.
+  We have been transformed by the space program. We live our lives 
+differently, with long-range weather forecasts and GPS positioning and 
+international cell phone calls and international banking.
+  We think of ourselves differently. Our space exploration has 
+uncovered information about the universe that surrounds us. We now can 
+conjecture about the first seconds of the life of the universe. We have 
+learned much about where we are, and about what is happening around us, 
+and about existence itself.
+  We think of our own planet differently. The sight of this fragile, 
+blue ball, seen from a distance in dark space, stirred us, and provided 
+impetus for the fledgling environmental movement. We realized that we 
+had to sustain ``Spaceship Earth.''
+  As the chairman of the Science and Technology Committee's 
+Subcommittee on Space and Aeronautics, I observe the unique role that 
+NASA plays in our technology capabilities.
+  The aerospace industry is one of America's biggest successes, and one 
+of the strongest contributors to our trade balance. It owes much to 
+NASA's fundamental aeronautics research.
+  Harder to quantify, but just as important, NASA's incredible 
+achievements in space inspire young people to choose careers in 
+technology fields. NASA recognizes this and has developed fine 
+educational initiatives.
+  We have many competing societal priorities that must be addressed, 
+but it is vital that we invest in the future, too. Throughout human 
+history, the winner has been the nation that was more technically 
+powerful. Investing in science and technology, with the space program 
+and STEM education, is an investment for a richer and wider future.
+  If we aren't willing to make the investments to lead technologically, 
+we know that others will take that lead. That isn't the future that I 
+would like to see. Do we want a world in which our smart people are 
+drawn to the work done in other countries, leaving us on the periphery?
+  There are widespread reports that China and India are building 
+significant R&D capacity by investing in research at universities, and 
+are elevating their industrial policies towards higher end work.
+  We have been warned. The National Academies' ``Rising Above the 
+Gathering Storm'' laid it out. The investments that earlier generations 
+made brought us our prosperous and secure lifestyle. Now it is time for 
+us to renew these investments.
+  I am pleased with the American COMPETES Act that Congress and the 
+White House enacted. It boosts STEM education to prepare the next 
+generation for the technological challenges of the future and it 
+strengthens our country's research and innovation environment to keep 
+America competitive in the global economy.
+  Today when we look back over the 50 years of the space age, we feel 
+proud. And I am proud to be a cosponsor of this resolution. It tells a 
+success story. Now it is our job to write another success story, by 
+continuing to invest in the fundamentals of a strong technology sector: 
+STEM education, space exploration, and technology research.
+  Mr. LAMPSON. Mr. Speaker, I yield back the balance of my time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from Texas (Mr. Lampson) that the House suspend the rules and 
+agree to the concurrent resolution, H. Con. Res. 225.
+  The question was taken; and (two-thirds being in the affirmative) the 
+rules were suspended and the concurrent resolution was agreed to.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```
