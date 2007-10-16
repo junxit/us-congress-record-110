@@ -1,0 +1,35 @@
+---
+granule: CREC-2007-10-16-pt1-PgE2144-3
+date: 2007-10-16
+edition: CREC
+section: EXTENSIONS
+page: E2144
+citation: 153 Cong. Rec. E2144
+---
+
+# PERSONAL EXPLANATION
+
+**Speaking:** Graves, Sam (G000546) [R-MO]
+
+```
+                          PERSONAL EXPLANATION
+
+                                 ______
+                                 
+
+                            HON. SAM GRAVES
+
+                              of missouri
+
+                    in the house of representatives
+
+                       Tuesday, October 16, 2007
+
+  Mr. GRAVES. Madam Speaker, I would like to state for the record my 
+position on the following votes I missed due to flooding in my county.
+  On Monday, October 15, 2007, I was tending to personal matters and 
+thus missed rollcall votes Nos. 961, 962, and 963. Had I been present, 
+I would have voted ``aye'' on all votes.
+
+                          ____________________
+```

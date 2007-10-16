@@ -1,0 +1,118 @@
+---
+granule: CREC-2007-10-16-pt1-PgS12893
+date: 2007-10-16
+edition: CREC
+section: SENATE
+page: S12893
+citation: 153 Cong. Rec. S12893
+---
+
+# CHINA
+
+**Speaking:** Dorgan, Byron L. (D000432) [D-ND], Mikulski, Barbara A. (M000702) [D-MD]
+
+```
+                                 CHINA
+
+  Mr. DORGAN. I don't have enough time, but I want to show my 
+colleagues something I find absolutely fascinating. Let me suggest on a 
+different subject I will consume the 3.5 minutes.
+  This is the Nail House. This house is in the middle of a whole dug-
+out excavation area. This is in China. The Chinese Government, the 
+developers, decided we are going to go in, and we are clearing this 
+whole place out. One family said: No, you can't do that to me. It is 
+not legal. It is not fair. We are not going to move. So they came in 
+and excavated around the entire house. Here is the little house in 
+China.
+  I tell you that because we just released, last week, the Congress 
+Executive Commission on China Annual Report. It is the 2007 annual 
+report. I am a cochairman, Sandy Levin, Congressman Sandy Levin, is the 
+chairman. I am the cochairman of the Congressional Executive Commission 
+on China. This describes a whole series of things on China, those who 
+are in prison today in China as a result of advocating for human rights 
+and other related issues.
+  I will tell this story about the Nail House. They call it the Nail 
+House because it is stuck right up out of the excavation. The story did 
+not have such a happy ending for the Nail House. The Chinese, 
+eventually--they must have thought this was funny, the Chinese 
+authorities, by digging around this fellow's house--but they eventually 
+came in and tore the whole thing down and this property was lost. It is 
+pretty hard to take on the Chinese Government.
+  But one of the things in this report we talk about is what is 
+happening with technology in China, and the ability, outside of the 
+purview of the Communist Government, to control everything; the ability 
+of people to communicate.
+  Now, the Chinese have thousands of thought police trying to figure 
+out who is visiting the Internet and trying to prevent them from 
+visiting certain sites on the Internet. But there is a trend that is 
+going on in China that is very interesting. Internet use rose from 
+620,000 in the last 10 years, 620,000, to 160 million Internet users.
+  Mobile phone ownership went from 3 million to 500 million in the last 
+12 years, 500 million. China has an estimated 20 million blogs, where 
+people are talking among bloggers' personalized Web pages. In the 
+entire year of 2003, about 4 years ago, the Chinese people sent 137 
+billion text messages.
+  Now, I tell you all of that because I think it is going to change 
+things in China. Part of this China Executive Commission is trying to 
+understand what is happening in China. What does that mean for our 
+future? But there are some striking examples of citizen activism these 
+days which are very interesting. This is one, the ``nail house,'' this 
+family, that did not end so well.
+  But the local officials ignored the mass complaints. But what 
+happened was this picture was on all of the blogs in China, it stirred 
+up a hornet's nest of people willing to demonstrate in the streets on 
+behalf of this family.
+  But there is one other issue, chemical factory protests in the 
+southeast corner of Xiamen. The local government planned to build a 
+hazardous chemical plant near the center of town. They publicized the 
+information on Web sites and blogs, and citizens responded by 
+overwhelming the local Chinese officials with a million text messages. 
+Later they used blogs and text messages. They organized massive 
+protests and marches that attracted thousands, and finally the local 
+officials suspended the building of a chemical factory in the middle of 
+Xiamen.
+  Mr. President, I ask unanimous consent for 2 additional minutes.
+  The ACTING PRESIDENT pro tempore. Without objection, it is so 
+ordered.
+  Mr. DORGAN. Another use of the Internet in China was on a slave labor 
+scandal. In May and June of this year, citizen activists broke open a 
+scandal that rocked China. Thousands of brick kilns were using kidnaped 
+slave labor. They were men, boys, mentally ill, forced to work under 
+heavy guard, often with no pay and very little food.
+  Parents looking for their missing sons organized on the Internet in 
+China, and they were pleading for Government assistance. They were 
+forced to cover the story in the Chinese press because there was such a 
+mass uprising here. Finally, the Chinese Prime Minister ordered an 
+investigation. Five hundred workers were freed. One hundred sixty 
+people who ran the kilns were arrested. Very few party officials were 
+seriously punished.
+  But the point is, things are changing. The technology is changing in 
+China. The Burmese monks protest, the activism continues right up to 
+today. While the Chinese Government is attempting to shut down this 
+open and free communications with the thought police, they have got 
+thousands of people trying to regulate Internet use, the fact is, it is 
+not working, and technology and communications are having a profound 
+impact and I believe will continue to have a significant impact in
+
+[[Page S12894]]
+
+the future. But I would say to my colleagues, we have some very skilled 
+people who have worked with Congressman Levin and myself on the 
+Congressional Executive Commission on China, the Annual Report, 2007.
+  We have the most complete list of those who are being held prisoner 
+in China, particularly as a result of human rights issues. This 
+booklet, if you have a chance to read it, is a great description put 
+together by some very skilled people on exactly what is happening in 
+China.
+  There is some progress, and there are areas that are of great 
+concern. We continue to monitor and work on these issues.
+  I yield the floor, and suggest the absence of a quorum.
+  The ACTING PRESIDENT pro tempore. The clerk will call the roll.
+  The legislative clerk proceeded to call the roll.
+  Ms. MIKULSKI. Mr. President, I ask unanimous consent that the order 
+for the quorum call be rescinded.
+  The ACTING PRESIDENT pro tempore. Without objection, it is so 
+ordered.
+
+                          ____________________
+```

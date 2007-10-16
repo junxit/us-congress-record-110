@@ -1,0 +1,37 @@
+---
+granule: CREC-2007-10-16-pt1-PgH11555
+date: 2007-10-16
+edition: CREC
+section: HOUSE
+page: H11555
+citation: 153 Cong. Rec. H11555
+---
+
+# THE STORY OF TWO TENS IN IRAQ AND HERE IN THE UNITED STATES
+
+**Speaking:** Altmire, Jason (A000362) [D-PA]
+
+```
+      THE STORY OF TWO TENS IN IRAQ AND HERE IN THE UNITED STATES
+
+  (Mr. ALTMIRE asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. ALTMIRE. Madam Speaker, when we as a Nation talk about our 
+priorities, it is often useful to use numbers to put things in 
+perspective. So today let's think about the number 10. On Thursday, 
+this House will have the opportunity to override a Presidential veto 
+that would allow us to ensure 10 million children have access to 
+quality health care so that they can see the doctor of their choice 
+when they need to. We realize the importance of preventive care. 
+Children shouldn't be forced to let a cold or earache linger until it 
+reaches emergency proportions.
+  President Bush says our bipartisan compromise is too expensive. But 
+while we are working to ensure 10 million children have access to 
+health care, President Bush has no problem asking us to send $10 
+billion every month to Iraq.
+  Madam Speaker, this is a debate about priorities. House Republicans 
+should join us in overriding the President's veto to send a message 
+that children's health care is a priority of this House.
+
+                          ____________________
+```

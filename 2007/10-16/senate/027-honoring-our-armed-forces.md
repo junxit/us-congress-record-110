@@ -1,0 +1,111 @@
+---
+granule: CREC-2007-10-16-pt1-PgS12930
+date: 2007-10-16
+edition: CREC
+section: SENATE
+page: S12930
+citation: 153 Cong. Rec. S12930
+---
+
+# HONORING OUR ARMED FORCES
+
+**Speaking:** Bayh, Evan (B001233) [D-IN], Nelson, Ben (N000180) [D-NE]
+
+```
+                       HONORING OUR ARMED FORCES
+
+
+                  Seaman Apprentice Shayna Ann Schnell
+
+  Mr. BAYH. Mr. President, I rise today with a heavy heart and deep 
+sense of gratitude to honor the life of a brave young sailor from Tell 
+City. Shayna Ann Schnell, 19 years old, died on October 1 in Dubai, 
+United Arab Emirates, from injuries she received in a vehicle accident 
+several days earlier. With her entire life before her, Shayna risked 
+everything to fight for the values Americans hold close to our hearts, 
+in a land halfway around the world.
+  Shayna was a lifelong Hoosier, growing up in Dubois and Perry 
+counties. Shayna graduated Perry Central High School in 2006 and joined 
+the Navy later that year. After completing basic training in Great 
+Lakes, IL, Shayna was stationed at Lackland Air Force Base in San 
+Antonio, TX. Her hard work earned her an assignment as a master-at-arms 
+with the Naval Security Force Bahrain in the United Arab Emirates.
+  Shayna died while serving her country by supporting Operation Iraqi 
+Freedom. She is survived by her mother and stepfather, Suzanne and 
+Vernon Silacci; her father and stepmother, Doug and Peggy Schnell; her 
+sister Nicole; and her brothers Trent and Tyler, who is also serving 
+his country in the Navy. Shayna was known for her dedication to her 
+family and her love of country. Today and always, she will be 
+remembered by family members, friends, and fellow Hoosiers as a true 
+American hero, and we honor the sacrifice she made while dutifully 
+serving her country.
+  Today, I join Shayna's family and friends in mourning her death. 
+While we struggle to bear our sorrow over this loss, we can also take 
+pride in the example she set, bravely fighting to make the world a 
+safer place. It is her courage and strength of character that people 
+will remember when they think of Shayna, a memory that will burn 
+brightly during these continuing days of conflict and grief.
+  As I search for words to do justice in honoring Shayna's sacrifice, I 
+am reminded of President Lincoln's remarks as he addressed the families 
+of the fallen soldiers in Gettysburg: ``We cannot dedicate, we cannot 
+consecrate, we cannot hallow this ground. The brave men, living and 
+dead, who struggled here, have consecrated it, far above our poor power 
+to add or detract. The world will little note nor long remember what we 
+say here, but it can never forget what they did here.'' This statement 
+is just as true today as it was nearly 150 years ago, as I am certain 
+that the impact of Shayna's actions will live on far longer that any 
+record of these words.
+  It is my sad duty to enter the name of Shayna Schnell in the official 
+Record of the U.S. Senate for her service to this country and for her 
+profound commitment to freedom, democracy, and peace. When I think 
+about this just cause in which we are engaged and the unfortunate pain 
+that comes with the loss of our heroes, I hope that families like 
+Shayna's can find comfort in the words of the prophet Isaiah, who said, 
+``He will swallow up death in victory; and the Lord God will wipe away 
+tears from off all faces.''
+  May God grant strength and peace to those who mourn, and may God be 
+with all of you, as I know He is with Shayna.
+
+
+                         Captain Scott N. Shimp
+
+  Mr. NELSON of Nebraska. Mr. President, I rise today to honor Army CPT 
+Scott Shimp of Bayard, NE.
+  Captain Shimp's love for the military was obvious to his mother, who 
+said ``even when he was little, he wanted to be a soldier, running 
+around in his camouflage.'' He graduated from Bayard High School in 
+1998 as the salutatorian of his class. He was also quite active in many 
+activities: football, wrestling, 21st Century Singers, choir, and the 
+National Honor Society. In addition, Captain Shimp received his Eagle 
+Scout Award, the highest honor bestowed by the Boy Scouts of America, 
+in 1998. Upon his graduation from high school, he pursued his dream of 
+becoming a pilot by enrolling in the U.S. Military Academy at West 
+Point, graduating in 2002.
+  Following his commission as a second lieutenant, Captain Shimp served 
+two tours of duty in support of Operation Iraqi Freedom I and III. 
+After graduating from the Aviation Captain's Career Course at Fort 
+Rucker, AL, he reported to Company C, 4th Battalion, 101st Aviation 
+Regiment, 159th Combat Aviation Brigade, 101st Airborne Division, at 
+Fort Campbell, KY, to serve as company commander.
+  A highly decorated soldier, Captain Shimp's leadership qualities were 
+unmistakable. He was a rare example in the 101st Airborne Division, as 
+evidenced by taking over a command soon after graduating from the 
+Aviation Captain's Career Course, thereby demonstrating the respect and 
+trust afforded him by his superiors. On September 11, 2007, Captain 
+Shimp, along with two crew members, passed away when the Black Hawk 
+helicopter he was piloting during a training exercise crashed due to 
+fog near the town of Skyline, AL. He was 28 years old.
+
+[[Page S12931]]
+
+  Captain Scott Shimp is survived by his parents Curtis and Teri Shimp 
+of Bayard, NE; his older brother Chad and his younger sister Misty. I 
+offer my most sincere condolences to the family and friends of Captain 
+Shimp. He made the ultimate and most courageous sacrifice for our 
+Nation. I join all Americans in grieving the loss of this remarkable 
+young man and know that Captain Shimp's passion for serving, his 
+leadership, and his selflessness will remain a source of inspiration 
+for us all.
+
+                          ____________________
+```
