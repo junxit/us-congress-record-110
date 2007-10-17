@@ -1,0 +1,38 @@
+---
+granule: CRECB-2007-pt20-Pg27458-6
+date: 2007-10-17
+edition: CRECB
+section: HOUSE
+page: 27458
+---
+
+# SCHIP
+
+```
+                                 SCHIP
+
+  (Mr. HODES asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. HODES. Mr. Speaker, I rise today to urge my colleagues to 
+exercise the power Congress has under article I of the Constitution and 
+to override the President's veto of the Children's Health Insurance 
+Program. This vote is significant because it underlines the difference 
+between what the President values and what the American people value. 
+To the President and his allies in Congress, $190 billion this year for 
+the occupation in Iraq is a necessity. But $35 billion to provide 
+health care to 10 million uninsured children in America is an 
+extravagance.
+  If we are successful and we override that veto tomorrow, SCHIP will 
+preserve the coverage of 11,892 children in
+
+[[Page 27459]]
+
+my home State of New Hampshire and make funds available to cover an 
+additional 8,720 kids. If we are not successful, I personally would 
+like to invite President Bush and his allies in Congress to come home 
+with me to Concord, New Hampshire, and explain to these 20,000 kids why 
+they can't go to a doctor when they break a bone or get medicine when 
+they are sick.
+
+                          ____________________
+```

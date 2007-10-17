@@ -1,0 +1,58 @@
+---
+granule: CRECB-2007-pt20-Pg27515
+date: 2007-10-17
+edition: CRECB
+section: HOUSE
+page: 27515
+---
+
+# UNJUST PROSECUTION AND HARSH TREATMENT OF RAMOS AND COMPEAN
+
+```
+      UNJUST PROSECUTION AND HARSH TREATMENT OF RAMOS AND COMPEAN
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from North Carolina (Mr. Jones) is recognized for 5 minutes.
+  Mr. JONES of North Carolina. Madam Speaker, today is day 274 of 
+incarceration for 2 former U.S. Border Patrol agents. Agents Ramos and 
+Compean were convicted in March of 2006 for shooting a Mexican drug 
+smuggler who brought 743 pounds of marijuana across our border into 
+Texas.
+  Two decorated Border Patrol agents with exemplary records, who were 
+doing their duty to protect the American people from an illegal 
+American drug smuggler, are serving 11 and 12 years in prison.
+  Since the agents' convictions, thousands of American citizens and 
+dozens of Members of Congress have called for justice for these 2 
+border agents. You just heard the Congressman from Texas (Mr. Poe) 
+speak about this issue in a 1-minute speech. These 2 decorated agents 
+were doing their duty to enforce the law and did not deserve to spend 1 
+day in prison.
+  While these 2 men appeal their convictions, they continue to languish 
+in solitary confinement. Nine months of solitary confinement is 
+unacceptable. The Bureau of Prisons has violated its own guidelines 
+which state that administrative detention is intended to be used for 
+``short periods not to exceed 90 days.''
+  Although former law enforcement officers face increased safety risks 
+in prison, the harmful effects of prolonged solitary confinement are 
+well-documented. Solitary confinement is not an acceptable long-term 
+solution for ensuring their physical safety.
+  This week, I was pleased to join my friend, Congressman Rohrabacher, 
+and many other of my friends, including Congressman Poe, in signing a 
+letter to Mr. Michael Mukasey. This letter asked that, upon 
+confirmation, the new Attorney General will thoroughly examine the 
+flaws of this prosecution and will put an end to the harsh treatment 
+these agents are receiving in prison. A directive from the Director of 
+the Bureau of Prisons or the Attorney General can correct this unfair 
+treatment.
+  Madam Speaker, with an unbiased review by the incoming Attorney 
+General, I am hopeful that this gross miscarriage of justice will be 
+corrected.
+  I say in closing, Madam Speaker, to the families of Mr. Ramos and Mr. 
+Compean, please know that there are many of us in the United States 
+Congress, the House and the Senate, that are trying to do what is right 
+for your loved ones. This is an injustice that should not be allowed to 
+continue. We need to bring justice to this injustice for these 2 men.
+  May God continue to bless America and our men and women in uniform.
+
+                          ____________________
+```
