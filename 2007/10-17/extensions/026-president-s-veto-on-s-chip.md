@@ -1,0 +1,46 @@
+---
+granule: CREC-2007-10-17-pt1-PgE2162-4
+date: 2007-10-17
+edition: CREC
+section: EXTENSIONS
+page: E2162
+citation: 153 Cong. Rec. E2162
+---
+
+# PRESIDENT'S VETO ON S-CHIP
+
+**Speaking:** Baca, Joe (B001234) [D-CA]
+
+```
+                       PRESIDENT'S VETO ON S-CHIP
+
+                                 ______
+                                 
+
+                             HON. JOE BACA
+
+                             of california
+
+                    in the house of representatives
+
+                      Wednesday, October 17, 2007
+
+  Mr. BACA. Madam Speaker, I rise today in strong support of the SCHIP 
+program. President Bush's veto on SCHIP has abandoned at least 24,000 
+children in my District alone. President Bush claims we want 
+``gimmicks'' and ``funding schemes''--we don't want gimmicks we want 
+insurance for 8.7 million uninsured children. Children like Kristofer 
+and Felecity Famutimi from San Bernardino County, whose hospital care 
+for sickle cell anemia crippled the family financially. Their mom, Ola 
+had to quit her job to take care of them. SCHIP is the only reason they 
+have pulled through.
+  President Bush claims that Democrats are ``putting health coverage 
+for poor children at risk--to gain political points''. I am not voting 
+for politics, I am voting for the 33,000 children in my District who 
+are currently uninsured. Covering 800,000 children costs the same as 1 
+week of the war in Iraq. It is time America gets her priorities in 
+order. I urge my colleagues to secure the futures of our Nations' 
+poorest children by voting to override the President's veto.
+
+                          ____________________
+```

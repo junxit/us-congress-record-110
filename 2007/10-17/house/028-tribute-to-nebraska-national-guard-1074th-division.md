@@ -1,0 +1,40 @@
+---
+granule: CREC-2007-10-17-pt1-PgH11645
+date: 2007-10-17
+edition: CREC
+section: HOUSE
+page: H11645
+citation: 153 Cong. Rec. H11645
+---
+
+# TRIBUTE TO NEBRASKA NATIONAL GUARD 1074TH DIVISION
+
+**Speaking:** Smith, Adrian (S001172) [R-NE]
+
+```
+           TRIBUTE TO NEBRASKA NATIONAL GUARD 1074TH DIVISION
+
+  (Mr. SMITH of Nebraska asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. SMITH of Nebraska. Mr. Speaker, on Friday October 12, the 
+Nebraska National Guard's 1074th returned to a hero's homecoming in 
+North Platte, Nebraska. The 1074th, headquartered out of North Platte, 
+with detachments in Broken Bow, Ogallala, and Sidney, Nebraska, 
+returned to Nebraska after a year-long deployment to Iraq. While in 
+Iraq, the 1074th Transportation Company's primary missions were convoy 
+security and local humanitarian support.
+  The 1074th tragically lost one of their own. Sergeant Randy J. 
+Matheny, a native of McCook, Nebraska, made the ultimate sacrifice to 
+his country on February 4, 2007. I join my fellow Nebraskans in 
+offering my sincere sympathy and continued thoughts and prayers for the 
+Matheny family.
+  The reception the 1074th received from families, friends and 
+supporters upon their return to Nebraska was truly inspiring, as 
+thousands, literally thousands of well-wishers welcomed these American 
+heroes home in an incredible display of patriotism and pride. I wish to 
+convey appreciation to the 1074th upon their safe return to Nebraska, 
+and certainly commend Nebraskans for their amazing show of support in 
+giving our soldiers the warm, heartfelt reception they deserve.
+
+                          ____________________
+```
