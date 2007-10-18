@@ -1,0 +1,123 @@
+---
+granule: CRECB-2007-pt20-Pg27686
+date: 2007-10-18
+edition: CRECB
+section: SENATE
+page: 27686
+---
+
+# SENATE RESOLUTION 352--EXPRESSING THE SENSE OF THE SENATE REGARDING THE 20TH ANNIVERSARY OF UNITED STATES-MONGOLIA RELATIONS
+
+```
+SENATE RESOLUTION 352--EXPRESSING THE SENSE OF THE SENATE REGARDING THE 
+          20TH ANNIVERSARY OF UNITED STATES-MONGOLIA RELATIONS
+
+  Ms. MURKOWSKI (for herself, Mr. Lugar, and Mr. Biden) submitted the 
+following resolution; which was considered and agreed to:
+
+                              S. Res. 352
+
+       Whereas the United States established diplomatic relations 
+     with the Government of Mongolia in January 1987 and 
+     established its first embassy in Ulaanbaatar in June 1988;
+       Whereas the United States and Mongolia are both fully 
+     democratic states committed to the rule of law;
+       Whereas, in 1991, the United States established normal 
+     trade relations with Mongolia and began a Peace Corps program 
+     that now boasts approximately 100 volunteers;
+       Whereas the United States has a continued commitment to 
+     Mongolia's economic and political development and has 
+     contributed over $150,000,000 in aid for that purpose since 
+     1991;
+       Whereas the United States has supported Mongolia's 
+     participation in the International Monetary Fund, the World 
+     Bank, and the Asian Development Bank;
+       Whereas the United States and Mongolia strengthened their 
+     trade relationship through the signing of a Trade and 
+     Investment Framework Agreement in 2004 to boost bilateral 
+     commercial ties and resolve trade disputes;
+       Whereas Mongolia continues to work with the United States 
+     to combat global terrorism and, since April 2003, has 
+     contributed engineers, troops, and medical personnel to 
+     Operation Iraqi Freedom and has participated in training 
+     National Army artillery units in Afghanistan;
+       Whereas Mongolia has demonstrated an expanding desire to 
+     join the United States in global peacekeeping activities by 
+     sending a contingent of 250 soldiers to protect the Special 
+     Court for Sierra Leone, a platoon to participate in the North 
+     Atlantic Treaty Organization (NATO) mission in Kosovo, and 
+     personnel to serve as United Nations observers in Sudan, 
+     Ethiopia, and Eritrea;
+       Whereas the United States and Mongolia share an interest in 
+     promoting peaceful cooperation in south central Asia; and
+       Whereas Mongolia was named eligible for Millennium 
+     Challenge Compact assistance on May 6, 2004, submitted its 
+     official proposal on October 13, 2005, and had its proposal 
+     approved by the Millennium Challenge Corporation on September 
+     12, 2007: Now, therefore, be it
+       Resolved, That it is the sense of the Senate that--
+       (1) the strength and endurance of the partnership between 
+     the United States and Mongolia should be acknowledged and 
+     celebrated;
+       (2) the United States should encourage continued economic 
+     cooperation with Mongolia, including in areas such as mining, 
+     construction, information technology, tourism, and meat 
+     processing, to the betterment of both our economies;
+       (3) the United States should continue to work with the 
+     International Monetary Fund, the World Bank, and the Asian 
+     Development Bank to improve Mongolia's economic system;
+       (4) the United States should provide Mongolia assistance 
+     under the Millennium Challenge Compact and work to finalize 
+     the compact in a timely fashion; and
+       (5) the United States should encourage greater academic and 
+     cultural exchanges with Mongolia.
+  Ms. MURKOWSKI. Mr. President, Mongolia has made incredible strides to 
+improve its relationship with the United States since 1987. Following 
+the downfall of communism in that nation, our ties have grown 
+exponentially.
+  Mongolia has worked hard in the past two decades to create a robust 
+and strong democracy and the United States has been a partner in that 
+effort from its inception.
+  Although it lies on the other side of the globe and sits between 
+Russia and China, Mongolia has long sought close ties with the United 
+States, with some even referring to the United States as its ``Third 
+Neighbor.''
+  On the economic front, the United States-Mongolian relationship is 
+dynamic and growing with over one hundred U.S. and U.S.-Mongolian joint 
+ventures registered in areas ranging from oil exploration, textiles, 
+animal husbandry, tourism, mining, and banking. The United States is 
+also one of Mongolia's largest sources of foreign investment.
+  While a large recipient of foreign aid, Mongolia still commits itself 
+to giving back to the global community through its significant 
+peacekeeping efforts in Africa and Eastern Europe, with personnel in 
+Sierra Leone and Kosovo.
+  Mongolia is also a strong partner in the War on Terror. Mongolia has 
+contributed engineers, troops, and medical personnel to Operation Iraqi 
+Freedom and has participated in training National Army artillery units 
+in Afghanistan. Prior to 2000, Mongolia did not have a national policy 
+of deploying forces beyond its borders. Yet they were the first 
+coalition country to contribute an infantry battalion to Iraq.
+  Mongolia's contributions mean a bit more to the State of Alaska. 
+Since 2003, we have partnered with Mongolia through the Alaska-Mongolia 
+National Guard Partnership. Our National Guard has established broad 
+working relationships and increased exchanges with their Mongolian 
+partners. They stand side by side with the Mongolian Armed Forces in 
+Iraq--in fact, the Mongolian Ministry of Defense specifically requested 
+Alaska National Guard support based on Alaska's relationship with their 
+nation.
+  The success that the partnership has enjoyed is a direct reflection 
+of the willingness and eagerness on both sides
+
+[[Page 27687]]
+
+to further our relations. The Alaska National Guard tells me that 
+Mongolia is enthusiastic about their democratic reforms and is 
+aggressively working to meet its goals.
+  So with 2007 being the 20th Anniversary of U.S.-Mongolia relations, I 
+am proud to introduce this resolution marking our ties and the 
+significant progress that has been achieved between our two countries 
+in that short time frame. I look forward to what the next 20 years will 
+bring.
+
+                          ____________________
+```
