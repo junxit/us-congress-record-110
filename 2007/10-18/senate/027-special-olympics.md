@@ -1,0 +1,66 @@
+---
+granule: CREC-2007-10-18-pt1-PgS13075-2
+date: 2007-10-18
+edition: CREC
+section: SENATE
+page: S13075
+citation: 153 Cong. Rec. S13075
+---
+
+# SPECIAL OLYMPICS
+
+**Speaking:** Craig, Larry E. (C000858) [R-ID]
+
+```
+                            SPECIAL OLYMPICS
+
+  Mr. CRAIG. Mr. President, I have come to the floor today to talk 
+about something very important--the Special Olympics World Winter 
+Games.
+  It is a privilege for all of us in Idaho to be a part of these games 
+as the host for the 2009 worldwide games. And it has been an honor for 
+me personally to be involved with this wonderful organization. I know 
+the people of Idaho are looking forward to welcoming the world to our 
+great State.
+  I especially want to thank Senator Harkin for his help. He has been a 
+tremendous advocate for the Special Olympics. And from what I 
+understand, he is a big fan of the games in his home state of Iowa, 
+where they recently hosted the National Summer Games. Senator, thank 
+you.
+  I think we all know that the Special Olympics is a first-class 
+organization. Its sole purpose is to enrich the lives of literally 
+millions of people across the world. Through training and competition, 
+individuals with intellectual disabilities have a chance to become 
+physically fit, productive and respected members of society.
+  However, Special Olympics is responsible for much more than games and 
+competition . . . it is about quality of life. The Special Olympics 
+Healthy Athletes Program, developed over a decade ago, focuses on 
+health, fitness, and well-being of people with and without 
+disabilities. Last year this program made it possible to conduct more 
+than 135,000 health screenings. Just this month, at the World Summer 
+Games in China, medical volunteers provided free dental, vision, and 
+hearing exams. Clearly, the games are more than just a sporting event 
+they provide services to promote better fitness and health care.
+  So when the Special Olympics asked me to help with the Idaho Winter 
+Games, it is easy to see why I considered it a great honor.
+  Now, hosting the largest multiday winter sports competition ever held 
+in the United States isn't easy--and it isn't cheap. There is a 
+tremendous amount of work going on behind the scenes. It requires a lot 
+of manpower and resources to prepare the infrastructure and organize 
+housing, meals, and transportation for participants from all over the 
+world. As a world-class nonprofit organization, Special Olympics relies 
+mostly on in-kind gifts and services. Raising enough money to pull off 
+such a large event is a daunting task, to say the least.
+  This is why I am pleased that the Senate Appropriations Committee has 
+provided the Idaho Special Olympic Winter Games with some much-needed 
+funding. This critical financial assistance will make these games 
+possible. It will make it possible for some truly remarkable athletes 
+to compete.
+  Again I would like to thank both Senator Harkin and Senator Specter 
+for their devotion to the Special Olympics. Their work will make these 
+games a success. And while I am on the floor, I would like to invite my 
+colleagues to come to Idaho--to experience the magic of an Idaho winter 
+and to experience the magic of the Special Olympics.
+
+                          ____________________
+```
