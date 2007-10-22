@@ -1,0 +1,48 @@
+---
+granule: CRECB-2007-pt20-Pg27880-3
+date: 2007-10-22
+edition: CRECB
+section: EXTENSIONS
+page: 27880
+---
+
+# AFFIRMATION OF THE UNITED STATES RECORD ON THE ARMENIAN GENOCIDE RESOLUTION
+
+```
+   AFFIRMATION OF THE UNITED STATES RECORD ON THE ARMENIAN GENOCIDE 
+                               RESOLUTION
+
+                                 ______
+                                 
+
+                          HON. JOHN D. DINGELL
+
+                              of michigan
+
+                    in the house of representatives
+
+                        Monday, October 22, 2007
+
+  Mr. DINGELL. Madam Speaker, I have noted in recent days that some of 
+my colleagues have asked to have their names removed from the list of 
+those cosponsoring House Resolution 106. I have not asked to be removed 
+as a cosponsor because I still strongly support the goals of the 
+Resolution, and believe that it is important to acknowledge the 
+atrocities committed against the Armenian people by the Ottoman Empire 
+do indeed constitute genocide.
+  While I support the message of the Resolution, I have recently signed 
+a letter asking that it not be brought to the House floor at this time. 
+While the Armenian genocide is a tragic part of history, in the present 
+there are American soldiers fighting and dying in Iraq. Regrettably, 
+Turkey has responded to this Resolution with threats that would 
+endanger the safety of those soldiers and make it more difficult for us 
+to quickly and safely bring our troops home.
+  I know that my friends in the Armenian community have worked very 
+hard over the years on behalf of this Resolution, and I know that they 
+will be disappointed if its passage is delayed. However, they will be 
+no more disappointed than I am about the fact that more than four years 
+after the President launched his misguided war in Iraq, our troops are 
+still in harm's way.
+
+                          ____________________
+```
