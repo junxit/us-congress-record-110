@@ -1,0 +1,98 @@
+---
+granule: CREC-2007-10-23-pt1-PgS13258
+date: 2007-10-23
+edition: CREC
+section: SENATE
+page: S13258
+citation: 153 Cong. Rec. S13258
+---
+
+# MEASURES REFERRED
+
+**Measures:** H.R. 53, H.R. 189, H.R. 523, H.R. 767, H.R. 813, H.R. 830, H.R. 1205, H.R. 1462, H.R. 1803, H.R. 1855, H.R. 2197, H.R. 3775, H.R. 3776
+
+```
+                           MEASURES REFERRED
+
+  The following bills were read the first and the second times by 
+unanimous consent, and referred as indicated:
+
+       H.R. 53. An act to authorize the Secretary of the Interior 
+     to enter into a long-term lease with the Government of the 
+     United States Virgin Islands to provide land on the island of 
+     Saint John, Virgin Islands, for the establishment of a 
+     school, and for other purposes; to the Committee on Energy 
+     and Natural Resources.
+       H.R. 189. An act to establish the Paterson Great Falls 
+     National Park in the State of New Jersey; to the Committee on 
+     Energy and Natural Resources.
+       H.R. 523. An act to require the Secretary of the Interior 
+     to convey certain public land located wholly or partially 
+     within the boundaries of the Wells Hydroelectric Project of 
+     Public Utility District No.1 of Douglas County, Washington, 
+     to the utility district; to the Committee on Energy and 
+     Natural Resources.
+       H.R. 767. An act to protect, conserve, and restore native 
+     fish, wildlife, and their natural habitats at national 
+     wildlife refuges through cooperative, incentive-based grants 
+     to control, mitigate, and eradicate harmful nonnative 
+     species, and for other purposes; to the Committee on Energy 
+     and Natural Resources.
+       H.R. 813. An act to amend the Reclamation Wastewater and 
+     Groundwater Study and Facilities Act to authorize the 
+     Secretary of the Interior to participate in the Prado Basin 
+     Natural Treatment System Project, to authorize the Secretary 
+     to carry out a program to assist agencies in projects to 
+     construct regional brine lines in California, to authorize 
+     the Secretary to participate in the Lower Chino Dairy Area 
+     desalination demonstration and reclamation project, and for 
+     other purposes; to the Committee on Energy and Natural 
+     Resources.
+       H.R. 830. An act to authorize the exchange of certain 
+     interests in land in Denali National Park in the State of 
+     Alaska; to the Committee on Energy and Natural Resources.
+       H.R. 1205. An act to reauthorize the Coral Reef 
+     Conservation Act of 2000, and for other purposes; to the 
+     Committee on Commerce, Science, and Transportation.
+       H.R. 1462. An act to authorize the Secretary of the 
+     Interior to participate in the implementation of the Platte 
+     River Recovery Implementation Program for Endangered Species 
+     in the Central and Lower Platte River Basin and to modify the 
+     Pathfinder Dam and Reservoir; to the Committee on Energy and 
+     Natural Resources.
+       H.R. 1803. An act to direct the Secretary of the Interior 
+     to conduct a feasibility study to design and construct a four 
+     reservoir intertie system for the purposes of improving the 
+     water storage opportunities, water supply reliability, and 
+     water yield of San Vicente, El Capitan, Murray, and Loveland 
+     Reservoirs in San Diego County, California in consultation 
+     and cooperation with the City of San Diego and the Sweetwater 
+     Authority, and for other purposes; to the Committee on Energy 
+     and Natural Resources.
+       H.R. 1855. An act to authorize the Secretary of the 
+     Interior, acting through the Bureau of Reclamation to enter 
+     into a cooperative agreement with the Madera Irrigation 
+     District for purposes of supporting the Madera Water Supply 
+     Enhancement Project; to the Committee on Energy and Natural 
+     Resources.
+       H.R. 2197. An act to modify the boundary of the Hopewell 
+     Culture National Historical Park in the State of Ohio, and 
+     for other purposes; to the Committee on Energy and Natural 
+     Resources.
+       H.R. 3775. An act to support research and development of 
+     new and industrial processes and technologies that optimize 
+     energy efficiency and environmental performance, utilize 
+     diverse sources of energy, and increase economic 
+     competitiveness; to the Committee on Energy and Natural 
+     Resources.
+       H.R. 3776. To provide for research, development, and 
+     demonstration programs in advanced energy storage systems for 
+     electric drive vehicles, stationary applications, and 
+     electricity transmission and distribution applications, to 
+     support the ability of the United States to remain globally 
+     competitive in this field, and to promote the efficient 
+     delivery and use of energy; to the Committee on Energy and 
+     Natural Resources.
+
+                          ____________________
+```
