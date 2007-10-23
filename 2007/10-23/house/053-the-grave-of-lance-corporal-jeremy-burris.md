@@ -1,0 +1,35 @@
+---
+granule: CRECB-2007-pt20-Pg28024-2
+date: 2007-10-23
+edition: CRECB
+section: HOUSE
+page: 28024
+---
+
+# THE GRAVE OF LANCE CORPORAL JEREMY BURRIS
+
+```
+               THE GRAVE OF LANCE CORPORAL JEREMY BURRIS
+
+  (Mr. POE asked and was given permission to address the House for 1 
+minute)
+  Mr. POE. Mr. Speaker, Lance Corporal Jeremy Burris, 22, was buried 
+last week in Liberty, Texas, after being killed in Iraq. This young 
+marine was honored at a funeral by the entire town for his heroism.
+  But a few days after his funeral, outlaws desecrated Jeremy's grave 
+site. Some reports indicate the suspected criminals may have been 
+antiwar peaceniks that commit violence in the name of peace. They 
+disrespect and dishonor the dead by their vandalism.
+  But whoever committed such dastardly deeds should be quickly captured 
+by the local sheriff. After these grave-desecrating criminals are 
+convicted, they should be sentenced to serve time at Gitmo prison in 
+Guantanamo Bay. After all, that is where America houses other war 
+criminals.
+  So, Mr. Speaker, those that commit crimes against the graves of our 
+fallen war dead are nothing more than war criminals and should be 
+treated as such, because justice is the one thing we should always 
+find.
+  And that's just the way it is.
+
+                          ____________________
+```

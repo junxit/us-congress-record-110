@@ -1,0 +1,106 @@
+---
+granule: CRECB-2007-pt20-Pg27944-2
+date: 2007-10-23
+edition: CRECB
+section: SENATE
+page: 27944
+---
+
+# NATIONAL INTEREST ELECTRIC TRANSMISSION CORRIDOR
+
+```
+            NATIONAL INTEREST ELECTRIC TRANSMISSION CORRIDOR
+
+  Mr. CASEY. Mr. President, I rise today to address not only a major 
+public policy issue for the State of Pennsylvania but also a 
+fundamental issue of fairness and the proper role of Government, which 
+I think will have an impact on the country as a whole.
+  Recently, the U.S. Department of Energy designated 52 counties--52 
+out of Pennsylvania's 67 counties--as part of a power transmission 
+corridor, more formally known as the National Interest Electric 
+Transmission Corridor. This means the Government will be able to turn 
+three-quarters of the State of Pennsylvania into a superhighway of 
+transmission towers.
+  Their authority to designate this corridor was granted in the Energy 
+bill passed in 2005 in the previous Congress. This designation would 
+allow the Federal Government to override State authority and construct 
+high-voltage power transmission lines wherever they please--virtually 
+wherever the Federal Government pleases. They could place the lines on 
+farmland, through neighborhoods, through someone's backyard, and, for 
+example, through a beautiful vineyard such as the one I saw most 
+recently in Greene County in the furthermost southwestern corner of 
+Pennsylvania, so virtually anywhere in the Commonwealth and anywhere in 
+the country.
+  Earlier this year, the Department had a public comment period where I 
+and other public officials and most importantly my constituents spoke 
+out loudly in opposition to the draft corridor plan. That draft plan is 
+virtually identical to the final plan.
+  Let me give my colleagues a sense of what we are talking about here. 
+This is a map which depicts the draft Mid-Atlantic and Southwest area 
+national corridor. There are people in Washington who for years have 
+been talking about creating opportunities for more power, and this is a 
+national priority, they say. Yet we can see just by the dotted areas 
+that there are a lot of States in the Northeast that will be impacted--
+obviously, New York and Pennsylvania, West Virginia, Maryland, and a 
+few others, and then out West in the furthermost reaches of the 
+Southwest of our country, principally in the State of California. So 
+for all of the talk about a national priority, there is very little 
+that impacts the middle of our country.
+  I sent letters, as Senator Specter did, to the Department of Energy, 
+but so far, I am not happy to report the Department of Energy has 
+ignored my constituents. I think this is an outrage, for a government 
+bureaucracy to ignore the people they are supposed to serve. They pay 
+their salaries--those taxpayers pay their salaries. The least this 
+Department should do is respond not just in a timely way but to respond 
+completely. But we haven't seen that yet.
+  Last week, I met with an Assistant Secretary of Energy to discuss my 
+opposition to the transmission corridor as it is presently drafted. I 
+have sent letters to the Energy Secretary, Mr. Samuel Bodman, most 
+recently in early October. We are still waiting for a response to that, 
+a letter signed by both Senator Specter and me, waiting for a response. 
+I know people get busy, but I think it is time now to respond to that 
+letter. We are also waiting for Secretary Bodman to respond to my 
+request for a meeting. We are getting a little resistance there as 
+well.
+  So while I am waiting for these responses from the Energy Secretary, 
+I want to put him on notice and I want to put the Federal Energy 
+Regulatory Commission--which we know by the acronym FERC--I want to put 
+FERC on notice and I want to put the Senate on notice that I have grave 
+concerns, as a lot of people in Pennsylvania have grave concerns, about 
+this transmission corridor as presently designed or drafted. I am 
+outraged by how my constituents have been treated so far in this 
+process. I would argue they have been ignored in this process.
+  So I intend to use every means at my disposal--every means at my 
+disposal--to prevent the National Interest Electric Transmission 
+Corridor from moving forward until Pennsylvania is at a
+
+[[Page 27945]]
+
+minimum treated equitably. So I intend to place a hold on the 
+renomination of Joseph Kelliher, who is now serving as the Chairman of 
+the Federal Energy Regulatory Commission, known as FERC. I will place a 
+hold on his renomination, and I will be introducing tomorrow, in 
+connection with the amendments to the farm bill, an amendment to 
+prevent the use of eminent domain to take farmland for use as a part of 
+this power transmission corridor.
+  One more chart before I conclude. The second chart here depicts the 
+number of counties affected in the northeastern corner of the United 
+States. I will speak just of Pennsylvania for today--52 out of those 67 
+counties. Basically, what the Federal Government has told us, in 
+essence, implicitly--this is what I derive from their failure to 
+respond to the State of Pennsylvania--is there is going to be a 
+superhighway of power lines across Pennsylvania, and there is nothing 
+anyone can do about it. The Federal Government is going to take over 
+this effort and put those lines across the State of Pennsylvania.
+  Well, I have news for them. Pennsylvania is full of a lot of people 
+who are concerned about this, whether they are in small towns or urban 
+areas, and, as we are going to be speaking to tomorrow, rural areas in 
+Pennsylvania, farm communities. Most of those counties designated there 
+are in rural communities. If the Federal Government and the Department 
+of Energy or the Federal Energy Regulatory Commission or anyone else in 
+this town wants to fight about this, we are ready to fight, and we will 
+fight morning, noon, and night until our State, the Commonwealth of 
+Pennsylvania, is treated equitably.
+
+                          ____________________
+```
