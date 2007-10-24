@@ -1,0 +1,45 @@
+---
+granule: CREC-2007-10-24-pt1-PgH11939-6
+date: 2007-10-24
+edition: CREC
+section: HOUSE
+page: H11939
+citation: 153 Cong. Rec. H11939
+---
+
+# BUSH NEGLECTS DOMESTIC PRIORITIES TO CONTINUE TO FOCUS ON WAR IN IRAQ
+
+**Speaking:** Yarmuth, John A. (Y000062) [D-KY]
+
+```
+ BUSH NEGLECTS DOMESTIC PRIORITIES TO CONTINUE TO FOCUS ON WAR IN IRAQ
+
+  (Mr. YARMUTH asked and was given permission to address the House for 
+1 minute.)
+  Mr. YARMUTH. Mr. Speaker, when President Bush vetoed a bill earlier 
+this month that would provide health care coverage to 10 million 
+American children, he said the spending was excessive. The bipartisan 
+bill invested $35 billion more in children's health over a 5-year 
+period. Three weeks later, President Bush announces that he needs $196 
+billion to fight the war in Iraq over the next year. If $35 billion for 
+children's health is excessive, what exactly is his request for the 
+war?
+  I know the President believes that Congress is his personal ATM 
+machine, but article I of the Constitution says different, and we will 
+not rubber-stamp his funding request for the war.
+  As we have in the past, Democrats will continue to exert pressure on 
+the administration to change course in Iraq so that we can begin to 
+bring the
+
+[[Page H11940]]
+
+troops home. There is no military solution to the war; yet the Bush 
+administration refuses to put pressure on the Iraqi Government to enact 
+the political reforms that are necessary to bring about stability in 
+the country.
+  While we push the administration to change course in Iraq, we also 
+remain firm in our conviction to pass the children's health care bill 
+that covers 10 million American children.
+
+                          ____________________
+```
