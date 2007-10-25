@@ -1,0 +1,76 @@
+---
+granule: CRECB-2007-pt20-Pg28429-2
+date: 2007-10-25
+edition: CRECB
+section: SENATE
+page: 28429
+---
+
+# IN HONOR OF REVEREND WALLACE S. HARTSFIELD
+
+```
+               IN HONOR OF REVEREND WALLACE S. HARTSFIELD
+
+● Mrs. McCASKILL. Mr. President, I ask the Senate to join me 
+today in honoring Rev. Dr. Wallace S. Hartsfield, a much-loved member 
+of the Kansas City community. Reverend Hartsfield will soon retire 
+after 40 years as the senior pastor of Metropolitan Missionary Baptist 
+Church. He has served as Metropolitan's pastor since 1972 with the 
+support of his wife Matilda and their four children. Prior to that, he 
+held pastoral positions in South Carolina, Georgia, Florida, and 
+Kansas.
+  Reverend Hartsfield's distinguished career in the ministry has 
+touched thousands in Missouri. As the ambassador for his church, he has 
+graced pulpits across the country bringing words of hope to the masses. 
+He is a respected servant-leader of many organizations including the 
+National Baptist Convention of America, Inc.; National Baptist 
+Convention, USA; Congress of National Black Churches and the General 
+Baptist State Convention of Missouri, Kansas, and Nebraska.
+  He has expanded his ministry as a community advocate. Reverend 
+Hartsfield has spent much of his life speaking up for those whose 
+voices are ignored on the subjects of civil rights, health care, 
+education, crime and safety, and economic development. One of his 
+bravest acts occurred in 1964 when five department stores in downtown 
+Kansas City refused to allow African Americans to try on clothes, use 
+the restrooms, drink at the water fountains, or eat at the lunch 
+counters. Reverend Hartsfield organized a boycott and marched on the 
+stores. Eventually African Americans were allowed to patronize these 
+stores but it was not without the personal intervention of this 
+inspirational leader.
+  His service has afforded him a seat at many tables where he has 
+proven to be a skillful diplomat and a cunning negotiator. Reverend 
+Hartsfield has worked on countless boards including those of the Jazz 
+District Redevelopment Corporation, Greater Kansas City Community 
+Foundation, Missouri Highway and Transportation Commission, and Kansas 
+City Interfaith Council.
+  Reverend Hartsfield has a bachelor's degree in elementary education 
+and minor degrees in religion and psychology from Clark College in 
+Atlanta, GA. He also holds a bachelor and master of divinity from 
+Gammon Theological Seminary in Atlanta. Dr. Hartsfield has served as an 
+adjunct professor and guest lecturer at numerous colleges and 
+universities across the Nation.
+  Reverend Hartsfield has been a mentor to many, from pastors to 
+politicians. He continues to provide wise counsel to those who want to 
+make a difference in the world. He also has the ability to identify 
+hidden treasures in those who have not been afforded an opportunity to 
+thrive. This precious gift has been the catalyst for many to realize 
+their dreams.
+  For 40 years, the members of Metropolitan have been blessed to have 
+this powerful leader at the helm. Reverend Hartsfield has worked hard 
+and he has earned the opportunity to step back. However, we know his 
+work is not yet done. He will continue shaping lives, communities and 
+destinies for years to come.
+  During one of the many times he was honored for his good works it was 
+said:
+
+       Wallace Hartsfield does battle with all the dark forces 
+     that would keep us from knowing and loving one another. With 
+     his Bible and his passion for justice and his rock-ribbed 
+     integrity, Reverend Wallace Hartsfield leads us to the high 
+     moral ground where all God's children sit down together as 
+     family at the table of peace and delight.
+
+  No truer words could be spoken.●
+
+                          ____________________
+```
