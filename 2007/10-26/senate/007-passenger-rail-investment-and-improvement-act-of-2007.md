@@ -1,0 +1,553 @@
+---
+granule: CRECB-2007-pt20-Pg28478-8
+date: 2007-10-26
+edition: CRECB
+section: SENATE
+page: 28478
+---
+
+# PASSENGER RAIL INVESTMENT AND IMPROVEMENT ACT OF 2007
+
+```
+         PASSENGER RAIL INVESTMENT AND IMPROVEMENT ACT OF 2007
+
+  The ACTING PRESIDENT pro tempore. Under the previous order, the 
+Senate will resume consideration of S. 294, which the clerk will 
+report.
+  The legislative clerk read as follows:
+
+       A bill (S. 294) to reauthorize Amtrak, and for other 
+     purposes.
+
+  Pending:
+
+       Allard amendment No. 3455, to strike the provisions 
+     repealing Amtrak's self-sufficiency requirements.
+
+
+                             cloture motion
+
+  Mr. REID. Mr. President, I send a cloture motion to the desk.
+  The ACTING PRESIDENT pro tempore. The cloture motion having been 
+presented under rule XXII, the Chair directs the clerk to read the 
+motion.
+  The legislative clerk read as follows:
+
+                             Cloture Motion
+
+       We, the undersigned Senators, in accordance with the 
+     provisions of rule XXII of the Standing Rules of the Senate, 
+     hereby move to bring to a close debate on Calendar No. 158, 
+     S. 294, AMTRAK Reauthorization.
+         Frank R. Lautenberg, Trent Lott, Joe Lieberman, Benjamin 
+           L. Cardin, S. Whitehouse, Robert Menendez, Daniel K. 
+           Inouye, Susan M. Collins, Mike Crapo, Larry E. Craig, 
+           John Warner, Byron L. Dorgan, Gordon H. Smith, Max 
+           Baucus, Bill Nelson, Robert P. Casey, Jr., Harry Reid.
+
+
+[[Page 28479]]
+
+  Mr. REID. Mr. President, normally we waive the reading of the names, 
+but I thought it was so refreshing to hear a cloture motion with 
+Democrats and Republicans on it that I wanted to hear them. I am almost 
+anxious to have the clerk do it again, but I think that is sufficient.
+  I ask unanimous consent that the vote on the motion to invoke cloture 
+on S. 294 occur on Tuesday, October 30 at a time determined by the 
+majority leader--I will certainly consult with the Republican leader--
+and that the mandatory quorum rule under rule XXII be waived.
+  The ACTING PRESIDENT pro tempore. Without objection, it is so 
+ordered.
+  Mr. REID. I now ask unanimous consent that Members have until 3:30 
+p.m. Monday to file any germane first-degree amendments to S. 294.
+  The ACTING PRESIDENT pro tempore. Without objection, it is so 
+ordered.
+  Mr. REID. Mr. President, I note the absence of a quorum.
+  The ACTING PRESIDENT pro tempore. The clerk will call the roll.
+  The legislative clerk proceeded to call the roll.
+  Mr. LAUTENBERG. Mr. President, I ask unanimous consent that the order 
+for the quorum call be rescinded.
+  The ACTING PRESIDENT pro tempore. Without objection, it is so 
+ordered.
+  Mr. LAUTENBERG. Mr. President, with cloture filed, we are hopeful we 
+will be able to move with dispatch to the support and approval of S. 
+294, the Amtrak bill.
+  I wish to start this morning by thanking our colleague and my 
+cosponsor and longtime Amtrak supporter, Senator Trent Lott, for the 
+opportunity to work together to move this bill along. His support is 
+essential, and I know he is pleased with the progress we have made this 
+morning up to this point. Today is our third day on the bill. Yesterday 
+we made very good progress. We were able to work through a number of 
+amendments, some of which we were able to agree to and some of which we 
+disposed of with votes. Now, this morning, cloture has been filed, 
+which should put us on a schedule to finish this bill early next week. 
+It is very important that we do so for the future of America's 
+transportation systems.
+  Whether it is to reduce congestion on our roads or at our airports, 
+or to reduce greenhouse gas emissions that puts us at risk of global 
+warming--our society and our world--or to give people another safe mode 
+of transportation during an emergency, rail is critical. We cannot 
+neglect the contribution it makes in the event of a calamity or 
+disaster, whether it comes from a terrorist attack or from an erratic 
+act of nature such as a storm or forest fires, and all of the things we 
+see that call at times for evacuation.
+  Our bill, by authorizing $2 billion a year for Amtrak in the States 
+over the next 6 years, will make all of that much easier for America to 
+deal with the problem of a decaying infrastructure. It provides funding 
+for Amtrak's capital needs as well as State grants for passenger rail.
+  While Amtrak had record ridership and revenues last year, our bill 
+requires changes at Amtrak to make sure these funds will help the 
+railroad to continue moving in the right direction. It would require 
+Amtrak to reform its operations, to reduce its Federal operating 
+subsidy by over 40 percent over the life of the bill.
+  We worked very hard to forge this bipartisan compromise plan. Last 
+Congress, our plan was approved by the Senate as an amendment to the 
+budget bill by a vote of 93 to 6. I hope that early next week we will 
+get a strong vote in support of our bill so we can be one step closer 
+to making it law.
+  I note the absence of a quorum.
+  The ACTING PRESIDENT pro tempore. The clerk will call the roll.
+  The legislative clerk proceeded to call the roll.
+  Mr. BOND. Mr. President, I ask unanimous consent that the order for 
+the quorum call be rescinded.
+  The ACTING PRESIDENT pro tempore. Without objection, it is so 
+ordered.
+
+
+           Amendments Nos. 3467, 3468, 3469, and 3470 En Bloc
+
+  Mr. BOND. Mr. President, I ask unanimous consent to temporarily set 
+aside the pending amendment and call up amendments Nos. 3467, 3468, 
+3469, and 3470 en bloc, on behalf of Senator DeMint.
+  The ACTING PRESIDENT pro tempore. Without objection, it is so 
+ordered.
+  The clerk will report.
+
+       The Senator from Missouri [Mr. Bond], for Mr. DeMint, 
+     proposes amendments numbered 3467, 3468, 3469, and 3470 en 
+     bloc.
+
+  The amendments are as follows:
+
+
+                           amendment no. 3467
+
+ (Purpose: To require Amtrak to disclose the Federal subsidy of every 
+               ticket sold for transportation on Amtrak)
+
+       At the end of title II, add the following:
+
+     SEC. 224. DISCLOSURE OF PER PASSENGER FEDERAL SUBSIDIES.
+
+       Amtrak shall publicly disclose all the costs incurred for 
+     each Amtrak route that are subsidized by the Federal 
+     Government, including costs for maintenance, depreciation, 
+     and operations. The specific per-passenger Federal subsidy on 
+     each route shall be displayed on every ticket purchased for 
+     that route and on Amtrak's publicly accessible website.
+
+
+                           amendment no. 3468
+
+   (Purpose: To increase competition in the American rail system by 
+   allowing any qualified rail operator or transportation company to 
+                  compete for passenger rail service)
+
+       On page 33, strike line 22 and all that follows through 
+     page 34, line 5, and insert the following:
+       ``(1) any qualified rail operator or transportation company
+
+
+                           amendment no. 3469
+
+ (Purpose: To clarify the level of detail to be included in the modern 
+ financial accounting and reporting system required under section 203)
+
+       On page 15, line 21, strike ``(b)'' and insert the 
+     following:
+       (b) Categorization of Revenues and Expenses.--
+       (1) In general.--In carrying out subsection (a), the Amtrak 
+     Board of Directors shall separately categorize routes, 
+     assigned revenues, and attributable expenses by type of 
+     service, including long distance routes, State-sponsored 
+     routes, commuter contract routes, and Northeast Corridor 
+     routes.
+       (2) Northeast corridor.--Amtrak revenues generated by 
+     freight and commuter railroads operating on the Northeast 
+     Corridor shall be separately listed to include the charges 
+     per car mile assessed by Amtrak to other freight and commuter 
+     railroad entities.
+       (3) Fixed overhead expenses.--Fixed overhead expenses that 
+     are not directly assigned or attributed to any route (or 
+     group of routes) shall be listed separately by line item and 
+     expense category.
+       (c)
+
+
+                           amendment no. 3470
+
+   (Purpose: To require the Performance Improvement Plan to address 
+reaching financial solvency by eliminating routes and services that do 
+                           not make a profit)
+
+       On page 31, strike line 21 and insert the following:
+       ``(7) reaching financial solvency by eliminating routes and 
+     services that do not make a profit; and
+
+  Mr. BOND. Mr. President, I ask unanimous consent that those 
+amendments be temporarily set aside.
+  The ACTING PRESIDENT pro tempore. Without objection, it is so 
+ordered.
+
+
+                           Amendment No. 3464
+
+  Mr. BOND. Mr. President, I call up amendment No. 3464, which is at 
+the desk.
+  The ACTING PRESIDENT pro tempore. The clerk will report.
+  The legislative clerk read as follows:
+
+       The Senator from Missouri [Mr. Bond] proposes an amendment 
+     numbered 3464.
+
+  Mr. BOND. Mr. President, I ask unanimous consent that reading of the 
+amendment be dispensed with.
+
+ (Purpose: To amend section 24101 of title 49, United States Code, to 
+                       clarify Amtrak's mission)
+
+       On page 10, between lines 12 and 13, insert the following:
+
+     SEC. 200. MISSION.
+
+       Section 24101 is amended by striking subsection (c) and 
+     inserting the following:
+       ``(c) Mission.--
+       ``(1) In general.--The mission of Amtrak is to provide 
+     efficient and effective intercity passenger mobility in those 
+     travel markets in which passenger rail offers a trip-time and 
+     service quality competitive or complementary travel option 
+     consistent with the goal of continual reduction in Federal 
+     operating subsidies required to provide such service.
+       ``(2) Performance measurement.--All measurements of Amtrak 
+     performance, including decisions on whether, and to what
+
+[[Page 28480]]
+
+     extent, to provide operating subsidies, shall be based on the 
+     Amtrak's ability to carry out the mission described in 
+     paragraph (1).''.
+       On page 33, line 3, strike ``may'' and insert ``shall''.
+
+  Mr. BOND. Mr. President, I rise to offer an amendment to S. 294, the 
+Amtrak reauthorization bill. I applaud the authors of the bill for 
+their hard work in putting this legislation together. As one who hopes 
+to see a robust, efficient passenger rail service, I have long been a 
+supporter and rider on Amtrak. As Governor of Missouri, I started the 
+State support of Amtrak to run trains between Kansas City and St. 
+Louis. As I have watched Amtrak over the years, I have been 
+increasingly concerned about the rising costs and relatively stagnating 
+ridership. As I look at this bill, I do not believe it includes all the 
+needed reforms that are crucial to the success of Amtrak.
+  While there are many positive aspects of the bill, the fundamental 
+problem with Amtrak is that it has no clearly defined mission. Is it 
+supposed to provide only those services where it can make a profit? Is 
+it supposed to supplement air service in specific markets regardless of 
+cost? Is it supposed to serve rural markets regardless of cost? Is it 
+supposed to provide tourist travel regardless of cost? All of these 
+have been held out from time to time as reasons to subsidize Amtrak and 
+as excuses for why it should not be held accountable for the effective 
+use of the taxpayers' money. However, those are empty excuses. The 
+money continues to flow out, and I believe strong reforms are 
+necessary.
+  While Amtrak's revenue, ridership, and cash operating loss numbers 
+improved this year, this improved financial performance reflects labor 
+costs held low by the absence of a labor settlement. Once a settlement 
+is reached, Amtrak's costs will jump up, reflecting the pay raises that 
+have largely been deferred during the past 7 years during which time 
+there has not been a labor contract.
+  Amtrak has made no significant progress in restructuring its 
+operations to become less reliant on Federal funds. The pace of 
+Amtrak's reform savings has slowed from $61 million in fiscal year 2006 
+to a planned $46 million in fiscal year 2008. There is little chance 
+Amtrak will achieve anywhere near the $500 million in annual reform 
+savings it promised when it adopted its 2005 plan.
+  GAO reports consistently cite that Amtrak has lost the focus of its 
+statutory mandate to be operated and managed as a for-profit company.
+  Just last year, over 10 percent of Amtrak's operating subsidy was 
+spent on food and beverages and a like amount subsidized first-class 
+service. There is no critical public purpose associated with such 
+expenditures. Yet there are some who assume they are OK because that is 
+what Amtrak has always done.
+  S. 294, I regret to say, will not change this deplorable system. 
+While section 208 would have FRA and Amtrak develop performance 
+metrics, there is no clear statement of Amtrak's mission on which to 
+base these metrics.
+  After 36 years, we should not miss the opportunity to finally and 
+clearly state Amtrak's mission. It is for that reason that I offer as 
+an amendment to S. 294 the establishment of Amtrak's mission. That 
+mission should be:
+
+       To provide efficient and effective intercity passenger rail 
+     mobility in those travel markets where passenger rail offers 
+     a trip-time and service quality competitive travel option 
+     consistent with the goal of continual reduction in Federal 
+     operating subsidies required to provide service.
+
+  With this mission clearly established, then FRA and Amtrak can 
+establish meaningful performance measures that hold Amtrak accountable 
+for accomplishing that mission. Obviously, meaningful benchmarks will 
+help both Amtrak and those of us in Congress measure its efforts at 
+reform. In fact, failure to meet benchmarks will be a good reason to 
+lessen or terminate these excessive subsidies.
+  My colleagues may say that the bill contains benchmark reforms under 
+section 208, Metrics and Standards. The section reads:
+
+       Within 180 days . . . develop new or improve existing 
+     metrics and minimum standards for measuring the performance 
+     and service quality of intercity passenger train operations, 
+     including cost recovery, on-time performance and minutes of 
+     delay, ridership, on-board services, stations, facilities, 
+     equipment, and other services. Such metrics, at a minimum, 
+     shall include the percentage of avoidable and fully allocated 
+     operating costs covered by passenger revenues on each route, 
+     ridership per train mile operated, measures of on-time 
+     performance and delays incurred by intercity passenger rail.
+
+  Exactly what reforms are contained within these metrics and 
+standards? There is no mission, no goals, and no benchmarks for 
+operating subsidies and, as I said, quite frankly, no reform.
+  If the authorizers were truly offering operating metrics, they would 
+have year-over-year improvement on metrics applied on a route-by-route 
+business line or corporate basis on some of the following:
+  Operating ratio--operating revenues relative to operating costs, 
+excluding depreciation to measure improvements in cost recovery; 2, 
+cash operating loss--would measure revenue expense improvements; 3, 
+savings from reform initiative--while the operating loss includes these 
+savings, monitoring these savings allows for tracking the 
+implementation of structural reform improvements; 4, cash operating 
+loss for passenger mile--an overall efficiency measure; 5, labor 
+productivity--passenger mile per employee; and finally, 6, equipment 
+reliability--percent of units out of service.
+  The other thing missing from Amtrak oversight has been real teeth. So 
+I propose changing the language in section 210 from being permissive, 
+which says the FRA ``may'' withhold grants from trains that don't 
+measure up, to being mandatory, to say that FRA ``shall'' withhold 
+grants from trains that don't measure up.
+  Today, the Secretary of Transportation has the ability to discontinue 
+service on specific routes, but none have been proposed for elimination 
+because perhaps there is no mission statement for Amtrak on which to 
+make a determination for closure.
+  This measure I propose does not push Amtrak off the cliff, but it 
+recognizes we cannot afford for Amtrak to be all things to all people. 
+It requires Amtrak to take a degree of responsibility that has been 
+lacking in the use of the taxpayers' money. It would require Amtrak to 
+improve efficiency and effectiveness of its service, to reduce the 
+demands it makes of our taxpayers, including, where appropriate, 
+recognizing that passenger rail is not the best option in all places.
+  Mr. President, I yield the floor.
+  The ACTING PRESIDENT pro tempore. The Senator from New Jersey.
+  Mr. LAUTENBERG. Mr. President, I ask unanimous consent that the 
+period for morning business be delayed until we finish this discussion.
+  The ACTING PRESIDENT pro tempore. Without objection, it is so 
+ordered.
+  Mr. LAUTENBERG. Mr. President, I wish to respond to Senator Bond's 
+amendment, but I first ask the Senator from Missouri whether the delay 
+he experienced this morning was due to congestion on the highways?
+  Mr. BOND. Mr. President, that is what we all live with, I assure my 
+friend from New Jersey.
+  Mr. LAUTENBERG. I just wanted to see whether there was any personal 
+direct experience with congestion on the roads. I don't think there is 
+a city or a town in this country, a highway that doesn't experience 
+incredible pressure from its expanded use; will the Senator agree?
+  Mr. BOND. Mr. President, I agree with that. Of course, I would agree 
+in some areas there are no rail lines available to relieve that 
+congestion. While many metropolitan areas do have rail lines, they are 
+definitely an efficient alternative. In many areas of the country, 
+people do not have rail service, existing rails. So rails cannot solve 
+all of our transportation congestion problems.
+  Mr. LAUTENBERG. I thank the distinguished Senator from Missouri for 
+his suggestion that we expand rail service all across this country.
+  Mr. BOND. I didn't say that, no.
+  Mr. LAUTENBERG. That was the interpretation. The Senator said there 
+wasn't rail service available in lots of places. I take the positive 
+side of that statement and say let's get on with our task of providing 
+service.
+
+[[Page 28481]]
+
+  While I appreciate the Senator's perspective, I believe there is no 
+need for this amendment. It covers some of the same debate we have 
+already voted on as part of the discussion. This amendment establishes 
+a new mission for Amtrak and sets a new standard by which Amtrak and 
+operating subsidies for Amtrak services should be judged. While I can 
+agree with the general principles of the mission statement, it largely 
+covers issues already contained in existing Federal law related to 
+Amtrak and is, therefore, redundant.
+  We have seen Amtrak getting expanded use, but we have to look at what 
+has happened in our society, what the conditions are that have put so 
+much pressure on Amtrak. When we look at the growth in population 
+alone, since Amtrak became a quasi-government corporation, the 
+population of this country has expanded by 100 million people in barely 
+over 35 years. It was never thought that our aviation system would be 
+so strained because of inadequate infrastructure, and whatever the 
+reasons, that it cannot be relied upon. One out of four flights is 
+late, appointments are missed, crowding is standard, our highways are 
+jammed. Maybe in some parts of the country we don't see the congestion 
+we see in many of the metropolitan areas. But highways are notoriously 
+slow-moving now because of expanded traffic.
+  So Amtrak has been under the same pressure. And thank goodness we 
+have Amtrak in existence. We have seen more rapid service from Amtrak 
+and more riders--over 26 million passengers in the last year. So when 
+we look at Amtrak's performance, we have to consider under what 
+conditions it operates. I think it is fair to say that Amtrak was never 
+financed at the level it should have been to be an up-to-date, modern 
+railroad in this country.
+  I have had the opportunity, as we know, to ride one of the French 
+trains, TGV, in which a trip of just over 200 miles from Paris to 
+Brussels, where our NATO headquarters exists, is 1 hour 20 minutes. If 
+anything similar to that could ever be achieved with Amtrak, we would 
+reduce the congestion in the sky substantially. It is so crowded in the 
+air these days, separations are narrowed, and we are expecting over 
+5,000 new light jets into our system in the next 10 years.
+  We have to look at the expectations Amtrak has had to live with over 
+this period of time. Insufficient capital, that is where it all 
+started, and it has continued to make it very difficult for Amtrak to 
+produce the kind of service we want. I believe they ought to be 
+responsible for maintaining the quality of service, for providing the 
+data that is required on what progress has been lacking. Current law 
+already requires Amtrak to minimize Government subsidies and provide 
+high-quality rail service.
+  I believe the real goal of this amendment is to reduce or eliminate 
+Federal operating support for long-distance routes and other services 
+where current infrastructure problems or ontime performance limits the 
+service quality. Of course, as I said earlier, these problems resulting 
+from insufficient capital expenditures and also hosting freight 
+railroad delays are addressed by this bill.
+  Most of the accountability Senator Bond desires is already in our 
+bill through requirements of a 5-year plan, through the reduction of 
+the operating subsidy by 40 percent. Our bill calls for changes that 
+are significant as we attempt to put them in place. That is where we 
+are going.
+  While the Senator's amendment also requires the Secretary to 
+eliminate funding for any route not meeting Amtrak's long-distance plan 
+required under the bill, S. 294 already gives the Secretary this 
+authority. But our bill preserves some flexibility for the Secretary to 
+continue a long-distance route if Amtrak could not implement a plan or 
+did not meet the goals of a plan for legitimate reasons or events 
+beyond Amtrak's control. Heaven forbid if we have another serious 
+hurricane or terrorist attack. The Secretary should have the ability to 
+take these situations into consideration when judging whether Amtrak 
+meets the requirements demanded under the law.
+  I look forward to debating this amendment further. I certainly am 
+open to discussion with the Senator from Missouri on his amendment. But 
+as it is currently drafted, I urge my colleagues to oppose it.
+  The ACTING PRESIDENT pro tempore. The Senator from Missouri.
+  Mr. BOND. Mr. President, I wish to respond to my friend from New 
+Jersey and point out that while I may have had some operating delays 
+coming into downtown Washington this morning because of the rain, I am 
+not the only one. Service reliability continues to plague Amtrak. 
+Amtrak systemwide in 2007 had ontime performance through August at only 
+68 percent and long-distance ontime performance was only 40 percent.
+  The Senator points out that there are constraints on Amtrak. With the 
+exception of Connecticut, which I believe has its lines, most of the 
+Amtrak lines run on lines established, bought, and paid for by freight 
+railroads. For the lines to be kept operating, they have to continue to 
+use freight.
+  If the chairman of the subcommittee is proposing that we build a 
+national network of passenger rails--buy the land, buy the equipment, 
+install the rails--I will be happy to take a look at the numbers that 
+would be involved, whether they are billions or trillions, but I 
+question whether we could make that investment.
+  What I have stated only in this amendment is that we should come to 
+an agreement on what the mission of Amtrak is. What is it supposed to 
+do? If you don't know where you are going, it is hard to tell when you 
+have gotten there. Yes, we put money into a capital operating plan, a 
+5-year plan in 2005. There were supposed to be operating savings. The 
+operating savings are not being realized. What I propose is simply good 
+management techniques.
+  My colleague has run a successful business, and I assume to run a 
+business he had to have a mission and he had to have standards and 
+goals by which to judge the achievement of that mission. S. 294 talks 
+about all kinds of metrics, but it doesn't say there are any goals. How 
+do you know if you have gotten there? Where are you going? You don't 
+know.
+  Maybe I have missed it, but I don't think any of us are clear on the 
+clearly stated mission of Amtrak and any standards by which the 
+achievement of that mission should be judged. I would be happy to have 
+a discussion--and this is the appropriate place to do it--on what 
+should be the mission of Amtrak. Maybe for my edification, I ask my 
+friend from New Jersey to cite to me what the written mission of Amtrak 
+is because I will have to admit, I am not familiar with that specific 
+mission statement and the standards and goals by which Amtrak and the 
+FRA and we in Congress can judge the effective accomplishment of the 
+objectives within the parameter of that mission. Through the Chair, I 
+ask my friend from New Jersey to enlighten me.
+  Mr. LAUTENBERG. Mr. President, I thank the Senator from Missouri for 
+asking this question at this moment because I have here existing law, 
+which is continued in S. 294. Here, in existing law, it says the 
+purpose of the management is:
+
+       By using innovative operating and marketing concepts, 
+     Amtrak shall provide intercity and commuter rail passenger 
+     transportation that completely develops the potential of 
+     modern rail transportation to meet the intercity and commuter 
+     passenger transportation needs of the United States.
+
+  The first goal is to:
+
+       use its best business judgment in acting to minimize the 
+     U.S. Government subsidies, including--
+
+  And it lists a number of these things which I will submit for my 
+colleague and friend to take a look at and see if these questions are 
+not already dealt with.
+  Yes, we have to be more diligent. There is no doubt we have to fill 
+the board of Amtrak's open positions. We have not done that. We want to 
+expand the board to a more significant body of opinion. We are doing 
+all kinds of things.
+  I have an affection for the State of Missouri, having been a soldier 
+there many years ago and trying to dig foxholes in the Ozark Mountains. 
+We know what steels the spine of those
+
+[[Page 28482]]
+
+people who live in Missouri now. It is the depth and the quality of the 
+rock upon which most of Missouri is built. That is why the railroad 
+contributes so much, for instance, from Chicago to St. Louis, Kansas 
+City to Kansas City.
+  But in the final analysis, I think it is important to note a 
+significant difference between business operations. I was fortunate 
+enough to run a fairly large company; but business to business. 
+However, it is clearly stated that Amtrak is a not-for-profit 
+organization. When we look at what happens with good business 
+operations and think of the subsidy that has been given to the 
+airlines--it was as a result of a terrible calamity in American 
+history, 9/11--but over $20 billion has been given to the airlines, 
+for-profit businesses. They are doing very well right now, I might add, 
+and still getting subsidies.
+  I think, in fairness, we will have a chance to look at this further. 
+We are pressed by several things, not the least of which is that there 
+are others who would like to be included in the debate. I will be happy 
+to loan the Senator from Missouri my copy of the existing law, if he 
+would like to borrow it for a while.
+  The ACTING PRESIDENT pro tempore. The Senator from Missouri is 
+recognized.
+  Mr. BOND. Mr. President, if I may respond, I don't see any clearly 
+defined mission. If my colleague doesn't agree that Amtrak should be 
+providing efficient and effective passenger service in those travel 
+markets in which passenger rail offers a trip time and service quality, 
+competitive or complementary travel option consistent with the goal of 
+continuing to reduce Federal operating subsidies--we are not saying it 
+should be a for-profit company, but it certainly should not be a 
+continual growing loss operation.
+  I believe we must have some discipline that I do not see in the law 
+and particularly saying ``best business practices''--best business 
+practices to do what?
+  I hope we can continue this discussion, and I thank the Chair and my 
+colleagues for the time.
+  Mr. LAUTENBERG. Mr. President, I understand we are ready to go to 
+morning business.
+
+                          ____________________
+```
