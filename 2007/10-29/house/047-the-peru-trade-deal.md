@@ -1,0 +1,89 @@
+---
+granule: CRECB-2007-pt20-Pg28580
+date: 2007-10-29
+edition: CRECB
+section: HOUSE
+page: 28580
+---
+
+# THE PERU TRADE DEAL
+
+```
+                          THE PERU TRADE DEAL
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentlewoman from Ohio (Ms. Kaptur) is recognized for 5 minutes.
+  Ms. KAPTUR. Thank you, Madam Speaker.
+  The Peru trade deal will also be bad for U.S. agriculture and all 
+farmers in our country and, amazingly, in Peru. So both here at home 
+and abroad it will result in more harm.
+  Let's look at the facts. This current trade deficit chart with Peru 
+tells us we are already in the red with Peru, as we are in the red with 
+China and in the red with Mexico and in the red with almost every other 
+trading country, Japan, et cetera. The U.S. vegetable trade deficit 
+with Peru is already a part of this. According to the U.S. Department 
+of Agriculture, Foreign Agricultural Service, just the vegetable 
+deficit component is already over $200 million in 2006. So America's 
+vegetable farmers will lose more market share. They have already lost 
+market share, especially those who farm asparagus, onions and peas. 
+Their situation will be similar to the plight of America's tomato, bell 
+pepper and cucumber farmers who learned well what happened after NAFTA 
+was signed. They all lost production as it relocated.
+  Several global corporations have already indicated what they are 
+going to do. They are already putting their processing plants in Peru. 
+Green Giant has done it. Del Monte has done it. The pattern is the 
+same, the same as under NAFTA. As was the case with Mexico where 
+millions of peasant farmers were upended under NAFTA with no adjustment 
+provisions for them, Peru's farmers will also be hurt when these same 
+global corporations take over their farming operations and flood their 
+markets with rice, corn, and chicken.
+  We expect that an additional 3 million Peruvian agricultural workers 
+will be directly affected and millions of Peruvian farmers, as Mexico's 
+farmers well know, will be upended. This will force increased migration 
+of those individuals to cities that are already swelling with large 
+numbers of poor, and it is projected expanded illegal drug production 
+as people try to stay in their home countries with no crops to sell, 
+they turn to those illegal choices.
+  Similar to the lack of protection for Mexico's corn and bean farmers 
+under NAFTA, which that corn and bean tariff is going to phase out at 
+the end of this year, and another 2 million of Mexico's farmers will be 
+hurt, we know that what happens is that they either emigrate to 
+adjoining cities or to the United States, many of them illegally, or 
+they turn to the illegal sector where they literally risk their lives 
+in order to survive.
+  What kind of a plan is this that would treat the people of developing 
+countries with such derision? What kind of a plan is it that would hurt 
+our farmers to that extent? Why does it always have to be a negative? 
+Why can't trade be a plus plus? Importantly, Peru was the world's top 
+coca producer in 1996, and coca production remains a viable alternative 
+for farmers forced to give up their legal crops.
+  Is anybody listening? Is anybody thinking? It is pretty clear what is 
+going to happen because there is nothing in the agreement to help Peru 
+adjust. We saw what happened when that didn't occur under NAFTA. There 
+were no adjustment provisions for Mexico's farmers. CAFTA, the same 
+thing, and now we add Peru on top of the pile. There is nothing in the 
+Peruvian agreement for adjustments inside of Peru. The displaced 
+farmers have few options. If they do not turn to coca production or 
+other illegal industries, they will be forced to move. And we can ask 
+where. To the overcrowded cities of Peru, further straining those 
+resources? To another country? With the debate raging about illegal 
+immigration and with us unable to reach a civil accommodation across 
+this continent, wouldn't it be truly cruelly irresponsible to support 
+another trade agreement that could result in more devastation to small 
+holders?
+  Shouldn't we be helping these farmers adjust inside their own 
+homelands? That is long overdue inside of Mexico, in order to help 
+people earn money in their own countries, rather than wipe out hundreds 
+of thousands of people as if their lives and their cultures didn't 
+matter. And then we get the added problem of illegal labor trafficking 
+into this country, which we can't control.
+  The Peru agreement doesn't do anything to address these serious human 
+concerns. It does have some of the glossy language like NAFTA and CAFTA 
+did that ends up toothless in terms of enforcement.
+  Madam Speaker, why would the American people be given more of the 
+same out of this Congress? We ought to be changing these trade 
+agreements to development agreements and treating people with the 
+respect they deserve.
+
+                          ____________________
+```

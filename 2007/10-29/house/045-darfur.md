@@ -1,0 +1,84 @@
+---
+granule: CRECB-2007-pt20-Pg28579
+date: 2007-10-29
+edition: CRECB
+section: HOUSE
+page: 28579
+---
+
+# DARFUR
+
+```
+                                 DARFUR
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from Maryland (Mr. Cummings) is recognized for 5 minutes.
+  Mr. CUMMINGS. Madam Speaker, tonight this House passed House 
+Resolutions 740, 573 and 726 with regard to Darfur and Sudan.
+  Madam Speaker, decades from now our children's children will look 
+back on these times as an ugly blemish on human history. They will 
+remember a time when innocent people were senselessly slaughtered in 
+the Darfur region of Sudan. The question is whether they will look back 
+and see that this Nation and this Congress stood up for what is right 
+and just, or did we sit idly by and watch from the sidelines.
+  Madam Speaker, we must be on the right side of this issue. That's why 
+I'm so glad that we have passed these resolutions today. Although much 
+work remains to be done, they represent a step in the right direction.
+  The passage of these bills rightfully pressures the Sudanese 
+Government to end civil strife and ongoing human rights violations in 
+Darfur, which threatens stability in the region and the very fabric of 
+Sudanese life.
+  As you know, Madam Speaker, Darfur remains in great peril. Hundreds 
+of thousands of Sudanese have lost their lives since the conflicts 
+spiraled out of control in February of 2003. Over 2 million civilians 
+have been internally displaced, and an estimated 215,000 more persons 
+have been externally displaced in such neighboring states as Chad. Even 
+for those who are internally displaced persons, they have experienced 
+anything but a safe haven outside of Darfur while ongoing killing, 
+torture, rape, looting and the unlawful destruction of their property 
+by all parties continues, mainly by the janjaweed, associated militia 
+groups, and the institution that should be protecting them, the 
+Sudanese Government.
+  Indeed, as House Resolution 726 points out, it has become treacherous 
+for women or young ladies in Darfur or eastern Chad to leave their 
+villages to collect firewood or food from the market. They are at risk 
+of being raped and assaulted, which, unfortunately, to date is exactly 
+what has occurred to thousands.
+  Although some strides have been made in reducing the government's 
+participation in continued human rights abuses in Darfur, militia 
+groups remain a very real and present threat for the civilians in 
+Darfur and eastern Chad, despite peace negotiations.
+  Particularly, as reported by the United Nations, these systematic 
+human rights violations have been and continue to be committed with 
+total impunity throughout Sudan, especially in Darfur. It is clear that 
+the Government of Sudan has taken to turning a blind eye to such 
+atrocities, choosing instead to provide strikingly few prosecutions, 
+sentencing or even adequate examinations of war crimes or crimes 
+against humanity, whether by criminal courts or those courts 
+established to investigate the violations.
+  These failures by the Sudanese Government to respect and abide by 
+customary international norms, international humanitarian and human 
+rights laws embodied in the Universal Declaration of Human Rights, 
+International Covenant on Civil and Political Rights, Geneva 
+Conventions and the Convention on the Rights of a Child that it is a 
+party to demonstrates a lack of respect for international law and 
+responsibility that it has to protect its citizenry from unacceptable 
+levels of abuse.
+  Meanwhile, this Bush administration has held tightly to a hands-off 
+approach by failing to send any troops to Sudan, despite there clearly 
+being a lack of an adequate and capable number of African Union troops, 
+amounting to a mere 7,000.
+  The President promised to not allow another Rwanda-style atrocity to 
+occur; however, it appears to be happening once again, with little 
+being done about it. Even the peace negotiations that recently occurred 
+in Libya appear to be faltering, with two key militia groups failing to 
+show up for the meeting.
+  As such, I congratulate my colleagues in passing these three vital 
+resolutions this evening. And I thank the Congress, which has chosen to 
+answer the pleas for help by the people of Darfur while the 
+administration has failed to adequately respond.
+  We must act with a great sense of urgency. History will judge whether 
+we have synchronized our conduct with our conscience.
+
+                          ____________________
+```
