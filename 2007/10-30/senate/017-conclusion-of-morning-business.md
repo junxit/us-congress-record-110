@@ -1,0 +1,18 @@
+---
+granule: CREC-2007-10-30-pt1-PgS13536-2
+date: 2007-10-30
+edition: CREC
+section: SENATE
+page: S13536
+citation: 153 Cong. Rec. S13536
+---
+
+# CONCLUSION OF MORNING BUSINESS
+
+```
+                     CONCLUSION OF MORNING BUSINESS
+
+  The ACTING PRESIDENT pro tempore. Morning business is closed.
+
+                          ____________________
+```
