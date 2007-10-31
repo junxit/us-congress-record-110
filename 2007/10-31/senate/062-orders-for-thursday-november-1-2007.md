@@ -1,0 +1,36 @@
+---
+granule: CREC-2007-10-31-pt1-PgS13646-3
+date: 2007-10-31
+edition: CREC
+section: SENATE
+page: S13646
+citation: 153 Cong. Rec. S13646
+---
+
+# ORDERS FOR THURSDAY, NOVEMBER 1, 2007
+
+**Speaking:** Murray, Patty (M001111) [D-WA]
+
+**Measures:** H.R. 3963
+
+```
+                 ORDERS FOR THURSDAY, NOVEMBER 1, 2007
+
+  Mrs. MURRAY. Mr. President, I ask unanimous consent that when the 
+Senate completes its business today, it stand adjourned until 10 a.m., 
+Thursday, November 1; that on Thursday, following the prayer and the 
+pledge, the Journal of proceedings be approved to date, the morning 
+hour be deemed to have expired, the time for the two leaders be 
+reserved for their use later in the day; that there then be a period of 
+morning business for 60 minutes, with Senators permitted to speak 
+therein for up to 10 minutes each, with the time equally divided and 
+controlled, with Republicans controlling the first half and the 
+majority controlling the final half; that following morning business, 
+the Senate resume consideration of the motion to proceed to H.R. 3963, 
+the CHIP legislation; further, that all time consumed in morning 
+business during today's session and tomorrow, as well as the time 
+during the adjournment, count postcloture.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```

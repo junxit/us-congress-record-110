@@ -1,0 +1,42 @@
+---
+granule: CREC-2007-10-31-pt1-PgH12243-2
+date: 2007-10-31
+edition: CREC
+section: HOUSE
+page: H12243
+citation: 153 Cong. Rec. H12243
+---
+
+# MISPLACED PRIORITIES
+
+**Speaking:** Johnson, Henry C. "Hank" (J000288) [D-GA]
+
+```
+                          MISPLACED PRIORITIES
+
+  (Mr. JOHNSON of Georgia asked and was given permission to address the 
+House for 1 minute.)
+  Mr. JOHNSON of Georgia. Madam Speaker, within the last month, the 
+American people have seen just how misplaced President Bush's 
+priorities are when it comes to addressing the needs of hardworking 
+Americans.
+  Earlier this month, the President vetoed a bipartisan bill that would 
+have provided 10 million children private health insurance through the 
+SCHIP program. The bill cost an additional $35 billion over the next 5 
+years, and would have allowed us to receive 4 million more uninsured 
+children. Instead, the President suggested a mere $5 billion increase, 
+which would lead to more than 800,000 children losing their health 
+insurance coverage.
+  Contrast that with the President's announcement last week that he was 
+requesting an additional $189 billion in emergency funds over the next 
+year for the war in Iraq, which was $42 billion higher than originally 
+thought.
+  Fortunately, most Americans, Senators and Governors have caught on to 
+the President's misplaced priorities. But Republicans here in the House 
+continue to blindly follow this President. And just as they refused to 
+join us last week in standing by these 10 million kids, House 
+Republicans will most likely sign off on the President's war funding 
+request without ever asking a single question.
+
+                          ____________________
+```
