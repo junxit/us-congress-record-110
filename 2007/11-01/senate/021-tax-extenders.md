@@ -1,0 +1,106 @@
+---
+granule: CRECB-2007-pt21-Pg29070-3
+date: 2007-11-01
+edition: CRECB
+section: SENATE
+page: 29070
+---
+
+# TAX EXTENDERS
+
+```
+                             TAX EXTENDERS
+
+  Mr. CORNYN. Mr. President, I understand the chairman of the Finance 
+Committee objected this morning to a unanimous consent request offered 
+by Senator Inhofe regarding legislation that would ensure that American 
+taxpayers would not pay higher taxes next year. The chairman of the 
+Finance Committee indicated they are working on these provisions and he 
+doesn't want them taken up now; he wants to bring them up later.
+  It is important to talk about two taxpayer-friendly provisions in the 
+IRS Code that will disappear in the next 60 days unless we do something 
+about it. The first is a provision that gives taxpayers the option of 
+deducting their State and local sales tax. My State of Texas, like a 
+handful of other States, does not believe it needs a State income tax. 
+We don't have one. We are not going to get one. What we do want is a 
+level playing field when it comes to the Federal income tax code 
+allowing the deduction of State and local sales tax, just as it allows 
+currently a deduction of State income tax from one's Federal tax 
+return.
+  State and local governments have a number of options for raising 
+revenue to pay for essential services they provide to their citizens. 
+Some States raise revenues through an income tax. Some States, such as 
+Texas, use a sales tax. Others use a combination of the two. In an 
+effort to help protect people from overly burdensome taxation, the IRS 
+Code has in the past allowed taxpayers to deduct all the State and 
+local taxes they paid from their Federal taxes. Up until 1986, 
+taxpayers could deduct State and local sales taxes. Unfortunately, this 
+was unfairly eliminated. For 18 years, Texans and other States without 
+a State income tax did not have the same level playing field other 
+States had. I view this as a matter of gross discrimination against 
+those States that have a State sales tax rather than a State income 
+tax. It is simply unfair and needs to end on a permanent basis.
+  That is why 3 years ago, I worked with several of my colleagues to 
+reinstate the State and local sales tax deduction as part of the 
+American Jobs Creation Act of 2004. Without quick Senate action, the 
+citizens of Texas will once again be treated unfairly by the IRS Code 
+by disallowing the deduction of State and local taxes. Our State and 
+local governments have to have the flexibility to collect taxes that 
+fund essential services in a way they find most appropriate without 
+putting our citizens at a disadvantage. Again, make no mistake about 
+it, Texans don't want a State income tax. We are a low-tax, pro-growth 
+State. That is why we have seen 3 million people move to Texas since 
+2000, because it provides incentives for job creation by small 
+businesses and big businesses alike. We are not asking for the Federal 
+Government to somehow bless Texas adopting a State income tax. We don't 
+want it. What we do want is fundamental fairness.
+  If the Senate allows this provision to expire, it will be punishing 
+the citizens of my State based on geographic location and preference 
+for a different tax system. Extending the sales tax deduction 
+effectively gives Texans $1 billion in tax relief every year. This 
+money not only helps hard-working middle- class families save money--
+perhaps to invest in a small business or pay for college tuition for 
+their children--it helps spur economic and job growth as well.
+  Last week I introduced legislation, along with Senator Pat Roberts of
+
+[[Page 29071]]
+
+Kansas, that extends for 2 years the $4,000 above-the-line deduction 
+for taxpayers who pay for college tuition. We frequently talk about the 
+importance of education on the younger generation, from elementary 
+school through college and beyond. We talk about the importance of 
+continuing education, literally lifetime learning, in order for us to 
+maintain and extend our global competitiveness. Aside from simply 
+encouraging people to pursue a college education, we ought to do our 
+best to make college more affordable and accessible and less of a 
+burden on working parents who want to send their kids to college. 
+Originally part of the Economic Growth and Tax Relief Reconciliation 
+Act of 2001, this deduction allows taxpayers to deduct up to $4,000 
+from their Federal income tax return regardless of whether they itemize 
+deductions or not. This deduction goes a long way to help families 
+struggling to put their children through college and benefits millions 
+of taxpayers annually.
+  According to the College Board, this deduction, along with grants and 
+other education incentives, has helped lower the cost for the average 
+student who goes to a public university by $3,600 and $9,300 for those 
+who attend a private college. Both of these deductions keep money in 
+the pockets of taxpayers. In my State of Texas, they allow them to pay 
+for things such as health care, clothing and food, things they need and 
+ought to be able to use their hard-earned money to pay for, rather than 
+writing a bigger check to Uncle Sam. It is appropriate to use the IRS 
+Code not only to provide for fundamental fairness when it comes to 
+allowing the deduction of State and local sales tax from a Federal 
+income tax return; it is also appropriate to use the IRS Code to 
+provide for further educational opportunity.
+  Right now taxpayers have to work a total of 120 days, about a third 
+of the year, to pay their tax burden, whether it is Federal, State, or 
+local taxes. The last thing we should do is force taxpayers to work 
+more hours, longer days for Uncle Sam and not for their family. Rather 
+than waiting for some future bill to hopefully address this need, the 
+Senate should extend these taxpayer-friendly provisions today. I hope 
+we will have another opportunity to come back to the floor, and I urge 
+the Senate to extend these two important provisions in the near future.
+  I yield the floor.
+
+                          ____________________
+```
