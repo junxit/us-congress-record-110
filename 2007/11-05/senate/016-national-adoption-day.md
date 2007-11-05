@@ -1,0 +1,79 @@
+---
+granule: CRECB-2007-pt21-Pg29202-2
+date: 2007-11-05
+edition: CRECB
+section: SENATE
+page: 29202
+---
+
+# NATIONAL ADOPTION DAY
+
+```
+                         NATIONAL ADOPTION DAY
+
+  Mr. JOHNSON. Mr. President, I wish to acknowledge National Adoption 
+Awareness Month and National Adoption Day on Nov. 17, 2007. With over 
+114,000 children available for adoption out of the U.S. foster care 
+system, I think it is crucial to celebrate those lawyers, social 
+workers, officials and, most importantly, parents who help many 
+children move from foster homes to adoptive families.
+  Adoption has personally touched my life this year as two new children 
+have been welcomed as members of my family. My son Brendan and his wife 
+Jana recently adopted Trualem, age 11, and Peneal, age 8, from 
+Ethiopia. I am now a proud grandfather of five, and our family is 
+larger and richer with them in it.
+  National Adoption Day was started in 2000 by the Alliance for 
+Children's Rights, the Freddie Mac Foundation, and the Dave Thomas 
+Foundation for Adoption and helped complete foster care adoptions in 
+nine jurisdictions in its first year. National Adoption Day has quickly 
+grown since that time. In 2006, a milestone was surpassed, as National 
+Adoption Day was celebrated in all 50 States, the District of Columbia, 
+and Puerto Rico for the first time. In total last year, over 3,300 
+adoptions were finalized on National Adoption Day.
+  I am committed to assisting children in the United States to find 
+stable, loving, and permanent homes. Additionally, I support the goals 
+of National Adoption Day to encourage others to adopt children from 
+foster care, to build stronger ties between local adoption agencies, 
+courts, and adoption advocacy organizations, and to continue to 
+research and learn more about families wanting to adopt and the 
+children waiting to be adopted.
+  I am proud that Members of the Senate continue to support ways to 
+make adoption easier and more affordable. Since the cost of adoption 
+can be very high, we ought to do what we can to lessen this initial 
+burden for the exceptional people who provide caring homes for 
+children. Adoption proceedings and legal fees for some domestic 
+adoptions can cost more than $40,000. To ease some of this burden, 
+Congress adopted a $10,000 tax credit for adoption expenses. If we ask 
+individuals to care for
+
+[[Page 29203]]
+
+and adopt children, we must provide some relief from the financial 
+burdens associated with that care. The adoption tax credit is an 
+effective vehicle to provide this relief, and it is vitally important 
+that this tax credit does not expire at the end of 2010.
+  In keeping with the celebration of adoption, this year I am proud to 
+recognize Audrey Kirkpatrick as an Angel in Adoption. Audrey is a 
+social worker with Catholic Social Services in Rapid City, SD. She is 
+an integral part of Catholic Social Services offering her knowledge to 
+fellow employees and often her services to birth mothers and adoptive 
+families 24 hours per day.
+  I am also proud to recognize the Amiotte family, whose portrait is 
+displayed in my front office as a part of the Voice of Adoption 
+Adoptive Family Portrait Project. David and Malinda Amiotte began their 
+foster care experience not planning to adopt. However, after meeting 
+and growing attached to biological siblings Medina and David, and 
+biological sisters JoAnne and Karen, David and Malinda wanted to keep 
+these sibling groups together. Despite challenges with the legal 
+process, adoptions for all of their children have been finalized, and I 
+wish them many years of happiness in the future.
+  The commitment of adoptive parents in South Dakota and throughout our 
+country to provide children with safe, permanent, and loving homes 
+will, of course, have a positive impact on their lives. As we celebrate 
+National Adoption Awareness Month and National Adoption Day, I call on 
+my colleagues to continue supporting efforts to make adoption easier 
+for parents, children, and other important participants in the adoption 
+process.
+
+                          ____________________
+```

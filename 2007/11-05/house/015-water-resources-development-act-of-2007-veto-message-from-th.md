@@ -1,0 +1,73 @@
+---
+granule: CRECB-2007-pt21-Pg29383-6
+date: 2007-11-05
+edition: CRECB
+section: HOUSE
+page: 29383
+---
+
+# WATER RESOURCES DEVELOPMENT ACT OF 2007--VETO MESSAGE FROM THE PRESIDENT OF THE UNITED STATES (H. DOC. NO. 110-71)
+
+```
+    WATER RESOURCES DEVELOPMENT ACT OF 2007--VETO MESSAGE FROM THE 
+          PRESIDENT OF THE UNITED STATES (H. DOC. NO. 110-71)
+
+  The SPEAKER pro tempore laid before the House the following veto 
+message from the President of the United States:
+
+To the House of Representatives:
+  I am returning herewith without my approval H.R. 1495, the ``Water 
+Resources Development Act of 2007.''
+  This bill lacks fiscal discipline. I fully support funding for water 
+resources projects that will yield high economic and environmental 
+returns to the Nation and each year my budget has proposed reasonable 
+and responsible funding, including $4.9 billion for 2008, to support 
+the Army Corps of Engineers' (Corps) main missions. However, this 
+authorization bill makes promises to local communities that the 
+Congress does not have a track record of keeping. The House of 
+Representatives took a $15 billion bill into negotiations with a $14 
+billion bill from the Senate and instead of splitting the difference, 
+emerged with a Washington compromise that costs over $23 billion. This 
+is not fiscally responsible, particularly when local communities have 
+been waiting for funding for projects already in the pipeline. The 
+bill's excessive authorization for over 900 projects and programs 
+exacerbates the massive backlog of ongoing Corps construction projects, 
+which will require an additional $38 billion in future appropriations 
+to complete.
+  This bill does not set priorities. The authorization and funding of 
+Federal water resources projects should be focused on those projects 
+with the greatest merit that are also a Federal responsibility. My 
+Administration has repeatedly urged the Congress to authorize only 
+those projects and programs that provide a high return on investment 
+and are within the three main missions of the Corps' civil works 
+program: Facilitating commercial navigation, reducing the risk of 
+damage from floods and storms, and restoring aquatic ecosystems. This 
+bill does
+
+[[Page 29384]]
+
+not achieve that goal. This bill promises hundreds of earmarks and 
+hinders the Corps' ability to fulfill the Nation's critical water 
+resources needs--including hurricane protection for greater New 
+Orleans, flood damage reduction for Sacramento, and restoration of the 
+Everglades--while diverting resources from the significant investments 
+needed to maintain existing Federal water infrastructure. American 
+taxpayers should not be asked to support a pork-barrel system of 
+Federal authorization and funding where a project's merit is an 
+afterthought.
+  I urge the Congress to send me a fiscally responsible bill that sets 
+priorities. Americans sent us to Washington to achieve results and be 
+good stewards of their hard-earned taxpayer dollars. This bill violates 
+that fundamental commitment. For the reasons outlined above, I must 
+veto H.R. 1495.
+                                                      George W. Bush.  
+                                     The White House, November 2, 2007.
+  The SPEAKER pro tempore. The objections of the President will be 
+spread at large upon the Journal, and the veto message and the bill 
+will be printed as a House document.
+  Pursuant to the order of the House of Thursday, November 1, 2007, 
+further consideration of the veto message and the bill will be 
+postponed until tomorrow.
+
+                          ____________________
+```

@@ -1,0 +1,59 @@
+---
+granule: CRECB-2007-pt21-Pg29411-2
+date: 2007-11-05
+edition: CRECB
+section: HOUSE
+page: 29411
+---
+
+# NATIONAL BIBLE WEEK
+
+```
+                          NATIONAL BIBLE WEEK
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentlewoman from Kansas (Mrs. Boyda) is recognized for 5 minutes.
+  Mrs. BOYDA of Kansas. Last weekend, I spoke on a panel about civics 
+and civility at Kansas State University. And during the question-and-
+answer time, a teacher stood up and asked me a question. She said, Do 
+you know of any books that might be like a checklist that I could 
+share, be a checklist on teaching my kids civics and civility? I 
+thought for a minute, and I said, As a matter of fact, I do.
+  I am holding it right here in my hand, Mr. Speaker. It is the Bible. 
+This particular copy was my mother's Bible. And it is the one that I 
+was sworn in last January. So it has a great deal of meaning to me. The 
+lessons in the Bible are truly a checklist for decent living. In 
+Matthew 22, when the disciples asked what is the greatest commandment, 
+it is to love our God with all of our heart and soul and mind, and the 
+second is likened to it, to love thy neighbor as thyself. And then He 
+says, on these hang all the laws and the prophets. Love thy neighbor as 
+thyself. Very clear. Judge not lest you be judged.
+  The Bible has all the wisdom that we need to bring our country 
+together. And that's why I'm glad the House is pausing tonight to 
+recognize the start of National Bible Week. Faith has an important role 
+to play in the lives of all Americans. It is a role that may be more 
+important today in these dangerous and complicated times than
+
+[[Page 29412]]
+
+ever before. And it is a role that we, yes, we as public servants have 
+to defend.
+  Just last month, the Architect of the Capitol refused to fulfill a 
+citizen's request for a flag certificate that referred to devotion to 
+God. Just last week, the National Cemetery Administration banned a flag 
+folding ceremony used at veterans' funerals because of references to 
+God. Let's be clear: neither mentioning God in a flag certificate nor 
+speaking of God in a funeral ceremony poses any threat to the 
+separation of church and State. Not only is speaking about religion 
+permitted by the Constitution; it is a right that is protected by the 
+first amendment.
+  Thankfully, both of these bans have been reversed, and not a moment 
+too soon. As we begin National Bible Week, I hope that all of my 
+colleagues and citizens across America will pause to recognize the role 
+that faith plays in all of our lives to reflect on the lessons of the 
+Bible. It is our guidebook. It is our guidebook to civics and civility, 
+as well. It is our how-to guide for public service. Everything we need 
+is right here, folks. It is right here between these two covers.
+
+                          ____________________
+```

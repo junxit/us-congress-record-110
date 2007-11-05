@@ -1,0 +1,388 @@
+---
+granule: CRECB-2007-pt21-Pg29391
+date: 2007-11-05
+edition: CRECB
+section: HOUSE
+page: 29391
+---
+
+# EXPRESSING CONCERN RELATING TO IRANIAN REGIME AND MAHMOUD AHMADINEJAD
+
+```
+ EXPRESSING CONCERN RELATING TO IRANIAN REGIME AND MAHMOUD AHMADINEJAD
+
+  Mr. ENGEL. Mr. Speaker, I move to suspend the rules and agree to the 
+resolution (H. Res. 435) expressing concern relating to the threatening 
+behavior of the Iranian regime and its leader Mahmoud Ahmadinejad, and 
+the activities of terrorist organizations sponsored by that regime in 
+Latin America, as amended.
+  The Clerk read the title of the resolution.
+  The text of the resolution is as follows:
+
+                              H. Res. 435
+
+       Whereas the Department of State has said that Iran is the 
+     ``most active state sponsor of terrorism'';
+       Whereas the Department of State 2007 International 
+     Narcotics Control Strategy Report moved Iran to a 
+     ``Jurisdiction of Primary Concern'';
+       Whereas in February 2006, the chairman of the Iranian 
+     legislative body announced an offer to assist Venezuela with 
+     a nuclear program;
+       Whereas in February 2006, Cuba, Venezuela, and Syria were 
+     the only 3 member nations of the 35-nation board of the 
+     International Atomic Energy Agency to vote against referring 
+     Iran to the United Nations Security Council for its nuclear 
+     program;
+       Whereas in September 2007, Iran requested observer-status 
+     membership in the Bolivarian Alternative for the Peoples of 
+     the Americas (ALBA), an organization led by Hugo Chavez, 
+     President of Venezuela, to counter United States-led efforts 
+     for free trade in that region;
+       Whereas in September 2007, Mahmoud Ahmadinejad, the 
+     President of Iran, made his third visit in one year to Latin 
+     America, this time visiting Venezuela and Bolivia, where Mr. 
+     Ahmadinejad announced a commitment of Iranian investment in 
+     Bolivia of up to $1,000,000,000 over five years;
+       Whereas Mr. Ahmadinejad and Mr. Chavez have announced plans 
+     for a $2,000,000,000 shared fund to invest in projects in 
+     countries that Mr. Chavez characterized as seeking to 
+     ``liberate themselves from the U.S. imperialist yoke'';
+       Whereas in July 2007, the Venezuelan energy minister 
+     announced plans to sell gasoline to Iran following riots in 
+     Iran opposing the Iranian Government's policy of gas 
+     rationing;
+       Whereas in March, 2007 routine civilian airline flights 
+     were established from Tehran, Iran directly to Caracas, 
+     Venezuela;
+       Whereas the 2006 State Department's Country Reports on 
+     Terrorism stated that Venezuela is not ``fully cooperating'' 
+     with United States antiterrorism efforts;
+       Whereas according to the State Department, ``an individual 
+     claiming to be a member of an Islamic extremist group in 
+     Venezuela placed two pipe bombs outside the American Embassy 
+     in Caracas on October 23, 2006. Venezuelan police safely 
+     disposed of the two pipe bombs and immediately made one 
+     arrest. The investigation by Venezuelan authorities resulted 
+     in the additional arrest of the alleged ideological leader of 
+     the group. At year's end, both suspects remained in jail and 
+     prosecutors were pressing terrorism charges against them'';
+       Whereas Hizbollah, Iran's proxy terrorist group, executed 
+     the deadliest terrorist attack against Americans abroad since 
+     World War II, the 1983 suicide bombing of a United States 
+     Marine barracks in Beirut, Lebanon, that killed 241 American 
+     servicemen;
+       Whereas Iran and Hizbollah were involved in the two 
+     deadliest terrorist attacks in Argentina: the March 1992 
+     bombing of the Israeli Embassy in Buenos Aires, Argentina, 
+     which killed 29 people and the July 1994 attack against the 
+     Argentine-Israeli Mutual Association (AMIA), which killed 85 
+     people;
+       Whereas the Government of Argentina is currently seeking 
+     legal action against the perpetrators of the 1994 AMIA 
+     terrorist attack;
+       Whereas in September 2007, the President of Argentina said 
+     to the United Nations General Assembly, ``I want to stress 
+     here, in the United Nations headquarters, that unfortunately 
+     until now, the Islamic Republic of Iran has not collaborated 
+     with the Argentine justice system to clarify what occurred'';
+       Whereas according to a 2003 report by the Library of 
+     Congress, money laundered in the tri-border region, the area 
+     where Argentina, Paraguay and Brazil meet, ``probably are in 
+     the billions of dollars per year'' and ``Hizbollah has reaped 
+     hundreds of millions of dollars in profits from narcotics and 
+     arms trafficking, product piracy, and other illicit 
+     activities in the tri-border area'';
+       Whereas the television station Telemundo interviewed 
+     residents of the tri-border region who said that ``they're 
+     only waiting for an order to put bombs on their body and 
+     attack the United States'';
+       Whereas in March 2007, Brazilian officials arrested 31 
+     people for illegally issuing passports over the past 14 
+     years, and press reports indicate that some of these 
+     passports may have been provided to members of terrorist 
+     organizations, including members of Hizbollah;
+       Whereas Brazil, Argentina, Paraguay, and the United States 
+     have formed the 3+1 Group, which has focused on the financing 
+     of terrorism, drug and arms trafficking, and border security, 
+     as well as the exchange of information, with the purpose of 
+     preventing terrorism and transnational crimes in the tri-
+     border region;
+       Whereas in November 2006, Brazil established a new Regional 
+     Intelligence Center in the tri-border region, dedicated to 
+     coordinating intelligence activities of the police forces of 
+     Argentina, Brazil, and Paraguay, and invited Argentina and 
+     Paraguay to send official representatives to the Center;
+       Whereas in March 2007, the Organization of American States' 
+     Inter-American Committee Against Terrorism (CICTE) reaffirmed 
+     that ``terrorism in all its forms and manifestations, 
+     whatever its origin or motivation, has no justification 
+     whatsoever, affects the full enjoyment and exercise of human 
+     rights, and constitutes a grave threat to international peace 
+     and security, democratic institutions, and the values 
+     enshrined in the OAS Charter, the Inter-American Democratic 
+     Charter, and other regional and international instruments'';
+       Whereas in July 2007, the Government of Argentina enacted 
+     anti-terrorism legislation that put in place harsher 
+     penalties for cooperating with terrorists; and
+       Whereas as of March 2007, the Government of Brazil was 
+     considering expanded anti-terrorism legislation: Now, 
+     therefore, be it
+       Resolved, That the House of Representatives--
+       (1) expresses concern over the emerging national security 
+     implications of the Iranian regime's efforts to expand its 
+     influence in Latin America;
+       (2) supports the existing counterterrorism efforts of Latin 
+     American countries, including the successful counterterrorism 
+     efforts of the 3+1 Group (consisting of Brazil, Argentina, 
+     Paraguay, and the United States);
+       (3) emphasizes the importance of eliminating Hizbollah's 
+     financial network in the tri-border region of South America 
+     where Brazil, Paraguay, and Argentina meet and throughout the 
+     Western Hemisphere;
+       (4) commends and supports the efforts of individual 
+     countries and regional bodies in the Western Hemisphere that 
+     have led efforts to eliminate terrorist financing and other 
+     terrorist operations;
+       (5) calls on the United States Government to work with 
+     governments in the Western Hemisphere to pursue an 
+     antiterrorism campaign based on cooperation and constant 
+     vigilance;
+
+[[Page 29392]]
+
+       (6) urges the United States Government to work bilaterally 
+     and multilaterally with countries in the Western Hemisphere 
+     to help them create antiterrorism legislation that would give 
+     governmental authorities new tools to take action against 
+     terrorist networks; and
+       (7) recommends that the President of the United States 
+     create more mechanisms for joint counterterrorism operations 
+     and intraregional information sharing among supportive 
+     countries in the Western Hemisphere, especially in light of 
+     Iran's increased involvement in the region.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentleman from New 
+York (Mr. Engel) and the gentleman from Arkansas (Mr. Boozman) each 
+will control 20 minutes.
+  The Chair recognizes the gentleman from New York.
+
+                              {time}  1445
+
+
+                             General Leave
+
+  Mr. ENGEL. Mr. Speaker, I ask unanimous consent that all Members may 
+have 5 legislative days to revise and extend their remarks and include 
+extraneous material on the resolution under consideration.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from New York?
+  There was no objection.
+  Mr. ENGEL. Mr. Speaker, I rise in support of this resolution and 
+yield myself as much time as I may consume.
+  I want to thank the gentlemen from Florida, Mr. Klein and Mr. Mack, 
+both active and valued members of the Subcommittee on the Western 
+Hemisphere, which I chair, for their work on this timely and important 
+resolution that raises awareness about Iran's growing foothold in the 
+Western Hemisphere and its national security implications for all 
+countries of this region.
+  This resolution is particularly valuable as it catalogues a series of 
+facts and actions related to the growing presence of Iran south of our 
+border.
+  Last month, immediately after his address to the United Nations 
+General Assembly, Iranian President Ahmadinejad flew to Venezuela and 
+Bolivia. This was his third trip the region this year. Mr. Ahmadinejad 
+has used these trips to announce increased diplomatic cooperation and 
+multilateral agreements on energy and industry.
+  Iranian involvement, Mr. Speaker, in Latin America is not new, as we 
+all know. In 1994, Iran and its proxy terrorist group, Hezbollah, were 
+involved in planning the bombing of the AMIA Jewish Cultural Center in 
+Buenos Aires, where 85 people lost their lives in the bombing.
+  In fact, just last week I met with the U.S. Ambassador to Argentina, 
+who updated me on Argentina's progress on the AMIA bombings.
+  Hezbollah remains operational in parts of Latin America, and they 
+continue to fundraise for their global operations.
+  The United States must do everything we can to help Latin America 
+crack down on terrorist groups in the region, both through joint 
+military exercises and through legislation, giving to governments new 
+tools to eliminate the terrorist threats.
+  I strongly urge passage of this timely resolution.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. BOOZMAN. Mr. Speaker, I yield myself such time as I may consume.
+  I welcome the focus this bill places on the growing influence of Iran 
+in Latin America. Because Iran is the leading state sponsor of 
+terrorism, we dare not lose sight of its increasing presence and 
+activities in the region, nor can we forget its past transgressions.
+  One year ago, Argentina's State Prosecutor concluded that the 
+horrific 1994 AMIA bombing was ``decided and organized by the highest 
+leaders of the former government of Iran.''
+  Yet, somehow the leader of Iran continues to be warmly received by 
+many in the hemisphere. In fact, he has found much strength in his 
+friendship formed with Hugo Chavez, Ahmadinejad's key ally in the 
+region.
+  The implications of Iran's presence in Latin America are 
+disconcerting in themselves. When partnered with the power of 
+Venezuela's petroleum, it is truly a cause for alarm and concern.
+  Ahmadinejad has capitalized on his relationship with Chavez to inject 
+his influence throughout the hemisphere, recently signing a cooperation 
+agreement worth $1 billion with Bolivia, and is reportedly making plans 
+to establish an embassy for the first time in Quito, Ecuador.
+  Furthermore, the disturbing alliance between Venezuela, Iran and Cuba 
+cannot be ignored. The radical efforts of Ahmadinejad, Chavez and 
+Castro to stir anti-U.S. resentment in the region and support for anti-
+American regimes across the hemisphere are an increasing and undeniable 
+threat to our security. For this reason, we must remain vigilant in our 
+attention to the hemisphere and be sincere in our efforts to strengthen 
+our relationships with the nations of Latin America.
+  I commend the efforts being taken by the U.S. and our partners in 
+Latin America to combat terrorist activities. However, we must 
+recognize that if the U.S. is to support the efforts of our friends in 
+the region, we must support them wholeheartedly. We cannot continue to 
+send mixed signals. Denying free trade agreements with Colombia, while 
+calling for increased cooperation on any front is not good, fair or 
+effective policy.
+  I thank my colleague for introducing this measure and look forward to 
+additional efforts by Congress to comprehensively support our security 
+in the Western Hemisphere.
+  Again, I have one more speaker, Mr. Engel.
+  Mr. ENGEL. I reserve the balance of my time.
+  Mr. BOOZMAN. Mr. Speaker, I yield as much time as he would like to 
+the gentleman from California (Mr. Dreier).
+  Mr. DREIER. Mr. Speaker, I again thank my friend from Arkansas for 
+yielding, and I thank the gentleman from New York for his very 
+thoughtful remarks on this important resolution. I rise in strong 
+support of it.
+  I think that both my friends from New York and Arkansas have 
+underscored the grave concern that we have about Iran's entry into this 
+hemisphere, and especially in the remarks offered by the gentleman from 
+Arkansas, Mr. Speaker, he underscored this nexus which has been 
+developed by Hugo Chavez in Caracas, Venezuela and Mahmoud Ahmadinejad.
+  Now, what is it that we have seen? Obviously there are a great deal 
+of differences that exist when it comes to the vision that a Hugo 
+Chavez would have and Mahmoud Ahmadinejad would have. But they have 
+rallied around one particular point, and that is, virulent opposition 
+to everything that the United States of America stands for. Both of 
+them have been hypercritical of the United States and our policies and 
+the cause of freedom, quite frankly, based on what we've seen in both 
+countries.
+  The thing that is most troubling is the fact that Mr. Chavez has had 
+this pattern of inviting Mr. Ahmadinejad into this hemisphere and, 
+basically, continuing to promote the anti-American sentiment. And it is 
+cause for concern, and I believe this resolution is very important.
+  Mr. Chavez took Mr. Ahmadinejad to the inauguration of Rafael Correa 
+in Quito, Ecuador. And again, as my friend from Arkansas has just said, 
+the prospect of an Iranian Embassy opening in Quito is something that's 
+very troubling.
+  Similarly, he took him to meet with Evo Morales, the President of 
+Bolivia, again, a very, very troubling sign. And I will say, quite 
+frankly, I am even concerned about, while we've heralded the election 
+that took place a week ago yesterday in Argentina, I do believe that 
+there is reason for concern of the potential for this linkage there 
+that exists. I think it's very exciting to see Cristina Kirchner become 
+the President, succeeding her husband in Argentina, but I do believe 
+that we need to remain very vigilant in looking at this linkage between 
+Hugo Chavez, Mahmoud Ahmadinejad and others within this hemisphere.
+  I would also like to laud my colleague from Arkansas for underscoring 
+the importance of continuing to build our economic alliances with those 
+countries in the hemisphere that are
+
+[[Page 29393]]
+
+committed to political pluralism, the development of democratic 
+institutions, the rule of law and self-determination.
+  We are on the verge, this week, we're going to be addressing the 
+issue of a U.S.-Peru free trade agreement. We also have on the horizon, 
+as we all know, in this hemisphere both the Panama and the Colombia 
+free trade agreements.
+  And so I will say, Mr. Speaker, I think this resolution is very 
+timely. I congratulate my friends for underscoring the importance of 
+this. And I hope that a by-product of it will be the recognition that 
+working with our allies in this region to develop even stronger 
+economic ties should be the next step for us to take.
+  Again, I urge strong support of this resolution.
+  Mr. MACK. Mr. Speaker, I rise today to express my support for House 
+Resolution 435, concerning Iran's growing influence in Latin America.
+  I also want to thank my colleague from Florida, Congressman Ron 
+Klein, for all of his hard work on this resolution.
+  He is passionate about Latin America and it has been a pleasure to 
+work with you to get this important resolution to the floor today.
+  This resolution, which has garnered wide, bi-partisan support, 
+formally expresses what many of us have known for quite some time: 
+Iran's growing ties and meddling in Latin America is a grave concern 
+for us all.
+  There is no doubt that Iran has given strategic, financial, 
+logistical, and tactical support and safe haven to terrorists groups 
+such as Hezbollah and others.
+  And, according to military leaders at U.S. Southern Command, there is 
+no doubt that Islamic terrorist groups, such as Hezbollah, have 
+infiltrated indigenous groups throughout significant areas of Latin 
+America in order to develop terrorist networks throughout the region.
+  Of particular concern to me is the growing and burgeoning friendship 
+between Iran's Mahmoud Ahmadinejad and Venezuelan President Hugo 
+Chavez.
+  Iran, in my opinion, is seeking to do in Venezuela what the former 
+Soviet Union did in Cuba: establish a base of operations in the Western 
+Hemisphere in order to foment hatred and instability throughout the 
+region.
+  This should cause great alarm for us all.
+  But this problem is bigger than Iran and Venezuela alone.
+  For far too long we have ignored growing unrest and loss of freedoms 
+and the foundations for democracy throughout Latin America.
+  I have publicly and privately urged this administration and Congress 
+to embrace our allies and do more throughout the region.
+  Our neglect has allowed leaders such as President Chavez to whip up 
+opposition to the United States.
+  And further neglect, should we not act now to support our friends in 
+the region, will allow Iran and others to continue to grow their 
+terrorist networks throughout Latin America.
+  Mr. Speaker, I urge all of my colleagues to support this important 
+resolution.
+  Mr. KLEIN of Florida. Mr. Speaker, I rise in support of H. Res. 435, 
+a resolution that I authored with my friend, Mr. Mack.
+  This resolution expresses the concern of the House of Representatives 
+about the growing national security implications of Iran's 
+relationships with countries in the Western Hemisphere.
+  Iranian President Mahmoud Ahmadinejad has visited Latin America three 
+times in the past year, and has signed agreements with several 
+countries in the region worth billions of dollars. This is a strategic 
+move on his part to build capabilities in our neighborhood.
+  On one side of the word, Iran continues to make progress on its 
+nuclear program. And, on this side of the world, Iran has tried to sway 
+leaders into supporting this dangerous agenda. And so far, his strategy 
+is gaining momentum, which is extremely alarming.
+  Iranian involvement in Latin America is particularly concerning, 
+especially considering Iran's history in places like Argentina. This 
+week, Interpol, the world's law enforcement agency, will consider 
+whether to uphold the arrest warrants for five Iranians and one 
+Lebanese who planned and executed the 1994 bombing of the AMIA Jewish 
+community center. Argentines are still waiting for justice to be served 
+against those responsible, and Hizbollah and Iran are the lead 
+suspects.
+  I also remain concerned about Hizbollah in our hemisphere as it 
+relates to fundraising in the tri-border area, and other places. In 
+fact, just last month, Admiral Jim Stavreedees, head of the U.S. 
+Southern Command wrote, ``We consider Latin America and the Caribbean 
+as being highly likely bases for future terrorist threats to the U.S. 
+and others.''
+  The region has seen some progress, with new anti-terrorism 
+legislation and increased counter-terrorism efforts. But, we all have a 
+long way to go. Eliminating the threat of terrorism and its state 
+sponsors is not just in the best interest of the United States. The 
+countries in our hemisphere will be safer. The United States and 
+Central and Latin America have an aligned interest.
+  I hope that this resolution is seen as a signal that the United 
+States is willing to help our friends in Central and Latin America make 
+their countries safer and free from terrorism.
+  Mr. BOOZMAN. Mr. Speaker, having no further speakers, I yield back 
+the balance of my time.
+  Mr. ENGEL. Mr. Speaker, I have no further requests for time, and I 
+yield back the balance of my time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from New York (Mr. Engel) that the House suspend the rules 
+and agree to the resolution, H. Res. 435, as amended.
+  The question was taken; and (two-thirds being in the affirmative) the 
+rules were suspended and the resolution, as amended, was agreed to.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```

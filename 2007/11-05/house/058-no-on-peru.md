@@ -1,0 +1,93 @@
+---
+granule: CRECB-2007-pt21-Pg29644-3
+date: 2007-11-05
+edition: CRECB
+section: HOUSE
+page: 29644
+---
+
+# ``NO'' ON PERU
+
+```
+                             ``NO'' ON PERU
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentlewoman from Ohio (Ms. Kaptur) is recognized for 5 minutes.
+  Ms. KAPTUR. Mr. Speaker, this week the new Congress, the Democratic 
+Congress, will consider its first bilateral trade agreement during this 
+session: the Bush-negotiated free trade agreement with Peru. This week, 
+this Democratic Congress has an opportunity, an opportunity to prove 
+that we are different from previous Congresses. We have an opportunity 
+to demonstrate we have heard from America's voters who are fed up with 
+job losses, trade deficits, and race-to-the-bottom wages for our middle 
+class.
+  The American people expect us to reflect their concerns. Yet this 
+bill is merely another godchild of NAFTA.
+  What is the public telling us? In a March 2007 poll by the Wall 
+Street Journal/NBC before the recent scandals involving tainted food 
+and toy imports, 54 percent of Democratic voters said free trade 
+agreements have hurt the United States compared with 21 percent who 
+said they have helped.
+  Then the Wall Street Journal in an October 4 front-page article 
+stated that by a poll they had done, by a nearly 2 to 1 margin, 
+Republican voters believe free trade is bad for the U.S. economy, a 
+shift in opinion that mirrors Democratic views and suggests trade deals 
+could face high hurdles under a new President.
+
+[[Page 29645]]
+
+  And then a Democratic pollster found that 67 percent, two-thirds, of 
+Americans believe unfair trade agreements are making it harder for 
+Americans to keep good jobs. Thus, defeating the Peru free trade 
+agreement isn't just about politics. It is about what Democrats stand 
+for in terms of policy.
+  Why should we defeat this bill? We should defeat the free trade 
+agreement that the Bush administration negotiated on behalf of Peru 
+first to protect America's farmers and America's workers. With a $3 
+billion trade deficit with Peru already, we have lost knit-wear jobs, 
+we have lost agricultural jobs in onions and asparagus, and the list 
+grows longer. We will only lose more jobs as we did with NAFTA unless 
+you fix the innards of the agreements to stem the outsourcing in the 
+first place.
+  We should defeat the Peru trade agreement to stand up for the 3 
+million soon-to-be displaced Peruvian small farmers who will fall 
+victim to the flood of cheap South American imports that will come from 
+adjoining countries because there are no readjustment provisions in the 
+measure, just as there were no readjustment provisions under NAFTA and 
+2 million Mexican farmers got displaced, many of them fleeing to our 
+country. Where are those 3 million Peruvian farmers supposed to go with 
+no transition provisions in the agreement?
+  We should defeat the Peru agreement because it does not contain 
+support ``Buy America'' policies in it. We should defeat the Peru trade 
+agreement because we know the Bush administration cannot be trusted to 
+enforce it. They haven't balanced any trade agreement. There are no 
+accounts that are positive in these trade agreements that have been 
+signed. In fact, this country this year will rack up close to a $1 
+trillion trade deficit with the world. The American people are saying 
+stop, fix what is wrong before you do anything more.
+  Why would we adopt an agreement that will ruin the rain forest and 
+put indigenous peoples at risk? Why would we do that to the Third World 
+when we see demonstrations against the United States already all over 
+Latin America. Wouldn't you think we would stand up for safe foods and 
+safe imports? We know salmonella and other tainted foods are coming our 
+way from Peru because so much of the seafood comes in here. Why don't 
+we fix the inspection procedures before we adopt another free trade 
+agreement that is not free in the end?
+  Why won't we adopt trade agreements that would ensure that Peruvians 
+will still have access to medicines they need, despite the demands of a 
+large pharmaceutical company? Why don't we stand up for the average 
+person in these agreements?
+  Why would we support an agreement that is going to cause such 
+hollowing out of Peruvian agriculture that they're going to have to 
+displace that production with increasing coca production and illegal 
+drugs? Why would we support an agreement like that?
+  We have to stop the perpetuation of the NAFTA model that leaves 
+poverty and imbalance in its wake while failing to fulfill any promises 
+of benefits to the middle class in either country.
+  Mr. Speaker, the New Direction Congress must take a new direction on 
+trade, and I urge my colleagues to reject the Bush NAFTA expansion to 
+Peru and support a new trade model that puts the peoples of the 
+Americas first.
+
+                          ____________________
+```
