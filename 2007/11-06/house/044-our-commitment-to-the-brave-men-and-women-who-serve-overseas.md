@@ -1,0 +1,40 @@
+---
+granule: CREC-2007-11-06-pt1-PgH12747-4
+date: 2007-11-06
+edition: CREC
+section: HOUSE
+page: H12747
+citation: 153 Cong. Rec. H12747
+---
+
+# OUR COMMITMENT TO THE BRAVE MEN AND WOMEN WHO SERVE OVERSEAS
+
+**Speaking:** Pallone, Frank (P000034) [D-NJ]
+
+```
+      OUR COMMITMENT TO THE BRAVE MEN AND WOMEN WHO SERVE OVERSEAS
+
+  (Mr. PALLONE asked and was given permission to address the House for 
+1 minute.)
+  Mr. PALLONE. Madam Speaker, war has changed, but our commitment to 
+the brave men and women who serve overseas remains the same. This 
+Democratic Congress today is passing a veterans bill prioritizing 
+veterans by fully funding the Veterans Administration. We recognize the 
+changing needs of our new veterans by allocating funding to address 
+conditions like PTSD, and we supported a pay raise for military 
+families that this President, who has no trouble sending our troops and 
+billions of dollars into Iraq, called unnecessary.
+  Now, today, we are going to finally pass this Veterans appropriations 
+bill. We are going to keep the promise we made to service men and women 
+when they volunteered to serve our Nation overseas by taking care of 
+them when they come home. This is the largest veterans increase for 
+health care in history. This is the commitment of the Democratic prompt 
+of the Democratic Congress, and we are going to make sure it happens 
+today, regardless of what the President decides to do, if he vetoes it 
+or not.
+  We will just come back again and again and again regardless of his 
+veto. We are tired of the fact that this President gets up and says 
+that he supports these initiatives but then vetoes them.
+
+                          ____________________
+```

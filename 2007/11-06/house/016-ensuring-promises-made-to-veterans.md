@@ -1,0 +1,39 @@
+---
+granule: CREC-2007-11-06-pt1-PgH12743
+date: 2007-11-06
+edition: CREC
+section: HOUSE
+page: H12743
+citation: 153 Cong. Rec. H12743
+---
+
+# ENSURING PROMISES MADE TO VETERANS
+
+**Speaking:** Sires, Albio (S001165) [D-NJ]
+
+```
+                   ENSURING PROMISES MADE TO VETERANS
+
+  (Mr. SIRES asked and was given permission to address the House for 1 
+minute.)
+  Mr. SIRES. Madam Speaker, as America prepares to honor our veterans 
+and those who continue to wear the uniform this weekend, the Democratic 
+Congress is proud of our record over the last 10 months that has 
+provided real support for our troops and our veterans.
+  Today, we will take a vote on a final veterans bill that increases 
+funding for veterans health care by $6.7 billion, making it the single 
+largest increase in veterans funding in the 77-year history of the 
+Veterans Administration. This bill invests $3.8 billion more than the 
+President requested.
+  The final conference report also includes $500 million above the 
+President's request for much-needed maintenance in VA health care 
+facilities, and $600 million more than the President's request for 
+mental health, PTSD and traumatic brain injury. This investment is 
+critically important at a time when one-third of the veterans returning 
+from Iraq and Afghanistan face mental health challenges.
+  Madam Speaker, today let us ensure that no veteran is left behind by 
+supporting this bill that fulfills our promises to our Nation's 
+veterans.
+
+                          ____________________
+```

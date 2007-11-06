@@ -1,0 +1,40 @@
+---
+granule: CREC-2007-11-06-pt1-PgH12745-5
+date: 2007-11-06
+edition: CREC
+section: HOUSE
+page: H12745
+citation: 153 Cong. Rec. H12745
+---
+
+# FUNDS FOR OUR VETERANS
+
+**Speaking:** Murphy, Patrick J. (M001168) [D-PA]
+
+```
+                              {time}  1030
+                         FUNDS FOR OUR VETERANS
+
+  (Mr. PATRICK J. MURPHY of Pennsylvania asked and was given permission 
+to address the House for 1 minute.)
+  Mr. PATRICK J. MURPHY of Pennsylvania. Madam Speaker, 4 years ago I 
+served in Baghdad, Iraq, with the 82nd Airborne Division, and I am 
+proud of my service.
+  In 2006, the election was about change: change in Iraq, change here 
+at home, change how we treat our veterans. Well, these are the problems 
+that we addressed in this Congress:
+  One, the Walter Reed tragedy. Our answer? We passed the Wounded 
+Warrior Act.
+  Two, underfunding of veterans in past Congresses. Our answer? We 
+passed the largest increase in Veterans Administration history.
+  Three, the two signature injuries in Iraq and Afghanistan are PTSD, 
+posttraumatic stress disorder and TBI, traumatic brain injury. Our 
+solution in Congress, $600 million more than the President asked for to 
+address these two injuries.
+  Later today, this House will take up our bill with Congressman Walter 
+Jones to give our troops a 3.5 percent pay increase. Don't listen to 
+the rhetoric. The President says that increase is unnecessary. I think 
+it is exactly what this Congress should be addressing.
+
+                          ____________________
+```
