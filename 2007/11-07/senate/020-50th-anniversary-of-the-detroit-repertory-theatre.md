@@ -1,0 +1,60 @@
+---
+granule: CREC-2007-11-07-pt1-PgS14057-2
+date: 2007-11-07
+edition: CREC
+section: SENATE
+page: S14057
+citation: 153 Cong. Rec. S14057
+---
+
+# 50TH ANNIVERSARY OF THE DETROIT REPERTORY THEATRE
+
+**Speaking:** Levin, Carl (L000261) [D-MI]
+
+```
+           50TH ANNIVERSARY OF THE DETROIT REPERTORY THEATRE
+
+  Mr. LEVIN. Madam President, it is my distinct pleasure to recognize 
+the 50th anniversary of the Detroit Repertory Theatre, one of 
+Michigan's oldest, continuously operating professional theatre 
+companies. Located in the heart of Detroit, this theatre company has 
+made significant contributions to the arts landscape in Detroit and 
+across Michigan, forging an enduring legacy over the last half century.
+  The arts play an important role in building and sustaining 
+communities by bridging cultural, ethnic, economic differences, and by 
+being an important economic catalyst. Since its inception in 1957, the 
+Detroit Repertory Theatre has been at the forefront of this effort and 
+has provided world-class theatre productions for the greater Detroit 
+community. Its ongoing emphasis on racially and ethnically diverse 
+casting and its focus on theatrical relevancy have allowed it to carve 
+out an important niche in the grassroots theatre world.
+  The Detroit Repertory Theatre's golden anniversary is particularly 
+impressive considering the myriad challenges grassroots theatre 
+companies face. This theatre company has not only weathered and adeptly 
+overcome every challenge but continues to provide quality performances, 
+while focusing on making their productions both relevant and accessible 
+to the community. Integral to the theatre's mission is reaching out to 
+a broader theatre audience through various successful outreach efforts, 
+including Arts in Education Programs, Free Acting Workshops, the New 
+Playwrights' Program, and the Charitable and CMO Partnerships.
+  True to its bold tradition of forging ahead, this anniversary not 
+only celebrates past achievements but concurrently looks forward and 
+embarks on new challenges. On Saturday, the Detroit Repertory Theatre 
+will hold a black tie benefit to formally celebrate its golden 
+anniversary and to kickoff its 50th Anniversary Challenge. This effort 
+seeks to raise the funds necessary to execute its operational and 
+community development initiatives, seeking to position the theatre to 
+meet the challenges that lie ahead.
+  When an organization enjoys the type of success the Detroit Repertory 
+Theatre has over the years, there are many who have sacrificed much and 
+deserve acknowledgement and our heartfelt gratitude. It is in this 
+spirit that I know my colleagues join me in recognizing and 
+congratulating all those who have contributed to the Detroit Repertory 
+Theatre's many successes over the last 50 years, in particular Bruce 
+Milan, an original cofounder and the theatre's artistic and managing 
+director, as well as his fellow cofounders, Barbara Busby and Dee 
+Andrus. The community looks forward to an equally impressive record of 
+success over the next half century. Break a leg!
+
+                          ____________________
+```

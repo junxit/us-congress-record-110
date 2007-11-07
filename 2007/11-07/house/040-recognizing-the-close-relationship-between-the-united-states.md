@@ -1,0 +1,487 @@
+---
+granule: CREC-2007-11-07-pt1-PgH13253
+date: 2007-11-07
+edition: CREC
+section: HOUSE
+page: H13253
+citation: 153 Cong. Rec. H13253
+---
+
+# RECOGNIZING THE CLOSE RELATIONSHIP BETWEEN THE UNITED STATES AND THE REPUBLIC OF SAN MARINO
+
+**Measures:** H.Con.Res. 236
+
+```
+ RECOGNIZING THE CLOSE RELATIONSHIP BETWEEN THE UNITED STATES AND THE 
+                         REPUBLIC OF SAN MARINO
+
+  The SPEAKER pro tempore. The unfinished business is the vote on the 
+motion to suspend the rules and agree to the concurrent resolution, H. 
+Con. Res. 236, as amended, on which the yeas and nays were ordered.
+  The Clerk read the title of the concurrent resolution.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from New York (Mr. Engel) that the House suspend the rules 
+and agree to the concurrent resolution, H. Con. Res. 236, as amended.
+  This will be a 5-minute vote.
+  The vote was taken by electronic device, and there were--yeas 396, 
+nays 0, not voting 36, as follows:
+
+                            [Roll No. 1058]
+
+                               YEAS--396
+
+     Abercrombie
+     Aderholt
+     Akin
+     Alexander
+     Allen
+     Altmire
+     Andrews
+     Arcuri
+     Baca
+     Bachmann
+     Bachus
+     Baird
+     Baker
+     Baldwin
+     Barrett (SC)
+     Barrow
+     Barton (TX)
+     Bean
+     Becerra
+     Berkley
+     Berman
+     Berry
+     Biggert
+     Bilbray
+     Bishop (GA)
+     Bishop (NY)
+     Bishop (UT)
+     Blackburn
+     Blumenauer
+     Blunt
+     Boehner
+     Bonner
+     Bono
+     Boozman
+     Boswell
+     Boucher
+     Boustany
+     Boyd (FL)
+     Boyda (KS)
+     Brady (PA)
+     Brady (TX)
+     Broun (GA)
+     Brown (SC)
+     Brown, Corrine
+     Brown-Waite, Ginny
+     Buchanan
+     Burgess
+     Burton (IN)
+     Butterfield
+     Calvert
+     Camp (MI)
+     Campbell (CA)
+     Cantor
+     Capito
+     Capps
+     Capuano
+     Cardoza
+     Carnahan
+     Carney
+     Castle
+     Castor
+     Chabot
+     Chandler
+     Clarke
+     Clay
+     Cleaver
+     Clyburn
+     Coble
+     Cohen
+     Cole (OK)
+     Conaway
+     Cooper
+     Costa
+     Costello
+     Courtney
+     Cramer
+     Crenshaw
+     Crowley
+     Cuellar
+     Culberson
+     Cummings
+     Davis (AL)
+     Davis (CA)
+     Davis (IL)
+     Davis (KY)
+     Davis, David
+     Davis, Lincoln
+     Davis, Tom
+     Deal (GA)
+     DeFazio
+     Delahunt
+     DeLauro
+     Dent
+     Diaz-Balart, L.
+     Diaz-Balart, M.
+     Dicks
+     Dingell
+     Donnelly
+     Doolittle
+     Doyle
+     Drake
+     Dreier
+     Duncan
+     Edwards
+     Ehlers
+     Ellison
+     Ellsworth
+     Emanuel
+     Emerson
+     Engel
+     Eshoo
+     Etheridge
+     Everett
+     Fallin
+     Farr
+     Fattah
+     Feeney
+     Ferguson
+     Filner
+     Flake
+     Forbes
+     Fortenberry
+     Fossella
+     Foxx
+     Frank (MA)
+     Franks (AZ)
+     Frelinghuysen
+     Gallegly
+     Garrett (NJ)
+     Gerlach
+     Gilchrest
+     Gillibrand
+     Gohmert
+     Gonzalez
+     Goode
+     Goodlatte
+     Gordon
+     Granger
+     Graves
+     Green, Al
+     Green, Gene
+     Grijalva
+     Gutierrez
+     Hall (NY)
+     Hall (TX)
+     Hare
+     Hastert
+     Hastings (FL)
+     Hastings (WA)
+     Hayes
+     Heller
+     Hensarling
+     Herger
+     Herseth Sandlin
+     Higgins
+     Hill
+     Hinchey
+     Hinojosa
+     Hobson
+     Hodes
+     Hoekstra
+     Holden
+     Holt
+     Honda
+     Hooley
+     Hoyer
+     Hulshof
+     Hunter
+     Inglis (SC)
+     Inslee
+     Israel
+     Issa
+     Jackson (IL)
+     Jackson-Lee (TX)
+     Jefferson
+     Johnson (GA)
+     Johnson (IL)
+     Johnson, E. B.
+     Johnson, Sam
+     Jones (NC)
+     Jones (OH)
+     Jordan
+     Kagen
+     Kanjorski
+     Kaptur
+     Keller
+     Kennedy
+     Kildee
+     Kilpatrick
+     Kind
+     King (IA)
+     King (NY)
+     Kingston
+     Kirk
+     Klein (FL)
+     Kline (MN)
+     Knollenberg
+     Kucinich
+     Kuhl (NY)
+     Lamborn
+     Lampson
+     Langevin
+     Lantos
+     Larsen (WA)
+     Larson (CT)
+     Latham
+     Levin
+     Lewis (CA)
+     Lewis (GA)
+     Linder
+     Lipinski
+     LoBiondo
+     Lofgren, Zoe
+     Lowey
+     Lucas
+     Lungren, Daniel E.
+     Lynch
+     Mack
+     Mahoney (FL)
+     Manzullo
+     Marchant
+     Markey
+     Marshall
+     Matheson
+     Matsui
+     McCarthy (CA)
+     McCarthy (NY)
+     McCaul (TX)
+     McCollum (MN)
+     McCotter
+     McCrery
+     McGovern
+     McHenry
+     McHugh
+     McIntyre
+     McKeon
+     McMorris Rodgers
+     McNerney
+     McNulty
+     Meek (FL)
+     Meeks (NY)
+     Melancon
+     Mica
+     Michaud
+     Miller (FL)
+     Miller (MI)
+     Miller (NC)
+     Miller, Gary
+     Miller, George
+     Mitchell
+     Mollohan
+     Moore (KS)
+     Moore (WI)
+     Moran (KS)
+     Moran (VA)
+     Murphy (CT)
+     Murphy, Patrick
+     Murphy, Tim
+     Murtha
+     Musgrave
+     Myrick
+     Nadler
+     Napolitano
+     Neal (MA)
+     Neugebauer
+     Nunes
+     Obey
+     Olver
+     Ortiz
+     Pallone
+     Pascrell
+     Pastor
+     Payne
+     Pearce
+     Pence
+     Perlmutter
+     Peterson (MN)
+     Peterson (PA)
+     Petri
+     Pickering
+     Platts
+     Poe
+     Pomeroy
+     Porter
+     Price (GA)
+     Price (NC)
+     Pryce (OH)
+     Putnam
+     Radanovich
+     Rahall
+     Rangel
+     Regula
+     Rehberg
+     Reichert
+     Renzi
+     Reyes
+     Reynolds
+     Richardson
+     Rodriguez
+     Rogers (AL)
+     Rogers (KY)
+     Rogers (MI)
+     Ros-Lehtinen
+     Roskam
+     Ross
+     Rothman
+     Royce
+     Ruppersberger
+     Rush
+     Ryan (OH)
+     Ryan (WI)
+     Salazar
+     Sali
+     Sanchez, Linda T.
+     Sanchez, Loretta
+     Sarbanes
+     Saxton
+     Schakowsky
+     Schiff
+     Schmidt
+     Schwartz
+     Scott (GA)
+     Scott (VA)
+     Sensenbrenner
+     Serrano
+     Sessions
+     Sestak
+     Shadegg
+     Shays
+     Shea-Porter
+     Sherman
+     Shimkus
+     Shuler
+     Shuster
+     Simpson
+     Sires
+     Skelton
+     Slaughter
+     Smith (NE)
+     Smith (NJ)
+     Smith (TX)
+     Snyder
+     Solis
+     Souder
+     Space
+     Spratt
+     Stearns
+     Stupak
+     Sullivan
+     Sutton
+     Tancredo
+     Tanner
+     Tauscher
+     Taylor
+     Terry
+     Thompson (CA)
+     Thompson (MS)
+     Thornberry
+     Tiahrt
+     Tiberi
+     Tierney
+     Towns
+     Tsongas
+     Turner
+     Udall (CO)
+     Udall (NM)
+     Upton
+     Van Hollen
+     Velazquez
+     Visclosky
+     Walberg
+     Walden (OR)
+     Walsh (NY)
+     Walz (MN)
+     Wamp
+     Wasserman Schultz
+     Waters
+     Watson
+     Watt
+     Waxman
+     Weiner
+     Welch (VT)
+     Weldon (FL)
+     Weller
+     Wexler
+     Whitfield
+     Wicker
+     Wilson (NM)
+     Wilson (OH)
+     Wilson (SC)
+     Wolf
+     Wu
+     Wynn
+     Yarmuth
+     Young (AK)
+     Young (FL)
+
+                             NOT VOTING--36
+
+     Ackerman
+     Bartlett (MD)
+     Bilirakis
+     Boren
+     Braley (IA)
+     Buyer
+     Cannon
+     Carson
+     Carter
+     Conyers
+     Cubin
+     DeGette
+     Doggett
+     English (PA)
+     Giffords
+     Gingrey
+     Harman
+     Hirono
+     Jindal
+     LaHood
+     LaTourette
+
+[[Page H13254]]
+
+
+     Lee
+     Lewis (KY)
+     Loebsack
+     Maloney (NY)
+     McDermott
+     Oberstar
+     Paul
+     Pitts
+     Ramstad
+     Rohrabacher
+     Roybal-Allard
+     Smith (WA)
+     Stark
+     Westmoreland
+     Woolsey
+
+
+                Announcement by the Speaker Pro Tempore
+
+  The SPEAKER pro tempore (during the vote). Members are advised there 
+are 2 minutes remaining on the vote.
+
+                              {time}  1832
+
+  So (two-thirds being in the affirmative) the rules were suspended and 
+the concurrent resolution, as amended, was agreed to.
+  The result of the vote was announced as above recorded.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```
