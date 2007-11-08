@@ -1,0 +1,101 @@
+---
+granule: CRECB-2007-pt22-Pg30539-2
+date: 2007-11-08
+edition: CRECB
+section: SENATE
+page: 30539
+---
+
+# MEDICARE PHYSICIAN PAYMENTS
+
+```
+                      MEDICARE PHYSICIAN PAYMENTS
+
+  Ms. STABENOW. Mr. President, if Congress does not act soon, Medicare 
+payments to physicians and health care professionals will be cut by 10 
+percent on January 1, 2008 as a result of the fatally flawed 
+sustainable growth rate formula.
+  This does not make any sense. While costs continue to increase, 
+physicians will actually be paid less than they are paid today.
+  While a 10 percent cut in 2008 is completely indefensible, it does 
+not end there. When combined with the additional cuts required under 
+current law through 2016, physician payment rates will be reduced by 
+approximately 40 percent.
+  What will be the result? Doctors will decrease the number of Medicare 
+patients they accept, defer purchase of health information technology, 
+and rural outreach services will be discontinued. The Medicare Program, 
+which for more than 40 years has lifted countless seniors out of 
+poverty, and has ensured access to necessary, affordable, quality 
+medical care for our most vulnerable citizens, would be destabilized. 
+The health of the nearly 42 million Americans who rely on Medicare 
+would be threatened.
+  Physicians are the foundation of the Medicare Program and our 
+Nation's health care system and patients of all ages depend upon them 
+for health care services. Every aspect of our health care system, from 
+hospitals to rural health clinics, relies upon the skills and services 
+of physicians. Yet, on average, physician payments in 2007 are below 
+what they were in 2001.
+  It defies common sense to think that payment rates that are lower 
+today than they were 6 years ago will be enough to maintain the access 
+to care our seniors need. Very simply put, the projected 2008--and 
+beyond--payment cuts will place beneficiary's access to health care at 
+risk.
+  I am proud of the work that over 20,000 M.D.s and D.O.s in Michigan 
+do, providing more than 1.4 million seniors and people with 
+disabilities in Michigan with high-quality medical services under the 
+Medicare Program.
+  I want them to be able to continue to do that, but there is simply no 
+way that can be expected unless we do something now about the payment 
+system used to reimburse physicians for Medicare services.
+  Physicians in Michigan will lose $670 million for the care of elderly 
+and disabled patients over the next 2 years due to the 10 percent cut 
+in Medicare payments for 2008 and the additional 5 percent cut in 2009. 
+My physicians are looking at cuts of more than $10 billion by 2016 as a 
+result of the SGR formula and 9 years of cuts.
+  We certainly cannot expect that physicians can continue to provide 
+the same level of care while their payments are cut $670 million over 
+the next 2 years alone.
+  Several studies and surveys have shown that payment cuts will result 
+in physicians modifying their participation in the Medicare Program and 
+limiting the number of new Medicare patients they treat.
+  We also know from the studies that the lack of a predictable and 
+equitable Medicare payment system encourages older physicians to 
+retire, discourages younger physicians from entering specialties that 
+predominately treat Medicare patients, and hinders investment in health 
+information technology.
+  In addition to the studies that have been conducted, and our own 
+common sense, the Medicare Payment Advisory Commission, an independent 
+Federal body established by Congress in 1997 to advise us on issues 
+affecting the Medicare program, has been telling us since 2001 that the 
+Medicare sustainable growth rate formula is a flawed, inequitable 
+mechanism for controlling the volume of services and that it should be 
+repealed.
+  It is absolutely critical that ultimately Congress needs to enact a 
+long-term solution to this issue. In the short term, we need to end the 
+practice of dealing with the cuts on a yearly basis in a manner that 
+results in deeper automatic physician payment reductions in future 
+years.
+  At a minimum, I believe we must pass legislation this year that 
+provides physicians with 2 years of positive Medicare payment updates 
+and do so in a way that does not add to the cost of eliminating the 
+SGR.
+  By providing 2 years of positive Medicare payment updates for 
+physicians, we would avoid having to come back next year facing the 
+same issue and
+
+[[Page 30540]]
+
+would instead create the ability for Congress to develop a new, 
+sustainable Medicare physician payment system.
+  I thank Senator Baucus, the Senate Finance chairman, for his work on 
+behalf of Medicare beneficiaries and physicians and I fully support his 
+goal of providing a 2-year ``fix'' for physician payments in the 
+package he develops in the coming month.
+  I share his belief that ultimately we need to repeal the SGR and 
+establish a Medicare physician payment system that will provide stable, 
+positive payment updates to preserve Medicare beneficiaries' access to 
+high-quality care for the long term. I hope we will be able to begin 
+that process under his leadership next year.
+
+                          ____________________
+```
