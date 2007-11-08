@@ -1,0 +1,39 @@
+---
+granule: CREC-2007-11-08-pt1-PgS14186
+date: 2007-11-08
+edition: CREC
+section: SENATE
+page: S14186
+citation: 153 Cong. Rec. S14186
+---
+
+# HONORING OUR ARMED FORCES
+
+**Speaking:** Hagel, Chuck (H001028) [R-NE]
+
+```
+                       HONORING OUR ARMED FORCES
+
+
+                         Lieutenant Seth Pierce
+
+  Mr. HAGEL. Mr. President, I rise to express my sympathy over the loss 
+of U.S. Marine Corps 2LT Seth Pierce of Lincoln, NE. Lieutenant Pierce 
+died on October 21 from injuries he sustained in an automobile accident 
+on base at Quantico, VA, where he was stationed. He was 23 years old.
+  Lieutenant Pierce graduated from Lincoln Southeast High School in 
+2002, where he led the relay team to a State championship in 2001. 
+After graduating from Arizona State University in 2006, he was 
+commissioned as a second lieutenant into the U.S. Marine Corps.
+  All of Nebraska is proud of Lieutenant Pierce's service to our 
+country, as well as that of the thousands of brave men and women 
+serving in the U.S. Armed Forces.
+  Lieutenant Pierce is remembered as a devoted son, brother, and 
+grandson. He is survived by his parents Larry and Linda; his brother 
+Aaron, and his grandparents, Edwin and Ruth Steffens, and Luther and 
+Esther Pierce.
+  I ask my colleagues to join me and all Americans in honoring 2LT Seth 
+Pierce.
+
+                          ____________________
+```

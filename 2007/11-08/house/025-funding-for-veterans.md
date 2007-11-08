@@ -1,0 +1,41 @@
+---
+granule: CREC-2007-11-08-pt1-PgH13304-2
+date: 2007-11-08
+edition: CREC
+section: HOUSE
+page: H13304
+citation: 153 Cong. Rec. H13304
+---
+
+# FUNDING FOR VETERANS
+
+**Speaking:** Stupak, Bart (S001045) [D-MI]
+
+```
+                          FUNDING FOR VETERANS
+
+  (Mr. STUPAK asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. STUPAK. Madam Speaker, this country must keep its promises made 
+to our servicemen and -women when they choose to serve our country by 
+taking care of them when they return home as veterans. This Democratic 
+Congress has been dedicated to making sure the needs of all America's 
+veterans are fulfilled.
+  So far this year we've passed legislation providing the largest 
+funding increase for veterans in the 77-year history of the VA. This 
+funding will allow the VA to keep up with the growing number of 
+veterans who need care, maintain its health care facilities, and treat 
+veterans returning from Iraq and Afghanistan who are suffering from 
+PTSD and traumatic brain injuries.
+  We also voted to increase military pay by 3.5 percent, as well as 
+special pay and bonuses to combat troops, putting an additional $7.3 
+billion in military paychecks. Unfortunately, the Bush administration 
+is now reneging on these enlistment bonuses to those severely wounded 
+combat veterans.
+  Madam Speaker, this Democratic Congress has made meeting the needs of 
+the veterans and our military a top priority. This weekend, and every 
+day, let us all remember the service of our Nation's veterans and 
+commit ourselves to keeping this country's promises to them.
+
+                          ____________________
+```
