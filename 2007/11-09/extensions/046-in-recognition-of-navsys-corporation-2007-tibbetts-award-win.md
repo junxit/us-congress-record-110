@@ -1,0 +1,52 @@
+---
+granule: CREC-2007-11-09-pt1-PgE2388-4
+date: 2007-11-09
+edition: CREC
+section: EXTENSIONS
+page: E2388
+citation: 153 Cong. Rec. E2388
+---
+
+# IN RECOGNITION OF NAVSYS CORPORATION, 2007 TIBBETTS AWARD WINNER FOR THE TALON NAMATH PROGRAM
+
+**Speaking:** Lamborn, Doug (L000564) [R-CO]
+
+```
+ IN RECOGNITION OF NAVSYS CORPORATION, 2007 TIBBETTS AWARD WINNER FOR 
+                        THE TALON NAMATH PROGRAM
+
+                                 ______
+                                 
+
+                           HON. DOUG LAMBORN
+
+                              of colorado
+
+                    in the house of representatives
+
+                        Friday, November 9, 2007
+
+  Mr. LAMBORN. Madam Speaker, I rise today to congratulate NAVSYS 
+Corporation for receiving the 2007 Tibbetts Award given in recognition 
+of the successful Talon NAMATH Program. The Tibbetts Award, named for 
+Roland Tibbetts, honors organizations, individuals, and small 
+businesses who demonstrate achievement in the area of Small Business 
+Innovation Research.
+  Located in my hometown of Colorado Springs, NAVSYS Corporation was 
+founded in 1986 by Dr. Allison Brown. Since its inception, this company 
+has sought to promote the use of Global Positioning System in a variety 
+of applications, both commercial and military. The Talon NAMATH Program 
+for which
+
+[[Page E2389]]
+
+NAVSYS received the Tibbetts Award has provided crucial support to our 
+military operations in Iraq and Afghanistan.
+  I am proud to represent such an accomplished business and hope that 
+this achievement by NAVSYS inspires other businesses in my district. 
+Today, I offer my congratulations to NAVSYS and all those who worked so 
+diligently on the Talon NAMATH Program. It is innovations by companies 
+like this that will keep our country secure.
+
+                          ____________________
+```

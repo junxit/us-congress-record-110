@@ -1,0 +1,38 @@
+---
+granule: CREC-2007-11-09-pt1-PgH13511-2
+date: 2007-11-09
+edition: CREC
+section: HOUSE
+page: H13511
+citation: 153 Cong. Rec. H13511
+---
+
+# THE TEMPORARY TAX RELIEF ACT OF 2007
+
+**Speaking:** Jackson Lee, Sheila (J000032) [D-TX]
+
+```
+                  THE TEMPORARY TAX RELIEF ACT OF 2007
+
+  (Ms. JACKSON-LEE of Texas asked and was given permission to address 
+the House for 1 minute and to revise and extend her remarks.)
+  Ms. JACKSON-LEE of Texas. Mr. Speaker, I am very proud to have been 
+one of those today to support the Temporary Tax Relief Act of 2007.
+  Let me call the roll so we will understand what this bill does.
+  First of all, I am gratified that 1.270 million projected AMT returns 
+by the State of Texas, those who will file their returns will get a 
+benefit in my State because this bill has been passed today.
+  I am equally delighted that this bill looks out for a lot of 
+America's taxpayers. Twelve million children will be helped by 
+expanding the child tax credit. Eleven million families will be helped 
+through the State and local sales tax deduction, and that is a bunch of 
+families in the State of Texas. 3.4 million teachers will be able to 
+deduct their classroom expenses, and that will help a lot of Texas 
+teachers. And we will provide thousands of American troops in combat 
+with tax relief under the earned income tax credit. In addition, some 
+$8 billion will be utilized to help the real estate industry as well.
+  The Temporary Tax Relief Act of 2007 is the right thing to do to help 
+pay for the AMT reduction.
+
+                          ____________________
+```
