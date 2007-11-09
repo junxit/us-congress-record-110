@@ -1,0 +1,41 @@
+---
+granule: CRECB-2007-pt22-Pg30727-2
+date: 2007-11-09
+edition: CRECB
+section: HOUSE
+page: 30727
+---
+
+# IRAN WAR GAME
+
+```
+                             IRAN WAR GAME
+
+  (Mr. McDERMOTT asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. McDERMOTT. Mr. Speaker, my concern that the President might 
+launch a military strike against Iran is well known; but my mission 
+here today is not rhetorical. I am here to propose that Members of 
+Congress participate in an Iran war game.
+  Television could carry the event so the American people can watch it 
+all. We know that the Pentagon has conducted war games to examine the 
+casualties and consequences of a U.S. military strike against Iran. We 
+should, too.
+  Here are some of the questions that could be answered: Could we use 
+bunker buster bombs? Could a U.S. military strike against Iran result 
+in a wider Middle East war? What provocation would cause the President 
+to provoke such a strike?
+  A group of retired, high-level CIA agents brought this idea to me. 
+These are patriots whom we trusted with keeping and protecting 
+America's secrets. They and others, including a retired Air Force 
+colonel who conducted war games in the Pentagon, would accurately 
+produce a U.S.-Iran war game just as it is done in the Pentagon. I know 
+because they gave me the plan.
+  A military strike against Iran would involve life-and-death issues. 
+We need to understand what they would look like. I urge my colleagues 
+and the media to join me in demanding that we publicly conduct a U.S.-
+Iran war game as soon as possible.
+  Think what we would have learned if we had done it before Iraq.
+
+                          ____________________
+```

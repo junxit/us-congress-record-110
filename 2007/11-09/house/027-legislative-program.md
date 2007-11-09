@@ -1,0 +1,167 @@
+---
+granule: CRECB-2007-pt22-Pg30825-2
+date: 2007-11-09
+edition: CRECB
+section: HOUSE
+page: 30825
+---
+
+# LEGISLATIVE PROGRAM
+
+```
+                          LEGISLATIVE PROGRAM
+
+  (Mr. BLUNT asked and was given permission to address the House for 1 
+minute.)
+  Mr. BLUNT. Mr. Speaker, I would yield to my friend, the majority 
+leader, for an update on next week's schedule.
+  Mr. HOYER. I thank the distinguished whip for yielding.
+  Mr. Speaker, on Monday the House will not be in session so that we 
+can observe Veterans Day in honor of those who have sacrificed for our 
+country, served our country so ably and well, and to remember those who 
+have paid the ultimate price for our freedoms that we enjoy today.
+  On Tuesday, the House will meet at 10:30 for morning-hour debate and 
+noon for legislative business.
+  On Wednesday and Thursday, the House will meet at 10 a.m. for 
+legislative business and 9 a.m. on Friday. We will consider several 
+bills under suspension of the rules. A list of those bills, of course, 
+will be announced by the close of business today.
+  Under rules, we expect to consider H.R. 3915, Mortgage Reform and 
+Anti-Predatory Lending Act, and the conference report on H.R. 1429, 
+Improving Head Start Act. In addition, we hope to be able to consider 
+additional conference reports as they become available. And in light of 
+the fact it's our last week before the Thanksgiving break, if there are 
+other items that come to our attention, we will try to move those 
+forward as well. But we don't have notice of those at this point in 
+time.
+  I thank the gentleman for yielding.
+  Mr. BLUNT. I thank you for that information. I certainly agree with 
+your observation about our veterans and the appropriateness of us 
+taking the day on Monday to honor them.
+  On that issue, we went to conference this week on two different 
+bills, and my impression was, based on the combination of the Military 
+Construction and Veterans bill with Labor-HHS, that that veterans part 
+of that bill was probably done. I'm wondering if the gentleman has any 
+sense of how we can reinitiate a conference on that bill so that we can 
+get the veterans and the military quality of life, military 
+construction money passed. Is there a plan to go to conference there?
+  Mr. HOYER. I can't represent to the gentleman the specific plan 
+because I have not gotten that from Mr. Obey, what his thoughts are on 
+that or what his discussions have been with Senator Byrd or with the 
+subcommittee Chairs in both of the bodies. However, we certainly intend 
+to move that forward, as the gentleman suggests, as quickly as 
+possible.
+  Mr. BLUNT. Well, I appreciate that. And I would think since 
+essentially it appears that bill has already been conferenced, since it 
+was included with the Labor-HHS bill in conference, that it should be 
+pretty easy to do and hope that we can do it. The President has 
+announced he would sign that bill. The difference in this year's 
+spending and last year's is about $18.5 million dollars a day, and I 
+would hope we could get there.
+  On the trade agreement this week, I thought we had a significant 
+bipartisan vote on the Peru Trade Agreement. There are three other 
+agreements out there that have been negotiated, and I wonder if the 
+leader has any sense of when we might be able to look toward any of 
+those bills coming to the floor.
+  And I would yield.
+  Mr. HOYER. I thank my friend for that question on the trade bills. We 
+did have a bipartisan vote on the Peru Trade Agreement which 
+incorporated, as we had urged, both worker protections and 
+environmental protections. And with respect to the other three 
+agreements which have been negotiated, Panama, Colombia and South 
+Korea, frankly, we don't yet know. As the gentleman knows, with respect 
+to the agreement with Panama, the complication really doesn't regard 
+the trade agreement as much as it regards the concern that many people 
+have on both sides of the aisle that the Speaker or President of the 
+Panamanian Parliament is under indictment in the United States with an 
+extradition request for the murder of an American soldier. That, 
+obviously, has complicated the consideration of that agreement.
+  With respect to Colombia, frankly, I want to tell the gentleman, I 
+don't expect Colombia to come up until next year or South Korea to come 
+up before next year. We obviously have, after next week, we hope, a 
+short time left to go, maybe six, seven legislative days. So it would 
+be unrealistic to expect us to be able to move these agreements within 
+that time frame. But if we could resolve, I think, the issue regarding 
+Panama, that might be possible.
+  Mr. BLUNT. I appreciate that. I'd also say that I was heartened by 
+the good work that Chairman Rangel and Mr. McCrery and others did on 
+the Peru agreement, and certainly, I think I want to continue to reach 
+out to you and the chairman and others who'd like to get things done so 
+these bills could come to the floor.
+  Colombia is the one that was negotiated next, and because of the 
+Panama complication, it may even be more likely that that could come 
+next.
+  I would be pleased to yield to Mr. Rangel for any thoughts he has on 
+that topic.
+  Mr. RANGEL. Well, it was about the Panama complication, because it 
+was my understanding, to a large extent, that it would be the 
+administration to make the decision or to respond to the answer that 
+you asked of the majority leader. And it's because of the complication 
+that they'll have to decide, politically, as to how they want to handle 
+it, because it goes beyond a trade agreement. It's involved with State 
+Department policy.
+  And I always get the impression, since the FTA with Korea that's been 
+left out of the discussion with me, that when the administration 
+believes it has completed its negotiation on the executive level, then 
+they too would be coming back to the Congress.
+  And of course Colombia has its own special problems, which we can 
+talk about at a different time. So I just wanted to say, as it relates 
+to Panama and Korea, it was my impression that the administration has 
+to make some major decisions before we can respond.
+  Mr. BLUNT. Well, I appreciate that. And I do know that the chairman 
+has worked hard with the U.S. Trade Ambassador and others, and I'm 
+appreciative of that. And the administration, as this process works, 
+will decide whether to send those up, but I know that they will do that 
+in significant consultation with the chairman and ranking member and, I 
+hope, others in the leadership. And these are important discussions.
+  I thought we had a significant step in the right direction for our 
+neighborhood this week. To have all of the leaders of both parties vote 
+for a trade agreement was a good sign about the future of our 
+relationships with Panama and, I hope, a good sign about how we 
+approach more of these trade agreements.
+  The other question I had also relates just on the Armenian 
+resolution. I know that a lot of things have happened in regard to that 
+resolution. But
+
+[[Page 30826]]
+
+I also know that the leader, 3 or 4 weeks ago, maybe it was 4 weeks 
+ago, said that that resolution would be on the floor by November 16. I 
+know it wasn't announced today. I wonder, has any decision been made on 
+advancing that resolution?
+  And I would yield to my friend.
+  Mr. HOYER. I thank the gentleman for his question. I did say that. 
+He's correct. However, the principal proponents of that resolution, 
+obviously, the relationship with Turkey is a very important one for the 
+United States. It is a critical time in the Middle East. Turkey has 
+been, obviously, a great help in some respects, sometimes. And so the 
+principal sponsors of that resolution have written a letter to the 
+Speaker and myself and asked us not to move forward with that 
+resolution at this time. But it is obviously still a matter of great 
+concern to the Speaker, to myself and, frankly, the majority of this 
+House who are sponsors of this resolution.
+  But in answer to the gentleman's question, I do not expect it to move 
+forward any time soon.
+  Mr. BLUNT. I appreciate that. What I believe will be my last 
+question, Mr. Leader, is on Tuesday, knowing this is the last week 
+before there is a break, and we may not stay with the normal procedure, 
+should we expect anything beyond suspension bills on Tuesday? Do you 
+think there's any likelihood, not possibility, but any likelihood of a 
+rule bill as early as Tuesday?
+  Mr. HOYER. It is possible. And the reason I say it's possible is 
+because a lot of Members, obviously, would like to get out. It's 
+Thanksgiving week. We're leaving. And I'm not sure whether it's a 
+majority of your side or the majority, but I think there's probably 
+unanimity that if we could see our way clear to finishing the business 
+that we have by Thursday, they would prefer to work Tuesday night than 
+they would prefer to work on Friday day. So I want to say to my friend 
+it's possible, to facilitate the work. We're going to be talking about 
+that later on today, and maybe even over the weekend, where we are. So 
+I want to say to the gentleman, it's possible.
+  Mr. BLUNT. Well, we'd be pleased to be notified as early as you know 
+about it. And I think you're absolutely right, that Members would be 
+pleased to work a little longer days this week to get some time at home 
+with their families during the holidays.
+
+                          ____________________
+```
