@@ -1,0 +1,367 @@
+---
+granule: CRECB-2007-pt22-Pg31267
+date: 2007-11-13
+edition: CRECB
+section: HOUSE
+page: 31267
+---
+
+# SUPPORTING THE GOALS AND IDEALS OF WORLD DIABETES DAY
+
+```
+         SUPPORTING THE GOALS AND IDEALS OF WORLD DIABETES DAY
+
+  Mr. DAVIS of Illinois. Mr. Speaker, I move to suspend the rules and 
+agree to the concurrent resolution (H. Con. Res. 211) supporting the 
+goals and ideals of World Diabetes Day.
+  The Clerk read the title of the concurrent resolution.
+  The text of the concurrent resolution is as follows:
+
+                            H. Con. Res. 211
+
+       Whereas the World Health Organization and the International 
+     Diabetes Federation established World Diabetes Day in 1991 
+     with the aim of coordinating diabetes advocacy worldwide;
+       Whereas World Diabetes Day is celebrated annually on 
+     November 14;
+       Whereas on December 20, 2006, the General Assembly of the 
+     United Nations passed a landmark resolution recognizing 
+     diabetes as a chronic, debilitating, and costly disease;
+       Whereas the resolution designates World Diabetes Day as a 
+     United Nations Day to be observed every year starting in 2007 
+     in order to raise global awareness of diabetes;
+       Whereas the theme of the 2007 United Nations World Diabetes 
+     Day campaign focuses on raising awareness of diabetes in 
+     children and adolescents, who face unique challenges when 
+     diagnosed with diabetes;
+       Whereas the United Nations campaign aims, among other 
+     objectives, to firmly establish the message that no child 
+     should die of diabetes;
+       Whereas the global diabetes epidemic has devastating 
+     effects on families, societies, and national economies;
+       Whereas diabetes is the fourth leading cause of death by 
+     disease in the world, and is the sixth leading cause of death 
+     in the United States;
+       Whereas diabetes is a leading cause of blindness, kidney 
+     failure, amputation, heart attack, and stroke;
+       Whereas in almost every country the incidence of diabetes 
+     is increasing, growing from an estimated 30,000,000 people 
+     worldwide in 1985 to an estimated 245,000,000 people in 2007, 
+     and to 380,000,000 by 2025, as reported by the International 
+     Diabetes Federation;
+       Whereas diabetes is one of the most common chronic 
+     childhood diseases;
+
+[[Page 31268]]
+
+       Whereas diabetes can strike children at any age, and when 
+     diagnosed in young people the risk of developing life-
+     threatening complications at an early age increases and life 
+     expectancy is shortened by, on average, 10 to 20 years;
+       Whereas new figures from the International Diabetes 
+     Federation's Diabetes Atlas suggest that more than 70,000 
+     children develop type 1 diabetes each year and 440,000 
+     children worldwide under the age of 14 now live with type 1 
+     diabetes;
+       Whereas recent data indicate that one out of every three 
+     children born in the United States will develop diabetes 
+     during their lifetime, including one out of every two 
+     children from ethnic minority groups;
+       Whereas in low- and middle-income countries, many children 
+     with diabetes die because they are diagnosed late or 
+     misdiagnosed or because insulin is unaffordable, unavailable, 
+     or in short supply;
+       Whereas the incidence of type 2 diabetes, which was 
+     previously rare in children, is rising at alarming rates, 
+     with more than 200 children a day developing this form of 
+     diabetes;
+       Whereas obesity is a major contributor to type 2 diabetes;
+       Whereas according to the International Obesity Task Force 
+     of the International Association for the Study of Obesity, 
+     155,000,000 school-age children worldwide are overweight, 
+     representing at least 1 out of every 10 school-age children;
+       Whereas at least 30,000,000 of those overweight children 
+     are classified as obese, accounting for at least 2 percent of 
+     the world's children between the ages of 5 and 17 years of 
+     age;
+       Whereas research has shown conclusively that type 2 
+     diabetes can be prevented or significantly delayed through 
+     healthy weight maintenance and regular physical activity;
+       Whereas adopting a lifestyle high in physical activity and 
+     adopting a low-sugar, low-fat diet can successfully prevent 
+     the onset of obesity and diabetes among school-age children;
+       Whereas diabetes is costly, with the world estimated to 
+     spend at least $232,000,000,000 in 2007 and over 
+     $302,500,000,000 by 2025 to treat and prevent diabetes and 
+     its complications;
+       Whereas world treatment costs for diabetes are growing more 
+     quickly than the world population;
+       Whereas diabetes threatens to subvert global economic 
+     advancement by both straining government budgets worldwide 
+     (with the cost of diabetes-related disability payments, 
+     pensions, social and medical service costs, and lost revenue) 
+     and burdening private health insurers and employers with 
+     spiraling health care costs;
+       Whereas by 2025 the largest increases in diabetes 
+     prevalence will take place in developing countries, whose 
+     economies are less able to support increased expenditures to 
+     provide for those with the disease and engage in effective 
+     prevention efforts; and
+       Whereas the economic impact of diabetes threatens to 
+     undermine the achievement of the United Nation's Millennium 
+     Development Goals for developing countries: Now, therefore, 
+     be it
+       Resolved by the House of Representatives (the Senate 
+     concurring), That Congress supports the goals and ideals of 
+     World Diabetes Day.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentleman from 
+Illinois (Mr. Davis) and the gentleman from California (Mr. Issa) each 
+will control 20 minutes.
+  The Chair recognizes the gentleman from Illinois.
+
+
+                             General Leave
+
+  Mr. DAVIS of Illinois. Mr. Speaker, I ask unanimous consent that all 
+Members may have 5 legislative days in which to revise and extend their 
+remarks.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Illinois?
+  There was no objection.
+  Mr. DAVIS of Illinois. It is my pleasure to yield such time as he 
+might consume to the gentleman from New Jersey (Mr. Payne).
+  Mr. PAYNE. Mr. Speaker, I am pleased to offer House Concurrent 
+Resolution 211, pronouncing that Congress supports the goals and ideals 
+of World Diabetes Day.
+  Let me thank Representative Manzullo, who was a prime cosponsor of 
+this legislation, and other Members, for cosponsoring this bipartisan 
+resolution.
+  This global health awareness campaign established in 1991 by the 
+World Health Organization and International Diabetes Federation is 
+celebrated annually on November 14. This marks the birthday of Dr. 
+Frederick Grant Banting, a Canadian medical scientist, Nobel laureate, 
+and co-discoverer of insulin. And now, it is an official United Nations 
+recognized day.
+  World Diabetes Day aims to coordinate diabetes advocacy worldwide. In 
+almost every country of the world, the incidence of diabetes is on the 
+rise. Diabetes is the fourth leading cause of global death by disease. 
+In the United States, it is the sixth leading cause of death including 
+accidents, but of deaths by disease it climbs to number five.
+  The economic burden on both developed and developing countries due to 
+a dramatic increase in the prevalence of diabetes was analyzed in a new 
+report from the Economist Intelligence Unit. Diabetes currently affects 
+246 million people worldwide and is expected to affect 380 million 
+people by 2025. In 2007, the five countries with the largest number of 
+people with diabetes are India, China, the United States, Russia, and 
+Germany. Worse, each year 3.8 million deaths are attributed to 
+diabetes. An even greater number die from complications, renal failure, 
+vascular loss. Soberly, every 10 seconds, two people develop diabetes 
+and a person dies from diabetes-related causes.
+  On December 20, 2006, the General Assembly of the United Nations 
+passed landmark Resolution 61-225, recognizing diabetes as a chronic, 
+debilitating, and costly disease. This is the first year, therefore, 
+that the World Diabetes Day has risen to such prominence, and it is 
+fitting that here in the United States Congress we support it this day.
+  Mr. Speaker, World Diabetes Day has annually focused on a particular 
+aspect or complication of diabetes, the heart, the eyes, the kidneys, 
+and feet. I am especially pleased that this year the World Diabetes 
+Day's theme focuses on raising awareness of diabetes in children and 
+adolescents who face unique challenges when diagnosed with diabetes. 
+The campaign aimed to firmly establish the message that no child should 
+die from diabetes.
+  As a senior member of the Committee on Education and Labor and 
+Foreign Affairs, as a delegate to the United Nations since 2003 and 
+2005, I see this year's theme as a perfect synergy of a global health 
+and childhood issue, with importance to the United Nations.
+  So as we speak here, November 1 in Bermuda, 246 people dressed in 
+U.N. blue t-shirts to represent the 246 million people in the world 
+with diabetes. They stood up. Tomorrow in Lagos, Nigeria, there will be 
+a walk starting at Maryland and ending at Lagos State University, where 
+there will be young people asking folks to have their blood sugar level 
+checked. In Australia, from November 11 to November 20, there are 
+children-centered activities from a Switch-Off Turn On to Play Pledge 
+that will once again highlight this.
+  And so, as I conclude, while commemorating World Diabetes Day, of 
+course I can look no further than my own congressional district of New 
+Jersey to find shining examples of the dedication to diabetes in the 
+area of education in St. Barnabas Hospital and Newark Beth Israel are 
+all leaders, and we hope that everyone will join in this.
+  I urge my colleagues to vote for passage of House Concurrent 
+Resolution 211, supporting the goals and ideals of World Diabetes Day.
+  Mr. ISSA. Mr. Speaker, I join with my colleagues in this bipartisan 
+effort to bring greater awareness to World Diabetes Day.
+  As my colleague said, 225,000 people per year die in the United 
+States alone from diabetes. But I believe that, as we recognize this 
+day, we have to recognize that diabetes doesn't just kill; diabetes 
+debilitates. It causes blindness. It takes away all or part of limbs. 
+It slows people down in their day-to-day ability to enjoy life. One of 
+the great inventors of our time invented the insulin pump, which 
+allowed people to not have to periodically stop to take medicine, but 
+it didn't change the debilitating effect that artificially-given 
+insulin causes.
+  We do not have a cure for diabetes today. We need to continue working 
+toward that, as many of our pharmaceutical companies are. So bringing 
+awareness to this is just a first step in making sure that the United 
+States, Europe, and the other developed nations work hard to find real 
+cures for this dreadful disease.
+  Mr. Speaker, I rise today to urge passage of H. Con. Res. 211, which 
+supports the goals and ideals of World Diabetes Day.
+
+[[Page 31269]]
+
+  Mr. Speaker, diabetes is among the most lethal diseases known to man. 
+It kills about 225,000 people per year in the United States alone--
+fifth among disease-related deaths and roughly equal to the population 
+of New Orleans or Madison, WI.
+  And it's generally believed to be significantly under-reported on 
+death certificates, especially among the old--who may endure multiple 
+chronic conditions, many caused by diabetes.
+  Because, as anyone who has diabetes knows all too well, when you have 
+diabetes, you don't just have diabetes. The disease leads to increased 
+risk of a number of seriously, sometimes life-threatening 
+complications.
+  These include--but certainly aren't limited to--heart disease and 
+stroke, blindness, high blood pressure, kidney disease, nervous-system 
+disease, dental disease, even pregnancy complications.
+  Strokes and heart disease are 2 to 4 times more likely for those with 
+diabetes than those without, and diabetes is the leading cause of new 
+blindness cases in the United States.
+  Most of these associated health problems can be avoided with good 
+diabetes control, but many people don't realize they have diabetes 
+until it has caused one of these other diseases. Indeed, of the 21 
+million people in the United States who have diabetes, nearly a third 
+don't yet know it. Those who do spend about one in every 10 dollars we 
+spend on health care in this country.
+  Mr. Speaker, I applaud efforts such as World Diabetes Day that call 
+attention to the problems this disease causes and the need for further 
+research and outreach.
+  We need to do what we can to solve this mystery and slow this 
+killer--both to alleviate the pain, suffering and expense of our fellow 
+citizens afflicted by the disease and for our own economic benefit.
+  Experts say diabetes costs the U.S. economy $132 billion per year. 
+That's what we spend on telecom in a year. It's the total Gross 
+Domestic Product of Singapore and matches, roughly, what the country 
+spends on all research and development in a year.
+  Mr. Speaker, I know people who suffer from diabetes. So does everyone 
+in this House. Approving a resolution does not do much to alleviate 
+that suffering. But today, it is what we have the opportunity to do. 
+Let us do it.
+  I yield back the balance of my time.
+  Mr. DAVIS of Illinois. Mr. Speaker, I join with my colleagues in 
+supporting the promotion of awareness about diabetes and all of its 
+complications and commend Mr. Payne for his introduction of this 
+resolution.
+  As a member of the House Committee on Oversight and Government 
+Reform, I am pleased to join my colleague in the consideration of H. 
+Con. Res. 211, a bill that supports the goals and ideals of World 
+Diabetes Day.
+  H. Con. Res. 211, which has 54 cosponsors, was introduced by Rep. 
+Donald Payne on September 17, 2007.
+  H. Con. Res. 211 was reported from the Oversight Committee on 
+November 8, 2007, by voice vote.
+  Mr. Speaker, diabetes is a chronic disease that occurs when the 
+pancreas does not produce enough insulin, or when the body cannot 
+effectively use the insulin it produces. Hyperglycemia, which is known 
+as raised blood sugar, over time can lead to serious damage to many 
+parts of the body, especially the nerves and blood vessels.
+  In 1991, the World Health Organization and the International Diabetes 
+Federation established World Diabetes Day. World Diabetes Day is 
+celebrated on November 14th. This day was designated to promote the 
+awareness that every person with diabetes or the risk of acquiring 
+diabetes should receive the best possible education, prevention and 
+care available.
+  Currently, more than 240 million people in the world are living with 
+diabetes. Some analysts believed this number will grow to 340 million 
+within 20 years.
+  Mr. Speaker, I commend my colleague Representative Payne for seeking 
+to support the goals and ideals of World Diabetes Day and urge the 
+swift passage of this resolution.
+  Mr. MANZULLO. Mr. Speaker, today I rise in support of H. Con. Res. 
+211, commemorating World Diabetes Day on November 14, 2007.
+  The search for a cure for diabetes is a cause close to my heart. Both 
+my parents were afflicted with the disease, which now strikes 246 
+million people worldwide. Without early screening, prevention and 
+awareness, this number is expected to rise to 380 million by 2025. In 
+the United States, diabetes is the sixth leading cause of death. Across 
+the world, diabetes is the fourth leading cause of death, with 80 
+percent of diabetes cases now being found in the developing world. The 
+case for diabetes awareness is so compelling that President Bush 
+recently declared November 2007 to be National Diabetes Month. I would 
+like to add his recent remarks on the subject to the Record.
+  It is clear that action must be taken to slow the pace of what can 
+only be described as an epidemic of diabetes. This year, the theme of 
+the World Diabetes Day Campaign focuses on raising awareness of 
+diabetes in children and adolescents. More than 200 children get 
+diabetes every day, making it one of those most chronic diseases of 
+childhood. Additionally, this demographic faces unique challenges when 
+diagnosed with diabetes, as the disease can interfere with the normal 
+developmental tasks of childhood and adolescence, which include 
+succeeding in school and transitioning to adulthood. Through raising 
+awareness, the World Diabetes Day Campaign focuses on improving early 
+screening to catch early incidences of diabetes in children and 
+promoting healthy lifestyles to prevent the onset of Type 2 diabetes.
+  I am proud to lend my support to H. Con. Res. 211. Together we can 
+limit the incidence of this debilitating disease by spreading the 
+message of awareness, treatment and prevention. I urge my colleagues to 
+support this important resolution.
+
+ National Diabetes Month, 2007--A Proclamation by the President of the 
+                        United States of America
+
+       Diabetes is a debilitating disease that affects millions of 
+     Americans of all ages and all walks of life. National 
+     Diabetes Month is an opportunity to raise awareness about 
+     risk factors, prevention, and treatment of this serious 
+     disease.
+       Diabetes is a chronic illness that leaves the body unable 
+     to produce or properly use insulin to maintain healthy blood 
+     glucose levels. The two most common forms of the disease that 
+     affect our citizens are Type 1 and Type 2 diabetes. Type 1 
+     diabetes, once known as juvenile diabetes, is usually 
+     diagnosed in children and young adults who are unable to 
+     produce insulin and require daily medication. Type 2 
+     diabetes, the most common form of the disease, is often 
+     attributed to lifestyle risk factors and can be controlled by 
+     a modified diet, regular physical activity, and medication. 
+     Americans can take steps to control the disease and lower the 
+     risk of complications such as heart disease, stroke, and 
+     kidney disease by maintaining healthy eating and exercise 
+     habits, and consulting with a doctor about diabetes testing.
+       My Administration is committed to providing better care for 
+     people living with diabetes and furthering efforts to find a 
+     cure. We have supported research initiatives and education 
+     programs that encourage healthy living, and we have also 
+     modified Medicare coverage to include diabetes screenings. 
+     This year, the National Institutes of Health estimates that 
+     more than $1 billion will be spent on diabetes research. By 
+     working together, we can help identify problems early, manage 
+     them before they grow worse, and help ensure more Americans 
+     live longer, healthier lives.
+       Throughout National Diabetes Month, we recognize the 
+     medical professionals, scientists, researchers, and all those 
+     whose efforts have made a positive difference in the fight 
+     against diabetes. By raising public awareness, we can help 
+     combat the effects of diabetes in our society and bring hope 
+     to children and families living with this disease.
+       Now, therefore, I, George W. Bush, President of the United 
+     States of America, by virtue of the authority vested in me by 
+     the Constitution and laws of the United States, do hereby 
+     proclaim November 2007 as National Diabetes Month. I call 
+     upon all Americans to learn more about the risk factors and 
+     symptoms associated with diabetes and to observe this month 
+     with appropriate programs and activities.
+       In witness whereof, I have hereunto set my hand this 
+     thirty-first day of October, in the year of our Lord two 
+     thousand seven, and of the Independence of the United States 
+     of America the two hundred and thirty-second.
+  Mr. DAVIS of Illinois. I yield back the balance of my time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from Illinois (Mr. Davis) that the House suspend the rules 
+and agree to the concurrent resolution, H. Con. Res. 211.
+  The question was taken; and (two-thirds being in the affirmative) the 
+rules were suspended and the concurrent resolution was agreed to.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```
