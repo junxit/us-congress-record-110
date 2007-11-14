@@ -1,0 +1,546 @@
+---
+granule: CREC-2007-11-14-pt1-PgS14401
+date: 2007-11-14
+edition: CREC
+section: SENATE
+page: S14401
+citation: 153 Cong. Rec. S14401
+---
+
+# STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS
+
+**Speaking:** Johnson, Tim (J000177) [D-SD], Durbin, Richard J. (D000563) [D-IL], Cantwell, Maria (C000127) [D-WA]
+
+**Measures:** S. 2352, S. 2353, S. 2355
+
+```
+          STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS
+
+      By Mr. JOHNSON (for himself, Mr. Coleman, Mr. Harkin, and Mr. 
+        Menendez):
+  S. 2352. A bill to amend title XVIII of the Social Security Act to 
+provide Medicare beneficiaries greater choice with regard to accessing 
+hearing health services and benefits; to the Committee on Finance.
+  Mr. JOHNSON. Mr. President, I am pleased to introduce the Medicare 
+Hearing Health Care Enhancement Act with my colleagues, Senators 
+Harkin, Coleman, and Menendez. This legislation is the companion bill 
+to legislation introduced in the House by Representative Mike Ross, 
+with a number of cosponsors.
+  This legislation will provide Medicare beneficiaries with the same 
+hearing care options available to veterans and Federal employees, 
+including every member of this body. Under this bill, Medicare 
+beneficiaries who experience hearing problems will have the option of 
+going directly to an audiologist, rather than first visiting a 
+physician. This is the policy for the health care programs administered 
+by the Department of Veterans Affairs and the Office of Personnel 
+Management. Direct access works well for our veterans and for Federal 
+employees, including Members of Congress, and direct access should be 
+available to senior citizens in the Medicare program.
+  More than 31 million Americans have some type of hearing problem, 
+making hearing loss the third most common health problem in the U.S. 
+Many of them are older Americans, and this statistic is fast increasing 
+with the aging of the ``baby boomers.'' Yet half of all hearing 
+impaired persons are under age 65. With 80 to 90 percent of hearing 
+problems not medically or surgically treatable, it seems only 
+reasonable that Medicare patients be allowed to consult with an 
+audiologist without first seeing another health care provider. It is 
+part of regular audiological practice to refer patients for medical 
+management when clinical indicators are present.
+  In 1992, the Department of Veterans Affairs, VA, changed its health 
+care policy to allow for the option of direct access to a licensed 
+audiologist. The VA reports: ``the policy has provided and continues to 
+provide high quality, cost effective, and successful hearing health 
+care to veterans.'' The VA did not experience increased utilization of 
+audiology services due to the policy change and instead found, ``the 
+policy did not increase the number of visits beyond what would be 
+expected in the aging veteran population.''
+  In 2003, the Congress in the Appropriations Conference Report number 
+108-10 recommended that the Center for Medicare and Medicaid Services 
+make this change. We have since learned that CMS does not have the 
+authority to do so under current law. Therefore, I hope that we can all 
+agree that this is a common sense idea whose time has come, and move 
+this legislation forward to enactment.
+  Direct access would facilitate access to hearing care without 
+expanding the scope of practice for audiologists. This legislation will 
+make it easier for Medicare beneficiaries, particularly in rural 
+America, to have the same high quality hearing care provided by the VA 
+and OPM. It is also important to point out that both the Medicare and 
+Medicaid programs now recognize State licensure as the appropriate 
+standard for determining who is a qualified audiologist.
+  This legislation enjoys the support of a large number of 
+organizations including the American Academy of Audiology, the American 
+Speech-Language and Hearing Association, the National Association of 
+the Deaf and the National Rural Health Association. I commend this 
+legislation to the attention of my colleagues and urge them to lend 
+their support by cosponsoring this bill.
+                                 ______
+                                 
+      By Mr. DURBIN:
+  S. 2353. A bill to increase the annual salaries of justices and 
+judges of the United States, and to increase fees for bankruptcy 
+trustees; to the Committee on the Judiciary.
+  Mr. DURBIN. Mr. President, I ask unanimous consent that the text of 
+the bill be printed in the Record.
+  There being no objection, the text of the bill was ordered to be 
+printed in the Record, as follows:
+
+                                S. 2353
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Fair Judicial Compensation 
+     Act of 2007''.
+
+     SEC. 2. JUDICIAL SALARY INCREASE.
+
+       (a) In General.--The annual salaries of the Chief Justice 
+     of the United States, associate justices of the Supreme Court 
+     of the United States, United States circuit judges, United 
+     States district judges, and judges of the United States Court 
+     of International Trade are increased in the amount of 16.5 
+     percent of their respective annual salary rates in effect on 
+     the effective date of this Act, rounded to the nearest $100 
+     (or, if midway between multiples of $100, to the next higher 
+     multiple of $100).
+       (b) Coordination Rule.--If a pay adjustment under 
+     subsection (a) is to be made for an office or position as of 
+     the same date that any other pay adjustment would take effect 
+     for such office or position, the adjustment under this Act 
+     shall be made first.
+       (c) Effective Date.--This section shall take effect on the 
+     first day of the first applicable pay period beginning on or 
+     after the date of enactment of this Act.
+
+     SEC. 3. BANKRUPTCY TRUSTEES.
+
+       Section 330(b)(2) of title 11, United States Code, is 
+     amended, in the undesignated matter following subparagraph 
+     (B), by striking ``$15'' each place that term appears and 
+     inserting ``$55''.
+
+     SEC. 4. AUTHORIZATION OF APPROPRIATIONS.
+
+       There are authorized to be appropriated such sums as may be 
+     necessary to carry out this Act.
+                                 ______
+                                 
+      By Ms. CANTWELL:
+  S. 2355. A bill to amend the National Climate Program Act to enhance 
+the ability of the United States to develop and implement climate 
+change adaptation programs and policies, and for other purposes; to the 
+Committee on Commerce, Science, and Transportation.
+  Ms. CANTWELL. Mr. President, I rise today to introduce the Climate 
+Change Adaptation Act of 2007.
+  Before I describe the merits of this bill, I would like to take a 
+moment to commend many of my colleagues for their ongoing efforts to 
+develop legislative solutions to meet the enormous challenges global 
+warming poses to our Nation and our planet. I feel this bill helps 
+address a somewhat overlooked, but key tool, to tackling this 
+preeminent challenge facing our Nation.
+  I am proud that Washington State is taking the lead on the issue of 
+global climate change. While my State's contribution to global warming 
+is relatively small--because we are fortunate enough to derive about 70 
+percent of our electricity from inexpensive, emissions-free 
+hydropower--global warming threatens to seriously impact our economy.
+  Ironically, one of the primary impacts of global warming on the 
+Pacific Northwest will be to change our rainfall patterns in a way that 
+reduces the amount of water available for hydropower production.
+  And these changes will not only harm electricity generation, they 
+will also impact billions of dollars of economic infrastructure 
+associated with irrigation systems, municipal water supplies, even ski 
+resorts that depend on our historic snowfall patterns.
+  Faced with these possibilities, we must ask several simple questions: 
+What are we doing to prepare for these changes? How are predicted sea 
+level rises being incorporated into shoreline restoration projects, 
+siting of public infrastructure, or disaster response plans, among many 
+other examples? What tools do we need to give Federal, State, and local 
+decisionmakers to take climate change into account on long-term, 
+multibillion-dollar decisions?
+  Unfortunately, we don't have any answers.
+
+[[Page S14402]]
+
+  As we discovered when I held a hearing on ocean acidification as 
+chair of the Oceans, Atmosphere, Fisheries and Coast Guard subcommittee 
+last May, our Government is ill-equipped to plan for the consequences 
+of global climate change. We simply lack the tools to develop the 
+strategies we need to adapt.
+  In August, the Government Accountability Office found that the 
+Federal government is not providing Federal agencies with the proper 
+tools or policy mandates to take climate change impacts into account in 
+carrying out their responsibilities to manage public resources.
+  In September, the National Academy of Sciences concluded there is a 
+tremendous need to improve the delivery of climate change information 
+to Federal, regional, and local levels so they can take climate change 
+impacts into account in planning and managing resources.
+  The reality is that even if we were somehow able to stop using fossil 
+fuels today, a certain degree of warming and ocean acidification will 
+still occur over the next 2 or 3 decades.
+  While my top priority is to move our Nation to a clean energy system, 
+we must face the fact that global warming is happening already, and it 
+is only going to get worse.
+  That is why I am pleased today to be introducing the Climate Change 
+Adaptation Act--a bill to ensure that our government plans for the 
+changes that global warming will inevitably bring. This bill will 
+require the President to develop a national strategy for addressing the 
+impacts that climate change will have on our natural resources. It will 
+also specifically require NOAA to conduct vulnerability assessments on 
+the impacts of climate change on coastal and ocean resources, and to 
+prepare adaptation plans for those resources.
+  Planning for the future isn't just common sense--it's responsible 
+government.
+  This bill is complementary to several bills under consideration by 
+the Commerce Committee on which I serve, including the Kerry-Snowe bill 
+that was under discussion at a Commerce Committee hearing earlier 
+today. Their bill contains many provisions I believe are vitally 
+important--including language I authored with Senator Collins on the 
+need for a program to study the threat of abrupt climate change. I'm 
+also proud to work with Senator Lautenberg on legislation combating 
+ocean acidification.
+  I look forward to working with my colleagues to move all these 
+critical bills out of the committee and through the Senate in the 
+coming weeks.
+  Mr. President, I ask unanimous consent that the full text of the bill 
+be printed in the Record.
+  There being no objection, the text of the bill was ordered to be 
+printed in the Record, as follows:
+
+                                S. 2355
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Climate Change Adaptation 
+     Act''.
+
+     SEC. 2. AMENDMENT OF NATIONAL CLIMATE PROGRAM ACT.
+
+       Except as otherwise expressly provided, whenever in this 
+     title an amendment or repeal is expressed in terms of an 
+     amendment to, or repeal of, a section or other provision, the 
+     reference shall be considered to be made to a section or 
+     other provision of the National Climate Program Act (15 
+     U.S.C. 2901 et seq.).
+
+     SEC. 3. FINDINGS.
+
+       Section 2 (15 U.S.C. 2601) is amended to read as follows:
+
+     ``SEC. 2. FINDINGS.
+
+       ``The Congress finds that--
+       ``(1) weather, climate change, and climate variability 
+     affect public safety, environmental services and security, 
+     human health, agriculture, energy use, water resources, and 
+     other factors vital to national security and human welfare;
+       ``(2) the present rate of advance of national efforts in 
+     research and development and the application of such advances 
+     is inadequate to meet the challenges posed by observed and 
+     projected rates of climate change and climate variability and 
+     the increasing demand for information to guide planning and 
+     response across all sectors;
+       ``(3) the United States lacks adequate research, 
+     infrastructure, and coordinated outreach and communication 
+     mechanisms to meet national climate monitoring, prediction, 
+     and decision support needs for adapting to and mitigating the 
+     impacts of climate change and climate variability;
+       ``(4) information regarding climate change and climate 
+     variability is not being fully disseminated or used, and 
+     Federal efforts have given insufficient attention to 
+     assessing and applying this information;
+       ``(5) climate change and climate variability occur on a 
+     global basis making international cooperation essential for 
+     the purpose of sharing the benefits and costs of a global 
+     effort to understand and communicate these changes;
+       ``(6) recent scientific reports by the Intergovernmental 
+     Panel on Climate Change conclusively found that climate 
+     change is occurring, and that impacts from climate change can 
+     be expected in even shorter time periods than had been 
+     previously predicted;
+       ``(7) the Panel found that the resilience of many 
+     ecosystems is likely to be exceeded this century by an 
+     unprecedented combination of climate change, associated 
+     disturbances such as flooding and drought, and other global 
+     change drivers such as land-use change;
+       ``(8) according to the Panel, approximately 20 to 30 
+     percent of plant and animal species assessed so far are 
+     likely to be at increased risk of extinction if increases in 
+     global average temperature exceed 1.5 to 2.5 degrees Celsius;
+       ``(9) the Panel also found that the progressive 
+     acidification of oceans due to increasing atmospheric carbon 
+     dioxide is expected to have negative impacts on marine shell-
+     forming organisms, such as corals, and their dependent 
+     species;
+       ``(10) the Panel found that coasts will be exposed to 
+     increasing risks, including coastal erosion, over coming 
+     decades due to climate change and sea-level rise, and that 
+     adaptation costs for vulnerable coasts are much less than the 
+     costs of inaction;
+       ``(11) in its September, 2007, study entitled Evaluating 
+     Progress of the U.S. Climate Change Science Program: Methods 
+     and Preliminary Results, the National Academy of Sciences 
+     concluded that there is a tremendous need to improve the 
+     delivery of information to decision makers at the Federal, 
+     regional, and local levels on climate change impacts and to 
+     take such impacts into account in planning and in managing 
+     resources;
+       ``(12) States and local communities may need Federal 
+     assistance in developing and implementing strategies to 
+     address the impacts of climate change;
+       ``(13) in its August, 2007, report entitled Climate Change: 
+     Agencies Should Develop Guidance for Addressing the Effects 
+     on Federal Land and Water Resources, GAO-07-863, the 
+     Government Accountability Office found that the Federal 
+     government is not providing the National Oceanic and 
+     Atmospheric Administration and other Federal agencies that 
+     are responsible for managing natural resources with the 
+     proper tools or policy mandates to take the impacts of 
+     climate change into account in carrying out their 
+     responsibilities to manage public resources;
+       ``(14) the National Oceanic and Atmospheric Administration, 
+     which plays a leading role in the Federal government's Global 
+     Change Research Program, has a key role to play both in 
+     predicting impacts of climate change on natural resources and 
+     in improving the delivery of information critical to 
+     adaptation and management to end users; and
+       ``(15) the National Oceanic and Atmospheric Administration 
+     has a key role to play in addressing the impacts of climate 
+     change on our Nation's coastal areas and ocean resources.''.
+
+     SEC. 4. DEFINITIONS.
+
+       Section 4 (15 U.S.C. 2903) is amended by striking 
+     paragraphs (1) and (2) and redesignating paragraphs (3) and 
+     (4) as paragraphs (1) and (2).
+
+     SEC. 5. NATIONAL CLIMATE PROGRAM ELEMENTS.
+
+       Section 5 (15 U.S.C. 2904) is amended--
+       (1) by striking ``subsection (d)(9);'' in subsection (b)(1) 
+     and inserting ``section 6;'';
+       (2) by striking subsections (c), (e), (f), and (g); and
+       (3) by striking subsection (d) and inserting the following:
+       ``(c) Program Elements.--
+       ``(1) In general.--The Program shall include--
+       ``(1) a strategic plan to address the impacts of climate 
+     change within the United States; and
+       ``(2) a National Climate Service to be established within 
+     the National Oceanic and Atmospheric Administration.''.
+
+     SEC. 6. NATIONAL CLIMATE STRATEGY.
+
+       The Act is amended by striking sections 6 through 9 (15 
+     U.S.C. 2905 et seq.) and inserting the following:
+
+     ``SEC. 6. NATIONAL STRATEGIC PLAN FOR CLIMATE CHANGE 
+                   ADAPTATION.
+
+       ``(a) In General.--Not later than 2 years after the date of 
+     enactment of the Climate Change Adaptation Act, the President 
+     shall provide to the Congress a 5-year national strategic 
+     plan to address the impacts of climate change within the 
+     United States, to implement such strategy for Federally-
+     managed resources and actions, and to provide information to 
+     and coordinate with State and local governments and 
+     nongovernmental entities to support similar efforts with 
+     respect to non-Federal natural resources. The President shall 
+     provide a mechanism for consulting with States and local 
+     governments, the private sector, universities, and other 
+     nongovernmental entities in developing the plan. The plan 
+     shall be updated at least every 5 years.
+       ``(b) Contents of Plan.--The plan shall, at a minimum--
+       ``(1) identify existing Federal requirements, protocols, 
+     and capabilities for addressing climate change impacts on 
+     Federally managed resources and actions;
+
+[[Page S14403]]
+
+       ``(2) identify measures to improve such capabilities and 
+     the utilization of such capabilities;
+       ``(3) include protocols to integrate climate change impacts 
+     into Federal agency actions and policies, consistent with 
+     existing authorities;
+       ``(4) address vulnerabilities and priorities identified 
+     through the assessments carried out under the Global Change 
+     Research Act of 1990 and this Act;
+       ``(5) establish a mechanism for the exchange of information 
+     related to addressing the impacts of climate change with, and 
+     provide technical assistance to, State and local governments 
+     and nongovernmental entities;
+       ``(6) develop partnerships with State and local governments 
+     and nongovernmental entities to support and coordinate 
+     implementation of the plan;
+       ``(7) include implementation and funding strategies for 
+     short-term and long-term actions that may be taken at the 
+     national, regional, State, and local level;
+       ``(8) establish a process to develop more detailed agency 
+     and department- specific plans;
+       ``(9) identify opportunities to utilize remote sensing and 
+     other geospatial technologies to improve planning for 
+     adaptation to climate change impacts; and
+       ``(10) identify existing legal authorities and additional 
+     authorities necessary to implement the plan.
+       ``(c) Agency-level Strategies.--
+       ``(1) Agency plans.--Each department and agency of the 
+     Executive Branch shall develop a detailed plan, based on the 
+     national plan, for addressing climate change impacts with 
+     respect to such department or agencies policies and actions, 
+     within 1 year after the date that the plan is submitted under 
+     subsection (b) and provide such plan to Congress.
+       ``(2) Interim activities.--Nothing in this section shall be 
+     understood to prevent any Federal agency or department to 
+     take climate change impacts into account, consistent with its 
+     existing authorities, until the plans are provided to 
+     Congress and steps to implement such plans are taken.
+       ``(d) Coordination.--The President shall ensure that the 
+     mechanism to provide information related to addressing the 
+     impacts of climate change to State and local governments and 
+     nongovernmental entities is appropriately coordinated or 
+     integrated with existing programs that provide similar 
+     information on climate change predictions.
+       ``(e) Relationship to Other Authorities.--Nothing in this 
+     section shall supersede any Federal authority in effect on 
+     the date of enactment of the Climate Change Adaptation Act.
+       ``(f) Authorization of Appropriations.--There are 
+     authorized to be appropriated for each of fiscal years 2009 
+     through 2013 $10,000,000 to carry out this section.
+
+     ``SEC. 7. OCEAN AND COASTAL VULNERABILITY AND ADAPTATION.
+
+       ``(a) Coastal and Ocean Vulnerability.--
+       ``(1) In general.--Within 2 years after the date of 
+     enactment of the Climate Change Adaptation Act, the Secretary 
+     of Commerce shall, in consultation with the appropriate 
+     Federal, State, and local governmental entities, conduct 
+     regional assessments of the vulnerability of coastal and 
+     ocean areas and resources to hazards associated with climate 
+     change, climate variability, and ocean acidification 
+     including--
+       ``(A) sea level rise;
+       ``(B) fluctuation of Great Lakes water levels;
+       ``(C) increases in severe weather events;
+       ``(D) storm surge;
+       ``(E) rainfall;
+       ``(F) flooding and inundation;
+       ``(G) changes in sea ice;
+       ``(H) changes in ocean currents impacting global heat 
+     transfer;
+       ``(I) increased siltation due to coastal erosion;
+       ``(J) shifts in the hydrological cycle;
+       ``(K) natural hazards, including tsunami, drought, flood, 
+     and fire;
+       ``(L) coral reef bleaching; and
+       ``(M) alteration of ecological communities, including at 
+     the ecosystem or watershed levels,
+       ``(2) Updates.--The Secretary shall update such assessments 
+     at least once every 5 years.
+       ``(3) Regional coastal and ocean assessments.--In preparing 
+     the regional coastal assessments, the Secretary shall take 
+     into account the information and assessments being developed 
+     pursuant to the Global Change Research Program. The regional 
+     assessments shall include an evaluation of--
+       ``(A) physical, biological, and ecological impacts, such as 
+     coastal erosion, flooding and loss of estuarine habitat, 
+     saltwater intrusion of aquifers and saltwater encroachment, 
+     impacts on food web distribution, species migration, species 
+     abundance, and changes in marine pathogens and diseases;
+       ``(B) social impacts associated with threats to and 
+     potential losses of housing, communities, and infrastructure; 
+     and
+       ``(C) economic impacts on local, State, and regional 
+     economies, including the impact on abundance or distribution 
+     of economically important living marine resources.
+       ``(b) Coastal and Ocean Adaptation Plan.--The Secretary 
+     shall, within 3 years after the date of enactment of the 
+     Climate Change Adaptation Act, submit to the Congress a 
+     national coastal and ocean adaptation plan, composed of 
+     individual regional adaptation plans that recommend targets 
+     and strategies to address coastal and ocean impacts 
+     associated with climate change, ocean acidification, sea 
+     level rise, and climate variability. The plan shall be 
+     developed with the participation of other Federal, State, and 
+     local government agencies that will be critical in the 
+     implementation of the plan at the State and local levels and 
+     shall take into account recommendations of the National 
+     Science Board in its January 12, 2007, report entitled 
+     Hurricane Warning: The Critical Need for a National Hurricane 
+     Research Initiative and other relevant studies, and not 
+     duplicate existing Federal and State hazard planning 
+     requirements. The Plan shall recommend both short- and long-
+     term adaptation strategies and shall include recommendations 
+     regarding--
+       ``(1) Federal flood insurance program modifications;
+       ``(2) areas that have been identified as high risk through 
+     mapping and assessment;
+       ``(3) mitigation incentives such as rolling easements, 
+     strategic retreat, State or Federal acquisition in fee simple 
+     or other interest in land, construction standards, and 
+     zoning;
+       ``(4) land and property owner education;
+       ``(5) economic planning for small communities dependent 
+     upon affected coastal and ocean resources, including 
+     fisheries;
+       ``(6) coastal hazards protocols to reduce the risk of 
+     damage to lives and property, and a process for evaluating 
+     the implementation of such protocols;
+       ``(7) strategies to address impacts on the most vulnerable 
+     living marine resources;
+       ``(8) proposals to integrate measures into the actions and 
+     policies of the National Oceanic and Atmospheric 
+     Administration;
+       ``(9) a plan for additional research and development of 
+     technologies and capabilities to address such impacts;
+       ``(10) plans to pursue bilateral and multilateral 
+     agreements necessary to effectively address such impacts;
+       ``(11) partnerships with States and nongovernmental 
+     organizations;
+       ``(12) methods to mitigate the impacts identified, 
+     including habitat restoration measures; and
+       ``(12) funding requirements and mechanisms.
+       ``(c) Technical Planning Assistance.--The Secretary, 
+     through the National Oceanic and Atmospheric Administration, 
+     shall establish a coordinated program to provide technical 
+     planning assistance and products to coastal States and local 
+     governments as they develop and implement adaptation or 
+     mitigation strategies and plans. Products, information, tools 
+     and technical expertise generated from the development of the 
+     regional coastal and ocean assessments and the coastal and 
+     ocean adaptation plans will be made available to coastal 
+     States for the purposes of developing their own State and 
+     local plans.
+       ``(d) Coastal and Ocean Adaptation Grants.--
+       ``(1) In general.--The Secretary shall provide grants of 
+     financial assistance to coastal States with federally 
+     approved coastal zone management programs to develop and 
+     begin implementing coastal and ocean adaptation programs.
+       ``(2) Allocation of funds.--The Secretary shall distribute 
+     grant funds under paragraph (1) among coastal States in 
+     accordance with the formula established under section 306(c) 
+     of the Coastal Zone Management Act of 1972 (16 U.S.C. 
+     1455(c)), adjusted in consultation with the States as 
+     necessary to provide assistance to particularly vulnerable 
+     coastlines.
+       ``(3) Matching requirement.--The Secretary shall make 
+     grants under paragraph (1) on a matching basis under which 
+     the ratio of Federal to State funds is--
+       ``(A) 4 to 1 in the first fiscal year;
+       ``(B) 2.3 to 1 in the second fiscal year;
+       ``(C) 2 to 1 in the third fiscal year; and
+       ``(D) 1 to 1 thereafter.
+       (e) Authorization of Appropriations.--There are authorized 
+     to be appropriated to the Under Secretary of Commerce for 
+     Oceans and Atmosphere $35,000,000 for each of fiscal years 
+     2009 through 2013 to carry out the provisions of this 
+     section, of which $25,000,000 shall be available for grants 
+     under subsection (d) for each of such fiscal years. Not more 
+     than 75 percent of the amount available for grants under 
+     subsection (d) for any fiscal year may be used for grants 
+     relating to coastal impacts.''.
+
+                          ____________________
+```

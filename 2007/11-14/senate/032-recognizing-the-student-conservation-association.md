@@ -1,0 +1,67 @@
+---
+granule: CREC-2007-11-14-pt1-PgS14395
+date: 2007-11-14
+edition: CREC
+section: SENATE
+page: S14395
+citation: 153 Cong. Rec. S14395
+---
+
+# RECOGNIZING THE STUDENT CONSERVATION ASSOCIATION
+
+**Speaking:** Gregg, Judd (G000445) [R-NH]
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+            RECOGNIZING THE STUDENT CONSERVATION ASSOCIATION
+
+● Mr. GREGG. Mr. President, today I honor the 50th anniversary 
+of the Student Conservation Association. Over these last five decades, 
+the SCA has led the way in promoting the importance of conservation 
+service and stewardship. Its staff and supporters have made an 
+extraordinary commitment to instilling this ethic in our country's 
+young people. While it is headquartered in my home State of New 
+Hampshire, the SCA's reach and influence go far beyond the borders of 
+New Hampshire. Since its founding in 1957 by Elizabeth C. Titus Putnam, 
+nearly 50,000 SCA volunteers have worked to protect the critical 
+natural habitats and threatened wildlife in our country's parks, 
+forests, and urban green spaces. Its members can be found in all 50 
+States, as well as Canada, Mexico, Brazil, Germany and Latvia. In 2006 
+alone, 4,000 volunteers logged 1.6 million service hours at 511 
+separate sites. In past years, they worked to restore the Everglades 
+following the devastation Hurricane Hugo left behind and to repair the 
+damage to Yellowstone National Park following the fires which damaged 
+that park in 1988. This year, they were chosen to lead the Northwest 
+Recovery at Mount Ranier and other parks in that region of the United 
+States following the floods of 2006. It is, in fact, the largest 
+conservation service program in the country.
+  Those numbers and facts are impressive, but they do not fully convey 
+the central role this organization plays in strengthening the quality 
+of life in the United States. The thousands of volunteers and interns 
+clearly have relished meeting the obligation we all have to protecting 
+the vital natural areas in our country. Their unique dedication and 
+enthusiasm have made them great role models and leaders. These 
+qualities explain why such Federal agencies as the Bureau of Land 
+Management, U.S. Forest Service, U.S. Fish and Wildlife Service, and 
+the U.S. Armed Forces all have partnered with the SCA and are the 
+reason the White House, National Wildlife Federation, and the National 
+Park Service have recognized the SCA's achievements.
+  The prime architect behind the SCA is Elizabeth Titus Putnam, and I 
+am especially pleased to honor her. It is a great reflection on her 
+character that the vision she developed 50 years ago became a reality. 
+Her energy and passion for environmental protection have touched 
+countless people and demonstrate why the SCA continues to be an 
+effective and vibrant organization.
+  For these reasons, I am proud to be a member of the 50th Anniversary 
+Honorary Committee. I hope all the alumni and current volunteers will 
+long remember the deep impact they have made on communities from Maine 
+to Hawaii and from Alaska to Florida. Happy Birthday to the Student 
+Conservation Association and my best wishes for continued 
+success.●
+
+                          ____________________
+```
