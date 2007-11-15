@@ -1,0 +1,47 @@
+---
+granule: CREC-2007-11-15-pt1-PgH14067-3
+date: 2007-11-15
+edition: CREC
+section: HOUSE
+page: H14067
+citation: 153 Cong. Rec. H14067
+---
+
+# IN GRATEFUL APPRECIATION TO DEAN AGUILLEN
+
+**Speaking:** Gonzalez, Charles A. (G000544) [D-TX]
+
+```
+               IN GRATEFUL APPRECIATION TO DEAN AGUILLEN
+
+  (Mr. GONZALEZ asked and was given permission to address the House for 
+1 minute.)
+  Mr. GONZALEZ. Mr. Speaker, I have known Dean for a number of years, 
+and we share a passion for the Spurs and he's homegrown, San Antonio.
+  And Dean will tell you the story that his interest in politics was a 
+result of watching my father, the late Henry B. Gonzalez, on Sundays 
+when Dean was just a little boy. Now, I remember watching Dad. I was a 
+lot older. But the thing was they didn't exactly give my father prime 
+time. It was very early on Sunday mornings. And the reason that many of 
+the children in San Antonio watched my father was that he came on right 
+before the cartoons.
+  So, Dean, I'm on to you. I know exactly why you were watching the 
+television, and I'm glad that you watched Dad before the cartoons.
+  Dean had the hardest job of anyone on Speaker Pelosi's staff. Every 
+Thursday at 11:30, he would report to the Congressional Hispanic Caucus 
+weekly luncheon meeting, at which time we were able to express 
+ourselves and say many things that we couldn't say to the Speaker. We 
+are confident that he conveyed some of it in more diplomatic terms.
+  But, seriously, I think he took our message back to the Speaker. He 
+was the conduit. The Speaker can't be in 200 places at one time, though 
+we wish she could. So Dean was a very valuable player, obviously, in 
+this whole organization and made, I believe, the Speaker's Office much 
+more responsive to the needs of so many different Members of our very, 
+very diverse caucus.
+  And for that, Dean, we extend our grateful appreciation. We wish you 
+well, but we have a sense that we are going to be seeing you, of 
+course, and I am definitely going to see you when the Spurs are in the 
+championship round again.
+
+                          ____________________
+```

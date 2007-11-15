@@ -1,0 +1,17 @@
+---
+granule: CREC-2007-11-15-pt1-PgH14079
+date: 2007-11-15
+edition: CREC
+section: HOUSE
+page: H14079
+citation: 153 Cong. Rec. H14079
+---
+
+# CORRECTION TO THE CONGRESSIONAL RECORD OF WEDNESDAY, NOVEMBER 14, 2007, AT PAGE H13937
+
+```
+CORRECTION TO THE CONGRESSIONAL RECORD OF WEDNESDAY, NOVEMBER 14, 2007, 
+AT PAGE H13937
+
+                          ____________________
+```

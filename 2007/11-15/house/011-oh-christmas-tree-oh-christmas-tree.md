@@ -1,0 +1,43 @@
+---
+granule: CREC-2007-11-15-pt1-PgH13962-2
+date: 2007-11-15
+edition: CREC
+section: HOUSE
+page: H13962
+citation: 153 Cong. Rec. H13962
+---
+
+# OH, CHRISTMAS TREE, OH, CHRISTMAS TREE
+
+**Speaking:** Poe, Ted (P000592) [R-TX]
+
+```
+                 OH, CHRISTMAS TREE, OH, CHRISTMAS TREE
+
+  (Mr. POE asked and was given permission to address the House for 1 
+minute.)
+  Mr. POE. Mr. Speaker, A Tree, A Tree, but don't call it a Christmas 
+Tree. Let me explain.
+  Since forever, Christmas trees have been called Christmas trees. 
+Everyone in the world knows what a Christmas tree is and the traditions 
+that accompany them.
+  It is almost that time of year for most homes throughout the fruited 
+plain to have some type of tree in them. Even Charlie Brown has a 
+Christmas tree. But Lowe's Home Improvement stores that sell trees 
+won't call them Christmas trees, but now they call them ``family 
+trees'' so as not, I suspect, to offend non-Christians. Of course, it 
+is okay in our culture to offend Christians because they are just 
+supposed to turn the other cheek. However, calling them family trees 
+may offend single individuals who don't have families. So should the 
+trees be called family-individual trees?
+  Where is this nonsense of political correctness going to end? Lowe's 
+should change its policy. This is the same silliness that caused some 
+retailers last year to refuse to put up signs saying ``Merry 
+Christmas,'' but instead said ``Happy Holidays.''
+  It is tradition at the Poe house on Thanksgiving that we buy and 
+decorate a Christmas tree. But we won't buy one at Lowe's because, you 
+see, they don't sell Christmas trees.
+  And that's just the way it is.
+
+                          ____________________
+```
