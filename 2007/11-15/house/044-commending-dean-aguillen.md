@@ -1,0 +1,57 @@
+---
+granule: CRECB-2007-pt23-Pg31796-2
+date: 2007-11-15
+edition: CRECB
+section: HOUSE
+page: 31796
+---
+
+# COMMENDING DEAN AGUILLEN
+
+```
+                              {time}  2145
+                        COMMENDING DEAN AGUILLEN
+
+  (Mr. HODES asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. HODES. Mr. Speaker, I rise today to commend Dean Aguillen, an 
+important member of this body's staff, on the occasion of his 
+transition. He's moving on from his job here.
+  Dean is the Director of Member Services for Speaker  Nancy Pelosi, 
+and there are a number of new Members here tonight, and as we all 
+remember, Dean was one of the first, if not the first, members of the 
+staff of the Speaker whom we had the pleasure to deal with.
+  We arrived here for our orientation, quite disoriented and needing a 
+lot of orientation; and we found Dean to be a calm, knowledgeable 
+mentor. He was a guide, he was kind, he was compassionate, and he was 
+smart.
+  As I began to help organize the Democratic new Members into what 
+would become the class of 2006, it was Dean who was the go-to guy for 
+that effort. He is a consummate professional of integrity, dedication, 
+kindness, and wisdom. And we wish him well in his new life. We will 
+miss him.
+  Dean, thank you very much.
+  Mr. Speaker, I now yield to the gentleman from Vermont (Mr. Welch).
+  Mr. WELCH. This may well, Mr. Speaker, turn into a bit of a pile-on. 
+There were a lot of new Members in the class, and Dean Aguillen was the 
+person that greeted us. And if there was one person that we met who 
+seemed to have worked harder than the Speaker, it was Dean.
+  And I remember every single one of us, as new Members, being anxious 
+about what our place was going to be, how to find our way. We were very 
+anxious about committee assignments, about how you become an effective 
+and contributing Member of the House. And, Dean, you were terrific in 
+just giving us calm advice, getting us together to work together, 
+giving us some reassurance that we needed as new Members of Congress, 
+that, in fact, it wasn't an accident that we were elected, and helped 
+all of us find our way. And you've been the same way all of the time 
+that we have been here.
+  In politics so much of the interactions that we have are 
+transactional, and all of us all of the time are trying to make them a 
+bit more than that. And, Dean, you really helped provide the glue that 
+made this class such a memorable experience for all of us who are 
+Members of it.
+  I thank you for the wonderful contribution you made to me and to all 
+of us in our entry into the United States Congress.
+
+                          ____________________
+```

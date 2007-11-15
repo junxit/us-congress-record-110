@@ -1,0 +1,37 @@
+---
+granule: CRECB-2007-pt23-Pg31684-8
+date: 2007-11-15
+edition: CRECB
+section: HOUSE
+page: 31684
+---
+
+# PRESIDENT ``NO''
+
+```
+                            PRESIDENT ``NO''
+
+  (Mr. BUTTERFIELD asked and was given permission to address the House 
+for 1 minute.)
+  Mr. BUTTERFIELD. Mr. Speaker, this Democratic Congress was elected to 
+take our Nation in a new direction. We have worked to make meaningful 
+changes for American families by passing fiscally responsible 
+appropriations bills that fund priorities here at home, priorities 
+neglected by the President and the previous Congresses. But every step 
+of the way, President Bush has stood as a roadblock to the progress 
+Americans demanded.
+  For example, House Democrats worked in a bipartisan way to pass 
+legislation authorizing the popular Children's Health Insurance 
+Program, but the President used his veto pen to say ``no'' to providing 
+health care to 10 million children. We passed the vital infrastructure 
+bill, known as WRDA, which authorizes critical projects to protect 
+communities across the country from natural disasters. The President 
+again said ``no.'' But, fortunately, our Republican colleagues joined 
+us in overriding the veto.
+  Mr. Speaker, now President ``No'' has vetoed yet another important 
+bill that invests in labor, health, and education priorities for our 
+country. It is again time for House Republicans to stand with us in 
+supporting this bipartisan legislation opposing yet another veto.
+
+                          ____________________
+```
