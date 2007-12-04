@@ -1,0 +1,323 @@
+---
+granule: CRECB-2007-pt23-Pg32061-3
+date: 2007-12-04
+edition: CRECB
+section: SENATE
+page: 32061
+---
+
+# MOTION TO GO TO CONFERENCE ON H.R. 2082, INTELLIGENCE AUTHORIZATION ACT FOR FISCAL YEAR 2008
+
+```
+MOTION TO GO TO CONFERENCE ON H.R. 2082, INTELLIGENCE AUTHORIZATION ACT 
+                          FOR FISCAL YEAR 2008
+
+  Mr. REYES. Madam Speaker, pursuant to clause 1 of rule XXII and by 
+direction of the Permanent Select Committee on Intelligence, I move to 
+take from the Speaker's table the bill (H.R. 2082) to authorize 
+appropriations for fiscal year 2008 for intelligence and intelligence-
+related activities of the United States Government, the Community 
+Management Account, and the Central Intelligence Agency Retirement and 
+Disability System, and for other purposes, with a Senate amendment 
+thereto, disagree to the Senate amendment, and agree to the conference 
+asked by the Senate.
+  The Clerk read the title of the bill.
+  The motion was agreed to.
+  A motion to reconsider was laid on the table.
+
+
+               Motion to Instruct Offered by Mr. Hoekstra
+
+  Mr. HOEKSTRA. Madam Speaker, I offer a motion to instruct conferees.
+  The Clerk read as follows:
+
+       Mr. Hoekstra moves that the managers on the part of the 
+     House at the conference on the disagreeing votes of the two 
+     Houses on the Senate amendment to the bill H.R. 2082 be 
+     instructed, to the maximum extent possible within the scope 
+     of the conference, to--
+       (1) eliminate any House or Senate provisions providing for 
+     earmarks as defined in clause 9(d) of rule XXI of the Rules 
+     of the House of Representatives; and
+       (2) insist on provisions authorizing the maximum level of 
+     funding permissible for human intelligence collection 
+     activities.
+
+  The SPEAKER pro tempore. Pursuant to clause 7 of rule XXII, the 
+gentleman from Michigan (Mr. Hoekstra) and the gentleman from Texas 
+(Mr. Reyes) each will control 30 minutes.
+  The Chair recognizes the gentleman from Michigan.
+  Mr. HOEKSTRA. Madam Speaker, I yield myself such time as I may 
+consume.
+  Madam Speaker, this motion to instruct is about priorities. America 
+continues to face threats. We are engaged in a global struggle against 
+radical jihadists. For a time of war, for a time of threats like this, 
+the priorities of portions of this intelligence bill are completely 
+misplaced in critical areas.
+  The motion to instruct would make our priorities clearer by 
+eliminating provisions providing for earmarks and by ensuring the 
+maximum level of funding for increasing human intelligence collection.
+  Our intelligence programs should be based on only one primary 
+consideration: what best ensures that the intelligence community is 
+able to do its job in the best interest of the national security of the 
+United States.
+  This motion would ensure that we are appropriating and authorizing 
+funding on a bipartisan basis to critical human intelligence programs 
+based on the merit of these programs and the intelligence we learn from 
+them.
+  The unclassified National Intelligence Estimate's key judgments 
+released publicly just yesterday illustrate how important intelligence 
+gathering is to our national security. As we take a look at where we 
+want to put our priorities, it is clear from what we have learned and 
+what we understand in this committee the importance of putting 
+resources, the necessary resources on human intelligence, and to remove 
+them from earmarks, Members' pet projects, which don't necessarily 
+always go through the rigorous process necessary to ensure that the 
+funding for these projects and these programs is appropriate.
+  I encourage my colleagues to vote for this motion to instruct to make 
+sure that we put the resources where they will make maximum benefit to 
+the intelligence community.
+  Madam Speaker, I reserve the balance of my time.
+  Mr. REYES. Madam Speaker, I rise in opposition to the motion to 
+instruct, and I yield myself such time as I may consume.
+  Madam Speaker, this motion is not about policy. It is not even about 
+priorities; it is about politics. This bill that we passed, this bill 
+that passed the House, the bill we are talking about tonight, is 
+legislation that sets unprecedented levels of commitment for our 
+intelligence community, to the professionals who are charged with 
+keeping this country safe. It sets the priorities for human 
+intelligence. It sets record levels and expenditures from the House so 
+that those professionals that are charged with keeping us safe, keeping 
+this Nation secure, have the necessary resources to do that job.
+  This legislation also prioritizes the issue of diversifying the 
+intelligence workforce. This legislation protects this country. This 
+legislation prioritizes those issues that are vitally important that we 
+pass here tonight.
+  So for those reasons and because for the first time in history we 
+have had care and process with this legislation, setting record levels 
+of expenditures
+
+[[Page 32062]]
+
+for our intelligence community, I urge all my colleagues to vote ``no'' 
+on the motion.
+  Madam Speaker, I reserve the balance of my time.
+  Mr. HOEKSTRA. Madam Speaker, I yield myself such time as I may 
+consume.
+  Madam Speaker, this is about priorities. It is about priorities in 
+terms of allocating dollars to those programs which the intelligence 
+community and the committee itself has taken a look at and thoroughly 
+debated and thoroughly gone through and said this is where the money 
+needs to be spent versus putting money into Members' projects.
+  This is not about a project for a school back home or things that we 
+see in some of the other appropriations bills. These are national 
+security, intelligence priority projects; and putting earmarks into 
+this bill is something that we think is inappropriate, especially as we 
+have gone through that process, at least for one of these, where the 
+committee didn't go through a process where it went through the 
+committee and wasn't identified as an earmark and we get to the floor 
+and it is an earmark and it is for a significant amount of money and it 
+is for programs that people have taken a look at and said: this is not 
+a necessary program; and as a matter of fact, this is duplicative of 
+other things that are already being done in the community or being done 
+in the Federal Government. It is saying, no, we are not doing these 
+earmarks, especially for those types of redundant and wasteful 
+government spending.
+  It is important that as we focus on the intelligence community, that 
+we spend the dollars where it makes the most sense. As we take a look 
+at some of the earmarks in this bill, it is clear it is not the most 
+effective way to spend taxpayer money in an area that is critical to 
+the safety and the security of the American people.
+  It is why we have put into this motion to instruct to take earmarks 
+out. We are going to go to conference, and we are encouraging that on 
+the House and Senate side both that we bring a bill that is free of 
+earmarks to the House and the Senate floor when this conference report 
+comes out of a conference committee. We think that that sets an 
+important principle and an important precedent for the intelligence 
+bill to have a bill that is free from earmarks.
+  Madam Speaker, I reserve the balance of my time.
+  Mr. REYES. Madam Speaker, I reserve the balance of my time.
+  Mr. HOEKSTRA. Madam Speaker, I yield such time as he may consume to 
+the gentleman from Texas (Mr. Thornberry), a member of the committee.
+  Mr. THORNBERRY. Madam Speaker, I agree with the chairman, there are 
+many good things in this bill. This motion to instruct raises two 
+issues. One is that human intelligence is very important, and the 
+motion to instruct would insist on the provisions authorizing the 
+maximum level of funding permissible for human intelligence collection 
+activities.
+  Madam Speaker, gathering intelligence through human collection is in 
+many ways classic intelligence work, but it is more important than ever 
+in an age of terrorism where a very small number of individuals can get 
+together and can do great damage.
+  So to find out about such a group, much less to find out what their 
+intentions and capabilities may be, we require human intelligence. 
+Technical collection is very, very important, and we have lots of 
+debates on this floor about one particular aspect of that. But the rest 
+of the story is war threats are moving underground and in places where 
+technical collection is difficult. And so human intelligence which 
+doesn't just spring overnight, which takes months, if not years, to 
+develop, is absolutely crucial today in the fight against radical 
+Islamic terrorists and tomorrow against all sorts of threats.
+  This motion to instruct says we have to insist on the maximum funding 
+level today so the country will be better prepared tomorrow.
+  But the second thing that this motion to instruct does is it tries to 
+strengthen, I would say, the integrity and the credibility of what this 
+committee and this Congress do.
+  Intelligence is really the only part of government that operates 
+outside of the scrutiny and oversight from the press and other people 
+and institutions outside of the government. So that puts more 
+responsibility on our shoulders, on this institution, on the Committee 
+on Intelligence, and on the products we produce.
+  So if a bill that this committee or this Congress produces has 
+specific earmarks for specific projects in specific Members' districts, 
+when you don't have that outside scrutiny, I think it calls our 
+credibility into question.
+
+                              {time}  1745
+
+  And it clearly does so because we have had a history, unfortunately, 
+in this institution of a problem in that area.
+  So this year, the motion to instruct conferees says the better course 
+is to remove all of those earmarks, to have a bill clean of earmarks. 
+We have funding for individual programs and individual initiatives, 
+most of which cannot be discussed on this floor. But the better course 
+is to fund those things, many of the good things the chairman talked 
+about, but take away the earmarks, the specific funding for specific 
+programs in specific Members' districts that call our credibility into 
+question. That is why I think this motion to instruct emphasizes the 
+important good things in this bill, but it makes it stronger by 
+increasing its integrity and credibility, and I hope Members will 
+support it.
+  Mr. REYES. Madam Speaker, I rise and yield myself such time as I may 
+consume.
+  Again, unfortunately this motion is not about policy, it is not about 
+priorities, it is not even about earmarks; it is about politics. Using 
+politics, I think, at a time when our intelligence professionals depend 
+on us to provide them the means and the tools and the funds with which 
+to keep us safe is unfortunate. Nonetheless, I urge my colleagues to 
+vote ``no'' on this motion.
+  I yield back the balance of my time.
+  Mr. HOEKSTRA. Madam Speaker, I thank my colleague, and yield myself 
+such time as I may consume.
+  My colleague, the chairman, is exactly right, that it is important 
+that we give our resources to the intelligence community for the 
+activities they believe are most important, not perhaps what an 
+individual Member of Congress may believe is important for them. It is 
+why we are asking in this motion to instruct for a clean bill.
+  As my colleague from Texas on this side of the aisle talked about 
+earlier, there have been unfortunate cases, not only on this committee 
+but on other committees, about Members abusing the privilege and 
+responsibility of putting in earmarks. This takes away that 
+responsibility. This takes away that opportunity for Members to direct 
+funding outside of the normal course of business of the committee.
+  What it does is it says, let's make sure that we fully fund human 
+intelligence capabilities. Our dedication is to provide the resources 
+to those people who are involved in human intelligence. That is, we 
+take a look at the various groups that have taken a look at the 
+intelligence community since 9/11 and determined that one of the 
+critical weaknesses we had was in human intelligence, in many different 
+facets: that we don't have enough of those resources, we don't have the 
+resources with the right capabilities and the right places, and those 
+types of things. And as we take a look at where we are today, not only 
+is that the analysis of where we were shortly after 9/11, it is also a 
+clear indication of, in many cases, where I believe that we still are 
+today: that we are woefully inadequate in terms of having a balanced 
+approach, in terms of technical collection and human intelligence, and 
+these types of things. And the weak leg, the short leg on a three-
+legged stool continues to be human intelligence. And what we are saying 
+is move the money from earmarks to making sure that we fully fund this 
+extremely important capability in the intelligence community that for 
+far too long has been neglected, in some cases neglected by
+
+[[Page 32063]]
+
+this Congress and in other cases neglected by the community.
+  One of, I think, the strong parts of the intel community is that on a 
+bipartisan basis we have been putting pressure in trying to get the 
+intel community to respond and to put in place the resources, the 
+capabilities, and the focus on building a very effective system of 
+human intelligence. And this is just one more step to send a clear 
+signal to the intelligence community that says we, as policymakers, 
+believe that you still have not done enough to build up our human 
+intelligence capabilities, and we are taking these additional steps in 
+this bill to make sure that these capabilities are enhanced and to send 
+a clear signal to you that we want you and the community to do more. We 
+want you to do more, we want you to do it sooner, we want you to do it 
+quicker, and we need to you to do it better, because it continues to be 
+an area that we have significant concern about.
+  And as we do this, what we are doing is we are taking money, again, 
+as I identified, from programs, various sources in the media where some 
+of these earmarks have been public and where various other government 
+auditing agencies have taken a look at these programs and said: Wait a 
+minute. This is duplicative, it is not effective, and it maybe doesn't 
+even add anything to the intelligence capabilities of the United States 
+of America.
+  So you have people in the intelligence community wondering and 
+saying, if this is so important, if HUMINT is so important, then why 
+are we funding these other types of programs, these Member requests?
+  This motion to instruct sends a very, very clear signal that says 
+Member priorities are no longer Member priorities. As a matter of fact, 
+the priority of this committee, the priority of this Congress, is to 
+put the money where it needs to be and to put it in places that fills 
+the gaps that we have identified in the intelligence community. And the 
+biggest gap and the biggest area of weakness that we have today is 
+human intelligence.
+  This sends a clear signal to the intelligence community that we have 
+our priorities right; that it is about them and it is not about this 
+House or individual Members or individual Members' districts; that it 
+is about the bigger objective of getting things done in the 
+intelligence community at a time when this country continues to be at 
+risk, whether it is the nonstate actors, people like al Qaeda, other 
+radical jihadist groups and those types of threats, or whether it is 
+the threats that come from state actors, whether it is North Korea, 
+whether it is Iran, whether it is Russia, whether it is Venezuela, or 
+whatever emerging threat that is out here, it sends a very, very clear 
+and distinct message that says those are our priorities, that is where 
+we want to put our money, that is where the threats come from. And, as 
+a signal of being aligned with the intelligence community, we as a 
+committee and we as a Congress are willing, and not only willing, we 
+are mandating, we are instructing the conferees to give up their 
+earmarks, to give up their Member projects, to make sure that we get 
+maximum effect for the dollars that we are spending in this area.
+  That is what this motion to instruct is about. It is about getting 
+maximum effectiveness for the dollars that we allocate into the 
+community. We spend a lot of money in this area, but we all know that 
+some of the results that we get have not been the kind of leading edge 
+or providing us with the insights into the threats that we would like 
+to have. This motion to instruct says, clearly, it is not going to be 
+about us taking money from the intelligence community and putting them 
+into Member projects; it is going in the other direction, to make sure 
+that if the intelligence community comes up short, but we really 
+believe that it won't come up short, that we will be providing it with 
+the resources that will enable it to do the job that we need it to do.
+  That is why this is an important motion to instruct. That is why we 
+are asking our colleagues to support this motion to instruct, to make 
+sure that we have got alignment between the Congress, and that we have 
+got alignment between Congress and the intel community, and making sure 
+that we put the dollars where they make the most difference and where 
+they will be most effective. That is why I ask my colleagues to vote 
+for this motion to instruct, to send a clear signal to the conferees as 
+to where they want to go and where they need to go and what we want to 
+see coming back from the conferees in a conference report: A bill that 
+focuses resources on what will build this community and not what may 
+build things within a Members' district.
+  Let's put the resources where they need to be. Let's put the 
+resources addressing some of the weaknesses that this committee has 
+identified through its oversight process over the last 12 months. Vote 
+for this motion to instruct.
+  I yield back the balance of my time.
+  The SPEAKER pro tempore. Without objection, the previous question is 
+ordered on the motion to instruct.
+  There was no objection.
+  The SPEAKER pro tempore. The question is on the motion to instruct.
+  The question was taken; and the Speaker pro tempore announced that 
+the noes appeared to have it.
+  Mr. HOEKSTRA. Madam Speaker, I object to the vote on the ground that 
+a quorum is not present and make the point of order that a quorum is 
+not present.
+  The SPEAKER pro tempore. Pursuant to clause 8 of rule XX, further 
+proceedings on this question will be postponed.
+  The point of no quorum is considered withdrawn.
+
+                          ____________________
+```
