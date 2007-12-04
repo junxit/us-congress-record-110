@@ -1,0 +1,74 @@
+---
+granule: CREC-2007-12-04-pt1-PgS14737
+date: 2007-12-04
+edition: CREC
+section: SENATE
+page: S14737
+citation: 153 Cong. Rec. S14737
+---
+
+# TRIBUTE TO STAN GARNETT
+
+**Speaking:** Harkin, Tom (H000206) [D-IA]
+
+```
+[[Page S14737]]
+                        TRIBUTE TO STAN GARNETT
+
+● Mr. HARKIN. Mr. President, in a few days Stan Garnett will 
+retire from the Food and Nutrition Service of the U.S. Department of 
+Agriculture, after 35 years of tremendous service to people in our 
+Nation and elsewhere in the world.
+  Stan's experience and dedication to fighting hunger and malnutrition 
+extends beyond his 35 years with the Department of Agriculture. 
+Following his graduation from college, Stan answered President 
+Kennedy's call to service abroad and spent 2 years in the Peace Corps 
+in the Philippines. Thereafter, he joined Catholic Relief Services and 
+spent 6 years administering food assistance programs in Southeast Asia 
+and in Africa under tremendously difficult circumstances. He often 
+traveled by helicopter in battle zones in Vietnam to deliver food 
+assistance to war refugees, and he also provided food aid in Nigeria 
+during the tragic Biafran conflict.
+  Following his work overseas, Stan returned to the United States and 
+joined the Food and Nutrition Service of the U.S. Department of 
+Agriculture in 1971. Over the years, Stan held many different positions 
+within the Food and Nutrition Service, the majority of them pertaining 
+to legislative and regulatory policy in Federal child nutrition 
+programs. Throughout his career, Stan served with accomplishment and, 
+not surprisingly, continued a steady ascent in the ranks at the Food 
+and Nutrition Service of the Department of Agriculture, eventually 
+serving as the Director of Supplemental Food Programs and Director of 
+the Child Nutrition Division.
+  Stan fulfilled those positions with great competence, but with 
+integrity and humility as well. In 9 cases out of 10, Stan knows more 
+about the issue at hand than anyone else in the room, but he never acts 
+as if this is the case. Stan treats everyone equally--Members of 
+Congress, members of his own staff, and the many people across the 
+country who for so long have relied on Stan's expertise to help them 
+operate child nutrition programs in their own communities. Stan is 
+known by all who come in contact with him as a generous and caring 
+administrator who is trusted by all.
+  After 35 years of Federal service, there is no question that Stan has 
+certainly earned a much-deserved retirement. His absence will certainly 
+be acutely felt, both within the Department of Agriculture and here in 
+Congress. However, I have no doubt that one of Stan's biggest 
+contributions is to leave child nutrition programs in the hands of 
+capable colleagues who have benefited, as I have over the years, from 
+his tremendous expertise, and who will ensure a smooth transition as 
+new leadership assumes his responsibilities.
+  In so many respects, the Stan Garnett who will retire this year is 
+strikingly similar to the Stan Garnett who took up President Kennedy's 
+call to service by entering the Peace Corps as a young man. His 
+commitment to ending hunger and to promoting the economic security and 
+nutrition of low-income families is as strong today as it was as a 
+bright-eyed college graduate. Just as important, he has imparted this 
+same idealism and commitment to numerous young people who have had the 
+privilege to work with him over the years. To those who question what a 
+career in public service can accomplish, I ask only that they look to 
+Stan's career. What they will see in him is not just 40 years of 
+service, but a call to action. I have no doubt that, because of his 
+incredible commitment, Stan is a remarkable inspiration and example of 
+heeding this call to action and public service.●
+
+                          ____________________
+```
