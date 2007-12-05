@@ -1,0 +1,34 @@
+---
+granule: CRECB-2007-pt23-Pg32183-5
+date: 2007-12-05
+edition: CRECB
+section: HOUSE
+page: 32183
+---
+
+# ADMINISTRATION'S MISPLACED PRIORITIES
+
+```
+                 ADMINISTRATION'S MISPLACED PRIORITIES
+
+  (Mr. HALL of New York asked and was given permission to address the 
+House for 1 minute.)
+  Mr. HALL of New York. Madam Speaker, I rise today to oppose the 
+latest demonstration of this administration's misplaced priorities.
+  President Bush wants to slash $2 billion in funding that will help 
+our police and other first responders protect Americans here at home 
+from terrorists and other threats so that he can send $3 billion over 
+to Iraq to train police there. That money means a lot to our police and 
+firefighters here at home. By cutting this funding, President Bush will 
+endanger security at our ports, subways and rail lines. Further, his 
+proposal will not allow law enforcement agencies to use grants for 
+counterterrorism or intelligence personnel, funding which has helped 
+the NYPD uncover and stop nearly 20 terrorist attacks.
+  By proposing these cuts, the President rejects the advice of the 
+Department of Homeland Security and the 9/11 Commission and again shows 
+his priorities are not those of the American people.
+  I urge the President to reconsider this request and will work with my 
+colleagues to reverse these deeply misguided cuts to homeland security.
+
+                          ____________________
+```

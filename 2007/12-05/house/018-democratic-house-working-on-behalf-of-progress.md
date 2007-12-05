@@ -1,0 +1,36 @@
+---
+granule: CRECB-2007-pt23-Pg32182-4
+date: 2007-12-05
+edition: CRECB
+section: HOUSE
+page: 32182
+---
+
+# DEMOCRATIC HOUSE WORKING ON BEHALF OF PROGRESS
+
+```
+             DEMOCRATIC HOUSE WORKING ON BEHALF OF PROGRESS
+
+  (Mr. YARMUTH asked and was given permission to address the House for 
+1 minute.)
+  Mr. YARMUTH. Madam Speaker, how many times is President Bush going to 
+hold the same press conference, hammering away at Congress just because 
+we're meeting our responsibilities under article I and restoring 
+Americans' faith in the future? Doesn't he understand that the American 
+people chose to put Democrats in control of Congress for a reason?
+  All year long we have been working to take our Nation in a new 
+direction and restore that faith in the future. In some instances, the 
+President has joined our efforts. We worked together to fully implement 
+the 9/11 Commission recommendations, increase the minimum wage, and 
+make college more affordable for millions of college students. 
+Unfortunately, in almost every other instance, President Bush has stood 
+in the way of real progress. He refused to help us provide quality 
+health coverage for 10 million children. He rejected our efforts 
+consistently to change course in Iraq. And he has threatened to veto 
+our appropriations bills that truly prioritize our domestic needs.
+  Madam Speaker, President Bush has every right to be frustrated by his 
+lack of accomplishments, but he has nobody to blame but himself. He 
+needs to stop standing in the way of progress.
+
+                          ____________________
+```

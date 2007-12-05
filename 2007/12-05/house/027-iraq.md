@@ -1,0 +1,37 @@
+---
+granule: CRECB-2007-pt23-Pg32184-2
+date: 2007-12-05
+edition: CRECB
+section: HOUSE
+page: 32184
+---
+
+# IRAQ
+
+```
+                                  IRAQ
+
+  (Mr. KINGSTON asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. KINGSTON. Madam Speaker, back in January, a number of Members of 
+the House voted against a surge in Iraq which the President had 
+promoted. Well, although that vote passed the House, it failed in the 
+Senate, and we know the surge did take place and the surge has paid 
+off. Civilian casualties in Iraq are down 20 percent; 75 percent in 
+Baghdad. IED attacks are down by 50 percent, and we've nearly doubled 
+the number of weapon caches that have been discovered this year from 
+last year. Lots of good progress has been made.
+  And I don't blame the folks who are against Iraq for pushing the bill 
+back in January that they did. I believe that there's plenty of room 
+for honest disagreement on this war. But at the same time, here we are 
+now and we need to continue funding for that war. There is a $50 
+billion bridge fund. The President actually has asked Congress for $196 
+billion, but Congress has indicated $50 billion is all that we're 
+willing to go at this point. But then there are some stipulations, some 
+micromanagement of the war.
+  I hope that we can have this bill on the floor of the House and have 
+an honest debate on it and keep the spirit of agreeing to disagree 
+agreeably.
+
+                          ____________________
+```

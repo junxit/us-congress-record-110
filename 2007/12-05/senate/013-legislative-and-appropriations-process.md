@@ -1,0 +1,539 @@
+---
+granule: CRECB-2007-pt23-Pg32125-4
+date: 2007-12-05
+edition: CRECB
+section: SENATE
+page: 32125
+---
+
+# LEGISLATIVE AND APPROPRIATIONS PROCESS
+
+```
+                 LEGISLATIVE AND APPROPRIATIONS PROCESS
+
+  Mr. COBURN. Mr. President, let me, first of all, take a minute to 
+talk about this bill for which unanimous consent
+
+[[Page 32126]]
+
+was just requested. I think it is important in light of what the 
+majority leader just said. Here we have a bill for which unanimous 
+consent was requested. The American people need to understand what it 
+means to get unanimous consent. It means all of us agree to it. It does 
+not need to be further amended, it does not need to be changed, and it 
+should be passed without ever having a vote on it.
+  This bill has a section in it that so far has lost over $3.5 billion 
+of your money doing venture capital investing by the Small Business 
+Administration. The OMB analysis says there is absolutely no need for 
+this venture capital investment, especially because of the fact it has 
+lost such a great amount of money. And venture capital investing itself 
+is a highly risky business that requires tremendously acute knowledge 
+and people of great acumen in terms of investing, and they lose lots of 
+money investing.
+  The last thing we ought to be doing at the end of a session is 
+passing a bill without vetting it, without debating it, without talking 
+about the problems that are in the bill. This portion of the bill, the 
+portion that is the Small Business Venture Capital Act, if anything, 
+should come out of this bill. We should not reauthorize something that 
+has lost already in excess of $3 billion, and something for which we do 
+not get to look at the results until 10 years after it happens.
+  The last thing we ought to be doing is investing the American 
+people's money in venture capital when we cannot pay for the things we 
+need to be paying for that the American people are dependent on. I look 
+forward to working with Senator Kerry. I have had a good relationship 
+with him. We will sit down and talk about this bill. But I think it 
+highlights what we need to be doing and not spending time in quorum 
+calls but spending time debating bills.
+  I also want to spend a minute on this issue. I think the American 
+people ought to be asking us about this. Here we sit, and we have one 
+appropriations bill passed for the year that started October 1. I think 
+I am correct. Other than the THUD bill, there has been no objection 
+raised by the minority to proceeding to any of the appropriations 
+bills. As a matter of fact, the choice was made not to bring up the 
+appropriations bills in a timely manner and debate them because of the 
+choice it was not a priority.
+  I do recall the tremendous criticism we rightly received for what 
+happened last year in the appropriations process. What is going to 
+happen? I am happy to be here for Christmas to do the business we 
+should have already done. But let me lay out what will happen, and then 
+let me also give a warning. At the end of sessions, what happens is we 
+get the request to pass all sorts of legislation--much like this bill 
+to which I just objected. Committees do good work on legislation. But a 
+bill that has passed committee has to be agreed to by a majority of the 
+Senators to be able to become law.
+  When we do unanimous consents, that means we are going to let it pass 
+without looking at it, without amending it, and without voting on it. 
+Well, at the end of the year, the time pressure comes. Everybody wants 
+to get something passed. So what happens is we do a poor job of 
+legislating because we do not look at it. We do not amend it. We do not 
+have a debate so the American people can know about it. We just pass 
+it.
+  I sent a letter to all of my colleagues today outlining and 
+reinforcing four statements I made at the first of this year. I will 
+object to any bill coming forward by unanimous consent at the end of 
+the session unless it meets the requirements I laid out. That means no 
+new authorizations unless you deauthorize something else. We are not 
+going to grow the Government any more when we cannot pay for the 
+Government we have. No. 2, it has to be constitutional. It has to be a 
+true duty of the Federal Government, not an obligation of the State 
+governments that we are going to stand up for, when they have a $6 
+billion to $7 billion surplus. Easily, when you look at any combination 
+of any 10 States, they have an over $36 billion surplus totally, and we 
+are running, in real numbers--non-Enron accounting but real numbers--a 
+$250 billion surplus.
+  I am not going to allow--unless we want to put it on the Senate 
+floor, unless we want to debate it--I am not going to allow us to pass 
+bills at the end of the session by unanimous consent. So if you have a 
+bill that you want to try to pass by unanimous consent, I would suggest 
+we sit down and talk about it now, not 2 weeks from tomorrow but now. 
+If they come in the last week, we will not have the time to look at 
+them. So not agreeing to unanimously consider the bill as passed will 
+be the standard fare.
+  Now, let's talk about the appropriations process. What we have is $23 
+billion more than what we agreed we are going to pass in total for the 
+appropriations bills, not counting the emergency things we have already 
+done that we have charged to our grandchildren. As the game is played 
+in Washington, what will come is the pressure of chicken. We are going 
+to play chicken because we chose not to do the appropriations bills at 
+the appropriate time, and lots of Members have lots of earmarks in 
+bills.
+  So they do not want us to continue to fund where we are. They want us 
+to have an omnibus bill where we can have all these earmarks, about $26 
+billion worth of earmarks, so we can look good at home--not 
+competitively bid, not based on priorities but based on our political 
+priorities individually as Senators. We are going to spend about $23 
+billion more than what we said we are going to spend. That $23 billion 
+is almost $300 billion over the next 10 years. And we are fighting 
+about $80 billion on an AMT fix for 1 year. But we are not 
+concentrating on the fact we are going to institute $300 billion worth 
+of more spending.
+  I will remind my colleagues again, we do not have to raise taxes. We 
+can eliminate the AMT. What we do not want to do, and what we fail to 
+do, is get rid of the waste, fraud, abuse, and duplication that numbers 
+in excess of $250 billion every year--every year--because we will not 
+do the hard work of oversight.
+  So we are going to line up, and we are going to get a package from 
+the House, and we are going to get a chance to vote on it, and the 
+President has already said he is going to veto it if it has this excess 
+number and all these earmarks in it. I would think this would be better 
+than playing chicken: Why don't we live within our means like every 
+family has to? That $250 billion comes to 20 percent of everything we 
+spend in the discretionary budget. If you ask homeowners and families 
+who are having a lot of pressure now, would they dare waste 20 percent 
+of their budget, would they dare not look and reconsider how they are 
+spending their money when it comes to their family budget, they would 
+not. Yet we continuously refuse to do the hard work of oversight. We do 
+not want to offend anybody. In the process we are offending the next 
+two generations. My hope is we don't end up here at Christmas, but I 
+was dead serious when I took my oath. I am going to defend the 
+Constitution and I am going to work to make sure bills that are outside 
+of that Constitution don't pass this body. I am going to defend my 
+obligation to the next two generations and the heritage this country 
+was built on--one generation sacrificing for the next--so future 
+opportunity is there. I am going to do everything in my power to not 
+let $23 billion of extra spending go through this Senate at the end of 
+the year. Now, I may not be successful in that, but at the end of the 
+day, I am going to sleep real well knowing I am fulfilling my oath, 
+knowing that I know what the Constitution says. When we get outside the 
+bounds of the Constitution, in terms of Federal responsibility, what we 
+do is we say in name we are helping somebody and we are charging it to 
+our grandchildren and undermining the very opportunity we all 
+experience.
+  My hope is we can come together during this season and say: Let's get 
+it right. Let's not spend a bunch of extra money. Let's put it back. We 
+could be facing some pretty severe economic times in this country in 
+terms of how
+
+[[Page 32127]]
+
+things look, especially people who were sold homes and mortgages they 
+didn't qualify for and now are struggling. How are we going to address 
+that? How are we going to help them through that? How are we going to 
+accomplish that which empowers people, not Government? We need to be 
+working on those things. We do not need to be spending the extra money 
+now that we may, in fact, need to spend later. We may, in fact, need to 
+borrow money later. So we should be doing the job right the first time, 
+staying within our means, doing what is necessary, even though it 
+offends people who might not get something from the Federal Government 
+through an earmark.
+  I believe the people of the Senate are great people. I believe, 
+ultimately, they want what is great for this country. I know all of 
+those who have children and grandchildren wish and hope for the very 
+best for their lives and to experience the kind of opportunities we 
+have had. But I wish to tell my colleagues it is at risk. It is not a 
+small risk, it is a great risk. Mr. President, 2012 is coming fast; 
+2012, that day when the baby boomers are taking both Social Security 
+and Medicare, when we start down this road of $79 trillion worth of 
+unfunded mandates. How can we be trusted to fix those problems when we 
+can't even live within our own budget?
+  I said before, about a year and a half ago on this floor, that there 
+is a rumble in America and it is real. The American people are sick and 
+tired of the partisan games we play. They don't want to see Republicans 
+pointing their fingers at Democrats. They don't want to see Democrats 
+pointing their fingers at Republicans. What they want us to do is the 
+job of governing within our means.
+  Our problem is we have difficulty identifying what is most important: 
+Our political careers or the future of the country. What gets in front 
+of us too often is how do we look good at home rather than how do we 
+look good in the future so we secure the promise America stands for. My 
+hope is we will work together.
+  One final comment on the farm bill. We need a farm bill, but we don't 
+need a farm bill that continues to have programs that wealthy people 
+who aren't real farmers take advantage of--people who aren't farmers, 
+yet suck the money out of the farm program. Twenty percent of our 
+farmers produce 80 percent of our goods, but a large portion of the 
+farm program goes to gentlemen farmers--doctors, lawyers, who happen to 
+own a small acreage and then suck the programs dry for their own 
+benefit for things they could very well afford to pay for. So the farm 
+bill isn't going to go forward until we have an open amendment process.
+  I agree with the majority leader. We shouldn't have all of these 
+votes that aren't necessarily related to the farm bill, but we should 
+certainly fix the crop insurance program. We should certainly mandate 
+that if you are getting a government benefit as a farmer, you ought to 
+be a farmer. You shouldn't be an investor who is investing in making 
+money off the hard-earned tax dollars of middle-class America. That is 
+what too much of the farm program is. We shouldn't be setting about 
+saying that if we are going to incentivize to get greater production, 
+and then all of a sudden if somebody is successful at it, then you 
+can't do it anymore. If an incentive is put in place to work, then 
+let's make it work. We haven't done that with ethanol. We haven't said 
+you can only produce so much ethanol. So if an incentive works, we 
+ought to use it. But we ought to make sure the people getting those 
+incentives are real farmers.
+  Again, I thank the Chair for his indulgence and I yield back the 
+remainder of my time.
+  Mr. KERRY. Mr. President, today the Senate tried to call up and pass 
+an amended version of S. 1662, the Small Business Venture Capital Act 
+of 2007. There was objection to the bill based on a concern that it 
+reauthorized the SBA's Small Business Investment Company Participating 
+Securities program, a program which the Office of Management and Budget 
+has predicted will have losses of about $3 billion.
+  The amendment pending before the full Senate does not reauthorize the 
+SBIC Participating Securities program. That provision was taken out of 
+the bill in October when the committee first circulated the proposed 
+amendment to colleagues and the parties notified their members that the 
+committee would like to pass the bill by unanimous consent.
+  Equity financing like the SBIC Participating Securities program is 
+important to the continuum of small business financing, and testimony 
+before our committee this summer emphasized the need for a reformed 
+program to fill the void left by the private sector. However, as the 
+report to S. 1662 clarifies, Congress could not find common ground with 
+the administration on reforming the program and so the committee 
+included a token reauthorization amount to signal to the business 
+community that it understood the need for small equity investments and 
+that there was support for the Small Business Investment Company 
+program in general.
+  The bill reauthorizes through 2010 the Small Business Investment 
+Company Debenture program, and the New Markets Venture Capital program. 
+Venture capital is a critical driver of our economy and job creation. 
+Since the creation of the SBIC program almost 50 years ago, the country 
+has benefited from hundreds of thousands of jobs. Some examples of 
+success stories include businesses that are now household names--
+Calaway Golf, Intel, Jenny Craig, Outback Steakhouse, and Federal 
+Express. Through the SBA's New Markets Venture Capital program, which 
+has only been making investments for a couple of years, businesses in 
+areas with the highest national unemployment, such as in the Appalachia 
+region of Kentucky, have gotten access to more than $48 million in 
+patient investment capital and created hundreds of jobs with 
+sustainable wages and health care benefits. Senator Snowe and I worked 
+with the SBA in drafting S. 1662, and the committee of jurisdiction 
+adopted it unanimously--by a vote of 19 to 0.
+  Further, we understand concerns about moving legislation last minute 
+and we try to avoid that. In this case, our committee voted out this 
+bill in June, giving colleagues with concerns more than 5 months to 
+review the legislation. And in anticipation of moving this bill by 
+unanimous consent committee staff reached out to other offices in 
+October. We have tried for 6 weeks to discuss the bill and identify any 
+possible concerns. We gave those offices copies of the bill, the 
+report, the CBO cost estimate, explained what was in the amendment to 
+be hotlined, and provided a copy of the revised CBO cost estimate that 
+reflected striking the section that reauthorized the SBIC participating 
+securities program and the section that triggered direct spending. The 
+bill has a very modest cost, reduces the historic authorization levels, 
+and has the potential to have a very positive impact on the economy, 
+through investment and job creation. We would be happy to work with our 
+colleagues to try and clarify any other misunderstandings and to work 
+through any substantive concerns. I ask unanimous consent that a copy 
+of the amendment be printed in the Record.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+       Strike all after the enacting clause and insert the 
+     following:
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Small Business Venture 
+     Capital Act of 2007''.
+
+     SEC. 2. DEFINITIONS.
+
+       In this Act--
+       (1) the terms ``Administration'' and ``Administrator'' mean 
+     the Small Business Administration and the Administrator 
+     thereof, respectively;
+       (2) the term ``low-income geographic area'' has the meaning 
+     given that term in section 351 of the Small Business 
+     Investment Act of 1958 (15 U.S.C. 689), as amended by this 
+     Act;
+       (3) the term ``New Markets Venture Capital company'' has 
+     the meaning given that term in section 351 of the Small 
+     Business Investment Act of 1958 (15 U.S.C. 689); and
+       (4) the term ``New Markets Venture Capital Program'' means 
+     the program under part B of title III of the Small Business 
+     Investment Act of 1958 (15 U.S.C. 689 et seq.).
+
+[[Page 32128]]
+
+
+
+     SEC. 3. TABLE OF CONTENTS.
+
+       The table of contents for this Act is as follows:
+
+Sec. 1. Short title.
+Sec. 2. Definitions.
+Sec. 3. Table of contents.
+
+           TITLE I--SMALL BUSINESS INVESTMENT COMPANY PROGRAM
+
+Sec. 101. Reauthorization.
+Sec. 102. Leverage.
+Sec. 103. Investments in smaller enterprises.
+Sec. 104. Maximum investment in a company.
+
+             TITLE II--NEW MARKETS VENTURE CAPITAL PROGRAM
+
+Sec. 201. Diversification of New Markets Venture Capital Program.
+Sec. 202. Establishment of Office of New Markets Venture Capital.
+Sec. 203. Low-income geographic areas.
+Sec. 204. Applications for New Markets Venture Capital Program.
+Sec. 205. Operational assistance grants.
+Sec. 206. Authorization.
+
+           TITLE I--SMALL BUSINESS INVESTMENT COMPANY PROGRAM
+
+     SEC. 101. REAUTHORIZATION.
+
+       Section 20 of the Small Business Act (15 U.S.C. 631 note) 
+     is amended by inserting after subsection (e) the following:
+       ``(f) Small Business Venture Capital.--For the programs 
+     authorized under part A of title III of the Small Business 
+     Investment Act of 1958 (15 U.S.C. 681 et seq.), the 
+     Administrator is authorized to make--
+       ``(1) $2,000,000,000 in guarantees of debentures for fiscal 
+     year 2007;
+       ``(2) $2,250,000,000 in guarantees of debentures for fiscal 
+     year 2008;
+       ``(3) $2,500,000,000 in guarantees of debentures for fiscal 
+     year 2009; and
+       ``(4) $2,750,000,000 in guarantees of debentures for fiscal 
+     year 2010.''.
+
+     SEC. 102. LEVERAGE.
+
+       (a) In General.--Section 303(b)(2) of the Small Business 
+     Investment Act of 1958 (15 U.S.C. 683(b)(2)) is amended to 
+     read as follows:
+       ``(2) Maximum leverage.--
+       ``(A) In general.--The maximum amount of outstanding 
+     leverage made available to any 1 company licensed under 
+     section 301(c) may not exceed the lesser of--
+       ``(i) 300 percent of private capital; or
+       ``(ii) $150,000,000.
+       ``(B) Multiple licenses under common control.--The maximum 
+     amount of outstanding leverage made available to 2 or more 
+     companies licensed under section 301(c) that are commonly 
+     controlled (as determined by the Administrator) may not 
+     exceed $225,000,000.
+       ``(C) Investments in women-owned and minority-owned 
+     businesses and in low-income geographic areas.--
+       ``(i) In general.--The maximum amount of outstanding 
+     leverage made available to--
+
+       ``(I) any 1 company described in clause (ii) may not exceed 
+     the lesser of--
+
+       ``(aa) 300 percent of private capital; or
+       ``(bb) $175,000,000; and
+
+       ``(II) 2 or more companies described in clause (ii) that 
+     are commonly controlled (as determined by the Administrator) 
+     may not exceed $250,000,000.
+
+       ``(ii) Applicability.--A company described in this clause 
+     is a company licensed under section 301(c) that certifies in 
+     writing that not less than 50 percent of the dollar amount of 
+     investments of that company shall be made in companies that, 
+     prior to that investment, are owned by women or minorities 
+     (as determined by the Administrator) or are located in a low-
+     income geographic area (as that term is defined in section 
+     351).
+       ``(D) Exception.--The Administrator may, on a case-by-case 
+     basis, impose such additional terms and conditions relating 
+     to the maximum amount of outstanding leverage made available 
+     as the Administrator determines to be appropriate to minimize 
+     the risk of loss to the Administration in the event of a 
+     default.''.
+       (b) Technical and Conforming Amendments.--Section 303(b) of 
+     the Small Business Investment Act of 1958 (15 U.S.C. 683(b)) 
+     is amended by striking paragraph (4).
+
+     SEC. 103. INVESTMENTS IN SMALLER ENTERPRISES.
+
+       Section 303(d) of the Small Business Investment Act of 1958 
+     (15 U.S.C. 683(d)) is amended to read as follows:
+       ``(d) Investments in Smaller Enterprises.--The 
+     Administrator shall require each licensee, as a condition of 
+     an application for leverage, to certify in writing that not 
+     less than 25 percent of the aggregate dollar amount of 
+     financings of that licensee shall be provided to smaller 
+     enterprises.''.
+
+     SEC. 104. MAXIMUM INVESTMENT IN A COMPANY.
+
+       Section 306(a) of the Small Business Investment Act of 1958 
+     (15 U.S.C. 686(a)) is amended by striking ``20 per centum'' 
+     and inserting ``30 percent''.
+
+             TITLE II--NEW MARKETS VENTURE CAPITAL PROGRAM
+
+     SEC. 201. DIVERSIFICATION OF NEW MARKETS VENTURE CAPITAL 
+                   PROGRAM.
+
+       (a) Selection of Companies in Each Geographic Region.--
+     Section 354 of the Small Business Investment Act of 1958 (15 
+     U.S.C. 689c) is amended by adding at the end the following:
+       ``(f) Geographic Goal.--In selecting companies to 
+     participate as New Markets Venture Capital companies in the 
+     program established under this part, the Administrator shall 
+     have as a goal to select, from among companies submitting 
+     applications under subsection (b), at least 1 company from 
+     each geographic region of the Administration.''.
+       (b) Participation in New Markets Venture Capital Program.--
+       (1) Administration participation required.--Section 353 of 
+     the Small Business Investment Act of 1958 (15 U.S.C. 689b) is 
+     amended in the matter preceding paragraph (1), by striking 
+     ``under which the Administrator may'' and inserting ``under 
+     which the Administrator shall''.
+       (2) Small manufacturer participation.--Section 353(1) of 
+     the Small Business Investment Act of 1958 (15 U.S.C. 689b(1)) 
+     is amended by inserting after ``section 352'' the following: 
+     ``(with a goal of at least 1 such agreement to be with a 
+     company engaged primarily in the development of and 
+     investment in small manufacturers, to the extent 
+     practicable)''.
+
+     SEC. 202. ESTABLISHMENT OF OFFICE OF NEW MARKETS VENTURE 
+                   CAPITAL.
+
+       Title II of the Small Business Investment Act of 1958 (15 
+     U.S.C. 671) is amended by adding at the end the following:
+
+     ``SEC. 202. OFFICE OF NEW MARKETS VENTURE CAPITAL.
+
+       ``(a) Establishment.--There is established in the 
+     Investment Division of the Administration, the Office of New 
+     Markets Venture Capital.
+       ``(b) Director.--The head of the Office of New Markets 
+     Venture Capital shall be an individual appointed in the 
+     competitive service or excepted service.
+       ``(c) Responsibilities of Director.--The responsibilities 
+     of the head of the Office of New Markets Venture Capital 
+     include--
+       ``(1) to administer the New Markets Venture Capital Program 
+     under part B of title III;
+       ``(2) to assess, not less frequently than once every 2 
+     years, the nature and scope of the New Markets Venture 
+     Capital Program and to advise the Administrator on 
+     recommended changes to the program, based on such assessment;
+       ``(3) to work to expand the number of small business 
+     concerns participating in the New Markets Venture Capital 
+     Program; and
+       ``(4) to encourage investment in small manufacturing.''.
+
+     SEC. 203. LOW-INCOME GEOGRAPHIC AREAS.
+
+       (a) In General.--Section 351 of the Small Business 
+     Investment Act of 1958 (15 U.S.C. 689) is amended--
+       (1) by striking paragraph (2);
+       (2) by redesignating paragraphs (3) through (8) as 
+     paragraphs (2) through (7), respectively; and
+       (3) in paragraph (2), as so redesignated--
+       (A) in the matter preceding subparagraph (A)--
+       (i) by striking ``the term'' and inserting ``The term''; 
+     and
+       (ii) by striking ``means'';
+       (B) by striking subparagraph (A) and inserting the 
+     following:
+       ``(A) means a `low-income community' within the meaning of 
+     section 45D(e) of the Internal Revenue Code of 1986 (relating 
+     to the new markets tax credit); and''; and
+       (C) in subparagraph (B), in the matter preceding clause 
+     (i), by inserting ``includes'' before ``any area''.
+       (b) Application of Amended Definition to Capital 
+     Requirement.--The definition of a low-income geographic area 
+     in section 351 of the Small Business Investment Act of 1958, 
+     as amended by subsection (a), shall apply to capital raised 
+     by a New Markets Venture Capital company before, on, or after 
+     the date of enactment of this Act.
+
+     SEC. 204. APPLICATIONS FOR NEW MARKETS VENTURE CAPITAL 
+                   PROGRAM.
+
+       Not later than 1 year after the date of enactment of this 
+     Act, the Administrator shall prescribe standard documents for 
+     an application for final approval by a New Markets Venture 
+     Capital company under section 354(e) of the Small Business 
+     Investment Act of 1958 (15 U.S.C. 689c(e)). The Administrator 
+     shall ensure that such documents are designed to 
+     substantially reduce the cost burden of the application 
+     process on a company making such an application.
+
+     SEC. 205. OPERATIONAL ASSISTANCE GRANTS.
+
+       (a) In General.--Section 358(a)(4)(A) of the Small Business 
+     Investment Act of 1958 (15 U.S.C. 689g(a)(4)(A)) is amended 
+     to read as follows:
+       ``(A) New markets venture capital companies.--
+     Notwithstanding section 354(d)(2), the amount of a grant made 
+     under this subsection to a New Markets Venture Capital 
+     company shall be equal to the lesser of--
+       ``(i) 10 percent of the private capital raised by the 
+     company; or
+       ``(ii) $1,000,000.''.
+       (b) Conforming Amendment and Limitation on Time for Final 
+     Approval of Companies.--Section 354(d) of the Small Business 
+     Investment Act of 1958 (15 U.S.C. 689c(d)) is amended to read 
+     as follows:
+       ``(d) Requirements to Be Met for Final Approval.--The 
+     Administrator shall grant each conditionally approved company 
+     2 years to raise not less than $5,000,000 of private capital 
+     or binding capital commitments from one or more investors 
+     (other than agencies or departments of the Federal 
+     Government) who met criteria established by the 
+     Administrator.''.
+
+[[Page 32129]]
+
+
+
+     SEC. 206. AUTHORIZATION.
+
+       Section 368(a) of the Small Business Investment Act of 1958 
+     (15 U.S.C. 689q(a)) is amended--
+       (1) in the matter preceding paragraph (1), by striking 
+     ``fiscal years 2001 through 2006'' and inserting ``fiscal 
+     years 2007 through 2010''; and
+       (2) in paragraph (2), by striking ``$30,000,000'' and 
+     inserting ``$20,000,000''.
+
+  Mr. KERRY. I suggest the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The assistant legislative clerk proceeded to call the roll.
+  Mr. SPECTER. Mr. President, I ask unanimous consent that the order 
+for the quorum call be rescinded.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```
