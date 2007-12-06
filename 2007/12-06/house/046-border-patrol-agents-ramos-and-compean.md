@@ -1,0 +1,58 @@
+---
+granule: CRECB-2007-pt24-Pg32503
+date: 2007-12-06
+edition: CRECB
+section: HOUSE
+page: 32503
+---
+
+# BORDER PATROL AGENTS RAMOS AND COMPEAN
+
+```
+                 BORDER PATROL AGENTS RAMOS AND COMPEAN
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from North Carolina (Mr. Jones) is recognized for 5 minutes.
+  Mr. JONES of North Carolina. Mr. Speaker, today is 324 days of 
+incarceration for two former U.S. Border Patrol agents. Agents Ramos 
+and Compean were convicted in March of 2006 for shooting a Mexican drug 
+smuggler who brought 743 pounds of marijuana across our border into 
+Texas. These two decorated Border Patrol agents, who were doing their 
+duty to protect the American people from an illegal alien drug 
+smuggler, are serving 11- and 12-year prison sentences.
+  This week, the Fifth U.S. Circuit Court of Appeals in New Orleans 
+began hearing oral arguments for the agents' appeal. During the 
+hearing, one of the three judges on the case, Judge E. Grady Jolly, 
+said, ``It does seem to me that the government overreacted here. For 
+some reason, this one got out of hand.''
+  The judges in this appeal will need to examine why the judge allowed 
+the smuggler to plead the fifth amendment despite his immunity 
+agreement, and why the jury was not allowed to hear crucial evidence 
+that the smuggler was a repeat offender. The judges will also need to 
+look at why the prosecutor charged the agents under a statute that was 
+intended for violent criminals carrying guns, not for law enforcement 
+officers acting in the line of duty.
+  Nothing can erase the suffering these agents have undergone and the 
+months they have spent in prison in solitary confinement away from 
+their families. However, a judgment in favor of Ramos and Compean in 
+this appeal would be an important victory and the first act of justice 
+these agents have seen since their arrest.
+  Mr. Speaker, the injustice of this case should not go unexamined. 
+Last night, I hand-delivered a letter to John Conyers, chairman of the 
+House Judiciary Committee, to request a hearing on this case. Chairman 
+Conyers responded that he would carefully review my letter and my 
+request.
+  In the eyes of the American people, the prosecution of these border 
+agents was not justified. The comments by the appeals judge are 
+justification enough for the House Judiciary Committee to review this 
+case to determine exactly why this case got out of hand.
+  An unbiased review of this case by Attorney General Mukasey, a 
+hearing by the House Judiciary Committee, and a Presidential pardon for 
+these agents are all steps that can and should be taken to rectify this 
+gross miscarriage of justice.
+  Mr. Speaker, I want to say to the family of these two border agents, 
+Compean and Ramos, that we in Congress will not give up the fight for 
+justice until their loved ones are at home.
+
+                          ____________________
+```

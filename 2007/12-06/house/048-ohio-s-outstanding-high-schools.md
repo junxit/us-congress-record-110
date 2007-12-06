@@ -1,0 +1,85 @@
+---
+granule: CRECB-2007-pt24-Pg32504
+date: 2007-12-06
+edition: CRECB
+section: HOUSE
+page: 32504
+---
+
+# OHIO'S OUTSTANDING HIGH SCHOOLS
+
+```
+                    OHIO'S OUTSTANDING HIGH SCHOOLS
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from Ohio (Mr. Chabot) is recognized for 5 minutes.
+  Mr. CHABOT. Mr. Speaker, I am proud to represent the congressional 
+district that has so many outstanding high schools. Not only do these 
+schools excel in academics, but they are home to some of the most 
+gifted scholar-athletes in the Nation.
+  Just this fall, Cincinnati witnessed two of our young women's high 
+school volleyball teams, Mother of Mercy and Mount Notre Dame, meet for 
+the second State championship in the last 2 years.
+  After spending much of the season at the top of the rankings, Mercy 
+senior leadership kept them strong at the end. Seniors Missy Harpenau, 
+Stephanie Vorherr, Michelle James, and Kelly O'Connor lead the charge 
+during the final games. Though Mount Notre Dame's standout players, 
+Rachel Adams and Abbie Rees, rallied teammates for wins in the first 
+and third sets, the Cougars couldn't hold on for a repeat of their 2006 
+success in winning the State championship.
+  Mercy avenged last year's championship loss with a 15-11 victory in 
+the last minutes to finish a great season for Mercy and Coach Denise 
+Harvey, as well as Mercy's fourth volleyball State title in program 
+history.
+  In the interest of full disclosure, Mother of Mercy is near and dear 
+to my heart because my wife, Donna, and my daughter, Erica, and my 
+sister, Carol, are all Mother of Mercy graduates.
+  A third Cincinnati area high school, the St. Ursula Academy Bulldogs, 
+have become a mainstay in the State soccer tournament, advancing to 
+their third finals in 7 years. Down 1-0 at the half, St. Ursula rallied 
+with goals by Tori Huster and Alexandra Berry to beat Strongsville 2-1. 
+St. Ursula finished with a remarkable 20-1-2 record and a third State 
+championship, the other two coming back in 1991 and 1993.
+  And, finally, I have the honor of congratulating St. Xavier High 
+School for its second Ohio High School Division I State Football 
+Championship in the last 3 years. On its way to a perfect 15-0 record, 
+St. Xavier had probably the toughest schedule in the entire Nation, 
+beating State champions from Ohio, Indiana, Kentucky, and national 
+powerhouse DeMatha from locally here in Maryland. St. X also had the 
+distinction of being the number one ranked team in the State the entire 
+year and number one in the Nation in some polls.
+  St. Xavier's victory gave the district that I have the honor to 
+represent its fifth division I State football title in the last 6 
+years, five out of the last 6 years, including Elder High School, who 
+won it twice. I have two nephews, Joe Del Prince, who graduated last 
+year, scored a number of touchdowns on the team last year, and his 
+brother, my nephew, Mike Del Prince, who scored a touchdown against St. 
+X. Unfortunately, when he scored that touchdown, he was hit pretty 
+hard; and I ended up seeing him in the hospital a couple days later. 
+But he's doing well, and he'll be great as a senior next year. And my 
+brother, Ron, also is an Elder grad, played first singles tennis there 
+some years ago, was on student council, and that kind of gave me my 
+interest in politics, seeing my brother Ron succeed in that respect.
+  But this also, this victory by St. X was their 38th State title in 
+all sports, the most of any high school in the State. St. X was led by 
+a senior class that compiled a record of 40 wins and two losses in 
+their 4 years at the school, including Fred Craig, the Ohio defensive 
+player of the Year, and Danny Milligan, the Ohio co-offensive player of 
+the year, and running back Darius Ashley, who set a division I record 
+by rushing for 271 yards and two touchdowns in the championship game. 
+Just incredible.
+  Kudos to head coach Steve Specht and the entire coaching staff for 
+their tremendous accomplishments. Congratulations, St. X. And, again, 
+in the interest of full disclosure, our son, Randy, is a senior at St. 
+X and one of their great band field commanders under the leadership of 
+Anthony Palm.
+  All of these student athletes have learned invaluable lessons about 
+commitment, teamwork and perseverance that will serve each of them well 
+as they prepare for the future. Both on and off the field they have 
+helped further the tradition of excellence at their schools for which 
+all of Cincinnati can be proud. It is an honor for me to congratulate 
+these young men and women on the floor of the United States House of 
+Representatives.
+
+                          ____________________
+```

@@ -1,0 +1,58 @@
+---
+granule: CRECB-2007-pt24-Pg32506-2
+date: 2007-12-06
+edition: CRECB
+section: HOUSE
+page: 32506
+---
+
+# TRAGEDY AT THE WESTROADS MALL IN OMAHA, NEBRASKA
+
+```
+            TRAGEDY AT THE WESTROADS MALL IN OMAHA, NEBRASKA
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from Nebraska (Mr. Terry) is recognized for 5 minutes.
+  Mr. TERRY. Mr. Speaker, I rise today with great sadness, for 
+yesterday, at about 2 p.m., a tragedy occurred in my hometown, where 
+eight people were killed, gunned down, some of them employees at Von 
+Maur, others just shopping for the Christmas holidays. To those 
+families, those eight families who lost a loved one so senselessly, my 
+thoughts and my prayers go out to you. I can't imagine what you're 
+going through today.
+  Our whole community across Nebraska, eastern Nebraska, western Iowa, 
+not just Omaha, is scarred by this tragedy. A very disturbed 19-year-
+old man walks into this mall and this store and begins randomly 
+shooting at people.
+  The victims of this terrible tragedy, this massacre: Gary Scharf, who 
+was shopping, a resident of Lincoln, Nebraska; John McDonald, a 
+customer, resident of Council Bluffs, Iowa. By the way, his daughter 
+was an associate attorney for me. I have been communicating with her. 
+To her, Suzanne Sheehan, and your family, my deepest condolences.
+  Also killed were six Von Maur employees: Angie Schuster, Maggie Webb, 
+Janet Jorgenson, Diane Trent, Gary Joy, and Beverly Flynn, all of 
+Omaha. Some of these were only 10 minutes from their shift being over 
+and would be out of this store. Some of them are young mothers, leaving 
+small children. There were others who were seriously injured, like Fred 
+Wilson and Michelle Oldham. Others were also injured, like Jeff 
+Schaffer and Brad Stafford.
+  Now just to put this in context, the first 911 call went out, and 
+within 6 minutes our emergency response, our EMS, and our Omaha Police 
+were in that store. But it was all done and over with by the time they 
+could get there. The damage was already done. But they immediately 
+began working on those that were injured and securing the mall for the 
+other thousands of shoppers that were there.
+
+[[Page 32507]]
+
+  I want to thank publicly our first responders from not only the city, 
+but Douglas County, Sarpy County, the State Patrol, for their heroic 
+efforts given in this tragedy. Now a tragedy of this scope and scale is 
+just unthinkable. It's hard to get my mind around this. There's no way 
+for us to understand this senseless act of violence, and I ask the 
+entire country to pray for peace and healing during this difficult time 
+for these families in our community.
+  God bless.
+
+                          ____________________
+```
