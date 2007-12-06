@@ -1,0 +1,78 @@
+---
+granule: CREC-2007-12-06-pt1-PgH14453-2
+date: 2007-12-06
+edition: CREC
+section: HOUSE
+page: H14453
+citation: 153 Cong. Rec. H14453
+---
+
+# CLIMATE CHANGE
+
+**Speaking:** Holt, Rush (H001032) [D-NJ]
+
+**Measures:** H.R. 6
+
+```
+                             CLIMATE CHANGE
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from New Jersey (Mr. Holt) is recognized for 5 minutes.
+  Mr. HOLT. Mr. Speaker, for the past 20 years, my colleagues in the 
+scientific community have been issuing warnings that the release of 
+greenhouse gases is altering the Earth's climate in ways that are 
+expensive and deadly. It is well established in the scientific 
+community that the climate change of recent decades can be attributed 
+to the way we produce and use energy. In fact, the greatest insult to 
+our planet is the way we produce and use energy.
+  As an energy scientist, I know how much can be done technically to 
+reduce our dependence on fossil fuels and to slow the rate of global 
+climate change. In fact, many countries around the world are taking 
+those steps. Today, here in the House of Representatives, we have 
+passed historic legislation which will finally take the long overdue 
+first steps toward addressing global climate change and addressing our 
+long-term energy needs. I am proud to have worked with my colleagues on 
+this comprehensive bill which will move us toward reducing our 
+dependence on fossil fuels and will spur the economic growth and will 
+create new jobs and stave off further damage to our environment and our 
+climate. This is one of the principle subjects that I have spoken about 
+and worked on since I first ran for Congress, and it is one of the 
+reasons, I believe, that my constituents sent me to Congress.
+  There are some excellent provisions in this bill that will 
+drastically reduce our greenhouse gas emissions. This includes 
+increasing the average automobile fuel economy to 35 miles per gallon 
+by 2020. It will require the nationwide implementation of renewable 
+portfolio standards requiring 15 percent of the Nation's energy in 
+power generation to come from renewable sources. And these two 
+provisions alone will save consumers as much as $40 billion in a dozen 
+years and will decrease our annual greenhouse gas emissions by up to 
+324 million tons.
+  H.R. 6 will reverse many of the environmental detrimental policies 
+that this administration and this country have implemented over the 
+past 6 years. It will repeal the $23 billion in tax subsidies and 
+royalty relief provisions for fabulously wealthy oil companies.
+  It will use this money to invest in renewable energy research and 
+extend existing tax credits for the production of renewable energy. My 
+home State of New Jersey has led the way on these issues. New Jersey 
+has already implemented a renewable portfolio standard that requires 20 
+percent of the State's energy to come from renewable sources by 2020. 
+New Jersey is the second leading State in solar energy production, with 
+over 2,400 solar installations in place, and I am told it is the 
+fastest growing market for solar energy in the United States.
+  The legislation passed here today will require our appliances and 
+buildings to be more energy efficient, it will provide job training to 
+help workers become part of the green economy, it will require the 
+United States to re-enter into the debate on global climate change, it 
+will provide historic investment in renewable energy and biofuels 
+research.
+  Of course, this bill is not enough. If it becomes law, it will be a 
+start, a very good start. Having passed this bill, we will be able to 
+consider other alternative energy and climate change legislation, and I 
+am confident that we will.
+
+[[Page H14454]]
+
+
+
+                          ____________________
+```
