@@ -1,0 +1,188 @@
+---
+granule: CRECB-2007-pt25-Pg33491
+date: 2007-12-07
+edition: CRECB
+section: SENATE
+page: 33491
+---
+
+# NATIONAL PEARL HARBOR REMEMBRANCE DAY
+
+```
+                 NATIONAL PEARL HARBOR REMEMBRANCE DAY
+
+  Mr. AKAKA. Mr. President, I ask unanimous consent that the Senate 
+proceed to the immediate consideration of S. Res. 395, which was 
+submitted earlier today.
+  The ACTING PRESIDENT pro tempore. The clerk will report the 
+resolution by title.
+
+       A resolution (S. Res. 395) expressing the sense of the 
+     Senate regarding National Pearl Harbor Remembrance Day.
+
+  There being no objection, the Senate proceeded to consider the 
+resolution.
+  Mr. AKAKA. Mr. President, I ask unanimous consent that the resolution 
+be agreed to, the preamble be agreed to, and the motions to reconsider 
+be laid upon the table, en bloc; that any statements relating thereto 
+be printed at the appropriate place in the Record as if read.
+  The ACTING PRESIDENT pro tempore. Without objection, it is so 
+ordered.
+  The resolution (S. Res. 395) was agreed to.
+  The preamble was agreed to.
+  The resolution, with its preamble, reads as follows:
+
+                              S. Res. 395
+
+       Whereas on December 7, 1941, the Imperial Japanese Navy Air 
+     Force attacked the sovereign territory of the United States 
+     at Pearl Harbor, Hawaii;
+       Whereas more than 2,400 United States service members and 
+     civilians were killed in the attack on Pearl Harbor;
+       Whereas there are more than 4,900 members of the Pearl 
+     Harbor Survivors Association;
+       Whereas the 66th anniversary of the attack on Pearl Harbor 
+     will be December 7, 2007;
+       Whereas on August 23, 1994, Public Law 103-308 was enacted, 
+     designating December 7 of each year as National Pearl Harbor 
+     Remembrance Day; and
+       Whereas section 129(b) of title 36, United States Code, 
+     requests that the President issue each year a proclamation 
+     calling on the people of the United States to observe 
+     National Pearl Harbor Remembrance Day with appropriate 
+     ceremonies and activities, and all departments, agencies, and 
+     instrumentalities of the Federal Government, and interested 
+     organizations, groups, and individuals, to fly the flag of 
+     the United States at half-staff each December 7 in honor of 
+     the individuals who died as a result of their service at 
+     Pearl Harbor: Now, therefore, be it
+       Resolved, That the Senate, on the occasion of the 66th 
+     anniversary of the December 7, 1941, attack on Pearl Harbor, 
+     Hawaii, pays tribute to--
+       (1) the United States service members and civilians who 
+     died in the attack; and
+       (2) the members of the Pearl Harbor Survivors Association.
+
+  Mr. AKAKA. Mr. President, I rise today in honor of National Pearl 
+Harbor Remembrance day. Earlier today, my good friend and colleague 
+Senator Inhofe and I introduced a Senate Resolution expressing the 
+sense of the Senate regarding National Pearl Harbor Remembrance day and 
+paying tribute to those servicemembers and civilians
+
+[[Page 33492]]
+
+who died in the attack on Pearl Harbor on December 7, 1941, as well as 
+the current members of the Pearl Harbor Survivor Association.
+  Today is the 66th anniversary of the attack on Pearl Harbor. Memorial 
+ceremonies are taking place at the Naval Station Pearl Harbor to 
+commemorate the 66th anniversary of the attack. Later, the dedication 
+ceremony for the new USS Oklahoma Memorial will also take place on Ford 
+Island at Pearl Harbor. The battleship Oklahoma was anchored along Ford 
+Island on December 7, 1941, and suffered the second greatest loss of 
+life during the attack after the USS Arizona. It is the last ship to 
+have been destroyed that fateful day to get its own memorial. Clearly, 
+this memorial is long overdue. Prayers, reflections, and tributes will 
+be offered during each of these ceremonies to honor the service and 
+sacrifice of the men and women who fought and died in the defense of 
+our great country.
+  This 66th anniversary of the attack on Pearl Harbor also marks the 
+beginning of a new commemoration for all of our Nation's fallen, called 
+Old Glory's Journey of Remembrance. The journey begins today with Old 
+Glory being flown over the USS Arizona Memorial. The flag will then be 
+taken to, and flown over, 24 other military memorial sites around the 
+country. The journey culminates in observance of the National Moment of 
+Remembrance on Memorial Day at 3 p.m. local time with Old Glory being 
+flown above the U.S. Capitol.
+  Mr. President, the resolution that I and Senator Inhofe introduced 
+requests that all of my Senate colleagues join together with our fellow 
+Americans in Hawaii and across the Nation to remember and honor the 
+more than 2,400 courageous American sailors, soldiers, and marines who 
+were killed in the raid on Pearl Harbor, as well as to honor those who 
+survived the attack.
+  For those too young to remember 1941, the attack on Pearl Harbor is 
+something learned in history books. But to those in Hawaii who, like 
+myself, witnessed the attack, the events of December 7 are a painful, 
+vivid memory, and a personal experience that can never be forgotten. 
+While the Japanese surprise attack was a calamity that forever changed 
+the course of history, our country fought back in the name of justice 
+to preserve our Nation's sacred freedoms. I urge the citizens of this 
+Nation to remember that it was the sacrifices made by ordinary men and 
+women who rallied in defense of freedom, liberty, and the great promise 
+of our democracy that preserved our Nation's freedom and liberty. Their 
+sacrifices represent the greatest heroism and patriotism in the service 
+of our country.
+  Mr. President, I hope that my Senate colleagues will join me today in 
+prayer and remembrance for those courageous men and women who died in 
+Pearl Harbor on that infamous day.
+  Mr. INHOFE. Mr. President, every American owes a debt of gratitude to 
+the men and women who lost their lives during the attack on Pearl 
+Harbor. They gave all they had in selfless service to the Nation. We 
+recognize the contributions and sacrifice of the survivors of the 
+attack who went on to secure our freedom and our cherished way of life. 
+In the face of seemingly insurmountable challenges and countless 
+unknowns, they never demanded praise, they never presumed eminence. 
+They taught future generations the importance of recognizing and 
+remaining vigilant against tyranny in all forms. We also remember the 
+families of the fallen service members. They bore the greatest burden 
+and bravely perpetuated the dignity and the memories of the heroes 
+taken from us on that infamous day.
+  Mr. DOMENICI. Mr. President, I would like to speak for a moment in 
+remembrance of the 66th anniversary of the attack on Pearl Harbor and 
+pay tribute to all the Americans who lost their lives that day.
+  On December 7, 1941, our Nation was brutally attacked at Pearl 
+Harbor, and over 2,400 Americans were killed. Though surprised and 
+overwhelmed by wave after wave of Japanese planes, the members of our 
+armed forces valiantly defended their ships, the naval base and the 
+surrounding army air fields.
+  I believe Pearl Harbor will always hold a prominent place in the 
+history of the United States, not only for the destruction that day 
+which triggered our entry into the Second World War, but as a shining 
+example of American heroism and courage in the face of adversity. I 
+know Americans will never forget the American servicemen and women who 
+were at Pearl Harbor 66 years ago today.
+  One of those servicemen was John Anderson of Roswell, NM. John had 
+only recently been assigned to the USS Arizona along with his twin 
+brother Jake when the Japanese attacked on December 7. Though burned 
+himself, John worked to rescue other survivors from the badly damaged 
+and sinking Arizona until the small boat he and other servicemen were 
+using to pull drowning men from the water of the harbor was also sunk. 
+Terribly, 1,177 sailors from the Arizona, including John's brother 
+Jake, did not survive.
+  John went on to serve 35 years in the Navy, marry his wife, Karolyn, 
+have three sons and later become the long time weatherman for KBIM-TV 
+in Roswell. I would like to thank John for his brave service and would 
+like to personally honor all the New Mexicans like Jake Anderson who 
+fought and lost their lives that day.
+  Pearl Harbor, of course, was just the beginning of several long years 
+of war during which millions of Americans would answer the call of 
+duty. I would like to take this opportunity to mention the service and 
+sacrifice of two such groups of individuals.
+  One of these groups is the Navajo Code Talkers, many of whom were 
+from my home State. The Code Talkers were marines who used their native 
+language to quickly transmit messages across the battlefields of the 
+Pacific Theater and served in every Marine division from 1942 to the 
+end of the war. Though the Japanese were able to break many American 
+codes during the war, they were never able to decipher the system used 
+by the Code Talkers. Their contribution to victory cannot be 
+underestimated. There is no doubt that their efforts saved countless 
+American lives, and it has even been said that without the Code Talkers 
+the battle of Iwo Jima could not have been won.
+  I would also like to talk about the soldiers of the 200th and 515th 
+Coastal Artillery units of the New Mexico National Guard, also known as 
+the New Mexico Brigade, who soon after the attack on Pearl Harbor 
+played a prominent and heroic role in the fierce fighting in the 
+Philippines. For 4 months the men of the New Mexico Brigade helped hold 
+off the Japanese only to be defeated by disease, starvation and a lack 
+of ammunition. Sadly, the survivors of the Battle of Bataan from the 
+New Mexico Brigade were subjected to the horrors and atrocities of the 
+65 mile ``Death March,'' as well as years of hardship and forced labor 
+in Japanese prisoner of war camps. Tragically, of the 1,800 men of the 
+New Mexico Brigade more than 900 never returned home.
+  In closing, I hope New Mexicans will take a moment to honor the 
+individuals who fought so gallantly 66 years ago today as well as all 
+those who served throughout the Second World War, and remember those 
+who paid the ultimate price for our Nation.
+  The ACTING PRESIDENT pro tempore. The Senator from Rhode Island.
+
+                          ____________________
+```
