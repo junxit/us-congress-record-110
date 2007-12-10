@@ -1,0 +1,41 @@
+---
+granule: CREC-2007-12-10-pt1-PgH15212-2
+date: 2007-12-10
+edition: CREC
+section: HOUSE
+page: H15212
+citation: 153 Cong. Rec. H15212
+---
+
+# COMMUNICATION FROM THE CLERK OF THE HOUSE
+
+**Measures:** H.R. 238
+
+```
+               COMMUNICATION FROM THE CLERK OF THE HOUSE
+
+  The SPEAKER pro tempore laid before the House the following 
+communication from the Clerk of the House of Representatives:
+
+                                              Office of the Clerk,
+
+
+                                     House of Representatives,
+
+                                 Washington, DC, December 4, 2007.
+     Hon. Nancy Pelosi,
+     The Speaker, H-232 The Capitol, House of Representatives, 
+         Washington, DC.
+       Dear Madam Speaker: Pursuant to the permission granted in 
+     Clause 2(h) of Rule II of the Rules of the U.S. House of 
+     Representatives, the Clerk received the following message 
+     from the Secretary of the Senate on December 4, 2007, at 9:57 
+     a.m.:
+       That the Senate passed with an amendment H.R. 238.
+       With best wishes, I am
+           Sincerely,
+                                               Lorraine C. Miller,
+     Clerk of the House.
+
+                          ____________________
+```
