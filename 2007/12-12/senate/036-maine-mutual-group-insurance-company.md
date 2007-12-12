@@ -1,0 +1,91 @@
+---
+granule: CREC-2007-12-12-pt1-PgS15229-5
+date: 2007-12-12
+edition: CREC
+section: SENATE
+page: S15229
+citation: 153 Cong. Rec. S15229
+---
+
+# MAINE MUTUAL GROUP INSURANCE COMPANY
+
+**Speaking:** Snowe, Olympia J. (S000663) [R-ME]
+
+```
+                  MAINE MUTUAL GROUP INSURANCE COMPANY
+
+● Ms. SNOWE. Mr. President, today I recognize Maine Mutual Group 
+Insurance Company, MMG, a premier regional property and casualty 
+insurance company that continues to grow and flourish. I am 
+particularly pleased that
+
+[[Page S15230]]
+
+MMG recently completed a major expansion of its headquarters this 
+October.
+  Like many American success stories, MMG has humble roots. The company 
+was founded in Houlton, ME, in 1897, by a group of local farmers who 
+were concerned about the cost and limited availability of insurance in 
+Aroostook County. In 1906, the company moved to Presque Isle, where it 
+remains today. In 1968, the company changed its name when it merged 
+with Maine Mutual Fire Insurance Company. It subsequently merged with 
+United Mutual Insurance Company 10 years later. The company grew 
+exponentially following these mergers, from a premium volume of under 
+$1 million in 1968, to over $20 million by 1988, and over $107 million 
+by 2006.
+  Evolving from a modest local business to a regional force, MMG 
+expanded into Vermont in 1981, New Hampshire in 1984, and Pennsylvania 
+in 2006. In March 2002, the company restructured as a mutual holding 
+company and adopted its present name. By 2006, MMG's policyholder 
+surplus reached a record high of $55.9 million, a 127-percent increase 
+over the previous 5 years. And all the while, the company maintained 
+its presence in Maine's northernmost county, Aroostook County, or ``the 
+County'' as Mainers know it. The County finds itself hundreds of miles 
+from urban and financial centers, and the fact that MMG remains in 
+Aroostook County speaks volumes to its commitment to the community and 
+people of this rural county.
+  Two months ago, MMG completed a $5 million expansion of its 
+headquarters in Presque Isle, adding 20,000 square feet to the facility 
+and creating an additional 50 jobs. Anticipating further growth, the 
+new headquarters can accommodate about 200 employees. The phenomenal 
+growth is first and foremost attributable to the hard work ethic of the 
+people in northern Maine and the company's outstanding leadership.
+  Additionally, in order to continue to grow its business, the company 
+must retain additional investment, and thankfully, through the new 
+markets tax credit, NMTC, Coastal Enterprises of Wiscasset, ME, will 
+soon be enabled to make a sizeable investment in this company. The new 
+markets tax credit program continues to promote investment and economic 
+growth for rural communities throughout Maine. And that is why as a 
+member of the Senate Committee on Finance, I fought for and 
+successfully secured an extension of the NMTC through the end of 2008 
+to ensure this pivotal program wouldn't just expire at the end of this 
+year--but continue. I am not stopping there, and I am in the process of 
+fighting for another extension. The credit's impact on our State cannot 
+be overstated. This expansion alone of a progressive, regional company 
+in Maine Mutual Group reinforces the value and power of the New Markets 
+Tax Credit in strengthening our communities, exemplifying the best that 
+public-private cooperation can offer.
+  Maine Mutual Group's numerous achievements have not gone unnoticed. 
+In 1991, the firm gained the Governor's Award for Business Excellence. 
+More recently, MMG garnered the Maine Insurance Company of the Year 
+Award in 2000 and 2005, and the New Hampshire Insurance Company of the 
+Year Award in 2004. With all insurance companies operating within those 
+States being eligible for the awards, it is particularly impressive 
+that MMG bested larger national competitors several times over the last 
+decade.
+  In 2007, MMG was rated the top performer on Deep Customer Connections 
+Inc.'s Ease of Doing Business survey. In this survey, more than 8,000 
+independent agents and brokers assessed the performance of over 220 
+property and casualty carriers, by comparing them in areas such as 
+underwriting responsiveness and promptness in handling claims, as well 
+as providing effective technology. In addition, MMG was ranked the 
+number one medium-sized company in Maine on the ``Best Places to Work 
+in Maine'' list this year.
+  I congratulate MMG on a job well done, and I look forward to watching 
+its bright future unfold. As MMG continues building on recent 
+achievements, it is well positioned to pursue new market opportunities 
+in the years ahead. MMG is truly a valued member of our business 
+community, and I am honored that it has served Maine so well.●
+
+                          ____________________
+```
