@@ -1,0 +1,3067 @@
+---
+granule: CRECB-2007-pt25-Pg34445
+date: 2007-12-14
+edition: CRECB
+section: SENATE
+page: 34445
+---
+
+# FARM, NUTRITION, AND BIOENERGY ACT OF 2007
+
+```
+               FARM, NUTRITION, AND BIOENERGY ACT OF 2007
+
+  The PRESIDING OFFICER. Under the previous order, the Senate will 
+resume consideration of H.R. 2419, which the clerk will report.
+  The legislative clerk read as follows:
+
+       A bill (H.R. 2419) to provide for the continuation of 
+     agricultural programs through fiscal year 2012, and for other 
+     purposes.
+
+  Pending:
+
+       Harkin amendment No. 3500, in the nature of a substitute.
+       Chambliss (for Cornyn) amendment No. 3687 (to amendment No. 
+     3500), to prevent duplicative payments for agricultural 
+     disaster assistance already covered by the agricultural 
+     disaster relief trust fund.
+       Chambliss (for Coburn) modified amendment No. 3807 (to 
+     amendment No. 3500), to ensure the priority of the farm bill 
+     remains farmers by eliminating wasteful Department of 
+     Agriculture spending on golf courses, junkets, cheese 
+     centers, and aging barns.
+       Salazar amendment No. 3616 (to amendment No. 3500), to 
+     amend the Internal Revenue Code of 1986 to provide incentives 
+     for the production of all cellulosic biofuels.
+       Thune (for McConnell) amendment No. 3821 (to amendment No. 
+     3500), to promote the nutritional health of school children, 
+     with an offset.
+       Thune (for Roberts/Brownback) amendment No. 3549 (to 
+     amendment No. 3500), to modify a provision relating to 
+     regulations.
+       Domenici amendment No. 3614 (to amendment No. 3500), to 
+     reduce our Nation's dependency on foreign oil by investing in 
+     clean, renewable, and alternative energy resources.
+       Thune (for Gregg) amendment No. 3674 (to amendment No. 
+     3500), to amend the Internal Revenue Code of 1986 to exclude 
+     discharges of indebtedness on principal residences from gross 
+     income.
+       Thune (for Gregg) amendment No. 3822 (to amendment No. 
+     3500), to provide nearly $1,000,000,000 in critical home 
+     heating assistance to low-income families and senior citizens 
+     for the 2007-2008 winter season, and reduce the Federal 
+     deficit by eliminating wasteful farm subsidies.
+       Thune (for Grassley/Kohl) amendment No. 3823 (to amendment 
+     No. 3500), to provide for the review of agriculture mergers 
+     and acquisitions by the Department of Justice.
+       Thune (for Stevens) amendment No. 3569 (to amendment No. 
+     3500), to make commercial fishermen eligible for certain 
+     operating loans.
+       Thune (for Bond) amendment No. 3771 (to amendment No. 
+     3500), to amend title 7, United States Code, to include 
+     provisions relating to rulemaking.
+       Sanders amendment No. 3826 (to amendment No. 3822), to 
+     provide for payments under subsections (a) through (e) of 
+     section 2604 of the Low-Income Home Energy Assistance Act of 
+     1981, and restore supplemental agricultural disaster 
+     assistance from the agricultural disaster relief trust fund.
+       Harkin/Murkowski amendment No. 3639 (to amendment No. 
+     3500), to improve nutrition standards for foods and beverages 
+     sold in schools.
+
+  Mr. McCONNELL. Mr. President, I rise today to speak to an amendment 
+that will improve the nutrition and health of our Nation's school 
+children.
+  Annually, the United States spends approximately $300 million for 
+nutrition education for the Women, Infants, and Children, WIC Program 
+and $500 million for nutrition education in conjunction with the Food 
+Stamp Program. However, there is virtually no funding being dedicated 
+to nutrition education in our Nation's schools.
+  You might ask why nutrition education in the school setting is 
+important. According to the Centers for Disease Control and Prevention, 
+16 percent of children between 6 and 19 years old are overweight or 
+obese--a number that has tripled since 1980. Experts agree that the 
+lack of physical activity and poor eating habits contribute to this 
+epidemic. While national guidelines recommend 150 minutes of physical 
+activity each week for elementary children and 225 minutes for older 
+children, few schools meet these criteria. In addition, studies have 
+shown that children who eat well-balanced meals at school are more 
+likely to practice lifelong healthy eating and help their families make 
+smart meal choices.
+  Accordingly, my amendment provides $18 million to States to educate 
+schoolchildren on the importance of consuming a nutritious diet as well 
+as increasing their level of physical activity. Funds will be directed 
+to the Team Nutrition Network, which is administered by the USDA, and 
+then distributed to the States in the form of a grant.
+  In addition, this amendment also calls on USDA to conduct periodic 
+surveys of foods purchased by school food authorities participating in 
+the National School Lunch Program. According to USDA, the most recent 
+data on school food purchases are a decade old. New data would help 
+USDA to provide guidance to schools to create meals that conform to the 
+most recent Dietary Guidelines for Americans, better manage the types 
+and varieties of foods procured by USDA on behalf of schools, and 
+assess the economic impact of school food purchase on various commodity 
+sectors.
+  During my tenure in the U.S. Senate, I have been a strong advocate 
+for nutrition programs, especially those that are targeted at our 
+Nation's children. During the last farm bill, I proposed an amendment 
+that directed a portion of loan rates to increase food stamp benefits 
+for the disabled and working families with children. This was a small 
+price to help provide for some of the neediest in our Nation.
+  In addition, I have introduced legislation in past Congresses that 
+would have encouraged the increased consumption of calcium-rich milk by 
+school children, provided grants to schools to make available healthy 
+food choices, and expanded the School Breakfast Program.
+  Federal nutrition programs are an important safety net for our 
+country, especially our Nation's children. I hope my colleagues 
+understand the importance of addressing this issue, and I urge them to 
+support my amendment.
+  Mr. GRAHAM. Mr. President, I rise today in support of the passage of 
+the 2007 farm bill reauthorization. First, I would like to thank 
+Chairman Harkin, Ranking Member Chambliss and their staff for their 
+tireless efforts to compile comprehensive farm legislation that 
+addresses many differing interests. I truly benefited from their 
+guidance on agriculture matters and look forward to working with them 
+on the Committee on Agriculture, Nutrition and Forestry.
+  The passage of this legislation is a testament to the will of the 
+Senate to sustain our Nation's agriculture industry. A product of much 
+negotiation and compromise, this bill contains true reform and provides 
+for our Nation through improvements in nutrition, conservation, rural 
+development and energy programs.
+  I applaud the Senate's commitment to maintaining and improving the 
+current safety net for producers. It is vital that we continue to 
+support these programs so that our producers can remain competitive 
+globally and survive here in the United States. As a matter of national 
+security, we must support programs that will ensure a reliable
+
+[[Page 34446]]
+
+and constant food supply for all Americans.
+  The Senate-passed language touches the lives of millions of Americans 
+who benefit from food assistance, conservation and land stewardship, 
+rural development, and energy programs. I am especially pleased by the 
+provisions relating to energy programs and our farming community. I 
+believe that our producers can play an important role in addressing 
+climate change. This bill takes important strides towards the 
+protection of our environment through the authorization of energy 
+programs that build on the potential of cellulose-based ethanol as an 
+alternative energy source.
+  This legislation is the product of many months of negotiations and 
+undoubtedly the sacrifices of many in order to arrive at this juncture. 
+I am hopeful that the Conference Committee will produce a conference 
+report similar to the Senate version of the farm bill, and that the 
+Senate considers it in a timely manner so that all Americans can 
+benefit from these programs at the earliest opportunity.
+  Mr. President, I yield the floor.
+  Mr. JOHNSON. Mr. President, I wish today to state my support of the 
+Senate farm bill and urge my colleagues to vote in favor of this 
+measure. While this bill is not perfect, I believe that it contains 
+strong agriculture policy that will advance a number of initiatives 
+important to Great Plains production agriculture and to farmers and 
+ranchers across America.
+  I would like to first thank my good friend from Iowa, Tom Harkin, 
+who, as chairman of the Senate Agriculture Committee, shepherded this 
+fine bill through the committee consideration process. Chairman Harkin 
+has been considerate to the contribution of the Great Plains region to 
+our nation's agriculture economy and national food security, and this 
+product reflects that recognition.
+  I am also pleased that this bill reflects many of the priorities that 
+were shared with me not only in roundtable discussions in South Dakota 
+with interested stakeholders, but also through letters, e-mails and 
+phone calls from people in my home State.
+  I would like to take this time to speak to some of the provisions 
+contained in this legislation, and why these provisions will be good 
+for South Dakota agriculture. To begin with title I, this measure 
+offers strong commodity safety nets, which is arguably the anchor of 
+the omnibus Federal Farm Bill that Congress reauthorizes every 5 years. 
+Under this legislation, our commodity payment structure is retained, 
+with modest, albeit important, increases made to the loan rates and 
+target prices for many commodities. Among those commodities seeing 
+improvements under this bill are sorghum--target price increase to 
+$2.63/bu.--barley--loan rate increase to $1.95/bu. as well as a target 
+price increase to $2.63/bu.--oats--increase in loan rate to $1.39/bu. 
+and increase in target price to $1.83/bu.--wheat--loan rate increase to 
+$2.94/bu. and target price increase to $4.20/bu.--soybeans--target 
+price increase to $6.00/bu.--oilseeds--loan rate increase to $10.09/
+cwt. and target price increase to $12.74/cwt.--and wool and honey--
+established loan rates are $1.20/lb. and $.72/lb., respectively--in 
+addition to desirable target prices and loan rates for dry peas, 
+lentils, and chickpeas.
+  Producers will also have a choice for participation in the Average 
+Crop Revenue, ACR, program, under which payments will be made when the 
+State revenue for a covered commodity is less than the average 
+guarantee for that particular commodity. I do retain concerns for the 
+implementation of this particular program because of the drastic 
+disparity in county-based revenue in my home State of South Dakota. I 
+am, however, pleased that the basic farm safety net from the 2002 
+measure remains intact, and that the ACR program was delinked from crop 
+insurance during committee consideration.
+  Under this package, our farmers and ranchers across the nation will 
+also benefit from a structured response to emergency agriculture 
+disaster. This structured response program also will not, I am very 
+pleased to say, function as a disincentive for investing in coverage 
+under the Federal Crop Insurance Act, FCIA, and the Non-Insured Crop 
+Disaster Assistance Program, NAP. The United States Department of 
+Agriculture, USDA, and White House have been less than friendly toward 
+our efforts to secure meaningful disaster assistance, going so far as 
+to issue multiple veto threats against emergency spending initiatives 
+because they contained meaningful relief for farmers and ranchers. The 
+White House claimed that farmers and ranchers across America were 
+generating remarkable revenue and enjoying tremendous profits, which 
+clearly demonstrates this administration's disconnect with agricultural 
+communities throughout the United States. Agriculture disaster is like 
+any other natural disaster, and I am very proud to have pushed with my 
+Senate colleagues for the proposal included in this bill.
+  As the author of the COOL provision included in the 2002 farm bill, I 
+am pleased to see that this bill contains a very critically important 
+compromise on mandatory Country of Origin Labeling, COOL, that will 
+allow for streamlined, commonsense implementation, which is something 
+that the USDA has been unable to accomplish in the 5-plus years since 
+the enactment of the 2002 farm bill. The USDA has mercilessly botched 
+the rulemaking process on this consumer right-to-know and producer 
+marketing program, promulgating unworkable regulations that would 
+burden farmers and ranchers as well as retailers.
+  The COOL compromise language included in the committee version of the 
+farm bill, which was passed unanimously by that body, allows, for 
+example, for the use of records for origin verification which are part 
+of daily business, in addition to allowing State, region or locality of 
+the United States information as being sufficient to identify the 
+United States as the point of origin. These implementation guidelines 
+are important to ensure that producers or retailers are not saddled 
+with unnecessary costs or recordkeeping burdens that the USDA would 
+have preferred, and that we can deliver a program that in excess of 91 
+percent of American consumers want.
+  The Senate version of the farm bill also contains another measure 
+which I have championed for years, pertaining to the livestock sector. 
+I am pleased that the ban on packer ownership of livestock was included 
+in the en bloc amendments during committee consideration of the bill, 
+which speaks to the significant support this measure retains within the 
+Senate. The livestock industry is faced with ever-increasing horizontal 
+concentration and vertical integration, and our independent farmers and 
+ranchers are confronted with a shrinking number of opportunities for 
+price discovery and product promotion. The packer ban would rectify 
+this very negative and troubling transition in the livestock industry.
+  The packer ban adopted by the committee would ensure that packers 
+cannot own livestock more than 14 days prior to slaughter. There are a 
+number of reasonable exceptions to this prohibition, including packers 
+that own only one slaughtering facility, packers that are not required 
+to participate in the Mandatory Price Reporting, MPR, program, and for 
+cooperatives. The packer ban would ensure that farmers and ranchers are 
+materially engaged with the management of their livestock.
+  I offered the packer ban during consideration of the 2002 farm bill 
+on the Senate floor, and it was adopted by the body of the Senate. It 
+was, unfortunately, stripped out of the final bill during conference 
+consideration, as was the ``competition title'' included in the Senate 
+version of the bill. Our livestock producers have waited long enough 
+for these provisions, and I will continue to work with the Chairman of 
+the Agriculture Committee to see the packer ban passed into law. It is 
+good policy.
+  In that same vein, I am pleased to see several other competition 
+provisions that are included in this bill. This farm bill would ensure 
+that contracts are fairer for growers, in that producers must agree and 
+consent to arbitration before it may be used for dispute settlement. 
+The bill also allows for the
+
+[[Page 34447]]
+
+creation of a Special Counsel for Agricultural Competition within USDA. 
+Both prosecutions and investigations will be combined within one 
+office, and the counsel will oversee enforcement activities in 
+coordinating with the Department of Justice and Federal Trade 
+Commission. It is my hope that this counsel will serve to offer a 
+greater level of transparency and that we may, in fact, see justice 
+served with respect to egregious misdeeds in our livestock sector.
+  I am, however, greatly disappointed about the exclusion of Dorgan-
+Grassley amendment No. 3695, of which I cosponsored, to enact 
+commonsense, meaningful farm program payment limitations.
+  The current farm program payment structure has, quite simply, failed 
+rural America. Approximately 71 percent of our farm benefits are 
+absorbed by only 10 percent of the farming community. Our omnibus farm 
+bill is intended to promote programs that function as a safety net for 
+farmers, in contrast to the cash cow they have become for a few 
+producers. I do not favor eliminating our farm program benefits, but 
+rather prefer that they are targeted to small and medium sized 
+producers instead of large agribusiness.
+  The farm bill also includes a forward-looking energy title to grow 
+dedicated energy crops and capture the ingenuity of agriculture 
+producers to use biomass for energy production. The title invests in 
+the applied agriculture research already occurring at State 
+universities and land-grant colleges. Importantly, the bill also 
+balances the increasing demand to use working lands for energy 
+production with safeguards for protecting air, land, and water quality.
+  The bill establishes a loan guarantee and competitive grant program 
+to jump-start the construction of biorefineries producing renewable 
+fuels from dedicated energy crops. To meet the ambitious goal of 
+producing 36 billion gallons of renewable biofuels in 2022, the farm 
+bill establishes a program to provide access to capital for the 
+construction of pilot and demonstration-scale biorefineries to produce 
+advanced biofuels. Up to 80 percent of the costs of eligible projects 
+could be covered through a loan guarantee. Also, the programs intent is 
+clear that eligible projects include the conversion of existing fossil-
+fuel biorefineries powered by natural gas for loan guarantees and 
+competitive grants to repower these facilities using renewable energy 
+resources. South Dakota is a leader in producing ethanol from grains, 
+but there is the long-term promise of using biomass and dedicated 
+energy crops for producing advanced biofuels at a fraction of the 
+energy input requirement. I am glad that the program will include a 
+focus on biorefineries converting fuel generation sources for producing 
+advanced biofuels. This section in the bill is essential toward our 
+ability to significantly expand renewable fuel production.
+  The farm bill also builds on the 2002 act by providing $345 million 
+in mandatory funding to enable biorefineries to make greater purchase 
+of renewable biomass for advanced biofuel. These payments will increase 
+the purchase of feedstocks for next generation biofuels, such as 
+cellulosic ethanol.
+  I am glad that the bill harnesses the expertise of land grant 
+Institutions by reauthorizing the Sun grant initiative and providing a 
+modest amount of dedicated funding for carrying out program goals. 
+Since 2005, the Sun grant Initiative has enhanced coordination between 
+the Department of Energy and the United States Department of 
+Agriculture to assess and improve resource availability and feedstock 
+economics. The research and applications pursued through Sun grant is 
+crucial toward the eventual commercialization of dedicated energy 
+crops. Assessing the potential availability of energy feedstocks within 
+geographic regions can target which energy crops are optimal for 
+biofuel production. In the Midwest and Great Plains that might mean 
+cultivation of switchgrass while in the Southeast, poplar trees or 
+other fast-growing biomass may be optimal. Ultimately the research 
+conducted by the regional Sun grant centers will go a long way in 
+answering these regional questions and determining how best over the 
+long-term to produce fuel from non-grain biomass.
+  The conservation title included in this bill will encourage sound 
+land stewardship and land management practices. I requested, for 
+example, that the Senate version of the farm bill extend the 
+Conservation Reserve Program, CRP, and this program was extended with a 
+39.2 million acre cap through 2012. The Grasslands Reserve Program was 
+also included in the chairman's mark and extended at a $240 million 
+authorized level. I supported the payment limitations cap that would 
+have increased the authorization for this program, and while it is 
+unfortunate that this program wasn't expanded, I will continue to work 
+with my colleagues to push for adequate funding.
+  The Wetlands Reserve Program was reauthorized in the bill at 250,000 
+through 2012, and the Environmental Quality Incentives Program was 
+extended out with baseline funding. The program would provide for 75 
+percent cost-share, with the exception that beginning and young farmers 
+or socially disadvantaged farmers would receive 90 percent cost-share 
+or 15 percent above prevailing rates.
+  In several of my farm bill meetings, it was expressed to me that USDA 
+local work groups should be exempted from the Federal Advisory 
+Committee Act, FACA, by folding them into the State Technical 
+Committees. USDA local work groups coordinate USDA programs with other 
+Federal, State and tribal programs. FACA prohibits nongovernment 
+individuals, including farmers, from the USDA working group formal 
+decisionmaking process, whereas the State Technical Committee is 
+exempted from FACA. The farm bill includes this change, allowing for 
+farmers to be an integral and important part of the formal 
+decisionmaking process.
+  The Senate version of the farm bill contains a Sodsaver program, to 
+ensure that our nation's native grasslands remain intact. The program 
+would prohibit crop insurance under the Federal Crop Insurance Act or 
+Noninsured Crop Disaster Assistance Program payments on broken, native 
+sod indefinitely, allowing for exceptions with plots under 5 acres and 
+discretionary exemption by the Secretary of Agriculture for parcels 
+between 5 and 20 acres.
+  When we talk about the farm bill, we naturally tend to focus on the 
+provisions that affect our Nation's agricultural producers. I am 
+pleased to note that we have crafted a farm bill that will also greatly 
+improve Federal policy in the area of rural development, whose purpose 
+is to improve the quality of life for citizens of rural areas who are 
+not directly engaged in traditional agricultural production. With a 
+bill that benefits our producers and as well as those who make a living 
+off the farm, I believe citizens in the rural portions of our great 
+Nation can look forward to many brighter days ahead.
+  Last year, I announced my Hometown Prosperity Plan, which is an 
+economic development agenda that lays out my priorities for advancing 
+South Dakota's economy from the Federal level. The strategies in my 
+plan provided a framework for my priorities in the rural development 
+title of the 2007 farm bill. These priorities include: (1) ``Promoting 
+Partnerships,'' or encouraging greater regional economic cooperation to 
+enhance competitiveness; (2) ``Emphasizing Entrepreneurship,'' or 
+placing more emphasis on cultivating the creation of new businesses, as 
+a supplement to the traditional strategy of luring existing businesses 
+from elsewhere; (3) ``Investing in the Public Good'' by directing 
+Federal funds to projects that yield a positive return in the form of 
+higher standards of living, more jobs, and more prosperity; and (4) 
+``Protecting Pocketbooks'' by combating trends that sap economic 
+strength, such as rising health care costs, rising fuel prices, and 
+stagnant wages.
+  In the spring of this year, as Chairman Harkin was assembling his 
+proposals for the rural development portion of the farm bill, I wrote 
+to him to outline my rural development priorities. I was pleased to 
+find a great deal of common ground in our respective
+
+[[Page 34448]]
+
+priorities, which is not surprising, since our two States share a 
+border and many common characteristics. Senator Harkin, the Agriculture 
+Committee, and ultimately the full Senate, have produced a farm bill 
+that would enact many of the proposals in my Hometown Prosperity Plan, 
+and I would like to highlight a few of those.
+  One of the ways I proposed to act on the strategy of ``promoting 
+partnerships'' was to relaunch the Northern Great Plains Regional 
+Authority, which was created in the 2002 farm bill. The authority is a 
+voluntary organization modeled after the successful Appalachian 
+Regional Commission. Its mission is to enhance economic development by 
+promoting greater interstate economic cooperation and collaboration 
+across North Dakota, South Dakota, Nebraska, Iowa, and Minnesota. The 
+organization was created by Congress with the blessing of the 
+President, and is authorized to receive $30 million each year for 5 
+years to boost the competitiveness of our region. Unfortunately, the 
+President inexplicably changed his mind about the organization, and has 
+blocked its operation and most of its funding. The 2007 farm bill would 
+modify the organization's governance structure to allow the 
+organization to begin operating even without active support from the 
+President.
+  In addition to promoting economic partnerships between states, we can 
+also improve our economic performance through greater cooperation 
+between rural communities within our respective states. The new farm 
+bill would stimulate this kind of cooperation through the new Rural 
+Collaborative Investment Program, RCIP. Under this program, communities 
+within a region could receive Federal funds to leverage matching 
+private contributions in support of regional economic planning and 
+projects.
+  My strategy of ``investing in the public good'' means providing 
+Federal investments in activities the pay themselves back with 
+increased rural prosperity and quality of life. This farm bill would 
+increase the volume and quality of our investments in the public good 
+by extending, refining, and expanding several existing grant and loan 
+programs operated by USDA rural development. These include community 
+facilities grants and loans, water and wastewater infrastructure grants 
+and loans, the rural business enterprise grants, rural business 
+opportunity grants, value added agriculture development grants, 
+intermediary relending, distance learning and telemedicine grants and 
+loans, and the broadband access program, among others. These programs 
+have proven their effectiveness in improving the quality of life for 
+rural citizens across South Dakota, and they would have an even great 
+impact if we enact the farm bill approved by the Senate.
+  A great deal of research now demonstrates that my strategy of 
+``emphasizing entrepreneurship'' is one of the most effective ways we 
+can generate new private-sector job growth in our rural communities. 
+One of the ways I proposed to act on this strategy was by providing 
+incentives for greater private-sector equity investment in rural 
+business through the Rural Business Investment Program, RBIP. 
+Unfortunately, venture capital and other forms of equity are relatively 
+scarce in rural States, and the RBIP was created in the 2002 Farm Bill 
+to address this scarcity. It was modeled on a similar program operated 
+successfully by SBA. Unfortunately, overly complicated implementation 
+rules have prevented this program from achieving its potential of 
+luring more private investment to fast-growing companies in rural 
+America. By modifying and streamlining the program, the new farm bill 
+will catalyze more private investment and more rapid private-sector job 
+creation in rural communities.
+  Another way to emphasize entrepreneurship is by stimulating more 
+business startups through microlending. Many would-be entrepreneurs in 
+local areas cannot get access to the small quantities of capital needed 
+to implement sound concepts for new businesses. The delivery of 
+``microloans'' to these individuals is a proven way of creating more 
+small businesses. Because microloan programs require small quantities 
+of capital, and the loans are repaid, the programs are also highly 
+cost-effective. The farm bill's new Rural Microenterprise Assistance 
+Program would help to reverse the loss of rural population that results 
+from inadequate economic opportunities.
+  Among other things, my strategy of ``protecting pocket books'' means 
+taking action to address economic trends that sap our economic 
+strength, such as exploding health care costs. One way we will do that 
+in this farm bill is by providing federal funds for conversion to 
+electronic records at rural hospitals. Keeping these hospitals viable 
+helps rural citizens avoid lengthy trips to health care facilities in 
+far-away cities. And computerizing medical records at those hospitals 
+should increase their efficiency and reduce costs to consumers. Between 
+this initiative, and our extension of the Distance Learning and 
+Telemedicine grant and loan program, I believe we can help to reverse 
+the rising healthcare costs that are especially hard on the pocketbooks 
+of rural citizens.
+  In any piece of legislation as comprehensive and far-reaching as a 
+farm bill, there are always components whose final form leaves room for 
+improvement. Unfortunately, that maxim holds true in the case of the 
+farm bill approved by my Senate colleagues and me. Nevertheless, on the 
+whole I am pleased with this bill in general and its rural development 
+components in particular. By enacting many proposals from my Hometown 
+Prosperity Plan, this bill would improve the economy and quality of 
+life in the rural communities that South Dakotans call home. I 
+appreciate my Senate colleagues' support for these initiatives, and am 
+hopeful that we can realize their promise by enacting this bill into 
+law.
+  We live in a country of great abundance, yet millions of Americans go 
+to bed hungry each night. With more than 39 million people in the 
+United States participating in federally supported nutrition programs 
+each year, it is crucial that the farm bill contains a nutrition title 
+that not only feeds the hungry, but also works toward ending hunger, 
+preventing obesity and improving diets. Given the budgetary constraints 
+that our Senate Agriculture Committee faced in crafting this farm bill, 
+I applaud them for writing a strong nutrition title, which will well 
+serve America's nutrition needs for years to come.
+  I was extremely pleased that the Food Stamp Program has been 
+modernized to meet the many needs that low-income families face every 
+day. Roughly 58,000 South Dakotans currently receiving food stamp 
+benefits each month will now be able to buy more food with their 
+benefits and will be able to better afford child care. Families will 
+also be able to save for their futures, while still remaining eligible 
+for the program by exempting tax-preferred education and retirement 
+accounts from counting against the asset limit.
+  As many of America's low-income seniors are being forced to choose 
+between much-needed prescription drugs and paying their bills, sadly, 
+many are left unable to afford an adequate and nutritious diet. The 
+Commodity Supplemental Food Program, CSFP, helps to fill in the 
+nutrition gaps in participants' diets by providing nutritious items 
+that they might not otherwise be able to afford. I worked closely with 
+members of the Senate Agriculture Committee to ensure that more seniors 
+will be eligible to participate in this important program by changing 
+the eligibility guidelines from 130 percent to 185 percent to reflect 
+the poverty guidelines of all other Federal nutrition programs. Once 
+the five new states that have applied to participate in CSFP receive 
+funding, then all States can apply to go up to 185 percent Federal 
+poverty level, FPL, if they so choose. In addition, the preference 
+requirement for women, infants and children in the application process 
+was eliminated, allowing senior citizens equal access to the program.
+  The Emergency Food Assistance Program, TEFAP, is another vital 
+program in our Nation's fight against hunger. With food banks across 
+the country experiencing critical food shortages
+
+[[Page 34449]]
+
+and an increasing number of Americans in need of emergency food 
+assistance, the increase in funding from $140 million to $250 million 
+is especially crucial.
+  We must do all that we can to ensure our children grow up healthy, 
+regardless of their family's income and I believe that expanding the 
+Fresh Fruit and Vegetable Program, FFVP, in all 50 States works toward 
+that goal. Since 2004, students on the Pine Ridge Indian Reservation in 
+South Dakota have received fresh fruits and vegetables through the FFVP 
+pilot program. I am pleased that these students and others across the 
+nation will now have regular access to fresh fruits and vegetables.
+  I was disappointed to see that the elimination of reduced price, ERP, 
+category was not included in the nutrition title of the Farm Bill. The 
+President's budget decisions have forced the Senate majority leadership 
+to concentrate nutrition funding on existing programs, leaving little 
+or no funding for new initiatives, such as eliminating the reduced 
+price category from the school lunch program.
+  This farm bill also strengthens the Food Distribution Program on 
+Indian Reservations, FDPIR, program by ensuring that tribes will be 
+able to obtain traditional foods, such as bison, in their food 
+packages. I have long fought for more traditional food options for our 
+tribes and I am pleased that Chairman Harkin included my request in the 
+chairman's mark.
+  This farm bill is a strong proposal for South Dakota, for the Great 
+Plains region and for the American agricultural community. While 
+reauthorization is a critically important prong of our farm bill 
+policy, our Federal farm programs are only as strong as the dollars put 
+behind them. As a member of the Senate Appropriations Committee, and 
+more specifically, the Senate Agriculture Appropriations Subcommittee, 
+I am well positioned to fight for South Dakota priorities and to 
+deliver promised farm bill programs into our rural communities. The 
+dollars I work to obtain in this bill are vitally important, for 
+example, to continuing agriculture research within my home State and at 
+South Dakota State University, my home State's land grant university. 
+As we work our way through the budgetary constraints with which 
+Congress is faced, I will continue to promote our nation's farming and 
+ranching agenda.
+  Mr. President, farmers and ranchers have been anxiously awaiting a 
+new farm bill so they can make important management decisions in this 
+coming year, and I am hopeful that the Senate and House can meet 
+quickly in this next congressional session to iron out the differences 
+between the two measures.
+  Mr. KENNEDY. Mr. President, food safety is very much on the minds of 
+many Americans today, and the reason is as obvious as the newspaper 
+headlines in recent months.
+  From the Washington Post on November 29th: ``Bad Pet Food May Have 
+Killed Nearly 350.''
+  From the October 31 New York Times: ``Chinese Chemicals Flow 
+Unchecked to Market.''
+  From The Associated Press on September 27: ``Hamburgers may be 
+tainted with E. Coli.''
+  Suddenly, there is a danger that E. coli is present in many typical 
+foods. An E. coli outbreak in spinach last summer killed 3 people and 
+sickened more than 200 others. In recent months, E. coli has lead to 
+the recall of over 20 million pounds of ground meat. We have also had 
+salmonella in peanut butter and snack food and botulism in a chili 
+product. Even unlabeled allergens can routinely lead to the recall of 
+food. These examples, and the sharp decline of consumer confidence in 
+food safety, make clear that Congress must act quickly to deal with the 
+problem.
+  The FDA Science Board issued an alarming report last month, 
+concluding that the ``FDA does not have the capacity to ensure the 
+safety of food for the nation.''
+  In his years in both the House and now the Senate, Senator Durbin has 
+been a leader in efforts to improve food safety--from his Safe Food Act 
+to the Human and Pet Food Safety Act. He offered a food safety 
+amendment on the FDA bill last May that we accepted 94 to 0, and it was 
+included in the final bill approved by Congress and signed by the 
+President in September. I commend his working with us to produce an 
+amendment to the farm bill to address the issue now with the new 
+urgency it requires.
+  Because of the work of Senator Durbin, the farm bill includes a 
+commission to investigate food safety and make recommendations to the 
+President and Congress, including specific legislative proposals and 
+budget estimates. The amendment we have offered builds on the work of 
+the commission. It requires the President to submit a legislative 
+proposal in response to the commission's recommendations, with Congress 
+following up with appropriate action. It also includes a sense-of-the-
+Senate provision that the Congress must approve more resources for food 
+safety, must work for a comprehensive response on the issue, and that 
+the Federal Government must work cooperatively with foreign governments 
+to improve the safety of imported food.
+  I agree with Senator Durbin that we need make more effective progress 
+on food safety. Both the European Union and Japan have stronger food 
+safety programs than we do. Most significantly, they have much stronger 
+programs on imported food, combining inspections in the country of 
+origin and the testing of imported foods. We should be able to do at 
+least as well.
+  Federal food safety agencies need power to identify food safety 
+problems more quickly and respond more effectively, especially to 
+prevent outbreaks in food. Every aspect of the food industry must have 
+an effective plan in place to prevent hazards in the food it grows, 
+prepares, or markets.
+  A hearing in the HELP Committee earlier this month began this 
+process. I am committed to achieving a comprehensive response to food 
+safety, and I look forward to working with Senator Enzi, Senator 
+Durbin, Senator Harkin, and my other colleagues on the committee to 
+develop that proposal early in the new year. Our amendment to the farm 
+bill will require the President to follow up in 2009 or early 2010 with 
+a further legislative proposal if additional efforts are needed to 
+improve the safety of our food supply.
+  Every day, parents across the Nation prepare breakfast, lunch, and 
+dinner for their children. They expect these meals to nourish their 
+children, not sicken them. Action by Congress is essential to avoid the 
+risk that a fruit served for breakfast is contaminated with salmonella 
+or that the meat or cheese added to a lunch sandwich is contaminated 
+with listeria or that fish served for dinner contains antibiotic 
+residues or that the lettuce and other fresh produce in a salad is 
+contaminated with E. coli.
+  We all must act together, and I am grateful to Senator Durbin and the 
+managers of the farm bill, Senator Harkin and Senator Chambliss, for 
+working with us to make this amendment possible.
+  Mr. ENZI. Mr. President, I rise today to thank my colleague from 
+Illinois, Senator Durbin, for his hard work to improve his food safety 
+amendment No. 3539, which was accepted earlier this week. I had 
+concerns with this amendment as introduced because I think we should 
+focus on real solutions, not just abandon our current processes. I 
+appreciate my colleague's willingness to listen to my concerns and 
+those of Senator Kennedy and work to address them. In this time of 
+partisan bickering, I am gratified to see that cooperation is indeed 
+possible.
+  Our food safety system is the best in the world. We have an 
+incredible variety of foods available to us, at relatively low prices, 
+and with a generally excellent track record for safety. But things 
+aren't perfect, and I think we have plenty of work to do to make things 
+even better. The HELP Committee, which has jurisdiction over the FDA, 
+held a very informative hearing on food safety 1 week ago. We got some 
+great recommendations from stakeholders during that hearing, and we 
+plan to use those recommendations and the recent reports from HHS and 
+FDA to develop bipartisan legislation.
+  Going back a little further, during floor debate on the FDA bill in 
+May,
+
+[[Page 34450]]
+
+Senator Durbin and I, along with Senator Kennedy, worked on a food 
+safety amendment that was accepted 94 to 0. At that time, I pledged to 
+work with my colleagues on a comprehensive response to food safety. I 
+stand by that commitment.
+  I know that our staffs have met on food safety and work well 
+together. It is important that we get this right and that we get it 
+done. We can make real progress on real legislation to reform the food 
+safety system.
+  Let's keep working together. We can have real reform on this and on 
+other important issues such as health care. I look forward to working 
+with my colleagues on both sides of the aisle to achieve victory for 
+the American people on these important topics.
+  Ms. MURKOWSKI. Mr. President, per rule XLIV of the Standing Rules of 
+the Senate, I certify that I proposed an amendment to H.R. 2419, the 
+farm bill, that addresses income averaging for amounts received in 
+connection with the Exxon Valdez litigation. This amendment is a 
+limited tax benefit.
+  Mr. SPECTER. Mr. President, I seek recognition to give my reasons for 
+supporting the Senate passage of H.R. 2419, The Farm, Nutrition, and 
+Bioenergy Act of 2007, also known as the 2007 farm bill. I am voting 
+for it notwithstanding the subsidies that have grown since the 
+Agricultural Adjustment Act of 1933, and I believe moving toward a free 
+market for agriculture is highly desirable.
+  Many constituents in my home State of Pennsylvania have contacted me 
+to express support for final passage of the 5-year 2007 farm bill as 
+soon as possible. Agriculture is Pennsylvania's No. 1 industry, 
+contributing about $45 billion to the economy through production, food 
+processing, marketing, transportation and manufacturing. Since taking 
+office in 1981, I have fought hard for agriculture and nutrition 
+programs.
+  The many provisions in the bill that are beneficial to Pennsylvania 
+include the Milk Income Loss Contract program for our dairy producers, 
+increased funding for specialty crops, increased funding for nutrition 
+programs, and increased funding for conservation programs. While other 
+regions have received more money in previous farm bills through subsidy 
+programs for cotton, rice, wheat, soybean, and corn, this farm bill 
+directs more money to agriculture products in Pennsylvania than 
+previous farm bills.
+  The MILC program provides countercyclical payments to our dairy 
+producers when the price of milk falls below a set trigger price. Since 
+its inception in the 2002 farm bill, it has provided more than $220 
+million to our Pennsylvania dairy farmers. Although I worked hard to 
+ensure that any dairy provisions addressed costs of production, there 
+was resistance from Senators from other regions in the United States. 
+The bill also requires mandatory price reporting of sales transactions 
+of dairy commodities and calls for a study of collapsing the dairy 
+class system and a study of advance pricing. These provisions will help 
+create an open, transparent dairy market benefiting dairy farmers and 
+consumers.
+  Pennsylvania's specialty crop producers that include mushrooms, 
+apples, freestone peaches, and grapes will get the assistance they need 
+to market their products. The bill provides about $2.2 billion in 
+research and marketing programs funding. This is the most ever set 
+aside in a farm bill to assist these farmers who are left out of 
+traditional Federal farm programs.
+  The bill includes about $197.5 billion for nutrition programs, as 
+compared to about $178.158 billion in the previous 2002 farm bill. The 
+bill also includes $1 billion to expand the Fresh Fruit and Vegetable 
+Program, FFVP, nationwide over 5 years to reach nearly 4.5 million low-
+income children. FFVP allows schools to offer and promote free fresh 
+fruits and vegetables during the day.
+  Finally, the bill includes increased money for conservation programs 
+to help farmers use environmentally friendly farming practices. There 
+is about $22 billion for conservation programs, which is about $5 
+billion more than the 2002 farm bill. More specifically, the bill has 
+$165 million for conservation programs in the Chesapeake Bay watershed, 
+which includes large sections of Pennsylvania.
+  Taken together, these important programs benefit Pennsylvania. 
+Therefore, I support this farm bill.
+  Mrs. FEINSTEIN. Mr. President, I rise today to speak about 
+agricultural inspection at the Department of Homeland Security.
+  I believe there is a serious problem with agriculture inspections at 
+the Department of Homeland Security.
+  The causes are many. The stakes are high. The impact is potentially 
+devastating.
+  Here are the facts--documented in a 2006 GAO report, a 2007 
+Congressional Research Service memorandum, and a 2007 report prepared 
+for the House Committee on Agriculture.
+  Agriculture inspection at several key American points of entry has 
+significantly decreased. Inspections decreased in Miami by 12.7 
+percent, in Boston by 17.9 percent, and San Francisco by 21.4 percent; 
+the number of quarantine significant pest interceptions has declined by 
+31 percent since its high of nearly 74,000 in 2002; 22 percent of 
+agricultural specialists' time is spent on duties other than 
+agriculture inspection; and agriculture inspection at DHS is 
+subordinate to the Department's other priorities for drug and weapons 
+enforcement.
+  As the senior Senator from California, the largest agriculture State 
+in the Nation--a $32 billion industry--I cannot stand by while three 
+infestations of Medfly have occurred in my State just this year.
+  And other States have similar problems. Florida has seen a 29-percent 
+increase in pest outbreaks over the last 4 years.
+  It was my intention to offer an amendment to move the agriculture 
+inspection function back to the USDA--and I want to thank my lead 
+cosponsors on this amendment, Senator Martinez and Senator Casey.
+  However, I recognize there is strong objection to considering my 
+amendment in the Senate.
+  I have had multiple discussions with Secretary Chertoff on this 
+issue, and he has agreed to take action to improve agriculture 
+inspection.
+  Specifically, he has agreed to create a new Deputy Executive Director 
+for Agriculture Operational Oversight that is responsible for: managing 
+the joint Customs and Border Protection and USDA Agriculture Quality 
+Assurance program; monitoring agricultural inspection performance for 
+risk and efficiency; securing appropriate staffing and budget 
+allocation for agriculture inspection; ensuring that all directives and 
+policies specific to the agricultural programs are executed in 
+compliance with the agriculture mission; and ensuring there is open 
+dialogue with State and Federal counterparts to assure agricultural 
+inspection activities are being properly handled at ports of entry.
+  Additionally, he has assured me that the agriculture inspectors' time 
+will no longer be used for anything other than agriculture inspection.
+  So in light of those commitments, I have agreed to defer the 
+amendment.
+  I will ask unanimous consent to have printed in the Record the 
+December 13 letter from Secretary Chertoff, and the accompanying two 
+documents, which are copies of the two memoranda from the U.S. Customs 
+and Border Protection, establishing the actions to which we have 
+agreed.
+  But I will watch carefully to see that what the Secretary has agreed 
+to is implemented in the Department.
+  I want to thank the California Farm Bureau, the American Farm Bureau, 
+the State Departments of Agriculture and their association, the 
+Specialty Crop Farm Bill Alliance, and the many farm organizations that 
+supported this amendment.
+  I ask unanimous consent to have printed in the Record the documents 
+to which I have referred and the list of these organizations that wrote 
+in support.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+
+[[Page 34451]]
+
+
+                                                U.S. Department of
+
+
+                                            Homeland Security,
+
+                                Washington, DC, December 13. 2007.
+     Hon. Dianne Feinstein,
+     U.S. Senate,
+     Washington, DC.
+       Dear Senator Feinstein: I appreciate the discussions we 
+     have had over the last few weeks concerning the agricultural 
+     mission within U.S. Customs and Border Protection (CBP). I 
+     want to inform you of two actions the Department of Homeland 
+     Security is taking to address the concerns you have raised.
+       First, at my direction, the Assistant Commissioner of Field 
+     Operations at CBP has sent a memo to all field offices 
+     (attached) reaffirming that the Agriculture Specialists are 
+     to be specifically assigned to agricultural inspection 
+     activities and will be dedicated to the mission of protecting 
+     the Nation's food supply and agricultural industry from 
+     pests, diseases. and related bio-threats, absent exigent 
+     operational circumstances. To promote consistent 
+     implementation of this policy, the memo also outlines 
+     measures that CBP is taking to ensure that the activities of 
+     Agriculture Specialists are accurately recorded in CBP's 
+     Overtime and Scheduling System.
+       Second, as of January 2, 2008, a new position will he 
+     established within CBP to improve oversight of the 
+     agricultural mission across all CBP field offices. Named the 
+     Deputy Executive Director, Agriculture Operational Oversight, 
+     the new position will report to the Executive Director for 
+     Agriculture Programs and Trade liaison at CBP headquarters. 
+     The Deputy Executive Director will be charged with ensuring a 
+     more consistent application of agriculture inspection policy 
+     across all ports. The position will also serve as a primary 
+     point of contact for Joint Agency Task Force coordination 
+     issues for the Department, the Animal and Plant Health 
+     Inspection Service (APHIS) within the Department of 
+     Agriculture and stakeholders, and it will be responsible for 
+     outreach to Federal and State officials on border inspection 
+     issues. The Deputy Executive Director will oversee the Joint 
+     CBP/APHIS Agriculture Quality Assurance program and monitor 
+     agricultural performance measures for risk and efficiency. 
+     This office will also ensure compliance with all directives 
+     and policies specific to the agricultural programs, to 
+     include conducting field audits and reviews of Agriculture 
+     Specialist activities, and correcting deficiencies. In 
+     addition, the Deputy Executive Director will work to ensure 
+     that Agriculture Specialists have the equipment and resources 
+     needed to perform the agricultural inspection function. (A 
+     memo to field offices describing the new position in more 
+     detail is attached.)
+       I greatly appreciate your engagement on these critical 
+     issues, and I look forward to continuing our discussions with 
+     respect to your questions on agricultural referrals to 
+     secondary inspection. The measures we are undertaking are a 
+     direct result of our constructive dialogue, your dedication 
+     to the agricultural community, the essential work done by CBP 
+     Agriculture Specialists, and the desire to protect American 
+     agriculture from harmful pests and diseases.
+           Sincerely,
+                                                 Michael Chertoff,
+     Secretary.
+                                  ____
+
+         U.S. Department of Homeland Security, U.S. Customs and 
+           Border Protection,
+                                Washington, DC, December 10, 2007.
+     Memorandum for: Directors, Field Operations; Director, 
+         PreClearance.
+     From: Assistant Commissioner, Office of Field Operations.
+     Subject: Utilization of Agriculture Specialists and Related 
+         Time and Attendance Information (TC-FY-08-0222).
+       The purpose of this memorandum is two-fold, first, to 
+     ensure that Agriculture Specialists (CBPAS) are performing 
+     inspectional activities directly related to the protection of 
+     American agriculture; and second to provide clear guidance on 
+     the utilization of Cost Management Information System (CMIS) 
+     codes housed within COSS that are specifically designed for 
+     use by CBPAS.
+       Directors, Field Operations must ensure that CBPAS are 
+     assigned to agricultural inspectional activities at the 
+     individual ports of entry. It is imperative that assignments 
+     for these employees are dedicated to the mission of 
+     protecting the Nation's food supply and agricultural industry 
+     from pests and diseases absent exigent operational 
+     circumstances.
+       Clear guidance on the use of CMIS codes are housed in the 
+     Customs and Border Protection Overtime and Scheduling System 
+     (COSS) and are structured to reflect the range of operational 
+     functions combined within CBP. CMIS codes are focused on 
+     Customs, Immigration- and Agriculture-related functionality 
+     to reflect and define the totality of services offered by 
+     CBP. CMIS aids the Agency in aligning the personnel labor 
+     information in COSS to CBP financial reporting requirements. 
+     Further, CMIS enhances the Agency's ability to track User 
+     Fee-related activity costs, provide more accurate cost 
+     information to external parties (i.e. Congress), and help to 
+     establish baseline cost information necessary for developing 
+     and monitoring annual budgets.
+       CBPAS perform the mission of protecting American 
+     agriculture from harmful pests and diseases. Further, this 
+     work must be accurately recorded in COSS using the 
+     appropriate CMIS codes. To accomplish this, Directors of 
+     Field Operations (DFOs) shall ensure that CBPAS are assigned 
+     and utilized in alignment with that mission.
+       As part of the continuing Unified COSS Location Rotation 
+     Process (UCLRP) (TC-06-1630), Directors, Field Operations 
+     (DFO) are responsible for monitoring and overseeing this 
+     process to ensure agriculture-related work activities are 
+     accurately recorded. For your convenience, the UCLRP tasking 
+     and CMIS codes are posted to the CBPnet under the OFO tab. As 
+     part of the UCLRP, DFOs must continue to complete the 
+     quarterly analysis and submit findings to Headquarters for 
+     analysis.
+       For clarification, CMIS codes beginning with the letter 
+     ``Q'' should be utilized to capture agriculture-related 
+     activities. The role of the CBPAS is to interpret and enforce 
+     agricultural regulatory requirements through agricultural 
+     inspections of travelers and cargo. Appropriate activities 
+     are listed in the CBPAS position description and in Appendix 
+     2 and 3 of the DHS--USDA Memorandum of Agreement of 2003 
+     (attached).
+       I am directing all DFOs to ensure that CBPAS are assigned 
+     to agricultural inspectional activities at the individual 
+     ports of entry. Assignments for these employees must be 
+     dedicated to the mission of protecting the Nation's food 
+     supply and agriculture industry from pests and diseases, 
+     absent exigent operational circumstances.
+       If you have any questions regarding this matter, please 
+     have a member of your staff contact Ava Fleming.
+     Thomas S. Winkowski.
+                                  ____
+
+     From: Assistant Commissioner, Office of Field Operations.
+     Subject: Establishment of Deputy Executive Director, 
+         Agriculture Operational Oversight, Agriculture Programs & 
+         Trade Liaison (APTL).
+       This memorandum addresses the establishment of a Deputy 
+     Executive Director position in the Agriculture Operational 
+     Oversight position within the Agriculture Programs & Trade 
+     Liaison (APTL) division within Customs and Border protection 
+     (CBP) Office of Field Operations (OFO).
+       In order to address the concerns of agricultural 
+     stakeholders and to provide better operational oversight for 
+     the Agricultural Mission within CBP, I am creating a new 
+     Deputy Executive Director, Agriculture Operational Oversight 
+     position in APTL. The Deputy Executive Director will report 
+     to the Executive Director for APTL.
+
+
+                   BENEFITS OF CREATING NEW POSITION
+
+       CBP is creating a new position and office in OFO 
+     Headquarters that will be charged with further coordinating 
+     agricultural activities. Establishing this position will 
+     result in more consistent application of agriculture 
+     inspection policy across all ports. It will also provide a 
+     primary point of contact for Joint Agency Task Force (JATF) 
+     coordination issues for APHIS, USDA, UHS, and agriculture 
+     industry stakeholders.
+       Program improvements that will be realized are coordination 
+     and implementation of the JATF Action Plans, Agriculture 
+     Partnership Council and stakeholder outreach. This position 
+     will oversee the Joint CBP/APHIS Agriculture Quality 
+     Assurance program and monitor agricultural performance 
+     measures for risk and efficiency. It will allow CBP to 
+     utilize trend analysis and redirect targeting and resources 
+     to areas of highest risk. The office will also ensure that 
+     all directives and policies specific to the agricultural 
+     programs are executed and in compliance with CBP agriculture 
+     mission.
+       To enhance operational oversight this office will ensure 
+     resources are available for agriculture programs in the 
+     field. This specific responsibility will ensure that all 
+     Agricultural Specialists will have all the equipment and 
+     other resources needed to facilitate and improve the 
+     agricultural inspection function. Additionally, this Deputy 
+     Executive Director will ensure appropriate staffing levels 
+     and budget allocation for agricultural programs as well as 
+     initiate and monitor special agricultural operations. The 
+     Deputy Executive Director will meet regularly with state and 
+     federal counterparts to maximize efficiencies. Emphasis will 
+     be placed on ensuring that CBPAS are specifically assigned to 
+     agricultural inspectional activities at the individual ports 
+     of entry.
+       The new office will issue memoranda, musters, and conduct 
+     conference calls, to clarify the expected activities, duties, 
+     functions, roles and responsibilities of the Agricultural 
+     Specialist (AS) in conducting CBP's mission. This individual 
+     will ensure that AS accurately record agriculture inspection 
+     activities in the CBP Overtime and Scheduling System (COSS). 
+     This will better align the personnel labor information in 
+     COSS to CBP financial reporting requirements. Furthermore, 
+     the Deputy Executive Director will enhance the Agency's 
+     ability to track User Fee-related activity costs and help 
+     establish baseline cost information necessary for developing 
+     and monitoring annual budgets. He
+
+[[Page 34452]]
+
+     will visit and conduct field audits and reviews of the AS 
+     activities and compliance with the CBP Agricultural 
+     commitment.
+
+
+                            CHAIN OF COMMAND
+
+       The new Deputy Executive Director will work through the 
+     current chain of command in the field and is not in the 
+     supervisory chain for field Agriculture Specialists.
+
+
+                 TIMEFRAME FOR CREATION OF NEW POSITION
+
+       The new Deputy Executive Director will be in place and the 
+     office will be operational no later than January 2, 2008.
+                                  ____
+
+       American Beekeeping Federation.
+       American Farm Bureau Federation.
+       American Feed Industry Association.
+       American Mushroom Institute.
+       American Nursery and Landscape Association.
+       American Sheep Industry Association.
+       American Society for Horticultural Science.
+       Association of Floriculture Professionals.
+       Cherry Marketing Institute.
+       National Association of State Departments of Agriculture.
+       National Association of Wheat Growers.
+       National Chicken Council.
+       National Council of Farmer Cooperatives.
+       National Farmers Union.
+       National Milk Producers Federation.
+       National Pork Producers Council.
+       National Potato Council.
+       National Watermelon Association.
+       Nectarine Administrative Committee.
+       Peach Commodity Committee.
+       Produce Marketing Association.
+       Society of American Florists.
+       United Egg Producers.
+       United Fresh Produce Association.
+       U.S. Apple Association.
+       Winegrape Growers of America.
+       Blue Diamond Growers.
+       CalCot Ltd.
+       California Association of Nurseries and Garden Centers.
+       California Association of Wheat Growers.
+       California Association of Winegrape Growers.
+       California Avocado Commission.
+       California Citrus Mutual.
+       California Fresh Fig Growers Association.
+       California Grape and Tree Fruit League.
+       California Plum Marketing Board.
+       California Strawberry Commission.
+       California Table Grape Commission.
+       California Tree Fruit Agreements.
+       California Tree Fruit Marketing Board.
+       Empire State Potato Growers, Inc.
+       Florida Citrus Mutual.
+       Florida Citrus Packers Association.
+       Florida Department of Agriculture and Consumer Services.
+       Florida Fruit and Vegetable Association.
+       Florida Strawberry Growers Association.
+       Georgia Fruit and Vegetable Growers Association.
+       Hawaii Farm Bureau Federation.
+       Holly Tree Farm.
+       Idaho Grower-Shipper Association.
+       Idaho Potato Commission.
+       Indian River Citrus League.
+       Maine Potato Board.
+       Miami-Dade County.
+       Michigan Apple Committee.
+       Michigan Agri-Business Association.
+       Michigan Bean Shippers Association.
+       Michigan Corn Growers Association.
+       Muddy Lake Cattle Company.
+       New York Wine & Grape Foundation.
+       New Mexico Department of Agriculture.
+       North Carolina Wine & Grape Council.
+       Northern Plains Potato Growers Association.
+       Northwest Horticultural Council.
+       Ohio Apple Growers.
+       Ohio Wine Producers Association.
+       Oregon Potato Commission.
+       Pennsylvania Chapter of the National Farmers Organization.
+       Pennsylvania Department of Agriculture.
+       Pennsylvania Farm Bureau.
+       Pennsylvania Farmers Union.
+       Pennsylvania Landscape and Nursery Association.
+       Pennsylvania Pork Producers.
+       Pennsylvania Vegetable Growers Association.
+       Peace River Valley Citrus Growers Association.
+       Potato Growers of Idaho.
+       South East Dairy Farmers Association.
+       Sunkist Growers.
+       Sun-Maid Growers of California.
+       Texas Citrus Mutual.
+       Texas Produce Association.
+       Texas Wine and Grape Growers Association.
+       Virginia Apple Growers Association.
+       Washington Apple Commission.
+       Washington State Potato Commission.
+       Western Growers Association.
+       Western United Dairymen.
+       WineAmerica.
+       Wine Association of Georgia.
+       Winegrowers Association of Georgia.
+
+  Mr. ROBERTS. Mr. President, I am pleased that Chairman Harkin has 
+included a proposal of mine in his amendment. Under my proposal, 
+eligible elementary and secondary schools can offer grain products to 
+students.
+  Grains are a critical part of a healthy diet. They are an excellent 
+source of fiber. The 2005 dietary guidelines for Americans recommend 
+that Americans consume three or more (2-ounce) ounce-equivalents of 
+whole grain products per day. A diet that includes higher levels of 
+fiber-containing grain products provides many health benefits, such as 
+reducing the risk of coronary heart disease. This proposal helps 
+improve the diet and health of our children.
+  Ms. CANTWELL. Mr. President, today I would like to take a few minutes 
+to speak about a piece of legislation essential to Washington State and 
+its agricultural community--the 2007 farm bill. This bill is the result 
+of an incredible amount of hard work by many different people. In 
+particular, I would like to extend my gratitude to the Senate 
+Agriculture Committee chair, Tom Harkin, and ranking member Saxby 
+Chambliss and their staff for the strong, bipartisan bill passed out of 
+committee and to Senator Debbie Stabenow and her staff for their 
+tireless work on behalf of this Nation's fruit and vegetable growers. 
+These individuals, along with many others, have created a carefully 
+crafted compromise, resulting in the best farm bill in Washington State 
+history.
+  Washington is blessed with a wide and diverse agricultural economy. 
+We lead the Nation in the production of 14 agricultural crops, 
+including red raspberries, apples, hops, sweet cherries, pears, and 
+concord grapes. We rank second nationwide in the production of 
+asparagus, third in the production of dry peas and lentils, and fourth 
+in the production of wheat and barley. Washington's dairy industry 
+makes up over 14 percent of our agricultural economy, and we are second 
+nationwide in the export of fruits and vegetables. Washington's 
+agricultural products are pivotal to the Nation and the agriculture 
+industry is pivotal to Washington. From provisions dealing with 
+specialty crops to dairy to commodities and pulse crops, all of this 
+farm bill has a direct impact on my State and the many hard-working 
+farmers and producers living in it.
+  I was very pleased to work with Senator Baucus and others on the 
+Finance Committee to authorize the agriculture disaster relief trust 
+fund. The trust fund is a historic attempt to deal with agricultural 
+disasters in a logical and deliberate manner before they happen, as 
+opposed to cobbling together ad hoc relief after disaster strikes. I am 
+particularly pleased with the focus on pest and disease management for 
+our specialty crop growers. The fund also includes mandatory funding 
+for the Tree Assistance Program--a program that helps growers replace 
+the trees upon which their crop is grown after disaster strikes. I am 
+pleased that my amendment that will help in the implementation of this 
+program and ensure that growers have access to the funds that have been 
+provided for them was accepted during floor consideration. I am 
+confident that it will be a significant improvement for growers in 
+Washington and across the country.
+  This bill also includes a critical program for Washington asparagus 
+growers--the Asparagus Market Loss Program. While the Andean Trade 
+Preferences Act and Peru Trade Promotion Agreement are likely to have a 
+significant positive effect on many different agricultural products, 
+they have led to devastation in the asparagus industry. Since the 
+passage of the Andean Trade Preferences Act, Washington has lost 21,000 
+of its 30,000 acres dedicated to asparagus, and all three of 
+Washington's asparagus canning facilities have now moved to Peru. In 
+the past 17 years, the $200 million Washington asparagus industry has 
+been reduced to a $75 million industry. This is the reason that I 
+worked so hard with Senators Stabenow and Murray to include the $15 
+million market loss program dedicated to asparagus growers in the farm 
+bill. This program will support domestic asparagus producers, helping 
+them plant and harvest more efficiently and remain competitive in the 
+international marketplace.
+  It is also important to remember that a farm bill is about more than 
+farms. It is also about addressing the Nation's nutrition needs and 
+finding ways to best conserve our land. As one of the pilot States for 
+the Fresh Fruit
+
+[[Page 34453]]
+
+and Vegetable Program, Washington can attest to the positive impact 
+created by this innovative program. Not only does this program provide 
+fresh and nutritious food for our schoolchildren, but in doing so, it 
+creates a domestic market for our fruit and vegetable growers. Well-
+nourished children are given a greater opportunity to succeed in 
+school, and children who are provided fresh fruit and vegetables as 
+opposed to chips, cookies, and other junk foods, have a head start in 
+fighting the epidemic of childhood obesity. The $1.1 billion provided 
+for the Fresh Fruit and Vegetable Program in this bill will extend this 
+program to 100 schools in each State so that children across the 
+country can benefit from the nutritious snacks provided by America's 
+farmers. This program is a key piece of the overall nutrition focus in 
+this bill. From children's advocates to the religious community to 
+college students and health organizations, I have heard from a wide 
+variety of constituents on the importance of nutrition programs, and I 
+am pleased this bill prioritizes our country's nutrition needs.
+  In addition to agriculture and nutrition, the farm bill's 
+conservation title is a high priority for Washington and 
+Washingtonians. From the shimmering Puget Sound and the majestic 
+Cascade Mountains, to the breathtaking Columbia River Gorge and amber 
+fields of our southeast counties, my State of Washington prides itself 
+on its diverse and iconic natural beauty. Protecting that natural 
+beauty is a top priority for me and is why I am pleased at this bill's 
+funding for popular conservation programs such as the Conservation 
+Reserve Program and measures to make popular programs like the 
+Conservation Security Program more accessible and easier to use for our 
+wheat farmers, specialty crop growers, and other producers. 
+Additionally, this bill provides for biomass and bioenergy research 
+programs and focuses in part on cellulosic feedstock, which is key for 
+Washington's farmers. These research programs are not only critical to 
+the creation of new, clean energy sources and reducing our dependence 
+on foreign oil, they provide another valuable domestic market for our 
+farmers. By focusing our efforts on expanding the involvement of our 
+farmers in creating clean renewable energy, we are helping our farmers, 
+helping our environment, and being good stewards of the taxpayer 
+dollar. I commend the Agriculture Committee on a strong conservation 
+title. I will look to find ways in which it can be strengthened even 
+further and will vote against any attempt to weaken it.
+  From a historic investment in specialty crop programs to the 
+significantly improved nutrition title and the strong conservation 
+title, the committee bill before us today is the best bill for 
+Washington in memory. Once again, thank you to Senators Harkin and 
+Chambliss for their work on this strong, bipartisan bill. I strongly 
+urge all Senators to vote in favor of final passage.
+  Mr. MENENDEZ. Mr. President, I rise today to discuss the 2007 farm 
+bill. I want to thank Chairman Harkin and Ranking Member Chambliss for 
+putting together a bill that starts us down the road toward Federal 
+policies that support small family farms, policies that protect our 
+environment, and policies that provide adequate nourishment for our 
+most needy families.
+  It is, however, unfortunate that every serious effort on the floor to 
+move this bill further down the road of reform was defeated. The FRESH 
+Act, Dorgan-Grassley, Senator Brown's crop insurance reforms, and 
+Senator Klobuchar's amendment all would have moved us away from 
+outdated costly farm programs toward more funds for conservation, 
+nutrition, and help for small farms. Then, after these defeats, the 
+last reform amendment proposed by Senator Feingold and myself was 
+denied floor time after we had been promised a slot.
+  Yesterday was certainly a sad day in the Senate. First Big Oil 
+stopped the Senate from taking oil subsidies to pay for renewable 
+energy, and then Big Agriculture successfully blocked all efforts to 
+make a more balanced and fair farm bill that helps small farmers 
+instead of mega factory farms.
+  In order for the Nation's farming economy to thrive, we need look no 
+further than the successes of New Jersey. My home State has sensibly 
+promoted healthy foods, local foods, environmentally friendly farming 
+practices, and small family farms. As it turns out, these four things 
+could not fit together more perfectly.
+  The problem for small farmers is how to compete with the giant 
+factory farms for food processing or grocery store contracts. 
+Tragically, the answer is that far too often they cannot compete, and 
+they are forced to sell the family farm. Over the last 5 years, the 
+number of small farms has decreased nationwide by over 80,000. Over 
+80,000 families had to sell their land to factory farms or to 
+developers and choose a different line of work. The decline of the 
+small farm means depressed rural economies, more suburban sprawl, and a 
+loss of a way of life.
+  But in my home State of New Jersey the number of small farms has 
+actually risen by 400 farms. So how is it that New Jersey has been able 
+to increase the number of small farms while the rest of the country has 
+seen such a steep decline? There are two answers.
+  The first is that the State has a robust program to preserve 
+farmland. With help from the Farmland Protection Program, the State 
+purchases the right to develop a farmer's land, so farmers get the 
+added income they need to keep the family farm and resist the 
+temptation of developers or large factory farmers. Farmers want to stay 
+farmers, and farming communities want to remain farming communities. 
+Smart conservation programs allow this to happen and can help preserve 
+a way of life. To date, New Jersey has preserved more than 1,500 farms 
+covering approximately 157,000 acres. Unfortunately, this bill does not 
+add any new money for this essential farmland protection program, and 
+efforts to do so on the floor were thwarted.
+  The second reason small family farms are flourishing in New Jersey is 
+the expansion of farmers' markets. We have nearly 100 farm markets in 
+my home State, and we add about five or six more every year. These 
+markets give our farmers access directly to the consumers. This keeps 
+more money in farmers' pockets by eliminating the need to do business 
+through food distributors.
+  And farm markets do not just benefit farmers, but they also greatly 
+benefit urban communities that have limited access to healthy foods. 
+Farm markets allow our city dwellers to enjoy the freshest blueberries, 
+peppers, cranberries, and peaches straight from the field.
+  So in this way New Jersey has created a system whereby small farmers 
+flourish, open spaces are preserved, and citizens get better access to 
+healthy foods. It is a win-win-win situation that must be continued and 
+encouraged in New Jersey and across the Nation.
+  That is why I regret we could not have done more in this bill but am 
+pleased to see some small reforms that will help lead the country in 
+this direction. I specifically want to applaud the Agriculture 
+Committee for adopting a few policies that were in my Healthy Farms, 
+Foods and Fuels Act of 2007.
+  First, the farm bill of 2007 expands the Fresh Fruit and Vegetable 
+Program to every State in the country and targets benefits to low-
+income children. During a long school day, children often need a snack 
+to keep them nourished and keep their minds focused on their 
+schoolwork. Instead of filling up with candy or sodas, this innovative 
+program provides children fresh fruits and vegetables. It is a 
+healthier option that will lead to healthier habits in school and at 
+home.
+  Another program expanded in my bill and here in the 2007 farm bill is 
+the Senior Farmers' Market Nutrition Program. After all, it is not just 
+children who often lack access to healthy foods. The Senior Farmers' 
+Market Nutrition Program awards grants to State governments to provide 
+low-income seniors with coupons that can be exchanged for healthy foods 
+at farm markets, roadside stands, and community-supported agriculture 
+programs.
+  One last point of agreement between my Healthy Farms bill and the 
+2007
+
+[[Page 34454]]
+
+farm bill that I want to point out is the restoration of the authority 
+of schools to buy local foods in the School Lunch Program. By 
+preferentially buying local foods, communities can support their local 
+farms while giving their children fresher and more nutritious food 
+options.
+  These three programs are great starting points for the Nation to 
+emulate the great successes I have seen in New Jersey. These reforms 
+will lead to a healthier, more profitable, and greener American farm 
+economy.
+  Another thing I want to applaud the Agriculture Committee for is what 
+they have done for specialty crop farmers. For the first time, 
+specialty crops were given their own title in the bill. Specialty crops 
+are the fruits, vegetables, and other crops that keep America healthy 
+and constitute half of the Nation's agricultural cash receipts but have 
+received little recognition in previous farm bills. This farm bill is 
+different, with over $3 billion to fund specialty crops provisions. New 
+Jersey is a national leader in growing specialty crops such as 
+blueberries, cranberries, peppers, peaches, and spinach, and these 
+provisions will be a huge help to farmers in my home State.
+  While the bill that left committee was a great step in the right 
+direction, there were several areas that needed improving.
+  One was the definition of the term ``rural area.'' The original text 
+changed the definition of ``rural area'' in a way that would have 
+unfairly excluded many communities from rural development programs. But 
+by working with my staff and the staffs of several of my colleagues in 
+the Northeast, I think we have come to an agreement with Chairman 
+Harkin that is much more equitable.
+  A second issue Chairman Harkin was kind enough to work with us on, 
+was to include a study that will advance our understanding of the 
+benefits of local food production. This comprehensive study will 
+chronicle the impact of localized food production on our environment, 
+our economy, and nutrition. In addition, the study will document the 
+barriers for small farmers to participate in a local food economy and 
+suggest ways to overcome these barriers. I hope this study can provide 
+a roadmap for our country to follow in the next farm bill.
+  But I am sorry to say that it looks as if bold reform will have to 
+wait until the next farm bill. The amendments that would have reformed 
+the direct payment system and used those savings for national 
+priorities on nutrition and conservation all failed to pass the Senate.
+  Our country is ready to transition toward farm policies that 
+concentrate on small farmers, on healthy specialty crops, and on 
+conservation. I am hopeful that one day soon, small, sustainable farms 
+will be the rule, rather than the exception.
+  (At the request of Mr. Reid, the following statement was ordered to 
+be printed in the Record.)
+● Mrs. BOXER. Mr. President, I would like the record to reflect 
+that I would have voted for the Senate farm bill today.
+  The bill produced by Senator Harkin's Agriculture Committee takes 
+many positive steps to level the playing field in American agriculture 
+by recognizing the importance of specialty crops to the Nation's 
+economy.
+  California is the Nation's largest agricultural State, with more than 
+350 different crops worth $32 billion per year. Yet our State has been 
+largely overlooked when it comes to the billions in Federal support for 
+agriculture.
+  The Senate bill provides important funding for programs that will 
+benefit California's growers, ranchers, consumers, and families.
+  I first would like to thank Chairman Harkin for including a number of 
+provisions I authored into the farm bill.
+  The bill includes a version of the Pollinator Protection Act and 
+provides $100 million over 5 years for high-priority research dedicated 
+to maintaining and protecting our honey bee and native pollinator 
+populations. There has been a loss of about 25 percent of the Nation's 
+honey bee population, and it is estimated that crops that depend on a 
+healthy bee population are valued near $18 billion, and these funds 
+will help give scientists the resources they need to determine the 
+causes of colony collapse disorder and to work on protecting bee 
+health.
+  The bill also includes my Early Pest Detection and Surveillance Act, 
+and authorizes $200 million over 5 years to give USDA the authority to 
+enter into cooperative funding agreements with States to enhance their 
+pest detection and surveillance programs, increase inspections at 
+domestic points of entry, and create pest eradication and prevention 
+programs.
+  With the assistance of consumer groups and labor unions, I was able 
+to negotiate a compromise that prevented a rollback of 40-year-old meat 
+inspection laws. The House version of the farm bill included dangerous 
+language that would have threatened the safety of meat and poultry, but 
+working with Senator Harkin, we were able to reach a compromise that 
+protects the integrity of the federal meat inspection process.
+  I also worked with Chairman Harkin to include an avocado marketing 
+order agreement, a $2 million authorization for a National study on 
+biofuels infrastructure, language prioritizing edible schoolyards 
+programs in schools under the Community Foods Program, and a $15 
+million asparagus market loss program.
+  The Senate also accepted two important amendments that I offered to 
+the bill during floor consideration.
+  The first amendment provides USDA with a framework under the existing 
+Environmental Quality Incentives Program, EQIP, to allocate funds 
+toward air quality mitigation efforts in agricultural communities with 
+poor air quality. In rural areas around the country, smog and soot are 
+threatening public health, fouling communities, and reducing crop 
+productivity from pollution generated on farms. This amendment will 
+provide farmers in high-priority agricultural areas with the tools to 
+adopt new practices that reduce air pollution on farms.
+  The Klamath River Basin and the Sacramento/San Joaquin watershed have 
+been identified by conservation groups as being watersheds most in need 
+of watershed assistance programs. The Senate accepted an amendment that 
+recognizes these areas in California, as well as a number of other 
+regional watersheds throughout the country, and prioritizes funding for 
+these watersheds under the Regional Watershed Enhancement Program.
+  This farm bill provides a significant amount of new funding for 
+programs important to the specialty crops industry. Specialty crops now 
+account for nearly 50 percent of the Nation's farm gate, and this bill 
+recognizes the industry's importance.
+  Included in the Senate bill is mandatory funding for specialty crops 
+block grants, organic farmers, farmers market programs, trade 
+assistance and foreign market access programs, the community foods 
+program, and important specialty crops and organics research.
+  The bill also provides $1.1 billion in funding for the Fresh Fruit 
+and Vegetable Snack Program, expanding participation in the program to 
+all 50 States. This program provides a critically important strategy in 
+the fight to prevent and reduce childhood obesity by providing 4.5 
+million low-income elementary schoolchildren in 5,000 schools 
+nationwide the ability to receive a fresh fruit or vegetable snack 
+every day at school.
+  Numerous studies have indicated that eating fruits and vegetables can 
+prevent cardiovascular disease, diabetes, cancer, and hypertension, in 
+addition to obesity. Yet less than one out of every six children eats 
+the USDA recommended amount of fresh fruit, and only one out of five 
+children eats the recommended amount of vegetables. The funding 
+included in the farm bill will ensure that schools in California and in 
+every State in the Nation can implement this important child nutrition 
+program.
+  Also included in the nutrition title are provisions that update and 
+modernize the food stamp assistance program. Updates to food stamp 
+assistance, like ending benefit erosion, increasing minimum benefit 
+amounts,
+
+[[Page 34455]]
+
+and simplifying income reporting for seniors and the disabled, are long 
+overdue and will help provide more assistance to disadvantaged 
+families.
+  The Emergency Food Assistance Program also receives an important 
+funding increase to $250 million per year, which will allow the 
+Nation's food banks to have more of an impact on those in need.
+  The farm bill also provides an important opportunity to protect the 
+Nation's natural resources and its open space. Farmers can enroll in a 
+number of conservation programs that allow them to provide habitat 
+protection for native species, protect wetlands and grasslands, and 
+undertake initiatives to make their farms more environmentally 
+friendly.
+  But the last farm bill has not done enough to provide farmers with 
+the resources they need to fully participate in conservation 
+activities.
+  In 2004, California had a $143 million backlog in payments and 
+enrollments in conservation programs due to lack of funding and acreage 
+caps. An average of 4,000 farmers and landowners in California are 
+rejected each year when they apply to USDA conservation programs. 
+Sixty-eight percent of California's farmers seeking EQIP funding turned 
+away.
+  Nationwide, $18 billion worth of conservation applications have gone 
+unfunded during the life of the 2002 farm bill.
+  As a result of not enough funding for conservation programs, 
+California is rapidly losing thousands of acres of farmland and open 
+space. Ninety-five percent of the wetlands in the Central Valley have 
+been lost, and 171,000 acres of farmland were lost in California from 
+2002 to 2004.
+  The Senate bill takes important steps to provide farmers with more 
+access to conservation programs, but I was disappointed that during 
+consideration of the bill on the Senate floor, amendments to provide 
+more funding for the Environmental Quality Incentives Program and the 
+Grasslands Reserve Program did not pass.
+  The farm bill also authorizes a number of programs that will benefit 
+California's rural communities, such as low-interest loans to rural 
+electric cooperatives for renewable energy production and grants and 
+loan guarantees to develop broadband access in rural areas.
+  Lastly, I am pleased that the bill contains over $1 billion in 
+investments for farm-based energy, including the development of 
+cellulosic ethanol. While corn ethanol has proven to be a useful 
+alternative fuel, I worry about its impact on corn prices related to 
+the livestock industry, especially in light of the fact that 
+alternative fuels can be created by a number of other agricultural 
+sources, many of which are produced in California. The farm bill takes 
+steps to provide incentives for the development of cellulosic ethanol.
+  This farm bill is important for California's farmers, families, and 
+for the State's economy, and I am pleased to be supporting it.●
+
+
+                            TAX CREDIT BONDS
+
+  Mr. GRASSLEY. Mr. President, the managers' amendment to the farm bill 
+contains a deal that raises my eyebrows. The proposal creates a half 
+billion dollars in strippable, tradable, ``forestry tax-credit bonds'' 
+that can be issued by a State or tax-exempt entity. Property must be 
+approved by the U.S. Fish and Wildlife Service as subject to a ``native 
+fish habitat conservation plan.'' So far, we can only find one plan 
+that qualifies for this proposal. The proposal also completely unwinds 
+the arbitrage rules that were placed on these tax-credit bonds last 
+year to prevent abuses.
+  Most Americans do not know what tax-credit bonds are or even that 
+they exist. Essentially, these are bonds in which the federal 
+government pays ``interest'' in the form of credits against Federal 
+income tax liability. Issuers borrow at a zero percent interest rate. 
+The Federal tax subsidy provided to the holder of a tax credit bond is 
+even greater than the benefit derived from tax-exempt municipal bonds. 
+That is because a tax credit can be used to offset, on a dollar-for-
+dollar basis, a holder's current year tax liability. With tax credit 
+bonds, the Federal Government bears virtually all of the cost of 
+borrowing--in the form of forgone revenue--even if the bonds are issued 
+by a non-Federal entity such as a State or local government. So, in 
+short, this is a rich deal.
+  When the tax credit bond program was initiated, the arbitrage rules 
+did not apply. However, we became aware of arbitrage abuses in 2006. In 
+response, Congress enacted arbitrage restrictions for these bonds. They 
+are the same restrictions that already apply to tax-exempt municipal 
+bonds. The Tax Reform Act of 1969 enacted the first rules relating to 
+arbitrage. Congress was concerned that permitting interest exemption 
+for arbitrage bonds represented a waste of the Federal subsidy.
+  One of the concerns Congress addressed was the use of sinking funds 
+to exploit the difference between tax-exempt and taxable rates. The 
+best way to understand these rules is to use an example. Let's assume 
+City X needs to borrow $10,000 to finance a project. City X could issue 
+bonds that pay no principal or interest until year 10 and fund its year 
+10 liability by depositing amounts into a special fund--a ``sinking 
+fund''--that will build up over time and be used to pay off the 
+interest and principal in the 10th year.
+  In the absence of arbitrage restrictions, City X can invest amounts 
+in the sinking fund over the term of the bonds at a higher yield than 
+the yield on the bonds--remember that tax-exempt bonds accrue interest 
+at zero percent. This would allow City X to earn more than is needed to 
+pay both the principal and interest on the bonds at maturity. This is a 
+subsidy funded by the Federal government and paid for by tax increases 
+on Americans.
+  The tax credit bond program already provides a richer subsidy than 
+the long standing tax exempt bond program. This proposal further 
+enriches this program, at the expense of taxpayers, and opens the door 
+for future abuse. This provision may set a dangerous precedent and 
+unwind all of the good work that was done to ensure that arbitrage 
+abuses of tax credit bonds were curtailed.
+  Mr. ENZI. Mr. President, today I wish to speak in favor of the farm 
+bill, which looks close to a vote. Many of my colleagues have already 
+expressed how important this legislation is to our country and rural 
+communities. I could not agree more with their statements and was 
+pleased to see the Senate finally begin legislating by considering 
+amendments. I would also like to thank again Chairman Harkin, Ranking 
+Member Chambliss, and the members of the Agriculture Committee for 
+their hard work on this bill.
+  Wyoming's agricultural community has always provided me with great 
+advice on how to approach our Nation's farm policy. Consistently, I 
+hear that livestock producers and growers want to move in a direction 
+that provides greater access to competitive markets and limits 
+Government barriers to conducting business. You see, the producers I 
+have spoken with believe their checks should come from an auctioneer or 
+buyer, not the Government. This is certainly a challenging goal 
+recognizing the competing global pressures on our Nation's farmers and 
+ranchers. However, I can say that the Senate has been able to inject 
+some commonsense reforms in this bill.
+  The livestock title is a great example of how you can go a long way 
+on a small budget. Reforms include a ban on packer ownership, improved 
+language on mandatory price reporting, better enforcement mechanisms 
+for the Packers and Stockyards Act, and efforts to improve how 
+antitrust claims are arbitrated. Language in this title will implement 
+country-of-origin labeling by September 30, 2008, something I have been 
+working on with my colleagues since I came to the Senate in 1997. Also, 
+the livestock title contains a ban on packer ownership and creates a 
+special counsel in USDA for coordinating investigations of 
+anticompetitive behaviors, two measures that will significantly improve 
+the enforcement of the 1921 Packers and Stockyards Act.
+  Although I am pleased to see that this farm bill contains a livestock 
+title, I will say I am disappointed that the Senate wasn't able to 
+include a
+
+[[Page 34456]]
+
+number of additional measures that would have promoted competition in 
+the livestock market. Earlier this week, we considered the business 
+justification amendment that would have leveled the playing field for 
+producers seeking recourse from anticompetitive marketing practices. 
+This amendment failed to reach the threshold for passage, but I expect 
+to continue working with my colleagues to adopt this measure in the 
+future.
+  I did not have the opportunity to offer my amendment on captive 
+supply reform, but I look forward to continuing my work on this 
+proposal. Senate Agriculture Committee hearings and numerous reports 
+have continued to indicate there is a need to improve the enforcement 
+of the Packers and Stockyards Act. The livestock industry has changed 
+significantly since the early days of the 20th century. The Senate 
+cannot fail to overlook these changes and how they adversely affect our 
+Nation's independent livestock producers.
+  As a former small business owner, I appreciate another measure in 
+this bill that promotes the ability for independent livestock producers 
+to market their products beyond the borders of their respective States. 
+The ban on State-inspected meat is a major barrier to small ranchers 
+seeking to promote their products, most of which are valued-added and 
+premium products, to buyers in neighboring States. State meat-packing 
+facilities have inspection regimes just as stringent as federally 
+supervised plants, and in the case of Wyoming better standards than 
+those at the Federal level. The United States already allows meat 
+products into our country from other nations to move freely across 
+State lines on the promise that their products comply with our Federal 
+standards. Why not allow meat products guaranteed to Federal 
+specifications to also cross State lines? I trust that as the 
+legislation advances I will be able to work with my colleagues to keep 
+this provision in the bill.
+  One provision in this bill that has gotten the attention of many 
+rural landowners is a fix to an attack on farmers and ranchers. The 
+Department of Homeland Security recently promulgated rules that 
+classify propane as a ``chemical of interest'' and would require 
+individuals to register certain amounts of the liquefied gas at a great 
+cost to the rural landowner. I appreciate the efforts of the Department 
+to protect our Nation from security threats, but these rules come at 
+the expense of ranchers and farmers who store large amounts of propane 
+for their operations. I am pleased to see language in this bill that 
+exempts rural land owners from this rule while also serving the 
+interests of our national security.
+  Wyoming's vast open spaces benefit greatly from the working lands 
+programs in this legislation. Producers in Wyoming continually seek 
+better tools that allow them to improve the productivity of their 
+operation while ensuring that future generations can enjoy the 
+landscape we enjoy today. Although I would have preferred to see more 
+enrollable acres and funding for programs such as EQIP and the 
+Grassland Reserve Program, I am confident that the package before the 
+Senate will continue the success of these popular programs.
+  Recognizing these improvements, I can say that I hoped to have 
+additional reforms included that would allow our farmers and ranchers 
+to transition from existing farm support programs. The Grassley-Dorgan 
+amendment would have made significant advances in ensuring that crop 
+assistance goes to the family farms most in need of support. 
+Additionally, the Senate had the opportunity to save money in this farm 
+bill through the substitute amendment to the commodity title offered by 
+my colleague, Senator Lugar. I ask that my colleagues consider reducing 
+the spending levels of this bill as the farm bill advances to 
+conference.
+  Mr. President, Wyoming's independent ranchers and farmers work hard 
+to produce agricultural products for our country, and they deserve a 
+farm bill that promotes competitive markets and seeks to reform farm 
+support programs. The Senate has been able to put together a reasonable 
+farm bill with realistic improvements in both of these areas. Saying 
+that, I encourage my colleagues to vote for the farm bill and continue 
+thinking about the future of agriculture and our rural communities.
+  (At the request of Mr. Reid, the following statement was ordered to 
+be printed in the Record.)
+● Mr. DODD. Mr. President, I rise to discuss the 2007 U.S. farm 
+bill, a tremendously important piece of legislation that will set the 
+course of our Nation's agricultural policy for the next 5 years. My 
+colleagues and their staffs have spent months preparing it, hammering 
+out its details, and weighing its implications for America's farmers. 
+It is an immense piece of legislation; and obviously, in any bill of 
+this size, any Senator will find provisions with which he or she will 
+disagree. I am no different. Certainly there are pieces I would like to 
+see crafted differently. But on the whole, I think it is a strong bill 
+and a good compromise between countless different interests, and I am 
+deeply grateful to my many colleagues who have worked so hard on it. I 
+am pleased that it has gained such strong bipartisan approval because I 
+believe it successfully meets the needs both of our farmers and of our 
+country as a whole.
+  First, it maintains a strong safety net for all American farmers. 
+With the safety net extended through the 2012 crop-year, and target 
+prices and insurance rates adjusted accordingly, this farm bill 
+protects struggling farmers whose livelihoods can be threatened by 
+abrupt shifts in the agricultural market. These farmers provide, in 
+many ways, the backbone of our economy; and this bill gives them the 
+security they deserve. This legislation also encourages those farmers 
+by expanding programs that will help get them off the ground; and it 
+opens up opportunity with aid to historically disadvantaged farmers. 
+The bill provides a strengthened safety net for dairy farmers, and for 
+the first time ever, specialty crop producers are included within its 
+protections.
+  While I applaud my colleagues, Senators Lugar and Lautenberg, for 
+their efforts to reform title I and boost funding for critically 
+important nutrition and conservation programs, I do not believe that 
+eliminating all direct payments is the best way to advance this goal. 
+This would represent a drastic turn away from decades of farm policy 
+that has given our Nation an abundant and stable domestic food supply. 
+With so many of our Nation's farmers operating on razor-thin margins, I 
+worry that eliminating direct payments could seriously undermine the 
+farm safety net. I do, however, fully support the amendment offered 
+yesterday by Senators Dorgan and Grassley to place a cap on subsidy 
+payments. This would have helped to ensure that payments are targeted 
+at those farmers who truly need them, and I am disappointed that the 
+amendment failed to gain the 60 votes required for its adoption.
+  I am, however, very pleased that this bill provides more than $1 
+billion in new money for important conservation programs that help 
+farmers act as responsible stewards of the land they work. It enrolls 
+millions of new acres in the Conservation Stewardship Program; supports 
+programs that protect wildlife, game, and wetlands; and creates 
+incentives for farmers to preserve their soil and conserve their water. 
+Provisions like these reflect a growing awareness of the vital 
+importance of environmental stewardship and give farmers the resources 
+to live out this laudable mission.
+  Lastly, the bill supports consumers along with producers, especially 
+those American families struggling on the verge of hunger or food 
+insecurity. When all is said and done, this bill will direct nearly $5 
+billion in new money to nutrition programs such as food stamps. Mr. 
+President, half of America's food stamp recipients are children--and I 
+am gratified that the Senate has done a good deal to provide for them 
+in this legislation by increasing both eligibility and benefits. 
+Finally, the bill allocates $1 billion to extend to all 50 States a 
+program that provides
+
+[[Page 34457]]
+
+fresh fruits and vegetables to underprivileged schools. I have seen the 
+success of the Fresh Fruits and Vegetables Program firsthand, in its 
+Connecticut pilot test. I know how vital fresh produce is to the health 
+of all Americans; in the case of underprivileged schoolchildren, those 
+who need it the most have often gotten it the least--and I am glad this 
+bill goes a long way toward correcting that disparity.
+  In sum, Mr. President, I am satisfied that the farm bill embodies a 
+great deal of social responsibility. It takes steps to protect our 
+struggling farmers, our threatened environment, and our undernourished 
+families and children. With those worthy goals in mind, I am deeply 
+gratified the Senate has passed this important bill.●
+  (At the request of Mr. Reid, the following statement was ordered to 
+be printed in the Record.)
+● Mr. OBAMA. Mr. President, by passing the farm bill today, the 
+Senate took an important step towards renewing our Nation's commitment 
+to helping our farming communities and strengthening Rural America's 
+involvement in our Nation's energy future.
+  This legislation provides robust new funding for conservation, 
+nutrition, specialty crops, and rural development. It authorizes 
+hundreds of millions of dollars in renewable energy initiatives to be 
+undertaken by family farmers working to reduce our dependence on 
+foreign oil. It maintains a strong safety net for those farmers for the 
+next 5 years. It creates a new permanent disaster assistance program so 
+that farmers need not rely on the unpredictability of Congress to 
+approve emergency funding. And it includes important provisions to 
+increase market transparency for livestock producers in the meat 
+processing industry.
+  I am especially proud that this legislation contains my proposal to 
+ensure that thousands of African-American farmers will have an 
+opportunity to have their discrimination claims reviewed under the 
+Pigford settlement. For far too long, this country's hardworking black 
+farmers were discriminated against by our own Government, and this 
+legislation offers a chance for us to continue righting those wrongs.
+  There is a time to debate, and a time to act, and the timely 
+completion of this farm bill is necessary so that farmers have the 
+certainty they need to begin their preparations for the new crop year. 
+Although the farm bill has many provisions to laud, I am disappointed 
+in the failure of the Senate to enact stronger payment caps to ensure 
+that assistance is better targeted to family farmers who need the help 
+and away from big agribusinesses that often use these payments as a 
+superfluous source of revenues. I am disappointed that interests in the 
+crop insurance industry were successful in weakening an optional 
+revenue insurance program authored by my distinguished colleague from 
+Illinois, Senator Durbin, a forward-thinking and innovative pilot 
+program designed to test a new kind of safety net mechanism for 
+farmers.
+  I thank Senator Harkin for his leadership on this issue, and will 
+continue to work with him to stand up for America's family 
+farmers.●
+  Mr. LEVIN. Mr. President, I support the passage of the 2007 farm 
+bill, which includes many important programs that benefit Michigan and 
+the Nation as a whole. Agriculture is Michigan's second largest 
+industry, and few States have such a diversity of agricultural crops. 
+As leading producers of traditional crops, such as corn, wheat and 
+soybeans, as well as specialty crops, such as apples, asparagus, beans, 
+blueberries and cherries, Michigan's farmers have a wide variety of 
+needs, and I am pleased that this farm bill contains a range of 
+measures that will benefit farmers throughout the State.
+  For too long, the farm bill has not included proper support for the 
+specialty crops that are such a vital part of Michigan's agricultural 
+economy. I am pleased that this bill will provide significantly more 
+assistance to specialty crop growers than we have seen in the past, 
+while protecting both specialty crop growers and traditional farmers by 
+providing disaster assistance and revenue protections in the event of 
+catastrophic crop losses. With measures such as specialty crop block 
+grants, increased incentives for organic farming, funding for specialty 
+crops research initiatives, and technical assistance programs, the farm 
+bill will provide much needed support for the specialty crop community 
+throughout Michigan.
+  I was pleased that the Senate supported the inclusion in this bill of 
+funding for the Asparagus Market Loss Program. This program will 
+provide transitional assistance to asparagus farmers that suffered 
+substantial market losses due to the Andean Trade Preferences Act, 
+ATPA. In addition, this bill includes funding for the Market Access 
+Program, which will help domestic farmers export their goods to foreign 
+markets, thus helping to alleviate our international trade deficit.
+  The farm bill includes strong measures to improve conservation 
+efforts on American farms. These programs, which are aimed at both 
+working lands and lands taken out of production, help protect and 
+improve soil quality, prevent erosion, benefit water quality, and 
+preserve and restore habitats. This legislation will expand the amount 
+of land that will benefit from conservation assistance by increasing 
+the Comprehensive Stewardship Program by millions of acres, and 
+reauthorizing the Conservation Reserve Program and Wetlands Reserve 
+Program to protect environmentally sensitive lands.
+  This bill will strengthen nutrition programs by providing additional 
+funding to our Nation's critical food programs over the next 5 years. 
+Nutrition programs, such as the Food Stamp Program, provide assistance 
+to children, low-income working families, seniors, and persons with 
+disabilities. It is of vital importance that we continue these food 
+benefits for our Nation's least fortunate and most vulnerable.
+  I am pleased that this bill also includes tax incentives that will 
+encourage continued development of biofuels and provisions to spur the 
+increased production of renewable fuels. Cellulosic ethanol, in 
+particular, offers great potential for reducing oil consumption and 
+reducing greenhouse gas emissions, and the collective effect of the 
+provisions in the farm bill, and the recently passed Energy bill will 
+provide an additional and necessary boost to production of these fuels.
+  This bill passed by the Senate today includes modest reforms to our 
+current producer protection programs. It eliminates some loopholes that 
+have allowed producers to circumvent existing payment limits and lowers 
+the adjusted gross income, AGI, limit for commodity programs from the 
+current level of $2.5 million to $1 million in 2009 and $750,000 for 
+2010 and beyond. However, these reforms do not go far enough. During 
+debate on the farm bill, I supported a number of amendments that would 
+have provided additional reforms to our agricultural subsidy programs 
+and would have redirected this funding to vital nutrition and 
+conservation programs. Unfortunately, none of these reforms were 
+adopted. I am hopeful that we can work to enact these reforms when the 
+Senate next considers farm legislation.
+  This farm bill is a strong, bipartisan piece of legislation which 
+includes many programs that are beneficial to Michigan's communities. 
+While this bill is not perfect, I believe the combination of additional 
+assistance for specialty crops, enhanced conservation spending, and the 
+increased nutrition funding included in this bill warrants support. I 
+am pleased the Senate was able to work in a bipartisan manner to pass a 
+strong farm bill to benefit our Nation's farmers and rural communities.
+  Mr. FEINGOLD. Mr. President, I thank Senators Harkin and Chambliss 
+for their tireless work on this important bill. I know that both worked 
+diligently on this legislation, and that, like all of us, they have the 
+best interests of America's farmers, ranchers, rural and urban 
+communities at heart. I would also like to thank the committee staff 
+for the assistance and support they have provided to me and my staff 
+throughout the farm bill process. While I am disappointed at the lack 
+of reform in the commodity programs, the bill does make significant 
+improvements in a number of other programs.
+
+[[Page 34458]]
+
+  The committee bill included a number of provisions I included in 
+legislation that I introduced earlier this year, the Rural 
+Opportunities Act, to help sustain and strengthen rural economies for 
+the future, and create more opportunities in rural communities. I am 
+pleased that the committee included a number of provisions similar to 
+my legislation to support local bioeconomies and food markets, 
+encourage local renewable fuels and biobased products, expand broadband 
+Internet service in rural areas, and help develop the next generation 
+of farmers, ranchers, and land managers.
+  The bill also includes several important provisions to increase 
+affordable broadband service in rural areas. Critical among the bill's 
+provisions is making sure that limited Federal resources are better 
+targeted to actual rural areas without broadband service. Several 
+reports have highlighted problems with the current program including 
+funding projects in new suburban communities.
+  The bill also provides funding for the community food projects and 
+other programs that promote local markets, which help farmers and 
+consumers by providing a direct connection between them. I know that 
+the local food movement is gaining more and more momentum, and I hope 
+that these provisions in the bill will help expand this wonderful 
+opportunity to even more communities across the country. There is also 
+a clarification included in the bill that I first proposed in 2006 to 
+help ensure that schools can use local preference when purchasing food 
+for meals and snacks. The bill also makes an investment in advanced 
+biofuels, as well as language from a bill I cosponsored to provide 
+local residents an opportunity to invest in biorefineries located in 
+their communities.
+  Mr. President, I am extremely pleased that the bill makes 
+improvements to the Milk Income Loss Contract--MILC--program. Along 
+with several of my colleagues, including Senator Kohl, I have called 
+for the MILC program's reimbursement rate to be raised to its original 
+45 percent, which will happen in 2009 under this legislation. The MILC 
+program is an important safety net for Wisconsin's dairy farmers, and 
+one that operates in a responsible way--only kicking in and providing 
+payments to farmers when times are tough. Milk prices are higher now 
+than they have been in years; consequently, no MILC payments have been 
+made since February of this year. Further, the MILC program caps the 
+amount of payments one farmer can receive, ensuring that it helps small 
+and medium farmers survive tough times without subsidizing expansion of 
+larger farms. The improvements to this program are vital to farmers in 
+Wisconsin.
+  The bill also makes significant improvements to existing nutrition 
+and conservation programs. While there is room for more improvement in 
+both of these areas, I know the committee worked hard to provide 
+additional funds for these programs within a very tight budget. On the 
+conservation side, the bill includes significant funding for a number 
+of programs, including the Environmental Quality Incentives Program, 
+EQIP, the Conservation Security Program, CSP, and the Conservation 
+Reserve Program, CRP. I know that these and other programs are 
+extremely popular among Wisconsin farmers and residents, and I am 
+pleased that the committee worked to address some of the funding 
+shortfall that exists.
+  The nutrition title of this bill makes significant investments in the 
+Food Stamp Program. Perhaps most importantly, the bill ends benefit 
+erosion by indexing benefits to inflation. The bill also removes the 
+cap on deductions for childcare costs entirely, which had been set at 
+$175 per month, though Wisconsin parents spend, on average, $780 per 
+month on childcare. Lastly, the bill changes certain assets limits for 
+the Food Stamp Program, allowing recipients to save money for 
+retirement or to help send their children to college or other training. 
+I know that improving food stamps was a priority for Senator Harkin, as 
+it was for me and many of the other Members of this body. Other 
+important programs see an increase in this bill, including the 
+Emergency Food Assistance Program, grants to promote use of food stamp 
+EBT cards at farmers markets, the Fresh Fruit and Vegetable Pilot 
+Program, and the Senior Farmers Market Program.
+  I was also extremely pleased to see the addition of a new livestock 
+title in the bill to promote competition and fair practices in 
+agriculture. As many of my colleagues know, most areas of agriculture 
+present different challenges, and often these situations are not fully 
+analogous to other businesses. I am glad the committee took this step 
+to address the unique problems of agriculture. I am especially glad 
+that a provision I authored with Senator Grassley to prevent mandatory 
+arbitration clauses in agricultural contracts was included in the bill.
+  In addition to the improved competition protections that will benefit 
+livestock producers, the underlying bill contains two other provisions 
+that are also especially beneficial. I was glad to support Senator 
+Kohl's longstanding efforts to find a way for meat from small and often 
+specialty State-inspected meat processors to be sold across State lines 
+so that consumers nationwide can enjoy these high quality Wisconsin 
+products. The underlying bill contains a compromise that appears to 
+strike a fair balance on this issue, and this is a significant benefit 
+to Wisconsin's local livestock producers and processors. I was also 
+glad that the underlying bill will finally allow a country-of-origin 
+labeling requirement for meat and produce to be enforced.
+  In addition to the Agriculture Committee's portion of the bill, the 
+Finance Committee also made a significant contribution to the Senate's 
+legislation. I was glad that my Farmer Tax Fairness Act was included in 
+the finance portion of the bill. This legislation will update the 
+optional ability for farmers and other self-employed individuals to 
+remain eligible for social security and disability benefits that had 
+been eroded by inflation. It also indexes the program to inflation, so 
+we are not in the same situation again sometime in the future.
+  I would also like to thank the chairman and ranking member for 
+accepting several of my amendments into the managers' package. First, 
+in a continuation of an effort I began with Senator Jeffords in 1998, I 
+am pleased that the committee accepted my amendment to improve the 
+authority of what we had called the small farm advocate in previous 
+amendment. I am pleased to have continued this effort with Senator 
+Sanders and hope that this small office can continue to help America's 
+small and beginning farmers. On a related note, I was glad to have an 
+amendment accepted that will ensure that small farm research priority 
+continues to be an option even with the proposed restructuring of 
+agricultural research. These small efforts can make a tremendous 
+difference for our small farmers.
+  As many of my colleagues know, I have long been advocating for reform 
+of the Federal milk marketing order system. To that end, I was pleased 
+that the chairman provided for a commission to examine dairy marketing 
+orders in his draft of the bill and hope that this commission takes a 
+close look at the antiquated rules that provide dairy farmers at a 
+competitive disadvantage in the upper Midwest. I was also glad to have 
+an amendment accepted to make a small modification to ensure the 
+commission is balanced to better consider the interests of dairy 
+farmers and ensuring fair competition.
+  Ensuring transparency and fair competition in the dairy industry has 
+also been a continuing effort throughout my Senate career. Over the 
+past year, a couple developments showed a need for further action in 
+this area. First, the GAO report on cash cheese trading that I 
+requested with several of my colleagues confirmed that the market 
+remains prone to manipulation even though there have been some 
+improvements. Secondly, a sustained nonfat dry milk price reporting 
+error that lasted over a year was found to have cost dairy farmers 
+millions in reduced
+
+[[Page 34459]]
+
+prices. I was glad to have an amendment accepted that would require 
+regular auditing of the dairy price reporting and require the USDA to 
+better coordinate oversight of the dairy industry both within the 
+Department and with other Federal agencies. I hope that this added 
+diligence and transparency can help give dairy farmers added confidence 
+in the system.
+  With this year's high profile case of imported wheat gluten being 
+adulterated with melamine, it is important to assess the risks and make 
+sure that other high-protein products are safe. I am especially 
+concerned that unsafe imports of dairy proteins such as milk protein 
+concentrates and casein would have the potential to undercut consumer 
+confidence in dairy products in general and severely damage our 
+domestic industry and producers. Therefore, I am glad that the 
+committee accepted an amendment to require a report on all high-protein 
+imports including both gluten and dairy proteins to make sure that we 
+are taking the proper precautions and testing.
+  Every year, I distribute a survey to farmers at a booth at the 
+Wisconsin Farm Technology Days and ask what their top challenges are. 
+Even in this farm bill year, the responses have overwhelmingly 
+indicated that health care is their top concern. I know that the farm 
+bill cannot fix this problem completely and I have a proposal with 
+Republican Senator Lindsey Graham to move forward on the broader need 
+for health care reform. But in the meantime, farmers need help meeting 
+their health care needs.
+  I have no doubt that many of my colleagues hear from farmers and 
+their families regularly about the particular challenges they face in 
+finding and affording health care. More and more, one member of a 
+farming family is essentially forced to work off-farm just to be 
+eligible for a health care plan. I cannot tell you how many times my 
+staff and I have heard from a farmer's spouse about how much they would 
+like to be spending their days working on the farm, with their family, 
+but instead go into town to work as a teacher or at a bank just for the 
+health care. I look forward to the results of a study that was 
+cosponsored by Senator Harkin and was also accepted into the managers' 
+package on the challenges farmers--and the rural areas they live in--
+face in obtaining health care. I hope that this body can work in the 
+future to alleviate this problem faced by so many hard-working American 
+farmers.
+  I also believe that as we look to expand our Nation's renewable 
+energy and lessen our dependence on oil, we need to provide 
+opportunities for farmers and rural communities. Earlier this year, I 
+introduced the Rural Opportunity Act and am very pleased that several 
+key elements supporting local bioenergy were included in the farm bill. 
+One amendment I got accepted encourages the USDA's continued support 
+for and the expansion of regional bioeconomy consortiums, which can 
+consist of land grant universities and State agriculture agencies 
+dedicated to researching and promoting sustainable and locally 
+supported bioenergy. I was also pleased to work with Senator Coleman on 
+another ``rural opportunity'' provision, which is based on our 
+legislation, S. 1813, to provide local residents an opportunity to 
+invest in biorefineries located in their communities.
+  Mr. President, my home State is home to many organic producers. I was 
+glad that the chairman and ranking member accepted an amendment I 
+authored expressing the sense of the Senate that organic research at 
+the Agricultural Research Service should get a fair share of research 
+funding a--share proportional to its share of the market. It is hard to 
+believe, but when we passed the 2002 farm bill, organics were a new, 
+trendy, item. Today organics account for about 6 percent of food 
+purchases in the U.S.
+  While Wisconsin is perhaps more widely known as a leader in milk and 
+cheese production, we also lead the Nation in production of cranberries 
+and ginseng. I was glad to see a priority competitive research area for 
+cranberries in the underlying legislation. Similarly, I was glad that 
+my legislation with Senator Kohl and Representative Obey to require 
+country-of-harvest labeling for ginseng was accepted as an amendment. 
+This is an important step to help combat mislabeling of foreign ginseng 
+as U.S. or Wisconsin grown, which receives a premium price for its 
+higher quality.
+  While there were many positives in this legislation, these 
+accomplishments are bittersweet for me as the Senate missed an 
+important opportunity for meaningful targeted reform of the farm 
+support programs. I was deeply disappointed that several amendments to 
+make the commodity support programs more balanced to better target 
+family farms and not concentrate payments in larger corporate-scale 
+operations were unsuccessful.
+  While I cosponsored or supported several reform amendments, I was 
+especially disappointed that despite the support of a majority of 
+Senators, the Dorgan-Grassley payment limit and Klobuchar adjusted 
+gross income amendments were defeated because they could not reach a 
+60-vote threshold. There is no good reason why large, wealthy corporate 
+farms, nonfarmers and even estates of dead people receive hundreds of 
+thousands of dollars per year from taxpayers. The result on Dorgan-
+Grassley was particularly troubling because we able to pass a similar 
+provision in 2002.
+  I was also disappointed to be prevented from offering an amendment to 
+make a progressive cut to direct payments and redirect the savings to 
+benefit farmers and rural America with my colleague Senator Menendez. 
+Our amendment would have addressed the most serious problems with 
+direct payments. Direct payments are particularly problematic because 
+they are based on a history of crop growing, regardless of what is 
+currently being grown or even whether the land is being farmed at all. 
+Nor are they tied to need, crop prices, or weather conditions. When 
+prices are low, they are insufficient; when prices are high, like now, 
+they are hard to justify.
+  With many needs and very few new resources available for this farm 
+bill reauthorization, we recognized the need to keep the majority of 
+the savings in our farmers' pockets and in our rural communities, but 
+instead of going to the largest landowners, the money would have been 
+refocused to meet many of the unmet needs in programs that help a broad 
+number of farmers.
+  Our amendment had the support of a diverse group of organizations 
+including the Wisconsin Farmers Union, the New Jersey Conservation 
+Foundation, the Sustainable Agriculture Coalition, the Cornucopia 
+Institute, the National Rural Health Association, the Rural Coalition, 
+and the National Conference of Catholic Bishops.
+  Mr. WYDEN. Mr. President, I want to say a few words about an 
+amendment on illegal logging that I sponsored. This amendment is based 
+on S. 1930, the Combat Illegal Logging Act of 2007, which I introduced 
+along with Senator Alexander and 23 bipartisan colleagues. First, 
+however, I want to thank Senator Harkin, Senator Chambliss, and their 
+staffs for working with me and my staff, to include this amendment in 
+the farm bill. I am very pleased that this amendment has been included 
+in the Senate farm bill and I look forward to working with the House to 
+make this important legislation law.
+  This legislation would strike a critical blow to illegal logging by 
+extending the enforcement capacity of the Lacey Act to include 
+illegally harvested timber. Illegal logging destroys ecosystems, harms 
+often poor and rural communities, forces American businesses and 
+workers to compete against unfairly low-cost forest products made from 
+illegally sourced fiber, and contributes to carbon emissions.
+  The Combat Illegal Logging Act changes the incentives that drive 
+trade in illegal timber. This legislation will raise the risks for 
+illegal trade without harming legal trade and will be an important step 
+toward leveling a playing field currently stacked against the U.S. 
+forest products industry and importers and retailers committed to 
+trading in legal wood products. Furthermore, it will also bring the 
+power of the U.S.
+
+[[Page 34460]]
+
+market to bear on fighting the illegal logging problem and will 
+reinforce work being done with U.S. tax dollars to improve governance 
+in forest-rich developing countries.
+  My amendment enjoys the support of a very broad coalition that 
+includes members of the U.S. forest products industry, conservation 
+community and organized labor, and has already received bipartisan 
+support from many of our colleagues and I am very pleased that it was 
+included in the farm bill with wide support. S. 1930 has 23 bipartisan 
+cosponsors, many of which joined me in sponsoring this bill as an 
+amendment to the farm bill. These include Senators Alexander, Bingaman, 
+Kerry, Snowe, Feingold, Sununu, Baucus, Dodd, Stabenow, Biden, Murray, 
+Cantwell, Salazar, and Gregg.
+  This bill is the culmination of hundreds of hours of work by 
+stakeholders that might not naturally be seen as allies. The principal 
+negotiators of the compromise--the American Forest & Paper Association, 
+the Hardwood Federation, and the Environmental Investigation Agency--
+deserve a tremendous amount of credit for sticking with this and 
+finding a solution that everyone could support. And as the bill has 
+evolved we have picked up more and more supporters.
+  Organizations endorsing this bill include: American Forest & Paper 
+Association, American Home Furnishings Alliance, Center for 
+International Environmental Law, Conservation International, Defenders 
+of Wildlife, Dogwood Alliance, Environmental Investigation Agency, 
+ForestEthics, Friends of the Earth, Global Witness, Greenpeace, 
+Hardwood Federation, International Association of Machinists and 
+Aerospace Workers, International Brotherhood of Carpenters and Joiners 
+of America, International Brotherhood of Teamsters, International Wood 
+Products Association, Lowe's Home Improvement, National Association of 
+Home Builders, National Lumber and Building Material Dealers 
+Association, National Marine Manufacturers Association, National 
+Wildlife Federation, Natural Resources Defense Council, Rainforest 
+Action Network, Rainforest Alliance, Sierra Club, Society of American 
+Foresters, Sustainable Furniture Council, The Nature Conservancy, 
+Tropical Forest Trust, United Steelworkers, Wildlife Conservation 
+Society, and the World Wildlife Fund.
+  I again want to thank Senator Harkin, Senator Chambliss and their 
+staffs for working with me and my staff to include my amendment in this 
+farm bill. This will be a huge victory in the fight against illegal 
+logging.
+  Ms. SNOWE. Mr. President, I rise today to commend the passage of the 
+Farm, Nutrition, and Bioenergy Act of 2007, which also included an 
+amendment that added the Small Business Disaster Response and Loan 
+Improvements Act. This vital amendment will equip the Small Business 
+Administration, SBA, with the ability to provide a more comprehensive 
+and aggressive response for future disasters. I especially thank 
+Senator Kerry, chairman of the Senate Committee on Small Business and 
+Entrepreneurship, and Senators Vitter and Landrieu for their steadfast 
+efforts in championing this disaster legislation and ensuring its 
+success. I would be remiss to not also mention, and thank, Senators 
+Harkin and Chambliss for their tremendous leadership on the farm bill.
+  As we learned all too well in the aftermath of the devastating 2005 
+gulf coast hurricanes, it is imperative that government programs on the 
+frontlines are fully prepared when called upon to aid disaster victims. 
+The SBA's Disaster Loan program faced significant challenges in the 
+wake of Hurricanes Katrina and Rita. Unfortunately, the agency made 
+numerous well-documented mistakes and abdicated its responsibilities, 
+leaving many disaster victims waiting months for loans to be processed 
+or money to be disbursed.
+  Disaster legislation passed today will help ensure that the SBA 
+continues to assist the country's small business community with the 
+same dedication to excellence found in the entrepreneurs it serves. I 
+am hopeful that with the passage of this legislation, the Agency will 
+be better prepared, and not repeat the errors of its past.
+  In my former capacity as chair and now as ranking member of the 
+Senate Committee on Small Business and Entrepreneurship, reforming and 
+improving the SBA's Disaster Loan program has been one of my top 
+priorities. I have personally visited the gulf region, chaired multiple 
+hearings, and repeatedly sent staff to the affected areas to oversee 
+the SBA's disaster response. In addition, the Senate Committee on Small 
+Business and Entrepreneurship unanimously passed disaster legislation 
+in each of the last two Congresses.
+  This disaster provision was a product of consensus and compromise. 
+Over the last 2 years, the Senate Committee on Small Business and 
+Entrepreneurship has worked hand-in-glove to craft bipartisan disaster 
+legislation that will help the SBA respond effectively and swiftly to 
+future disasters.
+  Specifically the legislation: establishes a private disaster loan 
+program to be used in the aftermath of catastrophic disasters, allowing 
+banks to make loans directly to victims with an 85-percent government 
+guarantee; creates a new expedited disaster assistance business loan 
+program to provide short-term relief to businesses damaged or destroyed 
+in catastrophic disasters while they await other Federal assistance or 
+insurance payments; creates a new presidential declaration of 
+``Catastrophic National Disaster,'' which will allow the SBA to issue 
+nationwide economic injury disaster loans to small businesses affected 
+by a large-scale disaster; provides key tools for processing disaster 
+loan applications more quickly, such as working with qualified private 
+contractors to process the loans and requiring the SBA to report to 
+Congress on how the application process can be improved; and increases 
+the maximum size of a disaster loan from $1.5 million to $2 million and 
+allows nonprofit groups to be eligible for disaster loans.
+  I commend my fellow Senators for passing the farm bill, which 
+included this crucial disaster loan provision. The President should 
+quickly sign this legislation into law so our country will be better 
+prepared to respond to potential disasters.
+  Mr. McCONNELL. Mr. President, we have put a couple of good days 
+together now.
+  Yesterday was a good step forward with the Energy bill. Now we are 
+about to achieve something else.
+  It is no mystery why: When the majority decided to work with us on 
+Energy, we achieved a consensus. And when they decided to work with us 
+on the farm bill, same thing.
+  This bill contains some very good things. And for that we all owe a 
+lot to Senator Chambliss. And I want to thank him for his outstanding 
+work on this bill and for his patience. This one required a lot of it.
+  And I also want to thank the majority leader and Chairman Harkin for 
+seeing this legislation through.
+  I am proud to represent one of the Nation's most important 
+agricultural States and so many family farms, which enrich and sustain 
+not only Kentucky but the entire Nation.
+  Kentucky farmers are the best in the country. And the families who 
+run them and the rest of the people of the Commonwealth will all 
+benefit from this bill's new investment in nutrition, renewable energy, 
+and rural development programs, as well as additional incentives for 
+conservation of natural resources.
+  We have had some real accomplishments this week--some genuine results 
+achieved through cooperation.
+  And at the risk of repeating myself, I think there is a lesson here. 
+Unless we find a commonsense, bipartisan path forward on legislation, 
+we all end up empty handed.
+  But today, we will not have done that. And that, I think, is a very 
+good thing.
+  Mr. DURBIN. Mr. President, I support the 2007 farm bill. I would like 
+to begin by thanking the chairman, Tom Harkin, for his hard work and 
+determination on this bill. I also would like to thank Senator Saxby 
+Chambliss for his efforts on this bill. Lastly, I would like to 
+recognize Senators Baucus and Grassley for putting together a tax 
+package to provide funding for agricultural disasters and other 
+functions in the bill.
+
+[[Page 34461]]
+
+  Farm bills are not easy to move through the legislative process. A 
+good farm bill must balance a host of competing funding priorities and 
+the policies and priorities of shifting alliances of regional 
+interests. This farm bill was further complicated by a shrinking 
+baseline due to projected increases in commodity prices and the pay-go 
+rules put into place at the beginning of the 110th Congress. The 
+chairman had a smaller pool of dollars for this bill compared to the 
+2002 farm bill.
+  Through many hours of hard work, traveling the country, holding 
+hearings, and writing the bill, a solid compromise package emerged. 
+This is by and large a good bill, but it could be better.
+  I am sure the chairman wishes he could have done more on 
+conservation, energy, nutrition, and reform than was possible given the 
+funding constraints and the priorities of the committee. However, 
+Chairman Harkin and the members of the Senate Agriculture Committee 
+should be proud of what is in this package.
+  A couple of notable achievements were made. First and foremost, I 
+thank Chairman Harkin and the members of the committee for including an 
+optional Average Crop Revenue Program in the bill. The ACR is a State-
+level revenue countercyclical program that provides income support when 
+farmer revenue dips below expected revenue.
+  This is a market-oriented reform that targets taxpayer support to 
+producers in need. Rather than being based on target prices alone like 
+the current programs, this program protects producers against both 
+yield and price declines, which combine to form a more accurate picture 
+of a producer's viability. It is a better safety net for farmers. 
+Because it is based on market prices rather than politically determined 
+target prices, and is targeted to those who suffer losses, it is more 
+defensible to taxpayers.
+  The program has broad bipartisan support. The administration supports 
+a revenue countercyclical program and Senators Chambliss, Conrad, 
+Thune, and others spoke in favor of the concept in the Senate 
+Agriculture Committee. The program also generates significant savings 
+that Chairman Harkin was able to use to improve commodity programs and 
+provide resources to conservation, nutrition, and energy programs.
+  This is a proposal that closely resembles a bill Senator Brown and I 
+offered this summer. Senators Brown and Harkin were leaders in 
+developing this model and moving it through the committee process.
+  Part of the ACR savings are used for improving our nutrition 
+programs. The farm bill's nutrition programs are critical for helping 
+alleviate hunger. In 2005, 35 million people lived in food-insecure 
+households, including 12.4 million children. Of these individuals, 7.6 
+million adults and 3.2 million children lived in households with very 
+low food security.
+  I thank the chairman for making some changes to the Food Stamp 
+Program and other nutrition programs that will allow more Americans to 
+participate in these programs. For example, the bill modifies 
+eligibility criteria and allocations for nutrition that have not been 
+updated in 30 years. For example, under current law food stamp 
+beneficiaries can own no more than $2,000, a number that has gone 
+unchanged since 1977. It is a disincentive for people to save and 
+unnecessarily makes many who should participate ineligible. This bill 
+raises the asset level to $3,500, allowing 23,000 newly eligible 
+individuals to participate in the Food Stamp Program by 2012 and 
+115,000 by 2017.
+  In addition, the bill increases the minimum food stamp benefit from 
+$10 per month to $18 per month by 2012. Like the asset test, the 
+minimum benefit has not kept pace with inflation. It has not been 
+adjusted for inflation in almost 30 years, meaning that households that 
+receive it can purchase only about one-third as much food as they could 
+have in 1979.
+  According to the Congressional Budget Office, approximately 615,000 
+households, or 738,000 people, will receive higher benefits under this 
+provision, nearly most of them seniors or people with disabilities.
+  Lastly, the bill provides $250 million per year for the Emergency 
+Food Assistance Program, TEFAP, the program used by 25 million people 
+each year to avoid going hungry. This funding will allow food pantries 
+and soup kitchens to provide food to individuals who don't qualify for 
+food stamps or can't stretch their benefits to avoid going to bed 
+hungry.
+  The most dynamic part of agriculture is the development of a robust 
+biofuels market and the expansion of renewable forms of energy. Our 
+farms and small towns have the potential to help free America from our 
+dependence on imported oil. This bill builds on that trend and makes 
+important investments in technologies that will strengthen our ability 
+to produce renewable energy. Overall, the bill invests $1.3 billion 
+over the baseline, which is a step forward but short of the $2.4 
+billion invested by the House.
+  It moves us toward producing fuels from cellulosic biomass by 
+investing in programs to help farmers transition to biomass crop 
+production, harvesting, and storage. It also provides $300 million in 
+grants and loan guarantees for the development of biorefineries and 
+biomass conversion facilities.
+  The energy title contains $245 million for feedstock costs for 
+cellulosic ethanol and biodiesel and adds $230 million for section 9006 
+grants and loan guarantees for solar, wind, and methane digesters. 
+Lastly, the bill commissions a study on ethanol pipelines and adds $25 
+million for E-85 infrastructure.
+  The bill makes major investments in conservation. The bill provides 
+about $4 billion over baseline for important conservation programs that 
+protect wildlife and water quality and prevent soil erosion. Included 
+in this funding is $1.2 billion for the Conservation Security Program 
+and the reauthorization of the Wetlands Reserve Program. The bill also 
+extends the Grasslands Reserve Program and reauthorizes the important 
+conservation and wildlife programs.
+  In other titles, I was glad to see the bill make modest gains in 
+trade promotion. The bill also increases the authorization for the 
+McGovern-Dole program, although it does not provide mandatory funding 
+for the program.
+  On food safety, the bill contains a Food Safety Commission that I 
+helped author with Chairman Harkin and Senator Chambliss.
+  The bill also contains a rural broadband mapping and access bill 
+based on the success of Connect Kentucky. It would expand this type of 
+program to other States.
+  This bill could be better in a number of different areas. It provides 
+about $1 billion less in energy funding than the House bill. I think 
+that could be improved given the importance of this area.
+  It also does not go far enough in terms of targeting payments and 
+income support to producers in need of assistance. The investigative 
+reports of the past several years have shown us that millionaires, 
+deceased landowners, and others who shouldn't qualify for Government 
+support receive payments year in and year out.
+  Because of rules governing loan deficiency payments, producers can 
+evade payment limits. Two-thirds of payments go to about 10 percent of 
+producers. Taxpayers provide $5.2 billion in the form of direct 
+payments to farmers every year regardless of whether a producer has a 
+good year or a bad year.
+  Not only is this indefensible in a time of budget deficits and high 
+commodity prices, it makes our commodity support programs less 
+sustainable for producers that really require some assistance. Now, the 
+compromise worked out by Senators Lincoln, Conrad, and Chambliss does 
+some good things--it eliminates the three-entity rule and anonymous 
+certificates, which are both very real improvements in the program. 
+Unfortunately, this bill does not go far enough.
+  While it does lower the means test for eligibility for payments from 
+the current level of $2.5 million to $750,000, many very wealthy 
+producers will be able to circumvent this soft cap. I am disappointed 
+that amendments offered by my colleagues, Senators Dorgan,
+
+[[Page 34462]]
+
+Brown, and Klobuchar, that would have tightened payment eligibility 
+failed to pass on the floor. I also would have hoped we could have 
+improved the ACR Program to provide producers with an even better 
+option, and hope my colleagues will work to improve it in conference.
+  Overall, though, this is a very good bill. I again thank the chairman 
+and ranking member for their hard work.
+
+
+                           Amendment No. 3855
+
+  Mr. HARKIN. Mr. President, the managers' package of amendments is at 
+the desk. Under the previous order, I ask that it be agreed to.
+  The PRESIDING OFFICER. Under the previous order, the managers' 
+package is agreed to.
+  The Senator from Georgia.
+  Mr. CHAMBLISS. Reserving the right to object, I suggest the absence 
+of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The legislative clerk proceeded to call the roll.
+  Mr. COBURN. Mr. President, I ask unanimous consent that the order for 
+the quorum call be rescinded.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. COBURN. Mr. President, under the cloture rules, I had an 
+amendment for which now it looks like there is the opportunity to have 
+a point of order raised against it, so I am not going to even call up 
+the amendment. I will spend a few minutes talking about it. I know 
+everybody wants to get out of town. I will spend some time talking 
+about it, and I will take as short an amount of time as possible.
+  It was an amendment to eliminate things that are already being done 
+in this country through the Agriculture Department. For example, 
+specialty cheeses, they have grown by 15 to 20 percent per year. We 
+have 16 different marketing agencies the Government, in one way or 
+another, is already funding.
+  We spend $2.5 million a year in Wisconsin already through the Ag 
+Department. We are going to spend $1.6 million with the Vermont cheese 
+marketing program for artesian cheeses. Yet in this bill we are 
+authorizing another program. This amendment was designed to take that 
+out.
+  Also, this amendment deals with areas in terms of USDA loans for golf 
+courses, for resorts, for entertainment complexes, to businesses that 
+have nothing to do with agriculture, to businesses that have assets in 
+excess of $60 billion apiece.
+  So the idea of the amendment was to, first of all, refine where we 
+are loaning the taxpayers' money to businesses and, also, to look at 
+the $1.6 billion the USDA has lost on $15 billion in the last 5 years 
+on loan foreclosures to these types of areas and to redirect this into 
+an area where we are getting better value for the taxpayers' money.
+  I am concerned we actually drafted this amendment, as the committee 
+had asked us to do it, and now we find a point of order will be raised 
+against it following the committee's recommendations.
+  So I appreciate the good work of Senator Harkin and Senator Chambliss 
+on this bill and the way they have worked with us. My hope is we can 
+get a final farm bill through conference and take care of the needs of 
+this country.
+  I am somewhat depressed in the fact that there is a lot of wasteful 
+spending we have put into this bill and we are not going to have an 
+opportunity to amend that.
+  With that, I yield back the remainder of my time.
+  Mr. DURBIN. I suggest the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The legislative clerk proceeded to call the roll.
+  Mr. CHAMBLISS. Mr. President, I ask unanimous consent that the order 
+for the quorum call be rescinded.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. CHAMBLISS. Mr. President, what is the pending business before the 
+Senate?
+  Is it appropriate for me to make some comments on the underlying bill 
+while we are awaiting the next action?
+  The PRESIDING OFFICER. That would be appropriate.
+  Mr. CHAMBLISS. Mr. President, today, the Senate provides certainty to 
+America's farmers and ranchers, conservationists, school lunch program 
+beneficiaries, environmentalists, and rural communities all across this 
+great land. Today, the Senate sets aside partisanship in favor of 
+assisting those in need. Today, we honor our commitment to the American 
+agriculture sector with the passage of the Food and Energy Security Act 
+of 2007.
+  The bipartisan bill before us today is the culmination of years of 
+hard work on the part of the Senate Agriculture Committee and the 
+millions of constituents we work so hard to represent with dignity and 
+purpose. As in any great endeavor, this accomplishment is the fruit of 
+the labor of so many.
+  As we approach final passage of the Food and Energy Security Act of 
+2007, I would like to take a moment to express my thanks and 
+appreciation to everyone who has made this historic day possible.
+  First, let me extend my appreciation to the chairman of the Senate 
+Agriculture Committee, Senator Tom Harkin.
+  Tom, you have truly been a leader throughout this process. You have 
+demonstrated a bipartisan work ethic that is essential to this body's 
+work. You have been a true friend and have been extremely cooperative 
+with me. I appreciate that.
+  Furthermore, each and every member of the Senate Agriculture 
+Committee has played a critical role in crafting this bill and 
+formulating the fiscally responsible policy contained in this farm 
+bill.
+  Every Senator, regardless of party affiliation or the region of the 
+country they are fortunate to represent, came together to produce a 
+farm bill that will carry our agriculture sector into the next 5 years 
+of prosperity. I would be remiss if I did not extend my praise to two 
+other members of the committee. First of all, Senator Blanche Lincoln. 
+Senator Lincoln has been a dear friend since our days in the House. We 
+have had the opportunity to work together on several different 
+agriculture measures. I am extremely appreciative for the work she has 
+done on this particular bill.
+  My friend, Kent Conrad, what a great champion for agriculture he has 
+been. I would have to say that in my 13 years in public service, I have 
+never served with a finer individual or legislator than Kent Conrad, 
+nor will I in however long I remain in public service. To Kent and to 
+the services he has rendered as chairman of the Budget Committee, as 
+well as a member of the Agriculture Committee on this endeavor, I 
+appreciate it.
+  There are a number of other folks whom I wish to acknowledge.
+  I would also like to thank those individuals whose work behind the 
+scenes was instrumental to the passage of this farm bill. I cannot say 
+enough about my staff director, Martha Scott Poindexter. She is the 
+type of staff who you want in the trenches with you, and I am fortunate 
+to have her on my team. Without her efforts, we would not be here 
+today. Also, I would like to thank the chief counsel of the committee, 
+Vernie Hubert. Vernie's vast knowledge of farm policy was indispensable 
+throughout this process. All of my staff deserves a great deal of 
+recognition and I extend my thanks to: Hayden Milberg, Cameron Bruett, 
+Kate Coler, Betsy Croker, Anne Hazlett, Christy Seyfert, Dawn Stump, 
+Patty Lawrence, Alan Mackey, Erin Hamm, Matt Coley, Jane Anna Harris, 
+and Carlisle Clarke.
+  I would also like to recognize Senator Harkin's staff director, Mark 
+Halverson and his entire staff; Jim Miller and Tom Mahr from Senator 
+Conrad's staff; Robert Holifield from Senator Lincoln's staff; Megan 
+Hauck from Senator McConnell's staff; and Ann Wright from the majority 
+leader's office. Their leadership and commitment helped to ensure final 
+passage of this critical legislation.
+  I am extremely proud of the legislation before us today and the 
+example it provides to the American people of what can be accomplished 
+when we focus on the needs of those we serve. While not every Member 
+may be
+
+[[Page 34463]]
+
+pleased with each and every provision in this bill; I am certain that 
+we can all agree that the Senate has taken up an honorable endeavor in 
+securing the future of American agriculture. The investments in this 
+bill will not only benefit our farmers and ranchers, but will promote 
+prosperity far beyond the farm gate.
+  I strongly urge my colleagues to vote for final passage.
+  Inside the Beltway, everyone knows that the Congressional Budget 
+Office is a critical part of the legislative process and provides us 
+with the information to make informed and balanced decisions. Sometimes 
+their decisions frustrate us and the complex nature of their work 
+sometimes confuses us. Nonetheless, they are professionals and their 
+commitment to public service should be commended.
+  Every time we embark on a farm bill, the ag team at CBO is called 
+upon to make very difficult decisions and to analyze policy that is 
+based on hypothetical assumptions.
+  I would like to personally thank Jim Langley, Greg Hitz, Dave Hull, 
+Kathleen Fitzgerald, Dan Hoople, Megan Carroll, and Kathy Gramp for 
+their hard work this past year. They all have been extremely responsive 
+to my staff and helpful answering our questions.
+  With that, I yield the floor.
+  The PRESIDING OFFICER. The Senator from North Dakota is recognized.
+  Mr. CONRAD. Mr. President, I thank Senator Chambliss for his very 
+kind remarks. I want to say how much I have enjoyed working with him on 
+this legislation. If there were ever a challenge putting together this 
+farm bill, this has been it. Senator Chambliss has been a tremendous 
+partner as we put this legislation together. He has been a consummate 
+professional. The staff has been superb. I also thank the chairman for 
+his vision and his leadership in bringing a bill to the American people 
+that is good for taxpayers, that is good for our farm and ranch 
+families, that is good for the economy. I see the chairman is here and 
+perhaps ready to proceed.
+  The PRESIDING OFFICER. The Senator from Iowa is recognized.
+  Mr. HARKIN. Mr. President, we will very shortly go to final passage 
+of this bill. I will ask unanimous consent shortly to wrap that up. But 
+first, again, I want to respond in kind to someone I didn't know 
+until--well, we knew each other sort of slightly when he was in the 
+House and I was in the Senate during the last farm bill, when we did 
+that one, and then he came over and he took over as chairman of the 
+Agriculture Committee here and did a great job. In fact, I say to 
+Senator Chambliss that we wouldn't be here today were it not for his 
+leadership of the Agriculture Committee in the previous years where he 
+traveled the country and chaired hearings all over the United States. 
+He came to Iowa and I appreciated that very much. He laid the 
+groundwork for what we did this year.
+  He has become a friend and a close worker. I can say honestly that in 
+the development of this farm bill, Senator Chambliss and his staff 
+worked very closely with us. I can't think of any one instance in which 
+we were surprised or anything came up that we didn't know about. I hope 
+that worked both ways. We had a very open relationship on this, and I 
+thank Senator Chambliss for his many kindnesses and for working so 
+closely with me personally and with others on the committee, and 
+working with his side of the aisle to bring us to this point today. It 
+has been a great relationship. I look forward to going to conference 
+and getting this bill worked out as soon as possible after the first of 
+the year, and I look forward to getting this done, hopefully even 
+before the end of January.
+  I also thank all of the members of the committee. We have a great 
+committee. I can honestly say this farm bill has the imprint of every 
+single member of our committee. There is something in here that each 
+one on both sides of the aisle contributed to, either specifically or 
+generically, whether it is energy or conservation or farm income 
+protection or specialty crops or nutrition--literally every person on 
+this committee had his or her hand in developing it. So we have a great 
+committee. I am very proud of every single member on this committee.
+  I also want to recognize and thank members of our committee who, as 
+leaders on other committees, were instrumental in completing this bill. 
+Senator Conrad, played a key role as chairman of the Budget Committee 
+and senior member of our committee. Senator Baucus, the chairman of the 
+Finance Committee, and Senator Grassley, the ranking Republican member 
+of that committee, worked to obtain critical funding for this 
+legislation and helped shape it in our committee.
+  The bill we are passing today, the Food and Energy Security Act, is a 
+solid, forward-looking, fiscally responsible bill. It conforms to a 
+strict budget allocation and pay-as-you-go budget rules, yet still 
+addresses the varied geographical and philosophical views of Senators 
+in a very balanced way. This is my seventh farm bill, and as I've said 
+many times before: farm bills are bipartisan, not partisan. There are 
+regional, philosophical and other differences, to be sure. It is a very 
+bipartisan bill. We obviously had regional concerns, budgetary concerns 
+and differences of views, but I think we have answered those in a very 
+balanced way.
+  We do so much in conservation and nutrition, specialty crops, energy 
+initiatives, disaster assistance and crop insurance programs, stronger 
+income protection and promoting new opportunities for farmers and rural 
+communities in this country. This is a bill that is good for farmers 
+and ranchers. We have provisions in here for young, beginning farmers. 
+We have provisions in here to help people transition to organic 
+farming. We have major new investments in initiatives to help producers 
+of specialty crops. And we continue and improve income protection for 
+dairy producers.
+  I wanted to say thank you to Senator Chambliss and all of the members 
+of the committee, and I also want to recognize all of the committee 
+staff members because these staff members have worked very hard and 
+they deserve recognition for the passage of this bill here today.
+  First and foremost, I thank our very capable staff director, Mark 
+Halverson. Mark is a farmer in his own right, farms in my State of Iowa 
+and works here, so he combines it all. He is a lawyer, he is a 
+professional staff person, and he does actually farm. So he brings a 
+lot of expertise and has been a guiding hand in all of this.
+  I thank Martha Scott Poindexter, the chief of staff on the Republican 
+side, for all of her guidance and for all of her great work. I thank 
+you very personally, Martha Scott. Thank you.
+  And, I say thank you to Todd Batta, who did so much on credit and 
+forestry; Richard Bender, on rural development; Eldon Boes, who did so 
+much on energy; Phil Buchan, on conservation; Dan Christenson, on 
+nutrition and specialty crops; Kate Cyrul, our communications director; 
+Katharine Ferguson, who does some of everything, covering issues and 
+keeping our committee on track; John Ferrell, on livestock; Kerri 
+Johannsen, on energy; Susan Keith, our general counsel, who has now 
+worked her second farm bill with us and covers all of the commodity 
+title. Then there is Peter Kelley, who set up all of our hearings; Amy 
+Lowenthal, our counsel; Tina May, again on conservation; Stephanie 
+Mercier, who did so much work on crop insurance and on trade; Derek 
+Miller, who put together a great nutrition title; Adela Ramos, who did 
+all of our title work on the research title and food safety; Jonathan 
+Urban, who worked hard on getting the reauthorization of the Commodity 
+Exchange Act last night; and, of course, Dave White, who has done so 
+much work on conservation.
+  I also thank our chief clerks, Bob Sturm, of course, and Jessie 
+Williams. As we know, Bob has retired, but he comes back once in a 
+while to help and we appreciate that; and we appreciate Jessie 
+Williams' hard work.
+  I would also like to mention all of the staff on the Republican side. 
+I thank Martha Scott Poindexter, the chief of staff on the Republican 
+side;
+
+[[Page 34464]]
+
+Vernie Hubert, Hayden Milberg, Cameron Bruett, Kate Coler, Betsy 
+Croker, Anne Hazlett, Christy Seyfert, Dawn Stump, Patty Lawrence, Alan 
+Mackey, Erin Hamm, Matt Coley, Jane Anna Harris, and Carlisle Clarke. 
+They are all good, dedicated people who worked very hard on this bill.
+  I now wish to propound a unanimous consent request. I ask unanimous 
+consent that all pending amendments be withdrawn, that no further 
+amendments be in order, that the substitute amendment, as amended, be 
+agreed to, the bill--Mr. President, I am told the managers' package 
+still has not been worked out. I had assumed it was. It still has not. 
+So we are going to have to wait a few more minutes to get the managers' 
+package put together and make sure it is agreed to.
+  With that, I note the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The legislative clerk proceeded to call the roll.
+  Mr. HARKIN. Mr. President, I ask unanimous consent that the order for 
+the quorum call be rescinded.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. HARKIN. Mr. President, again, as I understand the situation--and 
+I stand to be corrected if I am wrong--we have a managers' package at 
+the desk, which has been cleared on both sides; that the amendments 
+which were objected to previously now are put back in; that there is an 
+amendment in that package which sets a lower program level in a USDA 
+program offsetting those amendments. With that, I understand the 
+managers' package is acceptable; am I correct?
+  Mr. CHAMBLISS. Mr. President, that is correct. As I recall, I had 
+reserved the right to object. I do not object.
+  The PRESIDING OFFICER. Under the previous order, the managers' 
+package is agreed to.
+  The amendment (No. 3855) was agreed to.
+  (The amendment is printed in today's Record under ``Text of 
+Amendments.'')
+  Mr. DURBIN. Mr. President, I move to reconsider the vote.
+  Mr. CONRAD. I move to lay that motion on the table.
+  The motion to lay on the table was agreed to.
+  Mr. HARKIN. Mr. President, I ask unanimous consent that all pending 
+amendments be withdrawn; that no further amendments be in order; that 
+the substitute amendment, as amended, be agreed to, the bill read the 
+third time, and that the cloture motion be withdrawn; that without 
+further intervening action or debate, the Senate proceed to vote on 
+passage of the bill; that upon passage, the motion to reconsider be 
+laid upon the table; that the Senate insist on its amendment, request a 
+conference with the House, and the Chair be authorized to appoint 
+conferees.
+  The PRESIDING OFFICER. Is there objection?
+  Mr. WYDEN. Mr. President, reserving the right to object, and it is 
+not my intention to object, we have been working closely with the 
+chairman's staff and with the ranking minority member to ensure that 
+the bipartisan ban on illegal logging would be included. I have not 
+been informed. Has the ban on illegal logging been included?
+  Mr. HARKIN. I am informed that it has.
+  Mr. WYDEN. I withdraw my reservation.
+  The PRESIDING OFFICER. Is there objection?
+  Without objection, it is so ordered.
+  The amendment (No. 3500), as amended, was agreed to.
+  The question is on the engrossment of the amendment and third reading 
+of the bill.
+  The amendment was ordered to be engrossed and the bill to be read a 
+third time.
+  The bill was read the third time.
+  Mr. HARKIN. Mr. President, I ask for the yeas and nays on the final 
+passage of the farm bill.
+  The PRESIDING OFFICER. Is there a sufficient second?
+  There is a sufficient second.
+  The question is on agreeing to the bill, as amended. The clerk will 
+call the roll.
+  The legislative clerk called the roll.
+  Mr. DURBIN. I announce that the Senator from Delaware (Mr. Biden), 
+the Senator from California (Mrs. Boxer), the Senator from New York 
+(Mrs. Clinton), the Senator from Connecticut (Mr. Dodd), the Senator 
+from Florida (Mr. Nelson), and the Senator from Illinois (Mr. Obama) 
+are necessarily absent.
+  I further announce that, if present and voting, the Senator from 
+Delaware (Mr. Biden), and the Senator from Florida (Mr. Nelson) would 
+each vote ``yea''.
+  Mr. LOTT. The following Senator is necessarily absent: the Senator 
+from Arizona (Mr. McCain).
+  The PRESIDING OFFICER. Are there any other Senators in the Chamber 
+desiring to vote?
+  The result was announced--yeas 79, nays 14, as follows:
+
+                      [Rollcall Vote No. 434 Leg.]
+
+                                YEAS--79
+
+     Akaka
+     Alexander
+     Allard
+     Barrasso
+     Baucus
+     Bayh
+     Bingaman
+     Bond
+     Brown
+     Brownback
+     Bunning
+     Byrd
+     Cantwell
+     Cardin
+     Carper
+     Casey
+     Chambliss
+     Coburn
+     Cochran
+     Coleman
+     Conrad
+     Corker
+     Cornyn
+     Craig
+     Crapo
+     Dole
+     Domenici
+     Dorgan
+     Durbin
+     Enzi
+     Feingold
+     Feinstein
+     Graham
+     Grassley
+     Harkin
+     Hatch
+     Hutchison
+     Inhofe
+     Inouye
+     Isakson
+     Johnson
+     Kennedy
+     Kerry
+     Klobuchar
+     Kohl
+     Landrieu
+     Leahy
+     Levin
+     Lieberman
+     Lincoln
+     Lott
+     Martinez
+     McCaskill
+     McConnell
+     Menendez
+     Mikulski
+     Murkowski
+     Murray
+     Nelson (NE)
+     Pryor
+     Reid
+     Roberts
+     Rockefeller
+     Salazar
+     Sanders
+     Schumer
+     Sessions
+     Shelby
+     Smith
+     Snowe
+     Specter
+     Stabenow
+     Stevens
+     Tester
+     Thune
+     Vitter
+     Warner
+     Webb
+     Wyden
+
+                                NAYS--14
+
+     Bennett
+     Burr
+     Collins
+     DeMint
+     Ensign
+     Gregg
+     Hagel
+     Kyl
+     Lautenberg
+     Lugar
+     Reed
+     Sununu
+     Voinovich
+     Whitehouse
+
+                             NOT VOTING--7
+
+     Biden
+     Boxer
+     Clinton
+     Dodd
+     McCain
+     Nelson (FL)
+     Obama
+  The bill (H.R. 2419), as amended, was passed.
+  (The bill will be printed in a future edition of the Record.)
+  The PRESIDING OFFICER. Under the previous order, the motion to 
+reconsider is laid on the table. The Senate insists on its amendment, 
+requests a conference with the House, and the Chair is authorized to 
+appoint conferees.
+  Mr. HARKIN. Mr. President, again this is a great vote--79 votes in 
+favor of the farm bill is a great vote. I think it is an affirmation of 
+the hard work our committee put in all this year to get to this point, 
+on both sides of the aisle, with Senator Chambliss leading his side. On 
+our side, we had great cooperation and great work from all the members 
+of our committee.
+  So I look upon this very strong vote as an affirmation of this hard 
+work. And, indeed, it was hard work. Someone said to me a little bit 
+ago: Gosh, December 14 is late in the year to do a farm bill. I 
+remembered the 1981 farm bill was passed on December 17 at 2 a.m. in 
+the morning. How do I remember that? Because my daughter was born 2 
+hours later, at 4 a.m. in the morning. So, to me, this is early. But 
+nonetheless, it is a great bill and we are delighted to get it through. 
+We look forward to going to conference now.
+  I wish to say one other thing. Late last night, I received a phone 
+call from Senator Biden and Senator Clinton and Senator Dodd and 
+Senator Obama. They all reached out to me to ask: Do you need our vote 
+for the farm bill? Because we want to be there to vote for it. We had 
+taken a whip count, we knew we had a good bill, we knew we would have 
+more than enough votes on this, and so I told each of them their vote 
+was not needed. But they each assured me, Senator Biden, Senator 
+Clinton, Senator Dodd, and Senator Obama, if their vote was needed, 
+they would have been here, and had they been here, they would have 
+voted for that farm bill. So I wish to thank each of them, and I want 
+the record to show
+
+[[Page 34465]]
+
+Senators Biden, Clinton, Dodd, and Obama would have cast their votes in 
+favor of the farm bill were they able to be here today. I appreciate 
+their support, and, of course, I wish each of them excellent luck in 
+the future.
+  With that, again I thank all my fellow Senators, I look forward to 
+our conference and wrapping up our conference sometime soon, in 
+January, but this is a good bill, and you can take it home. It is a 
+good bill for rural America and for farmers and for everyone who eats 
+food in this country.
+  I yield the floor.
+  The PRESIDING OFFICER. The Senator from Georgia.
+  Mr. CHAMBLISS. Mr. President, knowing the chairman is about my age, I 
+hope he doesn't have another child in the next 2 hours.
+  Mr. HARKIN. I sure hope not.
+  Mr. CHAMBLISS. Mr. President, I wish to add to what I said a little 
+earlier and some comments made before the vote.
+  Mr. President, today the Senate provides certainty to America's 
+farmers and ranchers, conservationists, school lunch program 
+beneficiaries, environmentalists, and rural communities all across this 
+great land. Today, the Senate sets aside partisanship in favor of 
+assisting those in need. Today, we honor our commitment to the American 
+agriculture sector with the passage of the Food and Energy Security Act 
+of 2007.
+  The bipartisan bill before us today is the culmination of years of 
+hard work on the part of the Senate Agriculture Committee and the 
+millions of constituents we work so hard to represent with dignity and 
+purpose. And, as in any great endeavor, this accomplishment is the 
+fruit of the labor of so many. As we approach final passage of the Food 
+and Energy Security Act of 2007, I would like to take a moment to 
+express my thanks and sincere appreciation to everyone that has made 
+this historic day possible.
+  First, let me extend my appreciation to the chairman of the Senate 
+Agriculture Committee, Senator Tom Harkin. He has truly been a leader 
+throughout this process, demonstrating the bipartisan work ethic that 
+is essential to this body's work. Furthermore, each and every member of 
+the Senate Agriculture Committee has played a critical role in crafting 
+this bill and formulating the fiscally responsible policy contained in 
+this farm bill. Every Senator, regardless of party affiliation or the 
+region of the country they are fortunate to represent; came together to 
+produce a farm bill that will carry our agricultural sector into the 
+next 5 years of prosperity.
+  I would be remiss if I did not extend my praise to one particular 
+member of our committee, Senator Kent Conrad. I can say without 
+equivocation, that there is no way we could have arrived where we are 
+today without his leadership, budgetary skills, and tireless 
+willingness to set aside partisan differences in order to accomplish 
+our common goal of continuing our commitment to the American farmer and 
+rancher. As chairman of the Senate Budget Committee, Kent has obviously 
+played a key role throughout this process and I have not served with a 
+finer individual in all my years of public service.
+  Inside the Beltway, everyone knows that the Congressional Budget 
+Office is a critical part of the legislative process and provides us 
+with the information to make informed and balanced decisions. Sometimes 
+their decisions frustrate us and the complex nature of their work 
+sometimes confuses us. Nonetheless, they are professionals and their 
+commitment to public service should be commended.
+  Every time we embark on a farm bill, the Agriculture Team at CBO is 
+called upon to make very difficult decisions and to analyze policy that 
+is based on hypothetical assumptions.
+  I would like to personally thank Jim Langley, Greg Hitz, Dave Hull, 
+Kathleen Fitzgerald, Dan Hoople, Megan Carroll and Kathy Gramp for 
+their hard work this past year. They all have been extremely responsive 
+to my staff and helpful answering our questions.
+  I would like to thank also a number of individuals who have worked 
+behind the scenes and who were certainly instrumental and largely 
+responsible for the passage of this farm bill. I can't say enough about 
+my staff director, Martha Scott Poindexter. She is the type of staffer 
+you want in the trenches with you, and I am fortunate to have her on my 
+team. She has been with me now, off and on, for 13 years, and she is 
+one great southern lady from Mississippi who understands agriculture, 
+having grown up on a farm. Without her, I simply wouldn't be able to 
+function when it comes to agriculture, so I am very pleased she was as 
+instrumental as she was and here to help guide me.
+  I would also like to thank the chief counsel to the committee, Vernie 
+Hubert. Vernie, with his vast knowledge of farm policy, was simply 
+indispensable in this process. As the chairman probably remembers, 
+Vernie was a staff director on the House side during the last farm 
+bill, as well as a couple of others previous to that. But he was a 
+staffer on the Democratic side, and I was so impressed with Vernie 
+during the course of my years in the House, that when I was elected to 
+the Senate, I told Martha Scott the first thing she had to do was to go 
+out and hire Vernie Hubert, and she did, and he has been a great one.
+  All my staff deserves a great deal of recognition, and I would like 
+to extend my thanks to: Hayden Milberg, Cameron Bruett, Kate Coler, 
+Betsy Croker, Anne Hazlett, Christy Seyfert, Dawn Stump, Patty 
+Lawrence, Alan Mackey, Erin Hamm, Matt Coley, Jane Anna Harris, and 
+Carlisle Clarke.
+  Also, to those individuals on the Democratic side, and I mentioned 
+Mark a little bit earlier, but this is a bipartisan committee, both 
+memberwise and staffwise: Todd Batta, Richard Bender, Eldon Boes, Phil 
+Buchan, Dan Christenson, Kate Cyrul, Katharine Ferguson, John Ferrell, 
+Kerri Johannsen, Susan Keith, Peter Kelley, Amy Lowenthal, Tina May, 
+Stephanie Mercier, Derek Miller, Adela Ramos, Jonathan Urban, and Dave 
+White. What great folks they are and what a great service they have 
+provided to Senator Harkin as well as me.
+  There is also, over on Senator Conrad's staff, two guys over there, 
+Jim Miller and Tom Marr. These two men have worked extremely hard, and 
+all these folks have put in hundreds of hours. I know how much time we 
+have put into it, but staff has two, three, and four times as many 
+hours as we have. To all of them, I say thank you.
+  To Megan Hauck, from Senator McConnell's office; Ann Wright from the 
+majority leader's office; Robert Holyfield from Senator Lincoln's 
+office, their leadership and commitment helped to ensure final passage 
+of this crucial legislation.
+  I am extremely proud of the legislation before us today and the 
+example it provides to the American people of what can be accomplished 
+when we focus on the needs of those we serve. While not every Member 
+may be pleased with each and every provision in this bill, I am certain 
+we can all agree the Senate has made an honorable endeavor in securing 
+the future of American agriculture. The investment in this bill will 
+not only benefit our farmers and ranchers but will promote prosperity 
+far beyond the farm gate, and I am very pleased to have been part of 
+this with my chairman, Senator Harkin.
+  The PRESIDING OFFICER. The Senator from South Dakota.
+  Mr. CONRAD. Mr. President, this is a landmark achievement. Let me 
+indicate to my colleagues we have counted the votes--79 votes for this 
+bill--and there are more votes for a farm bill than any farm bill going 
+back to 1973, and that is with the Presidential candidates missing. 
+That would have been another four votes. No farm bill has had more 
+votes than this bipartisan bill since 1973.
+  That is a tribute to our leadership, the chairman of the committee, 
+Senator Harkin, who came to this bill with a vision for moving 
+agriculture in a new direction. This is a good beginning--not 
+everything the chairman would have liked, and some of us had interests 
+that had to be addressed. So we were ready to follow his leadership,
+
+[[Page 34466]]
+
+but we also had to deal with some of the realities of our individual 
+States, and I know the chairman recognizes that. But we applaud him for 
+his vision because this bill moves in a different direction.
+  We have additional resources, important additional resources for 
+conservation and for nutrition. The people of this country will look 
+back on this bill, and they will also see the beginning of very 
+important reform. The end of the three-entity rule, the direct 
+attribution, dramatic reduction in adjusted gross income for 
+nonfarmers. It will go from $2.5 million down to $750,000.
+  This bill is good for the economy and it is paid for. So we all 
+salute the chairman and his staff: Mark Halverson, the staff director, 
+who has been so dedicated to this cause. Mark, we appreciate the 
+extraordinary efforts and energy you have put into this bill. To Susan 
+Keith, who is a fierce advocate and somebody who is a real pro. She 
+knows these programs backward and forward. Susan, we appreciate all the 
+contributions you have made.
+  To our ranking member, Senator Chambliss--``Cool Hand Luke.'' You 
+couldn't have a better ranking member for this committee, somebody who 
+has been calm in the eye of the storm. This has been tough to do, and 
+the occupant of the chair knows that is the case. Senator Chambliss has 
+been a remarkable partner. So Saxby, we have enjoyed getting to know 
+you and working with you, and thanks for the extraordinary 
+professionalism of your staff: Martha Scott Poindexter. Outstanding. 
+Unflappable. Always there. Very smart, very knowledgeable, and very 
+committed to producing a good bill for this country. Vernie Hubert, an 
+absolute pro. He has been on both sides of the aisle and respected on 
+both sides and somehow is able to maintain that respect. That is 
+exactly the way the Senate ought to function. Thank you so much for the 
+good counsel we have received.
+  To other Senators on the committee, let's say a special thanks to 
+Senator Baucus, chairman of the Finance Committee, who helped us get 
+very important additional resources. Thank you, Senator Baucus. To 
+other leaders on the committee, Senator Leahy, especially on the dairy 
+provisions. So many others.
+  Senator Stabenow, who led the fight for specialty crops. We deeply 
+appreciate Senator Stabenow and all you did to help bring us together 
+as well. Senator Klobuchar. Senator Klobuchar, who had special interest 
+in renewable energy provisions. One of the exciting things about this 
+bill is it is going to reduce our dependence on foreign energy.
+  A new Senator to the committee, Senator Casey, who has been 
+outstanding, a quick learner, and we appreciate his contribution. 
+Senator Sherrod Brown. Boy, he brings passion to this cause. You 
+couldn't have a better member of the committee than Sherrod Brown, who 
+has done his homework and is engaged.
+  To the other Members as well, we so deeply appreciate the 
+contributions that have been made. My partner right here, the Senator 
+from Colorado, Mr. Salazar, who has that gift for bringing people 
+together when it is especially difficult to do so. He has a gift, and 
+he is always there working to bring people in so we can reach 
+conclusion. Certainly to Blanche Lincoln. Boy, I tell you, you want her 
+on your side when you are in a fight. She is fierce, she is determined, 
+and she does not give up. Congratulations, Senator. We know you 
+represented your people and you represented them well.
+  To the Senator from Nebraska, Senator Nelson, who is deeply 
+knowledgeable. Of course, nobody knows more about crop insurance on our 
+committee than Ben Nelson. He has been a huge help to us. We thank them 
+all.
+  I yield the floor.
+  The PRESIDING OFFICER. The Senator from Colorado.
+  Mr. SALAZAR. Mr. President, I wish to join my colleagues in their 
+accolades for what has happened here today. This is a historic move 
+forward, especially when you look at the votes we have for this 
+legislation, because it is such a good piece of legislation. We had 
+Republicans and Democrats coming together saying this is a new way 
+forward for America, for food security, for energy security, for 
+nutrition and all the rest of it that is good in this legislation.
+  I wish to thank everyone who has been involved, from Ranking Member 
+Chambliss's leadership, to the chairman of the committee, Tom Harkin, 
+and all his staff, who have been so tireless and so patient with us as 
+we have moved forward with this effort. It is always important, because 
+there are so many staff involved in this effort, to say thank you, and 
+I wish to thank my staff: Brendan McGuire, Tommy Olsen, Grant Leslie, 
+and Steve Black, and to others who have been with me working on this 
+legislation now for 2\1/2\ years.
+  Also, I wish to thank the staff of Senator Harkin, Mark Halverson, 
+and Susan Keith, for their great work and leadership, as well as 
+Senator Conrad's staff, Jim Miller and Tom Marr. Without them, it would 
+have been very difficult to get finalization on this legislation. 
+Thanks also to Senator Chambliss's staff, Martha Scott, who had a 
+wonderful job of making sure we put all this together and Vernie as 
+well. Thank you.
+  I think it is important also for us to put this in the context of 
+what has happened in the Senate. We ought to be very proud of what this 
+Chamber has done under the leadership of Senator Reid, who, coming into 
+this week, had a very tough agenda. When you think about it, the 
+American people should be proud of the Senate today because we have 
+passed a historic energy bill, which is a giant step forward in terms 
+of our quest for energy independence, and we have passed a Defense 
+authorization bill, to make sure we have the right strength in our 
+military forces who will defend our country and our homelands and our 
+world. Today, passing the farm bill, we have taken a huge step, making 
+sure we lead the world in terms of security.
+  I yield the floor.
+  The PRESIDING OFFICER (Mr. Tester). The Senator from North Carolina 
+is recognized.
+  Mrs. DOLE. Let me add my congratulations to Senators Harkin and 
+Chambliss for their hard work and many accomplishments in passage of 
+the farm bill. I congratulate all involved.
+  Mr. President, I ask unanimous consent to speak for about 10 minutes 
+as in morning business.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```

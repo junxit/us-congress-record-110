@@ -1,0 +1,412 @@
+---
+granule: CRECB-2007-pt25-Pg34469
+date: 2007-12-14
+edition: CRECB
+section: SENATE
+page: 34469
+---
+
+# FOREIGN INTELLIGENCE SURVEILLANCE ACT--MOTION TO PROCEED
+
+```
+        FOREIGN INTELLIGENCE SURVEILLANCE ACT--MOTION TO PROCEED
+
+  Mr. REID. Madam President, as I have announced several times in the 
+last few days, I am going to shortly move to proceed to S. 2248, the 
+Foreign Intelligence Surveillance Act. This is such an important piece 
+of legislation. I spoke briefly on this subject earlier, but I want to 
+provide a more complete explanation of the process by which the Senate 
+will consider this vital piece of legislation.
+  Earlier this year, the Director of National Intelligence came to 
+Congress and alerted us to what he described as a significant gap that 
+had emerged in our Nation's foreign intelligence-gathering capacity. 
+Members on both sides of the aisle and from all sides of this important 
+debate became convinced that this problem was real and that we had an 
+obligation to address it. Although many of us differ on the solution, 
+all Senators without exception, both Democrats and Republicans, want to 
+ensure that intelligence professionals have the tools they need to keep 
+our country as safe as possible. We all worked in good faith with the 
+administration through July and August to provide those tools in a way 
+that protects the privacy and liberties of law-abiding Americans.
+  Unfortunately, the bill signed by President Bush fell well short of 
+that goal. I and many other Democrats opposed the so-called Protect 
+America Act. That is why we made sure it had a 6-month sunset, so we 
+could come back and do a better job of ensuring judicial and 
+congressional oversight of these sensitive activities. As we all know, 
+had the President been operating as we have always operated in the 
+past, he would simply have come to the Intelligence Committee, the 
+Judiciary Committee, and told them the changes that were necessary. But 
+they didn't do that.
+  As my colleagues know, the Senate Judiciary Committee and the 
+Intelligence Committee share jurisdiction over the Foreign Intelligence 
+Surveillance Act. As a result of the President not asking us to act in 
+a timely fashion, we find ourselves in a difficult position. But in 
+spite of that, both committees have worked diligently over the past few 
+months. This hard work has resulted in two different versions of 
+legislation to improve FISA, S. 2248, reported out of the committees.
+  I consulted extensively with Chairmen Rockefeller and Leahy about the 
+best way for the Senate to consider this delicate subject. I have 
+determined that in this situation it would be wrong of me to simply 
+choose one committee's bill over the other. I personally favor many of 
+the additional protections included in the Judiciary Committee bill. I 
+oppose the concept of retroactive immunity in the Intelligence bill. 
+But I cannot ignore the fact that the Intelligence bill was reported 
+favorably by a vote of 13 to 2, with most Democrats on the committee 
+supporting that approach. I explored the possibility of laying before 
+the Senate a bill that included elements of both committee bills. 
+Earlier this week I used Senate rule XIV to place two bills on the 
+calendar, first S. 2440, consisting of titles I and III of the 
+Intelligence bill, but did not include title II on retroactive 
+immunity. The second bill, S. 2441, consists of title I of the 
+Judiciary bill and titles II and III of the Judiciary bill. Senator 
+Leahy and I favor the second bill, S. 2441. But for me to override 
+Senate precedent and rules in this case would be wrong and unfair. 
+After consulting with Chairman Rockefeller and Chairman Leahy, we 
+recognized--these two veteran legislators--that the best thing to do 
+would be to follow regular order. It is the right thing to do. It is 
+not right for me to pick and choose. After the committee structure has 
+been established--and I believe in it--to simply say it doesn't
+
+[[Page 34470]]
+
+matter in this case, it matters in every case. If it doesn't matter in 
+one case, then it doesn't matter in any case. We have to follow the 
+rules we have here; otherwise, it becomes very unfair, and it becomes a 
+situation where I am the one picking and choosing. That isn't the way 
+it should be. Both chairmen, with their experience, agreed that this 
+was the right approach, even though, as I repeat, Senator Leahy and I 
+would rather have the Judiciary Committee bill that we believe 
+strengthens the position we had initially and not have to try to put 
+them in at a subsequent time.
+  Under regular order, under the rules of the Senate governing 
+sequential referral, I will move to proceed to S. 2248, the bill 
+reported by each committee. When that motion to proceed is adopted, the 
+work of both committees will be before the Senate, all elements of both 
+pieces of legislation. All Senators will then be involved in the 
+process. That is how it should be--all members of the Intelligence 
+Committee, all members of the Judiciary Committee, and all Members of 
+the Senate, Democrats and Republicans.
+  Because of the order in which they considered the bill, the 
+Intelligence Committee version will be the base text. The Judiciary 
+Committee version will be automatically pending as a substitute 
+amendment.
+  I admire and respect the work done by these two committees on a 
+bipartisan basis. Senators Leahy and Specter work extremely well 
+together. Senators Rockefeller and Bond work extremely well together. 
+These are the two committees that will have matters before this Senate. 
+In the weeks since the two committees acted, Senators Rockefeller and 
+Leahy have been working very hard to narrow the differences between 
+their two versions of the bill. The ranking Republicans, Senators Bond 
+and Specter, have been included in these conversations and 
+deliberations. I expect that when we begin debate on the bill there 
+will be amendments to incorporate many of the Judiciary Committee 
+provisions into the Intelligence Committee text. In my view, that will 
+make the final product stronger.
+  There is one issue that cannot be resolved through formal 
+negotiation. As some are aware, the Intelligence Committee bill 
+provides the telephone companies with retroactive immunity for lawsuits 
+filed by customers for privacy violations and other aspects of the law. 
+For me and many Members, there is a belief that such a grant of 
+immunity is not wise. Others disagree. We saw what happened in the 
+Intelligence Committee. That is a committee that the Republican leader 
+and I worked very hard to get people on that committee who are going to 
+work long hours. No committee in the Congress works longer hours than 
+the Intelligence Committee. They work in anonymity. They don't have 
+public hearings very often. Most of the time they are secluded in the 
+Hart Building in that confidential space they have alone. The press 
+doesn't know what is going on there. Staff, except for a few exclusive 
+staff members, have no idea what is going on in there. These people on 
+the Intelligence Committee work very hard and out of the purview of the 
+public. That is the way it has to be. I expect there will be full 
+debate on this subject of immunity next week as there should be.
+  Senators Specter, Feinstein, Whitehouse, Wyden, and others are 
+working to craft a compromise that might give the phone companies some 
+relief but would allow the lawsuits to go forward in a manner that 
+would preserve accountability. In one way or another, we must ensure 
+that President Bush is held accountable for his actions. Some people 
+believe his actions were unwise and misdirected. It is important for 
+the Senate to complete work on this bill next week to allow time for 
+the Senate and House to produce a final product in conference. Our 
+ultimate goal is a bill that commands broad bipartisan support in the 
+Congress and in the country. The process I have outlined offers us the 
+best opportunity to do so. It is going to be difficult, it is going to 
+be time consuming, and it is going to be important. It is for the 
+safety and security of our Nation.
+  Mr. WYDEN. Madam President, I suggest the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The legislative clerk proceeded to call the roll.
+  Mr. WYDEN. Madam President, I ask unanimous consent that the order 
+for the quorum call be rescinded.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. WYDEN. Madam President, for nearly 30 years, the Foreign 
+Intelligence Surveillance Act, FISA, as it has come to be known, has 
+represented the ultimate balance between our country's need to fight 
+terrorism ferociously and to protect the constitutional rights of the 
+American people.
+  I intend to outline several of the key issues in this debate this 
+afternoon. First, though, I want to say a word about the process which 
+the distinguished Senate majority leader has just touched on.
+  I was one of two in the Senate Intelligence Committee to oppose the 
+Intelligence Committee's version of the legislation. I am strongly 
+opposed to granting telecommunications companies total retroactive 
+immunity when they have been accused of wrongdoing in the President's 
+warrantless wiretapping program. The Intelligence Committee legislation 
+includes such a grant of immunity, and it was the major reason I 
+opposed the legislation.
+  I do, however, respect Senator Reid's decision to hold the debate on 
+this legislation under the regular Senate rules. Certainly, the 
+distinguished majority leader has been under a lot of pressure from all 
+sides to change the rules that in one way might favor one side or the 
+other, but I think the majority leader has made the right decision by 
+insisting that this debate go by the book.
+  I have had the chance now to work with the distinguished majority 
+leader for more than a quarter century. I know how much respect he has 
+for the Senate and for this institution. He firmly believes in the 
+committee process. He firmly believes in the Senate's rules and 
+traditions, and he worked to carry those beliefs out as both the 
+minority whip and the minority leader. So we will have a chance, as 
+Senator Reid noted, to try to work a compromise on several of these key 
+issues.
+  I have said on a number of occasions, it may well be appropriate that 
+the phone companies deserve some measure of protection with respect to 
+their role in this surveillance program. But at a time when there are 
+scores of lawsuits, the idea of complete and retroactive immunity seems 
+to me to be over the line.
+  It would be my intention, if we cannot reach a compromise on this 
+issue--and it is my hope we will--it would be my intention, once again, 
+to oppose legislation that grants total and complete immunity for the 
+companies.
+  Now, when the Senate Intelligence Committee picked up on its work 
+this fall, coming back after the recess period, once again, we had a 
+chance to meet with the director of the intelligence community, Mr. 
+McConnell. As usual, he laid out a thoughtful case on a key issue, and 
+that is that in some respects the Foreign Intelligence Surveillance Act 
+has not kept up with the times.
+  Clearly, there are threats overseas, when one foreigner communicates 
+with another foreigner, where it is important that our intelligence 
+officials are in a position to protect the interests of the American 
+people and run surveillance with respect to those conversations.
+  I and others said to the administration repeatedly that we would be 
+supportive of that effort, and we would be supportive of that effort 
+even when on an incidental basis it might pick up the conversations of 
+innocent Americans. It was an effort to try to reach common ground with 
+the administration and, in particular, to acknowledge that Admiral 
+McConnell had a very valid point.
+  But, unfortunately, the administration would not take yes for an 
+answer. I and others said--Chairman Rockefeller, Senator Bond. I have 
+had the chance to work closely with both of them. Both of them have 
+been supportive of a number of initiatives I
+
+[[Page 34471]]
+
+have felt strongly about with respect to accountability, holding the 
+intelligence community to its word with respect to disclosure, 
+declassification.
+  I have the view that when Chairman Rockefeller and Senator Bond have 
+a chance to work with a number of us on the committee, we can find 
+common ground on a lot of these key issues. We can find common ground 
+on the issue that the administration said for months and months was 
+their principal concern; and that was to be able to pick up on the 
+conversations of individuals overseas who represented a real threat to 
+the security and well-being of the American people.
+  But, as I indicated, that was not enough for the administration. They 
+would not accept yes for an answer. At that point, they then began to 
+push very hard for this idea of complete and retroactive immunity for 
+the telecommunications companies. This came, of course, after years and 
+years of the administration saying this program was lawful. I have had 
+some difficulty squaring the fact that the administration said for so 
+long--for literally years--that the program was lawful and now, in the 
+face of all these lawsuits, despite the assertion that the program was 
+so lawful, there should be this blanket grant of immunity. So that 
+alone raised concerns on my part. I decided to dig even more deeply 
+into this issue.
+  There are a number of Department of Justice legal opinions that 
+relate to this program. The President has refused to make these 
+opinions public or even share them with most Members of Congress. Our 
+committee has reviewed the Department of Justice legal opinions related 
+to the President's warrantless wiretapping program, and I have read 
+these opinions myself. In my judgment, the legal reasoning in these 
+opinions is shaky at best, and in some areas it is exceptionally weak.
+  I think most Americans would be surprised and dismayed to learn that 
+their President had ordered the NSA to conduct this program based on 
+such flimsy legal justification. Nothing in any of these opinions has 
+convinced me that the President's warrantless wiretapping program was 
+legal. Now that the existence of the warrantless wiretapping program 
+has been confirmed, I see no national security reason to classify most 
+of these opinions. As far as I can tell, these opinions are being kept 
+classified in order to protect the President's political security, not 
+our national security.
+  Our committee has also reviewed written correspondence sent to 
+certain telecommunications companies by the Government, and I have read 
+this correspondence as well. I cannot reveal the details of this 
+correspondence, but I can say that I remain unconvinced that the 
+Congress should grant total immunity to the companies.
+  For years, there have been a number of laws on the books, such as the 
+Wiretap Act, the Electronic Communications Privacy Act, and, of course, 
+the Foreign Intelligence Surveillance Act, that together make it very 
+clear that participating in a warrantless wiretapping program is 
+against the law.
+  Now, a number of our colleagues have argued that any companies that 
+were asked to provide assistance after September 11 should be granted 
+leniency since they acted during a time of national panic and 
+understandable confusion. I think this argument has some merit, but the 
+bill that was reported by our committee would not just grant immunity 
+for 6 months or a year after September 11, it would grant immunity for 
+actions taken up to 5 years after our country was attacked. I think 
+that is far too long, and I will explain why.
+  If a phone company executive was asked to participate in warrantless 
+wiretapping in the weeks after September 11, it is understandable that 
+he or she might not take the time to question assertions from the 
+Government that the wiretapping was legal, but this should not give a 
+free pass to participate in warrantless wiretapping forever. At some 
+point over the following months and years, this phone company executive 
+has an obligation to think about whether they are complying with the 
+law, and as soon as you realize that you are breaking the law, you have 
+an obligation to stop. In the months and years following September 11, 
+it should have been increasingly obvious to any phone company that was 
+participating in this program that it might not be following the law.
+  For starters, in the weeks after September 11, Congress and the 
+President got together to review the Foreign Intelligence Surveillance 
+Act, including the wiretapping provisions. But Congress did not change 
+the sections of the Foreign Intelligence Surveillance Act that state 
+warrantless wiretapping is illegal. This should have been a giant red 
+flag to any phone company that participated in the program.
+  Next, in the summer of 2002, the Director of the NSA, General Hayden, 
+appeared before our committee in open session and testified about the 
+need to get warrants when someone was inside the United States. I am 
+sure General Hayden would argue he was parsing his words carefully, but 
+at a minimum it was clear, at this point, most of the Congress, and 
+certainly the American people, believes warrantless wiretapping was 
+illegal. The President has argued he authorized this program under his 
+authority as Commander in Chief, but in the spring of 2004, the Supreme 
+Court issued multiple rulings clearly rejecting the idea that the 
+President can do whatever he wishes because the country is at war. 
+These rulings should have also been a giant red flag for any phone 
+company engaged in warrantless wiretapping.
+  Finally, as the Intelligence Committee's recent report noted, most of 
+the letters requesting assistance stated the Attorney General believed 
+the program was legal, but as our report points out, one of the letters 
+did not even say the Attorney General had approved. I have read this 
+letter, and I believe it should have set off loud alarm bells in the 
+ears of anyone who received it. In my view, as the years rolled by, it 
+became increasingly unreasonable for any phone company to accept the 
+Government's claim that warrantless wiretapping was legal. By 2004, at 
+the very latest, any companies involved in the program should have 
+recognized the President was asking them to do things that appeared to 
+be against the law. The former CEO of Qwest has said publicly he 
+refused requests to participate in warrantless surveillance because he 
+believed it violated privacy laws. I cannot comment on the accuracy of 
+this claim, but I encourage my colleagues to stop and think about its 
+implications.
+  I also encourage my colleagues to go read the letters that were sent 
+to telecommunications companies. I think these letters seriously 
+undermine the case for blanket retroactive immunity. The bill that 
+passed the Intelligence Committee would grant immunity long past the 
+point at which it was reasonable for phone companies to believe the 
+President's assertions. It would even grant immunity stretching past 
+the point at which the program became public. By the beginning of 2006, 
+the program was public and all the legal arguments for and against 
+warrantless wiretapping were subject to open debate. Clearly, any 
+companies that participated in this program in 2006 did so with the 
+full knowledge of the possible consequences. I see no reason at all why 
+retroactive immunity should cover this time period. When the Senate 
+Intelligence Committee voted to grant total retroactive immunity, I 
+voted no because I thought it was necessary to take more time to study 
+the relevant legal opinions as well as the letters that were sent to 
+the communications companies.
+  Now that I have had a chance to study these documents, I am convinced 
+that granting 6 years of total retroactive immunity is not warranted. I 
+would very much like to support this important legislation because 
+certainly there are many good provisions and they have been put 
+together under the work of Chairman Rockefeller and Senator Bond. It is 
+my hope, as Senator Reid noted earlier, we will be able to find a 
+compromise with respect to this issue. As I have said, it may well be 
+clear at some point down the road that the phone companies deserve some 
+measure of protection. We certainly want law-abiding citizens and 
+companies to be supportive of our country in times of danger, and that 
+is
+
+[[Page 34472]]
+
+why I have made the point that if we were talking about a relatively 
+short period after 9/11, it would be one thing, but it is quite another 
+when you are talking about year after year after year, when there were 
+red warning flags going up.
+  So I look forward to working with Chairman Rockefeller and Senator 
+Bond, both of whom have great expertise in this field and have always 
+been very fair, and I hope we can find a way to address the question of 
+the communications companies in a fair way.
+  I would also like to say, before I wrap up--I know it is late in the 
+day--a quick word about an amendment I offered in the committee that 
+has been included in both versions of the legislation that the Senate 
+Intelligence Committee wrote and that was written in the Judiciary 
+Committee. Many Americans may not realize the original FISA law only 
+provided protections for our people inside the United States and it 
+does not cover Americans who travel overseas. If the Government wants 
+to deliberately tap the phone calls of a businesswoman in Minneapolis, 
+MN, or an armed services member in Roseburg, OR, the Government has to 
+go to a judge and get a warrant. But if that Minnesota businesswoman or 
+Oregon serviceman is sent overseas, the Attorney General can personally 
+approve a surveillance by making his own unilateral determination of 
+probable cause.
+  It is my view that in the digital age, it makes no sense for 
+Americans' rights and freedoms to be limited by physical geography. So 
+when the Intelligence Committee was writing its legislation, I offered 
+an amendment that would require the Government to get a warrant before 
+deliberately surveilling Americans who happen to be outside the 
+country. That amendment establishing these ``rights that travel,'' so 
+to speak, was cosponsored by Senators Feingold and Whitehouse, and it 
+was approved in the Senate Intelligence Committee on a bipartisan vote. 
+The White House, regrettably, called this amendment troublesome, and I 
+will only say I am prepared to work with colleagues on this issue. Just 
+as I indicated I will be working with our Vice Chairman, Senator Bond, 
+on the issue of telecommunications immunity, I am prepared to work with 
+him and the chairman of the committee, Senator Rockefeller, on my 
+amendment to make sure there are no unintended consequences with 
+respect to the amendment I authored that is in the Intelligence 
+Committee legislation and that is also in the Judiciary Committee 
+print.
+  I am not prepared to agree that Americans who step outside the 
+country should have fewer rights than they do here at home. I am going 
+to fight for that amendment that ensures Americans in the digital age 
+have their individual liberties, have their constitutional rights 
+wherever they travel, and I am going to fight for it even if the 
+administration continues to oppose it.
+  I yield the floor, and I note the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The legislative clerk proceeded to call the roll.
+  Mr. REID. Madam President, I ask unanimous consent that the order for 
+the quorum call be rescinded.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+
+                             Cloture Motion
+
+  Mr. REID. Madam President, I now move to proceed to Calendar No. 512, 
+S. 2248, and I send a cloture motion to the desk.
+  The PRESIDING OFFICER. The cloture motion having been presented under 
+rule XXII, the Chair directs the clerk to read the motion.
+  The legislative clerk read as follows:
+
+                             Cloture Motion
+
+       We, the undersigned Senators, in accordance with the 
+     provisions of rule XXII of the Standing Rules of the Senate, 
+     do hereby move to bring to a close debate on the motion to 
+     proceed to S. 2248, FISA.
+         Harry Reid, Patrick Leahy, Ken Salazar, Daniel K. Inouye, 
+           Robert P. Casey, Jr., Frank R. Lautenberg, Debbie 
+           Stabenow, Richard J. Durbin, Tom Carper, John Kerry, E. 
+           Benjamin Nelson, Evan Bayh, Kent Conrad, Carl Levin, 
+           Mark Pryor, Charles Schumer, Jay Rockefeller, S. 
+           Whitehouse, Bill Nelson.
+
+  Mr. REID. Madam President, I ask unanimous consent that the mandatory 
+quorum be waived that is required under rule XXII and that the cloture 
+vote occur at 12 noon, Monday, December 17.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. REID. Madam President, I now withdraw the motion.
+  The PRESIDING OFFICER. The motion is withdrawn.
+
+                          ____________________
+```
