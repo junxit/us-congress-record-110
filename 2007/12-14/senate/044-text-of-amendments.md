@@ -1,0 +1,10038 @@
+---
+granule: CREC-2007-12-14-pt1-PgS15653-3
+date: 2007-12-14
+edition: CREC
+section: SENATE
+page: S15653
+citation: 153 Cong. Rec. S15653
+---
+
+# TEXT OF AMENDMENTS
+
+**Measures:** S. 2338, H.R. 2419, H.R. 3648
+
+```
+                           TEXT OF AMENDMENTS
+
+  SA 3853. Mr. SCHUMER (for Mr. Dodd (for himself and Mr. Shelby)) 
+proposed an amendment to the bill S. 2338, to modernize and update the 
+National Housing Act and enable the Federal Housing Administration to 
+more effectively reach underserved borrowers, and for other purposes; 
+as follows:
+
+       At the end of title I, insert the following:
+
+     SEC. 123. MORATORIUM ON IMPLEMENTATION OF RISK-BASED 
+                   PREMIUMS.
+
+       For the 12-month period beginning on the date of enactment 
+     of this Act, the Secretary of Housing and Urban Development 
+     shall not enact, execute, or take any action to make
+
+[[Page S15654]]
+
+     effective the planned implementation of risk-based premiums, 
+     which are designed for mortgage lenders to offer borrowers an 
+     FHA-insured product that provides a range of mortgage 
+     insurance premium pricing, based on the risk the insurance 
+     contract represents, as such planned implementation was set 
+     forth in the Notice published in the Federal Register on 
+     September 20, 2007 (Vol. 72, No. 182, Page 53872).
+                                 ______
+                                 
+  SA 3854. Mr. COBURN proposed an amendment to the bill S. 2338, to 
+modernize and update the National Housing Act and enable the Federal 
+Housing Administration to more effectively reach underserved borrowers, 
+and for other purposes; as follows:
+
+       On page 20, between lines 18 and 19, insert the following:
+       (e) Effective Date.--The amendment made by subsection 
+     (a)(2)(A) shall not take effect until the study and report 
+     required under subsection (d) has been submitted to Congress.
+                                 ______
+                                 
+  SA 3855. Mr. HARKIN (for himself and Mr. Chambliss) proposed an 
+amendment to amendment SA 3500 proposed by Mr. Harkin (for himself, Mr. 
+Chambliss, Mr. Baucus, and Mr. Grassley) to the bill H.R. 2419, to 
+provide for the continuation of agricultural programs through fiscal 
+year 2012, and for other purposes; as follows:
+
+       On page 884, line 16, strike ``or''.
+       On page 884, between lines 16 and 17, insert the following:
+       ``(6) competitive grants, for public television stations or 
+     a consortium of public television stations, to provide 
+     education, outreach, and assistance, in cooperation with 
+     community groups, to rural communities and vulnerable 
+     populations with respect to the digital television 
+     transition, and particularly the acquisition, delivery, and 
+     installation of the digital-to-analog converter boxes 
+     described in section 3005 of the Digital Television 
+     Transition and Public Safety Act of 2005 (47 U.S.C. 309 
+     note); or
+       On page 884, line 17, strike ``(6)'' and insert ``(7)''.
+       On page 652, between lines 14 and 15, insert the following:
+
+     SEC. 440_. SENSE OF CONGRESS REGARDING NUTRITION EDUCATION 
+                   UNDER THE FOOD AND NUTRITION PROGRAM.
+
+       (a) Findings.--Congress finds that--
+       (1) nutrition education under the Food and Nutrition Act of 
+     2007 (7 U.S.C. 2011 et seq.) plays an essential role in 
+     improving the dietary and physical activity practices of low-
+     income people in the United States, helping to reduce food 
+     insecurity, prevent obesity, and reduce the risks of chronic 
+     disease;
+       (2) expert organizations, such as the Institute of 
+     Medicine, indicate that dietary and physical activity 
+     behavior change is more likely to result from the combined 
+     application of public health approaches and education than 
+     from education alone; and
+       (3) State programs are implementing nutrition education 
+     using effective strategies, including direct education, group 
+     activities, and social marketing.
+       (b) Sense of Congress.--It is the sense of Congress that--
+       (1) the Secretary should support and encourage effective 
+     interventions for nutrition education under the Food and 
+     Nutrition Act of 2007 (7 U.S.C. 2011 et seq.), including 
+     coordination with public health approaches and traditional 
+     education, to increase the likelihood that recipients of food 
+     and nutrition program benefits and people who are potentially 
+     eligible for those benefits will choose diets and physical 
+     activity practices consistent with the Dietary Guidelines for 
+     Americans;
+       (2) to promote the most effective implementation of 
+     publicly-funded programs, State nutrition education 
+     activities under the Food and Nutrition Act of 2007 (7 U.S.C. 
+     2011 et seq.)--
+       (A) should be coordinated with other federally-funded food 
+     assistance and public health programs; and
+       (B) should leverage public/private partnerships to maximize 
+     the resources and impact of the programs; and
+       (3) funds provided under the Food and Nutrition Act of 2007 
+     (7 U.S.C. 2011 et seq.) for nutrition education should be 
+     used only for activities that promote diets and physical 
+     activity consistent with the Dietary Guidelines for Americans 
+     among--
+       (A) recipients of food and nutrition program benefits; and
+       (B) people who are potentially eligible for those benefits.
+       On page 626, line 7, insert ``(including childhood 
+     obesity)'' after ``obesity''.
+       In section 4802(c)(1)(B), strike ``and'' at the end.
+       In section 4802(c)(2), strike the period at the end and 
+     insert ``; and''.
+       In section 4802(c), add at the end the following:
+       (3) in subsection (g)--
+       (A) by striking ``If a local'' and inserting the following:
+       ``(1) In general.--If a local''; and
+       (B) by adding at the end the following:
+       ``(2) State option.--Subject to a determination by the 
+     Secretary that annual appropriations have enabled every State 
+     seeking to participate in the commodity supplemental food 
+     program to participate in that program, a State may serve 
+     low-income persons aged 60 and older that have a household 
+     income that is not more than 185 percent of the most recent 
+     annual Federal Poverty Income Guidelines published by the 
+     Department of Health and Human Services, if--
+       ``(A) the State has submitted to the Secretary 
+     justification for that service; and
+       ``(B) the Secretary has approved the request of the 
+     State.''.
+       Beginning on page 672, strike line 7 and all that follows 
+     through page 673, line 4, and insert the following:
+
+     SEC. 4904. BUY AMERICAN REQUIREMENTS.
+
+       (a) Findings.--Congress finds the following:
+       (1) Federal law requires that commodities and products 
+     purchased with Federal funds be, to the extent practicable, 
+     of domestic origin.
+       (2) Federal Buy American statutory requirements seek to 
+     ensure that purchases made with Federal funds benefit 
+     domestic producers.
+       (3) The Richard B. Russell National School Lunch Act (42 
+     U.S.C. 1751 et seq.) requires the use of domestic food 
+     products for all meals served under the program, including 
+     foods products for all meals served under the program, 
+     including foods products purchased with local funds.
+       (b) Buy American Statutory Requirements.--The Department of 
+     Agriculture should undertake training, guidance, and 
+     enforcement of the various current Buy American statutory 
+     requirements and regulations, including those of the Richard 
+     B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) 
+     and the Department of Defense fresh fruit and vegetable 
+     distribution program.
+       At the end of subtitle C of title III, add the following:
+
+     SEC. 32__. IMPORTATION OF LIVE DOGS.
+
+       (a) In General.--The Animal Welfare Act is amended by 
+     adding after section 17 (7 U.S.C. 2147) the following:
+
+     ``SEC. 18. IMPORTATION OF LIVE DOGS.
+
+       ``(a) Definitions.--In this section:
+       ``(1) Importer.--The term `importer' means any person who, 
+     for purposes of resale, transports into the United States 
+     puppies from a foreign country.
+       ``(2) Resale.--The term `resale' includes any transfer of 
+     ownership or control of an imported dog of less than 6 months 
+     of age to another person, for more than de minimis 
+     consideration.
+       ``(b) Requirements.--
+       ``(1) In general.--Except as provided in paragraph (2), no 
+     person shall import a dog into the United States for purposes 
+     of resale unless, as determined by the Secretary, the dog--
+       ``(A) is in good health;
+       ``(B) has received all necessary vaccinations; and
+       ``(C) is at least 6 months of age, if imported for resale.
+       ``(2) Exception.--The Secretary, by regulation, shall 
+     provide an exception to any requirement under paragraph (1) 
+     in any case in which a dog is imported for--
+       ``(A) research purposes; or
+       ``(B) veterinary treatment.
+       ``(c) Implementation and Regulations.--The Secretary, the 
+     Secretary of Health and Human Services, the Secretary of 
+     Commerce, and the Secretary of Homeland Security shall 
+     promulgate such regulations as the Secretaries determine to 
+     be necessary to implement and enforce this section.
+       ``(d) Enforcement.--An importer that fails to comply with 
+     this section shall--
+       ``(1) be subject to penalties under section 19; and
+       ``(2) provide for the care (including appropriate 
+     veterinary care), forfeiture, and adoption of each applicable 
+     dog, at the expense of the importer.''.
+       (b) Effective Date.--The amendment made by subsection (a) 
+     takes effect on the date of enactment of this Act.
+       On page 1290, strike lines 9 through 20 and insert the 
+     following:
+       ``(1) In general.--Effective beginning on the date of 
+     enactment of this subsection, there shall be in effect a 
+     moratorium on all loan acceleration and foreclosure 
+     proceedings instituted by the Department of Agriculture 
+     against any farmer or rancher who--
+       ``(A) has pending against the Department a claim of 
+     discrimination; or
+       ``(B) files a claim of discrimination against the 
+     Department.
+       On page 160, line 12, strike ``improve'' and insert 
+     ``further strengthen''.
+       On page 160, line 17, after ``sugar policies'' insert ``, 
+     to the fullest extent consistent with the international 
+     obligations of the United States''.
+       On page 160, lines 20 and 21, strike ``United States sugar 
+     market and the Mexican sugar market'' and insert ``United 
+     States and Mexican sweetener markets''.
+       On page 160, line 24, after ``Mexico'' insert ``, while 
+     supporting the interests of corn growers, corn refiners, and 
+     sweetener users in both markets''.
+       At the appropriate place in subtitle G of title I, insert 
+     the following:
+
+     SEC. 19__. MALTING BARLEY.
+
+       Section 508(m) of the Federal Crop Insurance Act (7 U.S.C. 
+     1508(m)) is amended by adding at the end the following:
+       ``(5) Special provisions for malting barley.--The 
+     Corporation shall promulgate special provisions under this 
+     subsection specific to malting barley, taking into 
+     consideration any changes in quality factors, as required by 
+     applicable market conditions.''.
+
+[[Page S15655]]
+
+                      Subtitle F--Specialty crops
+
+                               Subtitle F
+
+       Durbin amendment--strikes MAP preferences, agreed by 
+     Senator Stabenow and Specialty Crop Alliance
+
+     SECTION 1832. MARKET ACCESS PROGRAM.
+
+       Page 241, Strike lines 17-25.
+       Page 242, Strike lines 1-17.
+       Baucus-Stabenow amendment--removes language under the 
+     jurisdiction of the Senate Finance Committee
+
+     SECTION 1834. CONSULTATIONS ON SANITARY AND PHYTOSANITARY 
+                   RESTRICTIONS FOR FRUITS AND VEGETABLES.
+
+       On page 244, strike lines 15-26.
+       On page 245, strike lines 1-16.
+       On page 1129, strike lines 16 through 22 and insert the 
+     following:
+       ``(1) Commodity credit corporation.--Of the funds of the 
+     Commodity Credit Corporation, the Secretary shall make 
+     available $230,000,000 to carry out subsections (b), (c), and 
+     (d) for fiscal year 2008, to remain available until expended, 
+     of which--
+       ``(A) not less than 5 percent shall be used to carry out 
+     subsection (b); and
+       ``(B) not less than 15 percent shall be used to carry out 
+     subsection (d).''.
+       At the end of subtitle F of title VII, add the following:
+
+     SEC. 7___. SENSE OF SENATE REGARDING ORGANIC RESEARCH.
+
+       It is the sense of the Senate that--
+       (1) the Secretary should recognize that sales of certified 
+     organic products have been expanding by 17 to 20 percent per 
+     year for more than a decade, but research and outreach 
+     activities relating specifically to certified organic 
+     production growth and processing of agricultural products (as 
+     defined in section 2103 of the Organic Foods Production Act 
+     of 1990 (7 U.S.C. 6502)) has not kept pace with this 
+     expansion;
+       (2) research conducted specifically on organic methods and 
+     production systems benefits organic and conventional 
+     producers and contributes to the strategic goals of the 
+     Department of Agriculture, resulting in benefits for trade, 
+     human health, the environment, and overall agricultural 
+     productivity;
+       (3) in order to meet the needs of the growing organic 
+     sector, the Secretary should use a portion of the total 
+     annual funds of the Agricultural Research Service for 
+     research specific to organic food and agricultural systems 
+     that is at least commensurate with the market share of the 
+     organic sector of the domestic food retail market; and
+       (4) the increase in funding described in paragraph (3) 
+     should include funding for efforts--
+       (A) to establish long-term core capacities for organic 
+     research;
+       (B) to assist organic farmers and farmers intending to 
+     transition to organic production systems; and
+       (C) to disseminate research results through the Alternative 
+     Farming Systems Information Center of the National 
+     Agriculture Library.
+       Strike subtitle A of title XI and insert the following:
+
+                   Subtitle A--Agricultural Security
+
+     SEC. 11011. DEFINITIONS.
+
+       In this subtitle:
+       (1) Agent.--The term ``agent'' means a chemical, 
+     biological, radiological, or nuclear substance that causes an 
+     agricultural disease or adulteration of food products under 
+     the jurisdiction of the Department.
+       (2) Agricultural biosecurity.--The term ``agricultural 
+     biosecurity'' means protection from an agent that poses a 
+     threat to--
+       (A) plant or animal health;
+       (B) public health, with respect to direct exposure to an 
+     agricultural disease; or
+       (C) the environment, with respect to agriculture 
+     facilities, farmland, air, and water in the immediate 
+     vicinity of an area associated with an agricultural disease 
+     or outbreak.
+       (3) Agricultural countermeasure.--
+       (A) In general.--The term ``agricultural countermeasure'' 
+     means a product, practice, or technology that is intended to 
+     enhance or maintain the agricultural biosecurity of the 
+     United States.
+       (B) Exclusions.--The term ``agricultural countermeasure'' 
+     does not include any product, practice, or technology used 
+     solely for human medical incidents or public health 
+     emergencies not related to agriculture.
+       (4) Agricultural disease.--The term ``agricultural 
+     disease'' has the meaning given the term by the Secretary.
+       (5) Agriculture.--The term ``agriculture'' means--
+       (A) the science and practice of activities relating to 
+     food, feed, fiber, and energy production, processing, 
+     marketing, distribution, use, and trade;
+       (B) nutrition, food science and engineering, and 
+     agricultural economics;
+       (C) forestry, wildlife science, fishery science, 
+     aquaculture, floriculture, veterinary medicine, and other 
+     related natural resource sciences; and
+       (D) research and development activities relating to plant- 
+     and animal-based products carried out by the Department.
+       (6) Agroterrorist act.--The term ``agroterrorist act'' 
+     means an act that--
+       (A) causes or attempts to cause--
+       (i) damage to agriculture; or
+       (ii) injury to a person associated with agriculture; and
+       (B) is committed--
+       (i) to intimidate or coerce; or
+       (ii) to disrupt the agricultural industry.
+       (7) Animal.--The term ``animal'' means any member of the 
+     animal kingdom (except a human).
+       (8) Department.--The term ``Department'' means the 
+     Department of Agriculture.
+       (9) Development.--The term ``development'' means--
+       (A) research leading to the identification of products or 
+     technologies intended for use as agricultural 
+     countermeasures;
+       (B) the formulation, production, and subsequent 
+     modification of those products or technologies;
+       (C) the conduct of preclinical and clinical in vivo and in 
+     vitro studies;
+       (D) the conduct of field, efficacy, and safety studies;
+       (E) the preparation of an application for marketing 
+     approval for submission to applicable agencies; and
+       (F) other actions taken by an applicable agency in a case 
+     in which an agricultural countermeasure is procured or used 
+     prior to issuance of a license or other form of approval.
+       (10) Plant.--
+       (A) In general.--The term ``plant'' means any plant 
+     (including any plant part) for or capable of propagation.
+       (B) Inclusions.--The term ``plant'' includes--
+       (i) a tree;
+       (ii) a tissue culture;
+       (iii) a plantlet culture;
+       (iv) pollen;
+       (v) a shrub;
+       (vi) a vine;
+       (vii) a cutting;
+       (viii) a graft;
+       (ix) a scion;
+       (x) a bud;
+       (xi) a bulb;
+       (xii) a root; and
+       (xiii) a seed.
+       (11) Qualified agricultural countermeasure.--The term 
+     ``qualified agricultural countermeasure'' means an 
+     agricultural countermeasure that the Secretary, in 
+     consultation with the Secretary of Homeland Security, 
+     determines to be a priority in order to address an 
+     agricultural biosecurity threat from--
+       (A) an agent placed on the Select Agents and Toxins list of 
+     the Department;
+       (B) an agent placed on the Plant Protection and Quarantine 
+     Select Agents and Toxins list of the Department; or
+       (C) an applicable agent placed on the Overlap Select Agents 
+     and Toxins list of the Department and the Department of 
+     Health and Human Services, in accordance with--
+       (i) part 331 of title 7, Code of Federal Regulations; and
+       (ii) part 121 of title 9, Code of Federal Regulations.
+
+     SEC. 11012. NATIONAL PLANT DISEASE RECOVERY SYSTEM AND 
+                   NATIONAL VETERINARY STOCKPILE.
+
+       (a) National Plant Disease Recovery System.--
+       (1) Establishment.--The Secretary, in coordination with the 
+     Secretary of Homeland Security, and in consultation with the 
+     Administrator of the Environmental Protection Agency, shall 
+     work with State and local governments and the private sector 
+     to establish a national plant disease recovery system to be 
+     used to respond to an outbreak of plant disease that poses a 
+     significant threat to agricultural biosecurity.
+       (2) Requirements.--The national plant disease recovery 
+     system shall include agricultural countermeasures to be made 
+     available within a single growing season for crops of 
+     particular economic significance, as determined by the 
+     Secretary, in coordination with the Secretary of Homeland 
+     Security.
+       (b) National Veterinary Stockpile.--The Secretary, in 
+     coordination with the Secretary of Homeland Security, and in 
+     consultation with the Secretary of Health and Human Services 
+     and the Administrator of the Environmental Protection Agency, 
+     shall work with State and local governments and the private 
+     sector to establish a national veterinary stockpile, which 
+     shall be used by the Secretary, in coordination with the 
+     Secretary of Homeland Security to make agricultural 
+     countermeasures available to any State veterinarian not later 
+     than 24 hours after submission of an official request for 
+     assistance by the State veterinarian, unless the Secretary 
+     and the Secretary of Homeland Security cannot accommodate 
+     such a request due to an emergency, lack of available 
+     resources, or other reason for disapproval of the request as 
+     determined the Secretary.
+
+     SEC. 11013. RESEARCH AND DEVELOPMENT OF AGRICULTURAL 
+                   COUNTERMEASURES.
+
+       (a) Grant Program.--
+       (1) In general.--The Secretary shall establish a grant 
+     program to stimulate basic and applied research and 
+     development activity for qualified agricultural 
+     countermeasures.
+       (2) Competitive grants.--In carrying out this section, the 
+     Secretary shall develop a process through which to award 
+     grants on a competitive basis.
+       (3) Waiver in emergencies.--The Secretary may waive the 
+     requirement in paragraph (2), if--
+       (A) the Secretary has declared a plant or animal disease 
+     emergency under the Plant Protection Act (7 U.S.C. 7701 et 
+     seq.) or the Animal Health Protection Act (7 U.S.C. 8301 et 
+     seq.); and
+       (B) the waiver would lead to the rapid development of a 
+     qualified agricultural countermeasure, as determined by the 
+     Secretary.
+       (b) Use of Foreign Disease Permissible.--The Secretary may 
+     permit the use of foreign animal and plant disease agents, 
+     and accompanying data, in research and development
+
+[[Page S15656]]
+
+     activities funded under this section if the Secretary 
+     determines that the diseases or data are necessary to 
+     demonstrate the safety and efficacy of an agricultural 
+     countermeasure in development.
+       (c) Coordination on Advanced Development.--The Secretary 
+     shall ensure that the Secretary of Homeland Security is 
+     provided information, on a quarterly basis, describing each 
+     grant provided by the Secretary for the purpose of 
+     facilitating the acceleration and expansion of the advanced 
+     development of agricultural countermeasures.
+       (d) Scope.--Nothing in this section impedes the ability of 
+     the Secretary of Homeland Security to administer grants for 
+     basic and applied research and advanced development 
+     activities for qualified agricultural countermeasures.
+       (e) Authorization of Appropriations.--There is authorized 
+     to be appropriated to carry out this section $50,000,000 for 
+     each of fiscal years 2008 through 2012.
+
+     SEC. 11014. VETERINARY WORKFORCE GRANT PROGRAM.
+
+       (a) In General.--The Secretary shall establish a grant 
+     program to increase the number of veterinarians trained in 
+     agricultural biosecurity.
+       (b) Considerations for Funding Awarded.--The Secretary 
+     shall establish procedures to ensure that grants are 
+     competitively awarded under the program based on--
+       (1) the ability of an applicant to increase the number of 
+     veterinarians who are trained in agricultural biosecurity 
+     practice areas determined by the Secretary;
+       (2) the ability of an applicant to increase research 
+     capacity in areas of agricultural biosecurity determined by 
+     the Secretary to be a priority; or
+       (3) any other consideration the Secretary determines to be 
+     appropriate.
+       (c) Use of Funds.--Amounts received under this section may 
+     be used by a grantee to pay--
+       (1) costs associated with construction and the acquisition 
+     of equipment, and other capital costs relating to the 
+     expansion of schools of veterinary medicine, departments of 
+     comparative medicine, departments of veterinary science, or 
+     entities offering residency training programs; or
+       (2) capital costs associated with the expansion of academic 
+     programs that offer postgraduate training for veterinarians 
+     or concurrent training for veterinary students in specific 
+     areas of specialization.
+       (d) Authorization of Appropriations.--There are authorized 
+     to be appropriated to the Secretary such sums as are 
+     necessary to carry out this section for each of fiscal years 
+     2008 through 2012.
+
+     SEC. 11015. ASSISTANCE TO BUILD LOCAL CAPACITY IN 
+                   AGRICULTURAL BIOSECURITY PLANNING, 
+                   PREPAREDNESS, AND RESPONSE.
+
+       (a) Advanced Training Programs.--
+       (1) Grant assistance.--The Secretary shall provide grant 
+     assistance to support the development and expansion of 
+     advanced training programs in agricultural biosecurity 
+     planning and response for food science professionals and 
+     veterinarians.
+       (2) Authorization of appropriations.--There are authorized 
+     to be appropriated to the Secretary such sums as are 
+     necessary to carry out this subsection for each of fiscal 
+     years 2008 through 2012.
+       (b) Assessment of Response Capability.--
+       (1) Grant and loan assistance.--The Secretary shall provide 
+     grant and low-interest loan assistance to States for use in 
+     assessing agricultural disease response and food emergency 
+     response capabilities.
+       (2) Authorization of appropriations.--There is authorized 
+     to be appropriated to carry out this subsection $25,000,000 
+     for each of fiscal years 2008 through 2012.
+
+     SEC. 11016. LIVE VIRUS OF FOOT AND MOUTH DISEASE RESEARCH.
+
+       (a) In General.--The Secretary shall issue a permit 
+     required under section 12 of the Act of May 29, 1884 (21 
+     U.S.C. 113a) to the Secretary of Homeland Security for work 
+     on the live virus of foot and mouth disease at the National 
+     Bio and Agro-Defense Laboratory (referred to in this section 
+     as the ``NBAF'').
+       (b) Limitation.--The permit shall be valid unless the 
+     Secretary finds that the study of live foot and mouth disease 
+     virus at the NBAF is not being carried out in accordance with 
+     the regulations issued by the Secretary pursuant to the 
+     Agricultural Bioterrorism Protection Act of 2002 (7 U.S.C. 
+     8401 et seq.).
+       (c) Authority.--The suspension, revocation, or other 
+     impairment of the permit issued under this section--
+       (1) shall be made by the Secretary; and
+       (2) is a nondelegable function.
+       On page 1313, line 12, strike ``are'' and insert 
+     ``include''.
+       On page 1014, line 9, insert ``(after taking into 
+     consideration recommendations made by the National Academy of 
+     Sciences)'' after ``President''.
+       On page 895, lines 12 and 13, strike ``subsection (e)'' and 
+     insert ``subsection (g)''.
+       On page 895, strike lines 16 through 19 and insert the 
+     following:
+       ``(d) Initial Implementation.--To address the urgent 
+     security concerns of the United States with respect to public 
+     health, bioterrorism preparedness, and food supply security, 
+     in implementing the first phase of the veterinary medicine 
+     loan repayment program, the Secretary shall give priority to 
+     large and mixed animal practitioner shortages in rural 
+     communities.
+       ``(e) Use of Funds.--None of the funds appropriated to the 
+     Secretary under subsection (g) may be used to carry out 
+     section 5379 of title 5, United States Code.
+       ``(f) Regulations.--Notwithstanding subchapter II of 
+     chapter 5 of title 5, United States Code, not later than 270 
+     days after the date of enactment of this subsection, the 
+     Secretary shall promulgate regulations to carry out this 
+     section.''.
+       On page 921, line 3, insert ``and tribal'' after ``State''.
+       On page 1138, strike lines 1 through 5 and insert the 
+     following:
+       ``(xi) an individual with expertise in plant biology and 
+     biomass feedstock development;
+       ``(xii) an individual with expertise in agronomy, crop 
+     science, or soil science; and
+       ``(xiii) at the option of the points of contact, other 
+     members.
+       On page 1154, line 1, insert ``the State of Hawaii,'' after 
+     ``Alaska,''.
+       Strike section 6018.
+       Beginning on page 738, strike line 6 and all that follows 
+     through page 741, line 21, and insert the following:
+
+     ``SEC. 7.7. EQUALIZATION OF LOAN-MAKING POWERS OF CERTAIN 
+                   DISTRICT ASSOCIATIONS.
+
+       ``(a) Equalization of Loan-Making Powers.--
+       ``(1) In general.--
+       ``(A) Federal land bank associations.--Subject to paragraph 
+     (2), any association that owns a Federal land bank 
+     association authorized as of January 1, 2007, to make long-
+     term loans under title I in its chartered territory within 
+     the geographic area described in subsection (b) may make 
+     short- and intermediate-term loans and otherwise operate as a 
+     production credit association under title II within that same 
+     chartered territory.
+       ``(B) Production credit associations.--Subject to paragraph 
+     (2), any association that under its charter has title I 
+     lending authority and that owns a production credit 
+     association authorized as of January 1, 2007, to make short- 
+     and intermediate-term loans under title II in the geographic 
+     area described in subsection (b) may make long-term loans and 
+     otherwise operate, directly or through a subsidiary 
+     association, as a Federal land bank association or Federal 
+     land credit association under title I in the geographic area.
+       ``(C) Farm credit bank.--Notwithstanding section 5.17(a), 
+     the Farm Credit Bank with which any association had a written 
+     financing agreement as of January 1, 2007, may make loans and 
+     extend other similar financial assistance with respect to, 
+     and may purchase, any loans made under the new authority 
+     provided under subparagraph (A) or (B) by an association 
+     exercising such authority.
+       ``(2) Required approvals.--An association may exercise the 
+     additional authority provided for in paragraph (1) only after 
+     the exercise of the authority is approved by--
+       ``(A) the board of directors of the association; and
+       ``(B) a majority of the voting stockholders of the 
+     association (or, if the association is a subsidiary of 
+     another association, the voting stockholders of the parent 
+     association) voting, in person or by proxy, at a duly 
+     authorized meeting of stockholders in accordance with the 
+     process described in section 7.11.
+       ``(b) Applicability.--This section applies only to 
+     associations the chartered territory of which was within the 
+     geographic area served by the Federal intermediate credit 
+     bank immediately prior to its merger with a Farm Credit Bank 
+     under section 410(e)(1) of the Agricultural Credit Act of 
+     1987 (12 U.S.C. 2011 note; Public Law 100-233).''.
+       (c) Charter Amendments.--Section 5.17(a) of the Farm Credit 
+     Act of 1971 (12 U.S.C. 2252(a)) is amended by adding at the 
+     end the following:
+       ``(15)(A) Approve amendments to the charters of 
+     institutions of the Farm Credit System to implement the 
+     equalization of loan-making powers of a Farm Credit System 
+     association under section 7.7.
+       ``(B) Amendments described in subparagraph (A) to the 
+     charters of an association and the related Farm Credit Bank 
+     shall be approved by the Farm Credit Administration, subject 
+     to any conditions of approval imposed, by not later than 30 
+     days after the date on which the Farm Credit Administration 
+     receives all approvals required by section 7.7 (a)(2).''.
+       (d) Conforming Amendments.--
+       (1) Section 5.17(a)(2) of the Farm Credit Act of 1971 (12 
+     U.S.C. 2252(a)(2)) is amended--
+       (A) by striking ``(2)(A)'' and inserting ``(2)''; and
+       (B) by striking subparagraphs (B) and (C).
+       (2) Section 410 of the 1987 act.--Section 410(e)(1)(A)(iii) 
+     of the Agricultural Credit Act of 1987 (12 U.S.C. 2011 note; 
+     Public Law 100-233) is amended by inserting ``(except section 
+     7.7 of that Act)'' after ``(12 U.S.C. 2001 et seq.)''.
+       (3) Section 401 of the 1992 act.--Section 401(b) of the 
+     Farm Credit Banks and Associations Safety and Soundness Act 
+     of 1992 (12 U.S.C. 2011 note; Public Law 102-552) is 
+     amended--
+       (A) by inserting ``(except section 7.7 of the Farm Credit 
+     Act of 1971)'' after ``provision of law''; and
+       (B) by striking ``, subject to such limitations'' and all 
+     that follows through the end of the paragraph and inserting a 
+     period.
+       (e) Effective Date.--The amendments made by this section 
+     take effect on January 1, 2010.
+       Section 9001(3)(B) of the Farm Security and Rural 
+     Investment Act of 2002 (as amended by section 9001) is 
+     amended by striking clause (iii) and inserting the following:
+       ``(iii) biofuel derived from waste material, including crop 
+     residue, other vegetative
+
+[[Page S15657]]
+
+     waste material, animal waste and byproducts (including fats, 
+     oils, greases, and manure), food waste, and yard waste;
+       Beginning on page 1176, strike line 24 and all that follows 
+     through page 1177, line 2, and insert the following:
+       ``(5) water resource needs, including water requirements 
+     for biorefineries;
+       ``(6) education and outreach for agricultural producers 
+     transitioning to cellulosic feedstocks; and
+       ``(7) such other infrastructure issues as the Secretary may 
+     determine.''.
+       On page 1177, strike lines 18 through 21 and insert the 
+     following:
+       ``(5) the resource use and conservation characteristics of 
+     alternative approaches to infrastructure development;
+       ``(6) the impact on the development of renewable energy 
+     when public and private utilities do not pay competitive 
+     rates for wind, solar, and biogas energy from agricultural 
+     sources; and
+       ``(7) the environmental benefits of planting perennial 
+     grasses for the production of cellulosic ethanol.''.
+       On page 1176, strike lines 18 and 19 and insert the 
+     following:
+     ture issues, including shipment by rail, truck, pipeline, or 
+     barge;
+       On page 1055, strike lines 6 through 8 and insert the 
+     following:
+       ``(A) incorporates any forest management plan of the State 
+     in existence on the date of enactment of this section 
+     (including community wildfire protection plans);
+       At the end of title VIII, insert the following:
+
+     SEC. 8___. GREEN MOUNTAIN NATIONAL FOREST BOUNDARY 
+                   ADJUSTMENT.
+
+       (a) In General.--The boundary of the Green Mountain 
+     National Forest is modified to include the 12 designated 
+     expansion units as generally depicted on the forest maps 
+     entitled ``Green Mountain Expansion Area Map I'' and ``Green 
+     Mountain Expansion Area Map II'' and dated February 20, 2002 
+     (copies of which shall be on file and available for public 
+     inspection in the Office of the Chief of the Forest Service, 
+     Washington, District of Columbia), and more particularly 
+     described according to the site specific maps and legal 
+     descriptions on file in the office of the Forest Supervisor, 
+     Green Mountain National Forest.
+       (b) Management.--Federally owned land delineated on the 
+     maps acquired for National Forest purposes shall continue to 
+     be managed in accordance with the laws (including 
+     regulations) applicable to the National Forest System.
+       (c) Land and Water Conservation Fund.--For the purposes of 
+     section 7 of the Land and Water Conservation Fund Act of 1965 
+     (16 U.S.C. 460 l-9), the boundaries of the Green Mountain 
+     National Forest, as adjusted by this section, shall be 
+     considered to be the boundaries of the national forest as of 
+     January 1, 1965.
+       Beginning on page 175, strike line 14 and all that follows 
+     through page 176, line 21, and insert the following:
+       (1) ensuring that the competitiveness of dairy products 
+     with other competing products in the marketplace is preserved 
+     and enhanced;
+       (2) ensuring that dairy producers receive fair and 
+     reasonable minimum prices;
+       (3) enhancing the competitiveness of United States dairy 
+     producers in world markets;
+       (4) preventing anticompetitive behavior and ensuring that 
+     dairy markets are not prone to manipulation;
+       (5) increasing the responsiveness of the Federal milk 
+     marketing order system to market forces;
+       (6) streamlining and expediting the process by which 
+     amendments to Federal milk market orders are adopted;
+       (7) simplifying the Federal milk marketing order system;
+       (8) evaluating whether the Federal milk marketing order 
+     system, established during the Great Depression, continues to 
+     serve the interests of the public, dairy processors, and 
+     dairy producers;
+       (9) evaluating whether Federal milk marketing orders are 
+     operating in a manner to minimize costs to taxpayers and 
+     consumers, while still maintaining a fair price for 
+     producers;
+       (10) evaluating the nutritional composition of milk, 
+     including the potential benefits and costs of adjusting the 
+     milk content standards;
+       (11) evaluating the economic benefits to milk producers of 
+     establishing a 2-class system of classifying milk consisting 
+     of a fluid milk class and a manufacturing grade milk class, 
+     with the price of both classes determined using the component 
+     prices of butterfat, protein, and other solids; and
+       (12) evaluating a change in advance pricing that is used to 
+     calculate the advance price of Class II skim milk under 
+     Federal milk marketing orders using the 4-week component 
+     prices that are used to calculate prices for Class III and 
+     Class IV milk.
+       In section 1608(d), strike paragraph (2) and insert the 
+     following:
+       (2) Members.--As soon as practicable after the date on 
+     which funds are first made available to carry out this 
+     section--
+       (A) 2 members of the Commission shall be appointed by the 
+     Chairman of the Committee on Agriculture of the House of 
+     Representatives, in consultation with the ranking member of 
+     that committee;
+       (B) 2 members of the Commission shall be appointed by the 
+     Chairman of the Committee on Agriculture, Nutrition, and 
+     Forestry of the Senate, in consultation with the ranking 
+     member of that committee;
+       (C) 10 members of the Commission shall be appointed by the 
+     Secretary;
+       (D) 2 members of the Commission shall be appointed by the 
+     Chairman of the Subcommittee on Agriculture, Rural 
+     Development, Food and Drug Administration, and Related 
+     Agencies of the House of Representatives, in consultation 
+     with the ranking member of that subcommittee; and
+       (E) 2 members of the Commission shall be appointed by the 
+     Chairman of the Subcommittee on Agriculture, Rural 
+     Development, Food and Drug Administration, and Related 
+     Agencies of the Senate, in consultation with the ranking 
+     member of that subcommittee.
+       On page 750, line 21, insert before the period at the end 
+     the following: ``, of which not less than $25,000,000 shall 
+     be for use at hospitals in rural areas with not more than 50 
+     acute beds''.
+       On page 579, between lines 5 and 6, insert the following:
+       (9) in subsection (i), by adding at the end the following:
+       ``(12) Interchange fees.--No interchange fees shall apply 
+     to electronic benefit transfer transactions under this 
+     subsection.'';
+       On page 692, between lines 17 and 18, insert the following:
+
+     SEC. 4909. GRAIN PILOT PROGRAM.
+
+       (a) In General.--Section 17A of the Richard B. Russell 
+     National School Lunch Act (42 U.S.C. 1766a) is amended by 
+     adding at the end the following:
+       ``(e) Grain Pilot Program.--
+       ``(1) Definition of eligible grain and grain product.--In 
+     this subsection, the terms `eligible grain' and `grain 
+     product' mean a grain or bread product, including but not 
+     limited to, baked products and ready-to-eat cereals, having 
+     whole grain as the primary ingredient by weight as specified 
+     on the label or according to the recipe; except that the 
+     Secretary may review and update as necessary the definition 
+     established under this section.''
+       ``(2) Program.--
+       ``(A) In general.--For the school year beginning July 2008, 
+     the Secretary shall carry out a pilot program to provide 
+     eligible grain and grain products to--
+       ``(i) up to 125 elementary or secondary schools operating a 
+     program under this section in each of 6 States; and
+       ``(ii) elementary or secondary schools operating a program 
+     under this section on 1 Indian reservation.
+       ``(B) Requirement.--A school participating in the program 
+     shall provide eligible grain and grain products as one of the 
+     meal supplement components as described in subsection (d) to 
+     students participating in a program authorized under this 
+     section.
+       ``(C) Funding to states.--The Secretary shall allocate 
+     funds to each participating State based on the prior year 
+     claiming pattern for the afterschool snack program in 
+     selected schools.
+       ``(3) Selection of schools.--In selecting schools to 
+     participate in the program under paragraph (2), the Secretary 
+     shall--
+       ``(A) ensure each school selected is located in a needy 
+     area as defined in subsection (c)(1); and
+       ``(B) solicit applications from interested schools that 
+     meet the criteria established in subparagraph (A) and 
+     include--
+       ``(i) a certification of support for participation in the 
+     program signed by the school food manager, the school 
+     principal, and the district superintendent (or equivalent 
+     positions, as determined by the school); and
+       ``(ii) such other information as may be requested by the 
+     Secretary.
+       ``(4) Report.--Not later than December 31, 2010, the 
+     Secretary, acting through the Administrator of the Food and 
+     Nutrition Service, shall submit to the Committee on Education 
+     and Labor of the House of Representatives and the Committee 
+     on Agriculture, Nutrition, and Forestry of the Senate a 
+     report that describes the results of the pilot program.
+       ``(5) Funding.--The Secretary shall use not more than 
+     $4,000,000 to carry out this subsection (other than paragraph 
+     (4)), of which--
+       ``(A) $2,000,000 shall be from funds made available to 
+     carry out the senior farmers' market nutrition program under 
+     section 4402 of the Farm Security and Rural Investment Act of 
+     2002 (7 U.S.C. 3007); and
+       ``(B) $2,000,000 shall be from funds made available to 
+     carry out assistance for community food projects under 
+     section 25 of the Food and Nutrition Act of 2007 (7 U.S.C. 
+     2034).
+       ``(6) Evaluation and administration.--Of the funding made 
+     available the Secretary shall use not more than $3,000,000 to 
+     carry out the evaluation required in paragraph (4) and for 
+     the administration of the program.''.
+       (b) Effective Date.--The amendment made by this section 
+     shall take effect on the date of enactment of this Act.
+       On page 576, strike lines 13 through 17 and insert the 
+     following:
+       (2) in subsection (b)--
+       (A) by striking ``(b) Coupons'' and inserting the 
+     following:
+       ``(b) Use.--
+       ``(1) In general.--Benefits'';
+       (B) in paragraph (1) (as designated by subparagraph (A)), 
+     by striking the second proviso; and
+       (C) by adding at the end the following:
+       ``(2) Study.--As soon as practicable after the date of 
+     enactment of this paragraph, the
+
+[[Page S15658]]
+
+     Comptroller General of the United States shall conduct a 
+     study of the effects of the Secretary issuing a rule 
+     requiring that benefits shall only be used to purchase food 
+     that is included in the most recent applicable thrifty food 
+     plan market basket.'';
+       On page 245, between lines 22 and 23, insert the following:
+       (b) Eligibility.--Section 101 of the Specialty Crops 
+     Competitiveness Act of 2004 (7 U.S.C. 1621 note; Public Law 
+     108-465) is amended by striking subsection (e) and inserting 
+     the following:
+       ``(e) Plan Requirements.--
+       ``(1) In general.--The State plan shall identify the lead 
+     agency charged with the responsibility for carrying out the 
+     plan and indicate how the grant funds will be used to enhance 
+     the competitiveness of specialty crops.
+       ``(2) Representation of certain individuals.--To the 
+     maximum extent practicable and appropriate, the State plan 
+     shall be developed taking into consideration the opinions and 
+     expertise of beginning farmers or ranchers (as defined in 
+     section 343(a) of the Consolidated Farm and Rural Development 
+     Act (7 U.S.C. 1991(a)) and socially disadvantaged farmers or 
+     ranchers (as defined in section 355(e) of the Consolidated 
+     Farm and Rural Development Act (7 U.S.C. 2003(e))) who 
+     produce specialty crops.''.
+       (c) Audit and Plan Requirements.--Section 101 of the 
+     Specialty Crops Competitiveness Act of 2004 (7 U.S.C. 1621 
+     note; Public Law 108-465) is amended by striking subsection 
+     (h) and inserting the following:
+       ``(h) Audit and Plan Requirements.--
+       ``(1) In general.--For each year that a State receives a 
+     grant under this section, the State shall conduct an audit of 
+     the expenditures of grant funds by the State.
+       ``(2) Submission of audit and description.--Not later than 
+     30 days after the date of completion of an audit under 
+     paragraph (1), the State shall submit to the Secretary of 
+     Agriculture--
+       ``(A) a copy of the audit;
+       ``(B) a description of the ways in which the State is 
+     complying with the requirement under subsection (e); and
+       ``(C) such additional information as the Secretary may 
+     request to ensure, to the maximum extent practicable, that 
+     the State is complying with that requirement.''.
+       On page 245, line 23, strike ``(b)'' and insert ``(d)''.
+       On page 246, line 11, strike ``(c)'' and insert ``(e)''.
+       On page 247, line 11, strike ``(d)'' and insert ``(f)''.
+       On page 247, line 19, strike ``(e)'' and insert ``(g)''.
+       Beginning on page 248, strike line 24 and all that follows 
+     through page 249, line 2, and insert the following:
+       ``(4) a nonprofit trucking association and their research 
+     entities;
+       ``(5) a combination of the entities described in paragraphs 
+     (1) through (4); or
+       ``(6) other entities, as determined by the Secretary
+       At the end of title IX, add the following:
+
+     SEC. 9___. SENSE OF CONGRESS REGARDING COOPERATIVE REGIONAL 
+                   RESEARCH, EXTENSION, AND EDUCATION PROGRAMS ON 
+                   BIOFUELS AND BIOPRODUCTS.
+
+       It is the sense of Congress that the Secretary shall 
+     continue to allow and support efforts of regional consortiums 
+     of public institutions, including land grant universities and 
+     State departments of agriculture, to jointly support the 
+     bioeconomy through research, extension, and education 
+     activities, including--
+       (1) expanding the use of biomass;
+       (2) improving the efficiency and sustainability of 
+     bioenergy;
+       (3) supporting local ownership in the bioeconomy;
+       (4) communicating about the bioeconomy;
+       (5) facilitating information sharing; and
+       (6) assisting to coordinate regional approaches.
+       On page 1171, strike line 13 and insert the following:
+       ``(2) in consultation with the Secretary of Energy and the 
+     Secretary of Transportation, as appropriate, establish 
+     criteria for program participation
+       On page 1172, line 2, strike ``Secretary of Energy'' and 
+     insert ``Secretary of Energy and the Secretary of 
+     Transportation''.
+       Beginning on page 1172, strike line 20 and all that follows 
+     through page 1173, line 2, and insert the following:
+       ``(g) Report.--Not later than December 31, 2011, and 
+     biennially thereafter, the Secretary shall submit to the 
+     Committee on Agriculture of the House of Representatives and 
+     the Committee on Agriculture, Nutrition, and Forestry, the 
+     Committee on Commerce, Science, and Transportation, and the 
+     Committee on Energy and Natural Resources of the Senate a 
+     report that documents the best practices and approaches used 
+     by communities in rural areas that receive funds under this 
+     section.
+       On page 1176, strike lines 12 through 14 and insert the 
+     following:
+       ``(3) submit a report describing the assessment and 
+     recommendations to--
+       ``(A) the Committee on Agriculture, Nutrition, and Forestry 
+     of the Senate;
+       ``(B) the Committee on Commerce, Science, and 
+     Transportation of the Senate;
+       ``(C) the Committee on Energy and Natural Resources of the 
+     Senate; and
+       ``(D) the Committee on Environment and Public Works of the 
+     Senate.
+       On page 1179, strike line 5 and insert the following:
+     estry and the Committee on Commerce, Science, and 
+     Transportation of the Senate a report that summarizes the re-
+       On page 1180, strike line 14 and insert the following:
+     structure, safety, and security;
+       On page 1192, strike line 13 and insert the following:
+
+     ``SEC. 9023. REPORT ON THE GROWTH POTENTIAL FOR CELLULOSIC 
+                   MATERIAL.
+
+       ``Not later than 18 months after the date of enactment of 
+     this Act, the Secretary shall submit to the Committee on 
+     Agriculture of the House of Representatives and the Committee 
+     on Agriculture, Nutrition, and Forestry of the Senate a 
+     comprehensive report that, on a State-by-State basis--
+       ``(1) identifies the range of cellulosic feedstock 
+     materials that can be grown and are viable candidates for 
+     renewable fuel production;
+       ``(2) estimates the acreage available for growing the 
+     cellulosic feedstock materials identified under paragraph 
+     (1);
+       ``(3) estimates the quantity of available energy per acre 
+     for each cellulosic feedstock material identified under 
+     paragraph (1);
+       ``(4) calculates the development potential for growing 
+     cellulosic feedstock materials, based on--
+       ``(A) the range of cellulosic materials available for 
+     growth;
+       ``(B) soil quality;
+       ``(C) climate variables;
+       ``(D) the quality and availability of water;
+       ``(E) agriculture systems that are in place as of the date 
+     of enactment of this Act;
+       ``(F) available acreage; and
+       ``(G) other relevant factors identified by the Secretary; 
+     and
+       ``(5) rates the development potential for growing 
+     cellulosic feedstock material, with the ratings displayed on 
+     maps of the United States that indicate the development 
+     potential of each State, as calculated by the Secretary under 
+     paragraph (4).
+
+     ``SEC. 9024. FUTURE FARMSTEADS PROGRAM.
+
+     Strike section 3101.
+       On page 272, between lines 2 and 3, insert the following:
+
+     SEC. 19__. ENTERPRISE AND WHOLE FARM UNITS.
+
+       Section 508(e) of Federal Crop Insurance Act (7 U.S.C. 
+     1508(e)) is amended by adding at the end the following:
+       ``(6) Enterprise and whole farm units.--
+       ``(A) In general.--The Corporation may carry out a pilot 
+     program under which the Corporation pays a portion of the 
+     premiums for plans or policies of insurance for which the 
+     insurable unit is defined on a whole farm or enterprise unit 
+     basis that is higher than would otherwise be paid in 
+     accordance with paragraph (2) for policyholders that convert 
+     from a plan or policy of insurance for which the insurable 
+     unit is defined on optional or basic unit basis.
+       ``(B) Eligibility.--To be eligible to participate in a 
+     pilot program established under this paragraph, a 
+     policyholder shall--
+       ``(i) have purchased additional coverage for the 2005 crop 
+     on an optional or basic unit basis for at least 90 percent of 
+     the acreage to be covered by enterprise or whole farm unit 
+     policy for the current crop; and
+       ``(ii) purchase the enterprise or whole farm unit policy at 
+     not less than the highest coverage level that was purchased 
+     for the acreage for the 2005 crop.
+       ``(C) Amount.--
+       ``(i) In general.--The amount of the premium per acre paid 
+     by the Corporation to a policyholder for a policy with an 
+     enterprise and whole farm unit under this paragraph shall be, 
+     the maximum extent practicable, equal to the average dollar 
+     amount of subsidy per acre paid by the Corporation under 
+     paragraph (2) for a basic or optional unit.
+       ``(ii) Limitation.--The amount of the premium paid by the 
+     Corporation under this paragraph may not exceed the total 
+     premium for the enterprise or whole farm unit policy.
+       ``(D) Conversion of pilot to a permanent program.--Not 
+     earlier than 180 days after the date of enactment of this 
+     paragraph, the Corporation may convert the pilot program 
+     described in this paragraph to a permanent program if the 
+     Corporation has--
+       ``(i) carried out the pilot program;
+       ``(ii) analyzed the results of the pilot program; and
+       ``(iii) submitted to Congress a report describing the 
+     results of the analysis.''.
+       On page 299, between lines 15 and 16, insert the following:
+
+     SEC. 19__. DEFINITION OF BASIC UNIT.
+
+       The Secretary shall not modify the definition of ``basic 
+     unit'' in accordance with the proposed regulations entitled 
+     ``Common Crop Insurance Regulations'' (72 Fed. Reg. 28895; 
+     relating to common crop insurance regulations) or any 
+     successor regulation.
+       On page 980, strike lines 12 and 13 and insert the 
+     following:
+     including fresh-cut produce;
+       ``(7) methods of improving the supply and effectiveness of 
+     pollination for specialty crop production; and
+       ``(8) efforts relating to optimizing the produc-
+       On page 1007, strike line 16 and insert the following:
+       (T) The research, extension, and education programs 
+     authorized by section 407 of the Agricultural Research, 
+     Extension, and Education Reform Act of 1998 (7 U.S.C. 7627) 
+     relating to the viability and competitiveness of small- and 
+     medium-sized dairy, livestock, crop, and other commodity 
+     operations.
+       (U) Other programs, including any pro-
+       On page 994, strike lines 7 through 17 and insert the 
+     following:
+
+[[Page S15659]]
+
+     SEC. 7312. NATIONAL ARBORETUM.
+
+       The Act of March 4, 1927 (20 U.S.C. 191 et seq.), is 
+     amended by adding at the end the following:
+
+     ``SEC. 7. CONSTRUCTION OF A CHINESE GARDEN AT NATIONAL 
+                   ARBORETUM.
+
+       ``(a) In General.--A Chinese Garden may be constructed at 
+     the National Arboretum established under this Act with--
+       ``(1) funds accepted under section 5; and
+       ``(2) authorities provided to the Secretary of Agriculture 
+     under section 6.
+       ``(b) Report.--Each year the Secretary of Agriculture shall 
+     submit to Congress, and post on the public website of the 
+     National Arboretum, an itemized budget that shall describe, 
+     for the preceding year--
+       ``(1) the total costs of the National Arboretum;
+       ``(2) the costs of--
+       ``(A) operation and maintenance;
+       ``(B) horticulture and grounds;
+       ``(C) visitor services; and
+       ``(D) supplies and materials;
+       ``(3) indirect costs of the Agricultural Research Service 
+     relating to the National Arboretum; and
+       ``(4) the total number of visitors to the National 
+     Arboretum.
+       ``(c) Limitation.--No Federal funds shall be used for the 
+     construction of the Chinese Garden authorized under 
+     subsection (a).''.
+       On page 972, strike lines 1 through 3 and insert the 
+     following:
+       ``(E) to assess the effect of forage quality on 
+     reproductive fitness and related measures.
+       ``(56) Sustainable agricultural production for the 
+     environment.--Research and extension grants may be made to--
+       ``(A) field and laboratory studies that examine the 
+     ecosystem from gross to minute scales; and
+       ``(B) conduct projects that explore the future 
+     environmental ramifications of sustainable agricultural 
+     practices.''; and
+       On page 972, strike lines 1 through 3 and insert the 
+     following:
+       ``(E) to assess the effect of forage quality on 
+     reproductive fitness and related measures.
+       ``(56) Biomass-derived energy resources.--Research and 
+     extension grants may be made to--
+       ``(A) study plant cell wall structure and function and the 
+     use of plant biotechnology to produce industrial enzymes; and
+       ``(B) conduct projects that develop renewable, plant 
+     biomass-derived energy resources using the technology 
+     described in subparagraph (A).''; and
+       On page 563, between lines 15 and 16, insert the following:
+
+     SEC. 320__. REPORT ON THE IMPORTATION OF HIGH PROTEIN FOOD 
+                   INGREDIENTS.
+
+       (a) In General.--Not later than 180 days after the date of 
+     enactment of this Act, the Secretary and the Secretary of 
+     Health and Human Services (acting through the Commissioner of 
+     Food and Drugs), in consultation with the heads of other 
+     appropriate Federal agencies, shall jointly submit to 
+     Congress a report on imports of high protein food ingredients 
+     (including gluten, casein, and milk protein concentrate) into 
+     the United States during the 5-year period preceding the date 
+     of enactment of this Act.
+       (b) Components.--The report required under subsection (a) 
+     shall include--
+       (1) a description of--
+       (A) the quantity of each high protein food ingredient 
+     imported into the United States; and
+       (B) the source of the high protein food ingredients being 
+     imported;
+       (2) an accounting of the percentage of imports in each 
+     category and subcategory of high protein food ingredients 
+     that were inspected, including whether the inspections were--
+       (A) basic or visual inspections; or
+       (B) more intensive inspections or laboratory analyses;
+       (3) an evaluation of--
+       (A) whether the laboratory tests conducted on high protein 
+     food ingredients were able to detect adulteration with other 
+     high nitrogen compounds, such as melamine; and
+       (B) if some of the laboratory tests were sensitive and 
+     others were not sensitive, the number and results for each 
+     sensitivity; and
+       (4) a survey of whether high protein food ingredients were 
+     imported for food uses or non-food uses, including an 
+     analysis of--
+       (A) whether the food uses were animal or human food uses; 
+     and
+       (B) whether any non-food or animal feed products could have 
+     entered the human food supply, including an analysis of any 
+     safeguards to prevent such products from entering the human 
+     food supply.
+       (c) Availability.--As soon as practicable after the 
+     completion of the report under subsection (a), the Secretary 
+     and the Secretary of Health and Human Services shall make the 
+     report available to the public.
+       At the end of subtitle B of title XI, add the following:
+
+     SEC. 11___. GAO REPORT ON ACCESS TO HEALTH CARE FOR FARMERS.
+
+       (a) Report.--Not later than November 30, 2008, the 
+     Comptroller General of the United States shall submit to 
+     Congress a report on access to health care for rural 
+     Americans and farmers.
+       (b) Consultation.--The report shall be done in consultation 
+     with the Rural Health Research Centers in the Department of 
+     Health and Human Services Office of Rural Health Policy.
+       (c) Elements.--The report required by subsection (a) shall 
+     include the following:
+       (1) Assessment.--An assessment of access to health care for 
+     rural Americans, including the following:
+       (A) An overview of the rates of the uninsured among people 
+     living in rural areas in the United States and possible 
+     factors that cause the uninsurance, specifically--
+       (i) a synthesis of existing research on the uninsured 
+     living in rural America; and
+       (ii) a detailed analysis of the uninsured and the factors 
+     that contribute in uninsurance in 3 to 4 rural areas.
+       (2) Second assessment.--An assessment of access to health 
+     care for farmers, including the following:
+       (A) An overview of the rates of the uninsured among farmers 
+     in the United States and the factors that cause the 
+     uninsurance, specifically--
+       (i) factors, such as land assets, that keep low-income 
+     farmers from qualifying for public insurance programs;
+       (ii) the effects of the high price of health insurance for 
+     individuals purchasing in the individual, non-group market; 
+     and
+       (iii) any other significant factor that contributes to the 
+     rates of uninsurance among farmers.
+       (B) The extent to which farmers depend on a spouse's off-
+     farm job for health care coverage.
+       (C) The effects of uninsurance on farmers and their 
+     families.
+       (3) Role of congress.--Recommendations regarding the 
+     potential role of Congress in supporting increased access to 
+     health insurance for farmers and their families, and rural 
+     Americans.
+       On page 1201, strike lines 4 through 8 and insert the 
+     following:
+       (c) Existing Activities.--The Secretary shall ensure that 
+     nothing in an amendment made by this section duplicates, 
+     impedes, or undermines any of the food safety or product 
+     grading activities conducted by the Department of Commerce or 
+     the Food and Drug Administration, and shall consult with the 
+     Secretary of Commerce before implementing any new food safety 
+     or grading activity authorized under this section.
+       On page 1208, between lines 10 and 11, insert the 
+     following:
+
+     SEC. 10004. DISCLOSURE OF COUNTRY OF HARVEST FOR GINSENG.
+
+       (a) In General.--The Agricultural Marketing Act of 1946 (7 
+     U.S.C. 1621 et seq.) is amended by adding at the end the 
+     following:
+
+                         ``Subtitle E--Ginseng
+
+     ``SEC. 291. DISCLOSURE OF COUNTRY OF HARVEST.
+
+       ``(a) Definitions.--In this section:
+       ``(1) Ginseng.--The term `ginseng' means a plant classified 
+     within the genus Panax.
+       ``(2) Raw agricultural commodity.--The term `raw 
+     agricultural commodity' has the meaning given the term in 
+     section 201 of the Federal Food, Drug, and Cosmetic Act (21 
+     U.S.C. 321).
+       ``(3) Secretary.--The term `Secretary' means the Secretary 
+     of Agriculture.
+       ``(b) Disclosure.--
+       ``(1) In general.--A person that offers ginseng for sale as 
+     a raw agricultural commodity or dehydrated whole root shall 
+     disclose to a potential purchaser the country of harvest of 
+     the ginseng.
+       ``(2) Importation.--A person that imports ginseng as a raw 
+     agricultural commodity or dehydrated whole root into the 
+     United States shall disclose at the point of entry into the 
+     United States, in accordance with section 304 of the Tariff 
+     Act of 1930 (19 U.S.C. 1304), the country in which the 
+     ginseng was harvested.
+       ``(c) Manner of Disclosure.--
+       ``(1) In general.--The disclosure required by subsection 
+     (b) shall be provided to a potential purchaser by means of a 
+     label, stamp, mark, placard, or other easily legible and 
+     visible sign on the ginseng or on the package, display, 
+     holding unit, or bin containing the ginseng.
+       ``(2) Retailers.--A retailer of ginseng as a raw 
+     agricultural commodity shall--
+       ``(A) retain the means of disclosure provided under 
+     subsection (b); and
+       ``(B) provide the received means of disclosure to a 
+     consumer of ginseng.
+       ``(3) Regulations.--The Secretary shall by regulation 
+     prescribe with specificity the manner in which disclosure 
+     shall be made in a transaction at the wholesale or retail 
+     level (including a transaction by mail, telephone, internet, 
+     or in retail stores).
+       ``(d) Fines.--The Secretary may, after providing notice and 
+     an opportunity for a hearing before the Secretary, fine a 
+     person subject to subsection (b), or a person supplying 
+     ginseng to such a person, in an amount of not more than 
+     $1,000 for each violation if the Secretary determines that 
+     the person--
+       ``(1) has not made a good faith effort to comply with 
+     subsection (b); and
+       ``(2) continues to willfully violate subsection (b).
+       ``(e) Information.--The Secretary shall make information 
+     available to wholesalers, importers, retailers, trade 
+     associations, and other interested persons concerning the 
+     requirements of this section (including regulations 
+     promulgated to carry out this section).''.
+       (b) Effective Date.--This section and the amendments made 
+     by this section take effect on the date that is 180 days 
+     after the date of enactment of this Act.
+       On page 1362, between lines 19 and 20, insert the 
+     following:
+
+     SEC. 1107__. CONVEYANCE OF LAND TO CHIHUAHUAN DESERT NATURE 
+                   PARK.
+
+       (a) Definitions.--In this section:
+
+[[Page S15660]]
+
+       (1) Board.--The term ``Board'' means the Chihuahuan Desert 
+     Nature Park Board.
+       (2) Nature park.--The term ``Nature Park'' means the 
+     Chihuahuan Desert Nature Park, Inc., a nonprofit corporation 
+     in the State of New Mexico.
+       (b) Conveyance of Land.--
+       (1) In general.--Not later than 1 year after the date of 
+     enactment of this Act, subject to valid existing rights and 
+     subsection (c), the Secretary shall convey to the Nature 
+     Park, by quitclaim deed, for no consideration, all right, 
+     title, and interest of the United States in and to the land 
+     described in paragraph (2)
+       (2) Description of land.--
+       (A) In general.--The parcel of land referred to in 
+     paragraph (1) consists of the approximately 935.62 acres of 
+     land in Dona Ana County, New Mexico, which is more 
+     particularly described--
+       (i) as sections 17, 20, and 21 of T. 21 S., R. 2 E., 
+     N.M.P.M.; and
+       (ii) in an easement deed dated May 14, 1998, from the 
+     Department of Agriculture to the Nature Park.
+       (B) Modifications.--The Secretary may modify the 
+     description of the land under subparagraph (A) to--
+       (i) correct errors in the description; or
+       (ii) facilitate management of the land.
+       (c) Conditions.--The conveyance of land under subsection 
+     (b) shall be subject to--
+       (1) the reservation by the United States of all mineral and 
+     subsurface rights to the land, including any geothermal 
+     resources;
+       (2) the condition that the Board pay any costs relating to 
+     the conveyance;
+       (3) any rights-of-way reserved by the Secretary;
+       (4) a covenant or restriction in the deed to the land 
+     requiring that--
+       (A) the land may be used only for educational or scientific 
+     purposes; and
+       (B) if the land is no longer used for the purposes 
+     described in subparagraph (A), the land may, at the 
+     discretion of the Secretary, revert to the United States in 
+     accordance with subsection (d); and
+       (5) any other terms and conditions that the Secretary 
+     determines to be appropriate.
+       (d) Reversion.--If the land conveyed under subsection (b) 
+     is no longer used for the purposes described in subsection 
+     (c)(4)(A)--
+       (1) the land may, at the discretion of the Secretary, 
+     revert to the United States; and
+       (2) if the Secretary chooses to have the land revert to the 
+     United States, the Secretary shall--
+       (A) determine whether the land is environmentally 
+     contaminated, including contamination from hazardous wastes, 
+     hazardous substances, pollutants, contaminants, petroleum, or 
+     petroleum by-products; and
+       (B) if the Secretary determines that the land is 
+     environmentally contaminated, the Nature Park, the successor 
+     to the Nature Park, or any other person responsible for the 
+     contamination shall be required to remediate the 
+     contamination.
+       (e) Withdrawal.--All federally owned mineral and subsurface 
+     rights to the land described in subsection (b)(2) are 
+     withdrawn from--
+       (1) location, entry, and patent under the mining laws; and
+       (2) the operation of the mineral leasing laws, including 
+     the geothermal leasing laws.
+       (f) Water Rights.--Nothing in this section authorizes the 
+     conveyance of water rights to the Nature Park.
+       Beginning on page 756, strike line 6 and all that follows 
+     through page 757, line 5, and insert the following:
+
+     SEC. 6012. WATER SYSTEMS FOR RURAL AND NATIVE VILLAGES IN 
+                   ALASKA.
+
+       Section 306D of the Consolidated Farm and Rural Development 
+     Act (7 U.S.C. 1926d) is amended--
+       (1) in subsection (a)--
+       (A) by striking ``make grants to the State'' and inserting 
+     ``make grants to--
+       ``(1) the State'';
+       (B) by striking the period at the end and inserting ``; 
+     and''; and
+       (C) by adding at the end the following:
+       ``(2) the Denali Commission to improve solid waste disposal 
+     sites that are contaminating, or threaten to contaminate, 
+     rural drinking water supplies in the State of Alaska.'';
+       (2) in subsection (c)--
+       (A) in the subsection heading by striking ``With the State 
+     of Alaska''; and
+       (B) by striking ``the State of Alaska'' and inserting ``the 
+     appropriate grantee under subsection (a)''; and
+       (3) in subsection (d)--
+       (A) in paragraph (1), by striking ``2007'' and inserting 
+     ``2013'';
+       (B) by redesignating paragraph (3) as paragraph (4); and
+       (C) by inserting after paragraph (2) the following:
+       ``(3) Denali commission.--Not more than 5 percent of the 
+     amount made available under paragraph (1) for a fiscal year 
+     may be transferred to the Denali Commission to improve solid 
+     waste disposal sites that are contaminating, or threaten to 
+     contaminate, rural drinking supplies in the State of 
+     Alaska.''.
+       On page 763, strike lines 3 through 10 and insert the 
+     following:
+       ``(B) Multiyear grants.--If the Secretary determines it to 
+     be in the best interest of the program, the Secretary shall 
+     award grants for a period of more than 1 year, but not more 
+     than 3 years, to a center that has successfully met the 
+     parameters described in paragraph (5).''.
+       Beginning on page 891, strike line 9 and all that follows 
+     through page 892, line 20.
+
+     SECTION 1914. ACCESS TO DATA MINING INFORMATION.
+
+       Page 277, line 7, after ``subparagraph (A),'' insert 
+     ``including for quality assurance purposes under the Standard 
+     Reinsurance Agreement''.
+       At the end of subtitle B of title XI, add the following:
+
+     SEC. 11072. PROHIBITIONS ON DOG FIGHTING VENTURES.
+
+       (a) In General.--Section 26 of the Animal Welfare Act (7 
+     U.S.C. 2156) is amended--
+       (1) in subsection (a)(1)--
+       (A) by striking ``any person to knowingly sponsor'' and 
+     inserting ``any person--
+       ``(A) to knowingly sponsor'';
+       (B) by striking the period at the end and inserting ``; 
+     or''; and
+       (C) by adding at the end the following:
+       ``(B) to knowingly sponsor or exhibit an animal in a dog 
+     fighting venture.'';
+       (2) in subsection (b)--
+       (A) by striking ``any person to knowingly sell'' and 
+     inserting ``any person--
+       ``(1) to knowingly sell'';
+       (B) by striking the period at the end and inserting ``; 
+     or''; and
+       (C) by adding at the end the following:
+       ``(2) to knowingly sell, buy, possess, train, transport, 
+     deliver, or receive for purposes of transportation, any dog 
+     or other animal, for the purposes of having the dog or other 
+     animal, or offspring of the dog or other animal, participate 
+     in a dog fighting venture.'';
+       (3) in the last sentence of subsection (f), by striking 
+     ``by the United States''; and
+       (4) in subsection (g) --
+       (A) in paragraph (5), by striking ``and'' at the end;
+       (B) by redesignating paragraph (6) as paragraph (7); and
+       (C) by inserting after paragraph (5) the following:
+       ``(6) the term `dog fighting venture'--
+       ``(A) means any event that--
+       ``(i) involves a fight between at least 2 animals;
+       ``(ii) includes at least 1 dog; and
+       ``(iii) is conducted for purposes of sport, wagering, or 
+     entertainment; and
+       ``(B) does not include any activity the primary purpose of 
+     which involves the use of 1 or more animals to hunt another 
+     animal; and''.
+       (b) Enforcement of Animal Fighting Prohibitions.--Section 
+     49 of title 18, United States Code, is amended to read as 
+     follows:
+
+     ``Sec. 49. Enforcement of animal fighting prohibitions
+
+       ``(a) Animal Fighting Ventures.--Whoever violates 
+     subsection (a)(1)(A), (b)(1), (c), or (e) of section 26 of 
+     the Animal Welfare Act (7 U.S.C. 2156) shall be fined under 
+     this title, imprisoned for not more than 3 years, or both, 
+     for each violation.
+       ``(b) Dog Fighting Ventures.--Whoever violates subsection 
+     (a)(1)(B) or (b)(2) of section 26 of the Animal Welfare Act 
+     shall be fined under this title, imprisoned for not more than 
+     5 years, or both, for each violation.''.
+       On page 1201, strikes lines 17 through 18 and insert the 
+     following:
+       ``(vii) meat produced from goats;
+       ``(viii) chicken, in whole and in part; and
+       ``(ix) macadamia nuts.'';
+       On page 1201, line 23, insert ``chicken,'' after ``pork,''.
+       On page 1202, line 1, insert ``chicken,'' after ``pork,''.
+       On page 1202, line 20, insert ``chicken,'' after ``pork,''.
+       On page 1203, line 16, insert ``chicken,'' after ``pork,''.
+       On page 1204, line 1, insert ``chicken,'' after ``pork,''.
+       On page 1204, line 6, insert ``chicken,'' after ``lamb,''.
+       On page 1204, line 8, insert ``ground chicken,'' after 
+     ``ground lamb,''.
+       On page 1204, line 12, insert ``ground chicken,'' after 
+     ``lamb,''.
+       On page 1204, line 15, insert ``ground chicken,'' after 
+     ``ground lamb,''.
+       Beginning on page 775, strike line 22 and all that follows 
+     through page 776, line 19 and insert the following:
+       ``(B) Water and waste disposal grants and direct and 
+     guaranteed loans.--For the purpose of water and waste 
+     disposal grants and direct and guaranteed loans provided 
+     under paragraphs (1), (2), and (24) of section 306(a), the 
+     terms `rural' and `rural area' mean a city, town, or 
+     unincorporated area that has a population of no more than 
+     10,000 inhabitants.
+       ``(C) Community facility loans and grants.--For the purpose 
+     of community facility direct and guaranteed loans and grants 
+     under paragraphs (1), (19), (20), (21), and (24) of section 
+     306(a), the terms `rural' and `rural area' mean any area 
+     other than--
+       ``(i) an area described in clause (i), (ii), or (iii) of 
+     subparagraph (A); and
+       ``(ii) a city, town, or unincorporated area that has a 
+     population of greater than 20,000 inhabitants.
+       ``(D) Areas rural in character.--
+       ``(i) In general.--Notwithstanding any other provision of 
+     this paragraph, the Under Secretary for Rural Development may 
+     determine (pursuant to a petition by a local community or on 
+     the initiative of the Under Secretary) that an area described 
+     in clause (ii) or (iii) of subparagraph (A) is a rural area 
+     for the purposes of this paragraph, if the Under Secretary 
+     finds that the area is rural in character, as determined by 
+     the Under Secretary.
+       ``(ii) Administration.--In carrying out clause (i), the 
+     Under Secretary for Rural Development--
+
+[[Page S15661]]
+
+       ``(I) shall not delegate the authority described in clause 
+     (i); but
+       ``(II) shall consult with the applicable rural development 
+     State or regional director of the Department of Agriculture.
+
+       ``(E) Exclusions.--Notwithstanding any other provision of 
+     this paragraph, in determining which census blocks are not in 
+     a rural area (as defined in this paragraph), the Secretary 
+     shall exclude any cluster of census blocks that would 
+     otherwise be considered not in a rural area only because the 
+     cluster is adjacent to not more than 2 census blocks that are 
+     otherwise considered not in a rural area under this 
+     paragraph.''.
+       (b) Annual Reports.--Not later than 2 years after the date 
+     of enactment of this Act and every 2 years thereafter, the 
+     Secretary shall prepare and submit to the Committee on 
+     Agriculture of the House of Representatives and the Committee 
+     on Agriculture, Nutrition, and Forestry of the Senate a 
+     report that--
+       (1) assesses the various definitions of the term ``rural'' 
+     and ``rural area'' that are used with respect to programs 
+     administered by the Secretary;
+       (2) describes the effects that the variations in those 
+     definitions have on those programs;
+       (3) make recommendations for ways to better target funds 
+     provided through rural development programs;
+       (4) describes the effects the changes to the definitions of 
+     the terms ``rural'' and ``rural area'' in the Farm Security 
+     and Rural Investment Act of 2002 and this Act had on those 
+     programs and eligible areas; and
+       (5) determines what effects the changes had on the level of 
+     rural development funding and participation in those programs 
+     in each State.
+       At the end of the amendment, add the following:
+
+     SEC. 60__. INTEREST RATES FOR WATER AND WASTE DISPOSAL 
+                   FACILITIES LOANS.
+
+       Section 307(a)(3) of the Consolidated Farm and Rural 
+     Development Act (7 U.S.C. 1927(a)(3)) is amended by adding at 
+     the end the following:
+       ``(E) Interest rates for water and waste disposal 
+     facilities loans.--Notwithstanding subparagraph (A), for 
+     loans (other than guaranteed loans) for water and waste 
+     disposal facilities--
+       ``(i) in the case of a loan that would be subject to the 5 
+     percent interest rate limitation under subparagraph (A), the 
+     Secretary shall set the interest rate equal to 60 percent of 
+     the current market yield for outstanding municipal 
+     obligations with remaining periods to maturity comparable to 
+     the average maturity of such loans, adjusted to the nearest 
+     one-eight of 1 per centum; and
+       ``(ii) in the case of a loan that would be subject to the 7 
+     percent limitation in subparagraph (A), the Secretary shall 
+     set the interest rate equal to 80 percent of the current 
+     market yield for outstanding municipal obligations with 
+     remaining periods to maturity comparable to the average 
+     maturity of such loans, adjusted to the nearest one-eight of 
+     1 per centum.''.
+       On page 563, between lines 15 and 16, insert the following:
+
+     SEC. 3205. QUALITY REQUIREMENTS FOR CLEMENTINES.
+
+       Section 8e(a) of the Agricultural Adjustment Act (7 U.S.C. 
+     608e-1(a)), reenacted with amendments by the Agricultural 
+     Marketing Agreement Act of 1937, is amended in the matter 
+     preceding the first proviso in the first sentence by 
+     inserting ``clementines,'' after ``nectarines,''.
+       At the end of subtitle F of title IV, add the following:
+
+     SEC. 49__. REPORT ON FEDERAL HUNGER PROGRAMS.
+
+       Not later than 2 years after the date of enactment of this 
+     Act, the Comptroller General of the United States shall 
+     submit to Congress a report that contains--
+       (1) a complete list of all Federal programs that seek to 
+     alleviate hunger or food insecurity or improve nutritional 
+     intake, including programs that support collaboration, 
+     coordination, research, or infrastructure related to these 
+     issues;
+       (2) for each program listed under paragraph (1)--
+       (A) the total amount of Federal funds used to carry out the 
+     program in the most recent fiscal year for which comparable 
+     data is available;
+       (B) a comparison of the amount described in subparagraph 
+     (A) with the amount used to carry out a similar program 10 
+     and 20 years previously;
+       (C) to the maximum extent practicable, the amount of 
+     Federal funds used under the program to provide direct food 
+     aid to individuals (including the amount used for the costs 
+     of administering the program); and
+       (D) a review to determine whether the program has been 
+     independently reviewed for effectiveness with respect to 
+     achieving the goals of the program, including--
+       (i) the findings of the independent review; and
+       (ii) for the 10 highest-cost programs, a determination of 
+     whether the review was conducted in accordance with accepted 
+     research principles;
+       (3) for the 10- and 20-year periods before the date of 
+     enactment of this Act, and for the most recent year for which 
+     data is available, the estimated number of people in the 
+     United States who are hungry (or food insecure) or obese; and
+       (4) as of the date of submission of the report--
+       (A) the number of employees of the Department of 
+     Agriculture, including contractors and other individuals 
+     whose salary is paid in full or part by the Department; and
+       (B) the number of farmers and other agricultural producers 
+     in the United States that receive some form of assistance 
+     from the Department.
+       On page 634, lines 5 and 6, strike ``to enter into a 
+     contract with'' and insert ``to provide a grant to''.
+       On page 634, line 8, strike ``contract'' and insert 
+     ``grant''.
+       On page 634, line 9, strike ``contract entered into'' and 
+     insert ``grant provided''.
+       On page 634, line 10, strike ``contract'' and insert 
+     ``grant''.
+       On page 634, line 12, strike ``contract'' and insert 
+     ``grant''.
+       At the end of subtitle F of title VII, add the following:
+
+     SEC. 75__. MODIFICATIONS TO INFORMATION TECHNOLOGY SERVICE.
+
+       (a) In General.--The Secretary shall not implement any 
+     modification that reduces the availability or provision of 
+     information technology service, or administrative management 
+     control of that service, including data or center service 
+     agency, functions, and personnel at the National Finance 
+     Center and the National Information Technology Center service 
+     locations, until the date that is 60 days after the date on 
+     which the Committee on Agriculture of the House of 
+     Representatives and the Committee on Agriculture, Nutrition, 
+     and Forestry of the Senate receive a written determination 
+     and report from the Chief Financial Officer or Chief 
+     Information Officer of the Department of Agriculture and the 
+     Secretary that states that the implementation of the 
+     modification is in the best interests of the Department of 
+     Agriculture.
+       (b) Report on Proposed Modifications.--Not later than 180 
+     days after the date of enactment of this Act, the Secretary 
+     shall submit to the Committee on Agriculture of the House of 
+     Representatives, the Committee on Agriculture, Nutrition, and 
+     Forestry of the Senate, and the Comptroller General a report 
+     on any proposed modification to reduce the availability or 
+     provision of any information technology service, or 
+     administrative management control of such a service, 
+     including data or center service agency, functions, and 
+     personnel at the National Finance Center and National 
+     Technology Center service locations, that includes--
+       (1) a business case analysis (including of the near- and 
+     long-term costs and benefits to the Department of Agriculture 
+     and all other Federal agencies and departments that benefit 
+     from services provided by the National Finance Center and the 
+     National Information Technology Center service locations) of 
+     the proposed modifications, as compared with maintaining 
+     administrative management control or information technology 
+     service functions and personnel in the existing structure and 
+     at present locations; and
+       (2) an analysis of the impact of any changes in that 
+     administrative management control or information technology 
+     service (including data or center service agency, functions, 
+     and personnel) on the ability of the National Finance Center 
+     and National Information Technology Center service locations 
+     to provide, in the near- and long-term, to all Federal 
+     agencies and departments, cost-effective, secure, efficient, 
+     and interoperable--
+       (A) information technology services;
+       (B) cross-servicing;
+       (C) e-payroll services; and
+       (D) human resource line-of-business services.
+       (c) Assessment.--Not later than 90 days after the date on 
+     which the Comptroller General receives the report submitted 
+     under subsection (b), the Comptroller General shall submit to 
+     the Committee on Agriculture of the House of Representatives 
+     and the Committee on Agriculture, Nutrition, and Forestry of 
+     the Senate a detailed written assessment of the report that 
+     includes an analysis (including of near- and long-term cost 
+     benefits and impacts) of the alternatives available to all 
+     Federal agencies and departments to acquire cost-effective, 
+     secure, efficient, and interoperable information technology, 
+     cross-servicing, e-payroll, and human resource line-of-
+     business services.
+       (d) Operating Reserve.--
+       (1) In general.--Of annual income amounts in the working 
+     capital fund of the Department of Agriculture allocated for 
+     the National Finance Center, the Secretary may reserve not 
+     more than 4 percent--
+       (A) for the replacement or acquisition of capital 
+     equipment, including equipment for--
+       (i) the improvement and implementation of a financial 
+     management plan;
+       (ii) information technology; and
+       (iii) other systems of the National Finance Center; or
+       (B) to pay any unforeseen, extraordinary costs of the 
+     National Finance Center.
+       (2) Availability for obligation.--
+       (A) In general.--Except as provided in subparagraph (B), 
+     none of the amounts reserved under paragraph (1) shall be 
+     available for obligation unless the Secretary submits 
+     notification of the obligation to--
+       (i) the Committees on Appropriations and Agriculture of the 
+     House of Representatives; and
+       (ii) the Committees on Appropriations and Agriculture, 
+     Nutrition, and Forestry of the Senate.
+
+[[Page S15662]]
+
+       (B) Exception.--The limitation described in subparagraph 
+     (A) shall not apply to any obligation that, as determined by 
+     the Secretary, is necessary--
+       (i) to respond to a declared state of emergency that 
+     significantly impacts the operations of the National Finance 
+     Center; or
+       (ii) to evacuate employees of the National Finance Center 
+     to a safe haven to continue operations of the National 
+     Finance Center.
+       At the appropriate place, insert the following:
+       On page 1159, strike lines 17 through 19 and insert the 
+     following:
+       (A) the capabilities and experience of the applicant, 
+     including--
+       (i) in conducting side-by-side crop experiments;
+       (ii) engineering and research knowledge and experience 
+     relating to biofuels or the production of inputs for biofuel 
+     production; and
+       (iii) demonstrated willingness to contribute significant 
+     in-kind resources;
+       At the appropriate place, insert the following:
+
+              TITLE __--DOMESTIC PET TURTLE MARKET ACCESS
+
+     SEC. __. SHORT TITLE.
+
+       This title may be cited as the ``Domestic Pet Turtle 
+     Equality Act''.
+
+     SEC. __. FINDINGS.
+
+       Congress makes the following findings:
+       (1) Pet turtles less than 10.2 centimeters in diameter have 
+     been banned for sale in the United States by the Food and 
+     Drug Administration since 1975 due to health concerns.
+       (2) The Food and Drug Administration does not ban the sale 
+     of iguanas or other lizards, snakes, frogs, or other 
+     amphibians or reptiles that are sold as pets in the United 
+     States that carry salmonella bacteria. The Food and Drug 
+     Administration also does not require that these animals be 
+     treated for salmonella bacteria before being sold as pets.
+       (3) The technology to treat turtles for salmonella, and 
+     make them safe for sale, has greatly advanced since 1975. 
+     Treatments exist that can eradicate salmonella from turtles 
+     up until the point of sale, and individuals are more aware of 
+     the causes of salmonella, how to treat salmonella poisoning, 
+     and the seriousness associated with salmonella poisoning.
+       (4) University research has shown that these turtles can be 
+     treated in such a way that they can be raised, shipped, and 
+     distributed without having a recolonization of salmonella.
+       (5) University research has also shown that pet owners can 
+     be equipped with a treatment regimen that allows the turtle 
+     to be maintained safe from salmonella.
+       (6) The Food and Drug Administration and the Department of 
+     Agriculture should allow the sale of turtles less than 10.2 
+     centimeters in diameter as pets as long as the sellers are 
+     required to use proven methods to treat these turtles for 
+     salmonella.
+
+     SEC. __. REVIEW, REPORT, AND ACTION ON THE SALE OF BABY 
+                   TURTLES.
+
+       (a) Pet Turtle.--In this section, the term ``pet turtle'' 
+     means a turtle that is less than 10.2 centimeters in 
+     diameter.
+       (b) Prevalence of Salmonella.--Not later than 60 days after 
+     the date of enactment of this title, the Secretary of Health 
+     and Human Services, acting through the Commissioner of Food 
+     and Drugs, shall determine the prevalence of salmonella in 
+     each species of reptile and amphibian sold legally as a pet 
+     in the United States in order to determine whether the 
+     prevalence of salmonella in reptiles and amphibians sold 
+     legally as pets in the United States on average is not more 
+     than 10 percent less than the percentage of salmonella in pet 
+     turtles.
+       (c) Action if Prevalence Is Similar.--If the prevalence of 
+     salmonella in reptiles and amphibians sold legally as pets in 
+     the United States on average is not more than 10 percent less 
+     than the percentage of salmonella in pet turtles--
+       (1) the Secretary of Agriculture shall--
+       (A) conduct a study to determine how pet turtles can be 
+     sold safely as pets in the United States and provide 
+     recommendations to Congress not later than 150 days after the 
+     date of such determination;
+       (B) in conducting such study, consult with all relevant 
+     stakeholders, such as the Centers for Disease Control and 
+     Prevention, the turtle farming industry, academia, and the 
+     American Academy of Pediatrics; and
+       (C) examine the safety measures taken to protect 
+     individuals from salmonella-related dangers involved with 
+     reptiles and amphibians sold legally in the United States 
+     that contain a similar or greater presence of salmonella than 
+     that of pet turtles; and
+       (2) the Secretary of Agriculture--
+       (A) may not prohibit the sale of pet turtles in the United 
+     States; or
+       (B) shall prohibit the sale in the United States of any 
+     reptile or amphibian that contains a similar or greater 
+     prevalence of salmonella than that of pet turtles.
+       On page 1362, between lines 19 and 20, insert the 
+     following:
+
+                   Subtitle C--Disaster Loan Program
+
+     SEC. 11101. SHORT TITLE.
+
+       This subtitle may be cited as the ``Small Business Disaster 
+     Response and Loan Improvements Act of 2007''.
+
+     SEC. 11102. DEFINITIONS.
+
+       In this subtitle--
+       (1) the terms ``Administration'' and ``Administrator'' mean 
+     the Small Business Administration and the Administrator 
+     thereof, respectively;
+       (2) the term ``Small Business Act catastrophic national 
+     disaster'' means a Small Business Act catastrophic national 
+     disaster declared under section 7(b)(11) of the Small 
+     Business Act (15 U.S.C. 636(b)), as added by this Act;
+       (3) the term ``declared disaster'' means a major disaster 
+     or a Small Business Act catastrophic national disaster;
+       (4) the term ``disaster area'' means an area affected by a 
+     natural or other disaster, as determined for purposes of 
+     paragraph (1) or (2) of section 7(b) of the Small Business 
+     Act (15 U.S.C. 636(b)), during the period of such 
+     declaration;
+       (5) the term ``disaster loan program of the 
+     Administration'' means assistance under section 7(b) of the 
+     Small Business Act (15 U.S.C. 636(b));
+       (6) the term ``disaster update period'' means the period 
+     beginning on the date on which the President declares a major 
+     disaster or a Small Business Act catastrophic national 
+     disaster and ending on the date on which such declaration 
+     terminates;
+       (7) the term ``major disaster'' has the meaning given that 
+     term in section 102 of the Robert T. Stafford Disaster Relief 
+     and Emergency Assistance Act (42 U.S.C. 5122);
+       (8) the term ``small business concern'' has the same 
+     meaning as in section 3 of the Small Business Act (15 U.S.C. 
+     632); and
+       (9) the term ``State'' means any State of the United 
+     States, the District of Columbia, the Commonwealth of Puerto 
+     Rico, the Northern Mariana Islands, the Virgin Islands, Guam, 
+     American Samoa, and any territory or possession of the United 
+     States.
+
+                 PART I--DISASTER PLANNING AND RESPONSE
+
+     SEC. 11121. DISASTER LOANS TO NONPROFITS.
+
+       Section 7(b) of the Small Business Act (15 U.S.C. 636(b)) 
+     is amended by inserting immediately after paragraph (3) the 
+     following:
+       ``(4) Loans to nonprofits.--In addition to any other loan 
+     authorized by this subsection, the Administrator may make 
+     such loans (either directly or in cooperation with banks or 
+     other lending institutions through agreements to participate 
+     on an immediate or deferred basis) as the Administrator 
+     determines appropriate to a nonprofit organization located or 
+     operating in an area affected by a natural or other disaster, 
+     as determined under paragraph (1) or (2), or providing 
+     services to persons who have evacuated from any such area.''.
+
+     SEC. 11122. DISASTER LOAN AMOUNTS.
+
+       (a) Increased Loan Caps.--Section 7(b) of the Small 
+     Business Act (15 U.S.C. 636(b)) is amended by inserting 
+     immediately after paragraph (4), as added by this Act, the 
+     following:
+       ``(5) Increased loan caps.--
+       ``(A) Aggregate loan amounts.--Except as provided in 
+     subparagraph (B), and notwithstanding any other provision of 
+     law, the aggregate loan amount outstanding and committed to a 
+     borrower under this subsection may not exceed $2,000,000.
+       ``(B) Waiver authority.--The Administrator may, at the 
+     discretion of the Administrator, increase the aggregate loan 
+     amount under subparagraph (A) for loans relating to a 
+     disaster to a level established by the Administrator, based 
+     on appropriate economic indicators for the region in which 
+     that disaster occurred.''.
+       (b) Disaster Mitigation.--
+       (1) In general.--Section 7(b)(1)(A) of the Small Business 
+     Act (15 U.S.C. 636(b)(1)(A)) is amended by inserting ``of the 
+     aggregate costs of such damage or destruction (whether or not 
+     compensated for by insurance or otherwise)'' after ``20 per 
+     centum''.
+       (2) Effective date.--The amendment made by paragraph (1) 
+     shall apply with respect to a loan or guarantee made after 
+     the date of enactment of this Act.
+       (c) Technical Amendments.--Section 7(b) of the Small 
+     Business Act (15 U.S.C. 636(b)) is amended--
+       (1) in the matter preceding paragraph (1), by striking 
+     ``the, Administration'' and inserting ``the Administration'';
+       (2) in paragraph (2)(A), by striking ``Disaster Relief and 
+     Emergency Assistance Act'' and inserting ``Robert T. Stafford 
+     Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 
+     et seq.) (in this subsection referred to as a `major 
+     disaster')''; and
+       (3) in the undesignated matter at the end--
+       (A) by striking ``, (2), and (4)'' and inserting ``and 
+     (2)''; and
+       (B) by striking ``, (2), or (4)'' and inserting ``(2)''.
+
+     SEC. 11123. SMALL BUSINESS DEVELOPMENT CENTER PORTABILITY 
+                   GRANTS.
+
+       Section 21(a)(4)(C)(viii) of the Small Business Act (15 
+     U.S.C. 648(a)(4)(C)(viii)) is amended--
+       (1) in the first sentence, by striking ``as a result of a 
+     business or government facility down sizing or closing, which 
+     has resulted in the loss of jobs or small business 
+     instability'' and inserting ``due to events that have 
+     resulted or will result in, business or government facility 
+     downsizing or closing''; and
+       (2) by adding at the end ``At the discretion of the 
+     Administrator, the Administrator may make an award greater 
+     than $100,000 to a recipient to accommodate extraordinary 
+     occurrences having a catastrophic impact on the small 
+     business concerns in a community.''.
+
+     SEC. 11124. ASSISTANCE TO OUT-OF-STATE BUSINESSES.
+
+       Section 21(b)(3) of the Small Business Act (15 U.S.C. 
+     648(b)(3)) is amended--
+       (1) by striking ``At the discretion'' and inserting the 
+     following: ``Small business development centers.--
+
+[[Page S15663]]
+
+       ``(A) In general.--At the discretion''; and
+       (2) by adding at the end the following:
+       ``(B) During disasters.--
+       ``(i) In general.--At the discretion of the Administrator, 
+     the Administrator may authorize a small business development 
+     center to provide such assistance to small business concerns 
+     located outside of the State, without regard to geographic 
+     proximity, if the small business concerns are located in a 
+     disaster area declared under section 7(b)(2)(A).
+       ``(ii) Continuity of services.--A small business 
+     development center that provides counselors to an area 
+     described in clause (i) shall, to the maximum extent 
+     practicable, ensure continuity of services in any State in 
+     which such small business development center otherwise 
+     provides services.
+       ``(iii) Access to disaster recovery facilities.--For 
+     purposes of providing disaster recovery assistance under this 
+     subparagraph, the Administrator shall, to the maximum extent 
+     practicable, permit small business development center 
+     personnel to use any site or facility designated by the 
+     Administrator for use to provide disaster recovery 
+     assistance.''.
+
+     SEC. 11125. OUTREACH PROGRAMS.
+
+       (a) In General.--Not later than 30 days after the date of 
+     the declaration of a disaster area, the Administrator may 
+     establish a contracting outreach and technical assistance 
+     program for small business concerns which have had a primary 
+     place of business in, or other significant presence in, such 
+     disaster area.
+       (b) Administrator Action.--The Administrator may carry out 
+     subsection (a) by acting through--
+       (1) the Administration;
+       (2) the Federal agency small business officials designated 
+     under section 15(k)(1) of the Small Business Act (15 U.S.C. 
+     644(k)(1)); or
+       (3) any Federal, State, or local government entity, higher 
+     education institution, procurement technical assistance 
+     center, or private nonprofit organization that the 
+     Administrator may determine appropriate, upon conclusion of a 
+     memorandum of understanding or assistance agreement, as 
+     appropriate, with the Administrator.
+
+     SEC. 11126. SMALL BUSINESS BONDING THRESHOLD.
+
+       (a) In General.--Except as provided in subsection (b), and 
+     notwithstanding any other provision of law, for any 
+     procurement related to a major disaster, the Administrator 
+     may, upon such terms and conditions as the Administrator may 
+     prescribe, guarantee and enter into commitments to guarantee 
+     any surety against loss resulting from a breach of the terms 
+     of a bid bond, payment bond, performance bond, or bonds 
+     ancillary thereto, by a principal on any total work order or 
+     contract amount at the time of bond execution that does not 
+     exceed $5,000,000.
+       (b) Increase of Amount.--Upon request of the head of any 
+     Federal agency other than the Administration involved in 
+     reconstruction efforts in response to a major disaster, the 
+     Administrator may guarantee and enter into a commitment to 
+     guarantee any security against loss under subsection (a) on 
+     any total work order or contract amount at the time of bond 
+     execution that does not exceed $10,000,000.
+
+     SEC. 11127. TERMINATION OF PROGRAM.
+
+       Section 711(c) of the Small Business Competitive 
+     Demonstration Program Act of 1988 (15 U.S.C. 644 note) is 
+     amended by inserting after ``January 1, 1989'' the following: 
+     ``, and shall terminate on the date of enactment of the Small 
+     Business Disaster Response and Loan Improvements Act of 
+     2007''.
+
+     SEC. 11128. INCREASING COLLATERAL REQUIREMENTS.
+
+       Section 7(c)(6) of the Small Business Act (15 U.S.C. 
+     636(c)(6)) is amended by striking ``$10,000 or less'' and 
+     inserting ``$14,000 or less (or such higher amount as the 
+     Administrator determines appropriate in the event of a Small 
+     Business Act catastrophic national disaster declared under 
+     subsection (b)(11))''.
+
+     SEC. 11129. PUBLIC AWARENESS OF DISASTER DECLARATION AND 
+                   APPLICATION PERIODS.
+
+       (a) In General.--Section 7(b) of the Small Business Act (15 
+     U.S.C. 636(b)) is amended by inserting immediately after 
+     paragraph (5), as added by this Act, the following:
+       ``(6) Coordination with fema.--
+       ``(A) In general.--Notwithstanding any other provision of 
+     law, for any disaster (including a Small Business Act 
+     catastrophic national disaster) declared under this 
+     subsection or major disaster, the Administrator, in 
+     consultation with the Administrator of the Federal Emergency 
+     Management Agency, shall ensure, to the maximum extent 
+     practicable, that all application periods for disaster relief 
+     under this Act correspond with application deadlines 
+     established under the Robert T. Stafford Disaster Relief and 
+     Emergency Assistance Act (42 U.S.C. 5121 et seq.), or as 
+     extended by the President.
+       ``(B) Deadlines.--Notwithstanding any other provision of 
+     law, not later than 10 days before the closing date of an 
+     application period for a major disaster (including a Small 
+     Business Act catastrophic national disaster), the 
+     Administrator, in consultation with the Administrator of the 
+     Federal Emergency Management Agency, shall submit to the 
+     Committee on Small Business and Entrepreneurship of the 
+     Senate and the Committee on Small Business of the House of 
+     Representatives a report that includes--
+       ``(i) the deadline for submitting applications for 
+     assistance under this Act relating to that major disaster;
+       ``(ii) information regarding the number of loan 
+     applications and disbursements processed by the Administrator 
+     relating to that major disaster for each day during the 
+     period beginning on the date on which that major disaster was 
+     declared and ending on the date of that report; and
+       ``(iii) an estimate of the number of potential applicants 
+     that have not submitted an application relating to that major 
+     disaster.
+       ``(7) Public awareness of disasters.--If a disaster 
+     (including a Small Business Act catastrophic national 
+     disaster) is declared under this subsection, the 
+     Administrator shall make every effort to communicate through 
+     radio, television, print, and web-based outlets, all relevant 
+     information needed by disaster loan applicants, including--
+       ``(A) the date of such declaration;
+       ``(B) cities and towns within the area of such declaration;
+       ``(C) loan application deadlines related to such disaster;
+       ``(D) all relevant contact information for victim services 
+     available through the Administration (including links to 
+     small business development center websites);
+       ``(E) links to relevant Federal and State disaster 
+     assistance websites, including links to websites providing 
+     information regarding assistance available from the Federal 
+     Emergency Management Agency;
+       ``(F) information on eligibility criteria for 
+     Administration loan programs, including where such 
+     applications can be found; and
+       ``(G) application materials that clearly state the function 
+     of the Administration as the Federal source of disaster loans 
+     for homeowners and renters.''.
+       (b) Marketing and Outreach.--Not later than 90 days after 
+     the date of enactment of this Act, the Administrator shall 
+     create a marketing and outreach plan that--
+       (1) encourages a proactive approach to the disaster relief 
+     efforts of the Administration;
+       (2) makes clear the services provided by the 
+     Administration, including contact information, application 
+     information, and timelines for submitting applications, the 
+     review of applications, and the disbursement of funds;
+       (3) describes the different disaster loan programs of the 
+     Administration, including how they are made available and the 
+     eligibility requirements for each loan program;
+       (4) provides for regional marketing, focusing on disasters 
+     occurring in each region before the date of enactment of this 
+     Act, and likely scenarios for disasters in each such region; 
+     and
+       (5) ensures that the marketing plan is made available at 
+     small business development centers and on the website of the 
+     Administration.
+
+     SEC. 11130. CONSISTENCY BETWEEN ADMINISTRATION REGULATIONS 
+                   AND STANDARD OPERATING PROCEDURES.
+
+       (a) In General.--The Administrator shall, promptly 
+     following the date of enactment of this Act, conduct a study 
+     of whether the standard operating procedures of the 
+     Administration for loans offered under section 7(b) of the 
+     Small Business Act (15 U.S.C. 636(b)) are consistent with the 
+     regulations of the Administration for administering the 
+     disaster loan program.
+       (b) Report.--Not later than 180 days after the date of 
+     enactment of this Act, the Administration shall submit to 
+     Congress a report containing all findings and recommendations 
+     of the study conducted under subsection (a).
+
+     SEC. 11131. PROCESSING DISASTER LOANS.
+
+       (a) Authority for Qualified Private Contractors To Process 
+     Disaster Loans.--Section 7(b) of the Small Business Act (15 
+     U.S.C. 636(b)) is amended by inserting immediately after 
+     paragraph (7), as added by this Act, the following:
+       ``(8) Authority for qualified private contractors.--
+       ``(A) Disaster loan processing.--The Administrator may 
+     enter into an agreement with a qualified private contractor, 
+     as determined by the Administrator, to process loans under 
+     this subsection in the event of a major disaster or a Small 
+     Business Act catastrophic national disaster declared under 
+     paragraph (11), under which the Administrator shall pay the 
+     contractor a fee for each loan processed.
+       ``(B) Loan loss verification services.--The Administrator 
+     may enter into an agreement with a qualified lender or loss 
+     verification professional, as determined by the 
+     Administrator, to verify losses for loans under this 
+     subsection in the event of a major disaster or a Small 
+     Business Act catastrophic national disaster declared under 
+     paragraph (11), under which the Administrator shall pay the 
+     lender or verification professional a fee for each loan for 
+     which such lender or verification professional verifies 
+     losses.''.
+       (b) Coordination of Efforts Between the Administrator and 
+     the Internal Revenue Service To Expedite Loan Processing.--
+     The Administrator and the Commissioner of Internal Revenue 
+     shall, to the maximum extent practicable, ensure that all 
+     relevant and allowable tax records for loan approval are 
+     shared with loan processors in an expedited manner, upon 
+     request by the Administrator.
+
+     SEC. 11132. DEVELOPMENT AND IMPLEMENTATION OF MAJOR DISASTER 
+                   RESPONSE PLAN.
+
+       (a) In General.--Not later than 3 months after the date of 
+     enactment of this Act, the Administrator shall--
+       (1) by rule, amend the 2006 Atlantic hurricane season 
+     disaster response plan of the Administration (in this section 
+     referred to as
+
+[[Page S15664]]
+
+     the ``disaster response plan'') to apply to major disasters; 
+     and
+       (2) submit a report to the Committee on Small Business and 
+     Entrepreneurship of the Senate and the Committee on Small 
+     Business of the House of Representatives detailing the 
+     amendments to the disaster response plan.
+       (b) Contents.--The report required under subsection (a)(2) 
+     shall include--
+       (1) any updates or modifications made to the disaster 
+     response plan since the report regarding the disaster 
+     response plan submitted to Congress on July 14, 2006;
+       (2) a description of how the Administrator plans to utilize 
+     and integrate District Office personnel of the Administration 
+     in the response to a major disaster, including information on 
+     the utilization of personnel for loan processing and loan 
+     disbursement;
+       (3) a description of the disaster scalability model of the 
+     Administration and on what basis or function the plan is 
+     scaled;
+       (4) a description of how the agency-wide Disaster Oversight 
+     Council is structured, which offices comprise its membership, 
+     and whether the Associate Deputy Administrator for 
+     Entrepreneurial Development of the Administration is a 
+     member;
+       (5) a description of how the Administrator plans to 
+     coordinate the disaster efforts of the Administration with 
+     State and local government officials, including 
+     recommendations on how to better incorporate State 
+     initiatives or programs, such as State-administered bridge 
+     loan programs, into the disaster response of the 
+     Administration;
+       (6) recommendations, if any, on how the Administration can 
+     better coordinate its disaster response operations with the 
+     operations of other Federal, State, and local entities;
+       (7) any surge plan for the disaster loan program of the 
+     Administration in effect on or after August 29, 2005 
+     (including surge plans for loss verification, loan 
+     processing, mailroom, customer service or call center 
+     operations, and a continuity of operations plan);
+       (8) the number of full-time equivalent employees and job 
+     descriptions for the planning and disaster response staff of 
+     the Administration;
+       (9) the in-service and preservice training procedures for 
+     disaster response staff of the Administration;
+       (10) information on the logistical support plans of the 
+     Administration (including equipment and staffing needs, and 
+     detailed information on how such plans will be scalable 
+     depending on the size and scope of the major disaster;
+       (11) a description of the findings and recommendations of 
+     the Administrator, if any, based on a review of the response 
+     of the Administration to Hurricane Katrina of 2005, Hurricane 
+     Rita of 2005, and Hurricane Wilma of 2005; and
+       (12) a plan for how the Administrator, in consultation with 
+     the Administrator of the Federal Emergency Management Agency, 
+     will coordinate the provision of accommodations and necessary 
+     resources for disaster assistance personnel to effectively 
+     perform their responsibilities in the aftermath of a major 
+     disaster.
+       (c) Exercises.--Not later than 6 months after the date of 
+     the submission of the report under subsection (a)(2), the 
+     Administrator shall develop and execute simulation exercises 
+     to demonstrate the effectiveness of the amended disaster 
+     response plan required under this section.
+
+     SEC. 11133. DISASTER PLANNING RESPONSIBILITIES.
+
+       (a) Assignment of Small Business Administration Disaster 
+     Planning Responsibilities.--The Administrator shall 
+     specifically assign the disaster planning responsibilities 
+     described in subsection (b) to an employee of the 
+     Administration who--
+       (1) is not an employee of the Office of Disaster Assistance 
+     of the Administration;
+       (2) shall report directly to the Administrator; and
+       (3) has a background and expertise demonstrating 
+     significant experience in the area of disaster planning.
+       (b) Responsibilities.--The responsibilities described in 
+     this subsection are--
+       (1) creating and maintaining the comprehensive disaster 
+     response plan of the Administration;
+       (2) ensuring in-service and pre-service training procedures 
+     for the disaster response staff of the Administration;
+       (3) coordinating and directing Administration training 
+     exercises, including mock disaster responses, with other 
+     Federal agencies; and
+       (4) other responsibilities, as determined by the 
+     Administrator.
+       (c) Report.--Not later than 30 days after the date of 
+     enactment of this Act, the Administrator shall submit to the 
+     Committee on Small Business and Entrepreneurship of the 
+     Senate and the Committee on Small Business of the House of 
+     Representatives a report containing--
+       (1) a description of the actions of the Administrator to 
+     assign an employee under subsection (a);
+       (2) information detailing the background and expertise of 
+     the employee assigned under subsection (a); and
+       (3) information on the status of the implementation of the 
+     responsibilities described in subsection (b).
+
+     SEC. 11134. ADDITIONAL AUTHORITY FOR DISTRICT OFFICES OF THE 
+                   ADMINISTRATION.
+
+       (a) In General.--Section 7(b) of the Small Business Act (15 
+     U.S.C. 636(b)) is amended by inserting immediately after 
+     paragraph (8), as added by this Act, the following:
+       ``(9) Use of district offices.--In the event of a major 
+     disaster, the Administrator may authorize a district office 
+     of the Administration to process loans under paragraph (1) or 
+     (2).''.
+       (b) Designation.--
+       (1) In general.--The Administrator may designate an 
+     employee in each district office of the Administration to act 
+     as a disaster loan liaison between the disaster processing 
+     center and applicants under the disaster loan program of the 
+     Administration.
+       (2) Responsibilities.--Each employee designated under 
+     paragraph (1) shall--
+       (A) be responsible for coordinating and facilitating 
+     communications between applicants under the disaster loan 
+     program of the Administration and disaster loan processing 
+     staff regarding documentation and information required for 
+     completion of an application; and
+       (B) provide information to applicants under the disaster 
+     loan program of the Administration regarding additional 
+     services and benefits that may be available to such 
+     applicants to assist with recovery.
+       (3) Outreach.--In providing outreach to disaster victims 
+     following a declared disaster, the Administrator shall make 
+     disaster victims aware of--
+       (A) any relevant employee designated under paragraph (1); 
+     and
+       (B) how to contact that employee.
+
+     SEC. 11135. ASSIGNMENT OF EMPLOYEES OF THE OFFICE OF DISASTER 
+                   ASSISTANCE AND DISASTER CADRE.
+
+       (a) In General.--Section 7(b) of the Small Business Act (15 
+     U.S.C. 636(b)) is amended by inserting immediately after 
+     paragraph (9), as added by this Act, the following:
+       ``(10) Disaster assistance employees.--
+       ``(A) In general.--In carrying out this section, the 
+     Administrator may, where practicable, ensure that the number 
+     of full-time equivalent employees--
+       ``(i) in the Office of the Disaster Assistance is not fewer 
+     than 800; and
+       ``(ii) in the Disaster Cadre of the Administration is not 
+     fewer than 750.
+       ``(B) Report.--In carrying out this subsection, if the 
+     number of full-time employees for either the Office of 
+     Disaster Assistance or the Disaster Cadre of the 
+     Administration is below the level described in subparagraph 
+     (A) for that office, not later than 21 days after the date on 
+     which that staffing level decreased below the level described 
+     in subparagraph (A), the Administrator shall submit to the 
+     Committee on Appropriations and the Committee on Small 
+     Business and Entrepreneurship of the Senate and the Committee 
+     on Appropriations and Committee on Small Business of the 
+     House of Representatives, a report--
+       ``(i) detailing staffing levels on that date;
+       ``(ii) requesting, if practicable and determined 
+     appropriate by the Administrator, additional funds for 
+     additional employees; and
+       ``(iii) containing such additional information, as 
+     determined appropriate by the Administrator.''.
+
+                       PART II--DISASTER LENDING
+
+     SEC. 11141. SMALL BUSINESS ACT CATASTROPHIC NATIONAL DISASTER 
+                   DECLARATION.
+
+       Section 7(b) of the Small Business Act (15 U.S.C. 636(b)) 
+     is amended by inserting immediately after paragraph (10), as 
+     added by this Act, the following:
+       ``(11) Small business act catastrophic national 
+     disasters.--
+       ``(A) In general.--The President may make a Small Business 
+     Act catastrophic national disaster declaration in accordance 
+     with this paragraph.
+       ``(B) Promulgation of rules.--
+       ``(i) In general.--Not later than 6 months after the date 
+     of enactment of this paragraph, the Administrator, with the 
+     concurrence of the Secretary of Homeland Security and the 
+     Administrator of the Federal Emergency Management Agency, 
+     shall promulgate regulations establishing a threshold for a 
+     Small Business Act catastrophic national disaster 
+     declaration.
+       ``(ii) Considerations.--In promulgating the regulations 
+     required under clause (i), the Administrator shall establish 
+     a threshold that--
+
+       ``(I) requires that the incident for which the President 
+     declares a Small Business Act catastrophic national disaster 
+     declaration under this paragraph has resulted in 
+     extraordinary levels of casualties or damage or disruption 
+     severely affecting the population (including mass 
+     evacuations), infrastructure, environment, economy, national 
+     morale, or government functions in an area and the disaster 
+     should be similar in size and scope to the events relating to 
+     the terrorist attack of September 11, 2001, and the Hurricane 
+     Katrina of 2005;
+       ``(II) requires that the President declares a major 
+     disaster before making a Small Business Act catastrophic 
+     national disaster declaration under this paragraph;
+       ``(III) requires consideration of--
+
+       ``(aa) the dollar amount per capita of damage to the State, 
+     its political subdivisions, or a region;
+       ``(bb) the number of small business concerns damaged, 
+     physically or economically, as a direct result of the event;
+       ``(cc) the number of individuals and households displaced 
+     from their predisaster residences by the event;
+       ``(dd) the severity of the impact on employment rates in 
+     the State, its political subdivisions, or a region;
+       ``(ee) the anticipated length and difficulty of the 
+     recovery process;
+
+[[Page S15665]]
+
+       ``(ff) whether the events leading to the relevant major 
+     disaster declaration are of an unusually large and calamitous 
+     nature that is orders of magnitude larger than for an average 
+     major disaster; and
+       ``(gg) any other factor determined relevant by the 
+     Administrator.
+       ``(C) Authorization.--If the President makes a Small 
+     Business Act catastrophic national disaster declaration under 
+     this paragraph, the Administrator may make such loans under 
+     this paragraph (either directly or in cooperation with banks 
+     or other lending institutions through agreements to 
+     participate on an immediate or deferred basis) as the 
+     Administrator determines appropriate to small business 
+     concerns located anywhere in the United States that are 
+     economically adversely impacted as a result of that Small 
+     Business Act catastrophic national disaster.
+       ``(D) Loan terms.--A loan under this paragraph shall be 
+     made on the same terms as a loan under paragraph (2).''.
+
+     SEC. 11142. PRIVATE DISASTER LOANS.
+
+       (a) In General.--Section 7 of the Small Business Act (15 
+     U.S.C. 636) is amended--
+       (1) by redesignating subsections (c) and (d) as subsections 
+     (d) and (e), respectively; and
+       (2) by inserting after subsection (b) the following:
+       ``(c) Private Disaster Loans.--
+       ``(1) Definitions.--In this subsection--
+       ``(A) the term `disaster area' means any area for which the 
+     President declared a major disaster (as that term is defined 
+     in section 102 of the Robert T. Stafford Disaster Relief and 
+     Emergency Assistance Act (42 U.S.C. 5122)) that subsequently 
+     results in the President making a Small Business Act 
+     catastrophic national disaster declaration under subsection 
+     (b)(11);
+       ``(B) the term `eligible small business concern' means a 
+     business concern that is--
+       ``(i) a small business concern, as defined in this Act; or
+       ``(ii) a small business concern, as defined in section 103 
+     of the Small Business Investment Act of 1958; and
+       ``(C) the term `qualified private lender' means any 
+     privately-owned bank or other lending institution that the 
+     Administrator determines meets the criteria established under 
+     paragraph (9).
+       ``(2) Authorization.--The Administrator may guarantee 
+     timely payment of principal and interest, as scheduled on any 
+     loan issued by a qualified private lender to an eligible 
+     small business concern located in a disaster area.
+       ``(3) Use of loans.--A loan guaranteed by the Administrator 
+     under this subsection may be used for any purpose authorized 
+     under subsection (b).
+       ``(4) Online applications.--
+       ``(A) Establishment.--The Administrator may establish, 
+     directly or through an agreement with another entity, an 
+     online application process for loans guaranteed under this 
+     subsection.
+       ``(B) Other federal assistance.--The Administrator may 
+     coordinate with the head of any other appropriate Federal 
+     agency so that any application submitted through an online 
+     application process established under this paragraph may be 
+     considered for any other Federal assistance program for 
+     disaster relief.
+       ``(C) Consultation.--In establishing an online application 
+     process under this paragraph, the Administrator shall consult 
+     with appropriate persons from the public and private sectors, 
+     including private lenders.
+       ``(5) Maximum amounts.--
+       ``(A) Guarantee percentage.--The Administrator may 
+     guarantee not more than 85 percent of a loan under this 
+     subsection.
+       ``(B) Loan amounts.--The maximum amount of a loan 
+     guaranteed under this subsection shall be $2,000,000.
+       ``(6) Loan term.--The longest term of a loan for a loan 
+     guaranteed under this subsection shall be--
+       ``(A) 15 years for any loan that is issued without 
+     collateral; and
+       ``(B) 25 years for any loan that is issued with collateral.
+       ``(7) Fees.--
+       ``(A) In general.--The Administrator may not collect a 
+     guarantee fee under this subsection.
+       ``(B) Origination fee.--The Administrator may pay a 
+     qualified private lender an origination fee for a loan 
+     guaranteed under this subsection in an amount agreed upon in 
+     advance between the qualified private lender and the 
+     Administrator.
+       ``(8) Documentation.--A qualified private lender may use 
+     its own loan documentation for a loan guaranteed by the 
+     Administrator, to the extent authorized by the Administrator. 
+     The ability of a lender to use its own loan documentation for 
+     a loan guaranteed under this subsection shall not be 
+     considered part of the criteria for becoming a qualified 
+     private lender under the regulations promulgated under 
+     paragraph (9).
+       ``(9) Implementation regulations.--
+       ``(A) In general.--Not later than 1 year after the date of 
+     enactment of the Small Business Disaster Response and Loan 
+     Improvements Act of 2007, the Administrator shall issue final 
+     regulations establishing permanent criteria for qualified 
+     private lenders.
+       ``(B) Report to congress.--Not later than 6 months after 
+     the date of enactment of the Small Business Disaster Response 
+     and Loan Improvements Act of 2007, the Administrator shall 
+     submit a report on the progress of the regulations required 
+     by subparagraph (A) to the Committee on Small Business and 
+     Entrepreneurship of the Senate and the Committee on Small 
+     Business of the House of Representatives.
+       ``(10) Authorization of appropriations.--
+       ``(A) In general.--Amounts necessary to carry out this 
+     subsection shall be made available from amounts appropriated 
+     to the Administration to carry out subsection (b).
+       ``(B) Authority to reduce interest rates.--Funds 
+     appropriated to the Administration to carry out this 
+     subsection, may be used by the Administrator, to the extent 
+     available, to reduce the rate of interest for any loan 
+     guaranteed under this subsection by not more than 3 
+     percentage points.
+       ``(11) Purchase of loans.--The Administrator may enter into 
+     an agreement with a qualified private lender to purchase any 
+     loan issued under this subsection.''.
+       (b) Effective Date.--The amendments made by this section 
+     shall apply to disasters declared under section 7(b)(2) of 
+     the Small Business Act (631 U.S.C. 636(b)(2)) before, on, or 
+     after the date of enactment of this Act.
+
+     SEC. 11143. TECHNICAL AND CONFORMING AMENDMENTS.
+
+       The Small Business Act (15 U.S.C. 631 et seq.) is amended--
+       (1) in section 4(c)--
+       (A) in paragraph (1), by striking ``7(c)(2)'' and inserting 
+     ``7(d)(2)''; and
+       (B) in paragraph (2)--
+       (i) by striking ``7(c)(2)'' and inserting ``7(d)(2)''; and
+       (ii) by striking ``7(e),''; and
+       (2) in section 7(b), in the undesignated matter following 
+     paragraph (3)--
+       (A) by striking ``That the provisions of paragraph (1) of 
+     subsection (c)'' and inserting ``That the provisions of 
+     paragraph (1) of subsection (d)''; and
+       (B) by striking ``Notwithstanding the provisions of any 
+     other law the interest rate on the Administration's share of 
+     any loan made under subsection (b) except as provided in 
+     subsection (c),'' and inserting ``Notwithstanding any other 
+     provision of law, and except as provided in subsection (d), 
+     the interest rate on the Administration's share of any loan 
+     made under subsection (b)''.
+
+     SEC. 11144. EXPEDITED DISASTER ASSISTANCE LOAN PROGRAM.
+
+       (a) Definitions.--In this section--
+       (1) the term ``immediate disaster assistance'' means 
+     assistance provided during the period beginning on the date 
+     on which the President makes a Small Business Act 
+     catastrophic disaster declaration under paragraph (11) of 
+     section 7(b) of the Small Business Act (15 U.S.C. 636(b)), as 
+     added by this Act, and ending on the date that an impacted 
+     small business concern is able to secure funding through 
+     insurance claims, Federal assistance programs, or other 
+     sources; and
+       (2) the term ``program'' means the expedited disaster 
+     assistance business loan program established under subsection 
+     (b).
+       (b) Creation of Program.--The Administrator shall take such 
+     administrative action as is necessary to establish and 
+     implement an expedited disaster assistance business loan 
+     program to provide small business concerns with immediate 
+     disaster assistance under paragraph (11) of section 7(b) of 
+     the Small Business Act (15 U.S.C. 636(b)), as added by this 
+     Act.
+       (c) Consultation Required.--In establishing the program, 
+     the Administrator shall consult with--
+       (1) appropriate personnel of the Administration (including 
+     District Office personnel of the Administration);
+       (2) appropriate technical assistance providers (including 
+     small business development centers);
+       (3) appropriate lenders and credit unions;
+       (4) the Committee on Small Business and Entrepreneurship of 
+     the Senate; and
+       (5) the Committee on Small Business of the House of 
+     Representatives.
+       (d) Rules.--
+       (1) In general.--Not later than 1 year after the date of 
+     enactment of this Act, the Administrator shall issue rules in 
+     final form establishing and implementing the program in 
+     accordance with this section. Such rules shall apply as 
+     provided for in this section, beginning 90 days after their 
+     issuance in final form.
+       (2) Contents.--The rules promulgated under paragraph (1) 
+     shall--
+       (A) identify whether appropriate uses of funds under the 
+     program may include--
+       (i) paying employees;
+       (ii) paying bills and other financial obligations;
+       (iii) making repairs;
+       (iv) purchasing inventory;
+       (v) restarting or operating a small business concern in the 
+     community in which it was conducting operations prior to the 
+     declared disaster, or to a neighboring area, county, or 
+     parish in the disaster area; or
+       (vi) covering additional costs until the small business 
+     concern is able to obtain funding through insurance claims, 
+     Federal assistance programs, or other sources; and
+       (B) set the terms and conditions of any loan made under the 
+     program, subject to paragraph (3).
+       (3) Terms and conditions.--A loan made by the 
+     Administration under this section--
+       (A) shall be for not more than $150,000;
+       (B) shall be a short-term loan, not to exceed 180 days, 
+     except that the Administrator may extend such term as the 
+     Administrator determines necessary or appropriate on a case-
+     by-case basis;
+       (C) shall have an interest rate not to exceed 1 percentage 
+     point above the prime rate of interest that a private lender 
+     may charge;
+
+[[Page S15666]]
+
+       (D) shall have no prepayment penalty;
+       (E) may only be made to a borrower that meets the 
+     requirements for a loan under section 7(b) of the Small 
+     Business Act (15 U.S.C. 636(b));
+       (F) may be refinanced as part of any subsequent disaster 
+     assistance provided under section 7(b) of the Small Business 
+     Act;
+       (G) may receive expedited loss verification and loan 
+     processing, if the applicant is--
+       (i) a major source of employment in the disaster area 
+     (which shall be determined in the same manner as under 
+     section 7(b)(3)(B) of the Small Business Act (15 U.S.C. 
+     636(b)(3)(B))); or
+       (ii) vital to recovery efforts in the region (including 
+     providing debris removal services, manufactured housing, or 
+     building materials); and
+       (H) shall be subject to such additional terms as the 
+     Administrator determines necessary or appropriate.
+       (e) Report to Congress.--Not later than 5 months after the 
+     date of enactment of this Act, the Administrator shall report 
+     to the Committee on Small Business and Entrepreneurship of 
+     the Senate and the Committee on Small Business of the House 
+     of Representatives on the progress of the Administrator in 
+     establishing the program.
+       (f) Authorization.--There are authorized to be appropriated 
+     to the Administrator such sums as are necessary to carry out 
+     this section.
+
+     SEC. 11145. HUBZONES.
+
+       (a) In General.--Section 3(p) of the Small Business Act (15 
+     U.S.C. 632(p)) is amended--
+       (1) in paragraph (1)--
+       (A) in subparagraph (D), by striking ``or'';
+       (B) in subparagraph (E), by striking the period at the end 
+     and inserting a semicolon; and
+       (C) by adding at the end the following:
+       ``(F) areas in which the President has declared a major 
+     disaster (as that term is defined in section 102 of the 
+     Robert T. Stafford Disaster Relief and Emergency Assistance 
+     Act (42 U.S.C. 5122)) as a result of Hurricane Katrina of 
+     August 2005 or Hurricane Rita of September 2005, during the 
+     time period described in paragraph (8); or
+       ``(G) Small Business Act catastrophic national disaster 
+     areas.'';
+       (2) in paragraph (4), by adding at the end the following:
+       ``(E) Small business act catastrophic national disaster 
+     area.--
+       ``(i) In general.--The term `Small Business Act 
+     catastrophic national disaster area' means an area--
+
+       ``(I) affected by a Small Business Act catastrophic 
+     national disaster declared under section 7(b)(11), during the 
+     time period described in clause (ii); and
+       ``(II) for which the Administrator determines that 
+     designation as a HUBZone would substantially contribute to 
+     the reconstruction and recovery effort in that area.
+
+       ``(ii) Time period.--The time period for the purposes of 
+     clause (i)--
+
+       ``(I) shall be the 2-year period beginning on the date that 
+     the applicable Small Business Act catastrophic national 
+     disaster was declared under section 7(b)(11); and
+       ``(II) may, at the discretion of the Administrator, be 
+     extended to be the 3-year period beginning on the date 
+     described in subclause (I).''; and
+
+       (3) by adding at the end the following:
+       ``(8) Time period.--The time period for the purposes of 
+     paragraph (1)(F)--
+       ``(A) shall be the 2-year period beginning on the later of 
+     the date of enactment of this paragraph and August 29, 2007; 
+     and
+       ``(B) may, at the discretion of the Administrator, be 
+     extended to be the 3-year period beginning on the later of 
+     the date of enactment of this paragraph and August 29, 
+     2007.''.
+       (b) Tolling of Graduation.--Section 7(j)(10)(C) of the 
+     Small Business Act (15 U.S.C. 636(j)(10)(C)) is amended by 
+     adding at the end the following:
+       ``(iii)(I) For purposes of this subparagraph, if the 
+     Administrator designates an area as a HUBZone under section 
+     3(p)(4)(E)(i)(II), the Administrator shall not count the time 
+     period described in subclause (II) of this clause for any 
+     small business concern--
+       ``(aa) that is participating in any program, activity, or 
+     contract under section 8(a); and
+       ``(bb) the principal place of business of which is located 
+     in that area.
+       ``(II) The time period for purposes of subclause (I)--
+       ``(aa) shall be the 2-year period beginning on the date 
+     that the applicable Small Business Act catastrophic national 
+     disaster was declared under section 7(b)(11); and
+       ``(bb) may, at the discretion of the Administrator, be 
+     extended to be the 3-year period beginning on the date 
+     described in item (aa).''.
+       (c) Study of HUBZone Disaster Areas.--Not later than 1 year 
+     after the date of enactment of this Act, the Comptroller 
+     General of the United States shall submit a report to the 
+     Committee on Small Business and Entrepreneurship of the 
+     Senate and the Committee on Small Business of the House of 
+     Representatives evaluating the designation by the 
+     Administrator of Small Business Act catastrophic national 
+     disaster areas, as that term is defined in section 3(p)(4)(E) 
+     of the Small Business Act (as added by this Act), as 
+     HUBZones.
+
+                PART III--DISASTER ASSISTANCE OVERSIGHT
+
+     SEC. 11161. CONGRESSIONAL OVERSIGHT.
+
+       (a) Monthly Accounting Report to Congress.--
+       (1) Reporting requirements.--Not later than the fifth 
+     business day of each month during the applicable period for a 
+     major disaster, the Administrator shall provide to the 
+     Committee on Small Business and Entrepreneurship and the 
+     Committee on Appropriations of the Senate and to the 
+     Committee on Small Business and the Committee on 
+     Appropriations of the House of Representatives a report on 
+     the operation of the disaster loan program authorized under 
+     section 7 of the Small Business Act (15 U.S.C. 636) for that 
+     major disaster during the preceding month.
+       (2) Contents.--Each report under paragraph (1) shall 
+     include--
+       (A) the daily average lending volume, in number of loans 
+     and dollars, and the percent by which each category has 
+     increased or decreased since the previous report under 
+     paragraph (1);
+       (B) the weekly average lending volume, in number of loans 
+     and dollars, and the percent by which each category has 
+     increased or decreased since the previous report under 
+     paragraph (1);
+       (C) the amount of funding spent over the month for loans, 
+     both in appropriations and program level, and the percent by 
+     which each category has increased or decreased since the 
+     previous report under paragraph (1);
+       (D) the amount of funding available for loans, both in 
+     appropriations and program level, and the percent by which 
+     each category has increased or decreased since the previous 
+     report under paragraph (1), noting the source of any 
+     additional funding;
+       (E) an estimate of how long the available funding for such 
+     loans will last, based on the spending rate;
+       (F) the amount of funding spent over the month for staff, 
+     along with the number of staff, and the percent by which each 
+     category has increased or decreased since the previous report 
+     under paragraph (1);
+       (G) the amount of funding spent over the month for 
+     administrative costs, and the percent by which such spending 
+     has increased or decreased since the previous report under 
+     paragraph (1);
+       (H) the amount of funding available for salaries and 
+     expenses combined, and the percent by which such funding has 
+     increased or decreased since the previous report under 
+     paragraph (1), noting the source of any additional funding; 
+     and
+       (I) an estimate of how long the available funding for 
+     salaries and expenses will last, based on the spending rate.
+       (b) Daily Disaster Updates to Congress for Presidentially 
+     Declared Disasters.--
+       (1) In general.--Each day during a disaster update period, 
+     excluding Federal holidays and weekends, the Administration 
+     shall provide to the Committee on Small Business and 
+     Entrepreneurship of the Senate and to the Committee on Small 
+     Business of the House of Representatives a report on the 
+     operation of the disaster loan program of the Administration 
+     for the area in which the President declared a major 
+     disaster.
+       (2) Contents.--Each report under paragraph (1) shall 
+     include--
+       (A) the number of Administration staff performing loan 
+     processing, field inspection, and other duties for the 
+     declared disaster, and the allocations of such staff in the 
+     disaster field offices, disaster recovery centers, workshops, 
+     and other Administration offices nationwide;
+       (B) the daily number of applications received from 
+     applicants in the relevant area, as well as a breakdown of 
+     such figures by State;
+       (C) the daily number of applications pending application 
+     entry from applicants in the relevant area, as well as a 
+     breakdown of such figures by State;
+       (D) the daily number of applications withdrawn by 
+     applicants in the relevant area, as well as a breakdown of 
+     such figures by State;
+       (E) the daily number of applications summarily declined by 
+     the Administration from applicants in the relevant area, as 
+     well as a breakdown of such figures by State;
+       (F) the daily number of applications declined by the 
+     Administration from applicants in the relevant area, as well 
+     as a breakdown of such figures by State;
+       (G) the daily number of applications in process from 
+     applicants in the relevant area, as well as a breakdown of 
+     such figures by State;
+       (H) the daily number of applications approved by the 
+     Administration from applicants in the relevant area, as well 
+     as a breakdown of such figures by State;
+       (I) the daily dollar amount of applications approved by the 
+     Administration from applicants in the relevant area, as well 
+     as a breakdown of such figures by State;
+       (J) the daily amount of loans dispersed, both partially and 
+     fully, by the Administration to applicants in the relevant 
+     area, as well as a breakdown of such figures by State;
+       (K) the daily dollar amount of loans disbursed, both 
+     partially and fully, from the relevant area, as well as a 
+     breakdown of such figures by State;
+       (L) the number of applications approved, including dollar 
+     amount approved, as well as applications partially and fully 
+     disbursed, including dollar amounts, since the last report 
+     under paragraph (1); and
+       (M) the declaration date, physical damage closing date, 
+     economic injury closing date, and number of counties included 
+     in the declaration of a major disaster.
+       (c) Notice of the Need for Supplemental Funds.--On the same 
+     date that the Administrator notifies any committee of the 
+     Senate or the House of Representatives that supplemental 
+     funding is necessary for the disaster
+
+[[Page S15667]]
+
+     loan program of the Administration in any fiscal year, the 
+     Administrator shall notify in writing the Committee on Small 
+     Business and Entrepreneurship of the Senate and the Committee 
+     on Small Business of the House of Representatives regarding 
+     the need for supplemental funds for that loan program.
+       (d) Report on Contracting.--
+       (1) In general.--Not later than 6 months after the date on 
+     which the President declares a major disaster, and every 6 
+     months thereafter until the date that is 18 months after the 
+     date on which the major disaster was declared, the 
+     Administrator shall submit a report to the Committee on Small 
+     Business and Entrepreneurship of the Senate and to the 
+     Committee on Small Business of the House of Representatives 
+     regarding Federal contracts awarded as a result of that major 
+     disaster.
+       (2) Contents.--Each report submitted under paragraph (1) 
+     shall include--
+       (A) the total number of contracts awarded as a result of 
+     that major disaster;
+       (B) the total number of contracts awarded to small business 
+     concerns as a result of that major disaster;
+       (C) the total number of contracts awarded to women and 
+     minority-owned businesses as a result of that major disaster; 
+     and
+       (D) the total number of contracts awarded to local 
+     businesses as a result of that major disaster.
+       (e) Report on Loan Approval Rate.--
+       (1) In general.--Not later than 6 months after the date of 
+     enactment of this Act, the Administrator shall submit a 
+     report to the Committee on Small Business and 
+     Entrepreneurship of the Senate and the Committee on Small 
+     Business of the House of Representatives detailing how the 
+     Administration can improve the processing of applications 
+     under the disaster loan program of the Administration.
+       (2) Contents.--The report submitted under paragraph (1) 
+     shall include--
+       (A) recommendations, if any, regarding--
+       (i) staffing levels during a major disaster;
+       (ii) how to improve the process for processing, approving, 
+     and disbursing loans under the disaster loan program of the 
+     Administration, to ensure that the maximum assistance is 
+     provided to victims in a timely manner;
+       (iii) the viability of using alternative methods for 
+     assessing the ability of an applicant to repay a loan, 
+     including the credit score of the applicant on the day before 
+     the date on which the disaster for which the applicant is 
+     seeking assistance was declared;
+       (iv) methods, if any, for the Administration to expedite 
+     loss verification and loan processing of disaster loans 
+     during a major disaster for businesses affected by, and 
+     located in the area for which the President declared, the 
+     major disaster that are a major source of employment in the 
+     area or are vital to recovery efforts in the region 
+     (including providing debris removal services, manufactured 
+     housing, or building materials);
+       (v) legislative changes, if any, needed to implement 
+     findings from the Accelerated Disaster Response Initiative of 
+     the Administration; and
+       (vi) a description of how the Administration plans to 
+     integrate and coordinate the response to a major disaster 
+     with the technical assistance programs of the Administration; 
+     and
+       (B) the plans of the Administrator for implementing any 
+     recommendation made under subparagraph (A).
+       At the end of subtitle D of title VII, add the following:
+
+     SEC. 73__. ENHANCED USE LEASE AUTHORITY PILOT PROGRAM.
+
+       Title III of the Department of Agriculture Reorganization 
+     Act of 1994 is amended by adding after section 309 (as added 
+     by section 7402) the following:
+
+     ``SEC. 310. ENHANCED USE LEASE AUTHORITY PILOT PROGRAM.
+
+       ``(a) Establishment.--To enhance the use of real property 
+     administered by agencies of the Department, the Secretary may 
+     establish a pilot program, in accordance with this section, 
+     at the Henry A. Wallace Beltsville Agricultural Research 
+     Center of the Agricultural Research Service and the National 
+     Agricultural Library to lease property of the Center or the 
+     Library to any individual or entity, including agencies or 
+     instrumentalities of State or local governments.
+       ``(b) Requirements.--
+       ``(1) In general.--Notwithstanding chapter 5 of subtitle I 
+     of title 40, United States Code, the Secretary may lease real 
+     property at the Beltsville Agricultural Research Center or 
+     the National Agricultural Library in accordance with such 
+     terms and conditions as the Secretary may prescribe, if the 
+     Secretary determines that the lease--
+       ``(A) is consistent with, and will not adversely affect, 
+     the mission of the Department agency administering the 
+     property;
+       ``(B) will enhance the use of the property;
+       ``(C) will not permit any portion of Department agency 
+     property or any facility of the Department to be used for 
+     retail, wholesale, commercial, or residential development;
+       ``(D) will not provide authority for the development or 
+     improvement of any new property or facility by any Department 
+     agency; and
+       ``(E) will not include any property or facility required 
+     for any Department agency purpose without prior written 
+     authority.
+       ``(2) Term.--The term of the lease under this section shall 
+     not exceed 50 years.
+       ``(3) Consideration.--
+       ``(A) In general.--Consideration provided for a lease under 
+     this section shall be--
+       ``(i) in an amount equal to fair market value, as 
+     determined by the Secretary; and
+       ``(ii) in the form of cash.
+       ``(B) Use of funds.--
+       ``(i) In general.--Consideration provided for a lease under 
+     this section shall be--
+
+       ``(I) deposited in a capital asset account to be 
+     established by the Secretary; and
+       ``(II) available until expended, without further 
+     appropriation, for maintenance, capital revitalization, and 
+     improvements of the Department properties and facilities 
+     covered by the lease.
+
+       ``(ii) Budgetary treatment.--For purposes of the budget, 
+     the amounts described in clause (i) shall not be treated as a 
+     receipt of any Department agency or any other agency leasing 
+     property under this section.
+       ``(4) Costs.--The lessee shall cover all costs associated 
+     with a lease under this section, including the cost of--
+       ``(A) the project to be carried out on property or at a 
+     facility covered by the lease;
+       ``(B) provision and administration of the lease;
+       ``(C) construction of any applicable real property;
+       ``(D) provision of applicable utilities; and
+       ``(E) any other facility cost normally associated with the 
+     operation of a leased facility.
+       ``(5) Prohibition of use of appropriations.--The Secretary 
+     shall not use any funds made available to the Secretary in an 
+     appropriations Act for the construction or operating costs of 
+     any property or facility covered by a lease under this 
+     section.
+       ``(c) Effect of Other Laws.--
+       ``(1) Utilization.--Property that is leased pursuant to 
+     this section shall not be considered to be unutilized or 
+     underutilized for purposes of section 501 of the Stewart B. 
+     McKinney Homeless Assistance Act (42 U.S.C. 11411).
+       ``(2) Disposal.--Property at the Beltsville Agricultural 
+     Research Center or the National Agricultural Library that is 
+     leased pursuant to this section shall not be considered to be 
+     disposed of by sale, lease, rental, excessing, or surplusing 
+     for purposes of section 523 of Public Law 100-202 (101 Stat. 
+     1329-417).
+       ``(d) Reports.--
+       ``(1) Fiscal years 2008 through 2013.--For each of fiscal 
+     years 2008 through 2013, the Secretary shall submit to the 
+     Committee on Agriculture of the House of Representatives and 
+     the Committee on Agriculture, Nutrition, and Forestry of the 
+     Senate an annual report describing the implementation of the 
+     pilot program under this section during the preceding fiscal 
+     year, including--
+       ``(A) a copy of each lease entered into pursuant to this 
+     section;
+       ``(B) an assessment by the Secretary of the success of the 
+     pilot program in promoting the mission of the Beltsville 
+     Agricultural Research Center and the National Agricultural 
+     Library; and
+       ``(C) recommendations regarding whether the pilot program 
+     should be expanded or improved with respect to other 
+     Department activities.
+       ``(2) Fiscal year 2014 and thereafter.--For fiscal year 
+     2014 and every 5 fiscal years thereafter, the Secretary shall 
+     submit to the Committee on Agriculture of the House of 
+     Representatives and the Committee on Agriculture, Nutrition, 
+     and Forestry of the Senate a report described in paragraph 
+     (1) relating to the preceding 5-fiscal-year period.''.
+       On page 1362, between lines 19 and 20, insert the 
+     following:
+
+     SEC. 11072. REGULATIONS TO IMPROVE MANAGEMENT AND OVERSIGHT 
+                   OF CERTAIN REGULATED ARTICLES.
+
+       (a) In General.--Not later than 18 months after the date of 
+     enactment of this Act, the Secretary shall promulgate 
+     regulations--
+       (1) to implement, as appropriate, each issue identified in 
+     the document entitled ``Lessons Learned and Revisions under 
+     Consideration for APHIS' Biotechnology Framework'', dated 
+     October 4, 2007; and
+       (2) to improve the management and oversight of articles 
+     regulated under the Plant Protection Act (7 U.S.C. 7701 et 
+     seq.).
+       (b) Inclusions.--In promulgating regulations under 
+     subsection (a), the Secretary shall include provisions that 
+     are designed to enhance--
+       (1) the quality and completeness of records;
+       (2) the availability of representative samples;
+       (3) the maintenance of identity and control in the event of 
+     an unauthorized release;
+       (4) corrective actions in the event of an unauthorized 
+     release;
+       (5) protocols for conducting molecular forensics;
+       (6) clarity in contractual agreements;
+       (7) the use of the latest scientific techniques for 
+     isolation and confinement;
+       (8) standards for quality management systems and effective 
+     research (including laboratory, greenhouse, and field 
+     research); and
+       (9) the design of electronic permits to store documents and 
+     other information relating to the permit and notification 
+     processes.
+       (c) Consideration.--In promulgating regulations under 
+     subsection (a), the Secretary shall consider--
+       (1) establishing--
+       (A) a system of risk-based categories to classify each 
+     regulated article;
+       (B) a means to identify regulated articles (including the 
+     retention of seed samples); and
+       (C) standards for isolation and containment distances; and
+       (2) requiring permit holders--
+
+[[Page S15668]]
+
+       (A) to maintain a positive chain of custody;
+       (B) to provide for the maintenance of records;
+       (C) to provide for the accounting of material;
+       (D) to conduct periodic audits;
+       (E) to establish an appropriate training program;
+       (F) to provide contingency and corrective action plans; and
+       (G) to submit reports as the Secretary considers to be 
+     appropriate.
+       On page 1362, between lines 19 and 20, insert the 
+     following:
+
+     SEC. 11072. INVASIVE PEST AND DISEASE EMERGENCY RESPONSE 
+                   FUNDING CLARIFICATION.
+
+       The Secretary may provide funds on an emergency basis to 
+     States to assist the States in combating invasive pest and 
+     disease outbreaks for any appropriate period of years after 
+     the date of initial detection by a State of an invasive pest 
+     or disease outbreak, as determined by the Secretary.
+       On page 972, strike line 2 and insert the following:
+
+     on reproductive fitness and related measures.
+       ``(56) Brucellosis control and eradication; bighorn and 
+     domestic sheep disease mechanisms.--Research and extension 
+     grants may be made available--
+       ``(A) for the conduct of research relating to the 
+     development of vaccines and vaccine delivery systems to 
+     effectively control and eliminate brucellosis in wildlife;
+       ``(B) to assist with the controlling of the spread of 
+     brucellosis from wildlife to domestic animals in the greater 
+     Yellowstone area; and
+       ``(C) to conduct research relating to the health status 
+     (including the presence of infectious diseases) of bighorn 
+     and domestic sheep under range conditions.'';
+       On page 927, strike lines 9 through 16 and insert the 
+     following:
+       ``(c) Association Designation.--
+       ``(1) In general.--The Secretary shall designate 
+     collaborating farm management associations to collaborate 
+     with the National Farm Management Center established under 
+     this section.
+       ``(2) Selection.--
+       ``(A) In general.--The Secretary shall request proposals 
+     from farm management associations and make selections in 
+     consultation with the National Farm Management Center.
+       ``(B) National scope.--The National Farm Management Center 
+     and the Secretary shall encourage the establishment, 
+     nomination, and designation of qualified farm management 
+     associations to provide farmers, ranchers, and other 
+     agricultural operators in each State with access to the 
+     training and benchmarking tools described in this section.
+       ``(3) Selection and designation criteria.--The designation 
+     of each collaborating farm management association shall be 
+     based upon--
+       ``(A) in the case of an established farm management 
+     association in a State or geographic region--
+       ``(i) working with farmers, ranchers, and other 
+     agricultural operators to improve their financial management 
+     and business profitability; and
+       ``(ii) contributing farm, ranch, and other agricultural 
+     operation financial analysis data to a publicly available 
+     online benchmarking database; and
+       ``(B) in the case in which there is no established farm 
+     management association in a particular State or geographic 
+     region, a farm management association may be designated as a 
+     collaborating farm management association if the National 
+     Farm Management Center and the Secretary determine that there 
+     is a strong likelihood that the association will meet the 
+     ongoing requirements described in subsection (d).
+       ``(d) Association Requirements.--Each collaborating farm 
+     management association designated under subsection (c) and 
+     receiving funds under this section shall--
+       ``(1) maintain a farm management education and training 
+     program that is open to all agricultural producers;
+       ``(2) provide individualized education to farmers, 
+     ranchers, and other agricultural operators on accounting, 
+     financial planning, and business management;
+       ``(3) provide an annual farm financial analysis to each 
+     participating farmer, rancher, or other agricultural 
+     operator;
+       ``(4) use standardized farm business analysis procedures as 
+     specified by the National Farm Management Center;
+       ``(5) contribute farm and ranch financial analysis data to 
+     the public online benchmarking database in a form and manner 
+     determined by the National Farm Management Center; and
+       ``(6) facilitate and encourage producers' sign-up for 
+     ongoing multi-year participation in the training and 
+     benchmarking programs.
+       ``(e) Limitation on Indirect Costs.--Indirect costs charged 
+     against funds provided under this section shall not be 
+     charged at a rate in excess of the rate at which the 
+     applicable institution charged, or could have charged, 
+     indirect costs during fiscal year 2007 against funds received 
+     as described in section 1462 of the National Agricultural 
+     Research, Extension, and Teaching Policy Act of 1977 (7 
+     U.S.C. 3310).
+       ``(f) Administrative Expenses.--Not more than 8 percent of 
+     the funds made available to carry out this section may be 
+     used for the payment of administrative expenses of the 
+     Department of Agriculture in carrying out this section.
+       ``(g) Funding.--The Secretary shall make available each 
+     fiscal year not less than 25 percent of funds appropriated 
+     under subsection (h) to the National Farm Management Center 
+     designated under subsection (b).
+       ``(h) Authorization of Appropriations.--There are 
+     authorized to be appropriated such sums as are necessary to 
+     carry out this section.''.
+       Strike section 11070 and insert the following:
+
+     SEC. 11070. REPORT ON STORED QUANTITIES OF PROPANE.
+
+       (a) Report.--
+       (1) In general.--Not later than 240 days after the date of 
+     enactment of this Act, the Secretary of Homeland Security 
+     (referred to in this section as the ``Secretary'') shall 
+     submit to the Committee on Agriculture, Nutrition, and 
+     Forestry and the Committee on Homeland Security and 
+     Government Affairs of the Senate and the Committee on 
+     Agriculture and the Committee on Homeland Security of the 
+     House of Representatives a report describing the effect of 
+     interim or final regulations issued by the Secretary pursuant 
+     to section 550(a) of the Department of Homeland Security 
+     Appropriations Act, 2007 (6 U.S.C. 121 note; Public Law 109-
+     295), with respect to possession of quantities of propane 
+     that meet or exceed the screening threshold quantity for 
+     propane established in the final rule under that section.
+       (2) Inclusions.--The report under paragraph (1)--
+       (A) shall include, at a minimum, a description of--
+       (i) the number of facilities that completed a top screen 
+     consequence assessment due to possession of quantities of 
+     propane that meet or exceed the listed screening threshold 
+     quantity for propane;
+       (ii) the number of agricultural facilities that completed 
+     the top screen consequence assessment due to possession of 
+     quantities of propane that meet or exceed the listed 
+     screening threshold quantity for propane;
+       (iii) the number of propane facilities initially determined 
+     to be high risk by the Secretary;
+       (iv) the number of propane facilities--
+
+       (I) required to complete a security vulnerability 
+     assessment or a site security plan; or
+       (II) that submit to the Secretary an alternative security 
+     program;
+
+       (v) the number of propane facilities that file an appeal of 
+     a finding under the final rule described in paragraph (1); 
+     and
+       (vi) to the extent available, the average cost of--
+
+       (I) completing a top screen consequence assessment 
+     requirement;
+       (II) completing a security vulnerability assessment; and
+       (III) completing and implementing a site security plan; and
+
+       (B) may include a classified annex, as the Secretary 
+     determines to be appropriate.
+       (b) Educational Outreach.--
+       (1) In general.--Not later than 30 days after the date of 
+     enactment of this Act, the Secretary shall conduct 
+     educational outreach activities for rural facilities that may 
+     be required to complete a top screen consequence assessment 
+     due to possession of propane in a quantity that meets or 
+     exceeds the listed screening threshold quantity for propane.
+       (2) Use of council.--In conducting outreach activities 
+     under paragraph (1), the Secretary may use the Food and 
+     Agricultural Sector Coordinating Council established under 
+     the national infrastructure protection plan to facilitate the 
+     provision of education to rural areas regarding the top 
+     screen consequence assessment requirement.
+       On page 1362, between lines 19 and 20, insert the 
+     following:
+
+     SEC. 11072. PROTECTION OF PETS.
+
+       (a) Short Title.--This section may be cited as the ``Pet 
+     Safety and Protection Act of 2007''.
+       (b) Research Facilities.--Section 7 of the Animal Welfare 
+     Act (7 U.S.C. 2137) is amended to read as follows:
+
+     ``SEC. 7. SOURCES OF DOGS AND CATS FOR RESEARCH FACILITIES.
+
+       ``(a) Definition of Person.--In this section, the term 
+     `person' means any individual, partnership, firm, joint stock 
+     company, corporation, association, trust, estate, pound, 
+     shelter, or other legal entity.
+       ``(b) Use of Dogs and Cats.--No research facility or 
+     Federal research facility may use a dog or cat for research 
+     or educational purposes if the dog or cat was obtained from a 
+     person other than a person described in subsection (d).
+       ``(c) Selling, Donating, or Offering Dogs and Cats.--No 
+     person, other than a person described in subsection (d), may 
+     sell, donate, or offer a dog or cat to any research facility 
+     or Federal research facility.
+       ``(d) Permissible Sources.--A person from whom a research 
+     facility or a Federal research facility may obtain a dog or 
+     cat for research or educational purposes under subsection 
+     (b), and a person who may sell, donate, or offer a dog or cat 
+     to a research facility or a Federal research facility under 
+     subsection (c), shall be--
+       ``(1) a dealer licensed under section 3 that has bred and 
+     raised the dog or cat;
+       ``(2) a publicly owned and operated pound or shelter that--
+       ``(A) is registered with the Secretary;
+       ``(B) is in compliance with section 28(a)(1) and with the 
+     requirements for dealers in subsections (b) and (c) of 
+     section 28; and
+
+[[Page S15669]]
+
+       ``(C) obtained the dog or cat from its legal owner, other 
+     than a pound or shelter;
+       ``(3) a person that is donating the dog or cat and that--
+       ``(A) bred and raised the dog or cat; or
+       ``(B) owned the dog or cat for not less than 1 year 
+     immediately preceding the donation;
+       ``(4) a research facility licensed by the Secretary; and
+       ``(5) a Federal research facility licensed by the 
+     Secretary.
+       ``(e) Penalties.--
+       ``(1) In general.--A person that violates this section 
+     shall be fined $1,000 for each violation.
+       ``(2) Additional penalty.--A penalty under this subsection 
+     shall be in addition to any other applicable penalty.
+       ``(f) No Required Sale or Donation.--Nothing in this 
+     section requires a pound or shelter to sell, donate, or offer 
+     a dog or cat to a research facility or Federal research 
+     facility.
+       ``(g) Limitation.--The Secretary shall phase out, by the 
+     date that is 5 years after the date of enactment of this 
+     subsection, the use of random source dogs and cats from class 
+     B dealers in accordance with a schedule established by the 
+     Secretary.''.
+       (c) Federal Research Facilities.--Section 8 of the Animal 
+     Welfare Act (7 U.S.C. 2138) is amended--
+       (1) by striking ``sec. 8. No department'' and inserting the 
+     following:
+
+     ``SEC. 8. FEDERAL RESEARCH FACILITIES.
+
+       ``Except as provided in section 7, no department'';
+       (2) by striking ``research or experimentation or''; and
+       (3) by striking ``such purposes'' and inserting ``that 
+     purpose''.
+       (d) Certification.--Section 28(b)(1) of the Animal Welfare 
+     Act (7 U.S.C. 2158(b)(1)) is amended by striking ``individual 
+     or entity'' and inserting ``research facility or Federal 
+     research facility''.
+       On page 1362, between lines 19 and 20, insert the 
+     following:
+
+     SEC. 110__. EXEMPTION FROM AQI USER FEES.
+
+       (a) In General.--Notwithstanding any other provision of law 
+     (including regulations), the owner or operator of any 
+     commercial truck described in subsection (b) shall be exempt 
+     from the payment of any agricultural quarantine and 
+     inspection user fee.
+       (b) Commercial Trucks.--A commercial truck referred to in 
+     subsection (a) is a commercial truck that--
+       (1) originates in the State of Alaska and reenters the 
+     customs territory of the United States directly from Canada; 
+     or
+       (2) originates in the customs territory of the United 
+     States (other than the State of Alaska) and transits through 
+     the customs territory of Canada directly before entering the 
+     State of Alaska.
+       (c) Sealed Cargo Areas.--A cargo area of any commercial 
+     truck carrying an agricultural product shall remain sealed 
+     during transit through Canada.
+       On page 182, between lines 16 and 17, insert the following:
+
+     SEC. 1610. ADDITIONAL MANDATORY DAIRY REPORTING.
+
+       Subsection (b)(3) of section 273 of the Agricultural 
+     Marketing Act of 1946 (7 U.S.C. 1637b) (as redesignated by 
+     section 1609(2)) is amended--
+       (1) by striking ``shall take such actions'' and inserting 
+     ``shall--
+       ``(A) take such actions'';
+       (2) in subparagraph (A) (as designated by paragraph (1)), 
+     by striking the period at the end and inserting ``; and''; 
+     and
+       (3) by adding at the end the following:
+       ``(B) include regular audits and comparisons with other 
+     related dairy market statistics on at least a quarterly 
+     basis.''.
+       On page 1243, between lines 13 and 14, insert the 
+     following:
+
+     SEC. 10309. COORDINATION OF DAIRY OVERSIGHT.
+
+       (a) In General.--The Secretary shall select an official 
+     within the Department of Agriculture to coordinate the 
+     sharing of information on oversight of the dairy industry to 
+     ensure fair competition.
+       (b) Duties.--The official selected under subsection (a) 
+     shall--
+       (1) serve as a liaison among the Agricultural Marketing 
+     Service, Farm Service Agency, and National Agricultural 
+     Statistics Service;
+       (2) coordinate and maintain informal communications as 
+     appropriate with other Federal agencies with an involvement 
+     or interest in the dairy industry or fair competition;
+       (3) hold at least 1 formal annual meeting during each 
+     calendar year; and
+       (4) submit to the Committee on Agriculture of the House of 
+     Representatives and the Committee on Agriculture, Nutrition, 
+     and Forestry of the Senate, and make available to the public, 
+     an annual report that describes issues of concern in the 
+     dairy industry that threaten fair competition, including an 
+     evaluation of dairy markets with respect to the impact of 
+     those markets on--
+       (A) reported dairy prices;
+       (B) Federal milk marketing order prices; and
+       (C) other Federal dairy programs.
+       On page 402, strike lines 17 through 21 and insert the 
+     following:
+       (iv) allow for monitoring and evaluation;
+       (v) assist producers in meeting Federal, State, and local 
+     regulatory requirements; and
+       (vi) assist producers in enhancing fish and wildlife 
+     habitat.
+       On page 336, strikes lines 1 through 21 and insert the 
+     following:
+       ``(3) Payments.--Compensation may be provided in not less 
+     than 1 and not more than 30 annual payments of equal or 
+     unequal size, as agreed to by the owner and the Secretary.''; 
+     and
+       (4) by adding at the end the following:
+       ``(4) Compensation.--Effective on the date of enactment of 
+     this paragraph, the Secretary shall pay the lowest amount of 
+     compensation for a conservation easement, as determined by a 
+     comparison of subparagraphs (A), (B), and (C):
+       ``(A) The amount necessary to encourage the enrollment of 
+     parcels of land that are of importance in achieving the 
+     purposes of the program, as determined by the State 
+     Conservationist, with advice from the State technical 
+     committee, based on 1 of the following:
+       ``(i) The net present value of 30 years of annual rental 
+     payments based on the county simple average soil rental rates 
+     developed under subchapter B.
+       ``(ii) An area-wide market analysis or survey.
+       ``(iii) An amount not less than the value of the 
+     agricultural or otherwise undeveloped raw land based on the 
+     Uniform Standards of Professional Appraisal Practice.
+       ``(B) The amount corresponding to a geographical area value 
+     limitation, as determined by the State Conservationist, with 
+     advice from the State technical committee.
+       ``(C) The amount contained in the offer made by the 
+     landowner.''.
+       Beginning on page 313, strike line 21 and all that follows 
+     through page 320, line 22, and insert the following:
+       (e) Pilot Program for Enrollment of Wetland and Buffer 
+     Acreage in Conservation Reserve.--Section 1231 of the Food 
+     Security Act of 1985 (16 U.S.C. 3831) is amended by striking 
+     subsection (h) and inserting the following:
+       ``(h) Pilot Program for Enrollment of Wetland, Shallow 
+     Water Areas, and Buffer Acreage in Conservation Reserve.--
+       ``(1) Program.--
+       ``(A) In general.--During the 2008 through 2012 calendar 
+     years, the Secretary shall carry out a program in each State 
+     under which the Secretary shall enroll eligible acreage 
+     described in paragraph (2).
+       ``(B) Participation among states.--The Secretary shall 
+     ensure, to the maximum extent practicable, that owners and 
+     operators in each State have an equitable opportunity to 
+     participate in the pilot program established under this 
+     subsection.
+       ``(2) Eligible acreage.--
+       ``(A) In general.--Subject to subparagraphs (B) through 
+     (E), an owner or operator may enroll in the conservation 
+     reserve under this subsection--
+       ``(i)(I) a wetland (including a converted wetland described 
+     in section 1222(b)(1)(A)) that had a cropping history during 
+     at least 3 of the immediately preceding 10 crop years;
+       ``(II) a shallow water area that was devoted to a 
+     commercial pond-raised aquaculture operation any year during 
+     the period of calendar years 2002 through 2007; or
+       ``(III) an agriculture drainage water treatment that 
+     receives flow from a row crop agriculture drainage system and 
+     is designed to provide nitrogen removal in addition to other 
+     wetland functions; and
+       ``(ii) buffer acreage that--
+
+       ``(I) is contiguous to a wetland or shallow water area 
+     described in clause (i);
+       ``(II) is used to protect the wetland or shallow water area 
+     described in clause (i); and
+       ``(III) is of such width as the Secretary determines is 
+     necessary to protect the wetland or shallow water area 
+     described in clause (i) or to enhance the wildlife benefits, 
+     including through restriction of bottomland hardwood habitat, 
+     taking into consideration and accommodating the farming 
+     practices (including the straightening of boundaries to 
+     accommodate machinery) used with respect to the cropland that 
+     surrounds the wetland or shallow water area.
+
+       ``(B) Exclusions.--Except for a shallow water area 
+     described in paragraph (2)(A)(i), an owner or operator may 
+     not enroll in the conservation reserve under this 
+     subsection--
+       ``(i) any wetland, or land on a floodplain, that is, or is 
+     adjacent to, a perennial riverine system wetland identified 
+     on the final national wetland inventory map of the Secretary 
+     of the Interior; or
+       ``(ii) in the case of an area that is not covered by the 
+     final national inventory map, any wetland, or land on a 
+     floodplain, that is adjacent to a perennial stream identified 
+     on a 1-24,000 scale map of the United States Geological 
+     Survey.
+       ``(C) Program limitations.--
+       ``(i) In general.--The Secretary may enroll in the 
+     conservation reserve under this subsection not more than--
+
+       ``(I) 100,000 acres in any 1 State referred to in paragraph 
+     (1); and
+       ``(II) not more than a total of 1,000,000 acres.
+
+       ``(ii) Relationship to program maximum.--Subject to clause 
+     (iii), for the purposes of subsection (d), any acreage 
+     enrolled in the conservation reserve under this subsection 
+     shall be considered acres maintained in the conservation 
+     reserve.
+       ``(iii) Relationship to other enrolled acreage.--Acreage 
+     enrolled under this subsection shall not affect for any 
+     fiscal year the quantity of--
+
+       ``(I) acreage enrolled to establish conservation buffers as 
+     part of the program announced on March 24, 1998 (63 Fed. Reg. 
+     14109); or
+
+[[Page S15670]]
+
+       ``(II) acreage enrolled into the conservation reserve 
+     enhancement program announced on May 27, 1998 (63 Fed. Reg. 
+     28965).
+
+       ``(iv) Review; potential increase in enrollment acreage.--
+     Not later than 3 years after the date of enactment of the 
+     Food and Energy Security Act of 2007, the Secretary shall--
+
+       ``(I) conduct a review of the program under this subsection 
+     with respect to each State that has enrolled land in the 
+     program; and
+       ``(II) notwithstanding clause (i)(I), increase the number 
+     of acres that may be enrolled by a State under clause (i)(I) 
+     to not more than 150,000 acres, as determined by the 
+     Secretary.
+
+       ``(D) Owner or operator limitations.--
+       ``(i) Wetland.--
+
+       ``(I) In general.--Except for a shallow water area 
+     described in paragraph (2)(A)(i), the maximum size of any 
+     wetland described in subparagraph (A)(i) of an owner or 
+     operator enrolled in the conservation reserve under this 
+     subsection shall be 40 contiguous acres.
+       ``(II) Coverage.--All acres described in subclause (I) 
+     (including acres that are ineligible for payment) shall be 
+     covered by the conservation contract.
+
+       ``(ii) Buffer acreage.--The maximum size of any buffer 
+     acreage described in subparagraph (A)(ii) of an owner or 
+     operator enrolled in the conservation reserve under this 
+     subsection shall be determined by the Secretary in 
+     consultation with the State Technical Committee.
+       ``(iii) Tracts.--Except for a shallow water area described 
+     in paragraph (2)(A)(i) and buffer acreage, the maximum size 
+     of any eligible acreage described in subparagraph (A) in a 
+     tract (as determined by the Secretary) of an owner or 
+     operator enrolled in the conservation reserve under this 
+     subsection shall be 40 acres.
+       ``(3) Duties of owners and operators.--Under a contract 
+     entered into under this subsection, during the term of the 
+     contract, an owner or operator of a farm or ranch shall 
+     agree--
+       ``(A) to restore the hydrology of the wetland within the 
+     eligible acreage to the maximum extent practicable, as 
+     determined by the Secretary;
+       ``(B) to establish vegetative cover (which may include 
+     emerging vegetation in water and bottomland hardwoods, 
+     cypress, and other appropriate tree species in shallow water 
+     areas) on the eligible acreage, as determined by the 
+     Secretary;
+       ``(C) to a general prohibition of commercial use of the 
+     enrolled land; and
+       ``(D) to carry out other duties described in section 1232.
+       ``(4) Duties of the secretary.--
+       ``(A) In general.--Except as provided in subparagraphs (B) 
+     and (C), in return for a contract entered into by an owner or 
+     operator under this subsection, the Secretary shall make 
+     payments based on rental rates for cropland and provide 
+     assistance to the owner or operator in accordance with 
+     sections 1233 and 1234.
+       ``(B) Continuous signup.--The Secretary shall use 
+     continuous signup under section 1234(c)(2)(B) to determine 
+     the acceptability of contract offers and the amount of rental 
+     payments under this subsection.
+       ``(C) Incentives.--The amounts payable to owners and 
+     operators in the form of rental payments under contracts 
+     entered into under this subsection shall reflect incentives 
+     that are provided to owners and operators to enroll 
+     filterstrips in the conservation reserve under section 
+     1234.''.
+       On page 334, strike lines 23 through 25 and insert the 
+     following:
+       described in clauses (i) and (ii).'';
+       (2) in subsection (c), by striking ``2007 calendar'' and 
+     inserting ``2012 fiscal''; and
+       (3) in subsection (d)--
+       (A) in paragraph (2), by striking ``or'' at the end; and
+       (B) by striking paragraph (3) and inserting the following:
+       ``(3) a riparian area; or
+       ``(4) a riparian area and an adjacent area that links the 
+     riparian area to other parcels of wetland that are protected 
+     by wetlands reserve agreements or some other device or 
+     circumstance that achieves the same purpose as a wetlands 
+     reserve agreement.''.
+       Beginning on page 461, strike line 24 and all that follows 
+     through page 474, line 25, and insert the following:
+       ``(f) Partnerships and Cooperation.--
+       ``(1) In general.--In carrying out each program under 
+     subtitle D (excluding the wetlands reserve program and the 
+     conservation reserve program), the Secretary, acting through 
+     the State Conservationist, shall designate special projects 
+     to enhance conservation outcomes by working with multiple 
+     producers to address conservation issues, if recommended by 
+     the State Conservationist, in consultation with the State 
+     technical committee.
+       ``(2) Guidelines.--The Secretary shall establish guidelines 
+     to be used by States in the designation of special projects 
+     under paragraph (1).
+       ``(3) Purposes.--The purposes of special projects carried 
+     out under this subsection shall be to achieve local, 
+     statewide, or regional conservation objectives by--
+       ``(A) encouraging producers to cooperate in the 
+     installation and maintenance of conservation practices that 
+     affect multiple agricultural operations;
+       ``(B) encouraging producers to cooperate in meeting 
+     applicable Federal, State, and local regulatory requirements 
+     regarding natural resources and the environment;
+       ``(C) encouraging producers to share information and 
+     technical and financial resources;
+       ``(D) facilitating cumulative conservation benefits in 
+     geographic areas; and
+       ``(E) promoting the development and demonstration of 
+     innovative conservation methods.
+       ``(4) Eligible partners.--State and local government 
+     entities (including irrigation and water districts and canal 
+     companies), Indian tribes, farmer cooperatives, institutions 
+     of higher education, nongovernmental organizations, and 
+     producer associations shall be eligible to apply under this 
+     subsection.
+       ``(5) Special project application.--To apply for 
+     designation as a special project, partners shall submit an 
+     application to the Secretary that includes--
+       ``(A) a description of the geographic area, the current 
+     conditions, the conservation objectives to be achieved 
+     through the special project, and the expected level of 
+     participation by agricultural and nonindustrial private 
+     forest landowners;
+       ``(B) a description of the partners collaborating to 
+     achieve the project objectives and the roles, 
+     responsibilities, and capabilities of the partners;
+       ``(C) a description of the program resources from 1 or more 
+     programs under subtitle D that are requested from the 
+     Secretary, in relevant units, and the non-Federal resources 
+     that will be leveraged by the Federal contribution;
+       ``(D) a description of the plan for monitoring, evaluating, 
+     and reporting on any progress made towards achieving the 
+     purposes of the special project; and
+       ``(E) such other information as described in guidelines 
+     established by the Secretary under paragraph (2).
+       ``(6) Duties of the secretary.--
+       ``(A) In general.--The Secretary shall enter into multiyear 
+     agreements with partners to facilitate the delivery of 
+     conservation program resources in a manner to achieve the 
+     purposes described in paragraph (3).
+       ``(B) Project selection.--
+       ``(i) In general.--The Secretary shall conduct a 
+     competitive process to select projects funded under this 
+     subsection.
+       ``(ii) Factors considered.--In conducting the process 
+     described in clause (i), the Secretary shall make public the 
+     factors to be considered in evaluating applications.
+       ``(iii) Priority.--The Secretary may give priority to 
+     applications based on--
+
+       ``(I) the highest percentage of producers involved, and the 
+     inclusion of the highest percentage of working agricultural 
+     land in the area;
+       ``(II) the highest percentage of on-the-ground conservation 
+     to be implemented;
+       ``(III) non-Federal resources to be leveraged;
+       ``(IV) innovation in conservation methods and delivery, 
+     including outcome-based performance measures and methods; and
+       ``(V) other factors, as determined by the Secretary.
+
+       ``(C) Technical and financial assistance.--The Secretary 
+     and partners shall provide appropriate technical and 
+     financial assistance to producers participating in a special 
+     project in an amount determined by the Secretary to be 
+     necessary to achieve the purposes described in paragraph (3).
+       ``(D) Administration.--
+       ``(i) In general.--The Secretary shall ensure that 
+     resources made available under this subsection are delivered 
+     in accordance with applicable program rules relating to basic 
+     program functions, including rules governing appeals, payment 
+     limitations, and conservation compliance.
+       ``(ii) Flexibility.--The Secretary may adjust elements of 
+     the programs under this title, as requested by the State 
+     Conservationist, to better reflect unique local circumstances 
+     and purposes, if the Secretary determines that such 
+     adjustments are necessary to achieve the purposes of this 
+     subsection.
+       ``(iii) Additional requirements.--The Secretary may 
+     establish additional requirements beyond applicable program 
+     rules in order to effectively implement this subsection.
+       ``(7) Special rules applicable to regional water 
+     enhancement projects.--
+       ``(A) Definitions.--In this paragraph:
+       ``(i) Eligible partner.--The term `eligible partner' 
+     means--
+
+       ``(I) an eligible partner identified in paragraph (4); and
+       ``(II) a water or wastewater agency of a State.
+
+       ``(ii) Eligible project.--
+
+       ``(I) In general.--The term `eligible project' means a 
+     project that is specifically targeted to improve water 
+     quality or quantity in an area.
+       ``(II) Inclusions.--The term `eligible project' includes a 
+     project that involves--
+
+       ``(aa) resource condition assessment and modeling;
+       ``(bb) water quality, water quantity, or water conservation 
+     plan development;
+       ``(cc) management system and environmental monitoring and 
+     evaluation;
+       ``(dd) cost-share restoration or enhancement;
+       ``(ee) incentive payments for land management practices;
+       ``(ff) easement purchases;
+       ``(gg) conservation contracts with landowners;
+       ``(hh) improved irrigation systems;
+
+[[Page S15671]]
+
+       ``(ii) water banking and other forms of water transactions;
+       ``(jj) groundwater recharge;
+       ``(kk) stormwater capture; and
+       ``(ll) other water-related activities that the Secretary 
+     determines will help to achieve the water quality or water 
+     quantity benefits identified in the agreement in subparagraph 
+     (E).
+       ``(B) Regional water enhancement procedures.--With respect 
+     to proposals for eligible projects by eligible partners, the 
+     Secretary shall establish specific procedures (to be known 
+     collectively as `regional water enhancement procedures') in 
+     accordance with this paragraph.
+       ``(C) Means.--Regional water enhancement activities in a 
+     particular region shall be carried out through a combination 
+     of--
+       ``(i) multiyear agreements between the Secretary and 
+     eligible partners;
+       ``(ii) other regional water enhancement activities carried 
+     out by the Secretary; and
+       ``(iii) regional water enhancement activities carried out 
+     by eligible partners through other means.
+       ``(D) Multiyear agreements with eligible partners.--
+       ``(i) Solicitation of proposals.--Not later than 90 days 
+     after the date of enactment of this subsection, the Secretary 
+     shall invite prospective eligible partners to submit 
+     proposals for regional water enhancement projects.
+       ``(ii) Elements of proposals.--To be eligible for 
+     consideration for participation in the program, a proposal 
+     submitted by an eligible partner shall include--
+
+       ``(I) identification of the exact geographic area for which 
+     the partnership is proposed, which may be based on--
+
+       ``(aa) a watershed (or portion of a watershed);
+       ``(bb) an irrigation, water, or drainage district;
+       ``(cc) the service area of an irrigation water delivery 
+     entity; or
+       ``(dd) some other geographic area with characteristics that 
+     make the area suitable for landscape-wide program 
+     implementation;
+
+       ``(II) identification of the water quality or water 
+     quantity issues that are of concern in the area;
+       ``(III) a method for determining a baseline assessment of 
+     water quality, water quantity, and other related resource 
+     conditions in the region;
+       ``(IV) a detailed description of the proposed water quality 
+     or water quantity improvement activities to be undertaken in 
+     the area, including an estimated timeline and program 
+     resources for every activity; and
+       ``(V) a description of the performance measures to be used 
+     to gauge the effectiveness of the water quality or water 
+     quantity improvement activities.
+
+       ``(iii) Selection of proposals.--The Secretary shall award 
+     multiyear agreements competitively, with priority given, as 
+     determined by the Secretary, to selecting proposals that--
+
+       ``(I) have the highest likelihood of improving the water 
+     quality or quantity issues of concern for the area;
+       ``(II) involve multiple stakeholders and will ensure the 
+     highest level of participation by producers and landowners in 
+     the area through performance incentives to encourage adoption 
+     of specific practices in specific locations;
+       ``(III) will result in the inclusion of the highest 
+     percentage of working agricultural land in the area;
+       ``(IV) will result in the highest percentage of on-the-
+     ground activities as compared to administrative costs;
+       ``(V) will provide the greatest contribution to sustaining 
+     or enhancing agricultural or silvicultural production in the 
+     area; and
+       ``(VI) include performance measures that will allow post-
+     activity conditions to be satisfactorily measured to gauge 
+     overall effectiveness.
+
+       ``(iv) Identification of water quality and water quantity 
+     priority areas.--
+
+       ``(I) In general.--Subject to subclause (II), the Secretary 
+     shall identify areas in which protecting or improving water 
+     quality or water quantity is a priority.
+       ``(II) Mandatory inclusions.--The Secretary shall include 
+     in any identification of areas under subclause (I)--
+
+       ``(aa) the Chesapeake Bay;
+       ``(bb) the Upper Mississippi River basin;
+       ``(cc) the greater Everglades ecosystem;
+       ``(dd) the Klamath River basin;
+       ``(ee) the Sacramento/San Joaquin River watershed;
+       ``(ff) the Mobile River basin;
+       ``(gg) the Puget Sound;
+       ``(hh) the Ogallala Aquifer;
+       ``(ii) the Illinois River watershed (located in the States 
+     of Arkansas and Oklahoma);
+       ``(jj) the Champlain Basin watershed;
+       ``(kk) the Platte River watershed;
+       ``(ll) the Republican River watershed;
+       ``(mm) the Chattahoochee River watershed; and
+       ``(nn) the Rio Grande watershed.
+       ``(E) Agreements.--Not later than 30 days after the date on 
+     which the Secretary awards an agreement under subparagraph 
+     (D), the Secretary shall enter into an agreement with the 
+     eligible partner that, at a minimum, contains--
+       ``(i) a description of the respective duties and 
+     responsibilities of the Secretary and the eligible partner in 
+     carrying out the activities in the area; and
+       ``(ii) the criteria that the Secretary will use to evaluate 
+     the overall effectiveness of the regional water enhancement 
+     activities funded by the multiyear agreement in improving the 
+     water quality or quantity conditions of the region relative 
+     to the performance measures in the proposal.
+       ``(F) Contracts with other parties.--An agreement awarded 
+     under subparagraph (D) may provide for the use of third-party 
+     providers (including other eligible partners) to undertake 
+     specific regional water enhancement activities in a region on 
+     a contractual basis with the Secretary or the eligible 
+     partner.
+       ``(G) Consultation with other agencies.--With respect to 
+     areas in which a Federal or State agency is, or will be, 
+     undertaking other water quality or quantity-related 
+     activities, the Secretary and the eligible partner may 
+     consult with the Federal or State agency in order to--
+       ``(i) coordinate activities;
+       ``(ii) avoid duplication; and
+       ``(iii) ensure that water quality or quantity improvements 
+     attributable to the other activities are taken into account 
+     in the evaluation of the Secretary under subparagraph 
+     (E)(ii).
+       ``(H) Relationship to other programs.--The Secretary shall 
+     ensure that, to the extent that producers and landowners are 
+     individually participating in other programs under subtitle D 
+     in a region in which a regional water enhancement project is 
+     in effect, any improvements to water quality or water 
+     quantity attributable to the individual participation are 
+     included in the evaluation criteria developed under 
+     subparagraph (E)(ii).
+       ``(I) Consistency with state law.--Any water quality or 
+     water quantity improvement activity undertaken under this 
+     paragraph shall be consistent with State water laws.
+       ``(8) Duration.--
+       ``(A) In general.--Multiyear agreements under this 
+     subsection shall be for a period not to exceed 5 years.
+       ``(B) Early termination.--The Secretary may terminate a 
+     multiyear agreement before the end of the agreement if the 
+     Secretary determines that performance measures are not being 
+     met.
+       ``(9) Funding.--
+       ``(A) Set aside.--
+       ``(i) In general.--Of the funds provided for each of fiscal 
+     years 2008 through 2012 to carry out the conservation 
+     programs in subtitle D (excluding the conservation reserve 
+     program, the conservation security program, the conservation 
+     stewardship program, and the wetlands reserve program), the 
+     Secretary shall reserve 10 percent of the funds allocated to 
+     each State for use for activities under this subsection.
+       ``(ii) Conservation stewardship program.--Of the acres 
+     allocated for the conservation stewardship program for each 
+     of fiscal years 2008 through 2012, the Secretary shall 
+     reserve 10 percent of acres allocated to each State for use 
+     for activities under this subsection.
+       ``(B) Use of resources.--Of the funds reserved and acres 
+     allocated to each State under this subsection in each fiscal 
+     year, the Secretary shall--
+       ``(i) allocate not less than 75 percent to be used by the 
+     State Conservationist to carry out special projects under 
+     this subsection (including regional water enhancement 
+     projects); and
+       ``(ii) use not more than 25 percent for multistate projects 
+     authorized under this subsection.
+       ``(C) Partners.--Overhead or administrative costs of 
+     partners may not be covered by funds provided through this 
+     subsection.
+       ``(D) Unused funding.--Any funds made available, and any 
+     acres reserved, for a fiscal year under subparagraph (A) that 
+     are not obligated or enrolled by April 1 of the fiscal year 
+     may be used to carry out other activities under conservation 
+     programs under subtitle D during the fiscal year in which the 
+     funding becomes available.''.
+       On page 499, strike lines 1 through 12 and insert the 
+     following:
+
+     SEC. 2607. DESERT TERMINAL LAKES.
+
+       Section 2507 of the Farm Security and Rural Investment Act 
+     of 2002 (43 U.S.C. 2211 note; Public Law 107-171) is 
+     amended--
+       (1) in subsection (a), by striking ``, as soon as 
+     practicable after the date of enactment of this Act,'' and 
+     inserting the following: ``and paragraph (1) of section 
+     207(a) of Public Law 108-7 (117 Stat. 146), notwithstanding 
+     paragraph (3) of that section, on the date of enactment of 
+     the Food and Energy Security Act of 2007,''; and
+       (2) by striking subsection (b) and inserting the following:
+       ``(b) Permitted Uses.--In any case in which there are 
+     willing sellers, the funds described in subsection (a) may be 
+     used--
+       ``(1) to lease water; or
+       ``(2) to purchase land, water appurtenant to the land, and 
+     related interests in the Walker River Basin in accordance 
+     with section 208(a)(1)(A) of the Energy and Water Development 
+     Appropriations Act, 2006 (Public Law 109-103, 119 Stat. 
+     2268).''.
+       On page 448, lines 12 through 14, strike ``more than 50 
+     percent of the annual income of the farmer or rancher'' and 
+     insert ``at least $15,000 in gross sales''.
+       On page 407, line 3, strike ``A contract'' and insert 
+     ``Notwithstanding section 1240B(b)(2)(A), a contract''.
+       On page 456, line 15, strike ``agricultural producers'' and 
+     insert ``eligible participants''.
+
+[[Page S15672]]
+
+       On page 457, lines 12 through 14, strike ``specialty crop, 
+     organic, and precision agriculture producers'' and insert 
+     ``producers involved with organic or specialty crop 
+     production or precision agriculture''.
+       On page 457, lines 20 through 22, strike ``specialty crop, 
+     organic, and precision agriculture producers'' and insert 
+     ``producers involved with organic or specialty crop 
+     production or precision agriculture''.
+       On page 458, lines 5 and 6, strike ``specialty crop, 
+     organic, and precision agriculture producers'' and insert 
+     ``producers involved with organic or specialty crop 
+     production or precision agriculture''.
+       On page 414, line 1, strike ``other'' and insert ``any 
+     other''.
+       On page 395, strike lines 10 through 12 and insert the 
+     following:
+       ``(2) improve conservation practices or systems in place on 
+     the operation at the time the contract offer is accepted or 
+     to complete a conservation system; and''.
+       On page 454, between lines 24 and 25, insert the following:
+       ``(5) Payment amounts.--The Secretary shall establish fair 
+     and reasonable amounts of payments for technical services 
+     provided by third-party providers.
+       Beginning on page 506, strike line 10 and all that follows 
+     through page 507, line 14.
+       On page 432, strike lines 18 through 22 and insert the 
+     following:
+
+     SEC. 2395. GREAT LAKES BASIN PROGRAM FOR SOIL EROSION AND 
+                   SEDIMENT CONTROL.
+
+       Section 1240P of the Food Security Act of 1985 (16 U.S.C. 
+     3839bb-3) is amended to read as follows:
+
+     ``SEC. 1240P. GREAT LAKES BASIN PROGRAM FOR SOIL EROSION AND 
+                   SEDIMENT CONTROL.
+
+       ``(a) In General.--The Secretary, in consultation with the 
+     Great Lakes Commission created by Article IV of the Great 
+     Lakes Basin Compact (82 Stat. 415) and in cooperation with 
+     the Administrator of the Environmental Protection Agency and 
+     the Secretary of the Army, may carry out the Great Lakes 
+     basin program for soil erosion and sediment control (referred 
+     to in this section as the `program') to assist in 
+     implementing the recommendations of the Great Lakes Regional 
+     Collaboration Strategy to Restore and Protect the Great 
+     Lakes.
+       ``(b) Assistance.--In carrying out the program, the 
+     Secretary may--
+       ``(1) provide project demonstration grants, provide 
+     technical assistance, and carry out information and 
+     educational programs to improve water quality in the Great 
+     Lakes basin by reducing soil erosion and improving sediment 
+     control; and
+       ``(2) establish a priority for projects and activities 
+     that--
+       ``(A) directly reduce soil erosion or improve sediment 
+     control;
+       ``(B) reduce soil loss in degraded rural watersheds; or
+       ``(C) improve hydrological conditions in urban watersheds.
+       ``(c) Authorization of Appropriations.--There is authorized 
+     to be appropriated to carry out this section $5,000,000 for 
+     each of fiscal years 2008 through 2012.''.
+       On page 1130, strike lines 15 through 17 and insert the 
+     following:
+       ``(2) Demonstration.--The term ``demonstration'' means 
+     demonstration of technology in a pilot plant or semi-works 
+     scale facility, including a plant or facility located on a 
+     farm.
+       On page 1143, strike lines 14 and insert the following:
+       ``(iv) power production technologies, including distributed 
+     generation;
+       On page 674, between lines 10 and 11, insert the following:
+
+     SEC. 49__. AGRICULTURAL POLICY AND PUBLIC HEALTH.
+
+       (a) In General.--The Comptroller General of the United 
+     States shall conduct a study to assess whether the 
+     agricultural policies of the United States have an impact on 
+     health, nutrition, overweight and obesity, and diet-related 
+     chronic disease.
+       (b) Requirements.--In conducting the study under subsection 
+     (a), the Comptroller General of the United States shall--
+       (1) review, and evaluate the methodological rigor of, 
+     existing literature and studies relating to the subjects of 
+     the study required under subsection (a);
+       (2) summarize the existing literature and explain the 
+     extent, if any, to which the literature shows a clear 
+     association or causal relationship between United States 
+     agricultural policy and health, nutrition, overweight and 
+     obesity, and diet-related chronic diseases; and
+       (3) if the existing literature shows that there is a 
+     relationship between United States agricultural policy and 
+     health, nutrition, overweight and obesity, and diet-related 
+     chronic diseases, make recommendations to guide or revise 
+     Federal agricultural policies to improve health and reduce 
+     obesity and diet-related chronic disease.
+       (c) Report.--Not later than 18 months after the date of 
+     enactment of this section, the Comptroller General of the 
+     United States shall submit to the Committee on Agriculture of 
+     the House of Representatives and the Committee on 
+     Agriculture, Nutrition, and Forestry of the Senate a report 
+     that describes the results of the study conducted under this 
+     section.
+       At the appropriate place in title XI, insert the following:
+
+     SEC. 11___. DEPARTMENT OF AGRICULTURE CONFERENCE 
+                   TRANSPARENCY.
+
+       (a) Reports on Conference Expenditures.--For fiscal year 
+     2008 and each fiscal year thereafter, the Secretary shall 
+     submit to the Inspector General of the Department of 
+     Agriculture quarterly reports that describe the costs and 
+     contracting procedures relating to each conference or meeting 
+     held by the Department of Agriculture during the quarter 
+     covered by the report for which the cost to the Federal 
+     Government was more than $10,000.
+       (b) Requirements.--Each report submitted under subsection 
+     (a) shall include, for each conference and meeting covered by 
+     the report--
+       (1) a description of the number participants attending, and 
+     the purpose of those participants for attending, the 
+     conference or meeting;
+       (2) a detailed statement of the costs incurred by the 
+     Federal Government relating to that conference or meeting, 
+     including--
+       (A) the cost of any food or beverages;
+       (B) the cost of any audio-visual services;
+       (C) the cost of all related travel; and
+       (D) a discussion of the methodology used to determine which 
+     costs relate to that conference or meeting; and
+       (3) a description of the contracting procedures relating to 
+     that conference or meeting, including--
+       (A) whether contracts were awarded on a competitive basis; 
+     and
+       (B) a discussion of any cost comparison conducted by the 
+     Department of Agriculture in evaluating potential contractors 
+     for any conference or meeting.
+       (c) Travel Expenses.--
+       (1) Definition of conference.--In this subsection, the term 
+     ``conference'' means a meeting that--
+       (A) is held for consultation, education, awareness, or 
+     discussion;
+       (B) includes participants who are not all employees of the 
+     same agency;
+       (C) is not held entirely at an agency facility;
+       (D) involves costs associated with travel and lodging for 
+     some participants; and
+       (E) is sponsored by 1 or more agencies, 1 or more 
+     organizations that are not agencies, or a combination of 
+     those agencies or organizations.
+       (2) Report.--Not later than September 30 of each fiscal 
+     year, the Secretary shall submit to the Committee on 
+     Agriculture of the House of Representatives and the Committee 
+     on Agriculture, Nutrition, and Forestry of the Senate, and 
+     post on the public website of the Department of Agriculture 
+     in a searchable, electronic format, a report on each 
+     conference for which the Department of Agriculture paid 
+     travel expenses during the fiscal year covered by the report, 
+     including--
+       (A) a description of--
+       (i) the itemized expenses paid by the Department of 
+     Agriculture, including travel expenses and any other 
+     expenditures to support the conference;
+       (ii) the primary sponsor of the conference; and
+       (iii) the location of the conference; and
+       (B) in the case of a conference for which the Department of 
+     Agriculture was the primary sponsor, a statement that--
+       (i) justifies the location selected;
+       (ii) demonstrates the cost efficiency of the location;
+       (iii) specifies the date or dates of the conference;
+       (iv) includes a brief explanation of the ways in which the 
+     conference advanced the mission of the Department of 
+     Agriculture; and
+       (v) specifies the total number of individuals whose travel 
+     or attendance at the conference was paid for, in whole or in 
+     part, by the Department of Agriculture.
+       Strike section 11068 (relating to prevention and 
+     investigation of payment fraud and error) and insert the 
+     following:
+
+     SEC. 11068. AMENDMENT TO THE RIGHT TO FINANCIAL PRIVACY ACT 
+                   OF 1978.
+
+       Section 1113(k) of the Right to Financial Privacy Act of 
+     1978 (12 U.S.C. 3413(k)) is amended--
+       (1) by striking the subsection heading and inserting the 
+     following:
+       ``(k) Disclosure Necessary for Proper Administration of 
+     Programs of Certain Government Authorities.--''; and
+       (2) by striking paragraph (2) and inserting the following:
+       ``(2) Nothing in this title shall apply to the disclosure 
+     by the financial institution of information contained in the 
+     financial records of any customer to any Government authority 
+     that certifies, disburses, or collects payments, where the 
+     disclosure of such information is necessary to, and such 
+     information is used solely for the purpose of--
+       ``(A) verification of the identity of any person or proper 
+     routing and delivery of funds in connection with the issuance 
+     of a Federal payment or collection of funds by a Government 
+     authority; or
+       ``(B) the investigation or recovery of an improper Federal 
+     payment or collection of funds or an improperly negotiated 
+     Treasury check.
+       ``(3) Notwithstanding any other provision of law, a request 
+     authorized by paragraph (1) or (2) (and the information 
+     contained therein) may be used by the financial institution 
+     or its agents solely for the purpose of providing information 
+     contained in the financial records of the customer to the 
+     Government authority requesting the information, and the 
+     financial institution and its agents shall be barred from 
+     redisclosure of such information. Any Government authority 
+     receiving information pursuant to paragraph
+
+[[Page S15673]]
+
+     (1) or (2) may not disclose or use the information, except 
+     for the purposes set forth in such paragraph.''.
+       On page 1264, between lines 4 and 5, insert the following:
+
+     SEC. 1102_. PLANT PROTECTION.
+
+       (a) Civil Penalties for Violations.--Section 424(b)(1) of 
+     the Plant Protection Act (7 U.S.C. 7734(b)(2)) is amended by 
+     striking subparagraphs (A) and (B) and inserting the 
+     following:
+       ``(A) $50,000 in the case of any individual (except that 
+     the civil penalty may not exceed $1,000 in the case of an 
+     initial violation of this title by an individual moving 
+     regulated articles not for monetary gain);
+       ``(B) $250,000 in the case of any other person for each 
+     violation;
+       ``(C) $500,000 for each violation adjudicated in a single 
+     proceeding;
+       ``(D) $1,000,000 for each violation adjudicated in a single 
+     proceeding involving a genetically modified organism (as 
+     determined by the Secretary); or
+       ``(E) twice the gross gain or gross loss for any violation, 
+     forgery, counterfeiting, unauthorized use, defacing, or 
+     destruction of a certificate, permit, or other document 
+     provided for in this title that results in the person 
+     deriving pecuniary gain or causing pecuniary loss to 
+     another.''.
+       (b) Time for Commencing Proceedings.--Subtitle B of the 
+     Plant Protection Act (7 U.S.C. 7731 et seq.) is amended by 
+     adding at the end the following:
+
+     ``SEC. 427. TIME FOR COMMENCING PROCEEDINGS.
+
+       ``An action, suit, or proceeding with respect to an alleged 
+     violation of this title shall not be considered unless the 
+     action, suit, or proceeding is commenced not later than 5 
+     years after the date the violation is initially discovered by 
+     the Secretary.''.
+       Beginning on page 1097, strike line 1 and all that follows 
+     through page 1103, line 15, and insert the following:
+
+     ``SEC. 9004. BIOMASS CROP TRANSITION.
+
+       ``(a) Definitions.--In this section:
+       ``(1) Eligible crop.--
+       ``(A) In general.--The term `eligible crop' means a crop of 
+     renewable biomass.
+       ``(B) Exclusions.--The term `eligible crop' does not 
+     include any plant that--
+       ``(i) the Secretary determines to be invasive or noxious on 
+     a regional basis under the Plant Protection Act (7 U.S.C. 
+     7701 et seq.); or
+       ``(ii) has the potential to become invasive or noxious on a 
+     regional basis, as determined by the Secretary, in 
+     consultation with other appropriate Federal or State 
+     departments and agencies.
+       ``(2) Eligible land.--The term `eligible land' means 
+     private agricultural or forest land that the Secretary 
+     determines was planted or considered to be planted for at 
+     least 4 of the 6 years preceding the date of enactment of the 
+     Food and Energy Security Act of 2007.
+       ``(3) Eligible participant.--The term `eligible 
+     participant' means an agricultural producer, forest land 
+     owner, or other individual holding the right to collect or 
+     harvest renewable biomass--
+       ``(A) that is establishing 1 or more eligible crops on 
+     eligible land to be used in the production of advanced 
+     biofuels, other biobased products, heat, or power from a 
+     biomass conversion facility;
+       ``(B) that is collecting or harvesting renewable biomass to 
+     be used in the production of advanced biofuels, other 
+     biobased products, heat, or power from a biomass conversion 
+     facility;
+       ``(C) that has a letter of intent or proof of financial 
+     commitment from a biomass conversion facility, including a 
+     proposed biomass conversion facility that is economically 
+     viable, as determined by the Secretary, to purchase the 
+     eligible crops; and
+       ``(D) the production operation of which is in such 
+     proximity to the biomass conversion facility described in 
+     subparagraph (C) as to make delivery of the eligible crops to 
+     that location economically practicable.
+       ``(b) Biomass Crop Transition Assistance.--
+       ``(1) Establishment of program.--The Secretary shall 
+     establish a program to provide transitional assistance, 
+     including planning grants, for the establishment and 
+     production of eligible crops to be used in the production of 
+     advanced biofuels, other biobased products, heat, or power 
+     from a biomass conversion facility.
+       ``(2) Exclusion.--An agricultural producer shall not be 
+     eligible for assistance under paragraph (1) for the 
+     establishment and production of--
+       ``(A) any crop that is eligible for benefits under title I 
+     of the Food and Energy Security Act of 2007; or
+       ``(B) an annual crop.
+       ``(3) Contracts.--
+       ``(A) In general.--The Secretary shall enter into contracts 
+     with eligible participants and entities described in 
+     subparagraph (B) to provide transitional assistance payments 
+     to eligible participants.
+       ``(B) Contracts with member entities.--The Secretary may 
+     enter into 1 or more contracts with farmer-owned 
+     cooperatives, agricultural trade associations, or other 
+     similar entities on behalf of producer members that meet the 
+     requirements of, and elect to be treated as, eligible 
+     participants if the contract would offer greater efficiency 
+     in administration of the program.
+       ``(C) Requirements.--Under a contract described in 
+     subparagraph (A), an eligible participant shall be required, 
+     as determined by the Secretary--
+       ``(i) to produce 1 or more eligible crops;
+       ``(ii) to develop and actively apply a conservation plan 
+     that meets the requirements for highly erodible land 
+     conservation and wetlands conservation as established under 
+     subtitles B and C of title XII of the Food Security Act of 
+     1985 (16 U.S.C. 3811 et seq.); and
+       ``(iii) to agree to implement a conservation plan approved 
+     by the local soil conservation district, in consultation with 
+     the local committees established under section 8(b)(5) of the 
+     Soil Conservation and Domestic Allotment Act (16 U.S.C. 
+     590h(B)(5)) and the Secretary, or by the Secretary to use 
+     such conservation practices as are necessary, where 
+     appropriate--
+
+       ``(I) to advance the goals and objectives of State, 
+     regional, and national fish and wildlife conservation plans 
+     and initiatives; and
+       ``(II) to comply with mandatory environmental requirements 
+     for a producer under Federal, State, and local law.
+
+       ``(4) Payments.--
+       ``(A) First year.--During the first year of the contract, 
+     the Secretary shall make a payment to an eligible participant 
+     in an amount that covers the cost of establishing 1 or more 
+     eligible crops.
+       ``(B) Subsequent years.--During any subsequent year of the 
+     contract, the Secretary shall make incentive payments to an 
+     eligible participant in an amount determined by the Secretary 
+     to encourage the eligible participant to produce renewable 
+     biomass.
+       ``(5) Applications.--An application to the Secretary for 
+     assistance shall include--
+       ``(A) identification of the proposed biomass conversion 
+     facility for which the crop is intended;
+       ``(B) letters of intent or proof of financial commitment 
+     from the biomass conversion facility to purchase the crop; 
+     and
+       ``(C) documentation from each eligible participant that 
+     describes--
+       ``(i) the variety and acreage of the eligible crop the 
+     eligible participants have committed to producing; and
+       ``(ii) the variety and acreage of crops that the eligible 
+     participants would have grown if the eligible participants 
+     had not committed to producing the eligible crop.
+       ``(6) Selection criteria.--In selecting from applications 
+     submitted under this subsection, the Secretary shall 
+     consider--
+       ``(A) the likelihood that the proposed establishment of the 
+     eligible crop will be viable within the proposed locale;
+       ``(B) the impact of the proposed eligible crop and 
+     conversion system on wildlife, air, soil, and water quality 
+     and availability; and
+       ``(C) local and regional economic impacts and benefits, 
+     including participation of beginning farmers or ranchers and 
+     socially disadvantaged farmers or ranchers.
+       ``(7) Eligible crop transition planning grants.--
+       ``(A) In general.--An eligible participant or member entity 
+     (as described in paragraph (3)(B)) may apply for a project 
+     planning grant in an amount of not more than $50,000 to 
+     assist in assessing the viability for, or assembling of, a 
+     regional supply of 1 or more eligible crops for use by a 
+     bioenergy conversion facility.
+       ``(B) Matching requirement.--To receive a planning grant 
+     under subparagraph (A), an eligible participant or member 
+     entity shall provide matching funding in an amount equal to 
+     100 percent of the amount of the grant.
+       ``(c) Assistance for Production of Annual Crop of Renewable 
+     Biomass.--
+       ``(1) In general.--The Secretary may provide assistance to 
+     eligible participants to plant an annual crop of renewable 
+     biomass for use in a biomass conversion facility in the form 
+     of--
+       ``(A) technical assistance; and
+       ``(B) cost-share assistance for the cost of establishing an 
+     annual crop of renewable biomass.
+       ``(2) Exclusion.--An agricultural producer shall not be 
+     eligible for assistance under paragraph (1) for the 
+     establishment of any crop that is eligible for benefits under 
+     title I of the Food and Energy Security Act of 2007.
+       ``(3) Compliance.--Eligible participants receiving 
+     assistance under paragraph (1)(B) shall develop and actively 
+     apply a conservation plan that meets the requirements for 
+     highly erodible land conservation and wetlands conservation 
+     as established under subtitles B and C of title XII of the 
+     Food Security Act of 1985 (16 U.S.C. 3811 et seq.).
+       ``(d) Assistance for Collection, Harvest, Storage, and 
+     Transport of Renewable Biomass.--
+       ``(1) Establishment of program.--The Secretary shall 
+     establish a program to provide assistance to eligible 
+     participants for collecting, harvesting, storing, and 
+     transporting renewable biomass to be used in the production 
+     of advanced biofuels, biobased products, heat, or power from 
+     a biomass conversion facility.
+       ``(2) Payments.--
+       ``(A) In general.--An eligible participant shall receive 
+     payments under this subsection for each ton of renewable 
+     biomass delivered to a biomass conversion facility, based on 
+     a fixed rate to be established by the Secretary in accordance 
+     with subparagraph (B).
+       ``(B) Fixed rate.--The Secretary shall establish a fixed 
+     payment rate for purposes of subparagraph (A) to reflect--
+       ``(i) the estimated cost of collecting, harvesting, 
+     storing, and transporting the renewable biomass; and
+       ``(ii) such other factors as the Secretary determines to be 
+     appropriate.
+
+[[Page S15674]]
+
+       ``(e) Assistance for Forest Biomass Planning.--
+       ``(1) In general.--The Secretary shall provide assistance 
+     to eligible participants to develop forest stewardship plans 
+     that involve management of forest biomass for delivery to a 
+     biomass conversion facility through--
+       ``(A) a State forestry agency; or
+       ``(B) a contract or agreement with a third-party provider 
+     in accordance with section 1242 of the Food Security Act of 
+     1985 (16 U.S.C. 3842).
+       ``(2) Management practices.--The Secretary shall ensure 
+     that any plan developed using assistance provided under 
+     paragraph (1) includes management practices that will protect 
+     soil, water, and wildlife habitat resources on the land 
+     covered by the plan.
+       ``(f) Best Practices.--
+       ``(1) Recordkeeping.--Each eligible participant, and each 
+     biomass conversion facility contracting with the eligible 
+     participant, shall maintain and make available to the 
+     Secretary, at such times as the Secretary may request, 
+     appropriate records of methods used for activities for which 
+     payment is received under this section.
+       ``(2) Information sharing.--From the records maintained 
+     under subparagraph (A), the Secretary shall maintain, and 
+     make available to the public, information regarding--
+       ``(A) the production potential (including evaluation of the 
+     environmental benefits) of a variety of eligible crops; and
+       ``(B) best practices for producing, collecting, harvesting, 
+     storing, and transporting eligible crops to be used in the 
+     production of advanced biofuels.
+       ``(g) Funding.--
+       ``(1) Biomass crop transition assistance.--Of the funds of 
+     the Commodity Credit Corporation, the Secretary shall use to 
+     carry out subsections (b) and (c) $130,000,000 for fiscal 
+     year 2008, to remain available until expended, of which not 
+     more than $5,000,000 may be used to carry out subsection 
+     (b)(7).
+       ``(2) Assistance for collection, harvest, storage, and 
+     transport of renewable biomass.--Of the funds of the 
+     Commodity Credit Corporation, the Secretary shall make 
+     available to carry out subsection (d) $10,000,000 for each of 
+     fiscal years 2009 through 2011, to remain available until 
+     expended.
+       ``(3) Assistance for forest biomass planning.--Of the funds 
+     made available under paragraph (1), the Secretary shall use 
+     not more than 5 percent to carry out subsection (e).
+       Strike section 10101 (relating to definitions) and insert 
+     the following:
+
+     SEC. 10101. DEFINITIONS.
+
+       Section 3 of the Agricultural Fair Practices Act of 1967 (7 
+     U.S.C. 2302) is amended--
+       (1) by striking ``When used in this Act--'' and inserting 
+     ``In this Act:'';
+       (2) in subsection (a)--
+       (A) by redesignating paragraphs (1) through (4) as clauses 
+     (i) through (iv), respectively; and
+       (B) in clause (iv) (as so redesignated), by striking 
+     ``clause (1), (2), or (3) of this paragraph'' and inserting 
+     ``clause (i), (ii), or (iii)'';
+       (3) by striking subsection (d);
+       (4) by redesignating subsections (a), (b), (c), and (e) as 
+     paragraphs (3), (4), (2), (1), respectively, indenting 
+     appropriately, and moving those paragraphs so as to appear in 
+     numerical order;
+       (5) in each paragraph (as so redesignated) that does not 
+     have a heading, by inserting a heading, in the same style as 
+     the heading in the amendment made by paragraph (6), the text 
+     of which is comprised of the term defined in the paragraph;
+       (6) in paragraph (2) (as so redesignated)--
+       (A) by striking ``The term `association of producers' 
+     means'' and inserting the following:
+       ``(2) Association of producers.--
+       ``(A) In general.--The term `association of producers' 
+     means''; and
+       (B) by adding at the end the following:
+       ``(B) Inclusion.--The term `association of producers' 
+     includes an organization of agricultural producers dedicated 
+     to promoting the common interest and general welfare of 
+     producers of agricultural products.'';
+       (7) in paragraph (3) (as so redesignated)--
+       (A) by striking ``The term'' and inserting the following:
+       ``(3) Handler.--
+       ``(A) In general.--The term''; and
+       (B) by inserting after clause (iv) of subparagraph (A) (as 
+     redesignated by subparagraph (A) and paragraph (2)) the 
+     following:
+       ``(B) Exclusion.--The term `handler' does not include--
+       ``(i) a producer; or
+       ``(ii) a person, other than a packer (as defined in section 
+     201 of the Packers and Stockyards Act, 1921 (7 U.S.C. 191)), 
+     that provides custom feeding services for a producer.''; and
+       (8) by adding at the end the following:
+       ``(5) Secretary.--The term `Secretary' means the Secretary 
+     of Agriculture.''.
+       On page 868, between lines 15 and 16, insert the following:
+
+     SEC. 6___. COMPREHENSIVE RURAL BROADBAND.
+
+       (a) Comprehensive Rural Broadband Strategy.--
+       (1) In general.--Not later than 1 year after the date of 
+     enactment of this Act, and annually thereafter, the Chairman 
+     of the Federal Communications Commission, in coordination 
+     with the Secretary, shall submit to the Committees on Energy 
+     and Commerce and Agriculture of the House of Representatives 
+     and the Committees on Commerce, Science, and Transportation 
+     and Agriculture, Nutrition, and Forestry of the Senate a 
+     report describing a comprehensive rural broadband strategy 
+     that includes--
+       (A) recommendations--
+       (i) to promote interagency coordination of Federal agencies 
+     in regards to policies, procedures, and targeted resources, 
+     and to improve and streamline the polices, programs, and 
+     services;
+       (ii) to coordinate among Federal agencies regarding 
+     existing rural broadband or rural initiatives that could be 
+     of value to rural broadband development;
+       (iii) to address both short- and long-term solutions and 
+     needs assessments for a rapid build-out of rural broadband 
+     solutions and applications for Federal, State, regional, and 
+     local government policy makers; and
+       (iv) to identify how specific Federal agency programs and 
+     resources can best respond to rural broadband requirements 
+     and overcome obstacles that currently impede rural broadband 
+     deployment; and
+       (B) a description of goals and timeframes to achieve the 
+     strategic plans and visions identified in the report.
+       (2) Updates.--The Chairman of the Federal Communications 
+     Commission, in coordination with the Secretary shall update 
+     and evaluate the report described in paragraph (1) on an 
+     annual basis.
+       (b) Rural Broadband.--Section 306(a)(20)(E) of the 
+     Consolidated Rural Development Act (7 U.S.C. 1926(a)(20)(E)) 
+     is amended by striking ``dial-up Internet access or''.
+       On page 868, line 25, strike ``residents'' and insert 
+     ``beneficiaries''.
+       On page 525, strike lines 1 through 4 and insert the 
+     following:
+
+     SEC. 3014. PILOT PROGRAM FOR LOCAL PURCHASE.
+
+       Chapter 1 of part I of the Foreign Assistance Act of 1961 
+     (22 U.S.C. 2151 et seq.) is amended by adding at the end the 
+     following:
+
+     ``SEC. 136. PILOT PROGRAM FOR LOCAL PURCHASE OF ELIGIBLE 
+                   COMMODITIES.
+
+       On page 525, between lines 5 and 6, insert the following:
+       ``(1) Administrator.--The term `Administrator' means the 
+     Administrator of the Agency for International Development.
+       On page 525-526, number other paragraphs accordingly.
+       On page 525, lines 6 and 7, strike ``Notwithstanding 
+     section 402(2), the term'' and insert ``The term''.
+       On page 525, line 17, insert ``of the Food for Peace Act'' 
+     after ``section 202(d)''.
+       On page 526, lines 4 through 6, strike ``Notwithstanding 
+     section 407(c)(1)(A), the Administrator, in consultation with 
+     the Secretary'' and insert ``The Administrator''.
+       On page 527, lines 5 and 6, strike ``Subject to subsections 
+     (a), (b), (f), and (h) of section 403, eligible commodities'' 
+     and insert ``Eligible commodities''.
+       On page 529, strike lines 10 through 12.
+       On page 534, strike lines 1 through 11 and insert the 
+     following:
+       ``(k) Authorization of Appropriations.--
+       ``(1) In general.--There are authorized to be appropriated 
+     $25,000,000 for each of the fiscal years 2009 through 2012 to 
+     carry out this section.
+       ``(2) Availability.--Any amounts appropriated pursuant to 
+     paragraph (1) shall remain available until expended.''.
+       On page 1391, between lines 16 and 17, insert the 
+     following:
+       ``(k) No Duplicative Payments.--In implementing any other 
+     program which makes disaster assistance payments (except for 
+     indemnities made under the Federal Crop Insurance Act and 
+     section 196 of the Federal Agriculture Improvement and Reform 
+     Act of 1996), the Secretary shall prevent duplicative 
+     payments with respect to the same loss for which a person 
+     receives a payment under subsections (b), (c), (d), or (e).
+       In section 1101, strike subsection (c) and insert the 
+     following:
+       (c) Reduction in Base Acres.--
+       (1) Reduction at option of owner.--
+       (A) In general.--The owner of a farm may reduce, at any 
+     time, the base acres for any covered commodity for the farm.
+       (B) Effect of reduction.--A reduction under subparagraph 
+     (A) shall be permanent and made in a manner prescribed by the 
+     Secretary.
+       (2) Required action by secretary.--
+       (A) In general.--The Secretary shall suspend all direct, 
+     counter-cyclical, and average crop revenue payments on base 
+     acres for covered commodities for land that is no longer a 
+     farming operation or used in conjunction with a farming 
+     operation, as determined by the Secretary.
+       (B) Reduction.--The Secretary shall reduce base acres for 
+     covered commodities in a manner prescribed by the Secretary, 
+     for land that--
+       (i) has been developed for commercial or industrial use 
+     unless the producer demonstrates that the land remains 
+     devoted exclusively to agricultural production; or
+       (ii) has been subdivided and developed for multiple 
+     residential units or other nonfarming uses, unless the 
+     producer demonstrates that the land remains devoted 
+     exclusively to agricultural production.
+       (3) Review and report.--Each year, to ensure, to the 
+     maximum extent practicable, that payments are received only 
+     by producers, the Secretary shall--
+       (A) track each reconstitution of land that is reported by a 
+     producer that is covered by paragraph (2);
+
+[[Page S15675]]
+
+       (B) include in any end-of-the-year review for purposes of 
+     payment limitations or other compliance inspections or other 
+     actions taken by the Secretary, a review to ensure compliance 
+     with paragraph (2); and
+       (C) submit to Congress a report that describes the results 
+     of the actions taken under subparagraphs (A) and (B).
+       In section 1302, strike subsection (c) and insert the 
+     following:
+       (c) Reduction in Base Acres.--
+       (1) Reduction at option of owner.--
+       (A) In general.--The owner of a farm may reduce, at any 
+     time, the base acres for peanuts for the farm.
+       (B) Effect of reduction.--A reduction under subparagraph 
+     (A) shall be permanent and made in a manner prescribed by the 
+     Secretary.
+       (2) Required action by secretary.--
+       (A) In general.--The Secretary shall suspend all direct, 
+     counter-cyclical, and average crop revenue payments on base 
+     acres for peanuts for land that is no longer a farming 
+     operation or used in conjunction with a farming operation, as 
+     determined by the Secretary.
+       (B) Reduction.--The Secretary shall reduce base acres for 
+     peanuts in a manner prescribed by the Secretary, for land 
+     that--
+       (i) has been developed for commercial or industrial use 
+     unless the producer demonstrates that the land remains 
+     devoted exclusively to agricultural production; or
+       (ii) has been subdivided and developed for multiple 
+     residential units or other nonfarming uses, unless the 
+     producer demonstrates that the land remains devoted 
+     exclusively to agricultural production.
+       (3) Review and report.--Each year, to ensure, to the 
+     maximum extent practicable, that payments are received only 
+     by producers, the Secretary shall--
+       (A) track each reconstitution of land that is reported by a 
+     producer that is covered by paragraph (2);
+       (B) include in any end-of-the-year review for purposes of 
+     payment limitations or other compliance inspections or other 
+     actions taken by the Secretary, a review to ensure compliance 
+     with paragraph (2); and
+       (C) submit to Congress a report that describes the results 
+     of the actions taken under subparagraphs (A) and (B).
+       On page 1362, between lines 19 and 20, insert the 
+     following:
+
+     SEC. 11072. REPORT RELATING TO THE ENDING OF CHILDHOOD HUNGER 
+                   IN THE UNITED STATES.
+
+       (a) Findings.--Congress finds that--
+       (1) the United States has the highest rate of childhood 
+     poverty in the industrialized world, with over \1/5\ of all 
+     children of the United States living in poverty, and almost 
+     half of those children living in extreme poverty;
+       (2) childhood poverty in the United States is growing 
+     rather than diminishing;
+       (3) households with children experience hunger at more than 
+     double the rate as compared to households without children;
+       (4) hunger is a major problem in the United States, with 
+     the Department of Agriculture reporting that 12 percent of 
+     the citizens of the United States (approximately 35,000,000 
+     citizens) could not put food on the table of those citizens 
+     at some point during 2006;
+       (5) of the 35,000,000 citizens of the United States that 
+     have very low food security--
+       (A) 98 percent of those citizens worried that money would 
+     run out before those citizens acquired more money to buy more 
+     food;
+       (B) 96 percent of those citizens had to cut the size of the 
+     meals of those citizens or even go without meals because 
+     those citizens did not have enough money to purchase 
+     appropriate quantities of food; and
+       (C) 94 percent of those citizens could not afford to eat 
+     balanced meals;
+       (6) the phrase ``people with very low food security'', a 
+     new phrase in our national lexicon, in simple terms means 
+     ``people who are hungry'';
+       (7) 30 percent of black and Hispanic children, and 40 
+     percent of low income children, live in households that do 
+     not have access to nutritionally adequate diets that are 
+     necessary for an active and healthy life;
+       (8) the increasing lack of access of the citizens of the 
+     United States to nutritionally adequate diets is a 
+     significant factor from which the Director of the Centers for 
+     Disease Control and Prevention concluded that ``during the 
+     past 20 years there has been a dramatic increase in obesity 
+     in the United States'';
+       (9) during the last 3 decades, childhood obesity has--
+       (A) more than doubled for preschool children and 
+     adolescents; and
+       (B) more than tripled for children between the ages of 6 
+     and 11 years;
+       (10) as of the date of enactment of this Act, approximately 
+     9,000,000 children who are 6 years old or older are 
+     considered obese;
+       (11) scientists have demonstrated that there is an inverse 
+     relation between obesity and doing well in school; and
+       (12) a study published in Pediatrics found that ``6- to 11-
+     year-old food-insufficient children had significantly lower 
+     arithmetic scores and were more likely to have repeated a 
+     grade, have seen a psychologist, and have had difficulty 
+     getting along with other children''.
+       (b) Sense of Congress.--It is the sense of Congress that--
+       (1) it is a national disgrace that many millions of 
+     citizens of the United States, a disproportionate number of 
+     whom are children, are going hungry in this great nation, 
+     which is the wealthiest country in the history of the world;
+       (2) because the strong commitment of the United States to 
+     family values is deeply undermined when families and children 
+     go hungry, the United States has a moral obligation to 
+     abolish hunger; and
+       (3) through a variety of initiatives (including large 
+     funding increases in nutrition programs of the Federal 
+     Government), the United States should abolish child hunger 
+     and food insufficiency in the United States by the 2013.
+       (c) Report.--Not later than 1 year after the date of 
+     enactment of this Act, the Secretary shall submit to the 
+     relevant committees of Congress a report that describes the 
+     best and most cost-effected manner by which the Federal 
+     Government could allocate an increased amount of funds to new 
+     programs and programs in existence as of the date of 
+     enactment of this Act to achieve the goal of abolishing child 
+     hunger and food insufficiency in the United States by 2013.
+       On page 394, strike line 25 and insert the following:
+     as determined by the Secretary.
+       ``(i) Air Quality Improvement Practice.--
+       ``(1) In general.--The Secretary shall provide technical 
+     and financial assistance to a producer to promote air quality 
+     improvements and address air quality concerns associated with 
+     agriculture.
+       ``(2) Priority.--In providing assistance for improvements 
+     in air quality, the Secretary shall give priority to 
+     applications that--
+       ``(A) are located in areas--
+       ``(i) that are nonattainment areas with respect to ambient 
+     air quality standards; or
+       ``(ii) in which there is air quality degradation recognized 
+     by a State or local agency or by the Secretary (in 
+     consultation with the State Technical Committee) to which 
+     agricultural emissions significantly contribute;
+       ``(B) are the most cost-effective in addressing air quality 
+     concerns; and
+       ``(C)(i) reduce emissions and air pollutant precursors from 
+     agricultural operations, including through making 
+     improvements in mobile or stationary equipment (including 
+     engines);
+       ``(ii) would assist producers in meeting Federal, State, or 
+     local regulatory requirements relating to air quality;
+       ``(iii) are part of a group of producers implementing 
+     eligible conservation activities in a coordinated manner to 
+     promote air quality; or
+       ``(iv) reflect innovative approaches and technologies.''.
+       On page 1045, after line 2, insert the following:
+
+     SEC. 7505. STUDIES AND REPORTS BY THE DEPARTMENT OF 
+                   AGRICULTURE, THE DEPARTMENT OF HEALTH AND HUMAN 
+                   SERVICES, AND THE NATIONAL ACADEMY OF SCIENCES 
+                   ON FOOD PRODUCTS FROM CLONED ANIMALS.
+
+       (a) Study by the Department of Agriculture.--
+       (1) In general.--The Secretary of Agriculture, in 
+     coordination with the Economic Research Service, and after 
+     consultation with the Secretary of Health and Human Services, 
+     shall conduct a study and report to Congress on the state of 
+     domestic and international markets for products from cloned 
+     animals, including consumer acceptance. Such report shall be 
+     submitted to Congress no later than 180 days after the date 
+     of enactment of this Act.
+       (2) Content.--The study and report under paragraph (1) 
+     shall include a description of how countries regulate the 
+     importation of food and agricultural products (including 
+     dairy products), the basis for such regulations, and 
+     potential obstacles to trade.
+       (b) Study With the National Academy of Sciences.--
+       (1) In general.--The Secretary of Health and Human Services 
+     shall contract with the National Academy of Sciences to 
+     conduct a study and report to Congress regarding the safety 
+     of food products derived from cloned animals and the health 
+     effects and costs attributable to milk from cloned animals in 
+     the food supply. Such report shall be submitted to Congress 
+     no later than 1 year after the date of enactment of this Act.
+       (2) Content.--The study and report under paragraph (1) 
+     shall include--
+       (A) a review and an assessment of whether the studies 
+     (including peer review studies), data, and analysis used in 
+     the draft risk assessment issued by the Food and Drug 
+     Administration entitled Animal Cloning: A Draft Risk 
+     Assessment (issued on December 28, 2006) supported the 
+     conclusions drawn by such draft risk assessment and--
+       (i) whether there were a sufficient number of studies to 
+     support such conclusions; and
+       (ii) whether additional pertinent studies and data exist 
+     which were not considered in the draft risk assessment and 
+     how this additional information affects the conclusions drawn 
+     in such draft risk assessment; and
+       (B) an evaluation and measurement of the potential public 
+     health effects and associated health care costs, including 
+     any consumer behavior changes and negative impacts on 
+     nutrition, health, and chronic diseases that may result from 
+     any decrease in dairy consumption, attributable to the 
+     commercialization of milk from cloned animals and their 
+     progeny.
+       (c) Rule of Construction.--Nothing in this section shall be 
+     construed to impede ongoing scientific research in artificial 
+     reproductive health technologies.
+       (d) Timeframe of Final Risk Assessment.--Notwithstanding 
+     any other provision
+
+[[Page S15676]]
+
+     of law, the Secretary of Health and Human Services (acting 
+     through the Commissioner of Food and Drugs) shall not issue 
+     the final risk assessment on the safety of cloned animals and 
+     food products derived from cloned animals until the date that 
+     the Secretary of Agriculture and the Secretary of Health and 
+     Human Services complete the studies required under this 
+     section.
+       (e) Continuance of Moratorium.--Any voluntary moratorium on 
+     introducing food from cloned animals or their progeny into 
+     the food supply shall remain in effect at least until the 
+     date that the Secretary of Health and Human Services (acting 
+     through the Commissioner of Food and Drugs) issues the final 
+     risk assessment described in subsection (d).
+       Strike Section 10305 of Livestock title and replace with 
+     this section:
+       (a) Not later than 180 days after the date of enactment of 
+     this Act, the Secretary shall promulgate regulations 
+     consistent with the Freedom of Information Act, 5 U.S.C. 552, 
+     et seq., regarding the disclosure of information submitted by 
+     farmers and ranchers who participate in the National Animal 
+     Identification System. The regulations promulgated, which 
+     shall be subject to a public comment period before 
+     finalizing, should address the protection of trade secrets 
+     and other proprietary and/or confidential business 
+     information that farmers and ranchers disclose in the course 
+     of participation in National Animal Identification System.
+       On page 778, between lines 2 and 3, insert the following:
+       (c) Commercial Fishing.--Section 343 of the Consolidated 
+     Farm and Rural Development Act (7 U.S.C. 1991) is amended--
+       (1) in subsection (a), by inserting ``and, in the case of 
+     subtitle B, commercial fishing'' before the period at the end 
+     of each of paragraphs (1) and (2); and
+       (2) by adding at the end the following:
+       ``(c) Definition of Farm.--In subtitle B, the term `farm' 
+     includes a commercial fishing enterprise the owner or 
+     operator of which is unable to obtain commercial credit from 
+     a bank or other lender, as determined by the Secretary.''.
+       On page 309, strike lines 7 through 22 and insert the 
+     following:
+       ``(D) Exceptions.--The Secretary may exceed the limitation 
+     in subparagraph (A) if the Secretary determines that--
+       ``(i)(I) the action would not adversely affect the local 
+     economy of a county; and
+       ``(II) operators in the county are having difficulties 
+     complying with conservation plans implemented under section 
+     1212;
+       ``(ii)(I) the acreage to be enrolled could not be used for 
+     an agricultural purpose as a result of a State or local law, 
+     order, or regulation prohibiting water use for agricultural 
+     production; and
+       ``(II) enrollment in the program would benefit the acreage 
+     enrolled or land adjacent to the acreage enrolled; or
+       ``(iii) with respect to cropland in counties in the State 
+     of Washington that exceed the limitation described in 
+     subparagraph (A) as of the date of enrollment in the 
+     program--
+
+       ``(I) the acreage to be enrolled is considered to be 
+     essential by Federal or State plans for a sustainable 
+     wildlife habitat; and
+       ``(II) enrollment in the program would assist the producer 
+     in meeting environmental goals in the Federal or State 
+     plans.''.
+
+       In Section 10208 (regulations) (Livestock Title), 
+     Subsection (b) is stricken, and replaced with:
+       ``The Secretary shall ensure that regulations promulgated 
+     pursuant to subsection (a)(1) prevent discrimination against 
+     producers with a smaller volume of business. Nothing in this 
+     subsection shall be construed to require any person to enter 
+     into a business transaction with a producer due solely to 
+     that producer's volume of business.''
+       On page 309, line 17, insert ``or is precluded from 
+     planting'' before ``as a result''.
+       On page 310, strike lines 4 through 8 and insert the 
+     following:
+       ``(F) Enrollment.--The Secretary shall enroll acreage 
+     described in subparagraph (D)(ii) not later than 180 days 
+     after the date of a request by a landowner to enroll the 
+     acreage.
+       ``(G) Payments.--Rental payments for acreage described in 
+     subparagraph (D)(ii) shall be based on the cash rent market 
+     value prior to the application of a State or local law, 
+     order, or regulation prohibiting water use for agricultural 
+     production.
+       At the appropriate place, insert the following:
+
+     SEC. __. NATIONAL EMERGENCY GRANT TO ADDRESS EFFECTS OF 
+                   GREENSBURG, KANSAS TORNADO.
+
+       (a) Definitions.--In this section:
+       (1) Covered funds.--The term ``covered funds'' means funds 
+     provided under section 173 of the Workforce Investment Act of 
+     1998 (29 U.S.C. 2918) to a State that submits an application 
+     under that section not earlier than May 4, 2007, for a 
+     national emergency grant to address the effects of the May 4, 
+     2007, Greensburg, Kansas tornado.
+       (2) Professional municipal services.--The term 
+     ``professional municipal services'' means services that are 
+     necessary to facilitate the recovery of Greensburg, Kansas 
+     from that tornado, and necessary to plan for or provide basic 
+     management and administrative services, which may include--
+       (A) the overall coordination of disaster recovery and 
+     humanitarian efforts, oversight, and enforcement of building 
+     code compliance, and coordination of health and safety 
+     response units; or
+       (B) the delivery of humanitarian assistance to individuals 
+     affected by that tornado.
+       (b) Temporary Public Sector Employment and Services.--
+     Covered funds may be used to provide temporary public sector 
+     employment and services authorized under section 173 of such 
+     Act to individuals affected by such tornado, including 
+     individuals who were unemployed on the date of the tornado, 
+     or who are without employment history, in addition to 
+     individuals who are eligible for disaster relief employment 
+     under section 173(d)(2) of such Act.
+       (c) Professional Municipal Services.--Covered funds may be 
+     used to provide professional municipal services for a period 
+     of not more than 24 months, by hiring or contracting with 
+     individuals or organizations (including individuals employed 
+     by contractors) that the State involved determines are 
+     necessary to provide professional municipal services.
+       (d) Limitation.--Covered funds expended under this section 
+     may be spent on costs incurred not earlier than May 4, 2007.
+       On page 1362, between lines 19 and 20, insert the 
+     following:
+
+     SEC. 110___. REPORT ON PROGRAM RESULTS.
+
+       Not later than 180 days after the date of enactment of this 
+     Act, the Secretary shall submit to Congress a report that 
+     describes--
+       (1) each program of the Department of Agriculture that has 
+     received a Program Assessment Rating Tool score of ``results 
+     not demonstrated''; and
+       (2) for each such program--
+       (A) the reasons that the program has not been able to 
+     demonstrate results;
+       (B) the steps being taken by the program to address those 
+     reasons; and
+       (C) a description of anything that might be necessary to 
+     facilitate the demonstration of results.
+       On page 973, strike lines 21 through 24 and insert the 
+     following:
+       (a) Funding.--Section 401(b) of the Agricultural Research, 
+     Extension, and Education Reform Act of 1998 (7 U.S.C. 
+     7621(b)) is amended--
+       (1) by striking paragraph (1) and inserting the following:
+       ``(1) In general.--Not later than 30 days after the date of 
+     enactment of the Food and Energy Security Act of 2007, the 
+     Secretary of the Treasury shall transfer $45,000,000 to the 
+     Account.''; and
+       (2) by striking paragraph (3) and inserting the following:
+       On page 394, after line 25, add the following:
+       (d) Eligibility Requirement.--Section 1240B of the Food 
+     Security Act of 1985 (16 U.S.C. 3839aa-2) (as amended by 
+     subsection (c)) is amended by adding at the end the 
+     following:
+       ``(i) Eligibility Requirement.--A producer shall not be 
+     eligible to receive any payment under this section unless the 
+     producer is a farmer or rancher that, as determined by the 
+     Secretary, derives or expects to derive at least $15,000 in 
+     gross sales from farming, ranching, or forestry operations 
+     (not including payments under the conservation reserve 
+     program established under subchapter B of chapter 1 of 
+     subtitle D), as determined by the Secretary.''.
+       Beginning on page 180, strike line 18 and all that follows 
+     through page 182, line 16, and insert the following:
+
+     SEC. 1609. MANDATORY REPORTING OF DAIRY COMMODITIES.
+
+       Section 273 of the Agricultural Marketing Act of 1946 (7 
+     U.S.C. 1637b) is amended by striking subsections (a) and (b) 
+     and inserting the following:
+       ``(a) Daily Reporting.--
+       ``(1) In general.--Not later than 180 days after the 
+     enactment of the Food and Energy Security Act of 2007, the 
+     Secretary shall--
+       ``(A) establish a program for mandatory daily dairy product 
+     information reporting that--
+       ``(i) provides timely, accurate, and reliable market 
+     information;
+       ``(ii) facilitates more informed marketing decisions; and
+       ``(iii) promotes competition in the dairy product 
+     manufacturing industry; and
+       ``(B) require officers or officially designated 
+     representatives of each dairy processor to report daily 
+     pricing information for relevant sales transaction involving 
+     a dairy product, as determined by the Secretary.
+       ``(2) Publication.--The Secretary shall make the 
+     information reported under paragraph (1) available to the 
+     public not less frequently than once each reporting day, 
+     categorized by appropriate product characteristics, as 
+     determined by the Secretary.
+       ``(b) Requirements.--
+       ``(1) Price reporting.--
+       ``(A) In general.--Subject to the conditions described in 
+     paragraph (3), on each business day of the Department of 
+     Agriculture, each dairy manufacturer shall report to the 
+     Secretary on all sales of dairy products that the dairy 
+     manufacturer made on the immediately preceding day or since 
+     the last report by the dairy manufacturer.
+       ``(B) Requirements.--A dairy manufacturer shall report such 
+     price, quantity, and product characteristics as the Secretary 
+     determines appropriate.
+       ``(C) Submission.--Reports under this paragraph shall be 
+     submitted by electronic means at such time as designated by 
+     the Secretary.
+       ``(D) Availability.--The Secretary shall compile the 
+     information reported under this paragraph and make the 
+     compiled information available to the public on the same day 
+     as the information is reported.
+       ``(2) Storage reporting.--
+
+[[Page S15677]]
+
+       ``(A) In general.--The Secretary shall require each dairy 
+     manufacturer or other person storing dairy products to 
+     report, at periodic intervals determined by the Secretary, 
+     information regarding the quantities of dairy products in 
+     storage.
+       ``(B) Availability.--The Secretary shall make information 
+     described under subparagraph (A) available to the public in a 
+     timely manner.
+       ``(3) Conditions.--The conditions referred to in paragraph 
+     (1) are that the information required under that paragraph is 
+     required only--
+       ``(A) with respect to those package sizes actually used to 
+     establish minimum prices for Class III or Class IV milk under 
+     a Federal milk marketing order; and
+       ``(B) to the extent that the information is actually used 
+     to establish minimum prices for Class III or Class IV milk 
+     under a Federal milk marketing order.
+       ``(4) Exemption for small processors.--The daily reporting 
+     requirements of this subsection shall not apply to a 
+     processor that processes not more than 1,000,000 pounds of 
+     dairy products a year.
+       ``(5) Periodic review.--The Secretary shall--
+       ``(A) periodically review the information reported for 
+     products under this subsection; and
+       ``(B) propose changes for the information required to be 
+     reported under this subsection, through the public hearing 
+     process established under the applicable Federal milk 
+     marketing order.
+       ``(6) Electronic reporting.--To the maximum extent 
+     practicable, the Secretary shall carry out the program 
+     established under this subsection using electronic reporting 
+     technology.''.
+       On page 1107, strike lines 18 through 22 and insert the 
+     following:
+
+       ``(VIII) the participation of multiple eligible entities;
+       ``(IX) the potential for developing advance industrial 
+     biotechnology approaches; and
+       ``(X) whether the distribution of funds would have minimal 
+     impact on existing manufacturing and other facilities that 
+     use similar feedstocks.
+
+       On page 905, between lines 17 and 18, insert the following:
+
+     SEC. 7013. PURPOSES AND FINDINGS RELATING TO ANIMAL HEALTH 
+                   AND DISEASE RESEARCH.
+
+       Section 1429 of the National Agricultural Research, 
+     Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3191) is 
+     amended--
+       (1) in paragraph (8), by striking ``and'' at the end;
+       (2) in paragraph (9), by striking the period at the end and 
+     inserting ``; and''; and
+       (3) by adding at the end the following:
+       ``(10) support work with agricultural colleges and 
+     universities to develop methods and practices of animal 
+     husbandry that ensure the judicious use of antibiotics.''.
+       On page 987, between lines 12 and 13, insert the following:
+       (B) in subparagraph (B), by striking ``production 
+     efficiency and animal well-being'' and inserting ``production 
+     efficiency, animal well-being, and the judicious use of 
+     antibiotics'';
+       (C) in subparagraph (D), by striking ``surface water and 
+     ground water quality'' and inserting ``surface water quality 
+     and ground water quality, including the reduction of 
+     antibiotics or antibiotic-resistant bacteria'';
+       On page 987, line 13, strike ``(B)'' and insert ``(D)''.
+       On page 987, line 19, strike ``(C)'' and insert ``(E)''.
+       On page 987, line 23, strike ``(D)'' and insert ``(F)''.
+       On page 1002, after line 21, insert the following:
+
+     SEC. 73__. RESEARCH AND EDUCATION GRANTS FOR THE STUDY OF 
+                   ANTIBIOTIC-RESISTANT BACTERIA IN LIVESTOCK.
+
+       (a) In General.--The Secretary shall provide research and 
+     education grants, on a competitive basis--
+       (1) to study the development of antibiotic-resistant 
+     bacteria in livestock; and
+       (2) to study and ensure the judicious use of antibiotics in 
+     livestock production to protect animal health without 
+     negatively impacting human public health.
+       (b) Use of Funds.--An entity shall use a grant provided 
+     under this section to conduct research relating to--
+       (1) methods and practices of animal husbandry that ensure 
+     the judicious use of antibiotics;
+       (2) movement and prevention of movement of antibiotics and 
+     antibiotic resistance traits from animals into ground and 
+     surface water;
+       (3) safe and effective alternatives to antibiotics;
+       (4) the effect on antibiotic resistance from various drug 
+     use regimens;
+       (5) the development of better veterinary diagnostics to 
+     improve decisionmaking on proper antibiotic use;
+       (6) the identification of conditions or factors that affect 
+     antibiotic use on farms; and
+       (7) the development of procedures to monitor antibiotic use 
+     at the farm level to relate findings to on-farm management 
+     practices and develop intervention strategies when 
+     appropriate.
+       Beginning on page 499, strike line 15 and all that follows 
+     through page 501, line 2, and insert the following:
+       (a) Federal Crop Insurance.--Section 508 of the Federal 
+     Crop Insurance Act (7 U.S.C. 1508) is amended by adding at 
+     the end the following:
+       ``(o) Crop Insurance Ineligibility Relating to Crop 
+     Production on Native Sod.--
+       ``(1) Definition of native sod.--In this subsection, the 
+     term `native sod' means land--
+       ``(A) on which the plant cover is composed principally of 
+     native grasses, grasslike plants, forbs, or shrubs suitable 
+     for grazing and browsing; and
+       ``(B) that has never been used for production of an 
+     agricultural commodity.
+       ``(2) Ineligibility.--
+       ``(A) In general.--Except as provided in subparagraph (B), 
+     native sod acreage on which an agricultural commodity is 
+     planted for which a policy or plan of insurance is available 
+     under this title shall be ineligible for benefits under this 
+     Act.
+       ``(B) De minimis acreage exemption.--The Secretary shall 
+     exempt areas of 5 acres or less from subparagraph (A).''.
+       (b) Noninsured Crop Disaster Assistance.--Section 196(a) of 
+     the Federal Agriculture Improvement and Reform Act of 1996 (7 
+     U.S.C. 7333(a)) is amended by adding at the end the 
+     following:
+       ``(4) Program ineligibility relating to crop production on 
+     native sod.--
+       ``(A) Definition of native sod.--In this paragraph, the 
+     term `native sod' means land--
+       ``(i) on which the plant cover is composed principally of 
+     native grasses, grasslike plants, forbs, or shrubs suitable 
+     for grazing and browsing; and
+       ``(ii) that has never been used for production of an 
+     agricultural commodity.
+       ``(B) Ineligibility.--Except as provided in subparagraph 
+     (C), native sod acreage on which an agricultural commodity is 
+     planted for which a policy or plan of Federal crop insurance 
+     is available shall be ineligible for benefits under this 
+     section.
+       ``(C) De minimis acreage exemption.--The Secretary shall 
+     exempt areas of 5 acres or less from subparagraph (B).''.
+       On page 542, line 12, strike ``2013'' and insert ``2012''.
+       On page 663, between lines 18 and 19, insert the following:
+
+     SEC. 49__. PERIODIC SURVEYS OF FOODS PURCHASED BY SCHOOL FOOD 
+                   AUTHORITIES.
+
+       Section 6 of the Richard B. Russell National School Lunch 
+     Act (42 U.S.C. 1755) is amended by adding at the end the 
+     following:
+       ``(f) Periodic Surveys of Foods Purchased by School Food 
+     Authorities.--
+       ``(1) In general.--For fiscal year 2008 and every fifth 
+     fiscal year thereafter, the Secretary shall carry out a 
+     nationally representative survey of the foods purchased 
+     during the most recent school year for which data is 
+     available by school authorities participating in the national 
+     school lunch program.
+       ``(2) Report.--On completion of each survey, the Secretary 
+     shall submit to Congress a report that describes the results 
+     of the survey.
+       ``(3) Funding.--Of the funds made available under section 
+     3, the Secretary shall use to carry out this subsection not 
+     more than $3,000,000 for fiscal year 2008 and every fifth 
+     fiscal year thereafter.''.
+       On page 672, between lines 6 and 7, insert the following:
+
+     SEC. 49__. TEAM NUTRITION NETWORK.
+
+       Section 19 of the Child Nutrition Act of 1966 (42 U.S.C. 
+     1788) is amended by striking subsection (l) and inserting the 
+     following:
+       ``(l) Funding.--
+       ``(1) Mandatory funding.--
+       ``(A) In general.--On October 1, 2008, and on each October 
+     1 thereafter through October 1, 2011, out of any funds in the 
+     Treasury not otherwise appropriated, the Secretary of the 
+     Treasury shall transfer to the Secretary to carry out this 
+     section $3,000,000, to remain available until expended.
+       ``(B) Receipt and acceptance.--The Secretary shall be 
+     entitled to receive, shall accept, and shall use to carry out 
+     this section the funds transferred under subparagraph (A), 
+     without further appropriation.
+       ``(C) Nutritional health of school children.--In allocating 
+     funds made available under this paragraph, the Secretary 
+     shall give priority to carrying out subsections (a) through 
+     (g).
+       ``(2) Authorization of appropriations.--In addition to the 
+     amounts made available under paragraph (1), there are 
+     authorized to be appropriated such sums as are necessary to 
+     carry out this section.''.
+       At the appropriate place insert the following section.
+
+     SEC. __. SENSE OF THE SENATE ON THE U.S. DEPARTMENT OF 
+                   AGRICULTURE'S WILDLIFE SERVICES COMPETING 
+                   AGAINST PRIVATE INDUSTRY FOR NUISANCE BIRD 
+                   CONTROL WORK.
+
+       (a) Findings.--The Senate finds that:
+       (1) the Wildlife Services division of the Animal and Plant 
+     Health Inspection Service of the Department of Agriculture 
+     (referred to in this section as ``Wildlife Services'' helps 
+     agricultural producers manage nuisance wildlife problems;
+       (2) Wildlife Services personnel also manage nuisance 
+     wildlife in non-agricultural settings, including urban areas;
+       (3) Congress granted the Secretary the authority to engage 
+     in wildlife animal damage activities in the Act of March 2, 
+     1932, and the Rural Development, Agriculture and Related 
+     Agencies Appropriations Act, 1988;
+       (4) title I of the Rural Development, Agriculture and 
+     Related Agencies Appropriations Act, 1988 expressly prohibits 
+     the Secretary from performing ``urban rodent'' control but 
+     does not define the term;
+       (5) There are more than 19,000 professional pest management 
+     companies in the United
+
+[[Page S15678]]
+
+     States, a significant percentage of which manage nuisance 
+     birds such as European starlings, house sparrows, and pigeons 
+     in urban areas;
+       (6) The industry employs more than 115,000 service 
+     personnel who perform over 60 million services annually for 
+     residential and commercial clients in every market of the 
+     United States;
+       (7) in areas where the private sector has the capacity to 
+     provide nuisance wildlife services, the limited resources of 
+     Wildlife Services would be better used to assist agricultural 
+     producers with management of predators and other depredatory 
+     species that prey on livestock and sport and farm fish, and 
+     damage crops.
+       (b) Sense of the Senate.--It is the Sense of the Senate 
+     that--
+       (1) Wildlife Services should neither compete nor condone 
+     competition with the private sector for business regarding 
+     the management of nuisance wildlife problems in urban areas 
+     where private sector services are available;
+       (2) Wildlife Services, prior to entering into any 
+     cooperative agreement for wildlife damage management 
+     activities, should inform cooperators of the availability of 
+     and their right to acquire services from private service 
+     providers;
+       (3) the Secretary of Agriculture should ensure that 
+     Wildlife Services does not aggressively compete with the 
+     private pest management industry for European starling, house 
+     sparrow, and pigeon control work in urban areas where private 
+     sector services are available;
+       (4) the Secretary of Agriculture should rely on scientific 
+     and widely accepted definitions to define the term ``urban 
+     rodent,'' as used in the Rural Development, Agriculture and 
+     Related Agencies Appropriations Act of 1988, in order to 
+     clarify the express restrictions in that law on Wildlife 
+     Services activities;
+       (5) The Secretary should direct Wildlife Services to work 
+     with private industry, through a Memorandum of Understanding, 
+     to delineate common areas of cooperation so that issues of 
+     competition are addressed, taking into account the interests 
+     of the wildlife resources and the need to manage damage 
+     caused by that resource.
+       On page 116, line 11, insert ``covered'' before 
+     ``commodity''.
+       On page 116, line 16, insert ``covered'' before 
+     ``commodity''.
+       On page 209, line 10, strike ``(19 U.S.C. 2401(2)'' and 
+     insert ``(19 U.S.C. 2401(2))''.
+       On page 210, line 20, strike ``Crop years'' and insert 
+     ``Commodity and conservation programs''.
+       On page 210, strike line 21 and insert the following:
+       ``(A) Commodity programs.--
+       ``(i) 2009 crop year.--Notwithstanding
+       On page 211, strike lines 7 and 8 and insert the following:
+       ``(ii) 2010 and subsequent crop years.--Notwithstanding any 
+     other provision
+       On page 211, line 19, strike ``(C)'' and insert ``(B)''.
+       On page 211, line 23, strike ``crop year'' and insert 
+     ``fiscal year''.
+       On page 212, lines 6 and 7, strike ``Subparagraphs (A) and 
+     (B) of paragraph (1)'' and insert ``Paragraph (1)(A)''.
+       On page 212, lines 20 and 21, strike ``Paragraph (1)(C)'' 
+     and insert ``Paragraph (1)(B)''.
+       On page 214, line 19, strike ``(f)'' and insert ``(g)''.
+       On page 221, line 23, strike ``locate'' and insert 
+     ``located''.
+       On page 299, strike lines 21 through 24 and insert the 
+     following:
+       (1) by redesignating paragraphs (2) through (11), (12), 
+     (13) through (15), and (16), (17), and (18) as paragraphs (3) 
+     through (12), (14), (16) through (18), and (20), (22), and 
+     (23), respectively;
+       On page 300, by striking lines 19 through 21 and inserting 
+     the following:
+
+     Act (25 U.S.C. 450b).''.
+       (4) by inserting after paragraph (14) (as redesignated by 
+     paragraph (1)) the following:
+       ``(15) Nonindustrial private forest land.--The term 
+     `nonindustrial private forest land'
+       On page 301, line 6, strike ``(4)'' and insert ``(5)''.
+       On page 301, line 13, strike ``(5)'' and insert ``(6)''.
+       On page 322, line 8, strike ``; and'' and insert a period.
+       On page 388, line 17, strike ``(16 U.S.C. 3838aa-1(2))'' 
+     and insert ``(16 U.S.C. 3839aa-1(2))''.
+       On page 389, line 11, strike ``3838aa-1(3))'' and insert 
+     ``3839aa-1(3))''.
+       On page 390, line 6, strike ``(16 U.S.C. 3838aa-1(5))'' and 
+     insert ``(16 U.S.C. 3839aa-1(5))''.
+       On page 390, line 10, strike ``(16 U.S.C. 3838aa-1)'' and 
+     insert ``(16 U.S.C. 3839aa-1)''.
+       On page 390, line 21, strike ``U.S.C. 3838aa-1)'' and 
+     insert ``(U.S.C. 3839aa-1)''.
+       On page 126, line 12, strike ``the second loan is made'' 
+     and insert ``the first loan was made''.
+       On page 127, lines 18 and 19, strike ``the date of 
+     enactment of the Food and Energy Security Act of 2007'' and 
+     insert ``May 13, 2002''.
+       On page 130, line 7, strike ``subsection (d)'' and insert 
+     ``subsection (c)''.
+       On page 132, line 13, strike ``2012'' and insert ``2011''.
+       On page 135, line 5, strike ``payment under this 
+     subsection'' and insert ``purchase by the Secretary under 
+     paragraph (2)''.
+       On page 138, lines 20 and 21, strike ``to Mexico''.
+       On page 138, line 22, strike ``date'' and insert ``data''.
+       On page 141, strike lines 21 through 25 and insert the 
+     following:
+       (1) by redesignating paragraphs (1), (2), (3), and (4) as 
+     paragraphs (2), (4), (5), and (6), respectively;
+       (2) by inserting before paragraph (2) (as so redesignated) 
+     the following:
+       ``(1) Human consumption.--The term `human consumption', 
+     when used in the context of a reference to sugar (whether in 
+     the form of sugar, in-process sugar, syrup, molasses, or in 
+     some other form) for human consumption, includes sugar for 
+     use in human food, beverages, or similar products.''; and
+       (3) by inserting after paragraph (2) (as so redesignated) 
+     the following:
+       ``(3) Market.--
+       On page 142, line 10, strike ``and'' at the end.
+       On page 142, line 13, strike the period at the end and 
+     insert ``; and''.
+       On page 142, between lines 13 and 14, insert the following:
+       ``(iii) the sale of sugar for the production of ethanol or 
+     other bioenergy product, if the disposition of the sugar is 
+     administered by the Secretary under section 156(f) of the 
+     Federal Agriculture Improvement and Reform Act of 1996 (7 
+     U.S.C. 7272(f)).
+       Beginning on page 142, strike line 22 and all that follows 
+     through page 147, line 12, and insert the following:
+
+     ``SEC. 359B. FLEXIBLE MARKETING ALLOTMENTS FOR SUGAR.
+
+       ``(a) Sugar Estimates.--
+       ``(1) In general.--Not later than August 1 before the 
+     beginning of each of the 2008 through 2012 crop years for 
+     sugarcane and sugar beets, the Secretary shall estimate--
+       ``(A) the quantity of sugar that will be subject to human 
+     consumption in the United States during the crop year;
+       ``(B) the quantity of sugar that would provide for 
+     reasonable carryover stocks;
+       ``(C) the quantity of sugar that will be available from 
+     carry-in stocks for human consumption in the United States 
+     during the crop year;
+       ``(D) the quantity of sugar that will be available from the 
+     domestic processing of sugarcane, sugar beets, and in-process 
+     beet sugar; and
+       ``(E) the quantity of sugars, syrups, and molasses that 
+     will be imported for human consumption or to be used for the 
+     extraction of sugar for human consumption in the United 
+     States during the crop year, whether the articles are under a 
+     tariff-rate quota or are in excess or outside of a tariff-
+     rate quota.
+       ``(2) Exclusion.--The estimates under this subsection shall 
+     not apply to sugar imported for the production of polyhydric 
+     alcohol or to any sugar refined and reexported in refined 
+     form or in products containing sugar.
+       ``(3) Reestimates.--The Secretary shall make reestimates of 
+     sugar consumption, stocks, production, and imports for a crop 
+     year as necessary, but not later than the beginning of each 
+     of the second through fourth quarters of the crop year.
+       ``(b) Sugar Allotments.--
+       ``(1) Establishment.--By the beginning of each crop year, 
+     the Secretary shall establish for that crop year appropriate 
+     allotments under section 359c for the marketing by processors 
+     of sugar processed from sugar cane or sugar beets or in-
+     process beet sugar (whether the sugar beets or in-process 
+     beet sugar was produced domestically or imported) at a level 
+     that is--
+       ``(A) sufficient to maintain raw and refined sugar prices 
+     above forfeiture levels so that there will be no forfeitures 
+     of sugar to the Commodity Credit Corporation under the loan 
+     program for sugar established under section 156 of the 
+     Federal Agriculture Improvement and Reform Act of 1996 (7 
+     U.S.C. 7272); but
+       ``(B) not less than 85 percent of the estimated quantity of 
+     sugar for domestic human consumption for the crop year.
+       ``(2) Products.--The Secretary may include sugar products, 
+     the majority content of which is sucrose for human 
+     consumption, derived from sugar cane, sugar beets, molasses, 
+     or sugar in the allotments established under paragraph (1) if 
+     the Secretary determines it to be appropriate for purposes of 
+     this part.
+       ``(c) Coverage of Allotments.--
+       ``(1) In general.--The marketing allotments under this part 
+     shall apply to the marketing by processors of sugar intended 
+     for domestic human consumption that has been processed from 
+     sugar cane, sugar beets, or in-process beet sugar, whether 
+     such sugar beets or in-process beet sugar was produced 
+     domestically or imported.
+       ``(2) Exceptions.--Consistent with the administration of 
+     marketing allotments during for each of the 2002 through 2007 
+     crop years, the marketing allotments shall not apply to sugar 
+     sold--
+       ``(A) to facilitate the exportation of the sugar to a 
+     foreign country, except that the exports of sugar shall not 
+     be eligible to receive credits under reexport programs for 
+     refined sugar or sugar containing products administered by 
+     the Secretary;
+       ``(B) to enable another processor to fulfill an allocation 
+     established for that processor; or
+       ``(C) for uses other than domestic human consumption, 
+     except for the sale of sugar for the production of ethanol or 
+     other bioenergy if the disposition of the sugar is 
+     administered by the Secretary under section 156(f) of the 
+     Federal Agriculture Improvement and Reform Act of 1996 (7 
+     U.S.C. 7272(f)).
+
+[[Page S15679]]
+
+       ``(3) Requirement.--The sale of sugar described in 
+     paragraph (2)(B) shall be--
+       ``(A) made prior to May 1; and
+       ``(B) reported to the Secretary.
+       ``(d) Prohibitions.--
+       ``(1) In general.--During all or part of any crop year for 
+     which marketing allotments have been established, no 
+     processor of sugar beets or sugarcane shall market for 
+     domestic human consumption a quantity of sugar in excess of 
+     the allocation established for the processor, except--
+       ``(A) to enable another processor to fulfill an allocation 
+     established for that other processor; or
+       ``(B) to facilitate the exportation of the sugar.
+       ``(2) Civil penalty.--Any processor who knowingly violates 
+     paragraph (1) shall be liable to the Commodity Credit 
+     Corporation for a civil penalty in an amount equal to 3 times 
+     the United States market value, at the time of the commission 
+     of the violation, of that quantity of sugar involved in the 
+     violation.''.
+       (c) Establishment of Flexible Marketing Allotments.--
+     Section 359c of the Agricultural Adjustment Act of 1938 (7 
+     U.S.C. 1359cc) is amended--
+       (1) by striking subsection (b) and inserting the following:
+       ``(b) Overall Allotment Quantity.--
+       ``(1) In general.--The Secretary shall establish the 
+     overall quantity of sugar to be allotted for the crop year 
+     (referred to in this part as the `overall allotment 
+     quantity') at a level that is--
+       ``(A) sufficient to maintain raw and refined sugar prices 
+     above forfeiture levels to avoid forfeiture of sugar to the 
+     Commodity Credit Corporation; but
+       ``(B) not less than a quantity equal to 85 percent of the 
+     estimated quantity of sugar for domestic human consumption 
+     for the crop year.
+       ``(2) Adjustment.--Subject to paragraph (1), the Secretary 
+     shall adjust the overall allotment quantity to maintain--
+       ``(A) raw and refined sugar prices above forfeiture levels 
+     to avoid the forfeiture of sugar to the Commodity Credit 
+     Corporation; and
+       ``(B) adequate supplies of raw and refined sugar in the 
+     domestic market.'';
+       (2) in subsection (d)(2), by inserting ``or in-process beet 
+     sugar'' before the period at the end;
+       (3) in subsection (g)(1)--
+       (A) by striking ``(1) In general.--The Secretary'' and 
+     inserting the following:
+       ``(1) Adjustments.--
+       ``(A) In general.--Subject to subparagraph (B), the 
+     Secretary''; and
+       (B) by adding at the end the following:
+       ``(B) Limitation.--In carrying out subparagraph (A), the 
+     Secretary may not reduce the overall allotment quantity to a 
+     quantity of less than 85 percent of the estimated quantity of 
+     sugar for domestic human consumption for the crop year.''; 
+     and
+       (4) by striking subsection (h).
+       (d) Allocation of Marketing Allotments.--Section 359d(b) of 
+     the Agricultural Adjustment Act of 1938 (7 U.S.C. 1359dd(b)) 
+     is amended--
+       (1) in paragraph (1)(F), by striking ``Except as otherwise 
+     provided in section 359f(c)(8), if'' and inserting ``If''; 
+     and
+       On page 152, strike lines 21 and 22 and insert the 
+     following:
+       (8)'';
+       (5) in the first sentence of paragraph (6)(C) (as so 
+     redesignated), by inserting ``for sugar'' before ``in excess 
+     of the farm's proportionate share''; and
+       (6) in paragraph (8) (as so redesignated), by
+       On page 153, lines 18 and 19, strike ``the date of 
+     enactment of this paragraph'' and insert ``May 13, 2002,''.
+       On page 153, line 21, insert ``State'' after ``share''.
+       On page 153, line 25, strike ``and at'' and insert ``, or 
+     on''.
+       On page 154, line 5, strike ``base acreage'' and insert 
+     ``acreage base''.
+       On page 154, line 11, strike ``shall'' and insert ``may''.
+       On page 154, line 17, strike ``base acreage'' and insert 
+     ``acreage base''.
+       On page 155, line 16, strike ``base acreage'' and insert 
+     ``acreage base''.
+       On page 155, line 18, strike ``base acreage'' and insert 
+     ``acreage base''.
+       On page 155, line 19, strike ``selection'' and insert 
+     ``drawing''.
+       On page 155, line 22, strike ``base acreage'' and insert 
+     ``acreage base''.
+       On page 156, line 3, insert ``in the State'' after 
+     ``committees''.
+       On page 156, line 5, strike ``selection'' and insert 
+     ``drawing''.
+       On page 156, line 7, strike ``base acreage'' and insert 
+     ``acreage base''.
+       On page 156, lines 8 and 9, strike ``base acreage'' and 
+     insert ``acreage base''.
+       On page 156, line 12, strike ``base acreage'' and insert 
+     ``acreage base''.
+       On page 156, lines 13 and 14, strike ``base acreage'' and 
+     insert ``acreage base''.
+       On page 157, line 10, strike ``base acreage'' and insert 
+     ``acreage base''.
+       On page 158, strike lines 2 through 8 and insert the 
+     following:
+       ``(a) Establishment.--
+       ``(1) In general.--Except as provided in paragraph (2) and 
+     notwithstanding any other provision of law, at the beginning 
+     of the quota year, the Secretary shall establish the tariff-
+     rate quotas for raw cane sugar and refined sugars at the 
+     minimum level necessary to comply with obligations under 
+     international trade agreements that have been approved by 
+     Congress.
+       ``(2) Exception.--Paragraph (1) shall not apply to 
+     specialty sugar.
+       On page 158, line 17, insert ``, including an increase in 
+     the tariff-rate quota for raw cane sugar to accommodate the 
+     reassignment to imports'' after ``359e(b)''.
+       On page 159, line 7, insert ``, including an increase in 
+     the tariff-rate quota for raw cane sugar to accommodate the 
+     reassignment to imports'' after ``359e(b)''.
+       On page 568, line 25 strike ``2007'' and insert ``2008''.
+       Beginning on page 1378, strike line 17 and all that follows 
+     through page 1380, line 14, and insert the following:
+       ``(e) Tree Assistance Program.--
+       ``(1) Definitions.--In this subsection:
+       ``(A) Eligible orchardist.--The term `eligible orchardist' 
+     means a person that produces annual crops from trees for 
+     commercial purposes.
+       ``(B) Natural disaster.--The term `natural disaster' means 
+     plant disease, insect infestation, drought, fire, freeze, 
+     flood, earthquake, lightning, or other occurrence, as 
+     determined by the Secretary.
+       ``(C) Nursery tree grower.--The term `nursery tree grower' 
+     means a person who produces nursery, ornamental, fruit, nut, 
+     or Christmas trees for commercial sale, as determined by the 
+     Secretary.
+       ``(D) Tree.--The term `tree' includes a tree, bush, and 
+     vine.
+       ``(2) Eligibility.--
+       ``(A) Loss.--Subject to subparagraph (B), the Secretary 
+     shall provide assistance under paragraph (3) to eligible 
+     orchardists and nursery tree growers that planted trees for 
+     commercial purposes but lost the trees as a result of a 
+     natural disaster, as determined by the Secretary.
+       ``(B) Limitation.--An eligible orchardist or nursery tree 
+     grower shall qualify for assistance under subparagraph (A) 
+     only if the tree mortality of the eligible orchardist or 
+     nursery tree grower, as a result of damaging weather or 
+     related condition, exceeds 15 percent (adjusted for normal 
+     mortality).
+       ``(3) Assistance.--Subject to paragraph (4), the assistance 
+     provided by the Secretary to eligible orchardists and nursery 
+     tree growers for losses described in paragraph (2) shall 
+     consist of--
+       ``(A)(i) reimbursement of 75 percent of the cost of 
+     replanting trees lost due to a natural disaster, as 
+     determined by the Secretary, in excess of 15 percent 
+     mortality (adjusted for normal mortality); or
+       ``(ii) at the option of the Secretary, sufficient seedlings 
+     to reestablish a stand; and
+       ``(B) reimbursement of 50 percent of the cost of pruning, 
+     removal, and other costs incurred by an eligible orchardist 
+     or nursery tree grower to salvage existing trees or, in the 
+     case of tree mortality, to prepare the land to replant trees 
+     as a result of damage or tree mortality due to a natural 
+     disaster, as determined by the Secretary, in excess of 15 
+     percent damage or mortality (adjusted for normal tree damage 
+     and mortality).
+       ``(4) Limitations on assistance.--
+       ``(A) Amount.--The total amount of payments that a person 
+     shall be entitled to receive under this subsection may not 
+     exceed $100,000 per year, or an equivalent value in tree 
+     seedlings.
+       ``(B) Acres.--The total quantity of acres planted to trees 
+     or tree seedlings for which a person shall be entitled to 
+     receive payments under this subsection may not exceed 500 
+     acres.
+       ``(C) Regulations.--The Secretary shall promulgate--
+       ``(i) regulations defining the term `person' for the 
+     purposes of this subsection, which shall conform, to the 
+     maximum extent practicable, to the regulations defining the 
+     term `person' promulgated under section 1001 of the Food 
+     Security Act of 1985 (7 U.S.C. 1308); and
+       ``(ii) such regulations as the Secretary determines 
+     necessary to ensure a fair and reasonable application of the 
+     limitation established under this paragraph.
+       On page 1402, lines 6 and 7, strike ``made after December 
+     31, 2007.'' and insert ``made before, on, or after the date 
+     of the enactment of this Act.''.
+       On page 1465, strike line 17 through page 1467, line 5, and 
+     insert the following:
+       (2) Limitation.--Section 25D(b)(1) (relating to maximum 
+     credit) is amended by striking ``and'' at the end of 
+     subparagraph (B), by striking the period at the end of 
+     subparagraph (C) and inserting ``, and'', and by adding at 
+     the end the following new subparagraph:
+       ``(D) $500 with respect to each half kilowatt of capacity 
+     (not to exceed $4,000) of wind turbines for which qualified 
+     small wind energy property expenditures are made.''.
+       (3) Qualified small wind energy property expenditures.--
+       (A) In general.--Section 25D(d) (relating to definitions) 
+     is amended by adding at the end the following new paragraph:
+       ``(4) Qualified small wind energy property expenditure.--
+     The term `qualified small wind energy property expenditure' 
+     means an expenditure for qualified small wind energy property 
+     (as defined in section 48(c)(3)(A)) installed on or in 
+     connection with a dwelling unit located in the United States 
+     and used as a residence by the taxpayer.''.
+       (B) No double benefit.--Section 45(d)(1) (relating to wind 
+     facility) is amended by adding at the end the following new 
+     sentence: ``Such term shall not include any facility with 
+     respect to which any qualified small wind energy property 
+     expenditure (as defined in subsection (d)(4) of section 25D) 
+     is taken
+
+[[Page S15680]]
+
+     into account in determining the credit under such section.''.
+       (4) Maximum expenditures in case of joint occupancy.--
+     Section 25D(e)(4)(A) (relating to maximum expenditures) is 
+     amended by striking ``and'' at the end of clause (ii), by 
+     striking the period at the end of clause (iii) and inserting 
+     ``, and'', and by adding at the end the following new clause:
+       ``(iv) $1,667 in the case of each half kilowatt of capacity 
+     (not to exceed $13,333) of wind turbines for which qualified 
+     small wind energy property expenditures are made.''.
+       On page 1471, line 18, strike ``9006'' and insert ``9007''.
+       Beginning on page 1472, line 1, strike all through page 
+     1480, line 3, and insert the following:
+
+     SEC. 12311. EXPANSION OF SPECIAL ALLOWANCE TO CELLULOSIC 
+                   BIOFUEL PLANT PROPERTY.
+
+       (a) In General.--Paragraph (3) of section 168(l) (relating 
+     to special allowance for cellulosic biomass ethanol plant 
+     property) is amended to read as follows:
+       ``(3) Cellulosic biofuel.--For purposes of this subsection, 
+     the term `cellulosic biofuel' means any alcohol, ether, 
+     ester, or hydrocarbon produced from any lignocellulosic or 
+     hemicellulosic matter that is available on a renewable or 
+     recurring basis.''.
+       (b) Conforming Amendments.--
+       (1) Subsection (l) of section 168 is amended by striking 
+     ``cellulosic biomass ethanol'' each place it appears and 
+     inserting ``cellulosic biofuel''.
+       (2) The heading of section 168(l) is amended by striking 
+     ``Cellulosic Biomass Ethanol'' and inserting ``Cellulosic 
+     Biofuel''.
+       (3) The heading of paragraph (2) of section 168(l) is 
+     amended by striking ``cellulosic biomass ethanol'' and 
+     inserting ``cellulosic biofuel''.
+       (c) Effective Date.--The amendments made by this section 
+     shall apply to property placed in service after the date of 
+     the enactment of this Act, in taxable years ending after such 
+     date.
+
+     SEC. 12312. CREDIT FOR PRODUCTION OF CELLULOSIC BIOFUEL.
+
+       (a) In General.--Subsection (a) of section 40 (relating to 
+     alcohol used as fuel) is amended by striking ``plus'' at the 
+     end of paragraph (2), by striking the period at the end of 
+     paragraph (3) and inserting ``, plus'', and by adding at the 
+     end the following new paragraph:
+       ``(4) the cellulosic biofuel producer credit.''.
+       (b) Cellulosic Biofuel Producer Credit.--
+       (1) In general.--Subsection (b) of section 40 is amended by 
+     adding at the end the following new paragraph:
+       ``(6) Cellulosic biofuel producer credit.--
+       ``(A) In general.--The cellulosic biofuel producer credit 
+     of any taxpayer is an amount equal to the applicable amount 
+     for each gallon of qualified cellulosic biofuel production.
+       ``(B) Applicable amount.--For purposes of subparagraph (A), 
+     the applicable amount means the excess of--
+       ``(i) $1.25, over
+       ``(ii) the sum of--
+
+       ``(I) the amount of the credit in effect for alcohol which 
+     is ethanol under subsection (b)(1) (without regard to 
+     subsection (b)(3)) at the time of the qualified cellulosic 
+     biofuel production, plus
+       ``(II) the amount of the credit in effect under subsection 
+     (b)(4) at the time of such production.
+
+       ``(C) Qualified cellulosic biofuel production.--For 
+     purposes of this section, the term `qualified cellulosic 
+     biofuel production' means any cellulosic biofuel which during 
+     the taxable year--
+       ``(i) is sold by the taxpayer to another person--
+
+       ``(I) for use by such other person in the production of a 
+     qualified cellulosic biofuel mixture in such other person's 
+     trade or business (other than casual off-farm production),
+       ``(II) for use by such other person as a fuel in a trade or 
+     business, or
+       ``(III) who sells such cellulosic biofuel at retail to 
+     another person and places such cellulosic biofuel in the fuel 
+     tank of such other person, or
+
+       ``(ii) is used or sold by the taxpayer for any purpose 
+     described in clause (i).
+
+     The qualified cellulosic biofuel production of any taxpayer 
+     for any taxable year shall not include any alcohol which is 
+     purchased by the taxpayer and with respect to which such 
+     producer increases the proof of the alcohol by additional 
+     distillation.
+       ``(D) Qualified cellulosic biofuel mixture.--For purposes 
+     of this paragraph, the term `qualified cellulosic biofuel 
+     mixture' means a mixture of cellulosic biofuel and any 
+     petroleum fuel product which--
+       ``(i) is sold by the person producing such mixture to any 
+     person for use as a fuel, or
+       ``(ii) is used as a fuel by the person producing such 
+     mixture.
+       ``(E) Cellulosic biofuel.--
+       ``(i) In general.--The term `cellulosic biofuel' has the 
+     meaning given such term under section 168(l)(3), but does not 
+     include any alcohol with a proof of less than 150.
+       ``(ii) Determination of proof.--The determination of the 
+     proof of any alcohol shall be made without regard to any 
+     added denaturants.
+       ``(F) Allocation of cellulosic biofuel producer credit to 
+     patrons of cooperative.--Rules similar to the rules under 
+     subsection (g)(6) shall apply for purposes of this paragraph.
+       ``(G) Application of paragraph.--This paragraph shall apply 
+     with respect to qualified cellulosic biofuel production after 
+     December 31, 2007, and before April 1, 2015.''.
+       (2) Termination date not to apply.--Subsection (e) of 
+     section 40 (relating to termination) is amended--
+       (A) by inserting ``or subsection (b)(6)(G)'' after ``by 
+     reason of paragraph (1)'' in paragraph (2), and
+       (B) by adding at the end the following new paragraph:
+       ``(3) Exception for cellulosic biofuel producer credit.--
+     Paragraph (1) shall not apply to the portion of the credit 
+     allowed under this section by reason of subsection (a)(4).''.
+       (c) Biofuel Not Used as a Fuel, etc.--
+       (1) In general.--Paragraph (3) of section 40(d) is amended 
+     by redesignating subparagraph (D) as subparagraph (E) and by 
+     inserting after subparagraph (C) the following new 
+     subparagraph:
+       ``(D) Cellulosic biofuel producer credit.--If--
+       ``(i) any credit is allowed under subsection (a)(4), and
+       ``(ii) any person does not use such fuel for a purpose 
+     described in subsection (b)(6)(C),
+
+     then there is hereby imposed on such person a tax equal to 
+     the applicable amount for each gallon of such cellulosic 
+     biomass biofuel.''.
+       (2) Conforming amendments.--
+       (A) Subparagraph (C) of section 40(d)(3) is amended by 
+     striking ``producer'' in the heading and inserting ``small 
+     ethanol producer''.
+       (B) Subparagraph (E) of section 40(d)(3), as redesignated 
+     by paragraph (1), is amended by striking ``or (C)'' and 
+     inserting ``(C), or (D)''.
+       (d) Biofuel Produced in the United States.--Section 40(d) 
+     is amended by adding at the end the following new paragraph:
+       ``(6) Special rule for cellulosic biofuel producer 
+     credit.--No cellulosic biofuel producer credit shall be 
+     determined under subsection (a) with respect to any 
+     cellulosic biofuel unless such cellulosic biofuel is produced 
+     in the United States.''.
+       (e) Waiver of Credit Limit for Cellulosic Biofuel 
+     Production by Small Ethanol Producers.--Section 40(b)(4)(C) 
+     is amended by inserting ``(determined without regard to any 
+     qualified cellulosic biofuel production'' after ``15,000,000 
+     gallons''.
+       (f) Effective Date.--The amendments made by this section 
+     shall apply to fuel produced after December 31, 2007.
+       On page 1482, line 20, strike ``, as amended by this 
+     Act,''.
+       On page 1482, line 22, strike ``(j)'' and insert ``(i)''.
+       On page 1485, line 16, strike ``section 312 of''.
+       On page 1488, strike lines 1 through 21, and insert 
+     following:
+
+     SEC. 12316. CALCULATION OF VOLUME OF ALCOHOL FOR FUEL 
+                   CREDITS.
+
+       (a) In General.--Paragraph (4) of section 40(d) (relating 
+     to volume of alcohol) is amended by striking ``5 percent'' 
+     and inserting ``2 percent''.
+       (b) Conforming Amendment for Excise Tax Credit.--Section 
+     6426(b) (relating to alcohol fuel mixture credit) is amended 
+     by redesignating paragraph (5) as paragraph (6) and by 
+     inserting after paragraph (4) the following new paragraph:
+       ``(5) Volume of alcohol.--For purposes of determining under 
+     subsection (a) the number of gallons of alcohol with respect 
+     to which a credit is allowable under subsection (a), the 
+     volume of alcohol shall include the volume of any denaturant 
+     (including gasoline) which is added under any formulas 
+     approved by the Secretary to the extent that such denaturants 
+     do not exceed 2 percent of the volume of such alcohol 
+     (including denaturants).''.
+       (c) Effective Date.--The amendments made by this section 
+     shall apply to fuel sold or used after December 31, 2007.
+       On page 1492, after line 23, add the following:
+       (d) Eligibility of Certain Aviation Fuel.--Section 
+     40A(f)(3) (defining renewable diesel) is amended by adding at 
+     the end the following new flush sentence:
+
+     ``The term `renewable diesel' also means fuel derived from 
+     biomass (as defined in section 45K(c)(3)) using a thermal 
+     depolymerization process which meets the requirements of a 
+     Department of Defense specification for military jet fuel or 
+     an American Society of Testing and Materials specification 
+     for aviation turbine fuel.''.
+       On page 1493, line 1, strike ``(d)'' and insert ``(e)''.
+       Beginning on page 1563, line 6, strike through page 1564, 
+     line 15, and insert following:
+
+     SEC. 12504. MODIFICATION OF SECTION 1031 TREATMENT FOR 
+                   CERTAIN REAL ESTATE.
+
+       (a) In General.--Section 1031 (relating to exchange of 
+     property held for productive use or investment), as amended 
+     by this Act, is amended by adding at the end the following 
+     new subsection:
+       ``(j) Special Rule for Subsidized Agricultural Real 
+     Property.--
+       ``(1) In general.--Subsidized agricultural real property 
+     and nonagricultural real property are not property of a like 
+     kind.
+       ``(2) Subsidized agricultural real property.--For purposes 
+     of this subsection, the term `subsidized agricultural real 
+     property' means real property--
+       ``(A) which is used as a farm for farming purposes (within 
+     the meaning of section 2032A(e)(5)); and
+
+[[Page S15681]]
+
+       ``(B) with respect to which a taxpayer receives, in the 
+     taxable year in which an exchange of such property is made, 
+     any payment or benefit under--
+       ``(i) part I of subtitle A,
+       ``(ii) part III (other than sections 1307 and 1308) of 
+     subtitle A, or
+       ``(iii) subtitle B,
+     of title I of the Food and Energy Security Act of 2007.
+       ``(3) Nonagricultural real property.--For purposes of this 
+     subsection, the term `nonagricultural real property' means 
+     real property which is not used as a farm for farming 
+     purposes (within the meaning of section 2032A(e)(5)).
+       ``(4) Exception.--Paragraph (1) shall not apply with 
+     respect to any subsidized agricultural real property which, 
+     not later than the date of the exchange, is permanently 
+     retired from any program under which any payment or benefit 
+     described in paragraph (2)(B) is made.''.
+       (b) Effective Date.--The amendments made by this section 
+     shall apply to exchanges completed after the date of the 
+     enactment of this Act.
+       On page 1565, strike lines 13 through 24.
+       On page 1566, line 1, strike ``12508'' and insert 
+     ``12507''.
+       On page 1572, strike ``12509'' and insert ``2508''.
+       On page 1575, between lines 10 and 11, insert the 
+     following:
+
+     SEC. 12509. MODIFICATION OF PENALTY FOR FAILURE TO FILE 
+                   PARTNERSHIP RETURNS; LIMITATION ON DISCLOSURE.
+
+       (a) Extension of Time Limitation.--Section 6698(a) 
+     (relating to failure to file partnership returns) is amended 
+     by striking ``5 months'' and inserting ``12 months''.
+       (b) Increase in Penalty Amount.--Paragraph (1) of section 
+     6698(b) is amended by striking ``$50'' and inserting 
+     ``$100''.
+       (c) Limitation on Disclosure of Taxpayer Returns to 
+     Partners, S Corporation Shareholders, Trust Beneficiaries, 
+     and Estate Beneficiaries.--
+       (1) In general.--Section 6103(e) (relating to disclosure to 
+     persons having material interest) is amended by adding at the 
+     end the following new paragraph:
+       ``(10) Limitation on certain disclosures under this 
+     subsection.--In the case of an inspection or disclosure under 
+     this subsection relating to the return of a partnership, S 
+     corporation, trust, or an estate, the information inspected 
+     or disclosed shall not include any supporting schedule, 
+     attachment, or list which includes the taxpayer identity 
+     information of a person other than the entity making the 
+     return or the person conducting the inspection or to whom the 
+     disclosure is made.''.
+       (2) Effective date.--The amendment made by this subsection 
+     shall take effect on the date of the enactment of this Act.
+       (d) Effective Date.--The amendments made by subsections (a) 
+     and (b) shall apply to returns required to be filed after the 
+     date of the enactment of this Act.
+
+     SEC. 12510. PARTICIPANTS IN GOVERNMENT SECTION 457 PLANS 
+                   ALLOWED TO TREAT ELECTIVE DEFERRALS AS ROTH 
+                   CONTRIBUTIONS.
+
+       (a) In General.--Section 402A(e)(1) (defining applicable 
+     retirement plan) is amended by striking ``and'' at the end of 
+     subparagraph (A), by striking the period at the end of 
+     subparagraph (B) and inserting ``, and'', and by adding at 
+     the end the following:
+       ``(C) an eligible deferred compensation plan (as defined in 
+     section 457(b)) of an eligible employer described in section 
+     457(e)(1)(A).''.
+       (b) Elective Deferrals.--Section 402A(e)(2) (defining 
+     elective deferral) is amended to read as follows:
+       ``(2) Elective deferral.--The term `elective deferral' 
+     means--
+       ``(A) any elective deferral described in subparagraph (A) 
+     or (C) of section 402(g)(3), and
+       ``(B) any elective deferral of compensation by an 
+     individual under an eligible deferred compensation plan (as 
+     defined in section 457(b)) of an eligible employer described 
+     in section 457(e)(1)(A).''.
+       (c) Effective Date.--The amendments made by this section 
+     shall apply to taxable years beginning after December 31, 
+     2007.
+       On page 1597, after line 18, insert the following:
+
+           Subtitle G--Kansas Disaster Tax Relief Assistance
+
+     SEC. 12701. TEMPORARY TAX RELIEF FOR KIOWA COUNTY, KANSAS AND 
+                   SURROUNDING AREA.
+
+       The following provisions of or relating to the Internal 
+     Revenue Code of 1986 shall apply, in addition to the areas 
+     described in such provisions, to an area with respect to 
+     which a major disaster has been declared by the President 
+     under section 401 of the Robert T. Stafford Disaster Relief 
+     and Emergency Assistance Act (FEMA-1699-DR, as in effect on 
+     the date of the enactment of this Act) by reason of severe 
+     storms and tornados beginning on May 4, 2007, and determined 
+     by the President to warrant individual or individual and 
+     public assistance from the Federal Government under such Act 
+     with respect to damages attributed to such storms and 
+     tornados:
+       (1) Suspension of certain limitations on personal casualty 
+     losses.--Section 1400S(b)(1) of the Internal Revenue Code of 
+     1986, by substituting ``May 4, 2007'' for ``August 25, 
+     2005''.
+       (2) Extension of replacement period for nonrecognition of 
+     gain.--Section 405 of the Katrina Emergency Tax Relief Act of 
+     2005, by substituting ``on or after May 4, 2007, by reason of 
+     the May 4, 2007, storms and tornados'' for ``on or after 
+     August 25, 2005, by reason of Hurricane Katrina''.
+       (3) Employee retention credit for employers affected by may 
+     4 storms and tornados.--Section 1400R(a) of the Internal 
+     Revenue Code of 1986--
+       (A) by substituting ``May 4, 2007'' for ``August 28, 2005'' 
+     each place it appears,
+       (B) by substituting ``January 1, 2008'' for ``January 1, 
+     2006'' both places it appears, and
+       (C) only with respect to eligible employers who employed an 
+     average of not more than 200 employees on business days 
+     during the taxable year before May 4, 2007.
+       (4) Special allowance for certain property acquired on or 
+     after may 5, 2007.--Section 1400N(d) of such Code--
+       (A) by substituting ``qualified Recovery Assistance 
+     property'' for ``qualified Gulf Opportunity Zone property'' 
+     each place it appears,
+       (B) by substituting ``May 5, 2007'' for ``August 28, 2005'' 
+     each place it appears,
+       (C) by substituting ``December 31, 2008'' for ``December 
+     31, 2007'' in paragraph (2)(A)(v),
+       (D) by substituting ``December 31, 2009'' for ``December 
+     31, 2008'' in paragraph (2)(A)(v),
+       (E) by substituting ``May 4, 2007'' for ``August 27, 2005'' 
+     in paragraph (3)(A),
+       (F) by substituting ``January 1, 2009'' for ``January 1, 
+     2008'' in paragraph (3)(B), and
+       (G) determined without regard to paragraph (6) thereof.
+       (5) Increase in expensing under section 179.--Section 
+     1400N(e) of such Code, by substituting ``qualified section 
+     179 Recovery Assistance property'' for ``qualified section 
+     179 Gulf Opportunity Zone property'' each place it appears.
+       (6) Expensing for certain demolition and clean-up costs.--
+     Section 1400N(f) of such Code--
+       (A) by substituting ``qualified Recovery Assistance clean-
+     up cost'' for ``qualified Gulf Opportunity Zone clean-up 
+     cost'' each place it appears, and
+       (B) by substituting ``beginning on May 4, 2007, and ending 
+     on December 31, 2009'' for ``beginning on August 28, 2005, 
+     and ending on December 31, 2007'' in paragraph (2) thereof.
+       (7) Treatment of public utility property disaster losses.--
+     Section 1400N(o) of such Code.
+       (8) Treatment of net operating losses attributable to storm 
+     losses.--Section 1400N(k) of such Code--
+       (A) by substituting ``qualified Recovery Assistance loss'' 
+     for ``qualified Gulf Opportunity Zone loss'' each place it 
+     appears,
+       (B) by substituting ``after May 3, 2007, and before on 
+     January 1, 2010'' for ``after August 27, 2005, and before 
+     January 1, 2008'' each place it appears,
+       (C) by substituting ``May 4, 2007'' for ``August 28, 2005'' 
+     in paragraph (2)(B)(ii)(I) thereof,
+       (D) by substituting ``qualified Recovery Assistance 
+     property'' for ``qualified Gulf Opportunity Zone property'' 
+     in paragraph (2)(B)(iv) thereof, and
+       (E) by substituting ``qualified Recovery Assistance 
+     casualty loss'' for ``qualified Gulf Opportunity Zone 
+     casualty loss'' each place it appears.
+       (9) Treatment of representations regarding income 
+     eligibility for purposes of qualified rental project 
+     requirements.--Section 1400N(n) of such Code.
+       (10) Special rules for use of retirement funds.--Section 
+     1400Q of such Code--
+       (A) by substituting ``qualified Recovery Assistance 
+     distribution'' for ``qualified hurricane distribution'' each 
+     place it appears,
+       (B) by substituting ``on or after May 4, 2007, and before 
+     January 1, 2009'' for ``on or after August 25, 2005, and 
+     before January 1, 2007'' in subsection (a)(4)(A)(i),
+       (C) by substituting ``qualified storm distribution'' for 
+     ``qualified Katrina distribution'' each place it appears,
+       (D) by substituting ``after November 4, 2006, and before 
+     May 5, 2007'' for ``after February 28, 2005, and before 
+     August 29, 2005'' in subsection (b)(2)(B)(ii),
+       (E) by substituting ``beginning on May 4, 2007, and ending 
+     on November 5, 2007'' for ``beginning on August 25, 2005, and 
+     ending on February 28, 2006'' in subsection (b)(3)(A),
+       (F) by substituting ``qualified storm individual'' for 
+     ``qualified Hurricane Katrina individual'' each place it 
+     appears,
+       (G) by substituting ``December 31, 2007'' for ``December 
+     31, 2006'' in subsection (c)(2)(A),
+       (H) by substituting ``beginning on June 4, 2007, and ending 
+     on December 31, 2007'' for ``beginning on September 24, 2005, 
+     and ending on December 31, 2006'' in subsection (c)(4)(A)(i),
+       (I) by substituting ``May 4, 2007'' for ``August 25, 2005'' 
+     in subsection (c)(4)(A)(ii), and
+       (J) by substituting ``January 1, 2008'' for ``January 1, 
+     2007'' in subsection (d)(2)(A)(ii).
+
+                      Subtitle H--Other Provisions
+
+     SEC. 12801. INCOME AVERAGING FOR AMOUNTS RECEIVED IN 
+                   CONNECTION WITH THE EXXON VALDEZ LITIGATION.
+
+       (a) Income Averaging of Amounts Received From the Exxon 
+     Valdez Litigation.--For purposes of section 1301 of the 
+     Internal Revenue Code of 1986--
+       (1) any qualified taxpayer who receives any qualified 
+     settlement income in any taxable year shall be treated as 
+     engaged in a fishing business (determined without regard to 
+     the commercial nature of the business), and
+       (2) such qualified settlement income shall be treated as 
+     income attributable to such a fishing business for such 
+     taxable year.
+       (b) Contributions of Amounts Received to Retirement 
+     Accounts.--
+
+[[Page S15682]]
+
+       (1) In general.--Any qualified taxpayer who receives 
+     qualified settlement income during the taxable year may, at 
+     any time before the end of the taxable year in which such 
+     income was received, make one or more contributions to an 
+     eligible retirement plan of which such qualified taxpayer is 
+     a beneficiary in an aggregate amount not to exceed the lesser 
+     of--
+       (A) $100,000 (reduced by the amount of qualified settlement 
+     income contributed to an eligible retirement plan in prior 
+     taxable years pursuant to this subsection), or
+       (B) the amount of qualified settlement income received by 
+     the individual during the taxable year.
+       (2) Time when contributions deemed made.--For purposes of 
+     paragraph (1), a qualified taxpayer shall be deemed to have 
+     made a contribution to an eligible retirement plan on the 
+     last day of the taxable year in which such income is received 
+     if the contribution is made on account of such taxable year 
+     and is made not later than the time prescribed by law for 
+     filing the return for such taxable year (not including 
+     extensions thereof).
+       (3) Treatment of contributions to eligible retirement 
+     plans.--For purposes of the Internal Revenue Code of 1986, if 
+     a contribution is made pursuant to paragraph (1) with respect 
+     to qualified settlement income, then--
+       (A) except as provided in paragraph (4)--
+       (i) to the extent of such contribution, the qualified 
+     settlement income shall not be included in gross income, and
+       (ii) for purposes of section 72 of such Code, such 
+     contribution shall not be considered to be investment in the 
+     contract,
+       (B) the qualified taxpayer shall, to the extent of the 
+     amount of the contribution, be treated--
+       (i) as having received the qualified settlement income--
+
+       (I) in the case of a contribution to an individual 
+     retirement plan (as defined under section 7701(a)(37) of such 
+     Code), in a distribution described in section 408(d)(3) of 
+     such Code, and
+       (II) in the case of any other eligible retirement plan, in 
+     an eligible rollover distribution (as defined under section 
+     402(f)(2) of such Code), and
+
+       (ii) as having transferred the amount to the eligible 
+     retirement plan in a direct trustee to trustee transfer 
+     within 60 days of the distribution,
+       (C) section 408(d)(3)(B) of the Internal Revenue Code of 
+     1986 shall not apply with respect to amounts treated as a 
+     rollover under this paragraph, and
+       (D) section 408A(c)(3)(B) of the Internal Revenue Code of 
+     1986 shall not apply with respect to amounts contributed to a 
+     Roth IRA (as defined under section 408A(b) of such Code) or a 
+     designated Roth contribution to an applicable retirement plan 
+     (within the meaning of section 402A of such Code) under this 
+     paragraph.
+       (4) Special rule for roth iras and roth 401(k)s.--For 
+     purposes of the Internal Revenue Code of 1986, if a 
+     contribution is made pursuant to paragraph (1) with respect 
+     to qualified settlement income to a Roth IRA (as defined 
+     under section 408A(b) of such Code) or as a designated Roth 
+     contribution to an applicable retirement plan (within the 
+     meaning of section 402A of such Code), then--
+       (A) the qualified settlement income shall be includible in 
+     gross income, and
+       (B) for purposes of section 72 of such Code, such 
+     contribution shall be considered to be investment in the 
+     contract.
+       (5) Eligible retirement plan.--For purpose of this 
+     subsection, the term ``eligible retirement plan'' has the 
+     meaning given such term under section 402(c)(8)(B) of the 
+     Internal Revenue Code of 1986.
+       (c) Treatment of Qualified Settlement Income Under 
+     Employment Taxes.--
+       (1) SECA.--For purposes of chapter 2 of the Internal 
+     Revenue Code of 1986 and section 211 of the Social Security 
+     Act, no portion of qualified settlement income received by a 
+     qualified taxpayer shall be treated as self-employment 
+     income.
+       (2) FICA.--For purposes of chapter 21 of the Internal 
+     Revenue Code of 1986 and section 209 of the Social Security 
+     Act, no portion of qualified settlement income received by a 
+     qualified taxpayer shall be treated as wages.
+       (d) Qualified Taxpayer.--For purposes of this section, the 
+     term ``qualified taxpayer'' means--
+       (1) any individual who is a plaintiff in the civil action 
+     In re Exxon Valdez, No. 89-095-CV (HRH) (Consolidated) (D. 
+     Alaska); or
+       (2) any individual who is a beneficiary of the estate of 
+     such a plaintiff who--
+       (A) acquired the right to receive qualified settlement 
+     income from that plaintiff; and
+       (B) was the spouse or an immediate relative of that 
+     plaintiff.
+       (e) Qualified Settlement Income.--For purposes of this 
+     section, the term ``qualified settlement income'' means any 
+     interest and punitive damage awards which are--
+       (1) otherwise includible in gross income (determined 
+     without regard to subsection (b)), and
+       (2) received (whether as lump sums or periodic payments) in 
+     connection with the civil action In re Exxon Valdez, No. 89-
+     095-CV (HRH) (Consolidated) (D. Alaska) (whether pre- or 
+     post-judgment and whether related to a settlement or 
+     judgment).
+
+     SEC. 12802. 2-YEAR EXTENSION AND EXPANSION OF CHARITABLE 
+                   DEDUCTION FOR CONTRIBUTIONS OF FOOD INVENTORY.
+
+       (a) In General.--Section 170(e)(3)(C) (relating to special 
+     rule for certain contributions of inventory and other 
+     property) is amended--
+       (1) by striking ``December 31, 2007'' in clause (iv) and 
+     inserting ``December 31, 2009'', and
+       (2) by redesignating clauses (iii) and (iv) as clauses (iv) 
+     and (v), respectively, and by inserting after clause (ii) the 
+     following new clause:
+       ``(iii) Determination of basis.--If a taxpayer--
+
+       ``(I) does not account for inventories under section 471, 
+     and
+       ``(II) is not required to capitalize indirect costs under 
+     section 263A,
+
+     the taxpayer may elect, solely for purposes of subparagraph 
+     (B), to treat the basis of any apparently wholesome food as 
+     being equal to 25 percent of the fair market value of such 
+     food.''.
+       (b) Effective Date.--The amendments made by this section 
+     shall apply to contributions made after December 31, 2007.
+
+     SEC. 12803. MILEAGE REIMBURSEMENTS TO CHARITABLE VOLUNTEERS 
+                   EXCLUDED FROM GROSS INCOME.
+
+       (a) In General.--Part III of subchapter B of chapter 1 is 
+     amended by inserting after section 139A the following new 
+     section:
+
+     ``SEC. 139B. MILEAGE REIMBURSEMENTS TO CHARITABLE VOLUNTEERS.
+
+       ``(a) In General.--Gross income of an individual does not 
+     include amounts received, from an organization described in 
+     section 170(c), as reimbursement of operating expenses with 
+     respect to use of a passenger automobile for the benefit of 
+     such organization. The preceding sentence shall apply only to 
+     the extent that such reimbursement would be deductible under 
+     this chapter if section 274(d) were applied--
+       ``(1) by using the standard business mileage rate in effect 
+     under section 162(a) at the time of such use, and
+       ``(2) as if the individual were an employee of an 
+     organization not described in section 170(c).
+       ``(b) Application to Volunteer Services Only.--Subsection 
+     (a) shall not apply with respect to any expenses relating to 
+     the performance of services for compensation.
+       ``(c) No Double Benefit.--No deduction or credit shall be 
+     allowed under any other provision of this title with respect 
+     to the expenses excludable from gross income under subsection 
+     (a).''.
+       (b) Clerical Amendment.--The table of sections for part III 
+     of subchapter B of chapter 1 of the Internal Revenue Code of 
+     1986 is amended by inserting after the item relating to 
+     section 139A and inserting the following new item:
+
+``Sec. 139B. Reimbursement for use of passenger automobile for 
+              charity.''.
+
+       (c) Effective Date.--The amendments made by this section 
+     shall apply to taxable years beginning after the date of the 
+     enactment of this Act.
+
+     SEC. 12804. BASIS ADJUSTMENT TO STOCK OF S CORPORATIONS 
+                   MAKING CHARITABLE CONTRIBUTIONS OF PROPERTY.
+
+       (a) Technical Amendment Related to Section 1203 of the 
+     Pension Protection Act of 2006.--Subsection (d) of section 
+     1366 is amended by adding at the end the following new 
+     paragraph:
+       ``(4) Application of limitation on charitable 
+     contributions.--In the case of any charitable contribution of 
+     property to which the second sentence of section 1367(a)(2) 
+     applies, paragraph (1) shall not apply to the extent of the 
+     excess (if any) of--
+       ``(A) the shareholder's pro rata share of such 
+     contribution, over
+       ``(B) the shareholder's pro rata share of the adjusted 
+     basis of such property.''.
+       (b) Effective Date.--The amendment made by this section 
+     shall take effect as if included in the provision of the 
+     Pension Protection Act of 2006 to which it relates.
+
+     SEC. 12805. PRIVATE PAYMENT TEST FOR PROFESSIONAL SPORTS 
+                   FACILITY BONDS.
+
+       Section 141, as amended by this Act, is amended--
+       (1) by striking the last sentence of subsection (a), and
+       (2) by striking subsection (f).
+
+     SEC. 12806. APPLICATION OF REHABILITATION CREDIT AND 
+                   DEPRECIATION SCHEDULES TO CERTAIN LOW-INCOME 
+                   HOUSING FOR THE ELDERLY.
+
+       (a) In General.--Section 251(d)(4)(X) of the Tax Reform Act 
+     of 1986 is repealed.
+       (b) Effective Date.--The repeal made by this section shall 
+     apply to property placed in service after the date of the 
+     enactment of this Act.
+
+     SEC. 12807. COMPETITIVE CERTIFICATION AWARDS MODIFICATION 
+                   AUTHORITY.
+
+       (a) In General.--Section 48A (relating to qualifying 
+     advanced coal project credit) is amended by adding at the end 
+     the following new subsection:
+       ``(h) Competitive Certification Awards Modification 
+     Authority.--In implementing this section or section 48B, the 
+     Secretary is directed to modify the terms of any competitive 
+     certification award and any associated closing agreement 
+     where such modification--
+       ``(1) is consistent with the objectives of such section,
+       ``(2) is requested by the recipient of the competitive 
+     certification award, and
+       ``(3) involves moving the project site to improve the 
+     potential to capture and sequester
+
+[[Page S15683]]
+
+     carbon dioxide emissions, reduce costs of transporting 
+     feedstock, and serve a broader customer base,
+
+     unless the Secretary determines that the dollar amount of tax 
+     credits available to the taxpayer under such section would 
+     increase as a result of the modification or such modification 
+     would result in such project not being originally certified. 
+     In considering any such modification, the Secretary shall 
+     consult with other relevant Federal agencies, including the 
+     Department of Energy.''.
+       (b) Effective Date.--The amendment made by this section 
+     shall take effect on the date of the enactment of this Act 
+     and is applicable to all competitive certification awards 
+     entered into under section 48A or 48B of the Internal Revenue 
+     Code of 1986, whether such awards were issued before, on, or 
+     after such date of enactment.
+
+     SEC. 12808. QUALIFIED FORESTRY CONSERVATION BONDS.
+
+       (a) In General.--Part IV of subchapter A of chapter 1 
+     (relating to credits against tax) is amended by adding at the 
+     end the following new subpart:
+
+                ``Subpart I--Qualified Tax Credit Bonds
+
+``Sec. 54A. Credit to holders of qualified tax credit bonds.
+``Sec. 54B. Qualified forestry conservation bonds.
+
+     ``SEC. 54A. CREDIT TO HOLDERS OF QUALIFIED TAX CREDIT BONDS.
+
+       ``(a) Allowance of Credit.--If a taxpayer holds a qualified 
+     tax credit bond on one or more credit allowance dates of the 
+     bond during any taxable year, there shall be allowed as a 
+     credit against the tax imposed by this chapter for the 
+     taxable year an amount equal to the sum of the credits 
+     determined under subsection (b) with respect to such dates.
+       ``(b) Amount of Credit.--
+       ``(1) In general.--The amount of the credit determined 
+     under this subsection with respect to any credit allowance 
+     date for a qualified tax credit bond is 25 percent of the 
+     annual credit determined with respect to such bond.
+       ``(2) Annual credit.--The annual credit determined with 
+     respect to any qualified tax credit bond is the product of--
+       ``(A) the applicable credit rate, multiplied by
+       ``(B) the outstanding face amount of the bond.
+       ``(3) Applicable credit rate.--For purposes of paragraph 
+     (2), the applicable credit rate is 70 percent of the rate 
+     which the Secretary estimates will permit the issuance of 
+     qualified tax credit bonds with a specified maturity or 
+     redemption date without discount and without interest cost to 
+     the qualified issuer. The applicable credit rate with respect 
+     to any qualified tax credit bond shall be determined as of 
+     the first day on which there is a binding, written contract 
+     for the sale or exchange of the bond.
+       ``(4) Special rule for issuance and redemption.--In the 
+     case of a bond which is issued during the 3-month period 
+     ending on a credit allowance date, the amount of the credit 
+     determined under this subsection with respect to such credit 
+     allowance date shall be a ratable portion of the credit 
+     otherwise determined based on the portion of the 3-month 
+     period during which the bond is outstanding. A similar rule 
+     shall apply when the bond is redeemed or matures.
+       ``(c) Limitation Based on Amount of Tax.--
+       ``(1) In general.--The credit allowed under subsection (a) 
+     for any taxable year shall not exceed the excess of--
+       ``(A) the sum of the regular tax liability (as defined in 
+     section 26(b)) plus the tax imposed by section 55, over
+       ``(B) the sum of the credits allowable under this part 
+     (other than subpart C and this subpart).
+       ``(2) Carryover of unused credit.--If the credit allowable 
+     under subsection (a) exceeds the limitation imposed by 
+     paragraph (1) for such taxable year, such excess shall be 
+     carried to the succeeding taxable year and added to the 
+     credit allowable under subsection (a) for such taxable year 
+     (determined before the application of paragraph (1) for such 
+     succeeding taxable year).
+       ``(d) Qualified Tax Credit Bond.--For purposes of this 
+     section--
+       ``(1) Qualified tax credit bond.--The term `qualified tax 
+     credit bond' means a qualified forestry conservation bond 
+     which is part of an issue that meets the requirements of 
+     paragraphs (2), (3), (4), (5), and (6).
+       ``(2) Special rules relating to expenditures.--
+       ``(A) In general.--An issue shall be treated as meeting the 
+     requirements of this paragraph if, as of the date of 
+     issuance, the issuer reasonably expects--
+       ``(i) 100 percent or more of the available project proceeds 
+     to be spent for 1 or more qualified purposes within the 3-
+     year period beginning on such date of issuance, and
+       ``(ii) a binding commitment with a third party to spend at 
+     least 10 percent of such available project proceeds will be 
+     incurred within the 6-month period beginning on such date of 
+     issuance.
+       ``(B) Failure to spend required amount of bond proceeds 
+     within 3 years.--
+       ``(i) In general.--To the extent that less than 100 percent 
+     of the available project proceeds of the issue are expended 
+     by the close of the expenditure period for 1 or more 
+     qualified purposes, the issuer shall redeem all of the 
+     nonqualified bonds within 90 days after the end of such 
+     period. For purposes of this paragraph, the amount of the 
+     nonqualified bonds required to be redeemed shall be 
+     determined in the same manner as under section 142.
+       ``(ii) Expenditure period.--For purposes of this subpart, 
+     the term `expenditure period' means, with respect to any 
+     issue, the 3-year period beginning on the date of issuance. 
+     Such term shall include any extension of such period under 
+     clause (iii).
+       ``(iii) Extension of period.--Upon submission of a request 
+     prior to the expiration of the expenditure period (determined 
+     without regard to any extension under this clause), the 
+     Secretary may extend such period if the issuer establishes 
+     that the failure to expend the proceeds within the original 
+     expenditure period is due to reasonable cause and the 
+     expenditures for qualified purposes will continue to proceed 
+     with due diligence.
+       ``(C) Qualified purpose.--For purposes of this paragraph, 
+     the term `qualified purpose' means a purpose specified in 
+     section 54B(e).
+       ``(D) Reimbursement.--For purposes of this subtitle, 
+     available project proceeds of an issue shall be treated as 
+     spent for a qualified purpose if such proceeds are used to 
+     reimburse the issuer for amounts paid for a qualified purpose 
+     after the date that the Secretary makes an allocation of bond 
+     limitation with respect to such issue, but only if--
+       ``(i) prior to the payment of the original expenditure, the 
+     issuer declared its intent to reimburse such expenditure with 
+     the proceeds of a qualified tax credit bond,
+       ``(ii) not later than 60 days after payment of the original 
+     expenditure, the issuer adopts an official intent to 
+     reimburse the original expenditure with such proceeds, and
+       ``(iii) the reimbursement is made not later than 18 months 
+     after the date the original expenditure is paid.
+       ``(3) Reporting.--An issue shall be treated as meeting the 
+     requirements of this paragraph if the issuer of qualified tax 
+     credit bonds submits reports similar to the reports required 
+     under section 149(e).
+       ``(4) Special rules relating to arbitrage.--
+       ``(A) In general.--An issue shall be treated as meeting the 
+     requirements of this paragraph if the issuer satisfies the 
+     requirements of section 148 with respect to the proceeds of 
+     the issue.
+       ``(B) Special rule for investments during expenditure 
+     period.--Available project proceeds invested during the 
+     expenditure period shall not be subject to the requirements 
+     of subparagraph (A).
+       ``(C) Special rule for reserve funds.--An issue shall not 
+     be treated as failing to meet the requirements of 
+     subparagraph (A) by reason of any fund which is expected to 
+     be used to repay such issue if--
+       ``(i) such fund is funded in a manner reasonably expected 
+     to result in an amount not greater than an amount necessary 
+     to repay the issue, and
+       ``(ii) the yield on such fund is not greater than the 
+     discount rate determined under paragraph (5)(B) with respect 
+     to the issue.
+       ``(5) Maturity limitation.--
+       ``(A) In general.--An issue shall be treated as meeting the 
+     requirements of this paragraph if the maturity of any bond 
+     which is part of such issue does not exceed the maximum term 
+     determined by the Secretary under subparagraph (B).
+       ``(B) Maximum term.--During each calendar month, the 
+     Secretary shall determine the maximum term permitted under 
+     this paragraph for bonds issued during the following calendar 
+     month. Such maximum term shall be the term which the 
+     Secretary estimates will result in the present value of the 
+     obligation to repay the principal on the bond being equal to 
+     50 percent of the face amount of such bond. Such present 
+     value shall be determined using as a discount rate the 
+     average annual interest rate of tax-exempt obligations having 
+     a term of 10 years or more which are issued during the month. 
+     If the term as so determined is not a multiple of a whole 
+     year, such term shall be rounded to the next highest whole 
+     year.
+       ``(6) Prohibition on financial conflicts of interest.--An 
+     issue shall be treated as meeting the requirements of this 
+     paragraph if the issuer certifies that--
+       ``(A) applicable State and local law requirements governing 
+     conflicts of interest are satisfied with respect to such 
+     issue, and
+       ``(B) if the Secretary prescribes additional conflicts of 
+     interest rules governing the appropriate Members of Congress, 
+     Federal, State, and local officials, and their spouses, such 
+     additional rules are satisfied with respect to such issue.
+       ``(e) Other Definitions.--For purposes of this subchapter--
+       ``(1) Credit allowance date.--The term `credit allowance 
+     date' means--
+       ``(A) March 15,
+       ``(B) June 15,
+       ``(C) September 15, and
+       ``(D) December 15.
+
+     Such term includes the last day on which the bond is 
+     outstanding.
+       ``(2) Bond.--The term `bond' includes any obligation.
+       ``(3) State.--The term `State' includes the District of 
+     Columbia and any possession of the United States.
+       ``(4) Available project proceeds.--The term `available 
+     project proceeds' means--
+       ``(A) the excess of--
+       ``(i) the proceeds from the sale of an issue, over
+       ``(ii) the issuance costs financed by the issue (to the 
+     extent that such costs do not exceed 2 percent of such 
+     proceeds), and
+       ``(B) the proceeds from any investment of the excess 
+     described in subparagraph (A).
+
+[[Page S15684]]
+
+       ``(f) Credit Treated as Interest.--For purposes of this 
+     subtitle, the credit determined under subsection (a) shall be 
+     treated as interest which is includible in gross income.
+       ``(g) S Corporations and Partnerships.--In the case of a 
+     tax credit bond held by an S corporation or partnership, the 
+     allocation of the credit allowed by this section to the 
+     shareholders of such corporation or partners of such 
+     partnership shall be treated as a distribution.
+       ``(h) Bonds Held by Regulated Investment Companies and Real 
+     Estate Investment Trusts.--If any qualified tax credit bond 
+     is held by a regulated investment company or a real estate 
+     investment trust, the credit determined under subsection (a) 
+     shall be allowed to shareholders of such company or 
+     beneficiaries of such trust (and any gross income included 
+     under subsection (f) with respect to such credit shall be 
+     treated as distributed to such shareholders or beneficiaries) 
+     under procedures prescribed by the Secretary.
+       ``(i) Credits May Be Stripped.--Under regulations 
+     prescribed by the Secretary--
+       ``(1) In general.--There may be a separation (including at 
+     issuance) of the ownership of a qualified tax credit bond and 
+     the entitlement to the credit under this section with respect 
+     to such bond. In case of any such separation, the credit 
+     under this section shall be allowed to the person who on the 
+     credit allowance date holds the instrument evidencing the 
+     entitlement to the credit and not to the holder of the bond.
+       ``(2) Certain rules to apply.--In the case of a separation 
+     described in paragraph (1), the rules of section 1286 shall 
+     apply to the qualified tax credit bond as if it were a 
+     stripped bond and to the credit under this section as if it 
+     were a stripped coupon.
+
+     ``SEC. 54B. QUALIFIED FORESTRY CONSERVATION BONDS.
+
+       ``(a) Qualified Forestry Conservation Bond.--For purposes 
+     of this subchapter, the term `qualified forestry conservation 
+     bond' means any bond issued as part of an issue if--
+       ``(1) 100 percent of the available proceeds of such issue 
+     are to be used for one or more qualified forestry 
+     conservation purposes,
+       ``(2) the bond is issued by a qualified issuer, and
+       ``(3) the issuer designates such bond for purposes of this 
+     section.
+       ``(b) Limitation on Amount of Bonds Designated.--The 
+     maximum aggregate face amount of bonds which may be 
+     designated under subsection (a) by any issuer shall not 
+     exceed the limitation amount allocated to such issuer under 
+     subsection (d).
+       ``(c) National Limitation on Amount of Bonds Designated.--
+     There is a national qualified forestry conservation bond 
+     limitation of $500,000,000.
+       ``(d) Allocations.--
+       ``(1) In general.--The Secretary shall make allocations of 
+     the amount of the national qualified forestry conservation 
+     bond limitation described in subsection (c) among qualified 
+     forestry conservation purposes in such manner as the 
+     Secretary determines appropriate so as to ensure that all of 
+     such limitation is allocated before the date which is 24 
+     months after the date of the enactment of this section.
+       ``(2) Solicitation of applications.--The Secretary shall 
+     solicit applications for allocations of the national 
+     qualified forestry conservation bond limitation described in 
+     subsection (c) not later than 90 days after the date of the 
+     enactment of this section.
+       ``(e) Qualified Forestry Conservation Purpose.--For 
+     purposes of this section, the term `qualified forestry 
+     conservation purpose' means the acquisition by a State or 
+     501(c)(3) organization (as defined in section 150(a)(4)) from 
+     an unrelated person of forest and forest land that meets the 
+     following qualifications:
+       ``(1) Some portion of the land acquired must be adjacent to 
+     United States Forest Service Land.
+       ``(2) At least half of the land acquired must be 
+     transferred to the United States Forest Service at no net 
+     cost to the United States and not more than half of the land 
+     acquired may either remain with or be donated to a State.
+       ``(3) All of the land must be subject to a native fish 
+     habitat conservation plan approved by the United States Fish 
+     and Wildlife Service.
+       ``(4) The amount of acreage acquired must be at least 
+     40,000 acres.
+       ``(f) Qualified Issuer.--For purposes of this section, the 
+     term `qualified issuer' means a State or 501(c)(3) 
+     organization (as defined in section 150(a)(4)).''.
+       (b) Reporting.--Subsection (d) of section 6049 (relating to 
+     returns regarding payments of interest) is amended by adding 
+     at the end the following new paragraph:
+       ``(9) Reporting of credit on qualified tax credit bonds.--
+       ``(A) In general.--For purposes of subsection (a), the term 
+     `interest' includes amounts includible in gross income under 
+     section 54A and such amounts shall be treated as paid on the 
+     credit allowance date (as defined in section 54A(e)(1)).
+       ``(B) Reporting to corporations, etc.--Except as otherwise 
+     provided in regulations, in the case of any interest 
+     described in subparagraph (A) of this paragraph, subsection 
+     (b)(4) of this section shall be applied without regard to 
+     subparagraphs (A), (H), (I), (J), (K), and (L)(i).
+       ``(C) Regulatory authority.--The Secretary may prescribe 
+     such regulations as are necessary or appropriate to carry out 
+     the purposes of this paragraph, including regulations which 
+     require more frequent or more detailed reporting.''.
+       (c) Conforming Amendments.--
+       (1) Sections 54(c)(2) and 1400N(l)(3)(B) are each amended 
+     by striking ``subpart C'' and inserting ``subparts C and I''.
+       (2) Section 1397E(c)(2) is amended by striking ``subpart 
+     H'' and inserting ``subparts H and I''.
+       (3) Section 6401(b)(1) is amended by striking ``and H'' and 
+     inserting ``H, and I''.
+       (4) The heading of subpart H of part IV of subchapter A of 
+     chapter 1 is amended by striking ``Certain Bonds'' and 
+     inserting ``Clean Renewable Energy Bonds''.
+       (5) The table of subparts for part IV of subchapter A of 
+     chapter 1 is amended by striking the item relating to subpart 
+     H and inserting the following new items:
+
+``subpart h. nonrefundable credit to holders of clean renewable energy 
+                                 bonds.
+
+              ``subpart i. qualified tax credit bonds.''.
+
+       (d) Effective Dates.--The amendments made by this section 
+     shall apply to obligations issued after the date of the 
+     enactment of this Act.
+       On page 544, line 16, strike ``$5,500,000,000'' and insert 
+     ``$5,000,000,000''.
+       On page 1045, between lines 2 and 3, insert the following:
+
+     SEC. 750_. ANIMAL BIOSCIENCE FACILITY, BOZEMAN, MONTANA.
+
+       There is authorized to be appropriated to the Secretary for 
+     the period of fiscal years 2008 through 2012 $16,000,000, to 
+     remain available until expended, for the construction in 
+     Bozeman, Montana, of an animal bioscience facility within the 
+     Agricultural Research Service.
+       Strike section 2359 and insert the following:
+
+     SEC. 2359. GROUND AND SURFACE WATER CONSERVATION.
+
+       Section 1240I of the Food Security Act of 1985 (16 U.S.C. 
+     3839aa-9) is amended by striking subsection (c) and inserting 
+     the following:
+       ``(c) Funding.--
+       ``(1) Availability of funds.--Of the funds of the Commodity 
+     Credit Corporation, in addition to amounts made available 
+     under section 1241(a) to carry out this chapter, the 
+     Secretary shall use--
+       ``(A) $65,000,000 for each of fiscal years 2008 through 
+     2012; and
+       ``(B) $60,000,000 for each fiscal year thereafter.
+       ``(2) Funding for certain states.--Of the funds made 
+     available under paragraph (1), the Secretary shall--
+       ``(A) provide to each State that received funds under this 
+     title during the period of fiscal years 2002 through 2007, 
+     the greater of--
+       ``(i) the simple average of amounts allocated to producers 
+     in the State under this section for the period of fiscal 
+     years 2002 through 2007; or
+       ``(ii) the amount allocated to producers in the State under 
+     this section in fiscal year 2007; and
+       ``(B) in the case of each State the boundaries of which 
+     encompass a multistate aquifer from which documented 
+     groundwater withdrawals exceed 16,000,000,000 gallons per 
+     day, provide an amount not less than the greater of--
+       ``(i) $3,000,000; or
+       ``(ii) the amount provided under subparagraph (A).
+       ``(3) Eastern snake plain aquifer pilot.--
+       ``(A) In general.--Of the funds made available under 
+     paragraph (1), the Secretary shall reserve not less than 
+     $2,000,000, to remain available until expended, for regional 
+     water conservation activities in the Eastern Snake Aquifer 
+     region.
+       ``(B) Approval.--The Secretary may approve regional water 
+     conservation activities under this paragraph that address, in 
+     whole or in part, water quality issues.''.
+       On page 692, between lines 17 and 18, insert the following:
+
+     SEC. 49__. FOOD EMPLOYMENT EMPOWERMENT AND DEVELOPMENT 
+                   PROGRAM.
+
+       (a) Definitions.--In this section:
+       (1) Eligible entity.--The term ``eligible entity'' means an 
+     entity that meets the requirements of subsection (b)(2).
+       (2) Vulnerable subpopulation.--
+       (A) In general.--The term ``vulnerable subpopulation'' 
+     means low-income individuals, unemployed individuals, and 
+     other subpopulations identified by the Secretary as being 
+     likely to experience special risks from hunger or a special 
+     need for job training.
+       (B) Inclusions.--The term ``vulnerable subpopulation'' 
+     includes--
+       (i) addicts (as defined in section 102 of the Controlled 
+     Substances Act (21 U.S.C. 802));
+       (ii) at-risk youths (as defined in section 1432 of the 
+     Elementary and Secondary Education Act of 1965 (20 U.S.C. 
+     6472));
+       (iii) individuals that are basic skills deficient (as 
+     defined in section 101 of the Workforce Investment Act of 
+     1998 (29 U.S.C. 2801));
+       (iv) homeless individuals (as defined in section 17(b) of 
+     the Child Nutrition Act of 1966 (42 U.S.C. 1786(b));
+       (v) homeless youths (as defined in section 387 of the 
+     Runaway and Homeless Youth Act (42 U.S.C. 5732a));
+       (vi) individuals with disabilities (as defined in section 3 
+     of the Americans with Disabilities Act of 1990 (42 U.S.C. 
+     12102));
+       (vii) low-income individuals (as defined in section 101 of 
+     the Workforce Investment Act of 1998 (29 U.S.C. 2801)); and
+
+[[Page S15685]]
+
+       (viii) older individuals (as defined in section 102 of the 
+     Older Americans Act of 1965 (42 U.S.C. 3002)).
+       (b) Food Employment Empowerment and Development Program.--
+       (1) Establishment.--The Secretary shall establish a food 
+     employment empowerment and development program under which 
+     the Secretary shall make grants to eligible entities to 
+     encourage the effective use of community resources to combat 
+     hunger and the root causes of hunger by creating opportunity 
+     through food recovery and job training.
+       (2) Eligible entities.--To be eligible to receive a grant 
+     under this section, an entity shall be a public agency, or 
+     private nonprofit institution, that conducts, or will 
+     conduct, 2 or more of the following activities as an integral 
+     part of the normal operation of the entity:
+       (A) Recovery of donated food from area restaurants, 
+     caterers, hotels, cafeterias, farms, or other food service 
+     businesses.
+       (B) Distribution of meals or recovered food to--
+       (i) nonprofit organizations described in section 501(c)(3) 
+     of the Internal Revenue Code of 1986;
+       (ii) entities that feed vulnerable subpopulations; and
+       (iii) other agencies considered appropriate by the 
+     Secretary.
+       (C) Training of unemployed and underemployed adults for 
+     careers in the food service industry.
+       (D) Carrying out of a welfare-to-work job training program 
+     in combination with--
+       (i) production of school meals, such as school meals served 
+     under the Richard B. Russell National School Lunch Act (42 
+     U.S.C. 1751 et seq.) or the Child Nutrition Act of 1966 (42 
+     U.S.C. 1771 et seq.); or
+       (ii) support for after-school programs, such as programs 
+     conducted by community learning centers (as defined in 
+     section 4201(b) of the Elementary and Secondary Education Act 
+     of 1965 (20 U.S.C. 7171(b))).
+       (3) Use of funds.--An eligible entity may use a grant 
+     awarded under this section for--
+       (A) capital investments related to the operation of the 
+     eligible entity;
+       (B) support services for clients, including staff, of the 
+     eligible entity and individuals enrolled in job training 
+     programs;
+       (C) purchase of equipment and supplies related to the 
+     operation of the eligible entity or that improve or directly 
+     affect service delivery;
+       (D) building and kitchen renovations that improve or 
+     directly affect service delivery;
+       (E) educational material and services;
+       (F) administrative costs, in accordance with guidelines 
+     established by the Secretary; and
+       (G) additional activities determined appropriate by the 
+     Secretary.
+       (4) Preferences.--In awarding grants under this section, 
+     the Secretary shall give preference to eligible entities that 
+     perform, or will perform, any of the following activities:
+       (A) Carrying out food recovery programs that are integrated 
+     with--
+       (i) culinary worker training programs, such as programs 
+     conducted by a food service management institute under 
+     section 21 of the Richard B. Russell National School Lunch 
+     Act (42 U.S.C. 1769b-1);
+       (ii) school education programs; or
+       (iii) programs of service-learning (as defined in section 
+     101 of the National and Community Service Act of 1990 (42 
+     U.S.C. 12511)).
+       (B) Providing job skills training, life skills training, 
+     and case management support to vulnerable subpopulations.
+       (C) Integrating recovery and distribution of food with a 
+     job training program.
+       (D) Maximizing the use of an established school, community, 
+     or private food service facility or resource in meal 
+     preparation and culinary skills training.
+       (E) Providing job skills training, life skills training, 
+     and case management support to vulnerable subpopulations.
+       (5) Eligibility for job training.--To be eligible to 
+     receive job training assistance from an eligible entity using 
+     a grant made available under this section, an individual 
+     shall be a member of a vulnerable subpopulation.
+       (6) Performance indicators.--The Secretary shall establish, 
+     for each year of the program, performance indicators and 
+     expected levels of performance for meal and food distribution 
+     and job training for eligible entities to continue to receive 
+     and use grants under this section.
+       (7) Technical assistance.--The Secretary may provide such 
+     technical assistance to eligible entities as the Secretary 
+     considers appropriate to help the eligible entities in 
+     carrying out this section.
+       (8) Relationship to other law.--
+       (A) Bill emerson good samaritan food donation act.--An 
+     action taken by an eligible entity using a grant provided 
+     under this section shall be covered by the Bill Emerson Good 
+     Samaritan Food Donation Act (42 U.S.C. 1791).
+       (B) Food handling guidelines.--In using a grant provided 
+     under this section, an eligible entity shall comply with any 
+     applicable food handling guideline established by a State or 
+     local authority.
+       (9) Maximum amount of grant.--The amount of a grant 
+     provided to an eligible entity for a fiscal year under this 
+     section shall not exceed $200,000.
+       (c) Authorization of Appropriations.--
+       (1) In general.--There are authorized to be appropriated 
+     such sums as are necessary to carry out this section for each 
+     of fiscal years 2008 through 2012.
+       (2) Technical assistance.--Of the amount of funds that are 
+     made available for a fiscal year under paragraph (1), the 
+     Secretary shall use to provide technical assistance under 
+     subsection (b)(7) not more than the greater of--
+       (A) 5 percent of the amount of funds that are made 
+     available for the fiscal year under paragraph (1); or
+       (B) $1,000,000.
+       In lieu of the matter proposed to be inserted, insert the 
+     following:
+
+     SEC. 11___. OVERSIGHT OF NATIONAL AQUATIC ANIMAL HEALTH PLAN.
+
+       (a) Definitions.--In this section:
+       (1) Advisory committee.--The term ``advisory committee'' 
+     means the General Advisory Committee for Oversight of 
+     National Aquatic Animal Health established under subsection 
+     (b)(1).
+       (2) Plan.--The term ``plan'' means the national aquatic 
+     animal health plan developed by the National Aquatic Animal 
+     Health Task Force, composed of representatives of the 
+     Department of Agriculture, the Department of Commerce 
+     (including the National Oceanic and Atmospheric 
+     Administration), and the Department of the Interior 
+     (including the United States Fish and Wildlife Service).
+       (3) Secretary.--The term ``Secretary'' means the Secretary 
+     of Agriculture, acting through the Administrator of the 
+     Animal and Plant Health Inspection Service.
+       (b) General Advisory Committee for Oversight of National 
+     Aquatic Animal Health.--
+       (1) Establishment.--Not later than 180 days after the date 
+     of enactment of this Act, the Secretary, in consultation with 
+     States and the private sector, shall establish an advisory 
+     committee, to be known as the ``General Advisory Committee 
+     for Oversight of National Aquatic Animal Health''.
+       (2) Membership.--
+       (A) Composition.--The advisory committee shall--
+       (i) be composed equally of representatives of--
+
+       (I) State and tribal governments; and
+       (II) commercial aquaculture interests; and
+
+       (ii) consist of not more than 20 members, to be appointed 
+     by the Secretary, of whom--
+
+       (I) not less than 3 shall be representatives of Federal 
+     departments or agencies;
+       (II) not less than 6 shall be representatives of State or 
+     tribal governments that elect to participate in the plan 
+     under subsection (d);
+       (III) not less than 6 shall be representatives of affected 
+     commercial aquaculture interests; and
+       (IV) not less than 2 shall be aquatic animal health 
+     experts, as determined by the Secretary, of whom at least 1 
+     shall be a doctor of veterinary medicine.
+
+       (B) Nominations.--The Secretary shall publish in the 
+     Federal Register a solicitation for, and may accept, 
+     nominations for members of the advisory committee from 
+     appropriate entities, as determined by the Secretary.
+       (c) Recommendations.--
+       (1) In general.--Not later than 18 months after the date of 
+     enactment of this Act, the advisory committee shall develop 
+     and submit to the Secretary recommendations regarding--
+       (A) the establishment and membership of appropriate expert 
+     and representative commissions to efficiently implement and 
+     administer the plan;
+       (B) disease- and species-specific best management practices 
+     relating to activities carried out under the plan; and
+       (C) the establishment and administration of the 
+     indemnification fund under subsection (e).
+       (2) Factors for consideration.--In developing 
+     recommendations under paragraph (1), the advisory committee 
+     shall take into consideration all emergency aquaculture-
+     related projects that have been or are being carried out 
+     under the plan as of the date of submission of the 
+     recommendations.
+       (3) Regulations.--After consideration of the 
+     recommendations submitted under this subsection, the 
+     Secretary shall promulgate regulations to establish a 
+     national aquatic animal health improvement program, in 
+     accordance with the Animal Health Protection Act (7 U.S.C. 
+     8301 et seq.).
+       (d) Participation by State and Tribal Governments and 
+     Private Sector.--
+       (1) In general.--Any State or tribal government, and any 
+     entity in the private sector, may elect to participate in the 
+     plan.
+       (2) Duties.--On election by a State or tribal government or 
+     entity in the private sector to participate in the plan under 
+     paragraph (1), the State or tribal government or entity 
+     shall--
+       (A) submit to the Secretary--
+       (i) a notification of the election; and
+       (ii) nominations for members of the advisory committee, as 
+     appropriate; and
+       (B) as a condition of participation, enter into an 
+     agreement with the Secretary under which the State or tribal 
+     government or entity--
+       (i) assumes responsibility for a portion of the non-Federal 
+     share of the costs of carrying out the plan, as described in 
+     paragraph (3); and
+       (ii) agrees to act in accordance with applicable disease- 
+     and species-specific best management practices relating to 
+     activities carried out under the plan by the State or tribal 
+     government or entity, as the Secretary determines to be 
+     appropriate.
+       (3) Non-federal share.--
+
+[[Page S15686]]
+
+       (A) In general.--Subject to subparagraph (B), the non-
+     Federal share of the cost of carrying out the plan--
+       (i) shall be determined--
+
+       (I) by the Secretary, in consultation with the advisory 
+     committee; and
+       (II) on a case-by-case basis for each project carried out 
+     under the plan; and
+
+       (ii) may be provided by State and tribal governments and 
+     entities in the private sector in cash or in-kind.
+       (B) Deposits into indemnification fund.--The non-Federal 
+     share of amounts in the indemnification fund provided by each 
+     State or tribal government or entity in the private sector 
+     shall be--
+       (i) zero with respect to the initial deposit into the fund; 
+     and
+       (ii) determined on a case-by-case basis for each project 
+     carried out under the plan.
+       (e) Indemnification Fund.--
+       (1) Establishment.--The Secretary, in consultation with the 
+     advisory committee, shall establish a fund, to be known as 
+     the ``indemnification fund'', consisting of such amounts as 
+     are initially deposited into the fund by the Secretary under 
+     subsection (g)(1).
+       (2) Uses.--The Secretary shall use amounts in the 
+     indemnification fund only to compensate aquatic farmers--
+       (A) the entire inventory of livestock or gametes of which 
+     is eradicated as a result of a disease control or eradication 
+     measure carried out under the plan; or
+       (B) for the cost of disinfecting, destruction, and cleaning 
+     products or equipment in response to a depopulation order 
+     carried out under the plan.
+       (3) Unused amounts.--Amounts remaining in the 
+     indemnification fund on September 30 of the fiscal year for 
+     which the amounts were appropriated--
+       (A) shall remain in the fund;
+       (B) may be used in any subsequent fiscal year in accordance 
+     with paragraph (2); and
+       (C) shall not be reprogrammed by the Secretary for any 
+     other use.
+       (f) Review.--Not later than 2 years after the date of 
+     enactment of this Act, the Secretary, in consultation with 
+     the advisory committee, shall review, and submit to Congress 
+     a report regarding--
+       (1) activities carried out under the plan during the 
+     preceding 2 years;
+       (2) activities carried out by the advisory committee; and
+       (3) recommendations for funding for subsequent fiscal years 
+     to carry out this section.
+       (g) Authorization of Appropriations.--There is authorized 
+     to be appropriated to carry out this section $15,000,000 for 
+     each of fiscal years 2008 and 2009, of which--
+       (1) not less than 50 percent shall be deposited into the 
+     indemnification fund established under subsection (e) for use 
+     in accordance with that subsection; and
+       (2) not more than 50 percent shall be used for the costs of 
+     carrying out the plan, including the costs of--
+       (A) administration of the plan;
+       (B) implementation of the plan;
+       (C) training and laboratory testing;
+       (D) cleaning and disinfection associated with depopulation 
+     orders; and
+       (E) public education and outreach activities.
+       On page 987, strike lines 3 and 4 and insert the following:
+       (a) Competitive Grants.--The Competitive, Special, and 
+     Facilities Research Grant Act (7 U.S.C. 450i) is amended in 
+     subsection (b)--
+       On page 989, between lines 2 and 3, insert the following:
+       (b) National Research Support Project-7.--The Competitive, 
+     Special, and Facilities Research Grant Act (7 U.S.C. 450i) is 
+     amended by adding at the end the following:
+       ``(l) National Research Support Project-7.--
+       ``(1) Definitions.--In this subsection:
+       ``(A) Project.--The term `project' means the project 
+     established by the Secretary under paragraph (2).
+       ``(B) Secretary.--The term `Secretary' means the Secretary 
+     of Agriculture.
+       ``(2) Establishment.--The Secretary shall establish the 
+     National Research Support Project-7--
+       ``(A) to identify the animal drug needs for--
+       ``(i) minor species; and
+       ``(ii) minor uses in major species;
+       ``(B) to generate and disseminate data to ensure the safe, 
+     effective, and lawful use of drugs to be used primarily for 
+     the therapy or reproductive management of minor animal 
+     species; and
+       ``(C) to facilitate the development and approval of drugs 
+     for minor species, and minor uses in major species, by the 
+     Center for Veterinary Medicine of the Food and Drug 
+     Administration.
+       ``(3) Administration of project.--
+       ``(A) National research support project-7.--The Secretary 
+     shall carry out the project in accordance with each purpose 
+     and principle of the National Research Support Project-7 
+     carried out by the Administrator of the Cooperative State 
+     Research, Education, and Extension Service as of the day 
+     before the date of enactment of this subsection.
+       ``(B) Consultation with other entities.--The Secretary 
+     shall carry out the project in consultation with--
+       ``(i) the Commissioner of Food and Drugs;
+       ``(ii) State agricultural experiment stations;
+       ``(iii) institutions of higher education;
+       ``(iv) private entities; and
+       ``(v) any other interested individual or entity.
+       ``(4) Authorization of appropriations.--There are 
+     authorized to be appropriated such sums as are necessary to 
+     carry out this subsection.''.
+       On page 920, between lines 5 and 6, insert the following:
+
+     SEC. 70__. INDIRECT COST RECOVERY.
+
+       Section 1473A of the National Agricultural Research, 
+     Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3319a) 
+     is amended in the second sentence by striking ``not exceeding 
+     10 percent of the direct cost'' and inserting ``and shall be 
+     the negotiated indirect rate of Cost for an institution by 
+     the appropriate Federal audit agency for the institution, not 
+     to exceed 30 percent.''.
+       On page 935, strike line 7 and insert the following:
+       ``(f) Poultry Sustainability Center of Excellence.--
+       ``(1) In general.--The Secretary shall establish a poultry 
+     sustainability center of excellence--
+       ``(A) to identify challenges and develop solutions to 
+     enhance the economic and environmental sustainability of the 
+     poultry industry in the southwest region of the United 
+     States;
+       ``(B) to research, develop, and implement programs--
+       ``(i) to recover energy and other useful products from 
+     poultry waste;
+       ``(ii) to identify new technologies for the storage, 
+     treatment, and use of animal waste; and
+       ``(iii) to assist the poultry industry in ensuring that 
+     emissions of animal waste and discharges of the industry are 
+     maintained at levels at or below applicable regulatory 
+     standards;
+       ``(C) to provide technical assistance, training, applied 
+     research, and monitoring to eligible applicants;
+       ``(D) to develop environmentally effective programs in the 
+     poultry industry; and
+       ``(E) to collaborate with eligible applicants to work with 
+     the Federal Government (including Federal agencies) in the 
+     development of conservation and watershed programs to help 
+     private landowners and agricultural producers meet applicable 
+     water quality standards.
+       ``(2) Reports.--Not later than 2 years after the date of 
+     enactment of this section, and for each fiscal year 
+     thereafter, the Secretary shall submit to Congress a report 
+     describing--
+       ``(A) each project for which funds are provided under this 
+     subsection; and
+       ``(B) any advances in technology resulting from the 
+     implementation of this subsection.
+       ``(g) Authorization of Appropriations.--There
+       On page 895, strike lines 4 through 7 and insert the 
+     following:
+       Section 1408 of the National Agricultural Research, 
+     Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3123) is 
+     amended--
+       (A) in subsection (g)(1), by striking ``$350,000'' and 
+     inserting ``$500,000''; and
+       (B) in subsection (h), by striking ``2007'' and inserting 
+     ``2012''.
+       On page 842, between lines 13 and 14, add the following:
+
+     SEC. 6034. NORTHERN BORDER ECONOMIC DEVELOPMENT COMMISSION.
+
+       The Consolidated Farm and Rural Development Act (7 U.S.C. 
+     1921 et seq.) is amended by adding at the end the following:
+
+     ``Subtitle J--Northern Border Economic Development Commission
+
+     ``SEC. 386A. DEFINITIONS.
+
+       ``In this subtitle:
+       ``(1) Commission.--The term `Commission' means the Northern 
+     Border Economic Development Commission established by section 
+     386B.
+       ``(2) Federal grant program.--The term `Federal grant 
+     program' means a Federal grant program to provide assistance 
+     in carrying out economic and community development activities 
+     and conservation activities that are consistent with economic 
+     development.
+       ``(3) Non-profit entity.--The term `non-profit entity' 
+     means any entity with tax-exempt or non-profit status, as 
+     defined by the Internal Revenue Service.
+       ``(4) Region.--The term `region' means the area covered by 
+     the Commission (as described in section 386N).
+
+     ``SEC. 386B. NORTHERN BORDER ECONOMIC DEVELOPMENT COMMISSION.
+
+       ``(a) Establishment.--
+       ``(1) In general.--There is established the Northern Border 
+     Economic Development Commission.
+       ``(2) Composition.--The Commission shall be composed of--
+       ``(A) a Federal member, to be appointed by the President, 
+     with the advice and consent of the Senate; and
+       ``(B) the Governor of each State in the region that elects 
+     to participate in the Commission.
+       ``(3) Cochairpersons.--The Commission shall be headed by--
+       ``(A) the Federal member, who shall serve--
+       ``(i) as the Federal cochairperson; and
+       ``(ii) as a liaison between the Federal Government and the 
+     Commission; and
+       ``(B) a State cochairperson, who--
+       ``(i) shall be a Governor of a participating State in the 
+     region; and
+       ``(ii) shall be elected by the State members for a term of 
+     not less than 1 year.
+       ``(b) Alternate Members.--
+       ``(1) State alternates.--
+
+[[Page S15687]]
+
+       ``(A) Appointment.--The State member of a participating 
+     State may have a single alternate, who shall be appointed by 
+     the Governor of the State from among the Governor's cabinet 
+     or personal staff.
+       ``(B) Voting.--An alternate shall vote in the event of the 
+     absence, death, disability, removal, or resignation of the 
+     member for whom the individual is an alternate.
+       ``(2) Alternate federal cochairperson.--The President shall 
+     appoint an alternate Federal cochairperson.
+       ``(3) Quorum.--
+       ``(A) In general.--Subject to the requirements of this 
+     paragraph, the Commission shall determine what constitutes a 
+     quorum of the Commission.
+       ``(B) Federal cochairperson.--The Federal cochairperson or 
+     the Federal cochairperson's designee must be present for the 
+     establishment of a quorum of the Commission.
+       ``(C) State alternates.--A State alternate shall not be 
+     counted toward the establishment of a quorum of the 
+     Commission.
+       ``(4) Delegation of power.--No power or responsibility of 
+     the Commission specified in paragraphs (3) and (4) of 
+     subsection (c), and no voting right of any Commission member, 
+     shall be delegated to any person--
+       ``(A) who is not a Commission member; or
+       ``(B) who is not entitled to vote in Commission meetings.
+       ``(c) Decisions.--
+       ``(1) Requirements for approval.--Except as provided in 
+     subsection (g), decisions by the Commission shall require the 
+     affirmative vote of the Federal cochairperson and of a 
+     majority of the State members, exclusive of members 
+     representing States delinquent under subsection (g)(2)(C).
+       ``(2) Consultation.--In matters coming before the 
+     Commission, the Federal cochairperson, to the extent 
+     practicable, shall consult with the Federal departments and 
+     agencies having an interest in the subject matter.
+       ``(3) Decisions requiring quorum of state members.--The 
+     following decisions may not be made without a quorum of State 
+     members:
+       ``(A) A decision involving Commission policy.
+       ``(B) Approval of State, regional, or subregional 
+     development plans or strategy statements.
+       ``(C) Modification or revision of the Commission's code.
+       ``(D) Allocation of amounts among the States.
+       ``(4) Project and grant proposals.--The approval of project 
+     and grant proposals is a responsibility of the Commission and 
+     shall be carried out in accordance with section 386H.
+       ``(d) Duties.--The Commission shall--
+       ``(1) develop, on a continuing basis, comprehensive and 
+     coordinated plans and programs to establish priorities and 
+     approve grants for the economic development of the region, 
+     giving due consideration to other Federal, State, and local 
+     planning and development activities in the region;
+       ``(2) not later than 365 days after the date of enactment 
+     of this Act, establish priorities in a development plan for 
+     the region (including 5-year regional outcome targets);
+       ``(3) assess the needs and capital assets of the region 
+     based on available research, demonstration projects, 
+     assessments, and evaluations of the region prepared by 
+     Federal, State, or local agencies, local development 
+     districts, and any other relevant source;
+       ``(4)(A) enhance the capacity of, and provide support for, 
+     local development districts in the region; or
+       ``(B) if no local development district exists in an area in 
+     a participating State in the region, foster the creation of a 
+     local development district;
+       ``(5) actively solicit the participation of representatives 
+     of local development districts, industry groups, and other 
+     appropriate organizations as approved by the Commission, in 
+     all public proceedings of the Commission conducted under 
+     subsection (e)(1), either in-person or through interactive 
+     telecommunications; and
+       ``(6) encourage private investment in industrial, 
+     commercial, and other economic development projects in the 
+     region.
+       ``(e) Administration.--In carrying out subsection (d), the 
+     Commission may--
+       ``(1) hold such hearings, sit and act at such times and 
+     places, take such testimony, receive such evidence, and print 
+     or otherwise reproduce and distribute a description of the 
+     proceedings and reports on actions by the Commission as the 
+     Commission considers appropriate;
+       ``(2) authorize, through the Federal or State cochairperson 
+     or any other member of the Commission designated by the 
+     Commission, the administration of oaths if the Commission 
+     determines that testimony should be taken or evidence 
+     received under oath;
+       ``(3) request from any Federal, State, or local department 
+     or agency such information as may be available to or 
+     procurable by the department or agency that may be of use to 
+     the Commission in carrying out duties of the Commission;
+       ``(4) adopt, amend, and repeal bylaws and rules governing 
+     the conduct of Commission business and the performance of 
+     Commission duties;
+       ``(5) request the head of any Federal department or agency 
+     to detail to the Commission such personnel as the Commission 
+     requires to carry out duties of the Commission, each such 
+     detail to be without loss of seniority, pay, or other 
+     employee status;
+       ``(6) request the head of any State department or agency or 
+     local government to detail to the Commission such personnel 
+     as the Commission requires to carry out duties of the 
+     Commission, each such detail to be without loss of seniority, 
+     pay, or other employee status;
+       ``(7) provide for coverage of Commission employees in a 
+     suitable retirement and employee benefit system by--
+       ``(A) making arrangements or entering into contracts with 
+     any participating State government; or
+       ``(B) otherwise providing retirement and other employee 
+     benefit coverage;
+       ``(8) accept, use, and dispose of gifts or donations of 
+     services or real, personal, tangible, or intangible property;
+       ``(9) enter into and perform such contracts or other 
+     transactions as are necessary to carry out Commission duties;
+       ``(10) establish and maintain a central office located 
+     within the Northern Border Economic Development Commission 
+     region and field offices at such locations as the Commission 
+     may select; and
+       ``(11) provide for an appropriate level of representation 
+     in Washington, DC.
+       ``(f) Federal Agency Cooperation.--A Federal agency shall--
+       ``(1) cooperate with the Commission; and
+       ``(2) provide, on request of the Federal cochairperson, 
+     appropriate assistance in carrying out this subtitle, in 
+     accordance with applicable Federal laws (including 
+     regulations).
+       ``(g) Administrative Expenses.--
+       ``(1) In general.--Administrative expenses of the 
+     Commission (except for the expenses of the Federal 
+     cochairperson, including expenses of the alternate and staff 
+     of the Federal cochairperson, which shall be paid solely by 
+     the Federal Government) shall be paid--
+       ``(A) by the Federal Government, in an amount equal to 50 
+     percent of the administrative expenses; and
+       ``(B) by the States in the region participating in the 
+     Commission, in an amount equal to 50 percent of the 
+     administrative expenses.
+       ``(2) State share.--
+       ``(A) In general.--The share of administrative expenses of 
+     the Commission to be paid by each State shall be determined 
+     by the Commission.
+       ``(B) No federal participation.--The Federal cochairperson 
+     shall not participate or vote in any decision under 
+     subparagraph (A).
+       ``(C) Delinquent states.--If a State is delinquent in 
+     payment of the State's share of administrative expenses of 
+     the Commission under this subsection--
+       ``(i) no assistance under this subtitle shall be furnished 
+     to the State (including assistance to a political subdivision 
+     or a resident of the State); and
+       ``(ii) no member of the Commission from the State shall 
+     participate or vote in any action by the Commission.
+       ``(h) Compensation.--
+       ``(1) Federal cochairperson.--The Federal cochairperson 
+     shall be compensated by the Federal Government at level III 
+     of the Executive Schedule in subchapter II of chapter 53 of 
+     title V, United States Code.
+       ``(2) Alternate federal cochairperson.--The alternate 
+     Federal cochairperson--
+       ``(A) shall be compensated by the Federal Government at 
+     level V of the Executive Schedule described in paragraph (1); 
+     and
+       ``(B) when not actively serving as an alternate for the 
+     Federal cochairperson, shall perform such functions and 
+     duties as are delegated by the Federal cochairperson.
+       ``(3) State members and alternates.--
+       ``(A) In general.--A State shall compensate each member and 
+     alternate representing the State on the Commission at the 
+     rate established by law of the State.
+       ``(B) No additional compensation.--No State member or 
+     alternate member shall receive any salary, or any 
+     contribution to or supplementation of salary from any source 
+     other than the State for services provided by the member or 
+     alternate to the Commission.
+       ``(4) Detailed employees.--
+       ``(A) In general.--No person detailed to serve the 
+     Commission under paragraph (5) or (6) of subsection (e) shall 
+     receive any salary or any contribution to or supplementation 
+     of salary for services provided to the Commission from--
+       ``(i) any source other than the Federal, State, local, or 
+     intergovernmental department or agency from which the person 
+     was detailed; or
+       ``(ii) the Commission.
+       ``(B) Violation.--Any person that violates this paragraph 
+     shall be fined not more than $5,000, imprisoned not more than 
+     1 year, or both.
+       ``(C) Applicable law.--The Federal cochairperson, the 
+     alternate Federal cochairperson, and any Federal officer or 
+     employee detailed to duty on the Commission under subsection 
+     (e)(5) shall not be subject to subparagraph (A), but shall 
+     remain subject to sections 202 through 209 of title 18, 
+     United States Code.
+       ``(5) Additional personnel.--
+       ``(A) Compensation.--
+       ``(i) In general.--The Commission may appoint and fix the 
+     compensation of an executive director and such other 
+     personnel as are necessary to enable the Commission to carry 
+     out the duties of the Commission.
+       ``(ii) Exception.--Compensation under clause (i) shall not 
+     exceed the maximum rate
+
+[[Page S15688]]
+
+     for the Senior Executive Service under section 5382 of title 
+     5, United States Code, including any applicable locality-
+     based comparability payment that may be authorized under 
+     section 5304(h)(2)(C) of that title.
+       ``(B) Executive director.--The executive director shall be 
+     responsible for--
+       ``(i) the carrying out of the administrative duties of the 
+     Commission;
+       ``(ii) direction of the Commission staff; and
+       ``(iii) such other duties as the Commission may assign.
+       ``(C) No federal employee status.--No member, alternate, 
+     officer, or employee of the Commission (except the Federal 
+     cochairperson of the Commission, the alternate and staff for 
+     the Federal cochairperson, and any Federal employee detailed 
+     to the Commission under subsection (e)(5)) shall be 
+     considered to be a Federal employee for any purpose.
+       ``(i) Conflicts of Interest.--
+       ``(1) In general.--Except as provided under paragraph (2), 
+     no State member, alternate, officer, or employee of the 
+     Commission shall participate personally and substantially as 
+     a member, alternate, officer, or employee of the Commission, 
+     through decision, approval, disapproval, recommendation, the 
+     rendering of advice, investigation, or otherwise, in any 
+     proceeding, application, request for a ruling or other 
+     determination, contract, claim, controversy, or other matter 
+     in which, to knowledge of the member, alternate, officer, or 
+     employee any of the following persons has a financial 
+     interest:
+       ``(A) The member, alternate, officer, or employee.
+       ``(B) The spouse, minor child, partner, or organization 
+     (other than a State or political subdivision of the State) of 
+     the member, alternate, officer, or employee, in which the 
+     member, alternate, officer, or employee is serving as 
+     officer, director, trustee, partner, or employee.
+       ``(C) Any person or organization with whom the member, 
+     alternate, officer, or employee is negotiating or has any 
+     arrangement concerning prospective employment.
+       ``(2) Disclosure.--Paragraph (1) shall not apply if the 
+     State member, alternate, officer, or employee--
+       ``(A) immediately advises the Commission of the nature and 
+     circumstances of the proceeding, application, request for a 
+     ruling or other determination, contract, claim, controversy, 
+     or other particular matter presenting a potential conflict of 
+     interest;
+       ``(B) makes full disclosure of the financial interest; and
+       ``(C) before the proceeding concerning the matter 
+     presenting the conflict of interest, receives a written 
+     determination by the Commission that the interest is not so 
+     substantial as to be likely to affect the integrity of the 
+     services that the Commission may expect from the State 
+     member, alternate, officer, or employee.
+       ``(3) Violation.--Any person that violates this subsection 
+     shall be fined not more than $10,000, imprisoned not more 
+     than 2 years, or both.
+       ``(j) Validity of Contracts, Loans, and Grants.--The 
+     Commission may declare void any contract, loan, or grant of 
+     or by the Commission in relation to which the Commission 
+     determines that there has been a violation of any provision 
+     under subsection (h)(4), subsection (i), or sections 202 
+     through 209 of title 18, United States Code.
+
+     ``SEC. 386C. ECONOMIC AND COMMUNITY DEVELOPMENT GRANTS.
+
+       ``(a) In General.--The Commission may approve grants to 
+     States, local development districts (as defined in section 
+     386E(a)), and public and nonprofit entities for projects, 
+     approved in accordance with section 386H--
+       ``(1) to develop the infrastructure of the region for the 
+     purpose of facilitating economic development in the region 
+     (except that grants for this purpose may only be made to a 
+     State or local government);
+       ``(2) to assist the region in obtaining job training, 
+     employment-related education, business development, and small 
+     business development and entrepreneurship;
+       ``(3) to assist the region in community and economic 
+     development;
+       ``(4) to support the development of severely distressed and 
+     underdeveloped areas;
+       ``(5) to promote resource conservation, forest management, 
+     tourism, recreation, and preservation of open space in a 
+     manner consistent with economic development goals;
+       ``(6) to promote the development of renewable and 
+     alternative energy sources; and
+       ``(7) to achieve the purposes of this subtitle.
+       ``(b) Funding.--
+       ``(1) In general.--Funds for grants under subsection (a) 
+     may be provided--
+       ``(A) entirely from appropriations to carry out this 
+     section;
+       ``(B) in combination with funds available under another 
+     State or Federal grant program; or
+       ``(C) from any other source.
+       ``(2) Eligible projects.--The Commission may provide 
+     assistance, make grants, enter into contracts, and otherwise 
+     provide funds to eligible entities in the region for projects 
+     that promote--
+       ``(A) business development;
+       ``(B) job training or employment-related education;
+       ``(C) small businesses and entrepreneurship, including--
+       ``(i) training and education to aspiring entrepreneurs, 
+     small businesses, and students;
+       ``(ii) access to capital and facilitating the establishment 
+     of small business venture capital funds;
+       ``(iii) existing entrepreneur and small business 
+     development programs and projects; and
+       ``(iv) projects promoting small business innovation and 
+     research;
+       ``(D) local planning and leadership development;
+       ``(E) basic public infrastructure, including high-tech 
+     infrastructure and productive natural resource conservation;
+       ``(F) information and technical assistance for the 
+     modernization and diversification of the forest products 
+     industry to support value-added forest products enterprises;
+       ``(G) forest-related cultural, nature-based, and heritage 
+     tourism;
+       ``(H) energy conservation and efficiency in the region to 
+     enhance its economic competitiveness;
+       ``(I) the use of renewable energy sources in the region to 
+     produce alternative transportation fuels, electricity and 
+     heat; and
+       ``(J) any other activity facilitating economic development 
+     in the region.
+       ``(3) Federal share.--Notwithstanding any provision of law 
+     limiting the Federal share in any grant program, funds 
+     appropriated or otherwise made available to carry out this 
+     section may be used to increase a Federal share in a grant 
+     program, as the Commission determines appropriate.
+
+     ``SEC. 386D. SUPPLEMENTS TO FEDERAL GRANT PROGRAMS.
+
+       ``(a) Federal Grant Program Funding.--In accordance with 
+     subsection (b), the Federal cochairperson may use amounts 
+     made available to carry out this subtitle, without regard to 
+     any limitations on areas eligible for assistance or 
+     authorizations for appropriation under any other Act, to fund 
+     all or any portion of the basic Federal contribution to a 
+     project or activity under a Federal grant program in the 
+     region in an amount that is above the fixed maximum portion 
+     of the cost of the project otherwise authorized by applicable 
+     law, but not to exceed 80 percent of the costs of the 
+     project.
+       ``(b) Certification.--
+       ``(1) In general.--In the case of any program or project 
+     for which all or any portion of the basic Federal 
+     contribution to the project under a Federal grant program is 
+     proposed to be made under this section, no Federal 
+     contribution shall be made until the Federal official 
+     administering the Federal law authorizing the contribution 
+     certifies that the program or project--
+       ``(A) meets the applicable requirements of the applicable 
+     Federal grant law; and
+       ``(B) could be approved for Federal contribution under the 
+     law if funds were available under the law for the program or 
+     project.
+       ``(2) Certification by commission.--
+       ``(A) In general.--The certifications and determinations 
+     required to be made by the Commission for approval of 
+     projects under this subtitle in accordance with section 
+     386H--
+       ``(i) shall be controlling; and
+       ``(ii) shall be accepted by the Federal agencies.
+       ``(B) Acceptance by federal cochairperson.--Any finding, 
+     report, certification, or documentation required to be 
+     submitted to the head of the department, agency, or 
+     instrumentality of the Federal Government responsible for the 
+     administration of any Federal grant program shall be accepted 
+     by the Federal cochairperson with respect to a supplemental 
+     grant for any project under the program.
+
+     ``SEC. 386E. LOCAL DEVELOPMENT DISTRICTS; CERTIFICATION AND 
+                   ADMINISTRATIVE EXPENSES.
+
+       ``(a) Definition of Local Development District.--In this 
+     section, the term `local development district' means an 
+     entity designated by the State that--
+       ``(1) is--
+       ``(A)(i) a planning district in existence on the date of 
+     enactment of this Act that is recognized by the Economic 
+     Development Administration of the Department of Commerce; or
+       ``(ii) a development district recognized by the State; or
+       ``(B) if an entity described in subparagraph (A)(i) or 
+     (A)(ii) does not exist, an entity designated by the 
+     Commission that satisfies the criteria developed by the 
+     Economic Development Administration for a local development 
+     district; and
+       ``(2) has not, as certified by the Federal cochairperson--
+       ``(A) inappropriately used Federal grant funds from any 
+     Federal source; or
+       ``(B) appointed an officer who, during the period in which 
+     another entity inappropriately used Federal grant funds from 
+     any Federal source, was an officer of the other entity.
+       ``(b) Grants to Local Development Districts.--
+       ``(1) In general.--The Commission may make grants for 
+     administrative expenses under this section.
+       ``(2) Conditions for grants.--
+       ``(A) Maximum amount.--The amount of any grant awarded 
+     under paragraph (1) shall not exceed 80 percent of the 
+     administrative expenses of the local development district 
+     receiving the grant.
+       ``(B) Local share.--The contributions of a local 
+     development district for administrative expenses may be in 
+     cash or in kind, fairly evaluated, including space, 
+     equipment, and services.
+       ``(c) Duties of Local Development Districts.--A local 
+     development district shall--
+
+[[Page S15689]]
+
+       ``(1) operate as a lead organization serving multicounty 
+     areas in the region at the local level; and
+       ``(2) serve as a liaison between State and local 
+     governments, nonprofit organizations (including community-
+     based groups and educational institutions), the business 
+     community, and citizens that--
+       ``(A) are involved in multijurisdictional planning;
+       ``(B) provide technical assistance to local jurisdictions 
+     and potential grantees; and
+       ``(C) provide leadership and civic development assistance.
+
+     ``SEC. 386F. DEVELOPMENT PLANNING PROCESS.
+
+       ``(a) State Development Plan.--In accordance with policies 
+     established by the Commission, each State member shall submit 
+     a development plan for the area of the region represented by 
+     the State member.
+       ``(b) Content of Plan.--A State development plan submitted 
+     under subsection (a) shall reflect the goals, objectives, and 
+     priorities identified in the regional development plan 
+     developed under section 386B(d)(2).
+       ``(c) Consultation.--In carrying out the development 
+     planning process, a State shall--
+       ``(1) consult with--
+       ``(A) local development districts;
+       ``(B) local units of government;
+       ``(C) institutions of higher learning; and
+       ``(D) stakeholders; and
+       ``(2) take into consideration the goals, objectives, 
+     priorities, and recommendations of the entities described in 
+     paragraph (1).
+       ``(d) Public Participation.--The Commission and applicable 
+     State and local development districts shall encourage and 
+     assist, to the maximum extent practicable, public 
+     participation in the development, revision, and 
+     implementation of all plans and programs under this subtitle.
+
+     ``SEC. 386G. PROGRAM DEVELOPMENT CRITERIA.
+
+       ``(a) In General.--In considering programs and projects to 
+     be provided assistance under this subtitle, and in 
+     establishing a priority ranking of the requests for 
+     assistance provided by the Commission, the Commission shall 
+     follow procedures that ensure, to the maximum extent 
+     practicable, consideration of--
+       ``(1) the relationship of the project to overall regional 
+     development;
+       ``(2) the economic distress of an area, including the per 
+     capita income, outmigration, poverty and unemployment rates, 
+     and other socioeconomic indicators for the area;
+       ``(3) the financial resources available to the applicants 
+     for assistance seeking to carry out the project, with 
+     emphasis on ensuring that projects are adequately financed to 
+     maximize the probability of successful economic development;
+       ``(4) the importance of the project in relation to other 
+     projects that may be in competition for the same funds;
+       ``(5) the prospects that the project for which assistance 
+     is sought will improve, on a continuing rather than a 
+     temporary basis, the opportunities for employment, the 
+     average level of income, or the economic development of the 
+     area served by the project;
+       ``(6) the extent to which the project design provides for 
+     detailed outcome measurements by which grant expenditures and 
+     the results of the expenditures may be evaluated; and
+       ``(7) the preservation of multiple uses, including 
+     conservation, of natural resources.
+       ``(b) No Relocation Assistance.--No financial assistance 
+     authorized by this subtitle shall be used to assist an 
+     establishment in relocating from 1 area to another.
+       ``(c) Reduction of Funds.--Funds may be provided for a 
+     program or project in a State under this subtitle only if the 
+     Commission determines that the level of Federal or State 
+     financial assistance provided under a law other than this 
+     subtitle, for the same type of program or project in the same 
+     area of the State within the region, will not be reduced as a 
+     result of funds made available by this subtitle.
+
+     ``SEC. 386H. APPROVAL OF DEVELOPMENT PLANS AND PROJECTS.
+
+       ``(a) In General.--A State or regional development plan or 
+     any multistate subregional plan that is proposed for 
+     development under this subtitle shall be reviewed by the 
+     Commission.
+       ``(b) Evaluation by State Member.--An application for a 
+     grant or any other assistance for a project under this 
+     subtitle shall be made through and evaluated for approval by 
+     the State member of the Commission representing the 
+     applicant.
+       ``(c) Certification.--An application for a grant or other 
+     assistance for a project shall be approved only on 
+     certification by the State member and Federal cochairperson 
+     that the application for the project--
+       ``(1) describes ways in which the project complies with any 
+     applicable State development plan;
+       ``(2) meets applicable criteria under section 386G;
+       ``(3) provides adequate assurance that the proposed project 
+     will be properly administered, operated, and maintained; and
+       ``(4) otherwise meets the requirements of this subtitle.
+       ``(d) Votes for Decisions.--Upon certification of an 
+     application for a grant or other assistance for a specific 
+     project under this section, an affirmative vote of the 
+     Commission under section 386B(c) shall be required for 
+     approval of the application.
+
+     ``SEC. 386I. CONSENT OF STATES.
+
+       ``Nothing in this subtitle requires any State to engage in 
+     or accept any program under this subtitle without the consent 
+     of the State.
+
+     ``SEC. 386J. RECORDS.
+
+       ``(a) Records of the Commission.--
+       ``(1) In general.--The Commission shall maintain accurate 
+     and complete records of all transactions and activities of 
+     the Commission.
+       ``(2) Availability.--All records required under paragraph 
+     (1) shall be available for audit by the Comptroller General 
+     of the United States and the Commission (including authorized 
+     representatives of the Comptroller General and the 
+     Commission).
+       ``(b) Records of Recipients of Federal Assistance.--
+       ``(1) In general.--A recipient of Federal funds under this 
+     subtitle shall, as required by the Commission, maintain 
+     accurate and complete records of transactions and activities 
+     financed with Federal funds and report on the transactions 
+     and activities to the Commission.
+       ``(2) Availability.--All records required under paragraph 
+     (1) shall be available for audit by the Comptroller General 
+     of the United States and the Commission (including authorized 
+     representatives of the Comptroller General and the 
+     Commission).
+
+     ``SEC. 386K. ANNUAL REPORT.
+
+       ``Not later than 180 days after the end of each fiscal 
+     year, the Commission shall submit to the President and to 
+     Congress a report describing the activities carried out under 
+     this subtitle.
+
+     ``SEC. 386L. AUTHORIZATION OF APPROPRIATIONS.
+
+       ``(a) In General.--There is authorized to be appropriated 
+     to the Commission to carry out this subtitle $40,000,000 for 
+     each of fiscal years 2008 through 2012, to remain available 
+     until expended.
+       ``(b) Administrative Expenses.--Not more than 5 percent of 
+     the amount appropriated under subsection (a) for a fiscal 
+     year shall be used for administrative expenses of the 
+     Commission.
+
+     ``SEC. 386M. TERMINATION OF COMMISSION.
+
+       ``This subtitle shall have no force or effect on or after 
+     October 1, 2012.
+
+     ``SEC. 386N. REGION OF NORTHERN BORDER ECONOMIC DEVELOPMENT 
+                   COMMISSION.
+
+       ``(a) Goal.--It shall be the goal of the Commission to 
+     address economic distress along the northern border of the 
+     United States east of, and including, Cayuga County, New 
+     York, especially in rural areas.
+       ``(b) Counties Included in Northern Border Region.--
+     Consistent with the goal described in subsection (a), the 
+     region of Commission shall include the following counties:
+       ``(1) In Maine, the counties of Aroostook, Franklin, 
+     Oxford, Somerset, and Washington.
+       ``(2) In New Hampshire, the county of Coos.
+       ``(3) In New York, the counties of Cayuga, Clinton, 
+     Franklin, Jefferson, Oswego, and St. Lawrence.
+       ``(4) In Vermont, the counties of Essex, Franklin, Grand 
+     Isle, and Orleans.
+       ``(c) Contiguous Counties.--
+       ``(1) In general.--Subject to paragraph (2), in addition to 
+     the counties listed in subsection (b), the region of 
+     Commission shall include the following counties:
+       ``(A) In Maine, the counties of Androscoggin, Kennebec, 
+     Penobscot, Piscataquis, and Waldo.
+       ``(B) In New York, the counties of Essex, Hamilton, 
+     Herkimer, Lewis, Oneida, and Seneca.
+       ``(C) In Vermont, the county of Caledonia.
+       ``(2) Recommendations to congress.--As part of an annual 
+     report submitted under section 386K, the Commission may 
+     recommend to Congress removal of a county listed in paragraph 
+     (1) from the region on the basis that the county no longer 
+     exhibits 2 or more of the following economic distress 
+     factors: population loss, poverty, income levels, and 
+     unemployment.
+       ``(d) Examination of Additional Counties and Areas for 
+     Inclusion in the Region.--
+       ``(1) In general.--Not later than one year after the date 
+     of enactment of this Act, the Commission--
+       ``(A) shall examine all counties that border the region of 
+     the Commission specified in subsection (a), including the 
+     political subdivisions and census tracts within such 
+     counties; and
+       ``(B) may add a county or any portion of a county examined 
+     under subparagraph (A)to the region, if the Commission 
+     determines that the county or portion--
+       ``(i) is predominantly rural in nature; and
+       ``(ii) exhibits significant economic distress in terms of 
+     population loss, poverty, income levels, unemployment, or 
+     other economic indicator that the Commission considers 
+     appropriate.
+       ``(2) Priority.--In carrying out paragraph (1)(A), the 
+     Commission shall first examine the following counties:
+       ``(A) In Maine, the counties of Hancock and Knox.
+       ``(B) In New Hampshire, the counties of Grafton, Carroll, 
+     and Sullivan.
+       ``(C) In New York, the counties of Fulton, Madison, Warren, 
+     Saratoga, and Washington.
+       ``(D) In Vermont, the county of Lamoille.
+       ``(e) Addition of Counties and Other Areas.--
+       ``(1) Recommendations.--Following the one-year period 
+     beginning on the date of enactment of this Act, as part of an 
+     annual report submitted under section 386K, the Commission 
+     may recommend to Congress additional counties or portions of 
+     counties for inclusion in the region.
+       ``(2) Areas of economic distress.--The Commission may 
+     recommend that an entire
+
+[[Page S15690]]
+
+     county be included in the region on the basis of one or more 
+     distressed areas within the county.
+       ``(3) Assessments of economic conditions.--The Commission 
+     may provide technical and financial assistance to a county 
+     that is not included in the region for the purpose of 
+     conducting an economic assessment of the county. The results 
+     of such an assessment may be used by the Commission in making 
+     recommendations under paragraph (1).
+       ``(f) Limitation.--A county eligible for assistance from 
+     the Appalachian Regional Commission under subtitle IV of 
+     title 40, United States Code, shall not be eligible for 
+     assistance from the Northern Border Economic Development 
+     Commission.''.
+       On page 778, between lines 2 and 3, insert the following:
+
+     SEC. 60__. GEOGRAPHICALLY DISADVANTAGED FARMERS AND RANCHERS.
+
+       (a) In General.--The Consolidated Farm and Rural 
+     Development Act is amended by inserting after section 344 (7 
+     U.S.C. 1992) the following:
+
+     ``SEC. 345. GEOGRAPHICALLY DISADVANTAGED FARMERS AND 
+                   RANCHERS.
+
+       ``(a) Definitions.--In this section:
+       ``(1) Agricultural commodity.--The term `agricultural 
+     commodity' has the meaning given the term in section 102 of 
+     the Agricultural Trade Act of 1978 (7 U.S.C. 5602).
+       ``(2) Geographically disadvantaged farmer or rancher.--The 
+     term `geographically disadvantaged farmer or rancher' has the 
+     meaning given the term in section 10906(a) of the Farm 
+     Security and Rural Investment Act of 2002 (7 U.S.C. 2204 
+     note; Public Law 107-171).
+       ``(b) Authorization.--
+       ``(1) In general.--Subject to paragraph (2) and the 
+     availability of funds under subsection (d), for each fiscal 
+     year, the Secretary may provide geographically disadvantaged 
+     farmers or ranchers direct reimbursement payments for 
+     activities described in subsection (c).
+       ``(2) Limitation.--The total amount of direct reimbursement 
+     payments provided by the Secretary under this section shall 
+     not exceed $15,000,000 for each fiscal year.
+       ``(c) Transportation.--
+       ``(1) In general.--Subject to paragraphs (2) and (3), the 
+     Secretary may provide direct reimbursement payments to a 
+     geographically disadvantaged farmer or rancher to transport 
+     an agricultural commodity, or inputs used to produce an 
+     agricultural commodity, during a fiscal year.
+       ``(2) Proof of eligibility.--To be eligible to receive 
+     assistance under paragraph (1), farmer or rancher shall 
+     provide to the Secretary proof (as determined by the 
+     Secretary) that transportation or the agricultural commodity 
+     or inputs occurred over a distance of more than 30 miles.
+       ``(3) Amount.--The amount of direct reimbursement payments 
+     made to a geographically disadvantaged farmer or rancher 
+     under a subsection for a fiscal year shall equal the product 
+     obtained by multiplying--
+       ``(A) the amount of costs incurred by the farmer or rancher 
+     for transportation of the agricultural commodity or inputs 
+     during the fiscal year; and
+       ``(B) the percentage of the allowance for that fiscal year 
+     made under section 5941 of title 5, United States Code, for 
+     Federal employees stationed in Alaska and Hawaii.
+       ``(d) Authorization of Appropriations.--There are 
+     authorized to be appropriated such sums as are necessary to 
+     carry out this section.''.
+       (b) Effective Date.--The amendment made by subsection (a) 
+     takes effect on October 1, 2007.
+       On page 294, insert after line 11:
+
+     SEC. 19 __. SESAME INSURANCE PILOT PROGRAM.
+
+       Section 523 of the Federal Crop Insurance Act (7 U.S.C. 
+     1523) is amended by adding at the end the following
+       ``(g) Sesame Insurance Pilot Program.--
+       (1) In general.--The Secretary of Agriculture shall 
+     establish and carry out a pilot program under which a 
+     producer of non-dehiscent sesame under contract may elect to 
+     obtain multi-peril crop insurance, as determined by the 
+     Secretary.
+       (2) Terms and conditions.--The multi-peril crop insurance 
+     offered under the sesame insurance pilot program shall--
+       (A) be offered through reinsurance arrangements with 
+     private insurance companies;
+       (B) be actuarially sound; and
+       (C) require the payment of premiums and administrative fees 
+     by a producer obtaining the insurance.
+       (3) Location.--The sesame insurance pilot program shall be 
+     carried out only in the State of Texas.
+       (4) Relation to prohibition on research and development by 
+     corporation.--Section 522(e)(4) of the Federal Crop Insurance 
+     Act (7 U.S.C. 1522(e)(4)) shall apply with respect to the 
+     sesame insurance pilot program.
+       (5) Duration.--The Secretary shall commence the sesame 
+     insurance pilot program as soon as practicable after the date 
+     of the enactment of this Act and continue the program through 
+     the 2012 crop year.
+       At the end of subtitle C of title VIII, add the following:
+
+     SEC. 82___. PREVENTION OF ILLEGAL LOGGING PRACTICES.
+
+       (a) In General.--The Lacey Act Amendments of 1981 are 
+     amended--
+       (1) in section 2 (16 U.S.C. 3371)--
+       (A) by striking subsection (f) and inserting the following:
+       ``(f) Plant.--
+       ``(1) In general.--The term `plant' means any wild member 
+     of the plant kingdom, including roots, seeds, parts, and 
+     products thereof.
+       ``(2) Exclusions.--
+       ``(A) In general.--Subject to subparagraph (B), the term 
+     `plant' excludes--
+       ``(i) any cultivar or common food crop; or
+       ``(ii) a plant intended to remain planted, to be planted, 
+     or replanted (including roots, seeds, and germplasm) that 
+     is--
+
+       ``(I)(aa) imported into the United States accompanied by a 
+     phytosanitary certificate issued by the national plant 
+     protection organization of the country of origin or 
+     transshipment country; or
+       ``(bb) precleared for entry by the Secretary; or
+       ``(II) a domestically produced plant, or derived from a 
+     domestically produced plant, that is--
+
+       ``(aa) moving in interstate commerce; and
+       ``(bb) not listed pursuant to any State law that provides 
+     for the conservation of species threatened with extinction.
+       ``(B) Limitation.--The exclusions in subparagraph (A) do 
+     not apply to a plant listed--
+       ``(i) on an appendix to the Convention on International 
+     Trade in Endangered Species of Wild Fauna and Flora, done at 
+     Washington on March 3, 1973 (27 UST 1087; TIAS 8249); or
+       ``(ii) as an endangered or threatened species under the 
+     Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.).''.
+       (B) in subsection (h), by inserting ``also'' after ``plants 
+     the term''; and
+       (C) by striking subsection (j) and inserting the following:
+       ``(j) Taken and Taking.--
+       (1) Taken.--The term ``taken'' means captured, killed, or 
+     collected and, with respect to a plant, also means harvested, 
+     cut logged, or removed.
+       (2) Taking.--The term ``taking'' means the act by which 
+     fish, wildlife, or plants are taken.'';
+       (2) in section 3 (16 U.S.C. 3372)--
+       (A) in subsection (a)--
+       (i) in paragraph (2), by striking subparagraph (B) and 
+     inserting the following:
+       ``(B) any plant--
+       ``(i) taken, possessed, transported, or sold in violation 
+     of any law or regulation of any State, or any foreign law, 
+     that protects plants or that regulates--
+
+       ``(I) the theft of plants;
+       ``(II) the taking of plants from a park, forest reserve, or 
+     other officially protected area;
+       ``(III) the taking of plants from an officially designated 
+     area; or
+       ``(IV) the taking of plants without, or contrary to, 
+     required authorization;
+
+       ``(ii) taken, possessed, transported, or sold without the 
+     payment of royalties, taxes, or stumpage fees required for 
+     the plant by any law or regulation of any State or any 
+     foreign law; or
+       ``(iii) taken, possessed, transported, or sold in violation 
+     of any limitation under any law or regulation of any State or 
+     under any foreign law; governing the export or transshipment 
+     of plants; or''; and
+       (ii) in paragraph (3), by striking subparagraph (B) and 
+     inserting the following:
+       ``(B) to possess any plant--
+       ``(i) taken, possessed, transported, or sold in violation 
+     of any law or regulation of any State, or any foreign law, 
+     that protects plants or that regulates--
+
+       ``(I) the theft of plants;
+       ``(II) the taking of plants from a park, forest reserve, or 
+     other officially protected area;
+       ``(III) the taking of plants from an officially designated 
+     area; or
+       ``(IV) the taking of plants without, or contrary to, 
+     required authorization;
+
+       ``(ii) taken, possessed, transported, or sold without the 
+     payment of royalties, taxes, or stumpage fees required for 
+     the plant by any law or regulation of any State or any 
+     foreign law; or
+       ``(iii) taken, possessed, transported, or sold in violation 
+     of any limitation under any law or regulation of any State or 
+     under any foreign law; governing the export or transshipment 
+     of plants; or''; and
+       (B) by adding at the end the following:
+       ``(f) Plant Declarations.--
+       ``(1) In general.--Effective 180 days from the date of 
+     enactment of this subsection and except as provided in 
+     paragraph (3), it shall be unlawful for any person to import 
+     any plant unless the person files upon importation where 
+     clearance is requested a declaration that contains--
+       ``(A) the scientific name of any plant (including the genus 
+     and species of the plant) contained in the importation;
+       ``(B) a description of--
+       ``(i) the value of the importation; and
+       ``(ii) the quantity, including the unit of measure, of the 
+     plant; and
+       ``(C) the name of the country from which the plant was 
+     taken.
+       ``(2) Declaration relating to plant products.--Until the 
+     date on which the Secretary promulgates a regulation under 
+     paragraph (6), a declaration relating to a plant product 
+     shall--
+       ``(A) in the case in which the species of plant used to 
+     produce the plant product that is the subject of the 
+     importation varies, and the species used to produce the plant 
+     product is unknown, contain the name of each species of plant 
+     that may have been used to produce the plant product; and
+       ``(B) in the case in which the species of plant used to 
+     produce the plant product that
+
+[[Page S15691]]
+
+     is the subject of the importation is commonly taken from more 
+     than 1 country, and the country from which the plant was 
+     taken and used to produce the plant product is unknown, 
+     contain the name of each country from which the plant may 
+     have been taken.
+       ``(3) Exclusions.--Paragraphs (1) and (2) shall not apply 
+     to plants used exclusively as packaging materials to support, 
+     protect, or carry another item, unless the packaging 
+     materials are the items being imported.
+       ``(4) Review.--
+       ``(A) In general.--Not later than 2 years after the date of 
+     enactment of this subsection, the Secretary shall review the 
+     implementation of each requirement described in paragraphs 
+     (1) and (2).
+       ``(B) Review of excluded wood and paper packaging 
+     materials.--The Secretary--
+       ``(i) shall, in conducting the review under subparagraph 
+     (A), consider the effect of excluding the materials described 
+     in paragraph (3); and
+       ``(ii) may limit the scope of the exclusions under 
+     paragraph (3) if the Secretary determines, based on the 
+     review, that the limitations in scope are warranted.
+       ``(5) Report.--
+       ``(A) In general.--Not later than 180 days after the date 
+     on which the Secretary completes the review under paragraph 
+     (4), the Secretary shall submit to the appropriate committees 
+     of Congress a report containing--
+       ``(i) an evaluation of--
+
+       ``(I) the effectiveness of each type of information 
+     required under paragraphs (1) and (2) in assisting 
+     enforcement of section 3; and
+       ``(II) the potential to harmonize each requirement 
+     described in paragraphs (1) and (2) with other applicable 
+     import regulations in existence as of the date of the report;
+
+       ``(ii) recommendations for such legislation as the 
+     Secretary determines to be appropriate to assist in the 
+     identification of plants that are imported into the United 
+     States in violation of section 3; and
+       ``(iii) an analysis of the effect of the provisions of 
+     subsection (a) and (f) on--
+
+       ``(I) the cost of legal plant imports; and
+       ``(II) the extent and methodology of illegal logging 
+     practices and trafficking.
+
+       ``(B) Public participation.--In conducting the review under 
+     paragraph (4), the Secretary shall provide public notice and 
+     an opportunity for comment.
+       ``(6) Promulgation of regulations.--Not later than 180 days 
+     after the date on which the Secretary completes the review 
+     under paragraph (4), the Secretary may promulgate 
+     regulations--
+       ``(A) to limit the applicability of any requirement 
+     described in paragraph (2) to specific plant products;
+       ``(B) to make any other necessary modification to any 
+     requirement described in paragraph (2), as determined by the 
+     Secretary based on the review under paragraph (4); and
+       ``(C) to limit the scope of the exclusions under paragraph 
+     (3) if the Secretary determines, based on the review under 
+     paragraph (4), that the limitations in scope are 
+     warranted.'';
+       (3) in section 4 (16 U.S.C. 3373)--
+       (A) by striking ``subsections (b) and (d)'' each place it 
+     appears and inserting ``subsections (b), (d), and (f)'';
+       (B) by striking ``section 3(d)'' each place it appears and 
+     inserting ``subsection (d) or (f) of section 3''; and
+       (C) in subsection (a)(2), by striking ``subsection 3(b)'' 
+     and inserting ``subsection (b) or subsection (f) of section 
+     3, except as provided in paragraph (1),'';
+       (4) by adding at the end of section 5 (16 U.S.C. 3374) the 
+     following:
+       ``(d) Civil Forfeitures.--Civil forfeitures under this 
+     section shall be governed by the provisions of chapter 46 of 
+     title 18, United States Code.''; and
+       (5) in section 7(a)(1) (16 U.S.C. 3376(a)(1)), by striking 
+     ``section 4'' and inserting ``section 3(f), section 4,''.
+       (b) Technical Correction.--
+       (1) In general.--Section 102(c) of Public Law 100-653 (102 
+     Stat. 3825) is amended by striking ``(other than section 
+     3(b))'' and inserting ``(other than subsection 3(b))''.
+       (2) Effective date.--The amendment made by paragraph (1) 
+     takes effect on November 14, 1988.
+       (f)(2) Exclusions--
+       (A) The term plant excludes--
+       (i) any cultivar or common food crop; or
+       (ii) plants intended to remain planted, to be planted or 
+     replanted (including roots, seeds, and germplasm) that are--
+       (I) imported into the United States accompanied by a 
+     phytosanitary certificate issued by the national plant 
+     protection organization of the country of origin or 
+     transshipment country, or that have been precleared for entry 
+     by the Secretary; or
+       (II) domestically produced, or derived from domestically 
+     produced plants, moving in interstate commerce; or
+       (iii) non-woody plant material, from plants lacking a well-
+     defined stem or stems and a more or less definite crown 
+     including roots, seeds, and germplasm, intended for research;
+       (B) The exclusions in paragraph (A) do not apply to plants 
+     listed--
+       (i) on an appendix to the Convention on International Trade 
+     in Endangered Species of Wild Fauna and Flora (27 UST 1087); 
+     TIAS 8249);
+       (ii) as an endangered or threatened species under the 
+     Endangered Species Act of 1973 (16 USC 1531 et seq.); or
+       (iii) pursuant to any State law that provides for the 
+     conservation of species threatened with extinction.
+       At the end, insert the following:
+
+                 TITLE XIII--HOUSING ASSISTANCE COUNCIL
+
+     SEC. 13001. SHORT TITLE.
+
+       This title may be cited as the ``Housing Assistance Council 
+     Authorization Act of 2007''.
+
+     SEC. 13002. ASSISTANCE TO HOUSING ASSISTANCE COUNCIL.
+
+       (a) Use.--The Secretary of Housing and Urban Development 
+     may provide financial assistance to the Housing Assistance 
+     Council for use by such Council to develop the ability and 
+     capacity of community-based housing development organizations 
+     to undertake community development and affordable housing 
+     projects and programs in rural areas. Assistance provided by 
+     the Secretary under this section may be used by the Housing 
+     Assistance Council for--
+       (1) technical assistance, training, support, and advice to 
+     develop the business and administrative capabilities of rural 
+     community-based housing development organizations;
+       (2) loans, grants, or other financial assistance to rural 
+     community-based housing development organizations to carry 
+     out community development and affordable housing activities 
+     for low- and moderate-income families; and
+       (3) such other activities as may be determined by the 
+     Housing Assistance Council.
+       (b) Authorization of Appropriations.--There is authorized 
+     to be appropriated for financial assistance under this 
+     section for the Housing Assistance Council--
+       (1) $10,000,000 for fiscal year 2008; and
+       (2) $15,000,000 for each of fiscal years 2009 and 2010.
+
+     SEC. 13003. AUDITS AND REPORTS.
+
+       (a) Audit.--In any year in which the Housing Assistance 
+     Council receives funds under this title, the Comptroller 
+     General of the United States shall--
+       (1) audit the financial transactions and activities of such 
+     Council only with respect to such funds so received; and
+       (2) submit a report detailing such audit to the Committee 
+     on Banking, Housing, and Urban Affairs of the Senate and the 
+     Committee on Financial Services of the House of 
+     Representatives.
+       (b) GAO Report.--The Comptroller General of the United 
+     States shall conduct a study and submit a report to the 
+     Committee on Banking, Housing, and Urban Affairs of the 
+     Senate and the Committee on Financial Services of the House 
+     of Representative on the use of any funds appropriated to the 
+     Housing Assistance Council over the past 10 years.
+
+     SEC. 13004. PERSONS NOT LAWFULLY PRESENT IN THE UNITED 
+                   STATES.
+
+       None of the funds made available under this title may be 
+     used to provide direct housing assistance to any person not 
+     lawfully present in the United States.
+
+     SEC. 13005. LIMITATION ON USE OF AUTHORIZED AMOUNTS.
+
+       None of the amounts authorized by this title may be used to 
+     lobby or retain a lobbyist for the purpose of influencing a 
+     Federal, State, or local governmental entity or officer.
+       On page 1161, between lines 8 and 9, insert the following:
+
+     ``SEC. 9011. NEW CENTURY FARM PROJECT.
+
+       ``There is authorized to be appropriated to the Secretary 
+     to support the development and operation of an integrated and 
+     sustainable biomass, feedstock, and biofuels production 
+     system to serve as a model for a new century farm $15,000,000 
+     for the period of fiscal years 2008 through 2012, to remain 
+     available until expended.''.
+       At the end of title VIII, add the following:
+
+             Subtitle D--Qualifying Timber Contract Options
+
+     SEC. 8301. QUALIFYING TIMBER CONTRACT OPTIONS.
+
+       (a) Definitions.--
+       (1) Authorized producer price index.--The term ``authorized 
+     Producer Price Index'' includes--
+       (A) the softwood commodity index (code number 0811);
+       (B) the hardwood commodity index (code number 0812);
+       (C) the wood chip index (code number PCU 3211332135); and
+       (D) any other subsequent comparable index, as established 
+     by the Bureau of Labor Statistics of the Department of Labor.
+       (2) Qualifying contract.--The term ``qualifying contract'' 
+     means a contract for the sale of timber on National Forest 
+     System land--
+       (A) that was awarded during the period beginning on July 1, 
+     2004, and ending on December 31, 2006;
+       (B) for which there is unharvested volume remaining on the 
+     parcel of land that is the subject of the contract;
+       (C) for which, not later than 90 days after the date of 
+     enactment of this Act, the timber purchaser makes a written 
+     request to the Secretary for any option described in 
+     subsection (b);
+       (D) that is not a salvage sale; and
+       (E) that is not in breach or in default.
+       (3) Secretary.--The term ``Secretary'' means the Secretary 
+     of Agriculture (acting through the Chief of the Forest 
+     Service).
+       (b) Options for Qualifying Contracts.--
+       (1) Cancellation; rate redetermination.--Notwithstanding 
+     any other provision of law, if the rate at which a qualifying 
+     contract would be advertised as of the date of enactment of 
+     this Act is at least 50 percent
+
+[[Page S15692]]
+
+     less than the sum of the original purchase rates for all of 
+     the species of timber that are the subject of the qualifying 
+     contract, the Secretary may, at the sole discretion of the 
+     Secretary--
+       (A) cancel the qualifying contract if the timber 
+     purchaser--
+       (i) pays 30 percent of the total value of the qualifying 
+     contract based on current contract rates;
+       (ii) completes each contractual obligation of the timber 
+     purchaser with respect to each unit on which harvest has 
+     begun, (including the removal of downed timber, the 
+     completion of road work, and the completion of erosion 
+     control work) to a logical stopping point, as determined by 
+     the Secretary, in consultation with the timber purchaser; and
+       (iii) terminates the rights of the timber purchaser under 
+     the qualifying contract; or
+       (B) redetermine the rate of the qualifying contract to 
+     equal the sum obtained by adding--
+       (i) 25 percent of the bid premium on the qualifying 
+     contract; and
+       (ii) the rate at which the qualifying contract would be 
+     advertised as of the date of enactment of this Act.
+       (2) Substitution of index.--
+       (A) In general.--Notwithstanding any other provision of 
+     law, the Secretary may, at the sole discretion of the 
+     Secretary, substitute the Producer Price Index in provision 
+     A20 of a qualifying contract if the timber purchaser of the 
+     qualifying contract identifies--
+       (i) each product that the timber purchaser intends to 
+     produce from the timber harvested from each unit of land that 
+     is the subject of the qualifying contract; and
+       (ii) a substitute index that contains products similar to 
+     each product identified in clause (i) from an authorized 
+     Producer Price Index.
+       (B) Authority of secretary to modify qualifying contract.--
+     If the Secretary substitutes the Producer Price Index of a 
+     qualifying contract under subparagraph (A), the Secretary may 
+     modify the qualifying contract as the Secretary determines to 
+     be necessary to provide for an emergency rate 
+     redetermination.
+       (c) Extension of Qualifying Contracts.--With respect to a 
+     qualifying contract for which the current contract rate is 
+     redetermined by the Secretary under subsection (b)(1)(B), or 
+     for which the Producer Price Index is substituted by the 
+     Secretary under subsection (b)(2), the Secretary may--
+       (1) extend the contract term for a 1-year period beginning 
+     on the contract termination date; and
+       (2) adjust the periodic payments required under the 
+     contract in accordance with applicable law (including 
+     regulations) and policies.
+       (d) Effect of Options.--
+       (1) In general.--This section shall not have the effect of 
+     surrendering any claim by the United States against any 
+     timber purchaser that arose under a qualifying contract 
+     before the date on which the Secretary conducts a 
+     cancellation, rate redetermination, or index substitution 
+     under subsection (b).
+       (2) Release of liability.--The United States shall be 
+     released from all liability, including further consideration 
+     or compensation, resulting from--
+       (A) a cancellation, rate redetermination, or index 
+     substitution conducted by the Secretary under subsection (b); 
+     or
+       (B) a determination made by the Secretary not to cancel, 
+     redetermine any rate, or substitute any index under 
+     subsection (b).
+       (3) Limitation.--A cancellation, rate redetermination, or 
+     index substitution conducted by the Secretary under 
+     subsection (b) shall release the timber purchaser from 
+     liability for any damages resulting from the cancellation, 
+     rate redetermination, or index substitution.
+       On page 499, strike lines 1 through 12 and insert the 
+     following:
+
+     SEC. 2607. DESERT TERMINAL LAKES.
+
+       Section 2507 of the Farm Security and Rural Investment Act 
+     of 2002 (43 U.S.C. 2211 note; Public Law 107-171) is 
+     amended--
+       (1) in subsection (a), by striking ``, as soon as 
+     practicable after the date of enactment of this Act,'' and 
+     inserting the following: ``and paragraph (1) of section 
+     207(a) of Public Law 108-7 (117 Stat. 146), notwithstanding 
+     paragraph (3) of that section, on the date of enactment of 
+     the Food and Energy Security Act of 2007,''; and
+       (2) by striking subsection (b) and inserting the following:
+       ``(b) Permitted Uses.--In any case in which there are 
+     willing sellers, the funds described in subsection (a) may be 
+     used--
+       ``(1) to lease water; or
+       ``(2) to purchase land, water appurtenant to the land, and 
+     related interests in the Walker River Basin in accordance 
+     with section 208(a)(1)(A) of the Energy and Water Development 
+     Appropriations Act, 2006 (Public Law 109-103, 119 Stat. 
+     2268).''.
+       Beginning on page 664, strike line 23 and all that follows 
+     through page 665, line 5, and insert the following:
+       (2) by redesignating paragraph (2) as paragraph (4);
+       (3) by inserting after paragraph (1) the following:
+       ``(2) Administration.--In providing grants under paragraph 
+     (1), the Secretary shall give priority to projects that can 
+     be replicated in schools.
+       ``(3) Pilot program for high-poverty schools.--
+       ``(A) Definitions.--In this paragraph:
+       ``(i) Eligible program.--The term `eligible program' 
+     means--
+
+       ``(I) a school-based program with hands-on vegetable 
+     gardening and nutrition education that is incorporated into 
+     the curriculum for 1 or more grades at 2 or more eligible 
+     schools; or
+       ``(II) a community-based summer program with hands-on 
+     vegetable gardening and nutrition education that is part of, 
+     or coordinated with, a summer enrichment program at 2 or more 
+     eligible schools.
+
+       ``(ii) Eligible school.--The term `eligible school' means a 
+     public school, at least 50 percent of the students of which 
+     are eligible for free or reduced price meals under this Act.
+       ``(B) Establishment.--The Secretary shall carry out a pilot 
+     program under which the Secretary shall provide to nonprofit 
+     organizations or public entities in not more than 5 States 
+     grants to develop and run, through eligible programs, 
+     community gardens at eligible schools in the States that 
+     would--
+       ``(i) be planted, cared for, and harvested by students at 
+     the eligible schools; and
+       ``(ii) teach the students participating in the community 
+     gardens about agriculture, sound farming practices, and diet.
+       ``(C) Priority states.--Of the States provided a grant 
+     under this paragraph--
+       ``(i) at least 1 State shall be among the 15 largest 
+     States, as determined by the Secretary;
+       ``(ii) at least 1 State shall be among the 16th to 30th 
+     largest States, as determined by the Secretary; and
+       ``(iii) at least 1 State shall be a State that is not 
+     described in clause (i) or (ii).
+       ``(D) Use of produce.--Produce from a community garden 
+     provided a grant under this paragraph may be--
+       ``(i) used to supplement food provided at the eligible 
+     school;
+       ``(ii) distributed to students to bring home to the 
+     families of the students; or
+       ``(iii) donated to a local food bank or senior center 
+     nutrition program.
+       ``(E) No cost-sharing requirement.--A nonprofit 
+     organization or public entity that receives a grant under 
+     this paragraph shall not be required to share the cost of 
+     carrying out the activities assisted under this paragraph.
+       ``(F) Evaluation.--A nonprofit organization or public 
+     entity that receives a grant under this paragraph shall be 
+     required to cooperate in an evaluation in accordance with 
+     paragraph (1)(H).
+       ``(G) Authorization of appropriations.--There is authorized 
+     to be appropriated to carry out this paragraph 
+     $10,000,000.''; and
+       (4) in paragraph (4) (as redesignated by paragraph (2)), by 
+     inserting ``(other than paragraph (3))'' after ``this 
+     subsection''.
+       At the appropriate place in title XI, insert the following:
+
+     SEC. ____. FOOD SAFETY IMPROVEMENT.
+
+       (a) Reportable Food Registries.--
+       (1) Federal meat inspection.--The Federal Meat Inspection 
+     Act is amended--
+       (A) by redesignating section 411 (21 U.S.C. 680) as section 
+     412; and
+       (B) by inserting after section 410 (21 U.S.C. 679a) the 
+     following:
+
+     ``SEC. 411. REPORTABLE FOOD EVENT.
+
+       ``(a) Definitions.--In this section:
+       ``(1) Reportable food.--The term `reportable food' means 
+     meat or a meat food product under this Act for which there is 
+     a reasonable probability that the use of, or exposure to, the 
+     meat or meat food product will cause serious adverse health 
+     consequences or death to humans or animals.
+       ``(2) Registry.--The term `Registry' means the registry 
+     established under subsection (b).
+       ``(3) Responsible party.--The term `responsible party', 
+     with respect to a reportable food, means an operator of an 
+     establishment subject to inspection under this Act at which 
+     the reportable food is manufactured, processed, packed, or 
+     held.
+       ``(b) Establishment.--
+       ``(1) In general.--Not later than 1 year after the date of 
+     enactment of the Food and Energy Security Act of 2007, the 
+     Secretary shall establish within the Department of 
+     Agriculture a Reportable Meat Registry to which information 
+     concerning reportable food may be submitted via an electronic 
+     portal, from--
+       ``(A) employees of the Food Safety and Inspection Service;
+       ``(B) Federal, State, and local public health officials; 
+     and
+       ``(C) responsible parties.
+       ``(2) Review by secretary.--The Secretary shall promptly 
+     review and assess the information submitted under paragraph 
+     (1) for the purposes of--
+       ``(A) identifying reportable food;
+       ``(B) submitting entries to the Registry;
+       ``(C) taking actions under subsection (c); and
+       ``(D) exercising other food safety authority of the 
+     Secretary to protect the health and safety of humans and 
+     animals.
+       ``(c) Issuance of an Alert by the Secretary.--
+       ``(1) In general.--The Secretary shall issue, or cause to 
+     be issued, an alert or a notification with respect to a 
+     reportable food using information from the Registry as the 
+     Secretary considers necessary to protect the health and 
+     safety of humans and animals.
+       ``(2) Effect.--Paragraph (1) shall not affect the authority 
+     of the Secretary to issue an alert or a notification under 
+     any other provision of law.
+       ``(d) Reporting and Notification.--
+       ``(1) In general.--Except as provided in paragraph (2), as 
+     soon as practicable, but in
+
+[[Page S15693]]
+
+     no case later than 24 hours after a responsible party 
+     determines that meat or meat food product is a reportable 
+     food, the responsible party shall--
+       ``(A) submit a report to the Secretary through the Registry 
+     that includes information described in subsection (e) (other 
+     than the information described in paragraphs (7), (8), and 
+     (9) of that subsection); and
+       ``(B) investigate the cause of the event that caused the 
+     meat or meat food product to be a reportable food, if the 
+     reportable food originated with the responsible party.
+       ``(2) No report required.--A responsible party shall not be 
+     required to submit a report under paragraph (1) if--
+       ``(A) the adulteration or misbranding originated with the 
+     responsible party;
+       ``(B) the responsible party detected the adulteration or 
+     misbranding prior to any transfer to another person of the 
+     meat or meat food product; and
+       ``(C) the responsible party--
+       ``(i) corrected the adulteration or misbranding; or
+       ``(ii) destroyed or caused the destruction of the meat or 
+     meat food product.
+       ``(3) Report number.--The Secretary shall ensure that, upon 
+     submission of a report under paragraph (1), a unique number 
+     is issued through the Registry to the person submitting the 
+     report, by which the Secretary is able--
+       ``(A) to link reports about the reportable food submitted 
+     and amended under this subsection; and
+       ``(B) identify the supply chain for the reportable food.
+       ``(4) Response to report submitted by a responsible 
+     party.--After consultation with the responsible party that 
+     submitted a report under paragraph (1), the Secretary may 
+     require the responsible party to perform, as soon as 
+     practicable, but in no case later than a time specified by 
+     the Secretary, 1 or more of the following, as determined by 
+     the Secretary:
+       ``(A) Amend the report submitted by the responsible party 
+     under paragraph (1) to include the information described in 
+     subsection (e)(8).
+       ``(B) Provide a notification--
+       ``(i) to the immediate previous source of the reportable 
+     food;
+       ``(ii) to the immediate subsequent recipient of the 
+     reportable food; and
+       ``(iii) that includes--
+
+       ``(I) the information described in subsection (e) that the 
+     Secretary considers necessary;
+       ``(II) the actions described under paragraph (5) that the 
+     recipient of the notification shall perform, as required by 
+     the Secretary; and
+       ``(III) any other information that the Secretary may 
+     require.
+
+       ``(5) Subsequent reports and notifications.--Except as 
+     provided in paragraph (6), the Secretary may require a 
+     responsible party to perform, as soon as practicable, but in 
+     no case later than a time specified by the Secretary, after 
+     the responsible party receives a notification under 
+     subparagraph (C) or paragraph (4)(B), 1 or more of the 
+     following:
+       ``(A) Submit a report to the Secretary through the Registry 
+     established under subsection (b) that includes the 
+     information described in subsection (e) and other information 
+     that the Secretary considers necessary.
+       ``(B) Investigate the cause of the adulteration or 
+     misbranding if the adulteration or misbranding of the 
+     reportable food may have originated with the responsible 
+     party.
+       ``(C) Provide a notification--
+       ``(i) to the immediate previous source of the reportable 
+     food;
+       ``(ii) to the immediate subsequent recipient of the 
+     reportable food; and
+       ``(iii) that includes--
+
+       ``(I) the information described in subsection (e) that the 
+     Secretary considers necessary;
+       ``(II) the actions described under this paragraph that the 
+     recipient of the notification shall perform, as required by 
+     the Secretary; and
+       ``(III) any other information that the Secretary may 
+     require.
+
+       ``(6) Amended report.--If a responsible party receives a 
+     notification under paragraph (4)(B) or paragraph (5)(C) with 
+     respect to a reportable food after the responsible party has 
+     submitted a report to the Secretary under paragraph (1) with 
+     respect to the reportable food, the responsible party--
+       ``(A) shall not be required to submit an additional report 
+     or make a notification under paragraph (5); and
+       ``(B) the responsible party shall amend the report 
+     submitted by the responsible party under paragraph (1) to 
+     include the information described in paragraph (7), and, with 
+     respect to both the notification and the report, paragraph 
+     (10) of subsection (e).
+       ``(e) Information.--The information described in this 
+     subsection is the following:
+       ``(1) The date on which the meat or meat food product was 
+     determined to be a reportable food.
+       ``(2) A description of the reportable food, including the 
+     quantity of the reportable food.
+       ``(3) The extent and nature of the adulteration or 
+     misbranding.
+       ``(4) If the adulteration or misbranding of the reportable 
+     food may have originated with the responsible party, the 
+     results of the investigation required under paragraph (1)(B) 
+     or (5)(B) of subsection (d), as applicable, and when known.
+       ``(5) The disposition of the reportable food, if known.
+       ``(6) Product information typically found on packaging 
+     including product codes, use-by dates, and the names of 
+     manufacturers, packers, or distributors sufficient to 
+     identify the reportable food.
+       ``(7) Contact information for the responsible party.
+       ``(8) The contact information for parties directly linked 
+     in the supply chain and notified under paragraph (4)(B) or 
+     (5)(C) of subsection (d), as applicable.
+       ``(9) The information required by the Secretary to be 
+     included in a notification provided by the responsible party 
+     involved under paragraph (4)(B) or (5)(C) of subsection (d) 
+     or required in a report under subsection (d)(5)(A).
+       ``(10) The unique number described in subsection (d)(3).
+       ``(f) Coordination of Federal, State, and Local Efforts.--
+       ``(1) Food and drug administration.--In carrying out this 
+     section, the Secretary shall--
+       ``(A) share information and coordinate regulatory efforts 
+     with the Commissioner of Food and Drugs; and
+       ``(B) if the Secretary receives a report submitted about a 
+     food within the jurisdiction of the Commissioner, promptly 
+     provide the report to the Commissioner.
+       ``(2) States and localities.--In carrying out this section, 
+     the Secretary shall work with the State and local public 
+     health officials to share information that is not 
+     confidential commercial or financial information protected 
+     under section 552(b)(4) of title 5, United States Code, and 
+     coordinate regulatory efforts, in order to--
+       ``(A) help to ensure coverage of the safety of the food 
+     supply chain, including those establishments regulated by the 
+     States and localities that are not regulated under this Act; 
+     and
+       ``(B) reduce duplicative regulatory efforts.
+       ``(g) Maintenance and Inspection of Records.--
+       ``(1) In general.--The responsible party shall maintain 
+     records related to each report received, notification made, 
+     and report submitted to the Secretary under this section for 
+     at least 2 years.
+       ``(2) Inspection.--A responsible party shall, at the 
+     request of the Secretary, permit inspection of records 
+     maintained under paragraph (1).
+       ``(h) Request for Information.--Section 552 of title 5, 
+     United States Code, shall apply to any request for 
+     information regarding a record in the Registry.
+       ``(i) Safety Report.--A report or notification under 
+     subsection (d) may be accompanied by a statement, which shall 
+     be part of any report released for public disclosure, that 
+     denies that the report or the notification constitutes an 
+     admission that the product involved caused or contributed to 
+     a death, serious injury, or serious illness.
+       ``(j) Admission.--A report or notification under this 
+     section shall not be considered an admission that the 
+     reportable food involved is adulterated, misbranded, or 
+     caused or contributed to a death, serious injury, or serious 
+     illness.
+       ``(k) Homeland Security Notification.--If, after receiving 
+     a report under subsection (d), the Secretary believes the 
+     reportable food may have been deliberately adulterated or 
+     misbranded, the Secretary shall--
+       ``(1) immediately notify the Secretary of Homeland 
+     Security; and
+       ``(2) make relevant information from the Registry available 
+     to the Secretary of Homeland Security.
+       ``(l) Violations.--A responsible party that fails to comply 
+     with any requirement of this section shall be subject to an 
+     appropriate penalty under section 406.''.
+       (2) Poultry products inspection act.--The Poultry Products 
+     Inspection Act is amended by inserting after section 10 (21 
+     U.S.C. 459) the following:
+
+     ``SEC. 10A. REPORTABLE FOOD EVENT.
+
+       ``(a) Definitions.--In this section:
+       ``(1) Reportable food.--The term `reportable food' means 
+     poultry or a poultry product under this Act for which there 
+     is a reasonable probability that the use of, or exposure to, 
+     the poultry or poultry product will cause serious adverse 
+     health consequences or death to humans or animals.
+       ``(2) Registry.--The term `Registry' means the registry 
+     established under subsection (b).
+       ``(3) Responsible party.--The term `responsible party', 
+     with respect to a reportable food, means an operator of an 
+     official establishment.
+       ``(b) Establishment.--
+       ``(1) In general.--Not later than 1 year after the date of 
+     enactment of the Food and Energy Security Act of 2007, the 
+     Secretary shall establish within the Department of 
+     Agriculture a Reportable Poultry Registry to which 
+     information concerning reportable food may be submitted via 
+     an electronic portal, from--
+       ``(A) employees of the Food Safety and Inspection Service;
+       ``(B) Federal, State, and local public health officials; 
+     and
+       ``(C) responsible parties.
+       ``(2) Review by secretary.--The Secretary shall promptly 
+     review and assess the information submitted under paragraph 
+     (1) for the purposes of--
+       ``(A) identifying reportable food;
+       ``(B) submitting entries to the Registry;
+       ``(C) taking actions under subsection (c); and
+       ``(D) exercising other food safety authority of the 
+     Secretary to protect the health and safety of humans and 
+     animals.
+
+[[Page S15694]]
+
+       ``(c) Issuance of an Alert by the Secretary.--
+       ``(1) In general.--The Secretary shall issue, or cause to 
+     be issued, an alert or a notification with respect to a 
+     reportable food using information from the Registry as the 
+     Secretary considers necessary to protect the health and 
+     safety of humans and animals.
+       ``(2) Effect.--Paragraph (1) shall not affect the authority 
+     of the Secretary to issue an alert or a notification under 
+     any other provision of law.
+       ``(d) Reporting and Notification.--
+       ``(1) In general.--Except as provided in paragraph (2), as 
+     soon as practicable, but in no case later than 24 hours after 
+     a responsible party determines that poultry or poultry 
+     product is a reportable food, the responsible party shall--
+       ``(A) submit a report to the Secretary through the Registry 
+     that includes information described in subsection (e) (other 
+     than the information described in paragraphs (7), (8), and 
+     (9) of that subsection); and
+       ``(B) investigate the cause of the event that caused the 
+     poultry or poultry product to be a reportable food, if the 
+     reportable food originated with the responsible party.
+       ``(2) No report required.--A responsible party shall not be 
+     required to submit a report under paragraph (1) if--
+       ``(A) the adulteration or misbranding originated with the 
+     responsible party;
+       ``(B) the responsible party detected the adulteration or 
+     misbranding prior to any transfer to another person of the 
+     poultry or poultry product; and
+       ``(C) the responsible party--
+       ``(i) corrected the adulteration or misbranding; or
+       ``(ii) destroyed or caused the destruction of the poultry 
+     or poultry product.
+       ``(3) Report number.--The Secretary shall ensure that, upon 
+     submission of a report under paragraph (1), a unique number 
+     is issued through the Registry to the person submitting the 
+     report, by which the Secretary is able--
+       ``(A) to link reports about the reportable food submitted 
+     and amended under this subsection; and
+       ``(B) identify the supply chain for the reportable food.
+       ``(4) Response to report submitted by a responsible 
+     party.--After consultation with the responsible party that 
+     submitted a report under paragraph (1), the Secretary may 
+     require the responsible party to perform, as soon as 
+     practicable, but in no case later than a time specified by 
+     the Secretary, 1 or more of the following, as determined by 
+     the Secretary:
+       ``(A) Amend the report submitted by the responsible party 
+     under paragraph (1) to include the information described in 
+     subsection (e)(8).
+       ``(B) Provide a notification--
+       ``(i) to the immediate previous source of the reportable 
+     food;
+       ``(ii) to the immediate subsequent recipient of the 
+     reportable food; and
+       ``(iii) that includes--
+
+       ``(I) the information described in subsection (e) that the 
+     Secretary considers necessary;
+       ``(II) the actions described under paragraph (5) that the 
+     recipient of the notification shall perform, as required by 
+     the Secretary; and
+       ``(III) any other information that the Secretary may 
+     require.
+
+       ``(5) Subsequent reports and notifications.--Except as 
+     provided in paragraph (6), the Secretary may require a 
+     responsible party to perform, as soon as practicable, but in 
+     no case later than a time specified by the Secretary, after 
+     the responsible party receives a notification under 
+     subparagraph (C) or paragraph (4)(B), 1 or more of the 
+     following:
+       ``(A) Submit a report to the Secretary through the Registry 
+     established under subsection (b) that includes the 
+     information described in subsection (e) and other information 
+     that the Secretary considers necessary.
+       ``(B) Investigate the cause of the adulteration or 
+     misbranding if the adulteration or misbranding of the 
+     reportable food may have originated with the responsible 
+     party.
+       ``(C) Provide a notification--
+       ``(i) to the immediate previous source of the reportable 
+     food;
+       ``(ii) to the immediate subsequent recipient of the 
+     reportable food; and
+       ``(iii) that includes--
+
+       ``(I) the information described in subsection (e) that the 
+     Secretary considers necessary;
+       ``(II) the actions described under this paragraph that the 
+     recipient of the notification shall perform, as required by 
+     the Secretary; and
+       ``(III) any other information that the Secretary may 
+     require.
+
+       ``(6) Amended report.--If a responsible party receives a 
+     notification under paragraph (4)(B) or paragraph (5)(C) with 
+     respect to a reportable food after the responsible party has 
+     submitted a report to the Secretary under paragraph (1) with 
+     respect to the reportable food, the responsible party--
+       ``(A) shall not be required to submit an additional report 
+     or make a notification under paragraph (5); and
+       ``(B) the responsible party shall amend the report 
+     submitted by the responsible party under paragraph (1) to 
+     include the information described in paragraph (7), and, with 
+     respect to both the notification and the report, paragraph 
+     (10) of subsection (e).
+       ``(e) Information.--The information described in this 
+     subsection is the following:
+       ``(1) The date on which the poultry or poultry product was 
+     determined to be a reportable food.
+       ``(2) A description of the reportable food, including the 
+     quantity of the reportable food.
+       ``(3) The extent and nature of the adulteration or 
+     misbranding.
+       ``(4) If the adulteration or misbranding of the reportable 
+     food may have originated with the responsible party, the 
+     results of the investigation required under paragraph (1)(B) 
+     or (5)(B) of subsection (d), as applicable, and when known.
+       ``(5) The disposition of the reportable food, if known.
+       ``(6) Product information typically found on packaging 
+     including product codes, use-by dates, and the names of 
+     manufacturers, packers, or distributors sufficient to 
+     identify the reportable food.
+       ``(7) Contact information for the responsible party.
+       ``(8) The contact information for parties directly linked 
+     in the supply chain and notified under paragraph (4)(B) or 
+     (5)(C) of subsection (d), as applicable.
+       ``(9) The information required by the Secretary to be 
+     included in a notification provided by the responsible party 
+     involved under paragraph (4)(B) or (5)(C) of subsection (d) 
+     or required in a report under subsection (d)(5)(A).
+       ``(10) The unique number described in subsection (d)(3).
+       ``(f) Coordination of Federal, State, and Local Efforts.--
+       ``(1) Food and drug administration.--In carrying out this 
+     section, the Secretary shall--
+       ``(A) share information and coordinate regulatory efforts 
+     with the Commissioner of Food and Drugs; and
+       ``(B) if the Secretary receives a report submitted about a 
+     food within the jurisdiction of the Commissioner, promptly 
+     provide the report to the Commissioner.
+       ``(2) States and localities.--In carrying out this section, 
+     the Secretary shall work with the State and local public 
+     health officials to share information that is not 
+     confidential commercial or financial information protected 
+     under section 552(b)(4) of title 5, United States Code, and 
+     coordinate regulatory efforts, in order to--
+       ``(A) help to ensure coverage of the safety of the food 
+     supply chain, including those establishments regulated by the 
+     States and localities that are not regulated under this Act; 
+     and
+       ``(B) reduce duplicative regulatory efforts.
+       ``(g) Maintenance and Inspection of Records.--
+       ``(1) In general.--The responsible party shall maintain 
+     records related to each report received, notification made, 
+     and report submitted to the Secretary under this section for 
+     at least 2 years.
+       ``(2) Inspection.--A responsible party shall, at the 
+     request of the Secretary, permit inspection of records 
+     maintained under paragraph (1).
+       ``(h) Request for Information.--Section 552 of title 5, 
+     United States Code, shall apply to any request for 
+     information regarding a record in the Registry.
+       ``(i) Safety Report.--A report or notification under 
+     subsection (d) may be accompanied by a statement, which shall 
+     be part of any report released for public disclosure, that 
+     denies that the report or the notification constitutes an 
+     admission that the product involved caused or contributed to 
+     a death, serious injury, or serious illness.
+       ``(j) Admission.--A report or notification under this 
+     section shall not be considered an admission that the 
+     reportable food involved is adulterated, misbranded, or 
+     caused or contributed to a death, serious injury, or serious 
+     illness.
+       ``(k) Homeland Security Notification.--If, after receiving 
+     a report under subsection (d), the Secretary believes the 
+     reportable food may have been deliberately adulterated or 
+     misbranded, the Secretary shall--
+       ``(1) immediately notify the Secretary of Homeland 
+     Security; and
+       ``(2) make relevant information from the Registry available 
+     to the Secretary of Homeland Security.
+       ``(l) Penalties.--A responsible party that fails to comply 
+     with any requirement of this section shall be subject to an 
+     appropriate penalty under section 12.''.
+       (3) Conforming amendment.--Section 12(a) of the Poultry 
+     Products Inspection Act (21 U.S.C. 461(a)) is amended by 
+     inserting ``10A,'' after ``10,''.
+       (4) Effective date.--The amendments made by the subsection 
+     take effect on the date that is 1 year after the date of 
+     enactment of this Act.
+       (5) Guidance.--Not later than 270 days after the date of 
+     enactment of this Act, the Secretary shall issue a guidance 
+     to industry relating to--
+       (A) the submission of reports to the registries established 
+     under section 411 of the Federal Meat Inspection Act (as 
+     amended by paragraph (1)) and section 10A of the Poultry 
+     Products Inspection Act (as amended by paragraph (2)); and
+       (B) the provision of notification to other persons in the 
+     supply chain of reportable food under those sections.
+       (6) Effect.--Nothing in this subsection, or an amendment 
+     made by this subsection, alters the jurisdiction between the 
+     Secretary and the Secretary of Health and Human Services, 
+     under applicable law (including regulations).
+
+[[Page S15695]]
+
+       (b) Supplemental Plans and Reassessments.--The Secretary 
+     shall require that each establishment required by the 
+     Secretary to have a hazard analysis and critical control 
+     point plan in accordance with the final rule of the Secretary 
+     (61 Fed. Reg. 38806 (July 25, 1996)) shall submit to the 
+     Secretary, in writing--
+       (1) at a minimum, a recall plan described in Directive 
+     8080.1, Rev. 4 (May 24, 2004) of the Food Safety and 
+     Inspection Service (or a successor directive); and
+       (2) for beef products, an E. coli reassessment described in 
+     the supplementary information relating to E. coli O157: H7 
+     Contamination of Beef Products (67 Fed. Reg. 62325 (October 
+     7, 2002); part 417 of title 9, Code of Federal Regulations).
+       (c) Sanitary Transportation of Food.--
+       (1) In general.--Not later than 1 year after the date of 
+     enactment of this Act, the Secretary of Health and Human 
+     Services shall promulgate regulations described in section 
+     416(b) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 
+     350e(b)).
+       (2) Memorandum of understanding.--Not later than 180 days 
+     after the date of enactment of this Act, the Secretary, the 
+     Secretary of Health and Human Services, and the Secretary of 
+     Transportation shall enter into a memorandum of understanding 
+     to ensure that the Secretaries work together effectively to 
+     ensure the safety and security of the food supply of the 
+     United States, particularly in relation to distribution 
+     channels involving transportation (as described in the 
+     withdrawal of notices of proposed rulemaking (70 Fed. Reg. 
+     76228 (December 23, 2005))).
+       At the appropriate place in title XI, insert the following:
+
+     SEC. 11___. OFFICE OF SMALL FARMS AND BEGINNING FARMERS AND 
+                   RANCHERS.
+
+       (a) In General.--Subtitle B of title II of the Department 
+     of Agriculture Reorganization Act of 1994 (as amended by 
+     section 11059(a)) is amended by inserting after section 226B 
+     the following:
+
+     ``SEC. 226C. OFFICE OF SMALL FARMS AND BEGINNING FARMERS AND 
+                   RANCHERS.
+
+       ``(a) Establishment.--Not less than 180 days after the date 
+     of enactment of this section, the Secretary shall establish 
+     and maintain within the executive operations of the 
+     Department an office, to be known as the `Office of Small 
+     Farms and Beginning Farmers and Ranchers' (referred to in 
+     this section as the `Office').
+       ``(b) Purposes.--The purposes of the Office are--
+       ``(1) to ensure coordination across all agencies of the 
+     Department--
+       ``(A) to improve use of the programs and services of the 
+     Department; and
+       ``(B) to enhance the viability of small, beginning, and 
+     socially disadvantaged farmers and ranchers and others, as 
+     the Secretary determines to be necessary;
+       ``(2) to ensure small, beginning, and socially 
+     disadvantaged farmers and ranchers access to, and equitable 
+     participation in, commodity, credit, risk management and 
+     disaster protection, conservation, marketing, nutrition, 
+     value-added, rural development, and other programs and 
+     services of the Department;
+       ``(3) to ensure that the number and economic contributions 
+     of small, limited-resource, beginning, and socially 
+     disadvantaged farmers and ranchers are accurately reflected 
+     in the Census of Agriculture and in other reports; and
+       ``(4) to assess and enhance the effectiveness of outreach 
+     and programs of the Department--
+       ``(A) to reduce barriers to program participation;
+       ``(B) to improve service provided through programs of the 
+     Department to small, beginning, and socially disadvantaged 
+     farmers and ranchers; and
+       ``(C) by suggesting to the Secretary new initiatives and 
+     programs to better serve the needs of small, socially 
+     disadvantaged, and beginning farmers and ranchers.
+       ``(c) Director.--
+       ``(1) In general.--The Office shall be headed by a 
+     Director.
+       ``(2) Assumption of duties.--Effective on the date of 
+     establishment of the Office under subsection (a), the 
+     Director shall assume the duties and personnel of the 
+     Director of Small Farms Coordination, as in existence on the 
+     day before the date of enactment of this section.
+       ``(d) Duties.--The Office shall--
+       ``(1) in collaboration with such other agencies and offices 
+     of the Department as the Secretary determines to be 
+     necessary, develop and implement a plan to coordinate the 
+     activities established under Departmental Regulation 9700-1 
+     (August 3, 2006), including activities of the Small and 
+     Beginning Farmers and Ranchers Council and services provided 
+     by the Department to small farms and beginning farmers and 
+     ranchers;
+       ``(2) coordinate with the Office of Outreach to provide 
+     consultation, training, and liaison activities with eligible 
+     entities (as defined in section 2501(e) of the Food, 
+     Agriculture, Conservation, and Trade Act of 1990 7 U.S.C. 
+     2279(e));
+       ``(3) cooperate with, and monitor, agencies and offices of 
+     the Department to ensure that the Department is meeting the 
+     needs of small farms and of beginning farmers and ranchers;
+       ``(4) establish cross-cutting and strategic departmental 
+     goals and objectives for small farms and beginning farmers 
+     and ranchers and for each associated program;
+       ``(5) provide input to agencies and offices of the 
+     Department on program and policy decisions to ensure that the 
+     interests of small farms and of beginning farmers and 
+     ranchers are represented;
+       ``(6) measure outcomes of all small farm programs and 
+     beginning farmer and rancher programs and track progress made 
+     in achieving the goals of the programs;
+       ``(7) supervise data collection by agencies and offices of 
+     the Department regarding characteristics of small farms and 
+     beginning farmers and ranchers to ensure that the goals and 
+     objectives, and measures carried out to achieve those goals 
+     and objectives, can be measured and evaluated; and
+       ``(8) carry out any other related duties that the Secretary 
+     determines to be appropriate.
+       ``(e) Outreach.--The Office shall establish and maintain an 
+     Internet website--
+       ``(1) to share information with interested producers; and
+       ``(2) to collect and respond to comments from small and 
+     beginning farmers and ranchers, including comments of the 
+     Small and Beginning Farmers and Ranchers Council.
+       ``(f) Resources.--Using funds made available to the 
+     Secretary in appropriations Acts, the Secretary shall provide 
+     to the Office such human and capital resources as are 
+     sufficient to allow the Office to carry out the duties of the 
+     Office under this section in a timely and efficient manner.
+       ``(g) Annual Report.--The Secretary shall submit to the 
+     Committee on Agriculture of the House of Representatives and 
+     the Committee on Agriculture, Nutrition, and Forestry of the 
+     Senate annual reports that describe actions taken by the 
+     Office during the preceding calendar year to advance the 
+     interests of small farms and beginning farmers and 
+     ranchers.''.
+       (b) Conforming Amendment.--Section 296(b) of the Department 
+     of Agriculture Reorganization Act of 1994 (7 U.S.C. 7014(b)) 
+     is amended--
+       (1) in paragraph (6) (as added by section 7401(c)(1)), by 
+     striking ``or'' at the end;
+       (2) in paragraph (7) (as added by section 11059(b)), by 
+     striking the period at the end and inserting ``; or''; and
+       (3) by adding at the end the following:
+       ``(8) the authority of the Secretary to establish in the 
+     Department the Office of Small Farms and Beginning Farmers 
+     and Ranchers in accordance with section 226C.''.
+       On page 1362, between lines 19 and 20, insert the 
+     following:
+
+     SEC. 110__. STUDY OF IMPACTS OF LOCAL FOOD SYSTEMS AND 
+                   COMMERCE.
+
+       (a) Study.--The Secretary shall conduct a study on the 
+     impacts of local food systems and commerce that shall, at a 
+     minimum--
+       (1) develop a working definition of local food systems and 
+     commerce; and
+       (2) identify indicators, and include an assessment of--
+       (A) the market share of local food systems and commerce 
+     throughout the United States and by region;
+       (B) the potential community, economic, health and 
+     nutrition, environmental, food safety, and food security 
+     impacts of advancing local food systems and commerce;
+       (C) the potential energy, transportation, water resource, 
+     and climate change impacts of local food systems and 
+     commerce;
+       (D) the structure of agricultural considerations and 
+     impacts throughout the United States and by region;
+       (E) the interest of agricultural producers in diversifying 
+     to access local markets and the barriers and opportunities 
+     confronted by agricultural producers in the process of 
+     diversification;
+       (F) the current availability and present and future need of 
+     independent processing plants that cater to local food 
+     commerce, including difficulty in meeting regulatory 
+     requirements;
+       (G) the key gaps in food processing, distribution, 
+     marketing, and economic development, including regional 
+     differences in infrastructure gaps and other barriers;
+       (H) the role of public and private institutions and 
+     institutional and governmental buying systems and procurement 
+     policies in purchasing products through local food systems;
+       (I) the benefits and challenges for children and families 
+     in the most vulnerable rural and urban sectors of the United 
+     States; and
+       (J) the challenges that prevent local foods from comprising 
+     a larger share of the per capita food consumption in the 
+     United States, and existing and potential strategies, 
+     policies, and programs to address those challenges.
+       (b) Collaboration.--
+       (1) In general.--The Secretary shall appoint a 
+     collaborative study team to oversee and conduct the research 
+     necessary to conduct the study described in subsection (a) 
+     and the case studies described in subsection (c).
+       (2) Membership.--The study team shall include 
+     representatives of--
+       (A) the Economic Research Service, Agricultural Marketing 
+     Service, and other appropriate agencies of the Department of 
+     Agriculture or other Federal agencies;
+       (B) the Environmental Protection Agency;
+       (C) institutions of higher education, including at least 1 
+     institution of higher education representative from each of 
+     the regions studied;
+       (D) small farmers;
+       (E) nongovernmental organizations with appropriate 
+     expertise; and
+       (F) State and local governments.
+       (c) Case Studies.--
+
+[[Page S15696]]
+
+       (1) In general.--The study team appointed by the Secretary 
+     under subsection (b) shall carry out case studies in 
+     representative production and marketing regions in the United 
+     States to address the issues being studied under subsection 
+     (a).
+       (2) Requirements.--In carrying out case studies, the study 
+     team shall--
+       (A) identify opportunities for primary research; and
+       (B) to the maximum extent practicable, use existing 
+     surveys, data, and research.
+       (3) Components.--Each case study shall--
+       (A) identify and, to the maximum extent practicable, 
+     evaluate the success of relevant Federal, State, and local 
+     policies that are intended to induce local food purchasing 
+     and commerce;
+       (B) examine the agricultural structure in each region to 
+     account for the impact of farm size and type of production on 
+     local economies and barriers to accessing local markets;
+       (C) determine regional market trends and the share of the 
+     market supplied by current agricultural producers in the 
+     region; and
+       (D) assess the potential for local food system value chains 
+     and supply networks and map the supply chain factors in each 
+     region involved in agricultural production, processing, and 
+     distribution of locally grown produce, meat, dairy, and other 
+     products.
+       (d) Reports.--Not later than 2 years after the date of 
+     enactment of this Act, and thereafter as the Secretary 
+     considers appropriate, the Secretary shall submit to the 
+     Committee on Agriculture of the House of Representatives and 
+     the Committee on Agriculture, Nutrition, and Forestry of the 
+     Senate a report that--
+       (1) describes the results of the study conducted under 
+     subsection (a) and the case studies under subsection (c); and
+       (2) includes such recommendations for legislative action as 
+     the Secretary considers appropriate.
+       On page 1362, between lines 19 and 20, insert the 
+     following:
+
+     SEC. 11072. INVASIVE SPECIES REVOLVING LOAN FUND.
+
+       (a) Definitions.--In this section:
+       (1) Authorized equipment.--
+       (A) In general.--The term ``authorized equipment'' means 
+     any equipment necessary for the management of forest land.
+       (B) Inclusions.--The term ``authorized 
+     equipment''includes--
+       (i) cherry pickers;
+       (ii) equipment necessary for--
+
+       (I) the construction of staging and marshalling areas;
+       (II) the planting of trees; and
+       (III) the surveying of forest land;
+
+       (iii) vehicles capable of transporting harvested trees;
+       (iv) wood chippers; and
+       (v) any other appropriate equipment, as determined by the 
+     Secretary.
+       (2) Fund.--The term ``Fund'' means the Invasive Species 
+     Revolving Loan Fund established by subsection (b).
+       (3) Secretary.--The term ``Secretary'' means the Secretary 
+     of Agriculture, acting through the Deputy Chief of the State 
+     and Private Forestry organization.
+       (b) Establishment of Fund.--There is established in the 
+     Treasury of the United States a revolving fund, to be known 
+     as the ``Invasive Species Revolving Loan Fund'', consisting 
+     of such amounts as are appropriated to the Fund under 
+     subsection (f).
+       (c) Expenditures From Fund.--
+       (1) In general.--Subject to paragraph (2), on request by 
+     the Secretary, the Secretary of the Treasury shall transfer 
+     from the Fund to the Secretary such amounts as the Secretary 
+     determines are necessary to provide loans under subsection 
+     (e).
+       (2) Administrative expenses.--An amount not exceeding 10 
+     percent of the amounts in the Fund shall be available for 
+     each fiscal year to pay the administrative expenses necessary 
+     to carry out this section.
+       (d) Transfers of Amounts.--
+       (1) In general.--The amounts required to be transferred to 
+     the Fund under this section shall be transferred at least 
+     monthly from the general fund of the Treasury to the Fund on 
+     the basis of estimates made by the Secretary of the Treasury.
+       (2) Adjustments.--Proper adjustment shall be made in 
+     amounts subsequently transferred to the extent prior 
+     estimates were in excess of or less than the amounts required 
+     to be transferred.
+       (e) Uses of Fund.--
+       (1) Loans.--
+       (A) In general.--The Secretary shall use amounts in the 
+     Fund to provide loans to eligible units of local government 
+     to finance purchases of authorized equipment to monitor, 
+     remove, dispose of, and replace infested trees that are 
+     located--
+       (i) on land under the jurisdiction of the eligible units of 
+     local government; and
+       (ii) within the borders of quarantine areas infested by 
+     invasive species.
+       (B) Maximum amount.--The maximum amount of a loan that may 
+     be provided by the Secretary to an eligible unit of local 
+     government under this subsection shall be the lesser of--
+       (i) the amount that the eligible unit of local government 
+     has appropriated--
+
+       (I) to finance purchases of authorized equipment to 
+     monitor, remove, dispose of, and replace infested trees that 
+     are located--
+
+       (aa) on land under the jurisdiction of the eligible unit of 
+     local government; and
+       (bb) within the borders of a quarantine area infested by 
+     invasive species; and
+
+       (II) to enter into contracts with appropriate individuals 
+     and entities to monitor, remove, dispose of, and replace 
+     infested trees that are located in each area described in 
+     subclause (I); or
+
+       (ii) $5,000,000.
+       (C) Interest rate.--The interest rate on any loan made by 
+     the Secretary under this paragraph shall be a rate equal to 2 
+     percent.
+       (D) Report.--Not later than 180 days after the date on 
+     which an eligible unit of local government receives a loan 
+     provided by the Secretary under subparagraph (A), the 
+     eligible unit of local government shall submit to the 
+     Secretary a report that describes each purchase made by the 
+     eligible unit of local government using assistance provided 
+     through the loan.
+       (2) Loan repayment schedule.--
+       (A) In general.--To be eligible to receive a loan from the 
+     Secretary under paragraph (1), in accordance with each 
+     requirement described in subparagraph (B), an eligible unit 
+     of local government shall enter into an agreement with the 
+     Secretary to establish a loan repayment schedule relating to 
+     the repayment of the loan.
+       (B) Requirements relating to loan repayment schedule.--A 
+     loan repayment schedule established under subparagraph (A) 
+     shall require the eligible unit of local government--
+       (i) to repay to the Secretary of the Treasury, not later 
+     than 1 year after the date on which the eligible unit of 
+     local government receives a loan under paragraph (1), and 
+     semiannually thereafter, an amount equal to the quotient 
+     obtained by dividing--
+
+       (I) the principal amount of the loan (including interest); 
+     by
+       (II) the total quantity of payments that the eligible unit 
+     of local government is required to make during the repayment 
+     period of the loan; and
+
+       (ii) not later than 20 years after the date on which the 
+     eligible unit of local government receives a loan under 
+     paragraph (1), to complete repayment to the Secretary of the 
+     Treasury of the loan made under this section (including 
+     interest).
+       (f) Authorization of Appropriations.--There are authorized 
+     to be appropriated to the Fund such sums as are necessary to 
+     carry out this section.
+
+     SEC. 11073. COOPERATIVE AGREEMENTS RELATING TO INVASIVE 
+                   SPECIES PREVENTION ACTIVITIES.
+
+       Any cooperative agreement entered into after the date of 
+     enactment of this Act between the Secretary and a State 
+     relating to the prevention of invasive species infestation 
+     shall allow the State to provide any cost-sharing assistance 
+     or financing mechanism provided to the State under the 
+     cooperative agreement to a unit of local government of the 
+     State that--
+       (1) is engaged in any activity relating to the prevention 
+     of invasive species infestation; and
+       (2) is capable of documenting each invasive species 
+     infestation prevention activity generally carried out by--
+       (A) the Department of Agriculture; or
+       (B) the State department of agriculture that has 
+     jurisdiction over the unit of local government.
+       At the end of title VIII, insert the following:
+
+     SEC. 8___. SALE AND EXCHANGE OF NATIONAL FOREST SYSTEM LAND, 
+                   VERMONT.
+
+       (a) Definitions.--In this section:
+       (1) Bromley.--The term ``Bromley'' means Bromley Mountain 
+     Ski Resort, Inc.
+       (2) Map.--The term ``map'' means the map entitled 
+     ``Proposed Bromley Land Sale or Exchange'' and dated April 7, 
+     2004.
+       (3) State.--The term ``State'' means the State of Vermont.
+       (b) Sale or Exchange of Green Mountain National Forest 
+     Land.--
+       (1) In general.--The Secretary may, under any terms and 
+     conditions that the Secretary may prescribe, sell or exchange 
+     any right, title, and interest of the United States in and to 
+     the parcels of National Forest System land described in 
+     paragraph (2).
+       (2) Description of land.--The parcels of National Forest 
+     System land referred to in paragraph (1) are the 5 parcels of 
+     land in Bennington County in the State, as generally depicted 
+     on the map.
+       (3) Map and legal descriptions.--
+       (A) In general.--The map shall be on file and available for 
+     public inspection in--
+       (i) the office of the Chief of the Forest Service; and
+       (ii) the office of the Supervisor of the Green Mountain 
+     National Forest.
+       (B) Modifications.--The Secretary may modify the map and 
+     legal descriptions to--
+       (i) correct technical errors; or
+       (ii) facilitate the conveyance under paragraph (1).
+       (4) Consideration.--Consideration for the sale or exchange 
+     of land described in paragraph (2)--
+       (A) shall be equal to an amount that is not less than the 
+     fair market value of the land sold or exchanged; and
+       (B) may be in the form of cash, land, or a combination of 
+     cash and land.
+       (5) Appraisals.--Any appraisal carried out to facilitate 
+     the sale or exchange of land under paragraph (1) shall 
+     conform with the Uniform Appraisal Standards for Federal Land 
+     Acquisitions.
+       (6) Methods of sale.--
+       (A) Conveyance to bromley.--
+       (i) In general.--Before soliciting offers under 
+     subparagraph (B), the Secretary shall offer to convey to 
+     Bromley the land described in paragraph (2).
+
+[[Page S15697]]
+
+       (ii) Contract deadline.--If Bromley accepts the offer under 
+     clause (i), the Secretary and Bromley shall have not more 
+     than 180 days after the date on which any environmental 
+     analyses with respect to the land are completed to enter into 
+     a contract for the sale or exchange of the land.
+       (B) Public or private sale.--If the Secretary and Bromley 
+     do not enter into a contract for the sale or exchange of the 
+     land by the date specified in subparagraph (A)(ii), the 
+     Secretary may sell or exchange the land at public or private 
+     sale (including auction), in accordance with such terms, 
+     conditions, and procedures as the Secretary determines to be 
+     in the public interest.
+       (C) Rejection of offers.--The Secretary may reject any 
+     offer received under this paragraph if the Secretary 
+     determines that the offer is not adequate or is not in the 
+     public interest.
+       (D) Brokers.--In any sale or exchange of land under this 
+     subsection, the Secretary may--
+       (i) use a real estate broker or other third party; and
+       (ii) pay the real estate broker or third party a commission 
+     in an amount comparable to the amounts of commission 
+     generally paid for real estate transactions in the area.
+       (7) Cash equalization.--Notwithstanding section 206(b) of 
+     the Federal Land Policy and Management Act of 1976 (43 U.S.C. 
+     1716(b)), the Secretary may accept a cash equalization 
+     payment in excess of 25 percent of the value of any Federal 
+     land exchanged under this section.
+       (c) Disposition of Proceeds.--
+       (1) In general.--The Secretary shall deposit the net 
+     proceeds from a sale or exchange under this section in the 
+     fund established under Public Law 90-171 (16 U.S.C. 484a) 
+     (commonly known as the ``Sisk Act'').
+       (2) Use.--Amounts deposited under paragraph (1) shall be 
+     available to the Secretary until expended, without further 
+     appropriation, for--
+       (A) the location and relocation of the Appalachian National 
+     Scenic Trail and the Long National Recreation Trail in the 
+     State;
+       (B) the acquisition of land and interests in land by the 
+     Secretary for National Forest System purposes within the 
+     boundary of the Green Mountain National Forest, including 
+     land for and adjacent to the Appalachian National Scenic 
+     Trail and the Long National Recreation Trail;
+       (C) the acquisition of wetland or an interest in wetland 
+     within the boundary of the Green Mountain National Forest to 
+     offset the loss of wetland from the parcels sold or 
+     exchanged; and
+       (D) the payment of direct administrative costs incurred in 
+     carrying out this section.
+       (3) Limitation.--Amounts deposited under paragraph (1) 
+     shall not--
+       (A) be paid or distributed to the State or counties or 
+     towns in the State under any provision of law; or
+       (B) be considered to be money received from units of the 
+     National Forest System for purposes of--
+       (i) the Act of May 23, 1908 (16 U.S.C. 500); or
+       (ii) the Act of March 4, 1913 (16 U.S.C. 501).
+       (4) Prohibition of transfer or reprogramming.--Amounts 
+     deposited under paragraph (1) shall not be subject to 
+     transfer or reprogramming for wildfire management or any 
+     other emergency purposes.
+       (d) Acquisition of Land.--The Secretary may acquire, using 
+     funds made available under subsection (c) or otherwise made 
+     available for acquisition, land or an interest in land for 
+     National Forest System purposes within the boundary of the 
+     Green Mountain National Forest.
+       (e) Exemption From Certain Laws.--Subtitle I of title 40, 
+     United States Code, shall not apply to any sale or exchange 
+     of National Forest System land under this section.
+       At the end of subtitle F of title IV, add the following:
+
+     SEC. 4___. INFRASTRUCTURE AND TRANSPORTATION GRANTS TO 
+                   SUPPORT RURAL FOOD BANK DELIVERY OF HEALTHY 
+                   PERISHABLE FOODS.
+
+       (a) Purpose.--The purpose of this section is to provide 
+     grants to State and local food banks and other emergency 
+     feeding organizations (as defined in section 201A of the 
+     Emergency Food Assistance Act of 1983 (7 U.S.C. 7501))--
+       (1) to support and expand the efforts of food banks 
+     operating in rural areas to procure and transport highly 
+     perishable and healthy food;
+       (2) to improve identification of potential providers of 
+     donated food and to enhance the nonprofit food donation 
+     system, particularly in and for rural areas; and
+       (3) to support the procurement of locally produced food 
+     from small and family farms and ranches for distribution to 
+     needy people.
+       (b) Definition of Time-Sensitive Food Product.--
+       (1) In general.--In this section, the term ``time-sensitive 
+     food product'' means a fresh, raw, or processed food with a 
+     short time limitation for safe and acceptable consumption, as 
+     determined by the Secretary.
+       (2) Inclusions.--The term ``time-sensitive food product'' 
+     includes--
+       (A) fruits;
+       (B) vegetables;
+       (C) dairy products;
+       (D) meat;
+       (E) fish; and
+       (F) poultry.
+       (c) Grant Program.--
+       (1) In general.--The Secretary shall establish a program 
+     under which the Secretary shall provide grants, on a 
+     competitive basis, to expand the capacity and infrastructure 
+     of food banks, statewide food bank associations, and regional 
+     food bank collboratives that operate in rural areas to 
+     improve the capacity of the food banks to receive, store, 
+     distribute, track, collect, and deliver time-sensitive food 
+     products made available from national and local food donors.
+       (2) Maximum amount.--The maximum amount of a grant provided 
+     under this subsection shall be not more than $1,000,000 for a 
+     fiscal year.
+       (3) Use of funds.--A food bank may use a grant provided 
+     under this section for--
+       (A) the development and maintenance of a computerized 
+     system for the tracking of time-sensitive food products;
+       (B) capital, infrastructure, and operating costs associated 
+     with--
+       (i) the collection and transportation of time-sensitive 
+     food products; or
+       (ii) the storage and distribution of time-sensitive food 
+     products;
+       (C) improving the security and diversity of the emergency 
+     food distribution and recovery systems of the United States 
+     through the support of--
+       (i) small, midsize, or family farms and ranches;
+       (ii) fisheries and aquaculture; and
+       (iii) donations from local food producers and manufacturers 
+     to persons in need;
+       (D) providing recovered healthy foods to food banks and 
+     similar nonprofit emergency food providers to reduce hunger 
+     in the United States; and
+       (E) improving the identification of--
+       (i) potential providers of donated foods;
+       (ii) potential nonprofit emergency food providers; and
+       (iii) persons in need of emergency food assistance in rural 
+     areas.
+       (d) Audits.--The Secretary shall establish fair and 
+     reasonable procedures to audit the use of funds made 
+     available to carry out this section.
+       (e) Authorization of Appropriations.--There is authorized 
+     to be appropriated to carry out this section $10,000,000 for 
+     each of fiscal years 2008 through 2012.
+       On page 966, between lines 13 and 14, insert the following:
+
+     SEC. 7050. REGIONAL CENTERS OF EXCELLENCE IN FOOD SYSTEMS 
+                   VETERINARY MEDICINE.
+
+       Subtitle K of the National Agricultural Research, 
+     Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3310 et 
+     seq.) (as amended by section 7049) is amended by adding at 
+     the end the following:
+
+     ``SEC. 1473S. REGIONAL CENTERS OF EXCELLENCE IN FOOD SYSTEMS 
+                   VETERINARY MEDICINE.
+
+       ``(a) Definition of Eligible School of Veterinary 
+     Medicine.--In this section, the term `eligible school of 
+     veterinary medicine' means a school of veterinary medicine 
+     that is--
+       ``(1) a public or other nonprofit entity; and
+       ``(2) accredited by an entity that is approved for such 
+     purpose by the Department of Education.
+       ``(b) Grant Program.--The Secretary shall make grants to 
+     eligible schools of veterinary medicine to assist the 
+     eligible schools of veterinary medicine in supporting centers 
+     of emphasis in food systems veterinary medicine.
+       ``(c) Application Process.--
+       ``(1) Application requirement.--To be eligible to receive a 
+     grant from the Secretary under subsection (b), an eligible 
+     school of veterinary medicine shall submit to the Secretary 
+     an application at such time, in such manner, and containing 
+     such information as the Secretary may require.
+       ``(2) Consideration of applications.--The Secretary shall 
+     establish procedures to ensure that--
+       ``(A) each application submitted under paragraph (1) is 
+     rigorously reviewed; and
+       ``(B) grants are competitively awarded based on--
+       ``(i) the ability of the eligible school of veterinary 
+     medicine to provide a comprehensive educational experience 
+     for students with particular emphasis on the species of food 
+     animal for which the eligible school of veterinary medicine 
+     is applying that is used for food production (including food 
+     animal veterinary medicine, food supply bioterrorism 
+     prevention and surveillance, food-safety, and the improvement 
+     of the quality of the environment);
+       ``(ii) the ability of the eligible school of veterinary 
+     medicine to increase capacity with respect to research on the 
+     species of food animal for which the eligible school of 
+     veterinary medicine is applying that is used for food 
+     production; and
+       ``(iii) any other consideration that the Secretary 
+     determines to be appropriate.
+       ``(3) Preference for consortium.--In making grants under 
+     subsection (b), the Secretary shall give preference to 
+     eligible schools of veterinary medicine that participate in 
+     interinstitutional agreements that--
+       ``(A) cover issues relating to residency, tuition, or fees; 
+     and
+       ``(B) consist of more than 1 other--
+       ``(i) school of veterinary medicine;
+       ``(ii) school of public health;
+       ``(iii) school of agriculture; or
+       ``(iv) appropriate entity that carries out education and 
+     research activities with respect to food production systems, 
+     as determined by the Secretary.
+       ``(d) Required Use of Funds.--The Secretary may not make a 
+     grant to an eligible
+
+[[Page S15698]]
+
+     school of veterinary medicine under subsection (b) unless the 
+     eligible school of veterinary medicine agrees to use the 
+     grant funds--
+       ``(1) to develop a competitive student applicant pool 
+     through linkages with other appropriate schools of veterinary 
+     medicine, as determined by the Secretary;
+       ``(2) to improve the capacity of the eligible school of 
+     veterinary medicine--
+       ``(A) to train, recruit, and retain faculty;
+       ``(B) to pay such stipends and fellowships as the Secretary 
+     determines to be appropriate in areas of research relating 
+     to--
+       ``(i) food animal medicine; and
+       ``(ii) food-safety and defense; and
+       ``(C) to enhance the quality of the environment;
+       ``(3) to carry out activities to improve the information 
+     resources, curriculum, and clinical education of students of 
+     the eligible school of veterinary medicine with respect to--
+       ``(A) food animal veterinary medicine; and
+       ``(B) food-safety;
+       ``(4) to facilitate faculty and student research on health 
+     issues that--
+       ``(A) affect--
+       ``(i) food-producing animals; and
+       ``(ii) food-safety; and
+       ``(B) enhance the environment;
+       ``(5) to provide stipends for students to offset costs 
+     relating to travel, tuition, and other expenses associated 
+     with attending the eligible school of veterinary medicine; 
+     and
+       ``(6) for any other purpose that the Secretary determines 
+     to be appropriate.
+       ``(e) Period of Grants.--
+       ``(1) In general.--Subject to paragraph (2), an eligible 
+     school of veterinary medicine that receives funds through a 
+     grant under subsection (b) shall receive funds under the 
+     grant for not more than 5 years after the date on which the 
+     grant was first provided.
+       ``(2) Conditions relating to grant funds.--Funds provided 
+     to an eligible school of veterinary medicine through a grant 
+     under subsection (b) shall be subject to--
+       ``(A) the annual approval of the Secretary; and
+       ``(B) the availability of appropriations.
+       ``(f) Authorization of Appropriations.--There are 
+     authorized to be appropriated such sums as are necessary to 
+     carry out this section for each of fiscal years 2008 through 
+     2012.''.
+       On page 1362, between lines 19 and 20, insert the 
+     following:
+
+     SEC. 11072. SOUTHWEST REGIONAL DAIRY, ENVIRONMENT, AND 
+                   PRIVATE LAND PROGRAM.
+
+       (a) Definitions.--In this section:
+       (1) Eligible institution of higher education.--The term 
+     ``eligible institution of higher education'' means an 
+     institution of higher education that--
+       (A) is located in--
+       (i) the State of Arizona;
+       (ii) the State of Colorado;
+       (iii) the State of New Mexico;
+       (iv) the State of Oklahoma; and
+       (v) the State of Texas;
+       (B) has facilities that are necessary for the facilitation 
+     of research on issues relating to the dairy industry in a 
+     practical setting;
+       (C) has a dairy research program and an institution for 
+     applied environmental research;
+       (D) has a university laboratory that is--
+       (i) located on the campus of the institution of higher 
+     education; and
+       (ii) accredited by the National Environmental Laboratory 
+     Accreditation Council to ensure the quality of any proposed 
+     research activities;
+       (E) has the capability to enter into a partnership with 
+     representatives of the dairy industry and other public and 
+     private entities and institutions of higher education;
+       (F) has experience in conducting watershed modeling 
+     (including the conduct of cost-benefit analyses, policy 
+     applications, and long-term watershed monitoring); and
+       (G) works with--
+       (i) producer-run advocacy groups (including Industry-Led 
+     Solutions); and
+       (ii) private land coalitions.
+       (2) Program.--The term ``program'' means the Southwest 
+     regional dairy, environment, and private land program 
+     established under subsection (b).
+       (b) Establishment.--
+       (1) In general.--As soon as practicable after the date of 
+     enactment of this Act, the Secretary shall establish a 
+     Southwest regional dairy, environment, and private land 
+     program.
+       (2) Required activities.--In carrying out the program, the 
+     Secretary shall--
+       (A) identify challenges and develop solutions to enhance 
+     the economic and environmental sustainability, growth, and 
+     expansion of the dairy industry in the Southwest region of 
+     the United States;
+       (B) research, develop, and implement programs--
+       (i) to recover energy and other useful products from dairy 
+     waste;
+       (ii) to identify best management practices; and
+       (iii) to assist the dairy industry in ensuring that animal 
+     waste emissions and discharges of the dairy industry are 
+     maintained at levels below applicable regulatory standards;
+       (C) offer technical assistance (including research 
+     activities conducted by a university laboratory that is 
+     accredited by the National Environmental Laboratory 
+     Accreditation Council), training, applied research, and 
+     watershed water quality programs monitoring to applicable 
+     entities;
+       (D) develop--
+       (i) watershed modeling through the development of 
+     innovative modeling tools and data mining to develop cost-
+     efficient and environmentally effective programs in the dairy 
+     industry; and
+       (ii) an international modeling application clearinghouse to 
+     coordinate watershed modeling tools in the United States and 
+     in other countries, to be carried out by the Secretary; and
+       (E) collaborate with a private land coalition to use input 
+     gathered from landowners in the United States through a 
+     program of industry led solutions to work with the Federal 
+     Government (including Federal agencies) in the development of 
+     conservation, environmental credit trading, and watershed 
+     programs to help private landowners and agricultural 
+     producers meet applicable water quality standards.
+       (c) Contracts.--
+       (1) In general.--In carrying out the program, the Secretary 
+     shall offer to enter into contracts with eligible 
+     institutions of higher education.
+       (2) Application.--
+       (A) Submission of application.--To enter into a contract 
+     with the Secretary under paragraph (1), an eligible 
+     institution of higher education shall submit to the Secretary 
+     an application at such time, in such manner, and containing 
+     such information as the Secretary may require.
+       (B) Guidelines.--As soon as practicable after the date of 
+     enactment of this Act, the Secretary shall promulgate 
+     guidelines describing each requirement of the Secretary with 
+     respect to the application requirements described in 
+     subparagraph (A).
+       (d) Authorization of Appropriations.--There are authorized 
+     to be appropriated such sums as are necessary to carry out 
+     this section for each of fiscal years 2008 through 2012, to 
+     remain available until expended.
+       On page 1361, on line 2, strike ``, un-'' and all that 
+     follows through line 5, ``counties''.
+       On line 16, strike, ``November 1, 2007,'' and insert, 
+     ``date of enactment''.
+       On page 1362, between lines 19 and 20, insert the 
+     following:
+
+     SEC. 1107_. ENFORCEMENT OF UNITED STATES-CANADA SOFTWOOD 
+                   LUMBER AGREEMENT.
+
+       (a) Findings.--The Senate finds that--
+       (1) the Federal Government has repeatedly found that 
+     Canadian softwood lumber shipped to the United States is 
+     unfairly subsidized and dumped into the United States market 
+     and materially injures softwood lumber producers in the 
+     United States;
+       (2) in September 2006, the United States and Canada entered 
+     into the United States-Canada Softwood Lumber Agreement 
+     (referred to in this section as the ``Agreement'') to address 
+     Canada's unfair lumber trade practices;
+       (3) the Agreement obligates Canada to apply export taxes 
+     and quotas to Canadian softwood lumber exports to the United 
+     States and to forego new subsidies to Canadian lumber 
+     producers;
+       (4) Canada has consistently violated the Agreement, 
+     including by failing to apply export taxes and quotas as 
+     required by the Agreement and by providing new subsidies to 
+     Canadian lumber companies;
+       (5) Canadian violations of the Agreement are contributing 
+     to market conditions that are resulting in significant job 
+     losses in the United States lumber mills;
+       (6) the United States is challenging some of the Canadian 
+     violations of the Agreement through arbitral proceedings;
+       (7) as of the date of enactment of this Act, Federal 
+     enforcement of the Agreement has not resulted in progress to 
+     date; and
+       (8) Federal executive agencies have been considering 
+     proposals to enforce the Agreement.
+       (b) Sense of the Senate.--It is the sense of the Senate 
+     that the President should take all actions necessary to 
+     ensure that imports of Canadian softwood lumber are 
+     consistent with the provisions of the United States-Canada 
+     Softwood Lumber Agreement.
+                                 ______
+                                 
+  SA 3856. Ms. STABENOW (for Mr. Baucus (for himself, Mr. Grassley, Ms. 
+Stabenow, Mr. Kerry, Mr. Gregg, Mr. Voinovich, Mrs. Lincoln, Mr. 
+Allard, Mr. Sununu, Mr. Coleman, Mr. Specter, Mrs. Dole, Ms. Collins, 
+Mr. Nelson of Florida, Mr. Bayh, Ms. Snowe, Mr. Lieberman, Ms. 
+Cantwell, and Mr. Schumer)) proposed an amendment to the bill H.R. 
+3648, to amend the Internal Revenue Code of 1986 to exclude discharges 
+of indebtedness on principal residences from gross income, and for 
+other purposes; as follows:
+
+       Strike all after the enacting clause and insert the 
+     following:
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Mortgage Forgiveness Debt 
+     Relief Act of 2007''.
+
+     SEC. 2. DISCHARGES OF INDEBTEDNESS ON PRINCIPAL RESIDENCE 
+                   EXCLUDED FROM GROSS INCOME.
+
+       (a) In General.--Paragraph (1) of section 108(a) of the 
+     Internal Revenue Code of 1986 is amended by striking ``or'' 
+     at the end of subparagraph (C), by striking the period at the 
+     end of subparagraph (D) and inserting ``, or'', and by 
+     inserting after subparagraph (D) the following new 
+     subparagraph:
+       ``(E) the indebtedness discharged is qualified principal 
+     residence indebtedness which is discharged before January 1, 
+     2010.''.
+
+[[Page S15699]]
+
+       (b) Special Rules Relating to Qualified Principal Residence 
+     Indebtedness.--Section 108 of such Code is amended by adding 
+     at the end the following new subsection:
+       ``(h) Special Rules Relating to Qualified Principal 
+     Residence Indebtedness.--
+       ``(1) Basis reduction.--The amount excluded from gross 
+     income by reason of subsection (a)(1)(E) shall be applied to 
+     reduce (but not below zero) the basis of the principal 
+     residence of the taxpayer.
+       ``(2) Qualified principal residence indebtedness.--For 
+     purposes of this section, the term `qualified principal 
+     residence indebtedness' means acquisition indebtedness 
+     (within the meaning of section 163(h)(3)(B), applied by 
+     substituting `$2,000,000 ($1,000,000' for `$1,000,000 
+     ($500,000' in clause (ii) thereof) with respect to the 
+     principal residence of the taxpayer.
+       ``(3) Exception for certain discharges not related to 
+     taxpayer's financial condition.--Subsection (a)(1)(E) shall 
+     not apply to the discharge of a loan if the discharge is on 
+     account of services performed for the lender or any other 
+     factor not directly related to a decline in the value of the 
+     residence or to the financial condition of the taxpayer.
+       ``(4) Ordering rule.--If any loan is discharged, in whole 
+     or in part, and only a portion of such loan is qualified 
+     principal residence indebtedness, subsection (a)(1)(E) shall 
+     apply only to so much of the amount discharged as exceeds the 
+     amount of the loan (as determined immediately before such 
+     discharge) which is not qualified principal residence 
+     indebtedness.
+       ``(5) Principal residence.--For purposes of this 
+     subsection, the term `principal residence' has the same 
+     meaning as when used in section 121.''.
+       (c) Coordination.--
+       (1) Subparagraph (A) of section 108(a)(2) of such Code is 
+     amended by striking ``and (D)'' and inserting ``(D), and 
+     (E)''.
+       (2) Paragraph (2) of section 108(a) of such Code is amended 
+     by adding at the end the following new subparagraph:
+       ``(C) Principal residence exclusion takes precedence over 
+     insolvency exclusion unless elected otherwise.--Paragraph 
+     (1)(B) shall not apply to a discharge to which paragraph 
+     (1)(E) applies unless the taxpayer elects to apply paragraph 
+     (1)(B) in lieu of paragraph (1)(E).''.
+       (d) Effective Date.--The amendments made by this section 
+     shall apply to discharges of indebtedness on or after January 
+     1, 2007.
+
+     SEC. 3. EXTENSION OF TREATMENT OF MORTGAGE INSURANCE PREMIUMS 
+                   AS INTEREST.
+
+       (a) In General.--Subclause (I) of section 163(h)(3)(E)(iv) 
+     of the Internal Revenue Code of 1986 (relating to 
+     termination) is amended by striking ``December 31, 2007'' and 
+     inserting ``December 31, 2010''.
+       (b) Effective Date.--The amendment made by this section 
+     shall apply to amounts paid or accrued after December 31, 
+     2007.
+
+     SEC. 4. ALTERNATIVE TESTS FOR QUALIFYING AS COOPERATIVE 
+                   HOUSING CORPORATION.
+
+       (a) In General.--Subparagraph (D) of section 216(b)(1) of 
+     the Internal Revenue Code of 1986 (defining cooperative 
+     housing corporation) is amended to read as follows:
+       ``(D) meeting 1 or more of the following requirements for 
+     the taxable year in which the taxes and interest described in 
+     subsection (a) are paid or incurred:
+       ``(i) 80 percent or more of the corporation's gross income 
+     for such taxable year is derived from tenant-stockholders.
+       ``(ii) At all times during such taxable year, 80 percent or 
+     more of the total square footage of the corporation's 
+     property is used or available for use by the tenant-
+     stockholders for residential purposes or purposes ancillary 
+     to such residential use.
+       ``(iii) 90 percent or more of the expenditures of the 
+     corporation paid or incurred during such taxable year are 
+     paid or incurred for the acquisition, construction, 
+     management, maintenance, or care of the corporation's 
+     property for the benefit of the tenant-stockholders.''.
+       (b) Effective Date.--The amendment made by this section 
+     shall apply to taxable years ending after the date of the 
+     enactment of this Act.
+
+     SEC. 5. EXCLUSION FROM INCOME FOR BENEFITS PROVIDED TO 
+                   VOLUNTEER FIREFIGHTERS AND EMERGENCY MEDICAL 
+                   RESPONDERS.
+
+       (a) In General.--Part III of subchapter B of chapter 1 of 
+     the Internal Revenue Code of 1986 (relating to items 
+     specifically excluded from gross income) is amended by 
+     inserting after section 139A the following new section:
+
+     ``SEC. 139B. BENEFITS PROVIDED TO VOLUNTEER FIREFIGHTERS AND 
+                   EMERGENCY MEDICAL RESPONDERS.
+
+       ``(a) In General.--In the case of any member of a qualified 
+     volunteer emergency response organization, gross income shall 
+     not include--
+       ``(1) any qualified State and local tax benefit, and
+       ``(2) any qualified payment.
+       ``(b) Denial of Double Benefits.--In the case of any member 
+     of a qualified volunteer emergency response organization--
+       ``(1) the deduction under 164 shall be determined with 
+     regard to any qualified State and local tax benefit, and
+       ``(2) expenses paid or incurred by the taxpayer in 
+     connection with the performance of services as such a member 
+     shall be taken into account under section 170 only to the 
+     extent such expenses exceed the amount of any qualified 
+     payment excluded from gross income under subsection (a).
+       ``(c) Definitions.--For purposes of this section--
+       ``(1) Qualified state and local tax benefit.--The term 
+     `qualified state and local tax benefit' means any reduction 
+     or rebate of a tax described in paragraph (1), (2), or (3) of 
+     section 164(a) provided by a State or political division 
+     thereof on account of services performed as a member of a 
+     qualified volunteer emergency response organization.
+       ``(2) Qualified payment.--
+       ``(A) In general.--The term `qualified payment' means any 
+     payment (whether reimbursement or otherwise) provided by a 
+     State or political division thereof on account of the 
+     performance of services as a member of a qualified volunteer 
+     emergency response organization.
+       ``(B) Applicable dollar limitation.--The amount determined 
+     under subparagraph (A) for any taxable year shall not exceed 
+     $30 multiplied by the number of months during such year that 
+     the taxpayer performs such services.
+       ``(3) Qualified volunteer emergency response 
+     organization.--The term `qualified volunteer emergency 
+     response organization' means any volunteer organization--
+       ``(A) which is organized and operated to provide 
+     firefighting or emergency medical services for persons in the 
+     State or political subdivision, as the case may be, and
+       ``(B) which is required (by written agreement) by the State 
+     or political subdivision to furnish firefighting or emergency 
+     medical services in such State or political subdivision.
+       ``(d) Termination.--This section shall not apply with 
+     respect to taxable years beginning after December 31, 
+     2010.''.
+       (b) Clerical Amendment.--The table of sections for such 
+     part is amended by inserting after the item relating to 
+     section 139A the following new item:
+
+``Sec. 139B. Benefits provided to volunteer firefighters and emergency 
+              medical responders.''.
+       (c) Effective Date.--The amendments made by this section 
+     shall apply to taxable years beginning after December 31, 
+     2007.
+
+     SEC. 6. CLARIFICATION OF STUDENT HOUSING ELIGIBLE FOR LOW-
+                   INCOME HOUSING CREDIT.
+
+       (a) In General.--Subclause (I) of section 42(i)(3)(D)(ii) 
+     of the Internal Revenue Code of 1986 (relating to certain 
+     students not to disqualify unit) is amended to read as 
+     follows:
+
+       ``(I) single parents and their children and such parents 
+     are not dependents (as defined in section 152, determined 
+     without regard to subsections (b)(1), (b)(2), and (d)(1)(B) 
+     thereof) of another individual and such children are not 
+     dependents (as so defined) of another individual other than a 
+     parent of such children, or.''
+
+       (b) Effective Date.--The amendment made by this section 
+     shall apply to--
+       (1) housing credit amounts allocated before, on, or after 
+     the date of the enactment of this Act, and
+       (2) buildings placed in service before, on, or after such 
+     date to the extent paragraph (1) of section 42(h) of the 
+     Internal Revenue Code of 1986 does not apply to any building 
+     by reason of paragraph (4) thereof.
+
+     SEC. 7. APPLICATION OF JOINT RETURN LIMITATION FOR CAPITAL 
+                   GAINS EXCLUSION TO CERTAIN POST-MARRIAGE SALES 
+                   OF PRINCIPAL RESIDENCES BY SURVIVING SPOUSES.
+
+       (a) Sale Within 2 Years of Spouse's Death.--Section 121(b) 
+     of the Internal Revenue Code of 1986 (relating to 
+     limitations) is amended by adding at the end the following 
+     new paragraph:
+       ``(4) Special rule for certain sales by surviving 
+     spouses.--In the case of a sale or exchange of property by an 
+     unmarried individual whose spouse is deceased on the date of 
+     such sale, paragraph (1) shall be applied by substituting 
+     `$500,000' for `$250,000' if such sale occurs not later than 
+     2 years after the date of death of such spouse and the 
+     requirements of paragraph (2)(A) were met immediately before 
+     such date of death.''.
+       (b) Effective Date.--The amendment made by this section 
+     shall apply to sales or exchanges after December 31, 2007.
+
+     SEC. 8. MODIFICATION OF PENALTY FOR FAILURE TO FILE 
+                   PARTNERSHIP RETURNS; LIMITATION ON DISCLOSURE.
+
+       (a) Extension of Time Limitation.--Section 6698(a) of the 
+     Internal Revenue Code of 1986 (relating to failure to file 
+     partnership returns) is amended by striking ``5 months'' and 
+     inserting ``12 months''.
+       (b) Increase in Penalty Amount.--Paragraph (1) of section 
+     6698(b) of such Code is amended by striking ``$50'' and 
+     inserting ``$85''.
+       (c) Limitation on Disclosure of Taxpayer Returns to 
+     Partners, S Corporation Shareholders, Trust Beneficiaries, 
+     and Estate Beneficiaries.--
+       (1) In general.--Section 6103(e) of such Code (relating to 
+     disclosure to persons having material interest) is amended by 
+     adding at the end the following new paragraph:
+       ``(10) Limitation on certain disclosures under this 
+     subsection.--In the case of an inspection or disclosure under 
+     this subsection relating to the return of a partnership, S 
+     corporation, trust, or an estate, the information inspected 
+     or disclosed shall not include any supporting schedule, 
+     attachment, or list which includes the taxpayer identity 
+     information of a person other than the entity making the 
+     return or the person conducting the inspection or to whom the 
+     disclosure is made.''.
+
+[[Page S15700]]
+
+       (2) Effective date.--The amendment made by this subsection 
+     shall take effect on the date of the enactment of this Act.
+       (d) Effective Date.--The amendments made by subsections (a) 
+     and (b) shall apply to returns required to be filed after the 
+     date of the enactment of this Act.
+
+     SEC. 9. PENALTY FOR FAILURE TO FILE S CORPORATION RETURNS.
+
+       (a) In General.--Part I of subchapter B of chapter 68 of 
+     the Internal Revenue Code of 1986 (relating to assessable 
+     penalties) is amended by adding at the end the following new 
+     section:
+
+     ``SEC. 6699. FAILURE TO FILE S CORPORATION RETURN.
+
+       ``(a) General Rule.--In addition to the penalty imposed by 
+     section 7203 (relating to willful failure to file return, 
+     supply information, or pay tax), if any S corporation 
+     required to file a return under section 6037 for any taxable 
+     year--
+       ``(1) fails to file such return at the time prescribed 
+     therefor (determined with regard to any extension of time for 
+     filing), or
+       ``(2) files a return which fails to show the information 
+     required under section 6037,
+
+     such S corporation shall be liable for a penalty determined 
+     under subsection (b) for each month (or fraction thereof) 
+     during which such failure continues (but not to exceed 12 
+     months), unless it is shown that such failure is due to 
+     reasonable cause.
+       ``(b) Amount Per Month.--For purposes of subsection (a), 
+     the amount determined under this subsection for any month is 
+     the product of--
+       ``(1) $85, multiplied by
+       ``(2) the number of persons who were shareholders in the S 
+     corporation during any part of the taxable year.
+       ``(c) Assessment of Penalty.--The penalty imposed by 
+     subsection (a) shall be assessed against the S corporation.
+       ``(d) Deficiency Procedures Not to Apply.--Subchapter B of 
+     chapter 63 (relating to deficiency procedures for income, 
+     estate, gift, and certain excise taxes) shall not apply in 
+     respect of the assessment or collection of any penalty 
+     imposed by subsection (a).''.
+       (b) Clerical Amendment.--The table of sections for part I 
+     of subchapter B of chapter 68 of such Code is amended by 
+     adding at the end the following new item:
+
+``Sec. 6699. Failure to file S corporation return.''.
+       (c) Effective Date.--The amendments made by this section 
+     shall apply to returns required to be filed after the date of 
+     the enactment of this Act.
+
+     SEC. 10. MODIFICATION OF REQUIRED INSTALLMENT OF CORPORATE 
+                   ESTIMATED TAXES WITH RESPECT TO CERTAIN DATES.
+
+       The percentage under subparagraph (B) of section 401(1) of 
+     the Tax Increase Prevention and Reconciliation Act of 2005 in 
+     effect on the date of the enactment of this Act is increased 
+     by 1.50 percentage points.
+
+                          ____________________
+```

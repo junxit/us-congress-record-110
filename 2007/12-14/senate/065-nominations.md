@@ -1,0 +1,43 @@
+---
+granule: CREC-2007-12-14-pt1-PgS15706-8
+date: 2007-12-14
+edition: CREC
+section: SENATE
+page: S15706
+citation: 153 Cong. Rec. S15706
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                          DEPARTMENT OF STATE
+
+       DAVID J. KRAMER, OF MASSACHUSETTS, TO BE ASSISTANT 
+     SECRETARY OF STATE FOR DEMOCRACY, HUMAN RIGHTS, AND LABOR, 
+     VICE BARRY F. LOWENKRON.
+
+
+                   FEDERAL LABOR RELATIONS AUTHORITY
+
+       THOMAS M. BECK, OF VIRGINIA, TO BE A MEMBER OF THE FEDERAL 
+     LABOR RELATIONS AUTHORITY FOR A
+
+[[Page S15707]]
+
+     TERM OF FIVE YEARS EXPIRING JULY 1, 2010, VICE WAYNE 
+     CARTWRIGHT BEYER, RESIGNED.
+
+
+                         DEPARTMENT OF JUSTICE
+
+       MATT MICHAEL DUMMERMUTH, OF IOWA, TO BE UNITED STATES 
+     ATTORNEY FOR THE NORTHERN DISTRICT OF IOWA FOR THE TERM OF 
+     FOUR YEARS, VICE CHARLES W. LARSON, SR., RESIGNED.
+
+                          ____________________
+```
