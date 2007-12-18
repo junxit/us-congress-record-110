@@ -1,0 +1,62 @@
+---
+granule: CREC-2007-12-18-pt1-PgH16810-2
+date: 2007-12-18
+edition: CREC
+section: HOUSE
+page: H16810
+citation: 153 Cong. Rec. H16810
+---
+
+# HONORING THE LATE HON. JULIA CARSON
+
+**Speaking:** Hill, Baron P. (H001030) [D-IN]
+
+```
+                  HONORING THE LATE HON. JULIA CARSON
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from Indiana (Mr. Hill) is recognized for 5 minutes.
+  Mr. HILL. Madam Speaker, I think it's a true testament to how people 
+felt about Julia Carson based upon the fact that the hour has expired 
+allotting time for her colleagues to get up here to say a few kind 
+words about her and now we are in overtime and the hour is over and we 
+still have colleagues on the House floor who want to take the time to 
+eulogize our friend and colleague Julia Carson.
+  I have known Julia for over 25 years. In this business of politics, 
+you have friends and then you have allies. I can, with a great deal of 
+assurance, tell my colleagues here that Julia was a friend, not just an 
+ally. She was that, too. But I came from a small town in southern 
+Indiana to the Indiana legislature back in 1982; and one of the first 
+people I ever met was from the great city, the large city of 
+Indianapolis, Indiana: Julia Carson. And I will be honest with you from 
+the rural community and the kind of sheltered atmosphere of southern 
+Indiana and small-town Indiana, I, quite frankly, didn't know how to 
+take Julia Carson when I first met her. She was something else. But as 
+the years went by and I had the time to serve with Julia both in the 
+legislature and now here in Congress, I had come to love Julia Carson, 
+a true friend. Not just a colleague, but a true friend.
+  We have all heard the stories about how she was revered in 
+Indianapolis, Indiana. The Indianapolis Star was the newspaper there, 
+and there was some friction between Julia and the Indianapolis Star 
+because the Indianapolis Star was basically a Republican-leaning 
+newspaper. So there were moments between the Indianapolis Star and 
+Julia. But just recently the headline in the Indianapolis Star, and it 
+was a large headline, said: ``A Warrior for Indianapolis.'' And that's 
+exactly what she was.
+  She was one of a kind. She had grace and she had flair, and she had a 
+great sense of humor. She was a Hoosier to the core. She was the 
+epitome of everything that Indiana is. And we will miss her.
+  I come to this microphone today with mixed emotions: sadness by the 
+loss of Julia, but also a sense of good memories that we have about 
+Julia Carson. The one thread that all of us have been speaking about 
+and I will speak about it too was Julia was a champion, a champion for 
+the downtrodden and the poor. She made no excuses that she was a 
+liberal in the good sense of the word. She wanted to make life better 
+for all Americans, not just a select few.
+  Julia, we'll miss you.
+  I do believe that when she walked into the pearly white gates, as 
+Congressman Rush said, that the angels applauded.
+  Well done, Julia. We love you and we miss you.
+
+                          ____________________
+```

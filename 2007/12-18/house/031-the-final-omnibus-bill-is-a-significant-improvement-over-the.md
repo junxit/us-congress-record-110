@@ -1,0 +1,39 @@
+---
+granule: CREC-2007-12-18-pt1-PgH16651
+date: 2007-12-18
+edition: CREC
+section: HOUSE
+page: H16651
+citation: 153 Cong. Rec. H16651
+---
+
+# THE FINAL OMNIBUS BILL IS A SIGNIFICANT IMPROVEMENT OVER THE PRESIDENT'S BUDGET REQUEST
+
+**Speaking:** Pallone, Frank (P000034) [D-NJ]
+
+```
+     THE FINAL OMNIBUS BILL IS A SIGNIFICANT IMPROVEMENT OVER THE 
+                       PRESIDENT'S BUDGET REQUEST
+
+  (Mr. PALLONE asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. PALLONE. Mr. Speaker, at the beginning of this year, the 
+Democratic Congress proposed a 2008 budget that was both fiscally 
+responsible and reinvested in long-forgotten domestic priorities. All 
+year President Bush has stubbornly said that he will not sign any 
+appropriations bill that was higher than his budget request. So after 
+months of working with our Republican colleagues, we approved an 
+omnibus spending bill last night that fits into the President's funding 
+levels, but addresses important Democratic priorities.
+  At a time when crime rates are increasing all around our country, we 
+invest $1.2 billion over the President's budget to help local 
+communities make their neighborhoods safer. At a time when significant 
+infrastructure improvements are needed to prevent more bridges from 
+collapsing, we invest $1 billion to make our bridges safer. And as 
+Americans continue to pay record prices at the pump, we invest an 
+additional $486 million in renewable energy and energy efficiency.
+  Mr. Speaker, this final omnibus bill invests in critical priorities 
+that were ignored in the President's budget.
+
+                          ____________________
+```

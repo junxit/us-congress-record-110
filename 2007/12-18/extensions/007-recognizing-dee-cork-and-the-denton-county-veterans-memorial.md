@@ -1,0 +1,53 @@
+---
+granule: CREC-2007-12-18-pt1-PgE2591
+date: 2007-12-18
+edition: CREC
+section: EXTENSIONS
+page: E2591
+citation: 153 Cong. Rec. E2591
+---
+
+# RECOGNIZING DEE CORK AND THE DENTON COUNTY VETERANS MEMORIAL
+
+**Speaking:** Burgess, Michael C. (B001248) [R-TX]
+
+```
+[[Page E2591]]
+      RECOGNIZING DEE CORK AND THE DENTON COUNTY VETERANS MEMORIAL
+
+                                 ______
+                                 
+
+                        HON. MICHAEL C. BURGESS
+
+                                of texas
+
+                    in the house of representatives
+
+                       Monday, December 17, 2007
+
+  Mr. BURGESS. Madam Speaker, I rise today to thank Mr. Dee Cork for 
+his years of service in the United States Armed Forces, and for his 
+continued service to our country by building a memorial to veterans 
+from Denton County, Texas.
+  Working along with Mr. Monty Slough, Mr. Cork identified the names of 
+nine fallen servicemembers and created a personal way to memorialize 
+their service. Without prompting or financial support, Mr. Cork began 
+building a granite-tiled memorial to Denton County soldiers, sailors, 
+airmen, and marines who died in service in Iraq or Afghanistan.
+  Mr. Cork has taken up the honorable but unfortunate task of paying 
+respect to fellow veterans who pay the ultimate price while serving our 
+country. In his own eloquent words Dee said, ``It would be nice to see 
+no one else on it, one is too many.''
+  The mobile memorial built by veterans Monty Slough and Dee Cork is an 
+example of why we hold our Nation's veterans in such high esteem. I 
+believe the character displayed by Mr. Slough and Mr. Cork should be 
+highlighted as an example of American civic duty and community support; 
+I rise here today to show them that courtesy.
+  It is with great honor that I recognize Mr. Dee Cork for his 
+dedication to veterans and their families. I thank him for his work, I 
+support his mission, and I am honored to have the opportunity to 
+recognize him today.
+
+                          ____________________
+```

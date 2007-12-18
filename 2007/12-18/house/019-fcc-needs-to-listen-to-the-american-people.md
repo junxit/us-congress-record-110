@@ -1,0 +1,38 @@
+---
+granule: CREC-2007-12-18-pt1-PgH16649-2
+date: 2007-12-18
+edition: CREC
+section: HOUSE
+page: H16649
+citation: 153 Cong. Rec. H16649
+---
+
+# FCC NEEDS TO LISTEN TO THE AMERICAN PEOPLE
+
+**Speaking:** Inslee, Jay (I000026) [D-WA]
+
+```
+               FCC NEEDS TO LISTEN TO THE AMERICAN PEOPLE
+
+  (Mr. INSLEE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. INSLEE. Mr. Speaker, today the Federal Communications Commission 
+may do violence to its own name. The idea of communication is that you 
+speak, but you also listen. And in a stunning act of bureaucratic 
+arrogance, the FCC today may refuse to listen to the thousands of 
+Americans who have told them to listen to America and not change the 
+media consolidation laws.
+  The FCC went out and held these hearings, including in Seattle, 
+Washington, where thousands of people came and told the FCC in no 
+uncertain terms that their arrogant effort to remove these productions 
+for the first amendment could not stand, and yet they refused to listen 
+to Americans who told them that.
+  We know that when we lose access to information, democracy suffers. I 
+hope the FCC today might have second thoughts and decide that part of 
+their job is listening to the American people, in fact, the highest 
+part of their job. And we're going to do everything we can, if they do 
+this today, to stop in the tracks this effort to undo protection 
+against media consolidation.
+
+                          ____________________
+```

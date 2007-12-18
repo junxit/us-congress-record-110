@@ -1,0 +1,47 @@
+---
+granule: CREC-2007-12-18-pt1-PgE2590-2
+date: 2007-12-18
+edition: CREC
+section: EXTENSIONS
+page: E2590
+citation: 153 Cong. Rec. E2590
+---
+
+# CELEBRATING THE RETURN OF ARMY SPECIALIST JOEL MORERA
+
+**Speaking:** Mahoney, Tim (M001164) [D-FL]
+
+```
+         CELEBRATING THE RETURN OF ARMY SPECIALIST JOEL MORERA
+
+                                 ______
+                                 
+
+                            HON. TIM MAHONEY
+
+                               of florida
+
+                    in the house of representatives
+
+                       Monday, December 17, 2007
+
+  Mr. MAHONEY of Florida. Madam Speaker, I rise today to honor and 
+welcome home Army SPC Joel Morera. Specialist Morera was wounded in 
+Iraq on July 28, 2007, when an explosive device hit his vehicle.
+  Specialist Joel Morera received a Purple Heart in August. The Purple 
+Heart is awarded to members of the Armed Forces of the United States 
+who are wounded by an instrument of war in the hands of the enemy.
+  Today, SPC Morera and his family will arrive back home in Clewiston, 
+FL, so that he can celebrate the holidays in his hometown. I join the 
+veterans and residents of Highlands County, Hendry County and Glades 
+County in paying our respects to SPC Morera and celebrating his return 
+to the Sunshine State.
+  I rise today with great pride to honor this brave young man and to 
+thank him for his incredible sacrifice. The courage of SPC Morera and 
+his fallen comrades ensure that all Americans can enjoy liberty.
+  Madam Speaker, please join me and the communities of the 16th 
+District of Florida in welcoming Army Specialist Joel Morera and his 
+family home for the holidays.
+
+                          ____________________
+```

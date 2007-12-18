@@ -1,0 +1,78 @@
+---
+granule: CREC-2007-12-18-pt1-PgH16812-3
+date: 2007-12-18
+edition: CREC
+section: HOUSE
+page: H16812
+citation: 153 Cong. Rec. H16812
+---
+
+# PAYING TRIBUTE TO YOUTH WITH A MISSION
+
+**Speaking:** Gohmert, Louie (G000552) [R-TX]
+
+```
+                 PAYING TRIBUTE TO YOUTH WITH A MISSION
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from Texas (Mr. Gohmert) is recognized for 5 minutes.
+  Mr. GOHMERT. Mr. Speaker, earlier this month, Youth With a Mission, 
+or YWAM, and the rest of the Nation grieved over the tragic Colorado 
+shootings that resulted in the death and injuries of YWAM's staff and 
+former students. Our deepest sympathy goes out
+
+[[Page H16813]]
+
+to the family and friends affected by this terrible tragedy. I rise to 
+honor and encourage YWAM as an international ministry whose largest 
+North American training facility is located in my district at Garden 
+Valley, Texas, where I visited numerous times.
+  YWAM trains Christians of many denominations and ages with their 
+express purpose being to know God and to make Him known in obedience to 
+the Great Commission which says they are to go into all the world and 
+preach the good news to all creation. YWAM currently operates in more 
+than 1,000 locations in over 149 countries with a staff of nearly 
+16,000. I have also had the opportunity on multiple occasions to meet 
+different YWAM staff and students when they have visited this beautiful 
+city here in Washington, D.C., before embarking on short-term mission 
+trips.
+  When I speak with these individuals, I am overwhelmed by their 
+passion for their ministry and sincere love for people they have yet to 
+meet. They truly strive to follow the example of Christ by offering 
+themselves as selfless, humble, and loving servants.
+  The Declaration of Independence says that we are endowed by a Creator 
+with certain inalienable rights. Our Creator endowed this Nation with 
+these individuals who have now been killed. Each of these dear people 
+were a gift to this Earth and to this country. And although we are very 
+disappointed that we did not get to keep those gifts as long as we 
+wished at their Earthly location, we can still thank God for each day 
+that we had them.
+  We are not promised life without hardships. To the contrary, those 
+who take up their individual crosses, especially for the sake of 
+Christ, can expect to face greater trials and persecution. For this 
+Nation's entire history, until now, Christians have had a place, a 
+country, where they were not persecuted. But that unique time is 
+changing. In this day of political correctness, often Christians are 
+the only groups it is acceptable to verbally assault. The Apostle Paul 
+reminds us that we should consider everything a loss, including our own 
+lives, compared to the surpassing greatness of knowing Christ. 
+Therefore, Mr. Speaker, I want to encourage the staff and students at 
+YWAM during this difficult time.
+  C.S. Lewis had kept a journal of sorts after his precious wife, Joy, 
+had died. In one entry, he said, in effect, that he missed her so much 
+he wanted her back. But he realized how very selfish that was. His wife 
+was in heaven. She was in paradise. It was not in her interest to 
+return to a land of tears from a land where there is no sorrow. Lewis 
+went on to say that we are told Stephen was the first martyr. But he 
+said, as I think about it, didn't Lazarus get the far rawer deal? If 
+you review the Bible looking for quotes from Lazarus after he was 
+brought back from the dead, you will not find them. I will bet he was 
+not a happy camper.
+  In any event, we can look forward to the day when we can be reunited 
+with these friends from YWAM. But may those at YWAM find strength and 
+encouragement from friends, from each other, and from these words: may 
+God bless those at YWAM and may He continue to shine His face upon 
+them.
+
+                          ____________________
+```
