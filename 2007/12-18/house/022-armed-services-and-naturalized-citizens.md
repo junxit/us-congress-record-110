@@ -1,0 +1,38 @@
+---
+granule: CRECB-2007-pt27-Pg35823-4
+date: 2007-12-18
+edition: CRECB
+section: HOUSE
+page: 35823
+---
+
+# ARMED SERVICES AND NATURALIZED CITIZENS
+
+```
+                ARMED SERVICES AND NATURALIZED CITIZENS
+
+  (Ms. SOLIS asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. SOLIS. Mr. Speaker, today I rise to recognize all our service men 
+and women, especially those celebrating the holiday season away from 
+their families and friends. This past Saturday, I had the honor of 
+welcoming home 200 soldiers who served in the 115th U.S. Army Unit 
+located and based out of South El Monte. These are two young gentlemen 
+that I happened to meet earlier this year in Iraq on a recent visit. I 
+was delighted to see that they were home. Many had already spent two or 
+three tours there. In fact, I would like to have the House recognize 
+that there are over 600,000 immigrants currently serving in our 
+Nation's Armed Forces; 35,000 of those have pledged their service and 
+loyalty to our country in spite of not being citizens.
+  I am particularly proud of this young gentleman, Jose Diaz, a 
+resident in the 32nd Congressional District, who came, communicated in 
+my office and said, Congresswoman, I want to become a citizen. We 
+helped to expedite his paperwork while he was serving abroad. I was 
+also happy to see him this Saturday at a homecoming for his family.
+  I say this today to you, Members, because in the holiday season, we 
+need to remember all of our brave soldiers, men and women who are 
+currently serving us across the country, and I would ask all of you to 
+please remember them in your prayers.
+
+                          ____________________
+```

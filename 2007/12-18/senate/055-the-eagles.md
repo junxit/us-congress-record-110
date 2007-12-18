@@ -1,0 +1,169 @@
+---
+granule: CRECB-2007-pt27-Pg36133
+date: 2007-12-18
+edition: CRECB
+section: SENATE
+page: 36133
+---
+
+# THE EAGLES
+
+```
+                               THE EAGLES
+
+  Mr. LEAHY. Mr. President, I have had the privilege of attending 
+performances by the Eagles, and I have enjoyed a long friendship with 
+Don Henley and the members of the band.
+  I talked with Don recently about their new double-disc set ``Long 
+Road Out of Eden'' and how they came about making it. We also talked 
+about the last impromptu performance of the Eagles I attended, which 
+was at Camp David at a farewell party for President Bill Clinton, who 
+was leaving office within 48 hours. As always, they were superb.
+  I have listened so many times to their music while traveling, at my 
+home in Vermont, and in my office, and I thought my colleagues may 
+benefit from the transcript of an interview Don Henley recently had 
+with CNN. I ask unanimous consent that it be printed in the Record.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+       Nashville, Tennessee (CNN).--It may have been 28 years 
+     since the last Eagles studio album--yes, ``The Long Run'' 
+     came out in 1979--but, in terms of sales, it's as if the 
+     famed band has never left.
+       The group's new CD, the double-disc set ``Long Road Out of 
+     Eden,'' debuted at No. 1 on the Billboard album charts with 
+     more than 700,000 copies sold in its first week. This--
+     despite its being available only at Wal-Mart.
+       That relationship with America's biggest merchant has also 
+     raised eyebrows. Wal-Mart's reputation does not seem to 
+     dovetail with the interests of the Eagles, particularly the 
+     band's Don Henley, an outspoken environmentalist.
+       In a rare interview, Henley addressed those concerns, along 
+     with the idea of patriotism, the changing music business, and 
+     why ``Long Road'' may be the group's last album.
+       CNN's Denise Quan spoke to Henley at the Country Music 
+     Association awards last week, and said that Henley was a 
+     ``true Southern gentleman,'' ending the interview by sending 
+     the crew on its way with plates of mashed potatoes, corn and 
+     biscuits.
+       CNN. Don Henley, congratulations on the first-week sales of 
+     this album. I think it exceeded everyone's expectations.
+       Henley. More than 700,000 in this country. And I'm told it 
+     has sold 3 million worldwide. So we're delighted.
+       CNN. Somewhere, Kanye West is quaking in his boots, I would 
+     imagine.
+       Henley. I doubt it. (Laughs)
+       CNN. You made us wait 28 years for this new CD.
+       Henley. Yeah. Well, we don't like to rush into things.
+       CNN. I was surprised when it was announced you had gone 
+     with a Wal-Mart deal exclusively. Why did you do that?
+       Henley. Our deal with the major label expired several years 
+     ago, and we just decided we wanted to try something new. . . 
+     . Everybody's been calling for a new paradigm in the record 
+     industry. Some people have gone to the Internet and haven't 
+     had a lot of success with that.
+       Some people have decided to go with the indie labels, who 
+     are mostly distributed by the major labels. Some people have 
+     signed with major coffee companies with varying degrees of 
+     success.
+       So Wal-Mart came to us, and they made us a really good 
+     offer. And they told us about their green initiative, and how 
+     they're trying to make their company more ecologically 
+     responsible. And we were impressed by their programs in that 
+     regard, and what they're trying to do. And a lot of our fans 
+     are customers of Wal-Mart, so we thought it was a good fit.
+       CNN. There are two discs in ``Long Road Out of Eden.'' One 
+     disc is full of romantic ballads with those harmonies the 
+     Eagles are known for, and the other disc is full of 
+     satirical, witty, kind of biting--
+       Henley. (Interrupts) Thank you. Thank you for not using the 
+     word ``cynical.'' (Laugh) Which has become a real cliche.
+       Protest songs are an old tradition that seems to be coming 
+     back now. People writing about government has been going on 
+     since the Middle Ages. . . . But to hear some journalists 
+     tell it, this is like it's never been done before, and it's 
+     outrageous!
+       If people don't agree with us, they can hit the skip 
+     button. We are ticked off about some things, but we also do 
+     some of it with humor. People seem to miss our humor. A lot. 
+     It seems to go (brushes side of his head with his hand).
+       CNN. The Eagles have long been associated with the country 
+     sound--only you brought the rock element to it when you first 
+     appeared on the scene.
+       Henley. Yeah, yeah.
+       CNN. But your politics are different than a lot of people 
+     in Nashville, who are more conservative than I would say you 
+     are.
+       Henley. Yeah. Well, Nashville is changing. Nashville is not 
+     nearly as conservative as it used to be.
+       CNN. People just don't talk about it, perhaps.
+       Henley. It's just like you don't talk about religion and 
+     politics. This country was founded on rebellion. We believe 
+     that we are patriotic. We believe that everyone has the right 
+     to speak out. In fact, we believe that it's unpatriotic not 
+     to speak out.
+       Lord knows, we've been criticized enough during our career. 
+     When we were younger, (adopts Bugs Bunny voice) it hurt our 
+     widdle feewings. But now we have no feelings! We had them 
+     removed. Surgically. This is probably the last Eagles album 
+     that we'll ever make. So we decided to just say whatever we 
+     felt like saying. And let the chips fall where they may.
+       CNN. But doesn't the success of this album spur you to make 
+     more music? Obviously, people want to hear it.
+       Henley. I can't sit here and tell you for certain that 
+     there will never be another Eagles album, but we got 20 songs 
+     on this album. You know, we got a lot of things off our 
+     chest, so to speak.
+       I don't know if everybody's going to want to do another 
+     one. If we do a world tour, that'll take at least two years. 
+     We're all pushing 60. Well, some of us are 60. . . .
+       Anyway, we'll see. But we all have some solo plans still. I 
+     still have a contract with a major label for a couple of solo 
+     albums. I think parenting is one of the highest things on our 
+     agenda right now. We all have young children. So making 
+     another album is not our first priority right now.
+       CNN. It seems like you've mellowed quite a bit. Is it 
+     fatherhood that's changed you, or perhaps just turning 60?
+       Henley. I think we've all mellowed in this group. I think 
+     having children was really good for all of us. And you 
+     supposedly get mellower with age. However, as some of the 
+     songs will indicate, we're not too mellow. (Pauses)
+       CNN. What are you thinking?
+       Henley. I hate that word ``mellow,'' actually. We've been 
+     saddled with that word since the very beginning of our 
+     career, you know. It has something to do with Southern 
+     California. I wish they would find a new word. We're either 
+     ``mellow'' or we're ``cynical.'' They can't make up their 
+     minds. It's sort of a contradiction.
+       CNN. But I think you've been sort of a contradiction. 
+     Certainly an enigma to a lot of people.
+       Henley. Well, good! (Laughs) Yeah, well, this band is a 
+     contradiction. This album is. But life is a contradiction, 
+     isn't it? There are good things, and there are bad things 
+     going on in the world simultaneously. There's love and hate. 
+     There's war and peace. There are all kinds of things 
+     happening at the same time. And so that's reflected on this 
+     album, I think.
+       CNN. So how are you guys all getting along these days?
+       Henley. The same. (Laughs)
+       CNN. For better or worse?
+       Henley. All that stuff has been exaggerated. You ask any 
+     band if they get along all the time, and they will tell you, 
+     ``Of course not.'' But we get along, I'd say, as well as any 
+     band does.
+       There's something we've created called the Eagles that's 
+     more important than any one of us individually. And we serve 
+     that. You know, we call it ``The Mothership.'' We can all do 
+     this, that and the other, but we always come back to the 
+     Mothership. It's something that we all built together.
+       And all this stuff about fighting in the band, and 
+     brawling, and fistfights and all that stuff has been grossly 
+     exaggerated. When it gets reprinted, and our publicist says, 
+     ``Well, where'd you get that information,'' they invariably 
+     say, ``I read it on the Internet''--as if the Internet were 
+     some source of truth! The Internet is no more accurate than 
+     the New York Post, you know.
+       (Looks straight into the camera lens) Put that in! (Laughs)
+
+                          ____________________
+```

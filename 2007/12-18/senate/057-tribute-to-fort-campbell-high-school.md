@@ -1,0 +1,44 @@
+---
+granule: CRECB-2007-pt27-Pg36134
+date: 2007-12-18
+edition: CRECB
+section: SENATE
+page: 36134
+---
+
+# TRIBUTE TO FORT CAMPBELL HIGH SCHOOL
+
+```
+                  TRIBUTE TO FORT CAMPBELL HIGH SCHOOL
+
+● Mr. BUNNING. Mr. President, I wish to pay tribute to the Fort 
+Campbell Varsity football team from Fort Campbell, KY. On December 8, 
+2007, the Fort Campbell High School Varsity football team won the Class 
+2-A State Championship in Louisville, KY.
+  For the young men on this team, this is not just a trophy; it is an 
+affirmation that with hard work and determination, anything is 
+possible. To accomplish this goal the members not only have to juggle 
+long practices and games, but they continue to achieve academic 
+excellence. Not only are these young men excellent athletes and 
+students, but they pride themselves in giving back to their community 
+for all the support they have received by doing community service, 
+fundraising, and school public relations.
+  Fort Campbell, KY, is proud to be home to the 101st Airborne Division 
+and 160th Special Operations Airborne Division. Many of the players on 
+the Fort Campbell Falcons have loved ones currently serving our Nation 
+abroad. I am confident that these loved ones would be proud of what the 
+Falcons have accomplished this season.
+  The citizens of Fort Campbell, KY, are fortunate to have the 2007 
+Class 2-A State Champions and families living and learning in their 
+community. Their example of hard work and determination should be 
+followed by all in the Commonwealth.
+  I am very proud of the accomplishments these young men have made. I 
+would like to congratulate the members of the Fort Campbell High School 
+Varsity football team for their success. But, also, I want to 
+congratulate their peers, coaches, teachers, administrators, and 
+dedicated parents for the support and sacrifices they have made to help 
+the Fort Campbell High School football team make their dreams a 
+reality.●
+
+                          ____________________
+```
