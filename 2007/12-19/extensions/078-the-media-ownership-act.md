@@ -1,0 +1,72 @@
+---
+granule: CREC-2007-12-19-pt1-PgE2627
+date: 2007-12-19
+edition: CREC
+section: EXTENSIONS
+page: E2627
+citation: 153 Cong. Rec. E2627
+---
+
+# THE MEDIA OWNERSHIP ACT
+
+**Speaking:** Inslee, Jay (I000026) [D-WA]
+
+**Measures:** H.R. 4835
+
+```
+                        THE MEDIA OWNERSHIP ACT
+
+                                 ______
+                                 
+
+                            HON. JAY INSLEE
+
+                             of washington
+
+                    in the house of representatives
+
+                      Wednesday, December 19, 2007
+
+  Mr. INSLEE. Madam Speaker, as much of America now knows, yesterday in 
+a split decision, the Federal Communications Commission (FCC) voted to 
+approve new media ownership rules that in many ways are far worse for 
+the public interest than anything previously revealed by FCC Chairman 
+Martin.
+  Prior to yesterday's vote. Chairman Martin had attempted to portray 
+his proposal as a ``moderate compromise'' that would allow one company 
+to own both a daily newspaper and a low-rated broadcast TV station in 
+only the 20 largest media markets. But research from Free Press--
+collected in the Devil in the Details report--exposed how the loose and 
+ambiguous ``waiver'' standards in the proposal left a giant loophole 
+for companies to sidestep the ban in any market and for any station.
+  The final rule, rewritten in the middle of the night before the 
+hearing, retains all of the original loopholes and adds additional 
+loopholes that appear to allow cross-ownership mergers in virtually any 
+market.
+  While I had held out hope that the FCC would delay this vote given 
+the outpouring of public commentary opposing the rule changes, it is 
+clear that the Chairman of the FCC is not listening. I see no other 
+choice than to push for congressional action, and to that end, 
+yesterday I introduced H.R. 4835, the Media Ownership Act of 2007, in 
+the House to stop these new cross-ownership rules from going forward.
+  I am pleased to have been joined by my Washington State colleague 
+Representative Dave Reichert in this bipartisan effort, and it is my 
+hope that we can move swiftly to prevent these new rules from going 
+into effect. This effort is the companion to work being done in the 
+Senate Commerce Committee where a bipartisan group of Senators have led 
+the effort against these changes.
+  When Chairman Martin was before the Energy and Commerce Committee 
+earlier this month, I asked him how he could ignore the public outcry 
+he heard when he visited Seattle, Washington, where--despite less than 
+5 days notice--thousands turned out and stayed until 1 a.m. on a Friday 
+night to voice their concerns. I asked him how we could believe that he 
+had thoughtfully considered the public's concerns, when less than 3 
+days later, the Chairman published an op-ed in the New York Times 
+outlining his plan for media consolidation.
+  Clearly, Chairman Martin is not listening to the American people, and 
+now we need to step up and ensure that their voices are heard. I hope 
+my colleagues here in Congress will join me in this eftort, and I hope 
+this legislation moves swiftly.
+
+                          ____________________
+```
