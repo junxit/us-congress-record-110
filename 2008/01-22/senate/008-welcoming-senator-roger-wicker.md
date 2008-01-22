@@ -1,0 +1,83 @@
+---
+granule: CREC-2008-01-22-pt1-PgS13-7
+date: 2008-01-22
+edition: CREC
+section: SENATE
+page: S13
+citation: 154 Cong. Rec. S13
+---
+
+# WELCOMING SENATOR ROGER WICKER
+
+**Speaking:** McConnell, Mitch (M000355) [R-KY], Cochran, Thad (C000567) [R-MS]
+
+```
+                     WELCOMING SENATOR ROGER WICKER
+
+  Mr. McCONNELL. Mr. President, with a new year we welcome the newest 
+Senator, Roger Wicker of Mississippi, to the 110th Congress. With the 
+resignation of our friend, Trent Lott, the former Republican whip, 
+Governor Haley Barbour has appointed Senator Wicker to fill the 
+remainder of his term. He could not have made a finer choice.
+  Senator Wicker may be new to this Chamber, but he is no stranger to 
+serving the people of Mississippi and the Nation. The son of a 
+Mississippi State senator and circuit judge, public service has long 
+been his life's calling.
+  It all began with his service as a House page in 1967 to 
+Representative Jamie Whitten, the man he would one day succeed in the 
+House of Representatives. Senator Wicker is one of the few people in 
+history to have served as a House page for the Congressman he 
+eventually replaced.
+  His first stint of public service left him wanting more. He served 
+his country in the Air Force and retired from the Air Force Reserves in 
+2004 with the rank of lieutenant colonel.
+  He returned to the Hill in 1980 as a staffer to then-Representative 
+Trent Lott, a man he would come to know very well. In fact, Senator 
+Wicker has known and worked with both Senators Cochran and Lott for 
+many years.
+  In fact, he and Senator Cochran were both born in the Mississippi 
+town of----
+  Mr. COCHRAN. Pontotoc.
+  Mr. McCONNELL. Pontotoc. I wanted to make sure I got that right. I am 
+sure Senator Wicker's friendship with both of these men will only 
+benefit him as he takes up his new office.
+  In 1987, at age 36, Senator Wicker was the first Republican ever 
+elected to the Mississippi State senate from northern Mississippi since 
+Reconstruction. In 1994, he was elected to the U.S.
+
+[[Page S14]]
+
+House to succeed Jamie Whitten, ending over 53 years of Democratic 
+possession of that seat. Senator Wicker quickly became one of the stars 
+of the House freshman class of 1994. He was elected the president of 
+that class. He won a seat on the powerful Appropriations Committee, and 
+he served on the leadership team as a deputy whip.
+  Around this time, Senator Wicker also gained a keen understanding of 
+how to handle the press attention that goes with being a Member of 
+Congress. Allow me to share with my colleagues a brief story to 
+illustrate.
+  It was 3 days after the historic election of 1994 which gave the 
+Republicans control of the House of Representatives for the first time 
+in 40 years. Naturally, the 73 Members of the 1994 freshman class--one 
+of the largest ever--were getting a lot of media attention.
+  So early that morning, Roger Wicker, the newly elected Congressman, 
+was shaving. Suddenly his daughter burst in and breathlessly yelled, 
+``Dad, it's Time magazine on the phone.''
+  This was an important moment. So Congressman Wicker calmly wiped the 
+shaving cream off his face and gathered his thoughts. Then he strode 
+purposefully into the den and picked up the phone.
+  ``Hello, this is Roger Wicker,'' he said, in his most congressional 
+voice. The voice at the other end of the line responded, ``Mr. Wicker, 
+this is Time magazine calling. For only a $19.95 annual subscription . 
+. .''
+  Senator Wicker will surely have some Members of the press who want to 
+talk to him today, and I doubt they will try to sell him magazine 
+subscriptions. Today, Senator Wicker is the story.
+  Senator Wicker, welcome to the U.S. Senate. With a seat in this 
+Chamber, you not only have a unique view of history but a unique 
+opportunity to shape that history for the betterment of the people of 
+Mississippi and of your country.
+  Mr. President, I yield the floor.
+
+                          ____________________
+```
