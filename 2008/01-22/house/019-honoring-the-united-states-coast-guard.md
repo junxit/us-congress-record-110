@@ -1,0 +1,406 @@
+---
+granule: CRECB-2008-pt1-Pg432
+date: 2008-01-22
+edition: CRECB
+section: HOUSE
+page: 432
+---
+
+# HONORING THE UNITED STATES COAST GUARD
+
+```
+                              {time}  1500
+                 HONORING THE UNITED STATES COAST GUARD
+
+  Mr. DeFAZIO. Madam Speaker, I move to suspend the rules and agree to 
+the resolution (H. Res. 866) honoring the brave men and women of the 
+United States Coast Guard whose tireless work, dedication, and 
+commitment to protecting the United States have led to the Coast Guard 
+seizing over 350,000 pounds of cocaine at sea during 2007, far 
+surpassing all of our previous records.
+  The Clerk read the title of the resolution.
+  The text of the resolution is as follows:
+
+                              H. Res. 866
+
+       Whereas the estimated street value of the cocaine seized by 
+     the Coast Guard in 2007 is more than $4,700,000,000 or nearly 
+     half of the Coast Guard's annual budget;
+       Whereas the Coast Guard's at sea drug interdictions are 
+     making a difference in the lives of American citizens 
+     evidenced by the reduced supply of cocaine in more than 35 
+     major cities throughout the United States;
+       Whereas keeping illegal drugs from reaching our shores 
+     where they undermine American values and threaten families, 
+     schools, and communities continues to be an important 
+     national priority;
+       Whereas through robust interagency teamwork, collaboration 
+     with international partners, and ever-more effective tools 
+     and tactics, the Coast Guard has seized more than 2,000,000 
+     pounds of cocaine during the past 10 years and will continue 
+     to tighten the web of detection and interdiction at sea; and
+       Whereas the Coast Guard men and women who, while away from 
+     family and hundreds of miles from our shores, execute this 
+     dangerous mission, as well as other vital maritime safety, 
+     security, and environmental protection missions, with quiet 
+     dedication and without want of public recognition, continue 
+     to show dedication and selfless service in protecting the 
+     Nation and the American people: Now, therefore, be it
+       Resolved, That the United States House of Representatives 
+     honors the United States Coast Guard, with its proud 217 year 
+     legacy of maritime law enforcement and border protection, 
+     along with the brave men and women whose efforts clearly 
+     demonstrate the honor, respect, and devotion to duty that 
+     ensures America's parents can sleep soundly knowing the Coast 
+     Guard is on patrol.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentleman from 
+Oregon (Mr. DeFazio) and the gentleman from South Carolina (Mr. Coble) 
+each will control 20 minutes.
+  The Chair recognizes the gentleman from Oregon.
+
+
+                             General Leave
+
+  Mr. DeFAZIO. Madam Speaker, I ask unanimous consent that all Members 
+may have 5 legislative days within which to revise and extend their 
+remarks and include extraneous material on H. Res. 866.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Oregon?
+  There was no objection.
+  Mr. DeFAZIO. Madam Speaker, I yield myself such time as I may 
+consume.
+  Madam Speaker, the United States Coast Guard provides extraordinary 
+service to our Nation on a daily basis. They are providing for homeland 
+security. They are providing in this case that we will talk about in 
+some depth a drug interdiction to keep our citizens safe and deprive 
+drug traffickers of easy access to the United States, and they also 
+provide life-saving services, in addition to other routine law 
+enforcement and monitoring activities.
+  This seizure is fairly extraordinary: 350,000 pounds of cocaine with 
+an estimated street value of about $4.7 billion. That is more than half 
+the budget of the United States Coast Guard. It is extraordinary for 
+this, the smallest of our uniformed services, to have provided that 
+much protection for our country.
+  There are 41,000 men and women in the Coast Guard who patrol our 
+Nation's shores, gather and process intelligence from around the world 
+every single day of the year, as I mentioned earlier, both a homeland 
+security purpose, and in this case, to interdict drug smuggling.
+  Though most Americans may not often see the Coast Guard at work along 
+our 95,000 miles of coastline, you can be certain that the effects of 
+the service's essential work ripple down into even local neighborhoods. 
+Drug dealers are feeling the effects of the Coast Guard's good work as 
+they complain of short supplies in more than 35 major U.S. cities.
+  The Coast Guard has been guarding our coasts and securing our borders 
+since 1790. They do so without need for special recognition. They 
+execute their missions daily, whether it is maritime safety, 
+environmental protection, search and rescue, maritime law enforcement 
+or homeland security.
+  Due to the Coast Guard's aggressive enforcement in monitoring the 
+Caribbean drug routes, drug smugglers have now had to resort to much 
+more dangerous and expensive tactics providing a deterrent. They've had 
+deterrents to specific routes, which takes them more than 1,000 miles 
+offshore, which costs them more money and presents logistical 
+difficulties, and yet again, gives the Coast Guard further 
+opportunities to interdict.
+  Although the Coast Guard is the smallest of the seven uniformed 
+services, it is the Nation's leading maritime enforcement agency. 
+Interdicting drugs is an Interagency effort. The Coast Guard relies 
+heavily on their partnerships with numerous Federal and State agencies, 
+including the Department of Defense, Federal Bureau of
+
+[[Page 433]]
+
+Investigation, Drug Enforcement Administration and Customs and Border 
+Patrol to extend their law enforcement authority.
+  These partnerships are a critical component of their interdiction 
+success. They have also negotiated international bilateral agreements 
+to allow them to conduct operations and stop illegal smuggling outside 
+of U.S. territorial waters.
+  H. Res. 866 honors the brave men and women of the Coast Guard whose 
+tireless work, dedication and commitment to protecting the United 
+States resulted in this extraordinary interdiction of illegal drug 
+shipments in 2007, and on a daily basis protects our Nation and our 
+citizens.
+  I rise in strong support of H. Res. 866 and urge adoption of the 
+resolution.
+  Madam Speaker, I reserve the balance of my time.
+  Mr. COBLE. Madam Speaker, I yield myself such time as I may consume.
+  Madam Speaker, initially, I would like to express thanks to Chairman 
+Oberstar and Subcommittee Chairman Cummings for their support of H. 
+Res. 866, and I also want to express thanks to Ranking Member Mica and 
+Subcommittee Ranking Member LaTourette for their support of the measure 
+and the members on the subcommittee who cosponsored the resolution.
+  H. Res. 866, Madam Speaker, recognizes the men and women of the 
+United States Coast Guard whose efforts led to a record year in drug 
+interdiction. They are to be commended for their dedication and 
+selfless service in protecting the American people.
+  Madam Speaker, I'm going to read some numbers imminently, and 
+oftentimes when one reads numbers, it becomes boring and induces sleep, 
+but these numbers I think are significant to the issue at hand.
+  In 2007, the Coast Guard seized over 355,000 pounds of cocaine, 
+besting the previous record by almost 20,000 pounds. These 
+interdictions removed more than $4.7 billion worth of illegal drugs 
+destined for our communities. Because of these efforts, today our 
+families, schools and communities are more safe and secure despite the 
+bold and sophisticated actions of drug smugglers.
+  I'd like to take a minute to highlight a few interdictions which led 
+to this year's drug seizure record. First, the Coast Guard made its 
+largest maritime cocaine seizure when it intercepted a Panamanian 
+vessel carrying more than 33,000 pounds of narcotics in March of last 
+year. Additionally, in September of 2007, the Coast Guard interdicted 
+more than 9,000 pounds of cocaine and 3,600 gallons of liquid cocaine.
+  Finally, Coast Guard men and women, in collaboration with interagency 
+partners, interdicted and boarded a self-propelled, semi-submersible 
+vessel loaded with an estimated $352 billion worth of cocaine this past 
+August.
+  These success stories, Madam Speaker, are the result of an 
+interagency approach to stemming the tide of illegal drugs. According 
+to Director John Walters of the Office of National Drug Control Policy, 
+the efforts are clearly working as the average price of cocaine has 
+increased and the quality decreased.
+  Since 1790, the Coast Guard has been the Nation's leading maritime 
+law enforcement agency. Today, missions include drug interdiction, 
+migrant interdiction, fisheries enforcement, environmental compliance 
+and safe boating enforcement. Clearly, the success of the men and women 
+of the Coast Guard is attributed to the multifaceted nature of this 
+branch.
+  The Coast Guard also confronts unique obstacles with migrant 
+smugglers who, not unlike drug runners, are becoming more brazen and 
+bold in their efforts. I believe we must continue to work to provide 
+the enhanced penalties necessary to deter and punish dangerous, high-
+speed pursuits and other patently unsafe activity associated with 
+maritime alien smuggling. If we can implement increased deterrence, I 
+have no doubt that the success that the Coast Guard has in drug 
+interdiction will translate to similar success with migrant 
+interdiction.
+  As we move forward, we need to ensure that the Coast Guard has the 
+appropriate resources to ensure our safety and security. Currently, the 
+Coast Guard is in the midst of a fleet modernization. The overall 
+intent is to provide the men and women of the Coast Guard with the 
+necessary tools to protect our homeland. I applaud the actions taken by 
+Admiral Allen, the commandant, to move this acquisition program, which 
+is desperately needed, in the right direction.
+  I also again applaud Chairman Oberstar, Subcommittee Chairman 
+Cummings, as well as Congressman Mica and Congressman LaTourette, the 
+ranking members of the full committee and the subcommittee, for their 
+efforts to complement and oversee these actions, and I look forward to 
+working with my colleagues to ensure that the Coast Guard has the 
+equipment necessary to meet our homeland security and safety needs.
+  Again, Madam Speaker, we commend the men and women of the United 
+States Coast Guard for their drug interdiction success in 2007, and 
+again, I want to thank my colleagues for their consideration and 
+support of H. Res. 866.
+  Madam Speaker, I reserve the balance of my time.
+  Mr. DeFAZIO. Madam Speaker, I have no further requests for time, and 
+I yield back the balance of my time.
+  Mr. COBLE. Madam Speaker, I yield 5 minutes to the distinguished 
+gentleman from Indiana (Mr. Souder).
+  Mr. SOUDER. Madam Speaker, I thank the distinguished former chairman 
+from North Carolina who's been a leader in the anti-narcotics efforts 
+in the Judiciary Committee and elsewhere and a tireless combatant 
+against illegal drugs. I also want to thank Chairman Oberstar who 
+clearly knows the importance of the Coast Guard in the Great Lakes, and 
+Ranking Member John Mica who headed the Drug Subcommittee, who I 
+succeeded as chairman of that subcommittee a number of years ago; 
+Subcommittee Chairman Cummings, who was the ranking member of the Drug 
+Subcommittee over the last 6 years; and my friend Steve LaTourette as 
+well.
+  This resolution has a particular personal importance to me, too, 
+beyond the larger question. The big bust of 42,845 pounds of cocaine 
+was primarily done by the Coast Guard Cutter Sherman. Captain Charlie 
+Diaz served as a detailee to our subcommittee for a number of years, 
+and then was detailed to the Speaker's office, and I want to 
+congratulate Charlie in particular and his crew on the Sherman.
+  It would be nice to claim that we taught him how to do this, but in 
+fact, we're just really glad that while he was here on the Hill 
+learning how we work that he didn't lose the skills necessary to track 
+down the huge loads of cocaine and other things the Coast Guard does.
+  It's also important that in this big bust where they got the 
+freighter Gatun and 14 people just off the coast of Panama, it's 
+critical to have the intelligence. We, earlier, heard about the joint 
+agency effort, particularly JATF, the Joint Agency Task Force, based 
+out of south Florida that is run by the Coast Guard and provides such 
+valuable intelligence. You're just not going to pick up a boat and find 
+42,000 pounds of cocaine, nearly 20 tons of cocaine. You have to have 
+decent intelligence because when you look at the Bahamas and all those 
+boats out there, we have to have these kind of coordinated efforts, and 
+JATF is a key part of it, and drug intelligence is a key part of it.
+  I want to thank Commandant Allen, Admiral Allen, in particular, for 
+understanding that narcotics are part of the terrorism effort. There's 
+tremendous pressure on the Coast Guard, and in the Great Lakes and 
+Alaska and many places, its fisheries, search and rescue is still the 
+day-to-day what they do. They have all sorts of migrant interventions 
+way out even coming in towards Hawaii, coming off of Haiti, coming off 
+of Cuba, huge challenges in migrant interdiction.
+  They're trying to patrol and have increasing narcotics coming off 
+from the Andean region into the eastern Pacific off of Mexico. We have 
+routes that are
+
+[[Page 434]]
+
+going into Guatemala and Panama, like this big interception, biggest 
+bust in the history of the Coast Guard. There are constant challenges.
+  Last year, we had zero deaths from what we just were talking about, 
+9/11-type terrorism, and 20,000 from drug overdose. Since 9/11, we've 
+lost roughly 120,000 Americans to drug and alcohol abuse and all the 
+violence that associates with that, and we lost 3,300 at 9/11.
+  It's important to understand we're dealing with all sorts of 
+terrorism here, and the Coast Guard has been an important element. As 
+the ranking member of the Homeland Security Subcommittee on Border, 
+Port Security and Global Anti-Terrorism, I'm one who understands how 
+conflicted they are in their missions: Do they stay at port and protect 
+the port? Are they supposed to be out getting a sailboat that tipped 
+over? Are they supposed to be helping the fisheries? Are they supposed 
+to be trying to get people in the eastern Pacific, as they go out past 
+the Galapagos Islands? What about the Caribbean?
+  They are so multitasked that this Congress has to understand that if 
+we're going to ask the Coast Guard to tackle all these missions, there 
+has to be adequate funding. We have to make sure that not only do the 
+Deepwater ships float, but we also need to make sure they have them. 
+The controversies over the construction doesn't change the need.
+  As the drug traffickers move further out into the ocean, they have to 
+have the ability to stay at sea longer. They can't keep running back 
+into port because that's when the drug dealers, and if you can smuggle 
+this much drugs, you can smuggle anthrax, you can smuggle nuclear 
+parts, you can smuggle anything. Contraband is contraband.
+  If we aren't out there with a physical presence, if we don't have 
+boats that are fast enough, if we don't have helicopters that can come 
+off, if we can't surround or disable, we're not going to be able to 
+intercept narcotics or other terrorists.
+
+                              {time}  1515
+
+  I want to commend Commandant Allen, who also basically bailed us out 
+in Katrina, because the Coast Guard has served such an important 
+function in so many areas there is not enough we can do to thank the 
+men and women of the Coast Guard for their bravery, for their ability 
+to do multitasking. And it's very important for this Congress to honor 
+them and to make sure they have adequate funding.
+  Mr. OBERSTAR. Madam Speaker, I rise in strong support of House 
+Resolution 866, which recognizes the brave men and women of the U.S. 
+Coast Guard for their tireless work and dedication in guarding our 
+coasts and securing our borders since 1790. I thank the distinguished 
+gentleman from North Carolina (Mr. Coble), a former Coastguardsman, for 
+introducing this resolution.
+  Last year was particularly noteworthy for the Coast Guard's drug 
+interdiction efforts. In 2007, the Coast Guard seized more than 350,000 
+pounds of cocaine, far surpassing all previous Coast Guard records. 
+This seizure had a street value of over $4.7 billion, which equates to 
+almost 50 percent of the Coast Guard's budget.
+  Throughout its history, the Coast Guard has protected the nation from 
+piracy, rum runners, and illegal drug and migrant smugglers. The Coast 
+Guard's first documented opium seizure was in 1890, by the Revenue 
+Cutter Wolcott. In 1921, the Coast Guard Cutter Seneca seized 1,500 
+cases of liquor from a rum running schooner off the coast of New 
+Jersey.
+  Due to the Coast Guard's aggressive drug interdiction pursuits, the 
+supply of cocaine has been greatly reduced in more than 35 major U.S. 
+cities. This has made a significant difference in the lives of American 
+citizens.
+  The Coast Guard has established interagency and international 
+partnerships which have contributed to its success. The United States 
+negotiated bilateral agreements with 26 Caribbean and South American 
+nations to allow the Coast Guard to stop illegal smuggling and conduct 
+operations far outside the United States territorial seas.
+  Through these partnerships and more effective tools and tactics, the 
+Coast Guard seized 2 million pounds of cocaine in the past 10 years. In 
+March 2007, the Coast Guard made its largest maritime cocaine seizure 
+in history when it intercepted and seized a Panamanian vessel carrying 
+approximately 20 tons of the dangerous narcotic.
+  I commend the brave men and women of the Coast Guard for their 
+selfless service and dedication to Nation and the American people. They 
+work tirelessly to fulfill the numerous missions of the service, from 
+search and rescue and environmental protection to maritime law 
+enforcement and homeland security. We can live each day in solace 
+knowing that the Coast Guard is on watch.
+  I urge my colleagues to join with me in strongly supporting H. Res. 
+866.
+  Ms. JACKSON-LEE of Texas. Madam Speaker, I rise today in support of 
+H. Res. 866, introduced by my distinguished colleague from North 
+Carolina, Representative Coble, honoring the brave men and women of the 
+United States Coast Guard whose tireless work, dedication, and 
+commitment to protecting the United States have led to the Coast Guard 
+seizing over 350,000 pounds of cocaine at sea during 2007, far 
+surpassing all of our previous records. This bipartisan legislation 
+honors the Coast Guard's important 217-year legacy of protecting 
+American borders and enforcing the laws of the sea.
+  The maritime safety laws of this country were written in 
+understanding and appreciation of the peril which mariners face when 
+they get on a ship, go out to sea, whether on the saltwater or the 
+fourth coastline of this country, the Great Lakes.
+  Americans put their trust every day in the Coast Guard to regulate 
+safety on ferry boats and other types of vessels conveying passengers, 
+or on liquefied natural gas tankers that come into our ports. We have 
+to ensure that the Coast Guard will get their full funding needed to 
+carry out those responsibilities.
+  The United States Coast Guard is the smallest of the seven uniformed 
+services of the United States. Their mission is to protect the public, 
+environment, and the economic and security interest of the United 
+States' coasts, ports, and inland waterways. During the Coast Guard's 
+217-year legacy of border protection and maritime law enforcement, 
+modern technologies have made their job more perilous. This, however, 
+has not deterred our Nation's brave young men and women from conducting 
+the dangerous duty of drug interdiction.
+  In 2007, the Coast Guard seized more than 350,000 pounds of cocaine 
+at sea. The street value of this seizure is worth over an estimated 
+$4.7 billion. The sum is nearly one-half of the Coast Guard's annual 
+budget.
+  The Coast Guard's at-sea drug seizures have reduced the supply of 
+cocaine in more than 35 major cities across the United States, 
+consequently making a positive difference in our American communities. 
+This important legislation recognizes the overwhelming contributions of 
+the Coast Guard to the American community. It furthermore applauds the 
+Coast Guard for their commitment to participating as part of a robust 
+interagency team and international partners that has contributed to the 
+seizure over 2 million pounds of cocaine in the past 10 years.
+   I commend the men and women of the Coast Guard, who spend countless 
+hours at sea away from their families while they unremittingly work to 
+execute their service's mission. I acknowledge the commitment and 
+selfless service required to protect our Nation and the American people 
+done by Coast Guard men and women without want of public recognition.
+  I strongly urge my colleagues to join me in supporting this important 
+legislation, and, in so doing, giving our men and women in uniform the 
+respect and recognition they deserve.
+  Mr. THOMPSON of Mississippi. Madam Speaker, I rise today in support 
+of H. Res. 866, a resolution commending the dedicated men and women of 
+the Coast Guard on their remarkable drug interdiction efforts, which 
+have resulted in the record seizure of 355,755 pounds of cocaine, 
+valued at more than $4.7 billion.
+  Embodying its motto of Semper Paratus or ``Always Ready'', the Coast 
+Guard has used improved information-sharing and intelligence to 
+anticipate and combat smuggling, piracy and other threats before they 
+reach America's shores. For example, in September, the Coast Guard 
+stopped a vessel loaded with 3,600 gallons of cocaine dissolved in 
+diesel fuel. This liquid cocaine could have been converted into 15,800 
+pounds of pure cocaine. Earlier last year, the Coast Guard made its 
+largest maritime cocaine seizure when it intercepted a Panamanian 
+vessel carrying approximately 20 tons of the drug.
+  Since the tragic events of 9/11, the Coast Guard's mission has taken 
+on increased significance, as they have added critical homeland 
+security responsibilities to their traditional missions. As chairman of 
+the Committee on Homeland Security, I am well acquainted with the 
+extraordinary job the Coast Guard does in fulfilling these missions on 
+behalf of our Nation. H. Res. 866 affirms our appreciation for
+
+[[Page 435]]
+
+the valiant members of the United States Coast Guard, who risk their 
+lives every day to rescue and protect the American people and preserve 
+the Nation's security. I encourage my colleagues to join me in 
+supporting this important legislation.
+  Mr. COBLE. Madam Speaker, I yield back the balance of my time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from Oregon (Mr. DeFazio) that the House suspend the rules 
+and agree to the resolution, H. Res. 866.
+  The question was taken.
+  The SPEAKER pro tempore. In the opinion of the Chair, two-thirds 
+being in the affirmative, the ayes have it.
+  Mr. DeFAZIO. Madam Speaker, on that I demand the yeas and nays.
+  The yeas and nays were ordered.
+  The SPEAKER pro tempore. Pursuant to clause 8 of rule XX and the 
+Chair's prior announcement, further proceedings on this motion will be 
+postponed.
+
+                          ____________________
+```
