@@ -1,0 +1,538 @@
+---
+granule: CRECB-2008-pt1-Pg645
+date: 2008-01-23
+edition: CRECB
+section: HOUSE
+page: 645
+---
+
+# SUPPORTING THE GOALS AND IDEALS OF NATIONAL MENTORING MONTH
+
+```
+      SUPPORTING THE GOALS AND IDEALS OF NATIONAL MENTORING MONTH
+
+  Ms. LINDA T. SANCHEZ of California. Mr. Speaker, I move to suspend 
+the rules and agree to the resolution (H. Res. 908) supporting the 
+goals and ideals of National Mentoring Month.
+  The Clerk read the title of the resolution.
+  The text of the resolution is as follows:
+
+                              H. Res. 908
+
+       Whereas youth mentoring establishes a structured and 
+     trusting relationship between young people and caring 
+     individuals who offer guidance, support, and encouragement;
+       Whereas a growing body of mentoring research provides 
+     strong evidence that mentoring programs are successful in 
+     reducing delinquency, substance use and abuse, and academic 
+     failure;
+       Whereas research also shows that formal mentoring that is 
+     focused on developing the competence and character of the 
+     young person promotes positive outcomes such as improved 
+     academic achievement, self-esteem, social skills, and career 
+     development;
+       Whereas mentoring provides a supportive environment in 
+     which young people can grow, expand their vision of the 
+     future, and achieve goals that they never thought possible;
+       Whereas more than 4,000 mentoring programs in communities 
+     of all sizes across the United States focus on building 
+     strong, effective relationships between mentors and mentees;
+       Whereas public-private mentoring partnerships bring State 
+     and local leaders together to support mentoring programs by 
+     preventing duplication of efforts, offering training in best 
+     practices, and helping mentoring programs make the most of 
+     the limited resources available to benefit the Nation's 
+     youth;
+       Whereas the Corporation for National and Community Service 
+     has convened--
+       (1) the Federal Mentoring Council, which brings together 
+     several Federal agencies to coordinate approaches to 
+     mentoring within the Federal Government; and
+       (2) the National Mentoring Working Group, consisting of 
+     experts in mentoring from non-profit organizations and 
+     foundations, to share information and ideas about mentoring 
+     programs;
+       Whereas more than 15,000,000 young people in the United 
+     States fall into a mentoring gap and still need mentors;
+       Whereas coordinated national, State, regional, and local 
+     efforts need Federal support to connect more youth with the 
+     powerful benefits that result from mentoring;
+       Whereas designation of January 2008 as National Mentoring 
+     Month will help call attention to the critical role mentors 
+     play in helping young people realize their potential;
+       Whereas the month-long celebration of mentoring will 
+     encourage more organizations across the United States, 
+     including schools, businesses, nonprofit organizations, faith 
+     institutions, foundations, and individuals to become engaged 
+     in mentoring;
+       Whereas National Mentoring Month will--
+       (1) build awareness of mentoring;
+       (2) encourage more people to become mentors; and
+       (3) help close the Nation's mentoring gap; and
+       Whereas the President issued a proclamation declaring 
+     January 2008 to be National Mentoring Month and calling on 
+     the people of the United States to--
+       (1) recognize the importance of mentoring;
+       (2) look for opportunities to serve as mentors in their 
+     communities; and
+       (3) observe the month with appropriate activities and 
+     programs: Now, therefore, be it
+       Resolved, That the House of Representatives--
+       (1) supports the goals and ideals of National Mentoring 
+     Month;
+       (2) acknowledges the diligent efforts of individuals and 
+     groups who promote mentoring and who are observing the month 
+     with appropriate ceremonies and activities that promote 
+     awareness of and volunteer involvement with youth mentoring;
+
+[[Page 646]]
+
+       (3) recognizes with gratitude the contributions of the 
+     millions of caring adults and students who are already 
+     volunteering as mentors; and
+       (4) encourages more adults and students to volunteer as 
+     mentors.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentlewoman from 
+California (Ms. Linda T. Sanchez) and the gentleman from Florida (Mr. 
+Keller) each will control 20 minutes.
+  The Chair recognizes the gentlewoman from California.
+
+
+                             General Leave
+
+  Ms. LINDA T. SANCHEZ of California. Mr. Speaker, I ask unanimous 
+consent that all Members have 5 legislative days to revise and extend 
+their remarks and include extraneous material on the bill under 
+consideration.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentlewoman from California?
+  There was no objection.
+  Ms. LINDA T. SANCHEZ of California. Mr. Speaker, at this time, I 
+would like to yield as much time as she may consume to the author of 
+this bill, the gentlewoman from Minnesota (Ms. McCollum).
+  Ms. McCOLLUM of Minnesota. Mr. Speaker, as a cochair of the 
+Congressional Mentoring Caucus, I rise today in strong support of H.R. 
+908, supporting the goals and ideals of National Mentoring Month.
+  Thank you, Chairman Kildee and Chairman Miller, for bringing this 
+legislation so quickly to the floor. I would also like to thank the 
+other Chairs of the mentoring caucus, Ms. Davis of California, Mr. 
+Keller of Florida and Mr. Rogers of Michigan, who are the original 
+cosponsors of this legislation.
+  The term ``mentor'' is from a Greek story in mythology. Odysseus 
+asked his friend, Mentor, to teach and watch his young son, Telemachus, 
+as he was off to fight in the Trojan War. This special relationship 
+between Telemachus and his mentor was centered on education, friendship 
+and advice, something we all need from time to time. Mentoring was 
+then, and continues to be, a special caring and supportive relationship 
+between two people based on mutual trust and respect.
+  Mentoring relationships are between a mentor, an adult, and a mentee, 
+a young adult or child, that focuses on the need of that young person. 
+Caring adults, parents, teachers, counselors, religious leaders, they 
+are all mentors, and they are all able to influence a child's life, and 
+they are able to do that because they provide a foundation of love, 
+support and guidance.
+  Millions of individuals across this country serve as mentors to young 
+men and women, encouraging them to develop strong characters and have 
+healthy identities of themselves, so that as an adult they will be able 
+to contribute back to our society.
+  In a review of 10 mentoring programs, there are indicators that one-
+on-one mentoring significantly enhances positive youth development in 
+ways that we can measure: Better school performance, better social 
+skills, but most importantly, the ability for them to want to continue 
+on with higher education and college. And that is according to a recent 
+national youth conference that was held at the University of Minnesota.
+  In Minnesota alone, there are 335 mentoring organizations. One of 
+them, the Mentoring Partnership of Minnesota, was formed in 1994 as a 
+community initiative to promote mentoring for Minnesota's youth, 
+particularly for those who are at risk and may not have an opportunity 
+to have many positive role models in their life. This program has made 
+a significant positive improvement in the lives of those children.
+  Another wonderful mentoring program is Big Brothers and Big Sisters. 
+In the St. Paul-Minneapolis region alone, there are more than 307,000 
+children that benefit from this mentoring program with the time, energy 
+and commitment from more than 3,200 volunteers.
+  The new Youth Initiative Mentoring Academy is another successful 
+program in Minnesota. This energetic program works with children at 
+risk. These young children receive hands-on learning experiences about 
+career opportunities, building confidence and self-esteem, and develop 
+valuable leadership skills.
+  Mentoring is also an important part of our global competitiveness. 
+For example, in my district, Century College offers a preengineering 
+program that includes the Century College Robot Show. Engineering 
+students enter their projects, the college invites practicing engineers 
+to judge the show, and Century College also extends an invitation to 
+high school students to come so that they are able to see the 
+opportunities available to them if they choose to study engineering. 
+But it also gives them a chance to hook up with students and 
+professionals who can help them steer interests in the right direction 
+towards a successful career.
+  I would also like to take time to thank all the congressional staff 
+members, including many from my staff, who take time to mentor youth in 
+programs such as Everyone Wins, Horton's Kids, and the Calvary Homeless 
+Shelter.
+  We all have an important role to play in the lives of children around 
+us. We all need to be part of the process in shaping young lives so 
+that they can achieve their fullest potential. Our youth need caring 
+adults to make the connection in order to provide guidance and 
+emotional support, to make a positive impact on their lives so that 
+young children can become responsible, productive citizens.
+  I encourage all of my colleagues to support this resolution, and I 
+look forward for opportunities to be a mentor myself again in the 
+future as I had been in the past. But I also encourage my colleagues to 
+look for opportunities to be mentors as well.
+  Ms. LINDA T. SANCHEZ of California. I reserve the balance of my time.
+  Mr. KELLER of Florida. I yield myself as much time as I may consume.
+  Mr. Speaker, I rise today in support of House Resolution 908 which 
+recognizes National Mentoring Month. National Mentoring Month 
+celebrates mentors who are positively impacting the lives of young 
+people and highlights the need for additional mentors to make 
+themselves available to America's youth. I applaud Representative 
+McCollum for sponsoring this resolution, and as a cosponsor I look 
+forward to further bipartisan efforts to draw attention to support this 
+very important issue.
+  Mentors give their time and energy to improve the lives of American 
+young people who are increasingly spending less time with concerned 
+adult role models. Young people with mentors are less likely to drop 
+out of school, use illegal drugs, or engage in criminal behavior. The 
+positive effects of mentoring include higher self-esteem, higher 
+graduation rates, and higher academic achievement. I have personally 
+seen the positive impacts of mentoring firsthand. As a young boy, I 
+benefited from having a mentor from the Big Brother Big Sisters 
+program. As I became an adult, I then became a mentor to two high 
+school students at my alma mater, Boone High School, who were at risk 
+of dropping out of high school, but fortunately stayed in school and 
+graduated.
+
+                              {time}  1400
+
+  I then became chairman of the board of the COMPACT mentoring program, 
+which is the largest mentoring program in central Florida and it is 
+targeted at at-risk students in high schools and middle schools who 
+possibly may drop out of school. I am pleased to report that we were 
+able to recruit 700 new mentors and the COMPACT program has a 95 
+percent success rate of kids staying in school and going on to 
+graduate. In fact, one of the mentors for the COMPACT program itself is 
+none other than Supreme Court Justice Clarence Thomas, who has spent a 
+great deal of time with the leaders of the COMPACT program and the 
+children themselves every year.
+  When I was elected to Congress in 2000, one of the first things I did 
+was join together with then-Congressman Tom Osborne, the famous coach 
+of the Nebraska Cornhuskers, to author the Mentoring for Success Act 
+which Coach Osborne and I were able to successfully include in No Child 
+Left Behind to provide substantial funding for mentoring
+
+[[Page 647]]
+
+programs. As we move forward with the No Child Left Behind 
+reauthorization, we will work again to make sure that this language is 
+included and stays in existing law.
+  One of the big benefits of a mentoring program is in the area of 
+crime prevention. Roughly eight out of 10 inmates in Florida's jails 
+and prisons are high school dropouts. We see mentoring programs like 
+the COMPACT program in Orlando having a 95 percent success rate of 
+keeping kids in school. That's making a difference in these children's 
+lives and also helping us as taxpayers because we pay $20,000 a year 
+for people in State prisons and $25,000 a year for folks in Federal 
+prison.
+  President Bush himself has praised the importance of mentoring 
+programs. On December 19, 2007, President Bush proclaimed January 2008 
+as National Mentoring Month, giving public recognition to mentors who 
+serve as role models. Specifically the President stated, ``By sharing 
+their knowledge and experiences, mentors serve as examples for young 
+people and help teach them the skills they need to succeed in life.''
+  By honoring mentors and mentoring programs, we recognize the 
+importance of mentoring programs implemented in our local schools and 
+communities. We also draw attention to the components of a quality 
+program, including appropriate screening of potential mentors and 
+careful matching of youth with adults who have a genuine interest in 
+providing guidance and being exemplary role models.
+  Mentoring programs are varied and unique. They can be school-based or 
+faith-based. They may be established through community organizations or 
+corporate initiatives. I encourage people across the country to take 
+time to discover what mentoring programs exist in their communities and 
+see what they can do to help. Many volunteers are needed to meet the 
+growing demand for mentors.
+  Again, I am pleased to cosponsor House Resolution 908, recognizing 
+the important work of mentors and quality mentoring programs, and I 
+urge Members to support this resolution.
+  Madam Speaker, I reserve the balance of my time.
+  Ms. LINDA T. SANCHEZ of California. Madam Speaker, at this time I am 
+pleased to yield such time as she may consume to my distinguished 
+colleague from California (Mrs. Davis).
+  Mrs. DAVIS of California. Madam Speaker, I rise today in strong 
+support of House Resolution 908. I want to thank my colleague from 
+Minnesota for sponsoring this important resolution.
+  I want to share with you an inspirational story about a young man 
+from my district in San Diego. Eduardo Corona was only in the ninth 
+grade when he got into trouble with the law. Because of this mistake, 
+he faced up to 6 years in a juvenile correctional facility. Instead of 
+going to that facility, the judge met with him and spoke with him and 
+allowed Eduardo to participate in a mentoring program called Reality 
+Changers. I have had an opportunity to meet with the young people in 
+that program and I can tell you, they are inspirational and very 
+engaged in their lives and hoping to change the community someday.
+  Reality Changers brings at-risk youth in San Diego together with 
+their mentors, half of which are college students from the University 
+of California at San Diego, and for about 3 hours a week over a 4-year 
+time, these mentees study with their peer mentors, they take weekly 
+practice SAT tests, do homework together, listen to guest speakers and 
+take part in leadership development seminars.
+  In addition to that, Reality Changers also sends its participants, 
+all of which come from low-income families, to a summer program at UCSD 
+where they take college level courses and prepare for higher education. 
+With the help of his mentors in Reality Changers, Eduardo was able to 
+turn his life around. In just 30 days, and this is kind of remarkable 
+to me as I had a chance to work with some of the issues that he had to 
+deal with, Eduardo doubled his GPA to 3.8. He attended UCSD's summer 
+program and won two awards in mechanical engineering. And although he 
+is just a sophomore in high school, he has already earned college 
+credit and is well on his way to becoming the first member of his 
+family to attend college.
+  In fact, I need to tell you that all of Reality Changers' 
+participants who have completed this 4-year program have gone on to a 
+4-year university. Not bad, considering all of these young people are 
+the first in their families to attend college. I think Eduardo's story 
+really tells us and proves that with the right role models and people 
+who truly care about them, our society's most challenged youth, 
+challenged in many different ways, can turn their lives around and 
+become leaders in our community.
+  But we know that Eduardo fortunately and even programs like Reality 
+Changers are not unique to San Diego. At this very moment, there are 
+countless mentors across the Nation who, through their hard work and 
+dedication, are making miracles happen every single day. And so that's 
+why I rise today to encourage my colleagues to support this resolution 
+that Congresswoman McCollum has brought forward and join all my 
+colleagues here, and I am pleased to see them, to support House 
+Resolution 908.
+  In addition to this resolution, I ask all my colleagues to join me in 
+support of increased funding for our Nation's mentoring programs, 
+because we know that with that help, we can replicate Eduardo's success 
+all around the country.
+  Mr. KELLER of Florida. Madam Speaker, we have no further speakers. If 
+I can inquire if the other side has any further speakers.
+  Ms. LINDA T. SANCHEZ of California. Just one remaining and that would 
+be me.
+  Mr. KELLER of Florida. Madam Speaker, I would urge all my colleagues, 
+then, to vote ``yes'' on H. Res. 908 and will yield back the balance of 
+my time.
+  Ms. LINDA T. SANCHEZ of California. Madam Speaker, I just want to 
+mention in support of this bill that mentors are so important in 
+helping today's children grow up to live productive and fulfilling 
+lives. Unfortunately, there is still an acute need for more people to 
+become involved in this rewarding venture and I hope that today's 
+resolution convinces others to get involved as mentors.
+  Again, I want to express my support for the National Mentoring Month 
+resolution and recognize all the hard work that mentors put in on a 
+daily basis. I urge my colleagues to support this resolution.
+  Madam Speaker, I rise today to support the designation of January 
+2008 as ``National Mentoring Month'' and to applaud the efforts of 
+mentors who work tirelessly to support America's children.
+  I am pleased today to honor mentoring organizations across the 
+country, including those who serve the young people of my own 
+community, such as: Catholic Big Brothers/Big Sisters; The Watts-
+Willowbrook Boys and Girls Club; Girlfriends, Inc. of Long Beach; 
+Helpline Youth Counseling, Inc.; and ELLAS, which stands for Embracing 
+Latina Leadership Alliances.
+  Mentors serve as advocates for children. They make sure that children 
+know that they matter.
+  Mentors actively support children's academic achievement, personal 
+and social growth, and career development.
+  Helping students achieve academically is a critical part of a 
+mentor's role. Through tutoring and encouragement, mentors can help 
+mentees appreciate the importance of staying in school and working hard 
+to achieve success.
+  Not only are young people who have been mentored less likely to fail 
+in school and get in trouble for delinquency, they are also more likely 
+to graduate and attend college. So mentoring doesn't just defend 
+against unwanted outcomes, it promotes good ones.
+  Mentoring isn't just for one kind of kid. It can benefit boys and 
+girls, urban and rural, white and Latino. If a young person is coping 
+with a divorce, being pressured to join a gang, or has just moved to a 
+new school, mentors can help. They can offer guidance while building 
+self-esteem and a sense of purpose.
+  Mentoring isn't just for one kind of mentor, either. Mentors can come 
+in all shapes and sizes. A mentor can be a lawyer, a mechanic, a 
+religious leader, or an older brother. Anyone with a little extra time 
+and a desire to help the next generation can become a mentor.
+
+[[Page 648]]
+
+  By exposing youth to positive life experiences, mentors help children 
+develop new skills and interests and get used to interacting with 
+adults.
+  By setting ambitious goals with their mentees, mentors can help 
+today's children become the leaders of the future. Truly, a mentor can 
+help a young person make her dreams a reality. Knowing all this, who 
+wouldn't want to be a mentor?
+  I hope I have succeeded in encouraging my colleagues to become 
+mentors or to help promote mentoring in their communities. Our children 
+can't raise themselves. I salute those who have served as mentors, and 
+those who will do so in the future.
+  Madam Speaker, once again I express my support for ``National 
+Mentoring Month'' and recognize all the hard work mentors put in on a 
+daily basis.
+  I urge my colleagues to support H. Res. 908.
+  Mr. REICHERT. Madam Speaker, I am pleased to recognize January 2008 
+as Mentoring Month and I am proud to offer my support to H. Res. 908, 
+Supporting the goals and ideals of National Mentoring Month.
+  The history of mentorship nationwide and in my district is a rich 
+one. In Washington State alone, there are approximately 190 
+organizations specifically dedicated to placing young people into 
+formal mentoring relationships. These organizations spent approximately 
+$30 million in 2006 to forge and maintain those relationships--much of 
+that money coming from private citizens. Most important, all that work 
+has amounted to approximately 29,000 young people in Washington State 
+taking part in a positive mentoring relationship.
+  One organization in particular that has had a tremendous and lasting 
+impact on many disadvantaged youth in my district is Big Brothers Big 
+Sisters. In 2007, Big Brothers Big Sisters of Puget Sound provided more 
+than 2,500 children with mentoring matches and has a vision to provide 
+successful mentoring relationships for all children who need and want 
+them, contributing to better schools, brighter futures, and stronger 
+communities for all.
+  Many of us know personally or have heard first-hand the heartbreaking 
+accounts of young people who veered off the path of success or, because 
+of a variety of circumstances, never even knew where to find that path. 
+Mentoring can be a promising approach to enriching the lives of 
+disadvantaged children and youth by discouraging juvenile delinquency, 
+improving school attendance and performance, and by providing positive 
+adult role models.
+  A young man from my district, Lorenzo, is a shining example of the 
+unique way in which mentoring enriches the lives of our youth. Lorenzo 
+moved to Washington State from West Samoa in 2006, and immediately 
+received mentoring help from Ken--an individual who has consistently 
+given of his time to mentor and nurture young people in my home 
+community. Ken helped this young man through the discomfort of 
+transitioning into a new environment, through the academic process, and 
+into positive relationships with his new peers. Upon graduating from 
+Kent-Meridian High School--my alma mater--Lorenzo gained admission to 
+Central Washington University and is a wonderful example of the power 
+of responsible and caring adult guidance.
+  Today, as Congress recognizes January 2008 as National Mentoring 
+Month, I encourage all citizens, businesses, public and private 
+agencies, religious and educational institutions to support mentoring 
+and give young people in our community the gift of time and friendship 
+through Big Brothers Big Sisters of Puget Sound or other mentoring 
+programs throughout Washington State and our Nation.
+  Mr. LANGEVIN. Madam Speaker, I rise today in support of H. Res. 908, 
+which supports the goals and ideals of National Mentoring Month. I am 
+proud to be a cosponsor of this resolution that recognizes mentors 
+across the country who dedicate their time to support and guide the 
+next generation.
+  It is unfortunate that there are children in our country who do not 
+know their worth, and because of this, many end up failing in school or 
+falling into troubled lives. Mentors help these children get back on a 
+path to success by imparting the most important message--that they too 
+can succeed. Mentors have helped youth build up their self-esteem and 
+work on their academics and social skills. Many mentors also help 
+students reach their potential by helping them prepare for college and 
+career development.
+  Madam Speaker, I hope that by recognizing January as National 
+Mentoring Month, we can honor the positive effect that mentoring has 
+had on the youngest members of our society. I also hope that 
+highlighting the importance of these relationships encourages others to 
+seek out mentoring opportunities in their communities. This not only 
+helps our children, but our society as a whole.
+  Ms. McCOLLUM of Minnesota. Madam Speaker, as co-chair of the 
+Congressional Mentoring Caucus I rise today in strong support of H. 
+Res. 908 supporting the goals and ideals of National Mentoring Month.
+  Thank you Chairman Kildee and Chairman Miller for bringing this 
+legislation to the floor so quickly.
+  I would also like to thank the other chairs of the Congressional 
+Mentoring Caucus, Ms. Davis of California, Mr. Keller of Florida, and 
+Mr. Rogers of Michigan, who were original cosponsors of this 
+legislation.
+  The term ``mentor'' derives from a Greek mythology where Odysseus 
+asked his friend, Mentor, to teach and watch his son, Telemachus, as he 
+took off to fight the Trojan War.
+  This relationship was centered on advice, education and friendship.
+  Mentoring was a special, caring, and supportive relationship between 
+two people based on mutual trust and respect.
+  In modern context, mentoring relationships are between the mentor (an 
+adult) and a mentee (youth) that focuses on the needs of youth.
+  Caring adults--parents, teachers, counselors, mentors and religious 
+leaders are the most important influence in every child's life because 
+they provide the foundation of love, support, and guidance.
+  Millions of individuals across the country serve as mentors to young 
+men and women--encouraging and promoting the development of strong 
+characters and identities for youth who may not have a strong adult 
+presence in their lives.
+  A review of 10 mentoring programs indicates that one-on-one mentoring 
+significantly enhances positive youth development like better school 
+performance--youth develop better social skills, and more likely they 
+will go on to college or higher education--that's according to data 
+from a recent National Youth Conference held at the University of 
+Minnesota.
+  Minnesota is home to the Mentoring Partnership of Minnesota, which 
+formed in 1994 as a community initiative to promote mentoring for 
+Minnesota youth, particularly those who are at risk and may lack 
+positive role models in their lives.
+  There are over 350 mentoring programs in Minnesota that connect youth 
+with positive role models.
+  One valuable mentoring program is Big Brothers Big Sisters. In the 
+St. Paul/Minneapolis region alone, more than 3,700 children benefit 
+from this mentoring program with the time and energy of more than 3,200 
+volunteers.
+  The Youth Initiative Mentoring Academies (YIMA) is another successful 
+program in Minnesota. YIMA utilizes a mentoring model through aviation 
+education. Through this program, at risk youth receive hands-on 
+learning experiences about career opportunities, build confidence and 
+self-esteem, and develop valuable leadership skills.
+  Mentoring is also important to our global competitiveness. In my 
+district, Century College offers a pre-engineering program that 
+includes the Century College Robot Show. The college invites practicing 
+engineers to judge the show, providing the opportunity for mentorship 
+of the pre-engineering students. Century College also invites high 
+schools students to attend the show so they are able to see the 
+opportunities available through the study of engineering but also to 
+introduce them to student and professionals who can help steer 
+interested students in the right direction.
+  I would like to take this time to thank Congressional staff members, 
+including my staff, who take time to mentor youth in programs such as 
+Everybody Wins, Horton's Kids, and Calvary homeless shelter.
+  We all need to be part of the process in shaping young people's lives 
+so that they can achieve their fullest potential.
+  Young people need caring adults to make the connection, to provide 
+guidance, caring and emotional support--all these are contributing to 
+making positive impact on their lives--so that young can become 
+responsible and productive citizens.
+  I encourage all of my colleagues to support this resolution and to 
+look for opportunities to be a mentor themselves.
+  Mr. LARSON of Connecticut. Madam Speaker, throughout the month of 
+January, we observe National Mentoring Month, which calls to attention 
+the importance of fostering positive, helping relationships with our 
+youth. I rise today to recognize the importance of mentoring to the 
+vitality of our Nation.
+  According to the Corporation for National and Community Service, 
+there are 3 million mentors in the United States. While impressive at 
+first glance, the reality is, there are far
+
+[[Page 649]]
+
+more young people in need of the caring support of an adult mentor that 
+go without one--over 14 million youths across the Nation are still in 
+need of a mentoring relationship.
+  I would like to commend the many community-based organizations in the 
+Greater Hartford region, in my own State of Connecticut that provide 
+mentoring services and youth focused programs like the Community 
+Renewal Team, Hartford Communities that Care, Mi Casa Family Services 
+and Education Center and Our Piece of the Pie. These groups partner 
+with local, State and non-profit organizations to ensure the positive 
+development of the young people in my district.
+  Madam Speaker, on behalf of the many youths in need of encouragement 
+and support, the many adults who are engaged in mentoring activities, 
+and the organizations that work tirelessly to close the mentoring gap, 
+I ask my colleagues to join me in thanking mentors across the country 
+and recognizing National Mentoring Month.
+  Ms. LINDA T. SANCHEZ of California. Madam Speaker, I yield back the 
+balance of my time.
+  The SPEAKER pro tempore (Ms. Hirono). The question is on the motion 
+offered by the gentlewoman from California (Ms. Linda T. Sanchez) that 
+the House suspend the rules and agree to the resolution, H. Res. 908.
+  The question was taken; and (two-thirds being in the affirmative) the 
+rules were suspended and the resolution was agreed to.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```

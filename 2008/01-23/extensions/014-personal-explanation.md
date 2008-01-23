@@ -1,0 +1,39 @@
+---
+granule: CRECB-2008-pt1-Pg758-3
+date: 2008-01-23
+edition: CRECB
+section: EXTENSIONS
+page: 758
+---
+
+# PERSONAL EXPLANATION
+
+```
+                          PERSONAL EXPLANATION
+
+                                 ______
+                                 
+
+                            HON. GENE GREEN
+
+                                of texas
+
+                    in the house of representatives
+
+                      Wednesday, January 23, 2008
+
+  Mr. GENE GREEN of Texas. Madam Speaker, I rise today to explain my 
+absence from votes cast on January 22, 2008. I was in Houston meeting 
+with constituents at a townhall meeting our office scheduled prior to 
+knowing votes would take place last night.
+  On rollcall vote No. 19, to approve H.R. 4211, had I been present, I 
+would have voted ``aye.''
+  On rollcall vote No. 20, to approve H. Res. 866, had I been present, 
+I would have voted ``aye.''
+
+[[Page 759]]
+
+
+
+                          ____________________
+```
