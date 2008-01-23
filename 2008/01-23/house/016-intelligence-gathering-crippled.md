@@ -1,0 +1,38 @@
+---
+granule: CREC-2008-01-23-pt1-PgH393-2
+date: 2008-01-23
+edition: CREC
+section: HOUSE
+page: H393
+citation: 154 Cong. Rec. H393
+---
+
+# INTELLIGENCE GATHERING CRIPPLED
+
+**Speaking:** Akin, W. Todd (A000358) [R-MO]
+
+```
+                    INTELLIGENCE GATHERING CRIPPLED
+
+  (Mr. AKIN asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. AKIN. Madam Speaker, February 1 is an extremely important date 
+for us in terms of American security. You might wonder why that is, and 
+that is because a law that we passed last summer is expiring and our 
+intelligence agencies are going to be greatly crippled in their ability 
+to make intelligence intercepts because of the change in the law.
+  What has happened is the Democrats are trying to get us to go through 
+a very complicated procedure with the FISA court to check on 
+surveillance before we can actually make the wiretap. What the result 
+is going to be is that it is going to make it very, very difficult to 
+do these intercepts.
+  Now we debated this at the end of last year, and we found that with 
+the law that was being proposed, we wouldn't be able to arrest bin 
+Laden even if we knew where he was going to be and what time he was 
+going to be there. Since World War II, we have done these intercepts. 
+We have intercepted Japanese and German wire transmissions.
+  The bottom line is quite simply we are going to lose 60 percent of 
+our intelligence gathering if this law is not fixed.
+
+                          ____________________
+```
