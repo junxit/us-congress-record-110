@@ -1,0 +1,40 @@
+---
+granule: CRECB-2008-pt1-Pg977-4
+date: 2008-01-28
+edition: CRECB
+section: EXTENSIONS
+page: 977
+---
+
+# TRIBUTE TO CORPORAL JOSHUA C. BLANEY
+
+```
+                  TRIBUTE TO CORPORAL JOSHUA C. BLANEY
+
+                                 ______
+                                 
+
+                        HON. SUE WILKINS MYRICK
+
+                           of north carolina
+
+                    in the house of representatives
+
+                        Monday, January 28, 2008
+
+  Mrs. MYRICK. Madam Speaker, I would like to honor CPL Joshua C. 
+Blaney. On December 12, 2007, CPL. Joshua C. Blaney of Matthews, North 
+Carolina, passed away. He was a member of the 173rd Airborne in 
+Vicenza, Italy, and was serving his country in Afghanistan when his 
+convoy was hit by an IED.
+  Corporal Blaney paid the ultimate sacrifice for his country and his 
+life should be remembered. He entered combat in northern Iraq on March 
+26, 2003, which opened the northern front and led to the ouster of 
+Saddam Hussein from power. He was wounded in Iraq and received the 
+Purple Heart. Corporal Blaney served two tours in Afghanistan and 
+received the Bronze Star and Purple Heart. He was a true patriot and is 
+an inspiration to all of us. He fought for our freedom and we owe it to 
+him and his family to keep his memory alive.
+
+                          ____________________
+```
