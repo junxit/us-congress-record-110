@@ -1,0 +1,44 @@
+---
+granule: CREC-2008-01-29-pt1-PgH484
+date: 2008-01-29
+edition: CREC
+section: HOUSE
+page: H484
+citation: 154 Cong. Rec. H484
+---
+
+# HONORING ARMY SERGEANT JON M. SCHOOLCRAFT III
+
+**Speaking:** Jordan, Jim (J000289) [R-OH]
+
+```
+             HONORING ARMY SERGEANT JON M. SCHOOLCRAFT III
+
+  (Mr. JORDAN of Ohio asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. JORDAN of Ohio. Mr. Speaker, I rise today to honor the life and 
+recognize the ultimate sacrifice of a brave Ohio soldier, Army Sergeant 
+Jon Michael ``Mike'' Schoolcraft III.
+  Mike attended high school in Wapakoneta and went on to study auto 
+body repair at the Apollo Career Center in Lima. Teachers, coaches, 
+family members, and friends all described Mike as a remarkable, 
+reliable, hardworking young man who excelled at every activity in which 
+he was engaged.
+  In his time on this Earth, Mike had a positive impact on people in 
+his life. When he decided to join the military shortly after the 
+September 11 attacks, he touched the life of every American family that 
+lived under the blanket of safety he helped provide.
+  Mike Schoolcraft died on Saturday, January 19, while serving America 
+in support of Operation Iraqi Freedom. In recognition of his valorous 
+service, he was posthumously promoted to sergeant.
+  Mike is survived by his new wife, Amber, who lives in Hawaii. Mike's 
+mother, Cynthia, along with many friends and loving family members, 
+lives near his boyhood home. His father, Jon, lives in Indiana.
+  Mike stood up and volunteered to serve this great country. He fought 
+to promote freedom. He gave his life in defense of his family, his 
+community, his State and his Nation.
+  For this, each and every American owes him and his family a great 
+debt of gratitude.
+
+                          ____________________
+```
