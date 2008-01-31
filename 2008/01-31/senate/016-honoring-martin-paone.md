@@ -1,0 +1,69 @@
+---
+granule: CREC-2008-01-31-pt1-PgS510
+date: 2008-01-31
+edition: CREC
+section: SENATE
+page: S510
+citation: 154 Cong. Rec. S510
+---
+
+# HONORING MARTIN PAONE
+
+**Speaking:** Schumer, Charles E. (S000148) [D-NY], Ensign, John (E000194) [R-NV]
+
+```
+                         HONORING MARTIN PAONE
+
+  Mr. SCHUMER. Mr. President, today is January 31. It is signifying the 
+end to many things: the end of the month, maybe we will begin to see a 
+little bit of spring down the road, but it is also the end of an 
+amazing career of someone we all know and love, and that is Marty 
+Paone.
+  Marty Paone has worked for 32 years on the Hill, 28 years on the 
+Senate floor. He started in the House Post Office before working in 
+Senate parking. He joined the cloakroom in 1979 and was appointed 
+Democratic Secretary in 1995 by Senator Daschle. He worked under four 
+Democratic leaders: Senator Byrd, Senator Mitchell, Senator Daschle, 
+and Senator Reid. I think every one of them would agree with the word 
+that I would use to describe Marty Paone--``indispensable.''
+  We do not know what we are going to do without Marty here. He has 
+been such an amazing presence, so knowledgeable; not only about the 
+rules of the floor but just about how this body works. I know Senator 
+Reid relied on him for just about every kind of advice. Again, his 
+advice was indispensable.
+  I am particularly appreciative of his kindness to me when I was a new 
+Senator, teaching me the way the place worked, helping me realize when 
+there would be votes so I could time my schedule. As most of you know, 
+I like to be busy, but I hate to miss votes, as everybody else. And he 
+was just the most knowledgeable, decent, kind, indispensable person 
+around here.
+  Now Marty is leaving. We really are going to miss him. We are going 
+to miss his dedication to this institution. I think if you made a list 
+of the people most dedicated to the Senate, Marty Paone would be in the 
+top 10 or 20 in all our history.
+  We are going to miss his ever-present--he hovered in the background 
+quietly--omniscience, always knowing what was going on, and always 
+being there to help. We are going to miss Marty just as a person who, 
+in his quiet, droll way, is actually a very funny guy.
+  I want to wish Marty the best. I think I speak on behalf of 100 
+Senators and everyone who served previously. I thank his wife Ruby for 
+putting up with the long hours. I know because I would call Marty at 
+home on weekends much of the time asking him for advice or when there 
+might be a vote or this or that. His three kids, Alex, Stephanie, and 
+Tommy--Stephanie is at William & Mary, Alex goes to VCU, and Tommy is 
+still in high school. And a particular hello, because I have heard she 
+is watching, to Marty's mother Evelyn Paone.
+  Mrs. Paone, God gave you 95 years, and let's hope he gives you many 
+more. I know you are so proud of Marty, maybe even a little prouder 
+than we all are.
+  Marty, we will miss you, we thank you, we love you. Good luck, 
+Godspeed.
+  Mr. President, I suggest the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The legislative clerk proceeded to call the roll.
+  Mr. ENSIGN. I ask unanimous consent that the order for the quorum 
+call be rescinded.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```
