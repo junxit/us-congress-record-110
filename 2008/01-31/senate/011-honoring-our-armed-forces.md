@@ -1,0 +1,200 @@
+---
+granule: CRECB-2008-pt1-Pg1202-3
+date: 2008-01-31
+edition: CRECB
+section: SENATE
+page: 1202
+---
+
+# HONORING OUR ARMED FORCES
+
+```
+                        HONORING OUR ARMED FORCES
+
+   Mr. McCONNELL. Mr. President, I ask my colleagues to pause for a 
+moment so I may share with them the story of a soldier lost in battle. 
+On January 5, 2007, MAJ Michael L. Mundell of Brandenburg, KY, and his 
+unit were sent to secure a combat area in Fallujah, Iraq, after an 
+American tank reported being struck by an improvised explosive device.
+  En route to the scene, a second explosive device went off near Major 
+Mundell's vehicle, tragically taking his life. He was 47 years old.
+   Major Mundell served in the U.S. Army for over a decade before 
+leaving active service to work as a civilian contractor to the armed 
+forces. In November of 2005 he again volunteered for active duty. His 
+wife Audrey tells us that Mike once told a friend ``he was going over 
+there to fight them so they couldn't come over here and hurt his 
+children.''
+  For his bravery in service, Major Mundell received numerous medals 
+and awards, including two Meritorious Service Medals, the Bronze Star 
+Medal and the Purple Heart.
+  Mr. President, Major Mundell was one of those who may have been born 
+in one of the other 49 States but became Kentuckian by choice. Born in 
+Pittsburgh, he grew up in Canonsburg, PA.
+  As a child, Mike developed a passion for military service. He wanted 
+to grow up and drive tanks. When he was three, he handed his father an 
+encyclopedia and asked him to read it to him.
+  His family says this began his lifelong love of reading. As an adult, 
+he enjoyed Civil War history, and would often read more than a book a 
+day. He also enjoyed mysteries and thrillers, and read through the 
+Bible three times.
+   In 1977, Mike graduated from Canon-McMillan High School, home of the 
+Big Macs. His wife Audrey liked to tease him that his high-school 
+mascot was named after a hamburger, but Mike made his school proud on 
+the football field.
+  Mike went on to graduate from Washington-Jefferson College in 1981 
+where he majored in history, participated in ROTC and played soccer.
+  After graduation, Mike realized his lifelong goal of becoming an Army 
+officer when he received his commission as a second lieutenant. 
+Assigned to Fort Knox, KY, for officers' basic training, Mike became a 
+Kentuckian--that is, when he was not spending 3 years in Germany 
+working as a tank officer.
+  In 1984, while stationed at Fort Knox, Mike met Audrey, a student at 
+Elizabethtown Community College, through a mutual friend. He was 
+attracted to her red hair; she liked that he was handsome and 
+intelligent. They were married in 1985 and had four children: Daughter 
+Erica and sons Ryan, Zach, and Dale. Mike had a special relationship 
+with all of his children and made each one feel as if he or she was his 
+favorite.
+  Mike raised his family in Brandenburg and was a devoted fan of the 
+Pittsburgh Steelers. He liked to watch historical documentaries, and 
+his favorite movies were the war films ``Glory'' and ``Patton.'' As a 
+soldier, ``strategy and tactics--that was his thing, and he was 
+extremely good at it,'' says Audrey. ``He was so intelligent.''
+  After over 11 years of service, Mike left active duty in 1992 and 
+went on to become a private contractor to the Armed Forces working at 
+Fort Knox. Then in November 2005, he volunteered to again don the 
+uniform.
+  ``Mike was offered the chance to go to Iraq and do administrative 
+work, but he said he would refuse to go if they were going to simply 
+stick him behind a desk,'' said Audrey.
+  Assigned to the 1st Brigade, 108th Division, based out of 
+Spartanburg, SC, Major Mundell was tasked with training the Iraqi Army. 
+His tour of duty started on Father's Day of 2006.
+  Mike wrote e-mails often to his friends and family, sometimes 
+exhibiting his robust sense of humor. In an e-mail dated June 23, 2006, 
+he tried to describe the Kuwaiti heat.
+  This is what he said: ``Turn on a blow dryer, point it at yourself 
+and stand there,'' he wrote. ``And stand there. And stand there. Throw 
+some dust from the vacuum in the air every once in a while. Voila! You 
+are experiencing Kuwait.''
+
+[[Page 1203]]
+
+  Other e-mails described tenser times. Take the one he wrote on July 
+24, 2006, about one of the first times he found himself under fire. 
+``All of the sudden . . . BOOM! . . . our radios were filled with 
+shouts of `incoming!' '' he wrote. ``We took three mortars in close.''
+  Later in that same e-mail, however, Major Mundell made clear that 
+despite the danger, he was committed to his duty. He wrote:
+
+       This is the most intense, most REAL thing I have ever done 
+     in my life.
+
+  My thoughts and prayers are with Major Mundell's loved ones today, 
+including his wife, Audrey; his daughter, Erica; his sons Ryan, Zach 
+and Dale; his sister and brother-in-law, Deanna and Ken Sofranko; his 
+nephew, Kenny Sofranko; his niece, Taylor Sofranko; his grandmother-in-
+law, Jesse Edge; his mother-in-law, Carolyn Cundiff; his brother-in-
+law, Steve Cundiff; his sisters-in-law Angie Allen and Sandi Stout; and 
+many other beloved family members and friends.
+  Major Mundell's funeral service was held January 14, 2007, at the 
+chapel in Fort Knox. The funeral procession was a mile and a half long, 
+and the Mundell family was overwhelmed at the outpouring of support 
+from the community for their lost husband, father, brother, and friend.
+  Recalling a conversation with her youngest child, Audrey tells us 
+what his son Dale said upon seeing the crowds. ``Dale asked me, `All of 
+this for my dad?' '' Audrey says. ``And I told him, `Yes, all of this 
+for your dad.' ''
+  Mr. President, like the hundreds in Fort Knox that day, this Senate 
+wishes to express its deepest gratitude to MAJ Michael L. Mundell for 
+his service. This man, who his wife Audrey describes as ``a soldier 
+through and through,'' gave everything he had to protect his family and 
+his country. Our Nation will forever honor that sacrifice.
+
+
+                     Staff Sergeant John E. Cooper
+
+  Mr. President, I wish today to pause in memory of a fallen soldier, 
+SSG John E. Cooper of Flemingsburg, KY. Staff Sergeant Cooper was lost 
+on January 15, 2007, in Mosul, Iraq, when an improvised explosive 
+device set by terrorists went off near his humvee. He was 29 years old.
+  This was Staff Sergeant Cooper's second tour of duty in Iraq. For his 
+bravery in uniform, he received numerous medals and awards, including 
+the Noncommissioned Officer Professional Development Ribbon, the Combat 
+Infantryman Badge, the Bronze Star Medal, and the Purple Heart.
+  Staff Sergeant Cooper, an Army veteran of over a decade, knew from an 
+early age that he wanted to dedicate himself to serving his country. 
+``He wanted to be a soldier from the third grade on,'' says his mother, 
+Janice Botkin. ``And he was strong enough to pursue his dream of being 
+in the military.''
+  As a child, John had many interests. In middle school, he became 
+fascinated with Native American culture and found it to be a part of 
+his own family. ``He learned about the Trail of Tears and this sparked 
+his interest in Native Americans,'' says his mother Janice, who is 
+herself of Native American heritage. John later went to several family 
+reunions at Serpent Mound, a Native American site in Adams County, OH.
+  In high school, John was active in Future Farmers of America and the 
+drama club. He enjoyed being outdoors. The youngest of four children, 
+he loved to spend time with his brother Terrance and his sisters Sherri 
+and Susie.
+  Because he was the youngest, John got teased a lot, but as the baby 
+of the family, his siblings also spoiled him quite a bit. For instance, 
+every year the Cooper family would travel to Kings Island, an amusement 
+park in nearby Cincinnati.
+  John graduated from Fleming County High School in 1995, and that 
+September at age 18, fulfilled his childhood aspirations by enlisting 
+in the Army.
+  ``I remember that he would go running along the country roads to 
+build himself and be ready to pass his physical training when he went 
+into basic,'' says his sister Sherri Springate. ``We're all so proud of 
+him.''
+  As a soldier, he could ``go places and do things he wouldn't be able 
+to do if he stayed around here,'' says his mother Janice.
+  A skilled marksman, John served in the Army for 11 years and 
+dedicated himself to making it a career. ``He really liked being a 
+military person,'' says Janice.
+  Over those 11 years, Staff Sergeant Cooper was deployed to 
+Afghanistan, Korea and the Sinai Peninsula. He had his first tour of 
+duty in Iraq and went to London.
+  By the time of his second deployment to Iraq, he was assigned to the 
+2nd Squadron, 7th Cavalry Regiment, 4th Brigade Combat Team, 1st 
+Cavalry Division based out of Fort Bliss, TX. John enhanced his 
+leadership skills by attending the Primary Leadership Development 
+Course and Air Assault School.
+  Staff Sergeant Cooper's family is in my thoughts and prayers now as I 
+share his story with the Senate. He will be forever loved and 
+remembered by his mother, Janice Botkin; his father, Michael Cooper; 
+his stepfather, Roger Botkin; his sisters, Sherri Springate and Susie 
+West; his stepbrothers Roger Botkin, Jr., and Robert McMillan; his 
+stepsisters Bonita Botkin and Sherry Hilterbrandt; his aunt, Teresa 
+Gates; his grandparents James and Lillian Burke; and many other friends 
+and family members.
+  On January 28 of last year, Staff Sergeant Cooper's family held a 
+memorial service for John at his alma mater, Fleming County High 
+School. People came from as far away as Indiana, Ohio, and West 
+Virginia to pay their respects to this fallen infantryman, and they 
+lined the entrance to the school with American flags in hand.
+  The example John set for the other soldiers was so remarkable that 
+when the ``History Channel'' joined his unit to capture documentary 
+footage, they selected John's story to follow out of 4,000 men and 
+women. ``They were impressed with his leadership qualities and caring 
+for the men that served under him,'' says his mother Janice.
+  The ``History Channel'' is still working on the documentary, but they 
+screened some of its footage at a memorial service for Staff Sergeant 
+Cooper in Texas. I am glad they recognized and were able to capture on 
+film the character and abilities of the soldier called ``Coop'' by his 
+Army buddies.
+  I am sure John's family feels the same way. They and everyone who was 
+lucky enough to know John already realize he was a true hero who was 
+dedicated to his country. Now his heroism has been documented and 
+preserved for all to see.
+  ``We're very proud of John, what he did, and who he was,'' says 
+John's mother.
+  I want her to know that this Senate expresses its deepest gratitude 
+for SSG John E. Cooper's life of service. And we express our deepest 
+gratitude for the Cooper family, for raising a soldier and patriot who 
+answered the call in his country's time of need.
+  Mr. President, I yield the floor.
+
+                          ____________________
+```
