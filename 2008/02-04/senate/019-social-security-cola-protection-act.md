@@ -1,0 +1,107 @@
+---
+granule: CRECB-2008-pt1-Pg1295-4
+date: 2008-02-04
+edition: CRECB
+section: SENATE
+page: 1295
+---
+
+# SOCIAL SECURITY COLA PROTECTION ACT
+
+```
+                  SOCIAL SECURITY COLA PROTECTION ACT
+
+  Mr. JOHNSON. Madam President, shortly before our adjournment last 
+December, I was joined by several of my Senate colleagues in 
+introducing the Social Security COLA Protection Act of 2007. This 
+legislation will provide seniors with much-needed relief from steadily 
+increasing Medicare premiums and will ensure that their Social Security 
+cost-of-living adjustment, or COLA, is available for other essential 
+needs such as food, housing, and energy.
+  I want to first thank Senators Boxer, Inouye, Leahy, Mikulski, 
+Murray, Reed, Rockefeller,  and Salazar for joining me in this effort. 
+Representative Herseth Sandlin introduced the companion bill today in 
+the House of Representatives, and I want to thank her for her 
+leadership on this issue and
+
+[[Page 1296]]
+
+other important topics to seniors in South Dakota.
+  Sixteen percent of South Dakotans are Medicare beneficiaries. When 
+compared to a national average of 14 percent, it is clear that Medicare 
+policies significantly affect my home State. Many of these retirees 
+live on modest, fixed incomes and must pay close attention to their 
+monthly expenses. South Dakota's senior citizens worked very hard all 
+of their lives as farmers, small business owners, teachers, and 
+parents. In their retirement, all they are hoping for is an opportunity 
+to enjoy a basic level of comfort and certainty.
+  Unfortunately, as the cost of health care continues to rise at an 
+alarming rate, it becomes more and more difficult for seniors to 
+achieve this sense of security during retirement. According to the 
+Kaiser Family Foundation, the United States spent about $2 trillion on 
+health care in 2005, almost three times the $696 billion spent in 1990. 
+That $2 trillion represents 16 percent of the gross domestic product. 
+The rate at which our Nation's health care spending increases is also 
+troubling; health care spending has exceeded economic growth in every 
+decade since the 1970s.
+  These increasing health care costs hit the pocketbook of every 
+American, but our senior citizens, many of whom live on fixed incomes, 
+have a particularly hard time making ends meet while health care costs 
+climb. The Centers for Medicare and Medicaid Services, or CMS, recently 
+announced that the Medicare Part B premium, which covers seniors' 
+doctor visits and other nonhospital services, would increase 3.1 
+percent in 2008. CMS correctly noted in its press release that this is 
+smallest percentage increase in the Part B premium since 2001. However, 
+CMS failed to point out that the amount seniors will pay for Part B 
+premiums in 2008, $96.40, is more than double what they paid in 2000. 
+Our Nation's seniors simply cannot continue to absorb these 
+skyrocketing health care costs.
+  This doubling of Part B premiums occurred while many Medicare 
+beneficiaries incurred additional premium costs for the Part D 
+prescription drug program. CMS estimates that premium costs for Part D 
+will average $25 per month. However, a recent analysis by the Kaiser 
+Family Foundation concludes that seniors enrolled in stand-alone 
+prescription programs will experience a 17-percent increase in their 
+premiums next year. Both Part D and Part B premiums generally are 
+deducted from a senior's Social Security check.
+  While seniors can expect a modest cost-of-living increase in their 
+Social Security benefits every year, this increase has not kept up with 
+the pace of increased health care costs and specifically Medicare 
+premium costs. The Social Security Administration, SSA, announced that 
+all Social Security and Supplemental Security Income, SSI, 
+beneficiaries would receive a 2.3-percent cost-of-living adjustment, 
+COLA, beginning in January 2008. Each year, Social Security benefits 
+are updated based on the overall rate of inflation as calculated by the 
+Bureau of Labor Statistics. COLAs are not intended to provide anybody 
+with a ``raise'' but are instead intended to ensure that a 
+beneficiary's monthly payment has the same buying power that it had the 
+year before. A 2.3-percent increase isn't much but should help retirees 
+and individuals with disabilities living on a fixed income survive as 
+the prices of food, housing, clothing, and other goods continue to 
+increase.
+  I know that Social Security beneficiaries need every penny of their 
+COLA, and it is important that rising Medicare costs not completely 
+consume the Social Security COLA. In 1986, a hold-harmless provision 
+took effect to ensure that no beneficiary's Medicare Part B premium 
+increase could exceed his or her Social Security COLA in any given 
+year. This ensured that no senior would receive a reduced Social 
+Security check due to a Part B premium increase. However, this hold-
+harmless provision does not apply to Part D premiums, and the 
+increasing cost of both programs is quickly consuming any small 
+increase beneficiaries see in their Social Security checks. This policy 
+is subjecting the incomes of retirees and individuals with disabilities 
+to a tight squeeze. Without a legislative change, millions of retirees 
+will likely see much or all of their COLA wiped out by increases in 
+Medicare premiums over the next several years. We owe it to America's 
+seniors to protect the COLA from being completely consumed by Medicare 
+premium increases.
+  This is why I have introduced the Social Security COLA Protection Act 
+of 2007, which will protect retirees by ensuring that no more than 25 
+percent of a senior's COLA is absorbed by the increase in Medicare 
+premiums. This important legislation will protect the financial 
+security of many retirees in my home State and across the country. I 
+thank all of the Members who have introduced this bill with me and urge 
+the rest of my colleagues to join us in our effort.
+
+                          ____________________
+```
