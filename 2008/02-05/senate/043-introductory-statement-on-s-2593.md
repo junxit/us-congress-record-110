@@ -1,0 +1,459 @@
+---
+granule: CREC-2008-02-05-pt1-PgS659-2
+date: 2008-02-05
+edition: CREC
+section: SENATE
+page: S659
+citation: 154 Cong. Rec. S659
+---
+
+# Introductory Statement on S. 2593
+
+**Speaking:** Bingaman, Jeff (B000468) [D-NM]
+
+**Measures:** S. 2593
+
+```
+      By Mr. BINGAMAN (for himself, Mr. Domenici, Mrs. Feinstein, Mr. 
+        Allard, Mr. Wyden, Mr. Salazar, Ms. Cantwell, Mr. Craig, Mr. 
+        Akaka, and Mr. Crapo):
+  S. 2593. A bill to establish a program at the Forest Service and the 
+Department of the Interior to carry out collaborative ecological 
+restoration treatments for priority forest landscapes on public land, 
+and for other purposes; to the Committee on Energy and Natural 
+Resources.
+  Mr. BINGAMAN. Mr. President, today, I am introducing the Forest 
+Landscape Restoration Act. I developed this bill with Senators Domenici 
+and Feinstein, and I am pleased they have joined as cosponsors. The 
+bill also is cosponsored by Senators Allard, Wyden, Salazar, Cantwell, 
+Craig, Akaka, and Crapo. I also am pleased that Chairman Grijalva will 
+be introducing a companion bill in the House of Representatives, and I 
+look forward to working with him as his subcommittee in the Natural 
+Resources Committee moves forward with the bill.
+  The bill establishes a program to select and fund projects that 
+restore forests at a landscape scale through a
+
+[[Page S660]]
+
+process that encourages collaboration, relies on the best available 
+science, facilitates local economic development, and leverages local 
+funds with national and private funding.
+  As many of my colleagues know, we are facing serious forest health 
+and wildfire challenges in many of our National Forests. A century of 
+over-aggressive fire suppression, logging, and other land uses have 
+significantly deteriorated entire landscapes. These conditions have 
+played an important role in the extraordinary wildfires and insect-
+caused mortality we have seen on millions of acres of National Forest 
+and other lands. To address these problems, it is critical to begin 
+trying to restore our forests at a landscape scale.
+  Landscape-scale restoration is important because, first, it is key to 
+controlling wildfire suppression costs, which is one of the issues that 
+is emphasized in our bill. Wildland fire appropriations have more than 
+tripled in the last decade, and we are now spending billions every year 
+trying to suppress fires. We will not be able to get control of the 
+ballooning costs of fire suppression until we can allow more fires to 
+play their natural, beneficial role in restoring and maintaining 
+healthy, fire-resilient forests. But that will not be possible until we 
+can reduce hazardous fuels and the risk of unnaturally intense fire on 
+a landscape scale.
+  So, our bill will help to reduce wildfire suppression costs through 
+forest restoration.
+  Second, landscape-scale restoration is an important component of 
+successful economic development, another issue we have emphasized in 
+our bill. In many cases, forest restoration will not be fiscally viable 
+unless we can put the byproducts of restoration to economic use. Large-
+scale forest restoration efforts can help to provide economies of 
+scale, and long-term efforts can help to provide entrepreneurs with the 
+confidence that encourages investment and initiative.
+  So, our bill will help to make the restoration economy a reality by 
+facilitating the use of restoration byproducts.
+  Third, landscape restoration is necessary for the health of many of 
+our forest ecosystems, which also is emphasized in our bill. We need 
+healthy landscapes for a clean, abundant, and controlled water supply. 
+We need them for clean air and carbon sequestration. We need them to 
+support fish and wildlife. And we need healthy forest ecosystems if 
+they are to have a chance to survive the pressures of climate change. 
+Fire suppression and other land uses have caused entire forest 
+landscapes to deteriorate, and we cannot reverse that deterioration 
+without landscape-level restoration.
+  So, our bill provides a unique program to conduct comprehensive 
+ecosystem restoration through landscape-scale treatments.
+  Our bill also builds upon the existing successes in forest 
+restoration by requiring collaboration and the best available science 
+to form the foundation for landscape restoration.
+  Despite the importance of landscape-scale restoration, neither the 
+National Fire Plan, nor the Healthy Forests Restoration Act, nor any of 
+our other efforts have been very successful in facilitating restoration 
+and hazardous fuels reduction on landscape scales. A lack of sufficient 
+funding is one of the primary reasons. Restoring landscapes takes a 
+significant amount of funding over a significant period of time. That 
+has proven to be beyond the capacity of the local and regional agency 
+budgets.
+  To address this problem, the Forest Landscape Restoration Act 
+authorizes $40 million per year for 10 years to be paid into a national 
+pool. Eligible landscape restoration projects from around the country 
+would compete for a portion of that money. Forty million dollars is not 
+nearly enough money to fund landscape-scale treatments in all of the 
+forest landscapes in need of restoration, but it is a realistic amount 
+of funding, and it is enough to make landscape-scale restoration a 
+reality.
+  Because of funding and other challenges, landscape-scale restoration 
+remains largely theoretical. As a result, this legislation is designed 
+to be both practical and experimental. It does not redirect existing 
+efforts. It instead adds to existing efforts by creating a program that 
+will make planning, funding, and carrying out at least a handful of 
+landscape-scale forest restoration projects possible. If it is 
+successful--and I think it will be--we can expand it in the future.
+  I would again like to thank Senators Domenici and Feinstein and the 
+other cosponsors of the bill. I appreciate the stakeholders who have 
+written to support this bill, including the Nature Conservancy--which 
+has been very supportive of our effort--American Forests, the Forest 
+Guild, Sustainable Northwest, the Watershed Research and Training 
+Center, and Conservation Northwest. I look forward to working with them 
+and the many other stakeholders as we move forward with the bill.
+  Mr. President, I ask unanimous consent that the text of the bill be 
+printed in the Record.
+  There being no objection, the text of the bill was ordered to be 
+printed in the Record, as follows:
+
+                                S. 2593
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Forest Landscape Restoration 
+     Act of 2008''.
+
+     SEC. 2. PURPOSE.
+
+       The purpose of this Act is to encourage the collaborative, 
+     science-based ecosystem restoration of priority forest 
+     landscapes through a process that--
+       (1) encourages ecological, economic, and social 
+     sustainability;
+       (2) leverages local resources with national and private 
+     resources;
+       (3) facilitates the reduction of wildfire management costs, 
+     including through reestablishing natural fire regimes and 
+     reducing the risk of uncharacteristic wildfire; and
+       (4) demonstrates the degree to which--
+       (A) various ecological restoration techniques--
+       (i) achieve ecological health objectives; and
+       (ii) affect wildfire activity and management costs; and
+       (B) the use of forest restoration byproducts can offset 
+     treatment costs while benefitting rural economies and 
+     improving forest health.
+
+     SEC. 3. DEFINITIONS.
+
+       In this Act:
+       (1) Fund.--The term ``Fund'' means the Collaborative Forest 
+     Landscape Restoration Fund established by section 4(f).
+       (2) Plan.--The term ``Plan'' means the plan entitled the 
+     ``10 Year Comprehensive Strategy Implementation Plan'' and 
+     dated December 2006.
+       (3) Program.--The term ``program'' means the Collaborative 
+     Forest Landscape Restoration Program established under 
+     section 4(a).
+       (4) Secretary.--The term ``Secretary'' means the Secretary 
+     of Agriculture, acting through the Chief of the Forest 
+     Service.
+
+     SEC. 4. COLLABORATIVE FOREST LANDSCAPE RESTORATION PROGRAM.
+
+       (a) In General.--The Secretary, in consultation with the 
+     Secretary of the Interior, shall establish a Collaborative 
+     Forest Landscape Restoration Program to select and fund 
+     ecological restoration treatments for priority forest 
+     landscapes in accordance with applicable law.
+       (b) Eligibility Criteria.--To be eligible for nomination 
+     under subsection (c), a collaborative forest landscape 
+     restoration proposal shall--
+       (1) be based on a landscape restoration strategy that--
+       (A) is complete or substantially complete;
+       (B) identifies and prioritizes ecological restoration 
+     treatments for a 10-year period across a landscape that is--
+       (i) at least 50,000 acres;
+       (ii) comprised primarily of forested National Forest System 
+     land, but may also include other Federal, State, tribal, or 
+     private land;
+       (iii) in need of active ecosystem restoration; and
+       (iv) accessible by existing or proposed wood-processing 
+     infrastructure at an appropriate scale to use woody biomass 
+     and small-diameter wood removed in ecological restoration 
+     treatments;
+       (C) incorporates--
+       (i) the best available science and scientific application 
+     tools in ecological restoration strategies; and
+       (ii) the requirements for old-growth maintenance, 
+     restoration, and management direction of paragraphs (2), (3), 
+     and (4) of subsection (e) and the requirements for large-tree 
+     retention of subsection (f) of section 102 of the Healthy 
+     Forests Restoration Act of 2003 (16 U.S.C. 6512); and
+       (D) does not include the establishment of permanent roads;
+       (2) be developed and implemented through a collaborative 
+     process that--
+       (A) includes multiple stakeholders representing diverse 
+     interests;
+       (B)(i) is transparent and nonexclusive; or
+       (ii) meets the requirements for a resource advisory 
+     committee under section 205 of the Secure Rural Schools and 
+     Community Self-Determination Act of 2000 (16 U.S.C. 500 note; 
+     Public Law 106-393); and
+       (C) has an established record of successful planning and 
+     implementation of ecological restoration projects on National 
+     Forest System land;
+       (3) describe plans to--
+       (A) use fire for ecological restoration and maintenance, 
+     where appropriate;
+
+[[Page S661]]
+
+       (B) improve fish and wildlife habitat, including for 
+     endangered, threatened, and sensitive species;
+       (C) maintain or improve water quality;
+       (D) prevent, remediate, or control invasions of exotic 
+     species;
+       (E) maintain or decommission roads;
+       (F) use woody biomass and small-diameter trees produced 
+     from projects implementing the landscape restoration 
+     strategy;
+       (G) report annually on performance, including through 
+     performance measures from the Plan;
+       (H) develop small business incubators and provide 
+     employment and training opportunities to people in rural 
+     communities, including contracts for monitoring activities, 
+     through--
+       (i) local private, nonprofit, or cooperative entities;
+       (ii) Youth Conservation Corps crews or related 
+     partnerships, with State, local, and non-profit youth groups;
+       (iii) small or micro-businesses; or
+       (iv) other entities that will hire or train a significant 
+     percentage of local people to complete such contracts; and
+       (I) take into account any applicable community wildfire 
+     protection plan (as defined in section 101 of the Healthy 
+     Forests Restoration Act of 2003 (16 U.S.C. 6511));
+       (4) analyze the anticipated cost savings resulting from--
+       (A) reduced wildfire management costs; and
+       (B) a decrease in the unit costs of implementing ecological 
+     restoration treatments over time;
+       (5) estimate--
+       (A) the annual Federal funding necessary to implement the 
+     proposal; and
+       (B) the amount of new non-Federal investment for carrying 
+     out the proposal that would be leveraged by Federal funding 
+     for ecological restoration treatments; and
+       (6) be subject to any other requirements that the Secretary 
+     determines to be necessary for the efficient and effective 
+     administration of the program.
+       (c) Nomination Process.--
+       (1) Submission.--Collaborative forest landscape restoration 
+     proposals shall be submitted to the appropriate Regional 
+     Forester for consideration.
+       (2) Nomination.--A Regional Forester may nominate 
+     collaborative forest landscape restoration proposals for 
+     selection by the Secretary.
+       (3) Documentation.--With respect to each collaborative 
+     forest landscape restoration proposal that is nominated under 
+     paragraph (2)--
+       (A) the appropriate Regional Forester shall--
+       (i) include a proposal to use Federal funds allocated to 
+     the region to fund those costs of planning and carrying out 
+     ecological restoration treatments on National Forest land 
+     consistent with the landscape restoration strategy that would 
+     not be covered by amounts transferred to the Secretary from 
+     the Fund; and
+       (ii) provide evidence that amounts proposed to be 
+     transferred to the Secretary from the Fund during the first 2 
+     years following selection would be used to carry out 
+     ecological restoration treatments consistent with the 
+     landscape restoration strategy during the same fiscal year in 
+     which the funds are transferred to the Secretary;
+       (B) if actions under the jurisdiction of the Secretary of 
+     the Interior are proposed, the nomination shall require--
+       (i) the concurrence of the appropriate official of the 
+     Department of the Interior; and
+       (ii) a proposal to fund ecological restoration treatments 
+     consistent with the landscape restoration strategy that would 
+     be carried out by the Secretary of the Interior; and
+       (C) if actions on land not under the jurisdiction of the 
+     Secretary or the Secretary of the Interior are proposed, the 
+     appropriate Regional Forester shall provide evidence that the 
+     landowner intends to participate in, and provide appropriate 
+     funding to carry out, the actions.
+       (d) Selection Process.--
+       (1) In general.--After consulting with any scientific and 
+     technical advisory panels established under subsection (e), 
+     the Secretary, in consultation with the Secretary of the 
+     Interior, shall, subject to paragraph (2), select the best 
+     collaborative forest landscape restoration proposals that--
+       (A) have been nominated under subsection (c)(2); and
+       (B) meet the eligibility criteria established by subsection 
+     (b).
+       (2) Criteria.--In selecting collaborative forest landscape 
+     restoration proposals under paragraph (1), the Secretary 
+     shall give special consideration to--
+       (A) the strength of the ecological case of the proposal for 
+     landscape restoration and the proposed restoration 
+     strategies;
+       (B) the strength of the collaborative process;
+       (C) whether the proposal would reduce the relative costs of 
+     carrying out treatments as a result of the use of woody 
+     biomass and small-diameter trees;
+       (D) whether the proposal is likely to achieve reductions in 
+     long-term wildfire management costs;
+       (E) the strength of the landscape restoration proposal and 
+     strategy; and
+       (F) whether an appropriate level of non-Federal investment 
+     would be leveraged in carrying out the proposal.
+       (3) Limitation.--The Secretary may select not more than--
+       (A) 10 collaborative forest landscape restoration proposals 
+     to be funded during any given year; and
+       (B) 2 collaborative forest landscape restoration proposals 
+     in any 1 region of the National Forest System to be funded 
+     during any given year.
+       (e) Advisory Panels.--
+       (1) Scientific advisory panel.--The Secretary shall 
+     establish a scientific advisory panel comprised of not more 
+     than 12 experts in ecological forest restoration and fire 
+     ecology to evaluate, and provide recommendations on, any 
+     proposal that has been nominated under subsection (c)(2) and 
+     meets the eligibility criteria established by subsection (b) 
+     with respect to--
+       (A) the strength of the ecological case of the proposal for 
+     landscape restoration and the proposed restoration 
+     strategies; and
+       (B) whether the proposal is likely to achieve reductions in 
+     long-term wildfire management costs.
+       (2) Technical advisory panel.--The Secretary may establish 
+     a technical advisory panel comprised of experts in rural 
+     business development and the use of woody biomass and small-
+     diameter trees to evaluate, and provide recommendations on, 
+     any proposal that has been nominated under subsection (c)(2) 
+     and meets the eligibility criteria established by subsection 
+     (b) with respect to whether the proposal is likely to reduce 
+     the relative costs of carrying out treatments as a result of 
+     the use of woody biomass and small-diameter trees and provide 
+     local economic benefit.
+       (f) Collaborative Forest Landscape Restoration Fund.--
+       (1) Establishment.--There is established in the Treasury of 
+     the United States a fund, to be known as the ``Collaborative 
+     Forest Landscape Restoration Fund'', to be used to pay up to 
+     50 percent of the cost of carrying out ecological restoration 
+     treatments on National Forest System land for each 
+     collaborative forest landscape restoration proposal selected 
+     to be carried out under subsection (d), consisting of--
+       (A) such amounts as are appropriated to the Fund under 
+     paragraph (5); and
+       (B) any interest earned on investment of amounts in the 
+     Fund under paragraph (3).
+       (2) Expenditures from fund.--On request by the Secretary, 
+     the Secretary of the Treasury shall transfer from the Fund to 
+     the Secretary of Agriculture such amounts as the Secretary of 
+     Agriculture determines are necessary to carry out ecological 
+     restoration treatments under paragraph (1).
+       (3) Investment of amounts.--
+       (A) In general.--The Secretary of the Treasury shall invest 
+     such portion of the Fund as is not, in the judgment of the 
+     Secretary of the Treasury, after consulting with the 
+     Secretary, required to meet current withdrawals.
+       (B) Interest-bearing obligations.--Investments may be made 
+     only in interest-bearing obligations of the United States.
+       (C) Acquisition of obligations.--For the purpose of 
+     investments under subparagraph (A), obligations may be 
+     acquired--
+       (i) on original issue at the issue price; or
+       (ii) by purchase of outstanding obligations at the market 
+     price.
+       (D) Sale of obligations.--Any obligation acquired by the 
+     Fund may be sold by the Secretary of the Treasury at the 
+     market price.
+       (E) Credits to fund.--The interest on, and the proceeds 
+     from the sale or redemption of, any obligations held in the 
+     Fund shall be credited to and form a part of the Fund.
+       (4) Accounting and reporting system.--The Secretary shall 
+     establish an accounting and reporting system for the Fund.
+       (5) Authorization of appropriations.--There is authorized 
+     to be appropriated to the Fund $40,000,000 for each of fiscal 
+     years 2008 through 2018, to remain available until expended.
+       (g) Program Implementation and Monitoring.--
+       (1) Work plan.--Not later than 180 days after the date on 
+     which a collaborative forest landscape restoration proposal 
+     is selected to be carried out, the Secretary shall create, in 
+     collaboration with the interested stakeholders, an 
+     implementation work plan and budget to implement the 
+     collaborative forest landscape restoration proposal that 
+     includes--
+       (A) a description of the manner in which the proposal would 
+     be implemented to achieve ecological and community economic 
+     benefit, including capacity building to accomplish 
+     restoration;
+       (B) a business plan that addresses--
+       (i) the anticipated unit treatment cost reductions over 10 
+     years;
+       (ii) the anticipated costs for infrastructure needed for 
+     the proposal;
+       (iii) the projected sustainability of the supply of woody 
+     biomass and small-diameter trees removed in ecological 
+     restoration treatments; and
+       (iv) the projected local economic benefits of the proposal; 
+     and
+       (C) documentation of the non-Federal investment in the 
+     priority landscape, including the sources and uses of the 
+     investments.
+       (2) Project implementation.--Amounts transferred to the 
+     Secretary from the Fund shall be used to carry out ecological 
+     restoration treatments that are--
+       (A) consistent with the landscape restoration proposal and 
+     strategy; and
+       (B) identified through the collaborative process described 
+     in subsection (b)(2).
+       (3) Annual report.--Annually, the Secretary, in 
+     collaboration with the Secretary
+
+[[Page S662]]
+
+     of the Interior and interested stakeholders, shall prepare a 
+     report on the accomplishments of each selected collaborative 
+     forest landscape restoration proposal that includes--
+       (A) a description of all acres (or other appropriate unit) 
+     treated and restored through projects implementing the 
+     landscape restoration strategy;
+       (B) an evaluation of progress, including performance 
+     measures and how prior year evaluations have contributed to 
+     improved project performance;
+       (C) a description of community benefits achieved, including 
+     any local economic benefits;
+       (D) the results of the multiparty monitoring, evaluation, 
+     and accountability process under paragraph (4); and
+       (E) a summary of the costs of--
+       (i) treatments; and
+       (ii) relevant fire management activities.
+       (4) Multiparty monitoring.--The Secretary shall, in 
+     collaboration with the Secretary of the Interior and 
+     interested stakeholders, use a multiparty monitoring, 
+     evaluation, and accountability process to assess the positive 
+     or negative ecological, social, and economic effects of each 
+     project implementing a selected collaborative forest 
+     landscape restoration proposal for not less than 15 years 
+     after project implementation commences.
+       (h) Report.--Not later than 5 years after the first fiscal 
+     year in which funding is made available to carry out 
+     ecological restoration projects under the program, and every 
+     5 years thereafter, the Secretary, in consultation with the 
+     Secretary of the Interior, shall submit a report on the 
+     program, including an assessment of whether, and to what 
+     extent, the program is fulfilling the purposes of this Act, 
+     to--
+       (1) the Committee on Energy and Natural Resources of the 
+     Senate;
+       (2) the Committee on Appropriations of the Senate;
+       (3) the Committee on Natural Resources of the House of 
+     Representatives; and
+       (4) the Committee on Appropriations of the House of 
+     Representatives.
+
+                          ____________________
+```
