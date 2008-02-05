@@ -1,0 +1,92 @@
+---
+granule: CRECB-2008-pt1-Pg1313-8
+date: 2008-02-05
+edition: CRECB
+section: SENATE
+page: 1313
+---
+
+# STIMULUS PACKAGE
+
+```
+                            STIMULUS PACKAGE
+
+  Mr. McCONNELL. Mr. President, Americans are probably wondering why 
+the rebate checks we have been talking about now for almost a month are 
+still being debated on the floor of the Senate, and we owe them an 
+answer.
+  Two weeks ago they saw what looked like a bipartisan agreement 
+between Democrats and Republicans in Congress and the White House over 
+the details of a deal. They saw Speaker Pelosi and Leader Boehner, to 
+their great credit, resist the temptation to add pet projects that they 
+knew would only slow the package down--and rob it of its stimulative 
+effect. They heard a chorus of pleas from economists, trade groups, and 
+Members of both parties in both Chambers endorsing this approach. This 
+package had to be targeted and it had to be timely, or it wouldn't work 
+at all.
+  So most days we find ourselves trying to explain to people why it 
+takes so long to do things in the Senate. But this time was going to be 
+different. Here was that rare situation when both parties agreed to put 
+politics and individual interests aside and come together for the good 
+of the people.
+  But then the stimulus bullet train turned into a rickety stage coach 
+here in the Senate. When it got right down to it, Senate Democrats 
+couldn't do what House Democrats had done. They couldn't resist--not 
+even one time--a chance to play politics.
+  If Americans are wondering why their checks aren't in the mail, they 
+can find it in last week's news clips. Of particular interest is an AP 
+story entitled ``Politics Creeps into Stimulus Package.'' Democrats are 
+holding onto the stimulus bill, the article said, not to speed up the 
+rebate checks, but to try to make Republicans look bad in November. 
+Asked about the amendments we were expecting to take up this week, the 
+senior Senator from New York said, ``It's tough votes for them.'' It's 
+tough votes for them.
+  Now, the same AP article also helpfully points out that the senior 
+Senator from New York is no sideline observer in this debate. It notes 
+that he moonlights as chairman of the Democratic Senatorial Campaign 
+Committee. For people outside the beltway, that means he is in charge 
+of recruiting and helping Democrat candidates for the Senate--which, 
+this week, according to the AP, evidently involves holding up the 
+stimulus bill over votes he thinks will help his candidates against 
+Republicans in November.
+  Now I don't know if the thrust of this article was entirely accurate. 
+But if it was, these are precisely the kind of shenanigans Americans 
+had been hoping we could get past this year. And, frankly, Senate 
+Republicans were hopeful after the speed with which the House approved 
+its version of the growth package that Senate Democrats would also see 
+the wisdom in coming together to deliver relief in a timely manner.
+  It's disappointing that politics would come to play a part in a deal 
+that seemed refreshingly free from it for a change. But unfortunately, 
+it seems the never-ending campaign that tainted so much of last year's 
+Senate business has carried over to this year.
+  Last night, my good friend the majority leader suggested that 
+Republicans were delaying action on the stimulus plan because we asked 
+for some time to review his latest proposal--a full 4 days after he 
+said he would deliver it. Never mind that passage of the Senate 
+Democrats' bill forces a conference, worsening an already-prolonged 
+process. Never mind that once we did take a look, we noticed an extra 
+$1 billion in spending, which I think most Americans would consider a 
+significant addition. And never mind that our friends on the other side 
+had no intention of voting on the package today anyway.
+  We could have disposed of this stimulus package a week ago, but our 
+Democratic colleagues wanted, as they said, to put their ``stamp'' on 
+it.
+  Mr. President, I don't think Americans care one bit whether this bill 
+has a Republican or a Democratic stamp on it. They are completely fed 
+up with political gotcha. Americans want--and deserve--results.
+
+[[Page 1314]]
+
+  Taxpayers will get their rebate checks and businesses will get their 
+much-needed relief, but not without having to watch a show here for a 
+few more days or a week--put on for the sake of a depressingly familiar 
+political circus.
+  That is unacceptable to Republicans. I presume it is unacceptable to 
+the 385 Democrats and Republicans who voted the stimulus package out of 
+the House.
+  It is unacceptable to the more than 100 million American families who 
+are probably still wondering why we are talking about this bill at all.
+  The ACTING PRESIDENT pro tempore. The majority leader is recognized.
+
+                          ____________________
+```
