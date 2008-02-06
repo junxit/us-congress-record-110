@@ -1,0 +1,331 @@
+---
+granule: CREC-2008-02-06-pt1-PgH571
+date: 2008-02-06
+edition: CREC
+section: HOUSE
+page: H571
+citation: 154 Cong. Rec. H571
+---
+
+# REMEMBERING THE SPACE SHUTTLE "CHALLENGER" DISASTER AND HONORING ITS CREW MEMBERS
+
+**Speaking:** Melancon, Charlie (M001161) [D-LA], Feeney, Tom (F000447) [R-FL], Hodes, Paul W. (H001043) [D-NH], Jackson Lee, Sheila (J000032) [D-TX], Hirono, Mazie K. (H001042) [D-HI]
+
+**Measures:** H.Res. 943, H.R. 3093
+
+```
+REMEMBERING THE SPACE SHUTTLE ``CHALLENGER'' DISASTER AND HONORING ITS 
+                              CREW MEMBERS
+
+  Mr. MELANCON. Mr. Speaker, I move to suspend the rules and agree to 
+the resolution (H. Res. 943) remembering the space shuttle Challenger 
+disaster and honoring its crew members, who lost their lives on January 
+28, 1986.
+  The Clerk read the title of the resolution.
+  The text of the resolution is as follows:
+
+                              H. Res. 943
+
+       Whereas January 28, 2008, marks the 22-year anniversary of 
+     the tragic accident of the space shuttle Challenger, Mission 
+     51-L, and the loss of seven of America's bravest and most 
+     dedicated citizens;
+       Whereas the space shuttle Challenger disaster occurred off 
+     the coast of central Florida, at 11:39 a.m. on January 28, 
+     1986;
+       Whereas the space shuttle Challenger disintegrated 73 
+     seconds into its flight after an O-ring seal in its right 
+     solid rocket booster failed at lift-off;
+       Whereas the seven-person crew on the shuttle included 
+     Commander Francis R. Scobee, Pilot Michael J. Smith, Mission 
+     Specialist Judith A. Resnik, Mission Specialist Ellison S. 
+     Onizuka, Mission Specialist Ronald E. McNair, Payload 
+     Specialist Gregory B. Jarvis, and Payload Specialist Sharon 
+     Christa McAuliffe;
+       Whereas Christa McAuliffe, a schoolteacher from Concord, 
+     New Hampshire, was on board as the first member in the 
+     Teacher in Space Project;
+       Whereas the National Aeronautics and Space Administration 
+     (NASA) selected Christa McAuliffe from a field of 11,000 
+     applicants to be a part of the Challenger crew and teach 
+     lessons to schoolchildren from space;
+       Whereas the Committee on Science and Technology of the 
+     House of Representatives conducted oversight hearings on the 
+     Challenger disaster and released a report on October 29, 
+     1986, on the causes of the accident; and
+       Whereas the House of Representatives continues to support 
+     NASA and its ongoing efforts to explore and educate the 
+     American public about space: Now, therefore, be it
+       Resolved, That the House of Representatives--
+       (1) honors the 22nd anniversary of the space shuttle 
+     Challenger disaster;
+       (2) celebrates the courage and bravery of the crew of the 
+     Challenger, and Christa McAuliffe and her passion for 
+     encouraging America's children to pursue careers in science 
+     and mathematics;
+       (3) commits itself and the Nation to using the lessons 
+     learned in inquiries into the space shuttle Challenger 
+     accident to ensure that the space agency always operates on a 
+     strong and stable foundation; and
+       (4) recognizes the continued dedication of the United 
+     States to the goal of space exploration for the benefit of 
+     all mankind.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentleman from 
+Louisiana (Mr. Melancon) and the gentleman from Florida (Mr. Feeney) 
+each will control 20 minutes.
+  The Chair recognizes the gentleman from Louisiana.
+
+
+                             General Leave
+
+  Mr. MELANCON. Mr. Speaker, I ask unanimous consent that all Members 
+may have 5 legislative days to revise and extend their remarks and to 
+include extraneous material on House Resolution 943, the resolution now 
+under consideration.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Louisiana?
+  There was no objection.
+  Mr. MELANCON. Mr. Speaker, I yield myself such time as I may consume.
+  Mr. Speaker, I am honored to support House Resolution 943, a 
+resolution honoring the astronauts of the space shuttle Challenger and 
+honoring its crew members, who lost their lives on January 28, 1986. 
+And I congratulate Mr. Hodes for preparing this resolution.
+  The tragic loss of the Challenger and her crew of seven serves as a 
+continuing reminder that space flight is anything but routine. As we 
+continue to explore outer space, we here on the ground must do our part 
+to ensure that we have learned the lessons of the Challenger accident 
+and work tirelessly to make space travel as safe as possible for future 
+generations of explorers.
+  In addition, I believe we can best honor the sacrifices of the crew 
+of the Challenger made by our commitment to renewing America's space 
+program, continuing the Nation's journey into space, a goal to which 
+they dedicated their lives.
+  Mr. Speaker, it is appropriate that we pause today to honor the 
+memory of the Challenger crew, and I urge all my colleagues to support 
+this resolution.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. FEENEY. Mr. Speaker, I yield myself such time as I may consume.
+  I want to thank my colleague Mr. Melancon for shepherding this 
+memorial to the floor today. With this resolution, the House of 
+Representatives joins with all Americans to solemnly remember the loss 
+of the space shuttle Challenger 22 years ago on January 28, 1986.
+  Many Americans remember where they were on that cold January morning 
+when the shuttle Challenger leapt from its launch pad. After receiving 
+the call ``Challenger go at throttle up,'' Challenger disintegrated in 
+clear blue skies just 73 seconds into its flight.
+  We were stunned. One moment Challenger was flawlessly flying on a 
+beautiful winter morning. Then, without warning, it was gone.
+  America turned to mourn its seven astronauts who gave the ultimate 
+sacrifice for the advancement of exploration and discovery: Michael 
+Smith; Dick Scobee; Judith Resnik; Ronald McNair; Ellison Onizuka; 
+Gregory Jarvis; and Christa McAuliffe, a schoolteacher from Concord, 
+New Hampshire, selected to be the first member of the teaching 
+profession in a space project.
+  That evening, President Reagan spoke from the Oval Office to comfort 
+a grieving Nation. Millions of children had watched the launch because 
+Christa McAuliffe was to later teach science lessons from space. 
+Instead, we were reminded of a deeper lesson. Reagan said:
+
+[[Page H572]]
+
+  ``I want to say something to the schoolchildren of America who were 
+watching the live coverage of the shuttle's takeoff. I know it is hard 
+to understand, but sometimes painful things like this happen. It's all 
+part of the process of exploration and discovery. It's all part of 
+taking a chance and expanding man's horizons. The future doesn't belong 
+to the fainthearted; it belongs to the brave. The Challenger crew was 
+pulling us into the future, and we'll continue to follow them.''
+  Reagan concluded his address by saying this:
+  ``The crew of the space shuttle Challenger honored us by the manner 
+in which they lived their lives. We will never forget them nor the last 
+time we saw them, this morning, as they prepared for their journey and 
+waved good-bye and slipped the surly bonds of Earth to ``touch the face 
+of God.' ''
+  Twenty-two years have passed. America has kept its word. We haven't 
+forgotten the Challenger crew. Human space flight is mankind's most 
+difficult endeavor. America has achieved so many successes, space 
+flight seems routine; yet every generation unexpectedly bears witness 
+to space flight's inherent dangers.
+  Before the Challenger disaster, the Apollo I crew was lost on Pad 34 
+on January 27, 1967, in an accident known simply as ``The Fire.'' After 
+Challenger, we waited on February 1, 2003, at the Kennedy Space 
+Center's landing strip for the voyagers of Columbia who never returned 
+home. January and February are NASA's cruelest months.
+  On each occasion the people of NASA grieved terribly, but they 
+learned from adversity, and then they rededicated themselves to their 
+mission. America landed on the Moon after The Fire. After Challenger, 
+the shuttle flew again to pursue scientific discovery and begin 
+constructing the international space station. After Columbia, we 
+returned to flight, and we will complete and use the international 
+space station. Then we will turn our dreams to exploring beyond Earth's 
+orbit by establishing outposts on the Moon and then going further 
+beyond.
+  Exploration, journey, and bravery define the American people. Each of 
+us comes from a heritage where someone with great courage took a 
+passage to a new beginning, many times with disastrous endings. But the 
+living stubbornly persevered, pushed back vast frontiers, and built a 
+great and glorious Nation. Adversity, including the loss of the 
+Challenger crew, can never extinguish this American spirit.
+  Mr. Speaker, I am proud to support this resolution honoring the brave 
+and dedicated crew of Challenger. I urge my colleagues to support House 
+Resolution 943.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. MELANCON. Mr. Speaker, I would like to yield 5 minutes to the 
+gentleman from New Hampshire (Mr. Hodes).
+  Mr. HODES. I thank the gentleman for yielding.
+  Mr. Speaker, I rise today in strong support of House Resolution 943.
+  January 28, 2008, marked the 22nd anniversary of the Challenger space 
+shuttle disaster. On January 28, 1986, at 11:38 eastern standard time, 
+the Challenger took off from the Kennedy Space Center and disintegrated 
+just 73 seconds into its flight, killing all seven members of its brave 
+crew. The accident occurred on what would have been the Challenger's 
+10th trip into space.
+  I introduced House Resolution 943 to honor the courage and bravery of 
+all seven crew members who died as a result of this tragic accident. 
+The crew of the Challenger embodied the goals of the United States 
+space program and our highest ideals: a commitment to knowledge of our 
+universe and inspiring a new generation of scientific pioneers.
+  The tragic accident that day was especially poignant for those of us 
+in New Hampshire. New Hampshire is a small State, and we pride 
+ourselves on our sense of community. And one of those crew members was 
+Christa McAuliffe of Concord, New Hampshire, my hometown. She was a 
+friend. She was someone who was woven deeply into the fabric of our 
+community. She touched the lives of countless students. She was a mom. 
+She was somebody who was loved and admired. And she was on board the 
+Challenger as the first participant of the Teacher in Space program, 
+the pride of New Hampshire and of Concord and of the Nation, for the 
+first teacher in space was enormous and seemed to magnify the tragedy 
+of the accident.
+  Christa dedicated her life to education. She taught at Rundlett 
+Junior High School, Bow Memorial Middle School, and Concord High School 
+between 1978 and 1985. On July 19, 1985, she was selected from a field 
+of roughly 11,000 applicants as the primary candidate for the Teacher 
+in Space Project. Her mission as a crew member was to teach 
+schoolchildren lessons from space and to encourage students to pursue 
+careers in science and mathematics.
+  Twenty-two years after the Challenger disaster, Christa McAuliffe's 
+goal of promoting scholarship in the sciences is more important than 
+ever as our Nation works to stay at the forefront of global innovation.
+  I urge my colleagues to join me in recognizing the anniversary of the 
+Challenger disaster and to support House Resolution 943.
+  Ms. JACKSON-LEE of Texas. Mr. Speaker, I rise today in strong support 
+of H. Res. 943, ``Remembering the space shuttle Challenger disaster and 
+honoring its crew members, who lost their lives on January 28, 1986,'' 
+introduced by my distinguished colleague from New Hampshire, 
+Representative Paul W. Hodes. This important legislation will honor the 
+lives, the work, and the memory of the seven men and women who lost 
+their lives on the 1986 Space Shuttle Challenger mission. I would like 
+to thank Representative Hodes for introducing this bill, of which I am 
+proud to be an original cosponsor, as well as Chairman Gordon for his 
+leadership in bringing this important and timely bill to the floor 
+today.
+  On January 28, 1986, Ellison S. Onizuka, Sharon Christa McAuliffe, 
+Greg Jarvis, Judy Resnik, Michael J. Smith, Dick Scobee, and Ron McNair 
+commenced on a risky journey, which only a select few have had the 
+opportunity to travel. Twenty-two years ago, these extraordinary men 
+and women embarked on what they knew would be a perilous flight, in 
+pursuit of knowledge and driven by the spirit of scientific discovery. 
+As we stand here today, on the floor of the House of Representatives, 
+and commemorate the 22nd anniversary of the Challenger tragedy, I 
+believe we should take a moment to recall the purpose to which the crew 
+was dedicated. Astronauts Onizuka, McAuliffe, Jarvis, Resnik, Smith, 
+Scobee, and McNair represent the best in all of us, and it is in their 
+memory that we should devote ourselves to continuing what they began.
+  Mr. Speaker, as we mourn the tragic loss of these extraordinary men 
+and women, I would also like to praise those individuals who continue 
+to accept the challenges posed by the exploration of space and the 
+dedication of all connected with the manned space program. However, 
+while space exploration continues to be a part of our national destiny, 
+it is vital that safety is made our first priority, in order to protect 
+future astronauts and ensure the tragedy of 22 years ago never happens 
+again.
+  From the beginning, our Nation has recognized the importance of the 
+exploration of space and has always taken a leading role in its 
+development and exploration. The expansion of our horizons has been 
+essential for reasons beyond the technological advances it may provide. 
+Moreover, it represents mankind's capability to turn distant dreams 
+into a practical reality.
+  However, safety must remain our first priority. In June of last year, 
+we watched as the Space Shuttle Atlantis and the International Space 
+Station both experienced serious safety scares. The shuttle's mission 
+had to be extended following the discovery of a rip in the shuttle's 
+thermal blanket. The space station experienced the failure of a 
+Russian-operated computer system controlling a crucial portion of the 
+station's navigational system. These recent incidents clearly indicate 
+the need for improved safety standards and oversight. Space exploration 
+must be coupled with satisfactory safety assurances.
+  Because of my ongoing commitment to the safe exploration of space, I 
+was proud to introduce an amendment to H.R. 3093, the Departments of 
+Commerce and Justice and Science, and Related Agencies Appropriations 
+for FY 2008, reaffirming our strong commitment to ensuring adequate 
+safety standards for the International Space Station. My amendment 
+emphasizes the importance of safety standards by ensuring that none of 
+the funds made available in this Act may be used to limit the safety 
+provisions enumerated in the recent NASA Authorization Act. If the 
+recently delivered recommendations of the congressionally mandated 
+International Space Station Independent Safety Task Force are to be 
+successful in identifying and mitigating future risks to the 
+International Space Station, Congress, together with the 
+administration, must firmly reaffirm its commitment to pursuing safety 
+as a
+
+[[Page H573]]
+
+top priority. My amendment was overwhelmingly approved, by a vote of 
+422 to 3, and accepted into the bill.
+
+  At a time where our televisions, newspapers, radios and other forms 
+of media are dominated with discussions of presidential nominations, 
+housing foreclosures, economic stimulus packages, Middle Eastern 
+conflicts and the war in Iraq, it would be all too easy to disregard 
+our commitment to the enterprise of space exploration and its value to 
+the United States and abroad. Let us look to the sky to honor the 
+memory of these fallen heroes who gave their lives for the cause of 
+pushing the limit of human exploration for the enrichment of all of 
+mankind.
+  Mr. Speaker, words cannot conveyor adequately repay the debt that is 
+owed. We cannot sufficiently articulate the feelings of sorrow that are 
+universally felt; however, we can pay those seven souls no greater 
+tribute than to carry on the work they believed in and paid the 
+ultimate sacrifice for. The contributions to space exploration and 
+service these great astronauts provided are priceless and will never go 
+unrecognized.
+  I strongly urge my colleagues to join me in supporting this important 
+legislation, and in so doing, giving the men and women of our space 
+program the respect and recognition they deserve.
+  Ms. HIRONO. Mr. Speaker, I rise in support of H. Res. 943, a 
+resolution that remembers the space shuttle Challenger disaster and 
+honors its crew members on the 22nd anniversary of their tragic flight.
+  On January 28, 1986, the space shuttle disintegrated shortly after 
+takeoff, killing seven crew members. One of those astronauts, Ellison 
+Onizuka, was born and raised in my State of Hawaii and served as 
+Hawaii's first astronaut.
+  Mr. Onizuka was very enthusiastic about our space program and never 
+hesitated to share his knowledge and experience with the people of 
+Hawaii. He recognized the importance of education and encouraged 
+students to pursue an interest in space and science-related fields. 
+Four major space programs and centers in Hawaii carry on the legacy of 
+this inspiring explorer: the Astronaut Ellison S. Onizuka Space Center, 
+Astronaut Ellison Onizuka Science Day, the Hawaii Space Grant 
+Consortium, and Challenger Center Hawaii.
+  I urge my colleagues to support H. Res. 943, which honors Mr. 
+Onizuka's contributions and celebrates the courage and bravery of the 
+Challenger crew.
+  Mr. FEENEY. Mr. Speaker, I yield back the balance of my time.
+  Mr. MELANCON. Mr. Speaker, I have no further requests for time, and I 
+yield back the balance of my time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from Louisiana (Mr. Melancon) that the House suspend the 
+rules and agree to the resolution, H. Res. 943.
+  The question was taken.
+  The SPEAKER pro tempore. In the opinion of the Chair, two-thirds 
+being in the affirmative, the ayes have it.
+  Mr. MELANCON. Mr. Speaker, on that I demand the yeas and nays.
+  The yeas and nays were ordered.
+  The SPEAKER pro tempore. Pursuant to clause 8 of rule XX and the 
+Chair's prior announcement, further proceedings on this motion will be 
+postponed.
+
+                          ____________________
+```

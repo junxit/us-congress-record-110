@@ -1,0 +1,44 @@
+---
+granule: CREC-2008-02-06-pt1-PgS727-3
+date: 2008-02-06
+edition: CREC
+section: SENATE
+page: S727
+citation: 154 Cong. Rec. S727
+---
+
+# RECOGNIZING SAINT CLOUD, MINNESOTA
+
+**Speaking:** Klobuchar, Amy (K000367) [D-MN]
+
+```
+                   RECOGNIZING SAINT CLOUD, MINNESOTA
+
+● Ms. KLOBUCHAR. Mr. President, today I wish to recognize a 
+great achievement by the City of Saint Cloud, MN.
+  St. Cloud, MN, is located on the banks of the Mississippi River, 60 
+miles northwest of the Twin Cities. When it was founded more than 150 
+years ago, it was known as the Granite City. But now it also bears the 
+title of the Most Livable Community in the World.
+  The LivCom Awards are the world's only competition for local 
+communities that focuses on environmental management and the creation 
+of livable communities. This year, they have named Saint Cloud the 
+``Most Livable Community in the World.''
+  This award is a deserved honor and recognition of the outstanding 
+efforts being undertaken by the City of Saint Cloud to create a livable 
+and sustainable community.
+  The awards encourage best practice, innovation, and leadership in 
+providing vibrant, environmentally sustainable communities that improve 
+the quality of life for their residents and people worldwide.
+  Among the goals of the award is to model innovative community 
+planning and living for other communities. I hope that Saint Cloud will 
+inspire other communities to tackle challenging environmental and 
+energy issues facing our nation.
+  Saint Cloud topped entrants from more than 50 countries. The 
+residents of Saint Cloud, the Most Livable City in the World, have much 
+to be proud of.
+  I ask that you join me in congratulating the world's most livable 
+community, Saint Cloud, MN.●
+
+                          ____________________
+```
