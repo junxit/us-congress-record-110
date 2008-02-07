@@ -1,0 +1,35 @@
+---
+granule: CRECB-2008-pt2-Pg1772-3
+date: 2008-02-07
+edition: CRECB
+section: HOUSE
+page: 1772
+---
+
+# COMMUNICATION FROM THE CLERK OF THE HOUSE
+
+```
+               COMMUNICATION FROM THE CLERK OF THE HOUSE
+
+  The SPEAKER pro tempore (Mr. Space) laid before the House the 
+following communication from the Clerk of the House of Representatives:
+
+                                     House of Representatives,
+
+                                 Washington, DC, February 6, 2008.
+     Hon. Nancy Pelosi,
+     Speaker, House of Representatives,
+     Washington, DC.
+       Dear Madam Speaker: Pursuant to the permission granted in 
+     Clause 2(h) of Rule II of the Rules of the U.S. House of 
+     Representatives, the Clerk received the following message 
+     from the Secretary of the Senate on February 6, 2008, at 9:35 
+     a.m.:
+       That the Senate passed S. 2457.
+       With best wishes, I am,
+           Sincerely,
+                                               Lorraine C. Miller,
+     Clerk of the House.
+
+                          ____________________
+```
