@@ -1,0 +1,40 @@
+---
+granule: CREC-2008-02-07-pt1-PgS784-3
+date: 2008-02-07
+edition: CREC
+section: SENATE
+page: S784
+citation: 154 Cong. Rec. S784
+---
+
+# SUBMISSION OF CONCURRENT AND SENATE RESOLUTIONS
+
+**Measures:** S.Con.Res. 66, S.Res. 445
+
+```
+            SUBMISSION OF CONCURRENT AND SENATE RESOLUTIONS
+
+  The following concurrent resolutions and Senate resolutions were 
+read, and referred (or acted upon), as indicated:
+
+           By Mr. BIDEN (for himself, Mr. Obama, Mr. Baucus, Mr. 
+             Durbin, Mr. Harkin, Mr. Casey, Mr. Menendez, Mr. 
+             Reid, and Mrs. Feinstein):
+       S. Res. 445. A resolution expressing the sense of the 
+     Senate on the assassination of
+
+[[Page S785]]
+
+     former Prime Minister of Pakistan Benazir Bhutto, and the 
+     political crisis in Pakistan; to the Committee on Foreign 
+     Relations.
+           By Mr. WEBB (for himself, Mr. Biden, Mr. Lugar, Mr. 
+             Warner, Mr. Dodd, Mr. Hagel, Mrs. Boxer, and Ms. 
+             Murkowski):
+       S. Con. Res. 66. A concurrent resolution commemorating the 
+     175th anniversary of the commencement of the special 
+     relationship between the United States and the Kingdom of 
+     Thailand; to the Committee on Foreign Relations.
+
+                          ____________________
+```

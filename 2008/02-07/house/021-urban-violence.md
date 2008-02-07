@@ -1,0 +1,39 @@
+---
+granule: CREC-2008-02-07-pt1-PgH628
+date: 2008-02-07
+edition: CREC
+section: HOUSE
+page: H628
+citation: 154 Cong. Rec. H628
+---
+
+# URBAN VIOLENCE
+
+**Speaking:** Rush, Bobby L. (R000515) [D-IL]
+
+```
+                             URBAN VIOLENCE
+
+  (Mr. RUSH asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. RUSH. Mr. Speaker, I come to the floor today to speak about an 
+issue that is very close to my heart personally as a father and 
+American and as a Member of Congress. There is a plague across this 
+Nation that has taken the lives of hundreds of thousands of American 
+citizens, and it is disturbing and upsetting that there is no public 
+outcry over the destruction that it leaves in its path. The plague is 
+urban violence.
+  Mr. Speaker, over the Christmas break I was shocked by a piece of 
+news that I saw on ``Nightline'' which detailed how medics who are sent 
+to Iraq are honing their skills by working in urban hospitals attending 
+to gunshot victims.
+  The documentary went on to say that over 75 African American and 
+Latino males are killed in our inner cities on a daily basis. Over 75 
+Latinos and American males are killed on a daily basis in American 
+streets, a number that dwarfs the number of fatalities, Iraqi and 
+American, that are suffered in the war zone.
+  Mr. Speaker, we must break this silence and stop this violence. It is 
+time to stop the killing, stop the violence.
+
+                          ____________________
+```
