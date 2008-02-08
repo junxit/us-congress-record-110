@@ -1,0 +1,47 @@
+---
+granule: CREC-2008-02-08-pt1-PgE155-3
+date: 2008-02-08
+edition: CREC
+section: EXTENSIONS
+page: E155
+citation: 154 Cong. Rec. E155
+---
+
+# IN HONOR OF THE OUTSTANDING MILITARY SERVICE CONTRIBUTIONS OF CHIEF MASTER SERGEANT TODD SMALL
+
+**Speaking:** Spratt, John M., Jr. (S000749) [D-SC]
+
+```
+  IN HONOR OF THE OUTSTANDING MILITARY SERVICE CONTRIBUTIONS OF CHIEF 
+                       MASTER SERGEANT TODD SMALL
+
+                                 ______
+                                 
+
+                        HON. JOHN M. SPRATT, JR.
+
+                           of south carolina
+
+                    in the house of representatives
+
+                        Friday, February 8, 2008
+
+  Mr. SPRATT. Madam Speaker, I rise today to pay tribute to one of our 
+most dedicated Air Force noncommissioned officers, Chief Master 
+Sergeant Todd Small on the occasion of his departure from Shaw Air 
+Force Base, South Carolina, as the Command Chief, Ninth Air Force and 
+United States Central Command Air Forces.
+  In these capacities, Chief Small was the senior enlisted man charged 
+with facilitating the development, training, and readiness of over 
+50,000 airmen within the Ninth Air Force and the United States Central 
+Commands' areas of operations. Chief Small was a front-line leader, who 
+traversed more than 5,400 miles, across 11 countries, to enhance the 
+mission of the airmen deployed in support of Operations Iraqi Freedom 
+and Enduring Freedom.
+  Chief Small has truly answered the call of duty to his country and 
+his community. I join the men and women of Shaw Air Force Base in 
+honoring Chief Small, his wife Frankie, and their children Chelsea and 
+Aaron, for their dedication and commitment to the Air Force, and I wish 
+Chief Small the best in his new position as the Command Chief to the 
+United States Space Command.
+```
