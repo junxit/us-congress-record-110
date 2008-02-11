@@ -1,0 +1,38 @@
+---
+granule: CREC-2008-02-11-pt1-PgS878-2
+date: 2008-02-11
+edition: CREC
+section: SENATE
+page: S878
+citation: 154 Cong. Rec. S878
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                          in the marine corps
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT AS THE 
+     ASSISTANT COMMANDANT OF THE MARINE CORPS AND APPOINTMENT TO 
+     THE GRADE INDICATED WHILE ASSIGNED TO A POSITION OF 
+     IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, U.S.C., 
+     SECTIONS 601 AND 5044:
+
+                             To be general
+
+LT. GEN. JAMES F. AMOS, 0000
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE OF 
+     LIEUTENANT GENERAL IN THE UNITED STATES MARINE CORPS WHILE 
+     ASSIGNED TO A POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER 
+     TITLE 10, U.S.C., SECTION 601:
+
+                        To be lieutenant general
+
+LT. GEN. KEITH J. STALDER, 0000
+```
