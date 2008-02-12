@@ -1,0 +1,407 @@
+---
+granule: CRECB-2008-pt2-Pg1962
+date: 2008-02-12
+edition: CRECB
+section: HOUSE
+page: 1962
+---
+
+# CONGRATULATING THE NATIONAL FOOTBALL LEAGUE CHAMPION NEW YORK GIANTS FOR WINNING SUPER BOWL XLII
+
+```
+ CONGRATULATING THE NATIONAL FOOTBALL LEAGUE CHAMPION NEW YORK GIANTS 
+                      FOR WINNING SUPER BOWL XLII
+
+  Mr. BUTTERFIELD. Mr. Speaker, I move to suspend the rules and agree 
+to the resolution (H. Res. 960) congratulating the National Football 
+League champion New York Giants for winning Super Bowl XLII and 
+completing one of the most remarkable postseason runs in professional 
+sports history.
+  The Clerk read the title of the resolution.
+  The text of the resolution is as follows:
+
+                              H. Res. 960
+
+       Whereas on February 3, 2008, in Glendale, Arizona, the New 
+     York Giants achieved the improbable and upset the previously 
+     undefeated New England Patriots by a score of 17 to 14 in 
+     Super Bowl XLII to win the National Football League (NFL) 
+     Championship;
+       Whereas during the 2007-2008 post season, the Giants were 
+     the epitome of determination, fortitude, and resiliency as 
+     they made their way through the playoffs and ultimately 
+     triumphed over the previously undefeated New England 
+     Patriots, who were favored by 12 points to win the 
+     championship game;
+       Whereas quarterback Elisha Nelson ``Eli'' Manning, who had 
+     19 completions for 255 yards and 2 touchdowns, was selected 
+     as the Most Valuable Player of Super Bowl XLII;
+       Whereas the New York Giants' win over the New England 
+     Patriots was the most-watched Super Bowl ever, with 
+     97,500,000 viewers, making it the second most viewed American 
+     broadcast in television history;
+       Whereas the Giants achieved one of the most remarkable 
+     feats in sports history by winning an NFL record-breaking 11 
+     straight road games, granting them the title of ``Road 
+     Warriors'', and in the process became only the second team in 
+     NFL history to win 3 playoff games and the Super Bowl away 
+     from their home field;
+       Whereas in each round of the playoffs, when none of the 
+     experts thought they had a chance to win, the Giants and 
+     their loyal, dedicated, and passionate fans believed they 
+     could accomplish what others declared impossible;
+       Whereas Tom Coughlin, in his fourth season as head coach of 
+     the Giants, has gone to the playoffs for 3 straight seasons, 
+     and this season lead his team, with the help of Defensive 
+     Coordinator Steve Spagnuolo, Offensive Coordinator Kevin 
+     Gilbride, and the entire Giants coaching staff, to Super Bowl 
+     XLII and brought the Vince Lombardi Trophy back to the 
+     Meadowlands;
+       Whereas the New York Giants organization is one of the most 
+     successful in NFL history, boasting 15 Hall of Fame players, 
+     appearing in 26 postseasons, winning more than 600 games, 16 
+     NFL divisional championships, and 7 NFL championships, 
+     including remarkable title runs in 1987, 1991, and 2008 
+     (Super Bowls XXI, XXV, and XLII) that captivated New York and 
+     New Jersey;
+       Whereas Giants owner and Chief Executive Officer John Mara 
+     and Executive Vice President Steve Tisch have done a 
+     remarkable job leading this storied franchise with the 
+     assistance and dedication of their talented staff;
+       Whereas the New York Giants have played all their home 
+     games in the Meadowlands Sports Complex, located in East 
+     Rutherford, New Jersey, since 1976 and have supported Bergen 
+     County and the northern New Jersey and New York areas with 
+     community outreach projects; and
+       Whereas the entire Giants franchise has become a model of 
+     professionalism, teamwork, and community service in 
+     representing the entire New York and New Jersey metropolitan 
+     area: Now, therefore, be it
+       Resolved, That the House of Representatives congratulates 
+     the National Football League champion New York Giants for 
+     winning Super Bowl XLII and completing one of the most 
+     impressive seasons in professional sports history.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentleman from 
+North Carolina (Mr. Butterfield) and the gentleman from Connecticut 
+(Mr. Shays) each will control 20 minutes.
+  The Chair recognizes the gentleman from North Carolina.
+
+
+                             General Leave
+
+  Mr. BUTTERFIELD. Mr. Speaker, I ask unanimous consent that all 
+Members may have 5 legislative days in which to revise and extend their 
+remarks.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from North Carolina?
+  There was no objection.
+  Mr. BUTTERFIELD. Mr. Speaker, I am pleased to join my colleagues 
+today in the consideration of H. Res. 960, which provides for the 
+recognition of the National Football League champion New York Giants 
+for winning Super Bowl XLII and for completing one of the most 
+remarkable postseason runs in professional sports history.
+  On Super Bowl Sunday, I was in Columbus, Georgia. And when I realized 
+that my flight was scheduled at the very same time as the Super Bowl, I 
+cancelled my return and had the privilege of watching this 
+extraordinary game at the home of my good friend, Congressman Sanford 
+Bishop.
+  Mr. Speaker, H. Res. 960 was introduced by Representative Steve 
+Rothman of New Jersey, and it has the support and cosponsorship of 60 
+Members of Congress.
+  Mr. Speaker, it is only fitting that we consider this resolution 
+today as it
+
+[[Page 1963]]
+
+highlights and expresses our commemoration of one of sporting history's 
+most exciting wins which occurred on February 3, 2008, when the New 
+York Giants battled back from behind to beat the undefeated New England 
+Patriots by a score of 17-14 to capture the NFL's coveted Lombardi 
+Trophy.
+  Super Bowl XLII and the perseverance of the New York Giants to become 
+only the second team in football history to go from NFC wild card 
+contender to NFL champion will undoubtedly go down in the record books.
+  For this accomplishment, we stand to commend the New York Giants 
+franchise, players, coaches, and all of the supportive fans from across 
+the world on a job well done. I urge the passage of this measure.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. SHAYS. Mr. Speaker, this is great fun.
+  Mr. Speaker, I rise today in support of H. Res. 960 congratulating 
+the New York Giants for their 17-14 victory over the New England 
+Patriots in Super Bowl XLII.
+  It was a second straight Super Bowl victory for the first family of 
+football, the Mannings. Peyton Manning led the Indianapolis Colts to 
+the title last year, and his younger brother, Eli, threw two touchdown 
+passes to lead the Giants to victory this year and claim the Most 
+Valuable Player award, like his brother.
+  Their father, Archie, of course, was a great pro quarterback himself, 
+spending most of his career with the New Orleans Saints.
+  John Wooden, the greater former UCLA basketball coach, said sports 
+don't build character, they reveal it. So what does this victory say 
+about the New York Giants? It says they are a resilient bunch, entering 
+the playoffs as the number five seed in a six-team NFC field, then 
+defeating a Dallas team who had beaten them twice in the regular season 
+and a Green Bay team in arctic conditions to reach the big game.
+  There, they stymied an offense that had scored more points, gained 
+more yards, and won more games in a season than any team in NFL 
+history. They did it by keeping that offense off the field. New York 
+owned the ball for nearly 20 of the first 30 minutes. They did it with 
+new heroes such as David Tyree, who scored the go-ahead touchdown. He 
+had never caught a touchdown pass in the NFL before. And they did it 
+with seasoned vets such as Michael Strahan who led a defense that held 
+the Pats to a season low of 274 yards.
+  So what was revealed of the character of these Giants? That they 
+ignored the conventional wisdom which didn't give them a chance, that 
+they found in each other the strength to do what they couldn't have 
+done any other way, take down the ``next big thing'' in the biggest 
+game of the year. Thanks, Giants, for showing us what is possible when 
+we don't take ``no'' for an answer.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. BUTTERFIELD. Mr. Speaker, at this time I yield 5 minutes to the 
+gentleman from New Jersey (Mr. Rothman), the sponsor of this great 
+legislation and a good friend of all of us.
+  Mr. ROTHMAN. Mr. Speaker, I rise today in support of H. Res. 960, 
+legislation to congratulate the New York Giants for winning Super Bowl 
+XLII and completing one of the greatest upsets in professional sports 
+history.
+  I introduced this resolution because I am so proud of this team that 
+plays at Giants Stadium in the New Jersey Meadowlands in East 
+Rutherford, New Jersey. My constituents and I are so honored that we 
+have a Super Bowl champion back in our region.
+  On Sunday, February 3, in Glendale, Arizona, the New York football 
+Giants achieved the highly improbable by beating the previously 
+undefeated New England Patriots. The score was 17-14, and they went on 
+to win Super Bowl XLII.
+  The game was the most watched Super Bowl ever with nearly 100 million 
+viewers tuning in to make it the second-most viewed American television 
+broadcast in history.
+  I offer this resolution to honor the entire Giants organization on 
+their incredible season and on their win. Specifically, I would like to 
+congratulate Giants owner and chief executive officer John Mara; 
+executive vice president Steve Tisch; head coach Tom Coughlin; 
+defensive coordinator Steve Spagnuolo; offensive coordinator Kevin 
+Gilbride, and all of the Giants players and support staff on a job very 
+well done.
+  The entire Giants franchise has been a model of professionalism, 
+teamwork, and community service in representing the New York-New Jersey 
+metropolitan area.
+  Their Super Bowl triumph shows that no matter what the odds, a group 
+of determined underdogs can take on a dynasty and emerge victorious. 
+This time, the team that slew Goliath were Giants themselves.
+  I urge my colleagues to join me in supporting House Resolution 960 
+and in congratulating the New York football Giants for their 
+outstanding season and remarkable win in Super Bowl XLII.
+  Mr. SHAYS. Mr. Speaker, I reserve the balance of my time.
+
+                              {time}  1600
+
+  Mr. BUTTERFIELD. Mr. Speaker, at this time I am pleased to yield 4 
+minutes to the gentleman from New Jersey (Mr. Pascrell).
+  Mr. PASCRELL. Mr. Speaker, today I rise to congratulate the football 
+Giants on their improbable and inspirational Super Bowl victory. House 
+Resolution 960, I'm sure, will get tremendous support here.
+  On any list of the most memorable moments in sports history, the word 
+``underdog'' often makes an appearance. We always seem to remember the 
+team that overcame adversity, and we always remember the team that 
+overcame doubt to steal victory from the grasp of a supposedly superior 
+opponent in the last second, against all odds, and against all 
+predictions.
+  In some ways, we can all see ourselves as underdogs. Sometimes, no 
+matter what you do, how hard you try, it can feel like the whole world 
+is rooting for the other team and the other guy. There are lessons here 
+of perseverance. Whether you are a candidate, whether you are a 
+Congressman, whether you are a truck driver is immaterial.
+  Maybe this is why the Giants' upset over the heavily favored New 
+England Patriots resonates so strongly with the American people and is 
+sure to be remembered as one of the greatest victories in the history 
+of the National Football League.
+  At the start of the playoffs, no one believed the Giants would defeat 
+the Dallas Cowboys, their flashy division rivals who had beaten them 
+twice during the regular season, but they did.
+  No one believed that the Giants would defeat the great Green Bay 
+Packers; but on the frozen tundra of Lambeau Field, and against a 
+living legend, they prevailed.
+  And no one believed the Giants could compete with New England. The 
+Patriots were the team of destiny. Man, we've heard that on this floor 
+about a lot of things. They had the perfect team, the perfect season to 
+complete.
+  Only God is perfect, Mr. Speaker. Only God.
+  No one but the Big Blue faithful believed the Giants had a chance to 
+win that night.
+  But history is known to repeat itself, and the history of sports is 
+full of great upsets, victorious underdogs, from the miracle on the 
+ice, to Buster Douglas, to Joe Namath. And now, in the same breath, we 
+can say the 2007 football Giants.
+  Who will ever be able to forget the almost supernatural catch made by 
+Wayne, New Jersey, resident David Tyree? Born in Montclair, went to 
+schools there. Indeed, it was this graduate from New Jersey's Montclair 
+High who caught a not-to-be-believed 32-yard pass from Eli Manning that 
+kept the winning drive alive with only 59 seconds left.
+  As the final seconds ticked off the game clock, the emotions and 
+excitement were immeasurable. But it was a bittersweet moment for me. I 
+wished my friend and fellow Fordham alumnus, Wellington Mara, the 
+Giants late owner, was alive to witness it.
+
+[[Page 1964]]
+
+  I congratulate the owners, the coaches and players of the Giants on 
+an incredible season and a historic championship. I wish them the best 
+of luck defending their title next year.
+  Mr. SHAYS. Mr. Speaker, I don't have any speakers at this time, 
+except I would have liked to have asked unanimous consent that former 
+Congressman Roger Wicker, who was a House Member who was sitting here, 
+could speak; but given now he's a Senator, I don't think you would have 
+found that in order. But what he said to me was how proud he is that 
+Archie Manning, who was his classmate at Ole Miss, had these two 
+remarkable sons in Eli and Peyton, and he thinks it reflects well, I 
+think, on Ole Miss, and certainly on his dad.
+  But I'd also like to express something else. For those of us who are 
+not the sports fans that others may be, it was a tremendously proud 
+moment for us to see the New York Giants put their best team forward in 
+the last game of the season against the New England Patriots when the 
+outcome of the game didn't matter to New York, but it mattered to 
+people like me and others who feel that the obligation of pro sports is 
+to always play their best and always put their best team forward. And I 
+think that remarkable game which they almost won led ultimately to the 
+remarkable games that followed and to their ultimate victory.
+  This is a kick. This was a game that I'll remember the rest of my 
+life because it had so much to do about character.
+  Mr. Speaker, I yield back the balance of my time.
+  Mr. RANGEL. Mr. Speaker, I rise today to throw the full weight of my 
+endorsment behind a resolution of substantial import and consequence: 
+that New York's championship football team be congratulated and honored 
+for its come-from-behind Super Bowl win last week, one that left the 
+sports world simultaneously stunned and elated.
+  The competition was formidable and the challenge facing the Giants 
+daunting. Experts did not give the Giant much chance of prevailing and 
+the odds-makers in Las Vegas made them 12-point underdogs. The New 
+England Patriots represented a veteran squad of impressive offensive 
+muscle, strolling onto the field with a historic perfect season and an 
+expected fourth championship within its grasp. But the New York Giants 
+proved resilient. Eli Manning led the way, charging down the field with 
+a 12-play, 83-yard dirve that capitalized on the great skill of David 
+Tyree, Brandon Jacobs, Streve Simith, and Plaxico Burress.
+  This upset was no ordinary win. Facing a team dead set on making 
+history, the G-men blazed a trail of their own, becoming the first NFC 
+wild card team to win a Super Bowl. Theirs is a story of unparalleled 
+heart and inspiration, of surpassing expectations and securing triumph 
+in the face of all odds. Theirs is an American story, and they have 
+accordingly ascended from being New York's team to being America's 
+team.
+  Join me in spirited congratulations and well wishes for America's 
+team, the New York Giants, in their 17-41 championship win.
+  Mr. ROTHMAN. Mr. Speaker, I rise today in support of House Resolution 
+960, legislation to congratulate the New York Giants for winning Super 
+Bowl XLII and completing one of the greatest upsets in professional 
+sports history. I introduced this resolution because I am so proud that 
+this incredible team plays at Giants stadium, located in East 
+Rutherford, New Jersey in my district. I am honored that we have a 
+Super Bowl champion back in the New York New Jersey region again.
+  On Sunday, February 3rd, in Glendale, Arizona, the New York Giants 
+achieved the highly improbable by beating the previously undefeated New 
+England Patriots by a score of 17 to 14 in Super Bowl XLII to win the 
+National Football League (NFL) championship. The game was the most 
+watched Super Bowl ever, with nearly 100 million viewers tuning in--
+making it the second most viewed American broadcast in television 
+history.
+  Since its inception in 1925, the New York Giants organization has 
+been a model of professionalism, teamwork, and community service in the 
+New York New Jersey metropolitan area. From the beginning, the Giants 
+franchise--and indeed the entire National Football League--has 
+flourished under the leadership and guidance of the Mara family. Back 
+in the 1960s professional football was struggling to survive. It was 
+the foresight of Wellington and Jack Mara, co-owners of the most 
+profitable team in the NFL, which allowed professional football to 
+prosper. They put the league ahead of their team by agreeing to share 
+lucrative television revenue equally among all NFL teams, thus 
+providing the other teams in the league with much needed capital to 
+promote the sport across America. The current success of the NFL is a 
+tribute to the character and selflessness of the Mara brothers. They 
+proved to the National Football League and the Nation that honorable 
+business practices and teamwork can indeed generate great success.
+  The New York Giants franchise has been one of the most successful in 
+National Football League history. The Giants have had 15 players 
+inducted into the Profesional Football Hall of Fame. The team has been 
+to the postseason 26 times and won more than 600 games, including 16 
+divisional championships and 7 NFL championships--three of which were 
+Super Bowls (XXI, XXV, and XLII).
+  Since 1976, the Giants have played at Giants stadium in East 
+Rutherford, New Jersey--which is located in my congressional district. 
+I have always been proud to have such a wonderful organization located 
+in our district. In particular, I would like to recognize the ``Giants 
+Foundation,'' which was founded by Wellington Mara. It is an 
+organization that provides important social and financial support to 
+underprivileged youth and their families throughout the entire 
+metropolitan area.
+  The Giants began the 2007 season with a tough loss to the Dallas 
+Cowboys at Texas Stadium. What they didn't know as they walked off the 
+field in Irving, Texas, was that this would be the last time they would 
+lose a road game all season. After that loss to the Cowboys the Giants 
+won 11 straight road games--an unprecedented achievement and a record 
+in the National Football League.
+  Their impressive road streak began just a few miles away from here in 
+Landover, Maryland at FedEx field. The Giants turned their season 
+around with a fourth quarter comeback against the Washington Redskins, 
+capped by an impressive stop on fourth and goal as time expired.
+  After the regular season ended the Giants took their road winning 
+streak into the postseason where they won 3 straight road playoff 
+games--a National Football Conference record.
+  The Giants' victorious journey this season epitomizes the American 
+values of hard work, determination, and resiliency. Along each step of 
+the journey, few believed they would triumph, but the Giants continued 
+to defy conventional wisdom and prove to the so called experts that a 
+team of individuals fully devoted to a goal is indeed greater than the 
+sum of its parts. Their defense, which allowed 80 points in the first 2 
+games, turned their season around to become the best defense in the 
+league--capable of holding the most vaunted offense in recent memory to 
+2 touchdowns on the biggest stage in sports. Their offense, captained 
+by quarterback Eli Manning, was sporadic at best during the regular 
+season, but seemed to mature right before our eyes in the playoffs as 
+the Giants protected the football and put together clutch drives when 
+it mattered most.
+  But perhaps the greatest momentum shift of the season was Coach Tom 
+Coughlin's decision to have his team play to win against the then 
+undefeated New England Patriots in the final game of the regular 
+season. In a game that didn't matter for the Giants, as they had 
+already clinched a playoff birth, the ``Boys in Blue'' played their 
+hearts out and went toe-to-toe against what many were calling the best 
+team in NFL history. Even though they lost on that day--the Giants 
+gained a great deal of confidence from the contest, which they carried 
+with them all the way to their victory against those same New England 
+Patriots in Super Bowl XLII.
+  I am offering this resolution to honor the entire Giants organization 
+on their incredible season, and on their outstanding win in Super Bowl 
+XLII. Specifically, I would like to congratulate Giants owner and Chief 
+Executive Officer John Mara, Executive Vice President Steve Tisch, Head 
+Coach Tom Coughlin, Defensive Coordinator Steve Spagnuolo, Offensive 
+Coordinator Kevin Gilbride, and all of the Giants players and support 
+staff on a job well done. Their triumph shows that no matter the odds, 
+a group of determined underdogs can take on a dynasty and emerge 
+victorious.
+  Mr. Speaker, I urge my colleagues to join me in supporting House 
+Resolution 960, and congratulate the Giants for their exciting season 
+and remarkable win in Super Bowl XLII.
+  Mr. BUTTERFIELD. Mr. Speaker, I don't have any additional speakers at 
+this time. It's just obvious that we have some Members on this floor 
+today who are very proud of the New York Giants.
+  Thank you very much for the time. I yield back the balance of my time 
+as well.
+
+[[Page 1965]]
+
+  The SPEAKER pro tempore (Mr. Jackson of Illinois). The question is on 
+the motion offered by the gentleman from North Carolina (Mr. 
+Butterfield) that the House suspend the rules and agree to the 
+resolution, H. Res. 960.
+  The question was taken.
+  The SPEAKER pro tempore. In the opinion of the Chair, two-thirds 
+being in the affirmative, the ayes have it.
+  Mr. BUTTERFIELD. Mr. Speaker, on that I demand the yeas and nays.
+  The yeas and nays were ordered.
+  The SPEAKER pro tempore. Pursuant to clause 8 of rule XX and the 
+Chair's prior announcement, further proceedings on this motion will be 
+postponed.
+
+                          ____________________
+```
