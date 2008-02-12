@@ -1,0 +1,34 @@
+---
+granule: CREC-2008-02-12-pt1-PgH867
+date: 2008-02-12
+edition: CREC
+section: HOUSE
+page: H867
+citation: 154 Cong. Rec. H867
+---
+
+# LEAVE OF ABSENCE
+
+```
+                            LEAVE OF ABSENCE
+
+  By unanimous consent, leave of absence was granted to:
+  Mr. Cuellar (at the request of Mr. Hoyer) for today on account of 
+inclement weather.
+  Mr. Cummings (at the request of Mr. Hoyer) for today on account of 
+business in the district.
+  Mr. Honda (at the request of Mr. Hoyer) for today and the balance of 
+the week on account of family medical reasons.
+  Mr. Ortiz (at the request of Mr. Hoyer) for today on account of 
+business in the district.
+  Mr. Rodriguez (at the request of Mr. Hoyer) for today on account of 
+weather delay.
+  Mr. Ruppersberger (at the request of Mr. Hoyer) for today and the 
+balance of the week on account of medical reasons.
+  Mr. Ryan of Ohio (at the request of Mr. Hoyer) for today on account 
+of inclement weather in the district.
+  Mr. Kuhl of New York (at the request of Mr. Boehner) for today on 
+account of bad weather.
+
+                          ____________________
+```

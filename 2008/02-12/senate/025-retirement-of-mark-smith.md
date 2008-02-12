@@ -1,0 +1,57 @@
+---
+granule: CREC-2008-02-12-pt1-PgS917-2
+date: 2008-02-12
+edition: CREC
+section: SENATE
+page: S917
+citation: 154 Cong. Rec. S917
+---
+
+# RETIREMENT OF MARK SMITH
+
+**Speaking:** Harkin, Tom (H000206) [D-IA]
+
+```
+                        RETIREMENT OF MARK SMITH
+
+● Mr. HARKIN. Mr. President, today I pay tribute to a very 
+special Iowan and a truly exceptional labor leader, Mark Smith. Mark 
+retired earlier this month after serving 28 years in leadership roles 
+in the Iowa Federation of Labor. He served as secretary-treasurer from 
+1974 until 1997, and as president from 1997 until his retirement. 
+Throughout, he has remained a member of the American Federation of 
+Teachers, Local 716.
+  Prior to coming to the Iowa Federation of Labor, Mark spent 5 years 
+as an instructor at the University of Iowa's Labor Center, where he 
+taught up-and-coming union leaders about labor law, labor history, 
+communication, leadership, economics, and public policy. Mark may have 
+left the classroom, but he never stopped being a teacher and mentor. He 
+has always believed strongly that to achieve real successes for working 
+families and to advance a progressive public policy agenda, it is 
+critical to train people to organize and advocate for themselves.
+  Throughout his distinguished tenure as IFL president, Mark was 
+respected for his keen intelligence and his direct, honest, feisty 
+style of doing business. He understood the political system, and how to 
+get things done. He didn't believe in top-down political engagement; he 
+believed in organizing and empowering people at the grass roots to 
+fight for a brighter future--and to win.
+  Mark is a proud progressive, with a passion for economic and social 
+justice. He is also a passionate believer in bringing people together 
+in collective action, whether in the political arena, at the bargaining 
+table, or in the community. He has devoted his life to building 
+stronger unions because he believes that they are an ideal vehicle for 
+effecting positive change for ordinary people.
+  For many years, I have counted on Mark for his friendship, counsel, 
+and support--and that will not change. But his retirement is a 
+tremendous loss for working families and for the labor movement in 
+Iowa. In the Bible, it says that ``if the trumpet gives an uncertain 
+sound, who will prepare himself for battle?'' For more than a decade as 
+president of the Iowa Federation of Labor, there has been nothing 
+uncertain about Mark Smith's trumpet. He has been a great labor leader, 
+and a strong, unwavering voice for progressive change. I wish him a 
+long and happy retirement with his family, including wife Marty, 
+daughter Christine, sons Michael and Erich, and grandson 
+Isaiah.●
+
+                          ____________________
+```

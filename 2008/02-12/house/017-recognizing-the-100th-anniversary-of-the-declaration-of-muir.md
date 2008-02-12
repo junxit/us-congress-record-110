@@ -1,0 +1,194 @@
+---
+granule: CREC-2008-02-12-pt1-PgH827
+date: 2008-02-12
+edition: CREC
+section: HOUSE
+page: H827
+citation: 154 Cong. Rec. H827
+---
+
+# RECOGNIZING THE 100TH ANNIVERSARY OF THE DECLARATION OF MUIR WOODS NATIONAL MONUMENT
+
+**Speaking:** Grijalva, Raul M. (G000551) [D-AZ], Bishop, Rob (B001250) [R-UT], Woolsey, Lynn C. (W000738) [D-CA], Sanchez, Loretta (S000030) [D-CA]
+
+**Measures:** H.Res. 868, H.R. 868
+
+```
+  RECOGNIZING THE 100TH ANNIVERSARY OF THE DECLARATION OF MUIR WOODS 
+                           NATIONAL MONUMENT
+
+  Mr. GRIJALVA. Mr. Speaker, I move to suspend the rules and agree to 
+the resolution (H. Res. 868) recognizing the 100th anniversary of the 
+declaration of Muir Woods National Monument by President Theodore 
+Roosevelt.
+  The Clerk read the title of the resolution.
+  The text of the resolution is as follows:
+
+                              H. Res. 868
+
+        Whereas Congressman William Kent of California recognized 
+     the transcendent beauty and national significance of the 
+     coastal redwood trees and he set aside his private land for 
+     future generations;
+       Whereas Congressman Kent donated his lands to be known as 
+     Muir Woods in the State of California as the first National 
+     monument, presenting them to the United States Government as 
+     a gift to the people of the United States;
+       Whereas Muir Woods provides a keystone for conservation 
+     stewardship and a rich natural laboratory to explore the 
+     philosophy of its namesake, the admired conservation activist 
+     John Muir;
+       Whereas Muir Woods was recognized 100 years ago to be ``of 
+     extraordinary scientific interest and importance because of 
+     the primeval character of the forest and the character, age 
+     and size of the trees'';
+       Whereas the Kent donation made it possible for President 
+     Theodore Roosevelt to exercise one of the Nation's most 
+     unique preservation tools, the Antiquities Act, by declaring 
+     Muir Woods National Monument for the American people;
+       Whereas Muir Woods National Monument is preserved today 
+     through the dedicated staff and volunteers of the National 
+     Park Service;
+       Whereas on May 19, 1945 international delegates to the 
+     historic Charter Convention of the United Nations met in the 
+     beauty and peace of Muir Wood's Cathedral Grove to open the 
+     convention and honor the memory of the late President 
+     Franklin D. Roosevelt; and
+       Whereas in 1972 Muir Woods National Monument became part of 
+     the Golden Gate National Recreation Area and today attracts 
+     up to a million visitors annually: Now, therefore, be it
+       Resolved, That the United States House of Representatives--
+       (1) recognizes the foresight of President Roosevelt in 
+     using the Antiquities Act in declaring Muir Woods National 
+     Monument;
+       (2) recognizes the 100 years of careful preservation of 
+     America's Coastal Redwood forest within Muir Woods National 
+     Monument; and
+       (3) recognizes the natural and historical importance of the 
+     Muir Woods National Monument in the State of California and 
+     to the Nation.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentleman from 
+Arizona (Mr. Grijalva) and the gentleman from Utah (Mr. Bishop) each 
+will control 20 minutes.
+  The Chair recognizes the gentleman from Arizona.
+
+
+                             General Leave
+
+  Mr. GRIJALVA. Mr. Speaker, I ask unanimous consent that all Members 
+have 5 legislative days to revise and extend their remarks and include 
+extraneous material on the resolution under consideration.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Arizona?
+  There was no objection.
+  Mr. GRIJALVA. Mr. Speaker, I yield myself such time as I may consume.
+  House Resolution 868, introduced by our colleague from California, 
+Representative Lynn Woolsey, recognizes the beauty and the significance 
+of Muir Woods National Monument on its 100th anniversary. Muir Woods 
+National Monument preserves one of the last remaining ancient redwood 
+forests on the Pacific Coast and in the world.
+  The coast redwood is the tallest species of tree in the world and one 
+of the oldest. The mature trees of the Cathedral and Bohemian groves in 
+Muir Woods reach heights of 250 feet and average between 600 and 800 
+years in age, with the oldest believed to be at least 1,100 years old.
+  In 1905, Congressman William Kent, who later went on to introduce the 
+bill that would establish the National Park Service, purchased the land 
+where Muir Woods stands, recognizing the beauty, value, and 
+significance of an uncut, old-growth redwood forest. Eventually, 
+Congressman Kent donated 295 acres to the Federal Government.
+  On January 9, 1908, using the Antiquities Act, President Roosevelt 
+declared Kent's donated land a national monument, proclaiming that the 
+groves of the redwoods were of ``extraordinary scientific interest and 
+importance because of the unique character of the forests and the 
+character, age, and size of the trees.''
+  President Roosevelt wanted to name the new monument for Congressman 
+Kent, but Kent insisted that it be named after the venerable 
+conservationist John Muir, who sought to protect some of America's most 
+iconic landscapes for their inherent national beauty. These ancient 
+trees now offer a silent, yet powerful, testimony to Muir's ideals.
+  Mr. Speaker, I commend and congratulate my colleague Representative 
+Woolsey, for her commitment and leadership on this matter. We strongly 
+support passage of House Resolution 868 and urge its adoption by the 
+House today.
+
+[[Page H828]]
+
+  Mr. Speaker, I reserve the balance of my time.
+
+                              {time}  1500
+
+  Mr. BISHOP of Utah. Mr. Speaker, the gentleman from Arizona has 
+adequately explained the bill.
+  I reserve the balance of my time.
+  Mr. GRIJALVA. Mr. Speaker, I yield such time as she may consume to 
+the gentlewoman from California (Ms. Woolsey), the sponsor of the bill.
+  Ms. WOOLSEY. Mr. Speaker, my district, just across the Golden Gate 
+Bridge north of San Francisco, includes 100 percent of Marin County and 
+80 percent of Sonoma County, where we are blessed with many 
+environmental treasures. In fact, it is one of the most beautiful 
+places on Earth, and it is just across the bridge from one of the 
+largest cities in our country.
+  In this area we have a stand of old-growth redwoods known as Muir 
+Woods, and we consider this our crown jewel. Muir Woods is nearly 300 
+acres of what I refer to as ``Heaven on Earth'' where its natural 
+beauty has been preserved and protected for everyone to enjoy so that 
+we can enjoy the trees, which are mostly redwoods that stand over 250 
+feet tall and are, as the chairman just told you, as old as 1,100 
+years. That is why I am so pleased that Congress is considering H. Res. 
+868 today, to celebrate the 100th anniversary of President Teddy 
+Roosevelt's declaration of Muir Woods as a national monument.
+  It is fitting that we honor the centennial of Muir Woods on the floor 
+of the House of Representatives, because it was the actions of 
+Congressman William Kent who represented Marin County at that time who 
+made the national monument possible. William Kent privately owned the 
+land where Muir Woods now stands, and he and his family donated it to 
+the Federal Government to ensure its protection. I am proud to say that 
+100 years later Congressman Kent's vision is still going strong.
+  The leadership in conservation that William Kent showed 100 years ago 
+is a valuable lesson for us today. Imagine all the national wonder that 
+could have been saved in the last 100 years, wonders like Muir Woods, 
+that we could be enjoying today had more people been as selfless as he. 
+We in Congress have the power to ensure that 100 years from now people 
+can look back and applaud new conservation efforts.
+  Mr. Speaker, Muir Woods is a unique sanctuary for the protection of 
+one of Earth's greatest wonders, the coastal redwoods; and its 
+preservation is to be commended. I want to thank Chairman Rahall, 
+Chairman Grijalva, Ranking Member Young, and Mr. Bishop for bringing my 
+resolution here to the floor today, because working together, Mr. 
+Speaker, working together today, we will ensure that 100 years from now 
+our grandchildren, our great grandchildren and their children will 
+enjoy the Muir Woods bicentennial.
+  Ms. LORETTA SANCHEZ of California. Mr. Speaker, I rise in strong 
+support of H.R. 868, honoring the 100 year anniversary of the Muir 
+Woods National Monument.
+  Throughout his life, John Muir was concerned with protecting nature 
+to enhance the spiritual side of civilization and progress. His words 
+and deeds led to the establishment of the U.S. National Park System. In 
+addition, John Muir was the founding president of the Sierra Club, 
+which remains one of the leading American grassroots organization for 
+protecting wilderness and the human environment.
+  On January 9, 1908, President Theodore Roosevelt declared the Muir 
+Woods America's 10th National Monument. When he heard of President 
+Roosevelt's act Muir wrote, ``This is the best tree-lover's monument 
+that could possibly be found in all the forests of the world.''
+  Today, Muir Woods attracts about 1 million people every year, and 
+inspires them with redwoods over 260 feet high and more than 1,200 
+years old. Part of the Golden Gate National Parks, Muir Woods is a 
+living and enduring symbol of John Muir's conservation ethic that 
+nature must be preserved if humanity is to continue to thrive on this 
+planet.
+  I urge my colleagues to support this resolution, and honor the legacy 
+of a great American, his vision of environmental conservation, and the 
+truly remarkable Muir Woods National Monument.
+  Mr. BISHOP of Utah. Mr. Speaker, I yield back the balance of my time.
+  Mr. GRIJALVA. Mr. Speaker, I yield back the remainder of our time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from Arizona (Mr. Grijalva) that the House suspend the rules 
+and agree to the resolution, H. Res. 868.
+  The question was taken; and (two-thirds being in the affirmative) the 
+rules were suspended and the resolution was agreed to.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```

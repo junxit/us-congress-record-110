@@ -1,0 +1,295 @@
+---
+granule: CREC-2008-02-12-pt1-PgH840
+date: 2008-02-12
+edition: CREC
+section: HOUSE
+page: H840
+citation: 154 Cong. Rec. H840
+---
+
+# PRIVATE JOHNATHON MILLICAN LULA POST OFFICE
+
+**Speaking:** Butterfield, G. K. (B001251) [D-NC], Shays, Christopher (S001144) [R-CT], Deal, Nathan (D000168) [R-GA], Bachus, Spencer (B000013) [R-AL]
+
+**Measures:** H.R. 3532
+
+```
+              PRIVATE JOHNATHON MILLICAN LULA POST OFFICE
+
+  Mr. BUTTERFIELD. Mr. Speaker, I move to suspend the rules and pass 
+the bill (H.R. 3532) to designate the facility of the United States 
+Postal Service located at 5815 McLeod Street in Lula, Georgia, as the 
+``Private Johnathon Millican Lula Post Office''.
+  The Clerk read the title of the bill.
+  The text of the bill is as follows:
+
+                               H.R. 3532
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. PRIVATE JOHNATHON MILLICAN LULA POST OFFICE.
+
+       (a) Designation.--The facility of the United States Postal 
+     Service located at 5815 McLeod Street in Lula, Georgia, shall 
+     be known and designated as the ``Private Johnathon Millican 
+     Lula Post Office''.
+       (b) References.--Any reference in a law, map, regulation, 
+     document, paper, or other record of the United States to the 
+     facility referred to in subsection (a) shall be deemed to be 
+     a reference to the ``Private Johnathon Millican Lula Post 
+     Office''.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentleman from 
+North Carolina (Mr. Butterfield) and the gentleman from Connecticut 
+(Mr. Shays) each will control 20 minutes.
+  The Chair recognizes the gentleman from North Carolina.
+
+
+                             General Leave
+
+  Mr. BUTTERFIELD. Mr. Speaker, I ask unanimous consent that all 
+Members may have 5 legislative days in which to revise and extend their 
+remarks.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from North Carolina?
+  There was no objection.
+
+                              {time}  1615
+
+  Mr. BUTTERFIELD. Mr. Speaker, I'm pleased to join my colleagues today 
+in the consideration of H.R. 3532 which seeks to name a postal facility 
+in Lula, Georgia, after Private Johnathon Millican, a distinguished and 
+heroic American serviceman.
+  H.R. 3532, which was introduced by Representative Deal of Georgia, 
+was introduced on September 14, 2007, and was considered and reported 
+by the Oversight Committee on January 29, 2008, by a voice vote.
+  This measure has the support of the entire congressional delegation 
+from the State of Georgia and provides us with yet another opportunity 
+to pay tribute to a member of our country's armed service.
+  Johnathon Millican served his country proudly as a member of an 
+airborne artillery brigade based out of Fort Richardson in Anchorage, 
+Alaska, where I was a few weeks ago, and it is very cold out there, Mr. 
+Speaker.
+  Private Millican gave his life in his service to our country when, on 
+January 20, 2007, his unit was attacked by enemy insurgents in Karbala, 
+Iraq. While Private Millican was only 20 years old when he lost his 
+life in the line of duty, his service and faithful commitment to 
+preserving the liberties and freedoms on which our Nation is built are 
+sure to live on forever.
+  Mr. Speaker, let's remember and pay tribute to the ultimate sacrifice 
+made by Private Millican. I urge the swift passage of this bill.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. SHAYS. Mr. Speaker, a mere 20 years old, Private First Class 
+Johnathon Millican of Trafford, Alabama, displayed wisdom beyond his 
+years when he once said, ``You don't have to love the war, but you have 
+to love the warrior.''
+  It is an honor for me to speak today about Private Millican, a true 
+American hero who epitomizes bravery and loyalty to his country and 
+fellow comrades.
+  Soon after graduating high school in 2005, Johnathon Millican 
+enlisted into the Army and was assigned to the 377th Parachute Field 
+Artillery Regiment from Fort Richardson, Alaska. In Karbala, Iraq, on 
+January 20, 2007, Private Millican was off duty in a communications 
+room talking with his wife, Shannon, when an attack started. The 
+attackers fired several rounds and a grenade into the room, and 
+tragically, he and four fellow officers lost their lives. Private 
+Millican had been in Iraq for just 3 months.
+  Family and friends will forever remember Johnathon Millican's 
+dedication to the cause of freedom and his commitment to bringing that 
+cherished freedom to the people around the world where he served. It is 
+with gratitude for his bravery and sacrifice and for the sacrifice of 
+those who loved him that I ask all Members to join me in naming the 
+Lula, Georgia, postal facility located on McLeod Street in his honor.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. BUTTERFIELD. Mr. Speaker, I don't have any additional speakers. I 
+will reserve the balance of my time.
+  Mr. SHAYS. Mr. Speaker, at this time it is my privilege to recognize 
+the very distinguished Member from Georgia (Mr. Deal) for as much time 
+as he would consume.
+  Mr. DEAL of Georgia. Mr. Speaker, I rise today to honor the memory of 
+Army Private First Class Johnathon Miles Millican, dedicating the 
+United States Post Office located in Lula, Georgia, as the ``Private 
+Johnathon Millican Lula Post Office.''
+  Twenty-year-old Private First Class Johnathon Millican, a Hall 
+County, Georgia, native, was killed by insurgents in Iraq while 
+conducting a dismounted operation in Karbala on January 20, 2007. 
+Private First Class Millican was off duty in a communications room 
+talking with his wife when the attackers fired several rounds into the 
+room with an AK-47 and one of them tossed in a concussion grenade. 
+Courageously, he covered the grenade with his body, attempting to 
+protect his comrades from the enemy intrusion. Private First Class 
+Johnathon Millican was later awarded the Silver Star Medal of Honor for 
+his courage, valor, and dedication for his fellow soldiers.
+  Johnathon Millican had attended Lula Elementary, East Hall Middle 
+School, and East Hall High school in my home County of Hall. While in 
+high school, Johnathon was active in the community, working the 
+concessions stand at the community ballpark and coaching a 5-year-old 
+T-Ball team. After graduating from high school in 2005, he moved to 
+Locust Grove, Alabama, before enlisting in the Army. Johnathon was a 
+member of the 377th Parachute Field Artillery Regiment from Fort 
+Richardson, Alaska. Johnathon Millican left behind his wife, Shannon; 
+his parents, Mitchell and Angie Millican; and Mary and Ronald Lykins 
+and sisters, Amber'le, Ashley, and Amanda.
+  Mr. Speaker, I'm proud to rise today to pay tribute to this 
+courageous young man and to join my constituents
+
+[[Page H841]]
+
+of Lula, Georgia, in naming the ``Private Johnathon Millican Post 
+Office.'' This honor will serve as a lasting reminder of the true 
+recognition that is deserving of a fallen hometown hero who sacrificed 
+his life to save the lives of his fellow soldiers.
+  Mr. Speaker, I include for the Record a copy of the letter from Mr. 
+Milton Turner, the Mayor of the City of Lula, requesting that this post 
+office be named the ``Private Johnathon Millican Lula Post Office.''
+
+                                                 City of Lula,
+
+                                        Lula, GA, August 20, 2007.
+     Subject: Consideration of Honorarium for PFC Johnathon 
+         Millican.
+
+     Congressman Nathan Deal,
+     Wachovia Center, Jesse Jewell Parkway, Gainesville, GA.
+       Dear Congressman Deal: This letter represents the request 
+     of the City of Lula to recognize and honor the sacrifice and 
+     contributions made by a local young man, a fallen hero, 
+     Private First Class Johnathon Millican with the recognition 
+     and honor of his service and dedication to his country the 
+     naming of the Lula Post Office located on McLoud Street. Our 
+     20-year-old young hero (a Hall County Native), was killed by 
+     insurgents in Iraq on Jan. 20, he had covered an enemy 
+     concussion grenade with his body attempting to protect his 
+     comrades from the enemy intrusion and was one of five U.S. 
+     soldiers killed during the attack in Karbala.
+       Johnathon had attended Lula Elementary and East Hall Middle 
+     School and High School only recently moving to Locust Grove 
+     Alabama before enlisting in the Army. Millican was a member 
+     of the 377th Parachute Field Artillery Regiment from Fort 
+     Richardson, Alaska.
+       PFC Millican was off duty in a communications room 
+     exchanging e-mails with his wife when the Jan. 20 attack 
+     started. The attackers fired several rounds into the room 
+     with an AK47 and one of them tossed in a grenade. In an 
+     earlier interview, Mitchell Millican told The Birmingham News 
+     his son was on one knee facing the door ``ready to shoot'' at 
+     that point and ``He could just as easily have jumped behind a 
+     desk or ducked down or whatever, but he chose to cover the 
+     grenade'' Mitchell Millican said ``and, to me, that shows 
+     character''.
+       We know of your commitment to our service men and woman and 
+     know how moved you were at his loss; this honor would help to 
+     establish the true recognition deserving of a fallen hero. 
+     Also we would encourage your efforts to move forward the 
+     campaign to have the pentagon award PFC J. Millican with the 
+     ``Medal of Honor'' a process which we realize could take 
+     months or even years.
+       Further we hope to have the opportunity in the near future 
+     to honor Jonathon's heroics here in Hall County and depending 
+     on your guidance will await some possible timetable for 
+     suggested dedication. Please advise the city of your schedule 
+     allowing your attendance and participation.
+           Best regards,
+                                              Mayor Milton Turner.
+
+  Mr. BACHUS. Mr. Speaker, it is my honor to express my full support 
+for H.R. 3532, naming the Federal post office in Lula, Georgia, in 
+honor of PFC Johnathon Millican. It is a fitting tribute to a brave 
+solider.
+  This recognition from the community where Johnathon spent his boyhood 
+comes in addition to the inspiring ceremony held last July 28 at Locust 
+Fork High School in Alabama, where Johnathon received his diploma. It 
+was my great privilege to participate in the ceremony, in which 
+Johnathon's wife and father were presented with his posthumous Silver 
+Star award.
+  Johnathon's actions during the raid on Karbala on January 20, 2007 
+are the embodiment of the scriptural passage that says there is no 
+greater love for a man than to lay down his life for his friends. His 
+valor saved the lives of his fellow soldiers, and he died defending 
+freedom.
+  At this time, allow me to introduce the remarks I made during the 
+ceremony into the Record.
+
+       The actions of Johnathon Millican embody the same 
+     scriptural passage that we've heard at funerals of many of 
+     our veterans. It is: Greater love has no man than this, that 
+     one lay down his life for his friends.
+       Johnathon's life was short, but his legacy will stand.
+       His father shared with me a conversation he had with 
+     Johnathon just before he graduated here. Many of Johnathon's 
+     classmates were planning for college. Others had lined up a 
+     job. Still others were talking about how they were going to 
+     spend their summers, the things they were going to do.
+       Johnathon had already made another decision. He was going 
+     to enlist in the Army. The call to duty to serve his country 
+     was strong in the aftermath of 9/11.
+       Johnathon knew there would be personal sacrifices involved. 
+     He knew the fight would not be easy. In fact, his father 
+     reminded him that it could be dangerous. Johnathon accepted 
+     that. But Johnathon believed in the mission. From Iraq, he 
+     posted an observation on the Internet which I wish everyone 
+     in this country would observe.
+       The quote is, ``You don't have to love the war but you have 
+     to love the warrior.''
+       One definition of warrior is ``someone notable strength of 
+     spirit.''
+       Johnathon resoundingly demonstrated those qualities this 
+     past January 20th, when insurgents broke into the government 
+     compound in Karbala.
+       I think it is Johnathon's valor and our concern for all our 
+     young men and women in the field that brings us together. The 
+     Silver Star Award has given each and every one of us an 
+     opportunity to thank Johnathon and his family in a tangible 
+     way for his service and his courage. I very much appreciate 
+     each and every one of you who have come out this morning to 
+     show your love, your compassion, and your gratitude to 
+     Johnathon and his family.
+       It's a struggle to find the right words at a time like 
+     this. I think it's best to go to the soldiers in the field. 
+     Let me read from the email sent to me this week from Iraq by 
+     Captain Tom Morris, who was Johnathon's commanding officer.
+       ``As a commander of troops in combat, losing your soldiers 
+     is harder than losing family members. Speaking at Johnathon's 
+     memorial service was the hardest thing I ever had to do.
+       ``It brings me great pleasure to know that he is being 
+     awarded the Silver Star and that there will be a memorial at 
+     his high school in his honor. I believe the most important 
+     thing to do is to tell his story to those who do not know it, 
+     especially those who attend his school.
+       ``I will always remember him, especially his deep southern 
+     accent and that he was a country boy who was the toughest 
+     there was and that nothing really bothered him. I can only 
+     hope that I can be as strong, both mentally and physically, 
+     as he was.
+       ``He will be missed, but never forgotten. He was my 
+     soldier, friend, and fellow paratrooper.''
+       ``Hero'' is an overused word these days. It's used to 
+     describe a TV actor or football player. There is a difference 
+     between fame and worthy accomplishment.
+       The reason we need to tell Johnathon's story is so people, 
+     especially our young men and women and boys and girls, do 
+     understand the difference between celebrity and heroism. The 
+     students who go past the memorial here at Locust Fork High 
+     School will know that a real hero walked their halls.
+       To conclude, a passage from Corinthians (16:13) is 
+     appropriate for Johnathon and all of the soldiers who protect 
+     us. It reads:
+       ``Be on your guard, stand firm in the faith, be men of 
+     courage, be strong.''
+       These words apply perfectly to Johnathon, and why he is 
+     deserving of the Silver Star being presented to his family 
+     today.
+
+  Mr. BUTTERFIELD. Mr. Speaker, I don't have any additional speakers. I 
+yield back the balance of my time.
+  Mr. SHAYS. I yield back the balance of my time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from North Carolina (Mr. Butterfield) that the House suspend 
+the rules and pass the bill, H.R. 3532.
+  The question was taken; and (two-thirds being in the affirmative) the 
+rules were suspended and the bill was passed.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```
