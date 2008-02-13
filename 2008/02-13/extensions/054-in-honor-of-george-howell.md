@@ -1,0 +1,63 @@
+---
+granule: CREC-2008-02-13-pt1-PgE184-3
+date: 2008-02-13
+edition: CREC
+section: EXTENSIONS
+page: E184
+citation: 154 Cong. Rec. E184
+---
+
+# IN HONOR OF GEORGE HOWELL
+
+**Speaking:** Farr, Sam (F000030) [D-CA]
+
+```
+                       IN HONOR OF GEORGE HOWELL
+
+                                 ______
+                                 
+
+                             HON. SAM FARR
+
+                             of california
+
+                    in the house of representatives
+
+                      Wednesday, February 13, 2008
+
+  Mr. FARR. Madam Speaker, I rise today to honor a father, husband, and 
+soldier who made the ultimate sacrifice in service of the Nation. U.S. 
+Army PFC George Howell was from the small rural central California 
+community of Prunedale. He was a humble man who devoted his life to his 
+family.
+  George enlisted into the Army in June 2007, and was deployed to Iraq 
+in September 2007, where he fought valiantly as an infantry soldier in 
+the 10th Mountain Division. He fought not only to give freedom to the 
+people of Iraq, but to offer a better life to his family. He was a 
+soldier who rose to defend his country and a young father who rose to 
+provide for his young children. He dedicated his life so that others 
+can live in a future filled with hope.
+  On December 21, 2007, George was fatally wounded when his unit was 
+attacked while on patrol in northern Iraq. He was laid to rest with 
+full military honors at Arlington National Cemetery on January 25. 
+2008. George was awarded a Purple Heart and the Army Service Ribbon for 
+his courageous service. These awards depict the greatness of this fine 
+soldier and symbolize the sincere gratitude of this country. Moreover, 
+George's life has inspired the lives of others and has united a 
+community. This soldier, father, and husband shall he remembered for 
+his caring, altruistic life.
+  Held closest to George's heart is the love and support of his wife. 
+and partner, Kristen, and his two young children, Niya, Raiden, and his 
+yet to be born child. His dream and lifework was his family, and he 
+fought to offer them a life filled with limitless opportunity. In the 
+future, his family will experience the dream their father has waiting 
+for them.
+  Madam Speaker, I know that I speak for the whole House in extending 
+our deepest sympathies to PFC George Howell's family. While we praise 
+his service and sacrifice for his country, we must never forget the 
+deep personal tragedy of a wife losing her husband and of children 
+losing their father. They are all great American heroes who deserve 
+this Nation's recognition, gratitude, and support.
+
+                          ____________________
+```

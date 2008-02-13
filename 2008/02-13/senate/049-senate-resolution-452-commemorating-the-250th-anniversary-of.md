@@ -1,0 +1,99 @@
+---
+granule: CREC-2008-02-13-pt1-PgS985
+date: 2008-02-13
+edition: CREC
+section: SENATE
+page: S985
+citation: 154 Cong. Rec. S985
+---
+
+# SENATE RESOLUTION 452--COMMEMORATING THE 250TH ANNIVERSARY OF THE NAMING OF PITTSBURGH AS THE CULMINATION OF THE FORBES CAMPAIGN ACROSS PENNSYLVANIA AND THE SIGNIFICANCE THIS EVENT PLAYED IN THE...
+
+**Measures:** S.Res. 452
+
+```
+   SENATE RESOLUTION 452--COMMEMORATING THE 250TH ANNIVERSARY OF THE 
+ NAMING OF PITTSBURGH AS THE CULMINATION OF THE FORBES CAMPAIGN ACROSS 
+ PENNSYLVANIA AND THE SIGNIFICANCE THIS EVENT PLAYED IN THE MAKING OF 
+   AMERICA, IN THE SETTLEMENT OF THE CONTINENT, AND IN SPREADING THE 
+          IDEALS OF FREEDOM AND DEMOCRACY THROUGHOUT THE WORLD
+
+  Mr. SPECTER (for himself and Mr. Casey) submitted the following 
+resolution; which was considered and agreed to:
+
+                              S. Res. 452
+
+       Whereas the Forks of the Ohio at today's Pittsburgh should 
+     forever be remembered as the place where an army of British 
+     and Colonial soldiers took control of Fort Duquesne from the 
+     French, a turning point in the French and Indian War, the 
+     first world war;
+       Whereas the British victory in the French and Indian War 
+     sowed the seeds of Colonial discontent with British rule, 
+     beginning the chain of events that led to the American 
+     Revolution;
+       Whereas the British Army under the leadership of General 
+     John Forbes built the first road across the Allegheny 
+     Mountains, thus securing the Gateway to the West for British 
+     and later American settlement;
+       Whereas General Forbes and Colonel George Washington named 
+     the location Pittsburgh, in honor of William Pitt the Elder;
+       Whereas Fort Pitt provided a safe haven for peoples from 
+     around the world to follow in Forbes' and Washington's 
+     footsteps to travel to Pittsburgh to settle the continent and 
+     to pioneer advancements in industry, science, technology, 
+     education, the environment, and the arts;
+       Whereas Pittsburgh went on to become the Crucible of the 
+     Industrial Revolution, producing glass, steel, and aluminum 
+     that have a place in every skyline in the United States, and 
+     perfecting the technologies that made it possible for 
+     alternating current to illuminate the Nation;
+       Whereas the people of the Pittsburgh region pioneered 
+     modern philanthropy, implemented the first smoke control 
+     regulation, developed the polio vaccine, and conquered 
+     rejection of transplanted organs, improving countless lives 
+     worldwide;
+       Whereas Pittsburgh is today a global leader in such 
+     emerging fields as materials science, regenerative medicine, 
+     nanotechnology, electro-optics, robotics, data storage, 
+     computer science, and commercial nuclear power;
+       Whereas Pittsburgh is home to more than 100 multi-billion 
+     dollar global corporations that improve the lives of people 
+     around the world;
+       Whereas Pittsburgh provides a high quality of life to its 
+     residents, offering unparalleled arts and cultural 
+     opportunities for a city of its size;
+       Whereas, in 2007 and in 1985, Pittsburgh was named 
+     America's Most Livable City, the only city in the United 
+     States to earn that honor twice;
+       Whereas Pittsburgh is commemorating its naming and its 
+     impact on the world with Pittsburgh 250, a year-long 
+     celebration involving communities in 14 Pennsylvania 
+     counties, parts of 7 States, and the District of Columbia;
+       Whereas Pittsburgh 250 has connected Washington, DC to 
+     Pittsburgh by supporting the completion of the Great 
+     Allegheny Passage Trail, the longest hiking and biking trail 
+     east of the Mississippi and the most accessible great trail 
+     experience in the world, providing an important new outdoor 
+     recreational asset to the people of the Mid-Atlantic United 
+     States; and
+       Whereas Pittsburgh has accomplished all of these things 
+     with an unparalleled history of public and private 
+     partnership: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) recognizes the 250th anniversary of the Naming of 
+     Pittsburgh, known as a significant event in United States 
+     history;
+       (2) recognizes that Pittsburgh 250 is organizing the 
+     commemoration on behalf of 14 counties in southwestern 
+     Pennsylvania;
+       (3) encourages participation for all Americans to learn how 
+     the Forbes Campaign, the opening of the Gateway to the West, 
+     the industrialization of America, and the environmental 
+     transformation of Pittsburgh helped to make America; and
+       (4) commends the contributions of those who have followed 
+     trails to Pittsburgh for 250 years to shape the world we live 
+     in and the Nation we have become.
+
+                          ____________________
+```
