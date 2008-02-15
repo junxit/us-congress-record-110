@@ -1,0 +1,36 @@
+---
+granule: CRECB-2008-pt2-Pg2341-2
+date: 2008-02-15
+edition: CRECB
+section: HOUSE
+page: 2341
+---
+
+# PUBLIC BILLS AND RESOLUTIONS
+
+```
+                      PUBLIC BILLS AND RESOLUTIONS
+
+  Under clause 2 of rule XII, public bills and resolutions were 
+introduced and severally referred, as follows:
+
+           By Ms. BORDALLO (for herself and Ms. Ros-Lehtinen):
+       H. Con. Res. 300. Concurrent resolution recognizing the 
+     necessity for the United States to maintain its significant 
+     leadership role in improving the health and promoting the 
+     resiliency of coral reef ecosystems, and for other purposes; 
+     to the Committee on Natural Resources.
+           By Mr. KIRK (for himself, Mr. Tanner, and Mr. Lampson):
+       H. Con. Res. 301. Concurrent resolution encouraging the 
+     United States Geological Survey, the National Science 
+     Foundation, and the Department of Defense to support a 
+     recovery mission for the human remains of the crew killed in 
+     the George One crash in Antarctica, and for other purposes; 
+     to the Committee on Armed Services, and in addition to the 
+     Committees on Science and Technology, and Natural Resources, 
+     for a period to be subsequently determined by the Speaker, in 
+     each case for consideration of such provisions as fall within 
+     the jurisdiction of the committee concerned.
+
+                          ____________________
+```
