@@ -1,0 +1,80 @@
+---
+granule: CREC-2008-02-19-pt1-PgE212-3
+date: 2008-02-19
+edition: CREC
+section: EXTENSIONS
+page: E212
+citation: 154 Cong. Rec. E212
+---
+
+# THE STUDENT VETERAN FINANCIAL AID FAIRNESS ACT
+
+**Speaking:** Mitchell, Harry E. (M001167) [D-AZ]
+
+```
+             THE STUDENT VETERAN FINANCIAL AID FAIRNESS ACT
+
+                                 ______
+                                 
+
+                         HON. HARRY E. MITCHELL
+
+                               of arizona
+
+                    in the house of representatives
+
+                       Tuesday, February 19, 2008
+
+  Mr. MITCHELL. Madam Speaker, earlier today I introduced the Student 
+Veteran Financial Aid Fairness Act, a bill to exempt service-connected 
+education benefits from being figured into a veteran's financial aid 
+needs.
+  This Congress has made education one of its top priorities. Last 
+session, I proudly supported the College Cost Reduction and Access Act, 
+which lowers student loan interest rates and increases Pell grants. 
+This is an important step toward making a higher education affordable 
+for all students. I was happy to see the President sign it into law.
+  Just last week, we continued our commitment to make a higher 
+education more affordable by passing the College Opportunity and 
+Affordability Act. Again, I proudly supported this legislation and was 
+particularly pleased to support the important resources it provides for 
+student veterans.
+  As a Member of the House Veterans' Affairs Committee, I have spoken 
+to many veterans from my home State of Arizona and all around the 
+country. These veterans have told me about the difficulties they face 
+in readjusting to civilian life and they have consistently told me that 
+the college environment is a good way to ease that transition.
+  Many student veterans are under different pressures than their non-
+veteran peers in college. Some have families of their own, some have 
+full-time jobs, and most are a good deal older than the other students 
+on campus. Additionally, many veterans, especially from the wars in 
+Iraq and Afghanistan, are coping with injuries like post traumatic 
+stress disorder and traumatic brain injury.
+  And making matters worse, the rising cost of higher education is 
+making it more difficult for veterans to go to college.
+  We promised a higher education to our servicemembers when they joined 
+and it is our responsibility to see that they get it when they become 
+veterans.
+  This is not the case, right now. When a veteran applies for financial 
+aid using the FAFSA,
+
+[[Page E213]]
+
+their G.I. Bill benefits are considered resources, which are then 
+counted against the amount of aid they can receive. My bill would fix 
+that problem and ensure that the G.I. Bill is used as intended, a 
+benefit for military service, as opposed to a means to reduce the 
+amount of student aid our veterans can receive.
+  The current law prevents student veterans from taking full advantage 
+of Stafford and Perkins Loans, Pell Grants, and Federal Work-study. I 
+believe it is critical that we continue to fight for college 
+affordability, especially when it comes to providing for our veterans.
+  I think it is wrong to judge the needs of our veterans with the same 
+standard as other students without military service.
+  I know Mr. Filner, the Chairman of the House Veterans' Affairs 
+Committee, has made it a priority to reform the G.I. Bill this session, 
+but in the mean time, it is important that we work together as a 
+Congress to fix this financial aid problem.
+
+                          ____________________
+```
