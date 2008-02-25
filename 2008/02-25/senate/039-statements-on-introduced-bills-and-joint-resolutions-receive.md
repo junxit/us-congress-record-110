@@ -1,0 +1,132 @@
+---
+granule: CRECB-2008-pt2-Pg2390
+date: 2008-02-25
+edition: CRECB
+section: SENATE
+page: 2390
+---
+
+# STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS RECEIVED DURING RECESS
+
+```
+ STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS RECEIVED DURING 
+                                 RECESS
+
+      By Mr. SALAZAR:
+  S. 2656. A bill to prohibit the transport of hydrolysate from the 
+Pueblo Chemical Depot, Colorado, to an off-site location; to the 
+Committee on Armed Services under authority of the order of the Senate 
+of 02/14/2008.
+  Mr. SALAZAR. Mr. President, I rise today to introduce legislation 
+that will help us achieve swift and safe destruction of the chemical 
+weapons stored at the Pueblo Chemical Depot in Colorado. Congressman 
+John Salazar and Congressman Mark Udall are introducing similar 
+legislation today in the House.
+  The Pueblo Chemical Depot is home to 780,000 munitions filled with 
+over 2,600 tons of liquid mustard agent--around 8.5 percent of the 
+original U.S. chemical stockpile. The munitions sit in 96 high security 
+igloos as they await disassembly and destruction.
+  The congressionally ratified Chemical Weapons Convention mandates 
+that these munitions be destroyed by 2012. Unfortunately, the 
+Department of Defense is woefully behind in fulfilling its 
+responsibilities because it consistently underfunds a program that is 
+essential to our national security and to the safety of nearby 
+communities.
+  Every year we have to fight to put money back into the Assembled 
+Chemical Weapons Alternatives, ACWA, program, the authority that is 
+overseeing the destruction operation at Pueblo and at the Blue Grass 
+Army Depot, in Kentucky. But, thanks to Congressional intervention, we 
+have succeeded in getting the program moving. Last year Congress 
+allocated over $400 million for weapons destruction at the Pueblo 
+Chemical Depot and the Blue Grass Army Depot. I want to thank Chairman 
+Levin and Ranking Member McCain of the Armed Services Committee, 
+Chairman Inouye and Ranking Member Stevens of the Defense 
+Appropriations Subcommittee, and Chairman Dorgan and Ranking Member 
+Hutchison of the Military Construction and Veterans Affairs 
+Appropriations Subcommittee for all their help.
+  If you visit the Pueblo Chemical Depot today, you will see that 
+contractors have begun to lay the utilities and foundations for the 
+processing facility that will treat the agent. And you will see that 
+they have begun construction of the biotreatment facility, which will 
+treat the hydrolysate that is the byproduct of the mustard 
+neutralization process. It is a welcome sight to finally see earth 
+moving. In addition to the funding that Congress restored in fiscal 
+year 2008 for chemical weapons destruction, we also passed legislation 
+to set a hard deadline of 2017 for the Department of Defense to 
+complete all chemical weapons destruction activities.
+  It is no secret that DOD is going to miss the 2012 treaty deadline 
+for weapons destruction at Pueblo. That's what happens when you drag 
+your feet and fail to put adequate resources behind a program. But the 
+law we passed last year says that even if they miss the 2012 deadline, 
+the Department of Defense shall complete work on the destruction of the 
+entire stockpile of lethal chemical agents and munitions absolutely no 
+later than 2017. Every six months, the department has to report to 
+Congress on the progress they are making, what resources are needed, 
+and how much funding is programmed to fulfill this requirement.
+  For those of us who have been fighting this fight for the Pueblo 
+site, the hard deadline of 2017 is a dramatic improvement. At the pace 
+that we were moving under administration's funding projections last 
+year, destruction activities there were expected to be completed 
+sometime in 2021.
+  This is absurd, especially with DOD's own admission that with higher 
+funding levels they could complete destruction at Pueblo a full five 
+years earlier than that.
+  I am proud that this 2017 deadline has been signed into law and I 
+look forward to working with the Department of Defense to ensure that 
+the U.S. Government meets this legal obligation.
+  Unfortunately, we still have more work to do to see that these 
+chemical weapons are destroyed as swiftly and safely as possible. For 
+one thing, we will have to continue to hold DOD's feet to the fire to 
+ensure that they are devoting adequate resources to chemical weapons 
+destruction.
+  We will also have to work to help make the chemical weapons 
+destruction process proceed as smoothly, safely, and expeditiously as 
+possible. This means watching to make sure that DOD does not get bogged 
+down in bureaucracy or red tape that could cause delays.
+  There is a real danger of this at the Pueblo Site, where the 
+Department of Defense is yet again studying whether it should ship 
+hydrolysate, a byproduct of neutralizing mustard agent, to an off-site 
+location for destruction. Hydrolysate is a hazardous waste that must be 
+subjected to a biotreatment process to make it non-hazardous.
+  At Pueblo, they have already begun construction of an on site 
+biotreatment facility to neutralize the hydrolysate. This is great 
+news. It is the simplest solution and, according to two recent studies, 
+the fastest way to treat all the hydrolysate.
+  These two studies, completed in 2007, both concluded that shipping 
+hydrolysate off-site would yield few, if any, cost-savings and would 
+likely result in litigation, strong public opposition, and potential 
+delays to chemical weapons destruction. An analysis conducted by 
+Mitretek found that ``a decision for off-site treatment will probably 
+result in litigation of the CD at Pueblo, resulting in extensive 
+delays. Every
+
+[[Page 2391]]
+
+month of delay costs roughly $15-$16 million. Any delay over 6 months, 
+regardless of cause, would be expected to erase all possible savings, 
+even under the most optimistic assumptions.''
+  The report by Lean Six Sigma concluded that off-site destruction 
+would actually cost more and could result in as much as a five-year 
+delay in chemical weapons destruction at Pueblo.
+  Given the conclusions of these recent studies on hydrolysate 
+destruction, I am perplexed that the Department is conducting yet 
+another study on the potential cost savings of hydrolysate destruction. 
+It is unclear to me what questions remain unanswered. These studies 
+clearly show that shipping hydrolysate off-site raises risks of 
+permitting delays or litigation. With a 2017 deadline to meet, the 
+Department of Defense can't afford a permitting delay that sets the 
+project off course.
+  The bill I am introducing today is very simple. It prohibits the 
+Secretary of Defense from shipping hydrolysate at the Pueblo Chemical 
+Depot off-site for treatment. This will ensure that DOD can continue to 
+proceed on its current path toward treating hydrolysate on-site. It 
+will help the U.S. Government meet its legal obligation to complete 
+chemical weapons destruction by 2017. And it will provide some 
+certainty to the communities that have waited so long for these 
+chemical weapons to be safely destroyed.
+  We need to put this potentially costly and dilatory issue behind us 
+and proceed with the safe and swift destruction of our Nation's 
+stockpile of chemical weapons.
+
+                          ____________________
+```
