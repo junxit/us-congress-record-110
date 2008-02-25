@@ -1,0 +1,67 @@
+---
+granule: CREC-2008-02-25-pt1-PgS1117-2
+date: 2008-02-25
+edition: CREC
+section: SENATE
+page: S1117
+citation: 154 Cong. Rec. S1117
+---
+
+# RECOGNIZING THE LADY BULLDOGS
+
+**Speaking:** Thune, John (T000250) [R-SD]
+
+```
+                     RECOGNIZING THE LADY BULLDOGS
+
+● Mr. THUNE. Mr. President today I wish to honor the Madison 
+High School gymnastics team for winning their 14th consecutive South 
+Dakota State Gymnastics title and breaking the national record for most 
+consecutive State gymnastics team titles. This is truly an impressive 
+accomplishment, and I am proud to have such fine athletes representing 
+the State of South Dakota.
+  Last year, the Madison High School Bulldogs were tied with Sehome 
+High School from Bellingham, WA, for most consecutive championship 
+wins. However, as a result of their countless hours of hard work and 
+dedication, the Bulldogs have shown to the Nation their outstanding 
+athletic talent and determination by winning the 2008 State 
+Championship and clinching the national record.
+  Not only did the Lady Bulldogs top the national record for most 
+consecutive State wins, they also beat their State-best score from last 
+year. Madison had four of the top scores in the vault, the top three in 
+the balance beam, three of the top five in the uneven bars, and two of 
+the top three in the floor exercise. This is evidence of the team's 
+ability to perform well and work together in all of the categories of 
+the championship.
+  The Lady Bulldogs sealed their 14th win with a final score of 141.896 
+points. I would like to congratulate all the young women who have 
+worked so hard this year to win the State championship. The gymnasts of 
+the Lady Bulldogs for the 2007-2008 season, in alphabetical order, are 
+as follows: Laura Blom, Danielle Bloom, Katie Breuer, Kassie Finck, 
+Lexi Finck, Theresa Knapp, Katie Mackenzie, Heidi Mogck, Mara Riedel, 
+Sara Rogers, Jessica Strom, Kaitlyn Walker, and Heather Williams.
+  This remarkable accomplishment would not have been possible without 
+the guidance and encouragement of the team's excellent coaching staff, 
+head coach Maridee Dossett and assistant coach Kindra Wiese. Coach 
+Dossett has been a Lady Bulldog since 1995, first as an athlete and now 
+as a coach. She was part of the team when they won their first State 
+title in 1995. Upon graduation, she has continued to contribute to the 
+team and spur them on to continued success.
+  Bud Postma, the athletic director of the Lady Bulldogs, said the 
+streak was a testament to past gymnasts and coaches at Madison. Linda 
+Collignon was the coach who started the recordbreaking streak 14 years 
+ago. This national record was made possible by the dedication of the 
+gymnasts and coaching staff of the Madison High School gymnastics team 
+throughout the years.
+  I would also like to acknowledge the support and devotion of the 
+families of the Madison Gymnastics team members and the community of 
+Madison. Without the encouragement and sacrifice from the gymnasts' 
+families and the dedicated support of the Madison community, this 
+amazing accomplishment would not have been possible.
+  On behalf of the State of South Dakota, I am pleased to congratulate 
+the Lady Bulldogs Gymnastics team on their recordbreaking national 
+accomplishment and wish them the best of luck for their continued 
+success.●
+
+                          ____________________
+```

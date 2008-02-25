@@ -1,0 +1,50 @@
+---
+granule: CREC-2008-02-25-pt1-PgS1118-4
+date: 2008-02-25
+edition: CREC
+section: SENATE
+page: S1118
+citation: 154 Cong. Rec. S1118
+---
+
+# MEASURES REFERRED
+
+**Measures:** H.Con.Res. 289, H.R. 4137, H.R. 5478
+
+```
+                           MEASURES REFERRED
+
+   The following bills were read the first and the second times by 
+unanimous consent, and referred as indicated:
+
+        H.R. 4137. An act to amend and extend the Higher Education 
+     Act of 1965, and for other purposes; to the Committee on 
+     Health, Education, Labor, and Pensions.
+        H.R. 5478. An act to provide for the continued minting and 
+     issuance of certain $1 coins in 2008.
+
+
+
+ =========================== NOTE =========================== 
+
+  
+  On page S1118, February 25, 2008, the official title for H.R. 
+5478 was not available.
+  
+  The online Record was corrected to read as follows: H.R. 5478. 
+An act to provide for the continued minting and issuance of 
+certain $1 coins in 2008.
+
+
+ ========================= END NOTE ========================= 
+
+   The following concurrent resolution was read, and referred as 
+indicated:
+
+        H. Con. Res. 289. Concurrent resolution honoring and 
+     praising the National Association for the Advancement of 
+     Colored People on the occasion of its 99th anniversary; to 
+     the Committee on the Judiciary.
+
+                          ____________________
+```
