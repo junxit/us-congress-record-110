@@ -1,0 +1,43 @@
+---
+granule: CREC-2008-02-26-pt1-PgH1036-2
+date: 2008-02-26
+edition: CREC
+section: HOUSE
+page: H1036
+citation: 154 Cong. Rec. H1036
+---
+
+# POLITICS OF FEAR IS BACK
+
+**Speaking:** Walz, Timothy J. (W000799) [D-MN]
+
+```
+                        POLITICS OF FEAR IS BACK
+
+  (Mr. WALZ of Minnesota asked and was given permission to address the 
+House for 1 minute.)
+  Mr. WALZ of Minnesota. Mr. Speaker, after a brief reprieve, the 
+politics of fear is back in full force. The White House and my 
+colleagues on the other side of the aisle are saying that the 
+expiration of the Protect America Act has made this Nation more 
+vulnerable. That is simply false. The Washington Post did a nice job of 
+refuting this claim in saying Mr. Bush's pass-it-now-or-the-terrorists-
+will-win rhetoric is overheated fearmongering.
+  Before the Presidents Day recess, I encouraged my colleagues to stay 
+in Washington and forge a bipartisan long-term solution. I regret that 
+we didn't do that, but I'm not afraid of the expiration of the Protect 
+America Act. I voted for that piece of legislation.
+  As a 24-year veteran of the Army National Guard, I know the 
+importance of having the tools to fight the terrorists. However, I'm 
+committed to working with my colleagues on both sides of the aisle to 
+find a long-term bipartisan solution that strengthens national 
+security, protects our civil liberties, and does so without providing 
+blanket immunity to companies that may have broken our laws.
+  I hope that we can end the fearmongering and the political rhetoric 
+that have characterized this debate and get down to America's business. 
+And I think it needs to be pointed very clearly to this Nation's 
+enemies, this Nation is protected, this Nation stands united on the 
+issue of protecting us, and no amount of rhetoric will change that.
+
+                          ____________________
+```

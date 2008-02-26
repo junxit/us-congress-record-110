@@ -1,0 +1,45 @@
+---
+granule: CREC-2008-02-26-pt1-PgS1195
+date: 2008-02-26
+edition: CREC
+section: SENATE
+page: S1195
+citation: 154 Cong. Rec. S1195
+---
+
+# REMEMBERING DENISE ANN PHOENIX
+
+**Speaking:** Reid, Harry (R000146) [D-NV]
+
+```
+                     REMEMBERING DENISE ANN PHOENIX
+
+  Mr. REID. Mr. President, I rise today to recognize Denise Ann 
+Phoenix, a role model, native Nevadan, and hero. Ms. Phoenix, known by 
+her nickname ``Auntie,'' devoted her life to improving her Native 
+American community and promoting child safety. Following in the 
+footsteps of her father, Leroy Phoenix, Sr., she pursued a career in 
+law enforcement and became one of few women to serve as an investigator 
+with the Bureau of Indian Affairs. She died in the line of duty on 
+February 14, 2008, after coming into contact with an unidentified 
+substance and contracting a fatal lung disease. She was 42 years old.
+  Ms. Phoenix grew up on the Pyramid Lake Paiute Reservation in 
+northern Nevada. After graduating from Sparks High School, she began 
+her career as a tribal ranger on the reservation and later became BIA 
+chief of police of Carson City, NV. She emphasized the importance of 
+community-oriented policing and her service was exemplary. She will 
+continue to be an inspirational example to young Native American women.
+  The dedication Ms. Phoenix demonstrated as an officer was 
+complemented by her dedication to children. In 2000, she lost her own 
+children, Shasta and Justin, along with her brother Ronald, to a car 
+accident along the Pyramid Highway in Sparks, NV. In response to this 
+devastating tragedy, she established youth outreach programs in her 
+children's memory. She was also instrumental in getting a median 
+divider installed on the stretch of road where the accident occurred, 
+once again showing her profound commitment to the safety of others.
+  Though I am saddened by her passing, I share with this body my 
+gratitude for her devotion to her community. I also extend to her 
+family, friends, and colleagues my condolences.
+
+                          ____________________
+```
