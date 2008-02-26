@@ -1,0 +1,33 @@
+---
+granule: CRECB-2008-pt2-Pg2463-3
+date: 2008-02-26
+edition: CRECB
+section: HOUSE
+page: 2463
+---
+
+# ENERGY
+
+```
+                                 ENERGY
+
+  (Ms. FALLIN asked and was given permission to address the House for 1 
+minute.)
+  Ms. FALLIN. Mr. Speaker, the energy problems facing our Nation are 
+obvious: Our economy suffers from out-of-control gasoline prices while 
+national security remains at risk from an overreliance on foreign oil. 
+Immediately increasing the amount of energy produced on U.S. soil is 
+the first step to addressing both of these issues.
+  Rather than pursue a commonsense solution, the House Democrats are 
+once again proposing billions of dollars in punitive tax increases on 
+American oil companies. Heavily taxing oil and gas will discourage 
+exploration and production, and that is exactly what we don't need to 
+do. It will drive up the cost at pumps for consumers and further reduce 
+the incentives for domestic production of oil and gas.
+  This week marks the third time this year that House Democrats have 
+tried to enact an energy policy that would hurt American families and 
+businesses, increase our reliance on foreign energy sources, and put 
+the long-term energy needs of the United States at risk.
+
+                          ____________________
+```
