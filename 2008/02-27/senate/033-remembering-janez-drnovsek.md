@@ -1,0 +1,68 @@
+---
+granule: CREC-2008-02-27-pt1-PgS1268-2
+date: 2008-02-27
+edition: CREC
+section: SENATE
+page: S1268
+citation: 154 Cong. Rec. S1268
+---
+
+# REMEMBERING JANEZ DRNOVSEK
+
+**Speaking:** Harkin, Tom (H000206) [D-IA]
+
+```
+                       REMEMBERING JANEZ DRNOVSEK
+
+  Mr. HARKIN. Mr. President, I have come to the floor to pay tribute to 
+a good friend, Janez Drnovsek, who passed away on Saturday. Dr. 
+Drnovsek served as the second Prime Minister of Slovenia from 1992 to 
+2002, and as President from 2002 to 2007. In these and other 
+capacities, he played a truly historic role in giving birth to a free 
+and independent Slovenia, while avoiding the bloodshed and warfare that 
+engulfed other nations as they seceded from the former Yugoslavia.
+  Dr. Drnovsek was born on May 17, 1950, in Celje. He graduated from 
+the University of Ljubljana's Faculty of Economics. In 1986, he 
+finished his doctoral studies in economic science at the University of 
+Maribor. In 1994, he received an honorary doctorate from Boston 
+University. In 2004 he was named Protector and Honorary Senator of the 
+European Academy of Sciences and Arts in Salzburg.
+  But Dr. Drnovsek will be best remembered as a statesman of enormous 
+ability, vision, and courage. A brilliant economist, he unleashed the 
+entrepreneurial spirit of the Slovenian people and played a historic 
+role in establishing his new nation as a robust democracy with one of 
+the most successful economies in Central and Eastern Europe. Today, 
+thanks in large measure to Dr. Drnovsek's leadership, Slovenia is a 
+full member of the European Union and NATO, and a force for stability 
+and democratic reform across the Balkans.
+  The world looks at Slovenia's success in the nearly 17 years since 
+she declared independence, and it wonders: How could a nation of just 2 
+million people accomplish so much in so short period of time? As an 
+American, I know the answer. Bear in mind that, when Jefferson wrote 
+the Declaration of Independence, America was also a nation of just 2 
+million people. Like Slovenians in 1991, Americans in 1776 dared to 
+break away from a much larger and more powerful mother country. Like 
+Slovenians, Americans demanded a democratic course for their new 
+country.
+  But the most important parallel between our two countries is this: 
+Historians of the American Revolution have marveled that a tiny nation 
+of just 2 million people was blessed with such an extraordinary 
+collection of thinkers and leaders, including Washington, Jefferson, 
+and Franklin. At this crucial crossroads in Slovenia's history, it, 
+too, has been blessed with extraordinary leaders. And Dr. Drnovsek will 
+be remembered as one of the most talented of these Founding Fathers.
+  On a personal note, I was very fortunate to spend time with President 
+Drnovsek during my trip to Slovenia in August 2005. Clearly, he was an 
+independent thinker and a free spirit. One obituary in the Washington 
+Post on Sunday noted that in his youth and early adulthood, he was a 
+member of the Communist Party, which was the only political force in 
+the former Yugoslavia. But he was never a Communist at heart, and he 
+made a point of going off to ski whenever the party held a congress.
+  Mr. President, with the passing of Dr. Janez Drnovsek, the world has 
+lost an important leader and a wonderfully decent human being. He was 
+instrumental in founding and nurturing a free, democratic, successful 
+Slovenia. History will not forget him, nor will the citizens of his 
+grateful nation.
+
+                          ____________________
+```
