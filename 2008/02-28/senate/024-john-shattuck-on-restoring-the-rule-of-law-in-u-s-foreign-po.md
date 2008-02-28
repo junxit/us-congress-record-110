@@ -1,0 +1,432 @@
+---
+granule: CRECB-2008-pt2-Pg2882
+date: 2008-02-28
+edition: CRECB
+section: SENATE
+page: 2882
+---
+
+# JOHN SHATTUCK ON RESTORING THE RULE OF LAW IN U.S. FOREIGN POLICY
+
+```
+   JOHN SHATTUCK ON RESTORING THE RULE OF LAW IN U.S. FOREIGN POLICY
+
+  Mr. KENNEDY. Mr. President, I welcome this opportunity to commend to 
+my colleagues a very thoughtful and informational article in the 
+current issue of the American Prospect by former Assistant Secretary of 
+State and Ambassador to the Czech Republic, John Shattuck, who 
+currently serves as CEO of the Kennedy Library Foundation.
+  In his article, ``Healing Our Self-Inflicted Wounds,'' Mr. Shattuck 
+makes the point that in the past few years America has seriously 
+wounded itself in the eyes of the wider world by failing to live up to 
+our highest ideals. Our policies have made it more difficult to enlist 
+the support of our traditional allies in accomplishing our foreign 
+policy goals and have emboldened those who do not share our goals to 
+work harder to undermine them.
+  Mr. Shattuck lays out several key steps for the next President to 
+take to repair the damage done in the past 8 years and restore 
+America's credibility--and strength--in the world. I believe his 
+article will be of interest to all of us in Congress.
+  And I ask unanimous consent that the article be printed in the 
+Record.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+              [From The American Prospect, Jan.-Feb. 2008]
+
+ Healing Our Self-Inflicted Wounds--How the Next President Can Restore 
+     the Rule of Law to U.S. Foreign Policy--and Rebuild American 
+                         Credibility and Power
+
+                           (By John Shattuck)
+
+       There's a remarkable paradox in the relationship today 
+     between the United States and the rest of the world. Despite 
+     economic and military assets unparalleled in history, U.S. 
+     global influence and standing have hit rock bottom.
+       As an economic superpower, the U.S. has a defense budget 
+     that accounts for more than 40 percent of global military 
+     spending. But this ``hard power'' does not necessarily 
+     translate into real power. National-security failures abound, 
+     from the catastrophic events in Iraq to the resurgence of 
+     terrorist networks in Afghanistan and Pakistan, from the 
+     growing threat of civil war throughout the Middle East to the 
+     deepening uncertainties of the Palestinian-Israeli conflict, 
+     from the standoff with Iran to the genocide in Darfur.
+       The next president will have to address these crises by re-
+     establishing America's capacity to lead. Doing so will 
+     involve working to regain international credibility and 
+     respect by reshaping American foreign policy to direct the 
+     use of power within a framework of the rule of law.
+
+
+                        THE SCALE OF THE PROBLEM
+
+       The United States may be strong economically and 
+     militarily, but the rest of the world sees it as ineffective 
+     and dangerous on the global stage. Less than a decade ago the 
+     situation was quite different. A 1999 survey published by the 
+     State Department Office of Research showed that large 
+     majorities in France (62 percent), Germany (78 percent), 
+     Indonesia (75 percent), Turkey (52 percent), among others, 
+     held favorable opinions of the U.S.
+       This positive climate of opinion fostered an outpouring of 
+     international support immediately following the September 11 
+     attacks. The U.S. was able to assemble a broad coalition with 
+     U.N. approval to respond to the attacks and strike terrorist 
+     strongholds in Afghanistan.
+       Six years later global support for U.S. leadership has 
+     evaporated. In poll after poll, international opinion of the 
+     U.S. has turned sour. A January 2007 BBC survey found that 52 
+     percent of the people polled in 18 countries around the world 
+     had a ``mainly negative'' view of the U.S., with only 29 
+     percent having a ``mainly positive'' view. In nearly all the 
+     countries that had strong support for the U.S. in 1999 a big 
+     downward shift of opinion had occurred by the end of 2006. In 
+     France it was down to 39 percent, in Germany down to 37 
+     percent, and in Indonesia down to 30 percent. A separate 
+     survey conducted in 2006 by the Pew Research Center revealed 
+     extremely hostile attitudes toward the U.S. throughout the 
+     Arab and Muslim world: Egypt polled 70 percent negative, 
+     Pakistan 73 percent, Jordan 85 percent, and Turkey 88 
+     percent.
+       A major factor driving this negative global opinion is the 
+     way the U.S. has projected its power in the ``war on 
+     terror.'' Four years after the Iraq invasion, U.S. military 
+     presence in the Middle East was seen by 68 percent of those 
+     polled by the BBC ``to provoke more conflict than it 
+     prevents.'' Similarly, a poll published in April 2007 by the 
+     Chicago Council on Global Affairs showed that in 13 of 15 
+     countries, including Argentina, France, Russia, Indonesia, 
+     India, and Australia, a majority of people agreed that ``the 
+     U.S. cannot be trusted to act responsibly in the world.''
+       The U.S. is now seen internationally to be a major violator 
+     of human rights. The BBC poll showed that 67 percent of those 
+     surveyed in 18 countries disapproved of the U.S. government's 
+     handling of detainees in Guantanamo. A survey conducted in 
+     June 2006 by coordinated polling organizations in Germany, 
+     Great Britain, Poland, and India found that majorities or 
+     pluralities in each country believed that the U.S. has 
+     tortured terrorist detainees and disregarded international 
+     treaties in its treatment of detainees, and that other 
+     governments are wrong to cooperate with the U.S. in the 
+     secret ``rendition'' of prisoners.
+       These global opinion trends have reduced the capacity of 
+     the United States to carry out its foreign policy and protect 
+     national security. The perception of a growing gap between 
+     the values the U.S. professes and the way it acts--
+     particularly in regard to human rights and the rule of law--
+     has eroded U.S. power and influence around the world.
+       In his book, Soft Power: The Means to Success in World 
+     Politics, Joseph Nye analyzes a nation's ``ability to get 
+     what [it] wants through attraction rather than coercion.'' 
+     Soft power derives from ``the attractiveness of a nation's 
+     culture, political ideals, and policies. When [its] policies 
+     are seen as legitimate in the eyes of others, [its] soft 
+     power is enhanced.'' Today, American political ideals have 
+     lost much of their global attraction because their appeal has 
+     been undermined by U.S. policies and actions that lack 
+     legitimacy in the eyes of the world. American foreign policy 
+     will continue to fail until the U.S. regains the 
+     international respect it has lost.
+       Fortunately, history shows that the capacity to lead can be 
+     restored when U.S. values
+
+[[Page 2883]]
+
+     and policies are generally in synch. During the first decade 
+     and a half of the Cold War, images of racism and segregation 
+     in the United States undercut the ability of the U.S. to 
+     project moral leadership. By the mid-1960s, however, the 
+     civil-rights movement and the leadership of Presidents 
+     Kennedy and Johnson had revived this vital capacity.
+       Similarly, following the disaster in Vietnam, a number of 
+     U.S. foreign-policy successes were achieved through 
+     bipartisan presidential leadership. President Ford signed the 
+     Helsinki Accords, which led to international recognition for 
+     the cause of human rights inside the Soviet bloc. President 
+     Carter mobilized democratic governments to press for the 
+     release of political prisoners held by repressive 
+     governments. President Reagan signed the Convention Against 
+     Torture and sent it to the Senate, where it was subsequently 
+     ratified. President George H.W. Bush joined with Western 
+     European governments to nurture the fledgling democracies of 
+     post-Cold War Central and Eastern Europe. President Clinton 
+     worked with NATO to end the human-rights catastrophe in 
+     Bosnia and prevent genocide in Kosovo. Each of these foreign-
+     policy successes was achieved by linking American interests 
+     and values.
+       Three fundamental principles govern the exercise of soft 
+     power through the promotion of human rights and the rule of 
+     law. The first is practicing what you preach. The U.S. loses 
+     credibility when it charges others with violations it is 
+     committing itself. It reduces its ability to lead when it 
+     acts precipitously without international authority or the 
+     support of other nations. The second is obeying the law. 
+     Human rights are defined and protected by the U.S. 
+     Constitution and by conventions and treaties that have been 
+     ratified and incorporated into U.S. domestic law. The U.S. 
+     must adhere to these legal obligations if it is to project 
+     itself to other countries as a champion of human rights and 
+     the rule of law. The third is supporting international 
+     institutions. The U.S. should lead the way in reshaping 
+     existing international institutions and creating new ones, 
+     not attacking them, acting unilaterally, or turning its back 
+     whenever it disagrees with what they do.
+       The administration of President George W. Bush has 
+     repeatedly violated each of these principles. It has opened 
+     the U.S. to charges of hypocrisy by criticizing other 
+     governments for acting outside the rule of law and committing 
+     human-rights abuses it has committed itself. The annual 
+     Country Reports on Human Rights Practices issued by the State 
+     Department cover official actions such as ``torture and other 
+     cruel, inhuman or degrading treatment or punishment,'' 
+     ``detention without charge,'' ``denial of fair public 
+     trial,'' and ``arbitrary interference with privacy, family, 
+     home, or correspondence.'' These are the very practices in 
+     which the Bush administration itself has systematically 
+     engaged, compelling readers of the State Department Country 
+     Reports to conclude that the U.S. does not practice what it 
+     preaches. The 2006 report on Egypt, for example, criticizes 
+     the fact that Egyptian police and security forces ``detained 
+     hundreds of individuals without charge,'' that ``abuse of 
+     prisoners and detainees by police, security personnel and 
+     prison guards remained common,'' and that ``the [Egyptian] 
+     Emergency Law empowers the government to place wiretaps--
+     without warrants.'' These same criticisms apply to the United 
+     States.
+       The Bush administration has diminished a second source of 
+     soft power by flaunting basic requirements of international 
+     and domestic law. These include the Geneva Conventions, the 
+     Convention Against Torture, and the International Convent on 
+     Civil and Political Rights, and the Foreign Intelligence 
+     Surveillance Act. The result has been the creation of ``law-
+     free zones'' in which foreign detainees in U.S. custody 
+     overseas have been brutally abused, thousands of foreign 
+     citizens have been held indefinitely as ``unlawful 
+     combatants'' without being accorded the status of prisoners 
+     of war, and repressive regimes around the world have 
+     implicitly been given the green light to crack down on 
+     political dissidents and religious and ethnic minorities in 
+     the name of fighting terrorism.
+       The administration's history of disregard for the 
+     established framework of international law was made clear by 
+     a 2002 memorandum, prepared by the then-White House counsel, 
+     Alberto Gonzales, proclaiming that ``terrorism renders 
+     obsolete the Geneva Conventions' strict limitations on the 
+     questioning of prisoners.'' No recent president had 
+     questioned the basic rules of international humanitarian law 
+     in times of war. The administrations of Lyndon B. Johnson, 
+     Richard Nixon, and Gerald Ford during the Vietnam War, and 
+     George H.W. Bush during the Gulf War, all adhered to the 
+     Geneva requirements. The reasons were spelled out in a 2002 
+     memorandum by then-Secretary of State Colin Powell, 
+     challenging the Gonzales memo. Powell warned that the White 
+     House interpretation of the Geneva Conventions would 
+     ``reverse over a century of U.S. policy and practice, 
+     undermine the protections of the law of war for our troops, 
+     and [provoke] negative international reaction, with immediate 
+     adverse consequences for our conduct of foreign policy.''
+       A third source of soft power has been undermined by the 
+     Bush administration's attacks on and disengagement from 
+     international human-rights institutions. The U.S. has been a 
+     world leader in building these institutions since the time 
+     when Eleanor Roosevelt chaired the international committee 
+     that drafted the Universal Declaration of Human Rights. The 
+     current administration has renounced that leadership by 
+     refusing to run for a seat on the new U.N. Human Rights 
+     Council and by undermining efforts to shape the new 
+     International Criminal Court (ICC). Both institutions are 
+     flawed, but as a result of the administration's disengagement 
+     the U.S. now has no influence over their future development.
+
+
+                     UNDERCUTTING NATIONAL SECURITY
+
+       The Bush administration's record on human rights and the 
+     rule of law has undercut the capacity of the U.S. to achieve 
+     important foreign-policy goals. The erosion of America's soft 
+     power has made it more difficult for the U.S. to succeed in 
+     preventing or containing threats of terrorism, genocide, and 
+     nuclear proliferation. The denigration of American values has 
+     made the U.S. ineffective in promoting human rights and 
+     democracy. Indeed, the current administration's frequent 
+     disregard of the rule of law has jeopardized five frequently 
+     stated foreign-policy objectives.
+       The first is countering the threats posed by Iraq, Iran, 
+     and Afghanistan. For more than a decade these countries have 
+     topped the United States' list of dangers to international 
+     security. Strategies to reduce the violence and terrorism in 
+     Iraq and Afghanistan and to prevent Iran from exporting 
+     terrorism and acquiring nuclear weapons require a mixture of 
+     hard and soft power. But reports of CIA and U.S. military 
+     torture and mistreatment of prisoners at Abu Ghraib and other 
+     secret prisons in the region may have weakened the ability of 
+     the U.S. to counter the deterioration of human-rights 
+     conditions in Iraq and Afghanistan. Similarly, State 
+     Department criticism of the Iranian regime's political 
+     repression has been blunted by the U.S. record of detainee 
+     abuse and illegal electronic surveillance. Years after the 
+     U.S. military interventions, Iraq and Afghanistan remain 
+     major exporters of terrorism and centers of human-rights 
+     abuse. Iran is a major terrorist exporter and a human-rights 
+     disaster.
+       A second major stated objective of U.S. foreign policy is 
+     preventing genocide. The lesson of Rwanda was that the cost 
+     of failing to stop genocide is not only a massive killing of 
+     innocent civilians but also an ongoing humanitarian 
+     catastrophe and long-term regional instability. Following the 
+     Rwanda genocide, a doctrine of humanitarian intervention was 
+     developed under U.S. leadership and invoked, with broad 
+     international support and authority under the Genocide 
+     Convention, to end the genocide in Bosnia in 1995, and then 
+     to prevent a genocide in Kosovo in 1999. Today, that doctrine 
+     is in shambles, undermined and discredited by the Bush 
+     administration's intervention in Iraq. As a result, the U.S. 
+     has been unable to mobilize support to stop the ongoing 
+     genocide in Darfur and an entire region of Africa has been 
+     destabilized.
+       Addressing the challenges posed by geopolitical rivals such 
+     as China, Russia, and Cuba is a third long-standing concern 
+     of U.S. foreign policy. The Bush record has made already-
+     complicated interactions with these countries even more 
+     difficult. China is leading the way in effectively exploiting 
+     the growing global perception that the U.S. is a human-rights 
+     violator. For several years the Chinese government has 
+     produced and publicized its own report on U.S. human-rights 
+     failings in an attempt to counter U.S. criticism of China's 
+     record. China's March 2007 report was particularly blunt: 
+     ``We urge the U.S. government to acknowledge its own human 
+     rights problems and stop interfering in other countries' 
+     internal affairs under the pretext of human rights.'' Russian 
+     President Vladimir Putin has been similarly direct in 
+     rejecting recent U.S. criticism of the Russian government's 
+     press censorship, and Cuba has been quick to point to the 
+     U.S. record of detainee abuse at Guantanamo whenever Cuban 
+     human-rights practices are challenged by the U.S. The Bush 
+     administration has provided China, Russia, and Cuba with a 
+     convenient excuse for cracking down on dissidents and 
+     minorities under the guise of fighting terrorism within their 
+     borders.
+       Creating and managing strategic alliances is a fourth major 
+     U.S. foreign-policy objective. The Bush administration's 
+     record on human rights and the rule of law has alienated 
+     traditional democratic allies and complicated relations with 
+     authoritarian countries. The Council of Europe, a 
+     parliamentary assembly of elected representatives from across 
+     the continent, has condemned European governments for 
+     cooperating with the U.S. in running secret detention 
+     centers, and has called for Europe to distance itself from 
+     the Bush administration's tactics in the ``war on terror.'' 
+     Negative European opinion about U.S. human-rights practices 
+     has made it politically difficult for European leaders to 
+     support U.S. positions on other issues. And by condoning 
+     torture, prisoner abuse, secret detention, illegal 
+     surveillance, and other violations of human rights, the 
+     administration has also undercut its ability to promote 
+     reform with authoritarian allies like Egypt, Saudi Arabia, 
+     Morocco, and Uzbekistan.
+
+[[Page 2884]]
+
+       Finally, holding accountable those who commit human-rights 
+     crimes has been a bedrock objective of U.S. foreign policy 
+     since the Nuremberg trials following World War II. The U.S. 
+     has long been at the forefront of efforts to create a system 
+     of international justice, most recently in the establishment 
+     of the International Criminal Tribunals for the Former 
+     Yugoslavia and Rwanda. By opposing the International Criminal 
+     Court, the Bush administration has relinquished its 
+     leadership on these issues. The indispensability of 
+     international justice to U.S. foreign policy is illustrated 
+     by the administration's retreat in 2006 from outright 
+     opposition to the ICC to reluctant acceptance of the U.N. 
+     Security Council's referral of the Darfur genocide case to 
+     ICC jurisdiction. But this begrudging exception unfortunately 
+     proves the rule.
+
+
+                          REPAIRING THE DAMAGE
+
+       The next president must make repairing the damage to 
+     American values and moral authority a top priority. Acting 
+     within a framework of the rule of law and respect for human 
+     rights will be essential to restoring America's international 
+     leadership.
+       The U.S. must strengthen its alliances by demonstrating it 
+     adheres to international norms in pursuing its national-
+     security objectives. The next president should immediately 
+     announce that the U.S. will close the detention center at 
+     Guantanamo and transfer detainees to the U.S. or detainees' 
+     home countries. In addition, the president should announce 
+     that the U.S. is bound by the Geneva Conventions as a matter 
+     of law and policy. Restoring the U.S. policy of providing 
+     individualized status hearings to detainees would demonstrate 
+     respect for international norms without restricting the 
+     government's capacity to conduct lawful interrogations to 
+     obtain intelligence information about terrorist activities. 
+     Fully applying the Geneva Conventions also would not preclude 
+     the U.S. from trying detainees in military commissions.
+       A second means of underscoring U.S. commitment to address 
+     national-security threats within the rule of law would be to 
+     provide assistance to other countries for counterterrorism 
+     operations that comply with basic human-rights standards. 
+     ``Fighting terror'' has become a convenient excuse for 
+     repressive regimes to engage in further repression, often 
+     inspiring further terrorism in an increasing cycle of 
+     violence. To break this cycle, the U.S. should provide 
+     assistance and training to foreign military and law 
+     enforcement personnel in methods of fighting terrorism within 
+     the rule of law.
+       The U.S. should take the lead in drafting a comprehensive 
+     treaty defining and condemning terrorism within a framework 
+     of human rights. Working toward a consensus on this global 
+     issue would help counter the claim that differences in 
+     cultural values, religious beliefs, political philosophies, 
+     or justifiable ends make it impossible to define the crime of 
+     terrorism.
+       The president should make clear that the U.S. is prepared 
+     once again to be an active participant in strengthening the 
+     system of international law it helped create over the last 
+     half century. Important treaties have lingered for years in 
+     the Senate and should now be ratified or renegotiated. Some 
+     were signed by Republican presidents and once enjoyed 
+     bipartisan support, but have been blocked for the last seven 
+     years by the current administration and its Senate 
+     supporters. The U.S. should also rejoin negotiations on such 
+     critical issues as human rights, international justice, 
+     climate change, and nonproliferation of weapons of mass 
+     destruction. By doing so, the next president would 
+     demonstrate that globalization can be made to work within the 
+     rule of law.
+       The U.S. should support those seeking to promote the rule 
+     of law, democracy, and human rights in their own countries. 
+     Democracy and human-rights activists are the shock troops in 
+     the struggle against terrorism, genocide, and nuclear 
+     proliferation. But democracy can never be delivered through 
+     the barrel of a gun. Assistance to those who are working to 
+     build their own democratic societies must be carefully 
+     planned and targeted, sustained over time, and based on a 
+     thorough understanding of the unique circumstances and 
+     profound differences among cultures, religions, and 
+     countries. A new U.S. government must work within an 
+     international framework, not unilaterally and preemptively, 
+     to assist those struggling around the world to bring human 
+     rights to their own societies.
+       Finally, the U.S. should join with other countries, 
+     alliances, and international organizations to reassert 
+     America's role in working to prevent or stop genocide and 
+     crimes against humanity. The president should invoke the 
+     doctrine of humanitarian intervention that was applied in 
+     Bosnia and Kosovo in the 1990s to address the genocide in 
+     Darfur. Extensive diplomatic and economic tools can be used 
+     to head off an impending genocide, but international military 
+     intervention remains available under international law if all 
+     other avenues have been exhausted.
+       By recommitting the U.S. to a foreign policy conducted 
+     within a framework of human rights and the rule of law, the 
+     next president can restore America's moral leadership in the 
+     world--and by so doing, enhance American power and security.
+
+                          ____________________
+```
