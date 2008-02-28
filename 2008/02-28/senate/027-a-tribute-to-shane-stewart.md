@@ -1,0 +1,62 @@
+---
+granule: CREC-2008-02-28-pt1-PgS1382
+date: 2008-02-28
+edition: CREC
+section: SENATE
+page: S1382
+citation: 154 Cong. Rec. S1382
+---
+
+# A TRIBUTE TO SHANE STEWART
+
+**Speaking:** Allard, Wayne (A000109) [R-CO]
+
+```
+[[Page S1382]]
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+                       A TRIBUTE TO SHANE STEWART
+
+● Mr. ALLARD. Mr. President, I wish today to honor the service 
+and sacrifice of CAPT Shane Stewart.
+  My wife Joan and I were deeply saddened to hear of the tragic death 
+of CAPT Shane Stewart this past Saturday in Weld County, CO, as he was 
+en route to render aid to a sick caller in the town of Ault.
+  It takes a person of great courage to become a firefighter. It takes 
+a strong, hard-working, and considerate individual, who like in many 
+small communities across America, volunteer their time and effort, at 
+sometimes great risk to themselves, to become a volunteer firefighter. 
+It takes a special someone who is willing to pay the ultimate price in 
+protecting the safety of others.
+  Captain Stewart was just this person. And unfortunately, Captain 
+Stewart paid the ultimate price on February 23. He was 33 years old. 
+Shane is the first firefighter killed in the line of duty in the Ault-
+Pierce Fire Protection District.
+  The Colorado native was born in Sterling and grew up in Greeley. 
+Shane was employed by the Colorado Department of Transportation and 
+concurrently served as a volunteer firefighter when called to duty. 
+Volunteer firefighters are the backbone of many of our small towns and 
+communities. In fact there are a total of 15,000 firefighters in 
+Colorado with 9,450 being volunteers in their respective communities. 
+Shane joined the Ault-Pierce Fire Protection District as a volunteer 
+firefighter in August 2004.
+  Shane came from a family steeped in firefighting tradition. Shane's 
+father and brother are also volunteers with the 21-member department.
+  Captain Stewart was a father, brother, and a son. He is survived by 
+his wife Cyndee, sons Blake and Logan, parents Paul and Jeanette, and 
+his brother Sean. Shane was well liked by his peers and was someone you 
+would like to have as a friend and colleague.
+  The Ault-Pierce Fire Protection District lost a valuable member of 
+its community, as did the State of Colorado. We are all forever 
+grateful for Captain Shane Stewart's service and dedication as a 
+firefighter. His service to all of us is highly commendable, and his 
+contributions will be remembered.
+  I extend my deepest sympathy to the family of CAPT Shane Stewart. May 
+his bravery and unwavering sense of duty serve as a role model for the 
+future generation of firefighters.●
+
+                          ____________________
+```
