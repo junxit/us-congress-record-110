@@ -1,0 +1,31 @@
+---
+granule: CRECB-2008-pt2-Pg2954-5
+date: 2008-02-29
+edition: CRECB
+section: SENATE
+page: 2954
+---
+
+# PROGRAM
+
+```
+                                PROGRAM
+
+  Mr. REID. On Monday, following morning business, the Senate will 
+resume the motion to proceed to the Consumer Product Safety 
+legislation.
+
+[[Page 2955]]
+
+Today, I filed a cloture motion on the motion to proceed. By consent, 
+the cloture vote will occur at approximately 5:30 p.m. on Monday. This 
+is a bipartisan bill. I hope we are able to proceed to it and that we 
+don't have to go through another 30 hours of wasting our time. It is a 
+bipartisan bill. Senators Pryor and Stevens have worked on it for 
+months. We should have done it before Christmas. That is when we were 
+trying to keep kids from sucking on toys from China with lead on them 
+and other such things. Hopefully, we don't have to move through this 
+process again.
+
+                          ____________________
+```
