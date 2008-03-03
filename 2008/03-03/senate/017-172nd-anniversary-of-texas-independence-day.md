@@ -1,0 +1,79 @@
+---
+granule: CRECB-2008-pt2-Pg2966-2
+date: 2008-03-03
+edition: CRECB
+section: SENATE
+page: 2966
+---
+
+# 172ND ANNIVERSARY OF TEXAS INDEPENDENCE DAY
+
+```
+              172ND ANNIVERSARY OF TEXAS INDEPENDENCE DAY
+
+  Mrs. HUTCHISON. Mr. President, I rise today because it is the 172nd 
+anniversary of Texas Independence Day.
+  I wish to take a moment to read a letter that is such an important 
+part of the history of Texas. It is the letter of William Barrett 
+Travis from the Alamo. This is a tradition I have continued that was 
+started by my colleague and friend, Senator John Tower, to commemorate 
+Texas Independence Day every year, which is March 2. Now, of course, 
+March 2 was yesterday, which is Sunday, so I always try to do it as 
+close to March 2 as I can, as Senator Tower did when he was serving in 
+this body.
+  The Texas Declaration of Independence was a document that was signed 
+by, among others, my own great, great grandfather, Charles S. Taylor, 
+as well as his great friend, Thomas Rusk, who became one of the first 
+two Senators from Texas and whose seat I hold today. They both hailed 
+from Nacogdoches, which is the oldest town in Texas. It is the town 
+where my mother grew up and where my great, great grandfather was a 
+delegate to the convention that declared independence from Mexico for 
+the territory that was Texas. It is a historic time for Texas. We 
+celebrate Texas Independence Day every single year because we know 
+fighting for freedom has made a difference in what Texas is. We love 
+our history. We fought for freedom and we were a republic, an 
+independent nation for 10 years. Then, we came into the United States 
+under a treaty as a State.
+  The defense of the Alamo by 189 courageous men, who were outnumbered 
+10 to 1, was a key battle in the Texas revolution. The sacrifice of COL 
+William Barrett Travis and his men made possible GEN Sam Houston's 
+ultimate victory at San Jacinto, which secured independence for Texas. 
+That is where Santa Anna, the general in charge of the Mexican Army, 
+formally surrendered and that was end of the fight for Texas 
+independence.
+  Colonel Travis wrote to his countrymen a letter asking for 
+reinforcements:
+
+       Fellow citizens and compatriots: I am besieged by a 
+     thousand or more of the Mexicans under Santa Anna. I have 
+     sustained a continual bombardment and cannonade for 24 hours 
+     and have not lost a man--the enemy has demanded a surrender 
+     at discretion; otherwise, the garrison is to be put to the 
+     sword if the fort is taken. I have answered the demands with 
+     a cannon shot and our flag still waves proudly from the wall. 
+     I shall never surrender or retreat.
+       Then, I call on you in the name of liberty, of patriotism 
+     and of everything dear to the American character, to come to 
+     our aid with all dispatch. The enemy is receiving 
+     reinforcements daily and will no doubt increase to 3,000 or 
+     4,000 in 4 or 5 days. If this call is neglected, I am 
+     determined to sustain myself as long as possible and die like 
+     a soldier who never forgets what is due to his own honor and 
+     that of his country--victory or death.
+       William Barrett Travis, LT. COL. Commander.
+
+  That was the letter he wrote from the Alamo. He did not get 
+reinforcements. Those brave 189 men did, in fact, fight against what is 
+estimated to be 4,000 or 5,000 Mexican soldiers, but they held long 
+enough for GEN Sam Houston to muster his strength and add to his Army. 
+Then, about a month later, in April, the San Jacinto battle did take 
+place against the Mexican Army and Santa Anna surrendered. So it was an 
+important part in Texas history which we value and celebrate very 
+thoroughly every March 2nd. I will continue the tradition of Senator 
+Tower as long as I am in the Senate, and I hope it can continue.
+  I yield the floor.
+  The ACTING PRESIDENT pro tempore. The Senator from Illinois is 
+recognized.
+
+                          ____________________
+```
