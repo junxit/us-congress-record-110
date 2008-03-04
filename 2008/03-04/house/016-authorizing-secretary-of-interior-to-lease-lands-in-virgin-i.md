@@ -1,0 +1,227 @@
+---
+granule: CRECB-2008-pt3-Pg3085-7
+date: 2008-03-04
+edition: CRECB
+section: HOUSE
+page: 3085
+---
+
+# AUTHORIZING SECRETARY OF INTERIOR TO LEASE LANDS IN VIRGIN ISLANDS NATIONAL PARK
+
+```
+  AUTHORIZING SECRETARY OF INTERIOR TO LEASE LANDS IN VIRGIN ISLANDS 
+                             NATIONAL PARK
+
+  Mr. RAHALL. Mr. Speaker, I move to suspend the rules and pass the 
+bill (H.R. 1143) to authorize the Secretary of the Interior to lease 
+certain lands in
+
+[[Page 3086]]
+
+Virgin Islands National Park, and for other purposes, as amended.
+  The Clerk read the title of the bill.
+  The text of the bill is as follows:
+
+                               H.R. 1143
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. DEFINITIONS.
+
+       In this Act, the following definitions apply:
+       (1) Secretary.--The term ``Secretary'' means the Secretary 
+     of the Interior.
+       (2) RUE.--The term ``RUE'' means the retained use estate 
+     entered into by the Jackson Hole Preserve and the United 
+     States on September 30, 1983.
+       (3) Park.--The term ``park'' means Virgin Islands National 
+     Park.
+       (4) CBI.--The term ``CBI'' means CBI Acquisitions, LLC.
+       (5) Resort.--The term ``Resort'' means Caneel Bay Resort on 
+     the island of St. John in Virgin Islands National Park.
+
+     SEC. 2. LEASE AGREEMENT.
+
+       (a) Authorization.--The Secretary may enter into a lease 
+     agreement with CBI governing the use of property for the 
+     continued management and operation of the Resort.
+       (b) Additional Lands.--Any lease entered into pursuant to 
+     this Act shall include the property covered by the RUE and 
+     any associated property owned by CBI donated to the National 
+     Park Service.
+       (c) Terms.--The lease agreement authorized under subsection 
+     (a) shall--
+       (1) require that operations and maintenance of the Resort 
+     are conducted in a manner consistent with the preservation 
+     and conservation of the resources and values of the Park as 
+     well as the best interests of the Resort;
+       (2) be for the minimum number of years practicable to 
+     enable the lessee to secure financing for any necessary 
+     improvements to the Resort, taking into account the financial 
+     obligations of CBI, but in any event shall not exceed 40 
+     years;
+       (3) prohibit any transfer, assignment or sale of the lease 
+     or otherwise convey or pledge any interest in the lease 
+     without prior written notification to and approval by the 
+     Secretary;
+       (4) prohibit any increase in the number of guest 
+     accommodations available at the Resort;
+       (5) prohibit any increase in the overall size of the 
+     Resort;
+       (6) prohibit the sale of partial ownership shares or 
+     timeshares in the Resort;
+       (7) be designed to facilitate transfer of all property 
+     covered by the lease to Federal administration upon 
+     expiration of the lease; and
+       (8) include any other provisions determined by the 
+     Secretary to be necessary to protect the Park and the public 
+     interest.
+       (d) Appraisals.--The Secretary shall require appraisals to 
+     determine the fair market value of all property covered by 
+     the RUE and any property, including the value, if any, of the 
+     surrendered term of the RUE, owned by CBI to be donated, or 
+     otherwise conveyed, to the National Park Service. Such 
+     appraisals shall be conducted pursuant to the Uniform 
+     Appraisal Standards for Federal Land Acquisition.
+       (e) Compensation.--
+       (1) In general.--The lease authorized by this Act shall--
+       (A) require payment to the United States of the property's 
+     fair market value rent, taking into account the value of any 
+     associated property transferred by CBI as well as the value, 
+     if any, of the surrendered term of the RUE;
+       (B) include a provision--
+       (i) allowing recalculation of the amount of the payment 
+     required under this subsection, at the request of the 
+     Secretary or CBI, in the event of extraordinary unanticipated 
+     changes in conditions anticipated at the time the lease was 
+     finalized; and
+       (ii) providing for binding arbitration in the event the 
+     Secretary and CBI are unable to agree upon an adjustment to 
+     the payment in these circumstances.
+       (2) Distribution.--Eighty percent of the payment to the 
+     United States required by this subsection shall be available 
+     to the Secretary, without further appropriation, for 
+     expenditure within the Park. The remaining twenty percent 
+     shall be deposited in the Treasury.
+       (3) Applicability of certain law.--Section 321 of the Act 
+     of June 30, 1932 (40 U.S.C. 1302), relating to the leasing of 
+     buildings and property of the United States, shall not apply 
+     to the lease entered into by the Secretary pursuant to this 
+     Act.
+
+     SEC. 3. RETAINED USE ESTATE.
+
+       As a condition of the lease, CBI shall relinquish to the 
+     Secretary all rights under the RUE and transfer, without 
+     compensation, ownership of improvements covered by the RUE to 
+     the United States.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentleman from 
+West Virginia (Mr. Rahall) and the gentleman from Utah (Mr. Bishop) 
+will each control 20 minutes.
+  The Chair recognizes the gentleman from West Virginia.
+
+
+                             General Leave
+
+  Mr. RAHALL. Mr. Speaker, I ask unanimous consent that all Members may 
+have 5 legislative days in which to revise and extend their remarks and 
+include extraneous material on the resolution under consideration.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from West Virginia?
+  There was no objection.
+  Mr. REYES. Mr. Speaker, I wish to commend our distinguished colleague 
+from the Virgin Islands, a valuable member of our Committee on Natural 
+Resources and the chairwoman of our Insular Affairs Subcommittee, Donna 
+Christensen, for sponsoring the pending legislation, H.R. 1143.
+  The bill would authorize the National Park Service to continue its 
+successful relationship with Caneel Bay Resort, ensure that park 
+resources are protected, and allow the resort to undertake needed 
+maintenance and improvement programs that will benefit visitors to 
+Virgin Islands National Park and the Caneel Bay Resort well into the 
+future.
+  Congresswoman Christensen deserves our thanks for her work in 
+ensuring that visitor services at Virgin Islands National Park are 
+available and that resources are protected.
+  I fully support passage of the pending bill and urge its adoption by 
+the House today.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. BISHOP of Utah. Mr. Speaker, I rise to speak on H.R. 1143 and 
+yield myself such time as I may consume.
+  This has been adequately explained by Chairman Rahall. We support 
+this legislation.
+  Mr. Speaker, I have no additional speakers, and I yield back the 
+balance of my time.
+  Mr. REYES. Mr. Speaker, I yield such time as she may consume to the 
+gentlelady from the Virgin Islands, Dr. Christensen.
+  Mrs. CHRISTENSEN. I thank the chairman for yielding.
+  Mr. Speaker, I rise in, of course, strong support of H.R. 1143, 
+legislation I introduced to authorize the Secretary of the Interior to 
+enter into a new arrangement, a lease with the owners of Caneel Bay 
+Resort in my congressional district.
+  I want to also thank Chairman Rahall as well as Chairman Grijalva for 
+not only supporting the passage of this bill, but for traveling to my 
+district to see for themselves the importance of Caneel Bay to the 
+island and to the people of St. John.
+  Mr. Speaker, Caneel Bay traces its roots to Laurence Rockefeller's 
+coming to the island of St. John in 1952. He purchased the then-
+existing resort facilities and also acquired more than 5,000 
+surrounding acres to protect the area. In 1956, he donated the 
+additional land to create the Virgin Islands National Park. At the same 
+time, he created Caneel Bay Resort, comprising 170 acres, which 
+continues to complement and to be environmentally consistent with the 
+natural beauty of the park's setting.
+  Mr. Rockefeller subsequently decided to transfer the land underlying 
+Caneel Bay to the National Park Service, while retaining the 
+improvements and continuing the Caneel Bay operations. He accomplished 
+this through the execution of a series of unique agreements generally 
+known as a retained use estate, or RUE.
+  H.R. 1143 became necessary because the RUE is slated to expire in 
+2023, and its current owners require more than the remaining 15 years 
+to provide the capital and long-term financing necessary to reverse the 
+decline of the facilities over the years and to return it to the 
+grandeur and stature that it deserves.
+  Mr. Speaker, other than the Virgin Islands National Park, Caneel Bay 
+Resort is perhaps the single most important entity to the tourism-based 
+economy of St. John, and it's also important to the economy of the 
+Virgin Islands in general. It is not an exaggeration to say that Caneel 
+Bay helped to establish the U.S. Virgin Islands, and the Island of St. 
+John in particular, as a major tourist destination point, playing a 
+prominent role in the island's economic renaissance of the mid-1900s.
+
+                              {time}  1415
+
+  Since its founding in October of 1956, it has been and remains a 
+paradise of choice for generations of families, many of whom return 
+every year.
+  It's also the largest employer on St. John, employing approximately 
+475 workers, many of whom spend their entire career spanning two or 
+three decades, and some even more than that as employees of Caneel.
+
+[[Page 3087]]
+
+  In conclusion, Mr. Speaker, I want to thank the Natural Resources 
+staff director, Jim Zoia, and the staff of the National Parks, Forest 
+and Public Lands Subcommittee, in particular former staff director Rick 
+Healy and current staff director Dave Watkins, for their hard work in 
+making it possible for H.R. 1143 to be on the floor today. I also want 
+to thank the full committee ranking member, Don Young, and subcommittee 
+ranking member, Rob Bishop, and their staffs for their support as well.
+  I urge my colleagues to support the passage of this bill, which is 
+very important to the economy of the Virgin Islands.
+  Mr. RAHALL. Mr. Speaker, I yield back the balance of my time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from West Virginia (Mr. Rahall) that the House suspend the 
+rules and pass the bill, H.R. 1143, as amended.
+  The question was taken.
+  The SPEAKER pro tempore. In the opinion of the Chair, two-thirds 
+being in the affirmative, the ayes have it.
+  Mr. BISHOP of Utah. Mr. Speaker, on that I demand the yeas and nays.
+  The yeas and nays were ordered.
+  The SPEAKER pro tempore. Pursuant to clause 8 of rule XX and the 
+Chair's prior announcement, further proceedings on this motion will be 
+postponed.
+
+                          ____________________
+```
