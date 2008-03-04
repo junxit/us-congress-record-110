@@ -1,0 +1,79 @@
+---
+granule: CREC-2008-03-04-pt1-PgH1189-4
+date: 2008-03-04
+edition: CREC
+section: HOUSE
+page: H1189
+citation: 154 Cong. Rec. H1189
+---
+
+# NATIONAL BIKE SUMMIT
+
+**Speaking:** Blumenauer, Earl (B000574) [D-OR]
+
+**Measures:** H.Con.Res. 305
+
+```
+                          NATIONAL BIKE SUMMIT
+
+  Mr. BLUMENAUER. Thank you, Madam Speaker.
+  This week, hundreds of cyclists from around America will descend on 
+Capitol Hill to advocate on behalf of America's 100 million people who 
+enjoy bicycling for recreation, for their livelihood, and some for 
+basic transportation.
+  With 176 members of the Congressional Bicycle Caucus, I know there 
+will be great receptivity in many offices, but it is time for everybody 
+to take these men and women very seriously when they bring their 
+message to Capitol Hill.
+  Yes, bicycling is fun. We know that from our youth. Everybody seems 
+to have a bicycling story that they love to tell. However, there are 
+many reasons why bicycling should be taken very seriously by 
+policymakers. Consider the times. Remember last year when oil averaged 
+$72 per barrel and gasoline averaged $2.81 per gallon and how people 
+were deeply concerned about those increases over just the year before? 
+Well, already oil is significantly over $100 a barrel and rising 
+gasoline prices are expected to perhaps reach as much as $4 a gallon 
+this summer.
+  There is also an emerging consensus on global warming that it is not 
+just an urgent problem, but that transportation is the largest source 
+of carbon emissions that we can manage quickly to reduce. The carbon 
+emissions from riding a bicycle to work or to the store or for exercise 
+are zero.
+  Consider the livability of our cities and neighborhoods as we are 
+struggling with traffic congestion, air pollution, and the quality of 
+life in every neighborhood and downtown and everywhere in between. 
+Bicycles, obviously, make a huge difference there.
+  Last but not least, impacts on our health. There is great unease 
+about soaring health care costs. There is a childhood obesity epidemic. 
+The bicycle is the simplest, most cost-effective way to be able to 
+enhance our health as we enhance the quality of life for our young 
+people. Think for a moment right now how many people somewhere in 
+America are stuck in traffic on their way to ride a stationary bike at 
+a health club. These are all initiatives that can be dealt with by 
+taking over 100 million bicycles that are stored in our garages and 
+basements and locked to a back porch and putting them to use. The role 
+for the Federal Government is not to tilt in favor of cycling, although 
+I could certainly make that argument, but just to level the playing 
+field.
+  Why do some Members of Congress think it's all right to give tax 
+benefits to commuters that burn gasoline to help them cushion their 
+costs, but are against providing modest tax benefits for those who burn 
+calories instead? Three times the House of Representatives has passed a 
+modest reform for bike commuter equity, but it has yet to be enacted 
+into law.
+  Mostly it's time to set the table for the massive transportation 
+reauthorization that will be before us next Congress. I have introduced 
+House Concurrent Resolution 305, which would be the first comprehensive 
+bicycling policy statement as a guide for authorization and beyond.
+  I urge my colleagues to look at it. It's the simplest, most cost-
+effective direction the Federal Government can give to make more 
+transportation choices for Americans, to provide safer opportunities 
+for our children to get to school, to deal with health and climate 
+change, and to heal our communities while we strengthen our bodies and 
+improve our spirits.
+  Bicyclists are an indicator species of a livable community, a place 
+where our families are safe, healthy and economically secure. It's time 
+for the Federal Government to step up and do its part.
+
+                          ____________________
+```
