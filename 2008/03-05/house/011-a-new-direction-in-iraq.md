@@ -1,0 +1,42 @@
+---
+granule: CREC-2008-03-05-pt1-PgH1224-3
+date: 2008-03-05
+edition: CREC
+section: HOUSE
+page: H1224
+citation: 154 Cong. Rec. H1224
+---
+
+# A NEW DIRECTION IN IRAQ
+
+**Speaking:** Moran, James P. (M000933) [D-VA]
+
+```
+                        A NEW DIRECTION IN IRAQ
+
+  (Mr. MORAN of Virginia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. MORAN of Virginia. Mr. Speaker, Mahmoud Ahmadinejad, Iran's 
+vitriolic, anti-American, Holocaust-denying leader, just concluded the 
+first ever trip to Iraq by an Iranian President. Many commentators in 
+the Middle East hailed the visit as a diplomatic success for him. 
+Before our invasion, no Iranian President would have dared to step foot 
+inside Iraq. He was received by Iraqi Prime Minister Nouri al-Maliki 
+not with one, but four kisses for luck at a staged press conference 
+with Iraqi media.
+  I quote Ahmadinejad: ``The Americans have to understand the facts of 
+the region. Iraqi people do not like America.''
+  After 6 years in Iraq, 4,000 American lives lost, tens of thousands 
+wounded, and $570 billion spent, this is what we have to show for it? 
+Iran's anti-American leader being given the opportunity to try to 
+humiliate us at a joint press conference with Iraq's leader?
+  Mr. Speaker, we are seeing the fruition of our strategic blunder in 
+Iraq. The groundwork has been laid for a Shiite-dominated Iraqi 
+theocracy, loyal to Iran and diametrically opposed to our strategic 
+interests in the region. We can stay this course or chart a new 
+direction that will end this failed policy and bring our troops home.
+  It's about time we chose a direction that is worthy of the patriotism 
+of our troops and the sacrifices of their families.
+
+                          ____________________
+```
