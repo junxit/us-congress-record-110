@@ -1,0 +1,38 @@
+---
+granule: CRECB-2008-pt3-Pg3348-8
+date: 2008-03-06
+edition: CRECB
+section: HOUSE
+page: 3348
+---
+
+# NEW EMPLOYEE VERIFICATION ACT
+
+```
+                     NEW EMPLOYEE VERIFICATION ACT
+
+  (Mr. SAM JOHNSON of Texas asked and was given permission to address 
+the House for 1 minute and to revise and extend his remarks.)
+  Mr. SAM JOHNSON of Texas. Madam Speaker, last Thursday, I introduced 
+the New Employee Verification Act; it's H.R. 5515. This proposal will 
+achieve three important objectives:
+
+[[Page 3349]]
+
+one, ensure a legal workforce; two, safeguard workers identity; and 
+three, protect Social Security.
+  Effective work site enforcement is essential to securing our borders. 
+Reforming work site enforcement will affect millions of workers, and it 
+must be done immediately and done right. Having an effective safeguard 
+in place will allow us to have a rational debate about the number of 
+workers we need to legally enter our Nation.
+  My bill has a mandatory component that builds off of what we've 
+learned from current E-Verify. I also have a component that helps 
+prevent identity theft through the creation of a voluntary system to 
+authenticate and safeguard workers' identities.
+  This bill has strong support in the employer community. I look 
+forward to working with both sides of the aisle to see this bill signed 
+into law.
+
+                          ____________________
+```

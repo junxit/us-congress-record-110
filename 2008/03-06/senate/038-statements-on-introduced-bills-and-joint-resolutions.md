@@ -1,0 +1,1122 @@
+---
+granule: CRECB-2008-pt3-Pg3472
+date: 2008-03-06
+edition: CRECB
+section: SENATE
+page: 3472
+---
+
+# STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS
+
+```
+          STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS
+
+      By Mr. WARNER (for himself and Mr. Webb):
+  S. 2725. A bill to designate the facility of the United States Postal 
+Service located at 6892 Main Street in Gloucester, Virginia, as the 
+``Congresswoman Jo Ann S. Davis Post Office''; to the Committee on 
+Homeland Security and Governmental Affairs.
+  Mr. WARNER. Mr. President, on October 6, 2007, the people of 
+Virginia's First Congressional District lost one of its most respected 
+and admired leaders, a dedicated Member of Congress and loyal friend, 
+Representative Jo Ann Davis.
+  Today, I am proud to have Senator Jim Webb join me in introducing a 
+bill to honor our dear colleague. This legislation would designate the 
+United States Post Office at 6892 Main Street in Gloucester, Virginia, 
+as the ``Congresswoman Jo Ann S. Davis Post Office.'' Representative 
+Robert Wittman has introduced companion legislation in the House of 
+Representatives.
+  Born in North Carolina, Jo Ann Davis attended Hampton Roads Business 
+College in Virginia and later obtained her real estate license and real 
+estate broker's license over the next several years. In 1990, she 
+started her own company, Jo Ann Davis Realty, and followed this 
+successful endeavor with a run for public office in 1997. Serving as a 
+Delegate in the Virginia General Assembly for 4 years, Jo Ann Davis 
+became the first Republican woman to serve Virginia in the U.S. 
+Congress after winning her election in 2000.
+  Representative Davis was a relentless champion for the needs of the 
+First District. It was my privilege to work with her on many matters, 
+ranging from national defense to the environment, and in that regard, 
+she worked hard to improve the health of the Chesapeake Bay. Also, I 
+commend her diligent leadership in the removal of the James River 
+Reserve Fleet from Newport News. From her support for the Rappahannock 
+River Valley National Wildlife Refuge to her concern with the 
+preservation of Dragon Run or providing funding for oyster restoration, 
+she always put the quality of Virginia's environment above politics.
+  With sincere passion and concern, Representative Davis worked to 
+improve our Nation's armed services and the lives of the men and women 
+who bravely answer the call to duty. She provided strong representation 
+for the communities in and surrounding the Naval Surface Warfare Center 
+at Dahlgren and the Marine Corps base at Quantico, ensuring that these 
+facilities continue to make important contributions to protecting the 
+nation and to the economic foundations of their respective areas. Her 
+initiative to increase the life insurance benefit paid to survivors of 
+military members and her
+
+[[Page 3473]]
+
+advocacy on behalf of the rights and benefits of Federal employees will 
+continue to be appreciated in the years ahead.
+  I have always admired Representative Davis for her strong convictions 
+and the tenacity that she brought to bear in acting on them. She fought 
+a courageous struggle against cancer, and I will miss her insights and 
+her friendship in our Virginia Congressional Delegation.
+  I am pleased to offer this small token of recognition and gratitude 
+for someone who has given so much to the Commonwealth and her country.
+  I close with a personal note that we both shared interests in 
+equestrian activities. There is an old English saying that ``the 
+outside of the horse is good for the inside of the man.'' As an avid, 
+accomplished rider, she often quipped with me that the saying applies 
+equally to a woman. She loved the noble horse.
+  I join with my colleagues from the Commonwealth and from the entire 
+U.S. Congress in expressing my deepest sympathies to her husband, her 
+two sons, and her extended family. They remain in our thoughts and 
+prayers.
+                                 ______
+                                 
+      By Mr. CASEY (for himself and Ms. Snowe):
+  S. 2726. A bill to amend the Emergency Food Assistance Act of 1983 to 
+require the Secretary of Agriculture to help offset the costs of 
+intrastate transportation, storage, and distribution of bonus 
+commodities provided to States and food assistance agencies under the 
+emergency food assistance program; to the Committee on Agriculture, 
+Nutrition, and Forestry.
+  Mr. CASEY. Mr. President, I rise today to talk about a crisis that is 
+facing a growing number of Americans every day. That crisis is hunger. 
+In this country, as food prices continue to rise, more and more 
+American families find themselves desperately in need of help just to 
+put food on the table for themselves and their families.
+  In 2006 alone, the U.S. Department of Agriculture, USDA, reported 
+that 35.5 million Americans did not have enough money or resources to 
+get food for at least some period during the year. This figure was an 
+increase of 400,000 over 2005 and an increase of 2.3 million since 
+2000. And, with the fragile state of our economy, we can only assume 
+that these figures for 2007 and 2008 will be even more disturbing. The 
+only recourse for these millions of people is to turn to Federal food 
+assistance programs and emergency food banks for their basic food 
+needs.
+  Unfortunately, as recent articles in national publications like the 
+USA Today and the New York Times have highlighted, there is a critical 
+lack of food inventories available in local food pantries across the 
+country. Rising demand, sharp drops in Federal supplies of excess 
+commodities, and declining donations have forced food banks to cut back 
+on rations, and in some cases, close their doors. In short, America's 
+food banks are facing critical shortages now.
+  As a member of the Senate Committee on Agriculture, Nutrition, and 
+Forestry, I had a hand in helping to create a new farm bill. This bill, 
+as passed by the Senate, will help food banks by providing additional 
+annual funding to shore up food bank supplies. But, as we continue to 
+conference this bill with the House, there are further steps we can 
+take to help ensure that food banks can continue to fulfill their 
+mission.
+  That is why today I am pleased to join with Senator Snowe to 
+introduce the Bonus TEFAP Assistance Act of 2008. This act will provide 
+critical support needed to ensure food assistance agencies, already in 
+desperate need of supplies, can take full advantage of the 
+distributions of bonus food commodities supplied by USDA through the 
+Emergency Food Assistance Program, TEFAP. By helping to offset the 
+intrastate storage, transportation, and distribution costs the food 
+assistance agencies incur to distribute these bonus food surpluses, the 
+act will ensure the commodities will be able to reach the greatest 
+number of needy individuals.
+  The Emergency Food Assistance Program began in 1981 as a temporary 
+program with dual purposes; it was intended to help reduce the Federal 
+food inventories and storage costs while also assisting the needy. 
+Because of the program's success in helping distribute food to those in 
+need, in 1988, after much of the Federal inventory was depleted, the 
+Hunger Prevention Act authorized funds to be appropriated to purchase 
+food for TEFAP.
+  Under current-day TEFAP, the USDA provides States and food assistance 
+agencies with food commodities bought specifically for the program and 
+with funding to help cover distributing agencies' intrastate storage, 
+handling, and distribution costs. In addition, when available, USDA 
+provides any excess food not needed to fulfill other program 
+requirements to States for allocation to local food assistance 
+agencies. This excess food is otherwise known as ``bonus TEFAP.'' 
+Unfortunately, while the USDA generously distributes these bonus TEFAP 
+commodities to the States, many of the State and food assistance 
+agencies are unable to accept the bonus TEFAP commodities because they 
+do not have the resources to store, transport, or distribute them.
+  The Bonus TEFAP Assistance Act of 2008 that I am introducing today 
+with Senator Snowe alleviates this problem by providing offsetting 
+funds to recipient agencies to assist with the costs of storing, 
+transporting, and distributing bonus TEFAP commodities. The funds 
+provided through this legislation will help to provide more food to 
+those in need through food banks, food pantries, emergency shelters, 
+soup kitchens, and other organizations that directly provide these 
+resources to the public.
+  To solve the problem the inadequacy of local resources causes, the 
+bill authorizes the Secretary of Agriculture to use existing funds 
+granted under section 32 of the Agricultural Adjustment Act of 1935. 
+Currently, section 32 funds are used to fund child nutrition programs 
+and other programs to support the farm sector at the discretion of the 
+Secretary. Through this legislation, a small portion of section 32 
+funds would be allocated to each eligible recipient agency in the 
+lesser amount of $0.05 per pound or $0.05 per dollar value of bonus 
+TEFAP commodities. With this modest increase in funding, the States and 
+their food assistance agencies will be able to accept more food 
+distributions from the USDA through TEFAP, benefitting the many low-
+income recipients who rely on the program for emergency food and 
+nutrition assistance.
+  I urge all of my colleagues to join Senator Snowe and me in ensuring 
+that the States and food assistance agencies can accept the available 
+excess commodity foods the USDA provides under the Emergency Assistance 
+Food Program. Food assistance agencies are in dire need of funds, food, 
+and supplies and we owe it to them to ensure that they can take full 
+advantage of every opportunity to serve those in our nation who are in 
+desperate need.
+  Mr. President, I ask unanimous consent that the text of the bill be 
+printed in the Record.
+  There being no objection, the text of the bill was ordered to be 
+printed in the Record, as follows:
+
+                                S. 2726
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Bonus TEFAP Assistance Act 
+     of 2008''.
+
+     SEC. 2. ASSISTANCE FOR COSTS OF DISTRIBUTING BONUS 
+                   COMMODITIES.
+
+       (a) Purposes.--The purposes of this section are--
+       (1) to encourage States and food assistance agencies to 
+     accept commodities acquired by the Secretary of Agriculture 
+     for farm support and surplus removal activities; and
+       (2) to offset the costs of the States and food assistance 
+     agencies for the intrastate transportation, storage, and 
+     distribution of the commodities.
+       (b) Costs of Distributing Bonus Commodities.--Section 202 
+     of the Emergency Food Assistance Act of 1983 (7 U.S.C. 7502) 
+     is amended by inserting after subsection (a) the following:
+       ``(b) Costs of Distributing Bonus Commodities.--
+       ``(1) In general.--The Secretary shall use funds made 
+     available under section 32 of the Act of August 24, 1935 (7 
+     U.S.C. 612c), to provide funding described in paragraph (2) 
+     to eligible recipient agencies to offset the costs
+
+[[Page 3474]]
+
+     of the agencies for intrastate transportation, storage, and 
+     distribution of commodities described in subsection (a).
+       ``(2) Funding.--The Secretary shall provide funding 
+     described in paragraph (1) to an eligible recipient agency at 
+     a rate equal to the lower of $0.05 per pound or $0.05 per 
+     dollar value of commodities described in subsection (a) that 
+     are made available under this Act to, and accepted by, the 
+     eligible recipient agency.''.
+                                 ______
+                                 
+      By Mr. CORNYN:
+  S. 2729. A bill to amend title XVIII of the Social Security Act to 
+modify Medicare physician reimbursement policies to ensure a future 
+physician workforce, and for other purposes; to the Committee on 
+Finance.
+  Mr. CORNYN. Mr. President, you don't have to be an expert in health 
+care policy to know our health care system is in need of reform. Today, 
+we spend over $2 trillion on health care, almost $7,500 per person. In 
+10 years, national health care expenditures are expected to reach $4.3 
+trillion, or $13,000 per person, which would comprise 19.5 percent of 
+our gross domestic product. Clearly, this rate of increase is 
+unsustainable. We must work together to develop creative solutions that 
+will change the way we deliver health care. The goal should be to allow 
+health care providers to develop treatment plans based on what is in 
+the best interest of the patient. But the current system under which we 
+pay physicians neither puts patients first nor reduces costs.
+  A decade ago, instead of creating a mechanism that changed the way 
+physicians deliver care, Congress attempted to curb rising health care 
+costs through an arbitrary annual expenditure cap on physician 
+payments. And what has the result been? Physicians have seen their 
+reimbursements lag far behind their costs, in Texas and nationally--a 
+15-percent gap. In order to recoup lost revenue, physicians often 
+increased the number of patients they were seeing per day, meaning they 
+were spending less and less time with their patients, lowering the 
+quality of care delivered. Moreover, we are starting to see problems 
+with beneficiary access. At an increasing rate, beneficiaries across 
+the country are reporting difficulties in scheduling appointments with 
+their physicians.
+  But declining reimbursements are also influencing the development of 
+future generations of physicians--especially in primary care--as there 
+is a disincentive to enter the profession or an incentive to forgo 
+primary care for more lucrative specialties. This is especially 
+alarming, as the Medicare population grows and many physicians will be 
+retiring. For example, my State of Texas already has a below-average 
+physician-to-population ratio, while 39 percent of practicing 
+physicians are already over 50.
+  There are over 30 health care reform plans floating around inside and 
+outside of Congress. Few of these plans address the fundamental 
+question: What good is coverage without access to that coverage?
+  If we are serious about changing our health care system, we need to 
+start with changing the way we pay physicians--that would send a strong 
+message not only about the need for better quality care but also the 
+need to ensure a future generation of American physicians.
+  I am pleased to introduce the Ensuring the Future Physician Workforce 
+Act of 2008. This bill will provide positive reimbursement updates for 
+providers; eliminate the ineffectual expenditure cap; increase 
+incentives for physician data reporting; facilitate adoption of Health 
+Information Technology, HIT, by addressing cost and legislative 
+barriers; educate and empower physicians and beneficiaries in relation 
+to Medicare spending and benefits usage; and study ways to realign the 
+way Medicare pays for health care.
+  Every few years, Congress goes through the same rituals of trying to 
+fix the physician reimbursement mechanism. First, CMS tells us the 
+expenditure cap requires Medicare physician reimbursements to be cut by 
+a certain percent. Next, Congress struggles to find a way to prevent 
+this cut, knowing how harmful it would be. Yet delaying this cut is 
+extremely expensive. Congress then swears that this is the last time 
+they will go through this process and that it must come up with a 
+comprehensive fix. Ultimately, Congress never seems able to fix the 
+problem. This bill stops the charade, resets the baseline for the next 
+year and a half, and then eliminates the expenditure cap thereafter. 
+Rather than pretending like we are going to adhere to an arbitrary cap 
+of $80, for example, only to spend more later, this bill puts up front 
+the true cost that we are really going to spend $100 or $101. The 
+effect on spending is the same, but physicians and beneficiaries have 
+certainty.
+  If Congress fails to act, Texas physicians will lose $860 million 
+between July 2008 and December 2009, which is a cut of $18,000 to each 
+Texas physician. That figure balloons to $16.5 billion by 2016 due to 
+nearly a decade of scheduled cuts.
+  Two widely identified ways of moving toward lower costs and better 
+quality stem from the collection of health care data and the 
+implementation of health information technology.
+  First, increasing incentives for the reporting of data will improve 
+our ability to assess how we deliver care and the level of that care. 
+In this bill we go beyond general reporting and focus on the most 
+expensive diseases. The director of the Congressional Budget Office, 
+Peter Orszag, likes to ask the paradoxical question: ``How can the best 
+medical care in the world cost twice as much as the best medical care 
+in the world?'' It does because we deliver care in vastly different 
+ways and at vastly different costs. By focusing our data collection 
+efforts, we will better understand how these differences occur.
+  Second, there are few who would argue with the notion that 
+implementation of HIT is beneficial from a cost and quality 
+perspective; HIT provides transparency, efficiency, portability, 
+safety, and reductions in duplicative and wasteful procedures. However, 
+various cost and legislative barriers have inhibited widespread 
+adoption. There is a large cost associated with implementing HIT 
+because of the cost of hardware, software, and time needed to train 
+staff. Additionally, there is a disincentive to invest in HIT because 
+the Department of Health and Human Services has yet to finalize its 
+standards. Providers are stuck in neutral.
+  Under the current regulatory environment, doctors have limited 
+ability to accept hardware, software, or help in training from 
+hospitals. Not only does this unfairly harm patients in these 
+practices, it negatively impacts community health. This bill provides a 
+safe harbor to that regulation but maintains the spirit of the law by 
+allowing hospitals to help physicians in their implementation of HIT--
+either in the purchasing of hardware or software or in training--as 
+long as these hospitals do not restrict the physician's 
+interoperability, clinical practice, or referral system for their own 
+financial benefit. This bill provides the incentive to voluntarily 
+implement HIT and commonsense regulations that move communities into 
+the 21st century. Once beneficiaries begin to see the benefits HIT will 
+have on the quality of their care and in their wallets, providers will 
+not be able to ignore the demand.
+  Finally, this bill would provide comparative reports to physicians on 
+their billings and to beneficiaries on their usage of services. 
+Physicians want to do the right thing for their patients, but we need 
+to ensure that they have the tools necessary to appropriately deliver 
+that care. When physicians look at these reports and see how they 
+compare to other providers in their area or across the Nation, they 
+will take that report seriously and evaluate why their practices 
+differ. Similarly, beneficiaries will have a tool to evaluate their 
+level of care and a tool to engage the physician-patient relationship.
+  Mr. President, it is no secret that the path Medicare is on is 
+unsustainable. So far, our only recourse has been to prolong the 
+inevitable collapse, rather than reforming the doomed system. This bill 
+is a small step toward righting the Medicare ship, and with it, 
+America's health care system as a whole. It is time we move forward in 
+health care and help create a system that provides the best care at the 
+best prices. I hope my colleagues will join
+
+[[Page 3475]]
+
+me in supporting this bill and ensuring a better future for American 
+health care.
+                                 ______
+                                 
+      By Mr. DOMENICI (for himself, Ms. Landrieu, Ms. Murkowski, Mr. 
+        Martinez, Mr. Bunning, Mr. Craig, Mr. Alexander, and Mrs. 
+        Dole):
+  S. 2730. A bill to facilitate the participation of private capital 
+and skills in the strategic, economic, and environmental development of 
+a diverse portfolio of clean energy and energy efficiency technologies 
+within the United States, to facilitate the commercialization and 
+market penetration of the technologies, and for other purposes; to the 
+Committee on Energy and Natural Resources.
+  Mr. DOMENICI. Mr. President, a report by the Energy Information 
+Administration released this week confirms that we have made real, 
+measurable progress in our efforts to reduce our dependence upon 
+foreign oil. The best estimating group in the world, the Energy 
+Information Administration of America, made this determination. I know 
+the occupant of the chair will be interested, because what we have done 
+in the past 3 years with the passage of three major pieces of energy 
+legislation is, for the first time in modern history, we have reduced 
+the amount of consumption of crude oil from overseas to America by 
+Americans here at home. In other words, during the next 30 years, we 
+will finally get to the point where, instead of that importation going 
+up, it will begin to reverse itself and start coming down.
+  Now, the bad news for Americans is you can't do that overnight, but 
+we have done it with the passage of the CAFE standards, meaning smaller 
+cars in the future for everyone, and with the passage of two or three 
+other big bills, we have made a lasting impact on how much we use of 
+this dread imported product that we call crude oil.
+  Over the last several years, as I indicated, Congress has passed 
+three major pieces of legislation: the Energy Policy Act of 2005, the 
+Gulf of Mexico Energy Security Act, and the Energy Independence and 
+Security Act. We put these together, and the estimates are that as a 
+result of this action I just spoke about, more than 2 million barrels 
+of oil per day will be saved by America by 2030. In addition, our 
+action will lead to--and get this--5.3 billion fewer metric tons of 
+energy-related carbon dioxide emissions by that time--the equivalent of 
+71,500 megawatt coal-burning electric plants. Imagine that. By reducing 
+that amount of oil consumed, we will reduce the amount of carbon 
+dioxide by 5.3 billion fewer metric tons used.
+  Nevertheless, our work is not nearly done. I have been encouraged by 
+the growth of clean energy technologies, but I have come to believe 
+that in the long run, we will fall far short of the amount of financial 
+resources necessary to move these projects along at a fast enough pace. 
+Consider that nearly half of our current electric generation fleet is 
+over 30 years old. Nearly a third of our overall generation comes from 
+coal-fired plants, the majority of which are not equipped with emission 
+control technology. Yet investor-owner utilities are not large enough 
+to carry several multibillion dollar projects, and competitive 
+electricity markets don't have an effective mechanism to encourage 
+investment in larger, expensive new capacity. I come to the floor to 
+propose at least a partial solution to this challenge.
+  Today I am introducing legislation to establish a clean energy 
+investment bank. This bank will be a government corporation, modeled 
+after the Export-Import Bank, designed to promote investment in 
+domestic energy projects. I am pleased to have a number of cosponsors, 
+including Senators Landrieu, Murkowski, Martinez, Bunning, Craig, 
+Alexander, and Dole. I haven't worked very hard because I haven't had 
+time, but I think I can get many more Senators to be cosponsors as 
+well.
+  According to some analysis, over $350 billion will be needed over the 
+next 15 years to meet our increased demands for energy. Not only do we 
+face the challenge of needing to get more power on line, we also are 
+trying to do it in a way that results in less pollution. By investing 
+in clean energy technology, we will reap enormous benefits when it 
+comes to energy, economic, environmental, and national security.
+  Investors have shown a willingness to support clean energy 
+technology. A United Nations report recently revealed that investment 
+in sustainable energy has nearly doubled since 2005. Additionally, 
+private sector research and development has risen to over $16 billion. 
+Yet the growth we have seen primarily comes from equity investment and 
+venture capital, not long-term debt financing.
+  The clean energy industry faces unique challenges. Unlike traditional 
+fossil fuel energy projects, which are able to more easily secure long-
+term debt financing, clean energy markets have a greater level of risk 
+both economically and technically. That is why the certainty provided 
+by Federal Government support would be beneficial. Our goal moving 
+forward should be greater increases for all types of clean energy 
+generation projects through secure financing.
+  Right now, we are lacking an institution able to undertake this kind 
+of activity and fill this gap. The clean energy investment bank that 
+will be created by the legislation which I introduce today has a real 
+chance of filling that gap.
+  The bank will engage in investment activities to encourage long term 
+debt financing of clean energy projects. It will take responsibility 
+for management of the Department of Energy's title 17 loan guarantee 
+program, and have the authority to offer loans, insurance products, and 
+take positions in commercially viable projects.
+  The clean energy investment bank will be a governmental corporation, 
+with a bipartisan board of directors that will have significant 
+autonomy in choosing the projects they believe are most worthy.
+  In this legislation, we do not seek to tell the bank exactly which 
+specific types of projects to support. Our requirement is that the 
+projects provide clean energy and that the bank considers a reasonable 
+diversity of projects, technologies, and energy sectors. We give 
+flexibility to the bank's board of directors and management so that 
+they can provide support for the latest technologies, some of which may 
+not even be under consideration right now.
+  The sole mission of the clean energy investment bank will be to 
+advance the deployment of clean energy technologies. The bank will be 
+staffed with investment professionals who will make informed decisions 
+on loans, loan guarantees, and other investments.
+  Initially, we anticipate that the clean energy investment bank will 
+be given a similar level of financial support as the Export-Import 
+Bank. The Export-Import Bank assists financing the export of U.S. goods 
+and services to international markets. By enabling companies in our 
+country to turn exports into sales overseas, the bank helps create jobs 
+and ensures a level playing field.
+  Export-Import provides a worthy and useful service to our economy and 
+to growing economies overseas. Last year, Congress provided $68 million 
+to the bank to subsidize its costs, and another $78 million for 
+administrative expenses. But we must ask ourselves: shouldn't domestic 
+energy diversification receive at least as much support as U.S. 
+companies investing overseas?
+  The bank will be financed in part through the appropriations process, 
+but in greater measure through a revolving fund. The goal would be for 
+the bank to be self-funding through its investment of activity as soon 
+as possible.
+  Congress will soon be embarking on a debate about climate change. It 
+is simply a reality that much of that discussion will largely fall on 
+partisan lines. Senators have diverse views about global climate change 
+and the proposed solutions to handle it.
+  The clean energy investment bank, however, is something that we all 
+can support. It gives us a chance to make real progress in a bipartisan 
+way on our shared goals of increasing energy production and reducing 
+greenhouse gas emissions. Despite the odds, we
+
+[[Page 3476]]
+
+have demonstrated that when we work together to find common ground on 
+energy, we can succeed and pass legislation that will help make America 
+stronger. In times of economic uncertainty, we need pro-growth 
+strategies that incentivize large private investment, not complex 
+regulatory structures that increase the cost of energy. The clean 
+energy investment bank is such a pro-growth proposal that stands tall 
+on its own.
+  I look forward to working with my colleagues on both sides of the 
+aisle on this bill, and I hope the Senate will adopt it. We have made 
+great strides in recent years to diversify our energy supply, but we 
+should not rest on our laurels. This bill will help us keep up the 
+momentum and shift America away from foreign oil and toward cleaner, 
+home-grown technologies.
+  Mr. President, I ask unanimous consent that the text of the bill be 
+printed in the Record.
+  There being no objection, the text of the bill was ordered to be 
+printed in the Record, as follows:
+
+                                S. 2730
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Clean Energy Investment Bank 
+     Act of 2008''.
+
+     SEC. 2. DEFINITIONS.
+
+       In this Act:
+       (1) Bank.--The term ``Bank'' means the Clean Energy 
+     Investment Bank of the United States established by section 
+     3(a).
+       (2) Board.--The term ``Board'' means the Board of Directors 
+     of the Bank established under section 4(b).
+       (3) Clean energy investment bank fund.--The term ``Clean 
+     Energy Investment Bank Fund'' means the revolving fund 
+     account established under section 6(b).
+       (4) Commercial technology.--The term ``commercial 
+     technology'' means a technology in general use in the 
+     commercial marketplace.
+       (5) Eligible project.--The term ``eligible project'' means 
+     a project in a State related to the production or use of 
+     energy that uses a commercial technology that the Bank 
+     determines avoids, reduces, or sequesters 1 or more air 
+     pollutants or anthropogenic emissions of greenhouse gases 
+     more effectively than other technology options available to 
+     the project developer.
+       (6) Investment.--The term ``investment'' includes any 
+     contribution or commitment to an eligible project in the form 
+     of--
+       (A) loans or loan guarantees;
+       (B) the purchase of equity shares in the project;
+       (C) participation in royalties, earnings, or profits; or
+       (D) furnishing commodities, services or other rights under 
+     a lease or other contract.
+       (7) State.--The term ``State'' means--
+       (A) a State;
+       (B) the District of Columbia;
+       (C) the Commonwealth of Puerto Rico; and
+       (D) any other territory or possession of the United States.
+
+     SEC. 3. ESTABLISHMENT OF BANK.
+
+       (a) Establishment.--
+       (1) In general.--There is established in the Executive 
+     branch a bank to be known as the ``Clean Energy Investment 
+     Bank of the United States,'' which shall be an agency of the 
+     United States.
+       (2) Government corporation.--The Bank shall be--
+       (A) a Government corporation (as defined in section 103 of 
+     title 5, United States Code); and
+       (B) subject to chapter 91 of title 31, United States Code, 
+     except as expressly provided in this Act.
+       (b) Authority.--
+       (1) In general.--The Bank shall assist in the financing, 
+     and facilitate the commercial use, of clean energy and energy 
+     efficient technologies within the United States.
+       (2) Assistance for eligible projects.--The Bank may make 
+     investments--
+       (A) in eligible projects on such terms and conditions as 
+     the Bank considers appropriate in accordance with this Act; 
+     or
+       (B) under title XVII of the Energy Policy Act of 2005 (42 
+     U.S.C. 16511 et seq.), and any of the regulations promulgated 
+     under that Act, as the Bank considers appropriate.
+       (3) Repayment.--No loan or loan guarantee shall be made 
+     under this subsection unless the Bank determines that there 
+     is a reasonable prospect of repayment of the principal and 
+     interest by the borrower.
+       (4) Project diversity.--The Bank shall ensure that a 
+     reasonable diversity of projects, technologies, and energy 
+     sectors receive assistance under this subsection.
+       (c) Powers.--In carrying out this Act, the Bank may--
+       (1) conduct a general banking business (other than currency 
+     circulation), including--
+       (A) borrowing and lending money;
+       (B) issuing letters of credit;
+       (C) accepting bills and drafts drawn upon the Bank;
+       (D) purchasing, discounting, rediscounting, selling, and 
+     negotiating, with or without endorsement or guaranty, and 
+     guaranteeing, notes, drafts, checks, bills of exchange, 
+     acceptances (including bankers' acceptances), cable 
+     transfers, and other evidences of indebtedness;
+       (E) issuing guarantees, insurance, coinsurance, and 
+     reinsurance;
+       (F) purchasing and selling securities; and
+       (G) receiving deposits;
+       (2) make investments in eligible projects on a self-
+     sustaining basis, taking into account the financing 
+     operations of the Bank and the economic and financial 
+     soundness of projects;
+       (3) use private credit, investment institutions, and the 
+     guarantee authority of the Bank as the principal means of 
+     mobilizing capital investment funds;
+       (4) broaden private participation and revolve the funds of 
+     the Bank through selling the direct investments of the Bank 
+     to private investors whenever the Bank can appropriately do 
+     so on satisfactory terms;
+       (5) conduct the insurance operations of the Bank with due 
+     regard to principles of risk management, including efforts to 
+     share the insurance risks of the Bank;
+       (6) foster private initiative and competition and 
+     discourage monopolistic practices; and
+       (7) advise and assist interested agencies of the United 
+     States and other organizations, public and private and 
+     national and international, with respect to projects and 
+     programs relating to the development of private enterprise in 
+     the market sector in accordance with this Act.
+
+     SEC. 4. ORGANIZATION AND MANAGEMENT.
+
+       (a) Structure of Bank.--The Bank shall have--
+       (1) a Board of Directors;
+       (2) a President;
+       (3) an Executive Vice President; and
+       (4) such other officers and staff as the Board may 
+     determine.
+       (b) Board of Directors.--
+       (1) Establishment.--There is established a Board of 
+     Directors of the Bank to exercise all powers of the Bank.
+       (2) Composition.--
+       (A) In general.--The Board shall be composed of 7 members, 
+     of whom--
+       (i) 5 members shall be independent directors appointed by 
+     the President of the United States, by and with the advice 
+     and consent of the Senate (referred to in this subsection as 
+     ``independent directors''; and
+       (ii) 2 members shall be the President of the Bank and the 
+     Executive Vice President of the Bank, appointed by the 
+     independent directors.
+       (B) Federal employment.--An independent director shall not 
+     be an officer or employee of the Federal Government at the 
+     time of appointment.
+       (C) Political party.--Not more than 3 of the independent 
+     directors shall be members of the same political party.
+       (3) Term; vacancies.--
+       (A) Term.--
+       (i) In general.--Subject to clause (ii), the independent 
+     directors shall be appointed for a term of 5 years and may be 
+     reappointed.
+       (ii) Staggered terms.--The terms of not more than 2 
+     independent directors shall expire in any year.
+       (B) Vacancies.--A vacancy on the Board--
+       (i) shall not affect the powers of the Board; and
+       (ii) shall be filled in the same manner as the original 
+     appointment was made.
+       (4) Meetings.--
+       (A) Initial meeting.--Not later than 30 days after the date 
+     on which all members of the Board have been appointed, the 
+     Board shall hold the initial meeting of the Board.
+       (B) Meetings.--The Board shall meet at the call of the 
+     Chairman of the Board.
+       (C) Quorum.--Four members of the Board shall constitute a 
+     quorum, but a lesser number of members may hold hearings.
+       (5) Chairman and vice chairman.--
+       (A) In general.--The Board shall select a Chairman and Vice 
+     Chairman from among the members of the Board.
+       (B) Eligibility.--The Chairman of the Board shall not be an 
+     Executive Director of the Board.
+       (6) Compensation of members.--An independent director shall 
+     be compensated at a rate equal to the daily equivalent of the 
+     annual rate of basic pay prescribed for level IV of the 
+     Executive Schedule under section 5315 of title 5, United 
+     States Code, for each day (including travel time) during 
+     which the member is engaged in the performance of the duties 
+     of the Board.
+       (7) Travel expenses.--An independent director shall be 
+     allowed travel expenses, including per diem in lieu of 
+     subsistence, at rates authorized for an employee of an agency 
+     under subchapter I of chapter 57 of title 5, United States 
+     Code, while away from the home or regular place of business 
+     of the member in the performance of the duties of the Board.
+       (c) President of the Bank.--
+       (1) Appointment.--The President of the Bank shall be 
+     appointed by the Board.
+       (2) Duties.--The President of the Bank shall--
+       (A) be the Chief Executive Officer of the Bank;
+
+[[Page 3477]]
+
+       (B) be responsible for the operations and management of the 
+     Bank, subject to bylaws and policies established by the 
+     Board; and
+       (C) serve as an Executive Director on the Board.
+       (d) Executive Vice President.--
+       (1) Appointment.--The Executive Vice President of the Bank 
+     shall be appointed by the Board.
+       (2) Duties.--The Executive Vice President of the Bank 
+     shall--
+       (A) serve as the President of the Bank during the absence 
+     or disability, or in the event of a vacancy in the office, of 
+     the President of the Bank;
+       (B) at other times, perform such functions as the President 
+     of the Bank may from time to time prescribe; and
+       (C) serve as an Executive Director on the Board.
+       (e) Staff.--
+       (1) In general.--The Board may--
+       (A) appoint and terminate such officers, attorneys, 
+     employees, and agents as are necessary to carry out this Act; 
+     and
+       (B) vest the personnel with such powers and duties as the 
+     Board may determine.
+       (2) Civil service laws.--Persons employed by the Bank may 
+     be appointed, compensated, or removed without regard to civil 
+     service laws (including regulations).
+       (3) Reappointment.--Under such regulations as the President 
+     of the United States may promulgate, an officer or employee 
+     of the Federal Government who is appointed to a position 
+     under this subsection may be entitled, on removal from the 
+     position, except for cause, to reinstatement to the position 
+     occupied at the time of appointment or to a position of 
+     comparable grade and salary.
+       (4) Additional positions.--Positions authorized under this 
+     subsection shall be in addition to other positions otherwise 
+     authorized by law, including positions authorized by section 
+     5108 of title 5, United States Code.
+
+     SEC. 5. FINANCING, GUARANTIES, INSURANCE, CREDIT SUPPORT, AND 
+                   OTHER PROGRAMS.
+
+       (a) Intergovernmental Agreements.--Subject to the other 
+     provisions of this section, the Bank may enter into 
+     arrangements with State and local governments (including 
+     agencies, instrumentalities, or political subdivisions of 
+     State and local governments) for sharing liabilities assumed 
+     by providing financial assistance for eligible projects under 
+     this Act.
+       (b) Insurance.--
+       (1) In general.--The Bank may issue insurance, on such 
+     terms and conditions as the Bank may determine, to ensure 
+     protection in whole or in part against any or all of the 
+     risks with respect to eligible projects that the Bank has 
+     approved.
+       (2) Duplication of assistance.--The Bank shall not offer 
+     any insurance products under this subsection that duplicate 
+     or augment any other similar Federal assistance.
+       (c) Guarantees.--
+       (1) In general.--The Bank may issue guarantees of loans and 
+     other investments made by investors assuring against loss in 
+     eligible projects on such terms and conditions as the Bank 
+     may determine.
+       (2) Budgetary treatment.--Any guarantee issued under this 
+     subsection shall, for budgetary purposes, be considered a 
+     loan guarantee (as defined in section 502 of the Federal 
+     Credit Reform Act of 1990 (2 U.S.C. 661a)).
+       (d) Loans and Credit Assistance.--
+       (1) In general.--The Bank may make loans, provide letters 
+     of credit, issue other credit enhancements, or provide other 
+     financing for eligible projects on such terms and conditions 
+     as the Bank may determine.
+       (2) Budgetary treatment.--Any financial instrument issued 
+     under this subsection shall, for budgetary purposes, be 
+     considered a direct loan (as defined in section 502 of the 
+     Federal Credit Reform Act of 1990 (2 U.S.C. 661a)).
+       (e) Eligible Project Development Investment 
+     Encouragement.--The Bank may provide financial assistance 
+     under this section for development activities for eligible 
+     projects, under such terms and conditions as the Bank may 
+     determine, if the Board determines that the assistance is 
+     necessary to encourage private investment or accelerate 
+     project development.
+       (f) Other Insurance Functions.--The Bank may--
+       (1) using agreements and contracts that are consistent with 
+     this Act--
+       (A) make and carry out contracts of insurance or agreements 
+     to associate or share risks with insurance companies, 
+     financial institutions, any other person or group of persons; 
+     and
+       (B) employ entities described in subparagraph (A), if 
+     appropriate, as the agent of the Bank in--
+       (i) the issuance and servicing of insurance;
+       (ii) the adjustment of claims;
+       (iii) the exercise of subrogation rights;
+       (iv) the ceding and acceptance of reinsurance; and
+       (v) any other matter incident to an insurance business; and
+       (2) enter into pooling or other risk-sharing agreements 
+     with other governmental insurance or financing agencies or 
+     groups of those agencies.
+       (g) Equity Finance Program.--
+       (1) In general.--Subject to the other provisions of this 
+     subsection, the Bank may establish an equity finance program 
+     under which the Bank may, in accordance with this subsection, 
+     purchase, invest in, or otherwise acquire equity or quasi-
+     equity securities of any firm or entity, on such terms and 
+     conditions as the Bank may determine, for the purpose of 
+     providing capital for any project that is consistent with 
+     this Act.
+       (2) Total amount of equity investments.--
+       (A) Total amount of equity investment under equity finance 
+     program.--
+       (i) In general.--Except as provided in clause (ii), the 
+     total amount of the equity investment of the Bank with 
+     respect to any project under this subsection shall not exceed 
+     30 percent of the aggregate amount of all equity investment 
+     made with respect to the project at the time at which the 
+     equity investment of the Bank is made.
+       (ii) Defaults.--Clause (i) shall not apply to a security 
+     acquired through the enforcement of any lien, pledge, or 
+     contractual arrangement as a result of a default by any party 
+     under any agreement relating to the terms of the investment 
+     of the Bank.
+       (B) Total amount of equity investment under multiple 
+     programs.--
+       (i) In general.--The equity investment of the Bank under 
+     this subsection with respect to any project, when added to 
+     any other investments made or guaranteed by the Bank under 
+     subsection (c) or (d) with respect to the project, shall not 
+     cause the aggregate amount of all the investments to exceed, 
+     at the time any such investment is made or guaranteed by the 
+     Bank, 75 percent of the total investment committed to the 
+     project, as determined by the Bank.
+       (ii) Conclusive determination.--The determination of the 
+     Bank under this subparagraph shall be conclusive for purposes 
+     of the authority of the Bank to make or guarantee any 
+     investment described in clause (i).
+       (3) Additional criteria.--In making investment decisions 
+     under this subsection, the Bank shall consider the extent to 
+     which the equity investment of the Bank will assist in 
+     obtaining the financing required for the project.
+       (4) Implementation.--
+       (A) In general.--The Bank may create such legal vehicles as 
+     are necessary for implementation of this subsection.
+       (B) Non-federal borrowers.--A borrower participating in a 
+     legal vehicle created under this paragraph shall be 
+     considered a non-Federal borrower for purposes of the Federal 
+     Credit Reform Act of 1990 (2 U.S.C. 661 et seq.).
+       (C) Securities.--Income and proceeds of investments made 
+     under this subsection may be used to purchase equity or 
+     quasi-equity securities in accordance with this section.
+       (h) Relationship to Federal Credit Reform Act of 1990.--
+       (1) In general.--Any liability assumed by the Bank under 
+     subsections (c) and (d) shall be discharged pursuant to the 
+     Federal Credit Reform Act of 1990 (2 U.S.C. 661 et seq.).
+       (2) Specific appropriation or contribution.--
+       (A) In general.--No loan guaranteed under subsection (c) or 
+     direct loan under subsection (d) shall be made unless--
+       (i) an appropriation for the cost has been made; or
+       (ii) the Bank has received from the borrower a payment in 
+     full for the cost of the obligation.
+       (B) Budgetary treatment.--Section 504(b) of the Federal 
+     Credit Reform Act of 1990 (2 U.S.C. 661c(b)) shall not apply 
+     to a loan or loan guarantee made in accordance with 
+     subparagraph (A)(ii).
+       (3) Apportionment.--Receipts, proceeds, and recoveries 
+     realized by the Bank and the obligations and expenditures 
+     made by the Bank pursuant to this subsection shall be exempt 
+     from apportionment under subchapter II of chapter 15 of title 
+     31, United States Code.
+
+     SEC. 6. ISSUING AUTHORITY; DIRECT INVESTMENT AUTHORITY AND 
+                   RESERVES.
+
+       (a) Maximum Contingent Liability.--The maximum contingent 
+     liability outstanding at any time pursuant to actions taken 
+     by the Bank under section 5 shall not exceed a total amount 
+     of $100,000,000,000.
+       (b) Clean Energy Investment Bank Fund.--
+       (1) Establishment.--There is established in the Treasury of 
+     the United States a revolving fund, to be known as the 
+     ``Clean Energy Investment Bank Fund'' (referred to in this 
+     section as the ``Fund'').
+       (2) Use.--The Clean Energy Investment Bank Fund shall be 
+     available for discharge of liabilities under section 5 (other 
+     than subsections (c) and (d) of section 5) until the earlier 
+     of--
+       (A) the date on which all liabilities of the Bank have been 
+     discharged or expire; or
+       (B) the date on which all amounts in the Fund have been 
+     expended in accordance with this section.
+       (3) Apportionment.--Receipts, proceeds, and recoveries 
+     realized by the Bank and the obligations and expenditures 
+     made by the Bank pursuant to this subsection shall be exempt 
+     from apportionment under subchapter II of chapter 15 of title 
+     31, United States Code.
+       (c) Payments of Liabilities.--Any payment made to discharge 
+     liabilities arising
+
+[[Page 3478]]
+
+     from agreements under section 5 (other than subsections (c) 
+     and (d) of section 5) shall be paid out of the Clean Energy 
+     Investment Bank Fund.
+       (d) Supplemental Borrowing Authority.--
+       (1) In general.--In order to maintain sufficient liquidity 
+     in the revolving loan fund, the Bank may issue from time to 
+     time for purchase by the Secretary of the Treasury notes, 
+     debentures, bonds, or other obligations.
+       (2) Maximum total amount.--The total amount of obligations 
+     issued under paragraph (1) that is outstanding at any time 
+     shall not exceed $2,000,000,000.
+       (3) Repayment.--Any obligation issued under paragraph (1) 
+     shall be repaid to the Treasury not later than 1 year after 
+     the date of issue of the obligation.
+       (4) Interest rate.--Any obligation issued under paragraph 
+     (1) shall bear interest at a rate determined by the Secretary 
+     of the Treasury, taking into account the current average 
+     market yield on outstanding marketable obligations of the 
+     United States of comparable maturities during the month 
+     preceding the issuance of any obligation authorized by this 
+     subsection.
+       (5) Purchase of obligations.--
+       (A) In general.--The Secretary of the Treasury--
+       (i) shall purchase any obligation of the Bank issued under 
+     this subsection; and
+       (ii) for the purchase, may use as a public debt transaction 
+     the proceeds of the sale of any securities issued under 
+     chapter 31 of title 31, United States Code.
+       (B) Purposes.--The purpose for which securities may be 
+     issued under chapter 31 of title 31, United States Code, 
+     shall include any purchase under this paragraph.
+
+     SEC. 7. ADMINISTRATION.
+
+       (a) Protection of Interest of Bank.--The Bank shall ensure 
+     that suitable arrangements exist for protecting the interest 
+     of the Bank in connection with any agreement issued under 
+     this Act.
+       (b) Full Faith and Credit.--
+       (1) Obligation.--A loan guarantee issued by the Bank under 
+     section 5(c) shall constitute an obligation, in accordance 
+     with the terms of the guarantee, of the United States.
+       (2) Payment.--The full faith and credit of the United 
+     States is pledged for the full payment and performance of the 
+     obligation.
+       (c) Fees.--
+       (1) In general.--The Bank shall establish and collect fees 
+     for services under this Act in amounts to be determined by 
+     the Bank.
+       (2) Availability of fees.--Except as provided in paragraph 
+     (3), fees collected by the Bank under paragraph (1) 
+     (including fees collected for administrative expenses in 
+     carrying out subsections (c) and (d) of section 5) may be 
+     retained by the Bank and may remain available to the Bank, 
+     without further appropriation or fiscal year limitation, for 
+     payment of administrative expenses incurred in carrying out 
+     this Act.
+       (3) Fee transfer authority.--Fees collected by the Bank for 
+     the cost (as defined in section 502 of the Federal Credit 
+     Reform Act of 1990 (2 U.S.C. 661a)) of a loan or loan 
+     guarantee made under subsection (c) or (d) of section 5 shall 
+     be transferred by the Bank to the respective credit program 
+     accounts.
+
+     SEC. 8. GENERAL PROVISIONS AND POWERS.
+
+       (a) Principal Office.--The Bank shall--
+       (1) maintain its principal office in the District of 
+     Columbia; and
+       (2) be considered, for purposes of venue in civil actions, 
+     to be a resident of the District of Columbia.
+       (b) Transfer of Functions and Authority.--
+       (1) In general.--On appointment of a majority of the Board 
+     by the President, all of the functions and authority of the 
+     Secretary of Energy under predecessor programs and 
+     authorities similar to those provided under subsections (c) 
+     and (d) of section 5, including those under title XVII of the 
+     Energy Policy Act of 2005 (42 U. S.C. 16511 et seq.), shall 
+     be transferred to the Board
+       (2) Continuation prior to transfer.--Until the transfer, 
+     the Secretary of Energy shall continue to administer such 
+     programs and activities, including programs and authorities 
+     under title XVII of the Energy Policy Act of 2005 (42 U.S.C. 
+     16511 et seq.).
+       (3) Effect on existing rights and obligations.--The 
+     transfer of functions and authority under this subsection 
+     shall not affect the rights and obligations of any party that 
+     arise under a predecessor program or authority prior to the 
+     transfer under this subsection.
+       (c) Audits.--
+       (1) In general.--Except as otherwise provided in this Act, 
+     the Bank shall be subject to the applicable provisions of 
+     chapter 91 of title 31, United States Code.
+       (2) Periodic audits by independent certified public 
+     accountants.--
+       (A) In general.--Except as provided in paragraph (3), an 
+     independent certified public accountant shall perform a 
+     financial and compliance audit of the financial statements of 
+     the Bank at least once every 3 years, in accordance with 
+     generally accepted Government auditing standards for a 
+     financial and compliance audit, as issued by the Comptroller 
+     General of the United States.
+       (B) Report to board.--The independent certified public 
+     accountant shall report the results of the audit to the 
+     Board.
+       (C) Generally accepted accounting principles.--The 
+     financial statements of the Bank shall be presented in 
+     accordance with generally accepted accounting principles.
+       (D) Reports.--
+       (i) In general.--The financial statements and the report of 
+     the accountant shall be included in a report that--
+
+       (I) contains, to the extent applicable, the information 
+     identified in section 9106 of title 31, United States Code; 
+     and
+       (II) the Bank shall submit to Congress not later than 210 
+     days after the end of the last fiscal year covered by the 
+     audit.
+
+       (ii) Review.--The Comptroller General of the United States 
+     may review the audit conducted by the accountant and the 
+     report to Congress in such manner and at such times as the 
+     Comptroller General considers necessary.
+       (3) Alternative audits by comptroller general of the united 
+     states.--
+       (A) In general.--In lieu of the financial and compliance 
+     audit required by paragraph (2), the Comptroller General of 
+     the United States shall, if the Comptroller General considers 
+     it necessary, audit the financial statements of the Bank in 
+     the manner provided under paragraph (2).
+       (B) Reimbursement.--The Bank shall reimburse the 
+     Comptroller General of the United States for the full cost of 
+     any audit conducted under this paragraph.
+       (4) Availability of records.--All books, accounts, 
+     financial records, reports, files, work papers, and property 
+     belonging to or in use by the Bank and the accountant who 
+     conducts the audit under paragraph (2), that are necessary 
+     for purposes of this subsection, shall be made available to 
+     the Comptroller General of the United States.
+
+     SEC. 9. REPORTS TO CONGRESS.
+
+       As soon as practicable after the end of each fiscal year, 
+     the Bank shall submit to Congress a complete and detailed 
+     report describing the operations of the Bank during the 
+     fiscal year.
+
+     SEC. 10. MODIFICATION TO LOAN GUARANTEE PROGRAM.
+
+       (a) Definition of Commercial Technology.--Section 1701(1) 
+     of the Energy Policy Act of 2005 (42 U.S.C. 16511(1)) is 
+     amended by striking subparagraph (B) and inserting the 
+     following:
+       ``(B) Exclusion.--The term `commercial technology' does not 
+     include a technology if the sole use of the technology is in 
+     connection with--
+       ``(i) a demonstration plant; or
+       ``(ii) a project for which the Secretary approved a loan 
+     guarantee.''.
+       (b) Specific Appropriation or Contribution.--Section 1702 
+     of the Energy Policy Act of 2005 (42 U.S.C. 16512) is amended 
+     by striking subsection (b) and inserting the following:
+       ``(b) Specific Appropriation or Contribution.--
+       ``(1) In general.--No guarantee shall be made unless--
+       ``(A) an appropriation for the cost has been made; or
+       ``(B) the Secretary has received from the borrower a 
+     payment in full for the cost of the obligation and deposited 
+     the payment into the Treasury.
+       ``(2) Limitation.--The source of payments received from a 
+     borrower under paragraph (1)(B) shall not be a loan or other 
+     debt obligation that is made or guaranteed by the Federal 
+     Government.
+       ``(3) Relation to other laws.--Section 504(b) of the 
+     Federal Credit Reform Act of 1990 (2 U.S.C. 661c(b)) shall 
+     not apply to a loan or loan guarantee made in accordance with 
+     paragraph (1)(B).''.
+       (c) Amount.--Section 1702 of the Energy Policy Act of 2005 
+     (42 U.S.C. 16512) is amended by striking subsection (c) and 
+     inserting the following:
+       ``(c) Amount.--
+       ``(1) In general.--Subject to paragraph (2), the Secretary 
+     shall guarantee up to 100 percent of the principal and 
+     interest due on 1 or more loans for a facility that are the 
+     subject of the guarantee.
+       ``(2) Limitation.--The total amount of loans guaranteed for 
+     a facility by the Secretary shall not exceed 80 percent of 
+     the total cost of the facility, as estimated at the time at 
+     which the guarantee is issued.''.
+       (d) Subrogation.--Section 1702(g)(2) of the Energy Policy 
+     Act of 2005 (42 U.S.C. 16512(g)(2)) is amended--
+       (1) by striking subparagraph (B); and
+       (2) by redesignating subparagraph (C) as subparagraph (B).
+       (e) Fees.--Section 1702(h) of the Energy Policy Act of 2005 
+     (42 U.S.C. 16512(h)) is amended by striking paragraph (2) and 
+     inserting the following:
+       ``(2) Availability.--Fees collected under this subsection 
+     shall--
+       ``(A) be deposited by the Secretary into a special fund in 
+     the Treasury to be known as the `Incentives For Innovative 
+     Technologies Fund'; and
+       ``(B) remain available to the Secretary for expenditure, 
+     without further appropriation or fiscal year limitation, for 
+     administrative expenses incurred in carrying out this 
+     title.''.
+
+     SEC. 11. INTEGRATION OF LOAN GUARANTEE PROGRAMS.
+
+       (a) Definition of Bank.--Section 1701 of the Energy Policy 
+     Act of 2005 (42 U.S.C. 16511) is amended--
+
+[[Page 3479]]
+
+       (1) by redesignating paragraphs (1) through (5) as 
+     paragraphs (2) through (6), respectively; and
+       (2) by inserting before paragraph (2) (as so redesignated) 
+     the following:
+       ``(1) Bank.--The term `Bank' means the Clean Energy 
+     Investment Bank of the United States established by section 
+     3(a) of the Clean Energy Investment Bank Act of 2008.''.
+       (b) Administration.--
+       (1) In general.--Title XVII of the Energy Policy Act of 
+     2005 (42 U.S.C. 16511 et seq.) is amended by striking 
+     ``Secretary'' each place it appears (other than the last 
+     place it appears in section 1702(a)) and inserting ``Board''.
+       (2) Conforming amendments.--Section 1702(g) of the Energy 
+     Policy Act of 2005 (42 U.S.C. 16512(g)) is amended--
+       (A) in the heading for paragraph (1), by striking 
+     ``Secretary'' and inserting ``Bank''; and
+       (B) in the heading for paragraph (3), by striking 
+     ``Secretary'' and inserting ``Bank''.
+       (c) Application.--The amendments made by this section are 
+     effective on the date the President transfers to the Bank 
+     under section 9(b)(1) the authority to carry out title XVII 
+     of the Energy Policy Act of 2005 (42 U.S.C. 16511 et seq.).
+
+     SEC. 12. AUTHORIZATION OF APPROPRIATIONS.
+
+       (a) In General.--Subject to subsection (b), there are 
+     authorized to be appropriated to the Bank, to remain 
+     available until expended, such sums as are necessary to--
+       (1) replenish or increase the Clean Energy Investment Bank 
+     Fund; or
+       (2) discharge obligations of the Bank purchased by the 
+     Secretary of the Treasury under this Act.
+       (b) Minimum Levels in the Clean Energy Investment Bank 
+     Fund.--No appropriations shall be made to augment the Clean 
+     Energy Investment Bank Fund unless the balance in the Clean 
+     Energy Investment Bank Fund is projected to be less than 
+     $50,000,000 during the fiscal year for which an appropriation 
+     is made.
+
+                          ____________________
+```
