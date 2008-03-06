@@ -1,0 +1,89 @@
+---
+granule: CREC-2008-03-06-pt1-PgS1697-4
+date: 2008-03-06
+edition: CREC
+section: SENATE
+page: S1697
+citation: 154 Cong. Rec. S1697
+---
+
+# THANKING SENATORS AND STAFF
+
+**Speaking:** Pryor, Mark L. (P000590) [D-AR]
+
+```
+                      THANKING SENATORS AND STAFF
+
+  Mr. PRYOR. Mr. President, we are in a period of morning business. I 
+want to pause for 1 minute and thank all of the cosponsors on this 
+legislation. There was a committee bill and the bill that passed the 
+floor a few moments ago. I thank everybody who helped work on this, 
+even those who voted against it. Many of them offered very constructive 
+suggestions and amendments.
+  Let me start by thanking Senator Collins. She has been fantastic 
+throughout this whole process. Senator Harkin, Senator Klobuchar, 
+Senator Bill Nelson, Senator Schumer, Senator Durbin, Senator Lincoln, 
+of course Senator Salazar, Senator Brown, Senator Menendez, Senator 
+Casey, Senator Wyden, and even though I don't think Senator McCaskill 
+was ever a cosponsor, she helped in the last few days on some drafting.
+  There are two whom I need to single out, and one is Senator Ted 
+Stevens of Alaska, who went to bat and worked through a lot of issues 
+that made this vote today possible, as well as our chairman Senator 
+Inouye, first because I appreciate very much him giving me the 
+opportunity to manage the bill. He designated me a year ago to try to 
+work on this legislation, and I will always be grateful to him for his 
+leadership and giving me this opportunity.
+  I also thank members of the staff. We all know we get the credit, we 
+get the publicity, and we are sort of the face, but we could not do 
+this job we do without great staff. So I have a little bit of a long 
+list, but they all deserve some recognition: Alex Hoehn-Saric, David 
+Strickland, Mia Petrini, Jared Bomberg, Mellissa Zolkeply, Margaret 
+Cummisky, Lila Helms, and Jean Toal-Eisen.
+  These are all members of the Commerce staff on the Democratic side. I 
+cannot tell my colleagues--I cannot exaggerate how many hours they put 
+into this legislation.
+  Then on my staff: Price Feland, Andy York, and many others helped, 
+but those two went the extra mile, especially Price, who was fantastic.
+
+[[Page S1698]]
+
+  On Senator Durbin's staff: David Lazarus, Tom Faletti, Dena Morris, 
+and Chris Kang, all of whom helped in many ways.
+  On Senator Reid's staff: Mike Castellano and Mark Weitjen.
+  On Senator Klobuchar's staff: Tamara Fucile and Katie Nilan.
+  On Senator Nelson's staff: Chris Day.
+  Then on the Republican side of the Commerce Committee, I will tell my 
+colleagues they were fantastic and they spent hours and hours and hours 
+working through issues and through this process. They played an 
+important role.
+  So my thanks to Paul Nagle, Megan Beechener, Mark Delich, Peter 
+Phipps, Rebecca Hooks, and Christine Kurth.
+  Again, oftentimes the Senators get the credit for things, but we do 
+not give the staff enough credit.
+  On Senator Collins' staff: Asha Mathews was critical, and she was 
+great in helping in many different ways with Senator Collins who played 
+a very important part in this legislation.
+  I thank my colleagues for this week. I know we worked very hard and 
+we were very persistent. But one of the great things about this week is 
+we saw what the Senate can do. We saw if we make up our minds that we 
+are going to do something good for this country, the Senate can do it. 
+We worked together. We kept all the nongermane amendments off the bill. 
+We had several on our side, and there were a few over here. We had more 
+on our side, but we kept all of those nongermane amendments off the 
+bill. We had a spirit of cooperation and collegiality and it was great. 
+It was fun to be a part of it. It reminds me, once again, how great an 
+institution the Senate is.
+  I again one last time thank all of my colleagues for their support 
+and all the floor staff here for doing all the great things they did to 
+get us where we are today. This is a great day for the Senate and a 
+great day for the American people. Now this bill will have to go to 
+conference and the hard work starts. But I feel confident that we will 
+be able to work with our House colleagues, who worked so hard on their 
+legislation to get something done, and hopefully in the next several 
+weeks, whenever that may be, it will come back to the Senate for the 
+final vote and we can get it to the White House.
+  I yield the floor.
+  The PRESIDING OFFICER. The Senator from Vermont is recognized.
+
+                          ____________________
+```

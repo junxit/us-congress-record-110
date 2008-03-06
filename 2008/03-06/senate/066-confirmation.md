@@ -1,0 +1,26 @@
+---
+granule: CREC-2008-03-06-pt1-PgS1718-4
+date: 2008-03-06
+edition: CREC
+section: SENATE
+page: S1718
+citation: 154 Cong. Rec. S1718
+---
+
+# CONFIRMATION
+
+```
+                              CONFIRMATION
+
+  Executive nomination confirmed by the Senate Thursday, March 6, 2008:
+
+
+                          Department of State
+
+       HECTOR E. MORALES, OF TEXAS, TO BE PERMANENT REPRESENTATIVE 
+     OF THE UNITED STATES OF AMERICA TO THE ORGANIZATION OF 
+     AMERICAN STATES, WITH THE RANK OF AMBASSADOR.
+       THE ABOVE NOMINATION WAS APPROVED SUBJECT TO THE NOMINEE'S 
+     COMMITMENT TO RESPOND TO REQUESTS TO APPEAR AND TESTIFY 
+     BEFORE ANY DULY CONSTITUTED COMMITTEE OF THE SENATE.
+```

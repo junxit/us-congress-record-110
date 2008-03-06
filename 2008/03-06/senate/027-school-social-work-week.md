@@ -1,0 +1,47 @@
+---
+granule: CREC-2008-03-06-pt1-PgS1701-2
+date: 2008-03-06
+edition: CREC
+section: SENATE
+page: S1701
+citation: 154 Cong. Rec. S1701
+---
+
+# SCHOOL SOCIAL WORK WEEK
+
+**Speaking:** Johnson, Tim (J000177) [D-SD]
+
+```
+                        SCHOOL SOCIAL WORK WEEK
+
+  Mr. JOHNSON. Mr. President, it is with great pleasure that I rise 
+today to publicly recognize School Social Work Week, which is taking 
+place March 2-8, 2008. This important week honors school social 
+workers, who play a vital role in the development of our young 
+students.
+  My wife Barbara was a school social worker for more than 18 years, so 
+I understand the critical importance of the services they provide to 
+children, families, and schools. Not only do school social workers 
+provide family and student counseling, crisis intervention, family 
+advocacy, truancy prevention, assistance with basic needs, and 
+community referrals for long-term needs, but they also assist already 
+overwhelmed and underfunded schools in finding ways to assist their 
+``at risk'' students. The presence of school social workers has helped 
+increase attendance rates, academic performance, appropriate behavior, 
+and parental involvement.
+  I believe the best way we can honor school social workers is by 
+providing them with the resources they need to accomplish their jobs 
+and serve our students. Children often must seek help at school for 
+problems they are experiencing personally, as well as at home. Experts 
+note that early identification and intervention can be beneficial in 
+helping distressed young people cope with and handle the problems in 
+their lives. Without school social workers and the wonderful services 
+they provide, far too many children's needs would remain unaddressed.
+  For these reasons and countless others, proudly I stand today and 
+applaud the wonderful work of these dedicated individuals. I am pleased 
+that their tireless efforts are being publicly celebrated. It is with 
+great honor that I share their impressive commitment to helping and 
+educating our youth with my colleagues.
+
+                          ____________________
+```
