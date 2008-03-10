@@ -1,0 +1,367 @@
+---
+granule: CREC-2008-03-10-pt1-PgS1789
+date: 2008-03-10
+edition: CREC
+section: SENATE
+page: S1789
+citation: 154 Cong. Rec. S1789
+---
+
+# NATIONAL SECURITY ISSUES
+
+**Speaking:** Bond, Christopher S. (B000611) [R-MO], Conrad, Kent (C000705) [D-ND]
+
+**Measures:** S. 1846
+
+```
+                        NATIONAL SECURITY ISSUES
+
+  Mr. BOND. Mr. President, I rise today to talk about three issues that 
+I think are vitally important for our national security. First, there 
+is this matter of terrorist surveillance and our national security.
+  This body passed the bipartisan FISA Act bill overwhelmingly--more 
+than 2 to 1--several days before the Protect America Act was to expire. 
+The Director of National Intelligence has told us how important this 
+bill is because without it, intelligence gaps likely will reopen, 
+putting the safety of America--those of us in the United States--and 
+our troops on the battlefield at risk. Yet the House Speaker refuses to 
+allow a vote on the Senate's bill, even though a majority of House 
+Members support its passage. If you vote, that means something. If you 
+win, you win; if you lose, you lose. But the leadership in the House 
+apparently thinks those rules don't apply to the FISA debate.
+  Even though the Speaker failed to pass a 21-day extension of the 
+existing law in her own body, the leadership has acted as though the 
+PAA deadline was extended. There has been no action.
+  So what is the House going to do this week? Well, the Speaker has 
+signaled that the House will vote on overriding the President's veto of 
+the 2008 intelligence authorization bill, even though she knows there 
+are not enough votes to override the vote. Why? Because apparently, the 
+House leadership has decided it is more important to make a political 
+statement about interrogation techniques than to give the intelligence 
+community the tools it needs to conduct surveillance of foreign 
+intelligence.
+  The IC--the intelligence community--needs these tools and authorities 
+that are provided in the bill we passed. They are working tirelessly to 
+protect us from real and constant terrorist threats, and they should 
+not have to wait any longer for the House to pass that measure.
+  Secondly, let me talk about Korea briefly. I just came from an 
+Appropriations Defense Subcommittee hearing with General Bell, our 
+commanding general in Korea. He told us that not just a brave new wind 
+but a typhoon has blown through South Korea, and the previous 
+government that was in many ways anti-American was totally willing to 
+accommodate North Korea in all of its efforts, which included building 
+missiles and nuclear weapons, and rebuff the United States.
+  Well, the people of Korea had enough, and they overwhelmingly elected 
+a new President, President Lee Myung-bak, who ran on a platform of 
+revitalizing the economy, making any actions with North Korea 
+reciprocal, and improving their alliance with the U.S. position. The 
+candidate who came in second agreed with him on these issues. The 
+previous leadership candidate got single digits.
+  The most important things we can do are to increase our trade and our 
+military assistance to South Korea. South
+
+[[Page S1790]]
+
+Korea is already our largest importer for military equipment, and they 
+live in a very dangerous part of the world. They are right next door to 
+China and close to bordering on Russia, just across the straits from 
+Japan, and they are potentially--they have been and they will be our 
+most important ally. But we have given higher foreign military sales 
+status to three former Soviet Union States and five countries from the 
+Warsaw Pact, none of which are as good friends as South Korea.
+  I have filed a bill, S. 1846, the United States-Republic of Korea 
+Defense Cooperation and Improvement Act of 2007, that would give them 
+the status of NATO plus 3, so we could continue to expand on our vital 
+defense trade with them. He says this is his top priority. We are 
+already cooperating with them. There is new cooperation. There is an 
+opportunity to build an even stronger ally in the region to help keep 
+that region safe, peaceful, and secure.
+  Secondarily, for Korea, we also need to approve the United States-
+Korea Free Trade Agreement. Free trade is one of the best ways we have 
+of assuring that other countries get the development they need, we can 
+develop the friendship we have and improve our economy and theirs. A 
+Korea-United States trade agreement would give lower tariff barriers, 
+and get rid of many of them, to keep our agriculture, machine goods, 
+and high-tech goods from going into South Korea. We need to do that.
+  But there are political objections. That brings me to the third 
+important point: Colombia. Colombia has pending with the United States 
+a United States-Colombia Free Trade Agreement. As I have just said, 
+trade and commercial ties are one of the most effective arrows in our 
+quiver of smart power. In Colombia, it is an affirmation of support to 
+our friends. They are our strongest ally on an increasingly left-
+leaning continent--another area where they are our best friends in a 
+dangerous area.
+  The administration of the President of Colombia, President Uribe, 
+finds itself surrounded by states determined to undermine Colombia's 
+burgeoning democracy. The states around them provide safe haven to 
+insurgent terrorist groups, allowing them freedom to maneuver in border 
+areas, and they even provide monetary support for drug and terror 
+activities against President Uribe's government in Colombia. If we are 
+serious, as we must be, about maintaining peace, security, and 
+stability in Latin America, the northern part of Latin America, we must 
+work with them.
+  Free trade will not only expand our economic and commercial ties, but 
+it will strengthen the critical cultural ties and strategic alliances, 
+and that will lead to a more peaceful and stable world.
+  At a time when America's image is suffering in the world and our 
+economy at home is slumping, we should be helping our friends and 
+allies and expanding our export opportunities to create jobs here.
+  If the Democratic leadership in Congress is so concerned about 
+improving America's image abroad and helping our slumping economy, why 
+don't we start by helping our friends? We can do that by opening up 
+markets for exports. Friends like Colombia and Korea are fighting 
+terrorism, embracing America's values. It is a solid security rock for 
+us to build upon.
+  In Colombia, the interdiction of two high-value targets--senior 
+terror planners and former operators--is a testimony to the Uribe 
+administration's commitment to ending terror in his country. It is 
+important to remember that the terrorist group FARC currently holds 
+more than 700 political and military prisoners. Three of them are 
+Americans. Yet our Democratic colleagues, through all their rhetoric, 
+seem to care more about improving our image with rogue regimes such as 
+Syria and Iran than helping our friends in places such as Colombia and 
+Korea. Their rejection of the free-trade agreements damages our 
+strategic alliances and says to the world that the United States is 
+closed for business. And it does so at a time when we need to be open 
+for business, open for better ties.
+  So why, in light of the economic and strategic benefits of the 
+Colombia FTA, are the Democrats determined to delay and deny these 
+benefits? Why, through their actions, are they emboldening Venezuelan 
+leftist Hugo Chavez and undercutting the President of Colombia, who is 
+a friend? President Uribe has done more to reduce violence in Colombia 
+than any modern leader in Bogota, including crimes against labor 
+unionists. He has pushed back Marxist guerrillas of the Revolutionary 
+Armed Forces of Colombia, FARC, and the National Liberation Army, the 
+ELN. He has reduced crime and substantially improved Colombia's 
+security and economic situations, with official statistics showing 
+murders plummeting by as much as 50 percent and kidnappings by as much 
+as 75 percent.
+  Today's Wall Street Journal, which I will submit later, is entitled 
+``Delaying and Denying.'' They sum it up like this:
+
+       What is it about Democrats and Hugo Chavez? Even as the 
+     Venezuelan strongman was threatening war last week against 
+     Colombia, Congress was threatening to hand him a huge 
+     strategic victory by spurning Colombia's free trade overtures 
+     to the U.S.
+       This isn't the first time Democrats have come to Mr. 
+     Chavez's aid, but it would be the most destructive. The 
+     Venezuelan is engaged in a high-stakes competition over the 
+     political and economic direction of Latin America. He wants 
+     the region to follow his path of ever greater state control 
+     of the economy, while assisting U.S. enemies wherever he can. 
+     He's already won converts in Bolivia and Ecuador, and he came 
+     far too close for American comfort in Mexico's election last 
+     year.
+       Meanwhile, Colombian President Alvaro Uribe is embracing 
+     greater economic and political freedom. He has bravely 
+     assisted the U.S. fight against narco-traffickers, and he now 
+     wants to link his country more closely to America with a free 
+     trade accord. As a strategic matter, to reject Colombia's 
+     offer now would tell everyone in Latin America that it is far 
+     more dangerous to trust America than it is to trash it.
+
+  Mr. President, continuing to deny and delay Colombia TPA will be a 
+great disadvantage to America's economy, damage our reputation in 
+Colombia and throughout Latin America, undercut a key ally in President 
+Uribe, and further embolden anti-American dictators like Hugo Chavez, 
+ultimately resulting in a less secure and stable Latin America.
+  Mr. President, I call upon and urge my colleagues on the other side 
+of the aisle to let us bring up for a vote and pass the Korean free-
+trade agreement and the Colombia free-trade agreement. Not only will 
+that benefit us economically, it will strengthen the U.S. image 
+throughout the world and help build a stable, strategic ally in 
+Colombia that can stop the threat of more regimes committed to the 
+Marxism that Cuba so famously demonstrated, which brought destruction 
+and hardship to the people of Cuba.
+  These are important foreign policy matters. One leader in the 
+majority on the other side of the body said: Well, politically, we 
+cannot do it. Politically, we cannot help those who help us? 
+Politically, we cannot pass a bill that will keep our country safer by 
+passing the FISA bill? Politically, we cannot help an ally such as 
+South Korea, which is in a very strategic position? And politically, we 
+cannot help Colombia, which is fighting narcotraffickers as well as the 
+efforts by Hugo Chavez for spreading a Marxist regime and the 
+totalitarian government which impoverishes and denies rights to his 
+citizens?
+  Mr. President, the time to act is now. I urge my colleagues on both 
+sides to make these matters a serious concern and see if we can do the 
+job for which we were elected--to help keep our country safe and 
+secure.
+  Mr. President, I ask unanimous consent that the editorial from the 
+Wall Street Journal of today, March 10, 2008, called ``The Chavez 
+Democrats'' be printed in the Record, along with a similar and very 
+compelling article on the op-ed page of the Washington Post, by Jackson 
+Diehl, called ``The FARC's Guardian Angel,'' be printed in the Record.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+             [From the Wall Street Journal, Mar. 10, 2008]
+
+                          The Chavez Democrats
+
+       What is it about Democrats and Hugo Chavez? Even as the 
+     Venezuelan strongman was threatening war last week against 
+     Colombia, Congress was threatening to hand him a huge 
+     strategic victory by spurning Colombia's free trade overtures 
+     to the U.S.
+       This isn't the first time Democrats have come to Mr. 
+     Chavez's aid, but it would be the most destructive. The 
+     Venezuelan is engaged in a high-stakes competition over the 
+     political and economic direction of Latin America. He wants 
+     the region to follow his path of
+
+[[Page S1791]]
+
+     ever greater state control of the economy, while assisting 
+     U.S. enemies wherever he can. He's already won converts in 
+     Bolivia and Ecuador, and he came far too close for American 
+     comfort in Mexico's election last year.
+       Meanwhile, Colombian President Alvaro Uribe is embracing 
+     greater economic and political freedom. He has bravely 
+     assisted the U.S. fight against narco-traffickers, and he now 
+     wants to link his country more closely to America with a 
+     free-trade accord. As a strategic matter, to reject 
+     Colombia's offer now would tell everyone in Latin America 
+     that it is far more dangerous to trust America than it is to 
+     trash it.
+       Yet Democrats on Capitol Hill are doing their best to help 
+     Mr. Chavez prevail against Mr. Uribe. Even as Mr. Chavez was 
+     doing his war dance, Senate Finance Chairman Max Baucus was 
+     warning the White House not to send the Colombia deal to the 
+     Hill for a vote without the permission of Democratic leaders. 
+     He was seconded by Ways and Means Chairman Charlie Rangel, 
+     who told Congress Daily that ``they don't have the votes for 
+     it, it's not going to come on the floor,'' adding that ``what 
+     they [the White House] don't understand it's not the facts on 
+     the ground, it's the politics that's in the air.''
+       Mr. Rangel is right about the politics. No matter what U.S. 
+     strategic interests may be in Colombia, this is an election 
+     year in America. And Democrats don't want to upset their 
+     union and anti-trade allies. The problem is that the time 
+     available to pass anything this year is growing short. The 
+     closer the election gets, the more leverage protectionists 
+     have to run out the clock on the Bush Presidency. The deal 
+     has the support of a bipartisan majority in the Senate, and 
+     probably also in the House. Sooner or later the White House 
+     will have to force the issue.
+       Our guess is that Messrs. Baucus and Rangel understand the 
+     stakes and privately favor the accord. The bottleneck is 
+     Speaker Nancy Pelosi, who is refusing to allow a vote under 
+     pressure from her left-wing Members. These Democrats deride 
+     any link between Hugo Chavez and trade as a ``scare tactic,'' 
+     as if greater economic prosperity had no political 
+     consequences. ``President Bush's recent fear-mongering on 
+     trade shows just how desperate he is to deliver one final 
+     victory for multinational corporations,'' declared Illinois 
+     Democrat Phil Hare, who is one of Ms. Pelosi's main trade 
+     policy deputies.
+                                  ____
+
+
+               [From the Washington Post, Mar. 10, 2008]
+
+                       The FARC's Guardian Angel
+
+                           (By Jackson Diehl)
+
+       Latin American nations and the Bush administration spent 
+     the past week loudly arguing over what censure, if any, 
+     Colombia should face for a bombing raid that killed one of 
+     the top leaders of the FARC terrorist group at a jungle camp 
+     in Ecuador. More quietly, they are just beginning to consider 
+     a far more serious and potentially explosive question: What 
+     to do about the revelation that Venezuelan President Hugo 
+     Chavez forged a strategic alliance with the FARC aimed at 
+     Colombia's democratic government.
+       First reports of the documents recovered from laptops at 
+     the FARC camp spoke of promises by Chavez to deliver up to 
+     $300 million to a group renowned for kidnapping, drug 
+     trafficking and massacres of civilians; they also showed that 
+     Ecuadoran President Rafel Correa was prepared to remove from 
+     his own army officers who objected to the FARC's Ecuadoran 
+     bases.
+       But in their totality, the hundreds of pages of documents 
+     so far made public by Colombia paint an even more chilling 
+     picture. The raid appears to have preempted a breathtakingly 
+     ambitious ``strategic plan'' agreed on by Chavez and the FARC 
+     with the initial goal of gaining international recognition 
+     for a movement designated a terrorist organization by both 
+     the United States and Europe. Chavez then intended to force 
+     Colombian President Alvaro Uribe to negotiate a political 
+     settlement with the FARC, and to promote a candidate allied 
+     with Chavez and the FARC to take power from Uribe.
+       All this is laid out in a series of three e-mails sent in 
+     February to the FARC's top leaders by Ivan Marquez and 
+     Rodrigo Granda, envoys who held a series of secret meetings 
+     with Chavez. Judging from the memos, Chavez did most of the 
+     talking: He outlines a five-stage plan for undermining 
+     Uribe's government, beginning with the release of several of 
+     the scores of hostages the FARC is holding.
+       The first e-mail, dated Feb. 8, discusses the money: It 
+     says that Chavez, whom they call ``angel,'' ``has the first 
+     50 [million] available and has a plan to get us the remaining 
+     200 in the course of the year.'' Chavez proposed sending the 
+     first ``packet'' of money ``through the black market in order 
+     to avoid problems.'' He said more could be arranged by giving 
+     the FARC a quota of petroleum to sell abroad or gasoline to 
+     retail in Colombia or Venezuela.
+       Chavez then got to the plans that most interested him. He 
+     wanted the FARC to propose collecting all of its hostages in 
+     the open, possibly in Venezuela, for a proposed exchange for 
+     500 FARC prisoners in Colombian jails. Chavez said he would 
+     travel to the area for a meeting with the FARC's top leader, 
+     Manuel Marulanda, and said the presidents of Ecuador, 
+     Nicaragua and Bolivia would accompany him. Meanwhile, Chavez 
+     said he would set up a new diplomatic group, composed of 
+     those countries and the FARC, plus Mexico, Brazil and 
+     Argentina, for the purpose of recognizing the FARC as a 
+     legitimate ``belligerent'' in Colombia and forcing Uribe into 
+     releasing its prisoners.
+       In ``the early morning hours,'' the FARC envoys recounted 
+     in a Feb. 9 e-mail, Chavez reached the subject of whether the 
+     release of Ingrid Betancourt, a former Colombian presidential 
+     candidate who is the FARC's best-known hostage, would 
+     complicate his plan to back a pro-FARC alternative to Uribe. 
+     ``He invites the FARC to parcipate in a few sessions of 
+     analysis he has laid out for following the Colombian 
+     political situation,'' the e-mail concluded.
+       Assuming these documents are authentic--and it's hard to 
+     believe that the cerebral and calculating Uribe would 
+     knowingly hand over forgeries to the world media and the 
+     Organization of American States--both the Bush administration 
+     and Latin Amerian governments will have fateful decisions to 
+     make about Chavez. His reported actions are, first of all, a 
+     violation of UN. Security Council Resolution 1373, passed in 
+     September 2001, which prohibits all states from providing 
+     financing or havens to terrorist organizations. More 
+     directly, the Colombian evidence would be more than enough to 
+     justify a State Department decision to cite Venezuela as a 
+     state sponsor of terrorism. Once cited, Venezuela would be 
+     subject to a number of automatic sanctions, some of which 
+     could complicate its continuing export of oil to the United 
+     States. A cutoff would temporarily inconvenience Americans--
+     and cripple Venezuela, which could have trouble selling its 
+     heavy oil in other markets.
+       For now, the Bush administration appears anxious to avoid 
+     this kind of confrontation. U.S. intelligence agencies are 
+     analyzing the Colombian evidence; officials say they will 
+     share any conclusions with key Latin American governments. 
+     Yet those governments have mostly shrunk from confronting 
+     Chavez in the past, and some have quietly urged Bush to take 
+     him on. If the president decides to ignore clear evidence 
+     that Venezuela has funded and conspired with an officially 
+     designated terrorist organization, he will flout what has 
+     been his first principle since Sept. 11, 2001.
+
+  Mr. BOND. Mr. President, I yield the floor and suggest the absence of 
+a quorum.
+  The ACTING PRESIDENT pro tempore. The clerk will call the roll.
+  The bill clerk proceeded to call the roll.
+  Mr. CONRAD. Mr. President, I ask unanimous consent that the order for 
+the quorum call be rescinded.
+  The ACTING PRESIDENT pro tempore. Without objection, it is so 
+ordered.
+
+                          ____________________
+```
