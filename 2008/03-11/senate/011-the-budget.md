@@ -1,0 +1,39 @@
+---
+granule: CREC-2008-03-11-pt1-PgS1826
+date: 2008-03-11
+edition: CREC
+section: SENATE
+page: S1826
+citation: 154 Cong. Rec. S1826
+---
+
+# THE BUDGET
+
+**Speaking:** Reid, Harry (R000146) [D-NV]
+
+```
+                               THE BUDGET
+
+  Mr. REID. Mr. President, the Democratic budget is about three things: 
+jobs, jobs, jobs. It is about green-collar jobs, jobs rebuilding 
+America, jobs relating to education and job training.
+  The one thing my friends on the other side of the aisle never talk 
+about is where we are now. They want more of the same. We don't want 
+more of the same. We have had enough. The American people have had 
+enough. The economy is in a downturn, spiraling down. The housing 
+market is in a state of tremendous distress. The stock market is 
+dropping as we speak. Oil is now at $109 a barrel.
+  Everything you hear from the Republicans is a buzzword for status 
+quo--keep things the way they are; the way things are is just fine; 
+let's just let things work out.
+  We don't believe in that. We have a recipe for change. Is it 
+something that has never been done before? No. Look at the Clinton 
+years, where we were taking in X number of dollars. If we brought in 
+$10, we only spent 8 of those dollars. That is the way it was during 
+the Clinton years. We paid down the national debt.
+  The budget we have, led by Senator Conrad, who has been chairman of 
+the Budget Committee for many years, is a program that creates jobs, 
+jobs, and jobs. That is what is important to the American people.
+
+                          ____________________
+```

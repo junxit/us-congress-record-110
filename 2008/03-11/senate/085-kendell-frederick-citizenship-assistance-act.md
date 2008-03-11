@@ -1,0 +1,255 @@
+---
+granule: CREC-2008-03-11-pt1-PgS1891
+date: 2008-03-11
+edition: CREC
+section: SENATE
+page: S1891
+citation: 154 Cong. Rec. S1891
+---
+
+# KENDELL FREDERICK CITIZENSHIP ASSISTANCE ACT
+
+**Speaking:** Brown, Sherrod (B000944) [D-OH], Leahy, Patrick J. (L000174) [D-VT]
+
+**Measures:** S. 2516
+
+```
+              KENDELL FREDERICK CITIZENSHIP ASSISTANCE ACT
+
+  Mr. BROWN. I ask unanimous consent that the Judiciary Committee be 
+discharged from further consideration of S. 2516 and the Senate proceed 
+to its immediate consideration.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The clerk will report the bill by title.
+  The bill clerk read as follows:
+
+       A bill (S. 2516) to assist members of the Armed Forces in 
+     obtaining United States citizenship, and for other purposes.
+
+  There being no objection, the Senate proceeded to consider the bill.
+  Mr. LEAHY. Mr. President, I appreciate Senator Mikulski's commitment 
+to helping those dedicated men and women who are not yet U.S. citizens 
+but who have served all Americans as members of the Armed Forces. 
+Easing the path to citizenship by removing duplicative procedures for 
+these dedicated men and women is the right thing to do, and I am glad 
+to support Senator Mikulski's efforts.
+  However, I also wish to note my concern with inclusion of language in 
+the bill, at the administration's behest, that appears to anticipate a 
+future expansion of the collection of biometric information from 
+individuals who seek to become naturalized citizens or who seek other 
+immigration benefits. In light of the purpose of Senator Mikulski's 
+bill, which is to streamline the naturalization procedures for legal 
+permanent residents serving in the military, it would make little sense 
+to place additional obstacles in the path of those who have made the 
+ultimate commitment to the United States.
+  I also register this concern to make clear that the language in this 
+bill with respect to biometric information should in no way be 
+misconstrued as authority for the administration to unilaterally expand 
+the type of biometric information beyond what is currently required to 
+obtain immigration benefits from the U.S. government. Federal 
+immigration law is the province of the Congress, and Congress retains 
+the sole power to determine the extent of rulemaking authority afforded 
+to Federal immigration agencies. The involvement of Congress in these 
+decisions is crucial to ensure that the procedures by which we admit or 
+deny individuals entry to the United States take into account the 
+interests of privacy, and are faithful to the welcoming traditions by 
+which our nation has prospered. Only Congress can provide the 
+deliberative, democratic process necessary to ensure that any future 
+requirements are consistent with American values.
+  We all recognize the need for robust security at our borders. But 
+over the last 7 years, the reputation of the United States as a 
+welcoming nation has been diminished as a result of often misguided 
+policies that take a reactionary, blunt, and hostile approach to 
+immigration. The administration has met its failure to enact meaningful 
+immigration reform with layer upon layer of security initiatives that 
+in some cases do little more than foreclose the promise of our great 
+Nation for so many who seek opportunity, advancement, or refuge. 
+America's security now and in the future demands more than border walls 
+and punitive, enforcement-only immigration policies. Our future 
+security, as well as our future prosperity, depends upon the balance 
+that has been absent for so long.
+  Mr. BROWN. I ask unanimous consent that the Mikulski substitute 
+amendment, which is at the desk, be agreed to; the bill, as amended, be 
+read a third time and passed; the motions to reconsider be laid on the 
+table, with no intervening action or debate and any statements be 
+printed in the Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment (No. 4177) was agreed to as follows:
+
+                (Purpose: In the nature of a substitute)
+
+       Strike all after the enacting clause and insert the 
+     following:
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Kendell Frederick 
+     Citizenship Assistance Act''.
+
+     SEC. 2. FINGERPRINTS AND OTHER BIOMETRIC INFORMATION FOR 
+                   MEMBERS OF THE UNITED STATES ARMED FORCES.
+
+       (a) In General.--Notwithstanding any other provision of 
+     law, including section 552a of title 5, United States Code 
+     (commonly referred to as the ``Privacy Act of 1974''), the 
+     Secretary of Homeland Security shall use the fingerprints 
+     provided by an individual at the time the individual enlisted 
+     in the United States Armed Forces, or at the time the 
+     individual filed an application for adjustment of status, to 
+     satisfy any requirement for background and security checks in 
+     connection with an application for naturalization if--
+       (1) the individual may be naturalized pursuant to section 
+     328 or 329 of the Immigration and Nationality Act (8 U.S.C. 
+     1439, 1440);
+       (2) the individual was fingerprinted and provided other 
+     biometric information in accordance with the requirements of 
+     the Department of Defense at the time the individual enlisted 
+     in the United States Armed Forces;
+       (3) the individual--
+       (A) submitted an application for naturalization not later 
+     than 24 months after the date on which the individual 
+     enlisted in the United States Armed Forces; or
+       (B) provided the required biometric information to the 
+     Department of Homeland Security through a United States 
+     Citizenship and Immigration Services Application Support 
+     Center at the time of the individual's application for 
+     adjustment of status if filed not later than 24 months after 
+     the date on which the individual enlisted in the United 
+     States Armed Forces; and
+       (4) the Secretary of Homeland Security determines that the 
+     biometric information provided, including fingerprints, is 
+     sufficient to conduct the required background and security 
+     checks needed for the applicant's naturalization application.
+       (b) More Timely and Effective Adjudication.--Nothing in 
+     this section precludes an individual described in subsection 
+     (a) from submitting a new set of biometric information, 
+     including fingerprints, to the Secretary of Homeland Security 
+     with an application for naturalization. If the Secretary 
+     determines that submitting a new set of biometric 
+     information, including fingerprints, would result in more 
+     timely and effective adjudication of the individual's 
+     naturalization application, the Secretary shall--
+       (1) inform the individual of such determination; and
+       (2) provide the individual with a description of how to 
+     submit such biometric information, including fingerprints.
+       (c) Cooperation.--The Secretary of Homeland Security, in 
+     consultation with the Secretary of Defense, shall determine 
+     the format of biometric information, including fingerprints, 
+     acceptable for usage under subsection (a). The Secretary of 
+     Defense, or any other official having custody of the 
+     biometric information, including fingerprints, referred to in 
+     subsection (a), shall--
+       (1) make such prints available, without charge, to the 
+     Secretary of Homeland Security for the purpose described in 
+     subsection (a); and
+       (2) otherwise cooperate with the Secretary of Homeland 
+     Security to facilitate the processing of applications for 
+     naturalization under subsection (a).
+       (d) Electronic Transmission.--Not later than one year after 
+     the date of the enactment of this Act, the Secretary of 
+     Homeland Security shall, in coordination with the Secretary 
+     of Defense and the Director of the Federal Bureau of 
+     Investigation, implement procedures that will ensure the 
+     rapid electronic transmission of biometric information, 
+     including fingerprints, from existing repositories of such 
+     information needed for military personnel applying for 
+     naturalization as described in subsection (a) and that will 
+     safeguard privacy and civil liberties.
+       (e) Centralization and Expedited Processing.--
+       (1) Centralization.--The Secretary of Homeland Security 
+     shall centralize the data processing of all applications for 
+     naturalization filed by members of the United States Armed 
+     Forces on active duty serving abroad.
+       (2) Expedited processing.--The Secretary of Homeland 
+     Security, the Director of the Federal Bureau of 
+     Investigation, and the Director of National Intelligence 
+     shall take appropriate actions to ensure that applications 
+     for naturalization by members of the United States Armed 
+     Forces described in paragraph
+
+[[Page S1892]]
+
+     (1), and associated background checks, receive expedited 
+     processing and are adjudicated within 180 days of the receipt 
+     of responses to all background checks.
+
+     SEC. 3. PROVISION OF INFORMATION ON MILITARY NATURALIZATION.
+
+       (a) In General.--Not later than 30 days after the effective 
+     date of any modification to a regulation related to 
+     naturalization under section 328 or 329 of the Immigration 
+     and Nationality Act (8 U.S.C. 1439, 1440), the Secretary of 
+     Homeland Security shall make appropriate updates to the 
+     Internet sites maintained by the Secretary to reflect such 
+     modification.
+       (b) Sense of Congress.--It is the sense of Congress that 
+     the Secretary of Homeland Security, not later than 180 days 
+     after each effective date described in subsection (a), should 
+     make necessary updates to the appropriate application forms 
+     of the Department of Homeland Security.
+
+     SEC. 4. REPORTS.
+
+       (a) Adjudication Process.--
+       (1) In general.--Not later than 120 days after the date of 
+     the enactment of this Act, the Secretary of Homeland Security 
+     shall submit a report to the appropriate congressional 
+     committees on the entire process for the adjudication of an 
+     application for naturalization filed pursuant to section 328 
+     or 329 of the Immigration and Nationality Act (8 U.S.C. 1439, 
+     1440), including the process that--
+       (A) begins at the time the application is mailed to, or 
+     received by, the Secretary, regardless of whether the 
+     Secretary determines that such application is complete; and
+       (B) ends on the date of the final disposition of such 
+     application.
+       (2) Contents.--The report submitted under paragraph (1) 
+     shall include a description of--
+       (A) the methods used by the Secretary of Homeland Security 
+     and the Secretary of Defense to prepare, handle, and 
+     adjudicate such applications;
+       (B) the effectiveness of the chain of authority, 
+     supervision, and training of employees of the Federal 
+     Government or of other entities, including contract 
+     employees, who have any role in such process or adjudication; 
+     and
+       (C) the ability of the Secretary of Homeland Security and 
+     the Secretary of Defense to use technology to facilitate or 
+     accomplish any aspect of such process or adjudication and to 
+     safeguard privacy and civil liberties
+       (b) Implementation.--
+       (1) Study.--The Comptroller General of the United States 
+     and the Inspector General of the Department of Homeland 
+     Security shall conduct a study on the implementation of this 
+     Act by the Secretary of Homeland Security and the Secretary 
+     of Defense, including an assessment of any technology that 
+     may be used to improve the efficiency of the naturalization 
+     process for members of the United States Armed Forces and an 
+     assessment of the impact of this Act on privacy and civil 
+     liberties.
+       (2) Report.--Not later than 180 days after the date on 
+     which the Secretary of Homeland Security submits the report 
+     required under subsection (a), the Comptroller General and 
+     the Inspector General shall submit a report to the 
+     appropriate congressional committees on the study required by 
+     paragraph (1) that includes recommendations for improving the 
+     implementation of this Act.
+       (c) Appropriate Congressional Committees Defined.--In this 
+     section, the term ``appropriate congressional committees'' 
+     means--
+       (1) the Committee on Armed Services of the Senate;
+       (2) the Committee on Homeland Security and Governmental 
+     Affairs of the Senate;
+       (3) the Committee on the Judiciary of the Senate;
+       (4) the Committee on Armed Services of the House of 
+     Representatives;
+       (5) the Committee on Homeland Security of the House of 
+     Representatives; and
+       (6) the Committee on the Judiciary of the House of 
+     Representatives.
+
+  The bill (S. 2516), as amended, was ordered to be engrossed for a 
+third reading, was read the third time, and passed.
+
+                          ____________________
+```
