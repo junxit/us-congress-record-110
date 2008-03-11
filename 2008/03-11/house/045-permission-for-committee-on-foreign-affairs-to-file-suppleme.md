@@ -1,0 +1,25 @@
+---
+granule: CRECB-2008-pt3-Pg3670
+date: 2008-03-11
+edition: CRECB
+section: HOUSE
+page: 3670
+---
+
+# PERMISSION FOR COMMITTEE ON FOREIGN AFFAIRS TO FILE SUPPLEMENTAL REPORT ON H.R. 5501, TOM LANTOS AND HENRY J. HYDE UNITED STATES GLOBAL LEADERSHIP AGAINST HIV/AIDS, TUBERCULOSIS, AND MALARIA REAUTHORIZATION ACT OF 2008
+
+```
+PERMISSION FOR COMMITTEE ON FOREIGN AFFAIRS TO FILE SUPPLEMENTAL REPORT 
+    ON H.R. 5501, TOM LANTOS AND HENRY J. HYDE UNITED STATES GLOBAL 
+LEADERSHIP AGAINST HIV/AIDS, TUBERCULOSIS, AND MALARIA REAUTHORIZATION 
+                              ACT OF 2008
+
+  Ms. BERKLEY. Madam Speaker, I ask unanimous consent that the 
+Committee on Foreign Affairs be authorized to file a supplemental 
+report on the bill H.R. 5501.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentlewoman from Nevada?
+  There was no objection.
+
+                          ____________________
+```
