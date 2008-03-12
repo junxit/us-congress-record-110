@@ -1,0 +1,108 @@
+---
+granule: CRECB-2008-pt3-Pg3924-3
+date: 2008-03-12
+edition: CRECB
+section: HOUSE
+page: 3924
+---
+
+# SOMETHING WE CAN ALL AGREE ON: OUR TAX SYSTEM NEEDS HELP
+
+```
+        SOMETHING WE CAN ALL AGREE ON: OUR TAX SYSTEM NEEDS HELP
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from Texas (Mr. Burgess) is recognized for 5 minutes.
+  Mr. BURGESS. Mr. Speaker, it's springtime in Washington. We're all 
+anxiously awaiting the start of the spring baseball season, cherry 
+blossoms, and of course April 15 when we all face the deadline for 
+filing our Federal income tax.
+  Now questions are often asked, paper or plastic, regular or decaf, 
+conservative or liberal. Americans don't always agree and don't always 
+see eye to eye. But there is one thing which a majority of us do agree 
+on and agree on hands down, that our Federal tax system needs serious 
+help. According to a 2007 Tax Foundation Study, 78 percent of Americans 
+think the tax system needs a major overhaul.
+  Everyone knows the problem. Each year Americans dedicate billions of 
+hours and billions of dollars complying with a very complex Tax Code. 
+In fact, in 2005, the average taxpayer paid almost $1,900 per household 
+in compliance costs. That means a taxpayer must work 6 days each year 
+just to pay for the cost of preparing his or her Federal taxes for that 
+year.
+  Time is precious. Time is money. Time is fleeting. Time is precious, 
+and we never have enough for raising our families. Time is money, and 
+valuable resources are lost that could be spent on productive 
+activities such as growing the economy and creating jobs. Time is 
+fleeting. And we can never reclaim those hours that we have spent 
+complying with our very complex Tax Code.
+  We all complain about paying taxes. We all complain about navigating 
+the complex code. And the fact is, if the system was fair and simple, 
+it would be a lot easier to follow and a lot easier to swallow. 
+Americans don't mind paying for roads, for a strong defense, or even 
+for health care for your grandmother.
+  The fact is, right now, we have a situation where two families can be 
+living side by side, earn exactly identical incomes and face a very 
+different tax liability on April 15. The Smith family makes the same 
+amount as the Jones family, and they're forced to pay a higher share of 
+the tax burden.
+  The Declaration of Independence states that all men are created 
+equal. Maybe it also should say all taxpayers should be created equal, 
+and it should apply to the tax burden.
+  Changes could be made within our existing system to improve it in the 
+short term. Full expensing of business capital, permanently repealing 
+the estate tax, abolishing the alternative minimum tax are a few of the 
+possibilities. But fundamental tax reform would pay larger dividends. 
+Just think of the jobs and economic growth that resulted when President 
+Ronald Reagan cut the code in half back in 1986. Let's apply some of 
+that same common sense that President Reagan used back in 1986 to 
+streamlining today's unruly code in the 21st century.
+  Simplicity and fairness demand that we replace our current system 
+with a single rate system that taxes income only one time. Even the 
+National Taxpayer Advocate, Nina Olsen, recommended that lawmakers 
+simplify the tax code. That was one of her recommendations in the 2007 
+annual report to Congress.
+  A faster, a flatter, a fairer tax structure would work and it's 
+pretty simple. Tax returns could be done on a single page, maybe even 
+on a postcard. It could be accomplished in just a few steps.
+  Time me now. Multiply your income by a fixed percentage, subtract a 
+standard deduction, and the process is over. Fourteen seconds. Gone 
+will be the stressful hours figuring out whether your military service 
+or your marital status will adversely affect your return. No more 
+headaches trying to determine where the estimated tax payments go. Tax 
+prep fees might be money spent on, I don't know, something more 
+rewarding. Maybe a vacation, maybe a personal day off, maybe even 
+creating a new job.
+  A single tax rate structure would eliminate taxes on capital gains, 
+taxes
+
+[[Page 3925]]
+
+and dividends and taxes on savings because again, remember, we're going 
+to tax income only one time. Businesses could expand and create jobs. 
+Personal savings would increase.
+  How many times we hear it said over and over again, Americans don't 
+save enough money. Americans don't save enough money because when they 
+put some of their hard-earned money into savings, half of the interest 
+earned goes away to Federal income tax. It's taxed as ordinary income. 
+Where's the incentive in that? We ought to incent savings in this 
+country, not punish it, not grind the saver into the dust when, in 
+reality, if we increase savings in this country we might not face some 
+of the problems that we face today.
+  Without the heavy corporate income tax which is currently the second 
+highest in the industrialized world; let me say that again, the second 
+highest in the industrialized world, companies would have less 
+incentive to move their headquarters out of the United States and, more 
+importantly, less incentive to offshore their earnings.
+  Recent polling by American Solutions show that 80 percent of 
+Americans favor an optional one page tax return with one rate. After 
+all, who could complain about making something easier, especially a 
+process that comes at a high cost.
+  Former Speaker Gingrich said in this body over and over again, real 
+change requires real change. Americans agree the Tax Code is unfair and 
+should go. Let's take a cue and translate this agreement into real 
+change. After all, fundamental tax reform is a worthwhile goal, and 
+this Congress, this Congress should take it up and pursue it for the 
+benefit of the American people.
+
+                          ____________________
+```
