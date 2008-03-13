@@ -1,0 +1,47 @@
+---
+granule: CREC-2008-03-13-pt1-PgE391-2
+date: 2008-03-13
+edition: CREC
+section: EXTENSIONS
+page: E391
+citation: 154 Cong. Rec. E391
+---
+
+# 20TH ANNIVERSARY OF SADDAM HUSSEIN'S ATTACK ON HALABJA, IRAQ
+
+**Speaking:** Wolf, Frank R. (W000672) [R-VA]
+
+```
+      20TH ANNIVERSARY OF SADDAM HUSSEIN'S ATTACK ON HALABJA, IRAQ
+
+                                 ______
+                                 
+
+                           HON. FRANK R. WOLF
+
+                              of virginia
+
+                    in the house of representatives
+
+                        Thursday, March 13, 2008
+
+  Mr. WOLF. Madam Speaker, I rise today to call the attention of the 
+House to the 20th anniversary of Saddam Hussein's attack on the city of 
+Halabja with chemical and biological weapons. On March 16, 1988, these 
+weapons killed some 5,000 Kurdish men, women and children, as part of 
+Hussein's Al-Anfal campaign to kill and displace the Kurdish population 
+in northern Iraq.
+  According to a comprehensive study by Human Rights Watch, the 1988 
+Al-Anfal campaign consisted of approximately 40 gas attacks and 
+resulted in the deaths of at least 50,000 and perhaps as many as 
+100,000 Iraqi Kurds. The worst in this series of attacks was on 
+Halabja.
+  The attack in 1988 has left behind a cruel and persistent legacy on 
+the village of Halabja, where inhabitants experience a high instance of 
+life threatening medical conditions due to the persistence of noxious 
+poisons in the food and water supply. I ask that our colleagues 
+remember this day, which exemplifies the legacy of brutality and human 
+rights abuses that characterized the regime of the late Saddam Hussein.
+
+                          ____________________
+```

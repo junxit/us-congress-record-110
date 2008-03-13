@@ -1,0 +1,95 @@
+---
+granule: CREC-2008-03-13-pt2-PgS2188-3
+date: 2008-03-13
+edition: CREC
+section: SENATE
+page: S2188
+citation: 154 Cong. Rec. S2188
+---
+
+# NATIONAL SAFE PLACE WEEK
+
+**Speaking:** Reid, Harry (R000146) [D-NV]
+
+**Measures:** S.Res. 488
+
+```
+                        NATIONAL SAFE PLACE WEEK
+
+  Mr. REID. Mr. President, I ask unanimous consent that the Senate 
+proceed to S. Res. 488.
+  The PRESIDING OFFICER. The clerk will report the resolution by title.
+  The legislative clerk read as follows:
+
+       A resolution (S. Res. 488) designating the week beginning 
+     March 16, 2008 as ``National Safe Place Week.''
+
+  There being no objection, the Senate proceeded to consider the 
+resolution.
+  Mr. REID. I ask unanimous consent that the resolution be agreed to, 
+the preamble be agreed to, the motions to reconsider be laid on the 
+table, and
+
+[[Page S2189]]
+
+there be no intervening action or debate, and any statements relating 
+to this matter be printed in the Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The resolution (S. Res. 488) was agreed to.
+  The preamble was agreed to.
+  The resolution, with its preamble, reads as follows:
+
+                              S. Res. 488
+
+       Whereas the youths of the United States will be the future 
+     bearers of the bright torch of democracy;
+       Whereas youths need a safe haven from various negative 
+     influences, such as child abuse, substance abuse, and crime, 
+     and youths need to have resources readily available to assist 
+     them when faced with circumstances that compromise their 
+     safety;
+       Whereas the United States needs increased numbers of 
+     community volunteers acting as positive influences on the 
+     youths of the Nation;
+       Whereas the Safe Place program is committed to protecting 
+     the youths of the United States, the Nation's most valuable 
+     asset, by offering short term safe places at neighborhood 
+     locations where trained volunteers are available to counsel 
+     and advise young people seeking assistance and guidance;
+       Whereas the Safe Place program combines the efforts of the 
+     private sector and nonprofit organizations to reach young 
+     people in the early stages of crisis;
+       Whereas the Safe Place program provides a direct way to 
+     assist programs in meeting performance standards relative to 
+     outreach and community relations, as set forth in the Runaway 
+     and Homeless Youth Act (42 U.S.C. 5701 et seq.);
+       Whereas the Safe Place placard displayed at businesses 
+     within communities stands as a beacon of safety and refuge to 
+     at-risk youths;
+       Whereas more than 900 communities in 41 States make the 
+     Safe Place program available at nearly 16,000 locations;
+       Whereas more than 200,000 youths have gone to Safe Place 
+     locations to get help when faced with crisis situations and 
+     have received counseling by phone as a result of Safe Place 
+     information the youths received at school;
+       Whereas, through the efforts of Safe Place coordinators 
+     across the United States, each year more than 500,000 
+     students learn in a classroom presentation that the Safe 
+     Place program is a resource they can turn to if they 
+     encounter an abusive or neglectful situation, and 1,000,000 
+     Safe Place information cards are distributed; and
+       Whereas increased awareness of the Safe Place program will 
+     encourage more communities to establish Safe Place locations 
+     for the youths of the United States: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) designates the week of March 16 through March 22, 2008, 
+     as ``National Safe Place Week''; and
+       (2) calls upon the people of the United States and 
+     interested groups to--
+       (A) promote awareness of, and volunteer involvement in, the 
+     Safe Place program; and
+       (B) observe the week with appropriate ceremonies and 
+     activities.
+
+                          ____________________
+```

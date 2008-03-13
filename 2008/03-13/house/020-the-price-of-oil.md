@@ -1,0 +1,42 @@
+---
+granule: CREC-2008-03-13-pt1-PgH1623-6
+date: 2008-03-13
+edition: CREC
+section: HOUSE
+page: H1623
+citation: 154 Cong. Rec. H1623
+---
+
+# THE PRICE OF OIL
+
+**Speaking:** Shimkus, John (S000364) [R-IL]
+
+```
+                            THE PRICE OF OIL
+
+  (Mr. SHIMKUS asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. SHIMKUS. Madam Speaker, energy security is national security. 
+When President Bush was sworn into office, a barrel of crude oil was 
+approximately $27 a barrel. When the Democrats took over the House, the 
+price of a barrel of crude oil was $58, a $31 increase.
+  Since this Democrat-controlled House has been in power, the price of 
+a barrel of crude oil has gone from $35 to today $110 a barrel of crude 
+oil.
+  Now, what's the solution? The solution is more supply. Democrats 
+continue to block Outer Continental Shelf exploration. They continue to 
+block oil exploration. They continue to block coal-to-liquid 
+technologies.
+  More supply brings lower prices. If you know basic economics supply 
+and demand, you know that if you have a high demand you need more 
+supply.
+  Until we bring more supply back into this debate, the only thing we 
+could
+
+[[Page H1624]]
+
+tell our consumers and our constituents is be prepared for more price 
+spikes. Energy security is national security.
+
+                          ____________________
+```
