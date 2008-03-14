@@ -1,0 +1,51 @@
+---
+granule: CREC-2008-03-14-pt1-PgE429-2
+date: 2008-03-14
+edition: CREC
+section: EXTENSIONS
+page: E429
+citation: 154 Cong. Rec. E429
+---
+
+# A TRIBUTE TO CORPORAL CHASE DINDO AND ALL OF LIMA COMPANY FOR HELPING TO SAVE THE LIFE OF A LITTLE IRAQI GIRL
+
+**Speaking:** Bonner, Jo (B001244) [R-AL]
+
+```
+ A TRIBUTE TO CORPORAL CHASE DINDO AND ALL OF LIMA COMPANY FOR HELPING 
+                TO SAVE THE LIFE OF A LITTLE IRAQI GIRL
+
+                                 ______
+                                 
+
+                             HON. JO BONNER
+
+                               of alabama
+
+                    in the house of representatives
+
+                         Friday, March 14, 2008
+
+  Mr. BONNER. Madam Speaker, it is with great pride and pleasure that I 
+rise today to pay tribute to Corporal Chase Dindo of Mobile and his 
+Alabama-based Marine Corps Reserve unit for helping save the life of a 
+two-year old Iraqi girl, Amenah.
+  In December of last year, one of the Marines of the Montgomery-based 
+unit, Lima Company of the 3rd Battalion, 23rd Marines discovered little 
+Amenah was suffering from a rare life-threatening heart problem.
+  Lima Company stepped into action making arrangements with Children's 
+Hospital in Nashville, Tennessee, for Amenah to have the life-saving 
+surgery. The hospital and surgeons donated their facilities and 
+surgical skills at no charge. The unit took Amenah and her mother to 
+the Jordanian border where the two were flown to the United States.
+  Amenah's three-hour operation was a success, and she will spend six 
+to eight weeks in the United States recovering before returning with 
+her mother to their home in Haditha, Iraq.
+  I ask my colleagues to join me in recognizing Cpl. Chase Dindo and 
+the entire Lima Company for their selfless actions to save the life of 
+a little girl. I know I join their families and friends in extending 
+our heartfelt thanks for their outstanding service to the United States 
+of America--they are true American heroes.
+
+                          ____________________
+```
