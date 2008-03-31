@@ -1,0 +1,90 @@
+---
+granule: CREC-2008-03-31-pt1-PgH1796
+date: 2008-03-31
+edition: CREC
+section: HOUSE
+page: H1796
+citation: 154 Cong. Rec. H1796
+---
+
+# THE DEMOCRATS' "MAGIC PLAN" TO LOWER GAS PRICES HAS NOT WORKED
+
+**Speaking:** Westmoreland, Lynn A. (W000796) [R-GA]
+
+```
+    THE DEMOCRATS' ``MAGIC PLAN'' TO LOWER GAS PRICES HAS NOT WORKED
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from Georgia (Mr. Westmoreland) is recognized for 5 minutes.
+  Mr. WESTMORELAND. Mr. Speaker, this morning the price of a barrel of 
+oil fell to $105 after hitting an all-time high of nearly $112 in the 
+middle of March. Less than 2 years ago, the Democrats promised 
+Americans that they had a magic plan for lowering gas prices, but since 
+they have been in control of Congress, prices have simply gone higher 
+and higher. But at the time, those prices were enough to alarm 
+Americans when Republicans were in the majority.
+  On the floor of the House and on the campaign trail in districts 
+throughout the Nation, the Democrats seized on those anxieties and 
+pointedly blamed the Republican White House and Congress for rising gas 
+prices. Time and time again, they said they had a magic formula for 
+lowering the cost.
+  On April 16, 2006, the then-minority leader Nancy Pelosi said in a 
+press release, ``The Republican rubber stamp Congress has passed two 
+energy bills, costing taxpayers $12 billion for giveaways to big oil 
+companies. But the Republican bills clearly have done nothing to lower 
+gas prices, as the price of a barrel of oil has settled above $70 a 
+barrel, the highest price in our history.'' The release went on to say, 
+``Democrats have a plan to lower gas prices.''
+  Then the next week another Pelosi release said, ``Democrats have a 
+commonsense plan to help bring down skyrocketing gas prices . . . ''
+  When in 2006 the House considered the energy bill to increase 
+domestic production, the Democrats took to this floor in outrage. A 
+Democrat congressman from California said on the floor about the 
+Republican energy bill of 2006, ``It is no wonder their initials are G-
+O-P: gas, oil, and petroleum . . . It is time House Republicans join us 
+in providing some real relief to the American consumer.''
+  That same day a Democratic Member from Connecticut said, ``When it 
+comes to solving the energy crisis, President Bush and his Republican 
+Congress have no credibility. If they had only spent the last 5 years 
+working to reduce demand,'' like the Democrats have proposed, ``by 
+raising fuel standards, rolling back the billions of dollars in tax 
+breaks and royalty relief to the big oil companies, and if they were 
+about promoting alternative fuels, as the Democrats have proposed, we 
+might today be on the road to energy independence instead of bracing 
+ourselves for $4 gas prices.
+  Let me put this rhetoric into context, Mr. Speaker. When the 
+Democrats took over both Houses of Congress in January of 2007, gas 
+prices that month ranged from $50 to $60 a barrel for oil. But at the 
+end of 2007, the Democrats' magic plan for lowering gas prices 
+apparently hasn't worked out because today oil is closing at over $100 
+a barrel.
+  But wait, Mr. Speaker. It gets even crazier. A House Appropriations 
+subcommittee this week will be looking at raising gas taxes 25 to 40 
+cents a gallon.
+
+                              {time}  2000
+
+  Seems to me that that makes prices go up 25 to 40 cents a gallon. But 
+what do I know? I've never professed to understand the Democrats' magic 
+formula for lowering gas prices.
+  On gas prices, as on earmarks, spending, and ethics, the Democrats 
+ran as the Great Crusaders. But they've governed as the Great 
+Pretenders. Democrats have proposed nothing that would do anything but 
+raise gas prices at the pump. Just last month, the House Democrats 
+passed another ``no-energy'' energy bill in the form of an $18 billion 
+tax increase on American energy. This marks the fourth time the 
+Democrats have held a vote to raise energy taxes. This sort of agenda 
+will only slow the economy by discouraging domestic energy production 
+and increasing our dependence on foreign nations for our energy.
+  Our Nation needs energy production to keep our competitive edge in 
+the global marketplace. We all want to achieve breakthroughs in 
+alternative energies that will have a growing importance in the future. 
+But we can't pretend that oil isn't by far the most important fuel in 
+our economy. We have to increase domestic production. We need to give 
+American companies incentive to produce, rather than demonizing them 
+for providing a commodity that our livelihoods depend on.
+  Let's put American ingenuity to work in the field. And let's put the 
+Democrat's magic formula back on the shelf.
+
+                          ____________________
+```
