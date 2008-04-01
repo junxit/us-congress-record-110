@@ -1,0 +1,43 @@
+---
+granule: CREC-2008-04-01-pt1-PgH1829
+date: 2008-04-01
+edition: CREC
+section: HOUSE
+page: H1829
+citation: 154 Cong. Rec. H1829
+---
+
+# OUR TROOPS IN IRAQ
+
+**Speaking:** Miller, George (M000725) [D-CA]
+
+```
+                           OUR TROOPS IN IRAQ
+
+  (Mr. GEORGE MILLER of California asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. GEORGE MILLER of California. Members of the House, this country 
+has given the best of its young men and women in the battle in the war 
+in Iraq and much of its treasure on the theory that we were fighting 
+terrorists in Iraq so that we would be safer at home, on the theory 
+that we were fighting terrorists in Iraq to eradicate them. We have 
+lost over 4,000 young men and women in that battle, and tens of 
+thousands of more seriously wounded, and almost $1 trillion of our 
+treasure. Yet, this last week we saw our troops were not called upon to 
+go against insurgents, to go against al Qaeda. They were called upon to 
+enforce one side of an election battle of Shias against another band of 
+Shias.
+  Our troops were put into battle over this last week because there was 
+a fear by the Maliki government that the Supreme Council of Iraq would 
+lose an election in Bosra. So they declared a battle against Muqtada 
+al-Sadr's supporters in Bosra. They were unable to do it. They were 
+unable to effectively carry it out. And they didn't force American 
+troops into that battle.
+  Our troops should not be engaged in trying to square the field for 
+the election advantage of one group of Iraqis over another. That is 
+what elections are about, that is what democracy is about. But it 
+should not be with the lives of our troops and the treasure of this 
+country.
+
+                          ____________________
+```

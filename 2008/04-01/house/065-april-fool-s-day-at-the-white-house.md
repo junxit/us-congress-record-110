@@ -1,0 +1,67 @@
+---
+granule: CREC-2008-04-01-pt1-PgH1867-5
+date: 2008-04-01
+edition: CREC
+section: HOUSE
+page: H1867
+citation: 154 Cong. Rec. H1867
+---
+
+# APRIL FOOL'S DAY AT THE WHITE HOUSE
+
+**Speaking:** Woolsey, Lynn C. (W000738) [D-CA]
+
+```
+                  APRIL FOOL'S DAY AT THE WHITE HOUSE
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentlewoman from California (Ms. Woolsey) is recognized for 5 minutes.
+  Ms. WOOLSEY. Madam Speaker, today is April the 1st, a day that also 
+goes by the nickname April Fool's Day. For most of us, this is a day of 
+trickery that only comes once a year. For the White House, it is a day 
+that comes all too often. The mistruths, the lies, the deceptions, 
+whatever you want to call them, keep flowing out of the White House and 
+from its cronies.
+  Just the other day, our very own ambassador to Iraq said, and I quote 
+him, ``I think there has to be an honest discussion of the consequences 
+of Iraq.'' An honest discussion. Now? Why didn't the administration do 
+that 5 years ago, I ask you? Just now we need to put on our thinking 
+caps and get serious about Iraq? We are in the sixth year of this 
+occupation, and Ambassador Crocker thinks now is the time to 
+contemplate what is going to happen in Iraq? This is far beyond a day 
+late and a dollar short. They are 5 years late and one-half trillion 
+dollars short.
+  But this never ending April Fool's Day goes on and on. How about 
+these oldies but goodies:
+  In July 2002, then Secretary of Defense Donald Rumsfeld had a one-
+word answer for reporters who asked whether Iraq had relationships with 
+al Qaeda terrorists. His answer was, ``Sure.''
+  Vice President Dick Cheney in August 2002 simply stated, ``There is 
+no doubt that Saddam Hussein now has weapons of mass destruction. There 
+is no doubt he is amassing them to use against our friends, against our 
+allies, and against us.''
+  On January 28, 2003, in his annual State of the Union, the President 
+asserted that the British government has learned that Saddam Hussein 
+recently sought significant quantities of uranium from Africa. He 
+continued, ``Our intelligence sources tell us that he has attempted to 
+purchase high-strength aluminum tubes suitable for nuclear weapons 
+production.''
+  The administration, which has racked up one-half trillion dollars in 
+debt, even made the claim that Iraqi oil would pay for the war and that 
+we would be met with cheers and flowers.
+  Remember that old proverb: Fool me once, shame on you. Fool me twice, 
+shame on me. But, you know what? The American people were not fooled by 
+these statements, and this Congress mustn't be fooled, either. That is 
+why 92 Members of this House have sent a clear message to the 
+President. We signed a letter stating that we will not support any more 
+blank checks. In fact, we said we will only support appropriating 
+additional funds for U.S. military operations in Iraq during fiscal 
+year 2008 and beyond for the protection and safe redeployment of our 
+troops out of Iraq before President Bush leaves office.
+  There is absolutely nothing funny about these tricks that the 
+administration has played on this Nation. April Fool's Day ends today. 
+We must not take any more nonsense from the White House, and we must 
+not sign one more blank check.
+
+                          ____________________
+```
