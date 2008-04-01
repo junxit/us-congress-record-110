@@ -1,0 +1,40 @@
+---
+granule: CRECB-2008-pt4-Pg4645-2
+date: 2008-04-01
+edition: CRECB
+section: HOUSE
+page: 4645
+---
+
+# ADMINISTRATION EFFORTS IN HOUSING AND SUBPRIME MORTGAGE CRISIS TOO LITTLE AND TOO LATE
+
+```
+                              {time}  1230
+  ADMINISTRATION EFFORTS IN HOUSING AND SUBPRIME MORTGAGE CRISIS TOO 
+                          LITTLE AND TOO LATE
+
+  (Mr. PALLONE asked and was given permission to address the House for 
+1 minute.)
+  Mr. PALLONE. Madam Speaker, last Friday President Bush traveled to my 
+home county in New Jersey to encourage residents to seek free credit 
+counseling if they faced the threat of losing their homes. And while 
+the credit counseling is good advice, the President's actions were 
+simply too little and too late.
+  For months, the President has known that the housing and subprime 
+mortgage crisis could force more than 2 million people to lose their 
+homes over the next 5 years. Until yesterday, the President was 
+unwilling to address this crisis in any way. And that is nothing new. 
+For 7 years now, the Bush administration has taken a hands-off approach 
+to Wall Street, allowing the corporations responsible for much of this 
+mortgage crisis to work under the radar without any government 
+oversight or regulation. Finally, the administration recognized 
+yesterday that the President's credit counseling advice was not going 
+to be enough. Treasury Secretary Paulson announced a proposal that 
+finally calls for the regulation of these financial institutes. But, 
+again, this is too little and too late.
+  Madam Speaker, this House has already acted and will continue to pass 
+legislation that will help homeowners today, and I would hope the 
+President would support our efforts.
+
+                          ____________________
+```

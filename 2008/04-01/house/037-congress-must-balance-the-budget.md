@@ -1,0 +1,38 @@
+---
+granule: CRECB-2008-pt4-Pg4645
+date: 2008-04-01
+edition: CRECB
+section: HOUSE
+page: 4645
+---
+
+# CONGRESS MUST BALANCE THE BUDGET
+
+```
+                    CONGRESS MUST BALANCE THE BUDGET
+
+  (Mr. CULBERSON asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. CULBERSON. Madam Speaker, in our personal lives, when we have our 
+credit cards topped out, when we have a second mortgage on the home, we 
+quit spending money. We balance our own personal budget and we focus on 
+the essentials. And this Congress needs to do the same thing. But, 
+unfortunately, the Obama-Clinton-Pelosi Democratic leadership of the 
+Congress is driving America's economy right over the cliff, like Thelma 
+and Louise, spending money and raising taxes.
+  The Comptroller of the United States has certified that we are in a 
+$54 trillion hole; that in order to pay that off, every American would 
+have to write a check for $175,000. This is outrageous. It is 
+unsupportable.
+  We need to adopt Frank Wolf's legislation with Mr. Cooper, making 
+sure that Social Security is solvent, that we balance the Federal 
+budget as rapidly as possible. Above all, this Congress has got to quit 
+spending money on unnecessary things, focus on the bare essentials and 
+quit raising taxes on the American people. Above all, let's not shift 
+all of that liability that is now apparent on Wall Street, this $1 
+trillion writeoff that the banks are attempting to shift on to the 
+United States Treasury. We cannot do it. We have got to quit spending 
+money and balance the budget.
+
+                          ____________________
+```
