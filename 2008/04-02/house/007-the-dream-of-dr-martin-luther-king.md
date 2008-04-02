@@ -1,0 +1,35 @@
+---
+granule: CRECB-2008-pt4-Pg4773-7
+date: 2008-04-02
+edition: CRECB
+section: HOUSE
+page: 4773
+---
+
+# THE DREAM OF DR. MARTIN LUTHER KING
+
+```
+                  THE DREAM OF DR. MARTIN LUTHER KING
+
+  (Mr. COHEN asked and was given permission to address the House for 1 
+minute.)
+  Mr. COHEN. Madam Speaker, on Friday, April 4, this Nation will 
+observe the 40th anniversary of the tragic assassination of Dr. Martin 
+Luther King, Jr. Dr. King was a great American who fought injustice; 
+not just social injustice, but economic injustice. His beliefs 40 years 
+later have not been fulfilled. His dream is still alive, but not 
+fulfilled.
+  In his time, he fought a war and was against a war in Asia that this 
+country was fighting and losing, and costing us much in terms of human 
+sacrifice, as well as financial sacrifice. We see that same situation 
+today, as we have the cost in Iraq taking away from our cities and our 
+people. He fought for working people who were working hard but not 
+moving forward. Today, we see working people in the middle-class 
+continuing to having their power eroded and taken away from them.
+  I ask each person in this House and each person in America to think 
+of Dr. King this week and to think of Dr. King every day and keep his 
+dream alive and move this country forward with economic and social 
+justice, for we need it more now than ever.
+
+                          ____________________
+```
