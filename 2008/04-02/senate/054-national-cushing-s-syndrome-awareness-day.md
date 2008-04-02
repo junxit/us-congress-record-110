@@ -1,0 +1,100 @@
+---
+granule: CREC-2008-04-02-pt1-PgS2364-5
+date: 2008-04-02
+edition: CREC
+section: SENATE
+page: S2364
+citation: 154 Cong. Rec. S2364
+---
+
+# NATIONAL CUSHING'S SYNDROME AWARENESS DAY
+
+**Speaking:** Reid, Harry (R000146) [D-NV]
+
+**Measures:** S.Res. 498
+
+```
+               NATIONAL CUSHING'S SYNDROME AWARENESS DAY
+
+  Mr. REID. Mr. President, I ask unanimous consent that the Senate now 
+proceed to the consideration of S. Res. 498.
+  The PRESIDING OFFICER. The clerk will report the resolution by title.
+  The assistant legislative clerk read as follows:
+
+       A resolution (S. Res. 498) designating April 8, 2008, as 
+     ``National Cushing's Syndrome Awareness Day.''
+  There being no objection, the Senate proceeded to consider the 
+resolution.
+  Mr. REID. Mr. President, I ask unanimous consent that the resolution 
+be agreed to, the preamble be agreed to, and the motions to reconsider 
+be laid upon the table.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The resolution (S. Res. 498) was agreed to.
+  The preamble was agreed to.
+  The resolution, with its preamble, reads as follows:
+
+                              S. Res. 498
+
+       Whereas Cushing's Syndrome affects an estimated 10 to 15 
+     people per 1,000,000 people annually, most of those affected 
+     are between the ages of 20 and 50;
+       Whereas Cushing's Syndrome is an endocrine or hormonal 
+     disorder caused by the prolonged exposure of the body's 
+     tissue to high levels of the hormone cortisol;
+       Whereas exposure to cortisol can occur by overproduction of 
+     cortisol in the body or by taking glucocorticoid hormones, 
+     which are routinely prescribed for asthma, rheumatoid 
+     arthritis, and lupus, or as an immunosuppressant following 
+     organ transplants;
+       Whereas Cushing's Syndrome may also result from pituitary 
+     adenomas, ectopic
+
+[[Page S2365]]
+
+     adrenocorticotropic hormone (ACTH) syndrome, adrenal tumors, 
+     and Familial Cushing's Syndrome;
+       Whereas Cushing's Syndrome can cause abnormal weight gain, 
+     skin changes, and fatigue and can ultimately lead to 
+     diabetes, high blood pressure, depression, osteoporosis, or 
+     death;
+       Whereas Cushing's Syndrome is diagnosed through a series of 
+     tests, often requiring x-ray examinations of adrenal or 
+     pituitary glands to locate tumors;
+       Whereas many people who suffer from Cushing's Syndrome are 
+     misdiagnosed or go undiagnosed for years because many of the 
+     symptoms of Cushing's Syndrom are also indications of milder 
+     diseases, and those errors in diagnoses delay the 
+     implementation of important treatment options;
+       Whereas treatments for Cushing's Syndrome include surgery, 
+     radiation, chemotherapy, the use of cortisol-inhibiting 
+     drugs, and reducing the dosage of glucocorticoid hormones;
+       Whereas Cushing's Syndrome was discovered by Dr. Harvey 
+     Williams Cushing, who was born on April 8, 1869;
+       Whereas the Dr. Harvey Cushing stamp was part of the United 
+     States Postal Service's ``Great American'' series of stamps, 
+     initiated in 1980 to recognize individuals for making 
+     significant contributions to the heritage and culture of the 
+     United States;
+       Whereas President Ronald Reagan spoke on April 8, 1987, in 
+     the Rose Garden at a White House ceremony to unveil the 
+     commemorative stamp honoring Dr. Harvey Cushing;
+       Whereas, following the ceremony, President Reagan hosted a 
+     reception in the State Dining Room for Mrs. John Hay Whitney, 
+     Dr. Cushing's daughter, and representatives of the American 
+     Association of Neurological Surgeons; and
+       Whereas the Senate is an institution that can raise 
+     awareness of Cushing's Syndrome in the general public and the 
+     medical community: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) designates April 8, 2008, as ``National Cushing's 
+     Syndrome Awareness Day'';
+       (2) recognizes that all people in the United States should 
+     become more informed and aware of Cushing's Syndrome;
+       (3) calls upon the people of the United States to observe 
+     the date with appropriate ceremonies and activities; and
+       (4) directs the Secretary of the Senate to transmit a copy 
+     of this resolution to the Cushing's Understanding, Support, 
+     and Help Organization.
+
+                          ____________________
+```

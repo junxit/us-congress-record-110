@@ -1,0 +1,39 @@
+---
+granule: CREC-2008-04-02-pt1-PgH1942-4
+date: 2008-04-02
+edition: CREC
+section: HOUSE
+page: H1942
+citation: 154 Cong. Rec. H1942
+---
+
+# MARINE PATRICK DOWDELL OF BREEZY POINT
+
+**Speaking:** Weiner, Anthony D. (W000792) [D-NY]
+
+```
+                 MARINE PATRICK DOWDELL OF BREEZY POINT
+
+  (Mr. WEINER asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. WEINER. Mr. Speaker, it is easy in the era where we look at the 
+big numbers and the headlines in the newspaper to forget about the 
+great acts of heroism that are going on right this very moment in Iraq 
+and elsewhere in our world. I rise to bring to the attention of this 
+body the heroism of Lieutenant Patrick Dowdell. He is serving with the 
+4th Infantry in Iraq as we speak. That is a division that has lost, 
+unfortunately, over 135 heroic men and women. He is not the only hero 
+in the family. His younger brother, James, recently began service in 
+Ladder Company 174 in East Flatbush. I hope you will join with me and 
+all of his neighbors in Breezy Point in expressing tribute to this 
+family.
+  This family has one other chapter of heroism in its book. Lieutenant 
+Kevin Dowdell, the father of both Patrick and James, was lost on 
+September 11, a firefighter, in the World Trade Center. We join with 
+this entire body and all of this country in commending Rose Ellen, 
+their mother, and the acts of heroism that they are paying both here 
+and in generations in the past. May God bless them, and God bless the 
+United States of America.
+
+                          ____________________
+```

@@ -1,0 +1,48 @@
+---
+granule: CREC-2008-04-02-pt1-PgH1891-5
+date: 2008-04-02
+edition: CREC
+section: HOUSE
+page: H1891
+citation: 154 Cong. Rec. H1891
+---
+
+# WELCOMING REV. ELLIOTT L. FOSS
+
+**Speaking:** Kingston, Jack (K000220) [R-GA]
+
+```
+                     WELCOMING REV. ELLIOTT L. FOSS
+
+  (Mr. KINGSTON asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. KINGSTON. Madam Speaker, Members of the House, it's a great honor 
+today to introduce my friend, the Reverend Elliott Foss, to the chamber 
+and to the folks who are our visitors today. Elliott has been a friend 
+of mine for a number of years, almost going on two decades, in fact. 
+Elliott was appointed the National Chaplain of the American Legion on 
+August 30, 2007, by the National Commander, Marty Conatser. The 
+appointment was made following the closing session of the 89th National 
+Convention in Reno, Nevada.
+  He is a retired U.S. Navy Command Master Chief and Hospital Corpsman 
+from the Submarine Division, and served during the Vietnam War and 
+through the Gulf wars. Elliott attended Candler Seminary School of 
+Ministry at Emory University. He also served as pastor to churches in 
+Maine, Virginia, Connecticut, Florida, and Georgia. He is a Georgia 
+resident and is an ordained Southern Baptist Minister and Chaplain, 
+even though he has been the minister in four different Methodist 
+churches in my district.
+  Elliott is a member of the American Legion Post 317 in coastal 
+Georgia, where he serves as Post Commander. Reverend Foss also has 
+served as the 8th District Vice Commander and as Post 9 Brunswick 
+Commander. Chaplain Foss serves as the Department of Georgia Chaplain 
+for now 7 years. He has held numerous leadership positions at the post, 
+State and national levels during the past 11 years.
+  He and his wife, Arlene, reside in Kingsland, Georgia. I first got to 
+know him when he was the chaplain of the Seaman's House and worked with 
+people and sailors from all over the world and members of our own 
+merchant marine. He is a great guy, a great man of the Lord, and we are 
+very proud to have him as chaplain of the day today.
+
+                          ____________________
+```

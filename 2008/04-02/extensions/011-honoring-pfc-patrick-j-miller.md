@@ -1,0 +1,58 @@
+---
+granule: CREC-2008-04-02-pt1-PgE472-6
+date: 2008-04-02
+edition: CREC
+section: EXTENSIONS
+page: E472
+citation: 154 Cong. Rec. E472
+---
+
+# HONORING PFC PATRICK J. MILLER
+
+**Speaking:** Bilirakis, Gus M. (B001257) [R-FL]
+
+```
+                     HONORING PFC PATRICK J. MILLER
+
+                                 ______
+                                 
+
+                         HON. GUS M. BILIRAKIS
+
+                               of florida
+
+                    in the house of representatives
+
+                        Wednesday, April 2, 2008
+
+  Mr. BILIRAKIS. Madam Speaker, Patrick J. Miller of New Port Richey, 
+Florida, was killed in Iraq over the weekend defending the freedom and 
+liberties of those unable to defend themselves.
+
+[[Page E473]]
+
+  Private First Class Miller, also known as P.J., was assigned to the 
+1st Infantry Division, stationed in Fort Riley, Kansas. He was deployed 
+in Iraq since September 2007 and was fatally wounded when his unit came 
+up against an IED attack and small arms fire during combat operations 
+in Baghdad.
+  Although I did not have the privilege of knowing this courageous 
+young man, by all accounts he was someone who lived every day with the 
+same honor and integrity that he brought to the service of his country.
+  Prior to joining the Army, P.J. graduated from Mitchell High School 
+in New Port Richey. While there, he excelled both in academics and 
+athletics. These traits would serve him well later in life in both 
+college and as a soldier in the U.S. Army. P.J. eventually earned his 
+bachelor's degree in biology from the University of South Florida and 
+aspired to one day further his education in graduate school.
+  Private First Class Miller's life was one of courage, perseverance 
+and determination. He gave the ultimate sacrifice to protect us and the 
+country he loved. This is a debt that can never be repaid to his family 
+and loved ones.
+  Madam Speaker, I am saddened by the loss of P.J. and grieve for his 
+family. May God bless them and comfort them in this time of great loss. 
+May God also bless this great country for which Private First Class 
+Miller so nobly fought and died. We shall never forget him.
+
+                          ____________________
+```
