@@ -1,0 +1,39 @@
+---
+granule: CREC-2008-04-03-pt1-PgS2590-5
+date: 2008-04-03
+edition: CREC
+section: SENATE
+page: S2590
+citation: 154 Cong. Rec. S2590
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                  commodity futures trading commission
+
+       BARTHOLOMEW H. CHILTON, OF DELAWARE, TO BE A COMMISSIONER 
+     OF THE COMMODITY FUTURES TRADING COMMISSION FOR A TERM 
+     EXPIRING APRIL 13, 2013. (REAPPOINTMENT)
+       SCOTT O'MALIA, OF MICHIGAN, TO BE A COMMISSIONER OF THE 
+     COMMODITY FUTURES TRADING COMMISSION FOR A TERM EXPIRING 
+     APRIL 13, 2012, VICE RUEBEN JEFFERY III, RESIGNED
+
+
+                         public health service
+
+       THE FOLLOWING CANDIDATES FOR PERSONNEL ACTION IN THE 
+     REGULAR CORPS OF THE COMMISSIONED CORPS OF THE U.S. PUBLIC 
+     HEALTH SERVICE SUBJECT TO QUALIFICATIONS THEREFORE AS 
+     PROVIDED BY LAW AND REGULATIONS.
+
+                        To be assistant surgeon
+
+ROBERT P. DREWELOW
+SARAH R. WHEATLEY
+```

@@ -1,0 +1,39 @@
+---
+granule: CREC-2008-04-03-pt1-PgH1976-2
+date: 2008-04-03
+edition: CREC
+section: HOUSE
+page: H1976
+citation: 154 Cong. Rec. H1976
+---
+
+# HONORING PFC ANDREW HABSIEGER
+
+**Speaking:** Carnahan, Russ (C001060) [D-MO]
+
+```
+                     HONORING PFC ANDREW HABSIEGER
+
+  (Mr. CARNAHAN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. CARNAHAN. Mr. Speaker, I rise today to honor the life of Private 
+First Class Andrew Habsieger, who died serving our country in Iraq. On 
+Easter Sunday, March 23, he was one of four soldiers killed by a 
+roadside bomb in Baghdad. He was scheduled to return home to his family 
+in 2 weeks. Andy was just 22 years old.
+  In Festus, Missouri, friends and family remembered him as a loving 
+child and standout high school football player. Andy proudly served the 
+U.S. Army as an infantryman and was inspired to fight for his country 
+after the terrible attacks of September 11.
+  On March 22, 2005, Andy wrote me requesting assistance in joining the 
+Marine Corps because of experiencing migraines while growing up. Andy 
+ultimately joined the Army. Looking back on his letter, I am reminded 
+of his steely determination to serve his country. That he did.
+  The weekend Andy died marked the 4,000th American soldier killed in 
+Iraq. My heart goes out to Andy's parents, Michael and Brenda 
+Habsieger, as well as his brother, Jacob, who is also in the Army. We 
+must never forget our Nation's fallen heroes. PFC Andrew Habsieger will 
+not be forgotten and his service will inspire generations yet to come.
+
+                          ____________________
+```
