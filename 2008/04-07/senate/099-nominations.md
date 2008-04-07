@@ -1,0 +1,96 @@
+---
+granule: CREC-2008-04-07-pt1-PgS2707-5
+date: 2008-04-07
+edition: CREC
+section: SENATE
+page: S2707
+citation: 154 Cong. Rec. S2707
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                          department of state
+
+       PETER WILLIAM BODDE, OF MARYLAND, A CAREER MEMBER OF THE 
+     SENIOR FOREIGN SERVICE, CLASS OF MINISTER-COUNSELOR, TO BE 
+     AMBASSADOR EXTRAORDINARY AND PLENIPOTENTIARY OF THE UNITED 
+     STATES OF AMERICA TO THE REPUBLIC OF MALAWI.
+
+
+                              in the navy
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES NAVY TO THE GRADE INDICATED UNDER TITLE 10, U.S.C., 
+     SECTIONS 5133 AND 5138:
+
+                           To be rear admiral
+
+REAR ADM. (LH) CAROL I. TURNER
+
+
+                            in the air force
+
+       THE FOLLOWING NAMED INDIVIDUAL FOR APPOINTMENT IN THE GRADE 
+     INDICATED IN THE REGULAR AIR FORCE UNDER TITLE 10, U.S.C., 
+     SECTION 531(A):
+
+                        To be lieutenant colonel
+
+HOWARD P. BLOUNT III
+
+       THE FOLLOWING NAMED INDIVIDUAL FOR APPOINTMENT IN THE GRADE 
+     INDICATED IN THE REGULAR AIR FORCE UNDER TITLE 10, U.S.C., 
+     SECTION 531(A):
+
+                              To be major
+
+ERRILL C. AVECILLA
+
+       THE FOLLOWING NAMED INDIVIDUAL FOR APPOINTMENT IN THE GRADE 
+     INDICATED IN THE REGULAR AIR FORCE UNDER TITLE 10, U.S.C., 
+     SECTION 531(A):
+
+                              To be major
+
+MARK Y. LIU
+
+       THE FOLLOWING NAMED INDIVIDUALS FOR APPOINTMENT TO THE 
+     GRADES INDICATED IN THE REGULAR AIR FORCE UNDER TITLE 10, 
+     U.S.C., SECTION 531(A):
+
+                        To be lieutenant colonel
+
+BRYCE G. WHISLER
+
+                              To be major
+
+TIMOTHY M. FRENCH
+
+       THE FOLLOWING NAMED INDIVIDUALS FOR APPOINTMENT IN THE 
+     GRADE INDICATED IN THE REGULAR AIR FORCE UNDER TITLE 10, 
+     U.S.C., SECTION 531(A):
+
+                              To be major
+
+PHIET T. BUI
+RENE F. MELENDEZ
+MICHAEL J. MORRIS
+
+
+                              in the army
+
+       THE FOLLOWING NAMED ARMY NATIONAL GUARD OF THE UNITED 
+     STATES OFFICER FOR APPOINTMENT TO THE GRADE INDICATED IN THE 
+     RESERVE OF THE ARMY UNDER TITLE 10, U.S.C., SECTIONS 12203 
+     AND 12211:
+
+                             To be colonel
+
+JOHN C. KOLB
+```
