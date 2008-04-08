@@ -1,0 +1,39 @@
+---
+granule: CRECB-2008-pt4-Pg5338-2
+date: 2008-04-08
+edition: CRECB
+section: SENATE
+page: 5338
+---
+
+# IRAQ
+
+```
+                                  IRAQ
+
+  Ms. MIKULSKI. Mr. President, I opposed going to war in Iraq. I 
+opposed the escalation of American troop levels. And I still do.
+  When the Bush administration proposed the escalation of U.S. forces 
+in Iraq, the President said it would enable the Iraqi government to 
+achieve political reconciliation. Our troops have done their part. Yet 
+as we ask our troops to do more, the Iraqi government does less.
+  While we were fighting the surge, the Iraqi parliament was on 
+vacation. While our troops were wounded, dying, and away from their 
+families, Prime Minister al-Maliki was running up a budget surplus.
+
+[[Page 5339]]
+
+  The Iraqi government has failed to make their country safer or more 
+stable; they have failed to hold provisional elections, reform their 
+oil laws or disarm the militias. This is a failure in leadership. The 
+battle of Basra was a disaster. We know that many members of the Iraqi 
+military fought bravely and steadfastly. But we also know that more 
+than 1,000 deserted or refused to fight. Once again, American troops 
+had to step forward to salvage the operation.
+  Our troops have performed bravely and effectively. Yet a great 
+American military cannot be a substitute for a weak Iraqi government. 
+It is time to come home. We must bring our troops home, swiftly and 
+safely.
+
+                          ____________________
+```
