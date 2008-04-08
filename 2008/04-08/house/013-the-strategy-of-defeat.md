@@ -1,0 +1,41 @@
+---
+granule: CREC-2008-04-08-pt1-PgH2018-2
+date: 2008-04-08
+edition: CREC
+section: HOUSE
+page: H2018
+citation: 154 Cong. Rec. H2018
+---
+
+# THE STRATEGY OF DEFEAT
+
+**Speaking:** Poe, Ted (P000592) [R-TX]
+
+```
+                         THE STRATEGY OF DEFEAT
+
+  (Mr. POE asked and was given permission to address the House for 1 
+minute.)
+  Mr. POE. Madam Speaker, as positive progress continues against 
+America's enemies in Iraq, the vocal, timid and meek here at home 
+promote a strategy of defeat and retreat. Victory to these retreatists 
+is not an option because they plan for abandonment of the Iraqi people 
+and failure for America's fight against those who murder in the name of 
+religion.
+  These war alarmists wish to capitulate in this war. They want to 
+redeploy the troops, which means withdraw our military while they are 
+in the midst of success. This strategy of defeat will not bring peace 
+to Iraq or America. It will not stop the extremists, but increase their 
+determination for more violence against the innocents. It will not make 
+us safe at home, but encourage those who hate us to kill again. And 
+those vile zealots will rightfully claim America doesn't have the 
+stomach to fight for the God-given principles of liberty.
+  President Kennedy told the world that America will pay any price, 
+support any friend and oppose any foe to defend liberty. We do not 
+fight for ourselves alone. This war is more than for our cause alone. 
+We fight for the human cause of all peoples to be free. That is what 
+this war is about.
+  And that's just the way it is.
+
+                          ____________________
+```
