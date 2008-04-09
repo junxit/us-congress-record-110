@@ -1,0 +1,38 @@
+---
+granule: CREC-2008-04-09-pt1-PgE556-2
+date: 2008-04-09
+edition: CREC
+section: EXTENSIONS
+page: E556
+citation: 154 Cong. Rec. E556
+---
+
+# PERSONAL EXPLANATION
+
+**Speaking:** Woolsey, Lynn C. (W000738) [D-CA]
+
+```
+                          PERSONAL EXPLANATION
+
+                                 ______
+                                 
+
+                          HON. LYNN C. WOOLSEY
+
+                             of california
+
+                    in the house of representatives
+
+                        Wednesday, April 9, 2008
+
+  Ms. WOOLSEY. Madam Speaker, on April 8, 2008, I was unavoidably 
+detained and was not able to record my votes for rollcall No. 161-163.
+  Had I been present I would have voted:
+  Rollcall No. 161--``yea''--Congratulating the Army Reserve on its 
+centennial.
+  Rollcall No. 162--``yea''--The Wakefield Act.
+  Rollcall No. 163--``yea''--Reauthorization of the Traumatic Brain 
+Injury Act.
+
+                          ____________________
+```

@@ -1,0 +1,68 @@
+---
+granule: CREC-2008-04-09-pt1-PgS2815
+date: 2008-04-09
+edition: CREC
+section: SENATE
+page: S2815
+citation: 154 Cong. Rec. S2815
+---
+
+# THE NATIONAL CRITTENTON FOUNDATION
+
+**Speaking:** Rockefeller, John D., IV (R000361) [D-WV]
+
+```
+                   THE NATIONAL CRITTENTON FOUNDATION
+
+● Mr. ROCKEFELLER. Madam President, I ask my colleagues to join 
+me today in commemorating the 125th anniversary of the National 
+Crittenton Foundation and the Crittenton Family of Agencies.
+  For the last 113 years, Florence Crittenton Services Inc. in 
+Wheeling, WV has served thousands of teen mothers and their children as 
+the State's only maternity home--one that is nationally recognized for 
+its unique gender-responsive program. In recognition of its continuing 
+contribution to the State, the State Journal recently named this 
+innovative agency one of the ``55 Good Things About West Virginia.'' 
+The honor is well deserved.
+  In 1895, Florence Crittenton Services Inc. first opened its doors to 
+provide shelter and support for ``wayward'' women in crisis. Over the 
+past century, it has evolved from being a group home and adoption 
+agency to a nationally-accredited and respected therapeutic residential 
+program that serves abused, neglected, and behaviorally-challenged 
+girls.
+  Among its many forward-thinking programs is Wellspring Family 
+Services, a comprehensive, community-based behavioral health, parenting 
+support and education service provider. Cradles to Crayons, a child 
+care program for young mothers in care, provides a structured and safe 
+environment for children while their parents complete their education 
+and participate in therapeutic programming. This child care program 
+continues today and serves the child care needs of Crittenton residents 
+and community members.
+  Grounded in its original mission to help children and families in 
+need achieve self-sufficiency, all of the agency's programs pay close 
+attention to the underlying challenges that keep young women from 
+succeeding, including addiction, domestic violence, and sexual abuse.
+  Throughout its history, Florence Crittenton Services, Inc. has 
+maintained a unique cooperative relationship with The National 
+Crittenton Foundation. This partnership is based on founder Charles 
+Crittenton's and Dr. Kate Waller Barrett's belief that the most 
+effective way to address compelling national social issues was through 
+a network of affiliated independent, local organizations supported by a 
+national body.
+  More than a century after Charles Crittenton founded his first home, 
+the National Crittenton Foundation is re-emerging as an active force 
+for social change. The foundation and its agencies continue their work 
+to break the cycles of intergenerational issues like teen pregnancy, 
+violence and substance abuse through a mix of strength-based gender and 
+culturally-specific services tailored to meet the needs of young girls 
+in local communities. For years, I have worked to improve services and 
+support of needy children and families, and I have been proud to work 
+with the Florence Crittenton Society in Wheeling.
+  As the National Crittenton Foundation and West Virginia's Florence 
+Crittenton Services, Inc. come to Capitol Hill to celebrate 125 years 
+of service to young women at risk and their children, I ask you to help 
+me congratulate them on their achievements and thank them for their 
+profound commitment to our children and our communities.●
+
+                          ____________________
+```
