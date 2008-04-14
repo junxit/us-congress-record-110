@@ -1,0 +1,380 @@
+---
+granule: CRECB-2008-pt4-Pg5887
+date: 2008-04-14
+edition: CRECB
+section: HOUSE
+page: 5887
+---
+
+# EXPRESSING SUPPORT FOR DESIGNATION OF APRIL 2008 AS NATIONAL CHILD ABUSE PREVENTION MONTH
+
+```
+  EXPRESSING SUPPORT FOR DESIGNATION OF APRIL 2008 AS NATIONAL CHILD 
+                         ABUSE PREVENTION MONTH
+
+  Ms. WOOLSEY. Mr. Speaker, I move to suspend the rules and agree to 
+the resolution (H. Res. 1097) expressing support for the designation of 
+the month of April 2008, as National Child Abuse Prevention Month to 
+provide attention to the tragic circumstances that face some of our 
+Nation's children on a daily basis and to underscore our commitment to 
+preventing child abuse and neglect so that all children can live in 
+safety and security, as amended.
+  The Clerk read the title of the resolution.
+  The text of the resolution is as follows:
+
+                              H. Res. 1097
+
+       Whereas in 2006, an estimated 905,000 children were 
+     determined to be victims of abuse or neglect out of an 
+     estimated 6,100,000 children referred for investigations and 
+     assessments;
+       Whereas the number of children who received an 
+     investigation or assessment by Child Protective Services 
+     increased by 333,000 from 2002 to 2006;
+       Whereas in 2006, an estimated 1,530 children died 
+     tragically as a result of abuse or neglect;
+       Whereas some of the most vulnerable children in our Nation 
+     are the most likely to be maltreated, with the youngest 
+     suffering the highest rate of victimization and children with 
+     disabilities also experiencing a high risk of maltreatment;
+       Whereas 91,278 of the victims of abuse and neglect had not 
+     yet reached their first birthday, with more than 84 percent 
+     being less than a month old;
+       Whereas children who are abused or neglected are at higher 
+     risk in adulthood for health problems such as alcoholism, 
+     depression, drug abuse, eating disorders, obesity, suicide, 
+     and certain chronic diseases;
+       Whereas a National Institute of Justice study indicated 
+     abuse or neglect during childhood increased the likelihood of 
+     arrest as a juvenile by 59 percent and adult criminal 
+     behavior by 28 percent;
+       Whereas it is estimated that approximately one-third of 
+     abused and neglected children grow up to victimize their own 
+     children;
+       Whereas 25 percent of children maltreated in 2006 had prior 
+     history of victimization.
+       Whereas child abuse and neglect can have long-term economic 
+     and societal costs;
+       Whereas community-based services to overburdened families 
+     are far less costly than the emotional and physical damage 
+     inflicted on children or the costs of child protective 
+     services, law enforcement, courts, foster care, health care, 
+     and the treatment of adults recovering from child abuse;
+       Whereas the annual estimated cost to the United States for 
+     not preventing child abuse and neglect is approximately 
+     $104,000,000,000, according to a 2008 report by Prevent Child 
+     Abuse America;
+       Whereas child protection agencies are unable to provide 
+     important follow-up services such as counseling or case 
+     management to 40 percent of the abused and neglected children 
+     on their caseloads; and
+       Whereas it is appropriate to designate the month of April 
+     2008, as National Child Abuse Prevention Month: Now, 
+     therefore, be it
+       Resolved, That the United States House of Representatives--
+       (1) expresses support for the designation of National Child 
+     Abuse Prevention Month;
+       (2) should increase public awareness of child abuse and 
+     neglect prevention and should continue to work with the 
+     States to reduce the incidence of child abuse and neglect; 
+     and
+       (3) should recognize that child abuse and neglect 
+     prevention programs reduce child maltreatment, strengthen 
+     families, reduce mental illness, deter criminal behavior, and 
+     contribute to children's positive emotional, academic, 
+     social, and cognitive development.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentlewoman from 
+California (Ms. Woolsey) and the gentlewoman from North Carolina (Ms. 
+Foxx) each will control 20 minutes.
+  The Chair recognizes the gentlewoman from California.
+
+
+                             General Leave
+
+  Ms. WOOLSEY. Mr. Speaker, I request 5 legislative days during which 
+Members may insert materials relevant to H. Res. 1097 into the Record.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentlewoman from California?
+  There was no objection.
+  Ms. WOOLSEY. I yield myself such time as I may consume.
+  Mr. Speaker, a child's safety should never be put in jeopardy. That's 
+why I rise in support of H. Res. 1097, authored by Congressman Courtney 
+from Connecticut.
+  H. Res. 1097 is a bill to designate this month as National Child 
+Abuse Prevention Month. We need to shine a light on the tragic 
+circumstances, Mr. Speaker, that face some of our Nation's children on 
+a daily basis. As people across the country recognize this month as 
+National Child Abuse Prevention Month and promote awareness activities 
+in order to reduce the cases of child maltreatment, this resolution 
+moves us one step closer to securing the safety and well-being of all 
+children.
+  The latest data shows us that in the year 2006, approximately 1,530 
+children died, died in the United States of America, due to 
+maltreatment, and an additional 905,000 children were victims of abuse 
+and neglect. Even more disturbing, Mr. Speaker, is that our most 
+vulnerable children are at greatest risk. Approximately 90,000 victims 
+of child abuse and neglect in the year 2000 were less than 1 year old. 
+More than 84 percent of those child abuse victims were less than 1 
+month old.
+  These facts are appalling. We must work together to bring attention 
+to this important issue and begin to strengthen our families and our 
+communities and to keep our children safe. We need to emphasize the 
+need for more prevention programs because prevention works by reducing 
+risk factors, by promoting protective factors and by fostering a 
+commitment for social change.
+  Mr. Speaker, I want to thank Representative Courtney for introducing 
+this important bill. It is my hope and it is my goal that all of my 
+colleagues will join me in supporting H. Res. 1097 so that together we 
+can reduce child abuse and neglect by increasing public awareness.
+  Mr. Speaker, I reserve the balance of my time.
+  Ms. FOXX. Mr. Speaker, I yield myself such time as I may consume.
+  Mr. Speaker, I rise today in support of House Resolution 1097, 
+expressing support for the designation of the month of April, 2008, as 
+National Child Abuse Prevention Month to bring attention to the tragic 
+circumstances that face some of our Nation's children on a daily basis 
+and to underscore our commitment to preventing child abuse and neglect 
+so that all children can live in safety and security.
+  Child abuse comes in many forms, physical abuse, neglect, sexual 
+abuse and emotional abuse. Too often, these forms of abuse are found in 
+combination with one another. Approximately 905,000 children were found 
+to be victims of child abuse or neglect in 2006. Nearly 80 percent of 
+the perpetrators were parents of the victims.
+  Last year, it was estimated that the total annual cost of child abuse 
+in the United States was nearly $104 billion. This represents more than 
+$33 billion in direct costs of child maltreatment, including judicial, 
+foster care, law enforcement and health system responses and $70 
+billion in indirect costs including long-term economic effects.
+  Each of us can make a difference in the prevention of child abuse by 
+understanding the causes of child abuse, by learning to identify the 
+warning signs that a child is being abused, by reporting any known or 
+suspected case of child abuse, by being a friend to a child or a parent 
+in need and by alerting others to the problem.
+  I want to thank the folks in Wilkes County who invited me to attend a 
+vigil at Our House in Wilkes County which provides services to abused 
+children there. Every year, the staff and volunteers of Our House hold 
+a vigil to raise awareness of this terrible problem in our area of the 
+country. I know that other counties in the Fifth District of North 
+Carolina, which I represent, also
+
+[[Page 5888]]
+
+have worked to raise awareness. I want to particularly commend them for 
+doing it.
+  In 1974, the Child Abuse Prevention and Treatment Act was first 
+enacted to create a focal point in the Federal Government to identify 
+and address issues of child abuse and neglect and to support effective 
+methods of prevention and treatment. Through this act, States receive 
+grants to help with their child protective service functions, improve 
+investigation and prosecution of child maltreatment and to assist 
+community-based family resource and support services.
+  Today, we recognize that child abuse and neglect are preventable 
+through the efforts of schools, neighbors, families and the community. 
+Child Abuse Prevention Month provides us all with an opportunity to 
+work together to keep children safe and to provide the support that 
+families need to stay together and raise children and youth to be 
+happy, secure and stable adults.
+  In 1983, April was first proclaimed as National Child Abuse 
+Prevention Month. Since that time, every April, child abuse and neglect 
+awareness activities are promoted across the country. That is why I 
+stand in support of this resolution, and I ask for my colleagues' 
+support.
+  I reserve the balance of my time, Mr. Speaker.
+  Ms. WOOLSEY. Mr. Speaker, I am pleased to yield as much time as he 
+may consume to the author of this great resolution, Mr. Courtney from 
+Connecticut, and a member of the committee.
+  Mr. COURTNEY. Mr. Speaker, I want to thank Congresswoman Woolsey for 
+her leadership by managing this resolution this afternoon and for 
+Congresswoman Foxx's strong support that she just articulated very 
+powerfully.
+  As Congresswomen Woolsey and Foxx stated, the statistics that the 
+resolution lays forth clearly show the grave seriousness of this 
+problem of child abuse all across America. In addition, though, just to 
+the horrible trauma to the victims of child abuse, which by itself 
+would be reason to fight this problem, society pays a huge price due to 
+the high incidence of alcoholism, depression, drug abuse, eating 
+disorders, and criminal behavior that has been clearly shown to occur 
+in the later lives of too many children who were abused and neglected.
+  Recent statistics, for example, show that 14 percent of all men in 
+prison in the United States were abused as children and 36 percent of 
+women in prison were abused as children. And it is easy sometimes to 
+get very discouraged about the numbers that just seem to suggest a 
+problem that is growing almost out of control. In Connecticut, the 
+State where I come from, for example, in between 1990 and 2003, the 
+incidence of reported child abuse actually doubled. But I would suggest 
+that perhaps we should look at those numbers in a different fashion, 
+because what is also happening out there is that as a country, we are 
+prepared, as never before in the past, to confront this issue. Mandated 
+reporting laws now require that doctors, mental health providers and 
+professionals in all arrays of professions that deal with families and 
+children are now required by law to report incidents of abuse which in 
+the past would have been swept under the rug. And that is one of the 
+reasons why the number of cases are going up.
+  In addition, I think we should also be encouraged by a smarter and 
+more effective approach that is being developed to fight child abuse, 
+the multidisciplinary teams that are pulling together police, social 
+workers, prosecutors, health care providers, nurse practitioners and 
+doctors who are now systematically working together to make sure, 
+number one, that complaints are dealt with accurately, but also that 
+victims are diagnosed, treated and interviewed in an organized fashion 
+so that there is more effective prosecution of cases.
+  If it seems as though I may be a little bit passionate about this 
+issue, it is because my wife, Audrey, has been a pediatric nurse 
+practitioner for 18 years in Connecticut, has worked at Saint Francis 
+Hospital at Hartford and Windham Hospital as part of the 
+multidisciplinary team, again, that is employing the best techniques 
+possible to make sure that complaints are handled intelligently, 
+swiftly and also in a comprehensive fashion so that prosecutions are 
+not lost or neglected due to the fact that we don't have systems in 
+place to make sure that the cases are handled in an effective manner.
+  This resolution, I think, adds to both of those positive trends by 
+putting the spotlight on this issue to make sure that we, as a country, 
+are prepared to confront the issue, to talk about it openly, to talk 
+about the numbers that are out there and the terrible consequences that 
+we face as a society when we don't deal with the issue.
+  So hopefully this year, like prior years, as Congresswoman Foxx 
+indicated, April will act as a month where awareness will continue to 
+grow, that we are going to continue to, as a society, deal with this 
+issue honestly and frankly so that, A, we will protect our children who 
+are our most valuable national treasure, and, B, that we will have 
+systems that are prepared to effectively prosecute and punish 
+perpetrators, and finally, that we are going to treat and care for 
+people who have been abused in such a terrible fashion, because it 
+helps not only them, but it helps American society.
+  So again, I applaud Congresswoman Woolsey for bringing this measure 
+out on the floor this afternoon and I urge unanimous passage when it 
+comes up for a vote later this evening.
+  Ms. FOXX. Mr. Speaker, we have no other speakers.
+  I urge all of my colleagues to support this resolution.
+  Ms. WOOLSEY. Mr. Speaker, I urge my colleagues to vote in favor of 
+this resolution, and I also thank Congresswoman Foxx for her support in 
+all of these bills that have come before us this afternoon.
+  It is so important that together on both sides of the aisle and that 
+we understand the urgency of the resolution like Congressman Courtney's 
+resolution today.
+  Child abuse should be something we talk about and think about every 
+day, every minute, every second. There should never be a time when we 
+don't worry about the little children in our country and in our world 
+and what adults do to them.
+  Mr. Speaker, I urge all of my colleagues to support this resolution 
+to make sure we bring it to the attention of those around the country, 
+not just this month, but every month following.
+  Ms. JACKSON-LEE of Texas. Mr. Speaker, I rise today in strong support 
+of H.R. 1097, ``Expressing support for the designation of the month of 
+April 2008, as National Child Abuse Prevention Month, to provide 
+attention to the tragic circumstances that face some of our Nation's 
+children on a daily basis and to underscore our commitment to 
+preventing child abuse and neglect so that all children can live in 
+safety and security.'' I would like to thank my distinguished 
+colleague, Joe Courtney of Connecticut, for introducing this important 
+piece of legislation.
+  There is no greater crime that an individual can commit to a child 
+than the crime of child molestation and child abuse. The perpetrators 
+of this crime rob children of their innocence. Moreover, victims of 
+child molestation are profoundly affected for the rest of their lives. 
+As parents, elected officials and concerned citizens, we have an 
+obligation to condemn this violence, work for stronger enforcement of 
+the law and provide adequate funding for programs to assist children 
+who may have experienced such abuse.
+  The problem of violence against children and sexual exploitation of 
+children has been highlighted by recent events involving brutal acts of 
+violence against children. Some recent incidents you may remember 
+include: (1) the abduction, rape and killing of 9-year-old Jessica 
+Lunford (who was buried alive); (2) the slaying of 13-year-old Sarah 
+Lunde, both of whom were killed in Florida by career criminals and sex 
+offenders. In Philadelphia, four defendants were charged with the 
+stabbing and killing of a 15-year-old girl, who they then threw into 
+the Schuykill River. All of these tragic events have underscored the 
+continuing epidemic of violence against children. Children who are 
+abused or neglected are at higher risk in adulthood for health problems 
+such as alcoholism, depression, drug abuse, eating disorders, obesity, 
+suicide, and certain chronic diseases.
+  Sadly, sexual abuse is often committed by a family member. 
+Approximately 91,000 of the victims of abuse and neglect had not yet
+
+[[Page 5889]]
+
+reached their first birthday, with more than 84 percent being less than 
+a month old. Incest is the most common form of child sexual abuse. It 
+is often perpetrated by adults that have been entrusted with caring for 
+a child--a family friend, babysitter, a teacher, day care worker, or 
+even religious leaders. At least one out of five adult women and one 
+out of ten adult men report having been sexually abused as children. In 
+Texas, there were more than 111,000 investigations of child abuse and 
+neglect by the Child Protective Services in Texas. Of those cases, 
+7,650 were sexual abuse.
+  In addition, the sexual victimization of children is overwhelming in 
+magnitude and largely unrecognized and underreported. Statistics show 
+that 1 in 5 girls and 1 in 10 boys are sexually exploited before they 
+reach adulthood, yet less than 35 percent of the incidents are reported 
+to authorities. This problem is exacerbated by the number of children 
+who are solicited online--according to the Department of Justice 1 in 5 
+children (10 to 17 years old) receive unwanted sexual solicitations 
+online.
+  It is estimated that approximately one-third of abused and neglected 
+children grow up to victimize their own children. Child abuse and 
+neglect can have long-term economic and societal costs. Community-based 
+services to overburdened families are far less costly than the 
+emotional and physical damage inflicted on children or the costs of 
+child protective services, law enforcement, courts, foster care, health 
+care, and the treatment of adults recovering from child abuse. The 
+annual estimated cost to the United States for not preventing child 
+abuse and neglect is approximately $104 billion according to a 2008 
+report by Prevent Child Abuse America.
+  It will take more than just stronger enforcement of the law to 
+prevent child molestation and other forms of abuse against children. To 
+end this serious abuse of children, all segments of the community such 
+as parents, educators, religious leaders, and community leaders must 
+create a nurturing environment for children where they know that they 
+are loved and deserve to be protected from violence and sexual abuse 
+and feel comfortable in reporting.
+  Local law enforcement receives increased flexibility in how it 
+invests grants for child abuse victims, specifically by providing 
+access to criminal conviction records by child protective and child 
+welfare workers. This would enable workers to determine if troubled 
+children are victims of abuse. State law enforcement would also have 
+access to court child custody, visitation, protection, guardianships 
+and stay away orders. Police could use this information to establish 
+the validity of urgent complaints concerning children who may have been 
+kidnapped by an abusive ex-spouse.
+  I express my support for the designation of National Child Abuse 
+Prevention Month. I believe we should increase public awareness of 
+child abuse and neglect prevention and should continue to work to 
+reduce the incidence of child abuse and neglect. We should recognize 
+that child abuse and neglect prevention programs reduce child 
+maltreatment, strengthen families, reduce mental illness, deter 
+criminal behavior, and contribute to children's positive emotional, 
+academic, social, and cognitive development.
+  Mr. SHULER. Mr. Speaker, I rise today in support of H. Res. 1097 to 
+support National Child Abuse Prevention Month. I am committed to 
+preventing child abuse and neglect so that all children can grow and 
+prosper in a safe, nurturing, and healthy environment.
+  As a father of two children, nothing is more important to me than 
+protecting the welfare of all children. Safe, nurturing, and healthy 
+environments are necessary for the well-being of children and their 
+families. All children need to know that they are special and that they 
+are loved by their parents.
+  By raising awareness of child abuse and neglect, parents and teachers 
+can protect children from the risks associated with abuse and neglect. 
+By supporting National Child Abuse Prevention Month, Congress can take 
+a strong stand against child abuse and neglect.
+  My heart goes out to all children and families that have experienced 
+abuse and neglect in their homes.
+  Mr. Speaker, I urge my colleagues today to vote for this important 
+resolution that will support the establishment of National Child Abuse 
+Prevention Month.
+  Ms. WOOLSEY. Mr. Speaker, I yield back the balance of my time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentlewoman from California (Ms. Woolsey) that the House suspend the 
+rules and agree to the resolution, H. Res. 1097, as amended.
+  The question was taken.
+  The SPEAKER pro tempore. In the opinion of the Chair, two-thirds 
+being in the affirmative, the ayes have it.
+  Ms. WOOLSEY. Mr. Speaker, on that I demand the yeas and nays.
+  The yeas and nays were ordered.
+  The SPEAKER pro tempore. Pursuant to clause 8 of rule XX and the 
+Chair's prior announcement, further proceedings on this motion will be 
+postponed.
+
+                          ____________________
+```
