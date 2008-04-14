@@ -1,0 +1,67 @@
+---
+granule: CREC-2008-04-14-pt1-PgH2247-2
+date: 2008-04-14
+edition: CREC
+section: HOUSE
+page: H2247
+citation: 154 Cong. Rec. H2247
+---
+
+# UNJUST PROSECUTION AND IMPRISONMENT OF U.S. BORDER PATROL AGENTS COMPEAN AND RAMOS
+
+**Speaking:** Jones, Walter B., Jr. (J000255) [R-NC]
+
+```
+   UNJUST PROSECUTION AND IMPRISONMENT OF U.S. BORDER PATROL AGENTS 
+                           COMPEAN AND RAMOS
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from North Carolina (Mr. Jones) is recognized for 5 minutes.
+  Mr. JONES of North Carolina. Madam Speaker, today is day 453 of a 
+terrible injustice in America. Two U.S. border agents, Agents Compean 
+and Ramos, have been languishing in Federal prison since January 17 of 
+2007.
+
+[[Page H2248]]
+
+These men did their job to protect our Nation from an illegal alien, a 
+Mexican drug smuggler who brought $1 million worth of marijuana across 
+our border into Texas. Yet through a questionable prosecution, these 
+two men were convicted for defending themselves and defending our 
+border.
+  It is a sad day that such a travesty of justice could happen to two 
+Hispanic Americans who loved America so much that they were willing to 
+become law enforcement officers, and in this case Border Patrol agents, 
+in order to protect America. Despite the efforts of the American people 
+and Members of Congress, who have brought this to the attention of the 
+White House, nothing, and I say nothing, has been done to reverse this 
+injustice.
+  While outside groups and Members of Congress have filed court briefs 
+to support these agents, we still anxiously await a decision in their 
+appeal. The more time these men spend in prison and the longer it takes 
+for a decision on their appeal, the more frustrated the American people 
+become.
+  The American people have not forgotten agents Ramos and Compean. From 
+time to time, I still hear from constituents who are frustrated that 
+these men are still in prison. The only glimmer of hope for these 
+agents and their families rests with the Fifth Circuit Court of Appeals 
+in New Orleans. During an oral argument on December 3, 2007, one of the 
+judges considering the case, Judge E. Grady Jolly said, and I quote, 
+Madam Speaker, and this is his quote, ``It does seem to me that the 
+government overreacted here. For some reason, this one got out of 
+hand.'' That is a Federal judge that made that comment.
+  A ruling on their appeal is now expected any day, and millions of 
+Americans are hopeful that the Court of Appeals will reverse this 
+terrible injustice.
+  Madam Speaker, I still call on Chairman John Conyers to hold a 
+hearing to review this unjust prosecution some time before the end of 
+the year. Chairman Conyers is a fair-minded person for whom I have 
+great respect. Justice is crying out for his help.
+  And Madam Speaker, before I close, I want the Ramos and Compean 
+family to know that there are those in both parties in this House of 
+Representatives that are not going to sit back and wait until this 
+injustice is corrected because these two border agents deserve nothing 
+but praise for what they have done for this great Nation.
+
+                          ____________________
+```

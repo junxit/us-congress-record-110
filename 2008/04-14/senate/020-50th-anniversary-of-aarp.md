@@ -1,0 +1,56 @@
+---
+granule: CREC-2008-04-14-pt1-PgS2972-2
+date: 2008-04-14
+edition: CREC
+section: SENATE
+page: S2972
+citation: 154 Cong. Rec. S2972
+---
+
+# 50TH ANNIVERSARY OF AARP
+
+**Speaking:** Reid, Harry (R000146) [D-NV]
+
+```
+                        50TH ANNIVERSARY OF AARP
+
+  Mr. REID. Madam President, I rise today to call the attention of the 
+Senate to the 50th Anniversary of a remarkable organization that boasts 
+35 million members, for whom it provides services ranging from 
+discounted prescription drugs, to travel services, to financial 
+services. Most of us on Capitol Hill are far more familiar with this 
+organization as the tireless advocate for the interests of Americans 
+over the age of 50. The organization, of course, is AARP.
+  In its half-century of service, the organization that we know today 
+as AARP has been transformed from its modest beginnings in 1958 when 
+Dr. Ethel Percy Andrus, a retired high school principal, transformed 
+the National Retired Teachers' Organization into the American 
+Association for Retired Persons. The organization was known under this 
+name until 1999 when it became just AARP to reflect the fact that many 
+of its members are still active in the labor force.
+  Characteristic of the work of AARP over the past 50 years has been 
+its efforts to influence national policy on behalf of the well being of 
+Americans over the age of 50 and to defend the programs that protect 
+them, especially Social Security and Medicare. More recently, AARP has 
+spearheaded the effort to get bipartisan action in Congress to provide 
+all Americans with health care and long-term financial security with 
+its Divided We Fail campaign. I commend AARP for its outstanding 
+leadership on these issues, which are so critical to millions of 
+Americans.
+  When President Bush in 2005, fresh from his election victory, made 
+the privatization of Social Security his top domestic priority, he met 
+his match in AARP, which mobilized its members to oppose this very 
+risky plan. Congressional Democrats worked very closely with AARP in 
+that effort, and in the end we were successful, at least temporarily. 
+Unfortunately, given the continuing support for privatization among 
+many in Washington, that battle will have to continue in the years 
+ahead, and I look forward to working closely with AARP to continue to 
+make the case against privatization, and to make sure that America 
+keeps its promise to our seniors.
+  So I offer a cordial birthday greeting to an organization that is 50 
+years old and stronger than ever. AARP has kept pace with the needs of 
+mature Americans and, more importantly, it has kept faith with them. In 
+the process, it has made this country a better place for all Americans.
+
+                          ____________________
+```
