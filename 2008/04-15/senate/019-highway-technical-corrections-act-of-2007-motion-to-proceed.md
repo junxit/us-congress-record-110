@@ -1,0 +1,94 @@
+---
+granule: CREC-2008-04-15-pt1-PgS2993-2
+date: 2008-04-15
+edition: CREC
+section: SENATE
+page: S2993
+citation: 154 Cong. Rec. S2993
+---
+
+# HIGHWAY TECHNICAL CORRECTIONS ACT OF 2007--MOTION TO PROCEED
+
+**Speaking:** Boxer, Barbara (B000711) [D-CA], Kennedy, Edward M. (K000105) [D-MA]
+
+**Measures:** H.R. 1195
+
+```
+      HIGHWAY TECHNICAL CORRECTIONS ACT OF 2007--MOTION TO PROCEED
+
+  The ACTING PRESIDENT pro tempore. Under the previous order, the 
+Senate will resume consideration of the motion to proceed to H.R. 1195, 
+which the clerk will report.
+  The legislative clerk read as follows:
+
+       Motion to proceed to consideration of Calendar No. 608, a 
+     bill (H.R. 1195) to amend the Safe, Accountable, Flexible, 
+     Efficient Transportation Equity Act: A Legacy for Users, to 
+     make technical corrections, and for other purposes.
+
+  The ACTING PRESIDENT pro tempore. The Senator from California is 
+recognized.
+  Mrs. BOXER. Mr. President, I am very hopeful we can move this bill. 
+When my kids were a little younger, they used to say: Mom, it is a no-
+brainer.
+  This is a no-brainer. This is something we need to do. We passed a 
+very important bill several years ago that funds our highways and our 
+transit. As often happens--because the years pass and the studies take 
+place and you find there were errors in such a big bill that 
+encompasses so many programs--there were certain very important 
+transportation projects, highway projects that got stymied because of a 
+technical problem. We also had one account that was oversubscribed and 
+we need to make some fixes there because that particular account funds 
+research into the state of our bridges, our highways, our transit 
+systems, and we all know with bridges collapsing in America today, we 
+can't short ourselves on the funding. We need to find out exactly what 
+is the state of our fiscal infrastructure.
+  In a great economy, you can't move people and you can't move goods 
+without a transportation infrastructure. That means roads that are not 
+falling
+
+[[Page S2994]]
+
+apart, bridges that are not falling apart, transit systems that work. 
+Especially in this time of more awareness of being efficient, energy 
+efficient, all of this works together as we look at global warming and 
+the best ways to combat that.
+  This is a very simple bill. Why are we standing here without actually 
+voting on a few amendments that we know some of my Republican friends 
+have? It is because there is a move by some Republican Senators to slow 
+us down, slow down our work. My colleagues heard about it previous to 
+my taking the floor today. Several colleagues talked about the 
+unprecedented number of filibusters.
+  But I have to say on the bright side, this is a bill that Senator 
+Inhofe and I have worked very closely on. We agree on it. It is 
+bipartisan in nature. There are a couple of colleagues who don't like a 
+couple of things in here. We will deal with that. We will deal with it, 
+but let's get moving. It seems a shame to have the Presiding Officer 
+sitting in the chair in front of an empty Chamber while the time clicks 
+away and we can't get anything done on a technical corrections bill.
+  I might say everyone is quite aware that we are in an economic 
+slowdown. I look at this bill as a little bit of a ministimulus 
+package, because it will unleash about $1 billion for very important 
+projects already approved. It will unleash those funds. For every 
+billion dollars, tens of thousands of new jobs are created in the 
+construction industry. We have a very long list of people supporting us 
+on this bill. Again, I call on my friends and colleagues on the other 
+side of the aisle who for some reason are holding up this bill: Please. 
+We are willing to have votes on your objections in the form of an 
+amendment. We are willing to work with you. We want to get this bill 
+done. The American people need this bill done. There is no reason to 
+get it caught up in other political arguments and questions.
+  I hope I can come out here in short order with the news that my 
+Republican friends have decided to let us go to the amendment process 
+so we can move forward and complete our work on this bill.
+  At this point I yield the floor and note the absence of a quorum.
+  The ACTING PRESIDENT pro tempore. The clerk will call the roll.
+  The legislative clerk proceeded to call the roll.
+  The ACTING PRESIDENT pro tempore. The Senator from Massachusetts.
+  Mr. KENNEDY. Mr. President, I ask unanimous consent that the order 
+for the quorum call be rescinded.
+  The ACTING PRESIDENT pro tempore. Without objection, it is so 
+ordered.
+
+                          ____________________
+```

@@ -1,0 +1,36 @@
+---
+granule: CREC-2008-04-15-pt1-PgH2275-2
+date: 2008-04-15
+edition: CREC
+section: HOUSE
+page: H2275
+citation: 154 Cong. Rec. H2275
+---
+
+# AMERICANS ASK: WHY IS BUSH SPENDING BILLIONS IN IRAQ
+
+**Speaking:** Watson, Diane E. (W000794) [D-CA]
+
+```
+          AMERICANS ASK: WHY IS BUSH SPENDING BILLIONS IN IRAQ
+
+  (Ms. WATSON asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. WATSON. Madam Speaker, today, Tax Day, millions of Americans know 
+that their tax dollars will support rebuilding Iraq instead of 
+rebuilding America. Americans have already spent $44 billion in 
+rebuilding Iraq at a time when the Iraqis have a huge oil revenue 
+reserve.
+  Today, taxpayers may be wondering how this money could be spent in 
+Iraq, our money, instead of rebuilding the U.S.A. With the $339 million 
+that we are spending daily in Iraq, we could instead provide an 
+additional 18,000 American students with Pell Grants so they can attend 
+college. We could also hire and keep 4,400 ``COPS on the beat.'' Our 
+moneys could be used, if we spent them here, to have 2,000 more border 
+guard agents to protect our borders.
+  Madam Speaker, as Americans pay their taxes today, they have a right 
+to know why billions are being spent each month in Iraq instead of here 
+in the U.S.A.
+
+                          ____________________
+```
