@@ -1,0 +1,79 @@
+---
+granule: CRECB-2008-pt5-Pg5935-8
+date: 2008-04-15
+edition: CRECB
+section: SENATE
+page: 5935
+---
+
+# POPE BENEDICT XVI'S VISIT TO THE UNITED STATES
+
+```
+             POPE BENEDICT XVI'S VISIT TO THE UNITED STATES
+
+  Mr. McCONNELL. Mr. President, this week we welcome his Holiness, Pope 
+Benedict XVI, for his first visit to America as Pope.
+  Here in Washington, Pope Benedict will meet the President at the 
+White House, marking only the second time in America's history that a 
+pontiff has visited the White House. He will offer Mass at the newly 
+opened Nationals Park, and deliver an address at Catholic University.
+  Pope Benedict will then travel to New York, where he will address the 
+United Nations, visit Ground Zero, site of the devastating 9/11 
+terrorist attacks, and say Mass at Yankee Stadium.
+  During his visit, the Pope will also champion a brotherhood of faith 
+between the religions, by meeting with leaders from the Buddhist, 
+Muslim, Hindu, Jewish, and other faiths.
+  The Pope's visit observes some important anniversaries. Wednesday, 
+April 16, will be his 81st birthday, and Saturday, the 19th, will mark 
+the third anniversary of his election as Pope.
+  His visit also coincides with the 200th anniversary of four of the 
+oldest dioceses in the United States, one of which was established in 
+my own State of Kentucky. Two hundred years ago this month, Pope Pius 
+VII carved the Diocese of Bardstown from one of the oldest dioceses in 
+the New World.
+  The territory of the Bardstown Diocese once covered a giant swath of 
+land, including what are now the States of Kentucky, Tennessee, Ohio, 
+Indiana, Illinois, Michigan, Iowa, Wisconsin, Missouri, and half of 
+Arkansas.
+  The Bardstown Diocese was established alongside the dioceses of 
+Boston, Philadelphia, and New York. Its seat was eventually moved to 
+Louisville, KY, and made an archdiocese. But its place in the history 
+of American Catholicism continues to be a point of pride across 
+Kentucky.
+  Kentuckians celebrate this bicentennial throughout the year at the 
+St. Thomas Church, considered the ``Cradle of Catholicism'' in the 
+Bluegrass State and still located in Bardstown. A two-story log house 
+that stands on St. Thomas' property is the oldest structure related to 
+the Catholic faith in our region of the United States.
+  Built in 1795 by Thomas and Ann Howard, the property was willed to 
+the church by Mr. Howard in 1810, and it became the first home of the 
+St. Thomas Seminary, the first seminary west of
+
+[[Page 5936]]
+
+the Alleghenies. It later served as the residence of Bishop Benedict 
+Joseph Flaget, first bishop of the Bardstown Diocese.
+  Bishop Flaget and others who worked to establish the Bardstown 
+Diocese were pioneers of the land as well as of the spirit. Kentucky 
+was the western frontier of the young United States at that time, and 
+frontier life posed many hardships.
+  Yet Bishop Flaget successfully made his work and presence felt 
+throughout the diocese, and the St. Thomas Church still cites his 
+influence today, two centuries later.
+  The resolve and faith displayed by the founders of that Bardstown 
+Diocese are the same resolve and faith that have enabled so many other 
+Catholic missionaries to attract more than 1 billion adherents to the 
+Catholic faith.
+  As the Bishop of Rome, the Pope's leadership inspires millions with 
+confidence that mankind can find God's will amidst the chaos of this 
+world.
+  Yet, for all the obvious affection people show him, Pope Benedict 
+would be the first to recognize that he is merely ``a simple, humble 
+laborer in the vineyard of the Lord.''
+  We are honored by his visit. And in Bardstown, Washington or 
+elsewhere, we welcome Pope Benedict VXI to bring his labors to America.
+  Mr. President, I yield the floor.
+  The ACTING PRESIDENT pro tempore. The majority leader is recognized.
+
+                          ____________________
+```

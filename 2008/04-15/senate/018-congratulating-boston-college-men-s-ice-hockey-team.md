@@ -1,0 +1,238 @@
+---
+granule: CRECB-2008-pt5-Pg5944-3
+date: 2008-04-15
+edition: CRECB
+section: SENATE
+page: 5944
+---
+
+# CONGRATULATING BOSTON COLLEGE MEN'S ICE HOCKEY TEAM
+
+```
+          CONGRATULATING BOSTON COLLEGE MEN'S ICE HOCKEY TEAM
+
+  Mr. KENNEDY. Mr. President, I welcome this opportunity to 
+congratulate Boston College Eagles men's ice hockey team on their 
+Division I National Championship and to offer a Senate resolution with 
+my colleague from Massachusetts, Senator Kerry, to recognize the team's 
+extraordinary accomplishment.
+  This past Saturday, in Denver, Boston College defeated the University 
+of Notre Dame four goals to one to claim their third national 
+championship and their second since 2001. For the Eagles and their 
+legion of supporters, known as the ``Super Fans,'' this victory marks 
+the culmination of years of hard work in which they reached the Frozen 
+Four's championship game in 3 consecutive years. Junior Nathan Gerbe 
+was named the Frozen Four's Most Outstanding Player.
+  Led by head coach Jerry York, Nathan Gerbe, captain Mike Brennan, and 
+assistant captains Matt Greene and Dan Bertram, the Eagles compiled an 
+impressive overall record of 24 wins, 11 losses, and 8 ties during the 
+2007 to 2008 season, which also included Boston College's 14th victory 
+in the historic Beanpot Championship.
+  With their work ethic and dedication, the Eagles have made the entire 
+Boston College community and all of us in New England proud. We 
+congratulate the entire team, its coaches, and fans.
+  We also thank Father William P. Leahy, president of Boston College, 
+who has proved that you can foster a collegiate environment in which 
+both academic and athletic excellence are the order of the day. The 
+team deserves great credit for its extraordinary achievement, and I 
+urge my colleagues in the Senate to approve this resolution.
+  Mr. President, I ask unanimous consent that an article from the 
+Boston Globe be printed in the Record.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+                 [From the Boston Globe, Apr. 14, 2008]
+
+                        At BC, a Moment To Savor
+
+                      (By Nancy Marrapese-Burrell)
+
+       Denver.--When Boston College won its NCAA championship in 
+     2001, Bobby Allen was one of the team captains. So it seemed 
+     fitting that it was Allen who gave the 2007-08 Eagles a 
+     crucial pep talk last week just prior to their departure for 
+     the Mile High City and this year's Frozen Four.
+       In essence, Allen told the players to live in the moment, 
+     to revel in the joy of the event and remember that hockey is 
+     a labor of love.
+       The team took that message to heart. After beating Notre 
+     Dame, 4-1, in the title game Saturday night at the Pepsi 
+     Center, the seniors in particular felt the weight of the 
+     world lifted off their shoulders. They were the ones who most 
+     acutely realized it was their last chance after two 
+     consecutive failed attempts at the crown. Senior center Dan 
+     Bertram said they were determined it wasn't going to elude 
+     them a third time.
+       ``I think [the experience factor] helped us a lot,'' said 
+     Bertram. ``I know with our senior class here, we were all 
+     pretty tight. We didn't know exactly what the feeling was 
+     like to be on the other side and we sure as heck didn't want 
+     to have that this year. Everyone else really saw the passion 
+     from our captain [Mike Brennan] all the way down and you 
+     can't say enough about just this feeling and the 
+     achievement.''
+       When Allen and his teammates were celebrating their 
+     victory, John Muse was only 12
+
+[[Page 5945]]
+
+     years old. The Falmouth native, who backstopped the Eagles in 
+     all 44 games this season, allowed only two goals in the 
+     Frozen Four, one each to North Dakota and Notre Dame.
+       ``He's been unbelievable,'' said Bertram. ``I think 
+     everyone is going to know who John Muse is now. We're so 
+     proud of him and we had so much confidence in him. That's a 
+     hard thing, to come in as a freshman, and the whole year he 
+     has played solid, consistent hockey. The way he played in the 
+     Frozen Four is unbelievable. These guys are lucky to have him 
+     for another three years.''
+       While Muse was keeping out goals in his end, neither the 
+     Fighting Sioux nor the Fighting Irish could do a thing about 
+     junior left wing Nathan Gerbe, who tallied 4 points in each 
+     game (five goals, three assists) on the way to being named 
+     the tournament's most outstanding player. It's as if Gerbe 
+     was playing on an entirely different stage than anyone else. 
+     All they could do was watch.
+       ``In our eyes, he's the best player in the country,'' said 
+     Bertram. ``To show up in the biggest games, I think that's 
+     the best [praise] someone can give you. He's a big-game 
+     player. To lead this team and score those big goals, he's 
+     going to be a great player at the national level, too, but 
+     it's just so nice to experience and play with him here and 
+     just see that talent first-hand. He's a game-breaker and if 
+     you give him some chances and loosen up a little bit, he's 
+     going to make you pay. The last two games, he was 
+     unbelievable.''
+       The seniors provided strong leadership throughout the 
+     season, which was not always very smooth. There were winless 
+     streaks, injuries, and player dismissals. But the steady 
+     upperclassmen helped right the ship for the stretch run and 
+     none allowed themselves to get too excited until practically 
+     the final seconds ticked off the clock.
+       ``I wasn't exhaling until I looked up with six seconds left 
+     and said, `All right, I don't think they can score three 
+     goals with six seconds left,' '' said Bertram. ``It's almost 
+     surreal when you're sitting there and kind of watching the 
+     clock go down, 30 seconds at a time. I guess when it got to 
+     1:30 [left] and I'm thinking, `This is really in out of reach 
+     now.' Six seconds was the only time I was like, `OK, start 
+     enjoying it a little bit.' ''
+       Senior Matt Greene said in his 22 years of living, the 
+     feeling of accomplishment is unmatched.
+       ``I can't say this is the best feeling I'll ever feel, but 
+     this certainly is the highlight of my life so far,'' he said.
+       Greene acknowledged, however, it hadn't quite hit him that 
+     although the seniors went out on the ultimate high, his 
+     collegiate career is over.
+       ``I've got a couple more weeks to stick around the BC 
+     campus,'' said Greene. ``It's the last time I'll stare across 
+     and give [Andrew] Orpik a wink or maybe throw a tape ball at 
+     [Brian Gibbons] or maybe a little bit of ice at [Kyle 
+     Kucharski]. That's all a part of being a team.
+       ``Hockey is a special sport because you grow in 
+     relationships more than I think in any other sport. We deeply 
+     mean what we say and it's going to hit me for sure.''
+       Bertram said as devastated as they were to lose in the two 
+     title games prior to this one, that's how incredible the 
+     feeling is to win.
+       ``You never want to lose,'' said Bertram. ``It's nice as 
+     senior, you're remembered for your last game. There is no 
+     better feeling than leaving Boston College, which has been so 
+     good to us, on top and winning. It's something I'll never 
+     forget and it's something forever I will be proud of.''
+       The Eagles will hold an autograph session at Conte Forum at 
+     5:30 this afternoon, followed by a victory celebration at 
+     6:15 p.m.
+
+  Mr. KENNEDY. Mr. President, I ask unanimous consent that the Senate 
+proceed to the immediate consideration of S. Res. 514 submitted earlier 
+today.
+  The ACTING PRESIDENT pro tempore. The clerk will report the 
+resolution by title.
+  The assistant legislative clerk read as follows:
+
+       A resolution (S. Res. 514) congratulating the Boston 
+     College men's ice hockey team on winning the 2008 National 
+     Collegiate Athletic Association Division I National Ice 
+     Hockey Championship.
+
+  There being no objection, the Senate proceeded to consider the 
+resolution.
+  Mr. KENNEDY. Mr. President, I ask unanimous consent that the 
+resolution be agreed to, the preamble be agreed to, the motions to 
+consider be laid upon the table, and any statements be printed in the 
+Record without intervening action or debate.
+  The ACTING PRESIDENT pro tempore. Without objection, it is so 
+ordered.
+  The resolution (S. Res. 514) was agreed to.
+  The preamble was agreed to.
+  The resolution, with its preamble, reads as follows:
+
+                              S. Res. 514
+
+       Whereas, on Saturday, April 12, 2008, the Boston College 
+     men's ice hockey team (referred to in this preamble as the 
+     ``Eagles'') won the 2008 National Collegiate Athletic 
+     Association (NCAA) Division I National Ice Hockey 
+     Championship by defeating the University of Notre Dame men's 
+     ice hockey team by the score of 4 to 1 in the final game of 
+     the Frozen Four;
+       Whereas the University of Notre Dame men's ice hockey team 
+     deserves great respect for reaching the Frozen Four for the 
+     first time in the team's history and then advancing to the 
+     National Championship game;
+       Whereas the victory for Boston College marked the Eagles' 
+     third national hockey championship, after the team's first 
+     championship win in 1949 and its second championship win in 
+     2001;
+       Whereas the Eagles earned the number 1 seed in the NCAA 
+     hockey tournament with an impressive overall record of 24 
+     wins, 11 losses, and 8 ties during the 2007-2008 season;
+       Whereas the Eagles were led by junior Nathan Gerbe, the 
+     Nation's leading scorer in men's college ice hockey, who came 
+     in second for the Hobey Baker Memorial Award, with 35 goals 
+     and 32 assists during the season;
+       Whereas the Eagles have made the National Championship game 
+     in each of the past 3 years, demonstrating extraordinary 
+     teamwork and dedication;
+       Whereas the remarkable 2007-2008 season also included a 
+     memorable victory for the Eagles in the historic Beanpot 
+     Championship in February 2008, earning Boston College its 
+     14th Beanpot Championship;
+       Whereas Boston College ``Super Fans'' traveled great 
+     distances all year and gave the Eagles strong support 
+     throughout their championship season; and
+       Whereas Boston College and its student athletes are well 
+     known for their commitment to both athletic and academic 
+     excellence, ranking sixth nationally among NCAA Division I 
+     schools in the graduation rate of student athletes: Now, 
+     therefore, be it
+       Resolved, That the Senate--
+       (1) congratulates--
+       (A) the Boston College men's ice hockey team for winning 
+     the 2008 National Collegiate Athletic Association Division I 
+     National Ice Hockey Championship; and
+       (B) the players, coaching staff, faculty and staff of the 
+     university, student body, and fans whose determination, 
+     strong work ethic, drive, and support made the 2007-2008 
+     championship season possible;
+       (2) congratulates the University of Notre Dame men's ice 
+     hockey team for its success in the 2007-2008 season and for 
+     reaching the Frozen Four for the first time in the team's 
+     history; and
+       (3) directs the Secretary of the Senate to transmit an 
+     enrolled copy of this resolution to--
+       (A) Boston College President Father William P. Leahy, S.J.;
+       (B) Boston College Athletic Director Gene DeFilippo; and
+       (C) Boston College Head Coach Jerry York.
+
+  Mr. KENNEDY. Mr. President, I suggest the absence of a quorum.
+  The ACTING PRESIDENT pro tempore. The clerk will call the roll.
+  The assistant legislative clerk proceeded to call the roll.
+  Mr. KENNEDY. Mr. President, I ask unanimous consent that the order 
+for the quorum call be rescinded.
+  The ACTING PRESIDENT pro tempore. Without objection, it is so 
+ordered.
+
+                          ____________________
+```
