@@ -1,0 +1,41 @@
+---
+granule: CREC-2008-04-16-pt1-PgS3070
+date: 2008-04-16
+edition: CREC
+section: SENATE
+page: S3070
+citation: 154 Cong. Rec. S3070
+---
+
+# ONE-YEAR ANNIVERSARY OF VIRGINIA TECH TRAGEDY
+
+**Speaking:** Warner, John (W000154) [R-VA]
+
+```
+             ONE-YEAR ANNIVERSARY OF VIRGINIA TECH TRAGEDY
+
+  Mr. WARNER. Madam President, 1 year ago today, the horrific shootings 
+at Virginia Tech claimed 32 innocent lives.
+  In remembrance of the lives of promise that were forever lost that 
+shocking day, I would simply like to read each of their names into the 
+Congressional Record: Ross A. Alameddine; Christopher James Bishop; 
+Brian R. Bluhm; Ryan Christopher Clark; Austin Michelle Cloyd; Jocelyne 
+Couture-Nowak; Daniel Alejandro Perez Cueva; Kevin P. Granata; Matthew 
+Gregory Gwaltney; Caitlin Millar Hammaren; Jeremy Michael Herbstritt; 
+Rachael Elizabeth Hill; Emily Jane Hilscher; Jarrett Lee Lane; Matthew 
+Joseph La Porte; Henry J. Lee; Liviu Librescu; G.V. Loganathan; Partahi 
+Mamora Halomoan Lumbantoruan; Lauren Ashley McCain; Daniel Patrick 
+O'Neil; Juan Ramon Ortiz-Ortiz; Minal Hiralal Panchal; Erin Nicole 
+Peterson; Michael Steven Pohle, Jr.; Julia Kathleen Pryde; Mary Karen 
+Read; Reema Joseph Samaha; Waleed Mohamed Shaalan; Leslie Geraldine 
+Sherman; Maxine Shelly Turner; Nicole Regina White.
+  The day after the shooting, I mourned with the campus community at a 
+convocation held on the campus of Virginia Tech. While the mourning of 
+that tragic day continues for all of us, in the past year the Tech 
+family has come together to support each other in a way that all of 
+America admires. I know that those who have suffered most in the 
+tragedy, and their families, remain in the thoughts and prayers of not 
+only all Hokies, but indeed Americans across the country.
+
+                          ____________________
+```
