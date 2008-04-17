@@ -1,0 +1,46 @@
+---
+granule: CRECB-2008-pt5-Pg6384-6
+date: 2008-04-17
+edition: CRECB
+section: SENATE
+page: 6384
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                         DEPARTMENT OF JUSTICE
+
+       KELLY HARRISON RANKIN, OF WYOMING, TO BE UNITED STATES 
+     ATTORNEY FOR THE DISTRICT OF WYOMING FOR THE TERM OF FOUR 
+     YEARS, VICE MATTHEW HANSEN MEAD, RESIGNED.
+
+
+                            IN THE AIR FORCE
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES AIR FORCE TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                        To be lieutenant general
+
+       MAJ. GEN. PHILIP M. BREEDLOVE
+
+
+                              IN THE NAVY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES NAVY TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                           To be vice admiral
+
+       REAR ADM. (LH) ROBERT S. HARWARD, JR.
+```
