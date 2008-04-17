@@ -1,0 +1,39 @@
+---
+granule: CREC-2008-04-17-pt1-PgH2455-3
+date: 2008-04-17
+edition: CREC
+section: HOUSE
+page: H2455
+citation: 154 Cong. Rec. H2455
+---
+
+# WITH ECONOMIC DOWNTURN, IRAQ MONEY CAN BE BETTER SPENT AT HOME
+
+**Speaking:** Johnson, Eddie Bernice (J000126) [D-TX]
+
+```
+     WITH ECONOMIC DOWNTURN, IRAQ MONEY CAN BE BETTER SPENT AT HOME
+
+  (Ms. EDDIE BERNICE JOHNSON of Texas asked and was given permission to 
+address the House for 1 minute.)
+  Ms. EDDIE BERNICE JOHNSON of Texas. Madam Speaker, as taxpayers filed 
+their income tax this week, many were probably wondering just how much 
+of their individual taxes would be invested in Iraq instead of here in 
+the U.S. at home. Consider that every single second, the Bush 
+administration is spending $4,000 in Iraq. That means that income taxes 
+paid by the average taxpayer would not even cover the cost of one 
+second of this war.
+  This country is already facing difficult economic times. We cannot 
+afford to continue spending $339 million a day on a war that has no 
+strategy for victory. If we invested one day of this sum in America 
+instead, we could give 2.6 million American children access to medical 
+and dental care, or we could hire more than 2,000 more border patrol 
+agents to protect our borders. And we could send 18,000 more students 
+to college.
+  Madam Speaker, at a time when Americans are getting squeezed at the 
+pump and the supermarket and are suffering in the housing market, 
+Washington Republicans need to realize that we should prioritize the 
+needs of America over those of Iraq.
+
+                          ____________________
+```
