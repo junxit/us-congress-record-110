@@ -1,0 +1,47 @@
+---
+granule: CREC-2008-04-22-pt1-PgS3250
+date: 2008-04-22
+edition: CREC
+section: SENATE
+page: S3250
+citation: 154 Cong. Rec. S3250
+---
+
+# THE MATTHEW SHEPARD ACT OF 2007
+
+**Speaking:** Smith, Gordon H. (S001142) [R-OR]
+
+```
+                    THE MATTHEW SHEPARD ACT OF 2007
+
+  Mr. SMITH. Mr. President, I rise today to speak about the need for 
+hate crimes legislation. Each Congress, Senator Kennedy and I introduce 
+hate crimes legislation that would strengthen and add new categories to 
+current hate crimes law, sending a signal that violence of any kind is 
+unacceptable in our society. Likewise, each Congress I have come to the 
+floor to highlight a separate hate crime that has occurred in our 
+country.
+  On the night of March 7, 2008, Lance Neve was with his boyfriend at a 
+bar in Spencerport, NY. Neve told police that a man at the bar had been 
+yelling anti-gay slurs at him and his boyfriend and continued to harass 
+them using derogatory comments throughout the night. The aggressor then 
+allegedly asked to shake Neve's hand, explaining that he had never 
+shaken hands with a gay man. When Neve refused, he says the man 
+attacked him and continued to beat him after he had fallen to the 
+ground, knocking him unconscious. Neve was hospitalized with a 
+fractured skull, nose, left eye socket, and jaw as a result of the 
+attack. Police have arrested 24-year-old Jesse D. Parsons of 
+Spencerport, NY, and charged him with second-degree assault designated 
+as a hate crime in connection with the attack.
+  I believe that the Government's first duty is to defend its citizens, 
+to defend them against the harms that come out of hate. Federal laws 
+intended to protect individuals from heinous and violent crimes 
+motivated by hate are woefully inadequate. This legislation would 
+better equip the Government to fulfill its most important obligation by 
+protecting new groups of people as well as better protecting citizens 
+already covered under deficient laws. I believe that by passing this 
+legislation and changing current law, we can change hearts and minds as 
+well.
+
+                          ____________________
+```

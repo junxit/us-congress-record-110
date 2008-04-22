@@ -1,0 +1,100 @@
+---
+granule: CREC-2008-04-22-pt1-PgH2534
+date: 2008-04-22
+edition: CREC
+section: HOUSE
+page: H2534
+citation: 154 Cong. Rec. H2534
+---
+
+# COLOMBIAN DRUG CARTELS USING SUBMARINES TO BRING COCAINE INTO THE UNITED STATES
+
+**Speaking:** Poe, Ted (P000592) [R-TX]
+
+```
+   COLOMBIAN DRUG CARTELS USING SUBMARINES TO BRING COCAINE INTO THE 
+                             UNITED STATES
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from Texas (Mr. Poe) is recognized for 5 minutes.
+  Mr. POE. Mr. Speaker, I want to bring to the House's attention a new 
+innovative idea to import drugs into the United States. The drug 
+cartels in South America, specifically in Colombia, continue to figure 
+out ways to import cocaine at a profit into our country. Now they are 
+doing it by sea, and they are using submarines that they make in the 
+jungles where they make the cocaine that they bring into the United 
+States.
+  I have here, Mr. Speaker, a photograph of a submarine. This 
+photograph was taken by the United States Coast Guard as they were on 
+patrol off the coast of Colombia with the United States Navy. This 
+submarine is made out of fiberglass. It is about 100 feet long and it 
+carries approximately $300 million worth of cocaine. It has a crew of 
+five.
+  It is made in such a way that when intercepted by the United States 
+Navy or the United States Coast Guard, they are able to pull certain 
+levers and valves on this submarine and it is junked in the Gulf of 
+Mexico or off the coast of Colombia. They scuttle these ships, because 
+what happens is when they scuttle them, the five man crew jumps off the 
+boat into a lifeboat, and then our United States Navy has to rescue 
+them and save them, but they can't prosecute them for importation of 
+drugs into the United States.
+  These submarines cost the drug cartels about $1 million apiece to 
+manufacture. Intelligence sources tell us
+
+[[Page H2535]]
+
+that the drug cartels will bring in approximately 90 more loads of 
+drugs into the United States from Colombia using these submarines the 
+rest of this calendar year.
+  They are made in such a way that they are highly mobile. They go 
+about 14 knots apiece, and they are able to go all the way from 
+Colombia into the United States without refueling. It is a constant 
+problem for our Navy and our United States Coast Guard to track these 
+individuals and to catch them with the cocaine.
+  Only one situation where we, I say we, the United States Navy and the 
+Coast Guard, were able to capture one of these vessels before it was 
+scuttled and prosecute the crew was when they tried to sink it off the 
+coast of Colombia after seeing the United States Navy. But what 
+happened was after they scuttled the submarine, a load of cocaine, a 
+bundle of cocaine, if you will, came to the surface. Once it came to 
+the surface it was confiscated by our Navy. The five member crew was 
+captured and they have been taken to Tampa, Florida, and they are on 
+trial for importation of narcotics into the United States.
+  I bring this to the House's attention, Mr. Speaker, because of the 
+fact that Congress needs to deal with this issue. These submarines 
+carry no flag. They are not registered to any nation or foreign 
+government. The crew members come from all over the world, mostly from 
+Colombia. They claim no citizenship from any nation. And they don't 
+claim, of course, possession of the vessel.
+  So Congress can deal with this issue by making it a Federal offense 
+to use a submarine within international waters that carries no flag, 
+carries no registration of another nation, and if a person is caught 
+operating one of these vessels, they could be prosecuted as if they had 
+drugs. The drug cartels are smart. They know if they can destroy the 
+evidence they can't be prosecuted. We need to make a law that being in 
+possession of this submarine is enough to prosecute them for crimes on 
+the high seas.
+  Mr. Speaker, I might add that these vessels are so manufactured that 
+they are not just able to carry cocaine into the United States worth 
+$300 million, or 12 tons, that is how much cocaine, but that same 
+vessel can go into any of our ports in the United States as a submarine 
+carrying weapons, explosives, weapons of mass destruction, and used as 
+some type of suicide submarine, similar to what was used against the 
+USS Cole some years ago in the Middle East.
+  So the United States Coast Guard and Navy is to be complimented for 
+tracking these vessels and doing everything they can to interdict the 
+individuals that bring that cancer into the United States, and Congress 
+needs to deal with the issue, to have these submarines that are 
+basically at war with the United States bringing in these narcotics, 
+have it be a crime to be in possession as a crew member of one of these 
+vessels. It is things like this where we have to keep constant 
+diligence in fighting the war on drugs.
+  Just to be clear, Mr. Speaker, intelligence tells us that these 
+submarines are made by the Revolutionary Armed Forces of Colombia, or 
+FARC. That is the military wing of the Colombian communist party. Of 
+course, that is how they finance their revolution and the revolutionary 
+ideas in South America.
+  And that's just the way it is.
+
+                          ____________________
+```
