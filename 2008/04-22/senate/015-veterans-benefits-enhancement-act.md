@@ -1,0 +1,54 @@
+---
+granule: CRECB-2008-pt5-Pg6458
+date: 2008-04-22
+edition: CRECB
+section: SENATE
+page: 6458
+---
+
+# VETERANS' BENEFITS ENHANCEMENT ACT
+
+```
+                   VETERANS' BENEFITS ENHANCEMENT ACT
+
+  Mr. DURBIN. Mr. President, this morning on the floor of the Senate is 
+a bill entitled the Veterans' Benefits Enhancement Act of 2007. Nine 
+months ago, this bill came out of committee, and this bill is now on 
+the floor and to be considered.
+  Back in November of last year, I asked for permission to bring this 
+bill up for consideration in the Senate and have amendments. It is the 
+orderly process of the Senate, a deliberative process: a debate--and 
+one might expect that is what we do around here. But, sadly, at that 
+point the Republican minority objected to bringing up the Veterans' 
+Benefits Enhancement Act, even though it had passed out of the 
+committee with an overwhelmingly positive vote.
+  What is included in this bill? A long list of important changes in 
+the law, changes which will give to our veterans, especially those 
+returning now disabled from combat, benefits they absolutely need: 
+housing, education.
+  In addition, there is a provision in here which I support--was happy 
+to join as a cosponsor--related to Filipino World War II veterans. I 
+think it is long overdue that the U.S. Senate recognize the 
+contribution made by so many Filipinos in World War II to the success 
+of our war effort. They fought so gallantly and courageously and stood 
+by our troops at a moment we desperately needed their help. Those who 
+are not students of history may have forgotten or never read that our 
+fight in the Philippines was a bitter, long, and tragic battle that 
+ended well but only after great sacrifice by the Filipino people, by 
+the Filipino soldiers, and by our American soldiers.
+  This provision in the bill related to veterans:
+
+     would deem certain service before July 1, 1946, in the 
+     organized military forces of the Philippines and the 
+     Philippine Scouts as active military service for purposes of 
+     eligibility for veterans benefits.
+       [It] would provide that the children of deceased or 
+     totally-disabled service-connected Filipino veterans who 
+     qualify for educational benefits would be paid at the same 
+     rate and under the same conditions as the children of other 
+     veterans.
+
+  Mr. President, this is long overdue.
+
+                          ____________________
+```

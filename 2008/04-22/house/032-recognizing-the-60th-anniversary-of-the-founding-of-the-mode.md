@@ -1,0 +1,2713 @@
+---
+granule: CRECB-2008-pt5-Pg6540
+date: 2008-04-22
+edition: CRECB
+section: HOUSE
+page: 6540
+---
+
+# RECOGNIZING THE 60TH ANNIVERSARY OF THE FOUNDING OF THE MODERN STATE OF ISRAEL
+
+```
+                              {time}  1600
+RECOGNIZING THE 60TH ANNIVERSARY OF THE FOUNDING OF THE MODERN STATE OF 
+                                 ISRAEL
+
+  Mr. BERMAN. Mr. Speaker, I move to suspend the rules and agree to the 
+concurrent resolution (H. Con. Res. 322) recognizing the 60th 
+anniversary of the founding of the modern State of Israel and 
+reaffirming the bonds of close friendship and cooperation between the 
+United States and Israel.
+  The Clerk read the title of the concurrent resolution.
+  The text of the concurrent resolution is as follows:
+
+                            H. Con. Res. 322
+
+       Whereas on November 29, 1947, the United Nations General 
+     Assembly voted to partition the British Mandate of Palestine 
+     and create a Jewish state;
+       Whereas on May 14, 1948, the people of Israel proclaimed 
+     the establishment of the sovereign and independent State of 
+     Israel, and the United States Government established full 
+     diplomatic relations with Israel;
+       Whereas the desire of the Jewish people to establish an 
+     independent modern State of Israel is an outgrowth of the 
+     existence of the historic kingdom of Israel established in 
+     the Land of Israel 3,000 years ago, with the city of 
+     Jerusalem as its capital;
+       Whereas for over 2,000 years, there has been continuous 
+     Jewish presence and residence in the land comprising the 
+     modern State of Israel;
+       Whereas the establishment of the modern State of Israel as 
+     a homeland for the Jewish people followed the slaughter of 
+     more than 6,000,000 European Jews during the Holocaust;
+       Whereas since its establishment 60 years ago, the modern 
+     State of Israel has rebuilt a nation, forged a new and 
+     dynamic democratic society, and created a thriving economic, 
+     political, cultural, and intellectual life despite the heavy 
+     costs of war, terrorism, and unjustified diplomatic and 
+     economic boycotts against the people of Israel;
+       Whereas the people of Israel have established a vibrant, 
+     pluralistic, democratic political system, including freedom 
+     of speech, association, and religion; a vigorously free 
+     press; free, fair and open elections; the rule of law; a 
+     fully independent judiciary; and other democratic principles 
+     and practices;
+       Whereas Israel has developed some of the leading 
+     universities in the world, and 8 Israeli citizens have been 
+     awarded the Nobel Prize;
+       Whereas Israel has developed an advanced, entrepreneurial 
+     economy, is among the world's leaders in the high-tech 
+     industry, and is at the forefront of research and development 
+     in the field of renewable energy sources;
+       Whereas Israel regularly sends humanitarian aid, search-
+     and-rescue teams, mobile hospitals, and other emergency 
+     supplies, to help victims of disasters around the world, 
+     including the 1994 Rwandan civil war, the 1998 bombing of the 
+     United States Embassy in Kenya, the 1999 earthquakes in 
+     Turkey, the 2004 Indian Ocean tsunami, the 2005 hurricanes 
+     along the southern coast of the United States, and the 2007 
+     fires in Greece;
+       Whereas Israel has absorbed millions of Jews from countries 
+     throughout the world and fully integrated them into Israeli 
+     society;
+       Whereas Israel has bravely defended itself from repeated 
+     terrorist and military attacks since its independence;
+       Whereas successive leaders of Israel have sought to achieve 
+     peace with Israel's Arab neighbors;
+       Whereas Israel has established peaceful bilateral relations 
+     with neighboring Egypt and Jordan and has made its desire to 
+     establish
+
+[[Page 6541]]
+
+     peaceful relations with all Arab states abundantly clear;
+       Whereas for 6 decades, the United States and Israel have 
+     maintained a special relationship based on mutually shared 
+     democratic values, common strategic interests, and moral 
+     bonds of friendship and mutual respect;
+       Whereas the American people feel a strong affinity for the 
+     Israeli people based on common values and shared cultural 
+     heritage; and
+       Whereas the United States continues to regard Israel as a 
+     strong and trusted ally and an important strategic partner: 
+     Now, therefore, be it
+       Resolved by the House of Representatives (the Senate 
+     concurring), That Congress--
+       (1) recognizes the historic significance of the 60th 
+     anniversary of the reestablishment of the sovereign and 
+     independent State of Israel as a homeland for the Jewish 
+     people;
+       (2) reaffirms its enduring support for Israel as Israel 
+     pursues peace with its neighbors;
+       (3) reaffirms its support for Israel's right to defend 
+     itself against threats to its security and existence;
+       (4) commends the people of Israel for their remarkable 
+     achievements in building a new state and a pluralistic, 
+     democratic society in the face of terrorism, as well as 
+     hostility, ostracism, and belligerence from many of their 
+     neighbors;
+       (5) reaffirms the bonds of friendship and cooperation which 
+     have existed between the United States and Israel for the 
+     past 60 years, and commits to strengthening those bonds; and
+       (6) extends the warmest congratulations and best wishes to 
+     the State of Israel and the Israeli people for a peaceful, 
+     prosperous, and successful future.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentleman from 
+California (Mr. Berman) and the gentlewoman from Florida (Ms. Ros-
+Lehtinen) each will control 20 minutes.
+  The Chair recognizes the gentleman from California.
+
+
+                             General Leave
+
+  Mr. BERMAN. Mr. Speaker, I ask unanimous consent that all Members may 
+have 5 legislative days to revise and extend their remarks and include 
+extraneous material on the resolution under consideration.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from California?
+  There was no objection.
+  Mr. BERMAN. Mr. Speaker, I yield myself 15 seconds. I rise in strong 
+support of H. Con. Res. 322 which recognizes the 60th anniversary of 
+the founding of the modern State of Israel and reaffirms the bonds of 
+close friendship and cooperation between the United States and Israel.
+  Mr. Speaker, I reserve the balance of my time.
+  Ms. ROS-LEHTINEN. Mr. Speaker, I yield myself such time as I may 
+consume.
+  Mr. Speaker, I am delighted to join with this House today in 
+commemorating a milestone that few would have once thought possible, 
+and in celebrating one of America's most special bilateral 
+relationships.
+  When the State of Israel was declared on May 14, 1948, some worried 
+whether it would survive for even 6 months in the face of ruthless and 
+relentless war from much of the Arab world. Naysayers worldwide fought 
+against the establishment of a state for the Jewish people, and urged 
+the United States not to recognize any such Jewish state. To our 
+Nation's credit, the United States recognized Israel 11 minutes after 
+it declared independence, leading the way for other responsible nations 
+to follow.
+  And despite predictions of gloom and doom, and the strongest efforts 
+of its enemies, Israel did not perish. Indeed, Israel has flourished. 
+Israel won three wars of self-defense on multiple fronts. It has 
+survived not merely for 6 months but for 60 extraordinary years. 
+Through it all, Israel has endured. And as the only democracy in the 
+region, Israel continues to be a beacon of hope and a model for her 
+neighbors.
+  It has been said that the strength of a nation is determined by the 
+caliber of its people. There is perhaps no better example of this truth 
+than the State of Israel and the Israeli people, vivid examples of 
+conviction, of courage, of faith. Indeed, through the blood and the 
+toil and the creativity of its citizens, Israel has grown accustomed to 
+dispelling established wisdom and exceeding expectations.
+  Israel has proven that democracy, liberty, prosperity and innovation 
+can indeed thrive in the Middle East. Today, Israel is a vibrant 
+democracy where unfettered free speech fills the airwaves, and where 
+Arabs serve in government, and have excelled in business and science.
+  Israel has demonstrated that desolate areas of the Holy Land can be 
+redeemed, and that the ``land of milk and honey'' can once again bloom 
+and bear fruit.
+  Israel has given the world a first-rate high-tech industry that 
+pioneered wi-fi and instant messaging, and a medical industry that 
+pioneered microscopic cameras that can be swallowed in a pill. And 
+Israel has shown that a 2,000-year-old dream, the creation of a state 
+for the Jewish people in their historic homeland, can indeed come true.
+  Time and time again, Mr. Speaker, Israel has made the impossible a 
+reality. Yet today, Israel once again finds itself besieged in every 
+direction by dangerous regimes like Iran and Syria and by the rapidly 
+arming and violent Islamic groups that those regimes sponsor like Hamas 
+and Hezbollah.
+  Today, Israelis live in fear, fear of the threat of their very 
+existence represented by the pariah states of Iran and Syria. Innocent 
+blood in Tel Aviv, in Jerusalem, and in other communities is shed 
+regularly as a result of the jihadists from Hezbollah, from Hamas, and 
+other such militant organizations.
+  Palestinian suicide bombers have struck at crowded bus stops, at 
+hotels and cafes and other civilian targets. And in a little town 
+called Sderot, children play indoors because of Palestinian rockets, 
+and ordinary people face the draining pressure that at any moment a 
+rocket could be launched at them, killing or maiming them or their 
+loved ones.
+  Mr. Speaker, Israel's existence is indispensable to advancing 
+America's most basic interests and values. For decades, our two nations 
+have successfully collaborated on everything from science and business 
+to defense and homeland security. As America goes forward, fighting for 
+a free and prosperous world and against violent extremist groups who 
+seek our ruin, Israel once again stands with us. And America will and 
+must continue to stand with Israel for the next 60 years and beyond.
+  I strongly urge my colleagues to support this important resolution.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. BERMAN. Mr. Speaker, I yield myself such time as I may consume.
+  Mr. Speaker, in the 60 years since the founding of our ally Israel, 
+the United States has had no greater friend in the Middle East. U.S.-
+Israeli friendship is based first and foremost on shared democratic 
+values and our mutual pursuit of peace and stability in the Middle 
+East, and it is buttressed by our Nation's unshakable commitment to 
+Israel's security.
+  The remarkable story to Israel's foundation and survival is 
+inspiring. Shortly after the decision by the United Nations to 
+partition the British Mandate of Palestine into Jewish and Arab states, 
+Israel declared its independence on May 14, 1948, in Tel Aviv. In 
+response, Israel's Arab neighbors invaded the new and tiny Jewish 
+state. And to the surprise of the so-called experts and pundits 
+everywhere, the nascent Israel Defense Forces prevailed, defending the 
+people of Israel and soundly defeating the Arab coalition.
+  French President Nicolas Sarkozy called the emergence of the State of 
+Israel ``a miracle of the 20th century.'' However, Golda Meier once 
+remarked that there had been ``too much self-sacrifice and too many 
+lives lost for Israel's emergence to be considered a miracle.''
+  But the establishment and the evolution of the State of Israel can be 
+considered, without doubt, one of the dazzling human achievements of 
+our times.
+  Hundreds of thousands of Jews and their descendants escaped 
+oppression, or worse, because Israel exists. Spurning the authoritarian 
+model that dominates its region, and persevering in a sea of enmity, 
+Israel has built a world-class civilization, a vibrant democracy, a 
+thriving economy, and a culturally and academically rich society.
+  The American people, and particularly the United States Congress, 
+have
+
+[[Page 6542]]
+
+contributed mightily to Israel's sustenance and security over the 
+years. Of that we are justifiably proud.
+  But Israel's triumphant story is also tinged with tragedy. Each year 
+just before its independence day, Israel honors soldiers who have 
+fallen in its defense. A siren sounds all over the nation, and Israelis 
+everywhere stop to remember. This minute of silence is a poignant 
+memory for all who have witnessed it. But it is also, unfortunately, 
+symbolic of Israel's wider regional reality for Israel has lived under 
+the Damoclesian threat since its birth.
+  For years the Arab world sought to drive Israel into the sea. But 
+eventually, after much death and destruction, the visionary Egyptian 
+president, Anwar Sadat, and the wise Jordanian, King Hussein, 
+recognized the value of peace and coexistence with Israel. And although 
+much of the Arab world's economic, cultural and political boycott of 
+Israel remains intact and terrorism has never ceased, the prospect of a 
+collective military attack on Israel fortunately has faded in recent 
+years.
+  Nevertheless, Israel today lives under potentially greater threats to 
+its well-being and existence than ever before. The daily rocket 
+assaults from Gaza, controlled by fundamentalist Hamas, have reaped 
+vast physical and psychological damage on the people of Sderot, not to 
+mention the fact that they have killed more than a dozen Israelis. And 
+increasingly, sophisticated rockets are being used. They are more 
+deadly accurate by the day, and they have greater range. In Israel's 
+north, Hezbollah's replenished missile supply poses an even greater 
+threat.
+  On the other end of the military spectrum, a theologically based 
+state, the Islamic Republic of Iran whose president says Israel should 
+be wiped off the map, is developing nuclear weapons and long-range 
+missiles. Now is not the time to go into details about these threats. 
+This body has spoken specifically to each of these dangers in the 
+relatively recent past, and will do so again.
+  Now it is time to reaffirm our Nation's pledge to Israel that we will 
+stand in solidarity with Israel against all violent assaults on its 
+security and well-being. And most of all, it is time to say to our 
+friend and ally, Israel, congratulations on your incredible social, 
+political, economic, and technological achievements in the face of the 
+most stupefying odds. We in the United States could not be prouder of 
+our special relationship with you.
+  I reserve the balance of my time.
+  Ms. ROS-LEHTINEN. Mr. Speaker, I continue to reserve the balance of 
+my time and would be glad to allow Mr. Berman to recognize the Speaker.
+  Mr. BERMAN. Mr. Speaker, I am very proud to recognize the chief 
+sponsor of this resolution, the Speaker of the House of 
+Representatives, a stalwart supporter of the State of Israel for all of 
+her political life that I have known her, for 1 minute.
+  Ms. PELOSI. I thank the gentleman for his kind words. I am pleased to 
+join Mr. Boehner and other cosponsors of this legislation, and thank 
+Chairman Berman and Ranking Member Ros-Lehtinen for their leadership in 
+bringing this resolution to the floor, and for leading us in our strong 
+friendship with the State of Israel.
+  I thank Mr. Berman for following so ably in the footsteps of Mr. 
+Lantos as he follows the tradition of Chairman Lantos whose loss we 
+feel every day.
+  Mr. Speaker, this weekend, families around the world, including my 
+own grandchildren, gathered around the Seder table to retell the 
+Biblical story of freedom and hope that is Passover.
+  The closing words of the Passover haggadah evoke the age-old yearning 
+of the Jewish people to return to Zion. Today, in Congress, we mark the 
+fulfillment of those aspirations in observing the founding of the 
+modern State of Israel. By recognizing the 60th anniversary of Israel, 
+we reaffirm the bonds of close friendship and cooperation between the 
+United States and Israel.
+  Again I thank Chairman Berman and Congresswoman Ros-Lehtinen for 
+their leadership in giving us this opportunity today. I am pleased to 
+join Republican Leader Boehner as lead cosponsors of this legislation, 
+as I am pleased to join him in leading a delegation to Israel in a few 
+weeks to be part of the 60th anniversary observance.
+  Mr. Speaker, the creation of the State of Israel, as Mr. Berman said 
+so eloquently, stands out as one of the greatest achievements of the 
+20th century and as a beacon of hope to the world. President Truman's 
+role in recognizing the new state just 11 minutes after its 
+proclamation is a source of pride for all Americans. It is also a 
+symbol of the strength of the friendship between our two countries.
+  I note that this congressional recognition is a little earlier than a 
+month before Israel's independence day, but this allows us to get ready 
+and to have a few weeks of festivities to bring in the May celebration.
+  In this body we sometimes have political differences, but today and 
+every day we speak with one voice united with Israel. As we support 
+Israel, we recognize that the national security of Israel is in our 
+national interest.
+
+                              {time}  1615
+
+  A week ago, Noam Shalit, father of Gilad Shalit, came to my office. 
+Gilad was captured from his army base in Israel near the Gaza border on 
+June 25, 2006. For almost 2 years, Gilad has been held in captivity. 
+Our thoughts are with him and his family, as well as with all of the 
+other missing Israeli soldiers, such as Ehud Goldwasser and Eldad 
+Regev. We will continue to work for their release from captivity.
+  Mr. Speaker, every leader from the region who comes into my office, 
+or just other people that I find worthy of knowing about this, I show 
+the dog tags of Eldad, Ehud and Gilad as a constant reminder in the 
+Speaker's Office of our commitment to them and to their freedom.
+  In America's partnership with Israel, we have both given support and 
+we have drawn strength. We share a common history, nations founded to 
+be beacons of democracy, forged by pioneers, and fulfilled by 
+immigrants in search of a better tomorrow. We also share a common 
+cause, a safe and secure Israel, living in peace with her neighbors.
+  Mr. Speaker, I urge our colleagues to speak with one voice and 
+support this resolution recognizing the 60th anniversary of the State 
+of Israel. In doing so, we not only commend Israel, we also bring 
+luster to this House by associating ourselves with that great State of 
+Israel.
+  Mr. Speaker, I thank the gentlelady from Florida for her generosity 
+in allowing me, the Speaker, to speak out of turn.
+  Ms. ROS-LEHTINEN. Mr. Speaker, at this point I would like to yield 3 
+minutes to the gentleman from Texas (Mr. Poe), an esteemed member of 
+our Committee on Foreign Affairs.
+  Mr. POE. Mr. Speaker, the Nation of Israel has fought for 60 years 
+for the right to exist, and I'm proud to be a cosponsor of H. Con. Res. 
+322, a measure before the House today. It recognizes the 60th 
+anniversary of Israel's statehood, and reaffirms United States support 
+for Israel as Israel continues to pursue peace with its neighbors and 
+defend itself against constant threats to its security and its 
+existence.
+  Sixty years ago, on May 14, in the aftermath of World War II, the 
+people of Israel declared independence and claimed sovereignty of about 
+8,000 square miles of land that was between the Dead Sea and the 
+Mediterranean Sea, the area about the size of New Jersey. That day was 
+just the beginning of another chapter in Israel's long history of 
+defending its right to exist.
+  Almost immediately after Israel announced independence in 1948, 
+Egypt, Syria, Iraq, Lebanon, Jordan and Saudi Arabia all declared war 
+on Israel, launching Israel's long fight for the mere right to exist. 
+In that war, the newly created State of Israel defeated the Arab armies 
+that invaded it, and even expanded some of its territory.
+  Then again, in 1967, Israel acted once more to defend itself against 
+hostile invasion by its neighbors during the Six Day War. Once again, 
+in 1972, Israel was targeted by Arab armies during the Yom Kippur war.
+  And recently Israel has been attacked in the north by terrorist hate 
+groups Hezbollah, and in the south by Hamas terrorist group.
+
+[[Page 6543]]
+
+  Also, Israel has been forced to defend itself against Palestinian 
+aggression. And since January 1 of this year, Palestinians have fired 
+more than 450 mortar shells into Israel. This rocket fire has 
+intentionally targeted civilian communities in Israel, and made life 
+for these people a nightmare. But Israel is resilient and continues to 
+fly the flag of freedom.
+  I proudly join my colleagues in commending the people of Israel for 
+building this democratic state in the face of terrorism, hostility, 
+hate and war from their neighbors.
+  Israel and the United States are like family. Sometimes we disagree 
+on things, but when someone attacks part of the family, it's an attack 
+on the whole family. Let there be no mistake about it. The United 
+States stand side by side with its friend, Israel, and with the concept 
+of freedom.
+  And that's just the way it is.
+  Mr. BERMAN. Mr. Speaker, I'm privileged to recognize for 1 minute a 
+gentleman who has probably done as much as anyone in this House to 
+promote the U.S.-Israeli relationship, including his own personal 
+missions that he leads there, the majority leader, Mr. Hoyer of 
+Maryland.
+  Mr. HOYER. I thank my friend of some 45 years for his observations. 
+There are a lot of my very dear friends for a long time in this 
+chamber.
+  Israel is America's friend for a very long time.
+  Mr. Speaker, it is fitting today that Members of both sides of the 
+aisle, almost in unanimity, join to recognize the founding of our 
+Nation's steadfast friend and ally, the State of Israel, to reconfirm 
+the special bond that exists between our two Nations, and to reiterate 
+that the support for Israel in this Congress is bipartisan, 
+overwhelming, stronger than ever, and continuing to grow.
+  On May 14, 1948, the day on which the British mandate for Palestine 
+expired, the people of Israel proclaimed the sovereign and independent 
+State of Israel. And 11 minutes later the United States, at the 
+direction of President Harry S. Truman, recognized the establishment of 
+this new state.
+  President Truman observed, at that time, and I quote, ``I had faith 
+in Israel before it was established, I have faith in it now. I believe 
+that it has a glorious future before it, not just another sovereign 
+nation, but an embodiment of the great ideals of our civilization.''
+  So said President Harry Truman, May 14, 1948, 11 minutes after the 
+declaration of sovereignty of the State of Israel. An embodiment of the 
+great ideals of our civilization. I believe that to be the fact, and 
+because I believe that to be the fact, I believe it is absolutely 
+essential that those who uphold those ideals pledge their support and 
+defense of Israel against those who would undermine, not only the 
+nation, but the idea of the civilization that Truman said it 
+represents.
+  Mr. Speaker, over the ensuing 6 decades, it has become increasingly 
+clear that Israel's success is not only a strategic imperative for the 
+United States, but a moral imperative as well. Ours is a relationship 
+of principle and conscience, of shared values and common aspirations, 
+of peace and opportunity and a mutual commitment to freedom and 
+democracy.
+  The United States and Israel are nations of immigrants. We are safe 
+havens for the oppressed. The Statue of Liberty lifts her lamp beside 
+the golden door, ``Send these, the poor, the homeless, tempest tossed 
+to me,'' it says. That is what Israel has said to millions of Jews, and 
+others as well, black and white.
+  We are partners with Israel for peace, and we are united in fighting 
+against terrorism. Few people on Earth have been subjected to more 
+bigotry, violence and discrimination than have the Jewish people, and 
+no people are more in need, in my view, of a sovereign, secure homeland 
+to provide safe haven and to protect identity.
+  That is why the Balfour Resolution was passed in 1918. That is why, 
+in 1948, the world looked on the creation of Israel as an imperative.
+  David Ben-Gurion once remarked: ``The security of Israel is,'' he 
+said, and I quote, ``a question of the survival, not only of the people 
+of Israel, but of the Jewish people the world over.''
+  History has taught us that is true. Throughout the last 60 years, 
+Israel has been an island of freedom in a sea of despair and an absence 
+of democracy. It has been vilified, threatened and attacked. My 
+colleagues have set forth those facts.
+  And yet, it has prevailed, indeed, prospered, just as it will prevail 
+and prosper today and tomorrow and every day thereafter.
+  When we talk of Israel, we inevitably acknowledge her courage in the 
+face of those who seek her destruction. But let us also acknowledge 
+that over the last 60 years, the Israeli people have established a 
+vibrant, pluralistic, democratic political system that includes freedom 
+of speech, association, religion, a vigorous free press, free, fair and 
+open elections, the rule of law, and an independent judiciary.
+  Furthermore, Israel has developed an advanced entrepreneurial 
+economy, and is among the world's leaders in the high tech industry.
+  Mr. Speaker, as Mr. Berman observed, over the last 5 years I've had 
+the opportunity to take a tenth of the Congress, actually more than a 
+tenth of the Congress to Israel, congressional delegations, which have 
+gone to see where we invest our money and where we have committed our 
+security pledge. And what the Members saw was a reflection, really, in 
+many respects, of America and themselves, people who love their 
+country, people who want to live in peace and freedom, and people who 
+want their children to have even greater opportunities and safety.
+  As our allies in Israel celebrate their 60th anniversary in just a 
+few weeks, let us honor their determination to fulfill the vision of 
+Zionism's founding father, Theodore Herzl. Through courage and will, 
+Israel was born and the dream of generations was made real, and it will 
+endure. It will endure with our support, with our encouragement, and 
+with our commitment.
+  I want to congratulate the citizens of Israel and the entire Jewish 
+community, not only in the United States, but throughout the world, who 
+have enabled Israel to survive. Congratulations. Happy birthday.
+  We remain a loyal, steadfast and unswerving ally in your quest for a 
+better life, not just for your people, but, as Truman observed, for 
+civilization as well.
+  Ms. ROS-LEHTINEN. Mr. Speaker, I am proud to yield 2 minutes to the 
+distinguished gentleman from Georgia (Mr. Price).
+  Mr. PRICE of Georgia. Mr. Speaker, I'm so pleased to rise today to 
+congratulate the State of Israel on its 60th anniversary as an 
+independent and sovereign Nation. Our friends have realized this 
+historic milestone in the face of innumerable challenges to their very 
+existence.
+  Constant threats of terrorism and attacks have not defeated the hopes 
+and dreams of the Israeli people. And with remarkable restraint, and 
+despite great odds, the State of Israel proudly stands and has secured 
+the creation of a new and enduring Jewish society in their ancestral 
+homeland.
+  As a vibrant and strong democracy in the Middle East, Israel is a 
+model for the region. A lack of natural resources has not prevented 
+Israel from becoming home to one of the world's most dynamic economies. 
+Its achievements in agriculture, solar energy, medical electronics and 
+telecommunications have gained worldwide recognition. Each of these 
+accomplishments can be directly attributed to Israel's greatest asset, 
+her people.
+  Mr. Speaker, as we continue to promote peace and stability for the 
+people of Israel and all in the region, let us congratulate Israel on 
+the occasion of her 60th anniversary and reaffirm our steadfast support 
+for one of America's greatest allies.
+
+                              {time}  1630
+
+  Mr. BERMAN. Mr. Speaker, I am very pleased to yield 2 minutes to the 
+majority whip for the House of Representatives, Representative Clyburn 
+of South Carolina.
+  Mr. CLYBURN. I thank my friend, Mr. Berman, for yielding me this 
+time.
+  Mr. Speaker, I rise in strong support of H. Con. Res. 322, 
+recognizing the 60th
+
+[[Page 6544]]
+
+anniversary of the founding of the State of Israel. On May 14, 1948, 
+when the world was still struggling with the aftermath of the 
+Holocaust, Israel declared itself a Nation. Eleven minutes later, 
+President Harry Truman made the bold decision to make the United States 
+of America the first country in the world to recognize Israel as a 
+sovereign state. That was the start of a strong allegiance between the 
+United States and Israel, a close friendship that has grown and 
+strengthened over the years, one that will never be broken.
+  As the only true democracy in the Middle East, we recognize Israel's 
+struggle to protect its people, maintain peace with its neighbors, and 
+defend the freedoms of a democratic society. As we join our friend and 
+partner in celebration of this important milestone, we reaffirm the 
+bonds of close friendship and cooperation that have been forged between 
+our nations over these six decades.
+  Ms. ROS-LEHTINEN. Mr. Speaker, I am pleased to yield 3 minutes to the 
+distinguished gentleman from Indiana (Mr. Pence) who is the ranking 
+member of our Subcommittee on the Middle East and South Asia.
+  Mr. PENCE. Mr. Speaker, 60 years ago next month, the State of Israel, 
+under the leadership of a small band of courageous Zionists declared 
+independence in its ancient homeland. It was promptly recognized by the 
+United States, as the majority leader just eloquently described, and it 
+was promptly attacked by its Arab neighbors. The more things change, 
+the more they seem to stay the same.
+  Well, Israel has prevailed against long odds, and we celebrate 60 
+years of that on the floor today and around the United States and 
+around the world next month. It was against those extraordinarily long 
+odds. It was forced again in 1967, 1973, and on countless other times 
+since.
+  It is important that we note through these trials and travails, 
+Israel remains the only fully functioning democracy in the Middle East. 
+It was founded by Holocaust survivors resolved to overcome the horrors 
+of the mid-20th century Europe's atrocities.
+  Today, Israel's boasts a vibrant economy with a well-educated 
+populace. Israel's GDP exceeded most major economies in 2007 and it's 
+reached Organization for Economic Cooperation and Development candidate 
+status.
+  Israel's 60 years on from that historic day next month is an 
+extraordinary success. But Israel is still in the neighborhood of sworn 
+enemies. In its 60th year of history, all of two Arab countries have 
+seen fit to recognize Israel. And today's leader of Iran threatens with 
+regularity to wipe Israel off the map.
+  That's why I rise today, Mr. Speaker, to say two things: Number one, 
+I join my colleagues in both parties who rise to congratulate this 
+historic accomplishment of 60 years hence. But I also say that as we 
+commend Israel, we in this body in both parties should look for 
+opportunities to recommit ourselves to her defense. We cannot stand 
+idly by while a gathering menace grows in the region. We cannot stand 
+quiet while some Americans travel overseas and associate themselves 
+with the blood-soaked enemies of Israel.
+  So today we celebrate, and we celebrate in a spirit of 
+bipartisanship. But I hope as this historic 60th anniversary 
+approaches, we in this body in both parties will look for those 
+opportunities upon which we can come together to rededicate ourselves 
+to the preservation and the protection of Israel as a Jewish state and 
+to Jerusalem as her eternal capital.
+  Mr. BERMAN. Mr. Speaker, it is my pleasure to yield 2 minutes to the 
+gentleman from Maryland (Mr. Van Hollen).
+  Mr. VAN HOLLEN. I thank the gentleman and the chairman of the Foreign 
+Affairs Committee and congratulate him on his leadership along with the 
+ranking member.
+  Mr. Speaker, this year on May 14 we will mark the 60th anniversary of 
+the founding of the State of Israel. We will also celebrate the strong 
+bonds of friendship and cooperation between the United States and 
+Israel. Our country, under the leadership of President Harry Truman, 
+was the first country to recognize the State of Israel. And he later 
+said, ``I had faith in Israel before it was established. I have faith 
+in it now. I believe it has a glorious future before it, not just as 
+another sovereign nation but as the embodiment of the great ideals of 
+our civilization.'' We need to maintain the special relationship we 
+have with Israel based on shared values, common strategic interests, 
+and moral bonds of friendship. Today, we honor not only that country's 
+independence but the significance of what Israel stands for.
+  It represents the centuries-long yearnings of the Jewish people for a 
+homeland of their own in the land of their forebears. The pogroms in 
+tsarist Russia in the late 19th and early 20th centuries and the 
+Holocaust under the Nazi regime in the 1930s and 1940s made the idea of 
+a Jewish people having a State of their own where they could feel 
+secure and never again be subjected to such horrors and brutality even 
+more compelling and necessary.
+  After many years of struggle, Israel emerged as an independent state. 
+It gave refuge to tens of thousands of Holocaust survivors, many of 
+whom had been languishing in temporary resettlement camps in Europe. 
+The new State of Israel also became the home for Jews from scores of 
+countries around the world. In a very short period of time, Israel 
+developed a strong economy, became one of the leading countries within 
+the world in terms of development, of scientific technology, and 
+academic learning.
+  Since its creation, Israel has continually confronted hostile forces 
+that threaten its existence, and the United States must remain 
+steadfast in ensuring the security of Israel.
+  With the assistance of the United States, Israel was able to achieve 
+peace treaties with Egypt and Jordan in the 1970s and 1990s, 
+respectively. These agreements made Israel more secure and greatly 
+lessened the chances for another Arab-Israeli war with those two 
+countries. However, peace negotiations between the Israelis and 
+Palestinians, and friendly relations with its other neighbors, have 
+proved to be more difficult.
+  It is my sincere wish that such negotiations will succeed, and that 
+the Israeli people and all peoples of that troubled region will be able 
+to live in a lasting peace.
+  Mr. Speaker, I hope that all Americans will join me in congratulating 
+the citizens of Israel and the entire Jewish community on the 60th 
+anniversary of the establishment of the State of Israel.
+  Ms. ROS-LEHTINEN. Mr. Speaker, I reserve the balance of my time.
+  Mr. BERMAN. Mr. Speaker, I am pleased to yield 2 minutes to the 
+gentleman from New Jersey, a member of the Committee on Foreign 
+Affairs, Mr. Sires.
+  Mr. SIRES. Mr. Speaker, today I rise in support of H. Con. Res. 322, 
+to recognize the 60th anniversary of the founding of the State of 
+Israel and the bond of friendship between the United States and Israel. 
+Like the United States, the State of Israel has stood as a beacon of 
+democracy and hope for Jewish immigrants all over the world. As an 
+immigrant myself, I understand the importance of the democratic 
+freedoms and values that our Nation holds dear. The United States and 
+Israel share and embrace those values as the cornerstones of a vibrant, 
+democratic society.
+  Last August, I was fortunate enough to visit Israel for the first 
+time, and I witnessed the importance of friendship that the United 
+States and Israel share. We share the common goals of peace, freedom, 
+security, and prosperity for our citizens and for the region.
+  I am pleased to help honor the State of Israel on its 60th birthday, 
+and I would urge all of my colleagues to vote in favor of this 
+resolution.
+  Ms. ROS-LEHTINEN. Mr. Speaker, I continue to reserve my time.
+  Mr. BERMAN. Mr. Speaker, I am now pleased to yield 2 minutes to the 
+vice chairman of the Foreign Affairs Subcommittee on the Middle East 
+and South Asia, the gentleman from Florida (Mr. Klein).
+  Mr. KLEIN of Florida. Mr. Speaker, I rise today to honor the State of 
+Israel
+
+[[Page 6545]]
+
+on its 60th birthday. Since its inception in 1948, Israel has shared 
+with the United States and the people of the United States an 
+unbreakable bond of democratic freedom and a hope for security and 
+stability in the Middle East. Sixty years later, in a region where 
+fostering democracy and human rights is a top priority, Israel has 
+continued to be a strategic partner to the United States and a beacon 
+of light throughout the world.
+  The United States and Israel are natural allies who share democratic 
+governments' belief in the rule of law and a commitment to protect the 
+human rights of all people. My home State of Florida has a particular 
+special relationship with Israel, and I have made bolstering Florida's 
+economic ties with Israel one of my top priorities when I was in the 
+Florida legislature. I worked with others on legislation that opened 
+the State of Florida's Trade Office in Israel, and in my last visit to 
+Israel, I visited our sister city in Israel, Kiryat Bialik, in order to 
+reinforce that bond.
+  It is with great pleasure that we celebrate today, and coming up, 
+Israel's 60th anniversary, and I join the American people in 
+congratulating Israel on its myriad of accomplishments and 
+achievements. I hope that the next 60 years will bring peace, 
+prosperity, and security to the State of Israel.
+  Mr. BERMAN. Mr. Speaker, I am pleased to yield 2 minutes to the 
+chairwoman of the Homeland Security Subcommittee on Intelligence 
+Information Sharing and Terrorism Risk Assessment, the gentlelady from 
+California (Ms. Harman).
+  Ms. HARMAN. Thank you Mr. Chairman for yielding.
+  The State of Israel and I are about the same age. And the connection 
+has been deep and constant throughout my life. My late father, a 
+refugee from Nazi Germany, spoke fluent Hebrew and fondly remembered 
+his early visit to Israel, then under British mandate. He returned to 
+Israel many times, though never to his childhood home in Germany.
+  I, too, make frequent visits to Israel, two in the past year, and am 
+proud of many friendships and recognition as a passionate advocate for 
+the U.S.-Israel security relationship. Many of our joint security 
+programs with Israel, like the Arrow Missile Defense System, continue 
+to be among my highest priorities in Congress. Just a week ago, Mr. 
+Speaker, Congressman Mark Kirk and I urged full sharing of the U.S.-
+Israel early warning system to protect Israel from the possibility of 
+incoming Iranian missiles.
+  Sixty years ago, as has been said, President Harry Truman was first 
+to recognize the State of Israel. The United States and Israel have 
+been democratic allies ever since in times of war and fragile peace.
+  Israel has become a technology and economic powerhouse, a beacon for 
+the Jewish diaspora, a protector of the rights of women and its 
+minority Arab population. And yet, according to an excellent State 
+Department report, anti-Semitism and anti-Israel sentiment are growing. 
+Most of Israel's neighbors do not recognize her right to exist, and 
+Iran's leader actively threatens to destroy her.
+  Some of Israel's actions are provocative, to be sure. Halting new 
+settlement construction and easing checkpoints could go a long way to 
+ease tensions. Yet as a recent MiamiHerald.com article points out, a 
+key piece of the Israeli dream remains a mirage. For all their 
+successes, Israelis remain unsure that their country's presence is 
+truly permanent. No other nation on earth faces that fear, and the fear 
+is not unfounded. Israel distributes gas masks and practices bomb 
+shelters drills. This is hardly birthday fare. But 60 years is a 
+milestone and perhaps a miracle.
+  During Passover week, we retell and celebrate the story of the Jews' 
+exile from Egypt and quest to return to Israel.
+  The SPEAKER pro tempore (Mr. Carnahan). The gentlewoman's time has 
+expired.
+  Mr. BERMAN. I yield the gentlelady 2 additional minutes.
+  Ms. HARMAN. That quest continues. Dayenu. Peace remains illusive, but 
+that for sure is what my father would wish and so do I.
+  Ms. ROS-LEHTINEN. Mr. Speaker, at this time I am proud to yield 1 
+minute to the leader on our side of the aisle, Mr. Boehner of Ohio.
+  Mr. BOEHNER. Let me thank my colleague from Florida for yielding.
+  Mr. Speaker, it's my honor to join Speaker Pelosi in celebrating the 
+60th anniversary of the State of Israel. This is just the first 
+opportunity for us to honor the foundation of the Jewish State leading 
+up to its anniversary on May 14.
+  After 60 years, Israel may not be our oldest ally, but there is no 
+doubt that it's among our most treasured. Since its establishment 6 
+decades ago, Israel has been a pillar of strength, integrity, freedom 
+and, above all else, friendship.
+
+                              {time}  1645
+
+  They're not simply allies by chance. Our friendship has flourished 
+over the last 60 years because we share the same values. First and 
+foremost, we recognize that we would not exist if not for the grace and 
+power of God.
+  Faith forms our Nation's very foundation and is reflected in 
+everything we do. We value liberty, and recognize how precious it is in 
+a world where it's not only rare, but often under attack. And we 
+recognize the responsibility we have to defend our freedom. That's why 
+we have stood beside our Israeli allies for the past six decades and 
+why we are taking the fight to those committed to destroying the Jewish 
+state and, for that matter, destroying us.
+  Mr. Speaker, the bonds of trust between Israel and America have never 
+been stronger or more important than they are right now. Our Nation 
+will stand firmly beside our Israeli friends over the next 60 years 
+just as we've done over the last 60. And with a shared faith in God, a 
+respect for liberty, and a commitment to its defense, our friendship 
+will only grow deeper.
+  May God bless the Jewish State of Israel on this anniversary and all 
+of those that will follow.
+  Ms. ROS-LEHTINEN. Mr. Speaker, I have no further requests for time 
+and yield back the balance of my time.
+  Mr. BERMAN. Mr. Speaker, I am pleased to yield 2 minutes to the 
+gentlelady from New York, the chairman of the Foreign Operations 
+Subcommittee and a very knowledgeable and supportive advocate for the 
+U.S.-Israel relationship, Mrs. Lowey.
+  Mrs. LOWEY. I thank the gentleman, the very distinguished, 
+extraordinary Chair of the Foreign Affairs Committee.
+  Mr. Speaker, I rise today in strong support of H. Con. Res 322, which 
+recognizes the 60th anniversary of the founding of the modern State of 
+Israel.
+  For all of us who gathered around the Passover table this weekend to 
+pledge ourselves, ``next year in Jerusalem,'' the Jewish State of 
+Israel is a commitment of both mind and heart. It is a homeland for the 
+Jewish people persecuted, slaughtered and driven from their land for 
+centuries, and it continues to be a safe haven for refugees from around 
+the world.
+  One of the most compelling experiences of my life was greeting the 
+Ethiopian Jews as they arrived in Ben Gurion Airport after their 
+dramatic rescue as a part of Operation Solomon in the 1980s. I also 
+will never forget visiting with the children of Yemin Orde in northern 
+Israel. This youth village is home to orphaned, disadvantaged and at-
+risk children from over 20 countries, and it exemplifies Israel's 
+humanitarian commitment. Israel has offered its technical expertise in 
+search and rescue, medicine, and humanitarian aid in the aftermath of 
+nearly every modern disaster, from Katrina to the tsunami.
+  Israel is also an intellectual and cultural hub: Eight Israeli 
+citizens have received the Nobel Prize, and Israeli technology has 
+helped countless farmers in dry-weather areas and provided low-cost, 
+life-saving drugs to millions.
+  Moreover, Israel is a source of stability and a voice of reason in a 
+neighborhood plagued by extremism and violent uprising. Its commitment 
+to democracy and freedom of expression is unshakeable, and it is our 
+most reliable partner in our efforts to combat terrorism, enhance human 
+rights and basic freedoms, and encourage free institutions.
+
+[[Page 6546]]
+
+  It is simply incredible that all of this has occurred while Israel is 
+under constant threat. That is why I rise today to commend the State of 
+Israel and the Israeli people on their commitment to democracy, peace 
+and advancement. May the next 60 years bring continued prosperity and 
+the realization of permanent peace for this great nation.
+  I urge my colleagues to support this resolution.
+  Mr. BERMAN. I yield myself the balance of my time.
+  As Speaker Pelosi indicated in her own comments, the person that I 
+think all of us in this Chamber miss very much in not being able to 
+manage this resolution because of his own background and his own deep 
+love and commitment for the State of Israel was our late chairman, Tom 
+Lantos. This would have been something that he would have been 
+personally very gratified with, and certainly wanted to join in the 
+trip that the Speaker will be leading to the State of Israel in the 
+next couple of weeks to help celebrate this anniversary. And so I think 
+it's fair to say that everyone in the Chamber wishes that things might 
+have been different, that he might have been here himself to manage 
+this resolution. And we are looking forward to a group that the Speaker 
+will be taking to Israel to actually personally participate in that 
+celebration.
+  Mr. ROTHMAN. Mr. Speaker, I rise in strong support of H. Con. Res. 
+322, which celebrates the 60th anniversary of the Jewish State of 
+Israel's independence and reaffirms the friendship between the U.S. and 
+Israel. I want to thank the Speaker and the Minority Leader for 
+sponsoring this legislation, as well as the Chairman and Ranking Member 
+of the Foreign Affairs Committee for bringing it to the Floor so 
+quickly.
+  On May 14, 2008, Israel will celebrate the 60th anniversary of Yom 
+Ha'atzmaut, or the declaration of the State of Israel by David Ben-
+Gurion in Tel Aviv on May 14, 1948. While this date traditionally 
+celebrates Israel's birth as a pluralistic democracy--the only one in 
+the Middle East--this date also marks 60 years of strong and vibrant 
+U.S.-Israel relations, 60 years of Israel's success as one of the most 
+technologically advanced countries in the world, and 60 years of Israel 
+struggling to find a peaceful solution to the ongoing Palestinian-
+Israeli conflict.
+  The U.S.-Israel relationship that we celebrate today is grounded in 
+centuries-old American regard for Israel as the homeland of the Jewish 
+people. This was so brilliantly discussed in Michael Oren's latest book 
+``Power, Faith, and Fantasy,'' which describes American support for 
+Israel as the homeland for the Jewish people starting before the 
+American Revolution and being a strong element in U.S. foreign policy 
+ever since.
+  But while this historic connection is true, Israel's value to the 
+U.S. as a military and economic partner is also incredibly important. 
+For the last 60 years, Israel has been America's number one ally in an 
+extraordinarily strategic region for the United States--she is, in many 
+ways, our ``forward battleship of democracy'' in a sea of 
+totalitarians, terrorists, and murderous thugs. Just appreciate the 
+fact that the United States spends $150 billion a year in Iraq in order 
+to have 165,000 U.S. combat troops stationed there. Without Israel--God 
+forbid--the United States might well need to have 100,000 or more 
+troops stationed permanently in that part of the world to protect U.S. 
+strategic interests.
+  There are literally hundreds more examples of how Israel has helped 
+the United States since its founding in 1948 in matters of 
+intelligence, improving American military equipment, capturing Soviet 
+and Russian equipment, destroying the Iraqi nuclear reactor, 
+obliterating the Syrian nuclear facility, and a thousand more 
+classified instances where Israel provided literally invaluable 
+assistance to the United States in ways that no other country on the 
+planet could do or has done.
+  For myriad reasons, the United States could not ask for a better 
+friend and ally in the region than the State of Israel. The Israeli 
+people know they will always be able to count on the U.S. and the 
+American people. Whether or not the Palestinians ever become a true 
+partner for peace to the Israelis--and I certainly hope that they do--
+the United States will continue to stand by the Jewish State of Israel 
+and make sure it has the qualitative military edge and superior force 
+to defend itself against all enemies.
+  Once again, I extend my best wishes and congratulations to the people 
+of the State of Israel on their 60th Independence Day and urge my 
+colleagues to join with me in strong support of H. Con. Res. 322.
+  Mr. FARR. Mr. Speaker, I am proud to be able to speak in support of 
+House Concurrent Resolution 322, to commemorate the 60th anniversary of 
+the founding of the state of Israel.
+  For the past six decades, Israel has persevered in its quest to 
+establish a free, open and democratic society--a society that reveres 
+the same values that we do here in the United States. It is for that 
+reason that we have been a stalwart ally of Israel. And it also for 
+that reason that we will be allies for the next 60 years to come.
+  For as long as it has existed, Israel has been a beacon for the 
+Jewish Diaspora and a lone democracy in the Middle East. It has given 
+refuge to those in search of a homeland and provided a safe haven for 
+people around the world who have fled from persecution.
+  While it has struggled with its neighbors to find a workable peace, 
+Israel and its people have never ended its pursuit for a permanent 
+solution. Over the years we have witnessed too much bloodshed and 
+considerable sorrow, but we have also seen the enduring faith that 
+peace will reign.
+  Israel has proven itself capable of monumental achievement and I see 
+no reason to despair that peace with its neighbors will not be yet 
+another of Israel's achievement.
+  I commend Israel on its 60th anniversary and believe its future is 
+bright. And I continue to hope that its future will be free of the 
+violence of much of its past.
+  Mr. DINGELL. Mr. Speaker, I rise today as a proud cosponsor of H. 
+Con. Res. 322, recognizing the 60th anniversary of the State of Israel. 
+Israel established itself as a sovereign nation on May 14, 1948. Since 
+that time, it has been a close friend and ally to the United States.
+  Throughout the beginning of the 20th Century and in the aftermath of 
+the Nazi Holocaust, millions of Jews from around the world found a home 
+in Israel. Serving as the representative for Michigan's 15th 
+Congressional District, my father, John D. Dingell, Sr., was an 
+outspoken proponent for the establishment of a Jewish homeland and 
+subsequent U.S. recognition of Israel's sovereignty. In my tenure in 
+the House. I proudly followed his lead, encouraging close diplomatic, 
+economic, and strategic ties with our fellow democratic nation.
+  Since its independence, Israel, the ``keystone in the arch of peace'' 
+in the Middle East, as my father put it, has dealt with its share of 
+crisis and wars. The United States stood by as its partner and friend 
+and has served over the years as the chief broker in negotiations 
+between Israel and its neighbors. It is imperative the United States 
+continue in these efforts and continue to foster a close friendship 
+with Israel, as a nation that shares our ideals and values. I urge my 
+colleagues to support this resolution today, and honor the 60th 
+anniversary of Israel's independence.
+  Mr. BACA. Mr. Speaker, I rise today in support of H. Con. Res. 322, 
+honoring the 60th anniversary of the establishment of the modern State 
+of Israel's independence.
+  After the horrible actions of the Holocaust, Israel was established 
+as an independent nation. She has since blossomed into a successful, 
+democratic, and booming nation.
+  In times of uncertainty over the last 60 years, Israel has been a 
+friend and a strong ally to the United States. I stand here with my 
+colleagues and reaffirm this bond of friendship and cooperation between 
+the United States and Israel.
+  We support Israel and commend the progress made as she continues to 
+work towards peace with her Arab neighbors.
+  I also commend all our Jewish friends in the United States whose 
+tireless efforts contribute to Israel's success.
+  I urge my colleagues to support H. Con. Res. 322, reaffirm our 
+friendship, and congratulate Israel on this memorable occasion.
+  Mr. REYES. Mr. Speaker, I rise today in support of House Concurrent 
+Resolution 322, recognizing the 60th anniversary of the founding of the 
+modern State of Israel and reaffirming the bonds of close friendship 
+and cooperation between the United States and Israel.
+  Israel sets the example for the nations of the Middle East, as the 
+only true democracy in that region. For the past 60 years, Israel has 
+been a sanctuary of democracy and pluralism in a region dominated by 
+authoritarian regimes. Israel is the only country in the Middle East 
+with free elections, a free press, freedom of religion, protection for 
+minority rights and other safeguards typical of a free society.
+  Like the United States, Israel is a country founded by immigrants. 
+Since its founding, the tiny state has absorbed more than three million 
+immigrants from more than 100 countries, including Jews from the former 
+Soviet Union and those forced to flee from Arab countries. A haven for 
+Jewish refugees from around the world, Israel has also reached out to 
+assist Jews wherever they suffer from persecution
+
+[[Page 6547]]
+
+and has made the successful absorption of new immigrants in society a 
+top priority.
+  The United States and Israel have formed a unique strategic 
+partnership to meet the growing dangers in one of the world's most 
+volatile regions. To support the U.S. war on terror since September 11, 
+2001, the U.S. and Israel share vital intelligence on terrorism, 
+weapons proliferation and other threats, at a level of sensitivity 
+almost unparalleled among American allies. Thousands of U.S. armed 
+forces personnel have utilized Israeli training facilities, and Israeli 
+officials have shared ``lessons learned'' from their extensive combat 
+experience with their counter-parts at the Department of Defense.
+  With U.S. help, Israel is able to maintain its qualitative military 
+edge for deterring aggression by its potential enemies. By 
+collaborating with Israel, the U.S. has a reliable, democratic and 
+technologically advanced partner in securing American strategic 
+interests. This partnership includes: bilateral strategic agreements on 
+military planning; ballistic missile defense and counter-terrorism; 
+joint development of weapons and technologies; intelligence sharing; 
+and combined military exercises. The U.S. and Israel have established a 
+cost-effective partnership in the research and development of military 
+technologies and know-how, and in identifying solutions to some of the 
+most challenging technical problems facing both countries' military 
+planners.
+  Despite its small size, Israel is recognized as a world leader in the 
+quality of its indigenously developed military technology. As such, the 
+U.S. has incorporated Israeli equipment and technology into its armed 
+forces.
+  It is also important to note that the ties between Israel and the 
+Jewish Community in the Sixteenth Congressional District of Texas 
+remain strong. Through many community based programs, the Jewish 
+Federation of El Paso strives to strengthen this connection through 
+education, through scholarships for trips to Israel, and through 
+financial and spiritual support for their Israeli family. The 
+Federation's upcoming celebration of Israel's independence (Yom 
+Ha'atzmaut) will be a unifying experience that will also help teach our 
+younger generation about the incredible story of Israel.
+  With my support of House Concurrent Resolution 322, I recognize the 
+historic significance of the 60th anniversary of the reestablishment of 
+the sovereign and independent State of Israel as a homeland for the 
+Jewish people, and I extend my warmest congratulations and best wishes 
+to the State of Israel and the Israeli people for a peaceful, 
+prosperous, and successful future.
+  Mr. RAHALL. Mr. Speaker, I rise today to recognize the 60th 
+anniversary of the founding of the State of Israel. On May 14th, 1948, 
+the people of Israel proclaimed the establishment of the sovereign and 
+independent State of Israel.
+  Over the last 60 years, Israel has built a nation, forged a new and 
+democratic society, and created thriving economic, political, cultural 
+and intellectual life. For six decades now, the United States and 
+Israel have maintained a special relationship and the U.S. continues to 
+regard Israel as a strong and trusted ally and an important strategic 
+partner.
+  On the House floor today, H. Res. 322, reaffirms Congress's support 
+for Israel and reaffirms the bonds of friendship and cooperation which 
+have existed between the United States and Israel and commits to 
+strengthening those bonds. I too support Israel, its continued 
+stability, democratic principles and its important role in the Middle 
+East by extending the warmest congratulations and best wishes to the 
+State of Israel and the Israeli people for a peaceful, prosperous, and 
+successful future.
+  Mr. McGOVERN. Mr. Speaker, I rise in strong support of this 
+resolution to celebrate the 60th anniversary of the founding of the 
+modern State of Israel.
+  Mr. Speaker, just 60 years after its establishment as a modem state, 
+Israel has flourished as a democracy and has proven to be a close and 
+trusted friend of the United States. I want to associate myself with 
+the remarks of many of my colleagues, especially those of the Honorable 
+Speaker of the House Nancy Pelosi and the Honorable Chairman of the 
+Committee on Foreign Affairs Howard Berman.
+  The founding of Israel is a very emotional issue, Mr. Speaker, not 
+just for those who are Jewish by religion and heritage, but for 
+everyone who loves democracy, and who can empathize with the pain of 
+exile, the horror of unfathomable hatred, repression and 
+discrimination, and the yearning for home.
+  In preparing for this anniversary, I came across a copy of the letter 
+signed by President Harry Truman on May 14, 1948 recognizing the new 
+state of Israel. Its simple words reverberate even today: ``This 
+Government has been informed that a Jewish state has been proclaimed in 
+Palestine, and recognition has been requested by the provisional 
+government thereof. The United States recognizes the provisional 
+government as the de facto authority of the new''--and here it 
+scratches out Jewish state and written in by hand are the words--
+``State of Israel.'' Signed Harry Truman, Approved, May 14, 1948.
+  For the past 60 years, Israel has represented democracy in a region 
+dominated by mainly authoritarian regimes. Despite a constant struggle 
+for survival, Israel has flourished as a center of innovation in the 
+fields of agriculture, medicine, technology and alternative energy.
+  Like the United States, Israel is a nation of immigrants. Since its 
+inception in 1948, Israel's population has grown five-fold. Despite its 
+small size, it has absorbed millions of immigrants from more than 100 
+countries. A haven for Jewish refugees from around the world, Israel 
+has helped Jews wherever they suffer from persecution and welcomed them 
+into Israeli society. In the 1990s, when the Soviet Union collapsed, 
+Israel absorbed a massive wave of new immigrants. More than one million 
+Jews from the former Soviet Union immigrated to Israel, changing the 
+face of Israeli society.
+  Currently, Israel's 7.1 million residents represent a mosaic of 
+people with varied ethnic backgrounds, lifestyles, religions, cultures 
+and traditions. As we celebrate Israel's 60th anniversary, Jews now 
+comprise 76 percent of the country's population, while the remainder, 
+mostly Arabs, number about 24 percent. Over 90 percent of the 
+population lives in the urban centers, many of which surround ancient 
+historical sites. Only about 5 percent are members of Israel's unique 
+rural cooperatives--the kibbutz and the moshav.
+  Mr. Speaker, in 2005, I had the privilege of traveling to Israel with 
+then Minority Leader Nancy Pelosi. It's a visit I will never forget. We 
+were there at Easter. We visited Bethlehem and the holy sites of Jews, 
+Christians, and Muslims. We touched the same stones that had once been 
+touched by David and Solomon. We walked on streets known to Joshua. We 
+were able to walk freely, to talk to people of all stations and 
+professions. We read a free press and heard a range of views, freely 
+spoken, without fear of reprisal.
+  Mr. Speaker, I have been and always will be a friend of Israel. I 
+celebrate this 60th anniversary of her founding. And I pledge to work 
+with my colleagues to bring peace and security to this very special and 
+unique nation.
+  Mr. CARSON of Indiana. Mr. Speaker, I rise in strong support of House 
+Concurrent Resolution 322, a resolution recognizing the 60th 
+anniversary of the founding of the State of Israel.
+  Mr. Speaker, beyond just being an influential world leader, the State 
+of Israel has been a staunch and ardently loyal ally of the United 
+States over the last several decades. This great nation's commitment to 
+protecting it citizens and securing its homeland are simply unmatched.
+  Since the founding of the modern State of Israel in 1948, the bond 
+between the United States and our Middle East partner has grown and 
+remained strong. It is incumbent that we as Members of Congress do all 
+we can to make sure that this relationship continue to flourish.
+  Mr. Speaker, the United States must make every effort possible to 
+safeguard our relationship with the Middle East's only democracy, 
+Israel. Now more than ever, we must diligently advance our shared 
+interests and goals as it pertains to promoting peace and combating 
+terrorism.
+  Mr. Speaker, in closing I would like to congratulate the State of 
+Israel, the Israeli citizens, and the Jewish community on reaching this 
+milestone. This great nation has much to celebrate and be proud of on 
+its 60th birthday.
+  Mr. KUCINICH. Mr. Speaker, today I join my colleagues in Congress in 
+celebrating Israel's accomplishments over the past 60 years. I am happy 
+to be co-sponsor of this congratulatory resolution. However, like many 
+Israelis and Palestinians, I have concerns about Israel's future, its 
+stability, its security and the prospect for peaceful coexistence for 
+both Palestinians and Israelis. One of those concerns relates to the 
+ongoing lack of resolution on the dispossession of Palestinian property 
+and the dislocation of Palestinians after Independence. It must be 
+remembered that about 700,000 Palestinians became exiled. Much Arab 
+property was appropriated. And about 500 Arab villages were destroyed. 
+On December 11, 1948, the United Nations passed Resolution 194, 
+affording Palestinian refugees the right to return to their homes in 
+Israel, or to compensation for their property should they choose not to 
+return. To this day, the mandate of U.N. Resolution 194 has not been 
+fulfilled. Unfortunately, this failure remains as one of the most 
+significant barriers to the realization of a two-state negotiated 
+solution.
+
+[[Page 6548]]
+
+  I am also concerned for those Palestinians who did not flee and who 
+became Israeli citizens after Independence. According to the Legal 
+Center for Arab Minority Rights in Israel, today there exist 20 Israeli 
+laws which explicitly discriminate against the Palestinian minority in 
+Israel, who constitute 20 percent of its population. In its 2005 Annual 
+Report, the U.S. State Department said that ``[There is] 
+institutionalized legal and societal discrimination against Israel's 
+[Arab] Christian, Muslim and Druze citizens. The government does not 
+provide Israeli Arabs with the same quality of education, housing, 
+employment and social services as Jews.''
+  Finally, Israel has a right to security and a right to defend itself. 
+Accordingly, I am concerned that the 40 year military occupation of the 
+West Bank, the Gaza Strip, and East Jerusalem has been and continues to 
+be brutal and unjust and undermines the security of Israel. It is a 
+fact that the government of Israel continues to support the 
+construction of settlements on Palestinian land, perpetuating the 
+consequences of dispossession and exile. Additionally, I am concerned 
+that the government of Israel has increased the number of checkpoints 
+which destroy a viable Palestinian economy and a vibrant civil society. 
+I am concerned that the Israeli government has erected a wall, often on 
+Palestinian land, that divides Palestinians from Palestinians, rather 
+than divide Israel from the West Bank. As stated by Judge Elaraby of 
+the International Court of Justice in his 2004 Advisory Opinion on the 
+legality of Israel's separation barrier, ``The fact that occupation is 
+met by armed resistance cannot be used as a pretext to disregard 
+fundamental human rights in the occupied territory.'' This conundrum of 
+a dialectic of conflict further separates Israelis and Palestinians 
+alike from hopes for peace.
+  H. Con. Res. 322 eloquently states the many reasons why I celebrate 
+Israel's accomplishments and I sincerely wish it a bright future. I 
+only wish to add that, in my opinion, and in the opinion of many 
+Israelis and Palestinians as well, Israel's future will be bright only 
+if it includes an open dialogue with Palestinians, a respect for human 
+rights and international law, and a society built on coexistence and 
+tolerance. Israelis and Palestinians deserve to live in peace with 
+justice and I encourage the United States government to help Israel 
+achieve that so the joy of future anniversaries will be unalloyed.
+  I support the resolution in the spirit of reconciliation to which we 
+must all inevitably turn, to achieve peace and justice with our 
+brothers and sisters from whom we may be estranged.
+  Ms. TSONGAS. Mr. Speaker, I rise today in support of the bipartisan 
+House Concurrent Resolution 322, celebrating Israel's 60th anniversary. 
+In the winter of 1982-83, I traveled to Israel with my husband Paul 
+when he served on the Senate Foreign Relations Committee. I had heard 
+the passionate concern about Israel's tenuous geographic position from 
+many in the Jewish community who were close to Paul and me--from my two 
+brothers-in-law as well as from Paul's closest confidantes in his 
+Senate office, his Chief of Staff and Legislative Director, among 
+others. But hearing and empathizing are very different from seeing and 
+experiencing. On the trip to Israel, I saw and experienced.
+  When one stands on the Golan Heights and looks out as I did at the 
+slender strip of land that Israel occupies between her adversaries and 
+the Mediterranean, the primacy of security as the overriding factor in 
+Israel's relations with its neighbors is brought vividly home. The 
+other impression I came away with from that trip was how diverse and 
+democratic Israel is and how important it is for the United States to 
+support this vital democracy, both for Israel's sake and our own. 
+Israel is a model of the values we seek to promote around the world, 
+including her recognition of her female citizens as full participants 
+in all aspects of society. Beyond that, she is a critical ally and 
+strategic partner. We must continue our commitment to the unique 
+relationship we have with Israel in the years ahead.
+  Mr. SKELTON. Mr. Speaker, let me take this opportunity to share my 
+strong support for Israel upon its 60th anniversary and to remind the 
+House of Missouri's unique connection to the creation of Israel--a 
+critical democratic ally of the United States.
+  President Harry S. Truman, Missouri's favorite son and the 33rd 
+President of the United States, was a long-time supporter of 
+establishing a Jewish homeland and worked as President to ensure 
+Israel's creation.
+  A supporter of the Balfour Declaration, a British statement issued in 
+1917 that endorsed the establishment of a Jewish national homeland in 
+Palestine, when Harry S. Truman became President of the United States 
+in 1945, he made clear his sympathy for the Jewish people and his 
+concern for the sufferings they had endured during the Nazi Holocaust.
+  In 1946, President Truman urged British Prime Minister Clement Attlee 
+to allow a reasonable number of European Jews to immigrate to British-
+controlled Palestine. The governments of the United States and Great 
+Britain created the Anglo-American Committee of Inquiry to study the 
+situation. The Committee recommended that the United Nations establish 
+a trusteeship over Palestine, with the goal of reconciling Jewish and 
+Arab interests in the region. The Committee also agreed that 100,000 
+Jewish displaced persons should be admitted to Palestine. On the eve of 
+Yom Kippur in 1946, President Truman issued a statement supporting 
+these recommendations.
+  In response to a British request, the United Nations Special 
+Committee on Palestine was created in May 1947. This Committee 
+recommended that the British mandate over Palestine be terminated and 
+that the area be partitioned into separate Jewish and Arab states. 
+President Truman forced a reluctant U.S. State Department to support 
+this plan. On November 29, 1947, the partition plan was approved by the 
+U.N. General Assembly, thanks in large measure to vigorous American 
+support. Palestinian Arabs and Arab governments remained strongly 
+opposed to partition, and efforts to find a peaceful settlement 
+disintegrated.
+  In February 1948, President Truman's close friend and former business 
+partner, Eddie Jacobson, himself a Jewish person, sent Truman a 
+telegram asking him to meet with Chaim Weizmann, the president of the 
+Jewish Agency for Palestine and the World Zionist Organization. Angered 
+by criticism from some American Jewish leaders, President Truman 
+refused to meet with Mr. Weizmann. In March 1948, Mr. Jacobson walked 
+into the White House without an appointment and pleaded with his old 
+friend to meet with Weizmann. The President relented, and when Weizmann 
+came to the White House a few days later, Truman assured him that the 
+United States would continue to support the partition of Palestine and 
+the creation of a Jewish state.
+  At midnight on May 14, 1948, the British mandate over Palestine 
+expired and the new State of Israel was proclaimed. Eleven minutes 
+later, by order of President Harry S. Truman, the United States granted 
+diplomatic recognition to the new Provisional Government of Israel. 
+Following Israel's declaration of independence, Arab armies invaded the 
+new nation, and a long and continuing struggle for security began for 
+Israel.
+  Mr Speaker, throughout the time I have been privileged to serve in 
+Congress, I have worked to foster a strong alliance between the United 
+States and Israel. I am proud that Missouri's favorite son, Harry S. 
+Truman, was first to recognize Israel and that our Nation has stood 
+shoulder-to-shoulder with that country for these 60 years.
+   Mr. LAMPSON. Mr. Speaker, I would like to extend my warmest 
+congratulations and best wishes to the State of Israel and to her 
+people on the occasion of the 60th anniversary of the founding of the 
+modern State of Israel.
+  Last August, I had the honor of going on an enlightening and humbling 
+visit to Israel.
+  As a child, I had heard the stories of Israel from my mother. I 
+pictured busy markets and crowded streets, and men with yarmulkes in 
+synagogues. Visiting the Holy Land was the experience of a lifetime, 
+and I was entranced by the sheer beauty of the living history that 
+surrounded me.
+  However, as I made my way through the striking juxtaposition of 
+modern and ancient architecture, I worried that I might find a grim 
+reminder of what this cherished place might become after years of 
+fighting.
+  One mother with whom I spoke told me a sobering story. While driving 
+in Israel with her family, as we do here everyday, a rocket exploded 
+next to her family's car. Without thinking, she jumped over the front 
+seat to cover her children from the shrapnel and smoke that filled the 
+air around them. Protecting her children was all she could think to 
+do--in Israel this is a conditioned response, a learned reflex.
+  Israelis want to live in peace. Foreign Minister Tzipi Livni told me 
+that Israel is willing to make changes in the West Bank, release 
+prisoners, or give up land if that means peace. Many Israeli leaders 
+share Livni's optimism, as do I, that peace will come to the region.
+  We must begin to find ways to look beyond comfort zones to stem the 
+tides that divide and find ties that bind. If we can take substantive 
+steps to stop the violence and move towards peace and justice we will 
+have moved mountains.
+  On May 14, 1948, Israel rose from the ashes of the Holocaust. Over 
+these last 60 years, the American people have formed a profound and 
+unshakable friendship with our democratic ally.
+  The United States must continue its commitment to Israeli 
+sovereignty, security, and democracy. We face common threats, share
+
+[[Page 6549]]
+
+common values and we must continue to work together to achieve our 
+common goals.
+  I praise the miracle of Israel. The history of Israel and of her 
+people is a story of freedom and rebirth that gives hope to oppressed 
+peoples across the world and that will for millennia to come.
+  Mr. WAXMAN. Mr. Speaker, next month the State of Israel will 
+celebrate its 60th anniversary. Indeed there are many reasons to be 
+proud.
+  Despite a backdrop of conflicts, boycotts, and constant regional 
+turmoil, Israel has managed to generate a vigorous economy, a vibrant 
+democracy, and a robust military. It has emerged as the closest and 
+strongest ally the United States has in the Middle East and perhaps in 
+the entire world.
+  Some say Israel's success is a miracle. Maybe that comes as an easy 
+explanation for a land steeped in Biblical history. The reality of 
+course is that the Israeli people don't sit around waiting for 
+miracles--they create them.
+  From the battlefield of hard-fought wars to the produce fields of 
+flowering kibbutzim, Israelis have accomplished feats many deemed 
+impossible. They built up strong democratic institutions in a region 
+hostile to their values. They turned a chaotic influx of Jews from 
+Europe, Africa, the Americas and the Middle East into a prospering 
+Jewish homeland that reflects the most varied traditions and 
+trajectories of Jewish history. Time and time again, with the support 
+of the United States, Israelis have taken great risks to seek peaceful 
+coexistence with their Arab neighbors.
+  One of the issues closest to my heart is Israeli ingenuity in 
+environmental conservation. While Israel's commitment to the 
+environment has moral and economic dimensions, it has also been a 
+security imperative.
+  For much of its existence, Israel has been subjected to Arab oil 
+embargoes. Today, soaring oil prices are enriching adversaries like 
+Iran that are bent on its destruction. With the price of oil now 
+reaching $100 a barrel, Iran is reaping more than $90 billion in 
+revenue a year. Those profits are being passed on to a dangerous 
+nuclear program and terrorist cells in Lebanon, Syria, Gaza and beyond.
+  The United States and Israel have built strong security ties to 
+address these threats. But we need to explore energy-oriented solutions 
+to help us overcome an addiction to oil that is driving prices even 
+higher. I think Americans can learn a lot from Israel about water and 
+energy conservation, and the use of solar power and other energy 
+alternatives. Working together we can do even more to reduce carbon 
+emissions and reverse climate changes that threaten our national 
+interests.
+  For many, including my own parents and relatives, the idea of a 
+Jewish state was a dream. Its creation was indeed a miracle. Since 
+then, the U.S.-Israel alliance has only grown stronger. Today, we can 
+look forward to many more decades of peaceful and prosperous 
+partnership.
+  Congratulations to the Israeli government and the Israeli people on 
+the 60th anniversary.
+  Mr. CROWLEY. Mr. Speaker, I rise today to congratulate the people of 
+the State of Israel and the greater Jewish community on the 60th 
+anniversary of their independence.
+  The United States supported the establishment of the Jewish State in 
+1948, and our two countries have been the closest of friends and strong 
+allies ever since.
+  Our friendship is rooted in some deeply shared beliefs. We believe in 
+freedom of religion, in freedom of the press, and in freedom of speech. 
+We believe in free and fair elections. And we believe that extremism 
+and terrorism have no place in the global community.
+  Since its Independence, Israel has endured unstable and troubling 
+conditions in the Middle East. They have been subject to violence and 
+unwarranted attacks. They have been asked to compromise their borders. 
+They have had missile strikes threatening the lives of innocent 
+citizens on an almost daily basis. Yet, the Israeli people remain 
+united and strong--continuing to stand up for their beliefs and for 
+their country.
+  Israel is a modern success story. It is the only Democracy in the 
+Middle East. It is the only Middle Eastern country where Arabs have the 
+right to vote for their elected officials and their political leaders. 
+And, it is one of the only Middle Eastern nations without oil wealth 
+that has transformed itself from an agrarian based economy to a high 
+tech economic powerhouse.
+  Israel's detractors, and those who hide their anti-Semitism behind 
+anti-Zionism, must not and will not denigrate the success of Israel. 
+That is why I stand here today.
+  I believe the survival of the Jewish state is paramount. I believe 
+her existence, while small in geographic size, is the one of largest 
+symbols of humankind's continued faith in God, enduring spirit to 
+survive, and belief in freedom and democracy.
+  And, I believe the United States must continue to stand with Israel 
+and support her efforts to defend her citizens. I am proud to be one of 
+Israel's strongest friends in Congress. And today, I want to join my 
+colleagues in Congress in wishing Israel a hearty Mazel Tov on 60 years 
+of Independence.
+  Ms. MATSUI. Mr. Speaker, I rise in strong support of H. Con. Res. 
+322, a resolution to recognize the 60th anniversary of one of our most 
+steadfast and vital allies: Israel.
+  Although it was created at a time of great international uncertainty, 
+from its inception Israel has been a determined ally of the United 
+States. Its history is a prime example of the strength that a 
+commitment to political liberalism and equality of opportunity can 
+afford even the smallest and most vulnerable state.
+  Israel is a nation that has weathered constant threats from outside 
+its borders, indeed, that was born out of war and conflict. But despite 
+its harsh beginnings, this inspirational country along the River Jordan 
+has, for over half a century, fended off threats to its sovereignty and 
+to its survival. And it has done so even as it has built a pluralistic 
+society grounded in the highest ideals of equality, representative 
+government, and democratic principles.
+  Mr. Speaker, a nation as threatened as Israel could certainly be 
+excused for turning inward on itself, focusing on defending its 
+territory and citizens against terrorism, and withdrawing from an 
+international community that has increasingly targeted it with unfair 
+sanctions and biased political statements. It is a testament to the 
+character and inner strength of the Israeli people that they have not 
+allowed their country to do so.
+  Instead, Israel has repeatedly volunteered its resources, manpower, 
+and experience to help victims of disasters around the world. It has 
+sent humanitarian aid and emergency medical supplies to war zones in 
+Rwanda; disaster areas in Turkey, the Indian Ocean, and along the Gulf 
+Coast; and, to fire-scorched areas in Greece. Israel's national mission 
+is a higher calling than mere survival or self-perpetuation. It is an 
+example to the world of the power of a determined national spirit, a 
+citizenry dedicated to justice, and a set of founding principles that 
+cannot be corrupted even by the constant threat of terrorism.
+  Unfortunately, Mr. Speaker, terrorism is a serious and ever-present 
+threat to Israel's sovereignty and menaces innocent Israeli citizens on 
+a daily basis. As the number of rockets aimed at Israel by Hamas and 
+other terrorist organizations has increased in recent days, the world 
+has been reminded of the ugly intentions of those who refuse to discuss 
+peace with the only democracy in the Middle East.
+  By contrast, Israel has demonstrated time and again that it is 
+willing to make concessions to other countries in the name of peace. As 
+a result, it now lives beside its Jordanian and Egyptian neighbors in 
+relative calm.
+  However, organizations like Hamas and Hezbollah, along with countries 
+like Syria and Iran, have refused to take meaningful steps to forge 
+similar agreements that could begin to heal the regional divisions that 
+restrict the Middle East from reaching its full potential. For the past 
+six decades, Israel has been strengthening its ties to the land upon 
+which the Jewish people have lived for over 2,000 years. It is the 
+security and identity of this land which Israel has the inalienable 
+right to defend against existential and tactical threats.
+  Mr. Speaker, I am pleased that H. Con. Res. 322 recognizes the many 
+similarities between Israeli and American values, ideals, and 
+interests. Our two peoples maintain an equal respect for the rule of 
+law, democratic principles, and progressive ideals that have provided 
+the foundations of our two societies for decades.
+  I join with many of my colleagues in the U.S. House of 
+Representatives in highlighting my admiration for all that the nation 
+of Israel has accomplished in the last 60 years. May this resolution 
+before us today serve as the impetus for many more years of Israeli and 
+American friendship, cooperation, and prosperity.
+  Mr. WEXLER. Mr. Speaker, it is an honor to join my colleagues in 
+marking Israel's 60th anniversary. I want to express my strong support 
+for House Concurrent Resolution 322, which recognizes the 60th 
+anniversary of the founding of the modern State of Israel, and 
+reaffirms the bonds of close friendship and cooperation between the 
+United States and Israel.
+  On this historic day for Israelis and Jewish communities around the 
+globe, it is imperative that Congress recognizes this important event 
+and once again reaffirms America's ironclad commitment to and 
+friendship with the State of Israel. Given the difficulties facing 
+Israelis in
+
+[[Page 6550]]
+
+their efforts to secure lasting peace and security, it is essential 
+that the United States and the American people stand shoulder to 
+shoulder with Israel.
+  Since 1948, Israelis have created a thriving Jewish homeland, 
+overcoming numerous obstacles and challenges. They have also displayed 
+enormous courage and fortitude in the face of unconscionable terrorism, 
+violence and threats to their very existence. In six decades, a 
+democratic and free state, Israel, has risen from the ashes of the 
+Holocaust and developed into one of the most technologically advanced 
+and innovative nations on Earth.
+  Through all of the hardships, Israel has persevered and joined the 
+United States and our democratic allies by creating a nation based on 
+freedom, justice and human rights. To that end, I join my colleagues in 
+praising the Israeli people, whose nation has become a shinning bastion 
+of democracy in a region rife with dictators, extremists and hate.
+  While Israelis celebrate 60 years of independence, their freedom and 
+security continues to be challenged by terrorist groups such as Hamas 
+and Hezbollah as well as by the leading state sponsors of terrorism 
+Syria and Iran. Unfortunately, Israelis know intimately the challenges 
+that come with protecting their people, understanding that terrorism 
+knows no borders and cannot be justified, qualified or ignored.
+  As a Member of Congress deeply concerned about the threats posed to 
+Israelis by terrorist attacks, I believe it is critical that the United 
+States support Israel's right to self defense. In that vein, I 
+cosponsored House Resolution 951, declaring America's solidarity with 
+Israelis as they face continuous rocket attacks from Hamas in Gaza. 
+These rocket attacks are a daily reminder to Israelis and their friends 
+in America of the struggles Israel continues to face.
+  Mr. Speaker, there is no greater threat to the well-being of Israel 
+and the United States than a nuclear Iran, and America must use every 
+tool at its disposal to prevent Tehran from developing and acquiring 
+these weapons. To that end, I will continue to be a staunch advocate 
+for Congressional initiatives that enhance American-Israeli cooperation 
+and strengthen Israel's defensive capabilities.
+  In the post-9/11 world, Americans and Israelis are forever linked by 
+the common threats we face from terrorism and in our effort to confront 
+extremists. More importantly, our two nations share a deep commitment 
+to human rights, civil society, freedom and democracy.
+  These shared values have created an unbreakable bond of friendship, 
+and I urge my colleagues to join me in pledging their commitment to 
+further enhance American-Israeli relations for generations to come.
+  It is my most sincere wish that the vision of hope embodied in 
+Israel's national anthem, Hatikva, may come to fruition and that Israel 
+may soon find a genuine peace that will last I'dor v'dor, from one 
+generation to the next. To that end, I urge my colleagues to join me in 
+recognizing the 60th anniversary of Israel.
+  Mr. NADLER. Mr. Speaker, I rise today in support of the bipartisan 
+House Leadership Resolution, H. Con. Res. 322, of which I am a 
+cosponsor, to celebrate the 60th anniversary of the State of Israel.
+  In 1947, the year I was born, the area now known as Israel was about 
+to go through a birth of its own. In 1948, with the founding of the 
+only modern Jewish state to ever exist in history, Jews found that 
+their new homeland was filled with sand and little water, but it was 
+also filled with great hope and resolve. Following the murder of 6 
+million Jews in the Holocaust, this small country would soon become a 
+homeland for another 6 million Jews, free to practice Judaism, but 
+still targeted for their faith.
+  While Israel was formed, Jews all over the Middle East were facing a 
+crisis of their own; Jewish refugees in Arab lands were expelled 
+systematically, under an official regime policy which included anti-
+Jewish decrees, pogroms, murders and hangings, anti-Semitic incitement 
+and ethnic cleansing. The Arab League's 1947 decree provided a formula 
+for state-sanctioned discriminatory measures, replicated in many Arab 
+countries, in a deliberate campaign to expel the Jewish refugees from 
+their home countries. Unlike the Palestinians, the Jewish refugees were 
+absorbed into their new host countries, mostly by Israel. About 600,000 
+stayed in Israel and the remaining 300,000 fled to other countries, 
+such as France, Canada, Italy, and the United States. In Israel today, 
+the Jewish refugees from Arab countries and their children comprise the 
+majority of the Jewish population.
+  This House recently adopted my resolution, H. Res. 185, urging that 
+the rights of Jewish refugees be recognized in any future comprehensive 
+Middle East settlement. We are continually working to ensure that any 
+Middle East peace agreement is just, fully just to all parties.
+  This is a continual process. From its first day, Israel has fought 
+for its right to exist when it was attacked by its Arab neighbors. 
+Since then, continuous wars have been waged, all aiming to destroy the 
+Jewish state and its people. At times, mothers and fathers have had to 
+buy gas masks for their children; young children have had to celebrate 
+their birthdays in bomb shelters. Despite this, families have shared 
+laughter on the beaches of the Mediterranean; young couples have danced 
+on the rooftops of Jerusalem. That all of these times have been 
+simultaneous is a testament to the strength and determination for not 
+only the State of Israel, but for humanity.
+  Following their independence, Israel's people, driven to immigrate 
+for fear of persecution and for their ideological dreams, struggled 
+with basic life, rationing food and living in makeshift shelters. The 
+early immigrants began building the land, irrigating, planting, and 
+educating their children. Working in the sun, Israel's wrinkles began 
+to show the stress, but the outcome can be seen today; flowers and 
+olive trees on the hillsides and universities at full capacity. In 
+cooperation with the United States and other countries, innovations by 
+Israelis in science, energy, agriculture, technology, and medicine have 
+been felt around the world.
+  Today, the country is flowing with milk and honey, as a nation of 
+immigrants and a home for the persecuted. But it is also facing much 
+hardship. Like the United States, Israel was founded by immigrants 
+escaping persecution and wanting to live in peace. But while Israel 
+remains a sanctuary for Judaism, it remains a dangerous place to be a 
+Jew.
+  In its 60th year, Israel faces some of its greatest challenges and 
+needs its allies and friends more than ever. The Middle East is still a 
+very dangerous place, and scapegoating Israel is still a very 
+convenient means of holding power for some very dangerous autocrats. 
+Such tactics are deplorable, and we must do everything we can to stop 
+them.
+  While some Arab states have been working with us to respond to Iran's 
+vicious lies and rhetoric, we must also continue to demand that Israel, 
+our democratic ally, be recognized by these very states. And we must 
+call for the immediate and unconditional release of Israeli soldiers 
+kidnapped and held captive by Hamas and Hezbollah, which is called for 
+by H. Res. 107, a bill I cosponsored.
+  Indeed, Israel is now at a critical crossroads. We hope for the best, 
+but we remain mindful that peace cannot be achieved unless sincere and 
+substantive acts are forthcoming from the Palestinians. Terror must 
+come to an end, as must incitement. At middle age, and I speak of 
+personal experience, as I am also marking my 60th year, one must take 
+stock of their past and look forward to the future. The Israeli State 
+and its people continue to work to preserve its foundation as a Jewish 
+state with Jewish values, while they live in a region where the very 
+idea of the existence of a Jewish state continues to be challenged. As 
+Israel looks toward the future, integrating its immigrants, expanding 
+its economy, preserving its heritage, and providing foreign assistance 
+and refuge to Jews throughout the world, the United States will stand 
+alongside her in her quest for peace and prosperity.
+  We hope to learn from each other; Israel continues to fight terror 
+alongside the United States and stands as an example of how to balance 
+civil liberties and security, religious freedom and the expression of 
+religious values in its economic and political structure. Like the 
+United States, the Jewish democratic State has a robust freedom of 
+press that serves to teach the public and government how to better 
+itself, and an independent judiciary which seeks to preserve the 
+liberties for which it has fought.
+  The relationship the United States has with Israel is special; we 
+have more in common than we do apart, and we continue to work in 
+cooperation to achieve the broader goals of a peaceful future for our 
+children and grandchildren. As we grow together as democratic nations 
+facing challenging times, I urge my colleagues to support this 
+resolution acknowledging the special bonds of friendship the United 
+States shares with our only democratic ally in the Middle East, Israel. 
+I thank our leadership for sponsoring this resolution and I strongly 
+urge its passage.
+  Mr. ENGEL. Mr. Speaker, I rise in very strong support of H. Con. Res. 
+322 and to offer my warmest congratulations on the 60th anniversary of 
+the founding of the State of Israel.
+  On May 14, 1948, the people of Israel proclaimed the establishment of 
+the sovereign and independent State of Israel. Since this proud and 
+historic day, Israel has proven itself to be a vibrant democracy and a 
+true friend of freedom. Throughout, the United States and
+
+[[Page 6551]]
+
+Israel have had a special friendship; an unbreakable bond between 
+nations whose relationship is much deeper than mere allies of 
+convenience.
+  During its six decades of existence, the Israeli people have faced 
+the most grave threats from hostile neighbors and have bravely defended 
+themselves against repeated terrorist and military attacks. Yet, 
+despite the years of war, terrorism, and diplomatic and economic 
+isolation by enemies far and near, the Israeli people have never turned 
+away from their vibrant, pluralistic democracy that guarantees freedom 
+of speech, association and religion.
+  Indeed, the modern State of Israel has built a new and dynamic 
+democratic society and created a thriving economic, political, cultural 
+and intellectual life. It is a nation of immigrants, as is the United 
+States, which has benefited from the diversity of its population.
+  Throughout my career in Congress, I have consistently made a strong 
+and close relationship between the United States and Israel among my 
+highest priorities. As the only true democracy in the Middle East and 
+our closest ally in the region, I firmly believe that we must support 
+Israel as it faces the many serious threats to its very existence. We 
+must stand shoulder-to-shoulder with Israel when it is under attack and 
+support its right of self-defense even when the rest of the world turns 
+away.
+  As we approach the 60th anniversary of Israel's founding, I am 
+reminded not only of the close strategic ties between our countries, 
+but of how much our two nations have in common. Through Democratic and 
+Republican Administrations, alike, the bonds between us have only grown 
+stronger. As Israel enters its seventh decade, let us resolve ourselves 
+to make security and prosperity of the State of Israel a key priority 
+here in the House of Representatives while we continue to promote a 
+warm and unshakable friendship between the U.S. and Israel.
+  Once again, I urge my colleagues to support H. Con. Res. 322 and 
+offer my warmest congratulations to the Israeli people on the 60th 
+anniversary of their independence.
+  Mr. BURTON of Indiana. Mr. Speaker, today the House of 
+Representatives voted on H. Con. Res. 322, recognizing the 60th 
+anniversary of the founding of the modem State of Israel and 
+reaffirming the bonds of close friendship and cooperation between the 
+people of the United States and the people of Israel. I am proud to be 
+a cosponsor and strong supporter of this legislation because it pays 
+appropriate honor and respect to our truest partner and defender of 
+freedom and democracy in the Middle East, Israel.
+  Since its establishment 60 years ago, the people of Israel have 
+turned a desert into a new nation, forged a new and dynamic society, 
+and created a unique and vital economic, political, cultural, and 
+intellectual life despite the heavy costs of seven wars, unrelenting 
+terrorism, frequent international ostracism, and economic boycotts. 
+Through it all, the people of Israel and the people of the United 
+States have shared a special bond. Forged originally in Israel's fight 
+for survival, for freedom and for democracy in a region dominated by 
+authoritarian and military regimes; today that relationship encompasses 
+broad, social, cultural and economic ties as well.
+  For 60 years, the United States and Israel have maintained a special 
+relationship based on mutually shared democratic values, common 
+strategic interests, and moral bonds of friendship and mutual respect; 
+most importantly, the people of the United States have a special 
+affinity for the people of Israel, and regard Israel as a strong and 
+trusted ally and an important strategic partner. To our ally, our 
+partner, and our friend, I offer my prayers for peace and my 
+congratulations on your 60th birthday.
+  Mr. WELDON of Florida. Mr. Speaker, I would like to congratulate the 
+Nation of Israel on its 60th anniversary and add my support for H. Con. 
+Res. 322.
+  The Nation of Israel holds a unique position in the history of 
+Western Civilization, and is supported the world over by millions of 
+Christians, Jews and people of other faiths.
+  I have had the pleasure to serve as the co-chair of the Israel Allies 
+Caucus in the House and it has been my pleasure to work with members of 
+the Knesset on important issues of concern to both United States and 
+Israel.
+  During my years in Congress I have come to know and befriend numerous 
+Israelis, and I am always moved by their sincere desire for peace. The 
+vast majority of people in Israel hope for a day when their hostile 
+neighbors recognize and embrace their presence in the Middle East. I am 
+proud that America was by Israel's side in 1948, and I am proud today 
+to highlight this relationship between our countries that is now 60 
+years strong.
+  Only two short years ago, the Jewish population in Israel surpassed 
+the Jewish population in the United States, and soon there will be more 
+Jewish people in Israel than perished in the Holocaust. While we will 
+always remember the atrocities of the 20th century against the Jewish 
+people, today we recognize and affirm this moment in history as a 
+triumphant realization of the dream for a Jewish homeland.
+  Mr. MARKEY. Mr. Speaker, I rise in strong support of H. Con. Res. 
+322, recognizing the 60th anniversary of the founding of the State of 
+Israel. And I would like to commend Speaker Pelosi for introducing this 
+resolution and for bringing it to the floor.
+  This is a truly bipartisan resolution, introduced with the support of 
+the leadership of both parties in the House. This bipartisanship is 
+entirely appropriate, because Americans agree that the State of Israel 
+is a great friend of the United States, and we all celebrate the 
+anniversary of its founding today.
+  A century ago, Theodore Herzl dreamed of a Jewish homeland, and 
+envisioned Israel as a ``light unto the nations.'' Since 1948, Israel 
+has been that light. I am pleased to join with my colleagues in 
+supporting Israel as it continues to shine brilliantly as a force for 
+progress and hope, not only in the Middle East, but throughout the 
+entire world.
+  Prime Minister Golda Meir believed that one day there would be peace 
+in Israel, because there are mothers and grandmothers--and let me add 
+fathers and grandfathers--in Egypt, in Jordan, in Syria and the 
+Palestinian territories who also want their children and grandchildren 
+to live in peace. Today is an opportunity to be hopeful about the 
+future of Israel and the prospects for peace--hopeful that we will soon 
+reach the day when children will have to turn to the history books to 
+learn that there ever was conflict in the Middle East.
+  Today, as we celebrate the founding of the State of Israel, our great 
+ally and friend, we also know that independence is not enough without 
+security. The Jewish homeland must be secure and must be surrounded by 
+neighbors who respect its right to exist in peace and security. Through 
+struggle and sacrifice, ingenuity and innovation, Israel has managed 60 
+years in a dangerous and unstable region of the world. Let us hope that 
+the conflicts that have marked Israel's first 60 years will subside in 
+the years to come.
+  Sixty years ago, Israel's pioneers began to revitalize an ancient 
+land. Today, Israelis remain pioneers at heart--pioneers for peace, 
+prosperity and progress. They are once again facing challenges in their 
+homeland with determination and a vision for a better future for their 
+children and for their country.
+  I congratulate the State of Israel on its 60th anniversary, and I 
+urge adoption of this resolution.
+  Mr. MAHONEY of Florida. Mr. Speaker, I rise today in recognition of 
+the 60th anniversary of the founding of the modern State of Israel and 
+reaffirm the friendship and cooperation between the United States and 
+Israel.
+  Since its establishment 60 years ago, the State of Israel has rebuilt 
+a nation and developed a new and dynamic democratic society. The 
+Israeli government and its people have created a thriving economic, 
+political, cultural and intellectual life despite the heavy costs of 
+war, terrorism, and unjustified diplomatic and economic boycotts 
+against the country.
+  The Israeli people have established a nation of diverse cultures with 
+a deep connection to their historical past while at the same time 
+forging their place in today's global economy. Israel has proven its 
+commitment to creating a better global community by becoming a world 
+leader in technology.
+  On Israel's 60th anniversary it is important to recognize the 
+achievements of the Israeli people and of the Jewish community whose 
+faith and commitment to democracy is a beacon of hope for peace and 
+stability. America's commitment to Israel reflects our support for 
+those nations that share our values of liberty and equality.
+  Mr. FALEOMAVAEGA. Mr. Speaker, I rise today in strong support of H. 
+Con. Res. 322, recognizing the 60th anniversary of the founding of the 
+modern State of Israel and reaffirming the bonds of close friendship 
+and cooperation between the United States and Israel.
+  First and foremost, I want to commend Chairman Howard Berman of the 
+Foreign Affairs Committee for his support and commitment to this 
+important resolution. I also want to acknowledge the leadership of my 
+good friend, Ranking Member Ileana Ros-Lehtinen for her spirit of 
+cooperation on this bipartisan legislation. I especially want to thank 
+Speaker Pelosi and the original cosponsors of this historical 
+resolution.
+  I also want to congratulate the government and the people of Israel 
+who will be celebrating the 60th anniversary of their great country. We 
+must acknowledge the importance of the actions made by the United 
+Nations during the 1940s to create the Jewish
+
+[[Page 6552]]
+
+state soon after the horrific atrocities committed by the Nazis during 
+World War II. During the Holocaust, the Nazis murdered some 6 million 
+Jews and imprisoned many more in concentration camps.
+  Mr. Speaker, Israel has continued to thrive despite constant military 
+attacks, threats of terrorism, and international boycotts that have 
+been placed on such a young government. Being the only democracy in the 
+Middle East, we must applaud their efforts in sustaining a democratic 
+political system. Israel has continued to emphasize the importance of 
+inalienable rights that are much like the U.S. Their protection of 
+individual rights, freedom of the press, freedom of religion, fair and 
+open elections and rule of law are examples of their unwavering 
+commitment to democracy and they remain a model for neighboring 
+countries in the region.
+  Israel is at the forefront of modern technology and they have taken 
+the lead in research and development from everyday electronics to 
+renewable energy resources. This is important given the global 
+dependence on oil and the perpetual rise in the cost of fuel. Earlier 
+this year, I visited Israel with Ambassadors of the Pacific Islands to 
+the United Nations and we personally witnessed Israel's devotion to 
+research and development for improving the lives of all. Their 
+technological advancements in wind, water, and solar energy as well 
+desalination and diabetes research are the tip of the iceberg for what 
+Israel has contributed to the global community.
+  This resolution reaffirms the U.S. support for Israel as an ally and 
+a strong partner in the region. Israel has a unique role to play in the 
+Middle East and has a historical importance to Christians and Muslims 
+throughout the world. We must continue to strengthen U.S.-Israel 
+relations and support their efforts for peace in the Middle East.
+  Again, I want to take this opportunity to extend my personal 
+congratulations to the people of Israel and their government for their 
+60th anniversary celebration. May they continue to succeed, and may 
+their future be prosperous. I strongly urge my colleagues to support 
+this resolution.
+  Mrs. BACHMANN. Mr. Speaker, I rise to support H. Con. Res. 322.
+  As Israel celebrates the 60th anniversary of the founding of its 
+modern state, I rise to recognize the bonds of close friendship and 
+cooperation forged over the years between the United States and Israel.
+  Since declaring its independence on May 14, 1948, Israel has been the 
+shining symbol of freedom and democracy in an area historically rampant 
+with violence and oppression. In just 60 short years, Israel has become 
+the economic leader of the Middle East by proving to its people the 
+rewards of capitalism, while also leading the region in other facets of 
+a free society, including human rights and freedom of the press.
+  Israel has worked hard to develop friendly working relationships with 
+its neighbors, Egypt and Jordan, setting an example of leadership and 
+peace while other countries around them spread hatred and terror. As 
+the Middle East comes to embrace the liberties and freedoms of 
+democratic societies, the United States will stand steadfast in its 
+commitment to a free Israel.
+  Mr. Speaker, it is my honor to recognize and congratulate the success 
+of Israel on its 60th anniversary. It is vital the United States 
+continue to develop its strong relationship with Israel so that many 
+other countries around the world still oppressed and ruled by terror 
+can see the true value of a free and democratic society.
+  Mrs. CAPPS. Mr. Speaker, I rise in support of H. Con. Res. 322 and 
+join my colleagues in congratulating the people of the State of Israel 
+on the 60th anniversary of their independence.
+  In its short 60 years as an independent nation, Israel has made 
+remarkable achievements in all sectors of society.
+  Despite its tumultuous experiences, Israel is a vibrant democracy 
+that embraces a free press and political dissent.
+  Israel has also contributed remarkably through miraculous 
+breakthroughs in medicine, revolutionary technological advancements, 
+cultural icons and an agricultural system that is a model for the 
+entire world.
+  But the one thing Israel has yet been unable to achieve is a lasting 
+peace with its neighbors.
+  Wouldn't the best way to celebrate Israel's 60th anniversary be a 
+renewed commitment to peace?
+  We know that peace will only be achieved through a two-state 
+solution.
+  The Palestinian people's legitimate political aspirations must be 
+realized in order for the people of Israel to live safely and securely.
+  I have spent time with Israelis and Palestinians and the message they 
+convey is universal.
+  They just want to live in peace knowing that the future for their 
+children is brighter than the past they have experienced.
+  It is time for us to focus on our common goals rather than our 
+differences.
+  It is time to foster the people-to-people programs that connect 
+Israelis and Palestinians on more human levels.
+  Peace for Palestinians and Israelis is in the best interest of 
+everyone in the region and also the United States.
+  The U.S. must be active participants in the peace process and direct 
+more resources towards this goal.
+  Again, the best way to celebrate Israel's anniversary is to secure a 
+safer future for her citizens.
+  I remain committed to this goal and urge my colleagues to do the 
+same.
+  I wish Israel and all Israelis a ``Yom Huledet Sameach'' and look 
+forward to the continued friendship enjoyed by the people of Israel and 
+the United States.
+  Ms. WOOLSEY. Mr. Speaker, I rise today to recognize the 60th 
+anniversary of the founding of the modern State of Israel.
+  Israel has been a constant friend of the American people and a strong 
+proponent for the spread of democracy.
+  In my travels, I saw the future for Israel and for the region: The 
+children. It is our moral obligation to current and future generations 
+to support a true path to peace and reconciliation. We must work 
+towards a time free from conflict. The children of Israel and the 
+region deserve the right to hope and dream of a world that is secure 
+and stable.
+  Today, I join my colleagues in recognition of this important 
+anniversary and look forward to a peaceful role for the U.S. throughout 
+the region.
+  Mr. PATRICK J. MURPHY of Pennsylvania. Mr. Speaker, I am honored to 
+rise today in support of H. Con. Res. 322, celebrating the 60th 
+anniversary of the State of Israel.
+  Last summer, I was fortunate enough to visit Israel for the first 
+time. For me as a practicing Catholic, it was a humbling experience to 
+walk the same streets that Jesus walked over 2,000 years ago. Israel is 
+a Jewish state, but Jerusalem is at the center of three world religions 
+and when I was there, I felt like I was among friends.
+  I know first hand how badly America needs allies and friends in the 
+Middle East. Having served in Iraq, I understand how important the 
+Israeli-American relationship is. They are our most important ally and 
+one of our great friends. They are our partners in peace and in war. 
+And while we do not shrink from the fight against terrorism, we also 
+recognize that this global battle is one that cannot be won without 
+diplomacy.
+  The 60th anniversary of Israel's founding is a landmark moment. In 
+her brief history, great soldiers, noble statesmen and women and 
+inspiring leaders have made history by refusing to back down in the 
+face of great adversity.
+  As we celebrate this historic day, we must also take time to remember 
+those that have fallen in her defense. Brave men like my fellow 
+paratrooper and fellow Pennsylvanian Michael Levin. Michael's story 
+serves as an inspiration to me as he embodied and personified the 
+values that America and Israel hold in common: Loyalty, honor and 
+sacrifice. He left the comforts of America to serve in the Israeli 
+Defense Force--and he died protecting the country and the people he 
+loved. Americans and Israelis alike will always remember his courage 
+and keep his memory in our hearts.
+  Today is also a day where we must pray for those Israeli soldiers 
+being held captive by Israel's enemies. As a former soldier myself, my 
+thoughts and prayers are with Gilad Shalit, Ehud Goldwasser and Eldad 
+Regev and their families. We pray for their safety and hope for their 
+swift return.
+  Mr. Speaker, this significant moment is a time where we should also 
+pray for peace and understanding around the world--but especially in 
+the Middle East. We pray that in the near future, Israel and her 
+neighbors will live side-by-side in peace and that no more lives will 
+be lost in this needless cycle of violence and hate.
+  I am proud to stand with my colleagues in Congress and all of the 
+families in my district as we pledge to always support efforts to 
+maintain Israel's identity as a Jewish state with secure borders. We 
+also commit ourselves to work diligently towards the creation of a 
+viable and independent Palestinian state, living in peace alongside of 
+Israel.
+  Mr. Speaker, Israel is truly one of our greatest allies and most 
+trusted friends. She stands as a beacon of democratic values in a 
+region of the world where those values are largely absent. Today, we 
+celebrate the friendship that exists between our two Nations and look 
+forward to strengthening and expanding our bond in the future.
+  Mr. McNULTY. Mr. Speaker, I join today with many of my colleagues in 
+supporting this
+
+[[Page 6553]]
+
+Resolution celebrating the 60th anniversary of the State of Israel.
+  On May 14, 1948, the Jewish people proudly stood up and, for the 
+first time in 2000 years, renewed for themselves a Jewish homeland. 
+Today, Israel is the only real and stable democracy in the Middle East, 
+and a true friend to the United States.
+  In the past 60 years, Israel has built a vibrant and pluralistic 
+society, become a leader in the high tech and renewable energy sectors, 
+produced 8 Nobel Prize laureates, freed and welcomed oppressed Jews 
+from across the globe, and has continued to be a champion of 
+humanitarian causes throughout the world.
+  Despite war and terrorism, Israel remains dedicated to a lasting 
+peace with its neighbors. I pray for hatikva, the hope of the Jewish 
+people, to continue to flourish in Israel, and I am honored to 
+congratulate our friend, the State of Israel, on reaching this 
+occasion. I join you in wishing for many more years of continued 
+prosperity, friendship, and success.
+  Mr. RUPPERSBERGER. Mr. Speaker, I rise today in support of H. Con. 
+Res. 322, recognizing the 60th anniversary of the founding of the 
+modern State of Israel and reaffirming the bonds of close friendship 
+and cooperation between the United States and Israel.
+  Since its founding, Israel has been one of America's staunchest 
+allies. As the only democracy in the Middle East, a close relationship 
+between the United States and Israel helps ensure stability in that 
+region.
+  The ongoing Palestinian/Israeli conflict is of great concern to me. 
+The loss of innocent lives on both sides is troubling and tragic. The 
+ultimate solution must come in the form of a true peace between these 
+neighbors so they may live side-by-side. I support policies that 
+promote a peaceful solution to the conflict. I have visited the region 
+a half dozen times and met with leaders in several of the key 
+countries. I am convinced that a path to peace is the only way to 
+provide true security and prosperity for every nation.
+  Since Israel is our strongest ally in the Middle East, peace in this 
+troubled area is of direct interest to our Nation. Our Nations' strong 
+alliance will help create a lasting peace between the Palestinians and 
+the Israelis and will diminish much of the tension and violence 
+throughout the Middle East.
+  Born out of the tragedy of World War II and the Holocaust, Israel 
+provides a safe and secure homeland for Jewish people from the entire 
+world. I thank Israel for its friendship with the United States, and 
+look forward to another 60 years of close cooperation between our 
+Nations.
+  Mrs. TAUSCHER. Mr. Speaker, I rise to recognize the 60th anniversary 
+of the founding of the State of Israel and to reaffirm the bonds of 
+close friendship and cooperation between the United States and Israel. 
+The birth of the State of Israel gave the Jewish people a land to call 
+their own and serves as a symbol of hope and freedom for all groups who 
+have been oppressed.
+  The creation of the State of Israel followed the attempted 
+extermination of the Jewish people in the Holocaust. Neighborhoods and 
+Jewish communities were divided and families were shattered, but the 
+identity of the Jewish people as a whole remained strong. The faith, 
+hope, and belief in each other and their heritage kept the eternal 
+flame of the Jewish people burning, even in those grave times of 
+despair.
+  Following World War II, the Jewish people, having lost six million of 
+their own, had nowhere to go--no land to call their own. On November 
+29, 1947, the United Nations general assembly voted to partition the 
+British Mandate of Palestine and create a Jewish State. On May 14, 
+1948, the people of Israel proclaimed the establishment of the 
+sovereign and independent State of Israel, and the United States 
+Government established full diplomatic relations with Israel.
+  Not only has Israel provided so much to the Jewish people, absorbing 
+millions of Jews from countries throughout the world and integrating 
+them into Israeli society, it has also done much to assist other 
+nations facing natural and manmade crises around the world. Israel 
+regularly sends humanitarian aid, search-and-rescue teams, mobile 
+hospitals, and other emergency supplies, to help victims of disasters 
+around the world.
+  Just as our brave men and women fight to protect democratic values, 
+Israel, too, fights for its right to exist and to protect its citizens. 
+Every day, Israel bravely defends itself from repeated terrorist and 
+military attacks. In addition, it has established peaceful bilateral 
+relations with neighboring Egypt and Jordan and has made its desire to 
+establish peaceful relations with all Arab states abundantly clear.
+  The American people feel a strong affinity for the Israeli people 
+based on common values and shared cultural heritage and the United 
+States continues to regard Israel as a strong and trusted ally and an 
+important strategic partner. For 6 decades, the United States and 
+Israel have maintained a special relationship based on mutually shared 
+democratic values, common strategic interests, and the bonds of 
+friendship and mutual respect.
+  At this time, I wish to congratulate the State of Israel on its 60th 
+anniversary and reaffirm my commitment to maintaining the close 
+friendship and cooperation between the United States and Israel.
+  Mr. UDALL of New Mexico.  Mr. Speaker, roughly 60 years ago today, 
+Harry Truman had a problem.
+  After 2,000 years as ``strangers in a strange land,'' the Jewish 
+people were about to establish a homeland in the land of their fathers. 
+Many Americans believed that our Nation would support the aspirations 
+of the Jewish people. However, President Truman's own Secretary of 
+State threatened to vote against the President in the next election if 
+Truman backed Israel.
+  At midnight on May 14, 1948, Israel declared independence. Eleven 
+minutes later, America recognized the new state. Truman's act of 
+courage created an essential and vital bond. Every American Government 
+since that day has recognized America's special relationship with 
+Israel.
+  Since 1948, Israel has shown the world true courage and perseverance. 
+They have made the desert bloom, fended off countless acts of 
+aggression and built a lasting testament to the potential for democracy 
+and freedom in the Middle East. Today, Israeli citizens speak dozens of 
+languages and come from hundreds of countries. They include war-scarred 
+Holocaust survivors, refugees from the ghettos of the Eastern Bloc and 
+young pioneers from the New World. What they share is a common love of 
+their country and commitment to their people. Like America, Israel has 
+turned its diversity into a source of strength and pride.
+  In New Mexico, we have a great deal of respect for those who make the 
+desert bloom. Israel now ranks as New Mexico's 11th leading trade 
+partner and since 1996, we have exported more than $490 million worth 
+of goods to Israel. In 2006 alone, our State produced nearly $3 million 
+in defense products for the Israeli military. Like those throughout New 
+Mexico, I have consistently supported Israel's efforts to defend itself 
+against terrorists and others who seek to harm her, and to seek peace 
+with her neighbors.
+  As we pass this resolution honoring the 60th Anniversary of Israeli 
+Independence, I want to express my congratulations, my support, and my 
+hope that the next 60 years will bring peace and prosperity to Israel 
+and the region.
+  Mr. DAVIS of Virginia. Mr. Speaker, I rise today in strong support of 
+H. Con. Res. 322.
+  Following the allied victory in World War II, the United Nations 
+voted to partition the British Mandate of Palestine, leading the way 
+for the people of the region to create, on May 14, 1948, the State of 
+Israel. United States recognition of the State of Israel came within 
+hours of Israel's creation. Since that historic day in 1948, the United 
+States and Israel have remained steadfast allies and friends. On May 
+11, 1949, the Government of Israel was officially admitted as a member 
+of the United Nations.
+  Since the creation of the State of Israel, enemies of freedom and 
+peace have persistently attempted to undermine Israel's right to exist. 
+The very day after the creation of Israel, rogue Arab forces from 
+surrounding Middle Eastern countries invaded the land given to Israel 
+based on the U.N. partition. Though less than 24 hours old, the nascent 
+country staved off the invasion, and on June 7, 1949, a cease-fire was 
+called, resulting in Israel acquiring western Galilee, a broad corridor 
+through central Palestine to Jerusalem, and part of modern Jerusalem.
+  Subsequent attempts to undermine Israel's security have all failed, 
+and Israel has become stronger at each turn. In 1956, 1967, 1973, and 
+1982, attacks on Israel by her neighbors in the region were met with 
+fierce resistance and resounding defeat for Israel's enemies.
+  In 1988, Yasir Arafat, then leader of the Palestinian Liberation 
+Organization--a group which had for decades fiercely opposed Israel's 
+right to exist--officially acknowledged Israel's sovereign right, and 
+announced his willingness to enter negotiations for peace. Although 
+peace talks have yet to produce a lasting accord, discussions between 
+the relevant parties have met with progress. It is my firm belief that 
+peace can and will be achieved in the region. It is clear that Israel's 
+right to exist is fully established. The United States will continue to 
+stand shoulder-to-shoulder with her friend until and beyond that day 
+when peace is established.
+  Israel is a shining example of the success that a democracy can 
+produce. Because of
+
+[[Page 6554]]
+
+the freedom that Israelis enjoy, Israel has been at the forefront of 
+innovation. Israeli scientists have made significant contributions to 
+genetics, medicine, electronics, engineering, and the high-tech world. 
+Indeed, the very cell phones that the world over has become accustomed 
+to using were first invented by Israeli entrepreneurs.
+  Mr. Speaker, it is my great pleasure to congratulate the State of 
+Israel on her 60th Anniversary. I encourage my colleagues to support H. 
+Con. Res. 322.
+  Mrs. McCARTHY of New York. Mr. Speaker, I rise today in strong 
+support of H. Con. Res. 322, a resolution celebrating Israel's 60th 
+anniversary. I am proud to have been a cosponsor of this resolution.
+  Israel proclaimed its statehood on May 14, 1948. On its first day of 
+existence, the armies of five neighboring Arab countries declared war 
+on Israel. The war for independence lasted about a year and resulted in 
+armistice separate agreements, but not before 6,000 Israeli lives were 
+lost.
+  Within 8 months of independence and before the war ended, Israel held 
+its first national elections. Eighty-five percent of all eligible 
+voters cast their ballots to create the first 120-seat Knesset or 
+Parliament.
+  A state founded by refugees of and survivors of religious 
+persecution, Israel has been and continues to be one of America's 
+closest and most consistent allies.
+  This desert nation exists in a region that is, unfortunately, as 
+steeped in violence as it is rich in history and tradition. We must do 
+all that we can to ensure the security of the State of Israel and its 
+people. Just as the United States is vital to the survival of Israel, I 
+believe Israel is also vital to the survival of the United States. Our 
+countries are linked together on so many levels.
+  Unfortunately, today, Israel has new and increasing threats to its 
+security. Palestinian rockets have been fired from Gaza and hit Israeli 
+communities on an almost daily basis. More than 200,000 Israeli 
+citizens are within range of these Palestinian rockets. One of the 
+saddest aspects of the terrorism situation in Israel is that it grabs 
+the newspaper headlines and distracts the world from seeing the many 
+advances made by Israel in democracy and human rights, science, 
+agriculture, transportation, and so many other areas.
+  Despite nearly impossible odds, Israel's will to survive and her 
+people's dogged determination have resulted in the development of a 
+thriving democracy in one of the globe's least democratic regions. In 
+fact, in only 60 years Israel has grown into a mature democracy that 
+has produced some of the finest thinkers, scientists and entrepreneurs 
+of the modem era.
+  We must never forget the conditions that, in many respects, laid the 
+foundation for the creation of the State of Israel. After one of the 
+most horrific atrocities in human history, the Holocaust, Israel was 
+established as a home to a nearly decimated people. It is often said 
+that we must ``never forget'' the horrors and the lessons of the 
+Holocaust. And since April is Holocaust Remembrance month, this is an 
+appropriate time to reaffirm our unyieldingly strong obligation to our 
+friend and ally and vow to ``never forget'' our commitment to Israel.
+  The United States and the all of the nations of the world have a 
+moral responsibility to ensure and support the existence of the State 
+of Israel.
+  H. Con. Res. 322 recognizes the historical significance of Israel's 
+60th anniversary, supports Israel as it continues to pursue peace with 
+its neighbors, commends the people of Israel for helping to create a 
+thriving democracy, and acknowledges the strong bonds that exist 
+between the two countries.
+  I urge all of my colleagues to join me in congratulating Israel on 
+its 60th anniversary and wish her a safe and prosperous future. Support 
+H. Con. Res. 322.
+  Mr. TANNER. Mr. Speaker, I rise today to express my strong support 
+for H. Con. Res. 322, a resolution commemorating the 60th anniversary 
+of the founding of the modern State of Israel. I am proud to be a 
+cosponsor of this important resolution.
+  The movement to establish a modern homeland for the Jewish people 
+launched in 1896 with the publication of Theodore Herzl's The Jewish 
+State. Out of the atrocities and horrors of the Second World War, the 
+long sought dream of re-establishing that homeland was finally 
+realized. In 1948, Israel claimed its hard-fought independence.
+  Since Israel's beginnings, the United States has held a special bond 
+with this important ally. As the only liberal democracy in the region, 
+Israel knows all too well what it means to fight against violent agents 
+of intolerance and religious extremism for the sake of personal freedom 
+and fair government. From the birth of their modern state, the Israeli 
+people have struggled to keep and maintain their homeland.
+  I have had the great privilege of traveling to Israel. It is only in 
+visiting this great country, that one can appreciate the beauty, 
+history and danger that dominate the lives of its everyday citizens. 
+Nowhere in the world is there such a confluence of religion and faith. 
+However, peaceful worship often gives way to violent conflict, and 
+despite the holiness of the land, terrorism has become all too common 
+in this region.
+  We have stood with Israel in its fight against terrorism, and we will 
+continue to do so. For six decades, our shared commitments to democracy 
+and freedom, as well as our shared cultural heritage, have kept the 
+link between our two nations close, despite existing in very different 
+parts of the world. With passage of this resolution, we honor that bond 
+and look forward to our continued friendship.
+  Mr. ALLEN. Mr. Speaker, on this occasion, I would like to speak in 
+celebration of the 60th anniversary of the founding of the modern State 
+of Israel. Israel is our most important and strongest ally in the 
+Middle East, and all Americans should congratulate the Israeli people 
+on this important milestone.
+  From technological advances in the fields of agriculture and medicine 
+to the acceptance of women as equals, Israel has managed to establish a 
+modern democracy full of innovation. This achievement is only magnified 
+by the fact that at 60, Israel is still a relatively young nation.
+  I support a two-state solution that provides for the existence of a 
+self-governing Palestinian state with a separate national identity. 
+However, Israel has the right to defend itself against attacks, and we 
+must insist that the Palestinian Government recognize the State of 
+Israel and act and speak out against suicide bombings and other acts of 
+terror.
+  I believe that the United States should devote significant resources 
+to promoting peace in the Middle East. History has shown that active 
+and consistent U.S. diplomatic engagement can promote progress, while a 
+passive U.S. role can lead to the opposite.
+  The pursuit of diplomacy with leaders in Israel, the Palestinian 
+territories, and regional partner countries who recognize the 
+inevitability and importance of coexistence and economic integration 
+must continue to be a top U.S. foreign policy goal.
+  The active engagement of Congress in diplomacy with Israel and other 
+countries in the Middle East is a welcome development. The 
+international community must focus its energy on advancing prospects 
+for a lasting, secure peace in the Middle East.
+  I congratulate the Israeli people on this important achievement. I am 
+pleased to support this resolution and urge my colleagues to do so as 
+well.
+  Mr. UDALL of Colorado. Mr. Speaker, as a cosponsor of H. Con. Res. 
+322, I am glad to have the opportunity to vote for this important 
+resolution today.
+  The United States recognized the State of Israel the day it was 
+established on May 14, 1948. In the ensuing 60 years, the people of 
+Israel have established a democratic society, developed an advanced 
+economy, and created a thriving culture in the face of war, terrorism, 
+and threats to its security.
+  H. Con. Res. 322 expresses ``enduring support for Israel as Israel 
+pursues peace with its neighbors.'' The importance of peace in the 
+region cannot be overstated. Without it there can be no regional 
+stability and no security for Israel. Over the decades, the United 
+States has played a special role in helping facilitate the peace 
+process in the region, and I believe we must continue to play that 
+role.
+  For 60 years, the United States and Israel have shared strong bonds 
+of friendship, common values, and strategic interests. Our support for 
+the people of Israel has been a fundamental part of American foreign 
+policy and remains so today. In the post-9/11 world and with American 
+soldiers engaged in two wars on Islamic soil, I believe our historic 
+alliance with the State of Israel has even greater significance.
+  So again, Mr. Speaker, I congratulate Israel on its 60th birthday and 
+send my best wishes to the Israeli people for a peaceful and prosperous 
+future.
+  Mr. CROWLEY. Mr. Speaker, I rise today to congratulate the people of 
+the State of Israel and the greater Jewish community on the 60th 
+anniversary of their independence.
+  The United States supported the establishment of the Jewish State in 
+1948, and our two countries have been the closest of friends and strong 
+allies ever since.
+  Our friendship is rooted in some deeply shared beliefs. We believe in 
+freedom of religion, in freedom of the press, and in freedom of speech. 
+We believe in free and fair elections. And we believe that extremism 
+and terrorism have no place in the global community.
+
+[[Page 6555]]
+
+  Since its independence, Israel has endured unstable and troubling 
+conditions in the Middle East. They have been subject to violence and 
+unwarranted attacks. They have been asked to compromise their borders. 
+They have had missile strikes threatening the lives of innocent 
+citizens on an almost daily basis. Yet, the Israeli people remain 
+united and strong--continuing to stand up for their beliefs and for 
+their country.
+  Israel is a modern success story. It is the only democracy in the 
+Middle East. It is the only Middle Eastern country where Arabs have the 
+right to vote for their elected officials and their political leaders. 
+And, it is one of the only Middle Eastern nations without oil wealth 
+that has transformed itself from an agrarian-based economy to a high 
+tech economic powerhouse.
+  Today, as Israel turns 60, it is important to remember what she 
+stands for.
+  I believe Israel, while small in geographic size, is one of the 
+largest symbols of humankind's continued faith in God.
+  I believe her enduring spirit to survive inspires.
+  And, I believe in her unwavering dedication to freedom and democracy.
+  I am proud to be a friend of Israel's and I believe we must continue 
+to stand with her. And today, I want to join my colleagues in wishing 
+Israel a hearty Mazel Tov on 60 years of Independence.
+  Ms. LEE. Mr. Speaker, I rise to recognize Israel and its people on 
+the 60th anniversary of its founding and offer my sincere hope that the 
+seventh decennial of its existence will usher in a period of lasting 
+peace between it and its neighbors.
+  We all agree that Israel and the Israeli people have accomplished 
+much during its 60 years. As this resolution points out, Israel has 
+forged a politically diverse and dynamic society with a thriving 
+economy and vibrant cultural and intellectual life. It has produced 8 
+Nobel Prize winners and has provided sanctuary for millions of Jews 
+throughout the world.
+  I have visited Israel on more than one occasion and I was most 
+impressed by its commitment to many of the democratic principles we 
+cherish here in the United States. As the resolution points out, there 
+are many common bonds between the United States and Israel.
+  So, Mr. Speaker, as a strong supporter of the Israeli people and 
+Israel's right to exist, I agree we should take time to recognize 
+Israel on this momentous occasion. I also believe, however, that we 
+must take this opportunity to encourage Israel and all the parties 
+involved to find a workable solution to the humanitarian crisis in Gaza 
+and to redouble efforts on the path to peace.
+  For these reasons, Mr. Speaker, I support H. Con. Res. 322, which 
+recognizes the 60th anniversary of the founding of the modern State of 
+Israel.
+  Mrs. JONES of Ohio. Mr. Speaker, I rise today in celebration of 
+Israel's 60th anniversary of Statehood.
+  On May 14, 1948, David Ben-Gurion announced to the world that the 
+State of Israel had been created. This declaration was made in 
+accordance with the United Nations Resolution 181 which was passed in 
+November 1947. The creation of two states was proposed, one Jewish and 
+one Palestinian. The new State of Israel established an opportunity for 
+Ben-Gurion and other Zionists to realize a return to the ``promised 
+land.''
+  Although the new state would be tested immediately following its 
+creation, its citizens, supporters and ideals would hold. Even at the 
+conclusion of the first Arab-Israeli War, a constant barrage of state 
+and non-state actors would seek to destroy this government. Sixty years 
+later this battle continues, as the entire world copes with the 
+challenging yet necessary task of respecting the beliefs of others and 
+protecting the natural rights of all mankind.
+  The ``land of milk and honey'' is significant not only for its 
+ability to offer refuge to a people who have been persecuted for the 
+past two millennia, but to also demonstrate the global communities' 
+determination to right wrongs and to help their fellow man. Today there 
+are close to 7 million individuals who inhabit Israel. Although the 
+vast majority of those persons happen to be Jewish, there are also 
+people who follow the Christian and Arab faiths. While there happens to 
+be conflict currently between the Jewish and Muslim populations, the 
+possibility of Israelis and Palestinians coexisting in peace is still 
+feasible.
+  As a Member of Congress, I have been blessed with the opportunity to 
+visit Israel, to talk with those that live there and to see the success 
+that it has become, There exists within the Eleventh Congressional 
+District of Ohio and across the United States, a strong community of 
+individuals who are committed to supporting our close ally. I am proud 
+to consider myself a fellow advocate and look forward to supporting the 
+State of Israel in the future.
+  May the people and the government of Israel continue to enjoy their 
+statehood and be blessed with peace.
+  Mrs. MALONEY of New York. Mr. Speaker, today we recognize the 60th 
+anniversary of the creation of Israel. On May 14, 1948, thousands of 
+volunteer Yishuv fighters led by David Ben-Gurion celebrated as the 
+Jewish Agency declared Israel an independent nation in accordance with 
+the 1947 U.N. partition plan. The difficult months of fighting ahead 
+were only eased by the knowledge that the volunteer army was fighting 
+for its new and independent nation. U.S. President Harry S. Truman 
+immediately recognized Israel as a sovereign and independent nation 
+forging a bond between our two great democracies that has been one of 
+mutual support and friendship ever since.
+  The people of Israel have, over the 60 years since Israel has become 
+an independent state, established a vibrant democratic political 
+system, including freedom of speech, association, and religion; a 
+vigorously free press; free, fair and open elections; the rule of law; 
+a fully independent judiciary; and other democratic principles and 
+practices. Israel has developed an advanced, entrepreneurial economy, 
+and is among the world's leaders in the high-tech industry. Israel has 
+also bravely defended itself from numerous military attacks and acts of 
+terrorism.
+  I stand with my colleagues and with my nation to celebrate the 60 
+years of a special relationship based on mutually shared democratic 
+values, common strategic interests, and bonds of friendship and mutual 
+respect. I am a cosponsor of H. Con. Res. 322 that was introduced by 
+Speaker Pelosi to celebrate this important milestone. On this occasion 
+I also want to highlight the efforts that Israel and its leaders have 
+made to make a lasting peace with its neighbors. I would like to extend 
+my warmest congratulations and best wishes to the Israeli people for a 
+peaceful, prosperous, and successful future.
+  Ms. JACKSON-LEE of Texas. Mr. Speaker, I rise today in strong support 
+of H. Con. Res. 322, recognizing the 60th anniversary of the founding 
+of the modern State of Israel and reaffirming the bonds of close 
+friendship and cooperation between the United States and Israel. I 
+would like to thank my distinguished colleague from California, Speaker 
+of the House, Representative Nancy Pelosi and Chairman of the House 
+Foreign Affairs Committee, Representative Howard Berman for their 
+leadership on this important issue.
+  Today, Israel celebrates its 60th birthday, or its Day of 
+Independence. This is a very special day for this country, where 
+citizens live in a constant state of unknown, but are united for their 
+love for the state. In addition to birthday greetings, I want to wish 
+Israel the best of luck in its continued attempts to make peace this 
+upcoming year.
+  Israel was created in 1948; it took President Truman only 11 minutes 
+to recognize the new Jewish State. Since then, it has come to exist as 
+the only true democracy in the Middle East. Israel and the United 
+States have many of the same foundations of government: Freedom of 
+religion, free speech, basic human rights, the rule of law and being a 
+nation of immigration and diversity. Israel has provided a unique 
+opportunity for Jews from all over the world to reestablish their 
+ancient homeland. In addition, it is a home to many religious sites 
+which are sacred to Judaism, Christianity, and Islam and attracts 
+visitors every year.
+  Israel provided a refuge to Jews who survived the horrors of the 
+Holocaust and the evils committed by the Nazis which were unprecedented 
+in human history. The people of Israel have established a unique, 
+pluralistic democracy which includes the freedoms cherished by the 
+people of the United States, including freedom of speech, freedom of 
+religion, freedom of association, freedom of the press, and government 
+by the consent of the governed.
+  Israel continues to serve as a shining model of democratic values by 
+regularly holding free and fair elections, promoting the free exchange 
+of ideas, and vigorously exercising in its Parliament, the Knesset, a 
+democratic government that is fully representative of its citizens.
+  I want to applaud the Government of Israel for successfully working 
+with the neighboring Governments of Egypt and Jordan to establish 
+peaceful, bilateral relations. I have had the privilege of visiting 
+Israel, and hearing firsthand how the government is taking great 
+strides to ensure peace for generations to come.
+  Mr. Speaker, this important legislation recognizes the 60th 
+anniversary of the founding of the modern State of Israel and reaffirms 
+the bonds of close friendship and cooperation between the United States 
+and Israel. I am
+
+[[Page 6556]]
+
+proud to join 201 of my colleagues in cosponsoring this important 
+legislation. For these reasons, I support H. Con. Res. 322 and urge all 
+Members to do the same. The United States and Israel enjoy a strategic 
+partnership based on shared mutual democratic values, friendship, and 
+respect. The people of the United States share affinity with the people 
+of Israel and view Israel as a strong and trusted ally. I hope this 
+friendship continues to grow and blossom for decades to come, as Israel 
+settles itself in a firm place on our global map.
+  Mr. HIGGINS. Mr. Speaker, I rise in support of H. Con. Res. 322, 
+recognizing the 60th anniversary of the founding of the modern State of 
+Israel on May 14th. Since its inception, Israel has been a close friend 
+and ally of the United States, promoting democratic values in the 
+Middle East. As we celebrate this anniversary, let us reflect upon the 
+struggles that have come in the past and that are to come in the 
+future. From them we can glean a sober hope for the continued peace and 
+prosperity of Israel and the United States.
+  Israel's first Prime Minister, David Ben-Gurion, was aware of 
+hostility to the goals of Zionism, but sought that Jews and 
+Palestinians live in peaceful coexistence in his newly formed state. 
+Unfortunately, radicalism and resistance for this peaceful goal only 
+hardened. The many conflicts that ensued, from the Six Day War to the 
+Second Infitada, has made life difficult for all Israelis.
+  Today, Israel is taking serious steps in hopes of reaching a peace 
+agreement with the Palestinians. In the West Bank, Israel is removing 
+roadblocks and evacuating outposts in order to strengthen Palestinian 
+President Abbas so the Palestinian Authority is capable of implementing 
+a treaty. Unfortunately, in Gaza the militant group Hamas is engaged in 
+the broadest and most significant military buildup in its history with 
+help from Syria and Iran. Hamas is restructuring more hierarchically 
+and using more and more powerful weapons, such as longer-range rockets 
+against Israel's southern communities.
+  The most serious threats that Israel faces are external. Two weeks 
+ago, Iran announced that they had dramatically increased its capacity 
+to enrich uranium with the installation of 6,000 new centrifuges. In 
+doing so, Iran continued to defy not only the United States but the 
+international community as well. The United States and Israel must 
+continue to provide a united front against this regime, while still 
+reaching out to its people, in order to protect the citizens of both 
+countries and prevent the proliferation of nuclear weapons.
+  With the Arab population in Israel estimated to outnumber Jewish 
+Israelis in the near future, building a lasting peace has never been 
+more necessary to the continued existence of Israel. Fortunately, 
+Israel's economy is strong and growing and the Israeli government is 
+committed to a peaceful solution based upon political realities.
+  Our greatest hopes lay in the strength of the alliance between Israel 
+and the Untied States and in the inherent rightness of the democratic 
+values that both countries promote. That is why I am proud to stand in 
+support of H. Con. Res. 322 and celebrate the 60th Anniversary of 
+Israel, and I look forward to the continued role as an advocate for 
+democracy in the Middle East.
+  Ms. SCHAKOWSKY. Mr. Speaker, I rise to honor the 60th anniversary of 
+the founding of the State of Israel.
+  I am just a few years older than the State of Israel, and I remember, 
+as a little Jewish girl, the pride and joy my family felt that a Jewish 
+state was a reality. My parents expressed tremendous relief that there 
+was now a place in the world safe for Holocaust survivors, and a haven 
+for all Jewish people wherever we may live.
+  We watched with amazement as an arid land turned green as it was 
+transformed into farms and towns. We ourselves planted trees in Israel 
+by buying a tree certificate and gave it to our family friends on every 
+special occasion, so we could participate in making the desert bloom. 
+We all stood a bit taller, and every Passover, the holiday of freedom, 
+was sweeter because Israel wasn't just a longing of our people, but a 
+real country on the map.
+  That pride burns brightly today. Sixty years later, Israel has 
+weathered war and terrorism and remains a strong, thriving democracy--
+the only democratic nation in the Middle East and America's closest 
+friend and ally in the region. Israel has become a resource for the 
+United States and the world because of her groundbreaking discoveries 
+in the areas of medicine, energy, clean water, and security 
+technologies.
+  On her 60th anniversary, the vibrant Jewish community in the 
+Chicagoland area is proud of Israel's pioneering leadership and the 
+strong United States-Israel bond, and works hard every day to 
+strengthen and refresh that relationship.
+  I will always support the State of Israel, and I urge all of my 
+colleagues to vote ``aye'' on H. Con. Res 322.
+  Mr. LEWIS of Georgia. Mr. Speaker, I join my colleagues as a proud 
+original cosponsor of this important resolution.
+  I congratulate our brothers and sisters in Israel on this important 
+milestone--the 60th anniversary of becoming an independent nation. From 
+the first hour on that first day, Israel and the United States began a 
+relationship based on democratic values, friendship and respect that 
+continues to this day.
+  Over the years, Israel has developed into a thriving society, a world 
+leader, and an active democracy. Welcoming people from Russia to 
+Ethiopia, Israel has become a refuge for those persecuted for thousands 
+of years.
+  In fact, many of my constituents have traveled or lived in Israel. In 
+2005, we made history when Atlanta became the first U.S. city in the 
+Southeast to have non-stop direct flights to Tel Aviv.
+  I, too, have a personal connection with the people of Israel--like 
+me, they are descended from survivors. The atrocities of the holocaust 
+must never be forgotten. Every day, we must recommit ourselves to never 
+allow this history to be repeated. We have overcome so many trials and 
+hardships, but there is still so much farther to go.
+  It is my hope that one day, together we will be able to celebrate 
+peaceful relationships and coexistence with all the countries in the 
+Middle East. And I hope that this peace comes long before another 60 
+years.
+  Mr. Speaker, I extend my deepest congratulations to the Israeli 
+people on this historic day.
+  Mr. MICHAUD. Mr. Speaker, I rise today in support of H. Con. Res. 322 
+recognizing the 60th anniversary of the founding of the modern State of 
+Israel and reaffirming the bonds of close friendship and cooperation 
+between the United States and Israel.
+  Today marks the 60th anniversary of the founding of the modern State 
+of Israel. For the past six decades the United States and Israel have 
+forged a special relationship based on our shared history of overcoming 
+oppression, tyranny and hatred. This bond has strengthened over time 
+through our common interest in peace, prosperity, and democracy.
+  As we commemorate this anniversary, we must also recognize the 
+challenges that face Israel. Security and prosperity will only be 
+reached when a resolution to the conflict between the Palestinian and 
+Israeli peoples is achieved.
+  It is critical that we engage both Israel and the Palestinian 
+leadership to find a way forward. It is also critical that we support 
+initiatives that create greater dialogue, cooperation and economic 
+development between Israelis and Palestinians. I have been a strong 
+supporter of Seeds of Peace, which has a camp located in my district, 
+which brings Arab and Israeli youth together to dispel stereotypes and 
+build lasting trust within the regional leaders of tomorrow. I have 
+also been a strong supporter of the Middle East Regional Cooperation 
+program and other programs that create people-to-people reconciliation 
+and coexistence in the Middle East.
+  Israel is friend and ally of the United States and it is my honor to 
+recognize the 60th anniversary of its founding. True support for Israel 
+lies in standing with our friend as its civilians face down 
+indiscriminate rocket attacks and in pushing for a permanent peace that 
+provides security and dignity to both Israelis and Palestinians.
+  On this special occasion it is important to commemorate the past, but 
+also to look toward the future. As our two Nations enter our seventh 
+decade as allies, we must continue to actively pursue our common dream 
+of peace, freedom and security--a dream that I believe is shared by all 
+peoples of the world.
+  Mr. Speaker, I reiterate my firm support of H. Con. Res. 322.
+  Ms. FOXX. Mr. Speaker, as a proud cosponsor of House Concurrent 
+Resolution 322, which recently passed the House of Representatives, on 
+the occasion of the 60th anniversary of the modern State of Israel, I 
+wish to take an opportunity to reflect on this truly monumental event. 
+Since the time of its creation 60 years ago, Israel has served as an 
+example of democracy and equal rights for her neighbors. Israel has 
+also proved to be steadfast ally to the United States in a variety of 
+ways, particularly within our country's diplomatic efforts in the 
+Middle East.
+  Since its founding in 1948, the modern State of Israel has served as 
+a democratic anchor in the Middle East. Like the United States, the 
+Israeli Declaration of Independence protects freedom of speech, freedom 
+of religion, a free press, free elections, and many other tenets of a 
+free society. Israel established a democracy in the midst of a 
+politically tumultuous region and by guaranteeing the basic rights of 
+her citizens, sets herself apart from her authoritarian neighbors.
+
+[[Page 6557]]
+
+  Israel prides herself on women's rights and equal pay for women in 
+the workforce. The first female Prime Minister, Golda Meir, was elected 
+in 1969, just 21 years after the formation of modern Israel. Women now 
+serve as the foreign minister, speaker of the Knesset, and chief 
+justice of the Israeli Supreme Court. Furthermore, Israel has 
+recognized the necessity of providing equal rights regardless of gender 
+or race and deserves to be commended.
+  Not only is Israel an example for her neighbors as a thriving 
+democracy, where citizens' rights are protected through the rule of 
+law, she has also been an avid supporter in the global war on terror. 
+The U.S. and Israel are continually working together to develop 
+sophisticated military technology and improve Israel's defense systems 
+and soldier protection. In the interest of global freedom I hope, and 
+am confident that, this friendship will continue in the future.
+  It is with great joy that I extend my best wishes for the 60th 
+anniversary of the modern State of Israel and wish them a prosperous 
+future.
+  Mr. SPACE. Mr. Speaker, I rise today to recognize the 60th 
+anniversary of the Nation of Israel.
+  I join a bipartisan group of my colleagues in support for H. Con. 
+Res. 322--a measure recognizing the 60th anniversary of the founding of 
+the modern State of Israel and reaffirming the bonds of close 
+friendship and cooperation between the United States and Israel. This 
+measure passed the House of Representatives earlier this week by a vote 
+of 417 to 0.
+  As a member of the Democratic Israel Working Group, I am proud to 
+commend Israel and her people on the occasion of this significant 
+milestone.
+  We and the international community are grateful to Israel for her 
+contributions in the fields of agriculture, technology, and medicine to 
+name a few. Furthermore, Israel is a true democracy in an unstable 
+region of the world, and the nation has long been an ally of the U.S.
+  Again, I join my colleagues in commending Israel and in looking 
+forward to a future of continued friendship.
+  Mr. LINCOLN DIAZ-BALART of Florida. Mr. Speaker, I rise today to 
+congratulate Israel as it celebrates its 60th anniversary. Israel is 
+not only a close military ally and trade partner, it is also a true 
+friend of the United States.
+  The United States shares Israel's commitment to peace and freedom. We 
+share a commitment to democracy, the Rule of Law and we share a culture 
+that honors life--not that glamorizes death. Perhaps more than any 
+other people, Israel understands the insidiousness of evil and the need 
+for good people to remain vigilant against it. We share a great deal, 
+Mr. Speaker. It is no accident that the United States and Israel are 
+such great friends.
+  Despite frequent and cowardly attacks, this young country has 
+withstood every missile, every grenade, every car bomb, every suicide 
+bomber. Israel has weathered the violence of terrorist groups such as 
+Hamas and Hezbollah, which have vowed Israel's destruction and which 
+receive copious funding from Iran and Syria. Israel must combat these 
+constant and cowardly attacks, but rarely does the world acknowledge 
+the restraint shown by Israel in defending itself, trying always to 
+wage this war of survival with reverence for innocent life.
+  While rockets rain down on Israel from terrorists operating in Gaza, 
+Israel continues to allow the delivery of food and medicines across the 
+Gaza border. Although Hamas seizes humanitarian aid for its own 
+nefarious uses and exploits humanitarian vehicles to smuggle weapons 
+and explosives, Israel continues to allow aid to flow across its border 
+with Gaza. While Israel's enemies purposely target the innocent, Israel 
+responds with tactical strikes against terrorists, their weapons bases, 
+and their command centers to protect the innocent. While the forces of 
+extremism and terrorism continue to barrage freedom-loving people in 
+Israel and around the globe, I am heartened to see that the forces of 
+evil have failed to destroy the basic goodness of those who struggle 
+against terror so that they may live in peace and freedom.
+  Mr. Speaker, on the occasion of Israel's 60th anniversary, I am 
+honored to have this opportunity to congratulate Israel for its 
+tremendous contributions to the world and to express my profound 
+gratitude for Israel's unwavering friendship with the United States.
+  Mr. SCHIFF. Mr. Speaker, six decades ago, on May 14, 1948, David Ben-
+Gurion declared the independence of the modern State of Israel--the 
+resurrection of a nation that had been scattered and persecuted for 
+nearly two millennia.
+  Ben Gurion's declaration was followed, 11 minutes later, by American 
+recognition of the new state. Within hours, five Arab armies attacked 
+the nascent country. These two elements--the deep friendship with the 
+United States and conflict with its Arab neighbors--would remain 
+dominant threads in the saga of Israel from 1948 to today.
+  In many respects, modern Israel has fulfilled the early Zionists' 
+goal of creating a ``normal'' nation--one that would take its place 
+alongside the world's other states. The country's booming high-tech 
+economy, its modern infrastructure, its global leadership in science 
+and medicine, its laid-back Mediterranean lifestyle and its vibrant 
+democracy are testament to more than a century of effort by Israelis 
+and the Jewish pioneers who preceded them. Two of its Arab neighbors, 
+Egypt and Jordan, have had the courage to sign peace treaties with 
+Israel.
+  Unfortunately, Israel's successes have been undermined by the 
+continued hostility of many of its Arab neighbors and by the 
+unjustified vilification of Israel at the United Nations and in much of 
+the world's media. The singling out of Israel for unjust condemnation 
+has bolstered the hands of Israel's implacable foes and has been a 
+tragic impediment to the realization of progress, prosperity and 
+security for both Israelis and Palestinians.
+  America has long enjoyed a unique bond with Israel--in fact Americans 
+were leading advocates for the reestablishment of Jewish sovereignty in 
+the Holy Land as far back as the early 19th Century. American support 
+was critical to Israel's survival in its early years and, following the 
+1967 Six-Day War, the two countries forged a strategic alliance that 
+endures to this day.
+  Our bond with Israel is strong because it encompasses a number of 
+dimensions: it is built on mutual security interests, shared values and 
+a commitment to the rule of law. In its democracy and free press, 
+Israel stands as a beacon to its neighbors, and its openness is all the 
+more remarkable given the security threats that have shaped the country 
+since its founding. As Americans, we should acknowledge these 
+achievements and support Israel as it works toward a durable peace.
+  Mr. Speaker, in the spring of 1948, there were many who predicted 
+that the State of Israel would not even survive a month, much less 60 
+years. That it has--with its values and vision intact--is a miracle and 
+one worth celebrating.
+  Mr. AL GREEN of Texas. Mr. Speaker, I support H. Con. Res. 322, a 
+resolution recognizing the 60th anniversary of the founding of the 
+modern State of Israel, which occurred on May 14, 1948. On November 29, 
+1947, the United Nations General Assembly voted to partition the 
+British Mandate of Palestine and create a Jewish state. On May 14, 
+1948, the people of Israel proclaimed the establishment of the 
+sovereign and independent State of Israel. That date marked the success 
+of a continuous struggle for a homeland for the world's Jewish 
+population and laid the foundation for a free and independent state and 
+a symbol of joy and protection for a people that have been--for too 
+long--on the receiving end of oppression, discrimination, and 
+injustice.
+  Since its independence, Israel has bravely defended itself from 
+repeated attacks. Over the last 60 years, the modern State of Israel 
+has built a nation, forged a new and dynamic democracy, and created a 
+thriving economic, political, cultural and intellectual society. The 
+people of Israel have established a pluralistic, democratic political 
+system, including freedom of speech, association, and religion; a free 
+press; free and open elections; the rule of law; and a fully 
+independent judiciary. Their efforts and achievements have led the 
+American people to feel a strong affinity for the Israeli people based 
+on common values and shared cultural heritage.
+  This week, Jewish people around the world are celebrating the Jewish 
+holiday of Passover. Passover commemorates the Exodus from Egypt and 
+the liberation of the Israelites from slavery. It is traditional for a 
+Jewish family to gather on the first night of Passover for a special 
+dinner called a Seder. While many Jewish holidays revolve around the 
+synagogue, the Seder is conducted in the family home. It is customary 
+to invite guests, especially strangers and the needy to share with 
+their fellow human beings the story of struggle, poverty, oppression, 
+and survival. I had the pleasure of attending a Seder in Houston with 
+Pastor Kirby John Caldwell and his wife Suzette.
+  The story of Passover should have a special meaning this year to 
+those who seek to support individuals around the world who suffer from 
+poverty, slavery, and injustice. Let the celebration of the founding of 
+Israel be a symbol to the world of how a people who have experienced 
+oppression and violence can rise to be strong, free and independent.
+  I am proud to support H. Con. Res. 322, a resolution recognizing the 
+60th anniversary of the founding of the modern State of Israel.
+
+[[Page 6558]]
+
+  Ms. WASSERMAN SCHULTZ. Mr. Speaker, I rise to recognize the 60th 
+anniversary of the independence of the State of Israel and to reaffirm 
+the steadfast relationship between our two strong democratic allies.
+  May 14, 2008, marks the 60th anniversary of the establishment of the 
+sovereign and independent State of Israel. With little resources and 
+seemingly insurmountable obstacles, Israel has become a thriving and 
+prosperous democracy, and has made significant worldwide contributions 
+in technology, medicine, agriculture, and environmental innovation. 
+Additionally, eight Israelis have been awarded the Nobel Prize.
+  When we speak about Israel, too often we focus on Israel's troubles 
+and don't focus enough attention on her beauty and her spirit. But what 
+I want to focus on today is her resolve.
+  Since its independence in 1948, Israel has continually overcome every 
+conceivable roadblock placed in her way. She has beaten back hostile 
+neighbors during war and now she endures terrible economic hardship 
+from terrorist cowards who perpetrate hideous violence against innocent 
+victims.
+  As a critical partner in our fight against terror and as the only 
+democracy in the region, Israel's strength and security is paramount. 
+Therefore, I encourage this House to continue to pass bipartisan bills 
+in support of Israel and her ability to protect herself from hostile 
+neighbors.
+  The blossoming of a nation that grew from desert sand into a thriving 
+example of democracy, economic progress, and cultural diversity is a 
+magnificent achievement for this strong and vibrant country.
+  I want to congratulate Israel on all she has achieved in just 60 
+years, and I look forward to the future of this extraordinary Nation.
+  Mrs. DAVIS of California. Mr. Speaker, I rise in strong support of 
+the contribution of the State of Israel as it celebrates its 60th 
+anniversary as a vibrant and open democratic society.
+  Mr. Speaker, my colleagues have already gone into detail about the 
+accomplishments of the State of Israel, and how Israel has gone through 
+an astonishing evolution since 1948. I echo many of their remarks.
+  I had the great privilege to live and work in Israel in the mid-1960s 
+and celebrated Israel's 22nd anniversary by taking part in a 3-day walk 
+from the shores of Tel Aviv to the hills of Jerusalem. Now I marvel 
+with every visit at the extraordinary changes that have taken place.
+  With every visit to Israel and each article I read about events on 
+the ground, I am reminded of the enormous complexities and challenges 
+Israel faces--internal as well as external. So we must ask ourselves, 
+what will the future bring for Israel? How can Israel reconcile the 
+great contradictions that its victories from the 1967 war delivered and 
+address the occupation of Palestinian territories that now threatens 
+Israel's very existence as a democratic state with a Jewish majority?
+  Israel has sought peace with its neighbors and made some progress 
+toward peace with neighboring Arab states. Today, with Gaza controlled 
+by HAMAS and the West Bank by the Palestinian Authority, Israel still 
+lacks a real partner for peace. However, this does not mean efforts for 
+peace should not continue. . . . and this does not mean that the United 
+States should not play an active leadership role in the region.
+  We must continue our strong support for Israel's very right to exist 
+while continuing to bring life to the peace process between Israel and 
+its neighbors. Our assistance must be a sustained diplomatic effort, on 
+the ground in both Israel and the territories, so we can maximize every 
+effort for dialogue and concrete negotiations.
+  Addressing these concerns will not be easy, but I remain hopeful that 
+Israel, her neighbors, and the U.S. can get the peace process back on 
+track and that Israel will continue to thrive as a vibrant and open 
+democratic society.
+  I join my colleagues in recognizing Israel's 60th Anniversary.
+  Mr. BERMAN. Mr. Speaker, I yield back the balance of my time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from California (Mr. Berman) that the House suspend the rules 
+and agree to the concurrent resolution, H. Con. Res. 322.
+  The question was taken.
+  The SPEAKER pro tempore. In the opinion of the Chair, two-thirds 
+being in the affirmative, the ayes have it.
+  Mr. BERMAN. Mr. Speaker, on that I demand the yeas and nays.
+  The yeas and nays were ordered.
+  The SPEAKER pro tempore. Pursuant to clause 8 of rule XX and the 
+Chair's prior announcement, further proceedings on this motion will be 
+postponed.
+
+                          ____________________
+```
