@@ -1,0 +1,565 @@
+---
+granule: CREC-2008-04-23-pt1-PgS3306
+date: 2008-04-23
+edition: CREC
+section: SENATE
+page: S3306
+citation: 154 Cong. Rec. S3306
+---
+
+# STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS
+
+**Speaking:** Specter, Arlen (S000709) [R-PA], Snowe, Olympia J. (S000663) [R-ME]
+
+**Measures:** S. 2901, S. 2902
+
+```
+          STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS
+
+      By Mr. SPECTER:
+  S. 2901. A bill to encourage residential mortgage loan modifications 
+and workout plans, and for other purposes; to the Committee on Banking, 
+Housing, and Urban Affairs.
+  Mr. SPECTER. Mr. President, I have sought recognition to introduce a 
+bill to give mortgage servicers an incentive to work out new loan terms 
+with struggling homeowners who are falling behind in their mortgage 
+payments. It is possible to avoid foreclosure in some cases by 
+reworking the payment terms on mortgages. Investors, however, would 
+have to accept a smaller return on their investment than they otherwise 
+may have expected. As a result, businesses that service mortgage loans 
+may fear litigation from investors who are the direct or indirect 
+holders of those mortgages. This concern may be slowing the pace of or 
+stopping loan modifications. In testimony on December 6, 2007, before 
+the House Committee on Financial Services, Mark Pearce, speaking on 
+behalf of the Conference of State Bank Supervisors, testified that at a 
+meeting with the top 20 subprime servicers ``many of them brought up 
+fear of investor lawsuits'' as a hurdle to voluntary loan modification 
+efforts.
+  The loan servicers have a legal duty to the investors to maximize the 
+return on their investments. But in light of the current and changing 
+economic environment, and the new and complex financial vehicles that 
+hold mortgages, this ``duty'' is not simple or clear. This bill 
+clarifies matters by stating that, absent contract provisions to the 
+contrary, the duty is owed to the investor group as a whole, and not to 
+individual investors or classes of investors. In addition, the bill 
+clarifies that the servicer satisfies that duty by ensuring that the 
+return from a mortgage, as modified, exceeds the return that would be 
+expected from foreclosure. This may include agreeing to mortgage 
+modifications or workout plans when a homeowner is in payment default, 
+or when default or foreclosure appears imminent. Although some 
+investors may get a smaller return than they may have expected, in the 
+long run, taking these actions will be in the best interest of all 
+investors.
+
+  This bill is not a bailout. The bill honors contract provisions that 
+may be contrary to provisions in the bill. This bill would not solve 
+all of the problems we face today, but it is an important step in 
+removing barriers that may slow progress as we work to solve the home 
+mortgage crisis.
+  This bill is necessary because regulation has not kept pace with 
+innovation. Years ago, a homeowner would obtain a mortgage from a local 
+bank. If he couldn't make the mortgage payment, the bank often would be 
+willing and able to offer a workout, modifying the loan's terms to make 
+it affordable. The bank would do this because whatever amount the 
+borrower could pay would be worth more to the bank than foreclosure. 
+Foreclosure has its costs, sometimes as much as half the value of the 
+mortgage, and banks did not want to have to resell the home, so the 
+calculation was often simple. Today, however, many mortgages are often 
+bundled together with others mortgages and are sold to investment 
+banks, who in turn slice and dice the bundles to produce securities 
+that are rated by rating agencies and sold to investors all over the 
+world.
+  Investment banks that issue securities backed by mortgages typically 
+divide the securities into tranches, with some tranches having claims 
+that are senior to other more junior tranches. None of this, of course, 
+is transparent to the homeowner, and servicers face a complex 
+situation. Servicers should not have to first determine precisely how a 
+loan modification will affect the various tranches of investors and 
+then make choices among the groups. If the servicer reasonably believes 
+that a modification increases the net present value of the investment 
+as a whole, it should be able to agree to the modification.
+  This month, Federal Reserve Chairman Ben Bernanke encouraged the 
+nation's bankers to write down the principle on millions of mortgages. 
+He said banks have not made nearly enough modifications to stop 
+foreclosures. But there has been some progress. Treasury Secretary 
+Paulson reported this month that ``since July more than one million 
+struggling homeowners received a workout--either a loan modification or 
+a repayment plan that helped them avoid foreclosure.'' In January 
+alone, there were 167,000 such modifications, with the number of 
+borrowers receiving help rising faster than the number of foreclosures. 
+Congress needs to ensure that these modifications continue, and that 
+they continue at a rapid pace.
+  We are faced with a crisis caused by mortgage brokers who pushed 
+risky loans on homeowners, homeowners who assumed the value of their 
+home would always increase, conflicts of interest at credit rating 
+agencies, bond underwriters who loosened standards, lax regulators, and 
+financial institutions that ignored the risks in the instruments they 
+were buying and selling. There is plenty of blame to go around
+
+[[Page S3307]]
+
+but Congress must now take steps to prevent similar problems in the 
+future. Right now, we must do what we can to keep families in their 
+homes by encouraging the companies that service mortgages to modify 
+mortgages where it will prevent foreclosure. This bill will encourage 
+servicers to make such modifications and I urge my colleagues to 
+support it.
+  Mr. President, I ask unanimous consent that the text of the bill be 
+printed in the Record.
+  There being no objection, the text of the bill was ordered to be 
+printed in the Record, as follows:
+
+                                S. 2901
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Encouraging Mortgage 
+     Modifications Act of 2008''.
+
+     SEC. 2. FINDINGS.
+
+       Congress finds that--
+       (1) mortgage modifications often afford the best 
+     opportunity to avoid foreclosures and provide long term, 
+     sustainable solutions for American homeowners;
+       (2) reaching mortgage modification agreements with 
+     homeowners has been unacceptably slow and foreclosure rates 
+     continue to rise, with the number of homeowners forced into 
+     foreclosure double the number who receive modifications or 
+     repayment plans;
+       (3) servicers have an obligation to protect the interests 
+     of investors when determining whether to offer a modification 
+     or repayment plan;
+       (4) the best course of action for the investor pool as a 
+     whole may disadvantage the interests of individual classes of 
+     investors;
+       (5) servicers have expressed concern that investor classes 
+     that are disproportionately disadvantaged by a modification 
+     or repayment plan may seek to hold the servicer liable;
+       (6) without liability protection, many servicers will not 
+     be willing to take on the risk associated with approving a 
+     mortgage modification or repayment plan, and instead, they 
+     will eventually pursue foreclosure even though foreclosure 
+     costs can equal 50 percent or more of mortgage value; and
+       (7) the net present value of a modified mortgage loan will 
+     almost always exceed the amount recouped by allowing the home 
+     to go into foreclosure.
+
+     SEC. 3. LEGAL SAFE HARBOR FOR ENTERING INTO CERTAIN LOAN 
+                   MODIFICATIONS OR WORKOUT PLANS.
+
+       Section 6 of the Real Estate Settlement Procedures Act of 
+     1974 (12 U.S.C. 2605) is amended--
+       (1) by redesignating subsections (i) and (j) as subsections 
+     (j) and (k), respectively; and
+       (2) by inserting after subsection (h) the following:
+       ``(i) Duty of Servicers Regarding Certain Loan 
+     Modifications or Workout Plans.--
+       ``(1) In general.--Notwithstanding any other provision of 
+     law, absent specific contractual provisions to the contrary, 
+     a servicer of pooled qualified residential mortgages--
+       ``(A) owes any duty to determine if the net present value 
+     of the payments on the loan, as modified, is likely to be 
+     greater than the anticipated net recovery that would result 
+     from foreclosure to all investors and parties having a direct 
+     or indirect interest in the pooled loans or securitization 
+     vehicle, but not to any individual party or group of parties; 
+     and
+       ``(B) acts in the best interests of all such investors and 
+     parties, if the servicer agrees to or implements a qualified 
+     loan modification or workout plan for a qualified residential 
+     mortgage, or if, and only if, such efforts are unsuccessful 
+     or infeasible, takes other reasonable loss mitigation 
+     actions, including accepting partial payments or short sale 
+     of the property; and
+       ``(C) if the servicer acts in a manner consistent with the 
+     duty set forth in subparagraphs (A) and (B), shall not be 
+     liable under any law or regulation of the United States, any 
+     State or any political subdivision of any State, for entering 
+     into a qualified loan modification or workout plan in any 
+     action filed by or on behalf of any person--
+       ``(i) based on the person's ownership of any interest in a 
+     residential mortgage, a pool of residential mortgage loans, 
+     or a securitization vehicle, that distributes payments out of 
+     the principal, interest, or other payment on loans in the 
+     pool;
+       ``(ii) based on the person's obligation to make payments 
+     determined in reference to any loan or interest referred to 
+     in clause (i); or
+       ``(iii) based on the person's obligation to insure any loan 
+     or any interest referred to in clause (i).
+       ``(2) Definitions.--As used in this subsection--
+       ``(A) the term `qualified loan modification or workout 
+     plan' means a contract, modification, or plan relating to a 
+     qualified residential mortgage loan consummated on or after 
+     January 1, 2004, with respect to which--
+       ``(i) payment default on the loan or loans has occurred, is 
+     imminent, or is reasonably foreseeable;
+       ``(ii) the dwelling securing the loan or loans is the 
+     primary residence of the owner;
+       ``(iii) the servicer reasonably believes that the 
+     anticipated recovery under the loan modification or workout 
+     plan will exceed the anticipated recovery through 
+     foreclosure, on a net present value basis;
+       ``(iv) the effective period runs for at least 5 years from 
+     the date of adoption of the plan, or until the borrower sells 
+     or refinances the property, if that occurs earlier; and
+       ``(v) the borrower is not required to pay additional fees 
+     to the servicer;
+       ``(B) the term `qualified residential mortgage' means a 
+     consumer credit transaction or loan that is secured by the 
+     consumer's principal dwelling;
+       ``(C) the term `securitization vehicle' means a trust, 
+     corporation, partnership, limited liability entity, special 
+     purpose entity, or other structure that is the issuer, or is 
+     created by the issuer, of mortgage pass-through certificates, 
+     participation certificates, mortgage-backed securities, or 
+     other similar securities backed by a pool of assets that 
+     includes residential mortgage loans; and
+       ``(D) the term `servicer'--
+       ``(i) means the person responsible for servicing of a loan 
+     (including the person who makes or holds a loan, if such 
+     person also services the loan); and
+       ``(ii) includes the entities listed in subparagraphs (A) 
+     and (B) of subsection (j)(2).
+       ``(3) Effective period.--This subsection shall apply only 
+     with respect to qualified loan modification or workout plans 
+     initiated during the 6-month period beginning on the date of 
+     enactment of this subsection.
+       ``(4) Rule of construction.--Nothing in this subsection may 
+     be construed to limit the ability of a servicer to enter into 
+     a loan modification or workout plan other than a qualified 
+     loan modification or workout plan covered by this 
+     subsection.''.
+                                 ______
+                                 
+      By Ms. SNOWE (for herself and Mr. Pryor):
+  S. 2902. A bill to ensure the independent operation of the Office of 
+Advocacy of the Small Business Administration, ensure complete analysis 
+of potential impacts on small entities of rules, and for other 
+purposes; to the Committee on Health, Education, Labor, and Pensions.
+  Ms. SNOWE. Mr. President, I rise today with my colleague Senator 
+Pryor, during National Small Business Week, to introduce the 
+Independent Office of Advocacy and Small Business Regulatory Reform Act 
+of 2008. This bipartisan measure would ensure the independence of the 
+Small Business Administration, SBA, Office of Advocacy, and provide 
+targeted small business regulatory reforms that would strengthen the 
+Office of Advocacy's voice in protecting our small businesses. Our bill 
+is supported by the SBA Office of Advocacy and National Ombudsman, as 
+well as the National Federation of Independent Business and the U.S. 
+Chamber of Commerce.
+  As Ranking Member of the Senate Committee on Small Business and 
+Entrepreneurship, I recognize that the SBA Office of Advocacy is, 
+regrettably, one of our Government's best kept secrets, and in many 
+cases, the best hope for small businesses faced with overly burdensome 
+Federal regulations.
+  Established in 1976, the Office of Advocacy, headed by the Chief 
+Counsel for Advocacy, is a unique office within the Federal Government. 
+First, the Office of Advocacy is the ``Regulatory Watchdog'' for small 
+businesses. In this capacity, it represents small businesses before the 
+Federal Government in regulatory matters--taking advantage of its 
+statutorily granted independence to argue against Federal regulatory 
+actions that impose too great a burden on small businesses for too 
+little benefit--and to encourage Federal agencies to consider less 
+costly regulatory alternatives. Second, it conducts valuable research 
+to further our understanding of the importance of small businesses to 
+our economy and the forces that have an effect on them.
+  The SBA Office of Advocacy is part of the SBA, and the Chief Counsel 
+for Advocacy is nominated by the President and confirmed by the Senate. 
+At the same time, the office is also intended to be the ``independent'' 
+voice for small business within the Federal Government. It is charged 
+with the duty of representing the views and interests of small 
+businesses before other Federal agencies, and developing proposals for 
+changing government policies to help small businesses. These roles can 
+sometimes come into conflict.
+  The Independent Office of Advocacy and Small Business Regulatory 
+Reform Act of 2008 resolves such conflicts in favor of the small 
+businesses that rely on the Chief Counsel and the Office of Advocacy to 
+be a fully independent advocate within the executive branch. The bill 
+would help to reinforce a clear mandate that the Office of Advocacy 
+must fight on behalf of small businesses, regardless of the position 
+taken
+
+[[Page S3308]]
+
+on critical issues by the administration.
+  Funding for the Office of Advocacy currently comes from the 
+``Salaries and Expense Account'' of the SBA's budget. Staffing is 
+allocated by the SBA administrator to the Office of Advocacy from the 
+overall staff allocation for the Agency. In 1990, there were 70 full-
+time employees working on behalf of small businesses in the Office of 
+Advocacy. The current allocation of staff is 48. The independence and 
+effectiveness of the office is potentially diminished when the Office 
+of Advocacy staff is reduced, at the discretion of the administrator.
+  To address this problem, the Independent Office of Advocacy and Small 
+Business Regulatory Reform Act of 2008 builds a firewall to minimize 
+political intrusion into the management of day-to-day operations of the 
+Office of Advocacy similar to the one that protects Inspectors General 
+in other agencies. The bill would require the Federal budget to include 
+a separate account for the Office of Advocacy drawn directly from 
+General Fund of the Treasury. No longer would its funds come from the 
+general operating account of the SBA. This will free the Chief Counsel 
+for Advocacy from having to seek approval from the SBA administrator to 
+hire staff for the Office of Advocacy.
+  The bill would leave unchanged current law that allows the Chief 
+Counsel to hire individuals critical to the mission of the Office of 
+Advocacy without going through the normal competitive procedures 
+directed by Federal law and the Office of Personnel Management, OPM. 
+This long-standing special hiring authority, which is limited only to 
+employees within the Office of Advocacy, is beneficial because it 
+allows the Chief Counsel to hire quickly those persons who can best 
+assist the Office in responding to changing issues and problems 
+confronting small businesses.
+  In addition to protecting the Office of Advocacy's independence, this 
+bill also provides targeted small business regulatory reform. As the 
+Ranking Member of the Small Business Committee, I have long fought to 
+ensure that small businesses across the country are treated fairly by 
+the Federal Government. Unfortunately, in far too many cases, Federal 
+agencies promulgate rules and regulations without adequately addressing 
+the economic impacts on small businesses.
+  The disproportionate burden that Federal regulations often place on 
+our small businesses cannot be overemphasized. Research published by 
+the Office of Advocacy indicates that small businesses spend an 
+astounding 8 billion hours each year complying with government rules 
+and regulations. More specifically, the smallest firms with fewer than 
+20 employees, spend approximately 45 percent more per employee than 
+larger firms to comply with Federal regulations.
+  The Regulatory Flexibility Act (RFA) recognizes this situation, as it 
+requires Federal Government agencies to propose rules that keep the 
+regulatory burden at a minimum on small businesses. Enacted in 1980, 
+the RFA requires Federal agencies to analyze the economic impact of 
+proposed regulations when there is likely to be a significant economic 
+impact on a substantial number of small entities. In 1996, I was 
+pleased to support, along with all of my colleagues, the Small Business 
+Regulatory Enforcement Fairness Act, (SBREFA), which amended the RFA. 
+The intent of SBREFA was to further curb the impact of burdensome or 
+duplicative regulations on small businesses, by clarifying key RFA 
+requirements.
+  The Independent Office of Advocacy and Small Business Regulatory 
+Reform Act of 2008 would further improve the Regulatory Flexibility Act 
+by requiring Federal agencies to consider and specifically respond to 
+comments provided by Office of Advocacy. This critical change would 
+ensure that agencies give the proper deference to the Office of 
+Advocacy, and to the comments and concerns of small businesses. This is 
+a straightforward and simple reform that could have major benefits.
+  Finally, our proposal would also clarify that Federal agencies are 
+required to provide pertinent information to the SBA Ombudsman upon 
+request.
+  This noncontroversial, bipartisan legislation is absolutely 
+necessary. I urge my colleagues to support this bill so we can ensure 
+the complete independence of the Office of Advocacy in all matters, and 
+provide our Nation's small businesses and their employees with much 
+needed targeted regulatory relief.
+  Mr. President, I ask unanimous consent that the text of the bill be 
+printed in the Record.
+  There being no objection, the text of the bill was ordered to be 
+printed in the Record, as follows:
+
+                                S. 2902
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Independent Office of 
+     Advocacy and Small Business Regulatory Reform Act of 2008''.
+
+     SEC. 2. PURPOSES.
+
+       The purposes of this Act are--
+       (1) to ensure that the Office of Advocacy of the Small 
+     Business Administration (referred to in this section as the 
+     ``Office'') has adequate financial resources to advocate for 
+     and on behalf of small business concerns;
+       (2) to provide a separate authorization of appropriations 
+     for the Office; and
+       (3) to enhance the role of the Office pursuant to chapter 6 
+     of title 5, United States Code.
+
+     SEC. 3. OFFICE OF ADVOCACY.
+
+       (a) In General.--Section 203 of Public Law 94-305 (15 
+     U.S.C. 634c) is amended--
+       (1) in paragraph (4), by striking ``and'' at the end;
+       (2) in paragraph (5), by striking the period and inserting 
+     ``; and''; and
+       (3) by adding at the end the following:
+       ``(6) carry out the responsibilities of the Office of 
+     Advocacy under chapter 6 of title 5, United States Code.''.
+       (b) Budgetary Line Item and Authorization of 
+     Appropriations.--Title II of Public Law 94-305 (15 U.S.C. 
+     634a et seq.) is amended by striking section 207 and 
+     inserting the following:
+
+     ``SEC. 207. BUDGETARY LINE ITEM AND AUTHORIZATION OF 
+                   APPROPRIATIONS.
+
+       ``(a) Appropriation Requests.--Each budget of the United 
+     States Government submitted by the President under section 
+     1105 of title 31, United States Code, shall include a 
+     separate statement of the amount of appropriations requested 
+     for the Office of Advocacy of the Small Business 
+     Administration, which shall be designated in a separate 
+     account in the General Fund of the Treasury.
+       ``(b) Administrative Operations.--The Administrator of the 
+     Small Business Administration shall provide the Office of 
+     Advocacy with appropriate and adequate office space at 
+     central and field office locations, together with such 
+     equipment, operating budget, and communications facilities 
+     and services as may be necessary, and shall provide necessary 
+     maintenance services for such offices and the equipment and 
+     facilities located in such offices.
+       ``(c) Authorization of Appropriations.--There are 
+     authorized to be appropriated such sums as are necessary to 
+     carry out this title. Any amount appropriated under this 
+     subsection shall remain available, without fiscal year 
+     limitation, until expended.''.
+
+     SEC. 4. REGULATORY FLEXIBILITY REFORM FOR SMALL BUSINESSES.
+
+       (a) Requirements Providing for More Detailed Analyses.--
+       (1) Initial regulatory flexibility analysis.--Section 603 
+     of title 5, United States Code, is amended by adding at the 
+     end the following:
+       ``(d) An agency shall notify the Chief Counsel for Advocacy 
+     of the Small Business Administration of any draft rules that 
+     may have a significant economic impact on a substantial 
+     number of small entities either--
+       ``(1) when the agency submits a draft rule to the Office of 
+     Information and Regulatory Affairs at the Office of 
+     Management and Budget under Executive Order 12866, if that 
+     order requires such submission; or
+       ``(2) if no submission to the Office of Information and 
+     Regulatory Affairs is so required, at a reasonable time prior 
+     to publication of the rule by the agency.''.
+       (2) Final regulatory flexibility analysis.--
+       (A) Inclusion of response to comments on certification of 
+     proposed rule.--Section 604(a)(2) of title 5, United States 
+     Code, is amended by inserting ``(or certification of the 
+     proposed rule under section 605(b))'' after ``initial 
+     regulatory flexibility analysis''.
+       (B) Inclusion of response to comments filed by chief 
+     counsel for advocacy.--Section 604(a) of title 5, United 
+     States Code, is amended--
+       (i) by redesignating paragraphs (3), (4), and (5) as 
+     paragraphs (4), (5), and (6), respectively; and
+       (ii) by inserting after paragraph (2) the following:
+       ``(3) the response of the agency to any comments filed by 
+     the Chief Counsel for Advocacy of the Small Business 
+     Administration in response to the proposed rule, and a 
+     detailed statement of any changes made to the proposed rule 
+     in the final rule as a result of such comments;''.
+       (C) Publication of analyses on website.--
+       (i) Initial regulatory flexibility analysis.--Section 603 
+     of title 5, United States Code, as amended by this Act, is 
+     amended by adding at the end the following:
+       ``(e) An agency shall publish any initial regulatory 
+     flexibility analysis required under this section on the 
+     website of the agency.''.
+
+[[Page S3309]]
+
+       (ii) Final regulatory flexibility analysis.--Section 604(b) 
+     of title 5, United States Code, is amended to read as 
+     follows:
+       ``(b) The agency shall make copies of the final regulatory 
+     flexibility analysis available to the public, including 
+     placement of the entire analysis on the website, and shall 
+     publish in the Federal Register the final regulatory 
+     flexibility analysis, or a summary thereof that includes the 
+     telephone number, mailing address, and link to the website 
+     where the complete analysis may be obtained.''.
+       (3) Cross-references to other analyses.--Section 605(a) of 
+     title 5, United States Code, is amended to read as follows:
+       ``(a) A Federal agency shall be treated as satisfying any 
+     requirement regarding the content of an agenda or regulatory 
+     flexibility analysis under section 602, 603, or 604, if such 
+     agency provides in such agenda or analysis a cross-reference 
+     to the specific portion of another agenda or analysis that is 
+     required by any other law and which satisfies such 
+     requirement.''.
+       (4) Certifications.--The second sentence of section 605(b) 
+     of title 5, United States Code, is amended by inserting 
+     ``detailed'' before ``statement''.
+       (5) Quantification requirements.--Section 607 of title 5, 
+     United States Code, is amended to read as follows:
+
+     ``Sec. 607. Quantification requirements
+
+       ``In complying with sections 603 and 604, an agency shall 
+     provide--
+       ``(1) a quantifiable or numerical description of the 
+     effects of the proposed or final rule and alternatives to the 
+     proposed or final rule; or
+       ``(2) a more general descriptive statement and a detailed 
+     statement explaining why quantification is not practicable or 
+     reliable.''.
+       (b) Technical and Conforming Amendments.--
+       (1) Heading.--The heading of section 605 of title 5, United 
+     States Code, is amended to read as follows:
+
+     ``Sec. 605. Incorporations by reference and certifications''.
+
+       (2) Table of sections.--The table of sections for chapter 6 
+     of title 5, United States Code, is amended--
+       (A) by striking the item relating to section 605 and 
+     inserting the following:
+
+``605. Incorporations by reference and certifications.''; and
+
+       (B) by striking the item relating to section 607 and 
+     inserting the following:
+
+``607. Quantification requirements.''.
+
+     SEC. 5. OVERSIGHT OF REGULATORY ENFORCEMENT.
+
+       Section 30 of the Small Business Act (15 U.S.C. 657) is 
+     amended--
+       (1) in subsection (b)--
+       (A) in paragraph (1)--
+       (i) by inserting ``(A)'' before ``Not later than'';
+       (ii) by striking ``Nothing in this section is intended to 
+     replace'' and inserting the following:
+       ``(B) Nothing in this section--
+       ``(i) is intended to replace'';
+       (iii) by striking the period at the end and inserting ``; 
+     or''; and
+       (iv) by adding at the end the following:
+       ``(ii) may be construed to exempt an agency from providing 
+     relevant information to the Ombudsman upon request.'';
+       (B) in paragraph (2)--
+       (i) in subparagraph (A)--
+
+       (I) by inserting ``(i)'' before ``work with each agency'';
+       (II) by inserting ``fine, forfeiture,'' before ``or other 
+     enforcement related''; and
+       (III) by adding at the end the following: ``or
+
+       ``(ii) refer any substantiated comment to the affected 
+     agency for response to the Ombudsman;''; and
+       (ii) by amending subparagraph (C) to read as follows:
+       ``(C) based on cases that are substantiated by the 
+     Ombudsman, annually submit to Congress and affected agencies 
+     a report evaluating the enforcement activities of agency 
+     personnel, including--
+       ``(i) ratings of the responsiveness to small business 
+     concerns; and
+       ``(ii) a description of the policies, actions, and 
+     activities impacting small business concerns described in 
+     subparagraph (A), for each Federal agency and regional or 
+     program office of each Federal agency, as determined 
+     appropriate by the Ombudsman.'';
+       (2) in subsection (d)(1), by inserting ``, in coordination 
+     with the Ombudsman,'' after ``hold such hearings''; and
+       (3) by adding at the end the following:
+       ``(e) The Board shall coordinate with the Ombudsman 
+     regarding any official correspondence to be sent by the 
+     Board.''.
+
+                          ____________________
+```
