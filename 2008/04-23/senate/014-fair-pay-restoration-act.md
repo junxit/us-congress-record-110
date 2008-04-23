@@ -1,0 +1,67 @@
+---
+granule: CRECB-2008-pt5-Pg6633-2
+date: 2008-04-23
+edition: CRECB
+section: SENATE
+page: 6633
+---
+
+# FAIR PAY RESTORATION ACT
+
+```
+                        FAIR PAY RESTORATION ACT
+
+  Ms. MIKULSKI. Madam President, I am deeply disappointed about the 
+fact that we did not get the necessary votes to move the Fair Pay 
+Restoration Act forward. We fell three votes short of what we needed to 
+do to get the job done. This fight for equal pay for equal comparable 
+work, however, will go on.
+  As the senior woman in the Senate, I take the floor tonight to say we 
+will fight on. This was the first step forward. It will not be the only 
+step we will take. But what we will not tolerate is another step 
+backward.
+  We are going to continue to bring this fight. We will look for 
+opportunities to bring this legislation back to the Senate floor. What 
+is it we want to do? It is to end discrimination against women in their 
+personal paychecks. In order to end that, we need to change the 
+lawbooks so they can experience fairness in their personal checkbook.
+  This is the year 2008. You would think that in the year 2008, on the 
+40th anniversary of the passage of so many historic civil rights bills, 
+we would finally have legislation that would guarantee fairness in 
+terms of pay.
+  So we regret we didn't get the votes, but we will move on. Many 
+people have been mesmerized by the John Adams miniseries. I like John 
+Adams, but I really liked Abigail. While John Adams was down in 
+Philadelphia with Thomas Jefferson, Benjamin Franklin, and a bunch of 
+the other guys writing the Declaration of Independence and laying the 
+groundwork for the Constitution and inventing America, Abigail Adams 
+wrote her husband from the farm--while raising the four children and 
+keeping the family going. She said: As you write those documents, do 
+not forget the ladies, for we will foment a revolution of our own.
+  I stand here today to say: Do not forget the ladies because we will 
+foment a revolution of our own. I was here in
+
+[[Page 6634]]
+
+1992 when we didn't get it on Anita Hill. I am here in 2008 when we 
+didn't get it in pay equity.
+  In 1992, we had a revolution that went on. We got six new women in 
+the Senate. There are now 16 of us. The majority of us voted for this 
+bill. I am telling you we are ready for an ``Abigail Adams'' effort 
+here. If they don't want to put us in the lawbooks so we can have 
+fairness in the checkbooks, we will do a revolution. What do I mean by 
+that? We will take it out to the voting booths. We will go on the 
+Internet. We are going to go on TV, on the blogs. And we are going to 
+tell everybody about this ignominious vote that occurred. When we tell 
+it, we are going to say: Call to arms, women of America, put your 
+lipstick on, square your shoulders, suit up, we have a hell of a fight 
+coming, but, boy, are we ready. The revolution starts tonight.
+  Madam President, I suggest the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The assistant legislative clerk proceeded to call the roll.
+  Mr. SALAZAR. Madam President, I ask unanimous consent that the order 
+for the quorum call be rescinded.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```

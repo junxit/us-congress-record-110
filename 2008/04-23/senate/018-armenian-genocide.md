@@ -1,0 +1,70 @@
+---
+granule: CRECB-2008-pt5-Pg6637
+date: 2008-04-23
+edition: CRECB
+section: SENATE
+page: 6637
+---
+
+# ARMENIAN GENOCIDE
+
+```
+                           ARMENIAN GENOCIDE
+
+  Mrs. BOXER. Mr. President, I take this opportunity today to solemnly 
+observe the 93rd anniversary of the Armenian Genocide.
+  The Armenian genocide was the first genocide of the 20th century. 
+From 1915 until 1923, 1.5 million Armenians were brutally killed by the 
+Ottoman Turks in a systematic effort to eradicate the Armenian people. 
+There were unbearable acts of torture; men were separated from their 
+families and murdered; women and children were put on a forced march 
+across the Syrian desert without food or water.
+  Henry Morgenthau, the U.S. Ambassador to the Ottoman Empire from 1913 
+to 1916, recalled:
+
+       When the Turkish authorities gave the orders for these 
+     deportations, they were merely giving the death warrant to a 
+     whole race; they understood this well, and, in their 
+     conversations with me, they made no particular attempt to 
+     conceal the fact . . . I am confident that the whole history 
+     of the human race contains no such horrible episode as this. 
+     The great massacres and persecutions of the past seem almost 
+     insignificant when compared to the sufferings of the Armenian 
+     race in 1915.
+
+  Tragically, 1915 was just the beginning. We saw the horrors of 
+genocide in World War II when Jews were subjected to systematic 
+extermination at the hands of Adolf Hitler and his followers. Indeed, 
+Hitler remarked at the outset of this unbridled evil, ``Who, after all, 
+speaks today of the annihilation of the Armenians?'' Unfortunately, the 
+phrase ``never again'' turned out to be a hollow slogan. In the later 
+half of the last century, countries like Cambodia and Rwanda were 
+ravaged while the world was silent. And even now, in this new century, 
+Darfur is the latest place to experience such brutality and inhumanity 
+as the world stands idly by, either incapable or unwilling to do what 
+is necessary to stop the devastation and murder.
+  Today, the Turkish Government denies what happened in the dying days 
+of the Ottoman Empire and thus this scar on history cannot be healed 
+until history is accurately spoken, written, and recalled. These are 
+lessons that must be told and repeated to each and every generation.
+  In order for democracy and human rights to flourish, we must not 
+support efforts to rewrite and deny history. In the United States, we 
+strive to make human rights a fundamental component of our democracy. 
+It is long overdue for our Nation to demand that the truth be told. We 
+must recognize the Armenian genocide in the name of democracy, 
+fairness, and human rights.
+  To that end, I am proud to be an original cosponsor of Senator 
+Richard Durbin's S. Res. 106, calling on the President to accurately 
+characterize the Armenian Genocide in his annual message around April 
+24 and to ensure that the foreign policy of the United States reflects 
+appropriate understanding and sensitivity concerning issues related to 
+human rights, ethnic cleansing, and genocide documented in the United 
+States record relating to the Armenian Genocide.
+  It is important that we recognize the Armenian Genocide while its 
+survivors are still with us to tell their stories. We must recognize 
+the genocide for the survivors. We must recognize the genocide because 
+it's the right thing to do. We must recognize the Armenian Genocide to 
+help shed light on the darkness and move toward a more humane world.
+
+                          ____________________
+```
