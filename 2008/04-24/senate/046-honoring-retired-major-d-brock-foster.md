@@ -1,0 +1,43 @@
+---
+granule: CREC-2008-04-24-pt1-PgS3396
+date: 2008-04-24
+edition: CREC
+section: SENATE
+page: S3396
+citation: 154 Cong. Rec. S3396
+---
+
+# HONORING RETIRED MAJOR D. BROCK FOSTER
+
+**Speaking:** Brown, Sherrod (B000944) [D-OH]
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+                 HONORING RETIRED MAJOR D. BROCK FOSTER
+
+● Mr. BROWN. Mr. President, I wish to honor the service of a 
+great American--U.S. Air Force retired MAJ D. Brock Foster.
+  A native of Ohio who served his country in World War II, Korea, and 
+Vietnam, Major Foster demonstrated uncommon courage while flying as an 
+A-1 Skyraider during a rescue mission near the Ho Chi Minh Trail on 
+June 28, 1968. At great risk to his personal safety, Major Foster 
+remained in the rescue area amid heavy antiaircraft artillery and enemy 
+fire to make repeated passes to protect the rescue helicopter. Major 
+Foster's selfless heroism enabled the successful rescue of the Navy 
+pilot who had been encircled by hostile forces for more than 39 hours.
+  Nearly 40 years later, Major Foster is receiving long overdue 
+recognition for his sacrifice and valor and will be awarded the 
+Distinguished Flying Cross. Given to those who distinguish themselves 
+in aerial flight by taking heroic actions above and beyond the call of 
+duty, the Distinguished Flying Cross is a fitting recognition of Major 
+Foster's unwavering dedication to the service of the United States.
+  I am proud to honor this great Ohioan. His heroic actions and 
+dedication to the U.S. Air Force and his fellow servicemen are an 
+inspiration to all Americans.●
+
+                          ____________________
+```

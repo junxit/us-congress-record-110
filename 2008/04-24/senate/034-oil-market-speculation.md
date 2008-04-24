@@ -1,0 +1,155 @@
+---
+granule: CREC-2008-04-24-pt1-PgS3389-2
+date: 2008-04-24
+edition: CREC
+section: SENATE
+page: S3389
+citation: 154 Cong. Rec. S3389
+---
+
+# OIL MARKET SPECULATION
+
+**Speaking:** Dorgan, Byron L. (D000432) [D-ND], Nelson, Bill (N000032) [D-FL]
+
+```
+                         OIL MARKET SPECULATION
+
+  Mr. DORGAN. Mr. President, the final matter I want to talk about 
+today is this issue of the price of oil and the price of gasoline and 
+excessive speculation. There has been some discussion today about this, 
+and I want to make this point.
+  We have seen a dramatic runup in the price of oil and, therefore, the 
+price of gasoline. There is no justification with respect to the 
+fundamentals of oil and supply and demand for that. There is no 
+justification for it at all, but something has changed in this country. 
+What has changed is the futures market has become an orgy of 
+speculation.
+  Let me quote a man named Mr. Fadel Gheit, a top analyst from 
+Oppenheimer and Co. He has been in this business for 30 years. He said 
+this a couple of months ago.
+
+       There is absolutely no shortage of oil. I'm absolutely 
+     convinced that oil prices shouldn't be a dime above $55 a 
+     barrel. Oil speculators include the largest financial 
+     institutions in the world. I call it the world's largest 
+     gambling hall. It's open 24/7. It's totally unregulated. This 
+     is like a highway with no cops and no speed limit and 
+     everybody's going 120 miles per hour.''
+
+  This is happening in the futures market. You need a futures market to 
+hedge. You need it for liquidity. I understand that. What has happened 
+to the futures market is pretty bizarre. We now see on the futures 
+market 20 times the amount of oil bought and sold every day than is 
+used every day. Twenty times more is bought and sold than is used. For 
+the first time, we see hedge funds up to their neck in the futures 
+market. Is it because hedge funds love oil? No, they don't know 
+anything about oil. Do they want oil delivered to their offices? Do 
+they want oil delivered to their homes? No. They never want to own any 
+oil. They want to buy things they will never get from people who never 
+had it. That is the way the futures market works. These people are 
+speculating. Hedge funds are neck deep speculating in oil futures, and 
+for the first time investment banks have joined them. So you now have 
+big investment banks and big hedge funds with a presence in the futures 
+market like never before. They have all these commodity corners in 
+their company now, and they are hiring more, and they are speculating 
+at an unbelievable rate.
+  I am told, and I have read, that investment banks for the first time 
+are
+
+[[Page S3390]]
+
+even buying oil storage capability to buy oil and take it off the 
+market. Why? To wait until it increases. So now we have oil upwards to 
+$120 a barrel because we have so much rampant speculation or outright 
+gambling in these markets.
+  What does that mean for the folks driving a Chevrolet down the road, 
+getting low on gas and trying to figure out how to get to a gas pump, 
+and how to pay the bill when they get there? Well, the folks in the 
+hedge funds, these folks in the investment banks on these commodity 
+markets that are engaged in the 24/7 casinos, are going to the bank. 
+Man, they are going to the bank big time. I am talking billions and 
+billions of dollars. It is pretty unbelievable. When you have a person 
+drive up to the gas pump and fill that car with gas, a portion of that 
+money now goes to this carnival of speculation in the futures market to 
+reward the speculators. A portion of it, of course, goes to the OPEC 
+cartel too. These are folks who sit around in a closed room with a 
+locked door and make decisions about price and about production.
+  I might add, while I am at it, that Saudi Arabia, by the way, has 
+800,000 barrels a day less production on the market than they did 2 
+years ago--800,000 barrels a day, every day. That means a lot in terms 
+of what might happen in that market.
+  So we have a lot of things going on here. What should we do about it? 
+Well, in addition to all of that, the Bush administration is deciding 
+they want to stick, and they are sticking, 60,000 to 70,000 barrels of 
+oil underground every single day in something called the Strategic 
+Petroleum Reserve. We have an SPR to save for a national emergency. 
+Well, they are buying oil at $118 a barrel coming off the Gulf of 
+Mexico as a royalty in kind transfers. They are taking $118-a-barrel 
+oil and putting it in the ground, 60,000 to 70,000 barrels a day.
+  With oil at record highs, it is Byzantine to see this administration 
+saying we have to do more to fill the SPR. This is at a time when the 
+Strategic Reserve is 97 percent filled. So they take oil out of the 
+supply, which puts upward pressure on oil and gas.
+  When the supplemental appropriations bill comes to the floor of the 
+Senate, I intend to offer that amendment as well, to stop putting oil 
+underground in SPR when oil is above $75 a barrel. I mean, this doesn't 
+take a reservoir of common sense. It just takes a few grains of common 
+sense from somebody who might actually help to fix this problem.
+  What I also want to do is to increase the margin requirements on the 
+exchange. If you buy stock on margin, you pay a 50-percent margin 
+requirement to buy stock. If you want to control oil by going into the 
+futures market for oil, you pay 5 to 7 percent. You pay a 50-percent 
+margin for stock, but 5 to 7 percent for oil. If you want to control 
+$100,000 worth of oil, it will cost you $5,000 to $7,000. That doesn't 
+make any sense.
+  That encourages speculation. That encourages the speculation that 
+pushes the runup of these prices. I believe the margin requirement 
+ought to be at least 25 percent at this point, during this period of 
+aggressive speculation. So I am putting together a piece of legislation 
+on that as well.
+  You know, I want this country to develop an energy policy that makes 
+us much less dependent on foreign sources of oil, engages in much more 
+conservation, and much more efficiency. We should produce more. I am 
+one of the four Senators who helped pass the legislation finally that 
+opened up Lease 181 in the Gulf of Mexico in 2006. So I believe in 
+additional production. I believe we ought to conserve more. I believe 
+we need more efficiency, and I believe we need to pay much more 
+attention to renewable energy.
+
+  All those things are important. All of them are important. But right 
+at the moment we have a circumstance where we have an administration 
+sticking oil under the ground at the wrong time, which puts upward 
+pressure on oil and gas. We also have hedge funds and investment banks 
+hip deep in the futures market speculating and making billions of 
+dollars on speculating. At the same time, they are driving up the price 
+of oil and gas for American families and doing great damage to this 
+country's economy.
+  It is not just the family, and it is not just the business. It is not 
+just the truckers and not just the airlines that are hurt. This country 
+is experiencing significant economic damage as a result of the runup in 
+these prices. I think there are reasons for us to come to the floor on 
+an urgent basis and take obvious steps to deal with it. I have 
+mentioned several, and there are more. But I only want to make the 
+point that this is not some passing fancy that is going to be a magnet 
+for a lot of discussion. This is a very serious, real problem that is 
+doing significant damage to this country's economy.
+  There is a lot to do next week and the week after, and I will be 
+introducing some additional legislation. I will be anxiously awaiting 
+the appropriations supplemental legislation. When the emergency 
+supplemental appropriations bill comes to this floor, either in the 
+Appropriations Committee or on this floor, we must be given the 
+opportunity--and will be given the opportunity--to offer the kind of 
+amendments I have suggested. This will include an amendment that stops 
+the putting of oil underground in the SPR at a time when oil is priced 
+at $118 a barrel. This is just one of the obvious things we can do to 
+stop penalizing American consumers and damaging this country's economy.
+  Mr. President, with that, I yield the floor, and I suggest the 
+absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The legislative clerk proceeded to call the roll.
+  Mr. NELSON of Florida. Mr. President, I ask unanimous consent the 
+quorum call be rescinded.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```

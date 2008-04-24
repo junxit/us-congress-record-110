@@ -1,0 +1,83 @@
+---
+granule: CREC-2008-04-24-pt1-PgS3376
+date: 2008-04-24
+edition: CREC
+section: SENATE
+page: S3376
+citation: 154 Cong. Rec. S3376
+---
+
+# ALLEGED FILIBUSTERS
+
+**Speaking:** Hatch, Orrin G. (H000338) [R-UT]
+
+```
+                          ALLEGED FILIBUSTERS
+
+  Mr. HATCH. Mr. President, I have a great deal of appreciation for the 
+distinguished Senator from Michigan. I know how sincere she is, and I 
+know she feels very deeply about what she has just spoken. But this 
+business of 68 clotures is hitting below the belt.
+  Time after time, the majority leader has filed bills--many of which 
+have not even gone through committee, have not had 1 day of hearing, 
+some of which have been filed for political purposes just to create 
+tough votes--and then filed cloture immediately.
+  In the old days--I have been here almost 32 years--nobody did that. 
+Then they call it a filibuster when they are the ones who filed cloture 
+just for the purpose of being able to say there is a filibuster.
+  Almost invariably the bills that are good go through. Republicans 
+will object sometimes because we want to be able to offer at least 
+germane amendments. In this body, we have, in the past, even been able 
+to offer nongermane amendments. But that is a no-no right now because 
+the majority is concerned some will bring up amendments that might be 
+embarrassing to the majority.
+  Well, having talked about ``embarrassing to the majority,'' why do 
+you think the Ledbetter case was brought up through this statute? First 
+of all, it did not have 1 day of hearings, as far as I know. It 
+certainly was not put through a committee. It was brought up under rule 
+XIV--which is a right to do--and then the bill itself was classically 
+poorly written.
+  The fact is, this bill would have done away with the statute of 
+limitations and made it almost impossible for any business to defend 
+itself even in class action lawsuits. But it was brought primarily 
+because the friends in some areas of the plaintiffs' bar wanted it 
+brought so they could bring more suits in our society.
+  But to basically do away with the statute of limitations so that you 
+could bring suits 10, 15, 25 years later, when all of the documentation 
+is gone, the witnesses are gone, there is no way the company can defend 
+itself, and it is an automatic slam dunk for plaintiffs' lawyers--some 
+plaintiffs' lawyers, because most great plaintiffs' lawyers are not 
+going to play this game--and then call that a good bill, there is 
+something wrong with it.
+  With regard to the veterans bill--my goodness gracious. Let's think 
+about this. With regard to the veterans bill, we are all for veterans--
+every last one of us. But, again, cloture was immediately filed. We 
+were not able to bring up amendments. Finally, in the end, what did we 
+do? We spent all day yesterday doing nothing in order to accommodate 
+two Presidential candidates on the Democratic side. Now, I
+
+[[Page S3377]]
+
+have no problem with that, with that accommodation, but we could have 
+worked all day yesterday on the veterans bill and scheduled that vote 
+the same time at the end of the day, as we did. But it was basically a 
+wasted day in the Senate, other than hearings that might have gone on. 
+To waste a whole day and then blame us for it, that is not right.
+  We all know why the Ledbetter bill was brought up. In many respects, 
+it is just to score political points or it would have gone through the 
+committee. Had it gone through the committee, had we done a good 
+statute of limitations change, had we made some other changes that make 
+sense in the law, I think we would have passed a bill that would have 
+made Lilly Ledbetter at least realize that her actions were not in 
+vain. But the way it was done looks to me as if it was done for 
+political purposes and to score political points. We could have worked 
+it out. At least I think we could have worked it out. But there was not 
+even a chance to do that.
+  Let me just say this: I believe we have too much of this business 
+that every time the majority files a bill and then files a cloture 
+motion, they then call us filibusterers. That is not right, and it is 
+not true. Frankly, we all know it is not true.
+  (Ms. STABENOW assumed the chair.)
+
+                          ____________________
+```

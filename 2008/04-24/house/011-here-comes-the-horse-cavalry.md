@@ -1,0 +1,42 @@
+---
+granule: CREC-2008-04-24-pt1-PgH2662-3
+date: 2008-04-24
+edition: CREC
+section: HOUSE
+page: H2662
+citation: 154 Cong. Rec. H2662
+---
+
+# HERE COMES THE HORSE CAVALRY
+
+**Speaking:** Poe, Ted (P000592) [R-TX]
+
+```
+                      HERE COMES THE HORSE CAVALRY
+
+  (Mr. POE asked and was given permission to address the House for 1 
+minute.)
+  Mr. POE. Mr. Speaker, Canada is the largest crude oil supplier to the 
+United States. About half of that crude is derived from what is called 
+oil sands. Also, the military wants to buy Canadian ``unconventional 
+fuels'' instead of buying fuel from rogue dictators. The Air Force 
+wants to use Canadian ``coal to liquid fuel'' and turn it into jet 
+fuel.
+  But the nonenergy bill passed by Congress prohibits such purchases 
+because of absurd environmental restrictions.
+  Now, not only is it harder for Americans to obtain affordable 
+gasoline, our military is at risk of having a fuel shortage to carry 
+out its mission in Iraq and Afghanistan.
+  This Nation is at war. Our troops need fuel. The latest congressional 
+attempt to hurt the military as a way of appeasing environmental fear 
+mongers could result in what happened to General George Patton in World 
+War II. On August 31, 1944, General Patton was charging toward Germany 
+and just outside of Metz, France, his tanks ran out of gas because 
+bureaucrats here in the United States denied him fuel.
+  So unless Congress acts, our troops may be charging into battle 
+riding cavalry horses, while our tanks and planes rust and gather dust 
+because they are out of gas.
+  And that's just the way it is.
+
+                          ____________________
+```
