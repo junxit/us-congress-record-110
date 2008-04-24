@@ -1,0 +1,48 @@
+---
+granule: CRECB-2008-pt5-Pg6862-3
+date: 2008-04-24
+edition: CRECB
+section: SENATE
+page: 6862
+---
+
+# HONORING OUR ARMED FORCES
+
+```
+                       HONORING OUR ARMED FORCES
+
+
+                       Corporal Kyle Weston Wilks
+
+  Mr. PRYOR. Mr. President, I join Arkansans today in mourning the loss 
+of Cpl Kyle Weston Wilks of Rogers, AR. He paid the ultimate sacrifice 
+to stand
+
+[[Page 6863]]
+
+up for democracy and peace. We are grateful for Corporal Wilks' service 
+to our Nation and we will honor his memory. I know his family and 
+friends will remember this fallen hero's great smile and penchant for 
+life, including playing sports and watching Razorback football and 
+NASCAR.
+  A marine with the 24th Marine Expeditionary Unit since September 
+2004, Corporal Wilks helped with the evacuation of Beirut in 2006 and 
+most recently served in Afghanistan. During this time, Corporal Wilks 
+was awarded the Good Conduct Medal, Humanitarian Service Medal, Global 
+War on Terrorism Service Medal, Global War on Terrorism Expeditionary 
+Medal, National Defense Service Medal, and the Sea Service Deployment 
+Ribbon.
+  Before his second deployment, Corporal Wilks visited New York to see 
+Ground Zero, which reaffirmed his commitment to military service and 
+his country. He was a true patriot who planned to use his training as a 
+military policeman to begin a career in law enforcement.
+  Mr. President, Arkansas has now lost over 70 soldiers in the wars in 
+Iraq and Afghanistan. As long as I serve in public office, I will work 
+to honor their service, live up to their courage, and protect the 
+principles they fought to preserve.
+  Corporal Wilks has said his parents, Randy and Kathy Wilks, were his 
+heroes. My prayers are with them, as well as his sister Makayla, during 
+this difficult time.
+
+                          ____________________
+```
