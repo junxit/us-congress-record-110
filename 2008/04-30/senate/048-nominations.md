@@ -1,0 +1,54 @@
+---
+granule: CRECB-2008-pt5-Pg7471-2
+date: 2008-04-30
+edition: CRECB
+section: SENATE
+page: 7471
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                              in the army
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES ARMY TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                             To be general
+
+GEN. DAVID H. PETRAEUS
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT AS THE VICE 
+     CHIEF OF STAFF OF THE ARMY AND TO THE GRADE INDICATED WHILE 
+     ASSIGNED TO A POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER 
+     TITLE 10, U.S.C., SECTIONS 601 AND 3034:
+
+                             To be general
+
+       LT. GEN. PETER W. CHIARELLI
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES ARMY TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                             To be general
+
+       LT. GEN. RAYMOND T. ODIERNO
+
+
+                             the judiciary
+
+       MICHAEL M. ANELLO, OF CALIFORNIA, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE SOUTHERN DISTRICT OF CALIFORNIA, VICE 
+     NAPOLEON A. JONES, RETIRED.
+
+                          ____________________
+```

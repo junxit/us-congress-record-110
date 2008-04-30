@@ -1,0 +1,293 @@
+---
+granule: CRECB-2008-pt5-Pg7306
+date: 2008-04-30
+edition: CRECB
+section: HOUSE
+page: 7306
+---
+
+# SUPPORTING THE GOALS AND IDEALS OF NATIONAL AVIATION MAINTENANCE TECHNICIAN DAY
+
+```
+   SUPPORTING THE GOALS AND IDEALS OF NATIONAL AVIATION MAINTENANCE 
+                             TECHNICIAN DAY
+
+  Mr. FILNER. Mr. Speaker, I move to suspend the rules and agree to the 
+resolution (H. Res. 444) supporting the goals and ideals of National 
+Aviation Maintenance Technician Day, honoring the invaluable 
+contributions of Charles Edward Taylor, regarded as the father of 
+aviation maintenance, and recognizing the essential role of aviation 
+maintenance technicians in ensuring the safety and security of civil 
+and military aircraft.
+  The Clerk read the title of the resolution.
+  The text of the resolution is as follows:
+
+                              H. Res. 444
+
+       Whereas the safety of the flying public is ensured and the 
+     integrity of the aircraft airworthiness is personally 
+     guaranteed by individuals who comprise the professional 
+     aviation maintenance technician workforce;
+       Whereas the professional aviation maintenance technician is 
+     a key member of the United States military in protecting 
+     America through a strong armed forces aviation 
+     infrastructure;
+       Whereas the duties of aviation maintenance technicians are 
+     critical to United States homeland security and an integral 
+     component of the Nation's aerospace industry;
+       Whereas the professional aviation maintenance technician 
+     provides the strong infrastructure on which public confidence 
+     in our airborne transportation safety and military aviation 
+     strength is ensured;
+       Whereas the professional philosophy of the certificated 
+     aviation maintenance technician is embodied in the Aviation 
+     Mechanic's Creed:
+       UPON MY HONOR I swear that I shall hold in sacred trust the 
+     rights and privileges conferred upon me as a certified 
+     mechanic. Knowing full well that the safety and lives of 
+     others are dependent upon my skill and judgment, I shall 
+     never knowingly subject others to risks which I would not be 
+     willing to assume for myself, or for those dear to me.
+       IN DISCHARGING this trust, I pledge myself never to 
+     undertake work or approve work which I feel to be beyond the 
+     limits of my knowledge nor shall I allow any non-certified 
+     superior to persuade me to approve aircraft or equipment as 
+     airworthy against my
+
+[[Page 7307]]
+
+     better judgment, nor shall I permit my judgment to be 
+     influenced by money or other personal gain, nor shall I pass 
+     as airworthy aircraft or equipment about which I am in doubt 
+     either as a result of direct inspection or uncertainty 
+     regarding the ability of others who have worked on it to 
+     accomplish their work satisfactorily.
+       I REALIZE the grave responsibility which is mine as a 
+     certified airman, to exercise my judgment on the 
+     airworthiness of aircraft or equipment. I, therefore, pledge 
+     my unyielding adherence to these precepts for the advancement 
+     of aviation and for the dignity of my vocation.
+       Whereas in 1902 Charles Edward Taylor began working as a 
+     machinist for Orville and Wilbur Wright at the Wright Cycle 
+     Company in Dayton, Ohio;
+       Whereas using only a metal lathe, drill press, and hand 
+     tools, Charles Edward Taylor built, in 6 weeks, the 12-
+     horsepower engine that was used to power the Wright brothers' 
+     first flying machine;
+       Whereas Charles Edward Taylor's ingenuity earned him a 
+     place in aviation history when the Wright brothers 
+     successfully flew their airplane in controlled flight on 
+     December 17, 1903;
+       Whereas Charles Edward Taylor had a successful career in 
+     aviation maintenance for more than 60 years;
+       Whereas Charles Edward Taylor was honored by the Federal 
+     Aviation Administration with the establishment of the Charles 
+     Edward Taylor Master Mechanic Award, which recognizes 
+     individuals with 50 years or more of aviation maintenance 
+     experience;
+       Whereas Charles Edward Taylor has become a hero to aircraft 
+     maintenance technicians worldwide; and
+       Whereas 45 of the States together with the Commonwealths, 
+     Territories, Republics, and Federations of the United States 
+     have already declared May 24 to be Aviation Maintenance 
+     Technician Day within their jurisdictions: Now, therefore, be 
+     it
+       Resolved, That the House of Representatives--
+       (1) supports National Aviation Maintenance Technician Day 
+     to honor the professional men and women who ensure the safety 
+     and security of our airborne aviation infrastructure; and
+       (2) recognizes the life and memory of Charles Edward 
+     Taylor, the aviation maintenance technician who built and 
+     maintained the engine that was used to power the Wright 
+     brothers' first controlled flying machine on December 17, 
+     1903.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentleman from 
+California (Mr. Filner) and the gentleman from Missouri (Mr. Graves) 
+each will control 20 minutes.
+  The Chair recognizes the gentleman from California.
+  Mr. FILNER. Mr. Speaker, I yield myself such time as I may consume.
+  I thank the Speaker and I thank our House Speaker for bringing this 
+to the floor today, H. Res. 444, a resolution which supports the goals 
+and ideals of National Aviation Maintenance Technician Day, honoring 
+the invaluable contributions of Charles Edward Taylor, regarded as the 
+father of aviation maintenance, and recognizing the essential role of 
+aviation maintenance technicians in ensuring the safety and security of 
+civil and military aircraft.
+  With all the concerns, Mr. Speaker, today about safety and airlines, 
+it is the men and women who actually do the maintenance that we depend 
+on so greatly.
+  It was Charles Edward Taylor who built and maintained the engine that 
+was used to power the Wright brothers' first controlled aircraft, the 
+Flyer, and he was born in 1868. He is widely regarded as the father of 
+aviation maintenance, and was a vital contributor of mechanical skills 
+in the building and maintaining of early Wright brothers engines and 
+airplanes. Taylor also built the wind tunnel used by the Wrights to 
+test their early designs. He became a leading mechanic in the Wright 
+Aircraft Company when it was formed in 1909. In fact, when Calbraith 
+Perry Rodgers made his famous cross-country trip in a Wright brothers 
+aircraft, he paid Charles Edward Taylor $70 a week, a pretty large sum 
+at the time, to be his mechanic. Taylor followed the flight by train, 
+making required repairs and preparing the aircraft for the next day's 
+flight throughout the cross-country trip from Long Island to 
+California.
+  Although Taylor was largely ignored by history, it is important to 
+note that the Wright brothers were very close friends with him, and 
+remained in close contact with him throughout their lives.
+  Charles Edward Taylor saved enough money from his ventures to buy 
+several hundred acres of farmland near the Salton Sea, which is located 
+in my district. However, the economic climate of the time eventually 
+brought him to poverty, and he died penniless in 1956 at the age of 87. 
+He was buried at the Portal of Folded Wings Shrine to Aviation in 
+Burbank, California.
+  Mr. Speaker, the humble beginnings of the aviation maintenance 
+profession belies the fact that all of us in the Congress and our 
+constituents rely on the work that these technicians do every day. They 
+play an invaluable role not only in ensuring the safety of commercial 
+aircraft, but also ensuring that our men and women in uniform have 
+safe, reliable planes and helicopters while in their combat and 
+training. Thanks to these dedicated, well-trained professionals, the 
+United States has by far the safest air transportation system in the 
+world. We owe aircraft mechanics a debt of gratitude for their service 
+to the flying public.
+  We are hearing a lot today about consolidations in the airline 
+industry, and some airlines have already been outsourcing aviation 
+maintenance abroad to cut their costs. I urge everyone in this Chamber 
+to remember how critical it is for our own safety to have a well-
+trained U.S.-based workforce to fix and maintain our aircraft. As the 
+airline industry seeks to cut costs and merge, it is very important for 
+all of us to keep a watchful eye on the impact of these consolidations 
+on aviation maintenance technicians. We cannot afford to cut corners 
+when it comes to safety.
+  Mr. Speaker, 45 U.S. States have already declared May 24 to be 
+Aviation Maintenance Technician Day within their jurisdictions. My 
+resolution is intended to support these efforts and honor aviation 
+maintenance technicians, including the first, Charles Edward Taylor. I 
+urge all my colleagues to vote for H. Res. 444.
+  I reserve the balance of my time.
+  Mr. GRAVES. Mr. Speaker, I yield myself such time as I might consume.
+  Mr. Speaker, I rise in support of Resolution 444, Supporting National 
+Aviation Technician Day, and honoring Charles Edward Taylor. This 
+resolution was introduced by the gentleman from California (Mr. Filner) 
+in honor of aviation maintenance mechanics and their profession.
+  Day in and day out, aviation mechanics ensure the safety of the 
+flying public. They are also critical for the safety of our Armed 
+Forces aviation infrastructure. They keep our military aircraft flying 
+and are key elements in ensuring their security.
+  The aviation mechanics creed embodies their professional philosophy. 
+Words such as ``sacred,'' ``trust,'' ``judgment,'' and ``dignity'' are 
+used to describe their duties and professionalism.
+  Our public confidence in aviation transportation is a direct result 
+of their commitment to these ideals and the unwavering integrity of 
+their work.
+  H. Res. 444 also rightly honors Charles Edward Taylor, who played a 
+fundamental role in aviation history. In 1902, Mr. Taylor began work as 
+a machinist in Dayton, Ohio for the Wright Cycle Company. In just 6 
+weeks, he built a 12 horsepower engine with only a metal lathe, a drill 
+press, and hand tools. On December 17, 1903, his engine was used on the 
+Wright brothers' first flying machine and propelled the world into 
+controlled flight. Mr. Taylor's career lasted 60 years and earned him a 
+place in aviation history. To this day, he is known as the father of 
+aviation maintenance.
+  The Federal Aviation Administration's Charles Edward Taylor Master 
+Mechanic Award is bestowed upon individuals who have over 50 years of 
+experience in aviation maintenance and is truly an honor to receive.
+  Mr. Speaker, 45 States currently designate May 24 as Aviation 
+Maintenance Technician Day. I encourage my Members to support this 
+resolution to honor the men and women of aviation maintenance and the 
+life and memory of Charles Edward Taylor.
+  Mr. Speaker, I actually got to hear one of the very original Wright 
+brothers engines, which was built by Mr. Taylor, at Oshkosh just a few 
+years ago. There are still a couple of them that are existing today. 
+They were actually built by hand, very crudely
+
+[[Page 7308]]
+
+built, and I got an opportunity to hear one of them started up running. 
+It was actually the third engine that he ever built, and it was 
+absolutely a neat thing to see.
+
+                              {time}  1345
+
+  In my district I have one of the American Airlines overhaul bases 
+which houses a lot of mechanics and aviation technicians who work on 
+those aircraft, and from a base as large as that right down to some of 
+our very small businesses, like Joe Rankin who runs an aviation shop in 
+a little airport in Marionville, Missouri, those aviation mechanics are 
+important to the entire industry.
+  Being a pilot myself, I know just how important good maintenance and 
+those mechanics can be to your aircraft. It really is an honor to have 
+the opportunity to be able to handle this bill for the minority side 
+today. I thank the gentleman from California for his work on it. I 
+think it truly says a lot about aviation mechanics and the reason we 
+are honoring them.
+  Mr. OBERSTAR. Mr. Speaker, I rise in strong support of House 
+Resolution 444. H. Res. 444 highlights the House of Representatives' 
+support for the May 24 National Aviation Maintenance Technician Day to 
+honor Charles Edward Taylor, the first aviation maintenance technician 
+who created and maintained the engine used to power the Wright 
+brothers' aircraft, and the men and women who followed in his footsteps 
+as aviation maintenance technicians.
+  This resolution celebrates the life and achievements of one of the 
+fathers of aviation while also recognizing the indispensable role 
+aviation maintenance technicians play by ensuring the safety of civil 
+and military aircraft and infrastructure as well as the American 
+people. In 1901, Charles Edward Taylor left his job making 25 cents an 
+hour at the Dayton Electric Company to make 30 cents an hour in the 
+Wright brothers' bicycle shop. Within a year of starting, Taylor helped 
+them build a wind tunnel to test the Wrights' theories on winds and 
+control surfaces.
+  When, in 1903, the Wright brothers' tasked Taylor with creating an 8-
+horsepower engine to power the Flyer, his only prior experience was an 
+attempt to repair a gasoline automobile engine in 1901. He designed and 
+built an aluminum, water-cooled, 12-horsepower engine. He built the 
+engine from scratch in only 6 weeks, and without drawings, using a 
+drill press, metal lathe, and hand tools.
+  Taylor said, ``[I] always wanted to learn to fly, but I never did. 
+The Wrights refused to teach me and tried to discourage the idea. They 
+said they needed me in the shop and to service their machines, and if I 
+learned to fly, I'd be gadding about the country and maybe become an 
+exhibition pilot, and then they'd never see me again.''
+  After assisting the Wright brothers, Taylor went on to a pioneering 
+aviation maintenance career spanning more than 60 years including a job 
+as the chief mechanic for the first transcontinental flight in 1911 by 
+Calbraith Perry Rodgers.
+  I urge my colleagues to join me in supporting H. Res. 444, honoring 
+the first aviation maintenance technician, Charles Edward Taylor, and 
+every aviation maintenance technician who has or will follow in his 
+footsteps.
+  Mr. COSTELLO. Mr. Speaker, today, we are considering H. Res. 444, a 
+resolution supporting the goals and ideals of national aviation 
+maintenance technician day, honoring Charles Edward Taylor, and 
+recognizing the essential role of aviation maintenance technicians in 
+ensuring the safety and security of both civil and military aircraft.
+  This important legislation was introduced by our colleague, Mr. 
+Filner.
+  Charles Edward Taylor was born in Illinois in 1868 and worked as the 
+machinist for the Wright brothers in their Dayton, Ohio facility. It 
+was here that he built the 12-horsepower engine to power the Wright 
+brothers' first flying machine.
+  Taylor had an impressive career spanning over sixty years, where he 
+did all of the preliminary engine design work for the Wright brothers 
+and later taught them to build aircraft engines.
+  As a testament to his skill and this important craft, the Federal 
+Aviation Administration awards the Charles Taylor Master Mechanic Award 
+recognizing the lifetime accomplishments of certificated mechanics and 
+repairmen who have worked in aviation for at least 50 years.
+  Our aviation maintenance professionals ensure the safety of aircraft 
+each and everyday. By honoring Charles Taylor, we demonstrate our 
+respect and admiration for this important profession.
+  Mr. Speaker, aviation maintenance professionals continue to keep our 
+civil and military aircraft safe and secure. That is why I support H. 
+Res. 444 and urge my colleagues to do the same.
+  Mr. GRAVES, I yield back the balance of my time.
+  Mr. FILNER. I yield back the balance of my time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from California (Mr. Filner) that the House suspend the rules 
+and agree to the resolution, H. Res. 444.
+  The question was taken; and (two-thirds being in the affirmative) the 
+rules were suspended and the resolution was agreed to.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```
