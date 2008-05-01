@@ -1,0 +1,51 @@
+---
+granule: CRECB-2008-pt6-Pg7658
+date: 2008-05-01
+edition: CRECB
+section: EXTENSIONS
+page: 7658
+---
+
+# HONORING THE LIFE OF ARMY SPECIALIST JACOB J. FAIRBANKS
+
+```
+        HONORING THE LIFE OF ARMY SPECIALIST JACOB J. FAIRBANKS
+
+                                 ______
+                                 
+
+                          HON. BETTY McCOLLUM
+
+                             of minnesotta
+
+                    in the house of representatives
+
+                         Thursday, May 1, 2008
+
+  Ms. McCOLLUM of Minnesota. Madam Speaker, I rise to remember and 
+honor the life and courage of U.S. Army Specialist Jacob J. Fairbanks. 
+This 22-year-old native of St. Paul, Minnesota, died in Baghdad on 
+April 9, 2008.
+  Specialist Fairbanks joined the Army in 2004 after graduating from 
+Johnson High School, where he was a member of the Junior ROTC. His 
+second deployment to Iraq began last October for a tour of duty as a 
+field artilleryman. He was assigned to B Battery, 1st Battalion, 320th 
+Field Artillery Regiment, 2nd Brigade Combat Team of the 101st Airborne 
+Division, Fort Campbell, Kentucky.
+  Fairbanks served his nation and his fellow soldiers with honor and 
+courage. His commitment to this noble service earned him the Army 
+Commendation Medal, the Good Conduct Medal, the National Defense 
+Service Medal, the Iraqi Campaign Medal, the Army Service Ribbon and 
+the Overseas Service Ribbon. He was a proud member of the Leech Lake 
+Band of Ojibwe and will be remembered as an outgoing man, dedicated to 
+his family.
+  Madam Speaker, please join me in paying tribute to Specialist 
+Fairbanks. He is a Minnesotan and American hero. His desire to serve 
+his nation is an inspiration to his community. Specialist Fairbanks' 
+wife Dwan, daughter Kayla, stepchildren Alexander, Katelin, and David, 
+his mother Janette, father Steve, stepfather Jeff, his many friends, 
+and his comrades in Iraq have my deepest sympathies for their profound 
+loss.
+
+                          ____________________
+```

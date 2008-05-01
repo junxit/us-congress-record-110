@@ -1,0 +1,50 @@
+---
+granule: CRECB-2008-pt6-Pg7606
+date: 2008-05-01
+edition: CRECB
+section: SENATE
+page: 7606
+---
+
+# IN RECOGNITION OF FRANKLIN D. BARCA
+
+```
+                  IN RECOGNITION OF FRANKLIN D. BARCA
+
+  Mr. GREGG. Mr. President, I rise today to express my thanks to 
+Franklin D. Barca, a loyal member of my staff who has chosen to retire 
+after being a public servant to our country for more than four decades. 
+A graduate of Braintree High School in Braintree, MA, and Northeastern 
+University, Frank served a full career as a civilian within the 
+Department of Defense at locations such as the U.S. Army Natick Soldier 
+Systems Center, the Portsmouth Naval Shipyard and the Pentagon. To my 
+good fortune, Frank was assigned to my office as a detailee in 1997 and 
+later agreed to join my staff as my military legislative assistant, a 
+position he has dutifully held ever since.
+  Serving as my adviser on national security issues, Frank's greatest 
+legacy will be his work as the clerk of the caucus created to save the 
+Portsmouth Naval Shipyard during the 2005 round of base realignment and 
+closure. His tireless work ethic, attention to detail, and leadership 
+were instrumental in our efforts to show the Department of Defense that 
+Portsmouth truly is the gold standard of the Navy. During his work on 
+BRAC, Frank was affectionately given the nickname of ``The General.''
+  Walking through the Capitol with Frank you understand his love and 
+respect for history. Whether it's showing someone Lincoln's catafalque 
+for the first time or telling stories of the District during the Civil 
+War, Frank seems to have a bit of trivia for every corner of this 
+building. In the words of another man whom the states of New Hampshire 
+and Massachusetts lay claim, Daniel Webster, ``The dignity of history 
+consists in reciting events with truth and accuracy, and in presenting 
+human agents and their actions in an interesting and instructive form. 
+The first element in history, therefore, is truthfulness; and this 
+truthfulness must be displayed in a concrete form.'' I will certainly 
+miss Frank's advice, straightforwardness, and willingness to go the 
+extra mile to help me serve the people of New Hampshire.
+  I hope that Frank Barca will enjoy his retirement. It is an 
+achievement that he certainly has earned. I know that Frank will get 
+pleasure from being able to spend more time with his wife Elaine, his 
+daughters, and his four grandchildren Katie, Meredith, Michael, and 
+Sarah.
+
+                          ____________________
+```
