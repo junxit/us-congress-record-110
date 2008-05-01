@@ -1,0 +1,56 @@
+---
+granule: CREC-2008-05-01-pt1-PgS3694
+date: 2008-05-01
+edition: CREC
+section: SENATE
+page: S3694
+citation: 154 Cong. Rec. S3694
+---
+
+# TRIBUTE TO BILL KENNEDY
+
+**Speaking:** Cochran, Thad (C000567) [R-MS]
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+                        TRIBUTE TO BILL KENNEDY
+
+● Mr. COCHRAN. Mr. President, I am pleased to commend Bill 
+Kennedy of Inverness, MS, for his distinguished service and exemplary 
+contributions to the Mississippi Delta as president of the Delta 
+Council.
+  Delta Council, an economic development organization in the 
+Mississippi Delta, represents the business, professional, and 
+agricultural leadership of the region. Bill has commendably fulfilled 
+the role of president during a time when Mississippi agriculture and 
+the economy of the State of Mississippi have faced significant 
+challenges.
+  As president of the Delta Council, Bill was called upon to commit 
+time and resources to the ever-pressing issues of Mississippi River 
+flooding due to the delta's geographic location at the bottom of a 
+watershed funnel encompassing most of the United States.
+  Bill Kennedy has set the standard by which other agricultural leaders 
+of the Mississippi Delta are measured. As past president of the MS 
+Ginners Association, past president of the Southern Cotton Ginners 
+Association, and president of Duncan Gin, one of the oldest and most 
+successful agricultural enterprises in the Mississippi Delta, Bill has 
+proven to be an effective advocate on behalf of delta agriculture. 
+Because of his unique understanding of the U.S. cotton industry, his 
+counsel is frequently sought when issues of national, statewide, or 
+regional concern arise.
+  Additionally, the role which Bill Kennedy has played in wildlife 
+conservation through his leadership as former president of Delta 
+Wildlife is inestimable. Bill is a true sportsman and conservationist 
+who has devoted thousands of hours to making the Mississippi Delta a 
+better place for all those who live and do business in the region.
+  I congratulate Bill Kennedy, and thank his wife Lanny, his son 
+Larkin, and daughter in law, Jenny Ruth, for the year which they have 
+shared with the delta while Bill has served as president of Delta 
+Council.●
+
+                          ____________________
+```

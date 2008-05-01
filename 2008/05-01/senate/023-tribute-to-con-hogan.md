@@ -1,0 +1,191 @@
+---
+granule: CREC-2008-05-01-pt1-PgS3692
+date: 2008-05-01
+edition: CREC
+section: SENATE
+page: S3692
+citation: 154 Cong. Rec. S3692
+---
+
+# TRIBUTE TO CON HOGAN
+
+**Speaking:** Leahy, Patrick J. (L000174) [D-VT]
+
+```
+                          TRIBUTE TO CON HOGAN
+
+  Mr. LEAHY. Mr. President, Marcelle and I have a good friend in 
+Vermont named Cornelius Hogan, although everyone knows him as Con 
+Hogan.
+  In our State, we have been fortunate to have people, of both 
+political parties, who have given a great deal of themselves to serve 
+the people of Vermont, and Con is an excellent example of that.
+  Recently, the newspaper the Times Argus published an excellent 
+profile of him. I called Con and Jeanette to say how much I enjoyed it. 
+I would like to share the piece with my fellow Senators, and ask 
+unanimous consent that it be printed in the Record.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+ A Life Well Served; Plainfield's Con Hogan Remininsces About Time in 
+                          Government, Business
+
+                            (By Susan Allen)
+
+       Plainfield.--Every Thursday a 4 p.m., the late Gov. Richard 
+     Snelling would invite some of his cabinet members to his 
+     office and put a bottle of Wild Turkey bourbon and glasses on 
+     his desk.
+       ``You could talk about anything you wanted,'' recalled Con 
+     Hogan last week, seated at the kitchen table in his 
+     Plainfield home, with an expansive view that includes the ski 
+     slopes of Sugarbush and Mad River Glen.
+       That was a new one for me. I thought I'd heard most of the 
+     behind-the-scenes stories from past--and present--
+     administrations. I've been in the Vermont press that long, 
+     and collect interesting and odd-ball recollections like some 
+     people collect stamps. I'm fascinated by the people who 
+     devote their lives to serving the state.
+       But Hogan's reminiscences during our conversation proved 
+     how many good stories I've missed.
+       Hogan is retired from his extensive tenure in state 
+     government and we started talking about how busy he is during 
+     his so-called retirement (more on that later), but quickly 
+     began trading accounts of political personalities. Most of 
+     his tales were gathered during his professional journey from 
+     serving as a guard in a prison in Annandale, N.J., to heading 
+     Vermont's massive Human Services Agency under Snelling and 
+     former Gov. Howard Dean.
+       That journey included two significant side trips: An 11-
+     year stint in the private sector helping International Coins 
+     and Currency slog its way out of bankruptcy in the 1980s, and 
+     an ``ill-thought,'' unsuccessful run for governor as an 
+     independent against incumbent Jim Douglas and Democrat 
+     Douglas Racine in 2002.
+       ``That was a period of temporary insanity,'' he said of the 
+     gubernatorial race, which almost certainly burned some 
+     bridges with the GOP hierarchy. ``I don't regret it, but I 
+     don't consider it a high point.''
+       Hogan received a degree in psychology from Rutgers, married 
+     wife Jeanette in 1965, and took a job as a prison guard in 
+     Annandale, rising quickly through the ranks to eventually 
+     serve as a division head with the New Jersey Department of 
+     Corrections, focusing on the budget.
+       ``I loved it,'' he recalled of those 7 years. ``The people 
+     who work in that line are under such professional pressure 
+     that you become fast friends, the closest friends.''
+       Hogan and his wife regularly visited a good friend in 
+     Vermont who lived on an apple farm in Bennington, and in 1972 
+     at age 28, he applied for the job of corrections commissioner 
+     in this State. He chuckles at his own audacity, and the 
+     outcome.
+       Then-Secretary of Administration Richard Mallary (who went 
+     on to serve in the U.S. House for Vermont) wrote Hogan a two-
+     page, handwritten letter thanking him for his interest, 
+     letting him know the job was already filled, but urging him 
+     to contact the new commissioner to talk about becoming his 
+     deputy.
+       Hogan is amazed at the thought of Mallary writing such a 
+     long, personal note. But back in 1972, he did apply for 
+     deputy commissioner post and got the job.
+       Those were tumultuous years in corrections, he said. Then-
+     Gov. Thomas Salmon, trying to control a huge state deficit, 
+     issued a 10 percent cut in all budgets, to be executed in 
+     60 days--a staggering assignment, Hogan knew.
+       And the Windsor prison, which had opened in 1808 during the 
+     U.S. presidential administration of Thomas Jefferson, was 
+     closed in the early 1970s, leaving the State without a 
+     maximum security prison for a number of years.
+       With Snelling's first election in 1976, Hogan moved into 
+     the post of commissioner of Social and Rehabilitative 
+     Services, again during a difficult time. The Weeks School for 
+     juvenile offenders closed, forcing the State to redistribute 
+     the 400 youth to smaller group facilities around the State.
+       Hogan recalled that all but 15 were placed at one point. 
+     Those 15, he said, were sent to stay with a Vermont couple 
+     who--without the State's knowledge--packed them all into a 
+     Winnebago and headed off to see the country.
+       ``The dad called me from New Orleans,'' Hogan said. ``I 
+     said, `What are you doing in New Orleans?' ''
+       Four of the young Vermonters had run off, and the state 
+     scrambled to fix the mess. Fortunately the story ended well 
+     for everyone and never (until now) became public, Hogan said 
+     with a grin.
+       After his 11-year foray with ICC in the 1980s, Hogan once 
+     again received a call from Snelling, who was considering a 
+     run for governor and wanted Hogan to head his transition team 
+     if elected. Snelling was elected and appointed Hogan his 
+     secretary of Human Services in 1991.
+       ``During the transition, I was working from 6 a.m. to 
+     midnight, staying in the office--sometimes I slept over,'' he 
+     said. During a meeting one day, Hogan was called out because 
+     Jeanette was outside with fresh clothes for her husband. ``I 
+     need to explain to my wife why I'm spending more time with 
+     you than her,'' Hogan told Snelling, who didn't like meetings 
+     interrupted.
+       ``He lit up. `Let's go meet your wife,' '' Hogan recalled. 
+     Jeanette had just been to the dentist and had a front tooth 
+     removed, flashing a smile that showed a gaping hole. Hogan 
+     said Snelling never missed a beat and made a ``big show'' of 
+     graciousness to his wife.
+       Hogan recalled Snelling's impatience with long 
+     presentations. So, as Human Services Secretary, Hogan created 
+     a game where he took a deck of cards, and on each wrote a 
+     one-line synopsis of a proposed program, the cost, and the 
+     supporters and opponents. Fifty-two suggestions.
+       Snelling loved it; he'd flip through the cards quickly and 
+     make two piles: Yes and No. And Hogan knew how to proceed.
+       ``He was at the top of his game,'' said Hogan of Snelling 
+     during that second trip to the governor's office. His 
+     recollections of his former boss are nostalgic and reflect 
+     his respect and deep admiration for the late governor.
+       Snelling died in office on Aug. 13, 1991. During his brief 
+     second tenure as governor, he worked with Democratic House 
+     Speaker Ralph Wright to craft a plan to retire an enormous 
+     state deficit, another point of pride for Hogan.
+       The day after Snelling's death, new Gov. Howard Dean called 
+     Hogan into his office for a briefing on the Human Services 
+     Agency.
+       ``I was in no shape to go,'' Hogan recalled. Not only was 
+     he mourning Snelling's passing, he didn't know Dean or what 
+     to expect from the former lieutenant governor.
+       Hogan arrived with a list of 50 issues to discuss, and 
+     spent an hour running through them all. ``Dean didn't say a 
+     word, he just listened. He was either getting it . . . or not 
+     getting it and he did,'' Hogan recalled.
+       The two worked well together for 8 years until Hogan left 
+     the administration in November 1999. ``There's a half-life to 
+     that kind of job,'' he said of Human Services secretary. 
+     After making progress on many social issues, ``I had begun to 
+     see some of the same problems again.''
+       Then came the ill-fated gubernatorial run.
+       Followed by retirement--or Hogan's version of retirement: 
+     He travels the world working with countries that include 
+     Australia, Israel, Chile, Norway, Northern Ireland, Scotland, 
+     and in May, Holland, to improve their government structure 
+     and programs for children.
+
+[[Page S3693]]
+
+       He has also become involved in informal lobbying efforts 
+     for universal health care (the number of uninsured Vermonters 
+     has climbed from 42,000 in 2001 to 69,000 today, he noted; he 
+     predicts the increase will continue without serious action). 
+     He considers high health care costs a ``serious economic 
+     threat'' to the State.
+       He serves on the board of Vermont College in Montpelier, 
+     which is seeking certification and funding. Hogan also 
+     continues to play the banjo with his band, Cold Country 
+     Bluegrass (Jeanette plays the string bass).
+       And he helps Jeannette around the family horse farm, which 
+     she started but is now run by their daughter, Ruth.
+       That's Con Hogan's idea of retirement.
+       His son lives next door with Hogan's two grandchildren, and 
+     Ruth lives around the corner. And in the end, that is his 
+     life's ambition achieved.
+       ``Having my family close enough to enjoy their successes, 
+     and watch the kids grow up,'' he said. ``Nothing comes close. 
+     This to me is what it's all about.''
+
+                          ____________________
+```
