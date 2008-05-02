@@ -1,0 +1,40 @@
+---
+granule: CREC-2008-05-02-pt1-PgS3749-5
+date: 2008-05-02
+edition: CREC
+section: SENATE
+page: S3749
+citation: 154 Cong. Rec. S3749
+---
+
+# MAKING TECHNICAL CORRECTIONS TO THE NEWBORN SCREENING SAVES LIVES ACT OF 2007
+
+**Speaking:** Reid, Harry (R000146) [D-NV]
+
+**Measures:** H.R. 5919
+
+```
+ MAKING TECHNICAL CORRECTIONS TO THE NEWBORN SCREENING SAVES LIVES ACT 
+                                OF 2007
+
+  Mr. REID. Mr. President, I ask unanimous consent that the Senate 
+proceed to the consideration of H.R. 5919.
+  The ACTING PRESIDENT pro tempore. The clerk will report the bill by 
+title.
+  The legislative clerk read as follows:
+
+       A bill (H.R. 5919) to make technical corrections regarding 
+     the Newborn Screening Saves Lives Act of 2007.
+
+  There being no objection, the Senate proceeded to consider the bill.
+  Mr. REID. Mr. President, I ask unanimous consent that the bill be 
+read three times, passed, the motion to reconsider be laid upon the 
+table, with no intervening action or debate, and that any statements 
+relating to this bill be printed in the Record.
+  The ACTING PRESIDENT pro tempore. Without objection, it is so 
+ordered.
+  The bill (H.R. 5919) was ordered to a third reading, was read the 
+third time, and passed.
+
+                          ____________________
+```

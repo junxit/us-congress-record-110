@@ -1,0 +1,140 @@
+---
+granule: CREC-2008-05-02-pt1-PgS3737-2
+date: 2008-05-02
+edition: CREC
+section: SENATE
+page: S3737
+citation: 154 Cong. Rec. S3737
+---
+
+# POLICING THE OIL MARKETS
+
+**Speaking:** Cantwell, Maria (C000127) [D-WA], Casey, Robert P., Jr. (C001070) [D-PA]
+
+```
+                        POLICING THE OIL MARKETS
+
+  Ms. CANTWELL. Mr. President, I rise this morning to make sure the 
+American people know that Democrats want to make sure that oil markets 
+are policed. Democrats want to make sure the oil markets are not being 
+manipulated, and Democrats are going to make sure the oil markets, in 
+fact, are going to be policed by the Federal Government.
+  Over the last several years, several energy companies, including 
+Amaranth, Marathon Oil, and British Petroleum have been under 
+investigation for the manipulation of petroleum and natural gas 
+markets. As a result of that investigation, British Petroleum now must 
+pay approximately $373 million for conspiring to corner the market and 
+manipulate the price of propane carried through the Texas pipeline.
+  In another example, in 2006, a manipulative scheme to game the 
+natural gas market by the now defunct hedge fund Amaranth, cost 
+consumers upwards of $9 billion. In July of last year, Marathon Oil 
+agreed to pay $1 million in fines to the CFTC to settle charges that 
+Marathon's petroleum subsidy had attempted to manipulate crude oil 
+prices.
+  So we have examples of natural gas and oil markets being manipulated, 
+and Democrats want to make sure that oil markets are going to be 
+policed. We want to make sure there is not manipulation of supply. We 
+want to make sure there is not false reporting of information. We want 
+to make sure there is not cornering of the market. We want to make sure 
+there is not rogue trading.
+  That is why I am pleased the FTC has taken at least a first step in 
+issuing a rule that I think will help establish the framework by which 
+these markets can be more thoroughly investigated.
+  The FTC is recognizing in its rule--the rule that it issued last 
+night--that they need to base this on a law that is about manipulative 
+practices or using manipulative devices. There is a large body of case 
+law starting with the Securities and Exchange Commission now being used 
+by the Federal Energy Regulatory Commission, that has become, as the 
+Supreme Court said, ``a judicial oak which has grown from little more 
+than a legislative acorn.''
+  What they are talking about is just the simple concept put into 
+Federal statute that you should not have manipulative devices or 
+contrivances as it relates to the stock market, as it relates to 
+commodities, as it relates to now the natural gas and electricity 
+markets, and now, after the FTC's action last night, as it relates to 
+the oil markets.
+  But Democrats are going to make sure the FTC does its job. I am 
+calling on our leadership to have oversight hearings of this FTC 
+rulemaking process. The American public needs to be in on this process 
+of deciding exactly how this rule is going to be developed. We are 
+going to protect consumers in making sure there is a strong statute on 
+the books. We want to make sure that in this final rule the impact of 
+any kind of manipulative, planned reductions by refineries as a scheme 
+just to reduce supply is covered under this law; that any kind of false 
+or misleading reporting is covered under this law; and that the FTC 
+recognizes the great work that was done by the Federal Energy 
+Regulatory Commission in their adoption of this rule.
+  In fact, the rule that is being put out by the FTC actually discusses 
+in detail the cases of Amaranth and Enron, which I think is a good sign 
+because it is in those cases that we learned exactly how the 
+manipulation of these markets takes place.
+  In fact, what we saw with Amaranth and what they did is they ended up 
+selling shares to try to crash the market to lower the price after they 
+already had contracts for a higher price. So they made money by 
+basically getting people to sign up for contracts at a higher expense 
+and then forcing the market to lower the price so they had a higher 
+profit margin. They ended up having a huge position in the natural gas 
+market and, as I said, it cost consumers over $9 billion.
+  The interesting thing is, when they got out of the market and there 
+was
+
+[[Page S3738]]
+
+the pursuit by the Federal Regulatory Commission of this issue, natural 
+gas prices dropped 38 percent--38 percent because we had a bad actor 
+out of the marketplace.
+  So it is critical that we have this aggressive action and probe of 
+the oil markets. It is critical that we give the Federal regulators--
+the FTC and the FERC, if they need to be involved, the CFTC, as well as 
+the DOJ whom I have called on to be involved--the tools they need. But 
+Democrats are going to make sure we police the oil markets.
+  If you think about that and you think about the fact that oil prices 
+are 100 times over what they were a year ago, and if you had some sort 
+of activity that was driving up that price--I am saying it is not 
+supply and demand, it is not basic supply and demand. We haven't had a 
+supply disruption. We haven't had that big of a change in the demand. 
+So something is going on in the marketplace.
+  If we would do our job of investigating, we would make sure there is 
+a bright line there for the consumer, for the American people who are 
+paying too much at the pump right now, to say that these kinds of 
+manipulative behaviors will not be tolerated.
+  The challenge we have is, when we don't have some of these markets 
+having the transparency and the oversight, or people who are supposed 
+to be the policemen on the beat, as well as the FTC not doing its job, 
+then these markets have a lot of activities that can actually drive up 
+the price. When we think about the Amaranth case, just imagine what 
+would happen if you could actually lower the price because you get bad 
+actors out of the market.
+  That is what we are simply saying. Let's do our job here and have the 
+oversight hearings of this FTC rule and investigation of the oil 
+markets. Let's do our job in making sure the consumer is represented in 
+the development of this rule and a tough Federal statute so that 
+consumers can have a little relief at the pump.
+  I noticed last night this was the first time gas prices didn't rise 
+overnight. I also took note in the paper this morning of the CFTC 
+Chairman's comment which was an indication of the fact that oil prices 
+might have moved because, instead of investing in commodities, people 
+have taken money out of those commodities and put them in other places 
+in the stock market. People should be aware that Congress and the FTC 
+are looking into any kind of manipulative practices when it comes to 
+the oil market. Even if the rule isn't in final adoption today, the 
+fact that we are going to be aggressive at protecting consumers and 
+looking into this kind of manipulative practice, I believe, can help 
+give consumers relief at the pump.
+  So let's get about doing our job. Let's get about protecting 
+consumers in what is not a rational gas market today, and get about 
+helping our economy by doing our job here and having the oversight 
+hearings that it is going to take to make sure this rule gets developed 
+with a strong framework that can be used to root out manipulation in 
+the oil markets.
+  I thank the President, and I yield the floor. I suggest the absence 
+of a quorum.
+  The ACTING PRESIDENT pro tempore. The clerk will call the roll.
+  The assistant legislative clerk proceeded to call the roll.
+  Mr. CASEY. Mr. President, I ask unanimous consent that the order for 
+the quorum call be rescinded.
+  The ACTING PRESIDENT pro tempore. Without objection, it is so 
+ordered.
+
+                          ____________________
+```
