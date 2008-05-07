@@ -1,0 +1,60 @@
+---
+granule: CREC-2008-05-07-pt1-PgS3887
+date: 2008-05-07
+edition: CREC
+section: SENATE
+page: S3887
+citation: 154 Cong. Rec. S3887
+---
+
+# TRIBUTE TO LOUISIANA WWII VETERANS
+
+**Speaking:** Landrieu, Mary L. (L000550) [D-LA]
+
+```
+[[Page S3887]]
+                   TRIBUTE TO LOUISIANA WWII VETERANS
+
+● Ms. LANDRIEU. Mr. President, I am proud to honor a group of 97 
+World War II veterans from Louisiana who are traveling to Washington, 
+DC, this weekend to visit the various memorials and monuments that 
+recognize the sacrifices of our Nation's invaluable servicemembers.
+  Louisiana HonorAir, a group based in Lafayette, LA, is sponsoring 
+this Saturday's trip to the Nation's Capital. The organization is 
+honoring each surviving World War II Louisiana veteran by giving them 
+an opportunity to see the memorials dedicated to their service. On this 
+trip, the veterans will visit the World War II, Korea, Vietnam and Iwo 
+Jima memorials. They will also travel to Arlington National Cemetery to 
+lay a wreath on the Tomb of the Unknowns.
+  This is the ninth flight Louisiana HonorAir will make to Washington, 
+DC.
+  World War II was one of America's greatest triumphs, but was also a 
+conflict rife with individual sacrifice and tragedy. More than 60 
+million people worldwide were killed, including 40 million civilians, 
+and more than 400,000 American service members were slain during the 
+long war. The ultimate victory over enemies in the Pacific and in 
+Europe is a testament to the valor of American soldiers, sailors, 
+airmen and marines. The years 1941 to 1945 also witnessed an 
+unprecedented mobilization of domestic industry, which supplied our 
+military on two distant fronts.
+  In Louisiana, there remain today more than 40,000 living WWII 
+veterans, and each one has a heroic tale of achieving the noble victory 
+of freedom over tyranny. The oldest in this Honor-Air group was born in 
+1913. They began their service as early as 1938, before the bombing of 
+Pearl Harbor, and some members of this group served as late as 1979. 
+They served in various branches of the military--34 members in the 
+Army; 14 in the Army Air Corps; 37 in the Navy; 8 in the Marines; 1 in 
+the USO; and 3 in the U.S. Coast Guard.
+  Our heroes served across the globe, participating in major invasions 
+such as those at Iwo Jima, Okinawa, Guadalcanal, Leyte, the 
+Phillippines, and southern France. One was a prisoner of war in Italy, 
+another served under General Patton, and one flew 35 bombing missions 
+over Europe.
+  Many of these veterans earned Purple Hearts, Bronze Star Medals, Air 
+Medals and Navy Crosses.
+  I ask the Senate to join me in honoring these 97 veterans, all 
+Louisiana heroes, that we welcome to Washington this weekend and 
+Louisiana HonorAir for making these trips a reality.●
+
+                          ____________________
+```

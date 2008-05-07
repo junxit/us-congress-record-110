@@ -1,0 +1,66 @@
+---
+granule: CREC-2008-05-07-pt1-PgE841-4
+date: 2008-05-07
+edition: CREC
+section: EXTENSIONS
+page: E841
+citation: 154 Cong. Rec. E841
+---
+
+# HONORING THOMAS S. CONELY, SR., OF DADE CITY, FLORIDA
+
+**Speaking:** Brown-Waite, Ginny (B001247) [R-FL]
+
+```
+         HONORING THOMAS S. CONELY, SR., OF DADE CITY, FLORIDA
+
+                                 ______
+                                 
+
+                         HON. GINNY BROWN-WAITE
+
+                               of florida
+
+                    in the house of representatives
+
+                         Wednesday, May 7, 2008
+
+  Ms. GINNY BROWN-WAITE of Florida. Madam Speaker, I rise today to 
+honor an American soldier who was wounded in service to our Nation 
+during the conflict in Vietnam. Mr. Thomas S. Conely, Sr., is a Marine 
+who served with honor and distinction on the battlefield. It is truly 
+an honor to present this brave patriot with his long overdue Purple 
+Heart medal.
+  Born in Wheeling, West Virginia, Mr. Conely's family moved to 
+Pittsburgh when he was in ninth grade. Enlisting in the Marine Corps at 
+the age of eighteen, Mr. Conely was one of about 78 enlistees dubbed 
+the ``Pittsburgh Pirate Platoon'' when, all gathered around home plate 
+for the ceremony, they were sworn into the Marines in the 7th inning of 
+a baseball game at Forbes Field.
+  After completing his basic training at Parris Island, South Carolina, 
+Mr. Conely went on to attend radio operator school in California and 
+then served as the 2531 Field Radio Operator
+
+[[Page E842]]
+
+with the 9th Marines in Vietnam. Near the end of his tour of duty, his 
+unit was near the Rock Pile in the Northern Eye Core of Vietnam when a 
+mortar round landed between Mr. Conely and another soldier. The other 
+man was thrown 23 feet and killed, while Mr. Conely ended up with 
+shrapnel throughout his body.
+  A third generation soldier whose grandfather served in World War I 
+and his father in World War II, Mr. Conely's wounds sadly forced him to 
+leave the military. He had planned to make a career in the Marines, but 
+after the blast injured him in Vietnam he returned to Bethesda Naval 
+Hospital where he remained for 13 months prior to being discharged. 
+Continuing the tradition of military service, Mr. Conely's three sons 
+have all served in the Marine Corps, and one has had four tours of duty 
+in Iraq.
+  Madam Speaker, it is soldiers like Thomas S. Conely, Sr., who joined 
+the military to protect the freedoms that all Americans hold dear. 
+While brave men like Mr. Conely were wounded fighting for freedom and 
+liberty, his family, friends and loved ones know that this Congress 
+will always remember his bravery and commitment in battle.
+
+                          ____________________
+```
