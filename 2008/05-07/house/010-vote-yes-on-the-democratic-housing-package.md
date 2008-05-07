@@ -1,0 +1,34 @@
+---
+granule: CRECB-2008-pt6-Pg7994
+date: 2008-05-07
+edition: CRECB
+section: HOUSE
+page: 7994
+---
+
+# VOTE ``YES'' ON THE DEMOCRATIC HOUSING PACKAGE
+
+```
+             VOTE ``YES'' ON THE DEMOCRATIC HOUSING PACKAGE
+
+  (Mr. SIRES asked and was given permission to address the House for 1 
+minute.)
+  Mr. SIRES. Mr. Speaker, today the House will begin debate on the 
+comprehensive housing package that will help families keep their homes, 
+prevent foreclosures in the future, and help the recovery of 
+communities left almost vacant by the housing crisis. Today, more than 
+3.5 million homes sit empty in America, and if Washington does not act, 
+another 2 million Americans are expected to lose their homes in the 
+coming months.
+  The Democratic housing package will provide mortgage refinancing 
+assistance to families so they can stay in their homes. We do this by 
+expanding the FHA program so the borrowers in danger of losing their 
+homes can refinance into lower-cost government-issued mortgages. The 
+housing package also provides $15 billion in loans and grants to States 
+so they can acquire foreclosed homes and rehabilitate properties in 
+areas hit hard by the housing crisis.
+  Mr. Speaker, this housing package is the best response to our 
+Nation's housing problem.
+
+                          ____________________
+```
