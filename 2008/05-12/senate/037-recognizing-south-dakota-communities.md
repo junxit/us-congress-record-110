@@ -1,0 +1,45 @@
+---
+granule: CREC-2008-05-12-pt1-PgS4027-3
+date: 2008-05-12
+edition: CREC
+section: SENATE
+page: S4027
+citation: 154 Cong. Rec. S4027
+---
+
+# RECOGNIZING SOUTH DAKOTA COMMUNITIES
+
+**Speaking:** Johnson, Tim (J000177) [D-SD]
+
+```
+                  RECOGNIZING SOUTH DAKOTA COMMUNITIES
+
+● Mr. JOHNSON. Mr. President, today I wish to recognize the 
+community of Woonsocket, SD, on reaching the 125th anniversary of its 
+founding. Woonsocket is a rural community located in Sanborn County, 
+which is also celebrating the 100th anniversary of its courthouse.
+  The city of Woonsocket was founded in the summer of 1883 at the 
+junction of the Chicago, Milwaukee, and Saint Paul Railroads, and it 
+was given its name by the Superintendent of the railroad, C.H. Prior 
+after his home town in Rhode Island. The city grew at a tremendous rate 
+upon dedication as 50 lots were sold in the first day. The first church 
+service in the town was held just 3 days after the sale of the first 
+lot. The population grew rapidly and the first business that opened was 
+a saloon.
+  Woonsocket was named county seat of Sanborn County by the Territorial 
+Legislature in 1884. In October 1906 the city of Woonsocket proposed a 
+Sanborn courthouse. The proposal was accepted and a courthouse was 
+built for $50,000. It was dedicated May 22, 1908.
+  Today, Woonsocket is still a thriving community, with many 
+restaurants, local businesses and churches all nestled around scenic 
+Lake Prior. With excellent schools, Woonsocket school district boasts a 
+100-percent graduation rate.
+  The people of Woonsocket celebrate this momentous occasion on the 
+Fourth of July and are marking the 100-year anniversary of the 
+courthouse on May 22. One hundred and twenty-five years after its 
+founding Woonsocket remains a vital community and a great asset to the 
+wonderful State of South Dakota. I am proud to honor Woonsocket and 
+Sanborn County on these historic milestones.●
+
+                          ____________________
+```

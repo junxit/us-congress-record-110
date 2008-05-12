@@ -1,0 +1,76 @@
+---
+granule: CREC-2008-05-12-pt1-PgS4026
+date: 2008-05-12
+edition: CREC
+section: SENATE
+page: S4026
+citation: 154 Cong. Rec. S4026
+---
+
+# TRIBUTE TO PLACIDO DOMINGO
+
+**Speaking:** Leahy, Patrick J. (L000174) [D-VT]
+
+```
+                       TRIBUTE TO PLACIDO DOMINGO
+
+  Mr. LEAHY. Mr. President, it is my pleasure to pay tribute to someone 
+who has touched the lives of millions not just in this country but 
+across the world. This week, tenor Placido Domingo sings the title role 
+in the new Washington National Opera production of Handel's 
+``Tamerlano.'' It is his 130th role, an unprecedented feat. He has made 
+each of these parts into something alive and multidimensional. Tragic 
+figures like Otello or Cavaradossi have come to life and, through their 
+actions, have laid out time-honored truths about human emotions and how 
+we live. Mr. Domingo's singing, marked by a clarion tone and natural 
+sense of the shape of a musical phrase, can move us to great heights 
+and the deepest depths. He is a positive force in the world and someone 
+that everyone can celebrate.
+  Next year marks the 40th anniversary of his debuts at the Lyric Opera 
+of Chicago and the country's premiere opera house, the Metropolitan 
+Opera. He frequently sings across the globe, gracing stages of esteemed 
+European opera houses like London's Royal Opera and Milan's La Scala. 
+He might be most widely known as one of the ``3 Tenors.'' His recording 
+of grand productions and solo recitals fill store racks in my home 
+State of Vermont, as well as the whole country. These are unheralded 
+achievements for any tenor, undertakings that have led to numerous 
+awards like several Grammy awards and his recent election by a 
+respected British magazine as the ``King of Singers.''
+  Thankfully, his ego is not nearly as long or wide as that list of 
+laurels. He is a deeply respectful individual, and he takes interest in 
+others. He came be extremely kind. He paid me one of the nicest favors 
+last year, when, at a special function, my wife Marcelle asked him to 
+sing ``Happy Birthday'' to me. Rarely has the simple tune been heard 
+with such color and finesse. It was a moment that I will never forget.
+  Even in that straightforward, if always sweet, tune that amazing 
+sense of the inner workings of music was there. There have been other 
+great tenors but few who have shown such a strong musical sense. The 
+word used most often to describe Mr. Domingo's approach to each score 
+is ``scrupulous,'' a word that means meticulous, fastidious, 
+conscientious. That quality extends into his work from the podium as a 
+conductor and from the boardroom as a general manager, not only of the 
+Washington National Opera but also the Los Angeles Opera. He gets 
+inside whatever he is doing--singing, conducting, administration--and 
+makes it come out fresh, natural, and seemingly right.
+  He has literally lived and breathed opera throughout his life. As a 
+child, he sang the popular Spanish operas known as zarzuela. The two 
+companies that he directs have commissioned new operas, and it is new 
+operas that make all the difference between a ``has-been'' and a 
+living, breathing art form. Just 2 years ago, the Washington National 
+Opera put on Scott Wheeler's ``Democracy.'' Its themes of politics, 
+love, and Washington still resonate today.
+  Mr. Domingo spends a great deal of time in the United States, which 
+has received him like the hero he often sings on stage. He knows New 
+York, Washington, and Los Angeles like a native. He undertakes tours to 
+sing across the Nation, sometimes bringing music to communities that 
+may not have a major opera house. He is not an American citizen, but he 
+embraces some of the best qualities of what it means to be an American, 
+energetic and open, alive to life's possibilities. He has forged a 
+special bond with the country, and for that we are all grateful.
+  As Mr. Domingo takes on his role this week at the Washington National 
+Opera, I know the entire Senate joins me in congratulating and thanking 
+him for his relentless work and his spectacular ability to move us to 
+tears, laughter, and sheer joy.
+
+                          ____________________
+```
