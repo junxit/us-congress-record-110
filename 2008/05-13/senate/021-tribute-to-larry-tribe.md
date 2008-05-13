@@ -1,0 +1,161 @@
+---
+granule: CRECB-2008-pt6-Pg8520-3
+date: 2008-05-13
+edition: CRECB
+section: SENATE
+page: 8520
+---
+
+# TRIBUTE TO LARRY TRIBE
+
+```
+                         TRIBUTE TO LARRY TRIBE
+
+  Mr. KENNEDY. Mr. President, most of us in Congress know Larry Tribe 
+as
+
+[[Page 8521]]
+
+the highly regarded expert on constitutional law at Harvard Law School 
+who has been so helpful to us for decades on the many important 
+constitutional issues we often deal with in the Senate and the House of 
+Representatives.
+  But another side of Larry came to light last month in a very moving 
+front-page article of the ``Scope'' section in the April 16 Shanghai 
+Daily newspaper in China.
+  Shanghai is Larry's birthplace and he recently returned there for the 
+first time for the Harvard Alumni Association's ``Global Conference in 
+Shanghai.'' He was interviewed by a reporter for the newspaper during 
+the visit.
+  As the article states, Larry was born in Shanghai in October 1941. 
+His father was a Russian American who had been living in northeastern 
+China where he had met his wife. When war broke out between China and 
+Japan in the 1930s, they moved to Shanghai to be safer, because the 
+city welcomed Jewish refugees. The Japanese occupied Shanghai, however, 
+and after Pearl Harbor, Japanese soldiers arrested Larry's father and 
+held him in a concentration camp because of his American citizenship. 
+Larry and his mother were not allowed to visit him until near the end 
+of the war, and after the war, the family came to the United States.
+  During those early years in China, Larry attended kindergarten at the 
+Shanghai American school. He remembers that when he finally saw the 
+concentration camp, he was shocked by its harsh conditions, and he says 
+the experience may have influenced his decision years later to become a 
+lawyer involved in fighting for justice and human rights.
+  As the author of the article, Yan Zhen, writes, ``Who would have 
+thought a frightened little boy who once ran through the streets of 
+Shanghai during World War II would go on to become one of the most 
+revered legal minds in the United States?''
+  Mr. President, I believe all of us who know and work with Larry Tribe 
+will have even greater respect for him because of this extraordinary 
+part of his life. He truly has lived the American Dream. I ask 
+unanimous consent that the article be printed in the Record.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+                  [From Shanghai Daily, Apr. 16, 2008]
+
+  A Life Spent in Search of Justice--Amazing Legal Mind Forged in Old 
+                                Shanghai
+
+       Laurence Tribe is regarded as one of the foremost 
+     constitutional law experts in the United States. The Jewish 
+     professor's books on the subject are compulsory reading for 
+     aspiring--and practicing--lawyers.
+       He was once voted the most admired living alumni of the 
+     Harvard Law School where he is a professor while one of his 
+     former research assistants was none other than US 
+     presidential hopeful Barack Obama.
+       Tribe's life has been filled with achievements and 
+     accolades--and much of it may have to do with his early years 
+     in Shanghai. He may have lived here for just five and a half 
+     years, but all of these years later Tribe readily 
+     acknowledges it was a special experience that helped shape 
+     his life.
+       After more than six decades, the premier scholar and lawyer 
+     recently returned to his birthplace for the first time during 
+     the Harvard Alumni Association's Global Conference in 
+     Shanghai.
+       It was an incredible return to the city, he tells Shanghai 
+     Daily in an exclusive interview. ``It was an amazing 
+     homecoming,'' he says with some emotion.
+       Tribe was born in Shanghai in 1941 and remained here until 
+     his family moved to the United States at the end of World War 
+     II.
+       His father George Israel Tribe was a Russian American who 
+     had lived in Harbin, capital of China's northeastern 
+     Heilongjiang Province, where he met his wife Polia 
+     Diatlovitsky during the war.
+       For safety reasons, the family moved south to Shanghai. But 
+     just one day after the Japanese occupation of the city, 
+     George Tribe was taken away by Japanese soldiers due to his 
+     American citizenship and thrown into a concentration camp.
+       Only as the end of the war approached were young Tribe and 
+     his mother allowed to visit his father at the camp which he 
+     recalls was located on Suzhou Creek, near a tobacco factory.
+       ``I was quite struck by physical features of the camp,'' 
+     Tribe recalls. ``My sense of justice rose . . . he didn't do 
+     anything wrong, why should he be in such a place?''
+       Obviously Tribe was too young to understand what American 
+     citizenship meant at the time and, being a little boy, he 
+     simply felt it was unfair that his father had been thrown 
+     behind bars.
+       ``Maybe that influenced my decision many years later to 
+     become a lawyer interested in human rights,'' he says.
+       Tribe, 66, is widely regarded as the leading practitioner 
+     and scholar of US constitutional law. He has helped draft the 
+     constitutions of countries including Russia, South Africa, 
+     the Czech Republic and the Marshall Islands.
+       At Harvard, where he has taught since 1968, Tribe achieved 
+     a tenure professorship before the age of 30 and he was ranked 
+     the most admired law professor still living in a survey of 
+     more than 13,000 Harvard Law School alumni.
+       Tribe, who is also a fellow of the American Academy of Arts 
+     and Sciences, says he has taught more than 25,000 students 
+     over the past 40 years. Among them are John Roberts, the US 
+     chief justice, and Obama, a current US presidential candidate 
+     who worked as Tribe's research assistant for a year.
+       ``Amazing'' seemed to be the most frequent word used by 
+     Tribe during his visit to Shanghai last month. Not just 
+     because of the extraordinary development of the city but more 
+     importantly, because he got the chance to track down the 
+     residences where he once lived.
+       While having dinner at a friend's house, Tribe came across 
+     a lady who helped his vague recollections of Shanghai when 
+     she produced the 1941 Shanghai Directory.
+       The historic document recording members of the Jewish 
+     community in Shanghai clearly showed that the Tribe family 
+     had lived on Lafayette Avenue (now Fuxing Road) before later 
+     moving in to the Picardie Apartments (now the Hengshan Hotel) 
+     on Hengshan Road.
+       Records also showed Tribe attended kindergarten at the 
+     Shanghai American School at that time--all places he visited.
+       ``It's so amazing to find buildings are still there in a 
+     city of such dynamic development,'' the Jewish scholar says 
+     after visiting his former residences.
+       ``Some of the things are a little bit familiar, but I was 
+     very small at that time (to remember everything).
+       ``Many things have changed at Picardie but I definitely 
+     remember the balcony. I remember standing there looking at 
+     the street when I was about four,'' Tribe adds, his eyes 
+     lighting up.
+       What is even more amazing is that Tribe even managed to 
+     find the name of his grandfather in the old Shanghai 
+     directory and got the chance to visit his grandparents' 
+     former home on Seymour Road (now Shaanxi Road N.), where he 
+     would often visit.
+       Tribe says he would have liked to have brought his son and 
+     daughter and grandchildren to Shanghai, but sadly their busy 
+     schedules prevented them from doing so. Both children are 
+     accomplished artists and art theorists.
+       Before coming though, Tribe's daughter gave him a digital 
+     camera and asked him to take pictures of the places where he 
+     grew up so that he could share the memories with the rest of 
+     his family.
+       ``It would still be nice to bring my grandchildren here one 
+     day,'' he says. ``I am enormously grateful to Shanghai. I 
+     would not exist but for Shanghai. Not only because I was born 
+     here but this city welcomed Jews and other refugees at a time 
+     when no one else would take them.''
+
+                          ____________________
+```

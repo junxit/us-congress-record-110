@@ -1,0 +1,191 @@
+---
+granule: CRECB-2008-pt6-Pg8542
+date: 2008-05-13
+edition: CRECB
+section: SENATE
+page: 8542
+---
+
+# 50TH ANNIVERSARY OF THE NORTH AMERICAN AEROSPACE DEFENSE COMMAND
+
+```
+    50TH ANNIVERSARY OF THE NORTH AMERICAN AEROSPACE DEFENSE COMMAND
+
+  Mr. SANDERS. Mr. President, I ask unanimous consent that the Senate 
+now proceed to the consideration of S. Res. 561, which was submitted 
+earlier today.
+  The PRESIDING OFFICER. The clerk will report the resolution by title.
+  The legislative clerk read as follows:
+
+       A resolution (S. Res. 561) commemorating the 50th 
+     anniversary of the North American Aerospace Defense Command.
+
+  There being no objection, the Senate proceeded to consider the 
+resolution.
+  Mr. ALLARD. Mr. President, I rise to commemorate the 50th anniversary 
+of the signing of the North American Aerospace Defense Command 
+Agreement between the United States and Canada. For my State of 
+Colorado, today is an especially proud and gratifying occasion as it is 
+home to the headquarters of the North American Aerospace Defense 
+Command, located at Peterson Air Force Base in Colorado Springs.
+  On May 12, 1958, the United States and Canada signed an official 
+agreement creating the unique and fully integrated binational North 
+American Aerospace Defense Command, commonly known as NORAD. 
+Administered by the United States Air Force in conjunction with 
+Canadian Forces, NORAD is a premier military command that uses the most 
+innovative technology and equipment to secure our skies. Today, 50 
+years after its inception, we honor NORAD and pay tribute to the men 
+and women who have served and continue to serve NORAD's mission with 
+humility and distinction. To these American and Canadian 
+servicemembers, I say thank you.
+  For five decades, NORAD's mission has been to prevent air attacks 
+against North America and safeguard the sovereign airspaces of the 
+United States and Canada by responding to unknown, unwanted and 
+unauthorized air activity approaching or operating within our 
+airspaces. In more recent years, NORAD's mission has evolved to include 
+collaborative efforts with civilian law enforcement officers to detect 
+and monitor aircraft suspected of trafficking illegal drugs to North 
+America. In addition, NORAD has developed a system to help our homeland 
+defense and security partners observe North American seas and to warn 
+of encroaching maritime threats. In pursuit of these missions, NORAD 
+has achieved remarkable success.
+  Over the years NORAD has strengthened the venerable relationship 
+between the United States and Canada. It has been a source of stability 
+for our two nations during good times and bad. Throughout the turbulent 
+Cold War, and now in the midst of the war on terror, NORAD is 
+responsible for continually bringing together bright and courageous 
+minds to help detect, deter and defend against lethal threats to the 
+North American continent. Furthermore, NORAD has become a model for 
+international defense cooperation. It has allowed for the necessary 
+enhancement of information and intelligence sharing between Canadian 
+and American militaries, intelligence agencies, and other security 
+organizations. Twenty four hours a day, 7 days a week, NORAD units all 
+over North America are alert, prepared and equipped to take action to 
+defend our continent and to safeguard our freedoms.
+  Throughout my nearly 18 years in the U.S. Congress, I have spent 
+quite a bit of time with the commanders at NORAD, and each time we 
+visit I am encouraged by their efforts and reminded of why America is, 
+and will always be, great. With the safety and security of America 
+entrusted to institutions like NORAD and to the brave men and women of 
+our armed forces, I am confident that America will be protected for 
+generations to come.
+  Especially since the horrific events of September 11, 2001, and the 
+launch of the war on terror, the continued resolve of the United States 
+and Canada to pay any cost to face any foe is more relevant than ever. 
+If we are to remain sovereign and free, America and Canada must 
+continue to adapt to a changing world and respond effectively to 
+evolving threats. I am confident in our ability to do so. Through NORAD 
+and other binational partnerships, America and Canada will jointly and 
+efficiently combat any threat we confront in the 21st century.
+  Today, as a nation, we honor the legacy and achievements of the North 
+American Aerospace Defense Command, and we look forward to another half 
+century of this successful partnership so that NORAD can continue to 
+provide for the protection of our airspace and our homeland. I offer my 
+sincere congratulations to the North American Aerospace Defense Command 
+for 50 years of extraordinary service to the United States and Canada.
+  Mr. SANDERS. Mr. President, I ask unanimous consent that the 
+resolution be agreed to, the preamble be agreed to, and the motions to 
+reconsider be laid upon the table.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The resolution (S. Res. 561) was agreed to.
+  The preamble was agreed to.
+  The resolution, with its preamble, reads as follows:
+
+[[Page 8543]]
+
+
+
+                              S. Res. 561
+
+       Whereas, on May 12, 1958, the United States and Canada 
+     signed an official agreement creating the bi-national North 
+     American Aerospace Defense Command (NORAD) and formally 
+     acknowledged their mutual commitment to defending their 
+     citizens from air attacks;
+       Whereas 2008 marks the 50th anniversary of the creation of 
+     the North American Aerospace Defense Command and the 
+     outstanding efforts of American and Canadian service men and 
+     women defending North America;
+       Whereas the North American Aerospace Defense Command is a 
+     unique and fully integrated bi-national United States and 
+     Canadian command;
+       Whereas the North American Aerospace Defense Command is 
+     headquartered at Peterson Air Force Base in Colorado Springs, 
+     Colorado, and administered by the United States Air Force, 
+     with 3 subordinate regional centers located at Elmendorf Air 
+     Force Base, Alaska, Tyndall Air Force Base, Florida, and 
+     Canadian Forces Base, Winnipeg, Manitoba;
+       Whereas the mission of the North American Aerospace Defense 
+     Command is to ``prevent air attacks against North America, 
+     safeguard the sovereign airspaces of the United States and 
+     Canada by responding to unknown, unwanted, and unauthorized 
+     air activity approaching and operating within those 
+     airspaces, and provide aerospace and maritime warning for 
+     North America'';
+       Whereas, through joint support arrangements with other 
+     commands, the North American Aerospace Defense Command, 
+     including United States Strategic Command at Offutt Air Force 
+     Base, Nebraska, detects, validates, and warns of attacks 
+     against North America whether by aircraft, missile, or space 
+     vehicle;
+       Whereas the North American Aerospace Defense Command and 
+     United States Northern Command (USNORTHCOM) joint command 
+     center serves as a central collection and coordination site 
+     for a worldwide system of sensors designed to provide the 
+     commander and the governments of Canada and the United States 
+     with an accurate picture of any aerospace threat;
+       Whereas the commander of the North American Aerospace 
+     Defense Command provides integrated tactical warning and 
+     attack assessments to the governments of the United States 
+     and Canada;
+       Whereas the North American Aerospace Defense Command uses a 
+     network of satellites, ground-based and airborne radar, 
+     fighters and helicopters, and ground-based air defense 
+     systems to detect, intercept, and, if necessary, engage any 
+     air-breathing threats to North America;
+       Whereas North American Aerospace Defense Command assists in 
+     the detection and monitoring of aircraft suspected of illegal 
+     drug trafficking;
+       Whereas the Alaskan NORAD Region located at Elmendorf Air 
+     Force Base is supported by both the Eleventh Air Force and 
+     Air National Guard units;
+       Whereas the May 2006 North American Aerospace Defense 
+     Command Agreement renewal added a maritime warning mission to 
+     its slate of responsibilities, which entails a shared 
+     awareness and understanding of the ongoing activities 
+     conducted in United States and Canadian maritime approaches, 
+     maritime areas, and inland waterways;
+       Whereas the horrific events of September 11, 2001, 
+     demonstrated the North American Aerospace Defense Command's 
+     continued relevance to North American security;
+       Whereas, since 2001, the Continental NORAD region, which is 
+     divided into 2 defense sectors--the Western Defense Sector, 
+     with its headquarters located at McChord Air Force Base, 
+     Washington, and the Eastern Defense Sector, with its 
+     headquarters located at Rome, New York--has been the lead 
+     agency for Operation Noble Eagle, an ongoing mission to 
+     protect the continental United States from further airborne 
+     aggression from inside and outside of America's borders;
+       Whereas, in the spring of 2003, North American Aerospace 
+     Defense Command fighters based at Tyndall Air Force Base, 
+     Florida, intercepted 2 hijacked aircraft that originated in 
+     Cuba and escorted them to Key West, Florida;
+       Whereas the continued service with valor and honor of 
+     American and Canadian men and women serving at the North 
+     American Aerospace Defense Command is central to North 
+     America's ability to confront and successfully defeat threats 
+     of the 21st century; and
+       Whereas the continuation of the longstanding and successful 
+     relationship between the United States and Canada through the 
+     North American Aerospace Defense Command is paramount to the 
+     future security of the people of the United States and 
+     Canada: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) recognizes the contributions made by the North American 
+     Aerospace Defense Command to the security of North America; 
+     and
+       (2) commemorates 50 years of excellence and distinctive 
+     service to the United States and Canada.
+
+                          ____________________
+```

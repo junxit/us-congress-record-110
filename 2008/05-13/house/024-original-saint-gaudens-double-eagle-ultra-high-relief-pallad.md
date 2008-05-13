@@ -1,0 +1,413 @@
+---
+granule: CRECB-2008-pt6-Pg8871
+date: 2008-05-13
+edition: CRECB
+section: HOUSE
+page: 8871
+---
+
+# ORIGINAL SAINT-GAUDENS DOUBLE EAGLE ULTRA-HIGH RELIEF PALLADIUM BULLION COIN ACT
+
+```
+ORIGINAL SAINT-GAUDENS DOUBLE EAGLE ULTRA-HIGH RELIEF PALLADIUM BULLION 
+                                COIN ACT
+
+  Mr. GUTIERREZ. Mr. Speaker, I move to suspend the rules and pass the 
+bill (H.R. 5614) to authorize the production of Saint-Gaudens Double 
+Eagle ultra-high relief bullion coins in palladium to provide 
+affordable opportunities for investments in precious metals, and for 
+other purposes, as amended.
+  The Clerk read the title of the bill.
+  The text of the bill is as follows:
+
+                               H.R. 5614
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act shall be known as the ``Original Saint-Gaudens 
+     Double Eagle Ultra-High Relief Palladium Bullion Coin Act''.
+
+     SEC. 2. FINDINGS.
+
+       The Congress finds that--
+       (1) the Augustus Saint-Gaudens $20 gold pieces of 1907 with 
+     ultra-high relief are considered by many in the numismatic 
+     community to be the most beautiful coins ever produced;
+       (2) two separate ``pattern'' versions of the ultra-high 
+     relief Double Eagle were produced in 1907;
+       (3) a 34-millimeter version was hand-struck on a standard 
+     Double Eagle planchet using a medal press and, because 
+     manufacturing and technical limitations prevented mass 
+     production of these pieces, this production resulted in low 
+     mintage, with fewer than two dozen specimens of the 34-
+     millimeter version known to be in existence today;
+       (4) a second, 27-millimeter, version was struck using two 
+     stacked $10 Eagle planchets;
+       (5) these experimental ``pattern'' 27-millimeter pieces 
+     were deemed to be illegal to produce and all specimens were 
+     destroyed except for 2 that reside in the Smithsonian's 
+     National Numismatic Collection;
+       (6) the 27-millimeter pattern pieces are ranked by 
+     numismatists as among the most beautiful coins ever produced, 
+     but none are in private hands and none have ever come up for 
+     sale;
+       (7) the ultra-high relief Double Eagles are representative 
+     of the greatest period of American coinage, the so-called 
+     ``Golden Age of Coinage'' in the United States, initiated by 
+     President Theodore Roosevelt, with the assistance of noted 
+     sculptors and medallic artists James Earle Fraser and 
+     Augustus Saint-Gaudens;
+       (8) the introduction of this famous piece as a numismatic 
+     proof coin would not only give collectors an opportunity to 
+     own a version of a legendary coin that has never before been 
+     available for private ownership, but also inaugurate a neo-
+     renaissance in United States coin design and demonstrate the 
+     technological advances that the United States has achieved 
+     over the last century;
+       (9) the modern coin version of the $20 gold piece would be 
+     updated with the addition of the inscription ``In God We 
+     Trust'' and would include the date of minting or issuance, to 
+     distinguish it from the originals and prevent counterfeiting;
+       (10) palladium is a rare silver-white metal, and is 
+     considered a precious metal because of its scarcity;
+       (11) palladium is one of 6 platinum group metals that 
+     include ruthenium, rhodium, osmium, iridium, and platinum; it 
+     is the least dense and has the lowest melting point of the 
+     platinum group metals;
+       (12) the major nations mining palladium are in order of 
+     volume: Russia, South Africa, United States of America, and 
+     Canada;
+       (13) the major mine producing palladium in the United 
+     States is located in Montana;
+       (14) palladium is fabricated into a wide range of 
+     applications that includes its extensive use as an industrial 
+     catalyst and a key component in the manufacturing of 
+     automotive catalytic converters;
+       (15) palladium is also used in dentistry, jewelry, and in 
+     the production of surgical instruments and electrical 
+     contacts;
+       (16) the demand for precious metals is driven not only by 
+     their practical use, but also by their role as a store of 
+     value;
+       (17) a variety of investment options are available to 
+     palladium investors that includes coins, bars, and exchange-
+     traded funds;
+       (18) palladium coins have been issued by several countries, 
+     mainly as commemorative coins, but also as bullion investment 
+     coins (bullion is the form of palladium traded for investment 
+     purposes and is a reference to its purity);
+       (19) Tonga commenced issuing palladium coins in 1967 and 
+     other issuing countries have included Canada, the Soviet 
+     Union, France, Russia, China, Australia, and Slovakia;
+       (20) today, only Canada mints palladium bullion coins;
+       (21) during the period 2003 through 2007, the price of 
+     palladium ranged between $148 and $404 per troy ounce, and 
+     the average price in 2007 was $355 per troy ounce;
+       (22) by contrast, during the same period, the price of 
+     platinum ranged between a low of $603 and a high $1,544, and 
+     the average price in 2007 was $1,303 per troy ounce;
+       (23) thus, platinum bullion coins have become too expensive 
+     for the average investor;
+       (24) The Royal Canadian Mint minted platinum bullion coins 
+     for 14 years (between 1988 and 2001), but ceased production 
+     in the face of high metal prices and declining sales;
+       (25) when the United States Mint's American Eagle Platinum 
+     Bullion Coin was launched in 1997, the average price for the 
+     metal that year was $395 per troy ounce; and
+       (26) over the past decade, the price has more than tripled, 
+     which has caused a dramatic decline in demand for these 
+     coins, from 80,050 ounces sold in 1997 to 9,050 in 2007.
+
+     SEC. 3. ORIGINAL SAINT-GAUDENS DOUBLE EAGLE ULTRA-HIGH RELIEF 
+                   BULLION COIN.
+
+       Section 5112 of title 31, United States Code, is amended--
+       (1) in subsection (a), by adding at the end the following 
+     new paragraph:
+       ``(12) A $20 coin that--
+       ``(A) is 27 millimeters in diameter;
+       ``(B) weighs 1 ounce;
+       ``(C) is of an appropriate thickness, as determined by the 
+     Secretary; and
+       ``(D) bears, on the obverse and reverse, the designs of the 
+     famous 27-millimeter version of the 1907 Augustus Saint-
+     Gaudens Double Eagle gold piece, as described in subsection 
+     (t).''; and
+       (2) by adding at the end, the following new subsection:
+       ``(t) Original Saint-Gaudens Double Eagle Ultra-High Relief 
+     Numismatic Coins and Bullion Investment Coins.--
+       ``(1) In general.--Beginning January 1, 2009, the Secretary 
+     shall commence minting and issuing for sale--
+       ``(A) such number of $20 bullion investment coins as the 
+     Secretary may determine to be appropriate, that bear the 
+     design described in paragraph (2); and
+       ``(B) not more than 15,000 of the numismatic $20 coins that 
+     bear the design and meet the requirements of paragraph (3).
+       ``(2) Design and requirements for bullion investment 
+     coins.--
+       ``(A) In general.--Except as provided under subparagraph 
+     (B), the obverse and reverse of the coins minted and issued 
+     pursuant to paragraph (1)(A) shall bear a close approximation 
+     of the original obverse and reverse designs by Augustus 
+     Saint-Gaudens which appear on the famous 27-millimeter 
+     version of the 1907 Double Eagle ultra-high relief gold 
+     piece.
+       ``(B) Variations.--The coins referred to in subparagraph 
+     (A) shall--
+       ``(i) have inscriptions of the weight of the coin and the 
+     purity of the alloy in the coin raised on the edge of the 
+     coin;
+       ``(ii) bear the nominal denomination of the coin;
+       ``(iii) bear the date of issue of the coin on the obverse, 
+     expressed as a Roman numeral as in the original design; and
+
+[[Page 8872]]
+
+       ``(iv) bear such other inscriptions, including `In God We 
+     Trust', as the Secretary determines to be appropriate and in 
+     keeping with the original design.
+       ``(C) Mint facility.--Any facility of the United States 
+     Mint may be used to strike coins minted pursuant to paragraph 
+     (1)(A) other than the United States mint at West Point, New 
+     York.
+       ``(3) Design and requirements for ultra-high relief 
+     numismatic coins.--
+       ``(A) In general.--Subject to subparagraph (B), the obverse 
+     and reverse of the coins minted and issued pursuant to 
+     paragraph (1)(B) shall bear exact replicas of the original 
+     obverse and reverse designs by Augustus Saint-Gaudens which 
+     appear on the famous 27-millimeter version of the 1907 Double 
+     Eagle ultra-high relief gold piece and the edge of the coin 
+     shall have all appropriate raised lettering in the same 
+     manner as the original coin.
+       ``(B) Variations.--The coins referred to in subparagraph 
+     (A) shall--
+       ``(i) bear a single finish that most closely approximate 
+     the finish of the original gold 1907 ultra-high relief gold 
+     piece as is practicable;
+       ``(ii) bear the nominal denomination of the coin;
+       ``(iii) bear the date of issue of the coin on the obverse, 
+     expressed as a Roman numeral as in the original design; and
+       ``(iv) bear such other inscriptions, including `In God We 
+     Trust', as the Secretary determines to be appropriate and in 
+     keeping with the original design.
+       ``(C) Mint facility.--Coins minted pursuant to paragraph 
+     (1)(B) may only be struck at the United States mint at West 
+     Point, New York.
+       ``(D) Fractional coins prohibited.--No coins issued 
+     pursuant to paragraph (1)(B), shall be made available as so-
+     called `fractional' coins.
+       ``(4) Distribution in sets and other coordination 
+     requirements.--If the Secretary chooses, in accordance with 
+     subsection (i), to mint and issue a gold bullion coin that 
+     bears the same design as the ultra-high relief numismatic 
+     coins described in paragraph (1)(B)--
+       ``(A) each palladium coin issued under paragraph (1)(B) may 
+     only be issued in a set containing 1 of each such coins;
+       ``(B) each set of coins described in subparagraph (A) shall 
+     be provided in a presentation case of appropriate design;
+       ``(C) the set described in subparagraph (A) may only be 
+     issued and sold in 2009;
+       ``(D) gold coins issued in any set described in 
+     subparagraph (A) may only be struck at the United States mint 
+     at West Point, New York and no other gold coin issued by the 
+     Secretary that bears the same design as the ultra-high relief 
+     numismatic coins described in paragraph (1)(B) may be struck 
+     at such mint at West Point; and
+       ``(E) no gold coin that bears the same design as the ultra-
+     high relief numismatic coins described in paragraph (1)(B) 
+     shall be made available as so-called `fractional' coins.
+       ``(5) Composition.--
+       ``(A) In general.--The coins minted under this subsection 
+     shall contain .995 pure palladium.
+       ``(B) Source of bullion.--
+       ``(i) In general.--The Secretary shall acquire bullion for 
+     the palladium coins issued under this subsection by purchase 
+     of palladium mined from natural deposits in the United 
+     States, or in a territory or possession of the United States, 
+     within 1 year after the month in which the ore from which it 
+     is derived was mined.
+       ``(ii) Price of bullion.--The Secretary shall pay not more 
+     than the average world price for the palladium under 
+     subparagraph (A).
+       ``(6) Sale of coins.--Each coin issued under this 
+     subsection shall be sold for an amount the Secretary 
+     determines to be appropriate, but not less than the sum of--
+       ``(A) the nominal denomination of the coin;
+       ``(B) the market value of the bullion at the time of sale; 
+     and
+       ``(C) the cost of designing and issuing the coins, 
+     including labor, materials, dies, use of machinery, overhead 
+     expenses, marketing, distribution, and shipping.
+       ``(7) Legal tender.--The coins minted under this title 
+     shall be legal tender, as provided in section 5103.
+       ``(8) Treatment as numismatic items.--For purposes of 
+     section 5134 and 5136, all coins minted under this subsection 
+     shall be considered to be numismatic items.
+       ``(9) Quality.--The Secretary may issue the coins described 
+     in paragraph (1)(A) in both proof and uncirculated versions.
+       ``(10) Protective and anti-counterfeiting cover.--
+       ``(A) In general.--The Secretary shall give strong 
+     consideration to making the coins described in this 
+     subsection available only in protective covers that preserve 
+     the coins in the condition in which they are issued, allow 
+     clear and easy viewing of the obverse, reverse, and sides of 
+     the coin and protect it from movement within the holder, and 
+     also protect against counterfeiting of such coins or of the 
+     container.
+       ``(B) Acquisition.--The Secretary may elect to comply with 
+     subparagraph (A) by producing and assembling such protective 
+     covers within the United States Mint or by contracting for 
+     the installation of such covers.
+       ``(11) Further anti-counterfeiting measures.--
+       ``(A) Report required.--In an attempt to forestall the 
+     counterfeiting or marketing of the coins described in this 
+     section, including this subsection, and of collectible, 
+     numismatic and rare coins in general, the Comptroller General 
+     shall, after consulting with the Director of the United 
+     States Secret Service and the Federal Trade Commission, and 
+     in consultation with hobbyists, numismatists, law enforcement 
+     agencies, and the Citizens Coinage Advisory Committee, shall 
+     submit to the Committee on Financial Services of the House of 
+     Representatives and the Committee on Banking, Housing, and 
+     Urban Affairs of the Senate, before the end of the 9-month 
+     period beginning on the date of the enactment of the Original 
+     Saint-Gaudens Double Eagle Ultra-High Relief Bullion Coin 
+     Act, a report detailing the extent of counterfeiting of rare, 
+     collectible or numismatic coins made available for sale in 
+     the United States, regardless of the country where the 
+     original of such coin was produced or of the country in which 
+     the counterfeiting takes place, or sales overseas if such 
+     counterfeit coins are unauthorized copies of coins originally 
+     produced by the United States Mint.
+       ``(B) Contents of report.--The report submitted under 
+     subparagraph (A) shall describe the following:
+       ``(i) The extent of such counterfeiting of coins and 
+     numismatic items.
+       ``(ii) The source of such counterfeiting, if known, 
+     including which countries may be the origin of such 
+     counterfeits if they are produced outside the United States.
+       ``(iii) The distribution and marketing channels for such 
+     counterfeits within and without the United States.
+       ``(iv) The effect of any such counterfeiting on hobbyists, 
+     numismatists and on the investment opportunities for bullion 
+     or numismatic coins produced by the United States Mint.
+       ``(v) Whether such counterfeiting extends to the 
+     counterfeiting of coin-grading or protective materials in 
+     such a way that might imply that the counterfeit inside had 
+     been examined and authenticated by a reputable coin-grading 
+     firm.
+       ``(vi) Such recommendations for legislative or 
+     administrative action as the Comptroller General may 
+     determine to be appropriate to curtail or forestall any such 
+     counterfeiting.''.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentleman from 
+Illinois (Mr. Gutierrez) and the gentleman from Delaware (Mr. Castle) 
+each will control 20 minutes.
+  The Chair recognizes the gentleman from Illinois.
+
+
+                             General Leave
+
+  Mr. GUTIERREZ. Mr. Speaker, I ask unanimous consent that all Members 
+may have 5 legislative days within which to revise and extend their 
+remarks on this legislation and to insert extraneous material thereon.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Illinois?
+  There was no objection.
+  Mr. GUTIERREZ. Mr. Speaker, I yield myself as much time as I may 
+consume.
+  Mr. Speaker, today I rise in strong support of H.R. 5614, the 
+Original Saint-Gaudens Double Eagle Ultra-High Relief Palladium Bullion 
+Coin Act, of which I am an original cosponsor.
+  H.R. 5614 instructs the Secretary of the Treasury to mint and issue 
+$20 coins in memory of Augustus Saint-Gauden Double Eagle gold pieces 
+of 1907. The issuing of this coin will begin on January 1, 2009.
+  The introduction of this famous piece as a collectors' proof coin 
+would not only give collectors an opportunity to own a version of a 
+legendary coin that has never before been available for private 
+ownership but also inaugurate a neo-renaissance in United States coin 
+design. The coin will also demonstrate the technological advances in 
+engraving and minting the U.S. has achieved over the last century.
+  I congratulate my friend from the Financial Services Committee, Mr. 
+Castle, for introducing this bill and urge all Members to support its 
+passage.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. CASTLE. Mr. Speaker, I yield myself as much time as I may 
+consume.
+  Mr. Speaker, this is simple legislation, as Mr. Gutierrez has said, 
+that directs the creation of an investment-grade coin of palladium made 
+available to those who seek to invest in precious metals as a hedge 
+against inflation.
+
+[[Page 8873]]
+
+  I'm happy to be a sponsor of this bill, along with Mr. Gutierrez, the 
+chairman of the Domestic and International Monetary Policy, Trade, and 
+Technology Subcommittee that I once chaired.
+  With the spike in value of precious metals, investors who recently 
+may have bought gold to put in IRAs have nothing in the standard 1-
+ounce size investor coin between $18 or so and about $1,000, with gold 
+having jumped in the last couple of years from maybe $400 an ounce to 
+more than $900.
+  Palladium, known as the fourth precious metal and approved as an 
+investment vehicle by Congress a decade ago, along with gold, silver 
+and platinum, would fill that gap.
+
+                              {time}  1615
+
+  Yesterday it was trading at about $422 an ounce. Palladium is also 
+mined in quantity in the United States. I'm told that more than 400 
+people work in the palladium mine in Montana.
+  Mr. Speaker, investors do want a choice in their precious metals. And 
+while gold may always be king, if the Mint is going to have a bullion 
+program, it needs to present alternatives. Unfortunately, for many 
+investors, platinum, once valued at nearly the same as palladium, has 
+leapt to nearly $2,000 an ounce, and once-healthy sales of platinum 
+bullion coins shrank to a mere 9,000 ounces last year.
+  Creating a palladium bullion coin will offer investors another 
+option. Additionally, Mr. Speaker, this legislation calls for a limited 
+number of the palladium coins to be made with the exact design as the 
+famous gold 1907 Saint-Gaudens Double Eagle Ultra-High Relief coin, of 
+which only about a dozen were made because of technical limitations at 
+the time. I understand Mint Director Moy plans to make gold replicas of 
+that coin, and if so, this bill provides that a limited number be sold 
+in a special presentation case with numismatic versions of the 
+palladium coin.
+  Mr. Speaker, I want to call Members' attention to a report required 
+at the end of the bill. For some time now we've been hearing of the 
+import and sale into the United States of high-quality fakes of both 
+collectible and investor coins, and more recently of counterfeiting of 
+the special containers that certify a coin's quality as set by an 
+independent grading firm. Mr. Speaker, counterfeiting must be stopped, 
+whether it's of U.S. $100 bills, ancient Greek coins, or high-quality 
+fashion ware.
+  The report required in this bill will, I hope, focus the various 
+parts of the government with jurisdiction over this crime so we can 
+determine the scope and source of the problem and begin taking 
+appropriate action to stop it.
+  I urge quick passage of the bill.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. GUTIERREZ. Mr. Speaker, I yield back the balance of my time.
+  Mr. CASTLE. Mr. Speaker, I ask support of the legislation.
+  I yield back the balance of my time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from Illinois (Mr. Gutierrez) that the House suspend the 
+rules and pass the bill, H.R. 5614, as amended.
+  The question was taken.
+  The SPEAKER pro tempore. In the opinion of the Chair, two-thirds 
+being in the affirmative, the ayes have it.
+  Mr. SIMPSON. Mr. Speaker, I object to the vote on the ground that a 
+quorum is not present and make the point of order that a quorum is not 
+present.
+  The SPEAKER pro tempore. Pursuant to clause 8 of rule XX and the 
+Chair's prior announcement, further proceedings on this motion will be 
+postponed.
+  The point of no quorum is considered withdrawn.
+
+                          ____________________
+```
