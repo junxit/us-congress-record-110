@@ -1,0 +1,83 @@
+---
+granule: CREC-2008-05-13-pt1-PgS4098-2
+date: 2008-05-13
+edition: CREC
+section: SENATE
+page: S4098
+citation: 154 Cong. Rec. S4098
+---
+
+# FAA REAUTHORIZATION
+
+**Speaking:** Ensign, John (E000194) [R-NV]
+
+```
+                          FAA REAUTHORIZATION
+
+  Mr. ENSIGN. Mr. President. I wish to speak about Government barriers 
+to competition in the aviation sector. Like many of my colleagues, I am 
+disappointed that the Senate was unable to pass the legislation 
+reauthorizing the Federal Aviation Administration last week. This is a 
+difficult and dynamic time for the aviation industry, and it is 
+important that Congress review and update our Nation's aviation 
+policies.
+  Rising ticket prices and increasing delays have made the flying 
+experience more unpleasant for many travelers. Any inefficiencies 
+introduced into the system only serve to exacerbate such problems. 
+Therefore, I believe it is important that Congress reduce barriers to 
+competition whenever possible so that the marketplace can best serve 
+consumers and the public interest.
+  One issue that needs to be addressed is how Government-imposed slot 
+controls at a handful of U.S. airports effectively bar the entry of new 
+airline competitors at those airports. These federally regulated slot 
+controls are intended to reduce congestion-related delays; this 
+congestion mitigation, however, comes at the expense of open 
+competition.
+  Once slots at an airport have been doled out to the airlines, it 
+becomes very difficult for new entrant carriers to break into the 
+airport because the market has essentially been closed. Airlines with 
+limited operations at these airports face similar problems should they 
+wish to increase their presence in an effort to compete with the larger 
+airlines. Because the marketplace has been artificially constrained, 
+this leads to higher ticket prices and fewer flight options for 
+travelers.
+  It has been proven time and again that prices go down and flight 
+options go up when airlines are allowed to freely compete. The 
+Department of Transportation and the Federal Aviation Administration 
+should take every step possible to ensure that competition can flourish 
+at these slot-controlled airports. As these agencies administer 
+congestion programs, I hope that they will develop mechanisms that will 
+allow for new entrants to compete with
+
+[[Page S4099]]
+
+the more entrenched airlines at these airports. If they are unable to 
+do so, it may be up to us in Congress to provide them with legislative 
+guidance to ensure a more open marketplace.
+  Another arbitrary barrier that Congress should address is the 
+outdated perimeter restriction at Ronald Reagan Washington National 
+Airport. For over 40 years, Federal law has restricted flights at 
+Reagan National and delayed the arrival of competition at the airport. 
+With Senator Boxer and Senator McCain, I introduced an amendment to the 
+FAA reauthorization bill to revise Reagan National's outdated perimeter 
+restriction.
+  The American flying public has shown strong demand for more flights 
+between the Western United States and the Washington, DC, area. 
+Unfortunately, the perimeter rule prevents airlines from responding to 
+that demand by largely prohibiting flights to western cities such as 
+San Francisco, Las Vegas, Phoenix, Denver, and Seattle. Revising the 
+Reagan National perimeter restriction would help free-market 
+competition, directly benefiting consumers. While I am disappointed 
+that the FAA reauthorization bill was pulled from the floor before my 
+amendment could be considered, I will continue to work with my 
+colleagues to find a way to revise the perimeter restriction so that 
+air service between the West and Reagan National is increased in a 
+market-based manner.
+  We owe it to the American flying public to squeeze every last bit of 
+efficiency out of our aviation system. As the Senate considers aviation 
+issues in the future, I hope my colleagues will work together to reduce 
+the artificial barriers to competition created by well-intentioned yet 
+burdensome Government regulations.
+
+                          ____________________
+```

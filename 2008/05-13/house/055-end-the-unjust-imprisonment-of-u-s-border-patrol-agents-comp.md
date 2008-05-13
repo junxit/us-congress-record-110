@@ -1,0 +1,68 @@
+---
+granule: CREC-2008-05-13-pt1-PgH3755-2
+date: 2008-05-13
+edition: CREC
+section: HOUSE
+page: H3755
+citation: 154 Cong. Rec. H3755
+---
+
+# END THE UNJUST IMPRISONMENT OF U.S. BORDER PATROL AGENTS COMPEAN AND RAMOS
+
+**Speaking:** Jones, Walter B., Jr. (J000255) [R-NC]
+
+```
+ END THE UNJUST IMPRISONMENT OF U.S. BORDER PATROL AGENTS COMPEAN AND 
+                                 RAMOS
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from North Carolina (Mr. Jones) is recognized for 5 minutes.
+  Mr. JONES of North Carolina. Madam Speaker, today is day 482 of a 
+terrible injustice in America. Two U.S. Border Patrol agents have been 
+in Federal prison in solitary confinement since January 17 of 2007. 
+Agents Compean and Ramos were convicted in March of 2006 for shooting 
+an illegal alien drug smuggler from Mexico. The smuggler brought $1 
+million worth of marijuana across our borders into Texas.
+  The prosecution's star witness, the illegal alien drug smuggler, 
+recently
+
+[[Page H3756]]
+
+pled guilty to four felony counts for smuggling drugs while under 
+immunity to testify against the border agents. Ramos and Compean were 
+doing their job to protect America and to protect our border. Yet 
+through a questionable prosecution, the agents were convicted and 
+sentenced to 11 and 12 years in prison, respectively.
+  Despite the efforts of the American people and Members of Congress in 
+both parties, nothing has been done to reverse this injustice. Members 
+of Congress and outside groups have filed court briefs to support these 
+agents, and on December 3, 2007, the Fifth Circuit Court of Appeals in 
+New Orleans heard oral arguments for their appeals. The only glimmer of 
+hope for these agents and their families rest with the Fifth Circuit 
+Court's decision.
+  The American people have not forgotten Ramos and Compean. The more 
+time these men spend behind bars, the longer it takes for a decision on 
+their appeal, the more frustrated the American people become, Madam 
+Speaker, as millions of Americans eagerly await a ruling by the Fifth 
+Circuit Court. My prayers are with the agents and their families. I 
+hope that the judges' decision will rectify this gross miscarriage of 
+justice and faith in our judicial system may be restored.
+  I thank Congressman Rohrabacher for calling for a national day of 
+prayer last Sunday on behalf of these two decorated U.S. Border Patrol 
+agents. In addition to Mother's Day, this past Sunday marked the 
+beginning of National Police Week. This week is a fitting time for the 
+American people to join in prayer not only for agents Ramos and 
+Compean, but for all men and women in uniform who risk their lives each 
+day to protect our communities. Agents Ramos and Compean were willing 
+to risk their lives to defend our border and protect America from 
+illegal drug smugglers.
+  Madam Speaker, before I close, again, we call on this White House to 
+please listen to the pleas of the American people and the Congress to 
+say let these men go for doing their job to protect the American people 
+from a drug smuggler. I pray that justice will finally prevail for 
+these men and their families.
+  And with that, Madam Speaker, again, I call on this White House to 
+listen to the American people.
+
+                          ____________________
+```

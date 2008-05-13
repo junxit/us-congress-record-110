@@ -1,0 +1,42 @@
+---
+granule: CREC-2008-05-13-pt1-PgH3753-3
+date: 2008-05-13
+edition: CREC
+section: HOUSE
+page: H3753
+citation: 154 Cong. Rec. H3753
+---
+
+# RON STONE, TEXAS NEWSMAN
+
+**Speaking:** Poe, Ted (P000592) [R-TX]
+
+```
+                        RON STONE, TEXAS NEWSMAN
+
+  (Mr. POE asked and was given permission to address the House for 1 
+minute.)
+  Mr. POE. Madam Speaker, the Eyes of Texas are shining tonight on the 
+life and legacy of Houston news legend Ron Stone. Stone died today at 
+the age of 72.
+  For 30 years, Ron Stone was a fixture on Houston television and the 
+host of one of my favorite shows, the Eyes of Texas, featuring the 
+real-life stories about unique people and places of our great State.
+  Though he had countless awards to mark his contributions in the media 
+industry, it was his down to earth, folksy style that endeared him to 
+audiences all across the Houston area.
+  He was born in Oklahoma, but Stone came to Houston in the 1960s, and 
+his love for Texas took root then. He said he wasn't born in Texas, but 
+he got there as fast as he could. After retiring from KPRC in 1992, he 
+continued to leave his mark on the industry. He was a recognized 
+filmmaker, author of several books on Texas history and continued his 
+dedication to our community.
+  I met Ron many years ago while I was a judge in Houston. It was his 
+personal approach to news that set him apart from others, and 
+captivated audiences for more than 30 years. Ron Stone leaves a unique 
+mark on Houston's history. May the Eyes of Texas forever shine on him 
+and his family.
+  And that's just the way it is.
+
+                          ____________________
+```
