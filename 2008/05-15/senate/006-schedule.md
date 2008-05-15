@@ -1,0 +1,74 @@
+---
+granule: CRECB-2008-pt7-Pg9362-6
+date: 2008-05-15
+edition: CRECB
+section: SENATE
+page: 9362
+---
+
+# SCHEDULE
+
+```
+                                SCHEDULE
+
+  Mr. REID. Mr. President, following leader time, the Senate will 
+resume consideration of the conference report to accompany the Food, 
+Conservation, and Energy Act, H.R. 2419. There will be 90 minutes for 
+debate on the conference report.
+  I might add in passing that Senators worked until about 11 o'clock 
+last night on this important piece of legislation.
+  The Senate will vote on any motions relating to the conference report 
+prior to a vote on its adoption. Senators should expect the first vote 
+of the day to begin about 11:05, 11:10, depending on how long Senator 
+McConnell and I take. Upon disposition of the conference report, we 
+expect to begin the process of appointing conferees to the budget 
+resolution conference. Senators should expect rollcall votes to occur 
+throughout the day.
+  I would note that there is a 1 p.m. filing deadline for first-degree 
+amendments to the collective bargaining legislation, H.R. 980.
+  As I mentioned last night, when we finish adoption of the conference 
+report, it will be up to Senators Judd Gregg and Kent Conrad to 
+determine how many motions will be filed to instruct conferees. Other 
+Senators can do that, of course, but it would have to be through the 
+two managers. There is a total of 10 hours on that. We would hope that 
+time could be shortened significantly. We are going to finish that 
+tonight, the appointing of conferees.
+  I have spoken to Senator Dorgan. We have the media cross-ownership 
+matter that he has proceeded forward with under a statute Senator 
+Nickles and I passed in the early 1990s. The statutory time limit on 
+that is 10 hours. Senator Dorgan told me last night that he would take 
+1 hour. I would hope others wouldn't take much more time than that. 
+That being the case, there is an opportunity to finish that tonight. I 
+hope that is the case. Otherwise, we would finish that tomorrow.
+  Tomorrow, we have scheduled now a cloture vote on the collective 
+bargaining matter we worked on this week. As I indicated last night, we 
+are going to see if Senators Kennedy and Gregg can work something out 
+on that, along with the comanager of the bill, Senator Enzi. If they 
+can give us some way to proceed to complete that, maybe we can work out 
+a unanimous consent that we wouldn't have to do the cloture vote. I 
+think the ability to do that is somewhat slim, but I never give up 
+hope. It might be possible.
+  The point being, we have a lot to do. We are going to work late 
+tonight unless there is some agreement that shortens the time 
+significantly on the appointing of conferees and the cross-ownership 
+issue dealing with the Dorgan proposal. I think that is what we have 
+ahead of us.
+  The reason I am making sure we complete everything this week, the 
+House is going to pass, sometime today, the supplemental. We have no 
+votes on Monday. I would hope we could start maybe on that issue on 
+Monday because we would like to do some other things next week. But 
+that is a big issue to deal with. The House can jam things through, as 
+we all know, because they have different rules than we do. But over 
+here we have to follow our rules, which are not the House rules. So one 
+of the first things we will do when we see what the House finally does, 
+because we don't know yet, is I will sit down and talk to the 
+Republican leader and find out if there is a way we can proceed to 
+allow people to do what they think is necessary on the bill but at 
+least make it so it is more understandable and we are not here this 
+coming Friday, a week from tomorrow, 8, 9 o'clock at night, still 
+trying to figure out what we are going to do on that. As contentious as 
+this matter is, I would like to have an orderly process on which to 
+move forward.
+
+                          ____________________
+```
