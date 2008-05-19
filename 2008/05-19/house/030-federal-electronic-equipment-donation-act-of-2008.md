@@ -1,0 +1,469 @@
+---
+granule: CREC-2008-05-19-pt1-PgH4089
+date: 2008-05-19
+edition: CREC
+section: HOUSE
+page: H4089
+citation: 154 Cong. Rec. H4089
+---
+
+# FEDERAL ELECTRONIC EQUIPMENT DONATION ACT OF 2008
+
+**Speaking:** Watson, Diane E. (W000794) [D-CA], Butterfield, G. K. (B001251) [D-NC], Issa, Darrell (I000056) [R-CA]
+
+**Measures:** H.R. 752
+
+```
+           FEDERAL ELECTRONIC EQUIPMENT DONATION ACT OF 2008
+
+  Ms. WATSON. Mr. Speaker, I move to suspend the rules and pass the 
+bill (H.R. 752) to direct Federal agencies to donate excess and surplus 
+Federal electronic equipment, including computers, computer components, 
+printers, and fax machines, to qualifying small towns, counties, 
+schools, nonprofit organizations, and libraries, as amended.
+  The Clerk read the title of the bill.
+  The text of the bill is as follows:
+
+                                H.R. 752
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Federal Electronic Equipment 
+     Donation Act of 2008''.
+
+     SEC. 2. REQUIREMENT TO TRANSFER USEFUL FEDERAL ELECTRONIC 
+                   EQUIPMENT TO EDUCATIONAL RECIPIENTS.
+
+       (a) Transfer of Equipment to Educational Entities.--
+       (1) In general.--Each Federal agency shall identify useful 
+     Federal electronic equipment that the agency has determined 
+     is excess to its needs and--
+       (A) report such equipment to the Administrator of General 
+     Services for processing for transfer to an educational 
+     recipient in accordance with section 549 of title 40, United 
+     States Code;
+       (B) transfer such equipment directly to an educational 
+     recipient, through an arrangement made by the Administrator 
+     of General Services under subsection (b); or
+       (C) report such equipment to the Administrator of General 
+     Services as excess property if transfer under subparagraph 
+     (A) or (B) is not practicable.
+       (2) Management of nontransferable equipment.--For equipment 
+     reported under paragraph (1)(C), the Administrator of General 
+     Services shall manage the equipment in accordance with 
+     subchapters II and III of title 40, United States Code.
+       (3) Exception.--Equipment transferred pursuant to section 
+     11(i) of the Stevenson-Wydler Technology Innovation Act of 
+     1980 (15 U.S.C. 3710(i) is neither transferred pursuant to 
+     this Act nor subject to this Act's requirements.
+       (b) Advance Reporting of Equipment to GSA.--Each Federal 
+     agency shall report to the Administrator of General Services 
+     the availability of useful Federal electronic equipment as 
+     far as possible in advance of the date the equipment is 
+     expected to become excess to its needs, so that the 
+     Administrator may attempt to arrange for the direct transfer 
+     from the donating agency to educational recipients.
+       (c) Use of Nonprofit Refurbishers.--In transferring any 
+     equipment pursuant to this Act, at the request of the 
+     educational recipient and if appropriate, if the equipment is 
+     not classroom-usable, the transferring agency shall convey 
+     the equipment initially to a nonprofit refurbisher for 
+     upgrade before transfer to the educational recipient.
+       (d) Removal of Data Before Transfer.--In transferring any 
+     equipment pursuant to this Act, the transferring agency shall 
+     remove data from the equipment prior to transfer to the 
+     educational recipient according to accepted sanitization 
+     procedures. To the maximum extent practicable, the 
+     transferring agency shall remove data using a means that does 
+     not remove, disable, destroy, or otherwise render unusable 
+     the equipment or components.
+       (e) Preference.--In transferring any equipment pursuant to 
+     this Act, the transferring agency shall give the highest 
+     preference to educational recipients located in an enterprise 
+     community or empowerment zone designated under section 1391 
+     or 1400 of the Internal Revenue Code of 1986, a qualifying 
+     small town, or a qualifying county.
+       (f) Low Cost.--Any transfer made pursuant to this Act shall 
+     be made at the lowest cost to the educational recipient 
+     permitted by law.
+       (g) Title.--Title of ownership of equipment transferred 
+     pursuant to this Act shall transfer to the educational 
+     recipient receiving the equipment.
+       (h) Notice of Availability of Equipment.--The Administrator 
+     of General Services shall provide notice of the anticipated 
+     availability of useful Federal electronic equipment to 
+     educational recipients by all practicable means, including 
+     newspapers, community announcements, and the Internet.
+       (i) Facilitation by Regional Federal Executive Boards.--The 
+     regional Federal Executive Boards (as that term is used in 
+     part 960 of title 5, Code of Federal Regulations) shall help 
+     facilitate the transfer of useful Federal electronic 
+     equipment from the agencies they represent to educational 
+     recipients under this Act.
+
+     SEC. 3. RULEMAKING.
+
+       The Administrator of General Services shall prescribe rules 
+     and procedures to carry out this Act.
+
+     SEC. 4. EFFECT ON OTHER LAWS.
+
+       This Act supersedes Executive Order No. 12999 of April 17, 
+     1996.
+
+     SEC. 5. RULE OF CONSTRUCTION.
+
+       This Act may not be construed to create any right or 
+     benefit, substantive or procedural, enforceable at law by a 
+     party against the United States or its agencies, officers, or 
+     employees.
+
+     SEC. 6. DEFINITIONS.
+
+       In this Act:
+       (1) The term ``Federal agency'' means an Executive 
+     department or an Executive agency (as such terms are defined 
+     in chapter 1 of title 5, United States Code).
+       (2) The term ``educational recipient'' means a school or a 
+     community-based educational organization.
+       (3) The term ``school'' includes a pre-kindergarten program 
+     (as that term is used in the Elementary and Secondary 
+     Education Act of 1965), an elementary school, a secondary 
+     school, and a local educational agency (as those terms are 
+     defined in section 9101 of that Act.)
+       (4) The term ``community based educational organization'' 
+     means a nonprofit entity that qualifies as a nonprofit 
+     educational institution or organization for purposes of 
+     section 501(c)(3) of the Internal Revenue Code of 1986 and--
+       (A) is engaged in collaborative projects, the primary focus 
+     of which is education, with schools, qualifying small towns, 
+     qualifying counties, or libraries; or
+       (B) provides use of computers and Internet access to 
+     members of the community at no charge.
+       (5) The term ``qualifying small town'' means a political 
+     subdivision with a population of not more than 24,999 
+     individuals where 20 percent or more of the residents earn 
+     less than the poverty threshold (as defined by the Bureau of 
+     the Census).
+       (6) The term ``qualifying county'' means a county where 20 
+     percent or more of the residents earn less than the poverty 
+     threshold (as defined by the Bureau of the Census).
+       (7) The term ``useful Federal electronic equipment''--
+       (A) means--
+       (i) computers and related peripheral tools (such as 
+     computer printers, modems, routers, and servers), including 
+     telecommunications and research equipment;
+       (ii) fax machines; and
+       (iii) any other electronic equipment determined by a 
+     Federal agency to be potentially useful to an educational 
+     recipient; and
+       (B) includes computer software, where the transfer of a 
+     license is permitted.
+       (8) The term ``classroom-usable'', with respect to useful 
+     Federal electronic equipment, means such equipment that does 
+     not require an upgrade of hardware or software in order to be 
+     used by an educational recipient without being first 
+     transferred under section 2(c) to a nonprofit refurbisher for 
+     such an upgrade.
+       (9) The term ``nonprofit refurbisher'' means an 
+     organization that--
+       (A) is exempt from income taxes under section 501(c) of the 
+     Internal Revenue Code of 1986; and
+       (B) upgrades useful Federal electronic equipment that is 
+     not yet classroom-usable at no cost or low cost to the 
+     ultimate educational recipient.
+
+     SEC. 7. PREFERENCE IN DONATION OF PERSONAL PROPERTY THROUGH 
+                   STATE AGENCIES.
+
+       Section 549(e)(3)(B) of title 40, United States Code, is 
+     amended--
+       (1) by striking ``The state plan'' and inserting the 
+     following:
+       ``(i) In general.--The state plan''; and
+       (2) by adding at the end the following new clause:
+       ``(ii) Preference.--The state plan of operation shall 
+     require the state agency to give the highest preference for 
+     electronic equipment to eligible institutions (as described 
+     in subsection (c)(3)) that are located in an enterprise 
+     community or empowerment zone
+
+[[Page H4090]]
+
+     designated under section 1391 or 1400 of the Internal Revenue 
+     Code of 1986, a political subdivision with a population of 
+     not more than 24,999 individuals where 20 percent or more of 
+     the residents earn less than the poverty threshold (as 
+     defined by the Bureau of the Census), or a county where 20 
+     percent or more of the residents earn less than poverty 
+     threshold (as defined by the Bureau of the Census).''.
+
+     SEC. 8. REPORT TO CONGRESS.
+
+       (a) Report Required.--Not later than 18 months after the 
+     date of the enactment of this Act, the Administrator of 
+     General Services shall submit to Congress a report.
+       (b) Contents of Report.--The report shall contain the 
+     following:
+       (1) An inventory of items that Federal agencies identified 
+     as useful Federal electronic equipment that the agency has 
+     determined is excess to its needs in the first 365 days after 
+     the date of the enactment of this Act.
+       (2) The number of such items that were--
+       (A) transferred to educational recipients pursuant to this 
+     Act;
+       (B) transferred to other Federal agencies and organizations 
+     pursuant to section 521 of title 40, United States Code;
+       (C) transferred to State agencies pursuant to section 549 
+     of title 40, United State Code; or
+       (D) disposed of through other means.
+       (3) Recommendations for further legislation or 
+     administrative action that the Administrator considers 
+     appropriate to establish an effective system for transferring 
+     excess useful Federal electronic equipment to educational 
+     recipients.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentlewoman from 
+California (Ms. Watson) and the gentleman from California (Mr. Issa) 
+each will control 20 minutes.
+  The Chair recognizes the gentlewoman from California.
+
+
+                             General Leave
+
+  Ms. WATSON. Mr. Speaker, I ask unanimous consent that all Members may 
+have 5 legislative days in which to revise and extend their remarks.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentlewoman from California?
+  There was no objection.
+  Ms. WATSON. Mr. Speaker, I yield myself such time as I may consume.
+  As a member of the House Committee on Oversight and Government 
+Reform, I am pleased to present for consideration H.R. 752, the Federal 
+Electronic Equipment Donation Act, which will preserve an existing 
+executive order issued during the Clinton administration directing 
+Federal agencies to donate excess computer equipment to schools and 
+education nonprofits, particularly those located in high-need areas.
+  At this point, I would like to have my colleague, the Honorable G.K. 
+Butterfield, to have as much time as he will consume.
+  Mr. BUTTERFIELD. I want to thank the gentlelady for yielding the time 
+and thank her for her leadership on this committee, and certainly thank 
+her for her work on this bill. I also would like to thank Chairman 
+Towns, in his absence, for allowing this matter to come to the 
+committee and for his hard work not only on the committee, but here in 
+the Congress.
+  Mr. Speaker, in short, H.R. 752 codifies Executive Order 12999, 
+making many of the provisions permanent law, but also adds provisions 
+making this much-needed equipment far more accessible to poor and 
+underserved regions of our country.
+  The FEED Act, as we refer to it, would streamline the process for 
+donating excess and surplus electronic equipment to small cities and 
+towns and counties and school districts and libraries and community-
+based educational nonprofit organizations.
+  This legislation gives preference to poorer communities, which often 
+have the greatest needs. This act would direct Federal agencies to 
+transfer excess equipment to the GSA for transfer to the qualifying 
+recipient at little or no cost.
+  The current system, Mr. Speaker, of acquiring Federal surplus 
+equipment is flawed. It is riddled with governmental redtape. Many 
+times it can take months or even years to receive requested equipment. 
+There was one such case in my district, which was actually the impetus 
+for the introduction of this bill, where GSA only began working on 
+fulfilling the request after direct congressional action. Citizens in 
+need of technology should be able to get it without bureaucratic 
+redtape, which only serves to discourage the applicant from pursuing 
+their goals.
+  Mr. Speaker, as you know, you and I both represent poor districts. I 
+represent the 15th poorest district in the Nation. If my recollection 
+is correct, you represent the poorest district in the Nation. And so we 
+certainly understand.
+  My constituents do not have access to the technology afforded to so 
+many. A small county, like Washington County in my district, which is 
+the fifth poorest county in my State, are home to towns like Roper, 
+North Carolina. With the county unemployment rate reaching nearly 8 
+percent, the visionary leadership of Mayor Estelle ``Bunny'' Sanders 
+has transformed Roper into a technology oasis with job creation and 
+training.
+  Roper, North Carolina, houses a technology center where citizens are 
+put to work refurbishing and updating and repairing electronic 
+equipment acquired through the process. They also receive training in 
+Web development, server management and computer maintenance. Without 
+the necessary excess and surplus electronic equipment with which to 
+work, the technology center and its trainees stand the risk of losing 
+years of hard work. Mayor Sanders has the patience and determination 
+required to navigate the murky waters of Federal excess and surplus 
+equipment, but most would not be that resilient.
+  Mr. Speaker, the Federal Government spends an enormous amount of the 
+taxpayers' money on technology. Last year, the U.S. Department of 
+Agriculture's budget included about $110 million in annual technology-
+related costs. Once equipment becomes slightly outdated, it shouldn't 
+just sit idle while there are so many needy small communities and 
+schools and libraries that can still put it to good use.
+  Throughout the United States, many of our small towns and rural areas 
+lack the very basic technology that many of us take for granted. This 
+important legislation grants underprivileged communities across America 
+access to Federal excess and surplus computers, printers and audio/
+visual and other technological equipment.
+  The bill, Mr. Speaker, is particularly important to communities in my 
+district, and will be an important tool in building the electronic 
+infrastructure for local governments, schools, libraries and 
+nonprofits. Many of the communities that I represent need every bit of 
+help they can get from this government, and hopefully this will free up 
+some resources that can be used to address other pressing needs.
+  I am proud to have offered this legislation that will directly impact 
+the lives of the underserved in this country. I would particularly like 
+to thank Mayor Sanders for her work and dedication, and Mr. John 
+Rosenthall, who has worked so hard with my staff for nearly 2 years in 
+seeing this bill to fruition.
+  Mr. Speaker, the current system is hurting the very people that it 
+was set up to help. This is a good bill. It is a good piece of 
+legislation that will help not only the people in Roper or in my 
+district, but help people all across the country, and we will all 
+benefit from it.
+  I urge my colleagues to vote ``aye'' on H.R. 752.
+  Mr. ISSA. Mr. Speaker, I rise in support of this legislation that 
+codifies the 1996 executive order of President Clinton that was issued 
+to promote the proper use of excess Federal computers and electronic 
+equipment to schools of our Nation.
+  I might want to clarify, because I know a lot of people hear us on 
+the House floor and they only know what they've heard. If you hear 
+``excess'' and ``surplus,'' you might think that, in fact, what we're 
+doing is simply overbuying and letting it sit in warehouses and then 
+giving it away. Virtually all of this equipment in the executive 
+branch, as in the legislative branch, are equipment that we have used 
+for 2, 3, 4 years. It is, in fact, past its prime for us, but very 
+usable by many other institutions.
+  So, Mr. Speaker, I would like to support this bill. I would like to 
+also make sure people understand that we're not just simply overbuying. 
+And the term ``excess'' or ``surplus'' doesn't by any means indicate 
+that we're not using America's dollars wisely, but rather, we're using 
+America's dollars again by making them available to people who can use 
+a slightly used computer, who don't need the latest version of Windows 
+and might not need the latest version of Pentium software. But, in 
+fact, this can help schools around America in poor neighborhoods and
+
+[[Page H4091]]
+
+even not so poor neighborhoods have a better opportunity and use their 
+hard-earned and hard-given dollars in other areas.
+
+                              {time}  1415
+
+  So I support this resolution. I hope that the American public 
+understands that this is a great way of causing these products not to 
+go into landfills 3, 4, 5 years earlier than they otherwise would by 
+making them available to those who can use them.
+  Mr. Speaker, I reserve the balance of my time.
+  Ms. WATSON. Mr. Speaker, I yield 1 minute to the gentleman from North 
+Carolina (Mr. Butterfield).
+  Mr. BUTTERFIELD. I want to thank the gentlewoman for yielding.
+  Mr. Speaker, in my desire to get through my prepared remarks a moment 
+ago, I failed to recognize and thank the minority side for its work on 
+this bill.
+  I certainly appreciate you, Mr. Issa, and all that you have done on 
+the committee and particularly your staff. You've been very helpful.
+  Also, I want to go on record in support of your comments that is not 
+new equipment that's just sitting in a warehouse unused. It's equipment 
+that has outused its lifetime here on Capitol Hill and in other places 
+but certainly can be used by smaller communities. So I want to 
+associate myself with your remarks.
+  Ms. WATSON. Mr. Speaker, I want to thank the sponsor, Mr. 
+Butterfield, for his work on the bill, as well as the various Members 
+that helped to move this bill forward. We also got helpful input from 
+the Committee on Science and Technology.
+  Chairman Waxman and Chairman Gordon exchanged letters regarding 
+committee jurisdiction, and I will include these letters in the 
+Congressional Record.
+
+         House of Representatives, Committee on Science and 
+           Technology,
+                                      Washington, DC, May 9, 2008.
+     Hon. Henry A. Waxman,
+     Chairman, Committee on Oversight and Government Reform, 
+         Rayburn House Office Building, Washington, DC.
+       Dear Mr. Chairman: I am writing to you concerning the 
+     jurisdictional interest of the Committee on Science and 
+     Technology in H.R. 752, the Federal Electronic Equipment 
+     Donation Act of 2007. The Committee on Science and Technology 
+     has jurisdictional interest in this bill based on the 
+     Committee's history of jurisdiction over the Stevenson-Wydler 
+     Technology Transfer Act of 1980 (P.L. 96-480). The Committee 
+     on Science and Technology was the sole House Committee of 
+     jurisdiction over the Stevenson-Wydler Technology Transfer 
+     Act of 1980 and has maintained jurisdiction over the law ever 
+     since. H.R. 752 makes specific mention of the Stevenson-
+     Wydler Technology Transfer Act of 1980 and creates a program 
+     with overlapping objectives to those found in that act.
+       The Committee on Science and Technology acknowledges the 
+     importance of H.R. 752 and the need for the legislation to 
+     move expeditiously. Therefore, while we have a valid claim to 
+     jurisdiction over this bill, I agree not to request a 
+     sequential referral. This, of course, is conditional on our 
+     mutual understanding that nothing in this legislation or my 
+     decision to forgo a sequential referral waives, reduces, or 
+     otherwise affects the jurisdiction of the Committee on 
+     Science and Technology, and that a copy of this letter and of 
+     your response will be included in the Congressional Record 
+     when the bill is considered on the House Floor.
+       The Committee on Science and Technology also expects that 
+     you will support our request to be conferees during any 
+     House-Senate conference on this, or any similar legislation. 
+     Thank you for your attention to this matter.
+           Sincerely,
+                                                      Bart Gordon,
+     Chairman.
+                                  ____
+
+         Congress of the United States, Committee on Oversight and 
+           Government Reform,
+                                      Washington, DC, May 9, 2008.
+     Hon. Bart Gordon,
+     Chairman, Committee on Science and Technology, Rayburn House 
+         Office Building, Washington, DC.
+       Dear Mr. Chairman: Thank you for your letter regarding H.R. 
+     752, the Federal Electronic Equipment Donation Act of 2008, 
+     which the Committee on Oversight and Government Reform 
+     reported, as amended, on April 9, 2008.
+       I appreciate your willingness to work cooperatively on this 
+     legislation and I recognize that the bill, as reported, 
+     contains provisions that fall within the jurisdiction of the 
+     Committee on Science and Technology. I agree that your 
+     inaction with respect to this bill does not prejudice the 
+     Science and Technology Committee's interests and prerogatives 
+     regarding this bill or similar legislation.
+       I will ensure that our exchange of letters is included in 
+     the Congressional Record during consideration on the House 
+     floor of H.R. 752.
+           Sincerely,
+                                                  Henry A. Waxman,
+                                                         Chairman.
+
+  Mr. Speaker, the bottom line is that the Federal Government spends a 
+lot of money on computers and we owe it to our taxpayers to get as much 
+use out of them as we can. H.R. 752 will help us do just that. And as 
+you just heard from the sponsor, these are pieces of equipment that no 
+longer are being used but they certainly have great use.
+  So I support this measure and urge my colleagues to do the same.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. ISSA. Mr. Speaker, I have no further requests for time, and I 
+yield back the balance of my time.
+  Ms. WATSON. Mr. Speaker, I have no further requests for time, and I 
+yield back the balance of my time.
+  The SPEAKER pro tempore (Mr. Serrano). The question is on the motion 
+offered by the gentlewoman from California (Ms. Watson) that the House 
+suspend the rules and pass the bill, H.R. 752, as amended.
+  The question was taken.
+  The SPEAKER pro tempore. In the opinion of the Chair, two-thirds 
+being in the affirmative, the ayes have it.
+  Mr. ISSA. Mr. Speaker, I object to the vote on the ground that a 
+quorum is not present and make the point of order that a quorum is not 
+present.
+  The SPEAKER pro tempore. Pursuant to clause 8 of rule XX and the 
+Chair's prior announcement, further proceedings on this motion will be 
+postponed.
+  The point of no quorum is considered withdrawn.
+
+                          ____________________
+```
