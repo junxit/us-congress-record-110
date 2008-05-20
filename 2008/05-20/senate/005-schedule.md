@@ -1,0 +1,39 @@
+---
+granule: CRECB-2008-pt7-Pg9714-6
+date: 2008-05-20
+edition: CRECB
+section: SENATE
+page: 9714
+---
+
+# SCHEDULE
+
+```
+                                SCHEDULE
+
+  Mr. REID. Mr. President, following leader time, there will be a 
+period of morning business until noon, with Senators permitted to speak 
+for up to 10 minutes each, with the Republicans controlling the first 
+half and the majority controlling the second. At 12 noon, the Senate 
+will proceed to executive session to consider the following 
+nominations: Michael McGinn, of Minnesota, to be U.S. Marshal for the 
+District of Minnesota; Ralph E. Martinez, of Florida, to be a member of 
+the Foreign Claims Settlement Commission of the United States; and G. 
+Steven Agee, of Virginia, to be U.S. circuit judge for the Fourth 
+Circuit.
+  The time from noon until 12:30 is equally divided and controlled 
+between Senator Leahy and Senator Specter. The Senate will recess from 
+12:30 until 2:15 p.m. for the weekly caucus luncheons. At 2:15, there 
+will be 15 minutes for debate equally divided and controlled between 
+Senators Warner and Webb or their designees. At 2:30, the Senate will 
+proceed to a rollcall vote on the confirmation of the Agee nomination. 
+Upon confirmation of the Agee nomination--and I am confident that will 
+take place--the other two nominations will be confirmed by consent.
+  Following executive session, we expect to consider the House message 
+accompanying H.R. 2642, the 2008 emergency supplemental. As previously 
+announced, the time from 11 a.m. until 12 noon tomorrow will be set 
+aside for tributes to former President Lyndon B. Johnson on the 
+centennial of his birth.
+
+                          ____________________
+```

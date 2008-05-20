@@ -1,0 +1,149 @@
+---
+granule: CRECB-2008-pt7-Pg9719
+date: 2008-05-20
+edition: CRECB
+section: SENATE
+page: 9719
+---
+
+# ELDER JUSTICE ACT
+
+```
+                           ELDER JUSTICE ACT
+
+  Mr. HATCH. Mr. President, since May is a month to honor and recognize 
+older Americans, I would like to take a few minutes to talk about my 
+strong commitment to having the Elder Justice Act, S. 1070, approved by 
+Congress and signed into law before the conclusion of the 110th 
+Congress.
+  Emily Dickinson once said, old age comes on suddenly, and not 
+gradually as is thought. As someone who just celebrated a birthday a 
+few months ago, this statement has never seemed more accurate!
+  Approximately 44 million people in this country are age 60 and above 
+which tells me that caring for older Americans must be a high priority 
+of future Congresses.
+  In fact, U.S. citizens 60 years of age and above will increase 
+dramatically over the next 30 years more than 76 million baby boomers 
+will be approaching retirement and old age over the next three decades. 
+Let me say that one more time--more than 76 million baby boomers will 
+be approaching retirement and old age over the next three decades.
+  Earlier this Congress, Senators Lincoln, Smith, Kohl and I introduced 
+the Elder Justice Act. Congressmen Rahm Emanuel and Peter King 
+introduced a nearly identical bill in the House. Currently, the Senate 
+bill has 28 cosponsors and the House bill has 113 cosponsors.
+  One person who really deserves a lot of the credit for this bill is 
+our former colleague from Louisiana, Senator John Breaux. He got the 
+ball rolling over here in the Senate. I will never forget him coming to 
+me way back in the 107th Congress and telling me that I needed to work 
+with him on the Elder Justice Act because it would make a tremendous 
+difference for older Americans throughout the country. He and I 
+introduced the Elder Justice Act back in the 107th Congress and ever 
+since then, the bill has been reintroduced each subsequent Congress.
+  I also want to acknowledge the fine work of the Elder Justice 
+Coalition, led by Bob Blancato, its national coordinator.
+  To date, the Elder Justice Coalition has close to 550 members and has 
+done an incredible job advocating for the passage of this legislation.
+  This Congress, for the first time, the Elder Justice Act has been 
+seriously considered by the House. Last week, the House Judiciary 
+Committee considered the Elder Justice Act and it appears that it will 
+be voted out of that committee this week. In the Senate, the 
+legislation has been reported unanimously by the Finance Committee in 
+both the 109th and 108th Congress; however, it has never been approved 
+by the full Senate. As far as I am concerned, this year is going to be 
+different. I will do everything in my power to ensure that this 
+legislation will pass the Senate and be signed into law before the 
+110th Congress adjourns.
+  Senator Lincoln and I are going to work with Finance Committee 
+Chairman Max Baucus and Ranking Member Chuck Grassley to schedule a 
+markup on this bill sometime this summer.
+  Over the past couple of years, I worked very closely with Health and 
+Human Services Secretary Mike Leavitt and his staff to address the 
+concerns that the administration has raised regarding our bill. Last 
+Congress, I felt like we had some fruitful discussions and progress was 
+made. Secretary Leavitt is a good friend of mine and he knows how 
+important it is to me, Senator Lincoln and senior citizens across the 
+country to have this legislation signed into law. The Secretary assured 
+me that he and his staff would continue to work with us on this bill.
+  So I intend to initiate discussions with the administration once 
+again in the hope that we will be able to come to agreement. And I 
+think we are very close.
+  I have had many ask why does there appear to be such a dramatic 
+increase in elder abuse in the United States. Because there is so 
+little data on elder abuse, it is difficult to know the answer to that 
+question.
+  Quite honestly, I believe that more and more people are taking 
+notice.
+  In the past, there has been no data collection of elder abuse--I find 
+that quite disturbing. The purpose of our legislation is to make 
+changes in the law so we have more precise numbers on how many seniors 
+are being exploited financially, being neglected or being physically or 
+mentally abused.
+  Findings from the often cited National Elder Abuse Incidence Study 
+suggest that more than 500,000 Americans aged 60 and above were victims 
+of domestic abuse in 1996. Studies show the amount of Federal dollars 
+spent on abuse and neglect of elders is substantially smaller than that 
+spent on child and domestic abuse.
+  Elder abuse is a profoundly personal tragedy for its victims--let me 
+cite a case from my home state of Utah. In Utah and across the country, 
+elderly Americans are being exploited and essentially being swindled 
+out of thousands of dollars. A local news station in Salt Lake recently 
+had a story that discussed check scams and how seniors are typically 
+the target of these questionable operations.
+  In Utah alone, the money that people have lost due to these types of 
+scams has quadrupled over the last 3 years. And while many of these 
+operations have addresses in the U.S., they typically originate 
+overseas.
+  For example, a check has been made out to a Salt Lake City senior for 
+close to $4,000. The senior is told that he has been chosen to be a 
+secret shopper and has the chance to win thousands of dollars. He is 
+told that he may keep $500, no strings attached, but he must wire more 
+than $3,000 back to them in order to get the $500. Because this senior 
+sees the chance to win $500, he sends the check for $3,000 and loses 
+all of his money.
+  According to the postal inspector, once a person responds to these 
+scams, he or she is put on what is called a sucker's list and continues 
+to be promised that hundreds and even thousands of dollars could be 
+gained if a check is sent. In Utah, 6 to 700 checks are reported to be 
+sent to these organizations each month.
+  The Elder Justice Act would help the Federal Government collect data 
+on how many senior citizens are being financially exploited, mentally 
+and physically abused and neglected.
+  This chart illustrates the dramatic difference in dollars spent on 
+elder abuse compared to child abuse and domestic abuse.
+  Ninety-one percent, or $6.7 billion, is spent on child abuse, 7 
+percent, or $520 million on domestic abuse and only 2 percent, or 
+$153.5 million, is spent on elder abuse. Considering the high numbers 
+of the population above age 60, it astounds me the small percentage the 
+Government is willing to dedicate to ending elder abuse.
+  The Elder Justice Act aims to address this serious problem.
+  Our bill would provide Federal resources to support State and 
+community efforts on the front lines dedicated to fighting elder abuse 
+with scarce resources and fragmented systems.
+  It directs the Federal Government to provide leadership to the States 
+and takes an important first step by calling on the Federal Government 
+to create an appropriate way to collect relevant data on elder abuse so 
+we have a better handle on how prevalent elder abuse is among our 
+neighbors, our friends, and our relatives.
+  It assures adequate public-private infrastructure and resources to 
+prevent, detect, treat, understand, intervene in and, where 
+appropriate, prosecute elder abuse, neglect and exploitation.
+
+[[Page 9720]]
+
+  With more than 76 million baby boomers retiring over the next three 
+decades, we cannot wait any longer for this legislation to pass. Older 
+Americans deserve nothing less. I know that it is extremely important 
+to folks back home in Utah.
+  In closing, I urge my colleagues to support this legislation so we 
+can provide older Americans the same protections that we provide to our 
+children and victims of domestic violence. Because we are not aging 
+gradually, our response must be immediate--we cannot afford to wait for 
+another Congress to end without approving this legislation.
+  Ralph Waldo Emerson once said, men are respectable only as they 
+respect. May we strive to be more respectable people by showing respect 
+to those who deserve it the most: our older Americans.
+  Thank you, Mr. President. I yield the floor.
+  The ACTING PRESIDENT pro tempore. The Senator from Arkansas.
+
+                          ____________________
+```

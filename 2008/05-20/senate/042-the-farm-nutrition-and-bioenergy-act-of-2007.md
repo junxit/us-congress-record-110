@@ -1,0 +1,177 @@
+---
+granule: CRECB-2008-pt7-Pg9768-2
+date: 2008-05-20
+edition: CRECB
+section: SENATE
+page: 9768
+---
+
+# THE FARM, NUTRITION, AND BIOENERGY ACT OF 2007
+
+```
+             THE FARM, NUTRITION, AND BIOENERGY ACT OF 2007
+
+  Mr. SPECTER. Mr. President, I have sought recognition to discuss my 
+reasons for voting for the conference report to H.R. 2419, The Farm, 
+Nutrition, and Bioenergy Act of 2007. Also known as the 2007 farm bill, 
+this legislation determines America's agriculture and domestic 
+nutrition policy for the next 5 years. It has, received substantial 
+criticism because of subsidies paid to farmers of five major 
+commodities or crops: corn, cotton, rice, soybeans, and wheat. On April 
+29, 2008, President Bush called the legislation a ``massive, bloated 
+farm bill'' and has said he would veto it. The bill has also drawn 
+criticism from taxpayer advocacy groups.
+  The 2007 farm bill conference report scores at $307 billion over 5 
+years. However, this increase is fully off-set with customs users fees 
+that are collected by the Border and Transportation Security 
+Directorate--formerly the U.S. Customs Service--of the Department of 
+Homeland Security for processing passengers, conveyances and 
+merchandise entering the United States. The White House has agreed that 
+this bill does not include any tax increase.
+  During my tenure in the U.S. Senate, I have fought hard for 
+agriculture and nutrition programs in Pennsylvania. However, I do have 
+concerns with direct payment subsidies for farmers where the amount is 
+not based on the price of the commodity and, more importantly, with 
+large, almost endless, payments to producers. In 2006, Riceland Foods, 
+Inc. located in Stuttgart, AR, received $7,710,705 for rice, soybean, 
+wheat, and corn production. In 2006, the top 10 recipients of direct 
+subsidies for production of corn, cotton, rice, soybeans, and wheat 
+were, in order of rank, Iowa, Illinois, Texas, Nebraska, Kansas, 
+Minnesota, Arkansas, Indiana, North Dakota, and Missouri. 
+Pennsylvania's agriculture producers are not the recipients of these 
+large subsidies, as Pennsylvania is a major producer of milk, Christmas 
+trees, and specialty crops, which include mushrooms, apples, and fruits 
+and vegetables. My home State ranks No. 1 in the production of 
+mushrooms, No. 4 in the production of apples and freestone peaches, and 
+No. 5 in the production of milk and grapes in the U.S. Pennsylvania 
+ranks 32 out of 50 in terms of Federal Government agricultural 
+payments, despite the fact that agriculture is PA's No. 1 industry.
+  These large subsidies were a major concern when I voted against the 
+2002 farm bill conference report, even though the bill contained 
+crucial programs for Pennsylvania, including the milk income loss 
+contract, MILC, and conservation and nutrition programs. It would be my 
+preference that we move toward a free market for agriculture.
+  While this legislation is not perfect, it is a much better 
+alternative to an extension of the 2002 farm bill or the reversion to 
+nonexpiring provisions of primarily the Agriculture Adjustment Act of 
+1938 and the Agriculture Act of 1949--permanent law. The 2002 farm bill 
+did not include any reforms of program subsidies and the 1938 and 1949 
+laws are drastically different from current policy, inconsistent with 
+current farming, marketing, and trade agreements, and would mandate 
+higher subsidy rates and land controls.
+  I have reviewed the pending conference report to determine its 
+benefits for the entire country, not just Pennsylvania where I have 
+heard from many constituents and stakeholders expressing their support. 
+This bill is not perfect, but it still moves America in the right 
+direction. Our Nation, like Pennsylvania, will on the whole benefit 
+from the 2007 farm bill. It makes key reforms to subsidy programs which 
+I will discuss more in detail later. In addition, this legislation 
+includes funding for domestic nutrition programs, conservation 
+programs, programs to help rural America, and the milk income loss 
+contract, MILC, program for America's dairy producers. For the first 
+time, the farm bill would extend assistance to specialty crop producers 
+through marketing and research programs.
+  This conference report includes significant subsidy reforms. Under 
+current law, producers are not eligible for payments if their adjusted 
+gross income, AGI, exceeds $2.5 million. In the final 2007 farm bill, a 
+producers' nonfarm income may not exceed $500,000 in order to receive a 
+payment. Further, a producers' farm income, or AGI, cannot exceed more 
+than $750,000 in order to receive a payment. One key reform is the 
+elimination of the so-called ``three-entity rule,'' which enabled a 
+farmer to collect twice the maximum payment limit amount by setting up 
+multiple businesses on the same farm. The White House was influential 
+in this
+
+[[Page 9769]]
+
+outcome, which I support. Although the final language did not attain 
+more stringent reforms as preferred by the White House or the Dorgan/
+Grassley amendment to the 2007 farm bill, this AGI reform is a step in 
+the right direction. I have been a consistent supporter of efforts to 
+limit payments to the major program crop producers. Further, the 
+measure includes Crop Insurance subsidy reform by reducing the 
+administrative and operating--A&O--reimbursement provided to agents by 
+2.3 percentage points and increasing catastrophic--CAT--and non-insured 
+assistance program--NAP--insurance fees.
+  The bill includes $209 billion for nutrition programs which is 68 
+percent of the entire cost of the bill. I have long supported nutrition 
+programs, also known as domestic food assistance programs, which are 
+crucial to help less fortunate Americans and those experiencing 
+difficult times. They include the Food Stamp Program, The Emergency 
+Food Assistance Program, TEFAP, the Commodity Supplemental Food 
+Program, Community Food Projects, the Seniors Farmers' Market Nutrition 
+Program, and fresh fruit and vegetable initiatives.
+  The Food Stamp Program helps 26 million low-income Americans buy 
+healthy food each month. Its benefits have not been raised in 30 years 
+and the conference report raises the minimum benefit from $10 to $14 
+per week, indexed for inflation. Further, the final 2007 farm bill also 
+includes $1 billion to expand the Fresh Fruit and Vegetable Program--
+FFVP--nationwide to reach nearly 3 million low-income children. The 
+FFVP allows schools to offer and promote free fresh fruits and 
+vegetables during the day.
+  The conference report includes $25 billion for conservation programs 
+to help America's farmers use environmentally friendly farming 
+practices in order to allow farmers to till the soil and raise 
+livestock, while still protecting the land. In Pennsylvania alone, 
+about one-quarter of all acres is farmland. The Environmental Quality 
+Incentives Program, the Wetlands Reserve Program, the Grassland Reserve 
+Program, the Farm and Ranch Land Protection Program, and the Wildlife 
+Habitat Incentives Program are all worthy initiatives that need 
+improvement and funding. Beyond providing funding for national 
+conservation programs, the bill has $438 million for conservation 
+programs in the Chesapeake Bay Watershed which includes large sections 
+of Pennsylvania.
+  Rural America, the backbone of our country, will benefit from this 
+comprehensive legislation by reducing the backlog of unfunded pending 
+rural development water and wastewater loan and grant applications. 
+Also, broadband service will be expanded to rural America to allow 
+access to those businesses, farms, and families in rural areas with no 
+or very limited service. Further, a new rural microenterprise 
+assistance program would be established for low and moderate income 
+individuals to help develop the skills necessary to establish new small 
+businesses in rural America. Lastly, the conference report provides 
+$250 million in mandatory funding for grants and loan guarantees for 
+renewable energy and energy efficiency systems for farmers, ranchers, 
+and rural small businesses. One item of note is that reduction of the 
+production tax credit for corn ethanol from 51 cents/gallon to 45 
+cents/gallon to reduce the incentive to shift corn production from feed 
+to fuel in order to ensure that we are planting enough acres for other 
+crops, including wheat and soybeans, for food.
+  Finally, our dairy producers will continue to have the safety-net 
+they deserve with a much-needed modification. The 2007 farm bill 
+conference report funds the MILC program that provides countercyclical 
+payments to our dairy producers when the price of milk falls below a 
+set trigger price. This trigger price, as modified, will be adjusted on 
+a monthly basis depending on the changes in the costs of feed. 
+Increasing input costs are straining our producers and this will ensure 
+that the payment will compensate for the increasing costs incurred by 
+the dairy farmer. Also, the payment rate will be increased back to 45 
+percent from 34 percent and the cap on milk production will increase 
+from 2.4 million pounds to 2.98 million pounds per year. Since its 
+inception in the 2002 farm bill, the MILC program has provided more 
+than $220 million to Pennsylvania dairy farmers. I have been a strong 
+supporter of a mechanism to ensure that dairy farmers receive a fair 
+price for the milk they produce considering the increased input costs. 
+The bill also includes provisions to make the dairy industry more 
+transparent by requiring mandatory reporting of dairy commodities and 
+establishing a Federal Milk Marketing Order Review Commission.
+  America's specialty crop producers which include most fruits and 
+vegetables will get the assistance they need to market their products. 
+The bill provides about $1.3 billion in mandatory funding for specialty 
+crop block grants, technical assistance, and farmers' market promotion. 
+This is the most ever set aside in a farm bill to assist these farmers 
+who are left out of traditional Federal farm programs. The measure 
+establishes the National Clean Plant Network consisting of centers 
+across America to efficiently produce and distribute healthy planting 
+stock of critical high-value new varieties of fruit trees and 
+grapevines. These centers will be the first line of defense against 
+devastating viruses, like the Plum Plox virus outbreak in Adams County, 
+PA, in 1999. Also, both nursery and Christmas trees are included in the 
+Tree Assistance Program which provides disaster relief for growers who 
+lost their crops of trees due to natural disasters. Pennsylvania 
+growers produce over 10 million trees every year.
+  The 2007 farm bill is good for America and good for Pennsylvania. 
+Therefore, I support this crucial legislation.
+
+                          ____________________
+```
