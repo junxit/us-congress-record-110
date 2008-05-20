@@ -1,0 +1,61 @@
+---
+granule: CREC-2008-05-20-pt1-PgH4156
+date: 2008-05-20
+edition: CREC
+section: HOUSE
+page: H4156
+citation: 154 Cong. Rec. H4156
+---
+
+# WOMEN VETS
+
+**Speaking:** Fallin, Mary (F000453) [R-OK]
+
+**Measures:** H.Res. 1054
+
+```
+                               WOMEN VETS
+
+  The SPEAKER pro tempore. The Chair recognizes the gentlewoman from 
+Oklahoma (Ms. Fallin) for 5 minutes.
+  Ms. FALLIN. Thank you, Mr. Speaker.
+  With Memorial Day right around the corner, now is the time to reflect 
+upon the courage, the dedication and the patriotism personified by the 
+men and the women in our Armed Forces. I know many Americans will stop 
+this weekend and will thank a veteran in their family or in their 
+community for their service to our Nation. They may meet a young 
+soldier back from a tour of duty in Iraq and may quietly just thank God 
+that we are born in a Nation where freedom is valued and fought for.
+  In our modern military, it is becoming increasingly likely that a 
+returning soldier is a woman, and while men still outnumber women in 
+the Armed Forces, military service is no longer a career choice for men 
+only. Today, there are more women than ever choosing to serve their 
+country. They are pilots, engineers, commanders of ships, military 
+police, and nurses. Deployed in two different theaters, women are 
+playing a vital role in our war efforts.
+  Now more than 185,000 women have been deployed in support of 
+Operation Enduring Freedom, Operation Iraqi Freedom and in other 
+missions since 2001. Since its inception, women have played a vital 
+role in defending our Nation and its freedoms. Whether it is in a 
+hospital, in the tents of the revolution, in the shipyards of World War 
+II or in the strategic combat positions they hold in our modern 
+military, the contribution of women to our national defense is 
+undeniable.
+  Tomorrow, I will be honored to join several of my colleagues from 
+this chamber as we lay a wreath at the Arlington National Cemetery to 
+honor the more than over 350 women in uniform who have died defending 
+this great Nation since World War I.
+  In a few hours, we will be given the opportunity to honor these women 
+and their significant contributions to our military when we vote on 
+House Resolution 1054: Honoring the service and achievements of women 
+in the Armed Forces and female veterans. By supporting this resolution, 
+we can send a clear message to our women in the military and to our 
+women veterans that your service is not forgotten nor is your courage, 
+your patriotism nor
+
+[[Page H4157]]
+
+your sacrifice. Today, we honor you all.
+
+                          ____________________
+```
