@@ -1,0 +1,51 @@
+---
+granule: CRECB-2008-pt8-Pg10932-2
+date: 2008-05-21
+edition: CRECB
+section: EXTENSIONS
+page: 10932
+---
+
+# TRIBUTE TO ALLEN E. TACKETT WEST VIRGINIA AIR NATIONAL GUARD
+
+```
+      TRIBUTE TO ALLEN E. TACKETT WEST VIRGINIA AIR NATIONAL GUARD
+
+                                 ______
+                                 
+
+                       HON. SHELLEY MOORE CAPITO
+
+                            of west virginia
+
+                    in the house of representatives
+
+                        Wednesday, May 21, 2008
+
+  Mrs. CAPITO. Madam Speaker, today I rise to give my congratulations 
+to the West Virginia Army National Guard, under Adjutant General Allen 
+E. Tackett, for being the special category winner of the Army Chief of 
+Staff Army Communities of Excellence.
+  The ACOE Awards are presented every year to recognize excellence in 
+performance for installation management. The award recognizes 
+installation improvement, innovation, groundbreaking initiatives, and 
+dedication to efficiency, and effectiveness. The award also 
+acknowledges support to soldiers, non-military employees, veterans, and 
+military families who reside on Army installations.
+  The West Virginia Army National Guard, which has 32 units, is 
+currently supporting missions in Iraq, Afghanistan and Kosovo. It has 
+been rated number one in readiness for the past 11 years.
+  The West Virginia Army National Guard has proven itself to be an 
+elite, efficient military force. I am so proud that they have won 
+recognition for their outstanding performance. Among their peer 
+installations they have gained notoriety for their work in defending 
+the homeland, and serving the American people at home and abroad.
+  I want to take this opportunity to thank and honor my fellow West 
+Virginians who serve in the Army National Guard as well as all branches 
+of the military. Their bravery and sacrifice exemplifies the best our 
+country has to offer.
+  I encourage them to continue their hard work and am confident that 
+they will continue to impress our Nation.
+
+                          ____________________
+```

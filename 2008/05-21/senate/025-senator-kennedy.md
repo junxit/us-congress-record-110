@@ -1,0 +1,70 @@
+---
+granule: CRECB-2008-pt7-Pg10163
+date: 2008-05-21
+edition: CRECB
+section: SENATE
+page: 10163
+---
+
+# SENATOR KENNEDY
+
+```
+                            SENATOR KENNEDY
+
+  Mr. WYDEN. Mr. President, the television news folks spent much of 
+yesterday looking at brain scans and pretty much counting out our 
+friend Ted Kennedy. But I will tell you today, I think the TV crowd is 
+missing a much bigger story; that is, Ted is the most determined person 
+I have met, and anybody who counts Ted Kennedy out needs to have their 
+head examined.
+  Now, earlier today, Senator Kennedy's son, Ted junior, gave me a 
+call. Ted junior is a wonderful guy. We talked about all of the 
+instances where his family has tackled illness, defeated cancer. Ted 
+junior told me earlier today that his dad is mobilizing, he is building 
+a battle plan against cancer, he is talking to the experts, he is 
+digging out the facts the way we know Ted Kennedy does unlike anybody 
+else here in the Senate. And certainly Senator Kennedy is not 
+sugarcoating anything.
+  But I think it is also important to note that he sure is looking 
+ahead. Senator Kennedy is especially looking forward to the passion of 
+his life in public service, fixing health care and universal health 
+coverage, coverage for all of our people.
+  Ted has always been America's go-to guy on health care. He has always 
+been our conscience, our leader on the premier domestic issue of our 
+time. Ted is always telling me--he is telling a lot of the Senators--
+that this time Democrats and Republicans here in the Senate can get it 
+done, that after 60 years of bickering and quarreling partisanship, at 
+this time, it can get done. Ted says there is no reason the richest and 
+strongest country on Earth cannot figure this out and cannot figure out 
+a way to get good health care to all of our people. I especially like 
+the way Ted points out that we have thousands and thousands of 
+wonderful doctors and hospitals and health care providers. They are 
+ready and waiting for the political leadership to step up and tackle 
+this issue.
+  Now, nobody has stepped up on health care the way Ted Kennedy has. 
+Nobody has put the effort into looking ahead and what is it going to 
+take to fix the system, to build the coalitions--business, labor, 
+seniors, doctors, health care providers--all the people who are going 
+to be necessary to fix health care.
+  We should be very grateful that Ted Kennedy has always stepped up on 
+fixing American health care, particularly the challenge of our time, 
+universal coverage. And I for one am very glad this afternoon that 
+Senator Kennedy is looking forward to being back at his post, as we go 
+forward, Democrats and Republicans, and tackle this issue, this issue 
+so important to our people and our families. That is what Senator 
+Kennedy and his public service is all about. I want to report this 
+afternoon, he is sure looking ahead to the big challenges we face. And 
+we want him back here with us as soon as he can.
+  I yield the floor, and I suggest the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The bill clerk proceeded to call the roll.
+  Mr. ALLARD. I ask unanimous consent that the order for the quorum 
+call be rescinded.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. ALLARD. Mr. President, my understanding is we are in morning 
+business, talking about the budget.
+  The PRESIDING OFFICER. The Senator is correct. Senators are allowed 
+to speak for up to 10 minutes.
+
+                          ____________________
+```
