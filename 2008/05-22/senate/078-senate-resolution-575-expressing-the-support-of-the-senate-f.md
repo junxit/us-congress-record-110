@@ -1,0 +1,106 @@
+---
+granule: CREC-2008-05-22-pt1-PgS4807
+date: 2008-05-22
+edition: CREC
+section: SENATE
+page: S4807
+citation: 154 Cong. Rec. S4807
+---
+
+# SENATE RESOLUTION 575--EXPRESSING THE SUPPORT OF THE SENATE FOR VETERAN ENTREPRENEURS
+
+**Speaking:** Stevens, Ted (S000888) [R-AK]
+
+**Measures:** S.Res. 575
+
+```
+SENATE RESOLUTION 575--EXPRESSING THE SUPPORT OF THE SENATE FOR VETERAN 
+                             ENTREPRENEURS
+
+  Mr. STEVENS (for himself, Ms. Murkowski, Mr. Inouye, Mr. Akaka, Mr. 
+Cochran, Mr. Isakson, Mr. Craig, Ms. Snowe) submitted the following 
+resolution; which was referred to the Commitee on Veterans' Affairs.
+
+                              S. Res. 575
+
+       Whereas the veterans of the United States have been vital 
+     to the small business enterprises of the United States;
+       Whereas the Nation should honor its veterans and in 
+     particular those veterans with disabilities incurred or 
+     aggravated in the line of duty during active service with the 
+     United States Armed Forces;
+       Whereas Congress passed the Veterans Entrepreneurship and 
+     Small Business Development Act of 1999 (Public Law 106-50; 
+     113 Stat. 233) to assist veterans interested in starting or 
+     expanding small businesses;
+       Whereas the Veterans Entrepreneurship and Small Business 
+     Development Act of 1999 required the President to establish a 
+     goal of awarding not less than 3 percent of the total value 
+     of all Federal prime contracts and subcontracts to service-
+     disabled veteran-owned small businesses;
+       Whereas Congress approved the Veterans Benefits Act of 2003 
+     (Public Law 108-183; 117 Stat. 2651) to expand benefits for 
+     veterans;
+       Whereas the Veterans Benefits Act of 2003 gave agency 
+     contracting officers the authority to reserve certain 
+     procurement contracts for service-disabled veteran-owned 
+     small businesses;
+       Whereas President George W. Bush issued Executive Order 
+     13360 (60 Fed. Reg. 62,549) in 2004, calling on Federal 
+     agencies to more effectively implement the legislative 
+     changes to the Small Business Act (15 U.S.C. 631 et seq.) 
+     included in the Veterans Entrepreneurship and Small Business 
+     Development Act of 1999 and the Veterans Benefits Act of 
+     2003;
+       Whereas, despite those Acts of Congress and the issuance of 
+     Executive Order 13360 by the President, service-disabled 
+     veteran-owned small businesses still struggle to receive a 
+     fair share of Federal contracts; and
+       Whereas Federal agencies have consistently fallen short of 
+     the statutory contracting goal for service-disabled veteran-
+     owned small businesses set by the Veterans Entrepreneurship 
+     and Small Business Development Act of 1999: Now, therefore, 
+     be it
+       Resolved, That the Senate--
+       (1) reaffirms the strong support of the United States for 
+     its veterans and veteran entrepreneurs; and
+       (2) calls on Federal agencies to work to improve Federal 
+     contracting opportunities for service-disabled veteran-owned 
+     small businesses.
+
+  Mr. STEVENS. Mr. President, I rise to submit a resolution that is 
+cosponsored by Senator Murkowski, Senator Inouye, Senator Akaka, 
+Senator Cochran, Senator Isakson, Senator Craig, and Senator Snowe.
+  I am submitting this resolution to honor veteran entrepreneurs and 
+calling on the Federal Government to improve Federal contracting 
+opportunities for service-disabled, veteran-owned small businesses. 
+They call them SDVOSBs.
+  These veteran entrepreneurs have given so much to our country, and 
+the Federal Government needs to honor them by utilizing their array of 
+valuable skills.
+  Almost 9 years ago, Congress passed the Veterans Entrepreneurship and 
+Small Business Development Act of 1999, which directed the President to 
+establish a goal of awarding at least 3 percent of Federal contracts to 
+service-disabled, veteran-owned small businesses.
+  In subsequent years, however, the Federal agencies have consistently 
+failed to reach that statutory goal. In the most recent official 
+governmentwide report, contract awards for service-disabled, veteran-
+owned small businesses made up less than 1 percent of all Federal 
+contracts.
+  As I travel home this weekend to observe Memorial Day, I will have 
+the great honor of being accompanied by U.S. Department of Veterans 
+Affairs Secretary Dr. James Peake, who has accepted my invitation to 
+visit our State.
+  Dr. Peake, a decorated combat veteran and former Army Surgeon 
+General, is an exceptional American. An important challenge for the VA 
+will be to provide adequate VA health facilities and services to 
+veterans in rural areas.
+  Dr. Peake's decision to travel from our Nation's Capital to Alaska on 
+this important holiday shows his commitment to all veterans, 
+particularly those who come from rural areas.
+
+
+
+
+                          ____________________
+```
