@@ -1,0 +1,71 @@
+---
+granule: CRECB-2008-pt8-Pg10431
+date: 2008-05-22
+edition: CRECB
+section: SENATE
+page: 10431
+---
+
+# CELEBRATING ASIAN PACIFIC AMERICAN HERITAGE MONTH
+
+```
+           CELEBRATING ASIAN PACIFIC AMERICAN HERITAGE MONTH
+
+  Mr. REID. Mr. President, I rise today with the great pleasure of 
+recognizing the month of May as Asian Pacific American Heritage Month 
+and honoring the many contributions that Americans of Asian and Pacific 
+Islander descent have made to our great Nation and to my home State of 
+Nevada.
+  I am proud of the role this distinguished chamber played in the 
+designation of Asian Pacific American Heritage Month, albeit many years 
+too late. On June 19, 1978, some 135 years after the arrival of the 
+first Japanese immigrant to the United States, Representatives Frank 
+Horton and Norman Mineta introduced a joint resolution ``authorizing 
+and requesting the President to proclaim the 7-day period beginning on 
+May 4, 1979, as 'Asian/Pacific American Heritage Week''--H.J. Res. 
+1007. Two months after being passed overwhelmingly by the House, the 
+Senate unanimously approved the joint resolution and promptly sent it 
+to President Jimmy Carter for his signature.
+  In addition to recognizing the onset of Japanese immigration to 
+America, the month of May was selected because May 10, 1869, also known 
+as Golden Spike Day, marked the completion of the first 
+transcontinental railroad in the United States, to whose construction 
+Chinese pioneers contributed greatly. Hundreds of miles of this 
+railroad passed through a newly admitted and mostly uninhabited western 
+state that I have called home for my whole life. Without the tireless 
+efforts and tremendous sacrifices of these Asian settlers, the state of 
+Nevada would have remained largely disconnected from the rest of our 
+country for an untold number of years.
+  Rising to support H.J. Res. 1007, Senator Spark Matsunaga, who served 
+the State of Hawaii for over 13 honorable years before succumbing to 
+cancer, remarked that ``most Americans are unaware of the history of 
+Pacific and Asian Americans in the United States, and their 
+contributions to our Nation's cultural heritage.'' He continued by 
+saying that one of the two main purposes of the joint resolution was 
+``to imbue a renewed sense of pride among our citizens of Pacific and 
+Asian ancestry.'' I am delighted that the many celebrations taking 
+place around the
+
+[[Page 10432]]
+
+country to commemorate Asian Pacific American Heritage Month, 
+particularly in my home State of Nevada, have showcased the enduring 
+sense of pride that Senator Matsunaga spoke about nearly three decades 
+ago.
+  Almost 14 years after President Carter signed H.J. Res. 1007 into 
+law, Representative Frank Horton once again assumed the leadership role 
+on this issue and introduced a bill to permanently designate May of 
+each year as ``Asian Pacific American Heritage Month''--H.R. 5572. 
+After this bill was passed by both Houses of Congress, President George 
+H.W. Bush signed it into law on October 23, 1992.
+  Ever since, our country has taken the time at the end of each spring 
+to celebrate the innumerable contributions that Americans of Asian and 
+Pacific Islander ancestry have made and continue to make to the United 
+States. To the roughly 15 million Asian and Pacific Islander Americans 
+who currently live in our country, and most especially to the thousands 
+of those who reside in Nevada, I wish you all the best during this 
+joyous time of year. I urge my colleagues in this Chamber to do the 
+same.
+
+                          ____________________
+```

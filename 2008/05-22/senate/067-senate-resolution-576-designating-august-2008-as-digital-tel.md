@@ -1,0 +1,134 @@
+---
+granule: CRECB-2008-pt8-Pg10463-2
+date: 2008-05-22
+edition: CRECB
+section: SENATE
+page: 10463
+---
+
+# SENATE RESOLUTION 576--DESIGNATING AUGUST 2008 AS ``DIGITAL TELEVISION TRANSITION AWARENESS MONTH''
+
+```
+SENATE RESOLUTION 576--DESIGNATING AUGUST 2008 AS ``DIGITAL TELEVISION 
+                      TRANSITION AWARENESS MONTH''
+
+  Mr. HATCH (for himself, Ms. Klobuchar, Mr. Biden, Mr. Voinovich, Mr. 
+Cornyn, Mr. Burr, Mr. Tester, Mr. Barrasso, Mr. Grassley, Mr. Schumer, 
+Mr. Durbin, Mr. Dorgan, Mr. Inhofe, Mrs. Boxer, Mr. Coleman, Ms. 
+Cantwell, Mr. Cochran, Mr. Craig, Mr. Sanders, Mr. Specter, Ms. 
+Landrieu, Mr. Rockefeller, Mr. Akaka, Mr. Nelson of Nebraska, Ms. 
+Snowe, Mr. Leahy, Mr. Roberts, Mr. Cardin, Mr. Crapo, and Mr. Wicker)
+
+[[Page 10464]]
+
+submitted the following resolution; which was referred to the Committee 
+on the Judiciary:
+
+                              S. Res. 576
+
+       Whereas, starting February 17, 2009, full-power television 
+     stations will shut down their traditional analog signals and 
+     will broadcast in digital only pursuant to the Digital 
+     Television Transmission and Public Safety Act of 2005 (47 
+     U.S.C. 309 note);
+       Whereas some studies indicate that 64 percent of consumers 
+     know about the transition to digital television, and of those 
+     consumers 74 percent have major misconceptions about the 
+     impact of the transition on their television services;
+       Whereas many consumers who will be left without any 
+     television service after February 17, 2009, may be unaware of 
+     both the transition and the Government coupon program created 
+     to defray the cost of a converter box;
+       Whereas markets in the West and in Mid-West have the 
+     highest percentage of consumers who rely on over-the-air 
+     television signals;
+       Whereas the Salt Lake City, Utah, area has the single 
+     highest percentage of consumers who rely on over-the-air 
+     television signals among major cities in the United States, 
+     with nearly 23 percent of all households with television 
+     sets, more than 200,000 homes, relying on free analog 
+     television signals;
+       Whereas more than 20 percent of homes with television sets 
+     in Fresno, California, and Minneapolis, Minnesota, also rely 
+     solely on free over-the-air television signals;
+       Whereas the transition to digital television is significant 
+     to vulnerable populations such as senior citizens and low-
+     income and minority households; and
+       Whereas designating a ``Digital Television Transition 
+     Awareness Month'' will help Congress to encourage the 
+     development of local action plans focused on strategic 
+     outreach to the communities most affected by the transition 
+     to digital television, including senior citizens and 
+     residents of rural areas: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) designates August 2008 as ``Digital Television 
+     Transition Awareness Month''--
+       (A) to increase public awareness regarding the February 17, 
+     2009, transition to digital television; and
+       (B) to encourage consumers to become educated about 
+     participating in the Government coupon program for obtaining 
+     converter boxes;
+       (2) encourages consumers to make the transition to digital 
+     television well before February 17, 2009, so that consumers 
+     have time to obtain and connect converter boxes; and
+       (3) encourages local nonprofit organizations, such as 
+     religious congregations, scout troops, and school-based 
+     community service groups--
+       (A) to assist households to apply for and obtain Government 
+     coupons and converter boxes and to install converter boxes; 
+     and
+       (B) to educate consumers about Internet websites and other 
+     sources of valuable information regarding the transition to 
+     digital television.
+
+  Mr. HATCH. Mr. President, I rise today to introduce with my good 
+friend from Minnesota, Senator Amy Klobuchar, S. Res. 576, which would 
+designate August 2008 as Digital Television Transition Awareness Month.
+  Pursuant to the Digital Television Transmission and Public Safety Act 
+of 2005, starting on February 17, 2009, full-power television stations 
+will shut down their traditional analog signals and will broadcast in 
+digital only. Concentrating efforts to educate consumers well in 
+advance about both the upcoming transition and their options will 
+ensure as smooth a transition as possible. That is why Senator 
+Klobuchar and I, along with dozens of original cosponsors, have 
+introduced this resolution today.
+  I believe that the month of August is a perfect time to highlight the 
+ongoing educational efforts about the transition to digital television 
+next year. After all, we want to encourage those who will need to take 
+some action to do so now, rather than wait until the last moment.
+  Several studies indicate that many consumers who will be left without 
+any television service after February 17, 2009, may be unaware of the 
+transition and the Government coupon program created to defray the cost 
+of converter boxes. While 64 percent of consumers know about the 
+transition to digital television, 74 percent of that group has major 
+misconceptions about the impact of the transition on their television 
+services. The transition to digital television is especially 
+significant to vulnerable populations such as senior citizen, low-
+income, and minority households.
+  I note that television markets in the West and Midwest have the 
+highest percentage of consumers who rely on over-the-air television 
+signals. In Utah alone, Salt Lake City has the highest percentage of 
+homes in a major metropolitan area, with almost one in four relying on 
+free analog television signals.
+  The Federal Communications Commission, FCC, recently adopted a 
+proposal to educate consumers about the impending transition. In 
+addition, there are many sources of information on the transition, 
+coupon program and consumer options available on the Internet. These 
+Web sites are comprehensive and provide links to the Government coupon 
+program site where consumers must register to receive the coupons. 
+However, these sites do not reach certain populations, those most 
+likely to be affected by the transition, as effectively.
+  Congress can and should do more, not only to educate consumers, but 
+also to foster local outreach programs to assist these consumers as 
+they obtain coupons or choose and install converter boxes. Designating 
+August 2008 as Digital Television Transition Awareness Month, timed 
+specifically to take advantage of the congressional recess, will place 
+particular emphasis on educating consumers well in advance of the 
+transition, and will be an integral part of the overall educational 
+program endorsed by the FCC.
+  I hope that this resolution will be passed and my colleagues will 
+join me in doing all they can to make the transition from analog to 
+digital television easier for those most affected across our Nation.
+
+                          ____________________
+```

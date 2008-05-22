@@ -1,0 +1,54 @@
+---
+granule: CRECB-2008-pt8-Pg10444-3
+date: 2008-05-22
+edition: CRECB
+section: SENATE
+page: 10444
+---
+
+# ADDITIONAL STATEMENTS
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+             CONGRATULATING KATELYN BOWLES AND RILEY MILLER
+
+● Mr. BUNNING. Mr. President, today I congratulate Ms. Katelyn 
+Bowles and Ms. Riley Miller on receiving the Prudential Spirit of 
+Community Award. Sponsored by Prudential Financial and the National 
+Association of Secondary School Principals, the Prudential Spirit of 
+Community Award recognizes middle and high school students who perform 
+outstanding community service at the local, State and national level. 
+Each year, two students are chosen as State honorees from each of the 
+50 States, and the District of Columbia.
+  Ms. Bowles, a senior at Montgomery County High School in Mount 
+Sterling, KY, has been recognized as one of the Commonwealth top youth 
+volunteers. She spearheaded a campaign to renovate the Mount Sterling 
+C&O Train Depot, an integral part of the community tradition. By 
+initiating a business plan between Future Business Leaders of America 
+members and local government agencies, Ms. Bowles successfully secured 
+$200,000 in grants for the project, including $153,000 from the 
+Kentucky Transportation Cabinet. Additionally, she managed to recruit 
+fellow high school students to help with much of the renovation, 
+scheduled to be completed next year.
+  In addition to being chosen as a State honoree, Ms. Miller, an eighth 
+grader at Drakes Creek Middle School in Bowling Green, KY, has been 
+selected as one of America's top 10 youth volunteers. She is recognized 
+for her outstanding efforts in raising $50,000 for childhood cancer 
+research over the past 3 years. Having lost two younger brothers to 
+leukemia, raising money for cancer research is a particularly important 
+mission for Ms. Miller. Last year alone, Ms. Miller managed 29 lemonade 
+stands with over 200 volunteers across Bowling Green, raising $19,000. 
+This incredible feat demonstrates her exceptional dedication, 
+organizational skill, and enormous capacity for leadership.
+  Ms. Bowles and Ms. Miller have proven themselves to be exemplary 
+students and volunteers, deserving of the Prudential Spirit of 
+Community Award. They are an inspiration to the citizens of Kentucky 
+and to student leaders and community volunteers everywhere. I look 
+forward to seeing all that they will accomplish in the future.●
+
+                          ____________________
+```

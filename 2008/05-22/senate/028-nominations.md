@@ -1,0 +1,94 @@
+---
+granule: CRECB-2008-pt8-Pg10426
+date: 2008-05-22
+edition: CRECB
+section: SENATE
+page: 10426
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Mr. WHITEHOUSE. Mr. President, as a member of the Judiciary 
+Committee, let me indicate that we are not entirely unfamiliar on the 
+Judiciary Committee with Judge White. She was actually an appointee of 
+President Clinton. For many months, she languished before the committee 
+when it was under Republican control. So she should be a judge with 
+whom at least a considerable number of the members of the Judiciary 
+Committee would have been familiar from her previous appointment. Any 
+suggestion that she was a new arrival or a novelty of some kind to the 
+committee would not be accurate.
+  Mr. President, I ask unanimous consent to have printed in the Record 
+an April 30, 2008, letter to the Republican leader and the ranking 
+member of the Judiciary Committee signed by the majority leader, 
+indicating, among other things, the following:
+
+       In a floor statement on April 15 I pledged my best efforts 
+     to have the Senate consider three circuit court nominations 
+     prior to the Memorial Day recess. I stand by my pledge. I 
+     cautioned explicitly that ``I cannot guarantee'' this outcome 
+     because it depends upon factors beyond my control. 
+     Nonetheless, I remain optimistic we can meet that goal.
+
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+                                                      U.S. Senate,
+
+
+                                Office of the Majority Leader,
+
+                                   Washington, DC, April 30, 2008.
+     Hon. Mitch McConnell,
+     Senate Minority Leader,
+     Washington, DC.
+     Hon. Arlene Specter,
+     Ranking Member, Senate Judiciary Committee, Washington, DC.
+       Dear Senators McConnell and Specter: Thank you for your 
+     letter yesterday regarding judicial nominations.
+       In a floor statement on April 15 I pledged my best efforts 
+     to have the Senate consider three circuit court nominations 
+     prior to the Memorial Day recess. I stand by my pledge. I 
+     cautioned explicitly that ``I cannot guarantee'' this outcome 
+     because it depends upon factors beyond my control. 
+     Nonetheless, I remain optimistic we can meet that goal.
+       A hearing for Fourth Circuit nominee Steven Agee, as well 
+     as district court nominees recommended by Senators Lugar and 
+     Kyl, will take place tomorrow afternoon. A hearing for Sixth 
+     Circuit nominees Raymond Kethledge and Helene White, as well 
+     as a Michigan district court nominee, will take place next 
+     Wednesday. Senator Leahy has expedited consideration of the 
+     Michigan nominees in light of my April 15 remarks.
+       Nothing in my pledge regarding judicial nominations 
+     deprived Chairman Leahy of his prerogative to determine the 
+     sequence of nomination hearings in his committee. No one 
+     presumed to instruct Senator Specter about the sequence of 
+     nominations during the years he served as Chairman of the 
+     Judiciary Committee. And certainly Senator Hatch exercised 
+     the chairman's prerogatives freely during the years in which 
+     more than sixty of President Clinton's nominees were denied 
+     hearings or floor consideration.
+       The Democratic majority has treated President Bush's 
+     judicial nominations with far greater deference than 
+     President Clinton was afforded by a Republican-controlled 
+     Senate. Three-quarters of President Bush's court of appeals 
+     nominees have been confirmed; in contrast, only half of 
+     President Clinton's appellate nominations were confirmed. 
+     Altogether, 145 of President Bush's judicial nominees, 90 
+     percent of them, have been confirmed in the years that 
+     Democrats have controlled the Senate. Last year the Senate 
+     confirmed 40 judges, more than during any of the three 
+     previous years with Republicans in charge. The federal 
+     judicial vacancy rate is the lowest it has been in years.
+       Chairman Leahy and I will continue to work with you both to 
+     process judicial nominations in due course, consistent with 
+     the Senate's constitutional role.
+           Sincerely,
+                                                       Harry Reid.
+
+  Mr. WHITEHOUSE. Mr. President, thank you. I appreciate that.
+
+                          ____________________
+```
