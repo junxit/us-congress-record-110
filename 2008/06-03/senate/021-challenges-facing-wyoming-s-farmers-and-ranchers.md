@@ -1,0 +1,145 @@
+---
+granule: CREC-2008-06-03-pt1-PgS4960
+date: 2008-06-03
+edition: CREC
+section: SENATE
+page: S4960
+citation: 154 Cong. Rec. S4960
+---
+
+# CHALLENGES FACING WYOMING'S FARMERS AND RANCHERS
+
+**Speaking:** Barrasso, John (B001261) [R-WY]
+
+```
+            CHALLENGES FACING WYOMING'S FARMERS AND RANCHERS
+
+  Mr. BARRASSO. Mr. President, I believe our Nation's farmers and 
+ranchers--free of government interference and redtape--are the best 
+stewards of the land.
+  Unfortunately in Washington, there are people who don't understand 
+Wyoming. We do not need the Federal Government to regulate mud puddles 
+and wetlands. We know how to manage our lands. We do not take kindly to 
+the ``Washington knows best'' philosophy. We are westerners. We have 
+been living out here for a long time without the helpful hand of the 
+Federal Government.
+  A recent editorial printed in the Wyoming Livestock Roundup on April 
+5 really hit home. I recommend to my colleagues the editorial by Jim 
+Magagna as reflecting the feelings of Wyoming farmers and ranchers. I 
+ask unanimous consent that it be printed in the Record.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+                         The Society We Live In
+
+       I am admittedly old-fashioned. I still relish the 60's when 
+     resource conflicts were most often resolved by just getting 
+     out and kicking a little dirt. I had my share of ``cussin' 
+     and discussin''' with BLM, USFS and WG&F personnel. I 
+     respected their professional expertise and they respected my 
+     practical experience. Most often this combination produced a 
+     result that was a little uncomfortable for both of us, but 
+     right for the resource. Neither of us was particularly 
+     concerned that our decisions would be challenged by anyone 
+     else.
+       Fast-forward to the 21st century: Resource managers are no 
+     longer respected for their professional judgment, which they 
+     can exercise only at peril of the agency being sued. The 
+     demands placed upon them to create paper trails leave little 
+     time for kicking the dirt. The U.S. Fish and Wildlife Service 
+     (FWS), has been added to the list of federal agencies known 
+     to strike fear into the hearts of ranchers. Resource 
+     decisions are driven primarily by often uninformed public 
+     opinion and agency efforts to avoid litigation. Many of the 
+     threats which once plagued only
+
+[[Page S4961]]
+
+     public land ranchers have migrated to private lands, 
+     infringing on our property rights. Many of today's decisions 
+     are simply not ``right for the resource''.
+       These 21st century resource management challenges have also 
+     forced ranchers and the organizations that represent them 
+     into the litigation arena to an unprecedented extent. Certain 
+     environmental organizations have perfected the litigation 
+     process as a tool to make government dysfunctional. Their 
+     formula is simple: Challenge every unfavorable decision on 
+     simple procedural grounds, utilizing the National 
+     Environmental Policy Act (NEPA) or the Endangered Species Act 
+     (ESA), as a tool. Make massive, costly and time-consuming 
+     demands on the agencies for documents under the Freedom of 
+     Information Act (FOIA), thereby preventing agency personnel 
+     from performing normal duties. Identify ``friendly'' courts 
+     that will assure a favorable decision on the weakest of 
+     evidence. Assure that the environmental organization's legal 
+     fees are paid by the taxpayer and that the FOIA fees are 
+     waived ``in the public interest''. This is the shameful but 
+     successful strategy of Western Watersheds Project, Center for 
+     Biological Diversity, Forest Guardians and a host of 
+     similarly aligned conspirators.
+       Meanwhile, back at the ranch, individual families are 
+     forced to scrape together thousands of dollars of their own 
+     funds to defend property rights and federal grazing permits. 
+     Financial and human resources that would otherwise be 
+     directed toward resource management and improvements are 
+     diverted to legal fees and endless meeting participation, 
+     thereby strengthening the claims of the environmental 
+     plaintiffs that the resource is not being properly managed. 
+     The rancher is placed in a vicious circle from which there is 
+     no ready escape.
+       Agricultural organizations at the state, national and local 
+     levels have stepped up to the plate in recent years in order 
+     to address these threats in a collective manner and relieve 
+     some of the burden placed on individual ranchers. In Wyoming, 
+     state government has been a partner in this effort, in 
+     particular regarding endangered species.
+       In 1999 the Wyoming Stock Growers Association (WSGA), for 
+     the first time in its then over 125 year history, deemed it 
+     necessary to establish a permanent Litigation Fund to support 
+     challenges by the radical environmental community. Since that 
+     time the generosity of our members and supporters has allowed 
+     us to participate in or financially support over ten (10) 
+     defenses of the property rights and interests of the ranching 
+     community. In addition to these direct expenditures, an 
+     increasing portion of staff time is dedicated to reviewing 
+     litigation and determining the appropriate level of 
+     involvement for the organization.
+       Currently, WSGA is involved as an intervenor in litigation 
+     seeking the listing of the sage grouse and in challenges to 
+     the state's elk feedgrounds. We have filed a motion to 
+     intervene in recent litigation seeking to force listing of 
+     the mountain plover. WSGA, joined by WWGA, has recently moved 
+     to file an amicus brief in litigation challenging the 
+     delisting of the grizzly bear. We were in the process of 
+     filing in the black-tailed prairie dog litigation when a 
+     settlement was reached. In addition, WSGA is a leader in an 
+     effort by the National Public Lands Council challenging the 
+     overturning of the revised BLM grazing regulations. The 
+     announcement last week by WildEarth Guardians of a lawsuit 
+     challenging the Secretary of Interior for failure to act on 
+     listing petitions for 681 species will undoubtedly present 
+     new ``opportunities'' for our involvement.
+       The ESA and NEPA are laws whose original intent remains 
+     valid. However, they have been co-opted by environmental 
+     litigants as procedural hurdles to serve their ultimate goal 
+     of land use control. Congress has demonstrated its inability 
+     to act in restoring integrity to these laws. There will 
+     continue to be a handful of federal judges who are willing to 
+     aid and abet in their abuse.
+       WSGA and others will continue to defend the property rights 
+     and grazing permits of ranchers in environmental litigation. 
+     This alone will not be enough. The time has arrived when we 
+     must develop a multi-faceted strategy to end this abuse of 
+     our rights and our legal system. We have begun the proactive 
+     step of building public support for our stewardship and 
+     forming alliances with other groups who support our role in 
+     resource management. Future steps should include an expose of 
+     the motives and tactics of select radical environmental 
+     groups and direct legal challenges to certain of their 
+     practices. This strategy will demand even greater short-term 
+     sacrifices by ranchers and a strong coordinated commitment by 
+     those who represent them. Success will assure a sustainable 
+     resource and a more secure future for our industry.
+
+                          ____________________
+```

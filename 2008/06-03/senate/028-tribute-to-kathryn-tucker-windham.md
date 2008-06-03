@@ -1,0 +1,98 @@
+---
+granule: CREC-2008-06-03-pt1-PgS4965
+date: 2008-06-03
+edition: CREC
+section: SENATE
+page: S4965
+citation: 154 Cong. Rec. S4965
+---
+
+# TRIBUTE TO KATHRYN TUCKER WINDHAM
+
+**Speaking:** Sessions, Jeff (S001141) [R-AL]
+
+```
+                   TRIBUTE TO KATHRYN TUCKER WINDHAM
+
+● Mr. SESSIONS. Mr. President, today I ask that my colleagues 
+join me in celebrating the 90th birthday of one of America's and 
+Alabama's most talented and acclaimed residents, Ms. Kathryn Tucker 
+Windham. Ms. Windham is a beloved storyteller, author, playwright, 
+photographer, television and radio personality and, most importantly, a 
+woman of faith, integrity, grace and high ideals.
+  This smalltown girl has written larger than life tales including 
+``Thirteen Alabama Ghosts and Jeffery'', along with many other 
+historically based ghost-stories that involve smalltown urban legends 
+in Alabama, Georgia, Tennessee, and Mississippi. She has also written 
+works like ``Twice Blessed'', ``GRITS'' and ``Alabama, One Big Front 
+Porch'', which reveal the rich joys of Alabama living.
+  She grew up in Thomasville, AL, not too far from my rural home and 
+not too far from another notable Alabama writer--Harper Lee. Her 
+capacity for storytelling and writing started early, as a news 
+reporter. But she did not stop there allowing her natural talent and 
+inclinations to lead her to a higher plane of national renown. It is 
+always inspirational to see a real person, an individual American, 
+follow their own calling and achieve success.
+  Ms. Windham represents the highest values of our State and region. 
+This is so because she was raised right, studied hard, thought deeply, 
+and was committed to a life that enriches others. A graduate of my alma 
+mater, Huntingdon College, she followed its admonition, ``Enter to grow 
+in wisdom; go forth to apply wisdom in service.''
+  I have known her and her son Ben for many years. I am so in awe of 
+her. Not just for her noteworthy achievements, but because of the 
+content of her character. She is an entertaining storyteller for sure, 
+but she is a truth teller also. Her works reflect with truth the nature 
+of the human condition. In them, she displays a love for all persons 
+that reflects well on her rich heritage of religious faith.
+  She, from a lifetime of experience and insight, has been a leader in 
+racial reconciliation in her home area. Persons of her integrity and 
+stature can make a positive difference and she has. She supports good 
+causes, knows in remarkable detail the history of the smallest 
+communities in our State, and knows the importance of simply 
+remembering. She loves children, capturing them with tall tales while 
+stressing education and personal character.
+  Her wonderful southern accent is well remembered on NPR's ``All 
+Things Considered'' and her commentaries are still heard on Alabama 
+Public Radio.
+  I applaud her on her many achievements, and I am thankful to have 
+such a beacon of literary excellence shining from Alabama. She is 
+highly recognized for her achievements by the whole State and around 
+the world and was one of the 13 artists chosen to represent the State 
+by the Alabama State Council for the Arts at Alabama in France and 
+Monaco in 2000. She was also honored in 2003 with the establishment of 
+the Kathryn Tucker Windham Museum at Alabama Southern College.
+  Fellow Alabama author Harper Lee, author of ``To Kill a 
+Mockingbird'', which is set in Monroeville not far from Thomasville, 
+nominated Ms. Windham to the Alabama Academy of Honor in 2003. Some of 
+her other accolades include: Alabama Humanities Award in 2000, the 
+Governor's Award for the Arts, the National Storytelling Association's 
+Circle of Excellence Award and Lifetime Achievement Award, the 
+University of Alabama's Society of Fine Arts' Alabama Award, the Selma 
+Rotary Club's Citizen of the Year, and she was inducted into the 
+University of Alabama College of Communications Hall of Fame.
+  In true poetic form, I think, Ms. Windham sums up her insights in her 
+book ``Alabama, One Big Front Porch'':
+
+       Alabama, they say, is like one big front porch where folks 
+     gather on summer nights to tell tales and to talk family. The 
+     stories they tell are all alike in their Southern blend of 
+     exaggeration, humor, pathos, folklore and romanticism. Family 
+     history is woven into the stories. And pride. And humor. 
+     Always humor.
+
+  I know I speak for all Alabamians and all Americans when I express my 
+gratitude for your eloquence, your literary achievements, and your 
+humanity, and say, ``Happy Birthday Kathryn Tucker Windham!''
+  In closing, I would like to leave the Senate with a few of her words 
+that truly embody the spirit of her work and life:
+
+       I think we need to be put back in touch with our childhood 
+     . . . to be reminded of what's important, like memories about 
+     people we loved, or things that happened to us that affected 
+     our lives, things we can laugh about and shed a few tears 
+     about . . . I think storytelling is a way of saying ``I love 
+     you. I love you enough to tell you something that means a 
+     great deal to me.''●
+
+                          ____________________
+```
