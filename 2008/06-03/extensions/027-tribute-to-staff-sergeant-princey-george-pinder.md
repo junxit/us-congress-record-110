@@ -1,0 +1,57 @@
+---
+granule: CRECB-2008-pt8-Pg11184-4
+date: 2008-06-03
+edition: CRECB
+section: EXTENSIONS
+page: 11184
+---
+
+# TRIBUTE TO STAFF SERGEANT PRINCEY GEORGE PINDER
+
+```
+            TRIBUTE TO STAFF SERGEANT PRINCEY GEORGE PINDER
+
+                                 ______
+                                 
+
+                         HON. KENDRICK B. MEEK
+
+                               of florida
+
+                    in the house of representatives
+
+                         Tuesday, June 3, 2008
+
+  Mr. MEEK of Florida. Madam Speaker, today I rise to honor an American 
+soldier who served 1 year in Iraq at Camps Ramadi and Fallujah while on 
+a mission to look for roadside bombs. Army SSG Princey George Pinder's 
+unit was hit four times, and miraculously they all survived the impact.
+  Born in Nassau, Bahamas, SSG Pinder is the fifth child born to Viola 
+Pinder and Frank Greene. He graduated from A.F. Adderley High School 
+and went on to be enlisted in the Royal Bahamas Police force in 1983, 
+where he received an honorable discharge in 1994. He continued his 
+higher education and received an associate degree from Miami Dade 
+College, bachelor's degree in Christian education and is currently 
+pursuing a bachelor's degree in criminal justice from Florida 
+International University. He holds various leadership training 
+certificates from the U.S. Army as a combat engineer.
+  For over 18 years SSG Pinder has served as the co-founder and senior 
+pastor of Baruch Christian Fellowship Ministries, Inc. in Miami-Dade 
+County. He has also served as vice-president director of a juvenile 
+delinquency and ex-offender mentorship program named Destiny Image 
+Review Network for 14 years, as well as co-founder of Baruch Leadership 
+Training Academy.
+  SSG Pinder enlisted in the Army in January 1997, and was deployed to 
+Iraq in March 2003. His second deployment took place in May 2007. SSG 
+Pinder currently serves as a reservist army staff sergeant in Camps 
+Ramadi and Fallujah, Iraq with the 841st Charlie Company from Perrine, 
+Florida. Upon return he will continue his employment as a motor 
+compliance officer with the Florida Department of Transportation.
+  Madam Speaker, SSG Princey George Pinder represents the best our 
+Nation has to offer. He volunteered to serve our Nation in uniform and 
+to protect our freedom and liberty. For this, his family, friends and 
+loved ones know that this Congress will always remember his bravery and 
+commitment in battle.
+
+                          ____________________
+```

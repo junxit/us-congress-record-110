@@ -1,0 +1,64 @@
+---
+granule: CRECB-2008-pt8-Pg11157
+date: 2008-06-03
+edition: CRECB
+section: SENATE
+page: 11157
+---
+
+# SUBMITTED RESOLUTIONS
+
+```
+                         SUBMITTED RESOLUTIONS
+
+                                 ______
+                                 
+
+    SENATE RESOLUTION 581--DESIGNATING JUNE 6, 2008, AS ``NATIONAL 
+                  HUNTINGTON'S DISEASE AWARENESS DAY''
+
+  Mr. INHOFE (for himself and Mr. Dodd) submitted the following 
+resolution; which was considered and agreed to:
+
+                              S. Res. 581
+
+       Whereas Huntington's Disease is a progressive degenerative 
+     neurological disease that causes total physical and mental 
+     deterioration over a 12 to 15 year period;
+       Whereas each child of a parent with Huntington's Disease 
+     has a 50 percent chance of inheriting the Huntington's 
+     Disease gene;
+       Whereas Huntington's Disease typically begins in mid-life, 
+     between the ages of 30 and 45, though onset may occur as 
+     early as the age of 2;
+       Whereas children who develop the juvenile form of the 
+     disease rarely live to adulthood;
+       Whereas the average lifespan after onset of Huntington's 
+     Disease is 10 to 20 years, and the younger the age of onset, 
+     the more rapid the progression of the disease;
+       Whereas Huntington's Disease affects 30,000 patients and 
+     200,000 genetically ``at risk'' individuals in the United 
+     States;
+       Whereas, since the discovery of the gene that causes 
+     Huntington's Disease in 1993, the pace of Huntington's 
+     Disease research has accelerated;
+       Whereas, although no effective treatment or cure currently 
+     exists, scientists and researchers are hopeful that 
+     breakthroughs will be forthcoming;
+       Whereas researchers across the Nation are conducting 
+     important research projects involving Huntington's Disease; 
+     and
+       Whereas the Senate is an institution that can raise 
+     awareness in the general public and the medical community of 
+     Huntington's Disease: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) designates June 6, 2008, as ``National Huntington's 
+     Disease Awareness Day'';
+       (2) recognizes that all people of the United States should 
+     become more informed and aware of Huntington's Disease; and
+       (3) respectfully requests the Secretary of the Senate to 
+     transmit a copy of this resolution to the Huntington's 
+     Disease Society of America.
+
+                          ____________________
+```
