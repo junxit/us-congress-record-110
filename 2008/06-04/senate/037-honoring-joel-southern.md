@@ -1,0 +1,110 @@
+---
+granule: CREC-2008-06-04-pt1-PgS5036
+date: 2008-06-04
+edition: CREC
+section: SENATE
+page: S5036
+citation: 154 Cong. Rec. S5036
+---
+
+# HONORING JOEL SOUTHERN
+
+**Speaking:** Murkowski, Lisa (M001153) [R-AK]
+
+```
+[[Page S5036]]
+                         HONORING JOEL SOUTHERN
+
+● Ms. MURKOWSKI. Mr. President, today I bid farewell to a 
+broadcast journalist who has done more to keep Alaskans informed of the 
+happenings in Washington, DC, over the past 21 years than any other 
+single journalist in the State. I rise to honor Joel Southern, the 
+Washington, DC, correspondent for the Alaska Public Radio Network, and 
+to wish him well in his future endeavors.
+  I entered politics in Alaska only in 1998, but by that time I had 
+been listening to Joel's radio reports on Washington developments for 
+nearly a decade. Most of my early knowledge of the political battle 
+over the opening of the coastal plain of the Arctic National Wildlife 
+Refuge to potential oil and gas development came from Joel's reports, 
+starting in 1987--the year when the environmental impact statement on 
+ANWR first was released by the Department of the Interior.
+  My understanding of the efforts in Washington to change oil spill 
+regulations in the wake of the Exxon Valdez oil spill of 1989 came from 
+Joel's reporting. Growing up in Wrangell, I knew a good deal about 
+Alaska's southeast timber industry, still Joel's reporting over efforts 
+to pass the Tongass Timber Reform Act in 1991 gave me a breadth of 
+understanding that has been invaluable during my 6 years in the U.S. 
+Senate. I could go on and on and on with other examples.
+  Joel Southern has been the eyes in the Nation's Capital for tens of 
+thousands of Alaskans who live across the far-flung reaches of our 
+State; where local newspaper coverage is sparse, where TV coverage 
+consists of cable coverage sometimes lacking in statewide or local 
+news, and where only public radio is the source of information and 
+public affairs.
+  Joel, a native of Winston-Salem, NC, moved to Washington in 1986, 
+earning his master's degree in journalism and public affairs from 
+American University. While an undergrad student he worked as a student 
+announcer starting in 1981 at WFDD-FM, the Wake Forest University radio 
+station, where he learned to pronounce the names of classical composers 
+for his DJ stints, a skill that served him well when pronouncing 
+Inupiat and Native names, such as Tuntutaliak or Atqasuk or Atmautluak.
+  Formerly an employee of the famed Berns--News--Bureau, a starting 
+point for a number of great journalists, he moved onto the full-time 
+staff of the Alaska Public Radio Network in 1991 and since has provided 
+more radio reports for the network's main news program, Alaska News 
+Nightly, than any other single individual. Over time Joel has learned 
+more about the arcane areas of Alaska public land law, more about oil 
+and gas production, more about commercial fishing and mining and more 
+about the complex arena of politics in the 49th State than most anyone 
+else.
+  Rather than show off his expertise simply to promote his own ego, 
+Joel uses his knowledge to constantly explain complex stories in 
+simple, understandable terms. While he always asks tough, probing 
+questions of politicians and newsmakers, Joel asks them in a fair, 
+balanced and nonopinionated way. He does better at separating his 
+personal opinions from his reporting than most anyone. He has been 
+fair, unbiased and totally objective for the entirety of his two 
+decades of Washington reporting--and that is a record he can be proud 
+of.
+  Over the past 21 years Joel has covered everything from the 
+impeachment of a President to the contamination of Senate buildings by 
+anthrax spores. He has covered the swearing in of three different 
+Presidents, and reported on more changes in political leadership in 
+Congress than veteran journalists twice his age. His range has been 
+shown by both covering more congressional hearings than most any 
+congressional correspondent and by working in subzero degree 
+temperatures while covering the 1996 Iditarod Trail Sled Dog Race in 
+Alaska.
+  Along the way he has covered the Supreme Court and specialized in 
+agricultural news, producing the European Community Farm Line in 
+conjunction with the European Union, produced stories for CBC Radio 
+affiliates and the Australian Broadcasting Corp., provided pieces to 
+National Public Radio on a variety of topics, and done some stringing 
+for the AP. He has done interviews for C-SPAN and Canadian Broadcasting 
+Corporation radio stations. And he has written columns on Alaska oil 
+and natural gas/energy policy for a Canadian publication, Far North Oil 
+and Gas Journal.
+  In between working seemingly constantly, he has found time to marry 
+his charming wife Helene, to be a devoted dad to two beautiful 
+children, and still do more to inform Alaskans about the events in 
+Washington that affect their future and the future of their children 
+and grandchildren than most any other single journalist. And he has 
+done it while displaying a keen curiosity, an impressive intellect, an 
+insightful mind, a balanced sense of fairness and decency and a never-
+failing sense of good humor that is far too lacking both inside the 
+U.S. Capitol and outside its walls.
+  I will miss his presence in Washington, but I know Alaskans from 
+Kaktovik to Adak and from Ketchikan to Point Hope will miss him even 
+more. I can only wish Joel and his family the very best on their coming 
+European adventure and thank him for having done the best possible 
+service to his adopted State; that of informing the citizens of Alaska 
+with wisdom and wit for over two decades.
+  Thank you, Joel, and God's speed. I suspect I will be hearing your 
+voice from Copenhagen during next year's climate change COP 15 
+negotiations. Just remember while Alaska is cold, the wind in Denmark's 
+Jutland Peninsula blowing in from the North Sea can be almost as biting 
+as Alaska's North Slope. Again, best wishes and good luck in the 
+future.●
+
+                          ____________________
+```

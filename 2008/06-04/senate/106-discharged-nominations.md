@@ -1,0 +1,57 @@
+---
+granule: CREC-2008-06-04-pt1-PgS5124
+date: 2008-06-04
+edition: CREC
+section: SENATE
+page: S5124
+citation: 154 Cong. Rec. S5124
+---
+
+# DISCHARGED NOMINATIONS
+
+```
+                         DISCHARGED NOMINATIONS
+
+  The Senate Committee on Banking, Housing, and Urban Affairs was 
+discharged from further consideration of the following nomination and 
+the nomination was held at the desk:
+
+       STEVEN C. PRESTON, OF ILLINOIS, TO BE SECRETARY OF HOUSING 
+     AND URBAN DEVELOPMENT.
+
+  The Senate Committee on Health, Education, Labor, and Pensions was 
+discharged from further consideration of the following nominations and 
+the nominations were confirmed:
+
+       NANCY M. ZIRKIN, OF MARYLAND, TO BE A MEMBER OF THE BOARD 
+     OF DIRECTORS OF THE UNITED STATES INSTITUTE OF PEACE FOR A 
+     TERM EXPIRING JANUARY 19, 2011.
+       J. ROBINSON WEST, OF THE DISTRICT OF COLUMBIA, TO BE A 
+     MEMBER OF THE BOARD OF DIRECTORS OF THE UNITED STATES 
+     INSTITUTE OF PEACE FOR A TERM EXPIRING JANUARY 19, 2011.
+       KERRY KENNEDY, OF NEW YORK, TO BE A MEMBER OF THE BOARD OF 
+     DIRECTORS OF THE UNITED STATES INSTITUTE OF PEACE FOR A TERM 
+     EXPIRING JANUARY 19, 2011.
+       IKRAM U. KHAN, OF NEVADA, TO BE A MEMBER OF THE BOARD OF 
+     DIRECTORS OF THE UNITED STATES INSTITUTE OF PEACE FOR A TERM 
+     EXPIRING JANUARY 19, 2009.
+       STEPHEN D. KRASNER, OF CALIFORNIA, TO BE A MEMBER OF THE 
+     BOARD OF DIRECTORS OF THE UNITED STATES INSTITUTE OF PEACE 
+     FOR A TERM EXPIRING JANUARY 19, 2011.
+
+  The Senate Committee on Health, Education, Labor, and Pensions was 
+discharged from further consideration of the following nominations and 
+the nominations were held at the desk:
+
+       ERIC J. TANENBLATT, OF GEORGIA, TO BE A MEMBER OF THE BOARD 
+     OF DIRECTORS OF THE CORPORATION FOR NATIONAL AND COMMUNITY 
+     SERVICE FOR A TERM EXPIRING OCTOBER 6, 2012.
+       HYEPIN CHRISTINE IM, OF CALIFORNIA, TO BE A MEMBER OF THE 
+     BOARD OF DIRECTORS OF THE CORPORATION FOR NATIONAL AND 
+     COMMUNITY SERVICE FOR A TERM EXPIRING OCTOBER 6, 2013.
+       LAYSHAE WARD, OF MINNESOTA, TO BE A MEMBER OF THE BOARD OF 
+     DIRECTORS OF THE CORPORATION FOR NATIONAL AND COMMUNITY 
+     SERVICE FOR A TERM EXPIRING DECEMBER 27, 2012.
+
+                          ____________________
+```

@@ -1,0 +1,78 @@
+---
+granule: CREC-2008-06-04-pt1-PgE1142-4
+date: 2008-06-04
+edition: CREC
+section: EXTENSIONS
+page: E1142
+citation: 154 Cong. Rec. E1142
+---
+
+# WILD PRATT RIVER ACT
+
+**Speaking:** Inslee, Jay (I000026) [D-WA]
+
+**Measures:** H.R. 4113
+
+```
+                          WILD PRATT RIVER ACT
+
+                                 ______
+                                 
+
+                            HON. JAY INSLEE
+
+                             of washington
+
+                    in the house of representatives
+
+                        Wednesday, June 4, 2008
+
+  Mr. INSLEE. Madam Speaker, at an early age, my dad and mom taught me 
+to walk on the rocks, not the alpine meadows they helped restore in 
+Mount Rainier National Park. It is in that tradition that I have worked 
+in Congress and the Natural Resources Committee to preserve the natural 
+beauty of the Northwest for my children, grandchildren and generations 
+to come.
+  After 6 years of hard work and community input, wilderness supporters 
+last Friday celebrated the newly designated Wild Sky Wilderness Area 
+near my district in Washington state. It contains over 106,000 acres of 
+national forest in east Snohomish County. Senator Murray and 
+Congressman Larsen exercised great leadership to build such a wide 
+consensus for this effort and have set the gold standard for how to 
+write wilderness legislation in this country.
+  In this same spirit of preserving our State's pristine old growth and 
+mature forests, rivers, and mountain peaks, today I added my name as a 
+cosponsor to the Alpine Lakes Wilderness Additions and Wild Pratt River 
+Act of 2007 (H.R. 4113). I did so because it is my hope that at some 
+point we are successful in crafting a final bill that is as full and 
+complete as this wilderness deserves. In its present form, the bill 
+would add 22,000 acres of wilderness area to the Alpine Lakes 
+Wilderness Area that first was established in 1976.
+  As we learned with Wild Sky, getting a wilderness bill to the 
+president's desk and signed into law takes a significant amount of 
+effort from stakeholders, consensus from community members and 
+widespread support from lawmakers. Therefore, we must get wilderness 
+area designation right the first time, doing as much as possible to 
+avoid piecemeal efforts to slowly add to wilderness time and again. I 
+do have some concerns that this bill may not yet have reached the 
+maturity and completeness necessary to bring the wilderness area to 
+fruition, in two ways.
+  First, the boundaries of the wilderness need full consideration. For 
+example, we need to look at whether the absence of the inclusion of the 
+north portion of the Pratt River Valley reduces the ecosystem benefits 
+that this wilderness could accomplish. Areas southeast of the present 
+boundaries deserve similar consideration for comparable reasons.
+  Second, the success of the Wild Sky Wilderness Act of 2007 
+demonstrated the importance of being as open and inclusive early in the 
+process in developing the boundaries of the area, as well defining all 
+other aspects of
+
+[[Page E1143]]
+
+the proposal. I would like to see an even greater effort to engage the 
+full participation of the public.
+  I look forward to working with my colleagues to add to Washington's 
+prized wilderness areas in the tradition of the Wild Sky.
+
+                          ____________________
+```

@@ -1,0 +1,56 @@
+---
+granule: CREC-2008-06-04-pt1-PgE1133-5
+date: 2008-06-04
+edition: CREC
+section: EXTENSIONS
+page: E1133
+citation: 154 Cong. Rec. E1133
+---
+
+# TRIBUTE TO JANET FAGAN-McNULTY
+
+**Speaking:** Skelton, Ike (S000465) [D-MO]
+
+```
+                     TRIBUTE TO JANET FAGAN-McNULTY
+
+                                 ______
+                                 
+
+                            HON. IKE SKELTON
+
+                              of missouri
+
+                    in the house of representatives
+
+                        Wednesday, June 4, 2008
+
+  Mr. SKELTON. Madam Speaker, let me take this means to recognize the 
+distinguished
+
+[[Page E1134]]
+
+service of Janet Fagan-McNulty, as her career comes to an end. Mrs. 
+Fagan-McNulty has spent more than 39 years dedicated to the Department 
+of Agriculture and the Department of the Army.
+  In 1972, Mrs. Fagan-McNulty began her career with the Federal 
+Government working for the Department of Agriculture and eventually 
+joining Army's Office of the Chief of Legislative Liaison. In 1988, 
+Mrs. Fagan-McNulty was appointed Deputy Chief of the Congressional 
+Inquiry Division tasked with a number of special missions directed by 
+the Secretary of the Army, including Operation Quick Look. From these 
+successes she was ultimately promoted to Chief of the Congressional 
+Inquiry Division.
+  During her tenure, Mrs. Fagan-McNulty has guided the division and 
+organization through numerous major events. Some of these events 
+consist of the period during the Cold War, Grenada, Panama, Operations 
+Desert Shield and Desert Storm, the tragedy of September 11th, and 
+Operations Enduring and Iraqi Freedom.
+  Currently, Mrs. Janet Fagan-McNulty is leading a dedicated team as 
+Chief of the Congressional Inquiry Division, Office of the Chief of 
+Legislative Liaison. I am certain that Members of the House will join 
+me in thanking Janet Fagan-McNulty for her commitment and contributions 
+to our Nation.
+
+                          ____________________
+```
