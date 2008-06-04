@@ -1,0 +1,39 @@
+---
+granule: CRECB-2008-pt8-Pg11200-6
+date: 2008-06-04
+edition: CRECB
+section: HOUSE
+page: 11200
+---
+
+# AMERICAN-MADE OIL AND GAS: A HISTORY OF SUPPORT AND OPPOSITION
+
+```
+     AMERICAN-MADE OIL AND GAS: A HISTORY OF SUPPORT AND OPPOSITION
+
+  (Mr. CONAWAY asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. CONAWAY. As you see, the theme this morning is to talk about 
+gasoline prices, and as we look at the various solutions that are 
+available to our country, it's interesting to note how votes happen in 
+this House. It's rare that a particular position is supported or 
+opposed 100 percent by either party. But let me walk you through a 
+couple of solutions that have been voted on in this House over the last 
+14 years.
+  Drilling in ANWR; 91 percent of Republicans supported it, 86 percent 
+of Democrats opposed it. Coal-to-liquids; 97 percent of Republicans 
+supported it, 78 percent of Democrats opposed it. Oil shale 
+exploration; 90 percent Republican support, 86 percent Democrat 
+opposition. Drilling on the Outer Continental Shelf, 81 percent of 
+Republicans support it, 83 percent of Democrats oppose it. Increased 
+refinery capacity; Republicans support that by 97 percent, Democrats 
+oppose it by 96 percent.
+
+[[Page 11201]]
+
+  Madam Speaker, I ask my colleagues on the other side of the aisle to 
+begin to look rationally at the solutions that will help address 
+America's need for energy, gasoline and electricity as we move forward.
+
+                          ____________________
+```
