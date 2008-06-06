@@ -1,0 +1,63 @@
+---
+granule: CREC-2008-06-06-pt1-PgS5364-2
+date: 2008-06-06
+edition: CREC
+section: SENATE
+page: S5364
+citation: 154 Cong. Rec. S5364
+---
+
+# TRIBUTE TO KELLY CONE AND LISA SCHWARTZ
+
+**Speaking:** Isakson, Johnny (I000055) [R-GA]
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+                TRIBUTE TO KELLY CONE AND LISA SCHWARTZ
+
+● Mr. ISAKSON. Mr. President, last month, I was contacted by SFC 
+John Cone and CPT David Schwartz, both forward deployed in Iraq at 
+Tactical Psychological Operations headquarters. For each of these 
+soldiers, this is their second deployment in support of the global war 
+on terror. While both of these soldiers are dedicated and decorated 
+servicemembers as well as public servants serving as civilian law 
+enforcement officers at home, I want to honor in the Record of the 
+Senate today their devoted and compassionate spouses back home.
+  Prior to their deployment in January 2008 with the 310th Tactical 
+Psychological Operations Company, Detachment 1620 at Fort Gillem, their 
+spouses, Kelly Cone and Lisa Schwartz, established a family readiness 
+group to help support the deployed soldiers and their families back 
+home. While Mrs. Cone and Mrs. Schwartz are both caring and devoted 
+mothers at home with many other responsibilities, they took it upon 
+themselves to create a Web page for their Family Readiness Group and 
+began conducting regular information meetings and monthly ``coffee 
+chat'' sessions with the families and spouses of the deployed soldiers.
+  These sessions not only kept the families inspired but also kept them 
+informed regarding the details surrounding the deployment of their 
+loved ones. Attendance has been high and the families receptive, each 
+of the members providing input and assistance as needed. I was simply 
+amazed to learn of all of their efforts and accomplishments in keeping 
+the information channels and support networks fully functioning. For 
+example, the Family Readiness Group recently mobilized to assist one of 
+its members, a young woman who had gone into labor, and helped 
+coordinate the redeployment of her husband from Iraq.
+  These two determined spouses did not stop with their Family Readiness 
+Group efforts alone and have set about to aid in the establishment of a 
+Family Readiness Group for the remainder of the 310th Company, set to 
+deploy in the summer of 2009. They will host a Family Day in August to 
+bring the new and old members together.
+  Mrs. Cone and Mrs. Schwartz serve as shining examples of today's Army 
+spouses. Today's military spouses understand and seek to support their 
+loved ones who have been called up and deployed into harm's way. It is 
+my hope that the efforts of Kelly Cone and Lisa Schwartz will serve as 
+a model for other families with deployed loved ones. It gives me a 
+great deal of pleasure and it is a privilege to recognize on the Senate 
+floor these dedicated and loving spouses for their outstanding efforts, 
+patriotism, and selfless achievements.●
+
+                          ____________________
+```
