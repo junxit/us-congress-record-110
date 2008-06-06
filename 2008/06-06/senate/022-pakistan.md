@@ -1,0 +1,161 @@
+---
+granule: CRECB-2008-pt8-Pg11788-2
+date: 2008-06-06
+edition: CRECB
+section: SENATE
+page: 11788
+---
+
+# PAKISTAN
+
+```
+                                PAKISTAN
+
+  Mr. FEINGOLD. Mr. President, during the Senate recess at the end of 
+last month, I visited the central front in our Nation's fight against 
+al-Qaida: Pakistan. During my 4-day stay, I met with a broad range of 
+political officials from numerous parties, including the Pakistan 
+People's Party of former Prime Minister Benazir Bhutto and the PLM-N of 
+former Prime Minister Nawaz Sharif, as well as with President Pervez 
+Musharraf, Pakistani intelligence officials, the ousted chief justice, 
+and representatives of Pakistan's civil society. Outside of Islamabad, 
+my visit included a trip to Peshawar, in the tumultuous Northwest 
+Frontier Province, where I met with local officials, and Kashmir, where 
+the United States has funded numerous successful humanitarian and 
+development programs in the wake of the devastating 2005 earthquake.
+  The breadth of this trip was commensurate with the critical 
+importance of Pakistan to our country's national security. Despite 
+recent claims by CIA Director Michael Hayden that al-Qaida is now on 
+the defensive, including in its
+
+[[Page 11789]]
+
+safe haven in Pakistan, I traveled there because it is out of that 
+country that we face our most serious national security threat. As the 
+intelligence community has said again and again, the fight against al-
+Qaida begins in Pakistan. According to the State Department's 2007 
+terrorism report which was released this past April, al-Qaida and 
+associated networks remain the greatest terrorist threat to the United 
+States. That threat emanates from the reconstitution of some of al-
+Qaida's pre-9/11 capabilities ``through the exploitation of Pakistan's 
+Federally Administered Tribal Areas.'' The report added that 
+instability in Pakistan, ``coupled with the Islamabad brokered cease-
+fire agreement in effect for the first half of 2007 along the Pakistan-
+Afghanistan frontier, appeared to have provided AQ leadership greater 
+mobility and ability to conduct training and operational planning, 
+particularly that targeting Western Europe and the United States.''
+  During my visit, I conducted extensive discussions with Pakistani 
+leaders about ceasefire negotiations, in the Federally Administered 
+Tribal Areas, FATA, as well as in the Swat region of the NWFP. I remain 
+skeptical about those negotiations and am particularly concerned that 
+those in the FATA region will give al-Qaida room to plot against our 
+troops in Afghanistan and our citizens here in the United States. The 
+new civilian-led Government in Pakistan is seeking a different approach 
+from that of President Musharraf, and that is understandable--it has, 
+in fact, been mandated by the people of Pakistan, and it is high time 
+they have a responsive government that heeds their call. A key part of 
+this new approach will require success in reining in the military 
+apparatus, which has historically controlled much of Pakistan's foreign 
+policy--sometimes overtly with a military dictator running the country 
+and other times more discreetly from behind a screen of a civilian-led 
+government. But as Pakistan's new Government seeks to reconcile these 
+complex, multilayered issues, it must not do so at the expense of the 
+grave threats emanating from the border region. We must address those 
+threats head-on because what happens in the terrorist safe haven of 
+FATA is central to our national security, and we cannot afford to be 
+distracted or complacent. To do so would be to the detriment of our 
+safety and security as well as that of our friends and allies.
+  At the same time, any long-term counterterrorism strategy in the FATA 
+must include serious economic reforms, legal political party 
+development, and initiatives to integrate FATA with the rest of 
+Pakistan. This will not be easy, but it is long overdue and will help 
+ensure we are using all the tools at our disposal to fight al-Qaida and 
+associated terrorist threats. The growing extremism and creation of a 
+terrorist safe haven in FATA has emerged out of decades of political 
+marginalization and ensuing poverty. In working closely with the FATA 
+political agents and local law enforcement, as well as the Government 
+of Pakistan, we need to help create sustainable development strategies 
+that provide opportunities for engagement while ensuring sufficient 
+financial resources are allocated to those in need now and in the years 
+to come.
+  This must include not only traditional development projects but 
+institution building and political engagement in a region long deprived 
+of such opportunities. The people of the FATA must have alternative 
+livelihood options that help facilitate opposition to terrorists and 
+extremists.
+  At the same time, we must find Osama Bin Laden and his senior 
+leaders, and we must work to neutralize forces that plot or carry out 
+attacks against Americans. But that cannot be our only goal. This fight 
+runs much deeper than a simple manhunt--if we are serious about 
+countering al-Qaida, and preventing another Bin Laden from emerging, we 
+must shift our assistance to be more aligned with the needs of the 
+local population and expand our development assistance throughout a 
+country where poverty and anti-Western sentiment are pervasive.
+  This administration's policies toward Pakistan have been highly 
+damaging to our long-term national security. By embracing and relying 
+on a single, unpopular, antidemocratic leader--namely, President 
+Musharraf--President Bush failed to develop a comprehensive 
+counterterrorism strategy that transcends individuals. He also 
+encouraged Pakistanis to be skeptical about American intentions and 
+principles. The recent elections provide a window of opportunity as the 
+people of Pakistan soundly rejected President Musharraf's leadership in 
+favor of political parties that promised a new direction. Although 
+domestic politics remain fragile, we have an opportunity to reverse our 
+history of neglect and mixed signals by expanding our relationships and 
+supporting fundamental democratic institutions instead of one strong 
+man--something the President may still be reluctant to do. We must do 
+this so that our counterterrorism partnership can withstand the ups and 
+downs of Pakistan's domestic politics, reflecting a more wide-ranging 
+approach that does not ratchet up the already high levels of anti-
+American sentiment in that country.
+  Any enduring counterterrorism partnership must recognize that 
+Pakistan, despite the coups and military dictatorships that have marred 
+its history, has a democratic tradition, a vibrant civil society, and a 
+large and educated middle class whose interests and values frequently 
+coincide with ours. By working with those Pakistanis and supporting 
+their desire to promote democracy, human rights, and the rule of law, 
+we align ourselves with the moderate forces that are critical to the 
+fight against extremism. Supporting the Pakistani people as they seek 
+to strengthen democratic institutions is not just an outgrowth of our 
+values--it is in our national security interests. The counterterrorism 
+efforts we need from Islamabad must be serious and sustained in a way 
+that only democratic processes can ensure.
+  For these reasons, I have been deeply disappointed by the Bush 
+administration's failure to condemn the illegal dismissal of the chief 
+justice of Pakistan and scores of other judges and its refusal to call 
+for their reinstatement. The ousting of the judges has become a cause 
+celebre for Pakistan's civil society. It prompted the creation of a 
+``Lawyers' Movement''--a moderate, democratic uprising that Americans 
+should embrace. During my time in Pakistan, I visited with the chief 
+justice and shortly thereafter called for the judges to be reinstated 
+because it is a clear violation of the basic tenets of the rule of law. 
+I was asked whether I had made such a call in support of a particular 
+political party and whether I also sought the removal of President 
+Musharraf. I responded that those are issues for the Pakistanis to 
+determine, and I continue to believe that is the case. Indeed, while 
+the political landscape in Pakistan remains turbulent and fragile, I 
+have no intention of meddling in domestic affairs. Nonetheless, it is 
+unacceptable for the United States to sit back in the face of such 
+fundamentally undemocratic actions. We cannot be selective in the 
+democratic principles we support--that is not consistent with our 
+values, and it is shortsighted in terms of our national security.
+  Mr. President, the emergence of a new civilian leadership in Pakistan 
+provides an opening for us to develop a new approach--a new 
+relationship--that includes a sustainable, comprehensive 
+counterterrorism partnership. We must seize this opportunity because, 
+despite a great deal of anti-American sentiment, in many areas the 
+Pakistanis are ready and willing to work with us. This is not to say 
+that this process will be free from challenges--there are already 
+serious hurdles that must be dealt with, including negotiations in the 
+FATA and NWFP, both of which are cause for concern. In the end, we must 
+recognize that the new leadership reflects a broad cross-section of 
+Pakistan, and by fully engaging them, we can take an important step 
+toward defending our national security interests in the central front 
+in the fight against al-Qaida.
+
+[[Page 11790]]
+
+
+
+                          ____________________
+```
