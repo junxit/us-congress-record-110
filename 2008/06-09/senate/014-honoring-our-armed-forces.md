@@ -1,0 +1,39 @@
+---
+granule: CREC-2008-06-09-pt1-PgS5387-2
+date: 2008-06-09
+edition: CREC
+section: SENATE
+page: S5387
+citation: 154 Cong. Rec. S5387
+---
+
+# HONORING OUR ARMED FORCES
+
+**Speaking:** Dodd, Christopher J. (D000388) [D-CT]
+
+```
+                       HONORING OUR ARMED FORCES
+
+
+                    corporal christian scott cotner
+
+  Mr. DODD. Mr. President, it is with a heavy heart that I rise today 
+to honor the memory of Marine Cpl Christian Scott Cotner of Waterbury, 
+CT, who died last week while serving our Nation in Iraq. He was 20 
+years old.
+  On May 30, 2008, Corporal Cotner's life was tragically cut short as 
+he served his first tour of duty with the Marines in Al-Anbar Province, 
+Iraq. His heroic service is remembered today by a grateful nation.
+  Friends and loved ones remember Corporal Cotner for his positive 
+attitude, his great sense of humor and his pride in serving the country 
+he loved. It was while in high school, where he volunteered to serve in 
+the honor guards and the ROTC, that Corporal Cotner decided to serve 
+his country, and shortly after graduating he joined the Marines.
+  All of us in the State of Connecticut and across the United States 
+owe a deep and solemn debt of gratitude to Christian Cotner and to his 
+family and friends for his tremendous service to our country. On behalf 
+of the Senate, I offer my deepest condolences to Christian's parents 
+Graham and Karen and to everyone who knew and loved him.
+
+                          ____________________
+```
