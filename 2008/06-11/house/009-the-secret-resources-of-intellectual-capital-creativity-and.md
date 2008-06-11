@@ -1,0 +1,42 @@
+---
+granule: CREC-2008-06-11-pt1-PgH5218
+date: 2008-06-11
+edition: CREC
+section: HOUSE
+page: H5218
+citation: 154 Cong. Rec. H5218
+---
+
+# THE SECRET RESOURCES OF INTELLECTUAL CAPITAL, CREATIVITY, AND INNOVATION
+
+**Speaking:** Inslee, Jay (I000026) [D-WA]
+
+```
+     THE SECRET RESOURCES OF INTELLECTUAL CAPITAL, CREATIVITY, AND 
+                               INNOVATION
+
+  (Mr. INSLEE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. INSLEE. Mr. Speaker, I am so pleased my friend, Mr. Boehner, made 
+reference to the idea of ``promoting our resources,'' a quote from 
+Daniel Webster.
+  What is the single resource that America has, the only resource that 
+America has that can really bring down the price of fuel and break our 
+addiction to Middle Eastern oil? There is one secret resource that we 
+can promote. And that is the resource of intellectual capital, 
+creativity, and innovation. We know that just poking more holes in the 
+ground cannot solve this problem. We have got 25 percent of the world's 
+oil. We have 3 percent of the oil in our land.
+  What can solve this problem is innovation, innovation like the A123 
+Battery Company in Boston that is going to allow us to drive electric 
+cars, Phoenix Motorcars, Inc., that is going to have an electric car 
+that will get 100 miles just on an electrical charge, the Sapphire 
+Energy Company that has developed a gasoline from algae-based sources. 
+We need to develop the resource of intellectual capital.
+  The optimists on this side of the aisle are doing that. The 
+pessimists on this side of the aisle want to remain addicted to 
+gasoline. That is a path that is doomed to failure. Let's be optimists 
+and solve this problem.
+
+                          ____________________
+```

@@ -1,0 +1,46 @@
+---
+granule: CREC-2008-06-11-pt1-PgH5221-3
+date: 2008-06-11
+edition: CREC
+section: HOUSE
+page: H5221
+citation: 154 Cong. Rec. H5221
+---
+
+# HAMMERED BY THE HIGH COST OF FUEL AND GASOLINE
+
+**Speaking:** Fallin, Mary (F000453) [R-OK]
+
+```
+             HAMMERED BY THE HIGH COST OF FUEL AND GASOLINE
+
+  (Ms. FALLIN asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. FALLIN. Mr. Speaker, families and businesses are being hammered 
+by the high cost of fuel and gasoline. This issue is not a Democratic 
+issue or a Republican issue, it's an American issue. It's an issue that 
+our families and our consumers and our businesses want us to address, 
+and that is the rising cost of gasoline.
+  A CNN poll recently stated that more than half of Americans are being 
+forced to cut back significantly on their household spending. Another 
+news report stated that 10 percent of the American companies are 
+expecting to cut back their workforce.
+  One other national company stated that it was cutting 15 percent of 
+its white collar jobs over the next 2 months. Families in my district 
+can barely afford to commute to work. I had one family tell me that 
+between the father commuting to his job, and the mother to her job, and 
+the two children back and forth to college and high school, that they 
+are spending $700 a month on gasoline.
+  Parents are struggling with buying groceries, food costs. Family 
+farms are struggling. They are trying to get their products to the 
+market with the high cost of fuel, which has tripled. Small businesses 
+are struggling with their services and their products and their 
+customers that have decreased.
+  The question we have to ask ourselves is what kind of future will our 
+children and our grandchildren have if this Congress takes no action to 
+produce more U.S. energy. The lack of production of sufficient U.S. 
+energy is dangerous for our national economy and dangerous for our U.S. 
+national security.
+
+                          ____________________
+```

@@ -1,0 +1,55 @@
+---
+granule: CREC-2008-06-11-pt1-PgE1194-2
+date: 2008-06-11
+edition: CREC
+section: EXTENSIONS
+page: E1194
+citation: 154 Cong. Rec. E1194
+---
+
+# RECOGNIZING DR. ROBERT DIXON--SCOTTSDALE HEALTHCARE'S "SALUTE TO MILITARY" HONOREE
+
+**Speaking:** Mitchell, Harry E. (M001167) [D-AZ]
+
+```
+   RECOGNIZING DR. ROBERT DIXON--SCOTTSDALE HEALTHCARE'S ``SALUTE TO 
+                           MILITARY'' HONOREE
+
+                                 ______
+                                 
+
+                         HON. HARRY E. MITCHELL
+
+                               of arizona
+
+                    in the house of representatives
+
+                        Wednesday, June 11, 2008
+
+  Mr. MITCHELL. Madam Speaker, I rise today in recognition of Dr. 
+Robert Dixon, Scottsdale Healthcare's ``Salute to Military'' Honoree 
+for June 2008. Scottsdale Healthcare is recognizing Dr. Dixon and other 
+physicians with a connection to the Armed Services for their dedication 
+to saving lives and securing our freedom.
+  Since the program's inauguration in 2004, Scottsdale Healthcare has 
+provided over 300 medical personnel with outstanding trauma skill 
+training. The program is offered in partnership with Maricopa 
+Integrated Health System and has focused on the Air National Guard, 
+Luke Air Force Base, and Davis Monthan Air Force Base.
+  Dr. Robert Dixon is a deserving recipient of Scottsdale Healthcare's 
+tribute. He is a Lieutenant Colonel in the U.S. Air Force, stationed at 
+the 56th Medical Group of Luke Air Force Base in Arizona since 2004. 
+Dr. Dixon will be deployed to Iraq in May of 2008, which will be his 
+fourth deployment to the Middle East and Southwest Asia.
+  He was the first surgeon to participate in Scottsdale Healthcare's 
+Military Training Program in preparation for deployment to the Gulf. 
+The Military Training Program is designed to maintain trauma skills and 
+integrates trauma surgery, neurosurgery, burn trauma, and other 
+critical skills. He played a prominent role in the development and 
+testing of the pilot project at Scottsdale Healthcare, in conjunction 
+with Dr. Michael Foley and Dr. Ken Ransom.
+  Madam Speaker, please join me in recognizing Dr. Robert Dixon's 
+tireless service and sacrifice to this country.
+
+                          ____________________
+```
