@@ -1,0 +1,48 @@
+---
+granule: CRECB-2008-pt9-Pg12505-3
+date: 2008-06-12
+edition: CRECB
+section: EXTENSIONS
+page: 12505
+---
+
+# TRIBUTE TO MONICA BROWN
+
+```
+                        TRIBUTE TO MONICA BROWN
+
+                                 ______
+                                 
+
+                             HON. RON PAUL
+
+                                of texas
+
+                    in the house of representatives
+
+                        Thursday, June 12, 2008
+
+  Mr. PAUL. Madam Speaker, this Saturday the city of Lake Jackson, 
+Texas, will celebrate the accomplishments of United States Army 
+Specialist Monica Brown, who, at the age of 19, has already earned 
+herself a place in the pantheon of Texas military heroes.
+  Specialist Brown was recently awarded the Silver Star, the nation's 
+third highest medal of valor, because of her heroic actions in 
+Afghanistan. Specialist Brown is only the second woman to receive the 
+Silver Star since World War II.
+  On April 25, 2007, Specialist Brown was part of a four-vehicle convoy 
+patrolling near Jani Kheil in the eastern province of Paktia when a 
+bomb struck one of the vehicles. Upon seeing that her comrades needed 
+help, Specialist Brown put aside concerns for her own safety and ran 
+through insurgent gunfire and mortars to protect the wounded soldiers. 
+Specialist Brown used her body to shield five injured soldiers as she 
+administered aid and then dragged each of them 100 meters away to 
+safety.
+  I am pleased to take this opportunity to salute U.S. Army Specialist 
+Monica Brown and let her know how proud I, and all of Lake Jackson, are 
+of her heroism. I urge all my colleagues, and all Americans, to join me 
+in saluting Monica Brown and all the brave men and women serving in 
+Afghanistan and Iraq.
+
+                          ____________________
+```
