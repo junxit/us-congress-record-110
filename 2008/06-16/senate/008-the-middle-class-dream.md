@@ -1,0 +1,135 @@
+---
+granule: CREC-2008-06-16-pt1-PgS5639-8
+date: 2008-06-16
+edition: CREC
+section: SENATE
+page: S5639
+citation: 154 Cong. Rec. S5639
+---
+
+# THE MIDDLE CLASS DREAM
+
+**Speaking:** Reid, Harry (R000146) [D-NV]
+
+```
+                         THE MIDDLE CLASS DREAM
+
+  Mr. REID. Mr. President, this Saturday, Jeff Alberici from Auburn, 
+NY, delivered the Democratic weekly radio address. Jeff and his wife 
+aren't rich; they aren't poor. They are squarely in the middle. They 
+are middle class.
+  Jeff is a middle school teacher. He teaches American history. His 
+wife is a teacher's assistant. Jeff said that if they didn't have to 
+transport their three children to school and sports practice, they 
+would probably ride bikes back and forth to work to save gas.
+  Jeff said when his wife returned to work last year, after staying 
+home with their children, they thought the second income would give 
+them a chance to pay off their debt and start saving for college. But 
+that hasn't happened. Instead of getting ahead, the Alberici family's 
+second income is covering the cost of food, and especially gasoline.
+  Jeff summed up things by saying that they will be fine. They are not 
+in danger of losing their home, and they both have good steady jobs. 
+They are not at risk. But instead of ordering pizza for an occasional 
+dinner with the kids, now they have to eat grilled cheese on those 
+occasions. And in the long term, they are not sure how they will be 
+able to afford to send their children to college because they have 
+basically not saved anything up to this date.
+
+[[Page S5640]]
+
+  Families in every State, region, and corner of our country are facing 
+the same challenges as the Albericis. Jeff and others like him were 
+raised to believe that doing important work, such as being a 
+schoolteacher, wouldn't make you rich but it would provide enough to 
+live comfortably and raise a family. The middle-class dream--that 
+American dream--is vanishing before our eyes.
+  Today, oil is trading near record levels again. It is up around $140 
+a barrel. Gasoline now averages $4.08 a gallon nationally, and in 
+Nevada it is $4.24 a gallon. This morning, we learned that utility 
+companies across the country are raising rates another 29 percent on 
+top of the 30-percent increases American consumers have already endured 
+over the past 5 years.
+  On President Bush's watch, American families are earning less today 
+than they did 8 years ago--and that is the truth--yet paying more than 
+ever for everyday necessities, such as gasoline, heat for the home, and 
+of course groceries. And they are paying more than ever for long-term 
+needs, such as the goal of health care, college, and retirement. 
+American families can't survive this squeeze indefinitely.
+  Right now, many are able to keep their heads above water by saving 
+less, and sometimes not saving, and finding other ways to tighten their 
+belts. Like the Albericis, they are eating more grilled cheese and 
+putting less of their paychecks into savings.
+  Most Americans are too busy figuring out how to pay the bills and 
+make ends meet to pay close attention to what is going on here in 
+Congress. But if working families see one thing from Congress, it is 
+this: Democrats get it. That is what Jeff said in his radio address. We 
+know what is happening in America, and we are fighting every single day 
+to make things better.
+  Republicans? They talk about our country's problems, but when the 
+time comes to stand up and take action, they are nowhere to be found. 
+Republicans talk about high gas prices, alternative energy, the housing 
+crisis, and job loss, but each time there has been a proposed solution 
+to those challenges, Republicans have said no.
+  Our Republican colleagues fill endless pages of the Congressional 
+Record with speeches about the affordability crisis in America that a 
+Republican President created and the Republican nominee, John McCain, 
+hopes to continue, but the American people need more than empty words.
+  Republicans can choose to keep standing on the sidelines, or keep 
+sticking with the status quo, which they have done now for the entire 
+year and a half we have been in the majority. They have that right. But 
+Democrats will keep fighting to make the American dream affordable 
+again for the Albericis of Auburn, NY, and the millions of American 
+families like them who deserve better. Today we will give Republicans 
+another opportunity to do the right thing by voting for cloture on the 
+energy tax extenders bill. This legislation would lower taxes for 
+businesses, entrepreneurs, and families. The deduction for State and 
+local sales taxes helps level the playing field and provides tax relief 
+to residents in States with no income tax. The tuition deduction helps 
+families afford the skyrocketing cost of college. The teachers' 
+deduction provides a small but important bit of help and appreciation 
+to educators for out-of-pocket classroom expenses.
+  This legislation would also extend tax benefits for businesses, 
+particularly those engaged in research and development for clean 
+renewable energy, tax credits, Mr. President, for clean renewable 
+energy. Today we are going to use 21 million barrels of oil. That is 
+not necessary. We could change that. We need to allow the great 
+business minds of America to invest in renewable energy--the Sun, the 
+wind, geothermal. That is what this vote at 5:30 today is all about.
+
+  Republicans have opposed this legislation in the past because it is 
+paid for and will not increase the national debt. How do we pay for 
+these tax cuts for businesses and families? By closing a loophole that 
+allows superwealthy hedge fund managers to avoid paying tax on their 
+earnings.
+  This is unique, that the Republicans would oppose this. The hedge 
+fund operators even know it is unfair and they support us on this. Why 
+anyone opposes legislation on these grounds is beyond the ability of 
+the American people to comprehend. Why Republicans would oppose tax 
+relief for businesses and families in order to protect a tax loophole 
+for multimillionaires seems preposterous. And keep in mind, even the 
+hedge fund operators, I repeat, believe it would be fair to do what we 
+seek.
+  Republicans have the right to side with hedge fund multimillionaires 
+over small businesses and families. They have already done so by 
+blocking the tax extenders bill twice this year. Now they have a third 
+chance to reverse course and support this legislation. Maybe this week 
+enough Republicans will see the suffering in their States and break 
+with the President and Republican Senate leaders to do the right thing. 
+Maybe this is the time enough Republicans will say enough is enough.
+  I know our Republican colleagues see the terrible economic burden the 
+American people are carrying. The only question is, will they let it 
+continue or join us in doing something about it? For all the 
+Republicans sitting on the fence, and there are some seeing how bad 
+things have gotten but still not ready to stand up to the Republican 
+Party, I ask: If not now, when? Democrats stand ready to legislate. 
+Join us and we can begin repairing the damage and restoring the 
+American Dream.
+  I acknowledge that on the Medicare fix we tried to do last week, we 
+got nine Republicans who supported us. Had we had Senator Kennedy 
+back--and he soon will be back, and a few other Senators--we would have 
+been able to have 60 votes. So I am glad to see that my friends on the 
+other side, even though not enough, are coming forward and voting with 
+us. We hope there will be more of that in the future.
+
+                          ____________________
+```
