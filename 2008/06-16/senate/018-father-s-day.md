@@ -1,0 +1,110 @@
+---
+granule: CRECB-2008-pt9-Pg12531-2
+date: 2008-06-16
+edition: CRECB
+section: SENATE
+page: 12531
+---
+
+# FATHER'S DAY
+
+```
+                              FATHER'S DAY
+
+● Mr. BYRD. Madam President, summer will not officially begin 
+until June 21, but already the summer heat and thunderstorms are upon 
+us. Lawns are lush and green, calling for the mower at least every week 
+to maintain their carefully manicured appearance. Gardens are bursting 
+with blooms that hold the promise of juicy red tomatoes, crisp green 
+peppers, and a never-ending supply of zucchini. Along rural roadsides, 
+great rafts of daylilies growing are beginning to bloom in waves of 
+firecracker orange starbursts above the dense green foliage.
+  Despite the lawn and garden chores that beg for attention, one day 
+this weekend was reserved for pleasure. Sunday, June 15, was Father's 
+Day. Across the Nation, ties disappeared from store shelves, golf 
+paraphernalia was snapped up, funny cards were bought, and restaurant 
+reservations were made. On Sunday, many fathers were encouraged to take 
+a break, to enjoy a brunch buffet, and to open some of the classic 
+father's day gifts--those ties, golf tees, or cologne. This week, men 
+across the Nation will sport brightly hued new ties and exotic scents 
+that wordlessly label them as proud fathers.
+  Fatherhood is a wonderful experience but also a nerve-wracking one. 
+It is full of high points, from passing on new
+
+[[Page 12532]]
+
+skills and old interests to a new generation, to witnessing the 
+achievements of our offspring as they achieve success on their own. The 
+sight of large father's hands tenderly cradling a tiny morsel of 
+newborn humanity is enough to melt the hardest heart. But it is also a 
+frightening responsibility, knowing that one's every word and action, 
+for better or for worse, is being absorbed into the creation of a new 
+character. Fathers who praise their child's hard work and perseverance 
+in the face of setbacks, or who demonstrate the high value they place 
+on being a good sport, build strong, resilient children who learn to 
+work well with others throughout their lives. Fathers who lose their 
+tempers at Little League coaches teach their children by example a 
+lesson in rudeness and incivility that likely is very different than 
+the manners that they preach. Clarence Budington Kelland put it best 
+when he said, ``He didn't tell my how to live; he lived, and let me 
+watch him do it.''
+  Fathers typically spend fewer hours in the company of their children 
+than do their mothers. Therefore, each hour spent together is precious, 
+a fact that can be difficult to remember when fathers come home from 
+work tired, and that lawn still needs to be mowed or those bills need 
+to be paid. But in the years to come, as children grow, it is the time 
+spent playing catch, or building a doghouse, or even watching a 
+football game together, that both father and child will remember and 
+cherish--not that the lawn was properly edged and raked.
+  I know that the times spent with my Dad that I remember most fondly 
+were just those few quiet minutes that we spent together most days, 
+when I would meet Dad walking home from work. He would share with me a 
+little cake that he had saved from his lunch, and we would talk and 
+walk together. No matter how tired he was, he was interested in how my 
+day had gone and what I had learned in school. Like many kids, I worked 
+hard at school and at my other activities, from my daily chores to 
+playing my fiddle, to earn the reward of his smile and his words of 
+praise. That ability to inspire a child is the greatest power, and the 
+greatest responsibility, of fatherhood.
+  The creation of Father's Day is widely credited to Mrs. Sonora Dodd, 
+who, inspired by the idea of Mother's Day, chose to honor the father 
+who raised her and her siblings after their mother died. Her father, 
+William Smart, must have been a great father, to have sparked such a 
+tribute from his daughter. As we honor the contributions to our 
+families made by our fathers, we must also thank Sonora Dodd for her 
+devotion and dedication to her father and all fathers. Mr. Smart did 
+not know the German writer Jean Paul Richter 1762-1825, but he proved 
+the truth behind Richter's observation that ``The words that a father 
+speaks to his children in the privacy of home are not heard by the 
+world, but, as in whispering galleries, they are heard clearly at the 
+end and by posterity.''
+  Mr. President, I close with a poem by an anonymous author, titled ``A 
+Little Chap Who Follows Me.'' My Dad knew the truth of this poem, and I 
+learned the truth of it after my own daughters were born, as all 
+fathers do. On Father's Day, as fathers are being honored, it reminds 
+us of the qualities of a father that are most worth honoring.
+
+                      A Little Chap Who Follows Me
+
+     A careful man I want to be;
+     A little fellow follows me.
+     I do not dare to go astray
+     For fear he'll go the selfsame way.
+
+     I cannot once escape his eyes,
+     Whate'er he sees me do, he tries.
+     Like me he says he's going to be;
+     The little chap who follows me.
+
+     He thinks that I'm so very fine,
+     Believes in every word of mine.
+     The base in me he must not see;
+     The little chap who follows me.
+
+     I must remember as I go
+     Through summer's sun and winter's snow,
+     I'm building for the years to be;
+     The little chap who follows me.●
+
+                          ____________________
+```

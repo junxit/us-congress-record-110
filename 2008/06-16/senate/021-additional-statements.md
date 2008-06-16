@@ -1,0 +1,57 @@
+---
+granule: CRECB-2008-pt9-Pg12533-2
+date: 2008-06-16
+edition: CRECB
+section: SENATE
+page: 12533
+---
+
+# ADDITIONAL STATEMENTS
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+                TRIBUTE TO MAJOR GENERAL GALE S. POLLOCK
+
+● Mr. INOUYE. Madam President, I would like to recognize a great 
+American and true military heroine who has honorably served our country 
+for 32 years.
+  Major General Pollock was born in Kearny, NJ, and entered the Army 
+Nurse Corps in 1976 after earning her BSN from the University of 
+Maryland. She also completed a master's of business administration from 
+Boston University, a master's in healthcare administration from Baylor 
+University, and a master's in national security and strategy from the 
+National Defense University. Major General Pollock also attended the 
+U.S. Army Nurse Anesthesia Program and is a certified registered nurse 
+anesthetist, CRNA, and a fellow in The American College of Healthcare 
+Executives.
+  Major General Pollock's military education includes Senior Service 
+College at the Industrial College of the Armed Forces; the U.S. Air 
+Force War College; the Interagency Institute for Federal Health Care 
+Executives, the Military Health System CAPSTONE Program, the Principles 
+of Advanced Nurse Administrators, and the NATO staff officer course.
+  Major General Pollock became the Deputy Surgeon General for Force 
+Management December 11, 2007. She also served as Chief, Army Nurse 
+Corps and Commander, U.S. Army Medical Command/Acting Surgeon General.
+  Major General Pollock's past military assignments include special 
+assistant to the Surgeon General for Information Management and Health 
+Policy; commander, Martin Army Community Hospital, Fort Benning, GA; 
+commander, U.S. Army Medical Activity, Fort Drum, NY; staff officer, 
+Strategic Initiatives Command Group for the Army Surgeon General; 
+Department of Defense health care advisor to the Congressional 
+Commission on Service Members and Veterans Transition Assistance, 
+health fitness advisor at the National Defense University; senior 
+policy analyst in Health Affairs, DOD; and chief anesthesia nursing 
+service at Walter Reed Army Medical Center, Washington, DC.
+  Throughout her career Major General Pollock has served with valor and 
+profoundly impacted the entire Army Medical Department. Her performance 
+reflects exceptionally on herself, the U.S. Army, the Department of 
+Defense, and the United States of America. I extend my deepest 
+appreciation to Major General Pollock on behalf of a grateful nation 
+for her more than 32 years of dedicated military service.●
+
+                          ____________________
+```
