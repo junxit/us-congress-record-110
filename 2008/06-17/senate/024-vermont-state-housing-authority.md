@@ -1,0 +1,76 @@
+---
+granule: CREC-2008-06-17-pt1-PgS5685-2
+date: 2008-06-17
+edition: CREC
+section: SENATE
+page: S5685
+citation: 154 Cong. Rec. S5685
+---
+
+# VERMONT STATE HOUSING AUTHORITY
+
+**Speaking:** Leahy, Patrick J. (L000174) [D-VT]
+
+```
+                    VERMONT STATE HOUSING AUTHORITY
+
+  Mr. LEAHY. Mr. President, I congratulate the Vermont State Housing 
+Authority, VSHA, on 40 years of excellence. This organization, which 
+came into existence with a creative spark as the first statewide 
+housing authority in the country, continues to find new and innovative 
+ways to use Federal housing programs to find affordable homes for 
+Vermonters.
+  Reaching this milestone should bring great pride to the visionaries 
+that created the system in 1968, including Governor Phil Hoff, and to 
+the 40 years of staff, board members and leaders that have ensured that 
+the statewide mission of VSHA has been carried out on a daily basis.
+  The VSHA executive director, Richard Williams, has been at the helm 
+of the VSHA for more than half its lifespan, working since 1984 to 
+expand the reach of the organization, develop and maintain properties 
+and move people out of the cold and into their own homes. It takes a 
+man of great conviction to accomplish what he has done, and it takes a 
+great team to deliver on the mission he and the board created. Richard 
+was recently quoted saying, ``We are proud of what we've been able to 
+accomplish for Vermonters over the past 40 years, but the challenges 
+have never been greater. We're inspired and motivated by the knowledge 
+that our services are needed more than ever.''
+  One of VSHA's primary responsibilities is administering the 
+Department of Housing and Urban Development's, HUD, Section 8 Voucher 
+Program in Vermont. During the past 40 years, the VSHA has worked to 
+increase the number of vouchers available to Vermonters in all corners 
+of the State. This has been increasingly important as the Federal 
+resources for the programs many of our Nation's most vulnerable 
+populations depend upon have been shrinking and poorly prioritized. The 
+number of low- to moderate-income Vermonters seeking affordable 
+housing, including those with disabilities, the elderly and returning 
+veterans, continues to climb. Fortunately for Vermonters, the VSHA is 
+constantly recognized by HUD as one of the Nation's most well run and 
+effective housing authorities--giving hope to those that might have 
+lost hope in virtually every other government system.
+  Not only has the VSHA worked to assist people in finding affordable 
+apartments, but they have also helped many Vermonters pursue their 
+dreams of homeownership. It gives me great pride to say that VSHA's 
+Homeownership program has given more than 80 low-income Vermont 
+families the opportunity to become homeowners. This dynamic program 
+works to improve self-sufficiency by converting Section 8
+
+[[Page S5686]]
+
+vouchers into Homeownership Vouchers. I am happy to say that the VSHA 
+Homeownership program has enabled low-income Vermonters to build equity 
+and wealth while increasing their civic involvement.
+  While providing housing for Vermonters, the VSHA has simultaneously 
+preserved and revitalized town centers, historical buildings and a 
+general sense of community across the State. They have done this with 
+commendable collaboration with nonprofit organizations, the private 
+sector and various government agencies. I have seen their work, and 
+most importantly, I have seen the tremendous impact their programs have 
+had on my home State and the people who call the Green Mountains their 
+home.
+  I congratulate the VSHA on their outstanding achievements over the 
+past 40 years. On behalf of the people of Vermont, I applaud everyone 
+who has worked to make the Vermont State Housing Authority a great 
+success.
+
+                          ____________________
+```

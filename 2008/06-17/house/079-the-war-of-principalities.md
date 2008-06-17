@@ -1,0 +1,71 @@
+---
+granule: CREC-2008-06-17-pt1-PgH5478-2
+date: 2008-06-17
+edition: CREC
+section: HOUSE
+page: H5478
+citation: 154 Cong. Rec. H5478
+---
+
+# THE WAR OF PRINCIPALITIES
+
+**Speaking:** Jordan, Jim (J000289) [R-OH]
+
+```
+                       THE WAR OF PRINCIPALITIES
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from Ohio (Mr. Jordan) is recognized for 5 minutes.
+  Mr. JORDAN of Ohio. I thank the Speaker for his patience this 
+evening. I want to thank Congressman Forbes for putting the previous 
+Special Order together on our religious history here in this country.
+  Mr. Speaker, make no mistake about it. There is a debate going on 
+today in our culture over whose set of principles, whose set of values 
+are going to prevail. There are those of us who understand the 
+significance of faith, the importance of faith in public life, the 
+importance of faith in America and our entire history and our entire 
+experience, those of us who understand that faith has been central to 
+making us the greatest Nation in human history versus those on the 
+secular side who think we need a more secular culture. That is the 
+debate.
+  And it is important that we weigh in on that debate. It is important 
+that as we wage that debate and argue for the importance of faith in 
+our culture and our public life that we recognize the religious history 
+in the entire American experience that we have so enjoyed. I believe 
+the American people get it. I believe the vast majority of families 
+understand what the Founders understood, that faith is central to who 
+we are as a people and to the great place we have as the greatest 
+country in history.
+  It has been said many times already by previous speakers, but I think 
+when you think about some of the things the Founders said, I love what 
+Franklin said when they were in the midst of debate, and he was 
+advocating for prayer before, so they could get through this impasse 
+that they found themselves, he made the statement that if a sparrow 
+can't fall without His knowledge, is it likely an empire can rise 
+without His assistance? The Founders understood the importance of 
+prayer. They understood the importance of faith.
+  And as many speakers have also referenced that document that I would 
+argue next to Scripture, second only to Scripture, the greatest words 
+ever put on paper, the Declaration of Independence, where the Founders 
+wrote, ``We hold these truths to be self-evident, all men are created 
+equal, endowed by their Creator with certain inalienable rights, that 
+among these are life, liberty and the pursuit of happiness,'' fabulous 
+language, this almost romantic vision that the Founders had about what 
+this country would offer to its people. They understood that we did, in 
+fact, get our rights from the Almighty, and it is government's job not 
+to grant us privileges, not to grant us rights, but to protect the 
+rights we have by the very fact we were created in God's image.
+  And that fundamental principle is different from any other country in 
+history. And again, it sets us apart. And so it is important that we 
+recognize this history and recognize this debate that is going on and 
+not be afraid to stand up and defend those principles that make us 
+special.
+  I think it is appropriate that I end with one of my favorite 
+Scriptures in II Timothy where Paul writes to Timothy. He says, ``I 
+fought the good fight, I finished the course, I have kept the faith.'' 
+And that is our charge as Americans, to fight the fight, to finish the 
+course and to keep the faith that the Founders understood was central 
+to making us the greatest nation ever.
+
+                          ____________________
+```
