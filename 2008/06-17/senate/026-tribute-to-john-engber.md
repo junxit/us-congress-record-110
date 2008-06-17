@@ -1,0 +1,41 @@
+---
+granule: CRECB-2008-pt9-Pg12570
+date: 2008-06-17
+edition: CRECB
+section: SENATE
+page: 12570
+---
+
+# TRIBUTE TO JOHN ENGBER
+
+```
+                         TRIBUTE TO JOHN ENGBER
+
+  Mrs. MURRAY. Mr. President, I rise today to recognize John Engber for 
+his 11 years of service to the U.S. Senate and the people of Washington 
+State. John served as my State Director during this time, and he was a 
+critical part of my staff. On June 1, he ended his tenure in my office. 
+We were sad to see him go, but we wish him all the best in his next 
+endeavor.
+  John was a thoughtful and dedicated public servant. As my State 
+Director, he helped ensure that even though Washington State residents 
+are 2,500 miles from DC, their needs are up-front and center. 
+Overseeing my State operations, he was responsible for listening to the 
+people in our communities and for connecting them to the Senate and the 
+Federal Government. And thanks to his hard work, residents of towns 
+from Forks to Clarkston have access to me and my office.
+  One of John's greatest accomplishments during his time with my office 
+was his help in drafting the recently enacted Wild Sky Wilderness law. 
+John worked closely with local leaders, the environmental community, 
+outdoor enthusiasts, and others to create a wilderness proposal built 
+on community consensus. We faced some tremendous obstacles over the 9 
+years that we worked on the bill, but John helped us all remain 
+dedicated to the goal of preserving Wild Sky for future generations.
+  Finally, I would like to thank John for his years of service to me 
+and the people of Washington State. His leadership and his dedication 
+are truly appreciated, and I know that he will always have Washington 
+State's interests at heart. I wish him happiness and success as he 
+moves on to the next phase of his career.
+
+                          ____________________
+```
