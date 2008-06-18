@@ -1,0 +1,26 @@
+---
+granule: CREC-2008-06-18-pt1-PgH5578-2
+date: 2008-06-18
+edition: CREC
+section: HOUSE
+page: H5578
+citation: 154 Cong. Rec. H5578
+---
+
+# BILL PRESENTED TO THE PRESIDENT
+
+**Measures:** H.R. 6124
+
+```
+                    BILL PRESENTED TO THE PRESIDENT
+
+  Lorraine C. Miller, Clerk of the House reports that on June 16, 2008 
+she presented to the President of the United States, for his approval, 
+the following bill.
+
+       H.R. 6124. To provide for the continuation of agricultural 
+     and other programs of the Department of Agriculture through 
+     fiscal year 2012, and for other purposes.
+
+                          ____________________
+```

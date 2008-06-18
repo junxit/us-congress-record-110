@@ -1,0 +1,39 @@
+---
+granule: CREC-2008-06-18-pt1-PgH5489-2
+date: 2008-06-18
+edition: CREC
+section: HOUSE
+page: H5489
+citation: 154 Cong. Rec. H5489
+---
+
+# SUPPORT GROWING DOMESTIC ENERGY NEEDS
+
+**Speaking:** Gohmert, Louie (G000552) [R-TX]
+
+```
+                 SUPPORT GROWING DOMESTIC ENERGY NEEDS
+
+  (Mr. GOHMERT asked and was given permission to address the House for 
+1 minute.)
+  Mr. GOHMERT. Mr. Speaker, an 83-year-old woman told me she is paying 
+over $400 a month now for her energy bills, and she may end up 
+finishing her life burning wood, like she started it.
+  The fact is, God has blessed this Nation with an abundance of 
+solutions in the form of natural resources that can support growing 
+domestic energy needs. Within 3 years, we can get a million to a 
+million and a half barrels of oil from ANWR. Some have indicated there 
+are three times the amount of oil left in the entire Middle East, three 
+times that amount in shale in Colorado, Wyoming and Utah, but they 
+can't get to it.
+  The limited areas that are available for lease have an 8-year lease, 
+and they are saying it takes right at 8 years to get all the permits. 
+Yes, there is some property under lease that they can't produce. There 
+is some that doesn't produce. That's the energy business.
+  But we need to help hardworking Americans. I don't understand what 
+the majority leadership has against good union jobs. We are losing them 
+every day in our district because energy prices are too high, and I 
+want to keep those good union jobs.
+
+                          ____________________
+```

@@ -1,0 +1,117 @@
+---
+granule: CREC-2008-06-18-pt1-PgS5710-6
+date: 2008-06-18
+edition: CREC
+section: SENATE
+page: S5710
+citation: 154 Cong. Rec. S5710
+---
+
+# UNANIMOUS-CONSENT REQUEST--S. 3098
+
+**Speaking:** McConnell, Mitch (M000355) [R-KY], Durbin, Richard J. (D000563) [D-IL]
+
+**Measures:** S. 3098
+
+```
+                   UNANIMOUS-CONSENT REQUEST--S. 3098
+
+  Mr. McCONNELL. Finally, I notified my friend on the other side I also 
+wanted to ask consent that the Senate proceed to the immediate 
+consideration of Calendar No. 771, S. 3098, a bill to extend expiring 
+tax relief. I ask unanimous consent that the bill be read a third time 
+and passed, the motion to reconsider be laid upon the table, and that 
+any statements relating to the bill be printed in the Record.
+  The PRESIDING OFFICER. Is there objection?
+  Mr. DURBIN. I object.
+  The PRESIDING OFFICER. Objection is heard.
+  Mr. McCONNELL. That was the extender package, the McConnell-Kyl-
+Grassley package. That includes the 1-year AMT patch omitted by the 
+House bill that we had a vote on yesterday and extends the provisions 
+that expired in 2007 for 2 years. This is a 1-year
+
+[[Page S5711]]
+
+longer extension than in the House bill we had the vote on yesterday.
+  S. 3098 does not include any tax hikes, reflecting the position 41 
+Senators took in a letter to Senator Baucus on April 23 of this year.
+  Our Republican alternative also includes the Ensign-Cantwell energy 
+tax incentives, which were approved by the Senate earlier this year, 88 
+to 8.
+  In addition, S. 3098 does not contain the New York City earmark. It 
+also does not contain the tax break for trial lawyers. It also does not 
+contain Davis-Bacon expansion. And it also would not be vetoed by the 
+President.
+  On balance, this is a bill that could pass the Senate and get signed 
+by the President. We hope to pass it as soon as possible.
+  Let me conclude my remarks by saying that my good friend on the other 
+side of the aisle and I both know how we pass these bills--we pass them 
+together. As he frequently said when he was in the minority and in a 
+position similar to mine, we are not the House. We are the Senate. It 
+is not going to work to turn the Senate into the House. We all know 
+that. Both sides have tried it. We have been in the majority and the 
+minority, and the minority always insists they be part of the process.
+  We have two important bills here that clearly need to be completed. 
+We all know how to get there--bipartisan negotiation on the Medicare 
+bill and bipartisan negotiation on the tax extender bill.
+  I yield the floor.
+  The PRESIDING OFFICER. The assistant majority leader is recognized.
+  Mr. DURBIN. I wish to say a word in response to my earlier objections 
+and note the bill related to Medicare, presented by the Senator from 
+Kentucky, the Republican minority leader, failed to include critical 
+provisions that we had in our earlier legislation.
+  Our legislation would have provided financial assistance to low-
+income Medicare beneficiaries who cannot afford Medicare premiums and 
+it would have finally moved us forward on the issue of mental health 
+parity. This is an issue that is long overdue. There are millions of 
+American families who are struggling with mental health issues. They 
+understand that the high copayments for mental health services in 
+effect deny service to a lot of those who cannot afford them. We wanted 
+to address that in the bill. We thought it was a priority. The Senator 
+from Kentucky in his measure they brought before us did not include 
+that, and that is unfortunate.
+  I say to the Senator from Kentucky, I believe in the battle of ideas 
+on the floor of the Senate. Looking back, in the time I have been here 
+I have lost a lot of amendments on the floor. I have come here, brought 
+the amendments, debated them, subjected them to a vote, and lost. But 
+it was a fair fight. People spoke on both sides of the issue. The 
+Senate spoke. That is how it should be. If the majority prevails, then 
+we move forward. That is the only way this body can work.
+  But the Republicans have now taken a new approach and that approach 
+is: We will not debate issues. We will not deliberate them. It is a 
+take-it-or-leave-it situation. Seventy-seven filibusters have been used 
+now. They are stopping this Medicare bill. Then when they realize how 
+bad it looks back home--when they know they cannot explain it to 
+seniors and disabled when the doctors who treat them say we are about 
+to take a 10-percent pay cut and I may not be able to see you--they 
+understand it is hard to explain that vote. So then they come to the 
+floor and make a unanimous consent request to say let's drop in a bill 
+and take care of the whole problem.
+  That is not the way the Senate works either. We don't want to turn 
+the Senate into the House, but the Republican strategy is turning the 
+Senate into a ghost town. We don't do anything here. We have procedural 
+votes three or four times a week and then go home. If those in the 
+Senate were paid on the basis of debate, deliberation, amendments, 
+bills passed and that kind of effort, we would not earn a minimum wage 
+around here because we never get to the substance anymore. There were 
+77 Republican filibusters so far, the latest on the energy issue.
+  For the Senator from Kentucky to come forward and say the reason we 
+could not support the idea of moving forward on these energy tax credit 
+extenders was because they involved a tax--do you know who was going to 
+pay that tax? Companies that locate overseas, American companies that 
+go overseas trying to avoid our taxes would have been subject to more 
+taxes. The Senator from Kentucky is saying 41 of his members have taken 
+a solemn pledge not to raise the taxes of those American companies that 
+go overseas to avoid paying American taxes. How about that? Is that 
+what we need in America, more incentives to take jobs offshore?
+  Senator Baucus in the Finance Committee had a reasonable approach to 
+this, taking that money and putting it back into America for tax breaks 
+for our families and to encourage energy production for our future, and 
+the Republicans voted no--time and again they vote no. But the American 
+people will have a final vote on November 4. They will remember the 
+party that is trying to move forward an agenda to make this a better 
+nation and they will remember the party of filibusters that votes no.
+  I yield the floor.
+
+                          ____________________
+```
