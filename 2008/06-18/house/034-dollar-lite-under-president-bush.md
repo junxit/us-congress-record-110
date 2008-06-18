@@ -1,0 +1,35 @@
+---
+granule: CRECB-2008-pt9-Pg12750
+date: 2008-06-18
+edition: CRECB
+section: HOUSE
+page: 12750
+---
+
+# DOLLAR LITE UNDER PRESIDENT BUSH
+
+```
+                    DOLLAR LITE UNDER PRESIDENT BUSH
+
+  (Mr. KAGEN asked and was given permission to address the House for 1 
+minute.)
+  Mr. KAGEN. Mr. Speaker, the people in Wisconsin elected me and sent 
+me here to Washington to listen to them. And what are the people in 
+Wisconsin asking me to do? They said Kagen, there are two things you 
+can do to help me and stimulate my economy and put more money in my 
+pocket: cut the price of gasoline and reduce our health care costs.
+  As Megan and Eric from Appleton wrote to me, ``We are young people 
+with four kids. Our insurance is out of control. Our family earns 
+$38,000 a year. We pay $520 a month to have health insurance. Gas 
+prices limit our lives. We can't afford it; food for our kids or gas in 
+the tank.''
+  My friends, there are two reasons we are in this mess: Bush and 
+Cheney. Bush and Cheney, these are the two reasons. And what have they 
+done, they have taken our United States dollar and taken down its 
+value. You might be drinking Miller Lite, but you've got dollar lite in 
+your pocket, and that's why the price of everything, from gasoline to 
+health care, to food, shelter and clothing is going up. Your United 
+States dollar isn't worth what it was when George Bush took office.
+
+                          ____________________
+```

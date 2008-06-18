@@ -1,0 +1,60 @@
+---
+granule: CRECB-2008-pt9-Pg12721-2
+date: 2008-06-18
+edition: CRECB
+section: SENATE
+page: 12721
+---
+
+# ADDITIONAL STATEMENTS
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+                    RECOGNIZING MAURICE A. CALDERON
+
+● Mrs. BOXER. Madam President, I am pleased to ask my colleagues 
+to join me in recognizing a longtime community leader in Inland 
+Southern California, Maurice A. Calderon, as he retires from a long 
+career of service and support to his community.
+  Maurice Calderon as a board member for Banning Unified School 
+District, as a trustee with the San Jacinto Community College District, 
+and as a trustee for the San Bernardino Valley College Foundation. Mr. 
+Calderon has also served as a member of the foundation for the 
+University of California, Riverside.
+  Maurice Calderon has also served his community through involvement in 
+a number of community organizations. He is a member of the Inland 
+Empire Hispanic Chamber of Commerce and the Inland Empire African 
+American Chamber of Commerce. He has served as the director of the 
+Inland Empire Economic Partnership, and as chairman of the Inland 
+Empire Hispanic Leadership Council. Maurice is also the president of 
+Sinfonia Mexicana, a Hispanic symphony that provides cultural 
+enrichment throughout the region.
+  For his longstanding work throughout various communities, Maurice 
+Calderon has been the recipient of numerous titles of distinction and 
+awards of commendation. He has been named the ``Father of the Year'' 
+and the ``Citizen of the Year'' by the cities of Banning and Beaumont, 
+respectively. Hispanic Lifestyle Magazine and the Inland Empire 
+Hispanic Chamber of Commerce named him the ``Hispanic of the Year,'' 
+and he was named to the Southern California Native American and Latino 
+Hall of Fame. In April 2004, he was honored as the recipient of the 
+Reconocimiento Ohtli Award, which is given by the Mexican Ministry of 
+Foreign Affairs to role models who have successfully contributed to the 
+well-being of their communities. And in 2005, the city of Banning 
+acknowledged Maurice and the entire Calderon family for their more than 
+100 years of community service, and named a street in their honor, 
+``Calderon Way.''
+  As Mr. Calderon retires, he can look back on a distinguished career 
+of service to his community, to education, and to cultural awareness. I 
+join with members of his community in wishing him a wonderful 
+retirement.●
+
+[[Page 12722]]
+
+
+
+                          ____________________
+```
