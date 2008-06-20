@@ -1,0 +1,47 @@
+---
+granule: CREC-2008-06-20-pt1-PgS5937
+date: 2008-06-20
+edition: CREC
+section: SENATE
+page: S5937
+citation: 154 Cong. Rec. S5937
+---
+
+# HONORING TROOPER DAVID SHAWN BLANTON, JR.
+
+**Speaking:** Burr, Richard (B001135) [R-NC]
+
+```
+               HONORING TROOPER DAVID SHAWN BLANTON, JR.
+
+  Mr. BURR. Mr. President, today I wish to honor the life of North 
+Carolina State Trooper David Shawn Blanton, Jr., who was tragically 
+killed on June 18 during a routine traffic stop near Canton, NC. David 
+is the 59th North Carolina State Trooper to have been killed in the 
+line of duty.
+  David was only 24 years old and was a 2-year veteran of the North 
+Carolina Highway Patrol. He was a native of Sylva, NC, and a 2002 
+graduate of Smoky Mountain High School where he was a football and 
+wrestling star.
+  We are all grateful for David's dedication to protecting the citizens 
+of North Carolina. He lived in Cherokee with his wife Michaela, who had 
+just given birth to their son Tye 2 weeks ago.
+  David was a member of the Eastern Band of the Cherokee Indian Tribe 
+and the first member of that tribe to serve with the Highway Patrol. In 
+addition to being a State trooper, David volunteered as the Junior 
+Varsity softball coach at Smoky Mountain High School.
+  Along with his wife Michaela and son Tye, David is survived by his 
+father, David S. Blanton, Sr., mother, Jennifer Blanton, and younger 
+brother, Jesse Blanton.
+  David's friends, family, fellow troopers, and the people of North 
+Carolina are mourning this very tragic loss.
+  I know there are no words I can offer to help comfort Michaela and 
+other members of the Blanton family, but I hope my colleagues in the 
+Senate will join me in keeping them in our thoughts and prayers.
+  David gave his life in service to our State, and this ultimate 
+sacrifice should never be forgotten.
+  I send my deepest condolences to all who had the privilege of knowing 
+this young man who gave his life in service to our State.
+
+                          ____________________
+```

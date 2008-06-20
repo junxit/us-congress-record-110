@@ -1,0 +1,586 @@
+---
+granule: CREC-2008-06-20-pt1-PgS5930
+date: 2008-06-20
+edition: CREC
+section: SENATE
+page: S5930
+citation: 154 Cong. Rec. S5930
+---
+
+# SOLICITOR GENERAL PAUL CLEMENT
+
+**Speaking:** Hatch, Orrin G. (H000338) [R-UT]
+
+```
+                     SOLICITOR GENERAL PAUL CLEMENT
+
+  Mr. HATCH. Mr. President, I rise to pay tribute to the service of 
+Paul Clement, who recently stepped down as our Nation's 43rd Solicitor 
+General.
+  Paul served in that office for more than 7 years, first as Principal 
+Deputy to Solicitor General Ted Olson, then as Acting Solicitor 
+General, and for three years as Solicitor General. He is a good man and 
+an excellent lawyer who was a great Solicitor General.
+  Before speaking about Paul, let me first say a few words about the 
+office in which he served.
+  Congress created the Department of Justice and the position of 
+Solicitor General in 1870. Since then, the Solicitor General is the 
+only Federal Government officer actually required by statute to be 
+``learned in the law.''
+  As Paul put it during his confirmation hearing in April 2005, the 
+Solicitor General sits literally at the crossroads of the separation of 
+powers. He is an executive branch official who defends the actions of 
+the executive and legislative branches before the judicial branch.
+  Today, the Solicitor General represents the United States before the 
+Supreme Court and manages the United States' participation in thousands 
+of lower court cases. That means he must make decisions in individual 
+cases with reference to past positions taken by the United States and 
+vigilance about how current positions may affect the future.
+  Such a constant, and constantly changing, set of factors makes the 
+Solicitor General's job something like the courtroom version of multi-
+dimensional chess.
+  Because of his special relationship with the Supreme Court, the 
+Solicitor General is often referred to as the Tenth Justice. Because of 
+its astounding breadth and depth of experience and expertise, the 
+Solicitor General's office has been called the best law firm in 
+America.
+  Paul Clement stands in a line of Solicitors General that includes 
+some of the true giants in the law and in the service of our country.
+  They include many who also served on the federal bench such as 
+Supreme Court Chief Justices William Howard Taft and Charles Evans 
+Hughes; Associate Justices Stanley Reed, Robert Jackson, and Thurgood 
+Marshall; and Circuit Judges Kenneth Starr, Wade McCree, and Walter 
+Cummings.
+  They include some of America's most distinguished legal academics 
+such as Walter Dellinger, the Maggs Professor of Law at Duke; the late 
+Erwin Griswold, dean of Harvard Law School for 31 years; and the late 
+Rex Lee, from my own State of Utah, who was the founding dean of the J. 
+Reuben Clark School of Law at Brigham Young University.
+  Past Solicitors General also include those who would distinguish 
+themselves in both the academic and judicial worlds such as Charles 
+Fried, who has taught at Havard Law School since 1961 and served on the 
+Supreme Judicial Court of Massachusetts; and Robert Bork, who was the 
+Bickel Professor of Public Law at Yale and served on the U.S. Court of 
+Appeals for the D.C. Circuit.
+  Like Paul Clement, current Chief Justice John Roberts served as 
+Principal Deputy Solicitor General.
+  Paul deserves to stand among such legends.
+  A native of Cedarburg, WI, Paul graduated from the Cedarburg public 
+schools and went on to receive a bachelor's degree summa cum laude from
+
+[[Page S5931]]
+
+the Georgetown University School of Foreign Service and a master's 
+degree with distinction from Cambridge University.
+  He then gave Harvard Law School a try and, sure enough, graduated 
+from there magna cum laude after serving as Supreme Court editor of the 
+Harvard Law Review to boot.
+  With that record, it is not surprising that he had the opportunity to 
+clerk for truly great judges such as Judge Laurence Silberman on the 
+U.S. Court of Appeals for the D.C. Circuit, who recently received the 
+Presidential Medal of Freedom, and Supreme Court Justice Antonin 
+Scalia.
+  After a few years in private practice, Paul joined the United States 
+Senate family as Chief Counsel of the Judiciary Subcommittee on the 
+Constitution, Federalism, and Property Rights, chaired by our former 
+colleague and former Attorney General John Ashcroft.
+  I chaired the Judiciary Committee at the time and remember Paul not 
+only as a smart and hardworking lawyer but as a thoughtful, humble, and 
+truly decent person.
+  It is easy to find someone with either professional talents or 
+personal qualities, but a rare gift to have someone like Paul who has 
+both.
+  After leaving the Senate, Paul returned to private practice and 
+headed the appellate practice group of the distinguished law firm of 
+King & Spalding before joining the Solicitor General's office. A far 
+less impressive record spread over a lifetime would suffice for most, 
+but Paul does not achieve the ripe old age of 42 until next week.
+  Three members of this body have been serving here since before Paul 
+Clement was born. Why, the Senator from West Virginia, Mr. Byrd, was in 
+his second term when young Paul came into the world.
+  The Senator from Paul's home State of Wisconsin, Mr. Feingold, my 
+colleague on both the Judiciary and Intelligence Committees, introduced 
+and praised Paul at his confirmation hearing. He noted that Paul would 
+be the youngest Solicitor General in more than 50 years and one of the 
+youngest in American history.
+  I do not want to belabor the point, but as I become a more seasoned 
+citizen myself, I am impressed with how much some of these young people 
+can accomplish.
+  Oh, I forgot one item on Paul's jam-packed resume. Last September, 
+Paul squeezed in a full 24 hours of service as Acting Attorney General. 
+Fittingly, that was on September 17, which is the anniversary of both 
+the Constitution's signing and the confirmation of Paul's former boss 
+Justice Scalia to the Supreme Court.
+  Paul has argued a total of 49 cases before the Supreme Court. I 
+should perhaps say that he has so far argued 49 cases, as Paul may well 
+return to the Supreme Court podium in the future. It is the tradition 
+and commitment of the Solicitor General to defend acts of Congress if 
+there is a reasonable argument to do so.
+  No one can turn a merely reasonable argument into a compelling 
+argument better than Paul Clement. Many who have seen him argue remark 
+that though he speaks without notes, he has an astounding command of 
+the facts and the law in each case.
+  He has vigorously defended the legislation we have enacted on a wide 
+range of issues, from the McCain-Feingold campaign finance law and the 
+ban on partial-birth abortion to the Solomon Amendment and the 
+Americans with Disabilities Act.
+  I would be surprised if any of my colleagues voted for every piece of 
+legislation Paul has defended before the Supreme Court. I know I have 
+not.
+  But in every case, Paul upheld the highest standards of his office by 
+diligently defending the work of the legislative branch.
+  And while each Solicitor General faces unique challenges and special 
+cases, Paul's tenure coincided with the war on terror that we continue 
+to fight.
+  He has confronted not only novel, complex, and serious legal issues, 
+but he has borne the burden of knowing that his efforts will 
+dramatically affect American lives, and indeed the American way of life 
+itself.
+  Paul's combination of experience allowed him to do some truly unique 
+things as Solicitor General. When he earlier served on the Judiciary 
+Committee staff, for example, Paul worked hard on the development and 
+passage of the Religious Land Use and Institutionalized Persons Act.
+  I introduced that legislation after the Supreme Court struck down 
+previous efforts to protect religious liberty. The Senate unanimously 
+passed the bill.
+  Then in 2005, as Solicitor General, Paul defended the 
+constitutionality of that law and the Supreme Court unanimously upheld 
+it.
+  And in the case now before the Supreme Court regarding the District 
+of Columbia's ban on firearm possession, Paul argued before the Justice 
+for whom he clerked regarding the opinion of the Circuit Judge for whom 
+he clerked.
+  Some who have compiled such an amazing resume have taken much longer 
+to do so. Some who have done so quickly are, quite frankly, not nearly 
+so decent and kind as Paul Clement.
+  He and his wife Alexandra have three wonderful children, Thomas 
+Antonio, Theodore Gerald, otherwise known as Theo, and the youngest, 
+Paul Gregory. The little one, called P.G., made his presence known at 
+the opening of Paul's confirmation hearing. Youngsters are known to do 
+that.
+  We all remember Chief Justice Roberts' son Jack doing the dance of 
+joy when his father was sworn in at the White House. At his hearing, 
+Paul noted that he and his wife had promised the boys Yugioh cards in 
+what he said would be direct proportion to how well they behaved that 
+morning. I thought the boys did quite well that day and hope they were 
+duly rewarded.
+  I was also touched at that hearing when Paul talked about his wife 
+and her role in supporting his work. He said: ``Every day that she 
+allows me to practice law outside the home while she stays home with 
+our three boys is a personal sacrifice and an indulgence of my 
+interests, for which I am eternally grateful.''
+  I am not the only one to recognize Paul Clement as a very good man 
+and a very good lawyer or to applaud his service to our country.
+  I ask unanimous consent to place in the Record following my remarks 
+letters sent to me by former Solicitors General Ted Olson and Seth 
+Waxman, the current Deputy Attorney General Mark Filip and his 
+predecessor Paul McNulty, former Attorney General Edwin Meese, former 
+Senator John Ashcroft, Judge Laurence Silberman, and Justice Antonin 
+Scalia.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  (See exhibit 1.)
+  I want to highlight a few comments from a few of these letters.
+  Former Solicitor General Ted Olson, for example, wrote to me that ``I 
+have been continuously impressed by his unfailing dedication and 
+talent. I cannot imagine a more productive, honorable and distinguished 
+record of exceptional government service. . . . General Clement has 
+also been an outstanding steward of the office of the Solicitor General 
+throughout his 7 years of government service. . . . He leaves this fine 
+office in superb condition, fully staffed and in the hands of lawyers 
+dedicated to carry on the work of the Solicitor General.''
+  Deputy Attorney General Mark Filip attended Harvard Law School with 
+Paul and together they clerked for Justice Scalia. He writes: ``The 
+respect and praise for Mr. Clement is the product of his unique talents 
+and work ethic. He is exceptionally bright, and he is a gifted oral 
+advocate. He is also intellectually honest and open-minded . . . Paul 
+is a fundamentally decent person, and a true patriot, and the 
+Department of Justice and Nation are decidedly better because of his 
+public service.''
+  And Justice Scalia wrote to me this way: ``when it was rumored that 
+Paul Clement was under consideration to fill the vacancy in the office 
+of Solicitor General, the Court (and I speak here of a 9-0 judgment) 
+was delighted. It was the consensus, based on Mr. Clement's
+
+[[Page S5932]]
+
+appearances before us over the preceding few years, that the President 
+could not make a better choice. We have not been disappointed in our 
+expectation. For the past 7 years, General Clement could be relied upon 
+to assure that the Government's case was presented forcefully but 
+fairly, without exaggeration or obfuscation. The Government did not 
+always win, of course, because sometimes its case was a weak one; but 
+the Office of Solicitor General said for it the best that could be 
+said. I take special pride in passing along this praise, since as you 
+know Paul was once a law clerk of mine and has remained a good 
+friend.''
+  This is certainly high praise and I share all of it.
+  But Paul Clement is no ordinary super-lawyer.
+  Last year, a profile in the Wall Street Journal noted Paul's 
+credentials and brilliance but also revealed that he is a fan of 
+alternative rock music, with his favorite band the grunge group 
+Nirvana.
+  The Journal speculated that Paul is the first Solicitor General to 
+frequent the 9:30 Club, described as Washington's alternative rock 
+outpost.
+  A writer on the Wall Street Journals blog offered this simple yet 
+profound assessment, which I also share:
+
+       Paul Clement rocks.
+
+  I understand that Paul will be staying in the Washington area, 
+returning to teach law at Georgetown and serving as a fellow at the 
+Supreme Court Institute.
+  Both institutions and the people they serve are truly blessed to have 
+him.
+  Already in his young life, Paul Clement has touched many lives and 
+made America better.
+  I understand that Paul and his family are today doing some well-
+deserved traveling abroad.
+  I join so many others in thanking him for his service to America and 
+in offering my prayers for him and his family in their lives ahead.
+  This is an exceptional human being. He is a great man. At his tender 
+age, he has been a great Solicitor General by all measures. Whether you 
+are a Democrat or Republican, you have to acknowledge that. He has 
+served this country well and faithfully. I value his friendship. I 
+value him as a human being.
+  On behalf of, I think, every member of the Judiciary Committee and 
+others who knew him, we wish Paul the absolute best. We know he will be 
+giving a great deal of knowledge to those young students and others who 
+will learn from him.
+  I am grateful to know him. I am grateful I have had the privilege of 
+working with him. I am grateful I have been able to watch his career as 
+he served in the Solicitor General's office. I am grateful this young 
+man has reached the heights he has reached because he deserves it. He 
+is a terrific human being, and we all know that.
+  I yield the floor.
+
+                               Exhibit 1
+
+
+                                  Gibson, Dunn & Crutcher LLP,
+
+                                     Washington, DC, June 3, 2008.
+     Re Solicitor General Paul D. Clement
+
+     Hon. Orrin G. Hatch,
+     U.S. Senate,
+     Washington, DC,
+       Dear Senator Hatch: I understand that you will be offering 
+     a Senate tribute to retiring Solicitor General Paul D. 
+     Clement. You are very kind to do this, and I wanted to take 
+     the opportunity to add my praise to the many plaudits that I 
+     am sure you have received from others for the outstanding and 
+     dedicated service Solicitor General Clement has rendered to 
+     the Government of the U.S. and to the people of this Nation 
+     during his 7 years as Deputy Solicitor General and Solicitor 
+     General.
+       As you know, General Clement served as my Principal Deputy 
+     in the Solicitor General's office from 2001 until 2004. As a 
+     result, I was able to observe, on a daily basis, his 
+     extraordinary talents and dedicated service in the Department 
+     of Justice. I also stayed in close touch with his work in the 
+     years since I left the office in 2004. I have been 
+     continuously impressed by his unfailing dedication and 
+     talent. I cannot imagine a more productive, honorable and 
+     distinguished record of exceptional government service.
+       General Clement is and has been a superb advocate for the 
+     United States before the United States Supreme Court. I 
+     personally observed many of his forty-nine arguments before 
+     the Court and I am familiar with many of the arguments that I 
+     did not witness. His preparation for and delivery of 
+     arguments to the Court have invariably been superb. His 
+     analysis has been meticulous and insightful, his oral 
+     advocacy honest, clear and forthright, and he is eloquent and 
+     persuasive in Court. Many of his arguments have involved 
+     defending the constitutionality of acts of Congress. Congress 
+     could not possibly have had a better advocate. He repeatedly 
+     and consistently earned the respect, admiration and 
+     appreciation of the Justices.
+       Another part of General Clement's service was managing the 
+     appellate practice of the lawyers of the United States in the 
+     federal courts. He has worked diligently and conscientiously 
+     to insure that the interests of the United States were well 
+     served in determining whether to appeal decisions adverse to 
+     the United States and to intervene in cases where the 
+     interest of the United States required it. The quality of 
+     that advocacy has been clear, fair, and consistently of the 
+     highest caliber. In developing the position of the United 
+     States, he has thoughtfully and painstakingly listened to and 
+     helped articulate the views of the Government agencies that 
+     he has represented, never overlooking the fact that the 
+     people of this Nation were his ultimate clients.
+       General Clement has also been an outstanding steward of the 
+     Office of the Solicitor General throughout his 7 years of 
+     government service. He has encouraged, supported and guided 
+     the exceptional career attorneys and staff members of the 
+     Office of the Solicitor General. He leaves this fine office 
+     in superb condition, fully staffed and in the hands of 
+     lawyers dedicated to carry on the work of the Solicitor 
+     General.
+       Solicitor General Clement is a paradigmatical example of 
+     unselfish government service. He has earned the respect and 
+     gratitude of all citizens.
+       Thank you for expressing the Nation's appreciation and 
+     thanks to General Clement for his outstanding personal and 
+     professional service as Solicitor General of the United 
+     States.
+           Very truly yours,
+     Theodore B. Olson.
+                                  ____
+
+                                     Washington, DC, June 2, 2008.
+     Hon. Orrin Hatch,
+     U.S. Senate,
+     Washington, DC.
+       Dear Senator Hatch: I'm delighted to add my voice to the 
+     chorus applauding Paul Clement's tenure as Solicitor General 
+     of the United States. Throughout, Paul conducted himself 
+     before the Court in the very finest traditions of the office. 
+     I'm delighted that he plans (for now at least) to remain 
+     close by, and I look forward to many happy years of continued 
+     professional association with this fine lawyer.
+           Yours sincerely,
+     Seth P. Waxman.
+                                  ____
+
+                                                     Office of the
+
+
+                                      Deputy Attorney General,
+
+                                     Washington, DC, June 2, 2008.
+     Hon. Orrin Hatch,
+     U.S. Senate,
+     Washington, DC.
+       Dear Senator Hatch: In June 2008, Paul Clement completed 
+     his tenure at the Justice Department as one of the most 
+     distinguished Solicitor Generals in United States history. 
+     Mr. Clement leaves the Justice Department with the respect 
+     and admiration of a vast group of people within the 
+     Department, within the ranks of present and former members of 
+     the federal judiciary, and among members of the private bar. 
+     The breadth of this group of peop1e--from both sides of the 
+     political aisle, from across the spectrum of the federal 
+     judiciary, and from his former litigation colleagues and 
+     adversaries alike--is decidedly uncommon in our present legal 
+     culture. The range of respect for Mr. Clement is even more 
+     impressive when one realizes that he has litigated the most 
+     high profile cases, concerning the most sensitive issues, 
+     before the U.S. Supreme Court over the last seven plus years.
+       The respect and praise for Mr. Clement is the product of 
+     his unique talents and work ethic. He is exceptionally 
+     bright, and he is a gifted oral advocate. He is also 
+     intellectually honest and open-minded. I regard the year I 
+     spent clerking with him for Justice Scalia as one of the true 
+     good fortunes of my professional career. Paul is a 
+     fundamentally decent person, and a true patriot, and the 
+     Department of Justice and Nation are decidedly better because 
+     of his public service. Thank you very much, Senator Hatch, 
+     for appropriately recognizing his contribution.
+           Very truly yours,
+                                                       Mark Filip,
+     Deputy Attorney General.
+                                  ____
+
+
+
+                                        Baker & McKenzie, LLP,
+
+                                     Washington, DC, June 6, 2008.
+     Hon. Orrin G. Hatch,
+     U.S. Senate,
+     Washington, DC.
+       Dear Senator Hatch: Thank you for the honor to participate 
+     in paying tribute to the outstanding service of Paul Clement, 
+     former Solicitor General of the United States. I was 
+     privileged to be Paul's colleague at the Department of 
+     Justice for six years, and I consider him to be one of our 
+     country's finest public servants.
+       Since the horrific attacks on America on September 11, 
+     2001, our nation has faced the unprecedented challenge of 
+     preventing another devastating attack by a largely invisible 
+     enemy. This effort has placed an especially heavy burden on 
+     our military and law enforcement agencies. It has also 
+     presented us with a set of extremely difficult legal issues 
+     as we work to protect American lives while remaining faithful 
+     to the rule of law. No one in the United States has done more 
+     to find the best answers to these complex questions than Paul 
+     Clement. At a time
+
+[[Page S5933]]
+
+     when our country needed its best and brightest to step 
+     forward and serve, Paul Clement was an answer to the prayers 
+     of millions of Americans who earnestly hoped for capable 
+     leaders in this historic hour.
+       When I served as United State Attorney in the Eastern 
+     District of Virginia, I witnessed his superb argument before 
+     the Fourth Circuit Court of Appeals in the prosecution of 
+     convicted terrorist Zaccarias Moussaoui and his excellent 
+     judgment and advocacy in the litigation arising from the 
+     detention of Yaser Hamdi. Paul's approach was never combative 
+     and ``win at all costs''. Rather, he calmly, respectfully, 
+     and brilliantly worked through the issues presented in these 
+     cases to find answers that were consistent with the letter 
+     and spirit of the U.S. Constitution. Later, when I served as 
+     Deputy Attorney General, I again had the benefit of Paul's 
+     wise counsel and a better seat from which to observe his 
+     integrity in action. When Paul was asked where he thought the 
+     Supreme Court would go in a particular case, he offered only 
+     clear and honest assessments with the utmost respect for 
+     every person and perspective. It is no small irony that at a 
+     time so marked by emotion-filled arguments and about 
+     constitutional fidelity in the war against terrorism, our 
+     nation's top advocate for the government has been a man of 
+     unfailing civility and intellectual integrity who cares far 
+     more about the Court getting it right than his own scorecard 
+     of success.
+       As Paul now enters a new phase in his extraordinary legal 
+     career, I wish this man of faith and devotion to family all 
+     the best. I also hope that some day, once again, he will be 
+     the answer to America's prayer for a devoted public servant 
+     in a time a great need.
+       Senator Hatch, I greatly appreciate your support for Paul, 
+     the Department of Justice, and your many years of leadership 
+     in the United States Senate.
+           Respectly yours,
+                                                  Paul J. McNulty,
+     Former Deputy Attorney General.
+                                  ____
+
+
+
+                                      The Heritage Foundation,
+
+                                    Washington, DC, June 10, 2008.
+     Re Paul Clement
+
+     Hon. Orrin Hatch,
+     U.S. Senate,
+     Washington, DC.
+       Dear Senator Hatch: It is a pleasure to join you in 
+     recognizing the excellent work of Paul Clement as Solicitor 
+     General of the United States.
+       Having served as Attorney General, I know of the importance 
+     of his position as the key official responsible for all the 
+     appellate work done on behalf of the people of this Country. 
+     The Department of Justice has an enviable record of high 
+     quality legal appellate work, thanks to a succession of fine 
+     Solicitors General. Paul has continued that tradition and has 
+     provided the personal leadership and professional competence 
+     which has won the acclaim of the Justices of the Supreme 
+     Court as well as the attorneys that make up the Supreme Court 
+     Bar.
+       In summary, Paul Clement has done an outstanding job as 
+     Solicitor General of the United States. His commitment to the 
+     rule of law and the Constitution, as well as his legal 
+     knowledge and expertise, has contributed to a distinguished 
+     record of service to the Country.
+       Thank you for your efforts in leading this commendation of 
+     an outstanding public official.
+           Sincerely,
+
+                                              Edwin Meese III,
+
+                            Attorney General of the United States,
+     (1985-1988).
+                                  ____
+
+
+
+                                      The Ashcroft Group, LLC,
+
+                                     Washington, DC, June 2, 2008.
+     Hon. Orrin G. Hatch,
+     U.S. Senate,
+     Washington, DC.
+       Dear Senator Hatch: The opportunity to thank Paul Clement 
+     for his years of superlative public service is one for which 
+     I am grateful.
+       It is a personal pleasure and profound honor to have had 
+     the privilege of working alongside Paul in various settings. 
+     We first worked together when he served as Counsel to the 
+     Constitution Subcommittee of the Senate Committee on the 
+     Judiciary. Following my appointment as U.S. Attorney General, 
+     I had the satisfaction of working with Paul in the Office of 
+     the Solicitor General.
+       In all of his service, integrity has been thoroughly 
+     sustained; his wisdom as a Counselor has been unsurpassed and 
+     the industry with which he has approached every challenge has 
+     been unflagging. Even so, Paul never allowed the excellence 
+     of his intellect to interfere with his cordial friendships 
+     with coworkers.
+       I know of no record of public service more worthy of praise 
+     than that of Paul Clement. The U.S. Senate is to be 
+     congratulated for its foresight and wisdom in confirming him 
+     as U.S. Solicitor General to defend our nation's interests in 
+     the judicial system.
+       I am truly grateful for Paul's professional and personal 
+     friendship. May God bless him and his family in the days 
+     ahead.
+           Sincerely,
+     John Ashcroft.
+                                  ____
+
+                                            U.S. Court of Appeals,
+
+
+                                 District of Columbia Circuit,
+
+                                     Washington, DC, May 19, 2008.
+     Hon. Orrin G. Hatch,
+     U.S. Senate,
+     Washington, DC.
+       Dear Orrin: The following tribute to Paul Clement is being 
+     sent to you for submission into the Congressional Record:
+
+       ``Paul Clement is a superb lawyer and was a splendid 
+     Solicitor General with almost invariably good judgment.''
+           Sincerely,
+                                            Laurence H. Silberman,
+     U.S. Senior Circuit Judge.
+                                  ____
+
+
+
+                           Supreme Court of the United States,
+
+                                     Washington, DC, June 6, 2008.
+     Hon. Orrin G. Hatch,
+     U.S. Senate,
+     Washington, DC.
+       Dear Senator Hatch: I have sometimes remarked that one does 
+     not fully appreciate, unless and until he becomes a judge, 
+     how appropriate it is for counsel to be called ``officers of 
+     the court.'' Judges make the decisions, to be sure. But they 
+     rely upon counsel to bring forward the best of what can be 
+     said for each side of the case. And when counsel fail to do 
+     that, the outcome may suffer.
+       Thus, when it was rumored that Paul Clement was under 
+     consideration to fill the vacancy in the office of Solicitor 
+     General, the Court (and I speak here of a 9-0 judgment) was 
+     delighted. It was the consensus, based on Mr. Clement's 
+     appearances before us over the preceding few years, that the 
+     President could not make a better choice.
+       We have not been disappointed in our expectation. For the 
+     past 7 years, General Clement could be relied upon to assure 
+     that the Government's case was presented forcefully but 
+     fairly, without exaggeration or obfuscation. The Government 
+     did not always win, of course, because sometimes its case was 
+     a weak one; but the Office of Solicitor General said for it 
+     the best that could be said. I take special pride in passing 
+     along this praise, since as you know Paul was once law clerk 
+     of mine and has remained a good friend.
+       For a successful lawyer, a 7-year commitment to government 
+     service involves massive financial sacrifice. The sacrifice 
+     is all the greater, and is shared, when the lawyer has a wife 
+     and three young children. So not only does Paul deserve the 
+     Nation's thanks for making a significant contribution to 
+     federal justice, but so does Alexandra for letting him do so.
+       He has our best wishes and confident expectations for 
+     continuation of a brilliant career in the law.
+           Sincerely,
+     Antonin Scalia.
+
+                          ____________________
+```
