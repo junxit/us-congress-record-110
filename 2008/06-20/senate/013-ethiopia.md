@@ -1,0 +1,118 @@
+---
+granule: CRECB-2008-pt9-Pg13212-3
+date: 2008-06-20
+edition: CRECB
+section: SENATE
+page: 13212
+---
+
+# ETHIOPIA
+
+```
+                                ETHIOPIA
+
+  Mr. FEINGOLD. Mr. President, Ethiopia has increasingly been an active 
+participant in the international community and a leader on the African 
+continent--as a charter member of the United Nations, a cofounder of 
+what are now the African Union and Intergovernmental Authority on 
+Development, and a key partner in combating international terrorism. 
+After decades, and some would say centuries of civil
+
+[[Page 13213]]
+
+strife, the 1994 Constitution and election of the coalition Ethiopian 
+People's Revolutionary Democratic Front, EPRDF, in 1995 seemed to 
+herald the beginning of an era of peace, democracy, and development. 
+Efforts to reform the economy and political dynamics, while slow, 
+reversed the devastating impact of the Derg and gave the people of 
+Ethiopia some hope that a robust democracy was really taking root. In 
+fact, in the runup to the 2005 elections, there was a deliberate and 
+significant opening of political space--which included broad media 
+coverage of opposition parties, relatively unimpeded access for 
+opposition candidates to their constituents, and live televised debates 
+between opposition candidates and ruling party incumbents. But in the 
+aftermath of that May 2005 election--which ended in a deeply flawed 
+process and aggressive tactics against the opposition--the ruling party 
+has ratcheted up its rhetoric while backtracking significantly on its 
+commitment to democracy. A newly proposed bill, called the Charities 
+and Societies Proclamation, is the most recent indication of this 
+backsliding.
+  Indeed, for years, the U.S. State Department has reported 
+``widespread human rights abuses'' in its annual country report on 
+Ethiopia. Among the most consistent violations listed are the 
+intimidation, beating, abuse, and arbitrary arrest and detention by 
+Government security forces of journalists, opposition supporters, union 
+leaders, and others who dare to challenge the ruling party. Some of the 
+more egregious examples associated with the growing opposition began in 
+2005 and include the arrest and prosecution for capital offenses of 131 
+major opposition leaders and the arbitrary detention of 30,000 to 
+50,000 civilians without charge. The ruling party also forcibly closed 
+opposition political offices that same year and kept them closed 
+through the eve of local elections this past April. Such conduct is a 
+clear violation of regional and international human rights laws, to 
+which Ethiopia is a signatory, and directly contradicts the country's 
+own Constitution, still only 12 years old.
+  Over the past year, I have become increasingly concerned by reports 
+coming out of the Ogadan region of Ethiopia regarding military attacks 
+on civilians and Government blockades of essential humanitarian and 
+commercial supplies. National and international aid organizations with 
+field missions in the area describe security forces burning villages 
+and Government officials ordering entire village populations to move to 
+specific ``resettlement'' locations that lack sufficient food, water, 
+medical services, and sanitation facilities. Despite the numerous 
+credible reports coming out of the region, the Ethiopian Government has 
+denied that such violations may be occurring and has refused to even 
+investigate these allegations and/or permit independent assessments of 
+conditions in the region. Such stonewalling only further undermines the 
+rule of law and the Government's obligation to protect its civilian 
+population.
+  The aid organizations now struggling to keep these Ethiopian 
+civilians alive, as well as national and international human rights 
+defenders, democracy advocates, independent journalists, and 
+humanitarian organizations seeking to consolidate and extend peace, 
+democracy, and development in Ethiopia, are already facing cumbersome 
+bureaucratic rules and sometime succumb to self-censorship to avoid 
+Government reprisals. The Ethiopian Government's new law, if passed in 
+its current format, would make it almost impossible for these groups 
+and individuals to continue their important efforts. Under the 
+Charities and Societies Proclamation, non-Ethiopian organizations would 
+be prohibited from engaging in democracy, human rights, good 
+governance, or conflict resolution activities, and national civil 
+society groups would have to forgo foreign funding and submit to strict 
+Government regulation.
+  To reaffirm and facilitate Ethiopia's commitment to and progress 
+towards democratic development, eliminating extremism, good governance, 
+combating HIV/AIDS, improving agricultural productivity, and reducing 
+chronic hunger, the U.S. Government has provided billions of dollars 
+worth of assistance in recent years with more than $700 million already 
+in fiscal year 2008. The majority of this support is delivered through 
+U.S.-based nongovernmental organizations that offer essential services 
+and supplies to civilians as well as valuable technical assistance and 
+resources to strengthen Ethiopian institutions and infrastructure. The 
+new restrictions and regulations would severely limit or even prohibit 
+much of this assistance and should cause the United States as well as 
+other international donors to reconsider whether contributions to 
+Ethiopia can further democracy, development and accountability.
+  The Ethiopian Government claims the new regulations are aimed at 
+improving the accountability and transparency of civil society 
+organizations operating in Ethiopia. But what the provisions would 
+actually do is erode the Government's own accountability and 
+transparency by impeding these organizations' ability to serve their 
+essential watchdog functions. This is not the time or place for tighter 
+controls. Instead, the Ethiopian Government should support improvements 
+in the quality and capacity of these groups, which are vital to the 
+country's continued political, economic, and social development.
+  The United States needs to work with our partners--both on the 
+continent and off it--and strongly oppose the imposition of this new 
+proclamation to protect the gains Ethiopia has made in recent years and 
+pave the way for further consolidation of growth and democracy. If 
+passed in its current format, this bill would have a devastating impact 
+on our foreign policy objectives and Ethiopia's development as a robust 
+democracy. And, even if revised and amended, passage of this bill would 
+still send a negative message, that of a government desperately seeking 
+to hold on to power and dismantle any groups that might expose its 
+failures or limitations. We must stand with the people of Ethiopia and 
+with the principles that Americans hold dear.
+
+                          ____________________
+```
