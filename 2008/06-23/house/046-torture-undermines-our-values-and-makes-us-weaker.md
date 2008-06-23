@@ -1,0 +1,89 @@
+---
+granule: CREC-2008-06-23-pt1-PgH5844-6
+date: 2008-06-23
+edition: CREC
+section: HOUSE
+page: H5844
+citation: 154 Cong. Rec. H5844
+---
+
+# TORTURE UNDERMINES OUR VALUES AND MAKES US WEAKER
+
+**Speaking:** Woolsey, Lynn C. (W000738) [D-CA]
+
+```
+           TORTURE UNDERMINES OUR VALUES AND MAKES US WEAKER
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentlewoman from California (Ms. Woolsey) is recognized for 5 minutes.
+  Ms. WOOLSEY. Mr. Speaker, nothing has stained the honor of the United 
+States in recent years like the use of torture against detainees, 
+detainees in Iraq and detainees elsewhere. Torture goes against our 
+Nation's most basic values, and it undermines the American people's 
+reputation as a compassionate and committed people to human rights.
+  Torture is not only immoral; it has a practical damaging effect on 
+our foreign policy. When America is involved in torture, we lose the 
+moral authority that is our most powerful weapon in the fight against 
+terrorism. How can we lead the world against terrorism when the world 
+believes that we don't respect the rule of law ourselves?
+  That is why I want to call attention to a new report on torture that 
+was issued last week by the group Physicians for Human Rights. This 
+group assembled a team of doctors and psychologists to evaluate former 
+detainees held in Iraq, in Afghanistan, and Guantanamo Bay. The team 
+found that the detainees were tortured, even though no charges were 
+ever brought against them or any explanation ever given for their 
+imprisonment.
+  The torture consisted of beatings, electric shocks, involuntary 
+medication, shackling, and sexual humiliation. Other techniques were 
+used, but they are far too awful for me to mention here. One Iraqi 
+detainee who was held for a time in the notorious Abu Ghraib prison 
+said he was subjected to psychological abuse as well as physical 
+torture. He said that his captors threatened to rape his mother and his 
+sisters.
+  Former Major General Anthony Taguba, who conducted the Army's 
+investigation of the Abu Ghraib scandal in 2004, wrote a preface to the 
+report. He said, ``In order for these individuals to suffer the wanton 
+cruelty to which they were subjected, a government policy was 
+promulgated to the field whereby the Geneva Conventions and the Uniform 
+Code of Military Justice were disregarded. The U.N. Convention Against 
+Torture was indiscriminately ignored . . . ''
+  He continued: ``Through the experiences,'' he said, ``of these men . 
+. . we can see the full scope of the damage this illegal and unsound 
+policy has inflicted, both on American institutions and our founding 
+values.''
+  Mr. Speaker, I am sure that there will be some people who will try to 
+discredit this report by charging that it was prepared by a group 
+determined to embarrass the administration. But if they don't believe 
+this report, perhaps they will believe the reporting of the McClatchy 
+newspapers, which conducted an 8-month investigation of the U.S. 
+detention system created after 9/11. The McClatchy investigation found 
+``that the United States imprisoned innocent men, subjected them to 
+abuse, stripped them of their legal rights, and allowed Islamic 
+militants to turn the prison camp at Guantanamo Bay into a school for 
+jihad.''
+  This House did the honorable thing a few months ago when it voted to 
+stop the use of waterboarding and other illegal interrogation 
+techniques. Forty-three retired generals and admirals supported that 
+bill. Eighteen national security experts, including former Secretaries 
+of State and national security advisers, supported it as well. But the 
+President vetoed this bill, sending the world a message that America 
+condones torture.
+  Torture doesn't work. It doesn't produce good information. It exposes 
+our own troops to torture if they are captured. It creates enemies. In 
+short, torture doesn't make us stronger; it makes us weaker.
+  Congress must recognize these facts and move to restore our Nation's 
+good name. The best way to begin to do that is by redeploying our 
+troops out of Iraq and then help the Iraqi people to rebuild their 
+lives and their country. I know that this won't happen soon given last 
+week's vote on funding for the occupation of Iraq. But sooner or later, 
+Congress must act. Redeploying out of Iraq will help to heal the wounds 
+of torture and right the wrongs.
+
+[[Page H5845]]
+
+  Mr. Speaker, it's time for America to be America again: peace loving, 
+compassionate, and a true champion of human rights, and restore our 
+dignity.
+
+                          ____________________
+```
