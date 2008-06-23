@@ -1,0 +1,512 @@
+---
+granule: CRECB-2008-pt10-Pg13361
+date: 2008-06-23
+edition: CRECB
+section: HOUSE
+page: 13361
+---
+
+# NEW AND EMERGING TECHNOLOGIES 911 IMPROVEMENT ACT OF 2008
+
+```
+       NEW AND EMERGING TECHNOLOGIES 911 IMPROVEMENT ACT OF 2008
+
+  Mr. GORDON of Tennessee. Madam Speaker, I ask unanimous consent to 
+take from the Speaker's table the bill (H.R. 3403) to promote and 
+enhance public safety by facilitating the rapid deployment of IP-
+enabled 911 and E-911 services, encourage the Nation's transition to a 
+national IP-enabled emergency network, and improve 911 and E-911 access 
+to those with disabilities, with a Senate amendment thereto, and ask 
+for its immediate consideration in the House.
+  The Clerk read the title of the bill.
+  The SPEAKER pro tempore. The Clerk will report the Senate amendment.
+  The Clerk read as follows:
+
+       Senate amendment:
+       Strike out all after the enacting clause and insert:
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``New and Emerging 
+     Technologies 911 Improvement Act of 2008'' or the ``NET 911 
+     Improvement Act of 2008''.
+
+      TITLE I--911 SERVICES AND IP-ENABLED VOICE SERVICE PROVIDERS
+
+     SEC. 101. DUTY TO PROVIDE 911 AND ENHANCED 911 SERVICE.
+
+       The Wireless Communications and Public Safety Act of 1999 
+     is amended--
+
+[[Page 13362]]
+
+       (1) by redesignating section 6 (47 U.S.C. 615b) as section 
+     7;
+       (2) by inserting after section 5 the following new section:
+
+     ``SEC. 6. DUTY TO PROVIDE 9-1-1 AND ENHANCED 9-1-1 SERVICE.
+
+       ``(a) Duties.--It shall be the duty of each IP-enabled 
+     voice service provider to provide 9-1-1 service and enhanced 
+     9-1-1 service to its subscribers in accordance with the 
+     requirements of the Federal Communications Commission, as in 
+     effect on the date of enactment of the New and Emerging 
+     Technologies 911 Improvement Act of 2008 and as such 
+     requirements may be modified by the Commission from time to 
+     time.
+       ``(b) Parity for IP-Enabled Voice Service Providers.--An 
+     IP-enabled voice service provider that seeks capabilities to 
+     provide 9-1-1 and enhanced 9-1-1 service from an entity with 
+     ownership or control over such capabilities, to comply with 
+     its obligations under subsection (a), shall, for the 
+     exclusive purpose of complying with such obligations, have a 
+     right of access to such capabilities, including 
+     interconnection, to provide 9-1-1 and enhanced 9-1-1 service 
+     on the same rates, terms, and conditions that are provided to 
+     a provider of commercial mobile service (as such term is 
+     defined in section 332(d) of the Communications Act of 1934 
+     (47 U.S.C. 332(d))), subject to such regulations as the 
+     Commission prescribes under subsection (c).
+       ``(c) Regulations.--The Commission--
+       ``(1) within 90 days after the date of enactment of the New 
+     and Emerging Technologies 911 Improvement Act of 2008, shall 
+     issue regulations implementing such Act, including 
+     regulations that--
+       ``(A) ensure that IP-enabled voice service providers have 
+     the ability to exercise their rights under subsection (b);
+       ``(B) take into account any technical, network security, or 
+     information privacy requirements that are specific to IP-
+     enabled voice services; and
+       ``(C) provide, with respect to any capabilities that are 
+     not required to be made available to a commercial mobile 
+     service provider but that the Commission determines under 
+     subparagraph (B) of this paragraph or paragraph (2) are 
+     necessary for an IP-enabled voice service provider to comply 
+     with its obligations under subsection (a), that such 
+     capabilities shall be available at the same rates, terms, and 
+     conditions as would apply if such capabilities were made 
+     available to a commercial mobile service provider;
+       ``(2) shall require IP-enabled voice service providers to 
+     which the regulations apply to register with the Commission 
+     and to establish a point of contact for public safety and 
+     government officials relative to 9-1-1 and enhanced 9-1-1 
+     service and access; and
+       ``(3) may modify such regulations from time to time, as 
+     necessitated by changes in the market or technology, to 
+     ensure the ability of an IP-enabled voice service provider to 
+     comply with its obligations under subsection (a) and to 
+     exercise its rights under subsection (b).
+       ``(d) Delegation of Enforcement to State Commissions.--The 
+     Commission may delegate authority to enforce the regulations 
+     issued under subsection (c) to State commissions or other 
+     State or local agencies or programs with jurisdiction over 
+     emergency communications. Nothing in this section is intended 
+     to alter the authority of State commissions or other State or 
+     local agencies with jurisdiction over emergency 
+     communications, provided that the exercise of such authority 
+     is not inconsistent with Federal law or Commission 
+     requirements.
+       ``(e) Implementation.--
+       ``(1) Limitation.--Nothing in this section shall be 
+     construed to permit the Commission to issue regulations that 
+     require or impose a specific technology or technological 
+     standard.
+       ``(2) Enforcement.--The Commission shall enforce this 
+     section as if this section was a part of the Communications 
+     Act of 1934. For purposes of this section, any violations of 
+     this section, or any regulations promulgated under this 
+     section, shall be considered to be a violation of the 
+     Communications Act of 1934 or a regulation promulgated under 
+     that Act, respectively.
+       ``(f) State Authority Over Fees.--
+       ``(1) Authority.--Nothing in this Act, the Communications 
+     Act of 1934 (47 U.S.C. 151 et seq.), the New and Emerging 
+     Technologies 911 Improvement Act of 2008, or any Commission 
+     regulation or order shall prevent the imposition and 
+     collection of a fee or charge applicable to commercial mobile 
+     services or IP-enabled voice services specifically designated 
+     by a State, political subdivision thereof, Indian tribe, or 
+     village or regional corporation serving a region established 
+     pursuant to the Alaska Native Claims Settlement Act, as 
+     amended (85 Stat. 688) for the support or implementation of 
+     9-1-1 or enhanced 9-1-1 services, provided that the fee or 
+     charge is obligated or expended only in support of 9-1-1 and 
+     enhanced 9-1-1 services, or enhancements of such services, as 
+     specified in the provision of State or local law adopting the 
+     fee or charge. For each class of subscribers to IP-enabled 
+     voice services, the fee or charge may not exceed the amount 
+     of any such fee or charge applicable to the same class of 
+     subscribers to telecommunications services.
+       ``(2) Fee accountability report.--To ensure efficiency, 
+     transparency, and accountability in the collection and 
+     expenditure of a fee or charge for the support or 
+     implementation of 9-1-1 or enhanced 9-1-1 services, the 
+     Commission shall submit a report within 1 year after the date 
+     of enactment of the New and Emerging Technologies 911 
+     Improvement Act of 2008, and annually thereafter, to the 
+     Committee on Commerce, Science and Transportation of the 
+     Senate and the Committee on Energy and Commerce of the House 
+     of Representatives detailing the status in each State of the 
+     collection and distribution of such fees or charges, and 
+     including findings on the amount of revenues obligated or 
+     expended by each State or political subdivision thereof for 
+     any purpose other than the purpose for which any such fees or 
+     charges are specified.
+       ``(g) Availability of PSAP Information.--The Commission may 
+     compile a list of public safety answering point contact 
+     information, contact information for providers of selective 
+     routers, testing procedures, classes and types of services 
+     supported by public safety answering points, and other 
+     information concerning 9-1-1 and enhanced 9-1-1 elements, for 
+     the purpose of assisting IP-enabled voice service providers 
+     in complying with this section, and may make any portion of 
+     such information available to telecommunications carriers, 
+     wireless carriers, IP-enabled voice service providers, other 
+     emergency service providers, or the vendors to or agents of 
+     any such carriers or providers, if such availability would 
+     improve public safety.
+       ``(h) Development of standards.--The Commission shall work 
+     cooperatively with public safety organizations, industry 
+     participants, and the E-911 Implementation Coordination 
+     Office to develop best practices that promote consistency, 
+     where appropriate, including procedures for--
+       ``(1) defining geographic coverage areas for public safety 
+     answering points;
+       ``(2) defining network diversity requirements for delivery 
+     of IP-enabled 9-1-1 and enhanced 9-1-1 calls;
+       ``(3) call-handling in the event of call overflow or 
+     network outages;
+       ``(4) public safety answering point certification and 
+     testing requirements;
+       ``(5) validation procedures for inputting and updating 
+     location information in relevant databases; and
+       ``(6) the format for delivering address information to 
+     public safety answering points.
+       ``(i) Rule of Construction.--Nothing in the New and 
+     Emerging Technologies 911 Improvement Act of 2008 shall be 
+     construed as altering, delaying, or otherwise limiting the 
+     ability of the Commission to enforce the Federal actions 
+     taken or rules adopted obligating an IP-enabled voice service 
+     provider to provide 9-1-1 or enhanced 9-1-1 service as of the 
+     date of enactment of the New and Emerging Technologies 911 
+     Improvement Act of 2008.''; and
+       (3) in section 7 (as redesignated by paragraph (1) of this 
+     section) by adding at the end the following new paragraph:
+       ``(8) IP-enabled voice service.--The term `IP-enabled voice 
+     service' has the meaning given the term `interconnected VoIP 
+     service' by section 9.3 of the Federal Communications 
+     Commission's regulations (47 CFR 9.3).''.
+
+     SEC. 102. MIGRATION TO IP-ENABLED EMERGENCY NETWORK.
+
+       Section 158 of the National Telecommunications and 
+     Information Administration Organization Act (47 U.S.C. 942) 
+     is amended--
+       (1) in subsection (b)(1), by inserting before the period at 
+     the end the following: ``and for migration to an IP-enabled 
+     emergency network'';
+       (2) by redesignating subsections (d) and (e) as subsections 
+     (e) and (f), respectively; and
+       (3) by inserting after subsection (c) the following new 
+     subsection:
+       ``(d) Migration Plan Required.--
+       ``(1) National plan required.--No more than 270 days after 
+     the date of enactment of the New and Emerging Technologies 
+     911 Improvement Act of 2008, the Office shall develop and 
+     report to Congress on a national plan for migrating to a 
+     national IP-enabled emergency network capable of receiving 
+     and responding to all citizen-activated emergency 
+     communications and improving information sharing among all 
+     emergency response entities.
+       ``(2) Contents of plan.--The plan required by paragraph (1) 
+     shall--
+       ``(A) outline the potential benefits of such a migration;
+       ``(B) identify barriers that must be overcome and funding 
+     mechanisms to address those barriers;
+       ``(C) provide specific mechanisms for ensuring the IP-
+     enabled emergency network is available in every community and 
+     is coordinated on a local, regional, and statewide basis;
+       ``(D) identify location technology for nomadic devices and 
+     for office buildings and multi-dwelling units;
+       ``(E) include a proposed timetable, an outline of costs, 
+     and potential savings;
+       ``(F) provide specific legislative language, if necessary, 
+     for achieving the plan;
+       ``(G) provide recommendations on any legislative changes, 
+     including updating definitions, that are necessary to 
+     facilitate a national IP-enabled emergency network;
+       ``(H) assess, collect, and analyze the experiences of the 
+     public safety answering points and related public safety 
+     authorities who are conducting trial deployments of IP-
+     enabled emergency networks as of the date of enactment of the 
+     New and Emerging Technologies 911 Improvement Act of 2008;
+       ``(I) identify solutions for providing 9-1-1 and enhanced 
+     9-1-1 access to those with disabilities and needed steps to 
+     implement such solutions, including a recommended timeline; 
+     and
+       ``(J) analyze efforts to provide automatic location for 
+     enhanced 9-1-1 services and provide recommendations on 
+     regulatory or legislative changes that are necessary to 
+     achieve automatic location for enhanced 9-1-1 services.
+       ``(3) Consultation.--In developing the plan required by 
+     paragraph (1), the Office shall consult with representatives 
+     of the public safety
+
+[[Page 13363]]
+
+     community, groups representing those with disabilities, 
+     technology and telecommunications providers, IP-enabled voice 
+     service providers, Telecommunications Relay Service 
+     providers, and other emergency communications providers and 
+     others it deems appropriate.''.
+
+                     TITLE II--PARITY OF PROTECTION
+
+     SEC. 201. LIABILITY.
+
+       (a) Amendments.--Section 4 of the Wireless Communications 
+     and Public Safety Act of 1999 (47 U.S.C. 615a) is amended--
+       (1) by striking ``PARITY OF PROTECTION FOR PROVISION OR USE 
+     OF WIRELESS SERVICE.'' in the section heading and inserting 
+     ``SERVICE PROVIDER PARITY OF PROTECTION.'';
+       (2) in subsection (a)--
+       (A) by striking ``wireless carrier,'' and inserting 
+     ``wireless carrier, IP-enabled voice service provider, or 
+     other emergency communications provider,'';
+       (B) by striking ``its officers'' the first place it appears 
+     and inserting ``their officers'';
+       (C) by striking ``emergency calls or emergency services'' 
+     and inserting ``emergency calls, emergency services, or other 
+     emergency communications services'';
+       (3) in subsection (b)--
+       (A) by striking ``using wireless 9-1-1 service shall'' and 
+     inserting ``using wireless 9-1-1 service, or making 9-1-1 
+     communications via IP-enabled voice service or other 
+     emergency communications service, shall''; and
+       (B) by striking ``that is not wireless'' and inserting 
+     ``that is not via wireless 9-1-1 service, IP-enabled voice 
+     service, or other emergency communications service''; and
+       (4) in subsection (c)--
+       (A) by striking ``wireless 9-1-1 communications, a PSAP'' 
+     and inserting ``9-1-1 communications via wireless 9-1-1 
+     service, IP-enabled voice service, or other emergency 
+     communications service, a PSAP''; and
+       (B) by striking ``that are not wireless'' and inserting 
+     ``that are not via wireless 9-1-1 service, IP-enabled voice 
+     service, or other emergency communications service''.
+       (b) Definition.--Section 7 of the Wireless Communications 
+     and Public Safety Act of 1999 (as redesignated by section 
+     101(1) of this Act) is further amended by adding at the end 
+     the following new paragraphs:
+       ``(8) Other emergency communications service.--The term 
+     `other emergency communications service' means the provision 
+     of emergency information to a public safety answering point 
+     via wire or radio communications, and may include 9-1-1 and 
+     enhanced 9-1-1 service.
+       ``(9) Other emergency communications service provider.--The 
+     term `other emergency communications service provider' 
+     means--
+       ``(A) an entity other than a local exchange carrier, 
+     wireless carrier, or an IP-enabled voice service provider 
+     that is required by the Federal Communications Commission 
+     consistent with the Commission's authority under the 
+     Communications Act of 1934 to provide other emergency 
+     communications services; or
+       ``(B) in the absence of a Commission requirement as 
+     described in subparagraph (A), an entity that voluntarily 
+     elects to provide other emergency communications services and 
+     is specifically authorized by the appropriate local or State 
+     9-1-1 service governing authority to provide other emergency 
+     communications services.
+       ``(10) Enhanced 9-1-1 service.--The term `enhanced 9-1-1 
+     service' means the delivery of 9-1-1 calls with automatic 
+     number identification and automatic location identification, 
+     or successor or equivalent information features over the 
+     wireline E911 network (as defined in section 9.3 of the 
+     Federal Communications Commission's regulations (47 C.F.R. 
+     9.3) as of the date of enactment of the New and Emerging 
+     Technologies 911 Improvement Act of 2008) and equivalent or 
+     successor networks and technologies. The term also includes 
+     any enhanced 9-1-1 service so designated by the Commission in 
+     its Report and Order in WC Docket Nos. 04-36 and 05-196, or 
+     any successor proceeding.''.
+
+ TITLE III--AUTHORITY TO PROVIDE CUSTOMER INFORMATION FOR 911 PURPOSES
+
+     SEC. 301. AUTHORITY TO PROVIDE CUSTOMER INFORMATION.
+
+       Section 222 of the Communications Act of 1934 (47 U.S.C. 
+     222) is amended--
+       (1) by inserting ``or the user of an IP-enabled voice 
+     service (as such term is defined in section 7 of the Wireless 
+     Communications and Public Safety Act of 1999 (47 U.S.C. 
+     615b))'' after ``section 332(d))'' each place it appears in 
+     subsections (d)(4) and (f)(1);
+       (2) by striking ``Wireless'' in the heading of subsection 
+     (f); and
+       (3) in subsection (g), by inserting ``or a provider of IP-
+     enabled voice service (as such term is defined in section 7 
+     of the Wireless Communications and Public Safety Act of 1999 
+     (47 U.S.C. 615b))'' after ``telephone exchange service''.
+
+  Mr. GORDON of Tennessee (during the reading). Madam Speaker, I ask 
+unanimous consent to dispense with the reading.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Tennessee?
+  There was no objection.
+  The SPEAKER pro tempore. Is there objection to the original request 
+of the gentleman from Tennessee?
+  There was no objection.
+
+
+                             General Leave
+
+  Mr. GORDON of Tennessee. Madam Speaker, I ask unanimous consent that 
+all Members may have 5 legislative days in which to revise and extend 
+their remarks and to insert extraneous material on the bill under 
+consideration.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Tennessee?
+  There was no objection.
+
+
+               Motion Offered by Mr. Gordon of Tennessee
+
+  Mr. GORDON of Tennessee. Madam Speaker, I have a motion at the desk.
+  The SPEAKER pro tempore. The Clerk will report the motion.
+  The Clerk read as follows:
+
+       Mr. Gordon of Tennessee moves that the House concur in the 
+     Senate amendment to H.R. 3403.
+
+  Mr. DINGELL. Madam Speaker, I rise in support of H.R. 3403, the ``New 
+and Emerging Technologies 911 Improvement Act of 2008''.
+  This legislation ensures that consumers using Voice over Internet 
+Protocol technology, or VoIP, can make full use of the 911 system in 
+two important ways. First, the legislation extends the same liability 
+protections afforded to wireline and wireless carriers, public safety, 
+and end users to VoIP service. This parity in liability protections 
+will encourage service providers, public safety, and end users to 
+continue to rely on the 911 emergency communications system, regardless 
+of the technology used to make a 911 call. Second, the legislation 
+ensures that VolP providers can interconnect with legacy telephone 
+networks so they can deliver calls and information to 911 call centers.
+  Representative Gordon, the author of H.R. 3403, Representative 
+Markey, Chairman of the Subcommittee on Telecommunications and the 
+Internet, Representative Barton, Ranking Member of the Committee, 
+Representatives Upton and Stearns, the former and current Ranking 
+Members of the Subcommittee, and I worked very closely with all 
+stakeholders on this legislation, and it has widespread support among 
+the public safety community, industry, and others.
+  As is clear from the language of the legislation, the requirement for 
+interconnection is for purposes of 911 only and should not be used to 
+bootstrap access for other reasons. Similarly, the legislation makes 
+clear that those who control the legacy gateways to the emergency 
+communications system must provide access, including rights of 
+interconnection, to those seeking to deliver 911 calls and information. 
+Because all stakeholders agreed to the legislative language, we fully 
+expect that this access will not be inhibited by either delay or 
+litigation.
+  H.R. 3403 also requires the development of a national plan to ensure 
+that the 911 system continues to evolve. It is significant that the 
+plan will include the participation of first responders, including the 
+emergency communications professionals maintaining and using the 
+system. It is also important that the plan will address the needs of 
+the disabilities community when they use emergency communications. I 
+look forward to reviewing the results of this work so we can begin to 
+move to the next generation of emergency communications.
+  I am disappointed that the Senate stripped out one provision of the 
+House-passed version of this legislation that protected proprietary 
+customer information. This provision prohibited a carrier from using 
+the customer information that other carriers are required to provide 
+for 911 databases for any purpose other than emergency communications. 
+I heard no rational argument against the policy underlying this 
+provision. Nevertheless, in the interest of ensuring that this 
+legislation be enacted swiftly, I will support the bill as passed by 
+the Senate. I intend, however, to take this matter up again in the 
+future. We owe it to consumers to ensure that their emergency 
+communications system does not become a playground for competitive 
+shenanigans.
+  H.R. 3403 is a forward-looking bill that ensures that consumers using 
+VolP service are able to access 911 as easily as consumers using 
+wireline or wireless services. Each of its elements--giving VoIP 
+providers access to the components they need to provide 911 service; 
+extending to VoIP providers, public safety officials, and end users the 
+liability protections currently afforded to wireline and wireless 
+services; and requiring a plan for the continued evolution of the 
+emergency communications system--is a worthy victory for all consumers. 
+I commend Representative Gordon for his years of dedication to this 
+important issue and hail this success, from which all Americans will 
+reap benefits for years to come.
+  Mr. GORDON of Tennessee. Madam Speaker, I rise today to offer 
+unanimous consent to consider the Senate amendment to
+
+[[Page 13364]]
+
+H.R. 3403, the New and Emerging Technologies 911 Improvement Act of 
+2008.
+  When Americans dial 911, they expect the call will go through, 
+regardless of what phone they use. That is why Congress acted in 1999 
+and 2004 to ensure all Americans had access to 911 services on their 
+wireless phones.
+  Congress now needs to act to ensure that all Americans have access to 
+lifesaving 911 services on their Voice over the Internet Protocol or 
+VoIP phones and other new technologies.
+  When I first drafted this legislation in 2005, the intent was to 
+integrate VoIP phones into the Nation's 911 system. Since then the bill 
+has been expanded to include nonvoice technologies used by the deaf and 
+hard of hearing community and other innovative technologies that will 
+exponentially improve public safety for all Americans.
+  Specifically, the bill will provide VoIP phone service providers 
+direct access to the 911 system at the same rates, terms and 
+conditions, as wireless phone providers. The bill also authorizes VoIP 
+service providers to share customer location information with public 
+safety answering points, PSAPs. This will ensure VoIP services 
+providers can provide full E-911 services to their customers.
+  The bill extends existing State laws protecting 911 calls made using 
+wireline and wireless phones to not only VoIP 911 calls, but also to 
+any service obligated by the FCC to provide 911 in future, and any 
+service that coordinates with local 911 authorities to offer voluntary 
+911 emergency services. This will include Video Relay Services and text 
+service used by the deaf and hard of hearing, and new car based 911 
+services.
+  By doing this, we will encourage the rapid deployment of innovative 
+new lifesaving 911 technologies, rather than wait for Congress to 
+extend essential liability protections to new technologies.
+  The bill preserves State, Tribal and local governments' authority to 
+levy 911 fees and stops such fees from being diverted for non 911 
+purposes.
+  Finally, the legislation seeks to modernize the Nation's 911 system 
+by requiring the National 911 Coordination Office to establish a 
+national plan to move to an IP-based emergency response network, and 
+allowing 911 PSAP grants to be used for IP-based equipment.
+  Today's 911 system uses 30-year-old wire and switch technology. 
+Moving to an IP-based system will enable PSAPs for the first time to be 
+interoperable with each other and other first responders. It will also 
+allow them to handle a range of technologies--digital or analog, 
+wireless phone, video, text messaging, data, satellite, VoIP, 
+translation services and even maps of buildings. And it will allow 
+PSAPs to stay operating even if the phone system goes down or their 
+physical locations are destroyed. Events like 9/11 and Hurricane 
+Katrina where 911 systems were overwhelmed highlight why a robust IP 
+based 911 system must be a priority.
+  H.R. 3403 is supported by the National Emergency Numbering 
+Association, the VON Coalition, the National Cable & Telecommunications 
+Association, Earthlink, Inc, the Coalition of Organizations for 
+Accessible Technology, Motorola, Intrado, the TeleCommunications 
+Systems, Inc., and the U.S. Telecommunications Association.
+  I want to thank the Energy and Commerce Committee and its staff for 
+the bipartisan effort to move this bill quickly.
+  I also want to thank Senator Ted Stevens, Senator Bill Nelson, the 
+Senate sponsor of the bill, and the co-chairs of E-911 Congressional 
+Caucus Representative Anna Eshoo, Representative John Shimkus, Senator 
+Hillary Clinton.
+  Working collaboratively with public safety, the deaf and disabled 
+community and the communications industry, we have produced a bill that 
+will greatly improve 911 services in America today and for the future.
+  I'll close by encouraging my colleagues to vote for this bill.
+  The motion was agreed to.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```

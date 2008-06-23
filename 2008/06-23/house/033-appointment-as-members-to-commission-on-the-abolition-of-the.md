@@ -1,0 +1,25 @@
+---
+granule: CRECB-2008-pt10-Pg13378
+date: 2008-06-23
+edition: CRECB
+section: HOUSE
+page: 13378
+---
+
+# APPOINTMENT AS MEMBERS TO COMMISSION ON THE ABOLITION OF THE TRANSATLANTIC SLAVE TRADE
+
+```
+     APPOINTMENT AS MEMBERS TO COMMISSION ON THE ABOLITION OF THE 
+                       TRANSATLANTIC SLAVE TRADE
+
+  The SPEAKER pro tempore. Pursuant to section 4(a) of the Commission 
+on the Abolition of the Transatlantic Slave Trade (Public Law 110-183), 
+and the order of the House of January 4, 2007, the Chair announces the 
+Speaker's appointment of the following members on the part of the House 
+to the Commission on the Abolition of the Transatlantic Slave Trade:
+  Mr. Donald Payne, Newark, New Jersey
+  Mr. Howard Dodson, New York, New York
+  Ms. Evelyn Brooks Higginbotham, Cambridge, Massachusetts.
+
+                          ____________________
+```
