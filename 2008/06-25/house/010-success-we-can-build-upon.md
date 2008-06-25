@@ -1,0 +1,41 @@
+---
+granule: CREC-2008-06-25-pt1-PgH6012
+date: 2008-06-25
+edition: CREC
+section: HOUSE
+page: H6012
+citation: 154 Cong. Rec. H6012
+---
+
+# SUCCESS WE CAN BUILD UPON
+
+**Speaking:** Wilson, Joe (W000795) [R-SC]
+
+```
+                       SUCCESS WE CAN BUILD UPON
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Mr. Speaker, as we approach 
+Independence Day, I am grateful for the success of our troops in Iraq 
+and in Afghanistan to protect American families by defeating terrorists 
+overseas. With two sons who have served in Iraq and my former National 
+Guard 218th Brigade in Afghanistan, I know firsthand our military's 
+accomplishments.
+  The Department of Defense reports violence in Iraq has declined 
+significantly. Security incidents have fallen to their lowest level in 
+4 years. Civilian deaths are down 75 percent from a year ago, with the 
+Iraqi military taking greater control over military operations against 
+al Qaeda and Iranian-backed militias.
+  Increased security has led to increased political and economic 
+progress where Iraqis are sharing oil revenues, are developing and 
+implementing a budget, and are taking greater financial responsibility 
+for building their infrastructure. We should recognize these 
+achievements to eliminate terrorist safe havens so our decisions here 
+in Washington do not reverse this progress, which would threaten our 
+allies and American families.
+  In conclusion, God bless our troops, and we will never forget 
+September the 11th.
+
+                          ____________________
+```
