@@ -1,0 +1,49 @@
+---
+granule: CRECB-2008-pt10-Pg13868-3
+date: 2008-06-25
+edition: CRECB
+section: EXTENSIONS
+page: 13868
+---
+
+# TRIBUTE TO TECHNICAL SERGEANT MICHAEL CMELIK
+
+```
+              TRIBUTE TO TECHNICAL SERGEANT MICHAEL CMELIK
+
+                                 ______
+                                 
+
+                            HON. TOM LATHAM
+
+                                of iowa
+
+                    in the house of representatives
+
+                        Wednesday, June 25, 2008
+
+  Mr. LATHAM. Madam Speaker, I rise today to recognize a Nashua, Iowa 
+native and TSgt Michael P. Cmelik as a recipient of a Bronze Star Medal 
+for his heroic achievements during combat operations in support of 
+Operation Iraqi Freedom. The Bronze Star, the Department of Defense's 
+fourth highest award given, is awarded to individuals for bravery, 
+heroism, and meritorious service.
+  Technical Sergeant Cmelik earned the Bronze Star as an elite member 
+of the 15th Expeditionary Air Support Operations Squadron while 
+operating in Kalsu, Iraq during his third tour of duty in Iraq. As 
+stated by the military in a press release related to his award, ``Sgt. 
+Cmelik's leadership and professionalism ensured his Brigade Commander's 
+intent for airpower was always met, and more often than not, exceeded. 
+His actions are in keeping with the finest traditions of military 
+service and reflect distinct credit upon himself, this command, the 
+United States Army and the United States Air Force.''
+  Technical Sergeant Cmelik's bravery goes above and beyond what we are 
+asked of as citizens of this country, and his heroism and hard work 
+illustrates the compassion and professionalism of America's troops. I 
+commend TSgt Michael P. Cmelik's courageousness and service to our 
+great Nation and consider it an honor to represent Sergeant Cmelik and 
+his family in the United States Congress. I know my colleagues join me 
+in wishing him the best in his future service to our country.
+
+                          ____________________
+```
