@@ -1,0 +1,26 @@
+---
+granule: CREC-2008-07-07-pt1-PgS6347
+date: 2008-07-07
+edition: CREC
+section: SENATE
+page: S6347
+citation: 154 Cong. Rec. S6347
+---
+
+# ORDER FOR MORNING BUSINESS
+
+**Speaking:** Reid, Harry (R000146) [D-NV]
+
+```
+                       ORDER FOR MORNING BUSINESS
+
+  Mr. REID. Mr. President, if my friend will yield for a unanimous 
+consent request, I now ask unanimous consent that there be a period of 
+1 hour for morning business--we have a number of Senators who want to 
+come over and talk--with Senators permitted to speak for up to 10 
+minutes each during that hour's period of time.
+  The ACTING PRESIDENT pro tempore. Without objection, it is so 
+ordered.
+
+                          ____________________
+```
