@@ -1,0 +1,51 @@
+---
+granule: CRECB-2008-pt10-Pg14343-4
+date: 2008-07-08
+edition: CRECB
+section: EXTENSIONS
+page: 14343
+---
+
+# TRIBUTE TO SFC GREG HUBBY
+
+```
+                       TRIBUTE TO SFC GREG HUBBY
+
+                                 ______
+                                 
+
+                            HON. TOM LATHAM
+
+                                of iowa
+
+                    in the house of representatives
+
+                         Tuesday, July 8, 2008
+
+  Mr. LATHAM. Madam Speaker, I rise today to recognize SFC Greg Hubby, 
+a native of Boone, Iowa, as a recipient of a Bronze Star Medal for 
+heroic achievement during combat operations in support of Operation 
+Iraqi Freedom. The Bronze Star is the fourth highest award that the 
+Department of Defense gives for bravery, heroism, and meritorious 
+service.
+  SFC Hubby earned the Bronze Star while he was a retention NCO with 
+the 3rd Infantry Battalion, stationed in Mosul. During one of his
+
+[[Page 14344]]
+
+helicopter trips to another outpost, their helicopter came under fire.
+  SFC Hubby's bravery goes above and beyond what we are asked of as 
+citizens of this country. Although recruiters are typically non-
+deployable, SPC Hubby reached out to share in the sacrifices of our 
+other brave men and women who have served in Iraq and Afghanistan by 
+volunteering his service at a time of need. His heroism illustrates the 
+compassion of Iowans; willing to risk their own lives for their 
+country. For this I offer him my utmost congratulations and thanks for 
+his service and sacrifice for this great nation.
+  I commend SFC Greg Hubby's courageousness and service, and I am 
+honored to represent him in the United States Congress. I know my 
+colleagues join me in recognizing his service and wishing him and his 
+family the very best in their future endeavors.
+
+                          ____________________
+```
