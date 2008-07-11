@@ -1,0 +1,227 @@
+---
+granule: CREC-2008-07-11-pt1-PgS6609-2
+date: 2008-07-11
+edition: CREC
+section: SENATE
+page: S6609
+citation: 154 Cong. Rec. S6609
+---
+
+# SENIOR PROFESSIONAL PERFORMANCE ACT OF 2007
+
+**Speaking:** Reid, Harry (R000146) [D-NV]
+
+**Measures:** S. 1046
+
+```
+              SENIOR PROFESSIONAL PERFORMANCE ACT OF 2007
+
+  Mr. REID. Mr. President, I ask unanimous consent that we now proceed 
+to Calendar No. 703, S. 1046.
+  The PRESIDING OFFICER. The clerk will report the bill by title.
+  The legislative clerk read as follows:
+
+       A bill (S. 1046) to modify pay provisions relating to 
+     certain senior-level positions within the Federal Government, 
+     and for other purposes.
+
+  There being no objection, the Senate proceeded to consider the bill.
+  Mr. REID. Mr. President, I ask unanimous consent that the Voinovich 
+substitute amendment which is at the desk be agreed to, the bill, as 
+amended, be read a third time and passed, the motions to reconsider be 
+laid upon the table with no intervening action or debate, and that any 
+statements be printed in the Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment (No. 5072) was agreed to, as follows:
+
+  (Purpose: To modify pay provisions relating to certain senior-level 
+      positions in the Federal Government, and for other purposes)
+
+       Strike all after the enacting clause and insert the 
+     following:
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Senior Professional 
+     Performance Act of 2008''.
+
+     SEC. 2. PAY PROVISIONS RELATING TO CERTAIN SENIOR-LEVEL 
+                   POSITIONS.
+
+       (a) Locality Pay.--Section 5304 of title 5, United States 
+     Code, is amended--
+       (1) in subsection (g), by amending paragraph (2) to read as 
+     follows:
+
+[[Page S6610]]
+
+       ``(2) The applicable maximum under this subsection shall be 
+     level III of the Executive Schedule for--
+       ``(A) positions under subparagraphs (A) and (B) of 
+     subsection (h)(1); and
+       ``(B) any positions under subsection (h)(1)(C) as the 
+     President may determine.''; and
+       (2) in subsection (h)--
+       (A) in paragraph (1)--
+       (i) by striking subparagraph (A);
+       (ii) in subparagraph (D)--
+
+       (I) in clause (v), by striking ``or'' at the end;
+       (II) in clause (vi), by striking the period at the end and 
+     inserting ``; or''; and
+       (III) by adding at the end the following:
+
+       ``(vii) a position to which section 5376 applies (relating 
+     to certain senior-level and scientific and professional 
+     positions).''; and
+       (iii) by redesignating subparagraphs (B), (C), and (D) as 
+     subparagraphs (A), (B), and (C), respectively; and
+       (B) in paragraph (2)(B)--
+       (i) in clause (i)--
+
+       (I) by striking ``subparagraphs (A) through (C)'' and 
+     inserting ``subparagraphs (A) and (B)''; and
+       (II) by striking ``or (vi)'' and inserting ``(vi), or 
+     (vii)''; and
+
+       (ii) in clause (ii)--
+
+       (I) by striking ``paragraph (1)(D)'' and inserting 
+     ``paragraph (1)(C)''; and
+       (II) by striking ``or (vi)'' and inserting ``(vi), or 
+     (vii)''.
+
+       (b) Access to Higher Maximum Rate of Basic Pay.--Section 
+     5376(b) of title 5, United States Code, is amended--
+       (1) in paragraph (1), by striking subparagraph (B) and 
+     inserting the following:
+       ``(B) subject to paragraph (3), not greater than the rate 
+     of basic pay payable for level III of the Executive 
+     Schedule.''; and
+       (2) by adding at the end the following:
+       ``(3) In the case of an agency which has a performance 
+     appraisal system which, as designed and applied, is certified 
+     under section 5307(d) as making meaningful distinctions based 
+     on relative performance, paragraph (1)(B) shall apply as if 
+     the reference to `level III' were a reference to `level II'.
+       ``(4) No employee may suffer a reduction in pay by reason 
+     of transfer from an agency with an applicable maximum rate of 
+     pay prescribed under paragraph (3) to an agency with an 
+     applicable maximum rate of pay prescribed under paragraph 
+     (1)(B).''.
+       (c) Authority for Employment; Appointments; Classification 
+     Standards.--Title 5, United States Code is amended--
+       (1) in section 3104(a), in the second sentence, by striking 
+     ``prescribes'' and inserting ``prescribes and publishes in 
+     such form as the Director may determine'';
+       (2) in section 3324(a) by striking ``the Office of 
+     Personnel Management'' and inserting: ``the Director of the 
+     Office of Personnel Management on the basis of qualification 
+     standards developed by the agency involved in accordance with 
+     criteria specified in regulations prescribed by the 
+     Director'';
+       (3) in section 3325--
+       (A) in subsection (a), in the second sentence, by striking 
+     ``or its designee for this purpose'' and inserting the 
+     following: ``on the basis of standards developed by the 
+     agency involved in accordance with criteria specified in 
+     regulations prescribed by the Director of the Office of 
+     Personnel Management''; and
+       (B) by adding at the end the following:
+       ``(c) The Director of the Office of Personnel Management 
+     shall prescribe such regulations as may be necessary to carry 
+     out the purpose of this section.''; and
+       (4) in section 5108(a)(2) by inserting ``published by the 
+     Director of the Office of Personnel Management in such form 
+     as the Director may determine'' after ``and procedures''.
+       (d) Effective Date and Application.--
+       (1) Effective date.--The amendments made by this section 
+     shall take effect on the first day of the first pay period 
+     beginning on or after the 180th day following the date of 
+     enactment of this Act.
+       (2) No reductions in rates of pay.--
+       (A) In general.--The amendments made by this section may 
+     not result, at the time such amendments take effect, in a 
+     reduction in the rate of basic pay for an individual holding 
+     a position to which section 5376 of title 5, United States 
+     Code, applies.
+       (B) Determination of rate of pay.--For the purposes of 
+     subparagraph (A), the rate of basic pay for an individual 
+     described in that subparagraph shall be deemed to be the rate 
+     of basic pay set for the individual under section 5376 of 
+     title 5, United States Code, plus any applicable locality pay 
+     paid to that individual on the day before the effective date 
+     under paragraph (1), subject to regulations that the Director 
+     of the Office of Personnel Management may prescribe.
+       (3) References to maximum rates.--Except as otherwise 
+     provided by law, any reference in a provision of law to the 
+     maximum rate under section 5376 of title 5, United States 
+     Code--
+       (A) as provided before the effective date of the amendments 
+     made by this section, shall be considered a reference to the 
+     rate of basic pay for level IV of the Executive Schedule; and
+       (B) as provided on or after the effective date of the 
+     amendments made by this section, shall be considered a 
+     reference to--
+       (i) the rate of basic pay for level III of the Executive 
+     Schedule; or
+       (ii) if the head of the agency responsible for 
+     administering the applicable pay system certifies that the 
+     employees are covered by a performance appraisal system 
+     meeting the certification criteria established by regulation 
+     under section 5307(d), level II of the Executive Schedule.
+
+     SEC. 3. LIMITATIONS ON CERTAIN PAYMENTS.
+
+       (a) In General.--Section 5307(d) of title 5, United States 
+     Code, is amended--
+       (1) in paragraph (2), by striking all after ``purposes of'' 
+     and inserting: ``applying the limitation in the calendar year 
+     involved, has a performance appraisal system certified under 
+     this subsection as making, in its design and application, 
+     meaningful distinctions based on relative performance.''; and
+       (2) in paragraph (3)(B)--
+       (A) by striking all beginning with ``An'' through ``2 
+     calendar years'' and inserting ``The certification of an 
+     agency performance appraisal system under this subsection 
+     shall be for a period not to exceed 24 months beginning on 
+     the date of certification, unless extended by the Director of 
+     the Office of Personnel Management for up to 6 additional 
+     months''; and
+       (B) by striking ``, for purposes of either or both of those 
+     years,''.
+       (b) Extension of Certification.--
+       (1) Extension to 2009.--
+       (A) In general.--For any certification of a performance 
+     appraisal system under section 5307(d) of title 5, United 
+     States Code, in effect on the date of enactment of this Act 
+     and scheduled to expire at the end of calendar year 2008, the 
+     Director of the Office of Personnel Management may provide 
+     that such a certification shall be extended without requiring 
+     additional justification by the agency.
+       (B) Limitation.--The expiration of any extension under this 
+     paragraph shall be not later than the later of--
+       (i) June 30, 2009; or
+       (ii) the first anniversary of the date of the 
+     certification.
+       (2) Extension to 2010.--
+       (A) In general.--For any certification of a performance 
+     appraisal system under section 5307(d) of title 5, United 
+     States Code, in effect on the date of enactment and scheduled 
+     to expire at the end of calendar year 2009, the Director of 
+     the Office of Personnel Management may provide that such a 
+     certification shall be extended without requiring additional 
+     justification by the agency.
+       (B) Limitation.--The expiration of any extension under this 
+     paragraph shall be not later than the later of--
+       (i) June 30, 2010; or
+       (ii) the second anniversary of the date of the 
+     certification.
+       (c) Effective Date.--The amendments made by this section 
+     shall take effect on the date of enactment of this Act.
+
+  The bill (S. 1046), as amended, was ordered to be engrossed for a 
+third reading, was read the third time, and passed.
+
+                          ____________________
+```
