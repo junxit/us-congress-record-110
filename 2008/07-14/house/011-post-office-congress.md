@@ -1,0 +1,43 @@
+---
+granule: CRECB-2008-pt11-Pg14808-12
+date: 2008-07-14
+edition: CRECB
+section: HOUSE
+page: 14808
+---
+
+# POST OFFICE CONGRESS
+
+```
+                          POST OFFICE CONGRESS
+
+  (Mr. POE asked and was given permission to address the House for 1 
+minute.)
+  Mr. POE. Mr. Speaker, almost every morning I talk to my parents who 
+are both in their 80s and are very inquisitive about what goes on in 
+Congress.
+  Today, like most Mondays, I tell them we are working on postal 
+legislation. I don't really go further and tell them the legislation 
+actually is just naming post office buildings throughout the vast 
+plains and prairies of America. After all, we have named 72 Federal 
+buildings in Congress.
+  According to the Wall Street Journal, almost 30 percent of our 
+legislation passed this Congress has been naming Federal buildings. 
+Today I see we will be naming two more post offices.
+  Today Mom said she can't even afford gas to get to the post office. 
+Mr. Speaker, maybe this ``Drill Nothing Congress'' should find more 
+energy for Americans. Open up the Outer Continental Shelf to crude oil. 
+Congress
+
+[[Page 14809]]
+
+needs to get to work and solve the gasoline issue. We can name post 
+office buildings at some other time.
+  There has been enough talk about energy. Now action is demanded. 
+However, it seems when all is said and done, more is said than done 
+about the energy problem. Maybe we should rename our Congress the Post 
+Office Congress.
+  And that's just the way it is.
+
+                          ____________________
+```
