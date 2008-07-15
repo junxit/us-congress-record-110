@@ -1,0 +1,51 @@
+---
+granule: CRECB-2008-pt11-Pg15123-2
+date: 2008-07-15
+edition: CRECB
+section: EXTENSIONS
+page: 15123
+---
+
+# TRIBUTE TO PETTY OFFICER TYRONE LOGAN
+
+```
+                 TRIBUTE TO PETTY OFFICER TYRONE LOGAN
+
+                                 ______
+                                 
+
+                          HON. THELMA D. DRAKE
+
+                              of virginia
+
+                    in the house of representatives
+
+                         Tuesday, July 15, 2008
+
+  Mrs. DRAKE. Madam Speaker, I rise to recognize the outstanding 
+achievements of Explosive Ordinance Disposal Technician 1st Class (EWS) 
+Tyrone Logan, and commend him on his great devotion to the United 
+States. Named a 2008 U.S. Fleet Forces Command Sea Sailor of the Year 
+by the United States Navy, Petty Officer Logan's dedication and 
+leadership proved him a strong candidate for this extremely competitive 
+award.
+  Petty Officer Logan is one of six recipients of this prestigious 
+award. Along with the U.S. Navy, the Fleet Reserve Association worked 
+to establish this program in 1972. The esteemed program recognizes the 
+Navy's top Sailors through presentations, awards, and meritorious 
+advancement to the next pay grade.
+  Serving in both the United States Marine Corps and the United States 
+Navy, Petty Officer Logan has taken a very active role in the defense 
+of our Nation. He has been deployed to such places as Mosul and Baghdad 
+in Iraq, as well as Pakistan and Africa. He has also been awarded 
+various honors including two Navy Achievement Medals and a Purple 
+Heart. Further, Petty Officer Logan's mentorship to colleagues has been 
+noted. These accolades serve as a testament to Petty Officer Logan's 
+strength of character and commitment to our national values.
+  With this award, Petty Officer Logan has joined an elite group of 
+Sailors who have achieved this goal. I am certain that his incredible 
+accomplishments, dedication to our country and evident leadership 
+talents will continue to speak highly of him, as they do now.
+
+                          ____________________
+```
