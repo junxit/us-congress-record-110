@@ -1,0 +1,81 @@
+---
+granule: CRECB-2008-pt11-Pg15296-3
+date: 2008-07-16
+edition: CRECB
+section: HOUSE
+page: 15296
+---
+
+# ON THE UNITED STATES ROLE IN THE WORLD
+
+```
+                              {time}  2015
+                 ON THE UNITED STATES ROLE IN THE WORLD
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from Missouri (Mr. Skelton) is recognized for 5 minutes.
+
+[[Page 15297]]
+
+
+  Mr. SKELTON. Mr. Speaker, I rise once again to discuss the need for a 
+comprehensive strategy to advance U.S. interests in the world. Last 
+week I delivered two addresses on this topic. In the second speech, I 
+argued that our understanding of the role the U.S. should play in the 
+world is a foundation of our strategy. It will define our vital 
+interests, and it will condition the means we use for advancing those 
+interests.
+  Today, the United States is the world's dominant economic, political, 
+and military power. There is no peer or near-peer competitor to us, nor 
+does one appear likely to emerge in the near future. Some have 
+characterized the U.S. as a hegemonic power or as the world's 
+policeman, both those who approve and those who disapprove of such a 
+state of affairs. President Clinton, echoing Winston Churchill, 
+eloquently described a vision of the U.S. as ``the indispensable 
+nation,'' not a world hegemon but a consistent and ever-present ally 
+and arbiter acting around the world.
+  Still others advocate that the U.S. withdraw from a place of central 
+prominence on the world stage to avoid the costs and implicit 
+responsibilities of that role. I believe the U.S. should remain the 
+world's indispensable nation and in a later speech, I will discuss the 
+ways in which this role should inform the formulation of our 
+comprehensive strategy, but first let me discuss the other options.
+  Those who would have us significantly reduce our role on the world's 
+stage cannot provide a credible description of who or what would 
+replace the U.S. in the role of world leadership. The U.N. is not up to 
+the task, nor is there any other international organization. As already 
+mentioned, there is no other country in a position to fill the role of 
+world leadership.
+  To embrace such an approach, we would have to accept that significant 
+portions of the world would simply be left to their own devices. Yet we 
+know that places as remote as the Hindu Kush are home to those who 
+would attack us and our allies. What other corner of the world, then, 
+do we judge to be so distant and so remote as to be beyond our 
+interest? And how would world fault lines, such as the Taiwan Strait, 
+the India-Pakistan Line of Control, and the Israeli-Palestinian 
+conflict respond to a world leadership vacuum? The answer is, not well. 
+In short, for the U.S. to abdicate its position of world leadership 
+would be highly detrimental to our national interest.
+  What then does accepting a role of world leadership entail? And if it 
+is a current necessity, is it an inherent good to be indefinitely 
+maintained? In other words, should the U.S. view our position as world 
+leader as so necessary to our security that we act largely to maintain 
+this position, which is the primary characteristic of a hegemonic power 
+or empire? Again, the answer is no. To do so is to put our national 
+interest in opposition to the national interests of much of the rest of 
+the world. It is inconsistent with the desires of the American people, 
+with the extent of the costs they're willing to bear for world 
+leadership and, I would argue, with our sense of morality and fair 
+play. Our vital interests should be defined as suggested by President 
+Clinton, by our role as the world's indispensable nation: taking a 
+leadership role in advancing and protecting our interests around the 
+world in concert with our friends and allies as part of an open and 
+evolving international system that is fair to all nations. To do so, we 
+must restore the prestige and credibility of the United States, and 
+repair and rebuild the relationship with our major international 
+partners. With this role as our goal, we can define those interests 
+critical to achieving it, and develop and adopt an appropriate 
+strategy.
+
+                          ____________________
+```
