@@ -1,0 +1,35 @@
+---
+granule: CREC-2008-07-16-pt1-PgH6581
+date: 2008-07-16
+edition: CREC
+section: HOUSE
+page: H6581
+citation: 154 Cong. Rec. H6581
+---
+
+# THE FUTURE OF AMERICA IS AT STAKE
+
+**Speaking:** Johnson, Sam (J000174) [R-TX]
+
+```
+                   THE FUTURE OF AMERICA IS AT STAKE
+
+  (Mr. SAM JOHNSON of Texas asked and was given permission to address 
+the House for 1 minute and to revise and extend his remarks.)
+  Mr. SAM JOHNSON of Texas. Mr. Speaker, to help families dealing with 
+the high price of gas, the White House ended the ban on deep ocean 
+energy exploration. Now it's up to the Congress to give this 
+commonsense move the final green light.
+  We must pursue increasing production of American-made energy in an 
+environmentally conscious manner off the coast of the Atlantic, the 
+Gulf, and the Pacific. We have the technology to access fuels right 
+here in America while still protecting our natural resources for future 
+generations.
+  We should and must develop our own oil and natural gas resources in 
+the deep waters offshore, on Federal lands, and in oil shale if we want 
+to revive America's independence. It's past time Congress got off the 
+dime and approved deep ocean energy exploration today.
+  Americans, the future of America is at stake.
+
+                          ____________________
+```

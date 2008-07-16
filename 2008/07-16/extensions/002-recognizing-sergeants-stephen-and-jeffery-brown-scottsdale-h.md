@@ -1,0 +1,61 @@
+---
+granule: CREC-2008-07-16-pt1-PgE1473-2
+date: 2008-07-16
+edition: CREC
+section: EXTENSIONS
+page: E1473
+citation: 154 Cong. Rec. E1473
+---
+
+# RECOGNIZING SERGEANTS STEPHEN AND JEFFERY BROWN, SCOTTSDALE HEALTHCARE'S "SALUTE TO MILITARY" HONOREE
+
+**Speaking:** Mitchell, Harry E. (M001167) [D-AZ]
+
+```
+      RECOGNIZING SERGEANTS STEPHEN AND JEFFERY BROWN, SCOTTSDALE 
+              HEALTHCARE'S ``SALUTE TO MILITARY'' HONOREE
+
+                                 ______
+                                 
+
+                         HON. HARRY E. MITCHELL
+
+                               of arizona
+
+                    in the house of representatives
+
+                        Wednesday, July 16, 2008
+
+  Mr. MITCHELL. Madam Speaker, I rise today in recognition of Sergeants 
+Stephen and Jeffery Brown, Scottsdale Healthcare's ``Salute to 
+Military'' Honorees for July 2008. Scottsdale Healthcare has recognized 
+Sergeants Stephen and Jeffery Brown and other physicians with a 
+connection to the Armed Services for their diligent service to this 
+country.
+   I commend Scottsdale Healthcare for paying tribute to such deserving 
+servicemembers. Sergeants Stephen and Jeffery Brown are brothers and 
+the third generation of men in their family to proudly serve in the 
+military.
+   Sergeant Stephen Brown is currently on active duty and assigned to 
+the 3rd Infantry Division from Fort Steward, Georgia. He returned home 
+in mid-July from a second tour of duty in Iraq, to which he deployed in 
+April 2007. Sergeant Stephen Brown is a Satellite Communications 
+Technician and Computer Network Operator. Some of his awards include 
+two Army Commendation Medals.
+   Sergeant Jeffery Brown is also currently on active duty. He supports 
+the 82nd Airborne Division from Fort Bragg, North Carolina. Sergeant 
+Jeffery Brown is currently deployed to Iraq on his first tour of duty. 
+He is expected to return in January 2009. He is a Licensed Practical 
+Nurse and Medic now serving in a Combat Support Hospital in Iraq. Some 
+of his awards include the Army Achievement and Army Service medals.
+   The brothers' continued sacrifice extended well into their personal 
+lives--despite working in the same Area of Operations, they saw each 
+other only sporadically. One reunion took place over Thanksgiving, when 
+the men were able to enjoy dinner together until their base fell under 
+a rocket and mortar attack. Thankfully, no one was injured.
+   Madam Speaker, please join me in recognizing Sergeants Stephen and 
+Jeffery Brown's tireless dedication to serving our country and 
+protecting the lives of other servicemen facing combat.
+
+                          ____________________
+```

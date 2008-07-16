@@ -1,0 +1,65 @@
+---
+granule: CREC-2008-07-16-pt1-PgH6597
+date: 2008-07-16
+edition: CREC
+section: HOUSE
+page: H6597
+citation: 154 Cong. Rec. H6597
+---
+
+# GOLF TOURNAMENT TO HONOR VETERANS
+
+**Speaking:** Edwards, Chet (E000063) [D-TX], Wamp, Zach (W000119) [R-TN]
+
+```
+                   GOLF TOURNAMENT TO HONOR VETERANS
+
+  (Mr. EDWARDS of Texas asked and was given permission to address the 
+House for 1 minute.)
+  Mr. EDWARDS of Texas. Members, I know there are many people across 
+our country that wonder if there are any bipartisan traditions and 
+relationships left in this House. Today, Mr. Wamp and I come to the 
+floor to say the answer to that is yes.
+  On Monday, we continued for the 37th year a great tradition of the 
+golfers from the Republican side of the aisle and those from the 
+Democratic side of the aisle in friendly competition, along with our 
+former colleagues.
+  While some may have said there were a lot of VIPs at that golf course 
+on Monday, there is no question about who the real heroes were; they 
+were the amputees, our service men and women who are the beneficiaries 
+of this competitive event through the Sports USA Foundation, which 
+supports amputees and our service men and women, our veterans who have 
+paid a dear price for their service to country.
+  I do want to congratulate my colleague, Mr. Wamp, the chairman of the 
+Republican team. It appears, Mr. Speaker, that the burdens of being in 
+the majority have weighed down the athletic talents of my Democratic 
+colleagues.
+  I want to salute my cochairman in the event and the leader of the 
+Republican team. It was a great cause for tremendous Americans who have 
+done so much for your family, for my family, and American families. And 
+I was proud to be part of that great tradition.
+  I yield time to my colleague.
+  Mr. WAMP. Mr. Speaker, if I may, let me tell the Members that for 37 
+years we've had this tradition in a bipartisan way of Members and 
+former Members getting together, but this is the first year that we 
+brought in this extraordinary charity, the Disabled Sports Foundation. 
+And these wounded warriors, mostly amputees, that got joy out of 
+playing golf with us on Monday, we raised a lot of money for them. This 
+was so important.
+  We took the venue to Army-Navy Golf Club, where they are under 
+construction with renovations. The PGA of America cosponsored it with 
+us. The co-chairmen from the former Members were Ken Kramer and Dennis 
+Hertel. We had 33 Republican Members and only eight Democratic 
+Members--that's one reason the trophy is back over here this year--but 
+y'all had a conflict, so you do have an excuse this year. But next year 
+we should really bring people together to help these wounded warriors.
+  I want to say Steve Buyer was the low gross on the Republican side 
+for the whole House, and Gene Green from the Democratic side was the 
+low net. Republicans reclaimed the trophy.
+  The big winners are these disabled athletes who are great American 
+patriots. We honor them. We had fellowship. We came together. And the 
+full House joins us in our salute to all these men and women in uniform 
+that are disabled.
+
+                          ____________________
+```
