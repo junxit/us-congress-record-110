@@ -1,0 +1,36 @@
+---
+granule: CRECB-2008-pt11-Pg15339
+date: 2008-07-17
+edition: CRECB
+section: HOUSE
+page: 15339
+---
+
+# THE DRILL ACT PROMOTES DRILLING ON 311 MILLION ACRES OF OPEN LAND
+
+```
+   THE DRILL ACT PROMOTES DRILLING ON 311 MILLION ACRES OF OPEN LAND
+
+  (Mr. SIRES asked and was given permission to address the House for 1 
+minute.)
+  Mr. SIRES. Mr. Speaker, the Bush-Cheney energy plan is now 95 percent 
+implemented and we are paying for it at the pump. It's no mystery how 
+it happened. Two oilmen in the White House let Big Oil literally write 
+the energy plan. And while Republicans continue to demand opening up 
+more areas for drilling, Democrats are asking why not drill on 311 
+million acres of Federal land already open for energy production?
+  Day after day Republicans say drill, drill, drill. But they haven't 
+once asked why oil companies are sitting on 68 million acres of 
+already-leased land.
+  This country needs a comprehensive plan for energy independence, and 
+responsible drilling is part of that plan. Why not open new areas for 
+development that will save consumers little at the pump decades down 
+the road when there are 68 million acres of land ready for drilling?
+  Mr. Speaker, Democrats don't want to make the American consumer wait 
+another 10 to 20 years for any relief. Today we hope that the 
+Republicans will join us in demanding that Big Oil start drilling on 
+the leases they already have, otherwise lose the leases. It's time to 
+tell Big Oil, ``Use it or lose it.''
+
+                          ____________________
+```
