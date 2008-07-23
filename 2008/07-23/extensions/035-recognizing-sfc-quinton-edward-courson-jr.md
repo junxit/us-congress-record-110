@@ -1,0 +1,53 @@
+---
+granule: CREC-2008-07-23-pt1-PgE1540-2
+date: 2008-07-23
+edition: CREC
+section: EXTENSIONS
+page: E1540
+citation: 154 Cong. Rec. E1540
+---
+
+# RECOGNIZING SFC QUINTON EDWARD COURSON, JR.
+
+**Speaking:** Putnam, Adam H. (P000586) [R-FL]
+
+```
+              RECOGNIZING SFC QUINTON EDWARD COURSON, JR.
+
+                                 ______
+                                 
+
+                          HON. ADAM H. PUTNAM
+
+                               of florida
+
+                    in the house of representatives
+
+                        Wednesday, July 23, 2008
+
+  Mr. PUTNAM. Madam Speaker, I rise today to honor Sergeant First Class 
+Quinton Edward Courson, Jr.
+  At an awards ceremony held May 16, 2008 at Fort Bragg, North 
+Carolina, Sergeant First Class Quinton Edward Courson, Jr., a 1990 
+graduate of Bartow High School, was awarded the Bronze Star medal for 
+his actions during a recent fifteen month tour of duty with the United 
+States Army in Tikrit, Iraq. The medal is added to those previously 
+earned by SFC Courson, which include the Combat Action Badge, Parachute 
+Qualifications Badge, four Army Commendation medals, six Army 
+Achievement medals and numerous service medals awarded for service in 
+Korea, the Sinai Peninsula and two deployments to Iraq while serving 
+with the 75th Ranger Regiment and the 82nd Airborne Division.
+  SFC Courson has served seventeen years in the U.S. Army, four years 
+of which have been outside the United States. Quinn and his two 
+daughters, Whitney and Kortney currently live in Springhill, North 
+Carolina until July 2008, when he is reassigned as an instructor at the 
+Advanced Individual Training School at Fort Lee, Virginia.
+  The ceremony was attended by his Mother, Debbie Parrish of Alturas, 
+Florida and other family members.
+  I ask my colleagues to join me in honoring not only the contributions 
+and accomplishments of SFC Courson, but all the men and women serving 
+in the Armed Forces. America is truly a great place because of those 
+who proudly serve this great Nation.
+
+                          ____________________
+```
