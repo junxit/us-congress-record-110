@@ -1,0 +1,2235 @@
+---
+granule: CREC-2008-07-24-pt1-PgS7421-3
+date: 2008-07-24
+edition: CREC
+section: SENATE
+page: S7421
+citation: 154 Cong. Rec. S7421
+---
+
+# Text of Senate Amendment 5246
+
+**Speaking:** Cantwell, Maria (C000127) [D-WA]
+
+```
+  SA 5246. Ms. CANTWELL submitted an amendment intended to be proposed 
+to amendment SA 5135 submitted by Mr. Bingaman (for himself, Mr. Reid, 
+Mr. Schumer, Mr. Salazar, Mr. Dorgan, Mr. Durbin, Mr. Kerry, Ms. 
+Stabenow, Mr. Whitehouse, Mrs. Clinton, Mrs. Murray, Mr. Lieberman, Mr. 
+Nelson of Florida, and Ms. Klobuchar) and intended to be proposed to 
+the bill S. 3268, to amend the Commodity Exchange Act, to prevent 
+excessive price speculation with respect to energy commodities, and for 
+other purposes; which was ordered to lie on the table; as follows:
+
+       On page 92, after line 23, insert the following:
+
+                        TITLE V--TAX PROVISIONS
+
+     SEC. 501. AMENDMENT OF 1986 CODE.
+
+       Except as otherwise expressly provided, whenever in this 
+     title an amendment or repeal is expressed in terms of an 
+     amendment to, or repeal of, a section or other provision, the 
+     reference shall be considered to be made to a section or 
+     other provision of the Internal Revenue Code of 1986.
+
+                Subtitle A--Energy Production Incentives
+
+                  PART I--RENEWABLE ENERGY INCENTIVES
+
+     SEC. 511. RENEWABLE ENERGY CREDIT.
+
+       (a) Extension of Credit.--
+       (1) 1-year extension for wind facilities.--Paragraph (1) of 
+     section 45(d) is amended by striking ``January 1, 2009'' and 
+     inserting ``January 1, 2010''.
+       (2) 3-year extension for certain other facilities.--Each of 
+     the following provisions of section 45(d) is amended by 
+     striking ``January 1, 2009'' and inserting ``January 1, 
+     2012'':
+       (A) Clauses (i) and (ii) of paragraph (2)(A).
+       (B) Clauses (i)(I) and (ii) of paragraph (3)(A).
+       (C) Paragraph (4).
+
+[[Page S7422]]
+
+       (D) Paragraph (5).
+       (E) Paragraph (6).
+       (F) Paragraph (7).
+       (G) Subparagraphs (A) and (B) of paragraph (9).
+       (b) Modification of Credit Phaseout.--
+       (1) Repeal of phaseout.--Subsection (b) of section 45 is 
+     amended--
+       (A) by striking paragraph (1), and
+       (B) by striking ``the 8 cent amount in paragraph (1),'' in 
+     paragraph (2) thereof.
+       (2) Limitation based on investment in facility.--Subsection 
+     (b) of section 45 is amended by inserting before paragraph 
+     (2) the following new paragraph:
+       ``(1) Limitation based on investment in facility.--
+       ``(A) In general.--In the case of any qualified facility 
+     originally placed in service after December 31, 2009, the 
+     amount of the credit determined under subsection (a) for any 
+     taxable year with respect to electricity produced at such 
+     facility shall not exceed the product of--
+       ``(i) the applicable percentage with respect to such 
+     facility, multiplied by
+       ``(ii) the eligible basis of such facility.
+       ``(B) Carryforward of unused limitation and excess 
+     credit.--
+       ``(i) Unused limitation.--If the limitation imposed under 
+     subparagraph (A) with respect to any facility for any taxable 
+     year exceeds the prelimitation credit for such facility for 
+     such taxable year, the limitation imposed under subparagraph 
+     (A) with respect to such facility for the succeeding taxable 
+     year shall be increased by the amount of such excess.
+       ``(ii) Excess credit.--If the prelimitation credit with 
+     respect to any facility for any taxable year exceeds the 
+     limitation imposed under subparagraph (A) with respect to 
+     such facility for such taxable year, the credit determined 
+     under subsection (a) with respect to such facility for the 
+     succeeding taxable year (determined before the application of 
+     subparagraph (A) for such succeeding taxable year) shall be 
+     increased by the amount of such excess. With respect to any 
+     facility, no amount may be carried forward under this clause 
+     to any taxable year beginning after the 10-year period 
+     described in subsection (a)(2)(A)(ii) with respect to such 
+     facility.
+       ``(iii) Prelimitation credit.--The term `prelimitation 
+     credit' with respect to any facility for a taxable year means 
+     the credit determined under subsection (a) with respect to 
+     such facility for such taxable year, determined without 
+     regard to subparagraph (A) and after taking into account any 
+     increase for such taxable year under clause (ii).
+       ``(C) Applicable percentage.--For purposes of this 
+     paragraph--
+       ``(i) In general.--The term `applicable percentage' means, 
+     with respect to any facility, the appropriate percentage 
+     prescribed by the Secretary for the month in which such 
+     facility is originally placed in service.
+       ``(ii) Method of prescribing applicable percentages.--The 
+     applicable percentages prescribed by the Secretary for any 
+     month under clause (i) shall be percentages which yield over 
+     a 10-year period amounts of limitation under subparagraph (A) 
+     which have a present value equal to 35 percent of the 
+     eligible basis of the facility.
+       ``(iii) Method of discounting.--The present value under 
+     clause (ii) shall be determined--
+
+       ``(I) as of the last day of the 1st year of the 10-year 
+     period referred to in clause (ii),
+       ``(II) by using a discount rate equal to the greater of 110 
+     percent of the Federal long-term rate as in effect under 
+     section 1274(d) for the month preceding the month for which 
+     the applicable percentage is being prescribed, or 4.5 
+     percent, and
+       ``(III) by taking into account the limitation under 
+     subparagraph (A) for any year on the last day of such year.
+
+       ``(D) Eligible basis.--For purposes of this paragraph--
+       ``(i) In general.--The term `eligible basis' means, with 
+     respect to any facility, the sum of--
+
+       ``(I) the basis of such facility determined as of the time 
+     that such facility is originally placed in service, and
+       ``(II) the portion of the basis of any shared qualified 
+     property which is properly allocable to such facility under 
+     clause (ii).
+
+       ``(ii) Rules for allocation.--For purposes of subclause 
+     (II) of clause (i), the basis of shared qualified property 
+     shall be allocated among all qualified facilities which are 
+     projected to be placed in service and which require 
+     utilization of such property in proportion to projected 
+     generation from such facilities.
+       ``(iii) Shared qualified property.--For purposes of this 
+     paragraph, the term `shared qualified property' means, with 
+     respect to any facility, any property described in section 
+     168(e)(3)(B)(vi)--
+
+       ``(I) which a qualified facility will require for 
+     utilization of such facility, and
+       ``(II) which is not a qualified facility.
+
+       ``(iv) Special rule relating to geothermal facilities.--In 
+     the case of any qualified facility using geothermal energy to 
+     produce electricity, the basis of such facility for purposes 
+     of this paragraph shall be determined as though intangible 
+     drilling and development costs described in section 263(c) 
+     were capitalized rather than expensed.
+       ``(E) Special rule for first and last year of credit 
+     period.--In the case of any taxable year any portion of which 
+     is not within the 10-year period described in subsection 
+     (a)(2)(A)(ii) with respect to any facility, the amount of the 
+     limitation under subparagraph (A) with respect to such 
+     facility shall be reduced by an amount which bears the same 
+     ratio to the amount of such limitation (determined without 
+     regard to this subparagraph) as such portion of the taxable 
+     year which is not within such period bears to the entire 
+     taxable year.
+       ``(F) Election to treat all facilities placed in service in 
+     a year as 1 facility.--At the election of the taxpayer, all 
+     qualified facilities which are part of the same project and 
+     which are placed in service during the same calendar year 
+     shall be treated for purposes of this section as 1 facility 
+     which is placed in service at the mid-point of such year or 
+     the first day of the following calendar year.''.
+       (c) Trash Facility Clarification.--Paragraph (7) of section 
+     45(d) is amended--
+       (1) by striking ``facility which burns'' and inserting 
+     ``facility (other than a facility described in paragraph (6)) 
+     which uses'', and
+       (2) by striking ``combustion''.
+       (d) Expansion of Biomass Facilities.--
+       (1) Open-loop biomass facilities.--Paragraph (3) of section 
+     45(d) is amended by redesignating subparagraph (B) as 
+     subparagraph (C) and by inserting after subparagraph (A) the 
+     following new subparagraph:
+       ``(B) Expansion of facility.--Such term shall include a new 
+     unit placed in service after the date of the enactment of 
+     this subparagraph in connection with a facility described in 
+     subparagraph (A), but only to the extent of the increased 
+     amount of electricity produced at the facility by reason of 
+     such new unit.''.
+       (2) Closed-loop biomass facilities.--Paragraph (2) of 
+     section 45(d) is amended by redesignating subparagraph (B) as 
+     subparagraph (C) and inserting after subparagraph (A) the 
+     following new subparagraph:
+       ``(B) Expansion of facility.--Such term shall include a new 
+     unit placed in service after the date of the enactment of 
+     this subparagraph in connection with a facility described in 
+     subparagraph (A)(i), but only to the extent of the increased 
+     amount of electricity produced at the facility by reason of 
+     such new unit.''.
+       (e) Sales of Net Electricity to Regulated Public Utilities 
+     Treated as Sales to Unrelated Persons.--Paragraph (4) of 
+     section 45(e) is amended by adding at the end the following 
+     new sentence: ``The net amount of electricity sold by any 
+     taxpayer to a regulated public utility (as defined in section 
+     7701(a)(33)) shall be treated as sold to an unrelated 
+     person.''.
+       (f) Modification of Rules for Hydropower Production.--
+     Subparagraph (C) of section 45(c)(8) is amended to read as 
+     follows:
+       ``(C) Nonhydroelectric dam.--For purposes of subparagraph 
+     (A), a facility is described in this subparagraph if--
+       ``(i) the hydroelectric project installed on the 
+     nonhydroelectric dam is licensed by the Federal Energy 
+     Regulatory Commission and meets all other applicable 
+     environmental, licensing, and regulatory requirements,
+       ``(ii) the nonhydroelectric dam was placed in service 
+     before the date of the enactment of this paragraph and 
+     operated for flood control, navigation, or water supply 
+     purposes and did not produce hydroelectric power on the date 
+     of the enactment of this paragraph, and
+       ``(iii) the hydroelectric project is operated so that the 
+     water surface elevation at any given location and time that 
+     would have occurred in the absence of the hydroelectric 
+     project is maintained, subject to any license requirements 
+     imposed under applicable law that change the water surface 
+     elevation for the purpose of improving environmental quality 
+     of the affected waterway.
+     The Secretary, in consultation with the Federal Energy 
+     Regulatory Commission, shall certify if a hydroelectric 
+     project licensed at a nonhydroelectric dam meets the criteria 
+     in clause (iii). Nothing in this section shall affect the 
+     standards under which the Federal Energy Regulatory 
+     Commission issues licenses for and regulates hydropower 
+     projects under part I of the Federal Power Act.''.
+       (g) Effective Date.--
+       (1) In general.--Except as otherwise provided in this 
+     subsection, the amendments made by this section shall apply 
+     to property originally placed in service after December 31, 
+     2008.
+       (2) Repeal of credit phaseout.--The amendments made by 
+     subsection (b)(1) shall apply to taxable years ending after 
+     December 31, 2008.
+       (3) Limitation based on investment in facility.--The 
+     amendment made by subsection (b)(2) shall apply to property 
+     originally placed in service after December 31, 2009.
+       (4) Trash facility clarification; sales to related 
+     regulated public utilities.--The amendments made by 
+     subsections (c) and (e) shall apply to electricity produced 
+     and sold after the date of the enactment of this Act.
+       (5) Expansion of biomass facilities.--The amendments made 
+     by subsection (d) shall apply to property placed in service 
+     after the date of the enactment of this Act.
+
+     SEC. 512. PRODUCTION CREDIT FOR ELECTRICITY PRODUCED FROM 
+                   MARINE RENEWABLES.
+
+       (a) In General.--Paragraph (1) of section 45(c) is amended 
+     by striking ``and'' at the end of subparagraph (G), by 
+     striking the period at the end of subparagraph (H) and 
+     inserting ``, and'', and by adding at the end the following 
+     new subparagraph:
+       ``(I) marine and hydrokinetic renewable energy.''.
+       (b) Marine Renewables.--Subsection (c) of section 45 is 
+     amended by adding at the end the following new paragraph:
+
+[[Page S7423]]
+
+       ``(10) Marine and hydrokinetic renewable energy.--
+       ``(A) In general.--The term `marine and hydrokinetic 
+     renewable energy' means energy derived from--
+       ``(i) waves, tides, and currents in oceans, estuaries, and 
+     tidal areas,
+       ``(ii) free flowing water in rivers, lakes, and streams,
+       ``(iii) free flowing water in an irrigation system, canal, 
+     or other man-made channel, including projects that utilize 
+     nonmechanical structures to accelerate the flow of water for 
+     electric power production purposes, or
+       ``(iv) differentials in ocean temperature (ocean thermal 
+     energy conversion).
+       ``(B) Exceptions.--Such term shall not include any energy 
+     which is derived from any source which utilizes a dam, 
+     diversionary structure (except as provided in subparagraph 
+     (A)(iii)), or impoundment for electric power production 
+     purposes.''.
+       (c) Definition of Facility.--Subsection (d) of section 45 
+     is amended by adding at the end the following new paragraph:
+       ``(11) Marine and hydrokinetic renewable energy 
+     facilities.--In the case of a facility producing electricity 
+     from marine and hydrokinetic renewable energy, the term 
+     `qualified facility' means any facility owned by the 
+     taxpayer--
+       ``(A) which has a nameplate capacity rating of at least 150 
+     kilowatts, and
+       ``(B) which is originally placed in service on or after the 
+     date of the enactment of this paragraph and before January 1, 
+     2012.''.
+       (d) Credit Rate.--Subparagraph (A) of section 45(b)(4) is 
+     amended by striking ``or (9)'' and inserting ``(9), or 
+     (11)''.
+       (e) Coordination With Small Irrigation Power.--Paragraph 
+     (5) of section 45(d), as amended by section 101, is amended 
+     by striking ``January 1, 2012'' and inserting ``the date of 
+     the enactment of paragraph (11)''.
+       (f) Effective Date.--The amendments made by this section 
+     shall apply to electricity produced and sold after the date 
+     of the enactment of this Act, in taxable years ending after 
+     such date.
+
+     SEC. 513. ENERGY CREDIT.
+
+       (a) Extension of Credit.--
+       (1) Solar energy property.--Paragraphs (2)(A)(i)(II) and 
+     (3)(A)(ii) of section 48(a) are each amended by striking 
+     ``January 1, 2009'' and inserting ``January 1, 2015''.
+       (2) Fuel cell property.--Subparagraph (E) of section 
+     48(c)(1) is amended by striking ``December 31, 2008'' and 
+     inserting ``December 31, 2014''.
+       (3) Microturbine property.--Subparagraph (E) of section 
+     48(c)(2) is amended by striking ``December 31, 2008'' and 
+     inserting ``December 31, 2014''.
+       (b) Allowance of Energy Credit Against Alternative Minimum 
+     Tax.--Subparagraph (B) of section 38(c)(4) is amended by 
+     striking ``and'' at the end of clause (iii), by redesignating 
+     clause (iv) as clause (v), and by inserting after clause 
+     (iii) the following new clause:
+       ``(iv) the credit determined under section 46 to the extent 
+     that such credit is attributable to the energy credit 
+     determined under section 48, and''.
+       (c) Energy Credit for Combined Heat and Power System 
+     Property.--
+       (1) In general.--Section 48(a)(3)(A) (defining energy 
+     property) is amended by striking ``or'' at the end of clause 
+     (iii), by inserting ``or'' at the end of clause (iv), and by 
+     adding at the end the following new clause:
+       ``(v) combined heat and power system property,''.
+       (2) Combined heat and power system property.--Section 48 is 
+     amended by adding at the end the following new subsection:
+       ``(d) Combined Heat and Power System Property.--For 
+     purposes of subsection (a)(3)(A)(v)--
+       ``(1) Combined heat and power system property.--The term 
+     `combined heat and power system property' means property 
+     comprising a system--
+       ``(A) which uses the same energy source for the 
+     simultaneous or sequential generation of electrical power, 
+     mechanical shaft power, or both, in combination with the 
+     generation of steam or other forms of useful thermal energy 
+     (including heating and cooling applications),
+       ``(B) which produces--
+       ``(i) at least 20 percent of its total useful energy in the 
+     form of thermal energy which is not used to produce 
+     electrical or mechanical power (or combination thereof), and
+       ``(ii) at least 20 percent of its total useful energy in 
+     the form of electrical or mechanical power (or combination 
+     thereof),
+       ``(C) the energy efficiency percentage of which exceeds 60 
+     percent, and
+       ``(D) which is placed in service before January 1, 2015.
+       ``(2) Limitation.--
+       ``(A) In general.--In the case of combined heat and power 
+     system property with an electrical capacity in excess of the 
+     applicable capacity placed in service during the taxable 
+     year, the credit under subsection (a)(1) (determined without 
+     regard to this paragraph) for such year shall be equal to the 
+     amount which bears the same ratio to such credit as the 
+     applicable capacity bears to the capacity of such property.
+       ``(B) Applicable capacity.--For purposes of subparagraph 
+     (A), the term `applicable capacity' means 15 megawatts or a 
+     mechanical energy capacity of more than 20,000 horsepower or 
+     an equivalent combination of electrical and mechanical energy 
+     capacities.
+       ``(C) Maximum capacity.--The term `combined heat and power 
+     system property' shall not include any property comprising a 
+     system if such system has a capacity in excess of 50 
+     megawatts or a mechanical energy capacity in excess of 67,000 
+     horsepower or an equivalent combination of electrical and 
+     mechanical energy capacities.
+       ``(3) Special rules.--
+       ``(A) Energy efficiency percentage.--For purposes of this 
+     subsection, the energy efficiency percentage of a system is 
+     the fraction--
+       ``(i) the numerator of which is the total useful 
+     electrical, thermal, and mechanical power produced by the 
+     system at normal operating rates, and expected to be consumed 
+     in its normal application, and
+       ``(ii) the denominator of which is the lower heating value 
+     of the fuel sources for the system.
+       ``(B) Determinations made on btu basis.--The energy 
+     efficiency percentage and the percentages under paragraph 
+     (1)(B) shall be determined on a Btu basis.
+       ``(C) Input and output property not included.--The term 
+     `combined heat and power system property' does not include 
+     property used to transport the energy source to the facility 
+     or to distribute energy produced by the facility.
+       ``(4) Systems using biomass.--If a system is designed to 
+     use biomass (within the meaning of paragraphs (2) and (3) of 
+     section 45(c) without regard to the last sentence of 
+     paragraph (3)(A)) for at least 90 percent of the energy 
+     source--
+       ``(A) paragraph (1)(C) shall not apply, but
+       ``(B) the amount of credit determined under subsection (a) 
+     with respect to such system shall not exceed the amount which 
+     bears the same ratio to such amount of credit (determined 
+     without regard to this paragraph) as the energy efficiency 
+     percentage of such system bears to 60 percent.''.
+       (d) Increase of Credit Limitation for Fuel Cell Property.--
+     Subparagraph (B) of section 48(c)(1) is amended by striking 
+     ``$500'' and inserting ``$1,500''.
+       (e) Public Utility Property Taken Into Account.--
+       (1) In general.--Paragraph (3) of section 48(a) is amended 
+     by striking the second sentence thereof.
+       (2) Conforming amendments.--
+       (A) Paragraph (1) of section 48(c) is amended by striking 
+     subparagraph (D) and redesignating subparagraph (E) as 
+     subparagraph (D).
+       (B) Paragraph (2) of section 48(c) is amended by striking 
+     subparagraph (D) and redesignating subparagraph (E) as 
+     subparagraph (D).
+       (f) Effective Date.--
+       (1) In general.--Except as otherwise provided in this 
+     subsection, the amendments made by this section shall take 
+     effect on the date of the enactment of this Act.
+       (2) Allowance against alternative minimum tax.--The 
+     amendments made by subsection (b) shall apply to credits 
+     determined under section 46 of the Internal Revenue Code of 
+     1986 in taxable years beginning after the date of the 
+     enactment of this Act and to carrybacks of such credits.
+       (3) Combined heat and power and fuel cell property.--The 
+     amendments made by subsections (c) and (d) shall apply to 
+     periods after the date of the enactment of this Act, in 
+     taxable years ending after such date, under rules similar to 
+     the rules of section 48(m) of the Internal Revenue Code of 
+     1986 (as in effect on the day before the date of the 
+     enactment of the Revenue Reconciliation Act of 1990).
+       (4)  Public utility property.--The amendments made by 
+     subsection (e) shall apply to periods after February 13, 
+     2008, in taxable years ending after such date, under rules 
+     similar to the rules of section 48(m) of the Internal Revenue 
+     Code of 1986 (as in effect on the day before the date of the 
+     enactment of the Revenue Reconciliation Act of 1990).
+
+     SEC. 514. CREDIT FOR RESIDENTIAL ENERGY EFFICIENT PROPERTY.
+
+       (a) Extension.--Section 25D(g) is amended by striking 
+     ``December 31, 2008'' and inserting ``December 31, 2014''.
+       (b) Maximum Credit for Solar Electric Property.--
+       (1) In general.--Section 25D(b)(1)(A) is amended by 
+     striking ``$2,000'' and inserting ``$4,000''.
+       (2) Conforming amendment.--Section 25D(e)(4)(A)(i) is 
+     amended by striking ``$6,667'' and inserting ``$13,333''.
+       (c) Credit for Residential Wind Property.--
+       (1) In general.--Section 25D(a) is amended by striking 
+     ``and'' at the end of paragraph (2), by striking the period 
+     at the end of paragraph (3) and inserting ``, and'', and by 
+     adding at the end the following new paragraph:
+       ``(4) 30 percent of the qualified small wind energy 
+     property expenditures made by the taxpayer during such 
+     year.''.
+       (2) Limitation.--Section 25D(b)(1) is amended by striking 
+     ``and'' at the end of subparagraph (B), by striking the 
+     period at the end of subparagraph (C) and inserting ``, 
+     and'', and by adding at the end the following new 
+     subparagraph:
+       ``(D) $500 with respect to each half kilowatt of capacity 
+     (not to exceed $4,000) of wind turbines for which qualified 
+     small wind energy property expenditures are made.''.
+       (3) Qualified small wind energy property expenditures.--
+       (A) In general.--Section 25D(d) is amended by adding at the 
+     end the following new paragraph:
+       ``(4) Qualified small wind energy property expenditure.--
+     The term `qualified
+
+[[Page S7424]]
+
+     small wind energy property expenditure' means an expenditure 
+     for property which uses a wind turbine to generate 
+     electricity for use in connection with a dwelling unit 
+     located in the United States and used as a residence by the 
+     taxpayer.''.
+       (B) No double benefit.--Section 45(d)(1) is amended by 
+     adding at the end the following new sentence: ``Such term 
+     shall not include any facility with respect to which any 
+     qualified small wind energy property expenditure (as defined 
+     in subsection (d)(4) of section 25D) is taken into account in 
+     determining the credit under such section.''.
+       (4) Maximum expenditures in case of joint occupancy.--
+     Section 25D(e)(4)(A) is amended by striking ``and'' at the 
+     end of clause (ii), by striking the period at the end of 
+     clause (iii) and inserting ``, and'', and by adding at the 
+     end the following new clause:
+       ``(iv) $1,667 in the case of each half kilowatt of capacity 
+     (not to exceed $13,333) of wind turbines for which qualified 
+     small wind energy property expenditures are made.''.
+       (d) Credit for Geothermal Heat pump Systems.--
+       (1) In general.--Section 25D(a), as amended by subsection 
+     (c), is amended by striking ``and'' at the end of paragraph 
+     (3), by striking the period at the end of paragraph (4) and 
+     inserting ``, and'', and by adding at the end the following 
+     new paragraph:
+       ``(5) 30 percent of the qualified geothermal heat pump 
+     property expenditures made by the taxpayer during such 
+     year.''.
+       (2) Limitation.--Section 25D(b)(1), as amended by 
+     subsection (c), is amended by striking ``and'' at the end of 
+     subparagraph (C), by striking the period at the end of 
+     subparagraph (D) and inserting ``, and'', and by adding at 
+     the end the following new subparagraph:
+       ``(E) $2,000 with respect to any qualified geothermal heat 
+     pump property expenditures.''.
+       (3) Qualified geothermal heat pump property expenditure.--
+     Section 25D(d), as amended by subsection (c), is amended by 
+     adding at the end the following new paragraph:
+       ``(5) Qualified geothermal heat pump property 
+     expenditure.--
+       ``(A) In general.--The term `qualified geothermal heat pump 
+     property expenditure' means an expenditure for qualified 
+     geothermal heat pump property installed on or in connection 
+     with a dwelling unit located in the United States and used as 
+     a residence by the taxpayer.
+       ``(B) Qualified geothermal heat pump property.--The term 
+     `qualified geothermal heat pump property' means any equipment 
+     which--
+       ``(i) uses the ground or ground water as a thermal energy 
+     source to heat the dwelling unit referred to in subparagraph 
+     (A) or as a thermal energy sink to cool such dwelling unit, 
+     and
+       ``(ii) meets the requirements of the Energy Star program 
+     which are in effect at the time that the expenditure for such 
+     equipment is made.''.
+       (4) Maximum expenditures in case of joint occupancy.--
+     Section 25D(e)(4)(A), as amended by subsection (c), is 
+     amended by striking ``and'' at the end of clause (iii), by 
+     striking the period at the end of clause (iv) and inserting 
+     ``, and'', and by adding at the end the following new clause:
+       ``(v) $6,667 in the case of any qualified geothermal heat 
+     pump property expenditures.''.
+       (e) Credit Allowed Against Alternative Minimum Tax.--
+       (1) In general.--Subsection (c) of section 25D is amended 
+     to read as follows:
+       ``(c) Limitation Based on Amount of Tax; Carryforward of 
+     Unused Credit.--
+       ``(1) Limitation based on amount of tax.--In the case of a 
+     taxable year to which section 26(a)(2) does not apply, the 
+     credit allowed under subsection (a) for the taxable year 
+     shall not exceed the excess of--
+       ``(A) the sum of the regular tax liability (as defined in 
+     section 26(b)) plus the tax imposed by section 55, over
+       ``(B) the sum of the credits allowable under this subpart 
+     (other than this section) and section 27 for the taxable 
+     year.
+       ``(2) Carryforward of unused credit.--
+       ``(A) Rule for years in which all personal credits allowed 
+     against regular and alternative minimum tax.--In the case of 
+     a taxable year to which section 26(a)(2) applies, if the 
+     credit allowable under subsection (a) exceeds the limitation 
+     imposed by section 26(a)(2) for such taxable year reduced by 
+     the sum of the credits allowable under this subpart (other 
+     than this section), such excess shall be carried to the 
+     succeeding taxable year and added to the credit allowable 
+     under subsection (a) for such succeeding taxable year.
+       ``(B) Rule for other years.--In the case of a taxable year 
+     to which section 26(a)(2) does not apply, if the credit 
+     allowable under subsection (a) exceeds the limitation imposed 
+     by paragraph (1) for such taxable year, such excess shall be 
+     carried to the succeeding taxable year and added to the 
+     credit allowable under subsection (a) for such succeeding 
+     taxable year.''.
+       (2) Conforming amendments.--
+       (A) Section 23(b)(4)(B) is amended by inserting ``and 
+     section 25D'' after ``this section''.
+       (B) Section 24(b)(3)(B) is amended by striking ``and 25B'' 
+     and inserting ``, 25B, and 25D''.
+       (C) Section 25B(g)(2) is amended by striking ``section 23'' 
+     and inserting ``sections 23 and 25D''.
+       (D) Section 26(a)(1) is amended by striking ``and 25B'' and 
+     inserting ``25B, and 25D''.
+       (f) Effective Date.--
+       (1) In general.--The amendments made by this section shall 
+     apply to taxable years beginning after December 31, 2007.
+       (2) Application of egtrra sunset.--The amendments made by 
+     subparagraphs (A) and (B) of subsection (e)(2) shall be 
+     subject to title IX of the Economic Growth and Tax Relief 
+     Reconciliation Act of 2001 in the same manner as the 
+     provisions of such Act to which such amendments relate.
+
+     SEC. 515. SPECIAL RULE TO IMPLEMENT FERC AND STATE ELECTRIC 
+                   RESTRUCTURING POLICY.
+
+       (a) Extension for Qualified Electric Utilities.--
+       (1) In general.--Paragraph (3) of section 451(i) is amended 
+     by inserting ``(before January 1, 2010, in the case of a 
+     qualified electric utility)'' after ``January 1, 2008''.
+       (2) Qualified electric utility.--Subsection (i) of section 
+     451 is amended by redesignating paragraphs (6) through (10) 
+     as paragraphs (7) through (11), respectively, and by 
+     inserting after paragraph (5) the following new paragraph:
+       ``(6) Qualified electric utility.--For purposes of this 
+     subsection, the term `qualified electric utility' means a 
+     person that, as of the date of the qualifying electric 
+     transmission transaction, is vertically integrated, in that 
+     it is both--
+       ``(A) a transmitting utility (as defined in section 3(23) 
+     of the Federal Power Act (16 U.S.C. 796(23))) with respect to 
+     the transmission facilities to which the election under this 
+     subsection applies, and
+       ``(B) an electric utility (as defined in section 3(22) of 
+     the Federal Power Act (16 U.S.C. 796(22))).''.
+       (b) Extension of Period for Transfer of Operational Control 
+     Authorized by FERC.--Clause (ii) of section 451(i)(4)(B) is 
+     amended by striking ``December 31, 2007'' and inserting ``the 
+     date which is 4 years after the close of the taxable year in 
+     which the transaction occurs''.
+       (c) Property Located Outside the United States Not Treated 
+     as Exempt Utility Property.--Paragraph (5) of section 451(i) 
+     is amended by adding at the end the following new 
+     subparagraph:
+       ``(C) Exception for property located outside the united 
+     states.--The term `exempt utility property' shall not include 
+     any property which is located outside the United States.''.
+       (d) Effective Dates.--
+       (1) Extension.--The amendments made by subsection (a) shall 
+     apply to transactions after December 31, 2007.
+       (2) Transfers of operational control.--The amendment made 
+     by subsection (b) shall take effect as if included in section 
+     909 of the American Jobs Creation Act of 2004.
+       (3) Exception for property located outside the united 
+     states.--The amendment made by subsection (c) shall apply to 
+     transactions after the date of the enactment of this Act.
+
+     SEC. 516. NEW CLEAN RENEWABLE ENERGY BONDS.
+
+       (a) In General.--Subpart I of part IV of subchapter A of 
+     chapter 1 is amended by adding at the end the following new 
+     section:
+
+     ``SEC. 54C. NEW CLEAN RENEWABLE ENERGY BONDS.
+
+       ``(a) New Clean Renewable Energy Bond.--For purposes of 
+     this subpart, the term `new clean renewable energy bond' 
+     means any bond issued as part of an issue if--
+       ``(1) 100 percent of the available project proceeds of such 
+     issue are to be used for capital expenditures incurred by 
+     governmental bodies, public power providers, or cooperative 
+     electric companies for one or more qualified renewable energy 
+     facilities,
+       ``(2) the bond is issued by a qualified issuer, and
+       ``(3) the issuer designates such bond for purposes of this 
+     section.
+       ``(b) Reduced Credit Amount.--The annual credit determined 
+     under section 54A(b) with respect to any new clean renewable 
+     energy bond shall be 70 percent of the amount so determined 
+     without regard to this subsection.
+       ``(c) Limitation on Amount of Bonds Designated.--
+       ``(1) In general.--The maximum aggregate face amount of 
+     bonds which may be designated under subsection (a) by any 
+     issuer shall not exceed the limitation amount allocated under 
+     this subsection to such issuer.
+       ``(2) National limitation on amount of bonds designated.--
+     There is a national new clean renewable energy bond 
+     limitation of $2,000,000,000 which shall be allocated by the 
+     Secretary as provided in paragraph (3), except that--
+       ``(A) not more than 33\1/3\ percent thereof may be 
+     allocated to qualified projects of public power providers,
+       ``(B) not more than 33\1/3\ percent thereof may be 
+     allocated to qualified projects of governmental bodies, and
+       ``(C) not more than 33\1/3\ percent thereof may be 
+     allocated to qualified projects of cooperative electric 
+     companies.
+       ``(3) Method of allocation.--
+       ``(A) Allocation among public power providers.--After the 
+     Secretary determines the qualified projects of public power 
+     providers which are appropriate for receiving an allocation 
+     of the national new clean renewable energy bond limitation, 
+     the Secretary shall, to the maximum extent practicable, make 
+     allocations among such projects in such manner that the 
+     amount allocated to each such project bears the same ratio to 
+     the cost
+
+[[Page S7425]]
+
+     of such project as the limitation under paragraph (2)(A) 
+     bears to the cost of all such projects.
+       ``(B) Allocation among governmental bodies and cooperative 
+     electric companies.--The Secretary shall make allocations of 
+     the amount of the national new clean renewable energy bond 
+     limitation described in paragraphs (2)(B) and (2)(C) among 
+     qualified projects of governmental bodies and cooperative 
+     electric companies, respectively, in such manner as the 
+     Secretary determines appropriate.
+       ``(d) Definitions.--For purposes of this section--
+       ``(1) Qualified renewable energy facility.--The term 
+     `qualified renewable energy facility' means a qualified 
+     facility (as determined under section 45(d) without regard to 
+     paragraphs (8) and (10) thereof and to any placed in service 
+     date) owned by a public power provider, a governmental body, 
+     or a cooperative electric company.
+       ``(2) Public power provider.--The term `public power 
+     provider' means a State utility with a service obligation, as 
+     such terms are defined in section 217 of the Federal Power 
+     Act (as in effect on the date of the enactment of this 
+     paragraph).
+       ``(3) Governmental body.--The term `governmental body' 
+     means any State or Indian tribal government, or any political 
+     subdivision thereof.
+       ``(4) Cooperative electric company.--The term `cooperative 
+     electric company' means a mutual or cooperative electric 
+     company described in section 501(c)(12) or section 
+     1381(a)(2)(C).
+       ``(5) Clean renewable energy bond lender.--The term `clean 
+     renewable energy bond lender' means a lender which is a 
+     cooperative which is owned by, or has outstanding loans to, 
+     100 or more cooperative electric companies and is in 
+     existence on February 1, 2002, and shall include any 
+     affiliated entity which is controlled by such lender.
+       ``(6) Qualified issuer.--The term `qualified issuer' means 
+     a public power provider, a cooperative electric company, a 
+     governmental body, a clean renewable energy bond lender, or a 
+     not-for-profit electric utility which has received a loan or 
+     loan guarantee under the Rural Electrification Act.''.
+       (b) Conforming Amendments.--
+       (1) Paragraph (1) of section 54A(d) is amended to read as 
+     follows:
+       ``(1) Qualified tax credit bond.--The term `qualified tax 
+     credit bond' means--
+       ``(A) a qualified forestry conservation bond, or
+       ``(B) a new clean renewable energy bond,
+     which is part of an issue that meets requirements of 
+     paragraphs (2), (3), (4), (5), and (6).''.
+       (2) Subparagraph (C) of section 54A(d)(2) is amended to 
+     read as follows:
+       ``(C) Qualified purpose.--For purposes of this paragraph, 
+     the term `qualified purpose' means--
+       ``(i) in the case of a qualified forestry conservation 
+     bond, a purpose specified in section 54B(e), and
+       ``(ii) in the case of a new clean renewable energy bond, a 
+     purpose specified in section 54C(a)(1).''.
+       (3) The table of sections for subpart I of part IV of 
+     subchapter A of chapter 1 is amended by adding at the end the 
+     following new item:
+
+``Sec. 54C. Qualified clean renewable energy bonds.''.
+
+       (c) Effective Date.--The amendments made by this section 
+     shall apply to obligations issued after the date of the 
+     enactment of this Act.
+
+                 PART II--CARBON MITIGATION PROVISIONS
+
+     SEC. 521. EXPANSION AND MODIFICATION OF ADVANCED COAL PROJECT 
+                   INVESTMENT CREDIT.
+
+       (a) Modification of Credit Amount.--Section 48A(a) is 
+     amended by striking ``and'' at the end of paragraph (1), by 
+     striking the period at the end of paragraph (2) and inserting 
+     ``, and'', and by adding at the end the following new 
+     paragraph:
+       ``(3) 30 percent of the qualified investment for such 
+     taxable year in the case of projects described in clause 
+     (iii) of subsection (d)(3)(B).''.
+       (b) Expansion of Aggregate Credits.--Section 48A(d)(3)(A) 
+     is amended by striking ``$1,300,000,000'' and inserting 
+     ``$2,550,000,000''.
+       (c) Authorization of Additional Projects.--
+       (1) In general.--Subparagraph (B) of section 48A(d)(3) is 
+     amended to read as follows:
+       ``(B) Particular projects.--Of the dollar amount in 
+     subparagraph (A), the Secretary is authorized to certify--
+       ``(i) $800,000,000 for integrated gasification combined 
+     cycle projects the application for which is submitted during 
+     the period described in paragraph (2)(A)(i),
+       ``(ii) $500,000,000 for projects which use other advanced 
+     coal-based generation technologies the application for which 
+     is submitted during the period described in paragraph 
+     (2)(A)(i), and
+       ``(iii) $1,250,000,000 for advanced coal-based generation 
+     technology projects the application for which is submitted 
+     during the period described in paragraph (2)(A)(ii).''.
+       (2) Application period for additional projects.--
+     Subparagraph (A) of section 48A(d)(2) is amended to read as 
+     follows:
+       ``(A) Application period.--Each applicant for certification 
+     under this paragraph shall submit an application meeting the 
+     requirements of subparagraph (B). An applicant may only 
+     submit an application--
+       ``(i) for an allocation from the dollar amount specified in 
+     clause (i) or (ii) of paragraph (3)(B) during the 3-year 
+     period beginning on the date the Secretary establishes the 
+     program under paragraph (1), and
+       ``(ii) for an allocation from the dollar amount specified 
+     in paragraph (3)(B)(iii) during the 3-year period beginning 
+     at the earlier of the termination of the period described in 
+     clause (i) or the date prescribed by the Secretary.''.
+       (3) Capture and sequestration of carbon dioxide emissions 
+     requirement.--
+       (A) In general.--Section 48A(e)(1) is amended by striking 
+     ``and'' at the end of subparagraph (E), by striking the 
+     period at the end of subparagraph (F) and inserting ``; 
+     and'', and by adding at the end the following new 
+     subparagraph:
+       ``(G) in the case of any project the application for which 
+     is submitted during the period described in subsection 
+     (d)(2)(A)(ii), the project includes equipment which separates 
+     and sequesters at least 65 percent (70 percent in the case of 
+     an application for reallocated credits under subsection 
+     (d)(4)) of such project's total carbon dioxide emissions.''.
+       (B) Highest priority for projects which sequester carbon 
+     dioxide emissions.--Section 48A(e)(3) is amended by striking 
+     ``and'' at the end of subparagraph (A)(iii), by striking the 
+     period at the end of subparagraph (B)(iii) and inserting ``, 
+     and'', and by adding at the end the following new 
+     subparagraph:
+       ``(C) give highest priority to projects with the greatest 
+     separation and sequestration percentage of total carbon 
+     dioxide emissions.''.
+       (C) Recapture of credit for failure to sequester.--Section 
+     48A is amended by adding at the end the following new 
+     subsection:
+       ``(i) Recapture of Credit for Failure To Sequester.--The 
+     Secretary shall provide for recapturing the benefit of any 
+     credit allowable under subsection (a) with respect to any 
+     project which fails to attain or maintain the separation and 
+     sequestration requirements of subsection (e)(1)(G).''.
+       (4) Additional priority for research partnerships.--Section 
+     48A(e)(3)(B), as amended by paragraph (3)(B), is amended--
+       (A) by striking ``and'' at the end of clause (ii),
+       (B) by redesignating clause (iii) as clause (iv), and
+       (C) by inserting after clause (ii) the following new 
+     clause:
+       ``(iii) applicant participants who have a research 
+     partnership with an eligible educational institution (as 
+     defined in section 529(e)(5)), and''.
+       (5) Clerical amendment.--Section 48A(e)(3) is amended by 
+     striking ``integrated gasification combined cycle'' in the 
+     heading and inserting ``certain''.
+       (d) Disclosure of Allocations.--Section 48A(d) is amended 
+     by adding at the end the following new paragraph:
+       ``(5) Disclosure of allocations.--The Secretary shall, upon 
+     making a certification under this subsection or section 
+     48B(d), publicly disclose the identity of the applicant and 
+     the amount of the credit certified with respect to such 
+     applicant.''.
+       (e) Effective Dates.--
+       (1) In general.--Except as otherwise provided in this 
+     subsection, the amendments made by this section shall apply 
+     to credits the application for which is submitted during the 
+     period described in section 48A(d)(2)(A)(ii) of the Internal 
+     Revenue Code of 1986 and which are allocated or reallocated 
+     after the date of the enactment of this Act.
+       (2) Disclosure of allocations.--The amendment made by 
+     subsection (d) shall apply to certifications made after the 
+     date of the enactment of this Act.
+       (3) Clerical amendment.--The amendment made by subsection 
+     (c)(5) shall take effect as if included in the amendment made 
+     by section 1307(b) of the Energy Tax Incentives Act of 2005.
+
+     SEC. 522. EXPANSION AND MODIFICATION OF COAL GASIFICATION 
+                   INVESTMENT CREDIT.
+
+       (a) Modification of Credit Amount.--Section 48B(a) is 
+     amended by inserting ``(30 percent in the case of credits 
+     allocated under subsection (d)(1)(B))'' after ``20 percent''.
+       (b) Expansion of Aggregate Credits.--Section 48B(d)(1) is 
+     amended by striking ``shall not exceed $350,000,000'' and all 
+     that follows and inserting ``shall not exceed--
+       ``(A) $350,000,000, plus
+       ``(B) $250,000,000 for qualifying gasification projects 
+     that include equipment which separates and sequesters at 
+     least 75 percent of such project's total carbon dioxide 
+     emissions.''.
+       (c) Recapture of Credit for Failure To Sequester.--Section 
+     48B is amended by adding at the end the following new 
+     subsection:
+       ``(f) Recapture of Credit for Failure To Sequester.--The 
+     Secretary shall provide for recapturing the benefit of any 
+     credit allowable under subsection (a) with respect to any 
+     project which fails to attain or maintain the separation and 
+     sequestration requirements for such project under subsection 
+     (d)(1).''.
+       (d) Selection Priorities.--Section 48B(d) is amended by 
+     adding at the end the following new paragraph:
+       ``(4) Selection priorities.--In determining which 
+     qualifying gasification projects to certify under this 
+     section, the Secretary shall--
+       ``(A) give highest priority to projects with the greatest 
+     separation and sequestration percentage of total carbon 
+     dioxide emissions, and
+
+[[Page S7426]]
+
+       ``(B) give high priority to applicant participants who have 
+     a research partnership with an eligible educational 
+     institution (as defined in section 529(e)(5)).''.
+       (e) Effective Date.--The amendments made by this section 
+     shall apply to credits described in section 48B(d)(1)(B) of 
+     the Internal Revenue Code of 1986 which are allocated or 
+     reallocated after the date of the enactment of this Act.
+
+     SEC. 523. TEMPORARY INCREASE IN COAL EXCISE TAX.
+
+       Paragraph (2) of section 4121(e) is amended--
+       (1) by striking ``January 1, 2014'' in subparagraph (A) and 
+     inserting ``December 31, 2018'', and
+       (2) by striking ``January 1 after 1981'' in subparagraph 
+     (B) and inserting ``December 31 after 2007''.
+
+     SEC. 524. SPECIAL RULES FOR REFUND OF THE COAL EXCISE TAX TO 
+                   CERTAIN COAL PRODUCERS AND EXPORTERS.
+
+       (a) Refund.--
+       (1) Coal producers.--
+       (A) In general.--Notwithstanding subsections (a)(1) and (c) 
+     of section 6416 and section 6511 of the Internal Revenue Code 
+     of 1986, if--
+       (i) a coal producer establishes that such coal producer, or 
+     a party related to such coal producer, exported coal produced 
+     by such coal producer to a foreign country or shipped coal 
+     produced by such coal producer to a possession of the United 
+     States, or caused such coal to be exported or shipped, the 
+     export or shipment of which was other than through an 
+     exporter who meets the requirements of paragraph (2),
+       (ii) such coal producer filed an excise tax return on or 
+     after October 1, 1990, and on or before the date of the 
+     enactment of this Act, and
+       (iii) such coal producer files a claim for refund with the 
+     Secretary not later than the close of the 30-day period 
+     beginning on the date of the enactment of this Act,
+
+     then the Secretary shall pay to such coal producer an amount 
+     equal to the tax paid under section 4121 of such Code on such 
+     coal exported or shipped by the coal producer or a party 
+     related to such coal producer, or caused by the coal producer 
+     or a party related to such coal producer to be exported or 
+     shipped.
+       (B) Special rules for certain taxpayers.--For purposes of 
+     this section--
+       (i) In general.--If a coal producer or a party related to a 
+     coal producer has received a judgment described in clause 
+     (iii), such coal producer shall be deemed to have established 
+     the export of coal to a foreign country or shipment of coal 
+     to a possession of the United States under subparagraph 
+     (A)(i).
+       (ii) Amount of payment.--If a taxpayer described in clause 
+     (i) is entitled to a payment under subparagraph (A), the 
+     amount of such payment shall be reduced by any amount paid 
+     pursuant to the judgment described in clause (iii).
+       (iii) Judgment described.--A judgment is described in this 
+     subparagraph if such judgment--
+
+       (I) is made by a court of competent jurisdiction within the 
+     United States,
+       (II) relates to the constitutionality of any tax paid on 
+     exported coal under section 4121 of the Internal Revenue Code 
+     of 1986, and
+       (III) is in favor of the coal producer or the party related 
+     to the coal producer.
+
+       (2) Exporters.--Notwithstanding subsections (a)(1) and (c) 
+     of section 6416 and section 6511 of the Internal Revenue Code 
+     of 1986, and a judgment described in paragraph (1)(B)(iii) of 
+     this subsection, if--
+       (A) an exporter establishes that such exporter exported 
+     coal to a foreign country or shipped coal to a possession of 
+     the United States, or caused such coal to be so exported or 
+     shipped,
+       (B) such exporter filed a tax return on or after October 1, 
+     1990, and on or before the date of the enactment of this Act, 
+     and
+       (C) such exporter files a claim for refund with the 
+     Secretary not later than the close of the 30-day period 
+     beginning on the date of the enactment of this Act,
+
+     then the Secretary shall pay to such exporter an amount equal 
+     to $0.825 per ton of such coal exported by the exporter or 
+     caused to be exported or shipped, or caused to be exported or 
+     shipped, by the exporter.
+       (b) Limitations.--Subsection (a) shall not apply with 
+     respect to exported coal if a settlement with the Federal 
+     Government has been made with and accepted by, the coal 
+     producer, a party related to such coal producer, or the 
+     exporter, of such coal, as of the date that the claim is 
+     filed under this section with respect to such exported coal. 
+     For purposes of this subsection, the term ``settlement with 
+     the Federal Government'' shall not include any settlement or 
+     stipulation entered into as of the date of the enactment of 
+     this Act, the terms of which contemplate a judgment 
+     concerning which any party has reserved the right to file an 
+     appeal, or has filed an appeal.
+       (c) Subsequent Refund Prohibited.--No refund shall be made 
+     under this section to the extent that a credit or refund of 
+     such tax on such exported or shipped coal has been paid to 
+     any person.
+       (d) Definitions.--For purposes of this section--
+       (1) Coal producer.--The term ``coal producer'' means the 
+     person in whom is vested ownership of the coal immediately 
+     after the coal is severed from the ground, without regard to 
+     the existence of any contractual arrangement for the sale or 
+     other disposition of the coal or the payment of any royalties 
+     between the producer and third parties. The term includes any 
+     person who extracts coal from coal waste refuse piles or from 
+     the silt waste product which results from the wet washing (or 
+     similar processing) of coal.
+       (2) Exporter.--The term ``exporter'' means a person, other 
+     than a coal producer, who does not have a contract, fee 
+     arrangement, or any other agreement with a producer or seller 
+     of such coal to export or ship such coal to a third party on 
+     behalf of the producer or seller of such coal and--
+       (A) is indicated in the shipper's export declaration or 
+     other documentation as the exporter of record, or
+       (B) actually exported such coal to a foreign country or 
+     shipped such coal to a possession of the United States, or 
+     caused such coal to be so exported or shipped.
+       (3) Related party.--The term ``a party related to such coal 
+     producer'' means a person who--
+       (A) is related to such coal producer through any degree of 
+     common management, stock ownership, or voting control,
+       (B) is related (within the meaning of section 144(a)(3) of 
+     the Internal Revenue Code of 1986) to such coal producer, or
+       (C) has a contract, fee arrangement, or any other agreement 
+     with such coal producer to sell such coal to a third party on 
+     behalf of such coal producer.
+       (4) Secretary.--The term ``Secretary'' means the Secretary 
+     of Treasury or the Secretary's designee.
+       (e) Timing of Refund.--With respect to any claim for refund 
+     filed pursuant to this section, the Secretary shall determine 
+     whether the requirements of this section are met not later 
+     than 180 days after such claim is filed. If the Secretary 
+     determines that the requirements of this section are met, the 
+     claim for refund shall be paid not later than 180 days after 
+     the Secretary makes such determination.
+       (f) Interest.--Any refund paid pursuant to this section 
+     shall be paid by the Secretary with interest from the date of 
+     overpayment determined by using the overpayment rate and 
+     method under section 6621 of the Internal Revenue Code of 
+     1986.
+       (g) Denial of Double Benefit.--The payment under subsection 
+     (a) with respect to any coal shall not exceed--
+       (1) in the case of a payment to a coal producer, the amount 
+     of tax paid under section 4121 of the Internal Revenue Code 
+     of 1986 with respect to such coal by such coal producer or a 
+     party related to such coal producer, and
+       (2) in the case of a payment to an exporter, an amount 
+     equal to $0.825 per ton with respect to such coal exported by 
+     the exporter or caused to be exported by the exporter.
+       (h) Application of Section.--This section applies only to 
+     claims on coal exported or shipped on or after October 1, 
+     1990, through the date of the enactment of this Act.
+       (i) Standing Not Conferred.--
+       (1) Exporters.--With respect to exporters, this section 
+     shall not confer standing upon an exporter to commence, or 
+     intervene in, any judicial or administrative proceeding 
+     concerning a claim for refund by a coal producer of any 
+     Federal or State tax, fee, or royalty paid by the coal 
+     producer.
+       (2) Coal producers.--With respect to coal producers, this 
+     section shall not confer standing upon a coal producer to 
+     commence, or intervene in, any judicial or administrative 
+     proceeding concerning a claim for refund by an exporter of 
+     any Federal or State tax, fee, or royalty paid by the 
+     producer and alleged to have been passed on to an exporter.
+
+     SEC. 525. CARBON AUDIT OF THE TAX CODE.
+
+       (a) Study.--The Secretary of the Treasury shall enter into 
+     an agreement with the National Academy of Sciences to 
+     undertake a comprehensive review of the Internal Revenue Code 
+     of 1986 to identify the types of and specific tax provisions 
+     that have the largest effects on carbon and other greenhouse 
+     gas emissions and to estimate the magnitude of those effects.
+       (b) Report.--Not later than 2 years after the date of 
+     enactment of this Act, the National Academy of Sciences shall 
+     submit to Congress a report containing the results of study 
+     authorized under this section.
+       (c) Authorization of Appropriations.--There is authorized 
+     to be appropriated to carry out this section $1,500,000 for 
+     the period of fiscal years 2008 and 2009.
+
+    Subtitle B--Transportation and Domestic Fuel Security Provisions
+
+     SEC. 531. INCLUSION OF CELLULOSIC BIOFUEL IN BONUS 
+                   DEPRECIATION FOR BIOMASS ETHANOL PLANT 
+                   PROPERTY.
+
+       (a) In General.--Paragraph (3) of section 168(l) is amended 
+     to read as follows:
+       ``(3) Cellulosic biofuel.--The term `cellulosic biofuel' 
+     means any liquid fuel which is produced from any 
+     lignocellulosic or hemicellulosic matter that is available on 
+     a renewable or recurring basis.''.
+       (b) Conforming Amendments.--Subsection (l) of section 168 
+     is amended--
+       (1) by striking ``cellulosic biomass ethanol'' each place 
+     it appears and inserting ``cellulosic biofuel'',
+       (2) by striking ``Cellulosic Biomass Ethanol'' in the 
+     heading of such subsection and inserting ``Cellulosic 
+     Biofuel'', and
+       (3) by striking ``cellulosic biomass ethanol'' in the 
+     heading of paragraph (2) thereof and inserting ``cellulosic 
+     biofuel''.
+       (c) Effective Date.--The amendments made by this section 
+     shall apply to property
+
+[[Page S7427]]
+
+     placed in service after the date of the enactment of this 
+     Act, in taxable years ending after such date.
+
+     SEC. 532. CREDITS FOR BIODIESEL AND RENEWABLE DIESEL.
+
+       (a) In General.--Sections 40A(g), 6426(c)(6), and 
+     6427(e)(5)(B) are each amended by striking ``December 31, 
+     2008'' and inserting ``December 31, 2009''.
+       (b) Increase in Rate of Credit.--
+       (1) Income tax credit.--Paragraphs (1)(A) and (2)(A) of 
+     section 40A(b) are each amended by striking ``50 cents'' and 
+     inserting ``$1.00''.
+       (2) Excise tax credit.--Paragraph (2) of section 6426(c) is 
+     amended to read as follows:
+       ``(2) Applicable amount.--For purposes of this subsection, 
+     the applicable amount is $1.00.''.
+       (3) Conforming amendments.--
+       (A) Subsection (b) of section 40A is amended by striking 
+     paragraph (3) and by redesignating paragraphs (4) and (5) as 
+     paragraphs (3) and (4), respectively.
+       (B) Paragraph (2) of section 40A(f) is amended to read as 
+     follows:
+       ``(2) Exception.--Subsection (b)(4) shall not apply with 
+     respect to renewable diesel.''.
+       (C) Paragraphs (2) and (3) of section 40A(e) are each 
+     amended by striking ``subsection (b)(5)(C)'' and inserting 
+     ``subsection (b)(4)(C)''.
+       (D) Clause (ii) of section 40A(d)(3)(C) is amended by 
+     striking ``subsection (b)(5)(B)'' and inserting ``subsection 
+     (b)(4)(B)''.
+       (c) Uniform Treatment of Diesel Produced From Biomass.--
+     Paragraph (3) of section 40A(f) is amended--
+       (1) by striking ``diesel fuel'' and inserting ``liquid 
+     fuel'',
+       (2) by striking ``using a thermal depolymerization 
+     process'', and
+       (3) by striking ``or D396'' in subparagraph (B) and 
+     inserting ``, D396, or other equivalent standard approved by 
+     the Secretary''.
+       (d) Coproduction of Renewable Diesel With Petroleum 
+     Feedstock.--
+       (1) In general.--Paragraph (3) of section 40A(f) (defining 
+     renewable diesel) is amended by adding at the end the 
+     following new sentence: ``Such term does not include any fuel 
+     derived from coprocessing biomass with a feedstock which is 
+     not biomass. For purposes of this paragraph, the term 
+     `biomass' has the meaning given such term by section 
+     45K(c)(3).''.
+       (2) Conforming amendment.--Paragraph (3) of section 40A(f) 
+     is amended by striking ``(as defined in section 45K(c)(3))''.
+       (e) Eligibility of Certain Aviation Fuel.--Paragraph (3) of 
+     section 40A(f) (defining renewable diesel) is amended by 
+     adding at the end the following: ``The term `renewable 
+     diesel' also means fuel derived from biomass which meets the 
+     requirements of a Department of Defense specification for 
+     military jet fuel or an American Society of Testing and 
+     Materials specification for aviation turbine fuel.''.
+       (f) Effective Date.--
+       (1) In general.--Except as otherwise provided in this 
+     subsection, the amendments made by this section shall apply 
+     to fuel produced, and sold or used, after December 31, 2008.
+       (2) Coproduction of renewable diesel with petroleum 
+     feedstock.--The amendments made by subsection (d) shall apply 
+     to fuel produced, and sold or used, after the date of the 
+     enactment of this Act.
+
+     SEC. 533. CLARIFICATION THAT CREDITS FOR FUEL ARE DESIGNED TO 
+                   PROVIDE AN INCENTIVE FOR UNITED STATES 
+                   PRODUCTION.
+
+       (a) Alcohol Fuels Credit.--Paragraph (6) of section 40(d) 
+     is amended to read as follows:
+       ``(6) Limitation to alcohol with connection to the united 
+     states.--No credit shall be determined under this section 
+     with respect to any alcohol which is produced outside the 
+     United States for use as a fuel outside the United States. 
+     For purposes of this paragraph, the term `United States' 
+     includes any possession of the United States.''.
+       (b) Biodiesel Fuels Credit.--Subsection (d) of section 40A 
+     is amended by adding at the end the following new paragraph:
+       ``(5) Limitation to biodiesel with connection to the united 
+     states.--No credit shall be determined under this section 
+     with respect to any biodiesel which is produced outside the 
+     United States for use as a fuel outside the United States. 
+     For purposes of this paragraph, the term `United States' 
+     includes any possession of the United States.''.
+       (c) Excise Tax Credit.--
+       (1) In general.--Section 6426 is amended by adding at the 
+     end the following new subsection:
+       ``(i) Limitation to Fuels With Connection to the United 
+     States.--
+       ``(1) Alcohol.--No credit shall be determined under this 
+     section with respect to any alcohol which is produced outside 
+     the United States for use as a fuel outside the United 
+     States.
+       ``(2) Biodiesel and alternative fuels.--No credit shall be 
+     determined under this section with respect to any biodiesel 
+     or alternative fuel which is produced outside the United 
+     States for use as a fuel outside the United States.
+
+     For purposes of this subsection, the term `United States' 
+     includes any possession of the United States.''.
+       (2) Conforming amendment.--Subsection (e) of section 6427 
+     is amended by redesignating paragraph (5) as paragraph (6) 
+     and by inserting after paragraph (4) the following new 
+     paragraph:
+       ``(5) Limitation to fuels with connection to the united 
+     states.--No amount shall be payable under paragraph (1) or 
+     (2) with respect to any mixture or alternative fuel if credit 
+     is not allowed with respect to such mixture or alternative 
+     fuel by reason of section 6426(i).''.
+       (d) Effective Date.--The amendments made by this section 
+     shall apply to claims for credit or payment made on or after 
+     May 15, 2008.
+
+     SEC. 534. CREDIT FOR NEW QUALIFIED PLUG-IN ELECTRIC DRIVE 
+                   MOTOR VEHICLES.
+
+       (a) In General.--Subpart B of part IV of subchapter A of 
+     chapter 1 is amended by adding at the end the following new 
+     section:
+
+     ``SEC. 30D. NEW QUALIFIED PLUG-IN ELECTRIC DRIVE MOTOR 
+                   VEHICLES.
+
+       ``(a) Allowance of Credit.--There shall be allowed as a 
+     credit against the tax imposed by this chapter for the 
+     taxable year an amount equal to the sum of the credit amounts 
+     determined under subsection (b) with respect to each new 
+     qualified plug-in electric drive motor vehicle placed in 
+     service by the taxpayer during the taxable year.
+       ``(b) Per Vehicle Dollar Limitation.--
+       ``(1) In general.--The amount determined under this 
+     subsection with respect to any new qualified plug-in electric 
+     drive motor vehicle is the sum of the amounts determined 
+     under paragraphs (2) and (3) with respect to such vehicle.
+       ``(2) Base amount.--The amount determined under this 
+     paragraph is $3,000.
+       ``(3) Battery capacity.--In the case of a vehicle which 
+     draws propulsion energy from a battery with not less than 5 
+     kilowatt hours of capacity, the amount determined under this 
+     paragraph is $200, plus $200 for each kilowatt hour of 
+     capacity in excess of 5 kilowatt hours. The amount determined 
+     under this paragraph shall not exceed $2,000.
+       ``(c) Application With Other Credits.--
+       ``(1) Business credit treated as part of general business 
+     credit.--So much of the credit which would be allowed under 
+     subsection (a) for any taxable year (determined without 
+     regard to this subsection) that is attributable to property 
+     of a character subject to an allowance for depreciation shall 
+     be treated as a credit listed in section 38(b) for such 
+     taxable year (and not allowed under subsection (a)).
+       ``(2) Personal credit.--
+       ``(A) In general.--For purposes of this title, the credit 
+     allowed under subsection (a) for any taxable year (determined 
+     after application of paragraph (1)) shall be treated as a 
+     credit allowable under subpart A for such taxable year.
+       ``(B) Limitation based on amount of tax.--In the case of a 
+     taxable year to which section 26(a)(2) does not apply, the 
+     credit allowed under subsection (a) for any taxable year 
+     (determined after application of paragraph (1)) shall not 
+     exceed the excess of--
+       ``(i) the sum of the regular tax liability (as defined in 
+     section 26(b)) plus the tax imposed by section 55, over
+       ``(ii) the sum of the credits allowable under subpart A 
+     (other than this section and sections 23 and 25D) and section 
+     27 for the taxable year.
+       ``(d) New Qualified Plug-In Electric Drive Motor Vehicle.--
+     For purposes of this section--
+       ``(1) In general.--The term `new qualified plug-in electric 
+     drive motor vehicle' means a motor vehicle (as defined in 
+     section 30(c)(2))--
+       ``(A) the original use of which commences with the 
+     taxpayer,
+       ``(B) which is acquired for use or lease by the taxpayer 
+     and not for resale,
+       ``(C) which is made by a manufacturer,
+       ``(D) which has a gross vehicle weight rating of less than 
+     14,000 pounds,
+       ``(E) which has received a certificate of conformity under 
+     the Clean Air Act and meets or exceeds the Bin 5 Tier II 
+     emission standard established in regulations prescribed by 
+     the Administrator of the Environmental Protection Agency 
+     under section 202(i) of the Clean Air Act for that make and 
+     model year vehicle, and
+       ``(F) which is propelled to a significant extent by an 
+     electric motor which draws electricity from a battery which--
+       ``(i) has a capacity of not less than 4 kilowatt hours, and
+       ``(ii) is capable of being recharged from an external 
+     source of electricity.
+       ``(2) Exception.--The term `new qualified plug-in electric 
+     drive motor vehicle' shall not include any vehicle which is 
+     not a passenger automobile or light truck if such vehicle has 
+     a gross vehicle weight rating of less than 8,500 pounds.
+       ``(3) Other terms.--The terms `passenger automobile', 
+     `light truck', and `manufacturer' have the meanings given 
+     such terms in regulations prescribed by the Administrator of 
+     the Environmental Protection Agency for purposes of the 
+     administration of title II of the Clean Air Act (42 U.S.C. 
+     7521 et seq.).
+       ``(4) Battery capacity.--The term `capacity' means, with 
+     respect to any battery, the quantity of electricity which the 
+     battery is capable of storing, expressed in kilowatt hours, 
+     as measured from a 100 percent state of charge to a 0 percent 
+     state of charge.
+       ``(e) Limitation on Number of New Qualified Plug-In 
+     Electric Drive Motor Vehicles Eligible for Credit.--
+       ``(1) In general.--In the case of a new qualified plug-in 
+     electric drive motor vehicle sold during the phaseout period, 
+     only the applicable percentage of the credit otherwise 
+     allowable under subsection (a) shall be allowed.
+       ``(2) Phaseout period.--For purposes of this subsection, 
+     the phaseout period is the period beginning with the second 
+     calendar
+
+[[Page S7428]]
+
+     quarter following the calendar quarter which includes the 
+     first date on which the number of new qualified plug-in 
+     electric drive motor vehicles manufactured by the 
+     manufacturer of the vehicle referred to in paragraph (1) sold 
+     for use in the United States after the date of the enactment 
+     of this section, is at least 60,000.
+       ``(3) Applicable percentage.--For purposes of paragraph 
+     (1), the applicable percentage is--
+       ``(A) 50 percent for the first 2 calendar quarters of the 
+     phaseout period,
+       ``(B) 25 percent for the 3d and 4th calendar quarters of 
+     the phaseout period, and
+       ``(C) 0 percent for each calendar quarter thereafter.
+       ``(4) Controlled groups.--Rules similar to the rules of 
+     section 30B(f)(4) shall apply for purposes of this 
+     subsection.
+       ``(f) Special Rules.--
+       ``(1) Basis reduction.--The basis of any property for which 
+     a credit is allowable under subsection (a) shall be reduced 
+     by the amount of such credit (determined without regard to 
+     subsection (c)).
+       ``(2) Recapture.--The Secretary shall, by regulations, 
+     provide for recapturing the benefit of any credit allowable 
+     under subsection (a) with respect to any property which 
+     ceases to be property eligible for such credit.
+       ``(3) Property used outside united states, etc., not 
+     qualified.--No credit shall be allowed under subsection (a) 
+     with respect to any property referred to in section 50(b)(1) 
+     or with respect to the portion of the cost of any property 
+     taken into account under section 179.
+       ``(4) Election not to take credit.--No credit shall be 
+     allowed under subsection (a) for any vehicle if the taxpayer 
+     elects to not have this section apply to such vehicle.
+       ``(5) Property used by tax-exempt entity; interaction with 
+     air quality and motor vehicle safety standards.--Rules 
+     similar to the rules of paragraphs (6) and (10) of section 
+     30B(h) shall apply for purposes of this section.''.
+       (b) Coordination With Alternative Motor Vehicle Credit.--
+     Section 30B(d)(3) is amended by adding at the end the 
+     following new subparagraph:
+       ``(D) Exclusion of plug-in vehicles.--Any vehicle with 
+     respect to which a credit is allowable under section 30D 
+     (determined without regard to subsection (c) thereof) shall 
+     not be taken into account under this section.''.
+       (c) Credit Made Part of General Business Credit.--Section 
+     38(b) is amended--
+       (1) by striking ``and'' each place it appears at the end of 
+     any paragraph,
+       (2) by striking ``plus'' each place it appears at the end 
+     of any paragraph,
+       (3) by striking the period at the end of paragraph (32) and 
+     inserting ``, plus'', and
+       (4) by adding at the end the following new paragraph:
+       ``(33) the portion of the new qualified plug-in electric 
+     drive motor vehicle credit to which section 30D(c)(1) 
+     applies.''.
+       (d) Conforming Amendments.--
+       (1)(A) Section 24(b)(3)(B), as amended by section 104, is 
+     amended by striking ``and 25D'' and inserting ``25D, and 
+     30D''.
+       (B) Section 25(e)(1)(C)(ii) is amended by inserting 
+     ``30D,'' after ``25D,''.
+       (C) Section 25B(g)(2), as amended by section 104, is 
+     amended by striking ``and 25D'' and inserting ``, 25D, and 
+     30D''.
+       (D) Section 26(a)(1), as amended by section 104, is amended 
+     by striking ``and 25D'' and inserting ``25D, and 30D''.
+       (E) Section 1400C(d)(2) is amended by striking ``and 25D'' 
+     and inserting ``25D, and 30D''.
+       (2) Section 1016(a) is amended by striking ``and'' at the 
+     end of paragraph (35), by striking the period at the end of 
+     paragraph (36) and inserting ``, and'', and by adding at the 
+     end the following new paragraph:
+       ``(37) to the extent provided in section 30D(f)(1).''.
+       (3) Section 6501(m) is amended by inserting ``30D(f)(4),'' 
+     after ``30C(e)(5),''.
+       (4) The table of sections for subpart B of part IV of 
+     subchapter A of chapter 1 is amended by adding at the end the 
+     following new item:
+
+``Sec. 30D. New qualified plug-in electric drive motor vehicles.''.
+
+       (e) Treatment of Alternative Motor Vehicle Credit as a 
+     Personal Credit.--
+       (1) In general.--Paragraph (2) of section 30B(g) is amended 
+     to read as follows:
+       ``(2) Personal credit.--The credit allowed under subsection 
+     (a) for any taxable year (after application of paragraph (1)) 
+     shall be treated as a credit allowable under subpart A for 
+     such taxable year.''.
+       (2) Conforming amendments.--
+       (A) Subparagraph (A) of section 30C(d)(2) is amended by 
+     striking ``sections 27, 30, and 30B'' and inserting 
+     ``sections 27 and 30''.
+       (B) Paragraph (3) of section 55(c) is amended by striking 
+     ``30B(g)(2),''.
+       (f) Effective Date.--
+       (1) In general.--Except as otherwise provided in this 
+     subsection, the amendments made by this section shall apply 
+     to taxable years beginning after December 31, 2008.
+       (2) Treatment of alternative motor vehicle credit as 
+     personal credit.--The amendments made by subsection (e) shall 
+     apply to taxable years beginning after December 31, 2007.
+       (g) Application of EGTRRA Sunset.--The amendment made by 
+     subsection (d)(1)(A) shall be subject to title IX of the 
+     Economic Growth and Tax Relief Reconciliation Act of 2001 in 
+     the same manner as the provision of such Act to which such 
+     amendment relates.
+
+     SEC. 535. EXCLUSION FROM HEAVY TRUCK TAX FOR IDLING REDUCTION 
+                   UNITS AND ADVANCED INSULATION.
+
+       (a) In General.--Section 4053 is amended by adding at the 
+     end the following new paragraphs:
+       ``(9) Idling reduction device.--Any device or system of 
+     devices which--
+       ``(A) is designed to provide to a vehicle those services 
+     (such as heat, air conditioning, or electricity) that would 
+     otherwise require the operation of the main drive engine 
+     while the vehicle is temporarily parked or remains stationary 
+     using one or more devices affixed to a tractor, and
+       ``(B) is determined by the Administrator of the 
+     Environmental Protection Agency, in consultation with the 
+     Secretary of Energy and the Secretary of Transportation, to 
+     reduce idling of such vehicle at a motor vehicle rest stop or 
+     other location where such vehicles are temporarily parked or 
+     remain stationary.
+       ``(10) Advanced insulation.--Any insulation that has an R 
+     value of not less than R35 per inch.''.
+       (b) Effective Date.--The amendment made by this section 
+     shall apply to sales or installations after the date of the 
+     enactment of this Act.
+
+     SEC. 536. RESTRUCTURING OF NEW YORK LIBERTY ZONE TAX CREDITS.
+
+       (a) In General.--Part I of subchapter Y of chapter 1 is 
+     amended by redesignating section 1400L as section 1400K and 
+     by adding at the end the following new section:
+
+     ``SEC. 1400L. NEW YORK LIBERTY ZONE TAX CREDITS.
+
+       ``(a) In General.--In the case of a New York Liberty Zone 
+     governmental unit, there shall be allowed as a credit against 
+     any taxes imposed for any payroll period by section 3402 for 
+     which such governmental unit is liable under section 3403 an 
+     amount equal to so much of the portion of the qualifying 
+     project expenditure amount allocated under subsection (b)(3) 
+     to such governmental unit for the calendar year as is 
+     allocated by such governmental unit to such period under 
+     subsection (b)(4).
+       ``(b) Qualifying Project Expenditure Amount.--For purposes 
+     of this section--
+       ``(1) In general.--The term `qualifying project expenditure 
+     amount' means, with respect to any calendar year, the sum 
+     of--
+       ``(A) the total expenditures paid or incurred during such 
+     calendar year by all New York Liberty Zone governmental units 
+     and the Port Authority of New York and New Jersey for any 
+     portion of qualifying projects located wholly within the City 
+     of New York, New York, and
+       ``(B) any such expenditures--
+       ``(i) paid or incurred in any preceding calendar year which 
+     begins after the date of enactment of this section, and
+       ``(ii) not previously allocated under paragraph (3).
+       ``(2) Qualifying project.--The term `qualifying project' 
+     means any transportation infrastructure project, including 
+     highways, mass transit systems, railroads, airports, ports, 
+     and waterways, in or connecting with the New York Liberty 
+     Zone (as defined in section 1400K(h)), which is designated as 
+     a qualifying project under this section jointly by the 
+     Governor of the State of New York and the Mayor of the City 
+     of New York, New York.
+       ``(3) General allocation.--
+       ``(A) In general.--The Governor of the State of New York 
+     and the Mayor of the City of New York, New York, shall 
+     jointly allocate to each New York Liberty Zone governmental 
+     unit the portion of the qualifying project expenditure amount 
+     which may be taken into account by such governmental unit 
+     under subsection (a) for any calendar year in the credit 
+     period.
+       ``(B) Aggregate limit.--The aggregate amount which may be 
+     allocated under subparagraph (A) for all calendar years in 
+     the credit period shall not exceed $2,000,000,000.
+       ``(C) Annual limit.--The aggregate amount which may be 
+     allocated under subparagraph (A) for any calendar year in the 
+     credit period shall not exceed the sum of--
+       ``(i) $115,000,000 ($425,000,000 in the case of the last 2 
+     years in the credit period), plus
+       ``(ii) the aggregate amount authorized to be allocated 
+     under this paragraph for all preceding calendar years in the 
+     credit period which was not so allocated.
+       ``(D) Unallocated amounts at end of credit period.--If, as 
+     of the close of the credit period, the amount under 
+     subparagraph (B) exceeds the aggregate amount allocated under 
+     subparagraph (A) for all calendar years in the credit period, 
+     the Governor of the State of New York and the Mayor of the 
+     City of New York, New York, may jointly allocate to New York 
+     Liberty Zone governmental units for any calendar year in the 
+     5-year period following the credit period an amount equal 
+     to--
+       ``(i) the lesser of--
+
+       ``(I) such excess, or
+       ``(II) the qualifying project expenditure amount for such 
+     calendar year, reduced by
+
+       ``(ii) the aggregate amount allocated under this 
+     subparagraph for all preceding calendar years.
+       ``(4) Allocation to payroll periods.--Each New York Liberty 
+     Zone governmental unit which has been allocated a portion of 
+     the qualifying project expenditure amount under paragraph (3) 
+     for a calendar year may allocate such portion to payroll 
+     periods beginning in such calendar year as such governmental 
+     unit determines appropriate.
+       ``(c) Carryover of Unused Allocations.--
+
+[[Page S7429]]
+
+       ``(1) In general.--Except as provided in paragraph (2), if 
+     the amount allocated under subsection (b)(3) to a New York 
+     Liberty Zone governmental unit for any calendar year exceeds 
+     the aggregate taxes imposed by section 3402 for which such 
+     governmental unit is liable under section 3403 for periods 
+     beginning in such year, such excess shall be carried to the 
+     succeeding calendar year and added to the allocation of such 
+     governmental unit for such succeeding calendar year.
+       ``(2) Reallocation.--If a New York Liberty Zone 
+     governmental unit does not use an amount allocated to it 
+     under subsection (b)(3) within the time prescribed by the 
+     Governor of the State of New York and the Mayor of the City 
+     of New York, New York, then such amount shall after such time 
+     be treated for purposes of subsection (b)(3) in the same 
+     manner as if it had never been allocated.
+       ``(d) Definitions and Special Rules.--For purposes of this 
+     section--
+       ``(1) Credit period.--The term `credit period' means the 
+     12-year period beginning on January 1, 2009.
+       ``(2) New york liberty zone governmental unit.--The term 
+     `New York Liberty Zone governmental unit' means--
+       ``(A) the State of New York,
+       ``(B) the City of New York, New York, and
+       ``(C) any agency or instrumentality of such State or City.
+       ``(3) Treatment of funds.--Any expenditure for a qualifying 
+     project taken into account for purposes of the credit under 
+     this section shall be considered State and local funds for 
+     the purpose of any Federal program.
+       ``(4) Treatment of credit amounts for purposes of 
+     withholding taxes.--For purposes of this title, a New York 
+     Liberty Zone governmental unit shall be treated as having 
+     paid to the Secretary, on the day on which wages are paid to 
+     employees, an amount equal to the amount of the credit 
+     allowed to such entity under subsection (a) with respect to 
+     such wages, but only if such governmental unit deducts and 
+     withholds wages for such payroll period under section 3401 
+     (relating to wage withholding).
+       ``(e) Reporting.--The Governor of the State of New York and 
+     the Mayor of the City of New York, New York, shall jointly 
+     submit to the Secretary an annual report--
+       ``(1) which certifies--
+       ``(A) the qualifying project expenditure amount for the 
+     calendar year, and
+       ``(B) the amount allocated to each New York Liberty Zone 
+     governmental unit under subsection (b)(3) for the calendar 
+     year, and
+       ``(2) includes such other information as the Secretary may 
+     require to carry out this section.
+       ``(f) Guidance.--The Secretary may prescribe such guidance 
+     as may be necessary or appropriate to ensure compliance with 
+     the purposes of this section.''.
+       (b) Termination of Special Allowance and Expensing.--
+     Subparagraph (A) of section 1400K(b)(2), as redesignated by 
+     subsection (a), is amended by striking the parenthetical 
+     therein and inserting ``(in the case of nonresidential real 
+     property and residential rental property, the date of the 
+     enactment of the Energy Independence and Tax Relief Act of 
+     2008 or, if acquired pursuant to a binding contract in effect 
+     on such enactment date, December 31, 2009)''.
+       (c) Conforming Amendments.--
+       (1) Section 38(c)(3)(B) is amended by striking ``section 
+     1400L(a)'' and inserting ``section 1400K(a)''.
+       (2) Section 168(k)(2)(D)(ii) is amended by striking 
+     ``section 1400L(c)(2)'' and inserting ``section 
+     1400K(c)(2)''.
+       (3) The table of sections for part I of subchapter Y of 
+     chapter 1 is amended by redesignating the item relating to 
+     section 1400L as an item relating to section 1400K and by 
+     inserting after such item the following new item:
+
+``Sec. 1400L. New York Liberty Zone tax credits.''
+
+     .  (d) Effective Date.--The amendments made by this section 
+     shall take effect on the date of the enactment of this Act.
+
+     SEC. 537. TRANSPORTATION FRINGE BENEFIT TO BICYCLE COMMUTERS.
+
+       (a) In General.--Paragraph (1) of section 132(f) is amended 
+     by adding at the end the following:
+       ``(D) Any qualified bicycle commuting reimbursement.''.
+       (b) Limitation on Exclusion.--Paragraph (2) of section 
+     132(f) is amended by striking ``and'' at the end of 
+     subparagraph (A), by striking the period at the end of 
+     subparagraph (B) and inserting ``, and'', and by adding at 
+     the end the following new subparagraph:
+       ``(C) the applicable annual limitation in the case of any 
+     qualified bicycle commuting reimbursement.''.
+       (c) Definitions.--Paragraph (5) of section 132(f) is 
+     amended by adding at the end the following:
+       ``(F) Definitions related to bicycle commuting 
+     reimbursement.--
+       ``(i) Qualified bicycle commuting reimbursement.--The term 
+     `qualified bicycle commuting reimbursement' means, with 
+     respect to any calendar year, any employer reimbursement 
+     during the 15-month period beginning with the first day of 
+     such calendar year for reasonable expenses incurred by the 
+     employee during such calendar year for the purchase of a 
+     bicycle and bicycle improvements, repair, and storage, if 
+     such bicycle is regularly used for travel between the 
+     employee's residence and place of employment.
+       ``(ii) Applicable annual limitation.--The term `applicable 
+     annual limitation' means, with respect to any employee for 
+     any calendar year, the product of $20 multiplied by the 
+     number of qualified bicycle commuting months during such 
+     year.
+       ``(iii) Qualified bicycle commuting month.--The term 
+     `qualified bicycle commuting month' means, with respect to 
+     any employee, any month during which such employee--
+
+       ``(I) regularly uses the bicycle for a substantial portion 
+     of the travel between the employee's residence and place of 
+     employment, and
+       ``(II) does not receive any benefit described in 
+     subparagraph (A), (B), or (C) of paragraph (1).''.
+
+       (d) Constructive Receipt of Benefit.--Paragraph (4) of 
+     section 132(f) is amended by inserting ``(other than a 
+     qualified bicycle commuting reimbursement)'' after 
+     ``qualified transportation fringe''.
+       (e) Effective Date.--The amendments made by this section 
+     shall apply to taxable years beginning after December 31, 
+     2008.
+
+     SEC. 538. ALTERNATIVE FUEL VEHICLE REFUELING PROPERTY CREDIT.
+
+       (a) Increase in Credit Amount.--Section 30C is amended--
+       (1) by striking ``30 percent'' in subsection (a) and 
+     inserting ``50 percent'', and
+       (2) by striking ``$30,000'' in subsection (b)(1) and 
+     inserting ``$50,000''.
+       (b) Extension of Credit.--Paragraph (2) of section 30C(g) 
+     is amended by striking ``December 31, 2009'' and inserting 
+     ``December 31, 2010''.
+       (c) Effective Date.--The amendments made by this section 
+     shall apply to property placed in service after the date of 
+     the enactment of this Act, in taxable years ending after such 
+     date.
+
+       Subtitle C--Energy Conservation and Efficiency Provisions
+
+     SEC. 541. QUALIFIED ENERGY CONSERVATION BONDS.
+
+       (a) In General.--Subpart I of part IV of subchapter A of 
+     chapter 1, as amended by section 106, is amended by adding at 
+     the end the following new section:
+
+     ``SEC. 54D. QUALIFIED ENERGY CONSERVATION BONDS.
+
+       ``(a) Qualified Energy Conservation Bond.--For purposes of 
+     this subchapter, the term `qualified energy conservation 
+     bond' means any bond issued as part of an issue if--
+       ``(1) 100 percent of the available project proceeds of such 
+     issue are to be used for one or more qualified conservation 
+     purposes,
+       ``(2) the bond is issued by a State or local government, 
+     and
+       ``(3) the issuer designates such bond for purposes of this 
+     section.
+       ``(b) Reduced Credit Amount.--The annual credit determined 
+     under section 54A(b) with respect to any qualified energy 
+     conservation bond shall be 70 percent of the amount so 
+     determined without regard to this subsection.
+       ``(c) Limitation on Amount of Bonds Designated.--The 
+     maximum aggregate face amount of bonds which may be 
+     designated under subsection (a) by any issuer shall not 
+     exceed the limitation amount allocated to such issuer under 
+     subsection (e).
+       ``(d) National Limitation on Amount of Bonds Designated.--
+     There is a national qualified energy conservation bond 
+     limitation of $3,000,000,000.
+       ``(e) Allocations.--
+       ``(1) In general.--The limitation applicable under 
+     subsection (d) shall be allocated by the Secretary among the 
+     States in proportion to the population of the States.
+       ``(2) Allocations to largest local governments.--
+       ``(A) In general.--In the case of any State in which there 
+     is a large local government, each such local government shall 
+     be allocated a portion of such State's allocation which bears 
+     the same ratio to the State's allocation (determined without 
+     regard to this subparagraph) as the population of such large 
+     local government bears to the population of such State.
+       ``(B) Allocation of unused limitation to state.--The amount 
+     allocated under this subsection to a large local government 
+     may be reallocated by such local government to the State in 
+     which such local government is located.
+       ``(C) Large local government.--For purposes of this 
+     section, the term `large local government' means any 
+     municipality or county if such municipality or county has a 
+     population of 100,000 or more.
+       ``(3) Allocation to issuers; restriction on private 
+     activity bonds.--Any allocation under this subsection to a 
+     State or large local government shall be allocated by such 
+     State or large local government to issuers within the State 
+     in a manner that results in not less than 70 percent of the 
+     allocation to such State or large local government being used 
+     to designate bonds which are not private activity bonds.
+       ``(f) Qualified Conservation Purpose.--For purposes of this 
+     section--
+       ``(1) In general.--The term `qualified conservation 
+     purpose' means any of the following:
+       ``(A) Capital expenditures incurred for purposes of--
+       ``(i) reducing energy consumption in publicly-owned 
+     buildings by at least 20 percent,
+       ``(ii) implementing green community programs,
+       ``(iii) rural development involving the production of 
+     electricity from renewable energy resources, or
+
+[[Page S7430]]
+
+       ``(iv) any qualified facility (as determined under section 
+     45(d) without regard to paragraphs (8) and (10) thereof and 
+     without regard to any placed in service date).
+       ``(B) Expenditures with respect to research facilities, and 
+     research grants, to support research in--
+       ``(i) development of cellulosic ethanol or other nonfossil 
+     fuels,
+       ``(ii) technologies for the capture and sequestration of 
+     carbon dioxide produced through the use of fossil fuels,
+       ``(iii) increasing the efficiency of existing technologies 
+     for producing nonfossil fuels,
+       ``(iv) automobile battery technologies and other 
+     technologies to reduce fossil fuel consumption in 
+     transportation, or
+       ``(v) technologies to reduce energy use in buildings.
+       ``(C) Mass commuting facilities and related facilities that 
+     reduce the consumption of energy, including expenditures to 
+     reduce pollution from vehicles used for mass commuting.
+       ``(D) Demonstration projects designed to promote the 
+     commercialization of--
+       ``(i) green building technology,
+       ``(ii) conversion of agricultural waste for use in the 
+     production of fuel or otherwise,
+       ``(iii) advanced battery manufacturing technologies,
+       ``(iv) technologies to reduce peak use of electricity, or
+       ``(v) technologies for the capture and sequestration of 
+     carbon dioxide emitted from combusting fossil fuels in order 
+     to produce electricity.
+       ``(E) Public education campaigns to promote energy 
+     efficiency.
+       ``(2) Special rules for private activity bonds.--For 
+     purposes of this section, in the case of any private activity 
+     bond, the term `qualified conservation purposes' shall not 
+     include any expenditure which is not a capital expenditure.
+       ``(g) Population.--
+       ``(1) In general.--The population of any State or local 
+     government shall be determined for purposes of this section 
+     as provided in section 146(j) for the calendar year which 
+     includes the date of the enactment of this section.
+       ``(2) Special rule for counties.--In determining the 
+     population of any county for purposes of this section, any 
+     population of such county which is taken into account in 
+     determining the population of any municipality which is a 
+     large local government shall not be taken into account in 
+     determining the population of such county.
+       ``(h) Application to Indian Tribal Governments.--An Indian 
+     tribal government shall be treated for purposes of this 
+     section in the same manner as a large local government, 
+     except that--
+       ``(1) an Indian tribal government shall be treated for 
+     purposes of subsection (e) as located within a State to the 
+     extent of so much of the population of such government as 
+     resides within such State, and
+       ``(2) any bond issued by an Indian tribal government shall 
+     be treated as a qualified energy conservation bond only if 
+     issued as part of an issue the available project proceeds of 
+     which are used for purposes for which such Indian tribal 
+     government could issue bonds to which section 103(a) 
+     applies.''.
+       (b) Conforming Amendments.--
+       (1) Paragraph (1) of section 54A(d), as amended by section 
+     106, is amended to read as follows:
+       ``(1) Qualified tax credit bond.--The term `qualified tax 
+     credit bond' means--
+       ``(A) a qualified forestry conservation bond,
+       ``(B) a new clean renewable energy bond, or
+       ``(C) a qualified energy conservation bond,
+     which is part of an issue that meets requirements of 
+     paragraphs (2), (3), (4), (5), and (6).''.
+       (2) Subparagraph (C) of section 54A(d)(2), as amended by 
+     section 106, is amended to read as follows:
+       ``(C) Qualified purpose.--For purposes of this paragraph, 
+     the term `qualified purpose' means--
+       ``(i) in the case of a qualified forestry conservation 
+     bond, a purpose specified in section 54B(e),
+       ``(ii) in the case of a new clean renewable energy bond, a 
+     purpose specified in section 54C(a)(1), and
+       ``(iii) in the case of a qualified energy conservation 
+     bond, a purpose specified in section 54D(a)(1).''.
+       (3) The table of sections for subpart I of part IV of 
+     subchapter A of chapter 1 is amended by adding at the end the 
+     following new item:
+
+``Sec. 54D. Qualified energy conservation bonds.''.
+
+       (c) Effective Date.--The amendments made by this section 
+     shall apply to obligations issued after the date of the 
+     enactment of this Act.
+
+     SEC. 542. CREDIT FOR NONBUSINESS ENERGY PROPERTY.
+
+       (a) Extension of Credit.--Section 25C(g) is amended by 
+     striking ``December 31, 2007'' and inserting ``December 31, 
+     2008''.
+       (b) Qualified Biomass Fuel Property.--
+       (1) In general.--Section 25C(d)(3) is amended--
+       (A) by striking ``and'' at the end of subparagraph (D),
+       (B) by striking the period at the end of subparagraph (E) 
+     and inserting ``, and'', and
+       (C) by adding at the end the following new subparagraph:
+       ``(F) a stove which uses the burning of biomass fuel to 
+     heat a dwelling unit located in the United States and used as 
+     a residence by the taxpayer, or to heat water for use in such 
+     a dwelling unit, and which has a thermal efficiency rating of 
+     at least 75 percent.''.
+       (2) Biomass fuel.--Section 25C(d) is amended by adding at 
+     the end the following new paragraph:
+       ``(6) Biomass fuel.--The term `biomass fuel' means any 
+     plant-derived fuel available on a renewable or recurring 
+     basis, including agricultural crops and trees, wood and wood 
+     waste and residues (including wood pellets), plants 
+     (including aquatic plants), grasses, residues, and fibers.''.
+       (c) Coordination With Credit for Qualified Geothermal Heat 
+     Pump Property Expenditures.--
+       (1) In general.--Paragraph (3) of section 25C(d), as 
+     amended by subsection (b), is amended by striking 
+     subparagraph (C) and by redesignating subparagraphs (D), (E), 
+     and (F) as subparagraphs (C), (D), and (E), respectively.
+       (2) Conforming amendment.--Subparagraph (C) of section 
+     25C(d)(2) is amended to read as follows:
+       ``(C) Requirements and standards for air conditioners and 
+     heat pumps.--The standards and requirements prescribed by the 
+     Secretary under subparagraph (B) with respect to the energy 
+     efficiency ratio (EER) for central air conditioners and 
+     electric heat pumps--
+       ``(i) shall require measurements to be based on published 
+     data which is tested by manufacturers at 95 degrees 
+     Fahrenheit, and
+       ``(ii) may be based on the certified data of the Air 
+     Conditioning and Refrigeration Institute that are prepared in 
+     partnership with the Consortium for Energy Efficiency.''.
+       (d) Modification of Qualified Energy Efficiency 
+     Improvements.--
+       (1) In general.--Paragraph (1) of section 25C(c) is amended 
+     by inserting ``, or an asphalt roof with appropriate cooling 
+     granules,'' before ``which meet the Energy Star program 
+     requirements''.
+       (2) Building envelope component.--Subparagraph (D) of 
+     section 25C(c)(2) is amended--
+       (A) by inserting ``or asphalt roof'' after ``metal roof'', 
+     and
+       (B) by inserting ``or cooling granules'' after ``pigmented 
+     coatings''.
+       (e) Effective Dates.--
+       (1) In general.--Except as provided in paragraph (2), the 
+     amendments made this section shall apply to expenditures made 
+     after December 31, 2007.
+       (2) Modification of qualified energy efficiency 
+     improvements.--The amendments made by subsection (d) shall 
+     apply to property placed in service after the date of the 
+     enactment of this Act.
+
+     SEC. 543. ENERGY EFFICIENT COMMERCIAL BUILDINGS DEDUCTION.
+
+       Subsection (h) of section 179D is amended by striking 
+     ``December 31, 2008'' and inserting ``December 31, 2013''.
+
+     SEC. 544. MODIFICATIONS OF ENERGY EFFICIENT APPLIANCE CREDIT 
+                   FOR APPLIANCES PRODUCED AFTER 2007.
+
+       (a) In General.--Subsection (b) of section 45M is amended 
+     to read as follows:
+       ``(b) Applicable Amount.--For purposes of subsection (a)--
+       ``(1) Dishwashers.--The applicable amount is--
+       ``(A) $45 in the case of a dishwasher which is manufactured 
+     in calendar year 2008 or 2009 and which uses no more than 324 
+     kilowatt hours per year and 5.8 gallons per cycle, and
+       ``(B) $75 in the case of a dishwasher which is manufactured 
+     in calendar year 2008, 2009, or 2010 and which uses no more 
+     than 307 kilowatt hours per year and 5.0 gallons per cycle 
+     (5.5 gallons per cycle for dishwashers designed for greater 
+     than 12 place settings).
+       ``(2) Clothes washers.--The applicable amount is--
+       ``(A) $75 in the case of a residential top-loading clothes 
+     washer manufactured in calendar year 2008 which meets or 
+     exceeds a 1.72 modified energy factor and does not exceed a 
+     8.0 water consumption factor,
+       ``(B) $125 in the case of a residential top-loading clothes 
+     washer manufactured in calendar year 2008 or 2009 which meets 
+     or exceeds a 1.8 modified energy factor and does not exceed a 
+     7.5 water consumption factor,
+       ``(C) $150 in the case of a residential or commercial 
+     clothes washer manufactured in calendar year 2008, 2009, or 
+     2010 which meets or exceeds 2.0 modified energy factor and 
+     does not exceed a 6.0 water consumption factor, and
+       ``(D) $250 in the case of a residential or commercial 
+     clothes washer manufactured in calendar year 2008, 2009, or 
+     2010 which meets or exceeds 2.2 modified energy factor and 
+     does not exceed a 4.5 water consumption factor.
+       ``(3) Refrigerators.--The applicable amount is--
+       ``(A) $50 in the case of a refrigerator which is 
+     manufactured in calendar year 2008, and consumes at least 20 
+     percent but not more than 22.9 percent less kilowatt hours 
+     per year than the 2001 energy conservation standards,
+       ``(B) $75 in the case of a refrigerator which is 
+     manufactured in calendar year 2008 or 2009, and consumes at 
+     least 23 percent but no more than 24.9 percent less kilowatt 
+     hours per year than the 2001 energy conservation standards,
+       ``(C) $100 in the case of a refrigerator which is 
+     manufactured in calendar year 2008, 2009, or 2010, and 
+     consumes at least 25 percent but not more than 29.9 percent 
+     less kilowatt hours per year than the 2001 energy 
+     conservation standards, and
+       ``(D) $200 in the case of a refrigerator manufactured in 
+     calendar year 2008, 2009, or 2010 and which consumes at least 
+     30 percent less
+
+[[Page S7431]]
+
+     energy than the 2001 energy conservation standards.''.
+       (b) Eligible Production.--
+       (1) Similar treatment for all appliances.--Subsection (c) 
+     of section 45M is amended--
+       (A) by striking paragraph (2),
+       (B) by striking ``(1) In general'' and all that follows 
+     through ``the eligible'' and inserting ``The eligible'',
+       (C) by moving the text of such subsection in line with the 
+     subsection heading, and
+       (D) by redesignating subparagraphs (A) and (B) as 
+     paragraphs (1) and (2), respectively, and by moving such 
+     paragraphs 2 ems to the left.
+       (2) Modification of base period.--Paragraph (2) of section 
+     45M(c), as amended by paragraph (1), is amended by striking 
+     ``3-calendar year'' and inserting ``2-calendar year''.
+       (c) Types of Energy Efficient Appliances.--Subsection (d) 
+     of section 45M (defining types of energy efficient 
+     appliances) is amended to read as follows:
+       ``(d) Types of Energy Efficient Appliance.--For purposes of 
+     this section, the types of energy efficient appliances are--
+       ``(1) dishwashers described in subsection (b)(1),
+       ``(2) clothes washers described in subsection (b)(2), and
+       ``(3) refrigerators described in subsection (b)(3).''.
+       (d) Aggregate Credit Amount Allowed.--
+       (1) Increase in limit.--Paragraph (1) of section 45M(e) is 
+     amended to read as follows:
+       ``(1) Aggregate credit amount allowed.--The aggregate 
+     amount of credit allowed under subsection (a) with respect to 
+     a taxpayer for any taxable year shall not exceed $75,000,000 
+     reduced by the amount of the credit allowed under subsection 
+     (a) to the taxpayer (or any predecessor) for all prior 
+     taxable years beginning after December 31, 2007.''.
+       (2) Exception for certain refrigerator and clothes 
+     washers.--Paragraph (2) of section 45M(e) is amended to read 
+     as follows:
+       ``(2) Amount allowed for certain refrigerators and clothes 
+     washers.--Refrigerators described in subsection (b)(3)(D) and 
+     clothes washers described in subsection (b)(2)(D) shall not 
+     be taken into account under paragraph (1).''.
+       (e) Qualified Energy Efficient Appliances.--
+       (1) In general.--Paragraph (1) of section 45M(f) (defining 
+     qualified energy efficient appliance) is amended to read as 
+     follows:
+       ``(1) Qualified energy efficient appliance.--The term 
+     `qualified energy efficient appliance' means--
+       ``(A) any dishwasher described in subsection (b)(1),
+       ``(B) any clothes washer described in subsection (b)(2), 
+     and
+       ``(C) any refrigerator described in subsection (b)(3).''.
+       (2) Clothes washer.--Section 45M(f)(3) is amended by 
+     inserting ``commercial'' before ``residential'' the second 
+     place it appears.
+       (3) Top-loading clothes washer.--Subsection (f) of section 
+     45M is amended by redesignating paragraphs (4), (5), (6), and 
+     (7) as paragraphs (5), (6), (7), and (8), respectively, and 
+     by inserting after paragraph (3) the following new paragraph:
+       ``(4) Top-loading clothes washer.--The term `top-loading 
+     clothes washer' means a clothes washer which has the clothes 
+     container compartment access located on the top of the 
+     machine and which operates on a vertical axis.''.
+       (4) Replacement of energy factor.--Section 45M(f)(6), as 
+     redesignated by paragraph (3), is amended to read as follows:
+       ``(6) Modified energy factor.--The term `modified energy 
+     factor' means the modified energy factor established by the 
+     Department of Energy for compliance with the Federal energy 
+     conservation standard.''.
+       (5) Gallons per cycle; water consumption factor.--Section 
+     45M(f), as amended by paragraph (3), is amended by adding at 
+     the end the following:
+       ``(9) Gallons per cycle.--The term `gallons per cycle' 
+     means, with respect to a dishwasher, the amount of water, 
+     expressed in gallons, required to complete a normal cycle of 
+     a dishwasher.
+       ``(10) Water consumption factor.--The term `water 
+     consumption factor' means, with respect to a clothes washer, 
+     the quotient of the total weighted per-cycle water 
+     consumption divided by the cubic foot (or liter) capacity of 
+     the clothes washer.''.
+       (f) Effective Date.--The amendments made by this section 
+     shall apply to appliances produced after December 31, 2007.
+
+     SEC. 545. ACCELERATED RECOVERY PERIOD FOR DEPRECIATION OF 
+                   SMART METERS AND SMART GRID SYSTEMS.
+
+       (a) In General.--Section 168(e)(3)(D) is amended by 
+     striking ``and'' at the end of clause (i), by striking the 
+     period at the end of clause (ii) and inserting a comma, and 
+     by inserting after clause (ii) the following new clauses:
+       ``(iii) any qualified smart electric meter, and
+       ``(iv) any qualified smart electric grid system.''.
+       (b) Definitions.--Section 168(i) is amended by inserting at 
+     the end the following new paragraph:
+       ``(18) Qualified smart electric meters.--
+       ``(A) In general.--The term `qualified smart electric 
+     meter' means any smart electric meter which is placed in 
+     service by a taxpayer who is a supplier of electric energy or 
+     a provider of electric energy services.
+       ``(B) Smart electric meter.--For purposes of subparagraph 
+     (A), the term `smart electric meter' means any time-based 
+     meter and related communication equipment which is capable of 
+     being used by the taxpayer as part of a system that--
+       ``(i) measures and records electricity usage data on a 
+     time-differentiated basis in at least 24 separate time 
+     segments per day,
+       ``(ii) provides for the exchange of information between 
+     supplier or provider and the customer's electric meter in 
+     support of time-based rates or other forms of demand 
+     response,
+       ``(iii) provides data to such supplier or provider so that 
+     the supplier or provider can provide energy usage information 
+     to customers electronically, and
+       ``(iv) provides net metering.
+       ``(19) Qualified smart electric grid systems.--
+       ``(A) In general.--The term `qualified smart electric grid 
+     system' means any smart grid property used as part of a 
+     system for electric distribution grid communications, 
+     monitoring, and management placed in service by a taxpayer 
+     who is a supplier of electric energy or a provider of 
+     electric energy services.
+       ``(B) Smart grid property.--For the purposes of 
+     subparagraph (A), the term `smart grid property' means 
+     electronics and related equipment that is capable of--
+       ``(i) sensing, collecting, and monitoring data of or from 
+     all portions of a utility's electric distribution grid,
+       ``(ii) providing real-time, two-way communications to 
+     monitor or manage such grid, and
+       ``(iii) providing real time analysis of and event 
+     prediction based upon collected data that can be used to 
+     improve electric distribution system reliability, quality, 
+     and performance.''.
+       (c) Continued Application of 150 Percent Declining Balance 
+     Method.--Paragraph (2) of section 168(b) is amended by 
+     striking ``or'' at the end of subparagraph (B), by 
+     redesignating subparagraph (C) as subparagraph (D), and by 
+     inserting after subparagraph (B) the following new 
+     subparagraph:
+       ``(C) any property (other than property described in 
+     paragraph (3)) which is a qualified smart electric meter or 
+     qualified smart electric grid system, or''.
+       (d) Effective Date.--The amendments made by this section 
+     shall apply to property placed in service after the date of 
+     the enactment of this Act.
+
+     SEC. 546. QUALIFIED GREEN BUILDING AND SUSTAINABLE DESIGN 
+                   PROJECTS.
+
+       (a) In General.--Paragraph (8) of section 142(l) is amended 
+     by striking ``September 30, 2009'' and inserting ``September 
+     30, 2012''.
+       (b) Treatment of Current Refunding Bonds.--Paragraph (9) of 
+     section 142(l) is amended by striking ``October 1, 2009'' and 
+     inserting ``October 1, 2012''.
+       (c) Accountability.--The second sentence of section 701(d) 
+     of the American Jobs Creation Act of 2004 is amended by 
+     striking ``issuance,'' and inserting ``issuance of the last 
+     issue with respect to such project,''.
+
+                Subtitle D--Limitation of Oil Incentives
+
+     SEC. 551. LIMITATION OF DEDUCTION FOR INCOME ATTRIBUTABLE TO 
+                   DOMESTIC PRODUCTION OF OIL, GAS, OR PRIMARY 
+                   PRODUCTS THEREOF.
+
+       (a) Denial of Deduction for Major Integrated Oil Companies 
+     for Income Attributable to Domestic Production of Oil, Gas, 
+     or Primary Products Thereof.--
+       (1) In general.--Subparagraph (B) of section 199(c)(4) 
+     (relating to exceptions) is amended by striking ``or'' at the 
+     end of clause (ii), by striking the period at the end of 
+     clause (iii) and inserting ``, or'', and by inserting after 
+     clause (iii) the following new clause:
+       ``(iv) in the case of any major integrated oil company (as 
+     defined in section 167(h)(5)(B)), the production, refining, 
+     processing, transportation, or distribution of oil, gas, or 
+     any primary product thereof during any taxable year described 
+     in section 167(h)(5)(B).''.
+       (2) Primary product.--Section 199(c)(4)(B) is amended by 
+     adding at the end the following flush sentence:
+     ``For purposes of clause (iv), the term `primary product' has 
+     the same meaning as when used in section 927(a)(2)(C), as in 
+     effect before its repeal.''.
+       (b) Limitation on Oil Related Qualified Production 
+     Activities Income for Taxpayers Other Than Major Integrated 
+     Oil Companies.--
+       (1) In general.--Section 199(d) is amended by redesignating 
+     paragraph (9) as paragraph (10) and by inserting after 
+     paragraph (8) the following new paragraph:
+       ``(9) Special rule for taxpayers with oil related qualified 
+     production activities income.--
+       ``(A) In general.--If a taxpayer (other than a major 
+     integrated oil company (as defined in section 167(h)(5)(B))) 
+     has oil related qualified production activities income for 
+     any taxable year beginning after 2009, the amount of the 
+     deduction under subsection (a) shall be reduced by 3 percent 
+     of the least of--
+       ``(i) the oil related qualified production activities 
+     income of the taxpayer for the taxable year,
+       ``(ii) the qualified production activities income of the 
+     taxpayer for the taxable year, or
+       ``(iii) taxable income (determined without regard to this 
+     section).
+       ``(B) Oil related qualified production activities income.--
+     The term `oil related qualified production activities income'
+
+[[Page S7432]]
+
+     means for any taxable year the qualified production 
+     activities income which is attributable to the production, 
+     refining, processing, transportation, or distribution of oil, 
+     gas, or any primary product thereof during such taxable 
+     year.''.
+       (2) Conforming amendment.--Section 199(d)(2) (relating to 
+     application to individuals) is amended by striking 
+     ``subsection (a)(1)(B)'' and inserting ``subsections 
+     (a)(1)(B) and (d)(9)(A)(iii)''.
+       (c) Effective Date.--The amendments made by this section 
+     shall apply to taxable years beginning after December 31, 
+     2008.
+
+     SEC. 552. CLARIFICATION OF DETERMINATION OF FOREIGN OIL AND 
+                   GAS EXTRACTION INCOME.
+
+       (a) In General.--Paragraph (1) of section 907(c) is amended 
+     by redesignating subparagraph (B) as subparagraph (C), by 
+     striking ``or'' at the end of subparagraph (A), and by 
+     inserting after subparagraph (A) the following new 
+     subparagraph:
+       ``(B) so much of any transportation of such minerals as 
+     occurs before the fair market value event, or''.
+       (b) Fair Market Value Event.--Subsection (c) of section 907 
+     is amended by adding at the end the following new paragraph:
+       ``(6) Fair market value event.--For purposes of this 
+     section, the term `fair market value event' means, with 
+     respect to any mineral, the first point in time at which such 
+     mineral--
+       ``(A) has a fair market value which can be determined on 
+     the basis of a transfer, which is an arm's length 
+     transaction, of such mineral from the taxpayer to a person 
+     who is not related (within the meaning of section 482) to 
+     such taxpayer, or
+       ``(B) is at a location at which the fair market value is 
+     readily ascertainable by reason of transactions among 
+     unrelated third parties with respect to the same mineral 
+     (taking into account source, location, quality, and chemical 
+     composition).''.
+       (c) Special Rule for Certain Petroleum Taxes.--Subsection 
+     (c) of section 907, as amended by subsection (b), is amended 
+     to by adding at the end the following new paragraph:
+       ``(7) Oil and gas taxes.--In the case of any tax imposed by 
+     a foreign country which is limited in its application to 
+     taxpayers engaged in oil or gas activities--
+       ``(A) the term `oil and gas extraction taxes' shall include 
+     such tax,
+       ``(B) the term `foreign oil and gas extraction income' 
+     shall include any taxable income which is taken into account 
+     in determining such tax (or is directly attributable to the 
+     activity to which such tax relates), and
+       ``(C) the term `foreign oil related income' shall not 
+     include any taxable income which is treated as foreign oil 
+     and gas extraction income under subparagraph (B).''.
+       (d) Conforming Amendments.--
+       (1) Subparagraph (C) of section 907(c)(1), as redesignated 
+     by this section, is amended by inserting ``or used by the 
+     taxpayer in the activity described in subparagraph (B)'' 
+     before the period at the end.
+       (2) Subparagraph (B) of section 907(c)(2) is amended to 
+     read as follows:
+       ``(B) so much of the transportation of such minerals or 
+     primary products as is not taken into account under paragraph 
+     (1)(B),''.
+       (e) Effective Date.--The amendments made by this section 
+     shall apply to taxable years beginning after the date of the 
+     enactment of this Act.
+
+                          ____________________
+```
