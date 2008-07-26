@@ -1,0 +1,39 @@
+---
+granule: CRECB-2008-pt12-Pg16591
+date: 2008-07-26
+edition: CRECB
+section: SENATE
+page: 16591
+---
+
+# NATIONAL DAY OF THE AMERICAN COWBOY
+
+```
+                  NATIONAL DAY OF THE AMERICAN COWBOY
+
+  Mr. BARRASSO. Mr. President, I wish to speak on S. Res. 482, a 
+resolution designating July 26, 2008, as ``National Day of the American 
+Cowboy.''
+  The cowboy is the icon of Wyoming, representing our history and way 
+of life. Wyoming's cowboy spirit and western values embodies all 
+aspects of our lives. Independence, courage, family values, and good 
+stewardship of the land are all virtues that every Wyomingite holds 
+dear. The people of Wyoming are proud of our cowboys and cowgirls. They 
+carry on our strong traditions and western values.
+  The National Day of the American Cowboy also holds a special place in 
+Wyoming's heart as we remember our dear friend, Senator Craig Thomas. 
+As many know, this day of recognition initially came about through the 
+efforts of Senator Thomas.
+  Senator Thomas was a genuine cowboy. He led by example instead of 
+seeking the spotlight. He was a dedicated public servant, a powerful 
+leader, and a straight shooter. He was a loyal family man. He was a 
+beloved role model. All who knew Senator Thomas will remember the 
+humble cowboy who was unwavering in his dedication to God, Wyoming, and 
+his country.
+  Senator Mike Enzi and I have continued this effort to honor our 
+American cowboys and cowgirls across the country. I am pleased that the 
+Senate agreed to the resolution. I look forward to celebrating this 
+special day with Wyoming.
+
+                          ____________________
+```
