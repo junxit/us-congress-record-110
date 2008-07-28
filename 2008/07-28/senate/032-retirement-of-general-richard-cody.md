@@ -1,0 +1,55 @@
+---
+granule: CRECB-2008-pt12-Pg16638
+date: 2008-07-28
+edition: CRECB
+section: SENATE
+page: 16638
+---
+
+# RETIREMENT OF GENERAL RICHARD CODY
+
+```
+                   RETIREMENT OF GENERAL RICHARD CODY
+
+● Mr. STEVENS. Mr. President, after 36 years of service to our 
+Nation, GEN Dick Cody will conclude his military career on August 1. I 
+salute his leadership and honor his lovely wife Vicki, for her 
+invaluable support of her husband and our soldiers.
+  Dick Cody began his service more than 40 years ago, leaving his 
+family's car dealership in Vermont and reporting to West Point.
+  He has served our Nation on battlefields and bases around the world, 
+commanding our soldiers, including the famed Screaming Eagles of our 
+101st Airborne Division.
+  General Cody's service as operations officer and later vice chief of 
+staff, reminds me of GEN George C. Marshall's service as our Army's 
+Chief of Staff during World War II. Marshall noted that before the war, 
+he had ``time'' to prepare the Army, but ``no money.''
+  After France fell to the Nazis, Marshall said he had ``money, but no 
+time.'' Dick Cody faced similar circumstances and deserves our 
+gratitude for preparing our soldiers to fight the war against 
+terrorism.
+  Our Army entered this war with significant equipment shortages. Our 
+forces were organized to fight the Cold War rather than the vastly 
+different global war on terror.
+  Since September 11, 2001, with funds provided by Congress, Cody has 
+directed the fielding of 94 new Army equipment programs worth over $100 
+billion. He orchestrated the Army's largest restationing and 
+construction program in 70 years. He directed the most sweeping 
+transformation of our Army since the dawn of mechanized warfare.
+  He oversaw the conversion of our Reserve components to a critical 
+part of our operational forces, and supervised the addition of 65,000 
+new soldiers to our forces. He has also been instrumental in ensuring 
+our wounded soldiers receive the treatment and care which they deserve.
+  Vicki Cody supported her husband, and his soldiers, throughout their 
+33 years of marriage. She cared for our military families during 
+training missions and deployments, often while her own husband was 
+serving far from his family.
+  Dick and Vicki raised two sons, Clint and Tyler, both U.S. Army 
+captains, with six combat deployments between them. When young Dick 
+Cody left Vermont, and Cody Chevrolet, he truly started a new ``family 
+business.''
+  Our Nation is grateful for his leadership, and we wish him and Vicki 
+all the best as they begin a new chapter of their lives.●
+
+                          ____________________
+```
