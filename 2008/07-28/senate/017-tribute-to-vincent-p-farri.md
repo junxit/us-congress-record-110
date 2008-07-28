@@ -1,0 +1,63 @@
+---
+granule: CREC-2008-07-28-pt1-PgS7564-2
+date: 2008-07-28
+edition: CREC
+section: SENATE
+page: S7564
+citation: 154 Cong. Rec. S7564
+---
+
+# TRIBUTE TO VINCENT P. FARRI
+
+**Speaking:** Byrd, Robert C. (B001210) [D-WV]
+
+```
+                      TRIBUTE TO VINCENT P. FARRI
+
+  Mr. BYRD. Mr. President, I wish to commend Mr. Vincent P. Farri on 
+his promotion to Lieutenant with the United States Capitol Police. Mr. 
+Farri, a native of Maryland, joined the Capitol Police on January 31, 
+1989. After initial training at the Federal Law Enforcement Training 
+Center he worked with the Capitol Division Building Patrol, and 
+performed general duties until 1993. In 1993, Mr. Farri was assigned to 
+the uniform protective detail for the President pro tempore of the 
+Senate. I came to know Mr. Farri during this time and observed that on 
+a daily basis he executed his duties in a highly professional, diligent 
+and courteous manner.
+  In 1998, Mr. Farri served as a senior patrol officer in the Capitol 
+Building, and occasionally worked as an acting sergeant, making rounds 
+and supporting officers at their posts. While performing in this 
+capacity, Vincent Farri distinguished himself on July 24, 1998. On that 
+fateful day, an armed assailant entered the Capitol and suddenly took 
+the lives of two Capitol Policemen. Officer Farri, hearing shots from 
+the floor above, immediately ran to the scene where he came upon the 
+fallen officers, and assisted in apprehending the gunman. All those who 
+work in and visit the Capitol owe deep gratitude to the police men and 
+women who serve and protect us, and we are especially grateful for the 
+service rendered by Vincent and the sacrifice of his fellow officers on 
+that day.
+  In September, 1998, Mr. Farri was promoted to the rank of Sergeant 
+and worked with the First Responder Unit of the Capitol Division for 
+approximately 10 years. His collateral duties
+
+[[Page S7565]]
+
+included training junior officers and serving with the Capitol Police 
+Alert Team. In connection with his promotion to Lieutenant, Mr. Farri 
+has been assigned to the Capitol Police Command Center. In this 
+position, he provides guidance to officers in the field and serves as a 
+liaison between the offices of the Chief of the Capitol Police and the 
+Sergeants at Arms of the House and the Senate.
+  In 1946, during a lecture at the University of Chicago, Senator J. 
+William Fulbright stated, ``The legislator is an indispensable guardian 
+of our freedom.'' I believe all Senators will agree that the U.S. 
+Capitol Police are indispensable guardians of all who serve in and work 
+for the United States Congress. Mr. Farri's 19 years of service have 
+been an important part of that protection. I sincerely congratulate 
+Lieutenant Vincent Farri on his promotion and assignment, and further 
+extend my congratulations and warm wishes to Christina, his wife of 15 
+years, his two sons, Richard, age 11, and Paul, age 7, as well as to 
+all of Vincent's family, including his dear mother, Mrs. Dorothy Farri.
+
+                          ____________________
+```
