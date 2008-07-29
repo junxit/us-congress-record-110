@@ -1,0 +1,36 @@
+---
+granule: CRECB-2008-pt12-Pg16787-5
+date: 2008-07-29
+edition: CRECB
+section: HOUSE
+page: 16787
+---
+
+# TERRORIST BOMBINGS
+
+```
+                           TERRORIST BOMBINGS
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Mr. Speaker, over the weekend the world 
+was reminded that we face a global war on terrorism. Terrorists 
+murdered or maimed hundreds of innocent civilians in India, Turkey, and 
+most recently, yesterday in Iraq. These attacks, which numbered well 
+over a dozen, are a stark reminder of the hideous nature of the enemy, 
+who have declared war on modern civilization.
+  The groups responsible for these attacks are not always the same 
+people. However, their motives in disrupting peace and prosperity and 
+taking the lives of innocent individuals are the same as those who seek 
+to kill American families. That is why we must stand together with our 
+allies against such heinous attacks.
+  I want to express my deepest sympathies to the people of India, 
+Turkey, and Iraq. If we are to defeat those who will murder innocent 
+civilians and destroy the prosperity of free Nations, then we must work 
+together. Despite their best efforts, our enemy's brazen disregard for 
+innocent life will only strengthen our resolve.
+  In conclusion, God bless our troops, and we will never forget 
+September the 11th.
+
+                          ____________________
+```
