@@ -1,0 +1,49 @@
+---
+granule: CREC-2008-07-29-pt1-PgE1584-3
+date: 2008-07-29
+edition: CREC
+section: EXTENSIONS
+page: E1584
+citation: 154 Cong. Rec. E1584
+---
+
+# TRIBUTE TO ALLAN ATKINSON
+
+**Speaking:** Latham, Tom (L000111) [R-IA]
+
+```
+                       TRIBUTE TO ALLAN ATKINSON
+
+                                 ______
+                                 
+
+                            HON. TOM LATHAM
+
+                                of iowa
+
+                    in the house of representatives
+
+                         Tuesday, July 29, 2008
+
+  Mr. LATHAM. Madam Speaker, I rise to recognize the retirement of 
+Chief Administrative Officer of Winneshiek Medical Center, Allan 
+Atkinson, and to express my appreciation for his dedication and 
+commitment to the medical center and Northeast Iowa.
+   For 25 years, Allan has worked in healthcare administration, 
+spending the last ten years at Winneshiek Medical Center in Decorah, 
+Iowa. His long-term vision and teamwork approach has helped WMC grow 
+and improve tremendously by offering an expanded range of services, 
+experiencing a five-fold patient increase, and undertaking a $17 
+million expansion and renovation project.
+   With his many years of experience in healthcare administration, 
+Allan brought valuable knowledge and ideas to the table and credits the 
+hospital's Board of Trustees for being such a great team. Their group 
+effort has generated more quality healthcare options to Northeast Iowa, 
+and I offer Allan and the Board my utmost congratulations and thanks.
+   I know that my colleagues in the United States Congress join me in 
+commending Allan Atkinson for his service to WMC and Northeast Iowa. I 
+consider it an honor to represent Allan in Congress, and I wish him a 
+long, happy and healthy retirement.
+
+                          ____________________
+```

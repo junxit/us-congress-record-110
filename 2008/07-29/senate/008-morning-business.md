@@ -1,0 +1,32 @@
+---
+granule: CREC-2008-07-29-pt1-PgS7579-7
+date: 2008-07-29
+edition: CREC
+section: SENATE
+page: S7579
+citation: 154 Cong. Rec. S7579
+---
+
+# MORNING BUSINESS
+
+**Speaking:** Alexander, Lamar (A000360) [R-TN]
+
+```
+                            MORNING BUSINESS
+
+  The ACTING PRESIDENT pro tempore. Under the previous order, there 
+will now be a period of morning business until 12:30 p.m., with 
+Senators permitted to speak for up to 10 minutes each, with the 
+Republicans controlling the first 30 minutes and the majority 
+controlling the next 30 minutes.
+  Who yields time?
+  The Senator from Tennessee is recognized.
+  Mr. ALEXANDER. Mr. President, I ask unanimous consent that my 
+colleagues and I be allowed to speak in a colloquy in the 30 minutes we 
+have been allocated.
+  The ACTING PRESIDENT pro tempore. Without objection, it is so 
+ordered.
+  Mr. ALEXANDER. I thank the Presiding Officer.
+
+                          ____________________
+```

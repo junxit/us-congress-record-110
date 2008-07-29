@@ -1,0 +1,41 @@
+---
+granule: CREC-2008-07-29-pt1-PgH7172-7
+date: 2008-07-29
+edition: CREC
+section: HOUSE
+page: H7172
+citation: 154 Cong. Rec. H7172
+---
+
+# WAR PROFITEERS
+
+**Speaking:** Poe, Ted (P000592) [R-TX]
+
+```
+                             WAR PROFITEERS
+
+  (Mr. POE asked and was given permission to address the House for 1 
+minute.)
+  Mr. POE. Mr. Speaker, I bring you news from Iraq and the war 
+profiteers that make money off this war.
+  According to the Inspector General for Iraq Reconstruction and as 
+reported by the Washington Post, a California contractor ``was paid 
+$142 million to build prisons, fire and police stations that were never 
+built or finished.''
+  The Inspector General states, ``Millions of dollars in waste are 
+associated with incomplete, terminated and abandoned projects.''
+  The biggest fiasco was an incomplete prison that was so poorly 
+constructed that the floors are collapsing. This facility is totally 
+useless to the United States and Iraqi governments.
+  Mr. Speaker, it seems to me this is yet another example of 
+incompetence, waste, and possible fraud against America.
+  If crimes have been committed, the Justice Department needs to 
+prosecute anyone that steals money from America during this time of 
+war, because the long arm of American law even reaches crooked 
+contractors in Iraq.
+  And where shall we send these people? To the well-built Guantanamo 
+Bay Prison where we house war criminals.
+  And that's just the way it is.
+
+                          ____________________
+```
