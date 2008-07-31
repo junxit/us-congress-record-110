@@ -1,0 +1,44 @@
+---
+granule: CREC-2008-07-31-pt1-PgH7634-6
+date: 2008-07-31
+edition: CREC
+section: HOUSE
+page: H7634
+citation: 154 Cong. Rec. H7634
+---
+
+# LET'S VOTE ON AMERICAN ENERGY ACT
+
+**Speaking:** Fallin, Mary (F000453) [R-OK]
+
+```
+                              {time}  1015
+                   LET'S VOTE ON AMERICAN ENERGY ACT
+
+  (Ms. FALLIN asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. FALLIN. Mr. Speaker, in just 2 weeks, children from all across 
+America and in my district will be starting back to school. All over 
+America, school officials are struggling with the rising costs of fuel. 
+They have to run their buses twice a day for the next 9 months. And in 
+some States, they're already talking about cutting back on bus routes. 
+They're already talking about forcing some children to have to walk to 
+school, and even going to four-day-a-week school classes. That's just 
+not inconvenient for our families and our children, but it's flat-out 
+dangerous for our children, especially our young ones.
+  Day after day, we wait for this House and the Democratic leadership 
+to allow
+
+[[Page H7635]]
+
+us a vote on expanded energy resources, whether it is drilling, whether 
+it is alternative resources--wind, solar, nuclear, refinery capacity, 
+and day after day they say no.
+  In just a few weeks, our children, who have been riding buses safely, 
+are now going to have to alter the way they get to school.
+  Mr. Speaker, time is up. It's time for us to vote on the American 
+Energy Act. Let's vote on it today. Let's vote on it before we go on 
+our August break. Let's give the American people relief on gas prices.
+
+                          ____________________
+```
