@@ -1,0 +1,37 @@
+---
+granule: CRECB-2008-pt13-Pg17882-3
+date: 2008-08-01
+edition: CRECB
+section: HOUSE
+page: 17882
+---
+
+# AMERICANS DEMAND ENERGY PLAN
+
+```
+                      AMERICANS DEMAND ENERGY PLAN
+
+  (Mr. DAVID DAVIS of Tennessee asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. DAVID DAVIS of Tennessee. Madam Speaker, we need an American 
+energy plan and we need it now. The American people are hurting. Young 
+families are hurting. Senior adults are hurting. Small businesses are 
+hurting. Vern, from Jefferson County, Tennessee, is hurting.
+  Vern is an Iraqi war veteran. Vern has to drive from Jefferson County 
+in Tennessee all the way into Knoxville. It's costing him over $90 a 
+week to drive to work. He makes $8 an hour. He's trying to become an 
+electrical apprentice.
+  Vern told me he may have to go on welfare. Vern has a young family. 
+Vern is an Iraqi war yet. Vern wants to do what's right by his family. 
+He has already done what's right by America. This Congress needs to do 
+what's right for Vern and other young families in America, senior 
+adults in America, small businesses in America.
+  We don't need any more excuses. We need to vote on meaningful energy 
+legislation. We need to do it now. We don't need to go home, we need to 
+take votes. I'm willing to stay here today and vote. We voted this 
+week. We had time to vote to go home. We ought to have time to vote to 
+bring down gas prices at the pump. The American people demand it, they 
+demand it now.
+
+                          ____________________
+```
