@@ -1,0 +1,81 @@
+---
+granule: CREC-2008-09-09-pt1-PgS8177-2
+date: 2008-09-09
+edition: CREC
+section: SENATE
+page: S8177
+citation: 154 Cong. Rec. S8177
+---
+
+# A TRIBUTE TO CAPTAIN ED W. FREEMAN
+
+**Speaking:** Crapo, Mike (C000880) [R-ID]
+
+```
+                   A TRIBUTE TO CAPTAIN ED W. FREEMAN
+
+● Mr. CRAPO. Mr. President, on August 20, America lost one of 
+her bravest heroes, and I am honored to say he was an Idahoan. Ed ``Too 
+Tall'' W. Freeman, U.S. Army, retired, was awarded the Congressional 
+Medal of Honor for actions undertaken during the battle of Ia Drang in 
+Vietnam in November, 1965. Recounted in the book by Joseph Galloway, 
+``We Were Soldiers Once . . . And Young,'' Ed's bravery became legend. 
+American forces were heavily engaged with North Vietnamese soldiers and 
+the medical evacuation helicopters refused to fly into the battle zone 
+to retrieve soldiers--it was deemed too dangerous. The infantry 
+commander asked for volunteers, and young Captain Freeman, followed by 
+LTC Bruce Crandall, stepped forward and offered to fly, unarmed, to the 
+battlefield to bring supplies and carry out the wounded. Ed flew 14 
+separate missions and his actions, literally under fire, saved life and 
+limb of 30 soldiers--all in a landing zone that was within 100 to 200 
+meters of the defense perimeter set up to engage the North Vietnamese 
+Army at close range. Many of us have been to the Vietnam Wall--that 
+tragic list is dozens of names shorter for Ed's extraordinary valor. 
+Imagine the children and grandchildren that are here today because he 
+saved the life of their father or grandfather. Incidentally, Ed himself 
+had two young boys--preschool and elementary school-aged at the time.
+  When he retired from the Army in 1966, Ed continued flying 
+helicopters, this time for the U.S. Department of the Interior, 
+conducting animal censes, herding horses and fighting fires. In 2001, 
+Ed was presented the Congressional Medal of Honor by President George 
+W. Bush for his actions during the Battle of Ia Drang.
+  Ed was laid to rest in the Idaho State Veteran's Cemetery, a 
+beautiful place that overlooks a vista bounded to the south by the 
+Snake River Valley and distant mountains, to the east and west by a 
+vast expanse of open sky, and behind to the north, by foothills rising 
+to meet their less-weathered relatives. The wind blows with reassuring 
+regularity, and it seems that in this western meeting place of land and 
+sky, at once comfortingly familiar and awe-inspiring, it is indeed an 
+appropriate place for Ed.
+  In a tribute written upon Ed's death, author, former war 
+correspondent and friend Joseph Galloway said:
+
+       Too Tall Ed was 80 years old when he died in a hospital in 
+     Boise, Idaho, after long being ill with Parkinson's disease. 
+     He turned down a full dress hero's funeral in Arlington 
+     National Cemetery in favor of a hometown service and burial . 
+     . . close to the rivers he loved to fish and the mountains he 
+     flew through in his second career flying for the U.S. Forest 
+     Service . . . Now Too Tall Ed Freeman, a much larger than 
+     life-size hero . . . and a much better friend than we 
+     deserved, is gone, and we are left with too large a hole in 
+     our hearts and in our dwindling ranks.
+
+  When Ed spoke to a reporter in Idaho back in 2000, he recounted those 
+14 harrowing hours. He said, ``That Huey helicopter was my tool, and I 
+was trained to use it. It was capable of flying into that hell hole, 
+and I was capable of making it do that.'' When asked if he was afraid 
+he said he ate ``franks and beans'' and chain-smoked. ``God knows how 
+many I smoked. Till I had a blister on my tongue.'' When asked about 
+why he volunteered for this dangerous duty, he said: ``You don't think, 
+`I'm going to go out and win the Medal of Honor.' You're going to win a 
+body bag if you're not real lucky.''
+  And, in a testament to Ed's humble nature, his comment on his heroism 
+was simply: ``I did think I possibly did a little more than was 
+required of me. But again, I had a job to do.''
+  It is a tremendous honor for me to pay tribute to Ed W. Freeman, and 
+my condolences go to his wife Barbara, his sons, and their families at 
+this difficult time.●
+
+                          ____________________
+```

@@ -1,0 +1,167 @@
+---
+granule: CREC-2008-09-09-pt1-PgS8213
+date: 2008-09-09
+edition: CREC
+section: SENATE
+page: S8213
+citation: 154 Cong. Rec. S8213
+---
+
+# Text of Senate Amendment 5329
+
+**Speaking:** Cornyn, John (C001056) [R-TX]
+
+```
+  SA 5329. Mr. CORNYN submitted an amendment intended to be proposed by 
+him to the bill S. 3001, to authorize appropriations for fiscal year 
+2009 for military activities of the Department of Defense, for military 
+construction, and for defense activities of the Department of Energy, 
+to prescribe military personnel strengths for such fiscal year, and for 
+other purposes; which was ordered to lie on the table; as follows:
+
+       At the end of subtitle G of title V, add the following:
+
+     SEC. 587. PROCEDURES FOR COLLECTION AND DELIVERY OF MARKED 
+                   ABSENTEE BALLOTS OF ABSENT OVERSEAS UNIFORMED 
+                   SERVICES VOTERS.
+
+       (a) In General.--The Uniformed and Overseas Citizens 
+     Absentee Voting Act (42 U.S.C. 1973ff et seq.) is amended by 
+     inserting after section 103 the following new section:
+
+     ``SEC. 103A. PROCEDURES FOR COLLECTION AND DELIVERY OF MARKED 
+                   ABSENTEE BALLOTS OF ABSENT OVERSEAS UNIFORMED 
+                   SERVICES VOTERS.
+
+       ``(a) Collection.--The Presidential designee shall 
+     establish procedures for collecting marked absentee ballots 
+     of absent overseas uniformed services voters in regularly 
+     scheduled general elections for Federal office, including 
+     absentee ballots prepared by States and Federal write-in 
+     absentee ballots prescribed under section 103, and for 
+     delivering the ballots to the appropriate election officials.
+       ``(b) Ensuring Delivery Prior to Closing of Polls.--
+       ``(1) In general.--Under the procedures established under 
+     this section, the Presidential designee shall ensure that any 
+     marked absentee ballot for a regularly scheduled general 
+     election for Federal office which is collected prior to the 
+     deadline described in paragraph (3) is delivered to the 
+     appropriate election official in a State prior to the time 
+     established by the State for the closing of the polls on the 
+     date of the election.
+       ``(2) Contract with express mail providers.--
+       ``(A) In general.--The Presidential designee shall carry 
+     out this section by contract with one or more providers of 
+     express mail services.
+       ``(B) Special rule for voters in jurisdictions using post 
+     office boxes for collection of marked absentee ballots.--In 
+     the case of an absent uniformed services voter who wishes to 
+     use the procedures established under this section and whose 
+     marked absentee ballot is required by the appropriate 
+     election official to be delivered to a post office box, the 
+     Presidential designee shall enter into an agreement with the 
+     United States Postal Service for the delivery of the ballot 
+     to the election official under the procedures established 
+     under this section.
+       ``(3) Deadline described.--
+       ``(A) In general.--Except as provided in subparagraph (B), 
+     the deadline described in this paragraph is noon (in the 
+     location in which the ballot is collected) on the last Friday 
+     that precedes the date of the election.
+       ``(B) Authority to establish alternative deadline for 
+     certain locations.--If the Presidential designee determines 
+     that the deadline described in subparagraph (A) is not 
+     sufficient to ensure timely delivery of the ballot under 
+     paragraph (1) with respect to a particular location because 
+     of remoteness or other factors, the Presidential designee may 
+     establish as an alternative deadline for that location the 
+     latest date occurring prior to the deadline described in 
+     subparagraph (A) which is sufficient to ensure timely 
+     delivery of the ballot under paragraph (1).
+       ``(4) Prohibition on refusal by states to accept marked 
+     absentee ballots not delivered by postal service or in 
+     person.--A State may not refuse to accept or process any 
+     marked absentee ballot delivered under the procedures 
+     established under this section on the grounds that the ballot 
+     is received by the State other than through delivery by the 
+     United States Postal Service.
+       ``(c) Tracking Mechanism.--Under the procedures established 
+     under this section, the entity responsible for delivering 
+     marked absentee ballots to the appropriate election officials 
+     shall implement procedures to enable any individual whose 
+     ballot for a regularly scheduled general election for Federal 
+     office is collected by the Presidential designee to determine 
+     whether the ballot has been delivered to the appropriate 
+     election official, using the Internet, an automated telephone 
+     system, or such other methods as the entity may provide.
+       ``(d) Absent Overseas Uniformed Services Voter Defined.--In 
+     this section, the term `absent overseas uniformed services 
+     voter' means an overseas voter described in section 
+     107(5)(A).
+       ``(e) Authorization of Appropriations.--There are 
+     authorized to be appropriated to the Presidential designee 
+     such sums as may be necessary to carry out this section.
+       ``(f) Effective Date.--This section shall apply with 
+     respect to the regularly scheduled general election for 
+     Federal office held in November 2008 and each succeeding 
+     election for Federal office.''.
+       (b) Conforming Amendments.--
+       (1) Federal responsibilities.--Section 101(b) of such Act 
+     (42 U.S.C. 1973ff(b)) is amended--
+       (A) by striking ``and'' at the end of paragraph (6);
+       (B) by striking the period at the end of paragraph (7) and 
+     inserting ``; and''; and
+       (C) by adding at the end the following new paragraph:
+       ``(8) carry out section 103A with respect to the collection 
+     and delivery of marked absentee ballots of absent overseas 
+     uniformed services voters in elections for Federal office.''.
+       (2) State responsibilities.--Section 102(a) of such Act (42 
+     U.S.C. 1973ff--1(a)) is amended--
+       (A) by striking ``and'' at the end of paragraph (4);
+       (B) by striking the period at the end of paragraph (5) and 
+     inserting ``; and''; and
+       (C) by adding at the end the following new paragraph:
+       ``(6) carry out section 103A(b)(2) with respect to the 
+     processing and acceptance of marked absentee ballots of 
+     absent overseas uniformed services voters.''.
+       (c) Outreach for Absent Overseas Uniformed Services Voters 
+     on Procedures.--The Presidential designee shall take 
+     appropriate actions to inform individuals who are anticipated 
+     to be absent overseas uniformed services voters in the 
+     regularly scheduled general election for Federal office held 
+     in
+
+[[Page S8214]]
+
+     November 2008 of the procedures for the collection and 
+     delivery of marked absentee ballots established pursuant to 
+     section 103A of the Uniformed and Overseas Citizens Absentee 
+     Voting Act, as added by subsection (a), including the manner 
+     in which such voters may utilize such procedures for the 
+     submittal of marked absentee ballots in regularly scheduled 
+     elections for Federal office.
+       (d) Reports on Utilization of Procedures.--
+       (1) Reports required.--Not later than 180 days after each 
+     regularly scheduled general election for Federal office held 
+     after January 1, 2008, the Presidential designee shall submit 
+     to the congressional defense committees a report on the 
+     utilization of the procedures for the collection and delivery 
+     of marked absentee ballots established pursuant to section 
+     103A of the Uniformed and Overseas Citizens Absentee Voting 
+     Act, as so added, during such general election.
+       (2) Elements.--Each report under paragraph (1) shall 
+     include, for the general election covered by such report, a 
+     description of the utilization of the procedures described in 
+     that paragraph during such general election, including the 
+     number of marked absentee ballots collected and delivered 
+     under such procedures.
+       (e) Definitions.--In this section:
+       (1) The term ``absent overseas uniformed services voter'' 
+     has the meaning given that term in section 103A(d) of the 
+     Uniformed and Overseas Citizens Absentee Voting Act, as added 
+     by subsection (a).
+       (2) The term ``Presidential designee'' means the official 
+     designated under section 101(a) of the Uniformed and Overseas 
+     Citizens Absentee Voting Act (42 U.S.C. 1973ff(a)).
+                                 ______
+```

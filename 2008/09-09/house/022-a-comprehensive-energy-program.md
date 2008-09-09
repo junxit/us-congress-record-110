@@ -1,0 +1,41 @@
+---
+granule: CREC-2008-09-09-pt1-PgH7862-6
+date: 2008-09-09
+edition: CREC
+section: HOUSE
+page: H7862
+citation: 154 Cong. Rec. H7862
+---
+
+# A COMPREHENSIVE ENERGY PROGRAM
+
+**Speaking:** Wilson, Charles A. (W000801) [D-OH]
+
+```
+                     A COMPREHENSIVE ENERGY PROGRAM
+
+  (Mr. WILSON of Ohio asked and was given permission to address the 
+House for 1 minute.)
+  Mr. WILSON of Ohio. Mr. Speaker, for far too long our country has 
+suffered from the effects of this administration's lack of an energy 
+plan.
+  This New Direction Congress has worked hard to set new standards for 
+energy efficiency and independence. We enacted into law the first new 
+vehicle efficiency standards in 32 years. These standards will actually 
+save the average family $1,000 a year.
+  We created a diverse portfolio of alternative fuel standards that, 
+when combined with traditional energy sources, puts us on the right 
+track to becoming less dependent on foreign oil. And we helped lower 
+prices at the pump by pressuring the administration to suspend the 
+deposit into the government reserve.
+  With these efforts we have made important steps. Much more needs to 
+be done. We must come up with a more responsible energy policy that 
+will provide relief for working families.
+  I believe that the solution to this problem requires Congress to 
+focus on the Nation's efforts of encouraging innovation, while still 
+using the abundant resources we have, like coal. I look forward to 
+working on a comprehensive energy program this week and to make real 
+progress for our Nation.
+
+                          ____________________
+```

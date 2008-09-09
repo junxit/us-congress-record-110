@@ -1,0 +1,53 @@
+---
+granule: CREC-2008-09-09-pt1-PgS8177
+date: 2008-09-09
+edition: CREC
+section: SENATE
+page: S8177
+citation: 154 Cong. Rec. S8177
+---
+
+# REMEMBERING MATT GARCIA
+
+**Speaking:** Boxer, Barbara (B000711) [D-CA], Feinstein, Dianne (F000062) [D-CA]
+
+```
+                        REMEMBERING MATT GARCIA
+
+● Mrs. BOXER. Mr. President, it is with a heavy heart that my 
+friend Senator Dianne Feinstein and I ask our colleagues to join us 
+today in honoring the memory of an extraordinary young man, Fairfield 
+City councilmember Matt Garcia. Matt, a dedicated public servant, was 
+shot in a senseless act of violence on the evening of Monday, September 
+1, 2008. Matt passed away on Friday, September 5, 2008. He was 22 years 
+old.
+  In November 2007, Matt was elected to a 4-year term on the city 
+council of Fairfield, CA. Just 21 years old when he was elected, Matt 
+was the youngest councilman in Fairfield City history and one of the 
+youngest elected officials in the State of California. With a deep 
+sense of civic pride, Matt worked tirelessly to address Fairfield's 
+crime rate and to develop effective gang prevention programs. In his 
+short time on the council, Matt served with distinction and passion, 
+earning the respect of both his colleagues on the council and the youth 
+of his beloved city.
+  Mrs. FEINSTEIN. Long before being elected to the Fairfield City 
+Council, Matt Garcia's ambition and dedication inspired his community 
+to be better and to do better. Since the 6th grade, friends remember 
+Matt telling them that one day he would become the mayor of his 
+hometown of Fairfield. Matt attended Armijo High School, where he 
+served as vice president of his senior class and was selected as both 
+prom king and homecoming king.
+  Matt Garcia was a driven young leader who cared for his community 
+deeply, and will be remembered by friends and colleagues as honest, 
+passionate, and full of life. Matt served Fairfield with enthusiasm and 
+a commitment to creating a better world. His dedication to his goals 
+and dreams of improving his community will live on in those whose lives 
+he touched.
+  Mrs. BOXER. Matt Garcia is survived by his grandmother, parents, 
+siblings, and extended family members. Senator Feinstein and I will 
+always be grateful for Matt's example of passionate public service. Our 
+hearts go out to Matt's family, friends, and colleagues who struggle 
+with this incomprehensible loss.●
+
+                          ____________________
+```

@@ -1,0 +1,33 @@
+---
+granule: CREC-2008-09-09-pt1-PgH7931-2
+date: 2008-09-09
+edition: CREC
+section: HOUSE
+page: H7931
+citation: 154 Cong. Rec. H7931
+---
+
+# ENERGY POLICY
+
+**Speaking:** Kucinich, Dennis J. (K000336) [D-OH]
+
+```
+                             ENERGY POLICY
+
+  (Mr. KUCINICH asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. KUCINICH. Mr. Speaker, my fellow colleagues, sometime in the next 
+week the House is going to be asked to make some decisions on energy 
+policy. But I think we need to reflect on the last few years, and that 
+is, the United States went into Iraq for one reason and one reason 
+only, oil. And when we did that, the price of oil didn't go down, it 
+went up.
+  That the oil companies are running our energy policy is not a secret 
+in this country. They have kept oil off the market while they jacked up 
+the price. They have helped to restrain the supply while the price has 
+skyrocketed and the American families paid for that. So to give the oil 
+companies more drilling rights is simply a guarantee that we are going 
+to pay more for oil, not less. Wake up, America.
+
+                          ____________________
+```
