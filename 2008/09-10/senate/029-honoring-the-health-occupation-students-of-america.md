@@ -1,0 +1,52 @@
+---
+granule: CREC-2008-09-10-pt1-PgS8270-3
+date: 2008-09-10
+edition: CREC
+section: SENATE
+page: S8270
+citation: 154 Cong. Rec. S8270
+---
+
+# HONORING THE HEALTH OCCUPATION STUDENTS OF AMERICA
+
+**Speaking:** Cornyn, John (C001056) [R-TX]
+
+```
+           HONORING THE HEALTH OCCUPATION STUDENTS OF AMERICA
+
+● Mr. CORNYN. Mr. President, today I wish to recognize the 
+Health Occupation Students of America, HOSA, for their accomplishments 
+over the past 32 years. Composed of 100,000 students in nearly 3,000 
+chapters across the Nation, HOSA is providing the knowledge, skills and 
+opportunity for secondary and postsecondary students to enter the 
+health care workforce. Through health science curricula, personal 
+development exercises, practical work in the health care field and 
+medical competitions at the local and national levels, HOSA Advisors 
+and students prepare a healthcare workforce not only to serve but also 
+to lead our country.
+  Now more than ever, we need organizations like HOSA to address 
+critical
+
+[[Page S8271]]
+
+shortages in the health care industry. Occupational programs in our 
+high schools offer training for young students and often help them find 
+a rewarding career path. Programs like HOSA direct students to 
+worthwhile vocations while also leading the effort to stimulate 
+industry and job growth.
+  The American healthcare system faces myriad, complex challenges: 
+rising prescription drug costs, a lack of stable insurance coverage, 
+and a medical bureaucracy that is increasingly difficult to navigate. 
+Qualified healthcare professionals should not be one of them. HOSA has 
+found a way to combine two very important needs in our economy: an 
+educated workforce and competent health care professionals.
+  I am proud that Texas is home to HOSA National Headquarters and to 
+491 chapters, the most of any State in the Nation. HOSA is helping 
+build a pipeline of skilled health care workers to ensure that health 
+care in the United States remains a model of professionalism, 
+compassion, and innovation to the world. I commend these talented and 
+ambitious young men and women for their dedication both to the health 
+care profession and to our Nation.●
+
+                          ____________________
+```
