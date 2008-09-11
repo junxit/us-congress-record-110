@@ -1,0 +1,98 @@
+---
+granule: CREC-2008-09-11-pt1-PgE1771
+date: 2008-09-11
+edition: CREC
+section: EXTENSIONS
+page: E1771
+citation: 154 Cong. Rec. E1771
+---
+
+# SUNSET MEMORIAL
+
+**Speaking:** Franks, Trent (F000448) [R-AZ]
+
+```
+[[Page E1771]]
+                            SUNSET MEMORIAL
+
+                                 ______
+                                 
+
+                           HON. TRENT FRANKS
+
+                               of arizona
+
+                    in the house of representatives
+
+                      Thursday, September 11, 2008
+
+  Mr. FRANKS of Arizona. Madam Speaker, I stand once again before this 
+House with yet another Sunset Memorial.
+  It is September 11, 2008 in the land of the free and the home of the 
+brave, and before the sun set today in America, almost 4,000 more 
+defenseless unborn children were killed by abortion on demand. That's 
+just today, Madam Speaker. That's more than the number of innocent 
+lives lost on September 11 in this country, only it happens every day.
+  It has now been exactly 13,016 days since the tragedy called Roe v. 
+Wade was first handed down. Since then, the very foundation of this 
+Nation has been stained by the blood of almost 50 million of its own 
+children. Some of them, Madam Speaker, cried and screamed as they died, 
+but because it was amniotic fluid passing over the vocal cords instead 
+of air, we couldn't hear them.
+  All of them had at least four things in common. First, they were each 
+just little babies who had done nothing wrong to anyone, and each one 
+of them died a nameless and lonely death. And each one of their 
+mothers, whether she realizes it or not, will never be quite the same. 
+And all the gifts that these children might have brought to humanity 
+are now lost forever. Yet even in the glare of such tragedy, this 
+generation still clings to a blind, invincible ignorance while history 
+repeats itself and our own silent genocide mercilessly annihilates the 
+most helpless of all victims, those yet unborn.
+  Madam Speaker, perhaps it's time for those of us in this Chamber to 
+remind ourselves of why we are really all here. Thomas Jefferson said, 
+``The care of human life and its happiness and not its destruction is 
+the chief and only object of good government.'' The phrase in the 14th 
+Amendment capsulizes our entire Constitution. It says, ``No State shall 
+deprive any person of life, liberty or property without due process of 
+law.'' Madam Speaker, protecting the lives of our innocent citizens and 
+their constitutional rights is why we are all here.
+  The bedrock foundation of this Republic is the clarion declaration of 
+the self-evident truth that all human beings are created equal and 
+endowed by their Creator with the unalienable rights of life, liberty 
+and the pursuit of happiness. Every conflict and battle our Nation has 
+ever faced can be traced to our commitment to this core, self-evident 
+truth.
+  It has made us the beacon of hope for the entire world. Madam 
+Speaker, it is who we are.
+  And yet today another day has passed, and we in this body have failed 
+again to honor that foundational commitment. We have failed our sworn 
+oath and our God-given responsibility as we broke faith with nearly 
+4,000 more innocent American babies who died today without the 
+protection we should have given them.
+  So Madam Speaker, let me conclude this Sunset Memorial in the hope 
+that perhaps someone new who heard it tonight will finally embrace the 
+truth that abortion really does kill little babies; that it hurts 
+mothers in ways that we can never express; and that 13,016 days spent 
+killing nearly 50 million unborn children in America is enough; and 
+that it is time that we stood up together again, and remembered that we 
+are the same America that rejected human slavery and marched into 
+Europe to arrest the Nazi Holocaust; and we are still courageous and 
+compassionate enough to find a better way for mothers and their unborn 
+babies than abortion on demand.
+  Madam Speaker, as we consider the plight of unborn America tonight, 
+may we each remind ourselves that our own days in this sunshine of life 
+are also numbered and that all too soon each one of us will walk from 
+these Chambers for the very last time.
+  And if it should be that this Congress is allowed to convene on yet 
+another day to come, may that be the day when we finally hear the cries 
+of innocent unborn children. May that be the day when we find the 
+humanity, the courage, and the will to embrace together our human and 
+our constitutional duty to protect these, the least of our tiny, little 
+American brothers and sisters from this murderous scourge upon our 
+Nation called abortion on demand.
+  It is September 11, 2008, 13,016 days since Roe versus Wade first 
+stained the foundation of this Nation with the blood of its own 
+children; this in the land of the free and the home of the brave.
+
+                          ____________________
+```
