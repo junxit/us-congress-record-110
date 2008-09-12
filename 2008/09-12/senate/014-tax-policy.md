@@ -1,0 +1,64 @@
+---
+granule: CREC-2008-09-12-pt1-PgS8474-2
+date: 2008-09-12
+edition: CREC
+section: SENATE
+page: S8474
+citation: 154 Cong. Rec. S8474
+---
+
+# TAX POLICY
+
+**Speaking:** Grassley, Chuck (G000386) [R-IA]
+
+```
+                               TAX POLICY
+
+  Mr. GRASSLEY. Mr. President, after I spoke about small business tax 
+issues yesterday, Senators Sanders and Durbin responded. I would like 
+to thank my friends from Vermont and Illinois for engaging in the 
+important debate of the future of tax policy for our country last 
+night. The upcoming congressional and Presidential elections will have 
+a big impact on tax issues, so these issues should be debated here in 
+the world's most deliberative body. In response to the comments of my 
+friends from Vermont and Illinois, I would like to raise a few brief 
+points.
+  First, the 2001 and 2003 tax relief bills were not and are not the 
+``Bush tax cuts.'' These bills were crafted in a bipartisan manner. In 
+fact, one-fourth of the Democratic Caucus voted for the 2001 tax 
+relief.
+  I will be discussing middle income tax relief in a separate speech 
+shortly. However, there's no question the legislation criticized by my 
+two friends improved the progressivity of the Tax Code and cut taxes 
+for middle income
+
+[[Page S8475]]
+
+families. For a single mom with two children and $30,000 of income, the 
+2001 and 2003 tax relief has prevented a tax increase of $1,100 per 
+year. Similarly, for a family of four with $50,000 of income, this tax 
+relief has prevented them from facing a $2,300 yearly tax increase.
+  Indeed, both Senator Obama and Senator McCain agree on keeping most 
+of the structure of the legislation criticized by my friends from 
+Vermont and Illinois.
+  Where Senators Obama and McCain disagree is on whether we should keep 
+the tax rates where they are. I would note that Senator Obama recently 
+agreed that, because of concerns about the economy, we should leave the 
+top rates where they are, at least for now.
+  I would encourage my friends to review the data I presented 
+yesterday. That data clearly illustrates that there are negative 
+effects on small business from raising marginal rates by 17 percent to 
+33 percent. The data show that the tax increases of Senator Obama's 
+plan will take direct aim at small business owners. Senator Obama does 
+now agree that we should defer his tax increases until 2011. Senator 
+McCain thinks the current levels of taxation are appropriate for both 
+now and the future.
+  The bipartisan tax relief of 2001 and 2003, largely supported by 
+Senators Obama and McCain, kept revenues at or above historical 
+averages for most of the period they were in effect. These policies 
+were put in place during economic shocks, and the economy responded.
+  I would ask my friends why they disagree. Why should we raise taxes 
+on small business now? I look forward to their response.
+
+                          ____________________
+```
