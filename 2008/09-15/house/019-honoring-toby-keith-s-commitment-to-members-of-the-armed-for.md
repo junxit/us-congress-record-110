@@ -1,0 +1,285 @@
+---
+granule: CREC-2008-09-15-pt1-PgH8065
+date: 2008-09-15
+edition: CREC
+section: HOUSE
+page: H8065
+citation: 154 Cong. Rec. H8065
+---
+
+# HONORING TOBY KEITH'S COMMITMENT TO MEMBERS OF THE ARMED FORCES
+
+**Speaking:** Bordallo, Madeleine Z. (B001245) [D-GU], Cole, Tom (C001053) [R-OK]
+
+**Measures:** H.Res. 1255
+
+```
+    HONORING TOBY KEITH'S COMMITMENT TO MEMBERS OF THE ARMED FORCES
+
+  Ms. BORDALLO. Mr. Speaker, I move to suspend the rules and agree to 
+the resolution (H. Res. 1255) honoring Toby Keith's commitment to 
+members of the Armed Forces.
+  The Clerk read the title of the resolution.
+  The text of the resolution is as follows:
+
+                              H. Res. 1255
+
+       Whereas thousands of celebrities have donated their time to 
+     entertain members of the Armed Forces both in the United 
+     States and abroad through the United Service Organizations 
+     (hereafter known as the ``USO'');
+       Whereas since the USO's founding in 1941, country music 
+     personalities have been an essential element of the USO's 
+     entertainment;
+       Whereas Oklahoma native Toby Keith made six USO tours 
+     around the world, performing in such locations as Cuba, 
+     Germany, Belgium, Kosovo, Italy, and Africa; and entertaining 
+     more than 135,000 members of the Armed Forces in Middle East 
+     Operations Iraqi Freedom and Enduring Freedom;
+       Whereas Toby Keith has volunteered to perform at some of 
+     the most dangerous and remote locations in the Persian Gulf, 
+     which require Apache escorts and include Forward Operating 
+     Bases with total populations of not more than 50 members of 
+     the Armed Forces;
+       Whereas, on April 24, 2008, while performing in Kandahar, 
+     Afghanistan mortar fire disrupted his concert;
+       Whereas few, if any, performers have traveled to such 
+     remote and dangerous military bases with Toby Keith's 
+     frequency;
+       Whereas Toby Keith has acted as a valuable liaison between 
+     forward deployed troops, the USO, and the American public;
+       Whereas Toby Keith makes it a priority to give tickets to 
+     members of the Armed Forces here in the United States;
+       Whereas Toby Keith allows members of the Armed Forces to 
+     eat and drink for free in his restaurants; and
+       Whereas Toby Keith co-wrote and performed the hit song 
+     ``American Soldier'' honoring the sacrifices that America's 
+     soldiers make on a daily basis: Now, therefore, be it
+       Resolved, That the House of Representatives--
+       (1) honors Toby Keith's commitment to our country's Armed 
+     Forces overseas;
+       (2) encourages other entertainers to take into 
+     consideration Toby Keith's deep commitment to boosting the 
+     morale of our Nation's Armed Forces when supporting USO 
+     operations; and
+       (3) a copy of this Resolution, suitably engrossed, be 
+     transmitted to Toby Keith.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentlewoman from 
+Guam (Ms. Bordallo) and the gentleman from Oklahoma (Mr. Cole) each 
+will control 20 minutes.
+  The Chair recognizes the gentlewoman from Guam.
+
+
+                             General Leave
+
+  Ms. BORDALLO. Mr. Speaker, I ask unanimous consent that all Members 
+have 5 legislative days within which to revise and extend their remarks 
+on the resolution under consideration.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentlewoman from Guam?
+  There was no objection.
+  Ms. BORDALLO. Mr. Speaker, I yield myself such time as I may consume.
+  Mr. Speaker, I rise today in support of House Resolution 1255 to 
+honor Toby Keith's commitment to strengthening the morale of our Armed 
+Forces and working with the United Services Organizations, the USO, to 
+accomplish this important task. I thank my colleague from Oklahoma, Mr. 
+Tom Cole, for bringing this measure before the House.
+  Toby Keith has gone above and beyond his celebrity to bring members 
+of our Armed Forces the joy and laughter of entertainment no matter 
+where in the world they serve. From Cuba to Kosovo, Italy to Africa, 
+and many more locations, both welcoming and dangerous, Mr. Keith has 
+played for more than 135,000 men and women in uniform.
+  In April of this year, Mr. Keith performed in Kandahar, Afghanistan,
+
+[[Page H8066]]
+
+where the nervous sounds of mortar fire disrupted his concert. However, 
+Mr. Keith continued to travel to remote and dangerous locations 
+bringing a bit of the American spirit and character alive on stage. His 
+travels are a testament to the importance of morale in the men and 
+women who continue to serve our Nation abroad every day.
+  By working with the USO, Mr. Keith has helped bring together two very 
+different worlds: the world of an average American who can work during 
+the day and watch a concert at night, and the world of the military 
+abroad who must keep constant guard both day and night.
+  Mr. Keith's performances and even the free meals he gives the 
+military at his restaurants remind both Americans working at home and 
+those serving abroad that we must keep each other in our minds and 
+hearts and we must keep our morale high. Like Mr. Keith, we should all 
+find something positive to contribute to each other as we face these 
+dangerous times.
+  By passing this resolution, we are honoring a person who has used his 
+talents to serve the men and women in uniform as they continue to serve 
+our country. Toby Keith is just one of the hundreds of entertainers who 
+have volunteered to entertain the troops with the support of the USO to 
+generate a spirit and morale that is invaluable to this Nation.
+  Mr. Speaker, I urge my colleagues to support House Resolution 1255.
+  I reserve the balance of my time.
+
+                              {time}  1530
+
+  Mr. COLE of Oklahoma. Mr. Speaker, I yield myself such time as I may 
+consume.
+  Mr. Speaker, I rise today to commend a great Oklahoman and American 
+patriot, whose unceasing support for the men and women in our armed 
+services has been a hallmark of his career. Country music star Toby 
+Keith was born and raised in my hometown of Moore, Oklahoma, and is now 
+a resident just south of us in Norman, Oklahoma, and has made it his 
+mission as an entertainer to keep our troops entertained and to boost 
+their morale as they serve this Nation in some of the most dangerous, 
+remote places on the planet.
+  This resolution outlines Mr. Keith's commitment to our troops and 
+encourages other entertainers to take into consideration Toby Keith's 
+deep commitment to boosting the morale of our Nation's soldiers when 
+supporting USO operations.
+  As many of you know, Mr. Speaker, Toby Keith is one of the most 
+successful country music stars of the last two decades. His songs not 
+only appeal to a wide variety of listeners but are also critically 
+acclaimed.
+  On a personal note, I'll tell my friend on the other side of the 
+aisle, he's actually a very good Democrat. But like all of us, I think 
+he's an American and I'm proud to say an Oklahoman, far ahead of being 
+affiliated with any political party.
+  Despite his fantastic success as a performer, I'm here to highlight 
+the work Mr. Keith has done for the United Service Organizations. Since 
+the founding of USO in 1941, thousands of celebrities have taken time 
+out of their lives to visit service men and women who sacrifice their 
+lives for the cause of freedom. These shows not only help to boost 
+morale among our troops but also help to connect our Armed Forces to 
+America when they are far from home, Mr. Speaker.
+  Since before the United States entered the Second World War, the USO 
+has been the bridge between the American public and the U.S. military. 
+These performances also remind the troops that we are all eternally 
+grateful for the work they do.
+  Today, the USO delivers its programs and services at more than 130 
+locations around the world. More recently, the USO opened centers in 
+Kuwait, Qatar and Afghanistan to support service members participating 
+in Operations Enduring and Iraqi Freedom. The organization relies on 
+over 25,000 volunteers, and servicemembers and their families visit USO 
+centers 5.3 million times a year, Mr. Speaker.
+  Country music personalities have always been an essential element of 
+the USO's entertainment. In the early years, performers like Gene 
+Autry, another notable Oklahoman--actually Gene Autry, Oklahoma, is in 
+my district as well, Mr. Speaker--Patsy Cline, and many other acts from 
+the Grand Ole Opry have traveled around the world to entertain our 
+troops. Today, performers like Neal McCoy and Lee Ann Womack have all 
+gone to Iraq to entertain our troops. However, few celebrities have 
+visited our troops fighting the war on terror in Iraq and Afghanistan 
+with as much fervor and frequency as Toby Keith.
+  Mr. Speaker, Toby Keith has made six USO tours, including 
+entertaining over 135,000 U.S. service personnel in Iraq, Afghanistan, 
+Cuba, Germany, Belgium, Kosovo, Italy, and Africa. In fact, he has 
+volunteered to perform at some of the most dangerous and remote 
+locations in the Persian Gulf, including forward operating bases with 
+populations of as few as 50 servicemembers that require Apache escort 
+helicopters to reach. In many of these cases, these places and the 
+garrisons literally haven't had entertainment in many, many months.
+  The USO also noted in our discussions with them, Mr. Speaker, that 
+Toby's brought back valuable insight from forward deployed troops, 
+including things they would request from the USO and the American 
+public. As a result, the USO has developed a program called USO 
+Delivered, which includes transportable USO centers for remote areas.
+  On April 28, 2008, while performing in one of these dangerous 
+locations, Kandahar, Afghanistan, mortar fire disrupted one of Mr. 
+Keith's concerts. Instead of packing up and going home, Toby Keith 
+returned to the stage to finish the show. This attitude, that all 
+troops no matter where they are stationed deserve our support, is what 
+makes Toby Keith an exemplary patriot, and all entertainers should, and 
+I'm sure do, take a good lesson from his dedication to our men and 
+women in uniform.
+  Mr. Speaker, Mr. Keith's visits to the USO are not only places where 
+he deserves recognition for supporting our troops. He also freely 
+provides tickets to military personnel for all of his shows in the 
+U.S., and servicemembers showing military ID are allowed to eat and 
+drink for free at his restaurants. Toby Keith also reflects his deep 
+admiration for the troops in his hit song ``American Soldier'' which 
+hails the work that our Armed Forces do to protect us all on a daily 
+basis.
+  Mr. Speaker, at a time when the thousands of Americans question the 
+merits of our missions in Iraq and Afghanistan, it is essential that 
+our service men and women know that we support their dedication to 
+America, regardless of our political disagreements at home. Toby Keith 
+has been a stalwart supporter of our troops throughout his career and 
+deserves our recognition and our appreciation. Regardless of one's 
+opinion on our involvement in Iraq and Afghanistan, supporting our men 
+and women overseas is certainly something that all Members of this body 
+encourage and support.
+  Mr. Speaker, I urge Members to vote ``yes'' on House Resolution 1255 
+and honor a true patriot.
+  I reserve the balance of my time.
+  Ms. BORDALLO. Mr. Speaker, at this time I have no further requests 
+for time. I am prepared to close after my colleague has yielded back 
+his time. I continue to reserve the balance of my time.
+  Mr. COLE of Oklahoma. Mr. Speaker, I want to recognize for such time 
+as she may consume my distinguished colleague from Washington (Mrs. 
+McMorris Rodgers).
+  Mrs. McMORRIS RODGERS. Thank you, Mr. Cole, and Members of the House. 
+I rise and I, too, want to applaud Toby Keith and his commitment to our 
+troops and his efforts to encourage our troops, especially when they're 
+serving our country overseas and away from their family and friends.
+  And while thanking Toby Keith and others and recognizing the 
+important role that our military plays in our country, I rise today out 
+of a frustration that we in Congress right now are refusing to address 
+the important issue of energy and, especially, the Democrats' refusal 
+to bring an up-or-down vote on the American Energy Act.
+  Our failure to enact a comprehensive energy policy is having real 
+consequences on families and small businesses and especially our 
+seniors. While I was back home last month, I heard time and time again 
+how high energy prices are having real consequences.
+
+[[Page H8067]]
+
+  For example, Frank and Bannie Bowman, they're retired and live in 
+Walla Walla. They told me that things are so tight they're having to 
+choose between less on groceries and other necessary items and paying 
+their gas bills.
+  Seventy-one-year-old Fran Balcom in the Spokane Valley told me that 
+she's still working. She can't retire because of high energy prices.
+  It's time we begin saying ``yes'' to American energy. We need to move 
+away from foreign oil, produce more energy here at home, and make 
+conservation a priority. It's time we start meeting America's energy 
+needs with American resources, and the American energy bill does just 
+that.
+  This bill is focused on increasing our American energy supply, 
+promoting conservation, and supporting renewables like hydro, solar, 
+and wind.
+  Specifically, the bill lifts the ban against offshore energy 
+exploration; promotes safe and environmentally responsible exploration 
+and development of ANWR; develops America's vast oil shale resources; 
+helps expedite the production of domestic coal-to-liquid fuel; provides 
+permanent tax credits for important renewables like solar, hydrogen, 
+and wind energy; and promotes greater energy efficiency by increasing 
+and extending personal and business efficiency tax credits and 
+deductions.
+  Americans are concerned about energy costs, and they want us to 
+unleash American ingenuity. We can and we must start meeting America's 
+energy needs with American energy, and doing nothing right now is 
+simply irresponsible.
+  Ms. BORDALLO. Mr. Speaker, I continue to reserve the balance of my 
+time.
+  Mr. COLE of Oklahoma. Mr. Speaker, I have no further speakers and 
+simply want to thank the gentlelady from Guam for working with me on 
+this bill. It's personally important since I have the great honor of 
+representing Toby Keith, and he is, indeed, a great American and 
+certainly somebody in Oklahoma we're very proud of.
+  Mr. Speaker, I yield back my time.
+  Ms. BORDALLO. Mr. Speaker, I want to thank the gentleman from 
+Oklahoma (Mr. Cole) for co-managing the bills here. I've enjoyed it. I 
+yield back the balance of my time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentlewoman from Guam (Ms. Bordallo) that the House suspend the rules 
+and agree to the resolution, H. Res. 1255.
+  The question was taken.
+  The SPEAKER pro tempore. In the opinion of the Chair, two-thirds 
+being in the affirmative, the ayes have it.
+  Mr. COLE of Oklahoma. Mr. Speaker, I object to the vote on the ground 
+that a quorum is not present and make the point of order that a quorum 
+is not present.
+  The SPEAKER pro tempore. Pursuant to clause 8 of rule XX and the 
+Chair's prior announcement, further proceedings on this motion will be 
+postponed.
+  The point of no quorum is considered withdrawn.
+
+                          ____________________
+```

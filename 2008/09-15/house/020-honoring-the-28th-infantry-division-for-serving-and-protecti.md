@@ -1,0 +1,268 @@
+---
+granule: CREC-2008-09-15-pt1-PgH8067
+date: 2008-09-15
+edition: CREC
+section: HOUSE
+page: H8067
+citation: 154 Cong. Rec. H8067
+---
+
+# HONORING THE 28TH INFANTRY DIVISION FOR SERVING AND PROTECTING THE UNITED STATES
+
+**Speaking:** Bordallo, Madeleine Z. (B001245) [D-GU], Cole, Tom (C001053) [R-OK]
+
+**Measures:** H.Con.Res. 390
+
+```
+  HONORING THE 28TH INFANTRY DIVISION FOR SERVING AND PROTECTING THE 
+                             UNITED STATES
+
+  Ms. BORDALLO. Mr. Speaker, I move to suspend the rules and agree to 
+the concurrent resolution (H. Con. Res. 390) honoring the 28th Infantry 
+Division for serving and protecting the United States, as amended.
+  The Clerk read the title of the concurrent resolution.
+  The text of the concurrent resolution is as follows:
+
+                            H. Con. Res. 390
+
+       Whereas the 28th Infantry Division was established on 
+     October 11, 1879, and is recognized as the oldest, 
+     continuously serving division in the Army;
+       Whereas units of the 28th Infantry Division date back to 
+     1747, when Benjamin Franklin organized a battalion in 
+     Philadelphia;
+       Whereas units of the 28th Infantry Division served in the 
+     Revolutionary War, including units that served with 
+     distinction in the Continental Army under General George 
+     Washington;
+       Whereas the 28th Infantry Division was integral to the 
+     success of World War I campaigns in the European theater, 
+     including those in Champagne, Champagne-Marne, Aisne-Marne, 
+     Oise Marne, Lorraine, and Mesuse-Argone;
+       Whereas the 28th Infantry Division earned the title of 
+     ``Iron Division'' by General John J. Pershing for its valiant 
+     efforts during World War I;
+       Whereas the 28th Infantry Division contributed to military 
+     operations in Normandy, Northern France, Rhineland, Ardennes-
+     Alsace, and Central Europe during World War II;
+       Whereas the 28th Infantry Division's perseverance through 
+     the harsh winter of 1944-1945 on the western front led to a 
+     decisive victory in the Battle for the Huertgen Forest, the 
+     longest single battle engaged by the Army;
+       Whereas soon after the Battle of the Huertgen Forest, the 
+     28th Infantry Division withstood the onslaught of the main 
+     thrust of the last great German offensive during the Battle 
+     of the Bulge, giving time for reinforcements to arrive and 
+     defeat the Germans;
+       Whereas the 28th Infantry Division was activated again in 
+     1950 to serve in Germany;
+       Whereas the 28th Infantry Division was folded into the Army 
+     Selective Reserve Force during the Vietnam War;
+       Whereas the 28th Infantry Division aided relief efforts 
+     throughout the devastating aftermath of Hurricane Agnes in 
+     1972;
+       Whereas the 28th Infantry Division was called into action 
+     during the partial meltdown of the nuclear reactor of Three 
+     Mile Island Nuclear Generating Station in 1979;
+       Whereas the 28th Infantry Division contributed to 
+     international coalition forces to facilitate efforts in 
+     Operation Desert Storm;
+       Whereas the 28th Infantry Division has been part of 
+     peacekeeping missions in Bosnia-Herzegovina, the Republic of 
+     Kosova, and the Sinai Peninsula;
+       Whereas the 28th Infantry Division has deployed troops for 
+     Operation Noble Eagle, securing high-profile infrastructure 
+     targets in the aftermath of the September 11, 2001, attacks;
+       Whereas the 28th Infantry Division has deployed troops to 
+     Operation Enduring Freedom, which ousted the Taliban regime 
+     in Afghanistan;
+       Whereas in Operation Iraqi Freedom, the 28th Infantry 
+     Division played a crucial role in the search for weapons of 
+     mass destruction, the invasion of Iraq, the security in post-
+     invasion Iraq, the training of an Iraqi police force, 
+     securing transport convoys, and the safe detainment of 
+     suspected terrorists;
+       Whereas the 28th Infantry Division has over 2,600 soldiers 
+     who are missing in action from World War I and World War II;
+       Whereas the 28th Infantry Division has 127 units in 90 
+     armories in 75 cities across the Commonwealth of 
+     Pennsylvania;
+       Whereas the 28th Infantry Division has been sent to aid 
+     portions of our Nation affected by harsh winter storms, 
+     flooding, violent windstorms, and other severe weather 
+     emergencies; and
+       Whereas 10 recipients of the Medal of Honor, 4 recipients 
+     of the Legion of Merit, and 258 recipients of the Silver Star 
+     have been members of the 28th Infantry Division: Now, 
+     therefore, be it
+       Resolved by the House of Representatives (the Senate 
+     concurring), That Congress honors the 28th Infantry Division 
+     for serving and protecting the United States and directs the 
+     Clerk of the House of Representatives to transmit an enrolled 
+     copy of this resolution to the Adjutant General of the 
+     Pennsylvania National Guard for appropriate display.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentlewoman from 
+Guam (Ms. Bordallo) and the gentleman from Oklahoma (Mr. Cole) each 
+will control 20 minutes
+  The Chair recognizes the gentlewoman from Guam.
+
+
+                             General Leave
+
+  Ms. BORDALLO. Mr. Speaker, I ask unanimous consent that all Members 
+have 5 legislative days within which to revise and extend their remarks 
+on the resolution under consideration.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentlewoman from Guam?
+  There was no objection.
+  Ms. BORDALLO. Mr. Speaker, I yield myself such time as I may consume.
+  Mr. Speaker, I rise today in support of House Concurrent Resolution 
+390, honoring the 28th Infantry Division. I join my colleagues in 
+recognition of the brave men and women who have answered the call of 
+duty and contributed in so many ways to our Nation's safety and 
+security.
+  The history of the 28th Infantry Division is truly remarkable and a 
+testament to the dedication and sacrifice of those who have served in 
+the division. Officially established way back in 1879, the 28th 
+Infantry Division is one of the oldest divisions in the Army. Its roots 
+trace back to the Revolutionary War era to units in Benjamin Franklin's 
+battalion of Associators in Philadelphia, as well as General George 
+Washington's Continental Army.
+  In World War I, the 28th Infantry Division fought in six major 
+campaigns: Champagne, Champagne-Marne, Oise-Marne, Lorraine, and Meuse-
+Argonne. They paid greatly for their efforts, losing over 14,000 men. 
+Recognizing its tough and relentless fighting prowess,
+
+[[Page H8068]]
+
+General of the Armies John J. Pershing labeled the 28th Infantry 
+Division the Iron Division.
+  During the Second World War, the division fought some of the fiercest 
+battles in the European theater. Perhaps most notably during the Battle 
+of the Bulge, the 28th Infantry Division held its ground against 
+overwhelming German forces until Allied reinforcements arrived. Their 
+sacrifice will never be forgotten, and the importance of their victory 
+as a turning point in World War II remains etched in the history of 
+this division.
+  Today, the 28th Infantry Division is an active National Guard 
+division, with armories in towns and cities across the Commonwealth of 
+Pennsylvania. Soldiers of the 28th Infantry Division have served and 
+are currently serving abroad in Iraq and Afghanistan, and were also 
+recently deployed in Bosnia and Kosovo as part of the NATO peacekeeping 
+missions. Since September 11, over 10,000 soldiers of the division have 
+deployed overseas.
+  The men and women of the 28th Infantry Division serve their community 
+selflessly while balancing full-time careers and families. Through the 
+years, their names and faces have changed, but the commitment and the 
+dedication with which they serve our Nation remains the hallmark of the 
+28th Infantry Division.
+  So I am very proud to join my colleagues in honoring these men and 
+women, past and present, and to express my sincere gratitude for their 
+sacrifice to the Commonwealth of Pennsylvania and the Nation. And I 
+urge my colleagues to vote for the adoption of this resolution that 
+recognizes our citizen soldiers.
+  I reserve the balance of my time.
+  Mr. COLE of Oklahoma. Mr. Speaker, I yield myself such time as I may 
+consume.
+  Mr. Speaker, I rise in support of House Concurrent Resolution 390, as 
+amended, which honors the 28th Infantry Division for serving and 
+protecting the United States of America.
+  I am honored to pay tribute to the current and former members of the 
+28th Infantry Division, the Keystone Division, who have steadfastly and 
+courageously defended and served this great country on our own shores 
+and in distant lands.
+
+                              {time}  1545
+
+  With roots that date back to the Continental Army, the 28th Infantry 
+Division fought valiantly in several campaigns during World War I, 
+earning the title ``Iron Division'' from General John J. Pershing.
+  Again, during World War II, victory was won in hard-fought battles in 
+places like the Huertgen Forest on the western front and in the Battle 
+of the Bulge because of the tenacity and the perseverance of the brave 
+soldiers of the 28th Infantry Division. These battles earned them 
+another title, Bloody Buckets, this time given to them by German forces 
+because of the fury of the 28th Infantry Division assaults.
+  More recently, the 28th Infantry Division has participated in 
+Operation Desert Storm, deployed troops to oust the Taliban in 
+Afghanistan, and has played a vital role in the successes of Operation 
+Iraqi Freedom. Closer to home, Mr. Speaker, the Division has responded 
+in the aftermath of natural disasters to provide aid and comfort to 
+fellow Americans during hurricanes, blizzards and devastating floods.
+  It is important to note that the soldiers of the Division have 
+distinguished themselves by earning 10 Medals of Honor, four Legions of 
+Merit, and 258 Silver Stars for their outstanding service to the 
+Nation.
+  Sadly, Mr. Speaker, the valiant service of the 28th Infantry Division 
+has not come without enormous sacrifice. Throughout its history, the 
+members of the Division have paid the price to ensure our freedom. 
+Still today there are over 2,600 soldiers from the 28th Infantry 
+Division missing in action in both world wars of the 20th century.
+  Mr. Speaker, if I did not also pay tribute today to the incredible 
+families of these brave soldiers, who waited at home while their loved 
+ones answered our Nation's call, I would be remiss. The entire Nation 
+owes the soldiers and veterans of the 28th Infantry Division and their 
+families a debt of gratitude. We are all proud of their service. 
+Therefore, Mr. Speaker, I strongly urge all Members to support this 
+resolution.
+  Mr. Speaker, I reserve the balance of my time.
+  Ms. BORDALLO. Mr. Speaker, I continue to reserve the balance of my 
+time.
+  Mr. COLE of Oklahoma. Mr. Speaker, I want to make a few brief remarks 
+on the issue of energy because we seem to discuss that. And I have no 
+further speakers at that point and I will be prepared to yield back to 
+my friend from Guam.
+  Mr. Speaker, I think today in the discussion of three bills we've 
+seen a terrifically orderly process of cooperation between the two 
+sides as we have come together to honor and recognize Americans who 
+have distinguished themselves in service to our country and in service 
+to one another. And it's been a process that I think ought to epitomize 
+all of our openings. Our problem, unfortunately, is we don't always 
+have that process in this House.
+  We've known for many, many years that we had a very serious energy 
+crisis. I believe former Secretary of the Treasury, John Connelly, 
+first pointed that out as long ago as 1970 when we were importing about 
+24 percent of petroleum from overseas. Former President Carter called 
+it the moral equivalent of war that we confront and deal with this 
+crisis in the late 1970s. And there certainly have been fitful efforts 
+by both sides of the aisle, Mr. Speaker, to try and come to grips with 
+this problem over the years, but we all know we have not done it 
+successfully. And I think perhaps that's because we have not done it 
+together.
+  I would point to the efforts of two of our colleagues on both sides 
+of the aisle, Mr. Abercrombie from Hawaii and Mr. Peterson from 
+Pennsylvania, who have tried to work together to formulate a bipartisan 
+solution to parts of this vexing problem as an example that all of us 
+on both sides ought to follow, Mr. Speaker. I think if we did, we would 
+do better. And I think we could come up with legislation that would 
+genuinely make a difference because nothing is more important, aside 
+from our physical security, than our economic security. And I think we 
+all recognize we're at the point, Mr. Speaker, that that security is 
+threatened by an overdependence on foreign energy.
+  We can go a long way, we can do a lot together. Sometimes when we 
+work together we do do extraordinary things. So I would challenge the 
+House that in the coming week, when we discuss this important issue, 
+that that's, indeed, how we proceed, we bring bills to the floor, we 
+have open debate, and we try to find common ground with one another.
+  With that, Mr. Speaker, I yield back the balance of my time.
+  Ms. BORDALLO. Mr. Speaker, again I would like to go on record to 
+thank my co-manager of the bill, the gentleman from Oklahoma (Mr. 
+Cole).
+  Mr. Speaker, I yield back the balance of my time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentlewoman from Guam (Ms. Bordallo) that the House suspend the rules 
+and agree to the concurrent resolution, H. Con. Res. 390, as amended.
+  The question was taken.
+  The SPEAKER pro tempore. In the opinion of the Chair, two-thirds 
+being in the affirmative, the ayes have it.
+  Mr. COLE of Oklahoma. Mr. Speaker, I object to the vote on the ground 
+that a quorum is not present and make the point of order that a quorum 
+is not present.
+  The SPEAKER pro tempore. Pursuant to clause 8 of rule XX and the 
+Chair's prior announcement, further proceedings on this motion will be 
+postponed.
+  The point of no quorum is considered withdrawn.
+
+                          ____________________
+```
