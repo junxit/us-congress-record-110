@@ -1,0 +1,59 @@
+---
+granule: CRECB-2008-pt14-Pg19549-5
+date: 2008-09-17
+edition: CRECB
+section: EXTENSIONS
+page: 19549
+---
+
+# TRIBUTE TO MARINE CAPTAIN JESSE MELTON, III
+
+```
+              TRIBUTE TO MARINE CAPTAIN JESSE MELTON, III
+
+                                 ______
+                                 
+
+                     HON. C.A. DUTCH RUPPERSBERGER
+
+                              of maryland
+
+                    in the house of representatives
+
+                     Wednesday, September 17, 2008
+
+  Mr. RUPPERSBERGER. Madam Speaker, I rise before you today to honor 
+Marine Captain Jesse Melton, III, who died serving his country on 
+September 9th, 2008. Captain Jesse Melton, 29, of Randallstown, 
+Maryland, died as a result of multiple traumatic injuries sustained 
+while conducting combat operations in Afghanistan. Captain Melton was 
+assigned to Headquarters Battery, 12th Marines, 3rd Marine Division, 
+Kaneohe Bay, Hawaii.
+  Jesse graduated from Randallstown High School in Baltimore County, 
+Maryland, where he played lacrosse and baseball. He then attended 
+Messiah College in Grantham, Pennsylvania, where he studied 
+communications. After his freshman year, however, Jesse decided to join 
+the Marine Corps Reserve and attended Boot Camp in South Carolina, an 
+experience his family says changed his life. Upon completion of his 
+basic training, Jesse's drill sergeant recommended him for Officer 
+Candidate School, training Jesse completed while earning his degree in 
+communications from Messiah College.
+  Jesse was commissioned as a second lieutenant in June of 2000 and 
+served two tours in Japan. He was promoted to the rank of captain and 
+deployed for a tour in Iraq. In March, Captain Melton was deployed 
+again, this time to Afghanistan. He was supporting combat operations in 
+the Parwan province at the time of his death.
+  The Randallstown High and Messiah College alumnus is survived by his 
+mother, Mrs.
+
+[[Page 19550]]
+
+Janice Chance, his younger sister Jenine Melton and brother Joshua 
+Melton, and stepfather Charlton Chance, all of Owings Mills, Maryland, 
+as well as his stepsisters Christine and Laura Chance, and his 
+grandmother Ethel Matthews of Baltimore.
+  Madam Speaker, I ask that you join with me today in honoring the life 
+of a man truly dedicated to serving his country.
+
+                          ____________________
+```
