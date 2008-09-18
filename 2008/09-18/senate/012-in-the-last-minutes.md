@@ -1,0 +1,81 @@
+---
+granule: CRECB-2008-pt14-Pg19652-4
+date: 2008-09-18
+edition: CRECB
+section: SENATE
+page: 19652
+---
+
+# IN THE LAST MINUTES
+
+```
+                          IN THE LAST MINUTES
+
+  Mr. BAUCUS. Mr. President, as the old saying goes:
+
+       If it were not for the last minute, a lot of things would 
+     not get done.
+
+  Well, God willing, we are nearing the last minutes of this Congress 
+and, God willing, we are close to getting a lot of things done.
+  For the better part of this Congress, we have been working on passing 
+three major tax bills. One has been to put America on sounder energy 
+policy. The second has been to prevent the AMT from raising taxes for 
+millions of American families. The third has been to extend a series of 
+tax incentives that are vital to American jobs and families. Frankly, 
+on these matters, what unites us is far greater than what divides us. 
+And now, at the last minute, it is time to get these bills done.
+  With this in mind, I have worked with my good friend Chuck Grassley, 
+the ranking Republican member of the Finance Committee. Together, we 
+have worked with the majority leader and with the Republican leader. We 
+have worked with Senator Durbin and with Senator Kyl. All of us have 
+come together on a way to get these major tax bills done.
+  What has divided us on tax measures has been mostly whether to pay 
+for them. Democrats have said we should. Republicans have said we 
+should not. So we and the leaders have come up with an honorable 
+compromise. We propose that we pay for the energy tax bill, that we not 
+pay for the AMT bill, and that we pay for roughly half of the tax 
+extenders bill. With this structure, we believe we can pass these 
+bills, we can get a lot of things done, and we can help to bring on the 
+last minutes of this Congress.
+  Passing these bills would get a lot of things done. The Energy bill 
+would help to create well-paid jobs in the growing field of new energy 
+technologies. It would help to secure America's independence from high-
+priced foreign oil. It would help us to move closer to addressing 
+global warming.
+  The AMT patch would keep some 21.5 million taxpayers from being hit 
+by a tax increase. We must not let more families fall into the AMT.
+  The tax extenders package would help provide relief in a time of 
+economic uncertainty. The economy clearly is struggling and so are 
+America's working families. Markets are experiencing volatility. In 
+times such as these, Americans need tax cuts they have come to count on 
+to help them get by. The tax extenders package includes the research 
+and development tax credit to spur new, high-paying jobs. It includes a 
+teacher expense deduction to help teachers who put out money from their 
+own pockets to buy school supplies. It includes a tuition deduction to 
+give families needed relief from rising college costs.
+  As well, this package includes the mental health parity bill. The 
+bill has been a long time in coming. We must pass this bill for many 
+reasons. It would ensure that families facing mental health challenges 
+would receive fair treatment--treatment the same as those facing other 
+health challenges. This legislation is a tribute to the hard work of 
+Senators Paul Wellstone, Ted Kennedy, and Pete Domenici.
+  This package also includes disaster relief. It would aid the victims 
+of the Midwest floods. It would help the victims of all recent 
+federally declared disasters. It includes relief for the victims of 
+Hurricane Ike and Gustav.
+  This is a good package. It would make real progress on energy policy. 
+It would extend needed tax relief in hard times. It would give us a 
+chance to show American families that Congress can work for them.
+  So let's hasten the last minutes of this Congress. With that, let's 
+finally get a lot of things done. Let's do the work of governing that 
+the American people sent us here to do.
+  I yield the floor.
+  The ACTING PRESIDENT pro tempore. The Senator from Texas.
+  Mr. CORNYN. Mr. President, I ask unanimous consent to speak for up to 
+15 minutes.
+  The ACTING PRESIDENT pro tempore. Without objection, it is so 
+ordered.
+
+                          ____________________
+```
