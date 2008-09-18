@@ -1,0 +1,57 @@
+---
+granule: CREC-2008-09-18-pt1-PgS9017-2
+date: 2008-09-18
+edition: CREC
+section: SENATE
+page: S9017
+citation: 154 Cong. Rec. S9017
+---
+
+# COMMENDING DR. EPHRAIM ZUROFF
+
+**Speaking:** Smith, Gordon H. (S001142) [R-OR]
+
+```
+                     COMMENDING DR. EPHRAIM ZUROFF
+
+● Mr. SMITH. Mr. President, I rise today to commend Dr. Ephraim 
+Zuroff and the Simon Wiesenthal Center for their efforts to track down 
+the last Nazi war criminals from World War II. Their work is enormously 
+important, both in bringing the guilty to justice and preventing future 
+acts of genocide. The statute of limitations does not--must not--expire 
+on crimes against humanity. Earlier this year, I introduced the World 
+War II War Crimes Accountability Act with Senator Nelson, which I hope 
+will help Dr. Zuroff and the Simon Wiesenthal Center in their noble 
+effort.
+  One of the main targets of this effort is Milivoj Asner, who during 
+World War II was the fascist police chief of Pozega, Yugoslavia. 
+Serving the Nazi-allied Ustasha regime in his native Croatia, Asner 
+presided over the destruction of the local Jewish, Serb, and Gypsy 
+populations. After the war ended, Asner fled to Austria, where he lived 
+in obscurity until he was finally charged with war crimes by Croatia in 
+2005. His extradition has been delayed, however, by Austrian federal 
+and local bureaucratic obstruction. Austrian authorities have claimed 
+that Asner is in poor health, though apparently that infirmity did not 
+stop him from attending a Euro 2008 soccer game this past summer, where 
+he was spotted by a British newspaper. In light of this evidence, the 
+local and national Austrian authorities must summon the political will 
+to bring Asner to justice.
+  The Simon Wiesenthal Center launched Operation: Last Chance in 2002 
+to identify and assist in the prosecution of the remaining Nazi war 
+criminals still at large. Dr. Zuroff, who has been leading this effort, 
+should be highly commended for his outstanding efforts in bringing the 
+most guilty Nazis to justice. Of these, Asner is near the top of his 
+list.
+  Even today, the crimes of people such as Asner in the service of pro-
+Nazi regimes strain our understanding of hate. National Socialist 
+Germany today is an icon remembered only for its brutality, its mantra 
+of genocide, and its culture of racism. And those last Nazis, who are 
+waiting out their last days under the coming twilight, must not be 
+allowed to go quietly into the night, as did too many of their victims. 
+For the souls that were lost, and even more for those that remain, 
+there must be justice. I commend Dr. Zuroff and the Simon Wiesenthal 
+Center in the highest possible terms, and urge the U.S. Government to 
+do all it can to help them in their cause.●
+
+                          ____________________
+```

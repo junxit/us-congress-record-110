@@ -1,0 +1,71 @@
+---
+granule: CREC-2008-09-18-pt1-PgS9015-4
+date: 2008-09-18
+edition: CREC
+section: SENATE
+page: S9015
+citation: 154 Cong. Rec. S9015
+---
+
+# CONGRATULATING COASTAL WINDOWS, INC.
+
+**Speaking:** Akaka, Daniel K. (A000069) [D-HI]
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+                  CONGRATULATING COASTAL WINDOWS, INC.
+
+● Mr. AKAKA. Mr. President, I want to take this opportunity to 
+congratulate the owners and employees of Coastal Windows, Inc., a 
+family owned and operated business on Oahu and one of this year's 
+recipients of the 2008 Freedom Awards presented by the Secretary of 
+Defense and the National Committee for Employer Support of the Guard 
+and Reserve.
+  Coastal Windows began their business in response to Hawaii's need for 
+windows and doors that could endure the harsh environmental climate of 
+the State's Sun, wind, rain, and salt air. They have been in operation 
+for nearly 20 years and in that time have grown to an organization 
+consisting of 62 employees. They are known for treating their employees 
+as part of their ``ohana'' or family and are proud members of the 
+community.
+  The manner in which they take care of their employees who also serve 
+in our Nation's Armed Forces should inspire all of us here in Congress 
+and across this Nation. Take for example their employee U.S. Army 
+sergeant Mike Echiverri, who is about to be deployed for the third time 
+as a member of the National Guard. During his absence, Coastal Windows 
+maintains all his benefits, including health, dental, vision, and his 
+retirement plans. He also continues to earn sick leave and vacation 
+time, and he is given additional time off to spend with his family 
+before and after each deployment. Coastal Windows also often sends care 
+packages to deployed employees and maintains regular communication via 
+e-mail. The company also extends its support to family members of 
+deployed employees by staying in constant contact with the family 
+members and ensuring that spouses are invited to social events.
+  Coastal Windows became actively involved with the Department of 
+Defense's Employer Support of the Guard and Reserve, ESGR, program 
+after its vice president, Bob Barrett, learned of the organization's 
+efforts to promote cooperation and understanding between Reserve 
+members and their civilian employers. Mr. Barrett became an ESGR 
+employer outreach volunteer and works with ESGR Hawaii to educate 
+employers about the benefits of hiring Guard and Reserve members. 
+Coastal Windows also supports the military community by participating 
+in activities like the Marine Corps' Toys for Tots program.
+  As 1 of only 15 companies nationwide to receive this honor, I 
+congratulate Coastal Windows, and Mr. Bob Barrett in particular, for 
+their dedication to their workers and for their selection as a Freedom 
+Award recipient for 2008. They have set the standard in Hawaii as an 
+example of how the community can take care of our soldiers, sailors,
+
+[[Page S9016]]
+
+airmen, and marines and their families and make a direct contribution 
+to the national security of the United States. I salute them for their 
+outstanding service and wish them continued success in the years to 
+come.●
+
+                          ____________________
+```
