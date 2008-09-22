@@ -1,0 +1,27 @@
+---
+granule: CREC-2008-09-22-pt1-PgS9221
+date: 2008-09-22
+edition: CREC
+section: SENATE
+page: S9221
+citation: 154 Cong. Rec. S9221
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate Monday, September 22, 
+2008:
+
+
+                          DEPARTMENT OF STATE
+
+       BILL NELSON, OF FLORIDA, TO BE A REPRESENTATIVE OF THE 
+     UNITED STATES OF AMERICA TO THE SIXTY-THIRD SESSION OF THE 
+     GENERAL ASSEMBLY OF THE UNITED NATIONS.
+       BOB CORKER, OF TENNESSEE, TO BE A REPRESENTATIVE OF THE 
+     UNITED STATES OF AMERICA TO THE SIXTY-THIRD SESSION OF THE 
+     GENERAL ASSEMBLY OF THE UNITED NATIONS.
+```

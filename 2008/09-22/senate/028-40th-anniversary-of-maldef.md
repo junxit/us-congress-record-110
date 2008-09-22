@@ -1,0 +1,62 @@
+---
+granule: CREC-2008-09-22-pt1-PgS9191-3
+date: 2008-09-22
+edition: CREC
+section: SENATE
+page: S9191
+citation: 154 Cong. Rec. S9191
+---
+
+# 40TH ANNIVERSARY OF MALDEF
+
+**Speaking:** Reid, Harry (R000146) [D-NV]
+
+```
+                       40TH ANNIVERSARY OF MALDEF
+
+  Mr. REID. Mr. President, I rise to call the attention of the Senate 
+to the 40th anniversary of the leading Latino litigation, advocacy, 
+community education, and outreach organization in the United States. 
+The Mexican American Legal Defense and Educational Fund, MALDEF, 
+celebrates 40 years of
+
+[[Page S9192]]
+
+protecting and promoting the civil rights of Latinos in the United 
+States.
+  MALDEF'S service to the Latino community is exemplary; they utilize 
+multiple strategies to foster sound public policies, laws, and programs 
+that secure the civil rights of Latinos. Their work on employment, 
+education, immigration, political access, language, and public resource 
+equity issues is pivotal to the advancement and progress of the Latino 
+community in the United States.
+  Over its rich 40-year history, MALDEF has been led by some of the 
+best and brightest Hispanic leaders who paved the way for excellence in 
+nonprofit leadership. Thanks to the fine leadership of Mario Obledo, 
+MALDEF's first president and general counsel; Antonia Hernandez, who 
+served MALDEF for 23 years; and John Trasvina, MALDEF's current 
+president and general counsel, we have much to celebrate. MALDEF's 
+leadership is heard throughout the nation from their headquarters in 
+Los Angeles, to San Antonio, Chicago, Washington, DC, Houston, and 
+Sacramento.
+  During these especially hard times for our Latino brothers and 
+sisters, when the anti-immigrant sentiment is at its highest, MALDEF 
+has been fighting to challenge breaches in voting rights, workplace 
+discrimination, access to justice, and educational access. In 2006, 
+MALDEF went before the U.S. Supreme Court and successfully challenged a 
+congressional redistricting plan that discriminated against Latino 
+voters in Texas. Most recently, MALDEF won a case that will require the 
+Texas Education Agency to fix the State's English Language Learner, 
+ELL, programs in secondary schools and restore educational equity for 
+our Latino students.
+  I commend the Mexican American Legal Defense and Educational Fund for 
+their 40-year commitment to the Hispanic community. Their record of 
+legal representation, advocacy, and educational outreach has 
+indisputably improved the quality of life and opportunities of all 
+Latinos in the U.S. It is through the hard work of organizations like 
+MALDEF that we will be able to overcome social and economic 
+inequalities faced by Americans of different ethnic and racial 
+backgrounds.
+
+                          ____________________
+```

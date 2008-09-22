@@ -1,0 +1,65 @@
+---
+granule: CREC-2008-09-22-pt1-PgS9170
+date: 2008-09-22
+edition: CREC
+section: SENATE
+page: S9170
+citation: 154 Cong. Rec. S9170
+---
+
+# MAIN STREET RESCUE PLAN
+
+**Speaking:** McConnell, Mitch (M000355) [R-KY]
+
+```
+                        MAIN STREET RESCUE PLAN
+
+  Mr. McCONNELL. Mr. President, when there is a fire in your kitchen 
+threatening to burn down your home, you don't want someone stopping the 
+firefighters on the way and demanding they hand out smoke detectors 
+first or lecturing you about the hazards of keeping paint in the 
+basement. You want them to put out the fire before it burns down your 
+home and everything you have saved for your whole life.
+  The same is true of our current economic situation. We know there is 
+a serious threat to our economy. We know we must take action to try to 
+head off a serious blow to Main Street.
+  Over the weekend, Congress received a straightforward four-page Main 
+Street rescue plan aimed at protecting millions of American families 
+and small businesses from the potentially devastating effects of a 
+credit meltdown. We are told that inaction could make it impossible for 
+ordinary Americans to take out loans for college tuition, cars, new 
+homes, and everything else, triggering a corresponding collapse in 
+manufacturing and services that could wipe out savings and lead to 
+massive job losses. The final cost of the plan is unclear, but the 
+potential consequences of inaction are not.
+  This proposal was designed to contain a spreading crisis, and urgent 
+action is needed. That is why Republicans have resisted the impulse to 
+try to add permanent tax relief and other aid to families and 
+businesses that we believe is critical to the long-term health of our 
+Nation's economy. And we ask our colleagues across the aisle to show 
+similar restraint so that whatever action we take can be done quickly 
+and in time to make a real difference.
+  This stabilization plan gives us an opportunity to prevent long-term 
+damage to Americans' savings, home values, and livelihoods--to contain 
+the problem from spreading to Main Street. Surely we can all agree to 
+work with each other and stand up for the American people instead of 
+using the bill as fly paper for partisan add-ons.
+  Republicans have many serious questions about this plan, but this is 
+the only concrete plan we have seen so far that aims to protect 
+Americans on Main Street--to protect their homes, their savings, their 
+retirement plans, protect endangered jobs and small businesses--and we 
+shouldn't jeopardize that effort by delaying urgent action or playing 
+partisan politics.
+  Americans want to know their savings and retirement accounts are 
+safe. They want the security of knowing the problems on Wall Street are 
+not going to spread to Main Street. The only way we can give them that 
+security and that assurance is by putting partisan interests aside.
+  There will be many more questions about this plan. I have many 
+myself. But we owe it to the American people to do our due diligence 
+quickly and act swiftly, Democrats and Republicans alike, to contain 
+this crisis before it is too late.
+  I am confident that we can work together. The American people are 
+counting on us. Let's not disappoint them.
+
+                          ____________________
+```
