@@ -1,0 +1,166 @@
+---
+granule: CRECB-2008-pt14-Pg19896
+date: 2008-09-22
+edition: CRECB
+section: SENATE
+page: 19896
+---
+
+# NATIVE AMERICAN HERITAGE DAY ACT OF 2008
+
+```
+                NATIVE AMERICAN HERITAGE DAY ACT OF 2008
+
+  Ms. KLOBUCHAR. Mr. President, I ask unanimous consent that the Senate 
+proceed to the consideration of Calendar No. 926, H.J. Res. 62; that 
+the committee amendment be agreed to, the resolution be read the third 
+time, passed, and the motion to reconsider be laid upon the table.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The Senate proceeded to consider the joint resolution (H.J. Res. 62) 
+to honor the achievements and contributions of Native Americans to the 
+United States, and for other purposes, which had been reported from the 
+Committee on Indian Affairs, with an amendment to strike all after the 
+enacting clause and insert in lieu thereof the following:
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Native American Heritage Day 
+     Act of 2008''.
+
+     SEC. 2. FINDINGS.
+
+       Congress finds that--
+       (1) Native Americans are the descendants of the aboriginal, 
+     indigenous, native people who were the original inhabitants 
+     of the United States;
+       (2) Native Americans have volunteered to serve in the 
+     United States Armed Forces and have served with valor in all 
+     of the Nation's military actions from the Revolutionary War 
+     through the present day, and in most of those actions, more 
+     Native Americans per capita served in the Armed Forces than 
+     any other group of Americans;
+       (3) Native Americans have made distinct and significant 
+     contributions to the United States and the rest of the world 
+     in many fields, including agriculture, medicine, music, 
+     language, and art, and Native Americans have distinguished 
+     themselves as inventors, entrepreneurs, spiritual leaders, 
+     and scholars;
+       (4) Native Americans should be recognized for their 
+     contributions to the United States as local and national 
+     leaders, artists, athletes, and scholars;
+       (5) nationwide recognition of the contributions that Native 
+     Americans have made to the fabric of American society will 
+     afford an opportunity for all Americans to demonstrate their 
+     respect and admiration of Native Americans for their 
+     important contributions to the political, cultural, and 
+     economic life of the United States;
+       (6) nationwide recognition of the contributions that Native 
+     Americans have made to the Nation will encourage self-esteem, 
+     pride, and self-awareness in Native Americans of all ages;
+       (7) designation of the Friday following Thanksgiving of 
+     each year as Native American Heritage Day will underscore the 
+     government-to-government relationship between the United 
+     States and Native American governments; and
+       (8) designation of Native American Heritage Day will 
+     encourage public elementary and secondary schools in the 
+     United States to enhance understanding of Native Americans by 
+     providing curricula and classroom instruction focusing on the 
+     achievements and contributions of Native Americans to the 
+     Nation.
+
+     SEC. 3. IMPLEMENTATION OF NATIVE AMERICAN HERITAGE DAY.
+
+       Congress--
+       (1) designates Friday, November 28, 2008, as ``Native 
+     American Heritage Day''; and
+       (2) encourages the people of the United States, as well as 
+     Federal, State, and local governments, and interested groups 
+     and organizations to observe Native American Heritage Day 
+     with appropriate programs, ceremonies, and activities, 
+     including activities relating to--
+       (A) the historical status of Native American tribal 
+     governments as well as the present day status of Native 
+     Americans;
+       (B) the cultures, traditions, and languages of Native 
+     Americans; and
+       (C) the rich Native American cultural legacy that all 
+     Americans enjoy today.
+
+  The amendment was ordered to be engrossed and the joint resolution to 
+be read a third time.
+  The joint resolution (H.J. Res. 62) was read the third time, and 
+passed.
+  Ms. MIKULSKI. Mr. President, I rise today to applaud the passage of 
+the resolution congratulating the University of Maryland School of 
+Medicine on its 200th anniversary. I am proud to introduce this 
+resolution that recognizes the outstanding contributions the University 
+of Maryland School of Medicine has made in the last 200 years to the 
+medical community, Maryland community, and entire world.
+  The University of Maryland School of Medicine is the first public 
+medical school in the country and is the fifth oldest medical school. 
+Since 1789, it has been a leader in medical education--the first 
+medical school in the country to build a teaching hospital for clinical 
+instruction, the first to establish a medical library, and the first 
+school to offer courses in preventive medicine.
+  Today, the University of Maryland School of Medicine is home to 25 
+academic departments, 7 research centers, and treats over 1 million 
+patients a year. I commend the contributions the school has made over 
+the past 200 years. I know the University of Maryland School of 
+Medicine will continue to blaze trails in the future as a leader in 
+medical research, patient care, education, and community service.
+  Ms. MURKOWSKI. Mr. President, I rise today in support of a resolution 
+that commemorates the Annual Red
+
+[[Page 19897]]
+
+Ribbon Campaign. I am honored to again seek the Senate's continuing 
+support and recognition of Red Ribbon Week, which is October 23 through 
+October 31.
+  In 1985, Special Agent Enrique ``Kiki'' Camarena of the Drug 
+Enforcement Administration was kidnapped, tortured, and murdered in the 
+line of duty by drug traffickers. Shortly after Agent Camarena's death, 
+Congressman Duncan Hunter and high school friend Henry Lozano launched 
+``Camarena Clubs'' in the Agent's hometown of Calexico, CA. In honor of 
+Agent Camarena, hundreds of club members wore red ribbons and pledged 
+to lead drug-free lives. The campaign quickly gained statewide and then 
+national prominence. In 1988, what is now the National Family 
+Partnership organized the first National Red Ribbon Week, an 8-day 
+event proclaimed by the Congress and chaired by then President and Mrs. 
+Reagan.
+  This campaign is now the oldest and largest drug prevention program 
+in the Nation, reaching millions of youth through Red Ribbon Week 
+events. Red Ribbon Week memorializes Agent Camarena, and all those who 
+have lost their lives in the war on drugs, by educating young people 
+about the dangers of drug abuse, promoting drug-free activities, and 
+supporting everyone who has stood strong against illicit drugs. The Red 
+Ribbon that we will wear during Red Ribbon Week is a symbol of zero 
+tolerance for illegal drug use and our commitment to help people, 
+especially children, make the right life-decisions.
+  In Alaska, Red Ribbon Week is a statewide celebration involving 
+thousands of school children and other supporters. On October 27, the 
+Alaska Red Ribbon Coalition, in conjunction with the municipality of 
+Anchorage, will host a Red Ribbon Week kickoff. The Red Ribbon 
+Coalition is comprised of the Anchorage School District, the Alaska 
+State Troopers, the Anchorage Police Department, the U.S. Drug 
+Enforcement Administration, and the U.S. Department of Justice. Forty-
+three Boys & Girls Clubs across Alaska will help other Alaskan 
+communities celebrate Red Ribbon Week throughout the State.
+  In addition, this year, the Red Ribbon Coalition, the Alaska National 
+Guard, and the Iditarod Trail Committee are sponsoring the first ever 
+Anchorage School District Idol whereby every junior high and high 
+school in Anchorage will hold local talent competitions and select one 
+act to move to a final competition. The acts will be judged based, 
+among other things, on their drug-free themes, and the final 
+competition will be held as part of the Iditarod Sled Dog Race 
+festivities in March 2009. The plan is to broadcast the event to the 
+students in all 50 States and across the globe who participate in the 
+Iditarod Education Program, thus extending the reach of the 2008 Red 
+Ribbon Week into 2009, and sharing Anchorage's Red Ribbon Week antidrug 
+message and celebrations with the Nation and the world.
+  As we stand together against drugs, I thank my colleagues for joining 
+me in what hopefully will be a continuation of the tradition of 
+congressional support and recognition of Red Ribbon Week.
+  The PRESIDING OFFICER. The Senator from Minnesota is recognized.
+
+                          ____________________
+```

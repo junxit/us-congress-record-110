@@ -1,0 +1,2397 @@
+---
+granule: CRECB-2008-pt14-Pg19962
+date: 2008-09-22
+edition: CRECB
+section: HOUSE
+page: 19962
+---
+
+# GREAT LAKES--ST. LAWRENCE RIVER BASIN WATER RESOURCES COMPACT
+
+```
+     GREAT LAKES--ST. LAWRENCE RIVER BASIN WATER RESOURCES COMPACT
+
+  Ms. SUTTON. Mr. Speaker, I move to suspend the rules and pass the 
+Senate joint resolution (S.J. Res. 45) expressing the consent and 
+approval of Congress to an interstate compact regarding water resources 
+in the Great Lakes--St. Lawrence River Basin.
+  The Clerk read the title of the Senate joint resolution.
+  The text of the Senate joint resolution is as follows:
+
+                              S.J. Res. 45
+
+       Whereas the interstate compact regarding water resources in 
+     the Great Lakes--St. Lawrence River Basin reads as follows:
+
+                              ``AGREEMENT
+
+       ``Section 1. The states of Illinois, Indiana, Michigan, 
+     Minnesota, New York, Ohio and Wisconsin and the Commonwealth 
+     of Pennsylvania hereby solemnly covenant and agree with each 
+     other, upon enactment of concurrent legislation by the 
+     respective state legislatures and consent by the Congress of 
+     the United States as follows:
+
+    ``GREAT LAKES--ST. LAWRENCE RIVER BASIN WATER RESOURCES COMPACT
+
+                              ``ARTICLE 1
+
+           ``SHORT TITLE, DEFINITIONS, PURPOSES AND DURATION
+
+     ``Section 1.1. Short Title. This act shall be known and may 
+     be cited as the ``Great Lakes--St. Lawrence River Basin Water 
+     Resources Compact.''
+     ``Section 1.2. Definitions. For the purposes of this Compact, 
+     and of any supplemental or concurring legislation enacted 
+     pursuant thereto, except as may be otherwise required by the 
+     context:
+
+[[Page 19963]]
+
+       ``Adaptive Management means a Water resources management 
+     system that provides a systematic process for evaluation, 
+     monitoring and learning from the outcomes of operational 
+     programs and adjustment of policies, plans and programs based 
+     on experience and the evolution of scientific knowledge 
+     concerning Water resources and Water Dependent Natural 
+     Resources.
+       ``Agreement means the Great Lakes--St. Lawrence River Basin 
+     Sustainable Water Resources Agreement.
+       ``Applicant means a Person who is required to submit a 
+     Proposal that is subject to management and regulation under 
+     this Compact. Application has a corresponding meaning.
+       ``Basin or Great Lakes--St. Lawrence River Basin means the 
+     watershed of the Great Lakes and the St. Lawrence River 
+     upstream from Trois-Rivieres, Quebec within the jurisdiction 
+     of the Parties.
+       ``Basin Ecosystem or Great Lakes--St. Lawrence River Basin 
+     Ecosystem means the interacting components of air, land, 
+     Water and living organisms, including humankind, within the 
+     Basin.
+       ``Community within a Straddling County means any 
+     incorporated city, town or the equivalent thereof, that is 
+     located outside the Basin but wholly within a County that 
+     lies partly within the Basin and that is not a Straddling 
+     Community.
+       ``Compact means this Compact.
+       ``Consumptive Use means that portion of the Water Withdrawn 
+     or withheld from the Basin that is lost or otherwise not 
+     returned to the Basin due to evaporation, incorporation into 
+     Products, or other processes.
+       ``Council means the Great Lakes--St. Lawrence River Basin 
+     Water Resources Council, created by this Compact.
+       ``Council Review means the collective review by the Council 
+     members as described in Article 4 of this Compact.
+       ``County means the largest territorial division for local 
+     government in a State. The County boundaries shall be defined 
+     as those boundaries that exist as of December 13, 2005.
+       ``Cumulative Impacts mean the impact on the Basin Ecosystem 
+     that results from incremental effects of all aspects of a 
+     Withdrawal, Diversion or Consumptive Use in addition to other 
+     past, present, and reasonably foreseeable future Withdrawals, 
+     Diversions and Consumptive Uses regardless of who undertakes 
+     the other Withdrawals, Diversions and Consumptive Uses. 
+     Cumulative Impacts can result from individually minor but 
+     collectively significant Withdrawals, Diversions and 
+     Consumptive Uses taking place over a period of time.
+       ``Decision-Making Standard means the decision-making 
+     standard established by Section 4.11 for Proposals subject to 
+     management and regulation in Section 4.10.
+       ``Diversion means a transfer of Water from the Basin into 
+     another watershed, or from the watershed of one of the Great 
+     Lakes into that of another by any means of transfer, 
+     including but not limited to a pipeline, canal, tunnel, 
+     aqueduct, channel, modification of the direction of a water 
+     course, a tanker ship, tanker truck or rail tanker but does 
+     not apply to Water that is used in the Basin or a Great Lake 
+     watershed to manufacture or produce a Product that is then 
+     transferred out of the Basin or watershed. Divert has a 
+     corresponding meaning.
+       ``Environmentally Sound and Economically Feasible Water 
+     Conservation Measures mean those measures, methods, 
+     technologies or practices for efficient water use and for 
+     reduction of water loss and waste or for reducing a 
+     Withdrawal, Consumptive Use or Diversion that i) are 
+     environmentally sound, ii) reflect best practices applicable 
+     to the water use sector, iii) are technically feasible and 
+     available, iv) are economically feasible and cost effective 
+     based on an analysis that considers direct and avoided 
+     economic and environmental costs and v) consider the 
+     particular facilities and processes involved, taking into 
+     account the environmental impact, age of equipment and 
+     facilities involved, the processes employed, energy impacts 
+     and other appropriate factors.
+       ``Exception means a transfer of Water that is excepted 
+     under Section 4.9 from the prohibition against Diversions in 
+     Section 4.8.
+       ``Exception Standard means the standard for Exceptions 
+     established in Section 4.9.4.
+       ``Intra-Basin Transfer means the transfer of Water from the 
+     watershed of one of the Great Lakes into the watershed of 
+     another Great Lake.
+       ``Measures means any legislation, law, regulation, 
+     directive, requirement, guideline, program, policy, 
+     administrative practice or other procedure.
+       ``New or Increased Diversion means a new Diversion, an 
+     increase in an existing Diversion, or the alteration of an 
+     existing Withdrawal so that it becomes a Diversion.
+       ``New or Increased Withdrawal or Consumptive Use means a 
+     new Withdrawal or Consumptive Use or an increase in an 
+     existing Withdrawal or Consumptive Use.
+       ``Originating Party means the Party within whose 
+     jurisdiction an Application or registration is made or 
+     required.
+       ``Party means a State party to this Compact.
+       ``Person means a human being or a legal person, including a 
+     government or a nongovernmental organization, including any 
+     scientific, professional, business, non-profit, or public 
+     interest organization or association that is neither 
+     affiliated with, nor under the direction of a government.
+       ``Product means something produced in the Basin by human or 
+     mechanical effort or through agricultural processes and used 
+     in manufacturing, commercial or other processes or intended 
+     for intermediate or end use consumers. (i) Water used as part 
+     of the packaging of a Product shall be considered to be part 
+     of the Product. (ii) Other than Water used as part of the 
+     packaging of a Product, Water that is used primarily to 
+     transport materials in or out of the Basin is not a Product 
+     or part of a Product. (iii) Except as provided in (i) above, 
+     Water which is transferred as part of a public or private 
+     supply is not a Product or part of a Product. (iv) Water in 
+     its natural state such as in lakes, rivers, reservoirs, 
+     aquifers, or water basins is not a Product.
+       ``Proposal means a Withdrawal, Diversion or Consumptive Use 
+     of Water that is subject to this Compact.
+       ``Province means Ontario or Quebec.
+       ``Public Water Supply Purposes means water distributed to 
+     the public through a physically connected system of 
+     treatment, storage and distribution facilities serving a 
+     group of largely residential customers that may also serve 
+     industrial, commercial, and other institutional operators. 
+     Water Withdrawn directly from the Basin and not through such 
+     a system shall not be considered to be used for Public Water 
+     Supply Purposes.
+       ``Regional Body means the members of the Council and the 
+     Premiers of Ontario and Quebec or their designee as 
+     established by the Agreement.
+       ``Regional Review means the collective review by the 
+     Regional Body as described in Article 4 of this Compact.
+       ``Source Watershed means the watershed from which a 
+     Withdrawal originates. If Water is Withdrawn directly from a 
+     Great Lake or from the St. Lawrence River, then the Source 
+     Watershed shall be considered to be the watershed of that 
+     Great Lake or the watershed of the St. Lawrence River, 
+     respectively. If Water is Withdrawn from the watershed of a 
+     stream that is a direct tributary to a Great Lake or a direct 
+     tributary to the St. Lawrence River, then the Source 
+     Watershed shall be considered to be the watershed of that 
+     Great Lake or the watershed of the St. Lawrence River, 
+     respectively, with a preference to the direct tributary 
+     stream watershed from which it was Withdrawn.
+       ``Standard of Review and Decision means the Exception 
+     Standard, Decision-Making Standard and reviews as outlined in 
+     Article 4 of this Compact.
+       ``State means one of the states of Illinois, Indiana, 
+     Michigan, Minnesota, New York, Ohio or Wisconsin or the 
+     Commonwealth of Pennsylvania.
+       ``Straddling Community means any incorporated city, town or 
+     the equivalent thereof, wholly within any County that lies 
+     partly or completely within the Basin, whose corporate 
+     boundary existing as of the effective date of this Compact, 
+     is partly within the Basin or partly within two Great Lakes 
+     watersheds.
+       ``Technical Review means a detailed review conducted to 
+     determine whether or not a Proposal that requires Regional 
+     Review under this Compact meets the Standard of Review and 
+     Decision following procedures and guidelines as set out in 
+     this Compact.
+       ``Water means ground or surface water contained within the 
+     Basin.
+       ``Water Dependent Natural Resources means the interacting 
+     components of land, Water and living organisms affected by 
+     the Waters of the Basin.
+       ``Waters of the Basin or Basin Water means the Great Lakes 
+     and all streams, rivers, lakes, connecting channels and other 
+     bodies of water, including tributary groundwater, within the 
+     Basin.
+       ``Withdrawal means the taking of water from surface water 
+     or groundwater. Withdraw has a corresponding meaning.
+     ``Section 1.3. Findings and Purposes.
+       ``The legislative bodies of the respective Parties hereby 
+     find and declare:
+       ``1. Findings:
+       ``a. The Waters of the Basin are precious public natural 
+     resources shared and held in trust by the States;
+       ``b. The Waters of the Basin are interconnected and part of 
+     a single hydrologic system;
+       ``c. The Waters of the Basin can concurrently serve 
+     multiple uses. Such multiple uses include municipal, public, 
+     industrial, commercial, agriculture, mining, navigation, 
+     energy development and production, recreation, the 
+     subsistence, economic and cultural activities of native 
+     peoples, Water quality maintenance, and the maintenance of 
+     fish and wildlife habitat and a balanced ecosystem. And, 
+     other purposes are encouraged, recognizing that such uses are 
+     interdependent and must be balanced;
+       ``d. Future Diversions and Consumptive Uses of Basin Water 
+     resources have the potential to significantly impact the 
+     environment, economy and welfare of the Great Lakes--St. 
+     Lawrence River region;
+       ``e. Continued sustainable, accessible and adequate Water 
+     supplies for the people and economy of the Basin are of vital 
+     importance; and,
+       ``f. The Parties have a shared duty to protect, conserve, 
+     restore, improve and manage
+
+[[Page 19964]]
+
+     the renewable but finite Waters of the Basin for the use, 
+     benefit and enjoyment of all their citizens, including 
+     generations yet to come. The most effective means of 
+     protecting, conserving, restoring, improving and managing the 
+     Basin Waters is through the joint pursuit of unified and 
+     cooperative principles, policies and programs mutually-agreed 
+     upon, enacted and adhered to by all Parties.
+       ``2. Purposes:
+       ``a. To act together to protect, conserve, restore, improve 
+     and effectively manage the Waters and Water Dependent Natural 
+     Resources of the Basin under appropriate arrangements for 
+     intergovernmental cooperation and consultation because 
+     current lack of full scientific certainty should not be used 
+     as a reason for postponing measures to protect the Basin 
+     Ecosystem;
+       ``b. To remove causes of present and future controversies;
+       ``c. To provide for cooperative planning and action by the 
+     Parties with respect to such Water resources;
+       ``d. To facilitate consistent approaches to Water 
+     management across the Basin while retaining State management 
+     authority over Water management decisions within the Basin;
+       ``e. To facilitate the exchange of data, strengthen the 
+     scientific information base upon which decisions are made and 
+     engage in consultation on the potential effects of proposed 
+     Withdrawals and losses on the Waters and Water Dependent 
+     Natural Resources of the Basin;
+       ``f. To prevent significant adverse impacts of Withdrawals 
+     and losses on the Basin's ecosystems and watersheds;
+       ``g. To promote interstate and State-Provincial comity; 
+     and,
+       ``h. To promote an Adaptive Management approach to the 
+     conservation and management of Basin Water resources, which 
+     recognizes, considers and provides adjustments for the 
+     uncertainties in, and evolution of, scientific knowledge 
+     concerning the Basin's Waters and Water Dependent Natural 
+     Resources.
+     ``Section 1.4. Science.
+       ``1. The Parties commit to provide leadership for the 
+     development of a collaborative strategy with other regional 
+     partners to strengthen the scientific basis for sound Water 
+     management decision making under this Compact.
+       ``2. The strategy shall guide the collection and 
+     application of scientific information to support:
+       ``a. An improved understanding of the individual and 
+     Cumulative Impacts of Withdrawals from various locations and 
+     Water sources on the Basin Ecosystem and to develop a 
+     mechanism by which impacts of Withdrawals may be assessed;
+       ``b. The periodic assessment of Cumulative Impacts of 
+     Withdrawals, Diversions and Consumptive Uses on a Great Lake 
+     and St. Lawrence River watershed basis;
+       ``c. Improved scientific understanding of the Waters of the 
+     Basin;
+       ``d. Improved understanding of the role of groundwater in 
+     Basin Water resources management; and,
+       ``e. The development, transfer and application of science 
+     and research related to Water conservation and Water use 
+     efficiency.
+
+                              ``ARTICLE 2
+
+                             ``ORGANIZATION
+
+     ``Section 2.1. Council Created.
+       ``The Great Lakes--St. Lawrence River Basin Water Resources 
+     Council is hereby created as a body politic and corporate, 
+     with succession for the duration of this Compact, as an 
+     agency and instrumentality of the governments of the 
+     respective Parties.
+     ``Section 2.2. Council Membership.
+       ``The Council shall consist of the Governors of the 
+     Parties, ex officio.
+     ``Section 2.3. Alternates.
+       ``Each member of the Council shall appoint at least one 
+     alternate who may act in his or her place and stead, with 
+     authority to attend all meetings of the Council and with 
+     power to vote in the absence of the member. Unless otherwise 
+     provided by law of the Party for which he or she is 
+     appointed, each alternate shall serve during the term of the 
+     member appointing him or her, subject to removal at the 
+     pleasure of the member. In the event of a vacancy in the 
+     office of alternate, it shall be filled in the same manner as 
+     an original appointment for the unexpired term only.
+     ``Section 2.4. Voting.
+       ``1. Each member is entitled to one vote on all matters 
+     that may come before the Council.
+       ``2. Unless otherwise stated, the rule of decision shall be 
+     by a simple majority.
+       ``3. The Council shall annually adopt a budget for each 
+     fiscal year and the amount required to balance the budget 
+     shall be apportioned equitably among the Parties by unanimous 
+     vote of the Council. The appropriation of such amounts shall 
+     be subject to such review and approval as may be required by 
+     the budgetary processes of the respective Parties.
+       ``4. The participation of Council members from a majority 
+     of the Parties shall constitute a quorum for the transaction 
+     of business at any meeting of the Council.
+     ``Section 2.5. Organization and Procedure.
+       ``The Council shall provide for its own organization and 
+     procedure, and may adopt rules and regulations governing its 
+     meetings and transactions, as well as the procedures and 
+     timeline for submission, review and consideration of 
+     Proposals that come before the Council for its review and 
+     action. The Council shall organize, annually, by the election 
+     of a Chair and Vice Chair from among its members. Each member 
+     may appoint an advisor, who may attend all meetings of the 
+     Council and its committees, but shall not have voting power. 
+     The Council may employ or appoint professional and 
+     administrative personnel, including an Executive Director, as 
+     it may deem advisable, to carry out the purposes of this 
+     Compact.
+     ``Section 2.6. Use of Existing Offices and Agencies.
+       ``It is the policy of the Parties to preserve and utilize 
+     the functions, powers and duties of existing offices and 
+     agencies of government to the extent consistent with this 
+     Compact. Further, the Council shall promote and aid the 
+     coordination of the activities and programs of the Parties 
+     concerned with Water resources management in the Basin. To 
+     this end, but without limitation, the Council may:
+       ``1. Advise, consult, contract, assist or otherwise 
+     cooperate with any and all such agencies;
+       ``2. Employ any other agency or instrumentality of any of 
+     the Parties for any purpose; and,
+       ``3. Develop and adopt plans consistent with the Water 
+     resources plans of the Parties.
+     ``Section 2.7. Jurisdiction.
+       ``The Council shall have, exercise and discharge its 
+     functions, powers and duties within the limits of the Basin. 
+     Outside the Basin, it may act in its discretion, but only to 
+     the extent such action may be necessary or convenient to 
+     effectuate or implement its powers or responsibilities within 
+     the Basin and subject to the consent of the jurisdiction 
+     wherein it proposes to act.
+     ``Section 2.8. Status, Immunities and Privileges.
+       ``1. The Council, its members and personnel in their 
+     official capacity and when engaged directly in the affairs of 
+     the Council, its property and its assets, wherever located 
+     and by whomsoever held, shall enjoy the same immunity from 
+     suit and every form of judicial process as is enjoyed by the 
+     Parties, except to the extent that the Council may expressly 
+     waive its immunity for the purposes of any proceedings or by 
+     the terms of any contract.
+       ``2. The property and assets of the Council, wherever 
+     located and by whomsoever held, shall be considered public 
+     property and shall be immune from search, requisition, 
+     confiscation, expropriation or any other form of taking or 
+     foreclosure by executive or legislative action.
+       ``3. The Council, its property and its assets, income and 
+     the operations it carries out pursuant to this Compact shall 
+     be immune from all taxation by or under the authority of any 
+     of the Parties or any political subdivision thereof; 
+     provided, however, that in lieu of property taxes the Council 
+     may make reasonable payments to local taxing districts in 
+     annual amounts which shall approximate the taxes lawfully 
+     assessed upon similar property.
+     ``Section 2.9. Advisory Committees.
+       ``The Council may constitute and empower advisory 
+     committees, which may be comprised of representatives of the 
+     public and of federal, State, tribal, county and local 
+     governments, water resources agencies, water-using industries 
+     and sectors, water-interest groups and academic experts in 
+     related fields.
+
+                              ``ARTICLE 3
+
+                      ``GENERAL POWERS AND DUTIES
+
+     ``Section 3.1. General.
+       ``The Waters and Water Dependent Natural Resources of the 
+     Basin are subject to the sovereign right and responsibilities 
+     of the Parties, and it is the purpose of this Compact to 
+     provide for joint exercise of such powers of sovereignty by 
+     the Council in the common interests of the people of the 
+     region, in the manner and to the extent provided in this 
+     Compact. The Council and the Parties shall use the Standard 
+     of Review and Decision and procedures contained in or adopted 
+     pursuant to this Compact as the means to exercise their 
+     authority under this Compact.
+
+     The Council may revise the Standard of Review and Decision, 
+     after consultation with the Provinces and upon unanimous vote 
+     of all Council members, by regulation duly adopted in 
+     accordance with Section 3.3 of this Compact and in accordance 
+     with each Party's respective statutory authorities and 
+     applicable procedures.
+
+     The Council shall identify priorities and develop plans and 
+     policies relating to Basin Water resources. It shall adopt 
+     and promote uniform and coordinated policies for Water 
+     resources conservation and management in the Basin.
+     ``Section 3.2. Council Powers.
+       ``The Council may: plan; conduct research and collect, 
+     compile, analyze, interpret, report and disseminate data on 
+     Water resources and uses; forecast Water levels; conduct 
+     investigations; institute court actions; design, acquire, 
+     construct, reconstruct, own, operate, maintain, control, sell 
+     and convey real and personal property and any interest
+
+[[Page 19965]]
+
+     therein as it may deem necessary, useful or convenient to 
+     carry out the purposes of this Compact; make contracts; 
+     receive and accept such payments, appropriations, grants, 
+     gifts, loans, advances and other funds, properties and 
+     services as may be transferred or made available to it by any 
+     Party or by any other public or private agency, corporation 
+     or individual; and, exercise such other and different powers 
+     as may be delegated to it by this Compact or otherwise 
+     pursuant to law, and have and exercise all powers necessary 
+     or convenient to carry out its express powers or which may be 
+     reasonably implied therefrom.
+     ``Section 3.3. Rules and Regulations.
+       ``1. The Council may promulgate and enforce such rules and 
+     regulations as may be necessary for the implementation and 
+     enforcement of this Compact. The Council may adopt by 
+     regulation, after public notice and public hearing, 
+     reasonable Application fees with respect to those Proposals 
+     for Exceptions that are subject to Council review under 
+     Section 4.9. Any rule or regulation of the Council, other 
+     than one which deals solely with the internal management of 
+     the Council or its property, shall be adopted only after 
+     public notice and hearing.
+       ``2. Each Party, in accordance with its respective 
+     statutory authorities and applicable procedures, may adopt 
+     and enforce rules and regulations to implement and enforce 
+     this Compact and the programs adopted by such Party to carry 
+     out the management programs contemplated by this Compact.
+     ``Section 3.4. Program Review and Findings.
+       ``1. Each Party shall submit a report to the Council and 
+     the Regional Body detailing its Water management and 
+     conservation and efficiency programs that implement this 
+     Compact. The report shall set out the manner in which Water 
+     Withdrawals are managed by sector, Water source, quantity or 
+     any other means, and how the provisions of the Standard of 
+     Review and Decision and conservation and efficiency programs 
+     are implemented. The first report shall be provided by each 
+     Party one year from the effective date of this Compact and 
+     thereafter every 5 years.
+       ``2. The Council, in cooperation with the Provinces, shall 
+     review its Water management and conservation and efficiency 
+     programs and those of the Parties that are established in 
+     this Compact and make findings on whether the Water 
+     management program provisions in this Compact are being met, 
+     and if not, recommend options to assist the Parties in 
+     meeting the provisions of this Compact. Such review shall 
+     take place:
+       ``a. 30 days after the first report is submitted by all 
+     Parties; and,
+       ``b. Every five years after the effective date of this 
+     Compact; and,
+       ``c. At any other time at the request of one of the 
+     Parties.
+       ``3. As one of its duties and responsibilities, the Council 
+     may recommend a range of approaches to the Parties with 
+     respect to the development, enhancement and application of 
+     Water management and conservation and efficiency programs to 
+     implement the Standard of Review and Decision reflecting 
+     improved scientific understanding of the Waters of the Basin, 
+     including groundwater, and the impacts of Withdrawals on the 
+     Basin Ecosystem.
+
+                              ``ARTICLE 4
+
+                   ``WATER MANAGEMENT AND REGULATION
+
+     ``Section 4.1. Water Resources Inventory, Registration and 
+     Reporting.
+       ``1. Within five years of the effective date of this 
+     Compact, each Party shall develop and maintain a Water 
+     resources inventory for the collection, interpretation, 
+     storage, retrieval exchange, and dissemination of information 
+     concerning the Water resources of the Party, including, but 
+     not limited to, information on the location, type, quantity, 
+     and use of those resources and the location, type, and 
+     quantity of Withdrawals, Diversions and Consumptive Uses. To 
+     the extent feasible, the Water resources inventory shall be 
+     developed in cooperation with local, State, federal, tribal 
+     and other private agencies and entities, as well as the 
+     Council. Each Party's agencies shall cooperate with that 
+     Party in the development and maintenance of the inventory.
+       ``2. The Council shall assist each Party to develop a 
+     common base of data regarding the management of the Water 
+     Resources of the Basin and to establish systematic 
+     arrangements for the exchange of those data with other States 
+     and Provinces.
+       ``3. To develop and maintain a compatible base of Water use 
+     information, within five years of the effective date of this 
+     Compact any Person who Withdraws Water in an amount of 
+     100,000 gallons per day or greater average in any 30-day 
+     period (including Consumptive Uses) from all sources, or 
+     Diverts Water of any amount, shall register the Withdrawal or 
+     Diversion by a date set by the Council unless the Person has 
+     previously registered in accordance with an existing State 
+     program. The Person shall register the Withdrawal or 
+     Diversion with the Originating Party using a form prescribed 
+     by the Originating Party that shall include, at a minimum and 
+     without limitation: the name and address of the registrant 
+     and date of registration; the locations and sources of the 
+     Withdrawal or Diversion; the capacity of the Withdrawal or 
+     Diversion per day and the amount Withdrawn or Diverted from 
+     each source; the uses made of the Water; places of use and 
+     places of discharge; and, such other information as the 
+     Originating Party may require. All registrations shall 
+     include an estimate of the volume of the Withdrawal or 
+     Diversion in terms of gallons per day average in any 30-day 
+     period.
+       ``4. All registrants shall annually report the monthly 
+     volumes of the Withdrawal, Consumptive Use and Diversion in 
+     gallons to the Originating Party and any other information 
+     requested by the Originating Party.
+       ``5. Each Party shall annually report the information 
+     gathered pursuant to this Section to a Great Lakes--St. 
+     Lawrence River Water use data base repository and aggregated 
+     information shall be made publicly available, consistent with 
+     the confidentiality requirements in Section 8.3.
+       ``6. Information gathered by the Parties pursuant to this 
+     Section shall be used to improve the sources and applications 
+     of scientific information regarding the Waters of the Basin 
+     and the impacts of the Withdrawals and Diversions from 
+     various locations and Water sources on the Basin Ecosystem, 
+     and to better understand the role of groundwater in the 
+     Basin. The Council and the Parties shall coordinate the 
+     collection and application of scientific information to 
+     further develop a mechanism by which individual and 
+     Cumulative Impacts of Withdrawals, Consumptive Uses and 
+     Diversions shall be assessed.
+     ``Section 4.2. Water Conservation and Efficiency Programs.
+       ``1. The Council commits to identify, in cooperation with 
+     the Provinces, Basin-wide Water conservation and efficiency 
+     objectives to assist the Parties in developing their Water 
+     conservation and efficiency program. These objectives are 
+     based on the goals of:
+       ``a. Ensuring improvement of the Waters and Water Dependent 
+     Natural Resources;
+       ``b. Protecting and restoring the hydrologic and ecosystem 
+     integrity of the Basin;
+       ``c. Retaining the quantity of surface water and 
+     groundwater in the Basin;
+       ``d. Ensuring sustainable use of Waters of the Basin; and,
+       ``e. Promoting the efficiency of use and reducing losses 
+     and waste of Water.
+       ``2. Within two years of the effective date of this 
+     Compact, each Party shall develop its own Water conservation 
+     and efficiency goals and objectives consistent with the 
+     Basin-wide goals and objectives, and shall develop and 
+     implement a Water conservation and efficiency program, either 
+     voluntary or mandatory, within its jurisdiction based on the 
+     Party's goals and objectives. Each Party shall annually 
+     assess its programs in meeting the Party's goals and 
+     objectives, report to the Council and the Regional Body and 
+     make this annual assessment available to the public.
+       ``3. Beginning five years after the effective date of this 
+     Compact, and every five years thereafter, the Council, in 
+     cooperation with the Provinces, shall review and modify as 
+     appropriate the Basin-wide objectives, and the Parties shall 
+     have regard for any such modifications in implementing their 
+     programs. This assessment will be based on examining new 
+     technologies, new patterns of Water use, new resource demands 
+     and threats, and Cumulative Impact assessment under Section 
+     4.15.
+       ``4. Within two years of the effective date of this 
+     Compact, the Parties commit to promote Environmentally Sound 
+     and Economically Feasible Water Conservation Measures such 
+     as:
+       ``a. Measures that promote efficient use of Water;
+       ``b. Identification and sharing of best management 
+     practices and state of the art conservation and efficiency 
+     technologies;
+       ``c. Application of sound planning principles;
+       ``d. Demand-side and supply-side Measures or incentives; 
+     and,
+       ``e. Development, transfer and application of science and 
+     research.
+       ``5. Each Party shall implement in accordance with 
+     paragraph 2 above a voluntary or mandatory Water conservation 
+     program for all, including existing, Basin Water users. 
+     Conservation programs need to adjust to new demands and the 
+     potential impacts of cumulative effects and climate.
+     ``Section 4.3. Party Powers and Duties.
+       ``1. Each Party, within its jurisdiction, shall manage and 
+     regulate New or Increased Withdrawals, Consumptive Uses and 
+     Diversions, including Exceptions, in accordance with this 
+     Compact.
+       ``2. Each Party shall require an Applicant to submit an 
+     Application in such manner and with such accompanying 
+     information as the Party shall prescribe.
+       ``3. No Party may approve a Proposal if the Party 
+     determines that the Proposal is inconsistent with this 
+     Compact or the Standard of Review and Decision or any 
+     implementing rules or regulations promulgated thereunder. The 
+     Party may approve, approve with modifications or disapprove 
+     any Proposal depending on the Proposal's consistency with 
+     this Compact and the Standard of Review and Decision.
+       ``4. Each Party shall monitor the implementation of any 
+     approved Proposal to ensure consistency with the approval and 
+     may take all necessary enforcement actions.
+       ``5. No Party shall approve a Proposal subject to Council 
+     or Regional Review, or both, pursuant to this Compact unless 
+     it shall
+
+[[Page 19966]]
+
+     have been first submitted to and reviewed by either the 
+     Council or Regional Body, or both, and approved by the 
+     Council, as applicable. Sufficient opportunity shall be 
+     provided for comment on the Proposal's consistency with this 
+     Compact and the Standard of Review and Decision. All such 
+     comments shall become part of the Party's formal record of 
+     decision, and the Party shall take into consideration any 
+     such comments received.
+     ``Section 4.4. Requirement for Originating Party Approval.
+       ``No Proposal subject to management and regulation under 
+     this Compact shall hereafter be undertaken by any Person 
+     unless it shall have been approved by the Originating Party.
+     ``Section 4.5. Regional Review.
+       ``1. General.
+       ``a. It is the intention of the Parties to participate in 
+     Regional Review of Proposals with the Provinces, as described 
+     in this Compact and the Agreement.
+       ``b. Unless the Applicant or the Originating Party 
+     otherwise requests, it shall be the goal of the Regional Body 
+     to conclude its review no later than 90 days after notice 
+     under Section 4.5.2 of such Proposal is received from the 
+     Originating Party.
+       ``c. Proposals for Exceptions subject to Regional Review 
+     shall be submitted by the Originating Party to the Regional 
+     Body for Regional Review, and where applicable, to the 
+     Council for concurrent review.
+       ``d. The Parties agree that the protection of the integrity 
+     of the Great Lakes--St. Lawrence River Basin Ecosystem shall 
+     be the overarching principle for reviewing Proposals subject 
+     to Regional Review, recognizing uncertainties with respect to 
+     demands that may be placed on Basin Water, including 
+     groundwater, levels and flows of the Great Lakes and the St. 
+     Lawrence River, future changes in environmental conditions, 
+     the reliability of existing data and the extent to which 
+     Diversions may harm the integrity of the Basin Ecosystem.
+       ``e. The Originating Party shall have lead responsibility 
+     for coordinating information for resolution of issues related 
+     to evaluation of a Proposal, and shall consult with the 
+     Applicant throughout the Regional Review Process.
+       ``f. A majority of the members of the Regional Body may 
+     request Regional Review of a regionally significant or 
+     potentially precedent setting Proposal. Such Regional Review 
+     must be conducted, to the extent possible, within the time 
+     frames set forth in this Section. Any such Regional Review 
+     shall be undertaken only after consulting the Applicant.
+       ``2. Notice from Originating Party to the Regional Body.
+       ``a. The Originating Party shall determine if a Proposal is 
+     subject to Regional Review. If so, the Originating Party 
+     shall provide timely notice to the Regional Body and the 
+     public.
+       ``b. Such notice shall not be given unless and until all 
+     information, documents and the Originating Party's Technical 
+     Review needed to evaluate whether the Proposal meets the 
+     Standard of Review and Decision have been provided.
+       ``c. An Originating Party may:
+       ``i. Provide notice to the Regional Body of an Application, 
+     even if notification is not required; or,
+       ``ii. Request Regional Review of an application, even if 
+     Regional Review is not required. Any such Regional Review 
+     shall be undertaken only after consulting the Applicant.
+       ``d. An Originating Party may provide preliminary notice of 
+     a potential Proposal.
+       ``3. Public Participation.
+       ``a. To ensure adequate public participation, the Regional 
+     Body shall adopt procedures for the review of Proposals that 
+     are subject to Regional Review in accordance with this 
+     Article.
+       ``b. The Regional Body shall provide notice to the public 
+     of a Proposal undergoing Regional Review. Such notice shall 
+     indicate that the public has an opportunity to comment in 
+     writing to the Regional Body on whether the Proposal meets 
+     the Standard of Review and Decision.
+       ``c. The Regional Body shall hold a public meeting in the 
+     State or Province of the Originating Party in order to 
+     receive public comment on the issue of whether the Proposal 
+     under consideration meets the Standard of Review and 
+     Decision.
+       ``d. The Regional Body shall consider the comments received 
+     before issuing a Declaration of Finding.
+       ``e. The Regional Body shall forward the comments it 
+     receives to the Originating Party.
+       ``4. Technical Review.
+       ``a. The Originating Party shall provide the Regional Body 
+     with its Technical Review of the Proposal under 
+     consideration.
+       ``b. The Originating Party's Technical Review shall 
+     thoroughly analyze the Proposal and provide an evaluation of 
+     the Proposal sufficient for a determination of whether the 
+     Proposal meets the Standard of Review and Decision.
+       ``c. Any member of the Regional Body may conduct their own 
+     Technical Review of any Proposal subject to Regional Review.
+       ``d. At the request of the majority of its members, the 
+     Regional Body shall make such arrangements as it considers 
+     appropriate for an independent Technical Review of a 
+     Proposal.
+       ``e. All Parties shall exercise their best efforts to 
+     ensure that a Technical Review undertaken under Sections 
+     4.5.4.c and 4.5.4.d does not unnecessarily delay the decision 
+     by the Originating Party on the Application. Unless the 
+     Applicant or the Originating Party otherwise requests, all 
+     Technical Reviews shall be completed no later than 60 days 
+     after the date the notice of the Proposal was given to the 
+     Regional Body.
+       ``5. Declaration of Finding.
+       ``a. The Regional Body shall meet to consider a Proposal. 
+     The Applicant shall be provided with an opportunity to 
+     present the Proposal to the Regional Body at such time.
+       ``b. The Regional Body, having considered the notice, the 
+     Originating Party's Technical Review, any other independent 
+     Technical Review that is made, any comments or objections 
+     including the analysis of comments made by the public, First 
+     Nations and federally recognized Tribes, and any other 
+     information that is provided under this Compact shall issue a 
+     Declaration of Finding that the Proposal under consideration:
+       ``i. Meets the Standard of Review and Decision;
+       ``ii. Does not meet the Standard of Review and Decision; 
+     or,
+       ``iii. Would meet the Standard of Review and Decision if 
+     certain conditions were met.
+       ``c. An Originating Party may decline to participate in a 
+     Declaration of Finding made by the Regional Body.
+       ``d. The Parties recognize and affirm that it is preferable 
+     for all members of the Regional Body to agree whether the 
+     Proposal meets the Standard of Review and Decision.
+       ``e. If the members of the Regional Body who participate in 
+     the Declaration of Finding all agree, they shall issue a 
+     written Declaration of Finding with consensus.
+       ``f. In the event that the members cannot agree, the 
+     Regional Body shall make every reasonable effort to achieve 
+     consensus within 25 days.
+       ``g. Should consensus not be achieved, the Regional Body 
+     may issue a Declaration of Finding that presents different 
+     points of view and indicates each Party's conclusions.
+       ``h. The Regional Body shall release the Declarations of 
+     Finding to the public.
+       ``i. The Originating Party and the Council shall consider 
+     the Declaration of Finding before making a decision on the 
+     Proposal.
+     ``Section 4.6. Proposals Subject to Prior Notice.
+       ``1. Beginning no later than five years of the effective 
+     date of this Compact, the Originating Party shall provide all 
+     Parties and the Provinces with detailed and timely notice and 
+     an opportunity to comment within 90 days on any Proposal for 
+     a New or Increased Consumptive Use of 5 million gallons per 
+     day or greater average in any 90-day period. Comments shall 
+     address whether or not the Proposal is consistent with the 
+     Standard of Review and Decision. The Originating Party shall 
+     provide a response to any such comment received from another 
+     Party.
+       ``2. A Party may provide notice, an opportunity to comment 
+     and a response to comments even if this is not required under 
+     paragraph 1 of this Section. Any provision of such notice and 
+     opportunity to comment shall be undertaken only after 
+     consulting the Applicant.
+     ``Section 4.7. Council Actions.
+       ``1. Proposals for Exceptions subject to Council Review 
+     shall be submitted by the Originating Party to the Council 
+     for Council Review, and where applicable, to the Regional 
+     Body for concurrent review.
+       ``2. The Council shall review and take action on Proposals 
+     in accordance with this Compact and the Standard of Review 
+     and Decision. The Council shall not take action on a Proposal 
+     subject to Regional Review pursuant to this Compact unless 
+     the Proposal shall have been first submitted to and reviewed 
+     by the Regional Body. The Council shall consider any findings 
+     resulting from such review.
+     ``Section 4.8. Prohibition of New or Increased Diversions.
+       ``All New or Increased Diversions are prohibited, except as 
+     provided for in this Article.
+     ``Section 4.9. Exceptions to the Prohibition of Diversions.
+       ``1. Straddling Communities. A Proposal to transfer Water 
+     to an area within a Straddling Community but outside the 
+     Basin or outside the source Great Lake Watershed shall be 
+     excepted from the prohibition against Diversions and be 
+     managed and regulated by the Originating Party provided that, 
+     regardless of the volume of Water transferred, all the Water 
+     so transferred shall be used solely for Public Water Supply 
+     Purposes within the Straddling Community, and:
+       ``a. All Water Withdrawn from the Basin shall be returned, 
+     either naturally or after use, to the Source Watershed less 
+     an allowance for Consumptive Use. No surface water or 
+     groundwater from outside the Basin may be used to satisfy any 
+     portion of this criterion except if it:
+       ``i. Is part of a water supply or wastewater treatment 
+     system that combines water from inside and outside of the 
+     Basin;
+       ``ii. Is treated to meet applicable water quality discharge 
+     standards and to prevent the introduction of invasive species 
+     into the Basin;
+
+[[Page 19967]]
+
+       ``iii. Maximizes the portion of water returned to the 
+     Source Watershed as Basin Water and minimizes the surface 
+     water or groundwater from outside the Basin;
+       ``b. If the Proposal results from a New or Increased 
+     Withdrawal of 100,000 gallons per day or greater average over 
+     any 90-day period, the Proposal shall also meet the Exception 
+     Standard; and,
+       ``c. If the Proposal results in a New or Increased 
+     Consumptive Use of 5 million gallons per day or greater 
+     average over any 90-day period, the Proposal shall also 
+     undergo Regional Review.
+       ``2. Intra-Basin Transfer. A Proposal for an Intra-Basin 
+     Transfer that would be considered a Diversion under this 
+     Compact, and not already excepted pursuant to paragraph 1 of 
+     this Section, shall be excepted from the prohibition against 
+     Diversions, provided that:
+       ``a. If the Proposal results from a New or Increased 
+     Withdrawal less than 100,000 gallons per day average over any 
+     90-day period, the Proposal shall be subject to management 
+     and regulation at the discretion of the Originating Party.
+       ``b. If the Proposal results from a New or Increased 
+     Withdrawal 100,000 gallons per day or greater average over 
+     any 90-day period and if the Consumptive Use resulting from 
+     the Withdrawal is less than 5 million gallons per day average 
+     over any 90-day period:
+       ``i. The Proposal shall meet the Exception Standard and be 
+     subject to management and regulation by the Originating 
+     Party, except that the Water may be returned to another Great 
+     Lake watershed rather than the Source Watershed;
+       ``ii. The Applicant shall demonstrate that there is no 
+     feasible, cost effective, and environmentally sound water 
+     supply alternative within the Great Lake watershed to which 
+     the Water will be transferred, including conservation of 
+     existing water supplies; and,
+       ``iii. The Originating Party shall provide notice to the 
+     other Parties prior to making any decision with respect to 
+     the Proposal.
+       ``c. If the Proposal results in a New or Increased 
+     Consumptive Use of 5 million gallons per day or greater 
+     average over any 90-day period:
+       ``i. The Proposal shall be subject to management and 
+     regulation by the Originating Party and shall meet the 
+     Exception Standard, ensuring that Water Withdrawn shall be 
+     returned to the Source Watershed;
+       ``ii. The Applicant shall demonstrate that there is no 
+     feasible, cost effective, and environmentally sound water 
+     supply alternative within the Great Lake watershed to which 
+     the Water will be transferred, including conservation of 
+     existing water supplies;
+       ``iii. The Proposal undergoes Regional Review; and,
+       ``iv. The Proposal is approved by the Council. Council 
+     approval shall be given unless one or more Council Members 
+     vote to disapprove.
+       ``3. Straddling Counties. A Proposal to transfer Water to a 
+     Community within a Straddling County that would be considered 
+     a Diversion under this Compact shall be excepted from the 
+     prohibition against Diversions, provided that it satisfies 
+     all of the following conditions:
+       ``a. The Water shall be used solely for the Public Water 
+     Supply Purposes of the Community within a Straddling County 
+     that is without adequate supplies of potable water;
+       ``b. The Proposal meets the Exception Standard, maximizing 
+     the portion of water returned to the Source Watershed as 
+     Basin Water and minimizing the surface water or groundwater 
+     from outside the Basin;
+       ``c. The Proposal shall be subject to management and 
+     regulation by the Originating Party, regardless of its size;
+       ``d. There is no reasonable water supply alternative within 
+     the basin in which the community is located, including 
+     conservation of existing water supplies;
+       ``e. Caution shall be used in determining whether or not 
+     the Proposal meets the conditions for this Exception. This 
+     Exception should not be authorized unless it can be shown 
+     that it will not endanger the integrity of the Basin 
+     Ecosystem;
+       ``f. The Proposal undergoes Regional Review; and,
+       ``g. The Proposal is approved by the Council. Council 
+     approval shall be given unless one or more Council Members 
+     vote to disapprove.
+
+     A Proposal must satisfy all of the conditions listed above. 
+     Further, substantive consideration will also be given to 
+     whether or not the Proposal can provide sufficient 
+     scientifically based evidence that the existing water supply 
+     is derived from groundwater that is hydrologically 
+     interconnected to Waters of the Basin.
+       ``4. Exception Standard. Proposals subject to management 
+     and regulation in this Section shall be declared to meet this 
+     Exception Standard and may be approved as appropriate only 
+     when the following criteria are met:
+       ``a. The need for all or part of the proposed Exception 
+     cannot be reasonably avoided through the efficient use and 
+     conservation of existing water supplies;
+       ``b. The Exception will be limited to quantities that are 
+     considered reasonable for the purposes for which it is 
+     proposed;
+       ``c. All Water Withdrawn shall be returned, either 
+     naturally or after use, to the Source Watershed less an 
+     allowance for Consumptive Use. No surface water or 
+     groundwater from the outside the Basin may be used to satisfy 
+     any portion of this criterion except if it:
+       ``i. Is part of a water supply or wastewater treatment 
+     system that combines water from inside and outside of the 
+     Basin;
+       ``ii. Is treated to meet applicable water quality discharge 
+     standards and to prevent the introduction of invasive species 
+     into the Basin;
+       ``d. The Exception will be implemented so as to ensure that 
+     it will result in no significant individual or cumulative 
+     adverse impacts to the quantity or quality of the Waters and 
+     Water Dependent Natural Resources of the Basin with 
+     consideration given to the potential Cumulative Impacts of 
+     any precedent-setting consequences associated with the 
+     Proposal;
+       ``e. The Exception will be implemented so as to incorporate 
+     Environmentally Sound and Economically Feasible Water 
+     Conservation Measures to minimize Water Withdrawals or 
+     Consumptive Use;
+       ``f. The Exception will be implemented so as to ensure that 
+     it is in compliance with all applicable municipal, State and 
+     federal laws as well as regional interstate and international 
+     agreements, including the Boundary Waters Treaty of 1909; 
+     and,
+       ``g. All other applicable criteria in Section 4.9 have also 
+     been met.
+     ``Section 4.10. Management and Regulation of New or Increased 
+     Withdrawals and Consumptive Uses.
+       ``1. Within five years of the effective date of this 
+     Compact, each Party shall create a program for the management 
+     and regulation of New or Increased Withdrawals and 
+     Consumptive Uses by adopting and implementing Measures 
+     consistent with the Decision-Making Standard. Each Party, 
+     through a considered process, shall set and may modify 
+     threshold levels for the regulation of New or Increased 
+     Withdrawals in order to assure an effective and efficient 
+     Water management program that will ensure that uses overall 
+     are reasonable, that Withdrawals overall will not result in 
+     significant impacts to the Waters and Water Dependent Natural 
+     Resources of the Basin, determined on the basis of 
+     significant impacts to the physical, chemical, and biological 
+     integrity of Source Watersheds, and that all other objectives 
+     of the Compact are achieved. Each Party may determine the 
+     scope and thresholds of its program, including which New or 
+     Increased Withdrawals and Consumptive Uses will be subject to 
+     the program.
+       ``2. Any Party that fails to set threshold levels that 
+     comply with Section 4.10.1 any time before 10 years after the 
+     effective date of this Compact shall apply a threshold level 
+     for management and regulation of all New or Increased 
+     Withdrawals of 100,000 gallons per day or greater average in 
+     any 90 day period.
+       ``3. The Parties intend programs for New or Increased 
+     Withdrawals and Consumptive Uses to evolve as may be 
+     necessary to protect Basin Waters. Pursuant to Section 3.4, 
+     the Council, in cooperation with the Provinces, shall 
+     periodically assess the Water management programs of the 
+     Parties. Such assessments may produce recommendations for the 
+     strengthening of the programs, including without limitation, 
+     establishing lower thresholds for management and regulation 
+     in accordance with the Decision-Making Standard.
+     ``Section 4.11. Decision-Making Standard.
+       ``Proposals subject to management and regulation in Section 
+     4.10 shall be declared to meet this Decision-Making Standard 
+     and may be approved as appropriate only when the following 
+     criteria are met:
+       ``1. All Water Withdrawn shall be returned, either 
+     naturally or after use, to the Source Watershed less an 
+     allowance for Consumptive Use;
+       ``2. The Withdrawal or Consumptive Use will be implemented 
+     so as to ensure that the Proposal will result in no 
+     significant individual or cumulative adverse impacts to the 
+     quantity or quality of the Waters and Water Dependent Natural 
+     Resources and the applicable Source Watershed;
+       ``3. The Withdrawal or Consumptive Use will be implemented 
+     so as to incorporate Environmentally Sound and Economically 
+     Feasible Water Conservation Measures;
+       ``4. The Withdrawal or Consumptive Use will be implemented 
+     so as to ensure that it is in compliance with all applicable 
+     municipal, State and federal laws as well as regional 
+     interstate and international agreements, including the 
+     Boundary Waters Treaty of 1909;
+       ``5. The proposed use is reasonable, based upon a 
+     consideration of the following factors:
+       ``a. Whether the proposed Withdrawal or Consumptive Use is 
+     planned in a fashion that provides for efficient use of the 
+     water, and will avoid or minimize the waste of Water;
+       ``b. If the Proposal is for an increased Withdrawal or 
+     Consumptive use, whether efficient use is made of existing 
+     water supplies;
+       ``c. The balance between economic development, social 
+     development and environmental protection of the proposed 
+     Withdrawal and use and other existing or planned withdrawals 
+     and water uses sharing the water source;
+
+[[Page 19968]]
+
+       ``d. The supply potential of the water source, considering 
+     quantity, quality, and reliability and safe yield of 
+     hydrologically interconnected water sources;
+       ``e. The probable degree and duration of any adverse 
+     impacts caused or expected to be caused by the proposed 
+     Withdrawal and use under foreseeable conditions, to other 
+     lawful consumptive or non-consumptive uses of water or to the 
+     quantity or quality of the Waters and Water Dependent Natural 
+     Resources of the Basin, and the proposed plans and 
+     arrangements for avoidance or mitigation of such impacts; 
+     and,
+       ``f. If a Proposal includes restoration of hydrologic 
+     conditions and functions of the Source Watershed, the Party 
+     may consider that.
+     ``Section 4.12. Applicability.
+       ``1. Minimum Standard. This Standard of Review and Decision 
+     shall be used as a minimum standard. Parties may impose a 
+     more restrictive decision-making standard for Withdrawals 
+     under their authority. It is also acknowledged that although 
+     a Proposal meets the Standard of Review and Decision it may 
+     not be approved under the laws of the Originating Party that 
+     has implemented more restrictive Measures.
+       ``2. Baseline.
+       ``a. To establish a baseline for determining a New or 
+     Increased Diversion, Consumptive Use or Withdrawal, each 
+     Party shall develop either or both of the following lists for 
+     their jurisdiction:
+       ``i. A list of existing Withdrawal approvals as of the 
+     effective date of the Compact;
+       ``ii. A list of the capacity of existing systems as of the 
+     effective date of this Compact. The capacity of the existing 
+     systems should be presented in terms of Withdrawal capacity, 
+     treatment capacity, distribution capacity, or other capacity 
+     limiting factors. The capacity of the existing systems must 
+     represent the state of the systems. Existing capacity 
+     determinations shall be based upon approval limits or the 
+     most restrictive capacity information.
+       ``b. For all purposes of this Compact, volumes of 
+     Diversions, Consumptive Uses, or Withdrawals of Water set 
+     forth in the list(s) prepared by each Party in accordance 
+     with this Section, shall constitute the baseline volume.
+       ``c. The list(s) shall be furnished to the Regional Body 
+     and the Council within one year of the effective date of this 
+     Compact.
+       ``3. Timing of Additional Applications. Applications for 
+     New or Increased Withdrawals, Consumptive Uses or Exceptions 
+     shall be considered cumulatively within ten years of any 
+     application.
+       ``4. Change of Ownership. Unless a new owner proposes a 
+     project that shall result in a Proposal for a New or 
+     Increased Diversion or Consumptive Use subject to Regional 
+     Review or Council approval, the change of ownership in and of 
+     itself shall not require Regional Review or Council approval.
+       ``5. Groundwater. The Basin surface water divide shall be 
+     used for the purpose of managing and regulating New or 
+     Increased Diversions, Consumptive Uses or Withdrawals of 
+     surface water and groundwater.
+       ``6. Withdrawal Systems. The total volume of surface water 
+     and groundwater resources that supply a common distribution 
+     system shall determine the volume of a Withdrawal, 
+     Consumptive Use or Diversion.
+       ``7. Connecting Channels. The watershed of each Great Lake 
+     shall include its upstream and downstream connecting 
+     channels.
+       ``8. Transmission in Water Lines. Transmission of Water 
+     within a line that extends outside the Basin as it conveys 
+     Water from one point to another within the Basin shall not be 
+     considered a Diversion if none of the Water is used outside 
+     the Basin.
+       ``9. Hydrologic Units. The Lake Michigan and Lake Huron 
+     watersheds shall be considered to be a single hydrologic unit 
+     and watershed.
+       ``10. Bulk Water Transfer. A Proposal to Withdraw Water and 
+     to remove it from the Basin in any container greater than 5.7 
+     gallons shall be treated under this Compact in the same 
+     manner as a Proposal for a Diversion. Each Party shall have 
+     the discretion, within its jurisdiction, to determine the 
+     treatment of Proposals to Withdraw Water and to remove it 
+     from the Basin in any container of 5.7 gallons or less.
+     ``Section 4.13. Exemptions.
+       ``Withdrawals from the Basin for the following purposes are 
+     exempt from the requirements of Article 4.
+       ``1. To supply vehicles, including vessels and aircraft, 
+     whether for the needs of the persons or animals being 
+     transported or for ballast or other needs related to the 
+     operation of the vehicles.
+       ``2. To use in a non-commercial project on a short-term 
+     basis for firefighting, humanitarian, or emergency response 
+     purposes.
+     ``Section 4.14. U.S. Supreme Court Decree: Wisconsin et al. 
+     v. Illinois et al.
+       ``1. Notwithstanding any terms of this Compact to the 
+     contrary, with the exception of Paragraph 5 of this Section, 
+     current, New or Increased Withdrawals, Consumptive Uses and 
+     Diversions of Basin Water by the State of Illinois shall be 
+     governed by the terms of the United States Supreme Court 
+     decree in Wisconsin et al. v. Illinois et al. and shall not 
+     be subject to the terms of this Compact nor any rules or 
+     regulations promulgated pursuant to this Compact. This means 
+     that, with the exception of Paragraph 5 of this Section, for 
+     purposes of this Compact, current, New or Increased 
+     Withdrawals, Consumptive Uses and Diversions of Basin Water 
+     within the State of Illinois shall be allowed unless 
+     prohibited by the terms of the United States Supreme Court 
+     decree in Wisconsin et al. v. Illinois et al.
+       ``2. The Parties acknowledge that the United States Supreme 
+     Court decree in Wisconsin et al. v. Illinois et al. shall 
+     continue in full force and effect, that this Compact shall 
+     not modify any terms thereof, and that this Compact shall 
+     grant the parties no additional rights, obligations, remedies 
+     or defenses thereto. The Parties specifically acknowledge 
+     that this Compact shall not prohibit or limit the State of 
+     Illinois in any manner from seeking additional Basin Water as 
+     allowed under the terms of the United States Supreme Court 
+     decree in Wisconsin et al. v. Illinois et al., any other 
+     party from objecting to any request by the State of Illinois 
+     for additional Basin Water under the terms of said decree, or 
+     any party from seeking any other type of modification to said 
+     decree. If an application is made by any party to the Supreme 
+     Court of the United States to modify said decree, the Parties 
+     to this Compact who are also parties to the decree shall seek 
+     formal input from the Canadian Provinces of Ontario and 
+     Quebec, with respect to the proposed modification, use best 
+     efforts to facilitate the appropriate participation of said 
+     Provinces in the proceedings to modify the decree, and shall 
+     not unreasonably impede or restrict such participation.
+       ``3. With the exception of Paragraph 5 of this Section, 
+     because current, New or Increased Withdrawals, Consumptive 
+     Uses and Diversions of Basin Water by the State of Illinois 
+     are not subject to the terms of this Compact, the State of 
+     Illinois is prohibited from using any term of this Compact, 
+     including Section 4.9, to seek New or Increased Withdrawals, 
+     Consumptive Uses or Diversions of Basin Water.
+       ``4. With the exception of Paragraph 5 of this Section, 
+     because Sections 4.3, 4.4, 4.5, 4.6, 4.7, 4.8, 4.9, 4.10, 
+     4.11, 4.12 (Paragraphs 1, 2, 3, 4, 6 and 10 only), and 4.13 
+     of this Compact all relate to current, New or Increased 
+     Withdrawals, Consumptive Uses and Diversions of Basin Waters, 
+     said provisions do not apply to the State of Illinois. All 
+     other provisions of this Compact not listed in the preceding 
+     sentence shall apply to the State of Illinois, including the 
+     Water Conservation Programs provision of Section 4.2.
+       ``5. In the event of a Proposal for a Diversion of Basin 
+     Water for use outside the territorial boundaries of the 
+     Parties to this Compact, decisions by the State of Illinois 
+     regarding such a Proposal would be subject to all terms of 
+     this Compact, except Paragraphs 1, 3 and 4 of this Section.
+       ``6. For purposes of the State of Illinois' participation 
+     in this Compact, the entirety of this Section 4.14 is 
+     necessary for the continued implementation of this Compact 
+     and, if severed, this Compact shall no longer be binding on 
+     or enforceable by or against the State of Illinois.
+     ``Section 4.15. Assessment of Cumulative Impacts.
+       ``1. The Parties in cooperation with the Provinces shall 
+     collectively conduct within the Basin, on a Lake watershed 
+     and St. Lawrence River Basin basis, a periodic assessment of 
+     the Cumulative Impacts of Withdrawals, Diversions and 
+     Consumptive Uses from the Waters of the Basin, every 5 years 
+     or each time the incremental Basin Water losses reach 50 
+     million gallons per day average in any 90-day period in 
+     excess of the quantity at the time of the most recent 
+     assessment, whichever comes first, or at the request of one 
+     or more of the Parties. The assessment shall form the basis 
+     for a review of the Standard of Review and Decision, Council 
+     and Party regulations and their application. This assessment 
+     shall:
+       ``a. Utilize the most current and appropriate guidelines 
+     for such a review, which may include but not be limited to 
+     Council on Environmental Quality and Environment Canada 
+     guidelines;
+       ``b. Give substantive consideration to climate change or 
+     other significant threats to Basin Waters and take into 
+     account the current state of scientific knowledge, or 
+     uncertainty, and appropriate Measures to exercise caution in 
+     cases of uncertainty if serious damage may result;
+       ``c. Consider adaptive management principles and 
+     approaches, recognizing, considering and providing 
+     adjustments for the uncertainties in, and evolution of 
+     science concerning the Basin's water resources, watersheds 
+     and ecosystems, including potential changes to Basin-wide 
+     processes, such as lake level cycles and climate.
+       ``2. The Parties have the responsibility of conducting this 
+     Cumulative Impact assessment. Applicants are not required to 
+     participate in this assessment.
+       ``3. Unless required by other statutes, Applicants are not 
+     required to conduct a separate cumulative impact assessment 
+     in connection with an Application but shall submit 
+     information about the potential impacts of a Proposal to the 
+     quantity or quality of the Waters and Water Dependent Natural 
+     Resources of the applicable Source Watershed.
+
+[[Page 19969]]
+
+     An Applicant may, however, provide an analysis of how their 
+     Proposal meets the no significant adverse Cumulative Impact 
+     provision of the Standard of Review and Decision.
+
+                              ``ARTICLE 5
+
+                         ``TRIBAL CONSULTATION
+
+     ``Section 5.1. Consultation with Tribes.
+       ``1. In addition to all other opportunities to comment 
+     pursuant to Section 6.2, appropriate consultations shall 
+     occur with federally recognized Tribes in the Originating 
+     Party for all Proposals subject to Council or Regional Review 
+     pursuant to this Compact. Such consultations shall be 
+     organized in the manner suitable to the individual Proposal 
+     and the laws and policies of the Originating Party.
+       ``2. All federally recognized Tribes within the Basin shall 
+     receive reasonable notice indicating that they have an 
+     opportunity to comment in writing to the Council or the 
+     Regional Body, or both, and other relevant organizations on 
+     whether the Proposal meets the requirements of the Standard 
+     of Review and Decision when a Proposal is subject to Regional 
+     Review or Council approval. Any notice from the Council shall 
+     inform the Tribes of any meeting or hearing that is to be 
+     held under Section 6.2 and invite them to attend. The Parties 
+     and the Council shall consider the comments received under 
+     this Section before approving, approving with modifications 
+     or disapproving any Proposal subject to Council or Regional 
+     Review.
+       ``3. In addition to the specific consultation mechanisms 
+     described above, the Council shall seek to establish 
+     mutually-agreed upon mechanisms or processes to facilitate 
+     dialogue with, and input from federally recognized Tribes on 
+     matters to be dealt with by the Council; and, the Council 
+     shall seek to establish mechanisms and processes with 
+     federally recognized Tribes designed to facilitate on-going 
+     scientific and technical interaction and data exchange 
+     regarding matters falling within the scope of this Compact. 
+     This may include participation of tribal representatives on 
+     advisory committees established under this Compact or such 
+     other processes that are mutually-agreed upon with federally 
+     recognized Tribes individually or through duly-authorized 
+     intertribal agencies or bodies.
+
+                              ``ARTICLE 6
+
+                         ``PUBLIC PARTICIPATION
+
+     ``Section 6.1. Meetings, Public Hearings and Records.
+       ``1. The Parties recognize the importance and necessity of 
+     public participation in promoting management of the Water 
+     Resources of the Basin. Consequently, all meetings of the 
+     Council shall be open to the public, except with respect to 
+     issues of personnel.
+       ``2. The minutes of the Council shall be a public record 
+     open to inspection at its offices during regular business 
+     hours.
+     ``Section 6.2. Public Participation.
+       ``It is the intent of the Council to conduct public 
+     participation processes concurrently and jointly with 
+     processes undertaken by the Parties and through Regional 
+     Review. To ensure adequate public participation, each Party 
+     or the Council shall ensure procedures for the review of 
+     Proposals subject to the Standard of Review and Decision 
+     consistent with the following requirements:
+       ``1. Provide public notification of receipt of all 
+     Applications and a reasonable opportunity for the public to 
+     submit comments before Applications are acted upon.
+       ``2. Assure public accessibility to all documents relevant 
+     to an Application, including public comment received.
+       ``3. Provide guidance on standards for determining whether 
+     to conduct a public meeting or hearing for an Application, 
+     time and place of such a meeting(s) or hearing(s), and 
+     procedures for conducting of the same.
+       ``4. Provide the record of decision for public inspection 
+     including comments, objections, responses and approvals, 
+     approvals with conditions and disapprovals.
+
+                              ``ARTICLE 7
+
+                  ``DISPUTE RESOLUTION AND ENFORCEMENT
+
+     ``Section 7.1. Good Faith Implementation.
+       ``Each of the Parties pledges to support implementation of 
+     all provisions of this Compact, and covenants that its 
+     officers and agencies shall not hinder, impair, or prevent 
+     any other Party carrying out any provision of this Compact.
+     ``Section 7.2. Alternative Dispute Resolution.
+       ``1. Desiring that this Compact be carried out in full, the 
+     Parties agree that disputes between the Parties regarding 
+     interpretation, application and implementation of this 
+     Compact shall be settled by alternative dispute resolution.
+       ``2. The Council, in consultation with the Provinces, shall 
+     provide by rule procedures for the resolution of disputes 
+     pursuant to this section.
+     ``Section 7.3. Enforcement.
+       ``1. Any Person aggrieved by any action taken by the 
+     Council pursuant to the authorities contained in this Compact 
+     shall be entitled to a hearing before the Council. Any Person 
+     aggrieved by a Party action shall be entitled to a hearing 
+     pursuant to the relevant Party's administrative procedures 
+     and laws. After exhaustion of such administrative remedies, 
+     (i) any aggrieved Person shall have the right to judicial 
+     review of a Council action in the United States District 
+     Courts for the District of Columbia or the District Court in 
+     which the Council maintains offices, provided such action is 
+     commenced within 90 days; and, (ii) any aggrieved Person 
+     shall have the right to judicial review of a Party's action 
+     in the relevant Party's court of competent jurisdiction, 
+     provided that an action or proceeding for such review is 
+     commenced within the time frames provided for by the Party's 
+     law. For the purposes of this paragraph, a State or Province 
+     is deemed to be an aggrieved Person with respect to any Party 
+     action pursuant to this Compact.
+       ``2. a. Any Party or the Council may initiate actions to 
+     compel compliance with the provisions of this Compact, and 
+     the rules and regulations promulgated hereunder by the 
+     Council. Jurisdiction over such actions is granted to the 
+     court of the relevant Party, as well as the United States 
+     District Courts for the District of Columbia and the District 
+     Court in which the Council maintains offices. The remedies 
+     available to any such court shall include, but not be limited 
+     to, equitable relief and civil penalties.
+       ``b. Each Party may issue orders within its respective 
+     jurisdiction and may initiate actions to compel compliance 
+     with the provisions of its respective statutes and 
+     regulations adopted to implement the authorities contemplated 
+     by this Compact in accordance with the provisions of the laws 
+     adopted in each Party's jurisdiction.
+       ``3. Any aggrieved Person, Party or the Council may 
+     commence a civil action in the relevant Party's courts and 
+     administrative systems to compel any Person to comply with 
+     this Compact should any such Person, without approval having 
+     been given, undertake a New or Increased Withdrawal, 
+     Consumptive Use or Diversion that is prohibited or subject to 
+     approval pursuant to this Compact.
+       ``a. No action under this subsection may be commenced if:
+       ``i. The Originating Party or Council approval for the New 
+     or Increased Withdrawal, Consumptive Use or Diversion has 
+     been granted; or,
+       ``ii. The Originating Party or Council has found that the 
+     New or Increased Withdrawal, Consumptive Use or Diversion is 
+     not subject to approval pursuant to this Compact.
+       ``b. No action under this subsection may be commenced 
+     unless:
+       ``i. A Person commencing such action has first given 60 
+     days prior notice to the Originating Party, the Council and 
+     Person alleged to be in noncompliance; and,
+       ``ii. Neither the Originating Party nor the Council has 
+     commenced and is diligently prosecuting appropriate 
+     enforcement actions to compel compliance with this Compact.
+
+     The available remedies shall include equitable relief, and 
+     the prevailing or substantially prevailing party may recover 
+     the costs of litigation, including reasonable attorney and 
+     expert witness fees, whenever the court determines that such 
+     an award is appropriate.
+       ``4. Each of the Parties may adopt provisions providing 
+     additional enforcement mechanisms and remedies including 
+     equitable relief and civil penalties applicable within its 
+     jurisdiction to assist in the implementation of this Compact.
+
+                              ``ARTICLE 8
+
+                        ``ADDITIONAL PROVISIONS
+
+     ``Section 8.1. Effect on Existing Rights.
+       ``1. Nothing in this Compact shall be construed to affect, 
+     limit, diminish or impair any rights validly established and 
+     existing as of the effective date of this Compact under State 
+     or federal law governing the Withdrawal of Waters of the 
+     Basin.
+       ``2. Nothing contained in this Compact shall be construed 
+     as affecting or intending to affect or in any way to 
+     interfere with the law of the respective Parties relating to 
+     common law Water rights.
+       ``3. Nothing in this Compact is intended to abrogate or 
+     derogate from treaty rights or rights held by any Tribe 
+     recognized by the federal government of the United States 
+     based upon its status as a Tribe recognized by the federal 
+     government of the United States.
+       ``4. An approval by a Party or the Council under this 
+     Compact does not give any property rights, nor any exclusive 
+     privileges, nor shall it be construed to grant or confer any 
+     right, title, easement, or interest in, to or over any land 
+     belonging to or held in trust by a Party; neither does it 
+     authorize any injury to private property or invasion of 
+     private rights, nor infringement of federal, State or local 
+     laws or regulations; nor does it obviate the necessity of 
+     obtaining federal assent when necessary.
+     ``Section 8.2. Relationship to Agreements Concluded by the 
+     United States of America.
+       ``1. Nothing in this Compact is intended to provide nor 
+     shall be construed to provide, directly or indirectly, to any 
+     Person any right, claim or remedy under any treaty or 
+     international agreement nor is it intended to derogate any 
+     right, claim, or remedy that already exists under any treaty 
+     or international agreement.
+       ``2. Nothing in this Compact is intended to infringe nor 
+     shall be construed to infringe upon the treaty power of the 
+     United States of America, nor shall any term hereof be 
+     construed to alter or amend any treaty or term thereof that 
+     has been or may hereafter be executed by the United States of 
+     America.
+
+[[Page 19970]]
+
+       ``3. Nothing in this Compact is intended to affect nor 
+     shall be construed to affect the application of the Boundary 
+     Waters Treaty of 1909 whose requirements continue to apply in 
+     addition to the requirements of this Compact.
+     ``Section 8.3. Confidentiality.
+       ``1. Nothing in this Compact requires a Party to breach 
+     confidentiality obligations or requirements prohibiting 
+     disclosure, or to compromise security of commercially 
+     sensitive or proprietary information.
+       ``2. A Party may take measures, including but not limited 
+     to deletion and redaction, deemed necessary to protect any 
+     confidential, proprietary or commercially sensitive 
+     information when distributing information to other Parties. 
+     The Party shall summarize or paraphrase any such information 
+     in a manner sufficient for the Council to exercise its 
+     authorities contained in this Compact.
+     ``Section 8.4. Additional Laws.
+       ``Nothing in this Compact shall be construed to repeal, 
+     modify or qualify the authority of any Party to enact any 
+     legislation or enforce any additional conditions and 
+     restrictions regarding the management and regulation of 
+     Waters within its jurisdiction.
+     ``Section 8.5. Amendments and Supplements.
+       ``The provisions of this Compact shall remain in full force 
+     and effect until amended by action of the governing bodies of 
+     the Parties and consented to and approved by any other 
+     necessary authority in the same manner as this Compact is 
+     required to be ratified to become effective.
+     ``Section 8.6. Severability.
+       ``Should a court of competent jurisdiction hold any part of 
+     this Compact to be void or unenforceable, it shall be 
+     considered severable from those portions of the Compact 
+     capable of continued implementation in the absence of the 
+     voided provisions. All other provisions capable of continued 
+     implementation shall continue in full force and effect.
+     ``Section 8.7. Duration of Compact and Termination.
+       ``Once effective, the Compact shall continue in force and 
+     remain binding upon each and every Party unless terminated.
+     This Compact may be terminated at any time by a majority vote 
+     of the Parties. In the event of such termination, all rights 
+     established under it shall continue unimpaired.
+
+                              ``ARTICLE 9
+
+                             ``EFFECTUATION
+
+     ``Section 9.1. Repealer.
+       ``All acts and parts of acts inconsistent with this act are 
+     to the extent of such inconsistency hereby repealed.
+     ``Section 9.2. Effectuation by Chief Executive.
+       ``The Governor is authorized to take such action as may be 
+     necessary and proper in his or her discretion to effectuate 
+     the Compact and the initial organization and operation 
+     thereunder.
+     ``Section 9.3. Entire Agreement.
+       ``The Parties consider this Compact to be complete and an 
+     integral whole. Each provision of this Compact is considered 
+     material to the entire Compact, and failure to implement or 
+     adhere to any provision may be considered a material breach. 
+     Unless otherwise noted in this Compact, any change or 
+     amendment made to the Compact by any Party in its 
+     implementing legislation or by the U.S. Congress when giving 
+     its consent to this Compact is not considered effective 
+     unless concurred in by all Parties.
+     ``Section 9.4. Effective Date and Execution.
+       ``This Compact shall become binding and effective when 
+     ratified through concurring legislation by the states of 
+     Illinois, Indiana, Michigan, Minnesota, New York, Ohio and 
+     Wisconsin and the Commonwealth of Pennsylvania and consented 
+     to by the Congress of the United States. This Compact shall 
+     be signed and sealed in nine identical original copies by the 
+     respective chief executives of the signatory Parties. One 
+     such copy shall be filed with the Secretary of State of each 
+     of the signatory Parties or in accordance with the laws of 
+     the state in which the filing is made, and one copy shall be 
+     filed and retained in the archives of the Council upon its 
+     organization. The signatures shall be affixed and attested 
+     under the following form:
+       ``In Witness Whereof, and in evidence of the adoption and 
+     enactment into law of this Compact by the legislatures of the 
+     signatory parties and consent by the Congress of the United 
+     States, the respective Governors do hereby, in accordance 
+     with the authority conferred by law, sign this Compact in 
+     nine duplicate original copies, attested by the respective 
+     Secretaries of State, and have caused the seals of the 
+     respective states to be hereunto affixed this ____ day of 
+     (month), (year).'': Now, therefore, be it
+       Resolved by the Senate and House of Representatives of the 
+     United States of America in Congress assembled, That--
+       (1) Congress consents to and approves the interstate 
+     compact regarding water resources in the Great Lakes--St. 
+     Lawrence River Basin described in the preamble;
+       (2) until a Great Lakes Water Compact is ratified and 
+     enforceable, laws in effect as of the date of enactment of 
+     this resolution provide protection sufficient to prevent 
+     Great Lakes water diversions; and
+       (3) Congress expressly reserves the right to alter, amend, 
+     or repeal this resolution.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentlewoman from 
+Ohio (Ms. Sutton) and the gentleman from North Carolina (Mr. Coble) 
+each will control 20 minutes.
+  The Chair recognizes the gentlewoman from Ohio.
+
+
+                             General Leave
+
+  Ms. SUTTON. Mr. Speaker, I ask unanimous consent that all Members 
+have 5 legislative days to revise and extend their remarks and include 
+extraneous material on the bill under consideration.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentlewoman from Ohio?
+  There was no objection.
+  Ms. SUTTON. I yield myself such time as I may consume.
+  Mr. Speaker, this legislation gives congressional consent to the 
+Great Lakes-St. Lawrence River Basin Water Resources Compact. Before I 
+continue, I would like to commend the distinguished chairman of the 
+Transportation and Infrastructure Committee, Mr. James Oberstar, who 
+sponsored the House version of this legislation, as well as the senior 
+Senator from Michigan, Carl Levin, for their hard work in spearheading 
+this effort. I would also like to thank the distinguished chairman of 
+the Judiciary Committee, Congressman John Conyers, for his support.
+  Today, Congress considers this legislation pursuant to our duty in 
+article I, section 10, clause 3 of the Constitution, the ``compacts 
+clause,'' to review and approve agreements between States or between 
+States and foreign governments to ensure that they are consistent with 
+the broader national interests.
+  In the case before us, there is no question that the compact designed 
+and agreed to by eight States is in our national interest. The Great 
+Lakes Compact will help to preserve and improve this important natural 
+resource, our Great Lakes, for years to come. The Great Lakes are one 
+of our greatest treasures, an important natural asset that we must 
+never take for granted and that we must always protect.
+  With one-fifth of the world's fresh water, the Great Lakes attracted 
+the early settlers to the legion, and today nearly 33 million people 
+live and work within the basin, spanning eight States: Minnesota, 
+Wisconsin, Illinois, Indiana, Michigan, Pennsylvania, New York and my 
+home State of Ohio.
+  Mr. Speaker, the Great Lakes are not only a source of drinking water, 
+but they are also essential for recreation, jobs and the overall health 
+of our economy. Lake Erie alone supports 240,000 jobs and $5.8 billion 
+in wages. The Great Lakes are also highways, moving goods, people and 
+services throughout the region. In addition, the Great Lakes support a 
+multi-billion dollar a year sport fishing and recreational boating 
+industry, and also support travel and tourism throughout the region.
+  However, the Great Lakes are vulnerable to depletion. Each year, 
+rainfall and snowmelt replenish only about 1 percent of the water in 
+the basin. Uncontrolled and careless diversions of water could thus be 
+highly detrimental to the health of the Great Lakes. This compact will 
+bring an end to destructive diversions of water from the basin.
+  The purpose of this compact is to formalize cooperation among the 
+Great Lakes States, to develop and implement regional goals and 
+objectives for water conservation while preserving the States' 
+flexibility regarding their water management programs.
+  New or increased diversions of water from the basin will be banned 
+and community rights will be respected as long as appropriately 
+rigorous standards are met. In addition, every 5 years the regional 
+goals and objectives for water conservation will be reviewed to deal 
+with any new issues that arise.
+  As is routinely the case, Mr. Speaker, Congress expressly reserves 
+the right to alter, amend or repeal this resolution in the future and 
+to strengthen the compact, if necessary.
+  The people of the eight States have worked diligently to craft this 
+compact to preserve this vital resource, and it is urgent that we 
+approve it now to ensure that our Great Lakes are here for future 
+generations.
+  I urge all of my colleagues to support this important legislation.
+
+[[Page 19971]]
+
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. COBLE. Mr. Speaker, I yield myself such time as I may consume.
+  Mr. Speaker, the gentlewoman from Ohio pretty thoroughly covered this 
+already.
+  The compact we are called upon to approve today caps off years of 
+effort. That effort has been undertaken by the Great Lakes States to 
+address jointly the use of one of our Nation's greatest features, the 
+abundant waters of the Great Lakes and the St. Lawrence River Basin.
+  This compact embodies important advances in the management of these 
+extraordinary bodies of water. The States, users of these waters in the 
+United States, and Canadian authorities that share interest in the 
+basin, all support the compact.
+  Earlier this year, we passed H.R. 6577 to approve this compact. In 
+all essential respects, Senate Joint Resolution 45 is identical to H.R. 
+6577. I am therefore pleased to support our adoption of the Senate 
+resolution so that this important legislation can be passed and signed 
+into law as soon as possible.
+  Mr. Speaker, I reserve the balance of my time.
+  Ms. SUTTON. Mr. Speaker, before I yield to the distinguished 
+gentleman from Michigan, at this time I would like to insert into the 
+Record correspondence between Representatives Peter Visclosky and David 
+Hobson and Governor Jim Doyle, Chair of the Council of Great Lakes 
+Governors. This correspondence clarifies the Council's intent and 
+interpretation of section 4.11.2 of the Compact's decisionmaking 
+standard relating to the scale and scope of impacts that would be 
+deemed sufficiently significant such to preclude approval of a 
+withdrawal proposal.
+  I would like to thank Representatives Visclosky and Hobson for their 
+dedicated efforts on this matter and their continued dedication to 
+preserving our Great Lakes.
+
+                                    Congress of the United States,
+
+
+                                     House of Representatives,
+
+                                  Washington, DC, August 25, 2008.
+     Hon. Jim Doyle,
+     Chairman, Council of Great Lakes Governors, East Wacker 
+         Drive, Chicago, Illinois.
+       Dear Governor Doyle: We write regarding H.R. 6577, a 
+     measure to approve the Great Lakes-St. Lawrence River Basin 
+     Water Resources Compact.
+       It has been brought to our attention that there are 
+     concerns regarding the scope and scale of impacts considered 
+     in the Decision-Making Standard under Section 4.11.2 of H.R. 
+     6577. As the House proceeds forward with action to approve 
+     the Compact, we are writing to clarify and confirm the 
+     interpretation of this provision.
+       As you are aware, as part of the criteria governing review 
+     and approval of proposals for water withdrawals, Section 
+     4.11.2 of the Compact requires a demonstration that 
+     ``Withdrawal or Consumptive Use will be implemented so as to 
+     ensure that the Proposal will result in no significant 
+     individual or cumulative adverse impacts to the quantity and 
+     quality of the Waters and Water Dependant Natural Resources 
+     and the applicable Source Watershed.'' During the states' 
+     adoption of the Compact, a concern was raised in a number of 
+     jurisdictions regarding a potential ambiguity as to the scale 
+     of impacts that would preclude withdrawal approvals.
+       This issue is of particular importance, because interpreted 
+     improperly, this provision could thwart economic development 
+     and threaten existing operations seeking to expand. Because 
+     of the ambiguity in terms of how the definition of ``Source 
+     Watershed'' and Section 4.11.2 work together, the question 
+     has been raised as to whether the significance of impacts is 
+     to be judged based on impacts upon the overall Source 
+     Watershed, which is defined as the drainage area of each 
+     Great Lake, or can measurable impacts on flow within just a 
+     few hundred feet of a stream, which occurs with many 
+     withdrawals, be enough to preclude a project. If Section 
+     4.11.2 is misread, it could become a serious impediment to 
+     the states' undertaking and approving economic development 
+     projects, which we are sure is not the Governors' intent.
+       On December 5, 2005, Sam Speck, Chair of the Working Group 
+     that drafted the Compact, indicated that the Working Group 
+     intended the term ``Waters and Water Dependant Natural 
+     Resources'' to refer to all waters of the Basin, and that the 
+     scope of impact consideration is to assure that ``there be no 
+     significant adverse impacts to the Great Lakes-St. Lawrence 
+     River Basin as a whole'' as well as no significant adverse 
+     impacts to the Source Watershed as a whole.
+       Several state legislatures, including Indiana, Ohio, and 
+     Pennsylvania, reflected this position in their respective 
+     legislation adopting the Compact. Those states included in 
+     their legislation provisions expressing and clarifying the 
+     intent of the legislatures in adopting Section 4.11.2 (see 
+     Indiana Senate Enrolled Act No. 45 of 2008 at Section 10; 
+     Ohio House Bill 416 (as adopted) at Section 1522.07(B); and 
+     Pennsylvania Act 43 of 2008 at Section 5(3)).
+       Consistent with Chairman Speck and the statements of 
+     legislative intent provided by the above states, we would 
+     respectfully request that you confirm that the following 
+     interpretation correctly expresses the understanding and view 
+     of the Council of Great Lakes Governors, as prime drafters 
+     and sponsors of the Compact, with respect to the scope of 
+     impact question:
+       1. Section 4.11.2 of the Great Lakes-St. Lawrence River 
+     Basin Water Resources Compact is intended to require that a 
+     withdrawal or consumptive use of Great Lakes water will be 
+     implemented so as to ensure that the withdrawal or 
+     consumptive use will result in no significant individual or 
+     cumulative adverse impacts to the quantity or quality of the 
+     waters and water dependent natural resources of either of the 
+     following:
+       (a) The basin considered as a whole;
+       (b) The applicable source watershed considered as a whole.
+       2. States may take into consideration, as part of the 
+     evaluation of reasonable use as provided in Section 4.11.5 of 
+     the Compact, those impacts of a withdrawal or consumptive use 
+     on the quantity or quality of waters and water dependent 
+     natural resources that have only localized impacts which are 
+     not of import to the basin or source watershed considered as 
+     a whole.
+       3. As provided in Section 4.12.1 of the Compact, the 
+     Compact's standard is a minimum standard and that states may, 
+     as a matter of state law, adopt by state statutes, 
+     regulations or other means relating to the assessment and 
+     consideration of impacts which are more stringent than the 
+     decision-making standard set forth in the Compact.
+       We would appreciate your written response confirming the 
+     able interpretation, which we would intend be reflected in 
+     the legislative history of the Compact as the House proceeds. 
+     We look forward to working with you and the other Council 
+     members in continuing efforts to approve the Compact before 
+     the end of this session.
+       Thank you for your consideration of this request. Do not 
+     hesitate to let us know if you have any questions or need 
+     additional information.
+           Sincerely,
+     Peter J. Visclosky,
+       Member of Congress.
+     David L. Hobson,
+       Member of Congress.
+                                  ____
+
+                                                        Council of
+
+
+                                        Great Lakes Governors,
+
+                                     Chicago, IL, August 28, 2008.
+     Hon. Peter J. Visclosky,
+     Rayburn HOB,
+     Washington, DC.
+     Hon. David L. Hobson,
+     Rayburn HOB,
+     Washington, DC.
+       Dear Representative Visclosky and Representative Hobson: 
+     Thank you for your letter dated August 25, 2008 regarding 
+     H.R. 6577. The interpretation of Section 4.11.2 of the Great 
+     Lakes-St. Lawrence River Basin Water Resources Compact 
+     included in your letter is consistent with the Great Lakes 
+     Governors' interpretation of Section 4.11.2.
+       Thank you again for your commitment to ensure that the 
+     Great Lakes are sustainably managed for the benefit of 
+     generations to come. If we can be of assistance as our shared 
+     efforts move forward, please do not hesitate to contact me or 
+     David Naftzger, Executive Director of the Council of Great 
+     Lakes Governors.
+           Sincerely,
+
+                                                    Jim Doyle,
+
+                                            Governor of Wisconsin,
+                          Chair, Council of Great Lakes Governors.
+
+  Mr. Speaker, I yield 4 minutes to the gentleman from Michigan (Mr. 
+Stupak).
+  Mr. STUPAK. I thank the gentlewoman for yielding time.
+  Mr. Speaker, I rise in opposition to the Great Lakes-St. Lawrence 
+River Basin Water Resource Compact. I am deeply concerned that this 
+compact would allow Great Lakes water to be defined as a product. By 
+allowing water to be defined as a product, the compact would subject 
+the Great Lakes to international trade agreements, such as the North 
+America Free Trade Agreement or the World Trade Organization.
+  There is also no language in the compact that recognizes the Great 
+Lakes waters held in trust. The public owns the water of the Great 
+Lakes, and anything we pass should preserve this.
+  While the original intent of the Great Lakes Compact was to protect 
+our water from diversion, the compact that the States have sent to 
+Congress may unintentionally have the opposite effect and set a 
+precedent that would open the door to diversions.
+  The Great Lakes Governors have spent more than 3 years addressing the
+
+[[Page 19972]]
+
+local and State implications of the compact. Unfortunately, we have not 
+done the same deliberative process. We have spent less than 20 
+legislative days since the introduction of this legislation. We have 
+had no hearings in the House to consider the Federal or international 
+implications. We are rushing to a vote when one of our Nation's most 
+precious natural resources, the Great Lakes, is at stake.
+  Before we ratify the Great Lakes Compact, the following questions 
+must be fully investigated. How does the compact's exemption of water 
+in a container smaller than 5.7 gallons affect the Federal prohibition 
+on diversions of water under the Water Resources Development Act?
+  Will creating a definition of Great Lakes water as a product subject 
+it to international trade law or agreements such as NAFTA?
+  Would actions taken by the Great Lakes States to protect the Great 
+Lakes against efforts by international commercial entities who seek to 
+privatize the Great Lakes ever be subject to claims under the general 
+agreements on tariffs and trade or to WTO?
+  I have asked these questions of the International Joint Commission, 
+the United States Trade Representative and the Department of State 
+before Congress adjourned for the August recess. While these agencies 
+have acknowledged my request, they were unable to provide me with any 
+substantive responses. This alone should be reason enough to vote on 
+this legislation until we have the answers to my questions.
+  I cannot in good conscience vote to approve legislation that may 
+unintentionally open the Great Lakes to diversions through 
+privatization, commercialization and exportation. It is imperative that 
+we take our time to ensure that the legal protections we seek to enact 
+and preserve to restore the quality and quantity of the Great Lakes 
+water be done properly.
+  I urge my colleagues to vote ``no'' on Senate Joint Resolution 45 so 
+that we may fully address the questions and pass a compact that 
+protects the Great Lakes.
+  In my 16 years here in the House of Representatives, I have fought to 
+protect these Great Lakes. Why are we rushing now to do a compact that 
+we have not had time to examine, when the State Department cannot 
+answer our questions, when we don't have the answers?
+  After we pass this legislation, it will be too late to say, oh, we 
+might have made a mistake here. Let's not open up our Great Lakes water 
+to commercialization and to international agreements we have no control 
+over. Let's get the answers before we pass this legislation.
+  Mr. COBLE. Mr. Speaker, I yield back the balance of my time.
+  Ms. SUTTON. I thank the gentleman from Michigan for his passionate 
+statement.
+  We have specifically retained the right to amend and alter the 
+compact. I would just also mention that we have worked to effectively 
+address the gentleman's concerns in the committee report.
+  Mr. STUPAK. Mr. Speaker, will the gentlewoman yield?
+  Ms. SUTTON. I yield to the gentleman from Michigan.
+  Mr. STUPAK. What assurance do we have that if we seek to amend the 
+compact after this is passed that the States are going to go along with 
+us?
+  Ms. SUTTON. I think we have the assurances that the States will act 
+reasonably in their best interests and our best interests as a region.
+  Mr. STUPAK. But once the law is passed, you can't go back and amend 
+it, unless the States take the initiative, because under WRDA and what 
+you are verifying here, the States would have control over it. So even 
+if the Congress wanted us to change the compact because they are 
+diverting our water, we can't do it unless the States act first. You 
+are giving up the right. You are ratifying this compact, and the only 
+way you can only come back into this compact is through the States, and 
+not necessarily the Federal Government.
+
+                              {time}  1415
+
+  Ms. SUTTON. Well, I respectfully disagree with the gentleman. We are 
+not really giving up our rights. This has always been a joint effort 
+with a specific responsibility left with the States, a specific 
+responsibility left with this Congress, and we retained this.
+  Mr. STUPAK. Four of the five Great Lakes are international bodies of 
+water where the States have no say over it. That's why the Federal 
+Government must ratify it. If we continue to ratify this compact 
+without getting our answers, you cannot go back and reopen the 
+international agreement unless both sides agree, including the eight 
+States and the two provinces of Canada.
+  Ms. SUTTON. I thank the gentleman for the point that he raises. I 
+believe that the agreement and the committee report language 
+effectively addresses that concern.
+  Mr. STUPAK. I have one other inquiry: Why are we rushing this 
+compact? There is no end date that it has to be done before the end of 
+the year.
+  It's an open-ended commitment. Why can't we wait? What's the rush?
+  Ms. SUTTON. I will take back my time, and I will answer the 
+gentleman's question.
+  Mr. Speaker, our Great Lakes' water is currently, at present, at risk 
+to be carelessly diverted from our basin, and that is why action is so 
+important here today. If we allow that to happen, this water will never 
+return.
+  All eight Great Lakes States have agreed to this compact. I would 
+like to thank Ohio's Governor Ted Strickland for guiding this essential 
+compact through the Ohio State House and Senate.
+  A stretch of Lake Erie shoreline touches my congressional district, 
+and Lake Erie contributes over $9 billion in tourism and travel revenue 
+to our State's economy. In my district we already utilize Lake Erie 
+commercially through Lorain Harbor, and we need this compact to protect 
+our Great Lakes, our water, our source of recreation, our jobs and our 
+economy, and we need this compact now.
+  For the overall health of our Great Lakes and our region, we must 
+pass this compact today to protect our Great Lakes and ensure that 
+future generations will have this great resource. I urge my colleagues 
+to support the Great Lakes compact.
+  Mr. EHLERS. Mr. Speaker, I rise today in strong support of S.J. Res. 
+45, the Great Lakes--St. Lawrence River Basin Water Resources Compact. 
+This resolution represents the culmination of efforts, which started 
+nearly a decade ago, to create a framework to govern water withdrawals 
+from the Great Lakes Basin.
+  The Great Lakes comprise the largest source of freshwater in the 
+world--20 percent of the Earth's total and 95 percent of the surface 
+freshwater in the United States--and they provide drinking water, 
+transportation and recreation to tens of millions of people in the 
+United States and Canada. Although the Great Lakes contain copious 
+amounts of fresh water, less than one percent of the water in the Great 
+Lakes is renewed every year through rain, snow melt, and groundwater 
+recharge, with the remaining ninety-nine percent remaining in the lakes 
+each year. In other words, the Great Lakes are a non-renewable resource 
+that is currently at jeopardy from large-scale water diversions outside 
+the Great Lakes Basin.
+  The catalyst for the creation of a Great Lakes Compact came in 1998 
+when the government of Ontario granted a permit to a private Canadian 
+company to ship up to 160 million gallons of water per year to Asia. 
+Thankfully, the public outcry was so strongly opposed that the deal 
+died.
+  In the wake of this incident, Congress included language in the Water 
+Resources Development Act (WRDA) of 2000 which prohibited the export of 
+Great Lakes water from the basin unless the request for withdrawal 
+received unanimous approval of all eight Great Lakes governors. WRDA 
+2000 also encouraged the Great Lakes states, in consultation with 
+Canada, to develop and implement a compact that would govern 
+withdrawals of water from the Great Lakes Basin.
+  In 2005, the 8 Great Lakes governors, in collaboration with the 
+Canadian provinces of Ontario and Quebec, local governments, and other 
+stakeholders, endorsed the Great Lakes Compact and referred it to the 
+state legislatures for consideration.
+  On July 9, 2008, my home state of Michigan became the last Great Lake 
+state to approve
+
+[[Page 19973]]
+
+the Compact--sending it to Congress for final ratification.
+  The Senate passed S.J. Res. 45 by unanimous consent on August 1 and 
+the House Judiciary Committee approved a similar House version (H.R. 
+6577) by voice vote on July 30. I am an original cosponsor of H.R. 
+6577.
+  The Great Lakes Compact prohibits new or increased out-of-basin, 
+large-scale water diversions except under special circumstances, and it 
+requires all of the Great Lakes states to develop water conservation 
+and efficiency programs.
+  With respect to small-scale water diversions (containers less than 
+5.7 gallons), such as for bottled water, beer, and canned foods, the 
+Compact allows states to choose how to regulate these small transfers. 
+For instance, Michigan regulates bottled water under the Compact by 
+requiring producers to obtain a state permit for new or increased water 
+withdrawals of more than 200,000 gallons per day. Under Michigan law, a 
+permit may be granted if, among other requirements, there are no 
+individual or cumulative adverse impacts, the water withdrawal is 
+reasonable under common law principles, and the producer has certified 
+that it is in compliance with water conservation measures.
+  Although some have voiced concern over this ``bottled water 
+exemption,'' I believe these small-scale withdrawals are better left to 
+the states to regulate. In addition, much of the bottled water will 
+likely remain the Great Lakes watershed, and changing the agreement now 
+would mean the entire process must start over. With water predicted to 
+become the oil of the future, it is imperative that we pass this 
+agreement now so that we ensure the water in the Great Lakes Basin 
+stays within the basin.
+  I hope my colleagues will join me, the Great Lakes governors, state 
+legislatures, the U.S. Senate, and President Bush in supporting the 
+Great Lakes Compact. Vote for S.J. Res. 45.
+  Mr. OBERSTAR. Mr. Speaker, I rise in strong support of S.J. Res. 45, 
+the Great Lakes-St. Lawrence River Basin Water Resources Compact.
+  In July, I, together with the gentleman from Michigan (Mr. Conyers, 
+Jr.), Chairman of the Committee on the Judiciary, the gentleman from 
+Ohio (Mr. LaTourette), and the gentleman from Michigan (Mr. Ehlers), 
+introduced H.R. 6577, the ``Great Lakes-St. Lawrence River Basin Water 
+Resources Compact'', the House companion bill for the legislation that 
+we consider today.
+  H.R. 6577 received the bipartisan support of almost 50 Great Lakes 
+Members and the Committee on the Judiciary ordered the bill reported 
+favorably to the House on July 30. However, to expedite implementation 
+of the Compact, the House agreed to consider the Senate companion 
+legislation (S.J. Res. 45), which the other body passed on August 1. 
+Today, we hope to complete the long process for implementation of the 
+Great Lakes-St. Lawrence River Basin Water Resources Compact by sending 
+this ``consent of Congress'' directly to the President, where he has 
+said he will sign it. I strongly urge my colleagues to support this 
+important legislation for the protection of the Great Lakes for current 
+and future generations.
+  Mr. Speaker, the Great Lakes are national and international 
+treasures, serving as both the nation's largest fresh water resource 
+and one of the largest systems of fresh water on earth--containing 
+nearly 20 percent of the world supply. Formed by melting glaciers 
+10,000 to 12,000 years ago, the Great Lakes contain enough fresh water 
+to cover the entire landmass of the continental United States to a 
+depth of almost 10 feet.
+  Yet, despite their massive volume, the Lakes' water is a fragile 
+resource. Rainfall and snowmelt replenish only about one percent of the 
+water in the Great Lakes each year, with the remaining 99 percent of 
+the volume being carried over from year-to-year. It is this unique 
+circumstance that requires the nation, and Congress, to be vigilant in 
+protecting the waters of the Great Lakes for the use and sustainability 
+of the environmental, economic, and public health of the Great Lakes 
+Basin.
+  The Committee on Transportation and Infrastructure has been integral 
+in protecting the waters of the Great Lakes from water diversions. In 
+the Water Resources Development Act of 1986 (``WRDA 1986''), the 
+Committee required that each of eight Great Lakes States consent to any 
+diversion of water from the Great Lakes Basin. WRDA 1986 prohibited any 
+diversion of Great Lakes water by any State, Federal agency, or private 
+entity for use outside the Great Lakes Basin without the consent of 
+each of the eight Governors of the Great Lakes States.
+  Unfortunately, however, the waters of the Great Lakes are still at 
+risk.
+  In 1998, Congress learned of a plan, approved by the Canadian 
+province of Ontario, to export up to 160 million gallons of water from 
+Lake Superior for sale to Asia. After this incident, a decision was 
+made by the Governors of the eight Great Lakes States and Congress to 
+strengthen Federal and interstate protections of Great Lakes waters.
+  In the Water Resources Development Act of 2000, the Committee on 
+Transportation and Infrastructure strengthened the prohibition on 
+diversions of Great Lakes waters by explicitly prohibiting exports, and 
+``encourage[d] the Great Lakes, in consultation with the Provinces of 
+Ontario and Quebec, to develop and implement a mechanism that provides 
+a common conservation standard embodying the principles of water 
+conservation and resource improvement for making decisions concerning 
+the withdrawal and use of water from the Great Lakes Basin.''
+  This ``common conservation standard'' is embodied in the Great 
+Lakes--St. Lawrence River Basin Water Resources Compact (``Compact''), 
+as proposed for the consent of Congress in S.J. Res. 45. The 
+protections contained in the Compact are consistent with the underlying 
+prohibition of diversions and exports of Great Lakes water without 
+consent of all eight Great Lakes States under section 1109 of WRDA 
+1986. In addition, the Compact should be viewed as supplementary to 
+current laws and regulations, and as an effort by the eight Great Lakes 
+States and Congress to strengthen protections already in place.
+  First, the Compact establishes that ``all new or increased diversions 
+of Great Lakes waters are prohibited,'' except within the limited 
+exceptions contained in the Compact.
+  The Compact also requires each of the Great Lakes States to regulate 
+any proposed new or increased withdrawals of Great Lakes water so as to 
+not ``physically impact'' the waters and water-dependent natural 
+resources of the Basin, including the physical, chemical, and 
+biological integrity of the Basin watersheds.
+  In addition, the Compact establishes a process for the inventory, 
+registration, and reporting of Great Lakes water withdrawals, 
+diversions, and consumptive uses within the Basin.
+  With respect to small-scale water uses, such as bottled water, beer, 
+and canned goods, the Compact allows individual States to choose how to 
+regulate smaller transfers of water in products. For example, the State 
+of Michigan chose to regulate bottled water under the Compact by 
+requiring producers to obtain a permit for new or increased water 
+withdrawals of more than 200,000 gallons per day. Under Michigan law, a 
+permit may be granted if, among other requirements, there are no 
+individual or cumulative adverse impacts, the water withdrawal is 
+reasonable under state common law principles, and the producer has 
+certified that it is in compliance with water conservation measures. 
+This state program ensures that bottled water proposals receive careful 
+scrutiny.
+  It is time for the U.S. House of Representatives to join with the 
+Governors and State legislatures of all eight Great Lakes States, the 
+U.S. Senate, and the administration in support of the Great Lakes--St. 
+Lawrence River Basin Water Resources Compact.
+  I strongly urge my colleagues to join me in supporting S.J. Res. 45.
+  Mr. LEVIN. Mr. Speaker, I rise in strong support of the legislation 
+before the House to grant congressional approval of the Great Lakes 
+Compact.
+  Passage of this legislation today is essential to the health of the 
+Great Lakes. With the approval of the Compact, at long last we will 
+close the door to bulk diversion of Great Lakes water. The Compact also 
+establishes a comprehensive management framework to protect this shared 
+resource and requires Great Lake states to control their own large-
+scale water use.
+  Some will say that the agreement does not go far enough and that 
+Congress should hold off approving the Compact until changes are made. 
+We have to be careful not to let the perfect become the enemy of the 
+good. The agreement before us is the product of years of effort and 
+enjoys broad support from all eight Great Lakes states, the 
+environmental community, conservation groups, and other key 
+stakeholders. The region has come together behind this plan as the best 
+way to protect the Great Lakes. It is now time for Congress to act.
+  There is no question that we're in a much stronger position to 
+protect the Great Lakes with the Compact than without it. I urge the 
+House to join me in supporting this vital legislation.
+  Mr. DINGELL. Mr. Speaker, I rise today in strong support of S.J. Res. 
+45, Great Lakes--St. Lawrence River Basin Water Resources Compact. As 
+an original cosponsor of the companion legislation reported by the 
+House Judiciary Committee and as co-chair of the Great Lakes Task 
+Force, I am very pleased that Congress is taking this historic and 
+much-
+
+[[Page 19974]]
+
+needed step forward to enact legislation implementing a framework for 
+overall management of our precious natural resource: the Great Lakes 
+basin.
+  The Great Lakes make up 20 percent of the world's surface freshwater 
+and 90 percent of the surface freshwater of the United States. The 
+Basin provides its surrounding states with major economic benefits, 
+some of which include tourism, manufacturing jobs, shipping, and clean 
+drinking water. It also provides habitat for millions of breeding 
+mallards, other ducks, and migratory waterfowl, and supports a 
+diversity of species and ecosystems vital to our natural world. We in 
+Congress, as well as state and local policymakers, have attempted to 
+address the potential threat low water levels in the Great Lakes will 
+have in the future on our national treasure. In 2000, the Congress 
+directed the governors of the 8 Great Lakes States to negotiate a water 
+management agreement. In 2005, the governors completed negotiations, 
+which included coordination with the Canadian Premiers in Ontario and 
+Quebec. Since then, the State Legislatures in all 8 states have agreed 
+to the Compact, and the governors have signed the legislation. On 
+August 4, 2008 I proudly took part as Governor Granholm signed the 
+Compact after it was ratified by the Michigan Legislature. In the 
+Senate, our senior Senator, Carl Levin, provided extraordinary 
+leadership to get the bill passed through that body. Today, with the 
+active support of members representing the Great Lakes' states, we will 
+vote on this legislation in the House.
+  The Great Lakes--St. Lawrence River Basin Water Resources Compact 
+will mandate a general ban on new diversions of water from the Basin 
+with limited exceptions for communities near the Basin meeting rigorous 
+standards. All of the Great Lakes' states and their communities will 
+have to comply with new standards and all will be subject to consistent 
+decision-making and appeals processes. The Compact also calls on Great 
+Lakes' states to develop regional goals and objectives for water 
+conservation and efficiency. One of the most important aspects of the 
+Compact, it is designed in a way that will ensure the Great Lakes Basin 
+continues to provide a solid economic base for its surrounding states.
+  Mr. Speaker, as I have recently noted, the Great Lakes Basin deserves 
+much more attention than it has gotten over the past 8 years from the 
+Bush Administration. One of the ways we protect the Great Lakes is by 
+providing its governing agencies with the money they need to do their 
+job. With my support, the House passed last week the Great Lakes Legacy 
+Reauthorization Act which, among other things, authorized $150 million 
+a year for 5 years to clean up toxic pollutants contaminating the 
+Lakes. Another way we will serve the best interest of the Great Lakes 
+is by moving forward with the Great Lakes Compact and, with the help of 
+our future President--hopefully one from Illinois who understands the 
+importance of protecting the Great Lakes--put the Basin on a path of 
+sustained water levels over the long-term.
+  Some have expressed concerns about the Great Lakes Compact, such as 
+whether the Compact will subject Great Lakes waters to international 
+trade agreements, what the legal and practical implications are of 
+exempting diversions of water in containers less than 5.7 gallons, and 
+whether the designation of water as a ``product'' would subject state 
+actions restricting diversions to claims under the World Trade 
+Organization. These considerations and questions were raised as states 
+legislatures were deliberating on approval of the Compact. The 
+acknowledged need for action now--and not some time in the future--
+coupled with the reassurances of language already in the Compact 
+prompted all 8 Great Lakes states to ratify the Compact. Today, the 
+House must respond with the same urgency; we must not let the perfect 
+be the enemy of the good.
+  Mr. Speaker, again, I thank my colleagues from the Great Lakes' 
+delegation who have worked so hard on the Compact over the years, and 
+urge them to join me in voting ``yes'' on S.J. Res. 45.
+  Mr. KIRK. Mr. Speaker, as a co-chairman of the Congressional Great 
+Lakes Task Force I am pleased to rise in support of S.J. Res. 45, the 
+Great Lakes--St. Lawrence River Basin Water Resources Compact. This 
+bipartisan legislation, supported by the Council of Great Lakes 
+Governors, the Great Lakes Commission, Alliance for the Great Lakes and 
+more, would implement a host of water conservation and transparency 
+measures that will limit water diversions and encourage responsible, 
+sustainable water use. A state-by-state approach will not solve the 
+problem--S.J. Res. 45 is a comprehensive, regional solution to prevent 
+the selling off of our most important natural resource.
+  The Great Lakes are among the Nation's most precious natural 
+resources. As the world's largest freshwater system, the lakes provide 
+food, recreation, drinking water, and jobs for nearly 40 million 
+people. Yet the Great Lakes face a number of threats, ranging from 
+sewage and industrial pollution to invasive species and decreasing 
+water levels. These hazards threaten not only the ecosystem and water 
+supply, but also the long-term economic stability of the entire 
+Midwest.
+  Studies document that lake levels have been on the decline since the 
+1970s. According to the Army Corps of Engineers, the Great Lakes are 
+now a combined 3.5 feet below their long-term average. Many factors are 
+believed to contribute to the declining levels, including increasing 
+air and water temperatures which reduce the ice cover of the lakes and 
+result in faster evaporation during winter. In fact, the National 
+Wildlife Federation estimates that the lakes could drop up to 8 feet 
+this century if action is not taken.
+  While Congress can take steps to help mitigate the effects of global 
+warming, Great Lakes states must regulate water use. We run the risk 
+that without water diversion safeguards, the drop in lake levels could 
+continue--we must set standards to responsibly manage water use. In 
+1998, the Canadian Nova Group tried to ship Lake Superior water in bulk 
+to Asia. Last October, then-Presidential candidate Bill Richardson 
+suggested that western states use Great Lakes water to meet their 
+growing water demand. Clearly, the desire to seize Great Lakes water 
+exists, and we must prevent the large-scale depletion of our resource.
+  Perhaps the most shocking example of water mismanagement is the Aral 
+Sea at the borders of Uzbekistan and Kazakhstan. In 50 years, what once 
+was the world's fourth largest inland sea lost 75 percent of its water 
+due to irresponsible irrigation and regional growth. This demonstrates 
+how seemingly limitless supplies of water can vanish quickly.
+  To protect the Great Lakes, Congress needs to pass the Great Lakes--
+St. Lawrence River Basin Water Resources Compact. As a proud original 
+cosponsor to H.R. 6577, the House companion version, we must do 
+everything we can to protect this national treasure for future 
+generations to enjoy. I hope my colleagues will join me in supporting 
+this sorely needed legislation.
+  Mr. REYNOLDS. Mr. Speaker, I rise today to show my strong support for 
+S.J. Res. 45, the Great Lakes--St. Lawrence River Basin Water Resources 
+Compact. As a Member who represents two critical natural resources, 
+Lake Erie and Lake Ontario, both part of the Great Lakes Basin, I 
+believe this legislation is extremely timely and worthwhile to the 
+long-term future of the Great Lakes. This bill will help address the 
+needs of my community, as well as the many challenges that the Great 
+Lakes Basin faces. It will have an impact on millions of gallons of 
+freshwater, millions of people who use the Great Lakes for rest and 
+relaxation, as well as thousands of jobs supported by the Great Lakes.
+  By passing this resolution today, and ratifying the Great Lakes 
+Compact, we have the power and ability to ensure this precious resource 
+is protected for generations to come. The Compact, which has already 
+been ratified by all eight states affected, outlines a concrete plan of 
+action to provide for protection of the Great Lakes now, and in the 
+future. This Compact is imperative in helping protect this national 
+treasure for the millions of Americans who enjoy the Great Lakes. I am 
+pleased that Congress chose not to run the risk of leaving the Great 
+Lakes unprotected and at risk for our children and grandchildren.
+  I would like to thank the Speaker for answering our call and moving 
+this essential resolution right away. With the Senate having already 
+passed this landmark legislation and the President indicating his 
+support and willingness to sign it as soon as it gets to his desk, this 
+is a historic day for the Members of the Great Lakes states from both 
+sides of the aisle. It has been a pleasure working with a broad 
+coalition of Members to ensure the long-term protection of the Great 
+Lakes.
+  I urge all of my colleagues to support this resolution.
+  Mr. EMANUEL. Mr. Speaker, I rise today in support of S.J. Res. 45, 
+the Great Lakes--St. Lawrence River Basin Water Resources Compact. I am 
+proud to be an original co-sponsor of the House companion, H.R. 6577.
+  Almost 40 million people now get their daily drinking water from the 
+Great Lakes. It is the largest body of surface freshwater in North 
+America and contains 20 percent of the world's freshwater supply. It is 
+the economic engine that drives the Midwest. And just as important, the 
+Lakes are a national treasure.
+  Today we are taking historic action to protect this national treasure 
+by passing the Great Lakes Compact. In 1998, a Canadian company 
+proposed to take water from the Lakes by tanker to Asia, but the 
+Council of
+
+[[Page 19975]]
+
+Great Lakes Governors (CGLG) banded together and partnered with their 
+Canadian counterparts to find a way to protect our Great Lakes water. 
+The result of that cooperation was the Great Lakes--St. Lawrence River 
+Basin Water Resources Compact that we are passing today.
+  The Great Lakes are a closed system, and less than 1 percent of Great 
+Lakes water is returned annually through snowmelt, rain and groundwater 
+recharge. We need to protect this resource by not only keeping 
+pollutants out, but also by keeping Great Lakes water in the Great 
+Lakes basin.
+  All eight Great Lakes states have approved the Compact, and I am 
+proud that my home state of Illinois acted quickly, passing it in 
+August of 2007 as the second state to ratify the Compact. Additionally, 
+Ontario and Quebec have passed companion legislation approving the 
+Compact.
+  The Compact prohibits diversions of Great Lakes water outside of the 
+basin without the permission of the other Great Lakes states, creates 
+regional goals and objectives for water conservation and efficiency, 
+and includes other protections for one of our greatest national 
+resources.
+  As a father and a member of Congress, ensuring that the Lakes are 
+around for future generations is of the utmost importance to me, which 
+is why I am proud to support the Great Lakes Compact.
+  Ms. MOORE of Wisconsin. Mr. Speaker, the Great Lakes Compact before 
+the House today is the result of years of efforts by the Great Lakes 
+governors, other elected officials including state legislators from 
+both sides of the partisan divide, and others who live, work, or 
+recreate in the region to work together to help ensure a set of shared 
+principles and protections for the Great Lakes.
+  The collaboration that has produced the compact that is before us 
+today was undertaken because of concerns that without a comprehensive 
+and basin wide approach to the current and future threats to these 
+bodies of water, we would lose them.
+  These threats include a growing demand for water by users--including 
+utilities, agriculture, manufacturers, concerns about the impacts of 
+climate change, declining water levels of the Lakes, and pollution.
+   While the agreement has widespread support among elected officials, 
+environmental groups, and others, I do understand that some have raised 
+concerns about some aspects of the agreement.
+  That is to be expected because while this is a good agreement it is 
+by no means a perfect agreement. It wasn't meant to be perfect. If it 
+was, we would still be waiting for an agreement.
+  But it is a good agreement, especially since we know that simply 
+doing nothing is not an option or solution. This agreement was good 
+enough to bring governors from eight states and both sides of the aisle 
+together. It was good enough to win the approval of legislatures in 
+eight states (with a combined 1,300 legislators.)
+  Together with companion efforts in the Canadian provinces of Ontario 
+and Quebec, the Compact would place new emphasis on a shared commitment 
+to conservation and set new decision-making standards for Great Lakes 
+water use.
+  The compact would require each state to use a consistent standard to 
+review proposed uses of basin water, ban new diversions of water from 
+the basin, and calls for the development of regional goals and 
+objectives for water conservation and efficiency.
+  This legislation before us today would formally give Congress's 
+assent to the compact, as required by law.
+  The document before us today also is a recognition by the 
+stakeholders who are bound by its terms--and with approval by the 
+House, the Congress as well--that we all have a shared duty ``to act 
+together to protect, conserve, restore, improve, and effectively manage 
+the waters and water dependent natural resources'' of the Great Lakes 
+basin ``for the use, benefit, and enjoyment of all citizens, including 
+generations yet to come.''
+  One of the most effective means to do this is through unified and 
+cooperative policies and programs as outlined in this agreement. It 
+would be a shame if after the hard work and negotiations and compromise 
+that has shaped this process from day one, that Congress would let this 
+opportunity slip away.
+  The Senate has already approved this bill and I urge my colleagues 
+here in the House to do likewise.
+  Ms. McCOLLUM of Minnesota. Mr. Speaker, I rise today in opposition to 
+S.J. Resolution 45, which expresses the consent and approval of 
+Congress to an inter-state compact regarding water resources in the 
+Great Lakes-St. Lawrence River Basin.
+  The Great Lakes are among America's most valued natural resources, 
+containing over 90 percent of our fresh surface water. Effective 
+management of the Great Lakes-St. Lawrence River Basin is crucial to 
+protect against harmful diversion of water that causes environmental 
+damage and depletion of the lakes.
+  I do not believe this bill has undergone a thorough, rigorous vetting 
+process to ensure that its provisions provide strong enough protections 
+against privatization, commercialization, and exportation of Great 
+Lakes water. While that this legislation does take important steps 
+toward ensuring protection of the lakes, I have several unanswered 
+concerns with the bill as it stands now.
+  Any bill seeking to protect the Great Lakes from diversion efforts 
+must have strong language protecting against the commercialization and 
+diversion of Great Lakes water in the international trade system. I am 
+deeply concerned that this bill defines Great Lakes water as a 
+``product,'' potentially subjecting it to international trade law 
+obligations under NAFTA, GATT, or the WTO. Furthermore, by exempting 
+diversions of water in containers smaller than 5.7 gallons, how does 
+this bill protect Great Lakes water from privatization claims from 
+bottled water companies and other large commercial entities? The 
+International Joint Commission, the U.S. State Department, and the U.S. 
+Trade Representative have failed to provide answers to these questions.
+  I also believe strongly that any Great Lakes Compact must ensure 
+full, active participation of the Tribes in the Great Lakes-St. 
+Lawrence River Basin in any decision-making process. Language in this 
+legislation requires ``reasonable notice'' to Tribes for commentary and 
+an obligation to ``inform'' the Tribes of meetings and hearings 
+regarding diversion of water. The intention of this language is right, 
+but it must be stronger to ensure Tribes have a strong voice in any 
+decisions related to the Great Lakes Basin.
+  The Great Lakes Compact is a critical piece of legislation, 
+concerning one of America's most precious natural resources. We must 
+hold it to the highest standards to ensure that the environmental and 
+economic integrity of the lakes are protected in a manner that is 
+inclusive of all stakeholders. I urge my colleagues to oppose this 
+legislation until these concerns have been resolved.
+  Ms. SCHAKOWSKY. Mr. Speaker, I rise today to support S.J. Res. 45, 
+the Great Lakes-St. Lawrence River Basin Water Resources Compact. This 
+bill will help protect the Great Lakes by ensuring that water taken 
+from the Great Lakes does not exceed the rate the lakes can be 
+naturally replenished.
+  Lake Michigan is, without question, the most treasured resource to 
+residents in States that border it and is our ``Grand Canyon,'' 
+something in which we take enormous pride. In addition to its 
+sentimental value, the Great Lakes, including Lake Michigan, serve as 
+an important resource, providing 20 percent of all the surface water in 
+the world, Despite their size the Great Lakes are a fragile resource. 
+Only 1 percent of the water in the Great Lakes gets replenished by snow 
+and rainwater every year.
+  As a result, the Great Lakes have been put in jeopardy by efforts to 
+divert large portions of water from the Great Lake basin to support 
+business efforts throughout the midwest and Canada. The Compact will 
+prohibit new or increased Great Lakes basin diversions to outside the 
+region, except under special circumstances to provide public drinking 
+water. It will also require all Great Lakes States to develop water 
+resource inventories and efficiency programs, and give public notice of 
+large proposed new water uses. Finally, it will establish uniform 
+standards across the Great Lake States for evaluating new in-basin uses 
+of Great Lakes water. These all are good practices of stewardship of 
+the Great Lakes, and will allow us to preserve the Lakes, while at the 
+same time exercising intelligent use of it as a natural resource.
+  The Great Lakes Compact has been approved by the Governors and State 
+legislators of all eight Great Lake States, the U.S. Senate and the 
+Bush administration. I believe that it is vital that the House joins 
+them in supporting the Compact. Doing so will protect the people and 
+environment of the Great Lakes by ensuring that the uses of its 
+resources are done in a deliberate and consensual manner between the 
+Great Lakes States.
+  Again, Mr. Speaker, I urge adoption of the Great Lakes-St. Lawrence 
+River Basin Water Resources Compact.
+  Mr. SUTTON. Mr. Speaker, I yield back the balance of my time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentlewoman from Ohio (Ms. Sutton) that the House suspend the rules and 
+pass the Senate joint resolution, S.J. Res. 45.
+
+[[Page 19976]]
+
+  The question was taken.
+  The SPEAKER pro tempore. In the opinion of the Chair, two-thirds 
+being in the affirmative, the ayes have it.
+  Mr. STUPAK. Mr. Speaker, I object to the vote on the ground that a 
+quorum is not present and make the point of order that a quorum is not 
+present.
+  The SPEAKER pro tempore. Pursuant to clause 8 of rule XX and the 
+Chair's prior announcement, further proceedings on this motion will be 
+postponed.
+  The point of no quorum is considered withdrawn.
+
+                          ____________________
+```
