@@ -1,0 +1,39 @@
+---
+granule: CRECB-2008-pt15-Pg20771
+date: 2008-09-24
+edition: CRECB
+section: SENATE
+page: 20771
+---
+
+# TRIBUTE TO ROSS A. MURPHEY
+
+```
+                       TRIBUTE TO ROSS A. MURPHEY
+
+● Mr. THUNE. Madam President, today I honor Ross A. Murphey, a 
+great patriot and first Sergeant in the South Dakota National Guard. 
+Ross was the longest serving enlisted personnel in the history of the 
+South Dakota National Guard.
+  Ross Murphey began his outstanding service in the South Dakota 
+National Guard on March 13, 1966. As a senior in high school, Ross 
+served in Headquarters and Headquarters Company in the 109th Battalion. 
+Ross remained with the 109th until January 4, 1968, when the 842nd 
+Engineer Company was formed in Northern Black Hills Region. He spent 
+the next 37 years with the 842nd and eventually was transferred to Camp 
+Rapid in Rapid City, SD. He served with Camp Rapid from September 14, 
+2005, until his retirement on August 13, 2008. Ross' leadership and 
+commitment to the National Guard have been recognized numerous times, 
+including meritorious service medals, state awards and the Bronze 
+DeFleury award.
+  With hard work and dedication, Ross obtained a senior grade rank of 
+First Sergeant. He served multiple times with the 842nd, including time 
+served in Operation Enduring Freedom/Operation Iraqi Freedom at Baghdad 
+International Airport.
+  Ross' devoted service to country and longevity are an inspiration to 
+us all. Ross Murphey served the South Dakota National Guard with 
+commitment and honor. I commend him for his 42 years of service to 
+South Dakota and to our country.●
+
+                          ____________________
+```

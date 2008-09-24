@@ -1,0 +1,138 @@
+---
+granule: CRECB-2008-pt15-Pg20795-2
+date: 2008-09-24
+edition: CRECB
+section: SENATE
+page: 20795
+---
+
+# MILITARY PERSONNEL CITIZENSHIP PROCESSING ACT
+
+```
+             MILITARY PERSONNEL CITIZENSHIP PROCESSING ACT
+
+  Mr. SALAZAR. Madam President, I ask unanimous consent that the Senate 
+proceed to the immediate consideration of Calendar No. 936, S. 2840.
+  The PRESIDING OFFICER. The clerk will report the bill by title.
+  The legislative clerk read as follows:
+
+       A bill (S. 2840) to establish a liaison with the Federal 
+     Bureau of Investigation in the United States Citizenship and 
+     Immigration Services to expedite naturalization applications 
+     filed by members of the Armed Forces and to establish a 
+     deadline for processing such applications.
+
+  There being no objection, the Senate proceeded to consider the bill, 
+which had been reported from the Committee on the Judiciary with an 
+amendment to strike all after the enacting clause and insert in lieu 
+thereof the following:
+
+                                S. 2840
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Military Personnel 
+     Citizenship Processing Act''.
+
+     SEC. 2. OFFICE OF THE FBI LIAISON.
+
+       (a) Establishment.--Section 451 of the Homeland Security 
+     Act of 2002 (6 U.S.C. 271) is amended by adding at the end 
+     the following:
+       ``(g) Office of the FBI Liaison.--
+       ``(1) In general.--There shall be an Office of the FBI 
+     Liaison in the Department of Homeland Security.
+       ``(2) Functions.--The Office of the FBI Liaison shall 
+     monitor the progress of the functions of the Federal Bureau 
+     of Investigation in the naturalization process to assist in 
+     the expeditious completion of all such functions pertaining 
+     to naturalization applications filed by, or on behalf of--
+       ``(A) current or former members of the Armed Forces under 
+     section 328 or 329 of the Immigration and Nationality Act (8 
+     U.S.C. 1439 and 1440);
+       ``(B) current spouses of United States citizens who are 
+     currently serving on active duty in the Armed Forces, who 
+     qualify for naturalization under section 319(b) of the 
+     Immigration and Nationality Act (8 U.S.C. 1430(b)), and 
+     surviving spouses and children who qualify for naturalization 
+     under section 319(d) of such Act; or
+       ``(C) a deceased individual who is eligible for posthumous 
+     citizenship under section 329A of the Immigration and 
+     Nationality Act (8 U.S.C. 1440-1).
+       ``(3) Authorization of appropriations.--There are 
+     authorized to be appropriated such sums as may be necessary 
+     to carry out this subsection.''.
+       (b) Rulemaking.--Not later than 180 days after the date of 
+     the enactment of this Act, the Secretary of Homeland 
+     Security, in consultation with the Attorney General, shall 
+     promulgate rules to carry out the amendment made by 
+     subsection (a).
+
+     SEC. 3. DEADLINE FOR PROCESSING AND ADJUDICATING 
+                   NATURALIZATION APPLICATIONS FILED BY CURRENT OR 
+                   FORMER MEMBERS OF THE ARMED FORCES AND THEIR 
+                   SPOUSES AND CHILDREN.
+
+       (a) In General.--Section 328 of the Immigration and 
+     Nationality Act (8 U.S.C. 1439) is amended by adding at the 
+     end the following:
+
+[[Page 20796]]
+
+       ``(g) Not later than 6 months after receiving an 
+     application for naturalization filed by a current member of 
+     the Armed Forces under subsection (a), section 329(a), or 
+     section 329A, by the spouse of such member under section 
+     319(b), or by a surviving spouse or child under section 
+     319(d), United States Citizenship and Immigration Services 
+     shall--
+       ``(1) process and adjudicate the application, including 
+     completing all required background checks to the satisfaction 
+     of the Secretary of Homeland Security; or
+       ``(2) provide the applicant with--
+       ``(A) an explanation for its inability to meet the 
+     processing and adjudication deadline under this subsection; 
+     and
+       ``(B) an estimate of the date by which the application will 
+     be processed and adjudicated.
+       ``(h) The Director of United States Citizenship and 
+     Immigration Services shall submit an annual report to the 
+     Subcommittee on Immigration, Border Security, and Refugees 
+     and the Subcommittee on Homeland Security of the Senate and 
+     the Subcommittee on Immigration, Citizenship, Refugees, 
+     Border Security, and International Law and the Subcommittee 
+     on Homeland Security of the House of Representatives that 
+     identifies every application filed under subsection (a), 
+     subsection (b) or (d) of section 319, section 329(a), or 
+     section 329A that is not processed and adjudicated within 1 
+     year after it was filed due to delays in conducting required 
+     background checks.''.
+       (b) GAO Report.--Not later than 180 days after the date of 
+     the enactment of this Act, the Comptroller General shall 
+     submit a report to Congress that contains the results of a 
+     study regarding the average length of time taken by United 
+     States Citizenship and Immigration Services to process and 
+     adjudicate applications for naturalization filed by members 
+     of the Armed Forces, deceased members of the Armed Forces, 
+     and their spouses and children.
+
+     SEC. 4. SUNSET PROVISION.
+
+       This Act and the amendments made by this Act are repealed 
+     on the date that is 5 years after the date of the enactment 
+     of this Act.
+
+  Mr. SALAZAR. I ask unanimous consent that the committee substitute be 
+agreed to, the bill, as amended, be read a third time and passed, the 
+motions to reconsider be laid upon the table, with no intervening 
+action or debate, and any statements be printed in the Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The committee amendment in the nature of a substitute was agreed to.
+  The bill (S. 2840), as amended, was ordered to be engrossed for a 
+third reading, was read the third time, and passed.
+
+                          ____________________
+```
