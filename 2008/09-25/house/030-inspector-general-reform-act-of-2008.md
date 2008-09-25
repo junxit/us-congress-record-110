@@ -1,0 +1,1169 @@
+---
+granule: CRECB-2008-pt16-Pg21785-2
+date: 2008-09-25
+edition: CRECB
+section: HOUSE
+page: 21785
+---
+
+# INSPECTOR GENERAL REFORM ACT OF 2008
+
+```
+                  INSPECTOR GENERAL REFORM ACT OF 2008
+
+  Mr. TOWNS. Madam Speaker, I move to suspend the rules and concur in 
+the Senate amendment to the bill (H.R. 928) to amend the Inspector 
+General Act of 1978 to enhance the independence of the Inspectors 
+General, to create a Council of the Inspectors General on Integrity and 
+Efficiency, and for other purposes.
+  The Clerk read the title of the bill.
+  The text of the Senate amendment is as follows:
+
+       Senate amendment:
+       Strike all after the enacting clause and insert the 
+     following:
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Inspector General Reform Act 
+     of 2008''.
+
+     SEC. 2. APPOINTMENT AND QUALIFICATIONS OF INSPECTORS GENERAL.
+
+       Section 8G(c) of the Inspector General Act of 1978 (5 
+     U.S.C. App.) is amended by adding at the end ``Each Inspector 
+     General shall be appointed without regard to political 
+     affiliation and solely on the basis of integrity and 
+     demonstrated ability in accounting, auditing, financial 
+     analysis, law, management analysis, public administration, or 
+     investigations.''.
+
+     SEC. 3. REMOVAL OF INSPECTORS GENERAL.
+
+       (a) Establishments.--Section 3(b) of the Inspector General 
+     Act of 1978 (5 U.S.C. App.) is amended by striking the second 
+     sentence and inserting ``If an Inspector General is removed 
+     from office or is transferred to another position or location 
+     within an establishment, the President shall communicate in 
+     writing the reasons for any such removal or transfer to both 
+     Houses of Congress, not later than 30 days before the removal 
+     or transfer. Nothing in this subsection shall prohibit a 
+     personnel action otherwise authorized by law, other than 
+     transfer or removal.''.
+       (b) Designated Federal Entities.--Section 8G(e) of the 
+     Inspector General Act of 1978 (5 U.S.C. App.) is amended by 
+     striking ``shall promptly communicate in writing the reasons 
+     for any such removal or transfer to both Houses of the 
+     Congress.'' and inserting ``shall communicate in writing the 
+     reasons for any such removal or transfer to both Houses of 
+     Congress, not later than 30 days before the removal or 
+     transfer. Nothing in this subsection shall prohibit a 
+     personnel action otherwise authorized by law, other than 
+     transfer or removal.''.
+
+     SEC. 4. PAY OF INSPECTORS GENERAL.
+
+       (a) Inspectors General at Level III of Executive 
+     Schedule.--
+       (1) In general.--Section 3 of the Inspector General Act of 
+     1978 (5 U.S.C. App.), is amended by adding at the end the 
+     following:
+       ``(e) The annual rate of basic pay for an Inspector General 
+     (as defined under section 12(3)) shall be the rate payable 
+     for level III of the Executive Schedule under section 5314 of 
+     title 5, United States Code, plus 3 percent.''.
+       (2) Technical and conforming amendments.--Section 5315 of 
+     title 5, United States Code, is amended by striking the item 
+     relating to each of the following positions:
+       (A) Inspector General, Department of Education.
+       (B) Inspector General, Department of Energy.
+       (C) Inspector General, Department of Health and Human 
+     Services.
+       (D) Inspector General, Department of Agriculture.
+       (E) Inspector General, Department of Housing and Urban 
+     Development.
+       (F) Inspector General, Department of Labor.
+       (G) Inspector General, Department of Transportation.
+       (H) Inspector General, Department of Veterans Affairs.
+       (I) Inspector General, Department of Homeland Security.
+       (J) Inspector General, Department of Defense.
+       (K) Inspector General, Department of State.
+       (L) Inspector General, Department of Commerce.
+       (M) Inspector General, Department of the Interior.
+       (N) Inspector General, Department of Justice.
+       (O) Inspector General, Department of the Treasury.
+       (P) Inspector General, Agency for International 
+     Development.
+       (Q) Inspector General, Environmental Protection Agency.
+       (R) Inspector General, Export-Import Bank.
+       (S) Inspector General, Federal Emergency Management Agency.
+       (T) Inspector General, General Services Administration.
+       (U) Inspector General, National Aeronautics and Space 
+     Administration.
+       (V) Inspector General, Nuclear Regulatory Commission.
+       (W) Inspector General, Office of Personnel Management.
+       (X) Inspector General, Railroad Retirement Board.
+       (Y) Inspector General, Small Business Administration.
+       (Z) Inspector General, Tennessee Valley Authority.
+       (AA) Inspector General, Federal Deposit Insurance 
+     Corporation.
+       (BB) Inspector General, Resolution Trust Corporation.
+       (CC) Inspector General, Central Intelligence Agency.
+       (DD) Inspector General, Social Security Administration.
+       (EE) Inspector General, United States Postal Service.
+       (3) Applicability to other inspectors general.--
+       (A) In general.--Notwithstanding any other provision of 
+     law, the annual rate of basic pay of the Inspector General of 
+     the Central Intelligence Agency, the Special Inspector 
+     General for Iraq Reconstruction, and the Special Inspector 
+     General for Afghanistan Reconstruction shall be that of an 
+     Inspector General as defined under section 12(3) of the 
+     Inspector General Act of 1978 (5 U.S.C. App.) (as amended by 
+     section 7(a) of this Act).
+       (B) Prohibition of cash bonus or awards.--Section 3(f) of 
+     the Inspector General Act of 1978 (5 U.S.C. App.) (as amended 
+     by section 5 of this Act) shall apply to the Inspectors 
+     General described under subparagraph (A).
+       (4) Additional technical and conforming amendment.--Section 
+     194(b) of the National and Community Service Act of 1990 (42 
+     U.S.C. 12651e(b)) is amended by striking paragraph (3).
+       (b) Inspectors General of Designated Federal Entities.--
+       (1) In general.--Notwithstanding any other provision of 
+     law, the Inspector General of each designated Federal entity 
+     (as those terms are defined under section 8G of the Inspector 
+     General Act of 1978 (5 U.S.C. App.)) shall, for pay and all 
+     other purposes, be classified at a grade, level, or rank 
+     designation, as the case may be, at or above those of a 
+     majority of the senior level executives of that designated 
+     Federal entity (such as a General Counsel, Chief Information 
+     Officer, Chief Financial Officer, Chief Human Capital 
+     Officer, or Chief Acquisition Officer). The pay of an 
+     Inspector General of a designated Federal entity (as those 
+     terms are defined under section 8G of the Inspector General 
+     Act of 1978 (5 U.S.C. App.)) shall be not less than the 
+     average total compensation (including bonuses) of the senior 
+     level executives of that designated Federal entity calculated 
+     on an annual basis.
+       (2) Limitation on adjustment.--
+       (A) In general.--In the case of an Inspector General of a 
+     designated Federal entity whose pay is adjusted under 
+     paragraph (1), the total increase in pay in any fiscal year 
+     resulting from that adjustment may not exceed 25 percent of 
+     the average total compensation (including bonuses) of the 
+     Inspector General of that entity for the preceding 3 fiscal 
+     years.
+       (B) Sunset of limitation.--The limitation under 
+     subparagraph (A) shall not apply to any adjustment made in 
+     fiscal year 2013 or each fiscal year thereafter.
+       (c) Savings Provision for Newly Appointed Inspectors 
+     General.--
+       (1) In general.--The provisions of section 3392 of title 5, 
+     United States Code, other than the terms ``performance 
+     awards'' and ``awarding of ranks'' in subsection (c)(1) of 
+     such section, shall apply to career appointees of the Senior 
+     Executive Service who are appointed to the position of 
+     Inspector General.
+       (2) Nonreduction in pay.--Notwithstanding any other 
+     provision of law, career Federal employees serving on an 
+     appointment made pursuant to statutory authority found other 
+     than in section 3392 of title 5, United States Code, shall 
+     not suffer a reduction in pay, not including any bonus or 
+     performance award, as a result of being appointed to the 
+     position of Inspector General.
+       (d) Savings Provision.--Nothing in this section shall have 
+     the effect of reducing the rate of pay of any individual 
+     serving on the date of enactment of this section as an 
+     Inspector General of--
+       (1) an establishment as defined under section 12(2) of the 
+     Inspector General Act of 1978 (5 U.S.C. App.) (as amended by 
+     section 7(a) of this Act);
+
+[[Page 21786]]
+
+       (2) a designated Federal entity as defined under section 
+     8G(2) of the Inspector General Act of 1978 (5 U.S.C. App.);
+       (3) a legislative agency for which the position of 
+     Inspector General is established by statute; or
+       (4) any other entity of the Government for which the 
+     position of Inspector General is established by statute.
+
+     SEC. 5. PROHIBITION OF CASH BONUS OR AWARDS.
+
+       Section 3 of the Inspector General Act of 1978 (5 U.S.C. 
+     App.) (as amended by section 4 of this Act) is further 
+     amended by adding at the end the following:
+       ``(f) An Inspector General (as defined under section 
+     8G(a)(6) or 12(3)) may not receive any cash award or cash 
+     bonus, including any cash award under chapter 45 of title 5, 
+     United States Code.''.
+
+     SEC. 6. SEPARATE COUNSEL TO SUPPORT INSPECTORS GENERAL.
+
+       (a) Counsels to Inspectors General of Establishment.--
+     Section 3 of the Inspector General Act of 1978 (5 U.S.C. 
+     App.) (as amended by sections 4 and 5 of this Act) is further 
+     amended by adding at the end the following:
+       ``(g) Each Inspector General shall, in accordance with 
+     applicable laws and regulations governing the civil service, 
+     obtain legal advice from a counsel either reporting directly 
+     to the Inspector General or another Inspector General.''.
+       (b) Counsels to Inspectors General of Designated Federal 
+     Entities.--Section 8G(g) of the Inspector General Act of 1978 
+     (5 U.S.C. App.) is amended by adding at the end the 
+     following:
+       ``(4) Each Inspector General shall--
+       ``(A) in accordance with applicable laws and regulations 
+     governing appointments within the designated Federal entity, 
+     appoint a Counsel to the Inspector General who shall report 
+     to the Inspector General;
+       ``(B) obtain the services of a counsel appointed by and 
+     directly reporting to another Inspector General on a 
+     reimbursable basis; or
+       ``(C) obtain the services of appropriate staff of the 
+     Council of the Inspectors General on Integrity and Efficiency 
+     on a reimbursable basis.''.
+       (c) Rule of Construction.--Nothing in the amendments made 
+     by this section shall be construed to alter the duties and 
+     responsibilities of the counsel for any establishment or 
+     designated Federal entity, except for the availability of 
+     counsel as provided under sections 3(g) and 8G(g) of the 
+     Inspector General Act of 1978 (5 U.S.C. App.) (as amended by 
+     this section). The Counsel to the Inspector General shall 
+     perform such functions as the Inspector General may 
+     prescribe.
+
+     SEC. 7. ESTABLISHMENT OF COUNCIL OF THE INSPECTORS GENERAL ON 
+                   INTEGRITY AND EFFICIENCY.
+
+       (a) Establishment.--The Inspector General Act of 1978 (5 
+     U.S.C. App.) is amended by redesignating sections 11 and 12 
+     as sections 12 and 13, respectively, and by inserting after 
+     section 10 the following:
+
+     ``SEC. 11. ESTABLISHMENT OF THE COUNCIL OF THE INSPECTORS 
+                   GENERAL ON INTEGRITY AND EFFICIENCY.
+
+       ``(a) Establishment and Mission.--
+       ``(1) Establishment.--There is established as an 
+     independent entity within the executive branch the Council of 
+     the Inspectors General on Integrity and Efficiency (in this 
+     section referred to as the `Council').
+       ``(2) Mission.--The mission of the Council shall be to--
+       ``(A) address integrity, economy, and effectiveness issues 
+     that transcend individual Government agencies; and
+       ``(B) increase the professionalism and effectiveness of 
+     personnel by developing policies, standards, and approaches 
+     to aid in the establishment of a well-trained and highly 
+     skilled workforce in the offices of the Inspectors General.
+       ``(b) Membership.--
+       ``(1) In general.--The Council shall consist of the 
+     following members:
+       ``(A) All Inspectors General whose offices are established 
+     under--
+       ``(i) section 2; or
+       ``(ii) section 8G.
+       ``(B) The Inspectors General of the Office of the Director 
+     of National Intelligence and the Central Intelligence Agency.
+       ``(C) The Controller of the Office of Federal Financial 
+     Management.
+       ``(D) A senior level official of the Federal Bureau of 
+     Investigation designated by the Director of the Federal 
+     Bureau of Investigation.
+       ``(E) The Director of the Office of Government Ethics.
+       ``(F) The Special Counsel of the Office of Special Counsel.
+       ``(G) The Deputy Director of the Office of Personnel 
+     Management.
+       ``(H) The Deputy Director for Management of the Office of 
+     Management and Budget.
+       ``(I) The Inspectors General of the Library of Congress, 
+     Capitol Police, Government Printing Office, Government 
+     Accountability Office, and the Architect of the Capitol.
+       ``(2) Chairperson and executive chairperson.--
+       ``(A) Executive chairperson.--The Deputy Director for 
+     Management of the Office of Management and Budget shall be 
+     the Executive Chairperson of the Council.
+       ``(B) Chairperson.--The Council shall elect 1 of the 
+     Inspectors General referred to in paragraph (1)(A) or (B) to 
+     act as Chairperson of the Council. The term of office of the 
+     Chairperson shall be 2 years.
+       ``(3) Functions of chairperson and executive chairperson.--
+       ``(A) Executive chairperson.--The Executive Chairperson 
+     shall--
+       ``(i) preside over meetings of the Council;
+       ``(ii) provide to the heads of agencies and entities 
+     represented on the Council summary reports of the activities 
+     of the Council; and
+       ``(iii) provide to the Council such information relating to 
+     the agencies and entities represented on the Council as 
+     assists the Council in performing its functions.
+       ``(B) Chairperson.--The Chairperson shall--
+       ``(i) convene meetings of the Council--
+
+       ``(I) at least 6 times each year;
+       ``(II) monthly to the extent possible; and
+       ``(III) more frequently at the discretion of the 
+     Chairperson;
+
+       ``(ii) carry out the functions and duties of the Council 
+     under subsection (c);
+       ``(iii) appoint a Vice Chairperson to assist in carrying 
+     out the functions of the Council and act in the absence of 
+     the Chairperson, from a category of Inspectors General 
+     described in subparagraph (A)(i), (A)(ii), or (B) of 
+     paragraph (1), other than the category from which the 
+     Chairperson was elected;
+       ``(iv) make such payments from funds otherwise available to 
+     the Council as may be necessary to carry out the functions of 
+     the Council;
+       ``(v) select, appoint, and employ personnel as needed to 
+     carry out the functions of the Council subject to the 
+     provisions of title 5, United States Code, governing 
+     appointments in the competitive service, and the provisions 
+     of chapter 51 and subchapter III of chapter 53 of such title, 
+     relating to classification and General Schedule pay rates;
+       ``(vi) to the extent and in such amounts as may be provided 
+     in advance by appropriations Acts, made available from the 
+     revolving fund established under subsection (c)(3)(B), or as 
+     otherwise provided by law, enter into contracts and other 
+     arrangements with public agencies and private persons to 
+     carry out the functions and duties of the Council;
+       ``(vii) establish, in consultation with the members of the 
+     Council, such committees as determined by the Chairperson to 
+     be necessary and appropriate for the efficient conduct of 
+     Council functions; and
+       ``(viii) prepare and transmit a report annually on behalf 
+     of the Council to the President on the activities of the 
+     Council.
+       ``(c) Functions and Duties of Council.--
+       ``(1) In general.--The Council shall--
+       ``(A) continually identify, review, and discuss areas of 
+     weakness and vulnerability in Federal programs and operations 
+     with respect to fraud, waste, and abuse;
+       ``(B) develop plans for coordinated, Governmentwide 
+     activities that address these problems and promote economy 
+     and efficiency in Federal programs and operations, including 
+     interagency and interentity audit, investigation, inspection, 
+     and evaluation programs and projects to deal efficiently and 
+     effectively with those problems concerning fraud and waste 
+     that exceed the capability or jurisdiction of an individual 
+     agency or entity;
+       ``(C) develop policies that will aid in the maintenance of 
+     a corps of well-trained and highly skilled Office of 
+     Inspector General personnel;
+       ``(D) maintain an Internet website and other electronic 
+     systems for the benefit of all Inspectors General, as the 
+     Council determines are necessary or desirable;
+       ``(E) maintain 1 or more academies as the Council considers 
+     desirable for the professional training of auditors, 
+     investigators, inspectors, evaluators, and other personnel of 
+     the various offices of Inspector General;
+       ``(F) submit recommendations of individuals to the 
+     appropriate appointing authority for any appointment to an 
+     office of Inspector General described under subsection 
+     (b)(1)(A) or (B);
+       ``(G) make such reports to Congress as the Chairperson 
+     determines are necessary or appropriate; and
+       ``(H) perform other duties within the authority and 
+     jurisdiction of the Council, as appropriate.
+       ``(2) Adherence and participation by members.--To the 
+     extent permitted under law, and to the extent not 
+     inconsistent with standards established by the Comptroller 
+     General of the United States for audits of Federal 
+     establishments, organizations, programs, activities, and 
+     functions, each member of the Council, as appropriate, 
+     shall--
+       ``(A) adhere to professional standards developed by the 
+     Council; and
+       ``(B) participate in the plans, programs, and projects of 
+     the Council, except that in the case of a member described 
+     under subsection (b)(1)(I) , the member shall participate 
+     only to the extent requested by the member and approved by 
+     the Executive Chairperson and Chairperson.
+       ``(3) Additional administrative authorities.--
+       ``(A) Interagency funding.--Notwithstanding section 1532 of 
+     title 31, United States Code, or any other provision of law 
+     prohibiting the interagency funding of activities described 
+     under subclause (I), (II), or (III) of clause (i), in the 
+     performance of the responsibilities, authorities, and duties 
+     of the Council--
+       ``(i) the Executive Chairperson may authorize the use of 
+     interagency funding for--
+
+       ``(I) Governmentwide training of employees of the Offices 
+     of the Inspectors General;
+       ``(II) the functions of the Integrity Committee of the 
+     Council; and
+       ``(III) any other authorized purpose determined by the 
+     Council; and
+
+       ``(ii) upon the authorization of the Executive Chairperson, 
+     any department, agency, or entity
+
+[[Page 21787]]
+
+     of the executive branch which has a member on the Council 
+     shall fund or participate in the funding of such activities.
+       ``(B) Revolving fund.--
+       ``(i) In general.--The Council may--
+
+       ``(I) establish in the Treasury of the United States a 
+     revolving fund to be called the Inspectors General Council 
+     Fund; or
+       ``(II) enter into an arrangement with a department or 
+     agency to use an existing revolving fund.
+
+       ``(ii) Amounts in revolving fund.--
+
+       ``(I) In general.--Amounts transferred to the Council under 
+     this subsection shall be deposited in the revolving fund 
+     described under clause (i)(I) or (II).
+       ``(II) Training.--Any remaining unexpended balances 
+     appropriated for or otherwise available to the Inspectors 
+     General Criminal Investigator Academy and the Inspectors 
+     General Auditor Training Institute shall be transferred to 
+     the revolving fund described under clause (i)(I) or (II).
+
+       ``(iii) Use of revolving fund.--
+
+       ``(I) In general.--Except as provided under subclause (II), 
+     amounts in the revolving fund described under clause (i)(I) 
+     or (II) may be used to carry out the functions and duties of 
+     the Council under this subsection.
+       ``(II) Training.--Amounts transferred into the revolving 
+     fund described under clause (i)(I) or (II) may be used for 
+     the purpose of maintaining any training academy as determined 
+     by the Council.
+
+       ``(iv) Availability of funds.--Amounts in the revolving 
+     fund described under clause (i)(I) or (II) shall remain 
+     available to the Council without fiscal year limitation.
+       ``(C) Superseding provisions.--No provision of law enacted 
+     after the date of enactment of this subsection shall be 
+     construed to limit or supersede any authority under 
+     subparagraph (A) or (B), unless such provision makes specific 
+     reference to the authority in that paragraph.
+       ``(4) Existing authorities and responsibilities.--The 
+     establishment and operation of the Council shall not affect--
+       ``(A) the role of the Department of Justice in law 
+     enforcement and litigation;
+       ``(B) the authority or responsibilities of any Government 
+     agency or entity; and
+       ``(C) the authority or responsibilities of individual 
+     members of the Council.
+       ``(d) Integrity Committee.--
+       ``(1) Establishment.--The Council shall have an Integrity 
+     Committee, which shall receive, review, and refer for 
+     investigation allegations of wrongdoing that are made against 
+     Inspectors General and staff members of the various Offices 
+     of Inspector General described under paragraph (4)(C).
+       ``(2) Membership.--The Integrity Committee shall consist of 
+     the following members:
+       ``(A) The official of the Federal Bureau of Investigation 
+     serving on the Council, who shall serve as Chairperson of the 
+     Integrity Committee, and maintain the records of the 
+     Committee.
+       ``(B) Four Inspectors General described in subparagraph (A) 
+     or (B) of subsection (b)(1) appointed by the Chairperson of 
+     the Council, representing both establishments and designated 
+     Federal entities (as that term is defined in section 8G(a)).
+       ``(C) The Special Counsel of the Office of Special Counsel.
+       ``(D) The Director of the Office of Government Ethics.
+       ``(3) Legal advisor.--The Chief of the Public Integrity 
+     Section of the Criminal Division of the Department of 
+     Justice, or his designee, shall serve as a legal advisor to 
+     the Integrity Committee.
+       ``(4) Referral of allegations.--
+       ``(A) Requirement.--An Inspector General shall refer to the 
+     Integrity Committee any allegation of wrongdoing against a 
+     staff member of the office of that Inspector General, if--
+       ``(i) review of the substance of the allegation cannot be 
+     assigned to an agency of the executive branch with 
+     appropriate jurisdiction over the matter; and
+       ``(ii) the Inspector General determines that--
+
+       ``(I) an objective internal investigation of the allegation 
+     is not feasible; or
+       ``(II) an internal investigation of the allegation may 
+     appear not to be objective.
+
+       ``(B) Definition.--In this paragraph the term `staff 
+     member' means any employee of an Office of Inspector General 
+     who--
+       ``(i) reports directly to an Inspector General; or
+       ``(ii) is designated by an Inspector General under 
+     subparagraph (C).
+       ``(C) Designation of staff members.--Each Inspector General 
+     shall annually submit to the Chairperson of the Integrity 
+     Committee a designation of positions whose holders are staff 
+     members for purposes of subparagraph (B).
+       ``(5) Review of allegations.--The Integrity Committee 
+     shall--
+       ``(A) review all allegations of wrongdoing the Integrity 
+     Committee receives against an Inspector General, or against a 
+     staff member of an Office of Inspector General described 
+     under paragraph (4)(C);
+       ``(B) refer any allegation of wrongdoing to the agency of 
+     the executive branch with appropriate jurisdiction over the 
+     matter; and
+       ``(C) refer to the Chairperson of the Integrity Committee 
+     any allegation of wrongdoing determined by the Integrity 
+     Committee under subparagraph (A) to be potentially 
+     meritorious that cannot be referred to an agency under 
+     subparagraph (B).
+       ``(6) Authority to investigate allegations.--
+       ``(A) Requirement.--The Chairperson of the Integrity 
+     Committee shall cause a thorough and timely investigation of 
+     each allegation referred under paragraph (5)(C) to be 
+     conducted in accordance with this paragraph.
+       ``(B) Resources.--At the request of the Chairperson of the 
+     Integrity Committee, the head of each agency or entity 
+     represented on the Council--
+       ``(i) may provide resources necessary to the Integrity 
+     Committee; and
+       ``(ii) may detail employees from that agency or entity to 
+     the Integrity Committee, subject to the control and direction 
+     of the Chairperson, to conduct an investigation under this 
+     subsection.
+       ``(7) Procedures for investigations.--
+       ``(A) Standards applicable.--Investigations initiated under 
+     this subsection shall be conducted in accordance with the 
+     most current Quality Standards for Investigations issued by 
+     the Council or by its predecessors (the President's Council 
+     on Integrity and Efficiency and the Executive Council on 
+     Integrity and Efficiency).
+       ``(B) Additional policies and procedures.--
+       ``(i) Establishment.--The Integrity Committee, in 
+     conjunction with the Chairperson of the Council, shall 
+     establish additional policies and procedures necessary to 
+     ensure fairness and consistency in--
+
+       ``(I) determining whether to initiate an investigation;
+       ``(II) conducting investigations;
+       ``(III) reporting the results of an investigation; and
+       ``(IV) providing the person who is the subject of an 
+     investigation with an opportunity to respond to any Integrity 
+     Committee report.
+       ``(ii) Submission to congress.--The Council shall submit a 
+     copy of the policies and procedures established under clause 
+     (i) to the congressional committees of jurisdiction.
+
+       ``(C) Reports.--
+       ``(i) Potentially meritorious allegations.--For allegations 
+     described under paragraph (5)(C), the Chairperson of the 
+     Integrity Committee shall make a report containing the 
+     results of the investigation of the Chairperson and shall 
+     provide such report to members of the Integrity Committee.
+       ``(ii) Allegations of wrongdoing.--For allegations referred 
+     to an agency under paragraph (5)(B), the head of that agency 
+     shall make a report containing the results of the 
+     investigation and shall provide such report to members of the 
+     Integrity Committee.
+       ``(8) Assessment and final disposition.--
+       ``(A) In general.--With respect to any report received 
+     under paragraph (7)(C), the Integrity Committee shall--
+       ``(i) assess the report;
+       ``(ii) forward the report, with the recommendations of the 
+     Integrity Committee, including those on disciplinary action, 
+     within 30 days (to the maximum extent practicable) after the 
+     completion of the investigation, to the Executive Chairperson 
+     of the Council and to the President (in the case of a report 
+     relating to an Inspector General of an establishment or any 
+     employee of that Inspector General) or the head of a 
+     designated Federal entity (in the case of a report relating 
+     to an Inspector General of such an entity or any employee of 
+     that Inspector General) for resolution; and
+       ``(iii) submit to the Committee on Government Oversight and 
+     Reform of the House of Representatives, the Committee on 
+     Homeland Security and Governmental Affairs of the Senate, and 
+     other congressional committees of jurisdiction an executive 
+     summary of such report and recommendations within 30 days 
+     after the submission of such report to the Executive 
+     Chairperson under clause (ii).
+       ``(B) Disposition.--The Executive Chairperson of the 
+     Council shall report to the Integrity Committee the final 
+     disposition of the matter, including what action was taken by 
+     the President or agency head.
+       ``(9) Annual report.--The Council shall submit to Congress 
+     and the President by December 31 of each year a report on the 
+     activities of the Integrity Committee during the preceding 
+     fiscal year, which shall include the following:
+       ``(A) The number of allegations received.
+       ``(B) The number of allegations referred to other agencies, 
+     including the number of allegations referred for criminal 
+     investigation.
+       ``(C) The number of allegations referred to the Chairperson 
+     of the Integrity Committee for investigation.
+       ``(D) The number of allegations closed without referral.
+       ``(E) The date each allegation was received and the date 
+     each allegation was finally disposed of.
+       ``(F) In the case of allegations referred to the 
+     Chairperson of the Integrity Committee, a summary of the 
+     status of the investigation of the allegations and, in the 
+     case of investigations completed during the preceding fiscal 
+     year, a summary of the findings of the investigations.
+       ``(G) Other matters that the Council considers appropriate.
+       ``(10) Requests for more information.--With respect to 
+     paragraphs (8) and (9), the Council shall provide more 
+     detailed information about specific allegations upon request 
+     from any of the following:
+       ``(A) The chairperson or ranking member of the Committee on 
+     Homeland Security and Governmental Affairs of the Senate.
+       ``(B) The chairperson or ranking member of the Committee on 
+     Oversight and Government Reform of the House of 
+     Representatives.
+       ``(C) The chairperson or ranking member of the 
+     congressional committees of jurisdiction.
+       ``(11) No right or benefit.--This subsection is not 
+     intended to create any right or benefit,
+
+[[Page 21788]]
+
+     substantive or procedural, enforceable at law by a person 
+     against the United States, its agencies, its officers, or any 
+     person.''.
+       (b) Allegations of Wrongdoing Against Special Counsel or 
+     Deputy Special Counsel.--
+       (1) Definitions.--In this section--
+       (A) the term ``Integrity Committee'' means the Integrity 
+     Committee established under section 11(d) of the Inspector 
+     General Act of 1978 (5 U.S.C. App), as amended by this Act; 
+     and
+       (B) the term ``Special Counsel'' refers to the Special 
+     Counsel appointed under section 1211(b) of title 5, United 
+     States Code.
+       (2) Authority of integrity committee.--
+       (A) In general.--An allegation of wrongdoing against the 
+     Special Counsel or the Deputy Special Counsel may be 
+     received, reviewed, and referred for investigation by the 
+     Integrity Committee to the same extent and in the same manner 
+     as in the case of an allegation against an Inspector General 
+     (or a member of the staff of an Office of Inspector General), 
+     subject to the requirement that the Special Counsel recuse 
+     himself or herself from the consideration of any allegation 
+     brought under this paragraph.
+       (B) Coordination with existing provisions of law.--This 
+     subsection does not eliminate access to the Merit Systems 
+     Protection Board for review under section 7701 of title 5, 
+     United States Code. To the extent that an allegation brought 
+     under this subsection involves section 2302(b)(8) of that 
+     title, a failure to obtain corrective action within 120 days 
+     after the date on which that allegation is received by the 
+     Integrity Committee shall, for purposes of section 1221 of 
+     such title, be considered to satisfy section 1214(a)(3)(B) of 
+     that title.
+       (3) Regulations.--The Integrity Committee may prescribe any 
+     rules or regulations necessary to carry out this subsection, 
+     subject to such consultation or other requirements as might 
+     otherwise apply.
+       (c) Effective Date and Existing Executive Orders.--
+       (1) Council.--Not later than 180 days after the date of the 
+     enactment of this Act, the Council of the Inspectors General 
+     on Integrity and Efficiency established under this section 
+     shall become effective and operational.
+       (2) Executive orders.--Executive Order No. 12805, dated May 
+     11, 1992, and Executive Order No. 12933, dated March 21, 1996 
+     (as in effect before the date of the enactment of this Act) 
+     shall have no force or effect on and after the earlier of--
+       (A) the date on which the Council of the Inspectors General 
+     on Integrity and Efficiency becomes effective and operational 
+     as determined by the Executive Chairperson of the Council; or
+       (B) the last day of the 180-day period beginning on the 
+     date of enactment of this Act.
+       (d) Technical and Conforming Amendments.--
+       (1) Inspector general act of 1978.--The Inspector General 
+     Act of 1978 (5 U.S.C. App.) is amended--
+       (A) in sections 2(1), 4(b)(2), and 8G(a)(1)(A) by striking 
+     ``section 11(2)'' each place it appears and inserting 
+     ``section 12(2)''; and
+       (B) in section 8G(a), in the matter preceding paragraph 
+     (1), by striking ``section 11'' and inserting ``section 12''.
+       (2) Separate appropriations account.--Section 1105(a) of 
+     title 31, United States Code, is amended by striking the 
+     first paragraph (33) and inserting the following:
+       ``(33) a separate appropriation account for appropriations 
+     for the Council of the Inspectors General on Integrity and 
+     Efficiency, and, included in that account, a separate 
+     statement of the aggregate amount of appropriations requested 
+     for each academy maintained by the Council of the Inspectors 
+     General on Integrity and Efficiency.''.
+
+     SEC. 8. SUBMISSION OF BUDGET REQUESTS TO CONGRESS.
+
+       Section 6 of the Inspector General Act of 1978 (5 U.S.C. 
+     App.) is amended by adding at the end the following:
+       ``(f)(1) For each fiscal year, an Inspector General shall 
+     transmit a budget estimate and request to the head of the 
+     establishment or designated Federal entity to which the 
+     Inspector General reports. The budget request shall specify 
+     the aggregate amount of funds requested for such fiscal year 
+     for the operations of that Inspector General and shall 
+     specify the amount requested for all training needs, 
+     including a certification from the Inspector General that the 
+     amount requested satisfies all training requirements for the 
+     Inspector General's office for that fiscal year, and any 
+     resources necessary to support the Council of the Inspectors 
+     General on Integrity and Efficiency. Resources necessary to 
+     support the Council of the Inspectors General on Integrity 
+     and Efficiency shall be specifically identified and justified 
+     in the budget request.
+       ``(2) In transmitting a proposed budget to the President 
+     for approval, the head of each establishment or designated 
+     Federal entity shall include--
+       ``(A) an aggregate request for the Inspector General;
+       ``(B) amounts for Inspector General training;
+       ``(C) amounts for support of the Council of the Inspectors 
+     General on Integrity and Efficiency; and
+       ``(D) any comments of the affected Inspector General with 
+     respect to the proposal.
+       ``(3) The President shall include in each budget of the 
+     United States Government submitted to Congress--
+       ``(A) a separate statement of the budget estimate prepared 
+     in accordance with paragraph (1);
+       ``(B) the amount requested by the President for each 
+     Inspector General;
+       ``(C) the amount requested by the President for training of 
+     Inspectors General;
+       ``(D) the amount requested by the President for support for 
+     the Council of the Inspectors General on Integrity and 
+     Efficiency; and
+       ``(E) any comments of the affected Inspector General with 
+     respect to the proposal if the Inspector General concludes 
+     that the budget submitted by the President would 
+     substantially inhibit the Inspector General from performing 
+     the duties of the office.''.
+
+     SEC. 9. SUBPOENA POWER.
+
+       Section 6(a)(4) of the Inspector General Act of 1978 (5 
+     U.S.C. App.) is amended--
+       (1) by inserting ``in any medium (including electronically 
+     stored information, as well as any tangible thing)'' after 
+     ``other data''; and
+       (2) by striking ``subpena'' and inserting ``subpoena''.
+
+     SEC. 10. PROGRAM FRAUD CIVIL REMEDIES ACT.
+
+       Section 3801(a)(1) of title 31, United States Code, is 
+     amended--
+       (1) in subparagraph (D), by striking ``and'' after the 
+     semicolon;
+       (2) in subparagraph (E), by striking the period and 
+     inserting ``; and''; and
+       (3) by adding at the end the following:
+       ``(F) a designated Federal entity (as such term is defined 
+     under section 8G(a)(2) of the Inspector General Act of 
+     1978);''.
+
+     SEC. 11. LAW ENFORCEMENT AUTHORITY FOR DESIGNATED FEDERAL 
+                   ENTITIES.
+
+       Section 6(e) of the Inspector General Act of 1978 (5 U.S.C. 
+     App.) is amended--
+       (1) in paragraph (1) by striking ``appointed under section 
+     3''; and
+       (2) by adding at the end the following:
+       ``(9) In this subsection, the term `Inspector General' 
+     means an Inspector General appointed under section 3 or an 
+     Inspector General appointed under section 8G.''.
+
+     SEC. 12. APPLICATION OF SEMIANNUAL REPORTING REQUIREMENTS 
+                   WITH RESPECT TO INSPECTION REPORTS AND 
+                   EVALUATION REPORTS.
+
+       Section 5 of the Inspector General Act of 1978 (5 U.S.C. 
+     App.) is amended--
+       (1) in each of subsections (a)(6), (a)(8), (a)(9), (b)(2), 
+     and (b)(3)--
+       (A) by inserting ``, inspection reports, and evaluation 
+     reports'' after ``audit reports'' the first place it appears; 
+     and
+       (B) by striking ``audit'' the second place it appears; and
+       (2) in subsection (a)(10) by inserting ``, inspection 
+     reports, and evaluation reports'' after ``audit reports''.
+
+     SEC. 13. INFORMATION ON WEBSITES OF OFFICES OF INSPECTORS 
+                   GENERAL.
+
+       (a) In General.--The Inspector General Act of 1978 (5 
+     U.S.C. App.) is amended by inserting after section 8K the 
+     following:
+
+     ``SEC. 8L. INFORMATION ON WEBSITES OF OFFICES OF INSPECTORS 
+                   GENERAL.
+
+       ``(a) Direct Links to Inspectors General Offices.--
+       ``(1) In general.--Each agency shall establish and maintain 
+     on the homepage of the website of that agency, a direct link 
+     to the website of the Office of the Inspector General of that 
+     agency.
+       ``(2) Accessibility.--The direct link under paragraph (1) 
+     shall be obvious and facilitate accessibility to the website 
+     of the Office of the Inspector General.
+       ``(b) Requirements for Inspectors General Websites.--
+       ``(1) Posting of reports and audits.--The Inspector General 
+     of each agency shall--
+       ``(A) not later than 3 days after any report or audit (or 
+     portion of any report or audit) is made publicly available, 
+     post that report or audit (or portion of that report or 
+     audit) on the website of the Office of Inspector General; and
+       ``(B) ensure that any posted report or audit (or portion of 
+     that report or audit) described under subparagraph (A)--
+       ``(i) is easily accessible from a direct link on the 
+     homepage of the website of the Office of the Inspector 
+     General;
+       ``(ii) includes a summary of the findings of the Inspector 
+     General; and
+       ``(iii) is in a format that--
+
+       ``(I) is searchable and downloadable; and
+       ``(II) facilitates printing by individuals of the public 
+     accessing the website.
+
+       ``(2) Reporting of fraud, waste, and abuse.--
+       ``(A) In general.--The Inspector General of each agency 
+     shall establish and maintain a direct link on the homepage of 
+     the website of the Office of the Inspector General for 
+     individuals to report fraud, waste, and abuse. Individuals 
+     reporting fraud, waste, or abuse using the direct link 
+     established under this paragraph shall not be required to 
+     provide personally identifying information relating to that 
+     individual.
+       ``(B) Anonymity.--The Inspector General of each agency 
+     shall not disclose the identity of any individual making a 
+     report under this paragraph without the consent of the 
+     individual unless the Inspector General determines that such 
+     a disclosure is unavoidable during the course of the 
+     investigation.''.
+       (b) Repeal.--Section 746(b) of the Financial Services and 
+     General Government Appropriations Act, 2008 (5 U.S.C. App. 
+     note; 121 Stat. 2034) is repealed.
+       (c) Implementation.--Not later than 180 days after the date 
+     of enactment of this Act, the head of each agency and the 
+     Inspector General of each agency shall implement the 
+     amendment made by this section.
+
+     SEC. 14. OTHER ADMINISTRATIVE AUTHORITIES.
+
+       (a) In General.--Section 6(d) of the Inspector General Act 
+     of 1978 (5 U.S.C. App.) is amended to read as follows:
+
+[[Page 21789]]
+
+       ``(d)(1)(A) For purposes of applying the provisions of law 
+     identified in subparagraph (B)--
+       ``(i) each Office of Inspector General shall be considered 
+     to be a separate agency; and
+       ``(ii) the Inspector General who is the head of an office 
+     referred to in clause (i) shall, with respect to such office, 
+     have the functions, powers, and duties of an agency head or 
+     appointing authority under such provisions.
+       ``(B) This paragraph applies with respect to the following 
+     provisions of title 5, United States Code:
+       ``(i) Subchapter II of chapter 35.
+       ``(ii) Sections 8335(b), 8336, 8344, 8414, 8468, and 
+     8425(b).
+       ``(iii) All provisions relating to the Senior Executive 
+     Service (as determined by the Office of Personnel 
+     Management), subject to paragraph (2).
+       ``(2) For purposes of applying section 4507(b) of title 5, 
+     United States Code, paragraph (1)(A)(ii) shall be applied by 
+     substituting `the Council of the Inspectors General on 
+     Integrity and Efficiency (established by section 11 of the 
+     Inspector General Act) shall' for `the Inspector General who 
+     is the head of an office referred to in clause (i) shall, 
+     with respect to such office,'.''.
+       (b) Authority of Treasury Inspector General for Tax 
+     Administration To Protect Internal Revenue Service 
+     Employees.--Section 8D(k)(1)(C) of the Inspector General Act 
+     of 1978 (5 U.S.C. App.) is amended by striking ``physical 
+     security'' and inserting ``protection to the Commissioner of 
+     Internal Revenue''.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentleman from New 
+York (Mr. Towns) and the gentleman from Connecticut (Mr. Shays) each 
+will control 20 minutes.
+  The Chair recognizes the gentleman from New York.
+
+
+                             General Leave
+
+  Mr. TOWNS. Madam Speaker, I ask unanimous consent that all Members 
+may have 5 legislative days in which to revise and extend their 
+remarks.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from New York?
+  There was no objection.
+  Mr. TOWNS. I yield myself such time as I may consume.
+  H.R. 928, the Inspector General Reform Act of 2008, focuses on the 
+important role of the Inspectors General in providing independent 
+oversight within Federal agencies. By investigating and reporting 
+waste, fraud and abuse to both agency leaders and to the Congress, 
+Inspectors General play a critical role in maintaining checks and 
+balances in the Federal Government.
+  This bill strengthens and reforms the Inspector General system by 
+providing greater independence and accountability for IG offices. H.R. 
+928 first passed this House last October with more than 400 votes. The 
+other body passed a similar bill sponsored by Senator McCaskill earlier 
+this year. We have worked with the Senate to resolve the differences 
+between the two bills and produce the amended bill now under 
+consideration. It passed the Senate by unanimous consent last night.
+  H.R. 928 enhances the rank and pay of IGs within their agencies, and 
+requires that Congress be promptly informed if an IG is transferred or 
+removed from office. It provides a mechanism for IGs to report to 
+Congress if their budgets are inadequate to perform their 
+responsibilities and sets aside funding for training. And the bill 
+establishes an Inspectors General Council, and sets procedures for 
+investigating potential IG misconduct.
+  I would like to commend the sponsor of this bill, my good friend Mr. 
+Cooper from the great State of Tennessee, for his work in crafting this 
+legislation. He has worked on it for several years as part of his work 
+on improving government accountability.
+  I also thank Chairman Waxman and Ranking Member Davis as well as the 
+subcommittee Ranking Member Bilbray for their work in moving this bill 
+forward.
+  H.R. 928 will make sure that the IGs have the legal authority and 
+tools necessary to continue their role as nonpartisan, professional, 
+honest brokers on behalf of the people.
+  I reserve the balance of my time.
+  Mr. SHAYS. I yield myself such time as I may consume.
+  I'm rising in support of this legislation. The Government Oversight 
+and Reform Committee works very closely with both the general 
+accountability office and the Inspector General's office. The Inspector 
+Generals play a major role in our ability to weed out waste, abuse and 
+fraud. We need to strengthen this office.
+  And we appreciate the work that Mr. Cooper has been involved in to 
+bring this legislation forward.
+  I will insert my full statement into the Record.
+  Madam Speaker, today, we take up H.R. 928, the Improving Government 
+Accountability Act. This legislation is intended to enhance the 
+independence of inspectors general throughout government to improve 
+their ability to monitor and oversee executive branch operations.
+  Since the enactment of the Inspector General Act of 1978, inspectors 
+general throughout government have played an integral role in 
+identifying waste and mismanagement in government. IGs have also been 
+instrumental in aiding Congress and the executive branch to make 
+government more efficient and effective.
+  We all agree IGs should operate independently, free from political 
+interference. After all, both agency heads and Congress often rely on 
+IG reports to provide frank assessments of the effectiveness of Federal 
+programs.
+  However, inspectors general should also be part of an agency's 
+management structure--albeit with some independence--rather than a 
+``fourth branch'' of the Federal Government. We must be careful not to 
+separate the IGs from the day-to-day operations of the agencies they 
+oversee so they may continue to perform a constructive, integrated role 
+and not just ``second-guess'' the decisions made by agencies.
+  I believe the compromise legislation we are taking up today strikes 
+the right balance between IG independence and the appropriate 
+management role of inspectors general.
+  I reserve the balance of my time.
+  Mr. TOWNS. I would like to yield 5 minutes to the gentleman from 
+Tennessee, who is a person who came to us early on with this idea 
+which, I think, is an excellent one, so I am delighted to yield 5 
+minutes to the gentleman from Tennessee (Mr. Cooper).
+  Mr. COOPER. Thanks to my friend and colleague Mr. Towns of New York 
+and my friend from Connecticut, Mr. Shays.
+  This is a very important bill for cleaning up the mess in government. 
+Inspectors General are the watchdogs on behalf of the U.S. taxpayer to 
+make sure that the waste, fraud and abuse that can occur in any Federal 
+agency is cleaned up.
+  This bill is long overdue. We've been working on it for a long time. 
+Sadly, it took many years for it to be brought up for a vote. But now 
+with the Democratic majority, it passed, as my friend from New York 
+noted, overwhelmingly. It has been passed in the Senate, and now will 
+soon be enacted into law.
+  The key points are these: We needed to professionalize the IGs. These 
+are wonderful public servants, but due to historical accident, some of 
+them are appointed by the President, some are appointed by the agency 
+heads, some of them are more independent than others. There's been a 
+lot of confusion there, and they simply haven't had the independence 
+and the accountability that they need to have to serve the U.S. 
+taxpayer.
+  I want to thank, in particular, previous legislative directors that 
+I've had who've worked on this bill for literally many years. Anne Kim 
+deserves great credit. Cicely Simpson deserves great credit. And my 
+current Legislative Director, James Leuschen, deserves great credit 
+because these are the folks who really carried the ball during the 
+years in which we were, literally, unable to get a vote.
+  Believe it or not, this bill even faced, this year, a Presidential 
+veto threat; they were so worried about reducing the patronage that 
+they had had in past appointments.
+  But now, finally, the IGs of America will be professionalized. That 
+is good news, not only for every Federal agency, but also, most 
+importantly, for the Federal taxpayer.
+  No matter how much oversight we conduct in this Congress, and I'm 
+proud to see the Oversight and Government Reform Committee revitalized 
+under Henry Waxman's leadership, because we are conducting the hearings 
+that really should have been held over many years.
+
+                              {time}  1100
+
+  But no matter how watchful Congress is in looking over Federal 
+agencies, we can't be on the ground in the agency every day the way 
+Inspectors General can be.
+
+[[Page 21790]]
+
+  So I want to congratulate my friends from New York and Connecticut 
+because these two gentlemen are true public servants. Their hearts are 
+in the right place when it comes to protecting the taxpayer, and now 
+we've even persuaded the majority of the House and the Senate and the 
+White House to do the right thing.
+  I hope we can have a substantial vote on the suspension for 
+professionalizing Inspectors General of the United States of America.
+  Mr. SHAYS. Madam Speaker, this legislation is essential if the United 
+States Congress is going to do its job. Our job is not just writing 
+legislation; our job is to do proper oversight of all of the various 
+departments and agencies.
+  We have Inspectors General that are assigned for each of our 
+departments. We have some who do a really outstanding job, and we have 
+some who do a good job, and some who, frankly, need to do a better job.
+  I think this legislation will help professionalize this agency in a 
+way that's important for our people, for our country, and for the 
+majority and the minority in this Congress. We want a more efficient 
+government. We want a better-run government. Inspectors General help us 
+do that.
+  I yield back my time.
+  Mr. TOWNS. Madam Speaker, I really feel that this legislation is so 
+timely, because when you talk to people, when we had hearings that 
+Inspectors General would come in and talk about the fact that sometimes 
+they would be in the middle of an investigation of some type and that 
+the budget would be cut, or in some instances they were actually fired.
+  So I think this kind of brings about the independence that they need 
+regardless in terms of the fact that if there is an investigation, if 
+there's problems, it gives them the freedom to be able to move and get 
+the things they need to get done.
+  I would like to commend all of my colleagues that have been involved 
+in this issue. I would like to commend the staff for bringing us where 
+we are today.
+  Mrs. MALONEY of New York. Madam Speaker, I rise today in strong 
+support of H.R. 928, the ``Inspector General Reform Act'' This 
+legislation includes provisions of a bill that I introduced last year, 
+along with Ranking Member Tom Davis, which will provide for the 
+enhanced protection of the Internal Revenue Service and its employees.
+  In 1998, Congress passed the Internal Revenue Service Restructuring 
+and Reform Act, which created the Treasury Inspector General for Tax 
+Administration (TIGTA). The legislation gave TIGTA the responsibility 
+for protecting the Internal Revenue Service (IRS) against external 
+attempts to corrupt or threaten IRS employees. At the same time, it 
+excluded the provision of providing ``physical security'' from TIGTA's 
+responsibilities.
+  Prior to the enactment of this law, the former IRS Inspection Service 
+had been responsible for protecting the IRS against external attempts 
+to corrupt or threaten IRS employees. The IRS Inspection Service was 
+responsible for providing armed escorts for IRS employees who were 
+specifically threatened or who were contacting individuals designated 
+as ``Potentially Dangerous Taxpayers.'' The law transferred most of 
+those duties to the new Treasury Inspector General for Tax 
+Administration. Inexplicably, ``physical security'' was excluded from 
+TIGTA's statutory responsibilities.
+  In its current statutory mission, TIGTA investigates all allegations 
+of threats or assaults involving IRS employees and assists U.S. 
+Attorneys' offices with appropriate prosecutions. However, if TIGTA 
+determines that any of the threats or assaults it investigates call for 
+the provision of physical security, the language of the 1998 law 
+precludes TIGTA from taking action.
+  Authorizing TIGTA to have armed escort authority would be both more 
+efficient and more effective in advancing tax administration and 
+ensuring the safety of IRS employees.
+  I am pleased that upon passage of H.R. 928 today, this bill will be 
+sent to the president for his signature. I want to thank Chairman 
+Waxman and Ranking Member Davis for their support of this provision, 
+and I urge my colleagues to support H.R. 928.
+  Mr. DAVIS of Virginia. Madam Speaker, today, we take up H.R. 928, the 
+Improving Government Accountability Act. This legislation is intended 
+to enhance the independence of inspectors general throughout government 
+to improve their ability to monitor and oversee executive branch 
+operations.
+  Since the enactment of the Inspector General Act of 1978, inspectors 
+general throughout government have played an integral role in 
+identifying waste and mismanagement in government. IGs have also been 
+instrumental in aiding Congress and the executive branch to make 
+government more efficient and effective.
+  We all agree IGs should operate independently, free from political 
+interference. After all, both agency heads and Congress often rely on 
+IG reports to provide frank assessments of the effectiveness of federal 
+programs.
+  However, inspectors general should also be part of an agency's 
+management structure--albeit with some independence--rather than a 
+``fourth branch'' of the Federal Government. If we separate the IGs 
+from the day-to-day operations of the agencies they oversee, IGs will 
+cease to perform a constructive, integrated role and instead would 
+become a ``Monday morning quarterback'' with their function solely 
+second-guessing decisions made by agencies.
+  The House passed its version of this bill last October. At the time, 
+while I supported the bill, I remained concerned that several of the 
+provisions went too far in isolating inspectors general, removing them 
+from the agency decision-making process.
+  After the Senate passed its bill in April, we began discussions with 
+the Senate Homeland Security and Governmental Affairs Committee and 
+developed a compromise to both bills--which we are taking up today.
+  I will support the compromise bill as I believe it adequately 
+addresses my remaining concerns by striking the right balance between 
+IG independence and the appropriate management role of inspectors 
+general.
+  Mr. WAXMAN. Madam Speaker, I rise in support of the Senate amendments 
+to H.R. 928, the Improving Government Accountability Act. This bill, 
+introduced by Representative Cooper, was favorably reported by the 
+Oversight Committee on August 2, 2007, with strong support from members 
+across the political spectrum.
+  There is a simple reason why this bill has so much support: it 
+strengthens the Inspectors General, who are the first line of defense 
+against waste, fraud, and abuse in federal programs.
+  The last six years have given us examples of Inspectors General at 
+their best and at their worst.
+  Stuart Bowen, the Special Inspector General for Iraq Reconstruction, 
+has uncovered fraud and saved American taxpayers hundreds of millions 
+of dollars. Clark Kent Erving and Richard Skinner, the former and 
+current IGs for the Department of Homeland Security, have identified 
+billions in wasteful spending in the new Department. Glenn Fine at the 
+Department of Justice; Earl Delvaney at Interior; and Brian Miller at 
+the General Services Administration have all reported courageously on 
+abuses within the agencies they oversee.
+  These and other IGs have fought waste, fraud, and abuse and saved the 
+taxpayers billions of dollars.
+  Yet there are also IGs who seem more intent on protecting their 
+departments from political embarrassment than on doing their job. The 
+Oversight Committee is investigating allegations that the State 
+Department IG has blocked investigations into contract fraud in Iraq 
+and Afghanistan. The Energy and Commerce Committee documented serious 
+abuses by the former IG in the Commerce Department. And the Science 
+Committee has identified serious questions raised about the close 
+relationship of the NASA IG to agency management.
+  This bill strengthens the good IGs by giving them greater 
+independence. Under this legislation, they will have new budgetary 
+independence, and the President or agency head will have to inform 
+Congress 30 days before any IG is removed.
+  At the same time, the legislation enacts in statute new mechanisms 
+for holding bad IGs to account. The legislation establishes an 
+``Integrity Committee'' that will investigate allegations that IGs have 
+abused the public trust.
+  There have been several key champions of the legislation. 
+Representative Cooper has worked tirelessly on this issue for years and 
+deserves our thanks for his efforts. I would also like to acknowledge 
+Subcommittee Chairman Towns for his tremendous leadership in moving 
+this legislation forward and Ranking Member Tom Davis for his 
+commitment to strong IGs and his many helpful contributions.
+  H.R. 928 would make needed improvements to the IG Act and I urge 
+members to support it.
+  Mr. TOWNS. I yield back the balance of my time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from New York (Mr.
+
+[[Page 21791]]
+
+Towns) that the House suspend the rules and concur in the Senate 
+amendment to the bill, H.R. 928.
+  The question was taken.
+  The SPEAKER pro tempore. In the opinion of the Chair, two-thirds 
+being in the affirmative, the ayes have it.
+  Mr. SHAYS. Madam Speaker, I object to the vote on the ground that a 
+quorum is not present and make the point of order that a quorum is not 
+present.
+  The SPEAKER pro tempore. Pursuant to clause 8 of rule XX and the 
+Chair's prior announcement, further proceedings on this motion will be 
+postponed.
+  The point of no quorum is considered withdrawn.
+
+                          ____________________
+```
