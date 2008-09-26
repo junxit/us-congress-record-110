@@ -1,0 +1,68 @@
+---
+granule: CRECB-2008-pt16-Pg22163-7
+date: 2008-09-26
+edition: CRECB
+section: SENATE
+page: 22163
+---
+
+# SCHEDULE
+
+```
+                                SCHEDULE
+
+  Mr. REID. Mr. President, following the remarks of the leaders, if 
+there are any, we will be in a period of morning business, with 
+Senators allowed to speak for up to 10 minutes each.
+  I ask that on the Democratic side--we are going to try to do this on 
+a rotating basis--on the Democratic side Senator Harkin and Senator 
+Schumer be the first speakers.
+  Negotiations on the agreement to vote in relation to the stimulus 
+legislation is ongoing. If we have a vote on that legislation, it will 
+be at 11 or 11:30 a.m. today. That will be the only vote today. We hope 
+to reach agreement so we can have that vote, as I indicated.
+  We also should tell everyone we are working very hard to do something 
+on the bailout of our financial institutions. We know we have an 
+obligation to do that. A lot of Senators have a lot of questions about 
+where we are in this situation.
+  We were at the White House last night. Our meeting was reconvened on 
+the second floor of the Capitol last night, and Secretary Paulson was 
+here, Senator Dodd, Senator Gregg, Chairman Frank, and Chairman Baucus. 
+They worked into the nighttime and finished at 10:30, 11 o'clock last 
+night. They are going to reconvene this morning.
+  Right now, out of 100 percent of the Congress--we have the Democrats 
+in the Senate, Republicans in the Senate, Democrats in the House, 
+Republicans in the House--we only have three of those Members trying to 
+work something out. The House has basically walked away from 
+everything. We were doing pretty well until the meeting at the White 
+House yesterday.
+  We are going to continue to work hard. We understand the urgency of 
+addressing this situation. We will have more to say about this issue 
+later. We are doing our very best.
+  I hope the two Presidential candidates will go to the debate tonight 
+and leave us alone to get our work done here. It would be a great aid 
+to what we are trying to do.
+  We are going to come in about 9:30 Saturday morning. We are going to 
+vote an hour after that time on the CR. There is other business we can 
+do tomorrow. We will try.
+  It is quite evident we will be in session next week. We have a lot of 
+business to do that has not been done. I will mention a couple. We have 
+the DOD authorization, which is very important, rail safety, Amtrak. Of 
+course, I have already talked about the financial crisis legislation. 
+We have the Indian nuclear agreement. I have had a number of 
+conversations with Secretary Rice and President Bush on this issue. We 
+have another bunch of bills a Republican Senator has held up, and we 
+probably will have to file cloture on those before we leave.
+  There are a number of moving parts. We are going to try to put them 
+together. We are going to do our very best to keep Senators advised as 
+to what is going to happen chronologically. As everyone who serves in 
+the Senate knows, we cannot be specific at any given time. We will do 
+our best so people have an idea of what the weekend holds and what next 
+week holds.
+  Next week, as I indicated before, is a little bit more complicated 
+because we have a Jewish holiday starting at sundown on Monday, ending 
+sundown on Tuesday. So we will not be working that period of time, that 
+is for sure.
+
+                          ____________________
+```
