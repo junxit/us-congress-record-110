@@ -1,0 +1,24 @@
+---
+granule: CRECB-2008-pt17-Pg23350
+date: 2008-09-29
+edition: CRECB
+section: HOUSE
+page: 23350
+---
+
+# MESSAGE FROM THE SENATE
+
+```
+                        MESSAGE FROM THE SENATE
+
+  A message from the Senate by Ms. Curtis, one of its clerks, announced 
+that the Senate has passed with an amendment in which the concurrence 
+of the House is requested, bills of the House of the following titles:
+
+       H.R. 6049. An act to amend the Internal Revenue Code of 
+     1986 to provide incentives for energy production and 
+     conservation, to extend certain expiring provisions, to 
+     provide individual income tax relief, and for other purposes.
+
+                          ____________________
+```

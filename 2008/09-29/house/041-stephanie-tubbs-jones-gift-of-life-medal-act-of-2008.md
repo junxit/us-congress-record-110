@@ -1,0 +1,227 @@
+---
+granule: CRECB-2008-pt17-Pg23371-2
+date: 2008-09-29
+edition: CRECB
+section: HOUSE
+page: 23371
+---
+
+# STEPHANIE TUBBS JONES GIFT OF LIFE MEDAL ACT OF 2008
+
+```
+          STEPHANIE TUBBS JONES GIFT OF LIFE MEDAL ACT OF 2008
+
+  Ms. MOORE of Wisconsin. Madam Speaker, I ask unanimous consent that 
+the Committees on Financial Services and Energy and Commerce be 
+discharged from further consideration of the bill (H.R. 7198) to 
+establish the Stephanie Tubbs Jones Gift of Life Medal for organ donors 
+and the family of organ donors, and ask for its immediate 
+consideration.
+  The Clerk read the title of the bill.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentlewoman from Wisconsin?
+  There was no objection.
+  The text of the bill is as follows:
+
+                               H.R. 7198
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Stephanie Tubbs Jones Gift 
+     of Life Medal Act of 2008''.
+
+     SEC. 2. ELIGIBILITY REQUIREMENTS FOR STEPHANIE TUBBS JONES 
+                   GIFT OF LIFE MEDAL.
+
+       (a) In General.--Subject to the provisions of this section 
+     and the availability of funds under this Act, any organ 
+     donor, or the family of any organ donor, shall be eligible 
+     for a Stephanie Tubbs Jones Gift of Life Medal (hereafter in 
+     this Act referred to as a ``medal'').
+       (b) Documentation.--The Secretary of Health and Human 
+     Services shall direct the entity operating the Organ 
+     Procurement and Transplantation Network to--
+       (1) establish an application procedure requiring the 
+     relevant organ procurement organization through which an 
+     individual or family of the individual made an organ 
+     donation, to submit to such entity documentation supporting 
+     the eligibility of the individual or the family, 
+     respectively, to receive a medal;
+       (2) determine through the documentation provided and, if 
+     necessary, independent investigation whether the individual 
+     or family, respectively, is eligible to receive such a medal; 
+     and
+       (3) arrange for the presentation to the relevant organ 
+     procurement organization all medals struck pursuant to 
+     section 4 to individuals or families that are determined to 
+     be eligible to receive medals.
+       (c) Limitation.--
+       (1) In general.--Except as provided in paragraph (2), only 
+     1 medal may be presented to a family under subsection (b). 
+     Such medal shall be presented to the donating family member, 
+     or in the case of a deceased donor, the family member who 
+     signed the consent form authorizing, or who otherwise 
+     authorized, the donation of the organ involved.
+       (2) Exception.--In the case of a family in which more than 
+     1 member is an organ donor, a medal may be presented for each 
+     such organ donor.
+
+     SEC. 3. SOLICITATION OF DONATIONS; PROHIBITION ON USE OF 
+                   FEDERAL FUNDS.
+
+       (a) In General.--The Organ Procurement and Transplantation 
+     Network may collect funds to offset expenditures relating to 
+     the issuance of medals authorized under this Act.
+       (b) Payment of Funds.--
+       (1) In general.--Except as provided in paragraph (2), all 
+     funds received by the Organ Procurement and Transplantation 
+     Network under subsection (a) shall be promptly paid by the 
+     Organ Procurement and Transplantation Network to the 
+     Secretary of Health and Human Services for purposes of 
+     purchasing medals under this Act for distribution and paying 
+     the administrative costs of the Secretary of Health and Human 
+     Services and the Secretary of the Treasury in carrying out 
+     this Act.
+       (2) Limitation.--Not more than 7 percent of any funds 
+     received under subsection (a) may be used to pay 
+     administrative costs, and fundraising costs to solicit funds 
+     under subsection (a), incurred by the Organ Procurement and 
+     Transplantation Network in carrying out this Act.
+       (c) Prohibition on Use of Federal Funds.--No Federal funds 
+     (including amounts appropriated for use by the Organ 
+     Procurement and Transplantation Network) may be used for 
+     purposes of carrying out this Act, including purchasing 
+     medals under this Act or paying the administrative costs of 
+     the Secretary of Health and Human Services or the Secretary 
+     of the Treasury in carrying out this Act.
+
+     SEC. 4. DESIGN AND PRODUCTION OF MEDAL.
+
+       (a) In General.--Subject to the provisions of this section, 
+     the Secretary of the Treasury shall design and strike the 
+     Stephanie Tubbs Jones Gift of Life Medals, each of which 
+     shall--
+       (1) weigh 250 grams;
+       (2) have a diameter of 3 inches; and
+       (3) consist of bronze.
+       (b) Design.--
+       (1) In general.--The design of the medals shall commemorate 
+     the compassion and courage manifested by and the sacrifices 
+     made by organ donors and their families, and the medals shall 
+     bear suitable emblems, devices, and inscriptions.
+       (2) Selection.--The design of medals struck under this 
+     section shall be--
+       (A) selected by the Secretary of the Treasury, in 
+     consultation with the Secretary of Health and Human Services, 
+     the Organ Procurement and Transplantation Network, interested 
+     members of the family of Stephanie Tubbs Jones, Dr. William 
+     H. Frist, and the Commission of Fine Arts; and
+       (B) reviewed by the Citizens Coin Advisory Committee.
+       (c) National Medals.--The medals struck pursuant to this 
+     section are national medals for purposes of chapter 51 of 
+     title 31, United States Code.
+       (d) Striking and Delivery of Minimum-Sized Lots.--The 
+     Secretary of the Treasury shall strike and deliver to the 
+     Secretary of Health and Human Services no fewer than 100 
+     medals at any time pursuant to an order by such Secretary.
+       (e) Cost of Medals.--Medals struck under this section and 
+     sold to the Secretary of Health and Human Services for 
+     distribution in accordance with this Act shall be sold to the 
+     Secretary of Health and Human Services at a price sufficient 
+     to cover the cost of designing and striking the medals, 
+     including
+
+[[Page 23372]]
+
+     labor, materials, dies, use of machinery, and overhead 
+     expenses.
+       (f) No Expenditures in Advance of Receipt of Fund.--
+       (1) In general.--The Secretary of the Treasury shall not 
+     strike or distribute any medals under this Act until such 
+     time as the Secretary of Health and Human Services certifies 
+     that sufficient funds have been received by such Secretary to 
+     cover the cost of the medals ordered.
+       (2) Design in advance of order.--Notwithstanding paragraph 
+     (1), the Secretary of the Treasury may begin designing the 
+     medal at any time after the date of the enactment of this Act 
+     and take such other action as may be necessary to be prepared 
+     to strike such medals upon receiving the certification 
+     described in such paragraph, including preparing dies and 
+     striking test pieces.
+
+     SEC. 5. MEDALS NOT TREATED AS VALUABLE CONSIDERATION.
+
+       A medal under this Act shall not be treated as valuable 
+     consideration for purposes of section 301(a) of the National 
+     Organ Transplant Act (42 U.S.C. 274e(a)).
+
+     SEC. 6. DEFINITIONS.
+
+       For purposes of this Act:
+       (1) Organ.--The term ``organ'' has the meaning given such 
+     term in section 121.2 of title 42, Code of Federal 
+     Regulations.
+       (2) Organ procurement organization.--The term ``organ 
+     procurement organization'' means a qualified organ 
+     procurement organization described in section 371(b)(1) of 
+     the Public Health Service Act (42 U.S.C. 273(b)(1)).
+       (3) Organ procurement and transplantation network.-- The 
+     term ``Organ Procurementand Transplantation Network'' means 
+     the Organ Procurement and Transplantation Network established 
+     under section 372 of the Public Health Service Act (42 U.S.C. 
+     274).
+  Mr. STARK. Madam Speaker, I rise today to applaud House and Senate 
+passage by unanimous consent of H.R. 7198, the Stephanie Tubbs Jones 
+Gift of Life Medal Act of 2008. Representative Tubbs Jones' life ended 
+as she lived it; by exemplifying concern for the welfare of others. She 
+donated her organs in the waning hours of her life so that the lives of 
+others could continue. In that spirit, this legislation creates a 
+commemorative medal for organ donors and their families, recognizing 
+the brave and selfless act of organ donation. It is a fitting tribute 
+to her, and I look forward to seeing this program get up and running.
+  This bill is a modified version of H.R. 6950, which passed the House 
+on September 25, 2008. We modified the bill in order to address 
+concerns from the other body and ensure its passage.
+  Unfortunately, in modifying the bill, we had to delete findings 
+included in H.R. 6950. I ask to insert these findings into the Record.
+  (1) Congresswoman Stephanie Tubbs Jones was dedicated to eliminating 
+health disparities and protecting vulnerable populations.
+  (2) Through her service on the Committee on Ways and Means, 
+Subcommittee on Health, she was a strong voice for those who were poor, 
+elderly, racial and ethnic minorities, and disenfranchised.
+  (3) Congresswoman Stephanie Tubbs Jones' concern for others was 
+demonstrated by the decision to donate her organs, so that as her life 
+ended, the lives of others continued.
+  (4) There are currently 99,625 candidates for organ donation on the 
+national transplant waiting list. Every 16 minutes, a new name is added 
+to such list. Sixteen persons die each day waiting for a life saving 
+organ transplant.
+  (5) Minority populations account for nearly 50 percent of those on 
+the national transplant waiting list.
+  (6) Diseases that can lead to organ failure, such as hypertension and 
+diabetes, are found more frequently in ethnic minority populations than 
+in the general population.
+  (7) While minorities donate organs in proportion to their population, 
+the rate of organ donations fails to keep pace with the need for 
+transplants in the population. African Americans, for example, 
+represent about 13 percent of the population and 12 percent of organ 
+donors, but comprise roughly 23 percent of individuals on national 
+transplant waiting list for kidney transplants.
+  (8) Transplantation success rates are higher when organs are matched 
+between people sharing the same racial and ethnic background.
+  (9) Because of the disparities in the need for organs, minorities are 
+more likely to wait longer to find a successful match and are more 
+likely to be sicker when an organ is found.
+  (10) An increase in minority organ donations would decrease the 
+waiting time and increase the likelihood of successful transplantations 
+for minorities.
+
+  The bill was ordered to be engrossed and read a third time, was read 
+the third time, and passed, and a motion to reconsider was laid on the 
+table.
+
+                          ____________________
+```
