@@ -1,0 +1,196 @@
+---
+granule: CREC-2008-09-30-pt1-PgS10186-4
+date: 2008-09-30
+edition: CREC
+section: SENATE
+page: S10186
+citation: 154 Cong. Rec. S10186
+---
+
+# NATIONAL GUARD AND RESERVISTS DEBT RELIEF ACT OF 2008
+
+**Speaking:** Salazar, Ken (S001163) [D-CO], Reid, Harry (R000146) [D-NV]
+
+**Measures:** S. 3197
+
+```
+         NATIONAL GUARD AND RESERVISTS DEBT RELIEF ACT OF 2008
+
+  Mr. SALAZAR. Mr. President, I ask unanimous consent that the Senate 
+proceed to the immediate consideration of Calendar No. 963, S. 3197.
+  The PRESIDING OFFICER. The clerk will report.
+  The assistant legislative clerk read as follows:
+
+       A bill (S. 3197) to amend title 11, United States Code, to 
+     exempt for a limited period, from the application of the 
+     means-test presumption of abuse under chapter 7, qualifying 
+     members of reserve components of the Armed Forces and members 
+     of the National Guard who, after September 11, 2001, are 
+     called to active duty or to perform a homeland defense 
+     activity for not less than 90 days.
+
+  There being no objection, the Senate proceeded to consider the bill, 
+which had been reported from the Committee on the Judiciary, with an 
+amendment, as follows:
+  (The parts of the bill intended to be stricken are shown in boldface 
+brackets and the parts of the bill intended to be inserted are shown in 
+italics.)
+
+                                S. 3197
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``National Guard and 
+     Reservists Debt Relief Act of 2008''.
+
+[[Page S10187]]
+
+     SEC. 2. AMENDMENTS.
+
+       Section 707(b)(2)(D) of title 11, United States Code, is 
+     amended--
+       [(1) in each of clauses (i) and (ii)--
+       [(A) by indenting the left margins of such clauses 2 ems to 
+     the right; and
+       [(B) by redesignating such clauses as subclauses (I) and 
+     (II), respectively;
+       [(2) by striking ``if the debtor is a disabled veteran'' 
+     and inserting the following:
+     [``if--
+       [``(i) the debtor is a disabled veteran'';
+       [(3) by striking the period at the end and inserting ``; 
+     or''; and
+       [(4) by adding at the end the following:
+       [``(ii) while--
+       [``(I) the debtor is--
+       [``(aa) on, and during the 540-day period beginning 
+     immediately after the debtor is released from, a period of 
+     active duty (as defined in section 101(d)(1) of title 10) of 
+     not less than 90 days; or
+       [``(bb) performing, and during the 540-day period beginning 
+     immediately after the debtor is no longer performing, a 
+     homeland defense activity (as defined in section 901(1) of 
+     title 32) performed for a period of not less than 90 days; 
+     and
+       [``(II) if, after September 11, 2001, the debtor while a 
+     member of a reserve component of the Armed Forces or a member 
+     of the National Guard, was called to such active duty or 
+     performed such homeland defense activity.''.]
+       (1) in clauses (i) and (ii)--
+       (A) by indenting the left margin of such clauses 2 ems to 
+     the right, and
+       (B) by redesignating such clauses as subclauses (I) and 
+     (II), respectively,
+       (2) by striking ``testing, if the debtor is a disabled 
+     veteran'' and inserting the following:
+     ``testing--
+       ``(i) if the debtor is a disabled veteran'',
+       (3) by striking the period at the end and inserting ``; 
+     or'', and
+       (4) by adding at the end the following:
+       ``(ii) with respect to the debtor, while the debtor is--
+       ``(I) on, and during the 540-day period beginning 
+     immediately after the debtor is released from, a period of 
+     active duty (as defined in section 101(d)(1) of title 10) of 
+     not less than 90 days; or
+       ``(II) performing, and during the 540-day period beginning 
+     immediately after the debtor is no longer performing, a 
+     homeland defense activity (as defined in section 901(1) of 
+     title 32) performed for a period of not less than 90 days;
+     if after September 11, 2001, the debtor while a member of a 
+     reserve component of the Armed Forces or a member of the 
+     National Guard, was called to such active duty or performed 
+     such homeland defense activity.''.
+
+     SEC. 3. GAO STUDY.
+
+       (a) Comptroller General Study.--Not later than 2 years 
+     after the effective date of this Act, the Comptroller General 
+     shall complete and transmit to the Speaker of the House of 
+     Representatives and the President pro tempore of the Senate, 
+     a study of the use and the effects of the provisions of law 
+     amended (and as amended) by this Act. Such study shall 
+     address, at a minimum--
+       (1) whether and to what degree members of reserve 
+     components of the Armed Forces and members of the National 
+     Guard avail themselves of the benefits of such provisions,
+       (2) whether and to what degree such members are debtors in 
+     cases under title 11 of the United States Code that are 
+     substantially related to service that qualifies such members 
+     for the benefits of such provisions,
+       (3) whether and to what degree such members are debtors in 
+     cases under such title that are materially related to such 
+     service, and
+       (4) the effects that the use by such members of section 
+     707(b)(2)(D) of such title, as amended by this Act, has on 
+     the bankruptcy system, creditors, and the debt-incurrence 
+     practices of such members.
+       (b) Factors.--For purposes of subsection (a)--
+       (1) a case shall be considered to be substantially related 
+     to the service of a member of a reserve component of the 
+     Armed Forces or a member of the National Guard that qualifies 
+     such member for the benefits of the provisions of law amended 
+     (and as amended) by this Act if more than 33 percent of the 
+     aggregate amount of the debts in such case is incurred as a 
+     direct or indirect result of such service,
+       (2) a case shall be considered to be materially related to 
+     the service of a member of a reserve component of the Armed 
+     Forces or a member of the National Guard that qualifies such 
+     member for the benefits of such provisions if more than 10 
+     percent of the aggregate amount of the debts in such case is 
+     incurred as a direct or indirect result of such service, and
+       (3) the term ``effects'' means--
+       (A) with respect to the bankruptcy system and creditors--
+       (i) the number of cases under title 11 of the United States 
+     Code in which members of reserve components of the Armed 
+     Forces and members of the National Guard avail themselves of 
+     the benefits of such provisions,
+       (ii) the aggregate amount of debt in such cases,
+       (iii) the aggregate amount of debt of such members 
+     discharged in cases under chapter 7 of such title,
+       (iv) the aggregate amount of debt of such members in cases 
+     under chapter 7 of such title as of the time such cases are 
+     converted to cases under chapter 13 of such title,
+       (v) the amount of resources expended by the bankruptcy 
+     courts and by the bankruptcy trustees, stated separately, in 
+     cases under title 11 of the United States Code in which such 
+     members avail themselves of the benefits of such provisions, 
+     and
+       (vi) whether and to what extent there is any indicia of 
+     abuse or potential abuse of such provisions, and
+       (B) with respect to debt-incurrence practices--
+       (i) any increase in the average levels of debt incurred by 
+     such members before, during, or after such service,
+       (ii) any indicia of changes in debt-incurrence practices 
+     adopted by such members in anticipation of benefitting from 
+     such provisions in any potential case under such title; and
+       (iii) any indicia of abuse or potential abuse of such 
+     provisions reflected in the debt-incurrence of such members.
+
+     SEC. 4. EFFECTIVE DATE; APPLICATION OF AMENDMENTS.
+
+       (a) Effective Date.--Except as provided in subsection (b), 
+     this Act and the amendments made by this Act shall take 
+     effect 60 days after the date of enactment of this Act.
+       (b) Application of Amendments.--The amendments made by this 
+     Act shall apply only with respect to cases commenced under 
+     title 11 of the United States Code in the 3-year period 
+     beginning on the effective date of this Act.
+  Mr. SALAZAR. Mr. President, I ask unanimous consent that the 
+committee amendment be agreed to, the bill, as amended, be read a third 
+time and passed, the motions to reconsider be laid upon the table with 
+no intervening action or debate, and any statements related to the bill 
+be printed in the Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The committee amendment was agreed to.
+  The bill (S. 3197), as amended, was ordered to be engrossed for a 
+third reading, was read the third time, and passed, as follows:
+  Mr. REID. Mr. President, I ask unanimous consent that the order for 
+the quorum call be rescinded.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```
