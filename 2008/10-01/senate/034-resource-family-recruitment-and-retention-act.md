@@ -1,0 +1,64 @@
+---
+granule: CREC-2008-10-01-pt1-PgS10302
+date: 2008-10-01
+edition: CREC
+section: SENATE
+page: S10302
+citation: 154 Cong. Rec. S10302
+---
+
+# RESOURCE FAMILY RECRUITMENT AND RETENTION ACT
+
+**Speaking:** Rockefeller, John D., IV (R000361) [D-WV]
+
+```
+             RESOURCE FAMILY RECRUITMENT AND RETENTION ACT
+
+  Mr. ROCKEFELLER. Mr. President, I rise today to voice my support for 
+the Resource Family Recruitment and Retention Act of 2008, which was 
+introduced on September 16, 2008, by my good friend Senator Blanche 
+Lincoln of Arkansas. This is an important piece of legislation, and I 
+am proud to be an original cosponsor.
+  I have long been a member of the Congressional Coalition on Adoption 
+and worked in a bipartisan manner to support adoptive and foster 
+parents and children. In 1997, I strongly advocated for the passage of 
+the Adoption and Safe Families Act which has made a significant 
+difference in the lives of vulnerable children. Since the 
+implementation of the Adoption and Safe Families Act, the number of 
+children adopted out of foster care has more than doubled. In West 
+Virginia alone, more than 3,600 children have been adopted out of the 
+West Virginia foster care system. This is a real victory for these 
+children who deserve the love and comfort of a safe, permanent home.
+  However, with more than 500,000 children still in foster care, it is 
+clear that more needs to be done. This is why I was so pleased when the 
+Senate passed the Fostering Connections to Success and Increasing 
+Adoptions Act by unanimous consent. This legislation will provide 
+additional support for grandparents and other relatives who provide a 
+safe home for children in foster care. Additionally, this legislation 
+will allow states to continue to assist older foster children, those 
+who are 18, 19, 20, or 21 years old, so that these children aging out 
+of the system do not have to choose between pursuing an education or 
+working to prevent becoming homeless. I believe that this legislation 
+is another step towards the ultimate goal of each child having a safe, 
+permanent home.
+  Senator Lincoln's legislation would also help bring us closer to this 
+goal. A study conducted in 2005 by the U.S. Department of Health and 
+Human Services found that one in five foster homes leaves the system 
+each year. One-fifth of the foster parent population provides 60 to 80 
+percent of all foster care. Foster parents sacrifice in tremendous ways 
+to provide a home for vulnerable children. The Resource Family 
+Recruitment and Retention Act would support their efforts by awarding 
+grants to States to improve the leadership, support, training, 
+recruitment, and retention of foster care, kinship care, and adoptive 
+parents.
+  It is my hope that organizations and individuals such as Mr. Dennis 
+Sutton of the Children's Home Society of West Virginia, who has worked 
+tirelessly in his effort to secure a home for all of West Virginia's 
+vulnerable children, will have the financial support to find and retain 
+enough foster parents to make this goal a reality. Foster and adoptive 
+parents will greatly benefit from the Resource Family Recruitment and 
+Retention Act, but the big winners will be the children who are placed 
+loving homes. We need to invest and focus on these families.
+
+                          ____________________
+```

@@ -1,0 +1,34 @@
+---
+granule: CREC-2008-10-01-pt1-PgS10208
+date: 2008-10-01
+edition: CREC
+section: SENATE
+page: S10208
+citation: 154 Cong. Rec. S10208
+---
+
+# RECESS
+
+**Speaking:** Carper, Thomas R. (C000174) [D-DE], Warner, John (W000154) [R-VA]
+
+```
+                                 RECESS
+
+  The PRESIDING OFFICER. Under the previous order, the Senate stands in 
+recess until 2:15 p.m.
+  Thereupon, the Senate, at 12:47 p.m., recessed until 2:15 p.m. and 
+reassembled when called to order by the Acting President pro tempore.
+  Mr. CARPER. Mr. President, I suggest the absence of a quorum.
+  The ACTING PRESIDENT pro tempore. The clerk will call the roll.
+  The assistant legislative clerk proceeded to call the roll.
+  Mr. WARNER. Mr. President, I ask unanimous consent that the order for 
+the quorum call be rescinded.
+  The ACTING PRESIDENT pro tempore. Without objection, it is so 
+ordered.
+  Mr. WARNER. Mr. President, I wish to proceed at this time as in 
+morning business.
+  The ACTING PRESIDENT pro tempore. Without objection, it is so 
+ordered.
+
+                          ____________________
+```

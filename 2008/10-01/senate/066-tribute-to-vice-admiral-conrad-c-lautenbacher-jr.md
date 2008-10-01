@@ -1,0 +1,80 @@
+---
+granule: CREC-2008-10-01-pt1-PgS10316-2
+date: 2008-10-01
+edition: CREC
+section: SENATE
+page: S10316
+citation: 154 Cong. Rec. S10316
+---
+
+# TRIBUTE TO VICE ADMIRAL CONRAD C. LAUTENBACHER, JR.
+
+**Speaking:** Inouye, Daniel K. (I000025) [D-HI]
+
+```
+          TRIBUTE TO VICE ADMIRAL CONRAD C. LAUTENBACHER, JR.
+
+● Mr. INOUYE. Mr. President, although many Americans may never 
+have heard of National Oceanic and Atmospheric Administration, or NOAA, 
+the agency plays a significant role in the daily lives of Americans, 
+whether it is providing daily weather forecasts, supporting marine 
+commerce, or monitoring our climate.
+  For nearly 7 years, NOAA has been guided by the leadership of VADM 
+Conrad C. Lautenbacher. When he retires on October 31, Admiral 
+Lautenbacher will leave a lasting legacy at NOAA that has helped 
+strengthen our knowledge and understanding of our oceans and 
+atmosphere.
+  Life on Earth relies on the ocean. Our oceans regulate our planet's 
+climate, support global commerce, and provide food. The livelihoods of 
+millions of Americans rely on our oceans. Yet, we know little about 
+what lies beneath the surface of our oceans. Ninety-five percent of our 
+oceans are unexplored. Working with the Senate Commerce Committee, 
+Admiral Lautenbacher commissioned America's first ship for ocean 
+exploration, the Okeanos Explorer. The ship's missions will include 
+reconnaissance to search unknown areas and map the deep seafloor. 
+Through telepresence, the
+
+[[Page S10317]]
+
+ship and its discoveries will be connected to live audiences so they 
+can see what lies beneath the waters and help inspire a new generation 
+of ``aquanauts.''
+  Under Admiral Lautenbacher's leadership, the National Weather Service 
+has improved its severe weather warnings. Seconds make a difference 
+during flash floods, tornados, tsunami, and severe thunderstorms. With 
+improved scientific knowledge, NOAA is providing storm-based warnings 
+that give the public more geographically specific information about 
+severe weather. These storm-specific warnings allow first responders 
+and those in harm's way to take the necessary actions to protect lives 
+and property.
+  An important part of NOAA's mission is to understand and predict 
+changes in the Earth's environment. Admiral Lautenbacher has led U.S. 
+efforts working with more than 60 countries and the European Commission 
+to develop the Global Earth Observation System of Systems, GEOSS. Earth 
+observations are critical to our understanding of complex climate and 
+ocean systems. With improved data about the interconnectedness of Earth 
+systems, we will be better equipped to help emergency managers make 
+evacuation decisions, to aid State and local decisionmakers in 
+protecting coastal communities and improving infrastructure 
+development, and to more accurately predict weather and climate changes 
+that affect our economy.
+  Admiral Lautenbacher also worked closely with Senator Stevens and me 
+to reauthorize the Magnuson-Stevens Fishery Conservation and Management 
+Act. This act marks a natural evolution in fisheries management because 
+it recognizes not only the need to carefully manage fish populations, 
+but the ocean ecosystems our fisheries occupy.
+  Given the size of the U.S. Exclusive Economic Zone in the Pacific and 
+the reliance of Hawaii and the Pacific Islands on the oceans, NOAA's 
+programs are of critical importance to the Pacific. More than lending 
+technical assistance, Admiral Lautenbacher matched word to deed by 
+growing NOAA's capacity in the Pacific region--from establishing a new 
+National Marine Fisheries Service regional office and lab, to breaking 
+ground on a NOAA Pacific Regional Facility, to developing the data and 
+environmental monitoring infrastructure needed to support science-based 
+management.
+  Admiral Lautenbacher has my gratitude and deserves our Nation's 
+gratitude for his dedication to public service. I wish him well as he 
+moves into the next chapter of his life.●
+
+                          ____________________
+```

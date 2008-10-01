@@ -1,0 +1,265 @@
+---
+granule: CREC-2008-10-01-pt1-PgS10396-5
+date: 2008-10-01
+edition: CREC
+section: SENATE
+page: S10396
+citation: 154 Cong. Rec. S10396
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                    DEPARTMENT OF HOMELAND SECURITY
+
+       JONATHAN R. SCHARFEN, OF VIRGINIA, TO BE DIRECTOR OF THE 
+     UNITED STATES CITIZENSHIP AND IMMIGRATION SERVICES, 
+     DEPARTMENT OF HOMELAND SECURITY, VICE EMILIO T. GONZALEZ.
+
+
+            NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION
+
+       SUBJECT TO QUALIFICATIONS PROVIDED BY LAW, THE FOLLOWING 
+     FOR PERMANENT APPOINTMENT TO THE GRADE INDICATED IN THE 
+     NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION:
+
+                    To be lieutenant (junior grade)
+
+KYLE W. RYAN
+OLIVER E. BROWN
+
+                              To be ensign
+
+GREGORY R. SCHWEITZER
+JOHN H. PETERSEN
+BENJAMIN S. BLOSS
+JOHN F. ROSSI
+CHARLENE R. FELKLEY
+EMILY M. ROSE
+KEVIN W. ADAMS
+MATTHEW M. FORNEY
+PATRICIA E. RAYMOND
+MATTHEW J. NARDI
+ADAM R. REED
+ADRIENNE L. HOPPER
+RACHEL M. SARGENT
+JONATHAN E. OWEN
+RYAN A. WARTICK
+       SUBJECT TO QUALIFICATIONS PROVIDED BY LAW, THE FOLLOWING 
+     FOR PERMANENT APPOINTMENT TO THE GRADE INDICATED IN THE 
+     NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION:
+
+                    To be lieutenant (junior grade)
+
+ANDREW R. COLEGROVE
+ANNA-ELIZABETH B. VILLARD-HOWE
+NICHOLAS C. MORGAN
+JEFFREY G. PEREIRA
+COLIN T. KLIEWER
+HAROLD B EMMONS III
+PAUL M. CHAMBERLAIN
+MICHAEL W. O'NEAL
+JULIE L. EARP
+KYLE A. BYERS
+LOREN M. EVORY
+ANDREW J. OSTAPENKO
+LAURA T. GALLANT
+GREGORY R. SCHWEITZER
+MARK S. ANDREWS
+MEGAN R. GUBERSKI
+NATHAN E. WITHERLY
+CHRISTINE L. SCHULTZ
+CLAIRE V. SURREY
+RONALD L MOYERS, JR.
+BRIAN D. PRESTCOTT
+GLEN A. RICE
+PATRICK M. REDMOND
+RUSSELL A. QUINTERO
+NATHAN B. PARKER
+JONATHAN R. HEESCH
+MATTHEW C. GRIFFIN
+FAITH C. OPATRNY
+
+
+                         PUBLIC HEALTH SERVICE
+
+       THE FOLLOWING CANDIDATES FOR PERSONNEL ACTION IN THE 
+     REGULAR CORPS OF THE COMMISSIONED CORPS OF THE U.S. PUBLIC 
+     HEALTH SERVICE SUBJECT TO QUALIFICATIONS THEREFORE AS 
+     PROVIDED BY LAW AND REGULATIONS:
+
+                         To be medical director
+
+MATTHEW T. MCKENNA
+ZACHARY TAYLOR III
+
+                          To be senior surgeon
+
+TIMOTHY R. COTE
+JULIETTE MORGAN
+
+                             To be surgeon
+
+HENRY C. BAGGETT III
+EDWARD C. DOO
+PAUL D. HEIDERSCHEIDT
+JOHN T. REDD
+JOSEPH P. SIMON
+
+                     To be senior assistant surgeon
+
+SCOTT J. FILLER
+MONIQUE R. FOUNTAIN
+ANA I. GUZMAN
+KAREN C. LEE
+LORI A. POLLACK
+JAMES J. SEJVAR
+MICHAEL C. THIGPEN
+
+                      To be senior dental surgeon
+
+SEYED H. MORTAZAVI
+
+                          To be dental surgeon
+
+JUAN K. PACKER
+PHILLIP A. WILSON
+PAUL A. WONG
+
+                 To be senior assistant dental surgeon
+
+JODINE C. ANDERSON
+CAROL L. MCDANIEL
+
+                          To be nurse director
+
+HOLLY A. WILLIAMS
+
+                       To be senior nurse officer
+
+ANN M. McCARTHY
+
+                          To be nurse officer
+
+KRISTAL E. DYE
+SUSAN E. ERWIN
+MARTIN A. FOREMAN
+BRANT B. GOODE
+VERONICA M. GORDON
+JERRI L. MCGINNIS
+DOROTHY R. MERCHANT
+ELVIRA D. MOSELY
+REBECCA S. NOE
+ARLENE M. PATUC
+CAROLYN R. STACY-WILKIN
+DEBRA TUBBS
+
+                  To be senior assistant nurse officer
+
+ANNE M. ARCEO
+HELEN E. BALLANTYNE
+DEMETRIUS CHAPMAN
+SUMMER A. CUTTING
+DAN FLETCHER III
+MELISSA A. GEORGE
+SHAWNA L. HUTCHINS
+DEBORAH N. LAMPING
+
+                         To be engineer officer
+
+JEFFREY A. MURRAY
+
+                To be senior assistant engineer officer
+
+VARSHA B. SAVALIA
+
+                            To be scientist
+
+David J. McIntyre
+DANISHA L. ROBBINS
+
+               To be senior environmental health officer
+
+PAUL M. LEWIS
+
+                   To be environmental health officer
+
+BRIAN L. LEWELLING
+MATHEW J. THOMAS
+JOHN T. WHITESIDES
+
+          To be senior assistant environmental health officer
+
+JEFFREY T. DICKSON
+MOLLY E. PATTON
+
+                            To be pharmacist
+
+STEVEN A. LABROZZI
+JUDY L. ROSE
+JAMIE L. SHADDON
+
+                   To be senior assistant pharmacist
+
+KRISTINA J. BALLINGER
+JEFFERSON FREDY
+KATIE E. JOHNSON
+RANDI R. LANIER
+JEFFREY J. MALLETTE
+LORI B. MOORE
+ALLISON M. PAYNTER
+VINCENT S. SANSONE
+COURTNEY M. SUGGS
+JUDITH B. THOMPSON
+LEO B. ZADECKY
+
+[[Page S10397]]
+
+                    To be senior assistant therapist
+
+JAMES M. COWHER
+
+                 To be health services officer director
+
+CLIFFORD D. BROWN
+
+                     To be health services officer
+
+IRWIN W. FISH
+
+             To be senior assistant health services officer
+
+JULIA H. BRYAN
+ALNISSA T. CARTER
+MICHAEL C. CLAY
+MARTHA S. FERMIN
+LORI A. GOODMAN
+RACHAEL TRIMPERT SCHMIDT
+CAMERON C. SCOTT
+MICHAEL R. TILUS
+EMILY J. WILLIAMS
+
+             To be junior assistant health services officer
+
+KRISTI R. ANDERSON
+KEREN ARKIN
+SARAH E. COLEMAN
+MATTHEW R. DAAB
+JAMES C. DECKER
+DIMANA DIMITROVA
+ELIZABETH A. FRANKLIN
+DAVID M. GIANFERANTE
+MARILOU GONZALEZ
+REBECCA HARDY
+AMY J. HATCHER
+SARA A. KIERPIEC
+TINA PATTARATORNKOSOHN
+JEFFREY R. STRICH
+XI HUA YANG
+JOHN I. YOUNG
+```

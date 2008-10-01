@@ -1,0 +1,63 @@
+---
+granule: CREC-2008-10-01-pt1-PgS10317-2
+date: 2008-10-01
+edition: CREC
+section: SENATE
+page: S10317
+citation: 154 Cong. Rec. S10317
+---
+
+# REMEMBERING MICHAEL PROCTOR SMITH
+
+**Speaking:** Landrieu, Mary L. (L000550) [D-LA]
+
+```
+                   REMEMBERING MICHAEL PROCTOR SMITH
+
+● Ms. LANDRIEU. Mr. President, today I wish to celebrate the 
+life of Michael Proctor Smith, who passed away at his home in New 
+Orleans on Friday, September 26, 2008. He was 71. Michael, a native of 
+New Orleans, was an award-winning professional freelance photographer 
+who chronicled the music, culture, and folklife of New Orleans and the 
+State of Louisiana for over 40 years.
+  Michael was well known for documenting New Orleans social club 
+parades and jazz funerals, neighborhood traditions, Mardi Gras Indians, 
+spiritual church ceremonies, and many of the city and State's renowned 
+jazz, blues, rhythm and blues, and gospel musicians. He was a fixture 
+at every New Orleans Jazz & Heritage Festival since it began in 1970 
+until his retirement in 2005. His works are internationally recognized 
+and are permanent collections at a number of museums including the 
+Bibliothque National in Paris, the Metropolitan Museum of Art, the 
+Smithsonian Institution, the Historic New Orleans Collection, the New 
+Orleans Museum of Art, the Ogden Museum of Southern Art, and the 
+Louisiana State Museum.
+  In the last few years, Michael had been honored with numerous awards 
+celebrating his work. He received a Lifetime Achievement Award from the 
+Louisiana Endowment for the Humanities in 2002 and was named Music 
+Photographer of the Year by Offbeat magazine. In 2004 he received a 
+Mayor's Arts Award from the Arts Council of New Orleans and a Clarence 
+John Laughlin Lifetime Achievement Award from the New Orleans/Gulf 
+South chapter of the American Society of Media Photographers. In 2005, 
+he received the Delgado Society award from the New Orleans Museum of 
+Art, the first photographer to be so honored. The recipient of two 
+Photographer's Fellowships from the National Endowment for the Arts, 
+Michael's prints have toured worldwide through the U.S. Information 
+Agency.
+  Michael's photographs grace the covers of many CDs and record albums, 
+illustrate numerous books and magazine articles published in America 
+and Europe, and are a staple of documentary films on the rich cultural 
+history of New Orleans and Louisiana.
+  He was also an original owner and founder of Tipitina's, an iconic 
+music club located at the corner of Napoleon Avenue and Tchoupitoulas 
+Street in uptown New Orleans.
+  Michael is survived by his partner Karen Louise Snyder; his brother 
+Joseph Byrd Hatchitt Smith; two daughters, Jan Lamberton Smith and 
+Leslie Blackshear Smith; and three grandchildren, Chance King Doyle, 
+Leslie
+
+[[Page S10318]]
+
+Elizabeth Doyle, and Francis Brandon Arant.●
+
+                          ____________________
+```
