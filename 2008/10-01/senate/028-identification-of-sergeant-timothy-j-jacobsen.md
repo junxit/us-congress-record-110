@@ -1,0 +1,65 @@
+---
+granule: CRECB-2008-pt17-Pg23620
+date: 2008-10-01
+edition: CRECB
+section: SENATE
+page: 23620
+---
+
+# IDENTIFICATION OF SERGEANT TIMOTHY J. JACOBSEN
+
+```
+             IDENTIFICATION OF SERGEANT TIMOTHY J. JACOBSEN
+
+  Mrs. BOXER. Mr. President, I rise today to pay tribute to SGT Timothy 
+J. Jacobsen, a soldier from my home State of California who paid the 
+ultimate price in service to our country in Vietnam.
+  On September 23, 2008--more than 33 years since the end of the 
+Vietnam war--the Department of Defense POW/Missing Personnel Office 
+announced that the remains of SGT Jacobsen had been identified and 
+would be returned to his family.
+  SGT Jacobsen grew up on a dairy ranch in Ferndale, CA--the fifth of 
+eight children born to Margie and Kermit Jacobsen. When his father 
+started his own cattle ranch, SGT Jacobsen spent much of his free time 
+working alongside him. He also started riding bulls at an early age, 
+and by the time he was 18, he had become Humboldt County's top-rated 
+bull rider.
+  In 1967 SGT Jacobsen's older brother Skip was drafted by the Army and 
+sent to Vietnam. Not long after Skip returned, SGT Jacobsen was drafted 
+and left his family to serve as a doorgunner in the 101st Airborne 
+Division of the United States Army.
+  On May 16, 1971, SGT Jacobsen was one of four United States soldiers 
+and an unknown number of Republic of Vietnam marines aboard a 
+helicopter on a combat assault mission near Hue, South Vietnam. As the 
+helicopter touched down at the landing zone, it came under heavy enemy 
+ground fire. The pilot tried to lift off, but the damaged aircraft 
+struck a tree line and exploded.
+  The remains of the four U.S. soldiers on board were not recovered at 
+that time, and a year later, SGT Jacobsen was declared killed in 
+action.
+  In 1994, recovery efforts were renewed when a joint U.S.-Socialist 
+Republic of Vietnam team surveyed the crash site. Unfortunately, 
+excavation of the site in 1995 did not uncover remains of the U.S. 
+soldiers aboard the helicopter. However, in 2006, two re-burial sites 
+associated with the incident were excavated, leading to the recovery of 
+SGT Jacobsen's remains.
+  SGT Jacobsen was posthumously awarded the Purple Heart, commemorating 
+his courage and extraordinary sacrifice in service to our country.
+  He will be buried on October 4 in Ferndale, CA. The Army offered SGT 
+Jacobsen full burial honors in Arlington National Cemetery, but his 
+family chose his final resting place close to home. Nothing can fully 
+account for the loss suffered by SGT Jacobsen's family, and all those 
+who loved him. But I hope this finally brings a sense of closure and 
+peace.
+  As we remember SGT Jacobsen and honor his service to the United 
+States we are also reminded of the nearly 1,800 service members who 
+remain unaccounted for from the Vietnam war.
+  Men and women like Timothy J. Jacobsen from towns and cities across 
+California, and across America, went off to fight in Vietnam. Many of 
+them never came back. We will never forget the lives they led and the 
+sacrifices they made. And we will never rest in our effort to bring 
+each and every American who gave their life home to a Nation that 
+honors their service, and a community that has never forgotten them.
+
+                          ____________________
+```

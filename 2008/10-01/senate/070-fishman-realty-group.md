@@ -1,0 +1,58 @@
+---
+granule: CRECB-2008-pt17-Pg23641
+date: 2008-10-01
+edition: CRECB
+section: SENATE
+page: 23641
+---
+
+# FISHMAN REALTY GROUP
+
+```
+                          FISHMAN REALTY GROUP
+
+● Ms. SNOWE. Mr. President, today I recognize Fishman Realty 
+Group of Portland, a 12 person real estate firm providing vital 
+assistance to naval personnel transitioning from Brunswick Naval Air 
+Station in my home State of Maine as a result of the 2005 Base 
+Realignment and Closure round. In this effort, Fishman Realty Group 
+manages the Army Corps of Engineers' Homeowners' Assistance Program, a 
+crucial initiative that enables departing Navy personnel to sell their 
+homes to the Federal government. In turn, service members and their 
+families are able to purchase homes elsewhere without missing a step in 
+not only their service, but also their livelihood. Given the housing 
+crisis our country is currently facing, fostering a smooth transition 
+for our service members is an absolute necessity.
+  With the Brunswick Naval air Station slated for closure in 2011, the 
+prospect that our current precarious housing market would hinder naval 
+families from selling their homes is certainly unsettling. For 
+instance, service members reassigned to another base could potentially 
+face large losses on their homes--impeding the ability of these men and 
+women to purchase homes elsewhere and continue their duties.
+  That is why Fishman Realty Group has proven to be a beacon in 
+combating markets depressed by crumbling housing prices. Through the 
+Homeowners' Assistance Program, Fishman Realty Group is responsible for 
+maintaining and listing the properties that the government has acquired 
+from the departing personnel, preventing financial loss for their 
+families, and protecting an already depressed market from further 
+economic turmoil. As the sailors of Brunswick Naval Air Station depart, 
+they need not fear that their homes will become financial burdens.
+  The effort of Fishman Realty Group is a shining example of how small 
+businesses can make a tangible and tremendous difference during an 
+economic downturn. Founded by Alan Fishman in 1987, Fishman Realty 
+Group offers full service real estate brokering and property management 
+throughout the greater Portland area. Additionally, the firm couples 
+these offerings with local appraisers, lenders, and engineers; and 
+facilitates transactions within and around the Portland community. In 
+these challenging times for the housing market, it is a testament to 
+Fishman Realty Group's business integrity that it reaches out to help 
+military families, demonstrating that their business ethic is 
+fundamentally grounded in putting others first.
+  In 21 years of service to Portland communities, Fishman Realty Group 
+has transformed landscapes and expanded opportunities for hundreds of 
+businesses and families. I wish Fishman Realty Group and its employees 
+continued success, and I thank them for their commitment to the 
+community of Brunswick Naval Air Station.●
+
+                          ____________________
+```
