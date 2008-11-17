@@ -1,0 +1,72 @@
+---
+granule: CREC-2008-11-17-pt1-PgS10578-2
+date: 2008-11-17
+edition: CREC
+section: SENATE
+page: S10578
+citation: 154 Cong. Rec. S10578
+---
+
+# INTRODUCTION OF BILLS AND JOINT RESOLUTIONS
+
+**Measures:** S. 3683, S. 3684, S. 3685, S. 3686, S. 3687, S. 3688, S. 3689, S. 3690
+
+```
+              INTRODUCTION OF BILLS AND JOINT RESOLUTIONS
+
+  The following bills and joint resolutions were introduced, read the 
+first and second times by unanimous consent, and referred as indicated:
+
+           By Mr. INHOFE:
+       S. 3683. A bill to amend the Emergency Economic 
+     Stabilization Act to require approval by the Congress for 
+     certain expenditures for the Troubled Asset Relief Program; 
+     to the Committee on Banking, Housing, and Urban Affairs.
+           By Ms. MIKULSKI (for herself, Mr. Bond, Mr. Levin, and 
+             Ms. Stabenow):
+       S. 3684. A bill to amend the Internal Revenue Code of 1986 
+     to allow an above-the-line deduction against individual 
+     income tax for interest in indebtedness and for State sales 
+     and excise taxes with respect to the purchase of certain 
+     motor vehicles; to the Committee on Finance.
+           By Mrs. FEINSTEIN (for herself and Mrs. Boxer):
+       S. 3685. A bill to prohibit the selling and counterfeiting 
+     of tickets for a Presidential inaugural ceremony; to the 
+     Committee on Rules and Administration.
+           By Mr. SPECTER:
+       S. 3686. A bill to establish an Office of Foreclosure 
+     Evaluation to coordinate the responsibilities of the 
+     Department of the Treasury, the Department of Housing and 
+     Urban Development, the Federal Housing Administration, the 
+     Federal Housing Finance Agency, the Neighborhood Reinvestment 
+     Corporation, the Federal Deposit Insurance Corporation, the 
+     Board of Governors of the Federal Reserve System, and other 
+     Federal Government entities regarding foreclosure prevention, 
+     and for other purposes; to the Committee on Banking, Housing, 
+     and Urban Affairs.
+           By Mr. VITTER:
+       S. 3687. A bill to prohibit the admission of an alien who 
+     was detained as an enemy combatant at Guantanamo Bay, Cuba 
+     unless the President determines that such admission is 
+     consistent with the national security of the United States, 
+     and for other purposes; to the Committee on the Judiciary.
+           By Mr. REID:
+       S. 3688. A bill to provide for additional emergency 
+     unemployment compensation, to amend the Emergency Economic 
+     Stabilization Act of 2008 to authorize loans to automobile 
+     manufacturers and component suppliers, and for other 
+     purposes; read the first time.
+           By Mr. REID (for himself and Mr. Byrd):
+       S. 3689. A bill making supplemental appropriations for job 
+     creation and preservation, infrastructure investment, and 
+     economic and energy assistance for the fiscal year ending 
+     September 30, 2009, and for other purposes; read the first 
+     time.
+           By Mr. DURBIN:
+       S. 3690. A bill to help struggling families stay in their 
+     homes and to ensure that taxpayers are protected when the 
+     Secretary of the Treasury purchases equity shares in 
+     financial situations; to the Committee on the Judiciary.
+
+                          ____________________
+```
