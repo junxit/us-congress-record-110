@@ -1,0 +1,54 @@
+---
+granule: CRECB-2008-pt18-Pg24138
+date: 2008-11-17
+edition: CRECB
+section: SENATE
+page: 24138
+---
+
+# SUBMITTED RESOLUTIONS
+
+```
+                         SUBMITTED RESOLUTIONS
+
+                                 ______
+                                 
+
+SENATE RESOLUTION 706--TO AUTHORIZE TESTIMONY AND LEGAL REPRESENTATION 
+               IN PETER BERGEL V. PACIFIC GAS & ELECTRIC
+
+  Mr. REID (for himself and Mr. McConnell) submitted the following 
+resolution; which was considered and agreed to:
+
+                              S. Res. 706
+
+       Whereas, in the case of Peter Bergel v. Pacific Gas & 
+     Electric, No. 0712-15723, pending in Multnomah County Circuit 
+     Court in Portland, Oregon, the defendant has requested 
+     testimony from Denise Racanelli, an employee in the office of 
+     Senator Gordon Smith;
+       Whereas, pursuant to sections 703(a) and 704(a)(2) of the 
+     Ethics in Government Act of 1978, 2 U.S.C. Sec. Sec. 288b(a) 
+     and 288c(a)(2), the Senate may direct its counsel to 
+     represent employees of the Senate with respect to any 
+     subpoena, order, or request for testimony relating to their 
+     official responsibilities;
+       Whereas, by the privileges of the Senate of the United 
+     States and Rule XI of the Standing Rules of the Senate, no 
+     evidence under the control or in the possession of the Senate 
+     may, by the judicial or administrative process, be taken from 
+     such control or possession but by permission of the Senate;
+       Whereas, when it appears that evidence under the control or 
+     in the possession of the Senate may promote the 
+     administration of justice, the Senate will take such action 
+     as will promote the ends of justice consistent with the 
+     privileges of the Senate: Now, therefore, be it
+       Resolved, That Denise Racanelli is authorized to testify in 
+     the case of Peter Bergel v. Pacific Gas & Electric, except 
+     concerning matters for which a privilege should be asserted.
+       Sec. 2. The Senate Legal Counsel is authorized to represent 
+     Denise Racanelli in connection with the testimony authorized 
+     in section one of this resolution.
+
+                          ____________________
+```
