@@ -1,0 +1,46 @@
+---
+granule: CREC-2008-11-20-pt1-PgS10681-6
+date: 2008-11-20
+edition: CREC
+section: SENATE
+page: S10681
+citation: 154 Cong. Rec. S10681
+---
+
+# SCHEDULE
+
+**Speaking:** Reid, Harry (R000146) [D-NV]
+
+**Measures:** H.R. 6867
+
+```
+                                SCHEDULE
+
+  Mr. REID. Mr. President, following leader remarks the Senate will 
+proceed to a period of morning business. Senators will be allowed to 
+speak for up to 10 minutes each.
+  Following morning business, the Senate will resume the motion to 
+proceed to H.R. 6867, which is the emergency unemployment compensation 
+legislation. Yesterday, cloture was filed on that motion to proceed to 
+the measure. Senators will be notified when a vote is scheduled. 
+Senators should be prepared for a rollcall vote today--or maybe votes.
+  We are in a situation where we do not know, procedurally, what we are 
+going to be able to accomplish today. This doesn't ripen until 
+tomorrow. So we could pass unemployment compensation legislation today, 
+to give relief to people who are desperately in need of these checks. 
+But we may not be able to do that until tomorrow. We hope that at least 
+on this measure we would be able to get consent to pass this.
+  After that, we have some procedural roadblocks. I have spoken to a 
+number of Senators today. Of course, the desire is we complete all of 
+our actions until we come back on January 6, but that may not be 
+possible. We have the Thanksgiving recess. I have had calls from staff 
+and Senators. They are having trouble making new arrangements, if, in 
+fact, we have any to be made. So it may be necessary that we come back 
+after Thanksgiving. I have not had an opportunity to converse with my 
+Republican counterpart, but I will do that. I have a meeting scheduled 
+later today with the Speaker.
+  Everyone stay tuned, and we will do the very best we can to let 
+Senators know where we are at any given time.
+
+                          ____________________
+```
