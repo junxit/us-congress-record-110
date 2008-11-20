@@ -1,0 +1,41 @@
+---
+granule: CRECB-2008-pt18-Pg24382-3
+date: 2008-11-20
+edition: CRECB
+section: SENATE
+page: 24382
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                            FOREIGN SERVICE
+
+       THE FOLLOWING-NAMED CAREER MEMBER OF THE FOREIGN SERVICE OF 
+     THE INTERNATIONAL BROADCASTING BUREAU FOR PROMOTION INTO THE 
+     SENIOR FOREIGN SERVICE TO THE CLASSES INDICATED:
+
+       CAREER MEMBER OF THE SENIOR FOREIGN SERVICE, CLASS OF 
+     COUNSELOR, AND CONSULAR OFFICER AND SECRETARY IN THE 
+     DIPLOMATIC SERVICE OF THE UNITED STATES OF AMERICA:
+
+DAVID J. STRAWMAN, OF ILLINOIS
+
+
+                              IN THE ARMY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES ARMY TO THE GRADE INDICATED UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                          To be major general
+
+BRIG. GEN. JAMES E. ROGERS
+
+                          ____________________
+```

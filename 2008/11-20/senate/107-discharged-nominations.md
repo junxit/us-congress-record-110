@@ -1,0 +1,103 @@
+---
+granule: CRECB-2008-pt18-Pg24382-4
+date: 2008-11-20
+edition: CRECB
+section: SENATE
+page: 24382
+---
+
+# DISCHARGED NOMINATIONS
+
+```
+                         DISCHARGED NOMINATIONS
+
+  The Senate Committee on Foreign Relations was discharged from further 
+consideration of the following nominations and the nominations were 
+confirmed:
+
+       FOREIGN SERVICE NOMINATIONS BEGINNING WITH ASIF J. CHAUDHRY 
+     AND ENDING WITH ALAN D. HRAPSKY, WHICH NOMINATIONS WERE 
+     RECEIVED BY THE SENATE AND APPEARED IN THE CONGRESSIONAL 
+     RECORD ON NOVEMBER 17, 2008.
+
+  The Senate Committee on Commerce, Science, and Transportation was 
+discharged from further consideration of the following nomination and 
+the nomination was confirmed:
+
+       COAST GUARD NOMINATIONS BEGINNING WITH CAPTAIN JOHN H. KORN 
+     AND ENDING WITH CAPTAIN MICHAEL N. PARKS, WHICH NOMINATIONS 
+     WERE RECEIVED BY THE SENATE AND APPEARED IN THE CONGRESSIONAL 
+     RECORD ON SEPTEMBER 9, 2008.
+
+  The Senate Committee on Commerce, Science, and Transportation was 
+discharged from further consideration of the following nominations and 
+the nominations were confirmed:
+
+       NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION NOMINATIONS 
+     BEGINNING WITH KYLE W. RYAN AND ENDING WITH RYAN A. WARTICK, 
+     WHICH NOMINATIONS WERE RECEIVED BY THE SENATE AND APPEARED IN 
+     THE CONGRESSIONAL RECORD ON OCTOBER 1, 2008.
+
+       NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION NOMINATIONS 
+     BEGINNING WITH ANDREW R. COLEGROVE AND ENDING WITH FAITH C. 
+     OPATRNY, WHICH NOMINATIONS WERE RECEIVED BY THE SENATE AND 
+     APPEARED IN THE CONGRESSIONAL RECORD ON OCTOBER 1, 2008.
+
+  The Senate Committee on the Judiciary was discharged from further 
+consideration of the following nomination and the nomination was 
+confirmed:
+
+       RICARDO H. HINOJOSA, OF TEXAS, TO BE A MEMBER OF THE UNITED 
+     STATES SENTENCING COMMISSION FOR A TERM EXPIRING OCTOBER 31, 
+     2013.
+
+  The Senate Committee on Foreign Relations was discharged from further 
+consideration of the following nomination and the nomination was 
+confirmed:
+
+       GENE ALLAN CRETZ, OF NEW YORK, A CAREER MEMBER OF THE 
+     SENIOR FOREIGN SERVICE, CLASS OF COUNSELOR, TO BE AMBASSADOR 
+     EXTRAORDINARY AND PLENIPOTENTIARY OF THE UNITED STATES OF 
+     AMERICA TO LIBYA.
+
+  The Senate Committee on Health, Education, Labor, and Pensions was 
+discharged from further consideration of the following nominations and 
+the nominations were confirmed:
+
+       DOUGLAS D. RANDALL, OF MISSOURI, TO BE A MEMBER OF THE 
+     NATIONAL SCIENCE BOARD, NATIONAL SCIENCE FOUNDATION, FOR A 
+     TERM EXPIRING MAY 10, 2014.
+       RAY M. BOWEN, OF TEXAS, TO BE A MEMBER OF THE NATIONAL 
+     SCIENCE BOARD, NATIONAL SCIENCE FOUNDATION, FOR A TERM 
+     EXPIRING MAY 10, 2014.
+       FRANCE A. CORDOVA, OF INDIANA, TO BE A MEMBER OF THE 
+     NATIONAL SCIENCE BOARD, NATIONAL SCIENCE FOUNDATION, FOR A 
+     TERM EXPIRING MAY 10, 2014.
+       G. P. PETERSON, OF COLORADO, TO BE A MEMBER OF THE NATIONAL 
+     SCIENCE BOARD, NATIONAL SCIENCE FOUNDATION, FOR A TERM 
+     EXPIRING MAY 10, 2014.
+       BARBARA ERNST PREY, OF NEW YORK, TO BE A MEMBER OF THE 
+     NATIONAL COUNCIL ON THE ARTS FOR A TERM EXPIRING SEPTEMBER 3, 
+     2014.
+       PUBLIC HEALTH SERVICE NOMINATIONS BEGINNING WITH MATTHEW T. 
+     MCKENNA AND ENDING WITH JOHN I. YOUNG, WHICH NOMINATIONS WERE 
+     RECEIVED BY THE SENATE AND APPEARED IN THE CONGRESSIONAL 
+     RECORD ON OCTOBER 1, 2008.
+
+       PUBLIC HEALTH SERVICE NOMINATIONS BEGINNING WITH PAUL J. 
+     ANDREASON AND ENDING WITH ELAINE C. WOLFF, WHICH NOMINATIONS 
+     WERE RECEIVED BY THE SENATE AND APPEARED IN THE CONGRESSIONAL 
+     RECORD ON NOVEMBER 17, 2008.
+  The Senate Committee on Homeland Security and Governmental Affairs 
+was discharged from further consideration of the following nominations 
+and the nominations were confirmed:
+
+       ALFRED S. IRVING, JR., OF THE DISTRICT OF COLUMBIA, TO BE 
+     AN ASSOCIATE JUDGE OF THE SUPERIOR COURT OF THE DISTRICT OF 
+     COLUMBIA FOR THE TERM OF FIFTEEN YEARS.
+       KATHRYN A. OBERLY, OF THE DISTRICT OF COLUMBIA, TO BE AN 
+     ASSOCIATE JUDGE OF THE DISTRICT OF COLUMBIA COURT OF APPEALS 
+     FOR THE TERM OF FIFTEEN YEARS.
+
+                          ____________________
+```
