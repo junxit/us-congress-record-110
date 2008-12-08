@@ -1,0 +1,42 @@
+---
+granule: CREC-2008-12-08-pt1-PgS10801-2
+date: 2008-12-08
+edition: CREC
+section: SENATE
+page: S10801
+citation: 154 Cong. Rec. S10801
+---
+
+# 67TH ANNIVERSARY OF PEARL HARBOR
+
+**Speaking:** Akaka, Daniel K. (A000069) [D-HI]
+
+```
+                    67TH ANNIVERSARY OF PEARL HARBOR
+
+  Mr. AKAKA. Mr. President, yesterday, December 7, 2008, was the 67th 
+anniversary of the attack on Pearl Harbor in which more than 2,400 
+courageous sailors, soldiers, and marines died. To those in Hawaii who, 
+like me, witnessed the attack, the events of 67 years ago have a deep 
+personal significance. I will never forget the courage and commitment 
+of the soldiers, sailors, and ordinary men and women who did not 
+hesitate to defend our Nation despite the enormous personal risk. For 
+all Americans, young and old, it is important to remember that out of 
+this dark hour arose the courage and strength of a unified Nation. I 
+honor the memories of all the survivors of the attack as well as the 
+fallen heroes who fought to defend our Nation's principles of democracy 
+and freedom that day.
+  This year, with so many of our troops serving overseas, I would also 
+like recognize our armed services families by honoring the sacrifices 
+of those who lost loved ones during the attack on Pearl Harbor. Our 
+Nation owes these family members a debt of gratitude for their strength 
+and perseverance during such a grievous time. I want to thank all the 
+members of our armed forces--those that served in World War II, all 
+those that have served since, and those who still serve today. Your 
+daily sacrifices protect and strengthen our country and allow us to 
+enjoy the freedoms symbolic of the United States. Your courageous and 
+dedicated efforts humble me, and may God bless you and your families as 
+together we remember Pearl Harbor.
+
+                          ____________________
+```

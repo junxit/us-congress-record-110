@@ -1,0 +1,45 @@
+---
+granule: CREC-2008-12-08-pt1-PgS10801
+date: 2008-12-08
+edition: CREC
+section: SENATE
+page: S10801
+citation: 154 Cong. Rec. S10801
+---
+
+# HONORING OUR ARMED FORCES
+
+**Speaking:** Hagel, Chuck (H001028) [R-NE]
+
+```
+                       HONORING OUR ARMED FORCES
+
+
+                        Captain Robert Yllescas
+
+  Mr. HAGEL. Mr. Presdient, I wish to express my sympathy over the loss 
+of U.S. Army captain Robert Yllescas. Captain Yllescas, a native 
+Guatemalan and graduate of the University of Nebraska-Lincoln, died on 
+December 1 from injuries he sustained from an improvised explosive 
+device in the mountains of Afghanistan on October 28. He was 31 years 
+old.
+  After spending the first 18 years of his life in Guatemala, Captain 
+Yllescas moved to Nebraska, where he enrolled in the University of 
+Nebraska-Lincoln and joined the ROTC. He married his wife Dena in her 
+hometown of Osceola, NE. A graduate of Army Ranger school, Captain 
+Yllescas' service included two tours of duty in Iraq and one in 
+Afghanistan, where he proved to be an exemplary leader. As the 
+commander of B Troop, 6-4 Cavalry of the 3rd Brigade, 1st Infantry 
+Division, he led 90 U.S. and 200 Afghan soldiers in Nuristan province. 
+He was awarded the Purple Heart by President Bush on November 10.
+  All of Nebraska is proud of Captain Yllescas' service to our country, 
+as well as the thousands of brave men and women serving in the U.S. 
+Armed Forces.
+  Captain Yllescas is remembered as a devoted husband, father, and son. 
+In addition to his wife Dena, he is survived by his daughters, Julia, 
+7, and Eva, 10 months; and parents Otto and Barb.
+  I ask my colleagues to join me and all Americans in honoring U.S. 
+Army CPT Robert Yllescas.
+
+                          ____________________
+```
