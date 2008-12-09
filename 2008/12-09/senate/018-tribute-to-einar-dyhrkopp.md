@@ -1,0 +1,128 @@
+---
+granule: CREC-2008-12-09-pt1-PgS10826
+date: 2008-12-09
+edition: CREC
+section: SENATE
+page: S10826
+citation: 154 Cong. Rec. S10826
+---
+
+# TRIBUTE TO EINAR DYHRKOPP
+
+**Speaking:** Durbin, Richard J. (D000563) [D-IL], Reid, Harry (R000146) [D-NV]
+
+```
+                       TRIBUTE TO EINAR DYHRKOPP
+
+  Mr. DURBIN. Madam President, this past Saturday, 1 day before the 
+75th anniversary of the attack on Pearl Harbor, a survivor of a 
+different World War II kamikaze bombing died quietly at his home in 
+Shawneetown, IL, at the age of 82.
+
+[[Page S10827]]
+
+  Einar Dyhrkopp, business leader, public servant, and patriot, was a 
+19-year-old Navy firefighter assigned to the bowels of the USS Aaron 
+Ward when the destroyer-minelayer was attacked by 25 kamikaze bombers 
+in the battle for Okinawa.
+  In the years after World War II, Gen. George C. Marshall was asked if 
+America had any secret weapons to win that conflict. General Marshall 
+replied, yes, we do, ``the best darn kids in the world.'' Einar was 
+just the kind of kid General Marshall was talking about. About 365 men 
+were assigned to the USS Aaron Ward; 42 of them burned to death or were 
+lost overboard in the 52-minute battle on May 3, 1945. Einar was one of 
+the lucky ones: he survived the attack, although his hair was burned to 
+his scalp as he fought to douse the ship's flames.
+  When the war ended, Einar came home like so many World War II vets, 
+found new ways to serve his country. He married Frances, and they had a 
+son. He was a banker, a business leader, a livestock and grain farmer 
+in southern Illinois, and a great politician. He was elected mayor of 
+Shawneetown, IL, where he was born and lived his entire life. He was a 
+self-described ``dyed in the wool'' Democrat. He was respected and 
+admired by people from both political parties.
+  He was also a dedicated public servant. In 1993, Einar Dyhrkopp was 
+appointed by President Bill Clinton to the U.S. Postal Service Board of 
+Governors and served two terms as the Chairman. During his tenure, the 
+Postal Service experienced an unprecedented 5 straight years of 
+positive net income. It also enhanced service and increased its ontime 
+delivery rate for next-day delivery to 94 percent. He cared about the 
+Postal Service's bottom line and its customers. He talked to me so many 
+times about issues related to the Postal Service. He cared about the 
+workers there too. He once invited picketing postal workers in for 
+coffee and cinnamon rolls and, after talking with them, answered all of 
+their questions. He visited countless postal facilities, asking 
+employees what we can do to make their job better and make our services 
+better in the Postal Service. In 2003, the post office in his beloved 
+Shawneetown was rededicated and renamed in his honor. Einar had tears 
+in his eyes as the tributes were read.
+  Mr. Dyhrkopp also served on several Illinois State commissions and 
+was a member of the Regional Advisory Board of Southern Illinois 
+University Public Policy Institute.
+  There was the one curious political chapter in his life. In 1986, 
+Einar Dyhrkopp ran what he called a noncampaign for the U.S. Senate. He 
+ran on the Illinois Solidarity Party slate, a roster of statewide 
+candidates put together by Adlai Stevenson III. Mr. Stevenson, son of 
+the two-time Democratic Presidential candidate, had won the Democratic 
+nomination for Governor, but that primary had been raided by the 
+LaRouche party. He abandoned the Democratic Party ticket after two 
+disciples of the extremist Lyndon LaRouche won slots on the Democratic 
+slate in a disastrous primary election. Mr. Stevenson said he could not 
+in good conscience share a ticket with people whose views he found so 
+objectionable. State law required that the new Illinois Solidarity 
+Party field a whole slate of statewide candidates, not just the 
+gubernatorial candidate. So Einar stepped up and agreed to be the new 
+party's nominee for U.S. Senate.
+  What a crazy campaign. Mr. Dyhrkopp did not accept a single penny in 
+campaign contributions. He did not spend a dollar or make one speech. 
+He did not even vote for himself, announcing he was going to cast his 
+ballot for his friend, the incumbent, Senator Alan Dixon. As one 
+political writer put it, his strategy was ``not to leave the house 
+until the election was over so he wouldn't draw attention or votes away 
+from Senator . . . Dixon.'' Despite his best efforts to avoid the 
+voters, Einar ended up with 15,000 votes. That is the kind of man he 
+was--hard not to like. As my friend Paul Simon said some years ago, 
+``Einar Dyhrkopp represents responsible citizenship at its best. He has 
+aided his community and provided leadership on the State and national 
+scene. He has gone out of his way to help those who need assistance.''
+  For years after the bombing of the USS Aaron Ward, Einar did not talk 
+about the attack. He told a reporter, ``When you go through something 
+like we went through together, almost everyone wants to get it out of 
+their minds the first few years.'' Later in life, he changed his mind. 
+He became active in a group of survivors of the Aaron Ward attack. He 
+was interviewed by Southern Illinois University's public broadcasting 
+stations in conjunction with the broadcast of ``The War,'' by Ken 
+Burns, a documentary on World War II. He told a reporter that his 
+change of heart was simply because ``[w]e do not want the experience 
+lost. If you lose history, you're destined to repeat it.''
+  America's history might have taken a far different and darker course 
+had Einar Dyhrkopp and millions of others of ``the best darned kids in 
+the world'' not sacrificed and served in that conflict and had they not 
+come back home to serve their Nation in other ways for decades more.
+  He was a good man who gave much to his community, much to my State of 
+Illinois, and much to America. Last Friday, at the urging of some 
+friends who told me he was seriously ill, I called his home. Frances 
+answered the phone, and I told her who I was. I said I thought I would 
+say a word or two to Einar if he can take the call. Well, she said, I 
+am not sure he can talk to you. I did not know how sick he was. And she 
+leaned over, and I could overhear her saying: Einar, it is Senator 
+Durbin. The next think I knew, Einar was on the phone. We only chatted 
+for a minute or two. We talked about the great times we had together, 
+about that wonderful man, Paul Simon, who inspired us all to get 
+involved in public life.
+  He said: I think this is the end for me.
+  I said: You have had a good run at it, Einar. You have been with some 
+great people, and you have been a great friend.
+  Those were our last words. He died the following day.
+  I offer my sympathy to Mr. Dyhrkopp's wife Frances, their family, 
+including their three grandchildren, and so many friends in southern 
+Illinois. Einar Dyhrkopp will be missed.
+  I yield the floor, and I suggest the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The assistant legislative clerk proceeded to call the roll.
+  Mr. REID. I ask unanimous consent that the order for the quorum call 
+be rescinded.
+  The PRESIDING OFFICER (Mr. Salazar). Without objection, it is so 
+ordered.
+
+                          ____________________
+```
