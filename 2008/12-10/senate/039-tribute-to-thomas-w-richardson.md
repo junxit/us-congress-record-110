@@ -1,0 +1,75 @@
+---
+granule: CRECB-2008-pt18-Pg24557-2
+date: 2008-12-10
+edition: CRECB
+section: SENATE
+page: 24557
+---
+
+# TRIBUTE TO THOMAS W. RICHARDSON
+
+```
+                    TRIBUTE TO THOMAS W. RICHARDSON
+
+● Mr. COCHRAN. Madam President, Mr. Thomas W. Richardson of the 
+U.S. Army Corps of Engineers will soon retire with over 37 years of 
+exceptional service to the U.S. Army Corps of Engineers. He is member 
+of the Senior Executive Service and is the Director of Corps' Engineer 
+Research and Development Center Coastal Hydraulic Laboratory. His 
+accomplishments and dedication to the Corps of Engineers' laboratory 
+community and the Army are exceptional and will have a significant and 
+long lasting positive impact on this Nation.
+  Following 3 years of service as a lieutenant in the U.S. Army Corps 
+of Engineers, Mr. Richardson began his Army civilian career in 1974 as 
+a research hydraulic engineer at the U.S. Army Engineer Waterways 
+Experiment Station, in Vicksburg, MS. Through the 1970s and early 1980s 
+he was a principal investigator for research studies on dredging 
+systems for beach nourishment for offshore sources and an assistant 
+investigator on a research study to develop new systems for bypassing 
+sand past tidal inlets. During this time he designed and constructed 
+the world's first portable, land-based hydraulic sand bypassing system, 
+which was delivered to the Corps of Engineers North Central Division as 
+an operational plant. A systematic approach became available to address 
+a major national concern with both economic and strategic aspects; that 
+of bypassing sand to preserve beaches and to maintain harbor channels.
+  In 1983, Mr. Richardson became chief of the coastal structures and 
+evaluation branch, Coastal Engineering Research Center where he 
+supervised 16 researchers specializing in functional design and 
+performance of coastal structures, dredging and sand bypassing systems, 
+geomorphic evaluation, and empirical design methods for coastal 
+projects. From branch chief he quickly moved up to division chief in 
+1985 and served in that capacity for 14 years, first as chief of the 
+Engineering Development Division and then as the Chief of the Coastal 
+Sediments and Engineering Division. He directed numerous comprehensive 
+research and development investigations, and studies of coastal 
+processes, sediment transport, shoreline change modeling, beach fill 
+design methods, prototype systems design and development, and 
+functional design of coastal projects. Notably, he developed general 
+technical approaches and R&D programs that produced the extraordinarily 
+successful and patented CORE-LOC concrete armor unit and the Scanning 
+Hydrographic Operational Airborne LIDAR Survey--SHOALS--system.
+  Mr. Richardson assumed the duties of acting assistant lab director in 
+January 2000. In June of that same year, he was elevated to acting 
+director, CHL. Mr. Richardson joined the Senior Executive Service in 
+March 2002 upon becoming director of the CHL.
+  Under the leadership of Mr. Richardson, the Coastal and Hydraulics 
+Laboratory directly supported the Army transformation, civil works 
+strategic plan, global war on terrorism operations, and high priority 
+civil works operations. In addition, CHL addressed critical levee 
+issues for the Department of Homeland Security by developing a unique 
+system to rapidly repair breaches in levees caused by natural phenomena 
+or terrorist attack.
+  Throughout his career, Tom Richardson has demonstrated a profound 
+commitment to the Army, the Corps of Engineers, and the Nation. He is a 
+consummate professional whose performance in over 37 years of service 
+has personified those traits of competency and integrity that our 
+Nation has come to expect of its senior civilian leaders. I 
+congratulate Mr. Richardson on his distinguished service to the U.S. 
+Army and the Nation.●
+
+[[Page 24558]]
+
+
+
+                          ____________________
+```

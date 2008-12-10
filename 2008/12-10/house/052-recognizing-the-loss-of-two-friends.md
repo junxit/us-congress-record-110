@@ -1,0 +1,105 @@
+---
+granule: CRECB-2008-pt18-Pg24648-2
+date: 2008-12-10
+edition: CRECB
+section: HOUSE
+page: 24648
+---
+
+# RECOGNIZING THE LOSS OF TWO FRIENDS
+
+```
+                  RECOGNIZING THE LOSS OF TWO FRIENDS
+
+  The SPEAKER pro tempore (Mr. Cummings). Under a previous order of the 
+House, the gentleman from Texas (Mr. Lampson) is recognized for 5 
+minutes.
+  Mr. LAMPSON. It is a pleasure to stand before this auspicious body 
+yet again and express my farewell and make notice of the kind words so 
+many of my colleagues made about me and my service. It has been a 
+privilege to serve in the U.S. House of Representatives.
+  On this night, I would recognize the death of two friends of mine who 
+provided significant service to the people of southeast Texas.
+  The electrical workers contracting industry lost a tremendous 
+ambassador and friend when Charles M. ``Charlie'' LeBlanc died suddenly 
+on Thursday, August 21. Charlie served admirably as the long-time 
+governor of the southeast chapter of NECA. He formed relationships at 
+the local, State, and national level that were very instrumental in 
+benefiting not only NECA, but all of our associated industry partners 
+and friends.
+  Charlie LeBlanc's career in the electrical industry began in 1970 
+when he became indentured as an apprentice in Beaumont, Texas. Charlie 
+accepted employment around this time with Gold Crest Electric Company 
+and formed a
+
+[[Page 24649]]
+
+friendship with a co-worker, Wayne Brockett, that would transform into 
+a highly successful business partnership.
+  The two hardworking, industrious men formed Crown Electric Company in 
+1980. Charlie's natural charm and technical acumen was vital in the 
+continuing success of Crown Electric, Incorporated, and made him a 
+favorite with customers, general contractors, engineers, and 
+architects. Charlie's entrepreneurial spirit resulted in a company that 
+has contributed to his community and the electrical contracting 
+industry at large for over 20 years.
+  Crown Electric, Inc., became a NECA member in 1987, and Charlie 
+LeBlanc's service to the southeast Texas chapter was immediate, 
+continuous, and resounding. Charlie assumed a position in 1988 on the 
+Chapter Codes and Standards Committee, where he applied his technical 
+expertise for the next three years, and in 1990, Charlie was elected to 
+the chapter board of directors, where he continued to serve until his 
+passing. Charlie served with distinction as chapter treasurer from 1992 
+to 2000. And he served concurrently on the Chapter Manpower 
+Development, Membership, and Finance Committees. Charlie sacrificed a 
+great amount of his own personal time in his devotion to chapter 
+affairs.
+
+                              {time}  2130
+
+  In addition to service on the board of directors and committees, 
+Charlie served as division chairman of the Coastal Sabine Division for 
+4 years and has served on every negotiating committee from 1996 to 
+present. Charlie served as trustee on the Greater Texas IBEW-NECA 
+Annuity Fund from 1999 to 2004; trustee on the Southeast Texas Benefit 
+Trust from 1998 to 2008; the Coastal Sabine Labor Management 
+Cooperative Committee from 2001 to 2008; and Charlie served 
+continuously on the Local Union 479 JATC from 1988 to 2008. Charlie's 
+compassionate but firm leadership, especially on the Apprenticeship 
+Committee, has had a profound and lasting effect on generations of 
+apprentices and has left an indelibly positive mark on our industry's 
+most important resource.
+  His service at the national level began with his appointment to the 
+District V Apprenticeship Committee in 1997. Charlie understood the 
+importance of political action and was selected to serve on the NECA 
+National Governmental Affairs Committee from 2000 to 2001 and again in 
+2008. Most important to the chapter, Charlie assumed the role of 
+Governor in 2001 and was an extremely effective and well-liked NECA 
+ambassador at all levels of our industry. Charlie applied his boundless 
+energy, infinite patience, and genuine caring and keen instincts to the 
+service of our industry.
+  Charlie LeBlanc managed to devote himself to civic service in the 
+City of Beaumont; service that is important not only to the 
+beneficiaries themselves but to the positive perception of our 
+customers, community leaders, and the IBEW. Charlie served with 
+distinction in the past on the City of Beaumont Electrical Board and 
+the City of Beaumont Board of Electrical Inspectors. Charlie served on 
+the board of directors of the Southeast Texas AGC. He provided service 
+to the Young Men's Business League and served on the board of directors 
+of Boy's Haven, an outreach program designed to benefit disenfranchised 
+youth.
+  Charlie LeBlanc will be terribly missed by all who were privileged to 
+know him.
+  And Charles ``Chuck'' Wilson, who was the tax assessor/collector for 
+16 years of Galveston County, Texas, Chuck died the night before last. 
+He was a very dear friend, one who had many friends across southeast 
+Texas and in the profession of property tax assessors and collectors 
+across the State of Texas, and he too will be missed. His family loved 
+him and he was known and loved by many.
+  It has been a privilege to stand before the body of the United States 
+House of Representatives for 10 years. I am wishing my friends and 
+colleagues a farewell and Godspeed on the business of the United States 
+of America. I wish them well.
+
+                          ____________________
+```

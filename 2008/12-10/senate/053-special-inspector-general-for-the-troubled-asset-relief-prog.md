@@ -1,0 +1,149 @@
+---
+granule: CRECB-2008-pt18-Pg24563
+date: 2008-12-10
+edition: CRECB
+section: SENATE
+page: 24563
+---
+
+# SPECIAL INSPECTOR GENERAL FOR THE TROUBLED ASSET RELIEF PROGRAM ACT OF 2008
+
+```
+SPECIAL INSPECTOR GENERAL FOR THE TROUBLED ASSET RELIEF PROGRAM ACT OF 
+                                  2008
+
+  Mr. DURBIN. Madam President, I ask unanimous consent that the Senate 
+proceed to the immediate consideration of S. 3731, introduced earlier 
+today by Senator McCaskill.
+  The PRESIDING OFFICER. The clerk will report the bill by title.
+  The assistant legislative clerk read as follows:
+
+       A bill (S. 3731) to amend the Emergency Economic 
+     Stabilization Act of 2008 (division A of Public Law 110-343) 
+     to provide the Special Inspector General with additional 
+     authorities and responsibilities, and for other purposes.
+
+  There being no objection, the Senate proceeded to consider the bill.
+  Mr. DURBIN. Madam President, I ask unanimous consent that the bill be 
+read three times and passed, the motion to reconsider be laid upon the 
+table, with no intervening action or debate, and any statements related 
+to the bill be printed in the Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The bill (S. 3731) was ordered to be engrossed for a third reading, 
+was read the third time, and passed, as follows:
+
+                                S. 3731
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Special Inspector General 
+     for the Troubled Asset Relief Program Act of 2008''.
+
+     SEC. 2. AUDIT AND INVESTIGATION AUTHORITIES.
+
+       Section 121 of the Emergency Economic Stabilization Act of 
+     2008 (division A of Public Law 110-343) is amended--
+       (1) in subsection (c), by adding at the end the following:
+       ``(4)(A) Except as provided under subparagraph (B) and in 
+     addition to the duties specified in paragraphs (1), (2), and 
+     (3), the Special Inspector General shall have the authority 
+     to conduct, supervise, and coordinate an audit or 
+     investigation of any action taken under this title as the 
+     Special Inspector General determines appropriate.
+       ``(B) Subparagraph (A) shall not apply to any action taken 
+     under section 115, 116, 117, or 125.''; and
+       (2) in subsection (d)(2), by striking ``subsection (c)(1)'' 
+     and inserting ``subsection (c)(1) and (4)''.
+
+     SEC. 3. PERSONNEL AUTHORITIES.
+
+       Section 121(e)(1) of the Emergency Economic Stabilization 
+     Act of 2008 (division A of Public Law 110-343) is amended--
+       (1) by inserting ``(A)'' after ``(1)''; and
+       (2) by adding at the end the following:
+       ``(B)(i) Subject to clause (ii), the Special Inspector 
+     General may exercise the authorities of subsections (b) 
+     through (i) of section 3161 of title 5, United States Code 
+     (without regard to subsection (a) of that section).
+       ``(ii) In exercising the employment authorities under 
+     subsection (b) of section 3161 of title 5, United States 
+     Code, as provided under clause (i) of this subparagraph--
+       ``(I) the Special Inspector General may not make any 
+     appointment on and after the date occurring 6 months after 
+     the date of enactment of the Special Inspector General for 
+     the Troubled Asset Relief Program Act of 2008;
+       ``(II) paragraph (2) of that subsection (relating to 
+     periods of appointments) shall not apply; and
+       ``(III) no period of appointment may exceed the date on 
+     which the Office of the Special Inspector General terminates 
+     under subsection (j).''.
+
+     SEC. 4. RESPONSE TO AUDITS AND COOPERATION AND COORDINATION 
+                   WITH OTHER ENTITIES.
+
+       Section 121 of the Emergency Economic Stabilization Act of 
+     2008 (division A of Public Law 110-343) is amended--
+       (1) by redesignating subsections (f), (g), and (h) as 
+     subsections (h), (i), and (j), respectively; and
+       (2) by inserting after subsection (e) the following:
+       ``(f) Corrective Responses to Audit Problems.--The 
+     Secretary shall--
+       ``(1) take action to address deficiencies identified by a 
+     report or investigation of the Special Inspector General or 
+     other auditor engaged by the TARP; or
+       ``(2) certify to appropriate committees of Congress that no 
+     action is necessary or appropriate.
+       ``(g) Cooperation and Coordination With Other Entities.--In 
+     carrying out the duties, responsibilities, and authorities of 
+     the Special Inspector General under this section, the Special 
+     Inspector General shall work with each of the following 
+     entities, with a view toward avoiding duplication of effort 
+     and ensuring comprehensive oversight of the Troubled Asset 
+     Relief Program through effective cooperation and 
+     coordination:
+       ``(1) The Inspector General of the Department of Treasury.
+       ``(2) The Inspector General of the Federal Deposit 
+     Insurance Corporation.
+       ``(3) The Inspector General of the Securities and Exchange 
+     Commission.
+       ``(4) The Inspector General of the Federal Reserve Board.
+       ``(5) The Inspector General of the Federal Housing Finance 
+     Board.
+       ``(6) The Inspector General of any other entity as 
+     appropriate.''.
+
+     SEC. 5. REPORTING REQUIREMENTS.
+
+       Section 121(h) of the Emergency Economic Stabilization Act 
+     of 2008 (division A of Public Law 110-343), as redesignated 
+     by this Act, is amended--
+       (1) by redesignating paragraphs (2) and (3) as paragraphs 
+     (3) and (4), respectively;
+       (2) by inserting after paragraph (1) the following:
+       ``(2) Not later than July 1, 2009, the Special Inspector 
+     General shall submit a report to Congress analyzing the use 
+     of any funds received by a financial institution under the 
+     TARP and make the report available to the public, including 
+     posting the report on the home page of the website of the the 
+     Special Inspector General within 24 hours after the 
+     submission of the report.''; and
+       (3) by adding at the end the following:
+       ``(5) Except as provided under paragraph (3), all reports 
+     submitted under this subsection shall be available to the 
+     public.''.
+
+     SEC. 6. FUNDING OF THE OFFICE OF THE SPECIAL INSPECTOR 
+                   GENERAL.
+
+       Section 121(i)(1) of the Emergency Economic Stabilization 
+     Act of 2008 (division A of Public Law 110-343), as 
+     redesignated by this Act, is amended by inserting before the 
+     period at the end the following: ``, not later than 7 days 
+     after the date on which the nomination of the Special 
+     Inspector General is first confirmed by the Senate''.
+
+                          ____________________
+```
