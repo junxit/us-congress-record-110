@@ -1,0 +1,64 @@
+---
+granule: CREC-2008-12-11-pt1-PgS10932
+date: 2008-12-11
+edition: CREC
+section: SENATE
+page: S10932
+citation: 154 Cong. Rec. S10932
+---
+
+# A BRIGHTER FUTURE
+
+**Speaking:** Boxer, Barbara (B000711) [D-CA]
+
+```
+                           A BRIGHTER FUTURE
+
+  Mrs. BOXER. Madam President, change is on the way, but it didn't get 
+here tonight. The American people said they wanted change in the 
+Senate, but it is not here yet. I think it was proven tonight by this 
+vote. The American people will see who stands with the middle class of 
+this country and who doesn't, who cares about working people and who 
+doesn't by this vote tonight. Anyone could have picked a number of 
+reasons for voting no tonight, but as far as I am concerned, with this 
+economy in crisis, we should have voted yes.
+  All I wish to say is we are going through tough times and tomorrow 
+things are going to be a whole lot tougher for a whole lot of people, 
+unless Henry Paulson does the right thing. I wish to say to my 
+colleagues, Senator Levin and Senator Stabenow--I know they are headed 
+out, which is fine--that I am going to work as hard as I can to 
+convince the Treasury Secretary to take action to save these 3 million 
+jobs that could be on the line.
+  People played Russian roulette with this recession tonight. We don't 
+know what is going to happen, but we do know that Hank Paulson can save 
+these jobs. If he can save all those jobs in the white-collar industry, 
+certainly he can save some jobs in the blue-collar industries. Everyone 
+knows I have had problems with Detroit. I think the fact that they 
+didn't listen to those of us who felt they ought to produce clean cars 
+and fuel-efficient cars, the fact that they didn't listen to us led to, 
+in many ways, the problems they face. To lose our manufacturing base, 
+without even a helping hand to try and save it tonight, is shocking.
+  So, in closing, I wish to say I have a heavy heart right now. I have 
+200,000 workers in my State, second only to Detroit, who depend on a 
+thriving auto industry. That is 200,000 families, frightened tonight, 
+but I have a message for them: HELP is on the way. Change is on the 
+way. Change is coming to this Chamber. We are going to have people who 
+are here for the right reason--what I consider the right reason--which 
+is fighting for the middle class, fighting to make sure we have a clean 
+environment, a strong economy, educated kids, peace in the world, all 
+those things. That is what the election was about. This is a lameduck 
+Senate, and they acted like a lameduck Senate. It is too bad. But we 
+did get a majority vote, so the message to Mr. Paulson is: Listen to 
+that. More than 51 people here voted to give a chance with a bridge 
+loan, so I hope, Mr. Paulson, you are watching this, and I hope you 
+will do it. Then, when we have our new President and our new Senate and 
+our new House, we can get back to work.
+  I see Senator Durbin is on the floor and is about to speak. I wish to 
+thank him, Senator Dodd, and Senator Reid, all those who worked so hard 
+and those on the other side who tried--who actually tried--to do 
+something. So I yield the floor, with a heavy heart, but I know that 
+the future is going to be much brighter, much better.
+  The PRESIDING OFFICER. The Senator from Illinois is recognized.
+
+                          ____________________
+```
